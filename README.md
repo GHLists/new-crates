@@ -8,57 +8,45 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-04 15:18 UTC
+## Latest list — 2026-11-04 16:19 UTC
 
-New crates published between 2026-11-04 14:19 UTC and 2026-11-04 15:18 UTC.
+New crates published between 2026-11-04 15:18 UTC and 2026-11-04 16:19 UTC.
 
-[Full CSV](data/new-crates-2026-11-04T15-18-20-957943Z.csv)
+[Full CSV](data/new-crates-2026-11-04T16-19-49-178317Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-04 14:20:01 | [nanoglia-kernels](https://crates.io/crates/nanoglia-kernels) | 0.1.0 | 0 | Pure-Rust kernels of nanoglia, bit-exact with the TFLite reference kernels: sha… |
-| 2026-11-04 14:20:05 | [nanoglia-tflite](https://crates.io/crates/nanoglia-tflite) | 0.1.0 | 0 | Zero-copy, allocation-free and panic-free TensorFlow Lite model verifier and re… |
-| 2026-11-04 14:20:20 | [nanoglia](https://crates.io/crates/nanoglia) | 0.1.0 | 0 | Run TensorFlow Lite models loaded at runtime on microcontrollers: one no_std AP… |
-| 2026-11-04 14:23:02 | [figcraft-format](https://crates.io/crates/figcraft-format) | 0.5.1 | 0 | FigCraft native file format (.figcraft: zip of document.json + images), image i… |
-| 2026-11-04 14:23:48 | [fil-transport](https://crates.io/crates/fil-transport) | 0.0.1 | 0 | Placeholder for the fil remote shell (github.com/anthonytw/fil); first release… |
-| 2026-11-04 14:24:52 | [foundation_cloudflare_types](https://crates.io/crates/foundation_cloudflare_types) | 0.1.0 | 0 | Shared Cloudflare D1/R2 wire types for foundation_db and foundation_deployment_… |
-| 2026-11-04 14:25:00 | [foundation_reactor](https://crates.io/crates/foundation_reactor) | 0.0.1 | 0 | Shared I/O readiness reactor: epoll/kqueue/io_uring selector plus the Waker-cap… |
-| 2026-11-04 14:26:04 | [tor-bin-common](https://crates.io/crates/tor-bin-common) | 0.48.0 | 0 | Functionality shared among high-level arti binaries |
-| 2026-11-04 14:28:52 | [sight-launcher](https://crates.io/crates/sight-launcher) | 0.1.0 | 0 | A simple lightweight GTK4 application laucher for linux |
-| 2026-11-04 14:30:08 | [slopio-h2](https://crates.io/crates/slopio-h2) | 0.1.0 | 0 | HTTP/2 server and client with gRPC, for Linux, on the io_uring runtime slopio |
-| 2026-11-04 14:30:19 | [mahbot-rlx-gpu-host](https://crates.io/crates/mahbot-rlx-gpu-host) | 0.2.18-mahbot.1 | 0 | Backend-agnostic host-fallback kernels (D2H → CPU → H2D) shared by RLX GPU back… |
-| 2026-11-04 14:33:26 | [labguru-cli](https://crates.io/crates/labguru-cli) | 0.1.1 | 0 | lg: Labguru on the command line (projects, folders, experiments, and your own n… |
-| 2026-11-04 14:33:28 | [figcraft-layout](https://crates.io/crates/figcraft-layout) | 0.5.1 | 0 | FigCraft layout: auto layout (horizontal, vertical, wrap, grid; hug/fill/fixed)… |
-| 2026-11-04 14:33:52 | [fil-term](https://crates.io/crates/fil-term) | 0.0.1 | 0 | Placeholder for the fil remote shell (github.com/anthonytw/fil); first release… |
-| 2026-11-04 14:34:40 | [bytesreader](https://crates.io/crates/bytesreader) | 0.0.1 | 0 | A growable buffered reader backed by the bytes crate |
-| 2026-11-04 14:40:39 | [equ](https://crates.io/crates/equ) | 0.1.1 | 0 | A simple data package for Rust by w1n4a |
-| 2026-11-04 14:40:46 | [nanoglia-c](https://crates.io/crates/nanoglia-c) | 0.1.0 | 0 | C API of nanoglia: run TensorFlow Lite models loaded at runtime from C or C++,… |
-| 2026-11-04 14:40:48 | [mahbot-rlx-wgpu](https://crates.io/crates/mahbot-rlx-wgpu) | 0.2.18-mahbot.1 | 0 | Cross-platform GPU backend for RLX via wgpu (Metal/Vulkan/DX12) |
-| 2026-11-04 14:41:17 | [directories_xdg](https://crates.io/crates/directories_xdg) | 6.0.11 | 0 | A tiny mid-level library that provides platform-specific standard locations of… |
-| 2026-11-04 14:43:56 | [fil-predict](https://crates.io/crates/fil-predict) | 0.0.1 | 0 | Placeholder for the fil remote shell (github.com/anthonytw/fil); first release… |
-| 2026-11-04 14:44:22 | [figcraft-text](https://crates.io/crates/figcraft-text) | 0.5.1 | 0 | FigCraft text: font database (embedded craft-fonts + system fonts), shaping, li… |
-| 2026-11-04 14:46:48 | [nordisk-kernel-evidence](https://crates.io/crates/nordisk-kernel-evidence) | 0.1.0 | 0 | The schema'd evidence files of the nordisk kernel tooling (kernel needs, runtim… |
-| 2026-11-04 14:49:06 | [leftover](https://crates.io/crates/leftover) | 0.0.1 | 0 | A BufRead adapter for data spanning buffer boundaries |
-| 2026-11-04 14:49:24 | [jfp-contract](https://crates.io/crates/jfp-contract) | 0.1.0 | 0 | JFP v5.4.0 (JARO Flash Protocol) — text-frame IPC contract for plugin-based TUI… |
-| 2026-11-04 14:52:43 | [mahbot-rlx-runtime](https://crates.io/crates/mahbot-rlx-runtime) | 0.2.18-mahbot.1 | 0 | RLX runtime — feature-gated backends, session API, compile+execute pipeline |
-| 2026-11-04 14:53:59 | [fil-forward](https://crates.io/crates/fil-forward) | 0.0.1 | 0 | Placeholder for the fil remote shell (github.com/anthonytw/fil); first release… |
-| 2026-11-04 14:55:14 | [figcraft-render](https://crates.io/crates/figcraft-render) | 0.5.1 | 0 | FigCraft renderer: the scene graph to pixels on tiny-skia (fills, gradients, im… |
-| 2026-11-04 15:01:49 | [nino-serialization-derive](https://crates.io/crates/nino-serialization-derive) | 4.0.0-rc.8 | 0 | #[derive(NinoRead, NinoWrite)] for nino-serialization: the codecs Nino's genera… |
-| 2026-11-04 15:01:55 | [nino-serialization](https://crates.io/crates/nino-serialization) | 4.0.0-rc.8 | 0 | Reads and writes Nino's binary wire format (the bytes Nino v4 writes in .NET). |
-| 2026-11-04 15:01:55 | [mosha](https://crates.io/crates/mosha) | 0.2.0 | 0 | Browser-rendered website mirroring and hydration-aware editing |
-| 2026-11-04 15:05:13 | [mahbot-inference](https://crates.io/crates/mahbot-inference) | 0.2.18-mahbot.1 | 0 | MahBot inference: ear, recognition, synthesis and transcription, end to end, on… |
-| 2026-11-04 15:05:21 | [mrsf](https://crates.io/crates/mrsf) | 0.1.0 | 0 | Native Markdown Review Sidecar Format (MRSF/Sidemark) library |
-| 2026-11-04 15:06:33 | [oxidevm-bridge](https://crates.io/crates/oxidevm-bridge) | 0.1.0 | 0 | Process identity, native Linux programs and VM sockets for Rust programs runnin… |
-| 2026-11-04 15:08:00 | [figcraft-pdf](https://crates.io/crates/figcraft-pdf) | 0.5.1 | 0 | FigCraft PDF export (krilla): vector shapes, gradients, embedded images, aligne… |
-| 2026-11-04 15:08:32 | [figcraft-plugin](https://crates.io/crates/figcraft-plugin) | 0.5.1 | 0 | FigCraft plugins: the plugin manifest and the WebAssembly sandbox plugins run i… |
-| 2026-11-04 15:10:25 | [decode-zstd](https://crates.io/crates/decode-zstd) | 0.0.2 | 0 | A clean-room, public-domain zstd decoder, in safe Rust. |
-| 2026-11-04 15:10:29 | [decode-bzip2](https://crates.io/crates/decode-bzip2) | 0.0.2 | 0 | A clean-room, public-domain bzip2 decoder, in safe Rust. |
-| 2026-11-04 15:10:31 | [decode-deflate](https://crates.io/crates/decode-deflate) | 0.0.2 | 0 | A clean-room, public-domain Deflate decoder, in safe Rust (planned). |
-| 2026-11-04 15:10:33 | [decode-gzip](https://crates.io/crates/decode-gzip) | 0.0.2 | 0 | A clean-room, public-domain gzip decoder, in safe Rust (planned). |
-| 2026-11-04 15:10:36 | [decode-zlib](https://crates.io/crates/decode-zlib) | 0.0.2 | 0 | A clean-room, public-domain zlib decoder, in safe Rust (planned). |
-| 2026-11-04 15:10:40 | [octofhir-canonical-core](https://crates.io/crates/octofhir-canonical-core) | 0.2.11 | 0 | Offline FHIR package storage, canonical resolution and optional HTTP adapters |
-| 2026-11-04 15:14:49 | [poli-page-rocket](https://crates.io/crates/poli-page-rocket) | 0.13.0 | 0 | Rocket.rs fairing and responders for the Poli Page PDF rendering API |
-| 2026-11-04 15:16:44 | [decode-lzma](https://crates.io/crates/decode-lzma) | 0.0.2 | 0 | A clean-room, public-domain LZMA and LZMA2 decoder, in safe Rust (planned). |
+| 2026-11-04 15:19:06 | [figcraft-svg](https://crates.io/crates/figcraft-svg) | 0.5.1 | 0 | FigCraft SVG export (shapes, gradients, images, strokes, effects as filters, te… |
+| 2026-11-04 15:20:05 | [kp-cli](https://crates.io/crates/kp-cli) | 0.2.0 | 0 | kp — keep processes running: transparent command wrapping with session dedup, r… |
+| 2026-11-04 15:20:56 | [fabric-transport](https://crates.io/crates/fabric-transport) | 0.1.0 | 0 | Feature-gated gRPC balancing and ingress, and Redpanda egress |
+| 2026-11-04 15:21:21 | [cargo-fallow](https://crates.io/crates/cargo-fallow) | 0.1.0 | 0 | Codebase analysis for Rust workspaces, as a Cargo subcommand |
+| 2026-11-04 15:26:56 | [decode-xz](https://crates.io/crates/decode-xz) | 0.0.2 | 0 | A clean-room, public-domain xz decoder, in safe Rust (planned). |
+| 2026-11-04 15:27:21 | [apkg](https://crates.io/crates/apkg) | 0.0.0 | 0 | AzusaOS package manager: access signed Azusa packages as a library, or mount th… |
+| 2026-11-04 15:31:19 | [damasmus](https://crates.io/crates/damasmus) | 0.9.0 | 0 | A rustc cache shared by every project and checkout on the machine, plus a Cargo… |
+| 2026-11-04 15:31:38 | [figcraft-engine](https://crates.io/crates/figcraft-engine) | 0.5.1 | 0 | FigCraft engine: sessions, undo history, the command registry every surface (UI… |
+| 2026-11-04 15:34:40 | [xmtr-trippy-core](https://crates.io/crates/xmtr-trippy-core) | 0.3.6 | 0 | trippy-core 0.13.0 with the platform fixes used by xmtr |
+| 2026-11-04 15:37:08 | [decode-lz4](https://crates.io/crates/decode-lz4) | 0.0.2 | 0 | A clean-room, public-domain LZ4 decoder, in safe Rust (planned). |
+| 2026-11-04 15:43:54 | [figcraft-collab-net](https://crates.io/crates/figcraft-collab-net) | 0.5.1 | 0 | FigCraft live sessions over the network: the WebSocket transport, the session h… |
+| 2026-11-04 15:46:41 | [de-nox](https://crates.io/crates/de-nox) | 0.1.1 | 0 | A terminal disk-cleanup tool that knows the difference between a dead project a… |
+| 2026-11-04 15:47:20 | [decode-lzo](https://crates.io/crates/decode-lzo) | 0.0.2 | 0 | A clean-room, public-domain LZO decoder, in safe Rust (planned). |
+| 2026-11-04 15:53:42 | [typenv](https://crates.io/crates/typenv) | 0.0.0 | 0 | Load environment variables into a type-safe struct (name reserved) |
+| 2026-11-04 15:53:43 | [typenv-derive](https://crates.io/crates/typenv-derive) | 0.0.0 | 0 | Derive macro for typenv (name reserved) |
+| 2026-11-04 15:59:20 | [figcraft-ui-egui](https://crates.io/crates/figcraft-ui-egui) | 0.5.1 | 0 | FigCraft egui frontend (the Figma-style UI: canvas, toolbar, layers, design and… |
+| 2026-11-04 15:59:40 | [figcraft-mcp](https://crates.io/crates/figcraft-mcp) | 0.5.1 | 0 | FigCraft MCP server: JSON-RPC 2.0 over stdio, driving a headless engine session… |
+| 2026-11-04 16:04:31 | [fhir-diff](https://crates.io/crates/fhir-diff) | 0.1.0 | 0 | Semantic diff of FHIR packages and profiles with a breaking-change gate |
+| 2026-11-04 16:04:58 | [carimbar-types](https://crates.io/crates/carimbar-types) | 0.0.1 | 0 | Tipos de domínio puros do carimbar: CNPJ, chave de acesso, ambiente e dinheiro |
+| 2026-11-04 16:05:00 | [carimbar](https://crates.io/crates/carimbar) | 0.0.1 | 0 | Emissão de NF-e e NFS-e Nacional para devs e agentes de IA |
+| 2026-11-04 16:05:00 | [carimbar-cert](https://crates.io/crates/carimbar-cert) | 0.0.1 | 0 | Leitura de certificados A1 PKCS#12 ICP-Brasil (carimbar) |
+| 2026-11-04 16:05:01 | [carimbar-danfe](https://crates.io/crates/carimbar-danfe) | 0.0.1 | 0 | DANFE e DANFSe em PDF a partir do XML autorizado (carimbar) |
+| 2026-11-04 16:05:01 | [carimbar-endpoints](https://crates.io/crates/carimbar-endpoints) | 0.0.1 | 0 | Tabela de endpoints NF-e e NFS-e por UF, modelo e ambiente (carimbar) |
+| 2026-11-04 16:09:27 | [async-support](https://crates.io/crates/async-support) | 0.0.0 | 0 | async-support |
+| 2026-11-04 16:09:52 | [agentglim](https://crates.io/crates/agentglim) | 0.1.0 | 0 | Agentglim: watch and control your AI coding agents |
+| 2026-11-04 16:10:08 | [filmcraft-edit](https://crates.io/crates/filmcraft-edit) | 0.9.0 | 0 | Pure timeline edit algebra: insert, overwrite, razor, ripple, roll, slip, slide… |
+| 2026-11-04 16:12:56 | [cw32f003-pac](https://crates.io/crates/cw32f003-pac) | 0.1.0 | 0 | Zero-dependency register access crate (PAC) for the CW32F003 Cortex-M0+ MCU, ge… |
+| 2026-11-04 16:13:10 | [cw32f020-pac](https://crates.io/crates/cw32f020-pac) | 0.1.0 | 0 | Zero-dependency register access crate (PAC) for the CW32F020 Cortex-M0+ MCU, ge… |
+| 2026-11-04 16:13:26 | [cw32l011-pac](https://crates.io/crates/cw32l011-pac) | 0.1.0 | 0 | Zero-dependency register access crate (PAC) for the CW32L011 Cortex-M0+ MCU, ge… |
+| 2026-11-04 16:13:47 | [cw32l031-pac](https://crates.io/crates/cw32l031-pac) | 0.1.0 | 0 | Zero-dependency register access crate (PAC) for the CW32L031 Cortex-M0+ MCU, ge… |
+| 2026-11-04 16:14:08 | [cw32l052-pac](https://crates.io/crates/cw32l052-pac) | 0.1.0 | 0 | Zero-dependency register access crate (PAC) for the CW32L052 Cortex-M0+ MCU, ge… |
 
 ## Data source
 
