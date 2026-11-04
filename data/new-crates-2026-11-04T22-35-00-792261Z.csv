@@ -1,0 +1,68 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-04T21:21:22.650207Z,irox-app-helpers,0.1.0,0,0,https://github.com/spmadden/irox,"Application Helpers Toolkit, by IROX"
+2026-11-04T21:22:23.471558Z,rounddance-hal-wasm,0.1.0-alpha.2,0,0,https://github.com/remenyo/rounddance,"WASM guest HAL: the 15.4 Driver seam over host-call imports, so the stack runs inside a WASM runner on ESP32 targets the Rust IDF shim does not cover"
+2026-11-04T21:30:43.225997Z,agentgc-worktree,0.3.1,0,0,https://github.com/JohnWayneeee/agentgc,"Run many AI coding agents in parallel: isolated git worktree tasks (ports, databases), a service supervisor and safe cleanup. Installs the agentgc command."
+2026-11-04T21:32:26.665323Z,rounddance-sniffer,0.1.0-alpha.2,0,0,https://github.com/remenyo/rounddance,"Offline 802.15.4 sniffer: file input, dissect, text/JSON report, pcap-out, timelines"
+2026-11-04T21:35:41.248541Z,taktwerk-device,0.13.3,0,0,https://github.com/labinetix/taktwerk,"Bundles, deployment manifests and the device agent of taktwerk"
+2026-11-04T21:35:51.541555Z,taktwerk-rest,0.13.3,0,0,https://github.com/labinetix/taktwerk,REST source and sink connector of the taktwerk engine
+2026-11-04T21:36:00.104309Z,irox-graphing,0.1.0,0,0,https://github.com/spmadden/irox,"Graphs (Nodes/Edges) Algorithms, and Graph Drawing"
+2026-11-04T21:37:23.334039Z,irox-metrics,0.1.0,0,0,https://github.com/spmadden/irox,Secure metrology for your application & library
+2026-11-04T21:37:30.788029Z,sql-values,0.3.0,0,0,https://github.com/connetto-rs/sql-values,"SQL values, with PostgreSQL's value rules beside readers of the text PostgreSQL, MySQL and SQLite emit"
+2026-11-04T21:38:08.002806Z,irox-protobuf,0.1.0,0,0,https://github.com/spmadden/irox,Implementation of the binary on-wire format of Protobuf
+2026-11-04T21:39:39.969027Z,irox-ubx,0.1.0,0,0,https://github.com/spmadden/irox,u-blox / ubx packet formats
+2026-11-04T21:40:24.155199Z,ghast-protocol,0.1.0,0,0,https://github.com/Crefax/Ghast,"Minecraft Java Edition network protocol for the ghast client library: generated per-version packets, framing, compression, encryption, NBT"
+2026-11-04T21:40:28.389977Z,ghast-data,0.1.0,0,0,https://github.com/Crefax/Ghast,"Static Minecraft Java Edition game data for the ghast client library: blocks, block states, collision shapes, items, entities, biomes, enchantments, foods (generated from PrismarineJS minecraft-data)"
+2026-11-04T21:40:32.849027Z,ghast-auth,0.1.0,0,0,https://github.com/Crefax/Ghast,"Authentication and connection setup for the ghast Minecraft client library: offline identities, SOCKS5 proxies, login encryption and Microsoft accounts"
+2026-11-04T21:40:40.403421Z,irox-zip,0.1.0,0,0,https://github.com/spmadden/irox,Low-level zip file I/O
+2026-11-04T21:40:40.532791Z,ghast-physics,0.1.0,0,0,https://github.com/Crefax/Ghast,"Vanilla-exact, pure and deterministic player movement for the ghast Minecraft Java Edition client library (1.8.9 first), verified bit for bit against the real game"
+2026-11-04T21:41:02.97797Z,ghast-world,0.1.0,0,0,https://github.com/Crefax/Ghast,"Chunk storage for the ghast Minecraft Java Edition client library: compact, O(1) block lookup, explicit loaded/unloaded columns, decoding of 1.8.9 and 1.16.5 chunk and block-change packets"
+2026-11-04T21:42:25.779463Z,rounddance-sim,0.1.0-alpha.2,0,0,https://github.com/remenyo/rounddance,Deterministic simulation harness for the Rounddance Zigbee stack
+2026-11-04T21:43:40.70403Z,pap-verifier,0.1.0-alpha.3,0,0,https://github.com/agent-federation/contract-builder-independent-rs-v2,Independent Phase 2a verifier for Portable Assurance Package (PAP) v0.1
+2026-11-04T21:45:04.749105Z,elotracker,1.0.0,0,0,https://github.com/Ch0p5h0p/EloTracker,Elo-based ranking tracker
+2026-11-04T21:46:05.638911Z,agentai-core,0.5.0,0,0,https://github.com/AdamStrojek/rust-agentai,"Shared building blocks of the AgentAI crates, such as the HTTP client abstraction."
+2026-11-04T21:47:08.938189Z,agentai-image,0.5.0,0,0,https://github.com/AdamStrojek/rust-agentai,Image generation and editing tools for AgentAI agents.
+2026-11-04T21:48:29.182942Z,comnum-core,0.2.0,0,0,https://github.com/com-rs/comnum,"Core vocabulary of comnum: multi-stream signal containers, block traits, unit newtypes, the seeded generator, the error type"
+2026-11-04T21:49:01.253714Z,comnum-math,0.2.0,0,0,https://github.com/com-rs/comnum,"Numerical methods of comnum: special functions, Simpson, Gauss–Hermite and Gauss–Legendre quadrature, FFT plans, complex linear algebra, nearest-point search, finite fields, LFSR sequences, NLSE spli…"
+2026-11-04T21:49:33.495356Z,comnum-dsp,0.2.0,0,0,https://github.com/com-rs/comnum,"Waveform-agnostic signal processing of comnum: filtering, resampling, synchronisation, estimation, spectral estimation, Bussgang's decomposition, adaptive equalisation, dispersion compensation, back-…"
+2026-11-04T21:50:05.702585Z,comnum-fec,0.2.0,0,0,https://github.com/com-rs/comnum,"Channel coding of comnum: CRC, scrambling, interleaving, convolutional codes and puncturing, turbo, LDPC, polar, Reed–Solomon and BCH codes, distribution matching"
+2026-11-04T21:50:38.058043Z,comnum-mapping,0.2.0,0,0,https://github.com/com-rs/comnum,"Constellations, Gray labelling, mapping, hard and soft demapping, differential PSK, sources and closed-form error rates of comnum"
+2026-11-04T21:51:37.513234Z,cellix-review,0.4.0,0,0,https://github.com/quill-27f/cellix,"Plans, diffs and comments for Cellix"
+2026-11-04T21:51:37.910058Z,cellix-term,0.4.0,0,0,https://github.com/quill-27f/cellix,Terminal probing and presentation backends for Cellix
+2026-11-04T21:51:38.613272Z,cellix-agent,0.4.0,0,0,https://github.com/quill-27f/cellix,Local socket and CLI adapters for Cellix
+2026-11-04T21:52:08.464995Z,ghast-entity,0.1.0,0,0,https://github.com/Crefax/Ghast,"Entity tracking for the ghast Minecraft Java Edition client library: zero-allocation parsing of 1.8.9 and 1.16.5 entity packets, vanilla-exact server positions, O(1) lookup"
+2026-11-04T21:52:24.758782Z,rounddance-hal-host,0.1.0-alpha.2,0,0,https://github.com/remenyo/rounddance,"Host HAL backends (Linux/Pi + WASM): clock, timer, entropy, persistent store, log, loopback radio"
+2026-11-04T22:00:48.151398Z,ghast-inventory,0.1.0,0,0,https://github.com/Crefax/Ghast,"Inventory and container windows for the ghast Minecraft Java Edition client library: vanilla client-side click prediction, the window confirm protocol and lazy-NBT item stacks (1.8.9 and 1.16.5)"
+2026-11-04T22:01:34.527975Z,comnum-mimo,0.2.0,0,0,https://github.com/com-rs/comnum,"MIMO detection (linear, SIC, ML, sphere decoder, K-best, message passing), space-time block codes, precoding and capacity of comnum"
+2026-11-04T22:02:23.423415Z,rounddance-browser,0.1.0-alpha.2,0,0,https://github.com/remenyo/rounddance,"Browser-shape WASM bundle of the first complete transaction (form→join→ZCL, same scenario as host)"
+2026-11-04T22:05:21.312636Z,qrow,0.0.0,0,0,https://github.com/denisotree/tuitab,Reserved for the project formerly known as tuitab
+2026-11-04T22:05:29.252943Z,extend-office-charts,0.1.0,0,0,https://github.com/extend-hq/extend-office,Render Office Open XML charts to SVG from native Rust or WebAssembly
+2026-11-04T22:05:31.912423Z,extend-office-charts-wasm,0.1.0,0,0,https://github.com/extend-hq/extend-office,WebAssembly bindings for the Office Open XML Cartesian chart renderer
+2026-11-04T22:05:32.08765Z,extend-pptx,0.1.0,0,0,https://github.com/extend-hq/extend-office,Parse PowerPoint PPTX and legacy PPT presentations into a structured model
+2026-11-04T22:05:33.354431Z,extend-docx-wasm,0.2.3,0,0,https://github.com/extend-hq/extend-office,WebAssembly bindings for the extend-docx parser and serializer
+2026-11-04T22:05:33.557568Z,extend-pptx-wasm,0.1.0,0,0,https://github.com/extend-hq/extend-office,WebAssembly bindings for the Extend PowerPoint parser
+2026-11-04T22:08:07.866469Z,vfs-seam,0.1.0,0,0,https://github.com/osdlc/osdlc,"A file-access trait for libraries that must also run without a filesystem: one object-safe Vfs with a std::fs implementation, an in-memory tree, a write-capturing preview overlay, and a Clock for cod…"
+2026-11-04T22:08:12.122618Z,vfs-walk,0.1.0,0,0,https://github.com/osdlc/osdlc,"A sorted, depth-first walk of a folder tree through a vfs-seam Vfs, with prune and skip lists, a caller's entry filter, a symlink policy, an error policy and modification times. No Markdown or vault…"
+2026-11-04T22:08:29.102369Z,markdown-contract,0.4.0,0,0,https://github.com/osdlc/osdlc,"Contracts for markdown documents: declare the frontmatter, headings, tables and lists a document must have, and get findings with line numbers. The Rust twin of @osdlc/markdown-contract."
+2026-11-04T22:08:39.2393Z,comnum-waveform,0.2.0,0,0,https://github.com/com-rs/comnum,"Waveforms of comnum: OFDM and DFT-spread OFDM with pilots and channel estimation, PAPR and its reduction, constant-envelope OFDM, continuous-phase modulation (CPFSK, MSK, GMSK), chirp spread spectrum…"
+2026-11-04T22:10:16.643677Z,astral-yaml,0.0.0,0,0,https://github.com/astral-sh/astral-yaml,Placeholder release for astral-yaml
+2026-11-04T22:10:34.250131Z,astral-yaml-serde,0.0.0,0,0,https://github.com/astral-sh/astral-yaml,Placeholder release for astral-yaml-serde
+2026-11-04T22:11:46.651014Z,ghast-client,0.1.0,0,0,https://github.com/Crefax/Ghast,"Headless Minecraft Java Edition client for the ghast library: connection, login, fixed 50 ms tick loop and a version-agnostic bot API (1.8.9 and 1.16.5)"
+2026-11-04T22:12:22.058309Z,rounddance-ffi,0.1.0-alpha.2,0,0,https://github.com/remenyo/rounddance,"C ABI over the first complete host transaction (adapter shim, not a protocol crate)"
+2026-11-04T22:13:34.523599Z,ironpages,2.0.0,0,0,https://github.com/dickwu/ironpages,"Pure Rust HTML/CSS/Markdown to PDF converter with layout engine, LaTeX math, tables, images, custom fonts, and streaming output. No browser, no system dependencies."
+2026-11-04T22:14:18.404652Z,logloom,0.1.0,0,0,,"Parse changelog documents into an ordered, serializable model"
+2026-11-04T22:17:15.999896Z,grafta-kiwi,0.1.0,0,0,https://github.com/n0ss4/grafta,Kiwi binary schema and message decoder.
+2026-11-04T22:17:22.573378Z,grafta-schema,0.1.0,0,0,https://github.com/n0ss4/grafta,"The .fig format's field names, enum values and ids, each named once, and typed access to a decoded message."
+2026-11-04T22:17:51.324976Z,grafta-figfile,0.1.0,0,0,https://github.com/n0ss4/grafta,"Reads the .fig container: ZIP archive, fig-kiwi chunks, blobs and images."
+2026-11-04T22:17:56.821463Z,grafta-model,0.1.0,0,0,https://github.com/n0ss4/grafta,"Typed scene graph: nodes, variables, shared styles, component definitions."
+2026-11-04T22:18:02.610402Z,grafta-domain,0.1.0,0,0,https://github.com/n0ss4/grafta,"grafta's domain: open files, their ports, the products that read their nodes, and the values a call takes and returns."
+2026-11-04T22:18:03.463643Z,trailmark,0.1.0,0,0,https://github.com/zametka/trailmark,"Record book and checker for a project's rules, decisions, and the ids code cites"
+2026-11-04T22:18:39.477839Z,comnum-channel,0.2.0,0,0,https://github.com/com-rs/comnum,"Propagation media of comnum: AWGN, flat and multipath fading, TDL and CDL channels of 3GPP TR 38.901, delay–Doppler channels, optical fibre (linear, split-step, Manakov-PMD, EDFA, Raman, GN and EGN m…"
+2026-11-04T22:19:45.472975Z,shipit-csv-validator,0.1.0,0,0,https://github.com/shipit-software/csv-validator,"Dependency-free local CSV validation with record, field and source diagnostics"
+2026-11-04T22:20:28.478973Z,ghast,0.1.0,0,0,https://github.com/Crefax/Ghast,Headless Minecraft Java Edition client / bot library (1.8.9 and 1.16.5) with vanilla-exact behaviour: facade crate re-exporting the ghast-* crates
+2026-11-04T22:22:23.050177Z,rounddance,0.1.0-alpha.2,0,0,https://github.com/remenyo/rounddance,"Rounddance Zigbee-compatible stack: one library over the portable no_std layers, sim, and host HAL"
+2026-11-04T22:25:43.30837Z,markdown-corpus,0.1.0,0,0,https://github.com/osdlc/osdlc,"The corpus model for a folder of Markdown notes: every note and file, outgoing links and backlinks by kind, inline tags and frontmatter, read through a Vfs and refreshed incrementally."
+2026-11-04T22:28:39.132085Z,comnum-hardware,0.2.0,0,0,https://github.com/com-rs/comnum,"Hardware impairments of comnum: power amplifiers, phase noise, lasers, optical modulators, photodiodes, PIN-FET receiver, coherent receiver"
+2026-11-04T22:29:15.052631Z,grafta-app,0.1.0,0,0,https://github.com/n0ss4/grafta,"grafta's application: each tool's command or query over typed inputs, and the unit of work a command runs in."
+2026-11-04T22:33:54.672807Z,crn-craft,0.2.0,0,0,https://github.com/dietmarwo/CRN-craft,"Exact stochastic simulation (Direct, DirectCR, SortingDirect, RSSACR), FSP and analysis of well-mixed reaction networks"
+2026-11-04T22:34:03.658561Z,crn-craft-rules,0.2.0,0,0,https://github.com/dietmarwo/CRN-craft,"Exact stochastic simulation of dynamic, attributed species with rule schemata"
+2026-11-04T22:34:09.268711Z,crn-craft-cli,0.2.0,0,0,https://github.com/dietmarwo/CRN-craft,"Command-line interface of CRN-craft: check, simulate, analyze and verify reaction-network JSON documents"
