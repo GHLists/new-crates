@@ -1,0 +1,26 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-04T05:20:16.699312Z,bun_env_cookie,1.4.7,0,0,https://github.com/aphrody-labs/bun-distribution,"bunos env (.env files) and bunos cookie (cookie jars on disk), imported from the aphrody-labs/bun fork's `bun env` and `bun cookie`."
+2026-11-04T05:20:46.948139Z,bun_host,1.4.7,0,0,https://github.com/aphrody-labs/bun-distribution,"bunos host: host resource inventory and the shared signed host registry, imported from the aphrody-labs/bun fork's `bun host`."
+2026-11-04T05:21:05.316872Z,bunos-nt-proto,1.4.7,0,0,https://github.com/aphrody-labs/bun-os,"Bun OS bunos.sys IOCTL contract: control codes, event records and strict, fuzz-tested parsers (no_std)."
+2026-11-04T05:22:23.199484Z,bunos-win11-chrome,1.4.7,0,0,https://github.com/aphrody-labs/bun-os,"macOS-style window chrome for the Bun OS Windows desktop: DWM rounded corners, Mica backdrop, unified dark caption, coloured borders, and a dock descriptor. Applies documented DwmSetWindowAttribute a…"
+2026-11-04T05:22:35.811598Z,bunos-win11-wallpaper,1.4.7,0,0,https://github.com/aphrody-labs/bun-os,Rust wallpaper engine for the Bun OS Windows desktop: acquires the WorkerW layer behind the desktop icons (the Progman 0x052C technique) and renders an animated wgpu scene into it. Pure Rust on the s…
+2026-11-04T05:23:28.733906Z,pipecircuit-showrunner-switchboard,0.0.1,0,0,https://github.com/KenAKAFrosty/pipecircuit-scaffold,Typed browser testing with Pipecircuit
+2026-11-04T05:25:18.155244Z,foldl-core,0.1.0,0,0,https://github.com/skogsbrus/foldl,"Pure core of foldl: state, events, effects and the step function"
+2026-11-04T05:25:19.808333Z,foldl,0.1.0,0,0,https://github.com/skogsbrus/foldl,Run code when a shell enters or leaves a folder
+2026-11-04T05:30:36.946241Z,edgedoc-limit,0.1.0,0,0,https://github.com/raphaelmansuy/edgedoc,Budgets for EdgeDoc readers
+2026-11-04T05:30:49.585725Z,edgedoc-unit,0.1.0,0,0,https://github.com/raphaelmansuy/edgedoc,Length units for EdgeDoc
+2026-11-04T05:30:58.507459Z,edgedoc-opc,0.1.0,0,0,https://github.com/raphaelmansuy/edgedoc,OPC package reader and writer
+2026-11-04T05:31:05.336216Z,edgedoc-model,0.1.0,0,0,https://github.com/raphaelmansuy/edgedoc,In-memory Word document model
+2026-11-04T05:31:24.749154Z,edgedoc-wml,0.1.0,0,0,https://github.com/raphaelmansuy/edgedoc,WordprocessingML reader and writer
+2026-11-04T05:33:04.589386Z,edgedoc-merge,0.1.0,0,0,https://github.com/raphaelmansuy/edgedoc,Mail-merge for EdgeDoc templates
+2026-11-04T05:33:29.70464Z,pipecircuit-showrunner-mio,0.0.1,0,0,https://github.com/KenAKAFrosty/pipecircuit-scaffold,Typed browser testing with Pipecircuit
+2026-11-04T05:33:38.796886Z,designcraft-fonts,0.7.1,0,0,,"DesignCraft fonts: font database (bundled OFL + system), metrics, glyph outlines, shaping"
+2026-11-04T05:37:41.929313Z,suricatax-rules,0.6.0,0,0,,Suricata Rule Manager
+2026-11-04T05:40:34.594326Z,gunnar-heimdall,1.7.0,0,0,https://git.gunnar.rs/nordisk/gunnar,"Gunnar as a Heimdall user: untrusted packs (mirror imports, pushes) are parsed in a Heimdall sandbox before Gunnar's own ingest reads them."
+2026-11-04T05:42:35.78388Z,edgedoc,0.1.0,0,0,https://github.com/raphaelmansuy/edgedoc,"Read, create, edit, merge, and save Word documents"
+2026-11-04T05:44:35.999845Z,designcraft-compose,0.7.1,0,0,,"DesignCraft text composition: paragraph composer (Knuth–Plass), hyphenation, justification, columns, threading, wrap"
+2026-11-04T05:51:54.551731Z,txqr,0.1.0,0,0,https://github.com/fantasyzhjk/txqr-rs,Transfer data via animated QR codes
+2026-11-04T05:51:56.406248Z,txqr-cli,0.1.0,0,0,https://github.com/fantasyzhjk/txqr-rs,Transfer data via animated QR codes
+2026-11-04T05:55:23.820918Z,designcraft-images,0.7.1,0,0,,"DesignCraft placed-graphic decoding: raster formats (PNG, JPEG, GIF, WebP, TIFF, BMP, PSD) and SVG"
+2026-11-04T06:06:18.227083Z,designcraft-tools,0.7.1,0,0,,"DesignCraft tools: pointer events in, commands and overlays out (Selection, Direct Selection, frames, Type, Hand, Zoom…)"
+2026-11-04T06:12:19.527176Z,cloudflare-flagship,0.6.0,0,0,https://github.com/cloudflare/flagship,OpenFeature provider for Cloudflare Flagship feature flags
