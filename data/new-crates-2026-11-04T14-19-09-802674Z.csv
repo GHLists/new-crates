@@ -1,0 +1,54 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-04T13:20:01.557455Z,leptoskit_windows,0.0.0,0,0,https://github.com/ifiokjr/leptoskit,The leptoskit Win32 backend: shared elements rendered as native Windows controls.
+2026-11-04T13:20:27.883401Z,mahbot-rlx-mlx-io,0.2.18-mahbot.1,0,0,https://github.com/edezhic/mahbot-rlx,"RLX — load MLX weight layouts (mlx-community safetensors dirs, .npz/.npy) including affine / mxfp dequant."
+2026-11-04T13:24:36.055829Z,fil,0.1.0,0,0,https://github.com/cet-t/fil,A tiny RNG abstraction crate
+2026-11-04T13:27:02.020224Z,format198x-apple-ii-woz,0.1.0,0,0,https://github.com/format198x/format198x,Dependency-free WOZ 2 Apple II bitstream disk images
+2026-11-04T13:27:56.942098Z,effectcraft-cli,0.9.2,0,0,,"EffectCraft headless CLI: render frames and sequences, run commands, MCP server"
+2026-11-04T13:32:14.473108Z,mahbot-rlx-autodiff,0.2.18-mahbot.1,0,0,https://github.com/edezhic/mahbot-rlx,"JAX-shaped transforms for RLX MIR — autodiff, JVP/HVP, vmap"
+2026-11-04T13:33:48.992795Z,subduction_tokio,0.1.0,0,0,https://github.com/inkandswitch/subduction,"Owned Tokio nodes, transport connectors, and supervised reconnection for Subduction"
+2026-11-04T13:34:13.209999Z,emu198x-apple-disk-ii,0.1.0,0,0,https://github.com/emu198x/apple-disk-ii,"Crystal-driven Apple Disk II card, PROM sequencer and bitstream drives"
+2026-11-04T13:37:39.027824Z,ipfix-parser,0.2.0,0,0,https://github.com/nxthdr/ipfix-parser,IPFIX (RFC 7011) Parser
+2026-11-04T13:38:24.124474Z,figcraft-color,0.5.1,0,0,,"FigCraft colour and paint: RGBA colours, HSB/HSL, hex/CSS parsing, solid/gradient/image paints, blend modes"
+2026-11-04T13:38:36.62518Z,figcraft-geom,0.5.1,0,0,,"FigCraft geometry: affine transforms, shape path builders (rounded/smoothed corners, polygons, stars, arcs)"
+2026-11-04T13:42:34.712436Z,mahbot-rlx-pkg,0.2.18-mahbot.1,0,0,https://github.com/edezhic/mahbot-rlx,"RLX package format (.rlxp) — flat hybrid mmap packs, optional graph, ZIP/dir"
+2026-11-04T13:44:42.473185Z,slopio-ebpf-balancer,0.1.0,0,0,https://github.com/slopio/slopio,"An eBPF SO_REUSEPORT program that keeps each QUIC connection on the core that owns it, for slopio"
+2026-11-04T13:44:45.361007Z,slopio,0.1.0,0,0,https://github.com/slopio/slopio,"A thread-per-core async runtime for Linux, built directly on io_uring"
+2026-11-04T13:46:27.267467Z,bvg,1.0.0,0,0,https://github.com/madmenmadmen/bvg-project,BVG - Universal Binary Vector Graphics container
+2026-11-04T13:49:04.554689Z,splitmix,0.1.0,0,0,https://github.com/cet-t/splitmix,SplitMix crate
+2026-11-04T13:49:16.14678Z,figcraft-doc,0.5.1,0,0,,"FigCraft document model: pages, the node tree, properties, components, styles, variables, prototype data"
+2026-11-04T13:50:56.30871Z,slopio-tls,0.1.0,0,0,https://github.com/slopio/slopio-tls,"TLS 1.3 for the slopio runtime, with the record layer in the kernel (kTLS)"
+2026-11-04T13:51:24.166172Z,egui-pop-phosphor,0.15.0,0,0,https://github.com/quazardous/egui-phosphor,"Phosphor icons for egui: a maintained fork of egui-phosphor for egui 0.37, until upstream releases"
+2026-11-04T13:52:46.030906Z,nanoglia-cmsis-nn-sys,0.1.0,0,0,https://github.com/AlixANNERAUD/nanoglia,"CMSIS-NN v8.0.0 (integer kernels) built with `cc`, and hand-written `no_std` FFI bindings."
+2026-11-04T13:52:49.61219Z,nanoglia-core,0.1.0,0,0,https://github.com/AlixANNERAUD/nanoglia,"Tensor, operator, error and kernel-backend types shared by the nanoglia crates, plus TFLite-exact quantization math and an arena allocator."
+2026-11-04T13:53:01.773214Z,nanoglia-cmsis-nn,0.1.0,0,0,https://github.com/AlixANNERAUD/nanoglia,"CMSIS-NN kernel backend of nanoglia: TFLite-exact int8 convolutions, fully-connected layers, pooling, softmax and elementwise operators."
+2026-11-04T13:53:06.359028Z,nanoglia-esp-nn-sys,0.1.0,0,0,https://github.com/AlixANNERAUD/nanoglia,"ESP-NN v1.4.2 (Espressif's int8 kernels, ESP32-S3 optimized) built with `cc`, and hand-written `no_std` FFI bindings."
+2026-11-04T13:53:11.34844Z,nanoglia-esp-nn,0.1.0,0,0,https://github.com/AlixANNERAUD/nanoglia,"ESP-NN kernel backend of nanoglia: TFLite-exact int8 convolutions, fully-connected layers, pooling, softmax and elementwise operators, optimized for the ESP32-S3."
+2026-11-04T13:54:20.067025Z,mahbot-rlx-compile,0.2.18-mahbot.1,0,0,https://github.com/edezhic/mahbot-rlx,HIR → MIR → LIR compile pipeline for RLX
+2026-11-04T13:55:10.053923Z,luamin-macro,0.1.0,0,0,https://github.com/macaujack/luamin,Procedural macros for binding Rust host methods and custom values to the experimental Luamin scripting language
+2026-11-04T13:56:34.714463Z,luamin,0.1.0,0,0,https://github.com/macaujack/luamin,An experimental embeddable Lua-like scripting language with a stack-based virtual machine and gas metering
+2026-11-04T13:58:46.025346Z,nitrox,0.0.1,0,0,https://github.com/KTBsomen/nitrox,"A fast, minimalist web framework for Rust inspired by ExpressJS"
+2026-11-04T14:00:04.004415Z,figcraft-collab,0.5.1,0,0,,"FigCraft real-time collaboration core: the synced object/property model, change sets, fractional positions, server ordering and validation, client reconciliation, per-user undo, offline queueing and…"
+2026-11-04T14:02:55.573808Z,gw-parse,0.1.0,0,0,https://github.com/JiLiZART/gw,"Parsers for git output used by git-gw (internal crate, no stable API)"
+2026-11-04T14:03:08.922593Z,gw-render,0.1.0,0,0,https://github.com/JiLiZART/gw,"Terminal rendering for git-gw: progress bar, remote box, ref list, status (internal crate, no stable API)"
+2026-11-04T14:03:12.18009Z,git-gw,0.1.0,0,0,https://github.com/JiLiZART/gw,"gw: runs git push/pull/fetch/clone/status with a live progress bar, boxed server messages and colored ref lists"
+2026-11-04T14:04:38.341384Z,blinc_flow,0.6.0,0,0,https://github.com/project-blinc/Blinc,Blinc flow shaders: the shader-graph language parser and WGSL generator over blinc_core's FlowGraph
+2026-11-04T14:06:04.864242Z,mahbot-rlx-opt,0.2.18-mahbot.1,0,0,https://github.com/edezhic/mahbot-rlx,"RLX optimizer facade — fusion, autodiff, and compile pipelines"
+2026-11-04T14:06:57.356765Z,skilj-blob-s3,0.3.0,0,0,https://github.com/gklijs/SkilJ,"A skilj blob store on S3 or any S3-compatible object store, so large payloads' bytes live outside Postgres."
+2026-11-04T14:08:31.221998Z,blinc_css,0.6.0,0,0,https://github.com/project-blinc/Blinc,"Blinc style model and CSS front end - ElementStyle, calc(), and the CSS subset parser"
+2026-11-04T14:09:33.647547Z,crcbl-wayland,0.17.2,0,0,https://github.com/kryptic-sh/crcbl,Crucible's libwayland-client binding: the runtime crcbl-wl-scanner's generated code marshals through
+2026-11-04T14:10:29.427628Z,crcbl-dcomp,0.17.2,0,0,https://github.com/kryptic-sh/crcbl,Crucible DirectComposition: how a transparent Win32 window shows a swapchain
+2026-11-04T14:10:39.742398Z,emu198x-machine-apple-ii-rev0-ntsc,0.1.0,0,0,https://github.com/emu198x/apple-ii,"Original NTSC revision-0 Apple II: text/graphics, keyboard and speaker"
+2026-11-04T14:11:17.754614Z,emu198x-runtime-apple-ii,0.1.0,0,0,https://github.com/emu198x/apple-ii,Apple II runtime for shared JSON scripts and MCP control
+2026-11-04T14:11:44.101472Z,figcraft-pathops,0.5.1,0,0,,"FigCraft path operations: booleans (union, subtract, intersect, exclude), outline stroke with inside/center/outside alignment, arrowheads"
+2026-11-04T14:13:07.489644Z,fil-shell,0.0.1,0,0,https://github.com/anthonytw/fil,Placeholder for the fil remote shell (github.com/anthonytw/fil); first release coming soon
+2026-11-04T14:13:36.987048Z,fil-proto,0.0.1,0,0,https://github.com/anthonytw/fil,Placeholder for the fil remote shell (github.com/anthonytw/fil); first release coming soon
+2026-11-04T14:13:39.566297Z,fil-client,0.0.1,0,0,https://github.com/anthonytw/fil,Placeholder for the fil remote shell (github.com/anthonytw/fil); first release coming soon
+2026-11-04T14:13:41.87247Z,fil-daemon,0.0.1,0,0,https://github.com/anthonytw/fil,Placeholder for the fil remote shell (github.com/anthonytw/fil); first release coming soon
+2026-11-04T14:13:44.35697Z,fil-session,0.0.1,0,0,https://github.com/anthonytw/fil,Placeholder for the fil remote shell (github.com/anthonytw/fil); first release coming soon
+2026-11-04T14:16:17.367503Z,slopio-dns,0.1.0,0,0,https://github.com/slopio/slopio-dns,"A DNS client over UDP for the io_uring runtime slopio, with many queries in flight on one socket"
+2026-11-04T14:17:22.741515Z,pi_graph_core,0.4.0,0,0,https://github.com/GaiaWorld/pi_graph,Storage-independent graph capability traits and views
+2026-11-04T14:17:49.602702Z,pi_graph_adaptor,0.4.0,0,0,https://github.com/GaiaWorld/pi_graph,Composable storage-independent graph adaptors
+2026-11-04T14:17:50.429061Z,pi_graph_query,0.4.0,0,0,https://github.com/GaiaWorld/pi_graph,Resumable graph walkers and queries
+2026-11-04T14:17:55.527449Z,mahbot-rlx-cpu,0.2.18-mahbot.1,0,0,https://github.com/edezhic/mahbot-rlx,"CPU backend for RLX — SIMD kernels, BLAS dispatch, thread pool, arena executor"
+2026-11-04T14:18:20.056762Z,pi_graph_algo,0.4.0,0,0,https://github.com/GaiaWorld/pi_graph,Generic algorithms over graph capabilities
+2026-11-04T14:18:33.038958Z,pi_graph_storage,0.4.0,0,0,https://github.com/GaiaWorld/pi_graph,Sparse slot-map and dense vector directed graph storage
