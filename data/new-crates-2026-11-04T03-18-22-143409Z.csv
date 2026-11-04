@@ -1,0 +1,26 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-04T02:22:27.068234Z,scripters,0.2.5,0,0,https://github.com/ev-main/scripters,"Call scripts as markdown, followed as a clickable conversation graph in one offline html file"
+2026-11-04T02:23:28.268025Z,agg-gui-files,0.0.5,0,0,https://github.com/larsbrubaker/agg-gui,"The folder and item model of agg-gui's file browser: folders, items, writable folders, search, sort and recorded changes, with no drawing code."
+2026-11-04T02:23:36.452008Z,koopdmd,0.1.0,0,0,https://github.com/arclabs561/koopdmd,Dynamic mode decomposition and Koopman operator approximation
+2026-11-04T02:25:29.959222Z,agg-gui-file-browser,0.0.11,0,0,https://github.com/larsbrubaker/agg-gui,"The widgets of agg-gui's file browser: its look, fitted names, the folder breadcrumb trail, the browser state (open path, listing, view, selection and its gestures), the list views (rows, tiles, a fo…"
+2026-11-04T02:29:04.674336Z,aurelia-steam-cdn,1.0.0,0,0,https://github.com/Drackrath/aurelia-steam-cdn,"Steam CDN client (Aurelia fork of steam-cdn, ported to steam-vent 0.5)"
+2026-11-04T02:33:03.036475Z,radioglobe,0.1.0,0,0,https://github.com/GaneshMystic/RadioGlobe,Interactive world map explorer and live radio streaming player for your terminal
+2026-11-04T02:36:47.959796Z,pagesift-rustls,1.0.0,0,0,https://github.com/YOLOW92/pagesift,rustls 0.23.46 with one added hook: a caller-supplied ClientHello writer. Used only by pagesift's optional browser fingerprint mode.
+2026-11-04T02:37:14.915047Z,aurelia-steam,0.1.41,0,0,https://github.com/Drackrath/Aurelia,Aurelia CLI Steam launcher
+2026-11-04T02:38:53.047597Z,pagesift-hooks,1.0.0,0,0,https://github.com/YOLOW92/pagesift,"Extension points for pagesift: request, response, document and sink hooks, and TOML rules compiled into hooks."
+2026-11-04T02:40:52.458689Z,pagesift-infer,1.0.0,0,0,https://github.com/YOLOW92/pagesift,"Small pure-Rust neural network inference: tensors, convolution and transformer layers, safetensors loading."
+2026-11-04T02:40:56.821173Z,pagesift-gpu,1.0.0,0,0,https://github.com/YOLOW92/pagesift,"NVIDIA GPU backend for pagesift-infer: SGEMM, convolution and activations as PTX kernels, loaded through the CUDA driver at run time."
+2026-11-04T02:41:06.123766Z,pagesift-ocr,1.0.0,0,0,https://github.com/YOLOW92/pagesift,"Pure-Rust OCR for scanned PDF pages: PP-OCRv6 text detection and recognition, on CPU or an NVIDIA GPU."
+2026-11-04T02:46:58.872706Z,hypsora-core,0.2.0,0,0,https://github.com/LokiSharp/hypsora,坐标、椭球体、投影与天体抽象。
+2026-11-04T02:47:12.247947Z,hypsora-terrain,0.2.0,0,0,https://github.com/LokiSharp/hypsora,地形采样抽象和内存栅格。
+2026-11-04T02:55:54.699557Z,radicom-codecs-rle,0.1.0,0,0,https://github.com/cocosip/radicom-codecs,DICOM RLE Lossless codec for radicom
+2026-11-04T02:55:57.753876Z,radicom-codecs-jpeg,0.1.0,0,0,https://github.com/cocosip/radicom-codecs,Classic JPEG codecs for radicom
+2026-11-04T02:56:00.546232Z,radicom-codecs-jpeg-ls,0.1.0,0,0,https://github.com/cocosip/radicom-codecs,JPEG-LS codecs for radicom
+2026-11-04T02:56:03.665508Z,radicom-codecs-jpeg2000,0.1.0,0,0,https://github.com/cocosip/radicom-codecs,Pure Rust JPEG 2000 DICOM codecs
+2026-11-04T02:56:07.895459Z,radicom-codecs,0.1.0,0,0,https://github.com/cocosip/radicom-codecs,Concrete DICOM image codecs for radicom
+2026-11-04T03:00:28.213762Z,cm-memory,0.1.0-rc.1,0,0,https://github.com/Cricle/cm,Single-file compressed project memory for coding agents
+2026-11-04T03:07:32.79204Z,index-tts-rs-asr,0.4.0,0,0,https://github.com/tyrchen/index-tts-rs,"Local verbatim speech recognition (sherpa-onnx SenseVoice, Paraformer, Parakeet) and script verification for itts"
+2026-11-04T03:08:12.895625Z,vantage-cli-lib,1.0.0,0,0,https://github.com/cyjin-yl/vantage-cli,Command-line surface for Vantage hardware control
+2026-11-04T03:08:30.123288Z,vantage-daemon,0.1.0,0,0,https://github.com/cyjin-yl/vantage-cli,Optional local event daemon for Vantage hardware control
+2026-11-04T03:08:45.274213Z,vantage-cli,1.0.0,0,0,https://github.com/cyjin-yl/vantage-cli,Cross-platform Lenovo hardware control CLI
+2026-11-04T03:10:32.879309Z,vantage-gui,0.1.0,0,0,https://github.com/cyjin-yl/vantage-cli,Read-only GPUI dashboard for Vantage
