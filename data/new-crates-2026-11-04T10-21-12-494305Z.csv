@@ -1,0 +1,48 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-04T09:20:55.197388Z,print_log_macro,0.1.1,0,0,https://github.com/feihua/axum-admin,A simple axum admin template
+2026-11-04T09:20:55.763921Z,z40-fundament,0.1.0,0,0,https://github.com/zweiund40GmbH/fundament-sdk,"Building blocks for apps that share data over a pull-based change feed: feed consumer, local replica, status endpoint and static service keys."
+2026-11-04T09:21:01.526281Z,rightkit-agent-engine,0.1.0,0,0,https://github.com/bogusyogi/rightkit,"Always-on agent contracts: task envelope and transitions, principals, intents, effects, device and approval binding, voice hand-off."
+2026-11-04T09:26:25.478712Z,effectcraft-render,0.9.2,0,0,,"The CPU compositor: property evaluation, layer sources (solids, footage, text, shapes, precomps), masks, effects, track mattes, 2D/3D transforms, motion blur and blending"
+2026-11-04T09:26:52.452324Z,template_mt,0.1.6,0,0,,Just a template project
+2026-11-04T09:28:23.662438Z,effectcraft-engine,0.9.2,0,0,,"The EffectCraft engine: session, undo history, editor state and the command registry every frontend (UI, CLI, control channel, MCP) dispatches through"
+2026-11-04T09:28:52.227347Z,svetra,0.1.0,0,0,https://github.com/555aaditya/Svetra,"You design the data, Svetra makes it safe: compiles a small svetra.yaml into locked-down Postgres, row-level security and Zod types for Supabase."
+2026-11-04T09:35:22.81353Z,corelox-parser,0.1.0,0,0,https://github.com/sysdiglabs/corelox,CO-RE relocations: struct parser
+2026-11-04T09:35:32.083611Z,hushjack,0.2.2,0,0,https://github.com/hugoocoto/blackjack,"A calm pixel-art blackjack table: a hand-shuffled 6-deck shoe, cutting, splitting and a strategy chart"
+2026-11-04T09:36:29.158794Z,corelox-build,0.1.0,0,0,https://github.com/sysdiglabs/corelox,CO-RE relocations: build.rs hooks
+2026-11-04T09:37:04.193205Z,corelox,0.1.0,0,0,https://github.com/sysdiglabs/corelox,CO-RE relocations: proc macro
+2026-11-04T09:43:20.590616Z,effectcraft-av1enc,0.9.2,0,0,,"Clean-room pure-Rust AV1 encoder (Main profile, key and inter frames) for MP4/WebM export, from the AV1 Bitstream & Decoding Process Specification"
+2026-11-04T09:45:43.608916Z,sopedu-dns,1.0.0,0,0,https://github.com/dkhalizov/sopedu-dns,"Small caching DNS-over-HTTPS forwarder with ad blocking, built for strict RFC conformance"
+2026-11-04T09:45:59.28341Z,openfd-core,0.2.0,0,0,https://github.com/saromanov/openfd,Core fd-scanning library for openfd: /proc backend and classification
+2026-11-04T09:46:11.438634Z,openfd,0.2.0,0,0,https://github.com/saromanov/openfd,"lsof that answers instantly: fast, streaming file-descriptor scanner for Linux"
+2026-11-04T09:46:38.395641Z,mime-rs,0.1.0,0,0,https://github.com/pimalaya/mime,"MIME message parser, validator, editor and builder library for Rust"
+2026-11-04T09:52:19.220473Z,leptoskit_android,0.0.0,0,0,https://github.com/ifiokjr/leptoskit,Android Views backend for the leptoskit shared native component tree.
+2026-11-04T09:52:23.76227Z,leptoskit_aria,0.0.0,0,0,https://github.com/ifiokjr/leptoskit,"Headless accessible components for the leptoskit element tree: disclosure, toggle buttons, tabs, labeled fields, and dialogs wired for the web and every native backend."
+2026-11-04T09:52:27.674453Z,leptoskit_auth,0.0.0,0,0,https://github.com/ifiokjr/leptoskit,"Sign-in for leptoskit apps: the auth schema pack, sessions, email codes, and the signed-in user that access policies read."
+2026-11-04T09:52:34.12514Z,leptoskit_db,0.0.0,0,0,https://github.com/ifiokjr/leptoskit,"leptoskit's database layer: tables declared as Rust structs, typed IDs, and client-safe public projections."
+2026-11-04T09:52:38.145152Z,leptoskit_db_macros,0.0.0,0,0,https://github.com/ifiokjr/leptoskit,The `#[db::table]` attribute and `#[derive(db::Enum)]` behind leptoskit's database layer.
+2026-11-04T09:56:54.619299Z,effectcraft-hevcenc,0.9.2,0,0,,"Clean-room pure-Rust HEVC (H.265) encoder (Main / Main 10, I and P slices, CABAC) for MP4 export, from ITU-T H.265"
+2026-11-04T09:57:06.309819Z,caskade,0.1.0,0,0,https://github.com/dnlzrgz/caskade,Log-structured key/value store inspired by bitcask
+2026-11-04T10:04:02.725117Z,rama-tun,0.0.0-reserved,0,0,https://github.com/plabayo/rama,TUN (layer 3 tunnel interface) support for rama
+2026-11-04T10:06:26.269491Z,quantum_audit,0.0.1-alpha1,0,0,https://github.com/AnnoDomine/QuantumJS,"Structured QJS status codes, diagnostic logging, and tracing for QuantumJS."
+2026-11-04T10:06:28.165066Z,quantum_cache,0.0.1-alpha1,0,0,https://github.com/AnnoDomine/QuantumJS,"BLAKE3 hashing, transactional redb store, and hardware-encrypted caching for QuantumJS."
+2026-11-04T10:06:30.254247Z,quantum_config,0.0.1-alpha1,0,0,https://github.com/AnnoDomine/QuantumJS,Configuration loader and schema resolver for QuantumJS.
+2026-11-04T10:06:32.594392Z,quantum_lexer,0.0.1-alpha1,0,0,https://github.com/AnnoDomine/QuantumJS,"TokenEngine, integer token streams, and lexer for QuantumJS."
+2026-11-04T10:06:34.344377Z,quantum_package_manager,0.0.1-alpha1,0,0,https://github.com/AnnoDomine/QuantumJS,"Package manager, quantum_connect pointer store, and Node runtime manager for QuantumJS."
+2026-11-04T10:06:36.170406Z,quantum_rust_interop,0.0.1-alpha1,0,0,https://github.com/AnnoDomine/QuantumJS,"Inline Rust compiler, WebAssembly bridge, and runtime deallocation for QuantumJS."
+2026-11-04T10:07:27.881159Z,leptoskit_db_schema,0.0.0,0,0,https://github.com/ifiokjr/leptoskit,"The schema model, snapshot format, diff, and SQL renderers behind leptoskit's generated database migrations."
+2026-11-04T10:07:44.35938Z,twitch_thunder,1.0.0,0,0,https://github.com/m3idnotfree/twitch_thunder,thunder
+2026-11-04T10:08:06.240793Z,effectcraft-opusenc,0.9.2,0,0,,"Clean-room pure-Rust Opus encoder (RFC 6716 SILK NB/MB/WB, hybrid SWB/FB and CELT FB modes, 48 kHz, 20 ms; RFC 7845 OpusHead) for WebM export audio"
+2026-11-04T10:13:10.062164Z,lean-ctx-patterns,0.1.0,0,0,https://github.com/yvgude/lean-ctx,Deterministic shell-output compression patterns and token counting for LeanCTX | OSS.
+2026-11-04T10:13:26.750559Z,leptoskit_devtools,0.0.0,0,0,https://github.com/ifiokjr/leptoskit,The DevTools agents that report a running leptoskit app to the local hub.
+2026-11-04T10:13:57.442134Z,lean-ctx-workgraph,0.1.0,0,0,https://github.com/yvgude/lean-ctx,"Bounded multi-agent work graph, budget cascade and outcome evaluation model for LeanCTX | OSS."
+2026-11-04T10:14:33.1746Z,lean-ctx-compress,0.1.0,0,0,https://github.com/yvgude/lean-ctx,"Deterministic text compressors (Markdown, JSON, CSV/TSV, YAML, HTML) for LeanCTX | OSS."
+2026-11-04T10:15:07.487464Z,lean-ctx-fs,0.1.0,0,0,https://github.com/yvgude/lean-ctx,"Filesystem and environment foundation for LeanCTX | OSS: atomic writes, file locks, hashing, JSONC, home resolution."
+2026-11-04T10:15:41.851453Z,lean-ctx-syntax,0.1.0,0,0,https://github.com/yvgude/lean-ctx,"Tree-sitter based code structure for LeanCTX | OSS: signatures, deep AST queries, import resolution and the post-edit syntax gate."
+2026-11-04T10:16:09.184202Z,pometry-rudof_config,0.3.36,0,0,https://github.com/Pometry/rudof,Pometry's fork of rudof's rudof_config: Library for managing configuration files in rudof
+2026-11-04T10:16:19.151238Z,pometry-rudof_iri,0.3.36,0,0,https://github.com/Pometry/rudof,Pometry's fork of rudof's rudof_iri: RDF and Knowledge Graphs processing tool
+2026-11-04T10:16:24.6274Z,pometry-rudof_typing,0.3.36,0,0,https://github.com/Pometry/rudof,Pometry's fork of rudof's rudof_typing: RDF and Knowledge Graphs processing tool
+2026-11-04T10:16:28.849757Z,pometry-rudof_viz,0.3.36,0,0,https://github.com/Pometry/rudof,"Pometry's fork of rudof's rudof_viz: Technology-agnostic visualization primitives (styles, diagram model, renderer traits) for rudof"
+2026-11-04T10:16:37.215877Z,pometry-mie,0.3.36,0,0,https://github.com/Pometry/rudof,Pometry's fork of rudof's mie: RDF and Knowledge Graphs processing tool
+2026-11-04T10:18:29.284467Z,effectcraft-vp9enc,0.9.2,0,0,,"VP9 encoder (profile 0, 8-bit 4:2:0; intra + inter frames, loop filter, rate control) for WebM export, from the VP9 Bitstream & Decoding Process Specification"
+2026-11-04T10:18:53.384973Z,filmcraft-h264enc,0.9.0,0,0,,"Clean-room pure-Rust H.264/AVC encoder (High/Main/Baseline, CABAC/CAVLC, B-frames, rate control)"
+2026-11-04T10:19:28.760411Z,syraise,0.1.0,0,0,https://github.com/kaleidawave/syraise,Framework for building derive macros
