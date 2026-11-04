@@ -8,43 +8,45 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-04 07:18 UTC
+## Latest list — 2026-11-04 08:18 UTC
 
-New crates published between 2026-11-04 06:20 UTC and 2026-11-04 07:18 UTC.
+New crates published between 2026-11-04 07:18 UTC and 2026-11-04 08:18 UTC.
 
-[Full CSV](data/new-crates-2026-11-04T07-18-24-018423Z.csv)
+[Full CSV](data/new-crates-2026-11-04T08-18-30-019652Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-04 06:22:04 | [tachyon-db](https://crates.io/crates/tachyon-db) | 0.1.0 | 0 | Embedded single-file copy-on-write key-value store, with tokio support |
-| 2026-11-04 06:22:32 | [knobe](https://crates.io/crates/knobe) | 0.1.0 | 0 | KNOBE Protocol v1 verifier and sealer: a Rust sibling of lens.py and knobe-core… |
-| 2026-11-04 06:25:24 | [effectcraft-color](https://crates.io/crates/effectcraft-color) | 0.9.2 | 0 | Colour for EffectCraft: RGBA values, sRGB transfer, HSL/HSV, luminance, the lab… |
-| 2026-11-04 06:31:42 | [effectcraft-geom](https://crates.io/crates/effectcraft-geom) | 0.9.2 | 0 | Geometry for EffectCraft: 2D/3D vectors, 3x3 and 4x4 matrices, rectangles and t… |
-| 2026-11-04 06:31:42 | [docker-credential-prego](https://crates.io/crates/docker-credential-prego) | 0.3.0 | 0 | Docker credential helper for Prego by Katskill OCI registries. Gives Docker a m… |
-| 2026-11-04 06:31:50 | [prego](https://crates.io/crates/prego) | 0.3.0 | 0 | Command-line tool for Prego by Katskill: registry tokens, whoami, setup for Car… |
-| 2026-11-04 06:31:52 | [woopwoop-tiles](https://crates.io/crates/woopwoop-tiles) | 0.1.0 | 0 | Turns vector map tiles into SVG, so a browser can draw them as plain images. |
-| 2026-11-04 06:32:53 | [mccode](https://crates.io/crates/mccode) | 0.0.1 | 0 | MicroClaw Code (mccode): a terminal coding agent. Placeholder release; install… |
-| 2026-11-04 06:33:40 | [cargoc](https://crates.io/crates/cargoc) | 0.1.0 | 0 | Cargo wrapper with managed intermediate caches and safe disk-pressure cleanup |
-| 2026-11-04 06:35:42 | [effectcraft-time](https://crates.io/crates/effectcraft-time) | 0.9.2 | 0 | Exact integer media time for EffectCraft and FilmCraft: ticks, rates, timecode… |
-| 2026-11-04 06:47:42 | [effectcraft-keyframe](https://crates.io/crates/effectcraft-keyframe) | 0.9.2 | 0 | Animated values: keyframes, temporal ease (speed/influence), spatial Bezier mot… |
-| 2026-11-04 06:49:29 | [nlptoolkit-sampling](https://crates.io/crates/nlptoolkit-sampling) | 0.0.1 | 0 | Simple Sampling library |
-| 2026-11-04 06:54:34 | [monipix](https://crates.io/crates/monipix) | 0.1.0 | 0 | Official Rust SDK & resolution planner for Monipix (https://monipix.com) — AI I… |
-| 2026-11-04 06:54:37 | [speedpainter](https://crates.io/crates/speedpainter) | 0.1.0 | 0 | Official Rust SDK & MCP client definitions for SpeedPainter AI (https://www.spe… |
-| 2026-11-04 06:55:51 | [abcurves-rs](https://crates.io/crates/abcurves-rs) | 0.1.0 | 0 | ABCurves continuous movement inference and native count renderer |
-| 2026-11-04 06:58:17 | [effectcraft-project](https://crates.io/crates/effectcraft-project) | 0.9.2 | 0 | The EffectCraft document: project items, compositions, layers and the After-Eff… |
-| 2026-11-04 06:58:36 | [effectcraft-raster](https://crates.io/crates/effectcraft-raster) | 0.9.2 | 0 | f32 premultiplied RGBA images: sampling, projective warps, blurs, convolution,… |
-| 2026-11-04 07:01:29 | [kube32-sdk](https://crates.io/crates/kube32-sdk) | 0.1.0 | 0 | no_std Rust bindings for the kube32 WebAssembly pod ABI |
-| 2026-11-04 07:01:42 | [wolfxl-pivot](https://crates.io/crates/wolfxl-pivot) | 2.0.0 | 0 | Pure Rust OOXML pivot cache and pivot table parsing and serialization |
-| 2026-11-04 07:01:43 | [wolfxl-structural](https://crates.io/crates/wolfxl-structural) | 0.1.0 | 0 | Pure Rust XML rewrites for worksheet row and column insertion and deletion |
-| 2026-11-04 07:01:46 | [wolfxl-edit](https://crates.io/crates/wolfxl-edit) | 0.1.0 | 0 | Byte-preserving workbook edits for existing XLSX and XLSM files |
-| 2026-11-04 07:03:59 | [vulkan-memory-allocator-sys](https://crates.io/crates/vulkan-memory-allocator-sys) | 0.1.0 | 0 | Raw Rust bindings to AMD's Vulkan Memory Allocator 3.5.0, built from source wit… |
-| 2026-11-04 07:09:06 | [origincloud-billing](https://crates.io/crates/origincloud-billing) | 0.11.0 | 0 | The Origin Cloud billing API: billing accounts and the projects they pay for, p… |
-| 2026-11-04 07:09:11 | [origincloud-support](https://crates.io/crates/origincloud-support) | 0.11.0 | 0 | The Origin Cloud support API: support cases, each a conversation between an org… |
-| 2026-11-04 07:09:15 | [origincloud-observability](https://crates.io/crates/origincloud-observability) | 0.11.0 | 0 | The Origin Cloud observability API: the metrics the platform collects for a pro… |
-| 2026-11-04 07:11:51 | [effectcraft-segment](https://crates.io/crates/effectcraft-segment) | 0.9.2 | 0 | Swappable trained models for Roto Brush and face tracking: the MaskModel and Fa… |
-| 2026-11-04 07:17:49 | [unlace](https://crates.io/crates/unlace) | 0.2.4 | 0 | Bounded streaming WebM/Matroska audio demuxing, verified seeking and encoded-bl… |
-| 2026-11-04 07:18:02 | [tpt-av-cadence-core](https://crates.io/crates/tpt-av-cadence-core) | 0.1.0 | 0 | Core traits and types for the tpt-cadence audio codec suite: the Decoder trait,… |
-| 2026-11-04 07:18:17 | [tpt-av-cadence-ogg](https://crates.io/crates/tpt-av-cadence-ogg) | 0.1.0 | 0 | Ogg page/packet container layer (RFC 3533) for the tpt-cadence audio codec suit… |
+| 2026-11-04 07:18:25 | [tpt-av-cadence-pcm](https://crates.io/crates/tpt-av-cadence-pcm) | 0.1.0 | 0 | Raw headerless PCM reader and writer for the tpt-cadence audio codec suite. |
+| 2026-11-04 07:18:32 | [tpt-av-cadence-wav](https://crates.io/crates/tpt-av-cadence-wav) | 0.1.0 | 0 | RIFF/WAVE parser with PCM/IEEE-float decoder and encoder for the tpt-cadence au… |
+| 2026-11-04 07:18:51 | [tpt-av-cadence-aiff](https://crates.io/crates/tpt-av-cadence-aiff) | 0.1.0 | 0 | AIFF/AIFC (big-endian IFF) parser with decoder and encoder for the tpt-cadence… |
+| 2026-11-04 07:22:13 | [tpt-av-cadence-flac](https://crates.io/crates/tpt-av-cadence-flac) | 0.1.0 | 0 | FLAC (Free Lossless Audio Codec) parser with decoder and encoder for the tpt-ca… |
+| 2026-11-04 07:25:35 | [effectcraft-track](https://crates.io/crates/effectcraft-track) | 0.9.2 | 0 | Motion tracking: feature/search region point tracking (pyramid normalized cross… |
+| 2026-11-04 07:28:02 | [liveengine](https://crates.io/crates/liveengine) | 0.2.1 | 0 | Rust live matchmaking, embedded and standalone hub hosting, and authenticated r… |
+| 2026-11-04 07:29:57 | [rucloud](https://crates.io/crates/rucloud) | 0.1.1 | 0 | A self-hostable Cloudflare-Workers-like platform: Rust edge gateway + D1/KV/R2/… |
+| 2026-11-04 07:30:49 | [dagnet](https://crates.io/crates/dagnet) | 0.0.1 | 0 | Dagnet: DAG orchestration engine (scheduling, runs, retries, sensors). Under de… |
+| 2026-11-04 07:30:52 | [dagnet-cli](https://crates.io/crates/dagnet-cli) | 0.0.1 | 0 | Command-line interface for Dagnet, a DAG orchestration engine. Under developmen… |
+| 2026-11-04 07:32:23 | [tpt-av-cadence-vorbis](https://crates.io/crates/tpt-av-cadence-vorbis) | 0.1.0 | 0 | Ogg Vorbis I decoder and encoder for the tpt-cadence audio codec suite. |
+| 2026-11-04 07:35:46 | [vgforge](https://crates.io/crates/vgforge) | 0.0.0 | 0 | A software forge without a central host. Placeholder; under development. |
+| 2026-11-04 07:38:30 | [effectcraft-effects](https://crates.io/crates/effectcraft-effects) | 0.9.2 | 0 | Effect registry (specs, parameters, categories) and CPU implementations of the… |
+| 2026-11-04 07:38:44 | [filmcraft-cfb](https://crates.io/crates/filmcraft-cfb) | 0.9.0 | 0 | Clean-room Compound File Binary (Microsoft structured storage, [MS-CFB]) reader… |
+| 2026-11-04 07:40:14 | [regain-qhy](https://crates.io/crates/regain-qhy) | 0.6.2 | 0 | QHY camera SDK reference and direct USB protocols for PulsarFab regain |
+| 2026-11-04 07:41:40 | [tpt-av-cadence-opus](https://crates.io/crates/tpt-av-cadence-opus) | 0.1.0 | 0 | Opus (RFC 6716) decoder and encoder (CELT, SILK, and hybrid) with Ogg Opus (RFC… |
+| 2026-11-04 07:46:32 | [artsl](https://crates.io/crates/artsl) | 0.1.1 | 0 | Console art that rolls across your terminal, drawn by an LLM from today's news.… |
+| 2026-11-04 07:48:14 | [poolproof](https://crates.io/crates/poolproof) | 0.1.1 | 0 | Find out what breaks when you put a connection pooler in front of Postgres |
+| 2026-11-04 07:48:15 | [tole-tui](https://crates.io/crates/tole-tui) | 0.10.0 | 0 | Inline terminal UI for tole (presentation + event loop over tole-core) |
+| 2026-11-04 07:51:40 | [filmcraft-interchange](https://crates.io/crates/filmcraft-interchange) | 0.9.0 | 0 | FilmCraft interchange: CMX 3600 EDL, Final Cut Pro 7 XML (xmeml), FCPXML and Op… |
+| 2026-11-04 07:53:39 | [bpmn-svg](https://crates.io/crates/bpmn-svg) | 0.1.0 | 0 | Draws BPMN 2.0 process diagrams as self-contained SVG, with a layered auto-layo… |
+| 2026-11-04 07:57:25 | [znk](https://crates.io/crates/znk) | 0.1.0 | 0 | Blazingly fast and parallel rsync alternative |
+| 2026-11-04 08:03:48 | [gpgpru_core](https://crates.io/crates/gpgpru_core) | 0.3.2 | 0 | Core lib for gpgpru |
+| 2026-11-04 08:03:48 | [gpgpru_macro](https://crates.io/crates/gpgpru_macro) | 0.3.2 | 0 | Macros for gpgpru |
+| 2026-11-04 08:03:49 | [gpgpru](https://crates.io/crates/gpgpru) | 0.3.2 | 0 | Rust GPU framework |
+| 2026-11-04 08:06:00 | [effectcraft-interchange](https://crates.io/crates/effectcraft-interchange) | 0.9.2 | 0 | Premiere Pro interop through timeline interchange: Final Cut Pro 7 XML (xmeml),… |
+| 2026-11-04 08:08:01 | [guide](https://crates.io/crates/guide) | 0.0.0 | 0 | Placement and routing engine for PCBs, FPGAs and other constrained connection p… |
+| 2026-11-04 08:09:56 | [zygos](https://crates.io/crates/zygos) | 0.1.0 | 0 | Scale primitives for data visualization: values, ranges, transforms, and tick /… |
+| 2026-11-04 08:11:42 | [weftcodec](https://crates.io/crates/weftcodec) | 0.3.0 | 0 | WeftCodec v1: deterministic context-conditioned codec (frame format WFT1, WCB,… |
+| 2026-11-04 08:12:04 | [weftfs](https://crates.io/crates/weftfs) | 0.3.0 | 0 | WeftFS v1 transactional store core and Linux FUSE frontend |
+| 2026-11-04 08:16:44 | [pagesift-syntax](https://crates.io/crates/pagesift-syntax) | 1.1.0 | 0 | A pure-Rust runtime compatible with tree-sitter grammar tables, with code outli… |
+| 2026-11-04 08:18:21 | [effectcraft-path](https://crates.io/crates/effectcraft-path) | 0.9.2 | 0 | Bezier shapes: AE vertex model ⇄ kurbo, parametric shapes, path operations, str… |
 
 ## Data source
 

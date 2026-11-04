@@ -1,0 +1,32 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-04T07:18:25.711917Z,tpt-av-cadence-pcm,0.1.0,0,0,https://github.com/tpt-solutions/tpt-cadence,Raw headerless PCM reader and writer for the tpt-cadence audio codec suite.
+2026-11-04T07:18:32.891108Z,tpt-av-cadence-wav,0.1.0,0,0,https://github.com/tpt-solutions/tpt-cadence,RIFF/WAVE parser with PCM/IEEE-float decoder and encoder for the tpt-cadence audio codec suite.
+2026-11-04T07:18:51.665405Z,tpt-av-cadence-aiff,0.1.0,0,0,https://github.com/tpt-solutions/tpt-cadence,AIFF/AIFC (big-endian IFF) parser with decoder and encoder for the tpt-cadence audio codec suite.
+2026-11-04T07:22:13.89963Z,tpt-av-cadence-flac,0.1.0,0,0,https://github.com/tpt-solutions/tpt-cadence,FLAC (Free Lossless Audio Codec) parser with decoder and encoder for the tpt-cadence audio codec suite.
+2026-11-04T07:25:35.251341Z,effectcraft-track,0.9.2,0,0,,"Motion tracking: feature/search region point tracking (pyramid normalized cross-correlation + Lucas-Kanade refinement), confidence, corner-pin / transform solves, stabilization, Roto Brush segmentati…"
+2026-11-04T07:28:02.963783Z,liveengine,0.2.1,0,0,https://github.com/dixonSolutions/LiveEngine,"Rust live matchmaking, embedded and standalone hub hosting, and authenticated remote hub registries"
+2026-11-04T07:29:57.76624Z,rucloud,0.1.1,0,0,https://github.com/ccc-claude-opus/rucloud,"A self-hostable Cloudflare-Workers-like platform: Rust edge gateway + D1/KV/R2/Queues/Cron/Durable Objects/Vectorize/AI Gateway bindings, running Worker code on Node.js"
+2026-11-04T07:30:49.576238Z,dagnet,0.0.1,0,0,,"Dagnet: DAG orchestration engine (scheduling, runs, retries, sensors). Under development."
+2026-11-04T07:30:52.299794Z,dagnet-cli,0.0.1,0,0,,"Command-line interface for Dagnet, a DAG orchestration engine. Under development."
+2026-11-04T07:32:23.276009Z,tpt-av-cadence-vorbis,0.1.0,0,0,https://github.com/tpt-solutions/tpt-cadence,Ogg Vorbis I decoder and encoder for the tpt-cadence audio codec suite.
+2026-11-04T07:35:46.129461Z,vgforge,0.0.0,0,0,,A software forge without a central host. Placeholder; under development.
+2026-11-04T07:38:30.280808Z,effectcraft-effects,0.9.2,0,0,,"Effect registry (specs, parameters, categories) and CPU implementations of the effects library"
+2026-11-04T07:38:44.642327Z,filmcraft-cfb,0.9.0,0,0,,"Clean-room Compound File Binary (Microsoft structured storage, [MS-CFB]) reader and writer: the container of AAF files"
+2026-11-04T07:40:14.782787Z,regain-qhy,0.6.2,0,0,https://github.com/pulsarfab/regain,QHY camera SDK reference and direct USB protocols for PulsarFab regain
+2026-11-04T07:41:40.545507Z,tpt-av-cadence-opus,0.1.0,0,0,https://github.com/tpt-solutions/tpt-cadence,"Opus (RFC 6716) decoder and encoder (CELT, SILK, and hybrid) with Ogg Opus (RFC 7845) support, for the tpt-cadence audio codec suite."
+2026-11-04T07:46:32.764044Z,artsl,0.1.1,0,0,https://github.com/mailbuttons/artsl,"Console art that rolls across your terminal, drawn by an LLM from today's news. A homage to sl."
+2026-11-04T07:48:14.68215Z,poolproof,0.1.1,0,0,https://github.com/Nihal-Pandey-2302/poolproof,Find out what breaks when you put a connection pooler in front of Postgres
+2026-11-04T07:48:15.148045Z,tole-tui,0.10.0,0,0,https://github.com/codecoradev/tole,Inline terminal UI for tole (presentation + event loop over tole-core)
+2026-11-04T07:51:40.020548Z,filmcraft-interchange,0.9.0,0,0,,"FilmCraft interchange: CMX 3600 EDL, Final Cut Pro 7 XML (xmeml), FCPXML and OpenTimelineIO import/export"
+2026-11-04T07:53:39.653946Z,bpmn-svg,0.1.0,0,0,https://github.com/startr-trade/sutra,"Draws BPMN 2.0 process diagrams as self-contained SVG, with a layered auto-layout for files that carry no BPMN-DI"
+2026-11-04T07:57:25.331536Z,znk,0.1.0,0,0,https://github.com/mrzlkvvv/znk,Blazingly fast and parallel rsync alternative
+2026-11-04T08:03:48.739201Z,gpgpru_core,0.3.2,0,0,,Core lib for gpgpru
+2026-11-04T08:03:48.995118Z,gpgpru_macro,0.3.2,0,0,,Macros for gpgpru
+2026-11-04T08:03:49.863717Z,gpgpru,0.3.2,0,0,,Rust GPU framework
+2026-11-04T08:06:00.120775Z,effectcraft-interchange,0.9.2,0,0,,"Premiere Pro interop through timeline interchange: Final Cut Pro 7 XML (xmeml), FCPXML, OpenTimelineIO and CMX 3600 EDL sequences to and from compositions (via filmcraft-interchange)"
+2026-11-04T08:08:01.04334Z,guide,0.0.0,0,0,https://github.com/KarpelesLab/guide,"Placement and routing engine for PCBs, FPGAs and other constrained connection problems (early scaffold: no routing yet)."
+2026-11-04T08:09:56.274683Z,zygos,0.1.0,0,0,https://github.com/posit-dev/zygos,"Scale primitives for data visualization: values, ranges, transforms, and tick / break algorithms."
+2026-11-04T08:11:42.772055Z,weftcodec,0.3.0,0,0,https://github.com/infinityabundance/WeftCodec,"WeftCodec v1: deterministic context-conditioned codec (frame format WFT1, WCB, selectors)"
+2026-11-04T08:12:04.198934Z,weftfs,0.3.0,0,0,https://github.com/infinityabundance/WeftFS,WeftFS v1 transactional store core and Linux FUSE frontend
+2026-11-04T08:16:44.310486Z,pagesift-syntax,1.1.0,0,0,https://github.com/YOLOW92/pagesift,"A pure-Rust runtime compatible with tree-sitter grammar tables, with code outline extraction (symbols, imports, sections) for 13 languages."
+2026-11-04T08:18:21.170907Z,effectcraft-path,0.9.2,0,0,,"Bezier shapes: AE vertex model ⇄ kurbo, parametric shapes, path operations, stroking/dashing and anti-aliased coverage rasterisation"
