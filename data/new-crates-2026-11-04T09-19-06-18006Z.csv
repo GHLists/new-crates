@@ -1,0 +1,45 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-04T08:18:44.564871Z,effectcraft-text,0.9.2,0,0,,"Text engine: fonts (bundled OFL + system), shaping (harfrust), bidi, line breaking, paragraph layout and glyph outlines as Bezier paths"
+2026-11-04T08:18:59.955552Z,solana_kit_dapp_publisher,0.0.0,0,0,https://github.com/pina-rs/solana_kit/tree/main/crates/solana_kit_dapp_publisher,"Portable dApp publication policy, portal protocol and resumable metadata hydration"
+2026-11-04T08:19:03.628738Z,solana_kit_dapp_publisher_cli,0.0.0,0,0,https://github.com/pina-rs/solana_kit/tree/main/crates/solana_kit_dapp_publisher_cli,Native publishing CLI for the Solana Kit dApp publisher
+2026-11-04T08:19:07.464809Z,solana_kit_jupiter,0.0.0,0,0,https://github.com/pina-rs/solana_kit/tree/main/crates/solana_kit_jupiter,"Executor-neutral Jupiter swap, price and token clients for off-chain applications"
+2026-11-04T08:19:10.957579Z,solana_kit_sns,0.0.0,0,0,https://github.com/pina-rs/solana_kit/tree/main/crates/solana_kit_sns,Portable offline Solana Name Service client primitives
+2026-11-04T08:26:02.483976Z,rightkit-connector-gen,0.1.0,0,0,https://github.com/bogusyogi/rightkit,"Generate workflow-automation connectors (n8n node, Zapier app, Make app) from an engine contract: one operation per engine method posting its params to the app's HTTP bridge. std only."
+2026-11-04T08:27:01.641058Z,orbis-reporting,0.0.1,0,0,https://github.com/sourcenetwork/orbis-rs,Canonical Orbis report and fault-evidence formats
+2026-11-04T08:30:00.167249Z,pometry-oxrdfxml,0.2.5,0,0,https://github.com/Pometry/oxigraph,Pometry's fork of oxigraph's oxrdfxml: Parser and serializer for the RDF/XML format
+2026-11-04T08:30:00.699544Z,effectcraft-lottie,0.9.2,0,0,,"Lottie JSON import and export: compositions, precomps, shape/solid/null/image/text layers, keyframes with temporal and spatial easing, masks, track mattes and a few effects"
+2026-11-04T08:30:03.884231Z,pometry-oxttl,0.2.5,0,0,https://github.com/Pometry/oxigraph,"Pometry's fork of oxigraph's oxttl: Parser and serializer for languages related to RDF Turtle (N-Triples, N-Quads, Turtle, TriG and N3)"
+2026-11-04T08:30:08.163244Z,pometry-sparesults,0.3.5,0,0,https://github.com/Pometry/oxigraph,Pometry's fork of oxigraph's sparesults: SPARQL query results formats parsers and serializers
+2026-11-04T08:30:12.955171Z,pometry-spargebra,0.4.8,0,0,https://github.com/Pometry/oxigraph,Pometry's fork of oxigraph's spargebra: SPARQL parser
+2026-11-04T08:30:17.531847Z,pometry-oxrdfio,0.2.7,0,0,https://github.com/Pometry/oxigraph,Pometry's fork of oxigraph's oxrdfio: Parser and serializer for various RDF formats
+2026-11-04T08:34:22.945044Z,collection-kernels,0.1.0,0,0,https://github.com/moritzbrantner/rust-kernels,Small deterministic collection and data-structure kernels
+2026-11-04T08:34:27.318419Z,graph-kernels,0.1.0,0,0,https://github.com/moritzbrantner/rust-kernels,Small deterministic graph and path-search kernels
+2026-11-04T08:34:30.556574Z,search-kernels,0.1.0,0,0,https://github.com/moritzbrantner/rust-kernels,Small deterministic selection and search kernels
+2026-11-04T08:41:20.080525Z,pometry-sparopt,0.3.9,0,0,https://github.com/Pometry/oxigraph,Pometry's fork of oxigraph's sparopt: SPARQL optimizer
+2026-11-04T08:42:47.80319Z,effectcraft-model,0.9.2,0,0,,"3D models: glTF 2.0 (.gltf/.glb), Wavefront OBJ/MTL, STL and FBX 7.x (binary and ASCII) import, PBR metallic-roughness materials, node hierarchy, skinning and animation, parametric primitives, and ex…"
+2026-11-04T08:46:38.55Z,pometry-spareval,0.2.9,0,0,https://github.com/Pometry/oxigraph,Pometry's fork of oxigraph's spareval: SPARQL evaluator
+2026-11-04T08:48:30.029902Z,memof,0.1.0,0,0,https://github.com/sheosi/memof,Multibackend memory tracker
+2026-11-04T08:53:31.954667Z,rightkit-app-update,0.1.0,0,0,https://github.com/bogusyogi/rightkit,"Native half of Right Suite app updates that the Tauri shell does not carry: the failed-boot sentinel and BootStage probation after an update, and an allowlisted, redacted fetch bridge over rightkit-h…"
+2026-11-04T08:53:32.966922Z,vexdroid,0.1.0,0,0,https://github.com/ajitpatel28/vexdroid,"Lean, read-only git for AI coding agents. Same commands, a fraction of the tokens, cheaper code reviews in Claude Code, Codex, Cursor and Gemini CLI."
+2026-11-04T08:55:10.104196Z,rightkit-autostart,0.1.0,0,0,https://github.com/bogusyogi/rightkit,"Launch at login without Tauri: LaunchAgent or SMAppService on macOS, HKCU Run on Windows, XDG autostart on Linux, with migration from tauri-plugin-autostart entries."
+2026-11-04T08:56:03.079106Z,rightkit-clipboard,0.1.0,0,0,https://github.com/bogusyogi/rightkit,"Rich clipboard without Tauri: text, HTML, PNG, file lists and app-defined formats in one transaction on macOS (NSPasteboard) and Windows (Win32), private named pasteboards, and snapshot reads with pl…"
+2026-11-04T08:57:55.526324Z,sequoia-shader-wgsl,0.1.4,0,0,,Shared WGSL sources used by the Sequoia shader runtime and macro
+2026-11-04T08:58:10.333849Z,sequoia-shader-macros,0.1.4,0,0,,Sequoia GUI framework — attribute macro for custom WGSL shaders
+2026-11-04T08:58:26.218442Z,sequoia-shader,0.1.4,0,0,,Sequoia GUI framework — custom shader runtime and WGSL types
+2026-11-04T08:59:42.256582Z,pometry-oxigraph,0.5.13,0,0,https://github.com/Pometry/oxigraph,Pometry's fork of oxigraph's oxigraph: SPARQL database and RDF toolkit
+2026-11-04T08:59:58.820476Z,canvist_desktop,0.0.0,0,0,https://github.com/canvist/canvist,"The canvist rich-text editor for macOS, Windows, and Linux: a winit component painted with vello, with IME, clipboard, and AccessKit accessibility"
+2026-11-04T09:00:02.584302Z,canvist_dictation,0.0.0,0,0,https://github.com/canvist/canvist,The canvist dictation wire protocol: the messages a client and a dictation relay exchange over one WebSocket
+2026-11-04T09:00:06.201581Z,canvist_dictation_relay,0.0.0,0,0,https://github.com/canvist/canvist,"The canvist dictation relay: streams speech from clients to speech-to-text providers, with an optional language-model polish"
+2026-11-04T09:00:52.342932Z,effectcraft-svg,0.9.2,0,0,,"SVG import: parses SVG 1.1 / SVG 2 static vector content (paths, basic shapes, groups, transforms, use, CSS styles, solid and gradient fills/strokes, opacity) and rasterises it at any scale"
+2026-11-04T09:01:38.353948Z,rightkit-deep-link,0.1.0,0,0,https://github.com/bogusyogi/rightkit,"Deep-link queue without Tauri: scheme validation, argv extraction and a bounded queue that holds links until the app is ready to take them."
+2026-11-04T09:03:18.991859Z,rightkit-instance,0.1.0,0,0,https://github.com/bogusyogi/rightkit,"Single instance and second-launch forwarding without Tauri over rightkit-daemon, with the legacy tauri-plugin-single-instance socket and window handoff."
+2026-11-04T09:04:09.813357Z,effectcraft-pdf,0.9.2,0,0,,"Vector footage import: PDF and PDF-compatible Illustrator (.ai) pages and EPS (a PostScript subset) parsed into the SVG render tree (paths, fills, strokes, shadings, tiling patterns, clipping, text w…"
+2026-11-04T09:08:17.461265Z,signa,0.0.1,0,0,https://github.com/ryumatag/signa,WIP
+2026-11-04T09:10:25.681053Z,genspark-sbbox,0.1.0,0,0,https://github.com/genspark-ai/sb-box-sdk,Official Rust SDK for SB-Box — cloud sandboxes for agents and code execution
+2026-11-04T09:13:06.038681Z,reviero,0.1.0,0,0,https://github.com/maslenn1koff/reviero,Portable SIMD operations with runtime CPU dispatch
+2026-11-04T09:14:38.328694Z,effectcraft-psd,0.9.2,0,0,,"Photoshop PSD/PSB reader (layers, groups, masks, blend modes, text, layer effects, adjustment layers; 8/16/32-bit, RGB/CMYK/Gray/Lab/Indexed, raw/RLE/ZIP) and a minimal writer, from Adobe's published…"
+2026-11-04T09:17:01.203502Z,rightkit-presence,0.1.0,0,0,https://github.com/bogusyogi/rightkit,"Meeting and fullscreen presence detection and Do-Not-Disturb state without Tauri: window observation, environment classification, automatic and manual preferences."
+2026-11-04T09:17:40.910081Z,mockforge-auth,0.3.240,0,0,https://github.com/SaaSy-Solutions/mockforge,Authentication middleware and OAuth2/OIDC support for MockForge
+2026-11-04T09:18:23.97486Z,andysu-core,0.1.90,0,0,https://github.com/dixonSolutions/AndySU,"AndySU sans-IO core: signature and hash verification, release selection, patching, safe extraction and the slot state machine"
+2026-11-04T09:18:37.038704Z,andysu-cli,0.1.90,0,0,https://github.com/dixonSolutions/AndySU,"AndySU command line: keygen, init, split, pack, sign, diff, publish, verify"
+2026-11-04T09:18:38.522247Z,rightkit-signal,0.1.0,0,0,https://github.com/bogusyogi/rightkit,"Cross-process wake-up signals between a native companion and a host app: Darwin notifications on macOS, named events on Windows, plus a repeating visibility lease."
