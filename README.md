@@ -8,44 +8,48 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-03 23:20 UTC
+## Latest list — 2026-11-04 00:18 UTC
 
-New crates published between 2026-11-03 22:20 UTC and 2026-11-03 23:20 UTC.
+New crates published between 2026-11-03 23:20 UTC and 2026-11-04 00:18 UTC.
 
-[Full CSV](data/new-crates-2026-11-03T23-20-04-343177Z.csv)
+[Full CSV](data/new-crates-2026-11-04T00-18-52-968081Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-03 22:21:30 | [best-of-n](https://crates.io/crates/best-of-n) | 0.0.0 | 0 | bon (best-of-N): placeholder reserving the name; not yet usable. |
-| 2026-11-03 22:21:59 | [xmachines-codec-avro](https://crates.io/crates/xmachines-codec-avro) | 0.0.0 | 0 | Reserved for the xmachines runtime, a port of XState's interpreter and actor ru… |
-| 2026-11-03 22:23:43 | [stainless-facts](https://crates.io/crates/stainless-facts) | 0.3.0 | 0 | A simple, immutable fact stream library inspired by Datomic with support for I/… |
-| 2026-11-03 22:31:58 | [xmachines-codec-msgpack](https://crates.io/crates/xmachines-codec-msgpack) | 0.0.0 | 0 | Reserved for the xmachines runtime, a port of XState's interpreter and actor ru… |
-| 2026-11-03 22:33:45 | [athame-config](https://crates.io/crates/athame-config) | 0.0.0 | 0 | Layered config and trust for athame |
-| 2026-11-03 22:36:11 | [athame](https://crates.io/crates/athame) | 0.0.0 | 0 | Cast projects, files and commands from templates, with mise-style layered config |
-| 2026-11-03 22:42:00 | [xmachines-codec-protobuf](https://crates.io/crates/xmachines-codec-protobuf) | 0.0.0 | 0 | Reserved for the xmachines runtime, a port of XState's interpreter and actor ru… |
-| 2026-11-03 22:42:08 | [spr-gnark-ffi-prover-build](https://crates.io/crates/spr-gnark-ffi-prover-build) | 0.8.0 | 0 | Build-script helper that compiles a spr-gnark-ffi-prover circuit package into a… |
-| 2026-11-03 22:42:12 | [spr-smart-account-client](https://crates.io/crates/spr-smart-account-client) | 0.8.0 | 0 | Client (PDAs + instruction builders) for the Squads smart-account program used… |
-| 2026-11-03 22:42:27 | [spr-protocol-instructions](https://crates.io/crates/spr-protocol-instructions) | 0.8.0 | 0 | Instruction builders for Zolana protocol administration and maintenance. |
-| 2026-11-03 22:42:36 | [spr-gnark-ffi-prover](https://crates.io/crates/spr-gnark-ffi-prover) | 0.8.0 | 0 | In-process gnark Groth16 prover for Zolana ZK programs, linked as a Go C archiv… |
-| 2026-11-03 22:47:06 | [peak-blocker](https://crates.io/crates/peak-blocker) | 0.1.1 | 0 | A Claude Code PreToolUse hook that pauses tool calls during Anthropic's weekday… |
-| 2026-11-03 22:52:00 | [xmachines-eval-quickjs](https://crates.io/crates/xmachines-eval-quickjs) | 0.0.0 | 0 | Reserved for the xmachines runtime, a port of XState's interpreter and actor ru… |
-| 2026-11-03 22:52:35 | [zacess-games](https://crates.io/crates/zacess-games) | 0.3.0 | 0 | Fourteen original games for the terminal in the Zacess high contrast themes |
-| 2026-11-03 23:01:59 | [xmachines-wasi-host](https://crates.io/crates/xmachines-wasi-host) | 0.0.0 | 0 | Reserved for the xmachines runtime, a port of XState's interpreter and actor ru… |
-| 2026-11-03 23:02:43 | [alpha-time](https://crates.io/crates/alpha-time) | 0.0.1 | 0 | Alpha build expiration and tamper detection. |
-| 2026-11-03 23:02:49 | [aphrody-hayro-jbig2](https://crates.io/crates/aphrody-hayro-jbig2) | 0.3.0 | 0 | A memory-safe, pure-Rust JBIG2 decoder. Aphrody fork of hayro-jbig2 (https://gi… |
-| 2026-11-03 23:02:54 | [ltk_navgrid](https://crates.io/crates/ltk_navgrid) | 0.1.0 | 0 | Navigation grid (.aimesh_ngrid) and grid overlay reading/writing for League Too… |
-| 2026-11-03 23:04:16 | [turbospark-coreml](https://crates.io/crates/turbospark-coreml) | 0.7.0 | 0 | Apple Core ML runner: load compiled or packaged models, marshal tensors, run st… |
-| 2026-11-03 23:06:52 | [turbospark-embeddings](https://crates.io/crates/turbospark-embeddings) | 0.7.0 | 0 | Portable embedding models (EmbeddingGemma, Snowflake arctic-embed BERT/XLM-R/GT… |
-| 2026-11-03 23:07:00 | [sapphire-timer-server](https://crates.io/crates/sapphire-timer-server) | 0.2.0 | 0 | sapphire-timer's app server: the one process that reads and writes the presets… |
-| 2026-11-03 23:07:00 | [sapphire-journal-server](https://crates.io/crates/sapphire-journal-server) | 0.15.0 | 0 | sapphire-journal's app server: the one process that reads and writes the journa… |
-| 2026-11-03 23:07:00 | [rs-sqlite2arrow-ipc](https://crates.io/crates/rs-sqlite2arrow-ipc) | 0.1.0 | 0 | Convert SQLite table to Arrow IPC stream |
-| 2026-11-03 23:07:06 | [sapphire-timer-cli](https://crates.io/crates/sapphire-timer-cli) | 0.2.0 | 0 | The command line of sapphire-timer's two editions, the headless one and the des… |
-| 2026-11-03 23:07:10 | [sapphire-journal-headless](https://crates.io/crates/sapphire-journal-headless) | 0.15.0 | 0 | A task, event and note management app built on sapphire-framework - file-based,… |
-| 2026-11-03 23:07:11 | [sapphire-timer-headless](https://crates.io/crates/sapphire-timer-headless) | 0.2.0 | 0 | A preset-based timer built on sapphire-framework - file-based, local-first, mad… |
-| 2026-11-03 23:10:20 | [aphrody-hayro-syntax](https://crates.io/crates/aphrody-hayro-syntax) | 0.7.2 | 0 | A low-level crate for reading PDF files. Aphrody fork of hayro-syntax (https://… |
-| 2026-11-03 23:11:06 | [av-toolbox-build](https://crates.io/crates/av-toolbox-build) | 0.2.0 | 0 | Build script helpers that hash the kernel sources of av-toolbox crates. |
-| 2026-11-03 23:12:01 | [xmachines-kafka](https://crates.io/crates/xmachines-kafka) | 0.0.0 | 0 | Reserved for the xmachines runtime, a port of XState's interpreter and actor ru… |
-| 2026-11-03 23:17:14 | [pay-respects-rule-engine](https://crates.io/crates/pay-respects-rule-engine) | 0.1.0 | 0 | Rule IR and evaluator for the pay-respects CLI tool |
+| 2026-11-03 23:25:47 | [rightkit-pty](https://crates.io/crates/rightkit-pty) | 0.1.0 | 0 | Async managed PTY child for Right Suite apps: owned tree, resize, bounded input… |
+| 2026-11-03 23:28:32 | [arcantis](https://crates.io/crates/arcantis) | 1.0.0-rc.1 | 0 | Arcantis for Rust: helpers for SPL Token-2022 confidential transfers, a mirror… |
+| 2026-11-03 23:28:34 | [sapphire-agent-headless](https://crates.io/crates/sapphire-agent-headless) | 0.12.0 | 0 | A personal AI assistant agent that works on file-based, local-first sapphire-fr… |
+| 2026-11-03 23:40:11 | [sapphire-ledger-server](https://crates.io/crates/sapphire-ledger-server) | 0.3.0 | 0 | sapphire-ledger's app server: the one process that serves the ledger, with its… |
+| 2026-11-03 23:40:18 | [sapphire-ledger-cli](https://crates.io/crates/sapphire-ledger-cli) | 0.3.0 | 0 | The command line of sapphire-ledger's two editions, the headless one and the de… |
+| 2026-11-03 23:40:25 | [sapphire-ledger-headless](https://crates.io/crates/sapphire-ledger-headless) | 0.3.0 | 0 | A double-entry household ledger built on sapphire-framework - file-based, local… |
+| 2026-11-03 23:47:07 | [keylink-persist](https://crates.io/crates/keylink-persist) | 0.1.0 | 0 | A port for actor state that outlives its process, and the local-file adapter. |
+| 2026-11-03 23:47:11 | [keylink](https://crates.io/crates/keylink) | 0.1.0 | 0 | Typed peer-to-peer RPC over iroh, with a schema-derived ALPN and fail-closed au… |
+| 2026-11-03 23:47:14 | [keylink-http](https://crates.io/crates/keylink-http) | 0.1.0 | 0 | Bounded authenticated HTTP/JSON gateway for generated Keylink services. |
+| 2026-11-03 23:47:17 | [keylink-openapi](https://crates.io/crates/keylink-openapi) | 0.1.0 | 0 | OpenAPI 3.1 and JSON Schema documents for a keylink-http surface |
+| 2026-11-03 23:47:30 | [aws3](https://crates.io/crates/aws3) | 0.1.0 | 0 | A fast command compatible with aws s3 |
+| 2026-11-03 23:54:56 | [rootcard](https://crates.io/crates/rootcard) | 0.0.0 | 0 | A portable, self-certifying identity for online logins (core library) |
+| 2026-11-03 23:54:59 | [rootcard-cli](https://crates.io/crates/rootcard-cli) | 0.0.0 | 0 | The rootcard key tool: recovery-key operations for rootcard identities |
+| 2026-11-03 23:55:00 | [rootcard-host](https://crates.io/crates/rootcard-host) | 0.0.0 | 0 | Host-side helpers for rootcard identities: challenges, identity stores and requ… |
+| 2026-11-03 23:55:44 | [rupy](https://crates.io/crates/rupy) | 0.1.0 | 0 | A typed subset of Python compiled to readable Rust, or straight to WebAssembly,… |
+| 2026-11-03 23:57:54 | [upcie](https://crates.io/crates/upcie) | 0.11.0 | 0 | User-space PCIe in Rust: sysfs, VFIO, iommufd, MMIO and DMA memory, with no dep… |
+| 2026-11-03 23:58:28 | [neocogi-platform-build](https://crates.io/crates/neocogi-platform-build) | 0.1.0-alpha.1 | 0 | Packaged NeoCogi platform, renderer and shader interface sources and build help… |
+| 2026-11-03 23:59:41 | [neocogi-native-layout-core](https://crates.io/crates/neocogi-native-layout-core) | 0.1.0-alpha.1 | 0 | Build-only native output policy and exclusively owned resource staging |
+| 2026-11-04 00:00:56 | [neocogi-native-layout](https://crates.io/crates/neocogi-native-layout) | 0.1.0-alpha.1 | 0 | Compile-time copying of Cargo artifacts and application resources |
+| 2026-11-04 00:02:16 | [neocogi-render-core](https://crates.io/crates/neocogi-render-core) | 0.1.0-alpha.1 | 0 | Backend-neutral renderer SPI for NeoCogi |
+| 2026-11-04 00:03:31 | [neocogi-shader-core](https://crates.io/crates/neocogi-shader-core) | 0.1.0-alpha.1 | 0 | Owned shader compiler contracts and bounded artifact readers |
+| 2026-11-04 00:08:20 | [skycast](https://crates.io/crates/skycast) | 0.1.0-alpha.1 | 0 | Weather in your terminal: forecast, air quality, NWS alerts, Braille radar, sun… |
+| 2026-11-04 00:08:53 | [neocogi-shader-compiler](https://crates.io/crates/neocogi-shader-compiler) | 0.1.0-alpha.1 | 0 | CPU-only portable shader compiler COM provider |
+| 2026-11-04 00:15:25 | [leafy_macro](https://crates.io/crates/leafy_macro) | 0.1.0 | 0 | Procedural macros (html!, Properties, function_component) for leafy. |
+| 2026-11-04 00:15:51 | [leafy](https://crates.io/crates/leafy) | 0.1.0 | 0 | A yew-compatible web UI library without a virtual DOM, optimized for WebAssembl… |
+| 2026-11-04 00:18:10 | [screenscry](https://crates.io/crates/screenscry) | 0.0.0 | 0 | Command line interface for ScreenScry. |
+| 2026-11-04 00:18:11 | [screenscry-constants](https://crates.io/crates/screenscry-constants) | 0.0.0 | 0 | Shared constants for ScreenScry. |
+| 2026-11-04 00:18:12 | [cadmpeg-tessellate](https://crates.io/crates/cadmpeg-tessellate) | 0.6.8 | 0 | Display tessellation and parameter-space boundaries of cadmpeg B-rep faces. |
+| 2026-11-04 00:18:13 | [screenscry-ipc](https://crates.io/crates/screenscry-ipc) | 0.0.0 | 0 | Local socket IPC client, server and message types for ScreenScry. |
+| 2026-11-04 00:18:13 | [screenscry-utils](https://crates.io/crates/screenscry-utils) | 0.0.0 | 0 | Shared filesystem helpers for ScreenScry. |
+| 2026-11-04 00:18:15 | [screenscry-settings](https://crates.io/crates/screenscry-settings) | 0.0.0 | 0 | Settings for ScreenScry, including platform paths with environment overrides. |
+| 2026-11-04 00:18:20 | [cadmpeg-codec-usd](https://crates.io/crates/cadmpeg-codec-usd) | 0.6.8 | 0 | Decode OpenUSD .usda, .usdc, and .usdz layers, and encode .usda layers and .usd… |
+| 2026-11-04 00:18:44 | [leafy_router_macro](https://crates.io/crates/leafy_router_macro) | 0.1.0 | 0 | The Routable derive for leafy_router (a port of yew-router-macro 0.20). |
+| 2026-11-04 00:18:52 | [neocogi-shader-compiler-dylib](https://crates.io/crates/neocogi-shader-compiler-dylib) | 0.1.0-alpha.1 | 0 | Final dynamic entrypoint for neocogi-shader-compiler |
 
 ## Data source
 

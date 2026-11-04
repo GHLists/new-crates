@@ -1,0 +1,35 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-03T23:25:47.807292Z,rightkit-pty,0.1.0,0,0,https://github.com/bogusyogi/rightkit,"Async managed PTY child for Right Suite apps: owned tree, resize, bounded input, EOF, staged cancel, ConPTY and POSIX PTY."
+2026-11-03T23:28:32.921931Z,arcantis,1.0.0-rc.1,0,0,https://github.com/softseco/arcantis,"Arcantis for Rust: helpers for SPL Token-2022 confidential transfers, a mirror of the @softseco/arcantis TypeScript SDK."
+2026-11-03T23:28:34.80772Z,sapphire-agent-headless,0.12.0,0,0,https://github.com/sapphire-turtle/sapphire-agent,"A personal AI assistant agent that works on file-based, local-first sapphire-framework workspaces together with you"
+2026-11-03T23:40:11.335078Z,sapphire-ledger-server,0.3.0,0,0,https://github.com/sapphire-turtle/sapphire-ledger,"sapphire-ledger's app server: the one process that serves the ledger, with its sync, MCP methods and duplicate-id watch"
+2026-11-03T23:40:18.206303Z,sapphire-ledger-cli,0.3.0,0,0,https://github.com/sapphire-turtle/sapphire-ledger,"The command line of sapphire-ledger's two editions, the headless one and the desktop app: the ledger's commands and the framework's, which run the app server or call it"
+2026-11-03T23:40:25.011362Z,sapphire-ledger-headless,0.3.0,0,0,https://github.com/sapphire-turtle/sapphire-ledger,"A double-entry household ledger built on sapphire-framework - file-based, local-first, made for human-agent collaboration"
+2026-11-03T23:47:07.254433Z,keylink-persist,0.1.0,0,0,https://github.com/pedro-pscunha/keylink,"A port for actor state that outlives its process, and the local-file adapter."
+2026-11-03T23:47:11.049156Z,keylink,0.1.0,0,0,https://github.com/pedro-pscunha/keylink,"Typed peer-to-peer RPC over iroh, with a schema-derived ALPN and fail-closed authorization."
+2026-11-03T23:47:14.705505Z,keylink-http,0.1.0,0,0,https://github.com/pedro-pscunha/keylink,Bounded authenticated HTTP/JSON gateway for generated Keylink services.
+2026-11-03T23:47:17.688125Z,keylink-openapi,0.1.0,0,0,https://github.com/pedro-pscunha/keylink,OpenAPI 3.1 and JSON Schema documents for a keylink-http surface
+2026-11-03T23:47:30.745596Z,aws3,0.1.0,0,0,https://github.com/itchyny/aws3,A fast command compatible with aws s3
+2026-11-03T23:54:56.955795Z,rootcard,0.0.0,0,0,https://github.com/Hexagon/rootcard,"A portable, self-certifying identity for online logins (core library)"
+2026-11-03T23:54:59.3604Z,rootcard-cli,0.0.0,0,0,https://github.com/Hexagon/rootcard,The rootcard key tool: recovery-key operations for rootcard identities
+2026-11-03T23:55:00.099515Z,rootcard-host,0.0.0,0,0,https://github.com/Hexagon/rootcard,"Host-side helpers for rootcard identities: challenges, identity stores and request handlers"
+2026-11-03T23:55:44.726227Z,rupy,0.1.0,0,0,https://github.com/ccc-claude-opus/rupy,"A typed subset of Python compiled to readable Rust, or straight to WebAssembly, with numpy / scikit-learn / gymnasium / PyTorch subsets (formerly py0, the `ruai py` command)"
+2026-11-03T23:57:54.836894Z,upcie,0.11.0,0,0,https://github.com/safl/upcie,"User-space PCIe in Rust: sysfs, VFIO, iommufd, MMIO and DMA memory, with no dependencies"
+2026-11-03T23:58:28.614127Z,neocogi-platform-build,0.1.0-alpha.1,0,0,https://github.com/NeoCogi/neocogi-platform,"Packaged NeoCogi platform, renderer and shader interface sources and build helpers"
+2026-11-03T23:59:41.264439Z,neocogi-native-layout-core,0.1.0-alpha.1,0,0,https://github.com/NeoCogi/neocogi-platform,Build-only native output policy and exclusively owned resource staging
+2026-11-04T00:00:56.200097Z,neocogi-native-layout,0.1.0-alpha.1,0,0,https://github.com/NeoCogi/neocogi-platform,Compile-time copying of Cargo artifacts and application resources
+2026-11-04T00:02:16.41096Z,neocogi-render-core,0.1.0-alpha.1,0,0,https://github.com/NeoCogi/neocogi-platform,Backend-neutral renderer SPI for NeoCogi
+2026-11-04T00:03:31.781443Z,neocogi-shader-core,0.1.0-alpha.1,0,0,https://github.com/NeoCogi/neocogi-platform,Owned shader compiler contracts and bounded artifact readers
+2026-11-04T00:08:20.036576Z,skycast,0.1.0-alpha.1,0,0,https://github.com/tlpinney/skycast,"Weather in your terminal: forecast, air quality, NWS alerts, Braille radar, sun and moon, and tides"
+2026-11-04T00:08:53.328517Z,neocogi-shader-compiler,0.1.0-alpha.1,0,0,https://github.com/NeoCogi/neocogi-platform,CPU-only portable shader compiler COM provider
+2026-11-04T00:15:25.910652Z,leafy_macro,0.1.0,0,0,https://github.com/finnbear/leafy,"Procedural macros (html!, Properties, function_component) for leafy."
+2026-11-04T00:15:51.633571Z,leafy,0.1.0,0,0,https://github.com/finnbear/leafy,"A yew-compatible web UI library without a virtual DOM, optimized for WebAssembly binary size."
+2026-11-04T00:18:10.760853Z,screenscry,0.0.0,0,0,https://gitlab.com/screenscry/screenscry,Command line interface for ScreenScry.
+2026-11-04T00:18:11.27663Z,screenscry-constants,0.0.0,0,0,https://gitlab.com/screenscry/screenscry,Shared constants for ScreenScry.
+2026-11-04T00:18:12.719703Z,cadmpeg-tessellate,0.6.8,0,0,https://github.com/cadmpeg/cadmpeg,Display tessellation and parameter-space boundaries of cadmpeg B-rep faces.
+2026-11-04T00:18:13.100073Z,screenscry-ipc,0.0.0,0,0,https://gitlab.com/screenscry/screenscry,"Local socket IPC client, server and message types for ScreenScry."
+2026-11-04T00:18:13.356913Z,screenscry-utils,0.0.0,0,0,https://gitlab.com/screenscry/screenscry,Shared filesystem helpers for ScreenScry.
+2026-11-04T00:18:15.140337Z,screenscry-settings,0.0.0,0,0,https://gitlab.com/screenscry/screenscry,"Settings for ScreenScry, including platform paths with environment overrides."
+2026-11-04T00:18:20.697526Z,cadmpeg-codec-usd,0.6.8,0,0,https://github.com/cadmpeg/cadmpeg,"Decode OpenUSD .usda, .usdc, and .usdz layers, and encode .usda layers and .usdz packages."
+2026-11-04T00:18:44.967478Z,leafy_router_macro,0.1.0,0,0,https://github.com/finnbear/leafy,The Routable derive for leafy_router (a port of yew-router-macro 0.20).
+2026-11-04T00:18:52.052164Z,neocogi-shader-compiler-dylib,0.1.0-alpha.1,0,0,https://github.com/NeoCogi/neocogi-platform,Final dynamic entrypoint for neocogi-shader-compiler
