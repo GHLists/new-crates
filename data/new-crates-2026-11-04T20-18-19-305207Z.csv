@@ -1,0 +1,41 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-04T19:21:36.774097Z,rounddance-nwk,0.0.0,0,0,https://github.com/remenyo/rounddance,Zigbee NWK layer frame codecs and routing tables (no_std)
+2026-11-04T19:25:19.616791Z,lab-arbitrator,0.0.0,0,0,https://github.com/remenyo/rounddance,"Lab hardware arbitrator: exclusive serial-port leases, flash/reset/run helpers, capture hooks, clean-lifecycle runner"
+2026-11-04T19:25:22.016529Z,rounddance-mac-sap,0.0.0,0,0,https://github.com/remenyo/rounddance,MAC service access point traits for the Rounddance Zigbee stack
+2026-11-04T19:25:24.820772Z,rounddance-ifc,0.0.0,0,0,https://github.com/remenyo/rounddance,"Inter-module interface v0: envelope, CBOR codec, framing, handshake, credit flow, reference transports"
+2026-11-04T19:25:27.56679Z,rounddance-aps,0.0.0,0,0,https://github.com/remenyo/rounddance,"Zigbee APS layer frame codecs, fragmentation and retries (no_std)"
+2026-11-04T19:33:03.953191Z,rounddance-security,0.1.0-alpha.1,0,0,https://github.com/remenyo/rounddance,"Zigbee security: keys, CCM*, aux headers, replay tables, CBKE (no_std)"
+2026-11-04T19:34:10.334911Z,sumami-service,0.1.0,0,0,https://github.com/sumami-dev/sumami,"Sumami analytics service — single-binary, DuckDB-backed, Umami-compatible"
+2026-11-04T19:34:34.620083Z,sumami-cli,0.1.0,0,0,https://github.com/sumami-dev/sumami,Sumami CLI — read and analyze a Sumami DuckDB database offline
+2026-11-04T19:34:51.179382Z,sumami,0.1.0,0,0,https://github.com/sumami-dev/sumami,"Sumami — the self-hosted analytics service, as a library: the server, the client and both data engines"
+2026-11-04T19:35:11.617257Z,z40-fundament-http,0.4.0,0,0,https://github.com/zweiund40GmbH/fundament-sdk,"HTTP groundwork for axum apps: request ids, a redacting trace layer, log setup, security headers, no-store, client address behind trusted proxies and a CSRF header guard."
+2026-11-04T19:37:45.134452Z,cellix-core,0.4.0,0,0,https://github.com/quill-27f/cellix,"Buffers, undo, selections and workspace for Cellix"
+2026-11-04T19:37:45.787366Z,cellix-doc,0.4.0,0,0,https://github.com/quill-27f/cellix,"Documents for Cellix: typeset math, HTML export, LaTeX structure and PDF pages"
+2026-11-04T19:37:46.335957Z,cellix-input,0.4.0,0,0,https://github.com/quill-27f/cellix,Input events and key maps for Cellix
+2026-11-04T19:37:46.702637Z,cellix-lang,0.4.0,0,0,https://github.com/quill-27f/cellix,Language registry and highlighting for Cellix
+2026-11-04T19:37:47.498431Z,cellix-render,0.4.0,0,0,https://github.com/quill-27f/cellix,Cell grid and pixel rasterizing for Cellix
+2026-11-04T19:39:18.018803Z,trustd,0.1.0,0,0,https://github.com/jthulhu/trustd,Trust broker.
+2026-11-04T19:42:23.06655Z,rounddance-zdo,0.1.0-alpha.1,0,0,https://github.com/remenyo/rounddance,"Zigbee ZDO clusters, descriptors, ZDP and bind/mgmt codecs (no_std)"
+2026-11-04T19:44:28.9762Z,solitaire-tui-core,0.4.4,0,0,https://github.com/Forsbakk/solitaire-tui,"The engine behind solitaire-tui: eight solitaire games, their rules, and a ratatui board renderer, with no terminal attached"
+2026-11-04T19:44:33.784749Z,cargo-color,0.1.1,0,0,https://git.ferriit.eu/ferriit/cargo-color,A Cargo subcommand that recolors terminal output.
+2026-11-04T19:45:58.325779Z,passuff-config,0.1.0,0,0,https://github.com/buster/passuff,Configuration model and validation for the passuff GitHub pull request watcher
+2026-11-04T19:47:02.068027Z,passuff-core,0.1.0,0,0,https://github.com/buster/passuff,UI-agnostic GitHub pull request observation and notification core for passuff
+2026-11-04T19:47:13.126572Z,tokenmeter-core,0.1.0,0,0,https://github.com/meritt/tokenmeter.rs,"Token counts of text in o200k_base, with the text split into token groups on grapheme boundaries"
+2026-11-04T19:47:43.760986Z,passuff,0.1.0,0,0,https://github.com/buster/passuff,Multi-account GitHub pull request inbox and desktop notifier
+2026-11-04T19:49:08.872539Z,convex-rates,0.14.0,0,0,https://github.com/sujitn/convex,Pure checked IRS and OIS contracts and cashflows for Convex
+2026-11-04T19:49:11.688924Z,convex-credit,0.14.0,0,0,https://github.com/sujitn/convex,Pure checked single-name CDS valuation and standard quote conversions
+2026-11-04T19:52:13.336035Z,aerofoil,0.1.0-alpha.1,0,0,https://github.com/colinwolff/aerofoil,Umbrella namespace for the aerofoil ADS-B and UAT decoding suite.
+2026-11-04T19:52:18.391196Z,aerofoil-common,0.1.0-alpha.1,0,0,https://github.com/colinwolff/aerofoil,"Core aircraft state models, CPR math, units and shared decoder traits for aerofoil."
+2026-11-04T19:52:23.012673Z,aerofoil-1090,0.1.0-alpha.1,0,0,https://github.com/colinwolff/aerofoil,"1090 MHz Mode S and 1090ES (DO-260B) demodulation, CRC-24 and downlink format parsing."
+2026-11-04T19:52:24.004232Z,rounddance-gp,0.1.0-alpha.1,0,0,https://github.com/remenyo/rounddance,Green Power proxy/sink frame codecs and commissioning (no_std)
+2026-11-04T19:52:26.656259Z,aerofoil-978,0.1.0-alpha.1,0,0,https://github.com/colinwolff/aerofoil,"978 MHz UAT (DO-282B) framing, Reed-Solomon FEC and payload disassembly."
+2026-11-04T19:52:30.491981Z,aerofoil-tracker,0.1.0-alpha.1,0,0,https://github.com/colinwolff/aerofoil,Multi-band aircraft track table with ADS-R deduplication for aerofoil.
+2026-11-04T19:58:55.242096Z,siros-dc-matcher-core,0.12.0,0,0,https://github.com/sirosfoundation/siros-dc-matcher,"The credential blob, match profile, request reading and zkp_req planner of the SIROS DC API matcher"
+2026-11-04T20:00:43.824853Z,fluxweir,0.1.0,0,0,https://github.com/Kirky-X/fluxweir,智能 LLM 路由代理系统 - 多厂商统一管理、格式转换、智能调度 | Intelligent multi-provider LLM routing gateway
+2026-11-04T20:00:44.825527Z,openvm-certified-verifier,2.1.0,0,0,https://github.com/openvm-org/,Verification of OpenVM STARK proofs with the certified Lean Swirl verifier.
+2026-11-04T20:01:18.760578Z,aerofoil-server,0.1.0-alpha.1,0,0,https://github.com/colinwolff/aerofoil,"Streaming daemon exposing aerofoil tracks over Beast, AVR, JSON-lines and gRPC."
+2026-11-04T20:02:22.662425Z,rounddance-rcp,0.1.0-alpha.1,0,0,https://github.com/remenyo/rounddance,"S3+H2 OTBR path: UART RCP framing, host-side RCP driver over the MAC SAP, emulated-RCP test peer"
+2026-11-04T20:02:46.290624Z,tracetells,0.1.0,0,0,https://github.com/dobrinov/tracetells,"Report server errors to Trace (tracetells.com): error facts only, scrubbed, in the background"
+2026-11-04T20:07:04.107356Z,xylem-tui,1.0.5,0,0,https://code.ornl.gov/research-enablement/xylem,Digital xylem that transports data through workflows with structure and support
+2026-11-04T20:10:42.617766Z,aerofoil-cli,0.1.0-alpha.1,0,0,https://github.com/colinwolff/aerofoil,Unix-friendly CLI for decoding ADS-B and UAT feeds into JSON.
+2026-11-04T20:12:22.658616Z,rounddance-commission,0.1.0-alpha.1,0,0,https://github.com/remenyo/rounddance,"Zigbee commissioning: formation, steering, finding, classical/Touchlink/Direct (no_std)"

@@ -8,41 +8,54 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-04 19:18 UTC
+## Latest list — 2026-11-04 20:18 UTC
 
-New crates published between 2026-11-04 18:18 UTC and 2026-11-04 19:18 UTC.
+New crates published between 2026-11-04 19:18 UTC and 2026-11-04 20:18 UTC.
 
-[Full CSV](data/new-crates-2026-11-04T19-18-50-352811Z.csv)
+[Full CSV](data/new-crates-2026-11-04T20-18-19-305207Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-04 18:19:08 | [vpnchecker](https://crates.io/crates/vpnchecker) | 0.1.1 | 0 | VPN kill switch for macOS: outbound traffic leaves only through the VPN (pf), w… |
-| 2026-11-04 18:20:41 | [swig-developer-sdk](https://crates.io/crates/swig-developer-sdk) | 0.1.0 | 0 | Swig Developer SDK for hosted clients and native transaction signing |
-| 2026-11-04 18:21:07 | [tauri-plugin-live-activity](https://crates.io/crates/tauri-plugin-live-activity) | 0.1.0-alpha.1 | 0 | Local Live Activities and ongoing notifications for Tauri 2 on iOS and Android |
-| 2026-11-04 18:29:52 | [rmycli](https://crates.io/crates/rmycli) | 0.1.0 | 0 | A Redis shell with live command help and type-aware completion |
-| 2026-11-04 18:33:50 | [lunar-link](https://crates.io/crates/lunar-link) | 0.1.0 | 0 | A tiny simulated lunar server you connect to from an animated terminal UI, with… |
-| 2026-11-04 18:35:50 | [almiladoc](https://crates.io/crates/almiladoc) | 1.0.1 | 0 | Convert documents (doc, docx, odt, rtf, epub, pdf, presentations, spreadsheets,… |
-| 2026-11-04 18:38:03 | [vortex-elias-fano](https://crates.io/crates/vortex-elias-fano) | 0.91.0 | 0 | Vortex Elias-Fano and unary integer encodings |
-| 2026-11-04 18:38:22 | [spanner-adbc](https://crates.io/crates/spanner-adbc) | 0.0.1 | 0 | Placeholder for an Arrow ADBC driver for Google Cloud Spanner, developed at the… |
-| 2026-11-04 18:41:13 | [monic](https://crates.io/crates/monic) | 0.0.0 | 0 | One log for the database and the bus. |
-| 2026-11-04 18:50:15 | [leptoskit_analytics](https://crates.io/crates/leptoskit_analytics) | 0.0.0 | 0 | Bounded application observability and agent-readable evidence for LeptosKit. |
-| 2026-11-04 18:50:22 | [leptoskit_deploy_console](https://crates.io/crates/leptoskit_deploy_console) | 0.0.0 | 0 | A self-hosted LeptosKit deployment service and dashboard. |
-| 2026-11-04 18:50:47 | [polymark-core](https://crates.io/crates/polymark-core) | 0.1.0 | 0 | Plain text, Markdown, HTML and Telegram MarkdownV2 converted through one closed… |
-| 2026-11-04 18:53:24 | [boatramp-k8s](https://crates.io/crates/boatramp-k8s) | 0.55.0 | 0 | Kubernetes compute backend for boatramp: run a managed database (and, later, ge… |
-| 2026-11-04 18:55:10 | [non-empty-bytes](https://crates.io/crates/non-empty-bytes) | 1.0.0 | 0 | A crate providing non-empty invariant wrappers to the bytes crate |
-| 2026-11-04 19:01:32 | [sparse-cp](https://crates.io/crates/sparse-cp) | 0.9.0 | 0 | Sparse-aware file copy and zero-block scanner |
-| 2026-11-04 19:01:53 | [tar-dedup-lib](https://crates.io/crates/tar-dedup-lib) | 0.9.0 | 0 | Deduplicating tar wrapper library for efficient cold storage of unstructured da… |
-| 2026-11-04 19:02:10 | [tar-dedup](https://crates.io/crates/tar-dedup) | 0.9.0 | 0 | Command-line interface to tar-dedup-lib: resumable, metadata-preserving archive… |
-| 2026-11-04 19:02:34 | [monochromatic-cargo-shadow](https://crates.io/crates/monochromatic-cargo-shadow) | 0.1.0 | 0 | Shadows cargo: before a command that resolves dependencies it makes the workspa… |
-| 2026-11-04 19:04:40 | [everymap-providers-osrm](https://crates.io/crates/everymap-providers-osrm) | 0.3.0 | 0 | OSRM routing provider for EveryMap — self-hosted turn-by-turn routes |
-| 2026-11-04 19:04:43 | [everymap-providers-valhalla](https://crates.io/crates/everymap-providers-valhalla) | 0.3.0 | 0 | Valhalla routing provider for EveryMap — self-hosted turn-by-turn routes |
-| 2026-11-04 19:04:46 | [everymap-providers-url-template-vector](https://crates.io/crates/everymap-providers-url-template-vector) | 0.3.0 | 0 | EveryMap vector-tile provider driven by a {z}/{x}/{y} URL template |
-| 2026-11-04 19:04:48 | [everymap-providers-mapquest](https://crates.io/crates/everymap-providers-mapquest) | 0.3.0 | 0 | MapQuest provider for EveryMap — geocoding, routing, autocomplete, distance mat… |
-| 2026-11-04 19:04:51 | [everymap-providers-url-template-raster](https://crates.io/crates/everymap-providers-url-template-raster) | 0.3.0 | 0 | EveryMap raster-tile provider driven by a {z}/{x}/{y} URL template |
-| 2026-11-04 19:07:05 | [shapeof-core](https://crates.io/crates/shapeof-core) | 0.1.0 | 0 | JSON Schema 2020-12 inferred from examples of JSON, JSON5-like text or JSON Lin… |
-| 2026-11-04 19:08:44 | [midnight-ledger-v9](https://crates.io/crates/midnight-ledger-v9) | 1.0.0 | 0 | Provides the transaction format and semantics for Midnight. |
-| 2026-11-04 19:10:01 | [roomkit-auth](https://crates.io/crates/roomkit-auth) | 0.1.0 | 0 | Reusable account authentication for RoomKit applications: Sign in with ChatGPT… |
-| 2026-11-04 19:12:36 | [langextract-rs](https://crates.io/crates/langextract-rs) | 0.1.0 | 0 | A Rust port of LangExtract: few-shot structured extraction from text with a lan… |
+| 2026-11-04 19:21:36 | [rounddance-nwk](https://crates.io/crates/rounddance-nwk) | 0.0.0 | 0 | Zigbee NWK layer frame codecs and routing tables (no_std) |
+| 2026-11-04 19:25:19 | [lab-arbitrator](https://crates.io/crates/lab-arbitrator) | 0.0.0 | 0 | Lab hardware arbitrator: exclusive serial-port leases, flash/reset/run helpers,… |
+| 2026-11-04 19:25:22 | [rounddance-mac-sap](https://crates.io/crates/rounddance-mac-sap) | 0.0.0 | 0 | MAC service access point traits for the Rounddance Zigbee stack |
+| 2026-11-04 19:25:24 | [rounddance-ifc](https://crates.io/crates/rounddance-ifc) | 0.0.0 | 0 | Inter-module interface v0: envelope, CBOR codec, framing, handshake, credit flo… |
+| 2026-11-04 19:25:27 | [rounddance-aps](https://crates.io/crates/rounddance-aps) | 0.0.0 | 0 | Zigbee APS layer frame codecs, fragmentation and retries (no_std) |
+| 2026-11-04 19:33:03 | [rounddance-security](https://crates.io/crates/rounddance-security) | 0.1.0-alpha.1 | 0 | Zigbee security: keys, CCM*, aux headers, replay tables, CBKE (no_std) |
+| 2026-11-04 19:34:10 | [sumami-service](https://crates.io/crates/sumami-service) | 0.1.0 | 0 | Sumami analytics service — single-binary, DuckDB-backed, Umami-compatible |
+| 2026-11-04 19:34:34 | [sumami-cli](https://crates.io/crates/sumami-cli) | 0.1.0 | 0 | Sumami CLI — read and analyze a Sumami DuckDB database offline |
+| 2026-11-04 19:34:51 | [sumami](https://crates.io/crates/sumami) | 0.1.0 | 0 | Sumami — the self-hosted analytics service, as a library: the server, the clien… |
+| 2026-11-04 19:35:11 | [z40-fundament-http](https://crates.io/crates/z40-fundament-http) | 0.4.0 | 0 | HTTP groundwork for axum apps: request ids, a redacting trace layer, log setup,… |
+| 2026-11-04 19:37:45 | [cellix-core](https://crates.io/crates/cellix-core) | 0.4.0 | 0 | Buffers, undo, selections and workspace for Cellix |
+| 2026-11-04 19:37:45 | [cellix-doc](https://crates.io/crates/cellix-doc) | 0.4.0 | 0 | Documents for Cellix: typeset math, HTML export, LaTeX structure and PDF pages |
+| 2026-11-04 19:37:46 | [cellix-input](https://crates.io/crates/cellix-input) | 0.4.0 | 0 | Input events and key maps for Cellix |
+| 2026-11-04 19:37:46 | [cellix-lang](https://crates.io/crates/cellix-lang) | 0.4.0 | 0 | Language registry and highlighting for Cellix |
+| 2026-11-04 19:37:47 | [cellix-render](https://crates.io/crates/cellix-render) | 0.4.0 | 0 | Cell grid and pixel rasterizing for Cellix |
+| 2026-11-04 19:39:18 | [trustd](https://crates.io/crates/trustd) | 0.1.0 | 0 | Trust broker. |
+| 2026-11-04 19:42:23 | [rounddance-zdo](https://crates.io/crates/rounddance-zdo) | 0.1.0-alpha.1 | 0 | Zigbee ZDO clusters, descriptors, ZDP and bind/mgmt codecs (no_std) |
+| 2026-11-04 19:44:28 | [solitaire-tui-core](https://crates.io/crates/solitaire-tui-core) | 0.4.4 | 0 | The engine behind solitaire-tui: eight solitaire games, their rules, and a rata… |
+| 2026-11-04 19:44:33 | [cargo-color](https://crates.io/crates/cargo-color) | 0.1.1 | 0 | A Cargo subcommand that recolors terminal output. |
+| 2026-11-04 19:45:58 | [passuff-config](https://crates.io/crates/passuff-config) | 0.1.0 | 0 | Configuration model and validation for the passuff GitHub pull request watcher |
+| 2026-11-04 19:47:02 | [passuff-core](https://crates.io/crates/passuff-core) | 0.1.0 | 0 | UI-agnostic GitHub pull request observation and notification core for passuff |
+| 2026-11-04 19:47:13 | [tokenmeter-core](https://crates.io/crates/tokenmeter-core) | 0.1.0 | 0 | Token counts of text in o200k_base, with the text split into token groups on gr… |
+| 2026-11-04 19:47:43 | [passuff](https://crates.io/crates/passuff) | 0.1.0 | 0 | Multi-account GitHub pull request inbox and desktop notifier |
+| 2026-11-04 19:49:08 | [convex-rates](https://crates.io/crates/convex-rates) | 0.14.0 | 0 | Pure checked IRS and OIS contracts and cashflows for Convex |
+| 2026-11-04 19:49:11 | [convex-credit](https://crates.io/crates/convex-credit) | 0.14.0 | 0 | Pure checked single-name CDS valuation and standard quote conversions |
+| 2026-11-04 19:52:13 | [aerofoil](https://crates.io/crates/aerofoil) | 0.1.0-alpha.1 | 0 | Umbrella namespace for the aerofoil ADS-B and UAT decoding suite. |
+| 2026-11-04 19:52:18 | [aerofoil-common](https://crates.io/crates/aerofoil-common) | 0.1.0-alpha.1 | 0 | Core aircraft state models, CPR math, units and shared decoder traits for aerof… |
+| 2026-11-04 19:52:23 | [aerofoil-1090](https://crates.io/crates/aerofoil-1090) | 0.1.0-alpha.1 | 0 | 1090 MHz Mode S and 1090ES (DO-260B) demodulation, CRC-24 and downlink format p… |
+| 2026-11-04 19:52:24 | [rounddance-gp](https://crates.io/crates/rounddance-gp) | 0.1.0-alpha.1 | 0 | Green Power proxy/sink frame codecs and commissioning (no_std) |
+| 2026-11-04 19:52:26 | [aerofoil-978](https://crates.io/crates/aerofoil-978) | 0.1.0-alpha.1 | 0 | 978 MHz UAT (DO-282B) framing, Reed-Solomon FEC and payload disassembly. |
+| 2026-11-04 19:52:30 | [aerofoil-tracker](https://crates.io/crates/aerofoil-tracker) | 0.1.0-alpha.1 | 0 | Multi-band aircraft track table with ADS-R deduplication for aerofoil. |
+| 2026-11-04 19:58:55 | [siros-dc-matcher-core](https://crates.io/crates/siros-dc-matcher-core) | 0.12.0 | 0 | The credential blob, match profile, request reading and zkp_req planner of the… |
+| 2026-11-04 20:00:43 | [fluxweir](https://crates.io/crates/fluxweir) | 0.1.0 | 0 | 智能 LLM 路由代理系统 - 多厂商统一管理、格式转换、智能调度 \| Intelligent multi-provider LLM routing gate… |
+| 2026-11-04 20:00:44 | [openvm-certified-verifier](https://crates.io/crates/openvm-certified-verifier) | 2.1.0 | 0 | Verification of OpenVM STARK proofs with the certified Lean Swirl verifier. |
+| 2026-11-04 20:01:18 | [aerofoil-server](https://crates.io/crates/aerofoil-server) | 0.1.0-alpha.1 | 0 | Streaming daemon exposing aerofoil tracks over Beast, AVR, JSON-lines and gRPC. |
+| 2026-11-04 20:02:22 | [rounddance-rcp](https://crates.io/crates/rounddance-rcp) | 0.1.0-alpha.1 | 0 | S3+H2 OTBR path: UART RCP framing, host-side RCP driver over the MAC SAP, emula… |
+| 2026-11-04 20:02:46 | [tracetells](https://crates.io/crates/tracetells) | 0.1.0 | 0 | Report server errors to Trace (tracetells.com): error facts only, scrubbed, in… |
+| 2026-11-04 20:07:04 | [xylem-tui](https://crates.io/crates/xylem-tui) | 1.0.5 | 0 | Digital xylem that transports data through workflows with structure and support |
+| 2026-11-04 20:10:42 | [aerofoil-cli](https://crates.io/crates/aerofoil-cli) | 0.1.0-alpha.1 | 0 | Unix-friendly CLI for decoding ADS-B and UAT feeds into JSON. |
+| 2026-11-04 20:12:22 | [rounddance-commission](https://crates.io/crates/rounddance-commission) | 0.1.0-alpha.1 | 0 | Zigbee commissioning: formation, steering, finding, classical/Touchlink/Direct… |
 
 ## Data source
 
