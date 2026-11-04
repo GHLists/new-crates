@@ -8,27 +8,31 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-04 04:18 UTC
+## Latest list — 2026-11-04 05:18 UTC
 
-New crates published between 2026-11-04 03:18 UTC and 2026-11-04 04:18 UTC.
+New crates published between 2026-11-04 04:18 UTC and 2026-11-04 05:18 UTC.
 
-[Full CSV](data/new-crates-2026-11-04T04-18-38-574229Z.csv)
+[Full CSV](data/new-crates-2026-11-04T05-18-52-022666Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-04 03:22:42 | [qso-graph-trust-awslc](https://crates.io/crates/qso-graph-trust-awslc) | 0.1.0-beta.2 | 0 | QSO Graph Trust's one binding to AWS-LC: LoTW's RSA-SHA-1 signature and certifi… |
-| 2026-11-04 03:22:47 | [qso-graph-trust](https://crates.io/crates/qso-graph-trust) | 0.1.0-beta.2 | 0 | Sign ADIF logs for ARRL's Logbook of The World (LoTW) |
-| 2026-11-04 03:24:49 | [woopwoop](https://crates.io/crates/woopwoop) | 0.1.0 | 0 | A small, fast address geocoder. Finds anywhere, even out in woop woop. |
-| 2026-11-04 03:27:41 | [foil-sandbox](https://crates.io/crates/foil-sandbox) | 0.4.0 | 0 | A local sandbox for AI coding agents: instant copy-on-write branches of your re… |
-| 2026-11-04 03:28:30 | [pmc-io](https://crates.io/crates/pmc-io) | 0.1.0 | 0 | Async PDF and metadata ingestion for PMC Arrow through OpenDAL and byte streams |
-| 2026-11-04 03:29:31 | [lx-capture](https://crates.io/crates/lx-capture) | 0.1.0 | 0 | Windows DXGI desktop capture with dirty-tile updates and compact rectangle fram… |
-| 2026-11-04 03:30:20 | [base-security](https://crates.io/crates/base-security) | 0.1.0 | 0 | Security audit and advisory records, with agent skills for reviewing code and h… |
-| 2026-11-04 03:56:22 | [wolfxl-formula](https://crates.io/crates/wolfxl-formula) | 0.1.0 | 0 | A1-syntax Excel formula tokenizer and reference translator (port of openpyxl/Ba… |
-| 2026-11-04 03:56:23 | [wolfxl-rels](https://crates.io/crates/wolfxl-rels) | 0.1.0 | 0 | OOXML *.rels (Open Packaging Conventions Relationships) parser, mutable graph,… |
-| 2026-11-04 03:56:24 | [wolfxl-reader](https://crates.io/crates/wolfxl-reader) | 0.1.0 | 0 | Native WolfXL workbook readers used to replace calamine-backed read paths. |
-| 2026-11-04 03:59:12 | [netblk](https://crates.io/crates/netblk) | 0.0.0 | 0 | A Rust ublk device backed by heterogeneous remote storage providers. |
-| 2026-11-04 04:03:16 | [tc_serpent](https://crates.io/crates/tc_serpent) | 0.1.0 | 0 | Serpent and Tnepres block ciphers with 32- to 256-bit keys and a 128-bit block,… |
-| 2026-11-04 04:03:23 | [tc_misc_block_cipher](https://crates.io/crates/tc_misc_block_cipher) | 0.1.0 | 0 | Less common block ciphers: IDEA, Noekeon, Rijndael, SKIPJACK and TEA/XTEA, one… |
+| 2026-11-04 04:20:29 | [pipecircuit-browser-ui-macros](https://crates.io/crates/pipecircuit-browser-ui-macros) | 0.0.1 | 0 | Pipecircuit-owned browser UI implementation derived from Dioxus |
+| 2026-11-04 04:20:29 | [pipecircuit-dom-core](https://crates.io/crates/pipecircuit-dom-core) | 0.0.1 | 0 | DOM mutation and input vocabulary for Pipecircuit |
+| 2026-11-04 04:20:30 | [pipecircuit-showrunner-core](https://crates.io/crates/pipecircuit-showrunner-core) | 0.0.1 | 0 | Typed browser testing with Pipecircuit |
+| 2026-11-04 04:20:35 | [pipecircuit-dom](https://crates.io/crates/pipecircuit-dom) | 0.0.1 | 0 | Typed DOM mutation and input pipe for Pipecircuit |
+| 2026-11-04 04:20:36 | [pipecircuit-showrunner](https://crates.io/crates/pipecircuit-showrunner) | 0.0.1 | 0 | Typed browser testing with Pipecircuit |
+| 2026-11-04 04:24:33 | [pipecircuit-tls](https://crates.io/crates/pipecircuit-tls) | 0.0.1 | 0 | Portable TLS protocol authority for Pipecircuit |
+| 2026-11-04 04:28:00 | [rustev-live](https://crates.io/crates/rustev-live) | 0.4.0 | 0 | Live re-execution of Rustev decisions at dataset scale under spend caps and a p… |
+| 2026-11-04 04:36:39 | [pipecircuit-browser-ui](https://crates.io/crates/pipecircuit-browser-ui) | 0.0.1 | 0 | Pipecircuit-owned browser UI implementation derived from Dioxus |
+| 2026-11-04 04:40:16 | [yutil](https://crates.io/crates/yutil) | 0.0.1 | 0 | File utility |
+| 2026-11-04 04:41:07 | [beatd](https://crates.io/crates/beatd) | 0.0.1 | 0 | A cross-platform library for Streaming audio analysis. |
+| 2026-11-04 04:43:35 | [pipecircuit-tls-native](https://crates.io/crates/pipecircuit-tls-native) | 0.0.1 | 0 | Optional native crypto providers for Pipecircuit TLS |
+| 2026-11-04 04:53:29 | [pipecircuit-http-client-core](https://crates.io/crates/pipecircuit-http-client-core) | 0.0.1 | 0 | Portable HTTP client request and connection authorities |
+| 2026-11-04 05:03:29 | [pipecircuit-http-client](https://crates.io/crates/pipecircuit-http-client) | 0.0.1 | 0 | Pipecircuit HTTP client pipe contract |
+| 2026-11-04 05:08:19 | [staleynet-audio](https://crates.io/crates/staleynet-audio) | 0.1.0 | 0 | Audio decoding, resampling, log-mel analysis and Griffin-Lim reconstruction. |
+| 2026-11-04 05:11:17 | [contime-macros](https://crates.io/crates/contime-macros) | 0.1.2 | 0 | Module composition and optional application helpers for ConTime |
+| 2026-11-04 05:13:30 | [pipecircuit-http-client-mio](https://crates.io/crates/pipecircuit-http-client-mio) | 0.0.1 | 0 | Native Mio transport for the Pipecircuit HTTP client |
+| 2026-11-04 05:18:09 | [qso-graph-trust-cli](https://crates.io/crates/qso-graph-trust-cli) | 0.1.0-beta.3 | 0 | qg-trust: sign ADIF logs for ARRL's Logbook of The World (LoTW) from the comman… |
 
 ## Data source
 

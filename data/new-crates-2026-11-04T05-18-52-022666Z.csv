@@ -1,0 +1,18 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-04T04:20:29.483396Z,pipecircuit-browser-ui-macros,0.0.1,0,0,https://github.com/KenAKAFrosty/pipecircuit-scaffold,Pipecircuit-owned browser UI implementation derived from Dioxus
+2026-11-04T04:20:29.750865Z,pipecircuit-dom-core,0.0.1,0,0,https://github.com/KenAKAFrosty/pipecircuit-scaffold,DOM mutation and input vocabulary for Pipecircuit
+2026-11-04T04:20:30.062213Z,pipecircuit-showrunner-core,0.0.1,0,0,https://github.com/KenAKAFrosty/pipecircuit-scaffold,Typed browser testing with Pipecircuit
+2026-11-04T04:20:35.607529Z,pipecircuit-dom,0.0.1,0,0,https://github.com/KenAKAFrosty/pipecircuit-scaffold,Typed DOM mutation and input pipe for Pipecircuit
+2026-11-04T04:20:36.179893Z,pipecircuit-showrunner,0.0.1,0,0,https://github.com/KenAKAFrosty/pipecircuit-scaffold,Typed browser testing with Pipecircuit
+2026-11-04T04:24:33.286561Z,pipecircuit-tls,0.0.1,0,0,https://github.com/KenAKAFrosty/pipecircuit-scaffold,Portable TLS protocol authority for Pipecircuit
+2026-11-04T04:28:00.198788Z,rustev-live,0.4.0,0,0,https://github.com/statecrafting/rustev,Live re-execution of Rustev decisions at dataset scale under spend caps and a persistent spend journal.
+2026-11-04T04:36:39.390418Z,pipecircuit-browser-ui,0.0.1,0,0,https://github.com/KenAKAFrosty/pipecircuit-scaffold,Pipecircuit-owned browser UI implementation derived from Dioxus
+2026-11-04T04:40:16.309683Z,yutil,0.0.1,0,0,https://github.com/yumanuralfath/file_yutil,File utility
+2026-11-04T04:41:07.170652Z,beatd,0.0.1,0,0,https://github.com/nuskey8/beatd,A cross-platform library for Streaming audio analysis.
+2026-11-04T04:43:35.322445Z,pipecircuit-tls-native,0.0.1,0,0,https://github.com/KenAKAFrosty/pipecircuit-scaffold,Optional native crypto providers for Pipecircuit TLS
+2026-11-04T04:53:29.92577Z,pipecircuit-http-client-core,0.0.1,0,0,https://github.com/KenAKAFrosty/pipecircuit-scaffold,Portable HTTP client request and connection authorities
+2026-11-04T05:03:29.234429Z,pipecircuit-http-client,0.0.1,0,0,https://github.com/KenAKAFrosty/pipecircuit-scaffold,Pipecircuit HTTP client pipe contract
+2026-11-04T05:08:19.862291Z,staleynet-audio,0.1.0,0,0,,"Audio decoding, resampling, log-mel analysis and Griffin-Lim reconstruction."
+2026-11-04T05:11:17.431757Z,contime-macros,0.1.2,0,0,https://github.com/humacss/contime,Module composition and optional application helpers for ConTime
+2026-11-04T05:13:30.112909Z,pipecircuit-http-client-mio,0.0.1,0,0,https://github.com/KenAKAFrosty/pipecircuit-scaffold,Native Mio transport for the Pipecircuit HTTP client
+2026-11-04T05:18:09.824188Z,qso-graph-trust-cli,0.1.0-beta.3,0,0,https://github.com/qso-graph/qso-graph-trust,qg-trust: sign ADIF logs for ARRL's Logbook of The World (LoTW) from the command line
