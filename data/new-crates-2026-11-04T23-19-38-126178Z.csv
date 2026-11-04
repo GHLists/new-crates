@@ -1,0 +1,49 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-04T22:38:22.025214Z,vusb,0.1.0,0,0,https://github.com/oxrok/vusb,"Virtual USB devices: a device model contract, class shells (HID, CDC-ACM, FTDI, EZ-USB), and the hosts that put a model on the bus (USB/IP with vhci-hcd, in-process)"
+2026-11-04T22:38:24.458098Z,vusb-cli,0.1.0,0,0,https://github.com/oxrok/vusb,"Command line tools of vusb: run an example virtual USB device, and vusb-ctl, which drives any running vusb session"
+2026-11-04T22:38:38.895155Z,comnum-metrics,0.2.0,0,0,https://github.com/com-rs/comnum,"Performance metrics of comnum: error rates, SNR, EVM, mutual information and GMI, PAPR, power spectral density, ACLR"
+2026-11-04T22:41:11.187708Z,grafta-render,0.1.0,0,0,https://github.com/n0ss4/grafta,"Draw a node of a .fig as an image, so a model can see what it read or made."
+2026-11-04T22:42:15.602217Z,vocal-helper-rs,0.1.0,0,0,https://github.com/warith-harchaoui/vocal-helper-rs,"Portage Rust de vocal-helper : diarisation de la parole en flux, sans Python."
+2026-11-04T22:45:23.707989Z,compute-crc,0.0.2,0,0,https://github.com/artob/filer,"Clean-room, public-domain CRCs: CRC-32, CRC-32C, CRC-64/XZ, and more, in safe Rust."
+2026-11-04T22:45:48.193638Z,compute-sha256,0.0.2,0,0,https://github.com/artob/filer,"A clean-room, public-domain SHA-256, in safe Rust."
+2026-11-04T22:45:51.380979Z,compute-xxhash,0.0.2,0,0,https://github.com/artob/filer,"Clean-room, public-domain xxHash hashes: XXH64, in safe Rust."
+2026-11-04T22:45:53.427085Z,compute-adler32,0.0.2,0,0,https://github.com/artob/filer,"A clean-room, public-domain Adler-32, in safe Rust (planned)."
+2026-11-04T22:48:39.18443Z,comnum-sim,0.2.0,0,0,https://github.com/com-rs/comnum,"Monte Carlo engine of comnum: parameter grids, scenarios, parallel runner independent of the thread count, stopping rules, confidence intervals"
+2026-11-04T22:49:38.148108Z,cfd-craft,0.1.0,0,0,https://github.com/dietmarwo/CFD-craft,"Research solver for incompressible Cartesian flow and passive-gas dispersion with bounded, independently checked runs"
+2026-11-04T22:49:44.800479Z,cfd-craft-cli,0.1.0,0,0,https://github.com/dietmarwo/CFD-craft,"Command-line interface of CFD-craft: check, run, report and verify flow and dispersion cases with checksummed archives"
+2026-11-04T22:50:25.8718Z,fml-xml,0.2.3,0,0,https://github.com/octofhir/fml-rs,"XML for FHIR logical models: read XML into the JSON a map runs on and write it back, as the model's StructureDefinitions describe (namespaces, attributes, xsi:type, choice groups)"
+2026-11-04T22:51:39.653508Z,noesis-discovery,0.1.0,0,0,https://github.com/coderyaz856/NOESIS-Autonomous-Information-Driven-Scientific-Discovery,Rust client and numerical kernels for the Noesis discovery lab (talks to the Python discolab sidecar)
+2026-11-04T22:52:18.307443Z,grafta-design,0.1.0,0,0,https://github.com/n0ss4/grafta,Figma Design for grafta: the base product every other extends.
+2026-11-04T22:53:12.28307Z,nix-bump-preview,0.1.0,0,0,https://github.com/mlavrinenko/nix-bump-preview,"Preview a Nix flake input bump: package version deltas and build cost, without building or switching"
+2026-11-04T22:58:12.983596Z,runet-tun,1.0.0,0,0,https://github.com/ccc-claude-opus/runet,"Linux TAP device, to connect runet to a real network"
+2026-11-04T22:58:14.759672Z,runet-wire,1.0.0,0,0,https://github.com/ccc-claude-opus/runet,"Packet formats: parse and emit Ethernet, ARP, IPv4, ICMP, UDP, TCP headers"
+2026-11-04T22:58:16.946786Z,runet-stack,1.0.0,0,0,https://github.com/ccc-claude-opus/runet,A sans-IO TCP/IP stack for teaching
+2026-11-04T22:58:18.781977Z,runet-app,1.0.0,0,0,https://github.com/ccc-claude-opus/runet,Network tools and application protocols built on runet-stack
+2026-11-04T22:58:20.822056Z,runet-sim,1.0.0,0,0,https://github.com/ccc-claude-opus/runet,"Discrete-event network simulator: links, switches, hubs, scenarios"
+2026-11-04T22:58:39.124618Z,comnum-systems,0.2.0,0,0,https://github.com/com-rs/comnum,"Standard-compliant reference chains of comnum: DVB-S, DVB-S2 and DVB-T"
+2026-11-04T22:59:32.24962Z,alumina-markdown,0.1.0,0,0,https://github.com/sapphire-turtle/alumina,A Markdown editor for egui that formats as you type
+2026-11-04T23:00:05.204131Z,rs-cut4arrow-ipc,0.1.0,0,0,https://github.com/takanoriyanagitani/rs-cut4arrow-ipc,Project columns from Apache Arrow IPC streams
+2026-11-04T23:03:23.917695Z,grafta-disk,0.1.0,0,0,https://github.com/n0ss4/grafta,"grafta's ports on the machine: the file system, figfile, the journal on disk and render."
+2026-11-04T23:04:18.131471Z,rust-office-charts,0.1.0,0,0,https://github.com/extend-hq/rust-office,Render Office Open XML charts to SVG from native Rust or WebAssembly
+2026-11-04T23:04:19.984244Z,rust-docx,0.2.3,0,0,https://github.com/extend-hq/rust-office,"Rust parser, document model, and serializer for DOCX and legacy Word documents"
+2026-11-04T23:04:20.273177Z,compute-sha512,0.0.2,0,0,https://github.com/artob/filer,"A clean-room, public-domain SHA-512 and SHA-512/256, in safe Rust (planned)."
+2026-11-04T23:04:20.976167Z,rust-office-charts-wasm,0.1.0,0,0,https://github.com/extend-hq/rust-office,WebAssembly bindings for the Office Open XML Cartesian chart renderer
+2026-11-04T23:04:21.203739Z,rust-pptx,0.1.0,0,0,https://github.com/extend-hq/rust-office,Parse PowerPoint PPTX and legacy PPT presentations into a structured model
+2026-11-04T23:04:22.248618Z,rust-docx-wasm,0.2.3,0,0,https://github.com/extend-hq/rust-office,WebAssembly bindings for the rust-docx parser and serializer
+2026-11-04T23:04:23.089108Z,compute-blake2,0.0.2,0,0,https://github.com/artob/filer,"Clean-room, public-domain BLAKE2b, BLAKE2s, and BLAKE2sp, in safe Rust (planned)."
+2026-11-04T23:04:26.086597Z,compute-blake3,0.0.2,0,0,https://github.com/artob/filer,"A clean-room, public-domain BLAKE3, in safe Rust (planned)."
+2026-11-04T23:04:42.448246Z,runet,1.0.0,0,0,https://github.com/ccc-claude-opus/runet,runet command line: network tools on a simulated or real network
+2026-11-04T23:05:52.708287Z,ccda-fhir,0.1.0,0,0,https://github.com/octofhir/ccda-fhir,"C-CDA to FHIR R4 and back, on FHIR Mapping Language maps over the HL7 CDA logical model"
+2026-11-04T23:06:30.07412Z,compute-fletcher,0.0.2,0,0,https://github.com/artob/filer,"Clean-room, public-domain Fletcher checksums, as ZFS and APFS stamp them, in safe Rust (planned)."
+2026-11-04T23:08:39.777182Z,comnum-spec,0.2.0,0,0,https://github.com/com-rs/comnum,"Declarative Monte Carlo campaigns of comnum (YAML, JSON, TOML), validation against the literature, recordings I/O (SigMF, raw IQ, NPY) and the comnum command"
+2026-11-04T23:09:11.164458Z,appsync-scalars,0.1.0,0,0,https://github.com/wbgoodwin/appsync-scalars,Validates AWS AppSync date and time scalar values.
+2026-11-04T23:12:18.568417Z,sanduk-core,0.2.0,0,0,https://github.com/shakfu/sanduk-rs,"Run a coding agent in a disposable container, with the API key held on the host"
+2026-11-04T23:13:30.474154Z,rust-pptx-wasm,0.1.0,0,0,https://github.com/extend-hq/rust-office,WebAssembly bindings for the Extend PowerPoint parser
+2026-11-04T23:14:27.83493Z,grafta-figjam,0.1.0,0,0,https://github.com/n0ss4/grafta,"FigJam for grafta: a board's stickies, shapes, tables and connectors."
+2026-11-04T23:16:59.627385Z,empatica,0.1.0,0,0,https://github.com/eugenehp/empatica-rs,Rust client for Empatica EmbracePlus wristbands over BLE using the Web Bluetooth API
+2026-11-04T23:17:32.979653Z,agent-hooks-protocol,0.12.1,0,0,https://github.com/builtby-win/agent-hooks,Universal lifecycle hooks and observability engine for AI coding agent harnesses.
+2026-11-04T23:17:34.743525Z,agent-hooks-adapters,0.12.1,0,0,https://github.com/builtby-win/agent-hooks,Universal lifecycle hooks and observability engine for AI coding agent harnesses.
+2026-11-04T23:17:35.668478Z,agent-hooks-history,0.12.1,0,0,https://github.com/builtby-win/agent-hooks,Universal lifecycle hooks and observability engine for AI coding agent harnesses.
+2026-11-04T23:17:36.283427Z,agent-hooks-core,0.12.1,0,0,https://github.com/builtby-win/agent-hooks,Universal lifecycle hooks and observability engine for AI coding agent harnesses.
+2026-11-04T23:17:38.698776Z,agent-hooks-client,0.12.1,0,0,https://github.com/builtby-win/agent-hooks,Universal lifecycle hooks and observability engine for AI coding agent harnesses.
+2026-11-04T23:18:39.379713Z,comnum,0.2.0,0,0,https://github.com/com-rs/comnum,"Link-level simulation of digital communication systems, wireless and optical: the facade of the comnum workspace"
