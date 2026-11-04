@@ -1,0 +1,26 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-04T00:18:57.439676Z,leafy_router,0.1.1,0,0,https://github.com/finnbear/leafy,A port of yew-router 0.20 to leafy.
+2026-11-04T00:19:07.002859Z,xr-spatial,0.1.0,0,0,https://github.com/Josh-Archer/questkit,"Spatial screen placement for XR apps: 6DoF transforms, pointing rays, grab/resize/scroll gestures, desk and keyboard detection"
+2026-11-04T00:25:16.142604Z,mozu-audio,0.2.0,0,0,https://github.com/ooookao/mozu-audio,Haas speech recognition in Rust using macOS Core ML
+2026-11-04T00:28:51.972723Z,neocogi-render-gpu,0.1.0-alpha.1,0,0,https://github.com/NeoCogi/neocogi-platform,Portable GPU resources and command recording with optional concrete graphics backends
+2026-11-04T00:29:43.718163Z,weightspace,0.1.0,0,0,https://github.com/yourusername/weightspace,"A Rust toolkit for weight-space programming: reading, analyzing, and editing neural network weights."
+2026-11-04T00:30:23.077728Z,screenscry-tray,0.1.0,0,0,https://gitlab.com/screenscry/screenscry,System tray icon and menu for ScreenScry.
+2026-11-04T00:33:12.48049Z,this-descriptor,0.0.1,0,0,https://github.com/this-rs/this,"Serializable module descriptor shared by this-rs, this-cli and wasm32 fronts: types, validation, query filters, policies, errors, i18n"
+2026-11-04T00:35:57.363814Z,fabcli,0.1.0,0,0,https://github.com/eiei114/fabcli,CLI for the Fab marketplace that borrows your logged-in Chrome over CDP
+2026-11-04T00:36:18.468894Z,sfabcli,0.1.0,0,0,https://github.com/eiei114/sfabcli,CLI for Sketchfab that borrows your logged-in Chrome over CDP
+2026-11-04T00:38:04.797872Z,screenscry-ui,0.1.0,0,0,https://gitlab.com/screenscry/screenscry,Iced application and windows for ScreenScry.
+2026-11-04T00:38:47.888034Z,neocogi-render-support,0.1.0-alpha.1,0,0,https://github.com/NeoCogi/neocogi-platform,Shared graphics preparation and platform algorithms for NeoCogi
+2026-11-04T00:47:55.227064Z,blue-lang-kernel,0.0.150,0,0,https://github.com/pleme-io/blue,"The Linux kernel ABI a blue program reaches: bpf(2), perf_event_open(2), their file descriptors and the BPF ring buffer, through one audited seam with no C library binding"
+2026-11-04T00:48:50.82957Z,neocogi-platform-plugin,0.1.0-alpha.1,0,0,https://github.com/NeoCogi/neocogi-platform,SDL/browser platform hosting with selected GPU backend assembly
+2026-11-04T00:55:07.191617Z,screenscry-daemon,0.1.0,0,0,https://gitlab.com/screenscry/screenscry,Background daemon for ScreenScry that runs the tray icon and IPC server and manages the GUI process.
+2026-11-04T00:56:16.919614Z,megacode-agent-sdk,0.30.0,0,0,https://megacode-harness.vercel.app/docs/,Drive a MEGA harness agent session from a Rust program.
+2026-11-04T00:56:32.183315Z,pelicano,0.1.29,0,0,https://github.com/feather-works/pelicano,"GUI library of the FeatherWorks suite: its own widgets, layout and window, drawn on the CPU with tiny-skia"
+2026-11-04T00:58:50.294753Z,neocogi-platform-plugin-dylib,0.1.0-alpha.1,0,0,https://github.com/NeoCogi/neocogi-platform,Final dynamic entrypoint for neocogi-platform-plugin
+2026-11-04T01:03:25.494207Z,smllm-json,0.4.0,0,0,https://github.com/six5536/smllm,"A small no_std JSON reader and writer: a parsed tree, conversion traits and serde_json-compatible output."
+2026-11-04T01:03:28.265963Z,smllm-core,0.4.0,0,0,https://github.com/six5536/smllm,"The smllm engine: state machines that drive an LLM agent's turn loop. no_std + alloc, host-supplied IO."
+2026-11-04T01:03:33.121689Z,smllm-format,0.4.0,0,0,https://github.com/six5536/smllm,"Parser, validator, JSON Schema and compiler for smllm state machine files (an XState v5 subset in YAML)."
+2026-11-04T01:03:38.566105Z,smllm,0.4.0,0,0,https://github.com/six5536/smllm,State machines for LLM agents: declarative XState-style machines that drive a coding agent's turn loop through its hooks and one MCP tool.
+2026-11-04T01:04:48.878089Z,scaffold-cli,0.2.0,0,0,https://github.com/hashbangcore/scaffold,Scaffold manager
+2026-11-04T01:06:07.047288Z,esuiss-retention,0.2.5,0,0,https://github.com/e-suiss/access,"Suiss shared retention contract: retention classes, schedules, legal holds and the destroy decision (OP-76, OP-147)."
+2026-11-04T01:07:27.328251Z,audio-lab,0.1.0,0,0,https://github.com/neodsp/audio-lab,Toolkit for audio research and testing
+2026-11-04T01:14:09.42832Z,bovnar,2.0.0,0,0,https://github.com/sothis/bovnar,"Thin Rust binding to the Bovnar (BVNR) C library: a typed, unit-aware text serialisation format"
