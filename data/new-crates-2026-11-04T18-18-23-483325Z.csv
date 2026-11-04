@@ -1,0 +1,31 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-04T17:24:18.469549Z,oxabl-cache-format,0.1.0,0,0,https://github.com/oxabl-project/oxabl-cache,"Byte formats for the oxabl-cache remote compile cache: frames, ids, limits."
+2026-11-04T17:24:20.23014Z,oxabl-cache-crypto,0.1.0,0,0,https://github.com/oxabl-project/oxabl-cache,"Client-side cryptography for the oxabl-cache remote compile cache: key hierarchy, seal and open, signatures."
+2026-11-04T17:24:21.929957Z,oxabl-cache-client,0.1.0,0,0,https://github.com/oxabl-project/oxabl-cache,Client library for the oxabl-cache end-to-end encrypted remote compile cache.
+2026-11-04T17:26:31.565046Z,ecat-data-cassandra,9.0.0,0,0,https://github.com/erikwang2013/e-cat,Apache Cassandra CQL client for e-cat
+2026-11-04T17:27:14.61673Z,tedo,1.4.0,0,0,https://github.com/NopeEnemy/tedo,Tedo is a simple terminal TO-DO manager for people who don't like GUIs.
+2026-11-04T17:34:17.606586Z,yolo-zig-ffi,0.1.0,0,0,https://github.com/yolo-rs/yolo-zig,Rust bindings for the stable yolo-zig C ABI
+2026-11-04T17:36:33.684769Z,ecat-data-iceberg,9.0.0,0,0,https://github.com/erikwang2013/e-cat,Apache Iceberg REST catalog client for e-cat
+2026-11-04T17:39:39.28813Z,ghost-layer-attacker,0.1.0,0,0,https://github.com/skartik-sk/ghost-layer,"Ghost Layer attacker: linkage heuristics (same-connection, sync-then-send, range fingerprint, same IP) over a light-wallet server observer log."
+2026-11-04T17:39:40.741722Z,ghost-layer-core,0.1.0,0,0,https://github.com/skartik-sk/ghost-layer,"Ghost Layer core: grid-aligned sync planner (nym-swizzle-zcash rule), restart-safe randomized broadcast scheduler and upstream event log for Zcash light clients. No network code."
+2026-11-04T17:39:42.044168Z,ghost-layer-transport,0.1.0,0,0,https://github.com/skartik-sk/ghost-layer,"Ghost Layer transports: lightwalletd gRPC client over direct TLS or Nym SOCKS5 (fail closed), with the vendored lightwallet protocol (NU7/Ironwood)."
+2026-11-04T17:39:46.705041Z,ghost-layer-gateway,0.1.0,0,0,https://github.com/skartik-sk/ghost-layer,"Ghost Layer gateway: a local lightwalletd-compatible CompactTxStreamer server that splits broadcasts from sync, delays them randomly and grid-aligns sync."
+2026-11-04T17:39:50.394861Z,ghost-layer,0.1.0,0,0,https://github.com/skartik-sk/ghost-layer,"Ghost Layer (`ghost`): unlink your Zcash payments from your wallet sync. Split broadcast, random delay, grid-aligned sync, Nym by default; ZecProof, Ghost Wallet, MCP server."
+2026-11-04T17:40:12.910473Z,winio-wgpu,0.1.0-beta.1,0,0,https://github.com/compio-rs/winio,Shared wgpu helpers for winio backends.
+2026-11-04T17:45:51.572756Z,itzma-store,0.2.0,0,0,https://github.com/sergiommarcial/itzma,Conformance checks for an object_store::ObjectStore that itzma runs on
+2026-11-04T17:45:53.439803Z,itzma-store-aws,0.2.0,0,0,https://github.com/sergiommarcial/itzma,An object_store::ObjectStore over Amazon's official S3 SDK
+2026-11-04T17:45:53.866545Z,itzma-store-azure,0.2.0,0,0,https://github.com/sergiommarcial/itzma,An object_store::ObjectStore over Microsoft's official Azure Blob Storage SDK
+2026-11-04T17:45:54.312694Z,itzma-store-gcs,0.2.0,0,0,https://github.com/sergiommarcial/itzma,An object_store::ObjectStore over Google's official Cloud Storage SDK
+2026-11-04T17:46:38.938284Z,ecat-data-delta-sharing,9.0.0,0,0,https://github.com/erikwang2013/e-cat,Delta Sharing REST client for e-cat
+2026-11-04T17:47:09.480527Z,pigeonhole-vector,1.1.0,0,0,https://github.com/CodingAnarchy/pigeonhole,"An IVF vector index for Pigeonhole, built on its public API."
+2026-11-04T17:47:13.537577Z,pigeonhole-text,1.1.0,0,0,https://github.com/CodingAnarchy/pigeonhole,"Full-text search with BM25 and phrases for Pigeonhole, built on its public API."
+2026-11-04T17:47:26.653564Z,pigeonhole-memory,1.1.0,0,0,https://github.com/CodingAnarchy/pigeonhole,"Long-term agent memory with hybrid recall (vector, keyword, recency) for Pigeonhole, built on its public API."
+2026-11-04T17:51:17.836554Z,ayaml,0.1.0,0,0,https://github.com/asamarts/ayaml,"A safe, pure-Rust YAML parser, event stream, value model, Serde layer, and emitter"
+2026-11-04T17:53:04.056449Z,ic-wire-endpoint-macros,0.7.0,0,0,https://github.com/dragginzgame/ic-wire,Typed endpoint attributes for ic-wire-endpoint
+2026-11-04T17:55:59.300979Z,smtp-net,0.2.0,0,0,https://github.com/jamesgober/smtp-net,"SMTP client for Rust: message submission over STARTTLS or implicit TLS, authentication, pipelining, MIME message building, DKIM signing, and a sans-IO core."
+2026-11-04T17:58:33.915089Z,jj-dsl,0.47.0,0,0,https://github.com/jj-vcs/jj,Domain specific languages for Jujutsu - an experimental version control system
+2026-11-04T17:58:35.663744Z,jj-local-util,0.47.0,0,0,https://github.com/jj-vcs/jj,Local file system and process utilities for Jujutsu - an experimental version control system
+2026-11-04T17:58:36.677079Z,jj-default-index,0.47.0,0,0,https://github.com/jj-vcs/jj,Default on-disk commit index for Jujutsu - an experimental version control system
+2026-11-04T17:58:37.14855Z,jj-git-backend,0.47.0,0,0,https://github.com/jj-vcs/jj,Git commit backend for Jujutsu - an experimental version control system
+2026-11-04T17:58:40.251636Z,jj-frontend,0.47.0,0,0,https://github.com/jj-vcs/jj,Helpers for building user interfaces for Jujutsu - an experimental version control system
+2026-11-04T18:01:44.862284Z,tls-net,0.2.0,0,0,https://github.com/jamesgober/tls-net,"TLS for net-io: a thin adapter that plugs rustls into net-io's TLS seam, with certificate loading and hot reload, SNI, ALPN, client certificates, ClientHello capture, and a policy shaped by shield-se…"
