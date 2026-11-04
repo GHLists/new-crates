@@ -1,0 +1,28 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-04T18:19:08.720469Z,vpnchecker,0.1.1,0,0,https://github.com/pwyllcrusader/vpnchecker,"VPN kill switch for macOS: outbound traffic leaves only through the VPN (pf), with a wildcard domain allowlist"
+2026-11-04T18:20:41.931002Z,swig-developer-sdk,0.1.0,0,0,https://github.com/anagrambuild/swig-developer-sdk,Swig Developer SDK for hosted clients and native transaction signing
+2026-11-04T18:21:07.580882Z,tauri-plugin-live-activity,0.1.0-alpha.1,0,0,https://github.com/1eedaegon/tauri-plugin-live-activity,Local Live Activities and ongoing notifications for Tauri 2 on iOS and Android
+2026-11-04T18:29:52.536575Z,rmycli,0.1.0,0,0,https://github.com/michael-grunder/rmycli,A Redis shell with live command help and type-aware completion
+2026-11-04T18:33:50.822855Z,lunar-link,0.1.0,0,0,https://github.com/AdriaBC06/Lunar-Link,"A tiny simulated lunar server you connect to from an animated terminal UI, with realistic space-signal delay"
+2026-11-04T18:35:50.993497Z,almiladoc,1.0.1,0,0,https://github.com/almila-app/almiladoc,"Convert documents (doc, docx, odt, rtf, epub, pdf, presentations, spreadsheets, csv) to GitHub-Flavored Markdown"
+2026-11-04T18:38:03.53015Z,vortex-elias-fano,0.91.0,0,0,https://github.com/vortex-data/vortex,Vortex Elias-Fano and unary integer encodings
+2026-11-04T18:38:22.196405Z,spanner-adbc,0.0.1,0,0,https://github.com/fornwall/spanner-adbc,"Placeholder for an Arrow ADBC driver for Google Cloud Spanner, developed at the linked repository"
+2026-11-04T18:41:13.718593Z,monic,0.0.0,0,0,,One log for the database and the bus.
+2026-11-04T18:50:15.38796Z,leptoskit_analytics,0.0.0,0,0,https://github.com/ifiokjr/leptoskit,Bounded application observability and agent-readable evidence for LeptosKit.
+2026-11-04T18:50:22.461822Z,leptoskit_deploy_console,0.0.0,0,0,https://github.com/ifiokjr/leptoskit,A self-hosted LeptosKit deployment service and dashboard.
+2026-11-04T18:50:47.168618Z,polymark-core,0.1.0,0,0,https://github.com/meritt/polymark.rs,"Plain text, Markdown, HTML and Telegram MarkdownV2 converted through one closed document model"
+2026-11-04T18:53:24.070838Z,boatramp-k8s,0.55.0,0,0,https://github.com/BoatRamp/BoatRamp,"Kubernetes compute backend for boatramp: run a managed database (and, later, generic workloads) as native k8s resources (StatefulSet + Service + PVC) through the in-cluster API (kube-rs). Default-ine…"
+2026-11-04T18:55:10.04484Z,non-empty-bytes,1.0.0,0,0,https://github.com/Rtificer/non-empty-bytes,A crate providing non-empty invariant wrappers to the bytes crate
+2026-11-04T19:01:32.172238Z,sparse-cp,0.9.0,0,0,https://github.com/AliSot2000/tar-dedup,Sparse-aware file copy and zero-block scanner
+2026-11-04T19:01:53.592183Z,tar-dedup-lib,0.9.0,0,0,https://github.com/AliSot2000/tar-dedup,Deduplicating tar wrapper library for efficient cold storage of unstructured data
+2026-11-04T19:02:10.570458Z,tar-dedup,0.9.0,0,0,https://github.com/AliSot2000/tar-dedup,"Command-line interface to tar-dedup-lib: resumable, metadata-preserving archive and extract"
+2026-11-04T19:02:34.583106Z,monochromatic-cargo-shadow,0.1.0,0,0,https://github.com/Aquaticats/Monochromatic.git,"Shadows cargo: before a command that resolves dependencies it makes the workspace's Cargo.lock satisfy its manifests under the rust-catalog.toml trust policy, then runs the real cargo unchanged. Also…"
+2026-11-04T19:04:40.335713Z,everymap-providers-osrm,0.3.0,0,0,https://github.com/angoratek/everymap-rs,OSRM routing provider for EveryMap — self-hosted turn-by-turn routes
+2026-11-04T19:04:43.205359Z,everymap-providers-valhalla,0.3.0,0,0,https://github.com/angoratek/everymap-rs,Valhalla routing provider for EveryMap — self-hosted turn-by-turn routes
+2026-11-04T19:04:46.045329Z,everymap-providers-url-template-vector,0.3.0,0,0,https://github.com/angoratek/everymap-rs,EveryMap vector-tile provider driven by a {z}/{x}/{y} URL template
+2026-11-04T19:04:48.924492Z,everymap-providers-mapquest,0.3.0,0,0,https://github.com/angoratek/everymap-rs,"MapQuest provider for EveryMap — geocoding, routing, autocomplete, distance matrix, traffic and raster tiles"
+2026-11-04T19:04:51.650531Z,everymap-providers-url-template-raster,0.3.0,0,0,https://github.com/angoratek/everymap-rs,EveryMap raster-tile provider driven by a {z}/{x}/{y} URL template
+2026-11-04T19:07:05.893821Z,shapeof-core,0.1.0,0,0,https://github.com/meritt/shapeof.rs,"JSON Schema 2020-12 inferred from examples of JSON, JSON5-like text or JSON Lines"
+2026-11-04T19:08:44.797201Z,midnight-ledger-v9,1.0.0,0,0,https://github.com/midnightntwrk/midnight-ledger,Provides the transaction format and semantics for Midnight.
+2026-11-04T19:10:01.846024Z,roomkit-auth,0.1.0,0,0,https://github.com/roomkit-live/roomkit-auth,Reusable account authentication for RoomKit applications: Sign in with ChatGPT for local apps
+2026-11-04T19:12:36.350015Z,langextract-rs,0.1.0,0,0,https://github.com/lwm-luminx/langextract-rs,"A Rust port of LangExtract: few-shot structured extraction from text with a language model, grounded to character spans in the source."

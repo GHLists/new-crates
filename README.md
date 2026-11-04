@@ -8,44 +8,41 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-04 18:18 UTC
+## Latest list — 2026-11-04 19:18 UTC
 
-New crates published between 2026-11-04 17:20 UTC and 2026-11-04 18:18 UTC.
+New crates published between 2026-11-04 18:18 UTC and 2026-11-04 19:18 UTC.
 
-[Full CSV](data/new-crates-2026-11-04T18-18-23-483325Z.csv)
+[Full CSV](data/new-crates-2026-11-04T19-18-50-352811Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-04 17:24:18 | [oxabl-cache-format](https://crates.io/crates/oxabl-cache-format) | 0.1.0 | 0 | Byte formats for the oxabl-cache remote compile cache: frames, ids, limits. |
-| 2026-11-04 17:24:20 | [oxabl-cache-crypto](https://crates.io/crates/oxabl-cache-crypto) | 0.1.0 | 0 | Client-side cryptography for the oxabl-cache remote compile cache: key hierarch… |
-| 2026-11-04 17:24:21 | [oxabl-cache-client](https://crates.io/crates/oxabl-cache-client) | 0.1.0 | 0 | Client library for the oxabl-cache end-to-end encrypted remote compile cache. |
-| 2026-11-04 17:26:31 | [ecat-data-cassandra](https://crates.io/crates/ecat-data-cassandra) | 9.0.0 | 0 | Apache Cassandra CQL client for e-cat |
-| 2026-11-04 17:27:14 | [tedo](https://crates.io/crates/tedo) | 1.4.0 | 0 | Tedo is a simple terminal TO-DO manager for people who don't like GUIs. |
-| 2026-11-04 17:34:17 | [yolo-zig-ffi](https://crates.io/crates/yolo-zig-ffi) | 0.1.0 | 0 | Rust bindings for the stable yolo-zig C ABI |
-| 2026-11-04 17:36:33 | [ecat-data-iceberg](https://crates.io/crates/ecat-data-iceberg) | 9.0.0 | 0 | Apache Iceberg REST catalog client for e-cat |
-| 2026-11-04 17:39:39 | [ghost-layer-attacker](https://crates.io/crates/ghost-layer-attacker) | 0.1.0 | 0 | Ghost Layer attacker: linkage heuristics (same-connection, sync-then-send, rang… |
-| 2026-11-04 17:39:40 | [ghost-layer-core](https://crates.io/crates/ghost-layer-core) | 0.1.0 | 0 | Ghost Layer core: grid-aligned sync planner (nym-swizzle-zcash rule), restart-s… |
-| 2026-11-04 17:39:42 | [ghost-layer-transport](https://crates.io/crates/ghost-layer-transport) | 0.1.0 | 0 | Ghost Layer transports: lightwalletd gRPC client over direct TLS or Nym SOCKS5… |
-| 2026-11-04 17:39:46 | [ghost-layer-gateway](https://crates.io/crates/ghost-layer-gateway) | 0.1.0 | 0 | Ghost Layer gateway: a local lightwalletd-compatible CompactTxStreamer server t… |
-| 2026-11-04 17:39:50 | [ghost-layer](https://crates.io/crates/ghost-layer) | 0.1.0 | 0 | Ghost Layer (`ghost`): unlink your Zcash payments from your wallet sync. Split… |
-| 2026-11-04 17:40:12 | [winio-wgpu](https://crates.io/crates/winio-wgpu) | 0.1.0-beta.1 | 0 | Shared wgpu helpers for winio backends. |
-| 2026-11-04 17:45:51 | [itzma-store](https://crates.io/crates/itzma-store) | 0.2.0 | 0 | Conformance checks for an object_store::ObjectStore that itzma runs on |
-| 2026-11-04 17:45:53 | [itzma-store-aws](https://crates.io/crates/itzma-store-aws) | 0.2.0 | 0 | An object_store::ObjectStore over Amazon's official S3 SDK |
-| 2026-11-04 17:45:53 | [itzma-store-azure](https://crates.io/crates/itzma-store-azure) | 0.2.0 | 0 | An object_store::ObjectStore over Microsoft's official Azure Blob Storage SDK |
-| 2026-11-04 17:45:54 | [itzma-store-gcs](https://crates.io/crates/itzma-store-gcs) | 0.2.0 | 0 | An object_store::ObjectStore over Google's official Cloud Storage SDK |
-| 2026-11-04 17:46:38 | [ecat-data-delta-sharing](https://crates.io/crates/ecat-data-delta-sharing) | 9.0.0 | 0 | Delta Sharing REST client for e-cat |
-| 2026-11-04 17:47:09 | [pigeonhole-vector](https://crates.io/crates/pigeonhole-vector) | 1.1.0 | 0 | An IVF vector index for Pigeonhole, built on its public API. |
-| 2026-11-04 17:47:13 | [pigeonhole-text](https://crates.io/crates/pigeonhole-text) | 1.1.0 | 0 | Full-text search with BM25 and phrases for Pigeonhole, built on its public API. |
-| 2026-11-04 17:47:26 | [pigeonhole-memory](https://crates.io/crates/pigeonhole-memory) | 1.1.0 | 0 | Long-term agent memory with hybrid recall (vector, keyword, recency) for Pigeon… |
-| 2026-11-04 17:51:17 | [ayaml](https://crates.io/crates/ayaml) | 0.1.0 | 0 | A safe, pure-Rust YAML parser, event stream, value model, Serde layer, and emit… |
-| 2026-11-04 17:53:04 | [ic-wire-endpoint-macros](https://crates.io/crates/ic-wire-endpoint-macros) | 0.7.0 | 0 | Typed endpoint attributes for ic-wire-endpoint |
-| 2026-11-04 17:55:59 | [smtp-net](https://crates.io/crates/smtp-net) | 0.2.0 | 0 | SMTP client for Rust: message submission over STARTTLS or implicit TLS, authent… |
-| 2026-11-04 17:58:33 | [jj-dsl](https://crates.io/crates/jj-dsl) | 0.47.0 | 0 | Domain specific languages for Jujutsu - an experimental version control system |
-| 2026-11-04 17:58:35 | [jj-local-util](https://crates.io/crates/jj-local-util) | 0.47.0 | 0 | Local file system and process utilities for Jujutsu - an experimental version c… |
-| 2026-11-04 17:58:36 | [jj-default-index](https://crates.io/crates/jj-default-index) | 0.47.0 | 0 | Default on-disk commit index for Jujutsu - an experimental version control syst… |
-| 2026-11-04 17:58:37 | [jj-git-backend](https://crates.io/crates/jj-git-backend) | 0.47.0 | 0 | Git commit backend for Jujutsu - an experimental version control system |
-| 2026-11-04 17:58:40 | [jj-frontend](https://crates.io/crates/jj-frontend) | 0.47.0 | 0 | Helpers for building user interfaces for Jujutsu - an experimental version cont… |
-| 2026-11-04 18:01:44 | [tls-net](https://crates.io/crates/tls-net) | 0.2.0 | 0 | TLS for net-io: a thin adapter that plugs rustls into net-io's TLS seam, with c… |
+| 2026-11-04 18:19:08 | [vpnchecker](https://crates.io/crates/vpnchecker) | 0.1.1 | 0 | VPN kill switch for macOS: outbound traffic leaves only through the VPN (pf), w… |
+| 2026-11-04 18:20:41 | [swig-developer-sdk](https://crates.io/crates/swig-developer-sdk) | 0.1.0 | 0 | Swig Developer SDK for hosted clients and native transaction signing |
+| 2026-11-04 18:21:07 | [tauri-plugin-live-activity](https://crates.io/crates/tauri-plugin-live-activity) | 0.1.0-alpha.1 | 0 | Local Live Activities and ongoing notifications for Tauri 2 on iOS and Android |
+| 2026-11-04 18:29:52 | [rmycli](https://crates.io/crates/rmycli) | 0.1.0 | 0 | A Redis shell with live command help and type-aware completion |
+| 2026-11-04 18:33:50 | [lunar-link](https://crates.io/crates/lunar-link) | 0.1.0 | 0 | A tiny simulated lunar server you connect to from an animated terminal UI, with… |
+| 2026-11-04 18:35:50 | [almiladoc](https://crates.io/crates/almiladoc) | 1.0.1 | 0 | Convert documents (doc, docx, odt, rtf, epub, pdf, presentations, spreadsheets,… |
+| 2026-11-04 18:38:03 | [vortex-elias-fano](https://crates.io/crates/vortex-elias-fano) | 0.91.0 | 0 | Vortex Elias-Fano and unary integer encodings |
+| 2026-11-04 18:38:22 | [spanner-adbc](https://crates.io/crates/spanner-adbc) | 0.0.1 | 0 | Placeholder for an Arrow ADBC driver for Google Cloud Spanner, developed at the… |
+| 2026-11-04 18:41:13 | [monic](https://crates.io/crates/monic) | 0.0.0 | 0 | One log for the database and the bus. |
+| 2026-11-04 18:50:15 | [leptoskit_analytics](https://crates.io/crates/leptoskit_analytics) | 0.0.0 | 0 | Bounded application observability and agent-readable evidence for LeptosKit. |
+| 2026-11-04 18:50:22 | [leptoskit_deploy_console](https://crates.io/crates/leptoskit_deploy_console) | 0.0.0 | 0 | A self-hosted LeptosKit deployment service and dashboard. |
+| 2026-11-04 18:50:47 | [polymark-core](https://crates.io/crates/polymark-core) | 0.1.0 | 0 | Plain text, Markdown, HTML and Telegram MarkdownV2 converted through one closed… |
+| 2026-11-04 18:53:24 | [boatramp-k8s](https://crates.io/crates/boatramp-k8s) | 0.55.0 | 0 | Kubernetes compute backend for boatramp: run a managed database (and, later, ge… |
+| 2026-11-04 18:55:10 | [non-empty-bytes](https://crates.io/crates/non-empty-bytes) | 1.0.0 | 0 | A crate providing non-empty invariant wrappers to the bytes crate |
+| 2026-11-04 19:01:32 | [sparse-cp](https://crates.io/crates/sparse-cp) | 0.9.0 | 0 | Sparse-aware file copy and zero-block scanner |
+| 2026-11-04 19:01:53 | [tar-dedup-lib](https://crates.io/crates/tar-dedup-lib) | 0.9.0 | 0 | Deduplicating tar wrapper library for efficient cold storage of unstructured da… |
+| 2026-11-04 19:02:10 | [tar-dedup](https://crates.io/crates/tar-dedup) | 0.9.0 | 0 | Command-line interface to tar-dedup-lib: resumable, metadata-preserving archive… |
+| 2026-11-04 19:02:34 | [monochromatic-cargo-shadow](https://crates.io/crates/monochromatic-cargo-shadow) | 0.1.0 | 0 | Shadows cargo: before a command that resolves dependencies it makes the workspa… |
+| 2026-11-04 19:04:40 | [everymap-providers-osrm](https://crates.io/crates/everymap-providers-osrm) | 0.3.0 | 0 | OSRM routing provider for EveryMap — self-hosted turn-by-turn routes |
+| 2026-11-04 19:04:43 | [everymap-providers-valhalla](https://crates.io/crates/everymap-providers-valhalla) | 0.3.0 | 0 | Valhalla routing provider for EveryMap — self-hosted turn-by-turn routes |
+| 2026-11-04 19:04:46 | [everymap-providers-url-template-vector](https://crates.io/crates/everymap-providers-url-template-vector) | 0.3.0 | 0 | EveryMap vector-tile provider driven by a {z}/{x}/{y} URL template |
+| 2026-11-04 19:04:48 | [everymap-providers-mapquest](https://crates.io/crates/everymap-providers-mapquest) | 0.3.0 | 0 | MapQuest provider for EveryMap — geocoding, routing, autocomplete, distance mat… |
+| 2026-11-04 19:04:51 | [everymap-providers-url-template-raster](https://crates.io/crates/everymap-providers-url-template-raster) | 0.3.0 | 0 | EveryMap raster-tile provider driven by a {z}/{x}/{y} URL template |
+| 2026-11-04 19:07:05 | [shapeof-core](https://crates.io/crates/shapeof-core) | 0.1.0 | 0 | JSON Schema 2020-12 inferred from examples of JSON, JSON5-like text or JSON Lin… |
+| 2026-11-04 19:08:44 | [midnight-ledger-v9](https://crates.io/crates/midnight-ledger-v9) | 1.0.0 | 0 | Provides the transaction format and semantics for Midnight. |
+| 2026-11-04 19:10:01 | [roomkit-auth](https://crates.io/crates/roomkit-auth) | 0.1.0 | 0 | Reusable account authentication for RoomKit applications: Sign in with ChatGPT… |
+| 2026-11-04 19:12:36 | [langextract-rs](https://crates.io/crates/langextract-rs) | 0.1.0 | 0 | A Rust port of LangExtract: few-shot structured extraction from text with a lan… |
 
 ## Data source
 
