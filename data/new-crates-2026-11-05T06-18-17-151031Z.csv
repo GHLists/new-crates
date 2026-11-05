@@ -1,0 +1,24 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-05T05:20:59.21228Z,tablet-input-windows,1.0.0,0,0,https://github.com/nope-e/tablet-input-windows,Framework-independent Windows pen input through WM_POINTER
+2026-11-05T05:21:58.548237Z,zengpu-metal,0.1.0,0,0,https://github.com/SkuldNorniern/ZenGPU,ZenGPU Apple Metal backend (macOS/iOS): graphics + compute.
+2026-11-05T05:22:32.988198Z,narumi,0.0.0,0,0,https://github.com/narumiruna/narumi,A Rust library by narumi.
+2026-11-05T05:24:49.425138Z,valo-pdf,0.17.0,0,0,https://github.com/seedeai/valo,"Valo display lists as PDF pages: real text and shapes, with what PDF can't hold drawn as pictures"
+2026-11-05T05:32:32.661909Z,logbook-shared-kernel,0.1.0,0,0,https://github.com/Open-Aviation-Solutions/logbook-shared-kernel,"A pilot's logbook entry in ICAO's terms, and the interface through which a licensing authority supplies its rules."
+2026-11-05T05:32:34.585571Z,zengpu-vulkan,0.1.0,0,0,https://github.com/SkuldNorniern/ZenGPU,ZenGPU Vulkan backend: native GPU runtime on Vulkan 1.2+.
+2026-11-05T05:34:10.68601Z,peerwire-core,0.1.0,0,0,https://github.com/avinashid/peerwire,"Sans-IO peer-to-peer session core for Peerwire: Noise IK links, reliable, urgent and unreliable lanes, congestion control, peer relay and hole punching"
+2026-11-05T05:34:15.205095Z,peerwire-game,0.1.0,0,0,https://github.com/avinashid/peerwire,"Deterministic fixed-point maths, Hilbert-curve islands and desync detection for P2P multiplayer games"
+2026-11-05T05:34:22.074945Z,peerwire-sync,0.1.0,0,0,https://github.com/avinashid/peerwire,"Shared documents for Peerwire: maps, sets and logs that every member holds and that converge, in the frames of @peerwire/js room.doc()"
+2026-11-05T05:34:33.232522Z,peerwire,0.1.0,0,0,https://github.com/avinashid/peerwire,"Peer-to-peer nodes over UDP with no server: STUN, rooms, signaling and NAT traversal on peerwire-core"
+2026-11-05T05:34:39.855256Z,peerwire-ffi,0.1.0,0,0,https://github.com/avinashid/peerwire,"C ABI for peerwire-core: one surface for a zero-import WebAssembly module (browsers) and native FFI (Dart, Swift, C)"
+2026-11-05T05:42:08.094149Z,zengpu,0.1.0,0,0,https://github.com/SkuldNorniern/ZenGPU,A native-first GPU runtime for Rust: graphics and general compute under one device.
+2026-11-05T05:42:18.652802Z,autumn-datatable-plugin,0.1.0,0,0,https://github.com/autumn-foundation/autumn-plugin-datatable,"Data table v2 widget pack for autumn-web: selection, filters, column visibility, density"
+2026-11-05T05:44:35.465411Z,peerwire-sim,0.1.0,0,0,https://github.com/avinashid/peerwire,"Deterministic network simulator for Peerwire: real endpoints over simulated latency, loss, uplinks and NATs, in virtual time"
+2026-11-05T05:46:24.846629Z,ntcip-asc,0.0.1,0,0,,Name reserved for the NTCIP actuated signal controller object model. No functionality yet.
+2026-11-05T05:46:27.885783Z,ntcip-asc-codec,0.0.1,0,0,,Name reserved for the NTCIP actuated signal controller BER codec. No functionality yet.
+2026-11-05T05:46:30.963837Z,ntcip-asc-snmp,0.0.1,0,0,,Name reserved for the NTCIP actuated signal controller SNMP v1 transport. No functionality yet.
+2026-11-05T05:46:33.208508Z,ntcip-asc-conformance,0.0.1,0,0,,Name reserved for the NTCIP actuated signal controller claim checker. No functionality yet.
+2026-11-05T05:54:29.727238Z,peerwire-peer,0.1.0,0,0,https://github.com/avinashid/peerwire,An optional always-on Peerwire peer: keeps one identity across restarts and relays for the peers linked to it
+2026-11-05T05:57:12.440759Z,feathrise_ui_widgets,0.1.0,0,0,https://github.com/hwyrq/feathrise_runtime,Theme independent Bevy author controls and input state machines
+2026-11-05T05:59:22.621304Z,feathrise_runtime,0.1.0,0,0,https://github.com/hwyrq/feathrise_runtime,Shared Bevy runtime and project entry for Feathrise
+2026-11-05T06:04:34.818636Z,peerwire-esp,0.1.0,0,0,https://github.com/avinashid/peerwire,"Peerwire on the ESP32-C3 and ESP32 under ESP-IDF: Wi-Fi, a clock set by SNTP before the node binds, caps sized for the chip, and LAN and Nostr signaling"
+2026-11-05T06:07:40.696838Z,soblendwa,0.1.0,0,0,https://github.com/Soblend-Development-Studio/SoblendWA,SoblendWA: a blazing fast WhatsApp Web multi-device client library written in Rust. Crafted by Soblend Development Studio.

@@ -8,58 +8,37 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-05 05:20 UTC
+## Latest list — 2026-11-05 06:18 UTC
 
-New crates published between 2026-11-05 04:18 UTC and 2026-11-05 05:20 UTC.
+New crates published between 2026-11-05 05:20 UTC and 2026-11-05 06:18 UTC.
 
-[Full CSV](data/new-crates-2026-11-05T05-20-06-726954Z.csv)
+[Full CSV](data/new-crates-2026-11-05T06-18-17-151031Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-05 04:21:59 | [autumn-datepicker-plugin](https://crates.io/crates/autumn-datepicker-plugin) | 0.1.0 | 0 | Date, time, date-time and date-range pickers for Autumn: a server-rendered cale… |
-| 2026-11-05 04:24:00 | [xpa-sheet-core](https://crates.io/crates/xpa-sheet-core) | 0.1.2 | 0 | Deterministic spreadsheet state machine and synchronization contracts for XPA |
-| 2026-11-05 04:24:19 | [neocogi-ui-samples](https://crates.io/crates/neocogi-ui-samples) | 0.1.0-alpha.2 | 0 | Reusable NeoCogi sample widget contracts and event constructors |
-| 2026-11-05 04:24:41 | [feathrise_frame_generation](https://crates.io/crates/feathrise_frame_generation) | 0.1.0 | 0 | Optional Windows Vulkan Streamline and DLSS frame generation integration |
-| 2026-11-05 04:25:44 | [xpa-sheet-native](https://crates.io/crates/xpa-sheet-native) | 0.1.2 | 0 | Native SQLite storage and HTTP/WebSocket drivers for the XPA spreadsheet runtime |
-| 2026-11-05 04:26:17 | [rg-sync](https://crates.io/crates/rg-sync) | 0.1.0 | 0 | Railgun event decoding, commitment trees from events, nullifiers and root histo… |
-| 2026-11-05 04:26:27 | [afastorm](https://crates.io/crates/afastorm) | 0.0.1 | 0 | A framework-independent SQLx ORM with typed models, migrations, soft deletes, o… |
-| 2026-11-05 04:28:56 | [interscript](https://crates.io/crates/interscript) | 0.1.0 | 0 | Rust runtime for Interscript ISC maps, executing the parsanol .parg grammar |
-| 2026-11-05 04:29:23 | [zen-window-handle](https://crates.io/crates/zen-window-handle) | 0.1.0 | 0 | Minimal, dependency-free window/display handle types for the Zen ecosystem (Zen… |
-| 2026-11-05 04:29:24 | [zengpu-spv](https://crates.io/crates/zengpu-spv) | 0.1.0 | 0 | ZenGPU SPIR-V tooling: dependency-free disassembler and structural validator. |
-| 2026-11-05 04:29:26 | [zengpu-zslc](https://crates.io/crates/zengpu-zslc) | 0.1.0 | 0 | ZenGPU ZSL compiler: IR, type checking, passes, and SPIR-V / HIP / CUDA / MSL b… |
-| 2026-11-05 04:29:29 | [zengpu-hal](https://crates.io/crates/zengpu-hal) | 0.1.0 | 0 | ZenGPU shared-core foundation: backend-independent types, generational handles,… |
-| 2026-11-05 04:29:29 | [zengpu-zsl](https://crates.io/crates/zengpu-zsl) | 0.1.0 | 0 | ZenGPU shader proc-macro internals: ZSL token glue over zengpu-zslc. |
-| 2026-11-05 04:34:57 | [zengpu-shader](https://crates.io/crates/zengpu-shader) | 0.1.0 | 0 | ZenGPU shader macro: compile GLSL or ZSL to SPIR-V at build time. |
-| 2026-11-05 04:35:29 | [feathrise_fsr3_frame_generation](https://crates.io/crates/feathrise_fsr3_frame_generation) | 0.1.0 | 0 | Optional Windows Vulkan FSR frame generation with pinned native binaries |
-| 2026-11-05 04:36:38 | [rg-wallet](https://crates.io/crates/rg-wallet) | 0.1.0 | 0 | Railgun wallet scan: trial-decrypt synced commitments, TXOs, spent status, bala… |
-| 2026-11-05 04:37:40 | [mtxdb](https://crates.io/crates/mtxdb) | 0.1.0-beta.3 | 0 | mtxdb: write-once, content-addressed packfile storage engine for Matrix |
-| 2026-11-05 04:40:02 | [mtxdb-cli](https://crates.io/crates/mtxdb-cli) | 0.1.0-beta.3 | 0 | mtxdb: CLI and core library components; fast Matrix binary DB. |
-| 2026-11-05 04:42:11 | [zengpu-compute](https://crates.io/crates/zengpu-compute) | 0.1.0 | 0 | ZenGPU compute runtime: DeviceArray, pooled allocation, and elementwise dispatc… |
-| 2026-11-05 04:45:01 | [rg-tx](https://crates.io/crates/rg-tx) | 0.1.0 | 0 | Railgun private transfers: bound params, signing, circuit inputs and the transa… |
-| 2026-11-05 04:46:33 | [feathrise_portal](https://crates.io/crates/feathrise_portal) | 0.1.0 | 0 | Data driven portals and scene transitions for Bevy projects |
-| 2026-11-05 04:47:20 | [kasi-security](https://crates.io/crates/kasi-security) | 0.1.5 | 0 | Procedural compilation attributes and polymorphic response macros for the Kasi… |
-| 2026-11-05 04:52:30 | [zengpu-cpu](https://crates.io/crates/zengpu-cpu) | 0.1.0 | 0 | ZenGPU CPU reference backend: the conformance oracle, not a product fallback. |
-| 2026-11-05 04:55:06 | [kura](https://crates.io/crates/kura) | 0.1.0 | 0 | Kura Store: an experimental standalone object storage engine |
-| 2026-11-05 04:55:33 | [rg-core](https://crates.io/crates/rg-core) | 0.1.0 | 0 | The wallet API the bindings sit on: chain store, sync, transfers and POI |
-| 2026-11-05 04:57:25 | [pathr](https://crates.io/crates/pathr) | 0.1.0 | 0 | A lightning-fast, zero-dependency cross-platform PATH manager and cleaner |
-| 2026-11-05 04:57:33 | [feathrise_scene](https://crates.io/crates/feathrise_scene) | 0.1.0 | 0 | Data driven scene loading, author views and asset lifecycle |
-| 2026-11-05 05:00:27 | [pi_graph_derive](https://crates.io/crates/pi_graph_derive) | 0.5.0 | 0 | Derive macros for typed graph models |
-| 2026-11-05 05:01:24 | [kasi-jb](https://crates.io/crates/kasi-jb) | 0.1.5 | 0 | An enterprise-grade, compile-time optimized async microservice framework built… |
-| 2026-11-05 05:02:05 | [zengpu-cuda](https://crates.io/crates/zengpu-cuda) | 0.1.0 | 0 | ZenGPU CUDA Driver API compute backend (NVIDIA, compute HAL only). |
-| 2026-11-05 05:02:50 | [zstd-native](https://crates.io/crates/zstd-native) | 0.1.0+zstd.1.5.7 | 0 | Fastest pure Rust Zstandard (zstd) compression and decompression: byte-identica… |
-| 2026-11-05 05:03:51 | [pari-core](https://crates.io/crates/pari-core) | 0.1.1 | 0 | Core similarity primitives for the Pari engine |
-| 2026-11-05 05:03:52 | [pari-format](https://crates.io/crates/pari-format) | 0.1.1 | 0 | Safe codecs and versioned index format for the Pari engine |
-| 2026-11-05 05:03:53 | [pari-index](https://crates.io/crates/pari-index) | 0.1.1 | 0 | Batch-first similarity indexes for the Pari engine |
-| 2026-11-05 05:03:54 | [pari-store](https://crates.io/crates/pari-store) | 0.1.1 | 0 | Crash-safe local persistent similarity indexes for the Pari engine |
-| 2026-11-05 05:04:31 | [aerolog-cbor](https://crates.io/crates/aerolog-cbor) | 0.1.0 | 0 | Lightweight zero-dependency CBOR (RFC 8949) encoder and decoder for AeroLog |
-| 2026-11-05 05:05:03 | [aerolog-core](https://crates.io/crates/aerolog-core) | 0.1.0 | 0 | Pure Rust Bitcask-inspired storage engine for local-first systems and edge comp… |
-| 2026-11-05 05:06:10 | [aerolog-uniffi](https://crates.io/crates/aerolog-uniffi) | 0.1.0 | 0 | Universal FFI bindings bridge (Mozilla UniFFI) for AeroLog targeting Kotlin and… |
-| 2026-11-05 05:06:39 | [aerolog-cli](https://crates.io/crates/aerolog-cli) | 0.1.0 | 0 | Command-line utility and benchmark suite for AeroLog |
-| 2026-11-05 05:08:33 | [feathrise_fps_display](https://crates.io/crates/feathrise_fps_display) | 0.1.0 | 0 | Frame timing and rendering diagnostics for Bevy projects |
-| 2026-11-05 05:12:35 | [zengpu-hip](https://crates.io/crates/zengpu-hip) | 0.1.0 | 0 | ZenGPU AMD ROCm/HIP compute backend (compute HAL only). |
-| 2026-11-05 05:14:06 | [mixer](https://crates.io/crates/mixer) | 0.1.0 | 0 | Live audio-input mixer for the terminal |
-| 2026-11-05 05:17:55 | [groundmail](https://crates.io/crates/groundmail) | 0.1.0 | 0 | Official Rust client for the Groundmail transactional email API |
-| 2026-11-05 05:19:39 | [feathrise_raytracing](https://crates.io/crates/feathrise_raytracing) | 0.1.0 | 0 | Optional Solari ray tracing lifecycle and rendering integration |
+| 2026-11-05 05:20:59 | [tablet-input-windows](https://crates.io/crates/tablet-input-windows) | 1.0.0 | 0 | Framework-independent Windows pen input through WM_POINTER |
+| 2026-11-05 05:21:58 | [zengpu-metal](https://crates.io/crates/zengpu-metal) | 0.1.0 | 0 | ZenGPU Apple Metal backend (macOS/iOS): graphics + compute. |
+| 2026-11-05 05:22:32 | [narumi](https://crates.io/crates/narumi) | 0.0.0 | 0 | A Rust library by narumi. |
+| 2026-11-05 05:24:49 | [valo-pdf](https://crates.io/crates/valo-pdf) | 0.17.0 | 0 | Valo display lists as PDF pages: real text and shapes, with what PDF can't hold… |
+| 2026-11-05 05:32:32 | [logbook-shared-kernel](https://crates.io/crates/logbook-shared-kernel) | 0.1.0 | 0 | A pilot's logbook entry in ICAO's terms, and the interface through which a lice… |
+| 2026-11-05 05:32:34 | [zengpu-vulkan](https://crates.io/crates/zengpu-vulkan) | 0.1.0 | 0 | ZenGPU Vulkan backend: native GPU runtime on Vulkan 1.2+. |
+| 2026-11-05 05:34:10 | [peerwire-core](https://crates.io/crates/peerwire-core) | 0.1.0 | 0 | Sans-IO peer-to-peer session core for Peerwire: Noise IK links, reliable, urgen… |
+| 2026-11-05 05:34:15 | [peerwire-game](https://crates.io/crates/peerwire-game) | 0.1.0 | 0 | Deterministic fixed-point maths, Hilbert-curve islands and desync detection for… |
+| 2026-11-05 05:34:22 | [peerwire-sync](https://crates.io/crates/peerwire-sync) | 0.1.0 | 0 | Shared documents for Peerwire: maps, sets and logs that every member holds and… |
+| 2026-11-05 05:34:33 | [peerwire](https://crates.io/crates/peerwire) | 0.1.0 | 0 | Peer-to-peer nodes over UDP with no server: STUN, rooms, signaling and NAT trav… |
+| 2026-11-05 05:34:39 | [peerwire-ffi](https://crates.io/crates/peerwire-ffi) | 0.1.0 | 0 | C ABI for peerwire-core: one surface for a zero-import WebAssembly module (brow… |
+| 2026-11-05 05:42:08 | [zengpu](https://crates.io/crates/zengpu) | 0.1.0 | 0 | A native-first GPU runtime for Rust: graphics and general compute under one dev… |
+| 2026-11-05 05:42:18 | [autumn-datatable-plugin](https://crates.io/crates/autumn-datatable-plugin) | 0.1.0 | 0 | Data table v2 widget pack for autumn-web: selection, filters, column visibility… |
+| 2026-11-05 05:44:35 | [peerwire-sim](https://crates.io/crates/peerwire-sim) | 0.1.0 | 0 | Deterministic network simulator for Peerwire: real endpoints over simulated lat… |
+| 2026-11-05 05:46:24 | [ntcip-asc](https://crates.io/crates/ntcip-asc) | 0.0.1 | 0 | Name reserved for the NTCIP actuated signal controller object model. No functio… |
+| 2026-11-05 05:46:27 | [ntcip-asc-codec](https://crates.io/crates/ntcip-asc-codec) | 0.0.1 | 0 | Name reserved for the NTCIP actuated signal controller BER codec. No functional… |
+| 2026-11-05 05:46:30 | [ntcip-asc-snmp](https://crates.io/crates/ntcip-asc-snmp) | 0.0.1 | 0 | Name reserved for the NTCIP actuated signal controller SNMP v1 transport. No fu… |
+| 2026-11-05 05:46:33 | [ntcip-asc-conformance](https://crates.io/crates/ntcip-asc-conformance) | 0.0.1 | 0 | Name reserved for the NTCIP actuated signal controller claim checker. No functi… |
+| 2026-11-05 05:54:29 | [peerwire-peer](https://crates.io/crates/peerwire-peer) | 0.1.0 | 0 | An optional always-on Peerwire peer: keeps one identity across restarts and rel… |
+| 2026-11-05 05:57:12 | [feathrise_ui_widgets](https://crates.io/crates/feathrise_ui_widgets) | 0.1.0 | 0 | Theme independent Bevy author controls and input state machines |
+| 2026-11-05 05:59:22 | [feathrise_runtime](https://crates.io/crates/feathrise_runtime) | 0.1.0 | 0 | Shared Bevy runtime and project entry for Feathrise |
+| 2026-11-05 06:04:34 | [peerwire-esp](https://crates.io/crates/peerwire-esp) | 0.1.0 | 0 | Peerwire on the ESP32-C3 and ESP32 under ESP-IDF: Wi-Fi, a clock set by SNTP be… |
+| 2026-11-05 06:07:40 | [soblendwa](https://crates.io/crates/soblendwa) | 0.1.0 | 0 | SoblendWA: a blazing fast WhatsApp Web multi-device client library written in R… |
 
 ## Data source
 
