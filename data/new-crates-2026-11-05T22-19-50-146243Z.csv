@@ -1,0 +1,57 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-05T21:21:10.943838Z,jeff-sdk,1.4.0,0,0,https://github.com/firelex/jeff,"The Jeff SDK for Rust: call Jeff's decision functions, route, escalate and run decision graphs, against an engine on this machine or a Jeff server."
+2026-11-05T21:22:35.152231Z,dspk-hub,0.0.5,0,0,https://github.com/neuro-kitchen/dsp-kitchen,"Verified download and local cache of published artifacts (hf://, gh://, zenodo://, https://, file://), with data catalogs per domain"
+2026-11-05T21:27:13.194071Z,dspk-synapse,0.0.5,0,0,https://github.com/neuro-kitchen/dsp-kitchen,"Electrophysiology for dspk: recording and sorting formats, probes, spike detection, waveforms, features, clustering, localization, quality metrics, and the shared parts of the sorters"
+2026-11-05T21:27:22.376683Z,protolink-lua-node,0.0.1,0,0,,"One execution node for lua.execution.v1: lifecycle, uploads, artifact store, native operations and child links, for no_std targets."
+2026-11-05T21:27:27.447708Z,dspk-synapse-ml,0.0.5,0,0,https://github.com/neuro-kitchen/dsp-kitchen,"Pretrained neuro models (DARTsort, SpikeNet2, UnitRefine) and their runtime for dspk, each with its provenance"
+2026-11-05T21:27:31.554274Z,dspk-sorter-kilosort,0.0.5,0,0,https://github.com/neuro-kitchen/dsp-kitchen,"The Kilosort family of spike sorters for dspk on GPU kernels (CubeCL): Kilosort4 and its fork EMUsort, GPL-3.0 like their upstreams"
+2026-11-05T21:27:35.081808Z,dspk-sorter-ms5,0.0.5,0,0,https://github.com/neuro-kitchen/dsp-kitchen,"MountainSort 5 spike sorter for dspk, ported from flatironinstitute/mountainsort5 (with isosplit6) to GPU kernels (CubeCL)"
+2026-11-05T21:28:17.814596Z,rushdb-server,3.0.3,0,0,https://github.com/rush-db/rushdb,"RushDB, the database for AI: the `rushdb` server and CLI"
+2026-11-05T21:29:21.656538Z,onde-candle-metal-kernels,0.11.1,0,0,https://github.com/setoelkahfi/candle,"Onde Inference build of candle-metal-kernels, with a fix for strided reduces over more than four dimensions."
+2026-11-05T21:29:28.735091Z,xml-arrow,0.1.0,0,0,https://github.com/dentiny/xml-arrow-rs,XML record conversion to Apache Arrow batches
+2026-11-05T21:29:36.903966Z,xml-io,0.1.0,0,0,https://github.com/dentiny/xml-arrow-rs,Reopenable storage inputs for XML readers
+2026-11-05T21:31:53.277912Z,dspk-sorter-si,0.0.5,0,0,https://github.com/neuro-kitchen/dsp-kitchen,"SpikeInterface's internal spike sorters for dspk, SpyKING CIRCUS 2 and Tridesclous 2, ported to GPU kernels (CubeCL)"
+2026-11-05T21:32:10.354588Z,axa-pagination,0.1.0,0,0,https://github.com/publicprojects-io/axa/,"Offset pagination, count headers, and LIKE escaping for Axum services."
+2026-11-05T21:32:10.963984Z,axa-problem,0.1.0,0,0,https://github.com/publicprojects-io/axa/,RFC 9457 problem details responses for Axum services.
+2026-11-05T21:32:11.442666Z,axa-prometheus,0.1.0,0,0,https://github.com/publicprojects-io/axa/,Prometheus text exposition for Axum services.
+2026-11-05T21:32:12.146615Z,axa-sqlx,0.1.0,0,0,https://github.com/publicprojects-io/axa/,"PostgreSQL pooling, migrations, and test resets over sqlx for Axum services."
+2026-11-05T21:32:12.613116Z,axa-versioning,0.1.0,0,0,https://github.com/publicprojects-io/axa/,Header-based API version negotiation for Axum services.
+2026-11-05T21:35:26.520993Z,axa,0.1.0,0,0,https://github.com/publicprojects-io/axa/,Small shared library for services built directly on Axum and sqlx.
+2026-11-05T21:37:10.722157Z,corundum-framework-pdf,0.10.0,0,0,https://github.com/sapphire-turtle/corundum-framework,"Count a PDF's pages and render one to RGBA8 without a GUI, in pure Rust (hayro): size limits, encrypted and broken files told apart, a hook for a CJK fallback font"
+2026-11-05T21:39:12.8491Z,dial9-sampling,0.5.7,0,0,https://github.com/dial9-rs/dial9,Sticky startup profiling admission through pluggable object storage
+2026-11-05T21:40:28.348272Z,mpb,0.1.11,0,0,https://github.com/quant1x/mpb,Thin alias of indicatif so the quant1x/mpb language ports share one crate name
+2026-11-05T21:45:14.611023Z,layeredcfg,0.1.0,0,0,https://github.com/lutianyu2001/layeredcfg,"Layered configuration: defaults from a TOML file, overridden by env-style files, the environment and the command line, each value converted to its default's type as Python converts text"
+2026-11-05T21:47:12.116686Z,axa-paseto,0.1.0,0,0,https://github.com/publicprojects-io/axa/,PASETO bearer authentication and ABAC enforcement for Axum services.
+2026-11-05T21:48:31.731135Z,compute-multiversion-macros,0.9.2,0,0,https://github.com/artob/compute-multiversion,A patched fork of multiversion-macros
+2026-11-05T21:48:33.49945Z,compute-multiversion,0.9.2,0,0,https://github.com/artob/compute-multiversion,A patched fork of multiversion
+2026-11-05T21:50:46.213561Z,cia-rs,0.1.0,0,0,https://github.com/alucryd/oxyromon,"CIA (CTR Importable Archive) reading and unpacking, interchangeable with ctrtool"
+2026-11-05T21:50:49.606052Z,wux-rs,0.1.0,0,0,https://github.com/alucryd/oxyromon,"Wii U disc images: WUD to WUX compression and back, and WUD/WUX to Cemu's WUA archives"
+2026-11-05T21:50:52.45045Z,xdelta-rs,0.1.0,0,0,https://github.com/alucryd/oxyromon,"xdelta3 (VCDIFF) patch decoding, LZMA secondary compression included"
+2026-11-05T21:50:55.105489Z,xps-rs,0.1.0,0,0,https://github.com/alucryd/oxyromon,"IPS and BPS patch application, as Flips applies them"
+2026-11-05T21:56:17.549058Z,manby-wagyu,0.5.0,0,0,https://github.com/birkskyum/manby,"manby's copy of tippecanoe-rs's port of mapbox/wagyu, made faster with the same results"
+2026-11-05T21:56:18.002386Z,tippecanoe-rs-clipper2,1.4.0,0,0,https://github.com/birkskyum/manby,A Rust port of the parts of Clipper2 that tippecanoe uses
+2026-11-05T21:56:18.834859Z,tippecanoe-rs-wagyu,0.5.0,0,0,https://github.com/birkskyum/manby,"A Rust port of mapbox/wagyu, the polygon clipping and cleaning library vendored by tippecanoe"
+2026-11-05T21:56:21.590349Z,tippecanoe-rs,2.82.0,0,0,https://github.com/birkskyum/manby,"A faithful Rust port of tippecanoe, which builds vector tilesets from GeoJSON, FlatGeobuf, or CSV features"
+2026-11-05T21:56:24.644577Z,manby,0.1.0,0,0,https://github.com/birkskyum/manby,"Builds vector tilesets from geographic features, like tippecanoe, several times faster"
+2026-11-05T21:57:11.089552Z,ese-unicode,17.0.0,0,0,https://github.com/flowercomputers/encoders,"Character classes and BERT-style normalization (NFD minus nonspacing marks, lowercasing) from compact precomputed tables (about 64 KB)"
+2026-11-05T21:57:12.86468Z,ese,0.1.0,0,0,https://github.com/flowercomputers/encoders,Extremely Static Embeddings: runtime for compiled-in static embedding models
+2026-11-05T21:57:13.810493Z,ese-build,0.1.0,0,0,https://github.com/flowercomputers/encoders,build.rs support for ese: fetch a sentence-transformers or model2vec static embedding model and generate its compiled-in tables
+2026-11-05T21:57:15.814317Z,encoders,1.0.0,0,0,https://github.com/flowercomputers/encoders,Static embedding models (sentence-transformers static-mrl and model2vec potion families) compiled into the binary with ese
+2026-11-05T21:58:41.127441Z,nornir-mimir-reach,0.1.0,0,0,https://www.gunnar.rs/nordisk/nornir,"Reach over a Rust fn graph: the graph-package.znippy reader and writer (package graph joined with the Mimir source graph, schemas 2-4), ReachGraph, ReachQuery and reach() with the nearest target and…"
+2026-11-05T21:59:39.709624Z,keen-lang,0.2.1,0,0,https://github.com/romishalom/keen,"keen: a lightweight Rust-syntax to C transpiler (syntax only, no safety enforcement)"
+2026-11-05T21:59:50.399857Z,axiom-poly,0.1.0,0,0,https://github.com/axiomwtf/poly,"""Polyglot build system and package manager for Rust, C/C++, and Go"""
+2026-11-05T22:00:29.30805Z,sew-proto,0.7.4,0,0,https://github.com/Alakazam-211/sew-crates,"Sew wire contracts: ids, addresses, errors, HTTP and gateway bodies, permissions, policies, audit."
+2026-11-05T22:00:33.355325Z,sew-lkproto,0.7.4,0,0,https://github.com/Alakazam-211/sew-crates,"LiveKit protocol 17 types (generated from livekit/protocol a4f4b5c0c23f without protoc) and Sew's protocol-version gates, rewritten from a written behaviour specification."
+2026-11-05T22:01:00.61152Z,axiom-poly-registry,0.1.0,0,0,https://github.com/axiomwtf/poly,"""Polyglot build system and package manager for Rust, C/C++, and Go"""
+2026-11-05T22:01:01.349677Z,axiom-poly-config,0.1.0,0,0,https://github.com/axiomwtf/poly,"""Polyglot build system and package manager for Rust, C/C++, and Go"""
+2026-11-05T22:01:01.831723Z,axiom-poly-resolver,0.1.0,0,0,https://github.com/axiomwtf/poly,"""Polyglot build system and package manager for Rust, C/C++, and Go"""
+2026-11-05T22:01:07.424667Z,sew-lk-compat,0.7.4,0,0,https://github.com/Alakazam-211/sew-crates,"The LiveKit-protocol pieces of Sew's native voice engine: the /rtc/v1 join request and the signalling session of a single-PC voice client (rewritten from a written behaviour specification), and LiveK…"
+2026-11-05T22:01:14.328007Z,dragology,0.1.0-beta.2,0,0,https://github.com/Andrewp2/rust-dragology,"Renderer-independent, model-driven dragging"
+2026-11-05T22:01:16.453691Z,dragology-scene,0.1.0-beta.2,0,0,https://github.com/Andrewp2/rust-dragology,"Shared scene, hit testing, and animation for Dragology renderer adapters"
+2026-11-05T22:01:18.211401Z,dragology-egui,0.1.0-beta.2,0,0,https://github.com/Andrewp2/rust-dragology,egui adapter for Dragology model-driven dragging
+2026-11-05T22:01:18.917525Z,dragology-gpui,0.1.0-beta.2,0,0,https://github.com/Andrewp2/rust-dragology,GPUI adapter for Dragology model-driven dragging
+2026-11-05T22:01:19.443175Z,dragology-wgpu,0.1.0-beta.2,0,0,https://github.com/Andrewp2/rust-dragology,wgpu renderer for Dragology model-driven dragging
+2026-11-05T22:05:21.050505Z,axiom-poly-rust,0.1.0,0,0,https://github.com/axiomwtf/poly,"""Polyglot build system and package manager for Rust, C/C++, and Go"""
+2026-11-05T22:11:52.728606Z,gpui_ce_kit,0.3.0,0,0,https://github.com/gpui-ce/gpui-component,"GPUI Kit: one dependency for building desktop applications with GPUI, GPUI Base, GPUI Component and default assets."
+2026-11-05T22:15:53.648066Z,axiom-poly-c,0.1.0,0,0,https://github.com/axiomwtf/poly,"""Polyglot build system and package manager for Rust, C/C++, and Go"""
+2026-11-05T22:16:27.315217Z,cc-top,1.0.0,0,0,https://github.com/alejandroqh/cc-top,"A terminal dashboard in the style of top for AI coding agents. It shows live context, token usage, rate limits and file activity."
