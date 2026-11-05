@@ -1,0 +1,47 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-05T08:21:12.796897Z,iet-jobs,0.3.0,0,0,https://github.com/MasLazu/iet-fw,Runtime-neutral durable background-job contracts.
+2026-11-05T08:24:52.632984Z,p2mere-spaces,0.8.0,0,0,https://github.com/merely-made/p2mere,Data encryption for multi-device groups (merely-made fork of p2panda)
+2026-11-05T08:32:51.29689Z,podssh,0.0.0,0,0,https://github.com/PodUtils/podssh,"SSH from machines whose only way out is HTTPS, through a WebSocket relay. Placeholder: the first release is in progress."
+2026-11-05T08:32:53.666484Z,podnet,0.0.0,0,0,https://github.com/PodUtils/podnet,"Network tunnels, WARP and per-process proxying in one static binary, for hosts with strong network limits. Placeholder: the first release is in progress."
+2026-11-05T08:32:57.501972Z,podvm,0.0.0,0,0,https://github.com/PodUtils/podvm,"Linux container runtime for rootful-but-restricted sandboxes, CI executors, and HPC nodes. Placeholder: the first release is in progress."
+2026-11-05T08:33:02.205206Z,podshell,0.0.0,0,0,https://github.com/PodUtils/podshell,A resilient remote terminal: a mosh alternative for restricted networks. Placeholder: the first release is in progress.
+2026-11-05T08:33:07.344125Z,podmesh,0.0.0,0,0,https://github.com/PodUtils/podmesh,Mesh networking between hosts behind NAT and strict firewalls. Placeholder: the first release is in progress.
+2026-11-05T08:33:55.758542Z,cameleer-core,0.2.0,0,0,https://github.com/pmsudhi/cameleer,"Core of Cameleer: exchanges, routes, EIPs, DSL, languages, core components"
+2026-11-05T08:34:11.640557Z,cameleer-tls,0.2.0,0,0,https://github.com/pmsudhi/cameleer,Cameleer std-only TLS 1.3 / TLS 1.2 client and server with from-scratch cryptography
+2026-11-05T08:34:18.48689Z,cameleer-yaml,0.2.0,0,0,https://github.com/pmsudhi/cameleer,YAML 1.2 parser/emitter and the Camel YAML (and XML) route DSL loader for Cameleer
+2026-11-05T08:34:28.510433Z,cameleer-amqp,0.2.0,0,0,https://github.com/pmsudhi/cameleer,"Cameleer messaging components (std only): AMQP 0-9-1 (rabbitmq, spring-rabbitmq), STOMP 1.2 (stomp) and JMS-style jms/activemq/amqp over STOMP"
+2026-11-05T08:34:41.091421Z,cameleer-dataformats,0.2.0,0,0,https://github.com/pmsudhi/cameleer,"Cameleer data formats: Avro, Bindy, YAML, Tar, Zip, Crypto, PGP, CBOR, Thrift, ASN.1, iCal, MIME multipart, Fory (xlang), Barcode (QR, Data Matrix, Code 128/39, EAN-13, UPC-A)"
+2026-11-05T08:35:51.147086Z,p2mere-stream,0.8.0,0,0,https://github.com/merely-made/p2mere,Event stream processing for p2p data-types (merely-made fork of p2panda)
+2026-11-05T08:35:59.536016Z,p2mere-sync,0.8.0,0,0,https://github.com/merely-made/p2mere,Local-first sync for append-only logs and traits to build your own (merely-made fork of p2panda)
+2026-11-05T08:41:36.364837Z,iet-dashboard-runtime,0.3.0,0,0,https://github.com/MasLazu/iet-fw,Guarded batch dashboard orchestration over pluggable IET providers.
+2026-11-05T08:43:14.642804Z,podinfo,0.0.0,0,0,https://github.com/PodUtils/podinfo,"System fetch, info and probe tool: what this host can and cannot do. Placeholder: the first release is in progress."
+2026-11-05T08:44:51.423113Z,submilli-blueprint,0.6.1,0,0,https://github.com/submilli/submilli-runtime,"Blueprint documents, validation and policy configuration for Submilli"
+2026-11-05T08:44:52.49441Z,cameleer-grpc,0.2.0,0,0,https://github.com/pmsudhi/cameleer,"Cameleer HTTP/2 (RFC 9113 + HPACK), Protocol Buffers (.proto parser, dynamic codec, protobuf data format) and the gRPC component"
+2026-11-05T08:44:53.90429Z,submilli-shared,0.6.1,0,0,https://github.com/submilli/submilli-runtime,"Shared embedding, MCP, authentication and tooling support for the Submilli runtime"
+2026-11-05T08:44:55.675109Z,submilli-durable,0.6.1,0,0,https://github.com/submilli/submilli-runtime,Durable execution history and recoverable filesystem operations for Submilli
+2026-11-05T08:46:51.920148Z,p2mere-net,0.8.0,0,0,https://github.com/merely-made/p2mere,"Data-type-agnostic p2p networking, discovery, gossip and local-first sync (merely-made fork of p2panda)"
+2026-11-05T08:47:50.706324Z,aurea-build,0.1.0,0,0,https://github.com/SkuldNorniern/aurea,Build script helper that hands an Aurea app's identity from Cargo.toml to its code
+2026-11-05T08:47:55.408815Z,aurea-animation,0.1.0,0,0,https://github.com/SkuldNorniern/aurea,Animation primitives for the Aurea GUI toolkit
+2026-11-05T08:52:02.511198Z,escouade-plugin-protocol,0.1.0,0,0,https://github.com/guillaume-gagnaire/escouade,"The JSON-RPC protocol of Escouade's plugins: its constants, its messages and the loop of a plugin, in process or as a WASM module"
+2026-11-05T08:52:10.643064Z,iet-dashboard-ui,0.3.0,0,0,https://github.com/MasLazu/iet-fw,"Reusable IET dashboard widget markup, independent of HTTP and application shells."
+2026-11-05T08:52:26.816017Z,escouade-plugin-kit,0.1.0,0,0,https://github.com/guillaume-gagnaire/escouade,"What Escouade's plugins in Rust share, in process or as a WASM module: the loop, the service of code hosts and Kanban sources, their typed errors and their rate limits"
+2026-11-05T08:52:43.624865Z,escouade-acp,0.1.0,0,0,https://github.com/guillaume-gagnaire/escouade,"Escouade's client of the Agent Client Protocol: what an ACP agent says, as items of the conversation, and what to write back to it"
+2026-11-05T08:53:24.882753Z,podcat,0.0.0,0,0,https://github.com/PodUtils/podcat,"Pipe bytes between sockets, tunnels and processes: a netcat and socat alternative. Placeholder: the first release is in progress."
+2026-11-05T08:55:07.475236Z,cameleer-kafka-mqtt,0.2.0,0,0,https://github.com/pmsudhi/cameleer,"Cameleer messaging components (std only): kafka (wire protocol client) and paho / paho-mqtt5 (MQTT 3.1.1 / 5.0), with embedded test brokers"
+2026-11-05T08:58:21.124557Z,p2mere,0.8.0,0,0,https://github.com/merely-made/p2mere,Out-of-the-box p2panda API for application developers (merely-made fork of p2panda)
+2026-11-05T08:59:40.966117Z,clinker-core,0.1.0,0,0,https://github.com/gamcil/clinker,Shared analysis core for clinker
+2026-11-05T09:00:40.894422Z,clinker-cli,0.1.0,0,0,https://github.com/gamcil/clinker,Native command-line interface for clinker
+2026-11-05T09:01:24.4027Z,niri-tracker,0.1.1,0,0,https://github.com/Qiumix/niri-tracker,Screen time tracking for the niri Wayland compositor
+2026-11-05T09:02:21.483167Z,emberwave-core,0.18.1,0,0,https://github.com/with-developer/emberwave,"PyroWave bitstream parser, and wgpu/WGSL decoder and encoder"
+2026-11-05T09:02:42.717547Z,emberwave-cli,0.18.1,0,0,https://github.com/with-developer/emberwave,Command line decoder for PyroWave streams
+2026-11-05T09:03:15.311928Z,pgwal,0.2.0,0,0,https://github.com/max-lt/pgwal-rs,"Postgres WAL archive format and restore steps, in plain std."
+2026-11-05T09:03:17.898261Z,pgwal-receiver,0.2.0,0,0,https://github.com/max-lt/pgwal-rs,Streams the WAL of a Postgres server over physical replication and uploads it by LSN range.
+2026-11-05T09:03:20.519297Z,pgwal-cli,0.2.0,0,0,https://github.com/max-lt/pgwal-rs,The pgwal command: archives the WAL of a Postgres server.
+2026-11-05T09:03:36.048182Z,podfs,0.0.0,0,0,https://github.com/PodUtils/podfs,File system tools for restricted hosts and sandboxes. Placeholder: the first release is in progress.
+2026-11-05T09:05:20.909805Z,cameleer-protocols,0.2.0,0,0,https://github.com/pmsudhi/cameleer,"Cameleer network protocol components (std only): ftp, smtp/pop3/imap, websocket, mllp/hl7, syslog"
+2026-11-05T09:07:00.380213Z,tamil-calendar,0.1.0-alpha.6,0,0,https://github.com/abishtakan/tamil-toolkit,"Tamil calendar systems, Thirukanitham, Vakiya, panchangam, and observances"
+2026-11-05T09:09:17.069145Z,qubit-redis,2.0.0-rc.1,0,0,https://github.com/qubit-ltd/redis-rs,Qubit-maintained Redis driver fork with bounded RESP response parsing.
+2026-11-05T09:11:17.520235Z,aisnomon,0.1.0,0,0,https://github.com/tanyorg/aisnomon,"Real-time AIS and NMEA 0183 reception monitor: message rate, channel A/B balance, fragment reassembly, checksum and decode errors, per-MMSI statistics (serial, TCP, UDP)"
+2026-11-05T09:11:24.064444Z,qrcode-barcode-scanner,0.11.0,0,0,https://github.com/qrcode-ai-com/qrcode-barcode-scanner,"QR code decoding and scannability scoring for artistic, AI-generated, and photo-captured QR codes"
+2026-11-05T09:13:47.24405Z,podcrates,0.0.0,0,0,https://github.com/PodUtils/podcrates,Shared library crates for the PodUtils tools. Placeholder: the first release is in progress.
+2026-11-05T09:15:42.508224Z,cameleer-script,0.2.0,0,0,https://github.com/pmsudhi/cameleer,"Cameleer scripting languages: JavaScript, Groovy, Python, OGNL, MVEL, SpEL, DataSonnet (tree-walking interpreters)"
