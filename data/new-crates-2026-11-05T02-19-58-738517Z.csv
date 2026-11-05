@@ -1,0 +1,47 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-05T01:20:06.114248Z,ruststream-runtime-tokio,0.8.0-rc.1,0,0,https://github.com/powersemmi/ruststream,"The tokio runner of the RustStream messaging framework: the app's lifecycle, spawning, worker pools, dedicated threads and the clock; services use it through `ruststream`."
+2026-11-05T01:20:19.197866Z,pir-sdk,0.0.1,0,0,https://github.com/earendil-works/pir,"Pi coding agent, reimagined in Rust"
+2026-11-05T01:21:26.238435Z,aktujo-base,0.1.0,0,0,https://github.com/aktujo/aktujo,"The base of the aktujo core: canonical JSON, hashes, identities of spaces"
+2026-11-05T01:21:28.484395Z,aktujo-blob,0.1.0,0,0,https://github.com/aktujo/aktujo,"Originals stored by their hash, in memory, in a folder or in S3 – part of the aktujo core"
+2026-11-05T01:21:28.877997Z,aktujo-log,0.1.0,0,0,https://github.com/aktujo/aktujo,"The event log of a space: events of any kind, hybrid logical clocks, chains per device – part of the aktujo core"
+2026-11-05T01:21:30.209522Z,aktujo-crypt,0.1.0,0,0,https://github.com/aktujo/aktujo,"End-to-end encryption of a space: members, keys, the member list, envelopes – part of the aktujo core"
+2026-11-05T01:21:32.461554Z,aktujo-relay,0.1.0,0,0,https://github.com/aktujo/aktujo,"The relay of the aktujo core: member lists and envelopes of spaces over HTTP, without reading them"
+2026-11-05T01:22:32.388873Z,ruststream-runtime-embassy,0.8.0-rc.1,0,0,https://github.com/powersemmi/ruststream,"The embedded runner of the RustStream messaging framework: a service's app on embassy's executor and clock, with or without a heap."
+2026-11-05T01:22:41.582065Z,ruststream-runtime-compio,0.8.0-rc.1,0,0,https://github.com/powersemmi/ruststream,"The compio runner of the RustStream messaging framework: one runtime per core, the clock, the shutdown and the core launcher; services use it through `ruststream`."
+2026-11-05T01:22:48.259121Z,rstypes,0.1.0-alpha.1,0,0,https://github.com/loadingalias/rsasync,Currently being migrated.
+2026-11-05T01:29:35.10123Z,sparkless-server-core,4.19.0,0,0,https://github.com/eddiethedean/robin-sparkless,"Engine-neutral product, capability, and execution contracts for Sparkless servers"
+2026-11-05T01:33:50.727485Z,aktujo-store,0.1.0,0,0,https://github.com/aktujo/aktujo,"Local storage of the aktujo core in SQLite: events, member records, settings"
+2026-11-05T01:39:34.699264Z,sparkless-server-runtime,4.19.0,0,0,https://github.com/eddiethedean/robin-sparkless,Engine-neutral request execution and admission runtime for Sparkless servers
+2026-11-05T01:42:00.360382Z,aktujo-sync,0.1.0,0,0,https://github.com/aktujo/aktujo,"Synchronisation of spaces between devices through a relay, end-to-end encrypted – part of the aktujo core"
+2026-11-05T01:47:28.056767Z,openfab-sdk,0.1.0,0,0,,API Bindings for Open Fabrication
+2026-11-05T01:48:47.617136Z,route_macro,0.1.1,0,0,https://github.com/feihua/axum-admin,A simple axum admin template
+2026-11-05T01:49:31.775323Z,dli-export,0.1.0,0,0,https://github.com/jeffreykentjr/deloreis,"De Lore Is one-way export profiles for context, games, JSON, CSV, and static wikis."
+2026-11-05T01:49:32.021714Z,dli-lorestore,0.1.0,0,0,https://github.com/jeffreykentjr/deloreis,Deloreis Lore interchange store: content-addressed fact objects.
+2026-11-05T01:49:32.91099Z,dli-serve,0.1.0,0,0,https://github.com/jeffreykentjr/deloreis,"Deloreis Lore Interchange wire contract: envelope, ops, per-op schemas."
+2026-11-05T01:49:34.728981Z,deloreis,0.1.0,0,0,https://github.com/jeffreykentjr/deloreis,Check continuity in fictional worlds.
+2026-11-05T01:49:34.939295Z,sparkless-server-http,4.19.0,0,0,https://github.com/eddiethedean/robin-sparkless,HTTP/1 transport for Sparkless server runtime services
+2026-11-05T01:49:57.242407Z,rezzy-json,0.6.0-rc.1,0,0,https://github.com/gamesguru/rezzy,"Small alloc-only JSON value, parser, and canonical writer for Rezzy."
+2026-11-05T01:49:57.560598Z,rezzy-log,0.6.0-rc.1,0,0,https://github.com/gamesguru/rezzy,Small stderr tracing subscriber shared by Rezzy crates.
+2026-11-05T01:49:58.422236Z,rezzy-recon,0.6.0-rc.1,0,0,https://github.com/gamesguru/rezzy,MSC4521 minisketch reconciliation with GF(2^64) and GF(2^256) arithmetic.
+2026-11-05T01:50:02.489945Z,rezzy-cli,0.6.0-rc.1,0,0,https://github.com/gamesguru/rezzy,CLI binary for the rezzy Matrix state resolution engine.
+2026-11-05T01:53:28.873635Z,liteinst,0.2.0,0,0,https://github.com/rrnewton/liteinst2,Online x86-64 instrumentation using instruction punning
+2026-11-05T01:54:01.622452Z,feathrise_author_tools,0.1.0,0,0,https://github.com/hwyrq/feathrise_runtime,Pure semantic contracts for bounded author tool previews
+2026-11-05T01:54:03.389704Z,feathrise_billboard_text,0.1.0,0,0,https://github.com/hwyrq/feathrise_runtime,Offscreen-baked world-space billboard text for Bevy.
+2026-11-05T01:54:05.106045Z,feathrise_fsr3,0.1.0,0,0,https://github.com/hwyrq/feathrise_runtime,Optional Vulkan FidelityFX FSR temporal upscaling integration
+2026-11-05T01:54:06.611804Z,feathrise_map_content,0.1.0,0,0,https://github.com/hwyrq/feathrise_runtime,"Project map manifests, scene data and portal asset contracts"
+2026-11-05T01:54:07.827159Z,feathrise_map_terrain,0.1.0,0,0,https://github.com/hwyrq/feathrise_runtime,"Terrain topology, height fields and authoring mesh algorithms"
+2026-11-05T01:55:57.065433Z,wombat-sessions,0.1.1,0,0,https://github.com/NomaDamas/wombat,"Search your coding-agent session history (Codex, Claude Code, OpenCode, pi, omp) with MinSync SPLADE + dense retrieval"
+2026-11-05T01:58:28.713573Z,arpex-core,0.0.1,0,0,https://github.com/arpex-dev/arpex,Core C-ABI & Runtime bindings for Arpex — The Embeddable Edge-to-Cloud ARPX Engine.
+2026-11-05T01:58:54.129151Z,arpex,0.0.1,0,0,https://github.com/arpex-dev/arpex,Arpex — The Embeddable Edge-to-Cloud Agentic Resource Planning & Execution (ARPX) Engine.
+2026-11-05T01:59:38.125147Z,feathrise_plugin_api,0.1.0,0,0,https://github.com/hwyrq/feathrise_runtime,"Versioned C ABI, messages and metadata tools for Feathrise native author plugins"
+2026-11-05T02:00:21.916308Z,sparkless-server-connect,4.19.0,0,0,https://github.com/eddiethedean/robin-sparkless,Spark Connect gRPC transport for Sparkless server runtimes
+2026-11-05T02:00:39.978412Z,neocogi-ui-build,0.1.0-alpha.2,0,0,https://github.com/NeoCogi/neocogi-ui,"Packaged NeoCogi UI, graphics and skin interface sources and build helpers"
+2026-11-05T02:01:33.770992Z,neocogi-gfx-support,0.1.0-alpha.2,0,0,https://github.com/NeoCogi/neocogi-ui,Non-plugin Rust support for portable NeoCogi GFX bundles
+2026-11-05T02:01:40.743145Z,neocogi-appearance,0.1.0-alpha.2,0,0,https://github.com/NeoCogi/neocogi-ui,Pure typed appearance compilation shared by NeoCogi GFX construction and Skin
+2026-11-05T02:01:47.879925Z,neocogi-ui,0.1.0-alpha.2,0,0,https://github.com/NeoCogi/neocogi-ui,Typed Rust client API for NeoCogi UI components
+2026-11-05T02:01:51.194443Z,neocogi-gfx-impl,0.1.0-alpha.2,0,0,https://github.com/NeoCogi/neocogi-ui,"Image, atlas, and bundle implementation for the NeoCogi GFX plugin"
+2026-11-05T02:09:30.627732Z,feathrise_scene_core,0.1.0,0,0,https://github.com/hwyrq/feathrise_runtime,"Shared scene lifecycle, view, input and residency contracts"
+2026-11-05T02:09:40.391654Z,sparkless-server-polars,4.19.0,0,0,https://github.com/eddiethedean/robin-sparkless,Shared Sparkless server runtime with the Polars execution adapter
+2026-11-05T02:12:25.998567Z,neocogi-gfx,0.1.0-alpha.2,0,0,https://github.com/NeoCogi/neocogi-ui,NeoCogi CPU image decoding and portable resource-baking plugin
+2026-11-05T02:19:37.757508Z,sparkless-server-duckdb,4.19.0,0,0,https://github.com/eddiethedean/robin-sparkless,Sparkless Connect and HTTP server with optional DuckDB table sources
+2026-11-05T02:19:40.214184Z,feathrise,0.1.0,0,0,https://github.com/feathrise/feathrise,A minimal command-line entry for the Feathrise project

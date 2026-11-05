@@ -8,63 +8,60 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-05 01:19 UTC
+## Latest list — 2026-11-05 02:19 UTC
 
-New crates published between 2026-11-05 00:18 UTC and 2026-11-05 01:19 UTC.
+New crates published between 2026-11-05 01:19 UTC and 2026-11-05 02:19 UTC.
 
-[Full CSV](data/new-crates-2026-11-05T01-19-56-284064Z.csv)
+[Full CSV](data/new-crates-2026-11-05T02-19-58-738517Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-05 00:22:33 | [grafta](https://crates.io/crates/grafta) | 0.1.0 | 0 | Figma's file format for your agent: an MCP server that reads and writes .fig fi… |
-| 2026-11-05 00:25:22 | [disk-image-kit](https://crates.io/crates/disk-image-kit) | 0.1.0 | 0 | Rust bindings for Apple's DiskImageKit framework. |
-| 2026-11-05 00:25:37 | [accessory-access-sys](https://crates.io/crates/accessory-access-sys) | 0.1.0 | 0 | FFI to Apple's AccessoryAccess framework, through swift-bridge. Use the `access… |
-| 2026-11-05 00:26:01 | [io-usb-host](https://crates.io/crates/io-usb-host) | 0.1.0 | 0 | Rust bindings for Apple's IOUSBHost framework. |
-| 2026-11-05 00:26:14 | [accessory-access](https://crates.io/crates/accessory-access) | 0.1.0 | 0 | Rust bindings for Apple's AccessoryAccess framework. |
-| 2026-11-05 00:26:30 | [vmnet-framework](https://crates.io/crates/vmnet-framework) | 0.1.0 | 0 | Rust bindings for Apple's vmnet framework. |
-| 2026-11-05 00:28:21 | [xeibe-wfs](https://crates.io/crates/xeibe-wfs) | 0.1.0 | 0 | OGC WFS 1.0/1.1/2.0 bulk-read client for xeibe: capabilities, paging, pages str… |
-| 2026-11-05 00:36:43 | [realism-gate](https://crates.io/crates/realism-gate) | 0.2.0 | 0 | Static checker for Foundry PoC tests: does the proof of concept show what an un… |
-| 2026-11-05 00:38:48 | [liteinst-x86](https://crates.io/crates/liteinst-x86) | 0.2.0 | 0 | Shared descriptive x86 decode and selected-operand facts |
-| 2026-11-05 00:38:56 | [liteinst-artifact](https://crates.io/crates/liteinst-artifact) | 0.2.0 | 0 | Bounded content metadata and sparse overlays for liteinst2 |
-| 2026-11-05 00:39:25 | [xeibe-cli](https://crates.io/crates/xeibe-cli) | 0.1.0 | 0 | The xeibe command: list the layers and inferred schemas of GML files and WFS se… |
-| 2026-11-05 00:39:34 | [liteinst-admission](https://crates.io/crates/liteinst-admission) | 0.2.0 | 0 | Conservative x86-64 admission facts and publication model for LiteInst |
-| 2026-11-05 00:39:37 | [liteinst-inprocess](https://crates.io/crates/liteinst-inprocess) | 0.2.0 | 0 | Caller-owned in-process NX first-touch gate |
-| 2026-11-05 00:41:02 | [liteinst-launch](https://crates.io/crates/liteinst-launch) | 0.2.0 | 0 | Stopped first-instruction launch checkpoints for standalone LiteInst |
-| 2026-11-05 00:46:02 | [oime-mmap](https://crates.io/crates/oime-mmap) | 0.0.1 | 0 | A minimal, zero-dependency Rust library for read-only memory-mapped file I/O on… |
-| 2026-11-05 00:46:30 | [rotex-math](https://crates.io/crates/rotex-math) | 0.1.0 | 0 | Mathematical utilities for rotexengine development |
-| 2026-11-05 00:46:50 | [rotex-color](https://crates.io/crates/rotex-color) | 0.1.0 | 0 | Color space types and conversions for Rotex |
-| 2026-11-05 00:47:47 | [rotex-graph](https://crates.io/crates/rotex-graph) | 0.2.0 | 0 | Render graph that emits destination-only Barrier commands |
-| 2026-11-05 00:47:57 | [rotex-conformance](https://crates.io/crates/rotex-conformance) | 0.2.0 | 0 | GpuBackend checks driven by reported capabilities |
-| 2026-11-05 00:48:10 | [rotex-emulation](https://crates.io/crates/rotex-emulation) | 0.2.0 | 0 | Backend-independent command rewrites for missing HAL features |
-| 2026-11-05 00:50:28 | [xeibe-datafusion](https://crates.io/crates/xeibe-datafusion) | 0.1.0 | 0 | DataFusion integration for xeibe: a table provider per GML layer and a read_gml… |
-| 2026-11-05 00:51:05 | [virtualization-sys](https://crates.io/crates/virtualization-sys) | 0.1.0 | 0 | FFI to Apple's Virtualization framework, through swift-bridge. Use the `virtual… |
-| 2026-11-05 00:51:16 | [virtualization](https://crates.io/crates/virtualization) | 0.1.0 | 0 | Rust bindings for Apple's Virtualization framework. |
-| 2026-11-05 00:52:14 | [rotex-gl](https://crates.io/crates/rotex-gl) | 0.2.0 | 0 | WebGL2 and GLES 3.0 backend for Rotex |
-| 2026-11-05 00:52:43 | [dli-ast](https://crates.io/crates/dli-ast) | 0.1.0 | 0 | Deloreis Lore Interchange abstract syntax tree (normative surface). |
-| 2026-11-05 00:52:44 | [dli-core](https://crates.io/crates/dli-core) | 0.1.0 | 0 | Deloreis Lore Interchange core lattice: positive-boolean support and grades. |
-| 2026-11-05 00:52:44 | [dli-syntax](https://crates.io/crates/dli-syntax) | 0.1.0 | 0 | Deloreis Lore Interchange concrete syntax: lexer, parser, formatter, probe. |
-| 2026-11-05 00:55:58 | [kbx-core](https://crates.io/crates/kbx-core) | 0.1.2 | 0 | Vault parsing, ontology and graph storage for kbx |
-| 2026-11-05 00:56:04 | [kbx-gen](https://crates.io/crates/kbx-gen) | 0.1.2 | 0 | Link candidate generators for kbx |
-| 2026-11-05 00:56:18 | [kbx-judge](https://crates.io/crates/kbx-judge) | 0.1.2 | 0 | LLM judge backends for kbx |
-| 2026-11-05 00:56:23 | [dli-ledger](https://crates.io/crates/dli-ledger) | 0.1.0 | 0 | Deloreis Lore Interchange resource ledger: practice deltas and conservation law… |
-| 2026-11-05 00:56:23 | [dli-time](https://crates.io/crates/dli-time) | 0.1.0 | 0 | Deloreis Lore Interchange time domain: chronologies, wheels, fluent timelines. |
-| 2026-11-05 00:56:24 | [dli-eval](https://crates.io/crates/dli-eval) | 0.1.0 | 0 | Deloreis Lore Interchange evaluator: lowering, stratification, fixpoint, query. |
-| 2026-11-05 00:56:38 | [kbx](https://crates.io/crates/kbx) | 0.1.2 | 0 | Turn a markdown vault into a typed knowledge graph |
-| 2026-11-05 00:59:24 | [rotex-d3d12](https://crates.io/crates/rotex-d3d12) | 0.2.0 | 0 | Direct3D 12 backend for Rotex |
-| 2026-11-05 01:04:15 | [agentsniff-signatures](https://crates.io/crates/agentsniff-signatures) | 2.5.0 | 0 | Signed detection datasets for AgentSniff: embedded, verified against a pinned E… |
-| 2026-11-05 01:04:31 | [agentsniff-gate](https://crates.io/crates/agentsniff-gate) | 2.5.0 | 0 | AgentSniff's inbound agent gate engine: known-agent catalog, behavior scoring,… |
-| 2026-11-05 01:08:25 | [dli-world](https://crates.io/crates/dli-world) | 0.1.0 | 0 | Deloreis Lore Interchange world model: packs, registers, drafts, attestations. |
-| 2026-11-05 01:10:57 | [laporan-derive](https://crates.io/crates/laporan-derive) | 0.1.0 | 0 | Derive macros for the laporan crate |
-| 2026-11-05 01:10:59 | [laporan](https://crates.io/crates/laporan) | 0.1.0 | 0 | Error handling library, split off from Xuehua's xh-reports |
-| 2026-11-05 01:14:30 | [rotex-ext-indirect](https://crates.io/crates/rotex-ext-indirect) | 0.2.0 | 0 | Indirect draw extension for Rotex backends |
-| 2026-11-05 01:15:31 | [robin-sparkless-plan](https://crates.io/crates/robin-sparkless-plan) | 4.19.0 | 0 | Portable typed plans and structural validation for Sparkless. |
-| 2026-11-05 01:15:33 | [robin-sparkless-sql](https://crates.io/crates/robin-sparkless-sql) | 4.19.0 | 0 | Shared Spark SQL parsing and portable semantic utilities. |
-| 2026-11-05 01:15:35 | [robin-sparkless-delta](https://crates.io/crates/robin-sparkless-delta) | 4.19.0 | 0 | Delta Lake path, snapshot, and storage-driver boundary. |
-| 2026-11-05 01:15:37 | [robin-sparkless-jdbc](https://crates.io/crates/robin-sparkless-jdbc) | 4.19.0 | 0 | Driver-neutral JDBC configuration and SQL identifier contracts. |
-| 2026-11-05 01:15:40 | [robin-sparkless-jdbc-polars](https://crates.io/crates/robin-sparkless-jdbc-polars) | 4.19.0 | 0 | Polars-backed JDBC database adapters for robin-sparkless. |
-| 2026-11-05 01:17:40 | [oximo-scip](https://crates.io/crates/oximo-scip) | 0.8.0 | 0 | SCIP LP/MILP/QP/QCP/SOCP/NLP/MINLP backend for oximo |
-| 2026-11-05 01:17:53 | [oximo-gdp](https://crates.io/crates/oximo-gdp) | 0.8.0 | 0 | Generalized Disjunctive Programming (GDP) modeling and reformulation for oximo |
-| 2026-11-05 01:19:49 | [robin-sparkless-duckdb](https://crates.io/crates/robin-sparkless-duckdb) | 4.19.0 | 0 | Optional DuckDB source catalog and bounded Arrow reader for Robin Sparkless |
+| 2026-11-05 01:20:06 | [ruststream-runtime-tokio](https://crates.io/crates/ruststream-runtime-tokio) | 0.8.0-rc.1 | 0 | The tokio runner of the RustStream messaging framework: the app's lifecycle, sp… |
+| 2026-11-05 01:20:19 | [pir-sdk](https://crates.io/crates/pir-sdk) | 0.0.1 | 0 | Pi coding agent, reimagined in Rust |
+| 2026-11-05 01:21:26 | [aktujo-base](https://crates.io/crates/aktujo-base) | 0.1.0 | 0 | The base of the aktujo core: canonical JSON, hashes, identities of spaces |
+| 2026-11-05 01:21:28 | [aktujo-blob](https://crates.io/crates/aktujo-blob) | 0.1.0 | 0 | Originals stored by their hash, in memory, in a folder or in S3 – part of the a… |
+| 2026-11-05 01:21:28 | [aktujo-log](https://crates.io/crates/aktujo-log) | 0.1.0 | 0 | The event log of a space: events of any kind, hybrid logical clocks, chains per… |
+| 2026-11-05 01:21:30 | [aktujo-crypt](https://crates.io/crates/aktujo-crypt) | 0.1.0 | 0 | End-to-end encryption of a space: members, keys, the member list, envelopes – p… |
+| 2026-11-05 01:21:32 | [aktujo-relay](https://crates.io/crates/aktujo-relay) | 0.1.0 | 0 | The relay of the aktujo core: member lists and envelopes of spaces over HTTP, w… |
+| 2026-11-05 01:22:32 | [ruststream-runtime-embassy](https://crates.io/crates/ruststream-runtime-embassy) | 0.8.0-rc.1 | 0 | The embedded runner of the RustStream messaging framework: a service's app on e… |
+| 2026-11-05 01:22:41 | [ruststream-runtime-compio](https://crates.io/crates/ruststream-runtime-compio) | 0.8.0-rc.1 | 0 | The compio runner of the RustStream messaging framework: one runtime per core,… |
+| 2026-11-05 01:22:48 | [rstypes](https://crates.io/crates/rstypes) | 0.1.0-alpha.1 | 0 | Currently being migrated. |
+| 2026-11-05 01:29:35 | [sparkless-server-core](https://crates.io/crates/sparkless-server-core) | 4.19.0 | 0 | Engine-neutral product, capability, and execution contracts for Sparkless serve… |
+| 2026-11-05 01:33:50 | [aktujo-store](https://crates.io/crates/aktujo-store) | 0.1.0 | 0 | Local storage of the aktujo core in SQLite: events, member records, settings |
+| 2026-11-05 01:39:34 | [sparkless-server-runtime](https://crates.io/crates/sparkless-server-runtime) | 4.19.0 | 0 | Engine-neutral request execution and admission runtime for Sparkless servers |
+| 2026-11-05 01:42:00 | [aktujo-sync](https://crates.io/crates/aktujo-sync) | 0.1.0 | 0 | Synchronisation of spaces between devices through a relay, end-to-end encrypted… |
+| 2026-11-05 01:47:28 | [openfab-sdk](https://crates.io/crates/openfab-sdk) | 0.1.0 | 0 | API Bindings for Open Fabrication |
+| 2026-11-05 01:48:47 | [route_macro](https://crates.io/crates/route_macro) | 0.1.1 | 0 | A simple axum admin template |
+| 2026-11-05 01:49:31 | [dli-export](https://crates.io/crates/dli-export) | 0.1.0 | 0 | De Lore Is one-way export profiles for context, games, JSON, CSV, and static wi… |
+| 2026-11-05 01:49:32 | [dli-lorestore](https://crates.io/crates/dli-lorestore) | 0.1.0 | 0 | Deloreis Lore interchange store: content-addressed fact objects. |
+| 2026-11-05 01:49:32 | [dli-serve](https://crates.io/crates/dli-serve) | 0.1.0 | 0 | Deloreis Lore Interchange wire contract: envelope, ops, per-op schemas. |
+| 2026-11-05 01:49:34 | [deloreis](https://crates.io/crates/deloreis) | 0.1.0 | 0 | Check continuity in fictional worlds. |
+| 2026-11-05 01:49:34 | [sparkless-server-http](https://crates.io/crates/sparkless-server-http) | 4.19.0 | 0 | HTTP/1 transport for Sparkless server runtime services |
+| 2026-11-05 01:49:57 | [rezzy-json](https://crates.io/crates/rezzy-json) | 0.6.0-rc.1 | 0 | Small alloc-only JSON value, parser, and canonical writer for Rezzy. |
+| 2026-11-05 01:49:57 | [rezzy-log](https://crates.io/crates/rezzy-log) | 0.6.0-rc.1 | 0 | Small stderr tracing subscriber shared by Rezzy crates. |
+| 2026-11-05 01:49:58 | [rezzy-recon](https://crates.io/crates/rezzy-recon) | 0.6.0-rc.1 | 0 | MSC4521 minisketch reconciliation with GF(2^64) and GF(2^256) arithmetic. |
+| 2026-11-05 01:50:02 | [rezzy-cli](https://crates.io/crates/rezzy-cli) | 0.6.0-rc.1 | 0 | CLI binary for the rezzy Matrix state resolution engine. |
+| 2026-11-05 01:53:28 | [liteinst](https://crates.io/crates/liteinst) | 0.2.0 | 0 | Online x86-64 instrumentation using instruction punning |
+| 2026-11-05 01:54:01 | [feathrise_author_tools](https://crates.io/crates/feathrise_author_tools) | 0.1.0 | 0 | Pure semantic contracts for bounded author tool previews |
+| 2026-11-05 01:54:03 | [feathrise_billboard_text](https://crates.io/crates/feathrise_billboard_text) | 0.1.0 | 0 | Offscreen-baked world-space billboard text for Bevy. |
+| 2026-11-05 01:54:05 | [feathrise_fsr3](https://crates.io/crates/feathrise_fsr3) | 0.1.0 | 0 | Optional Vulkan FidelityFX FSR temporal upscaling integration |
+| 2026-11-05 01:54:06 | [feathrise_map_content](https://crates.io/crates/feathrise_map_content) | 0.1.0 | 0 | Project map manifests, scene data and portal asset contracts |
+| 2026-11-05 01:54:07 | [feathrise_map_terrain](https://crates.io/crates/feathrise_map_terrain) | 0.1.0 | 0 | Terrain topology, height fields and authoring mesh algorithms |
+| 2026-11-05 01:55:57 | [wombat-sessions](https://crates.io/crates/wombat-sessions) | 0.1.1 | 0 | Search your coding-agent session history (Codex, Claude Code, OpenCode, pi, omp… |
+| 2026-11-05 01:58:28 | [arpex-core](https://crates.io/crates/arpex-core) | 0.0.1 | 0 | Core C-ABI & Runtime bindings for Arpex — The Embeddable Edge-to-Cloud ARPX Eng… |
+| 2026-11-05 01:58:54 | [arpex](https://crates.io/crates/arpex) | 0.0.1 | 0 | Arpex — The Embeddable Edge-to-Cloud Agentic Resource Planning & Execution (ARP… |
+| 2026-11-05 01:59:38 | [feathrise_plugin_api](https://crates.io/crates/feathrise_plugin_api) | 0.1.0 | 0 | Versioned C ABI, messages and metadata tools for Feathrise native author plugins |
+| 2026-11-05 02:00:21 | [sparkless-server-connect](https://crates.io/crates/sparkless-server-connect) | 4.19.0 | 0 | Spark Connect gRPC transport for Sparkless server runtimes |
+| 2026-11-05 02:00:39 | [neocogi-ui-build](https://crates.io/crates/neocogi-ui-build) | 0.1.0-alpha.2 | 0 | Packaged NeoCogi UI, graphics and skin interface sources and build helpers |
+| 2026-11-05 02:01:33 | [neocogi-gfx-support](https://crates.io/crates/neocogi-gfx-support) | 0.1.0-alpha.2 | 0 | Non-plugin Rust support for portable NeoCogi GFX bundles |
+| 2026-11-05 02:01:40 | [neocogi-appearance](https://crates.io/crates/neocogi-appearance) | 0.1.0-alpha.2 | 0 | Pure typed appearance compilation shared by NeoCogi GFX construction and Skin |
+| 2026-11-05 02:01:47 | [neocogi-ui](https://crates.io/crates/neocogi-ui) | 0.1.0-alpha.2 | 0 | Typed Rust client API for NeoCogi UI components |
+| 2026-11-05 02:01:51 | [neocogi-gfx-impl](https://crates.io/crates/neocogi-gfx-impl) | 0.1.0-alpha.2 | 0 | Image, atlas, and bundle implementation for the NeoCogi GFX plugin |
+| 2026-11-05 02:09:30 | [feathrise_scene_core](https://crates.io/crates/feathrise_scene_core) | 0.1.0 | 0 | Shared scene lifecycle, view, input and residency contracts |
+| 2026-11-05 02:09:40 | [sparkless-server-polars](https://crates.io/crates/sparkless-server-polars) | 4.19.0 | 0 | Shared Sparkless server runtime with the Polars execution adapter |
+| 2026-11-05 02:12:25 | [neocogi-gfx](https://crates.io/crates/neocogi-gfx) | 0.1.0-alpha.2 | 0 | NeoCogi CPU image decoding and portable resource-baking plugin |
+| 2026-11-05 02:19:37 | [sparkless-server-duckdb](https://crates.io/crates/sparkless-server-duckdb) | 4.19.0 | 0 | Sparkless Connect and HTTP server with optional DuckDB table sources |
+| 2026-11-05 02:19:40 | [feathrise](https://crates.io/crates/feathrise) | 0.1.0 | 0 | A minimal command-line entry for the Feathrise project |
 
 ## Data source
 
