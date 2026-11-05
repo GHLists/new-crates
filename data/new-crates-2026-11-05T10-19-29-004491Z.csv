@@ -1,0 +1,58 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-05T09:22:36.005091Z,iet-jobs-tokio,0.3.0,0,0,https://github.com/MasLazu/iet-fw,Tokio worker runner for durable IET background jobs.
+2026-11-05T09:23:07.831718Z,makinist-fonts,0.1.0,0,0,https://tangled.org/borag.tngl.sh/makinist,"The fonts every makinist player bundles, and their advance widths for measuring text."
+2026-11-05T09:23:11.099071Z,makinist-images,0.1.0,0,0,https://tangled.org/borag.tngl.sh/makinist,"Image files for makinist scenes: a file checked against its hash, its format and size read from its header."
+2026-11-05T09:23:17.003061Z,makinist-schema,0.1.0,0,0,https://tangled.org/borag.tngl.sh/makinist,"The makinist scene format: types, versions, validation and JSON codecs."
+2026-11-05T09:23:23.260845Z,makinist-eval,0.1.0,0,0,https://tangled.org/borag.tngl.sh/makinist,"Deterministic evaluation of a makinist scene: state from the event log to a draw list, and frame hashes."
+2026-11-05T09:23:30.476726Z,makinist-render,0.1.0,0,0,https://tangled.org/borag.tngl.sh/makinist,Renders a makinist draw list on the GPU with wgpu and vello.
+2026-11-05T09:24:00.367428Z,podutils,0.0.0,0,0,https://github.com/PodUtils,"PodUtils: small, static Rust tools for hosts with strong network and sandbox limits. Placeholder: the first release is in progress."
+2026-11-05T09:25:56.280638Z,cameleer-sql,0.2.0,0,0,https://github.com/pmsudhi/cameleer,"Cameleer SQL support (std only): DataSource SPI, embedded rustsql engine, PostgreSQL wire client, sql/jdbc components, JDBC repositories"
+2026-11-05T09:32:28.221551Z,phoenixzenodo,0.1.0,0,0,https://gitlab.in2p3.fr/CTA-LAPP/PHOENIX_LIBS2/citoolkit/PhoenixZenodo,"Implements zenodo tasks, such as publishing a new project or retrieving DOI"
+2026-11-05T09:33:35.104038Z,makinist-gif,0.1.0,0,0,https://tangled.org/borag.tngl.sh/makinist,"A looping GIF from RGBA frames, for makinist's email images."
+2026-11-05T09:34:41.010335Z,pod-todo,0.0.0,0,0,https://github.com/PodUtils/podcrates,"A plan record in TODO/ files, and the tool that checks it in CI. Placeholder: the first release is in progress."
+2026-11-05T09:34:43.551584Z,qrcode-barcode-scanner-cli,0.11.0,0,0,https://github.com/qrcode-ai-com/qrcode-barcode-scanner,"CLI for QR code decoding and scannability scoring — artistic, AI-generated, and photo-captured QR codes"
+2026-11-05T09:35:06.567514Z,kibo-kms-rest-ffi,0.4.4,0,0,https://github.com/k9o-dev/kibo-kms-rest,FFI binding crate for kibo-kms-rest: uniffi/NAPI native + wasm-bindgen browser/RN; zk_encrypt / zk_decrypt
+2026-11-05T09:36:08.527889Z,cameleer-ssh,0.2.0,0,0,https://github.com/pmsudhi/cameleer,"Cameleer std-only SSH-2 client/server, SFTP v3 and the sftp / ssh components"
+2026-11-05T09:37:45.211323Z,gelf-tracing,0.2.1,0,0,https://github.com/cengizonkal/gelf-tracing,"tracing-subscriber layer that ships tracing events to Graylog as GELF 1.1 over UDP (no trailing NUL, non-blocking queue, error hook)"
+2026-11-05T09:41:49.783784Z,adoctra-core,0.0.1,0,0,https://github.com/avskor/adoctra,Core parser and document model for the adoctra AsciiDoc toolchain
+2026-11-05T09:41:51.453763Z,adoctra-highlight,0.0.1,0,0,https://github.com/avskor/adoctra,Server-side source highlighting for the adoctra AsciiDoc toolchain (a port of Rouge)
+2026-11-05T09:41:52.146011Z,adoctra-docx,0.0.1,0,0,https://github.com/avskor/adoctra,DOCX backend for the adoctra AsciiDoc toolchain
+2026-11-05T09:41:52.993135Z,adoctra-html,0.0.1,0,0,https://github.com/avskor/adoctra,HTML5 backend for the adoctra AsciiDoc toolchain
+2026-11-05T09:41:53.446849Z,adoctra-json,0.0.1,0,0,https://github.com/avskor/adoctra,JSON (Abstract Syntax Graph) backend for the adoctra AsciiDoc toolchain; useful as a TCK adapter
+2026-11-05T09:43:51.218768Z,makinist-export,0.1.0,0,0,https://tangled.org/borag.tngl.sh/makinist,"Headless makinist frames to MP4 or GIF through ffmpeg, and contact sheets."
+2026-11-05T09:44:15.567273Z,otp-actor,0.1.2,0,0,https://github.com/AlfredWeirich/otp-actor,OTP Actor framework for Tokio with supervision tree and resilient resource actor inspired by Erlang/OTP
+2026-11-05T09:44:46.456639Z,blackgold-stake-api,0.3.0,0,0,https://github.com/orionlumesystems/blackgold-stake-api,BLKG token staking program.
+2026-11-05T09:44:50.355838Z,pod-identity,0.0.0,0,0,https://github.com/PodUtils/podcrates,Host and user identities and keys for PodUtils tools. Placeholder: the first release is in progress.
+2026-11-05T09:46:25.193695Z,cameleer-xml,0.2.0,0,0,https://github.com/pmsudhi/cameleer,"Cameleer XML stack (std only): XML 1.0 parser + DOM, XPath 1.0, XQuery 1.0, XSLT 1.0 (xslt/xslt-saxon components), XML Schema validation (validator component), xj, xmlsecurity"
+2026-11-05T09:47:05.622555Z,kellnr-test-db,7.0.0,0,0,https://github.com/kellnr/kellnr,Kellnr is a self-hosted registry for Rust crates with support for rustdocs and crates.io caching.
+2026-11-05T09:49:04.135355Z,kellnr-http,7.0.0,0,0,https://github.com/kellnr/kellnr,Kellnr is a self-hosted registry for Rust crates with support for rustdocs and crates.io caching.
+2026-11-05T09:51:45.793259Z,instrukt-ai-logging,0.0.0,0,0,https://github.com/InstruktAI/logging,InstruktAI logging contract for Rust: a tracing layer writing single-line logfmt to the shared XDG log location.
+2026-11-05T09:51:58.442253Z,instrukt-ai-logs,0.7.2,0,0,https://github.com/InstruktAI/logging,"Read and merge InstruktAI service logs, and wire per-user log rotation."
+2026-11-05T09:52:13.570706Z,kellnr-docgen,7.0.0,0,0,https://github.com/kellnr/kellnr,Kellnr is a self-hosted registry for Rust crates with support for rustdocs and crates.io caching.
+2026-11-05T09:53:30.569517Z,blackgold-entropy-api,0.2.0,0,0,https://github.com/orionlumesystems/blackgold-entropy-api,API for interacting with the Entropy program
+2026-11-05T09:53:40.786999Z,kellnr-oauth2,7.0.0,0,0,https://github.com/kellnr/kellnr,Kellnr is a self-hosted registry for Rust crates with support for rustdocs and crates.io caching.
+2026-11-05T09:54:02.340052Z,makinist-player-native,0.1.0,0,0,https://tangled.org/borag.tngl.sh/makinist,"The desktop player for makinist scenes: a window, the clock and keyboard events."
+2026-11-05T09:54:06.207842Z,kellnr-toolchain,7.0.0,0,0,https://github.com/kellnr/kellnr,Kellnr is a self-hosted registry for Rust crates with support for rustdocs and crates.io caching.
+2026-11-05T09:55:00.037315Z,pod-term,0.0.0,0,0,https://github.com/PodUtils/podcrates,Terminal and PTY handling for PodUtils tools. Placeholder: the first release is in progress.
+2026-11-05T09:56:19.373022Z,iet-jobs-timescale,0.3.0,0,0,https://github.com/MasLazu/iet-fw,PostgreSQL/Timescale durable background-job store.
+2026-11-05T09:56:32.62713Z,adoctra-ext-diagram,0.0.1,0,0,https://github.com/avskor/adoctra,"Diagram extension (PlantUML, Graphviz, Mermaid, Kroki) for the adoctra AsciiDoc toolchain"
+2026-11-05T09:56:40.570001Z,bugis,0.0.1,0,0,https://github.com/theodoreOnzGit/outram-park-backend,"BUGIS (Browser-based User Graphics Interaction System) — colour theming for the OUTRAM PARK GUIs, no_std + alloc: the Gruvbox palette and roles, temperature and Crameri colour maps, and (feature egui…"
+2026-11-05T09:56:42.377645Z,cameleer-amqp10,0.2.0,0,0,https://github.com/pmsudhi/cameleer,"Cameleer AMQP 1.0 (std only): OASIS AMQP 1.0 client with SASL/TLS/CBS, `amqp` (JMS over AMQP 1.0), `azure-servicebus` and `azure-eventhubs` components, embedded AMQP 1.0 test broker with Azure emulat…"
+2026-11-05T09:56:42.74428Z,ver-fs,0.1.0,0,0,,Filesystem trait and implementation for ver
+2026-11-05T09:56:43.166945Z,ver-kv,0.1.0,0,0,,Key-value store trait and implementation for ver
+2026-11-05T10:04:16.8714Z,makinist,0.1.0,0,0,https://tangled.org/borag.tngl.sh/makinist,"The makinist command: check, play, replay, render, hash and export scenes."
+2026-11-05T10:04:25.557551Z,tpt-media-bitstream,0.2.0,0,0,https://github.com/TPT-Solutions/tpt-media,Zero-allocation bit reader/writer and entropy coding for tpt-media.
+2026-11-05T10:04:29.216317Z,tpt-media-representation,0.2.0,0,0,https://github.com/TPT-Solutions/tpt-media,"Swappable media representation contracts (analysis/synthesis, quantisation, rate/distortion, sparsity) for the tpt-media representation-research platform."
+2026-11-05T10:04:33.163236Z,eclisp-sys,0.1.0,0,0,https://git.lovie.dev/levi/eclisp,FFI Bindings for Embeddable Common Lisp
+2026-11-05T10:04:39.140522Z,eclisp,0.1.0,0,0,https://git.lovie.dev/levi/eclisp,Bindings for Embeddable Common Lisp
+2026-11-05T10:04:46.793865Z,tpt-media-core,0.2.0,0,0,https://github.com/TPT-Solutions/tpt-media,"Shared media data types for the tpt-media stack (timestamps, packets, frames, tracks, metadata)."
+2026-11-05T10:04:53.139291Z,tpt-media-codec,0.2.0,0,0,https://github.com/TPT-Solutions/tpt-media,"Generic codec framework: Encoder, Decoder, Codec traits, capabilities, resource limits."
+2026-11-05T10:04:58.081482Z,tpt-media-container,0.2.0,0,0,https://github.com/TPT-Solutions/tpt-media,Generic container abstraction (Demuxer/Muxer traits).
+2026-11-05T10:05:09.967179Z,pod-tls,0.0.0,0,0,https://github.com/PodUtils/podcrates,"TLS setup and trust roots for PodUtils tools, with no fixed crypto provider. Placeholder: the first release is in progress."
+2026-11-05T10:06:57.781853Z,cameleer-http,0.2.0,0,0,https://github.com/pmsudhi/cameleer,"Cameleer HTTP/1.1 server and client, http/platform-http components, REST DSL and netty (tcp/udp)"
+2026-11-05T10:07:40.011834Z,adoctra,0.0.1,0,0,https://github.com/avskor/adoctra,"An AsciiDoc processor and publishing toolchain, written in Rust"
+2026-11-05T10:10:48.46816Z,torust,0.1.0,0,0,,"Familiar helpers for programmers coming to Rust from other languages, starting with Python"
+2026-11-05T10:12:04.183185Z,tpt-media-io,0.2.0,0,0,https://github.com/TPT-Solutions/tpt-media,PCM/WAV/raw audio and image frame I/O plus streaming sources/sinks for the tpt-media stack (reuses tpt-dsp-io for WAV/DSP).
+2026-11-05T10:15:20.176283Z,pod-dns,0.0.0,0,0,https://github.com/PodUtils/podcrates,DNS resolution for hosts with strong network limits. Placeholder: the first release is in progress.
+2026-11-05T10:17:43.725464Z,cameleer-cloud,0.2.0,0,0,https://github.com/pmsudhi/cameleer,"Cameleer cloud components (std only): AWS (S3, SQS, SNS, DynamoDB + Streams, Lambda, Kinesis, Firehose, EventBridge, Secrets Manager, SES, CloudWatch, STS, Step Functions, IAM, EC2, MSK + Kafka AWS_M…"
+2026-11-05T10:19:00.270775Z,adoctra-cli,0.0.1,0,0,https://github.com/avskor/adoctra,Command-line AsciiDoc processor (the `adoctra` binary)
