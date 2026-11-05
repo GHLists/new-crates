@@ -1,0 +1,28 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-05T03:21:29.010323Z,ccctl,0.1.0,0,0,https://github.com/geraldzm/ccctl,The CLI tool to control your Claude Code sessions running in tmux
+2026-11-05T03:23:03.043292Z,rustcdp,0.0.0,0,0,https://github.com/tridimensionaal/rscdp,"Async Chrome and Chromium automation in Rust, with typed access to the Chrome DevTools Protocol (CDP)."
+2026-11-05T03:23:42.47886Z,neocogi-skin-impl,0.1.0-alpha.2,0,0,https://github.com/NeoCogi/neocogi-ui,Style and external-theme implementation for the NeoCogi Skin plugin
+2026-11-05T03:33:48.98369Z,neocogi-skin,0.1.0-alpha.2,0,0,https://github.com/NeoCogi/neocogi-ui,NeoCogi appearance and external-theme plugin
+2026-11-05T03:38:50.062098Z,rscdp,0.1.0,0,0,https://github.com/tridimensionaal/rscdp,"Async Chrome and Chromium automation in Rust, with typed access to the Chrome DevTools Protocol (CDP)."
+2026-11-05T03:42:15.118902Z,rvf-wasm,0.1.0,0,0,https://github.com/ruvnet/ruvector,RuVector Format WASM microkernel for browser and edge vector operations
+2026-11-05T03:42:25.91186Z,rvf-solver-wasm,0.1.0,0,0,https://github.com/ruvnet/ruvector,"RVF self-learning temporal solver WASM module — Thompson Sampling, PolicyKernel, three-loop architecture"
+2026-11-05T03:42:36.855978Z,emergent-time-wasm,0.1.1,0,0,https://github.com/ruvnet/ruvector,"WASM bindings for the agentic-time layer of the emergent-time crate: measure an AI agent's internal time and health from state deltas in the browser, on the edge, or in Node."
+2026-11-05T03:43:55.092418Z,neocogi-gfx-dylib,0.1.0-alpha.2,0,0,https://github.com/NeoCogi/neocogi-ui,Final dynamic entrypoint for neocogi-gfx
+2026-11-05T03:45:12.006184Z,authkeys,0.1.1,0,0,https://github.com/neuxbane/authkeys,"SSH authorized_keys-style public-key pinning for gRPC over mutual TLS, with hot-reloaded trust files."
+2026-11-05T03:50:54.721453Z,kasi-macros,0.1.1,0,0,,Procedural compilation attributes and polymorphic response macros for the Kasi web framework ecosystem.
+2026-11-05T03:54:01.218595Z,neocogi-skin-dylib,0.1.0-alpha.2,0,0,https://github.com/NeoCogi/neocogi-ui,Final dynamic entrypoint for neocogi-skin
+2026-11-05T04:00:26.328837Z,afastorm-derive,0.0.1,0,0,https://github.com/ahriknow/afastorm,Procedural derive macro for model metadata in the afastorm SQLx ORM.
+2026-11-05T04:00:28.407318Z,rg-primitives,0.1.0,0,0,https://github.com/hewigovens/railgun.rs,"Railgun field, Poseidon, BabyJubJub, EdDSA, Ed25519 and AES primitives"
+2026-11-05T04:00:29.800017Z,rg-prover,0.1.0,0,0,https://github.com/hewigovens/railgun.rs,"Circom witness from the circuit wasm, snarkjs zkey loading and Groth16 proving with arkworks"
+2026-11-05T04:00:32.255637Z,rg-keys,0.1.0,0,0,https://github.com/hewigovens/railgun.rs,Railgun key derivation and 0zk addresses
+2026-11-05T04:00:33.137205Z,rg-tree,0.1.0,0,0,https://github.com/hewigovens/railgun.rs,"Railgun's Poseidon Merkle tree: depth 16, one tree per 65,536 leaves"
+2026-11-05T04:00:35.081271Z,rg-broadcaster,0.1.0,0,0,https://github.com/hewigovens/railgun.rs,"Railgun broadcasters: signed fee offers, encrypted transact requests, and a Waku light client to reach them"
+2026-11-05T04:02:51.401131Z,feathrise_frame_generation_ui,0.1.0,0,0,https://github.com/hwyrq/feathrise_runtime,World UI separation and transparent capture for frame generation
+2026-11-05T04:04:07.489134Z,neocogi-ui-design,0.1.0-alpha.2,0,0,https://github.com/NeoCogi/neocogi-ui,Typed authoring metadata and validation for NeoCogi UI components
+2026-11-05T04:05:38.12214Z,rg-notes,0.1.0,0,0,https://github.com/hewigovens/railgun.rs,"Railgun notes: token hashes, commitments, nullifiers, V2 note and shield ciphertexts"
+2026-11-05T04:07:15.122261Z,chemomer,0.1.0,0,0,https://github.com/chemomer/chemomer,"Native Rust InChI engine, gated by the shared inchi-tests oracle corpus"
+2026-11-05T04:11:38.929204Z,alumina-code,0.1.0,0,0,https://github.com/sapphire-turtle/alumina,A code editor for egui that keeps the indentation
+2026-11-05T04:13:31.008289Z,kasi-core,0.1.1,0,0,,Procedural compilation attributes and polymorphic response macros for the Kasi web framework ecosystem.
+2026-11-05T04:13:47.141539Z,feathrise_runtime_manifest,0.1.0,0,0,https://github.com/hwyrq/feathrise_runtime,Dependency-free identities for Feathrise native runtime deployment
+2026-11-05T04:14:13.718514Z,neocogi-ui-document,0.1.0-alpha.2,0,0,https://github.com/NeoCogi/neocogi-ui,"Typed NeoCogi UI documents, component reconstruction and reload"
+2026-11-05T04:15:54.360849Z,rg-poi,0.1.0,0,0,https://github.com/hewigovens/railgun.rs,"Private Proof of Innocence: txid tree, blinded commitments, POI circuit inputs and the aggregator client"

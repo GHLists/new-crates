@@ -8,40 +8,41 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-05 03:19 UTC
+## Latest list — 2026-11-05 04:18 UTC
 
-New crates published between 2026-11-05 02:19 UTC and 2026-11-05 03:19 UTC.
+New crates published between 2026-11-05 03:19 UTC and 2026-11-05 04:18 UTC.
 
-[Full CSV](data/new-crates-2026-11-05T03-19-09-362779Z.csv)
+[Full CSV](data/new-crates-2026-11-05T04-18-35-140194Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-05 02:20:26 | [wormx-core](https://crates.io/crates/wormx-core) | 0.1.0 | 0 | Core runtime, dialect traits, and typed query DSL for wormx. |
-| 2026-11-05 02:20:28 | [wormx-macros-core](https://crates.io/crates/wormx-macros-core) | 0.1.0 | 0 | Schema introspection, caching, and code generation for wormx's table! macro. |
-| 2026-11-05 02:20:31 | [wormx-drivers-mssql](https://crates.io/crates/wormx-drivers-mssql) | 0.1.0 | 0 | Microsoft SQL Server dialect and compile-time introspection for wormx. |
-| 2026-11-05 02:20:32 | [wormx-drivers-mysql](https://crates.io/crates/wormx-drivers-mysql) | 0.1.0 | 0 | MySQL dialect and compile-time introspection for wormx. |
-| 2026-11-05 02:22:50 | [neocogi-ui-support](https://crates.io/crates/neocogi-ui-support) | 0.1.0-alpha.2 | 0 | Non-deployable resource and presentation helpers shared by UI providers |
-| 2026-11-05 02:24:30 | [openside](https://crates.io/crates/openside) | 0.1.0 | 0 | A polished ratatui terminal interface for sideloading .ipas to your iPhone — ls… |
-| 2026-11-05 02:30:38 | [feathrise_grounding](https://crates.io/crates/feathrise_grounding) | 0.1.0 | 0 | Terrain grounding and shared surface placement for Bevy scenes |
-| 2026-11-05 02:31:00 | [umpire-core](https://crates.io/crates/umpire-core) | 0.1.0 | 0 | Rust-native Umpire semantics: a live evaluator for Umpire availability schemas |
-| 2026-11-05 02:32:59 | [neocogi-ui-runtime](https://crates.io/crates/neocogi-ui-runtime) | 0.1.0-alpha.2 | 0 | Deployable core retained UI runtime, scoped services, surfaces and menus |
-| 2026-11-05 02:33:35 | [xplm-egui](https://crates.io/crates/xplm-egui) | 0.2.0 | 0 | Convenience integration to use Egui in X-Plane for plugin GUIs |
-| 2026-11-05 02:40:15 | [bevy_metal_timestamps](https://crates.io/crates/bevy_metal_timestamps) | 0.1.0 | 0 | Real per-frame GPU time for Bevy 0.20 on Metal (Apple GPUs) via pass-boundary t… |
-| 2026-11-05 02:43:16 | [neocogi-ui-nodes](https://crates.io/crates/neocogi-ui-nodes) | 0.1.0-alpha.2 | 0 | Deployable built-in NeoCogi UI node implementations and standard compositions |
-| 2026-11-05 02:53:23 | [neocogi-ui-runtime-dylib](https://crates.io/crates/neocogi-ui-runtime-dylib) | 0.1.0-alpha.2 | 0 | Final dynamic entrypoint for neocogi-ui-runtime |
-| 2026-11-05 02:58:36 | [process-tree-guard](https://crates.io/crates/process-tree-guard) | 0.5.0 | 0 | Runs one command under a finite deadline and ends the whole process tree at the… |
-| 2026-11-05 03:03:29 | [neocogi-ui-nodes-dylib](https://crates.io/crates/neocogi-ui-nodes-dylib) | 0.1.0-alpha.2 | 0 | Final dynamic entrypoint for neocogi-ui-nodes |
-| 2026-11-05 03:04:18 | [feathrise_vegetation](https://crates.io/crates/feathrise_vegetation) | 0.1.0 | 0 | Deterministic vegetation distribution and spatial competition for Bevy |
-| 2026-11-05 03:04:38 | [feathrise_environment](https://crates.io/crates/feathrise_environment) | 0.1.0 | 0 | Unified vegetation distribution and rendering entry point for Bevy |
-| 2026-11-05 03:04:53 | [feathrise_settings](https://crates.io/crates/feathrise_settings) | 0.1.0 | 0 | Shared rendering quality parameters and runtime backend state |
-| 2026-11-05 03:08:50 | [lumi-extension-api](https://crates.io/crates/lumi-extension-api) | 0.3.1 | 0 | Write Lumi extensions in Rust: the typed host bindings and the export macro. |
-| 2026-11-05 03:13:35 | [neocogi-skin-authoring](https://crates.io/crates/neocogi-skin-authoring) | 0.1.0-alpha.2 | 0 | Shared typed theme documents and compilation for NeoCogi tools and Skin |
-| 2026-11-05 03:14:08 | [mnn-cli](https://crates.io/crates/mnn-cli) | 1.0.0-alpha1 | 0 | Easily update all your packages with a single command and keep your system up t… |
-| 2026-11-05 03:14:25 | [mdrs](https://crates.io/crates/mdrs) | 1.0.0-alpha1 | 0 | MDRS (Markdown Rich Syntax): a drop-in superset of Markdown |
-| 2026-11-05 03:14:32 | [markers](https://crates.io/crates/markers) | 1.0.0-alpha1 | 0 | High-performance HTML to Markdown conversion for LLMs |
-| 2026-11-05 03:14:36 | [pelers](https://crates.io/crates/pelers) | 1.0.0-alpha1 | 0 | Pele, but in Rust |
-| 2026-11-05 03:18:38 | [feathrise_atmosphere](https://crates.io/crates/feathrise_atmosphere) | 0.1.0 | 0 | World time, celestial lighting and weather for Bevy scenes |
-| 2026-11-05 03:18:55 | [feathrise_editor_protocol](https://crates.io/crates/feathrise_editor_protocol) | 0.1.0 | 0 | Bounded process protocol for Feathrise resident project views |
+| 2026-11-05 03:21:29 | [ccctl](https://crates.io/crates/ccctl) | 0.1.0 | 0 | The CLI tool to control your Claude Code sessions running in tmux |
+| 2026-11-05 03:23:03 | [rustcdp](https://crates.io/crates/rustcdp) | 0.0.0 | 0 | Async Chrome and Chromium automation in Rust, with typed access to the Chrome D… |
+| 2026-11-05 03:23:42 | [neocogi-skin-impl](https://crates.io/crates/neocogi-skin-impl) | 0.1.0-alpha.2 | 0 | Style and external-theme implementation for the NeoCogi Skin plugin |
+| 2026-11-05 03:33:48 | [neocogi-skin](https://crates.io/crates/neocogi-skin) | 0.1.0-alpha.2 | 0 | NeoCogi appearance and external-theme plugin |
+| 2026-11-05 03:38:50 | [rscdp](https://crates.io/crates/rscdp) | 0.1.0 | 0 | Async Chrome and Chromium automation in Rust, with typed access to the Chrome D… |
+| 2026-11-05 03:42:15 | [rvf-wasm](https://crates.io/crates/rvf-wasm) | 0.1.0 | 0 | RuVector Format WASM microkernel for browser and edge vector operations |
+| 2026-11-05 03:42:25 | [rvf-solver-wasm](https://crates.io/crates/rvf-solver-wasm) | 0.1.0 | 0 | RVF self-learning temporal solver WASM module — Thompson Sampling, PolicyKernel… |
+| 2026-11-05 03:42:36 | [emergent-time-wasm](https://crates.io/crates/emergent-time-wasm) | 0.1.1 | 0 | WASM bindings for the agentic-time layer of the emergent-time crate: measure an… |
+| 2026-11-05 03:43:55 | [neocogi-gfx-dylib](https://crates.io/crates/neocogi-gfx-dylib) | 0.1.0-alpha.2 | 0 | Final dynamic entrypoint for neocogi-gfx |
+| 2026-11-05 03:45:12 | [authkeys](https://crates.io/crates/authkeys) | 0.1.1 | 0 | SSH authorized_keys-style public-key pinning for gRPC over mutual TLS, with hot… |
+| 2026-11-05 03:50:54 | [kasi-macros](https://crates.io/crates/kasi-macros) | 0.1.1 | 0 | Procedural compilation attributes and polymorphic response macros for the Kasi… |
+| 2026-11-05 03:54:01 | [neocogi-skin-dylib](https://crates.io/crates/neocogi-skin-dylib) | 0.1.0-alpha.2 | 0 | Final dynamic entrypoint for neocogi-skin |
+| 2026-11-05 04:00:26 | [afastorm-derive](https://crates.io/crates/afastorm-derive) | 0.0.1 | 0 | Procedural derive macro for model metadata in the afastorm SQLx ORM. |
+| 2026-11-05 04:00:28 | [rg-primitives](https://crates.io/crates/rg-primitives) | 0.1.0 | 0 | Railgun field, Poseidon, BabyJubJub, EdDSA, Ed25519 and AES primitives |
+| 2026-11-05 04:00:29 | [rg-prover](https://crates.io/crates/rg-prover) | 0.1.0 | 0 | Circom witness from the circuit wasm, snarkjs zkey loading and Groth16 proving… |
+| 2026-11-05 04:00:32 | [rg-keys](https://crates.io/crates/rg-keys) | 0.1.0 | 0 | Railgun key derivation and 0zk addresses |
+| 2026-11-05 04:00:33 | [rg-tree](https://crates.io/crates/rg-tree) | 0.1.0 | 0 | Railgun's Poseidon Merkle tree: depth 16, one tree per 65,536 leaves |
+| 2026-11-05 04:00:35 | [rg-broadcaster](https://crates.io/crates/rg-broadcaster) | 0.1.0 | 0 | Railgun broadcasters: signed fee offers, encrypted transact requests, and a Wak… |
+| 2026-11-05 04:02:51 | [feathrise_frame_generation_ui](https://crates.io/crates/feathrise_frame_generation_ui) | 0.1.0 | 0 | World UI separation and transparent capture for frame generation |
+| 2026-11-05 04:04:07 | [neocogi-ui-design](https://crates.io/crates/neocogi-ui-design) | 0.1.0-alpha.2 | 0 | Typed authoring metadata and validation for NeoCogi UI components |
+| 2026-11-05 04:05:38 | [rg-notes](https://crates.io/crates/rg-notes) | 0.1.0 | 0 | Railgun notes: token hashes, commitments, nullifiers, V2 note and shield cipher… |
+| 2026-11-05 04:07:15 | [chemomer](https://crates.io/crates/chemomer) | 0.1.0 | 0 | Native Rust InChI engine, gated by the shared inchi-tests oracle corpus |
+| 2026-11-05 04:11:38 | [alumina-code](https://crates.io/crates/alumina-code) | 0.1.0 | 0 | A code editor for egui that keeps the indentation |
+| 2026-11-05 04:13:31 | [kasi-core](https://crates.io/crates/kasi-core) | 0.1.1 | 0 | Procedural compilation attributes and polymorphic response macros for the Kasi… |
+| 2026-11-05 04:13:47 | [feathrise_runtime_manifest](https://crates.io/crates/feathrise_runtime_manifest) | 0.1.0 | 0 | Dependency-free identities for Feathrise native runtime deployment |
+| 2026-11-05 04:14:13 | [neocogi-ui-document](https://crates.io/crates/neocogi-ui-document) | 0.1.0-alpha.2 | 0 | Typed NeoCogi UI documents, component reconstruction and reload |
+| 2026-11-05 04:15:54 | [rg-poi](https://crates.io/crates/rg-poi) | 0.1.0 | 0 | Private Proof of Innocence: txid tree, blinded commitments, POI circuit inputs… |
 
 ## Data source
 
