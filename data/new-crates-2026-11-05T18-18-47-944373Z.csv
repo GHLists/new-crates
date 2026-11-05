@@ -1,0 +1,42 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-05T17:21:50.533156Z,ngoladx-bench,0.0.1,0,0,https://github.com/ngolacloud/dx,DX — harness de benchmarks: estatísticas (p50/p95) e geração de mock-workspace determinista para medir resolução vs gate.
+2026-11-05T17:22:57.614699Z,ajika_macros,0.1.0,0,0,https://github.com/rust-glancer/ajika,"Query, input, output, and interned-ID declarations for Ajika."
+2026-11-05T17:22:59.9707Z,ajika_storage,0.1.0,0,0,https://github.com/rust-glancer/ajika,Atomic records and packed immutable values for Ajika.
+2026-11-05T17:23:03.834434Z,ajika,0.1.0,0,0,https://github.com/rust-glancer/ajika,Synchronous incremental queries with scoped residency and persistent storage.
+2026-11-05T17:23:33.795477Z,syntra-net,1.0.0-rc.2,0,0,https://github.com/tinkle-org/syntra-rs,"Syntra native networking, protected connections and managed client/server lifecycle"
+2026-11-05T17:26:10.437805Z,tauri-delta-updater,0.1.0,0,0,https://github.com/zuoqiuning/tauri-delta-updater,A high-performance Rust library for delta (incremental) updates in Tauri v2.
+2026-11-05T17:28:01.438023Z,dotcore-runtime-backends,0.1.0,0,0,https://github.com/dotcoreai/dotcore,"Runtime backends over the contracts: Docker, native launcher-held processes and simulated on a declared machine, plus the backend registry."
+2026-11-05T17:28:51.307345Z,markdown-fixer,0.1.0,0,0,https://github.com/doggy8088/markdown-fixer,"Safe, line-oriented Markdown syntax checker and auto-corrector (Rust port of the markdown-autocorrect skill)."
+2026-11-05T17:28:56.941963Z,kolmo,1.0.0,0,0,https://github.com/adnaneben/kolmo,"Structure-aware lossless compressor: best ratio across tables, logs and scientific data, with decode that scales across cores."
+2026-11-05T17:29:06.347829Z,markdown-fixer-cli,0.1.0,0,0,https://github.com/doggy8088/markdown-fixer,markdown-fixer command-line interface.
+2026-11-05T17:29:33.476564Z,mobile-agent-simulator,0.1.0-alpha.1,0,0,https://github.com/gesposito/mobile-agent,"mobile-agent's iOS Simulator driver, entirely from the host: the lifecycle, input through dtuhidd, frames from the display and the tree from an in-guest reader"
+2026-11-05T17:30:07.705046Z,everymap-providers-photon,0.3.2,0,0,https://github.com/angoratek/everymap-rs,"Photon geocoding provider for EveryMap — forward and reverse geocoding, settled place search and type-ahead over any Photon deployment"
+2026-11-05T17:30:37.544223Z,c2pa-cloud,0.91.11-preview,0,0,https://github.com/duggaraju/c2pa-azure,"Preview: Rust helpers for issuing C2PA signatures with cloud signing services: Azure Trusted Signing, AWS KMS, and Google Cloud KMS."
+2026-11-05T17:31:49.32386Z,ngoladx-build,0.0.1,0,0,https://github.com/ngolacloud/dx,"DX — perfis de build LLVM (dev/release/throughput/size), medição (tempo/memória/tamanho) e PGO."
+2026-11-05T17:38:11.692195Z,dotcore-site,0.1.0,0,0,https://github.com/dotcoreai/dotcore,"Site state authority: desired site repository, site and node stores, node views and fencing, membership, initial site and reset."
+2026-11-05T17:44:10.712898Z,ngoladx-manifest,0.0.1,0,0,https://github.com/ngolacloud/dx,DX — leitura/escrita idempotente de Cargo.toml (preserva formato) com journal e lock transaccional.
+2026-11-05T17:48:22.668756Z,dotcore,0.1.0,0,0,https://github.com/dotcoreai/dotcore,"Top backend crate: controllers, inference router, dispatch, logs, server and composition."
+2026-11-05T17:49:34.837567Z,crol-derive,0.1.0,0,0,https://github.com/DreamLogics/crol,"Derive macros for CROL, the Composable Rust Object Language"
+2026-11-05T17:49:35.409317Z,crol-syntax,0.1.0,0,0,https://github.com/DreamLogics/crol,"Lexer, error-recovering parser, lossless syntax tree and formatter for CROL, the Composable Rust Object Language"
+2026-11-05T17:49:37.631407Z,crol-eval,0.1.0,0,0,https://github.com/DreamLogics/crol,"Evaluator for CROL, the Composable Rust Object Language: layers, chains, variants and fingerprints"
+2026-11-05T17:49:39.932537Z,crol,0.1.0,0,0,https://github.com/DreamLogics/crol,"CROL, the Composable Rust Object Language: layered, composable configuration and data files for serde"
+2026-11-05T17:49:42.152214Z,crol-lsp,0.1.0,0,0,https://github.com/DreamLogics/crol,"Language server for CROL, the Composable Rust Object Language"
+2026-11-05T17:49:50.190496Z,perspective-migrate,5.7.0,0,0,https://github.com/perspective-dev/perspective,"Upgrades persisted Perspective `ViewConfig`, `<perspective-viewer>` and workspace configs from any release since 2.0 to the current schema."
+2026-11-05T17:51:52.678539Z,ngoladx-release,0.0.1,0,0,https://github.com/ngolacloud/dx,"DX — preparação de release: ordem topológica de publicação, SBOM (CycloneDX) e proveniência. Prepara ≠ publica."
+2026-11-05T17:54:37.385907Z,crol-cli,0.1.0,0,0,https://github.com/DreamLogics/crol,"The crol command-line tool: check, evaluate, format and explain CROL data"
+2026-11-05T17:54:38.517817Z,krad-extension-id,0.3.0,0,0,https://github.com/joordih/krad-ade,"Validated extension ids for Krad ADE: one safe path segment, shared by the app and its extension SDKs."
+2026-11-05T17:54:58.422455Z,krad-extension-api,0.3.0,0,0,https://github.com/joordih/krad-ade,"The protocol between Krad ADE and extension programs: the extension.toml manifest, JSON-RPC requests and notifications, and the native extension view model."
+2026-11-05T17:55:31.177293Z,krad-extension-sdk,0.3.0,0,0,https://github.com/joordih/krad-ade,"Write Krad ADE extension programs in Rust: JSON-RPC over stdio, typed handlers and an app client."
+2026-11-05T17:57:05.719465Z,mobile-agent-ios,0.1.0-alpha.1,0,0,https://github.com/gesposito/mobile-agent,"mobile-agent's physical iPhone driver over USB: the device's services, input, screenshots as frames and an XCTest runner's tree"
+2026-11-05T17:58:07.403952Z,mobile-agent-daemon,0.1.0-alpha.1,0,0,https://github.com/gesposito/mobile-agent,"The mobile-agent daemon: one process that holds every device connection and a mirror per attached target, and answers the CLI"
+2026-11-05T17:58:32.366277Z,dotc,0.1.0,0,0,https://github.com/dotcoreai/dotcore,"The dotc executable: Site, node, model, application and image cleanup commands, guided prompts and terminal output."
+2026-11-05T17:59:30.818956Z,mobile-agent,0.1.0-alpha.1,0,0,https://github.com/gesposito/mobile-agent,"mobile-agent, the command line agents drive Android devices, emulators, iOS Simulators and iPhones with"
+2026-11-05T18:00:51.473265Z,xitdb,0.1.0,0,0,https://github.com/ToyVo/xitdb-rs,Immutable database (Rust port of xit-vcs/xitdb)
+2026-11-05T18:01:49.588427Z,ngoladx-security,0.0.1,0,0,https://github.com/ngolacloud/dx,"DX — gate de segurança da cadeia de dependências: política, validade da base, veredicto e cache de decisão."
+2026-11-05T18:02:37.656836Z,doorstep,0.1.0,0,0,,Web dashboard and carrier-tracking poller for parcel artifacts extracted by mailsift.
+2026-11-05T18:03:25.08622Z,wayfare,0.1.0,0,0,,"Groups reservations and tickets extracted by mailsift into trips, with a web timeline."
+2026-11-05T18:04:13.728706Z,lazydeed-forge,0.1.0,0,0,https://github.com/Honami333/Lazydeed,Procedural macros for lazydeed
+2026-11-05T18:05:15.540347Z,lazydeed,0.1.0,0,0,https://github.com/Honami333/Lazydeed,A small crate for lazy tasks
+2026-11-05T18:09:32.588662Z,mobile-agent-mcp,0.1.0-alpha.1,0,0,https://github.com/gesposito/mobile-agent,"mobile-agent-mcp, the Model Context Protocol server over the mobile-agent daemon: one tool per action an agent drives, in a session of its own"
+2026-11-05T18:11:51.116854Z,ngoladx-env,0.0.1,0,0,https://github.com/ngolacloud/dx,DX — reproducible build-environment record (toolchain/target/tools/flags/security/lockfile) with capture and verify.
+2026-11-05T18:17:32.584901Z,spurdb,0.0.1,0,0,https://github.com/onehouseinc/spurdb,OTLP trace write that writes spans to Parquet or Apache Iceberg tables
