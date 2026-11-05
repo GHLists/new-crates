@@ -1,0 +1,23 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-05T22:21:58.109123Z,whereexpr_proc_macro,0.1.0,0,0,https://github.com/gdt050579/whereexpr,Derive macro for the whereexpr library: #[derive(Attributes)].
+2026-11-05T22:23:00.921196Z,hawkbit-ddi,0.1.0,0,0,https://github.com/MattCairns/hawkbit-ddi,Blocking client for the Eclipse hawkBit Direct Device Integration (DDI) API
+2026-11-05T22:23:16.130352Z,sshmux-mcp,0.2.0,0,0,https://github.com/foleychris/ssh-mcp-rs,"MCP server that runs commands and edits files on remote hosts over pooled, multiplexed SSH (stdio or Streamable HTTP)"
+2026-11-05T22:34:11.086742Z,net_scanner,0.1.0,0,0,https://github.com/mnk-works/net_scanner,A Rust CLI tool for scanning multiple targets for open ports using rustscan
+2026-11-05T22:35:55.573615Z,aoc-harness-macros,0.1.0,0,0,https://github.com/pedantic79/aoc-harness,Typed registrations for aoc-harness
+2026-11-05T22:35:57.5764Z,aoc-harness,0.1.0,0,0,https://github.com/pedantic79/aoc-harness,Ownership-aware Advent of Code execution and automatic benchmarks
+2026-11-05T22:35:59.575685Z,aoc-harness-cli,0.1.0,0,0,https://github.com/pedantic79/aoc-harness,Cargo subcommand for aoc-harness libraries
+2026-11-05T22:39:19.60259Z,reachmap,0.1.0,0,0,https://github.com/MHusted01/reachmap,"Shows which services on a host can be reached, from where, and why"
+2026-11-05T22:41:08.234669Z,tomlgraft-core,0.1.0,0,0,https://github.com/snchimata/tomlgraft,"Local, transactional TOML edits with bounded preservation guarantees"
+2026-11-05T22:41:11.797761Z,tomlgraft,0.1.0,0,0,https://github.com/snchimata/tomlgraft,"Small, reviewable TOML edits"
+2026-11-05T22:41:20.682856Z,rigorix-gate-wasm,1.13.0,0,0,https://github.com/arman-jalili/rigorix-oss,Portable Rigorix gate seam — deterministic WebAssembly slice that evaluates a proposed action and exports a verifiable record
+2026-11-05T22:44:32.14166Z,lance-nd,0.1.0,0,0,,"N-dimensional datasets stored in Lance, one dataset or chunk per row"
+2026-11-05T22:57:12.843004Z,rscm-fair,0.7.0,0,0,https://github.com/lewisjared/rscm,FaIR v2 components for RSCM
+2026-11-05T23:03:00.528251Z,rs-pgcopy2rbat,0.1.0,0,0,https://github.com/takanoriyanagitani/rs-pgcopy2rbat,Convert PostgreSQL binary COPY to Arrow RecordBatch
+2026-11-05T23:17:27.975235Z,axa-environment,0.1.0,0,0,https://github.com/publicprojects-io/axa/,"Which environment a service runs in, read one way, with no dependencies."
+2026-11-05T23:17:31.310349Z,axa-diesel,0.1.0,0,0,https://github.com/publicprojects-io/axa/,"Diesel pooling, migrations, and test resets for Axum services, in pure Rust."
+2026-11-05T23:17:33.900723Z,axa-tera,0.1.0,0,0,https://github.com/publicprojects-io/axa/,Tera templates with safe escaping and generic errors for Axum services.
+2026-11-05T23:17:36.510211Z,axa-openapi,0.1.0,0,0,https://github.com/publicprojects-io/axa/,Serve OpenAPI documents and a pinned Swagger UI from Axum services.
+2026-11-05T23:17:39.685375Z,axa-redis,0.1.0,0,0,https://github.com/publicprojects-io/axa/,A Redis cache with mandatory expiry for Axum services.
+2026-11-05T23:20:12.489709Z,onebudgetspec-github-action,0.1.0,0,0,https://github.com/nickderobertis/onebudgetspec-github-action,Run onebudgetspec budget reports from GitHub Actions or the command line
+2026-11-05T23:20:15.580631Z,pidge-gmail,2.0.0,0,0,https://github.com/mklab-se/pidge,Gmail and Google Calendar provider for pidge
+2026-11-05T23:20:57.787429Z,pidge-store,2.0.0,0,0,https://github.com/mklab-se/pidge,"pidge's local index: handles, a rebuildable mail and calendar index, plans, undo, outbox"

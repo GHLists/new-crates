@@ -8,70 +8,36 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-05 22:19 UTC
+## Latest list — 2026-11-05 23:21 UTC
 
-New crates published between 2026-11-05 21:18 UTC and 2026-11-05 22:19 UTC.
+New crates published between 2026-11-05 22:19 UTC and 2026-11-05 23:21 UTC.
 
-[Full CSV](data/new-crates-2026-11-05T22-19-50-146243Z.csv)
+[Full CSV](data/new-crates-2026-11-05T23-21-01-799054Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-05 21:21:10 | [jeff-sdk](https://crates.io/crates/jeff-sdk) | 1.4.0 | 0 | The Jeff SDK for Rust: call Jeff's decision functions, route, escalate and run… |
-| 2026-11-05 21:22:35 | [dspk-hub](https://crates.io/crates/dspk-hub) | 0.0.5 | 0 | Verified download and local cache of published artifacts (hf://, gh://, zenodo:… |
-| 2026-11-05 21:27:13 | [dspk-synapse](https://crates.io/crates/dspk-synapse) | 0.0.5 | 0 | Electrophysiology for dspk: recording and sorting formats, probes, spike detect… |
-| 2026-11-05 21:27:22 | [protolink-lua-node](https://crates.io/crates/protolink-lua-node) | 0.0.1 | 0 | One execution node for lua.execution.v1: lifecycle, uploads, artifact store, na… |
-| 2026-11-05 21:27:27 | [dspk-synapse-ml](https://crates.io/crates/dspk-synapse-ml) | 0.0.5 | 0 | Pretrained neuro models (DARTsort, SpikeNet2, UnitRefine) and their runtime for… |
-| 2026-11-05 21:27:31 | [dspk-sorter-kilosort](https://crates.io/crates/dspk-sorter-kilosort) | 0.0.5 | 0 | The Kilosort family of spike sorters for dspk on GPU kernels (CubeCL): Kilosort… |
-| 2026-11-05 21:27:35 | [dspk-sorter-ms5](https://crates.io/crates/dspk-sorter-ms5) | 0.0.5 | 0 | MountainSort 5 spike sorter for dspk, ported from flatironinstitute/mountainsor… |
-| 2026-11-05 21:28:17 | [rushdb-server](https://crates.io/crates/rushdb-server) | 3.0.3 | 0 | RushDB, the database for AI: the `rushdb` server and CLI |
-| 2026-11-05 21:29:21 | [onde-candle-metal-kernels](https://crates.io/crates/onde-candle-metal-kernels) | 0.11.1 | 0 | Onde Inference build of candle-metal-kernels, with a fix for strided reduces ov… |
-| 2026-11-05 21:29:28 | [xml-arrow](https://crates.io/crates/xml-arrow) | 0.1.0 | 0 | XML record conversion to Apache Arrow batches |
-| 2026-11-05 21:29:36 | [xml-io](https://crates.io/crates/xml-io) | 0.1.0 | 0 | Reopenable storage inputs for XML readers |
-| 2026-11-05 21:31:53 | [dspk-sorter-si](https://crates.io/crates/dspk-sorter-si) | 0.0.5 | 0 | SpikeInterface's internal spike sorters for dspk, SpyKING CIRCUS 2 and Tridescl… |
-| 2026-11-05 21:32:10 | [axa-pagination](https://crates.io/crates/axa-pagination) | 0.1.0 | 0 | Offset pagination, count headers, and LIKE escaping for Axum services. |
-| 2026-11-05 21:32:10 | [axa-problem](https://crates.io/crates/axa-problem) | 0.1.0 | 0 | RFC 9457 problem details responses for Axum services. |
-| 2026-11-05 21:32:11 | [axa-prometheus](https://crates.io/crates/axa-prometheus) | 0.1.0 | 0 | Prometheus text exposition for Axum services. |
-| 2026-11-05 21:32:12 | [axa-sqlx](https://crates.io/crates/axa-sqlx) | 0.1.0 | 0 | PostgreSQL pooling, migrations, and test resets over sqlx for Axum services. |
-| 2026-11-05 21:32:12 | [axa-versioning](https://crates.io/crates/axa-versioning) | 0.1.0 | 0 | Header-based API version negotiation for Axum services. |
-| 2026-11-05 21:35:26 | [axa](https://crates.io/crates/axa) | 0.1.0 | 0 | Small shared library for services built directly on Axum and sqlx. |
-| 2026-11-05 21:37:10 | [corundum-framework-pdf](https://crates.io/crates/corundum-framework-pdf) | 0.10.0 | 0 | Count a PDF's pages and render one to RGBA8 without a GUI, in pure Rust (hayro)… |
-| 2026-11-05 21:39:12 | [dial9-sampling](https://crates.io/crates/dial9-sampling) | 0.5.7 | 0 | Sticky startup profiling admission through pluggable object storage |
-| 2026-11-05 21:40:28 | [mpb](https://crates.io/crates/mpb) | 0.1.11 | 0 | Thin alias of indicatif so the quant1x/mpb language ports share one crate name |
-| 2026-11-05 21:45:14 | [layeredcfg](https://crates.io/crates/layeredcfg) | 0.1.0 | 0 | Layered configuration: defaults from a TOML file, overridden by env-style files… |
-| 2026-11-05 21:47:12 | [axa-paseto](https://crates.io/crates/axa-paseto) | 0.1.0 | 0 | PASETO bearer authentication and ABAC enforcement for Axum services. |
-| 2026-11-05 21:48:31 | [compute-multiversion-macros](https://crates.io/crates/compute-multiversion-macros) | 0.9.2 | 0 | A patched fork of multiversion-macros |
-| 2026-11-05 21:48:33 | [compute-multiversion](https://crates.io/crates/compute-multiversion) | 0.9.2 | 0 | A patched fork of multiversion |
-| 2026-11-05 21:50:46 | [cia-rs](https://crates.io/crates/cia-rs) | 0.1.0 | 0 | CIA (CTR Importable Archive) reading and unpacking, interchangeable with ctrtool |
-| 2026-11-05 21:50:49 | [wux-rs](https://crates.io/crates/wux-rs) | 0.1.0 | 0 | Wii U disc images: WUD to WUX compression and back, and WUD/WUX to Cemu's WUA a… |
-| 2026-11-05 21:50:52 | [xdelta-rs](https://crates.io/crates/xdelta-rs) | 0.1.0 | 0 | xdelta3 (VCDIFF) patch decoding, LZMA secondary compression included |
-| 2026-11-05 21:50:55 | [xps-rs](https://crates.io/crates/xps-rs) | 0.1.0 | 0 | IPS and BPS patch application, as Flips applies them |
-| 2026-11-05 21:56:17 | [manby-wagyu](https://crates.io/crates/manby-wagyu) | 0.5.0 | 0 | manby's copy of tippecanoe-rs's port of mapbox/wagyu, made faster with the same… |
-| 2026-11-05 21:56:18 | [tippecanoe-rs-clipper2](https://crates.io/crates/tippecanoe-rs-clipper2) | 1.4.0 | 0 | A Rust port of the parts of Clipper2 that tippecanoe uses |
-| 2026-11-05 21:56:18 | [tippecanoe-rs-wagyu](https://crates.io/crates/tippecanoe-rs-wagyu) | 0.5.0 | 0 | A Rust port of mapbox/wagyu, the polygon clipping and cleaning library vendored… |
-| 2026-11-05 21:56:21 | [tippecanoe-rs](https://crates.io/crates/tippecanoe-rs) | 2.82.0 | 0 | A faithful Rust port of tippecanoe, which builds vector tilesets from GeoJSON,… |
-| 2026-11-05 21:56:24 | [manby](https://crates.io/crates/manby) | 0.1.0 | 0 | Builds vector tilesets from geographic features, like tippecanoe, several times… |
-| 2026-11-05 21:57:11 | [ese-unicode](https://crates.io/crates/ese-unicode) | 17.0.0 | 0 | Character classes and BERT-style normalization (NFD minus nonspacing marks, low… |
-| 2026-11-05 21:57:12 | [ese](https://crates.io/crates/ese) | 0.1.0 | 0 | Extremely Static Embeddings: runtime for compiled-in static embedding models |
-| 2026-11-05 21:57:13 | [ese-build](https://crates.io/crates/ese-build) | 0.1.0 | 0 | build.rs support for ese: fetch a sentence-transformers or model2vec static emb… |
-| 2026-11-05 21:57:15 | [encoders](https://crates.io/crates/encoders) | 1.0.0 | 0 | Static embedding models (sentence-transformers static-mrl and model2vec potion… |
-| 2026-11-05 21:58:41 | [nornir-mimir-reach](https://crates.io/crates/nornir-mimir-reach) | 0.1.0 | 0 | Reach over a Rust fn graph: the graph-package.znippy reader and writer (package… |
-| 2026-11-05 21:59:39 | [keen-lang](https://crates.io/crates/keen-lang) | 0.2.1 | 0 | keen: a lightweight Rust-syntax to C transpiler (syntax only, no safety enforce… |
-| 2026-11-05 21:59:50 | [axiom-poly](https://crates.io/crates/axiom-poly) | 0.1.0 | 0 | "Polyglot build system and package manager for Rust, C/C++, and Go" |
-| 2026-11-05 22:00:29 | [sew-proto](https://crates.io/crates/sew-proto) | 0.7.4 | 0 | Sew wire contracts: ids, addresses, errors, HTTP and gateway bodies, permission… |
-| 2026-11-05 22:00:33 | [sew-lkproto](https://crates.io/crates/sew-lkproto) | 0.7.4 | 0 | LiveKit protocol 17 types (generated from livekit/protocol a4f4b5c0c23f without… |
-| 2026-11-05 22:01:00 | [axiom-poly-registry](https://crates.io/crates/axiom-poly-registry) | 0.1.0 | 0 | "Polyglot build system and package manager for Rust, C/C++, and Go" |
-| 2026-11-05 22:01:01 | [axiom-poly-config](https://crates.io/crates/axiom-poly-config) | 0.1.0 | 0 | "Polyglot build system and package manager for Rust, C/C++, and Go" |
-| 2026-11-05 22:01:01 | [axiom-poly-resolver](https://crates.io/crates/axiom-poly-resolver) | 0.1.0 | 0 | "Polyglot build system and package manager for Rust, C/C++, and Go" |
-| 2026-11-05 22:01:07 | [sew-lk-compat](https://crates.io/crates/sew-lk-compat) | 0.7.4 | 0 | The LiveKit-protocol pieces of Sew's native voice engine: the /rtc/v1 join requ… |
-| 2026-11-05 22:01:14 | [dragology](https://crates.io/crates/dragology) | 0.1.0-beta.2 | 0 | Renderer-independent, model-driven dragging |
-| 2026-11-05 22:01:16 | [dragology-scene](https://crates.io/crates/dragology-scene) | 0.1.0-beta.2 | 0 | Shared scene, hit testing, and animation for Dragology renderer adapters |
-| 2026-11-05 22:01:18 | [dragology-egui](https://crates.io/crates/dragology-egui) | 0.1.0-beta.2 | 0 | egui adapter for Dragology model-driven dragging |
-| 2026-11-05 22:01:18 | [dragology-gpui](https://crates.io/crates/dragology-gpui) | 0.1.0-beta.2 | 0 | GPUI adapter for Dragology model-driven dragging |
-| 2026-11-05 22:01:19 | [dragology-wgpu](https://crates.io/crates/dragology-wgpu) | 0.1.0-beta.2 | 0 | wgpu renderer for Dragology model-driven dragging |
-| 2026-11-05 22:05:21 | [axiom-poly-rust](https://crates.io/crates/axiom-poly-rust) | 0.1.0 | 0 | "Polyglot build system and package manager for Rust, C/C++, and Go" |
-| 2026-11-05 22:11:52 | [gpui_ce_kit](https://crates.io/crates/gpui_ce_kit) | 0.3.0 | 0 | GPUI Kit: one dependency for building desktop applications with GPUI, GPUI Base… |
-| 2026-11-05 22:15:53 | [axiom-poly-c](https://crates.io/crates/axiom-poly-c) | 0.1.0 | 0 | "Polyglot build system and package manager for Rust, C/C++, and Go" |
-| 2026-11-05 22:16:27 | [cc-top](https://crates.io/crates/cc-top) | 1.0.0 | 0 | A terminal dashboard in the style of top for AI coding agents. It shows live co… |
+| 2026-11-05 22:21:58 | [whereexpr_proc_macro](https://crates.io/crates/whereexpr_proc_macro) | 0.1.0 | 0 | Derive macro for the whereexpr library: #[derive(Attributes)]. |
+| 2026-11-05 22:23:00 | [hawkbit-ddi](https://crates.io/crates/hawkbit-ddi) | 0.1.0 | 0 | Blocking client for the Eclipse hawkBit Direct Device Integration (DDI) API |
+| 2026-11-05 22:23:16 | [sshmux-mcp](https://crates.io/crates/sshmux-mcp) | 0.2.0 | 0 | MCP server that runs commands and edits files on remote hosts over pooled, mult… |
+| 2026-11-05 22:34:11 | [net_scanner](https://crates.io/crates/net_scanner) | 0.1.0 | 0 | A Rust CLI tool for scanning multiple targets for open ports using rustscan |
+| 2026-11-05 22:35:55 | [aoc-harness-macros](https://crates.io/crates/aoc-harness-macros) | 0.1.0 | 0 | Typed registrations for aoc-harness |
+| 2026-11-05 22:35:57 | [aoc-harness](https://crates.io/crates/aoc-harness) | 0.1.0 | 0 | Ownership-aware Advent of Code execution and automatic benchmarks |
+| 2026-11-05 22:35:59 | [aoc-harness-cli](https://crates.io/crates/aoc-harness-cli) | 0.1.0 | 0 | Cargo subcommand for aoc-harness libraries |
+| 2026-11-05 22:39:19 | [reachmap](https://crates.io/crates/reachmap) | 0.1.0 | 0 | Shows which services on a host can be reached, from where, and why |
+| 2026-11-05 22:41:08 | [tomlgraft-core](https://crates.io/crates/tomlgraft-core) | 0.1.0 | 0 | Local, transactional TOML edits with bounded preservation guarantees |
+| 2026-11-05 22:41:11 | [tomlgraft](https://crates.io/crates/tomlgraft) | 0.1.0 | 0 | Small, reviewable TOML edits |
+| 2026-11-05 22:41:20 | [rigorix-gate-wasm](https://crates.io/crates/rigorix-gate-wasm) | 1.13.0 | 0 | Portable Rigorix gate seam — deterministic WebAssembly slice that evaluates a p… |
+| 2026-11-05 22:44:32 | [lance-nd](https://crates.io/crates/lance-nd) | 0.1.0 | 0 | N-dimensional datasets stored in Lance, one dataset or chunk per row |
+| 2026-11-05 22:57:12 | [rscm-fair](https://crates.io/crates/rscm-fair) | 0.7.0 | 0 | FaIR v2 components for RSCM |
+| 2026-11-05 23:03:00 | [rs-pgcopy2rbat](https://crates.io/crates/rs-pgcopy2rbat) | 0.1.0 | 0 | Convert PostgreSQL binary COPY to Arrow RecordBatch |
+| 2026-11-05 23:17:27 | [axa-environment](https://crates.io/crates/axa-environment) | 0.1.0 | 0 | Which environment a service runs in, read one way, with no dependencies. |
+| 2026-11-05 23:17:31 | [axa-diesel](https://crates.io/crates/axa-diesel) | 0.1.0 | 0 | Diesel pooling, migrations, and test resets for Axum services, in pure Rust. |
+| 2026-11-05 23:17:33 | [axa-tera](https://crates.io/crates/axa-tera) | 0.1.0 | 0 | Tera templates with safe escaping and generic errors for Axum services. |
+| 2026-11-05 23:17:36 | [axa-openapi](https://crates.io/crates/axa-openapi) | 0.1.0 | 0 | Serve OpenAPI documents and a pinned Swagger UI from Axum services. |
+| 2026-11-05 23:17:39 | [axa-redis](https://crates.io/crates/axa-redis) | 0.1.0 | 0 | A Redis cache with mandatory expiry for Axum services. |
+| 2026-11-05 23:20:12 | [onebudgetspec-github-action](https://crates.io/crates/onebudgetspec-github-action) | 0.1.0 | 0 | Run onebudgetspec budget reports from GitHub Actions or the command line |
+| 2026-11-05 23:20:15 | [pidge-gmail](https://crates.io/crates/pidge-gmail) | 2.0.0 | 0 | Gmail and Google Calendar provider for pidge |
+| 2026-11-05 23:20:57 | [pidge-store](https://crates.io/crates/pidge-store) | 2.0.0 | 0 | pidge's local index: handles, a rebuildable mail and calendar index, plans, und… |
 
 ## Data source
 
