@@ -1,0 +1,27 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-05T02:20:26.052591Z,wormx-core,0.1.0,0,0,https://github.com/strawberyy-coconut/wormx,"Core runtime, dialect traits, and typed query DSL for wormx."
+2026-11-05T02:20:28.829581Z,wormx-macros-core,0.1.0,0,0,https://github.com/strawberyy-coconut/wormx,"Schema introspection, caching, and code generation for wormx's table! macro."
+2026-11-05T02:20:31.626023Z,wormx-drivers-mssql,0.1.0,0,0,https://github.com/strawberyy-coconut/wormx,Microsoft SQL Server dialect and compile-time introspection for wormx.
+2026-11-05T02:20:32.424965Z,wormx-drivers-mysql,0.1.0,0,0,https://github.com/strawberyy-coconut/wormx,MySQL dialect and compile-time introspection for wormx.
+2026-11-05T02:22:50.614184Z,neocogi-ui-support,0.1.0-alpha.2,0,0,https://github.com/NeoCogi/neocogi-ui,Non-deployable resource and presentation helpers shared by UI providers
+2026-11-05T02:24:30.266704Z,openside,0.1.0,0,0,https://github.com/schnnjuan/openside,"A polished ratatui terminal interface for sideloading .ipas to your iPhone — ls/cd .ipa browser, expiry tracking, full English/pt-BR interface."
+2026-11-05T02:30:38.078451Z,feathrise_grounding,0.1.0,0,0,https://github.com/hwyrq/feathrise_runtime,Terrain grounding and shared surface placement for Bevy scenes
+2026-11-05T02:31:00.786758Z,umpire-core,0.1.0,0,0,https://github.com/umpire-tools/umpire-rust,Rust-native Umpire semantics: a live evaluator for Umpire availability schemas
+2026-11-05T02:32:59.117014Z,neocogi-ui-runtime,0.1.0-alpha.2,0,0,https://github.com/NeoCogi/neocogi-ui,"Deployable core retained UI runtime, scoped services, surfaces and menus"
+2026-11-05T02:33:35.701833Z,xplm-egui,0.2.0,0,0,https://codeberg.org/skiselkov/xplm-egui.git,Convenience integration to use Egui in X-Plane for plugin GUIs
+2026-11-05T02:40:15.990693Z,bevy_metal_timestamps,0.1.0,0,0,https://github.com/ShaneBreazeale/bevy-metal-timestamps,Real per-frame GPU time for Bevy 0.20 on Metal (Apple GPUs) via pass-boundary timestamp queries
+2026-11-05T02:43:16.935072Z,neocogi-ui-nodes,0.1.0-alpha.2,0,0,https://github.com/NeoCogi/neocogi-ui,Deployable built-in NeoCogi UI node implementations and standard compositions
+2026-11-05T02:53:23.292887Z,neocogi-ui-runtime-dylib,0.1.0-alpha.2,0,0,https://github.com/NeoCogi/neocogi-ui,Final dynamic entrypoint for neocogi-ui-runtime
+2026-11-05T02:58:36.626762Z,process-tree-guard,0.5.0,0,0,https://github.com/WikdSolvemProbler/process-tree-guard,Runs one command under a finite deadline and ends the whole process tree at the deadline.
+2026-11-05T03:03:29.507383Z,neocogi-ui-nodes-dylib,0.1.0-alpha.2,0,0,https://github.com/NeoCogi/neocogi-ui,Final dynamic entrypoint for neocogi-ui-nodes
+2026-11-05T03:04:18.332639Z,feathrise_vegetation,0.1.0,0,0,https://github.com/hwyrq/feathrise_runtime,Deterministic vegetation distribution and spatial competition for Bevy
+2026-11-05T03:04:38.526941Z,feathrise_environment,0.1.0,0,0,https://github.com/hwyrq/feathrise_runtime,Unified vegetation distribution and rendering entry point for Bevy
+2026-11-05T03:04:53.806294Z,feathrise_settings,0.1.0,0,0,https://github.com/hwyrq/feathrise_runtime,Shared rendering quality parameters and runtime backend state
+2026-11-05T03:08:50.757197Z,lumi-extension-api,0.3.1,0,0,,Write Lumi extensions in Rust: the typed host bindings and the export macro.
+2026-11-05T03:13:35.866311Z,neocogi-skin-authoring,0.1.0-alpha.2,0,0,https://github.com/NeoCogi/neocogi-ui,Shared typed theme documents and compilation for NeoCogi tools and Skin
+2026-11-05T03:14:08.074836Z,mnn-cli,1.0.0-alpha1,0,0,https://github.com/farhnkrnapratma/mnn,Easily update all your packages with a single command and keep your system up to date
+2026-11-05T03:14:25.451822Z,mdrs,1.0.0-alpha1,0,0,https://github.com/farhnkrnapratma/mdrs,MDRS (Markdown Rich Syntax): a drop-in superset of Markdown
+2026-11-05T03:14:32.260528Z,markers,1.0.0-alpha1,0,0,https://github.com/farhnkrnapratma/markers,High-performance HTML to Markdown conversion for LLMs
+2026-11-05T03:14:36.127911Z,pelers,1.0.0-alpha1,0,0,https://github.com/farhnkrnapratma/pelers,"Pele, but in Rust"
+2026-11-05T03:18:38.547787Z,feathrise_atmosphere,0.1.0,0,0,https://github.com/hwyrq/feathrise_runtime,"World time, celestial lighting and weather for Bevy scenes"
+2026-11-05T03:18:55.762294Z,feathrise_editor_protocol,0.1.0,0,0,https://github.com/hwyrq/feathrise_runtime,Bounded process protocol for Feathrise resident project views
