@@ -8,79 +8,66 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-05 15:22 UTC
+## Latest list — 2026-11-05 16:18 UTC
 
-New crates published between 2026-11-05 14:20 UTC and 2026-11-05 15:22 UTC.
+New crates published between 2026-11-05 15:22 UTC and 2026-11-05 16:18 UTC.
 
-[Full CSV](data/new-crates-2026-11-05T15-22-16-128754Z.csv)
+[Full CSV](data/new-crates-2026-11-05T16-18-42-978836Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-05 14:23:11 | [windeye](https://crates.io/crates/windeye) | 0.0.0 | 0 | Reserved for Windeye |
-| 2026-11-05 14:23:18 | [rake-protocol](https://crates.io/crates/rake-protocol) | 0.1.0-alpha.2 | 0 | Portable Rake routes, snapshots and development wire contracts |
-| 2026-11-05 14:24:22 | [pod-quick](https://crates.io/crates/pod-quick) | 0.0.0 | 0 | Name held for the PodUtils project. Placeholder: the first release is in progre… |
-| 2026-11-05 14:26:28 | [dorm-outbox](https://crates.io/crates/dorm-outbox) | 0.1.0 | 0 | Optional generic transactional outbox/inbox for DORM: append-only events publis… |
-| 2026-11-05 14:27:55 | [dorker](https://crates.io/crates/dorker) | 0.1.1 | 0 | Docker for headless Android emulator environments |
-| 2026-11-05 14:29:07 | [ebook-hero](https://crates.io/crates/ebook-hero) | 0.3.0 | 0 | Search and read one PDF or EPUB: lexical, semantic and hybrid search, with loca… |
-| 2026-11-05 14:30:35 | [pm-tc](https://crates.io/crates/pm-tc) | 0.1.0-a1 | 0 | 胖喵模板配置工具. Template config tool. |
-| 2026-11-05 14:33:14 | [opencolorio-rs-ops](https://crates.io/crates/opencolorio-rs-ops) | 1.0.0+ocio.2.5.2 | 0 | OpenColorIO ops: op data, CPU renderers (numeric profiles), optimizer, pixel fo… |
-| 2026-11-05 14:33:16 | [opencolorio-rs-formats](https://crates.io/crates/opencolorio-rs-formats) | 1.0.0+ocio.2.5.2 | 0 | OpenColorIO LUT and transform file readers and writers |
-| 2026-11-05 14:33:17 | [opencolorio-rs-gpu](https://crates.io/crates/opencolorio-rs-gpu) | 1.0.0+ocio.2.5.2 | 0 | OpenColorIO GPU shader generation, textures and uniforms |
-| 2026-11-05 14:33:18 | [opencolorio-rs](https://crates.io/crates/opencolorio-rs) | 1.0.0+ocio.2.5.2 | 0 | OpenColorIO 2.5.2, ported to Rust: configs, transforms, processors |
-| 2026-11-05 14:33:26 | [rake-http](https://crates.io/crates/rake-http) | 0.1.0-alpha.2 | 0 | Executor-portable HTTP with bounded deadlines and diagnostics |
-| 2026-11-05 14:34:32 | [pod-udp](https://crates.io/crates/pod-udp) | 0.0.0 | 0 | Name held for the PodUtils project. Placeholder: the first release is in progre… |
-| 2026-11-05 14:35:49 | [hatls-client-ffi](https://crates.io/crates/hatls-client-ffi) | 0.1.0 | 0 | http-api-tls-sdk mobile FFI: UniFFI bindings exposing the client secure channel… |
-| 2026-11-05 14:36:41 | [cuadb](https://crates.io/crates/cuadb) | 0.1.0 | 0 | A local-first database explorer and SQL workspace for PostgreSQL and SQLite, in… |
-| 2026-11-05 14:40:22 | [opencode-zen](https://crates.io/crates/opencode-zen) | 0.1.4 | 0 | Auto-generated Rust SDK for OpenCode Zen API (chat completions) |
-| 2026-11-05 14:41:50 | [qos_attestation](https://crates.io/crates/qos_attestation) | 0.15.2-alpha.0 | 0 | Attestation, verification and caching for QuorumOS |
-| 2026-11-05 14:43:37 | [rake-client](https://crates.io/crates/rake-client) | 0.1.0-alpha.2 | 0 | Standalone discovery and development control client for Rake |
-| 2026-11-05 14:44:41 | [pod-mailbox](https://crates.io/crates/pod-mailbox) | 0.0.0 | 0 | Name held for the PodUtils project. Placeholder: the first release is in progre… |
-| 2026-11-05 14:44:45 | [compresso-rs](https://crates.io/crates/compresso-rs) | 0.1.0 | 0 | Pure Rust implementation of the Compresso codec for connectomics segmentation v… |
-| 2026-11-05 14:45:50 | [shep-openbao](https://crates.io/crates/shep-openbao) | 0.1.1 | 0 | A provider dog for shep: mirrors secrets from OpenBao into shep's secrets store |
-| 2026-11-05 14:46:56 | [scarletbook-ffi](https://crates.io/crates/scarletbook-ffi) | 0.5.8 | 0 | C ABI for scarletbook, a clean-room Super Audio CD image reader |
-| 2026-11-05 14:48:06 | [music21](https://crates.io/crates/music21) | 0.17.0 | 0 | A Rust port of music21: pitches, chords, keys, scores and streams, analysis, an… |
-| 2026-11-05 14:52:13 | [seedcrystal](https://crates.io/crates/seedcrystal) | 0.2.0 | 0 | DNS seeder (dnsseed) for Bitcoin-protocol UTXO chains |
-| 2026-11-05 14:52:32 | [circlet-wire](https://crates.io/crates/circlet-wire) | 0.1.0 | 0 | The Circlet guest ABI wire contract: envelope types, their postcard encoding, a… |
-| 2026-11-05 14:52:38 | [circlet-requirements](https://crates.io/crates/circlet-requirements) | 0.1.0 | 0 | The requirements! macro: an artifact declares what it needs, inside its own con… |
-| 2026-11-05 14:52:44 | [circlet-guest](https://crates.io/crates/circlet-guest) | 0.1.0 | 0 | Write a Circlet guest without touching the ABI: guest_main!, typed fetch/delega… |
-| 2026-11-05 14:53:45 | [rake-resources](https://crates.io/crates/rake-resources) | 0.1.0-alpha.2 | 0 | Installed resource and helper discovery for Rake applications |
-| 2026-11-05 14:54:11 | [celesta](https://crates.io/crates/celesta) | 0.0.0 | 0 | Placeholder for the Celesta project. The real crate is not published yet. |
-| 2026-11-05 14:54:17 | [celesta-budoux](https://crates.io/crates/celesta-budoux) | 0.0.0 | 0 | Placeholder for the Celesta project. The real crate is not published yet. |
-| 2026-11-05 14:54:26 | [celesta-codec-ffmpeg](https://crates.io/crates/celesta-codec-ffmpeg) | 0.0.0 | 0 | Placeholder for the Celesta project. The real crate is not published yet. |
-| 2026-11-05 14:54:31 | [celesta-composition](https://crates.io/crates/celesta-composition) | 0.0.0 | 0 | Placeholder for the Celesta project. The real crate is not published yet. |
-| 2026-11-05 14:54:35 | [celesta-editor-core](https://crates.io/crates/celesta-editor-core) | 0.0.0 | 0 | Placeholder for the Celesta project. The real crate is not published yet. |
-| 2026-11-05 14:54:49 | [pod-reverse](https://crates.io/crates/pod-reverse) | 0.0.0 | 0 | Name held for the PodUtils project. Placeholder: the first release is in progre… |
-| 2026-11-05 15:01:42 | [trosna](https://crates.io/crates/trosna) | 0.1.0 | 0 | Memory-safe columnar time-series file format with verifiable, versioned editing… |
-| 2026-11-05 15:01:45 | [trosna-arrow](https://crates.io/crates/trosna-arrow) | 0.1.0 | 0 | Apache Arrow adapter for the Trosna time-series file format |
-| 2026-11-05 15:01:47 | [trosna-cli](https://crates.io/crates/trosna-cli) | 0.1.0 | 0 | Command-line tool for Trosna time-series files (.trosna): CSV conversion, inspe… |
-| 2026-11-05 15:02:26 | [uuid-slug](https://crates.io/crates/uuid-slug) | 0.6.0 | 0 | Compact UUIDs with reversible UUIDv7 masking and filesystem-safe representations |
-| 2026-11-05 15:03:55 | [rake-updates](https://crates.io/crates/rake-updates) | 0.1.0-alpha.2 | 0 | Native update providers and application lifecycle support for Rake |
-| 2026-11-05 15:04:44 | [celesta-editor-theme](https://crates.io/crates/celesta-editor-theme) | 0.0.0 | 0 | Placeholder for the Celesta project. The real crate is not published yet. |
-| 2026-11-05 15:04:59 | [pod-utils](https://crates.io/crates/pod-utils) | 0.0.0 | 0 | Name held for the PodUtils project. Placeholder: the first release is in progre… |
-| 2026-11-05 15:09:23 | [shep-paddock](https://crates.io/crates/shep-paddock) | 0.1.0 | 0 | A shep dog that leases one host's GPU and RAM to model servers and jobs, behind… |
-| 2026-11-05 15:09:27 | [fraction-royalty-calc](https://crates.io/crates/fraction-royalty-calc) | 1.0.0 | 0 | Tiny helper for oil and gas fraction royalty decimal math used by Fraction Roya… |
-| 2026-11-05 15:10:43 | [test-memory-r-engine](https://crates.io/crates/test-memory-r-engine) | 0.1.1 | 0 | The engine of TMR (Test Memory R), a DDR5 memory tester for Windows: its tests,… |
-| 2026-11-05 15:10:46 | [test-memory-r-cli](https://crates.io/crates/test-memory-r-cli) | 0.1.1 | 0 | The console of TMR (Test Memory R), a DDR5 memory tester for Windows: a session… |
-| 2026-11-05 15:10:50 | [test-memory-r-gui](https://crates.io/crates/test-memory-r-gui) | 0.1.1 | 0 | The window of TMR (Test Memory R), a DDR5 memory tester for Windows: a run's pr… |
-| 2026-11-05 15:10:53 | [test-memory-r](https://crates.io/crates/test-memory-r) | 0.1.1 | 0 | TMR (Test Memory R), a DDR5 memory tester for Windows that runs TestMem5 config… |
-| 2026-11-05 15:10:59 | [riffdb-config](https://crates.io/crates/riffdb-config) | 0.1.0 | 0 | First-party RiffDB runtime crate (riffdb-config) |
-| 2026-11-05 15:11:01 | [riffdb-client-rust](https://crates.io/crates/riffdb-client-rust) | 0.1.0 | 0 | First-party RiffDB runtime crate (riffdb-client-rust) |
-| 2026-11-05 15:11:16 | [onebudgetspec-plugin-onevcs](https://crates.io/crates/onebudgetspec-plugin-onevcs) | 0.1.0 | 0 | Deliver onebudgetspec reports and read saved base-branch budget history through… |
-| 2026-11-05 15:14:08 | [rak](https://crates.io/crates/rak) | 0.1.0-alpha.2 | 0 | Portable application foundation for GPUI native and browser applications |
-| 2026-11-05 15:14:52 | [celesta-editor](https://crates.io/crates/celesta-editor) | 0.0.0 | 0 | Placeholder for the Celesta project. The real crate is not published yet. |
-| 2026-11-05 15:15:02 | [synra-plugin-sdk](https://crates.io/crates/synra-plugin-sdk) | 0.1.0 | 0 | What a Synra plugin is written against: the generated host bindings and the typ… |
-| 2026-11-05 15:15:10 | [podnet-core](https://crates.io/crates/podnet-core) | 0.0.0 | 0 | The core of podnet. Placeholder: the first release is in progress. |
-| 2026-11-05 15:15:41 | [synra-platform](https://crates.io/crates/synra-platform) | 0.1.0 | 0 | Host system capabilities: the Platform trait and the rules that bound it |
-| 2026-11-05 15:16:02 | [synra-control](https://crates.io/crates/synra-control) | 0.1.0 | 0 | The channel between a command-line client and a kernel on the same machine |
-| 2026-11-05 15:16:22 | [synra-ipc](https://crates.io/crates/synra-ipc) | 0.1.0 | 0 | The contract between the host shell and its interface: commands, events and err… |
-| 2026-11-05 15:17:52 | [synra-core](https://crates.io/crates/synra-core) | 0.1.0 | 0 | The kernel: domain model, aggregates, state machines and orchestration |
-| 2026-11-05 15:18:25 | [wcoj](https://crates.io/crates/wcoj) | 0.1.0 | 0 | Leapfrog Triejoin over flat tries for K-ary relations and N-variable queries, w… |
-| 2026-11-05 15:18:28 | [odos](https://crates.io/crates/odos) | 0.0.2 | 0 | File-based routing for Dioxus |
-| 2026-11-05 15:21:37 | [kodact-config](https://crates.io/crates/kodact-config) | 0.1.0 | 0 | Settings layers, memory files (KODACT.md) and resource search paths. |
-| 2026-11-05 15:21:39 | [kodact-platform](https://crates.io/crates/kodact-platform) | 0.1.0 | 0 | OS differences in one place: the shell commands run in, process trees, path dis… |
-| 2026-11-05 15:21:42 | [kodact-types](https://crates.io/crates/kodact-types) | 0.1.0 | 0 | Wire types: Messages API content blocks, stream events and the SDK stream-json… |
-| 2026-11-05 15:21:50 | [kodact-api](https://crates.io/crates/kodact-api) | 0.1.0 | 0 | Model providers: the Messages API (SSE streaming), OpenAI-compatible endpoints,… |
-| 2026-11-05 15:21:52 | [kodact-compact](https://crates.io/crates/kodact-compact) | 0.1.0 | 0 | Context compaction (contract C9): micro-compaction of stale tool results, thres… |
+| 2026-11-05 15:22:32 | [odos-build](https://crates.io/crates/odos-build) | 0.0.1 | 0 | Build-time route generator for odos (file-based routing for Dioxus) |
+| 2026-11-05 15:24:17 | [rake-build](https://crates.io/crates/rake-build) | 0.1.0-alpha.2 | 0 | Build script helpers for Rake applications |
+| 2026-11-05 15:24:58 | [celesta-evaluator](https://crates.io/crates/celesta-evaluator) | 0.0.0 | 0 | Placeholder for the Celesta project. The real crate is not published yet. |
+| 2026-11-05 15:25:20 | [podnet-netns](https://crates.io/crates/podnet-netns) | 0.0.0 | 0 | Run a program with all its network traffic sent through an upstream, with no LD… |
+| 2026-11-05 15:29:03 | [playdoobs](https://crates.io/crates/playdoobs) | 0.0.0 | 0 | Service and matching CLI application for controlling the currently active MPRIS… |
+| 2026-11-05 15:34:27 | [rake-dist-linux](https://crates.io/crates/rake-dist-linux) | 0.1.0-alpha.2 | 0 | Linux packaging and integration for Rake applications |
+| 2026-11-05 15:35:03 | [scinumtools3-sys](https://crates.io/crates/scinumtools3-sys) | 0.10.0 | 0 | Raw C ABI bindings for SciNumTools3 |
+| 2026-11-05 15:35:06 | [scinumtools3](https://crates.io/crates/scinumtools3) | 0.10.0 | 0 | Safe Rust API for SciNumTools3 DIPL projects and DIPH5 archives |
+| 2026-11-05 15:35:07 | [celesta-exporter](https://crates.io/crates/celesta-exporter) | 0.0.0 | 0 | Placeholder for the Celesta project. The real crate is not published yet. |
+| 2026-11-05 15:35:30 | [podnet-vnet](https://crates.io/crates/podnet-vnet) | 0.0.0 | 0 | The virtual network of podnet. Placeholder: the first release is in progress. |
+| 2026-11-05 15:36:53 | [yororen_ui_winui_renderer](https://crates.io/crates/yororen_ui_winui_renderer) | 0.4.0 | 0 | WinUI-style renderer for yororen-ui headless primitives. Ships the 55 XxxRender… |
+| 2026-11-05 15:37:21 | [daywatch-cal](https://crates.io/crates/daywatch-cal) | 0.1.0 | 0 | Scheduling intelligence for daywatch — RangeEvaluator, conflict detection, free… |
+| 2026-11-05 15:39:03 | [silver_state_hashing](https://crates.io/crates/silver_state_hashing) | 0.1.0 | 0 | Merkle hashing for Ethereum beacon states: rehashes only changed paths in batch… |
+| 2026-11-05 15:40:19 | [tla-tools-intern](https://crates.io/crates/tla-tools-intern) | 0.1.0 | 0 | Process-wide string interner for TLA+ identifiers and strings |
+| 2026-11-05 15:40:21 | [tla-tools-ast](https://crates.io/crates/tla-tools-ast) | 0.1.0 | 0 | Syntax tree for TLA+ modules |
+| 2026-11-05 15:40:24 | [tla-tools-value](https://crates.io/crates/tla-tools-value) | 0.1.0 | 0 | TLA+ values with TLC's equality, ordering, and printing |
+| 2026-11-05 15:40:27 | [tla-tools-parser](https://crates.io/crates/tla-tools-parser) | 0.1.0 | 0 | Parses TLA+ modules and TLC configuration files |
+| 2026-11-05 15:40:31 | [tla-tools-resolve](https://crates.io/crates/tla-tools-resolve) | 0.1.0 | 0 | Resolves names in TLA+ modules into an evaluable program |
+| 2026-11-05 15:44:36 | [rake-dist-macos](https://crates.io/crates/rake-dist-macos) | 0.1.0-alpha.2 | 0 | macOS packaging, signing and notarization for Rake applications |
+| 2026-11-05 15:45:12 | [celesta-gpu-renderer](https://crates.io/crates/celesta-gpu-renderer) | 0.0.0 | 0 | Placeholder for the Celesta project. The real crate is not published yet. |
+| 2026-11-05 15:45:40 | [podnet-serve](https://crates.io/crates/podnet-serve) | 0.0.0 | 0 | The servers of podnet. Placeholder: the first release is in progress. |
+| 2026-11-05 15:46:11 | [kodact-git](https://crates.io/crates/kodact-git) | 0.1.0 | 0 | Git facts for the prompt and session metadata; worktrees. |
+| 2026-11-05 15:46:15 | [kodact-hooks](https://crates.io/crates/kodact-hooks) | 0.1.0 | 0 | Hook events, matchers and the command runner (contract C11). |
+| 2026-11-05 15:47:35 | [nd-arrow-array](https://crates.io/crates/nd-arrow-array) | 0.5.0 | 0 | N-dimensional Arrow arrays as an Arrow extension type |
+| 2026-11-05 15:50:57 | [kontext](https://crates.io/crates/kontext) | 0.0.0 | 0 | Project memory for coding agents. Name reserved; the first release is on its wa… |
+| 2026-11-05 15:51:12 | [tla-tools-eval](https://crates.io/crates/tla-tools-eval) | 0.1.0 | 0 | Evaluates resolved TLA+ specifications |
+| 2026-11-05 15:53:22 | [jvm-link](https://crates.io/crates/jvm-link) | 0.1.0 | 0 | Borrow an existing in-process Java 21 JVM on Windows x64 |
+| 2026-11-05 15:54:44 | [rake-dist-windows](https://crates.io/crates/rake-dist-windows) | 0.1.0-alpha.2 | 0 | Windows packaging and executable manifests for Rake applications |
+| 2026-11-05 15:55:18 | [celesta-mcp](https://crates.io/crates/celesta-mcp) | 0.0.0 | 0 | Placeholder for the Celesta project. The real crate is not published yet. |
+| 2026-11-05 15:55:51 | [podssh-ssh](https://crates.io/crates/podssh-ssh) | 0.0.0 | 0 | The SSH layer of podssh. Placeholder: the first release is in progress. |
+| 2026-11-05 15:56:20 | [agentstategraph-sync-http](https://crates.io/crates/agentstategraph-sync-http) | 1.5.1 | 0 | Push and pull AgentStateGraph stores over HTTP: an embeddable sync router and a… |
+| 2026-11-05 16:02:43 | [tla-tools-checker](https://crates.io/crates/tla-tools-checker) | 0.1.0 | 0 | Checks TLA+ models as TLC does: spec processing, breadth-first search, and conf… |
+| 2026-11-05 16:02:45 | [autumn-command-palette-plugin](https://crates.io/crates/autumn-command-palette-plugin) | 0.1.0 | 0 | A ⌘K command palette widget pack for Autumn |
+| 2026-11-05 16:04:56 | [rake-dist](https://crates.io/crates/rake-dist) | 0.1.0-alpha.2 | 0 | Distribution planning and packaging for Rake applications |
+| 2026-11-05 16:05:26 | [celesta-media](https://crates.io/crates/celesta-media) | 0.0.0 | 0 | Placeholder for the Celesta project. The real crate is not published yet. |
+| 2026-11-05 16:06:01 | [podssh-irc](https://crates.io/crates/podssh-irc) | 0.0.0 | 0 | IRC support for podssh. Placeholder: the first release is in progress. |
+| 2026-11-05 16:09:06 | [canaima-gpu](https://crates.io/crates/canaima-gpu) | 0.1.0 | 0 | Detección robusta de GPU NVIDIA y parches de compatibilidad WebKitGTK / Wayland… |
+| 2026-11-05 16:09:25 | [canaima-titlebar](https://crates.io/crates/canaima-titlebar) | 0.1.0 | 0 | Barra de título GTK HeaderBar nativa personalizada para aplicaciones Canaima GN… |
+| 2026-11-05 16:09:43 | [canaima-updater](https://crates.io/crates/canaima-updater) | 0.1.0 | 0 | Módulo de actualización automática con interfaz nativa GTK y elevación segura c… |
+| 2026-11-05 16:11:32 | [kodact-permissions](https://crates.io/crates/kodact-permissions) | 0.1.0 | 0 | Permission modes, the rule grammar and the decision engine. |
+| 2026-11-05 16:11:44 | [kodact-session](https://crates.io/crates/kodact-session) | 0.1.0 | 0 | Session transcripts (JSONL), resume / continue / fork, and file checkpoints for… |
+| 2026-11-05 16:11:47 | [milo-guards-code](https://crates.io/crates/milo-guards-code) | 0.1.0 | 0 | Reads Python and JavaScript code and says what it is certain to do to files and… |
+| 2026-11-05 16:11:48 | [milo-guards-core](https://crates.io/crates/milo-guards-core) | 0.1.0 | 0 | What every guard shares: the verdict types, the path model and the test kit. |
+| 2026-11-05 16:11:50 | [milo-guards-file](https://crates.io/crates/milo-guards-file) | 0.1.0 | 0 | Judges one read or write of a path through a file API and says whether it is sa… |
+| 2026-11-05 16:11:50 | [milo-guards-secrets](https://crates.io/crates/milo-guards-secrets) | 0.1.0 | 0 | Reads a text and says whether it holds a credential (a key, a token, a password… |
+| 2026-11-05 16:11:51 | [milo-guards-shell](https://crates.io/crates/milo-guards-shell) | 0.1.0 | 0 | Reads a shell command line (POSIX shell, PowerShell or cmd) and says whether it… |
+| 2026-11-05 16:11:53 | [kodact-eval](https://crates.io/crates/kodact-eval) | 0.1.0 | 0 | Evaluation harness: runs kodact headless on a task suite and reports pass rate,… |
+| 2026-11-05 16:14:11 | [tla-tools](https://crates.io/crates/tla-tools) | 0.1.0 | 0 | Checks a TLA+ spec and its model configuration as `java tlc2.TLC` does |
+| 2026-11-05 16:14:41 | [speedle](https://crates.io/crates/speedle) | 0.1.0 | 0 | Client for the Speedle authorization decision service (Speedle Cloud and Speedl… |
+| 2026-11-05 16:15:10 | [rak-cli](https://crates.io/crates/rak-cli) | 0.1.0-alpha.2 | 0 | Terminal client for Rake development runtime control |
+| 2026-11-05 16:15:33 | [celesta-plugin-host](https://crates.io/crates/celesta-plugin-host) | 0.0.0 | 0 | Placeholder for the Celesta project. The real crate is not published yet. |
+| 2026-11-05 16:16:12 | [podssh-probe](https://crates.io/crates/podssh-probe) | 0.0.0 | 0 | The host probe of podssh. Placeholder: the first release is in progress. |
 
 ## Data source
 

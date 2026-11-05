@@ -1,0 +1,53 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-05T15:22:32.825073Z,odos-build,0.0.1,0,0,https://github.com/Dijaa/odos,Build-time route generator for odos (file-based routing for Dioxus)
+2026-11-05T15:24:17.453066Z,rake-build,0.1.0-alpha.2,0,0,https://github.com/1bye/rake,Build script helpers for Rake applications
+2026-11-05T15:24:58.906578Z,celesta-evaluator,0.0.0,0,0,https://github.com/mika-f/celesta,Placeholder for the Celesta project. The real crate is not published yet.
+2026-11-05T15:25:20.646846Z,podnet-netns,0.0.0,0,0,https://github.com/PodUtils/podnet,"Run a program with all its network traffic sent through an upstream, with no LD_PRELOAD. Placeholder: the first release is in progress."
+2026-11-05T15:29:03.963297Z,playdoobs,0.0.0,0,0,https://codeberg.org/qtea/playdoobs,Service and matching CLI application for controlling the currently active MPRIS2 player
+2026-11-05T15:34:27.469325Z,rake-dist-linux,0.1.0-alpha.2,0,0,https://github.com/1bye/rake,Linux packaging and integration for Rake applications
+2026-11-05T15:35:03.253045Z,scinumtools3-sys,0.10.0,0,0,https://github.com/scinumtools/snt3,Raw C ABI bindings for SciNumTools3
+2026-11-05T15:35:06.318184Z,scinumtools3,0.10.0,0,0,https://github.com/scinumtools/snt3,Safe Rust API for SciNumTools3 DIPL projects and DIPH5 archives
+2026-11-05T15:35:07.020679Z,celesta-exporter,0.0.0,0,0,https://github.com/mika-f/celesta,Placeholder for the Celesta project. The real crate is not published yet.
+2026-11-05T15:35:30.56475Z,podnet-vnet,0.0.0,0,0,https://github.com/PodUtils/podnet,The virtual network of podnet. Placeholder: the first release is in progress.
+2026-11-05T15:36:53.710946Z,yororen_ui_winui_renderer,0.4.0,0,0,https://github.com/MeowLynxSea/yororen-ui,"WinUI-style renderer for yororen-ui headless primitives. Ships the 55 XxxRenderer traits + WinUIXxxRenderer implementations, WinUI light/dark JSON themes, and a one-call install helper."
+2026-11-05T15:37:21.143132Z,daywatch-cal,0.1.0,0,0,https://github.com/sdougbrown/daywatch-cal,"Scheduling intelligence for daywatch — RangeEvaluator, conflict detection, free-slot finding"
+2026-11-05T15:39:03.578429Z,silver_state_hashing,0.1.0,0,0,https://github.com/gattaca-com/silver,"Merkle hashing for Ethereum beacon states: rehashes only changed paths in batched SIMD calls, and forks share unchanged data in copy-on-write pages"
+2026-11-05T15:40:19.494589Z,tla-tools-intern,0.1.0,0,0,https://github.com/bbcvc/tla-rs,Process-wide string interner for TLA+ identifiers and strings
+2026-11-05T15:40:21.807977Z,tla-tools-ast,0.1.0,0,0,https://github.com/bbcvc/tla-rs,Syntax tree for TLA+ modules
+2026-11-05T15:40:24.609639Z,tla-tools-value,0.1.0,0,0,https://github.com/bbcvc/tla-rs,"TLA+ values with TLC's equality, ordering, and printing"
+2026-11-05T15:40:27.168529Z,tla-tools-parser,0.1.0,0,0,https://github.com/bbcvc/tla-rs,Parses TLA+ modules and TLC configuration files
+2026-11-05T15:40:31.450979Z,tla-tools-resolve,0.1.0,0,0,https://github.com/bbcvc/tla-rs,Resolves names in TLA+ modules into an evaluable program
+2026-11-05T15:44:36.358243Z,rake-dist-macos,0.1.0-alpha.2,0,0,https://github.com/1bye/rake,"macOS packaging, signing and notarization for Rake applications"
+2026-11-05T15:45:12.154064Z,celesta-gpu-renderer,0.0.0,0,0,https://github.com/mika-f/celesta,Placeholder for the Celesta project. The real crate is not published yet.
+2026-11-05T15:45:40.982366Z,podnet-serve,0.0.0,0,0,https://github.com/PodUtils/podnet,The servers of podnet. Placeholder: the first release is in progress.
+2026-11-05T15:46:11.299669Z,kodact-git,0.1.0,0,0,https://github.com/AmineXSaid/KodAct,Git facts for the prompt and session metadata; worktrees.
+2026-11-05T15:46:15.63271Z,kodact-hooks,0.1.0,0,0,https://github.com/AmineXSaid/KodAct,"Hook events, matchers and the command runner (contract C11)."
+2026-11-05T15:47:35.377462Z,nd-arrow-array,0.5.0,0,0,https://github.com/robinskil/nd-arrow-array,N-dimensional Arrow arrays as an Arrow extension type
+2026-11-05T15:50:57.417862Z,kontext,0.0.0,0,0,,Project memory for coding agents. Name reserved; the first release is on its way.
+2026-11-05T15:51:12.568521Z,tla-tools-eval,0.1.0,0,0,https://github.com/bbcvc/tla-rs,Evaluates resolved TLA+ specifications
+2026-11-05T15:53:22.575824Z,jvm-link,0.1.0,0,0,https://github.com/Sol1de/jvm-link,Borrow an existing in-process Java 21 JVM on Windows x64
+2026-11-05T15:54:44.069769Z,rake-dist-windows,0.1.0-alpha.2,0,0,https://github.com/1bye/rake,Windows packaging and executable manifests for Rake applications
+2026-11-05T15:55:18.341991Z,celesta-mcp,0.0.0,0,0,https://github.com/mika-f/celesta,Placeholder for the Celesta project. The real crate is not published yet.
+2026-11-05T15:55:51.97551Z,podssh-ssh,0.0.0,0,0,https://github.com/PodUtils/podssh,The SSH layer of podssh. Placeholder: the first release is in progress.
+2026-11-05T15:56:20.339043Z,agentstategraph-sync-http,1.5.1,0,0,https://github.com/agentstatelabs/agentstategraph,Push and pull AgentStateGraph stores over HTTP: an embeddable sync router and a client
+2026-11-05T16:02:43.52343Z,tla-tools-checker,0.1.0,0,0,https://github.com/bbcvc/tla-rs,"Checks TLA+ models as TLC does: spec processing, breadth-first search, and conformance"
+2026-11-05T16:02:45.360685Z,autumn-command-palette-plugin,0.1.0,0,0,https://github.com/autumn-foundation/autumn-plugin-command-palette,A ⌘K command palette widget pack for Autumn
+2026-11-05T16:04:56.193737Z,rake-dist,0.1.0-alpha.2,0,0,https://github.com/1bye/rake,Distribution planning and packaging for Rake applications
+2026-11-05T16:05:26.173634Z,celesta-media,0.0.0,0,0,https://github.com/mika-f/celesta,Placeholder for the Celesta project. The real crate is not published yet.
+2026-11-05T16:06:01.466017Z,podssh-irc,0.0.0,0,0,https://github.com/PodUtils/podssh,IRC support for podssh. Placeholder: the first release is in progress.
+2026-11-05T16:09:06.855623Z,canaima-gpu,0.1.0,0,0,https://github.com/SistemaOperativoCanaima/rust-gpu-canaima,Detección robusta de GPU NVIDIA y parches de compatibilidad WebKitGTK / Wayland para Canaima GNU/Linux
+2026-11-05T16:09:25.329636Z,canaima-titlebar,0.1.0,0,0,https://github.com/SistemaOperativoCanaima/rust-titlebar-canaima,Barra de título GTK HeaderBar nativa personalizada para aplicaciones Canaima GNU/Linux
+2026-11-05T16:09:43.79814Z,canaima-updater,0.1.0,0,0,https://github.com/SistemaOperativoCanaima/rust-updater-main,Módulo de actualización automática con interfaz nativa GTK y elevación segura con pkexec para Canaima GNU/Linux
+2026-11-05T16:11:32.382215Z,kodact-permissions,0.1.0,0,0,https://github.com/AmineXSaid/KodAct,"Permission modes, the rule grammar and the decision engine."
+2026-11-05T16:11:44.941389Z,kodact-session,0.1.0,0,0,https://github.com/AmineXSaid/KodAct,"Session transcripts (JSONL), resume / continue / fork, and file checkpoints for rewind."
+2026-11-05T16:11:47.395146Z,milo-guards-code,0.1.0,0,0,https://github.com/camiloazula/milo-guards,"Reads Python and JavaScript code and says what it is certain to do to files and what it runs, or that it does not understand it."
+2026-11-05T16:11:48.137464Z,milo-guards-core,0.1.0,0,0,https://github.com/camiloazula/milo-guards,"What every guard shares: the verdict types, the path model and the test kit."
+2026-11-05T16:11:50.066161Z,milo-guards-file,0.1.0,0,0,https://github.com/camiloazula/milo-guards,"Judges one read or write of a path through a file API and says whether it is safe without asking, or risky and why."
+2026-11-05T16:11:50.591245Z,milo-guards-secrets,0.1.0,0,0,https://github.com/camiloazula/milo-guards,"Reads a text and says whether it holds a credential (a key, a token, a password) or personal data, and where."
+2026-11-05T16:11:51.630948Z,milo-guards-shell,0.1.0,0,0,https://github.com/camiloazula/milo-guards,"Reads a shell command line (POSIX shell, PowerShell or cmd) and says whether it is safe to run without asking, or risky and why."
+2026-11-05T16:11:53.267999Z,kodact-eval,0.1.0,0,0,https://github.com/AmineXSaid/KodAct,"Evaluation harness: runs kodact headless on a task suite and reports pass rate, cost, turns, time, recovery and false finishes (docs/GOALS.md)."
+2026-11-05T16:14:11.481387Z,tla-tools,0.1.0,0,0,https://github.com/bbcvc/tla-rs,Checks a TLA+ spec and its model configuration as `java tlc2.TLC` does
+2026-11-05T16:14:41.633888Z,speedle,0.1.0,0,0,https://github.com/teramoby/speedle-sdk,Client for the Speedle authorization decision service (Speedle Cloud and Speedle+)
+2026-11-05T16:15:10.384007Z,rak-cli,0.1.0-alpha.2,0,0,https://github.com/1bye/rake,Terminal client for Rake development runtime control
+2026-11-05T16:15:33.716143Z,celesta-plugin-host,0.0.0,0,0,https://github.com/mika-f/celesta,Placeholder for the Celesta project. The real crate is not published yet.
+2026-11-05T16:16:12.619745Z,podssh-probe,0.0.0,0,0,https://github.com/PodUtils/podssh,The host probe of podssh. Placeholder: the first release is in progress.
