@@ -1,0 +1,37 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-05T20:27:34.590261Z,rushdb-grpc,3.0.3,0,0,https://github.com/rush-db/rushdb,Internal component of the RushDB server: gRPC transport. No stable API; install rushdb-server instead.
+2026-11-05T20:27:57.420684Z,rushdb-backup,3.0.3,0,0,https://github.com/rush-db/rushdb,Internal component of the RushDB server: logical backup and restore. No stable API; install rushdb-server instead.
+2026-11-05T20:28:06.825475Z,kekkai-sandbox,0.3.0,0,0,https://github.com/Sannrox/kekkai,"Sandbox child processes on Linux and macOS from Rust: Landlock or Seatbelt filesystem allowlist, network gate, and resource limits applied before spawn."
+2026-11-05T20:28:20.396318Z,rushdb-raft,3.0.3,0,0,https://github.com/rush-db/rushdb,Internal component of the RushDB server: consensus integration. No stable API; install rushdb-server instead.
+2026-11-05T20:29:03.675454Z,rushdb-textsearch,3.0.3,0,0,https://github.com/rush-db/rushdb,Internal component of the RushDB server: full-text indexes. No stable API; install rushdb-server instead.
+2026-11-05T20:31:03.084044Z,rushdb-vector,3.0.3,0,0,https://github.com/rush-db/rushdb,Internal component of the RushDB server: vector indexes. No stable API; install rushdb-server instead.
+2026-11-05T20:32:35.094832Z,amaru-deps,0.6.0,0,0,https://github.com/pragma-org/amaru,"workspace-hack package, managed by hakari"
+2026-11-05T20:37:09.064952Z,ordeal-cert,0.36.0,0,0,https://github.com/pulseengine/ordeal,"Ordeal's certificate types, their trusted re-checks and the ordeal-cert/v1..v4 bundle codec — no solver in the dependency closure"
+2026-11-05T20:37:23.50221Z,ordeal-recheck,0.36.0,0,0,https://github.com/pulseengine/ordeal,Standalone re-checker for ordeal-cert/v1..v4 certificate bundles — the trusted ordeal-lrat checks with no solver in the dependency closure
+2026-11-05T20:37:47.946891Z,rushdb-language,3.0.3,0,0,https://github.com/rush-db/rushdb,"Internal component of the RushDB server: GQL, openCypher, Gremlin and SQL/PGQ frontends. No stable API; install rushdb-server instead."
+2026-11-05T20:40:55.376663Z,unloop,0.1.0,0,0,https://github.com/Neferax07/unloop,"Weight-free, deterministic repetition governor for LLM decoding — minimal-intervention loop breaking over a finite-ring phase governor"
+2026-11-05T20:45:19.091612Z,cadboss-core,0.1.0,0,0,https://github.com/4thel00z/cadboss,"Shared budgets, errors and reporting for cadboss readers"
+2026-11-05T20:45:21.925578Z,cadboss-model,0.1.0,0,0,https://github.com/4thel00z/cadboss,Format-independent drawing model for cadboss
+2026-11-05T20:45:25.874915Z,cadboss-dxf,0.1.0,0,0,https://github.com/4thel00z/cadboss,DXF reader for cadboss
+2026-11-05T20:45:32.650267Z,cadboss-output,0.1.0,0,0,https://github.com/4thel00z/cadboss,JSON and Markdown output for cadboss models
+2026-11-05T20:46:06.349425Z,cadboss-tui,0.1.0,0,0,https://github.com/4thel00z/cadboss,"Terminal explorer for CAD drawings: layout and block tree, entity and text inspector, DXF source and hex dump"
+2026-11-05T20:47:47.037567Z,rushdb-mongodb,3.0.3,0,0,https://github.com/rush-db/rushdb,Internal component of the RushDB server: Mongo-style query language. No stable API; install rushdb-server instead.
+2026-11-05T20:50:52.681517Z,octopus-live-core,0.1.0,0,0,https://github.com/martinkatamba/octopus_live_engine,OCTOPUS Live Engine core: the language-neutral engine shared by every SDK
+2026-11-05T20:51:37.765236Z,octopus-live-ffi,0.1.0,0,0,https://github.com/martinkatamba/octopus_live_engine,"C ABI over octopus-core, loaded by the Python, .NET, Java and Go SDKs"
+2026-11-05T20:51:38.082511Z,kraken-release,0.4.0,0,0,https://github.com/ingvarch/kraken,"Bump the version, tag the release and push it"
+2026-11-05T20:52:20.090954Z,octopus_live_engine,1.0.0,0,0,https://github.com/martinkatamba/octopus_live_engine,OCTOPUS Live Engine (Rust) - Ultra-Low Latency In-Memory Workflow Execution Engine with Interactive AntV X6 Visualizer and Hexagonal Architecture
+2026-11-05T20:53:27.831719Z,cadboss-cli,0.1.0,0,0,https://github.com/4thel00z/cadboss,Command-line interface for cadboss
+2026-11-05T20:57:05.633154Z,zbus-trust,0.2.0,0,0,https://github/jthulhu/trust,zbus bindings for the trust broker API.
+2026-11-05T20:57:07.969078Z,libtrust,0.2.0,0,0,https://github/jthulhu/trust,High level library for interacting with the trust broker
+2026-11-05T20:57:52.801828Z,rushdb-sql,3.0.3,0,0,https://github.com/rush-db/rushdb,Internal component of the RushDB server: SQL frontend over Apache DataFusion. No stable API; install rushdb-server instead.
+2026-11-05T21:06:27.39501Z,protolink-lua-bytecode,0.0.1,0,0,,"Portable artifact format of the reduced remote Lua VM: canonical encoding, bounded decoding, verification and admission."
+2026-11-05T21:07:42.523899Z,protolink-lua-api,0.0.1,0,0,,Canonical lua.execution.v1 and lua.plugin.v1 schemas with their generated Rust bindings.
+2026-11-05T21:07:46.954138Z,rushdb-bolt,3.0.3,0,0,https://github.com/rush-db/rushdb,Internal component of the RushDB server: Bolt (Neo4j wire protocol) transport. No stable API; install rushdb-server instead.
+2026-11-05T21:08:52.017569Z,protolink-lua-plugin-gen,0.0.1,0,0,,Host-only generator for Lua plugin capability contracts.
+2026-11-05T21:09:33.483219Z,rust-can,0.1.0,0,0,https://github.com/AKJ7/rust-can,The can package provides controller area network support for Rust developers
+2026-11-05T21:09:53.401777Z,rsnetwork-udp,0.1.0-alpha.1,0,0,https://github.com/loadingalias/rsasync,Currently being migrated.
+2026-11-05T21:10:58.29323Z,protolink-lua,0.0.1,0,0,,"Remote-data v1 values, the session ledger and the execution lifecycle of lua.execution.v1, without a Lua VM."
+2026-11-05T21:11:11.575227Z,nestbruno,0.1.0,0,0,,Incrementally synchronizes NestJS controllers into a Bruno API collection
+2026-11-05T21:12:58.490232Z,protolink-lua-vm,0.0.1,0,0,,"Reduced, bounded Lua VM for remote nodes: no garbage collector, fuel and heap budgets, and a single-value native ABI."
+2026-11-05T21:16:02.808373Z,protolink-lua-compiler,0.0.1,0,0,,Host-side checker and compiler for the remote regions of a stock Lua 5.4 workflow.
+2026-11-05T21:17:46.509323Z,rushdb-engine,3.0.3,0,0,https://github.com/rush-db/rushdb,Internal component of the RushDB server: in-process engine facade. No stable API; install rushdb-server instead.

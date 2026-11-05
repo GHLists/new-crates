@@ -8,47 +8,50 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-05 20:19 UTC
+## Latest list — 2026-11-05 21:18 UTC
 
-New crates published between 2026-11-05 19:21 UTC and 2026-11-05 20:19 UTC.
+New crates published between 2026-11-05 20:19 UTC and 2026-11-05 21:18 UTC.
 
-[Full CSV](data/new-crates-2026-11-05T20-19-03-392605Z.csv)
+[Full CSV](data/new-crates-2026-11-05T21-18-48-071619Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-05 19:27:59 | [morm](https://crates.io/crates/morm) | 0.0.0 | 0 | Reserved name for rust-morm, a PostgreSQL model library. Not usable yet. |
-| 2026-11-05 19:28:03 | [morm-core](https://crates.io/crates/morm-core) | 0.0.0 | 0 | Reserved name for rust-morm, a PostgreSQL model library. Not usable yet. |
-| 2026-11-05 19:28:06 | [morm-macros](https://crates.io/crates/morm-macros) | 0.0.0 | 0 | Reserved name for rust-morm, a PostgreSQL model library. Not usable yet. |
-| 2026-11-05 19:28:07 | [lajstrom](https://crates.io/crates/lajstrom) | 0.0.1 | 0 | Lajstrom: artifact registry (apt, rpm, maven, pypi, npm, terraform) on top of a… |
-| 2026-11-05 19:28:09 | [morm-migrate](https://crates.io/crates/morm-migrate) | 0.0.0 | 0 | Reserved name for rust-morm, a PostgreSQL model library. Not usable yet. |
-| 2026-11-05 19:28:12 | [morm-admin](https://crates.io/crates/morm-admin) | 0.0.0 | 0 | Reserved name for rust-morm, a PostgreSQL model library. Not usable yet. |
-| 2026-11-05 19:28:54 | [kirby-csms-core](https://crates.io/crates/kirby-csms-core) | 0.4.0 | 0 | OCPP 1.6J central system (CSMS) engine: multi-station WebSocket server, command… |
-| 2026-11-05 19:29:05 | [kirby-csms-tui](https://crates.io/crates/kirby-csms-tui) | 0.4.0 | 0 | Terminal UI for the kirby-csms central system (observe many stations) |
-| 2026-11-05 19:29:25 | [kirby-csms](https://crates.io/crates/kirby-csms) | 0.4.0 | 0 | Terminal OCPP 1.6J central system (CSMS) for charge point firmware development… |
-| 2026-11-05 19:30:36 | [bugsplat-sys](https://crates.io/crates/bugsplat-sys) | 0.1.0 | 0 | Raw FFI bindings to bugsplat-native, BugSplat's out-of-process crash reporter (… |
-| 2026-11-05 19:30:38 | [bugsplat](https://crates.io/crates/bugsplat) | 0.1.0 | 0 | Crash reporting for Rust apps with BugSplat: out-of-process minidumps, panics a… |
-| 2026-11-05 19:30:39 | [tauri-plugin-bugsplat](https://crates.io/crates/tauri-plugin-bugsplat) | 0.1.0 | 0 | BugSplat crash reporting for Tauri: native crashes, Rust panics and webview Jav… |
-| 2026-11-05 19:31:54 | [figlock](https://crates.io/crates/figlock) | 0.0.0 | 0 | Placeholder reserving the name for FigLock, a headless, agent-aware password ma… |
-| 2026-11-05 19:32:00 | [figlock-core](https://crates.io/crates/figlock-core) | 0.0.0 | 0 | Placeholder reserving the name for FigLock, a headless, agent-aware password ma… |
-| 2026-11-05 19:32:07 | [figlock-store](https://crates.io/crates/figlock-store) | 0.0.0 | 0 | Placeholder reserving the name for FigLock, a headless, agent-aware password ma… |
-| 2026-11-05 19:33:38 | [starmap-derive](https://crates.io/crates/starmap-derive) | 0.1.0 | 0 | The derive macros of starmap, which read an application's environment into a ty… |
-| 2026-11-05 19:33:41 | [starmap](https://crates.io/crates/starmap) | 0.1.0 | 0 | Declares the environment variables an application reads, checks values against… |
-| 2026-11-05 19:33:43 | [starmap-resolve](https://crates.io/crates/starmap-resolve) | 0.1.0 | 0 | Resolves the values of an application's declared environment variables for the… |
-| 2026-11-05 19:33:44 | [starmap-test](https://crates.io/crates/starmap-test) | 0.1.0 | 0 | Tests that an application's starmap declaration matches the environment variabl… |
-| 2026-11-05 19:33:46 | [starmap-cli](https://crates.io/crates/starmap-cli) | 0.1.0 | 0 | The starmap command, which checks, explains, compares and runs an application's… |
-| 2026-11-05 19:34:19 | [adaptif-gatotkaca-utils](https://crates.io/crates/adaptif-gatotkaca-utils) | 0.11.1 | 0 | Low-level building blocks used by the adaptif-gatotkaca transport system: a no-… |
-| 2026-11-05 19:38:33 | [morm-mgr](https://crates.io/crates/morm-mgr) | 0.0.0 | 0 | Reserved name for rust-morm, a PostgreSQL model library. Not usable yet. |
-| 2026-11-05 19:47:44 | [draupnir-oci](https://crates.io/crates/draupnir-oci) | 0.1.2 | 0 | A small podman (libpod and Docker-compat) REST client over the API socket: imag… |
-| 2026-11-05 19:49:27 | [bowire-plugin](https://crates.io/crates/bowire-plugin) | 0.2.0 | 0 | Rust SDK for writing Bowire protocol plugins as polyglot sidecars (JSON-RPC ove… |
-| 2026-11-05 19:55:40 | [awsr-models](https://crates.io/crates/awsr-models) | 2.39.3 | 0 | The botocore service models, CLI data, and help inputs of the AWS CLI 2.39.3, e… |
-| 2026-11-05 19:55:44 | [awsr-models-services-a-l](https://crates.io/crates/awsr-models-services-a-l) | 2.39.3 | 0 | The botocore service models of the AWS CLI 2.39.3 whose names start with a to l… |
-| 2026-11-05 19:55:48 | [awsr-models-services-m-z](https://crates.io/crates/awsr-models-services-m-z) | 2.39.3 | 0 | The botocore service models of the AWS CLI 2.39.3 whose names start with m to z… |
-| 2026-11-05 19:56:07 | [awsr](https://crates.io/crates/awsr) | 0.2.2 | 0 | A fast, output-compatible Rust reimplementation of the AWS CLI v2 |
-| 2026-11-05 20:00:03 | [alchemize](https://crates.io/crates/alchemize) | 0.0.0 | 0 | Transmute any document into Markdown |
-| 2026-11-05 20:03:35 | [aws-sdk-accountaccessruntime](https://crates.io/crates/aws-sdk-accountaccessruntime) | 1.0.0 | 0 | AWS SDK for Account Access Runtime |
-| 2026-11-05 20:10:13 | [naq-proto](https://crates.io/crates/naq-proto) | 0.1.0 | 0 | Sans-I/O codec for the NATS client and leaf node protocols |
-| 2026-11-05 20:10:16 | [naq](https://crates.io/crates/naq) | 0.1.0 | 0 | Core NATS server |
-| 2026-11-05 20:12:26 | [rust-office-art](https://crates.io/crates/rust-office-art) | 0.1.0 | 0 | Shared Office picture rendering for native Rust and WebAssembly |
+| 2026-11-05 20:27:34 | [rushdb-grpc](https://crates.io/crates/rushdb-grpc) | 3.0.3 | 0 | Internal component of the RushDB server: gRPC transport. No stable API; install… |
+| 2026-11-05 20:27:57 | [rushdb-backup](https://crates.io/crates/rushdb-backup) | 3.0.3 | 0 | Internal component of the RushDB server: logical backup and restore. No stable… |
+| 2026-11-05 20:28:06 | [kekkai-sandbox](https://crates.io/crates/kekkai-sandbox) | 0.3.0 | 0 | Sandbox child processes on Linux and macOS from Rust: Landlock or Seatbelt file… |
+| 2026-11-05 20:28:20 | [rushdb-raft](https://crates.io/crates/rushdb-raft) | 3.0.3 | 0 | Internal component of the RushDB server: consensus integration. No stable API;… |
+| 2026-11-05 20:29:03 | [rushdb-textsearch](https://crates.io/crates/rushdb-textsearch) | 3.0.3 | 0 | Internal component of the RushDB server: full-text indexes. No stable API; inst… |
+| 2026-11-05 20:31:03 | [rushdb-vector](https://crates.io/crates/rushdb-vector) | 3.0.3 | 0 | Internal component of the RushDB server: vector indexes. No stable API; install… |
+| 2026-11-05 20:32:35 | [amaru-deps](https://crates.io/crates/amaru-deps) | 0.6.0 | 0 | workspace-hack package, managed by hakari |
+| 2026-11-05 20:37:09 | [ordeal-cert](https://crates.io/crates/ordeal-cert) | 0.36.0 | 0 | Ordeal's certificate types, their trusted re-checks and the ordeal-cert/v1..v4… |
+| 2026-11-05 20:37:23 | [ordeal-recheck](https://crates.io/crates/ordeal-recheck) | 0.36.0 | 0 | Standalone re-checker for ordeal-cert/v1..v4 certificate bundles — the trusted… |
+| 2026-11-05 20:37:47 | [rushdb-language](https://crates.io/crates/rushdb-language) | 3.0.3 | 0 | Internal component of the RushDB server: GQL, openCypher, Gremlin and SQL/PGQ f… |
+| 2026-11-05 20:40:55 | [unloop](https://crates.io/crates/unloop) | 0.1.0 | 0 | Weight-free, deterministic repetition governor for LLM decoding — minimal-inter… |
+| 2026-11-05 20:45:19 | [cadboss-core](https://crates.io/crates/cadboss-core) | 0.1.0 | 0 | Shared budgets, errors and reporting for cadboss readers |
+| 2026-11-05 20:45:21 | [cadboss-model](https://crates.io/crates/cadboss-model) | 0.1.0 | 0 | Format-independent drawing model for cadboss |
+| 2026-11-05 20:45:25 | [cadboss-dxf](https://crates.io/crates/cadboss-dxf) | 0.1.0 | 0 | DXF reader for cadboss |
+| 2026-11-05 20:45:32 | [cadboss-output](https://crates.io/crates/cadboss-output) | 0.1.0 | 0 | JSON and Markdown output for cadboss models |
+| 2026-11-05 20:46:06 | [cadboss-tui](https://crates.io/crates/cadboss-tui) | 0.1.0 | 0 | Terminal explorer for CAD drawings: layout and block tree, entity and text insp… |
+| 2026-11-05 20:47:47 | [rushdb-mongodb](https://crates.io/crates/rushdb-mongodb) | 3.0.3 | 0 | Internal component of the RushDB server: Mongo-style query language. No stable… |
+| 2026-11-05 20:50:52 | [octopus-live-core](https://crates.io/crates/octopus-live-core) | 0.1.0 | 0 | OCTOPUS Live Engine core: the language-neutral engine shared by every SDK |
+| 2026-11-05 20:51:37 | [octopus-live-ffi](https://crates.io/crates/octopus-live-ffi) | 0.1.0 | 0 | C ABI over octopus-core, loaded by the Python, .NET, Java and Go SDKs |
+| 2026-11-05 20:51:38 | [kraken-release](https://crates.io/crates/kraken-release) | 0.4.0 | 0 | Bump the version, tag the release and push it |
+| 2026-11-05 20:52:20 | [octopus_live_engine](https://crates.io/crates/octopus_live_engine) | 1.0.0 | 0 | OCTOPUS Live Engine (Rust) - Ultra-Low Latency In-Memory Workflow Execution Eng… |
+| 2026-11-05 20:53:27 | [cadboss-cli](https://crates.io/crates/cadboss-cli) | 0.1.0 | 0 | Command-line interface for cadboss |
+| 2026-11-05 20:57:05 | [zbus-trust](https://crates.io/crates/zbus-trust) | 0.2.0 | 0 | zbus bindings for the trust broker API. |
+| 2026-11-05 20:57:07 | [libtrust](https://crates.io/crates/libtrust) | 0.2.0 | 0 | High level library for interacting with the trust broker |
+| 2026-11-05 20:57:52 | [rushdb-sql](https://crates.io/crates/rushdb-sql) | 3.0.3 | 0 | Internal component of the RushDB server: SQL frontend over Apache DataFusion. N… |
+| 2026-11-05 21:06:27 | [protolink-lua-bytecode](https://crates.io/crates/protolink-lua-bytecode) | 0.0.1 | 0 | Portable artifact format of the reduced remote Lua VM: canonical encoding, boun… |
+| 2026-11-05 21:07:42 | [protolink-lua-api](https://crates.io/crates/protolink-lua-api) | 0.0.1 | 0 | Canonical lua.execution.v1 and lua.plugin.v1 schemas with their generated Rust… |
+| 2026-11-05 21:07:46 | [rushdb-bolt](https://crates.io/crates/rushdb-bolt) | 3.0.3 | 0 | Internal component of the RushDB server: Bolt (Neo4j wire protocol) transport.… |
+| 2026-11-05 21:08:52 | [protolink-lua-plugin-gen](https://crates.io/crates/protolink-lua-plugin-gen) | 0.0.1 | 0 | Host-only generator for Lua plugin capability contracts. |
+| 2026-11-05 21:09:33 | [rust-can](https://crates.io/crates/rust-can) | 0.1.0 | 0 | The can package provides controller area network support for Rust developers |
+| 2026-11-05 21:09:53 | [rsnetwork-udp](https://crates.io/crates/rsnetwork-udp) | 0.1.0-alpha.1 | 0 | Currently being migrated. |
+| 2026-11-05 21:10:58 | [protolink-lua](https://crates.io/crates/protolink-lua) | 0.0.1 | 0 | Remote-data v1 values, the session ledger and the execution lifecycle of lua.ex… |
+| 2026-11-05 21:11:11 | [nestbruno](https://crates.io/crates/nestbruno) | 0.1.0 | 0 | Incrementally synchronizes NestJS controllers into a Bruno API collection |
+| 2026-11-05 21:12:58 | [protolink-lua-vm](https://crates.io/crates/protolink-lua-vm) | 0.0.1 | 0 | Reduced, bounded Lua VM for remote nodes: no garbage collector, fuel and heap b… |
+| 2026-11-05 21:16:02 | [protolink-lua-compiler](https://crates.io/crates/protolink-lua-compiler) | 0.0.1 | 0 | Host-side checker and compiler for the remote regions of a stock Lua 5.4 workfl… |
+| 2026-11-05 21:17:46 | [rushdb-engine](https://crates.io/crates/rushdb-engine) | 3.0.3 | 0 | Internal component of the RushDB server: in-process engine facade. No stable AP… |
 
 ## Data source
 
