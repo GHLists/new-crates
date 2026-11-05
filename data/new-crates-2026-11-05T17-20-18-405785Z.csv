@@ -1,0 +1,58 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-05T16:19:15.166566Z,persimmon-core,0.0.1,0,0,https://github.com/persimmon-app/persimmon,"The conversion engine behind Persimmon: platform-neutral, offline file conversion."
+2026-11-05T16:19:17.40241Z,persimmon-cli,0.0.1,0,0,https://github.com/persimmon-app/persimmon,"prsm, the Persimmon command line: offline file conversion you can script."
+2026-11-05T16:22:11.89398Z,milo-guards-url,0.1.0,0,0,https://github.com/camiloazula/milo-guards,"Reads a URL an agent is about to fetch and says whether it is safe to fetch without asking, or risky and why."
+2026-11-05T16:22:13.771174Z,kodact-tools,0.1.0,0,0,https://github.com/AmineXSaid/KodAct,"The Tool trait, the registry and the built-in tools."
+2026-11-05T16:25:40.103378Z,celesta-plugin,0.0.0,0,0,https://github.com/mika-f/celesta,Placeholder for the Celesta project. The real crate is not published yet.
+2026-11-05T16:26:22.948224Z,podrelay,0.0.0,0,0,https://github.com/PodUtils/podrelay,A relay server for PodUtils tools: carry SSH and tunnels over WebSocket and HTTPS. Placeholder: the first release is in progress.
+2026-11-05T16:26:56.985216Z,dotcore-host-process,0.1.0,0,0,https://github.com/dotcoreai/dotcore,"Raw host process facts: start tokens, parents, children, memory, exit watch and process ancestry."
+2026-11-05T16:26:57.424028Z,dotcore-nvml,0.1.0,0,0,https://github.com/dotcoreai/dotcore,Sole owner of the NVIDIA management library: a process-wide handle with in-code library discovery.
+2026-11-05T16:26:57.694315Z,dotcore-proto,0.1.0,0,0,https://github.com/dotcoreai/dotcore,Generated protocol bindings and generic protobuf and restricted-YAML utilities.
+2026-11-05T16:26:59.189707Z,dotcore-domain,0.1.0,0,0,https://github.com/dotcoreai/dotcore,"Lowest backend layer: shared identifiers, references, platform values, the backend clock and durable file flushes."
+2026-11-05T16:26:59.58241Z,dotcore-launcher,0.1.0,0,0,https://github.com/dotcoreai/dotcore,"Per-workload process holder that outlives the backend, and the supervisor client that creates, stops and reads it."
+2026-11-05T16:28:11.450027Z,rake-app,0.1.0-alpha.3,0,0,https://github.com/1bye/rake,Portable application foundation for GPUI native and browser applications
+2026-11-05T16:32:19.173342Z,milo-guards,0.1.0,0,0,https://github.com/camiloazula/milo-guards,"Guards for AI coding agents on your own machine: each reads what an agent is about to do and says whether it is safe without asking, or risky and why."
+2026-11-05T16:33:35.293254Z,rake-app-cli,0.1.0-alpha.3,0,0,https://github.com/1bye/rake,Terminal client for Rake development runtime control
+2026-11-05T16:33:46.791248Z,kodact-engine,0.1.0,0,0,https://github.com/AmineXSaid/KodAct,"The query loop: streaming turns, tool batches, permissions, hooks, interrupts, budgets and fallback."
+2026-11-05T16:34:40.790874Z,zem,0.1.0,0,0,https://github.com/zem-sh/zem,Headless terminal host with plugin architecture — daemon + JSON-RPC API
+2026-11-05T16:35:46.89327Z,celesta-project,0.0.0,0,0,https://github.com/mika-f/celesta,Placeholder for the Celesta project. The real crate is not published yet.
+2026-11-05T16:36:33.618682Z,podwarp,0.0.0,0,0,https://github.com/PodUtils/podwarp,"A Cloudflare WARP client in one static binary, for hosts with strong network limits. Placeholder: the first release is in progress."
+2026-11-05T16:37:10.289443Z,dotcore-artifact,0.1.0,0,0,https://github.com/dotcoreai/dotcore,"Artifact manager: prepares model, engine and auxiliary artifacts from Hugging Face, OCI images and Nix."
+2026-11-05T16:40:13.988905Z,rama-x-ruma,0.1.0,0,0,https://github.com/seuros/rama-x-ruma,"Serve ruma's typed Matrix API endpoints on rama: a request extractor, response conversion, Matrix errcodes, auth plumbing and endpoint routing"
+2026-11-05T16:44:23.857477Z,kodact-mcp,0.1.0,0,0,https://github.com/AmineXSaid/KodAct,"Model Context Protocol: client (stdio, streamable HTTP, SSE), tool adapters, server config and trust, and `kodact mcp serve`."
+2026-11-05T16:44:43.750402Z,obsr,0.1.0,0,0,https://github.com/a-poor/obsr,"An async obs-websocket 5.x client, built on Tokio"
+2026-11-05T16:45:53.939053Z,celesta-react-bridge,0.0.0,0,0,https://github.com/mika-f/celesta,Placeholder for the Celesta project. The real crate is not published yet.
+2026-11-05T16:46:42.32625Z,pod-services,0.0.0,0,0,https://github.com/PodUtils/podcrates,"Lists of relays and third-party services used by PodUtils tools, with the code that measures and watches them. Placeholder: the first release is in progress."
+2026-11-05T16:47:18.834705Z,dotcore-catalog,0.1.0,0,0,https://github.com/dotcoreai/dotcore,"Immutable catalog of models, engine releases, applications and upstream model templates, with sizing and the catalog API."
+2026-11-05T16:48:43.256098Z,dex2rs-runtime,0.1.0,0,0,https://github.com/rodroidmods/dex2rs,On-device JNI runtime that generated dex2rs code links against (port of d2c's project/jni/nc)
+2026-11-05T16:49:14.078903Z,dex2rs-core,0.1.0,0,0,https://github.com/rodroidmods/dex2rs,Dalvik bytecode to Rust/JNI AOT compiler core (port of d2c's dex2c package)
+2026-11-05T16:50:01.266922Z,dex2rs,0.1.1,0,0,https://github.com/rodroidmods/dex2rs,"Convert selected methods of an Android APK or DEX into Rust/JNI native code, then build, repack and sign"
+2026-11-05T16:51:50.608368Z,podprobe,0.0.0,0,0,https://github.com/PodUtils/podprobe,"Probe what a host and its network allow: egress, proxies, DNS, UDP and sandbox limits. Placeholder: the first release is in progress."
+2026-11-05T16:55:03.867727Z,kodact-agents,0.1.0,0,0,https://github.com/AmineXSaid/KodAct,Sub-agents: agent definitions and the Task tool that runs them in their own context.
+2026-11-05T16:56:00.537276Z,celesta-remote,0.0.0,0,0,https://github.com/mika-f/celesta,Placeholder for the Celesta project. The real crate is not published yet.
+2026-11-05T16:57:29.586433Z,dotcore-node-hardware,0.1.0,0,0,https://github.com/dotcoreai/dotcore,"Node hardware collection: host facts and per-device accelerator observations for NVIDIA, AMD and Apple, and declared machines described as data."
+2026-11-05T17:02:00.682179Z,podtun,0.0.0,0,0,https://github.com/PodUtils/podtun,"Userspace tunnels and per-process network routing, with no root. Placeholder: the first release is in progress."
+2026-11-05T17:03:48.847989Z,ngoladx-core,0.0.1,0,0,https://github.com/ngolacloud/dx,"DX — modelos de domínio puros: identidade de packages, especificações de dependências e planos de alteração."
+2026-11-05T17:04:00.555176Z,ngoladx-integrity,0.0.1,0,0,https://github.com/ngolacloud/dx,DX — integridade de artefactos (checksum vs lockfile) e extracção segura de .crate (anti traversal/symlink/zip-bomb).
+2026-11-05T17:04:06.331783Z,ngoladx-report,0.0.1,0,0,https://github.com/ngolacloud/dx,"DX — modelo de relatório de testes e emissores (terminal, JSON versionado, JUnit, HTML auto-contido) com escape e remoção de segredos."
+2026-11-05T17:04:11.566491Z,ngoladx-sandbox,0.0.1,0,0,https://github.com/ngolacloud/dx,"DX — isolamento REAL de execução (netns via unshare, rlimits, ambiente sem segredos) com relatório honesto do que é imposto."
+2026-11-05T17:04:16.598612Z,ngoladx-seiva,0.0.1,0,0,https://github.com/ngolacloud/dx,DX — adaptador Seiva: protocolo declarativo de integração (âncoras) para extensões como seiva-console-admin. Nunca corre hooks do crate.
+2026-11-05T17:05:40.994081Z,kodact-core,0.1.0,0,0,https://github.com/AmineXSaid/KodAct,"Composition root: builds a session (engine, tools, permissions, hooks, transcript) from flags and settings."
+2026-11-05T17:06:07.857388Z,celesta-renderer,0.0.0,0,0,https://github.com/mika-f/celesta,Placeholder for the Celesta project. The real crate is not published yet.
+2026-11-05T17:07:39.744801Z,dotcore-observability,0.1.0,0,0,https://github.com/dotcoreai/dotcore,"Observability metrics: typed metric descriptors, time-aligned bucket aggregates, the metric store boundary and its in-memory store, and the node metric forwarder and bucket stream ingest."
+2026-11-05T17:08:06.471266Z,glance-git,0.1.0,0,0,https://github.com/alvgaona/glance,"A nicer view of git status, log and friends"
+2026-11-05T17:09:00.274162Z,twitch_surf,1.0.0,0,0,https://github.com/m3idnotfree/twitch_surf,surf
+2026-11-05T17:09:14.223527Z,mobile-agent-protocol,0.1.0-alpha.1,0,0,https://github.com/gesposito/mobile-agent,"The wire protocol between the mobile-agent daemon and every device agent: the message schema, the framing and the handshake"
+2026-11-05T17:09:26.969591Z,mobile-agent-wire,0.1.0-alpha.1,0,0,https://github.com/gesposito/mobile-agent,"The daemon's requests and replies as types: the envelope, one struct of parameters per action, one struct of reply data per action, and their JSON schemas behind the schema feature"
+2026-11-05T17:09:51.152788Z,mobile-agent-simulator-reader,0.1.0-alpha.1,0,0,https://github.com/gesposito/mobile-agent,The accessibility tree reader the Simulator driver spawns inside an iOS Simulator
+2026-11-05T17:10:06.858146Z,mobile-agent-mirror,0.1.0-alpha.1,0,0,https://github.com/gesposito/mobile-agent,"The live UI replica of one target: its windows, accessibility tree and latest frame, and the listings, waits and settle checks answered from them"
+2026-11-05T17:10:21.386879Z,mobile-agent-ios-runner,0.1.0-alpha.1,0,0,https://github.com/gesposito/mobile-agent,The iOS runner's agent: the device protocol served from inside an XCTest bundle on a physical iPhone
+2026-11-05T17:11:48.658527Z,ngoladx-tool,0.0.1,0,0,https://github.com/ngolacloud/dx,"DX — project-pinned developer tools: manifest (dx-tools.toml), provenance lock, and resolution model."
+2026-11-05T17:13:22.411467Z,envguard-core,0.1.0,0,0,https://github.com/weaztoven/envguard,Scanning engine for envguard: parse and audit .env files without ever exposing values
+2026-11-05T17:14:20.744109Z,envguard-cli,0.1.0,0,0,https://github.com/weaztoven/envguard,"Fast, offline CLI to audit .env files for git leaks and .env.example drift"
+2026-11-05T17:15:31.819032Z,mx-tui,1.0.0,0,0,https://github.com/paulchambaz/matrix-tui,Keyboard-driven terminal client for Matrix
+2026-11-05T17:16:15.50044Z,celesta-source-edit,0.0.0,0,0,https://github.com/mika-f/celesta,Placeholder for the Celesta project. The real crate is not published yet.
+2026-11-05T17:17:00.304842Z,javaid,1.0.0,0,0,https://github.com/rsmb7z/javaid,"A fast, Checkstyle-compatible Java linter written in Rust"
+2026-11-05T17:17:00.964224Z,kodact-cli,0.1.0,0,0,https://github.com/AmineXSaid/KodAct,"The kodact binary: interactive and print modes, the stream-json host protocol, subcommands."
+2026-11-05T17:17:48.884363Z,dotcore-runtime,0.1.0,0,0,https://github.com/dotcoreai/dotcore,"Owner-neutral runtime contracts: workload intent, observations, logs, site cleanup and host capability probes."
+2026-11-05T17:20:09.691792Z,mobile-agent-android,0.1.0-alpha.1,0,0,https://github.com/gesposito/mobile-agent,"mobile-agent's Android driver: the adb client, the agent's deploy and session, and the emulator's gRPC controller"
