@@ -1,0 +1,56 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-05T13:19:53.895652Z,timer-grid,0.1.2,0,0,https://github.com/estokes/timer-grid,"Periodic timers on a wall-clock grid, so timers due together fire in one wakeup, within a process and across machines"
+2026-11-05T13:21:36.628518Z,rewire,0.0.0,0,0,,Declarative macros for building event-sourcing + CQRS applications in Rust (work in progress)
+2026-11-05T13:21:44.200759Z,seiva-cqrs,0.1.0,0,0,https://github.com/ngolacloud/seiva,Application-layer CQRS dispatch for Delonix Seiva: a statically-wired command/query mediator with typed middleware. DORM-free.
+2026-11-05T13:22:11.1913Z,erpc-chain-op,0.0.1,0,0,https://github.com/elsoul/erpc-cli,Name reservation for the erpc CLI workspace crate erpc-chain-op. This version holds nothing; the crate is published by the release pipeline of https://github.com/elsoul/erpc-cli from its next tag.
+2026-11-05T13:22:35.167773Z,esec,0.2.0,0,0,https://github.com/mscno/esec-rs,Decrypt embedded esec configuration in memory
+2026-11-05T13:23:24.144731Z,pod-iroh,0.0.0,0,0,https://github.com/PodUtils/podcrates,iroh transport for PodUtils tools. Placeholder: the first release is in progress.
+2026-11-05T13:25:19.885588Z,mouser-preferences,0.1.1,0,0,https://github.com/WeirdBrains/mouser-preferences,"Mouser's preferences mode as a plugin: every preference by section, edited through Mouser's prefs service"
+2026-11-05T13:25:22.283457Z,mouser-chat,0.1.1,0,0,https://github.com/WeirdBrains/mouser-chat,"Mouser's chat mode as a plugin: the agent runs in Mouser (models, keys, tools), this program draws the conversation"
+2026-11-05T13:26:14.727587Z,fandhe-ai-backend-rocm,0.14.0,0,0,https://github.com/Fandhe-AI/fandhe-ai,Experimental ROCm (AMD GPU) backend (HIP loaded at runtime via libloading) for a from-scratch Rust AI/ML library
+2026-11-05T13:26:18.345094Z,fandhe-ai-hf-hub,0.14.0,0,0,https://github.com/Fandhe-AI/fandhe-ai,"Hugging Face Hub helper for fandhe-ai: repo id validation, revision resolution and file listing built only on the facade public API"
+2026-11-05T13:26:59.479366Z,mouser-commander,0.1.2,0,0,https://github.com/WeirdBrains/mouser-commander,"Mouser's commander mode as a plugin: the shell's folder above the prompt, with previews and the media player"
+2026-11-05T13:27:02.48376Z,mouser-engine-flat,0.1.1,0,0,https://github.com/WeirdBrains/mouser-engine-flat,"Example custom Mouser rendering engine (""flat""): CPU raster presented with softbuffer"
+2026-11-05T13:30:18.961386Z,mouser-engine-skia,0.1.1,0,0,https://github.com/WeirdBrains/mouser-engine-skia,"Mouser's Skia renderer (engine ""skia"") as an engine library on the C ABI (mouser-engine-abi v2)"
+2026-11-05T13:31:45.836841Z,seiva-testing,0.1.0,0,0,https://github.com/ngolacloud/seiva,"In-memory reference doubles for the Delonix Seiva core ports (Clock, IdGenerator, EventPublisher, UnitOfWork)."
+2026-11-05T13:32:24.643234Z,erpc-chain-rollup,0.0.1,0,0,https://github.com/elsoul/erpc-cli,Name reservation for the erpc CLI workspace crate erpc-chain-rollup. This version holds nothing; the crate is published by the release pipeline of https://github.com/elsoul/erpc-cli from its next tag.
+2026-11-05T13:33:32.822091Z,pod-ts,0.0.0,0,0,https://github.com/PodUtils/podcrates,Tailscale networking for PodUtils tools. Placeholder: the first release is in progress.
+2026-11-05T13:37:05.920539Z,mouser-engine-wgpu,0.1.1,0,0,https://github.com/WeirdBrains/mouser-engine-wgpu,"Mouser's wgpu renderer (engine ""mouser"") as an engine library on the C ABI (mouser-engine-abi v2)"
+2026-11-05T13:39:56.108831Z,qstream-core,0.1.0,0,0,https://github.com/dima-xd/qstreamkit,Parser and framing primitives for the Adreno qprofiler QSTREAM socket.
+2026-11-05T13:39:58.291051Z,qstream-transport,0.1.0,0,0,https://github.com/dima-xd/qstreamkit,TCP and Unix transports for the Adreno qprofiler QSTREAM socket.
+2026-11-05T13:40:04.850145Z,qstream-cli,0.1.0,0,0,https://github.com/dima-xd/qstreamkit,Command-line client for the Adreno qprofiler QSTREAM socket.
+2026-11-05T13:41:46.762725Z,delonix-seiva,0.1.0,0,0,https://github.com/ngolacloud/seiva,"Delonix Seiva — a Rust backend framework for robust, high-criticality systems. Only backend; DORM as the default data layer."
+2026-11-05T13:42:38.773039Z,erpc-chain-sui,0.0.1,0,0,https://github.com/elsoul/erpc-cli,Name reservation for the erpc CLI workspace crate erpc-chain-sui. This version holds nothing; the crate is published by the release pipeline of https://github.com/elsoul/erpc-cli from its next tag.
+2026-11-05T13:43:41.789821Z,pod-tor,0.0.0,0,0,https://github.com/PodUtils/podcrates,Tor transport for PodUtils tools. Placeholder: the first release is in progress.
+2026-11-05T13:44:54.846589Z,riffdb-types,0.1.0,0,0,https://github.com/riffdb/riffdb,First-party RiffDB runtime crate (riffdb-types)
+2026-11-05T13:44:56.726673Z,riffdb-errors,0.1.0,0,0,https://github.com/riffdb/riffdb,First-party RiffDB runtime crate (riffdb-errors)
+2026-11-05T13:44:59.025971Z,riffdb-contract-ir,0.1.0,0,0,https://github.com/riffdb/riffdb,First-party RiffDB runtime crate (riffdb-contract-ir)
+2026-11-05T13:45:01.552388Z,riffdb-proto,0.1.0,0,0,https://github.com/riffdb/riffdb,First-party RiffDB runtime crate (riffdb-proto)
+2026-11-05T13:45:03.93242Z,riffdb-application,0.1.0,0,0,https://github.com/riffdb/riffdb,First-party RiffDB runtime crate (riffdb-application)
+2026-11-05T13:50:11.670123Z,dxmt-client,1.6.0,0,0,https://github.com/dxmt/dxmt,"Rust client for DXMT, the open-source memory database for personal agents"
+2026-11-05T13:51:43.947032Z,seiva-openapi,0.1.0,0,0,https://github.com/ngolacloud/seiva,"Delonix Seiva — OpenAPI 3.1 document generation from facade descriptors, with zero reflection. DORM-free."
+2026-11-05T13:52:52.639391Z,erpc-chain-tron,0.0.1,0,0,https://github.com/elsoul/erpc-cli,Name reservation for the erpc CLI workspace crate erpc-chain-tron. This version holds nothing; the crate is published by the release pipeline of https://github.com/elsoul/erpc-cli from its next tag.
+2026-11-05T13:53:03.4117Z,feature-standards-auth,0.1.0,0,0,https://github.com/jongko54/feature-standards,Contract-tested session authentication for Axum
+2026-11-05T13:53:52.419414Z,pod-piping,0.0.0,0,0,https://github.com/PodUtils/podcrates,Piping-server transport for PodUtils tools. Placeholder: the first release is in progress.
+2026-11-05T13:57:36.666945Z,tela-ui,0.1.0,0,0,https://github.com/DragonheartLX/tela-ui,TDesign-style third-party component library for Slint
+2026-11-05T14:00:55.376583Z,vizier-schema,0.15.0-rc.4,0,0,https://github.com/vizier-lab/vizier,"The Fleet bus contract: subjects, envelopes, messaging, leases and shared state traits, an in-process backend and a conformance suite"
+2026-11-05T14:00:58.721286Z,vizier-fleet,0.15.0-rc.4,0,0,https://github.com/vizier-lab/vizier,"Vizier's Fleet roles: the same engine, split into roles that talk over a bus and share storage"
+2026-11-05T14:01:45.54571Z,seiva-http,0.1.0,0,0,https://github.com/ngolacloud/seiva,"Delonix Seiva — HTTP transport (axum/tower): RFC 9457 problems, typed/validated bodies, descriptor-driven permission guard, health endpoints. DORM-free."
+2026-11-05T14:03:06.656042Z,erpc-worker,0.0.1,0,0,https://github.com/elsoul/erpc-cli,Name reservation for the erpc CLI workspace crate erpc-worker. This version holds nothing; the crate is published by the release pipeline of https://github.com/elsoul/erpc-cli from its next tag.
+2026-11-05T14:04:02.868633Z,pod-opentunnel,0.0.0,0,0,https://github.com/PodUtils/podcrates,Open tunnel services as a transport for PodUtils tools. Placeholder: the first release is in progress.
+2026-11-05T14:04:06.800698Z,furniture-detection,0.1.0,0,0,https://github.com/AhmedKishki/furniture-detection,"Finds the running heads, folios and other furniture of PDF pages by minimum description length."
+2026-11-05T14:04:10.042184Z,concept-map,0.1.0,0,0,https://github.com/AhmedKishki/concept-map,"The concepts of a text's passages, their NPMI links and their Louvain communities"
+2026-11-05T14:05:17.44579Z,zacess-profile,0.2.0,0,0,https://github.com/zacesshq/profile,"One accessibility profile for every app: state your needs once, derive a checked palette and render it for terminals and editors"
+2026-11-05T14:05:40.789917Z,footprints,0.2.0,0,0,https://github.com/zaccesss/footprints,"See and undo what AI agents do on your machine: a local ledger of file writes, shell commands and network calls with one-step undo"
+2026-11-05T14:07:09.99915Z,schemaplate_derive,0.1.0,0,0,https://github.com/Yrgh/schemaplate,Proc macros for `schemaplate`
+2026-11-05T14:08:16.705446Z,schemaplate,0.1.0,0,0,https://github.com/Yrgh/schemaplate,"Reloadable, type-safe template rendering engine"
+2026-11-05T14:11:52.019502Z,seiva-server,0.1.0,0,0,https://github.com/ngolacloud/seiva,"Delonix Seiva — the service runtime: mounts the facade-driven HTTP app, runs a worker host, reads 12-factor config, shuts down gracefully. DORM-free."
+2026-11-05T14:13:19.958833Z,erpc-worker-agent,0.0.1,0,0,https://github.com/elsoul/erpc-cli,Name reservation for the erpc CLI workspace crate erpc-worker-agent. This version holds nothing; the crate is published by the release pipeline of https://github.com/elsoul/erpc-cli from its next tag.
+2026-11-05T14:14:12.410454Z,pod-wireguard,0.0.0,0,0,https://github.com/PodUtils/podcrates,Name held for the PodUtils project. Placeholder: the first release is in progress.
+2026-11-05T14:15:13.807505Z,grpc-dc,0.37.1,0,0,https://github.com/browser-grpc/grpc-over-datachannels,"gRPC over WebRTC DataChannels: dependency-free generated Rust runtime, client and server, all four call shapes, over a single RTCDataChannel."
+2026-11-05T14:15:22.812842Z,kafka-grpc,0.37.1,0,0,https://github.com/browser-grpc/grpc-over-datachannels,"Kafka over gRPC — generated grpcdc.kafka.v1 clients (produce/consume/groups/topics) speaking gRPC over WebRTC DataChannels, via the grpc-dc runtime (Rust)."
+2026-11-05T14:16:06.21051Z,rake-diagnostics,0.1.0-alpha.2,0,0,https://github.com/1bye/rake,Bounded structured diagnostics and tracing integration without a UI or HTTP runtime
+2026-11-05T14:16:07.184766Z,rake-dist-core,0.1.0-alpha.2,0,0,https://github.com/1bye/rake,Portable distribution configuration and package planning for Rake
+2026-11-05T14:16:08.02861Z,rake-macros,0.1.0-alpha.2,0,0,https://github.com/1bye/rake,"Facade-aware application, data and instrumentation macros for Rake"
+2026-11-05T14:16:09.000635Z,rake-native,0.1.0-alpha.2,0,0,https://github.com/1bye/rake,Optional AppKit components hosted in Rake's GPUI layouts
+2026-11-05T14:16:10.108319Z,rake-ui,0.1.0-alpha.2,0,0,https://github.com/1bye/rake,"GPUI view helpers, themes and overlays"
