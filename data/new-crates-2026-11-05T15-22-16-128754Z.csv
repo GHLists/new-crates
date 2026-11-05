@@ -1,0 +1,66 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-05T14:23:11.88952Z,windeye,0.0.0,0,0,,Reserved for Windeye
+2026-11-05T14:23:18.5931Z,rake-protocol,0.1.0-alpha.2,0,0,https://github.com/1bye/rake,"Portable Rake routes, snapshots and development wire contracts"
+2026-11-05T14:24:22.425876Z,pod-quick,0.0.0,0,0,https://github.com/PodUtils/podcrates,Name held for the PodUtils project. Placeholder: the first release is in progress.
+2026-11-05T14:26:28.529735Z,dorm-outbox,0.1.0,0,0,https://github.com/ngolacloud/dorm,"Optional generic transactional outbox/inbox for DORM: append-only events published in-transaction, drained by independent cursor-tracking consumers, with an idempotency inbox and a dead-letter table…"
+2026-11-05T14:27:55.276047Z,dorker,0.1.1,0,0,https://github.com/cesarferreira/dorker,Docker for headless Android emulator environments
+2026-11-05T14:29:07.92093Z,ebook-hero,0.3.0,0,0,https://github.com/AhmedKishki/ebook-hero,"Search and read one PDF or EPUB: lexical, semantic and hybrid search, with locators and quote verification, as a CLI and an MCP server."
+2026-11-05T14:30:35.86475Z,pm-tc,0.1.0-a1,0,0,https://github.com/fm-elpac/pm-tc,胖喵模板配置工具. Template config tool.
+2026-11-05T14:33:14.442574Z,opencolorio-rs-ops,1.0.0+ocio.2.5.2,0,0,https://github.com/Pixel-Minions/OpenColorIO-rs,"OpenColorIO ops: op data, CPU renderers (numeric profiles), optimizer, pixel formats, CPUInfo"
+2026-11-05T14:33:16.645432Z,opencolorio-rs-formats,1.0.0+ocio.2.5.2,0,0,https://github.com/Pixel-Minions/OpenColorIO-rs,OpenColorIO LUT and transform file readers and writers
+2026-11-05T14:33:17.101728Z,opencolorio-rs-gpu,1.0.0+ocio.2.5.2,0,0,https://github.com/Pixel-Minions/OpenColorIO-rs,"OpenColorIO GPU shader generation, textures and uniforms"
+2026-11-05T14:33:18.252487Z,opencolorio-rs,1.0.0+ocio.2.5.2,0,0,https://github.com/Pixel-Minions/OpenColorIO-rs,"OpenColorIO 2.5.2, ported to Rust: configs, transforms, processors"
+2026-11-05T14:33:26.826327Z,rake-http,0.1.0-alpha.2,0,0,https://github.com/1bye/rake,Executor-portable HTTP with bounded deadlines and diagnostics
+2026-11-05T14:34:32.242502Z,pod-udp,0.0.0,0,0,https://github.com/PodUtils/podcrates,Name held for the PodUtils project. Placeholder: the first release is in progress.
+2026-11-05T14:35:49.248777Z,hatls-client-ffi,0.1.0,0,0,https://github.com/Hinsir-zxc/http-api-tls-sdk,http-api-tls-sdk mobile FFI: UniFFI bindings exposing the client secure channel to Kotlin/Swift
+2026-11-05T14:36:41.714983Z,cuadb,0.1.0,0,0,https://github.com/alidantech-org/cuadb,"A local-first database explorer and SQL workspace for PostgreSQL and SQLite, in one binary with a browser UI"
+2026-11-05T14:40:22.462553Z,opencode-zen,0.1.4,0,0,https://github.com/pleme-io/opencode-zen,Auto-generated Rust SDK for OpenCode Zen API (chat completions)
+2026-11-05T14:41:50.647297Z,qos_attestation,0.15.2-alpha.0,0,0,https://github.com/tkhq/qos,"Attestation, verification and caching for QuorumOS"
+2026-11-05T14:43:37.804701Z,rake-client,0.1.0-alpha.2,0,0,https://github.com/1bye/rake,Standalone discovery and development control client for Rake
+2026-11-05T14:44:41.10357Z,pod-mailbox,0.0.0,0,0,https://github.com/PodUtils/podcrates,Name held for the PodUtils project. Placeholder: the first release is in progress.
+2026-11-05T14:44:45.377506Z,compresso-rs,0.1.0,0,0,https://github.com/scalableminds/compresso-rs,"Pure Rust implementation of the Compresso codec for connectomics segmentation volumes, byte-compatible with the Python `compresso` package"
+2026-11-05T14:45:50.6118Z,shep-openbao,0.1.1,0,0,https://github.com/shep-pm/shep-openbao,A provider dog for shep: mirrors secrets from OpenBao into shep's secrets store
+2026-11-05T14:46:56.724808Z,scarletbook-ffi,0.5.8,0,0,https://github.com/aclater/scarletbook-rs,"C ABI for scarletbook, a clean-room Super Audio CD image reader"
+2026-11-05T14:48:06.349683Z,music21,0.17.0,0,0,https://github.com/float3/music21-rs,"A Rust port of music21: pitches, chords, keys, scores and streams, analysis, and file formats"
+2026-11-05T14:52:13.077021Z,seedcrystal,0.2.0,0,0,https://github.com/osmium-labs/seedcrystal,DNS seeder (dnsseed) for Bitcoin-protocol UTXO chains
+2026-11-05T14:52:32.501159Z,circlet-wire,0.1.0,0,0,https://github.com/wandlet/circlet,"The Circlet guest ABI wire contract: envelope types, their postcard encoding, and the packed-pointer layout, shared by host and guests."
+2026-11-05T14:52:38.506031Z,circlet-requirements,0.1.0,0,0,https://github.com/wandlet/circlet,"The requirements! macro: an artifact declares what it needs, inside its own content address."
+2026-11-05T14:52:44.736384Z,circlet-guest,0.1.0,0,0,https://github.com/wandlet/circlet,"Write a Circlet guest without touching the ABI: guest_main!, typed fetch/delegate, and a pull-based model stream."
+2026-11-05T14:53:45.651815Z,rake-resources,0.1.0-alpha.2,0,0,https://github.com/1bye/rake,Installed resource and helper discovery for Rake applications
+2026-11-05T14:54:11.854157Z,celesta,0.0.0,0,0,https://github.com/mika-f/celesta,Placeholder for the Celesta project. The real crate is not published yet.
+2026-11-05T14:54:17.350136Z,celesta-budoux,0.0.0,0,0,https://github.com/mika-f/celesta,Placeholder for the Celesta project. The real crate is not published yet.
+2026-11-05T14:54:26.520854Z,celesta-codec-ffmpeg,0.0.0,0,0,https://github.com/mika-f/celesta,Placeholder for the Celesta project. The real crate is not published yet.
+2026-11-05T14:54:31.18623Z,celesta-composition,0.0.0,0,0,https://github.com/mika-f/celesta,Placeholder for the Celesta project. The real crate is not published yet.
+2026-11-05T14:54:35.504797Z,celesta-editor-core,0.0.0,0,0,https://github.com/mika-f/celesta,Placeholder for the Celesta project. The real crate is not published yet.
+2026-11-05T14:54:49.578933Z,pod-reverse,0.0.0,0,0,https://github.com/PodUtils/podcrates,Name held for the PodUtils project. Placeholder: the first release is in progress.
+2026-11-05T15:01:42.921743Z,trosna,0.1.0,0,0,https://github.com/89605502155/trosna-file,"Memory-safe columnar time-series file format with verifiable, versioned editing (.trosna)"
+2026-11-05T15:01:45.032797Z,trosna-arrow,0.1.0,0,0,https://github.com/89605502155/trosna-file,Apache Arrow adapter for the Trosna time-series file format
+2026-11-05T15:01:47.203031Z,trosna-cli,0.1.0,0,0,https://github.com/89605502155/trosna-file,"Command-line tool for Trosna time-series files (.trosna): CSV conversion, inspection, editing and history"
+2026-11-05T15:02:26.118778Z,uuid-slug,0.6.0,0,0,https://github.com/Anizoptera/uuid-slug,Compact UUIDs with reversible UUIDv7 masking and filesystem-safe representations
+2026-11-05T15:03:55.966556Z,rake-updates,0.1.0-alpha.2,0,0,https://github.com/1bye/rake,Native update providers and application lifecycle support for Rake
+2026-11-05T15:04:44.926309Z,celesta-editor-theme,0.0.0,0,0,https://github.com/mika-f/celesta,Placeholder for the Celesta project. The real crate is not published yet.
+2026-11-05T15:04:59.519345Z,pod-utils,0.0.0,0,0,https://github.com/PodUtils,Name held for the PodUtils project. Placeholder: the first release is in progress.
+2026-11-05T15:09:23.091605Z,shep-paddock,0.1.0,0,0,https://github.com/shep-pm/shep-paddock,"A shep dog that leases one host's GPU and RAM to model servers and jobs, behind a single endpoint"
+2026-11-05T15:09:27.865355Z,fraction-royalty-calc,1.0.0,0,0,,Tiny helper for oil and gas fraction royalty decimal math used by Fraction Royalty.
+2026-11-05T15:10:43.337626Z,test-memory-r-engine,0.1.1,0,0,https://github.com/jlpetz/Test-Memory-R,"The engine of TMR (Test Memory R), a DDR5 memory tester for Windows: its tests, memory allocation, sessions and results"
+2026-11-05T15:10:46.89262Z,test-memory-r-cli,0.1.1,0,0,https://github.com/jlpetz/Test-Memory-R,"The console of TMR (Test Memory R), a DDR5 memory tester for Windows: a session on the console, its logging and its Ctrl+C"
+2026-11-05T15:10:50.140076Z,test-memory-r-gui,0.1.1,0,0,https://github.com/jlpetz/Test-Memory-R,"The window of TMR (Test Memory R), a DDR5 memory tester for Windows: a run's progress in WinUI 3, through windows-reactor"
+2026-11-05T15:10:53.280533Z,test-memory-r,0.1.1,0,0,https://github.com/jlpetz/Test-Memory-R,"TMR (Test Memory R), a DDR5 memory tester for Windows that runs TestMem5 configs: tmr.exe, the console and the window"
+2026-11-05T15:10:59.322382Z,riffdb-config,0.1.0,0,0,https://github.com/riffdb/riffdb,First-party RiffDB runtime crate (riffdb-config)
+2026-11-05T15:11:01.19266Z,riffdb-client-rust,0.1.0,0,0,https://github.com/riffdb/riffdb,First-party RiffDB runtime crate (riffdb-client-rust)
+2026-11-05T15:11:16.820297Z,onebudgetspec-plugin-onevcs,0.1.0,0,0,https://github.com/nickderobertis/onebudgetspec-plugin-onevcs,Deliver onebudgetspec reports and read saved base-branch budget history through onevcs
+2026-11-05T15:14:08.821944Z,rak,0.1.0-alpha.2,0,0,https://github.com/1bye/rake,Portable application foundation for GPUI native and browser applications
+2026-11-05T15:14:52.401421Z,celesta-editor,0.0.0,0,0,https://github.com/mika-f/celesta,Placeholder for the Celesta project. The real crate is not published yet.
+2026-11-05T15:15:02.105175Z,synra-plugin-sdk,0.1.0,0,0,https://github.com/synra-rs/synra-core,What a Synra plugin is written against: the generated host bindings and the types they exchange
+2026-11-05T15:15:10.583436Z,podnet-core,0.0.0,0,0,https://github.com/PodUtils/podnet,The core of podnet. Placeholder: the first release is in progress.
+2026-11-05T15:15:41.361534Z,synra-platform,0.1.0,0,0,https://github.com/synra-rs/synra-core,Host system capabilities: the Platform trait and the rules that bound it
+2026-11-05T15:16:02.529593Z,synra-control,0.1.0,0,0,https://github.com/synra-rs/synra-core,The channel between a command-line client and a kernel on the same machine
+2026-11-05T15:16:22.308635Z,synra-ipc,0.1.0,0,0,https://github.com/synra-rs/synra-core,"The contract between the host shell and its interface: commands, events and errors"
+2026-11-05T15:17:52.174788Z,synra-core,0.1.0,0,0,https://github.com/synra-rs/synra-core,"The kernel: domain model, aggregates, state machines and orchestration"
+2026-11-05T15:18:25.968587Z,wcoj,0.1.0,0,0,https://github.com/muliz2243-prog/wcoj,"Leapfrog Triejoin over flat tries for K-ary relations and N-variable queries, with a hash join baseline"
+2026-11-05T15:18:28.032235Z,odos,0.0.2,0,0,https://github.com/Dijaa/odos,File-based routing for Dioxus
+2026-11-05T15:21:37.274232Z,kodact-config,0.1.0,0,0,https://github.com/AmineXSaid/KodAct,"Settings layers, memory files (KODACT.md) and resource search paths."
+2026-11-05T15:21:39.498113Z,kodact-platform,0.1.0,0,0,https://github.com/AmineXSaid/KodAct,"OS differences in one place: the shell commands run in, process trees, path display."
+2026-11-05T15:21:42.638898Z,kodact-types,0.1.0,0,0,https://github.com/AmineXSaid/KodAct,"Wire types: Messages API content blocks, stream events and the SDK stream-json protocol."
+2026-11-05T15:21:50.391952Z,kodact-api,0.1.0,0,0,https://github.com/AmineXSaid/KodAct,"Model providers: the Messages API (SSE streaming), OpenAI-compatible endpoints, and a scripted mock."
+2026-11-05T15:21:52.210047Z,kodact-compact,0.1.0,0,0,https://github.com/AmineXSaid/KodAct,"Context compaction (contract C9): micro-compaction of stale tool results, thresholds and the summary prompt."

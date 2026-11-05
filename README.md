@@ -8,69 +8,79 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-05 14:20 UTC
+## Latest list — 2026-11-05 15:22 UTC
 
-New crates published between 2026-11-05 13:18 UTC and 2026-11-05 14:20 UTC.
+New crates published between 2026-11-05 14:20 UTC and 2026-11-05 15:22 UTC.
 
-[Full CSV](data/new-crates-2026-11-05T14-20-16-896972Z.csv)
+[Full CSV](data/new-crates-2026-11-05T15-22-16-128754Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-05 13:19:53 | [timer-grid](https://crates.io/crates/timer-grid) | 0.1.2 | 0 | Periodic timers on a wall-clock grid, so timers due together fire in one wakeup… |
-| 2026-11-05 13:21:36 | [rewire](https://crates.io/crates/rewire) | 0.0.0 | 0 | Declarative macros for building event-sourcing + CQRS applications in Rust (wor… |
-| 2026-11-05 13:21:44 | [seiva-cqrs](https://crates.io/crates/seiva-cqrs) | 0.1.0 | 0 | Application-layer CQRS dispatch for Delonix Seiva: a statically-wired command/q… |
-| 2026-11-05 13:22:11 | [erpc-chain-op](https://crates.io/crates/erpc-chain-op) | 0.0.1 | 0 | Name reservation for the erpc CLI workspace crate erpc-chain-op. This version h… |
-| 2026-11-05 13:22:35 | [esec](https://crates.io/crates/esec) | 0.2.0 | 0 | Decrypt embedded esec configuration in memory |
-| 2026-11-05 13:23:24 | [pod-iroh](https://crates.io/crates/pod-iroh) | 0.0.0 | 0 | iroh transport for PodUtils tools. Placeholder: the first release is in progres… |
-| 2026-11-05 13:25:19 | [mouser-preferences](https://crates.io/crates/mouser-preferences) | 0.1.1 | 0 | Mouser's preferences mode as a plugin: every preference by section, edited thro… |
-| 2026-11-05 13:25:22 | [mouser-chat](https://crates.io/crates/mouser-chat) | 0.1.1 | 0 | Mouser's chat mode as a plugin: the agent runs in Mouser (models, keys, tools),… |
-| 2026-11-05 13:26:14 | [fandhe-ai-backend-rocm](https://crates.io/crates/fandhe-ai-backend-rocm) | 0.14.0 | 0 | Experimental ROCm (AMD GPU) backend (HIP loaded at runtime via libloading) for… |
-| 2026-11-05 13:26:18 | [fandhe-ai-hf-hub](https://crates.io/crates/fandhe-ai-hf-hub) | 0.14.0 | 0 | Hugging Face Hub helper for fandhe-ai: repo id validation, revision resolution… |
-| 2026-11-05 13:26:59 | [mouser-commander](https://crates.io/crates/mouser-commander) | 0.1.2 | 0 | Mouser's commander mode as a plugin: the shell's folder above the prompt, with… |
-| 2026-11-05 13:27:02 | [mouser-engine-flat](https://crates.io/crates/mouser-engine-flat) | 0.1.1 | 0 | Example custom Mouser rendering engine ("flat"): CPU raster presented with soft… |
-| 2026-11-05 13:30:18 | [mouser-engine-skia](https://crates.io/crates/mouser-engine-skia) | 0.1.1 | 0 | Mouser's Skia renderer (engine "skia") as an engine library on the C ABI (mouse… |
-| 2026-11-05 13:31:45 | [seiva-testing](https://crates.io/crates/seiva-testing) | 0.1.0 | 0 | In-memory reference doubles for the Delonix Seiva core ports (Clock, IdGenerato… |
-| 2026-11-05 13:32:24 | [erpc-chain-rollup](https://crates.io/crates/erpc-chain-rollup) | 0.0.1 | 0 | Name reservation for the erpc CLI workspace crate erpc-chain-rollup. This versi… |
-| 2026-11-05 13:33:32 | [pod-ts](https://crates.io/crates/pod-ts) | 0.0.0 | 0 | Tailscale networking for PodUtils tools. Placeholder: the first release is in p… |
-| 2026-11-05 13:37:05 | [mouser-engine-wgpu](https://crates.io/crates/mouser-engine-wgpu) | 0.1.1 | 0 | Mouser's wgpu renderer (engine "mouser") as an engine library on the C ABI (mou… |
-| 2026-11-05 13:39:56 | [qstream-core](https://crates.io/crates/qstream-core) | 0.1.0 | 0 | Parser and framing primitives for the Adreno qprofiler QSTREAM socket. |
-| 2026-11-05 13:39:58 | [qstream-transport](https://crates.io/crates/qstream-transport) | 0.1.0 | 0 | TCP and Unix transports for the Adreno qprofiler QSTREAM socket. |
-| 2026-11-05 13:40:04 | [qstream-cli](https://crates.io/crates/qstream-cli) | 0.1.0 | 0 | Command-line client for the Adreno qprofiler QSTREAM socket. |
-| 2026-11-05 13:41:46 | [delonix-seiva](https://crates.io/crates/delonix-seiva) | 0.1.0 | 0 | Delonix Seiva — a Rust backend framework for robust, high-criticality systems.… |
-| 2026-11-05 13:42:38 | [erpc-chain-sui](https://crates.io/crates/erpc-chain-sui) | 0.0.1 | 0 | Name reservation for the erpc CLI workspace crate erpc-chain-sui. This version… |
-| 2026-11-05 13:43:41 | [pod-tor](https://crates.io/crates/pod-tor) | 0.0.0 | 0 | Tor transport for PodUtils tools. Placeholder: the first release is in progress. |
-| 2026-11-05 13:44:54 | [riffdb-types](https://crates.io/crates/riffdb-types) | 0.1.0 | 0 | First-party RiffDB runtime crate (riffdb-types) |
-| 2026-11-05 13:44:56 | [riffdb-errors](https://crates.io/crates/riffdb-errors) | 0.1.0 | 0 | First-party RiffDB runtime crate (riffdb-errors) |
-| 2026-11-05 13:44:59 | [riffdb-contract-ir](https://crates.io/crates/riffdb-contract-ir) | 0.1.0 | 0 | First-party RiffDB runtime crate (riffdb-contract-ir) |
-| 2026-11-05 13:45:01 | [riffdb-proto](https://crates.io/crates/riffdb-proto) | 0.1.0 | 0 | First-party RiffDB runtime crate (riffdb-proto) |
-| 2026-11-05 13:45:03 | [riffdb-application](https://crates.io/crates/riffdb-application) | 0.1.0 | 0 | First-party RiffDB runtime crate (riffdb-application) |
-| 2026-11-05 13:50:11 | [dxmt-client](https://crates.io/crates/dxmt-client) | 1.6.0 | 0 | Rust client for DXMT, the open-source memory database for personal agents |
-| 2026-11-05 13:51:43 | [seiva-openapi](https://crates.io/crates/seiva-openapi) | 0.1.0 | 0 | Delonix Seiva — OpenAPI 3.1 document generation from facade descriptors, with z… |
-| 2026-11-05 13:52:52 | [erpc-chain-tron](https://crates.io/crates/erpc-chain-tron) | 0.0.1 | 0 | Name reservation for the erpc CLI workspace crate erpc-chain-tron. This version… |
-| 2026-11-05 13:53:03 | [feature-standards-auth](https://crates.io/crates/feature-standards-auth) | 0.1.0 | 0 | Contract-tested session authentication for Axum |
-| 2026-11-05 13:53:52 | [pod-piping](https://crates.io/crates/pod-piping) | 0.0.0 | 0 | Piping-server transport for PodUtils tools. Placeholder: the first release is i… |
-| 2026-11-05 13:57:36 | [tela-ui](https://crates.io/crates/tela-ui) | 0.1.0 | 0 | TDesign-style third-party component library for Slint |
-| 2026-11-05 14:00:55 | [vizier-schema](https://crates.io/crates/vizier-schema) | 0.15.0-rc.4 | 0 | The Fleet bus contract: subjects, envelopes, messaging, leases and shared state… |
-| 2026-11-05 14:00:58 | [vizier-fleet](https://crates.io/crates/vizier-fleet) | 0.15.0-rc.4 | 0 | Vizier's Fleet roles: the same engine, split into roles that talk over a bus an… |
-| 2026-11-05 14:01:45 | [seiva-http](https://crates.io/crates/seiva-http) | 0.1.0 | 0 | Delonix Seiva — HTTP transport (axum/tower): RFC 9457 problems, typed/validated… |
-| 2026-11-05 14:03:06 | [erpc-worker](https://crates.io/crates/erpc-worker) | 0.0.1 | 0 | Name reservation for the erpc CLI workspace crate erpc-worker. This version hol… |
-| 2026-11-05 14:04:02 | [pod-opentunnel](https://crates.io/crates/pod-opentunnel) | 0.0.0 | 0 | Open tunnel services as a transport for PodUtils tools. Placeholder: the first… |
-| 2026-11-05 14:04:06 | [furniture-detection](https://crates.io/crates/furniture-detection) | 0.1.0 | 0 | Finds the running heads, folios and other furniture of PDF pages by minimum des… |
-| 2026-11-05 14:04:10 | [concept-map](https://crates.io/crates/concept-map) | 0.1.0 | 0 | The concepts of a text's passages, their NPMI links and their Louvain communiti… |
-| 2026-11-05 14:05:17 | [zacess-profile](https://crates.io/crates/zacess-profile) | 0.2.0 | 0 | One accessibility profile for every app: state your needs once, derive a checke… |
-| 2026-11-05 14:05:40 | [footprints](https://crates.io/crates/footprints) | 0.2.0 | 0 | See and undo what AI agents do on your machine: a local ledger of file writes,… |
-| 2026-11-05 14:07:09 | [schemaplate_derive](https://crates.io/crates/schemaplate_derive) | 0.1.0 | 0 | Proc macros for `schemaplate` |
-| 2026-11-05 14:08:16 | [schemaplate](https://crates.io/crates/schemaplate) | 0.1.0 | 0 | Reloadable, type-safe template rendering engine |
-| 2026-11-05 14:11:52 | [seiva-server](https://crates.io/crates/seiva-server) | 0.1.0 | 0 | Delonix Seiva — the service runtime: mounts the facade-driven HTTP app, runs a… |
-| 2026-11-05 14:13:19 | [erpc-worker-agent](https://crates.io/crates/erpc-worker-agent) | 0.0.1 | 0 | Name reservation for the erpc CLI workspace crate erpc-worker-agent. This versi… |
-| 2026-11-05 14:14:12 | [pod-wireguard](https://crates.io/crates/pod-wireguard) | 0.0.0 | 0 | Name held for the PodUtils project. Placeholder: the first release is in progre… |
-| 2026-11-05 14:15:13 | [grpc-dc](https://crates.io/crates/grpc-dc) | 0.37.1 | 0 | gRPC over WebRTC DataChannels: dependency-free generated Rust runtime, client a… |
-| 2026-11-05 14:15:22 | [kafka-grpc](https://crates.io/crates/kafka-grpc) | 0.37.1 | 0 | Kafka over gRPC — generated grpcdc.kafka.v1 clients (produce/consume/groups/top… |
-| 2026-11-05 14:16:06 | [rake-diagnostics](https://crates.io/crates/rake-diagnostics) | 0.1.0-alpha.2 | 0 | Bounded structured diagnostics and tracing integration without a UI or HTTP run… |
-| 2026-11-05 14:16:07 | [rake-dist-core](https://crates.io/crates/rake-dist-core) | 0.1.0-alpha.2 | 0 | Portable distribution configuration and package planning for Rake |
-| 2026-11-05 14:16:08 | [rake-macros](https://crates.io/crates/rake-macros) | 0.1.0-alpha.2 | 0 | Facade-aware application, data and instrumentation macros for Rake |
-| 2026-11-05 14:16:09 | [rake-native](https://crates.io/crates/rake-native) | 0.1.0-alpha.2 | 0 | Optional AppKit components hosted in Rake's GPUI layouts |
-| 2026-11-05 14:16:10 | [rake-ui](https://crates.io/crates/rake-ui) | 0.1.0-alpha.2 | 0 | GPUI view helpers, themes and overlays |
+| 2026-11-05 14:23:11 | [windeye](https://crates.io/crates/windeye) | 0.0.0 | 0 | Reserved for Windeye |
+| 2026-11-05 14:23:18 | [rake-protocol](https://crates.io/crates/rake-protocol) | 0.1.0-alpha.2 | 0 | Portable Rake routes, snapshots and development wire contracts |
+| 2026-11-05 14:24:22 | [pod-quick](https://crates.io/crates/pod-quick) | 0.0.0 | 0 | Name held for the PodUtils project. Placeholder: the first release is in progre… |
+| 2026-11-05 14:26:28 | [dorm-outbox](https://crates.io/crates/dorm-outbox) | 0.1.0 | 0 | Optional generic transactional outbox/inbox for DORM: append-only events publis… |
+| 2026-11-05 14:27:55 | [dorker](https://crates.io/crates/dorker) | 0.1.1 | 0 | Docker for headless Android emulator environments |
+| 2026-11-05 14:29:07 | [ebook-hero](https://crates.io/crates/ebook-hero) | 0.3.0 | 0 | Search and read one PDF or EPUB: lexical, semantic and hybrid search, with loca… |
+| 2026-11-05 14:30:35 | [pm-tc](https://crates.io/crates/pm-tc) | 0.1.0-a1 | 0 | 胖喵模板配置工具. Template config tool. |
+| 2026-11-05 14:33:14 | [opencolorio-rs-ops](https://crates.io/crates/opencolorio-rs-ops) | 1.0.0+ocio.2.5.2 | 0 | OpenColorIO ops: op data, CPU renderers (numeric profiles), optimizer, pixel fo… |
+| 2026-11-05 14:33:16 | [opencolorio-rs-formats](https://crates.io/crates/opencolorio-rs-formats) | 1.0.0+ocio.2.5.2 | 0 | OpenColorIO LUT and transform file readers and writers |
+| 2026-11-05 14:33:17 | [opencolorio-rs-gpu](https://crates.io/crates/opencolorio-rs-gpu) | 1.0.0+ocio.2.5.2 | 0 | OpenColorIO GPU shader generation, textures and uniforms |
+| 2026-11-05 14:33:18 | [opencolorio-rs](https://crates.io/crates/opencolorio-rs) | 1.0.0+ocio.2.5.2 | 0 | OpenColorIO 2.5.2, ported to Rust: configs, transforms, processors |
+| 2026-11-05 14:33:26 | [rake-http](https://crates.io/crates/rake-http) | 0.1.0-alpha.2 | 0 | Executor-portable HTTP with bounded deadlines and diagnostics |
+| 2026-11-05 14:34:32 | [pod-udp](https://crates.io/crates/pod-udp) | 0.0.0 | 0 | Name held for the PodUtils project. Placeholder: the first release is in progre… |
+| 2026-11-05 14:35:49 | [hatls-client-ffi](https://crates.io/crates/hatls-client-ffi) | 0.1.0 | 0 | http-api-tls-sdk mobile FFI: UniFFI bindings exposing the client secure channel… |
+| 2026-11-05 14:36:41 | [cuadb](https://crates.io/crates/cuadb) | 0.1.0 | 0 | A local-first database explorer and SQL workspace for PostgreSQL and SQLite, in… |
+| 2026-11-05 14:40:22 | [opencode-zen](https://crates.io/crates/opencode-zen) | 0.1.4 | 0 | Auto-generated Rust SDK for OpenCode Zen API (chat completions) |
+| 2026-11-05 14:41:50 | [qos_attestation](https://crates.io/crates/qos_attestation) | 0.15.2-alpha.0 | 0 | Attestation, verification and caching for QuorumOS |
+| 2026-11-05 14:43:37 | [rake-client](https://crates.io/crates/rake-client) | 0.1.0-alpha.2 | 0 | Standalone discovery and development control client for Rake |
+| 2026-11-05 14:44:41 | [pod-mailbox](https://crates.io/crates/pod-mailbox) | 0.0.0 | 0 | Name held for the PodUtils project. Placeholder: the first release is in progre… |
+| 2026-11-05 14:44:45 | [compresso-rs](https://crates.io/crates/compresso-rs) | 0.1.0 | 0 | Pure Rust implementation of the Compresso codec for connectomics segmentation v… |
+| 2026-11-05 14:45:50 | [shep-openbao](https://crates.io/crates/shep-openbao) | 0.1.1 | 0 | A provider dog for shep: mirrors secrets from OpenBao into shep's secrets store |
+| 2026-11-05 14:46:56 | [scarletbook-ffi](https://crates.io/crates/scarletbook-ffi) | 0.5.8 | 0 | C ABI for scarletbook, a clean-room Super Audio CD image reader |
+| 2026-11-05 14:48:06 | [music21](https://crates.io/crates/music21) | 0.17.0 | 0 | A Rust port of music21: pitches, chords, keys, scores and streams, analysis, an… |
+| 2026-11-05 14:52:13 | [seedcrystal](https://crates.io/crates/seedcrystal) | 0.2.0 | 0 | DNS seeder (dnsseed) for Bitcoin-protocol UTXO chains |
+| 2026-11-05 14:52:32 | [circlet-wire](https://crates.io/crates/circlet-wire) | 0.1.0 | 0 | The Circlet guest ABI wire contract: envelope types, their postcard encoding, a… |
+| 2026-11-05 14:52:38 | [circlet-requirements](https://crates.io/crates/circlet-requirements) | 0.1.0 | 0 | The requirements! macro: an artifact declares what it needs, inside its own con… |
+| 2026-11-05 14:52:44 | [circlet-guest](https://crates.io/crates/circlet-guest) | 0.1.0 | 0 | Write a Circlet guest without touching the ABI: guest_main!, typed fetch/delega… |
+| 2026-11-05 14:53:45 | [rake-resources](https://crates.io/crates/rake-resources) | 0.1.0-alpha.2 | 0 | Installed resource and helper discovery for Rake applications |
+| 2026-11-05 14:54:11 | [celesta](https://crates.io/crates/celesta) | 0.0.0 | 0 | Placeholder for the Celesta project. The real crate is not published yet. |
+| 2026-11-05 14:54:17 | [celesta-budoux](https://crates.io/crates/celesta-budoux) | 0.0.0 | 0 | Placeholder for the Celesta project. The real crate is not published yet. |
+| 2026-11-05 14:54:26 | [celesta-codec-ffmpeg](https://crates.io/crates/celesta-codec-ffmpeg) | 0.0.0 | 0 | Placeholder for the Celesta project. The real crate is not published yet. |
+| 2026-11-05 14:54:31 | [celesta-composition](https://crates.io/crates/celesta-composition) | 0.0.0 | 0 | Placeholder for the Celesta project. The real crate is not published yet. |
+| 2026-11-05 14:54:35 | [celesta-editor-core](https://crates.io/crates/celesta-editor-core) | 0.0.0 | 0 | Placeholder for the Celesta project. The real crate is not published yet. |
+| 2026-11-05 14:54:49 | [pod-reverse](https://crates.io/crates/pod-reverse) | 0.0.0 | 0 | Name held for the PodUtils project. Placeholder: the first release is in progre… |
+| 2026-11-05 15:01:42 | [trosna](https://crates.io/crates/trosna) | 0.1.0 | 0 | Memory-safe columnar time-series file format with verifiable, versioned editing… |
+| 2026-11-05 15:01:45 | [trosna-arrow](https://crates.io/crates/trosna-arrow) | 0.1.0 | 0 | Apache Arrow adapter for the Trosna time-series file format |
+| 2026-11-05 15:01:47 | [trosna-cli](https://crates.io/crates/trosna-cli) | 0.1.0 | 0 | Command-line tool for Trosna time-series files (.trosna): CSV conversion, inspe… |
+| 2026-11-05 15:02:26 | [uuid-slug](https://crates.io/crates/uuid-slug) | 0.6.0 | 0 | Compact UUIDs with reversible UUIDv7 masking and filesystem-safe representations |
+| 2026-11-05 15:03:55 | [rake-updates](https://crates.io/crates/rake-updates) | 0.1.0-alpha.2 | 0 | Native update providers and application lifecycle support for Rake |
+| 2026-11-05 15:04:44 | [celesta-editor-theme](https://crates.io/crates/celesta-editor-theme) | 0.0.0 | 0 | Placeholder for the Celesta project. The real crate is not published yet. |
+| 2026-11-05 15:04:59 | [pod-utils](https://crates.io/crates/pod-utils) | 0.0.0 | 0 | Name held for the PodUtils project. Placeholder: the first release is in progre… |
+| 2026-11-05 15:09:23 | [shep-paddock](https://crates.io/crates/shep-paddock) | 0.1.0 | 0 | A shep dog that leases one host's GPU and RAM to model servers and jobs, behind… |
+| 2026-11-05 15:09:27 | [fraction-royalty-calc](https://crates.io/crates/fraction-royalty-calc) | 1.0.0 | 0 | Tiny helper for oil and gas fraction royalty decimal math used by Fraction Roya… |
+| 2026-11-05 15:10:43 | [test-memory-r-engine](https://crates.io/crates/test-memory-r-engine) | 0.1.1 | 0 | The engine of TMR (Test Memory R), a DDR5 memory tester for Windows: its tests,… |
+| 2026-11-05 15:10:46 | [test-memory-r-cli](https://crates.io/crates/test-memory-r-cli) | 0.1.1 | 0 | The console of TMR (Test Memory R), a DDR5 memory tester for Windows: a session… |
+| 2026-11-05 15:10:50 | [test-memory-r-gui](https://crates.io/crates/test-memory-r-gui) | 0.1.1 | 0 | The window of TMR (Test Memory R), a DDR5 memory tester for Windows: a run's pr… |
+| 2026-11-05 15:10:53 | [test-memory-r](https://crates.io/crates/test-memory-r) | 0.1.1 | 0 | TMR (Test Memory R), a DDR5 memory tester for Windows that runs TestMem5 config… |
+| 2026-11-05 15:10:59 | [riffdb-config](https://crates.io/crates/riffdb-config) | 0.1.0 | 0 | First-party RiffDB runtime crate (riffdb-config) |
+| 2026-11-05 15:11:01 | [riffdb-client-rust](https://crates.io/crates/riffdb-client-rust) | 0.1.0 | 0 | First-party RiffDB runtime crate (riffdb-client-rust) |
+| 2026-11-05 15:11:16 | [onebudgetspec-plugin-onevcs](https://crates.io/crates/onebudgetspec-plugin-onevcs) | 0.1.0 | 0 | Deliver onebudgetspec reports and read saved base-branch budget history through… |
+| 2026-11-05 15:14:08 | [rak](https://crates.io/crates/rak) | 0.1.0-alpha.2 | 0 | Portable application foundation for GPUI native and browser applications |
+| 2026-11-05 15:14:52 | [celesta-editor](https://crates.io/crates/celesta-editor) | 0.0.0 | 0 | Placeholder for the Celesta project. The real crate is not published yet. |
+| 2026-11-05 15:15:02 | [synra-plugin-sdk](https://crates.io/crates/synra-plugin-sdk) | 0.1.0 | 0 | What a Synra plugin is written against: the generated host bindings and the typ… |
+| 2026-11-05 15:15:10 | [podnet-core](https://crates.io/crates/podnet-core) | 0.0.0 | 0 | The core of podnet. Placeholder: the first release is in progress. |
+| 2026-11-05 15:15:41 | [synra-platform](https://crates.io/crates/synra-platform) | 0.1.0 | 0 | Host system capabilities: the Platform trait and the rules that bound it |
+| 2026-11-05 15:16:02 | [synra-control](https://crates.io/crates/synra-control) | 0.1.0 | 0 | The channel between a command-line client and a kernel on the same machine |
+| 2026-11-05 15:16:22 | [synra-ipc](https://crates.io/crates/synra-ipc) | 0.1.0 | 0 | The contract between the host shell and its interface: commands, events and err… |
+| 2026-11-05 15:17:52 | [synra-core](https://crates.io/crates/synra-core) | 0.1.0 | 0 | The kernel: domain model, aggregates, state machines and orchestration |
+| 2026-11-05 15:18:25 | [wcoj](https://crates.io/crates/wcoj) | 0.1.0 | 0 | Leapfrog Triejoin over flat tries for K-ary relations and N-variable queries, w… |
+| 2026-11-05 15:18:28 | [odos](https://crates.io/crates/odos) | 0.0.2 | 0 | File-based routing for Dioxus |
+| 2026-11-05 15:21:37 | [kodact-config](https://crates.io/crates/kodact-config) | 0.1.0 | 0 | Settings layers, memory files (KODACT.md) and resource search paths. |
+| 2026-11-05 15:21:39 | [kodact-platform](https://crates.io/crates/kodact-platform) | 0.1.0 | 0 | OS differences in one place: the shell commands run in, process trees, path dis… |
+| 2026-11-05 15:21:42 | [kodact-types](https://crates.io/crates/kodact-types) | 0.1.0 | 0 | Wire types: Messages API content blocks, stream events and the SDK stream-json… |
+| 2026-11-05 15:21:50 | [kodact-api](https://crates.io/crates/kodact-api) | 0.1.0 | 0 | Model providers: the Messages API (SSE streaming), OpenAI-compatible endpoints,… |
+| 2026-11-05 15:21:52 | [kodact-compact](https://crates.io/crates/kodact-compact) | 0.1.0 | 0 | Context compaction (contract C9): micro-compaction of stale tool results, thres… |
 
 ## Data source
 
