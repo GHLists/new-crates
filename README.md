@@ -8,40 +8,45 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-05 12:18 UTC
+## Latest list — 2026-11-05 13:18 UTC
 
-New crates published between 2026-11-05 11:19 UTC and 2026-11-05 12:18 UTC.
+New crates published between 2026-11-05 12:18 UTC and 2026-11-05 13:18 UTC.
 
-[Full CSV](data/new-crates-2026-11-05T12-18-42-596498Z.csv)
+[Full CSV](data/new-crates-2026-11-05T13-18-43-401919Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-05 11:21:37 | [tpt-media-mote](https://crates.io/crates/tpt-media-mote) | 0.2.0 | 0 | Mote: TPT extreme edge/IoT video codec (8x8 patch dictionary VQ, 4096 entries,… |
-| 2026-11-05 11:22:02 | [nostr-social-graph-hashtree](https://crates.io/crates/nostr-social-graph-hashtree) | 0.2.0 | 0 | Hashtree-backed persistence for the Nostr social graph |
-| 2026-11-05 11:25:04 | [rsxcs](https://crates.io/crates/rsxcs) | 0.1.0 | 0 | Rust translation of the DFTxclib density-functional exchange-correlation library |
-| 2026-11-05 11:26:27 | [pod-session](https://crates.io/crates/pod-session) | 0.0.0 | 0 | Resumable sessions over unreliable transports. Placeholder: the first release i… |
-| 2026-11-05 11:30:54 | [spaceui](https://crates.io/crates/spaceui) | 0.1.0 | 0 | A design system for egui desktop apps: themes, anti-aliased painting, vector ic… |
-| 2026-11-05 11:31:38 | [tpt-media-format](https://crates.io/crates/tpt-media-format) | 0.2.0 | 0 | The native .tpt container format: TLV chunks, header, TRAK, CLUS, seeking, stre… |
-| 2026-11-05 11:31:49 | [knobs](https://crates.io/crates/knobs) | 0.0.9 | 0 | A helper library to create a node graph UI using egui as base framework, with a… |
-| 2026-11-05 11:36:36 | [pod-e2e](https://crates.io/crates/pod-e2e) | 0.0.0 | 0 | End-to-end encryption between PodUtils peers, through untrusted relays. Placeho… |
-| 2026-11-05 11:41:44 | [pod-warp](https://crates.io/crates/pod-warp) | 0.0.0 | 0 | A Cloudflare WARP client library for PodUtils tools. Placeholder: the first rel… |
-| 2026-11-05 11:41:53 | [tpt-media-pipeline](https://crates.io/crates/tpt-media-pipeline) | 0.2.0 | 0 | Node-based media pipeline (Source -> Demux -> Decode -> Filter -> Encode -> Mux… |
-| 2026-11-05 11:43:49 | [spores](https://crates.io/crates/spores) | 0.0.1 | 0 | Spores: one programming model for distributed applications on object storage -… |
-| 2026-11-05 11:43:57 | [seedbed](https://crates.io/crates/seedbed) | 0.0.1 | 0 | Seedbed: one seed, every engine. A deterministic simulator that judges real pro… |
-| 2026-11-05 11:46:40 | [curl-runner-cloud-proto](https://crates.io/crates/curl-runner-cloud-proto) | 2.6.0 | 0 | Wire protocol shared by the curl-runner Cloud server, CLI and studio |
-| 2026-11-05 11:51:38 | [tpt-media-probe](https://crates.io/crates/tpt-media-probe) | 0.2.0 | 0 | Container and codec introspection for the tpt-media stack. |
-| 2026-11-05 11:51:52 | [pod-cloudflare](https://crates.io/crates/pod-cloudflare) | 0.0.0 | 0 | Cloudflare tunnels and quick tunnels as a library for PodUtils tools. Placehold… |
-| 2026-11-05 11:53:30 | [omochi-ui-macros](https://crates.io/crates/omochi-ui-macros) | 0.1.3 | 0 | Typed action input generation for omochi-ui |
-| 2026-11-05 11:53:47 | [omochi-mdns](https://crates.io/crates/omochi-mdns) | 0.2.1 | 0 | Cross-platform mDNS advertisement and discovery for Omochi Iroh endpoints |
-| 2026-11-05 11:56:52 | [synra-protocol](https://crates.io/crates/synra-protocol) | 0.1.0 | 0 | Synra wire protocol: frames, envelopes, events, sessions. Pure data — no I/O. |
-| 2026-11-05 12:02:02 | [pod-wormhole](https://crates.io/crates/pod-wormhole) | 0.0.0 | 0 | Magic-wormhole style transfers for PodUtils tools. Placeholder: the first relea… |
-| 2026-11-05 12:11:59 | [synra-wit-codegen](https://crates.io/crates/synra-wit-codegen) | 0.1.0 | 0 | Reads wit/synra-plugin.wit and derives the capability table the kernel enforces |
-| 2026-11-05 12:12:14 | [pod-transit](https://crates.io/crates/pod-transit) | 0.0.0 | 0 | Transit relays for direct or relayed peer connections. Placeholder: the first r… |
-| 2026-11-05 12:12:34 | [synra-store](https://crates.io/crates/synra-store) | 0.1.0 | 0 | Persistence: the schema, the plugin sandbox, and secret storage |
-| 2026-11-05 12:12:54 | [synra-capability](https://crates.io/crates/synra-capability) | 0.1.0 | 0 | The Synra capability DSL: parsing, matching, and the sets a plugin holds |
-| 2026-11-05 12:13:43 | [synra-observe](https://crates.io/crates/synra-observe) | 0.1.0 | 0 | Logging, tracing, metrics, audit and diagnostics for the Synra kernel |
-| 2026-11-05 12:14:02 | [synra-net](https://crates.io/crates/synra-net) | 0.1.0 | 0 | Transport: discovery, connections, heartbeats and reconnection |
-| 2026-11-05 12:14:52 | [synra-plugin-api](https://crates.io/crates/synra-plugin-api) | 0.1.0 | 0 | The plugin contract: manifest, host calls, and the stable API surface |
+| 2026-11-05 12:22:24 | [pod-relay-serve](https://crates.io/crates/pod-relay-serve) | 0.0.0 | 0 | The relay server of PodUtils. Placeholder: the first release is in progress. |
+| 2026-11-05 12:25:51 | [synra-registry](https://crates.io/crates/synra-registry) | 0.1.0 | 0 | Reading a registry's package metadata, and opening the tarball it points at |
+| 2026-11-05 12:31:02 | [erpc-chain-arc](https://crates.io/crates/erpc-chain-arc) | 0.0.1 | 0 | Name reservation for the erpc CLI workspace crate erpc-chain-arc. This version… |
+| 2026-11-05 12:32:34 | [pod-derp](https://crates.io/crates/pod-derp) | 0.0.0 | 0 | DERP relay support for PodUtils tools. Placeholder: the first release is in pro… |
+| 2026-11-05 12:41:16 | [erpc-chain-avax](https://crates.io/crates/erpc-chain-avax) | 0.0.1 | 0 | Name reservation for the erpc CLI workspace crate erpc-chain-avax. This version… |
+| 2026-11-05 12:42:33 | [tauri-plugin-module-federation](https://crates.io/crates/tauri-plugin-module-federation) | 1.0.0 | 0 | Tauri plugin for Module Federation remote loading and offline cache fallback. |
+| 2026-11-05 12:42:45 | [pod-acme](https://crates.io/crates/pod-acme) | 0.0.0 | 0 | ACME certificates for PodUtils servers. Placeholder: the first release is in pr… |
+| 2026-11-05 12:43:26 | [paperpaw-plugin-picture-home](https://crates.io/crates/paperpaw-plugin-picture-home) | 1.0.0 | 0 | PaperPaw picture home screen: your own picture behind the widgets, free placeme… |
+| 2026-11-05 12:44:19 | [synra-plugin-ui](https://crates.io/crates/synra-plugin-ui) | 0.1.0 | 0 | UI plugin artifacts and the per-WebView session tokens that gate their calls |
+| 2026-11-05 12:47:15 | [rfc9162](https://crates.io/crates/rfc9162) | 0.6.1 | 0 | RFC 9162 Merkle tree hashes, inclusion and consistency proofs, over leaf hashes |
+| 2026-11-05 12:51:30 | [erpc-chain-bitcoin](https://crates.io/crates/erpc-chain-bitcoin) | 0.0.1 | 0 | Name reservation for the erpc CLI workspace crate erpc-chain-bitcoin. This vers… |
+| 2026-11-05 12:52:54 | [pod-core](https://crates.io/crates/pod-core) | 0.0.0 | 0 | The base crate of PodUtils: shared traits, errors and settings. Placeholder: th… |
+| 2026-11-05 12:55:15 | [msrec](https://crates.io/crates/msrec) | 0.1.2 | 0 | Wrapper for API of Monster Siren Records music service. |
+| 2026-11-05 12:56:47 | [seiva-ports](https://crates.io/crates/seiva-ports) | 0.1.0 | 0 | Trait-only ports (UnitOfWork, EventPublisher, Clock, IdGenerator) for the Delon… |
+| 2026-11-05 12:56:51 | [seiva-macros](https://crates.io/crates/seiva-macros) | 0.1.0 | 0 | Procedural macros for the Delonix Seiva framework (#[seiva::facade]). |
+| 2026-11-05 12:56:56 | [seiva-identity](https://crates.io/crates/seiva-identity) | 0.1.0 | 0 | Identity for Delonix Seiva: one verified Principal and an Authenticator trait,… |
+| 2026-11-05 12:57:00 | [seiva-config](https://crates.io/crates/seiva-config) | 0.1.0 | 0 | Typed, 12-factor (environment-variable) configuration for the Delonix Seiva fra… |
+| 2026-11-05 12:57:05 | [seiva-webhooks](https://crates.io/crates/seiva-webhooks) | 0.1.0 | 0 | Sign and verify webhooks per the Standard Webhooks spec: HMAC-SHA256 signatures… |
+| 2026-11-05 13:01:04 | [event-reduce](https://crates.io/crates/event-reduce) | 7.4.1 | 0 | Update live query results from database change events without re-running the qu… |
+| 2026-11-05 13:01:43 | [seiva-auth](https://crates.io/crates/seiva-auth) | 0.1.0 | 0 | Credential primitives for Delonix Seiva: Argon2id password hashing in the PHC s… |
+| 2026-11-05 13:01:43 | [erpc-chain-eth](https://crates.io/crates/erpc-chain-eth) | 0.0.1 | 0 | Name reservation for the erpc CLI workspace crate erpc-chain-eth. This version… |
+| 2026-11-05 13:02:30 | [netflow_analyzer_core](https://crates.io/crates/netflow_analyzer_core) | 0.3.0 | 0 | Zero-copy NetFlow v5/v9 and IPFIX decoding and flow-aggregation engine. |
+| 2026-11-05 13:03:03 | [pod-quic](https://crates.io/crates/pod-quic) | 0.0.0 | 0 | QUIC transport for PodUtils tools. Placeholder: the first release is in progres… |
+| 2026-11-05 13:08:14 | [wordcloud](https://crates.io/crates/wordcloud) | 0.1.0 | 0 | Seed-exact, fast Rust port of the Python wordcloud generator (amueller/word_clo… |
+| 2026-11-05 13:10:45 | [synra-plugin-host](https://crates.io/crates/synra-plugin-host) | 0.1.0 | 0 | Plugin sandbox: capability gates, quotas, lifecycle and the instance pool |
+| 2026-11-05 13:11:45 | [seiva-messaging](https://crates.io/crates/seiva-messaging) | 0.1.0 | 0 | Messaging for Delonix Seiva: a CloudEvents 1.0 envelope, a Publisher trait, and… |
+| 2026-11-05 13:11:57 | [erpc-chain-nitro](https://crates.io/crates/erpc-chain-nitro) | 0.0.1 | 0 | Name reservation for the erpc CLI workspace crate erpc-chain-nitro. This versio… |
+| 2026-11-05 13:12:20 | [vkfetch](https://crates.io/crates/vkfetch) | 0.4.0 | 0 | A fetch program that shows your Vulkan graphics cards, a Rust rewrite of Wunkol… |
+| 2026-11-05 13:13:14 | [pod-egress](https://crates.io/crates/pod-egress) | 0.0.0 | 0 | Probe the egress of a host: what ways out its network allows. Placeholder: the… |
+| 2026-11-05 13:16:41 | [mouser-mode-api](https://crates.io/crates/mouser-mode-api) | 0.1.0 | 0 | Protocol, UI model and SDK for Mouser mode plugins (persistent child process, M… |
+| 2026-11-05 13:16:51 | [mouser-engine-abi](https://crates.io/crates/mouser-engine-abi) | 1.0.0 | 0 | Stable C ABI (v2) for Mouser custom rendering engines |
 
 ## Data source
 
