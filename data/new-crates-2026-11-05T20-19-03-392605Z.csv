@@ -1,0 +1,34 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-05T19:27:59.637714Z,morm,0.0.0,0,0,https://github.com/biggaloy/rust-morm,"Reserved name for rust-morm, a PostgreSQL model library. Not usable yet."
+2026-11-05T19:28:03.890557Z,morm-core,0.0.0,0,0,https://github.com/biggaloy/rust-morm,"Reserved name for rust-morm, a PostgreSQL model library. Not usable yet."
+2026-11-05T19:28:06.533496Z,morm-macros,0.0.0,0,0,https://github.com/biggaloy/rust-morm,"Reserved name for rust-morm, a PostgreSQL model library. Not usable yet."
+2026-11-05T19:28:07.160969Z,lajstrom,0.0.1,0,0,https://github.com/lajstrom/lajstrom,"Lajstrom: artifact registry (apt, rpm, maven, pypi, npm, terraform) on top of any OCI registry. Name reserved, work in progress."
+2026-11-05T19:28:09.725004Z,morm-migrate,0.0.0,0,0,https://github.com/biggaloy/rust-morm,"Reserved name for rust-morm, a PostgreSQL model library. Not usable yet."
+2026-11-05T19:28:12.079465Z,morm-admin,0.0.0,0,0,https://github.com/biggaloy/rust-morm,"Reserved name for rust-morm, a PostgreSQL model library. Not usable yet."
+2026-11-05T19:28:54.838868Z,kirby-csms-core,0.4.0,0,0,https://github.com/archhaze24/kirby-ocpp,"OCPP 1.6J central system (CSMS) engine: multi-station WebSocket server, command queue, scripted replies (no UI)"
+2026-11-05T19:29:05.02353Z,kirby-csms-tui,0.4.0,0,0,https://github.com/archhaze24/kirby-ocpp,Terminal UI for the kirby-csms central system (observe many stations)
+2026-11-05T19:29:25.245951Z,kirby-csms,0.4.0,0,0,https://github.com/archhaze24/kirby-ocpp,Terminal OCPP 1.6J central system (CSMS) for charge point firmware development and load tests
+2026-11-05T19:30:36.170799Z,bugsplat-sys,0.1.0,0,0,,"Raw FFI bindings to bugsplat-native, BugSplat's out-of-process crash reporter (Crashpad)"
+2026-11-05T19:30:38.205928Z,bugsplat,0.1.0,0,0,,"Crash reporting for Rust apps with BugSplat: out-of-process minidumps, panics and webview JavaScript errors"
+2026-11-05T19:30:39.079738Z,tauri-plugin-bugsplat,0.1.0,0,0,,"BugSplat crash reporting for Tauri: native crashes, Rust panics and webview JavaScript errors"
+2026-11-05T19:31:54.311635Z,figlock,0.0.0,0,0,https://github.com/seemantshekhar43/figlock,"Placeholder reserving the name for FigLock, a headless, agent-aware password manager."
+2026-11-05T19:32:00.816726Z,figlock-core,0.0.0,0,0,https://github.com/seemantshekhar43/figlock,"Placeholder reserving the name for FigLock, a headless, agent-aware password manager."
+2026-11-05T19:32:07.443268Z,figlock-store,0.0.0,0,0,https://github.com/seemantshekhar43/figlock,"Placeholder reserving the name for FigLock, a headless, agent-aware password manager."
+2026-11-05T19:33:38.815079Z,starmap-derive,0.1.0,0,0,https://github.com/crumbkit/starmap,"The derive macros of starmap, which read an application's environment into a typed struct"
+2026-11-05T19:33:41.41802Z,starmap,0.1.0,0,0,https://github.com/crumbkit/starmap,"Declares the environment variables an application reads, checks values against the declaration and applies them to a child process"
+2026-11-05T19:33:43.972389Z,starmap-resolve,0.1.0,0,0,https://github.com/crumbkit/starmap,Resolves the values of an application's declared environment variables for the program that starts it
+2026-11-05T19:33:44.614952Z,starmap-test,0.1.0,0,0,https://github.com/crumbkit/starmap,Tests that an application's starmap declaration matches the environment variables its code reads
+2026-11-05T19:33:46.928384Z,starmap-cli,0.1.0,0,0,https://github.com/crumbkit/starmap,"The starmap command, which checks, explains, compares and runs an application's declared environment"
+2026-11-05T19:34:19.292902Z,adaptif-gatotkaca-utils,0.11.1,0,0,https://github.com/csatrio/adaptif-gatotkaca-utils,"Low-level building blocks used by the adaptif-gatotkaca transport system: a no-hash u64 map, intrusive ref-counted pointers, and a lock-free Treiber stack."
+2026-11-05T19:38:33.102468Z,morm-mgr,0.0.0,0,0,https://github.com/biggaloy/rust-morm,"Reserved name for rust-morm, a PostgreSQL model library. Not usable yet."
+2026-11-05T19:47:44.695138Z,draupnir-oci,0.1.2,0,0,https://git.gunnar.rs/mikronova/draupnir,"A small podman (libpod and Docker-compat) REST client over the API socket: images (inspect, pull, load, export, build), containers (create, start, stop, wait, remove, inspect, list, archive), logs, a…"
+2026-11-05T19:49:27.821139Z,bowire-plugin,0.2.0,0,0,https://github.com/Kuestenlogik/Bowire.Sdk.Rust,Rust SDK for writing Bowire protocol plugins as polyglot sidecars (JSON-RPC over stdio or HTTP/SSE).
+2026-11-05T19:55:40.897087Z,awsr-models,2.39.3,0,0,https://github.com/conao3/rust-awscli,"The botocore service models, CLI data, and help inputs of the AWS CLI 2.39.3, embedded by awsr"
+2026-11-05T19:55:44.500262Z,awsr-models-services-a-l,2.39.3,0,0,https://github.com/conao3/rust-awscli,"The botocore service models of the AWS CLI 2.39.3 whose names start with a to l, embedded by awsr"
+2026-11-05T19:55:48.211064Z,awsr-models-services-m-z,2.39.3,0,0,https://github.com/conao3/rust-awscli,"The botocore service models of the AWS CLI 2.39.3 whose names start with m to z, embedded by awsr"
+2026-11-05T19:56:07.009824Z,awsr,0.2.2,0,0,https://github.com/conao3/rust-awscli,"A fast, output-compatible Rust reimplementation of the AWS CLI v2"
+2026-11-05T20:00:03.368585Z,alchemize,0.0.0,0,0,https://github.com/Kirky-X/alchemize,Transmute any document into Markdown
+2026-11-05T20:03:35.839242Z,aws-sdk-accountaccessruntime,1.0.0,0,0,https://github.com/awslabs/aws-sdk-rust,AWS SDK for Account Access Runtime
+2026-11-05T20:10:13.108342Z,naq-proto,0.1.0,0,0,https://github.com/paddor/naq,Sans-I/O codec for the NATS client and leaf node protocols
+2026-11-05T20:10:16.541082Z,naq,0.1.0,0,0,https://github.com/paddor/naq,Core NATS server
+2026-11-05T20:12:26.591673Z,rust-office-art,0.1.0,0,0,https://github.com/extend-hq/rust-office,Shared Office picture rendering for native Rust and WebAssembly
