@@ -8,41 +8,58 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-05 04:18 UTC
+## Latest list — 2026-11-05 05:20 UTC
 
-New crates published between 2026-11-05 03:19 UTC and 2026-11-05 04:18 UTC.
+New crates published between 2026-11-05 04:18 UTC and 2026-11-05 05:20 UTC.
 
-[Full CSV](data/new-crates-2026-11-05T04-18-35-140194Z.csv)
+[Full CSV](data/new-crates-2026-11-05T05-20-06-726954Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-05 03:21:29 | [ccctl](https://crates.io/crates/ccctl) | 0.1.0 | 0 | The CLI tool to control your Claude Code sessions running in tmux |
-| 2026-11-05 03:23:03 | [rustcdp](https://crates.io/crates/rustcdp) | 0.0.0 | 0 | Async Chrome and Chromium automation in Rust, with typed access to the Chrome D… |
-| 2026-11-05 03:23:42 | [neocogi-skin-impl](https://crates.io/crates/neocogi-skin-impl) | 0.1.0-alpha.2 | 0 | Style and external-theme implementation for the NeoCogi Skin plugin |
-| 2026-11-05 03:33:48 | [neocogi-skin](https://crates.io/crates/neocogi-skin) | 0.1.0-alpha.2 | 0 | NeoCogi appearance and external-theme plugin |
-| 2026-11-05 03:38:50 | [rscdp](https://crates.io/crates/rscdp) | 0.1.0 | 0 | Async Chrome and Chromium automation in Rust, with typed access to the Chrome D… |
-| 2026-11-05 03:42:15 | [rvf-wasm](https://crates.io/crates/rvf-wasm) | 0.1.0 | 0 | RuVector Format WASM microkernel for browser and edge vector operations |
-| 2026-11-05 03:42:25 | [rvf-solver-wasm](https://crates.io/crates/rvf-solver-wasm) | 0.1.0 | 0 | RVF self-learning temporal solver WASM module — Thompson Sampling, PolicyKernel… |
-| 2026-11-05 03:42:36 | [emergent-time-wasm](https://crates.io/crates/emergent-time-wasm) | 0.1.1 | 0 | WASM bindings for the agentic-time layer of the emergent-time crate: measure an… |
-| 2026-11-05 03:43:55 | [neocogi-gfx-dylib](https://crates.io/crates/neocogi-gfx-dylib) | 0.1.0-alpha.2 | 0 | Final dynamic entrypoint for neocogi-gfx |
-| 2026-11-05 03:45:12 | [authkeys](https://crates.io/crates/authkeys) | 0.1.1 | 0 | SSH authorized_keys-style public-key pinning for gRPC over mutual TLS, with hot… |
-| 2026-11-05 03:50:54 | [kasi-macros](https://crates.io/crates/kasi-macros) | 0.1.1 | 0 | Procedural compilation attributes and polymorphic response macros for the Kasi… |
-| 2026-11-05 03:54:01 | [neocogi-skin-dylib](https://crates.io/crates/neocogi-skin-dylib) | 0.1.0-alpha.2 | 0 | Final dynamic entrypoint for neocogi-skin |
-| 2026-11-05 04:00:26 | [afastorm-derive](https://crates.io/crates/afastorm-derive) | 0.0.1 | 0 | Procedural derive macro for model metadata in the afastorm SQLx ORM. |
-| 2026-11-05 04:00:28 | [rg-primitives](https://crates.io/crates/rg-primitives) | 0.1.0 | 0 | Railgun field, Poseidon, BabyJubJub, EdDSA, Ed25519 and AES primitives |
-| 2026-11-05 04:00:29 | [rg-prover](https://crates.io/crates/rg-prover) | 0.1.0 | 0 | Circom witness from the circuit wasm, snarkjs zkey loading and Groth16 proving… |
-| 2026-11-05 04:00:32 | [rg-keys](https://crates.io/crates/rg-keys) | 0.1.0 | 0 | Railgun key derivation and 0zk addresses |
-| 2026-11-05 04:00:33 | [rg-tree](https://crates.io/crates/rg-tree) | 0.1.0 | 0 | Railgun's Poseidon Merkle tree: depth 16, one tree per 65,536 leaves |
-| 2026-11-05 04:00:35 | [rg-broadcaster](https://crates.io/crates/rg-broadcaster) | 0.1.0 | 0 | Railgun broadcasters: signed fee offers, encrypted transact requests, and a Wak… |
-| 2026-11-05 04:02:51 | [feathrise_frame_generation_ui](https://crates.io/crates/feathrise_frame_generation_ui) | 0.1.0 | 0 | World UI separation and transparent capture for frame generation |
-| 2026-11-05 04:04:07 | [neocogi-ui-design](https://crates.io/crates/neocogi-ui-design) | 0.1.0-alpha.2 | 0 | Typed authoring metadata and validation for NeoCogi UI components |
-| 2026-11-05 04:05:38 | [rg-notes](https://crates.io/crates/rg-notes) | 0.1.0 | 0 | Railgun notes: token hashes, commitments, nullifiers, V2 note and shield cipher… |
-| 2026-11-05 04:07:15 | [chemomer](https://crates.io/crates/chemomer) | 0.1.0 | 0 | Native Rust InChI engine, gated by the shared inchi-tests oracle corpus |
-| 2026-11-05 04:11:38 | [alumina-code](https://crates.io/crates/alumina-code) | 0.1.0 | 0 | A code editor for egui that keeps the indentation |
-| 2026-11-05 04:13:31 | [kasi-core](https://crates.io/crates/kasi-core) | 0.1.1 | 0 | Procedural compilation attributes and polymorphic response macros for the Kasi… |
-| 2026-11-05 04:13:47 | [feathrise_runtime_manifest](https://crates.io/crates/feathrise_runtime_manifest) | 0.1.0 | 0 | Dependency-free identities for Feathrise native runtime deployment |
-| 2026-11-05 04:14:13 | [neocogi-ui-document](https://crates.io/crates/neocogi-ui-document) | 0.1.0-alpha.2 | 0 | Typed NeoCogi UI documents, component reconstruction and reload |
-| 2026-11-05 04:15:54 | [rg-poi](https://crates.io/crates/rg-poi) | 0.1.0 | 0 | Private Proof of Innocence: txid tree, blinded commitments, POI circuit inputs… |
+| 2026-11-05 04:21:59 | [autumn-datepicker-plugin](https://crates.io/crates/autumn-datepicker-plugin) | 0.1.0 | 0 | Date, time, date-time and date-range pickers for Autumn: a server-rendered cale… |
+| 2026-11-05 04:24:00 | [xpa-sheet-core](https://crates.io/crates/xpa-sheet-core) | 0.1.2 | 0 | Deterministic spreadsheet state machine and synchronization contracts for XPA |
+| 2026-11-05 04:24:19 | [neocogi-ui-samples](https://crates.io/crates/neocogi-ui-samples) | 0.1.0-alpha.2 | 0 | Reusable NeoCogi sample widget contracts and event constructors |
+| 2026-11-05 04:24:41 | [feathrise_frame_generation](https://crates.io/crates/feathrise_frame_generation) | 0.1.0 | 0 | Optional Windows Vulkan Streamline and DLSS frame generation integration |
+| 2026-11-05 04:25:44 | [xpa-sheet-native](https://crates.io/crates/xpa-sheet-native) | 0.1.2 | 0 | Native SQLite storage and HTTP/WebSocket drivers for the XPA spreadsheet runtime |
+| 2026-11-05 04:26:17 | [rg-sync](https://crates.io/crates/rg-sync) | 0.1.0 | 0 | Railgun event decoding, commitment trees from events, nullifiers and root histo… |
+| 2026-11-05 04:26:27 | [afastorm](https://crates.io/crates/afastorm) | 0.0.1 | 0 | A framework-independent SQLx ORM with typed models, migrations, soft deletes, o… |
+| 2026-11-05 04:28:56 | [interscript](https://crates.io/crates/interscript) | 0.1.0 | 0 | Rust runtime for Interscript ISC maps, executing the parsanol .parg grammar |
+| 2026-11-05 04:29:23 | [zen-window-handle](https://crates.io/crates/zen-window-handle) | 0.1.0 | 0 | Minimal, dependency-free window/display handle types for the Zen ecosystem (Zen… |
+| 2026-11-05 04:29:24 | [zengpu-spv](https://crates.io/crates/zengpu-spv) | 0.1.0 | 0 | ZenGPU SPIR-V tooling: dependency-free disassembler and structural validator. |
+| 2026-11-05 04:29:26 | [zengpu-zslc](https://crates.io/crates/zengpu-zslc) | 0.1.0 | 0 | ZenGPU ZSL compiler: IR, type checking, passes, and SPIR-V / HIP / CUDA / MSL b… |
+| 2026-11-05 04:29:29 | [zengpu-hal](https://crates.io/crates/zengpu-hal) | 0.1.0 | 0 | ZenGPU shared-core foundation: backend-independent types, generational handles,… |
+| 2026-11-05 04:29:29 | [zengpu-zsl](https://crates.io/crates/zengpu-zsl) | 0.1.0 | 0 | ZenGPU shader proc-macro internals: ZSL token glue over zengpu-zslc. |
+| 2026-11-05 04:34:57 | [zengpu-shader](https://crates.io/crates/zengpu-shader) | 0.1.0 | 0 | ZenGPU shader macro: compile GLSL or ZSL to SPIR-V at build time. |
+| 2026-11-05 04:35:29 | [feathrise_fsr3_frame_generation](https://crates.io/crates/feathrise_fsr3_frame_generation) | 0.1.0 | 0 | Optional Windows Vulkan FSR frame generation with pinned native binaries |
+| 2026-11-05 04:36:38 | [rg-wallet](https://crates.io/crates/rg-wallet) | 0.1.0 | 0 | Railgun wallet scan: trial-decrypt synced commitments, TXOs, spent status, bala… |
+| 2026-11-05 04:37:40 | [mtxdb](https://crates.io/crates/mtxdb) | 0.1.0-beta.3 | 0 | mtxdb: write-once, content-addressed packfile storage engine for Matrix |
+| 2026-11-05 04:40:02 | [mtxdb-cli](https://crates.io/crates/mtxdb-cli) | 0.1.0-beta.3 | 0 | mtxdb: CLI and core library components; fast Matrix binary DB. |
+| 2026-11-05 04:42:11 | [zengpu-compute](https://crates.io/crates/zengpu-compute) | 0.1.0 | 0 | ZenGPU compute runtime: DeviceArray, pooled allocation, and elementwise dispatc… |
+| 2026-11-05 04:45:01 | [rg-tx](https://crates.io/crates/rg-tx) | 0.1.0 | 0 | Railgun private transfers: bound params, signing, circuit inputs and the transa… |
+| 2026-11-05 04:46:33 | [feathrise_portal](https://crates.io/crates/feathrise_portal) | 0.1.0 | 0 | Data driven portals and scene transitions for Bevy projects |
+| 2026-11-05 04:47:20 | [kasi-security](https://crates.io/crates/kasi-security) | 0.1.5 | 0 | Procedural compilation attributes and polymorphic response macros for the Kasi… |
+| 2026-11-05 04:52:30 | [zengpu-cpu](https://crates.io/crates/zengpu-cpu) | 0.1.0 | 0 | ZenGPU CPU reference backend: the conformance oracle, not a product fallback. |
+| 2026-11-05 04:55:06 | [kura](https://crates.io/crates/kura) | 0.1.0 | 0 | Kura Store: an experimental standalone object storage engine |
+| 2026-11-05 04:55:33 | [rg-core](https://crates.io/crates/rg-core) | 0.1.0 | 0 | The wallet API the bindings sit on: chain store, sync, transfers and POI |
+| 2026-11-05 04:57:25 | [pathr](https://crates.io/crates/pathr) | 0.1.0 | 0 | A lightning-fast, zero-dependency cross-platform PATH manager and cleaner |
+| 2026-11-05 04:57:33 | [feathrise_scene](https://crates.io/crates/feathrise_scene) | 0.1.0 | 0 | Data driven scene loading, author views and asset lifecycle |
+| 2026-11-05 05:00:27 | [pi_graph_derive](https://crates.io/crates/pi_graph_derive) | 0.5.0 | 0 | Derive macros for typed graph models |
+| 2026-11-05 05:01:24 | [kasi-jb](https://crates.io/crates/kasi-jb) | 0.1.5 | 0 | An enterprise-grade, compile-time optimized async microservice framework built… |
+| 2026-11-05 05:02:05 | [zengpu-cuda](https://crates.io/crates/zengpu-cuda) | 0.1.0 | 0 | ZenGPU CUDA Driver API compute backend (NVIDIA, compute HAL only). |
+| 2026-11-05 05:02:50 | [zstd-native](https://crates.io/crates/zstd-native) | 0.1.0+zstd.1.5.7 | 0 | Fastest pure Rust Zstandard (zstd) compression and decompression: byte-identica… |
+| 2026-11-05 05:03:51 | [pari-core](https://crates.io/crates/pari-core) | 0.1.1 | 0 | Core similarity primitives for the Pari engine |
+| 2026-11-05 05:03:52 | [pari-format](https://crates.io/crates/pari-format) | 0.1.1 | 0 | Safe codecs and versioned index format for the Pari engine |
+| 2026-11-05 05:03:53 | [pari-index](https://crates.io/crates/pari-index) | 0.1.1 | 0 | Batch-first similarity indexes for the Pari engine |
+| 2026-11-05 05:03:54 | [pari-store](https://crates.io/crates/pari-store) | 0.1.1 | 0 | Crash-safe local persistent similarity indexes for the Pari engine |
+| 2026-11-05 05:04:31 | [aerolog-cbor](https://crates.io/crates/aerolog-cbor) | 0.1.0 | 0 | Lightweight zero-dependency CBOR (RFC 8949) encoder and decoder for AeroLog |
+| 2026-11-05 05:05:03 | [aerolog-core](https://crates.io/crates/aerolog-core) | 0.1.0 | 0 | Pure Rust Bitcask-inspired storage engine for local-first systems and edge comp… |
+| 2026-11-05 05:06:10 | [aerolog-uniffi](https://crates.io/crates/aerolog-uniffi) | 0.1.0 | 0 | Universal FFI bindings bridge (Mozilla UniFFI) for AeroLog targeting Kotlin and… |
+| 2026-11-05 05:06:39 | [aerolog-cli](https://crates.io/crates/aerolog-cli) | 0.1.0 | 0 | Command-line utility and benchmark suite for AeroLog |
+| 2026-11-05 05:08:33 | [feathrise_fps_display](https://crates.io/crates/feathrise_fps_display) | 0.1.0 | 0 | Frame timing and rendering diagnostics for Bevy projects |
+| 2026-11-05 05:12:35 | [zengpu-hip](https://crates.io/crates/zengpu-hip) | 0.1.0 | 0 | ZenGPU AMD ROCm/HIP compute backend (compute HAL only). |
+| 2026-11-05 05:14:06 | [mixer](https://crates.io/crates/mixer) | 0.1.0 | 0 | Live audio-input mixer for the terminal |
+| 2026-11-05 05:17:55 | [groundmail](https://crates.io/crates/groundmail) | 0.1.0 | 0 | Official Rust client for the Groundmail transactional email API |
+| 2026-11-05 05:19:39 | [feathrise_raytracing](https://crates.io/crates/feathrise_raytracing) | 0.1.0 | 0 | Optional Solari ray tracing lifecycle and rendering integration |
 
 ## Data source
 

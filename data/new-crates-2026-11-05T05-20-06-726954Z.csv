@@ -1,0 +1,45 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-05T04:21:59.462091Z,autumn-datepicker-plugin,0.1.0,0,0,https://github.com/autumn-foundation/autumn-plugin-datepicker,"Date, time, date-time and date-range pickers for Autumn: a server-rendered calendar on native inputs"
+2026-11-05T04:24:00.6381Z,xpa-sheet-core,0.1.2,0,0,https://git.yundiz.com/node/xpa-sheet-runtime,Deterministic spreadsheet state machine and synchronization contracts for XPA
+2026-11-05T04:24:19.769809Z,neocogi-ui-samples,0.1.0-alpha.2,0,0,https://github.com/NeoCogi/neocogi-ui,Reusable NeoCogi sample widget contracts and event constructors
+2026-11-05T04:24:41.994163Z,feathrise_frame_generation,0.1.0,0,0,https://github.com/hwyrq/feathrise_runtime,Optional Windows Vulkan Streamline and DLSS frame generation integration
+2026-11-05T04:25:44.610276Z,xpa-sheet-native,0.1.2,0,0,https://git.yundiz.com/node/xpa-sheet-runtime,Native SQLite storage and HTTP/WebSocket drivers for the XPA spreadsheet runtime
+2026-11-05T04:26:17.158164Z,rg-sync,0.1.0,0,0,https://github.com/hewigovens/railgun.rs,"Railgun event decoding, commitment trees from events, nullifiers and root history"
+2026-11-05T04:26:27.736096Z,afastorm,0.0.1,0,0,https://github.com/ahriknow/afastorm,"A framework-independent SQLx ORM with typed models, migrations, soft deletes, optimistic locking, and SQLite/PostgreSQL support."
+2026-11-05T04:28:56.283564Z,interscript,0.1.0,0,0,https://github.com/interscript/interscript-rs,"Rust runtime for Interscript ISC maps, executing the parsanol .parg grammar"
+2026-11-05T04:29:23.836546Z,zen-window-handle,0.1.0,0,0,https://github.com/SkuldNorniern/ZenGPU,"Minimal, dependency-free window/display handle types for the Zen ecosystem (ZenGPU, aurea, and a future winit)."
+2026-11-05T04:29:24.915974Z,zengpu-spv,0.1.0,0,0,https://github.com/SkuldNorniern/ZenGPU,ZenGPU SPIR-V tooling: dependency-free disassembler and structural validator.
+2026-11-05T04:29:26.504734Z,zengpu-zslc,0.1.0,0,0,https://github.com/SkuldNorniern/ZenGPU,"ZenGPU ZSL compiler: IR, type checking, passes, and SPIR-V / HIP / CUDA / MSL backends."
+2026-11-05T04:29:29.42772Z,zengpu-hal,0.1.0,0,0,https://github.com/SkuldNorniern/ZenGPU,"ZenGPU shared-core foundation: backend-independent types, generational handles, and errors."
+2026-11-05T04:29:29.878256Z,zengpu-zsl,0.1.0,0,0,https://github.com/SkuldNorniern/ZenGPU,ZenGPU shader proc-macro internals: ZSL token glue over zengpu-zslc.
+2026-11-05T04:34:57.587093Z,zengpu-shader,0.1.0,0,0,https://github.com/SkuldNorniern/ZenGPU,ZenGPU shader macro: compile GLSL or ZSL to SPIR-V at build time.
+2026-11-05T04:35:29.355377Z,feathrise_fsr3_frame_generation,0.1.0,0,0,https://github.com/hwyrq/feathrise_runtime,Optional Windows Vulkan FSR frame generation with pinned native binaries
+2026-11-05T04:36:38.918986Z,rg-wallet,0.1.0,0,0,https://github.com/hewigovens/railgun.rs,"Railgun wallet scan: trial-decrypt synced commitments, TXOs, spent status, balances"
+2026-11-05T04:37:40.300922Z,mtxdb,0.1.0-beta.3,0,0,https://github.com/Wombat-Foundation/mtxdb,"mtxdb: write-once, content-addressed packfile storage engine for Matrix"
+2026-11-05T04:40:02.696143Z,mtxdb-cli,0.1.0-beta.3,0,0,https://github.com/Wombat-Foundation/mtxdb,mtxdb: CLI and core library components; fast Matrix binary DB.
+2026-11-05T04:42:11.820327Z,zengpu-compute,0.1.0,0,0,https://github.com/SkuldNorniern/ZenGPU,"ZenGPU compute runtime: DeviceArray, pooled allocation, and elementwise dispatch."
+2026-11-05T04:45:01.226416Z,rg-tx,0.1.0,0,0,https://github.com/hewigovens/railgun.rs,"Railgun private transfers: bound params, signing, circuit inputs and the transact call"
+2026-11-05T04:46:33.121084Z,feathrise_portal,0.1.0,0,0,https://github.com/hwyrq/feathrise_runtime,Data driven portals and scene transitions for Bevy projects
+2026-11-05T04:47:20.108861Z,kasi-security,0.1.5,0,0,https://github.com,Procedural compilation attributes and polymorphic response macros for the Kasi web framework ecosystem.
+2026-11-05T04:52:30.872029Z,zengpu-cpu,0.1.0,0,0,https://github.com/SkuldNorniern/ZenGPU,"ZenGPU CPU reference backend: the conformance oracle, not a product fallback."
+2026-11-05T04:55:06.384123Z,kura,0.1.0,0,0,,Kura Store: an experimental standalone object storage engine
+2026-11-05T04:55:33.817284Z,rg-core,0.1.0,0,0,https://github.com/hewigovens/railgun.rs,"The wallet API the bindings sit on: chain store, sync, transfers and POI"
+2026-11-05T04:57:25.568626Z,pathr,0.1.0,0,0,https://github.com/akashkumarpr/pathr,"A lightning-fast, zero-dependency cross-platform PATH manager and cleaner"
+2026-11-05T04:57:33.880005Z,feathrise_scene,0.1.0,0,0,https://github.com/hwyrq/feathrise_runtime,"Data driven scene loading, author views and asset lifecycle"
+2026-11-05T05:00:27.932707Z,pi_graph_derive,0.5.0,0,0,https://github.com/GaiaWorld/pi_graph,Derive macros for typed graph models
+2026-11-05T05:01:24.128002Z,kasi-jb,0.1.5,0,0,https://github.com,"An enterprise-grade, compile-time optimized async microservice framework built on Hyper 1.x and Tokio."
+2026-11-05T05:02:05.763136Z,zengpu-cuda,0.1.0,0,0,https://github.com/SkuldNorniern/ZenGPU,"ZenGPU CUDA Driver API compute backend (NVIDIA, compute HAL only)."
+2026-11-05T05:02:50.760256Z,zstd-native,0.1.0+zstd.1.5.7,0,0,https://github.com/zcsizmadia/zstd-native,"Fastest pure Rust Zstandard (zstd) compression and decompression: byte-identical with libzstd 1.5.7 and faster than C. No C code, no_std."
+2026-11-05T05:03:51.534794Z,pari-core,0.1.1,0,0,https://github.com/dipeshbabu/pari,Core similarity primitives for the Pari engine
+2026-11-05T05:03:52.627278Z,pari-format,0.1.1,0,0,https://github.com/dipeshbabu/pari,Safe codecs and versioned index format for the Pari engine
+2026-11-05T05:03:53.467215Z,pari-index,0.1.1,0,0,https://github.com/dipeshbabu/pari,Batch-first similarity indexes for the Pari engine
+2026-11-05T05:03:54.232589Z,pari-store,0.1.1,0,0,https://github.com/dipeshbabu/pari,Crash-safe local persistent similarity indexes for the Pari engine
+2026-11-05T05:04:31.95462Z,aerolog-cbor,0.1.0,0,0,https://github.com/untacorp/aerolog,Lightweight zero-dependency CBOR (RFC 8949) encoder and decoder for AeroLog
+2026-11-05T05:05:03.787285Z,aerolog-core,0.1.0,0,0,https://github.com/untacorp/aerolog,Pure Rust Bitcask-inspired storage engine for local-first systems and edge computing
+2026-11-05T05:06:10.596653Z,aerolog-uniffi,0.1.0,0,0,https://github.com/untacorp/aerolog,Universal FFI bindings bridge (Mozilla UniFFI) for AeroLog targeting Kotlin and Swift
+2026-11-05T05:06:39.859769Z,aerolog-cli,0.1.0,0,0,https://github.com/untacorp/aerolog,Command-line utility and benchmark suite for AeroLog
+2026-11-05T05:08:33.723046Z,feathrise_fps_display,0.1.0,0,0,https://github.com/hwyrq/feathrise_runtime,Frame timing and rendering diagnostics for Bevy projects
+2026-11-05T05:12:35.872782Z,zengpu-hip,0.1.0,0,0,https://github.com/SkuldNorniern/ZenGPU,ZenGPU AMD ROCm/HIP compute backend (compute HAL only).
+2026-11-05T05:14:06.042799Z,mixer,0.1.0,0,0,https://github.com/ianjamesburke/nooise,Live audio-input mixer for the terminal
+2026-11-05T05:17:55.261635Z,groundmail,0.1.0,0,0,https://github.com/Groundmail/groundmail-sdks,Official Rust client for the Groundmail transactional email API
+2026-11-05T05:19:39.094299Z,feathrise_raytracing,0.1.0,0,0,https://github.com/hwyrq/feathrise_runtime,Optional Solari ray tracing lifecycle and rendering integration
