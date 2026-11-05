@@ -8,60 +8,63 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-05 00:18 UTC
+## Latest list — 2026-11-05 01:19 UTC
 
-New crates published between 2026-11-04 23:19 UTC and 2026-11-05 00:18 UTC.
+New crates published between 2026-11-05 00:18 UTC and 2026-11-05 01:19 UTC.
 
-[Full CSV](data/new-crates-2026-11-05T00-18-40-631869Z.csv)
+[Full CSV](data/new-crates-2026-11-05T01-19-56-284064Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-04 23:19:50 | [agent-hooks-cli](https://crates.io/crates/agent-hooks-cli) | 0.12.1 | 0 | Universal lifecycle hooks and observability engine for AI coding agent harnesse… |
-| 2026-11-04 23:20:52 | [jettison](https://crates.io/crates/jettison) | 0.1.0 | 0 | Fast fd-relative disk usage scanning with streaming and tree APIs |
-| 2026-11-04 23:25:21 | [email-validation-sdk](https://crates.io/crates/email-validation-sdk) | 1.0.0 | 0 | Official Rust client for the email-validation.org email validation API. |
-| 2026-11-04 23:25:35 | [grafta-sites](https://crates.io/crates/grafta-sites) | 0.1.0 | 0 | Figma Sites for grafta: a site's pages, each holding its breakpoints. |
-| 2026-11-04 23:26:54 | [hyperlight-component-csharp](https://crates.io/crates/hyperlight-component-csharp) | 0.19.0 | 0 | Experimental. Generates C# host bindings for Hyperlight components from WIT wor… |
-| 2026-11-04 23:30:58 | [rounddance-pchost](https://crates.io/crates/rounddance-pchost) | 0.1.0-alpha.3 | 0 | PC host runner: wall-clock RCP radio role + NCP half-host role over a serial UA… |
-| 2026-11-04 23:31:20 | [apple-bridge-build](https://crates.io/crates/apple-bridge-build) | 0.1.0 | 0 | The build script the `-sys` crates of `virtualization` share: generates swift-b… |
-| 2026-11-04 23:31:20 | [apple-bridge-foundation](https://crates.io/crates/apple-bridge-foundation) | 0.1.0 | 0 | Foundation as the Apple framework sys crates share it: objc2's objects, the glu… |
-| 2026-11-04 23:31:20 | [vmnet-framework-sys](https://crates.io/crates/vmnet-framework-sys) | 0.1.0 | 0 | FFI to Apple's vmnet framework, through swift-bridge. Use the `vmnet-framework`… |
-| 2026-11-04 23:31:21 | [disk-image-kit-sys](https://crates.io/crates/disk-image-kit-sys) | 0.1.0 | 0 | FFI to Apple's DiskImageKit framework, through swift-bridge. Use the `disk-imag… |
-| 2026-11-04 23:31:21 | [io-usb-host-sys](https://crates.io/crates/io-usb-host-sys) | 0.1.0 | 0 | FFI to Apple's IOUSBHost framework, through swift-bridge. Use the `io-usb-host`… |
-| 2026-11-04 23:32:59 | [xeibe-core](https://crates.io/crates/xeibe-core) | 0.1.0 | 0 | Streaming GML reading primitives for xeibe: byte sources, compression and zip,… |
-| 2026-11-04 23:33:02 | [xeibe-crs](https://crates.io/crates/xeibe-crs) | 0.4.2+epsg-13.106 | 0 | EPSG CRS facts, PROJJSON definitions and coordinate operations, generated from… |
-| 2026-11-04 23:33:04 | [xeibe-geom](https://crates.io/crates/xeibe-geom) | 0.1.0 | 0 | GML 2, 3.1, 3.2 and 3.3 geometry parsing into a model that keeps curves, with g… |
-| 2026-11-04 23:33:06 | [xeibe-esri](https://crates.io/crates/xeibe-esri) | 0.1.0 | 0 | Esri's names of EPSG CRSs and datums, and its old codes that are EPSG codes now… |
-| 2026-11-04 23:33:08 | [xeibe-reproject](https://crates.io/crates/xeibe-reproject) | 0.1.0 | 0 | Pure-Rust coordinate conversion between EPSG coordinate reference systems, driv… |
-| 2026-11-04 23:33:38 | [adamo-zenoh-result](https://crates.io/crates/adamo-zenoh-result) | 1.9.0-adamo.1.0.20-… | 0 | Internal crate for zenoh. |
-| 2026-11-04 23:33:55 | [adamo-zenoh-keyexpr](https://crates.io/crates/adamo-zenoh-keyexpr) | 1.9.0-adamo.1.0.20-… | 0 | Internal crate for zenoh. |
-| 2026-11-04 23:34:13 | [adamo-zenoh-macros](https://crates.io/crates/adamo-zenoh-macros) | 1.9.0-adamo.1.0.20-… | 0 | Internal crate for zenoh. |
-| 2026-11-04 23:34:30 | [adamo-zenoh-runtime](https://crates.io/crates/adamo-zenoh-runtime) | 1.9.0-adamo.1.0.20-… | 0 | Zenoh: The Zero Overhead Pub/Sub/Query Protocol. |
-| 2026-11-04 23:34:48 | [adamo-zenoh-core](https://crates.io/crates/adamo-zenoh-core) | 1.9.0-adamo.1.0.20-… | 0 | Internal crate for zenoh. |
-| 2026-11-04 23:36:38 | [grafta-slides](https://crates.io/crates/grafta-slides) | 0.1.0 | 0 | Figma Slides for grafta: a deck's slides, transitions, animations and notes. |
-| 2026-11-04 23:37:07 | [adamo-zenoh-util](https://crates.io/crates/adamo-zenoh-util) | 1.9.0-adamo.1.0.20-… | 0 | Internal crate for zenoh. |
-| 2026-11-04 23:40:14 | [symworx-gpu](https://crates.io/crates/symworx-gpu) | 0.6.0 | 0 | Opt-in GPU kernels for SymWorx (HIP for AMD and NVIDIA) |
-| 2026-11-04 23:44:10 | [xeibe-schema](https://crates.io/crates/xeibe-schema) | 0.1.0 | 0 | Arrow schema inference for GML: scan features into a path tree with value stati… |
-| 2026-11-04 23:46:30 | [adamo-authorization](https://crates.io/crates/adamo-authorization) | 1.0.20-rc.2 | 0 | Shared operation-aware authorization policy for Adamo transports |
-| 2026-11-04 23:47:07 | [near-business-cli](https://crates.io/crates/near-business-cli) | 0.2.1 | 0 | Manage your confidential Near Business treasuries from the command line |
-| 2026-11-04 23:47:50 | [grafta-edge](https://crates.io/crates/grafta-edge) | 0.1.0 | 0 | Where a call's JSON meets grafta: each tool's name, description and schema, its… |
-| 2026-11-04 23:47:54 | [grafta-memory](https://crates.io/crates/grafta-memory) | 0.1.0 | 0 | grafta's ports in memory, so a tool, a save or a journal's replay is tested wit… |
-| 2026-11-04 23:55:13 | [xeibe-arrow](https://crates.io/crates/xeibe-arrow) | 0.1.0 | 0 | Read GML into Arrow record batches with GeoArrow geometry columns: layer scan,… |
-| 2026-11-04 23:56:00 | [taskee-derive](https://crates.io/crates/taskee-derive) | 0.1.0 | 0 | Derive macros for the taskee crate. |
-| 2026-11-04 23:57:01 | [rpi-codemode](https://crates.io/crates/rpi-codemode) | 0.1.12 | 0 | Bounded native JavaScript tool programs for rpi |
-| 2026-11-04 23:58:17 | [iced-mcp-protocol](https://crates.io/crates/iced-mcp-protocol) | 0.1.0 | 0 | Wire protocol between an app's iced-mcp bridge and the iced-mcp server |
-| 2026-11-04 23:58:59 | [iced-mcp](https://crates.io/crates/iced-mcp) | 0.1.0 | 0 | In-app bridge that lets AI agents inspect and drive any iced application over M… |
-| 2026-11-04 23:59:00 | [grafta-toolkit](https://crates.io/crates/grafta-toolkit) | 0.1.0 | 0 | Figma's own language, as tools a model calls: open a .fig, read it exactly, cre… |
-| 2026-11-04 23:59:21 | [iced-mcp-server](https://crates.io/crates/iced-mcp-server) | 0.1.0 | 0 | MCP server that lets AI agents launch, inspect and drive iced desktop apps |
-| 2026-11-05 00:00:37 | [engenho-blue](https://crates.io/crates/engenho-blue) | 0.53.154 | 0 | engenho-blue — a blue program embedded in an engenho crate, loaded under an emp… |
-| 2026-11-05 00:01:09 | [pbwire](https://crates.io/crates/pbwire) | 0.1.7 | 0 | Rust binding over the pbwire C ABI: dynamic protobuf without generated code |
-| 2026-11-05 00:02:12 | [ponk](https://crates.io/crates/ponk) | 0.13.0 | 0 | Thin Rust client for the ponk public API: Solana DLMM liquidity agents. |
-| 2026-11-05 00:02:51 | [asset-io](https://crates.io/crates/asset-io) | 0.3.0 | 0 | Streaming, container-agnostic access to media file structure and metadata (JUMB… |
-| 2026-11-05 00:03:37 | [ponk-cli](https://crates.io/crates/ponk-cli) | 0.13.0 | 0 | Command line for the ponk public API: pools across Meteora DLMM, Orca and Raydi… |
-| 2026-11-05 00:05:53 | [tauri-plugin-paste-button](https://crates.io/crates/tauri-plugin-paste-button) | 0.1.0-alpha.1 | 0 | Tauri plugin that lays the system paste button over a box the page draws, on iOS |
-| 2026-11-05 00:06:16 | [xeibe-export](https://crates.io/crates/xeibe-export) | 0.1.0 | 0 | Write Arrow record batches with GeoArrow geometry to files: Parquet with GeoPar… |
-| 2026-11-05 00:11:20 | [grafta-mcp](https://crates.io/crates/grafta-mcp) | 0.1.0 | 0 | An MCP server over grafta's toolkit, on stdio. |
-| 2026-11-05 00:12:28 | [wg-toolkit-wot](https://crates.io/crates/wg-toolkit-wot) | 0.5.0 | 0 | World of Tanks server emulator and proxy built on wg-toolkit |
-| 2026-11-05 00:17:19 | [xeibe-io](https://crates.io/crates/xeibe-io) | 0.1.0 | 0 | HTTP(S) and object-store (S3, GCS, Azure) byte sources for xeibe, each read as… |
+| 2026-11-05 00:22:33 | [grafta](https://crates.io/crates/grafta) | 0.1.0 | 0 | Figma's file format for your agent: an MCP server that reads and writes .fig fi… |
+| 2026-11-05 00:25:22 | [disk-image-kit](https://crates.io/crates/disk-image-kit) | 0.1.0 | 0 | Rust bindings for Apple's DiskImageKit framework. |
+| 2026-11-05 00:25:37 | [accessory-access-sys](https://crates.io/crates/accessory-access-sys) | 0.1.0 | 0 | FFI to Apple's AccessoryAccess framework, through swift-bridge. Use the `access… |
+| 2026-11-05 00:26:01 | [io-usb-host](https://crates.io/crates/io-usb-host) | 0.1.0 | 0 | Rust bindings for Apple's IOUSBHost framework. |
+| 2026-11-05 00:26:14 | [accessory-access](https://crates.io/crates/accessory-access) | 0.1.0 | 0 | Rust bindings for Apple's AccessoryAccess framework. |
+| 2026-11-05 00:26:30 | [vmnet-framework](https://crates.io/crates/vmnet-framework) | 0.1.0 | 0 | Rust bindings for Apple's vmnet framework. |
+| 2026-11-05 00:28:21 | [xeibe-wfs](https://crates.io/crates/xeibe-wfs) | 0.1.0 | 0 | OGC WFS 1.0/1.1/2.0 bulk-read client for xeibe: capabilities, paging, pages str… |
+| 2026-11-05 00:36:43 | [realism-gate](https://crates.io/crates/realism-gate) | 0.2.0 | 0 | Static checker for Foundry PoC tests: does the proof of concept show what an un… |
+| 2026-11-05 00:38:48 | [liteinst-x86](https://crates.io/crates/liteinst-x86) | 0.2.0 | 0 | Shared descriptive x86 decode and selected-operand facts |
+| 2026-11-05 00:38:56 | [liteinst-artifact](https://crates.io/crates/liteinst-artifact) | 0.2.0 | 0 | Bounded content metadata and sparse overlays for liteinst2 |
+| 2026-11-05 00:39:25 | [xeibe-cli](https://crates.io/crates/xeibe-cli) | 0.1.0 | 0 | The xeibe command: list the layers and inferred schemas of GML files and WFS se… |
+| 2026-11-05 00:39:34 | [liteinst-admission](https://crates.io/crates/liteinst-admission) | 0.2.0 | 0 | Conservative x86-64 admission facts and publication model for LiteInst |
+| 2026-11-05 00:39:37 | [liteinst-inprocess](https://crates.io/crates/liteinst-inprocess) | 0.2.0 | 0 | Caller-owned in-process NX first-touch gate |
+| 2026-11-05 00:41:02 | [liteinst-launch](https://crates.io/crates/liteinst-launch) | 0.2.0 | 0 | Stopped first-instruction launch checkpoints for standalone LiteInst |
+| 2026-11-05 00:46:02 | [oime-mmap](https://crates.io/crates/oime-mmap) | 0.0.1 | 0 | A minimal, zero-dependency Rust library for read-only memory-mapped file I/O on… |
+| 2026-11-05 00:46:30 | [rotex-math](https://crates.io/crates/rotex-math) | 0.1.0 | 0 | Mathematical utilities for rotexengine development |
+| 2026-11-05 00:46:50 | [rotex-color](https://crates.io/crates/rotex-color) | 0.1.0 | 0 | Color space types and conversions for Rotex |
+| 2026-11-05 00:47:47 | [rotex-graph](https://crates.io/crates/rotex-graph) | 0.2.0 | 0 | Render graph that emits destination-only Barrier commands |
+| 2026-11-05 00:47:57 | [rotex-conformance](https://crates.io/crates/rotex-conformance) | 0.2.0 | 0 | GpuBackend checks driven by reported capabilities |
+| 2026-11-05 00:48:10 | [rotex-emulation](https://crates.io/crates/rotex-emulation) | 0.2.0 | 0 | Backend-independent command rewrites for missing HAL features |
+| 2026-11-05 00:50:28 | [xeibe-datafusion](https://crates.io/crates/xeibe-datafusion) | 0.1.0 | 0 | DataFusion integration for xeibe: a table provider per GML layer and a read_gml… |
+| 2026-11-05 00:51:05 | [virtualization-sys](https://crates.io/crates/virtualization-sys) | 0.1.0 | 0 | FFI to Apple's Virtualization framework, through swift-bridge. Use the `virtual… |
+| 2026-11-05 00:51:16 | [virtualization](https://crates.io/crates/virtualization) | 0.1.0 | 0 | Rust bindings for Apple's Virtualization framework. |
+| 2026-11-05 00:52:14 | [rotex-gl](https://crates.io/crates/rotex-gl) | 0.2.0 | 0 | WebGL2 and GLES 3.0 backend for Rotex |
+| 2026-11-05 00:52:43 | [dli-ast](https://crates.io/crates/dli-ast) | 0.1.0 | 0 | Deloreis Lore Interchange abstract syntax tree (normative surface). |
+| 2026-11-05 00:52:44 | [dli-core](https://crates.io/crates/dli-core) | 0.1.0 | 0 | Deloreis Lore Interchange core lattice: positive-boolean support and grades. |
+| 2026-11-05 00:52:44 | [dli-syntax](https://crates.io/crates/dli-syntax) | 0.1.0 | 0 | Deloreis Lore Interchange concrete syntax: lexer, parser, formatter, probe. |
+| 2026-11-05 00:55:58 | [kbx-core](https://crates.io/crates/kbx-core) | 0.1.2 | 0 | Vault parsing, ontology and graph storage for kbx |
+| 2026-11-05 00:56:04 | [kbx-gen](https://crates.io/crates/kbx-gen) | 0.1.2 | 0 | Link candidate generators for kbx |
+| 2026-11-05 00:56:18 | [kbx-judge](https://crates.io/crates/kbx-judge) | 0.1.2 | 0 | LLM judge backends for kbx |
+| 2026-11-05 00:56:23 | [dli-ledger](https://crates.io/crates/dli-ledger) | 0.1.0 | 0 | Deloreis Lore Interchange resource ledger: practice deltas and conservation law… |
+| 2026-11-05 00:56:23 | [dli-time](https://crates.io/crates/dli-time) | 0.1.0 | 0 | Deloreis Lore Interchange time domain: chronologies, wheels, fluent timelines. |
+| 2026-11-05 00:56:24 | [dli-eval](https://crates.io/crates/dli-eval) | 0.1.0 | 0 | Deloreis Lore Interchange evaluator: lowering, stratification, fixpoint, query. |
+| 2026-11-05 00:56:38 | [kbx](https://crates.io/crates/kbx) | 0.1.2 | 0 | Turn a markdown vault into a typed knowledge graph |
+| 2026-11-05 00:59:24 | [rotex-d3d12](https://crates.io/crates/rotex-d3d12) | 0.2.0 | 0 | Direct3D 12 backend for Rotex |
+| 2026-11-05 01:04:15 | [agentsniff-signatures](https://crates.io/crates/agentsniff-signatures) | 2.5.0 | 0 | Signed detection datasets for AgentSniff: embedded, verified against a pinned E… |
+| 2026-11-05 01:04:31 | [agentsniff-gate](https://crates.io/crates/agentsniff-gate) | 2.5.0 | 0 | AgentSniff's inbound agent gate engine: known-agent catalog, behavior scoring,… |
+| 2026-11-05 01:08:25 | [dli-world](https://crates.io/crates/dli-world) | 0.1.0 | 0 | Deloreis Lore Interchange world model: packs, registers, drafts, attestations. |
+| 2026-11-05 01:10:57 | [laporan-derive](https://crates.io/crates/laporan-derive) | 0.1.0 | 0 | Derive macros for the laporan crate |
+| 2026-11-05 01:10:59 | [laporan](https://crates.io/crates/laporan) | 0.1.0 | 0 | Error handling library, split off from Xuehua's xh-reports |
+| 2026-11-05 01:14:30 | [rotex-ext-indirect](https://crates.io/crates/rotex-ext-indirect) | 0.2.0 | 0 | Indirect draw extension for Rotex backends |
+| 2026-11-05 01:15:31 | [robin-sparkless-plan](https://crates.io/crates/robin-sparkless-plan) | 4.19.0 | 0 | Portable typed plans and structural validation for Sparkless. |
+| 2026-11-05 01:15:33 | [robin-sparkless-sql](https://crates.io/crates/robin-sparkless-sql) | 4.19.0 | 0 | Shared Spark SQL parsing and portable semantic utilities. |
+| 2026-11-05 01:15:35 | [robin-sparkless-delta](https://crates.io/crates/robin-sparkless-delta) | 4.19.0 | 0 | Delta Lake path, snapshot, and storage-driver boundary. |
+| 2026-11-05 01:15:37 | [robin-sparkless-jdbc](https://crates.io/crates/robin-sparkless-jdbc) | 4.19.0 | 0 | Driver-neutral JDBC configuration and SQL identifier contracts. |
+| 2026-11-05 01:15:40 | [robin-sparkless-jdbc-polars](https://crates.io/crates/robin-sparkless-jdbc-polars) | 4.19.0 | 0 | Polars-backed JDBC database adapters for robin-sparkless. |
+| 2026-11-05 01:17:40 | [oximo-scip](https://crates.io/crates/oximo-scip) | 0.8.0 | 0 | SCIP LP/MILP/QP/QCP/SOCP/NLP/MINLP backend for oximo |
+| 2026-11-05 01:17:53 | [oximo-gdp](https://crates.io/crates/oximo-gdp) | 0.8.0 | 0 | Generalized Disjunctive Programming (GDP) modeling and reformulation for oximo |
+| 2026-11-05 01:19:49 | [robin-sparkless-duckdb](https://crates.io/crates/robin-sparkless-duckdb) | 4.19.0 | 0 | Optional DuckDB source catalog and bounded Arrow reader for Robin Sparkless |
 
 ## Data source
 

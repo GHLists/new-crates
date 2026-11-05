@@ -1,0 +1,50 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-05T00:22:33.626922Z,grafta,0.1.0,0,0,https://github.com/n0ss4/grafta,"Figma's file format for your agent: an MCP server that reads and writes .fig files, exactly and offline."
+2026-11-05T00:25:22.808803Z,disk-image-kit,0.1.0,0,0,https://github.com/synchronal/virtualization,Rust bindings for Apple's DiskImageKit framework.
+2026-11-05T00:25:37.664324Z,accessory-access-sys,0.1.0,0,0,https://github.com/synchronal/virtualization,"FFI to Apple's AccessoryAccess framework, through swift-bridge. Use the `accessory-access` crate instead."
+2026-11-05T00:26:01.746056Z,io-usb-host,0.1.0,0,0,https://github.com/synchronal/virtualization,Rust bindings for Apple's IOUSBHost framework.
+2026-11-05T00:26:14.790881Z,accessory-access,0.1.0,0,0,https://github.com/synchronal/virtualization,Rust bindings for Apple's AccessoryAccess framework.
+2026-11-05T00:26:30.316697Z,vmnet-framework,0.1.0,0,0,https://github.com/synchronal/virtualization,Rust bindings for Apple's vmnet framework.
+2026-11-05T00:28:21.754252Z,xeibe-wfs,0.1.0,0,0,https://github.com/ttomasz/xeibe,"OGC WFS 1.0/1.1/2.0 bulk-read client for xeibe: capabilities, paging, pages streamed into one Arrow read. Experimental: AI-generated, not thoroughly tested, unstable API"
+2026-11-05T00:36:43.185763Z,realism-gate,0.2.0,0,0,https://github.com/KhomDev/realism-gate,"Static checker for Foundry PoC tests: does the proof of concept show what an unprivileged attacker can do, or only what the harness made true?"
+2026-11-05T00:38:48.48066Z,liteinst-x86,0.2.0,0,0,https://github.com/rrnewton/liteinst2,Shared descriptive x86 decode and selected-operand facts
+2026-11-05T00:38:56.171591Z,liteinst-artifact,0.2.0,0,0,https://github.com/rrnewton/liteinst2,Bounded content metadata and sparse overlays for liteinst2
+2026-11-05T00:39:25.443114Z,xeibe-cli,0.1.0,0,0,https://github.com/ttomasz/xeibe,"The xeibe command: list the layers and inferred schemas of GML files and WFS services, convert a layer to (Geo)Parquet or Arrow IPC. Experimental: AI-generated, not thoroughly tested, unstable API"
+2026-11-05T00:39:34.598673Z,liteinst-admission,0.2.0,0,0,https://github.com/rrnewton/liteinst2,Conservative x86-64 admission facts and publication model for LiteInst
+2026-11-05T00:39:37.070966Z,liteinst-inprocess,0.2.0,0,0,https://github.com/rrnewton/liteinst2,Caller-owned in-process NX first-touch gate
+2026-11-05T00:41:02.645329Z,liteinst-launch,0.2.0,0,0,https://github.com/rrnewton/liteinst2,Stopped first-instruction launch checkpoints for standalone LiteInst
+2026-11-05T00:46:02.359765Z,oime-mmap,0.0.1,0,0,https://gitee.com/oime/oime-mmap,"A minimal, zero-dependency Rust library for read-only memory-mapped file I/O on macOS and Linux"
+2026-11-05T00:46:30.118104Z,rotex-math,0.1.0,0,0,https://github.com/rotex-labs/rotex-math,Mathematical utilities for rotexengine development
+2026-11-05T00:46:50.016675Z,rotex-color,0.1.0,0,0,https://github.com/rotex-labs/rotex-math,Color space types and conversions for Rotex
+2026-11-05T00:47:47.092424Z,rotex-graph,0.2.0,0,0,https://github.com/rotex-labs/rotex-core,Render graph that emits destination-only Barrier commands
+2026-11-05T00:47:57.722623Z,rotex-conformance,0.2.0,0,0,https://github.com/rotex-labs/rotex-core,GpuBackend checks driven by reported capabilities
+2026-11-05T00:48:10.214077Z,rotex-emulation,0.2.0,0,0,https://github.com/rotex-labs/rotex-core,Backend-independent command rewrites for missing HAL features
+2026-11-05T00:50:28.915545Z,xeibe-datafusion,0.1.0,0,0,https://github.com/ttomasz/xeibe,"DataFusion integration for xeibe: a table provider per GML layer and a read_gml() table function. Experimental: AI-generated, not thoroughly tested, unstable API"
+2026-11-05T00:51:05.817388Z,virtualization-sys,0.1.0,0,0,https://github.com/synchronal/virtualization,"FFI to Apple's Virtualization framework, through swift-bridge. Use the `virtualization` crate instead."
+2026-11-05T00:51:16.313977Z,virtualization,0.1.0,0,0,https://github.com/synchronal/virtualization,Rust bindings for Apple's Virtualization framework.
+2026-11-05T00:52:14.192954Z,rotex-gl,0.2.0,0,0,https://github.com/rotex-labs/rotex-gl,WebGL2 and GLES 3.0 backend for Rotex
+2026-11-05T00:52:43.657657Z,dli-ast,0.1.0,0,0,https://github.com/jeffreykentjr/deloreis,Deloreis Lore Interchange abstract syntax tree (normative surface).
+2026-11-05T00:52:44.114179Z,dli-core,0.1.0,0,0,https://github.com/jeffreykentjr/deloreis,Deloreis Lore Interchange core lattice: positive-boolean support and grades.
+2026-11-05T00:52:44.705439Z,dli-syntax,0.1.0,0,0,https://github.com/jeffreykentjr/deloreis,"Deloreis Lore Interchange concrete syntax: lexer, parser, formatter, probe."
+2026-11-05T00:55:58.412784Z,kbx-core,0.1.2,0,0,https://github.com/hassaans/kbx,"Vault parsing, ontology and graph storage for kbx"
+2026-11-05T00:56:04.1095Z,kbx-gen,0.1.2,0,0,https://github.com/hassaans/kbx,Link candidate generators for kbx
+2026-11-05T00:56:18.968112Z,kbx-judge,0.1.2,0,0,https://github.com/hassaans/kbx,LLM judge backends for kbx
+2026-11-05T00:56:23.099723Z,dli-ledger,0.1.0,0,0,https://github.com/jeffreykentjr/deloreis,Deloreis Lore Interchange resource ledger: practice deltas and conservation laws.
+2026-11-05T00:56:23.400756Z,dli-time,0.1.0,0,0,https://github.com/jeffreykentjr/deloreis,"Deloreis Lore Interchange time domain: chronologies, wheels, fluent timelines."
+2026-11-05T00:56:24.395212Z,dli-eval,0.1.0,0,0,https://github.com/jeffreykentjr/deloreis,"Deloreis Lore Interchange evaluator: lowering, stratification, fixpoint, query."
+2026-11-05T00:56:38.566642Z,kbx,0.1.2,0,0,https://github.com/hassaans/kbx,Turn a markdown vault into a typed knowledge graph
+2026-11-05T00:59:24.315943Z,rotex-d3d12,0.2.0,0,0,https://github.com/rotex-labs/rotex-d3d12,Direct3D 12 backend for Rotex
+2026-11-05T01:04:15.750805Z,agentsniff-signatures,2.5.0,0,0,https://github.com/ThirdKeyAI/agentsniff,"Signed detection datasets for AgentSniff: embedded, verified against a pinned ECDSA P-256 key, with runtime overlay loading."
+2026-11-05T01:04:31.515493Z,agentsniff-gate,2.5.0,0,0,https://github.com/ThirdKeyAI/agentsniff,"AgentSniff's inbound agent gate engine: known-agent catalog, behavior scoring, rate limiting and Web Bot Auth verification for forward-auth proxies."
+2026-11-05T01:08:25.39828Z,dli-world,0.1.0,0,0,https://github.com/jeffreykentjr/deloreis,"Deloreis Lore Interchange world model: packs, registers, drafts, attestations."
+2026-11-05T01:10:57.222092Z,laporan-derive,0.1.0,0,0,https://github.com/CelestialCrafter/laporan,Derive macros for the laporan crate
+2026-11-05T01:10:59.011128Z,laporan,0.1.0,0,0,https://github.com/CelestialCrafter/laporan,"Error handling library, split off from Xuehua's xh-reports"
+2026-11-05T01:14:30.41652Z,rotex-ext-indirect,0.2.0,0,0,https://github.com/rotex-labs/rotex-ext-indirect,Indirect draw extension for Rotex backends
+2026-11-05T01:15:31.231041Z,robin-sparkless-plan,4.19.0,0,0,https://github.com/eddiethedean/robin-sparkless,Portable typed plans and structural validation for Sparkless.
+2026-11-05T01:15:33.214188Z,robin-sparkless-sql,4.19.0,0,0,https://github.com/eddiethedean/robin-sparkless,Shared Spark SQL parsing and portable semantic utilities.
+2026-11-05T01:15:35.522887Z,robin-sparkless-delta,4.19.0,0,0,https://github.com/eddiethedean/robin-sparkless,"Delta Lake path, snapshot, and storage-driver boundary."
+2026-11-05T01:15:37.782981Z,robin-sparkless-jdbc,4.19.0,0,0,https://github.com/eddiethedean/robin-sparkless,Driver-neutral JDBC configuration and SQL identifier contracts.
+2026-11-05T01:15:40.321315Z,robin-sparkless-jdbc-polars,4.19.0,0,0,https://github.com/eddiethedean/robin-sparkless,Polars-backed JDBC database adapters for robin-sparkless.
+2026-11-05T01:17:40.307184Z,oximo-scip,0.8.0,0,0,https://github.com/oximo-rs/oximo,SCIP LP/MILP/QP/QCP/SOCP/NLP/MINLP backend for oximo
+2026-11-05T01:17:53.64212Z,oximo-gdp,0.8.0,0,0,https://github.com/oximo-rs/oximo,Generalized Disjunctive Programming (GDP) modeling and reformulation for oximo
+2026-11-05T01:19:49.978442Z,robin-sparkless-duckdb,4.19.0,0,0,https://github.com/eddiethedean/robin-sparkless,Optional DuckDB source catalog and bounded Arrow reader for Robin Sparkless
