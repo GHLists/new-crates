@@ -1,0 +1,27 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-05T11:21:37.734656Z,tpt-media-mote,0.2.0,0,0,https://github.com/TPT-Solutions/tpt-media,"Mote: TPT extreme edge/IoT video codec (8x8 patch dictionary VQ, 4096 entries, 12-bit index, temporal skip)."
+2026-11-05T11:22:02.087084Z,nostr-social-graph-hashtree,0.2.0,0,0,https://github.com/mmalmi/nostr-social-graph,Hashtree-backed persistence for the Nostr social graph
+2026-11-05T11:25:04.030097Z,rsxcs,0.1.0,0,0,https://github.com/qmlCoder/rsxcs,Rust translation of the DFTxclib density-functional exchange-correlation library
+2026-11-05T11:26:27.42578Z,pod-session,0.0.0,0,0,https://github.com/PodUtils/podcrates,Resumable sessions over unreliable transports. Placeholder: the first release is in progress.
+2026-11-05T11:30:54.185597Z,spaceui,0.1.0,0,0,https://github.com/lero-aom/spaceui,"A design system for egui desktop apps: themes, anti-aliased painting, vector icons, widgets, a custom-window shell and a chat kit"
+2026-11-05T11:31:38.080186Z,tpt-media-format,0.2.0,0,0,https://github.com/TPT-Solutions/tpt-media,"The native .tpt container format: TLV chunks, header, TRAK, CLUS, seeking, streaming."
+2026-11-05T11:31:49.383767Z,knobs,0.0.9,0,0,https://github.com/abagnari/knobs,"A helper library to create a node graph UI using egui as base framework, with a ready to use configurable evaluator"
+2026-11-05T11:36:36.83268Z,pod-e2e,0.0.0,0,0,https://github.com/PodUtils/podcrates,"End-to-end encryption between PodUtils peers, through untrusted relays. Placeholder: the first release is in progress."
+2026-11-05T11:41:44.353163Z,pod-warp,0.0.0,0,0,https://github.com/PodUtils/podcrates,A Cloudflare WARP client library for PodUtils tools. Placeholder: the first release is in progress.
+2026-11-05T11:41:53.249546Z,tpt-media-pipeline,0.2.0,0,0,https://github.com/TPT-Solutions/tpt-media,Node-based media pipeline (Source -> Demux -> Decode -> Filter -> Encode -> Mux -> Sink).
+2026-11-05T11:43:49.77858Z,spores,0.0.1,0,0,https://github.com/marcromeyn/spores.dev,"Spores: one programming model for distributed applications on object storage - resources with one owner, commands, queries and tasks; the compiler and runtime enforce the sharp edges. This is the nam…"
+2026-11-05T11:43:57.358905Z,seedbed,0.0.1,0,0,https://github.com/marcromeyn/spores.dev,"Seedbed: one seed, every engine. A deterministic simulator that judges real product folds on native, wasm and CUDA with byte-identical results, and turns a found seed into a story. Name reservation f…"
+2026-11-05T11:46:40.066476Z,curl-runner-cloud-proto,2.6.0,0,0,https://github.com/alexvcasillas/curl-runner,"Wire protocol shared by the curl-runner Cloud server, CLI and studio"
+2026-11-05T11:51:38.972764Z,tpt-media-probe,0.2.0,0,0,https://github.com/TPT-Solutions/tpt-media,Container and codec introspection for the tpt-media stack.
+2026-11-05T11:51:52.198678Z,pod-cloudflare,0.0.0,0,0,https://github.com/PodUtils/podcrates,Cloudflare tunnels and quick tunnels as a library for PodUtils tools. Placeholder: the first release is in progress.
+2026-11-05T11:53:30.294763Z,omochi-ui-macros,0.1.3,0,0,https://github.com/omochi-ui/omochi,Typed action input generation for omochi-ui
+2026-11-05T11:53:47.123812Z,omochi-mdns,0.2.1,0,0,https://github.com/omochi-ui/omochi,Cross-platform mDNS advertisement and discovery for Omochi Iroh endpoints
+2026-11-05T11:56:52.511841Z,synra-protocol,0.1.0,0,0,https://github.com/synra-rs/synra-core,"Synra wire protocol: frames, envelopes, events, sessions. Pure data — no I/O."
+2026-11-05T12:02:02.69217Z,pod-wormhole,0.0.0,0,0,https://github.com/PodUtils/podcrates,Magic-wormhole style transfers for PodUtils tools. Placeholder: the first release is in progress.
+2026-11-05T12:11:59.978627Z,synra-wit-codegen,0.1.0,0,0,https://github.com/synra-rs/synra-core,Reads wit/synra-plugin.wit and derives the capability table the kernel enforces
+2026-11-05T12:12:14.406919Z,pod-transit,0.0.0,0,0,https://github.com/PodUtils/podcrates,Transit relays for direct or relayed peer connections. Placeholder: the first release is in progress.
+2026-11-05T12:12:34.172993Z,synra-store,0.1.0,0,0,https://github.com/synra-rs/synra-core,"Persistence: the schema, the plugin sandbox, and secret storage"
+2026-11-05T12:12:54.235345Z,synra-capability,0.1.0,0,0,https://github.com/synra-rs/synra-core,"The Synra capability DSL: parsing, matching, and the sets a plugin holds"
+2026-11-05T12:13:43.425107Z,synra-observe,0.1.0,0,0,https://github.com/synra-rs/synra-core,"Logging, tracing, metrics, audit and diagnostics for the Synra kernel"
+2026-11-05T12:14:02.539416Z,synra-net,0.1.0,0,0,https://github.com/synra-rs/synra-core,"Transport: discovery, connections, heartbeats and reconnection"
+2026-11-05T12:14:52.948928Z,synra-plugin-api,0.1.0,0,0,https://github.com/synra-rs/synra-core,"The plugin contract: manifest, host calls, and the stable API surface"
