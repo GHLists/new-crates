@@ -1,0 +1,43 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-05T06:22:21.189848Z,terminus-rs,0.0.3,0,0,https://github.com/prateekbhujel/terminus,"Terminus — High-performance, batteries-included web and API application framework for Rust and Axum."
+2026-11-05T06:23:40.694439Z,cuda-repr,0.5.0,0,0,https://github.com/NVIDIA/cuda-rust,Representation contracts shared by CUDA host and device types
+2026-11-05T06:26:11.114884Z,tquil,0.2.0,0,0,https://github.com/KiTechSoftware/tranquility,"Set up and manage a development machine: applications, Nerd Fonts, VPS profiles and config"
+2026-11-05T06:33:40.482033Z,containr,0.1.0,0,0,https://github.com/ml-rust/containr,"Media containers: MP4/MOV and Matroska/WebM mux and demux, with integer timestamps and raw edit lists"
+2026-11-05T06:35:37.816282Z,ocserve-ui-v1-a,0.7.0,0,0,https://github.com/Reliary/ocserve,"Embedded web-UI pack part (1.18.31, part a) for ocserve"
+2026-11-05T06:36:11.258355Z,ocserve-ui-v1-b,0.7.0,0,0,https://github.com/Reliary/ocserve,"Embedded web-UI pack part (1.18.31, part b) for ocserve"
+2026-11-05T06:36:44.354953Z,ocserve-ui-v2-a,0.7.0,0,0,https://github.com/Reliary/ocserve,"Embedded web-UI pack part (2.0.28, part a) for ocserve"
+2026-11-05T06:37:18.138371Z,ocserve-ui-v2-b,0.7.0,0,0,https://github.com/Reliary/ocserve,"Embedded web-UI pack part (2.0.28, part b) for ocserve"
+2026-11-05T06:37:37.697198Z,mrun-engine,0.1.0,0,0,https://github.com/hupe1980/mrun,"Engine contract, model identity and (with the `engine` feature) the nuvec engine for mrun"
+2026-11-05T06:37:51.34152Z,ocserve-ui-v2-c,0.7.0,0,0,https://github.com/Reliary/ocserve,"Embedded web-UI pack part (2.0.28, part c) for ocserve"
+2026-11-05T06:38:23.967174Z,mrun-runpod,0.1.0,0,0,https://github.com/hupe1980/mrun,"A small RunPod client for mrun's remote GPU mode: pods, GPU types, network volumes, self-stop"
+2026-11-05T06:48:26.069786Z,ocserve-ui-v2-d,0.7.0,0,0,https://github.com/Reliary/ocserve,"Embedded web-UI pack part (2.0.28, part d) for ocserve"
+2026-11-05T06:49:46.235288Z,refract-graph,0.1.0,0,0,https://github.com/refractrs/refract,"Single-threaded reactive state, bindings, and dependency tracking for Refract"
+2026-11-05T06:49:47.001357Z,refract-macros,0.1.0,0,0,https://github.com/refractrs/refract,View authoring macros for the Refract framework
+2026-11-05T06:49:47.990117Z,refract-core,0.1.0,0,0,https://github.com/refractrs/refract,"Portable views, composition, and retained UI runtime for Refract"
+2026-11-05T06:49:49.751908Z,refract-test,0.1.0,0,0,https://github.com/refractrs/refract,Deterministic in-memory host for testing Refract views
+2026-11-05T06:49:50.301284Z,refract-web,0.1.0,0,0,https://github.com/refractrs/refract,Browser DOM adapter for the Refract framework
+2026-11-05T06:50:48.542155Z,taurimd,0.1.17,0,0,https://github.com/Chrysent-AI/taurimd,"A read-only, cross-platform Markdown viewer GUI built with Tauri for Windows, macOS, and Linux."
+2026-11-05T06:54:28.06445Z,rsxui-core,0.0.1,0,0,https://github.com/nayupls1/rsx,"Parser, AST and backend interface for the .rsx (JSX-in-Rust) format"
+2026-11-05T06:54:30.773291Z,rsxui-macros,0.0.1,0,0,https://github.com/nayupls1/rsx,The #[component] attribute for the rsx UI framework
+2026-11-05T06:54:34.856279Z,rsxui,0.0.1,0,0,https://github.com/nayupls1/rsx,"The rsx UI framework: target-independent elements, styles, events and state for .rsx files"
+2026-11-05T06:54:38.745587Z,rsxui-html,0.0.1,0,0,https://github.com/nayupls1/rsx,HTML target for the rsx UI framework: renders rsx elements to HTML strings
+2026-11-05T06:54:40.788108Z,rsxui-build,0.0.1,0,0,https://github.com/nayupls1/rsx,build.rs integration for the .rsx (JSX-in-Rust) compiler
+2026-11-05T06:56:46.590053Z,iond-macros,0.7.0,0,0,https://github.com/thepartly/iond,"The proc macros of the iond app SDK: `#[iond::workflow]`, which writes a durable workflow from a module of states. Used through `iond`, which re-exports them"
+2026-11-05T06:59:57.102132Z,refract-desktop,0.1.0,0,0,https://github.com/refractrs/refract,Native desktop adapter for Refract with retained layout and GPU rendering
+2026-11-05T07:01:26.807804Z,itn-indic,0.1.0,0,0,https://github.com/Vishnu373/inverse-text-normalization-indic,inverse text normalization for Indian languages
+2026-11-05T07:07:53.842149Z,fleetreach-os,1.6.0,0,0,https://github.com/tess-fun/fleetreach,"Container image and OS package feeder for fleetreach: docker-save/OCI/rootfs layer merge, dpkg and apk databases, and toolchain-free distro OSV matching (Debian, Ubuntu, Alpine, Wolfi, Chainguard and…"
+2026-11-05T07:08:47.425176Z,rav1r,0.1.0,0,0,https://github.com/ml-rust/rav1r,AV1 encoder derived from rav1e
+2026-11-05T07:13:04.910653Z,memtrails,0.4.1,0,0,https://github.com/cmaftuleac/memtrails,"Retrieval and exploration for any text: e-mail, chat, notes, documents, commits, conversations — local embeddings, a keyword channel and word-by-word reordering, with optional consolidation by a lang…"
+2026-11-05T07:13:49.41651Z,kardia-core,0.1.0,0,0,https://github.com/licyk/kardia,"Contexts, revertible effects, fibers and reactive service resolution for kardia"
+2026-11-05T07:13:49.804728Z,kardia-guest,0.1.0,0,0,https://github.com/licyk/kardia,"Write guest plugins for kardia-hmr's WASM, dylib and process backends in Rust"
+2026-11-05T07:13:50.44758Z,kardia-fs,0.1.0,0,0,https://github.com/licyk/kardia,File-watching service for kardia
+2026-11-05T07:13:50.715258Z,kardia-loader,0.1.0,0,0,https://github.com/licyk/kardia,"Declarative plugin trees for kardia: entries, groups, isolation and expressions"
+2026-11-05T07:13:50.952214Z,kardia-logger-console,0.1.0,0,0,https://github.com/licyk/kardia,Console log exporter for kardia
+2026-11-05T07:15:07.42282Z,truto,0.1.0,0,0,https://github.com/trutohq/truto-rust-sdk,Rust SDK for the Truto REST API
+2026-11-05T07:15:56.389304Z,oxidoc-search,0.1.11,0,0,https://github.com/oxidoc-lab/oxidoc,"Lexical and semantic search engine for static sites, with a native index builder and a wasm browser runtime"
+2026-11-05T07:19:10.085491Z,kardia-hmr,0.1.0,0,0,https://github.com/licyk/kardia,"Hot module replacement for kardia, with WASM, dylib and process guest backends"
+2026-11-05T07:19:35.784327Z,env-checker-cli,0.1.0,0,0,https://github.com/Nimish2098/env-checker-cli,A lightweight CLI tool to verify required environment variables.
+2026-11-05T07:27:19.328576Z,plexus-ui-compiler,0.1.0,0,0,https://github.com/hypermemetic-ai/plexus-ui,"The plexus-ui component compiler — a component's source to the contract's view tree and Rhai handlers, natively and in wasm"
+2026-11-05T07:27:22.361135Z,plexus-ui-engine,0.1.0,0,0,https://github.com/hypermemetic-ai/plexus-ui,"The plexus-ui engine — signals, live() over Plexus streams, the view tree over a renderer, Rhai folds, sections, hot-swap"
+2026-11-05T07:27:28.367645Z,plexus-ui-service,0.1.0,0,0,https://github.com/hypermemetic-ai/plexus-ui,"The plexus-ui service — UI versions by content hash, the live pointer, push as one transaction, sections, ui.watch, and the ui routes a tenant mounts"
+2026-11-05T07:28:55.050113Z,llm-providers-connector,0.1.1,0,0,https://github.com/ikarys/llm-providers-connector,"Sync client for OpenAI-compatible LLM endpoints: streaming chat with tools, model listing and probing, prices, API keys sealed at rest."
