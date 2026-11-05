@@ -1,0 +1,29 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-05T07:31:49.238733Z,kardia-include,0.1.0,0,0,https://github.com/licyk/kardia,"YAML/JSON config files for kardia's loader, kept in sync both ways"
+2026-11-05T07:32:32.079249Z,starktop,0.8.0,0,0,https://github.com/amanusk/starktop,A TUI block explorer for the Starknet blockchain
+2026-11-05T07:33:57.259532Z,termix-rs-color,0.1.0,0,0,https://github.com/chiru-chintha/termix,A Rust library for terminal colors and ANSI styling.
+2026-11-05T07:36:10.294204Z,bridgemem,0.1.0,0,0,https://github.com/bridgemem/bridgemem-rs,Official lightweight HTTP and Model Context Protocol (MCP) client SDK for BridgeMem autonomous AI memory nodes.
+2026-11-05T07:40:52.391837Z,binlog-inspect,0.4.0,0,0,https://github.com/houseme/binlog-inspect,"Offline inspector for plaintext MySQL binary logs with JSON Lines, text and CSV output"
+2026-11-05T07:42:04.028474Z,kardia-macros,0.1.0,0,0,https://github.com/licyk/kardia,#[derive(Service)] and #[plugin] macros for kardia
+2026-11-05T07:46:00.607649Z,vidr,0.1.0,0,0,https://github.com/ml-rust/vidr,"Video: codecs, hardware decode and encode, frame conversion, and colour"
+2026-11-05T07:46:14.740504Z,vidr-remaster,0.1.0,0,0,https://github.com/ml-rust/vidr,"Remaster video on the GPU: AI restoration, upscaling, scaling, and encoding in one pass"
+2026-11-05T07:52:18.234215Z,kardia-timer,0.1.0,0,0,https://github.com/licyk/kardia,"Timer service for kardia: timeouts, intervals, throttle and debounce that end with their plugin"
+2026-11-05T07:53:58.424392Z,waitforport,0.1.0,0,0,https://github.com/PrinceAdvant/waitforport,Wait until a TCP host:port accepts connections. Useful before starting or health-checking self-hosted apps.
+2026-11-05T07:59:46.339126Z,vehc,0.0.0,0,0,,Vehicle Mileage Data Conversion Tool for THE .xlsx File
+2026-11-05T08:01:12.401324Z,p2mere-blobs,0.8.0,0,0,https://github.com/merely-made/p2mere,"Blob storage, retrieval and synchronisation (merely-made fork of p2panda)"
+2026-11-05T08:01:12.77503Z,p2mere-core,0.8.0,0,0,https://github.com/merely-made/p2mere,"Extensible data-types for secure, distributed and efficient exchange of data (merely-made fork of p2panda)"
+2026-11-05T08:01:14.266734Z,p2mere-auth,0.8.0,0,0,https://github.com/merely-made/p2mere,"Decentralised group management with fine-grained, per-member permissions (merely-made fork of p2panda)"
+2026-11-05T08:01:14.872435Z,p2mere-encryption,0.8.0,0,0,https://github.com/merely-made/p2mere,Decentralised data- and message encryption for groups with post-compromise security and optional forward secrecy (merely-made fork of p2panda)
+2026-11-05T08:01:16.10748Z,p2mere-store,0.8.0,0,0,https://github.com/merely-made/p2mere,Database traits and SQLite implementations for p2panda (merely-made fork of p2panda)
+2026-11-05T08:02:33.518823Z,kardia,0.1.0,0,0,https://github.com/licyk/kardia,Plugin framework with revertible effects and reactive services: a Rust implementation of Cordis
+2026-11-05T08:05:24.70539Z,akasu,0.0.1,0,0,,Work in progress
+2026-11-05T08:09:28.535938Z,wormx-drivers-postgres,0.1.0,0,0,https://github.com/strawberyy-coconut/wormx,PostgreSQL dialect and compile-time introspection for wormx.
+2026-11-05T08:09:50.081868Z,wormx-drivers-sqlite,0.1.0,0,0,https://github.com/strawberyy-coconut/wormx,SQLite dialect and compile-time introspection for wormx.
+2026-11-05T08:09:53.436176Z,iet-dashboard,0.3.0,0,0,https://github.com/MasLazu/iet-fw,Transport-independent dashboard contracts and batch data provider ports.
+2026-11-05T08:10:09.292445Z,wormx-drivers,0.1.0,0,0,https://github.com/strawberyy-coconut/wormx,Built-in driver implementations for the wormx ORM.
+2026-11-05T08:10:27.699593Z,wormx-macros,0.1.0,0,0,https://github.com/strawberyy-coconut/wormx,The wormx::table! procedural macro.
+2026-11-05T08:10:44.68604Z,rsxui-cli,0.0.1,0,0,https://github.com/nayupls1/rsx,Command-line compiler for the .rsx (JSX-in-Rust) format
+2026-11-05T08:10:48.87972Z,wormx,0.1.0,0,0,https://github.com/strawberyy-coconut/wormx,Typed table generation and query building for SQLx.
+2026-11-05T08:11:38.393243Z,rsxui-gpui,0.0.1,0,0,https://github.com/nayupls1/rsx,GPUI target for the rsx UI framework
+2026-11-05T08:12:16.94906Z,p2mere-discovery,0.8.0,0,0,https://github.com/merely-made/p2mere,Confidential topic and node discovery protocol (merely-made fork of p2panda)
+2026-11-05T08:12:28.945345Z,eisler,0.0.0,0,0,https://github.com/eisler-ai,Reserved for Eisler.

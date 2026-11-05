@@ -8,56 +8,42 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-05 07:29 UTC
+## Latest list — 2026-11-05 08:19 UTC
 
-New crates published between 2026-11-05 06:18 UTC and 2026-11-05 07:29 UTC.
+New crates published between 2026-11-05 07:29 UTC and 2026-11-05 08:19 UTC.
 
-[Full CSV](data/new-crates-2026-11-05T07-29-14-741025Z.csv)
+[Full CSV](data/new-crates-2026-11-05T08-19-41-263029Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-05 06:22:21 | [terminus-rs](https://crates.io/crates/terminus-rs) | 0.0.3 | 0 | Terminus — High-performance, batteries-included web and API application framewo… |
-| 2026-11-05 06:23:40 | [cuda-repr](https://crates.io/crates/cuda-repr) | 0.5.0 | 0 | Representation contracts shared by CUDA host and device types |
-| 2026-11-05 06:26:11 | [tquil](https://crates.io/crates/tquil) | 0.2.0 | 0 | Set up and manage a development machine: applications, Nerd Fonts, VPS profiles… |
-| 2026-11-05 06:33:40 | [containr](https://crates.io/crates/containr) | 0.1.0 | 0 | Media containers: MP4/MOV and Matroska/WebM mux and demux, with integer timesta… |
-| 2026-11-05 06:35:37 | [ocserve-ui-v1-a](https://crates.io/crates/ocserve-ui-v1-a) | 0.7.0 | 0 | Embedded web-UI pack part (1.18.31, part a) for ocserve |
-| 2026-11-05 06:36:11 | [ocserve-ui-v1-b](https://crates.io/crates/ocserve-ui-v1-b) | 0.7.0 | 0 | Embedded web-UI pack part (1.18.31, part b) for ocserve |
-| 2026-11-05 06:36:44 | [ocserve-ui-v2-a](https://crates.io/crates/ocserve-ui-v2-a) | 0.7.0 | 0 | Embedded web-UI pack part (2.0.28, part a) for ocserve |
-| 2026-11-05 06:37:18 | [ocserve-ui-v2-b](https://crates.io/crates/ocserve-ui-v2-b) | 0.7.0 | 0 | Embedded web-UI pack part (2.0.28, part b) for ocserve |
-| 2026-11-05 06:37:37 | [mrun-engine](https://crates.io/crates/mrun-engine) | 0.1.0 | 0 | Engine contract, model identity and (with the `engine` feature) the nuvec engin… |
-| 2026-11-05 06:37:51 | [ocserve-ui-v2-c](https://crates.io/crates/ocserve-ui-v2-c) | 0.7.0 | 0 | Embedded web-UI pack part (2.0.28, part c) for ocserve |
-| 2026-11-05 06:38:23 | [mrun-runpod](https://crates.io/crates/mrun-runpod) | 0.1.0 | 0 | A small RunPod client for mrun's remote GPU mode: pods, GPU types, network volu… |
-| 2026-11-05 06:48:26 | [ocserve-ui-v2-d](https://crates.io/crates/ocserve-ui-v2-d) | 0.7.0 | 0 | Embedded web-UI pack part (2.0.28, part d) for ocserve |
-| 2026-11-05 06:49:46 | [refract-graph](https://crates.io/crates/refract-graph) | 0.1.0 | 0 | Single-threaded reactive state, bindings, and dependency tracking for Refract |
-| 2026-11-05 06:49:47 | [refract-macros](https://crates.io/crates/refract-macros) | 0.1.0 | 0 | View authoring macros for the Refract framework |
-| 2026-11-05 06:49:47 | [refract-core](https://crates.io/crates/refract-core) | 0.1.0 | 0 | Portable views, composition, and retained UI runtime for Refract |
-| 2026-11-05 06:49:49 | [refract-test](https://crates.io/crates/refract-test) | 0.1.0 | 0 | Deterministic in-memory host for testing Refract views |
-| 2026-11-05 06:49:50 | [refract-web](https://crates.io/crates/refract-web) | 0.1.0 | 0 | Browser DOM adapter for the Refract framework |
-| 2026-11-05 06:50:48 | [taurimd](https://crates.io/crates/taurimd) | 0.1.17 | 0 | A read-only, cross-platform Markdown viewer GUI built with Tauri for Windows, m… |
-| 2026-11-05 06:54:28 | [rsxui-core](https://crates.io/crates/rsxui-core) | 0.0.1 | 0 | Parser, AST and backend interface for the .rsx (JSX-in-Rust) format |
-| 2026-11-05 06:54:30 | [rsxui-macros](https://crates.io/crates/rsxui-macros) | 0.0.1 | 0 | The #[component] attribute for the rsx UI framework |
-| 2026-11-05 06:54:34 | [rsxui](https://crates.io/crates/rsxui) | 0.0.1 | 0 | The rsx UI framework: target-independent elements, styles, events and state for… |
-| 2026-11-05 06:54:38 | [rsxui-html](https://crates.io/crates/rsxui-html) | 0.0.1 | 0 | HTML target for the rsx UI framework: renders rsx elements to HTML strings |
-| 2026-11-05 06:54:40 | [rsxui-build](https://crates.io/crates/rsxui-build) | 0.0.1 | 0 | build.rs integration for the .rsx (JSX-in-Rust) compiler |
-| 2026-11-05 06:56:46 | [iond-macros](https://crates.io/crates/iond-macros) | 0.7.0 | 0 | The proc macros of the iond app SDK: `#[iond::workflow]`, which writes a durabl… |
-| 2026-11-05 06:59:57 | [refract-desktop](https://crates.io/crates/refract-desktop) | 0.1.0 | 0 | Native desktop adapter for Refract with retained layout and GPU rendering |
-| 2026-11-05 07:01:26 | [itn-indic](https://crates.io/crates/itn-indic) | 0.1.0 | 0 | inverse text normalization for Indian languages |
-| 2026-11-05 07:07:53 | [fleetreach-os](https://crates.io/crates/fleetreach-os) | 1.6.0 | 0 | Container image and OS package feeder for fleetreach: docker-save/OCI/rootfs la… |
-| 2026-11-05 07:08:47 | [rav1r](https://crates.io/crates/rav1r) | 0.1.0 | 0 | AV1 encoder derived from rav1e |
-| 2026-11-05 07:13:04 | [memtrails](https://crates.io/crates/memtrails) | 0.4.1 | 0 | Retrieval and exploration for any text: e-mail, chat, notes, documents, commits… |
-| 2026-11-05 07:13:49 | [kardia-core](https://crates.io/crates/kardia-core) | 0.1.0 | 0 | Contexts, revertible effects, fibers and reactive service resolution for kardia |
-| 2026-11-05 07:13:49 | [kardia-guest](https://crates.io/crates/kardia-guest) | 0.1.0 | 0 | Write guest plugins for kardia-hmr's WASM, dylib and process backends in Rust |
-| 2026-11-05 07:13:50 | [kardia-fs](https://crates.io/crates/kardia-fs) | 0.1.0 | 0 | File-watching service for kardia |
-| 2026-11-05 07:13:50 | [kardia-loader](https://crates.io/crates/kardia-loader) | 0.1.0 | 0 | Declarative plugin trees for kardia: entries, groups, isolation and expressions |
-| 2026-11-05 07:13:50 | [kardia-logger-console](https://crates.io/crates/kardia-logger-console) | 0.1.0 | 0 | Console log exporter for kardia |
-| 2026-11-05 07:15:07 | [truto](https://crates.io/crates/truto) | 0.1.0 | 0 | Rust SDK for the Truto REST API |
-| 2026-11-05 07:15:56 | [oxidoc-search](https://crates.io/crates/oxidoc-search) | 0.1.11 | 0 | Lexical and semantic search engine for static sites, with a native index builde… |
-| 2026-11-05 07:19:10 | [kardia-hmr](https://crates.io/crates/kardia-hmr) | 0.1.0 | 0 | Hot module replacement for kardia, with WASM, dylib and process guest backends |
-| 2026-11-05 07:19:35 | [env-checker-cli](https://crates.io/crates/env-checker-cli) | 0.1.0 | 0 | A lightweight CLI tool to verify required environment variables. |
-| 2026-11-05 07:27:19 | [plexus-ui-compiler](https://crates.io/crates/plexus-ui-compiler) | 0.1.0 | 0 | The plexus-ui component compiler — a component's source to the contract's view… |
-| 2026-11-05 07:27:22 | [plexus-ui-engine](https://crates.io/crates/plexus-ui-engine) | 0.1.0 | 0 | The plexus-ui engine — signals, live() over Plexus streams, the view tree over… |
-| 2026-11-05 07:27:28 | [plexus-ui-service](https://crates.io/crates/plexus-ui-service) | 0.1.0 | 0 | The plexus-ui service — UI versions by content hash, the live pointer, push as… |
-| 2026-11-05 07:28:55 | [llm-providers-connector](https://crates.io/crates/llm-providers-connector) | 0.1.1 | 0 | Sync client for OpenAI-compatible LLM endpoints: streaming chat with tools, mod… |
+| 2026-11-05 07:31:49 | [kardia-include](https://crates.io/crates/kardia-include) | 0.1.0 | 0 | YAML/JSON config files for kardia's loader, kept in sync both ways |
+| 2026-11-05 07:32:32 | [starktop](https://crates.io/crates/starktop) | 0.8.0 | 0 | A TUI block explorer for the Starknet blockchain |
+| 2026-11-05 07:33:57 | [termix-rs-color](https://crates.io/crates/termix-rs-color) | 0.1.0 | 0 | A Rust library for terminal colors and ANSI styling. |
+| 2026-11-05 07:36:10 | [bridgemem](https://crates.io/crates/bridgemem) | 0.1.0 | 0 | Official lightweight HTTP and Model Context Protocol (MCP) client SDK for Bridg… |
+| 2026-11-05 07:40:52 | [binlog-inspect](https://crates.io/crates/binlog-inspect) | 0.4.0 | 0 | Offline inspector for plaintext MySQL binary logs with JSON Lines, text and CSV… |
+| 2026-11-05 07:42:04 | [kardia-macros](https://crates.io/crates/kardia-macros) | 0.1.0 | 0 | #[derive(Service)] and #[plugin] macros for kardia |
+| 2026-11-05 07:46:00 | [vidr](https://crates.io/crates/vidr) | 0.1.0 | 0 | Video: codecs, hardware decode and encode, frame conversion, and colour |
+| 2026-11-05 07:46:14 | [vidr-remaster](https://crates.io/crates/vidr-remaster) | 0.1.0 | 0 | Remaster video on the GPU: AI restoration, upscaling, scaling, and encoding in… |
+| 2026-11-05 07:52:18 | [kardia-timer](https://crates.io/crates/kardia-timer) | 0.1.0 | 0 | Timer service for kardia: timeouts, intervals, throttle and debounce that end w… |
+| 2026-11-05 07:53:58 | [waitforport](https://crates.io/crates/waitforport) | 0.1.0 | 0 | Wait until a TCP host:port accepts connections. Useful before starting or healt… |
+| 2026-11-05 07:59:46 | [vehc](https://crates.io/crates/vehc) | 0.0.0 | 0 | Vehicle Mileage Data Conversion Tool for THE .xlsx File |
+| 2026-11-05 08:01:12 | [p2mere-blobs](https://crates.io/crates/p2mere-blobs) | 0.8.0 | 0 | Blob storage, retrieval and synchronisation (merely-made fork of p2panda) |
+| 2026-11-05 08:01:12 | [p2mere-core](https://crates.io/crates/p2mere-core) | 0.8.0 | 0 | Extensible data-types for secure, distributed and efficient exchange of data (m… |
+| 2026-11-05 08:01:14 | [p2mere-auth](https://crates.io/crates/p2mere-auth) | 0.8.0 | 0 | Decentralised group management with fine-grained, per-member permissions (merel… |
+| 2026-11-05 08:01:14 | [p2mere-encryption](https://crates.io/crates/p2mere-encryption) | 0.8.0 | 0 | Decentralised data- and message encryption for groups with post-compromise secu… |
+| 2026-11-05 08:01:16 | [p2mere-store](https://crates.io/crates/p2mere-store) | 0.8.0 | 0 | Database traits and SQLite implementations for p2panda (merely-made fork of p2p… |
+| 2026-11-05 08:02:33 | [kardia](https://crates.io/crates/kardia) | 0.1.0 | 0 | Plugin framework with revertible effects and reactive services: a Rust implemen… |
+| 2026-11-05 08:05:24 | [akasu](https://crates.io/crates/akasu) | 0.0.1 | 0 | Work in progress |
+| 2026-11-05 08:09:28 | [wormx-drivers-postgres](https://crates.io/crates/wormx-drivers-postgres) | 0.1.0 | 0 | PostgreSQL dialect and compile-time introspection for wormx. |
+| 2026-11-05 08:09:50 | [wormx-drivers-sqlite](https://crates.io/crates/wormx-drivers-sqlite) | 0.1.0 | 0 | SQLite dialect and compile-time introspection for wormx. |
+| 2026-11-05 08:09:53 | [iet-dashboard](https://crates.io/crates/iet-dashboard) | 0.3.0 | 0 | Transport-independent dashboard contracts and batch data provider ports. |
+| 2026-11-05 08:10:09 | [wormx-drivers](https://crates.io/crates/wormx-drivers) | 0.1.0 | 0 | Built-in driver implementations for the wormx ORM. |
+| 2026-11-05 08:10:27 | [wormx-macros](https://crates.io/crates/wormx-macros) | 0.1.0 | 0 | The wormx::table! procedural macro. |
+| 2026-11-05 08:10:44 | [rsxui-cli](https://crates.io/crates/rsxui-cli) | 0.0.1 | 0 | Command-line compiler for the .rsx (JSX-in-Rust) format |
+| 2026-11-05 08:10:48 | [wormx](https://crates.io/crates/wormx) | 0.1.0 | 0 | Typed table generation and query building for SQLx. |
+| 2026-11-05 08:11:38 | [rsxui-gpui](https://crates.io/crates/rsxui-gpui) | 0.0.1 | 0 | GPUI target for the rsx UI framework |
+| 2026-11-05 08:12:16 | [p2mere-discovery](https://crates.io/crates/p2mere-discovery) | 0.8.0 | 0 | Confidential topic and node discovery protocol (merely-made fork of p2panda) |
+| 2026-11-05 08:12:28 | [eisler](https://crates.io/crates/eisler) | 0.0.0 | 0 | Reserved for Eisler. |
 
 ## Data source
 
