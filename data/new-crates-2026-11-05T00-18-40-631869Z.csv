@@ -1,0 +1,47 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-04T23:19:50.30358Z,agent-hooks-cli,0.12.1,0,0,https://github.com/builtby-win/agent-hooks,Universal lifecycle hooks and observability engine for AI coding agent harnesses.
+2026-11-04T23:20:52.772837Z,jettison,0.1.0,0,0,https://github.com/forge-ci/jettison,Fast fd-relative disk usage scanning with streaming and tree APIs
+2026-11-04T23:25:21.484007Z,email-validation-sdk,1.0.0,0,0,,Official Rust client for the email-validation.org email validation API.
+2026-11-04T23:25:35.05699Z,grafta-sites,0.1.0,0,0,https://github.com/n0ss4/grafta,"Figma Sites for grafta: a site's pages, each holding its breakpoints."
+2026-11-04T23:26:54.580292Z,hyperlight-component-csharp,0.19.0,0,0,https://github.com/hyperlight-dev/hyperlight,Experimental. Generates C# host bindings for Hyperlight components from WIT worlds
+2026-11-04T23:30:58.607497Z,rounddance-pchost,0.1.0-alpha.3,0,0,https://github.com/remenyo/rounddance,PC host runner: wall-clock RCP radio role + NCP half-host role over a serial UART (std-only host tool)
+2026-11-04T23:31:20.056666Z,apple-bridge-build,0.1.0,0,0,https://github.com/synchronal/virtualization,"The build script the `-sys` crates of `virtualization` share: generates swift-bridge's glue, builds the Swift package, and links it. Internal; no stability promise."
+2026-11-04T23:31:20.536043Z,apple-bridge-foundation,0.1.0,0,0,https://github.com/synchronal/virtualization,"Foundation as the Apple framework sys crates share it: objc2's objects, the glue for passing them through swift-bridge, and `NSError`, `NSMutableData`, and `PropertyListValue` as plain Rust."
+2026-11-04T23:31:20.867226Z,vmnet-framework-sys,0.1.0,0,0,https://github.com/synchronal/virtualization,"FFI to Apple's vmnet framework, through swift-bridge. Use the `vmnet-framework` crate instead."
+2026-11-04T23:31:21.216195Z,disk-image-kit-sys,0.1.0,0,0,https://github.com/synchronal/virtualization,"FFI to Apple's DiskImageKit framework, through swift-bridge. Use the `disk-image-kit` crate instead."
+2026-11-04T23:31:21.689213Z,io-usb-host-sys,0.1.0,0,0,https://github.com/synchronal/virtualization,"FFI to Apple's IOUSBHost framework, through swift-bridge. Use the `io-usb-host` crate instead."
+2026-11-04T23:32:59.941731Z,xeibe-core,0.1.0,0,0,https://github.com/ttomasz/xeibe,"Streaming GML reading primitives for xeibe: byte sources, compression and zip, encodings, namespaces, GML version detection, splitting documents into features. Experimental: AI-generated, not thoroug…"
+2026-11-04T23:33:02.235383Z,xeibe-crs,0.4.2+epsg-13.106,0,0,https://github.com/ttomasz/xeibe,"EPSG CRS facts, PROJJSON definitions and coordinate operations, generated from the EPSG Geodetic Parameter Dataset. Experimental: AI-generated, not thoroughly tested, unstable API"
+2026-11-04T23:33:04.529344Z,xeibe-geom,0.1.0,0,0,https://github.com/ttomasz/xeibe,"GML 2, 3.1, 3.2 and 3.3 geometry parsing into a model that keeps curves, with geo-traits and ISO WKB output and CRS/axis-order handling. Experimental: AI-generated, not thoroughly tested, unstable API"
+2026-11-04T23:33:06.30764Z,xeibe-esri,0.1.0,0,0,https://github.com/ttomasz/xeibe,"Esri's names of EPSG CRSs and datums, and its old codes that are EPSG codes now, from Esri's projection engine database. Experimental: AI-generated, not thoroughly tested, unstable API"
+2026-11-04T23:33:08.206593Z,xeibe-reproject,0.1.0,0,0,https://github.com/ttomasz/xeibe,"Pure-Rust coordinate conversion between EPSG coordinate reference systems, driven by the PROJJSON in xeibe-crs. Experimental: AI-generated, not thoroughly tested, unstable API"
+2026-11-04T23:33:38.108599Z,adamo-zenoh-result,1.9.0-adamo.1.0.20-rc.2,0,0,https://github.com/adamo-tech/adamo,Internal crate for zenoh.
+2026-11-04T23:33:55.448385Z,adamo-zenoh-keyexpr,1.9.0-adamo.1.0.20-rc.2,0,0,https://github.com/adamo-tech/adamo,Internal crate for zenoh.
+2026-11-04T23:34:13.255004Z,adamo-zenoh-macros,1.9.0-adamo.1.0.20-rc.2,0,0,https://github.com/adamo-tech/adamo,Internal crate for zenoh.
+2026-11-04T23:34:30.702734Z,adamo-zenoh-runtime,1.9.0-adamo.1.0.20-rc.2,0,0,https://github.com/adamo-tech/adamo,Zenoh: The Zero Overhead Pub/Sub/Query Protocol.
+2026-11-04T23:34:48.455776Z,adamo-zenoh-core,1.9.0-adamo.1.0.20-rc.2,0,0,https://github.com/adamo-tech/adamo,Internal crate for zenoh.
+2026-11-04T23:36:38.85103Z,grafta-slides,0.1.0,0,0,https://github.com/n0ss4/grafta,"Figma Slides for grafta: a deck's slides, transitions, animations and notes."
+2026-11-04T23:37:07.450581Z,adamo-zenoh-util,1.9.0-adamo.1.0.20-rc.2,0,0,https://github.com/adamo-tech/adamo,Internal crate for zenoh.
+2026-11-04T23:40:14.032387Z,symworx-gpu,0.6.0,0,0,https://github.com/symworx/symworx,Opt-in GPU kernels for SymWorx (HIP for AMD and NVIDIA)
+2026-11-04T23:44:10.940986Z,xeibe-schema,0.1.0,0,0,https://github.com/ttomasz/xeibe,"Arrow schema inference for GML: scan features into a path tree with value statistics, apply configurable inference rules, bind given schemas. Experimental: AI-generated, not thoroughly tested, unstab…"
+2026-11-04T23:46:30.836434Z,adamo-authorization,1.0.20-rc.2,0,0,https://github.com/adamo-tech/adamo,Shared operation-aware authorization policy for Adamo transports
+2026-11-04T23:47:07.82696Z,near-business-cli,0.2.1,0,0,https://github.com/NEAR-DevHub/near-business-cli,Manage your confidential Near Business treasuries from the command line
+2026-11-04T23:47:50.186997Z,grafta-edge,0.1.0,0,0,https://github.com/n0ss4/grafta,"Where a call's JSON meets grafta: each tool's name, description and schema, its arguments read into a command or a query, the results written as JSON, the journal."
+2026-11-04T23:47:54.173105Z,grafta-memory,0.1.0,0,0,https://github.com/n0ss4/grafta,"grafta's ports in memory, so a tool, a save or a journal's replay is tested with no file on disk."
+2026-11-04T23:55:13.821872Z,xeibe-arrow,0.1.0,0,0,https://github.com/ttomasz/xeibe,"Read GML into Arrow record batches with GeoArrow geometry columns: layer scan, schema inference, parallel streaming reads. Experimental: AI-generated, not thoroughly tested, unstable API"
+2026-11-04T23:56:00.76755Z,taskee-derive,0.1.0,0,0,https://github.com/bllexz/taskee,Derive macros for the taskee crate.
+2026-11-04T23:57:01.2Z,rpi-codemode,0.1.12,0,0,https://github.com/pi-rust/rpi-package,Bounded native JavaScript tool programs for rpi
+2026-11-04T23:58:17.83466Z,iced-mcp-protocol,0.1.0,0,0,https://github.com/allient/iced-mcp,Wire protocol between an app's iced-mcp bridge and the iced-mcp server
+2026-11-04T23:58:59.080196Z,iced-mcp,0.1.0,0,0,https://github.com/allient/iced-mcp,In-app bridge that lets AI agents inspect and drive any iced application over MCP
+2026-11-04T23:59:00.259427Z,grafta-toolkit,0.1.0,0,0,https://github.com/n0ss4/grafta,"Figma's own language, as tools a model calls: open a .fig, read it exactly, create in it, save."
+2026-11-04T23:59:21.765646Z,iced-mcp-server,0.1.0,0,0,https://github.com/allient/iced-mcp,"MCP server that lets AI agents launch, inspect and drive iced desktop apps"
+2026-11-05T00:00:37.53752Z,engenho-blue,0.53.154,0,0,https://github.com/pleme-io/engenho,"engenho-blue — a blue program embedded in an engenho crate, loaded under an empty posture on its own thread. It decides from the facts it is handed, reaches nothing, and Rust applies its verdict."
+2026-11-05T00:01:09.368088Z,pbwire,0.1.7,0,0,https://github.com/jinganix/pbwire,Rust binding over the pbwire C ABI: dynamic protobuf without generated code
+2026-11-05T00:02:12.823439Z,ponk,0.13.0,0,0,https://github.com/ponkexchange/ponk-sdk,Thin Rust client for the ponk public API: Solana DLMM liquidity agents.
+2026-11-05T00:02:51.08428Z,asset-io,0.3.0,0,0,https://github.com/contentauth/asset-io,"Streaming, container-agnostic access to media file structure and metadata (JUMBF, XMP)"
+2026-11-05T00:03:37.312227Z,ponk-cli,0.13.0,0,0,https://github.com/ponkexchange/ponk-sdk,"Command line for the ponk public API: pools across Meteora DLMM, Orca and Raydium, LP agents, the leaderboard, withdrawals."
+2026-11-05T00:05:53.318959Z,tauri-plugin-paste-button,0.1.0-alpha.1,0,0,https://github.com/hoangmirs/tauri-plugins,"Tauri plugin that lays the system paste button over a box the page draws, on iOS"
+2026-11-05T00:06:16.911352Z,xeibe-export,0.1.0,0,0,https://github.com/ttomasz/xeibe,"Write Arrow record batches with GeoArrow geometry to files: Parquet with GeoParquet metadata, Arrow IPC. Experimental: AI-generated, not thoroughly tested, unstable API"
+2026-11-05T00:11:20.19722Z,grafta-mcp,0.1.0,0,0,https://github.com/n0ss4/grafta,"An MCP server over grafta's toolkit, on stdio."
+2026-11-05T00:12:28.746553Z,wg-toolkit-wot,0.5.0,0,0,https://github.com/mindstorm38/portablemc,World of Tanks server emulator and proxy built on wg-toolkit
+2026-11-05T00:17:19.331186Z,xeibe-io,0.1.0,0,0,https://github.com/ttomasz/xeibe,"HTTP(S) and object-store (S3, GCS, Azure) byte sources for xeibe, each read as one sequential stream. Experimental: AI-generated, not thoroughly tested, unstable API"
