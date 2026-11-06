@@ -8,40 +8,36 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-06 09:20 UTC
+## Latest list — 2026-11-06 10:18 UTC
 
-New crates published between 2026-11-06 08:18 UTC and 2026-11-06 09:20 UTC.
+New crates published between 2026-11-06 09:20 UTC and 2026-11-06 10:18 UTC.
 
-[Full CSV](data/new-crates-2026-11-06T09-20-20-543004Z.csv)
+[Full CSV](data/new-crates-2026-11-06T10-18-42-980384Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-06 08:18:43 | [iridia-passes](https://crates.io/crates/iridia-passes) | 0.5.0 | 0 | Passes over iridia's shader IR: variable promotion, simplification, specialisat… |
-| 2026-11-06 08:18:47 | [iridia-d3d9-ir](https://crates.io/crates/iridia-d3d9-ir) | 0.5.0 | 0 | Read raw Direct3D 9 shader tokens of shader models 1 to 3 and lift them into ir… |
-| 2026-11-06 08:19:34 | [tomori-client-quest](https://crates.io/crates/tomori-client-quest) | 0.2.0 | 0 | A conversational spatial workspace for people and agents, built with OpenXR and… |
-| 2026-11-06 08:21:00 | [d2-rs-scenebuild](https://crates.io/crates/d2-rs-scenebuild) | 0.1.0 | 0 | Rust port of D2's d2scenebuild package (target diagram to d2scene document). |
-| 2026-11-06 08:26:24 | [valafmt](https://crates.io/crates/valafmt) | 0.2.1 | 0 | An opinionated code formatter for the Vala programming language |
-| 2026-11-06 08:31:00 | [d2-rs-export](https://crates.io/crates/d2-rs-export) | 0.1.0 | 0 | Rust port of D2's PNG, PDF, PPTX, GIF and ASCII exporters. |
-| 2026-11-06 08:41:00 | [d2-rs-isometric](https://crates.io/crates/d2-rs-isometric) | 0.1.0 | 0 | Rust port of D2's isometric renderer (d2renderers/d2isometric). |
-| 2026-11-06 08:42:50 | [zebra-mermaid](https://crates.io/crates/zebra-mermaid) | 0.1.0 | 0 | A pure Rust Mermaid to SVG renderer ported from Pele |
-| 2026-11-06 08:42:52 | [zebra-mermaid-cli](https://crates.io/crates/zebra-mermaid-cli) | 0.1.0 | 0 | Command line renderer for Mermaid diagrams, built on the zebra-mermaid library |
-| 2026-11-06 08:42:52 | [zebra-mermaid-ffi](https://crates.io/crates/zebra-mermaid-ffi) | 0.1.0 | 0 | C ABI (version 2) of zebra-mermaid, in the shape of Zebra's native Mermaid brid… |
-| 2026-11-06 08:44:04 | [beacon-core](https://crates.io/crates/beacon-core) | 1.0.0 | 0 | Deterministic, tested building blocks for AI pipelines: JSON extraction/repair,… |
-| 2026-11-06 08:46:04 | [locum-capture](https://crates.io/crates/locum-capture) | 0.1.0 | 0 | locum's capture format and the parts of capturing that do not depend on the gra… |
-| 2026-11-06 08:46:06 | [locum-d3d11](https://crates.io/crates/locum-d3d11) | 0.1.0 | 0 | Direct3D 11 pieces shared by locum in the game and by replay: reading resources… |
-| 2026-11-06 08:46:08 | [locum](https://crates.io/crates/locum) | 0.1.0 | 0 | Captures everything a Direct3D 11 game draws in a frame, to look at, query, cha… |
-| 2026-11-06 08:51:00 | [d2-rs](https://crates.io/crates/d2-rs) | 0.1.0 | 0 | The d2-rs command-line tool, a Rust port of D2's d2cli package. |
-| 2026-11-06 08:55:59 | [locum-cli](https://crates.io/crates/locum-cli) | 0.1.0 | 0 | Reads locum's captures: what a frame drew and with what, what the capture is mi… |
-| 2026-11-06 08:58:20 | [text-ref](https://crates.io/crates/text-ref) | 0.1.0 | 0 | text copy/edit/share without dup storage |
-| 2026-11-06 09:01:00 | [d2-rs-wasm](https://crates.io/crates/d2-rs-wasm) | 0.1.0 | 0 | WebAssembly bindings for d2-rs, a Rust port of D2's d2js package. |
-| 2026-11-06 09:02:38 | [ast-crispr](https://crates.io/crates/ast-crispr) | 0.2.1 | 0 | Structural edit tooling over Structured Merge AST contracts |
-| 2026-11-06 09:02:57 | [fuse-nsz](https://crates.io/crates/fuse-nsz) | 0.1.1 | 0 | FUSE filesystem that shows NSZ/XCZ files as plain NSP/XCI |
-| 2026-11-06 09:03:16 | [ast-merge-git](https://crates.io/crates/ast-merge-git) | 0.2.1 | 0 | Git merge contracts for Structured Merge |
-| 2026-11-06 09:03:41 | [bash-merge](https://crates.io/crates/bash-merge) | 0.2.1 | 0 | Bash syntax merge helpers for Structured Merge |
-| 2026-11-06 09:03:50 | [python-merge](https://crates.io/crates/python-merge) | 0.2.1 | 0 | Rust-owned Python declaration merge over native LibCST facts |
-| 2026-11-06 09:07:19 | [primase-core](https://crates.io/crates/primase-core) | 0.1.0 | 0 | primase core: the world store, core components, frames, the pass manager and ga… |
-| 2026-11-06 09:08:57 | [gamectx](https://crates.io/crates/gamectx) | 0.1.0-alpha.3 | 0 | Compile game data and tool schemas into small, budgeted context packets for AI-… |
-| 2026-11-06 09:15:36 | [primase-exactsum](https://crates.io/crates/primase-exactsum) | 0.1.0 | 0 | An order-independent exact sum of f64s (Shewchuk's expansions), rounded once |
+| 2026-11-06 09:25:36 | [primase-monogame](https://crates.io/crates/primase-monogame) | 0.1.0 | 0 | MonoGame (XNA 4.0, FNA) content: the XNB container, its type-reader table and t… |
+| 2026-11-06 09:34:09 | [grift-cli](https://crates.io/crates/grift-cli) | 2.0.0 | 0 | The grift runner: runs grift files or stdin |
+| 2026-11-06 09:34:46 | [membrake](https://crates.io/crates/membrake) | 0.1.0 | 0 | A memory brake and queue for macOS: queues heavy dev and coding-agent jobs unti… |
+| 2026-11-06 09:35:37 | [primase-animation](https://crates.io/crates/primase-animation) | 0.1.0 | 0 | Clip evaluation, pose composition, morph application and skinning for primase's… |
+| 2026-11-06 09:42:08 | [cnbprobe_358115_001xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx](https://crates.io/crates/cnbprobe_358115_001xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx) | 0.0.0 | 0 | protocol probe |
+| 2026-11-06 09:45:37 | [primase-cache](https://crates.io/crates/primase-cache) | 0.1.0 | 0 | Content-addressed disk cache for heavy pure steps: verified entries, safe acros… |
+| 2026-11-06 09:46:55 | [fasrun](https://crates.io/crates/fasrun) | 0.0.2 | 0 | fasrun is an agent runtime control plane using fasfile. |
+| 2026-11-06 09:46:57 | [fasrun-cli](https://crates.io/crates/fasrun-cli) | 0.0.2 | 0 | fasrun is an agent runtime control plane using fasfile. |
+| 2026-11-06 09:55:36 | [primase-dds](https://crates.io/crates/primase-dds) | 0.1.0 | 0 | DDS read and write (legacy FourCC and DX10 headers) |
+| 2026-11-06 10:01:03 | [bark-nwc](https://crates.io/crates/bark-nwc) | 0.7.1 | 0 | Nostr Wallet Connect (NIP-47) protocol and transport |
+| 2026-11-06 10:05:36 | [primase-glb](https://crates.io/crates/primase-glb) | 0.1.0 | 0 | The GLB codec: the container, a strict mesh reader, a mesh-file loader and a si… |
+| 2026-11-06 10:09:38 | [task-commander](https://crates.io/crates/task-commander) | 0.0.1 | 0 | TaskCommander |
+| 2026-11-06 10:15:37 | [primase-meshops](https://crates.io/crates/primase-meshops) | 0.1.0 | 0 | Deterministic reference mesh transformations and tessellation |
+| 2026-11-06 10:15:56 | [ghast-pathfinder](https://crates.io/crates/ghast-pathfinder) | 0.2.2 | 0 | Physics-exact path planning and path following for the ghast Minecraft Java Edi… |
+| 2026-11-06 10:15:58 | [ghast-ext](https://crates.io/crates/ghast-ext) | 0.2.2 | 0 | Sequential, mineflayer-style async helpers (look, dig, place, equip, containers… |
+| 2026-11-06 10:15:59 | [kz-cel](https://crates.io/crates/kz-cel) | 0.5.0 | 0 | Shared CEL compiler: whitelist-checked compilation with a per-instance program… |
+| 2026-11-06 10:16:03 | [kz-audit](https://crates.io/crates/kz-audit) | 0.5.0 | 0 | Shared JSONL audit sink and envelope for KeyZero — one channel for cmd, gateway… |
+| 2026-11-06 10:16:52 | [kz-mcp](https://crates.io/crates/kz-mcp) | 0.5.0 | 0 | MCP config location, stdio tap and policy for keyzero |
+| 2026-11-06 10:16:58 | [kz-cmd](https://crates.io/crates/kz-cmd) | 0.5.0 | 0 | Policy engine for wrapped CLI commands (subprocess allow/ask/deny). HCL + CEL. |
+| 2026-11-06 10:17:05 | [kz-rotate](https://crates.io/crates/kz-rotate) | 0.5.0 | 0 | Credential rotation orchestration for keyzero — multi-issuer, audit-logged, vau… |
+| 2026-11-06 10:18:38 | [dsdk-facet-testcontainers](https://crates.io/crates/dsdk-facet-testcontainers) | 0.1.1 | 0 | Testcontainers helpers (Postgres, Vault, S3, Keycloak) for testing with the Ecl… |
+| 2026-11-06 10:18:39 | [kz-gateway](https://crates.io/crates/kz-gateway) | 0.5.0 | 0 | Credential-injecting MITM gateway and CEL egress policies for keyzero |
 
 ## Data source
 

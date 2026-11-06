@@ -1,0 +1,23 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-06T09:25:36.65727Z,primase-monogame,0.1.0,0,0,https://github.com/kalmarv/primase,"MonoGame (XNA 4.0, FNA) content: the XNB container, its type-reader table and the built-in readers' values"
+2026-11-06T09:34:09.637323Z,grift-cli,2.0.0,0,0,https://github.com/gold-silver-copper/grift,The grift runner: runs grift files or stdin
+2026-11-06T09:34:46.195637Z,membrake,0.1.0,0,0,https://github.com/DivMode/membrake,"A memory brake and queue for macOS: queues heavy dev and coding-agent jobs until there is memory for them, freezes runaway ones before the compressor runs out, and kills only at the cliff"
+2026-11-06T09:35:37.663157Z,primase-animation,0.1.0,0,0,https://github.com/kalmarv/primase,"Clip evaluation, pose composition, morph application and skinning for primase's rig components"
+2026-11-06T09:42:08.82876Z,cnbprobe_358115_001xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx,0.0.0,0,0,,protocol probe
+2026-11-06T09:45:37.53981Z,primase-cache,0.1.0,0,0,https://github.com/kalmarv/primase,"Content-addressed disk cache for heavy pure steps: verified entries, safe across processes, size-capped"
+2026-11-06T09:46:55.227213Z,fasrun,0.0.2,0,0,https://github.com/fasrun/fasrun,fasrun is an agent runtime control plane using fasfile.
+2026-11-06T09:46:57.100343Z,fasrun-cli,0.0.2,0,0,https://github.com/fasrun/fasrun,fasrun is an agent runtime control plane using fasfile.
+2026-11-06T09:55:36.871043Z,primase-dds,0.1.0,0,0,https://github.com/kalmarv/primase,DDS read and write (legacy FourCC and DX10 headers)
+2026-11-06T10:01:03.683668Z,bark-nwc,0.7.1,0,0,https://gitlab.com/ark-bitcoin/bark,Nostr Wallet Connect (NIP-47) protocol and transport
+2026-11-06T10:05:36.693183Z,primase-glb,0.1.0,0,0,https://github.com/kalmarv/primase,"The GLB codec: the container, a strict mesh reader, a mesh-file loader and a single-mesh encoder"
+2026-11-06T10:09:38.574596Z,task-commander,0.0.1,0,0,https://github.com/EngosSoftware/task-commander.git,TaskCommander
+2026-11-06T10:15:37.342978Z,primase-meshops,0.1.0,0,0,https://github.com/kalmarv/primase,Deterministic reference mesh transformations and tessellation
+2026-11-06T10:15:56.370958Z,ghast-pathfinder,0.2.2,0,0,https://github.com/Crefax/Ghast,Physics-exact path planning and path following for the ghast Minecraft Java Edition bot library (1.8.9 and 1.16.5): every move type is validated against the vanilla-exact ghast-physics
+2026-11-06T10:15:58.861805Z,ghast-ext,0.2.2,0,0,https://github.com/Crefax/Ghast,"Sequential, mineflayer-style async helpers (look, dig, place, equip, containers, chat, events, find) on top of the ghast bot library's deterministic tick model"
+2026-11-06T10:15:59.130273Z,kz-cel,0.5.0,0,0,https://github.com/getkeyzero/keyzero,Shared CEL compiler: whitelist-checked compilation with a per-instance program cache.
+2026-11-06T10:16:03.941351Z,kz-audit,0.5.0,0,0,https://github.com/getkeyzero/keyzero,"Shared JSONL audit sink and envelope for KeyZero — one channel for cmd, gateway, and rotate events"
+2026-11-06T10:16:52.019635Z,kz-mcp,0.5.0,0,0,https://github.com/getkeyzero/keyzero,"MCP config location, stdio tap and policy for keyzero"
+2026-11-06T10:16:58.524261Z,kz-cmd,0.5.0,0,0,https://github.com/getkeyzero/keyzero,Policy engine for wrapped CLI commands (subprocess allow/ask/deny). HCL + CEL.
+2026-11-06T10:17:05.101037Z,kz-rotate,0.5.0,0,0,https://github.com/getkeyzero/keyzero,"Credential rotation orchestration for keyzero — multi-issuer, audit-logged, vault-agnostic"
+2026-11-06T10:18:38.750774Z,dsdk-facet-testcontainers,0.1.1,0,0,https://github.com/eclipse-dataplane-core/dsdk-facet-rs,"Testcontainers helpers (Postgres, Vault, S3, Keycloak) for testing with the Eclipse Rust Data Plane SDK (dsdk-facet)"
+2026-11-06T10:18:39.346609Z,kz-gateway,0.5.0,0,0,https://github.com/getkeyzero/keyzero,Credential-injecting MITM gateway and CEL egress policies for keyzero
