@@ -1,0 +1,39 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-06T10:19:03.233307Z,phoenixgit,1.0.0,0,0,https://gitlab.in2p3.fr/CTA-LAPP/PHOENIX_LIBS2/citoolkit/PhoenixGit,Thin wrappers around the git command line shared by the Phoenix CI tools
+2026-11-06T10:20:09.130721Z,zefiro,1.0.0,0,0,https://github.com/imartayan/zefiro,"A fast zstd decoder in pure Rust, with multi-threaded decompression, tested and fuzzed against libzstd"
+2026-11-06T10:20:20.640409Z,feature-standards-core,0.1.0,0,0,https://github.com/jongko54/feature-standards,Framework-independent authorization and listing contracts
+2026-11-06T10:22:16.566789Z,kessel-frame-ring,0.1.0,0,0,https://github.com/Alakazam-211/K2,"A single-producer, single-consumer ring of NV12 video frames in a shared-memory file, for handing frames from one process to another on the same machine (an iOS broadcast upload extension to its app)…"
+2026-11-06T10:24:03.221256Z,nidhogg,0.1.0,0,0,https://github.com/ElectronicWave/nidhogg,Authenticator for Yggdrasil server
+2026-11-06T10:25:37.226965Z,primase-havok,0.1.0,0,0,https://github.com/kalmarv/primase,"Havok convex cores as triangles, and Havok skeletons and animations as world data with their clip lowering"
+2026-11-06T10:27:27.33499Z,flower-openraft,0.9.25-flower.1,0,0,https://github.com/ipsomachina/flower,Flower fork of openraft with storage/replication fixes; retains upstream licensing
+2026-11-06T10:27:28.107747Z,flower-redb,4.4.0-flower.1,0,0,https://github.com/ipsomachina/flower,Flower fork of redb with storage/replication fixes; retains upstream licensing
+2026-11-06T10:27:28.80946Z,flower-sdk-macros,0.0.20261105,0,0,https://github.com/ipsomachina/flower,Derives and adapters for Flower guest applications
+2026-11-06T10:27:30.031405Z,flower-sdk,0.0.20261105,0,0,https://github.com/ipsomachina/flower,"Guest runtime, codecs, descriptors and transactional components for Flower applications"
+2026-11-06T10:27:31.78763Z,flower-crypto,0.0.20261105,0,0,https://github.com/ipsomachina/flower,"Flower crypto lane: hashing, versioned AEAD envelopes, guest NaCl/JOSE/WebAuthn and managed keys"
+2026-11-06T10:28:39.831059Z,kz-cloud,0.5.0,0,0,https://github.com/getkeyzero/keyzero,"The link between kz and KeyZero Cloud: machine key, signed requests, audit sync and offline verification"
+2026-11-06T10:35:29.300686Z,tempa-core,0.1.0,0,0,https://github.com/anggaralabshq/tempa,Library behind the tempa CLI: render one agent contract into each coding agent's native files
+2026-11-06T10:35:37.543492Z,primase-texcodec,0.1.0,0,0,https://github.com/kalmarv/primase,"Texture block codecs behind one TexFormat: BCn decode/encode, SNORM BC4/BC5, gates"
+2026-11-06T10:35:41.087814Z,tempa-cli,0.1.0,0,0,https://github.com/anggaralabshq/tempa,"One contract (AGENTS.md + .tempa/) kept in sync with Claude Code, Codex, Gemini CLI, OpenCode, Cursor and GitHub Copilot"
+2026-11-06T10:45:18.078514Z,pdfcer-vec3,0.131.0,0,0,https://github.com/KenM76/pdfcer,"pdfcer three-component vector arithmetic on [f64; 3]: add, sub, scale, dot, cross, and a length / normalize that scale before squaring. No dependencies; shared by pdfcer-3d, pdfcer-3d-nav and pdfcer-…"
+2026-11-06T10:45:21.770947Z,pdfcer-json,0.131.0,0,0,https://github.com/KenM76/pdfcer,"pdfcer minimal JSON reader (RFC 8259): values only, depth-bounded, panic-free. Shared by pdfcer-core (OCR model metadata) and pdfcer-3d (glTF import)."
+2026-11-06T10:45:37.402267Z,primase-frostbite,0.1.0,0,0,https://github.com/kalmarv/primase,"Frostbite in a world: the entries of a data folder read into components, and the passes that give them core meanings"
+2026-11-06T10:46:13.413999Z,pdfcer-3d,0.131.0,0,0,https://github.com/KenM76/pdfcer,"pdfcer 3D models: PRC (Adobe 8137 / ISO 14739-1) and glTF 2.0 / GLB reading, PRC writing, a headless CPU rasterizer, draw data for a host's GPU, lights and cast shadows, and the camera (framing, proj…"
+2026-11-06T10:46:16.405309Z,cg3-cli,0.5.0,0,0,https://github.com/divvun/cg3-rs,VISL CG-3 (Constraint Grammar) command-line tools — Rust port
+2026-11-06T10:46:37.906639Z,pdfcer-3d-nav,0.131.0,0,0,https://github.com/KenM76/pdfcer,"pdfcer 3D model viewer navigation: orbit, walk, lens and saved-view logic, GUI-free"
+2026-11-06T10:46:59.974238Z,egui-macview,0.3.0,0,0,https://github.com/oversluizen/egui-macview,"Deterministic macOS AppKit Layout Engine, Authentic Control Primitive Suite, and CoreAnimation Physics Runtime for egui."
+2026-11-06T10:47:45.835442Z,cnbprobe_361971_008xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx,1.0.0,0,0,,protocol probe
+2026-11-06T10:48:50.905295Z,cnbprobe_361971_020,7.361971.21,0,0,,protocol probe
+2026-11-06T10:48:53.622497Z,cnbprobe_361971_023,7.361971.24,0,0,,protocol probe
+2026-11-06T10:48:56.718907Z,cnbprobe_361971_027xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx,7.361971.26,0,0,,protocol probe
+2026-11-06T10:51:40.529112Z,rsdu,0.2.0,0,0,https://github.com/awaiden/rsdu,"Fast disk usage analyzer with a terminal UI, a Rust port of ncdu"
+2026-11-06T10:55:37.403256Z,primase-image,0.1.0,0,0,https://github.com/kalmarv/primase,"PNG and JPEG pixels, exact sRGB transfer, and deterministic image mip chains"
+2026-11-06T11:00:42.835279Z,fk-editor,0.1.0,0,0,https://github.com/Dastfox/feuclide,"An editor for Feuclide scenes and tuning files: scene tree, properties, a viewport drawn by the engine"
+2026-11-06T11:05:37.31776Z,primase-shred,0.1.0,0,0,https://github.com/kalmarv/primase,Tony Hawk: SHRED's RME archive and rigid scene reader
+2026-11-06T11:09:38.042541Z,flusso-kernel-derive,0.16.0,0,0,https://github.com/alias2k/flusso,"Derive macro for flusso adapter configuration: #[derive(AdapterConfig)] declares an adapter's options, schema, and examples once."
+2026-11-06T11:09:54.100544Z,flusso-kernel,0.16.0,0,0,https://github.com/alias2k/flusso,"The flusso kernel: the shared vocabulary every layer trades in (values, validated newtypes, index schemas and mappings, adapter options)."
+2026-11-06T11:10:11.921768Z,flusso-source,0.16.0,0,0,https://github.com/alias2k/flusso,Change-capture and document-builder abstractions for flusso sources.
+2026-11-06T11:10:20.398482Z,flusso-stream,0.16.0,0,0,https://github.com/alias2k/flusso,Queue abstraction for the flusso change-processing pipeline.
+2026-11-06T11:10:24.908761Z,flusso-sink,0.16.0,0,0,https://github.com/alias2k/flusso,"Sink trait, JSON rendering, and fan-out for flusso."
+2026-11-06T11:11:47.036354Z,outln,0.1.0,0,0,https://github.com/ptol/outln-rs,CLI for generating structural outlines of source files for coding agents.
+2026-11-06T11:15:11.754313Z,gsx-core,0.1.0,0,0,https://github.com/meritt/gsx.rs,"Parser, document model and target projections of the gsx/1 markup language"
+2026-11-06T11:15:38.379487Z,primase-anvil,0.1.0,0,0,https://github.com/kalmarv/primase,"Anvil worlds: forge archives read through anvil-formats into a world, and the passes that lower them"
