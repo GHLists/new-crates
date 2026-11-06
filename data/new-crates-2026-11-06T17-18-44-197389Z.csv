@@ -1,0 +1,48 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-06T16:20:25.240502Z,mln-rs-storage,0.0.7,0,0,https://github.com/louwers/maplibre-native-next,"Part of mln-rs, a Rust port of the MapLibre Native map rendering core. Depend on mln-rs instead."
+2026-11-06T16:20:41.541339Z,moelle,0.1.0,0,0,https://github.com/cet-t/moelle,A tiny RNG abstraction crate
+2026-11-06T16:21:18.872674Z,tollgate,0.1.0,0,0,https://github.com/victorkwak/tollgate,Gates the git ref updates of Claude Code sessions on checks run against the exact tree
+2026-11-06T16:22:00.385917Z,saga-machines,0.2.2,0,0,,"Sequential saga actions, reverse compensation, and stale-reply protection"
+2026-11-06T16:22:29.307915Z,baton-touch,0.2.3,0,0,https://github.com/victorkwak/baton-touch,"Coordinate AI coding agents running on several machines through git: a shared append-only message board, lead/follower handoffs, and hooks that wake an idle agent only when a message needs it."
+2026-11-06T16:22:48.203525Z,escouade-voice,0.1.0,0,0,https://github.com/guillaume-gagnaire/escouade,"Escouade's voice services on line (OpenAI, Groq, Mistral, ElevenLabs, Deepgram): the dictation, the live transcription and the reading, as a plugin in WASM serves them"
+2026-11-06T16:26:31.553114Z,tau-lang-core,0.1.0,0,0,https://github.com/tau-lang/tau,Core compiler for the Tau programming language.
+2026-11-06T16:26:34.26926Z,tau-generator-c,0.1.0,0,0,https://github.com/tau-lang/tau,A c generator for the Tau compiler.
+2026-11-06T16:26:34.883673Z,tau-generator-qbe,0.1.0,0,0,https://github.com/tau-lang/tau,A QBE intermediate language generator for the Tau compiler.
+2026-11-06T16:26:37.18611Z,tau-lang-cli,0.1.0,0,0,https://github.com/tau-lang/tau,Command line interface for the Tau compiler.
+2026-11-06T16:28:04.805067Z,rustdesk-console-sdk,0.1.0,0,0,https://github.com/lib-x/rustdesk-console-sdk-rs,Typed asynchronous Rust SDK for the RustDesk Console management API
+2026-11-06T16:29:27.08552Z,rndr_ui,0.4.0,0,0,https://github.com/EntasisLabs/rndr,"GPU-free semantic components, collections and data editors for rndr"
+2026-11-06T16:29:33.089105Z,rndr_app,0.4.0,0,0,https://github.com/EntasisLabs/rndr,"Starter helpers for a desktop rndr application: form navigation, spacing, and draft preferences"
+2026-11-06T16:30:36.309505Z,mln-rs-style-types,0.0.7,0,0,https://github.com/louwers/maplibre-native-next,"Part of mln-rs, a Rust port of the MapLibre Native map rendering core. Depend on mln-rs instead."
+2026-11-06T16:32:37.820067Z,gossip-machines,0.2.2,0,0,,Bounded epidemic peer fanout and acknowledgement decisions
+2026-11-06T16:35:49.965824Z,quantis-qrng,0.1.0-alpha.1,0,0,https://github.com/gnapoli23/quantis-qrng,Unofficial pure-Rust driver for ID Quantique Quantis quantum random number generators (QRNG)
+2026-11-06T16:36:28.03556Z,ymv,0.0.1,0,0,https://github.com/masakiyuizzz/ymv,终端视频播放器：ffmpeg 解码，音频时钟驱动画面 · terminal video player with ffmpeg and kitty graphics
+2026-11-06T16:40:48.898873Z,mln-rs-sprite,0.0.7,0,0,https://github.com/louwers/maplibre-native-next,"Part of mln-rs, a Rust port of the MapLibre Native map rendering core. Depend on mln-rs instead."
+2026-11-06T16:48:52.843529Z,branxas,0.1.0,0,0,https://github.com/riyadfebrian/branxas,Async mTLS client for the Branxas secrets server
+2026-11-06T16:49:41.044358Z,dspk-app-core,0.0.6,0,0,https://github.com/neuro-kitchen/dsp-kitchen,"DSP App core: the workbench for any multichannel signal (open, view, process, write) and the plugin interface the domain plugins (electrophysiology: dspk-app-synapse) extend"
+2026-11-06T16:51:01.354053Z,mln-rs-text,0.0.7,0,0,https://github.com/louwers/maplibre-native-next,"Part of mln-rs, a Rust port of the MapLibre Native map rendering core. Depend on mln-rs instead."
+2026-11-06T16:52:36.501789Z,dspk-app-synapse,0.0.6,0,0,https://github.com/neuro-kitchen/dsp-kitchen,"DSP App plugin for electrophysiology: SpikeGLX / NWB with probe geometry, shank grouping, sortings (.sorting.zarr), spike highlight, the Sorting workspace; sorts through dspk-cli-sorter (a separate p…"
+2026-11-06T16:54:41.514797Z,ketrs,0.1.1,0,0,https://github.com/Aethar01/ketrs,"Quantum computer simulator: statevectors, density matrices, MPS and Vulkan GPU, with OpenQASM 3"
+2026-11-06T16:55:40.877074Z,dspk-app,0.0.6,0,0,https://github.com/neuro-kitchen/dsp-kitchen,DSP App: the workbench (dspk-app-core) with its plugins: electrophysiology (dspk-app-synapse)
+2026-11-06T16:56:00.219167Z,ferrohealth-perf,0.0.0,0,0,https://github.com/FerroHEALTH/FerroSYS,"The FerroHEALTH performance gate: idle CPU and database transactions, load latency, memory and CPU against a committed baseline. This version holds the name until the first release."
+2026-11-06T16:56:15.306467Z,docmatch,0.1.0,0,0,https://github.com/mmtmn/docmatch,Cliente oficial assíncrono da API docmatch
+2026-11-06T17:00:22.93259Z,chet,0.0.3,0,0,,A lightweight coding agent
+2026-11-06T17:00:23.62547Z,muster-domain,0.12.0,0,0,https://github.com/sagoez/muster,"Internal crate of muster-workspace: the domain model: processes, stacks, settings, coordination, and the ports adapters implement. No stable API."
+2026-11-06T17:00:30.407526Z,muster-application,0.12.0,0,0,https://github.com/sagoez/muster,"Internal crate of muster-workspace: use cases over the domain's ports: stack editing, stack sync, workspace and process lifecycle. No stable API."
+2026-11-06T17:00:39.111059Z,muster-os,0.12.0,0,0,https://github.com/sagoez/muster,"Internal crate of muster-workspace: unix helpers: private state and socket directories, process groups and signals, detached spawns, bounded reads. No stable API."
+2026-11-06T17:00:57.410163Z,muster-terminal,0.12.0,0,0,https://github.com/sagoez/muster,"Internal crate of muster-workspace: VT emulator, keyboard protocol tracker and bounded escape parser behind muster's screens and logs. No stable API."
+2026-11-06T17:01:12.856165Z,mln-rs-tile-id,0.0.7,0,0,https://github.com/louwers/maplibre-native-next,"Part of mln-rs, a Rust port of the MapLibre Native map rendering core. Depend on mln-rs instead."
+2026-11-06T17:01:16.085774Z,muster-store,0.12.0,0,0,https://github.com/sagoez/muster,"Internal crate of muster-workspace: the SQLite store: projects, stacks, settings, coordination, run history, migrations. No stable API."
+2026-11-06T17:01:50.451294Z,iris-ultra,0.0.1,0,0,,"Intake, Routing, Insight, Status: the messenger, the eye and the rainbow for everything that enters a personal knowledge and work pipeline"
+2026-11-06T17:04:06.740473Z,muster-herdr,0.12.0,0,0,https://github.com/sagoez/muster,Internal crate of muster-workspace: opens processes in herdr panes. No stable API.
+2026-11-06T17:09:42.124174Z,rhema-transcript,0.2.0,0,0,https://github.com/vhaudiquet/rhema,"The bounded view over an unbounded session: the request view, the slot algebra, and the zoom tool"
+2026-11-06T17:10:21.698549Z,opt-bbwt,0.1.0,0,0,https://github.com/TheFabbest/opt-bbwt,"Burrows-Wheeler, bijective BWT, Lyndon, and optimal-BBWT algorithms"
+2026-11-06T17:11:25.671425Z,mln-rs-gfx,0.0.7,0,0,https://github.com/louwers/maplibre-native-next,"Part of mln-rs, a Rust port of the MapLibre Native map rendering core. Depend on mln-rs instead."
+2026-11-06T17:12:38.680585Z,rigswig-core,0.1.0,0,0,https://github.com/overfocus/rigswig,The harness-neutral data model and the per-harness adapters behind rigswig. No I/O of its own: adapters read through an injected file system.
+2026-11-06T17:12:40.876551Z,rigswig,0.1.0,0,0,https://github.com/overfocus/rigswig,"See everything your coding agent loads before you type, and where each piece came from. Harness-agnostic, local, read-only."
+2026-11-06T17:12:54.298983Z,muster-protocol,0.12.0,0,0,https://github.com/sagoez/muster,"Internal crate of muster-workspace: what its service, holders and clients exchange (wire DTOs, framed IPC, the service protocol, the process log format). No stable API."
+2026-11-06T17:17:48.715241Z,boxwren,0.2.2,0,0,https://github.com/rejisterjack/boxwren,"Local-first WebAssembly sandbox for untrusted agent code. Deny-by-default limits, capability grants, and a kill switch."
+2026-11-06T17:18:08.451878Z,capcheck,0.1.0,0,0,https://github.com/octofhir/capcheck,Checks a FHIR server's CapabilityStatement against what the server really does
+2026-11-06T17:18:16.187534Z,fishstringer-kernels-source,0.0.0,0,0,https://github.com/ThinkersJournal/fishstringer,"Placeholder: fishstringer-kernels-source, part of FishStringer, the home of Slang in our ecosystem. Not yet released."
+2026-11-06T17:18:21.06933Z,verkodo-sdk,0.2.0,0,0,https://github.com/verkodo/verkodo,"The SDK of verkodo: every command and query on verkodo knowledge – what the command line, the language server, the API and IDEs build on"
+2026-11-06T17:18:32.369725Z,verkodo-web,0.2.0,0,0,https://github.com/verkodo/verkodo,"The web editor of verkodo, built in: served with a Content-Security-Policy, a nonce new with every page"
+2026-11-06T17:18:40.484272Z,verkodo,0.2.0,0,0,https://github.com/verkodo/verkodo,"Truth code – mathematics and law written formally, checked by machine: the verkodo command line"
