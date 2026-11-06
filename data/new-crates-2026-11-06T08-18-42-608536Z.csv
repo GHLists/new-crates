@@ -1,0 +1,30 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-06T07:21:00.612504Z,d2-rs-layout,0.1.0,0,0,https://github.com/nelsonjchen/d2-rs,"Rust port of D2's d2layouts package: engine selection, grids, sequence diagrams and near placement."
+2026-11-06T07:26:14.724718Z,bellwether,0.1.1,0,0,https://github.com/bscott/bellwether,"OSC 7501 (Program Status Protocol): encode, parse, scan, and track terminal program status reports"
+2026-11-06T07:26:16.553853Z,bellwether-cli,0.1.1,0,0,https://github.com/bscott/bellwether,Report program status to your terminal with OSC 7501 (Program Status Protocol)
+2026-11-06T07:27:58.304385Z,unbill-asymmetric-channel,0.0.10,0,0,https://github.com/unbill-project/unbill,Asymmetric channel trait for unbill — the device-to-console protocol contract.
+2026-11-06T07:29:32.307592Z,tomori-text,0.2.0,0,0,https://github.com/ioquatix/tomori,"Tomori's bundled fonts and the signed-distance-field glyph atlas its panels and labels are drawn from, free of GPU code"
+2026-11-06T07:30:06.812546Z,edline,0.0.2,0,0,https://github.com/ypsitau/edline,A line editor for embedded systems
+2026-11-06T07:31:00.657579Z,d2-rs-lib,0.1.0,0,0,https://github.com/nelsonjchen/d2-rs,D2's serialized graph JSON boundary between the compiler and the layout engines.
+2026-11-06T07:32:41.349644Z,reducio,0.0.1,0,0,,Data reduction.
+2026-11-06T07:36:24.967045Z,lokr,0.0.1,0,0,,Placeholder for a local secrets broker for AI agents. Not functional yet.
+2026-11-06T07:37:58.719483Z,unbill-console,0.0.10,0,0,https://github.com/unbill-project/unbill,The console library for unbill — CRDT ledger operations and P2P sync.
+2026-11-06T07:39:34.190553Z,tomori-scene,0.2.0,0,0,https://github.com/ioquatix/tomori,"The platform-neutral Tomori client: the frame step, the conversation and the panels' layout, free of rendering, windowing and device code"
+2026-11-06T07:41:00.992195Z,d2-rs-render,0.1.0,0,0,https://github.com/nelsonjchen/d2-rs,Rust port of D2's d2svg and d2sketch renderers.
+2026-11-06T07:42:18.471044Z,sni-sniff,0.1.0,0,0,https://github.com/nfilament/sni-sniff,"Reads the server name of a connection from its first bytes: TLS ClientHello (SNI, ECH), QUIC Initial packets and HTTP Host"
+2026-11-06T07:46:57.575124Z,axa-session,0.1.0,0,0,https://github.com/publicprojects-io/axa/,"Web sessions for Axum services over axum_session, with safe defaults."
+2026-11-06T07:47:26.112501Z,fsls,0.1.0,0,0,https://github.com/gyazbek/fsls,"List mounted file systems on Windows, Linux and macOS: drives, volumes, mount points and network shares"
+2026-11-06T07:47:53.629072Z,unbill,0.0.10,0,0,https://github.com/unbill-project/unbill,Native Rust Console API for Unbill shared expense ledgers.
+2026-11-06T07:49:32.912538Z,tomori-render,0.2.0,0,0,https://github.com/ioquatix/tomori,"Tomori's wgpu renderers and shaders, shared by the headset, the desktop window and the spectator"
+2026-11-06T07:51:00.235023Z,d2-rs-scene,0.1.0,0,0,https://github.com/nelsonjchen/d2-rs,Rust port of D2's renderer-neutral scene model (d2renderers/d2scene).
+2026-11-06T07:58:49.204878Z,tfsv,0.1.0,0,0,https://github.com/aayushrambo8/Terminal-File-System-VIsualiser,A terminal-native Linux file manager for local and SSH sessions
+2026-11-06T07:59:32.392698Z,tomori-client-desktop,0.2.0,0,0,https://github.com/ioquatix/tomori,"Tomori on the desktop: the server-less window, taking part from a window or a terminal, and finding servers"
+2026-11-06T08:01:02.434578Z,d2-rs-fontface,0.1.0,0,0,https://github.com/nelsonjchen/d2-rs,"Rust port of D2's internal fontface package: font parsing, shaping, glyph outlines and COLRv1."
+2026-11-06T08:07:24.698701Z,winia-pack,0.1.0,0,0,https://github.com/GrounzerLiu/winia-forge,Cross-platform packaging primitives for Winia applications
+2026-11-06T08:08:18.591768Z,winia-cli,0.1.0,0,0,https://github.com/GrounzerLiu/winia-forge,"Winia Forge — create, build, run, and package Winia applications"
+2026-11-06T08:09:34.021156Z,tomori-client-spectator,0.2.0,0,0,https://github.com/ioquatix/tomori,"The Tomori spectator: a read-only, participant-following view of a live space, in a window or as a PipeWire video source"
+2026-11-06T08:11:00.379257Z,d2-rs-raster,0.1.0,0,0,https://github.com/nelsonjchen/d2-rs,Rust port of D2's d2raster package (d2scene document to pixels).
+2026-11-06T08:17:39.75664Z,glory-wry,0.7.0,0,0,https://github.com/glory-rs/glory,Native Rust semantic UI host with an IPC-driven system WebView
+2026-11-06T08:18:39.94237Z,iridia-ir,0.5.0,0,0,https://github.com/Kalmarv/iridia,"iridia's shader IR: typed SSA values and operations in structured regions or a control flow graph, with the interface vocabulary, a validator and a text form"
+2026-11-06T08:18:41.48645Z,iridia-exec-ir,0.5.0,0,0,https://github.com/Kalmarv/iridia,"Run a program of iridia's shader IR on the CPU, one invocation or a pixel quad, by the IR's own definition of each operation"
+2026-11-06T08:18:42.194625Z,iridia-naga,0.5.0,0,0,https://github.com/Kalmarv/iridia,"Lower iridia's shader IR to a stock naga module, for naga's writers (WGSL)"
