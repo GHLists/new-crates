@@ -1,0 +1,37 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-06T22:18:59.851337Z,iron-shell-lsp,14.0.0,0,0,https://github.com/nervosys/IronShell,"Language Server Protocol implementation for IronShell — diagnostics, completion, hover, and symbols for .ish scripts."
+2026-11-06T22:19:16.726758Z,agrafe-crypto,0.1.0,0,0,https://github.com/tchak/agrafe,Streaming AEAD (Tink AES-GCM-HKDF-STREAMING) and key wrapping for agrafe
+2026-11-06T22:19:17.220668Z,agrafe-render-document,0.1.0,0,0,https://github.com/tchak/agrafe,Sandboxed helper: compiles a typst workspace into a PDF or into HTML
+2026-11-06T22:19:17.803001Z,agrafe-sandbox,0.1.0,0,0,https://github.com/tchak/agrafe,Runs decoders and renderers as subprocesses with resource limits
+2026-11-06T22:19:18.144286Z,agrafe-types,0.1.0,0,0,https://github.com/tchak/agrafe,"Content types, classification and sniffing shared by the agrafe crates"
+2026-11-06T22:19:19.955999Z,agrafe-extract,0.1.0,0,0,https://github.com/tchak/agrafe,"Sandboxed helper: pulls the embedded image out of a PDF, DOCX or ODT that is really a wrapped picture"
+2026-11-06T22:24:45.535041Z,acdp-a2a,0.21.2,0,0,https://github.com/agentcontextdistributionprotocol/acdp-rs,"A2A artifact provenance (RFC-ACDP-0022): an A2A server agent signs each completed artifact as an ACDP body, and holders verify held artifacts against it"
+2026-11-06T22:24:46.915492Z,x0k-release-metadata,0.1.0,0,0,https://github.com/0k-dot-computer/x0k-release-metadata,"Verifies a release against a root of trust its maintainers sign: TUF metadata, thresholds of signatories, and SSHSIG signatures"
+2026-11-06T22:25:57.371462Z,mirage-protocol,0.1.0,0,0,https://github.com/knyaz-tishini/mirage-oss,"Mirage wire: handshake, session, carriers, camouflage, and transports."
+2026-11-06T22:35:48.077319Z,mirage-control-plane,0.1.0,0,0,https://github.com/knyaz-tishini/mirage-oss,Client dial primitives shared by the client runtime and the mesh client.
+2026-11-06T22:39:14.865977Z,pgzest-expand,0.1.0,0,0,https://github.com/Creatiwity/pgzest,"pgzest internals: SQL macros and fragments, desugared into standard SQL"
+2026-11-06T22:39:21.181929Z,linex,0.1.0,0,0,https://github.com/zx0r/linex,"Fast, zero-overhead terminal state widgets for tmux and status lines"
+2026-11-06T22:39:28.88084Z,pgzest-schema,0.1.0,0,0,https://github.com/Creatiwity/pgzest,"pgzest internals: pgzest.toml, project files and migration headers"
+2026-11-06T22:39:35.423389Z,pgzest-catalog,0.1.0,0,0,https://github.com/Creatiwity/pgzest,"pgzest internals: model of the PostgreSQL catalog, generated packs, DDL replay"
+2026-11-06T22:40:01.228378Z,rs-pgcopy2arrow-ipc,0.1.0,0,0,https://github.com/takanoriyanagitani/rs-pgcopy2arrow-ipc,Convert PGCOPY format to Arrow IPC stream
+2026-11-06T22:45:38.345895Z,mirage-shared-types,0.1.0,0,0,https://github.com/knyaz-tishini/mirage-oss,"Shared cross-worker types (client config, peer/client registration, etc.)"
+2026-11-06T22:48:15.322665Z,pgzest-sema,0.1.0,0,0,https://github.com/Creatiwity/pgzest,"pgzest internals: PostgreSQL-faithful semantic analysis (types, nullability, resolution)"
+2026-11-06T22:52:37.76906Z,arkiv-rs-sdk,0.1.0,0,0,https://github.com/TryStrike/arkiv-rs-sdk,"Rust SDK for Arkiv, the Web3 database: typed attributes, batched creates, signing, queries."
+2026-11-06T22:53:02.833137Z,mediamaster-frame,0.4.0,0,0,https://github.com/Zakarialabib/mediamaster-rs,"Frame and packet vocabulary (FramePacket, channels) for mediamaster-rs"
+2026-11-06T22:53:16.114363Z,step_link,0.1.0,0,0,https://github.com/jorgeandrecastro/step_link,"Pure Rust B-Rep geometry kernel, STEP (ISO 10303-21) parser and tessellation, no Bevy dependency."
+2026-11-06T22:53:34.193068Z,mediamaster-ffi,0.4.0,0,0,https://github.com/Zakarialabib/mediamaster-rs,"Thin, runtime-free C ABI FFI layer bridging mediamaster-rs to Tauri desktop and mobile companions"
+2026-11-06T22:53:38.220115Z,repete,0.1.0,0,0,https://github.com/qrichert/repete.git,Run a command repeatedly.
+2026-11-06T22:54:46.531478Z,bevy_step_link,0.1.0,0,0,https://github.com/jorgeandrecastro/step_link,Bevy integration for step_link: AssetLoader importing STEP (.step/.stp) CAD files as Mesh.
+2026-11-06T22:55:38.990359Z,mirage-wire-http-client,0.1.0,0,0,https://github.com/knyaz-tishini/mirage-oss,HTTP over the Mirage wire for a process that is not the operator.
+2026-11-06T22:56:10.862627Z,interactsh-client,0.1.0,0,0,https://github.com/andyintheshell/interactsh-client,Async Rust client for polling out-of-band interaction servers.
+2026-11-06T22:58:14.396945Z,pgzest-query,0.1.0,0,0,https://github.com/Creatiwity/pgzest,pgzest internals: named queries and the query descriptor
+2026-11-06T22:58:40.439695Z,psychic-cli,0.1.0,0,0,https://github.com/kshitijl/psychic,Smarter file explorer and cd replacement that learns from your actions and ranks files with a model trained on your machine
+2026-11-06T23:05:39.229554Z,mirage-subscriber-gate,0.1.0,0,0,https://github.com/knyaz-tishini/mirage-oss,Authenticate a customer dial and dispatch the tunnel.
+2026-11-06T23:06:56.322722Z,srt-io-sys,0.1.0,0,0,https://github.com/dcrearer/srt-io,Native FFI bindings to libsrt (Secure Reliable Transport)
+2026-11-06T23:07:27.390519Z,srt-io,0.1.0,0,0,https://github.com/dcrearer/srt-io,Safe Rust wrapper over libsrt (Secure Reliable Transport)
+2026-11-06T23:08:14.486671Z,pgzest-analysis,0.1.0,0,0,https://github.com/Creatiwity/pgzest,pgzest internals: the analysis pipeline and the incremental project database
+2026-11-06T23:10:50.970527Z,ofw_memory,0.1.0,0,0,https://forge.voremicrocomputers.com/Open_Firmware/ofw_memory,implementation of the OpenFirmware memory client interface API for the ofw ecosystem
+2026-11-06T23:11:30.484038Z,aclp,0.1.0,0,0,https://github.com/superaligned-to/aclp-rs,Rust client and server for ACLP lifecycle callbacks.
+2026-11-06T23:12:43.764122Z,alloc_my_pages,0.1.2,0,0,https://git.gay/Zepalesque/alloc_my_pages,A crate for directly allocating pages of memory through the OS.
+2026-11-06T23:15:39.976514Z,mirage-perimeter,0.1.0,0,0,https://github.com/knyaz-tishini/mirage-oss,"Public front door of a box: own the facing ports, classify Mirage wire, reject the rest."
+2026-11-06T23:18:14.613793Z,pgzest-codegen,0.1.0,0,0,https://github.com/Creatiwity/pgzest,pgzest internals: Rust code generation from query descriptors
