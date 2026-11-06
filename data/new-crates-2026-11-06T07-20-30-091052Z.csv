@@ -1,0 +1,40 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-06T06:21:01.961453Z,d2-rs-tala,0.1.0,0,0,https://github.com/nelsonjchen/d2-rs,"Rust port of TALA, the layout engine bundled with D2."
+2026-11-06T06:22:49.882933Z,unbill-build-info,0.0.10,0,0,https://github.com/unbill-project/unbill,Build metadata shared by Unbill applications and libraries.
+2026-11-06T06:22:50.173865Z,unbill-event,0.0.10,0,0,https://github.com/unbill-project/unbill,Event types for unbill — the shared vocabulary for service and network notifications.
+2026-11-06T06:22:50.500152Z,unbill-license,0.0.10,0,0,https://github.com/unbill-project/unbill,Compiled license texts and notices for Unbill's Rust software
+2026-11-06T06:22:51.0501Z,unbill-model-verified,0.0.10,0,0,https://github.com/unbill-project/unbill,"Formally verified ledger model for unbill, proven with Verus."
+2026-11-06T06:22:52.328676Z,unbill-console-verified,0.0.10,0,0,https://github.com/unbill-project/unbill,"Formally verified settlement math for unbill, proven with Verus."
+2026-11-06T06:25:39.80048Z,uwui,0.0.0,0,0,https://github.com/HoneySlatt/uwui,"A UI framework in Rust, drawn by the GPU, for the desktop, Android and the web. In development, not usable yet: this version only keeps the name."
+2026-11-06T06:30:59.831741Z,d2-rs-target,0.1.0,0,0,https://github.com/nelsonjchen/d2-rs,Rust port of D2's d2target diagram model and theme resolution.
+2026-11-06T06:31:05.524301Z,githits-scan,0.3.0,0,0,https://github.com/githits-com/githits-scan,"Generate SBOMs, audit dependencies, and check licenses from a repository's lockfiles with the GitHits public API"
+2026-11-06T06:37:24.926628Z,unbill-model,0.0.10,0,0,https://github.com/unbill-project/unbill,Domain model types for unbill — the shared vocabulary used across all layers.
+2026-11-06T06:37:48.705553Z,weftdb-client,0.1.0,0,0,https://github.com/basic-automation/weftdb,"Async Rust client for weft-server's HTTP API: compute, catalog, lossless ingest and stored reads, maintenance and backup."
+2026-11-06T06:38:16.13091Z,unbill-storage,0.0.10,0,0,https://github.com/unbill-project/unbill,Storage interface and CRDT document layer for unbill — LedgerStore trait and LedgerDoc.
+2026-11-06T06:41:02.610881Z,d2-rs-text,0.1.0,0,0,https://github.com/nelsonjchen/d2-rs,"Rust port of D2's text measurement, Markdown and code highlighting."
+2026-11-06T06:45:01.466798Z,tomori-backend,0.2.0,0,0,https://github.com/ioquatix/tomori,Backend-neutral agent session interface for the Tomori server
+2026-11-06T06:45:22.258314Z,tomori-backend-opencode,0.2.0,0,0,https://github.com/ioquatix/tomori,"The OpenCode backend for the Tomori server: sessions on a running `opencode serve` process, driven over its HTTP and SSE APIs"
+2026-11-06T06:45:30.103315Z,tomori-protocol,0.2.0,0,0,https://github.com/ioquatix/tomori,Wire protocol shared by Tomori clients and the Tomori server
+2026-11-06T06:45:39.390385Z,tomori-discovery,0.2.0,0,0,https://github.com/ioquatix/tomori,Bonjour (DNS-SD over multicast DNS) advertising and browsing for Tomori servers
+2026-11-06T06:45:49.136679Z,tomori-security,0.2.0,0,0,https://github.com/ioquatix/tomori,"Tomori's authentication, tokens, certificates and pinning, shared by the server and clients"
+2026-11-06T06:48:06.635694Z,unbill-store-memory,0.0.10,0,0,https://github.com/unbill-project/unbill,In-memory LedgerStore implementation for unbill — primarily for tests.
+2026-11-06T06:49:32.845156Z,tomori-client,0.2.0,0,0,https://github.com/ioquatix/tomori,"Connection, reconnection and playback for Tomori clients"
+2026-11-06T06:51:00.696054Z,d2-rs-elk,0.1.0,0,0,https://github.com/nelsonjchen/d2-rs,Rust port of D2's ELK layout adapter and the elk-go layout engine.
+2026-11-06T06:54:25.766819Z,surmise,0.1.0,0,0,https://github.com/z80020100/surmise,"Completion for cd directories, Git subcommands, and any command with a committed specification"
+2026-11-06T06:57:59.764224Z,unbill-store-sqlite,0.0.10,0,0,https://github.com/unbill-project/unbill,Diesel SQLite LedgerStore implementation for unbill.
+2026-11-06T06:59:33.305174Z,tomori-environment-sky,0.2.0,0,0,https://github.com/ioquatix/tomori,Tomori's moonlit sky environment renderer
+2026-11-06T07:01:00.542229Z,d2-rs-language,0.1.0,0,0,https://github.com/nelsonjchen/d2-rs,"Rust port of D2's parser, IR, compiler and formatter."
+2026-11-06T07:04:38.896686Z,mdbook-llms,0.1.1,0,0,https://github.com/ttdonovan/mdbook-llms,"mdBook 0.5 renderer that generates llms.txt, llms-full.txt and per-page Markdown"
+2026-11-06T07:07:58.643391Z,unbill-symmetric-channel,0.0.10,0,0,https://github.com/unbill-project/unbill,"Symmetric channel for unbill — Iroh endpoint, device-to-device sync and join protocols."
+2026-11-06T07:09:30.749893Z,tomori-speech,0.2.0,0,0,https://github.com/ioquatix/tomori,"Streaming speech recognition, speakable text selection and synthesis for the Tomori server"
+2026-11-06T07:11:00.377369Z,d2-rs-editor,0.1.0,0,0,https://github.com/nelsonjchen/d2-rs,"Rust port of D2's d2oracle and d2lsp packages: source edits, references and completions."
+2026-11-06T07:15:03.092519Z,minigrep_ohq,0.1.0,0,0,,这是一个`Rust程序设计语言`中的`minigrep项目`改造的crate
+2026-11-06T07:15:42.443399Z,gaugeblock-security,0.1.0-alpha.1,0,0,https://github.com/gaugeblock/common,Namespace reservation placeholder for `gaugeblock-security`; superseded by the first real release.
+2026-11-06T07:15:44.687237Z,gaugeblock-workspace,0.1.0-alpha.1,0,0,https://github.com/gaugeblock/common,Namespace reservation placeholder for `gaugeblock-workspace`; superseded by the first real release.
+2026-11-06T07:15:45.447327Z,gaugeblock-inventory,0.1.0-alpha.1,0,0,https://github.com/gaugeblock/common,Namespace reservation placeholder for `gaugeblock-inventory`; superseded by the first real release.
+2026-11-06T07:15:46.645882Z,miter-polyglot,0.1.0-alpha.1,0,0,https://github.com/gaugeblock/miter,Namespace reservation placeholder for `miter-polyglot`; superseded by the first real release.
+2026-11-06T07:15:48.411993Z,miter-analysis,0.1.0-alpha.1,0,0,https://github.com/gaugeblock/miter,Namespace reservation placeholder for `miter-analysis`; superseded by the first real release.
+2026-11-06T07:16:57.145114Z,esp-onewire-rmt,0.1.0,0,0,https://gitlab.com/ask-technics/esp-onewire-rmt,async onewire driver for esp32 boards built on top of esp-hal
+2026-11-06T07:18:02.511134Z,unbill-device,0.0.10,0,0,https://github.com/unbill-project/unbill,Device-side service for unbill — implements the AsymChannel contract over a local store.
+2026-11-06T07:18:46.639384Z,authgebra-client,0.1.0,0,0,https://github.com/iwen-conf/authgebra-sdks,Official Rust client for the Authgebra /api/v1 HTTP API (thin wrapper; no authorization logic)
+2026-11-06T07:19:38.31108Z,tomori-server,0.2.0,0,0,https://github.com/ioquatix/tomori,"The Tomori server: spaces, agent sessions and live audio over one duplex connection per client"
