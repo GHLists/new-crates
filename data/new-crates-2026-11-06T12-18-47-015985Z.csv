@@ -1,0 +1,32 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-06T11:24:22.985677Z,freightscan,2026.11.0,0,0,https://github.com/oryon-dominik/interstellar-freightscan,"Counts every line of a repository by language, role and kind"
+2026-11-06T11:25:37.960797Z,primase-forzatech,0.1.0,0,0,https://github.com/kalmarv/primase,"Forza Horizon 6 (ForzaTech): a track's placements, models, materials and textures in an x/z box"
+2026-11-06T11:27:29.627597Z,gecode-iris-conformance,0.1.0,0,0,https://github.com/Gecode/iris,Language-neutral conformance runner for Iris implementations
+2026-11-06T11:27:30.871672Z,gecode-iris-syntax,0.1.0,0,0,https://github.com/Gecode/iris,Lossless parsing and formatting for the Iris reader language
+2026-11-06T11:27:32.922447Z,gecode-iris-sema,0.1.0,0,0,https://github.com/Gecode/iris,Semantic analysis and diagnostics for the Iris reader language
+2026-11-06T11:27:35.112246Z,gecode-iris-core,0.1.0,0,0,https://github.com/Gecode/iris,"Input reading, evaluation and column data for the Iris language"
+2026-11-06T11:27:36.080098Z,gecode-iris-gen,0.1.0,0,0,https://github.com/Gecode/iris,Generate spec builder programs from Iris reader specs
+2026-11-06T11:30:09.593117Z,flower-protocol,0.0.20261105,0,0,https://github.com/ipsomachina/flower,"Versioned Flower wire contracts, ordering tokens and value codecs"
+2026-11-06T11:30:10.157672Z,flower-sql,0.0.20261105,0,0,https://github.com/ipsomachina/flower,Bounded read-only SQL planning and evaluation for Flower
+2026-11-06T11:30:12.084472Z,flower-engine,0.0.20261105,0,0,https://github.com/ipsomachina/flower,"Single-node engine core for Flower: storage, execution and local evaluation"
+2026-11-06T11:30:14.348618Z,flower-client,0.0.20261105,0,0,https://github.com/ipsomachina/flower,"Flower native client: typed calls, retry, sync-down replicas and offline intents"
+2026-11-06T11:30:15.31672Z,flower-cluster,0.0.20261105,0,0,https://github.com/ipsomachina/flower,"Flower replication layer: Raft ordering, sync serving and intent intake over the engine core"
+2026-11-06T11:31:33.978884Z,postvak-ui,0.15.0,0,0,https://github.com/postvak-app/postvak,"Postvak's window markup, compiled from Slint into Rust"
+2026-11-06T11:35:31.194388Z,gecode-iris-macros,0.1.0,0,0,https://github.com/Gecode/iris,Compile-time checking for the gecode-iris iris! macro
+2026-11-06T11:35:40.186475Z,primase-fromsoft,0.1.0,0,0,https://github.com/kalmarv/primase,Strict FromSoftware archive and binder readers
+2026-11-06T11:44:48.067364Z,skey,0.1.0,0,0,https://github.com/gwangjinkim/skey,Tiny OS-keyring env vault with enhanced protection for LLM agents
+2026-11-06T11:45:35.059191Z,gecode-iris-build,0.1.0,0,0,https://github.com/Gecode/iris,Build Iris reader specs in Rust with typed handles
+2026-11-06T11:45:37.868925Z,primase-gltf,0.1.0,0,0,https://github.com/kalmarv/primase,Our own glTF 2.0 / GLB writer from the world
+2026-11-06T11:48:09.32742Z,widgine,0.1.0,0,0,https://github.com/rom5n/widgine,"Native desktop widgets for Windows 11: two text files, GPU-rendered, idle at 0% CPU"
+2026-11-06T11:50:36.19713Z,regrex-formulas,0.1.0,0,0,https://github.com/dabupr/regrex,"Library of well-known formulas and constants, by domain, for Regrex"
+2026-11-06T11:50:41.272091Z,regrex-core,0.1.0,0,0,https://github.com/dabupr/regrex,Symbolic regression engine of Regrex: find the formulas behind tabular data
+2026-11-06T11:50:51.919463Z,regrex-io,0.1.0,0,0,https://github.com/dabupr/regrex,Read CSV files and spreadsheets into Regrex tables
+2026-11-06T11:51:29.126842Z,regrex-cli,0.1.0,0,0,https://github.com/dabupr/regrex,Command-line interface for Regrex: find the formulas behind your data
+2026-11-06T11:55:32.78619Z,gecode-iris,0.1.0,0,0,https://github.com/Gecode/iris,Read text instance files with the Iris language
+2026-11-06T11:55:38.263082Z,primase-gta,0.1.0,0,0,https://github.com/kalmarv/primase,GTA V read from an install into the world
+2026-11-06T12:02:16.610174Z,ofx-kit,0.3.0,0,0,https://github.com/etienne-monier/ofx-kit,A Rust library for parsing Open Financial Exchange (OFX) documents
+2026-11-06T12:02:18.525521Z,ofx-kit-cli,0.3.0,0,0,https://github.com/etienne-monier/ofx-kit,Command-line tools for Open Financial Exchange (OFX) files
+2026-11-06T12:05:32.331186Z,gecode-iris-lsp,0.1.0,0,0,https://github.com/Gecode/iris,Language server for Iris reader specs
+2026-11-06T12:05:36.633797Z,primase-lighting,0.1.0,0,0,https://github.com/kalmarv/primase,"Lighting approximations: ambient light as a grid of fill lights, kept off surfaces"
+2026-11-06T12:15:35.894483Z,gecode-iris-cli,0.1.0,0,0,https://github.com/Gecode/iris,Command-line tools for reading instance files with Iris
+2026-11-06T12:15:37.59165Z,primase-stuntboost,0.1.0,0,0,https://github.com/kalmarv/primase,"STUNTBOOST over the MonoGame reader: a level's parts, nodes (the exporter's name grammar), baked atlases and its lowerings"
