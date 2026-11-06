@@ -1,0 +1,63 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-06T14:21:28.540273Z,skif-rules,0.0.0,0,0,https://github.com/Goldziher/skif,"Name reservation for skif, a dependency linter for JavaScript and TypeScript monorepos. Real releases start at 0.1.0."
+2026-11-06T14:22:42.73711Z,ymp,0.0.1,0,0,https://github.com/masakiyuizzz/ymp,终端音乐播放器：读标签与内嵌封面，用 Kitty 图形协议画真图 · TUI music player for the terminal
+2026-11-06T14:24:10.892532Z,n5i-crds,0.13.1,0,0,https://gitlab.com/n5i/backend,Open-source server management
+2026-11-06T14:24:30.954582Z,re-cordis-create,0.1.0-alpha.1,0,0,https://github.com/antruongnguyen/re-cordis,Offline Cargo application scaffolding for re-cordis
+2026-11-06T14:24:49.771778Z,vix-im-panel,2.0.0,0,0,https://github.com/vixide/vix,"The IM dock panel's state: selected conversation, message list, input line and Enter-to-open code references, over vix-im; drawing-free."
+2026-11-06T14:25:16.802902Z,lease-machines,0.2.0,0,0,,Deterministic single-authority lease transitions and resource fencing decisions
+2026-11-06T14:27:58.819011Z,mln-rs-polylabel,0.0.7,0,0,https://github.com/louwers/maplibre-native-next,"Part of mln-rs, a Rust port of the MapLibre Native map rendering core. Depend on mln-rs instead."
+2026-11-06T14:31:36.620309Z,skif-js,0.0.0,0,0,https://github.com/Goldziher/skif,"Name reservation for skif, a dependency linter for JavaScript and TypeScript monorepos. Real releases start at 0.1.0."
+2026-11-06T14:33:42.798775Z,ninot-common,2026.45.2,0,0,https://github.com/feliupol/ninot-common,"Common utilities for building Ninots: small in-memory fake reproductions of services, for use in tests"
+2026-11-06T14:35:36.869652Z,deluge-block-device-adapters,0.3.0,0,0,https://github.com/FirestormAudio/deluge-sdk,"Block device adapters for byte-level access and partitions: a fork of MabezDev's block-device-adapters with upstream fixes applied, maintained for the Deluge SDK."
+2026-11-06T14:35:39.465328Z,deluge-panel-protocol,0.1.0,0,0,https://github.com/FirestormAudio/deluge-sdk,"Deluge host↔device front-panel wire protocol: message types, length-prefixed framing, and a no_std codec. Shared by the controller firmware (device), the host simulator (panel), and the C firmware's…"
+2026-11-06T14:35:39.909764Z,clean_software,0.1.0,0,0,,Windows 已安装应用卸载注册表残留清理工具
+2026-11-06T14:35:50.291627Z,deluge-simulator,0.1.0,0,0,https://github.com/FirestormAudio/deluge-sdk,"Desktop front-panel simulator for the Synthstrom Deluge: renders the OLED, pads and LEDs, plays audio and bridges MIDI, for Deluge SDK apps (cargo deluge sim) or a firmware core over the deluge-panel…"
+2026-11-06T14:35:51.017495Z,placement-machines,0.2.0,0,0,,Allocation-free deterministic hash placement and replica candidates
+2026-11-06T14:35:52.717258Z,libdeluge-sys,0.1.0,0,0,https://github.com/FirestormAudio/deluge-sdk,"Raw FFI bindings to libdeluge, the Deluge Linux userland's hardware library. Links libdeluge found through pkg-config or under DELUGE_SDK_ROOT."
+2026-11-06T14:35:54.740448Z,libdeluge,0.1.0,0,0,https://github.com/FirestormAudio/deluge-sdk,Safe Rust interface to the Deluge's Linux userland hardware through libdeluge.
+2026-11-06T14:38:09.578578Z,vix-jupyter,2.0.0,0,0,https://github.com/vixide/vix,"Jupyter kernel transport: kernelspec discovery, kernel launch with a private connection file, and a signed ZeroMQ client on a worker thread."
+2026-11-06T14:38:11.711348Z,mln-rs-protozero,0.0.7,0,0,https://github.com/louwers/maplibre-native-next,"Part of mln-rs, a Rust port of the MapLibre Native map rendering core. Depend on mln-rs instead."
+2026-11-06T14:38:45.483108Z,arm-dsp,0.1.0,0,0,https://github.com/FirestormAudio/deluge-sdk,"Safe wrappers for the 32-bit Arm DSP instructions (SMMUL, QADD, SSAT, VCVT) for fixed-point arithmetic on Cortex-A, -R and -M, with portable fallbacks."
+2026-11-06T14:41:47.743713Z,plana-i18n,0.2.0,0,0,,"Language enum, BCP 47 detection, and compile-time embedded i18n locale resources for the PLANA protocol family."
+2026-11-06T14:41:48.295351Z,skif,0.0.0,0,0,https://github.com/Goldziher/skif,"Name reservation for skif, a dependency linter for JavaScript and TypeScript monorepos. Real releases start at 0.1.0."
+2026-11-06T14:41:52.979527Z,plana-content-loader,0.2.0,0,0,,Markdown front-matter helpers plus the build-time bundled governance documents for the PLANA protocol family.
+2026-11-06T14:41:55.536565Z,plana-provider-catalog,0.2.0,0,0,,Compile-time embedded provider entrypoint and model catalog data for the PLANA protocol family.
+2026-11-06T14:46:25.346185Z,arbiter-machines,0.2.0,0,0,,"Bounded ownership, priority inheritance, ceilings, and wait-cycle detection"
+2026-11-06T14:46:54.158912Z,swiftide-agents-contrib,0.34.0,0,0,https://github.com/bosun-ai/swiftide,"Contributed tools, context hooks, and executors for Swiftide agents"
+2026-11-06T14:48:25.840406Z,mln-rs-rapidjson,0.0.7,0,0,https://github.com/louwers/maplibre-native-next,"Part of mln-rs, a Rust port of the MapLibre Native map rendering core. Depend on mln-rs instead."
+2026-11-06T14:48:46.388977Z,deluge-fixedpoint,0.1.0,0,0,https://github.com/FirestormAudio/deluge-sdk,"Type-safe const-generic fixed-point arithmetic (Q31, Q16, …) that saturates, using the Arm DSP instructions where the target has them."
+2026-11-06T14:49:09.227553Z,vix-large-file,2.0.0,0,0,https://github.com/vixide/vix,"The Large File Viewer: a read-only, chunked view of multi-gigabyte files with a lazy line index."
+2026-11-06T14:49:55.658538Z,skif-cli,0.0.0,0,0,https://github.com/Goldziher/skif,"Name reservation for skif, a dependency linter for JavaScript and TypeScript monorepos. Real releases start at 0.1.0."
+2026-11-06T14:54:13.476881Z,plana-custom-agent,0.2.0,0,0,,Custom agent sessions brought up from manifests and container images
+2026-11-06T14:54:25.850323Z,verkodo-syntax,0.1.0,0,0,https://github.com/verkodo/verkodo,"Lexer, parser, syntax tree and formatter of the verkodo language"
+2026-11-06T14:54:29.928079Z,verkodo-core,0.1.0,0,0,https://github.com/verkodo/verkodo,"The domain of verkodo without I/O: knowledge graph, checks, versions, translations, exact evaluation of norms"
+2026-11-06T14:54:34.796394Z,verkodo-store,0.1.0,0,0,https://github.com/verkodo/verkodo,Where the data of verkodo lives
+2026-11-06T14:54:38.204869Z,verkodo-lean,0.1.0,0,0,https://github.com/verkodo/verkodo,"Export of verkodo knowledge to Lean 4, and Lean's verdict, names and goals back on the source"
+2026-11-06T14:54:41.816935Z,hassh64,2.0.0,0,0,https://github.com/zsigisti/hassh64,"hassh64: a fast, seeded, non-cryptographic 64-bit hash (AES-NI / ARMv8 AES / portable, bit-identical everywhere). AI-generated by Anthropic's Claude; not human-reviewed."
+2026-11-06T14:54:41.873928Z,verkodo-render,0.1.0,0,0,https://github.com/verkodo/verkodo,"Pages of verkodo knowledge: HTML with nested hover, Typst for PDF, Markdown for editors"
+2026-11-06T14:55:12.896215Z,plana-timeline,0.2.0,0,0,,Timeline projection and replay over the family state-sync wire
+2026-11-06T14:56:32.28841Z,lidwake,0.1.0,0,0,,"Wake a sleeping computer with a magic packet (Wake-on-LAN / Wake-on-WLAN), with saved device names"
+2026-11-06T14:56:58.001125Z,cache-machines,0.2.0,0,0,,Bounded LRU policy with caller-measured frequency admission
+2026-11-06T14:58:37.200728Z,mln-rs-geojson,0.0.7,0,0,https://github.com/louwers/maplibre-native-next,"Part of mln-rs, a Rust port of the MapLibre Native map rendering core. Depend on mln-rs instead."
+2026-11-06T14:58:46.209602Z,deluge-sdk-macros,0.1.0,0,0,https://github.com/FirestormAudio/deluge-sdk,Procedural macros for the Deluge SDK (#[deluge::app]).
+2026-11-06T14:59:15.117865Z,branchline,0.1.0,0,0,https://github.com/insd47/branchline,Runtime for clients generated by branchline-build: a resource chain that follows the OpenAPI path tree
+2026-11-06T14:59:16.305619Z,branchline-build,0.1.0,0,0,https://github.com/insd47/branchline,"Generates a typed resource-chain client from an OpenAPI 3.1 document, in build.rs"
+2026-11-06T14:59:28.806965Z,mc-bamboo,0.0.0,0,0,https://github.com/WJZ-P/Bamboo,A Minecraft server written from scratch in Rust.
+2026-11-06T14:59:58.701007Z,actordb-placement,0.11.2,0,0,https://github.com/slawlor/actordb,Portable workload sizing and regional placement planning for ActorDB
+2026-11-06T15:01:44.408007Z,verkodo-app,0.1.0,0,0,https://github.com/verkodo/verkodo,"The workspace of verkodo: every command and query, the one layer the interfaces use"
+2026-11-06T15:02:03.948634Z,plana-dev-server,0.2.0,0,0,,Embedded development web-ui server for local plana workspaces
+2026-11-06T15:02:25.205377Z,uniform,0.0.1,0,0,https://seed.pipapo.org/nodes/seed.pipapo.org/rad:z36Sbr646SC9RBpfCNKn51BWeF3dh,Transparent shared and exclusive access through nesting of pointers and locks
+2026-11-06T15:03:25.610105Z,nightporter,0.1.0,0,0,https://github.com/night-porter/nightporter,Handles your PRs while you're away: an agentic night shift for GitHub and GitLab.
+2026-11-06T15:07:10.897446Z,eventbus-grpc,0.38.0,0,0,https://github.com/browser-grpc/grpc-over-datachannels,"Event bus over gRPC — generated grpcdc.events.v1 publish/subscribe clients over WebRTC DataChannels, via the grpc-dc runtime (Rust)."
+2026-11-06T15:07:12.198202Z,kkamji-ssh-connector,0.4.0,0,0,https://github.com/KKamJi98/ssh-connector,Pick a host from your ~/.ssh/config in a table and connect to it with ssh
+2026-11-06T15:07:31.819741Z,snapshot-machines,0.2.0,0,0,,Bounded full/incremental checkpoint manifest lifecycle
+2026-11-06T15:08:46.207263Z,max5136,0.1.0,0,0,https://github.com/FirestormAudio/deluge-sdk,Platform-agnostic embedded-hal driver for the Maxim MAX5136 dual 16-bit SPI DAC.
+2026-11-06T15:08:50.510614Z,mln-rs-conversion,0.0.7,0,0,https://github.com/louwers/maplibre-native-next,"Part of mln-rs, a Rust port of the MapLibre Native map rendering core. Depend on mln-rs instead."
+2026-11-06T15:11:21.062643Z,avilex_macros,0.0.1,0,0,https://github.com/ArjitSinghLodhi/avilex_macros,A helper macros crate for avilex
+2026-11-06T15:11:36.22801Z,verkodo-api,0.1.0,0,0,https://github.com/verkodo/verkodo,"The open API of verkodo: HTTP and JSON, described in OpenAPI, and the web editor"
+2026-11-06T15:11:36.849469Z,prjump,0.3.1,0,0,https://github.com/KKamJi98/prjump,Open GitHub/Bitbucket Cloud pull request pages from the CLI
+2026-11-06T15:11:53.600404Z,avilex,0.0.1,0,0,https://github.com/ArjitSinghLodhi/avilex,A concurrent ECS application framework
+2026-11-06T15:14:01.245818Z,plana-sibling,0.2.0,0,0,,"Declarative sibling-service HTTP client with ordered failover, layered timeouts, credential injection and no-proxy-by-default for celestia-island services"
+2026-11-06T15:18:05.024202Z,kkamji-wtree,2.0.0,0,0,https://github.com/KKamJi98/wtree,"A CLI tool to manage git worktree repositories - fetch, pull, and check status across all worktrees"
+2026-11-06T15:18:06.02987Z,window-machines,0.2.0,0,0,,"Bounded event-time windows, watermarks, and session merging"
+2026-11-06T15:18:45.841014Z,deluge-usb-classes,0.1.0,0,0,https://github.com/FirestormAudio/deluge-sdk,"Board-agnostic embassy-usb device classes (UAC2, USB-MIDI, MSC + Bulk-Only Transport) and embassy-usb-host class drivers (USB-MIDI, UAC)."
