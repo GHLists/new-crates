@@ -8,61 +8,48 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-06 17:18 UTC
+## Latest list — 2026-11-06 18:18 UTC
 
-New crates published between 2026-11-06 16:19 UTC and 2026-11-06 17:18 UTC.
+New crates published between 2026-11-06 17:18 UTC and 2026-11-06 18:18 UTC.
 
-[Full CSV](data/new-crates-2026-11-06T17-18-44-197389Z.csv)
+[Full CSV](data/new-crates-2026-11-06T18-18-43-714092Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-06 16:20:25 | [mln-rs-storage](https://crates.io/crates/mln-rs-storage) | 0.0.7 | 0 | Part of mln-rs, a Rust port of the MapLibre Native map rendering core. Depend o… |
-| 2026-11-06 16:20:41 | [moelle](https://crates.io/crates/moelle) | 0.1.0 | 0 | A tiny RNG abstraction crate |
-| 2026-11-06 16:21:18 | [tollgate](https://crates.io/crates/tollgate) | 0.1.0 | 0 | Gates the git ref updates of Claude Code sessions on checks run against the exa… |
-| 2026-11-06 16:22:00 | [saga-machines](https://crates.io/crates/saga-machines) | 0.2.2 | 0 | Sequential saga actions, reverse compensation, and stale-reply protection |
-| 2026-11-06 16:22:29 | [baton-touch](https://crates.io/crates/baton-touch) | 0.2.3 | 0 | Coordinate AI coding agents running on several machines through git: a shared a… |
-| 2026-11-06 16:22:48 | [escouade-voice](https://crates.io/crates/escouade-voice) | 0.1.0 | 0 | Escouade's voice services on line (OpenAI, Groq, Mistral, ElevenLabs, Deepgram)… |
-| 2026-11-06 16:26:31 | [tau-lang-core](https://crates.io/crates/tau-lang-core) | 0.1.0 | 0 | Core compiler for the Tau programming language. |
-| 2026-11-06 16:26:34 | [tau-generator-c](https://crates.io/crates/tau-generator-c) | 0.1.0 | 0 | A c generator for the Tau compiler. |
-| 2026-11-06 16:26:34 | [tau-generator-qbe](https://crates.io/crates/tau-generator-qbe) | 0.1.0 | 0 | A QBE intermediate language generator for the Tau compiler. |
-| 2026-11-06 16:26:37 | [tau-lang-cli](https://crates.io/crates/tau-lang-cli) | 0.1.0 | 0 | Command line interface for the Tau compiler. |
-| 2026-11-06 16:28:04 | [rustdesk-console-sdk](https://crates.io/crates/rustdesk-console-sdk) | 0.1.0 | 0 | Typed asynchronous Rust SDK for the RustDesk Console management API |
-| 2026-11-06 16:29:27 | [rndr_ui](https://crates.io/crates/rndr_ui) | 0.4.0 | 0 | GPU-free semantic components, collections and data editors for rndr |
-| 2026-11-06 16:29:33 | [rndr_app](https://crates.io/crates/rndr_app) | 0.4.0 | 0 | Starter helpers for a desktop rndr application: form navigation, spacing, and d… |
-| 2026-11-06 16:30:36 | [mln-rs-style-types](https://crates.io/crates/mln-rs-style-types) | 0.0.7 | 0 | Part of mln-rs, a Rust port of the MapLibre Native map rendering core. Depend o… |
-| 2026-11-06 16:32:37 | [gossip-machines](https://crates.io/crates/gossip-machines) | 0.2.2 | 0 | Bounded epidemic peer fanout and acknowledgement decisions |
-| 2026-11-06 16:35:49 | [quantis-qrng](https://crates.io/crates/quantis-qrng) | 0.1.0-alpha.1 | 0 | Unofficial pure-Rust driver for ID Quantique Quantis quantum random number gene… |
-| 2026-11-06 16:36:28 | [ymv](https://crates.io/crates/ymv) | 0.0.1 | 0 | 终端视频播放器：ffmpeg 解码，音频时钟驱动画面 · terminal video player with ffmpeg and kitty graphi… |
-| 2026-11-06 16:40:48 | [mln-rs-sprite](https://crates.io/crates/mln-rs-sprite) | 0.0.7 | 0 | Part of mln-rs, a Rust port of the MapLibre Native map rendering core. Depend o… |
-| 2026-11-06 16:48:52 | [branxas](https://crates.io/crates/branxas) | 0.1.0 | 0 | Async mTLS client for the Branxas secrets server |
-| 2026-11-06 16:49:41 | [dspk-app-core](https://crates.io/crates/dspk-app-core) | 0.0.6 | 0 | DSP App core: the workbench for any multichannel signal (open, view, process, w… |
-| 2026-11-06 16:51:01 | [mln-rs-text](https://crates.io/crates/mln-rs-text) | 0.0.7 | 0 | Part of mln-rs, a Rust port of the MapLibre Native map rendering core. Depend o… |
-| 2026-11-06 16:52:36 | [dspk-app-synapse](https://crates.io/crates/dspk-app-synapse) | 0.0.6 | 0 | DSP App plugin for electrophysiology: SpikeGLX / NWB with probe geometry, shank… |
-| 2026-11-06 16:54:41 | [ketrs](https://crates.io/crates/ketrs) | 0.1.1 | 0 | Quantum computer simulator: statevectors, density matrices, MPS and Vulkan GPU,… |
-| 2026-11-06 16:55:40 | [dspk-app](https://crates.io/crates/dspk-app) | 0.0.6 | 0 | DSP App: the workbench (dspk-app-core) with its plugins: electrophysiology (dsp… |
-| 2026-11-06 16:56:00 | [ferrohealth-perf](https://crates.io/crates/ferrohealth-perf) | 0.0.0 | 0 | The FerroHEALTH performance gate: idle CPU and database transactions, load late… |
-| 2026-11-06 16:56:15 | [docmatch](https://crates.io/crates/docmatch) | 0.1.0 | 0 | Cliente oficial assíncrono da API docmatch |
-| 2026-11-06 17:00:22 | [chet](https://crates.io/crates/chet) | 0.0.3 | 0 | A lightweight coding agent |
-| 2026-11-06 17:00:23 | [muster-domain](https://crates.io/crates/muster-domain) | 0.12.0 | 0 | Internal crate of muster-workspace: the domain model: processes, stacks, settin… |
-| 2026-11-06 17:00:30 | [muster-application](https://crates.io/crates/muster-application) | 0.12.0 | 0 | Internal crate of muster-workspace: use cases over the domain's ports: stack ed… |
-| 2026-11-06 17:00:39 | [muster-os](https://crates.io/crates/muster-os) | 0.12.0 | 0 | Internal crate of muster-workspace: unix helpers: private state and socket dire… |
-| 2026-11-06 17:00:57 | [muster-terminal](https://crates.io/crates/muster-terminal) | 0.12.0 | 0 | Internal crate of muster-workspace: VT emulator, keyboard protocol tracker and… |
-| 2026-11-06 17:01:12 | [mln-rs-tile-id](https://crates.io/crates/mln-rs-tile-id) | 0.0.7 | 0 | Part of mln-rs, a Rust port of the MapLibre Native map rendering core. Depend o… |
-| 2026-11-06 17:01:16 | [muster-store](https://crates.io/crates/muster-store) | 0.12.0 | 0 | Internal crate of muster-workspace: the SQLite store: projects, stacks, setting… |
-| 2026-11-06 17:01:50 | [iris-ultra](https://crates.io/crates/iris-ultra) | 0.0.1 | 0 | Intake, Routing, Insight, Status: the messenger, the eye and the rainbow for ev… |
-| 2026-11-06 17:04:06 | [muster-herdr](https://crates.io/crates/muster-herdr) | 0.12.0 | 0 | Internal crate of muster-workspace: opens processes in herdr panes. No stable A… |
-| 2026-11-06 17:09:42 | [rhema-transcript](https://crates.io/crates/rhema-transcript) | 0.2.0 | 0 | The bounded view over an unbounded session: the request view, the slot algebra,… |
-| 2026-11-06 17:10:21 | [opt-bbwt](https://crates.io/crates/opt-bbwt) | 0.1.0 | 0 | Burrows-Wheeler, bijective BWT, Lyndon, and optimal-BBWT algorithms |
-| 2026-11-06 17:11:25 | [mln-rs-gfx](https://crates.io/crates/mln-rs-gfx) | 0.0.7 | 0 | Part of mln-rs, a Rust port of the MapLibre Native map rendering core. Depend o… |
-| 2026-11-06 17:12:38 | [rigswig-core](https://crates.io/crates/rigswig-core) | 0.1.0 | 0 | The harness-neutral data model and the per-harness adapters behind rigswig. No… |
-| 2026-11-06 17:12:40 | [rigswig](https://crates.io/crates/rigswig) | 0.1.0 | 0 | See everything your coding agent loads before you type, and where each piece ca… |
-| 2026-11-06 17:12:54 | [muster-protocol](https://crates.io/crates/muster-protocol) | 0.12.0 | 0 | Internal crate of muster-workspace: what its service, holders and clients excha… |
-| 2026-11-06 17:17:48 | [boxwren](https://crates.io/crates/boxwren) | 0.2.2 | 0 | Local-first WebAssembly sandbox for untrusted agent code. Deny-by-default limit… |
-| 2026-11-06 17:18:08 | [capcheck](https://crates.io/crates/capcheck) | 0.1.0 | 0 | Checks a FHIR server's CapabilityStatement against what the server really does |
-| 2026-11-06 17:18:16 | [fishstringer-kernels-source](https://crates.io/crates/fishstringer-kernels-source) | 0.0.0 | 0 | Placeholder: fishstringer-kernels-source, part of FishStringer, the home of Sla… |
-| 2026-11-06 17:18:21 | [verkodo-sdk](https://crates.io/crates/verkodo-sdk) | 0.2.0 | 0 | The SDK of verkodo: every command and query on verkodo knowledge – what the com… |
-| 2026-11-06 17:18:32 | [verkodo-web](https://crates.io/crates/verkodo-web) | 0.2.0 | 0 | The web editor of verkodo, built in: served with a Content-Security-Policy, a n… |
-| 2026-11-06 17:18:40 | [verkodo](https://crates.io/crates/verkodo) | 0.2.0 | 0 | Truth code – mathematics and law written formally, checked by machine: the verk… |
+| 2026-11-06 17:18:48 | [fishstringer-slang-emit](https://crates.io/crates/fishstringer-slang-emit) | 0.0.0 | 0 | Placeholder: fishstringer-slang-emit, part of FishStringer, the home of Slang i… |
+| 2026-11-06 17:19:29 | [fishstringer-slang-parse](https://crates.io/crates/fishstringer-slang-parse) | 0.0.0 | 0 | Placeholder: fishstringer-slang-parse, part of FishStringer, the home of Slang… |
+| 2026-11-06 17:21:37 | [mln-rs-map-types](https://crates.io/crates/mln-rs-map-types) | 0.0.7 | 0 | Part of mln-rs, a Rust port of the MapLibre Native map rendering core. Depend o… |
+| 2026-11-06 17:23:24 | [muster-holder](https://crates.io/crates/muster-holder) | 0.12.0 | 0 | Internal crate of muster-workspace: the holder process that owns one child's PT… |
+| 2026-11-06 17:31:48 | [mln-rs-vector-tile](https://crates.io/crates/mln-rs-vector-tile) | 0.0.7 | 0 | Part of mln-rs, a Rust port of the MapLibre Native map rendering core. Depend o… |
+| 2026-11-06 17:34:07 | [muster-service](https://crates.io/crates/muster-service) | 0.12.0 | 0 | Internal crate of muster-workspace: the per-user service that supervises every… |
+| 2026-11-06 17:41:57 | [mln-rs-wagyu](https://crates.io/crates/mln-rs-wagyu) | 0.0.7 | 0 | Part of mln-rs, a Rust port of the MapLibre Native map rendering core. Depend o… |
+| 2026-11-06 17:42:34 | [muster-client](https://crates.io/crates/muster-client) | 0.12.0 | 0 | Internal crate of muster-workspace: the service client and the process use case… |
+| 2026-11-06 17:52:08 | [mln-rs-tile](https://crates.io/crates/mln-rs-tile) | 0.0.7 | 0 | Part of mln-rs, a Rust port of the MapLibre Native map rendering core. Depend o… |
+| 2026-11-06 17:54:59 | [object-rainbow-range-index](https://crates.io/crates/object-rainbow-range-index) | 0.0.0-a.0 | 0 | range-filtered key-ordered queries |
+| 2026-11-06 17:55:41 | [pastebin-ai](https://crates.io/crates/pastebin-ai) | 0.1.2 | 0 | A pretty CLI for pastebin.ai ✨ |
+| 2026-11-06 17:55:43 | [coneko-term](https://crates.io/crates/coneko-term) | 0.1.2 | 0 | Terminal building blocks: VT parser and screen model. Independent of the browse… |
+| 2026-11-06 17:57:10 | [touchgrass](https://crates.io/crates/touchgrass) | 0.1.0 | 0 | Track active time in your dev tools |
+| 2026-11-06 17:57:34 | [loadmaster-hw](https://crates.io/crates/loadmaster-hw) | 0.3.0 | 0 | loadmaster: GPU and host memory detection (NVML, Apple unified memory, /proc/me… |
+| 2026-11-06 17:57:35 | [loadmaster-model](https://crates.io/crates/loadmaster-model) | 0.3.0 | 0 | loadmaster: GGUF and safetensors metadata parsers, chat-template extraction, qu… |
+| 2026-11-06 17:57:37 | [loadmaster-plan](https://crates.io/crates/loadmaster-plan) | 0.3.0 | 0 | loadmaster: Footprint arithmetic, KV budget, layer-split search and runtime fla… |
+| 2026-11-06 17:57:37 | [loadmaster-store](https://crates.io/crates/loadmaster-store) | 0.3.0 | 0 | loadmaster: Read-only scanners for HF hub cache, Ollama, LM Studio and loose mo… |
+| 2026-11-06 17:57:39 | [loadmaster-lock](https://crates.io/crates/loadmaster-lock) | 0.3.0 | 0 | loadmaster: models.lock schema, validation, diff and migration |
+| 2026-11-06 17:58:01 | [aktujo-extract-det](https://crates.io/crates/aktujo-extract-det) | 1.0.0 | 0 | The model with which aktujo finds where text stands on a page: PP-OCRv3 text de… |
+| 2026-11-06 17:58:07 | [aktujo-extract-latin](https://crates.io/crates/aktujo-extract-latin) | 1.0.0 | 0 | The model with which aktujo reads Latin script: PP-OCRv5 Latin text recognition… |
+| 2026-11-06 18:02:17 | [infinitier_plt_resource](https://crates.io/crates/infinitier_plt_resource) | 0.1.0 | 0 | Reader for the PLT paperdoll image format used in Infinity Engine games |
+| 2026-11-06 18:02:19 | [mln-rs-expression](https://crates.io/crates/mln-rs-expression) | 0.0.7 | 0 | Part of mln-rs, a Rust port of the MapLibre Native map rendering core. Depend o… |
+| 2026-11-06 18:07:37 | [odem-rs-ns3-src](https://crates.io/crates/odem-rs-ns3-src) | 349.0.0+3.49 | 0 | The sources of ns-3 that odem-rs-ns3 builds when no ns-3 is installed |
+| 2026-11-06 18:07:40 | [odem-rs-ns3-sys](https://crates.io/crates/odem-rs-ns3-sys) | 0.1.0 | 0 | Raw bindings to the ns-3 network simulator for odem-rs |
+| 2026-11-06 18:07:42 | [odem-rs-ns3](https://crates.io/crates/odem-rs-ns3) | 0.1.0 | 0 | ns-3 networks inside odem-rs simulations |
+| 2026-11-06 18:09:06 | [loadmaster-probe](https://crates.io/crates/loadmaster-probe) | 0.3.0 | 0 | loadmaster: Tool-call and structured-output conformance probe, eval runner |
+| 2026-11-06 18:12:31 | [mln-rs-style](https://crates.io/crates/mln-rs-style) | 0.0.7 | 0 | Part of mln-rs, a Rust port of the MapLibre Native map rendering core. Depend o… |
+| 2026-11-06 18:13:42 | [ondevice](https://crates.io/crates/ondevice) | 0.0.0 | 0 | Pinned, verified first-use downloads of on-device model files |
+| 2026-11-06 18:13:44 | [ondevice-coreml](https://crates.io/crates/ondevice-coreml) | 0.0.0 | 0 | Bucketed Core ML inference over one compiled multifunction model |
+| 2026-11-06 18:13:46 | [mustc](https://crates.io/crates/mustc) | 0.1.0 | 0 | A compiler for the Must programming language. |
+| 2026-11-06 18:14:17 | [jv-cli](https://crates.io/crates/jv-cli) | 0.0.0 | 0 | Java toolchain and project manager for Windows (placeholder, in development) |
+| 2026-11-06 18:14:21 | [jvx](https://crates.io/crates/jvx) | 0.0.0 | 0 | Run Java tools without installing them (placeholder, in development) |
+| 2026-11-06 18:17:48 | [cross-llama](https://crates.io/crates/cross-llama) | 0.1.0 | 0 | Runs a GGUF language model from Rust behind one async API: llama.cpp on targets… |
+| 2026-11-06 18:18:37 | [loadmaster-serve](https://crates.io/crates/loadmaster-serve) | 0.3.0 | 0 | loadmaster: Supervisor: process manager, footprint-based eviction, OpenAI-compa… |
 
 ## Data source
 
