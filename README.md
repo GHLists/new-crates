@@ -8,32 +8,35 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-06 20:18 UTC
+## Latest list — 2026-11-06 21:19 UTC
 
-New crates published between 2026-11-06 19:21 UTC and 2026-11-06 20:18 UTC.
+New crates published between 2026-11-06 20:18 UTC and 2026-11-06 21:19 UTC.
 
-[Full CSV](data/new-crates-2026-11-06T20-18-43-820377Z.csv)
+[Full CSV](data/new-crates-2026-11-06T21-19-31-022018Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-06 19:21:48 | [soupdb-driver](https://crates.io/crates/soupdb-driver) | 0.2.0 | 0 | Driver Rust para SoupDB (gestor de base de datos multimodal) |
-| 2026-11-06 19:23:48 | [mln-rs](https://crates.io/crates/mln-rs) | 0.0.8 | 0 | A Rust port of the MapLibre Native map rendering core |
-| 2026-11-06 19:24:21 | [lemmajet](https://crates.io/crates/lemmajet) | 0.0.1 | 0 | Ultra-fast, zero-dependency precompiled stemmers and morphological lemmatizers. |
-| 2026-11-06 19:24:48 | [hexga_event_loop](https://crates.io/crates/hexga_event_loop) | 0.0.12-beta.1 | 0 | winit crate wrapper to handle the event loop |
-| 2026-11-06 19:27:34 | [qsl-macros-impl](https://crates.io/crates/qsl-macros-impl) | 0.1.0 | 0 | Procedural attributes re-exported by the qsl binary schema crate. |
-| 2026-11-06 19:30:30 | [qsl](https://crates.io/crates/qsl) | 0.1.1 | 0 | Schema-driven binary serialization and Rust code generation for explicit data l… |
-| 2026-11-06 19:33:22 | [droidtape](https://crates.io/crates/droidtape) | 0.0.1 | 0 | Record, replay, and regression-test AI agents that operate Android devices (pre… |
-| 2026-11-06 19:33:32 | [playdoobs](https://crates.io/crates/playdoobs) | 0.2.0 | 0 | Service and matching CLI application for controlling the currently active MPRIS… |
-| 2026-11-06 19:40:36 | [ml-dsa-lean](https://crates.io/crates/ml-dsa-lean) | 0.1.0 | 0 | Formally verified ML-DSA (FIPS 204) in Rust: proved in Lean to never panic and… |
-| 2026-11-06 19:41:31 | [axiolid-exact-arrangement](https://crates.io/crates/axiolid-exact-arrangement) | 0.1.0 | 0 | Exact arrangement of straight segments on rational points, with face tracing |
-| 2026-11-06 19:42:48 | [mln-rs-geometry](https://crates.io/crates/mln-rs-geometry) | 0.0.8 | 0 | Part of mln-rs, a Rust port of the MapLibre Native map rendering core. Depend o… |
-| 2026-11-06 19:42:54 | [mln-rs-feature](https://crates.io/crates/mln-rs-feature) | 0.0.8 | 0 | Part of mln-rs, a Rust port of the MapLibre Native map rendering core. Depend o… |
-| 2026-11-06 19:51:23 | [lacan_shim](https://crates.io/crates/lacan_shim) | 5.0.0 | 0 | Rust helpers for Lacan Scan (walk, regex, escapes). Called from Crisp via exter… |
-| 2026-11-06 19:51:32 | [lacan-scan](https://crates.io/crates/lacan-scan) | 5.0.0 | 0 | Static AI-safety scanner for Git repositories (CLI: lacan) |
-| 2026-11-06 19:59:15 | [bevy_composable_dragging](https://crates.io/crates/bevy_composable_dragging) | 0.1.0 | 0 | Declarative, composable dragging for Bevy, ported from Dragology |
-| 2026-11-06 20:07:14 | [twinleaf-proto](https://crates.io/crates/twinleaf-proto) | 0.1.0 | 0 | Shared no_std wire types for the Twinleaf I/O protocol |
-| 2026-11-06 20:07:29 | [twinleaf-device](https://crates.io/crates/twinleaf-device) | 0.1.0 | 0 | Device-side behavior for the Twinleaf I/O protocol, without an executor |
-| 2026-11-06 20:08:19 | [toshokan](https://crates.io/crates/toshokan) | 0.1.0 | 0 | Keep tags and edit history beside the files they describe, in a folder that syn… |
+| 2026-11-06 20:22:44 | [senkai-core](https://crates.io/crates/senkai-core) | 0.1.0 | 0 | Core domain logic for senkai |
+| 2026-11-06 20:23:18 | [senkai-infrastructure](https://crates.io/crates/senkai-infrastructure) | 0.1.0 | 0 | Infrastructure adapters for senkai |
+| 2026-11-06 20:23:38 | [senkai-presentation](https://crates.io/crates/senkai-presentation) | 0.1.0 | 0 | Presentation layer (CLI + TUI) for senkai |
+| 2026-11-06 20:24:02 | [senkai](https://crates.io/crates/senkai) | 0.1.0 | 0 | A tmux plugin for creating, switching between, and cleaning up Git worktrees |
+| 2026-11-06 20:25:25 | [forthling-window](https://crates.io/crates/forthling-window) | 0.2.3 | 0 | Window words for forthling, a Forth interpreter in Rust |
+| 2026-11-06 20:29:44 | [ortho](https://crates.io/crates/ortho) | 0.2.0 | 0 | Orthographic projection for architecture: renders the six architectural views a… |
+| 2026-11-06 20:39:46 | [open-logistics](https://crates.io/crates/open-logistics) | 0.2.2 | 0 | Rust client for the Open Logistics Shiprocket and Delhivery APIs. |
+| 2026-11-06 20:42:54 | [yang-runtime](https://crates.io/crates/yang-runtime) | 0.1.0 | 0 | YANG 服务进程运行时：配置源合成、多阶段关闭预算、日志/指标/链路与 readiness |
+| 2026-11-06 20:43:08 | [yang-feishu](https://crates.io/crates/yang-feishu) | 0.2.0 | 0 | 飞书开放平台协议客户端：传输、令牌、多维表格、审批、事件、外部选项 |
+| 2026-11-06 20:49:33 | [whylag](https://crates.io/crates/whylag) | 0.1.0 | 0 | Live wifi and internet checks in your terminal |
+| 2026-11-06 20:50:09 | [myparcel-rs](https://crates.io/crates/myparcel-rs) | 0.1.0 | 0 | Unofficial async client for the MyParcel API |
+| 2026-11-06 21:00:40 | [notebooklm](https://crates.io/crates/notebooklm) | 4.6.0 | 0 | Async Rust client for the local Gemini Notebook (NotebookLM) REST API: citation… |
+| 2026-11-06 21:02:31 | [problem-details-fine-macros](https://crates.io/crates/problem-details-fine-macros) | 0.1.0 | 0 | Procedural macros for problem-details-fine |
+| 2026-11-06 21:02:40 | [problem-details-fine](https://crates.io/crates/problem-details-fine) | 0.1.0 | 0 | RFC 9457 problem details for HTTP API handlers: define problem types once, and… |
+| 2026-11-06 21:03:05 | [stage-mod-macros](https://crates.io/crates/stage-mod-macros) | 0.0.0 | 0 | Reserved for Stage's mod SDK. |
+| 2026-11-06 21:03:08 | [stage-mod](https://crates.io/crates/stage-mod) | 0.0.0 | 0 | Reserved for Stage's mod SDK. |
+| 2026-11-06 21:05:16 | [big-bad-bool-program](https://crates.io/crates/big-bad-bool-program) | 0.1.0 | 0 | Programs over Big Bad Bool packed words: typed dimensions, declarative contract… |
+| 2026-11-06 21:06:22 | [pipedash-plugin-coolify](https://crates.io/crates/pipedash-plugin-coolify) | 0.10.0 | 0 | Coolify plugin for Pipedash |
+| 2026-11-06 21:06:23 | [pipedash-plugin-woodpecker](https://crates.io/crates/pipedash-plugin-woodpecker) | 0.10.0 | 0 | Woodpecker CI plugin for Pipedash |
+| 2026-11-06 21:10:13 | [pipedash-plugin-circleci](https://crates.io/crates/pipedash-plugin-circleci) | 0.11.0 | 0 | CircleCI plugin for Pipedash |
+| 2026-11-06 21:11:19 | [xfetch-command-api](https://crates.io/crates/xfetch-command-api) | 0.3.1 | 0 | Shared command protocol types and IO helpers for xfetch |
 
 ## Data source
 

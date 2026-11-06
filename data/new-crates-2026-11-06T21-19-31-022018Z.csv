@@ -1,0 +1,22 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-06T20:22:44.598158Z,senkai-core,0.1.0,0,0,,Core domain logic for senkai
+2026-11-06T20:23:18.534865Z,senkai-infrastructure,0.1.0,0,0,,Infrastructure adapters for senkai
+2026-11-06T20:23:38.291279Z,senkai-presentation,0.1.0,0,0,,Presentation layer (CLI + TUI) for senkai
+2026-11-06T20:24:02.552973Z,senkai,0.1.0,0,0,https://codeberg.org/gbrennon/senkai,"A tmux plugin for creating, switching between, and cleaning up Git worktrees"
+2026-11-06T20:25:25.216365Z,forthling-window,0.2.3,0,0,https://github.com/DeSchaker/forthling,"Window words for forthling, a Forth interpreter in Rust"
+2026-11-06T20:29:44.134683Z,ortho,0.2.0,0,0,https://github.com/ola-coding/ortho,Orthographic projection for architecture: renders the six architectural views as SVG from SysML v2 model files
+2026-11-06T20:39:46.754507Z,open-logistics,0.2.2,0,0,https://github.com/kush34/open-logistics,Rust client for the Open Logistics Shiprocket and Delhivery APIs.
+2026-11-06T20:42:54.094171Z,yang-runtime,0.1.0,0,0,https://github.com/ImYangJiaJun/lib_yang,YANG 服务进程运行时：配置源合成、多阶段关闭预算、日志/指标/链路与 readiness
+2026-11-06T20:43:08.236887Z,yang-feishu,0.2.0,0,0,https://github.com/ImYangJiaJun/lib_yang,飞书开放平台协议客户端：传输、令牌、多维表格、审批、事件、外部选项
+2026-11-06T20:49:33.366631Z,whylag,0.1.0,0,0,https://github.com/ado11231/whylag,Live wifi and internet checks in your terminal
+2026-11-06T20:50:09.877719Z,myparcel-rs,0.1.0,0,0,https://github.com/robmeijerink/myparcel-rs,Unofficial async client for the MyParcel API
+2026-11-06T21:00:40.392787Z,notebooklm,4.6.0,0,0,https://github.com/roomi-fields/notebooklm-mcp,"Async Rust client for the local Gemini Notebook (NotebookLM) REST API: citation-backed answers, passage search, and the UTCP manual."
+2026-11-06T21:02:31.696996Z,problem-details-fine-macros,0.1.0,0,0,,Procedural macros for problem-details-fine
+2026-11-06T21:02:40.20411Z,problem-details-fine,0.1.0,0,0,,"RFC 9457 problem details for HTTP API handlers: define problem types once, and combine them into problem sets. Openapi schemas and responses with the `utoipa` feature. Problem types for common HTTP A…"
+2026-11-06T21:03:05.071793Z,stage-mod-macros,0.0.0,0,0,,Reserved for Stage's mod SDK.
+2026-11-06T21:03:08.256913Z,stage-mod,0.0.0,0,0,,Reserved for Stage's mod SDK.
+2026-11-06T21:05:16.465678Z,big-bad-bool-program,0.1.0,0,0,https://github.com/jameshuntt/big-bad-bool-program,"Programs over Big Bad Bool packed words: typed dimensions, declarative contracts across them, bounded verification, and deterministic stepping with one write path."
+2026-11-06T21:06:22.926393Z,pipedash-plugin-coolify,0.10.0,0,0,https://github.com/hcavarsan/pipedash,Coolify plugin for Pipedash
+2026-11-06T21:06:23.780103Z,pipedash-plugin-woodpecker,0.10.0,0,0,https://github.com/hcavarsan/pipedash,Woodpecker CI plugin for Pipedash
+2026-11-06T21:10:13.679957Z,pipedash-plugin-circleci,0.11.0,0,0,https://github.com/hcavarsan/pipedash,CircleCI plugin for Pipedash
+2026-11-06T21:11:19.3292Z,xfetch-command-api,0.3.1,0,0,https://github.com/xfetch-cli/api,Shared command protocol types and IO helpers for xfetch
