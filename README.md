@@ -8,48 +8,42 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-06 18:18 UTC
+## Latest list — 2026-11-06 19:21 UTC
 
-New crates published between 2026-11-06 17:18 UTC and 2026-11-06 18:18 UTC.
+New crates published between 2026-11-06 18:18 UTC and 2026-11-06 19:21 UTC.
 
-[Full CSV](data/new-crates-2026-11-06T18-18-43-714092Z.csv)
+[Full CSV](data/new-crates-2026-11-06T19-21-33-3561Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-06 17:18:48 | [fishstringer-slang-emit](https://crates.io/crates/fishstringer-slang-emit) | 0.0.0 | 0 | Placeholder: fishstringer-slang-emit, part of FishStringer, the home of Slang i… |
-| 2026-11-06 17:19:29 | [fishstringer-slang-parse](https://crates.io/crates/fishstringer-slang-parse) | 0.0.0 | 0 | Placeholder: fishstringer-slang-parse, part of FishStringer, the home of Slang… |
-| 2026-11-06 17:21:37 | [mln-rs-map-types](https://crates.io/crates/mln-rs-map-types) | 0.0.7 | 0 | Part of mln-rs, a Rust port of the MapLibre Native map rendering core. Depend o… |
-| 2026-11-06 17:23:24 | [muster-holder](https://crates.io/crates/muster-holder) | 0.12.0 | 0 | Internal crate of muster-workspace: the holder process that owns one child's PT… |
-| 2026-11-06 17:31:48 | [mln-rs-vector-tile](https://crates.io/crates/mln-rs-vector-tile) | 0.0.7 | 0 | Part of mln-rs, a Rust port of the MapLibre Native map rendering core. Depend o… |
-| 2026-11-06 17:34:07 | [muster-service](https://crates.io/crates/muster-service) | 0.12.0 | 0 | Internal crate of muster-workspace: the per-user service that supervises every… |
-| 2026-11-06 17:41:57 | [mln-rs-wagyu](https://crates.io/crates/mln-rs-wagyu) | 0.0.7 | 0 | Part of mln-rs, a Rust port of the MapLibre Native map rendering core. Depend o… |
-| 2026-11-06 17:42:34 | [muster-client](https://crates.io/crates/muster-client) | 0.12.0 | 0 | Internal crate of muster-workspace: the service client and the process use case… |
-| 2026-11-06 17:52:08 | [mln-rs-tile](https://crates.io/crates/mln-rs-tile) | 0.0.7 | 0 | Part of mln-rs, a Rust port of the MapLibre Native map rendering core. Depend o… |
-| 2026-11-06 17:54:59 | [object-rainbow-range-index](https://crates.io/crates/object-rainbow-range-index) | 0.0.0-a.0 | 0 | range-filtered key-ordered queries |
-| 2026-11-06 17:55:41 | [pastebin-ai](https://crates.io/crates/pastebin-ai) | 0.1.2 | 0 | A pretty CLI for pastebin.ai ✨ |
-| 2026-11-06 17:55:43 | [coneko-term](https://crates.io/crates/coneko-term) | 0.1.2 | 0 | Terminal building blocks: VT parser and screen model. Independent of the browse… |
-| 2026-11-06 17:57:10 | [touchgrass](https://crates.io/crates/touchgrass) | 0.1.0 | 0 | Track active time in your dev tools |
-| 2026-11-06 17:57:34 | [loadmaster-hw](https://crates.io/crates/loadmaster-hw) | 0.3.0 | 0 | loadmaster: GPU and host memory detection (NVML, Apple unified memory, /proc/me… |
-| 2026-11-06 17:57:35 | [loadmaster-model](https://crates.io/crates/loadmaster-model) | 0.3.0 | 0 | loadmaster: GGUF and safetensors metadata parsers, chat-template extraction, qu… |
-| 2026-11-06 17:57:37 | [loadmaster-plan](https://crates.io/crates/loadmaster-plan) | 0.3.0 | 0 | loadmaster: Footprint arithmetic, KV budget, layer-split search and runtime fla… |
-| 2026-11-06 17:57:37 | [loadmaster-store](https://crates.io/crates/loadmaster-store) | 0.3.0 | 0 | loadmaster: Read-only scanners for HF hub cache, Ollama, LM Studio and loose mo… |
-| 2026-11-06 17:57:39 | [loadmaster-lock](https://crates.io/crates/loadmaster-lock) | 0.3.0 | 0 | loadmaster: models.lock schema, validation, diff and migration |
-| 2026-11-06 17:58:01 | [aktujo-extract-det](https://crates.io/crates/aktujo-extract-det) | 1.0.0 | 0 | The model with which aktujo finds where text stands on a page: PP-OCRv3 text de… |
-| 2026-11-06 17:58:07 | [aktujo-extract-latin](https://crates.io/crates/aktujo-extract-latin) | 1.0.0 | 0 | The model with which aktujo reads Latin script: PP-OCRv5 Latin text recognition… |
-| 2026-11-06 18:02:17 | [infinitier_plt_resource](https://crates.io/crates/infinitier_plt_resource) | 0.1.0 | 0 | Reader for the PLT paperdoll image format used in Infinity Engine games |
-| 2026-11-06 18:02:19 | [mln-rs-expression](https://crates.io/crates/mln-rs-expression) | 0.0.7 | 0 | Part of mln-rs, a Rust port of the MapLibre Native map rendering core. Depend o… |
-| 2026-11-06 18:07:37 | [odem-rs-ns3-src](https://crates.io/crates/odem-rs-ns3-src) | 349.0.0+3.49 | 0 | The sources of ns-3 that odem-rs-ns3 builds when no ns-3 is installed |
-| 2026-11-06 18:07:40 | [odem-rs-ns3-sys](https://crates.io/crates/odem-rs-ns3-sys) | 0.1.0 | 0 | Raw bindings to the ns-3 network simulator for odem-rs |
-| 2026-11-06 18:07:42 | [odem-rs-ns3](https://crates.io/crates/odem-rs-ns3) | 0.1.0 | 0 | ns-3 networks inside odem-rs simulations |
-| 2026-11-06 18:09:06 | [loadmaster-probe](https://crates.io/crates/loadmaster-probe) | 0.3.0 | 0 | loadmaster: Tool-call and structured-output conformance probe, eval runner |
-| 2026-11-06 18:12:31 | [mln-rs-style](https://crates.io/crates/mln-rs-style) | 0.0.7 | 0 | Part of mln-rs, a Rust port of the MapLibre Native map rendering core. Depend o… |
-| 2026-11-06 18:13:42 | [ondevice](https://crates.io/crates/ondevice) | 0.0.0 | 0 | Pinned, verified first-use downloads of on-device model files |
-| 2026-11-06 18:13:44 | [ondevice-coreml](https://crates.io/crates/ondevice-coreml) | 0.0.0 | 0 | Bucketed Core ML inference over one compiled multifunction model |
-| 2026-11-06 18:13:46 | [mustc](https://crates.io/crates/mustc) | 0.1.0 | 0 | A compiler for the Must programming language. |
-| 2026-11-06 18:14:17 | [jv-cli](https://crates.io/crates/jv-cli) | 0.0.0 | 0 | Java toolchain and project manager for Windows (placeholder, in development) |
-| 2026-11-06 18:14:21 | [jvx](https://crates.io/crates/jvx) | 0.0.0 | 0 | Run Java tools without installing them (placeholder, in development) |
-| 2026-11-06 18:17:48 | [cross-llama](https://crates.io/crates/cross-llama) | 0.1.0 | 0 | Runs a GGUF language model from Rust behind one async API: llama.cpp on targets… |
-| 2026-11-06 18:18:37 | [loadmaster-serve](https://crates.io/crates/loadmaster-serve) | 0.3.0 | 0 | loadmaster: Supervisor: process manager, footprint-based eviction, OpenAI-compa… |
+| 2026-11-06 18:20:42 | [adotenv-lint](https://crates.io/crates/adotenv-lint) | 0.1.0 | 0 | Opt-in lint rules and verified fixes for adotenv documents. |
+| 2026-11-06 18:22:42 | [mln-rs-renderer](https://crates.io/crates/mln-rs-renderer) | 0.0.7 | 0 | Part of mln-rs, a Rust port of the MapLibre Native map rendering core. Depend o… |
+| 2026-11-06 18:23:19 | [aktujo-locales](https://crates.io/crates/aktujo-locales) | 0.3.1 | 0 | The texts of aktujo's web app and terminal interface, one JSON file per language |
+| 2026-11-06 18:28:23 | [loadmaster](https://crates.io/crates/loadmaster) | 0.3.0 | 0 | Weight, balance and preflight for local LLMs: will it fit, how to launch it, do… |
+| 2026-11-06 18:32:53 | [mln-rs-map](https://crates.io/crates/mln-rs-map) | 0.0.7 | 0 | Part of mln-rs, a Rust port of the MapLibre Native map rendering core. Depend o… |
+| 2026-11-06 18:35:00 | [teamy-facet-dom](https://crates.io/crates/teamy-facet-dom) | 0.50.0-rc.7 | 0 | TeamDman-maintained fork of facet-dom: tree-based serialization and deserializa… |
+| 2026-11-06 18:35:39 | [teamy-facet-xml](https://crates.io/crates/teamy-facet-xml) | 0.50.0-rc.8 | 0 | TeamDman-maintained fork of facet-xml: XML serialization and bounded namespace-… |
+| 2026-11-06 18:35:46 | [teamy-facet-xml-node](https://crates.io/crates/teamy-facet-xml-node) | 0.50.0-rc.8 | 0 | TeamDman-maintained fork of facet-xml-node: raw XML nodes and a bounded namespa… |
+| 2026-11-06 18:41:52 | [manatan-flashcards-sdk](https://crates.io/crates/manatan-flashcards-sdk) | 0.1.0 | 0 | Public SDK for building Manatan Flashcards extensions as WebAssembly components. |
+| 2026-11-06 18:42:32 | [edgefirst-tflite-delegate](https://crates.io/crates/edgefirst-tflite-delegate) | 0.11.0 | 0 | EdgeFirst TFLite delegate: runs CPU-fallback operators with edgefirst-kernels |
+| 2026-11-06 18:43:04 | [mln-rs-storage-offline](https://crates.io/crates/mln-rs-storage-offline) | 0.0.7 | 0 | Part of mln-rs, a Rust port of the MapLibre Native map rendering core. Depend o… |
+| 2026-11-06 18:46:27 | [kallotype-spectral](https://crates.io/crates/kallotype-spectral) | 0.1.0 | 0 | Spectra, sensors and RGB-to-spectrum reconstruction |
+| 2026-11-06 18:47:50 | [kallotype-core](https://crates.io/crates/kallotype-core) | 0.1.0 | 0 | Reference film model: characteristic curves and development kinetics |
+| 2026-11-06 18:48:03 | [kallotype-io](https://crates.io/crates/kallotype-io) | 0.1.0 | 0 | Image loading and saving for Kallotype |
+| 2026-11-06 18:48:14 | [kallotype-cli](https://crates.io/crates/kallotype-cli) | 0.1.0 | 0 | The `kalo` command line interface |
+| 2026-11-06 18:53:15 | [mln-rs-wgpu-webgpu-h](https://crates.io/crates/mln-rs-wgpu-webgpu-h) | 0.0.7 | 0 | Part of mln-rs, a Rust port of the MapLibre Native map rendering core. Depend o… |
+| 2026-11-06 18:54:53 | [aktujo-tui](https://crates.io/crates/aktujo-tui) | 0.3.1 | 0 | The terminal interface of aktujo |
+| 2026-11-06 18:55:00 | [aktujo-web](https://crates.io/crates/aktujo-web) | 0.3.1 | 0 | The web app of aktujo, built in: served around the API with a policy that loads… |
+| 2026-11-06 18:55:21 | [aktujo-api](https://crates.io/crates/aktujo-api) | 0.3.1 | 0 | The open API of aktujo: HTTP and JSON, described in OpenAPI, for this device on… |
+| 2026-11-06 18:56:01 | [aktujo](https://crates.io/crates/aktujo) | 0.3.1 | 0 | Your documents, kept safe – end to end |
+| 2026-11-06 18:56:10 | [ts_actor](https://crates.io/crates/ts_actor) | 0.0.0-alpha0 | 0 | placeholder |
+| 2026-11-06 18:56:13 | [knock-verify](https://crates.io/crates/knock-verify) | 0.1.0 | 0 | A site's check of a knock (V1–V8): ENS for the name, World Chain for the human,… |
+| 2026-11-06 18:56:16 | [knock-verifier](https://crates.io/crates/knock-verifier) | 0.1.0 | 0 | A site's Knock verifier: /challenge and /verify (V1–V8, knock-verify), reading… |
+| 2026-11-06 18:58:04 | [ts_util](https://crates.io/crates/ts_util) | 0.0.0-alpha0 | 0 | placeholder |
+| 2026-11-06 19:03:27 | [mln-rs-webgpu](https://crates.io/crates/mln-rs-webgpu) | 0.0.7 | 0 | Part of mln-rs, a Rust port of the MapLibre Native map rendering core. Depend o… |
+| 2026-11-06 19:13:38 | [mln-rs-platform-default](https://crates.io/crates/mln-rs-platform-default) | 0.0.7 | 0 | Part of mln-rs, a Rust port of the MapLibre Native map rendering core. Depend o… |
+| 2026-11-06 19:14:26 | [nui-yalij](https://crates.io/crates/nui-yalij) | 0.2.0 | 0 | Shared terminal sessions driven by KDL state and layered decoration |
+| 2026-11-06 19:18:18 | [hexga_event](https://crates.io/crates/hexga_event) | 0.0.12-beta.1 | 0 | Define some basic traits for handling event |
 
 ## Data source
 

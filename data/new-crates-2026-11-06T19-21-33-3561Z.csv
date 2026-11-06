@@ -1,0 +1,29 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-06T18:20:42.296067Z,adotenv-lint,0.1.0,0,0,https://github.com/asamarts/adotenv,Opt-in lint rules and verified fixes for adotenv documents.
+2026-11-06T18:22:42.541548Z,mln-rs-renderer,0.0.7,0,0,https://github.com/louwers/maplibre-native-next,"Part of mln-rs, a Rust port of the MapLibre Native map rendering core. Depend on mln-rs instead."
+2026-11-06T18:23:19.617674Z,aktujo-locales,0.3.1,0,0,https://github.com/aktujo/aktujo,"The texts of aktujo's web app and terminal interface, one JSON file per language"
+2026-11-06T18:28:23.102822Z,loadmaster,0.3.0,0,0,https://github.com/bercaakbayir/loadmaster,"Weight, balance and preflight for local LLMs: will it fit, how to launch it, does it actually emit tool calls"
+2026-11-06T18:32:53.04687Z,mln-rs-map,0.0.7,0,0,https://github.com/louwers/maplibre-native-next,"Part of mln-rs, a Rust port of the MapLibre Native map rendering core. Depend on mln-rs instead."
+2026-11-06T18:35:00.070602Z,teamy-facet-dom,0.50.0-rc.7,0,0,https://github.com/TeamDman/facet-format,TeamDman-maintained fork of facet-dom: tree-based serialization and deserialization for HTML and XML
+2026-11-06T18:35:39.864895Z,teamy-facet-xml,0.50.0-rc.8,0,0,https://github.com/TeamDman/facet-format,TeamDman-maintained fork of facet-xml: XML serialization and bounded namespace-aware parsing
+2026-11-06T18:35:46.838229Z,teamy-facet-xml-node,0.50.0-rc.8,0,0,https://github.com/TeamDman/facet-format,TeamDman-maintained fork of facet-xml-node: raw XML nodes and a bounded namespace-aware read model
+2026-11-06T18:41:52.376288Z,manatan-flashcards-sdk,0.1.0,0,0,https://github.com/KolbyML/Manatan-Flashcards,Public SDK for building Manatan Flashcards extensions as WebAssembly components.
+2026-11-06T18:42:32.403893Z,edgefirst-tflite-delegate,0.11.0,0,0,https://github.com/EdgeFirstAI/tflite-rs,EdgeFirst TFLite delegate: runs CPU-fallback operators with edgefirst-kernels
+2026-11-06T18:43:04.07458Z,mln-rs-storage-offline,0.0.7,0,0,https://github.com/louwers/maplibre-native-next,"Part of mln-rs, a Rust port of the MapLibre Native map rendering core. Depend on mln-rs instead."
+2026-11-06T18:46:27.954121Z,kallotype-spectral,0.1.0,0,0,https://github.com/tsukiyo20/kallotype,"Spectra, sensors and RGB-to-spectrum reconstruction"
+2026-11-06T18:47:50.401495Z,kallotype-core,0.1.0,0,0,https://github.com/tsukiyo20/kallotype,Reference film model: characteristic curves and development kinetics
+2026-11-06T18:48:03.413222Z,kallotype-io,0.1.0,0,0,https://github.com/tsukiyo20/kallotype,Image loading and saving for Kallotype
+2026-11-06T18:48:14.735501Z,kallotype-cli,0.1.0,0,0,https://github.com/tsukiyo20/kallotype,The `kalo` command line interface
+2026-11-06T18:53:15.282056Z,mln-rs-wgpu-webgpu-h,0.0.7,0,0,https://github.com/louwers/maplibre-native-next,"Part of mln-rs, a Rust port of the MapLibre Native map rendering core. Depend on mln-rs instead."
+2026-11-06T18:54:53.525831Z,aktujo-tui,0.3.1,0,0,https://github.com/aktujo/aktujo,The terminal interface of aktujo
+2026-11-06T18:55:00.169793Z,aktujo-web,0.3.1,0,0,https://github.com/aktujo/aktujo,"The web app of aktujo, built in: served around the API with a policy that loads nothing from elsewhere"
+2026-11-06T18:55:21.7907Z,aktujo-api,0.3.1,0,0,https://github.com/aktujo/aktujo,"The open API of aktujo: HTTP and JSON, described in OpenAPI, for this device only"
+2026-11-06T18:56:01.493864Z,aktujo,0.3.1,0,0,https://github.com/aktujo/aktujo,"Your documents, kept safe – end to end"
+2026-11-06T18:56:10.292819Z,ts_actor,0.0.0-alpha0,0,0,,placeholder
+2026-11-06T18:56:13.683626Z,knock-verify,0.1.0,0,0,https://github.com/getknock/knock,"A site's check of a knock (V1–V8): ENS for the name, World Chain for the human, the Wedgie's signature for the press, SQLite for what's been used"
+2026-11-06T18:56:16.22974Z,knock-verifier,0.1.0,0,0,https://github.com/getknock/knock,"A site's Knock verifier: /challenge and /verify (V1–V8, knock-verify), reading mainnet ENS and World Chain"
+2026-11-06T18:58:04.560586Z,ts_util,0.0.0-alpha0,0,0,,placeholder
+2026-11-06T19:03:27.435828Z,mln-rs-webgpu,0.0.7,0,0,https://github.com/louwers/maplibre-native-next,"Part of mln-rs, a Rust port of the MapLibre Native map rendering core. Depend on mln-rs instead."
+2026-11-06T19:13:38.7465Z,mln-rs-platform-default,0.0.7,0,0,https://github.com/louwers/maplibre-native-next,"Part of mln-rs, a Rust port of the MapLibre Native map rendering core. Depend on mln-rs instead."
+2026-11-06T19:14:26.451247Z,nui-yalij,0.2.0,0,0,https://github.com/kindkitchen/nui-yalij,Shared terminal sessions driven by KDL state and layered decoration
+2026-11-06T19:18:18.067441Z,hexga_event,0.0.12-beta.1,0,0,https://github.com/Thomas-Mewily/hexga,Define some basic traits for handling event
