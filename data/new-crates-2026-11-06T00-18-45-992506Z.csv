@@ -1,0 +1,41 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-05T23:21:56.771877Z,pidge-engine,2.0.0,0,0,https://github.com/mklab-se/pidge,"pidge's engine: every mail and calendar operation, once, for the CLI and both MCP servers"
+2026-11-05T23:24:33.628662Z,axa-seaorm,0.1.0,0,0,https://github.com/publicprojects-io/axa/,"SeaORM connections, migration helpers, and model errors for Axum services, with an easy path from Loco."
+2026-11-05T23:26:42.366122Z,cinq,0.1.0,0,0,https://github.com/yzhou216/cinq,Minimal cue-based show controller in the spirit of QLab
+2026-11-05T23:28:31.769179Z,syntaqlite-capi,0.14.0,0,0,https://github.com/LalitMaganti/syntaqlite,C API for syntaqlite (libsyntaqlite)
+2026-11-05T23:29:35.876009Z,achq-derive,0.1.0,0,0,https://github.com/lendsimple/achq-rs,"Derive macros for the achq crate (validation, redacted Debug and form encoding)."
+2026-11-05T23:29:37.798197Z,achq,0.1.0,0,0,https://github.com/lendsimple/achq-rs,"A typed client for the ACHQ (SpeedChex) bank payments API, for native and WebAssembly targets."
+2026-11-05T23:30:13.15087Z,corvus-event-schema,0.1.0,0,0,https://github.com/MasLazu/corvus-v2,Corvus OCSF event schema and protobuf wire types
+2026-11-05T23:30:37.926724Z,corvus-agent-sdk-contract,0.1.0,0,0,https://github.com/MasLazu/corvus-v2,Transport-neutral Corvus agent SDK contracts
+2026-11-05T23:31:04.478475Z,corvus-agent-sdk-impl-grpc,0.1.0,0,0,https://github.com/MasLazu/corvus-v2,Corvus agent SDK gRPC transport implementation
+2026-11-05T23:31:21.128181Z,corvus-agent-sdk,0.1.1,0,0,https://github.com/MasLazu/corvus-v2,Public Corvus agent SDK facade for OCSF and OTLP submission
+2026-11-05T23:31:46.078543Z,heartburn,0.1.1,0,0,https://github.com/StrangeQuery/cardiaq,"The world's fastest CARDIAC emulator, as a library."
+2026-11-05T23:32:01.290926Z,cardiac,0.1.1,0,0,https://github.com/StrangeQuery/cargo-cardiac,"Rust language package for cargo-cardiac. Install that, not this."
+2026-11-05T23:32:24.776837Z,cardiaq,0.1.1,0,0,https://github.com/StrangeQuery/cardiaq,"The world's fastest CARDIAC emulator, with a debugger and an assembler."
+2026-11-05T23:32:55.547024Z,cargo-cardiac,0.1.1,0,0,https://github.com/StrangeQuery/cargo-cardiac,"Compile Rust to CARDIAC, the 1968 Bell Labs cardboard computer."
+2026-11-05T23:40:32.183035Z,mercury-agent-loop,4.12.30,0,0,https://github.com/Accenture/mercury,"The agent loop of RFC-0011 for Mercury: the llm.run function runs model turns through a language pack's llm.chat route and calls a composable-function route for each tool the model asks for, from a t…"
+2026-11-05T23:41:21.045117Z,tickgate,0.1.2,0,0,https://github.com/Neferax07/tickgate,"Deterministic sub-microsecond anomaly gate for market/RPC tick feeds — O(1) per-symbol state, integer-exact, zero heap allocations"
+2026-11-05T23:41:33.905687Z,tickgate-ffi,0.1.2,0,0,https://github.com/Neferax07/tickgate,"C ABI shim for tickgate — fixed symbol registry, one call per tick, fail-closed on bad input"
+2026-11-05T23:44:18.338406Z,typedpg_lint,0.6.0,0,0,https://github.com/cubos/typedpg,"SQL lint rules for typedpg queries, migrations and schema"
+2026-11-05T23:45:31.388112Z,graphblas-sys,0.1.0,0,0,https://www.gunnar.rs/nordisk/nornir,"Raw FFI bindings to SuiteSparse:GraphBLAS (system libgraphblas, 7.4 API), our own bindgen output. Used by Mimir v2."
+2026-11-05T23:45:33.554939Z,nornir-mimir-graph,0.1.0,0,0,https://www.gunnar.rs/nordisk/nornir,Mimir v2 graph engine: a small safe layer over SuiteSparse:GraphBLAS (via graphblas-sys) — CSR import from Arrow edge batches and the semiring ops the lenses need.
+2026-11-05T23:50:20.976165Z,aureole-animation,0.0.1-beta.1,0,0,https://github.com/ruoyu-lab/aureole,Aureole 的动画曲线与插值：弹簧、补间、关键帧，不依赖界面和渲染
+2026-11-05T23:50:32.287206Z,aureole-platform,0.0.1-beta.1,0,0,https://github.com/ruoyu-lab/aureole,Aureole 的平台层：平台后端接口、帧时钟、系统集成（剪贴板、文件对话框、通知、外观）、单实例、本进程的资源用量
+2026-11-05T23:50:37.573988Z,aureole-reactive,0.0.1-beta.1,0,0,https://github.com/ruoyu-lab/aureole,Aureole 的细粒度响应式：信号、派生值、副作用、作用域
+2026-11-05T23:50:42.062268Z,aureole-scene,0.0.1-beta.1,0,0,https://github.com/ruoyu-lab/aureole,Aureole 的场景数据：图元、显示列表、裁剪、分组、合成层的变换、颜色和图集更新，不依赖 GPU
+2026-11-05T23:51:03.258496Z,aureole-core,0.0.1-beta.1,0,0,https://github.com/ruoyu-lab/aureole,Aureole 的核心：元素树、属性、样式对象、布局、文字和编辑、事件路由、焦点、浮层、无障碍树、绘制、动画，不依赖窗口和 GPU
+2026-11-05T23:55:37.013447Z,kepler,0.0.0,0,0,,"Symbolic regression engine: search, sessions, fitting, and run records"
+2026-11-05T23:57:53.891842Z,kepler-expr,0.0.0,0,0,,"Expression core of kepler: tape IR, evaluation, gradients, parse and print"
+2026-11-05T23:57:58.444633Z,kepler-cli,0.0.0,0,0,,"The kepler command: search, fit, check, explain, and serve the protocol and MCP"
+2026-11-05T23:58:02.923921Z,kepler-macros,0.0.0,0,0,,Derive and expression macros for kepler
+2026-11-06T00:00:10.549626Z,jlens-research,0.1.0,0,0,https://github.com/amirhosseinghanipour/jacobian-lens,Auditable CPU reference algorithms for Jacobian lens research
+2026-11-06T00:00:43.897906Z,aureole-render,0.0.1-beta.1,0,0,https://github.com/ruoyu-lab/aureole,Aureole 的 GPU 渲染器：把场景数据画成像素，SDF 实例化图元，分组特效和离屏渲染
+2026-11-06T00:02:26.814134Z,kepler-gpu,0.0.0,0,0,,CubeCL evaluation backend for kepler
+2026-11-06T00:04:26.934335Z,jacobian-lens,0.1.0,0,0,https://github.com/amirhosseinghanipour/jacobian-lens,"Model-independent Jacobian lens fitting, decoding, and J-space interpretability"
+2026-11-06T00:05:04.164195Z,parano1d-mcp,0.1.4,0,0,https://github.com/noidium/parano1d-mcp,MCP server for a local Parano1d node
+2026-11-06T00:06:19.135649Z,maxicom,0.1.0,0,0,https://github.com/Pierre-Mollard/maxicom,"A fast, modern serial terminal (minicom alternative) built with Rust and Ratatui"
+2026-11-06T00:06:44.866647Z,game-toolkit-dosvideo,0.1.0,0,0,https://github.com/sunsided/game-toolkit-dosvideo,"DOS-era PC graphics and sound for game-toolkit: VGA, Mode X, EGA, CGA, Hercules, Tandy and VESA SVGA at the register level, a beam-accurate CRT, a CRT shader and the PC speaker"
+2026-11-06T00:07:25.72375Z,nornir-mimir-lens,0.1.0,0,0,https://www.gunnar.rs/nordisk/nornir,"Mimir lenses: the graph lenses over a Mimir v2 dump (gate-bypass, size, twins, cycles, verdict, ...), the graph loader and its exact cache, the coverage index and the zombie / risk / bloat folds. Mov…"
+2026-11-06T00:10:46.381803Z,aureole-controls,0.0.1-beta.1,0,0,https://github.com/ruoyu-lab/aureole,Aureole 的基础控件：日期、时间、颜色、文件选择，按钮、复选框、单选组、开关、下拉选择、滑块、进度条、数字输入、标签，只用核心的公开 API 搭成
+2026-11-06T00:12:24.46051Z,kepler-types,0.0.0,0,0,,"Wire types of kepler: events, commands, errors, format versions"
+2026-11-06T00:16:55.300374Z,asinus,0.1.0,0,0,https://github.com/lusingander/asinus,Terminal Color Theme Explorer
