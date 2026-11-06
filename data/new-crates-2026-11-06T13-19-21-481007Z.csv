@@ -1,0 +1,28 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-06T12:25:37.361819Z,primase-trackmania,0.1.0,0,0,https://github.com/kalmarv/primase,"TrackMania Nations Forever over the GameBox reader: a map's blocks placed from the game's own block models (its packs and GameData), their meshes, materials, textures and collision, and their lowerin…"
+2026-11-06T12:28:25.585576Z,mojibake-sys,0.5.1,0,0,https://github.com/zaerl/mojibake,Raw FFI bindings to the Mojibake Unicode library
+2026-11-06T12:33:18.025885Z,orbite,0.1.0-alpha.1,0,0,https://github.com/OrbitInfra/OrbiTE,OrbiTE: a Rust-native transfer engine for AI infrastructure (early development)
+2026-11-06T12:35:37.639092Z,primase-blender,0.1.0,0,0,https://github.com/kalmarv/primase,"Blender (Cycles): a world written as a scene whose materials are live shader node graphs of core's material model, saved as a .blend and rendered in Cycles"
+2026-11-06T12:38:45.381103Z,mojibake-rs,0.5.1,0,0,https://github.com/zaerl/mojibake,Safe Rust API for the Mojibake Unicode library
+2026-11-06T12:42:29.75094Z,pegada,0.1.1,0,0,https://github.com/pleme-io/pegada,"Pegada — the footprint a lifecycle leaves where it stood, and the typed proof that it is gone. Membership recorded at create time and cross-checked by discovery; absence only as present-then-absent f…"
+2026-11-06T12:45:38.902074Z,primase-reskate,0.1.0,0,0,https://github.com/kalmarv/primase,"ReSkate (skate.): the skate.* dialect, its preparation passes, the skate-scene interchange and the Studio normalized map writer"
+2026-11-06T12:47:37.987983Z,sc-cron-commands,0.2.0,0,0,https://github.com/randlee/sc-runtime,Optional versioned cron command DTOs and injectable execution contracts.
+2026-11-06T12:49:08.272467Z,chunkgen,0.2.0,0,0,https://github.com/garfxld/chunkgen,Minecraft world generation library
+2026-11-06T12:53:26.56033Z,einfile-crc,0.1.0,0,0,https://github.com/SyniakSviatoslav/Einfile,"zlib CRC-32 over bytes and 8-byte cells: slicing-by-8 tables everywhere, the CPU's own instructions where it has them (AArch64 crc32x, x86_64 PCLMUL folding). no_std, zero dependencies."
+2026-11-06T12:53:32.755652Z,einfile-image,0.1.0,0,0,https://github.com/SyniakSviatoslav/Einfile,"The einfile pointer-free image format: 8-byte cells, two superblocks, the PartTab, self-describing objects with crc32, pick/verify over owned (Store) or borrowed (View) cells. no_std + alloc, zero de…"
+2026-11-06T12:53:41.890578Z,einfile-kv,0.1.0,0,0,https://github.com/SyniakSviatoslav/Einfile,"The einfile KV layout over an einfile image: v1/v2 compacted roots, the v3 delta chain, the zero-copy reader KvIn, crc-checked load. no_std + alloc; depends only on einfile-image."
+2026-11-06T12:53:45.046558Z,vix-acp,2.0.0,0,0,https://github.com/vixide/vix,An Agent Client Protocol (ACP) client for Vix (T635)
+2026-11-06T12:53:53.117278Z,einfile-log,0.1.0,0,0,https://github.com/SyniakSviatoslav/Einfile,"The einfile chained event log over an einfile image: EvLog v1/v2 records, the crc quarantine policy, ChainMark. no_std + alloc; depends only on einfile-image."
+2026-11-06T12:53:54.584677Z,vix-cowork,2.0.0,0,0,https://github.com/vixide/vix,"Pure real-time collaboration core: a CRDT text document, peers, presence, permissions and the wire messages."
+2026-11-06T12:53:56.277133Z,vix-encoding,2.0.0,0,0,https://github.com/vixide/vix,"Text-file encodings: detect a file's encoding and BOM, decode it to text, and encode it back byte for byte."
+2026-11-06T12:53:59.919938Z,vix-im,2.0.0,0,0,https://github.com/vixide/vix,"The pure core of Vix's IM menu: conversations, messages, presence, mentions, unread tracking, slash commands, code references, the received-text sanitizer, anchored threads and JSONL history."
+2026-11-06T12:54:01.07385Z,vix-jupyter-core,2.0.0,0,0,https://github.com/vixide/vix,"Pure Jupyter kernel protocol core: signed wire codec, typed messages, connection files, kernelspecs, outputs and Org results."
+2026-11-06T12:54:05.111165Z,einfile-io,0.1.0,0,0,https://github.com/SyniakSviatoslav/Einfile,"How einfile images reach a device: the Device trait, the commit plan, the Writer (recovery on open, Poisoned after a failed barrier), FileDevice (unix: pwrite + fdatasync, lock file) and the enumerat…"
+2026-11-06T12:55:38.012739Z,primase-shaunwhite,0.1.0,0,0,https://github.com/kalmarv/primase,Shaun White Skateboarding's PC textures and collision shapes
+2026-11-06T12:58:00.99Z,cumulus-primitives-spec-messaging,0.0.0,0,0,,Reserved by Parity while we work on an official release
+2026-11-06T12:58:05.283291Z,axa-keycloak,0.1.0,0,0,https://github.com/publicprojects-io/axa/,Keycloak bearer authentication and ABAC enforcement for Axum services.
+2026-11-06T13:04:57.689166Z,axa-opentelemetry,0.1.0,0,0,https://github.com/publicprojects-io/axa/,OTLP export of traces and request metrics for Axum services.
+2026-11-06T13:05:38.235841Z,primase-unity,0.1.0,0,0,https://github.com/kalmarv/primase,"Unity players' data files (SerializedFile, type trees, streamed resources) read into the world"
+2026-11-06T13:08:10.287471Z,einstore,0.1.0,0,0,https://github.com/SyniakSviatoslav/Einfile,"An embedded key-value store and signed event log in one file: damage refused by name, commits all-or-nothing, a file that reads with no install."
+2026-11-06T13:11:03.831383Z,bynk-model,0.510.25,0,0,https://github.com/bynk-lang/bynk,"The Bynk system model: the resolved, declaration-level description of a program (protocols, handler kinds, type shapes, store fields, signatures), and its builder from a checked program."
+2026-11-06T13:15:37.874429Z,primase-peak,0.1.0,0,0,https://github.com/kalmarv/primase,PEAK over the Unity reader: what its own scripts hand every shader (its fog texture and light volume)

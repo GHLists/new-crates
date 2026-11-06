@@ -8,45 +8,41 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-06 12:18 UTC
+## Latest list — 2026-11-06 13:19 UTC
 
-New crates published between 2026-11-06 11:19 UTC and 2026-11-06 12:18 UTC.
+New crates published between 2026-11-06 12:18 UTC and 2026-11-06 13:19 UTC.
 
-[Full CSV](data/new-crates-2026-11-06T12-18-47-015985Z.csv)
+[Full CSV](data/new-crates-2026-11-06T13-19-21-481007Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-06 11:24:22 | [freightscan](https://crates.io/crates/freightscan) | 2026.11.0 | 0 | Counts every line of a repository by language, role and kind |
-| 2026-11-06 11:25:37 | [primase-forzatech](https://crates.io/crates/primase-forzatech) | 0.1.0 | 0 | Forza Horizon 6 (ForzaTech): a track's placements, models, materials and textur… |
-| 2026-11-06 11:27:29 | [gecode-iris-conformance](https://crates.io/crates/gecode-iris-conformance) | 0.1.0 | 0 | Language-neutral conformance runner for Iris implementations |
-| 2026-11-06 11:27:30 | [gecode-iris-syntax](https://crates.io/crates/gecode-iris-syntax) | 0.1.0 | 0 | Lossless parsing and formatting for the Iris reader language |
-| 2026-11-06 11:27:32 | [gecode-iris-sema](https://crates.io/crates/gecode-iris-sema) | 0.1.0 | 0 | Semantic analysis and diagnostics for the Iris reader language |
-| 2026-11-06 11:27:35 | [gecode-iris-core](https://crates.io/crates/gecode-iris-core) | 0.1.0 | 0 | Input reading, evaluation and column data for the Iris language |
-| 2026-11-06 11:27:36 | [gecode-iris-gen](https://crates.io/crates/gecode-iris-gen) | 0.1.0 | 0 | Generate spec builder programs from Iris reader specs |
-| 2026-11-06 11:30:09 | [flower-protocol](https://crates.io/crates/flower-protocol) | 0.0.20261105 | 0 | Versioned Flower wire contracts, ordering tokens and value codecs |
-| 2026-11-06 11:30:10 | [flower-sql](https://crates.io/crates/flower-sql) | 0.0.20261105 | 0 | Bounded read-only SQL planning and evaluation for Flower |
-| 2026-11-06 11:30:12 | [flower-engine](https://crates.io/crates/flower-engine) | 0.0.20261105 | 0 | Single-node engine core for Flower: storage, execution and local evaluation |
-| 2026-11-06 11:30:14 | [flower-client](https://crates.io/crates/flower-client) | 0.0.20261105 | 0 | Flower native client: typed calls, retry, sync-down replicas and offline intents |
-| 2026-11-06 11:30:15 | [flower-cluster](https://crates.io/crates/flower-cluster) | 0.0.20261105 | 0 | Flower replication layer: Raft ordering, sync serving and intent intake over th… |
-| 2026-11-06 11:31:33 | [postvak-ui](https://crates.io/crates/postvak-ui) | 0.15.0 | 0 | Postvak's window markup, compiled from Slint into Rust |
-| 2026-11-06 11:35:31 | [gecode-iris-macros](https://crates.io/crates/gecode-iris-macros) | 0.1.0 | 0 | Compile-time checking for the gecode-iris iris! macro |
-| 2026-11-06 11:35:40 | [primase-fromsoft](https://crates.io/crates/primase-fromsoft) | 0.1.0 | 0 | Strict FromSoftware archive and binder readers |
-| 2026-11-06 11:44:48 | [skey](https://crates.io/crates/skey) | 0.1.0 | 0 | Tiny OS-keyring env vault with enhanced protection for LLM agents |
-| 2026-11-06 11:45:35 | [gecode-iris-build](https://crates.io/crates/gecode-iris-build) | 0.1.0 | 0 | Build Iris reader specs in Rust with typed handles |
-| 2026-11-06 11:45:37 | [primase-gltf](https://crates.io/crates/primase-gltf) | 0.1.0 | 0 | Our own glTF 2.0 / GLB writer from the world |
-| 2026-11-06 11:48:09 | [widgine](https://crates.io/crates/widgine) | 0.1.0 | 0 | Native desktop widgets for Windows 11: two text files, GPU-rendered, idle at 0%… |
-| 2026-11-06 11:50:36 | [regrex-formulas](https://crates.io/crates/regrex-formulas) | 0.1.0 | 0 | Library of well-known formulas and constants, by domain, for Regrex |
-| 2026-11-06 11:50:41 | [regrex-core](https://crates.io/crates/regrex-core) | 0.1.0 | 0 | Symbolic regression engine of Regrex: find the formulas behind tabular data |
-| 2026-11-06 11:50:51 | [regrex-io](https://crates.io/crates/regrex-io) | 0.1.0 | 0 | Read CSV files and spreadsheets into Regrex tables |
-| 2026-11-06 11:51:29 | [regrex-cli](https://crates.io/crates/regrex-cli) | 0.1.0 | 0 | Command-line interface for Regrex: find the formulas behind your data |
-| 2026-11-06 11:55:32 | [gecode-iris](https://crates.io/crates/gecode-iris) | 0.1.0 | 0 | Read text instance files with the Iris language |
-| 2026-11-06 11:55:38 | [primase-gta](https://crates.io/crates/primase-gta) | 0.1.0 | 0 | GTA V read from an install into the world |
-| 2026-11-06 12:02:16 | [ofx-kit](https://crates.io/crates/ofx-kit) | 0.3.0 | 0 | A Rust library for parsing Open Financial Exchange (OFX) documents |
-| 2026-11-06 12:02:18 | [ofx-kit-cli](https://crates.io/crates/ofx-kit-cli) | 0.3.0 | 0 | Command-line tools for Open Financial Exchange (OFX) files |
-| 2026-11-06 12:05:32 | [gecode-iris-lsp](https://crates.io/crates/gecode-iris-lsp) | 0.1.0 | 0 | Language server for Iris reader specs |
-| 2026-11-06 12:05:36 | [primase-lighting](https://crates.io/crates/primase-lighting) | 0.1.0 | 0 | Lighting approximations: ambient light as a grid of fill lights, kept off surfa… |
-| 2026-11-06 12:15:35 | [gecode-iris-cli](https://crates.io/crates/gecode-iris-cli) | 0.1.0 | 0 | Command-line tools for reading instance files with Iris |
-| 2026-11-06 12:15:37 | [primase-stuntboost](https://crates.io/crates/primase-stuntboost) | 0.1.0 | 0 | STUNTBOOST over the MonoGame reader: a level's parts, nodes (the exporter's nam… |
+| 2026-11-06 12:25:37 | [primase-trackmania](https://crates.io/crates/primase-trackmania) | 0.1.0 | 0 | TrackMania Nations Forever over the GameBox reader: a map's blocks placed from… |
+| 2026-11-06 12:28:25 | [mojibake-sys](https://crates.io/crates/mojibake-sys) | 0.5.1 | 0 | Raw FFI bindings to the Mojibake Unicode library |
+| 2026-11-06 12:33:18 | [orbite](https://crates.io/crates/orbite) | 0.1.0-alpha.1 | 0 | OrbiTE: a Rust-native transfer engine for AI infrastructure (early development) |
+| 2026-11-06 12:35:37 | [primase-blender](https://crates.io/crates/primase-blender) | 0.1.0 | 0 | Blender (Cycles): a world written as a scene whose materials are live shader no… |
+| 2026-11-06 12:38:45 | [mojibake-rs](https://crates.io/crates/mojibake-rs) | 0.5.1 | 0 | Safe Rust API for the Mojibake Unicode library |
+| 2026-11-06 12:42:29 | [pegada](https://crates.io/crates/pegada) | 0.1.1 | 0 | Pegada — the footprint a lifecycle leaves where it stood, and the typed proof t… |
+| 2026-11-06 12:45:38 | [primase-reskate](https://crates.io/crates/primase-reskate) | 0.1.0 | 0 | ReSkate (skate.): the skate.* dialect, its preparation passes, the skate-scene… |
+| 2026-11-06 12:47:37 | [sc-cron-commands](https://crates.io/crates/sc-cron-commands) | 0.2.0 | 0 | Optional versioned cron command DTOs and injectable execution contracts. |
+| 2026-11-06 12:49:08 | [chunkgen](https://crates.io/crates/chunkgen) | 0.2.0 | 0 | Minecraft world generation library |
+| 2026-11-06 12:53:26 | [einfile-crc](https://crates.io/crates/einfile-crc) | 0.1.0 | 0 | zlib CRC-32 over bytes and 8-byte cells: slicing-by-8 tables everywhere, the CP… |
+| 2026-11-06 12:53:32 | [einfile-image](https://crates.io/crates/einfile-image) | 0.1.0 | 0 | The einfile pointer-free image format: 8-byte cells, two superblocks, the PartT… |
+| 2026-11-06 12:53:41 | [einfile-kv](https://crates.io/crates/einfile-kv) | 0.1.0 | 0 | The einfile KV layout over an einfile image: v1/v2 compacted roots, the v3 delt… |
+| 2026-11-06 12:53:45 | [vix-acp](https://crates.io/crates/vix-acp) | 2.0.0 | 0 | An Agent Client Protocol (ACP) client for Vix (T635) |
+| 2026-11-06 12:53:53 | [einfile-log](https://crates.io/crates/einfile-log) | 0.1.0 | 0 | The einfile chained event log over an einfile image: EvLog v1/v2 records, the c… |
+| 2026-11-06 12:53:54 | [vix-cowork](https://crates.io/crates/vix-cowork) | 2.0.0 | 0 | Pure real-time collaboration core: a CRDT text document, peers, presence, permi… |
+| 2026-11-06 12:53:56 | [vix-encoding](https://crates.io/crates/vix-encoding) | 2.0.0 | 0 | Text-file encodings: detect a file's encoding and BOM, decode it to text, and e… |
+| 2026-11-06 12:53:59 | [vix-im](https://crates.io/crates/vix-im) | 2.0.0 | 0 | The pure core of Vix's IM menu: conversations, messages, presence, mentions, un… |
+| 2026-11-06 12:54:01 | [vix-jupyter-core](https://crates.io/crates/vix-jupyter-core) | 2.0.0 | 0 | Pure Jupyter kernel protocol core: signed wire codec, typed messages, connectio… |
+| 2026-11-06 12:54:05 | [einfile-io](https://crates.io/crates/einfile-io) | 0.1.0 | 0 | How einfile images reach a device: the Device trait, the commit plan, the Write… |
+| 2026-11-06 12:55:38 | [primase-shaunwhite](https://crates.io/crates/primase-shaunwhite) | 0.1.0 | 0 | Shaun White Skateboarding's PC textures and collision shapes |
+| 2026-11-06 12:58:00 | [cumulus-primitives-spec-messaging](https://crates.io/crates/cumulus-primitives-spec-messaging) | 0.0.0 | 0 | Reserved by Parity while we work on an official release |
+| 2026-11-06 12:58:05 | [axa-keycloak](https://crates.io/crates/axa-keycloak) | 0.1.0 | 0 | Keycloak bearer authentication and ABAC enforcement for Axum services. |
+| 2026-11-06 13:04:57 | [axa-opentelemetry](https://crates.io/crates/axa-opentelemetry) | 0.1.0 | 0 | OTLP export of traces and request metrics for Axum services. |
+| 2026-11-06 13:05:38 | [primase-unity](https://crates.io/crates/primase-unity) | 0.1.0 | 0 | Unity players' data files (SerializedFile, type trees, streamed resources) read… |
+| 2026-11-06 13:08:10 | [einstore](https://crates.io/crates/einstore) | 0.1.0 | 0 | An embedded key-value store and signed event log in one file: damage refused by… |
+| 2026-11-06 13:11:03 | [bynk-model](https://crates.io/crates/bynk-model) | 0.510.25 | 0 | The Bynk system model: the resolved, declaration-level description of a program… |
+| 2026-11-06 13:15:37 | [primase-peak](https://crates.io/crates/primase-peak) | 0.1.0 | 0 | PEAK over the Unity reader: what its own scripts hand every shader (its fog tex… |
 
 ## Data source
 
