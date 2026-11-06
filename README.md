@@ -8,36 +8,53 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-06 04:18 UTC
+## Latest list — 2026-11-06 05:20 UTC
 
-New crates published between 2026-11-06 03:18 UTC and 2026-11-06 04:18 UTC.
+New crates published between 2026-11-06 04:18 UTC and 2026-11-06 05:20 UTC.
 
-[Full CSV](data/new-crates-2026-11-06T04-18-53-104421Z.csv)
+[Full CSV](data/new-crates-2026-11-06T05-20-33-376197Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-06 03:19:03 | [griefer-llm](https://crates.io/crates/griefer-llm) | 0.0.0 | 0 | LLM mutant source of griefer, a mutation testing engine in Rust. Placeholder re… |
-| 2026-11-06 03:20:04 | [rapiddoc-inference](https://crates.io/crates/rapiddoc-inference) | 0.1.0 | 0 | ONNX model inference and preprocessing for RapidDoc. |
-| 2026-11-06 03:21:15 | [qspquest-core](https://crates.io/crates/qspquest-core) | 0.1.0 | 0 | Scientific request, event and result types for QSPQuest |
-| 2026-11-06 03:21:17 | [qspquest-modeling](https://crates.io/crates/qspquest-modeling) | 0.1.0 | 0 | Model compiler, simulation and fitting engine for QSPQuest |
-| 2026-11-06 03:21:42 | [rapiddoc-office](https://crates.io/crates/rapiddoc-office) | 0.1.0 | 0 | Microsoft Office document parsing for RapidDoc. |
-| 2026-11-06 03:25:14 | [kessel-audio](https://crates.io/crates/kessel-audio) | 0.1.0 | 0 | A real-time voice audio pipeline in pure Rust: devices, echo cancellation, nois… |
-| 2026-11-06 03:25:23 | [pod-pcap](https://crates.io/crates/pod-pcap) | 0.0.0 | 0 | Packet capture, counters and connection logs without CAP_NET_RAW. Placeholder:… |
-| 2026-11-06 03:27:06 | [winia](https://crates.io/crates/winia) | 0.1.0 | 0 | A declarative UI framework powered by Skia — Compose-inspired, pure Rust |
-| 2026-11-06 03:27:21 | [plexus-transcription](https://crates.io/crates/plexus-transcription) | 0.1.0 | 0 | Live audio to text with local models, as Plexus activations a service registers… |
-| 2026-11-06 03:29:03 | [griefer-eval](https://crates.io/crates/griefer-eval) | 0.0.0 | 0 | Evaluation harness of griefer, a mutation testing engine in Rust. Placeholder r… |
-| 2026-11-06 03:31:26 | [rapiddoc-render](https://crates.io/crates/rapiddoc-render) | 0.1.0 | 0 | Document rendering contracts for RapidDoc. |
-| 2026-11-06 03:36:06 | [pod-sandprobe](https://crates.io/crates/pod-sandprobe) | 0.0.0 | 0 | A security probe that runs inside a payload, and a compare of two reports. Plac… |
-| 2026-11-06 03:38:59 | [llama-cpp-fault-injection](https://crates.io/crates/llama-cpp-fault-injection) | 0.28.0 | 0 | Arms the C++ wrapper fault points so tests can drive the paths llama.cpp only t… |
-| 2026-11-06 03:41:51 | [pod-probe](https://crates.io/crates/pod-probe) | 0.0.0 | 0 | Name held for the PodUtils project. Placeholder: the first release is in progre… |
-| 2026-11-06 03:42:05 | [rapiddoc](https://crates.io/crates/rapiddoc) | 0.1.0 | 0 | Native document parsing for PDF and Microsoft Office. |
-| 2026-11-06 03:51:28 | [rapiddoc-cli](https://crates.io/crates/rapiddoc-cli) | 0.1.0 | 0 | Command line document parser for RapidDoc. |
-| 2026-11-06 03:52:46 | [podvm-probe](https://crates.io/crates/podvm-probe) | 0.0.0 | 0 | The host probe of podvm: tiers, exit codes and the machine profile. Placeholder… |
-| 2026-11-06 03:59:35 | [vietqr-core](https://crates.io/crates/vietqr-core) | 0.1.0 | 0 | Offline VietQR NAPAS 247 payload generation and validation |
-| 2026-11-06 03:59:39 | [vietqr-render](https://crates.io/crates/vietqr-render) | 0.1.0 | 0 | Offline QR SVG rendering for VietQR payloads |
-| 2026-11-06 03:59:44 | [vietqr-wasm](https://crates.io/crates/vietqr-wasm) | 0.1.0 | 0 | JSON string WASM bindings for offline VietQR generation, parsing and SVG render… |
-| 2026-11-06 04:04:08 | [podvm-image](https://crates.io/crates/podvm-image) | 0.0.0 | 0 | The content store of podvm. Placeholder: the first release is in progress. |
-| 2026-11-06 04:15:05 | [podvm-ssh](https://crates.io/crates/podvm-ssh) | 0.0.0 | 0 | The SSH transport of podvm. Placeholder: the first release is in progress. |
+| 2026-11-06 04:21:54 | [linear-rat](https://crates.io/crates/linear-rat) | 0.1.0 | 0 | A fast, keyboard-first terminal client for Linear |
+| 2026-11-06 04:22:04 | [topi-tui](https://crates.io/crates/topi-tui) | 0.1.0 | 0 | Terminal control room & post-quantum private wallet for the Topi mixnet |
+| 2026-11-06 04:25:36 | [podvm-interpose](https://crates.io/crates/podvm-interpose) | 0.0.0 | 0 | The LD_PRELOAD object of podvm. Placeholder: the first release is in progress. |
+| 2026-11-06 04:25:52 | [bonsai-native-hash](https://crates.io/crates/bonsai-native-hash) | 0.1.0 | 0 | Bounded SHA-256 streams with Windows CNG dispatch and portable Rust hashing |
+| 2026-11-06 04:32:55 | [jjui-rs](https://crates.io/crates/jjui-rs) | 0.1.1 | 0 | A live terminal UI for Jujutsu with native repository access |
+| 2026-11-06 04:36:09 | [podvm-machine](https://crates.io/crates/podvm-machine) | 0.0.0 | 0 | The machine tier of podvm. Placeholder: the first release is in progress. |
+| 2026-11-06 04:41:02 | [tunnel-mux](https://crates.io/crates/tunnel-mux) | 0.1.0 | 0 | Transport-independent TMP v1 multiplexing core |
+| 2026-11-06 04:42:06 | [aiquota](https://crates.io/crates/aiquota) | 0.1.0 | 0 | One CLI to watch quota & rate limits across AI coding tools — TUI, JSON, waybar… |
+| 2026-11-06 04:45:01 | [ahi-win32](https://crates.io/crates/ahi-win32) | 0.1.0 | 0 | Win32 clipboard write for ahi. In-repo so ahi can forbid unsafe code. |
+| 2026-11-06 04:46:35 | [podvm-cage](https://crates.io/crates/podvm-cage) | 0.0.0 | 0 | The confinement profiles of podvm. Placeholder: the first release is in progres… |
+| 2026-11-06 04:52:02 | [podvm-notebook](https://crates.io/crates/podvm-notebook) | 0.0.0 | 0 | Notebooks for podvm. Placeholder: the first release is in progress. |
+| 2026-11-06 04:53:24 | [css-tokenize](https://crates.io/crates/css-tokenize) | 0.1.0 | 0 | A CSS tokenizer following CSS Syntax Level 3, in safe Rust without dependencies |
+| 2026-11-06 04:53:50 | [style-cascade](https://crates.io/crates/style-cascade) | 0.1.0 | 0 | CSS cascade without a browser: selector matching with specificity, inheritance,… |
+| 2026-11-06 04:54:03 | [a11y-static](https://crates.io/crates/a11y-static) | 0.1.0 | 0 | Browser-free accessibility audit of static HTML: HTML text plus the stylesheet… |
+| 2026-11-06 04:55:29 | [ursa-core](https://crates.io/crates/ursa-core) | 0.5.0 | 0 | Topology index and graph algorithm kernels for Ursa. Pure Rust; no DataFusion. |
+| 2026-11-06 04:56:06 | [gbx-formats](https://crates.io/crates/gbx-formats) | 0.1.0 | 0 | Read Nadeo's GameBox (.Gbx) files: the container, its LZO-compressed body, and… |
+| 2026-11-06 04:56:23 | [graphviz-pure-tiny-skia-path](https://crates.io/crates/graphviz-pure-tiny-skia-path) | 0.0.0 | 0 | Placeholder for the graphviz-pure fork of upstream tiny-skia-path 0.12.0. |
+| 2026-11-06 04:56:25 | [graphviz-pure-kurbo](https://crates.io/crates/graphviz-pure-kurbo) | 0.0.0 | 0 | Placeholder for the graphviz-pure fork of upstream kurbo 0.13.1. |
+| 2026-11-06 04:56:27 | [graphviz-pure-skrifa](https://crates.io/crates/graphviz-pure-skrifa) | 0.0.0 | 0 | Placeholder for the graphviz-pure fork of upstream skrifa 0.44.0. |
+| 2026-11-06 04:56:29 | [graphviz-pure-svgtypes](https://crates.io/crates/graphviz-pure-svgtypes) | 0.0.0 | 0 | Placeholder for the graphviz-pure fork of upstream svgtypes 0.16.1. |
+| 2026-11-06 04:56:31 | [graphviz-pure-tiny-skia](https://crates.io/crates/graphviz-pure-tiny-skia) | 0.0.0 | 0 | Placeholder for the graphviz-pure fork of upstream tiny-skia 0.12.0. |
+| 2026-11-06 04:56:37 | [forzatech-formats](https://crates.io/crates/forzatech-formats) | 0.1.0 | 0 | Read ForzaTech (Forza Horizon 6) files: the encrypted container its game databa… |
+| 2026-11-06 04:59:46 | [envpouch](https://crates.io/crates/envpouch) | 0.1.0 | 0 | Encrypted environment variable profile manager (import/export/run with password) |
+| 2026-11-06 05:00:16 | [ursa-io](https://crates.io/crates/ursa-io) | 0.5.0 | 0 | Source reading for Ursa: Parquet/CSV scans through DataFusion, CSV options and… |
+| 2026-11-06 05:00:44 | [ursa-engine](https://crates.io/crates/ursa-engine) | 0.6.0 | 0 | Ursa's SQL engine session: a DataFusion session that reads files by path, local… |
+| 2026-11-06 05:01:14 | [ursa-sql](https://crates.io/crates/ursa-sql) | 0.6.0 | 0 | Ursa's SQL dialect: DataFusion's parser plus Ursa's own statements, and running… |
+| 2026-11-06 05:06:03 | [ursa-cli](https://crates.io/crates/ursa-cli) | 0.6.0 | 0 | The ursa command-line tool: SQL over Parquet and CSV files, local or in object… |
+| 2026-11-06 05:06:22 | [tessera-glyphon](https://crates.io/crates/tessera-glyphon) | 0.12.0 | 0 | Fast, simple 2D text rendering for wgpu |
+| 2026-11-06 05:06:24 | [subrosa](https://crates.io/crates/subrosa) | 0.0.0 | 0 | Reserved. The first release is under development. |
+| 2026-11-06 05:06:34 | [graphviz-pure-usvg](https://crates.io/crates/graphviz-pure-usvg) | 0.0.0 | 0 | Placeholder for the graphviz-pure fork of upstream usvg 0.49.0. |
+| 2026-11-06 05:07:01 | [d3d9-reader](https://crates.io/crates/d3d9-reader) | 0.5.0 | 0 | Direct3D 9 shader bytecode parser: reads vs/ps 1.x, 2.x and 3.0 token streams i… |
+| 2026-11-06 05:12:42 | [combopt-base](https://crates.io/crates/combopt-base) | 0.1.0 | 0 | Foundational types shared by the combopt solvers (a component of the `combopt`… |
+| 2026-11-06 05:12:44 | [combopt-algorithms](https://crates.io/crates/combopt-algorithms) | 0.1.0 | 0 | Algorithms and data structures used by the combopt solvers (a component of the… |
+| 2026-11-06 05:12:45 | [combopt-graph](https://crates.io/crates/combopt-graph) | 0.1.0 | 0 | Graph representations and algorithms used by the combopt solvers (a component o… |
+| 2026-11-06 05:12:46 | [combopt-sat](https://crates.io/crates/combopt-sat) | 0.1.0 | 0 | A CDCL SAT solver with pseudo-Boolean constraints, MaxSAT and DRAT/LRAT proofs… |
+| 2026-11-06 05:12:46 | [combopt-cpsat](https://crates.io/crates/combopt-cpsat) | 0.1.0 | 0 | Integer constraint propagation on the combopt SAT solver, after OR-Tools CP-SAT… |
+| 2026-11-06 05:16:37 | [graphviz-pure-resvg](https://crates.io/crates/graphviz-pure-resvg) | 0.0.0 | 0 | Placeholder for the graphviz-pure fork of upstream resvg 0.49.0. |
+| 2026-11-06 05:18:33 | [combopt](https://crates.io/crates/combopt) | 0.1.0 | 0 | Combinatorial optimization in pure safe Rust: a CDCL SAT solver with pseudo-Boo… |
+| 2026-11-06 05:19:09 | [vld-integration-common](https://crates.io/crates/vld-integration-common) | 0.5.0 | 0 | Shared helpers for vld integration crates (internal) |
 
 ## Data source
 
