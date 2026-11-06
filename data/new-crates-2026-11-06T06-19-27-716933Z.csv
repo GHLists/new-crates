@@ -1,0 +1,21 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-06T05:23:52.601766Z,logos-contract,0.24.0,0,0,https://github.com/Bitspark/logos-contract,logos-contract: the FIRM proof account (Term/Literal/Clause/Derivation) + the STABLE-v1 checker SPI (check/Theory/LeafVerifier/RuleAdmissibility) over ontos. The shared artifact a check-only consumer…
+2026-11-06T05:26:39.617174Z,graphviz-pure-svg2pdf,0.0.0,0,0,https://github.com/graphviz-pure/graphviz-pure,Placeholder for the graphviz-pure fork of upstream svg2pdf 0.13.0.
+2026-11-06T05:27:55.122249Z,compress-lib,0.1.0,0,0,https://github.com/jamesgober/compress-lib,"DEFLATE, zlib, and gzip for Rust services: streaming and sans-IO with bounded memory, hard limits against decompression bombs, WebSocket permessage-deflate (RFC 7692) support, no unsafe code, and zer…"
+2026-11-06T05:38:07.069899Z,kessel-video,0.1.0,0,0,https://github.com/Alakazam-211/K2,"Cameras, screen capture, pixels and video codecs for apps that bring their own transport: H.264 through the operating system's codecs, VP8 in pure Rust, a codec-neutral submit-and-poll API, and a scr…"
+2026-11-06T05:55:26.918344Z,cursorpie-diag,0.1.0,0,0,https://github.com/sebastvnd/cursorpie,"A small diagnostic log for developers: switch-on-demand JSON lines, written from anywhere with one macro. Used by CursorPie, not specific to it."
+2026-11-06T06:00:54.35569Z,d2-rs-core,0.1.0,0,0,https://github.com/nelsonjchen/d2-rs,"Shared D2 graph, AST, IR, geometry and layout result types used across d2-rs."
+2026-11-06T06:00:55.39629Z,d2-rs-goflate,0.1.0,0,0,https://github.com/nelsonjchen/d2-rs,Byte-exact Rust port of Go's compress/flate encoder and compress/zlib writer.
+2026-11-06T06:00:56.509754Z,d2-rs-rustybuzz,0.20.1,0,0,https://github.com/nelsonjchen/d2-rs,"Rustybuzz 0.20.1 modified so text shaping matches Go's go-text/typesetting, for d2-rs."
+2026-11-06T06:00:57.910683Z,d2-rs-dagre,0.1.0,0,0,https://github.com/nelsonjchen/d2-rs,Rust port of D2's Dagre layout adapter and the dagro layout engine.
+2026-11-06T06:00:59.210676Z,d2-rs-math,0.1.0,0,0,https://github.com/nelsonjchen/d2-rs,Rust port of D2's d2latex package and mathjax-go: LaTeX layout and SVG.
+2026-11-06T06:01:51.923482Z,vexlang-registry,0.1.0,0,0,https://github.com/cybercoretech/vexlang,"Package index client for the Vex language: index lookup, verified installs, vex.lock, reproducible packaging"
+2026-11-06T06:01:53.898067Z,vexlang,0.1.0-alpha.2,0,0,https://github.com/cybercoretech/vexlang,Alpha interpreter and typed IR prototype for the Vex language
+2026-11-06T06:03:51.199174Z,claviron-pipeline,0.2.0-alpha.25,0,0,https://github.com/claviron/claviron,"The request execution contract for Claviron: what an application or embedded runtime implements, independent of hosts and listeners"
+2026-11-06T06:03:57.339228Z,claviron-transport,0.2.0-alpha.25,0,0,https://github.com/claviron/claviron,"Socket acceptance and HTTP/1.1, HTTP/2 and HTTP/3 connection driving for Claviron, host-free or serving claviron-edge"
+2026-11-06T06:11:00.054249Z,d2-rs-sketch,0.1.0,0,0,https://github.com/nelsonjchen/d2-rs,"Rust port of rough-go, the rough drawing library behind D2's sketch mode."
+2026-11-06T06:12:41.608598Z,clch,0.1.0,0,0,https://github.com/kihyun1998/clch,"Find, track and safely clean developer caches and project artifacts on Windows and macOS"
+2026-11-06T06:14:02.283694Z,alpha2-container,0.0.0,0,0,https://github.com/alpha2-sh/alpha2,"alpha2's own media container layer: MP4/MOV/M4A, Matroska/WebM and audio-only files, demuxed and muxed in pure Rust. Placeholder; the first release is 0.6.0."
+2026-11-06T06:14:05.035413Z,alpha2-host-core,0.0.0,0,0,https://github.com/alpha2-sh/alpha2,"FFmpeg-free native host logic for alpha2, shared by the desktop and mobile hosts. Placeholder; the first release is 0.6.0."
+2026-11-06T06:14:16.769448Z,ppoppo-chat-proto,0.1.0,0,0,https://github.com/hakchin/ppoppo,Chat wire vocabulary shared by the PCS faces (package ppoppo.chat.v1) — .proto SSOT + generated messages
+2026-11-06T06:18:03.808744Z,claviron-php-core,0.2.0-alpha.25,0,0,https://github.com/claviron/php,Shared PHP route configuration and runtime contracts for Claviron execution backends
