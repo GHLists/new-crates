@@ -1,0 +1,19 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-06T01:38:24.803446Z,companion-plugin-sdk,0.1.0,0,0,https://github.com/companion-lab/companion-sdk-rs,Rust backend SDK for companion-tauri plugins
+2026-11-06T01:39:30.282684Z,reuben,0.0.0,0,0,https://github.com/reuben-ssg/reuben,The tastiest SSG. A static site generator with Rhai scripting in Markdown.
+2026-11-06T01:46:49.765268Z,crypto-pan,0.1.0,0,0,https://github.com/SkuldNorniern/cryptoPAn-rs,"Crypto-PAn, prefix-preserving IP address anonymization"
+2026-11-06T01:51:52.085315Z,acorn-daemon,0.6.3,0,0,https://code.ornl.gov/research-enablement/acorn,Persistent host process for ACORN APIs and configured jobs
+2026-11-06T02:02:50.086776Z,infinity-provider-models-dev,0.1.0,0,0,https://github.com/ToyVo/infinity-provider-models-dev,"Multi-backend model provider for Infinity coding agents, using the model catalog from models.dev"
+2026-11-06T02:03:32.424146Z,manually_init,0.1.0,0,0,https://github.com/wisdgod/manually_init,A OnceLock-like slot with no runtime check and a safe API. Unsound by design.
+2026-11-06T02:06:34.423898Z,simple_pv_rs_sys,0.0.7,0,0,https://git.ligo.org/cds/software/simple_pv_rs,Raw FFI bindings to the LIGO CDS simple_pv library
+2026-11-06T02:07:51.94397Z,simple_pv_rs,0.1.0,0,0,https://git.ligo.org/cds/software/simple_pv_rs,Safe Rust wrapper around the LIGO CDS simple_pv library for exporting application state as EPICS process variables
+2026-11-06T02:11:50.074219Z,vp8-decoder,0.1.0,0,0,https://github.com/Alakazam-211/K2,"A VP8 video decoder in pure, safe Rust (RFC 6386), conformance-tested on the WebM test vectors."
+2026-11-06T02:12:17.713159Z,vp8-encoder,0.1.0,0,0,https://github.com/Alakazam-211/K2,"A real-time VP8 video encoder in pure, safe Rust: rate control, keyframes on request, temporal layers."
+2026-11-06T02:13:54.506894Z,eotrs,0.1.0,0,0,https://github.com/reductoai/eotrs,"Embedded OpenType (EOT) to TrueType, with MicroType Express decompression. A pure-Rust port of libeot."
+2026-11-06T02:15:16.842691Z,pod-oci,0.0.0,0,0,https://github.com/PodUtils/podcrates,"An OCI registry client: references, platforms, credentials, digests, layouts and pulls. Placeholder: the first release is in progress."
+2026-11-06T02:15:40.196729Z,pod-hostprobe,0.0.0,0,0,https://github.com/PodUtils/podcrates,Host probes that run each check in a disposable child and report the errno. Placeholder: the first release is in progress.
+2026-11-06T02:16:05.382662Z,pod-extract,0.0.0,0,0,https://github.com/PodUtils/podcrates,"Rootless OCI layer apply: order, whiteouts, path containment, ownership without chown. Placeholder: the first release is in progress."
+2026-11-06T02:16:18.116905Z,contexere-reduce,0.8.5,0,0,https://github.com/fajarhide/contexere,"The reduction pipeline behind Contexere: distillers, the ledger, redaction and the hooks that run them."
+2026-11-06T02:16:21.29346Z,contexere,0.8.5,0,0,https://github.com/fajarhide/contexere,"The context layer for AI coding agents: less noise, fewer tokens, nothing lost. Formerly OMNI."
+2026-11-06T02:16:34.610965Z,pod-rootfs,0.0.0,0,0,https://github.com/PodUtils/podcrates,"Rootfs completion: device nodes, accounts, resolver and CA data. Placeholder: the first release is in progress."
+2026-11-06T02:16:59.244824Z,pod-enter,0.0.0,0,0,https://github.com/PodUtils/podcrates,"Payload entry: chroot sequence, ELF classification and launch modes. Placeholder: the first release is in progress."

@@ -8,36 +8,32 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-06 01:18 UTC
+## Latest list — 2026-11-06 02:20 UTC
 
-New crates published between 2026-11-06 00:18 UTC and 2026-11-06 01:18 UTC.
+New crates published between 2026-11-06 01:18 UTC and 2026-11-06 02:20 UTC.
 
-[Full CSV](data/new-crates-2026-11-06T01-18-42-294627Z.csv)
+[Full CSV](data/new-crates-2026-11-06T02-20-22-272339Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-06 00:18:56 | [ravet](https://crates.io/crates/ravet) | 0.0.0 | 0 | Rust framework for audio plug-ins and standalone apps. Not yet published here;… |
-| 2026-11-06 00:20:44 | [aureole-devtools](https://crates.io/crates/aureole-devtools) | 0.0.1-beta.1 | 0 | Aureole 的开发工具：监视文件热加载，文件保存后信号和图片跟着变 |
-| 2026-11-06 00:22:25 | [kepler-studio](https://crates.io/crates/kepler-studio) | 0.0.0 | 0 | Browser application for kepler, for watching and steering searches |
-| 2026-11-06 00:22:41 | [bzip2-turbo](https://crates.io/crates/bzip2-turbo) | 0.1.0 | 0 | Streaming BZip2 encoding and decoding based on the 7-Zip codec |
-| 2026-11-06 00:24:03 | [computer-use-rs](https://crates.io/crates/computer-use-rs) | 0.1.0 | 0 | Cross-platform computer-use primitives: read app accessibility trees, take wind… |
-| 2026-11-06 00:28:42 | [glasskit](https://crates.io/crates/glasskit) | 0.1.0 | 0 | Native Windows UI with a glass look: tray icon and menu, glass popup, themed di… |
-| 2026-11-06 00:30:46 | [aureole-testing](https://crates.io/crates/aureole-testing) | 0.0.1-beta.1 | 0 | Aureole 的测试工具：没有窗口的宿主，手动推进虚拟时间、模拟输入、读状态，回放录下的输入，离屏截图 |
-| 2026-11-06 00:32:24 | [kepler-python](https://crates.io/crates/kepler-python) | 0.0.0 | 0 | Python wrapper for kepler |
-| 2026-11-06 00:36:46 | [software-id](https://crates.io/crates/software-id) | 0.1.1 | 0 | Rust SDK for the Software ID (SID) specification: manifests, SUIDs, SIDs, and e… |
-| 2026-11-06 00:39:27 | [literoot](https://crates.io/crates/literoot) | 0.0.1 | 0 | Fast unprivileged drop-in replacement for proot, built on liteinst and Reverie… |
-| 2026-11-06 00:40:48 | [aureole-runtime](https://crates.io/crates/aureole-runtime) | 0.0.1-beta.1 | 0 | Aureole 的运行时：应用、窗口和事件循环、输入换算、渲染线程、菜单托盘、对话框、系统集成，把核心接到真实的窗口和 GPU 上 |
-| 2026-11-06 00:45:01 | [oxdock-utils](https://crates.io/crates/oxdock-utils) | 0.35.0-alpha | 0 | Shared leaf utilities for OxDock: streaming tarball pack/unpack, SHA-256 hex di… |
-| 2026-11-06 00:48:22 | [bashkit-monty-types](https://crates.io/crates/bashkit-monty-types) | 0.20.3 | 0 | Fork of pydantic/monty's monty-types 1.4.0 with an embedder memory probe and ch… |
-| 2026-11-06 00:48:54 | [bashkit-monty](https://crates.io/crates/bashkit-monty) | 0.20.3 | 0 | Fork of pydantic/monty 1.4.0 (secure, snapshotable Python sandbox) built agains… |
-| 2026-11-06 00:50:45 | [aureole](https://crates.io/crates/aureole) | 0.0.1-beta.1 | 0 | Rust 桌面应用框架：链式 API 搭界面，细粒度信号驱动更新，GPU 渲染 |
-| 2026-11-06 01:00:47 | [aureole-installer](https://crates.io/crates/aureole-installer) | 0.0.1-beta.1 | 0 | 用 Aureole 写安装程序：包格式、解压、回滚、升级、卸载、系统集成，默认的向导界面，少见的需求有扩展接口 |
-| 2026-11-06 01:03:12 | [winaudio-core](https://crates.io/crates/winaudio-core) | 0.1.0 | 0 | Modern per-process Windows audio capture and session management core engine by… |
-| 2026-11-06 01:04:43 | [winaudio-cli](https://crates.io/crates/winaudio-cli) | 0.1.0 | 0 | Command-line tool for per-process Windows audio capture, monitoring, and volume… |
-| 2026-11-06 01:08:46 | [windows-text](https://crates.io/crates/windows-text) | 0.0.0 | 0 | Windows text layout library |
-| 2026-11-06 01:10:42 | [aureole-bundle](https://crates.io/crates/aureole-bundle) | 0.0.1-beta.1 | 0 | 把应用打包：macOS 的 .app 和 .dmg（含通用二进制），Windows、Linux 的安装包（交给 cargo-packager） |
-| 2026-11-06 01:11:52 | [relaxng](https://crates.io/crates/relaxng) | 0.1.0 | 0 | RELAX NG schema parsing, validation and example document generation |
-| 2026-11-06 01:12:59 | [wordthing](https://crates.io/crates/wordthing) | 0.0.0 | 0 | Local, hotkey-driven voice and text AI for any app: dictation, voice assistant,… |
+| 2026-11-06 01:38:24 | [companion-plugin-sdk](https://crates.io/crates/companion-plugin-sdk) | 0.1.0 | 0 | Rust backend SDK for companion-tauri plugins |
+| 2026-11-06 01:39:30 | [reuben](https://crates.io/crates/reuben) | 0.0.0 | 0 | The tastiest SSG. A static site generator with Rhai scripting in Markdown. |
+| 2026-11-06 01:46:49 | [crypto-pan](https://crates.io/crates/crypto-pan) | 0.1.0 | 0 | Crypto-PAn, prefix-preserving IP address anonymization |
+| 2026-11-06 01:51:52 | [acorn-daemon](https://crates.io/crates/acorn-daemon) | 0.6.3 | 0 | Persistent host process for ACORN APIs and configured jobs |
+| 2026-11-06 02:02:50 | [infinity-provider-models-dev](https://crates.io/crates/infinity-provider-models-dev) | 0.1.0 | 0 | Multi-backend model provider for Infinity coding agents, using the model catalo… |
+| 2026-11-06 02:03:32 | [manually_init](https://crates.io/crates/manually_init) | 0.1.0 | 0 | A OnceLock-like slot with no runtime check and a safe API. Unsound by design. |
+| 2026-11-06 02:06:34 | [simple_pv_rs_sys](https://crates.io/crates/simple_pv_rs_sys) | 0.0.7 | 0 | Raw FFI bindings to the LIGO CDS simple_pv library |
+| 2026-11-06 02:07:51 | [simple_pv_rs](https://crates.io/crates/simple_pv_rs) | 0.1.0 | 0 | Safe Rust wrapper around the LIGO CDS simple_pv library for exporting applicati… |
+| 2026-11-06 02:11:50 | [vp8-decoder](https://crates.io/crates/vp8-decoder) | 0.1.0 | 0 | A VP8 video decoder in pure, safe Rust (RFC 6386), conformance-tested on the We… |
+| 2026-11-06 02:12:17 | [vp8-encoder](https://crates.io/crates/vp8-encoder) | 0.1.0 | 0 | A real-time VP8 video encoder in pure, safe Rust: rate control, keyframes on re… |
+| 2026-11-06 02:13:54 | [eotrs](https://crates.io/crates/eotrs) | 0.1.0 | 0 | Embedded OpenType (EOT) to TrueType, with MicroType Express decompression. A pu… |
+| 2026-11-06 02:15:16 | [pod-oci](https://crates.io/crates/pod-oci) | 0.0.0 | 0 | An OCI registry client: references, platforms, credentials, digests, layouts an… |
+| 2026-11-06 02:15:40 | [pod-hostprobe](https://crates.io/crates/pod-hostprobe) | 0.0.0 | 0 | Host probes that run each check in a disposable child and report the errno. Pla… |
+| 2026-11-06 02:16:05 | [pod-extract](https://crates.io/crates/pod-extract) | 0.0.0 | 0 | Rootless OCI layer apply: order, whiteouts, path containment, ownership without… |
+| 2026-11-06 02:16:18 | [contexere-reduce](https://crates.io/crates/contexere-reduce) | 0.8.5 | 0 | The reduction pipeline behind Contexere: distillers, the ledger, redaction and… |
+| 2026-11-06 02:16:21 | [contexere](https://crates.io/crates/contexere) | 0.8.5 | 0 | The context layer for AI coding agents: less noise, fewer tokens, nothing lost.… |
+| 2026-11-06 02:16:34 | [pod-rootfs](https://crates.io/crates/pod-rootfs) | 0.0.0 | 0 | Rootfs completion: device nodes, accounts, resolver and CA data. Placeholder: t… |
+| 2026-11-06 02:16:59 | [pod-enter](https://crates.io/crates/pod-enter) | 0.0.0 | 0 | Payload entry: chroot sequence, ELF classification and launch modes. Placeholde… |
 
 ## Data source
 
