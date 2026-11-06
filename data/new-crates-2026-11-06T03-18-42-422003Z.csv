@@ -1,0 +1,41 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-06T02:22:23.861088Z,pod-supervise,0.0.0,0,0,https://github.com/PodUtils/podcrates,"Detached payloads: launcher state, pidfds, logs, signals and lifecycle. Placeholder: the first release is in progress."
+2026-11-06T02:32:51.217047Z,pod-guest,0.0.0,0,0,https://github.com/PodUtils/podcrates,"A disposable QEMU guest: mailbox, guest agent, disk fetch, QMP and boot plan. Placeholder: the first release is in progress."
+2026-11-06T02:34:21.954817Z,decade,0.1.0,0,0,https://github.com/jackroddy/decade,dynamic extensible collaborative agent development environment
+2026-11-06T02:43:19.50486Z,pod-microvm,0.0.0,0,0,https://github.com/PodUtils/podcrates,"Fast disposable microVMs from an OCI image, on KVM or TCG. Placeholder: the first release is in progress."
+2026-11-06T02:45:33.505589Z,suye,0.1.0,0,0,https://github.com/sheng-ke-zhi/suye,Read-only development toolchain diagnostics for SUYE
+2026-11-06T02:45:42.571267Z,gitd-client,0.14.0,0,0,https://github.com/dooservice/gitd,"Client for gitd: instant, secretless git checkouts for agent sandboxes"
+2026-11-06T02:50:10.757012Z,menger-quota,0.7.0,0,0,https://github.com/hypermemetic-ai/menger,"menger's quota service — per-principal allowances per source, usage counted and tabulated, every write reserved against the cap over the client seam"
+2026-11-06T02:50:15.09398Z,menger-docs,0.7.0,0,0,https://github.com/hypermemetic-ai/menger,"menger's docs service — documents on their own API and file, every write a revision, the organization's roles held by the gate"
+2026-11-06T02:50:16.883661Z,menger-media,0.7.0,0,0,https://github.com/hypermemetic-ai/menger,"menger's media service — images for tickets, kept by sha256 in a file of their own, the ticket's permit asked of the tickets service through the client seam"
+2026-11-06T02:51:21.968189Z,rapiddoc-core,0.1.0,0,0,https://github.com/RapidAI/RapidDoc,Shared document types and errors for RapidDoc.
+2026-11-06T02:51:27.709835Z,rapiddoc-docvortex-core,0.1.0,0,0,https://github.com/RapidAI/RapidDoc,Pinned DocVortex Rust subset used by RapidDoc.
+2026-11-06T02:51:29.697327Z,rapiddoc-docvortex-pdfium-paths,0.1.0,0,0,https://github.com/RapidAI/RapidDoc,Pinned DocVortex Rust subset used by RapidDoc.
+2026-11-06T02:51:37.011441Z,rapiddoc-lopdf,0.42.0,0,0,https://github.com/RapidAI/RapidDoc,RapidDoc fork of lopdf with f64 PDF real storage and parsing.
+2026-11-06T02:51:44.300763Z,rapiddoc-native,0.1.0,0,0,https://github.com/RapidAI/RapidDoc,Native layout and document analysis for RapidDoc.
+2026-11-06T02:53:49.312868Z,pod-sud,0.0.0,0,0,https://github.com/PodUtils/podcrates,"An in-process syscall interceptor on Syscall User Dispatch, with no ptrace and no privileges. Placeholder: the first release is in progress."
+2026-11-06T02:54:55.531469Z,tessera-android-activity,0.6.1,0,0,https://github.com/tessera-ui/tessera-android-activity,Glue for building Rust applications on Android with NativeActivity or GameActivity
+2026-11-06T03:01:31.139639Z,rapiddoc-pdf,0.1.0,0,0,https://github.com/RapidAI/RapidDoc,PDFium rendering and PDF text extraction for RapidDoc.
+2026-11-06T03:02:54.979463Z,tessera-winit,0.30.13,0,0,https://github.com/tessera-ui/tessera-winit,Cross-platform window creation library.
+2026-11-06T03:04:19.456708Z,pod-confine,0.0.0,0,0,https://github.com/PodUtils/podcrates,"Unprivileged confinement: Landlock, seccomp filters and rlimits. Placeholder: the first release is in progress."
+2026-11-06T03:06:50.833223Z,tessera-accesskit-winit,0.34.2,0,0,https://github.com/tessera-ui/tessera-accesskit,AccessKit UI accessibility infrastructure: winit adapter
+2026-11-06T03:08:16.673514Z,aws-smithy-topology,0.1.0,0,0,https://github.com/awslabs/aws-s3-transfer-manager-rs,Hardware topology and placement primitives for the AWS SDK and smithy-rs ecosystem.
+2026-11-06T03:08:18.32551Z,aws-smithy-execution,0.1.0,0,0,https://github.com/awslabs/aws-s3-transfer-manager-rs,Managed async execution with topology placement.
+2026-11-06T03:08:20.050604Z,aws-smithy-managed-http,0.1.0,0,0,https://github.com/awslabs/aws-s3-transfer-manager-rs,HTTP transport with connection pooling and managed execution.
+2026-11-06T03:08:24.648727Z,aws-sdk-s3-transfer-manager-ext,0.1.0,0,0,https://github.com/awslabs/aws-s3-transfer-manager-rs,Optional integrations for S3 Transfer Manager.
+2026-11-06T03:08:58.839785Z,griefer,0.0.0,0,0,https://github.com/gaspardip/griefer,Mutation testing engine in Rust. Placeholder release reserving the name; not usable yet.
+2026-11-06T03:09:16.267818Z,material-shapes,0.1.0,0,0,https://github.com/GrounzerLiu/winia,Material 3 shape utilities used by Winia
+2026-11-06T03:11:35.995369Z,winia-macros,0.1.0,0,0,https://github.com/GrounzerLiu/winia,Composable attribute macro for Winia
+2026-11-06T03:11:50.148894Z,skiwin,0.1.0,0,0,https://github.com/GrounzerLiu/winia,Skia window and GPU backend layer for Winia
+2026-11-06T03:12:02.967636Z,winia-material-symbols-outlined,0.1.0,0,0,https://github.com/GrounzerLiu/winia,Material Symbols Outlined variable font for Winia
+2026-11-06T03:12:06.776672Z,oxitty-protocol,0.0.0,0,0,https://github.com/jericbas/oxitty,Protocol and message types for oxitty Web TTY daemon
+2026-11-06T03:12:08.179074Z,winia-material-symbols-rounded,0.1.0,0,0,https://github.com/GrounzerLiu/winia,Material Symbols Rounded variable font for Winia
+2026-11-06T03:12:51.760429Z,oxitty-core,0.0.0,0,0,https://github.com/jericbas/oxitty,Core PTY and session management for oxitty Web TTY daemon
+2026-11-06T03:14:44.635027Z,pod-netlab,0.0.0,0,0,https://github.com/PodUtils/podcrates,"Network labs in a guest or a namespace: NAT44, NAT66, NAT64, CGNAT, IPv6-only and impairment. Placeholder: the first release is in progress."
+2026-11-06T03:15:13.886508Z,griefer-core,0.0.0,0,0,https://github.com/gaspardip/griefer,"Core engine of griefer, a mutation testing engine in Rust. Placeholder release reserving the name; not usable yet."
+2026-11-06T03:15:17.074844Z,griefer-cli,0.0.0,0,0,https://github.com/gaspardip/griefer,"Command-line interface of griefer, a mutation testing engine in Rust. Placeholder release reserving the name; not usable yet."
+2026-11-06T03:15:20.26356Z,griefer-lang-ts,0.0.0,0,0,https://github.com/gaspardip/griefer,"TypeScript and JavaScript adapter of griefer, a mutation testing engine in Rust. Placeholder release reserving the name; not usable yet."
+2026-11-06T03:15:23.411883Z,griefer-lang-rust,0.0.0,0,0,https://github.com/gaspardip/griefer,"Rust language adapter of griefer, a mutation testing engine in Rust. Placeholder release reserving the name; not usable yet."
+2026-11-06T03:16:22.18072Z,tessera-cosmic-text,0.19.0,0,0,https://github.com/tessera-ui/tessera-cosmic-text,Pure Rust multi-line text handling
+2026-11-06T03:16:28.83943Z,winia-material-symbols-sharp,0.1.0,0,0,https://github.com/GrounzerLiu/winia,Material Symbols Sharp variable font for Winia
+2026-11-06T03:16:31.810539Z,oxitty,0.0.0,0,0,https://github.com/jericbas/oxitty,"High-performance Web TTY daemon built with Rust, React 19, Bun, Vite & ts-rs"
