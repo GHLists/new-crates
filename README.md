@@ -8,42 +8,32 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-06 19:21 UTC
+## Latest list — 2026-11-06 20:18 UTC
 
-New crates published between 2026-11-06 18:18 UTC and 2026-11-06 19:21 UTC.
+New crates published between 2026-11-06 19:21 UTC and 2026-11-06 20:18 UTC.
 
-[Full CSV](data/new-crates-2026-11-06T19-21-33-3561Z.csv)
+[Full CSV](data/new-crates-2026-11-06T20-18-43-820377Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-06 18:20:42 | [adotenv-lint](https://crates.io/crates/adotenv-lint) | 0.1.0 | 0 | Opt-in lint rules and verified fixes for adotenv documents. |
-| 2026-11-06 18:22:42 | [mln-rs-renderer](https://crates.io/crates/mln-rs-renderer) | 0.0.7 | 0 | Part of mln-rs, a Rust port of the MapLibre Native map rendering core. Depend o… |
-| 2026-11-06 18:23:19 | [aktujo-locales](https://crates.io/crates/aktujo-locales) | 0.3.1 | 0 | The texts of aktujo's web app and terminal interface, one JSON file per language |
-| 2026-11-06 18:28:23 | [loadmaster](https://crates.io/crates/loadmaster) | 0.3.0 | 0 | Weight, balance and preflight for local LLMs: will it fit, how to launch it, do… |
-| 2026-11-06 18:32:53 | [mln-rs-map](https://crates.io/crates/mln-rs-map) | 0.0.7 | 0 | Part of mln-rs, a Rust port of the MapLibre Native map rendering core. Depend o… |
-| 2026-11-06 18:35:00 | [teamy-facet-dom](https://crates.io/crates/teamy-facet-dom) | 0.50.0-rc.7 | 0 | TeamDman-maintained fork of facet-dom: tree-based serialization and deserializa… |
-| 2026-11-06 18:35:39 | [teamy-facet-xml](https://crates.io/crates/teamy-facet-xml) | 0.50.0-rc.8 | 0 | TeamDman-maintained fork of facet-xml: XML serialization and bounded namespace-… |
-| 2026-11-06 18:35:46 | [teamy-facet-xml-node](https://crates.io/crates/teamy-facet-xml-node) | 0.50.0-rc.8 | 0 | TeamDman-maintained fork of facet-xml-node: raw XML nodes and a bounded namespa… |
-| 2026-11-06 18:41:52 | [manatan-flashcards-sdk](https://crates.io/crates/manatan-flashcards-sdk) | 0.1.0 | 0 | Public SDK for building Manatan Flashcards extensions as WebAssembly components. |
-| 2026-11-06 18:42:32 | [edgefirst-tflite-delegate](https://crates.io/crates/edgefirst-tflite-delegate) | 0.11.0 | 0 | EdgeFirst TFLite delegate: runs CPU-fallback operators with edgefirst-kernels |
-| 2026-11-06 18:43:04 | [mln-rs-storage-offline](https://crates.io/crates/mln-rs-storage-offline) | 0.0.7 | 0 | Part of mln-rs, a Rust port of the MapLibre Native map rendering core. Depend o… |
-| 2026-11-06 18:46:27 | [kallotype-spectral](https://crates.io/crates/kallotype-spectral) | 0.1.0 | 0 | Spectra, sensors and RGB-to-spectrum reconstruction |
-| 2026-11-06 18:47:50 | [kallotype-core](https://crates.io/crates/kallotype-core) | 0.1.0 | 0 | Reference film model: characteristic curves and development kinetics |
-| 2026-11-06 18:48:03 | [kallotype-io](https://crates.io/crates/kallotype-io) | 0.1.0 | 0 | Image loading and saving for Kallotype |
-| 2026-11-06 18:48:14 | [kallotype-cli](https://crates.io/crates/kallotype-cli) | 0.1.0 | 0 | The `kalo` command line interface |
-| 2026-11-06 18:53:15 | [mln-rs-wgpu-webgpu-h](https://crates.io/crates/mln-rs-wgpu-webgpu-h) | 0.0.7 | 0 | Part of mln-rs, a Rust port of the MapLibre Native map rendering core. Depend o… |
-| 2026-11-06 18:54:53 | [aktujo-tui](https://crates.io/crates/aktujo-tui) | 0.3.1 | 0 | The terminal interface of aktujo |
-| 2026-11-06 18:55:00 | [aktujo-web](https://crates.io/crates/aktujo-web) | 0.3.1 | 0 | The web app of aktujo, built in: served around the API with a policy that loads… |
-| 2026-11-06 18:55:21 | [aktujo-api](https://crates.io/crates/aktujo-api) | 0.3.1 | 0 | The open API of aktujo: HTTP and JSON, described in OpenAPI, for this device on… |
-| 2026-11-06 18:56:01 | [aktujo](https://crates.io/crates/aktujo) | 0.3.1 | 0 | Your documents, kept safe – end to end |
-| 2026-11-06 18:56:10 | [ts_actor](https://crates.io/crates/ts_actor) | 0.0.0-alpha0 | 0 | placeholder |
-| 2026-11-06 18:56:13 | [knock-verify](https://crates.io/crates/knock-verify) | 0.1.0 | 0 | A site's check of a knock (V1–V8): ENS for the name, World Chain for the human,… |
-| 2026-11-06 18:56:16 | [knock-verifier](https://crates.io/crates/knock-verifier) | 0.1.0 | 0 | A site's Knock verifier: /challenge and /verify (V1–V8, knock-verify), reading… |
-| 2026-11-06 18:58:04 | [ts_util](https://crates.io/crates/ts_util) | 0.0.0-alpha0 | 0 | placeholder |
-| 2026-11-06 19:03:27 | [mln-rs-webgpu](https://crates.io/crates/mln-rs-webgpu) | 0.0.7 | 0 | Part of mln-rs, a Rust port of the MapLibre Native map rendering core. Depend o… |
-| 2026-11-06 19:13:38 | [mln-rs-platform-default](https://crates.io/crates/mln-rs-platform-default) | 0.0.7 | 0 | Part of mln-rs, a Rust port of the MapLibre Native map rendering core. Depend o… |
-| 2026-11-06 19:14:26 | [nui-yalij](https://crates.io/crates/nui-yalij) | 0.2.0 | 0 | Shared terminal sessions driven by KDL state and layered decoration |
-| 2026-11-06 19:18:18 | [hexga_event](https://crates.io/crates/hexga_event) | 0.0.12-beta.1 | 0 | Define some basic traits for handling event |
+| 2026-11-06 19:21:48 | [soupdb-driver](https://crates.io/crates/soupdb-driver) | 0.2.0 | 0 | Driver Rust para SoupDB (gestor de base de datos multimodal) |
+| 2026-11-06 19:23:48 | [mln-rs](https://crates.io/crates/mln-rs) | 0.0.8 | 0 | A Rust port of the MapLibre Native map rendering core |
+| 2026-11-06 19:24:21 | [lemmajet](https://crates.io/crates/lemmajet) | 0.0.1 | 0 | Ultra-fast, zero-dependency precompiled stemmers and morphological lemmatizers. |
+| 2026-11-06 19:24:48 | [hexga_event_loop](https://crates.io/crates/hexga_event_loop) | 0.0.12-beta.1 | 0 | winit crate wrapper to handle the event loop |
+| 2026-11-06 19:27:34 | [qsl-macros-impl](https://crates.io/crates/qsl-macros-impl) | 0.1.0 | 0 | Procedural attributes re-exported by the qsl binary schema crate. |
+| 2026-11-06 19:30:30 | [qsl](https://crates.io/crates/qsl) | 0.1.1 | 0 | Schema-driven binary serialization and Rust code generation for explicit data l… |
+| 2026-11-06 19:33:22 | [droidtape](https://crates.io/crates/droidtape) | 0.0.1 | 0 | Record, replay, and regression-test AI agents that operate Android devices (pre… |
+| 2026-11-06 19:33:32 | [playdoobs](https://crates.io/crates/playdoobs) | 0.2.0 | 0 | Service and matching CLI application for controlling the currently active MPRIS… |
+| 2026-11-06 19:40:36 | [ml-dsa-lean](https://crates.io/crates/ml-dsa-lean) | 0.1.0 | 0 | Formally verified ML-DSA (FIPS 204) in Rust: proved in Lean to never panic and… |
+| 2026-11-06 19:41:31 | [axiolid-exact-arrangement](https://crates.io/crates/axiolid-exact-arrangement) | 0.1.0 | 0 | Exact arrangement of straight segments on rational points, with face tracing |
+| 2026-11-06 19:42:48 | [mln-rs-geometry](https://crates.io/crates/mln-rs-geometry) | 0.0.8 | 0 | Part of mln-rs, a Rust port of the MapLibre Native map rendering core. Depend o… |
+| 2026-11-06 19:42:54 | [mln-rs-feature](https://crates.io/crates/mln-rs-feature) | 0.0.8 | 0 | Part of mln-rs, a Rust port of the MapLibre Native map rendering core. Depend o… |
+| 2026-11-06 19:51:23 | [lacan_shim](https://crates.io/crates/lacan_shim) | 5.0.0 | 0 | Rust helpers for Lacan Scan (walk, regex, escapes). Called from Crisp via exter… |
+| 2026-11-06 19:51:32 | [lacan-scan](https://crates.io/crates/lacan-scan) | 5.0.0 | 0 | Static AI-safety scanner for Git repositories (CLI: lacan) |
+| 2026-11-06 19:59:15 | [bevy_composable_dragging](https://crates.io/crates/bevy_composable_dragging) | 0.1.0 | 0 | Declarative, composable dragging for Bevy, ported from Dragology |
+| 2026-11-06 20:07:14 | [twinleaf-proto](https://crates.io/crates/twinleaf-proto) | 0.1.0 | 0 | Shared no_std wire types for the Twinleaf I/O protocol |
+| 2026-11-06 20:07:29 | [twinleaf-device](https://crates.io/crates/twinleaf-device) | 0.1.0 | 0 | Device-side behavior for the Twinleaf I/O protocol, without an executor |
+| 2026-11-06 20:08:19 | [toshokan](https://crates.io/crates/toshokan) | 0.1.0 | 0 | Keep tags and edit history beside the files they describe, in a folder that syn… |
 
 ## Data source
 

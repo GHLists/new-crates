@@ -1,0 +1,19 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-06T19:21:48.788067Z,soupdb-driver,0.2.0,0,0,https://github.com/BD2-Project/rsoup,Driver Rust para SoupDB (gestor de base de datos multimodal)
+2026-11-06T19:23:48.996245Z,mln-rs,0.0.8,0,0,https://github.com/louwers/maplibre-native-next,A Rust port of the MapLibre Native map rendering core
+2026-11-06T19:24:21.600654Z,lemmajet,0.0.1,0,0,https://github.com/lemmajet/lemmajet,"Ultra-fast, zero-dependency precompiled stemmers and morphological lemmatizers."
+2026-11-06T19:24:48.828074Z,hexga_event_loop,0.0.12-beta.1,0,0,https://github.com/Thomas-Mewily/hexga,winit crate wrapper to handle the event loop
+2026-11-06T19:27:34.457146Z,qsl-macros-impl,0.1.0,0,0,https://github.com/zadr0/QSL,Procedural attributes re-exported by the qsl binary schema crate.
+2026-11-06T19:30:30.688166Z,qsl,0.1.1,0,0,https://github.com/zadr0/QSL,Schema-driven binary serialization and Rust code generation for explicit data layouts.
+2026-11-06T19:33:22.134663Z,droidtape,0.0.1,0,0,https://github.com/Lemiti/droidtape,"Record, replay, and regression-test AI agents that operate Android devices (pre-alpha)"
+2026-11-06T19:33:32.22479Z,playdoobs,0.2.0,0,0,https://codeberg.org/qtea/playdoobs,Service and matching CLI application for controlling the currently active MPRIS2 player
+2026-11-06T19:40:36.493968Z,ml-dsa-lean,0.1.0,0,0,https://github.com/r-near/ml-dsa-lean,Formally verified ML-DSA (FIPS 204) in Rust: proved in Lean to never panic and to match the standard
+2026-11-06T19:41:31.161027Z,axiolid-exact-arrangement,0.1.0,0,0,https://github.com/axiolid/kernel,"Exact arrangement of straight segments on rational points, with face tracing"
+2026-11-06T19:42:48.768247Z,mln-rs-geometry,0.0.8,0,0,https://github.com/louwers/maplibre-native-next,"Part of mln-rs, a Rust port of the MapLibre Native map rendering core. Depend on mln-rs instead."
+2026-11-06T19:42:54.000527Z,mln-rs-feature,0.0.8,0,0,https://github.com/louwers/maplibre-native-next,"Part of mln-rs, a Rust port of the MapLibre Native map rendering core. Depend on mln-rs instead."
+2026-11-06T19:51:23.86116Z,lacan_shim,5.0.0,0,0,https://github.com/jose-compu/lacan-scan,"Rust helpers for Lacan Scan (walk, regex, escapes). Called from Crisp via extern rust."
+2026-11-06T19:51:32.435153Z,lacan-scan,5.0.0,0,0,https://github.com/jose-compu/lacan-scan,Static AI-safety scanner for Git repositories (CLI: lacan)
+2026-11-06T19:59:15.742904Z,bevy_composable_dragging,0.1.0,0,0,https://github.com/xenacool/bevy_composable_dragging,"Declarative, composable dragging for Bevy, ported from Dragology"
+2026-11-06T20:07:14.107775Z,twinleaf-proto,0.1.0,0,0,https://github.com/twinleaf/twinleaf-rust,Shared no_std wire types for the Twinleaf I/O protocol
+2026-11-06T20:07:29.679571Z,twinleaf-device,0.1.0,0,0,https://github.com/twinleaf/twinleaf-rust,"Device-side behavior for the Twinleaf I/O protocol, without an executor"
+2026-11-06T20:08:19.274284Z,toshokan,0.1.0,0,0,https://github.com/jmoo/drawbar,"Keep tags and edit history beside the files they describe, in a folder that syncs"
