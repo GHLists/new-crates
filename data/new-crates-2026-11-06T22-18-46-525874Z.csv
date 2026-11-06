@@ -1,0 +1,51 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-06T21:24:48.374984Z,sushi-belt,0.1.0,0,0,https://github.com/d-mironov/sushi-belt,"A fixed-capacity ring buffer for embedded Rust, written entirely in safe code"
+2026-11-06T21:26:39.794815Z,xalen-star-anchors,0.7.0,0,0,https://github.com/vedika-io/xalen-ephemeris,"Commercial-OK reference star anchors (single factual J2000 coordinates) for sidereal ayanamsa computation — Apache-2.0, no third-party catalogue compilation"
+2026-11-06T21:27:31.916026Z,windows-dxgi,0.0.0,0,0,https://github.com/microsoft/windows-rs,Windows library
+2026-11-06T21:31:27.737584Z,avrox,1.4.1,0,0,https://github.com/Kostassoid/avrox,Code generator for Avro schemas.
+2026-11-06T21:31:44.890988Z,avrox-cli,1.4.1,0,0,https://github.com/Kostassoid/avrox,Command line tool for generating code from Avro schemas.
+2026-11-06T21:33:58.865053Z,base-benchmark,0.1.0,0,0,https://github.com/base-rs/base-benchmark,Bake-independent benchmark measurement and experiment tooling for Base projects
+2026-11-06T21:34:23.730291Z,xalen-cloud,0.7.0,0,0,https://github.com/vedika-io/xalen-ephemeris,Local-first interpretation shim for XALEN Ephemeris: the chart is computed entirely on-device; only the (optional) interpretation step is delegated to a pluggable provider
+2026-11-06T21:39:52.162348Z,bake-benchmark,0.1.0,0,0,https://github.com/base-rs/bake-benchmark,Thin Bake integration for the shared Base benchmark tooling
+2026-11-06T21:41:55.895086Z,cratestack-websocket,0.18.0,0,0,https://github.com/cratestack/cratestack,"Rust-native schema-first framework for typed HTTP APIs, generated clients, and backend services."
+2026-11-06T21:49:46.465365Z,micup,0.1.0,0,0,https://github.com/fin4j1881-blip/micup-rs,"Micup.gg / Fluxer botları için resmi olmayan, Micup API ve CDN uyumlu Rust kütüphanesi"
+2026-11-06T21:53:07.450869Z,dash-params,0.1.0-beta,0,0,https://github.com/dashpay/base-sdk,Network parameters for the Dash Base SDK
+2026-11-06T21:55:03.939604Z,zerodds-derive,1.0.0-rc.7.2,0,0,https://github.com/zero-objects/zero-dds,"derive(DdsType) and derive(WireRepr) for zerodds-codec: a DDS topic type, or a checked newtype over an IDL primitive, defined in Rust."
+2026-11-06T21:56:08.300035Z,zerodds-codec,1.0.0-rc.7.2,0,0,https://github.com/zero-objects/zero-dds,"DDS topic types defined in Rust: derive(DdsType) and derive(WireRepr), the codec they drive, and the IDL a C or C++ peer is built from."
+2026-11-06T21:56:33.22129Z,mln-rs-earcut-test-fixtures,0.0.9,0,0,https://github.com/louwers/maplibre-native-next,"Part of mln-rs, a Rust port of the MapLibre Native map rendering core. Depend on mln-rs instead."
+2026-11-06T21:56:34.992804Z,mln-rs-pixelmatch,0.0.9,0,0,https://github.com/louwers/maplibre-native-next,"Part of mln-rs, a Rust port of the MapLibre Native map rendering core. Depend on mln-rs instead."
+2026-11-06T21:56:39.53952Z,mln-rs-cheap-ruler,0.0.9,0,0,https://github.com/louwers/maplibre-native-next,"Part of mln-rs, a Rust port of the MapLibre Native map rendering core. Depend on mln-rs instead."
+2026-11-06T21:56:41.008785Z,mln-rs-style-codegen,0.0.9,0,0,https://github.com/louwers/maplibre-native-next,"Part of mln-rs, a Rust port of the MapLibre Native map rendering core. Depend on mln-rs instead."
+2026-11-06T21:59:11.67211Z,oxabl_build,0.2.0,0,0,https://github.com/oxabl-project/oxabl/crates/oxabl_build,"The oxabl build tool: graph store, incremental refresh, planner, AVM worker pool and worker protocol"
+2026-11-06T21:59:12.945535Z,oxabl_build_remote,0.2.0,0,0,https://github.com/oxabl-project/oxabl/crates/oxabl_build_remote,The remote cache of oxabl build: an ArtifactCache over the oxabl-cache client
+2026-11-06T21:59:34.057682Z,tinysph,0.1.0,0,0,https://github.com/varnholt/tinysph,"Weakly compressible SPH fluid simulation: colliders, force fields, emitters, surface tension, adaptive time steps. Multithreaded on the CPU, optional wgpu GPU backend, no dependencies by default, no…"
+2026-11-06T22:00:17.242605Z,mirage-awgtun,0.12.0,0,0,https://github.com/AYastrebov/awgtun,"AmneziaWG 2.0/3.0/3.1 and WireGuard in Rust, without a network or tunnel stack. crates.io republish of AYastrebov/awgtun v0.12.0 (fork of cloudflare/boringtun)."
+2026-11-06T22:00:26.375652Z,structuredmerge-core,0.2.1,0,0,https://github.com/structuredmerge/structuredmerge,Typed facade for the StructuredMerge kernel
+2026-11-06T22:00:40.844788Z,generic-merge,0.2.1,0,0,https://github.com/structuredmerge/structuredmerge,Conservative generic normalized-tree merge provider for Structured Merge
+2026-11-06T22:00:45.321083Z,rbs-merge,0.2.1,0,0,https://github.com/structuredmerge/structuredmerge,RBS merge helpers for Structured Merge
+2026-11-06T22:00:53.335779Z,smorg,0.2.1,0,0,https://github.com/structuredmerge/structuredmerge,StructuredMerge kernel command-line interface
+2026-11-06T22:01:25.18825Z,mirage-ids,0.1.0,0,0,https://github.com/knyaz-tishini/mirage-oss,Strongly typed identifiers for the Mirage stack. No I/O.
+2026-11-06T22:01:31.93105Z,mirage-blindtoken,0.1.1,0,0,https://github.com/knyaz-tishini/mirage-oss,RFC 9474 RSA blind signature token issuance primitive (RSABSSA-SHA384-PSS-Randomized)
+2026-11-06T22:01:37.257442Z,mirage-ringmember,0.1.0,0,0,https://github.com/knyaz-tishini/mirage-oss,"Merkle ring-membership credential (scheme 0x04): keygen, Merkle tree, DLEQ nullifier, wire encode/decode"
+2026-11-06T22:01:45.179674Z,mirage-mux,0.1.0,0,0,https://github.com/knyaz-tishini/mirage-oss,"Stream mux over one connection: frames, windows, and sessions."
+2026-11-06T22:01:55.015881Z,qsl-lexer,0.1.0,0,0,https://github.com/zadr0/QSL,"QSL schema lexer, parser and deterministic build-time analysis."
+2026-11-06T22:03:04.963151Z,qsl-interpreter,0.1.0,0,0,https://github.com/zadr0/QSL,Rust code generation and build-script integration for QSL schemas.
+2026-11-06T22:03:28.312216Z,jwz,0.1.0,0,0,https://github.com/gematik/zero-lab,"JOSE (JWS, JWE, JWK, JWT) with an open algorithm registry, pluggable keys and crypto backends, and validation profiles"
+2026-11-06T22:06:01.332663Z,oth_emojies,0.1.0,0,0,https://codeberg.org/okieoth/aacw_stuff/src/branch/main/oth_emojies,Provide some emojies based on given keywords
+2026-11-06T22:07:12.711016Z,mln-rs-render-test,0.0.9,0,0,https://github.com/louwers/maplibre-native-next,"Part of mln-rs, a Rust port of the MapLibre Native map rendering core. Depend on mln-rs instead."
+2026-11-06T22:07:58.585161Z,pgzest-ast,0.1.0,0,0,https://github.com/Creatiwity/pgzest,"pgzest internals: PostgreSQL syntax tree, spans and SQL emission"
+2026-11-06T22:07:59.245443Z,pgzest-diagnostics,0.1.0,0,0,https://github.com/Creatiwity/pgzest,"pgzest internals: diagnostics, codes and suppression directives"
+2026-11-06T22:07:59.66682Z,pgzest-runtime,0.1.0,0,0,https://github.com/Creatiwity/pgzest,Runs pgzest-generated PostgreSQL queries on tokio-postgres
+2026-11-06T22:08:00.400974Z,pgzest-lint,0.1.0,0,0,https://github.com/Creatiwity/pgzest,"pgzest internals: style, performance and migration-safety lint rules"
+2026-11-06T22:08:00.796714Z,pgzest-parser,0.1.0,0,0,https://github.com/Creatiwity/pgzest,"pgzest internals: PostgreSQL and PL/pgSQL parser, on top of sqlparser"
+2026-11-06T22:08:59.493828Z,mirage-hostsec,0.1.0,0,0,https://github.com/knyaz-tishini/mirage-oss,"Host-security recipes: process hardening, nftables policy, and posture probes."
+2026-11-06T22:09:02.250398Z,hyperblobs,0.1.1,0,0,https://github.com/cowlicks/hyperblobs,Peer to Peer blob store built on Hypercore
+2026-11-06T22:10:42.042296Z,k8s-quantity,0.5.0,0,0,https://github.com/rkubectl/k8s-device-plugin-rs,Exact Kubernetes resource quantities with SI units and numeric equality
+2026-11-06T22:10:59.226192Z,mimlys-core,0.7.1,0,0,https://github.com/nabbisen/mimlys,"mimlys core: task state machine, decision schema, validation, grants, effects, approvals, context assembly, recovery logic, and the adapter SPI."
+2026-11-06T22:11:01.898838Z,mimlys-exec,0.7.1,0,0,https://github.com/nabbisen/mimlys,"mimlys execution: worker protocol and entry point, Wasmtime sandbox, operating-system confinement backends, host tools."
+2026-11-06T22:11:02.987773Z,mimlys-mcp,0.7.1,0,0,https://github.com/nabbisen/mimlys,"mimlys MCP client adapter: stdio servers, discovery and pinning, effect declarations, destination validation."
+2026-11-06T22:11:03.867082Z,mimlys-model,0.7.1,0,0,https://github.com/nabbisen/mimlys,mimlys model backends: OpenAI-compatible HTTP adapter and the fake backend used in tests and replay.
+2026-11-06T22:11:04.872056Z,mimlys-persist,0.7.1,0,0,https://github.com/nabbisen/mimlys,mimlys persistence: SQLite store and content-addressed snapshot store.
+2026-11-06T22:12:20.896435Z,mimlys,0.7.1,0,0,https://github.com/nabbisen/mimlys,mimlys command line and runtime host.
+2026-11-06T22:13:06.912686Z,iron-shell,14.0.0,0,0,https://github.com/nervosys/IronShell,The world's first multi-agent shell with typed functional pipelines and multi-modal AI
+2026-11-06T22:16:05.823825Z,mirage-core,0.1.0,0,0,https://github.com/knyaz-tishini/mirage-oss,"Shared types for a Mirage node: wire plane, mesh plane, and listener config."
