@@ -8,41 +8,79 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-06 13:19 UTC
+## Latest list — 2026-11-06 14:18 UTC
 
-New crates published between 2026-11-06 12:18 UTC and 2026-11-06 13:19 UTC.
+New crates published between 2026-11-06 13:19 UTC and 2026-11-06 14:18 UTC.
 
-[Full CSV](data/new-crates-2026-11-06T13-19-21-481007Z.csv)
+[Full CSV](data/new-crates-2026-11-06T14-18-55-706237Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-06 12:25:37 | [primase-trackmania](https://crates.io/crates/primase-trackmania) | 0.1.0 | 0 | TrackMania Nations Forever over the GameBox reader: a map's blocks placed from… |
-| 2026-11-06 12:28:25 | [mojibake-sys](https://crates.io/crates/mojibake-sys) | 0.5.1 | 0 | Raw FFI bindings to the Mojibake Unicode library |
-| 2026-11-06 12:33:18 | [orbite](https://crates.io/crates/orbite) | 0.1.0-alpha.1 | 0 | OrbiTE: a Rust-native transfer engine for AI infrastructure (early development) |
-| 2026-11-06 12:35:37 | [primase-blender](https://crates.io/crates/primase-blender) | 0.1.0 | 0 | Blender (Cycles): a world written as a scene whose materials are live shader no… |
-| 2026-11-06 12:38:45 | [mojibake-rs](https://crates.io/crates/mojibake-rs) | 0.5.1 | 0 | Safe Rust API for the Mojibake Unicode library |
-| 2026-11-06 12:42:29 | [pegada](https://crates.io/crates/pegada) | 0.1.1 | 0 | Pegada — the footprint a lifecycle leaves where it stood, and the typed proof t… |
-| 2026-11-06 12:45:38 | [primase-reskate](https://crates.io/crates/primase-reskate) | 0.1.0 | 0 | ReSkate (skate.): the skate.* dialect, its preparation passes, the skate-scene… |
-| 2026-11-06 12:47:37 | [sc-cron-commands](https://crates.io/crates/sc-cron-commands) | 0.2.0 | 0 | Optional versioned cron command DTOs and injectable execution contracts. |
-| 2026-11-06 12:49:08 | [chunkgen](https://crates.io/crates/chunkgen) | 0.2.0 | 0 | Minecraft world generation library |
-| 2026-11-06 12:53:26 | [einfile-crc](https://crates.io/crates/einfile-crc) | 0.1.0 | 0 | zlib CRC-32 over bytes and 8-byte cells: slicing-by-8 tables everywhere, the CP… |
-| 2026-11-06 12:53:32 | [einfile-image](https://crates.io/crates/einfile-image) | 0.1.0 | 0 | The einfile pointer-free image format: 8-byte cells, two superblocks, the PartT… |
-| 2026-11-06 12:53:41 | [einfile-kv](https://crates.io/crates/einfile-kv) | 0.1.0 | 0 | The einfile KV layout over an einfile image: v1/v2 compacted roots, the v3 delt… |
-| 2026-11-06 12:53:45 | [vix-acp](https://crates.io/crates/vix-acp) | 2.0.0 | 0 | An Agent Client Protocol (ACP) client for Vix (T635) |
-| 2026-11-06 12:53:53 | [einfile-log](https://crates.io/crates/einfile-log) | 0.1.0 | 0 | The einfile chained event log over an einfile image: EvLog v1/v2 records, the c… |
-| 2026-11-06 12:53:54 | [vix-cowork](https://crates.io/crates/vix-cowork) | 2.0.0 | 0 | Pure real-time collaboration core: a CRDT text document, peers, presence, permi… |
-| 2026-11-06 12:53:56 | [vix-encoding](https://crates.io/crates/vix-encoding) | 2.0.0 | 0 | Text-file encodings: detect a file's encoding and BOM, decode it to text, and e… |
-| 2026-11-06 12:53:59 | [vix-im](https://crates.io/crates/vix-im) | 2.0.0 | 0 | The pure core of Vix's IM menu: conversations, messages, presence, mentions, un… |
-| 2026-11-06 12:54:01 | [vix-jupyter-core](https://crates.io/crates/vix-jupyter-core) | 2.0.0 | 0 | Pure Jupyter kernel protocol core: signed wire codec, typed messages, connectio… |
-| 2026-11-06 12:54:05 | [einfile-io](https://crates.io/crates/einfile-io) | 0.1.0 | 0 | How einfile images reach a device: the Device trait, the commit plan, the Write… |
-| 2026-11-06 12:55:38 | [primase-shaunwhite](https://crates.io/crates/primase-shaunwhite) | 0.1.0 | 0 | Shaun White Skateboarding's PC textures and collision shapes |
-| 2026-11-06 12:58:00 | [cumulus-primitives-spec-messaging](https://crates.io/crates/cumulus-primitives-spec-messaging) | 0.0.0 | 0 | Reserved by Parity while we work on an official release |
-| 2026-11-06 12:58:05 | [axa-keycloak](https://crates.io/crates/axa-keycloak) | 0.1.0 | 0 | Keycloak bearer authentication and ABAC enforcement for Axum services. |
-| 2026-11-06 13:04:57 | [axa-opentelemetry](https://crates.io/crates/axa-opentelemetry) | 0.1.0 | 0 | OTLP export of traces and request metrics for Axum services. |
-| 2026-11-06 13:05:38 | [primase-unity](https://crates.io/crates/primase-unity) | 0.1.0 | 0 | Unity players' data files (SerializedFile, type trees, streamed resources) read… |
-| 2026-11-06 13:08:10 | [einstore](https://crates.io/crates/einstore) | 0.1.0 | 0 | An embedded key-value store and signed event log in one file: damage refused by… |
-| 2026-11-06 13:11:03 | [bynk-model](https://crates.io/crates/bynk-model) | 0.510.25 | 0 | The Bynk system model: the resolved, declaration-level description of a program… |
-| 2026-11-06 13:15:37 | [primase-peak](https://crates.io/crates/primase-peak) | 0.1.0 | 0 | PEAK over the Unity reader: what its own scripts hand every shader (its fog tex… |
+| 2026-11-06 13:19:43 | [einfile-sig-mldsa](https://crates.io/crates/einfile-sig-mldsa) | 0.1.0 | 0 | ML-DSA-65 behind einfile-log's Signer and Verifier: external pure FIPS 204 with… |
+| 2026-11-06 13:20:24 | [axa-tracing](https://crates.io/crates/axa-tracing) | 0.1.0 | 0 | Redaction, request tracking, and asynchronous diagnostics over tracing for Axum… |
+| 2026-11-06 13:21:14 | [skif-core](https://crates.io/crates/skif-core) | 0.0.0 | 0 | Name reservation for skif, a dependency linter for JavaScript and TypeScript mo… |
+| 2026-11-06 13:21:56 | [skif-specifier](https://crates.io/crates/skif-specifier) | 0.0.0 | 0 | Name reservation for skif, a dependency linter for JavaScript and TypeScript mo… |
+| 2026-11-06 13:21:59 | [skif-config](https://crates.io/crates/skif-config) | 0.0.0 | 0 | Name reservation for skif, a dependency linter for JavaScript and TypeScript mo… |
+| 2026-11-06 13:22:04 | [skif-edit](https://crates.io/crates/skif-edit) | 0.0.0 | 0 | Name reservation for skif, a dependency linter for JavaScript and TypeScript mo… |
+| 2026-11-06 13:22:06 | [skif-workspace](https://crates.io/crates/skif-workspace) | 0.0.0 | 0 | Name reservation for skif, a dependency linter for JavaScript and TypeScript mo… |
+| 2026-11-06 13:23:35 | [yonder-server](https://crates.io/crates/yonder-server) | 1.0.1 | 0 | A Mastodon-compatible ActivityPub server in Rust |
+| 2026-11-06 13:25:37 | [primase-skatebird](https://crates.io/crates/primase-skatebird) | 0.1.0 | 0 | SkateBIRD over the Unity reader: what its own scripts say (reset points, missio… |
+| 2026-11-06 13:28:04 | [macrobat](https://crates.io/crates/macrobat) | 0.9.3 | 0 | A DSL for writing legible single-arm declartive macros. |
+| 2026-11-06 13:28:41 | [vix-oci](https://crates.io/crates/vix-oci) | 2.0.0 | 0 | Drive an OCI container engine (Docker, Podman, nerdctl) through its CLI: engine… |
+| 2026-11-06 13:29:44 | [dduroc-format](https://crates.io/crates/dduroc-format) | 0.1.0 | 0 | The dduroc on-disk byte format: segments, blocks, records |
+| 2026-11-06 13:29:47 | [dduroc-macros](https://crates.io/crates/dduroc-macros) | 0.1.0 | 0 | The dduroc schema declaration macro |
+| 2026-11-06 13:29:53 | [dduroc-engine](https://crates.io/crates/dduroc-engine) | 0.1.0 | 0 | Compact event storage on Raft Engine: durability, namespace quotas, retention a… |
+| 2026-11-06 13:29:56 | [dduroc-read](https://crates.io/crates/dduroc-read) | 0.1.0 | 0 | Reading a dduroc store: selection, merging streams, resolving the schema |
+| 2026-11-06 13:30:00 | [dduroc](https://crates.io/crates/dduroc) | 0.1.0 | 0 | A logging and telemetry system for embedded Linux |
+| 2026-11-06 13:30:13 | [skif-lint](https://crates.io/crates/skif-lint) | 0.0.0 | 0 | Name reservation for skif, a dependency linter for JavaScript and TypeScript mo… |
+| 2026-11-06 13:30:56 | [einfile-sync](https://crates.io/crates/einfile-sync) | 0.1.0 | 0 | One sync session between two copies of a signed file: bytes in, bytes out. No I… |
+| 2026-11-06 13:34:14 | [vix-project-env](https://crates.io/crates/vix-project-env) | 2.0.0 | 0 | Resolves a workspace's development environment once, and applies it to the lang… |
+| 2026-11-06 13:35:47 | [capnp-compiler](https://crates.io/crates/capnp-compiler) | 0.1.1 | 0 | A Cap'n Proto schema compiler in pure Rust: parses .capnp files and produces th… |
+| 2026-11-06 13:42:59 | [skif-report](https://crates.io/crates/skif-report) | 0.0.0 | 0 | Name reservation for skif, a dependency linter for JavaScript and TypeScript mo… |
+| 2026-11-06 13:46:08 | [vix-choice-list](https://crates.io/crates/vix-choice-list) | 2.0.0 | 0 | A small titled list of rows with a selection, for overlays that let you pick on… |
+| 2026-11-06 13:46:18 | [pstsmith](https://crates.io/crates/pstsmith) | 0.1.0 | 0 | Read, create and append PST files in pure Rust, without Outlook |
+| 2026-11-06 13:47:01 | [mln-rs-csscolorparser](https://crates.io/crates/mln-rs-csscolorparser) | 0.0.7 | 0 | Part of mln-rs, a Rust port of the MapLibre Native map rendering core. Depend o… |
+| 2026-11-06 13:47:01 | [mln-rs-libstdcxx](https://crates.io/crates/mln-rs-libstdcxx) | 0.0.7 | 0 | Part of mln-rs, a Rust port of the MapLibre Native map rendering core. Depend o… |
+| 2026-11-06 13:47:02 | [mln-rs-maplibre-native-base](https://crates.io/crates/mln-rs-maplibre-native-base) | 0.0.7 | 0 | Part of mln-rs, a Rust port of the MapLibre Native map rendering core. Depend o… |
+| 2026-11-06 13:47:02 | [mln-rs-math](https://crates.io/crates/mln-rs-math) | 0.0.7 | 0 | Part of mln-rs, a Rust port of the MapLibre Native map rendering core. Depend o… |
+| 2026-11-06 13:47:03 | [mln-rs-nunicode](https://crates.io/crates/mln-rs-nunicode) | 0.0.7 | 0 | Part of mln-rs, a Rust port of the MapLibre Native map rendering core. Depend o… |
+| 2026-11-06 13:47:27 | [pstsmith-cli](https://crates.io/crates/pstsmith-cli) | 0.1.0 | 0 | Convert mail to PST files: the pstsmith command line |
+| 2026-11-06 13:47:29 | [game-toolkit-compute](https://crates.io/crates/game-toolkit-compute) | 0.11.0 | 0 | GPU compute helpers for game-toolkit: ping-pong storage buffers, WGSL kernels,… |
+| 2026-11-06 13:48:05 | [simscale-cadlib](https://crates.io/crates/simscale-cadlib) | 1.0.0 | 0 | Rust bindings for the SimScale cadlib native library |
+| 2026-11-06 13:51:05 | [skif-js-syntax](https://crates.io/crates/skif-js-syntax) | 0.0.0 | 0 | Name reservation for skif, a dependency linter for JavaScript and TypeScript mo… |
+| 2026-11-06 13:51:51 | [minbas78](https://crates.io/crates/minbas78) | 0.0.1 | 0 | Minimal BASIC 1978 Compiler |
+| 2026-11-06 13:52:14 | [aktujo-core](https://crates.io/crates/aktujo-core) | 0.3.0 | 0 | The domain of aktujo: names, titles and labels of spaces and documents, without… |
+| 2026-11-06 13:52:15 | [aktujo-doc](https://crates.io/crates/aktujo-doc) | 0.3.0 | 0 | Documents on the aktujo core: versions, kinds as data, fields suggested and con… |
+| 2026-11-06 13:52:15 | [aktujo-scan](https://crates.io/crates/aktujo-scan) | 0.3.0 | 0 | Improving scanned pages and photos – rotate, crop, deskew, greyscale, black and… |
+| 2026-11-06 13:52:18 | [aktujo-extract](https://crates.io/crates/aktujo-extract) | 0.3.0 | 0 | Text with its position from PDFs and images – text layer and OCR behind one tra… |
+| 2026-11-06 13:52:20 | [aktujo-rules](https://crates.io/crates/aktujo-rules) | 0.3.0 | 0 | The kind and the fields of a document from its text, as suggestions – from kind… |
+| 2026-11-06 13:54:24 | [mini-python-rs](https://crates.io/crates/mini-python-rs) | 0.1.0 | 0 | Embed the MiniPython interpreter and register Rust native modules |
+| 2026-11-06 13:57:16 | [mln-rs-earcut](https://crates.io/crates/mln-rs-earcut) | 0.0.7 | 0 | Part of mln-rs, a Rust port of the MapLibre Native map rendering core. Depend o… |
+| 2026-11-06 14:00:23 | [codestrand](https://crates.io/crates/codestrand) | 0.1.0 | 0 | A Git history visualiser with restrained 3D depth and animated diffs |
+| 2026-11-06 14:01:13 | [skif-js-plugins](https://crates.io/crates/skif-js-plugins) | 0.0.0 | 0 | Name reservation for skif, a dependency linter for JavaScript and TypeScript mo… |
+| 2026-11-06 14:02:33 | [snapfire_i18n](https://crates.io/crates/snapfire_i18n) | 0.1.0 | 0 | Currency, percent and relative-time formatting from CLDR data, with no dependen… |
+| 2026-11-06 14:02:35 | [vix-cowork-net](https://crates.io/crates/vix-cowork-net) | 2.0.0 | 0 | Encrypted, authenticated TCP transport for Vix Cowork: Noise handshake, invite… |
+| 2026-11-06 14:02:35 | [snapfire_lint](https://crates.io/crates/snapfire_lint) | 0.1.0 | 0 | Lint TypeScript and JavaScript with ESLint's rules and ESLint's configuration s… |
+| 2026-11-06 14:04:00 | [re-cordis-core](https://crates.io/crates/re-cordis-core) | 0.1.0-alpha.1 | 0 | Local plugin lifecycle, scoped effects, typed events, and diagnostics for Cordis |
+| 2026-11-06 14:07:29 | [mln-rs-kdbush](https://crates.io/crates/mln-rs-kdbush) | 0.0.7 | 0 | Part of mln-rs, a Rust port of the MapLibre Native map rendering core. Depend o… |
+| 2026-11-06 14:08:01 | [snapfire_fsr_lint](https://crates.io/crates/snapfire_fsr_lint) | 0.1.0 | 0 | FSR's own lint rules and base levels for snapfire_lint, which fsr lint runs. |
+| 2026-11-06 14:08:55 | [vix-hl7](https://crates.io/crates/vix-hl7) | 2.0.0 | 0 | HL7 v2 (ER7, pipe-and-hat) message parser, viewer model and MLLP framing, with… |
+| 2026-11-06 14:09:22 | [re-cordis-timer](https://crates.io/crates/re-cordis-timer) | 0.1.0-alpha.1 | 0 | Owner-scoped timers (timeout, interval, throttle, debounce) for re-cordis |
+| 2026-11-06 14:09:52 | [re-cordis-logger](https://crates.io/crates/re-cordis-logger) | 0.1.0-alpha.1 | 0 | Scoped console exporters for re-cordis |
+| 2026-11-06 14:10:59 | [re-cordis-loader](https://crates.io/crates/re-cordis-loader) | 0.1.0-alpha.1 | 0 | Typed source-aware plugin trees for re-cordis |
+| 2026-11-06 14:11:20 | [skif-migrate](https://crates.io/crates/skif-migrate) | 0.0.0 | 0 | Name reservation for skif, a dependency linter for JavaScript and TypeScript mo… |
+| 2026-11-06 14:12:09 | [re-cordis-include](https://crates.io/crates/re-cordis-include) | 0.1.0-alpha.1 | 0 | Bounded file-backed configuration and journals for re-cordis |
+| 2026-11-06 14:14:12 | [vix-im-irc](https://crates.io/crates/vix-im-irc) | 2.0.0 | 0 | IRCv3 client for Vix IM: line codec, registration/SASL state machine, UTF-8-saf… |
+| 2026-11-06 14:14:57 | [n5i-app-auth](https://crates.io/crates/n5i-app-auth) | 0.0.0 | 0 | Placeholder for n5i-app-auth, which validates the JWTs the n5i dashboard gives… |
+| 2026-11-06 14:16:47 | [dedup-machines](https://crates.io/crates/dedup-machines) | 0.2.0 | 0 | Bounded exact duplicate claims with generation-checked completion |
+| 2026-11-06 14:17:02 | [ghast-viewer](https://crates.io/crates/ghast-viewer) | 0.2.3 | 0 | Bot screen for ghast bots: a live 3D view of the bot's world in the browser, wi… |
+| 2026-11-06 14:17:04 | [flow-machines](https://crates.io/crates/flow-machines) | 0.2.0 | 0 | Allocation-free capacity credits and hysteretic backpressure decisions |
+| 2026-11-06 14:17:12 | [aktujo-sdk](https://crates.io/crates/aktujo-sdk) | 0.3.0 | 0 | The workspace of aktujo – a person's archive on a device: spaces, documents, ki… |
+| 2026-11-06 14:17:22 | [priority-machines](https://crates.io/crates/priority-machines) | 0.2.0 | 0 | Allocation-free EDF, weighted round robin, and deficit round robin decisions |
+| 2026-11-06 14:17:39 | [feedback-machines](https://crates.io/crates/feedback-machines) | 0.2.0 | 0 | Finite-input PID and hysteresis control primitives |
+| 2026-11-06 14:17:44 | [mln-rs-pmtiles](https://crates.io/crates/mln-rs-pmtiles) | 0.0.7 | 0 | Part of mln-rs, a Rust port of the MapLibre Native map rendering core. Depend o… |
+| 2026-11-06 14:17:58 | [quorum-machines](https://crates.io/crates/quorum-machines) | 0.2.0 | 0 | Bounded distinct-voter quorum decisions |
+| 2026-11-06 14:18:22 | [re-cordis-hmr](https://crates.io/crates/re-cordis-hmr) | 0.1.0-alpha.1 | 0 | Bounded owner-scoped file watching and explicit Cordis reload coordination |
 
 ## Data source
 

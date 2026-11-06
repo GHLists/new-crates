@@ -1,0 +1,66 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-06T13:19:43.919173Z,einfile-sig-mldsa,0.1.0,0,0,https://github.com/SyniakSviatoslav/Einfile,"ML-DSA-65 behind einfile-log's Signer and Verifier: external pure FIPS 204 with the empty context, the signature a sealed einfile image carries."
+2026-11-06T13:20:24.760197Z,axa-tracing,0.1.0,0,0,https://github.com/publicprojects-io/axa/,"Redaction, request tracking, and asynchronous diagnostics over tracing for Axum services."
+2026-11-06T13:21:14.860337Z,skif-core,0.0.0,0,0,https://github.com/Goldziher/skif,"Name reservation for skif, a dependency linter for JavaScript and TypeScript monorepos. Real releases start at 0.1.0."
+2026-11-06T13:21:56.505222Z,skif-specifier,0.0.0,0,0,https://github.com/Goldziher/skif,"Name reservation for skif, a dependency linter for JavaScript and TypeScript monorepos. Real releases start at 0.1.0."
+2026-11-06T13:21:59.762649Z,skif-config,0.0.0,0,0,https://github.com/Goldziher/skif,"Name reservation for skif, a dependency linter for JavaScript and TypeScript monorepos. Real releases start at 0.1.0."
+2026-11-06T13:22:04.237769Z,skif-edit,0.0.0,0,0,https://github.com/Goldziher/skif,"Name reservation for skif, a dependency linter for JavaScript and TypeScript monorepos. Real releases start at 0.1.0."
+2026-11-06T13:22:06.823479Z,skif-workspace,0.0.0,0,0,https://github.com/Goldziher/skif,"Name reservation for skif, a dependency linter for JavaScript and TypeScript monorepos. Real releases start at 0.1.0."
+2026-11-06T13:23:35.157531Z,yonder-server,1.0.1,0,0,https://git.platypush.tech/blacklight/yonder,A Mastodon-compatible ActivityPub server in Rust
+2026-11-06T13:25:37.332446Z,primase-skatebird,0.1.0,0,0,https://github.com/kalmarv/primase,"SkateBIRD over the Unity reader: what its own scripts say (reset points, mission givers)"
+2026-11-06T13:28:04.216882Z,macrobat,0.9.3,0,0,https://github.com/antichrome1/macrobat-rs,A DSL for writing legible single-arm declartive macros.
+2026-11-06T13:28:41.918921Z,vix-oci,2.0.0,0,0,https://github.com/vixide/vix,"Drive an OCI container engine (Docker, Podman, nerdctl) through its CLI: engine detection, argv builders and parsers for containers, images, volumes and networks."
+2026-11-06T13:29:44.520563Z,dduroc-format,0.1.0,0,0,https://github.com/dodeca1337/dduroc,"The dduroc on-disk byte format: segments, blocks, records"
+2026-11-06T13:29:47.123484Z,dduroc-macros,0.1.0,0,0,https://github.com/dodeca1337/dduroc,The dduroc schema declaration macro
+2026-11-06T13:29:53.110263Z,dduroc-engine,0.1.0,0,0,https://github.com/dodeca1337/dduroc,"Compact event storage on Raft Engine: durability, namespace quotas, retention and migrations"
+2026-11-06T13:29:56.70469Z,dduroc-read,0.1.0,0,0,https://github.com/dodeca1337/dduroc,"Reading a dduroc store: selection, merging streams, resolving the schema"
+2026-11-06T13:30:00.897238Z,dduroc,0.1.0,0,0,https://github.com/dodeca1337/dduroc,A logging and telemetry system for embedded Linux
+2026-11-06T13:30:13.114222Z,skif-lint,0.0.0,0,0,https://github.com/Goldziher/skif,"Name reservation for skif, a dependency linter for JavaScript and TypeScript monorepos. Real releases start at 0.1.0."
+2026-11-06T13:30:56.651231Z,einfile-sync,0.1.0,0,0,https://github.com/SyniakSviatoslav/Einfile,"One sync session between two copies of a signed file: bytes in, bytes out. No I/O, no clock, no transport, no external crate. no_std + alloc."
+2026-11-06T13:34:14.893011Z,vix-project-env,2.0.0,0,0,https://github.com/vixide/vix,"Resolves a workspace's development environment once, and applies it to the language servers, tasks and terminal Vix spawns"
+2026-11-06T13:35:47.809745Z,capnp-compiler,0.1.1,0,0,https://github.com/FreeSynergy/fs-capnpc,A Cap'n Proto schema compiler in pure Rust: parses .capnp files and produces the CodeGeneratorRequest used by capnpc
+2026-11-06T13:42:59.248878Z,skif-report,0.0.0,0,0,https://github.com/Goldziher/skif,"Name reservation for skif, a dependency linter for JavaScript and TypeScript monorepos. Real releases start at 0.1.0."
+2026-11-06T13:46:08.984808Z,vix-choice-list,2.0.0,0,0,https://github.com/vixide/vix,"A small titled list of rows with a selection, for overlays that let you pick one line: Local History snapshots, run configurations, a definition peek."
+2026-11-06T13:46:18.838011Z,pstsmith,0.1.0,0,0,https://github.com/baozdemir/pstsmith,"Read, create and append PST files in pure Rust, without Outlook"
+2026-11-06T13:47:01.079166Z,mln-rs-csscolorparser,0.0.7,0,0,https://github.com/louwers/maplibre-native-next,"Part of mln-rs, a Rust port of the MapLibre Native map rendering core. Depend on mln-rs instead."
+2026-11-06T13:47:01.648657Z,mln-rs-libstdcxx,0.0.7,0,0,https://github.com/louwers/maplibre-native-next,"Part of mln-rs, a Rust port of the MapLibre Native map rendering core. Depend on mln-rs instead."
+2026-11-06T13:47:02.017173Z,mln-rs-maplibre-native-base,0.0.7,0,0,https://github.com/louwers/maplibre-native-next,"Part of mln-rs, a Rust port of the MapLibre Native map rendering core. Depend on mln-rs instead."
+2026-11-06T13:47:02.374651Z,mln-rs-math,0.0.7,0,0,https://github.com/louwers/maplibre-native-next,"Part of mln-rs, a Rust port of the MapLibre Native map rendering core. Depend on mln-rs instead."
+2026-11-06T13:47:03.010943Z,mln-rs-nunicode,0.0.7,0,0,https://github.com/louwers/maplibre-native-next,"Part of mln-rs, a Rust port of the MapLibre Native map rendering core. Depend on mln-rs instead."
+2026-11-06T13:47:27.338757Z,pstsmith-cli,0.1.0,0,0,https://github.com/baozdemir/pstsmith,Convert mail to PST files: the pstsmith command line
+2026-11-06T13:47:29.959305Z,game-toolkit-compute,0.11.0,0,0,https://github.com/sunsided/game-toolkit,"GPU compute helpers for game-toolkit: ping-pong storage buffers, WGSL kernels, non-blocking read-back."
+2026-11-06T13:48:05.099114Z,simscale-cadlib,1.0.0,0,0,https://github.com/SimScaleGmbH/simscale-rust-cadlib,Rust bindings for the SimScale cadlib native library
+2026-11-06T13:51:05.117397Z,skif-js-syntax,0.0.0,0,0,https://github.com/Goldziher/skif,"Name reservation for skif, a dependency linter for JavaScript and TypeScript monorepos. Real releases start at 0.1.0."
+2026-11-06T13:51:51.970164Z,minbas78,0.0.1,0,0,https://github.com/minbas78/minbas78,Minimal BASIC 1978 Compiler
+2026-11-06T13:52:14.722588Z,aktujo-core,0.3.0,0,0,https://github.com/aktujo/aktujo,"The domain of aktujo: names, titles and labels of spaces and documents, without I/O"
+2026-11-06T13:52:15.140422Z,aktujo-doc,0.3.0,0,0,https://github.com/aktujo/aktujo,"Documents on the aktujo core: versions, kinds as data, fields suggested and confirmed, labels – as events"
+2026-11-06T13:52:15.725013Z,aktujo-scan,0.3.0,0,0,https://github.com/aktujo/aktujo,"Improving scanned pages and photos – rotate, crop, deskew, greyscale, black and white – and pages into a PDF, for aktujo"
+2026-11-06T13:52:18.321167Z,aktujo-extract,0.3.0,0,0,https://github.com/aktujo/aktujo,"Text with its position from PDFs and images – text layer and OCR behind one trait, for aktujo"
+2026-11-06T13:52:20.674945Z,aktujo-rules,0.3.0,0,0,https://github.com/aktujo/aktujo,"The kind and the fields of a document from its text, as suggestions – from kinds as data, for aktujo"
+2026-11-06T13:54:24.68928Z,mini-python-rs,0.1.0,0,0,https://github.com/xsxz01/mini-python-rs,Embed the MiniPython interpreter and register Rust native modules
+2026-11-06T13:57:16.825516Z,mln-rs-earcut,0.0.7,0,0,https://github.com/louwers/maplibre-native-next,"Part of mln-rs, a Rust port of the MapLibre Native map rendering core. Depend on mln-rs instead."
+2026-11-06T14:00:23.602728Z,codestrand,0.1.0,0,0,https://github.com/owenlamont/codestrand,A Git history visualiser with restrained 3D depth and animated diffs
+2026-11-06T14:01:13.68613Z,skif-js-plugins,0.0.0,0,0,https://github.com/Goldziher/skif,"Name reservation for skif, a dependency linter for JavaScript and TypeScript monorepos. Real releases start at 0.1.0."
+2026-11-06T14:02:33.906469Z,snapfire_i18n,0.1.0,0,0,https://github.com/excsn/snapfire,"Currency, percent and relative-time formatting from CLDR data, with no dependencies"
+2026-11-06T14:02:35.258172Z,vix-cowork-net,2.0.0,0,0,https://github.com/vixide/vix,"Encrypted, authenticated TCP transport for Vix Cowork: Noise handshake, invite tokens, framed messages."
+2026-11-06T14:02:35.614165Z,snapfire_lint,0.1.0,0,0,https://github.com/excsn/snapfire,Lint TypeScript and JavaScript with ESLint's rules and ESLint's configuration shape. No NodeJS required.
+2026-11-06T14:04:00.790252Z,re-cordis-core,0.1.0-alpha.1,0,0,https://github.com/antruongnguyen/re-cordis,"Local plugin lifecycle, scoped effects, typed events, and diagnostics for Cordis"
+2026-11-06T14:07:29.770398Z,mln-rs-kdbush,0.0.7,0,0,https://github.com/louwers/maplibre-native-next,"Part of mln-rs, a Rust port of the MapLibre Native map rendering core. Depend on mln-rs instead."
+2026-11-06T14:08:01.328029Z,snapfire_fsr_lint,0.1.0,0,0,https://github.com/excsn/snapfire,"FSR's own lint rules and base levels for snapfire_lint, which fsr lint runs."
+2026-11-06T14:08:55.283915Z,vix-hl7,2.0.0,0,0,https://github.com/vixide/vix,"HL7 v2 (ER7, pipe-and-hat) message parser, viewer model and MLLP framing, with an optional blocking TCP sender."
+2026-11-06T14:09:22.541174Z,re-cordis-timer,0.1.0-alpha.1,0,0,https://github.com/antruongnguyen/re-cordis,"Owner-scoped timers (timeout, interval, throttle, debounce) for re-cordis"
+2026-11-06T14:09:52.704855Z,re-cordis-logger,0.1.0-alpha.1,0,0,https://github.com/antruongnguyen/re-cordis,Scoped console exporters for re-cordis
+2026-11-06T14:10:59.647595Z,re-cordis-loader,0.1.0-alpha.1,0,0,https://github.com/antruongnguyen/re-cordis,Typed source-aware plugin trees for re-cordis
+2026-11-06T14:11:20.69512Z,skif-migrate,0.0.0,0,0,https://github.com/Goldziher/skif,"Name reservation for skif, a dependency linter for JavaScript and TypeScript monorepos. Real releases start at 0.1.0."
+2026-11-06T14:12:09.083016Z,re-cordis-include,0.1.0-alpha.1,0,0,https://github.com/antruongnguyen/re-cordis,Bounded file-backed configuration and journals for re-cordis
+2026-11-06T14:14:12.724594Z,vix-im-irc,2.0.0,0,0,https://github.com/vixide/vix,"IRCv3 client for Vix IM: line codec, registration/SASL state machine, UTF-8-safe splitting, and an optional TLS connection thread."
+2026-11-06T14:14:57.241535Z,n5i-app-auth,0.0.0,0,0,https://gitlab.com/n5i/backend,"Placeholder for n5i-app-auth, which validates the JWTs the n5i dashboard gives app UIs. The first release follows soon."
+2026-11-06T14:16:47.043361Z,dedup-machines,0.2.0,0,0,,Bounded exact duplicate claims with generation-checked completion
+2026-11-06T14:17:02.215176Z,ghast-viewer,0.2.3,0,0,https://github.com/Crefax/Ghast,"Bot screen for ghast bots: a live 3D view of the bot's world in the browser, with recordings and replays"
+2026-11-06T14:17:04.533818Z,flow-machines,0.2.0,0,0,,Allocation-free capacity credits and hysteretic backpressure decisions
+2026-11-06T14:17:12.55522Z,aktujo-sdk,0.3.0,0,0,https://github.com/aktujo/aktujo,"The workspace of aktujo – a person's archive on a device: spaces, documents, kinds, reading, search, sync, export – the one layer every interface and app uses"
+2026-11-06T14:17:22.00436Z,priority-machines,0.2.0,0,0,,"Allocation-free EDF, weighted round robin, and deficit round robin decisions"
+2026-11-06T14:17:39.772586Z,feedback-machines,0.2.0,0,0,,Finite-input PID and hysteresis control primitives
+2026-11-06T14:17:44.979632Z,mln-rs-pmtiles,0.0.7,0,0,https://github.com/louwers/maplibre-native-next,"Part of mln-rs, a Rust port of the MapLibre Native map rendering core. Depend on mln-rs instead."
+2026-11-06T14:17:58.12834Z,quorum-machines,0.2.0,0,0,,Bounded distinct-voter quorum decisions
+2026-11-06T14:18:22.561395Z,re-cordis-hmr,0.1.0-alpha.1,0,0,https://github.com/antruongnguyen/re-cordis,Bounded owner-scoped file watching and explicit Cordis reload coordination
