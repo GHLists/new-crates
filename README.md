@@ -8,76 +8,73 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-06 15:18 UTC
+## Latest list — 2026-11-06 16:19 UTC
 
-New crates published between 2026-11-06 14:18 UTC and 2026-11-06 15:18 UTC.
+New crates published between 2026-11-06 15:18 UTC and 2026-11-06 16:19 UTC.
 
-[Full CSV](data/new-crates-2026-11-06T15-18-46-123918Z.csv)
+[Full CSV](data/new-crates-2026-11-06T16-19-09-550787Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-06 14:21:28 | [skif-rules](https://crates.io/crates/skif-rules) | 0.0.0 | 0 | Name reservation for skif, a dependency linter for JavaScript and TypeScript mo… |
-| 2026-11-06 14:22:42 | [ymp](https://crates.io/crates/ymp) | 0.0.1 | 0 | 终端音乐播放器：读标签与内嵌封面，用 Kitty 图形协议画真图 · TUI music player for the terminal |
-| 2026-11-06 14:24:10 | [n5i-crds](https://crates.io/crates/n5i-crds) | 0.13.1 | 0 | Open-source server management |
-| 2026-11-06 14:24:30 | [re-cordis-create](https://crates.io/crates/re-cordis-create) | 0.1.0-alpha.1 | 0 | Offline Cargo application scaffolding for re-cordis |
-| 2026-11-06 14:24:49 | [vix-im-panel](https://crates.io/crates/vix-im-panel) | 2.0.0 | 0 | The IM dock panel's state: selected conversation, message list, input line and… |
-| 2026-11-06 14:25:16 | [lease-machines](https://crates.io/crates/lease-machines) | 0.2.0 | 0 | Deterministic single-authority lease transitions and resource fencing decisions |
-| 2026-11-06 14:27:58 | [mln-rs-polylabel](https://crates.io/crates/mln-rs-polylabel) | 0.0.7 | 0 | Part of mln-rs, a Rust port of the MapLibre Native map rendering core. Depend o… |
-| 2026-11-06 14:31:36 | [skif-js](https://crates.io/crates/skif-js) | 0.0.0 | 0 | Name reservation for skif, a dependency linter for JavaScript and TypeScript mo… |
-| 2026-11-06 14:33:42 | [ninot-common](https://crates.io/crates/ninot-common) | 2026.45.2 | 0 | Common utilities for building Ninots: small in-memory fake reproductions of ser… |
-| 2026-11-06 14:35:36 | [deluge-block-device-adapters](https://crates.io/crates/deluge-block-device-adapters) | 0.3.0 | 0 | Block device adapters for byte-level access and partitions: a fork of MabezDev'… |
-| 2026-11-06 14:35:39 | [deluge-panel-protocol](https://crates.io/crates/deluge-panel-protocol) | 0.1.0 | 0 | Deluge host↔device front-panel wire protocol: message types, length-prefixed fr… |
-| 2026-11-06 14:35:39 | [clean_software](https://crates.io/crates/clean_software) | 0.1.0 | 0 | Windows 已安装应用卸载注册表残留清理工具 |
-| 2026-11-06 14:35:50 | [deluge-simulator](https://crates.io/crates/deluge-simulator) | 0.1.0 | 0 | Desktop front-panel simulator for the Synthstrom Deluge: renders the OLED, pads… |
-| 2026-11-06 14:35:51 | [placement-machines](https://crates.io/crates/placement-machines) | 0.2.0 | 0 | Allocation-free deterministic hash placement and replica candidates |
-| 2026-11-06 14:35:52 | [libdeluge-sys](https://crates.io/crates/libdeluge-sys) | 0.1.0 | 0 | Raw FFI bindings to libdeluge, the Deluge Linux userland's hardware library. Li… |
-| 2026-11-06 14:35:54 | [libdeluge](https://crates.io/crates/libdeluge) | 0.1.0 | 0 | Safe Rust interface to the Deluge's Linux userland hardware through libdeluge. |
-| 2026-11-06 14:38:09 | [vix-jupyter](https://crates.io/crates/vix-jupyter) | 2.0.0 | 0 | Jupyter kernel transport: kernelspec discovery, kernel launch with a private co… |
-| 2026-11-06 14:38:11 | [mln-rs-protozero](https://crates.io/crates/mln-rs-protozero) | 0.0.7 | 0 | Part of mln-rs, a Rust port of the MapLibre Native map rendering core. Depend o… |
-| 2026-11-06 14:38:45 | [arm-dsp](https://crates.io/crates/arm-dsp) | 0.1.0 | 0 | Safe wrappers for the 32-bit Arm DSP instructions (SMMUL, QADD, SSAT, VCVT) for… |
-| 2026-11-06 14:41:47 | [plana-i18n](https://crates.io/crates/plana-i18n) | 0.2.0 | 0 | Language enum, BCP 47 detection, and compile-time embedded i18n locale resource… |
-| 2026-11-06 14:41:48 | [skif](https://crates.io/crates/skif) | 0.0.0 | 0 | Name reservation for skif, a dependency linter for JavaScript and TypeScript mo… |
-| 2026-11-06 14:41:52 | [plana-content-loader](https://crates.io/crates/plana-content-loader) | 0.2.0 | 0 | Markdown front-matter helpers plus the build-time bundled governance documents… |
-| 2026-11-06 14:41:55 | [plana-provider-catalog](https://crates.io/crates/plana-provider-catalog) | 0.2.0 | 0 | Compile-time embedded provider entrypoint and model catalog data for the PLANA… |
-| 2026-11-06 14:46:25 | [arbiter-machines](https://crates.io/crates/arbiter-machines) | 0.2.0 | 0 | Bounded ownership, priority inheritance, ceilings, and wait-cycle detection |
-| 2026-11-06 14:46:54 | [swiftide-agents-contrib](https://crates.io/crates/swiftide-agents-contrib) | 0.34.0 | 0 | Contributed tools, context hooks, and executors for Swiftide agents |
-| 2026-11-06 14:48:25 | [mln-rs-rapidjson](https://crates.io/crates/mln-rs-rapidjson) | 0.0.7 | 0 | Part of mln-rs, a Rust port of the MapLibre Native map rendering core. Depend o… |
-| 2026-11-06 14:48:46 | [deluge-fixedpoint](https://crates.io/crates/deluge-fixedpoint) | 0.1.0 | 0 | Type-safe const-generic fixed-point arithmetic (Q31, Q16, …) that saturates, us… |
-| 2026-11-06 14:49:09 | [vix-large-file](https://crates.io/crates/vix-large-file) | 2.0.0 | 0 | The Large File Viewer: a read-only, chunked view of multi-gigabyte files with a… |
-| 2026-11-06 14:49:55 | [skif-cli](https://crates.io/crates/skif-cli) | 0.0.0 | 0 | Name reservation for skif, a dependency linter for JavaScript and TypeScript mo… |
-| 2026-11-06 14:54:13 | [plana-custom-agent](https://crates.io/crates/plana-custom-agent) | 0.2.0 | 0 | Custom agent sessions brought up from manifests and container images |
-| 2026-11-06 14:54:25 | [verkodo-syntax](https://crates.io/crates/verkodo-syntax) | 0.1.0 | 0 | Lexer, parser, syntax tree and formatter of the verkodo language |
-| 2026-11-06 14:54:29 | [verkodo-core](https://crates.io/crates/verkodo-core) | 0.1.0 | 0 | The domain of verkodo without I/O: knowledge graph, checks, versions, translati… |
-| 2026-11-06 14:54:34 | [verkodo-store](https://crates.io/crates/verkodo-store) | 0.1.0 | 0 | Where the data of verkodo lives |
-| 2026-11-06 14:54:38 | [verkodo-lean](https://crates.io/crates/verkodo-lean) | 0.1.0 | 0 | Export of verkodo knowledge to Lean 4, and Lean's verdict, names and goals back… |
-| 2026-11-06 14:54:41 | [hassh64](https://crates.io/crates/hassh64) | 2.0.0 | 0 | hassh64: a fast, seeded, non-cryptographic 64-bit hash (AES-NI / ARMv8 AES / po… |
-| 2026-11-06 14:54:41 | [verkodo-render](https://crates.io/crates/verkodo-render) | 0.1.0 | 0 | Pages of verkodo knowledge: HTML with nested hover, Typst for PDF, Markdown for… |
-| 2026-11-06 14:55:12 | [plana-timeline](https://crates.io/crates/plana-timeline) | 0.2.0 | 0 | Timeline projection and replay over the family state-sync wire |
-| 2026-11-06 14:56:32 | [lidwake](https://crates.io/crates/lidwake) | 0.1.0 | 0 | Wake a sleeping computer with a magic packet (Wake-on-LAN / Wake-on-WLAN), with… |
-| 2026-11-06 14:56:58 | [cache-machines](https://crates.io/crates/cache-machines) | 0.2.0 | 0 | Bounded LRU policy with caller-measured frequency admission |
-| 2026-11-06 14:58:37 | [mln-rs-geojson](https://crates.io/crates/mln-rs-geojson) | 0.0.7 | 0 | Part of mln-rs, a Rust port of the MapLibre Native map rendering core. Depend o… |
-| 2026-11-06 14:58:46 | [deluge-sdk-macros](https://crates.io/crates/deluge-sdk-macros) | 0.1.0 | 0 | Procedural macros for the Deluge SDK (#[deluge::app]). |
-| 2026-11-06 14:59:15 | [branchline](https://crates.io/crates/branchline) | 0.1.0 | 0 | Runtime for clients generated by branchline-build: a resource chain that follow… |
-| 2026-11-06 14:59:16 | [branchline-build](https://crates.io/crates/branchline-build) | 0.1.0 | 0 | Generates a typed resource-chain client from an OpenAPI 3.1 document, in build.… |
-| 2026-11-06 14:59:28 | [mc-bamboo](https://crates.io/crates/mc-bamboo) | 0.0.0 | 0 | A Minecraft server written from scratch in Rust. |
-| 2026-11-06 14:59:58 | [actordb-placement](https://crates.io/crates/actordb-placement) | 0.11.2 | 0 | Portable workload sizing and regional placement planning for ActorDB |
-| 2026-11-06 15:01:44 | [verkodo-app](https://crates.io/crates/verkodo-app) | 0.1.0 | 0 | The workspace of verkodo: every command and query, the one layer the interfaces… |
-| 2026-11-06 15:02:03 | [plana-dev-server](https://crates.io/crates/plana-dev-server) | 0.2.0 | 0 | Embedded development web-ui server for local plana workspaces |
-| 2026-11-06 15:02:25 | [uniform](https://crates.io/crates/uniform) | 0.0.1 | 0 | Transparent shared and exclusive access through nesting of pointers and locks |
-| 2026-11-06 15:03:25 | [nightporter](https://crates.io/crates/nightporter) | 0.1.0 | 0 | Handles your PRs while you're away: an agentic night shift for GitHub and GitLa… |
-| 2026-11-06 15:07:10 | [eventbus-grpc](https://crates.io/crates/eventbus-grpc) | 0.38.0 | 0 | Event bus over gRPC — generated grpcdc.events.v1 publish/subscribe clients over… |
-| 2026-11-06 15:07:12 | [kkamji-ssh-connector](https://crates.io/crates/kkamji-ssh-connector) | 0.4.0 | 0 | Pick a host from your ~/.ssh/config in a table and connect to it with ssh |
-| 2026-11-06 15:07:31 | [snapshot-machines](https://crates.io/crates/snapshot-machines) | 0.2.0 | 0 | Bounded full/incremental checkpoint manifest lifecycle |
-| 2026-11-06 15:08:46 | [max5136](https://crates.io/crates/max5136) | 0.1.0 | 0 | Platform-agnostic embedded-hal driver for the Maxim MAX5136 dual 16-bit SPI DAC. |
-| 2026-11-06 15:08:50 | [mln-rs-conversion](https://crates.io/crates/mln-rs-conversion) | 0.0.7 | 0 | Part of mln-rs, a Rust port of the MapLibre Native map rendering core. Depend o… |
-| 2026-11-06 15:11:21 | [avilex_macros](https://crates.io/crates/avilex_macros) | 0.0.1 | 0 | A helper macros crate for avilex |
-| 2026-11-06 15:11:36 | [verkodo-api](https://crates.io/crates/verkodo-api) | 0.1.0 | 0 | The open API of verkodo: HTTP and JSON, described in OpenAPI, and the web editor |
-| 2026-11-06 15:11:36 | [prjump](https://crates.io/crates/prjump) | 0.3.1 | 0 | Open GitHub/Bitbucket Cloud pull request pages from the CLI |
-| 2026-11-06 15:11:53 | [avilex](https://crates.io/crates/avilex) | 0.0.1 | 0 | A concurrent ECS application framework |
-| 2026-11-06 15:14:01 | [plana-sibling](https://crates.io/crates/plana-sibling) | 0.2.0 | 0 | Declarative sibling-service HTTP client with ordered failover, layered timeouts… |
-| 2026-11-06 15:18:05 | [kkamji-wtree](https://crates.io/crates/kkamji-wtree) | 2.0.0 | 0 | A CLI tool to manage git worktree repositories - fetch, pull, and check status… |
-| 2026-11-06 15:18:06 | [window-machines](https://crates.io/crates/window-machines) | 0.2.0 | 0 | Bounded event-time windows, watermarks, and session merging |
-| 2026-11-06 15:18:45 | [deluge-usb-classes](https://crates.io/crates/deluge-usb-classes) | 0.1.0 | 0 | Board-agnostic embassy-usb device classes (UAC2, USB-MIDI, MSC + Bulk-Only Tran… |
+| 2026-11-06 15:19:04 | [mln-rs-geojson-vt](https://crates.io/crates/mln-rs-geojson-vt) | 0.0.7 | 0 | Part of mln-rs, a Rust port of the MapLibre Native map rendering core. Depend o… |
+| 2026-11-06 15:19:38 | [exs-abi](https://crates.io/crates/exs-abi) | 0.2.0 | 0 | Internal crate of ExS: the value model and boundary format shared by compiler,… |
+| 2026-11-06 15:19:39 | [exs-layout](https://crates.io/crates/exs-layout) | 0.2.0 | 0 | Internal crate of ExS: the memory layout of values in linear memory. Use the ex… |
+| 2026-11-06 15:19:42 | [exs-core](https://crates.io/crates/exs-core) | 0.2.0 | 0 | Internal crate of ExS: the runtime library linked into compiled modules. Use th… |
+| 2026-11-06 15:19:42 | [exs-guest](https://crates.io/crates/exs-guest) | 0.2.0 | 0 | Write ExS extensions in Rust: WebAssembly guests that any ExS runner executes |
+| 2026-11-06 15:19:44 | [exs-core-template](https://crates.io/crates/exs-core-template) | 0.2.0 | 0 | Internal crate of ExS: the prebuilt WebAssembly template of the runtime library… |
+| 2026-11-06 15:20:55 | [exs-compiler](https://crates.io/crates/exs-compiler) | 0.2.0 | 0 | Internal crate of ExS: compiles ExS source to WebAssembly. Use the exs crate; t… |
+| 2026-11-06 15:23:23 | [verkodo-lsp](https://crates.io/crates/verkodo-lsp) | 0.1.0 | 0 | The language server of verkodo: diagnostics, hover with Lean goals, go to defin… |
+| 2026-11-06 15:24:03 | [plana-infra-services](https://crates.io/crates/plana-infra-services) | 0.2.0 | 0 | Container and platform service management for family hosts |
+| 2026-11-06 15:24:40 | [nornir-mimir-schema](https://crates.io/crates/nornir-mimir-schema) | 0.1.0 | 0 | Mímir v2 code-graph contract: the Arrow schemas of code_nodes / code_edges, the… |
+| 2026-11-06 15:25:33 | [cargo-mimir-dump](https://crates.io/crates/cargo-mimir-dump) | 0.1.0 | 0 | Mímir v2 producer: a rustc driver (clippy-driver shape) that dumps the code gra… |
+| 2026-11-06 15:27:09 | [dwarves-lens](https://crates.io/crates/dwarves-lens) | 0.1.1 | 0 | The command-line door of the Mimir lenses: `cargo lens <lens>` (graph-package,… |
+| 2026-11-06 15:28:45 | [batch-machines](https://crates.io/crates/batch-machines) | 0.2.0 | 0 | Bounded size/deadline batching with explicit feedback adaptation |
+| 2026-11-06 15:28:47 | [awspick](https://crates.io/crates/awspick) | 3.0.1 | 0 | Pick an AWS profile from ~/.aws/config and set AWS_PROFILE in your shell |
+| 2026-11-06 15:28:47 | [deluge-bsp](https://crates.io/crates/deluge-bsp) | 0.1.0 | 0 | Board support package for the Synthstrom Deluge (peripherals, PIC, OLED, SD). |
+| 2026-11-06 15:28:50 | [vix-oci-panel](https://crates.io/crates/vix-oci-panel) | 2.0.0 | 0 | The OC menu's list panel: containers, images, volumes, networks and pods with p… |
+| 2026-11-06 15:29:13 | [vix-review](https://crates.io/crates/vix-review) | 2.0.0 | 0 | Review a branch, a commit range, a commit or a stash as one multi-file diff, wi… |
+| 2026-11-06 15:29:18 | [mln-rs-shelf-pack](https://crates.io/crates/mln-rs-shelf-pack) | 0.0.7 | 0 | Part of mln-rs, a Rust port of the MapLibre Native map rendering core. Depend o… |
+| 2026-11-06 15:30:42 | [vix-todo-tree](https://crates.io/crates/vix-todo-tree) | 2.0.0 | 0 | The comment tags in a project (TODO, FIXME, HACK, XXX, BUG, NOTE) gathered into… |
+| 2026-11-06 15:30:45 | [vix-undo-tree-panel](https://crates.io/crates/vix-undo-tree-panel) | 2.0.0 | 0 | Draw a buffer's undo tree as an ASCII graph, preview any state live by moving t… |
+| 2026-11-06 15:31:13 | [exs-autocomplete](https://crates.io/crates/exs-autocomplete) | 0.2.0 | 0 | Internal crate of ExS: completion support for ExS source. Use the exs crate; th… |
+| 2026-11-06 15:31:22 | [tinypsd](https://crates.io/crates/tinypsd) | 0.1.0 | 0 | Photoshop (.psd) loader: layers, groups, unicode names, 8/16/32 bit, RLE and zi… |
+| 2026-11-06 15:32:20 | [plana-bootloader](https://crates.io/crates/plana-bootloader) | 0.2.0 | 0 | Container bring-up and platform service bootstrap for family hosts |
+| 2026-11-06 15:36:11 | [vix-authority](https://crates.io/crates/vix-authority) | 2.0.0 | 0 | The authority slot: one trait that owns Vix's workspace file access and process… |
+| 2026-11-06 15:36:19 | [tc_dstu_macs](https://crates.io/crates/tc_dstu_macs) | 0.1.0 | 0 | The DSTU 7564 (Kupyna) and DSTU 7624 (Kalyna) message authentication codes, no_… |
+| 2026-11-06 15:36:29 | [tc_gost28147_mac](https://crates.io/crates/tc_gost28147_mac) | 0.1.0 | 0 | The GOST 28147-89 message authentication code, no_std and free of unsafe code |
+| 2026-11-06 15:38:48 | [deluge-sdk](https://crates.io/crates/deluge-sdk) | 0.1.0 | 0 | User-friendly SDK for building apps on the Synthstrom Deluge. |
+| 2026-11-06 15:39:21 | [consensus-machines](https://crates.io/crates/consensus-machines) | 0.2.0 | 0 | Bounded fixed-membership Raft terms, votes, log matching, and commitment model |
+| 2026-11-06 15:39:31 | [mln-rs-supercluster](https://crates.io/crates/mln-rs-supercluster) | 0.0.7 | 0 | Part of mln-rs, a Rust port of the MapLibre Native map rendering core. Depend o… |
+| 2026-11-06 15:41:31 | [exs-runner](https://crates.io/crates/exs-runner) | 0.2.0 | 0 | Internal crate of ExS: executes compiled modules with Wasmtime or in a browser.… |
+| 2026-11-06 15:46:24 | [finalytics-plan](https://crates.io/crates/finalytics-plan) | 1.0.0-rc.3 | 0 | Goal planning for Finalytics: Monte Carlo simulations of saving and spending to… |
+| 2026-11-06 15:47:36 | [ymw](https://crates.io/crates/ymw) | 0.0.1 | 0 | 终端里的浏览器：headless Chromium 渲染，画面画进终端 · a terminal web browser driven by headless… |
+| 2026-11-06 15:47:40 | [vix-git-graph](https://crates.io/crates/vix-git-graph) | 2.0.0 | 0 | The interactive Git graph: commit lanes from parent links, ref decorations, pag… |
+| 2026-11-06 15:48:46 | [cargo-deluge](https://crates.io/crates/cargo-deluge) | 0.1.0 | 0 | Cargo subcommand for Deluge SDK apps: scaffold, build, upload over USB, deploy… |
+| 2026-11-06 15:49:45 | [mln-rs-util](https://crates.io/crates/mln-rs-util) | 0.0.7 | 0 | Part of mln-rs, a Rust port of the MapLibre Native map rendering core. Depend o… |
+| 2026-11-06 15:49:57 | [election-machines](https://crates.io/crates/election-machines) | 0.2.0 | 0 | Lease-backed deterministic owner nomination |
+| 2026-11-06 15:50:48 | [cosmic-ext-airlock](https://crates.io/crates/cosmic-ext-airlock) | 0.1.0 | 0 | Workspace-isolated Alt+Tab switcher for the COSMIC desktop |
+| 2026-11-06 15:51:56 | [exs-libs](https://crates.io/crates/exs-libs) | 0.2.0 | 0 | Internal crate of ExS: optional library modules such as json and url, with thei… |
+| 2026-11-06 15:52:18 | [jserde-derive](https://crates.io/crates/jserde-derive) | 0.1.0 | 0 | Derive macros for jserde JavaSerializable bindings |
+| 2026-11-06 15:52:37 | [antiq](https://crates.io/crates/antiq) | 1.0.0 | 0 | Your idle folders, kept like antiques |
+| 2026-11-06 15:53:07 | [jserde](https://crates.io/crates/jserde) | 0.1.0 | 0 | Pure-Rust Java Object Serialization reader/writer compatible with ObjectOutputS… |
+| 2026-11-06 15:53:22 | [jserde-serde](https://crates.io/crates/jserde-serde) | 0.1.0 | 0 | Schema-driven serde bridge for jserde Java serialization |
+| 2026-11-06 15:54:13 | [adaptif-gatotkaca-eventfd](https://crates.io/crates/adaptif-gatotkaca-eventfd) | 0.1.0 | 0 | Cross-platform eventfd with Linux semantics everywhere: the kernel eventfd on L… |
+| 2026-11-06 15:58:11 | [vix-mcp-server](https://crates.io/crates/vix-mcp-server) | 2.0.0 | 0 | Read-only Model Context Protocol server core: JSON-RPC over stdio exposing a wo… |
+| 2026-11-06 15:59:59 | [mln-rs-actor](https://crates.io/crates/mln-rs-actor) | 0.0.7 | 0 | Part of mln-rs, a Rust port of the MapLibre Native map rendering core. Depend o… |
+| 2026-11-06 16:00:18 | [gdtest-runner](https://crates.io/crates/gdtest-runner) | 0.1.0 | 0 | A vitest-like parallel runner for Godot 4 + GUT test suites: a dynamic queue, f… |
+| 2026-11-06 16:00:33 | [fair-machines](https://crates.io/crates/fair-machines) | 0.2.0 | 0 | Tenant-bounded admission composed with deficit round robin |
+| 2026-11-06 16:02:33 | [exs](https://crates.io/crates/exs) | 0.2.0 | 0 | Embeddable extension language: compile ExS scripts to WebAssembly and run them… |
+| 2026-11-06 16:04:11 | [vix-fhir](https://crates.io/crates/vix-fhir) | 2.0.0 | 0 | HL7 FHIR client logic: server profiles, request building, and Bundle and Operat… |
+| 2026-11-06 16:10:07 | [contiguous-tree-macros](https://crates.io/crates/contiguous-tree-macros) | 0.1.0 | 0 | Procedural macros for contiguous-tree |
+| 2026-11-06 16:10:09 | [blitz-chrome-devtools-frontend](https://crates.io/crates/blitz-chrome-devtools-frontend) | 0.1.0 | 0 | A minimal build of the Chrome DevTools frontend, for inspecting Blitz documents |
+| 2026-11-06 16:10:12 | [mln-rs-platform-default-image](https://crates.io/crates/mln-rs-platform-default-image) | 0.0.7 | 0 | Part of mln-rs, a Rust port of the MapLibre Native map rendering core. Depend o… |
+| 2026-11-06 16:10:33 | [contiguous-tree](https://crates.io/crates/contiguous-tree) | 0.1.0 | 0 | Contiguous postorder trees with typed schemas, cursors, and rewriting |
+| 2026-11-06 16:10:57 | [exs-cli](https://crates.io/crates/exs-cli) | 0.2.0 | 0 | Command-line tool of the ExS language: run, test, format and document scripts |
+| 2026-11-06 16:11:02 | [multiline-terminal-input](https://crates.io/crates/multiline-terminal-input) | 0.1.0 | 0 | Utility for input of multiline strings |
+| 2026-11-06 16:11:09 | [pipeline-machines](https://crates.io/crates/pipeline-machines) | 0.2.0 | 0 | Bounded stage dispatch, fanout/join, cancellation, and draining decisions |
+| 2026-11-06 16:11:23 | [pool-machines](https://crates.io/crates/pool-machines) | 0.2.0 | 0 | Bounded resource-slot checkout, recycling, and draining |
+| 2026-11-06 16:14:59 | [ymi](https://crates.io/crates/ymi) | 0.0.1 | 0 | 终端里的无限画布：图片按 1:1 卡片排开，可拖拽缩放 · an endless picture canvas in the terminal |
+| 2026-11-06 16:17:03 | [bin2](https://crates.io/crates/bin2) | 0.1.0 | 0 | Simple binary serialization and deserialization for Rust |
 
 ## Data source
 

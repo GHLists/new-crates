@@ -1,0 +1,60 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-06T15:19:04.089506Z,mln-rs-geojson-vt,0.0.7,0,0,https://github.com/louwers/maplibre-native-next,"Part of mln-rs, a Rust port of the MapLibre Native map rendering core. Depend on mln-rs instead."
+2026-11-06T15:19:38.815098Z,exs-abi,0.2.0,0,0,https://github.com/Exolynk/exs,"Internal crate of ExS: the value model and boundary format shared by compiler, runtime and runners. Use the exs crate; this one has no stability promise"
+2026-11-06T15:19:39.656625Z,exs-layout,0.2.0,0,0,https://github.com/Exolynk/exs,Internal crate of ExS: the memory layout of values in linear memory. Use the exs crate; this one has no stability promise
+2026-11-06T15:19:42.016586Z,exs-core,0.2.0,0,0,https://github.com/Exolynk/exs,Internal crate of ExS: the runtime library linked into compiled modules. Use the exs crate; this one has no stability promise
+2026-11-06T15:19:42.536868Z,exs-guest,0.2.0,0,0,https://github.com/Exolynk/exs,Write ExS extensions in Rust: WebAssembly guests that any ExS runner executes
+2026-11-06T15:19:44.080334Z,exs-core-template,0.2.0,0,0,https://github.com/Exolynk/exs,Internal crate of ExS: the prebuilt WebAssembly template of the runtime library. Use the exs crate; this one has no stability promise
+2026-11-06T15:20:55.871338Z,exs-compiler,0.2.0,0,0,https://github.com/Exolynk/exs,Internal crate of ExS: compiles ExS source to WebAssembly. Use the exs crate; this one has no stability promise
+2026-11-06T15:23:23.391716Z,verkodo-lsp,0.1.0,0,0,https://github.com/verkodo/verkodo,"The language server of verkodo: diagnostics, hover with Lean goals, go to definition, outline, formatting"
+2026-11-06T15:24:03.429019Z,plana-infra-services,0.2.0,0,0,,Container and platform service management for family hosts
+2026-11-06T15:24:40.037184Z,nornir-mimir-schema,0.1.0,0,0,https://git.gunnar.rs/nordisk/nornir,"Mímir v2 code-graph contract: the Arrow schemas of code_nodes / code_edges, the edge-kind vocabulary, and THE SCIP moniker formatter (one writer). Stable Rust, tiny, shared by nornir and the nightly…"
+2026-11-06T15:25:33.331666Z,cargo-mimir-dump,0.1.0,0,0,https://www.gunnar.rs/nordisk/nornir,"Mímir v2 producer: a rustc driver (clippy-driver shape) that dumps the code graph (code_nodes / code_edges, SCIP-moniker ids) as Arrow IPC while `cargo check` runs. NIGHTLY (rustc_private); excluded…"
+2026-11-06T15:27:09.255674Z,dwarves-lens,0.1.1,0,0,https://www.gunnar.rs/nordisk/dwarves,"The command-line door of the Mimir lenses: `cargo lens <lens>` (graph-package, all, gate-bypass, verdict, twins, reflexion, arch-report, ...) over a Mimir v2 dump of any Rust workspace. The lenses ar…"
+2026-11-06T15:28:45.774108Z,batch-machines,0.2.0,0,0,,Bounded size/deadline batching with explicit feedback adaptation
+2026-11-06T15:28:47.148948Z,awspick,3.0.1,0,0,https://github.com/KKamJi98/aws-profile-pick,Pick an AWS profile from ~/.aws/config and set AWS_PROFILE in your shell
+2026-11-06T15:28:47.407471Z,deluge-bsp,0.1.0,0,0,https://github.com/FirestormAudio/deluge-sdk,"Board support package for the Synthstrom Deluge (peripherals, PIC, OLED, SD)."
+2026-11-06T15:28:50.386485Z,vix-oci-panel,2.0.0,0,0,https://github.com/vixide/vix,"The OC menu's list panel: containers, images, volumes, networks and pods with per-row actions, confirm and input modes, built on vix-oci."
+2026-11-06T15:29:13.178834Z,vix-review,2.0.0,0,0,https://github.com/vixide/vix,"Review a branch, a commit range, a commit or a stash as one multi-file diff, with line comments that are saved per repository and exported as Markdown."
+2026-11-06T15:29:18.74643Z,mln-rs-shelf-pack,0.0.7,0,0,https://github.com/louwers/maplibre-native-next,"Part of mln-rs, a Rust port of the MapLibre Native map rendering core. Depend on mln-rs instead."
+2026-11-06T15:30:42.46613Z,vix-todo-tree,2.0.0,0,0,https://github.com/vixide/vix,"The comment tags in a project (TODO, FIXME, HACK, XXX, BUG, NOTE) gathered into a tree you can fold and jump from."
+2026-11-06T15:30:45.763911Z,vix-undo-tree-panel,2.0.0,0,0,https://github.com/vixide/vix,"Draw a buffer's undo tree as an ASCII graph, preview any state live by moving the selection, then keep it (Enter) or go back to where you started (Esc)."
+2026-11-06T15:31:13.311879Z,exs-autocomplete,0.2.0,0,0,https://github.com/Exolynk/exs,Internal crate of ExS: completion support for ExS source. Use the exs crate; this one has no stability promise
+2026-11-06T15:31:22.968016Z,tinypsd,0.1.0,0,0,https://github.com/varnholt/tinypsd,"Photoshop (.psd) loader: layers, groups, unicode names, 8/16/32 bit, RLE and zip, masks, the composite and paths. No dependencies, no unsafe, bounds checked and fuzzed."
+2026-11-06T15:32:20.719084Z,plana-bootloader,0.2.0,0,0,,Container bring-up and platform service bootstrap for family hosts
+2026-11-06T15:36:11.129174Z,vix-authority,2.0.0,0,0,https://github.com/vixide/vix,"The authority slot: one trait that owns Vix's workspace file access and process spawning, with local, SSH and container implementations and a temp-dir-backed fake."
+2026-11-06T15:36:19.442596Z,tc_dstu_macs,0.1.0,0,0,https://github.com/TomiCheng/tc_macs,"The DSTU 7564 (Kupyna) and DSTU 7624 (Kalyna) message authentication codes, no_std and free of unsafe code"
+2026-11-06T15:36:29.422519Z,tc_gost28147_mac,0.1.0,0,0,https://github.com/TomiCheng/tc_macs,"The GOST 28147-89 message authentication code, no_std and free of unsafe code"
+2026-11-06T15:38:48.501974Z,deluge-sdk,0.1.0,0,0,https://github.com/FirestormAudio/deluge-sdk,User-friendly SDK for building apps on the Synthstrom Deluge.
+2026-11-06T15:39:21.69821Z,consensus-machines,0.2.0,0,0,,"Bounded fixed-membership Raft terms, votes, log matching, and commitment model"
+2026-11-06T15:39:31.659189Z,mln-rs-supercluster,0.0.7,0,0,https://github.com/louwers/maplibre-native-next,"Part of mln-rs, a Rust port of the MapLibre Native map rendering core. Depend on mln-rs instead."
+2026-11-06T15:41:31.042453Z,exs-runner,0.2.0,0,0,https://github.com/Exolynk/exs,Internal crate of ExS: executes compiled modules with Wasmtime or in a browser. Use the exs crate; this one has no stability promise
+2026-11-06T15:46:24.919742Z,finalytics-plan,1.0.0-rc.3,0,0,https://github.com/sigmafieldlabs/finalytics,"Goal planning for Finalytics: Monte Carlo simulations of saving and spending towards one goal, with what would change the outcome and stress tests."
+2026-11-06T15:47:36.437484Z,ymw,0.0.1,0,0,https://github.com/masakiyuizzz/ymw,终端里的浏览器：headless Chromium 渲染，画面画进终端 · a terminal web browser driven by headless Chromium
+2026-11-06T15:47:40.639816Z,vix-git-graph,2.0.0,0,0,https://github.com/vixide/vix,"The interactive Git graph: commit lanes from parent links, ref decorations, paged log loading and per-commit actions."
+2026-11-06T15:48:46.095211Z,cargo-deluge,0.1.0,0,0,https://github.com/FirestormAudio/deluge-sdk,"Cargo subcommand for Deluge SDK apps: scaffold, build, upload over USB, deploy to the SD card, run in the simulator, and debug."
+2026-11-06T15:49:45.332912Z,mln-rs-util,0.0.7,0,0,https://github.com/louwers/maplibre-native-next,"Part of mln-rs, a Rust port of the MapLibre Native map rendering core. Depend on mln-rs instead."
+2026-11-06T15:49:57.188473Z,election-machines,0.2.0,0,0,,Lease-backed deterministic owner nomination
+2026-11-06T15:50:48.820259Z,cosmic-ext-airlock,0.1.0,0,0,https://github.com/l1br3-io/cosmic-ext-airlock,Workspace-isolated Alt+Tab switcher for the COSMIC desktop
+2026-11-06T15:51:56.344806Z,exs-libs,0.2.0,0,0,https://github.com/Exolynk/exs,"Internal crate of ExS: optional library modules such as json and url, with their host functions. Use the exs crate; this one has no stability promise"
+2026-11-06T15:52:18.066988Z,jserde-derive,0.1.0,0,0,,Derive macros for jserde JavaSerializable bindings
+2026-11-06T15:52:37.215342Z,antiq,1.0.0,0,0,https://github.com/jakobwesthoff/antiq,"Your idle folders, kept like antiques"
+2026-11-06T15:53:07.19251Z,jserde,0.1.0,0,0,,Pure-Rust Java Object Serialization reader/writer compatible with ObjectOutputStream/ObjectInputStream
+2026-11-06T15:53:22.188517Z,jserde-serde,0.1.0,0,0,,Schema-driven serde bridge for jserde Java serialization
+2026-11-06T15:54:13.043151Z,adaptif-gatotkaca-eventfd,0.1.0,0,0,https://github.com/csatrio/adaptif-gatotkaca-eventfd,"Cross-platform eventfd with Linux semantics everywhere: the kernel eventfd on Linux and the BSDs, a faithful shim on macOS and Windows, shareable across processes, with a C ABI matching <sys/eventfd.…"
+2026-11-06T15:58:11.997931Z,vix-mcp-server,2.0.0,0,0,https://github.com/vixide/vix,"Read-only Model Context Protocol server core: JSON-RPC over stdio exposing a workspace's open buffers, symbols, outline, offline diagnostics and SQLite schema"
+2026-11-06T15:59:59.195412Z,mln-rs-actor,0.0.7,0,0,https://github.com/louwers/maplibre-native-next,"Part of mln-rs, a Rust port of the MapLibre Native map rendering core. Depend on mln-rs instead."
+2026-11-06T16:00:18.606337Z,gdtest-runner,0.1.0,0,0,https://github.com/thiagossdev/gdtest-runner,"A vitest-like parallel runner for Godot 4 + GUT test suites: a dynamic queue, fresh headless Godot workers, a live TUI and a verdict per script"
+2026-11-06T16:00:33.133518Z,fair-machines,0.2.0,0,0,,Tenant-bounded admission composed with deficit round robin
+2026-11-06T16:02:33.075916Z,exs,0.2.0,0,0,https://github.com/Exolynk/exs,Embeddable extension language: compile ExS scripts to WebAssembly and run them safely on a server or in the browser
+2026-11-06T16:04:11.865606Z,vix-fhir,2.0.0,0,0,https://github.com/vixide/vix,"HL7 FHIR client logic: server profiles, request building, and Bundle and OperationOutcome parsing."
+2026-11-06T16:10:07.574151Z,contiguous-tree-macros,0.1.0,0,0,https://github.com/INTO-CPS-Association/contiguous-tree,Procedural macros for contiguous-tree
+2026-11-06T16:10:09.620654Z,blitz-chrome-devtools-frontend,0.1.0,0,0,https://github.com/DioxusLabs/blitz-chrome-devtools-frontend,"A minimal build of the Chrome DevTools frontend, for inspecting Blitz documents"
+2026-11-06T16:10:12.205819Z,mln-rs-platform-default-image,0.0.7,0,0,https://github.com/louwers/maplibre-native-next,"Part of mln-rs, a Rust port of the MapLibre Native map rendering core. Depend on mln-rs instead."
+2026-11-06T16:10:33.666427Z,contiguous-tree,0.1.0,0,0,https://github.com/INTO-CPS-Association/contiguous-tree,"Contiguous postorder trees with typed schemas, cursors, and rewriting"
+2026-11-06T16:10:57.857568Z,exs-cli,0.2.0,0,0,https://github.com/Exolynk/exs,"Command-line tool of the ExS language: run, test, format and document scripts"
+2026-11-06T16:11:02.657821Z,multiline-terminal-input,0.1.0,0,0,https://github.com/kaleidawave/multiline-terminal-input,Utility for input of multiline strings
+2026-11-06T16:11:09.284431Z,pipeline-machines,0.2.0,0,0,,"Bounded stage dispatch, fanout/join, cancellation, and draining decisions"
+2026-11-06T16:11:23.216679Z,pool-machines,0.2.0,0,0,,"Bounded resource-slot checkout, recycling, and draining"
+2026-11-06T16:14:59.817187Z,ymi,0.0.1,0,0,https://github.com/masakiyuizzz/ymi,终端里的无限画布：图片按 1:1 卡片排开，可拖拽缩放 · an endless picture canvas in the terminal
+2026-11-06T16:17:03.817998Z,bin2,0.1.0,0,0,https://github.com/viskasssssss/bin2,Simple binary serialization and deserialization for Rust
