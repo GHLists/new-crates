@@ -1,0 +1,23 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-06T00:18:56.593422Z,ravet,0.0.0,0,0,https://github.com/mo0kid/ravet,Rust framework for audio plug-ins and standalone apps. Not yet published here; depend on the Git tag.
+2026-11-06T00:20:44.102967Z,aureole-devtools,0.0.1-beta.1,0,0,https://github.com/ruoyu-lab/aureole,Aureole 的开发工具：监视文件热加载，文件保存后信号和图片跟着变
+2026-11-06T00:22:25.869008Z,kepler-studio,0.0.0,0,0,,"Browser application for kepler, for watching and steering searches"
+2026-11-06T00:22:41.820222Z,bzip2-turbo,0.1.0,0,0,https://github.com/scryer-media/bzip2-turbo,Streaming BZip2 encoding and decoding based on the 7-Zip codec
+2026-11-06T00:24:03.857011Z,computer-use-rs,0.1.0,0,0,https://github.com/The-Best-Codes/computer-use-rs,"Cross-platform computer-use primitives: read app accessibility trees, take window screenshots, and drive apps with accessibility actions and synthetic input."
+2026-11-06T00:28:42.538546Z,glasskit,0.1.0,0,0,https://github.com/poyea/glasskit,"Native Windows UI with a glass look: tray icon and menu, glass popup, themed dialogs, and helpers for tray apps."
+2026-11-06T00:30:46.540928Z,aureole-testing,0.0.1-beta.1,0,0,https://github.com/ruoyu-lab/aureole,Aureole 的测试工具：没有窗口的宿主，手动推进虚拟时间、模拟输入、读状态，回放录下的输入，离屏截图
+2026-11-06T00:32:24.859027Z,kepler-python,0.0.0,0,0,,Python wrapper for kepler
+2026-11-06T00:36:46.746043Z,software-id,0.1.1,0,0,https://gitlab.com/zillowe/zillwen/zusty/software-id,"Rust SDK for the Software ID (SID) specification: manifests, SUIDs, SIDs, and embedding."
+2026-11-06T00:39:27.13692Z,literoot,0.0.1,0,0,https://github.com/rrnewton/literoot,"Fast unprivileged drop-in replacement for proot, built on liteinst and Reverie (early development)"
+2026-11-06T00:40:48.645762Z,aureole-runtime,0.0.1-beta.1,0,0,https://github.com/ruoyu-lab/aureole,Aureole 的运行时：应用、窗口和事件循环、输入换算、渲染线程、菜单托盘、对话框、系统集成，把核心接到真实的窗口和 GPU 上
+2026-11-06T00:45:01.161895Z,oxdock-utils,0.35.0-alpha,0,0,https://github.com/jzombie/rust-oxdock,"Shared leaf utilities for OxDock: streaming tarball pack/unpack, SHA-256 hex digests, and other dependency-light helpers used across crates."
+2026-11-06T00:48:22.310307Z,bashkit-monty-types,0.20.3,0,0,https://github.com/everruns/bashkit,"Fork of pydantic/monty's monty-types 1.4.0 with an embedder memory probe and checkpoint hook, for bashkit's python3"
+2026-11-06T00:48:54.081469Z,bashkit-monty,0.20.3,0,0,https://github.com/everruns/bashkit,"Fork of pydantic/monty 1.4.0 (secure, snapshotable Python sandbox) built against bashkit-monty-types, for bashkit's python3"
+2026-11-06T00:50:45.47818Z,aureole,0.0.1-beta.1,0,0,https://github.com/ruoyu-lab/aureole,Rust 桌面应用框架：链式 API 搭界面，细粒度信号驱动更新，GPU 渲染
+2026-11-06T01:00:47.454864Z,aureole-installer,0.0.1-beta.1,0,0,https://github.com/ruoyu-lab/aureole,用 Aureole 写安装程序：包格式、解压、回滚、升级、卸载、系统集成，默认的向导界面，少见的需求有扩展接口
+2026-11-06T01:03:12.51022Z,winaudio-core,0.1.0,0,0,https://github.com/sinaryorg/winaudio,Modern per-process Windows audio capture and session management core engine by SINARY™
+2026-11-06T01:04:43.452654Z,winaudio-cli,0.1.0,0,0,https://github.com/sinaryorg/winaudio,"Command-line tool for per-process Windows audio capture, monitoring, and volume control by SINARY™"
+2026-11-06T01:08:46.734272Z,windows-text,0.0.0,0,0,https://github.com/microsoft/windows-rs,Windows text layout library
+2026-11-06T01:10:42.834573Z,aureole-bundle,0.0.1-beta.1,0,0,https://github.com/ruoyu-lab/aureole,把应用打包：macOS 的 .app 和 .dmg（含通用二进制），Windows、Linux 的安装包（交给 cargo-packager）
+2026-11-06T01:11:52.224922Z,relaxng,0.1.0,0,0,https://github.com/dholroyd/relaxng-rust,"RELAX NG schema parsing, validation and example document generation"
+2026-11-06T01:12:59.577321Z,wordthing,0.0.0,0,0,https://github.com/maplepy/loqui,"Local, hotkey-driven voice and text AI for any app: dictation, voice assistant, selection rewrite. Placeholder, in development."
