@@ -1,0 +1,27 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-06T08:18:43.480426Z,iridia-passes,0.5.0,0,0,https://github.com/Kalmarv/iridia,"Passes over iridia's shader IR: variable promotion, simplification, specialisation, structurization and target legalization"
+2026-11-06T08:18:47.486963Z,iridia-d3d9-ir,0.5.0,0,0,https://github.com/Kalmarv/iridia,Read raw Direct3D 9 shader tokens of shader models 1 to 3 and lift them into iridia's shader IR
+2026-11-06T08:19:34.882079Z,tomori-client-quest,0.2.0,0,0,https://github.com/ioquatix/tomori,"A conversational spatial workspace for people and agents, built with OpenXR and wgpu"
+2026-11-06T08:21:00.696349Z,d2-rs-scenebuild,0.1.0,0,0,https://github.com/nelsonjchen/d2-rs,Rust port of D2's d2scenebuild package (target diagram to d2scene document).
+2026-11-06T08:26:24.877985Z,valafmt,0.2.1,0,0,,An opinionated code formatter for the Vala programming language
+2026-11-06T08:31:00.750631Z,d2-rs-export,0.1.0,0,0,https://github.com/nelsonjchen/d2-rs,"Rust port of D2's PNG, PDF, PPTX, GIF and ASCII exporters."
+2026-11-06T08:41:00.77949Z,d2-rs-isometric,0.1.0,0,0,https://github.com/nelsonjchen/d2-rs,Rust port of D2's isometric renderer (d2renderers/d2isometric).
+2026-11-06T08:42:50.325518Z,zebra-mermaid,0.1.0,0,0,https://github.com/entropysniper-app/zebra-mermaid,A pure Rust Mermaid to SVG renderer ported from Pele
+2026-11-06T08:42:52.245251Z,zebra-mermaid-cli,0.1.0,0,0,https://github.com/entropysniper-app/zebra-mermaid,"Command line renderer for Mermaid diagrams, built on the zebra-mermaid library"
+2026-11-06T08:42:52.711254Z,zebra-mermaid-ffi,0.1.0,0,0,https://github.com/entropysniper-app/zebra-mermaid,"C ABI (version 2) of zebra-mermaid, in the shape of Zebra's native Mermaid bridge"
+2026-11-06T08:44:04.732683Z,beacon-core,1.0.0,0,0,https://github.com/IND-Anshuman/beacon,"Deterministic, tested building blocks for AI pipelines: JSON extraction/repair, tool-call parsing, JSON Schema validation, templating, normalization, canonical hashing, redaction and retry classifica…"
+2026-11-06T08:46:04.928168Z,locum-capture,0.1.0,0,0,https://github.com/Kalmarv/locum,"locum's capture format and the parts of capturing that do not depend on the graphics API: the database, the blob store, DXGI formats, layouts, stacks, shader reflection."
+2026-11-06T08:46:06.653724Z,locum-d3d11,0.1.0,0,0,https://github.com/Kalmarv/locum,Direct3D 11 pieces shared by locum in the game and by replay: reading resources back into locum's canonical layout.
+2026-11-06T08:46:08.277292Z,locum,0.1.0,0,0,https://github.com/Kalmarv/locum,"Captures everything a Direct3D 11 game draws in a frame, to look at, query, change and replay: d3d11.dll and dxgi.dll beside the game that watch every call on its way to the real runtime."
+2026-11-06T08:51:00.450684Z,d2-rs,0.1.0,0,0,https://github.com/nelsonjchen/d2-rs,"The d2-rs command-line tool, a Rust port of D2's d2cli package."
+2026-11-06T08:55:59.092075Z,locum-cli,0.1.0,0,0,https://github.com/Kalmarv/locum,"Reads locum's captures: what a frame drew and with what, what the capture is missing, and the textures, buffers and targets in it."
+2026-11-06T08:58:20.175056Z,text-ref,0.1.0,0,0,https://github.com/afpro/text-ref,text copy/edit/share without dup storage
+2026-11-06T09:01:00.431884Z,d2-rs-wasm,0.1.0,0,0,https://github.com/nelsonjchen/d2-rs,"WebAssembly bindings for d2-rs, a Rust port of D2's d2js package."
+2026-11-06T09:02:38.627861Z,ast-crispr,0.2.1,0,0,https://github.com/structuredmerge/structuredmerge,Structural edit tooling over Structured Merge AST contracts
+2026-11-06T09:02:57.774235Z,fuse-nsz,0.1.1,0,0,https://github.com/nsw-rs/fuse-nsz,FUSE filesystem that shows NSZ/XCZ files as plain NSP/XCI
+2026-11-06T09:03:16.778662Z,ast-merge-git,0.2.1,0,0,https://github.com/structuredmerge/structuredmerge,Git merge contracts for Structured Merge
+2026-11-06T09:03:41.874246Z,bash-merge,0.2.1,0,0,https://github.com/structuredmerge/structuredmerge,Bash syntax merge helpers for Structured Merge
+2026-11-06T09:03:50.137627Z,python-merge,0.2.1,0,0,https://github.com/structuredmerge/structuredmerge,Rust-owned Python declaration merge over native LibCST facts
+2026-11-06T09:07:19.056566Z,primase-core,0.1.0,0,0,https://github.com/kalmarv/primase,"primase core: the world store, core components, frames, the pass manager and gates"
+2026-11-06T09:08:57.042497Z,gamectx,0.1.0-alpha.3,0,0,https://github.com/pink-kitsune-420/gamectx,"Compile game data and tool schemas into small, budgeted context packets for AI-driven games."
+2026-11-06T09:15:36.400312Z,primase-exactsum,0.1.0,0,0,https://github.com/kalmarv/primase,"An order-independent exact sum of f64s (Shewchuk's expansions), rounded once"

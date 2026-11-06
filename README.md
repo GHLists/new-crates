@@ -8,43 +8,40 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-06 08:18 UTC
+## Latest list — 2026-11-06 09:20 UTC
 
-New crates published between 2026-11-06 07:20 UTC and 2026-11-06 08:18 UTC.
+New crates published between 2026-11-06 08:18 UTC and 2026-11-06 09:20 UTC.
 
-[Full CSV](data/new-crates-2026-11-06T08-18-42-608536Z.csv)
+[Full CSV](data/new-crates-2026-11-06T09-20-20-543004Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-06 07:21:00 | [d2-rs-layout](https://crates.io/crates/d2-rs-layout) | 0.1.0 | 0 | Rust port of D2's d2layouts package: engine selection, grids, sequence diagrams… |
-| 2026-11-06 07:26:14 | [bellwether](https://crates.io/crates/bellwether) | 0.1.1 | 0 | OSC 7501 (Program Status Protocol): encode, parse, scan, and track terminal pro… |
-| 2026-11-06 07:26:16 | [bellwether-cli](https://crates.io/crates/bellwether-cli) | 0.1.1 | 0 | Report program status to your terminal with OSC 7501 (Program Status Protocol) |
-| 2026-11-06 07:27:58 | [unbill-asymmetric-channel](https://crates.io/crates/unbill-asymmetric-channel) | 0.0.10 | 0 | Asymmetric channel trait for unbill — the device-to-console protocol contract. |
-| 2026-11-06 07:29:32 | [tomori-text](https://crates.io/crates/tomori-text) | 0.2.0 | 0 | Tomori's bundled fonts and the signed-distance-field glyph atlas its panels and… |
-| 2026-11-06 07:30:06 | [edline](https://crates.io/crates/edline) | 0.0.2 | 0 | A line editor for embedded systems |
-| 2026-11-06 07:31:00 | [d2-rs-lib](https://crates.io/crates/d2-rs-lib) | 0.1.0 | 0 | D2's serialized graph JSON boundary between the compiler and the layout engines. |
-| 2026-11-06 07:32:41 | [reducio](https://crates.io/crates/reducio) | 0.0.1 | 0 | Data reduction. |
-| 2026-11-06 07:36:24 | [lokr](https://crates.io/crates/lokr) | 0.0.1 | 0 | Placeholder for a local secrets broker for AI agents. Not functional yet. |
-| 2026-11-06 07:37:58 | [unbill-console](https://crates.io/crates/unbill-console) | 0.0.10 | 0 | The console library for unbill — CRDT ledger operations and P2P sync. |
-| 2026-11-06 07:39:34 | [tomori-scene](https://crates.io/crates/tomori-scene) | 0.2.0 | 0 | The platform-neutral Tomori client: the frame step, the conversation and the pa… |
-| 2026-11-06 07:41:00 | [d2-rs-render](https://crates.io/crates/d2-rs-render) | 0.1.0 | 0 | Rust port of D2's d2svg and d2sketch renderers. |
-| 2026-11-06 07:42:18 | [sni-sniff](https://crates.io/crates/sni-sniff) | 0.1.0 | 0 | Reads the server name of a connection from its first bytes: TLS ClientHello (SN… |
-| 2026-11-06 07:46:57 | [axa-session](https://crates.io/crates/axa-session) | 0.1.0 | 0 | Web sessions for Axum services over axum_session, with safe defaults. |
-| 2026-11-06 07:47:26 | [fsls](https://crates.io/crates/fsls) | 0.1.0 | 0 | List mounted file systems on Windows, Linux and macOS: drives, volumes, mount p… |
-| 2026-11-06 07:47:53 | [unbill](https://crates.io/crates/unbill) | 0.0.10 | 0 | Native Rust Console API for Unbill shared expense ledgers. |
-| 2026-11-06 07:49:32 | [tomori-render](https://crates.io/crates/tomori-render) | 0.2.0 | 0 | Tomori's wgpu renderers and shaders, shared by the headset, the desktop window… |
-| 2026-11-06 07:51:00 | [d2-rs-scene](https://crates.io/crates/d2-rs-scene) | 0.1.0 | 0 | Rust port of D2's renderer-neutral scene model (d2renderers/d2scene). |
-| 2026-11-06 07:58:49 | [tfsv](https://crates.io/crates/tfsv) | 0.1.0 | 0 | A terminal-native Linux file manager for local and SSH sessions |
-| 2026-11-06 07:59:32 | [tomori-client-desktop](https://crates.io/crates/tomori-client-desktop) | 0.2.0 | 0 | Tomori on the desktop: the server-less window, taking part from a window or a t… |
-| 2026-11-06 08:01:02 | [d2-rs-fontface](https://crates.io/crates/d2-rs-fontface) | 0.1.0 | 0 | Rust port of D2's internal fontface package: font parsing, shaping, glyph outli… |
-| 2026-11-06 08:07:24 | [winia-pack](https://crates.io/crates/winia-pack) | 0.1.0 | 0 | Cross-platform packaging primitives for Winia applications |
-| 2026-11-06 08:08:18 | [winia-cli](https://crates.io/crates/winia-cli) | 0.1.0 | 0 | Winia Forge — create, build, run, and package Winia applications |
-| 2026-11-06 08:09:34 | [tomori-client-spectator](https://crates.io/crates/tomori-client-spectator) | 0.2.0 | 0 | The Tomori spectator: a read-only, participant-following view of a live space,… |
-| 2026-11-06 08:11:00 | [d2-rs-raster](https://crates.io/crates/d2-rs-raster) | 0.1.0 | 0 | Rust port of D2's d2raster package (d2scene document to pixels). |
-| 2026-11-06 08:17:39 | [glory-wry](https://crates.io/crates/glory-wry) | 0.7.0 | 0 | Native Rust semantic UI host with an IPC-driven system WebView |
-| 2026-11-06 08:18:39 | [iridia-ir](https://crates.io/crates/iridia-ir) | 0.5.0 | 0 | iridia's shader IR: typed SSA values and operations in structured regions or a… |
-| 2026-11-06 08:18:41 | [iridia-exec-ir](https://crates.io/crates/iridia-exec-ir) | 0.5.0 | 0 | Run a program of iridia's shader IR on the CPU, one invocation or a pixel quad,… |
-| 2026-11-06 08:18:42 | [iridia-naga](https://crates.io/crates/iridia-naga) | 0.5.0 | 0 | Lower iridia's shader IR to a stock naga module, for naga's writers (WGSL) |
+| 2026-11-06 08:18:43 | [iridia-passes](https://crates.io/crates/iridia-passes) | 0.5.0 | 0 | Passes over iridia's shader IR: variable promotion, simplification, specialisat… |
+| 2026-11-06 08:18:47 | [iridia-d3d9-ir](https://crates.io/crates/iridia-d3d9-ir) | 0.5.0 | 0 | Read raw Direct3D 9 shader tokens of shader models 1 to 3 and lift them into ir… |
+| 2026-11-06 08:19:34 | [tomori-client-quest](https://crates.io/crates/tomori-client-quest) | 0.2.0 | 0 | A conversational spatial workspace for people and agents, built with OpenXR and… |
+| 2026-11-06 08:21:00 | [d2-rs-scenebuild](https://crates.io/crates/d2-rs-scenebuild) | 0.1.0 | 0 | Rust port of D2's d2scenebuild package (target diagram to d2scene document). |
+| 2026-11-06 08:26:24 | [valafmt](https://crates.io/crates/valafmt) | 0.2.1 | 0 | An opinionated code formatter for the Vala programming language |
+| 2026-11-06 08:31:00 | [d2-rs-export](https://crates.io/crates/d2-rs-export) | 0.1.0 | 0 | Rust port of D2's PNG, PDF, PPTX, GIF and ASCII exporters. |
+| 2026-11-06 08:41:00 | [d2-rs-isometric](https://crates.io/crates/d2-rs-isometric) | 0.1.0 | 0 | Rust port of D2's isometric renderer (d2renderers/d2isometric). |
+| 2026-11-06 08:42:50 | [zebra-mermaid](https://crates.io/crates/zebra-mermaid) | 0.1.0 | 0 | A pure Rust Mermaid to SVG renderer ported from Pele |
+| 2026-11-06 08:42:52 | [zebra-mermaid-cli](https://crates.io/crates/zebra-mermaid-cli) | 0.1.0 | 0 | Command line renderer for Mermaid diagrams, built on the zebra-mermaid library |
+| 2026-11-06 08:42:52 | [zebra-mermaid-ffi](https://crates.io/crates/zebra-mermaid-ffi) | 0.1.0 | 0 | C ABI (version 2) of zebra-mermaid, in the shape of Zebra's native Mermaid brid… |
+| 2026-11-06 08:44:04 | [beacon-core](https://crates.io/crates/beacon-core) | 1.0.0 | 0 | Deterministic, tested building blocks for AI pipelines: JSON extraction/repair,… |
+| 2026-11-06 08:46:04 | [locum-capture](https://crates.io/crates/locum-capture) | 0.1.0 | 0 | locum's capture format and the parts of capturing that do not depend on the gra… |
+| 2026-11-06 08:46:06 | [locum-d3d11](https://crates.io/crates/locum-d3d11) | 0.1.0 | 0 | Direct3D 11 pieces shared by locum in the game and by replay: reading resources… |
+| 2026-11-06 08:46:08 | [locum](https://crates.io/crates/locum) | 0.1.0 | 0 | Captures everything a Direct3D 11 game draws in a frame, to look at, query, cha… |
+| 2026-11-06 08:51:00 | [d2-rs](https://crates.io/crates/d2-rs) | 0.1.0 | 0 | The d2-rs command-line tool, a Rust port of D2's d2cli package. |
+| 2026-11-06 08:55:59 | [locum-cli](https://crates.io/crates/locum-cli) | 0.1.0 | 0 | Reads locum's captures: what a frame drew and with what, what the capture is mi… |
+| 2026-11-06 08:58:20 | [text-ref](https://crates.io/crates/text-ref) | 0.1.0 | 0 | text copy/edit/share without dup storage |
+| 2026-11-06 09:01:00 | [d2-rs-wasm](https://crates.io/crates/d2-rs-wasm) | 0.1.0 | 0 | WebAssembly bindings for d2-rs, a Rust port of D2's d2js package. |
+| 2026-11-06 09:02:38 | [ast-crispr](https://crates.io/crates/ast-crispr) | 0.2.1 | 0 | Structural edit tooling over Structured Merge AST contracts |
+| 2026-11-06 09:02:57 | [fuse-nsz](https://crates.io/crates/fuse-nsz) | 0.1.1 | 0 | FUSE filesystem that shows NSZ/XCZ files as plain NSP/XCI |
+| 2026-11-06 09:03:16 | [ast-merge-git](https://crates.io/crates/ast-merge-git) | 0.2.1 | 0 | Git merge contracts for Structured Merge |
+| 2026-11-06 09:03:41 | [bash-merge](https://crates.io/crates/bash-merge) | 0.2.1 | 0 | Bash syntax merge helpers for Structured Merge |
+| 2026-11-06 09:03:50 | [python-merge](https://crates.io/crates/python-merge) | 0.2.1 | 0 | Rust-owned Python declaration merge over native LibCST facts |
+| 2026-11-06 09:07:19 | [primase-core](https://crates.io/crates/primase-core) | 0.1.0 | 0 | primase core: the world store, core components, frames, the pass manager and ga… |
+| 2026-11-06 09:08:57 | [gamectx](https://crates.io/crates/gamectx) | 0.1.0-alpha.3 | 0 | Compile game data and tool schemas into small, budgeted context packets for AI-… |
+| 2026-11-06 09:15:36 | [primase-exactsum](https://crates.io/crates/primase-exactsum) | 0.1.0 | 0 | An order-independent exact sum of f64s (Shewchuk's expansions), rounded once |
 
 ## Data source
 
