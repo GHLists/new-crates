@@ -8,54 +8,36 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-06 03:18 UTC
+## Latest list — 2026-11-06 04:18 UTC
 
-New crates published between 2026-11-06 02:20 UTC and 2026-11-06 03:18 UTC.
+New crates published between 2026-11-06 03:18 UTC and 2026-11-06 04:18 UTC.
 
-[Full CSV](data/new-crates-2026-11-06T03-18-42-422003Z.csv)
+[Full CSV](data/new-crates-2026-11-06T04-18-53-104421Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-06 02:22:23 | [pod-supervise](https://crates.io/crates/pod-supervise) | 0.0.0 | 0 | Detached payloads: launcher state, pidfds, logs, signals and lifecycle. Placeho… |
-| 2026-11-06 02:32:51 | [pod-guest](https://crates.io/crates/pod-guest) | 0.0.0 | 0 | A disposable QEMU guest: mailbox, guest agent, disk fetch, QMP and boot plan. P… |
-| 2026-11-06 02:34:21 | [decade](https://crates.io/crates/decade) | 0.1.0 | 0 | dynamic extensible collaborative agent development environment |
-| 2026-11-06 02:43:19 | [pod-microvm](https://crates.io/crates/pod-microvm) | 0.0.0 | 0 | Fast disposable microVMs from an OCI image, on KVM or TCG. Placeholder: the fir… |
-| 2026-11-06 02:45:33 | [suye](https://crates.io/crates/suye) | 0.1.0 | 0 | Read-only development toolchain diagnostics for SUYE |
-| 2026-11-06 02:45:42 | [gitd-client](https://crates.io/crates/gitd-client) | 0.14.0 | 0 | Client for gitd: instant, secretless git checkouts for agent sandboxes |
-| 2026-11-06 02:50:10 | [menger-quota](https://crates.io/crates/menger-quota) | 0.7.0 | 0 | menger's quota service — per-principal allowances per source, usage counted and… |
-| 2026-11-06 02:50:15 | [menger-docs](https://crates.io/crates/menger-docs) | 0.7.0 | 0 | menger's docs service — documents on their own API and file, every write a revi… |
-| 2026-11-06 02:50:16 | [menger-media](https://crates.io/crates/menger-media) | 0.7.0 | 0 | menger's media service — images for tickets, kept by sha256 in a file of their… |
-| 2026-11-06 02:51:21 | [rapiddoc-core](https://crates.io/crates/rapiddoc-core) | 0.1.0 | 0 | Shared document types and errors for RapidDoc. |
-| 2026-11-06 02:51:27 | [rapiddoc-docvortex-core](https://crates.io/crates/rapiddoc-docvortex-core) | 0.1.0 | 0 | Pinned DocVortex Rust subset used by RapidDoc. |
-| 2026-11-06 02:51:29 | [rapiddoc-docvortex-pdfium-paths](https://crates.io/crates/rapiddoc-docvortex-pdfium-paths) | 0.1.0 | 0 | Pinned DocVortex Rust subset used by RapidDoc. |
-| 2026-11-06 02:51:37 | [rapiddoc-lopdf](https://crates.io/crates/rapiddoc-lopdf) | 0.42.0 | 0 | RapidDoc fork of lopdf with f64 PDF real storage and parsing. |
-| 2026-11-06 02:51:44 | [rapiddoc-native](https://crates.io/crates/rapiddoc-native) | 0.1.0 | 0 | Native layout and document analysis for RapidDoc. |
-| 2026-11-06 02:53:49 | [pod-sud](https://crates.io/crates/pod-sud) | 0.0.0 | 0 | An in-process syscall interceptor on Syscall User Dispatch, with no ptrace and… |
-| 2026-11-06 02:54:55 | [tessera-android-activity](https://crates.io/crates/tessera-android-activity) | 0.6.1 | 0 | Glue for building Rust applications on Android with NativeActivity or GameActiv… |
-| 2026-11-06 03:01:31 | [rapiddoc-pdf](https://crates.io/crates/rapiddoc-pdf) | 0.1.0 | 0 | PDFium rendering and PDF text extraction for RapidDoc. |
-| 2026-11-06 03:02:54 | [tessera-winit](https://crates.io/crates/tessera-winit) | 0.30.13 | 0 | Cross-platform window creation library. |
-| 2026-11-06 03:04:19 | [pod-confine](https://crates.io/crates/pod-confine) | 0.0.0 | 0 | Unprivileged confinement: Landlock, seccomp filters and rlimits. Placeholder: t… |
-| 2026-11-06 03:06:50 | [tessera-accesskit-winit](https://crates.io/crates/tessera-accesskit-winit) | 0.34.2 | 0 | AccessKit UI accessibility infrastructure: winit adapter |
-| 2026-11-06 03:08:16 | [aws-smithy-topology](https://crates.io/crates/aws-smithy-topology) | 0.1.0 | 0 | Hardware topology and placement primitives for the AWS SDK and smithy-rs ecosys… |
-| 2026-11-06 03:08:18 | [aws-smithy-execution](https://crates.io/crates/aws-smithy-execution) | 0.1.0 | 0 | Managed async execution with topology placement. |
-| 2026-11-06 03:08:20 | [aws-smithy-managed-http](https://crates.io/crates/aws-smithy-managed-http) | 0.1.0 | 0 | HTTP transport with connection pooling and managed execution. |
-| 2026-11-06 03:08:24 | [aws-sdk-s3-transfer-manager-ext](https://crates.io/crates/aws-sdk-s3-transfer-manager-ext) | 0.1.0 | 0 | Optional integrations for S3 Transfer Manager. |
-| 2026-11-06 03:08:58 | [griefer](https://crates.io/crates/griefer) | 0.0.0 | 0 | Mutation testing engine in Rust. Placeholder release reserving the name; not us… |
-| 2026-11-06 03:09:16 | [material-shapes](https://crates.io/crates/material-shapes) | 0.1.0 | 0 | Material 3 shape utilities used by Winia |
-| 2026-11-06 03:11:35 | [winia-macros](https://crates.io/crates/winia-macros) | 0.1.0 | 0 | Composable attribute macro for Winia |
-| 2026-11-06 03:11:50 | [skiwin](https://crates.io/crates/skiwin) | 0.1.0 | 0 | Skia window and GPU backend layer for Winia |
-| 2026-11-06 03:12:02 | [winia-material-symbols-outlined](https://crates.io/crates/winia-material-symbols-outlined) | 0.1.0 | 0 | Material Symbols Outlined variable font for Winia |
-| 2026-11-06 03:12:06 | [oxitty-protocol](https://crates.io/crates/oxitty-protocol) | 0.0.0 | 0 | Protocol and message types for oxitty Web TTY daemon |
-| 2026-11-06 03:12:08 | [winia-material-symbols-rounded](https://crates.io/crates/winia-material-symbols-rounded) | 0.1.0 | 0 | Material Symbols Rounded variable font for Winia |
-| 2026-11-06 03:12:51 | [oxitty-core](https://crates.io/crates/oxitty-core) | 0.0.0 | 0 | Core PTY and session management for oxitty Web TTY daemon |
-| 2026-11-06 03:14:44 | [pod-netlab](https://crates.io/crates/pod-netlab) | 0.0.0 | 0 | Network labs in a guest or a namespace: NAT44, NAT66, NAT64, CGNAT, IPv6-only a… |
-| 2026-11-06 03:15:13 | [griefer-core](https://crates.io/crates/griefer-core) | 0.0.0 | 0 | Core engine of griefer, a mutation testing engine in Rust. Placeholder release… |
-| 2026-11-06 03:15:17 | [griefer-cli](https://crates.io/crates/griefer-cli) | 0.0.0 | 0 | Command-line interface of griefer, a mutation testing engine in Rust. Placehold… |
-| 2026-11-06 03:15:20 | [griefer-lang-ts](https://crates.io/crates/griefer-lang-ts) | 0.0.0 | 0 | TypeScript and JavaScript adapter of griefer, a mutation testing engine in Rust… |
-| 2026-11-06 03:15:23 | [griefer-lang-rust](https://crates.io/crates/griefer-lang-rust) | 0.0.0 | 0 | Rust language adapter of griefer, a mutation testing engine in Rust. Placeholde… |
-| 2026-11-06 03:16:22 | [tessera-cosmic-text](https://crates.io/crates/tessera-cosmic-text) | 0.19.0 | 0 | Pure Rust multi-line text handling |
-| 2026-11-06 03:16:28 | [winia-material-symbols-sharp](https://crates.io/crates/winia-material-symbols-sharp) | 0.1.0 | 0 | Material Symbols Sharp variable font for Winia |
-| 2026-11-06 03:16:31 | [oxitty](https://crates.io/crates/oxitty) | 0.0.0 | 0 | High-performance Web TTY daemon built with Rust, React 19, Bun, Vite & ts-rs |
+| 2026-11-06 03:19:03 | [griefer-llm](https://crates.io/crates/griefer-llm) | 0.0.0 | 0 | LLM mutant source of griefer, a mutation testing engine in Rust. Placeholder re… |
+| 2026-11-06 03:20:04 | [rapiddoc-inference](https://crates.io/crates/rapiddoc-inference) | 0.1.0 | 0 | ONNX model inference and preprocessing for RapidDoc. |
+| 2026-11-06 03:21:15 | [qspquest-core](https://crates.io/crates/qspquest-core) | 0.1.0 | 0 | Scientific request, event and result types for QSPQuest |
+| 2026-11-06 03:21:17 | [qspquest-modeling](https://crates.io/crates/qspquest-modeling) | 0.1.0 | 0 | Model compiler, simulation and fitting engine for QSPQuest |
+| 2026-11-06 03:21:42 | [rapiddoc-office](https://crates.io/crates/rapiddoc-office) | 0.1.0 | 0 | Microsoft Office document parsing for RapidDoc. |
+| 2026-11-06 03:25:14 | [kessel-audio](https://crates.io/crates/kessel-audio) | 0.1.0 | 0 | A real-time voice audio pipeline in pure Rust: devices, echo cancellation, nois… |
+| 2026-11-06 03:25:23 | [pod-pcap](https://crates.io/crates/pod-pcap) | 0.0.0 | 0 | Packet capture, counters and connection logs without CAP_NET_RAW. Placeholder:… |
+| 2026-11-06 03:27:06 | [winia](https://crates.io/crates/winia) | 0.1.0 | 0 | A declarative UI framework powered by Skia — Compose-inspired, pure Rust |
+| 2026-11-06 03:27:21 | [plexus-transcription](https://crates.io/crates/plexus-transcription) | 0.1.0 | 0 | Live audio to text with local models, as Plexus activations a service registers… |
+| 2026-11-06 03:29:03 | [griefer-eval](https://crates.io/crates/griefer-eval) | 0.0.0 | 0 | Evaluation harness of griefer, a mutation testing engine in Rust. Placeholder r… |
+| 2026-11-06 03:31:26 | [rapiddoc-render](https://crates.io/crates/rapiddoc-render) | 0.1.0 | 0 | Document rendering contracts for RapidDoc. |
+| 2026-11-06 03:36:06 | [pod-sandprobe](https://crates.io/crates/pod-sandprobe) | 0.0.0 | 0 | A security probe that runs inside a payload, and a compare of two reports. Plac… |
+| 2026-11-06 03:38:59 | [llama-cpp-fault-injection](https://crates.io/crates/llama-cpp-fault-injection) | 0.28.0 | 0 | Arms the C++ wrapper fault points so tests can drive the paths llama.cpp only t… |
+| 2026-11-06 03:41:51 | [pod-probe](https://crates.io/crates/pod-probe) | 0.0.0 | 0 | Name held for the PodUtils project. Placeholder: the first release is in progre… |
+| 2026-11-06 03:42:05 | [rapiddoc](https://crates.io/crates/rapiddoc) | 0.1.0 | 0 | Native document parsing for PDF and Microsoft Office. |
+| 2026-11-06 03:51:28 | [rapiddoc-cli](https://crates.io/crates/rapiddoc-cli) | 0.1.0 | 0 | Command line document parser for RapidDoc. |
+| 2026-11-06 03:52:46 | [podvm-probe](https://crates.io/crates/podvm-probe) | 0.0.0 | 0 | The host probe of podvm: tiers, exit codes and the machine profile. Placeholder… |
+| 2026-11-06 03:59:35 | [vietqr-core](https://crates.io/crates/vietqr-core) | 0.1.0 | 0 | Offline VietQR NAPAS 247 payload generation and validation |
+| 2026-11-06 03:59:39 | [vietqr-render](https://crates.io/crates/vietqr-render) | 0.1.0 | 0 | Offline QR SVG rendering for VietQR payloads |
+| 2026-11-06 03:59:44 | [vietqr-wasm](https://crates.io/crates/vietqr-wasm) | 0.1.0 | 0 | JSON string WASM bindings for offline VietQR generation, parsing and SVG render… |
+| 2026-11-06 04:04:08 | [podvm-image](https://crates.io/crates/podvm-image) | 0.0.0 | 0 | The content store of podvm. Placeholder: the first release is in progress. |
+| 2026-11-06 04:15:05 | [podvm-ssh](https://crates.io/crates/podvm-ssh) | 0.0.0 | 0 | The SSH transport of podvm. Placeholder: the first release is in progress. |
 
 ## Data source
 

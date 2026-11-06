@@ -1,0 +1,23 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-06T03:19:03.914029Z,griefer-llm,0.0.0,0,0,https://github.com/gaspardip/griefer,"LLM mutant source of griefer, a mutation testing engine in Rust. Placeholder release reserving the name; not usable yet."
+2026-11-06T03:20:04.059617Z,rapiddoc-inference,0.1.0,0,0,https://github.com/RapidAI/RapidDoc,ONNX model inference and preprocessing for RapidDoc.
+2026-11-06T03:21:15.005276Z,qspquest-core,0.1.0,0,0,https://github.com/unibio-intelligence/qspquest,"Scientific request, event and result types for QSPQuest"
+2026-11-06T03:21:17.317807Z,qspquest-modeling,0.1.0,0,0,https://github.com/unibio-intelligence/qspquest,"Model compiler, simulation and fitting engine for QSPQuest"
+2026-11-06T03:21:42.819488Z,rapiddoc-office,0.1.0,0,0,https://github.com/RapidAI/RapidDoc,Microsoft Office document parsing for RapidDoc.
+2026-11-06T03:25:14.164061Z,kessel-audio,0.1.0,0,0,https://github.com/Alakazam-211/K2,"A real-time voice audio pipeline in pure Rust: devices, echo cancellation, noise suppression and gain control, Opus, jitter buffers with loss concealment, mixing and levels."
+2026-11-06T03:25:23.506285Z,pod-pcap,0.0.0,0,0,https://github.com/PodUtils/podcrates,"Packet capture, counters and connection logs without CAP_NET_RAW. Placeholder: the first release is in progress."
+2026-11-06T03:27:06.937023Z,winia,0.1.0,0,0,https://github.com/GrounzerLiu/winia,"A declarative UI framework powered by Skia — Compose-inspired, pure Rust"
+2026-11-06T03:27:21.986019Z,plexus-transcription,0.1.0,0,0,https://github.com/hypermemetic-ai/transcription,"Live audio to text with local models, as Plexus activations a service registers: listen (Input<Bytes> in, partial and final text out) and models list/search/download/config"
+2026-11-06T03:29:03.993347Z,griefer-eval,0.0.0,0,0,https://github.com/gaspardip/griefer,"Evaluation harness of griefer, a mutation testing engine in Rust. Placeholder release reserving the name; not usable yet."
+2026-11-06T03:31:26.667805Z,rapiddoc-render,0.1.0,0,0,https://github.com/RapidAI/RapidDoc,Document rendering contracts for RapidDoc.
+2026-11-06T03:36:06.346309Z,pod-sandprobe,0.0.0,0,0,https://github.com/PodUtils/podcrates,"A security probe that runs inside a payload, and a compare of two reports. Placeholder: the first release is in progress."
+2026-11-06T03:38:59.771579Z,llama-cpp-fault-injection,0.28.0,0,0,https://github.com/intentee/llama-cpp-bindings,Arms the C++ wrapper fault points so tests can drive the paths llama.cpp only takes when it fails
+2026-11-06T03:41:51.670362Z,pod-probe,0.0.0,0,0,https://github.com/PodUtils/podcrates,Name held for the PodUtils project. Placeholder: the first release is in progress.
+2026-11-06T03:42:05.412401Z,rapiddoc,0.1.0,0,0,https://github.com/RapidAI/RapidDoc,Native document parsing for PDF and Microsoft Office.
+2026-11-06T03:51:28.291154Z,rapiddoc-cli,0.1.0,0,0,https://github.com/RapidAI/RapidDoc,Command line document parser for RapidDoc.
+2026-11-06T03:52:46.093299Z,podvm-probe,0.0.0,0,0,https://github.com/PodUtils/podvm,"The host probe of podvm: tiers, exit codes and the machine profile. Placeholder: the first release is in progress."
+2026-11-06T03:59:35.425226Z,vietqr-core,0.1.0,0,0,https://github.com/nguyentamdat/vietqr,Offline VietQR NAPAS 247 payload generation and validation
+2026-11-06T03:59:39.104506Z,vietqr-render,0.1.0,0,0,https://github.com/nguyentamdat/vietqr,Offline QR SVG rendering for VietQR payloads
+2026-11-06T03:59:44.728809Z,vietqr-wasm,0.1.0,0,0,https://github.com/nguyentamdat/vietqr,"JSON string WASM bindings for offline VietQR generation, parsing and SVG rendering"
+2026-11-06T04:04:08.303474Z,podvm-image,0.0.0,0,0,https://github.com/PodUtils/podvm,The content store of podvm. Placeholder: the first release is in progress.
+2026-11-06T04:15:05.17171Z,podvm-ssh,0.0.0,0,0,https://github.com/PodUtils/podvm,The SSH transport of podvm. Placeholder: the first release is in progress.
