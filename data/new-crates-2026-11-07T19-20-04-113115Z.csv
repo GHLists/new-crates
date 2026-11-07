@@ -1,0 +1,37 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-07T18:20:35.000277Z,slashml-robotics,1.0.0,0,0,https://github.com/slashml-ai/slashml-robotics,Official Rust client for SlashML Robotics spatial memory
+2026-11-07T18:22:10.795764Z,fossil-cli,0.1.0,0,0,https://github.com/FOSAX/fossil,Ship software that can still be rebuilt in 50 years.
+2026-11-07T18:22:26.767088Z,lspyx,0.6.0,0,0,https://github.com/iyazerski/lspyx,"Python code navigation, rename previews, and ty/Ruff diagnostics for AI coding agents, as an MCP server and CLI"
+2026-11-07T18:22:44.578336Z,riffnav,1.0.0,0,0,https://github.com/ollipa/riffnav,A git diff pager with a file tree
+2026-11-07T18:25:38.607488Z,zflate,1.0.0,0,0,https://github.com/DylanCosto/zflate,"A pure-Rust DEFLATE, zlib, and gzip codec aiming to match or beat libdeflate"
+2026-11-07T18:27:52.889582Z,kepler-nn,0.0.0,0,0,,Neural models for kepler
+2026-11-07T18:32:46.108474Z,igs-iec104-codec,0.1.0,0,0,https://github.com/aklira/igs-iec104,APCI framing and ASDU encode/decode for IEC 60870-5-104: no I/O.
+2026-11-07T18:32:48.636955Z,igs-iec104-link,0.1.0,0,0,https://github.com/aklira/igs-iec104,Sans-I/O APCI session state machine for IEC 60870-5-104: no I/O.
+2026-11-07T18:32:51.179292Z,igs-iec104,0.1.0,0,0,https://github.com/aklira/igs-iec104,Async IEC 60870-5-104 client and server with redundancy and TLS.
+2026-11-07T18:33:21.175017Z,origincloud-dns,0.14.0,0,0,https://github.com/origincloudhq/sdk-rust,"The Origin Cloud DNS API: hosted zones, their record sets, and private zones' VPC attachments."
+2026-11-07T18:39:03.721604Z,permission_proc_macros,0.1.0,0,0,https://github.com/gocfun/permission-proc,Procedural macros for the `permission_proc` crate. Use `permission_proc` instead of depending on this crate directly.
+2026-11-07T18:39:06.185997Z,permission_proc,0.1.0,0,0,https://github.com/gocfun/permission-proc,"Declarative permission checks for Rust functions and web handlers: #[permission(""posts:write"")], framework-agnostic and no_std."
+2026-11-07T18:42:45.084643Z,aurelia-steam-vent-core,0.1.0,0,0,https://codeberg.org/Drackrath/aurelia-steam-vent,Core message types for aurelia-steam-vent (Aurelia fork of steam-vent)
+2026-11-07T18:43:02.839062Z,aurelia-steam-vent,0.6.0,0,0,https://codeberg.org/Drackrath/aurelia-steam-vent,Interact with the Steam network via rust (Aurelia fork of steam-vent with per-session logon IDs)
+2026-11-07T18:47:24.632752Z,dandeliondb,0.2.0,0,0,https://github.com/Jit-nath/DandelionDB.git,"An embedded, single-file Rust database with typed records and vector retrieval"
+2026-11-07T18:48:14.954621Z,qstd,0.0.0,0,0,https://github.com/qstd-rs/qstd,Compile-time-checked quantum programming in Rust.
+2026-11-07T18:52:10.287183Z,systemone-core,0.2.0,0,0,https://github.com/lu-zero/systemone,no_std protocol types for the TypeSafe AI systemone API
+2026-11-07T18:54:29.753584Z,clarity-image,0.1.0,0,0,https://github.com/petervdpas/Clarity,"Clarity.Image: the picture functions of the programs Clarity generates (resize, crop, rotate, flip, blend, adjust), alike on every stack"
+2026-11-07T18:55:14.772241Z,axa-worker,0.1.0,0,0,https://github.com/publicprojects-io/axa/,"A Postgres job queue, worker pool, and recurring schedules for Axum services."
+2026-11-07T18:55:26.077872Z,axa-idempotency,0.1.0,0,0,https://github.com/publicprojects-io/axa/,Idempotency-Key handling over Postgres for Axum services.
+2026-11-07T18:55:39.646535Z,axa-outbox,0.1.0,0,0,https://github.com/publicprojects-io/axa/,A transactional outbox and relay on Postgres for Axum services.
+2026-11-07T18:55:44.312541Z,axa-cursor-pagination,0.1.0,0,0,https://github.com/publicprojects-io/axa/,"Signed cursor pagination with Link rel=next and no total, and LIKE escaping, for Axum services."
+2026-11-07T18:55:47.951631Z,axa-offset-pagination,0.1.0,0,0,https://github.com/publicprojects-io/axa/,"Insecure offset pagination with count headers, and LIKE escaping, for Axum services. Prefer axa-cursor-pagination."
+2026-11-07T18:57:32.50229Z,rovee,0.1.0,0,0,https://github.com/chip-davis/rovee,A TUI for controlling LAN Govee Lights using Rust.
+2026-11-07T18:57:54.161085Z,torno,0.0.0,0,0,,Gate what agents do on your computer.
+2026-11-07T19:00:36.896289Z,nornir-mimir-binary,0.1.0,0,0,https://git.gunnar.rs/nordisk/nornir,"Mímir v2 binary layer: one linked artifact (ELF symbols, v0 mangling, DWARF CU names) → code_nodes / code_edges / code_symbols rows on the same SCIP monikers as the source layer (mimir-driver). Stabl…"
+2026-11-07T19:03:43.548291Z,compression-mel,0.11.1,0,0,https://gitlab.com/melodium/melodium,Mélodium compression library
+2026-11-07T19:04:53.402915Z,mdtopdf,0.2.1,0,0,https://github.com/pepa65/mdtopdf,Convert Markdown to PDF with Typst
+2026-11-07T19:06:01.896174Z,fds-rs,0.1.0,0,0,https://github.com/modestoma/fds-rs,Async Rust SDK for XiaoMi FDS (File Data Storage) object storage
+2026-11-07T19:06:05.072847Z,fds_cli,0.1.0,0,0,https://github.com/modestoma/fds-rs,"Command-line tool for XiaoMi FDS object storage, built on the fds-rs SDK"
+2026-11-07T19:17:41.2773Z,mxblocks,0.1.0,0,0,https://github.com/talaagent/mxblocks,"Rich message blocks (buttons, tables, charts, forms, ...) for Matrix bots: types, validation and the content-key compat rules"
+2026-11-07T19:17:44.338604Z,mxblocks-asks,0.1.0,0,0,https://github.com/talaagent/mxblocks,Reaction asks for Matrix bots: turn '[ask: ✅ deploy | ❌ skip]' in a reply into seeded reactions and mxblocks buttons
+2026-11-07T19:17:45.598255Z,mxblocks-tex,0.1.0,0,0,https://github.com/talaagent/mxblocks,"Math messages for mxblocks: run the mxblocks-math renderer and build the m.image event (MSC2191 markup, caption)"
+2026-11-07T19:17:46.953756Z,mxblocks-tools,0.1.0,0,0,https://github.com/talaagent/mxblocks,rich_send / rich_edit tool definitions and argument checks for LLM agents posting mxblocks messages
+2026-11-07T19:19:05.83393Z,taxus-domain,1.4.4,0,0,https://github.com/crustyrustacean/taxus.git,"Pure data model for Taxus sites: the Site Tree, its nodes, and the derivations computed over them."
+2026-11-07T19:19:27.25791Z,taxus-common,1.4.4,0,0,https://github.com/crustyrustacean/taxus.git,"A Rust based static site generator, founded in Tera and Yew."
