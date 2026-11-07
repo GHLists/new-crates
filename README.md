@@ -8,45 +8,45 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-07 03:19 UTC
+## Latest list — 2026-11-07 04:19 UTC
 
-New crates published between 2026-11-07 02:18 UTC and 2026-11-07 03:19 UTC.
+New crates published between 2026-11-07 03:19 UTC and 2026-11-07 04:19 UTC.
 
-[Full CSV](data/new-crates-2026-11-07T03-19-23-358361Z.csv)
+[Full CSV](data/new-crates-2026-11-07T04-19-41-290804Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-07 02:20:18 | [waft-services](https://crates.io/crates/waft-services) | 0.1.0 | 0 | Keyboard, text input, and system services for Waft |
-| 2026-11-07 02:26:39 | [tv-rs-rag](https://crates.io/crates/tv-rs-rag) | 0.7.1 | 0 | In-memory RAG module for hardware quirks, protocol specs, episodic remediation… |
-| 2026-11-07 02:27:31 | [openusd-imaging](https://crates.io/crates/openusd-imaging) | 0.8.0 | 0 | Placeholder for the openusd project's Hydra-style imaging layer |
-| 2026-11-07 02:27:52 | [tv-rs-provision](https://crates.io/crates/tv-rs-provision) | 0.7.1 | 0 | First-boot provisioning via BLE Improv Wi-Fi and QR-code pairing for digital si… |
-| 2026-11-07 02:29:12 | [tv-rs-companion](https://crates.io/crates/tv-rs-companion) | 0.7.1 | 0 | Mobile companion core library with no_std+alloc support, UniFFI Swift/Kotlin bi… |
-| 2026-11-07 02:30:37 | [waft-painting](https://crates.io/crates/waft-painting) | 0.1.0 | 0 | Alignment, decoration, and text painting for Waft |
-| 2026-11-07 02:37:46 | [secret-redact](https://crates.io/crates/secret-redact) | 0.1.0 | 0 | Find secrets in text and replace them with [REDACTED:rule]: API keys, tokens, p… |
-| 2026-11-07 02:40:50 | [netget-pgwire](https://crates.io/crates/netget-pgwire) | 0.35.0 | 0 | NetGet fork of pgwire: malformed frontend messages are refused with FATAL 08P01… |
-| 2026-11-07 02:40:58 | [waft-rendering](https://crates.io/crates/waft-rendering) | 0.1.0 | 0 | Render-object tree and layout for Waft |
-| 2026-11-07 02:45:39 | [netget-opensrv-mysql](https://crates.io/crates/netget-opensrv-mysql) | 0.7.0 | 0 | NetGet fork of opensrv-mysql: no use-after-free on pipelined commands, ERR 1835… |
-| 2026-11-07 02:48:50 | [contextual-ui](https://crates.io/crates/contextual-ui) | 0.2.0 | 0 | Generic TUI framework for Rust applications with context-aware navigation |
-| 2026-11-07 02:51:15 | [waft-shell](https://crates.io/crates/waft-shell) | 0.1.0 | 0 | Framework-side embedder client for Waft |
-| 2026-11-07 02:53:46 | [strhide-rusty-h265](https://crates.io/crates/strhide-rusty-h265) | 0.1.0 | 0 | Fork of rusty_h265 0.6.2 adding CABAC observer hooks and sequence reset for str… |
-| 2026-11-07 02:57:41 | [fandhe-browser-profile](https://crates.io/crates/fandhe-browser-profile) | 0.1.0 | 0 | Profile isolation for fandhe-browser: path-safe profile storage, advisory locks… |
-| 2026-11-07 02:57:43 | [fandhe-browser-js](https://crates.io/crates/fandhe-browser-js) | 0.1.0 | 0 | JavaScript engine abstraction for fandhe-browser with optional V8 and boa backe… |
-| 2026-11-07 02:57:46 | [fandhe-browser-core](https://crates.io/crates/fandhe-browser-core) | 0.1.0 | 0 | Core library of fandhe-browser: fetch, HTML parsing, DOM, queries, CSSOM and co… |
-| 2026-11-07 02:57:51 | [fandhe-browser-ai](https://crates.io/crates/fandhe-browser-ai) | 0.1.0 | 0 | AI-oriented API for fandhe-browser: accessibility tree, reduced DOM snapshots a… |
-| 2026-11-07 02:57:54 | [fandhe-browser-cdp](https://crates.io/crates/fandhe-browser-cdp) | 0.1.0 | 0 | Chrome DevTools Protocol compatible server for fandhe-browser |
-| 2026-11-07 02:59:02 | [coax](https://crates.io/crates/coax) | 0.1.0 | 0 | a terminal chat for agents that speak the Agent Client Protocol |
-| 2026-11-07 03:01:45 | [waft-widgets](https://crates.io/crates/waft-widgets) | 0.1.0 | 0 | Widget framework and widgets for Waft |
-| 2026-11-07 03:02:59 | [fandhe-browser-render](https://crates.io/crates/fandhe-browser-render) | 0.1.0 | 0 | Client for the out-of-process Servo rendering host of fandhe-browser (does not… |
-| 2026-11-07 03:08:21 | [director-skia-safe](https://crates.io/crates/director-skia-safe) | 0.153.3 | 0 | skia-safe 0.153.3 with Director's Vulkan resolver lifetime fix: the get_proc re… |
-| 2026-11-07 03:12:13 | [cjk-ocr-layout](https://crates.io/crates/cjk-ocr-layout) | 0.1.0 | 0 | Engine-independent post-processing of OCR boxes for Japanese, Chinese and Korea… |
-| 2026-11-07 03:12:15 | [waft](https://crates.io/crates/waft) | 0.1.0 | 0 | UI framework: Flutter's widgets, plus Entity, on a Rust render engine |
-| 2026-11-07 03:12:25 | [screen-text-settle](https://crates.io/crates/screen-text-settle) | 0.1.0 | 0 | Detect when animated on-screen text (typewriter dialogue, fades) has stopped ch… |
-| 2026-11-07 03:13:08 | [fandhe-browser-cli](https://crates.io/crates/fandhe-browser-cli) | 0.1.0 | 0 | Command-line interface of fandhe-browser (installs the fandhe-browser binary) |
-| 2026-11-07 03:18:25 | [director-breakdown](https://crates.io/crates/director-breakdown) | 0.1.0 | 0 | Shot breakdown of a reference video for Director: cuts, transitions and contain… |
-| 2026-11-07 03:18:25 | [director-dom](https://crates.io/crates/director-dom) | 0.1.0 | 0 | The scripted page document and recorder protocol Director's GSAP recording shar… |
-| 2026-11-07 03:18:26 | [director-scene](https://crates.io/crates/director-scene) | 0.1.0 | 0 | Serializable scene document for Director. No renderer types. |
-| 2026-11-07 03:18:26 | [director-track](https://crates.io/crates/director-track) | 0.1.0 | 0 | Feature tracking and camera solving from footage for Director matchmoves. |
-| 2026-11-07 03:18:41 | [director-recorder](https://crates.io/crates/director-recorder) | 0.1.0 | 0 | The GSAP recorder helper that runs page scripts for Director's HTML compiler in… |
+| 2026-11-07 03:22:14 | [agrafe-render](https://crates.io/crates/agrafe-render) | 0.1.0 | 0 | Derived representations for agrafe: which files render, vips and the sandboxed… |
+| 2026-11-07 03:22:15 | [agrafe-render-geo](https://crates.io/crates/agrafe-render-geo) | 0.1.0 | 0 | Sandboxed helper: draws the geometry of a GeoJSON, GPX, KML, KMZ or GML file or… |
+| 2026-11-07 03:22:15 | [agrafe-render-text](https://crates.io/crates/agrafe-render-text) | 0.1.0 | 0 | Sandboxed helper: rasterises the first lines of a text file for its thumbnail |
+| 2026-11-07 03:22:16 | [agrafe](https://crates.io/crates/agrafe) | 0.1.0 | 0 | File storage service: encrypted, scanned, with previews. The library; see agraf… |
+| 2026-11-07 03:22:18 | [agrafe-axum](https://crates.io/crates/agrafe-axum) | 0.1.0 | 0 | The HTTP interfaces of agrafe as axum routers, to serve or to nest in another a… |
+| 2026-11-07 03:22:41 | [waft-cupertino](https://crates.io/crates/waft-cupertino) | 0.1.0 | 0 | iOS-style Cupertino widgets for Waft |
+| 2026-11-07 03:23:11 | [fandhe-browser-mcp](https://crates.io/crates/fandhe-browser-mcp) | 0.1.0 | 0 | MCP reference plugin for fandhe-browser (separate binary, stdio) |
+| 2026-11-07 03:23:45 | [tang-safetensors](https://crates.io/crates/tang-safetensors) | 0.1.0 | 0 | CPU safetensors load/save for tang tensors |
+| 2026-11-07 03:23:47 | [tang-compute](https://crates.io/crates/tang-compute) | 0.1.0 | 0 | Native GPU compute backends via tang-expr multi-target codegen |
+| 2026-11-07 03:23:51 | [tang-mesh](https://crates.io/crates/tang-mesh) | 0.1.0 | 0 | Distributed expression graph execution for tang |
+| 2026-11-07 03:26:07 | [tang-all](https://crates.io/crates/tang-all) | 0.1.0 | 0 | One dependency for the tang stack: re-exports tang and its subcrates behind fea… |
+| 2026-11-07 03:29:20 | [director-lottie-data](https://crates.io/crates/director-lottie-data) | 0.1.0 | 0 | Data structures for Lottie animations |
+| 2026-11-07 03:32:56 | [waft-markdown](https://crates.io/crates/waft-markdown) | 0.1.0 | 0 | Markdown widgets for Waft, with flutter_markdown's API ideas and look, built on… |
+| 2026-11-07 03:38:39 | [director-lottie-core](https://crates.io/crates/director-lottie-core) | 0.1.0 | 0 | Core logic for Lottie animations |
+| 2026-11-07 03:43:21 | [waft-winui](https://crates.io/crates/waft-winui) | 0.1.0 | 0 | WinUI 3 controls and Fluent styling for the Waft UI framework |
+| 2026-11-07 03:44:14 | [nornir-mimir-store](https://crates.io/crates/nornir-mimir-store) | 0.1.0 | 0 | Mimir table stores: one named set of Arrow tables (the executable graph: exec.n… |
+| 2026-11-07 03:48:52 | [director-lottie-skia](https://crates.io/crates/director-lottie-skia) | 0.1.0 | 0 | Skia renderer for Lottie animations |
+| 2026-11-07 03:48:53 | [cctv-driver](https://crates.io/crates/cctv-driver) | 0.3.0 | 0 | Vendor-neutral driver extension point for cctv-rs |
+| 2026-11-07 03:50:45 | [cctv-rag](https://crates.io/crates/cctv-rag) | 0.3.0 | 0 | Temporal incident ledger, spatial topology graph, and diagnostic playbooks for… |
+| 2026-11-07 03:51:15 | [cctv-pair](https://crates.io/crates/cctv-pair) | 0.3.0 | 0 | Device pairing ceremony, QR/ADB flows, and trust store for cctv-rs |
+| 2026-11-07 03:51:46 | [cctv-sync](https://crates.io/crates/cctv-sync) | 0.3.0 | 0 | Cross-device state convergence and CRDT state-sync for trust store and device r… |
+| 2026-11-07 03:59:21 | [director-video-core](https://crates.io/crates/director-video-core) | 0.1.0 | 0 | A high-performance 2D rendering engine using Skia and Taffy |
+| 2026-11-07 04:01:03 | [egui_bg_layer](https://crates.io/crates/egui_bg_layer) | 0.37.0 | 0 | Blur / liquid-glass layers for egui: everything painted beneath a rect is redra… |
+| 2026-11-07 04:02:30 | [base-web-html-macros](https://crates.io/crates/base-web-html-macros) | 0.2.0 | 0 | Compile-time template syntax for base-web-html |
+| 2026-11-07 04:02:39 | [base-web-html](https://crates.io/crates/base-web-html) | 0.2.0 | 0 | Compiled HTML templates with escaped, writer-based rendering |
+| 2026-11-07 04:03:31 | [pdf-objects](https://crates.io/crates/pdf-objects) | 0.1.0-alpha.1 | 0 | PDF's objects as written, their parser and their writer: owned values, each wit… |
+| 2026-11-07 04:03:46 | [pdf-filters](https://crates.io/crates/pdf-filters) | 0.1.0-alpha.1 | 0 | PDF's standard stream filters, decoded with every fault said and what decoded k… |
+| 2026-11-07 04:08:41 | [director-render](https://crates.io/crates/director-render) | 0.1.0 | 0 | Paints and exports frames of a live Director or a scene document. |
+| 2026-11-07 04:11:42 | [rdom-capture](https://crates.io/crates/rdom-capture) | 0.1.0 | 0 | Headless capture, inspection and design-iteration sessions for rdom-tui apps —… |
+| 2026-11-07 04:12:32 | [fsspec_kafka](https://crates.io/crates/fsspec_kafka) | 0.1.0 | 0 | Kafka topics and partitions through fsspec |
+| 2026-11-07 04:19:03 | [director-schema](https://crates.io/crates/director-schema) | 0.1.0 | 0 | JSON schema reflection of Director's scripting and node API |
 
 ## Data source
 
