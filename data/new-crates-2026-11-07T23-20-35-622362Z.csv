@@ -1,0 +1,33 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-07T22:24:56.03858Z,pankarta-software,0.1.0,0,0,https://github.com/Khalzz/Pankarta-Software,"A Rust game engine: wgpu rendering, rapier physics, SDL2 windowing, input and audio, with scenes made of nodes, properties and behaviours"
+2026-11-07T22:29:20.767721Z,igs-iso9506-mms-codec,1.0.0,0,0,https://github.com/aklira/igs-iso9506-mms,"BER and the encoding of TPKT, COTP, session, presentation, ACSE and MMS PDUs: no I/O."
+2026-11-07T22:29:37.292803Z,igs-iso9506-mms-link,1.0.0,0,0,https://github.com/aklira/igs-iso9506-mms,Sans-I/O state machines of the OSI upper layers and of the MMS association.
+2026-11-07T22:29:48.405403Z,igs-iso9506-mms,1.0.0,0,0,https://github.com/aklira/igs-iso9506-mms,Async MMS client and server over TCP and TLS.
+2026-11-07T22:31:46.425022Z,igs-iec-tase2-model,1.0.0,0,0,https://github.com/aklira/igs-iec-tase2,TASE.2 (IEC 60870-6) types and conversion to and from MMS data; no I/O.
+2026-11-07T22:31:50.812839Z,igs-iec-tase2-link,1.0.0,0,0,https://github.com/aklira/igs-iec-tase2,"TASE.2 (IEC 60870-6) sans-I/O bilateral tables, data sets and transfer sets."
+2026-11-07T22:32:09.81016Z,brodo,1.0.0,0,0,https://github.com/akahmys/brodo,"Sparse volumes in pure Rust: a VDB-style sparse tree, fields that share a topology, and zero-copy grid files"
+2026-11-07T22:32:22.687038Z,colino,1.0.0,0,0,https://github.com/akahmys/brodo,"Converts triangle meshes to narrow-band signed distance fields (SDF) on brodo's sparse volumes, and reports topology changes"
+2026-11-07T22:32:29.993994Z,mestolo,1.0.0,0,0,https://github.com/akahmys/brodo,"A command that looks inside brodo's files: what a cache file, an archive or a .vdb holds, a slice of a grid as PNG, and grids converted to .vdb or .vtu"
+2026-11-07T22:33:46.571153Z,igs-iec-tase2,1.0.0,0,0,https://github.com/aklira/igs-iec-tase2,"TASE.2 (IEC 60870-6) client on igs-iso9506-mms: association, data values, data sets, transfer sets and reports."
+2026-11-07T22:36:59.548064Z,fandhe-browser-servo-host,0.1.1,0,0,https://github.com/Fandhe-AI/fandhe-browser,Out-of-process Servo rendering host of fandhe-browser (built binary includes MPL-2.0 components)
+2026-11-07T22:41:36.790305Z,adotenv-lsp,0.1.0,0,0,https://github.com/asamarts/adotenv,Language Server Protocol support for adotenv documents.
+2026-11-07T22:43:20.451038Z,igstase2-server,1.0.0,0,0,https://github.com/aklira/igs-iec-tase2,"Demonstration TASE.2 server: points from a TOML file, simulated changes, the device under test of the bench (task S2)."
+2026-11-07T22:44:09.260302Z,cargo-group-uses,0.1.0,0,0,https://github.com/suzak/cargo-group-uses,"Groups and merges Rust `use` declarations the way a project's style asks, where rustfmt's group_imports and imports_granularity fall short"
+2026-11-07T22:45:06.115774Z,cudakit-cudarc,0.19.10,0,0,https://github.com/praveenperera/cudarc,"Fork of cudarc, safe and minimal CUDA bindings, with safer library loading on Linux and Windows"
+2026-11-07T22:50:54.036347Z,hydo-config,0.2.0,0,0,https://github.com/kakoc/hydo,"Every environment variable hydo reads, in one place: the inventory, a snapshot read once at a program's start, and typed configuration grouped by owner"
+2026-11-07T22:50:58.055529Z,hydo-schedule,0.2.0,0,0,https://github.com/kakoc/hydo,hydo's schedule language as types: parse and print a schedule string byte for byte
+2026-11-07T22:51:02.931328Z,hydo-agent-proto,0.1.0,0,0,https://github.com/kakoc/hydo,"hydo's host-agent protocol: messages, canonical JSON, console framing, the host session with the version rule, the generated schema and the example transcripts"
+2026-11-07T22:51:23.942873Z,hydo-manifest,0.2.0,0,0,https://github.com/kakoc/hydo,"hydo's project format as types: hydo.yaml, a plan's test: section and the hydo/ folder"
+2026-11-07T22:51:39.372285Z,hydo-image,0.2.0,0,0,https://github.com/kakoc/hydo,"hydo's image record: what shapes an image's runs but is not inside it (the guest kernel by sha256, the fingerprint epoch) in /etc/hydo/image.json, and the build record <image>.json next to it; the ke…"
+2026-11-07T22:51:56.820688Z,leptoskit_plugin_sensors,0.0.0,0,0,https://github.com/leptoskit/leptoskit,"Accelerometer, gravity-free acceleration, gyroscope, magnetometer and barometer streams from one LeptosKit plugin."
+2026-11-07T22:52:01.532658Z,leptoskit_plugin_network_info,0.0.0,0,0,https://github.com/leptoskit/leptoskit,"Wi-Fi name, BSSID, and local address details for LeptosKit, returning nothing the platform withholds."
+2026-11-07T22:52:05.813254Z,leptoskit_plugin_android_intent,0.0.0,0,0,https://github.com/leptoskit/leptoskit,"Validated, bounded Android intents (activities, choosers, broadcasts, services) for LeptosKit."
+2026-11-07T22:52:10.294741Z,leptoskit_plugin_android_alarm_manager,0.0.0,0,0,https://github.com/leptoskit/leptoskit,"Android AlarmManager alarms, a durable fired-alarm queue and headless alarm handlers for LeptosKit."
+2026-11-07T22:53:05.946421Z,igstase2-client,1.0.0,0,0,https://github.com/aklira/igs-iec-tase2,"Command-line TASE.2 client: associates with a TASE.2 server and reads, writes, and monitors its points and data sets (task T2)."
+2026-11-07T23:03:09.046937Z,clang-tidy-gui,0.2.0,0,0,https://github.com/varnholt/clang-tidy-gui,A desktop workspace for running clang-tidy checks one at a time
+2026-11-07T23:05:38.318851Z,tower-sessions-diesel-store,0.1.0,0,0,https://gitlab.com/Lynnesbian/tower-sessions-diesel-store,A Diesel store backend for tower-sessions
+2026-11-07T23:08:48.433967Z,hdf5-pure-core,0.48.0-rc.1,0,0,https://github.com/CramBL/hdf5-pure,Shared public types of hdf5-pure
+2026-11-07T23:09:02.61322Z,hdf5-pure-filter,0.48.0-rc.1,0,0,https://github.com/CramBL/hdf5-pure,Pure-Rust HDF5 chunk filter codecs and pipelines
+2026-11-07T23:09:11.712875Z,hdf5-pure-format,0.48.0-rc.1,0,0,https://github.com/CramBL/hdf5-pure,Pure-Rust HDF5 on-disk structures and codecs
+2026-11-07T23:09:17.898137Z,hdf5-pure-space,0.48.0-rc.1,0,0,https://github.com/CramBL/hdf5-pure,Pure HDF5 file-space allocation and free-space policy
+2026-11-07T23:09:56.407154Z,service-key,0.6.0,0,0,,The service key — [METHOD] [service]/resource — a string naming one call to one service

@@ -8,37 +8,46 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-07 22:18 UTC
+## Latest list — 2026-11-07 23:20 UTC
 
-New crates published between 2026-11-07 21:18 UTC and 2026-11-07 22:18 UTC.
+New crates published between 2026-11-07 22:18 UTC and 2026-11-07 23:20 UTC.
 
-[Full CSV](data/new-crates-2026-11-07T22-18-18-096284Z.csv)
+[Full CSV](data/new-crates-2026-11-07T23-20-35-622362Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-07 21:21:47 | [polyglot-stream-heal](https://crates.io/crates/polyglot-stream-heal) | 1.0.0 | 0 | Ultra-fast 6us incremental O(n) streaming JSON repair, 14-dialect Mermaid diagr… |
-| 2026-11-07 21:23:10 | [rind-aws-lc-rs](https://crates.io/crates/rind-aws-lc-rs) | 1.0.0 | 0 | aws-lc-rs 1.x's API backed by rind |
-| 2026-11-07 21:24:48 | [rind-str0m](https://crates.io/crates/rind-str0m) | 0.25.0 | 0 | str0m CryptoProvider backed by rind |
-| 2026-11-07 21:28:10 | [rfc9162-tiles](https://crates.io/crates/rfc9162-tiles) | 0.6.1 | 0 | Tiled, indexed storage for an RFC 9162 log: tlog-tiles layout, entry bundles, k… |
-| 2026-11-07 21:34:03 | [blobz](https://crates.io/crates/blobz) | 0.1.0 | 0 | Content-addressed file store with a database catalog |
-| 2026-11-07 21:35:15 | [taxus-typescript-darwin-arm64](https://crates.io/crates/taxus-typescript-darwin-arm64) | 1.4.5 | 0 | Bundled Microsoft TypeScript compiler archive for darwin-arm64. |
-| 2026-11-07 21:35:19 | [taxus-typescript-darwin-x64](https://crates.io/crates/taxus-typescript-darwin-x64) | 1.4.5 | 0 | Bundled Microsoft TypeScript compiler archive for darwin-x64. |
-| 2026-11-07 21:35:23 | [taxus-typescript-linux-arm64](https://crates.io/crates/taxus-typescript-linux-arm64) | 1.4.5 | 0 | Bundled Microsoft TypeScript compiler archive for linux-arm64. |
-| 2026-11-07 21:35:25 | [tpt-kinetix-ops](https://crates.io/crates/tpt-kinetix-ops) | 0.2.0 | 0 | Library form of the container operations behind the tpt-kinetix CLI: probe JSON… |
-| 2026-11-07 21:35:27 | [taxus-typescript-linux-x64](https://crates.io/crates/taxus-typescript-linux-x64) | 1.4.5 | 0 | Bundled Microsoft TypeScript compiler archive for linux-x64. |
-| 2026-11-07 21:35:31 | [taxus-typescript-win32-arm64](https://crates.io/crates/taxus-typescript-win32-arm64) | 1.4.5 | 0 | Bundled Microsoft TypeScript compiler archive for win32-arm64. |
-| 2026-11-07 21:41:01 | [engram-cache](https://crates.io/crates/engram-cache) | 0.1.1 | 0 | An asynchronous, multi-tier cache backed by Moka and SQLite |
-| 2026-11-07 21:41:18 | [taxus-typescript-win32-x64](https://crates.io/crates/taxus-typescript-win32-x64) | 1.4.5 | 0 | Bundled Microsoft TypeScript compiler archive for win32-x64. |
-| 2026-11-07 21:47:06 | [rubrique](https://crates.io/crates/rubrique) | 0.1.0 | 0 | A fast editor, agentic on demand. This first crates.io release is the small nat… |
-| 2026-11-07 21:49:39 | [stemma-diff](https://crates.io/crates/stemma-diff) | 0.7.0 | 0 | Opinionated document comparison for the Stemma Word engine. |
-| 2026-11-07 21:51:00 | [abnegate-recurrence](https://crates.io/crates/abnegate-recurrence) | 0.1.0 | 0 | An RFC 5545 RRULE subset evaluated on an IANA timezone's wall clock, with fixed… |
-| 2026-11-07 21:51:01 | [taxus-ssg](https://crates.io/crates/taxus-ssg) | 1.4.5 | 0 | A reusable Rust static site generator library. |
-| 2026-11-07 21:52:53 | [dalx](https://crates.io/crates/dalx) | 0.0.1 | 0 | A multi-tenant, multi-region data access layer for enterprise applications |
-| 2026-11-07 21:56:43 | [backmarket-seller](https://crates.io/crates/backmarket-seller) | 0.1.0-alpha.1 | 0 | Unofficial Rust client for the Back Market Seller API. Not affiliated with Back… |
-| 2026-11-07 21:57:28 | [status-machina](https://crates.io/crates/status-machina) | 0.1.0 | 0 | Typed caller-driven state machines with checked composition and bounded inspect… |
-| 2026-11-07 22:00:52 | [laminapdf-extract](https://crates.io/crates/laminapdf-extract) | 0.0.0 | 0 | Reserved for lamina, a PDF library. Not yet released. |
-| 2026-11-07 22:11:17 | [bandstand](https://crates.io/crates/bandstand) | 0.1.0 | 0 | The live jazz band behind Nat Han Adventures: an NES-style synth, MML songs and… |
-| 2026-11-07 22:15:04 | [llmrace](https://crates.io/crates/llmrace) | 0.2.0 | 0 | Race LLM providers head-to-head in your terminal: latency, TTFB, tokens/s, p95… |
+| 2026-11-07 22:24:56 | [pankarta-software](https://crates.io/crates/pankarta-software) | 0.1.0 | 0 | A Rust game engine: wgpu rendering, rapier physics, SDL2 windowing, input and a… |
+| 2026-11-07 22:29:20 | [igs-iso9506-mms-codec](https://crates.io/crates/igs-iso9506-mms-codec) | 1.0.0 | 0 | BER and the encoding of TPKT, COTP, session, presentation, ACSE and MMS PDUs: n… |
+| 2026-11-07 22:29:37 | [igs-iso9506-mms-link](https://crates.io/crates/igs-iso9506-mms-link) | 1.0.0 | 0 | Sans-I/O state machines of the OSI upper layers and of the MMS association. |
+| 2026-11-07 22:29:48 | [igs-iso9506-mms](https://crates.io/crates/igs-iso9506-mms) | 1.0.0 | 0 | Async MMS client and server over TCP and TLS. |
+| 2026-11-07 22:31:46 | [igs-iec-tase2-model](https://crates.io/crates/igs-iec-tase2-model) | 1.0.0 | 0 | TASE.2 (IEC 60870-6) types and conversion to and from MMS data; no I/O. |
+| 2026-11-07 22:31:50 | [igs-iec-tase2-link](https://crates.io/crates/igs-iec-tase2-link) | 1.0.0 | 0 | TASE.2 (IEC 60870-6) sans-I/O bilateral tables, data sets and transfer sets. |
+| 2026-11-07 22:32:09 | [brodo](https://crates.io/crates/brodo) | 1.0.0 | 0 | Sparse volumes in pure Rust: a VDB-style sparse tree, fields that share a topol… |
+| 2026-11-07 22:32:22 | [colino](https://crates.io/crates/colino) | 1.0.0 | 0 | Converts triangle meshes to narrow-band signed distance fields (SDF) on brodo's… |
+| 2026-11-07 22:32:29 | [mestolo](https://crates.io/crates/mestolo) | 1.0.0 | 0 | A command that looks inside brodo's files: what a cache file, an archive or a .… |
+| 2026-11-07 22:33:46 | [igs-iec-tase2](https://crates.io/crates/igs-iec-tase2) | 1.0.0 | 0 | TASE.2 (IEC 60870-6) client on igs-iso9506-mms: association, data values, data… |
+| 2026-11-07 22:36:59 | [fandhe-browser-servo-host](https://crates.io/crates/fandhe-browser-servo-host) | 0.1.1 | 0 | Out-of-process Servo rendering host of fandhe-browser (built binary includes MP… |
+| 2026-11-07 22:41:36 | [adotenv-lsp](https://crates.io/crates/adotenv-lsp) | 0.1.0 | 0 | Language Server Protocol support for adotenv documents. |
+| 2026-11-07 22:43:20 | [igstase2-server](https://crates.io/crates/igstase2-server) | 1.0.0 | 0 | Demonstration TASE.2 server: points from a TOML file, simulated changes, the de… |
+| 2026-11-07 22:44:09 | [cargo-group-uses](https://crates.io/crates/cargo-group-uses) | 0.1.0 | 0 | Groups and merges Rust `use` declarations the way a project's style asks, where… |
+| 2026-11-07 22:45:06 | [cudakit-cudarc](https://crates.io/crates/cudakit-cudarc) | 0.19.10 | 0 | Fork of cudarc, safe and minimal CUDA bindings, with safer library loading on L… |
+| 2026-11-07 22:50:54 | [hydo-config](https://crates.io/crates/hydo-config) | 0.2.0 | 0 | Every environment variable hydo reads, in one place: the inventory, a snapshot… |
+| 2026-11-07 22:50:58 | [hydo-schedule](https://crates.io/crates/hydo-schedule) | 0.2.0 | 0 | hydo's schedule language as types: parse and print a schedule string byte for b… |
+| 2026-11-07 22:51:02 | [hydo-agent-proto](https://crates.io/crates/hydo-agent-proto) | 0.1.0 | 0 | hydo's host-agent protocol: messages, canonical JSON, console framing, the host… |
+| 2026-11-07 22:51:23 | [hydo-manifest](https://crates.io/crates/hydo-manifest) | 0.2.0 | 0 | hydo's project format as types: hydo.yaml, a plan's test: section and the hydo/… |
+| 2026-11-07 22:51:39 | [hydo-image](https://crates.io/crates/hydo-image) | 0.2.0 | 0 | hydo's image record: what shapes an image's runs but is not inside it (the gues… |
+| 2026-11-07 22:51:56 | [leptoskit_plugin_sensors](https://crates.io/crates/leptoskit_plugin_sensors) | 0.0.0 | 0 | Accelerometer, gravity-free acceleration, gyroscope, magnetometer and barometer… |
+| 2026-11-07 22:52:01 | [leptoskit_plugin_network_info](https://crates.io/crates/leptoskit_plugin_network_info) | 0.0.0 | 0 | Wi-Fi name, BSSID, and local address details for LeptosKit, returning nothing t… |
+| 2026-11-07 22:52:05 | [leptoskit_plugin_android_intent](https://crates.io/crates/leptoskit_plugin_android_intent) | 0.0.0 | 0 | Validated, bounded Android intents (activities, choosers, broadcasts, services)… |
+| 2026-11-07 22:52:10 | [leptoskit_plugin_android_alarm_manager](https://crates.io/crates/leptoskit_plugin_android_alarm_manager) | 0.0.0 | 0 | Android AlarmManager alarms, a durable fired-alarm queue and headless alarm han… |
+| 2026-11-07 22:53:05 | [igstase2-client](https://crates.io/crates/igstase2-client) | 1.0.0 | 0 | Command-line TASE.2 client: associates with a TASE.2 server and reads, writes,… |
+| 2026-11-07 23:03:09 | [clang-tidy-gui](https://crates.io/crates/clang-tidy-gui) | 0.2.0 | 0 | A desktop workspace for running clang-tidy checks one at a time |
+| 2026-11-07 23:05:38 | [tower-sessions-diesel-store](https://crates.io/crates/tower-sessions-diesel-store) | 0.1.0 | 0 | A Diesel store backend for tower-sessions |
+| 2026-11-07 23:08:48 | [hdf5-pure-core](https://crates.io/crates/hdf5-pure-core) | 0.48.0-rc.1 | 0 | Shared public types of hdf5-pure |
+| 2026-11-07 23:09:02 | [hdf5-pure-filter](https://crates.io/crates/hdf5-pure-filter) | 0.48.0-rc.1 | 0 | Pure-Rust HDF5 chunk filter codecs and pipelines |
+| 2026-11-07 23:09:11 | [hdf5-pure-format](https://crates.io/crates/hdf5-pure-format) | 0.48.0-rc.1 | 0 | Pure-Rust HDF5 on-disk structures and codecs |
+| 2026-11-07 23:09:17 | [hdf5-pure-space](https://crates.io/crates/hdf5-pure-space) | 0.48.0-rc.1 | 0 | Pure HDF5 file-space allocation and free-space policy |
+| 2026-11-07 23:09:56 | [service-key](https://crates.io/crates/service-key) | 0.6.0 | 0 | The service key — [METHOD] [service]/resource — a string naming one call to one… |
 
 ## Data source
 
