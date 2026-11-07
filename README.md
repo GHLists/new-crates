@@ -8,38 +8,37 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-07 21:18 UTC
+## Latest list — 2026-11-07 22:18 UTC
 
-New crates published between 2026-11-07 20:19 UTC and 2026-11-07 21:18 UTC.
+New crates published between 2026-11-07 21:18 UTC and 2026-11-07 22:18 UTC.
 
-[Full CSV](data/new-crates-2026-11-07T21-18-22-237472Z.csv)
+[Full CSV](data/new-crates-2026-11-07T22-18-18-096284Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-07 20:31:23 | [oxrok-ui](https://crates.io/crates/oxrok-ui) | 0.2.0-alpha.1 | 0 | A Rust/egui logic analyzer, built on oxrok |
-| 2026-11-07 20:39:01 | [wasm2rs-macros](https://crates.io/crates/wasm2rs-macros) | 0.3.1 | 0 | Procedural macro that embeds a WebAssembly module as Rust source, via wasm2rs. |
-| 2026-11-07 20:40:54 | [axtb-d4](https://crates.io/crates/axtb-d4) | 0.1.0 | 0 | DFT-D4 dispersion model (dftd4 4.3.1 / tblite 0.8.0 compatible) for GFN2-xTB |
-| 2026-11-07 20:40:57 | [axtb-solvation](https://crates.io/crates/axtb-solvation) | 0.1.0 | 0 | ALPB/GBSA implicit solvation for GFN2-xTB (xtb 6.8.0 and 6.7.1 compatible) |
-| 2026-11-07 20:41:28 | [axtb](https://crates.io/crates/axtb) | 0.1.0 | 0 | Extended tight-binding quantum chemistry: GFN2-xTB energies, gradients and Hess… |
-| 2026-11-07 20:41:32 | [axtb-gfnff](https://crates.io/crates/axtb-gfnff) | 0.1.0 | 0 | GFN-FF force field (Spicher & Grimme 2020): topology, energies, gradients and H… |
-| 2026-11-07 20:41:40 | [axtb-gxtb](https://crates.io/crates/axtb-gxtb) | 0.1.0 | 0 | g-xTB v1.1 (public preprint version) and 2.0.1: single points, gradients and He… |
-| 2026-11-07 20:42:52 | [knave-expand](https://crates.io/crates/knave-expand) | 0.0.0 | 0 | Placeholder for the Knave language expander |
-| 2026-11-07 20:43:05 | [thumbswing](https://crates.io/crates/thumbswing) | 0.0.1 | 0 | Trackball launch monitor: an arcade-style trackball swing turned into a full go… |
-| 2026-11-07 20:45:29 | [knave-lsp](https://crates.io/crates/knave-lsp) | 0.0.0 | 0 | Placeholder for the Knave language server |
-| 2026-11-07 20:50:36 | [ruxl](https://crates.io/crates/ruxl) | 0.0.0 | 0 | Reserved. |
-| 2026-11-07 20:50:44 | [rel9](https://crates.io/crates/rel9) | 0.0.0 | 0 | Reserved. |
-| 2026-11-07 20:52:04 | [axtb-driver](https://crates.io/crates/axtb-driver) | 0.1.0 | 0 | One request/response layer for the axtb front ends (CLI, Python): validation, d… |
-| 2026-11-07 20:53:24 | [dramaturge-syntax](https://crates.io/crates/dramaturge-syntax) | 0.3.0-alpha.4 | 0 | One dialogue AST for the dramaturge toolkit, with serde and syn parsers and low… |
-| 2026-11-07 20:56:18 | [stochology](https://crates.io/crates/stochology) | 0.1.0 | 0 | Stochology: The Theory and Ethics of Aim under Uncertainty — integrative framew… |
-| 2026-11-07 20:56:20 | [stochology-cli](https://crates.io/crates/stochology-cli) | 0.1.0 | 0 | Command-line runner and real-dataset laboratories for Stochology |
-| 2026-11-07 21:02:24 | [axtb-cli](https://crates.io/crates/axtb-cli) | 0.1.0 | 0 | The axtb command-line program: GFN2-xTB, g-xTB and GFN-FF energies, gradients a… |
-| 2026-11-07 21:03:00 | [bevy_filter_enum_derive](https://crates.io/crates/bevy_filter_enum_derive) | 0.6.0 | 0 | Derive macro for bevy_filter_enum |
-| 2026-11-07 21:03:03 | [bevy_filter_enum](https://crates.io/crates/bevy_filter_enum) | 0.6.0 | 0 | Query Bevy entities by enum variant with generated marker components |
-| 2026-11-07 21:08:15 | [flagbearer](https://crates.io/crates/flagbearer) | 0.1.1 | 0 | Flagbearer server SDK: check feature flags locally, kept current over a stream |
-| 2026-11-07 21:10:50 | [tinymind](https://crates.io/crates/tinymind) | 0.1.0 | 0 | Neural networks for embedded Rust: a no_std, allocation-free port of the tinymi… |
-| 2026-11-07 21:17:17 | [mutastic](https://crates.io/crates/mutastic) | 0.0.1 | 0 | Mutation testing that finds out whether your tests, or your agent's, actually c… |
-| 2026-11-07 21:17:19 | [cargo-mutastic](https://crates.io/crates/cargo-mutastic) | 0.0.1 | 0 | Mutation testing that finds out whether your tests, or your agent's, actually c… |
-| 2026-11-07 21:17:20 | [mutastic-rs](https://crates.io/crates/mutastic-rs) | 0.0.1 | 0 | Mutation testing that finds out whether your tests, or your agent's, actually c… |
+| 2026-11-07 21:21:47 | [polyglot-stream-heal](https://crates.io/crates/polyglot-stream-heal) | 1.0.0 | 0 | Ultra-fast 6us incremental O(n) streaming JSON repair, 14-dialect Mermaid diagr… |
+| 2026-11-07 21:23:10 | [rind-aws-lc-rs](https://crates.io/crates/rind-aws-lc-rs) | 1.0.0 | 0 | aws-lc-rs 1.x's API backed by rind |
+| 2026-11-07 21:24:48 | [rind-str0m](https://crates.io/crates/rind-str0m) | 0.25.0 | 0 | str0m CryptoProvider backed by rind |
+| 2026-11-07 21:28:10 | [rfc9162-tiles](https://crates.io/crates/rfc9162-tiles) | 0.6.1 | 0 | Tiled, indexed storage for an RFC 9162 log: tlog-tiles layout, entry bundles, k… |
+| 2026-11-07 21:34:03 | [blobz](https://crates.io/crates/blobz) | 0.1.0 | 0 | Content-addressed file store with a database catalog |
+| 2026-11-07 21:35:15 | [taxus-typescript-darwin-arm64](https://crates.io/crates/taxus-typescript-darwin-arm64) | 1.4.5 | 0 | Bundled Microsoft TypeScript compiler archive for darwin-arm64. |
+| 2026-11-07 21:35:19 | [taxus-typescript-darwin-x64](https://crates.io/crates/taxus-typescript-darwin-x64) | 1.4.5 | 0 | Bundled Microsoft TypeScript compiler archive for darwin-x64. |
+| 2026-11-07 21:35:23 | [taxus-typescript-linux-arm64](https://crates.io/crates/taxus-typescript-linux-arm64) | 1.4.5 | 0 | Bundled Microsoft TypeScript compiler archive for linux-arm64. |
+| 2026-11-07 21:35:25 | [tpt-kinetix-ops](https://crates.io/crates/tpt-kinetix-ops) | 0.2.0 | 0 | Library form of the container operations behind the tpt-kinetix CLI: probe JSON… |
+| 2026-11-07 21:35:27 | [taxus-typescript-linux-x64](https://crates.io/crates/taxus-typescript-linux-x64) | 1.4.5 | 0 | Bundled Microsoft TypeScript compiler archive for linux-x64. |
+| 2026-11-07 21:35:31 | [taxus-typescript-win32-arm64](https://crates.io/crates/taxus-typescript-win32-arm64) | 1.4.5 | 0 | Bundled Microsoft TypeScript compiler archive for win32-arm64. |
+| 2026-11-07 21:41:01 | [engram-cache](https://crates.io/crates/engram-cache) | 0.1.1 | 0 | An asynchronous, multi-tier cache backed by Moka and SQLite |
+| 2026-11-07 21:41:18 | [taxus-typescript-win32-x64](https://crates.io/crates/taxus-typescript-win32-x64) | 1.4.5 | 0 | Bundled Microsoft TypeScript compiler archive for win32-x64. |
+| 2026-11-07 21:47:06 | [rubrique](https://crates.io/crates/rubrique) | 0.1.0 | 0 | A fast editor, agentic on demand. This first crates.io release is the small nat… |
+| 2026-11-07 21:49:39 | [stemma-diff](https://crates.io/crates/stemma-diff) | 0.7.0 | 0 | Opinionated document comparison for the Stemma Word engine. |
+| 2026-11-07 21:51:00 | [abnegate-recurrence](https://crates.io/crates/abnegate-recurrence) | 0.1.0 | 0 | An RFC 5545 RRULE subset evaluated on an IANA timezone's wall clock, with fixed… |
+| 2026-11-07 21:51:01 | [taxus-ssg](https://crates.io/crates/taxus-ssg) | 1.4.5 | 0 | A reusable Rust static site generator library. |
+| 2026-11-07 21:52:53 | [dalx](https://crates.io/crates/dalx) | 0.0.1 | 0 | A multi-tenant, multi-region data access layer for enterprise applications |
+| 2026-11-07 21:56:43 | [backmarket-seller](https://crates.io/crates/backmarket-seller) | 0.1.0-alpha.1 | 0 | Unofficial Rust client for the Back Market Seller API. Not affiliated with Back… |
+| 2026-11-07 21:57:28 | [status-machina](https://crates.io/crates/status-machina) | 0.1.0 | 0 | Typed caller-driven state machines with checked composition and bounded inspect… |
+| 2026-11-07 22:00:52 | [laminapdf-extract](https://crates.io/crates/laminapdf-extract) | 0.0.0 | 0 | Reserved for lamina, a PDF library. Not yet released. |
+| 2026-11-07 22:11:17 | [bandstand](https://crates.io/crates/bandstand) | 0.1.0 | 0 | The live jazz band behind Nat Han Adventures: an NES-style synth, MML songs and… |
+| 2026-11-07 22:15:04 | [llmrace](https://crates.io/crates/llmrace) | 0.2.0 | 0 | Race LLM providers head-to-head in your terminal: latency, TTFB, tokens/s, p95… |
 
 ## Data source
 

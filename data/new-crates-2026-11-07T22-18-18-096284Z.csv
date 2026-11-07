@@ -1,0 +1,24 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-07T21:21:47.269565Z,polyglot-stream-heal,1.0.0,0,0,https://github.com/davidhcar/polyglot-stream-heal,"Ultra-fast 6us incremental O(n) streaming JSON repair, 14-dialect Mermaid diagram healer, and HTML5 sandbox balancer for LLM token streams (60x faster drop-in alternative to json-repair and partial-j…"
+2026-11-07T21:23:10.322385Z,rind-aws-lc-rs,1.0.0,0,0,https://github.com/moq-dev/rind,aws-lc-rs 1.x's API backed by rind
+2026-11-07T21:24:48.083711Z,rind-str0m,0.25.0,0,0,https://github.com/moq-dev/rind,str0m CryptoProvider backed by rind
+2026-11-07T21:28:10.098488Z,rfc9162-tiles,0.6.1,0,0,https://github.com/leidarljos/rfc9162,"Tiled, indexed storage for an RFC 9162 log: tlog-tiles layout, entry bundles, key sidecars, C2SP checkpoints"
+2026-11-07T21:34:03.780277Z,blobz,0.1.0,0,0,https://github.com/larry0x/blob-store,Content-addressed file store with a database catalog
+2026-11-07T21:35:15.522989Z,taxus-typescript-darwin-arm64,1.4.5,0,0,https://github.com/crustyrustacean/taxus.git,Bundled Microsoft TypeScript compiler archive for darwin-arm64.
+2026-11-07T21:35:19.868542Z,taxus-typescript-darwin-x64,1.4.5,0,0,https://github.com/crustyrustacean/taxus.git,Bundled Microsoft TypeScript compiler archive for darwin-x64.
+2026-11-07T21:35:23.350472Z,taxus-typescript-linux-arm64,1.4.5,0,0,https://github.com/crustyrustacean/taxus.git,Bundled Microsoft TypeScript compiler archive for linux-arm64.
+2026-11-07T21:35:25.19165Z,tpt-kinetix-ops,0.2.0,0,0,https://github.com/tpt-solutions/tpt-kinetix,"Library form of the container operations behind the tpt-kinetix CLI: probe JSON, remux and package"
+2026-11-07T21:35:27.073823Z,taxus-typescript-linux-x64,1.4.5,0,0,https://github.com/crustyrustacean/taxus.git,Bundled Microsoft TypeScript compiler archive for linux-x64.
+2026-11-07T21:35:31.709816Z,taxus-typescript-win32-arm64,1.4.5,0,0,https://github.com/crustyrustacean/taxus.git,Bundled Microsoft TypeScript compiler archive for win32-arm64.
+2026-11-07T21:41:01.858725Z,engram-cache,0.1.1,0,0,https://github.com/Izyawastaken/engram,"An asynchronous, multi-tier cache backed by Moka and SQLite"
+2026-11-07T21:41:18.369405Z,taxus-typescript-win32-x64,1.4.5,0,0,https://github.com/crustyrustacean/taxus.git,Bundled Microsoft TypeScript compiler archive for win32-x64.
+2026-11-07T21:47:06.861525Z,rubrique,0.1.0,0,0,https://github.com/witseko/rubrique,"A fast editor, agentic on demand. This first crates.io release is the small native text editor it starts from."
+2026-11-07T21:49:39.127013Z,stemma-diff,0.7.0,0,0,https://github.com/stemma-sh/stemma,Opinionated document comparison for the Stemma Word engine.
+2026-11-07T21:51:00.431369Z,abnegate-recurrence,0.1.0,0,0,https://github.com/abnegate/crates,"An RFC 5545 RRULE subset evaluated on an IANA timezone's wall clock, with fixed rules for the times daylight saving skips or repeats"
+2026-11-07T21:51:01.624Z,taxus-ssg,1.4.5,0,0,https://github.com/crustyrustacean/taxus.git,A reusable Rust static site generator library.
+2026-11-07T21:52:53.144422Z,dalx,0.0.1,0,0,https://github.com/ntl4u/dalx,"A multi-tenant, multi-region data access layer for enterprise applications"
+2026-11-07T21:56:43.281111Z,backmarket-seller,0.1.0-alpha.1,0,0,https://github.com/fdhoff/backmarket-seller-sdk,Unofficial Rust client for the Back Market Seller API. Not affiliated with Back Market.
+2026-11-07T21:57:28.419045Z,status-machina,0.1.0,0,0,https://github.com/legra-ai/status-machina,Typed caller-driven state machines with checked composition and bounded inspection
+2026-11-07T22:00:52.042105Z,laminapdf-extract,0.0.0,0,0,,"Reserved for lamina, a PDF library. Not yet released."
+2026-11-07T22:11:17.68187Z,bandstand,0.1.0,0,0,https://github.com/rabbiveesh/nat-han-adventures,"The live jazz band behind Nat Han Adventures: an NES-style synth, MML songs and a band that follows play"
+2026-11-07T22:15:04.096562Z,llmrace,0.2.0,0,0,https://github.com/dfbustosus/llmrace,"Race LLM providers head-to-head in your terminal: latency, TTFB, tokens/s, p95 and cost — live."
