@@ -8,31 +8,30 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-07 06:20 UTC
+## Latest list — 2026-11-07 07:18 UTC
 
-New crates published between 2026-11-07 05:18 UTC and 2026-11-07 06:20 UTC.
+New crates published between 2026-11-07 06:20 UTC and 2026-11-07 07:18 UTC.
 
-[Full CSV](data/new-crates-2026-11-07T06-20-27-876641Z.csv)
+[Full CSV](data/new-crates-2026-11-07T07-18-41-888784Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-07 05:27:29 | [rcms-scaffold](https://crates.io/crates/rcms-scaffold) | 0.4.0 | 0 | Create a new Rustango-CMS site: `rcms new <name>` |
-| 2026-11-07 05:30:05 | [kardia-bridge](https://crates.io/crates/kardia-bridge) | 0.1.4 | 0 | The host side of the kardia bridge: exposes services, events and lifecycle of a… |
-| 2026-11-07 05:30:53 | [ghost-ctx](https://crates.io/crates/ghost-ctx) | 0.1.1 | 0 | Local token saver for Claude Code: skeleton reads, secret redaction, test-outpu… |
-| 2026-11-07 05:36:23 | [elira](https://crates.io/crates/elira) | 0.0.1 | 0 | Elira — HTTP server and reverse proxy. Name reservation; implementation in prog… |
-| 2026-11-07 05:41:27 | [plana-billing](https://crates.io/crates/plana-billing) | 0.2.1 | 0 | Wallet interface contract shared by the celestia-island services: subject/balan… |
-| 2026-11-07 05:45:47 | [etchant](https://crates.io/crates/etchant) | 0.0.0 | 0 | Name reservation for the etchant regional landscape-evolution simulation |
-| 2026-11-07 05:46:02 | [sglang-api-types](https://crates.io/crates/sglang-api-types) | 0.1.0 | 0 | Protobuf messages, tonic gRPC client and server, and JSON serde for SGLang's sg… |
-| 2026-11-07 05:53:40 | [evergreen-core](https://crates.io/crates/evergreen-core) | 0.1.0 | 0 | Declarative TTL policy and typed storage wrappers for Soroban contracts. |
-| 2026-11-07 05:54:18 | [stickler-ffi](https://crates.io/crates/stickler-ffi) | 0.1.0 | 0 | Safe, thread-serialized bindings to the Stickler embedding library |
-| 2026-11-07 05:56:53 | [portwhom](https://crates.io/crates/portwhom) | 0.1.0 | 0 | 专为 Mac 使用的查找特定端口使用情况的工具。 |
-| 2026-11-07 06:02:10 | [smbmc-exporter](https://crates.io/crates/smbmc-exporter) | 0.3.0 | 0 | Prometheus exporter for Supermicro BMC metrics |
-| 2026-11-07 06:02:31 | [pocket-pixel](https://crates.io/crates/pocket-pixel) | 0.1.0 | 0 | Text-first pixel art tools for humans and agents |
-| 2026-11-07 06:08:00 | [dre-plugin-host](https://crates.io/crates/dre-plugin-host) | 0.12.0 | 0 | DRE plugin process host and protocol conformance runner |
-| 2026-11-07 06:08:06 | [dre-template](https://crates.io/crates/dre-template) | 0.12.0 | 0 | DRE template pieces shared by the engine and the document plugin |
-| 2026-11-07 06:08:10 | [alkgen](https://crates.io/crates/alkgen) | 0.1.0 | 0 | Text-generation engine: handlebars-rust templates rendered over serde-serializa… |
-| 2026-11-07 06:10:41 | [meine_enum_proc](https://crates.io/crates/meine_enum_proc) | 0.1.0 | 0 | just a bunch of enum based helpers |
-| 2026-11-07 06:11:47 | [meine_enum](https://crates.io/crates/meine_enum) | 0.1.0 | 0 | just a bunch of enum based helpers |
+| 2026-11-07 06:41:49 | [grapha-engine](https://crates.io/crates/grapha-engine) | 0.5.2 | 0 | Library engine for Grapha code intelligence |
+| 2026-11-07 06:41:54 | [base-web-media-type](https://crates.io/crates/base-web-media-type) | 0.1.0 | 0 | Media types, media ranges, and range-based sets and maps |
+| 2026-11-07 06:42:02 | [base-web-media-type-registry](https://crates.io/crates/base-web-media-type-registry) | 0.1.0 | 0 | Registered media types with their encodings and filename extensions |
+| 2026-11-07 06:46:56 | [proclease](https://crates.io/crates/proclease) | 0.1.3 | 0 | Put an explicit lifetime on development processes started by coding agents |
+| 2026-11-07 06:59:34 | [amba-office](https://crates.io/crates/amba-office) | 0.0.0 | 0 | Office file core (xlsx, docx, pptx) by AmbaDesk. Name reserved; first release c… |
+| 2026-11-07 07:00:12 | [llm-gateway-rs](https://crates.io/crates/llm-gateway-rs) | 0.3.2 | 0 | Gateway proxy OpenAI-compatible con failover y keep-alive (warmup) de backends. |
+| 2026-11-07 07:01:19 | [embun-motion](https://crates.io/crates/embun-motion) | 0.0.1 | 0 | Springs and transitions for Embun |
+| 2026-11-07 07:01:19 | [embun-render](https://crates.io/crates/embun-render) | 0.0.1 | 0 | Frosted, lensed, merging glass shapes rendered with wgpu |
+| 2026-11-07 07:15:41 | [puy-host](https://crates.io/crates/puy-host) | 0.0.1 | 0 | Host interface traits for the Puy VM |
+| 2026-11-07 07:15:43 | [puy-core](https://crates.io/crates/puy-core) | 0.0.1 | 0 | Puy compiler and stackless VM (no I/O, WASM-compatible) |
+| 2026-11-07 07:15:44 | [puy-fmt](https://crates.io/crates/puy-fmt) | 0.0.1 | 0 | Formatter for Puy (Object Pascal) source |
+| 2026-11-07 07:15:45 | [puy-runtime-native](https://crates.io/crates/puy-runtime-native) | 0.0.1 | 0 | Native runtime for Puy |
+| 2026-11-07 07:15:45 | [puy-runtime-web](https://crates.io/crates/puy-runtime-web) | 0.0.1 | 0 | Browser runtime for Puy (wasm-bindgen) |
+| 2026-11-07 07:15:49 | [wizmade](https://crates.io/crates/wizmade) | 0.1.0 | 0 | A tiny helper exposing the canonical homepage of Wizmade, an AI image and video… |
+| 2026-11-07 07:15:50 | [agtmls-core](https://crates.io/crates/agtmls-core) | 0.0.3 | 0 | Engine for the AgtMLS agent skills registry: content-addressed skill digests an… |
+| 2026-11-07 07:16:03 | [agtmls-cli](https://crates.io/crates/agtmls-cli) | 0.0.3 | 0 | Command-line interface to the AgtMLS engine: skill digests and static security… |
 
 ## Data source
 
