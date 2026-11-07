@@ -8,47 +8,68 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-07 14:18 UTC
+## Latest list — 2026-11-07 15:19 UTC
 
-New crates published between 2026-11-07 13:18 UTC and 2026-11-07 14:18 UTC.
+New crates published between 2026-11-07 14:18 UTC and 2026-11-07 15:19 UTC.
 
-[Full CSV](data/new-crates-2026-11-07T14-18-45-232419Z.csv)
+[Full CSV](data/new-crates-2026-11-07T15-19-28-916711Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-07 13:21:26 | [pathland-render-core](https://crates.io/crates/pathland-render-core) | 0.2.1 | 0 | Pathland renderer core: shared toolkit-free opcode decode (RenderTree/HostNode)… |
-| 2026-11-07 13:28:48 | [buntrail-core](https://crates.io/crates/buntrail-core) | 0.1.0 | 0 | Revisioned documents and shared editor contracts. |
-| 2026-11-07 13:29:00 | [anaconda](https://crates.io/crates/anaconda) | 0.9.4 | 0 | Lisp style `cond`itionals in rust. |
-| 2026-11-07 13:29:54 | [spectral-cortex-lib](https://crates.io/crates/spectral-cortex-lib) | 0.1.1 | 0 | Rust implementation of the Spectral Memory Graph (SMG) |
-| 2026-11-07 13:30:46 | [wirebird-ringtones](https://crates.io/crates/wirebird-ringtones) | 0.0.1 | 0 | Ringtones for Wirebird: built-in tones and audio files. |
-| 2026-11-07 13:30:50 | [wirebird-linux](https://crates.io/crates/wirebird-linux) | 0.0.1 | 0 | Linux integration for Wirebird. |
-| 2026-11-07 13:31:20 | [spectral-cortex](https://crates.io/crates/spectral-cortex) | 0.1.2 | 0 | CLI for ingesting git history and querying the Spectral Memory Graph (SMG) |
-| 2026-11-07 13:31:21 | [buntrail-language](https://crates.io/crates/buntrail-language) | 0.1.0 | 0 | Language analysis using Tree-sitter. |
-| 2026-11-07 13:33:16 | [buntrail-protocol](https://crates.io/crates/buntrail-protocol) | 0.1.0 | 0 | Versioned framed transport contracts and validation. |
-| 2026-11-07 13:37:19 | [buntrail-services](https://crates.io/crates/buntrail-services) | 0.1.0 | 0 | Filesystem, Git, terminal, search and connection services. |
-| 2026-11-07 13:38:50 | [adshell-rs](https://crates.io/crates/adshell-rs) | 1.0.1 | 0 | Interactive LDAP/ADWS shell and Active Directory attack actions in pure Rust, o… |
-| 2026-11-07 13:40:53 | [buntrail-helper](https://crates.io/crates/buntrail-helper) | 0.1.0 | 0 | Remote services library and helper executable. |
-| 2026-11-07 13:40:59 | [wirebird-macos](https://crates.io/crates/wirebird-macos) | 0.0.1 | 0 | macOS integration for Wirebird. |
-| 2026-11-07 13:42:26 | [buntrail-engine](https://crates.io/crates/buntrail-engine) | 0.1.0 | 0 | Authoritative document and workspace orchestration. |
-| 2026-11-07 13:43:31 | [senritsu](https://crates.io/crates/senritsu) | 0.2.0 | 0 | Customizable, ad-free native YouTube Music client for Linux |
-| 2026-11-07 13:43:41 | [rexact-unicode](https://crates.io/crates/rexact-unicode) | 0.2.0 | 0 | Generated Unicode 14.0.0 tables (properties, scripts, case folding) for Rexact |
-| 2026-11-07 13:44:05 | [rexact-syntax](https://crates.io/crates/rexact-syntax) | 0.2.0 | 0 | Regex parsers for ECMAScript, Python, Go, Rust, PCRE2 and Java dialects, with a… |
-| 2026-11-07 13:44:30 | [rexact-core](https://crates.io/crates/rexact-core) | 0.2.0 | 0 | Derivative-based regex engine for Rexact: symbol classes, lazy DFA, minimisatio… |
-| 2026-11-07 13:44:53 | [rexact-check](https://crates.io/crates/rexact-check) | 0.2.0 | 0 | Independent checker for Rexact equivalence certificates (shares no code with th… |
-| 2026-11-07 13:45:15 | [rexact-engines](https://crates.io/crates/rexact-engines) | 0.2.0 | 0 | Runs reference regex engines (Node, Python, Go, Rust, PCRE2, Java) as isolated… |
-| 2026-11-07 13:52:55 | [assetc](https://crates.io/crates/assetc) | 0.2.0 | 0 | Reads the files assetc builds and packs: textures, materials, meshes, animation… |
-| 2026-11-07 13:55:48 | [buntrail-ffi](https://crates.io/crates/buntrail-ffi) | 0.1.0 | 0 | Native C ABI for the Buntrail engine. |
-| 2026-11-07 13:59:00 | [irsty-proto](https://crates.io/crates/irsty-proto) | 0.1.0 | 0 | Sans-IO IRC and IRCv3 protocol primitives: parsing, serialisation, CAP, SASL, f… |
-| 2026-11-07 13:59:02 | [irsty-core](https://crates.io/crates/irsty-core) | 0.1.0 | 0 | Irsty's connection management and client state; internal to Irsty, with no API… |
-| 2026-11-07 13:59:04 | [irsty-tui](https://crates.io/crates/irsty-tui) | 0.1.0 | 0 | Irsty's terminal user interface; internal to Irsty, with no API stability promi… |
-| 2026-11-07 13:59:06 | [irsty](https://crates.io/crates/irsty) | 0.1.0 | 0 | A modern, keyboard-driven terminal IRC client |
-| 2026-11-07 14:00:55 | [bark-asr](https://crates.io/crates/bark-asr) | 0.1.0 | 0 | Underdog Bark 3.0 speech to text on ONNX Runtime, straight from model.bark |
-| 2026-11-07 14:03:47 | [pdfpecker](https://crates.io/crates/pdfpecker) | 1.23.0 | 0 | HTML and Markdown to PDF, and PDF to images, text and Markdown, with no browser… |
-| 2026-11-07 14:14:04 | [yasumaro](https://crates.io/crates/yasumaro) | 6.9.69 | 0 | Read-only CLI for exported Yasumaro history databases |
-| 2026-11-07 14:14:58 | [format198x-nintendo-famicom-fds](https://crates.io/crates/format198x-nintendo-famicom-fds) | 0.1.0 | 0 | Famicom Disk System .fds images — dependency-free decoding and encoding of disk… |
-| 2026-11-07 14:15:02 | [format198x-nintendo-game-boy-cartridge](https://crates.io/crates/format198x-nintendo-game-boy-cartridge) | 0.1.0 | 0 | Game Boy and Game Boy Color cartridge headers — dependency-free decoding of the… |
-| 2026-11-07 14:15:04 | [format198x-nintendo-nes-ines](https://crates.io/crates/format198x-nintendo-nes-ines) | 0.1.0 | 0 | NES iNES and NES 2.0 ROM files — dependency-free decoding and encoding of the h… |
-| 2026-11-07 14:15:06 | [format198x-nintendo-snes-sfc](https://crates.io/crates/format198x-nintendo-snes-sfc) | 0.1.0 | 0 | Super NES and Super Famicom cartridge images — dependency-free header location,… |
+| 2026-11-07 14:20:54 | [cyberbrain-documents](https://crates.io/crates/cyberbrain-documents) | 0.10.0 | 0 | PDF and scanned documents into Cyberbrain notes, page by page with locators, fo… |
+| 2026-11-07 14:20:55 | [rezzy-ffi](https://crates.io/crates/rezzy-ffi) | 0.6.0-rc.1 | 0 | C ABI for rezzy event hashing, for cgo, ctypes and other FFI callers. |
+| 2026-11-07 14:21:22 | [lampl-core](https://crates.io/crates/lampl-core) | 0.1.0 | 0 | Memory model, ranking, reciprocal-rank fusion and relevance floor for lamplight… |
+| 2026-11-07 14:22:09 | [lampl-embed](https://crates.io/crates/lampl-embed) | 0.1.0 | 0 | Embedder for lamplighter |
+| 2026-11-07 14:22:36 | [lampl-store-pg](https://crates.io/crates/lampl-store-pg) | 0.1.0 | 0 | Postgres and pgvector store for lamplighter |
+| 2026-11-07 14:22:46 | [lampl-store-sqlite](https://crates.io/crates/lampl-store-sqlite) | 0.1.0 | 0 | Embedded SQLite store for lamplighter |
+| 2026-11-07 14:23:58 | [lampl](https://crates.io/crates/lampl) | 0.1.0 | 0 | Agent memory as one binary: CLI, serve and MCP |
+| 2026-11-07 14:25:03 | [consortium-core](https://crates.io/crates/consortium-core) | 0.6.0 | 0 | Shared-memory regions, descriptors, and doorbells for Consortium |
+| 2026-11-07 14:26:18 | [consortium-hmi-pocket](https://crates.io/crates/consortium-hmi-pocket) | 0.6.0 | 0 | Native PocketJS adapter for Consortium HMI |
+| 2026-11-07 14:27:02 | [metatrie](https://crates.io/crates/metatrie) | 0.1.0 | 0 | A prefix-tree (trie) autocomplete index whose nodes carry metadata records, wit… |
+| 2026-11-07 14:27:27 | [qx-finkit](https://crates.io/crates/qx-finkit) | 0.3.1 | 0 | High-performance quantitative finance engine for indicators, formulas, factors,… |
+| 2026-11-07 14:28:19 | [consortium-pmi](https://crates.io/crates/consortium-pmi) | 0.6.0 | 0 | Platform management provider traits (clock, pin control, power, reset) for Cons… |
+| 2026-11-07 14:28:34 | [consortium-pmi-scmi](https://crates.io/crates/consortium-pmi-scmi) | 0.6.0 | 0 | SCMI (Arm System Control and Management Interface) backend for consortium-pmi |
+| 2026-11-07 14:29:28 | [ravenrs-app-i18n](https://crates.io/crates/ravenrs-app-i18n) | 27.1.17 | 0 | Languages and words of a RavenRS business application: a catalog of texts by ke… |
+| 2026-11-07 14:29:43 | [tinyeasings](https://crates.io/crates/tinyeasings) | 0.1.0 | 0 | All 30 easings.net curves for f32 and f64, with runtime curve selection |
+| 2026-11-07 14:30:04 | [ravenrs-app-a11y](https://crates.io/crates/ravenrs-app-a11y) | 27.1.17 | 0 | Accessibility of a RavenRS business application: accessible names from the mode… |
+| 2026-11-07 14:30:35 | [tinysubdiv](https://crates.io/crates/tinysubdiv) | 0.1.0 | 0 | Loop subdivision, welding and normals for indexed triangle meshes |
+| 2026-11-07 14:30:43 | [tinyverlet](https://crates.io/crates/tinyverlet) | 0.1.0 | 0 | Verlet particles, cloth, ropes, tearing and collisions |
+| 2026-11-07 14:31:25 | [format198x-acorn-adfs](https://crates.io/crates/format198x-acorn-adfs) | 0.1.0 | 0 | Acorn ADFS old-map floppy images (.adf, .adl) — dependency-free format detectio… |
+| 2026-11-07 14:31:28 | [format198x-atari-st-msa](https://crates.io/crates/format198x-atari-st-msa) | 0.1.0 | 0 | Atari ST .msa (Magic Shadow Archiver) floppy images — dependency-free expansion… |
+| 2026-11-07 14:31:31 | [format198x-atari-st-st](https://crates.io/crates/format198x-atari-st-st) | 0.1.0 | 0 | Atari ST .st raw floppy images — dependency-free geometry detection, byte-exact… |
+| 2026-11-07 14:31:49 | [tinywfc](https://crates.io/crates/tinywfc) | 0.1.0 | 0 | Deterministic 2D and 3D tiled wave function collapse |
+| 2026-11-07 14:33:41 | [tokensimd](https://crates.io/crates/tokensimd) | 1.0.0 | 0 | Safe Rust wrapper for TokenSIMD, a high-throughput BPE tokenizer |
+| 2026-11-07 14:33:45 | [lamplighter](https://crates.io/crates/lamplighter) | 0.1.0 | 0 | Agent memory as one binary; name-holder crate that re-exports lampl |
+| 2026-11-07 14:34:12 | [qr-drop](https://crates.io/crates/qr-drop) | 0.1.4 | 0 | Instant PC <-> Phone file, folder, and text sharing via terminal QR code in pur… |
+| 2026-11-07 14:39:21 | [rexact-extract](https://crates.io/crates/rexact-extract) | 0.2.0 | 0 | Finds regular expressions in JavaScript, Python, Go, Rust, Java and Kotlin sour… |
+| 2026-11-07 14:39:47 | [rexact-analysis](https://crates.io/crates/rexact-analysis) | 0.2.0 | 0 | Regex equivalence, comparison, witnesses, ReDoS analysis and repair, span diffe… |
+| 2026-11-07 14:40:13 | [rexact-api](https://crates.io/crates/rexact-api) | 0.2.0 | 0 | JSON request/response layer over Rexact analyses, shared by the WebAssembly bui… |
+| 2026-11-07 14:40:51 | [format198x-sinclair-zx-spectrum-mdr](https://crates.io/crates/format198x-sinclair-zx-spectrum-mdr) | 0.1.0 | 0 | ZX Spectrum .mdr Microdrive cartridge images — dependency-free reading, sector… |
+| 2026-11-07 14:40:52 | [rexact-cli](https://crates.io/crates/rexact-cli) | 0.2.0 | 0 | Prove regex equivalence with evidence, find ReDoS, and compare dialects from th… |
+| 2026-11-07 14:45:36 | [codexwire-protocol](https://crates.io/crates/codexwire-protocol) | 0.1.0 | 0 | Generated serde types for the OpenAI Codex app-server JSON-RPC protocol |
+| 2026-11-07 14:45:46 | [codexwire](https://crates.io/crates/codexwire) | 0.1.0 | 0 | A Rust client for the OpenAI Codex app-server: its JSON-RPC protocol, typed |
+| 2026-11-07 14:48:22 | [slk](https://crates.io/crates/slk) | 0.0.1 | 0 | A personal Slack CLI for developers and coding agents |
+| 2026-11-07 14:52:44 | [oxidizer_api](https://crates.io/crates/oxidizer_api) | 0.1.0 | 0 | API for writing Kitten Space Agency mods in Rust, loaded by the Oxidizer mod lo… |
+| 2026-11-07 14:52:48 | [big-bad-bool-runtime](https://crates.io/crates/big-bad-bool-runtime) | 0.1.0 | 0 | A deterministic runtime for many verified big-bad-bool programs on one scope: p… |
+| 2026-11-07 14:56:05 | [puy](https://crates.io/crates/puy) | 0.0.2 | 0 | The puy command-line tool |
+| 2026-11-07 14:56:26 | [native-credentials](https://crates.io/crates/native-credentials) | 0.1.0 | 0 | Bounded native credential ingress for trusted Rust cloud clients |
+| 2026-11-07 14:58:55 | [subtitle-parse](https://crates.io/crates/subtitle-parse) | 0.1.0 | 0 | Tolerant SRT and WebVTT parsing, sidecar discovery and subtitle track ordering |
+| 2026-11-07 15:01:47 | [voice-call-openai](https://crates.io/crates/voice-call-openai) | 0.1.0 | 0 | Reusable OpenAI Realtime and GPT-Live native voice provider |
+| 2026-11-07 15:01:49 | [lsrs](https://crates.io/crates/lsrs) | 0.1.0 | 0 | Read the RustSec advisory database |
+| 2026-11-07 15:02:44 | [slide-detect](https://crates.io/crates/slide-detect) | 0.1.0 | 0 | Find the slide changes in a lecture video with ffmpeg and SSIM, and extract a f… |
+| 2026-11-07 15:02:54 | [gdhealth](https://crates.io/crates/gdhealth) | 0.2.0 | 0 | Code-health CLI for Godot and GDScript repositories |
+| 2026-11-07 15:05:45 | [vinopilot-core](https://crates.io/crates/vinopilot-core) | 0.1.0 | 0 | What vinopilot knows about the vinoPilot apps: how each installs, updates and u… |
+| 2026-11-07 15:05:47 | [vinopilot](https://crates.io/crates/vinopilot) | 0.1.0 | 0 | Install, update and uninstall the vinoPilot apps from their releases, a source… |
+| 2026-11-07 15:05:47 | [vinopilot-gui](https://crates.io/crates/vinopilot-gui) | 0.1.0 | 0 | The vinopilot window: install, update and uninstall the vinoPilot apps |
+| 2026-11-07 15:08:16 | [venus-ytdlp](https://crates.io/crates/venus-ytdlp) | 0.1.0 | 0 | Wrapper sobre el binario yt-dlp instalado en el sistema; no descarga ni adminis… |
+| 2026-11-07 15:08:23 | [venus-dl-core](https://crates.io/crates/venus-dl-core) | 0.1.0 | 0 | Núcleo agnóstico de UI para un descargador de audio: cola, estado y eventos |
+| 2026-11-07 15:09:46 | [snora-control](https://crates.io/crates/snora-control) | 0.55.0 | 0 | The focusable, key-activatable control behind snora's widgets. An internal crat… |
+| 2026-11-07 15:10:54 | [corevault-skills](https://crates.io/crates/corevault-skills) | 0.1.0 | 0 | Comprehensive tenant integration guide, strongly-typed API models, endpoint spe… |
+| 2026-11-07 15:12:16 | [webmcpx-core](https://crates.io/crates/webmcpx-core) | 0.1.0 | 0 | Canonical WebMCP tool contracts: validation, limits, invisible-Unicode detectio… |
+| 2026-11-07 15:12:19 | [webmcpx-std](https://crates.io/crates/webmcpx-std) | 0.1.0 | 0 | Standard WebMCP tools (search_page, fetch_as_markdown, get_page_context, search… |
+| 2026-11-07 15:12:22 | [webmcpx-lint](https://crates.io/crates/webmcpx-lint) | 0.1.0 | 0 | Fast linter for WebMCP tool definitions in JS/TS sources and JSON manifests. |
+| 2026-11-07 15:12:24 | [webmcpx](https://crates.io/crates/webmcpx) | 0.1.0 | 0 | The webmcpx CLI: lint WebMCP tools, explain rules and error codes. |
+| 2026-11-07 15:14:53 | [pandrosion606-robotics](https://crates.io/crates/pandrosion606-robotics) | 0.606.0 | 0 | Standalone, dependency-free real robotics solver with bounded inverse kinematic… |
 
 ## Data source
 

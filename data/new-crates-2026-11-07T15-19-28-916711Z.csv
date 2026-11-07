@@ -1,0 +1,55 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-07T14:20:54.528714Z,cyberbrain-documents,0.10.0,0,0,https://github.com/bassprofressor-lab/cyberbrain,"PDF and scanned documents into Cyberbrain notes, page by page with locators, for Cyberbrain"
+2026-11-07T14:20:55.902361Z,rezzy-ffi,0.6.0-rc.1,0,0,https://github.com/gamesguru/rezzy,"C ABI for rezzy event hashing, for cgo, ctypes and other FFI callers."
+2026-11-07T14:21:22.45475Z,lampl-core,0.1.0,0,0,https://github.com/moneymikeMD/lamplighter,"Memory model, ranking, reciprocal-rank fusion and relevance floor for lamplighter; no I/O"
+2026-11-07T14:22:09.902279Z,lampl-embed,0.1.0,0,0,https://github.com/moneymikeMD/lamplighter,Embedder for lamplighter
+2026-11-07T14:22:36.639713Z,lampl-store-pg,0.1.0,0,0,https://github.com/moneymikeMD/lamplighter,Postgres and pgvector store for lamplighter
+2026-11-07T14:22:46.70138Z,lampl-store-sqlite,0.1.0,0,0,https://github.com/moneymikeMD/lamplighter,Embedded SQLite store for lamplighter
+2026-11-07T14:23:58.800761Z,lampl,0.1.0,0,0,https://github.com/moneymikeMD/lamplighter,"Agent memory as one binary: CLI, serve and MCP"
+2026-11-07T14:25:03.244766Z,consortium-core,0.6.0,0,0,https://github.com/consortium-rs/consortium,"Shared-memory regions, descriptors, and doorbells for Consortium"
+2026-11-07T14:26:18.455116Z,consortium-hmi-pocket,0.6.0,0,0,https://github.com/consortium-rs/consortium,Native PocketJS adapter for Consortium HMI
+2026-11-07T14:27:02.564672Z,metatrie,0.1.0,0,0,https://github.com/ice1x/rust_prefix_tree,"A prefix-tree (trie) autocomplete index whose nodes carry metadata records, with prefix collection, field queries, sort-by-field and optional typo-tolerant fuzzy search. Exposable to Python via PyO3."
+2026-11-07T14:27:27.277403Z,qx-finkit,0.3.1,0,0,https://github.com/coeasy/finkit,"High-performance quantitative finance engine for indicators, formulas, factors, streaming analytics, and research workflows"
+2026-11-07T14:28:19.05139Z,consortium-pmi,0.6.0,0,0,https://github.com/consortium-rs/consortium,"Platform management provider traits (clock, pin control, power, reset) for Consortium"
+2026-11-07T14:28:34.081666Z,consortium-pmi-scmi,0.6.0,0,0,https://github.com/consortium-rs/consortium,SCMI (Arm System Control and Management Interface) backend for consortium-pmi
+2026-11-07T14:29:28.227234Z,ravenrs-app-i18n,27.1.17,0,0,https://github.com/alexkads/RavenRS,"Languages and words of a RavenRS business application: a catalog of texts by key, with English to fall back on, and the translations of the model that come with it."
+2026-11-07T14:29:43.636998Z,tinyeasings,0.1.0,0,0,https://github.com/varnholt/tinyeasings,"All 30 easings.net curves for f32 and f64, with runtime curve selection"
+2026-11-07T14:30:04.463875Z,ravenrs-app-a11y,27.1.17,0,0,https://github.com/alexkads/RavenRS,"Accessibility of a RavenRS business application: accessible names from the model, announcements, and an audit that walks a generated app."
+2026-11-07T14:30:35.160299Z,tinysubdiv,0.1.0,0,0,https://github.com/varnholt/tinysubdiv,"Loop subdivision, welding and normals for indexed triangle meshes"
+2026-11-07T14:30:43.060171Z,tinyverlet,0.1.0,0,0,https://github.com/varnholt/tinyverlet,"Verlet particles, cloth, ropes, tearing and collisions"
+2026-11-07T14:31:25.405778Z,format198x-acorn-adfs,0.1.0,0,0,https://github.com/format198x/format198x,"Acorn ADFS old-map floppy images (.adf, .adl) — dependency-free format detection, map checksums, blank discs and the root directory."
+2026-11-07T14:31:28.558935Z,format198x-atari-st-msa,0.1.0,0,0,https://github.com/format198x/format198x,Atari ST .msa (Magic Shadow Archiver) floppy images — dependency-free expansion to raw sectors and compression back.
+2026-11-07T14:31:31.685947Z,format198x-atari-st-st,0.1.0,0,0,https://github.com/format198x/format198x,"Atari ST .st raw floppy images — dependency-free geometry detection, byte-exact reading and writing."
+2026-11-07T14:31:49.551961Z,tinywfc,0.1.0,0,0,https://github.com/varnholt/tinywfc,Deterministic 2D and 3D tiled wave function collapse
+2026-11-07T14:33:41.887615Z,tokensimd,1.0.0,0,0,,"Safe Rust wrapper for TokenSIMD, a high-throughput BPE tokenizer"
+2026-11-07T14:33:45.120363Z,lamplighter,0.1.0,0,0,https://github.com/moneymikeMD/lamplighter,Agent memory as one binary; name-holder crate that re-exports lampl
+2026-11-07T14:34:12.309618Z,qr-drop,0.1.4,0,0,https://github.com/realalden27/qr-drop,"Instant PC <-> Phone file, folder, and text sharing via terminal QR code in pure Rust."
+2026-11-07T14:39:21.474009Z,rexact-extract,0.2.0,0,0,https://github.com/aniket-3001/rexact,"Finds regular expressions in JavaScript, Python, Go, Rust, Java and Kotlin source text"
+2026-11-07T14:39:47.281335Z,rexact-analysis,0.2.0,0,0,https://github.com/aniket-3001/rexact,"Regex equivalence, comparison, witnesses, ReDoS analysis and repair, span differences"
+2026-11-07T14:40:13.722068Z,rexact-api,0.2.0,0,0,https://github.com/aniket-3001/rexact,"JSON request/response layer over Rexact analyses, shared by the WebAssembly build"
+2026-11-07T14:40:51.829136Z,format198x-sinclair-zx-spectrum-mdr,0.1.0,0,0,https://github.com/format198x/format198x,"ZX Spectrum .mdr Microdrive cartridge images — dependency-free reading, sector headers, Interface 1 checksums and writing."
+2026-11-07T14:40:52.14141Z,rexact-cli,0.2.0,0,0,https://github.com/aniket-3001/rexact,"Prove regex equivalence with evidence, find ReDoS, and compare dialects from the command line"
+2026-11-07T14:45:36.842168Z,codexwire-protocol,0.1.0,0,0,https://github.com/talaagent/codexwire,Generated serde types for the OpenAI Codex app-server JSON-RPC protocol
+2026-11-07T14:45:46.488825Z,codexwire,0.1.0,0,0,https://github.com/talaagent/codexwire,"A Rust client for the OpenAI Codex app-server: its JSON-RPC protocol, typed"
+2026-11-07T14:48:22.383819Z,slk,0.0.1,0,0,https://github.com/aprilnea/slk,A personal Slack CLI for developers and coding agents
+2026-11-07T14:52:44.914118Z,oxidizer_api,0.1.0,0,0,https://github.com/SafeShows/Oxidizer,"API for writing Kitten Space Agency mods in Rust, loaded by the Oxidizer mod loader"
+2026-11-07T14:52:48.564441Z,big-bad-bool-runtime,0.1.0,0,0,https://github.com/jameshuntt/big-bad-bool-runtime,"A deterministic runtime for many verified big-bad-bool programs on one scope: prepare, admit, commit, with bounded mailboxes, logical timers, admission policies and a replayable trace."
+2026-11-07T14:56:05.967264Z,puy,0.0.2,0,0,https://github.com/puy-lang/puy,The puy command-line tool
+2026-11-07T14:56:26.926265Z,native-credentials,0.1.0,0,0,https://github.com/kosumic/whip,Bounded native credential ingress for trusted Rust cloud clients
+2026-11-07T14:58:55.942855Z,subtitle-parse,0.1.0,0,0,https://github.com/mizorewww/subtitle-parse,"Tolerant SRT and WebVTT parsing, sidecar discovery and subtitle track ordering"
+2026-11-07T15:01:47.480393Z,voice-call-openai,0.1.0,0,0,https://github.com/kosumic/whip,Reusable OpenAI Realtime and GPT-Live native voice provider
+2026-11-07T15:01:49.534267Z,lsrs,0.1.0,0,0,https://github.com/gkamathe/lsrs,Read the RustSec advisory database
+2026-11-07T15:02:44.334063Z,slide-detect,0.1.0,0,0,https://github.com/mizorewww/slide-detect,"Find the slide changes in a lecture video with ffmpeg and SSIM, and extract a full-resolution image of each"
+2026-11-07T15:02:54.11401Z,gdhealth,0.2.0,0,0,https://github.com/q-rault/gdhealth,Code-health CLI for Godot and GDScript repositories
+2026-11-07T15:05:45.407943Z,vinopilot-core,0.1.0,0,0,https://github.com/karanshukla/vinopilot,"What vinopilot knows about the vinoPilot apps: how each installs, updates and uninstalls, what's on this machine, and what's newest"
+2026-11-07T15:05:47.180691Z,vinopilot,0.1.0,0,0,https://github.com/karanshukla/vinopilot,"Install, update and uninstall the vinoPilot apps from their releases, a source checkout, PyPI or crates.io"
+2026-11-07T15:05:47.594686Z,vinopilot-gui,0.1.0,0,0,https://github.com/karanshukla/vinopilot,"The vinopilot window: install, update and uninstall the vinoPilot apps"
+2026-11-07T15:08:16.193495Z,venus-ytdlp,0.1.0,0,0,,Wrapper sobre el binario yt-dlp instalado en el sistema; no descarga ni administra binarios
+2026-11-07T15:08:23.062639Z,venus-dl-core,0.1.0,0,0,,"Núcleo agnóstico de UI para un descargador de audio: cola, estado y eventos"
+2026-11-07T15:09:46.025644Z,snora-control,0.55.0,0,0,https://github.com/nabbisen/snora,"The focusable, key-activatable control behind snora's widgets. An internal crate: it exists to serve the other snora crates, so depend on `snora`."
+2026-11-07T15:10:54.251637Z,corevault-skills,0.1.0,0,0,https://github.com/your-org/corevault,"Comprehensive tenant integration guide, strongly-typed API models, endpoint specifications, and documentation for CoreVault Open Core"
+2026-11-07T15:12:16.891611Z,webmcpx-core,0.1.0,0,0,https://github.com/webmcpx/webmcpx,"Canonical WebMCP tool contracts: validation, limits, invisible-Unicode detection, result envelope and error codes."
+2026-11-07T15:12:19.36397Z,webmcpx-std,0.1.0,0,0,https://github.com/webmcpx/webmcpx,"Standard WebMCP tools (search_page, fetch_as_markdown, get_page_context, search_site) as pure, tested Rust."
+2026-11-07T15:12:22.104834Z,webmcpx-lint,0.1.0,0,0,https://github.com/webmcpx/webmcpx,Fast linter for WebMCP tool definitions in JS/TS sources and JSON manifests.
+2026-11-07T15:12:24.729079Z,webmcpx,0.1.0,0,0,https://github.com/webmcpx/webmcpx,"The webmcpx CLI: lint WebMCP tools, explain rules and error codes."
+2026-11-07T15:14:53.133426Z,pandrosion606-robotics,0.606.0,0,0,,"Standalone, dependency-free real robotics solver with bounded inverse kinematics and warm-started tracking"
