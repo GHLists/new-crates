@@ -1,0 +1,18 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-07T05:27:29.118402Z,rcms-scaffold,0.4.0,0,0,https://github.com/ujeenet/rustango-cms,Create a new Rustango-CMS site: `rcms new <name>`
+2026-11-07T05:30:05.892504Z,kardia-bridge,0.1.4,0,0,https://github.com/licyk/kardia,"The host side of the kardia bridge: exposes services, events and lifecycle of a kardia app to clients in another runtime, such as a Tauri webview"
+2026-11-07T05:30:53.667809Z,ghost-ctx,0.1.1,0,0,https://github.com/justinbalaguer/ghost-ctx,"Local token saver for Claude Code: skeleton reads, secret redaction, test-output condensing"
+2026-11-07T05:36:23.05222Z,elira,0.0.1,0,0,https://github.com/xelira/elira,Elira — HTTP server and reverse proxy. Name reservation; implementation in progress.
+2026-11-07T05:41:27.771243Z,plana-billing,0.2.1,0,0,,"Wallet interface contract shared by the celestia-island services: subject/balance/settlement types, the async `Wallet` trait, an in-memory mock for tests, and an optional signed HTTP bridge client."
+2026-11-07T05:45:47.545551Z,etchant,0.0.0,0,0,,Name reservation for the etchant regional landscape-evolution simulation
+2026-11-07T05:46:02.628849Z,sglang-api-types,0.1.0,0,0,https://github.com/sgl-project/sglang,"Protobuf messages, tonic gRPC client and server, and JSON serde for SGLang's sglang.api.v1 API"
+2026-11-07T05:53:40.383509Z,evergreen-core,0.1.0,0,0,https://github.com/vegaforge/evergreen,Declarative TTL policy and typed storage wrappers for Soroban contracts.
+2026-11-07T05:54:18.83909Z,stickler-ffi,0.1.0,0,0,https://git.notashelf.dev/notashelf/compiler,"Safe, thread-serialized bindings to the Stickler embedding library"
+2026-11-07T05:56:53.671436Z,portwhom,0.1.0,0,0,,专为 Mac 使用的查找特定端口使用情况的工具。
+2026-11-07T06:02:10.962498Z,smbmc-exporter,0.3.0,0,0,https://github.com/grawlinson/smbmc-exporter,Prometheus exporter for Supermicro BMC metrics
+2026-11-07T06:02:31.835444Z,pocket-pixel,0.1.0,0,0,https://github.com/sontuphan/pocket-pixel,Text-first pixel art tools for humans and agents
+2026-11-07T06:08:00.105544Z,dre-plugin-host,0.12.0,0,0,https://github.com/get-dre/dre,DRE plugin process host and protocol conformance runner
+2026-11-07T06:08:06.748554Z,dre-template,0.12.0,0,0,https://github.com/get-dre/dre,DRE template pieces shared by the engine and the document plugin
+2026-11-07T06:08:10.435496Z,alkgen,0.1.0,0,0,https://git.alk.dev/alkdev/alkgen,"Text-generation engine: handlebars-rust templates rendered over serde-serializable contexts with strict, deterministic output, for HTML SSR, codegen, and WGSL artifacts."
+2026-11-07T06:10:41.357683Z,meine_enum_proc,0.1.0,0,0,https://github.com/chickencuber/meine_enum,just a bunch of enum based helpers
+2026-11-07T06:11:47.189002Z,meine_enum,0.1.0,0,0,https://github.com/chickencuber/meine_enum,just a bunch of enum based helpers
