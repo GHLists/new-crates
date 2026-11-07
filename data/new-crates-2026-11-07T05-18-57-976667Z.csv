@@ -1,0 +1,22 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-07T04:20:52.553892Z,prap,0.0.1,0,0,,Work in progress.
+2026-11-07T04:28:41.662759Z,director-3d,0.1.0,0,0,https://github.com/stepupgaming/director,Real 3D for Director: glTF scenes rendered by Bevy on Vulkan
+2026-11-07T04:35:24.934937Z,rocm-include,0.1.0,0,0,https://github.com/bobbothe2nd/rocm,Low-level ROCm-focused C interface and versioning
+2026-11-07T04:35:27.774105Z,roc,0.3.1,0,0,https://github.com/bobbothe2nd/rocm,ROCm abstraction runtime core
+2026-11-07T04:37:35.280931Z,wechat-calls,2.0.0-beta.0,0,0,https://github.com/thisnick/agent-wechat,"WeChat voice session and media building blocks, PCM pacing, mixing and native Opus"
+2026-11-07T04:38:31.735281Z,director-html,0.1.0,0,0,https://github.com/stepupgaming/director,"HTML, CSS and HyperFrames compiler for Director's native renderer"
+2026-11-07T04:40:00.759087Z,tui-eternal,0.1.0,0,0,https://github.com/aoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoa/tui-eternal,"One look and one conduct for ratatui apps: palette, chrome, terminal ownership, activity shimmer, and keys declared once for routing, help and legend"
+2026-11-07T04:40:46.148262Z,latt,0.0.0,0,0,,Name reservation for the latt lattice auditing and tracing tool
+2026-11-07T04:41:04.284988Z,latt-core,0.0.0,0,0,,Name reservation for the latt core library
+2026-11-07T04:41:18.780943Z,latt-adapter,0.0.0,0,0,,Name reservation for the latt adapter library
+2026-11-07T04:41:33.576365Z,crucet,0.0.0,0,0,,Name reservation for the crucet motor design tool
+2026-11-07T04:49:07.204163Z,director-host,0.1.0,0,0,https://github.com/stepupgaming/director,"Host session over a Director scene document: open, patch, inspect, render and export."
+2026-11-07T04:54:53.760871Z,fieldmod,0.1.2,0,0,,Proc macros for generating setter and generator functions
+2026-11-07T04:58:38.372273Z,director-cli,0.1.0,0,0,https://github.com/stepupgaming/director,CLI for the Director rendering engine
+2026-11-07T05:01:01.018512Z,audio-ingress,0.1.0,0,0,https://github.com/kosumic/whip,"Bounded, generation-fenced PCM delivery for native audio consumers"
+2026-11-07T05:01:03.684054Z,mobile-speech,0.1.0,0,0,https://github.com/kosumic/whip,App-independent speech playback ownership and completion-driven queueing for mobile backends
+2026-11-07T05:01:06.757782Z,ai-voice-call,0.1.0,0,0,https://github.com/kosumic/whip,Platform-independent local voice-call turn detection and lifecycle policy
+2026-11-07T05:01:11.488367Z,whip-notify,0.1.5,0,0,https://github.com/kosumic/whip,Authenticated HPKE notification envelopes and a short-lived Herdr push plugin
+2026-11-07T05:01:19.318325Z,agent-transcript-view,0.1.0,0,0,https://github.com/kosumic/whip,Provider-neutral transcript row projection and search presentation
+2026-11-07T05:04:27.423538Z,voice-call-media,0.1.0,0,0,https://github.com/kosumic/whip,"Provider-neutral bounded native PCM, WebRTC/Opus transport and echo processing"
+2026-11-07T05:06:42.460682Z,tiny-symmetric,0.1.0,0,0,,tiny symmetric crate
