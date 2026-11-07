@@ -8,43 +8,43 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-07 16:21 UTC
+## Latest list — 2026-11-07 17:20 UTC
 
-New crates published between 2026-11-07 15:19 UTC and 2026-11-07 16:21 UTC.
+New crates published between 2026-11-07 16:21 UTC and 2026-11-07 17:20 UTC.
 
-[Full CSV](data/new-crates-2026-11-07T16-21-00-849899Z.csv)
+[Full CSV](data/new-crates-2026-11-07T17-20-27-49163Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-07 15:21:47 | [kerniq-core](https://crates.io/crates/kerniq-core) | 0.1.0 | 0 | Core types for Kerniq Server: the error model and server configuration. |
-| 2026-11-07 15:22:08 | [kerniq-routing](https://crates.io/crates/kerniq-routing) | 0.1.0 | 0 | Routers, route groups and middleware composition for Kerniq Server, built on Ax… |
-| 2026-11-07 15:22:19 | [kerniq-macros](https://crates.io/crates/kerniq-macros) | 0.1.0 | 0 | Procedural macros for Kerniq Server (`#[authorize]`). Use through the `macros`… |
-| 2026-11-07 15:22:29 | [kerniq-cli](https://crates.io/crates/kerniq-cli) | 0.1.0 | 0 | Project scaffolding and development commands for Kerniq Server. |
-| 2026-11-07 15:22:44 | [nsh-i18n](https://crates.io/crates/nsh-i18n) | 0.4.0 | 0 | Native Shell's languages: the language data apps format numbers and dates with,… |
-| 2026-11-07 15:22:49 | [kerniq-http](https://crates.io/crates/kerniq-http) | 0.1.0 | 0 | Request extractors and response types for Kerniq Server. |
-| 2026-11-07 15:28:43 | [snipflow](https://crates.io/crates/snipflow) | 0.2.0 | 0 | Ultra-fast, local-first lossless video clipper & silence stripper powered by Ru… |
-| 2026-11-07 15:32:17 | [kerniq-runtime](https://crates.io/crates/kerniq-runtime) | 0.1.0 | 0 | Tokio server lifecycle for Kerniq Server: accept loop, graceful shutdown, backg… |
-| 2026-11-07 15:32:46 | [format198x-snk-neo-geo-romset](https://crates.io/crates/format198x-snk-neo-geo-romset) | 0.1.0 | 0 | Neo Geo named cartridge ROM files — dependency-free region decoding and writing. |
-| 2026-11-07 15:33:48 | [burn_quantum](https://crates.io/crates/burn_quantum) | 0.1.0 | 0 | Differentiable qubit and qudit simulation with Burn's native tensor and module… |
-| 2026-11-07 15:33:51 | [deepseek-web-mcp](https://crates.io/crates/deepseek-web-mcp) | 0.1.2 | 0 | Minimal MCP server exposing DeepSeek Web Search and Fetch APIs |
-| 2026-11-07 15:34:52 | [xan_docopt](https://crates.io/crates/xan_docopt) | 1.1.2 | 0 | Command line argument parsing. |
-| 2026-11-07 15:35:48 | [mcp-serve](https://crates.io/crates/mcp-serve) | 0.0.1 | 0 | The transport half of a Rust MCP server: one command line for stdio, streamable… |
-| 2026-11-07 15:38:00 | [stringbytes](https://crates.io/crates/stringbytes) | 0.0.1 | 0 | A trait for byte sequences and UTF-8 strings |
-| 2026-11-07 15:41:36 | [viscompile](https://crates.io/crates/viscompile) | 0.1.0 | 0 | VisCompile by LatticeAG - behavioral diff for AI agents |
-| 2026-11-07 15:45:30 | [kerniq-middleware](https://crates.io/crates/kerniq-middleware) | 0.1.0 | 0 | Production middleware for Kerniq Server: logging, request IDs, timeouts, CORS,… |
-| 2026-11-07 15:50:31 | [fsgate](https://crates.io/crates/fsgate) | 0.1.1 | 0 | Filesystem authority as directory handles granted up front, enforced by the ker… |
-| 2026-11-07 15:51:11 | [omy-core](https://crates.io/crates/omy-core) | 0.0.1 | 0 | omy 加密文件格式的核心实现：格式读写、密钥体系、分块 AEAD。零 FFmpeg 依赖。 |
-| 2026-11-07 15:51:46 | [omy-config](https://crates.io/crates/omy-config) | 0.0.1 | 0 | omy 的配置读写：CLI 与 GUI 共用同一份定义与默认值。 |
-| 2026-11-07 15:52:20 | [omy-secret](https://crates.io/crates/omy-secret) | 0.0.1 | 0 | omy 的密钥与凭据存储：各平台原生凭据库与 Windows TPM 设备密钥。 |
-| 2026-11-07 15:52:54 | [omy-media](https://crates.io/crates/omy-media) | 0.0.1 | 0 | omy 的媒体探测、分级与缩略图生成 |
-| 2026-11-07 15:53:04 | [kerniq-openapi](https://crates.io/crates/kerniq-openapi) | 0.1.0 | 0 | OpenAPI (Utoipa) documents and Swagger UI for Kerniq Server. |
-| 2026-11-07 15:53:28 | [omy-net](https://crates.io/crates/omy-net) | 0.0.1 | 0 | omy 局域网共享：设备发现、SPAKE2 配对、Noise IK 加密信道、密文块服务。 |
-| 2026-11-07 16:03:45 | [omy-remote](https://crates.io/crates/omy-remote) | 0.0.1 | 0 | omy 远程位置：统一的 RemoteStore 抽象与 WebDAV 驱动。 |
-| 2026-11-07 16:04:57 | [cortexkit-occipital-refs](https://crates.io/crates/cortexkit-occipital-refs) | 0.1.0 | 0 | Finds issue and pull request mentions in agent text, so the CortexKit apps can… |
-| 2026-11-07 16:06:18 | [requests_gauge](https://crates.io/crates/requests_gauge) | 0.1.0 | 0 | A tower Layer for tracking or counting in-flight HTTP requests. |
-| 2026-11-07 16:07:57 | [kerniq-server](https://crates.io/crates/kerniq-server) | 0.1.0 | 0 | A lightweight, asynchronous Rust web framework: Flask-like simplicity on top of… |
-| 2026-11-07 16:14:07 | [omy-cli](https://crates.io/crates/omy-cli) | 0.0.1 | 0 | omy 命令行工具：加解密、扫描、分片、密钥管理。与 GUI 共享 omy-core，行为一致。 |
-| 2026-11-07 16:18:13 | [polaroid](https://crates.io/crates/polaroid) | 0.1.0 | 0 | A GUI for Polars. |
+| 2026-11-07 16:24:19 | [omy-password-manager](https://crates.io/crates/omy-password-manager) | 0.0.1 | 0 | omy 的第三方密码管理器桥接：通用凭据模型与 KeePassXC-Browser provider。 |
+| 2026-11-07 16:27:46 | [waymark-core](https://crates.io/crates/waymark-core) | 0.1.1 | 0 | Waymark domain library: every rule the CLI, MCP server, and Web view share |
+| 2026-11-07 16:28:51 | [waymark-web](https://crates.io/crates/waymark-web) | 0.1.1 | 0 | Read-only Web service and development launcher for Waymark |
+| 2026-11-07 16:29:38 | [waymark-mcp](https://crates.io/crates/waymark-mcp) | 0.1.1 | 0 | Waymark MCP adapter over the shared domain library |
+| 2026-11-07 16:30:16 | [waymark-cli](https://crates.io/crates/waymark-cli) | 0.1.1 | 0 | Waymark command-line adapter |
+| 2026-11-07 16:32:30 | [decision-cert](https://crates.io/crates/decision-cert) | 0.1.0 | 0 | Verify and apply decision-certificate.v1: signed records of how a model's decis… |
+| 2026-11-07 16:34:22 | [reqwester-core](https://crates.io/crates/reqwester-core) | 0.1.0 | 0 | A reqwester core |
+| 2026-11-07 16:34:23 | [reqwester-macros](https://crates.io/crates/reqwester-macros) | 0.1.0 | 0 | Macros for reqwester |
+| 2026-11-07 16:34:26 | [reqwester-util](https://crates.io/crates/reqwester-util) | 0.1.0 | 0 | A set of utils for reqwester |
+| 2026-11-07 16:34:38 | [reqwester](https://crates.io/crates/reqwester) | 0.1.1 | 0 | A small toolkit for building type-safe API clients |
+| 2026-11-07 16:35:30 | [sshpf](https://crates.io/crates/sshpf) | 0.1.1 | 0 | SSH port forward manager with a TUI dashboard (-L / -R / -D) |
+| 2026-11-07 16:37:13 | [lang198x-amos](https://crates.io/crates/lang198x-amos) | 0.1.0 | 0 | Source-preserving AMOS parser and bounded checker |
+| 2026-11-07 16:37:18 | [gdtypecheck](https://crates.io/crates/gdtypecheck) | 0.2.0 | 0 | Report GDScript and shader compile errors and broken references in a Godot proj… |
+| 2026-11-07 16:48:29 | [cargo-axum-forge](https://crates.io/crates/cargo-axum-forge) | 0.1.0 | 0 | A Cargo subcommand for generating structured Axum applications |
+| 2026-11-07 16:52:00 | [fml-lsp](https://crates.io/crates/fml-lsp) | 0.2.6 | 0 | Language server for the FHIR Mapping Language: diagnostics, completion, hover,… |
+| 2026-11-07 16:54:21 | [num-lazy-proc](https://crates.io/crates/num-lazy-proc) | 0.1.0 | 0 | Procedural macros for convenient generic floating-point constants and literals. |
+| 2026-11-07 16:56:10 | [oxa-jev](https://crates.io/crates/oxa-jev) | 3.1.0 | 0 | SystemOne Jev face of the oxa conversion library |
+| 2026-11-07 16:56:23 | [cloudllm_dht](https://crates.io/crates/cloudllm_dht) | 0.1.0 | 0 | Mainline DHT (BEP 5, 32, 33, 42, 43, 44, 51) as a sans-IO Rust library, ported… |
+| 2026-11-07 16:56:51 | [svugy-dagre](https://crates.io/crates/svugy-dagre) | 0.1.0 | 0 | Lay out a directed graph in left-to-right ranks with dagre's algorithm, determi… |
+| 2026-11-07 16:57:03 | [svugy-model](https://crates.io/crates/svugy-model) | 0.1.0 | 0 | Describe a system as a svugy model, build it through the builder every language… |
+| 2026-11-07 17:02:19 | [svugy-parse](https://crates.io/crates/svugy-parse) | 0.1.0 | 0 | Parse diagrams written in Markdown, d2 or JSON into the svugy model, and print… |
+| 2026-11-07 17:03:57 | [svugy](https://crates.io/crates/svugy) | 0.1.0 | 0 | Render a svugy model as an isometric, explorable SVG |
+| 2026-11-07 17:04:37 | [svugy-cli](https://crates.io/crates/svugy-cli) | 0.1.0 | 0 | Command line for svugy: text in, an isometric SVG you can click into |
+| 2026-11-07 17:08:03 | [orrin-jolt-sys](https://crates.io/crates/orrin-jolt-sys) | 0.1.0 | 0 | Raw FFI bindings to Jolt Physics through the joltc C API |
+| 2026-11-07 17:09:02 | [orrin-jolt](https://crates.io/crates/orrin-jolt) | 0.1.0 | 0 | Safe Rust bindings to Jolt Physics |
+| 2026-11-07 17:12:45 | [grabcli-sqlite](https://crates.io/crates/grabcli-sqlite) | 0.2.0 | 0 | SQLite (FTS5) cache backend for grabcli |
+| 2026-11-07 17:12:58 | [grabcli-service](https://crates.io/crates/grabcli-service) | 0.2.0 | 0 | A service-shaped Grab client over grabcli: plain types, client/backend traits,… |
+| 2026-11-07 17:14:34 | [sde-rs](https://crates.io/crates/sde-rs) | 1.0.0 | 0 | Powerful and flexible stochastic differential equation (quasi) Monte-Carlo simu… |
+| 2026-11-07 17:20:25 | [ffcine-comp](https://crates.io/crates/ffcine-comp) | 0.4.0 | 0 | Compositions (ffcine.comp/1): canvas and layers with animated parameters, lower… |
 
 ## Data source
 

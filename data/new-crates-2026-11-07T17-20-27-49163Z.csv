@@ -1,0 +1,30 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-07T16:24:19.990631Z,omy-password-manager,0.0.1,0,0,https://github.com/lejunyang/omy,omy 的第三方密码管理器桥接：通用凭据模型与 KeePassXC-Browser provider。
+2026-11-07T16:27:46.067669Z,waymark-core,0.1.1,0,0,https://github.com/QiYueran-source/waymark,"Waymark domain library: every rule the CLI, MCP server, and Web view share"
+2026-11-07T16:28:51.88621Z,waymark-web,0.1.1,0,0,https://github.com/QiYueran-source/waymark,Read-only Web service and development launcher for Waymark
+2026-11-07T16:29:38.888787Z,waymark-mcp,0.1.1,0,0,,Waymark MCP adapter over the shared domain library
+2026-11-07T16:30:16.953767Z,waymark-cli,0.1.1,0,0,,Waymark command-line adapter
+2026-11-07T16:32:30.622608Z,decision-cert,0.1.0,0,0,https://github.com/zer07labs/decision-cert,Verify and apply decision-certificate.v1: signed records of how a model's decisions were measured
+2026-11-07T16:34:22.908165Z,reqwester-core,0.1.0,0,0,https://github.com/sqlerrorthing/reqwester,A reqwester core
+2026-11-07T16:34:23.747905Z,reqwester-macros,0.1.0,0,0,https://github.com/sqlerrorthing/reqwester,Macros for reqwester
+2026-11-07T16:34:26.872883Z,reqwester-util,0.1.0,0,0,https://github.com/sqlerrorthing/reqwester,A set of utils for reqwester
+2026-11-07T16:34:38.074044Z,reqwester,0.1.1,0,0,https://github.com/sqlerrorthing/reqwester,A small toolkit for building type-safe API clients
+2026-11-07T16:35:30.597178Z,sshpf,0.1.1,0,0,https://github.com/can2049/sshpf,SSH port forward manager with a TUI dashboard (-L / -R / -D)
+2026-11-07T16:37:13.106937Z,lang198x-amos,0.1.0,0,0,https://github.com/lang198x/amos,Source-preserving AMOS parser and bounded checker
+2026-11-07T16:37:18.899508Z,gdtypecheck,0.2.0,0,0,https://github.com/q-rault/gdtypecheck,"Report GDScript and shader compile errors and broken references in a Godot project, without running it"
+2026-11-07T16:48:29.563689Z,cargo-axum-forge,0.1.0,0,0,https://github.com/sylvainTIASSOU/axum-forge,A Cargo subcommand for generating structured Axum applications
+2026-11-07T16:52:00.618144Z,fml-lsp,0.2.6,0,0,https://github.com/octofhir/fml-rs,"Language server for the FHIR Mapping Language: diagnostics, completion, hover, go to definition, references, rename, symbols, signature help and formatting"
+2026-11-07T16:54:21.589833Z,num-lazy-proc,0.1.0,0,0,,Procedural macros for convenient generic floating-point constants and literals.
+2026-11-07T16:56:10.566163Z,oxa-jev,3.1.0,0,0,https://github.com/elkpi/oxa-protocol,SystemOne Jev face of the oxa conversion library
+2026-11-07T16:56:23.848062Z,cloudllm_dht,0.1.0,0,0,https://github.com/CloudLLM-ai/cloudllm-dht,"Mainline DHT (BEP 5, 32, 33, 42, 43, 44, 51) as a sans-IO Rust library, ported from libtorrent's Kademlia implementation."
+2026-11-07T16:56:51.595434Z,svugy-dagre,0.1.0,0,0,https://github.com/fedemagnani/svugy,"Lay out a directed graph in left-to-right ranks with dagre's algorithm, deterministically"
+2026-11-07T16:57:03.298952Z,svugy-model,0.1.0,0,0,https://github.com/fedemagnani/svugy,"Describe a system as a svugy model, build it through the builder every language lowers through, and validate it"
+2026-11-07T17:02:19.901781Z,svugy-parse,0.1.0,0,0,https://github.com/fedemagnani/svugy,"Parse diagrams written in Markdown, d2 or JSON into the svugy model, and print them back"
+2026-11-07T17:03:57.137302Z,svugy,0.1.0,0,0,https://github.com/fedemagnani/svugy,"Render a svugy model as an isometric, explorable SVG"
+2026-11-07T17:04:37.408773Z,svugy-cli,0.1.0,0,0,https://github.com/fedemagnani/svugy,"Command line for svugy: text in, an isometric SVG you can click into"
+2026-11-07T17:08:03.835405Z,orrin-jolt-sys,0.1.0,0,0,https://github.com/Orrin-Team/jolt-rs,Raw FFI bindings to Jolt Physics through the joltc C API
+2026-11-07T17:09:02.01653Z,orrin-jolt,0.1.0,0,0,https://github.com/Orrin-Team/jolt-rs,Safe Rust bindings to Jolt Physics
+2026-11-07T17:12:45.991134Z,grabcli-sqlite,0.2.0,0,0,https://github.com/talaagent/grabcli,SQLite (FTS5) cache backend for grabcli
+2026-11-07T17:12:58.050669Z,grabcli-service,0.2.0,0,0,https://github.com/talaagent/grabcli,"A service-shaped Grab client over grabcli: plain types, client/backend traits, a phone-login state machine, text rendering and a fake backend"
+2026-11-07T17:14:34.345433Z,sde-rs,1.0.0,0,0,https://github.com/Aschii85/sde-rs,Powerful and flexible stochastic differential equation (quasi) Monte-Carlo simulation library written in Rust with Python bindings
+2026-11-07T17:20:25.118477Z,ffcine-comp,0.4.0,0,0,https://github.com/talaagent/ffcine,"Compositions (ffcine.comp/1): canvas and layers with animated parameters, lowered to GPU layers"
