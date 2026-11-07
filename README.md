@@ -8,60 +8,37 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-07 12:20 UTC
+## Latest list — 2026-11-07 13:18 UTC
 
-New crates published between 2026-11-07 11:21 UTC and 2026-11-07 12:20 UTC.
+New crates published between 2026-11-07 12:20 UTC and 2026-11-07 13:18 UTC.
 
-[Full CSV](data/new-crates-2026-11-07T12-20-23-067021Z.csv)
+[Full CSV](data/new-crates-2026-11-07T13-18-42-029637Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-07 11:22:51 | [xingo](https://crates.io/crates/xingo) | 0.0.1 | 0 | Xingó: a pure-Rust LP/MIP solver (name reservation; under active development) |
-| 2026-11-07 11:23:03 | [xingo-sparse](https://crates.io/crates/xingo-sparse) | 0.0.1 | 0 | Sparse linear algebra for optimization: generic CSC/CSR containers, threshold-p… |
-| 2026-11-07 11:28:12 | [palworld-api](https://crates.io/crates/palworld-api) | 0.1.0 | 0 | A Rust client library for interacting with the Palworld dedicated server REST A… |
-| 2026-11-07 11:29:14 | [hlog](https://crates.io/crates/hlog) | 0.1.0 | 0 | hlog — a log for humans. Append, tail and grep your hlog from the terminal. |
-| 2026-11-07 11:30:27 | [uniffi-bindgen-cpp](https://crates.io/crates/uniffi-bindgen-cpp) | 0.1.0 | 0 | C++ bindings generator for UniFFI |
-| 2026-11-07 11:32:29 | [typol-report](https://crates.io/crates/typol-report) | 0.1.0 | 0 | Localized diagnostic report formatting for Typol. |
-| 2026-11-07 11:32:30 | [typol-semantic](https://crates.io/crates/typol-semantic) | 0.1.0 | 0 | Compiled Schema model, constraints, and evaluation engine for Typol. |
-| 2026-11-07 11:32:31 | [typol-syntax](https://crates.io/crates/typol-syntax) | 0.1.0 | 0 | Lexer, Schema parser, and syntax tree for Typol. |
-| 2026-11-07 11:32:33 | [typol-schema](https://crates.io/crates/typol-schema) | 0.1.0 | 0 | Schema resolution, static checks, and compilation for Typol. |
-| 2026-11-07 11:32:35 | [typol-config](https://crates.io/crates/typol-config) | 0.1.0 | 0 | Schema-guided configuration parsing, validation, and formatting for Typol. |
-| 2026-11-07 11:40:36 | [wirebird](https://crates.io/crates/wirebird) | 0.0.1 | 0 | Calls, SMS, USSD and mobile data from your laptop's built-in cellular modem: th… |
-| 2026-11-07 11:40:40 | [wirebird-mbim](https://crates.io/crates/wirebird-mbim) | 0.0.1 | 0 | Mobile Broadband Interface Model (MBIM) message encoding and decoding, from the… |
-| 2026-11-07 11:40:44 | [wirebird-core](https://crates.io/crates/wirebird-core) | 0.0.1 | 0 | Wirebird's modem-agnostic core: modem traits, AT commands, SMS, USSD and the ca… |
-| 2026-11-07 11:40:49 | [wirebird-cli](https://crates.io/crates/wirebird-cli) | 0.0.1 | 0 | Reserved for the Wirebird project (the command-line tool is published as `wireb… |
-| 2026-11-07 11:40:53 | [wirebird-agent](https://crates.io/crates/wirebird-agent) | 0.0.1 | 0 | Wirebird's background agent: owns the modem and serves calls, messages and data… |
-| 2026-11-07 11:42:16 | [leetcode-tui-auth](https://crates.io/crates/leetcode-tui-auth) | 0.6.1 | 0 | LeetCode authentication helpers for the leetui terminal UI |
-| 2026-11-07 11:42:25 | [netscope-linux](https://crates.io/crates/netscope-linux) | 0.2.1 | 0 | Per-application network scoping primitives for Linux |
-| 2026-11-07 11:42:36 | [netscope-client](https://crates.io/crates/netscope-client) | 0.2.1 | 0 | Typed Rust client for the netscope daemon control socket |
-| 2026-11-07 11:43:54 | [tali](https://crates.io/crates/tali) | 0.2.1 | 0 | Count the number of lines, words, and bytes |
-| 2026-11-07 11:44:37 | [gproxy-store](https://crates.io/crates/gproxy-store) | 4.2.1 | 0 | SeaORM entities and batch persistence for GPROXY v4 |
-| 2026-11-07 11:44:40 | [gproxy-client-sdk](https://crates.io/crates/gproxy-client-sdk) | 4.2.1 | 0 | Caller-facing, portable GPROXY client with a versioned language-model IR |
-| 2026-11-07 11:45:47 | [wagasm](https://crates.io/crates/wagasm) | 1.5.8 | 0 | WebAssembly to eZ80 compiler for Agon Light |
-| 2026-11-07 11:48:38 | [gpui-material-symbols-outlined](https://crates.io/crates/gpui-material-symbols-outlined) | 0.1.0 | 0 | The Outlined Google Material Symbols variable font, as bytes for gpui-material-… |
-| 2026-11-07 11:48:44 | [gpui-material-symbols-rounded](https://crates.io/crates/gpui-material-symbols-rounded) | 0.1.0 | 0 | The Rounded Google Material Symbols variable font, as bytes for gpui-material-s… |
-| 2026-11-07 11:48:48 | [gpui-material-symbols-sharp](https://crates.io/crates/gpui-material-symbols-sharp) | 0.1.0 | 0 | The Sharp Google Material Symbols variable font, as bytes for gpui-material-sym… |
-| 2026-11-07 11:48:54 | [gpui-material-symbols-supplemental](https://crates.io/crates/gpui-material-symbols-supplemental) | 0.1.0 | 0 | Google's SVG-only Material Symbols variants, packed as bytes for gpui-material-… |
-| 2026-11-07 11:49:18 | [gpui-material-symbols](https://crates.io/crates/gpui-material-symbols) | 0.1.0 | 0 | Complete variable Google Material Symbols as SVGs for Longbridge GPUI Kit |
-| 2026-11-07 11:51:01 | [wirebird-audio](https://crates.io/crates/wirebird-audio) | 0.0.1 | 0 | Call audio for Wirebird: playback, microphone, noise suppression and echo cance… |
-| 2026-11-07 11:52:39 | [plottery_fonts](https://crates.io/crates/plottery_fonts) | 0.12.0 | 0 | Plotter fonts bundled with Plottery: single-stroke SVG fonts, single-line TTFs… |
-| 2026-11-07 12:01:14 | [wirebird-intel-xmm7360](https://crates.io/crates/wirebird-intel-xmm7360) | 0.0.1 | 0 | Wirebird's support for the Intel XMM7360 modem (Fibocom L850-GL): RPC, call aud… |
-| 2026-11-07 12:03:35 | [pathland-markdown](https://crates.io/crates/pathland-markdown) | 0.2.0 | 0 | Pathland's shared inline Markdown parser: produces AttributedString style runs… |
-| 2026-11-07 12:04:12 | [prebake](https://crates.io/crates/prebake) | 0.1.0 | 0 | Bakes Steam's Vulkan shader caches while you are away, so games start without "… |
-| 2026-11-07 12:06:24 | [halo-bridge](https://crates.io/crates/halo-bridge) | 0.1.0 | 0 | Halo Core Identity Provider, Multi-factor Authentication & OIDC Protocol Engine |
-| 2026-11-07 12:06:56 | [ziptensors-core](https://crates.io/crates/ziptensors-core) | 0.1.0 | 0 | Lossless compressed tensor container: format, codecs, reader and writer |
-| 2026-11-07 12:06:59 | [ziptensors-mount](https://crates.io/crates/ziptensors-mount) | 0.1.0 | 0 | Read-only filesystem view of a ziptensors container |
-| 2026-11-07 12:07:01 | [ziptensors-cli](https://crates.io/crates/ziptensors-cli) | 0.1.0 | 0 | Command line tool for the ziptensors container |
-| 2026-11-07 12:07:21 | [aad-browser](https://crates.io/crates/aad-browser) | 0.0.8 | 0 | Local browser protocol clients (Chromium CDP, Firefox WebDriver BiDi) and owned… |
-| 2026-11-07 12:07:29 | [zenkey-model](https://crates.io/crates/zenkey-model) | 0.20.0 | 0 | zk2 keys and contracts without a Zenoh session: the key grammar, the contract a… |
-| 2026-11-07 12:11:28 | [wirebird-localization](https://crates.io/crates/wirebird-localization) | 0.0.1 | 0 | Wirebird's translations and locale-aware formatting. |
-| 2026-11-07 12:11:49 | [ascii-uml](https://crates.io/crates/ascii-uml) | 0.1.0 | 0 | A CLI tool to create ASCII UML diagrams from text. |
-| 2026-11-07 12:15:07 | [staticweaver-core](https://crates.io/crates/staticweaver-core) | 0.0.10 | 0 | Core of the staticweaver templating engine: parser, expression evaluator, rende… |
-| 2026-11-07 12:15:19 | [staticweaver-async](https://crates.io/crates/staticweaver-async) | 0.0.10 | 0 | Async template loading for the staticweaver templating engine: the AsyncTemplat… |
-| 2026-11-07 12:15:52 | [staticweaver-cli](https://crates.io/crates/staticweaver-cli) | 0.0.10 | 0 | The `staticweaver` command: render templates from the shell with the staticweav… |
-| 2026-11-07 12:16:23 | [pdf-crypt](https://crates.io/crates/pdf-crypt) | 0.1.0-alpha.1 | 0 | PDF's standard security handler: decrypting with every fault said, encrypting f… |
-| 2026-11-07 12:16:38 | [embun](https://crates.io/crates/embun) | 0.1.0 | 0 | A Rust UI toolkit with frosted, merging glass |
-| 2026-11-07 12:20:01 | [interstice-client](https://crates.io/crates/interstice-client) | 0.6.0 | 0 | Client library for programs that talk to an Interstice node: reducer calls with… |
+| 2026-11-07 12:21:39 | [wirebird-calls](https://crates.io/crates/wirebird-calls) | 0.0.1 | 0 | Voice call sessions for Wirebird. |
+| 2026-11-07 12:22:20 | [pdf-color](https://crates.io/crates/pdf-color) | 0.1.0-alpha.1 | 0 | PDF color spaces read: families, components as ISO 32000-2 and PDFium count the… |
+| 2026-11-07 12:24:12 | [marmota](https://crates.io/crates/marmota) | 1.0.1 | 0 | Daily note templating system |
+| 2026-11-07 12:25:18 | [txweave](https://crates.io/crates/txweave) | 0.0.1 | 0 | Deterministic concurrency tests for code that talks to PostgreSQL. Placeholder… |
+| 2026-11-07 12:29:49 | [pixelfluter](https://crates.io/crates/pixelfluter) | 0.1.2 | 0 | My very own pixelflut client |
+| 2026-11-07 12:31:48 | [wirebird-data](https://crates.io/crates/wirebird-data) | 0.0.1 | 0 | Mobile data connections for Wirebird. |
+| 2026-11-07 12:35:18 | [wattop](https://crates.io/crates/wattop) | 0.2.0 | 0 | Hybrid-car style terminal power dashboard for macOS laptops: live watts, charge… |
+| 2026-11-07 12:39:32 | [pddon-oss-client](https://crates.io/crates/pddon-oss-client) | 0.1.1 | 0 | Official Rust client SDK for OSS Server's S3-compatible API (SigV4, path-style) |
+| 2026-11-07 12:41:44 | [comrade](https://crates.io/crates/comrade) | 0.1.0 | 0 | Block code edits from AI agents unless the editing model is allowed for that fi… |
+| 2026-11-07 12:41:55 | [wirebird-agent-protocol](https://crates.io/crates/wirebird-agent-protocol) | 0.0.1 | 0 | The protocol between Wirebird's background agent and its clients. |
+| 2026-11-07 12:48:59 | [ccrun](https://crates.io/crates/ccrun) | 0.1.0 | 0 | A library and a tool to parse TeX code cells and run them. |
+| 2026-11-07 12:52:03 | [wirebird-net](https://crates.io/crates/wirebird-net) | 0.0.1 | 0 | Operating system networking integration for Wirebird: metered connections and r… |
+| 2026-11-07 12:55:20 | [scrcpyt](https://crates.io/crates/scrcpyt) | 0.1.0 | 0 | Mirror and control an Android device inside a terminal, powered by scrcpy-server |
+| 2026-11-07 12:57:20 | [fastdbsp](https://crates.io/crates/fastdbsp) | 0.2.0 | 0 | dbsp 0.2.0, the continuous streaming analytics engine, with two performance fix… |
+| 2026-11-07 13:00:10 | [typol-macros](https://crates.io/crates/typol-macros) | 0.1.0 | 0 | Procedural derive macro for mapping Typol schemas to Rust types. |
+| 2026-11-07 13:00:12 | [typol-std](https://crates.io/crates/typol-std) | 0.1.0 | 0 | File, environment, and diagnostic host adapters for Typol. |
+| 2026-11-07 13:00:14 | [typol](https://crates.io/crates/typol) | 0.1.0 | 0 | Schema-driven configuration parsing and validation for Rust. |
+| 2026-11-07 13:00:16 | [typol-cli](https://crates.io/crates/typol-cli) | 0.1.0 | 0 | Command-line tools for checking, formatting, and exporting Typol files. |
+| 2026-11-07 13:03:02 | [ccwire](https://crates.io/crates/ccwire) | 0.1.1 | 0 | A Rust SDK for Claude Code: the stream-json protocol, typed |
+| 2026-11-07 13:03:07 | [ccwire-oauth](https://crates.io/crates/ccwire-oauth) | 0.1.0 | 0 | A typed async client for the Claude account endpoints an OAuth login can call |
+| 2026-11-07 13:06:43 | [redtab](https://crates.io/crates/redtab) | 0.1.0 | 0 | Terminal Reddit reader with tabs and browser-session sign-in |
+| 2026-11-07 13:08:18 | [wirebird-windows](https://crates.io/crates/wirebird-windows) | 0.0.1 | 0 | Windows integration for Wirebird. |
+| 2026-11-07 13:18:30 | [wirebird-store](https://crates.io/crates/wirebird-store) | 0.0.1 | 0 | Wirebird's local message and call store. |
 
 ## Data source
 

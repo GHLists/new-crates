@@ -1,0 +1,24 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-07T12:21:39.70765Z,wirebird-calls,0.0.1,0,0,https://github.com/IvoraLabsHQ/wirebird,Voice call sessions for Wirebird.
+2026-11-07T12:22:20.532119Z,pdf-color,0.1.0-alpha.1,0,0,https://github.com/sheaf-pdf/pdf-lint,"PDF color spaces read: families, components as ISO 32000-2 and PDFium count them, base and alternate spaces, colorants"
+2026-11-07T12:24:12.252847Z,marmota,1.0.1,0,0,,Daily note templating system
+2026-11-07T12:25:18.911129Z,txweave,0.0.1,0,0,https://github.com/pgiahuy/txweave,"Deterministic concurrency tests for code that talks to PostgreSQL. Placeholder release: in design, no functionality yet."
+2026-11-07T12:29:49.519033Z,pixelfluter,0.1.2,0,0,https://git.jone.foo/jone/pixelfluter,My very own pixelflut client
+2026-11-07T12:31:48.316675Z,wirebird-data,0.0.1,0,0,https://github.com/IvoraLabsHQ/wirebird,Mobile data connections for Wirebird.
+2026-11-07T12:35:18.428719Z,wattop,0.2.0,0,0,https://github.com/tupe12334/wattop,"Hybrid-car style terminal power dashboard for macOS laptops: live watts, charger port and battery flow"
+2026-11-07T12:39:32.516935Z,pddon-oss-client,0.1.1,0,0,https://github.com/pddon/easy-oss-server,"Official Rust client SDK for OSS Server's S3-compatible API (SigV4, path-style)"
+2026-11-07T12:41:44.838766Z,comrade,0.1.0,0,0,https://github.com/tupe12334/comrade,Block code edits from AI agents unless the editing model is allowed for that file type
+2026-11-07T12:41:55.567242Z,wirebird-agent-protocol,0.0.1,0,0,https://github.com/IvoraLabsHQ/wirebird,The protocol between Wirebird's background agent and its clients.
+2026-11-07T12:48:59.919134Z,ccrun,0.1.0,0,0,https://gitlab.com/cnrgh/infotools/ccrun,A library and a tool to parse TeX code cells and run them.
+2026-11-07T12:52:03.888187Z,wirebird-net,0.0.1,0,0,https://github.com/IvoraLabsHQ/wirebird,Operating system networking integration for Wirebird: metered connections and radio state.
+2026-11-07T12:55:20.687508Z,scrcpyt,0.1.0,0,0,https://github.com/leset0ng/scrcpyt,"Mirror and control an Android device inside a terminal, powered by scrcpy-server"
+2026-11-07T12:57:20.039562Z,fastdbsp,0.2.0,0,0,https://github.com/lucidarium-systems/fastdbsp,"dbsp 0.2.0, the continuous streaming analytics engine, with two performance fixes for nested circuits"
+2026-11-07T13:00:10.633641Z,typol-macros,0.1.0,0,0,https://github.com/shaogme/typol,Procedural derive macro for mapping Typol schemas to Rust types.
+2026-11-07T13:00:12.10642Z,typol-std,0.1.0,0,0,https://github.com/shaogme/typol,"File, environment, and diagnostic host adapters for Typol."
+2026-11-07T13:00:14.706037Z,typol,0.1.0,0,0,https://github.com/shaogme/typol,Schema-driven configuration parsing and validation for Rust.
+2026-11-07T13:00:16.246499Z,typol-cli,0.1.0,0,0,https://github.com/shaogme/typol,"Command-line tools for checking, formatting, and exporting Typol files."
+2026-11-07T13:03:02.618027Z,ccwire,0.1.1,0,0,https://github.com/talaagent/ccwire,"A Rust SDK for Claude Code: the stream-json protocol, typed"
+2026-11-07T13:03:07.334108Z,ccwire-oauth,0.1.0,0,0,https://github.com/talaagent/ccwire,A typed async client for the Claude account endpoints an OAuth login can call
+2026-11-07T13:06:43.950943Z,redtab,0.1.0,0,0,https://github.com/kapral18/redtab,Terminal Reddit reader with tabs and browser-session sign-in
+2026-11-07T13:08:18.620069Z,wirebird-windows,0.0.1,0,0,https://github.com/IvoraLabsHQ/wirebird,Windows integration for Wirebird.
+2026-11-07T13:18:30.130544Z,wirebird-store,0.0.1,0,0,https://github.com/IvoraLabsHQ/wirebird,Wirebird's local message and call store.
