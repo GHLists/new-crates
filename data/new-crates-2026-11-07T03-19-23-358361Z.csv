@@ -1,0 +1,32 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-07T02:20:18.028549Z,waft-services,0.1.0,0,0,https://github.com/xtyxtyx/waft-ui,"Keyboard, text input, and system services for Waft"
+2026-11-07T02:26:39.663368Z,tv-rs-rag,0.7.1,0,0,https://github.com/Zakarialabib/tv-rs,"In-memory RAG module for hardware quirks, protocol specs, episodic remediation ledger, and rule grammar grounding."
+2026-11-07T02:27:31.727171Z,openusd-imaging,0.8.0,0,0,https://github.com/mxpv/openusd,Placeholder for the openusd project's Hydra-style imaging layer
+2026-11-07T02:27:52.052364Z,tv-rs-provision,0.7.1,0,0,https://github.com/Zakarialabib/tv-rs,First-boot provisioning via BLE Improv Wi-Fi and QR-code pairing for digital signage displays
+2026-11-07T02:29:12.261339Z,tv-rs-companion,0.7.1,0,0,https://github.com/Zakarialabib/tv-rs,"Mobile companion core library with no_std+alloc support, UniFFI Swift/Kotlin bindings, mDNS/SSDP discovery gating, QR+SAS pairing, and tv-rs-hostd control"
+2026-11-07T02:30:37.703525Z,waft-painting,0.1.0,0,0,https://github.com/xtyxtyx/waft-ui,"Alignment, decoration, and text painting for Waft"
+2026-11-07T02:37:46.472052Z,secret-redact,0.1.0,0,0,https://github.com/gabrielkoerich/secret-redact,"Find secrets in text and replace them with [REDACTED:rule]: API keys, tokens, private keys, credentials in URLs and config lines"
+2026-11-07T02:40:50.503993Z,netget-pgwire,0.35.0,0,0,https://github.com/netget-net/pgwire,"NetGet fork of pgwire: malformed frontend messages are refused with FATAL 08P01 instead of panicking, and CopyFail encodes with its own tag. Postgresql wire protocol implemented as a library"
+2026-11-07T02:40:58.811485Z,waft-rendering,0.1.0,0,0,https://github.com/xtyxtyx/waft-ui,Render-object tree and layout for Waft
+2026-11-07T02:45:39.121715Z,netget-opensrv-mysql,0.7.0,0,0,https://github.com/netget-net/opensrv,"NetGet fork of opensrv-mysql: no use-after-free on pipelined commands, ERR 1835 for a malformed COM_STMT_EXECUTE, COM_STMT_RESET handled. Bindings for emulating a MySQL/MariaDB server."
+2026-11-07T02:48:50.000789Z,contextual-ui,0.2.0,0,0,https://codeberg.org/d2xdt2/contextual-ui,Generic TUI framework for Rust applications with context-aware navigation
+2026-11-07T02:51:15.488173Z,waft-shell,0.1.0,0,0,https://github.com/xtyxtyx/waft-ui,Framework-side embedder client for Waft
+2026-11-07T02:53:46.667219Z,strhide-rusty-h265,0.1.0,0,0,https://github.com/mcxiaoke/rusty_h265,Fork of rusty_h265 0.6.2 adding CABAC observer hooks and sequence reset for strhide's HEVC steganography. Not a general-purpose decoder: depend on rusty_h265 unless you need this fork.
+2026-11-07T02:57:41.010562Z,fandhe-browser-profile,0.1.0,0,0,https://github.com/Fandhe-AI/fandhe-browser,"Profile isolation for fandhe-browser: path-safe profile storage, advisory locks and per-OS data directories"
+2026-11-07T02:57:43.727808Z,fandhe-browser-js,0.1.0,0,0,https://github.com/Fandhe-AI/fandhe-browser,JavaScript engine abstraction for fandhe-browser with optional V8 and boa backends
+2026-11-07T02:57:46.927882Z,fandhe-browser-core,0.1.0,0,0,https://github.com/Fandhe-AI/fandhe-browser,"Core library of fandhe-browser: fetch, HTML parsing, DOM, queries, CSSOM and configuration"
+2026-11-07T02:57:51.498729Z,fandhe-browser-ai,0.1.0,0,0,https://github.com/Fandhe-AI/fandhe-browser,"AI-oriented API for fandhe-browser: accessibility tree, reduced DOM snapshots and plugin API"
+2026-11-07T02:57:54.610803Z,fandhe-browser-cdp,0.1.0,0,0,https://github.com/Fandhe-AI/fandhe-browser,Chrome DevTools Protocol compatible server for fandhe-browser
+2026-11-07T02:59:02.496063Z,coax,0.1.0,0,0,https://github.com/jackroddy/coax,a terminal chat for agents that speak the Agent Client Protocol
+2026-11-07T03:01:45.652387Z,waft-widgets,0.1.0,0,0,https://github.com/xtyxtyx/waft-ui,Widget framework and widgets for Waft
+2026-11-07T03:02:59.698502Z,fandhe-browser-render,0.1.0,0,0,https://github.com/Fandhe-AI/fandhe-browser,Client for the out-of-process Servo rendering host of fandhe-browser (does not depend on Servo)
+2026-11-07T03:08:21.528082Z,director-skia-safe,0.153.3,0,0,https://github.com/stepupgaming/director,skia-safe 0.153.3 with Director's Vulkan resolver lifetime fix: the get_proc resolver outlives context construction for lazy readback and flush resolution
+2026-11-07T03:12:13.363733Z,cjk-ocr-layout,0.1.0,0,0,https://github.com/Hasmolam/cosmic-ext-translator,"Engine-independent post-processing of OCR boxes for Japanese, Chinese and Korean: vertical reading order, furigana removal, text normalisation"
+2026-11-07T03:12:15.68389Z,waft,0.1.0,0,0,https://github.com/xtyxtyx/waft-ui,"UI framework: Flutter's widgets, plus Entity, on a Rust render engine"
+2026-11-07T03:12:25.384407Z,screen-text-settle,0.1.0,0,0,https://github.com/Hasmolam/cosmic-ext-translator,"Detect when animated on-screen text (typewriter dialogue, fades) has stopped changing, then emit it once"
+2026-11-07T03:13:08.067213Z,fandhe-browser-cli,0.1.0,0,0,https://github.com/Fandhe-AI/fandhe-browser,Command-line interface of fandhe-browser (installs the fandhe-browser binary)
+2026-11-07T03:18:25.367435Z,director-breakdown,0.1.0,0,0,https://github.com/stepupgaming/director,"Shot breakdown of a reference video for Director: cuts, transitions and container provenance."
+2026-11-07T03:18:25.651978Z,director-dom,0.1.0,0,0,https://github.com/stepupgaming/director,The scripted page document and recorder protocol Director's GSAP recording shares across processes
+2026-11-07T03:18:26.101337Z,director-scene,0.1.0,0,0,https://github.com/stepupgaming/director,Serializable scene document for Director. No renderer types.
+2026-11-07T03:18:26.483922Z,director-track,0.1.0,0,0,https://github.com/stepupgaming/director,Feature tracking and camera solving from footage for Director matchmoves.
+2026-11-07T03:18:41.847009Z,director-recorder,0.1.0,0,0,https://github.com/stepupgaming/director,The GSAP recorder helper that runs page scripts for Director's HTML compiler in its own process
