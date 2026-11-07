@@ -1,0 +1,27 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-07T17:22:10.801801Z,gdsuite,0.1.1,0,0,https://github.com/q-rault/gdsuite,"Workflow CLI for Godot projects: installs and coordinates gdtoolkit, gdtest, gdhealth and gdtypecheck"
+2026-11-07T17:26:15.02136Z,obsidian-logging-cli,1.3.7,0,0,https://github.com/ljantzen/obsidian-logging,A journaling/logging CLI that stores logs in Obsidian markdown files
+2026-11-07T17:27:27.166983Z,upong,0.1.0,0,0,,A simple pong game written completely from scratch in rust
+2026-11-07T17:30:38.28223Z,clanix,0.1.0,0,0,https://github.com/Clannon-Labs/Clanix,A lightweight execution and observation library for developer infrastructure.
+2026-11-07T17:34:29.928345Z,meme-mcp,1.0.0,0,0,https://github.com/qntx/meme,MCP server for meme.
+2026-11-07T17:34:49.977285Z,meme-bin,1.0.0,0,0,https://github.com/qntx/meme,Command-line interface for meme.
+2026-11-07T17:36:46.236746Z,turbofan,0.8.0,0,0,https://github.com/jrogers/turbofan,"A Raft-replicated state machine framework: a deterministic service, client sessions, timers and snapshots"
+2026-11-07T17:39:25.605313Z,mockforge-protocol,0.3.241,0,0,https://github.com/SaaSy-Solutions/mockforge,"Protocol contracts, registries, matching, fixture loading and server lifecycle support"
+2026-11-07T17:40:13.735361Z,scep,0.0.0,0,0,https://github.com/AprilNEA/scep-rs,Pure-Rust SCEP (RFC 8894) server and client
+2026-11-07T17:43:41.461181Z,topside,0.1.0,0,0,https://github.com/DZamataev/topside,"Builds and operator gates for agent-driven game development: Syncthing delivery, Telegram gates, T3 Code wake-ups"
+2026-11-07T17:46:59.655222Z,scep-protocol,0.0.0,0,0,https://github.com/AprilNEA/scep-rs,"SCEP (RFC 8894) wire format: attributes, capabilities, pkiMessage, pkcsPKIEnvelope"
+2026-11-07T17:47:01.510697Z,scep-server,0.0.0,0,0,https://github.com/AprilNEA/scep-rs,SCEP (RFC 8894) server: sans-IO responder and issuer trait
+2026-11-07T17:47:03.212431Z,scep-client,0.0.0,0,0,https://github.com/AprilNEA/scep-rs,SCEP (RFC 8894) client: sans-IO enrolment transaction and optional HTTP client
+2026-11-07T17:47:05.079075Z,scep-cli,0.0.0,0,0,https://github.com/AprilNEA/scep-rs,"SCEP (RFC 8894) command line: getcacaps, getcacert, enroll, and a file-backed test CA"
+2026-11-07T17:50:38.73779Z,kova-derive,0.1.0,0,0,https://github.com/edvong/kova,Procedural macros for Kova
+2026-11-07T17:50:39.632331Z,kova-kernel,0.1.0,0,0,https://github.com/edvong/kova,Internal algebraic kernel and SQL rendering engine for the Kova ORM
+2026-11-07T17:50:41.090628Z,kova-postgres,0.1.0,0,0,https://github.com/edvong/kova,PostgreSQL support for Kova
+2026-11-07T17:50:41.856259Z,kova-sqlite,0.1.0,0,0,https://github.com/edvong/kova,SQLite support for Kova
+2026-11-07T17:57:27.515436Z,dir-24-8-derive,0.1.0,0,0,https://github.com/0x00F6/dir-24-8,#[derive(DeepMerge)] for the dir-24-8 longest-prefix-match tables
+2026-11-07T17:57:30.095173Z,dir-24-8,0.1.0,0,0,https://github.com/0x00F6/dir-24-8,"Longest-prefix-match tables for IPv4 (DIR-24-8) and IPv6 (24/8 multi-level trie) with optional AVX-512, AVX2 and NEON batch lookups and borrowed results"
+2026-11-07T17:59:49.597166Z,macrobat,0.9.1,0,0,https://github.com/antichrome1/macrobat-rs,A DSL for writing legible single-arm declartive macros.
+2026-11-07T18:01:00.330148Z,tokensim,1.0.1,0,0,https://github.com/SudoEvrything/tokensim,"Safe Rust wrapper for TokenSIMD, a high-throughput BPE tokenizer"
+2026-11-07T18:02:24.79619Z,ifiction,0.1.0,0,0,https://github.com/sunsided/ifiction,"Treaty of Babel metadata for interactive fiction: IFIDs, iFiction records, HTML and binary embedding"
+2026-11-07T18:02:27.170484Z,ifiction-build,0.1.0,0,0,https://github.com/sunsided/ifiction,"build.rs helper that embeds Treaty of Babel metadata (IFID, iFiction record) into a Rust game"
+2026-11-07T18:02:29.7997Z,ifiction-cli,0.1.0,0,0,https://github.com/sunsided/ifiction,"Command-line tool for Treaty of Babel metadata: IFIDs, iFiction records, HTML injection"
+2026-11-07T18:17:42.401719Z,umbera-core,1.0.0,0,0,https://github.com/UmberaAPP/UMBERA,"Umbera cryptographic core: post-quantum primitives, MLS group messaging, message franking."

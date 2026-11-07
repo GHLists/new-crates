@@ -8,43 +8,40 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-07 17:20 UTC
+## Latest list — 2026-11-07 18:19 UTC
 
-New crates published between 2026-11-07 16:21 UTC and 2026-11-07 17:20 UTC.
+New crates published between 2026-11-07 17:20 UTC and 2026-11-07 18:19 UTC.
 
-[Full CSV](data/new-crates-2026-11-07T17-20-27-49163Z.csv)
+[Full CSV](data/new-crates-2026-11-07T18-19-30-020478Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-07 16:24:19 | [omy-password-manager](https://crates.io/crates/omy-password-manager) | 0.0.1 | 0 | omy 的第三方密码管理器桥接：通用凭据模型与 KeePassXC-Browser provider。 |
-| 2026-11-07 16:27:46 | [waymark-core](https://crates.io/crates/waymark-core) | 0.1.1 | 0 | Waymark domain library: every rule the CLI, MCP server, and Web view share |
-| 2026-11-07 16:28:51 | [waymark-web](https://crates.io/crates/waymark-web) | 0.1.1 | 0 | Read-only Web service and development launcher for Waymark |
-| 2026-11-07 16:29:38 | [waymark-mcp](https://crates.io/crates/waymark-mcp) | 0.1.1 | 0 | Waymark MCP adapter over the shared domain library |
-| 2026-11-07 16:30:16 | [waymark-cli](https://crates.io/crates/waymark-cli) | 0.1.1 | 0 | Waymark command-line adapter |
-| 2026-11-07 16:32:30 | [decision-cert](https://crates.io/crates/decision-cert) | 0.1.0 | 0 | Verify and apply decision-certificate.v1: signed records of how a model's decis… |
-| 2026-11-07 16:34:22 | [reqwester-core](https://crates.io/crates/reqwester-core) | 0.1.0 | 0 | A reqwester core |
-| 2026-11-07 16:34:23 | [reqwester-macros](https://crates.io/crates/reqwester-macros) | 0.1.0 | 0 | Macros for reqwester |
-| 2026-11-07 16:34:26 | [reqwester-util](https://crates.io/crates/reqwester-util) | 0.1.0 | 0 | A set of utils for reqwester |
-| 2026-11-07 16:34:38 | [reqwester](https://crates.io/crates/reqwester) | 0.1.1 | 0 | A small toolkit for building type-safe API clients |
-| 2026-11-07 16:35:30 | [sshpf](https://crates.io/crates/sshpf) | 0.1.1 | 0 | SSH port forward manager with a TUI dashboard (-L / -R / -D) |
-| 2026-11-07 16:37:13 | [lang198x-amos](https://crates.io/crates/lang198x-amos) | 0.1.0 | 0 | Source-preserving AMOS parser and bounded checker |
-| 2026-11-07 16:37:18 | [gdtypecheck](https://crates.io/crates/gdtypecheck) | 0.2.0 | 0 | Report GDScript and shader compile errors and broken references in a Godot proj… |
-| 2026-11-07 16:48:29 | [cargo-axum-forge](https://crates.io/crates/cargo-axum-forge) | 0.1.0 | 0 | A Cargo subcommand for generating structured Axum applications |
-| 2026-11-07 16:52:00 | [fml-lsp](https://crates.io/crates/fml-lsp) | 0.2.6 | 0 | Language server for the FHIR Mapping Language: diagnostics, completion, hover,… |
-| 2026-11-07 16:54:21 | [num-lazy-proc](https://crates.io/crates/num-lazy-proc) | 0.1.0 | 0 | Procedural macros for convenient generic floating-point constants and literals. |
-| 2026-11-07 16:56:10 | [oxa-jev](https://crates.io/crates/oxa-jev) | 3.1.0 | 0 | SystemOne Jev face of the oxa conversion library |
-| 2026-11-07 16:56:23 | [cloudllm_dht](https://crates.io/crates/cloudllm_dht) | 0.1.0 | 0 | Mainline DHT (BEP 5, 32, 33, 42, 43, 44, 51) as a sans-IO Rust library, ported… |
-| 2026-11-07 16:56:51 | [svugy-dagre](https://crates.io/crates/svugy-dagre) | 0.1.0 | 0 | Lay out a directed graph in left-to-right ranks with dagre's algorithm, determi… |
-| 2026-11-07 16:57:03 | [svugy-model](https://crates.io/crates/svugy-model) | 0.1.0 | 0 | Describe a system as a svugy model, build it through the builder every language… |
-| 2026-11-07 17:02:19 | [svugy-parse](https://crates.io/crates/svugy-parse) | 0.1.0 | 0 | Parse diagrams written in Markdown, d2 or JSON into the svugy model, and print… |
-| 2026-11-07 17:03:57 | [svugy](https://crates.io/crates/svugy) | 0.1.0 | 0 | Render a svugy model as an isometric, explorable SVG |
-| 2026-11-07 17:04:37 | [svugy-cli](https://crates.io/crates/svugy-cli) | 0.1.0 | 0 | Command line for svugy: text in, an isometric SVG you can click into |
-| 2026-11-07 17:08:03 | [orrin-jolt-sys](https://crates.io/crates/orrin-jolt-sys) | 0.1.0 | 0 | Raw FFI bindings to Jolt Physics through the joltc C API |
-| 2026-11-07 17:09:02 | [orrin-jolt](https://crates.io/crates/orrin-jolt) | 0.1.0 | 0 | Safe Rust bindings to Jolt Physics |
-| 2026-11-07 17:12:45 | [grabcli-sqlite](https://crates.io/crates/grabcli-sqlite) | 0.2.0 | 0 | SQLite (FTS5) cache backend for grabcli |
-| 2026-11-07 17:12:58 | [grabcli-service](https://crates.io/crates/grabcli-service) | 0.2.0 | 0 | A service-shaped Grab client over grabcli: plain types, client/backend traits,… |
-| 2026-11-07 17:14:34 | [sde-rs](https://crates.io/crates/sde-rs) | 1.0.0 | 0 | Powerful and flexible stochastic differential equation (quasi) Monte-Carlo simu… |
-| 2026-11-07 17:20:25 | [ffcine-comp](https://crates.io/crates/ffcine-comp) | 0.4.0 | 0 | Compositions (ffcine.comp/1): canvas and layers with animated parameters, lower… |
+| 2026-11-07 17:22:10 | [gdsuite](https://crates.io/crates/gdsuite) | 0.1.1 | 0 | Workflow CLI for Godot projects: installs and coordinates gdtoolkit, gdtest, gd… |
+| 2026-11-07 17:26:15 | [obsidian-logging-cli](https://crates.io/crates/obsidian-logging-cli) | 1.3.7 | 0 | A journaling/logging CLI that stores logs in Obsidian markdown files |
+| 2026-11-07 17:27:27 | [upong](https://crates.io/crates/upong) | 0.1.0 | 0 | A simple pong game written completely from scratch in rust |
+| 2026-11-07 17:30:38 | [clanix](https://crates.io/crates/clanix) | 0.1.0 | 0 | A lightweight execution and observation library for developer infrastructure. |
+| 2026-11-07 17:34:29 | [meme-mcp](https://crates.io/crates/meme-mcp) | 1.0.0 | 0 | MCP server for meme. |
+| 2026-11-07 17:34:49 | [meme-bin](https://crates.io/crates/meme-bin) | 1.0.0 | 0 | Command-line interface for meme. |
+| 2026-11-07 17:36:46 | [turbofan](https://crates.io/crates/turbofan) | 0.8.0 | 0 | A Raft-replicated state machine framework: a deterministic service, client sess… |
+| 2026-11-07 17:39:25 | [mockforge-protocol](https://crates.io/crates/mockforge-protocol) | 0.3.241 | 0 | Protocol contracts, registries, matching, fixture loading and server lifecycle… |
+| 2026-11-07 17:40:13 | [scep](https://crates.io/crates/scep) | 0.0.0 | 0 | Pure-Rust SCEP (RFC 8894) server and client |
+| 2026-11-07 17:43:41 | [topside](https://crates.io/crates/topside) | 0.1.0 | 0 | Builds and operator gates for agent-driven game development: Syncthing delivery… |
+| 2026-11-07 17:46:59 | [scep-protocol](https://crates.io/crates/scep-protocol) | 0.0.0 | 0 | SCEP (RFC 8894) wire format: attributes, capabilities, pkiMessage, pkcsPKIEnvel… |
+| 2026-11-07 17:47:01 | [scep-server](https://crates.io/crates/scep-server) | 0.0.0 | 0 | SCEP (RFC 8894) server: sans-IO responder and issuer trait |
+| 2026-11-07 17:47:03 | [scep-client](https://crates.io/crates/scep-client) | 0.0.0 | 0 | SCEP (RFC 8894) client: sans-IO enrolment transaction and optional HTTP client |
+| 2026-11-07 17:47:05 | [scep-cli](https://crates.io/crates/scep-cli) | 0.0.0 | 0 | SCEP (RFC 8894) command line: getcacaps, getcacert, enroll, and a file-backed t… |
+| 2026-11-07 17:50:38 | [kova-derive](https://crates.io/crates/kova-derive) | 0.1.0 | 0 | Procedural macros for Kova |
+| 2026-11-07 17:50:39 | [kova-kernel](https://crates.io/crates/kova-kernel) | 0.1.0 | 0 | Internal algebraic kernel and SQL rendering engine for the Kova ORM |
+| 2026-11-07 17:50:41 | [kova-postgres](https://crates.io/crates/kova-postgres) | 0.1.0 | 0 | PostgreSQL support for Kova |
+| 2026-11-07 17:50:41 | [kova-sqlite](https://crates.io/crates/kova-sqlite) | 0.1.0 | 0 | SQLite support for Kova |
+| 2026-11-07 17:57:27 | [dir-24-8-derive](https://crates.io/crates/dir-24-8-derive) | 0.1.0 | 0 | #[derive(DeepMerge)] for the dir-24-8 longest-prefix-match tables |
+| 2026-11-07 17:57:30 | [dir-24-8](https://crates.io/crates/dir-24-8) | 0.1.0 | 0 | Longest-prefix-match tables for IPv4 (DIR-24-8) and IPv6 (24/8 multi-level trie… |
+| 2026-11-07 17:59:49 | [macrobat](https://crates.io/crates/macrobat) | 0.9.1 | 0 | A DSL for writing legible single-arm declartive macros. |
+| 2026-11-07 18:01:00 | [tokensim](https://crates.io/crates/tokensim) | 1.0.1 | 0 | Safe Rust wrapper for TokenSIMD, a high-throughput BPE tokenizer |
+| 2026-11-07 18:02:24 | [ifiction](https://crates.io/crates/ifiction) | 0.1.0 | 0 | Treaty of Babel metadata for interactive fiction: IFIDs, iFiction records, HTML… |
+| 2026-11-07 18:02:27 | [ifiction-build](https://crates.io/crates/ifiction-build) | 0.1.0 | 0 | build.rs helper that embeds Treaty of Babel metadata (IFID, iFiction record) in… |
+| 2026-11-07 18:02:29 | [ifiction-cli](https://crates.io/crates/ifiction-cli) | 0.1.0 | 0 | Command-line tool for Treaty of Babel metadata: IFIDs, iFiction records, HTML i… |
+| 2026-11-07 18:17:42 | [umbera-core](https://crates.io/crates/umbera-core) | 1.0.0 | 0 | Umbera cryptographic core: post-quantum primitives, MLS group messaging, messag… |
 
 ## Data source
 
