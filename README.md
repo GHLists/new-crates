@@ -8,32 +8,38 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-07 20:19 UTC
+## Latest list — 2026-11-07 21:18 UTC
 
-New crates published between 2026-11-07 19:20 UTC and 2026-11-07 20:19 UTC.
+New crates published between 2026-11-07 20:19 UTC and 2026-11-07 21:18 UTC.
 
-[Full CSV](data/new-crates-2026-11-07T20-19-50-946671Z.csv)
+[Full CSV](data/new-crates-2026-11-07T21-18-22-237472Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-07 19:38:20 | [nornir-mimir-ingest](https://crates.io/crates/nornir-mimir-ingest) | 0.1.0 | 0 | Mímir v2 consumer: a repo's first-parent git history as the change log (Debeziu… |
-| 2026-11-07 19:38:51 | [nornir-mimir-room](https://crates.io/crates/nornir-mimir-room) | 0.1.0 | 0 | Mímir v2 code room, read side: the event log folded into a snapshot (dense ordi… |
-| 2026-11-07 19:39:03 | [git-compose-commit](https://crates.io/crates/git-compose-commit) | 0.2.1 | 0 | Build well-formatted Git commit messages from the command line |
-| 2026-11-07 19:39:48 | [nornir-mimir-exec](https://crates.io/crates/nornir-mimir-exec) | 0.1.0 | 0 | Mímir v2: executes the code graph like a program. Reads the lossless MIR rows (… |
-| 2026-11-07 19:43:18 | [nornir-trace](https://crates.io/crates/nornir-trace) | 0.1.0 | 0 | Function-level run traces for the Mímir code map — reads an LLVM XRay basic-mod… |
-| 2026-11-07 19:45:05 | [ciber_cbr](https://crates.io/crates/ciber_cbr) | 0.1.0 | 0 | CBR data format parser, formatter, and document handling library |
-| 2026-11-07 19:51:37 | [pscon](https://crates.io/crates/pscon) | 0.1.0 | 0 | Browser-assisted reconnaissance console with an interactive TUI and headless CLI |
-| 2026-11-07 19:54:29 | [convex-typegen-macros](https://crates.io/crates/convex-typegen-macros) | 1.0.0 | 0 | Derive macros for convex-typegen-runtime |
-| 2026-11-07 19:55:07 | [convex-typegen-runtime](https://crates.io/crates/convex-typegen-runtime) | 1.0.0 | 0 | Typed Convex client runtime for convex-typegen bindings |
-| 2026-11-07 20:01:27 | [skribble_rough](https://crates.io/crates/skribble_rough) | 0.0.0 | 0 | skribble's hand-drawn rendering engine for Rust: seeded rough shapes, sketched… |
-| 2026-11-07 20:01:31 | [skribble_leptoskit](https://crates.io/crates/skribble_leptoskit) | 0.0.0 | 0 | Hand-drawn leptoskit components from the skribble design system: rough borders,… |
-| 2026-11-07 20:01:34 | [skribble_leptoskit_charts](https://crates.io/crates/skribble_leptoskit_charts) | 0.0.0 | 0 | Hand-drawn financial charts for leptoskit: candlesticks, lines, bars, volume, a… |
-| 2026-11-07 20:01:38 | [skribble_leptoskit_maps](https://crates.io/crates/skribble_leptoskit_maps) | 0.0.0 | 0 | Hand-drawn vector maps for leptoskit apps from the skribble design system: sket… |
-| 2026-11-07 20:12:50 | [mcp-moat-core](https://crates.io/crates/mcp-moat-core) | 0.1.0 | 0 | Policy engine, path jail, secret masking, and audit log chain for mcp-moat |
-| 2026-11-07 20:12:57 | [mcp-moat-tty](https://crates.io/crates/mcp-moat-tty) | 0.1.0 | 0 | Terminal prompts (/dev/tty and CONIN$), unified diffs, and session approval cac… |
-| 2026-11-07 20:13:18 | [mcp-moat-proxy](https://crates.io/crates/mcp-moat-proxy) | 0.1.0 | 0 | Stdio JSON-RPC proxy and stream engine for mcp-moat |
-| 2026-11-07 20:13:41 | [mcp-moat](https://crates.io/crates/mcp-moat) | 0.1.0 | 0 | Stdio policy proxy for Model Context Protocol (MCP) servers |
-| 2026-11-07 20:15:41 | [heine](https://crates.io/crates/heine) | 0.12.1 | 0 | A small, checked static-site generator |
+| 2026-11-07 20:31:23 | [oxrok-ui](https://crates.io/crates/oxrok-ui) | 0.2.0-alpha.1 | 0 | A Rust/egui logic analyzer, built on oxrok |
+| 2026-11-07 20:39:01 | [wasm2rs-macros](https://crates.io/crates/wasm2rs-macros) | 0.3.1 | 0 | Procedural macro that embeds a WebAssembly module as Rust source, via wasm2rs. |
+| 2026-11-07 20:40:54 | [axtb-d4](https://crates.io/crates/axtb-d4) | 0.1.0 | 0 | DFT-D4 dispersion model (dftd4 4.3.1 / tblite 0.8.0 compatible) for GFN2-xTB |
+| 2026-11-07 20:40:57 | [axtb-solvation](https://crates.io/crates/axtb-solvation) | 0.1.0 | 0 | ALPB/GBSA implicit solvation for GFN2-xTB (xtb 6.8.0 and 6.7.1 compatible) |
+| 2026-11-07 20:41:28 | [axtb](https://crates.io/crates/axtb) | 0.1.0 | 0 | Extended tight-binding quantum chemistry: GFN2-xTB energies, gradients and Hess… |
+| 2026-11-07 20:41:32 | [axtb-gfnff](https://crates.io/crates/axtb-gfnff) | 0.1.0 | 0 | GFN-FF force field (Spicher & Grimme 2020): topology, energies, gradients and H… |
+| 2026-11-07 20:41:40 | [axtb-gxtb](https://crates.io/crates/axtb-gxtb) | 0.1.0 | 0 | g-xTB v1.1 (public preprint version) and 2.0.1: single points, gradients and He… |
+| 2026-11-07 20:42:52 | [knave-expand](https://crates.io/crates/knave-expand) | 0.0.0 | 0 | Placeholder for the Knave language expander |
+| 2026-11-07 20:43:05 | [thumbswing](https://crates.io/crates/thumbswing) | 0.0.1 | 0 | Trackball launch monitor: an arcade-style trackball swing turned into a full go… |
+| 2026-11-07 20:45:29 | [knave-lsp](https://crates.io/crates/knave-lsp) | 0.0.0 | 0 | Placeholder for the Knave language server |
+| 2026-11-07 20:50:36 | [ruxl](https://crates.io/crates/ruxl) | 0.0.0 | 0 | Reserved. |
+| 2026-11-07 20:50:44 | [rel9](https://crates.io/crates/rel9) | 0.0.0 | 0 | Reserved. |
+| 2026-11-07 20:52:04 | [axtb-driver](https://crates.io/crates/axtb-driver) | 0.1.0 | 0 | One request/response layer for the axtb front ends (CLI, Python): validation, d… |
+| 2026-11-07 20:53:24 | [dramaturge-syntax](https://crates.io/crates/dramaturge-syntax) | 0.3.0-alpha.4 | 0 | One dialogue AST for the dramaturge toolkit, with serde and syn parsers and low… |
+| 2026-11-07 20:56:18 | [stochology](https://crates.io/crates/stochology) | 0.1.0 | 0 | Stochology: The Theory and Ethics of Aim under Uncertainty — integrative framew… |
+| 2026-11-07 20:56:20 | [stochology-cli](https://crates.io/crates/stochology-cli) | 0.1.0 | 0 | Command-line runner and real-dataset laboratories for Stochology |
+| 2026-11-07 21:02:24 | [axtb-cli](https://crates.io/crates/axtb-cli) | 0.1.0 | 0 | The axtb command-line program: GFN2-xTB, g-xTB and GFN-FF energies, gradients a… |
+| 2026-11-07 21:03:00 | [bevy_filter_enum_derive](https://crates.io/crates/bevy_filter_enum_derive) | 0.6.0 | 0 | Derive macro for bevy_filter_enum |
+| 2026-11-07 21:03:03 | [bevy_filter_enum](https://crates.io/crates/bevy_filter_enum) | 0.6.0 | 0 | Query Bevy entities by enum variant with generated marker components |
+| 2026-11-07 21:08:15 | [flagbearer](https://crates.io/crates/flagbearer) | 0.1.1 | 0 | Flagbearer server SDK: check feature flags locally, kept current over a stream |
+| 2026-11-07 21:10:50 | [tinymind](https://crates.io/crates/tinymind) | 0.1.0 | 0 | Neural networks for embedded Rust: a no_std, allocation-free port of the tinymi… |
+| 2026-11-07 21:17:17 | [mutastic](https://crates.io/crates/mutastic) | 0.0.1 | 0 | Mutation testing that finds out whether your tests, or your agent's, actually c… |
+| 2026-11-07 21:17:19 | [cargo-mutastic](https://crates.io/crates/cargo-mutastic) | 0.0.1 | 0 | Mutation testing that finds out whether your tests, or your agent's, actually c… |
+| 2026-11-07 21:17:20 | [mutastic-rs](https://crates.io/crates/mutastic-rs) | 0.0.1 | 0 | Mutation testing that finds out whether your tests, or your agent's, actually c… |
 
 ## Data source
 

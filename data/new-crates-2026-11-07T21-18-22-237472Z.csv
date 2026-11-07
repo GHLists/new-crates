@@ -1,0 +1,25 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-07T20:31:23.628663Z,oxrok-ui,0.2.0-alpha.1,0,0,https://github.com/oxrok/ui,"A Rust/egui logic analyzer, built on oxrok"
+2026-11-07T20:39:01.951072Z,wasm2rs-macros,0.3.1,0,0,https://github.com/hirosassa/wasm2rs,"Procedural macro that embeds a WebAssembly module as Rust source, via wasm2rs."
+2026-11-07T20:40:54.741623Z,axtb-d4,0.1.0,0,0,https://github.com/atomsforhumanity/axtb,DFT-D4 dispersion model (dftd4 4.3.1 / tblite 0.8.0 compatible) for GFN2-xTB
+2026-11-07T20:40:57.343189Z,axtb-solvation,0.1.0,0,0,https://github.com/atomsforhumanity/axtb,ALPB/GBSA implicit solvation for GFN2-xTB (xtb 6.8.0 and 6.7.1 compatible)
+2026-11-07T20:41:28.087881Z,axtb,0.1.0,0,0,https://github.com/atomsforhumanity/axtb,"Extended tight-binding quantum chemistry: GFN2-xTB energies, gradients and Hessians reproducing xtb and tblite, and what the axtb methods share"
+2026-11-07T20:41:32.23832Z,axtb-gfnff,0.1.0,0,0,https://github.com/atomsforhumanity/axtb,"GFN-FF force field (Spicher & Grimme 2020): topology, energies, gradients and Hessians reproducing xtb 6.8.0 and 6.7.1"
+2026-11-07T20:41:40.855254Z,axtb-gxtb,0.1.0,0,0,https://github.com/atomsforhumanity/axtb,"g-xTB v1.1 (public preprint version) and 2.0.1: single points, gradients and Hessians reproducing the g-xTB 1.1.0 and 2.0.1 programs"
+2026-11-07T20:42:52.283844Z,knave-expand,0.0.0,0,0,https://github.com/knave-lang/knave,Placeholder for the Knave language expander
+2026-11-07T20:43:05.228235Z,thumbswing,0.0.1,0,0,https://github.com/divotmaker/thumbswing,Trackball launch monitor: an arcade-style trackball swing turned into a full golf shot
+2026-11-07T20:45:29.28878Z,knave-lsp,0.0.0,0,0,https://github.com/knave-lang/knave,Placeholder for the Knave language server
+2026-11-07T20:50:36.967509Z,ruxl,0.0.0,0,0,,Reserved.
+2026-11-07T20:50:44.307202Z,rel9,0.0.0,0,0,,Reserved.
+2026-11-07T20:52:04.883578Z,axtb-driver,0.1.0,0,0,https://github.com/atomsforhumanity/axtb,"One request/response layer for the axtb front ends (CLI, Python): validation, dispatch to GFN2-xTB, g-xTB and GFN-FF, Hessians and their vibrational analysis"
+2026-11-07T20:53:24.505612Z,dramaturge-syntax,0.3.0-alpha.4,0,0,https://github.com/sunsided/dramaturge,"One dialogue AST for the dramaturge toolkit, with serde and syn parsers and lowering to a dialogue graph."
+2026-11-07T20:56:18.020103Z,stochology,0.1.0,0,0,https://github.com/0b3st4f3r4/stochology,"Stochology: The Theory and Ethics of Aim under Uncertainty — integrative framework for the sequential Agent-World-Institution loop, epistemic margin, vital margin, institutional governance, formal gr…"
+2026-11-07T20:56:20.229825Z,stochology-cli,0.1.0,0,0,https://github.com/0b3st4f3r4/stochology,Command-line runner and real-dataset laboratories for Stochology
+2026-11-07T21:02:24.502623Z,axtb-cli,0.1.0,0,0,https://github.com/atomsforhumanity/axtb,"The axtb command-line program: GFN2-xTB, g-xTB and GFN-FF energies, gradients and Hessians as JSON"
+2026-11-07T21:03:00.390047Z,bevy_filter_enum_derive,0.6.0,0,0,https://github.com/apekros/bevy_filter_enum,Derive macro for bevy_filter_enum
+2026-11-07T21:03:03.522113Z,bevy_filter_enum,0.6.0,0,0,https://github.com/apekros/bevy_filter_enum,Query Bevy entities by enum variant with generated marker components
+2026-11-07T21:08:15.278959Z,flagbearer,0.1.1,0,0,https://github.com/flagbearer-dev/sdks,"Flagbearer server SDK: check feature flags locally, kept current over a stream"
+2026-11-07T21:10:50.160602Z,tinymind,0.1.0,0,0,https://github.com/danmcleran/tinymind-rs,"Neural networks for embedded Rust: a no_std, allocation-free port of the tinymind C++ library, bit-exact with it"
+2026-11-07T21:17:17.524798Z,mutastic,0.0.1,0,0,,"Mutation testing that finds out whether your tests, or your agent's, actually check anything: the Rust edition, in early development."
+2026-11-07T21:17:19.261461Z,cargo-mutastic,0.0.1,0,0,,"Mutation testing that finds out whether your tests, or your agent's, actually check anything: the Rust edition, in early development."
+2026-11-07T21:17:20.685924Z,mutastic-rs,0.0.1,0,0,,"Mutation testing that finds out whether your tests, or your agent's, actually check anything: the Rust edition, in early development."
