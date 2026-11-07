@@ -1,0 +1,34 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-07T13:21:26.766727Z,pathland-render-core,0.2.1,0,0,https://github.com/PathlandDev/Pathland,"Pathland renderer core: shared toolkit-free opcode decode (RenderTree/HostNode) + design-token resolution, reused by every renderer"
+2026-11-07T13:28:48.392672Z,buntrail-core,0.1.0,0,0,https://github.com/buntrail/buntrail-core,Revisioned documents and shared editor contracts.
+2026-11-07T13:29:00.609062Z,anaconda,0.9.4,0,0,https://github.com/antichrome1/anaconda-rs,Lisp style `cond`itionals in rust.
+2026-11-07T13:29:54.401138Z,spectral-cortex-lib,0.1.1,0,0,https://github.com/mrorigo/spectral-cortex,Rust implementation of the Spectral Memory Graph (SMG)
+2026-11-07T13:30:46.304189Z,wirebird-ringtones,0.0.1,0,0,https://github.com/IvoraLabsHQ/wirebird,Ringtones for Wirebird: built-in tones and audio files.
+2026-11-07T13:30:50.706465Z,wirebird-linux,0.0.1,0,0,https://github.com/IvoraLabsHQ/wirebird,Linux integration for Wirebird.
+2026-11-07T13:31:20.96077Z,spectral-cortex,0.1.2,0,0,https://github.com/mrorigo/spectral-cortex,CLI for ingesting git history and querying the Spectral Memory Graph (SMG)
+2026-11-07T13:31:21.252903Z,buntrail-language,0.1.0,0,0,https://github.com/buntrail/buntrail-language,Language analysis using Tree-sitter.
+2026-11-07T13:33:16.046868Z,buntrail-protocol,0.1.0,0,0,https://github.com/buntrail/buntrail-protocol,Versioned framed transport contracts and validation.
+2026-11-07T13:37:19.811183Z,buntrail-services,0.1.0,0,0,https://github.com/buntrail/buntrail-services,"Filesystem, Git, terminal, search and connection services."
+2026-11-07T13:38:50.933185Z,adshell-rs,1.0.1,0,0,,"Interactive LDAP/ADWS shell and Active Directory attack actions in pure Rust, over LDAP(S) or ADWS (SOAP). Transport model from RustHound-CE, ADWS via adws-rs."
+2026-11-07T13:40:53.559898Z,buntrail-helper,0.1.0,0,0,https://github.com/buntrail/buntrail-helper,Remote services library and helper executable.
+2026-11-07T13:40:59.596924Z,wirebird-macos,0.0.1,0,0,https://github.com/IvoraLabsHQ/wirebird,macOS integration for Wirebird.
+2026-11-07T13:42:26.881612Z,buntrail-engine,0.1.0,0,0,https://github.com/buntrail/buntrail-engine,Authoritative document and workspace orchestration.
+2026-11-07T13:43:31.348993Z,senritsu,0.2.0,0,0,https://github.com/Imainigination/Senritsu,"Customizable, ad-free native YouTube Music client for Linux"
+2026-11-07T13:43:41.137865Z,rexact-unicode,0.2.0,0,0,https://github.com/aniket-3001/rexact,"Generated Unicode 14.0.0 tables (properties, scripts, case folding) for Rexact"
+2026-11-07T13:44:05.70037Z,rexact-syntax,0.2.0,0,0,https://github.com/aniket-3001/rexact,"Regex parsers for ECMAScript, Python, Go, Rust, PCRE2 and Java dialects, with an error catalogue"
+2026-11-07T13:44:30.184004Z,rexact-core,0.2.0,0,0,https://github.com/aniket-3001/rexact,"Derivative-based regex engine for Rexact: symbol classes, lazy DFA, minimisation, per-dialect semantics"
+2026-11-07T13:44:53.100189Z,rexact-check,0.2.0,0,0,https://github.com/aniket-3001/rexact,Independent checker for Rexact equivalence certificates (shares no code with the engine)
+2026-11-07T13:45:15.989882Z,rexact-engines,0.2.0,0,0,https://github.com/aniket-3001/rexact,"Runs reference regex engines (Node, Python, Go, Rust, PCRE2, Java) as isolated child processes"
+2026-11-07T13:52:55.819096Z,assetc,0.2.0,0,0,https://github.com/qbart/assetc,"Reads the files assetc builds and packs: textures, materials, meshes, animations, fonts, atlases and data"
+2026-11-07T13:55:48.170337Z,buntrail-ffi,0.1.0,0,0,https://github.com/buntrail/buntrail-ffi,Native C ABI for the Buntrail engine.
+2026-11-07T13:59:00.839197Z,irsty-proto,0.1.0,0,0,https://github.com/gawbul/irsty,"Sans-IO IRC and IRCv3 protocol primitives: parsing, serialisation, CAP, SASL, formatting and DCC"
+2026-11-07T13:59:02.58432Z,irsty-core,0.1.0,0,0,https://github.com/gawbul/irsty,"Irsty's connection management and client state; internal to Irsty, with no API stability promise"
+2026-11-07T13:59:04.447144Z,irsty-tui,0.1.0,0,0,https://github.com/gawbul/irsty,"Irsty's terminal user interface; internal to Irsty, with no API stability promise"
+2026-11-07T13:59:06.257884Z,irsty,0.1.0,0,0,https://github.com/gawbul/irsty,"A modern, keyboard-driven terminal IRC client"
+2026-11-07T14:00:55.860644Z,bark-asr,0.1.0,0,0,https://github.com/stepupgaming/bark-rs,"Underdog Bark 3.0 speech to text on ONNX Runtime, straight from model.bark"
+2026-11-07T14:03:47.197632Z,pdfpecker,1.23.0,0,0,https://github.com/Moonwalker1307/PdfPecker.Rust,"HTML and Markdown to PDF, and PDF to images, text and Markdown, with no browser: PdfPecker's engine as a native library"
+2026-11-07T14:14:04.907775Z,yasumaro,6.9.69,0,0,https://github.com/armaniacs/yasumaro,Read-only CLI for exported Yasumaro history databases
+2026-11-07T14:14:58.891184Z,format198x-nintendo-famicom-fds,0.1.0,0,0,https://github.com/format198x/format198x,Famicom Disk System .fds images — dependency-free decoding and encoding of disk sides and the blocks on them.
+2026-11-07T14:15:02.08741Z,format198x-nintendo-game-boy-cartridge,0.1.0,0,0,https://github.com/format198x/format198x,Game Boy and Game Boy Color cartridge headers — dependency-free decoding of the header fields and writing of the header and global checksums.
+2026-11-07T14:15:04.68087Z,format198x-nintendo-nes-ines,0.1.0,0,0,https://github.com/format198x/format198x,"NES iNES and NES 2.0 ROM files — dependency-free decoding and encoding of the header, trainer and PRG and CHR ROM."
+2026-11-07T14:15:06.910567Z,format198x-nintendo-snes-sfc,0.1.0,0,0,https://github.com/format198x/format198x,"Super NES and Super Famicom cartridge images — dependency-free header location, header fields, checksums and byte-exact writing."
