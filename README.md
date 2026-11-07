@@ -8,50 +8,45 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-06 23:19 UTC
+## Latest list — 2026-11-07 00:18 UTC
 
-New crates published between 2026-11-06 22:18 UTC and 2026-11-06 23:19 UTC.
+New crates published between 2026-11-06 23:19 UTC and 2026-11-07 00:18 UTC.
 
-[Full CSV](data/new-crates-2026-11-06T23-19-06-565607Z.csv)
+[Full CSV](data/new-crates-2026-11-07T00-18-42-352532Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-06 22:18:59 | [iron-shell-lsp](https://crates.io/crates/iron-shell-lsp) | 14.0.0 | 0 | Language Server Protocol implementation for IronShell — diagnostics, completion… |
-| 2026-11-06 22:19:16 | [agrafe-crypto](https://crates.io/crates/agrafe-crypto) | 0.1.0 | 0 | Streaming AEAD (Tink AES-GCM-HKDF-STREAMING) and key wrapping for agrafe |
-| 2026-11-06 22:19:17 | [agrafe-render-document](https://crates.io/crates/agrafe-render-document) | 0.1.0 | 0 | Sandboxed helper: compiles a typst workspace into a PDF or into HTML |
-| 2026-11-06 22:19:17 | [agrafe-sandbox](https://crates.io/crates/agrafe-sandbox) | 0.1.0 | 0 | Runs decoders and renderers as subprocesses with resource limits |
-| 2026-11-06 22:19:18 | [agrafe-types](https://crates.io/crates/agrafe-types) | 0.1.0 | 0 | Content types, classification and sniffing shared by the agrafe crates |
-| 2026-11-06 22:19:19 | [agrafe-extract](https://crates.io/crates/agrafe-extract) | 0.1.0 | 0 | Sandboxed helper: pulls the embedded image out of a PDF, DOCX or ODT that is re… |
-| 2026-11-06 22:24:45 | [acdp-a2a](https://crates.io/crates/acdp-a2a) | 0.21.2 | 0 | A2A artifact provenance (RFC-ACDP-0022): an A2A server agent signs each complet… |
-| 2026-11-06 22:24:46 | [x0k-release-metadata](https://crates.io/crates/x0k-release-metadata) | 0.1.0 | 0 | Verifies a release against a root of trust its maintainers sign: TUF metadata,… |
-| 2026-11-06 22:25:57 | [mirage-protocol](https://crates.io/crates/mirage-protocol) | 0.1.0 | 0 | Mirage wire: handshake, session, carriers, camouflage, and transports. |
-| 2026-11-06 22:35:48 | [mirage-control-plane](https://crates.io/crates/mirage-control-plane) | 0.1.0 | 0 | Client dial primitives shared by the client runtime and the mesh client. |
-| 2026-11-06 22:39:14 | [pgzest-expand](https://crates.io/crates/pgzest-expand) | 0.1.0 | 0 | pgzest internals: SQL macros and fragments, desugared into standard SQL |
-| 2026-11-06 22:39:21 | [linex](https://crates.io/crates/linex) | 0.1.0 | 0 | Fast, zero-overhead terminal state widgets for tmux and status lines |
-| 2026-11-06 22:39:28 | [pgzest-schema](https://crates.io/crates/pgzest-schema) | 0.1.0 | 0 | pgzest internals: pgzest.toml, project files and migration headers |
-| 2026-11-06 22:39:35 | [pgzest-catalog](https://crates.io/crates/pgzest-catalog) | 0.1.0 | 0 | pgzest internals: model of the PostgreSQL catalog, generated packs, DDL replay |
-| 2026-11-06 22:40:01 | [rs-pgcopy2arrow-ipc](https://crates.io/crates/rs-pgcopy2arrow-ipc) | 0.1.0 | 0 | Convert PGCOPY format to Arrow IPC stream |
-| 2026-11-06 22:45:38 | [mirage-shared-types](https://crates.io/crates/mirage-shared-types) | 0.1.0 | 0 | Shared cross-worker types (client config, peer/client registration, etc.) |
-| 2026-11-06 22:48:15 | [pgzest-sema](https://crates.io/crates/pgzest-sema) | 0.1.0 | 0 | pgzest internals: PostgreSQL-faithful semantic analysis (types, nullability, re… |
-| 2026-11-06 22:52:37 | [arkiv-rs-sdk](https://crates.io/crates/arkiv-rs-sdk) | 0.1.0 | 0 | Rust SDK for Arkiv, the Web3 database: typed attributes, batched creates, signi… |
-| 2026-11-06 22:53:02 | [mediamaster-frame](https://crates.io/crates/mediamaster-frame) | 0.4.0 | 0 | Frame and packet vocabulary (FramePacket, channels) for mediamaster-rs |
-| 2026-11-06 22:53:16 | [step_link](https://crates.io/crates/step_link) | 0.1.0 | 0 | Pure Rust B-Rep geometry kernel, STEP (ISO 10303-21) parser and tessellation, n… |
-| 2026-11-06 22:53:34 | [mediamaster-ffi](https://crates.io/crates/mediamaster-ffi) | 0.4.0 | 0 | Thin, runtime-free C ABI FFI layer bridging mediamaster-rs to Tauri desktop and… |
-| 2026-11-06 22:53:38 | [repete](https://crates.io/crates/repete) | 0.1.0 | 0 | Run a command repeatedly. |
-| 2026-11-06 22:54:46 | [bevy_step_link](https://crates.io/crates/bevy_step_link) | 0.1.0 | 0 | Bevy integration for step_link: AssetLoader importing STEP (.step/.stp) CAD fil… |
-| 2026-11-06 22:55:38 | [mirage-wire-http-client](https://crates.io/crates/mirage-wire-http-client) | 0.1.0 | 0 | HTTP over the Mirage wire for a process that is not the operator. |
-| 2026-11-06 22:56:10 | [interactsh-client](https://crates.io/crates/interactsh-client) | 0.1.0 | 0 | Async Rust client for polling out-of-band interaction servers. |
-| 2026-11-06 22:58:14 | [pgzest-query](https://crates.io/crates/pgzest-query) | 0.1.0 | 0 | pgzest internals: named queries and the query descriptor |
-| 2026-11-06 22:58:40 | [psychic-cli](https://crates.io/crates/psychic-cli) | 0.1.0 | 0 | Smarter file explorer and cd replacement that learns from your actions and rank… |
-| 2026-11-06 23:05:39 | [mirage-subscriber-gate](https://crates.io/crates/mirage-subscriber-gate) | 0.1.0 | 0 | Authenticate a customer dial and dispatch the tunnel. |
-| 2026-11-06 23:06:56 | [srt-io-sys](https://crates.io/crates/srt-io-sys) | 0.1.0 | 0 | Native FFI bindings to libsrt (Secure Reliable Transport) |
-| 2026-11-06 23:07:27 | [srt-io](https://crates.io/crates/srt-io) | 0.1.0 | 0 | Safe Rust wrapper over libsrt (Secure Reliable Transport) |
-| 2026-11-06 23:08:14 | [pgzest-analysis](https://crates.io/crates/pgzest-analysis) | 0.1.0 | 0 | pgzest internals: the analysis pipeline and the incremental project database |
-| 2026-11-06 23:10:50 | [ofw_memory](https://crates.io/crates/ofw_memory) | 0.1.0 | 0 | implementation of the OpenFirmware memory client interface API for the ofw ecos… |
-| 2026-11-06 23:11:30 | [aclp](https://crates.io/crates/aclp) | 0.1.0 | 0 | Rust client and server for ACLP lifecycle callbacks. |
-| 2026-11-06 23:12:43 | [alloc_my_pages](https://crates.io/crates/alloc_my_pages) | 0.1.2 | 0 | A crate for directly allocating pages of memory through the OS. |
-| 2026-11-06 23:15:39 | [mirage-perimeter](https://crates.io/crates/mirage-perimeter) | 0.1.0 | 0 | Public front door of a box: own the facing ports, classify Mirage wire, reject… |
-| 2026-11-06 23:18:14 | [pgzest-codegen](https://crates.io/crates/pgzest-codegen) | 0.1.0 | 0 | pgzest internals: Rust code generation from query descriptors |
+| 2026-11-06 23:21:07 | [afterburner-h2](https://crates.io/crates/afterburner-h2) | 0.3.0 | 0 | HTTP/2 over futures-io for Afterburner on nuclei, derived from h2 |
+| 2026-11-06 23:21:09 | [afterburner-h3](https://crates.io/crates/afterburner-h3) | 0.3.0 | 0 | HTTP/3 over QUIC for Afterburner on nuclei, derived from h3 |
+| 2026-11-06 23:21:10 | [afterburner-quic](https://crates.io/crates/afterburner-quic) | 0.3.0 | 0 | QUIC transport for Afterburner on nuclei, derived from quinn |
+| 2026-11-06 23:21:11 | [afterburner-wasi-host](https://crates.io/crates/afterburner-wasi-host) | 0.3.0 | 0 | WASI host for Afterburner on nuclei, derived from wasmtime-wasi |
+| 2026-11-06 23:21:17 | [afterburner-h3-quic](https://crates.io/crates/afterburner-h3-quic) | 0.3.0 | 0 | HTTP/3 QUIC transport adapter for Afterburner on nuclei, derived from h3-quinn |
+| 2026-11-06 23:23:16 | [ofw_deviceio](https://crates.io/crates/ofw_deviceio) | 0.1.0 | 0 | implementation of the OpenFirmware device I/O client interface API for the ofw… |
+| 2026-11-06 23:25:39 | [mirage-vpn](https://crates.io/crates/mirage-vpn) | 0.1.0 | 0 | A Mirage session between a client and a terminator, with no onion chain. |
+| 2026-11-06 23:28:14 | [pgzest-oracle](https://crates.io/crates/pgzest-oracle) | 0.1.0 | 0 | pgzest internals: differential oracle against a real PostgreSQL, live schema in… |
+| 2026-11-06 23:28:27 | [skpwright](https://crates.io/crates/skpwright) | 0.6.0 | 0 | Clean-room reader and writer for SketchUp .skp files: stream-container releases… |
+| 2026-11-06 23:29:30 | [skpwright-cli](https://crates.io/crates/skpwright-cli) | 0.6.0 | 0 | Reads, converts and writes SketchUp .skp files: stream-container releases 3 to… |
+| 2026-11-06 23:29:36 | [skpwright-capi](https://crates.io/crates/skpwright-capi) | 0.6.0 | 0 | C ABI for reading and writing SketchUp .skp files: stream-container releases 3… |
+| 2026-11-06 23:33:16 | [ofw_devicetree](https://crates.io/crates/ofw_devicetree) | 0.1.0 | 0 | implementation of the OpenFirmware device tree client interface API for the ofw… |
+| 2026-11-06 23:35:39 | [mirage-vpn-mesh](https://crates.io/crates/mirage-vpn-mesh) | 0.1.0 | 0 | A Mirage session carried inside an onion chain. |
+| 2026-11-06 23:36:50 | [ghostto](https://crates.io/crates/ghostto) | 0.0.1 | 0 | Placeholder reservation for the ghostto multi-OS browser emulator engine. |
+| 2026-11-06 23:37:53 | [localcache-format](https://crates.io/crates/localcache-format) | 0.25.0 | 0 | Implementation crate of localcache (the payload format). Depend on localcache;… |
+| 2026-11-06 23:38:14 | [pgzest-plugin](https://crates.io/crates/pgzest-plugin) | 0.1.0 | 0 | pgzest internals: builtin and WebAssembly plugins |
+| 2026-11-06 23:44:34 | [speccoder-kiro](https://crates.io/crates/speccoder-kiro) | 0.13.0 | 0 | Kiro adapter for speccoder: spec discovery, requirements with their EARS criter… |
+| 2026-11-06 23:45:38 | [mirage-vpn-cli](https://crates.io/crates/mirage-vpn-cli) | 0.1.0 | 0 | Server and client programs around mirage-vpn: config, listeners, and connect. |
+| 2026-11-06 23:46:57 | [crumbkit-process](https://crates.io/crates/crumbkit-process) | 0.1.1 | 0 | Runs a child program in a process group of its own and reads its output within… |
+| 2026-11-06 23:47:05 | [cargo-errpath](https://crates.io/crates/cargo-errpath) | 0.1.0 | 0 | See how a Rust PR changes error propagation, recovery and panic paths |
+| 2026-11-06 23:48:18 | [pgzest](https://crates.io/crates/pgzest) | 0.1.0 | 0 | Raw PostgreSQL, with zest: SQL checked the way PostgreSQL would, without a data… |
+| 2026-11-06 23:56:37 | [rsp](https://crates.io/crates/rsp) | 0.0.1 | 0 | An interpreter for the Nintendo 64 RSP (Reality Signal Processor). Early develo… |
+| 2026-11-06 23:58:13 | [pgzest-build](https://crates.io/crates/pgzest-build) | 0.1.0 | 0 | Typed Rust from named PostgreSQL queries, generated in build.rs, checked withou… |
+| 2026-11-07 00:02:58 | [ultragfx](https://crates.io/crates/ultragfx) | 0.0.1 | 0 | Reserved: the planned new name for fast3d, Nintendo 64 graphics emulation. |
+| 2026-11-07 00:03:37 | [rpi-http-extension](https://crates.io/crates/rpi-http-extension) | 0.1.0 | 0 | Native rpi plugin entry point for the API-only HTTP/SSE service |
+| 2026-11-07 00:04:59 | [x0k-datum-derive](https://crates.io/crates/x0k-datum-derive) | 0.1.0 | 0 | #[derive(Shape)]: a Rust type's shape, read from the type and its serde attribu… |
+| 2026-11-07 00:05:01 | [x0k-datum](https://crates.io/crates/x0k-datum) | 0.1.0 | 0 | The data model x0k's boundaries carry: Datum (JSON's model with integers of any… |
+| 2026-11-07 00:08:14 | [pgzest-macros](https://crates.io/crates/pgzest-macros) | 0.1.0 | 0 | query! and queries!: PostgreSQL queries typed at compile time, without a databa… |
+| 2026-11-07 00:08:38 | [reality64](https://crates.io/crates/reality64) | 0.0.1 | 0 | Reserved: the planned new name for helix, a native Nintendo 64 SDK for running… |
+| 2026-11-07 00:12:23 | [ms-mqtt-client](https://crates.io/crates/ms-mqtt-client) | 0.1.0 | 0 | A correctness-first, control-first async MQTT 5 client library. |
+| 2026-11-07 00:14:17 | [mutie](https://crates.io/crates/mutie) | 0.1.0 | 0 | Mutation testing for Go, Rust, Python, and JavaScript/TypeScript |
 
 ## Data source
 

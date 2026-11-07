@@ -1,0 +1,32 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-06T23:21:07.782552Z,afterburner-h2,0.3.0,0,0,https://github.com/afterburner-sh/afterburner,"HTTP/2 over futures-io for Afterburner on nuclei, derived from h2"
+2026-11-06T23:21:09.046734Z,afterburner-h3,0.3.0,0,0,https://github.com/afterburner-sh/afterburner,"HTTP/3 over QUIC for Afterburner on nuclei, derived from h3"
+2026-11-06T23:21:10.198326Z,afterburner-quic,0.3.0,0,0,https://github.com/afterburner-sh/afterburner,"QUIC transport for Afterburner on nuclei, derived from quinn"
+2026-11-06T23:21:11.37824Z,afterburner-wasi-host,0.3.0,0,0,https://github.com/afterburner-sh/afterburner,"WASI host for Afterburner on nuclei, derived from wasmtime-wasi"
+2026-11-06T23:21:17.29347Z,afterburner-h3-quic,0.3.0,0,0,https://github.com/afterburner-sh/afterburner,"HTTP/3 QUIC transport adapter for Afterburner on nuclei, derived from h3-quinn"
+2026-11-06T23:23:16.198951Z,ofw_deviceio,0.1.0,0,0,https://forge.voremicrocomputers.com/Open_Firmware/ofw_deviceio,implementation of the OpenFirmware device I/O client interface API for the ofw ecosystem
+2026-11-06T23:25:39.051393Z,mirage-vpn,0.1.0,0,0,https://github.com/knyaz-tishini/mirage-oss,"A Mirage session between a client and a terminator, with no onion chain."
+2026-11-06T23:28:14.150873Z,pgzest-oracle,0.1.0,0,0,https://github.com/Creatiwity/pgzest,"pgzest internals: differential oracle against a real PostgreSQL, live schema introspection"
+2026-11-06T23:28:27.966304Z,skpwright,0.6.0,0,0,https://github.com/hew3d/skpwright,Clean-room reader and writer for SketchUp .skp files: stream-container releases 3 to 8 and 2013 to 2020 and the 2026 container as saved by SketchUp 2026 and 2027
+2026-11-06T23:29:30.873444Z,skpwright-cli,0.6.0,0,0,https://github.com/hew3d/skpwright,"Reads, converts and writes SketchUp .skp files: stream-container releases 3 to 8 and 2013 to 2020 and the 2026 container as saved by SketchUp 2026 and 2027"
+2026-11-06T23:29:36.100919Z,skpwright-capi,0.6.0,0,0,https://github.com/hew3d/skpwright,C ABI for reading and writing SketchUp .skp files: stream-container releases 3 to 8 and 2013 to 2020 and the 2026 container as saved by SketchUp 2026 and 2027
+2026-11-06T23:33:16.541744Z,ofw_devicetree,0.1.0,0,0,https://forge.voremicrocomputers.com/Open_Firmware/ofw_devicetree,implementation of the OpenFirmware device tree client interface API for the ofw ecosystem
+2026-11-06T23:35:39.400087Z,mirage-vpn-mesh,0.1.0,0,0,https://github.com/knyaz-tishini/mirage-oss,A Mirage session carried inside an onion chain.
+2026-11-06T23:36:50.312126Z,ghostto,0.0.1,0,0,https://github.com/ghosttos/ghostto,Placeholder reservation for the ghostto multi-OS browser emulator engine.
+2026-11-06T23:37:53.165226Z,localcache-format,0.25.0,0,0,https://github.com/nabbisen/localcache-rs,Implementation crate of localcache (the payload format). Depend on localcache; this crate's API is not a separate stability promise.
+2026-11-06T23:38:14.905692Z,pgzest-plugin,0.1.0,0,0,https://github.com/Creatiwity/pgzest,pgzest internals: builtin and WebAssembly plugins
+2026-11-06T23:44:34.116338Z,speccoder-kiro,0.13.0,0,0,https://github.com/hupe1980/speccoder,"Kiro adapter for speccoder: spec discovery, requirements with their EARS criteria, tasks.md parsing, the engine's tick."
+2026-11-06T23:45:38.757065Z,mirage-vpn-cli,0.1.0,0,0,https://github.com/knyaz-tishini/mirage-oss,"Server and client programs around mirage-vpn: config, listeners, and connect."
+2026-11-06T23:46:57.849602Z,crumbkit-process,0.1.1,0,0,https://github.com/crumbkit/crumbkit,Runs a child program in a process group of its own and reads its output within byte limits and a deadline
+2026-11-06T23:47:05.726165Z,cargo-errpath,0.1.0,0,0,https://github.com/jagreehal/errpath,"See how a Rust PR changes error propagation, recovery and panic paths"
+2026-11-06T23:48:18.190706Z,pgzest,0.1.0,0,0,https://github.com/Creatiwity/pgzest,"Raw PostgreSQL, with zest: SQL checked the way PostgreSQL would, without a database. CLI and language server."
+2026-11-06T23:56:37.083377Z,rsp,0.0.1,0,0,https://github.com/retrofoundry/rsp,An interpreter for the Nintendo 64 RSP (Reality Signal Processor). Early development.
+2026-11-06T23:58:13.590057Z,pgzest-build,0.1.0,0,0,https://github.com/Creatiwity/pgzest,"Typed Rust from named PostgreSQL queries, generated in build.rs, checked without a database"
+2026-11-07T00:02:58.043539Z,ultragfx,0.0.1,0,0,https://github.com/retrofoundry/fast3d-rs,"Reserved: the planned new name for fast3d, Nintendo 64 graphics emulation."
+2026-11-07T00:03:37.825596Z,rpi-http-extension,0.1.0,0,0,https://github.com/pi-rust/rpi-package,Native rpi plugin entry point for the API-only HTTP/SSE service
+2026-11-07T00:04:59.704024Z,x0k-datum-derive,0.1.0,0,0,https://github.com/0k-dot-computer/x0k-datum,"#[derive(Shape)]: a Rust type's shape, read from the type and its serde attributes."
+2026-11-07T00:05:01.401056Z,x0k-datum,0.1.0,0,0,https://github.com/0k-dot-computer/x0k-datum,"The data model x0k's boundaries carry: Datum (JSON's model with integers of any size, bytes and references), its canonical spelling as deterministic CBOR, and the shape language a reader checks a val…"
+2026-11-07T00:08:14.371101Z,pgzest-macros,0.1.0,0,0,https://github.com/Creatiwity/pgzest,"query! and queries!: PostgreSQL queries typed at compile time, without a database"
+2026-11-07T00:08:38.399511Z,reality64,0.0.1,0,0,https://github.com/retrofoundry/helix,"Reserved: the planned new name for helix, a native Nintendo 64 SDK for running decomps and recomps on modern machines."
+2026-11-07T00:12:23.514209Z,ms-mqtt-client,0.1.0,0,0,https://github.com/microsoft/rust-mqtt-client,"A correctness-first, control-first async MQTT 5 client library."
+2026-11-07T00:14:17.56543Z,mutie,0.1.0,0,0,https://github.com/a-poor/mutie,"Mutation testing for Go, Rust, Python, and JavaScript/TypeScript"
