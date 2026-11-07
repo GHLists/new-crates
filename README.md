@@ -8,50 +8,32 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-07 19:20 UTC
+## Latest list — 2026-11-07 20:19 UTC
 
-New crates published between 2026-11-07 18:19 UTC and 2026-11-07 19:20 UTC.
+New crates published between 2026-11-07 19:20 UTC and 2026-11-07 20:19 UTC.
 
-[Full CSV](data/new-crates-2026-11-07T19-20-04-113115Z.csv)
+[Full CSV](data/new-crates-2026-11-07T20-19-50-946671Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-07 18:20:35 | [slashml-robotics](https://crates.io/crates/slashml-robotics) | 1.0.0 | 0 | Official Rust client for SlashML Robotics spatial memory |
-| 2026-11-07 18:22:10 | [fossil-cli](https://crates.io/crates/fossil-cli) | 0.1.0 | 0 | Ship software that can still be rebuilt in 50 years. |
-| 2026-11-07 18:22:26 | [lspyx](https://crates.io/crates/lspyx) | 0.6.0 | 0 | Python code navigation, rename previews, and ty/Ruff diagnostics for AI coding… |
-| 2026-11-07 18:22:44 | [riffnav](https://crates.io/crates/riffnav) | 1.0.0 | 0 | A git diff pager with a file tree |
-| 2026-11-07 18:25:38 | [zflate](https://crates.io/crates/zflate) | 1.0.0 | 0 | A pure-Rust DEFLATE, zlib, and gzip codec aiming to match or beat libdeflate |
-| 2026-11-07 18:27:52 | [kepler-nn](https://crates.io/crates/kepler-nn) | 0.0.0 | 0 | Neural models for kepler |
-| 2026-11-07 18:32:46 | [igs-iec104-codec](https://crates.io/crates/igs-iec104-codec) | 0.1.0 | 0 | APCI framing and ASDU encode/decode for IEC 60870-5-104: no I/O. |
-| 2026-11-07 18:32:48 | [igs-iec104-link](https://crates.io/crates/igs-iec104-link) | 0.1.0 | 0 | Sans-I/O APCI session state machine for IEC 60870-5-104: no I/O. |
-| 2026-11-07 18:32:51 | [igs-iec104](https://crates.io/crates/igs-iec104) | 0.1.0 | 0 | Async IEC 60870-5-104 client and server with redundancy and TLS. |
-| 2026-11-07 18:33:21 | [origincloud-dns](https://crates.io/crates/origincloud-dns) | 0.14.0 | 0 | The Origin Cloud DNS API: hosted zones, their record sets, and private zones' V… |
-| 2026-11-07 18:39:03 | [permission_proc_macros](https://crates.io/crates/permission_proc_macros) | 0.1.0 | 0 | Procedural macros for the `permission_proc` crate. Use `permission_proc` instea… |
-| 2026-11-07 18:39:06 | [permission_proc](https://crates.io/crates/permission_proc) | 0.1.0 | 0 | Declarative permission checks for Rust functions and web handlers: #[permission… |
-| 2026-11-07 18:42:45 | [aurelia-steam-vent-core](https://crates.io/crates/aurelia-steam-vent-core) | 0.1.0 | 0 | Core message types for aurelia-steam-vent (Aurelia fork of steam-vent) |
-| 2026-11-07 18:43:02 | [aurelia-steam-vent](https://crates.io/crates/aurelia-steam-vent) | 0.6.0 | 0 | Interact with the Steam network via rust (Aurelia fork of steam-vent with per-s… |
-| 2026-11-07 18:47:24 | [dandeliondb](https://crates.io/crates/dandeliondb) | 0.2.0 | 0 | An embedded, single-file Rust database with typed records and vector retrieval |
-| 2026-11-07 18:48:14 | [qstd](https://crates.io/crates/qstd) | 0.0.0 | 0 | Compile-time-checked quantum programming in Rust. |
-| 2026-11-07 18:52:10 | [systemone-core](https://crates.io/crates/systemone-core) | 0.2.0 | 0 | no_std protocol types for the TypeSafe AI systemone API |
-| 2026-11-07 18:54:29 | [clarity-image](https://crates.io/crates/clarity-image) | 0.1.0 | 0 | Clarity.Image: the picture functions of the programs Clarity generates (resize,… |
-| 2026-11-07 18:55:14 | [axa-worker](https://crates.io/crates/axa-worker) | 0.1.0 | 0 | A Postgres job queue, worker pool, and recurring schedules for Axum services. |
-| 2026-11-07 18:55:26 | [axa-idempotency](https://crates.io/crates/axa-idempotency) | 0.1.0 | 0 | Idempotency-Key handling over Postgres for Axum services. |
-| 2026-11-07 18:55:39 | [axa-outbox](https://crates.io/crates/axa-outbox) | 0.1.0 | 0 | A transactional outbox and relay on Postgres for Axum services. |
-| 2026-11-07 18:55:44 | [axa-cursor-pagination](https://crates.io/crates/axa-cursor-pagination) | 0.1.0 | 0 | Signed cursor pagination with Link rel=next and no total, and LIKE escaping, fo… |
-| 2026-11-07 18:55:47 | [axa-offset-pagination](https://crates.io/crates/axa-offset-pagination) | 0.1.0 | 0 | Insecure offset pagination with count headers, and LIKE escaping, for Axum serv… |
-| 2026-11-07 18:57:32 | [rovee](https://crates.io/crates/rovee) | 0.1.0 | 0 | A TUI for controlling LAN Govee Lights using Rust. |
-| 2026-11-07 18:57:54 | [torno](https://crates.io/crates/torno) | 0.0.0 | 0 | Gate what agents do on your computer. |
-| 2026-11-07 19:00:36 | [nornir-mimir-binary](https://crates.io/crates/nornir-mimir-binary) | 0.1.0 | 0 | Mímir v2 binary layer: one linked artifact (ELF symbols, v0 mangling, DWARF CU… |
-| 2026-11-07 19:03:43 | [compression-mel](https://crates.io/crates/compression-mel) | 0.11.1 | 0 | Mélodium compression library |
-| 2026-11-07 19:04:53 | [mdtopdf](https://crates.io/crates/mdtopdf) | 0.2.1 | 0 | Convert Markdown to PDF with Typst |
-| 2026-11-07 19:06:01 | [fds-rs](https://crates.io/crates/fds-rs) | 0.1.0 | 0 | Async Rust SDK for XiaoMi FDS (File Data Storage) object storage |
-| 2026-11-07 19:06:05 | [fds_cli](https://crates.io/crates/fds_cli) | 0.1.0 | 0 | Command-line tool for XiaoMi FDS object storage, built on the fds-rs SDK |
-| 2026-11-07 19:17:41 | [mxblocks](https://crates.io/crates/mxblocks) | 0.1.0 | 0 | Rich message blocks (buttons, tables, charts, forms, ...) for Matrix bots: type… |
-| 2026-11-07 19:17:44 | [mxblocks-asks](https://crates.io/crates/mxblocks-asks) | 0.1.0 | 0 | Reaction asks for Matrix bots: turn '[ask: ✅ deploy \| ❌ skip]' in a reply into… |
-| 2026-11-07 19:17:45 | [mxblocks-tex](https://crates.io/crates/mxblocks-tex) | 0.1.0 | 0 | Math messages for mxblocks: run the mxblocks-math renderer and build the m.imag… |
-| 2026-11-07 19:17:46 | [mxblocks-tools](https://crates.io/crates/mxblocks-tools) | 0.1.0 | 0 | rich_send / rich_edit tool definitions and argument checks for LLM agents posti… |
-| 2026-11-07 19:19:05 | [taxus-domain](https://crates.io/crates/taxus-domain) | 1.4.4 | 0 | Pure data model for Taxus sites: the Site Tree, its nodes, and the derivations… |
-| 2026-11-07 19:19:27 | [taxus-common](https://crates.io/crates/taxus-common) | 1.4.4 | 0 | A Rust based static site generator, founded in Tera and Yew. |
+| 2026-11-07 19:38:20 | [nornir-mimir-ingest](https://crates.io/crates/nornir-mimir-ingest) | 0.1.0 | 0 | Mímir v2 consumer: a repo's first-parent git history as the change log (Debeziu… |
+| 2026-11-07 19:38:51 | [nornir-mimir-room](https://crates.io/crates/nornir-mimir-room) | 0.1.0 | 0 | Mímir v2 code room, read side: the event log folded into a snapshot (dense ordi… |
+| 2026-11-07 19:39:03 | [git-compose-commit](https://crates.io/crates/git-compose-commit) | 0.2.1 | 0 | Build well-formatted Git commit messages from the command line |
+| 2026-11-07 19:39:48 | [nornir-mimir-exec](https://crates.io/crates/nornir-mimir-exec) | 0.1.0 | 0 | Mímir v2: executes the code graph like a program. Reads the lossless MIR rows (… |
+| 2026-11-07 19:43:18 | [nornir-trace](https://crates.io/crates/nornir-trace) | 0.1.0 | 0 | Function-level run traces for the Mímir code map — reads an LLVM XRay basic-mod… |
+| 2026-11-07 19:45:05 | [ciber_cbr](https://crates.io/crates/ciber_cbr) | 0.1.0 | 0 | CBR data format parser, formatter, and document handling library |
+| 2026-11-07 19:51:37 | [pscon](https://crates.io/crates/pscon) | 0.1.0 | 0 | Browser-assisted reconnaissance console with an interactive TUI and headless CLI |
+| 2026-11-07 19:54:29 | [convex-typegen-macros](https://crates.io/crates/convex-typegen-macros) | 1.0.0 | 0 | Derive macros for convex-typegen-runtime |
+| 2026-11-07 19:55:07 | [convex-typegen-runtime](https://crates.io/crates/convex-typegen-runtime) | 1.0.0 | 0 | Typed Convex client runtime for convex-typegen bindings |
+| 2026-11-07 20:01:27 | [skribble_rough](https://crates.io/crates/skribble_rough) | 0.0.0 | 0 | skribble's hand-drawn rendering engine for Rust: seeded rough shapes, sketched… |
+| 2026-11-07 20:01:31 | [skribble_leptoskit](https://crates.io/crates/skribble_leptoskit) | 0.0.0 | 0 | Hand-drawn leptoskit components from the skribble design system: rough borders,… |
+| 2026-11-07 20:01:34 | [skribble_leptoskit_charts](https://crates.io/crates/skribble_leptoskit_charts) | 0.0.0 | 0 | Hand-drawn financial charts for leptoskit: candlesticks, lines, bars, volume, a… |
+| 2026-11-07 20:01:38 | [skribble_leptoskit_maps](https://crates.io/crates/skribble_leptoskit_maps) | 0.0.0 | 0 | Hand-drawn vector maps for leptoskit apps from the skribble design system: sket… |
+| 2026-11-07 20:12:50 | [mcp-moat-core](https://crates.io/crates/mcp-moat-core) | 0.1.0 | 0 | Policy engine, path jail, secret masking, and audit log chain for mcp-moat |
+| 2026-11-07 20:12:57 | [mcp-moat-tty](https://crates.io/crates/mcp-moat-tty) | 0.1.0 | 0 | Terminal prompts (/dev/tty and CONIN$), unified diffs, and session approval cac… |
+| 2026-11-07 20:13:18 | [mcp-moat-proxy](https://crates.io/crates/mcp-moat-proxy) | 0.1.0 | 0 | Stdio JSON-RPC proxy and stream engine for mcp-moat |
+| 2026-11-07 20:13:41 | [mcp-moat](https://crates.io/crates/mcp-moat) | 0.1.0 | 0 | Stdio policy proxy for Model Context Protocol (MCP) servers |
+| 2026-11-07 20:15:41 | [heine](https://crates.io/crates/heine) | 0.12.1 | 0 | A small, checked static-site generator |
 
 ## Data source
 

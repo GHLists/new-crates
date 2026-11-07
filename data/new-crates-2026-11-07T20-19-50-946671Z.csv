@@ -1,0 +1,19 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-07T19:38:20.881097Z,nornir-mimir-ingest,0.1.0,0,0,https://git.gunnar.rs/nordisk/nornir,"Mímir v2 consumer: a repo's first-parent git history as the change log (Debezium shape), written as append-only code-graph change events into skade with one atomic multi-table commit per (repo, sha)."
+2026-11-07T19:38:51.844893Z,nornir-mimir-room,0.1.0,0,0,https://git.gunnar.rs/nordisk/nornir,"Mímir v2 code room, read side: the event log folded into a snapshot (dense ordinals, per-edge-kind GraphBLAS matrices, derived provenance) and a typed query API whose every answer carries its evidenc…"
+2026-11-07T19:39:03.917122Z,git-compose-commit,0.2.1,0,0,https://github.com/demerphq/git-compose-commit,Build well-formatted Git commit messages from the command line
+2026-11-07T19:39:48.689032Z,nornir-mimir-exec,0.1.0,0,0,https://git.gunnar.rs/nordisk/nornir,"Mímir v2: executes the code graph like a program. Reads the lossless MIR rows (code_mir), a program's instances (code_instances) and the system boundary map; an abstract interpretation from the entry…"
+2026-11-07T19:43:18.945285Z,nornir-trace,0.1.0,0,0,https://git.gunnar.rs/nordisk/edda,"Function-level run traces for the Mímir code map — reads an LLVM XRay basic-mode log natively (no llvm-xray), maps its function ids through the binary's xray_instr_map to demangled Rust symbols, and…"
+2026-11-07T19:45:05.598575Z,ciber_cbr,0.1.0,0,0,https://github.com/CiberCodes/ciber_cbr,"CBR data format parser, formatter, and document handling library"
+2026-11-07T19:51:37.935292Z,pscon,0.1.0,0,0,https://github.com/ciatech-network/pscon,Browser-assisted reconnaissance console with an interactive TUI and headless CLI
+2026-11-07T19:54:29.69834Z,convex-typegen-macros,1.0.0,0,0,https://github.com/JamalLyons/convex-typegen,Derive macros for convex-typegen-runtime
+2026-11-07T19:55:07.900689Z,convex-typegen-runtime,1.0.0,0,0,https://github.com/JamalLyons/convex-typegen,Typed Convex client runtime for convex-typegen bindings
+2026-11-07T20:01:27.75682Z,skribble_rough,0.0.0,0,0,https://github.com/openbudgetfun/skribble/tree/main/rust/rough,"skribble's hand-drawn rendering engine for Rust: seeded rough shapes, sketched fills, and pen-shaped ink as SVG. Draws the same output as skribble's Dart and TypeScript engines."
+2026-11-07T20:01:31.346456Z,skribble_leptoskit,0.0.0,0,0,https://github.com/openbudgetfun/skribble/tree/main/rust/leptoskit,"Hand-drawn leptoskit components from the skribble design system: rough borders, sketched fills, pen marks, and doodles."
+2026-11-07T20:01:34.558398Z,skribble_leptoskit_charts,0.0.0,0,0,https://github.com/openbudgetfun/skribble/tree/main/rust/leptoskit_charts,"Hand-drawn financial charts for leptoskit: candlesticks, lines, bars, volume, and technical indicators."
+2026-11-07T20:01:38.28379Z,skribble_leptoskit_maps,0.0.0,0,0,https://github.com/openbudgetfun/skribble/tree/main/rust/leptoskit_maps,"Hand-drawn vector maps for leptoskit apps from the skribble design system: sketched areas, routes, pins, and zoom controls."
+2026-11-07T20:12:50.97209Z,mcp-moat-core,0.1.0,0,0,https://github.com/gencay-e/mcp-moat,"Policy engine, path jail, secret masking, and audit log chain for mcp-moat"
+2026-11-07T20:12:57.824283Z,mcp-moat-tty,0.1.0,0,0,https://github.com/gencay-e/mcp-moat,"Terminal prompts (/dev/tty and CONIN$), unified diffs, and session approval cache for mcp-moat"
+2026-11-07T20:13:18.988999Z,mcp-moat-proxy,0.1.0,0,0,https://github.com/gencay-e/mcp-moat,Stdio JSON-RPC proxy and stream engine for mcp-moat
+2026-11-07T20:13:41.8982Z,mcp-moat,0.1.0,0,0,https://github.com/gencay-e/mcp-moat,Stdio policy proxy for Model Context Protocol (MCP) servers
+2026-11-07T20:15:41.959367Z,heine,0.12.1,0,0,https://github.com/thomasweitzel/heine/,"A small, checked static-site generator"
