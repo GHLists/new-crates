@@ -1,0 +1,47 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-07T11:22:51.03468Z,xingo,0.0.1,0,0,https://github.com/StrategicProjects/xingo,Xingó: a pure-Rust LP/MIP solver (name reservation; under active development)
+2026-11-07T11:23:03.884573Z,xingo-sparse,0.0.1,0,0,https://github.com/StrategicProjects/xingo,"Sparse linear algebra for optimization: generic CSC/CSR containers, threshold-pivoting LU with Forrest-Tomlin basis updates and hypersparse solves (name reservation; under active development)"
+2026-11-07T11:28:12.494801Z,palworld-api,0.1.0,0,0,https://github.com/realalden27/palworld-api,A Rust client library for interacting with the Palworld dedicated server REST API.
+2026-11-07T11:29:14.136967Z,hlog,0.1.0,0,0,https://github.com/siddharthsingh89/hlog-cli,"hlog — a log for humans. Append, tail and grep your hlog from the terminal."
+2026-11-07T11:30:27.685123Z,uniffi-bindgen-cpp,0.1.0,0,0,https://github.com/sorinirimies/uniffi-bindgen-cpp,C++ bindings generator for UniFFI
+2026-11-07T11:32:29.208198Z,typol-report,0.1.0,0,0,https://github.com/shaogme/typol,Localized diagnostic report formatting for Typol.
+2026-11-07T11:32:30.155942Z,typol-semantic,0.1.0,0,0,https://github.com/shaogme/typol,"Compiled Schema model, constraints, and evaluation engine for Typol."
+2026-11-07T11:32:31.644262Z,typol-syntax,0.1.0,0,0,https://github.com/shaogme/typol,"Lexer, Schema parser, and syntax tree for Typol."
+2026-11-07T11:32:33.865377Z,typol-schema,0.1.0,0,0,https://github.com/shaogme/typol,"Schema resolution, static checks, and compilation for Typol."
+2026-11-07T11:32:35.617934Z,typol-config,0.1.0,0,0,https://github.com/shaogme/typol,"Schema-guided configuration parsing, validation, and formatting for Typol."
+2026-11-07T11:40:36.806596Z,wirebird,0.0.1,0,0,https://github.com/IvoraLabsHQ/wirebird,"Calls, SMS, USSD and mobile data from your laptop's built-in cellular modem: the Wirebird command-line tool."
+2026-11-07T11:40:40.806786Z,wirebird-mbim,0.0.1,0,0,https://github.com/IvoraLabsHQ/wirebird,"Mobile Broadband Interface Model (MBIM) message encoding and decoding, from the Wirebird project."
+2026-11-07T11:40:44.892832Z,wirebird-core,0.0.1,0,0,https://github.com/IvoraLabsHQ/wirebird,"Wirebird's modem-agnostic core: modem traits, AT commands, SMS, USSD and the calls model."
+2026-11-07T11:40:49.104223Z,wirebird-cli,0.0.1,0,0,https://github.com/IvoraLabsHQ/wirebird,Reserved for the Wirebird project (the command-line tool is published as `wirebird`).
+2026-11-07T11:40:53.198732Z,wirebird-agent,0.0.1,0,0,https://github.com/IvoraLabsHQ/wirebird,"Wirebird's background agent: owns the modem and serves calls, messages and data to the CLI and the app."
+2026-11-07T11:42:16.684717Z,leetcode-tui-auth,0.6.1,0,0,https://github.com/akarsh1995/leetcode-tui,LeetCode authentication helpers for the leetui terminal UI
+2026-11-07T11:42:25.262911Z,netscope-linux,0.2.1,0,0,https://github.com/Qiiks/netscope,Per-application network scoping primitives for Linux
+2026-11-07T11:42:36.894323Z,netscope-client,0.2.1,0,0,https://github.com/Qiiks/netscope,Typed Rust client for the netscope daemon control socket
+2026-11-07T11:43:54.487199Z,tali,0.2.1,0,0,,"Count the number of lines, words, and bytes"
+2026-11-07T11:44:37.180448Z,gproxy-store,4.2.1,0,0,https://github.com/LeenHawk/gproxy,SeaORM entities and batch persistence for GPROXY v4
+2026-11-07T11:44:40.174679Z,gproxy-client-sdk,4.2.1,0,0,https://github.com/LeenHawk/gproxy,"Caller-facing, portable GPROXY client with a versioned language-model IR"
+2026-11-07T11:45:47.582218Z,wagasm,1.5.8,0,0,https://gitlab.com/tascafoo/wagasm,WebAssembly to eZ80 compiler for Agon Light
+2026-11-07T11:48:38.270791Z,gpui-material-symbols-outlined,0.1.0,0,0,https://github.com/mizorewww/gpui-material-symbols,"The Outlined Google Material Symbols variable font, as bytes for gpui-material-symbols"
+2026-11-07T11:48:44.447028Z,gpui-material-symbols-rounded,0.1.0,0,0,https://github.com/mizorewww/gpui-material-symbols,"The Rounded Google Material Symbols variable font, as bytes for gpui-material-symbols"
+2026-11-07T11:48:48.771979Z,gpui-material-symbols-sharp,0.1.0,0,0,https://github.com/mizorewww/gpui-material-symbols,"The Sharp Google Material Symbols variable font, as bytes for gpui-material-symbols"
+2026-11-07T11:48:54.069218Z,gpui-material-symbols-supplemental,0.1.0,0,0,https://github.com/mizorewww/gpui-material-symbols,"Google's SVG-only Material Symbols variants, packed as bytes for gpui-material-symbols"
+2026-11-07T11:49:18.99979Z,gpui-material-symbols,0.1.0,0,0,https://github.com/mizorewww/gpui-material-symbols,Complete variable Google Material Symbols as SVGs for Longbridge GPUI Kit
+2026-11-07T11:51:01.591071Z,wirebird-audio,0.0.1,0,0,https://github.com/IvoraLabsHQ/wirebird,"Call audio for Wirebird: playback, microphone, noise suppression and echo cancellation."
+2026-11-07T11:52:39.837258Z,plottery_fonts,0.12.0,0,0,https://github.com/TobiasGrothmann/plottery,"Plotter fonts bundled with Plottery: single-stroke SVG fonts, single-line TTFs and OpenType-SVG fonts, with their licences."
+2026-11-07T12:01:14.558141Z,wirebird-intel-xmm7360,0.0.1,0,0,https://github.com/IvoraLabsHQ/wirebird,"Wirebird's support for the Intel XMM7360 modem (Fibocom L850-GL): RPC, call audio and data."
+2026-11-07T12:03:35.797908Z,pathland-markdown,0.2.0,0,0,https://github.com/PathlandDev/Pathland,Pathland's shared inline Markdown parser: produces AttributedString style runs + links
+2026-11-07T12:04:12.998778Z,prebake,0.1.0,0,0,https://github.com/guitaripod/prebake,"Bakes Steam's Vulkan shader caches while you are away, so games start without ""Processing Vulkan shaders"""
+2026-11-07T12:06:24.163959Z,halo-bridge,0.1.0,0,0,https://github.com/halo-space/bridge,"Halo Core Identity Provider, Multi-factor Authentication & OIDC Protocol Engine"
+2026-11-07T12:06:56.910702Z,ziptensors-core,0.1.0,0,0,https://github.com/Vasyanator/ziptensors,"Lossless compressed tensor container: format, codecs, reader and writer"
+2026-11-07T12:06:59.174449Z,ziptensors-mount,0.1.0,0,0,https://github.com/Vasyanator/ziptensors,Read-only filesystem view of a ziptensors container
+2026-11-07T12:07:01.115488Z,ziptensors-cli,0.1.0,0,0,https://github.com/Vasyanator/ziptensors,Command line tool for the ziptensors container
+2026-11-07T12:07:21.834901Z,aad-browser,0.0.8,0,0,https://github.com/lejunyang/ai-auto-desktop,"Local browser protocol clients (Chromium CDP, Firefox WebDriver BiDi) and owned-browser lifecycle"
+2026-11-07T12:07:29.164753Z,zenkey-model,0.20.0,0,0,https://github.com/p13marc/zenkey,"zk2 keys and contracts without a Zenoh session: the key grammar, the contract authoring format, canonical form, fingerprints and bundles"
+2026-11-07T12:11:28.35726Z,wirebird-localization,0.0.1,0,0,https://github.com/IvoraLabsHQ/wirebird,Wirebird's translations and locale-aware formatting.
+2026-11-07T12:11:49.831881Z,ascii-uml,0.1.0,0,0,https://github.com/SzilvasiPeter/ascii-uml,A CLI tool to create ASCII UML diagrams from text.
+2026-11-07T12:15:07.91739Z,staticweaver-core,0.0.10,0,0,https://github.com/sebastienrousseau/staticweaver,"Core of the staticweaver templating engine: parser, expression evaluator, renderer, idempotent HTML escape, Value and errors. no_std + alloc; the `staticweaver` crate adds the std facade."
+2026-11-07T12:15:19.528616Z,staticweaver-async,0.0.10,0,0,https://github.com/sebastienrousseau/staticweaver,"Async template loading for the staticweaver templating engine: the AsyncTemplateLoader trait, an in-memory loader and an optional Tokio filesystem loader."
+2026-11-07T12:15:52.417055Z,staticweaver-cli,0.0.10,0,0,https://github.com/sebastienrousseau/staticweaver,The `staticweaver` command: render templates from the shell with the staticweaver templating engine.
+2026-11-07T12:16:23.433584Z,pdf-crypt,0.1.0-alpha.1,0,0,https://github.com/sheaf-pdf/pdf-lint,"PDF's standard security handler: decrypting with every fault said, encrypting for a writer, and a new file's passwords and permissions"
+2026-11-07T12:16:38.626147Z,embun,0.1.0,0,0,https://github.com/fikrifirmanf/embun,"A Rust UI toolkit with frosted, merging glass"
+2026-11-07T12:20:01.980116Z,interstice-client,0.6.0,0,0,https://github.com/naloween/interstice,"Client library for programs that talk to an Interstice node: reducer calls with results, queries, schemas"
