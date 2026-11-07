@@ -1,0 +1,30 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-07T15:21:47.339066Z,kerniq-core,0.1.0,0,0,https://github.com/kerniq/kerniq-server,Core types for Kerniq Server: the error model and server configuration.
+2026-11-07T15:22:08.289218Z,kerniq-routing,0.1.0,0,0,https://github.com/kerniq/kerniq-server,"Routers, route groups and middleware composition for Kerniq Server, built on Axum."
+2026-11-07T15:22:19.152493Z,kerniq-macros,0.1.0,0,0,https://github.com/kerniq/kerniq-server,Procedural macros for Kerniq Server (`#[authorize]`). Use through the `macros` feature of `kerniq-server`.
+2026-11-07T15:22:29.377412Z,kerniq-cli,0.1.0,0,0,https://github.com/kerniq/kerniq-server,Project scaffolding and development commands for Kerniq Server.
+2026-11-07T15:22:44.860915Z,nsh-i18n,0.4.0,0,0,https://github.com/longbridge/nsh,"Native Shell's languages: the language data apps format numbers and dates with, and the app's translations read with rust-i18n."
+2026-11-07T15:22:49.79094Z,kerniq-http,0.1.0,0,0,https://github.com/kerniq/kerniq-server,Request extractors and response types for Kerniq Server.
+2026-11-07T15:28:43.141131Z,snipflow,0.2.0,0,0,https://github.com/Mresyzz/SnipFlow,"Ultra-fast, local-first lossless video clipper & silence stripper powered by Rust and FFmpeg."
+2026-11-07T15:32:17.357228Z,kerniq-runtime,0.1.0,0,0,https://github.com/kerniq/kerniq-server,"Tokio server lifecycle for Kerniq Server: accept loop, graceful shutdown, background tasks."
+2026-11-07T15:32:46.872651Z,format198x-snk-neo-geo-romset,0.1.0,0,0,https://github.com/format198x/format198x,Neo Geo named cartridge ROM files — dependency-free region decoding and writing.
+2026-11-07T15:33:48.472287Z,burn_quantum,0.1.0,0,0,https://github.com/mosure/burn_quantum,Differentiable qubit and qudit simulation with Burn's native tensor and module APIs
+2026-11-07T15:33:51.528493Z,deepseek-web-mcp,0.1.2,0,0,https://github.com/zhuzhda/deepseek-web-mcp,Minimal MCP server exposing DeepSeek Web Search and Fetch APIs
+2026-11-07T15:34:52.608576Z,xan_docopt,1.1.2,0,0,https://github.com/Yomguithereal/docopt.rs,Command line argument parsing.
+2026-11-07T15:35:48.652237Z,mcp-serve,0.0.1,0,0,https://github.com/sebastienrousseau/mcp-serve,"The transport half of a Rust MCP server: one command line for stdio, streamable HTTP and the 2024-11-05 HTTP+SSE transport, with a Host, Origin and Content-Type guard, a session cap, a per-line stdio…"
+2026-11-07T15:38:00.442469Z,stringbytes,0.0.1,0,0,https://github.com/WangLabCSU/stringbytes,A trait for byte sequences and UTF-8 strings
+2026-11-07T15:41:36.679328Z,viscompile,0.1.0,0,0,https://github.com/LatticeAG/viscompile,VisCompile by LatticeAG - behavioral diff for AI agents
+2026-11-07T15:45:30.561866Z,kerniq-middleware,0.1.0,0,0,https://github.com/kerniq/kerniq-server,"Production middleware for Kerniq Server: logging, request IDs, timeouts, CORS, compression, rate limiting, auth, metrics."
+2026-11-07T15:50:31.475889Z,fsgate,0.1.1,0,0,https://github.com/farming-labs/fsgate,"Filesystem authority as directory handles granted up front, enforced by the kernel."
+2026-11-07T15:51:11.52031Z,omy-core,0.0.1,0,0,https://github.com/lejunyang/omy,omy 加密文件格式的核心实现：格式读写、密钥体系、分块 AEAD。零 FFmpeg 依赖。
+2026-11-07T15:51:46.420843Z,omy-config,0.0.1,0,0,https://github.com/lejunyang/omy,omy 的配置读写：CLI 与 GUI 共用同一份定义与默认值。
+2026-11-07T15:52:20.66023Z,omy-secret,0.0.1,0,0,https://github.com/lejunyang/omy,omy 的密钥与凭据存储：各平台原生凭据库与 Windows TPM 设备密钥。
+2026-11-07T15:52:54.027514Z,omy-media,0.0.1,0,0,https://github.com/lejunyang/omy,omy 的媒体探测、分级与缩略图生成
+2026-11-07T15:53:04.025486Z,kerniq-openapi,0.1.0,0,0,https://github.com/kerniq/kerniq-server,OpenAPI (Utoipa) documents and Swagger UI for Kerniq Server.
+2026-11-07T15:53:28.054008Z,omy-net,0.0.1,0,0,https://github.com/lejunyang/omy,omy 局域网共享：设备发现、SPAKE2 配对、Noise IK 加密信道、密文块服务。
+2026-11-07T16:03:45.38305Z,omy-remote,0.0.1,0,0,https://github.com/lejunyang/omy,omy 远程位置：统一的 RemoteStore 抽象与 WebDAV 驱动。
+2026-11-07T16:04:57.545202Z,cortexkit-occipital-refs,0.1.0,0,0,https://github.com/cortexkit/occipital,"Finds issue and pull request mentions in agent text, so the CortexKit apps can draw them as links"
+2026-11-07T16:06:18.205223Z,requests_gauge,0.1.0,0,0,https://github.com/vandry/requests_gauge.git,A tower Layer for tracking or counting in-flight HTTP requests.
+2026-11-07T16:07:57.617169Z,kerniq-server,0.1.0,0,0,https://github.com/kerniq/kerniq-server,"A lightweight, asynchronous Rust web framework: Flask-like simplicity on top of Axum, Tower and Tokio."
+2026-11-07T16:14:07.013526Z,omy-cli,0.0.1,0,0,https://github.com/lejunyang/omy,omy 命令行工具：加解密、扫描、分片、密钥管理。与 GUI 共享 omy-core，行为一致。
+2026-11-07T16:18:13.07475Z,polaroid,0.1.0,0,0,https://github.com/dashdeckers/polaroid,A GUI for Polars.
