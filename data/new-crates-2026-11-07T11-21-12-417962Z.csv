@@ -1,0 +1,24 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-07T10:21:07.84066Z,zipp-members,0.2.0,0,0,https://github.com/zipp-cms/zipp-next,"Members of the website edit their own entries in the frontend, for zipp"
+2026-11-07T10:26:13.219266Z,rconet-types,0.1.0,0,0,https://github.com/realalden27/rconet,"Foundational credentials, typed identifiers, limits, and error taxonomy for rconet"
+2026-11-07T10:26:19.336712Z,panama,0.1.0,0,0,https://github.com/valaphee/stream-ciphers,Pure Rust implementation of the PANAMA stream cipher
+2026-11-07T10:26:23.465021Z,rconet-proto,0.1.0,0,0,https://github.com/realalden27/rconet,"Runtime-independent RCON wire framing, dialect profiles, and protocol state machines"
+2026-11-07T10:26:34.14609Z,rconet-transport,0.1.0,0,0,https://github.com/realalden27/rconet,Asynchronous Tokio framed RCON transports and deterministic test server utilities
+2026-11-07T10:26:46.264788Z,rconet,0.1.0,0,0,https://github.com/realalden27/rconet,"Asynchronous, cancellation-safe RCON client ecosystem for Rust"
+2026-11-07T10:28:45.582432Z,nestrs-workflows,1.7.0,0,0,https://github.com/Joshyahweh/nestrs,Durable workflows for nestrs — NestJS @nestjs/workflows parity.
+2026-11-07T10:29:52.307567Z,nestrs-ai,1.7.0,0,0,https://github.com/Joshyahweh/nestrs,"LLM / agent module for nestrs — NestJS @nestjs/ai parity (AI SDK-style, OpenAI-compatible)."
+2026-11-07T10:33:36.78053Z,fairliny-gateway,0.1.0,0,0,https://github.com/Unka-Malloc/Fairlead,The unified model gateway: gathers model-provider access (a4mp) and credential leases (Credential-Lease) into one outward model-service face; a forwarding-only core with Metera usage metering compose…
+2026-11-07T10:39:47.75435Z,cufflink-sql-parse,0.1.0,0,0,https://github.com/driftwerk/cufflink,"PostgreSQL's own parser for Cufflink: the bounds before a parse, the parser process's wire and, with `parser`, the parse"
+2026-11-07T10:48:12.427805Z,kneetap-api,0.1.1,0,0,https://github.com/joshka/kneetap,Report types shared by the kneetap server and client
+2026-11-07T10:48:14.206921Z,kneetap-client,0.1.1,0,0,https://github.com/joshka/kneetap,Client for querying kneetap servers
+2026-11-07T10:48:14.600637Z,kneetap-server,0.1.1,0,0,https://github.com/joshka/kneetap,Embeddable server that reports which instance answered and what it received
+2026-11-07T10:48:15.749705Z,kneetap,0.1.1,0,0,https://github.com/joshka/kneetap,Reports which server answered a request and what it received
+2026-11-07T10:55:25.576678Z,tesserae-config,0.3.0,0,0,https://github.com/Ypuf/Tesserae,a small typed config format
+2026-11-07T11:02:20.629769Z,kraken-crypto,0.1.0,0,0,https://github.com/crypt0p1a/kraken-rust,Cryptography of the Kraken private REST calls: API secret and API-Sign signature
+2026-11-07T11:02:22.175347Z,kraken-network,0.1.0,0,0,https://github.com/crypt0p1a/kraken-rust,"HTTP layer of the Kraken REST API: clients, rate limiter, nonce, answers and errors"
+2026-11-07T11:02:24.293795Z,kraken-spot-api,0.1.0,0,0,https://github.com/crypt0p1a/kraken-rust,"Calls of the Kraken Spot REST API: market data, account and trading"
+2026-11-07T11:05:52.518264Z,colorfulcode,0.1.0,0,0,https://github.com/Darker-Ink/colorfulcode,Fast syntax highlighting for a lot of languages
+2026-11-07T11:05:54.573426Z,colorfulcode-cli,0.1.0,0,0,https://github.com/Darker-Ink/colorfulcode,Print files with syntax highlighting in the terminal
+2026-11-07T11:05:56.604272Z,colorfulcode-ffi,0.1.0,0,0,https://github.com/Darker-Ink/colorfulcode,C ABI for the colorfulcode syntax highlighter
+2026-11-07T11:09:11.325338Z,swallow-it,0.1.0,0,0,,A crate for things you don't care about.
+2026-11-07T11:14:19.761035Z,clarity-video,0.1.0,0,0,https://github.com/petervdpas/Clarity,"Clarity.Video: plays video for the programs Clarity generates, with openh264 as its base codec and codecs a project adds"
