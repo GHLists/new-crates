@@ -8,51 +8,36 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-07 01:19 UTC
+## Latest list — 2026-11-07 02:18 UTC
 
-New crates published between 2026-11-07 00:18 UTC and 2026-11-07 01:19 UTC.
+New crates published between 2026-11-07 01:19 UTC and 2026-11-07 02:18 UTC.
 
-[Full CSV](data/new-crates-2026-11-07T01-19-21-56111Z.csv)
+[Full CSV](data/new-crates-2026-11-07T02-18-42-736147Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-07 00:19:23 | [polyglossa](https://crates.io/crates/polyglossa) | 2026.11.7 | 0 | English Wiktionary's languages, language families and scripts. |
-| 2026-11-07 00:20:58 | [egui-knex](https://crates.io/crates/egui-knex) | 0.1.0-dev.6 | 0 | Reusable egui building blocks: Ora windows, the Vas flexbox-style layout, and O… |
-| 2026-11-07 00:25:03 | [segment-log-core](https://crates.io/crates/segment-log-core) | 0.0.1 | 0 | Placeholder: embedded append-only segment log for Ironflow (not yet usable). |
-| 2026-11-07 00:25:33 | [clarity-audio](https://crates.io/crates/clarity-audio) | 0.1.0 | 0 | Clarity.Audio: plays mp3, flac, wav and ogg files for the programs Clarity gene… |
-| 2026-11-07 00:33:30 | [stockfoil](https://crates.io/crates/stockfoil) | 0.1.0 | 0 | Authenticated commit graphs, compaction, and incremental materialization for lo… |
-| 2026-11-07 00:38:36 | [samishisa-macros](https://crates.io/crates/samishisa-macros) | 0.1.0 | 0 | Procedural macros for the samishisa extension SDK (use the `samishisa` crate in… |
-| 2026-11-07 00:39:02 | [gisst-rust-libretro-sys-proc](https://crates.io/crates/gisst-rust-libretro-sys-proc) | 0.4.0 | 0 | Procedural macros for gisst-rust-libretro-sys |
-| 2026-11-07 00:39:09 | [gisst-rust-libretro-sys](https://crates.io/crates/gisst-rust-libretro-sys) | 0.4.0 | 0 | libretro API bindings generated via bindgen |
-| 2026-11-07 00:39:12 | [samishisa](https://crates.io/crates/samishisa) | 0.1.0 | 0 | Write extensions for the samishisa API server: typed routes compiled to a sandb… |
-| 2026-11-07 00:41:53 | [waft-cli](https://crates.io/crates/waft-cli) | 0.1.0 | 0 | cargo waft: run and package an Waft app for desktop, iOS, and the web |
-| 2026-11-07 00:42:00 | [waft-embedder](https://crates.io/crates/waft-embedder) | 0.1.0 | 0 | dart:ui host traits and value types for Waft |
-| 2026-11-07 00:42:06 | [waft-macros](https://crates.io/crates/waft-macros) | 0.1.0 | 0 | Attribute macros for Waft applications |
-| 2026-11-07 00:42:13 | [waft-single-instance](https://crates.io/crates/waft-single-instance) | 0.1.0 | 0 | One instance of an Waft app: later launches hand what they open to the first |
-| 2026-11-07 00:42:25 | [waft-embedder-android](https://crates.io/crates/waft-embedder-android) | 0.1.0 | 0 | Android host for Waft |
-| 2026-11-07 00:46:54 | [tmde-cli](https://crates.io/crates/tmde-cli) | 0.0.9 | 0 | tmde cli tools |
-| 2026-11-07 00:48:45 | [verdant-parsers](https://crates.io/crates/verdant-parsers) | 0.8.0 | 0 | Collection of tree-sitter parsers for verdant, using parsers available on crate… |
-| 2026-11-07 00:48:45 | [verdant-parsers-dynamic](https://crates.io/crates/verdant-parsers-dynamic) | 0.8.0 | 0 | Dynamically load tree-sitter parsers and queries at runtime for verdant |
-| 2026-11-07 00:48:46 | [verdant-parsers-git](https://crates.io/crates/verdant-parsers-git) | 0.8.0 | 0 | Collection of tree-sitter parsers for verdant, fetching with git in the build-s… |
-| 2026-11-07 00:48:48 | [verdant-syntax](https://crates.io/crates/verdant-syntax) | 0.8.0 | 0 | Modern and easy syntax highlighting using tree-sitter |
-| 2026-11-07 00:51:18 | [ed521](https://crates.io/crates/ed521) | 0.1.0 | 0 | Fast verification of Ed521 signatures (EdDSA over E-521, ICP-Brasil DOC-ICP-01.… |
-| 2026-11-07 00:52:47 | [waft-embedder-web](https://crates.io/crates/waft-embedder-web) | 0.1.0 | 0 | Browser canvas host for Waft |
-| 2026-11-07 00:54:44 | [base-html-macros](https://crates.io/crates/base-html-macros) | 0.1.0 | 0 | Compile-time template syntax for base-html |
-| 2026-11-07 00:54:51 | [base-html](https://crates.io/crates/base-html) | 0.1.0 | 0 | Compiled HTML templates with escaped, writer-based rendering |
-| 2026-11-07 00:55:32 | [segment-log-server](https://crates.io/crates/segment-log-server) | 0.0.1 | 0 | Placeholder: socket server for the Ironflow segment log (not yet usable). |
-| 2026-11-07 00:56:26 | [tpt-dsp-testkit](https://crates.io/crates/tpt-dsp-testkit) | 0.3.0 | 0 | Test helpers for checking that tpt-dsp processing paths are allocation-free. |
-| 2026-11-07 00:57:08 | [tpt-dsp](https://crates.io/crates/tpt-dsp) | 0.3.0 | 0 | Facade for the tpt-dsp framework: one dependency, feature-gated re-exports and… |
-| 2026-11-07 00:57:45 | [pagesift-itna](https://crates.io/crates/pagesift-itna) | 1.2.0 | 0 | Bounded access-barrier assessment and attempt orchestration for pagesift |
-| 2026-11-07 01:03:08 | [waft-embedder-winit](https://crates.io/crates/waft-embedder-winit) | 0.1.0 | 0 | Native winit host for Waft |
-| 2026-11-07 01:10:15 | [hashu-core](https://crates.io/crates/hashu-core) | 0.1.0 | 0 | Core types for Hashu: terahash-hour (THH) units, share accounting and redemptio… |
-| 2026-11-07 01:10:17 | [hashu-mint](https://crates.io/crates/hashu-mint) | 0.1.0 | 0 | Cashu mint (built on CDK) that issues and redeems ecash denominated in terahash… |
-| 2026-11-07 01:10:17 | [hashu-proxy](https://crates.io/crates/hashu-proxy) | 0.1.0 | 0 | Stratum V1 hashrate proxy for Hashu that credits shares and redirects hashrate… |
-| 2026-11-07 01:10:19 | [hashu](https://crates.io/crates/hashu) | 0.1.0 | 0 | The `hashu` command: run a Hashu hashrate mint and Stratum proxy, buy and redee… |
-| 2026-11-07 01:11:00 | [turul-agent-skills](https://crates.io/crates/turul-agent-skills) | 0.1.0 | 0 | Parse, validate, render and catalog Agent Skills (SKILL.md) directories |
-| 2026-11-07 01:11:53 | [fsm-forge](https://crates.io/crates/fsm-forge) | 0.1.0 | 0 | A dependency-free state machine engine: edges, scoped rules, diagnostics, and b… |
-| 2026-11-07 01:13:24 | [waft-foundation](https://crates.io/crates/waft-foundation) | 0.1.0 | 0 | App, Handle, and Entity for Waft |
-| 2026-11-07 01:17:06 | [r3akt-event-broker](https://crates.io/crates/r3akt-event-broker) | 0.16.1 | 0 | Transport-independent durable SQLite event journal and authenticated consumer c… |
-| 2026-11-07 01:18:48 | [isothrum-machine](https://crates.io/crates/isothrum-machine) | 1.0.3 | 0 | Machine-setup domain for Isothrum: detect Docker, Vagrant, the hypervisors and… |
+| 2026-11-07 01:20:17 | [turul-agent-skills-cli](https://crates.io/crates/turul-agent-skills-cli) | 0.1.0 | 0 | skills-ref compatible command line for Agent Skills (SKILL.md) |
+| 2026-11-07 01:21:14 | [kaz-morph](https://crates.io/crates/kaz-morph) | 0.1.0 | 0 | Fast morphological analyzer for the Kazakh language |
+| 2026-11-07 01:23:39 | [waft-physics](https://crates.io/crates/waft-physics) | 0.1.0 | 0 | Scroll and animation simulations for Waft |
+| 2026-11-07 01:23:57 | [smbmc](https://crates.io/crates/smbmc) | 0.4.0 | 0 | Unofficial interface for obtaining metrics from Supermicro BMCs |
+| 2026-11-07 01:24:00 | [tv-rs-lgcmd](https://crates.io/crates/tv-rs-lgcmd) | 0.7.1 | 0 | LG commercial ASCII serial protocol (ka/mc) over TCP 9761 or RS-232. |
+| 2026-11-07 01:24:27 | [gloss-cli](https://crates.io/crates/gloss-cli) | 0.1.0 | 0 | A terminal viewer for Markdown, math, diagrams, images, and code. |
+| 2026-11-07 01:24:47 | [kql-parser](https://crates.io/crates/kql-parser) | 0.1.0 | 0 | KQL (Kusto Query Language) parser: a pest grammar derived from Microsoft's Kust… |
+| 2026-11-07 01:30:03 | [tv-rs-mirror](https://crates.io/crates/tv-rs-mirror) | 0.7.0 | 0 | A video session vocabulary for screen mirroring based on NectarLink protocol v0 |
+| 2026-11-07 01:33:54 | [waft-test](https://crates.io/crates/waft-test) | 0.1.0 | 0 | Test scaffolding for Waft: a platform and a view to run an App under |
+| 2026-11-07 01:42:45 | [tau-lang](https://crates.io/crates/tau-lang) | 0.1.0 | 0 | Compiler fot the Tau language. |
+| 2026-11-07 01:44:14 | [waft-embedder-default](https://crates.io/crates/waft-embedder-default) | 0.1.0 | 0 | Default host for Waft: winit on native, canvas WebGPU on wasm |
+| 2026-11-07 01:53:28 | [geopic-core](https://crates.io/crates/geopic-core) | 0.14.0 | 0 | Georeference rpic scenes: pic drawings as GeoJSON (WGS84) through a local ENU o… |
+| 2026-11-07 01:54:29 | [waft-scheduler](https://crates.io/crates/waft-scheduler) | 0.1.0 | 0 | Frame callbacks and tickers for Waft |
+| 2026-11-07 01:56:53 | [cortexkit-role-media](https://crates.io/crates/cortexkit-role-media) | 0.1.0 | 0 | Wire contract, validation helpers and vectors for media-provider/v1. |
+| 2026-11-07 01:59:39 | [cortexkit-role-media-conformance](https://crates.io/crates/cortexkit-role-media-conformance) | 0.1.0 | 0 | Scripted conformance checks for the CortexKit media-provider/v1 role. |
+| 2026-11-07 02:04:46 | [waft-animation](https://crates.io/crates/waft-animation) | 0.1.0 | 0 | Animation controllers and curves for Waft |
+| 2026-11-07 02:05:58 | [axa-ratelimit](https://crates.io/crates/axa-ratelimit) | 0.1.0 | 0 | In-process request limits and failed-login lockout for Axum services. |
+| 2026-11-07 02:13:24 | [rust-cordis-core](https://crates.io/crates/rust-cordis-core) | 0.1.0 | 0 | Cordis 内核的最小 Rust 实现：服务容器 + epoch 驱动的 fiber 生命周期 + 可逆 effect + 五种事件调度 |
+| 2026-11-07 02:13:50 | [rust-cordis-abi](https://crates.io/crates/rust-cordis-abi) | 0.1.0 | 0 | Cordis 插件 ABI v1：单入口 op 协议 + 宿主函数表 + 插件侧 SDK |
+| 2026-11-07 02:14:16 | [rust-cordis-macros](https://crates.io/crates/rust-cordis-macros) | 0.1.0 | 0 | Cordis 插件声明过程宏：service / service_impl / events / plugin / config（M6） |
+| 2026-11-07 02:15:04 | [waft-gestures](https://crates.io/crates/waft-gestures) | 0.1.0 | 0 | Gesture arena and recognizers for Waft |
+| 2026-11-07 02:15:17 | [rust-cordis-host](https://crates.io/crates/rust-cordis-host) | 0.1.0 | 0 | Cordis 宿主：动态库加载 + C ABI 适配 + cordis.yml/patch 兼容装载器 |
 
 ## Data source
 

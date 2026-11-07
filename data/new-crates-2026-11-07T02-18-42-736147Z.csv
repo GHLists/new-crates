@@ -1,0 +1,23 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-07T01:20:17.641627Z,turul-agent-skills-cli,0.1.0,0,0,https://github.com/aussierobots/turul-agent-skills,skills-ref compatible command line for Agent Skills (SKILL.md)
+2026-11-07T01:21:14.464368Z,kaz-morph,0.1.0,0,0,https://github.com/gotthajuice/kaz-morph,Fast morphological analyzer for the Kazakh language
+2026-11-07T01:23:39.412869Z,waft-physics,0.1.0,0,0,https://github.com/xtyxtyx/waft-ui,Scroll and animation simulations for Waft
+2026-11-07T01:23:57.835277Z,smbmc,0.4.0,0,0,https://github.com/grawlinson/smbmc,Unofficial interface for obtaining metrics from Supermicro BMCs
+2026-11-07T01:24:00.016004Z,tv-rs-lgcmd,0.7.1,0,0,https://github.com/Zakarialabib/tv-rs,LG commercial ASCII serial protocol (ka/mc) over TCP 9761 or RS-232.
+2026-11-07T01:24:27.525351Z,gloss-cli,0.1.0,0,0,https://github.com/garlab/gloss,"A terminal viewer for Markdown, math, diagrams, images, and code."
+2026-11-07T01:24:47.106532Z,kql-parser,0.1.0,0,0,https://github.com/bitbytelabio/microsoft-defender-mcp,"KQL (Kusto Query Language) parser: a pest grammar derived from Microsoft's Kusto.Language, a query analysis (tables, columns, operators, outside access) and a read-only safety policy"
+2026-11-07T01:30:03.319253Z,tv-rs-mirror,0.7.0,0,0,https://github.com/Zakarialabib/tv-rs,A video session vocabulary for screen mirroring based on NectarLink protocol v0
+2026-11-07T01:33:54.963889Z,waft-test,0.1.0,0,0,https://github.com/xtyxtyx/waft-ui,Test scaffolding for Waft: a platform and a view to run an App under
+2026-11-07T01:42:45.608931Z,tau-lang,0.1.0,0,0,https://github.com/tau-lang/tau,Compiler fot the Tau language.
+2026-11-07T01:44:14.127773Z,waft-embedder-default,0.1.0,0,0,https://github.com/xtyxtyx/waft-ui,"Default host for Waft: winit on native, canvas WebGPU on wasm"
+2026-11-07T01:53:28.051626Z,geopic-core,0.14.0,0,0,https://github.com/milkway/rpic-lang,Georeference rpic scenes: pic drawings as GeoJSON (WGS84) through a local ENU or Web Mercator similarity.
+2026-11-07T01:54:29.722881Z,waft-scheduler,0.1.0,0,0,https://github.com/xtyxtyx/waft-ui,Frame callbacks and tickers for Waft
+2026-11-07T01:56:53.554427Z,cortexkit-role-media,0.1.0,0,0,https://github.com/cortexkit/commons,"Wire contract, validation helpers and vectors for media-provider/v1."
+2026-11-07T01:59:39.844335Z,cortexkit-role-media-conformance,0.1.0,0,0,https://github.com/cortexkit/commons,Scripted conformance checks for the CortexKit media-provider/v1 role.
+2026-11-07T02:04:46.402057Z,waft-animation,0.1.0,0,0,https://github.com/xtyxtyx/waft-ui,Animation controllers and curves for Waft
+2026-11-07T02:05:58.309794Z,axa-ratelimit,0.1.0,0,0,https://github.com/publicprojects-io/axa/,In-process request limits and failed-login lockout for Axum services.
+2026-11-07T02:13:24.281139Z,rust-cordis-core,0.1.0,0,0,,Cordis 内核的最小 Rust 实现：服务容器 + epoch 驱动的 fiber 生命周期 + 可逆 effect + 五种事件调度
+2026-11-07T02:13:50.267277Z,rust-cordis-abi,0.1.0,0,0,,Cordis 插件 ABI v1：单入口 op 协议 + 宿主函数表 + 插件侧 SDK
+2026-11-07T02:14:16.706002Z,rust-cordis-macros,0.1.0,0,0,,Cordis 插件声明过程宏：service / service_impl / events / plugin / config（M6）
+2026-11-07T02:15:04.844491Z,waft-gestures,0.1.0,0,0,https://github.com/xtyxtyx/waft-ui,Gesture arena and recognizers for Waft
+2026-11-07T02:15:17.422842Z,rust-cordis-host,0.1.0,0,0,,Cordis 宿主：动态库加载 + C ABI 适配 + cordis.yml/patch 兼容装载器
