@@ -1,0 +1,25 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-07T07:27:44.330451Z,puy-runtime-wasi,0.0.1,0,0,https://github.com/puy-lang/puy,WASI (wasm32-wasip2) runtime for Puy
+2026-11-07T07:28:08.203786Z,agrafe-dashboard,0.1.0,0,0,https://github.com/tchak/agrafe,"The HTML dashboard of agrafe as an axum router: the queue, the blobs and the attachments, for operators"
+2026-11-07T07:28:09.915698Z,agrafe-server,0.1.0,0,0,https://github.com/tchak/agrafe,"The agrafe binary: serve the two interfaces and the workers, run migrations"
+2026-11-07T07:35:39.492466Z,bin2-derive,0.1.0,0,0,https://github.com/viskasssssss/bin2/,Derive implementation of BinRepr
+2026-11-07T07:36:23.226911Z,puy-cli,0.0.1,0,0,https://github.com/puy-lang/puy,The puy command-line tool
+2026-11-07T07:37:32.890481Z,logkeeper,0.1.0,0,0,https://github.com/accessware/logkeeper,"File logging for desktop apps, built on tracing. It keeps the previous run's log, changes level while the app runs, records panics, and makes no file until something is logged."
+2026-11-07T07:51:27.069054Z,beer-cli,0.14.0,0,0,,Command-line interface definition for the beer terminal
+2026-11-07T08:00:38.90708Z,canal-proto,2.2.1,0,0,https://github.com/erikwang2013/canal-rust,Generated prost bindings for the Alibaba Canal wire protocol.
+2026-11-07T08:02:24.931096Z,hostler,0.0.1,0,0,https://github.com/DZamataev/hostler,Machine-wide resource coordinator for parallel AI agents: the heavy-task queue first
+2026-11-07T08:03:22.214693Z,canal-common,2.2.1,0,0,https://github.com/erikwang2013/canal-rust,"Shared types, errors, and lifecycle utilities for canal-rust."
+2026-11-07T08:04:46.315874Z,canal-prometheus,2.2.1,0,0,https://github.com/erikwang2013/canal-rust,Prometheus metrics endpoint for canal-rust.
+2026-11-07T08:06:40.67485Z,canal-store,2.2.1,0,0,https://github.com/erikwang2013/canal-rust,In-memory event store and log position management for canal-rust.
+2026-11-07T08:07:06.537304Z,nodus-retis,0.0.1,0,0,https://github.com/wvmscs/nodus-retis,"Nodus Retis (B2): embeddable API for an anonymous, encrypted and moderated mesh network (BLE, Nostr, Tor). Early placeholder: the API is being written."
+2026-11-07T08:07:51.546199Z,canal-filter,2.2.1,0,0,https://github.com/erikwang2013/canal-rust,Schema/table regex filter for canal-rust binlog events.
+2026-11-07T08:09:57.32005Z,canal-binlog,2.2.1,0,0,https://github.com/erikwang2013/canal-rust,MySQL binlog capture and conversion for canal-rust.
+2026-11-07T08:11:49.863036Z,intrlay-layout,0.1.0,0,0,https://github.com/intrlay/intrlay,Shared const layout rules for Intrlay schemas and generated views
+2026-11-07T08:11:52.541445Z,intrlay-schema,0.1.0,0,0,https://github.com/intrlay/intrlay,Language-independent schema and layout analysis for Intrlay
+2026-11-07T08:11:54.618645Z,intrlay-derive,0.1.0,0,0,https://github.com/intrlay/intrlay,Derive native views and compiler-resolved Intrlay metadata
+2026-11-07T08:11:54.970011Z,intrlay-frontend-rust,0.1.0,0,0,https://github.com/intrlay/intrlay,Cargo-backed Rust schema extraction for Intrlay
+2026-11-07T08:11:56.169432Z,intrlay,0.1.0,0,0,https://github.com/intrlay/intrlay,Typed views and direct construction for trusted byte-oriented object exchange
+2026-11-07T08:16:43.15464Z,winvideo-core,0.1.0,0,0,https://github.com/sinaryorg/winvideo,Modern hardware-accelerated Windows screen and window video capture core engine by SINARY™
+2026-11-07T08:17:03.039222Z,winvideo-cli,0.1.0,0,0,https://github.com/sinaryorg/winvideo,Command-line tool for Windows screen and window video capture by SINARY™
+2026-11-07T08:17:50.365893Z,canal-meta,2.2.1,0,0,https://github.com/erikwang2013/canal-rust,DDL tracking and table schema metadata cache for canal-rust.
+2026-11-07T08:19:33.860355Z,leptoskit_canvas,0.3.0,0,0,https://github.com/leptoskit/leptoskit,"A GPU canvas for leptoskit: a 2D display list of shapes, paths, gradients, and shadows drawn with wgpu."

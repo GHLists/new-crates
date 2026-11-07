@@ -8,30 +8,38 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-07 07:18 UTC
+## Latest list — 2026-11-07 08:21 UTC
 
-New crates published between 2026-11-07 06:20 UTC and 2026-11-07 07:18 UTC.
+New crates published between 2026-11-07 07:18 UTC and 2026-11-07 08:21 UTC.
 
-[Full CSV](data/new-crates-2026-11-07T07-18-41-888784Z.csv)
+[Full CSV](data/new-crates-2026-11-07T08-21-05-583588Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-07 06:41:49 | [grapha-engine](https://crates.io/crates/grapha-engine) | 0.5.2 | 0 | Library engine for Grapha code intelligence |
-| 2026-11-07 06:41:54 | [base-web-media-type](https://crates.io/crates/base-web-media-type) | 0.1.0 | 0 | Media types, media ranges, and range-based sets and maps |
-| 2026-11-07 06:42:02 | [base-web-media-type-registry](https://crates.io/crates/base-web-media-type-registry) | 0.1.0 | 0 | Registered media types with their encodings and filename extensions |
-| 2026-11-07 06:46:56 | [proclease](https://crates.io/crates/proclease) | 0.1.3 | 0 | Put an explicit lifetime on development processes started by coding agents |
-| 2026-11-07 06:59:34 | [amba-office](https://crates.io/crates/amba-office) | 0.0.0 | 0 | Office file core (xlsx, docx, pptx) by AmbaDesk. Name reserved; first release c… |
-| 2026-11-07 07:00:12 | [llm-gateway-rs](https://crates.io/crates/llm-gateway-rs) | 0.3.2 | 0 | Gateway proxy OpenAI-compatible con failover y keep-alive (warmup) de backends. |
-| 2026-11-07 07:01:19 | [embun-motion](https://crates.io/crates/embun-motion) | 0.0.1 | 0 | Springs and transitions for Embun |
-| 2026-11-07 07:01:19 | [embun-render](https://crates.io/crates/embun-render) | 0.0.1 | 0 | Frosted, lensed, merging glass shapes rendered with wgpu |
-| 2026-11-07 07:15:41 | [puy-host](https://crates.io/crates/puy-host) | 0.0.1 | 0 | Host interface traits for the Puy VM |
-| 2026-11-07 07:15:43 | [puy-core](https://crates.io/crates/puy-core) | 0.0.1 | 0 | Puy compiler and stackless VM (no I/O, WASM-compatible) |
-| 2026-11-07 07:15:44 | [puy-fmt](https://crates.io/crates/puy-fmt) | 0.0.1 | 0 | Formatter for Puy (Object Pascal) source |
-| 2026-11-07 07:15:45 | [puy-runtime-native](https://crates.io/crates/puy-runtime-native) | 0.0.1 | 0 | Native runtime for Puy |
-| 2026-11-07 07:15:45 | [puy-runtime-web](https://crates.io/crates/puy-runtime-web) | 0.0.1 | 0 | Browser runtime for Puy (wasm-bindgen) |
-| 2026-11-07 07:15:49 | [wizmade](https://crates.io/crates/wizmade) | 0.1.0 | 0 | A tiny helper exposing the canonical homepage of Wizmade, an AI image and video… |
-| 2026-11-07 07:15:50 | [agtmls-core](https://crates.io/crates/agtmls-core) | 0.0.3 | 0 | Engine for the AgtMLS agent skills registry: content-addressed skill digests an… |
-| 2026-11-07 07:16:03 | [agtmls-cli](https://crates.io/crates/agtmls-cli) | 0.0.3 | 0 | Command-line interface to the AgtMLS engine: skill digests and static security… |
+| 2026-11-07 07:27:44 | [puy-runtime-wasi](https://crates.io/crates/puy-runtime-wasi) | 0.0.1 | 0 | WASI (wasm32-wasip2) runtime for Puy |
+| 2026-11-07 07:28:08 | [agrafe-dashboard](https://crates.io/crates/agrafe-dashboard) | 0.1.0 | 0 | The HTML dashboard of agrafe as an axum router: the queue, the blobs and the at… |
+| 2026-11-07 07:28:09 | [agrafe-server](https://crates.io/crates/agrafe-server) | 0.1.0 | 0 | The agrafe binary: serve the two interfaces and the workers, run migrations |
+| 2026-11-07 07:35:39 | [bin2-derive](https://crates.io/crates/bin2-derive) | 0.1.0 | 0 | Derive implementation of BinRepr |
+| 2026-11-07 07:36:23 | [puy-cli](https://crates.io/crates/puy-cli) | 0.0.1 | 0 | The puy command-line tool |
+| 2026-11-07 07:37:32 | [logkeeper](https://crates.io/crates/logkeeper) | 0.1.0 | 0 | File logging for desktop apps, built on tracing. It keeps the previous run's lo… |
+| 2026-11-07 07:51:27 | [beer-cli](https://crates.io/crates/beer-cli) | 0.14.0 | 0 | Command-line interface definition for the beer terminal |
+| 2026-11-07 08:00:38 | [canal-proto](https://crates.io/crates/canal-proto) | 2.2.1 | 0 | Generated prost bindings for the Alibaba Canal wire protocol. |
+| 2026-11-07 08:02:24 | [hostler](https://crates.io/crates/hostler) | 0.0.1 | 0 | Machine-wide resource coordinator for parallel AI agents: the heavy-task queue… |
+| 2026-11-07 08:03:22 | [canal-common](https://crates.io/crates/canal-common) | 2.2.1 | 0 | Shared types, errors, and lifecycle utilities for canal-rust. |
+| 2026-11-07 08:04:46 | [canal-prometheus](https://crates.io/crates/canal-prometheus) | 2.2.1 | 0 | Prometheus metrics endpoint for canal-rust. |
+| 2026-11-07 08:06:40 | [canal-store](https://crates.io/crates/canal-store) | 2.2.1 | 0 | In-memory event store and log position management for canal-rust. |
+| 2026-11-07 08:07:06 | [nodus-retis](https://crates.io/crates/nodus-retis) | 0.0.1 | 0 | Nodus Retis (B2): embeddable API for an anonymous, encrypted and moderated mesh… |
+| 2026-11-07 08:07:51 | [canal-filter](https://crates.io/crates/canal-filter) | 2.2.1 | 0 | Schema/table regex filter for canal-rust binlog events. |
+| 2026-11-07 08:09:57 | [canal-binlog](https://crates.io/crates/canal-binlog) | 2.2.1 | 0 | MySQL binlog capture and conversion for canal-rust. |
+| 2026-11-07 08:11:49 | [intrlay-layout](https://crates.io/crates/intrlay-layout) | 0.1.0 | 0 | Shared const layout rules for Intrlay schemas and generated views |
+| 2026-11-07 08:11:52 | [intrlay-schema](https://crates.io/crates/intrlay-schema) | 0.1.0 | 0 | Language-independent schema and layout analysis for Intrlay |
+| 2026-11-07 08:11:54 | [intrlay-derive](https://crates.io/crates/intrlay-derive) | 0.1.0 | 0 | Derive native views and compiler-resolved Intrlay metadata |
+| 2026-11-07 08:11:54 | [intrlay-frontend-rust](https://crates.io/crates/intrlay-frontend-rust) | 0.1.0 | 0 | Cargo-backed Rust schema extraction for Intrlay |
+| 2026-11-07 08:11:56 | [intrlay](https://crates.io/crates/intrlay) | 0.1.0 | 0 | Typed views and direct construction for trusted byte-oriented object exchange |
+| 2026-11-07 08:16:43 | [winvideo-core](https://crates.io/crates/winvideo-core) | 0.1.0 | 0 | Modern hardware-accelerated Windows screen and window video capture core engine… |
+| 2026-11-07 08:17:03 | [winvideo-cli](https://crates.io/crates/winvideo-cli) | 0.1.0 | 0 | Command-line tool for Windows screen and window video capture by SINARY™ |
+| 2026-11-07 08:17:50 | [canal-meta](https://crates.io/crates/canal-meta) | 2.2.1 | 0 | DDL tracking and table schema metadata cache for canal-rust. |
+| 2026-11-07 08:19:33 | [leptoskit_canvas](https://crates.io/crates/leptoskit_canvas) | 0.3.0 | 0 | A GPU canvas for leptoskit: a 2D display list of shapes, paths, gradients, and… |
 
 ## Data source
 
