@@ -1,0 +1,38 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-07T00:19:23.225082Z,polyglossa,2026.11.7,0,0,https://github.com/fenakhay/polyglossa,"English Wiktionary's languages, language families and scripts."
+2026-11-07T00:20:58.001884Z,egui-knex,0.1.0-dev.6,0,0,https://github.com/j-Cis/egui-knex,"Reusable egui building blocks: Ora windows, the Vas flexbox-style layout, and Oklab/Oklch colours for egui::Color32."
+2026-11-07T00:25:03.17529Z,segment-log-core,0.0.1,0,0,https://github.com/ironflowhq/segment-log,Placeholder: embedded append-only segment log for Ironflow (not yet usable).
+2026-11-07T00:25:33.781849Z,clarity-audio,0.1.0,0,0,https://github.com/petervdpas/Clarity,"Clarity.Audio: plays mp3, flac, wav and ogg files for the programs Clarity generates, with pause, seek, position and length"
+2026-11-07T00:33:30.820205Z,stockfoil,0.1.0,0,0,https://github.com/alexjg/stockfoil,"Authenticated commit graphs, compaction, and incremental materialization for local-first data structures"
+2026-11-07T00:38:36.656793Z,samishisa-macros,0.1.0,0,0,https://github.com/heyngra/samishisa,Procedural macros for the samishisa extension SDK (use the `samishisa` crate instead)
+2026-11-07T00:39:02.433816Z,gisst-rust-libretro-sys-proc,0.4.0,0,0,https://github.com/joeosborn/rust-libretro/,Procedural macros for gisst-rust-libretro-sys
+2026-11-07T00:39:09.998285Z,gisst-rust-libretro-sys,0.4.0,0,0,https://github.com/joeosborn/rust-libretro/,libretro API bindings generated via bindgen
+2026-11-07T00:39:12.584612Z,samishisa,0.1.0,0,0,https://github.com/heyngra/samishisa,Write extensions for the samishisa API server: typed routes compiled to a sandboxed WebAssembly component
+2026-11-07T00:41:53.626802Z,waft-cli,0.1.0,0,0,https://github.com/xtyxtyx/waft-ui,"cargo waft: run and package an Waft app for desktop, iOS, and the web"
+2026-11-07T00:42:00.796315Z,waft-embedder,0.1.0,0,0,https://github.com/xtyxtyx/waft-ui,dart:ui host traits and value types for Waft
+2026-11-07T00:42:06.771814Z,waft-macros,0.1.0,0,0,https://github.com/xtyxtyx/waft-ui,Attribute macros for Waft applications
+2026-11-07T00:42:13.631414Z,waft-single-instance,0.1.0,0,0,https://github.com/xtyxtyx/waft-ui,One instance of an Waft app: later launches hand what they open to the first
+2026-11-07T00:42:25.685489Z,waft-embedder-android,0.1.0,0,0,https://github.com/xtyxtyx/waft-ui,Android host for Waft
+2026-11-07T00:46:54.294899Z,tmde-cli,0.0.9,0,0,http://github.com/cleveng/tmde-cli,tmde cli tools
+2026-11-07T00:48:45.220994Z,verdant-parsers,0.8.0,0,0,https://github.com/casualjim/verdant,"Collection of tree-sitter parsers for verdant, using parsers available on crates.io"
+2026-11-07T00:48:45.813708Z,verdant-parsers-dynamic,0.8.0,0,0,https://github.com/casualjim/verdant,Dynamically load tree-sitter parsers and queries at runtime for verdant
+2026-11-07T00:48:46.511755Z,verdant-parsers-git,0.8.0,0,0,https://github.com/casualjim/verdant,"Collection of tree-sitter parsers for verdant, fetching with git in the build-script"
+2026-11-07T00:48:48.496678Z,verdant-syntax,0.8.0,0,0,https://github.com/casualjim/verdant,Modern and easy syntax highlighting using tree-sitter
+2026-11-07T00:51:18.920578Z,ed521,0.1.0,0,0,https://github.com/tacio/ed521rs,"Fast verification of Ed521 signatures (EdDSA over E-521, ICP-Brasil DOC-ICP-01.01)"
+2026-11-07T00:52:47.142144Z,waft-embedder-web,0.1.0,0,0,https://github.com/xtyxtyx/waft-ui,Browser canvas host for Waft
+2026-11-07T00:54:44.158559Z,base-html-macros,0.1.0,0,0,https://github.com/base-rs/base-html,Compile-time template syntax for base-html
+2026-11-07T00:54:51.445553Z,base-html,0.1.0,0,0,https://github.com/base-rs/base-html,"Compiled HTML templates with escaped, writer-based rendering"
+2026-11-07T00:55:32.635205Z,segment-log-server,0.0.1,0,0,https://github.com/ironflowhq/segment-log,Placeholder: socket server for the Ironflow segment log (not yet usable).
+2026-11-07T00:56:26.230911Z,tpt-dsp-testkit,0.3.0,0,0,https://github.com/tpt-solutions/tpt-dsp,Test helpers for checking that tpt-dsp processing paths are allocation-free.
+2026-11-07T00:57:08.575697Z,tpt-dsp,0.3.0,0,0,https://github.com/tpt-solutions/tpt-dsp,"Facade for the tpt-dsp framework: one dependency, feature-gated re-exports and a prelude."
+2026-11-07T00:57:45.912959Z,pagesift-itna,1.2.0,0,0,https://github.com/YOLOW92/pagesift,Bounded access-barrier assessment and attempt orchestration for pagesift
+2026-11-07T01:03:08.525591Z,waft-embedder-winit,0.1.0,0,0,https://github.com/xtyxtyx/waft-ui,Native winit host for Waft
+2026-11-07T01:10:15.325704Z,hashu-core,0.1.0,0,0,https://github.com/asherp/hashu,"Core types for Hashu: terahash-hour (THH) units, share accounting and redemption records"
+2026-11-07T01:10:17.059636Z,hashu-mint,0.1.0,0,0,https://github.com/asherp/hashu,Cashu mint (built on CDK) that issues and redeems ecash denominated in terahash-hours
+2026-11-07T01:10:17.755967Z,hashu-proxy,0.1.0,0,0,https://github.com/asherp/hashu,Stratum V1 hashrate proxy for Hashu that credits shares and redirects hashrate to a redeemer's pool
+2026-11-07T01:10:19.749671Z,hashu,0.1.0,0,0,https://github.com/asherp/hashu,"The `hashu` command: run a Hashu hashrate mint and Stratum proxy, buy and redeem terahash-hours"
+2026-11-07T01:11:00.622069Z,turul-agent-skills,0.1.0,0,0,https://github.com/aussierobots/turul-agent-skills,"Parse, validate, render and catalog Agent Skills (SKILL.md) directories"
+2026-11-07T01:11:53.733616Z,fsm-forge,0.1.0,0,0,https://github.com/rafael-arreola/fsm-forge,"A dependency-free state machine engine: edges, scoped rules, diagnostics, and build-time validation."
+2026-11-07T01:13:24.742991Z,waft-foundation,0.1.0,0,0,https://github.com/xtyxtyx/waft-ui,"App, Handle, and Entity for Waft"
+2026-11-07T01:17:06.296847Z,r3akt-event-broker,0.16.1,0,0,https://github.com/FreeTAKTeam/LXMF-rs,Transport-independent durable SQLite event journal and authenticated consumer checkpoints
+2026-11-07T01:18:48.390585Z,isothrum-machine,1.0.3,0,0,https://github.com/Isothrum/isothrum,"Machine-setup domain for Isothrum: detect Docker, Vagrant, the hypervisors and the cloud CLIs, and self-test them by booting a throwaway container or VM."
