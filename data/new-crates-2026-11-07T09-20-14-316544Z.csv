@@ -1,0 +1,39 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-07T08:21:22.867028Z,intrlay-codegen,0.1.1,0,0,https://github.com/intrlay/intrlay,Language bindings generated from the common Intrlay schema
+2026-11-07T08:22:12.980628Z,bmsrs-bms-source,0.0.1,0,0,https://github.com/brightmeows/bmsrs,"BMS source-text layer: raw bytes, encoding, line index, and byte-faithful editing"
+2026-11-07T08:26:52.298198Z,bmsrs-bms-syntax,0.0.1,0,0,https://github.com/brightmeows/bmsrs,"BMS syntax layer: rowan CST, lexing, and error-tolerant parsing"
+2026-11-07T08:26:57.240626Z,bmsrs-bms-values-derive,0.0.1,0,0,https://github.com/brightmeows/bmsrs,"BMS/BMSON format parsing, processing and playback toolkit"
+2026-11-07T08:27:00.44685Z,bmsrs-pipeline,0.0.1,0,0,https://github.com/brightmeows/bmsrs,Shared pipeline result and diagnostic types
+2026-11-07T08:27:07.4101Z,bmsrs-bms-values,0.0.1,0,0,https://github.com/brightmeows/bmsrs,"BMS single-line syntax and typed values: headers/messages, indices, and parsing"
+2026-11-07T08:27:32.631567Z,codenav,0.1.0,0,0,https://github.com/Oni-zerone/codenav,Index a repository into a code graph and let LLMs explore it over MCP
+2026-11-07T08:31:16.782575Z,bmsrs-bms-analysis,0.0.1,0,0,https://github.com/brightmeows/bmsrs,"BMS analysis layer: diagnostics, symbol index, and editor data"
+2026-11-07T08:31:22.529821Z,intrlay-frontend-cpp,0.1.1,0,0,https://github.com/intrlay/intrlay,Clang-backed C++20 source frontend for Intrlay
+2026-11-07T08:36:58.291236Z,lavalock,0.1.0,0,0,https://github.com/roblillack/lavalock,A screen locker for Wayland and X11 with colorful drifting blobs
+2026-11-07T08:38:40.737298Z,canal-client,2.2.1,0,0,https://github.com/erikwang2013/canal-rust,Rust client SDK for Alibaba Canal servers.
+2026-11-07T08:39:17.63742Z,canal-sink,2.2.1,0,0,https://github.com/erikwang2013/canal-rust,Event sink pipeline and connector abstractions for canal-rust.
+2026-11-07T08:41:17.820442Z,intrlay-cli,0.1.1,0,0,https://github.com/intrlay/intrlay,Intrlay schema extraction and typed buffer view generator
+2026-11-07T08:41:46.366336Z,bmsrs-bms-model,0.0.1,0,0,https://github.com/brightmeows/bmsrs,"BMS whole-file model: metadata, timing, resources, and channel messages"
+2026-11-07T08:44:58.918407Z,nestrs-resilience,1.7.0,0,0,https://github.com/Joshyahweh/nestrs,"Retry, timeout, circuit breaker, bulkhead, and fallback policies for nestrs — NestJS @nestjs/resilience parity."
+2026-11-07T08:46:01.217936Z,nestrs-idempotency,1.7.0,0,0,https://github.com/Joshyahweh/nestrs,Idempotency-Key middleware for nestrs — NestJS @nestjs/idempotency parity.
+2026-11-07T08:47:03.632981Z,nestrs-outbox,1.7.0,0,0,https://github.com/Joshyahweh/nestrs,Transactional outbox / inbox / DLQ for nestrs — NestJS @nestjs/outbox parity.
+2026-11-07T08:48:06.049753Z,nestrs-locks,1.7.0,0,0,https://github.com/Joshyahweh/nestrs,Distributed lease locks for nestrs — NestJS @nestjs/locks parity.
+2026-11-07T08:49:07.838885Z,canal-instance,2.2.1,0,0,https://github.com/erikwang2013/canal-rust,"Instance manager wiring binlog capture, filters, and sinks for canal-rust."
+2026-11-07T08:49:08.68237Z,nestrs-mail,1.7.0,0,0,https://github.com/Joshyahweh/nestrs,Templated email for nestrs — NestJS @nestjs/mail parity.
+2026-11-07T08:50:11.146877Z,nestrs-webhooks,1.7.0,0,0,https://github.com/Joshyahweh/nestrs,Signed webhooks for nestrs — NestJS @nestjs/webhooks / Standard Webhooks parity.
+2026-11-07T08:52:01.583829Z,bmsrs-bms-parser,0.0.1,0,0,https://github.com/brightmeows/bmsrs,"BMS/BMSON format parsing, processing and playback toolkit"
+2026-11-07T08:55:02.445403Z,ukit-ml,0.1.0,0,0,https://codeberg.org/umukka/UKit.git,Feature-encoding infrastructure for machine-learning projects
+2026-11-07T08:55:36.617302Z,leptoskit_agent_ui,0.0.0,0,0,https://github.com/leptoskit/leptoskit,"Interfaces an AI agent writes at runtime: Markdown with components, variables, formulas, charts, and actions, interpreted safely into the leptoskit element tree."
+2026-11-07T08:58:07.911423Z,svo2mcap,0.1.1,0,0,,"CPU-only converter: ZED SVO2 recordings (ego + optional wrists) to one MCAP with ROS 2-typed messages, written in mcap-optimiser byte order with uncompressed chunks."
+2026-11-07T08:58:13.13752Z,ergokata,0.0.1,0,0,,"A typing coach that knows your keyboard: reads your real keymap (QMK, Vial, kanata, Keyboardio) and coaches finger habits and home-row mods. In development."
+2026-11-07T08:59:09.465249Z,canal-connector,2.2.1,0,0,https://github.com/erikwang2013/canal-rust,Kafka connector for canal-rust event sinks.
+2026-11-07T08:59:18.204509Z,gboost,0.1.0,0,0,https://github.com/rseko/gboost,Gradient boosting library in Rust
+2026-11-07T09:01:07.637697Z,bmsrs-chart,0.0.1,0,0,https://github.com/brightmeows/bmsrs,"BMS/BMSON format parsing, processing and playback toolkit"
+2026-11-07T09:04:51.988502Z,credential-lease-keychain,0.1.0,0,0,https://github.com/Unka-Malloc/Credential-Lease,"OS keychain custody backend for the Credential-Lease surface: protected generic-password items on the macOS Keychain, fail-closed elsewhere."
+2026-11-07T09:06:26.7382Z,canal-admin,2.2.1,0,0,https://github.com/erikwang2013/canal-rust,Admin REST API for canal-rust: instance and subscription management.
+2026-11-07T09:13:56.413338Z,ooxp,0.1.0,0,0,https://github.com/gaoyia/ooxp,Office Open XML Patch：用领域 JSON 读写 .xlsx / .docx / .pptx
+2026-11-07T09:13:57.417796Z,base-web-url,0.1.0,0,0,https://github.com/base-rs/base-web-url,"URL references, paths, and percent-encoding following RFC 3986"
+2026-11-07T09:14:32.559987Z,ooxp-cli,0.1.0,0,0,https://github.com/gaoyia/ooxp,ooxp 命令行：用领域 JSON 读写 .xlsx / .docx / .pptx
+2026-11-07T09:15:35.676703Z,a4mc,0.1.0,0,0,https://github.com/Unka-Malloc/Adapters-for-Messenger-Channels,"A4MC — the normalized messenger-channel contract: inbound updates, outbound sends with idempotency keys, delivery receipts, external channel identity, lane mechanism classification, and the host-inst…"
+2026-11-07T09:15:38.531563Z,a4mc-telegram,0.1.0,0,0,https://github.com/Unka-Malloc/Adapters-for-Messenger-Channels,"A4MC Telegram dialect: Bot API transport, getUpdates polling loop, inbound lowering onto the a4mc channel contract, per-chat pairing/binding store, slash-command surface, normalized outbound sends wi…"
+2026-11-07T09:16:29.154016Z,canal-server,2.2.1,0,0,https://github.com/erikwang2013/canal-rust,Canal wire-protocol TCP server for canal-rust.
+2026-11-07T09:17:54.028275Z,fhir-toolbox,0.1.0,0,0,https://github.com/octofhir/fhir-toolbox,"FHIR tools for agents, offline: find profiles and extensions, validate against an IG, evaluate FHIRPath, run views"
