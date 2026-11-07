@@ -8,52 +8,44 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-07 09:20 UTC
+## Latest list — 2026-11-07 10:18 UTC
 
-New crates published between 2026-11-07 08:21 UTC and 2026-11-07 09:20 UTC.
+New crates published between 2026-11-07 09:20 UTC and 2026-11-07 10:18 UTC.
 
-[Full CSV](data/new-crates-2026-11-07T09-20-14-316544Z.csv)
+[Full CSV](data/new-crates-2026-11-07T10-18-41-935384Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-07 08:21:22 | [intrlay-codegen](https://crates.io/crates/intrlay-codegen) | 0.1.1 | 0 | Language bindings generated from the common Intrlay schema |
-| 2026-11-07 08:22:12 | [bmsrs-bms-source](https://crates.io/crates/bmsrs-bms-source) | 0.0.1 | 0 | BMS source-text layer: raw bytes, encoding, line index, and byte-faithful editi… |
-| 2026-11-07 08:26:52 | [bmsrs-bms-syntax](https://crates.io/crates/bmsrs-bms-syntax) | 0.0.1 | 0 | BMS syntax layer: rowan CST, lexing, and error-tolerant parsing |
-| 2026-11-07 08:26:57 | [bmsrs-bms-values-derive](https://crates.io/crates/bmsrs-bms-values-derive) | 0.0.1 | 0 | BMS/BMSON format parsing, processing and playback toolkit |
-| 2026-11-07 08:27:00 | [bmsrs-pipeline](https://crates.io/crates/bmsrs-pipeline) | 0.0.1 | 0 | Shared pipeline result and diagnostic types |
-| 2026-11-07 08:27:07 | [bmsrs-bms-values](https://crates.io/crates/bmsrs-bms-values) | 0.0.1 | 0 | BMS single-line syntax and typed values: headers/messages, indices, and parsing |
-| 2026-11-07 08:27:32 | [codenav](https://crates.io/crates/codenav) | 0.1.0 | 0 | Index a repository into a code graph and let LLMs explore it over MCP |
-| 2026-11-07 08:31:16 | [bmsrs-bms-analysis](https://crates.io/crates/bmsrs-bms-analysis) | 0.0.1 | 0 | BMS analysis layer: diagnostics, symbol index, and editor data |
-| 2026-11-07 08:31:22 | [intrlay-frontend-cpp](https://crates.io/crates/intrlay-frontend-cpp) | 0.1.1 | 0 | Clang-backed C++20 source frontend for Intrlay |
-| 2026-11-07 08:36:58 | [lavalock](https://crates.io/crates/lavalock) | 0.1.0 | 0 | A screen locker for Wayland and X11 with colorful drifting blobs |
-| 2026-11-07 08:38:40 | [canal-client](https://crates.io/crates/canal-client) | 2.2.1 | 0 | Rust client SDK for Alibaba Canal servers. |
-| 2026-11-07 08:39:17 | [canal-sink](https://crates.io/crates/canal-sink) | 2.2.1 | 0 | Event sink pipeline and connector abstractions for canal-rust. |
-| 2026-11-07 08:41:17 | [intrlay-cli](https://crates.io/crates/intrlay-cli) | 0.1.1 | 0 | Intrlay schema extraction and typed buffer view generator |
-| 2026-11-07 08:41:46 | [bmsrs-bms-model](https://crates.io/crates/bmsrs-bms-model) | 0.0.1 | 0 | BMS whole-file model: metadata, timing, resources, and channel messages |
-| 2026-11-07 08:44:58 | [nestrs-resilience](https://crates.io/crates/nestrs-resilience) | 1.7.0 | 0 | Retry, timeout, circuit breaker, bulkhead, and fallback policies for nestrs — N… |
-| 2026-11-07 08:46:01 | [nestrs-idempotency](https://crates.io/crates/nestrs-idempotency) | 1.7.0 | 0 | Idempotency-Key middleware for nestrs — NestJS @nestjs/idempotency parity. |
-| 2026-11-07 08:47:03 | [nestrs-outbox](https://crates.io/crates/nestrs-outbox) | 1.7.0 | 0 | Transactional outbox / inbox / DLQ for nestrs — NestJS @nestjs/outbox parity. |
-| 2026-11-07 08:48:06 | [nestrs-locks](https://crates.io/crates/nestrs-locks) | 1.7.0 | 0 | Distributed lease locks for nestrs — NestJS @nestjs/locks parity. |
-| 2026-11-07 08:49:07 | [canal-instance](https://crates.io/crates/canal-instance) | 2.2.1 | 0 | Instance manager wiring binlog capture, filters, and sinks for canal-rust. |
-| 2026-11-07 08:49:08 | [nestrs-mail](https://crates.io/crates/nestrs-mail) | 1.7.0 | 0 | Templated email for nestrs — NestJS @nestjs/mail parity. |
-| 2026-11-07 08:50:11 | [nestrs-webhooks](https://crates.io/crates/nestrs-webhooks) | 1.7.0 | 0 | Signed webhooks for nestrs — NestJS @nestjs/webhooks / Standard Webhooks parity. |
-| 2026-11-07 08:52:01 | [bmsrs-bms-parser](https://crates.io/crates/bmsrs-bms-parser) | 0.0.1 | 0 | BMS/BMSON format parsing, processing and playback toolkit |
-| 2026-11-07 08:55:02 | [ukit-ml](https://crates.io/crates/ukit-ml) | 0.1.0 | 0 | Feature-encoding infrastructure for machine-learning projects |
-| 2026-11-07 08:55:36 | [leptoskit_agent_ui](https://crates.io/crates/leptoskit_agent_ui) | 0.0.0 | 0 | Interfaces an AI agent writes at runtime: Markdown with components, variables,… |
-| 2026-11-07 08:58:07 | [svo2mcap](https://crates.io/crates/svo2mcap) | 0.1.1 | 0 | CPU-only converter: ZED SVO2 recordings (ego + optional wrists) to one MCAP wit… |
-| 2026-11-07 08:58:13 | [ergokata](https://crates.io/crates/ergokata) | 0.0.1 | 0 | A typing coach that knows your keyboard: reads your real keymap (QMK, Vial, kan… |
-| 2026-11-07 08:59:09 | [canal-connector](https://crates.io/crates/canal-connector) | 2.2.1 | 0 | Kafka connector for canal-rust event sinks. |
-| 2026-11-07 08:59:18 | [gboost](https://crates.io/crates/gboost) | 0.1.0 | 0 | Gradient boosting library in Rust |
-| 2026-11-07 09:01:07 | [bmsrs-chart](https://crates.io/crates/bmsrs-chart) | 0.0.1 | 0 | BMS/BMSON format parsing, processing and playback toolkit |
-| 2026-11-07 09:04:51 | [credential-lease-keychain](https://crates.io/crates/credential-lease-keychain) | 0.1.0 | 0 | OS keychain custody backend for the Credential-Lease surface: protected generic… |
-| 2026-11-07 09:06:26 | [canal-admin](https://crates.io/crates/canal-admin) | 2.2.1 | 0 | Admin REST API for canal-rust: instance and subscription management. |
-| 2026-11-07 09:13:56 | [ooxp](https://crates.io/crates/ooxp) | 0.1.0 | 0 | Office Open XML Patch：用领域 JSON 读写 .xlsx / .docx / .pptx |
-| 2026-11-07 09:13:57 | [base-web-url](https://crates.io/crates/base-web-url) | 0.1.0 | 0 | URL references, paths, and percent-encoding following RFC 3986 |
-| 2026-11-07 09:14:32 | [ooxp-cli](https://crates.io/crates/ooxp-cli) | 0.1.0 | 0 | ooxp 命令行：用领域 JSON 读写 .xlsx / .docx / .pptx |
-| 2026-11-07 09:15:35 | [a4mc](https://crates.io/crates/a4mc) | 0.1.0 | 0 | A4MC — the normalized messenger-channel contract: inbound updates, outbound sen… |
-| 2026-11-07 09:15:38 | [a4mc-telegram](https://crates.io/crates/a4mc-telegram) | 0.1.0 | 0 | A4MC Telegram dialect: Bot API transport, getUpdates polling loop, inbound lowe… |
-| 2026-11-07 09:16:29 | [canal-server](https://crates.io/crates/canal-server) | 2.2.1 | 0 | Canal wire-protocol TCP server for canal-rust. |
-| 2026-11-07 09:17:54 | [fhir-toolbox](https://crates.io/crates/fhir-toolbox) | 0.1.0 | 0 | FHIR tools for agents, offline: find profiles and extensions, validate against… |
+| 2026-11-07 09:31:19 | [canal-cli](https://crates.io/crates/canal-cli) | 2.2.1 | 0 | Command-line interface for canal-rust, a Rust rewrite of Alibaba Canal. |
+| 2026-11-07 09:32:15 | [knave](https://crates.io/crates/knave) | 0.0.0 | 0 | Reserved for the Knave programming language, a Lisp implemented in Rust. Under… |
+| 2026-11-07 09:37:47 | [muy-loco-admin](https://crates.io/crates/muy-loco-admin) | 0.1.0 | 0 | An auto-generated admin dashboard for Loco apps, driven by SeaORM entity metada… |
+| 2026-11-07 09:41:02 | [agtmls-lsp](https://crates.io/crates/agtmls-lsp) | 0.0.3 | 0 | Language Server Protocol implementation for AgtMLS agent skills: live security… |
+| 2026-11-07 09:43:15 | [md-frontmatter-splitter-cli](https://crates.io/crates/md-frontmatter-splitter-cli) | 0.1.0 | 0 | CLI tool that reads a Markdown file, splits the YAML front matter and the body,… |
+| 2026-11-07 09:45:27 | [bmsrs-player](https://crates.io/crates/bmsrs-player) | 0.0.1 | 0 | BMS/BMSON format parsing, processing and playback toolkit |
+| 2026-11-07 09:46:41 | [bmsrs-bms-processor](https://crates.io/crates/bmsrs-bms-processor) | 0.0.1 | 0 | BMS/BMSON format parsing, processing and playback toolkit |
+| 2026-11-07 09:46:46 | [bmsrs-bms-writer](https://crates.io/crates/bmsrs-bms-writer) | 0.0.1 | 0 | BMS/BMSON format parsing, processing and playback toolkit |
+| 2026-11-07 09:46:57 | [bmsrs-bmson-model](https://crates.io/crates/bmsrs-bmson-model) | 0.0.1 | 0 | BMS/BMSON format parsing, processing and playback toolkit |
+| 2026-11-07 09:47:10 | [divine-format](https://crates.io/crates/divine-format) | 0.1.0 | 0 | Divine Format: GGUF parser and Divine-MTP tensor layer indexer |
+| 2026-11-07 09:48:34 | [typol-core](https://crates.io/crates/typol-core) | 0.1.0 | 0 | Core values, source handling, diagnostics, and execution budgets for Typol. |
+| 2026-11-07 09:48:35 | [typol-model](https://crates.io/crates/typol-model) | 0.1.0 | 0 | Shared Schema operators and built-in type definitions for Typol. |
+| 2026-11-07 09:48:36 | [typol-i18n](https://crates.io/crates/typol-i18n) | 0.1.0 | 0 | English and Simplified Chinese message catalogs for Typol. |
+| 2026-11-07 09:48:37 | [typol-policy](https://crates.io/crates/typol-policy) | 0.1.0 | 0 | Shared resource-limit policies for Typol. |
+| 2026-11-07 09:48:39 | [typol-regex](https://crates.io/crates/typol-regex) | 0.1.0 | 0 | Bounded regular-expression compiler and matcher for Typol. |
+| 2026-11-07 09:49:37 | [divine-quantizer](https://crates.io/crates/divine-quantizer) | 0.1.0 | 0 | Quantize supported Hugging Face Safetensors models directly to Divine MTP |
+| 2026-11-07 09:51:00 | [purrdf-zstd](https://crates.io/crates/purrdf-zstd) | 0.0.0 | 0 | Empty registry bootstrap for purrdf-zstd; use the functional release |
+| 2026-11-07 09:51:02 | [purrdf-geo-kernel](https://crates.io/crates/purrdf-geo-kernel) | 0.0.0 | 0 | Empty registry bootstrap for purrdf-geo-kernel; use the functional release |
+| 2026-11-07 09:51:05 | [purrdf-mime](https://crates.io/crates/purrdf-mime) | 0.0.0 | 0 | Empty registry bootstrap for purrdf-mime; use the functional release |
+| 2026-11-07 09:51:07 | [purrdf-toml](https://crates.io/crates/purrdf-toml) | 0.0.0 | 0 | Empty registry bootstrap for purrdf-toml; use the functional release |
+| 2026-11-07 09:51:10 | [purrdf-yaml](https://crates.io/crates/purrdf-yaml) | 0.0.0 | 0 | Empty registry bootstrap for purrdf-yaml; use the functional release |
+| 2026-11-07 09:51:21 | [bmsrs-bmson-processor](https://crates.io/crates/bmsrs-bmson-processor) | 0.0.1 | 0 | BMS/BMSON format parsing, processing and playback toolkit |
+| 2026-11-07 09:55:09 | [acop-usage-core](https://crates.io/crates/acop-usage-core) | 0.1.0 | 0 | Pure schema planning and usage-record decoding for declared artifact stores |
+| 2026-11-07 09:56:07 | [metera-sdk](https://crates.io/crates/metera-sdk) | 0.1.0 | 0 | Rust host SDK for the shared Metera WebAssembly usage kernel |
+| 2026-11-07 09:56:23 | [purrdf-glob](https://crates.io/crates/purrdf-glob) | 0.0.0 | 0 | Empty registry bootstrap for purrdf-glob; use the functional release |
+| 2026-11-07 09:56:47 | [acop-usage-source](https://crates.io/crates/acop-usage-source) | 0.1.0 | 0 | Agent-side token counters read through ACOP transcripts, emitted as usage-obser… |
+| 2026-11-07 10:01:19 | [bmsrs](https://crates.io/crates/bmsrs) | 0.0.1 | 0 | BMS/BMSON format parsing, processing and playback toolkit |
+| 2026-11-07 10:09:38 | [sprawling-benchstat](https://crates.io/crates/sprawling-benchstat) | 0.0.15 | 0 | Deterministic statistical analysis, verification and reports for sprawling benc… |
+| 2026-11-07 10:11:49 | [likyly](https://crates.io/crates/likyly) | 1.0.0 | 0 | Product recommendations for your site ("You may also like", "Recommended for yo… |
+| 2026-11-07 10:17:19 | [tauri-plugin-delta-updater](https://crates.io/crates/tauri-plugin-delta-updater) | 0.2.1 | 0 | Tauri v2 plugin for tauri-delta-updater: delta updates, full-installer fallback… |
 
 ## Data source
 

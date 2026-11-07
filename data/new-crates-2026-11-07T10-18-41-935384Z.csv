@@ -1,0 +1,31 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-07T09:31:19.667475Z,canal-cli,2.2.1,0,0,https://github.com/erikwang2013/canal-rust,"Command-line interface for canal-rust, a Rust rewrite of Alibaba Canal."
+2026-11-07T09:32:15.961938Z,knave,0.0.0,0,0,,"Reserved for the Knave programming language, a Lisp implemented in Rust. Under development."
+2026-11-07T09:37:47.862304Z,muy-loco-admin,0.1.0,0,0,https://github.com/zesuperaker/muy-loco-admin,"An auto-generated admin dashboard for Loco apps, driven by SeaORM entity metadata"
+2026-11-07T09:41:02.86393Z,agtmls-lsp,0.0.3,0,0,https://github.com/sebastienrousseau/agtmls-lsp,"Language Server Protocol implementation for AgtMLS agent skills: live security diagnostics, frontmatter completion, and capability-narrowing code actions"
+2026-11-07T09:43:15.559268Z,md-frontmatter-splitter-cli,0.1.0,0,0,https://github.com/00x4/md-frontmatter-splitter-cli,"CLI tool that reads a Markdown file, splits the YAML front matter and the body, and outputs them as JSON"
+2026-11-07T09:45:27.528936Z,bmsrs-player,0.0.1,0,0,https://github.com/brightmeows/bmsrs,"BMS/BMSON format parsing, processing and playback toolkit"
+2026-11-07T09:46:41.692889Z,bmsrs-bms-processor,0.0.1,0,0,https://github.com/brightmeows/bmsrs,"BMS/BMSON format parsing, processing and playback toolkit"
+2026-11-07T09:46:46.549253Z,bmsrs-bms-writer,0.0.1,0,0,https://github.com/brightmeows/bmsrs,"BMS/BMSON format parsing, processing and playback toolkit"
+2026-11-07T09:46:57.159169Z,bmsrs-bmson-model,0.0.1,0,0,https://github.com/brightmeows/bmsrs,"BMS/BMSON format parsing, processing and playback toolkit"
+2026-11-07T09:47:10.947906Z,divine-format,0.1.0,0,0,https://github.com/divine-framework/divine,Divine Format: GGUF parser and Divine-MTP tensor layer indexer
+2026-11-07T09:48:34.371229Z,typol-core,0.1.0,0,0,https://github.com/shaogme/typol,"Core values, source handling, diagnostics, and execution budgets for Typol."
+2026-11-07T09:48:35.294127Z,typol-model,0.1.0,0,0,https://github.com/shaogme/typol,Shared Schema operators and built-in type definitions for Typol.
+2026-11-07T09:48:36.706465Z,typol-i18n,0.1.0,0,0,https://github.com/shaogme/typol,English and Simplified Chinese message catalogs for Typol.
+2026-11-07T09:48:37.630861Z,typol-policy,0.1.0,0,0,https://github.com/shaogme/typol,Shared resource-limit policies for Typol.
+2026-11-07T09:48:39.073056Z,typol-regex,0.1.0,0,0,https://github.com/shaogme/typol,Bounded regular-expression compiler and matcher for Typol.
+2026-11-07T09:49:37.135653Z,divine-quantizer,0.1.0,0,0,https://github.com/divine-framework/divine,Quantize supported Hugging Face Safetensors models directly to Divine MTP
+2026-11-07T09:51:00.146274Z,purrdf-zstd,0.0.0,0,0,https://github.com/Blackcat-Informatics/purrdf,Empty registry bootstrap for purrdf-zstd; use the functional release
+2026-11-07T09:51:02.678042Z,purrdf-geo-kernel,0.0.0,0,0,https://github.com/Blackcat-Informatics/purrdf,Empty registry bootstrap for purrdf-geo-kernel; use the functional release
+2026-11-07T09:51:05.163412Z,purrdf-mime,0.0.0,0,0,https://github.com/Blackcat-Informatics/purrdf,Empty registry bootstrap for purrdf-mime; use the functional release
+2026-11-07T09:51:07.80297Z,purrdf-toml,0.0.0,0,0,https://github.com/Blackcat-Informatics/purrdf,Empty registry bootstrap for purrdf-toml; use the functional release
+2026-11-07T09:51:10.316777Z,purrdf-yaml,0.0.0,0,0,https://github.com/Blackcat-Informatics/purrdf,Empty registry bootstrap for purrdf-yaml; use the functional release
+2026-11-07T09:51:21.203826Z,bmsrs-bmson-processor,0.0.1,0,0,https://github.com/brightmeows/bmsrs,"BMS/BMSON format parsing, processing and playback toolkit"
+2026-11-07T09:55:09.521575Z,acop-usage-core,0.1.0,0,0,https://github.com/Unka-Malloc/Agent-Context-Operators,Pure schema planning and usage-record decoding for declared artifact stores
+2026-11-07T09:56:07.835197Z,metera-sdk,0.1.0,0,0,https://github.com/Unka-Malloc/Metera,Rust host SDK for the shared Metera WebAssembly usage kernel
+2026-11-07T09:56:23.770654Z,purrdf-glob,0.0.0,0,0,https://github.com/Blackcat-Informatics/purrdf,Empty registry bootstrap for purrdf-glob; use the functional release
+2026-11-07T09:56:47.238662Z,acop-usage-source,0.1.0,0,0,https://github.com/Unka-Malloc/Metera,"Agent-side token counters read through ACOP transcripts, emitted as usage-observation payloads"
+2026-11-07T10:01:19.821943Z,bmsrs,0.0.1,0,0,https://github.com/brightmeows/bmsrs,"BMS/BMSON format parsing, processing and playback toolkit"
+2026-11-07T10:09:38.774691Z,sprawling-benchstat,0.0.15,0,0,https://github.com/2youg1/sprawling-agents,"Deterministic statistical analysis, verification and reports for sprawling benchmark rounds."
+2026-11-07T10:11:49.048864Z,likyly,1.0.0,0,0,https://github.com/Likyly/likyly-recsys,"Product recommendations for your site (""You may also like"", ""Recommended for you""), learned from what your visitors do. Official LIKYLY client."
+2026-11-07T10:17:19.836001Z,tauri-plugin-delta-updater,0.2.1,0,0,https://github.com/zuoqiuning/tauri-delta-updater,"Tauri v2 plugin for tauri-delta-updater: delta updates, full-installer fallback, events and permissions."
