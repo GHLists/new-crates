@@ -1,0 +1,20 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-08T07:27:32.549632Z,cuora-identity-file,0.1.0,0,0,https://github.com/9aia/cuora,Identity impl: the ~/.config/cuora/identity.txt age keyfile (0600) — the headless/CI default
+2026-11-08T07:27:44.31532Z,rsbinder-topic,0.1.0,0,0,https://github.com/hiking90/rsbinder,"One publisher and many subscribers over kernel binder: a binder call sets a subscription up, and the records then travel through shared memory the subscribers map read-only. Experimental."
+2026-11-08T07:27:53.899893Z,purrdf-alloc-probe,0.0.0,0,0,https://github.com/Blackcat-Informatics/purrdf,Empty registry bootstrap for purrdf-alloc-probe; use the functional release
+2026-11-08T07:27:56.949734Z,purrdf-testkit,0.0.0,0,0,https://github.com/Blackcat-Informatics/purrdf,Empty registry bootstrap for purrdf-testkit; use the functional release
+2026-11-08T07:27:59.51877Z,purrdf-conformance-kit,0.0.0,0,0,https://github.com/Blackcat-Informatics/purrdf,Empty registry bootstrap for purrdf-conformance-kit; use the functional release
+2026-11-08T07:34:04.868438Z,bitspark-thesmos,1.0.0-preview.7,0,0,https://github.com/Bitspark/thesmos,"The Spaces authority receiver: verify a supplied proof under the frozen law, with Logos's Rust checker."
+2026-11-08T07:37:47.600745Z,cuora-identity-keyring,0.1.0,0,0,https://github.com/9aia/cuora,Identity impl: the platform session secret store (secret-service / Keychain / Credential Manager) via keyring-core
+2026-11-08T07:45:22.759773Z,libterm,0.0.0,0,0,,Cross-platform terminal manipulation library
+2026-11-08T07:47:55.179684Z,cuora-vault,0.1.0,0,0,https://github.com/9aia/cuora,"Vault port: readable secret stores — get/put/rm/list/rotate, per-env; every impl stores opaque ciphertext"
+2026-11-08T07:54:56.002619Z,cakedome,0.1.0,0,0,https://github.com/suikui/cakedome,An ORM layer on SeaORM that runs every read and write of an entity through a Repo with a Policy
+2026-11-08T07:58:16.908915Z,ppoppo-pcs-mcp-proto,0.1.0,0,0,https://github.com/hakchin/ppoppo,"PCS /mcp face wire contract (pcs.mcp.v1) — the published MCP tool list: names, descriptions, input/output schemas, annotations"
+2026-11-08T07:58:43.211482Z,cuora-testkit,0.1.0,0,0,https://github.com/9aia/cuora,Vault conformance suite — every cuora-vault impl passes the same contract tests (fake values only)
+2026-11-08T08:02:36.885129Z,lsec-core,0.1.0,0,0,https://github.com/sfossl/lsec,"Core defense-in-depth local security engine for memory isolation, cryptography and secrets management."
+2026-11-08T08:08:50.306723Z,lsec-ffi,0.1.0,0,0,https://github.com/sfossl/lsec,C-ABI foreign function interface and header exports for lsec.
+2026-11-08T08:09:03.431936Z,cuora-vault-age,0.1.0,0,0,https://github.com/9aia/cuora,Local vault impl: one age-x25519-encrypted JSON doc — the v1 default backend
+2026-11-08T08:09:29.18893Z,lsec-wasm,0.1.0,0,0,https://github.com/sfossl/lsec,WebAssembly interface for lsec in offline PWAs and browser clients.
+2026-11-08T08:13:31.558468Z,candle-roformer,0.1.0,0,0,https://github.com/AlexeyShirshov/candle-roformer,Offline Rust/Candle library for vocal/instrumental separation and vocal transcription
+2026-11-08T08:15:49.602481Z,bevy_elf_core,0.1.0,0,0,https://github.com/Koettlitz/bevy_utils,"Core traits, types and impls for common bevy types"
+2026-11-08T08:16:31.591076Z,elf_macro_utils,0.1.0,0,0,https://github.com/Koettlitz/bevy_utils,Helper types and functions for writing procedural macros

@@ -8,44 +8,33 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-08 07:19 UTC
+## Latest list — 2026-11-08 08:18 UTC
 
-New crates published between 2026-11-08 06:20 UTC and 2026-11-08 07:19 UTC.
+New crates published between 2026-11-08 07:19 UTC and 2026-11-08 08:18 UTC.
 
-[Full CSV](data/new-crates-2026-11-08T07-19-33-944547Z.csv)
+[Full CSV](data/new-crates-2026-11-08T08-18-22-123044Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-08 06:20:24 | [roomvana](https://crates.io/crates/roomvana) | 0.1.0 | 0 | Rust client for the Roomvana AI interior design catalog and design links |
-| 2026-11-08 06:21:08 | [canvist_extension_comments](https://crates.io/crates/canvist_extension_comments) | 0.0.0 | 0 | canvist: A `comment` mark holding thread ids, for comment threads anchored to t… |
-| 2026-11-08 06:25:46 | [motion-encode](https://crates.io/crates/motion-encode) | 0.1.0 | 0 | Transactional encoding and stateless audio preparation |
-| 2026-11-08 06:26:02 | [pdfcer-jpeg-remux](https://crates.io/crates/pdfcer-jpeg-remux) | 0.137.0 | 0 | Lossless rewrite of a sequential JPEG whose components arrive in separate scans… |
-| 2026-11-08 06:26:07 | [motion-formula](https://crates.io/crates/motion-formula) | 0.1.0 | 0 | Typst-only compilation into shared motion vector content |
-| 2026-11-08 06:26:41 | [pdfcer-image-codec](https://crates.io/crates/pdfcer-image-codec) | 0.137.0 | 0 | pdfcer terminal image codecs: DCTDecode, CCITTFaxDecode, JBIG2Decode and JPXDec… |
-| 2026-11-08 06:26:45 | [pdfcer-fonts](https://crates.io/crates/pdfcer-fonts) | 0.137.0 | 0 | pdfcer fonts and text encoding: font data, font inventory, font embedding, PDF… |
-| 2026-11-08 06:26:49 | [pdfcer-function](https://crates.io/crates/pdfcer-function) | 0.137.0 | 0 | pdfcer PDF functions: sampled, exponential, stitching and PostScript calculator… |
-| 2026-11-08 06:26:58 | [pdfcer-text](https://crates.io/crates/pdfcer-text) | 0.137.0 | 0 | pdfcer text: text extraction (ISO 32000-1 9.10), ToUnicode CMaps and the text-s… |
-| 2026-11-08 06:29:30 | [pdfcer-core](https://crates.io/crates/pdfcer-core) | 0.137.0 | 0 | pdfcer PDF engine: reading, editing and saving PDFs with minimal-diff increment… |
-| 2026-11-08 06:29:59 | [motion-scene](https://crates.io/crates/motion-scene) | 0.1.0 | 0 | Declarative JSON scene documents for motion timelines |
-| 2026-11-08 06:30:22 | [canvist_extension_drag_handle](https://crates.io/crates/canvist_extension_drag_handle) | 0.0.0 | 0 | canvist: Move blocks up and down with `Alt-↑` and `Alt-↓`, or to any position,… |
-| 2026-11-08 06:38:36 | [pdfcer-render](https://crates.io/crates/pdfcer-render) | 0.137.0 | 0 | pdfcer headless PDF renderer: pages and regions to RGBA pixmaps (cancellable),… |
-| 2026-11-08 06:39:00 | [motion-studio](https://crates.io/crates/motion-studio) | 0.1.0 | 0 | Native desktop preview, playback and export workbench |
-| 2026-11-08 06:49:42 | [motion-rs](https://crates.io/crates/motion-rs) | 0.1.0 | 0 | Frame-based motion graphics and programmable video rendering in Rust |
-| 2026-11-08 06:52:08 | [xidong](https://crates.io/crates/xidong) | 0.1.0 | 0 | 西东智能体：以 Shell 为唯一工具的轻量命令行智能体 |
-| 2026-11-08 06:52:51 | [web-access](https://crates.io/crates/web-access) | 0.4.1 | 0 | Put an axum app on the local network safely: listen settings, minted tokens, a… |
-| 2026-11-08 06:55:26 | [bpmnkit-spec](https://crates.io/crates/bpmnkit-spec) | 0.1.0 | 0 | BPMN Kit's single-source data (FEEL built-ins, lint rules, Camunda compatibilit… |
-| 2026-11-08 06:55:48 | [bpmnkit-xml](https://crates.io/crates/bpmnkit-xml) | 0.1.0 | 0 | Lossless XML reader and writer for BPMN Kit: keeps prefixes, attribute order an… |
-| 2026-11-08 06:56:08 | [bpmnkit-bpmn](https://crates.io/crates/bpmnkit-bpmn) | 0.1.0 | 0 | BPMN 2.0 + Zeebe model, parser and lossless serializer for BPMN Kit (Rust twin… |
-| 2026-11-08 06:56:34 | [bpmnkit-feel](https://crates.io/crates/bpmnkit-feel) | 0.1.0 | 0 | FEEL (DMN 1.5 + Camunda extensions) lexer, parser and evaluator with exact deci… |
-| 2026-11-08 06:56:52 | [bpmnkit-form](https://crates.io/crates/bpmnkit-form) | 0.1.0 | 0 | Camunda Form model, parser and serializer for BPMN Kit (Rust twin of @bpmnkit/c… |
-| 2026-11-08 07:00:44 | [oim-media](https://crates.io/crates/oim-media) | 1.27.8 | 0 | Read, verify and interpret .oim files |
-| 2026-11-08 07:08:40 | [tt-isa](https://crates.io/crates/tt-isa) | 0.1.0 | 0 | Blackhole ISA: instruction encoders, register maps, coordinate spaces. no_std,… |
-| 2026-11-08 07:09:27 | [cuora-core](https://crates.io/crates/cuora-core) | 0.1.0 | 0 | cuora domain core: cuora:// refs, redacting Secret, env axis, actor, config mod… |
-| 2026-11-08 07:09:31 | [cuora-config](https://crates.io/crates/cuora-config) | 0.1.0 | 0 | Config port: where cuora.toml-shaped config comes from |
-| 2026-11-08 07:09:38 | [cuora-config-toml](https://crates.io/crates/cuora-config-toml) | 0.1.0 | 0 | Config impl: cuora.toml file (explicit path, env, ./, ~/.config) |
-| 2026-11-08 07:09:41 | [cuora-deploy](https://crates.io/crates/cuora-deploy) | 0.1.0 | 0 | Deploy port: write-only push targets (sinks) for secret values — never a source |
-| 2026-11-08 07:09:46 | [cuora-identity](https://crates.io/crates/cuora-identity) | 0.1.0 | 0 | Identity port: where the age identity (master key) comes from — file, keyring,… |
-| 2026-11-08 07:17:04 | [cuora-notice](https://crates.io/crates/cuora-notice) | 0.1.0 | 0 | Process-wide UX notices — muted/replayed stderr notes that must not corrupt the… |
+| 2026-11-08 07:27:32 | [cuora-identity-file](https://crates.io/crates/cuora-identity-file) | 0.1.0 | 0 | Identity impl: the ~/.config/cuora/identity.txt age keyfile (0600) — the headle… |
+| 2026-11-08 07:27:44 | [rsbinder-topic](https://crates.io/crates/rsbinder-topic) | 0.1.0 | 0 | One publisher and many subscribers over kernel binder: a binder call sets a sub… |
+| 2026-11-08 07:27:53 | [purrdf-alloc-probe](https://crates.io/crates/purrdf-alloc-probe) | 0.0.0 | 0 | Empty registry bootstrap for purrdf-alloc-probe; use the functional release |
+| 2026-11-08 07:27:56 | [purrdf-testkit](https://crates.io/crates/purrdf-testkit) | 0.0.0 | 0 | Empty registry bootstrap for purrdf-testkit; use the functional release |
+| 2026-11-08 07:27:59 | [purrdf-conformance-kit](https://crates.io/crates/purrdf-conformance-kit) | 0.0.0 | 0 | Empty registry bootstrap for purrdf-conformance-kit; use the functional release |
+| 2026-11-08 07:34:04 | [bitspark-thesmos](https://crates.io/crates/bitspark-thesmos) | 1.0.0-preview.7 | 0 | The Spaces authority receiver: verify a supplied proof under the frozen law, wi… |
+| 2026-11-08 07:37:47 | [cuora-identity-keyring](https://crates.io/crates/cuora-identity-keyring) | 0.1.0 | 0 | Identity impl: the platform session secret store (secret-service / Keychain / C… |
+| 2026-11-08 07:45:22 | [libterm](https://crates.io/crates/libterm) | 0.0.0 | 0 | Cross-platform terminal manipulation library |
+| 2026-11-08 07:47:55 | [cuora-vault](https://crates.io/crates/cuora-vault) | 0.1.0 | 0 | Vault port: readable secret stores — get/put/rm/list/rotate, per-env; every imp… |
+| 2026-11-08 07:54:56 | [cakedome](https://crates.io/crates/cakedome) | 0.1.0 | 0 | An ORM layer on SeaORM that runs every read and write of an entity through a Re… |
+| 2026-11-08 07:58:16 | [ppoppo-pcs-mcp-proto](https://crates.io/crates/ppoppo-pcs-mcp-proto) | 0.1.0 | 0 | PCS /mcp face wire contract (pcs.mcp.v1) — the published MCP tool list: names,… |
+| 2026-11-08 07:58:43 | [cuora-testkit](https://crates.io/crates/cuora-testkit) | 0.1.0 | 0 | Vault conformance suite — every cuora-vault impl passes the same contract tests… |
+| 2026-11-08 08:02:36 | [lsec-core](https://crates.io/crates/lsec-core) | 0.1.0 | 0 | Core defense-in-depth local security engine for memory isolation, cryptography… |
+| 2026-11-08 08:08:50 | [lsec-ffi](https://crates.io/crates/lsec-ffi) | 0.1.0 | 0 | C-ABI foreign function interface and header exports for lsec. |
+| 2026-11-08 08:09:03 | [cuora-vault-age](https://crates.io/crates/cuora-vault-age) | 0.1.0 | 0 | Local vault impl: one age-x25519-encrypted JSON doc — the v1 default backend |
+| 2026-11-08 08:09:29 | [lsec-wasm](https://crates.io/crates/lsec-wasm) | 0.1.0 | 0 | WebAssembly interface for lsec in offline PWAs and browser clients. |
+| 2026-11-08 08:13:31 | [candle-roformer](https://crates.io/crates/candle-roformer) | 0.1.0 | 0 | Offline Rust/Candle library for vocal/instrumental separation and vocal transcr… |
+| 2026-11-08 08:15:49 | [bevy_elf_core](https://crates.io/crates/bevy_elf_core) | 0.1.0 | 0 | Core traits, types and impls for common bevy types |
+| 2026-11-08 08:16:31 | [elf_macro_utils](https://crates.io/crates/elf_macro_utils) | 0.1.0 | 0 | Helper types and functions for writing procedural macros |
 
 ## Data source
 
