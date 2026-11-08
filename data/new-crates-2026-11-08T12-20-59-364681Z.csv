@@ -1,0 +1,37 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-08T11:19:43.273518Z,openraft-membership,0.10.0-alpha.38,0,0,https://github.com/databendlabs/openraft,Provided membership implementations for OpenRaft
+2026-11-08T11:19:50.568425Z,grantry,0.0.0,0,0,https://github.com/factorial-io/grantry,"OAuth 2.1 authorization server building blocks for Rust web apps and MCP servers (placeholder, work in progress)"
+2026-11-08T11:20:18.901523Z,blazeserve,1.0.0,0,0,https://github.com/whoisjayd/blazeserve,"High-performance HTTP file server and CLI with range requests, resumable transfers, caching, TLS, uploads, ZIP streaming, rate limiting, and Prometheus metrics."
+2026-11-08T11:23:40.041383Z,k8s-device-plugin-dra-core,0.6.0,0,0,https://github.com/rkubectl/k8s-device-plugin-rs,Core contracts for Kubernetes DRA drivers
+2026-11-08T11:25:33.15235Z,tec-client,1.0.0,0,0,https://github.com/EvanCarroll/wp-events,Strongly typed async client for The Events Calendar (WordPress) REST APIs: tribe/events/v1 and tec/v1
+2026-11-08T11:26:21.760644Z,sealtask-agent,0.5.1,0,0,https://github.com/sealtask/sealtask-oss,Local SealTask agent runner for project-scoped Codex harnesses
+2026-11-08T11:26:22.392759Z,tec-crawl,1.0.0,0,0,https://github.com/EvanCarroll/wp-events,Crawl The Events Calendar REST APIs and emit JSON lines
+2026-11-08T11:27:01.524721Z,tamias-source-git,0.1.0,0,0,https://github.com/9aia/tamias,git source impl — clone URL //subdir #rev
+2026-11-08T11:27:44.303434Z,plasticism-draw,0.1.0,0,0,https://github.com/ChenWuwei404/plasticism-draw,A simple lib to draw not only simple shapes on canvas.
+2026-11-08T11:29:02.978945Z,jflib-rt,0.1.0,0,0,https://github.com/JFLibrary/JFLib,"JFLib's runtime without std: allocator, memory intrinsics, program entry, panic handling"
+2026-11-08T11:30:23.730121Z,authbox-cache,0.1.0,0,0,https://github.com/anomalous254/authbox,In-memory user cache (moka) for AuthBox
+2026-11-08T11:32:41.867958Z,git-check-core,0.1.0,0,0,https://github.com/ammonvictor/git-check-app,"Portfolio-wide git inspection: repository discovery, scanning and metrics"
+2026-11-08T11:33:01.156446Z,git-check,0.1.0,0,0,https://github.com/ammonvictor/git-check-app,"Portfolio-wide git status for a folder of projects, from the CLI today and a tray app next"
+2026-11-08T11:37:36.472928Z,tamias-store,0.1.0,0,0,https://github.com/9aia/tamias,store port — content-addressed blobs
+2026-11-08T11:39:27.871359Z,jflib-shader,0.1.0,0,0,https://github.com/JFLibrary/JFLib,"SPIR-V for JFLib's GPU code: module builder, disassembler, validator, std140 and std430 layouts"
+2026-11-08T11:46:59.105492Z,tamias-cache-cf,0.1.0,0,0,https://github.com/9aia/tamias,Cloudflare adapter (P6)
+2026-11-08T11:48:47.225532Z,testls-scan,0.6.0,0,0,https://github.com/kjpopov/testls,Scan pipeline that runs the testls probes and checks against one server.
+2026-11-08T11:49:16.870719Z,testls-server,0.6.0,0,0,https://github.com/kjpopov/testls,HTTP service that runs testls scans and streams their progress.
+2026-11-08T11:49:52.642914Z,jflib-style-assets,0.1.0,0,0,https://github.com/JFLibrary/JFLib,The fonts and the icon set JFLib's styles share
+2026-11-08T11:50:12.775127Z,ina228-driver,0.1.1,0,0,https://github.com/naext-gmbh/ina228-driver,no_std driver for the TI INA228 power/energy/charge monitor (embedded-hal sync and async)
+2026-11-08T11:57:22.990165Z,tamias-deploy,0.1.0,0,0,https://github.com/9aia/tamias,deploy port — provision a remote registry (Worker + R2 + D1/KV)
+2026-11-08T11:57:27.930669Z,rhwp-jpeg-decoder,0.3.2-rhwp.1,0,0,https://github.com/image-rs/jpeg-decoder,"Bounded JPEG decoder for rhwp PDF import, based on jpeg-decoder 0.3.2"
+2026-11-08T11:57:57.474142Z,rhwp-jpeg-encoder,0.7.1-rhwp.1,0,0,https://github.com/vstroebel/jpeg-encoder,JPEG encoder
+2026-11-08T11:58:06.426787Z,rhwp-ooxml-chart,0.1.0,0,0,https://github.com/edwardkim/rhwp,OOXML chart parsing and model support for rhwp
+2026-11-08T11:58:17.13717Z,rhwp-password-crypto,0.1.0,0,0,https://github.com/edwardkim/rhwp,"Shared HWP3, HWP5, and HWPX password cryptography for rhwp"
+2026-11-08T11:58:27.20393Z,rhwp-svg2pdf,0.13.0-rhwp.1,0,0,https://github.com/edwardkim/rhwp,rhwp SVG-to-PDF compatibility backend based on svg2pdf 0.13.0; not an official upstream release
+2026-11-08T12:00:18.518943Z,jflib-text-shape,0.1.0,0,0,https://github.com/JFLibrary/JFLib,"OpenType shaping and Unicode bidi for JFLib, on pinned no_std crates"
+2026-11-08T12:01:55.744139Z,rs-loxone,0.1.0,0,0,https://github.com/JoDehli/rs-loxone,"Low-level async client for the Loxone Miniserver: login, state updates, commands, reconnects."
+2026-11-08T12:05:14.144791Z,rhwp-zune-jpeg,0.5.15-rhwp.1,0,0,,Request-bounded security patch of zune-jpeg for rhwp PDF import
+2026-11-08T12:07:54.851746Z,tamias-source-fs,0.1.0,0,0,https://github.com/9aia/tamias,fs source impl — local dirs and tarballs
+2026-11-08T12:10:45.028678Z,jflib-agent-core,0.1.0,0,0,https://github.com/JFLibrary/JFLib,Transport-independent action contracts and bounded JSON for JFLib's agent interface
+2026-11-08T12:13:29.00065Z,damavand-manifest,0.0.0,0,0,https://github.com/jamshidhq/damavand-manifest,"Module manifests (tools, named commands, egress) for damavand agent-safety crates"
+2026-11-08T12:14:19.621241Z,cipherbox-pqc-core,0.3.0,0,0,https://github.com/thomas666-beast/cipherbox-pqc-core,"From-scratch post-quantum cryptography core: ML-KEM-768, Keccak, chunked file encryption"
+2026-11-08T12:14:24.161176Z,tamil-hyphen,0.1.0-alpha.7,0,0,https://github.com/abishtakan/tamil-toolkit,Syllable and orthographic boundary hyphenation
+2026-11-08T12:15:18.509802Z,rhwp-hayro-ccitt,0.3.0-rhwp.1,0,0,https://github.com/edwardkim/rhwp,A decoder for group 3 and group 4 CCITT images.
+2026-11-08T12:19:23.379035Z,tamias-deploy-cf,0.1.0,0,0,https://github.com/9aia/tamias,Cloudflare deploy impl — the registry Worker + wrangler config
