@@ -8,51 +8,56 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-08 03:19 UTC
+## Latest list — 2026-11-08 04:19 UTC
 
-New crates published between 2026-11-08 02:20 UTC and 2026-11-08 03:19 UTC.
+New crates published between 2026-11-08 03:19 UTC and 2026-11-08 04:19 UTC.
 
-[Full CSV](data/new-crates-2026-11-08T03-19-59-982936Z.csv)
+[Full CSV](data/new-crates-2026-11-08T04-19-41-372307Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-08 02:21:07 | [canvist_extension_underline](https://crates.io/crates/canvist_extension_underline) | 0.0.0 | 0 | canvist: TipTap's `underline` mark, with `Mod-u` |
-| 2026-11-08 02:21:10 | [arbitrate](https://crates.io/crates/arbitrate) | 0.0.2 | 0 | Traits providing a simple framework for decision-making via voter consensus |
-| 2026-11-08 02:24:10 | [amivuln](https://crates.io/crates/amivuln) | 0.0.2 | 0 | Am I vulnerable? Backport-aware CVE check for binaries, services and packages o… |
-| 2026-11-08 02:26:01 | [kettle-ui-headless](https://crates.io/crates/kettle-ui-headless) | 0.0.0 | 0 | Placeholder for a part of hob, a desktop GUI application; not usable yet |
-| 2026-11-08 02:30:22 | [canvist_extension_clipboard](https://crates.io/crates/canvist_extension_clipboard) | 0.0.0 | 0 | canvist: HTML, Markdown, and plain-text conversion for the canvist editor's cli… |
-| 2026-11-08 02:30:26 | [c0data](https://crates.io/crates/c0data) | 0.3.1 | 0 | C0DATA — structured data using ASCII C0 control codes |
-| 2026-11-08 02:31:33 | [signingflow](https://crates.io/crates/signingflow) | 0.1.0 | 0 | Official Rust SDK for sending a document, reading envelope status, and verifyin… |
-| 2026-11-08 02:36:05 | [kettle-ui-iced](https://crates.io/crates/kettle-ui-iced) | 0.0.0 | 0 | Placeholder for a part of hob, a desktop GUI application; not usable yet |
-| 2026-11-08 02:36:05 | [hydo-engine](https://crates.io/crates/hydo-engine) | 0.2.0 | 0 | One interface to hydo's run engines: hvx (the Rust engine hydo-hvx, in-process… |
-| 2026-11-08 02:36:20 | [hydo-composer](https://crates.io/crates/hydo-composer) | 0.2.0 | 0 | The test composer, host side: the plan's W= token in its seed, resolved and sav… |
-| 2026-11-08 02:36:31 | [hydo-errors](https://crates.io/crates/hydo-errors) | 0.2.0 | 0 | Error logs as findings, host side: error kinds and signatures from a run's cons… |
-| 2026-11-08 02:36:45 | [hydo-control](https://crates.io/crates/hydo-control) | 0.2.0 | 0 | hydo's host controller for agent images: the Controller trait, the ScheduleCont… |
-| 2026-11-08 02:37:05 | [hydo-explore](https://crates.io/crates/hydo-explore) | 0.2.0 | 0 | hydo's fault explorer: schedules from seeds, a worker pool over one engine, re-… |
-| 2026-11-08 02:38:05 | [osmosis_macro](https://crates.io/crates/osmosis_macro) | 0.1.1 | 0 | Proc-macro(s) crate for Osmosis |
-| 2026-11-08 02:40:46 | [canvist_extension_subscript](https://crates.io/crates/canvist_extension_subscript) | 0.0.0 | 0 | canvist: TipTap's `subscript` mark, with `Mod-,` |
-| 2026-11-08 02:51:02 | [canvist_extension_superscript](https://crates.io/crates/canvist_extension_superscript) | 0.0.0 | 0 | canvist: TipTap's `superscript` mark, with `Mod-.` |
-| 2026-11-08 02:52:30 | [hydo-agents](https://crates.io/crates/hydo-agents) | 0.2.0 | 0 | hydo's AI-facing commands: hydo guide, hydo skill install, hydo init (the onboa… |
-| 2026-11-08 02:52:46 | [hydo-compose](https://crates.io/crates/hydo-compose) | 0.2.0 | 0 | hydo compose: a docker-compose.yaml becomes a starting hydo.yaml (images pinned… |
-| 2026-11-08 02:54:36 | [replysieve](https://crates.io/crates/replysieve) | 0.1.0 | 0 | Judge comments in a fraction of a second: approve, reject or needs-review with… |
-| 2026-11-08 02:57:10 | [ravenrs-sheet](https://crates.io/crates/ravenrs-sheet) | 27.1.20 | 0 | Headless spreadsheet engine for RavenRS: cells, styles, formulas with 500+ func… |
-| 2026-11-08 02:57:10 | [viy-exec](https://crates.io/crates/viy-exec) | 0.1.0 | 0 | The process seam viy starts commands through |
-| 2026-11-08 02:57:11 | [viy-http](https://crates.io/crates/viy-http) | 0.1.0 | 0 | The HTTP seam viy sends requests through |
-| 2026-11-08 02:57:11 | [viy-protocol](https://crates.io/crates/viy-protocol) | 0.1.0 | 0 | The ops and events between viy's engine and its terminal UI |
-| 2026-11-08 02:57:11 | [viy-time](https://crates.io/crates/viy-time) | 0.1.0 | 0 | The clock seam viy reads time through |
-| 2026-11-08 02:57:12 | [viy-testkit](https://crates.io/crates/viy-testkit) | 0.1.0 | 0 | Test support for viy's crates |
-| 2026-11-08 02:57:51 | [ravenrs-spreadsheet](https://crates.io/crates/ravenrs-spreadsheet) | 27.1.20 | 0 | Spreadsheet component for RavenRS: opens, edits and saves XLSX workbooks with f… |
-| 2026-11-08 03:00:21 | [canvist_extension_highlight](https://crates.io/crates/canvist_extension_highlight) | 0.0.0 | 0 | canvist: TipTap's `highlight` mark, with colours, `==text==`, and `Mod-Shift-h` |
-| 2026-11-08 03:00:35 | [viy-config](https://crates.io/crates/viy-config) | 0.1.0 | 0 | viy's configuration: scopes, layering and model profiles |
-| 2026-11-08 03:02:15 | [override-lexer](https://crates.io/crates/override-lexer) | 0.4.0 | 0 | ra-ap-rustc_lexer 0.166.0 for override |
-| 2026-11-08 03:02:22 | [override-parser](https://crates.io/crates/override-parser) | 0.4.0 | 0 | ra_ap_parser 0.0.360 for override |
-| 2026-11-08 03:03:00 | [override-syntax](https://crates.io/crates/override-syntax) | 0.4.0 | 0 | ra_ap_syntax 0.0.360 for override |
-| 2026-11-08 03:08:36 | [viy-tools](https://crates.io/crates/viy-tools) | 0.1.0 | 0 | viy's safeguards: approval, the bubblewrap sandbox, the egress proxy and untrus… |
-| 2026-11-08 03:10:39 | [canvist_extension_text_style](https://crates.io/crates/canvist_extension_text_style) | 0.0.0 | 0 | canvist: TipTap's `textStyle` mark and the styles on it: colour, background col… |
-| 2026-11-08 03:12:16 | [kalyx](https://crates.io/crates/kalyx) | 0.1.0 | 0 | The computer algebra library of casξ |
-| 2026-11-08 03:16:00 | [datahostant](https://crates.io/crates/datahostant) | 0.0.0 | 0 | Placeholder: DataHostAnt, set up databases and other hostable storage locally o… |
-| 2026-11-08 03:17:41 | [ch5xx-hal](https://crates.io/crates/ch5xx-hal) | 0.0.1 | 0 | A placeholder owned by the ch32-rs team |
-| 2026-11-08 03:18:36 | [viy-term](https://crates.io/crates/viy-term) | 0.1.0 | 0 | viy's terminal UI |
+| 2026-11-08 03:21:20 | [canvist_extension_text_align](https://crates.io/crates/canvist_extension_text_align) | 0.0.0 | 0 | canvist: TipTap's `textAlign` attribute, with `Mod-Shift-l`, `e`, `r`, and `j` |
+| 2026-11-08 03:28:37 | [viy-pod](https://crates.io/crates/viy-pod) | 0.1.0 | 0 | viy's pod side: the RunPod API, boot, the SSH tunnel and idle reaping |
+| 2026-11-08 03:30:38 | [canvist_extension_typography](https://crates.io/crates/canvist_extension_typography) | 0.0.0 | 0 | canvist: Smart quotes, dashes, arrows, ellipses, and fractions as you type, lik… |
+| 2026-11-08 03:31:17 | [lean-rust-build](https://crates.io/crates/lean-rust-build) | 0.1.0 | 0 | Build script support of lean-rust: checks the lean! blocks of a crate with Lean… |
+| 2026-11-08 03:31:17 | [lean-rust-runtime](https://crates.io/crates/lean-rust-runtime) | 0.1.0 | 0 | Runtime of the Rust code generated from Lean by lean-rust |
+| 2026-11-08 03:31:19 | [cargo-lean-rust](https://crates.io/crates/cargo-lean-rust) | 0.1.0 | 0 | cargo lean-rust: extract Lean models of Rust functions with Charon and Aeneas,… |
+| 2026-11-08 03:31:19 | [lean-rust-macros](https://crates.io/crates/lean-rust-macros) | 0.1.0 | 0 | Procedural macros of lean-rust: lean!, #[model], #[opaque], #[derive(Model)] an… |
+| 2026-11-08 03:31:20 | [lean-rust](https://crates.io/crates/lean-rust) | 0.1.0 | 0 | Run Lean functions from Rust and verify Rust functions in Lean |
+| 2026-11-08 03:32:22 | [roviers-proto](https://crates.io/crates/roviers-proto) | 0.1.0 | 0 | Core protocol types, cryptographic credentials, and claim-check receipts for Ro… |
+| 2026-11-08 03:33:04 | [roviers-ledger](https://crates.io/crates/roviers-ledger) | 0.1.0 | 0 | Append-only memory-mapped commit log, radix topic trie, and deduplication engin… |
+| 2026-11-08 03:33:37 | [ocrcer-core](https://crates.io/crates/ocrcer-core) | 0.2.0 | 0 | Pure-Rust OCR engine for printed documents and CAD drawing text: prototype matc… |
+| 2026-11-08 03:33:37 | [icccer-color](https://crates.io/crates/icccer-color) | 0.4.2 | 0 | CIE colorimetry: XYZ, xyY, Lab, LCh, chromatic adaptation, ΔE. No ICC, no I/O,… |
+| 2026-11-08 03:33:41 | [icccer-profile](https://crates.io/crates/icccer-profile) | 0.4.2 | 0 | ICC v2/v4 profile parsing: header, tag table, tag types. Reports malformations,… |
+| 2026-11-08 03:33:47 | [icccer-cmm](https://crates.io/crates/icccer-cmm) | 0.4.2 | 0 | The CMM: build, evaluate and cache colour transforms from ICC profiles. All fou… |
+| 2026-11-08 03:33:56 | [roviers-core](https://crates.io/crates/roviers-core) | 0.1.0 | 0 | Broker core engine, ed25519 claim-check receipt vault, and webhook dispatcher f… |
+| 2026-11-08 03:34:28 | [deadwood-rs](https://crates.io/crates/deadwood-rs) | 1.0.0 | 0 | Codebase health analyzer for Rust workspaces: dead files, unused pub items and… |
+| 2026-11-08 03:34:44 | [roviers-server](https://crates.io/crates/roviers-server) | 0.1.0 | 0 | High-performance Axum HTTP & SSE broker server daemon for Roviers |
+| 2026-11-08 03:35:22 | [roviers-cli](https://crates.io/crates/roviers-cli) | 0.1.0 | 0 | Command-line interface client and management tool for the Roviers Broker |
+| 2026-11-08 03:38:36 | [viy-agent](https://crates.io/crates/viy-agent) | 0.1.0 | 0 | viy's chat engine: streaming, sessions, the tool loop and compaction |
+| 2026-11-08 03:39:51 | [amivuln-version](https://crates.io/crates/amivuln-version) | 0.0.2 | 0 | Version comparison for RPM and pacman packages (rpmvercmp, alpm_pkg_vercmp), ve… |
+| 2026-11-08 03:39:57 | [amivuln-core](https://crates.io/crates/amivuln-core) | 0.0.2 | 0 | Domain types, matching rules and policy for amivuln. Internal crate: no API sta… |
+| 2026-11-08 03:40:02 | [amivuln-cache](https://crates.io/crates/amivuln-cache) | 0.0.2 | 0 | SQLite-backed HTTP cache for amivuln. Internal crate: no API stability. |
+| 2026-11-08 03:40:08 | [amivuln-resolve](https://crates.io/crates/amivuln-resolve) | 0.0.2 | 0 | Target resolution (package, file, name@version, purl) for amivuln. Internal cra… |
+| 2026-11-08 03:40:21 | [amivuln-sources](https://crates.io/crates/amivuln-sources) | 0.0.2 | 0 | Parsers and HTTP client for the vulnerability data sources used by amivuln. Int… |
+| 2026-11-08 03:40:53 | [canvist_extension_character_count](https://crates.io/crates/canvist_extension_character_count) | 0.0.0 | 0 | canvist: Character and word counts with an optional limit, like TipTap's Charac… |
+| 2026-11-08 03:43:58 | [tightbeam-asn-names](https://crates.io/crates/tightbeam-asn-names) | 0.2.0 | 0 | The TypeScript type-name rule of the tightbeam-asn derive and emitter |
+| 2026-11-08 03:48:37 | [viy](https://crates.io/crates/viy) | 0.1.0 | 0 | A Rust harness for abliterated models, treats them as hostile, but keeps them u… |
+| 2026-11-08 03:51:08 | [canvist_extension_placeholder](https://crates.io/crates/canvist_extension_placeholder) | 0.0.0 | 0 | canvist: Hint text in empty blocks, like TipTap's Placeholder |
+| 2026-11-08 03:53:05 | [amivuln-report](https://crates.io/crates/amivuln-report) | 0.0.2 | 0 | Output formatters (summary, detail, JSON) for amivuln. Internal crate: no API s… |
+| 2026-11-08 03:55:12 | [dort-core](https://crates.io/crates/dort-core) | 0.1.0 | 0 | UI-independent planning and guarded filesystem services for Dort |
+| 2026-11-08 03:56:11 | [dort](https://crates.io/crates/dort) | 0.1.0 | 0 | Experimental, TUI-first local dotfile manager with guarded recovery |
+| 2026-11-08 04:00:05 | [printscan](https://crates.io/crates/printscan) | 0.1.0 | 0 | Printing and scanning: a shared job and device vocabulary, the scan contract an… |
+| 2026-11-08 04:00:07 | [printscan-windows](https://crates.io/crates/printscan-windows) | 0.1.0 | 0 | Windows printing and scanning for printscan: the print spooler as a backend (on… |
+| 2026-11-08 04:00:08 | [printscan-wsd](https://crates.io/crates/printscan-wsd) | 0.1.0 | 0 | Web Services for Devices (WSD) for printers and scanners: bounded XML, SOAP 1.2… |
+| 2026-11-08 04:00:10 | [printscan-ipp](https://crates.io/crates/printscan-ipp) | 0.1.0 | 0 | An IPP (RFC 8010/8011) print backend for printscan: plain HTTP to numeric local… |
+| 2026-11-08 04:00:24 | [canvist_extension_mention](https://crates.io/crates/canvist_extension_mention) | 0.0.0 | 0 | canvist: TipTap's `mention` node, with `@` suggestions |
+| 2026-11-08 04:00:44 | [day-piece-map](https://crates.io/crates/day-piece-map) | 0.0.1 | 0 | Part of Day, which builds native apps from one Rust codebase. This placeholder… |
+| 2026-11-08 04:10:51 | [canvist_extension_hashtag](https://crates.io/crates/canvist_extension_hashtag) | 0.0.0 | 0 | canvist: Remirror's `hashtag` mark, applied to `#tag` as you type |
+| 2026-11-08 04:10:51 | [logjar](https://crates.io/crates/logjar) | 0.1.0 | 0 | Searchable compressed log archives: template/variable encoding with grep that s… |
+| 2026-11-08 04:17:03 | [jerb-macros](https://crates.io/crates/jerb-macros) | 0.1.0 | 0 | Procedural macros for defining and registering Jerb background jobs. |
+| 2026-11-08 04:17:31 | [json-cursor](https://crates.io/crates/json-cursor) | 0.1.0 | 0 | A strict JSON pull cursor over bytes: each key and value in order, strings borr… |
+| 2026-11-08 04:18:08 | [rustmax-codebrowser](https://crates.io/crates/rustmax-codebrowser) | 0.0.12 | 0 | Static cross-referenced source browser for cargo workspaces |
 
 ## Data source
 

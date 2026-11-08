@@ -1,0 +1,43 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-08T03:21:20.920338Z,canvist_extension_text_align,0.0.0,0,0,https://github.com/canvist/canvist,"canvist: TipTap's `textAlign` attribute, with `Mod-Shift-l`, `e`, `r`, and `j`"
+2026-11-08T03:28:37.391972Z,viy-pod,0.1.0,0,0,https://github.com/GregoryBolshakov/viy,"viy's pod side: the RunPod API, boot, the SSH tunnel and idle reaping"
+2026-11-08T03:30:38.251861Z,canvist_extension_typography,0.0.0,0,0,https://github.com/canvist/canvist,"canvist: Smart quotes, dashes, arrows, ellipses, and fractions as you type, like TipTap's Typography"
+2026-11-08T03:31:17.203585Z,lean-rust-build,0.1.0,0,0,https://github.com/conao3/lean-rs,"Build script support of lean-rust: checks the lean! blocks of a crate with Lean, generates their Rust code, and checks the proofs of the modelled functions against the lockfile"
+2026-11-08T03:31:17.882968Z,lean-rust-runtime,0.1.0,0,0,https://github.com/conao3/lean-rs,Runtime of the Rust code generated from Lean by lean-rust
+2026-11-08T03:31:19.025376Z,cargo-lean-rust,0.1.0,0,0,https://github.com/conao3/lean-rs,"cargo lean-rust: extract Lean models of Rust functions with Charon and Aeneas, state their obligations and check their proofs"
+2026-11-08T03:31:19.652776Z,lean-rust-macros,0.1.0,0,0,https://github.com/conao3/lean-rs,"Procedural macros of lean-rust: lean!, #[model], #[opaque], #[derive(Model)] and #[exported]"
+2026-11-08T03:31:20.55866Z,lean-rust,0.1.0,0,0,https://github.com/conao3/lean-rs,Run Lean functions from Rust and verify Rust functions in Lean
+2026-11-08T03:32:22.09696Z,roviers-proto,0.1.0,0,0,https://github.com/sunilksundaram/roviers,"Core protocol types, cryptographic credentials, and claim-check receipts for Roviers"
+2026-11-08T03:33:04.487714Z,roviers-ledger,0.1.0,0,0,https://github.com/sunilksundaram/roviers,"Append-only memory-mapped commit log, radix topic trie, and deduplication engine for Roviers"
+2026-11-08T03:33:37.175739Z,ocrcer-core,0.2.0,0,0,https://github.com/KenM76/ocrcer,"Pure-Rust OCR engine for printed documents and CAD drawing text: prototype matching, a lattice decoder and calibrated per-word confidence. Zero dependencies, no unsafe, wasm32-ready."
+2026-11-08T03:33:37.844783Z,icccer-color,0.4.2,0,0,https://github.com/KenM76/icccer,"CIE colorimetry: XYZ, xyY, Lab, LCh, chromatic adaptation, ΔE. No ICC, no I/O, no dependencies."
+2026-11-08T03:33:41.35079Z,icccer-profile,0.4.2,0,0,https://github.com/KenM76/icccer,"ICC v2/v4 profile parsing: header, tag table, tag types. Reports malformations, repairs nothing. No colour maths."
+2026-11-08T03:33:47.057164Z,icccer-cmm,0.4.2,0,0,https://github.com/KenM76/icccer,"The CMM: build, evaluate and cache colour transforms from ICC profiles. All four rendering intents; every approximation named and measured."
+2026-11-08T03:33:56.00959Z,roviers-core,0.1.0,0,0,https://github.com/sunilksundaram/roviers,"Broker core engine, ed25519 claim-check receipt vault, and webhook dispatcher for Roviers"
+2026-11-08T03:34:28.798805Z,deadwood-rs,1.0.0,0,0,https://github.com/rlorenzo/deadwood-rs,"Codebase health analyzer for Rust workspaces: dead files, unused pub items and re-exports, unused and misplaced dependencies, unsatisfiable cfg gates"
+2026-11-08T03:34:44.029025Z,roviers-server,0.1.0,0,0,https://github.com/sunilksundaram/roviers,High-performance Axum HTTP & SSE broker server daemon for Roviers
+2026-11-08T03:35:22.332888Z,roviers-cli,0.1.0,0,0,https://github.com/sunilksundaram/roviers,Command-line interface client and management tool for the Roviers Broker
+2026-11-08T03:38:36.88795Z,viy-agent,0.1.0,0,0,https://github.com/GregoryBolshakov/viy,"viy's chat engine: streaming, sessions, the tool loop and compaction"
+2026-11-08T03:39:51.900407Z,amivuln-version,0.0.2,0,0,https://github.com/nubian-ibex/amivuln,"Version comparison for RPM and pacman packages (rpmvercmp, alpm_pkg_vercmp), verified against the reference tools. Internal crate of amivuln."
+2026-11-08T03:39:57.784722Z,amivuln-core,0.0.2,0,0,https://github.com/nubian-ibex/amivuln,"Domain types, matching rules and policy for amivuln. Internal crate: no API stability."
+2026-11-08T03:40:02.235064Z,amivuln-cache,0.0.2,0,0,https://github.com/nubian-ibex/amivuln,SQLite-backed HTTP cache for amivuln. Internal crate: no API stability.
+2026-11-08T03:40:08.856384Z,amivuln-resolve,0.0.2,0,0,https://github.com/nubian-ibex/amivuln,"Target resolution (package, file, name@version, purl) for amivuln. Internal crate: no API stability."
+2026-11-08T03:40:21.272358Z,amivuln-sources,0.0.2,0,0,https://github.com/nubian-ibex/amivuln,Parsers and HTTP client for the vulnerability data sources used by amivuln. Internal crate: no API stability.
+2026-11-08T03:40:53.245284Z,canvist_extension_character_count,0.0.0,0,0,https://github.com/canvist/canvist,"canvist: Character and word counts with an optional limit, like TipTap's CharacterCount"
+2026-11-08T03:43:58.347416Z,tightbeam-asn-names,0.2.0,0,0,https://github.com/wahidgroup/tightbeam-ext,The TypeScript type-name rule of the tightbeam-asn derive and emitter
+2026-11-08T03:48:37.088052Z,viy,0.1.0,0,0,https://github.com/GregoryBolshakov/viy,"A Rust harness for abliterated models, treats them as hostile, but keeps them useful"
+2026-11-08T03:51:08.60977Z,canvist_extension_placeholder,0.0.0,0,0,https://github.com/canvist/canvist,"canvist: Hint text in empty blocks, like TipTap's Placeholder"
+2026-11-08T03:53:05.447019Z,amivuln-report,0.0.2,0,0,https://github.com/nubian-ibex/amivuln,"Output formatters (summary, detail, JSON) for amivuln. Internal crate: no API stability."
+2026-11-08T03:55:12.393027Z,dort-core,0.1.0,0,0,https://github.com/katesongsy/dort,UI-independent planning and guarded filesystem services for Dort
+2026-11-08T03:56:11.11282Z,dort,0.1.0,0,0,https://github.com/katesongsy/dort,"Experimental, TUI-first local dotfile manager with guarded recovery"
+2026-11-08T04:00:05.478805Z,printscan,0.1.0,0,0,https://github.com/b1tninja/printscan,"Printing and scanning: a shared job and device vocabulary, the scan contract and backend registry, and a scan job journal"
+2026-11-08T04:00:07.544538Z,printscan-windows,0.1.0,0,0,https://github.com/b1tninja/printscan,Windows printing and scanning for printscan: the print spooler as a backend (on winprint) and WIA scanners
+2026-11-08T04:00:08.362043Z,printscan-wsd,0.1.0,0,0,https://github.com/b1tninja/printscan,"Web Services for Devices (WSD) for printers and scanners: bounded XML, SOAP 1.2 / WS-Addressing, MTOM, faults, a local-network-only URL policy, WS-Transfer, WS-Eventing and WS-Discovery messages, and…"
+2026-11-08T04:00:10.106419Z,printscan-ipp,0.1.0,0,0,https://github.com/b1tninja/printscan,"An IPP (RFC 8010/8011) print backend for printscan: plain HTTP to numeric local addresses, no discovery, consent for every job"
+2026-11-08T04:00:24.121543Z,canvist_extension_mention,0.0.0,0,0,https://github.com/canvist/canvist,"canvist: TipTap's `mention` node, with `@` suggestions"
+2026-11-08T04:00:44.730786Z,day-piece-map,0.0.1,0,0,https://github.com/daybrite/day-piece-map,"Part of Day, which builds native apps from one Rust codebase. This placeholder holds the name until the first release."
+2026-11-08T04:10:51.311537Z,canvist_extension_hashtag,0.0.0,0,0,https://github.com/canvist/canvist,"canvist: Remirror's `hashtag` mark, applied to `#tag` as you type"
+2026-11-08T04:10:51.586937Z,logjar,0.1.0,0,0,https://github.com/zaydmulani09/logjar,Searchable compressed log archives: template/variable encoding with grep that skips what it can't match
+2026-11-08T04:17:03.832691Z,jerb-macros,0.1.0,0,0,https://aaronmallen.dev/aaron/jerb,Procedural macros for defining and registering Jerb background jobs.
+2026-11-08T04:17:31.745486Z,json-cursor,0.1.0,0,0,https://github.com/FusionVault/json-cursor,"A strict JSON pull cursor over bytes: each key and value in order, strings borrowed when they have no escapes, and every number's exact text, with every byte checked against RFC 8259. No dependencies…"
+2026-11-08T04:18:08.093514Z,rustmax-codebrowser,0.0.12,0,0,https://github.com/brson/rustmax,Static cross-referenced source browser for cargo workspaces
