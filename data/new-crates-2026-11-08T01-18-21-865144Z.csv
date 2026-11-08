@@ -1,0 +1,35 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-08T00:21:31.848799Z,canvist_extension_bold,0.0.0,0,0,https://github.com/canvist/canvist,"canvist: TipTap's `bold` mark, with `Mod-b`, `**text**`, and `__text__`"
+2026-11-08T00:25:24.943438Z,qsl-core,0.1.0,0,0,https://github.com/zadr0/QSL,Shared schema contracts and portable runtime foundations for QSL binary codecs.
+2026-11-08T00:29:27.783318Z,axiomata-files,0.1.0,0,0,https://github.com/axiomata-labs/Axiomata-Foundation,"Guarded file roots: a path guard no link escapes, versioned reads, atomic writes, search, watching and language servers — the file service of Glut and the Axiomata apps."
+2026-11-08T00:29:57.876401Z,glut,0.1.0,0,0,https://github.com/axiomata-labs/glut,"A coding-agent harness as a library: a tool-calling loop over OpenAI-compatible, Anthropic and Responses APIs, with guarded file tools, every command in an OS sandbox, a permission gate and a network…"
+2026-11-08T00:30:31.022953Z,glut-tui,0.1.0,0,0,https://github.com/axiomata-labs/glut,"Glut, a coding agent for the terminal: every command sandboxed, a gate that asks before what matters, any model — panes, an arena, plans, editors."
+2026-11-08T00:31:44.871291Z,canvist_extension_code,0.0.0,0,0,https://github.com/canvist/canvist,"canvist: TipTap's inline `code` mark, with `Mod-e` and `` `text` ``"
+2026-11-08T00:32:26.659391Z,askds,0.1.1,0,0,https://github.com/inxanedev/askds,Ask DeepSeek a question about your current terminal session
+2026-11-08T00:34:14.591181Z,giteagle,0.1.2,0,0,https://github.com/diath/giteagle,Desktop Git repository viewer
+2026-11-08T00:40:49.695016Z,mochi-web,0.2.0,0,0,https://github.com/enkyuan/mochi,Browser-rendered website mirroring and hydration-aware editing
+2026-11-08T00:41:59.408325Z,canvist_extension_code_block,0.0.0,0,0,https://github.com/canvist/canvist,"canvist: TipTap's `codeBlock` block, with fenced ``` and `Mod-Alt-c`"
+2026-11-08T00:44:14.23646Z,drandite-core,0.1.0,0,0,https://codeberg.org/Cupertino/drandite,"No-std drand chain information, round scheduling, and BLS beacon verification"
+2026-11-08T00:44:16.482929Z,drandite-tlock,0.1.0,0,0,https://codeberg.org/Cupertino/drandite,Timelock encryption with unchained drand beacons
+2026-11-08T00:44:18.191667Z,drandite-wire,0.1.0,0,0,https://codeberg.org/Cupertino/drandite,Transport-independent JSON models and request builders for drand APIs
+2026-11-08T00:44:22.323894Z,drandite-client,0.1.0,0,0,https://codeberg.org/Cupertino/drandite,Blocking clients for the drand v1 and v2 relay APIs
+2026-11-08T00:44:24.400203Z,drandite,0.1.0,0,0,https://codeberg.org/Cupertino/drandite,"Drand beacon verification, relay clients, and timelock encryption"
+2026-11-08T00:47:08.479925Z,tang-otel,0.1.0,0,0,https://github.com/ecto/tang,"OpenTelemetry setup shared by tang crates: OTLP/JSON lines to a file by default, OTLP/HTTP only when asked"
+2026-11-08T00:49:51.778761Z,flwrs-trellis,0.0.1,0,0,https://github.com/hyarthi/flwrs,Developer toolkit for flwrs plugins: checks that a plugin (in any language) follows the plugin protocol
+2026-11-08T00:52:14.558182Z,canvist_extension_hard_break,0.0.0,0,0,https://github.com/canvist/canvist,"canvist: TipTap's `hardBreak` line break, with `Shift-Enter`"
+2026-11-08T00:56:26.536923Z,calc-flow,2026.11.2,0,0,https://github.com/wegamekinglc/calc-flow,Rust core for stateful DataFusion calculation pipelines
+2026-11-08T01:00:05.639677Z,canvist_extension_heading,0.0.0,0,0,https://github.com/canvist/canvist,"canvist: TipTap's `heading` block, with `#` to `######` and `Mod-Alt-1` to `Mod-Alt-6`"
+2026-11-08T01:05:22.31823Z,hob,0.0.0,0,0,https://github.com/filip-hejsek/hob,"Placeholder for a part of hob, a desktop GUI application; not usable yet"
+2026-11-08T01:05:24.971683Z,hob-cli,0.0.0,0,0,https://github.com/filip-hejsek/hob,"Placeholder for a part of hob, a desktop GUI application; not usable yet"
+2026-11-08T01:05:27.646751Z,hob-core,0.0.0,0,0,https://github.com/filip-hejsek/hob,"Placeholder for a part of hob, a desktop GUI application; not usable yet"
+2026-11-08T01:05:29.215017Z,hob-demo,0.0.0,0,0,https://github.com/filip-hejsek/hob,"Placeholder for a part of hob, a desktop GUI application; not usable yet"
+2026-11-08T01:05:31.735635Z,hob-fs,0.0.0,0,0,https://github.com/filip-hejsek/hob,"Placeholder for a part of hob, a desktop GUI application; not usable yet"
+2026-11-08T01:07:51.52301Z,sirene-core,0.1.0,0,0,https://github.com/jaemk/sirene,"Mermaid parsing, diagram model, and layout for sirene"
+2026-11-08T01:09:54.463969Z,sirene-gui,0.1.0,0,0,https://github.com/jaemk/sirene,gpui viewer and editor for sirene
+2026-11-08T01:10:02.307353Z,sirene,0.1.0,0,0,https://github.com/jaemk/sirene,Mermaid diagram editor and viewer
+2026-11-08T01:11:22.692353Z,canvist_extension_history,0.0.0,0,0,https://github.com/canvist/canvist,"canvist: Undo and redo keys for the canvist editor: `Mod-z`, `Mod-Shift-z`, and `Mod-y`"
+2026-11-08T01:11:26.69704Z,rustymath-core,0.1.56,0,0,https://github.com/AnswerDotAI/rustymath,"Numerical algorithms, formulas and compact array storage."
+2026-11-08T01:11:29.569489Z,rustymath-kernels,0.1.56,0,0,https://github.com/AnswerDotAI/rustymath,Resolved numerical kernels over Rustymath formulas and storage.
+2026-11-08T01:11:30.781701Z,rustymath-timing,0.1.56,0,0,https://github.com/AnswerDotAI/rustymath,"What rustymath's and basedpl's speed tests share: the machine's timing lock, the timing loop, instruction and byte counts, copy times and budget files."
+2026-11-08T01:15:35.139556Z,hob-git,0.0.0,0,0,https://github.com/filip-hejsek/hob,"Placeholder for a part of hob, a desktop GUI application; not usable yet"
+2026-11-08T01:17:23.219304Z,quikscope,0.1.0,0,0,https://github.com/qt715/quikscope,Fast cross-platform screenshot tool with a GPUI annotation editor
