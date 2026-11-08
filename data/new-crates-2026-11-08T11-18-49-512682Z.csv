@@ -1,0 +1,44 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-08T10:22:26.142286Z,dolfy,0.1.0,0,0,https://github.com/maslenn1koff/dolfy,SIMD-accelerated linear algebra primitives for Rust
+2026-11-08T10:27:25.84175Z,cuora-deploy-cf,0.1.0,0,0,https://github.com/9aia/cuora,Deploy impl: push secret values to a Cloudflare account Secrets Store (write-only sink) via the CF API v4
+2026-11-08T10:29:27.556159Z,swarmfile-crypto,0.3.14,0,0,,"Swarmfile's client-side block encryption (AES-256-GCM, per-block HKDF keys, managed key generations) and the shared hot-swap handle, so the standalone migrator seals blocks exactly as the engine does."
+2026-11-08T10:29:40.956815Z,swarmfile-lib,0.3.14,0,0,,"Open hub-connectivity library for Swarmfile: the reqwest-free wire/vocabulary shapes, plus the direct-HTTP block/entry transport and the git helper's hub client behind the `http` feature."
+2026-11-08T10:30:11.812342Z,swarmfile-migrate-core,0.3.14,0,0,,"Transport-free core of the swarmfile-migrate tool: source scanning, resumable migration state, glob exclusion filters, per-file chunking profiles, and the shared chunk→manifest→block upload pipeline…"
+2026-11-08T10:32:53.723916Z,swarmfile-cli-util,0.3.14,0,0,,"Shared CLI plumbing for the standalone swarmfile-* tools: one parse-failure contract (exit 2, machine-readable under --json) and human-phrased identifiers."
+2026-11-08T10:34:57.750297Z,swarmfile-history-verify,0.3.14,0,0,,"Offline verifier for Swarmfile signed history: canonical commit-object encoding and hub-signed checkpoint signature verification, shared by the engine and the standalone swarmfile-verify-history tool."
+2026-11-08T10:35:23.542117Z,swarmfile-git-objects,0.3.14,0,0,,"The git-shaped object layer for Swarmfile's git integration: canonical tree-object encoding, the git view (blob/tree/commit conversion and pack generation for clone/fetch), and the pack writer — shar…"
+2026-11-08T10:35:55.226612Z,xml-adapters,0.1.0,0,0,https://github.com/casoon/barrierlab,"Adapters that let relax-ng, xpath-eval and schematron-engine read common XML trees (roxmltree first)."
+2026-11-08T10:36:17.10461Z,remote-sessions-core,0.2.2,0,0,https://github.com/ramene/remote-sessions,"Serve, list, send into, read and stop Claude Code Remote Control sessions on your own machines (no UI)."
+2026-11-08T10:36:21.758868Z,remote-sessions-cli,0.2.2,0,0,https://github.com/ramene/remote-sessions,"remote-sessions: serve, list, send, events and stop for Claude Code Remote Control sessions (JSON output), plus an MCP server."
+2026-11-08T10:36:24.803237Z,cloud-sessions-core,0.2.1,0,0,https://github.com/ramene/cloud-sessions,"Start, send into, read and watch Claude Code cloud sessions (no UI, no Tauri)."
+2026-11-08T10:36:29.312995Z,cloud-sessions-cli,0.2.1,0,0,https://github.com/ramene/cloud-sessions,"cloud-sessions: start, send, events, watch and list for Claude Code cloud sessions (JSON output), plus an MCP server."
+2026-11-08T10:36:31.595147Z,raeah,0.0.1,0,0,,"Raeah: one place to see and drive every Claude Code agent session you run, on your machines, in the cloud and from your phone. Placeholder crate; the open tools today are remote-sessions-cli and clou…"
+2026-11-08T10:37:12.637468Z,tamias-registry,0.1.0,0,0,https://github.com/9aia/tamias,registry port — index + publish
+2026-11-08T10:39:32.415839Z,voice-live,0.1.0,0,0,https://github.com/geminik23/voice-live,"Full-duplex voice interaction runtime: streaming STT, an agent, and streaming TTS with barge-in and heard-text memory"
+2026-11-08T10:41:39.355925Z,near-lan,0.1.0,0,0,https://github.com/CallMeAlphabet/near,LAN-only file transfer hub
+2026-11-08T10:47:31.237358Z,cuora-ops,0.1.0,0,0,https://github.com/9aia/cuora,"cuora ops I/O: config load, env/ref resolution, vault open, verb plumbing, audit emission"
+2026-11-08T10:49:15.226042Z,fireline-announce,0.1.0,0,0,https://github.com/ThinkersJournal/fireline,"The kernel-seam handshake between a kernel consumer and a kernel provider: the frozen 56-byte SeamHello envelope, capability bits, and role-aware profile negotiation. Dependency-free."
+2026-11-08T10:49:24.450448Z,fireline-grammar,0.1.0,0,0,https://github.com/ThinkersJournal/fireline,"The kernel-seam region grammar: OpTag, OpAttrs (with canonical bytes), RegionKey, PatternNode and the shape-expression codec, shared by a kernel consumer and a kernel provider. Types only, no logic,…"
+2026-11-08T10:49:39.11471Z,merlin-plugin,0.9.0,0,0,https://github.com/merlin-editor/merlin,Write merlin plugins in Rust
+2026-11-08T10:49:54.319232Z,merlin-lsp,0.9.0,0,0,https://github.com/merlin-editor/merlin,Language Server Protocol client for merlin language plugins
+2026-11-08T10:49:57.049745Z,fireline-synth,0.1.0,0,0,https://github.com/ThinkersJournal/fireline,"The kernel-seam JIT-on-request envelope: the Synthesizer trait a kernel provider implements, and the JitRequest, JitBudget, JitResponse, SynthArtifact and LinkEntry types a consumer calls it with."
+2026-11-08T10:52:37.583836Z,merlin-grammar,0.9.0,0,0,https://github.com/merlin-editor/merlin,Colour a language in a merlin plugin with a tree-sitter grammar
+2026-11-08T10:53:22.220624Z,mercurio-core,0.1.0,0,0,https://github.com/frenzox/mercurio,Core types and traits for the Mercurio MQTT implementation
+2026-11-08T10:53:27.133625Z,mercurio-packets,0.1.0,0,0,https://github.com/frenzox/mercurio,MQTT packet encoding and decoding for the Mercurio MQTT implementation
+2026-11-08T10:53:55.657762Z,mercurio-client,0.1.0,0,0,https://github.com/frenzox/mercurio,MQTT client library for the Mercurio MQTT implementation
+2026-11-08T10:54:10.557863Z,recado,0.1.0,0,0,https://github.com/frenzox/mercurio,"MQTT command-line client for publishing and subscribing, from the Mercurio project"
+2026-11-08T10:54:17.66978Z,mercurio-storage,0.1.0,0,0,https://github.com/frenzox/mercurio,Storage abstraction layer for Mercurio MQTT broker
+2026-11-08T10:57:27.296227Z,cuora-shell,0.1.0,0,0,https://github.com/9aia/cuora,Run a command in a working directory via bash -c — the generic shell-out helper
+2026-11-08T10:59:39.22698Z,actual-core,0.1.0,0,0,https://github.com/itsvrushabh/rs-budget,"Core domain models, monetary precision, reactive spreadsheet DAG, and rules engine for rs-budget"
+2026-11-08T11:06:08.302943Z,psgen,0.0.0,0,0,https://github.com/Azathothas/psgen,Reserved crate name for the psgen project
+2026-11-08T11:06:13.018895Z,psinject,0.0.0,0,0,https://github.com/Azathothas/psgen,Reserved crate name for the psinject project
+2026-11-08T11:07:14.273903Z,tamias-telemetry,0.1.0,0,0,https://github.com/9aia/tamias,"Opt-in OpenTelemetry layer over the tracing stack — OTLP export, W3C context propagation"
+2026-11-08T11:09:05.017767Z,cranpose-shader-passes,0.21.0,0,0,https://github.com/samoylenkodmitry/cranpose,Folds and flattens naga shader stages before a driver compiles them
+2026-11-08T11:15:08.876085Z,mercurio-server,0.1.0,0,0,https://github.com/frenzox/mercurio,MQTT broker library for the Mercurio implementation
+2026-11-08T11:15:31.268906Z,mercuriod,0.1.0,0,0,https://github.com/frenzox/mercurio,Mercurio MQTT broker daemon
+2026-11-08T11:17:32.710242Z,cuora-serve,0.1.0,0,0,https://github.com/9aia/cuora,"cuora serve — the ndjson request/response IPC surface orchestrators embed, with the external policy-decision consult (P-005)"
+2026-11-08T11:18:20.421837Z,cargo-jflib,0.1.0,0,0,https://github.com/JFLibrary/JFLib,"cargo jflib: a JFLib app's new project, its test scripts, hot reload, its builds for the browser and Android, its packages"
+2026-11-08T11:18:25.400207Z,jflib-compress,0.1.0,0,0,https://github.com/JFLibrary/JFLib,Lossless compression for JFLib
+2026-11-08T11:18:30.189285Z,jflib-crypto,0.1.0,0,0,https://github.com/JFLibrary/JFLib,Cryptographic primitives in plain Rust for JFLib
+2026-11-08T11:18:34.409259Z,jflib-datetime,0.1.0,0,0,https://github.com/JFLibrary/JFLib,"Calendar time without std: timestamps, civil dates, RFC 3339, time zones, cron schedules"
+2026-11-08T11:18:38.694478Z,jflib-modrt,0.1.0,0,0,https://github.com/JFLibrary/JFLib,"The runtime of a loadable JFLib module: no_std, no imports, served by its host"
