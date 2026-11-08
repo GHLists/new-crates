@@ -1,0 +1,63 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-08T18:21:30.959083Z,miniapm-protocol,1.0.1,0,0,https://github.com/miniapm/miniapm,Wire types for the MiniAPM ingest API
+2026-11-08T18:21:45.648999Z,clir_core,0.1.0,0,0,https://github.com/joatloa/clir,Runtime support crate for clir (argument/option parsing + help/error formatting).
+2026-11-08T18:23:00.449319Z,clir_macro,0.1.0,0,0,https://github.com/joatloa/clir,Proc-macro implementation for the crate `clir`.
+2026-11-08T18:23:48.207699Z,clir,0.1.0,0,0,https://github.com/joatloa/clir,A small proc-macro DSL for defining command-line interfaces.
+2026-11-08T18:24:36.714198Z,canvist_extension_ink,0.0.0,0,0,https://github.com/canvist/canvist,canvist: An `ink` block holding freehand strokes that the canvist canvas draws
+2026-11-08T18:24:49.043804Z,canvist_extension_kinetic,0.0.0,0,0,https://github.com/canvist/canvist,"canvist: A `kinetic` mark for text that moves: wave, shake, pulse, and more"
+2026-11-08T18:24:59.367047Z,tpt-gis-core,0.1.0,0,0,https://github.com/tpt-solutions/tpt-gis,"CRS definitions, datum transformations, and geodesic math for tpt-gis. no_std by default."
+2026-11-08T18:25:00.84322Z,canvist_extension_conditional,0.0.0,0,0,https://github.com/canvist/canvist,canvist: A `conditional` mark for text kept only in some versions of a document
+2026-11-08T18:25:09.878466Z,tpt-gis-geom,0.1.0,0,0,https://github.com/tpt-solutions/tpt-gis,"Vector geometry (points, lines, polygons) and topological predicates for tpt-gis. no_std by default."
+2026-11-08T18:25:15.026053Z,tpt-gis-raster,0.1.0,0,0,https://github.com/tpt-solutions/tpt-gis,"Grid data, map algebra, and Cloud Optimized GeoTIFF (COG) parsing for tpt-gis."
+2026-11-08T18:25:24.489475Z,tpt-gis-io,0.1.0,0,0,https://github.com/tpt-solutions/tpt-gis,"Parsers and writers for GeoJSON, WKB/WKT, Shapefile, and GeoPackage for tpt-gis."
+2026-11-08T18:26:19.338198Z,ravenrs-live-derive,27.1.21,0,0,https://github.com/alexkads/RavenRS,#[ravenrs_live::expose]: registers what an impl block or an enum offers with the interpreter of ravenrs-live.
+2026-11-08T18:26:20.054675Z,ravenrs-project,27.1.21,0,0,https://github.com/alexkads/RavenRS,"Turns code written in the RavenRS playground into a Cargo project that runs on the desktop and in the browser, as files or a .zip."
+2026-11-08T18:26:29.7504Z,ravenrs-app-spec,27.1.21,0,0,https://github.com/alexkads/RavenRS,"What the derives of ravenrs-app read from a business object or enum, as data: shared by the derive and by programs that read Rust source while they run."
+2026-11-08T18:26:30.990839Z,ravenrs-live,27.1.21,0,0,https://github.com/alexkads/RavenRS,"An interpreter of the Rust small RavenRS examples are written in, for playgrounds that run without a compiler."
+2026-11-08T18:28:22.144224Z,jflib-img-jxl,0.1.0,0,0,https://github.com/JFLibrary/JFLib,"JPEG XL reader and writer for JFLib: lossless modular, lossy VarDCT"
+2026-11-08T18:31:27.209937Z,tpt-gis-index,0.1.0,0,0,https://github.com/tpt-solutions/tpt-gis,"R-Trees, Quadtrees, and H3/S2 hexagonal grid integration for tpt-gis."
+2026-11-08T18:37:21.140312Z,lightkeep,0.0.0,0,0,,"The simplest way to host your app on your own server. Placeholder for the Lightkeep CLI, published at public launch."
+2026-11-08T18:38:51.10046Z,jflib-img-pdn,0.1.0,0,0,https://github.com/JFLibrary/JFLib,paint.net documents (.pdn) for JFLib: reading and writing
+2026-11-08T18:39:15.697832Z,lavi,0.1.0,0,0,https://github.com/emmby/lavi,"A portable, #![no_std] statechart runtime compatible with the XState v5 specification and JSON format."
+2026-11-08T18:40:50.616246Z,embedag-core,0.1.0,0,0,https://github.com/yasuomaidana/embedag,"Domain contracts, in-memory DAG arena, cycle guards and deterministic feature encoders for embedag."
+2026-11-08T18:40:51.272269Z,embedag-matcher,0.1.0,0,0,https://github.com/yasuomaidana/embedag,Language-agnostic structural AST similarity matching and similarity graphs for embedag.
+2026-11-08T18:40:52.472586Z,embedag-derive,0.1.0,0,0,https://github.com/yasuomaidana/embedag,Procedural derive macros for embedag domain records and graph targets.
+2026-11-08T18:40:53.093999Z,embedag-neo4j,0.1.0,0,0,https://github.com/yasuomaidana/embedag,"Neo4j and Memgraph native property graph adapter, Bolt protocol Cypher query engine, and GraphRepository implementation for embedag."
+2026-11-08T18:40:53.712761Z,embedag-oxirs,0.1.0,0,0,https://github.com/yasuomaidana/embedag,"Native OxiRS TDB2 persistent storage engine, zero-daemon RDF triple/quad store, mmap snapshots, and SPARQL integration for embedag."
+2026-11-08T18:42:18.80948Z,tpt-gis-cli,0.1.0,0,0,https://github.com/tpt-solutions/tpt-gis,"Command-line tool for the tpt-gis planetary-scale GIS engine (spatial joins, reprojection, fixtures)."
+2026-11-08T18:42:21.005594Z,futronic-fs80h-rs,0.1.0,0,0,https://github.com/faeliaso/futronic-fs80h-rs,Pure Rust userspace USB driver for Futronic FS80H and FS81H fingerprint scanners.
+2026-11-08T18:43:35.673511Z,rango-orm-core,0.2.0,0,0,https://github.com/ikarys/rango-orm,"Database-free core of Rango ORM: model traits, schema and field types"
+2026-11-08T18:43:38.219568Z,rango-orm-derive,0.2.0,0,0,https://github.com/ikarys/rango-orm,#[derive(Model)] proc-macro for Rango ORM
+2026-11-08T18:43:39.020115Z,rango-orm-mysql,0.2.0,0,0,https://github.com/ikarys/rango-orm,MySQL 8.0+ / MariaDB 10.6+ backend for Rango ORM (sqlx)
+2026-11-08T18:43:39.780542Z,rango-orm-postgres,0.2.0,0,0,https://github.com/ikarys/rango-orm,PostgreSQL backend for Rango ORM (sqlx)
+2026-11-08T18:43:40.453961Z,rango-orm-sqlite,0.2.0,0,0,https://github.com/ikarys/rango-orm,SQLite backend for Rango ORM (sqlx)
+2026-11-08T18:44:09.607192Z,vikshep-detmath,0.1.0,0,0,https://github.com/samvardhan03/vikshep-compute,"Portable, platform-independent transcendental functions (VDS-1 section 4)"
+2026-11-08T18:44:14.202158Z,vikshep-numerics,0.1.0,0,0,https://github.com/samvardhan03/vikshep-compute,"Deterministic RNG, hashing and (from C1) FFT for Vikshep"
+2026-11-08T18:44:16.988516Z,vikshep-backend-api,0.1.0,0,0,https://github.com/samvardhan03/vikshep-compute,Backend interface implemented by the CPU reference and GPU backends
+2026-11-08T18:44:21.442713Z,vikshep-cpu,0.1.0,0,0,https://github.com/samvardhan03/vikshep-compute,CPU reference backend (VDS-1 Tier 1)
+2026-11-08T18:44:23.709919Z,vikshep-scatter,0.1.0,0,0,https://github.com/samvardhan03/vikshep-compute,"Wavelet scattering transform (VDS-1 Tier 1 definition, CPU reference)"
+2026-11-08T18:47:29.004955Z,edda-accounts,0.2.0,0,0,https://git.gunnar.rs/nordisk/edda,"The ONE account model of the nordisk products: an account is its own row with an owner and a set of admins, its people are members, its machines and groups belong to it, the owner buys and members ne…"
+2026-11-08T18:48:15.464708Z,svcscan,0.1.1,0,0,https://github.com/mnk-works/svcscan,"Fast, reliable async TCP port scanner + banner/HTTP grabber. No external scanner deps. Navigable, append-safe results."
+2026-11-08T18:49:20.502726Z,jflib-img-tiff,0.1.0,0,0,https://github.com/JFLibrary/JFLib,"TIFF decoder and encoder for JFLib, with CCITT"
+2026-11-08T18:51:33.318971Z,rango-orm,0.2.0,0,0,https://github.com/ikarys/rango-orm,"Django-inspired async ORM for Rust: define structs, get generated migrations and a typed query builder (PostgreSQL, SQLite, MySQL/MariaDB)"
+2026-11-08T18:52:00.212658Z,tpt-gis,0.1.0,0,0,https://github.com/tpt-solutions/tpt-gis,"Facade crate re-exporting the tpt-gis GIS engine (core, geom, io, index, raster) behind feature flags."
+2026-11-08T18:53:46.050028Z,vikshep-anomaly,0.1.0,0,0,https://github.com/samvardhan03/vikshep-compute,"Deterministic anomaly search: Sliced Wasserstein-1, HNSW, graph output contract"
+2026-11-08T18:53:51.695224Z,fatturapa,0.1.0,0,0,https://github.com/LucaCappelletti94/fatturapa,Reading and writing of every FatturaPA invoice and SDI message
+2026-11-08T18:59:09.543134Z,rango-orm-cli,0.2.0,0,0,https://github.com/ikarys/rango-orm,"Rango ORM CLI: generated migrations (makemigrations, migrate), export and import"
+2026-11-08T18:59:51.130377Z,jflib-text,0.1.0,0,0,https://github.com/JFLibrary/JFLib,"JFLib's text: fonts, synthetic styles, colour glyphs, the glyph cache, text runs"
+2026-11-08T19:00:17.347363Z,p0-ide,0.1.0,0,0,https://github.com/Pulko/p0,A mouse-driven terminal IDE for TypeScript and JavaScript on macOS.
+2026-11-08T19:03:46.123653Z,vikshep-stats,0.1.0,0,0,https://github.com/samvardhan03/vikshep-compute,"Deterministic Tier-2 statistics: weighted dCorr2 and gradient, JSD, Asimov proxy, benchmark report"
+2026-11-08T19:05:36.278041Z,southstar-regress,1.0.8,0,0,https://github.com/nordstjernen-web/southstar-browser,"Southstar's fork of regress: a regular expression engine targeting EcmaScript syntax, with a backtracking budget."
+2026-11-08T19:06:29.544774Z,text_magic_budy,0.1.0,0,0,,A Rust library for text manipulation and processing.
+2026-11-08T19:06:39.565637Z,mina-rosetta-sdk,0.1.0,0,0,https://github.com/o1-labs/mina-rosetta-sdk-rust,Rust SDK for the Mina Rosetta (Coinbase Mesh) API: typed Data and Construction endpoints
+2026-11-08T19:06:54.581611Z,southstar-psl,1.0.8,0,0,https://github.com/nordstjernen-web/southstar-browser,"Southstar's Public Suffix List algorithm, over the list the system or the browser bundle provides: the registrable domains cookies and sites use"
+2026-11-08T19:08:40.691444Z,fhir-search,0.1.128,0,0,https://github.com/FerroHEALTH/FerroBRIDGE,"The FHIR R4 search value grammar: the escaped value list, tokens, string matching and dates with their prefixes and ranges"
+2026-11-08T19:10:11.880263Z,lonca-core,0.2.0,0,0,https://github.com/selcukgural/lonca,"Deterministic building blocks of Lonca: change ids, the signed operation log, keys and the Git store"
+2026-11-08T19:10:19.465114Z,jflib-img-avif,0.1.0,0,0,https://github.com/JFLibrary/JFLib,AVIF reader and writer for JFLib
+2026-11-08T19:13:46.498082Z,vikshep-train,0.1.0,0,0,https://github.com/samvardhan03/vikshep-compute,"Deterministic DisCo training, lambda sweep, benchmark report and calibration"
+2026-11-08T19:14:04.399761Z,woofrng,0.0.2,0,0,,A no-allocation random library using raw linux syscalls
+2026-11-08T19:14:15.092171Z,lonca-client,0.2.0,0,0,https://github.com/selcukgural/lonca,"Client of the Lonca daemon socket: protocol types, framing, daemon checks and the human session file"
+2026-11-08T19:14:17.308711Z,lonca-policy,0.2.0,0,0,https://github.com/selcukgural/lonca,"Lonca's deterministic decision layer: the pure decide() function, state replay, Cedar policies and human keys"
+2026-11-08T19:14:19.218199Z,lonca-symbols,0.2.0,0,0,https://github.com/selcukgural/lonca,"Symbols, facts and the structural merge of Lonca, pure functions of file contents (tree-sitter)"
+2026-11-08T19:14:23.251645Z,lonca-audit,0.2.0,0,0,https://github.com/selcukgural/lonca,Independent auditor of a Lonca repository: replays every decision of the signed operation log and recomputes its facts and merges
+2026-11-08T19:14:54.753285Z,lonca-verify,0.2.0,0,0,https://github.com/selcukgural/lonca,"Sandboxed build and test runs of Lonca's merge queue, recorded as evidence"
