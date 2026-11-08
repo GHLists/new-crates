@@ -8,60 +8,45 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-08 13:19 UTC
+## Latest list — 2026-11-08 14:18 UTC
 
-New crates published between 2026-11-08 12:20 UTC and 2026-11-08 13:19 UTC.
+New crates published between 2026-11-08 13:19 UTC and 2026-11-08 14:18 UTC.
 
-[Full CSV](data/new-crates-2026-11-08T13-19-41-402157Z.csv)
+[Full CSV](data/new-crates-2026-11-08T14-18-36-900455Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-08 12:21:11 | [jflib-build](https://crates.io/crates/jflib-build) | 0.1.0 | 0 | What a JFLib app's build.rs hands to ui::main! and rt::main!: permissions, pack… |
-| 2026-11-08 12:22:04 | [persian-normalizer](https://crates.io/crates/persian-normalizer) | 0.1.0 | 0 | Small, fast, zero-copy-when-possible Persian (Farsi) text normalization |
-| 2026-11-08 12:25:17 | [rhwp-hayro-jpeg2000](https://crates.io/crates/rhwp-hayro-jpeg2000) | 0.4.0-rhwp.1 | 0 | A memory-safe, pure-Rust JPEG 2000 decoder. |
-| 2026-11-08 12:27:42 | [tamias-cache](https://crates.io/crates/tamias-cache) | 0.1.0 | 0 | cache port — read-through fetched content |
-| 2026-11-08 12:28:48 | [blvm-lightning](https://crates.io/crates/blvm-lightning) | 0.1.6 | 0 | Lightning Network payment processor module for blvm-node |
-| 2026-11-08 12:31:36 | [jflib-modplat](https://crates.io/crates/jflib-modplat) | 0.1.0 | 0 | The platform layer of a loadable JFLib module, through its host |
-| 2026-11-08 12:33:25 | [loomer-core](https://crates.io/crates/loomer-core) | 0.0.0 | 0 | Core data types for Loomer: colors, geometry, elements, and window options. |
-| 2026-11-08 12:34:53 | [loomer-platform](https://crates.io/crates/loomer-platform) | 0.0.0 | 0 | Platform layer for Loomer: winit-backed windows, the event loop, and event tran… |
-| 2026-11-08 12:35:17 | [rhwp-qcms](https://crates.io/crates/rhwp-qcms) | 0.3.0-rhwp.1 | 0 | lightweight color management |
-| 2026-11-08 12:35:33 | [loomer-runtime](https://crates.io/crates/loomer-runtime) | 0.0.0 | 0 | Application runtime for Loomer: window lifecycle and event-loop integration. |
-| 2026-11-08 12:36:19 | [loomer](https://crates.io/crates/loomer) | 0.0.0 | 0 | A cross-platform desktop GUI framework for Rust. |
-| 2026-11-08 12:37:06 | [tamias-source-http](https://crates.io/crates/tamias-source-http) | 0.1.0 | 0 | http source impl — .tgz GET + optional sha256 pin |
-| 2026-11-08 12:38:36 | [devdoctor-core](https://crates.io/crates/devdoctor-core) | 0.1.1 | 0 | Reusable local-first developer environment diagnostics. |
-| 2026-11-08 12:39:36 | [devdoctor-mcp](https://crates.io/crates/devdoctor-mcp) | 0.1.1 | 0 | Read-only local MCP server for DevDoctor diagnostics. |
-| 2026-11-08 12:42:06 | [jflib-netpkt](https://crates.io/crates/jflib-netpkt) | 0.1.0 | 0 | Network packets byte for byte: addresses, checksums, header codecs, a dissector… |
-| 2026-11-08 12:45:14 | [rhwp-hayro-jbig2](https://crates.io/crates/rhwp-hayro-jbig2) | 0.3.0-rhwp.1 | 0 | A memory-safe, pure-Rust JBIG2 decoder. |
-| 2026-11-08 12:47:12 | [light-telemetry-client](https://crates.io/crates/light-telemetry-client) | 0.1.1 | 0 | LightTelemetry UDP fire-and-forget client |
-| 2026-11-08 12:47:18 | [light-telemetry-tracing](https://crates.io/crates/light-telemetry-tracing) | 0.1.1 | 0 | tracing layer emitting LightTelemetry UDP events |
-| 2026-11-08 12:47:28 | [light-telemetry](https://crates.io/crates/light-telemetry) | 0.1.1 | 0 | LightTelemetry ingest daemon |
-| 2026-11-08 12:48:28 | [tamias-publish](https://crates.io/crates/tamias-publish) | 0.1.0 | 0 | author side — pack + push |
-| 2026-11-08 12:51:14 | [window-islands](https://crates.io/crates/window-islands) | 0.1.0 | 0 | Group stacked Windows apps into a floating icon island above the window. |
-| 2026-11-08 12:52:45 | [jflib-plat](https://crates.io/crates/jflib-plat) | 0.1.0 | 0 | JFLib's platform layer: one module per operating system with the same functions |
-| 2026-11-08 12:53:15 | [blvm-governance](https://crates.io/crates/blvm-governance) | 0.1.5 | 0 | Governance webhook and economic node tracking module for blvm-node |
-| 2026-11-08 12:53:50 | [malt-core](https://crates.io/crates/malt-core) | 0.1.0 | 0 | Core engine for malt: AST traversal, rule traits, and diagnostics |
-| 2026-11-08 12:53:58 | [malt-rules](https://crates.io/crates/malt-rules) | 0.1.0 | 0 | Lint rule implementations for malt |
-| 2026-11-08 12:54:09 | [malt-cli](https://crates.io/crates/malt-cli) | 0.1.0 | 0 | Command-line interface for the malt MATLAB linter |
-| 2026-11-08 12:54:25 | [tunnelward-crypto](https://crates.io/crates/tunnelward-crypto) | 0.0.9 | 0 | Tunnelward TLS configuration with hybrid post-quantum key exchange |
-| 2026-11-08 12:54:26 | [tunnelward-mcp](https://crates.io/crates/tunnelward-mcp) | 0.0.9 | 0 | Tunnelward MCP envelope parsing for Streamable HTTP and SSE |
-| 2026-11-08 12:54:27 | [tunnelward-proto](https://crates.io/crates/tunnelward-proto) | 0.0.9 | 0 | Tunnelward wire protocol: register frames, limits and error codes |
-| 2026-11-08 12:54:29 | [tunnelward-connector](https://crates.io/crates/tunnelward-connector) | 0.0.9 | 0 | Tunnelward connector: outbound registration and stdio bridge |
-| 2026-11-08 12:54:31 | [tunnelward-gateway](https://crates.io/crates/tunnelward-gateway) | 0.0.9 | 0 | Tunnelward gateway: ingress, routing, admission and admin API |
-| 2026-11-08 12:55:14 | [rust-widgets-icons](https://crates.io/crates/rust-widgets-icons) | 4.1.0 | 0 | Material Symbols outlined icon data and name table for rust_widgets (generated… |
-| 2026-11-08 12:55:23 | [smarthive-socket](https://crates.io/crates/smarthive-socket) | 0.2.0 | 0 | Server-side Rust SDK for SmartHive Hive-Socket: notifications, room broadcasts,… |
-| 2026-11-08 12:55:37 | [rhwp-pdf-import-backend](https://crates.io/crates/rhwp-pdf-import-backend) | 0.3.78-rhwp.1 | 0 | rhwp internal PDF import backend, security patches based on PDFOxide 0.3.78; no… |
-| 2026-11-08 12:58:56 | [tamias-registry-local](https://crates.io/crates/tamias-registry-local) | 0.1.0 | 0 | dir registry impl — a folder index, servable over HTTP |
-| 2026-11-08 13:01:21 | [tunnelward](https://crates.io/crates/tunnelward) | 0.0.9 | 0 | The tunnelward command-line tool |
-| 2026-11-08 13:03:16 | [jflib-simd](https://crates.io/crates/jflib-simd) | 0.1.0 | 0 | SSE2 and AVX2 behind one safe interface: a kernel written once, with bit-identi… |
-| 2026-11-08 13:05:52 | [rhwp](https://crates.io/crates/rhwp) | 0.9.0 | 0 | HWP/HWPX document engine for Rust applications, WebAssembly, and CLI automation |
-| 2026-11-08 13:08:48 | [mobile-ime-core](https://crates.io/crates/mobile-ime-core) | 0.1.0 | 0 | Platform-independent state for mobile IME composition and focus |
-| 2026-11-08 13:08:50 | [cuora-tui](https://crates.io/crates/cuora-tui) | 0.1.0 | 0 | cuora — interactive vault TUI; a thin front-end over cuora-ops (phase 5 polish) |
-| 2026-11-08 13:12:32 | [ld2410s](https://crates.io/crates/ld2410s) | 0.2.2 | 0 | HLK-LD2410S driver with backend-agnostic UART ownership for serialport or esp-i… |
-| 2026-11-08 13:13:47 | [jflib-wgsl](https://crates.io/crates/jflib-wgsl) | 0.1.0 | 0 | JFLib's WGSL compiler: source text to a checked, typed module to SPIR-V |
-| 2026-11-08 13:14:48 | [superleader](https://crates.io/crates/superleader) | 0.0.1 | 0 | A leader key for the whole desktop: a tree of keys, pickers, prompts and live v… |
-| 2026-11-08 13:14:53 | [nornir-mimir-bin](https://crates.io/crates/nornir-mimir-bin) | 0.1.0 | 0 | Mímir's binary graph: static x86_64 and AArch64 ELF control-flow discovery (pro… |
-| 2026-11-08 13:17:29 | [tamias-config-yml](https://crates.io/crates/tamias-config-yml) | 0.1.0 | 0 | YAML config impl (the standard) — tamias.yml / tamias.yaml |
-| 2026-11-08 13:17:46 | [trlctl](https://crates.io/crates/trlctl) | 0.1.0 | 0 | Scaffold and validate repositories that follow the therealm Argo CD layout |
+| 2026-11-08 13:22:42 | [rfc9162-log](https://crates.io/crates/rfc9162-log) | 0.9.0 | 0 | An authenticated, indexed, append-only log over rfc9162 and rfc9162-tiles: sort… |
+| 2026-11-08 13:24:21 | [jflib-agent-io](https://crates.io/crates/jflib-agent-io) | 0.1.0 | 0 | Explicitly activated transports for JFLib's agent interface |
+| 2026-11-08 13:27:10 | [blvm-index](https://crates.io/crates/blvm-index) | 0.1.1 | 0 | Script history index. Replaces blvm-wallet-index and serves Electrum and Esplor… |
+| 2026-11-08 13:27:50 | [tamias-registry-cf](https://crates.io/crates/tamias-registry-cf) | 0.1.0 | 0 | Cloudflare registry impl — a Worker + R2 over HTTP |
+| 2026-11-08 13:28:44 | [palworld-cli](https://crates.io/crates/palworld-cli) | 0.1.1 | 0 | Unified CLI for Palworld Dedicated Server administration via REST API and RCON. |
+| 2026-11-08 13:33:50 | [blvm-fibre](https://crates.io/crates/blvm-fibre) | 0.1.5 | 0 | FIBRE (Fast Internet Bitcoin Relay Engine) loadable module for blvm-node |
+| 2026-11-08 13:34:48 | [jflib-appimagert](https://crates.io/crates/jflib-appimagert) | 0.1.0 | 0 | The AppImage runtime of JFLib's Linux packages (cargo jflib package) |
+| 2026-11-08 13:36:29 | [smarthive-ai-nexus](https://crates.io/crates/smarthive-ai-nexus) | 0.1.0 | 0 | Official Rust SDK for the SmartHive AI Nexus API (chat, embeddings, audio, imag… |
+| 2026-11-08 13:38:11 | [tamias-source-cf](https://crates.io/crates/tamias-source-cf) | 0.1.0 | 0 | Cloudflare registry source impl — the `cf:` ref arm |
+| 2026-11-08 13:40:28 | [pagbank-cli](https://crates.io/crates/pagbank-cli) | 0.2.0 | 0 | CLI para as APIs do PagBank |
+| 2026-11-08 13:45:15 | [jflib-base](https://crates.io/crates/jflib-base) | 0.1.0 | 0 | Portable basics above JFLib's runtime and platform layer: strings, arguments, I… |
+| 2026-11-08 13:45:45 | [social-oauth](https://crates.io/crates/social-oauth) | 0.1.0 | 0 | Storage-independent Google and Facebook OAuth authorization code flows |
+| 2026-11-08 13:48:35 | [tamias-serve](https://crates.io/crates/tamias-serve) | 0.1.0 | 0 | ndjson JSON-RPC over stdio — the embedding surface |
+| 2026-11-08 13:55:41 | [jflib-cas](https://crates.io/crates/jflib-cas) | 0.1.0 | 0 | A content-addressed, deduplicating, encrypted chunk store |
+| 2026-11-08 13:57:48 | [snora-interaction](https://crates.io/crates/snora-interaction) | 0.57.0 | 0 | How the reader operates snora: the focusable control, focus after a removal, Es… |
+| 2026-11-08 13:58:27 | [blvm-selective-sync](https://crates.io/crates/blvm-selective-sync) | 0.1.9 | 0 | Selective sync: download policy for flagged transaction content during IBD |
+| 2026-11-08 13:58:54 | [tamias](https://crates.io/crates/tamias) | 0.1.0 | 0 | tamias — package & content manager: fetch, store, cache, dispense |
+| 2026-11-08 13:59:45 | [tox-sys](https://crates.io/crates/tox-sys) | 0.1.0 | 0 | Raw FFI bindings to c-toxcore |
+| 2026-11-08 14:00:06 | [tox-client](https://crates.io/crates/tox-client) | 0.1.0 | 0 | Safe async wrapper around c-toxcore for messenger clients |
+| 2026-11-08 14:00:10 | [airs-runtime-core](https://crates.io/crates/airs-runtime-core) | 8.2.0 | 0 | Shared runtime evidence, privacy, collection and rendering core for the airs CL… |
+| 2026-11-08 14:00:24 | [tox-tui](https://crates.io/crates/tox-tui) | 0.1.1 | 0 | Terminal UI for the Tox P2P messenger |
+| 2026-11-08 14:00:33 | [twiki](https://crates.io/crates/twiki) | 0.2.0 | 0 | A terminal Wikipedia reader |
+| 2026-11-08 14:00:40 | [handlemyfile](https://crates.io/crates/handlemyfile) | 0.1.0 | 0 | High-precision PDF to DOCX converter engine in Pure Rust, WebAssembly, and Pyth… |
+| 2026-11-08 14:00:47 | [airs-mcp-client](https://crates.io/crates/airs-mcp-client) | 8.2.0 | 0 | Optional MCP client for the airs CLI: gateway OAuth (PKCE), private session cac… |
+| 2026-11-08 14:01:20 | [socketio-next](https://crates.io/crates/socketio-next) | 0.1.0 | 0 | Socket.IO v4 / Engine.IO v4 client with socket.io-client 4.8 parity: async (tok… |
+| 2026-11-08 14:02:43 | [tauri-plugin-socketio](https://crates.io/crates/tauri-plugin-socketio) | 0.1.0 | 0 | Tauri 2 plugin: named Socket.IO v4 clients (socketio-next) shared by Rust and t… |
+| 2026-11-08 14:06:09 | [jflib-datastore](https://crates.io/crates/jflib-datastore) | 0.1.0 | 0 | An embedded, crash-safe store of JSON records with a write-ahead log and snapsh… |
+| 2026-11-08 14:09:25 | [blvm-mesh](https://crates.io/crates/blvm-mesh) | 0.1.5 | 0 | Payment-gated mesh networking infrastructure for blvm-node |
+| 2026-11-08 14:09:40 | [cuora](https://crates.io/crates/cuora) | 0.1.0 | 0 | cuora — secrets broker for agents: reference URIs, redaction, env-injection CLI |
+| 2026-11-08 14:11:42 | [fexun](https://crates.io/crates/fexun) | 0.1.0 | 0 | A Bevy plugin for building visual novels with FeXun. |
+| 2026-11-08 14:16:38 | [jflib-eapm](https://crates.io/crates/jflib-eapm) | 0.1.0 | 0 | EAP-MD5 and EAP-PWD as state machines without I/O |
 
 ## Data source
 

@@ -1,0 +1,32 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-08T13:22:42.507872Z,rfc9162-log,0.9.0,0,0,https://github.com/leidarljos/rfc9162,"An authenticated, indexed, append-only log over rfc9162 and rfc9162-tiles: sorted runs whose manifests are logged, so a checkpoint signs the index"
+2026-11-08T13:24:21.45095Z,jflib-agent-io,0.1.0,0,0,https://github.com/JFLibrary/JFLib,Explicitly activated transports for JFLib's agent interface
+2026-11-08T13:27:10.110597Z,blvm-index,0.1.1,0,0,https://github.com/BTCDecoded/blvm-index,Script history index. Replaces blvm-wallet-index and serves Electrum and Esplora through the node.
+2026-11-08T13:27:50.686392Z,tamias-registry-cf,0.1.0,0,0,https://github.com/9aia/tamias,Cloudflare registry impl — a Worker + R2 over HTTP
+2026-11-08T13:28:44.524461Z,palworld-cli,0.1.1,0,0,https://github.com/realalden27/palworld-cli,Unified CLI for Palworld Dedicated Server administration via REST API and RCON.
+2026-11-08T13:33:50.141675Z,blvm-fibre,0.1.5,0,0,https://github.com/BTCDecoded/blvm-fibre,FIBRE (Fast Internet Bitcoin Relay Engine) loadable module for blvm-node
+2026-11-08T13:34:48.279861Z,jflib-appimagert,0.1.0,0,0,https://github.com/JFLibrary/JFLib,The AppImage runtime of JFLib's Linux packages (cargo jflib package)
+2026-11-08T13:36:29.287866Z,smarthive-ai-nexus,0.1.0,0,0,https://github.com/Smart-Hive-Labs/Ai-Nexus_SDK,"Official Rust SDK for the SmartHive AI Nexus API (chat, embeddings, audio, images, video, agents, RAG, realtime sessions)"
+2026-11-08T13:38:11.851741Z,tamias-source-cf,0.1.0,0,0,https://github.com/9aia/tamias,Cloudflare registry source impl — the `cf:` ref arm
+2026-11-08T13:40:28.862075Z,pagbank-cli,0.2.0,0,0,https://github.com/vinycalves/pagbank-cli,CLI para as APIs do PagBank
+2026-11-08T13:45:15.526168Z,jflib-base,0.1.0,0,0,https://github.com/JFLibrary/JFLib,"Portable basics above JFLib's runtime and platform layer: strings, arguments, INI files"
+2026-11-08T13:45:45.010099Z,social-oauth,0.1.0,0,0,https://github.com/gocfun/social-oauth,Storage-independent Google and Facebook OAuth authorization code flows
+2026-11-08T13:48:35.970987Z,tamias-serve,0.1.0,0,0,https://github.com/9aia/tamias,ndjson JSON-RPC over stdio — the embedding surface
+2026-11-08T13:55:41.948359Z,jflib-cas,0.1.0,0,0,https://github.com/JFLibrary/JFLib,"A content-addressed, deduplicating, encrypted chunk store"
+2026-11-08T13:57:48.794712Z,snora-interaction,0.57.0,0,0,https://github.com/nabbisen/snora,"How the reader operates snora: the focusable control, focus after a removal, Escape for overlays. An internal crate: it exists to serve the other snora crates, so depend on `snora`. Renamed from snor…"
+2026-11-08T13:58:27.903448Z,blvm-selective-sync,0.1.9,0,0,https://github.com/BTCDecoded/blvm-selective-sync,Selective sync: download policy for flagged transaction content during IBD
+2026-11-08T13:58:54.381481Z,tamias,0.1.0,0,0,https://github.com/9aia/tamias,"tamias — package & content manager: fetch, store, cache, dispense"
+2026-11-08T13:59:45.407206Z,tox-sys,0.1.0,0,0,https://github.com/hakuxyz/tox-tui,Raw FFI bindings to c-toxcore
+2026-11-08T14:00:06.068319Z,tox-client,0.1.0,0,0,https://github.com/hakuxyz/tox-tui,Safe async wrapper around c-toxcore for messenger clients
+2026-11-08T14:00:10.892874Z,airs-runtime-core,8.2.0,0,0,https://git.cdot.io/cdot/prisma-airs-cli,"Shared runtime evidence, privacy, collection and rendering core for the airs CLI and the optional airs-mcp service"
+2026-11-08T14:00:24.868536Z,tox-tui,0.1.1,0,0,https://github.com/hakuxyz/tox-tui,Terminal UI for the Tox P2P messenger
+2026-11-08T14:00:33.534498Z,twiki,0.2.0,0,0,https://github.com/14096/twiki,A terminal Wikipedia reader
+2026-11-08T14:00:40.562114Z,handlemyfile,0.1.0,0,0,https://github.com/handlemyfile/handlemyfile,"High-precision PDF to DOCX converter engine in Pure Rust, WebAssembly, and Python"
+2026-11-08T14:00:47.342594Z,airs-mcp-client,8.2.0,0,0,https://git.cdot.io/cdot/prisma-airs-cli,"Optional MCP client for the airs CLI: gateway OAuth (PKCE), private session cache, typed bounded tool calls and durable operation receipts"
+2026-11-08T14:01:20.373447Z,socketio-next,0.1.0,0,0,https://github.com/s00d/rust-socketio,"Socket.IO v4 / Engine.IO v4 client with socket.io-client 4.8 parity: async (tokio) and blocking, rustls or native-tls"
+2026-11-08T14:02:43.14671Z,tauri-plugin-socketio,0.1.0,0,0,https://github.com/s00d/rust-socketio,Tauri 2 plugin: named Socket.IO v4 clients (socketio-next) shared by Rust and the webview
+2026-11-08T14:06:09.1759Z,jflib-datastore,0.1.0,0,0,https://github.com/JFLibrary/JFLib,"An embedded, crash-safe store of JSON records with a write-ahead log and snapshots"
+2026-11-08T14:09:25.03025Z,blvm-mesh,0.1.5,0,0,https://github.com/BTCDecoded/blvm-mesh,Payment-gated mesh networking infrastructure for blvm-node
+2026-11-08T14:09:40.011211Z,cuora,0.1.0,0,0,https://github.com/9aia/cuora,"cuora — secrets broker for agents: reference URIs, redaction, env-injection CLI"
+2026-11-08T14:11:42.964122Z,fexun,0.1.0,0,0,https://github.com/fexunengine/fexun,A Bevy plugin for building visual novels with FeXun.
+2026-11-08T14:16:38.83774Z,jflib-eapm,0.1.0,0,0,https://github.com/JFLibrary/JFLib,EAP-MD5 and EAP-PWD as state machines without I/O
