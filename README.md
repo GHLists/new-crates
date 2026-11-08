@@ -8,46 +8,35 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-08 15:21 UTC
+## Latest list — 2026-11-08 16:18 UTC
 
-New crates published between 2026-11-08 14:18 UTC and 2026-11-08 15:21 UTC.
+New crates published between 2026-11-08 15:21 UTC and 2026-11-08 16:18 UTC.
 
-[Full CSV](data/new-crates-2026-11-08T15-21-28-529272Z.csv)
+[Full CSV](data/new-crates-2026-11-08T16-18-42-11736Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-08 14:27:07 | [jflib-gfx](https://crates.io/crates/jflib-gfx) | 0.1.0 | 0 | JFLib's 2D graphics: surfaces, the draw context, fills, blits, paths |
-| 2026-11-08 14:27:47 | [n2words](https://crates.io/crates/n2words) | 0.1.1 | 0 | Convert numbers to words in 50 languages (72 regional variants): cardinal, ordi… |
-| 2026-11-08 14:28:03 | [serial-codec](https://crates.io/crates/serial-codec) | 0.1.0 | 0 | Serial byte stream framing (Node serialport parser parity), AT response and URC… |
-| 2026-11-08 14:28:22 | [konklav-axum](https://crates.io/crates/konklav-axum) | 1.6.0 | 0 | Route policies and rate limits for axum, decided by the Konklav relying core |
-| 2026-11-08 14:28:32 | [serialplugin-core](https://crates.io/crates/serialplugin-core) | 0.1.0 | 0 | Serial port core of tauri-plugin-serialplugin without Tauri: RX hub, watch stre… |
-| 2026-11-08 14:32:34 | [forthling-science](https://crates.io/crates/forthling-science) | 0.2.4 | 0 | Numerical words for forthling: float arrays, matrices, linear algebra, special… |
-| 2026-11-08 14:35:24 | [ntlogger](https://crates.io/crates/ntlogger) | 0.1.0 | 0 | Logger for Windows kernel-mode Rust drivers: writes log records to the kernel d… |
-| 2026-11-08 14:36:19 | [crx3](https://crates.io/crates/crx3) | 0.0.1 | 0 | Chromium CRX3 package format: IDs, headers, signing and verification |
-| 2026-11-08 14:36:20 | [cup2](https://crates.io/crates/cup2) | 0.0.1 | 0 | Chromium's Client Update Protocol (CUP2): request/response signing data and pro… |
-| 2026-11-08 14:36:20 | [omaha-diff](https://crates.io/crates/omaha-diff) | 0.0.1 | 0 | Differential updates for Chromium's update protocol (puffin, zucchini) |
-| 2026-11-08 14:36:21 | [omaha-protocol](https://crates.io/crates/omaha-protocol) | 0.0.1 | 0 | Chromium update protocol (Omaha) types |
-| 2026-11-08 14:36:21 | [omaha-publish](https://crates.io/crates/omaha-publish) | 0.0.1 | 0 | Build signed, deterministic component feeds for Chromium's update protocol |
-| 2026-11-08 14:37:35 | [jflib-gpu](https://crates.io/crates/jflib-gpu) | 0.1.0 | 0 | GPU access for JFLib: an explicit API over Vulkan and WebGPU |
-| 2026-11-08 14:46:35 | [omaha-server](https://crates.io/crates/omaha-server) | 0.0.1 | 0 | Server for Chromium's update protocol (Omaha): endpoints, routing and update so… |
-| 2026-11-08 14:48:03 | [jflib-netio](https://crates.io/crates/jflib-netio) | 0.1.0 | 0 | Network protocols on top of JFLib's platform layer |
-| 2026-11-08 14:48:49 | [micromux-proxy](https://crates.io/crates/micromux-proxy) | 0.4.0 | 0 | Micromux is a local process supervisor with a terminal UI |
-| 2026-11-08 14:51:14 | [musicdb-rs](https://crates.io/crates/musicdb-rs) | 1.0.0 | 0 | Apple Music .musicdb parser, inspector, and format analysis toolkit |
-| 2026-11-08 14:56:11 | [toko-tooling](https://crates.io/crates/toko-tooling) | 0.32.1 | 0 | Version marker for the Dragginzgame shared development tooling |
-| 2026-11-08 14:56:36 | [omaha](https://crates.io/crates/omaha) | 0.0.1 | 0 | Tools for Chromium's update protocol (Omaha): CRX3, CUP2, update checks and com… |
-| 2026-11-08 14:58:30 | [jflib-spell](https://crates.io/crates/jflib-spell) | 0.1.0 | 0 | Spell checking for JFLib: Hunspell dictionaries, the system's checker, a person… |
-| 2026-11-08 15:00:41 | [procrastinator](https://crates.io/crates/procrastinator) | 0.1.0 | 0 | A tiny library for on-demand incremental computation |
-| 2026-11-08 15:02:16 | [tauri-kit-notification](https://crates.io/crates/tauri-kit-notification) | 0.32.0 | 0 | A native desktop notification for an installed app: the operating system's noti… |
-| 2026-11-08 15:02:22 | [tauri-kit-dialog](https://crates.io/crates/tauri-kit-dialog) | 0.32.0 | 0 | One route for an app's open and save dialogs, which a test build can answer fro… |
-| 2026-11-08 15:02:38 | [base-web-content-macros](https://crates.io/crates/base-web-content-macros) | 0.1.0 | 0 | The derive macros for base-web-content declarations |
-| 2026-11-08 15:02:48 | [base-web-content](https://crates.io/crates/base-web-content) | 0.1.0 | 0 | Declarative, limited parsing of web request content, such as forms, without I/O |
-| 2026-11-08 15:04:29 | [fulcrum-harness](https://crates.io/crates/fulcrum-harness) | 0.1.0 | 0 | The Fulcrum agent harness — the tool loop, provider clients, tools, sandbox and… |
-| 2026-11-08 15:05:23 | [simsense](https://crates.io/crates/simsense) | 0.0.0 | 0 | Validated sensor simulation. Placeholder: the first release is in development. |
-| 2026-11-08 15:06:47 | [lispy-procmacros](https://crates.io/crates/lispy-procmacros) | 0.1.0 | 0 | See crate: `lispy` |
-| 2026-11-08 15:08:59 | [jflib-doc-core](https://crates.io/crates/jflib-doc-core) | 0.1.0 | 0 | JFLib's structured document model with atomic edits and bounded undo and redo |
-| 2026-11-08 15:12:06 | [cargo-lockpatrol](https://crates.io/crates/cargo-lockpatrol) | 0.1.0 | 0 | Check every tracked Cargo.lock for RustSec advisories with cargo-deny, and keep… |
-| 2026-11-08 15:17:02 | [lispy](https://crates.io/crates/lispy) | 0.1.0 | 0 | Ports of some Common Lisp functions/macros. |
-| 2026-11-08 15:19:27 | [jflib-img-core](https://crates.io/crates/jflib-img-core) | 0.1.0 | 0 | The shared part of JFLib's image codecs: records, error codes, DEFLATE, colour… |
+| 2026-11-08 15:22:45 | [dxfeed-graal-sys](https://crates.io/crates/dxfeed-graal-sys) | 0.1.1+sdk.3.13.0 | 0 | Raw FFI bindings to the dxFeed Graal Native SDK C API (dxfg_v4_) |
+| 2026-11-08 15:22:48 | [dxfeed-graal-build](https://crates.io/crates/dxfeed-graal-build) | 0.1.1 | 0 | Build-script helper that deploys the dxFeed Graal Native SDK library next to an… |
+| 2026-11-08 15:22:55 | [dxfeed-graal](https://crates.io/crates/dxfeed-graal) | 0.1.1 | 0 | Rust API for dxFeed over the Graal Native SDK |
+| 2026-11-08 15:24:04 | [source-api](https://crates.io/crates/source-api) | 0.2.0 | 0 | Audio source API client |
+| 2026-11-08 15:27:47 | [tinyflock](https://crates.io/crates/tinyflock) | 0.1.0 | 0 | A few simple rules and a sky full of birds. A tiny, dependency-free flocking si… |
+| 2026-11-08 15:29:55 | [jflib-update](https://crates.io/crates/jflib-update) | 0.1.0 | 0 | Signed app updates for JFLib, with rollback |
+| 2026-11-08 15:31:45 | [gdtidy](https://crates.io/crates/gdtidy) | 0.1.0 | 0 | Format and lint GDScript, following the official Godot style guide |
+| 2026-11-08 15:32:51 | [sid-client](https://crates.io/crates/sid-client) | 0.1.0 | 0 | StructuredID native client: renewable sessions bound to the application key, wi… |
+| 2026-11-08 15:40:23 | [jflib-archive](https://crates.io/crates/jflib-archive) | 0.1.0 | 0 | In-memory ZIP32 reading and writing for JFLib |
+| 2026-11-08 15:43:11 | [netxray](https://crates.io/crates/netxray) | 0.1.0 | 0 | Transparent TCP proxy + TUI network logger for macOS (pf-based) |
+| 2026-11-08 15:50:53 | [jflib-doc-layout](https://crates.io/crates/jflib-doc-layout) | 0.1.0 | 0 | Paragraph flow and pagination for JFLib documents, independent of fonts and UI |
+| 2026-11-08 15:53:14 | [agent-assets](https://crates.io/crates/agent-assets) | 0.1.0 | 0 | Provider-neutral shared agent assets with a small sync/check engine |
+| 2026-11-08 15:59:00 | [cif](https://crates.io/crates/cif) | 0.2.0 | 0 | Reads and writes CIF 1.1 and 2.0 documents without losing anything they hold |
+| 2026-11-08 16:01:20 | [jflib-fx](https://crates.io/crates/jflib-fx) | 0.1.0 | 0 | Image effects and adjustments for JFLib, deterministic per pixel |
+| 2026-11-08 16:03:57 | [anathem](https://crates.io/crates/anathem) | 0.7.1 | 0 | Local memory for coding agents: one binary, one SQLite file, BM25 plus an optio… |
+| 2026-11-08 16:05:09 | [tamis](https://crates.io/crates/tamis) | 0.15.0 | 0 | A spam filter and Sieve mail sorter for remote mailboxes |
+| 2026-11-08 16:11:47 | [jflib-img-av1](https://crates.io/crates/jflib-img-av1) | 0.1.0 | 0 | AV1 intra decoder and encoder for AVIF still images |
+| 2026-11-08 16:18:03 | [kerniq-telemetry](https://crates.io/crates/kerniq-telemetry) | 0.1.3 | 0 | Shared telemetry conventions for Kerniq Server: metric names, bounded attribute… |
+| 2026-11-08 16:18:13 | [kerniq-observability-axum](https://crates.io/crates/kerniq-observability-axum) | 0.1.3 | 0 | Tower/Axum HTTP instrumentation for Kerniq Server: OpenTelemetry HTTP metrics,… |
+| 2026-11-08 16:18:18 | [kerniq-observability-prometheus](https://crates.io/crates/kerniq-observability-prometheus) | 0.1.3 | 0 | Prometheus scrape endpoint for Kerniq Server, backed by the OpenTelemetry Prome… |
+| 2026-11-08 16:18:33 | [kerniq-observability](https://crates.io/crates/kerniq-observability) | 0.1.3 | 0 | Vendor-neutral observability for Kerniq Server: OpenTelemetry metrics, logs and… |
 
 ## Data source
 
