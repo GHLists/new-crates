@@ -1,0 +1,31 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-08T06:20:24.704904Z,roomvana,0.1.0,0,0,https://github.com/TJLDC/roomvana-rs,Rust client for the Roomvana AI interior design catalog and design links
+2026-11-08T06:21:08.523128Z,canvist_extension_comments,0.0.0,0,0,https://github.com/canvist/canvist,"canvist: A `comment` mark holding thread ids, for comment threads anchored to text"
+2026-11-08T06:25:46.479607Z,motion-encode,0.1.0,0,0,https://github.com/motion-rs/motion-rs,Transactional encoding and stateless audio preparation
+2026-11-08T06:26:02.764814Z,pdfcer-jpeg-remux,0.137.0,0,0,https://github.com/KenM76/pdfcer,"Lossless rewrite of a sequential JPEG whose components arrive in separate scans into one interleaved scan (ITU-T T.81 A.2), for decoders that mis-read the non-interleaved layout. No dependencies beyo…"
+2026-11-08T06:26:07.369337Z,motion-formula,0.1.0,0,0,https://github.com/motion-rs/motion-rs,Typst-only compilation into shared motion vector content
+2026-11-08T06:26:41.639562Z,pdfcer-image-codec,0.137.0,0,0,https://github.com/KenM76/pdfcer,"pdfcer terminal image codecs: DCTDecode, CCITTFaxDecode, JBIG2Decode and JPXDecode (ISO 32000-1 7.4.6-7.4.9). Re-exported by pdfcer-core as `image_codec`."
+2026-11-08T06:26:45.935911Z,pdfcer-fonts,0.137.0,0,0,https://github.com/KenM76/pdfcer,"pdfcer fonts and text encoding: font data, font inventory, font embedding, PDF text strings, variable-text layout and line breaking. Re-exported by pdfcer-core."
+2026-11-08T06:26:49.72609Z,pdfcer-function,0.137.0,0,0,https://github.com/KenM76/pdfcer,"pdfcer PDF functions: sampled, exponential, stitching and PostScript calculator functions (ISO 32000-1 7.10). Re-exported by pdfcer-core."
+2026-11-08T06:26:58.213251Z,pdfcer-text,0.137.0,0,0,https://github.com/KenM76/pdfcer,"pdfcer text: text extraction (ISO 32000-1 9.10), ToUnicode CMaps and the text-state model (9.3). Re-exported by pdfcer-core."
+2026-11-08T06:29:30.429389Z,pdfcer-core,0.137.0,0,0,https://github.com/KenM76/pdfcer,"pdfcer PDF engine: reading, editing and saving PDFs with minimal-diff incremental writes; forms, annotations, redaction, page operations, text editing and extraction. Pure Rust, no GUI or network dep…"
+2026-11-08T06:29:59.554492Z,motion-scene,0.1.0,0,0,https://github.com/motion-rs/motion-rs,Declarative JSON scene documents for motion timelines
+2026-11-08T06:30:22.884206Z,canvist_extension_drag_handle,0.0.0,0,0,https://github.com/canvist/canvist,"canvist: Move blocks up and down with `Alt-↑` and `Alt-↓`, or to any position, like TipTap's DragHandle"
+2026-11-08T06:38:36.286038Z,pdfcer-render,0.137.0,0,0,https://github.com/KenM76/pdfcer,"pdfcer headless PDF renderer: pages and regions to RGBA pixmaps (cancellable), and pages to SVG with real text where possible. Pure Rust CPU rasterizer, no GUI dependencies."
+2026-11-08T06:39:00.278448Z,motion-studio,0.1.0,0,0,https://github.com/motion-rs/motion-rs,"Native desktop preview, playback and export workbench"
+2026-11-08T06:49:42.725898Z,motion-rs,0.1.0,0,0,https://github.com/motion-rs/motion-rs,Frame-based motion graphics and programmable video rendering in Rust
+2026-11-08T06:52:08.846098Z,xidong,0.1.0,0,0,https://github.com/Xidong-AI/xidong,西东智能体：以 Shell 为唯一工具的轻量命令行智能体
+2026-11-08T06:52:51.70247Z,web-access,0.4.1,0,0,https://github.com/osdlc/osdlc,"Put an axum app on the local network safely: listen settings, minted tokens, a request guard with grants and access contexts, a route permission table and a server that can be stopped."
+2026-11-08T06:55:26.959198Z,bpmnkit-spec,0.1.0,0,0,https://github.com/bpmnkit/bpmnkit,"BPMN Kit's single-source data (FEEL built-ins, lint rules, Camunda compatibility, connector templates, element definitions), generated from spec/"
+2026-11-08T06:55:48.966067Z,bpmnkit-xml,0.1.0,0,0,https://github.com/bpmnkit/bpmnkit,"Lossless XML reader and writer for BPMN Kit: keeps prefixes, attribute order and unknown content, as @bpmnkit/core does"
+2026-11-08T06:56:08.773943Z,bpmnkit-bpmn,0.1.0,0,0,https://github.com/bpmnkit/bpmnkit,"BPMN 2.0 + Zeebe model, parser and lossless serializer for BPMN Kit (Rust twin of @bpmnkit/core's BPMN I/O)"
+2026-11-08T06:56:34.452803Z,bpmnkit-feel,0.1.0,0,0,https://github.com/bpmnkit/bpmnkit,"FEEL (DMN 1.5 + Camunda extensions) lexer, parser and evaluator with exact decimals; the Rust twin of @bpmnkit/feel"
+2026-11-08T06:56:52.776157Z,bpmnkit-form,0.1.0,0,0,https://github.com/bpmnkit/bpmnkit,"Camunda Form model, parser and serializer for BPMN Kit (Rust twin of @bpmnkit/core's form parser and exporter)"
+2026-11-08T07:00:44.889824Z,oim-media,1.27.8,0,0,https://github.com/oim-media/oim,"Read, verify and interpret .oim files"
+2026-11-08T07:08:40.336894Z,tt-isa,0.1.0,0,0,https://github.com/zk4x/tt-isa,"Blackhole ISA: instruction encoders, register maps, coordinate spaces. no_std, no dependencies."
+2026-11-08T07:09:27.804305Z,cuora-core,0.1.0,0,0,https://github.com/9aia/cuora,"cuora domain core: cuora:// refs, redacting Secret, env axis, actor, config model — pure, no I/O"
+2026-11-08T07:09:31.821858Z,cuora-config,0.1.0,0,0,https://github.com/9aia/cuora,Config port: where cuora.toml-shaped config comes from
+2026-11-08T07:09:38.590109Z,cuora-config-toml,0.1.0,0,0,https://github.com/9aia/cuora,"Config impl: cuora.toml file (explicit path, env, ./, ~/.config)"
+2026-11-08T07:09:41.367189Z,cuora-deploy,0.1.0,0,0,https://github.com/9aia/cuora,Deploy port: write-only push targets (sinks) for secret values — never a source
+2026-11-08T07:09:46.227704Z,cuora-identity,0.1.0,0,0,https://github.com/9aia/cuora,"Identity port: where the age identity (master key) comes from — file, keyring, later sealed variants"
+2026-11-08T07:17:04.087934Z,cuora-notice,0.1.0,0,0,https://github.com/9aia/cuora,Process-wide UX notices — muted/replayed stderr notes that must not corrupt the cuora ui alternate screen
