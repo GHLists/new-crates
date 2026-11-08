@@ -8,45 +8,46 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-08 14:18 UTC
+## Latest list — 2026-11-08 15:21 UTC
 
-New crates published between 2026-11-08 13:19 UTC and 2026-11-08 14:18 UTC.
+New crates published between 2026-11-08 14:18 UTC and 2026-11-08 15:21 UTC.
 
-[Full CSV](data/new-crates-2026-11-08T14-18-36-900455Z.csv)
+[Full CSV](data/new-crates-2026-11-08T15-21-28-529272Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-08 13:22:42 | [rfc9162-log](https://crates.io/crates/rfc9162-log) | 0.9.0 | 0 | An authenticated, indexed, append-only log over rfc9162 and rfc9162-tiles: sort… |
-| 2026-11-08 13:24:21 | [jflib-agent-io](https://crates.io/crates/jflib-agent-io) | 0.1.0 | 0 | Explicitly activated transports for JFLib's agent interface |
-| 2026-11-08 13:27:10 | [blvm-index](https://crates.io/crates/blvm-index) | 0.1.1 | 0 | Script history index. Replaces blvm-wallet-index and serves Electrum and Esplor… |
-| 2026-11-08 13:27:50 | [tamias-registry-cf](https://crates.io/crates/tamias-registry-cf) | 0.1.0 | 0 | Cloudflare registry impl — a Worker + R2 over HTTP |
-| 2026-11-08 13:28:44 | [palworld-cli](https://crates.io/crates/palworld-cli) | 0.1.1 | 0 | Unified CLI for Palworld Dedicated Server administration via REST API and RCON. |
-| 2026-11-08 13:33:50 | [blvm-fibre](https://crates.io/crates/blvm-fibre) | 0.1.5 | 0 | FIBRE (Fast Internet Bitcoin Relay Engine) loadable module for blvm-node |
-| 2026-11-08 13:34:48 | [jflib-appimagert](https://crates.io/crates/jflib-appimagert) | 0.1.0 | 0 | The AppImage runtime of JFLib's Linux packages (cargo jflib package) |
-| 2026-11-08 13:36:29 | [smarthive-ai-nexus](https://crates.io/crates/smarthive-ai-nexus) | 0.1.0 | 0 | Official Rust SDK for the SmartHive AI Nexus API (chat, embeddings, audio, imag… |
-| 2026-11-08 13:38:11 | [tamias-source-cf](https://crates.io/crates/tamias-source-cf) | 0.1.0 | 0 | Cloudflare registry source impl — the `cf:` ref arm |
-| 2026-11-08 13:40:28 | [pagbank-cli](https://crates.io/crates/pagbank-cli) | 0.2.0 | 0 | CLI para as APIs do PagBank |
-| 2026-11-08 13:45:15 | [jflib-base](https://crates.io/crates/jflib-base) | 0.1.0 | 0 | Portable basics above JFLib's runtime and platform layer: strings, arguments, I… |
-| 2026-11-08 13:45:45 | [social-oauth](https://crates.io/crates/social-oauth) | 0.1.0 | 0 | Storage-independent Google and Facebook OAuth authorization code flows |
-| 2026-11-08 13:48:35 | [tamias-serve](https://crates.io/crates/tamias-serve) | 0.1.0 | 0 | ndjson JSON-RPC over stdio — the embedding surface |
-| 2026-11-08 13:55:41 | [jflib-cas](https://crates.io/crates/jflib-cas) | 0.1.0 | 0 | A content-addressed, deduplicating, encrypted chunk store |
-| 2026-11-08 13:57:48 | [snora-interaction](https://crates.io/crates/snora-interaction) | 0.57.0 | 0 | How the reader operates snora: the focusable control, focus after a removal, Es… |
-| 2026-11-08 13:58:27 | [blvm-selective-sync](https://crates.io/crates/blvm-selective-sync) | 0.1.9 | 0 | Selective sync: download policy for flagged transaction content during IBD |
-| 2026-11-08 13:58:54 | [tamias](https://crates.io/crates/tamias) | 0.1.0 | 0 | tamias — package & content manager: fetch, store, cache, dispense |
-| 2026-11-08 13:59:45 | [tox-sys](https://crates.io/crates/tox-sys) | 0.1.0 | 0 | Raw FFI bindings to c-toxcore |
-| 2026-11-08 14:00:06 | [tox-client](https://crates.io/crates/tox-client) | 0.1.0 | 0 | Safe async wrapper around c-toxcore for messenger clients |
-| 2026-11-08 14:00:10 | [airs-runtime-core](https://crates.io/crates/airs-runtime-core) | 8.2.0 | 0 | Shared runtime evidence, privacy, collection and rendering core for the airs CL… |
-| 2026-11-08 14:00:24 | [tox-tui](https://crates.io/crates/tox-tui) | 0.1.1 | 0 | Terminal UI for the Tox P2P messenger |
-| 2026-11-08 14:00:33 | [twiki](https://crates.io/crates/twiki) | 0.2.0 | 0 | A terminal Wikipedia reader |
-| 2026-11-08 14:00:40 | [handlemyfile](https://crates.io/crates/handlemyfile) | 0.1.0 | 0 | High-precision PDF to DOCX converter engine in Pure Rust, WebAssembly, and Pyth… |
-| 2026-11-08 14:00:47 | [airs-mcp-client](https://crates.io/crates/airs-mcp-client) | 8.2.0 | 0 | Optional MCP client for the airs CLI: gateway OAuth (PKCE), private session cac… |
-| 2026-11-08 14:01:20 | [socketio-next](https://crates.io/crates/socketio-next) | 0.1.0 | 0 | Socket.IO v4 / Engine.IO v4 client with socket.io-client 4.8 parity: async (tok… |
-| 2026-11-08 14:02:43 | [tauri-plugin-socketio](https://crates.io/crates/tauri-plugin-socketio) | 0.1.0 | 0 | Tauri 2 plugin: named Socket.IO v4 clients (socketio-next) shared by Rust and t… |
-| 2026-11-08 14:06:09 | [jflib-datastore](https://crates.io/crates/jflib-datastore) | 0.1.0 | 0 | An embedded, crash-safe store of JSON records with a write-ahead log and snapsh… |
-| 2026-11-08 14:09:25 | [blvm-mesh](https://crates.io/crates/blvm-mesh) | 0.1.5 | 0 | Payment-gated mesh networking infrastructure for blvm-node |
-| 2026-11-08 14:09:40 | [cuora](https://crates.io/crates/cuora) | 0.1.0 | 0 | cuora — secrets broker for agents: reference URIs, redaction, env-injection CLI |
-| 2026-11-08 14:11:42 | [fexun](https://crates.io/crates/fexun) | 0.1.0 | 0 | A Bevy plugin for building visual novels with FeXun. |
-| 2026-11-08 14:16:38 | [jflib-eapm](https://crates.io/crates/jflib-eapm) | 0.1.0 | 0 | EAP-MD5 and EAP-PWD as state machines without I/O |
+| 2026-11-08 14:27:07 | [jflib-gfx](https://crates.io/crates/jflib-gfx) | 0.1.0 | 0 | JFLib's 2D graphics: surfaces, the draw context, fills, blits, paths |
+| 2026-11-08 14:27:47 | [n2words](https://crates.io/crates/n2words) | 0.1.1 | 0 | Convert numbers to words in 50 languages (72 regional variants): cardinal, ordi… |
+| 2026-11-08 14:28:03 | [serial-codec](https://crates.io/crates/serial-codec) | 0.1.0 | 0 | Serial byte stream framing (Node serialport parser parity), AT response and URC… |
+| 2026-11-08 14:28:22 | [konklav-axum](https://crates.io/crates/konklav-axum) | 1.6.0 | 0 | Route policies and rate limits for axum, decided by the Konklav relying core |
+| 2026-11-08 14:28:32 | [serialplugin-core](https://crates.io/crates/serialplugin-core) | 0.1.0 | 0 | Serial port core of tauri-plugin-serialplugin without Tauri: RX hub, watch stre… |
+| 2026-11-08 14:32:34 | [forthling-science](https://crates.io/crates/forthling-science) | 0.2.4 | 0 | Numerical words for forthling: float arrays, matrices, linear algebra, special… |
+| 2026-11-08 14:35:24 | [ntlogger](https://crates.io/crates/ntlogger) | 0.1.0 | 0 | Logger for Windows kernel-mode Rust drivers: writes log records to the kernel d… |
+| 2026-11-08 14:36:19 | [crx3](https://crates.io/crates/crx3) | 0.0.1 | 0 | Chromium CRX3 package format: IDs, headers, signing and verification |
+| 2026-11-08 14:36:20 | [cup2](https://crates.io/crates/cup2) | 0.0.1 | 0 | Chromium's Client Update Protocol (CUP2): request/response signing data and pro… |
+| 2026-11-08 14:36:20 | [omaha-diff](https://crates.io/crates/omaha-diff) | 0.0.1 | 0 | Differential updates for Chromium's update protocol (puffin, zucchini) |
+| 2026-11-08 14:36:21 | [omaha-protocol](https://crates.io/crates/omaha-protocol) | 0.0.1 | 0 | Chromium update protocol (Omaha) types |
+| 2026-11-08 14:36:21 | [omaha-publish](https://crates.io/crates/omaha-publish) | 0.0.1 | 0 | Build signed, deterministic component feeds for Chromium's update protocol |
+| 2026-11-08 14:37:35 | [jflib-gpu](https://crates.io/crates/jflib-gpu) | 0.1.0 | 0 | GPU access for JFLib: an explicit API over Vulkan and WebGPU |
+| 2026-11-08 14:46:35 | [omaha-server](https://crates.io/crates/omaha-server) | 0.0.1 | 0 | Server for Chromium's update protocol (Omaha): endpoints, routing and update so… |
+| 2026-11-08 14:48:03 | [jflib-netio](https://crates.io/crates/jflib-netio) | 0.1.0 | 0 | Network protocols on top of JFLib's platform layer |
+| 2026-11-08 14:48:49 | [micromux-proxy](https://crates.io/crates/micromux-proxy) | 0.4.0 | 0 | Micromux is a local process supervisor with a terminal UI |
+| 2026-11-08 14:51:14 | [musicdb-rs](https://crates.io/crates/musicdb-rs) | 1.0.0 | 0 | Apple Music .musicdb parser, inspector, and format analysis toolkit |
+| 2026-11-08 14:56:11 | [toko-tooling](https://crates.io/crates/toko-tooling) | 0.32.1 | 0 | Version marker for the Dragginzgame shared development tooling |
+| 2026-11-08 14:56:36 | [omaha](https://crates.io/crates/omaha) | 0.0.1 | 0 | Tools for Chromium's update protocol (Omaha): CRX3, CUP2, update checks and com… |
+| 2026-11-08 14:58:30 | [jflib-spell](https://crates.io/crates/jflib-spell) | 0.1.0 | 0 | Spell checking for JFLib: Hunspell dictionaries, the system's checker, a person… |
+| 2026-11-08 15:00:41 | [procrastinator](https://crates.io/crates/procrastinator) | 0.1.0 | 0 | A tiny library for on-demand incremental computation |
+| 2026-11-08 15:02:16 | [tauri-kit-notification](https://crates.io/crates/tauri-kit-notification) | 0.32.0 | 0 | A native desktop notification for an installed app: the operating system's noti… |
+| 2026-11-08 15:02:22 | [tauri-kit-dialog](https://crates.io/crates/tauri-kit-dialog) | 0.32.0 | 0 | One route for an app's open and save dialogs, which a test build can answer fro… |
+| 2026-11-08 15:02:38 | [base-web-content-macros](https://crates.io/crates/base-web-content-macros) | 0.1.0 | 0 | The derive macros for base-web-content declarations |
+| 2026-11-08 15:02:48 | [base-web-content](https://crates.io/crates/base-web-content) | 0.1.0 | 0 | Declarative, limited parsing of web request content, such as forms, without I/O |
+| 2026-11-08 15:04:29 | [fulcrum-harness](https://crates.io/crates/fulcrum-harness) | 0.1.0 | 0 | The Fulcrum agent harness — the tool loop, provider clients, tools, sandbox and… |
+| 2026-11-08 15:05:23 | [simsense](https://crates.io/crates/simsense) | 0.0.0 | 0 | Validated sensor simulation. Placeholder: the first release is in development. |
+| 2026-11-08 15:06:47 | [lispy-procmacros](https://crates.io/crates/lispy-procmacros) | 0.1.0 | 0 | See crate: `lispy` |
+| 2026-11-08 15:08:59 | [jflib-doc-core](https://crates.io/crates/jflib-doc-core) | 0.1.0 | 0 | JFLib's structured document model with atomic edits and bounded undo and redo |
+| 2026-11-08 15:12:06 | [cargo-lockpatrol](https://crates.io/crates/cargo-lockpatrol) | 0.1.0 | 0 | Check every tracked Cargo.lock for RustSec advisories with cargo-deny, and keep… |
+| 2026-11-08 15:17:02 | [lispy](https://crates.io/crates/lispy) | 0.1.0 | 0 | Ports of some Common Lisp functions/macros. |
+| 2026-11-08 15:19:27 | [jflib-img-core](https://crates.io/crates/jflib-img-core) | 0.1.0 | 0 | The shared part of JFLib's image codecs: records, error codes, DEFLATE, colour… |
 
 ## Data source
 

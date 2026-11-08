@@ -1,0 +1,33 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-08T14:27:07.01907Z,jflib-gfx,0.1.0,0,0,https://github.com/JFLibrary/JFLib,"JFLib's 2D graphics: surfaces, the draw context, fills, blits, paths"
+2026-11-08T14:27:47.53155Z,n2words,0.1.1,0,0,https://github.com/forzagreen/n2words-rs,"Convert numbers to words in 50 languages (72 regional variants): cardinal, ordinal and currency forms, with arbitrary-precision input"
+2026-11-08T14:28:03.157416Z,serial-codec,0.1.0,0,0,https://github.com/s00d/tauri-plugin-serialplugin,"Serial byte stream framing (Node serialport parser parity), AT response and URC parsing, SMS PDU (GSM 7-bit / UCS-2), USSD and 3GPP 27.010 CMUX frames"
+2026-11-08T14:28:22.481932Z,konklav-axum,1.6.0,0,0,https://github.com/cstruct/konklav,"Route policies and rate limits for axum, decided by the Konklav relying core"
+2026-11-08T14:28:32.878649Z,serialplugin-core,0.1.0,0,0,https://github.com/s00d/tauri-plugin-serialplugin,"Serial port core of tauri-plugin-serialplugin without Tauri: RX hub, watch streams with native parsers, AT exchange, CMUX, TCP and BLE transports"
+2026-11-08T14:32:34.45361Z,forthling-science,0.2.4,0,0,https://github.com/DeSchaker/forthling,"Numerical words for forthling: float arrays, matrices, linear algebra, special functions, calculus, roots, interpolation, complex numbers and the FFT"
+2026-11-08T14:35:24.425334Z,ntlogger,0.1.0,0,0,https://github.com/krakenaut9/ntlogger,"Logger for Windows kernel-mode Rust drivers: writes log records to the kernel debugger and to sinks of the driver's own, without allocating."
+2026-11-08T14:36:19.310098Z,crx3,0.0.1,0,0,,"Chromium CRX3 package format: IDs, headers, signing and verification"
+2026-11-08T14:36:20.046974Z,cup2,0.0.1,0,0,,Chromium's Client Update Protocol (CUP2): request/response signing data and proofs
+2026-11-08T14:36:20.502862Z,omaha-diff,0.0.1,0,0,,"Differential updates for Chromium's update protocol (puffin, zucchini)"
+2026-11-08T14:36:21.10595Z,omaha-protocol,0.0.1,0,0,,Chromium update protocol (Omaha) types
+2026-11-08T14:36:21.691057Z,omaha-publish,0.0.1,0,0,,"Build signed, deterministic component feeds for Chromium's update protocol"
+2026-11-08T14:37:35.457759Z,jflib-gpu,0.1.0,0,0,https://github.com/JFLibrary/JFLib,GPU access for JFLib: an explicit API over Vulkan and WebGPU
+2026-11-08T14:46:35.367885Z,omaha-server,0.0.1,0,0,,"Server for Chromium's update protocol (Omaha): endpoints, routing and update sources"
+2026-11-08T14:48:03.442192Z,jflib-netio,0.1.0,0,0,https://github.com/JFLibrary/JFLib,Network protocols on top of JFLib's platform layer
+2026-11-08T14:48:49.325594Z,micromux-proxy,0.4.0,0,0,https://github.com/romnn/micromux,Micromux is a local process supervisor with a terminal UI
+2026-11-08T14:51:14.692276Z,musicdb-rs,1.0.0,0,0,https://github.com/pedrohgmacedo/musicdb-rs,"Apple Music .musicdb parser, inspector, and format analysis toolkit"
+2026-11-08T14:56:11.00279Z,toko-tooling,0.32.1,0,0,https://github.com/dragginzgame/shared-tooling,Version marker for the Dragginzgame shared development tooling
+2026-11-08T14:56:36.034247Z,omaha,0.0.1,0,0,,"Tools for Chromium's update protocol (Omaha): CRX3, CUP2, update checks and component feeds"
+2026-11-08T14:58:30.22553Z,jflib-spell,0.1.0,0,0,https://github.com/JFLibrary/JFLib,"Spell checking for JFLib: Hunspell dictionaries, the system's checker, a personal word list"
+2026-11-08T15:00:41.907955Z,procrastinator,0.1.0,0,0,https://github.com/bjogart/procrastinator,A tiny library for on-demand incremental computation
+2026-11-08T15:02:16.028332Z,tauri-kit-notification,0.32.0,0,0,https://github.com/iyulab/tauri-kit,"A native desktop notification for an installed app: the operating system's notification permission as a value the app can read and ask for, a notice with an activation id, and the click reported back."
+2026-11-08T15:02:22.653663Z,tauri-kit-dialog,0.32.0,0,0,https://github.com/iyulab/tauri-kit,"One route for an app's open and save dialogs, which a test build can answer from a file the test writes — so end-to-end runs of the built app get past a native dialog without a person."
+2026-11-08T15:02:38.737711Z,base-web-content-macros,0.1.0,0,0,https://github.com/base-rs/base-web-content,The derive macros for base-web-content declarations
+2026-11-08T15:02:48.567943Z,base-web-content,0.1.0,0,0,https://github.com/base-rs/base-web-content,"Declarative, limited parsing of web request content, such as forms, without I/O"
+2026-11-08T15:04:29.90072Z,fulcrum-harness,0.1.0,0,0,https://github.com/archimedes-codes/fulcrum,"The Fulcrum agent harness — the tool loop, provider clients, tools, sandbox and MCP client; extracted from archimedes"
+2026-11-08T15:05:23.652965Z,simsense,0.0.0,0,0,,Validated sensor simulation. Placeholder: the first release is in development.
+2026-11-08T15:06:47.047553Z,lispy-procmacros,0.1.0,0,0,https://github.com/antichrome1/lispy-rs,See crate: `lispy`
+2026-11-08T15:08:59.197559Z,jflib-doc-core,0.1.0,0,0,https://github.com/JFLibrary/JFLib,JFLib's structured document model with atomic edits and bounded undo and redo
+2026-11-08T15:12:06.81072Z,cargo-lockpatrol,0.1.0,0,0,https://github.com/padamson/cargo-lockpatrol,"Check every tracked Cargo.lock for RustSec advisories with cargo-deny, and keep one GitHub issue current with what it finds"
+2026-11-08T15:17:02.424433Z,lispy,0.1.0,0,0,https://github.com/antichrome1/lispy-rs,Ports of some Common Lisp functions/macros.
+2026-11-08T15:19:27.489927Z,jflib-img-core,0.1.0,0,0,https://github.com/JFLibrary/JFLib,"The shared part of JFLib's image codecs: records, error codes, DEFLATE, colour management"
