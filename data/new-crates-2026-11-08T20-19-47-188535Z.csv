@@ -1,0 +1,27 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-08T19:21:02.245169Z,jflib-img-jxl-enc,0.1.0,0,0,https://github.com/JFLibrary/JFLib,JFLib's JPEG XL writer with the full encoder: a port of libjxl's
+2026-11-08T19:23:46.032791Z,vikshep,0.1.0,0,0,https://github.com/samvardhan03/vikshep-compute,Deterministic wavelet-scattering features for physics: the open Vikshep compute core in one crate
+2026-11-08T19:25:45.634117Z,lonca-daemon,0.2.0,0,0,https://github.com/selcukgural/lonca,"The Lonca daemon: the single writer every operation goes through (decide, sign, log, apply)"
+2026-11-08T19:31:33.144643Z,jflib-img-all,0.1.0,0,0,https://github.com/JFLibrary/JFLib,Registers all of JFLib's image codecs in its format table
+2026-11-08T19:32:42.845925Z,firemq-amqp-codec,0.1.0,0,0,https://github.com/FireMQ/firemq,"AMQP 0-9-1 frame, method and field table codec used by the FireMQ broker"
+2026-11-08T19:32:43.437828Z,firemq-proto,0.1.0,0,0,https://github.com/FireMQ/firemq,Frames and commands of the FireMQ native protocol
+2026-11-08T19:32:44.1407Z,firemq-client,0.1.0,0,0,https://github.com/FireMQ/firemq,Rust client for FireMQ over the native FireMQ protocol
+2026-11-08T19:32:44.709385Z,firemq-core,0.1.0,0,0,https://github.com/FireMQ/firemq,"Protocol-agnostic broker core of FireMQ: vhosts, exchanges, queues, routing and confirms"
+2026-11-08T19:32:45.46744Z,firemq-amqp,0.1.0,0,0,https://github.com/FireMQ/firemq,AMQP 0-9-1 protocol adapter of the FireMQ broker
+2026-11-08T19:33:46.230797Z,vikshep-mcp,0.1.0,0,0,https://github.com/samvardhan03/vikshep-compute,"Model Context Protocol data plane (JSON-RPC 2.0 over stdio, tensors by OID in shared memory)"
+2026-11-08T19:33:49.232266Z,skillsmp,0.1.0-dev,0,0,https://github.com/den-tanui/skillsmp-rs,Skills manager and downloader
+2026-11-08T19:36:40.980854Z,lonca,0.2.0,0,0,https://github.com/selcukgural/lonca,"Lonca command line: daemon, workspaces, approvals, harness hook and MCP server"
+2026-11-08T19:42:27.295946Z,jflib-ui,0.1.0,0,0,https://github.com/JFLibrary/JFLib,JFLib's immediate-mode GUI runtime
+2026-11-08T19:44:03.434674Z,firemq-store,0.1.0,0,0,https://github.com/FireMQ/firemq,"Disk storage for FireMQ: segmented message logs, group-commit fsync and definitions"
+2026-11-08T19:48:52.17675Z,bonsai-neon-dot,0.1.0,0,0,https://github.com/symbiogenesis/prism-inference,Audited ARMv8.2-A dotprod and i8mm SIMD dot-product primitives for Prism
+2026-11-08T19:51:58.766755Z,ratatoskr-web,0.1.0,0,0,https://github.com/haszerobyte/Ratatoskr,"Web search and page fetching for LLM tools: a keyless meta-search (Yahoo, DuckDuckGo, Yandex, Wikipedia, Grokipedia), an SSRF-safe fetcher, and an MCP server"
+2026-11-08T19:53:25.864573Z,jflib-doc-view,0.1.0,0,0,https://github.com/JFLibrary/JFLib,"Document presentation for JFLib: stable fonts, pagination measurement, page drawing"
+2026-11-08T19:53:44.382782Z,firestore-cli,0.1.1,0,0,https://github.com/abdolence/firestore-cli-rs,"fsq, a command line client for Google Firestore: a SQL REPL with tables, query plans and index statements, and a scripting mode with JSON output"
+2026-11-08T19:55:14.126829Z,firemq-server,0.1.0,0,0,https://github.com/FireMQ/firemq,"Listeners, HTTP API and wiring of the FireMQ broker"
+2026-11-08T19:57:08.10139Z,ryuz_workflow,0.1.0,0,0,https://github.com/ryuzcorp/crates,GitHub-Actions-style CI workflows executed in containers: a strict YAML parser and a per-job container runner.
+2026-11-08T19:57:17.120243Z,ryuz_git,0.2.0,0,0,https://github.com/ryuzcorp/crates,"S3-backed WAL git: CAS manifest, immutable log, bundle/pack storage, smart HTTP v2, policy, LFS and events."
+2026-11-08T20:03:55.717913Z,jflib-style-classic,0.1.0,0,0,https://github.com/JFLibrary/JFLib,JFLib's classic style: the look of Windows 2000 and Office 97
+2026-11-08T20:04:27.584145Z,furball,0.1.0,0,0,https://github.com/second-chance-labs/furball,"Read-only Rust SDK for Kalshi's Trade API v2: request signing, rate limiting, pagination, live/historical routing"
+2026-11-08T20:06:23.734674Z,firemq,0.1.0,0,0,https://github.com/FireMQ/firemq,"A lean, fast, RabbitMQ-compatible message broker"
+2026-11-08T20:06:57.970933Z,unrars,0.1.0,0,0,https://github.com/bgermann/libunrars,A libunrar-compatible C ABI implemented on top of the rars crate
+2026-11-08T20:14:26.938241Z,jflib-style-kde,0.1.0,0,0,https://github.com/JFLibrary/JFLib,JFLib's KDE Plasma (Breeze) style
