@@ -1,0 +1,24 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-08T20:23:31.266252Z,dodo-v8x,152.2.0,0,0,https://github.com/are-we-dodo-yet/v8x,Engine agnostic JavaScript
+2026-11-08T20:24:55.862439Z,jflib-style-macos,0.1.0,0,0,https://github.com/JFLibrary/JFLib,JFLib's macOS style
+2026-11-08T20:28:29.246703Z,dodo_v8_valueserializer,0.1.2,0,0,https://github.com/are-we-dodo-yet/v8_valueserializer,A Rust implementation of V8's ValueSerializer and ValueDeserializer
+2026-11-08T20:30:26.736936Z,woxi-parser,0.1.0,0,0,https://github.com/ad-si/Woxi,"Pest grammar and generated parser for the Wolfram Language, used by Woxi"
+2026-11-08T20:30:35.800705Z,woxi-reduce,0.1.0,0,0,https://github.com/ad-si/Woxi,Self-contained exact linear arithmetic and Presburger quantifier elimination
+2026-11-08T20:34:54.262896Z,rat-ftable2,0.4.0,0,0,https://github.com/thscharler/rat-salsa,ratatui table widget for large data
+2026-11-08T20:35:24.952296Z,jflib-style-winui,0.1.0,0,0,https://github.com/JFLibrary/JFLib,JFLib's WinUI 3 (Fluent) style
+2026-11-08T20:35:45.411313Z,tuply,0.1.0,0,0,https://github.com/btarr101/mono,Type-level tuple utilities for compile-time structural reasoning.
+2026-11-08T20:35:58.742413Z,griddr,0.1.0,0,0,https://github.com/btarr101/mono,"A grid/matrix store with unbounded, lazily-expanded dimensions."
+2026-11-08T20:36:07.20266Z,sparsr,0.1.0,0,0,https://github.com/btarr101/mono,A sparse set data structure.
+2026-11-08T20:37:18.270799Z,whitebird-api,0.1.0,0,0,https://github.com/joolertan/whitebird-api,Unofficial Whitebird API client
+2026-11-08T20:43:32.013875Z,clubmirror,0.1.0,0,0,https://github.com/gawen947/clubmirror,"A static website generator that mirrors Strava club events, schedule, calendar feed and routes."
+2026-11-08T20:46:07.857681Z,jflib,0.1.0,0,0,https://github.com/JFLibrary/JFLib,"A GUI library and everything it stands on, without the standard library"
+2026-11-08T20:49:39.438271Z,xacpp-activity,0.3.0,0,0,https://github.com/drodreo/xacpp-activity,"Client-side activity session runtime on top of the XACPP protocol: envelope runtime, unified event conversion, turn/interaction model."
+2026-11-08T20:49:51.523026Z,zinsser,0.1.0,0,0,https://github.com/ktreharrison/zinsser,Local-first prose linter and structural cadence engine
+2026-11-08T20:49:59.395699Z,ravenrs-lint,27.1.22,0,0,https://github.com/alexkads/RavenRS,"Lints for applications built with RavenRS: theme tokens instead of literal colors and sizes, the 4px grid, named icon buttons, one primary action, and no state or blocking work in `body`. Runs as `ca…"
+2026-11-08T20:52:05.809584Z,reticulum-over-ethernet,0.1.0,0,0,https://github.com/ogarcia/roe,"Reticulum over Ethernet: carries Reticulum packets directly in Ethernet frames, without IP"
+2026-11-08T20:53:58.381067Z,lastbuy-sdk,0.1.0,0,0,https://github.com/lastbuy-trade/lastbuy-sdk,"Low-level Rust SDK for the LastBuy bonding curve Solana program (instruction builders, PDAs, account/event types, constants)."
+2026-11-08T20:56:36.856224Z,jflib-installer,0.1.0,0,0,https://github.com/JFLibrary/JFLib,The setup stub of JFLib's Windows packages (cargo jflib package)
+2026-11-08T20:58:45.189662Z,zynko,0.1.0,0,0,,"Biblioteca oficial para bots do Zynko: API, gateway e voz."
+2026-11-08T21:01:21.809086Z,jj_release_changelog,0.11.0,0,0,https://github.com/saylesss88/jj-release,Keep a Changelog rendering from Conventional Commits
+2026-11-08T21:09:38.938459Z,oxidedb,0.1.0,0,0,https://github.com/Mzt00/OxideDB,A small database engine written in rust for learning purposes.
+2026-11-08T21:16:45.007586Z,game-toolkit-dosaudio,0.1.0,0,0,https://github.com/sunsided/game-toolkit-dosaudio,"Emulated DOS-era sound devices (PC speaker, Sound Blaster 2.0, AdLib OPL2/OPL3) on a shared hardware timeline"

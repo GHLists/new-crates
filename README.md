@@ -8,40 +8,37 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-08 20:19 UTC
+## Latest list — 2026-11-08 21:19 UTC
 
-New crates published between 2026-11-08 19:18 UTC and 2026-11-08 20:19 UTC.
+New crates published between 2026-11-08 20:19 UTC and 2026-11-08 21:19 UTC.
 
-[Full CSV](data/new-crates-2026-11-08T20-19-47-188535Z.csv)
+[Full CSV](data/new-crates-2026-11-08T21-19-27-231822Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-08 19:21:02 | [jflib-img-jxl-enc](https://crates.io/crates/jflib-img-jxl-enc) | 0.1.0 | 0 | JFLib's JPEG XL writer with the full encoder: a port of libjxl's |
-| 2026-11-08 19:23:46 | [vikshep](https://crates.io/crates/vikshep) | 0.1.0 | 0 | Deterministic wavelet-scattering features for physics: the open Vikshep compute… |
-| 2026-11-08 19:25:45 | [lonca-daemon](https://crates.io/crates/lonca-daemon) | 0.2.0 | 0 | The Lonca daemon: the single writer every operation goes through (decide, sign,… |
-| 2026-11-08 19:31:33 | [jflib-img-all](https://crates.io/crates/jflib-img-all) | 0.1.0 | 0 | Registers all of JFLib's image codecs in its format table |
-| 2026-11-08 19:32:42 | [firemq-amqp-codec](https://crates.io/crates/firemq-amqp-codec) | 0.1.0 | 0 | AMQP 0-9-1 frame, method and field table codec used by the FireMQ broker |
-| 2026-11-08 19:32:43 | [firemq-proto](https://crates.io/crates/firemq-proto) | 0.1.0 | 0 | Frames and commands of the FireMQ native protocol |
-| 2026-11-08 19:32:44 | [firemq-client](https://crates.io/crates/firemq-client) | 0.1.0 | 0 | Rust client for FireMQ over the native FireMQ protocol |
-| 2026-11-08 19:32:44 | [firemq-core](https://crates.io/crates/firemq-core) | 0.1.0 | 0 | Protocol-agnostic broker core of FireMQ: vhosts, exchanges, queues, routing and… |
-| 2026-11-08 19:32:45 | [firemq-amqp](https://crates.io/crates/firemq-amqp) | 0.1.0 | 0 | AMQP 0-9-1 protocol adapter of the FireMQ broker |
-| 2026-11-08 19:33:46 | [vikshep-mcp](https://crates.io/crates/vikshep-mcp) | 0.1.0 | 0 | Model Context Protocol data plane (JSON-RPC 2.0 over stdio, tensors by OID in s… |
-| 2026-11-08 19:33:49 | [skillsmp](https://crates.io/crates/skillsmp) | 0.1.0-dev | 0 | Skills manager and downloader |
-| 2026-11-08 19:36:40 | [lonca](https://crates.io/crates/lonca) | 0.2.0 | 0 | Lonca command line: daemon, workspaces, approvals, harness hook and MCP server |
-| 2026-11-08 19:42:27 | [jflib-ui](https://crates.io/crates/jflib-ui) | 0.1.0 | 0 | JFLib's immediate-mode GUI runtime |
-| 2026-11-08 19:44:03 | [firemq-store](https://crates.io/crates/firemq-store) | 0.1.0 | 0 | Disk storage for FireMQ: segmented message logs, group-commit fsync and definit… |
-| 2026-11-08 19:48:52 | [bonsai-neon-dot](https://crates.io/crates/bonsai-neon-dot) | 0.1.0 | 0 | Audited ARMv8.2-A dotprod and i8mm SIMD dot-product primitives for Prism |
-| 2026-11-08 19:51:58 | [ratatoskr-web](https://crates.io/crates/ratatoskr-web) | 0.1.0 | 0 | Web search and page fetching for LLM tools: a keyless meta-search (Yahoo, DuckD… |
-| 2026-11-08 19:53:25 | [jflib-doc-view](https://crates.io/crates/jflib-doc-view) | 0.1.0 | 0 | Document presentation for JFLib: stable fonts, pagination measurement, page dra… |
-| 2026-11-08 19:53:44 | [firestore-cli](https://crates.io/crates/firestore-cli) | 0.1.1 | 0 | fsq, a command line client for Google Firestore: a SQL REPL with tables, query… |
-| 2026-11-08 19:55:14 | [firemq-server](https://crates.io/crates/firemq-server) | 0.1.0 | 0 | Listeners, HTTP API and wiring of the FireMQ broker |
-| 2026-11-08 19:57:08 | [ryuz_workflow](https://crates.io/crates/ryuz_workflow) | 0.1.0 | 0 | GitHub-Actions-style CI workflows executed in containers: a strict YAML parser… |
-| 2026-11-08 19:57:17 | [ryuz_git](https://crates.io/crates/ryuz_git) | 0.2.0 | 0 | S3-backed WAL git: CAS manifest, immutable log, bundle/pack storage, smart HTTP… |
-| 2026-11-08 20:03:55 | [jflib-style-classic](https://crates.io/crates/jflib-style-classic) | 0.1.0 | 0 | JFLib's classic style: the look of Windows 2000 and Office 97 |
-| 2026-11-08 20:04:27 | [furball](https://crates.io/crates/furball) | 0.1.0 | 0 | Read-only Rust SDK for Kalshi's Trade API v2: request signing, rate limiting, p… |
-| 2026-11-08 20:06:23 | [firemq](https://crates.io/crates/firemq) | 0.1.0 | 0 | A lean, fast, RabbitMQ-compatible message broker |
-| 2026-11-08 20:06:57 | [unrars](https://crates.io/crates/unrars) | 0.1.0 | 0 | A libunrar-compatible C ABI implemented on top of the rars crate |
-| 2026-11-08 20:14:26 | [jflib-style-kde](https://crates.io/crates/jflib-style-kde) | 0.1.0 | 0 | JFLib's KDE Plasma (Breeze) style |
+| 2026-11-08 20:23:31 | [dodo-v8x](https://crates.io/crates/dodo-v8x) | 152.2.0 | 0 | Engine agnostic JavaScript |
+| 2026-11-08 20:24:55 | [jflib-style-macos](https://crates.io/crates/jflib-style-macos) | 0.1.0 | 0 | JFLib's macOS style |
+| 2026-11-08 20:28:29 | [dodo_v8_valueserializer](https://crates.io/crates/dodo_v8_valueserializer) | 0.1.2 | 0 | A Rust implementation of V8's ValueSerializer and ValueDeserializer |
+| 2026-11-08 20:30:26 | [woxi-parser](https://crates.io/crates/woxi-parser) | 0.1.0 | 0 | Pest grammar and generated parser for the Wolfram Language, used by Woxi |
+| 2026-11-08 20:30:35 | [woxi-reduce](https://crates.io/crates/woxi-reduce) | 0.1.0 | 0 | Self-contained exact linear arithmetic and Presburger quantifier elimination |
+| 2026-11-08 20:34:54 | [rat-ftable2](https://crates.io/crates/rat-ftable2) | 0.4.0 | 0 | ratatui table widget for large data |
+| 2026-11-08 20:35:24 | [jflib-style-winui](https://crates.io/crates/jflib-style-winui) | 0.1.0 | 0 | JFLib's WinUI 3 (Fluent) style |
+| 2026-11-08 20:35:45 | [tuply](https://crates.io/crates/tuply) | 0.1.0 | 0 | Type-level tuple utilities for compile-time structural reasoning. |
+| 2026-11-08 20:35:58 | [griddr](https://crates.io/crates/griddr) | 0.1.0 | 0 | A grid/matrix store with unbounded, lazily-expanded dimensions. |
+| 2026-11-08 20:36:07 | [sparsr](https://crates.io/crates/sparsr) | 0.1.0 | 0 | A sparse set data structure. |
+| 2026-11-08 20:37:18 | [whitebird-api](https://crates.io/crates/whitebird-api) | 0.1.0 | 0 | Unofficial Whitebird API client |
+| 2026-11-08 20:43:32 | [clubmirror](https://crates.io/crates/clubmirror) | 0.1.0 | 0 | A static website generator that mirrors Strava club events, schedule, calendar… |
+| 2026-11-08 20:46:07 | [jflib](https://crates.io/crates/jflib) | 0.1.0 | 0 | A GUI library and everything it stands on, without the standard library |
+| 2026-11-08 20:49:39 | [xacpp-activity](https://crates.io/crates/xacpp-activity) | 0.3.0 | 0 | Client-side activity session runtime on top of the XACPP protocol: envelope run… |
+| 2026-11-08 20:49:51 | [zinsser](https://crates.io/crates/zinsser) | 0.1.0 | 0 | Local-first prose linter and structural cadence engine |
+| 2026-11-08 20:49:59 | [ravenrs-lint](https://crates.io/crates/ravenrs-lint) | 27.1.22 | 0 | Lints for applications built with RavenRS: theme tokens instead of literal colo… |
+| 2026-11-08 20:52:05 | [reticulum-over-ethernet](https://crates.io/crates/reticulum-over-ethernet) | 0.1.0 | 0 | Reticulum over Ethernet: carries Reticulum packets directly in Ethernet frames,… |
+| 2026-11-08 20:53:58 | [lastbuy-sdk](https://crates.io/crates/lastbuy-sdk) | 0.1.0 | 0 | Low-level Rust SDK for the LastBuy bonding curve Solana program (instruction bu… |
+| 2026-11-08 20:56:36 | [jflib-installer](https://crates.io/crates/jflib-installer) | 0.1.0 | 0 | The setup stub of JFLib's Windows packages (cargo jflib package) |
+| 2026-11-08 20:58:45 | [zynko](https://crates.io/crates/zynko) | 0.1.0 | 0 | Biblioteca oficial para bots do Zynko: API, gateway e voz. |
+| 2026-11-08 21:01:21 | [jj_release_changelog](https://crates.io/crates/jj_release_changelog) | 0.11.0 | 0 | Keep a Changelog rendering from Conventional Commits |
+| 2026-11-08 21:09:38 | [oxidedb](https://crates.io/crates/oxidedb) | 0.1.0 | 0 | A small database engine written in rust for learning purposes. |
+| 2026-11-08 21:16:45 | [game-toolkit-dosaudio](https://crates.io/crates/game-toolkit-dosaudio) | 0.1.0 | 0 | Emulated DOS-era sound devices (PC speaker, Sound Blaster 2.0, AdLib OPL2/OPL3)… |
 
 ## Data source
 
