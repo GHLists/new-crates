@@ -1,0 +1,21 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-08T05:20:39.152278Z,canvist_extension_details,0.0.0,0,0,https://github.com/canvist/canvist,canvist: TipTap's `details` block: a summary that opens to show its content
+2026-11-08T05:24:59.176743Z,peek-trait,0.1.1,0,0,https://github.com/mysteriouslyseeing/peek-trait,Zero-cost iterator peeking
+2026-11-08T05:28:40.709607Z,hydo-assert,0.2.0,0,0,https://github.com/kakoc/hydo,"Assertion SDK for programs tested under hydo, a deterministic hypervisor: always, sometimes, reachable, unreachable and eventually properties, BUGGIFY fault points and operation histories"
+2026-11-08T05:30:29.481392Z,praevis-thetadata-arrow,0.1.0-alpha.3,0,0,https://github.com/Praevis-Quant/praevis-thetadata,Exact Arrow columns from ThetaData gRPC responses for the independent praevis-thetadata clients
+2026-11-08T05:30:52.887585Z,canvist_extension_callout,0.0.0,0,0,https://github.com/canvist/canvist,"canvist: Remirror's `callout` block: a tinted box with a type, made by typing `:::warning`"
+2026-11-08T05:31:34.144422Z,eytzinger-cursor,1.0.0,0,0,https://github.com/qdot3/eytzinger,A light-weight cursor over implicit binary tree in Eytzinger layout
+2026-11-08T05:32:52.573205Z,idefix,0.0.0,0,0,,Nuclear data explorer
+2026-11-08T05:33:40.336591Z,praevis-thetadata-stream,0.1.0-alpha.3,0,0,https://github.com/Praevis-Quant/praevis-thetadata,"Experimental: real-time option events from an operator-run Theta Terminal's local WebSocket, parsed without allocation (independent, unofficial)"
+2026-11-08T05:41:08.578254Z,canvist_extension_mathematics,0.0.0,0,0,https://github.com/canvist/canvist,"canvist: TipTap's `inlineMath` and `blockMath` nodes, holding LaTeX typed as `$$x$$`"
+2026-11-08T05:50:23.629415Z,canvist_extension_table,0.0.0,0,0,https://github.com/canvist/canvist,"canvist: TipTap's `table`, `tableRow`, `tableCell`, and `tableHeader`, with commands to add, remove, merge, and split cells"
+2026-11-08T05:56:25.513449Z,xlsynth-bx,0.80.0,0,0,https://github.com/xlsynth/xlsynth-crate,A DSLX-like frontend for XLS block IR
+2026-11-08T06:00:38.260754Z,canvist_extension_find_and_replace,0.0.0,0,0,https://github.com/canvist/canvist,"canvist: Search a canvist document, step through matches, and replace them"
+2026-11-08T06:00:54.12387Z,licoarc,0.1.0,0,0,https://github.com/LicoLand/LicoArc-Rust,Independent safe-Rust implementation of the current Lico Arc stable-core Candidate.
+2026-11-08T06:04:32.845485Z,motion-core,0.1.0,0,0,https://github.com/motion-rs/motion-rs,Backend-independent motion engine primitives
+2026-11-08T06:04:34.739323Z,motion-ffmpeg,0.1.0,0,0,https://github.com/motion-rs/motion-rs,Native FFmpeg bindings with thread-confined codec and mixer resources
+2026-11-08T06:04:39.254492Z,motion-content,0.1.0,0,0,https://github.com/motion-rs/motion-rs,"Backend-independent images, text, vectors, particles and artwork"
+2026-11-08T06:04:43.924094Z,motion-render,0.1.0,0,0,https://github.com/motion-rs/motion-rs,Shared bounded raster preparation and CPU/GPU rendering
+2026-11-08T06:05:04.725813Z,subgraphsearch-core,0.1.1,0,0,https://github.com/vglazer/subgraphsearch,"Randomized tabu search for induced subgraphs with a given number of vertices and edges, or regular ones, plus graph generators and formats"
+2026-11-08T06:05:06.652053Z,subgraphsearch,0.1.1,0,0,https://github.com/vglazer/subgraphsearch,"Find induced subgraphs with a given number of vertices and edges, or regular ones, from the command line; generate, convert and inspect graphs"
+2026-11-08T06:10:53.588401Z,canvist_extension_table_of_contents,0.0.0,0,0,https://github.com/canvist/canvist,"canvist: A canvist document's headings as an outline, like TipTap's TableOfContents"
