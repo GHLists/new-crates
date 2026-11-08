@@ -1,0 +1,37 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-08T16:18:45.885545Z,kerniq-observability-testing,0.1.3,0,0,https://github.com/kerniqq/kerniq-server,"Test support for Kerniq observability: in-memory metric, span and log exporters with assertions."
+2026-11-08T16:20:40.854293Z,watchdiff-core,0.1.0,0,0,,"Lightweight web/file/API/DB/SSL change monitoring with diffs, alerts and a CLI."
+2026-11-08T16:22:15.285662Z,jflib-img-dds,0.1.0,0,0,https://github.com/JFLibrary/JFLib,"DDS reader and writer for JFLib, with the BC1 to BC7 block codecs"
+2026-11-08T16:23:50.63744Z,stmob,0.1.0,0,0,https://github.com/umi-eng/stmob,Read and modify STM32 flash option bytes over probe-rs.
+2026-11-08T16:23:56.128941Z,game-toolkit-dosbus,0.1.0,0,0,https://github.com/sunsided/game-toolkit-dosbus,"no_std clock, I/O port, IRQ and DMA interfaces shared by DOS-era PC hardware emulators"
+2026-11-08T16:24:35.280769Z,nordisk-libcontainer,0.7.0,0,0,https://github.com/Ignalina/youki/tree/feat/seccomp-backend-trait,Temporary fork of youki's libcontainer 0.7.0 with only the SeccompBackend trait added (youki PR #3873)
+2026-11-08T16:24:41.814656Z,stmob-cli,0.1.0,0,0,https://github.com/umi-eng/stmob,Command-line tool for reading and modifying STM32 flash option bytes over probe-rs.
+2026-11-08T16:32:41.6725Z,jflib-img-gif,0.1.0,0,0,https://github.com/JFLibrary/JFLib,GIF decoder and encoder for JFLib
+2026-11-08T16:33:24.648627Z,rings-aez,0.39.0,0,0,https://github.com/RingsNetwork/rings,AEZ v5 wide-block cipher and robust authenticated encryption for Rings
+2026-11-08T16:33:32.677822Z,rings-dns-relay,0.39.0,0,0,https://github.com/RingsNetwork/rings,DNS relay for Rings: names every node <did>.<zone> and relays its services to the internet.
+2026-11-08T16:33:37.758609Z,rings-network-policy,0.39.0,0,0,https://github.com/RingsNetwork/rings,Shared public-network admission policy for Rings egress targets.
+2026-11-08T16:33:40.189058Z,rings-runtime,0.39.0,0,0,https://github.com/RingsNetwork/rings,"Shared native/browser runtime contracts (timers, task scheduling, thread-safety bounds) for Rings"
+2026-11-08T16:43:07.269058Z,jflib-img-hevc,0.1.0,0,0,https://github.com/JFLibrary/JFLib,HEVC (H.265) intra decoder and encoder for HEIC still images
+2026-11-08T16:48:28.310613Z,shadowallet-chain-core,0.1.0-alpha.1,0,0,https://github.com/esdecode/shadowallet-chain-sdk,"Chain-neutral identities, errors and capability traits for the Shadowallet Chain SDK."
+2026-11-08T16:49:18.154118Z,shadowallet-chain-utxo,0.1.0-alpha.1,0,0,https://github.com/esdecode/shadowallet-chain-sdk,"UTXO balance, history, fee-policy and persistence contracts for the Shadowallet Chain SDK."
+2026-11-08T16:49:54.033638Z,shadowallet-chain-bitcoin,0.1.0-alpha.1,0,0,https://github.com/esdecode/shadowallet-chain-sdk,"Watch-only Bitcoin (BDK) synchronization, PSBT construction and finalization."
+2026-11-08T16:50:25.254212Z,shadowallet-chain-litecoin,0.1.0-alpha.1,0,0,https://github.com/esdecode/shadowallet-chain-sdk,"Watch-only Litecoin addresses, unsigned transaction preparation and external finalization."
+2026-11-08T16:52:51.08906Z,plaindoc-core,0.0.1,0,0,https://github.com/fixcik/plaindoc,"Placeholder: a fast document parser for LLM agents (PDF, Office, scans with OCR to Markdown/JSON). Work in progress."
+2026-11-08T16:53:04.437565Z,plaindoc-formats,0.0.1,0,0,https://github.com/fixcik/plaindoc,"Placeholder: a fast document parser for LLM agents (PDF, Office, scans with OCR to Markdown/JSON). Work in progress."
+2026-11-08T16:53:08.351705Z,plaindoc-ocr,0.0.1,0,0,https://github.com/fixcik/plaindoc,"Placeholder: a fast document parser for LLM agents (PDF, Office, scans with OCR to Markdown/JSON). Work in progress."
+2026-11-08T16:53:10.734557Z,plaindoc-cli,0.0.1,0,0,https://github.com/fixcik/plaindoc,"Placeholder: a fast document parser for LLM agents (PDF, Office, scans with OCR to Markdown/JSON). Work in progress."
+2026-11-08T16:53:13.444741Z,plaindoc,0.0.1,0,0,https://github.com/fixcik/plaindoc,"Placeholder: a fast document parser for LLM agents (PDF, Office, scans with OCR to Markdown/JSON). Work in progress."
+2026-11-08T16:53:33.886157Z,jflib-img-jpeg,0.1.0,0,0,https://github.com/JFLibrary/JFLib,JPEG decoder and encoder for JFLib
+2026-11-08T16:56:32.823279Z,odk-schema,0.1.0,0,0,,Shared schema types for ODK (Omni Development Kit)
+2026-11-08T16:58:49.375341Z,odk-cli,0.1.0,0,0,,"ODK CLI - Unified schema compilation from TypeScript, WASM, or JSON to multiple targets"
+2026-11-08T16:58:58.497929Z,odk-pdk,0.1.0,0,0,,ODK Plugin Development Kit for Rust - build WASM schema plugins
+2026-11-08T16:59:02.87385Z,shadowallet-chain-dogecoin,0.1.0-alpha.1,0,0,https://github.com/esdecode/shadowallet-chain-sdk,"Watch-only Dogecoin P2PKH addresses, unsigned transaction preparation and external finalization."
+2026-11-08T17:00:39.526137Z,byte-gauge,0.1.1,0,0,https://github.com/glastor-core/byte-gauge,"GLASTOR® Core — High-performance Rust SIMD binary auditor, ELF/PE/Mach-O section analyzer, Shannon entropy & FinOps telemetry engine for GitHub Actions (complements @glastor-core/vortex & @glastor-co…"
+2026-11-08T17:01:20.291372Z,specter-cli,0.2.0,0,0,https://github.com/glastor-core/specter,"GLASTOR® Core — Zero-Compiler Polyglot AST API Contract Differ, Trojan Breaking-Change Detector & Mathematical SemVer Gatekeeper for GitHub Actions (complements @glastor-core/vortex, @glastor-core/by…"
+2026-11-08T17:03:09.679623Z,activitykit,0.1.0,0,0,https://github.com/1eedaegon/activitykit-rs,iOS Live Activities from Rust
+2026-11-08T17:04:01.290207Z,jflib-img-jxr,0.1.0,0,0,https://github.com/JFLibrary/JFLib,JPEG XR decoder and encoder for JFLib
+2026-11-08T17:06:10.985713Z,tritonpass,0.1.0,0,0,https://github.com/Jabberwocky238/tritonpass,Triton TTIR to block-level standard MLIR (func / arith / math / scf / memref / linalg) on the mlirformat / mlirpass stack
+2026-11-08T17:08:57.357415Z,shadowallet-chain-bitcoin-cash,0.1.0-alpha.1,0,0,https://github.com/esdecode/shadowallet-chain-sdk,"Bitcoin Cash signing proof of concept: CashAddr, ForkID sighash and P2PKH."
+2026-11-08T17:14:27.834581Z,jflib-img-png,0.1.0,0,0,https://github.com/JFLibrary/JFLib,PNG decoder and encoder for JFLib
+2026-11-08T17:14:38.392942Z,rten-sequence,0.28.0,0,0,https://github.com/robertknight/rten,Sequence decoding algorithms for ML model outputs
+2026-11-08T17:18:24.383951Z,airlock-scan,0.1.0,0,0,https://github.com/stedyyulius/Airlock,Check a repository for malicious code before it reaches your machine
