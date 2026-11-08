@@ -1,0 +1,19 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-08T04:21:09.245405Z,canvist_extension_emoji,0.0.0,0,0,https://github.com/canvist/canvist,"canvist: TipTap's `emoji` node, with `:smile:` shortcodes and `:` suggestions from GitHub's gemoji"
+2026-11-08T04:30:25.238211Z,canvist_extension_image,0.0.0,0,0,https://github.com/canvist/canvist,"canvist: TipTap's `image` block, with `setImage` and `![alt](src)`"
+2026-11-08T04:37:24.272805Z,san-mateo-sqlite,0.1.0,0,0,https://github.com/autumn-foundation/san-mateo,"SQLite store for San Mateo: one embedded file, no database server"
+2026-11-08T04:40:40.587519Z,canvist_extension_youtube,0.0.0,0,0,https://github.com/canvist/canvist,"canvist: TipTap's `youtube` block, embedding only YouTube URLs"
+2026-11-08T04:49:46.297433Z,blvm-storage-fence,0.1.0,0,0,https://github.com/BTCDecoded/blvm-node,"The only crate that depends on heed3, redb, sled, and rocksdb."
+2026-11-08T04:50:26.709275Z,belajar-say-hello-irfan,0.3.0,0,0,,This is say hello library
+2026-11-08T04:50:54.075757Z,canvist_extension_twitch,0.0.0,0,0,https://github.com/canvist/canvist,"canvist: TipTap's `twitch` block, embedding only Twitch URLs"
+2026-11-08T04:56:14.843599Z,lazyfm,0.1.0,0,0,https://github.com/ZIZIES/lazyfm,"a lazy tui file manager. no config, no docs needed"
+2026-11-08T05:01:08.03322Z,canvist_extension_audio,0.0.0,0,0,https://github.com/canvist/canvist,canvist: TipTap's `audio` block: an audio player
+2026-11-08T05:03:42.783628Z,scrapmf,1.5.5,0,0,https://github.com/Scrap-MF/ScrapMF-Rust-CLI,"Safe, interactive archiver for social media galleries"
+2026-11-08T05:10:23.962014Z,canvist_extension_file,0.0.0,0,0,https://github.com/canvist/canvist,"canvist: Remirror's `file` block: an attachment card with a name, type, and size"
+2026-11-08T05:11:16.748975Z,hydo-build,0.2.0,0,0,https://github.com/kakoc/hydo,"hydo's image builder: a project manifest compiled into a guest image (x86_64 ext4 disk, arm64 initramfs)"
+2026-11-08T05:11:47.664503Z,hydo,0.2.0,0,0,https://github.com/kakoc/hydo,"Deterministic fault testing of whole systems: runs unmodified services in a deterministic hypervisor (Apple Silicon, x86_64 Linux) under process kills, pauses, network faults, power cuts, clock jumps…"
+2026-11-08T05:16:16.732434Z,squawk-diagnostics,2.72.0,0,0,https://github.com/sbdchd/squawk,Shared edit and fix types for squawk's linter and IDE.
+2026-11-08T05:16:18.590049Z,squawk-rowan,2.72.0,0,0,https://github.com/sbdchd/squawk,Library for generic lossless syntax trees
+2026-11-08T05:16:25.75326Z,squawk-sema,2.72.0,0,0,https://github.com/sbdchd/squawk,Linter for Postgres migrations & SQL
+2026-11-08T05:16:26.943168Z,squawk-ide-db,2.72.0,0,0,https://github.com/sbdchd/squawk,Linter for Postgres migrations & SQL
+2026-11-08T05:16:28.562168Z,squawk-code-actions,2.72.0,0,0,https://github.com/sbdchd/squawk,Linter for Postgres migrations & SQL
