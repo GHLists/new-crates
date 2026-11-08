@@ -8,37 +8,40 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-08 21:19 UTC
+## Latest list — 2026-11-08 22:18 UTC
 
-New crates published between 2026-11-08 20:19 UTC and 2026-11-08 21:19 UTC.
+New crates published between 2026-11-08 21:19 UTC and 2026-11-08 22:18 UTC.
 
-[Full CSV](data/new-crates-2026-11-08T21-19-27-231822Z.csv)
+[Full CSV](data/new-crates-2026-11-08T22-18-18-485032Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-08 20:23:31 | [dodo-v8x](https://crates.io/crates/dodo-v8x) | 152.2.0 | 0 | Engine agnostic JavaScript |
-| 2026-11-08 20:24:55 | [jflib-style-macos](https://crates.io/crates/jflib-style-macos) | 0.1.0 | 0 | JFLib's macOS style |
-| 2026-11-08 20:28:29 | [dodo_v8_valueserializer](https://crates.io/crates/dodo_v8_valueserializer) | 0.1.2 | 0 | A Rust implementation of V8's ValueSerializer and ValueDeserializer |
-| 2026-11-08 20:30:26 | [woxi-parser](https://crates.io/crates/woxi-parser) | 0.1.0 | 0 | Pest grammar and generated parser for the Wolfram Language, used by Woxi |
-| 2026-11-08 20:30:35 | [woxi-reduce](https://crates.io/crates/woxi-reduce) | 0.1.0 | 0 | Self-contained exact linear arithmetic and Presburger quantifier elimination |
-| 2026-11-08 20:34:54 | [rat-ftable2](https://crates.io/crates/rat-ftable2) | 0.4.0 | 0 | ratatui table widget for large data |
-| 2026-11-08 20:35:24 | [jflib-style-winui](https://crates.io/crates/jflib-style-winui) | 0.1.0 | 0 | JFLib's WinUI 3 (Fluent) style |
-| 2026-11-08 20:35:45 | [tuply](https://crates.io/crates/tuply) | 0.1.0 | 0 | Type-level tuple utilities for compile-time structural reasoning. |
-| 2026-11-08 20:35:58 | [griddr](https://crates.io/crates/griddr) | 0.1.0 | 0 | A grid/matrix store with unbounded, lazily-expanded dimensions. |
-| 2026-11-08 20:36:07 | [sparsr](https://crates.io/crates/sparsr) | 0.1.0 | 0 | A sparse set data structure. |
-| 2026-11-08 20:37:18 | [whitebird-api](https://crates.io/crates/whitebird-api) | 0.1.0 | 0 | Unofficial Whitebird API client |
-| 2026-11-08 20:43:32 | [clubmirror](https://crates.io/crates/clubmirror) | 0.1.0 | 0 | A static website generator that mirrors Strava club events, schedule, calendar… |
-| 2026-11-08 20:46:07 | [jflib](https://crates.io/crates/jflib) | 0.1.0 | 0 | A GUI library and everything it stands on, without the standard library |
-| 2026-11-08 20:49:39 | [xacpp-activity](https://crates.io/crates/xacpp-activity) | 0.3.0 | 0 | Client-side activity session runtime on top of the XACPP protocol: envelope run… |
-| 2026-11-08 20:49:51 | [zinsser](https://crates.io/crates/zinsser) | 0.1.0 | 0 | Local-first prose linter and structural cadence engine |
-| 2026-11-08 20:49:59 | [ravenrs-lint](https://crates.io/crates/ravenrs-lint) | 27.1.22 | 0 | Lints for applications built with RavenRS: theme tokens instead of literal colo… |
-| 2026-11-08 20:52:05 | [reticulum-over-ethernet](https://crates.io/crates/reticulum-over-ethernet) | 0.1.0 | 0 | Reticulum over Ethernet: carries Reticulum packets directly in Ethernet frames,… |
-| 2026-11-08 20:53:58 | [lastbuy-sdk](https://crates.io/crates/lastbuy-sdk) | 0.1.0 | 0 | Low-level Rust SDK for the LastBuy bonding curve Solana program (instruction bu… |
-| 2026-11-08 20:56:36 | [jflib-installer](https://crates.io/crates/jflib-installer) | 0.1.0 | 0 | The setup stub of JFLib's Windows packages (cargo jflib package) |
-| 2026-11-08 20:58:45 | [zynko](https://crates.io/crates/zynko) | 0.1.0 | 0 | Biblioteca oficial para bots do Zynko: API, gateway e voz. |
-| 2026-11-08 21:01:21 | [jj_release_changelog](https://crates.io/crates/jj_release_changelog) | 0.11.0 | 0 | Keep a Changelog rendering from Conventional Commits |
-| 2026-11-08 21:09:38 | [oxidedb](https://crates.io/crates/oxidedb) | 0.1.0 | 0 | A small database engine written in rust for learning purposes. |
-| 2026-11-08 21:16:45 | [game-toolkit-dosaudio](https://crates.io/crates/game-toolkit-dosaudio) | 0.1.0 | 0 | Emulated DOS-era sound devices (PC speaker, Sound Blaster 2.0, AdLib OPL2/OPL3)… |
+| 2026-11-08 21:19:43 | [ponko_ecs](https://crates.io/crates/ponko_ecs) | 0.0.1 | 0 | The entity-component-system behind Ponko: archetype storage, runtime-registered… |
+| 2026-11-08 21:19:44 | [ponko_unity](https://crates.io/crates/ponko_unity) | 0.0.1 | 0 | Reads Unity projects (text YAML scenes, prefabs, materials and meshes, .meta GU… |
+| 2026-11-08 21:19:47 | [ponko](https://crates.io/crates/ponko) | 0.0.1 | 0 | A fast 2D game engine for simulating millions of things: ECS on all cores, hot… |
+| 2026-11-08 21:19:48 | [ponko_bench](https://crates.io/crates/ponko_bench) | 0.0.1 | 0 | Benchmarks: ponko_ecs vs bevy_ecs vs hecs, and simulation at scale. |
+| 2026-11-08 21:19:49 | [ponko_ffi](https://crates.io/crates/ponko_ffi) | 0.0.1 | 0 | C API for Ponko; include/crabby.hpp wraps it for C++17. |
+| 2026-11-08 21:23:57 | [ponko_mcp](https://crates.io/crates/ponko_mcp) | 0.0.1 | 0 | MCP server that lets AI agents inspect and drive running Ponko games |
+| 2026-11-08 21:31:51 | [vera-identity](https://crates.io/crates/vera-identity) | 0.1.0 | 0 | DID identity types |
+| 2026-11-08 21:35:38 | [yamlprims](https://crates.io/crates/yamlprims) | 0.1.0 | 0 | Owned YAML values, strict parsing, typed conversion and bounded wire encoding |
+| 2026-11-08 21:40:45 | [quentangled](https://crates.io/crates/quentangled) | 0.1.0 | 0 | A state vector based quantum circuit simulator. |
+| 2026-11-08 21:44:11 | [vera-zanzibar](https://crates.io/crates/vera-zanzibar) | 0.1.0 | 0 | Zanzibar relation-tuple evaluation engine |
+| 2026-11-08 21:45:08 | [vera-acp](https://crates.io/crates/vera-acp) | 0.1.0 | 0 | Access control policy types and policy YAML parsing |
+| 2026-11-08 21:46:02 | [vera-crypto](https://crates.io/crates/vera-crypto) | 0.1.0 | 0 | Cryptographic utilities for vera |
+| 2026-11-08 21:47:06 | [vera-domain](https://crates.io/crates/vera-domain) | 0.1.0 | 0 | Domain types for vera |
+| 2026-11-08 21:47:44 | [aster-terminal](https://crates.io/crates/aster-terminal) | 0.1.0 | 0 | A customizable Windows terminal emulator and multiplexer written in rust |
+| 2026-11-08 21:47:48 | [vera-modules](https://crates.io/crates/vera-modules) | 0.1.0 | 0 | Vera module implementations (ACP, Bulletin, Vera) |
+| 2026-11-08 21:48:45 | [vera-permission](https://crates.io/crates/vera-permission) | 0.1.0 | 0 | Verified native permission requests and read evidence |
+| 2026-11-08 21:55:16 | [clippy-new-lines](https://crates.io/crates/clippy-new-lines) | 0.1.0 | 0 | Check new lines from VCS for clippy |
+| 2026-11-08 21:56:10 | [dimvexa-core](https://crates.io/crates/dimvexa-core) | 0.1.0 | 0 | Unit conversion core: dimensions, exact rationals, parser and prepared conversi… |
+| 2026-11-08 21:56:33 | [dimvexa-data](https://crates.io/crates/dimvexa-data) | 0.1.0 | 0 | Unit conversion tables for dimvexa, compiled from audited TOML. Exact factors.… |
+| 2026-11-08 21:56:45 | [dimvexa-config](https://crates.io/crates/dimvexa-config) | 0.1.0 | 0 | User config files for dimvexa: your own names, units and density bridges (mt =… |
+| 2026-11-08 21:56:52 | [dimvexa](https://crates.io/crates/dimvexa) | 0.1.0 | 0 | Exact, fast unit conversion for Rust: core plus the seed unit table. Exact fact… |
+| 2026-11-08 21:57:50 | [vera-client](https://crates.io/crates/vera-client) | 0.1.0 | 0 | Rust client library for vera (EVM + BLS transaction paths) |
+| 2026-11-08 22:05:54 | [dimvexa-cli](https://crates.io/crates/dimvexa-cli) | 0.1.0 | 0 | Command-line unit conversion tool built on dimvexa. Exact factors. Loud failure… |
+| 2026-11-08 22:06:57 | [vera-verifier](https://crates.io/crates/vera-verifier) | 0.1.0 | 0 | Native proof verification for foreign-language Vera clients |
+| 2026-11-08 22:10:25 | [cimoxide-view](https://crates.io/crates/cimoxide-view) | 0.6.1 | 0 | A CGMES or NC model set as views: its grid at substation level, laid out, and i… |
+| 2026-11-08 22:13:28 | [muninn-plugin](https://crates.io/crates/muninn-plugin) | 1.3.0 | 0 | SDK for Muninn code space plugins: the stable C ABI (v1), the host API, frames… |
 
 ## Data source
 

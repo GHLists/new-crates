@@ -1,0 +1,27 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-08T21:19:43.38424Z,ponko_ecs,0.0.1,0,0,https://github.com/bozoslav/crabbyengine,"The entity-component-system behind Ponko: archetype storage, runtime-registered components."
+2026-11-08T21:19:44.428597Z,ponko_unity,0.0.1,0,0,https://github.com/bozoslav/crabbyengine,"Reads Unity projects (text YAML scenes, prefabs, materials and meshes, .meta GUIDs) for importing into Ponko"
+2026-11-08T21:19:47.205754Z,ponko,0.0.1,0,0,https://github.com/bozoslav/crabbyengine,"A fast 2D game engine for simulating millions of things: ECS on all cores, hot reload, an in-game inspector, AI-agent control, and a C++ API."
+2026-11-08T21:19:48.750237Z,ponko_bench,0.0.1,0,0,https://github.com/bozoslav/crabbyengine,"Benchmarks: ponko_ecs vs bevy_ecs vs hecs, and simulation at scale."
+2026-11-08T21:19:49.808501Z,ponko_ffi,0.0.1,0,0,https://github.com/bozoslav/crabbyengine,C API for Ponko; include/crabby.hpp wraps it for C++17.
+2026-11-08T21:23:57.610508Z,ponko_mcp,0.0.1,0,0,https://github.com/bozoslav/ponko,MCP server that lets AI agents inspect and drive running Ponko games
+2026-11-08T21:31:51.272341Z,vera-identity,0.1.0,0,0,https://github.com/sourcenetwork/vera.rs,DID identity types
+2026-11-08T21:35:38.889741Z,yamlprims,0.1.0,0,0,https://github.com/3leaps/yamlprims,"Owned YAML values, strict parsing, typed conversion and bounded wire encoding"
+2026-11-08T21:40:45.759785Z,quentangled,0.1.0,0,0,https://github.com/rbudhrani/quentangled,A state vector based quantum circuit simulator.
+2026-11-08T21:44:11.033977Z,vera-zanzibar,0.1.0,0,0,https://github.com/sourcenetwork/vera.rs,Zanzibar relation-tuple evaluation engine
+2026-11-08T21:45:08.535595Z,vera-acp,0.1.0,0,0,https://github.com/sourcenetwork/vera.rs,Access control policy types and policy YAML parsing
+2026-11-08T21:46:02.706053Z,vera-crypto,0.1.0,0,0,https://github.com/sourcenetwork/vera.rs,Cryptographic utilities for vera
+2026-11-08T21:47:06.973871Z,vera-domain,0.1.0,0,0,https://github.com/sourcenetwork/vera.rs,Domain types for vera
+2026-11-08T21:47:44.521666Z,aster-terminal,0.1.0,0,0,https://github.com/srithimahi/Aster,A customizable Windows terminal emulator and multiplexer written in rust
+2026-11-08T21:47:48.356563Z,vera-modules,0.1.0,0,0,https://github.com/sourcenetwork/vera.rs,"Vera module implementations (ACP, Bulletin, Vera)"
+2026-11-08T21:48:45.367876Z,vera-permission,0.1.0,0,0,https://github.com/sourcenetwork/vera.rs,Verified native permission requests and read evidence
+2026-11-08T21:55:16.431348Z,clippy-new-lines,0.1.0,0,0,https://github.com/ilyaaay/clippy-new-lines,Check new lines from VCS for clippy
+2026-11-08T21:56:10.754012Z,dimvexa-core,0.1.0,0,0,https://github.com/welworx/dimvexa,"Unit conversion core: dimensions, exact rationals, parser and prepared conversions. Exact factors. Loud failures. Zero guessing."
+2026-11-08T21:56:33.091223Z,dimvexa-data,0.1.0,0,0,https://github.com/welworx/dimvexa,"Unit conversion tables for dimvexa, compiled from audited TOML. Exact factors. Loud failures. Zero guessing."
+2026-11-08T21:56:45.433145Z,dimvexa-config,0.1.0,0,0,https://github.com/welworx/dimvexa,"User config files for dimvexa: your own names, units and density bridges (mt = ""tonne""), never loaded implicitly. Exact factors. Loud failures. Zero guessing."
+2026-11-08T21:56:52.409257Z,dimvexa,0.1.0,0,0,https://github.com/welworx/dimvexa,"Exact, fast unit conversion for Rust: core plus the seed unit table. Exact factors. Loud failures. Zero guessing."
+2026-11-08T21:57:50.768687Z,vera-client,0.1.0,0,0,https://github.com/sourcenetwork/vera.rs,Rust client library for vera (EVM + BLS transaction paths)
+2026-11-08T22:05:54.405962Z,dimvexa-cli,0.1.0,0,0,https://github.com/welworx/dimvexa,Command-line unit conversion tool built on dimvexa. Exact factors. Loud failures. Zero guessing.
+2026-11-08T22:06:57.573075Z,vera-verifier,0.1.0,0,0,https://github.com/sourcenetwork/vera.rs,Native proof verification for foreign-language Vera clients
+2026-11-08T22:10:25.811209Z,cimoxide-view,0.6.1,0,0,https://github.com/m-mirz/cimoxide,"A CGMES or NC model set as views: its grid at substation level, laid out, and its objects as a tree, with validation findings on each"
+2026-11-08T22:13:28.05162Z,muninn-plugin,1.3.0,0,0,https://github.com/WeirdBrains/muninn,"SDK for Muninn code space plugins: the stable C ABI (v1), the host API, frames and result views."
