@@ -8,44 +8,43 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-08 09:19 UTC
+## Latest list — 2026-11-08 10:19 UTC
 
-New crates published between 2026-11-08 08:18 UTC and 2026-11-08 09:19 UTC.
+New crates published between 2026-11-08 09:19 UTC and 2026-11-08 10:19 UTC.
 
-[Full CSV](data/new-crates-2026-11-08T09-19-04-396654Z.csv)
+[Full CSV](data/new-crates-2026-11-08T10-19-02-104707Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-08 08:21:41 | [cuora-vault-cached](https://crates.io/crates/cuora-vault-cached) | 0.1.0 | 0 | Composite vault impl: read-through age-encrypted local cache in front of any ba… |
-| 2026-11-08 08:23:50 | [rpi-tts](https://crates.io/crates/rpi-tts) | 0.1.15 | 0 | API-key-free Microsoft Edge TTS client |
-| 2026-11-08 08:26:57 | [tamias-core](https://crates.io/crates/tamias-core) | 0.1.0 | 0 | Pure domain — package identity (@scope/name@semver), refs, manifests, records,… |
-| 2026-11-08 08:28:15 | [blvm-upstream](https://crates.io/crates/blvm-upstream) | 0.1.1 | 0 | Outbound Bitcoin data connectors behind the blvm.upstream.v1 contract. |
-| 2026-11-08 08:32:37 | [einvoice-svrl](https://crates.io/crates/einvoice-svrl) | 0.1.0 | 0 | Canonical, line-oriented form of SVRL validation reports, to compare the result… |
-| 2026-11-08 08:32:38 | [einvoice-xdm](https://crates.io/crates/einvoice-xdm) | 0.1.0 | 0 | Atomic values of the XPath 2.0 data model (exact xs:decimal, xs:integer, xs:dou… |
-| 2026-11-08 08:32:39 | [einvoice-xpath](https://crates.io/crates/einvoice-xpath) | 0.1.0 | 0 | Parser and syntax tree for the XPath 2.0 subset used by the official e-invoicin… |
-| 2026-11-08 08:32:40 | [einvoice-xsd](https://crates.io/crates/einvoice-xsd) | 0.1.0 | 0 | XML Schema validation of UBL 2.1 Invoice and CreditNote documents against the o… |
-| 2026-11-08 08:32:44 | [einvoice-xpath-eval](https://crates.io/crates/einvoice-xpath-eval) | 0.1.0 | 0 | Node model and evaluator of the XPath 2.0 subset used by the official e-invoici… |
-| 2026-11-08 08:34:30 | [licoarc-client](https://crates.io/crates/licoarc-client) | 0.1.0 | 0 | Standalone Lico Arc endpoint client: runtime, BadTower carrier, ports, and CLI. |
-| 2026-11-08 08:37:18 | [tamias-shell](https://crates.io/crates/tamias-shell) | 0.1.0 | 0 | Run a command in a working directory via bash -c — the generic shell-out helper |
-| 2026-11-08 08:37:21 | [einvoice-xslt](https://crates.io/crates/einvoice-xslt) | 0.1.0 | 0 | Loader for the XSLT 2.0 subset used by the official e-invoicing validation styl… |
-| 2026-11-08 08:39:27 | [rigorix-server](https://crates.io/crates/rigorix-server) | 1.14.2 | 0 | OSS reference execution host — axum JSON-RPC 2.0 + SSE over the frozen rigorix.… |
-| 2026-11-08 08:40:44 | [memdiver-sys](https://crates.io/crates/memdiver-sys) | 0.1.0 | 0 | Low-level Linux and Windows bindings backing the memdiver external process memo… |
-| 2026-11-08 08:41:03 | [memdiver-core](https://crates.io/crates/memdiver-core) | 0.1.0 | 0 | Safe, cross-platform API for reading and writing another process's memory |
-| 2026-11-08 08:41:09 | [memdiver](https://crates.io/crates/memdiver) | 0.1.0 | 0 | Read and write the memory of another process on Linux and Windows |
-| 2026-11-08 08:42:10 | [hardcalc](https://crates.io/crates/hardcalc) | 0.1.0 | 0 | Universal terminal spreadsheet: vectors, matrices, tensors, typed cells and lay… |
-| 2026-11-08 08:43:31 | [blvm-fees](https://crates.io/crates/blvm-fees) | 0.1.1 | 0 | blend and blend-min fee estimators. Reads blvm.upstream.v1 and the native table. |
-| 2026-11-08 08:46:58 | [tamias-config](https://crates.io/crates/tamias-config) | 0.1.0 | 0 | Config port — where tamias.toml-shaped config comes from |
-| 2026-11-08 08:47:38 | [einvoice-xslt-exec](https://crates.io/crates/einvoice-xslt-exec) | 0.1.0 | 0 | Executor of the XSLT 2.0 subset used by the official e-invoicing validation sty… |
-| 2026-11-08 08:48:04 | [contract](https://crates.io/crates/contract) | 0.1.0 | 0 | Universal API contract language with zero-drift synchronization, multi-language… |
-| 2026-11-08 08:57:25 | [tamias-store-local](https://crates.io/crates/tamias-store-local) | 0.1.0 | 0 | local store impl — a directory |
-| 2026-11-08 08:57:53 | [einvoice-validator](https://crates.io/crates/einvoice-validator) | 0.1.0 | 0 | Validate EN 16931 and Peppol BIS Billing 3.0 e-invoices against the official va… |
-| 2026-11-08 08:59:05 | [tiny-symmetric](https://crates.io/crates/tiny-symmetric) | 0.2.0 | 0 | tiny symmetric crate |
-| 2026-11-08 09:07:18 | [tamias-driver](https://crates.io/crates/tamias-driver) | 0.1.0 | 0 | content driver host — discovery + dispatch of tamias-driver-<type> (no product… |
-| 2026-11-08 09:07:53 | [mace-kv-cli](https://crates.io/crates/mace-kv-cli) | 0.2.1 | 0 | Maintenance CLI for the mace key-value engine |
-| 2026-11-08 09:08:06 | [einvoice-cli](https://crates.io/crates/einvoice-cli) | 0.1.0 | 0 | einvoice-validate: command-line validation of EN 16931 and Peppol BIS Billing 3… |
-| 2026-11-08 09:09:33 | [pmask](https://crates.io/crates/pmask) | 0.0.0 | 0 | Reserved name; the first release is 0.1.0-beta.1. |
-| 2026-11-08 09:15:14 | [please-release-please](https://crates.io/crates/please-release-please) | 0.0.0 | 0 | PRP CLI: automate changelogs, versioning, and publishing |
-| 2026-11-08 09:17:46 | [tamias-config-toml](https://crates.io/crates/tamias-config-toml) | 0.1.0 | 0 | TOML config impl |
+| 2026-11-08 09:21:02 | [nordisk-heimdall-graph](https://crates.io/crates/nordisk-heimdall-graph) | 0.1.0 | 0 | Heimdall is a defensive sandbox: graph mode's model. Imports Mímir's executable… |
+| 2026-11-08 09:23:01 | [tuxd](https://crates.io/crates/tuxd) | 0.1.0 | 0 | A visual terminal text editor with live ANSI preview, RGB colors, and raw/escap… |
+| 2026-11-08 09:27:12 | [tamias-testkit](https://crates.io/crates/tamias-testkit) | 0.1.0 | 0 | Fixtures + adapter conformance for every port |
+| 2026-11-08 09:28:51 | [solidmesh-math](https://crates.io/crates/solidmesh-math) | 0.1.0 | 0 | Deterministic f64 vectors, matrices, quaternions, planes, rays, bounds and a BV… |
+| 2026-11-08 09:28:53 | [solidmesh-clipper](https://crates.io/crates/solidmesh-clipper) | 0.1.0 | 0 | A pure-Rust port of the Clipper 6.4.2 polygon clipper (booleans, offsets, simpl… |
+| 2026-11-08 09:28:54 | [solidmesh-mesh](https://crates.io/crates/solidmesh-mesh) | 0.1.0 | 0 | Triangle meshes for solid modeling: welding, winding and measures, booleans on… |
+| 2026-11-08 09:28:57 | [solidmesh](https://crates.io/crates/solidmesh) | 0.1.0 | 0 | Solid modeling on triangle meshes in pure Rust: fillets and chamfers on mesh ed… |
+| 2026-11-08 09:37:45 | [tamias-store-cf](https://crates.io/crates/tamias-store-cf) | 0.1.0 | 0 | Cloudflare adapter (P6) |
+| 2026-11-08 09:40:30 | [pico-logger](https://crates.io/crates/pico-logger) | 0.2.0 | 0 | A minuscule logger. |
+| 2026-11-08 09:43:19 | [monumla-core](https://crates.io/crates/monumla-core) | 0.1.0 | 0 | Composable state, rules, history, and interaction primitives for the Monumla ga… |
+| 2026-11-08 09:43:21 | [monumla-games-battleship](https://crates.io/crates/monumla-games-battleship) | 0.1.0 | 0 | Classic Battleship rules and player observations for the Monumla game runtime. |
+| 2026-11-08 09:43:22 | [monumla-games-checkers](https://crates.io/crates/monumla-games-checkers) | 0.1.0 | 0 | Russian and international checkers rules for the Monumla game runtime. |
+| 2026-11-08 09:43:23 | [monumla-games-chess](https://crates.io/crates/monumla-games-chess) | 0.1.0 | 0 | Standard chess rules for the Monumla game runtime. |
+| 2026-11-08 09:43:24 | [monumla-games-go](https://crates.io/crates/monumla-games-go) | 0.1.0 | 0 | Digital AGA Go rules for the Monumla game runtime. |
+| 2026-11-08 09:47:10 | [tamias-source](https://crates.io/crates/tamias-source) | 0.1.0 | 0 | source port — turn a ref into bytes |
+| 2026-11-08 09:49:45 | [etunnel](https://crates.io/crates/etunnel) | 1.0.1 | 0 | Expose a local service through an etunnel reverse-tunnel server with one line o… |
+| 2026-11-08 09:51:23 | [spiritlevel](https://crates.io/crates/spiritlevel) | 0.1.0 | 0 | TMDS link bring-up for HDMI sources: clock ratio, scrambling and sink configura… |
+| 2026-11-08 09:51:38 | [monumla-games-tictactoe](https://crates.io/crates/monumla-games-tictactoe) | 0.1.0 | 0 | Configurable rectangular tic-tac-toe rules for the Monumla game runtime. |
+| 2026-11-08 09:52:21 | [nie_dev_kit](https://crates.io/crates/nie_dev_kit) | 0.1.1 | 0 | Nie's personal development utilities |
+| 2026-11-08 09:52:37 | [pandrosion472-standalone](https://crates.io/crates/pandrosion472-standalone) | 0.472.0 | 0 | Dependency-free standalone Rust solver for real and complex nonlinear systems a… |
+| 2026-11-08 09:55:25 | [base-web-multipart](https://crates.io/crates/base-web-multipart) | 0.1.0 | 0 | Sans-I/O parsing and writing of MIME multipart bodies, following RFC 2046 and R… |
+| 2026-11-08 09:57:39 | [tamias-deploy-local](https://crates.io/crates/tamias-deploy-local) | 0.1.0 | 0 | local deploy impl — manage a per-user service unit (systemd/launchd) |
+| 2026-11-08 10:01:38 | [monumla-search](https://crates.io/crates/monumla-search) | 0.1.0 | 0 | Game-independent search, analysis, and best-action selection. |
+| 2026-11-08 10:07:02 | [tamias-cache-local](https://crates.io/crates/tamias-cache-local) | 0.1.0 | 0 | local cache impl — content-addressed fetch cache |
+| 2026-11-08 10:11:41 | [monumla-wasm](https://crates.io/crates/monumla-wasm) | 0.1.0 | 0 | Browser WebAssembly facade for the Monumla programmable game runtime. |
+| 2026-11-08 10:15:06 | [rhwp-codec-resource](https://crates.io/crates/rhwp-codec-resource) | 0.1.0 | 0 | Request-scoped fallible allocation and work hooks for rhwp PDF codecs |
+| 2026-11-08 10:15:39 | [rhwp-contracts](https://crates.io/crates/rhwp-contracts) | 0.1.0 | 0 | Shared schema, ontology, and provenance contracts for rhwp |
+| 2026-11-08 10:17:30 | [cuora-vault-cf](https://crates.io/crates/cuora-vault-cf) | 0.1.0 | 0 | Remote vault impl: self-hosted Cloudflare Worker + D1 holding per-secret age ci… |
+| 2026-11-08 10:18:23 | [edda-offload](https://crates.io/crates/edda-offload) | 0.1.0 | 0 | The request-level offload layer for tokio servers: each call (a tower service c… |
 
 ## Data source
 

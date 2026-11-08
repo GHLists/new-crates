@@ -1,0 +1,30 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-08T09:21:02.937159Z,nordisk-heimdall-graph,0.1.0,0,0,https://gunnar.rs/nordisk/heimdall,"Heimdall is a defensive sandbox: graph mode's model. Imports Mímir's executable graph (exec.nodes, exec.edges) pinned by SHA-256, checks it against the profiler's next-call pairs, decides per thread…"
+2026-11-08T09:23:01.142862Z,tuxd,0.1.0,0,0,https://github.com/swivelgames/tuxd,"A visual terminal text editor with live ANSI preview, RGB colors, and raw/escaped ANSI import and export"
+2026-11-08T09:27:12.915999Z,tamias-testkit,0.1.0,0,0,https://github.com/9aia/tamias,Fixtures + adapter conformance for every port
+2026-11-08T09:28:51.142521Z,solidmesh-math,0.1.0,0,0,https://github.com/larsbrubaker/solidmesh,"Deterministic f64 vectors, matrices, quaternions, planes, rays, bounds and a BVH for the solidmesh mesh kernel; pure Rust, builds for wasm32"
+2026-11-08T09:28:53.027324Z,solidmesh-clipper,0.1.0,0,0,https://github.com/larsbrubaker/solidmesh,"A pure-Rust port of the Clipper 6.4.2 polygon clipper (booleans, offsets, simplification) with integer polygon helpers on clipper2-rust's types, for the solidmesh mesh kernel"
+2026-11-08T09:28:54.991851Z,solidmesh-mesh,0.1.0,0,0,https://github.com/larsbrubaker/solidmesh,"Triangle meshes for solid modeling: welding, winding and measures, booleans on manifold-rust, repair, SDF and implicit meshing, convex hulls, extrusion and revolution of 2D outlines, slicing, ray tra…"
+2026-11-08T09:28:57.201784Z,solidmesh,0.1.0,0,0,https://github.com/larsbrubaker/solidmesh,"Solid modeling on triangle meshes in pure Rust: fillets and chamfers on mesh edges, corners and outlines that keep closed solids closed, over solidmesh-mesh's booleans, repair and implicit operations…"
+2026-11-08T09:37:45.098871Z,tamias-store-cf,0.1.0,0,0,https://github.com/9aia/tamias,Cloudflare adapter (P6)
+2026-11-08T09:40:30.126469Z,pico-logger,0.2.0,0,0,https://github.com/lpireyn/pico-logger,A minuscule logger.
+2026-11-08T09:43:19.813217Z,monumla-core,0.1.0,0,0,https://github.com/artegoser/monumla,"Composable state, rules, history, and interaction primitives for the Monumla game runtime."
+2026-11-08T09:43:21.629457Z,monumla-games-battleship,0.1.0,0,0,https://github.com/artegoser/monumla,Classic Battleship rules and player observations for the Monumla game runtime.
+2026-11-08T09:43:22.788324Z,monumla-games-checkers,0.1.0,0,0,https://github.com/artegoser/monumla,Russian and international checkers rules for the Monumla game runtime.
+2026-11-08T09:43:23.658665Z,monumla-games-chess,0.1.0,0,0,https://github.com/artegoser/monumla,Standard chess rules for the Monumla game runtime.
+2026-11-08T09:43:24.394103Z,monumla-games-go,0.1.0,0,0,https://github.com/artegoser/monumla,Digital AGA Go rules for the Monumla game runtime.
+2026-11-08T09:47:10.924497Z,tamias-source,0.1.0,0,0,https://github.com/9aia/tamias,source port — turn a ref into bytes
+2026-11-08T09:49:45.423004Z,etunnel,1.0.1,0,0,https://github.com/topcheer/etunnel,Expose a local service through an etunnel reverse-tunnel server with one line of code
+2026-11-08T09:51:23.938139Z,spiritlevel,0.1.0,0,0,https://github.com/ashlar-display/spiritlevel,"TMDS link bring-up for HDMI sources: clock ratio, scrambling and sink configuration"
+2026-11-08T09:51:38.668038Z,monumla-games-tictactoe,0.1.0,0,0,https://github.com/artegoser/monumla,Configurable rectangular tic-tac-toe rules for the Monumla game runtime.
+2026-11-08T09:52:21.495442Z,nie_dev_kit,0.1.1,0,0,,Nie's personal development utilities
+2026-11-08T09:52:37.266345Z,pandrosion472-standalone,0.472.0,0,0,,Dependency-free standalone Rust solver for real and complex nonlinear systems and least squares
+2026-11-08T09:55:25.918477Z,base-web-multipart,0.1.0,0,0,https://github.com/base-rs/base-web-multipart,"Sans-I/O parsing and writing of MIME multipart bodies, following RFC 2046 and RFC 7578"
+2026-11-08T09:57:39.813608Z,tamias-deploy-local,0.1.0,0,0,https://github.com/9aia/tamias,local deploy impl — manage a per-user service unit (systemd/launchd)
+2026-11-08T10:01:38.477461Z,monumla-search,0.1.0,0,0,https://github.com/artegoser/monumla,"Game-independent search, analysis, and best-action selection."
+2026-11-08T10:07:02.557177Z,tamias-cache-local,0.1.0,0,0,https://github.com/9aia/tamias,local cache impl — content-addressed fetch cache
+2026-11-08T10:11:41.63797Z,monumla-wasm,0.1.0,0,0,https://github.com/artegoser/monumla,Browser WebAssembly facade for the Monumla programmable game runtime.
+2026-11-08T10:15:06.916588Z,rhwp-codec-resource,0.1.0,0,0,https://github.com/edwardkim/rhwp,Request-scoped fallible allocation and work hooks for rhwp PDF codecs
+2026-11-08T10:15:39.088001Z,rhwp-contracts,0.1.0,0,0,https://github.com/edwardkim/rhwp,"Shared schema, ontology, and provenance contracts for rhwp"
+2026-11-08T10:17:30.3463Z,cuora-vault-cf,0.1.0,0,0,https://github.com/9aia/cuora,Remote vault impl: self-hosted Cloudflare Worker + D1 holding per-secret age ciphertext — the Worker never sees plaintext
+2026-11-08T10:18:23.18162Z,edda-offload,0.1.0,0,0,https://git.gunnar.rs/nordisk/edda,"The request-level offload layer for tokio servers: each call (a tower service call, or any future) runs on its own thread of a runtime's blocking pool, so a slow synchronous call (a cold disk open) h…"
