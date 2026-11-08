@@ -1,0 +1,38 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-08T02:21:07.766836Z,canvist_extension_underline,0.0.0,0,0,https://github.com/canvist/canvist,"canvist: TipTap's `underline` mark, with `Mod-u`"
+2026-11-08T02:21:10.85771Z,arbitrate,0.0.2,0,0,https://github.com/kylekingcdn/arbitrate-rs,Traits providing a simple framework for decision-making via voter consensus
+2026-11-08T02:24:10.236401Z,amivuln,0.0.2,0,0,https://github.com/nubian-ibex/amivuln,"Am I vulnerable? Backport-aware CVE check for binaries, services and packages on this host."
+2026-11-08T02:26:01.137001Z,kettle-ui-headless,0.0.0,0,0,https://github.com/filip-hejsek/hob,"Placeholder for a part of hob, a desktop GUI application; not usable yet"
+2026-11-08T02:30:22.201947Z,canvist_extension_clipboard,0.0.0,0,0,https://github.com/canvist/canvist,"canvist: HTML, Markdown, and plain-text conversion for the canvist editor's clipboard, reading TipTap, Google Docs, and Word markup"
+2026-11-08T02:30:26.856336Z,c0data,0.3.1,0,0,https://github.com/c0data/c0-rs,C0DATA — structured data using ASCII C0 control codes
+2026-11-08T02:31:33.7203Z,signingflow,0.1.0,0,0,https://github.com/Signingflow/signingflow-rust,"Official Rust SDK for sending a document, reading envelope status, and verifying webhooks with the Signingflow API."
+2026-11-08T02:36:05.001785Z,kettle-ui-iced,0.0.0,0,0,https://github.com/filip-hejsek/hob,"Placeholder for a part of hob, a desktop GUI application; not usable yet"
+2026-11-08T02:36:05.953418Z,hydo-engine,0.2.0,0,0,https://github.com/kakoc/hydo,"One interface to hydo's run engines: hvx (the Rust engine hydo-hvx, in-process or as a program) and hvm (the Rust engine hydo-hvm, as a program or in-process)"
+2026-11-08T02:36:20.51068Z,hydo-composer,0.2.0,0,0,https://github.com/kakoc/hydo,"The test composer, host side: the plan's W= token in its seed, resolved and saved forms, the shrinker's candidates, saved regressions, and the files a plan stages into an image"
+2026-11-08T02:36:31.733715Z,hydo-errors,0.2.0,0,0,https://github.com/kakoc/hydo,"Error logs as findings, host side: error kinds and signatures from a run's consoles, the known list hydo/known-errors.yaml, and hydo errors list|accept|check"
+2026-11-08T02:36:45.764033Z,hydo-control,0.2.0,0,0,https://github.com/kakoc/hydo,"hydo's host controller for agent images: the Controller trait, the ScheduleController that runs today's schedules through hydo-agent's commands, the control transcript and its replay"
+2026-11-08T02:37:05.262287Z,hydo-explore,0.2.0,0,0,https://github.com/kakoc/hydo,"hydo's fault explorer: schedules from seeds, a worker pool over one engine, re-runs, shrinking and reports"
+2026-11-08T02:38:05.276132Z,osmosis_macro,0.1.1,0,0,,Proc-macro(s) crate for Osmosis
+2026-11-08T02:40:46.11056Z,canvist_extension_subscript,0.0.0,0,0,https://github.com/canvist/canvist,"canvist: TipTap's `subscript` mark, with `Mod-,`"
+2026-11-08T02:51:02.306016Z,canvist_extension_superscript,0.0.0,0,0,https://github.com/canvist/canvist,"canvist: TipTap's `superscript` mark, with `Mod-.`"
+2026-11-08T02:52:30.192077Z,hydo-agents,0.2.0,0,0,https://github.com/kakoc/hydo,"hydo's AI-facing commands: hydo guide, hydo skill install, hydo init (the onboarding skill is built in)"
+2026-11-08T02:52:46.642697Z,hydo-compose,0.2.0,0,0,https://github.com/kakoc/hydo,hydo compose: a docker-compose.yaml becomes a starting hydo.yaml (images pinned by digest)
+2026-11-08T02:54:36.210225Z,replysieve,0.1.0,0,0,https://github.com/zeroonething/replysieve,"Judge comments in a fraction of a second: approve, reject or needs-review with a reason, from small decision models on OpenRouter. CLI, MCP server and Rust library."
+2026-11-08T02:57:10.29756Z,ravenrs-sheet,27.1.20,0,0,https://github.com/alexkads/RavenRS,"Headless spreadsheet engine for RavenRS: cells, styles, formulas with 500+ functions, recalculation, number formats and XLSX/CSV reading and writing."
+2026-11-08T02:57:10.540969Z,viy-exec,0.1.0,0,0,https://github.com/GregoryBolshakov/viy,The process seam viy starts commands through
+2026-11-08T02:57:11.05485Z,viy-http,0.1.0,0,0,https://github.com/GregoryBolshakov/viy,The HTTP seam viy sends requests through
+2026-11-08T02:57:11.52777Z,viy-protocol,0.1.0,0,0,https://github.com/GregoryBolshakov/viy,The ops and events between viy's engine and its terminal UI
+2026-11-08T02:57:11.781651Z,viy-time,0.1.0,0,0,https://github.com/GregoryBolshakov/viy,The clock seam viy reads time through
+2026-11-08T02:57:12.564022Z,viy-testkit,0.1.0,0,0,https://github.com/GregoryBolshakov/viy,Test support for viy's crates
+2026-11-08T02:57:51.626441Z,ravenrs-spreadsheet,27.1.20,0,0,https://github.com/alexkads/RavenRS,"Spreadsheet component for RavenRS: opens, edits and saves XLSX workbooks with formulas that recalculate, on the desktop and the web."
+2026-11-08T03:00:21.70249Z,canvist_extension_highlight,0.0.0,0,0,https://github.com/canvist/canvist,"canvist: TipTap's `highlight` mark, with colours, `==text==`, and `Mod-Shift-h`"
+2026-11-08T03:00:35.149557Z,viy-config,0.1.0,0,0,https://github.com/GregoryBolshakov/viy,"viy's configuration: scopes, layering and model profiles"
+2026-11-08T03:02:15.870916Z,override-lexer,0.4.0,0,0,https://github.com/zetaloop/override,ra-ap-rustc_lexer 0.166.0 for override
+2026-11-08T03:02:22.877616Z,override-parser,0.4.0,0,0,https://github.com/zetaloop/override,ra_ap_parser 0.0.360 for override
+2026-11-08T03:03:00.166147Z,override-syntax,0.4.0,0,0,https://github.com/zetaloop/override,ra_ap_syntax 0.0.360 for override
+2026-11-08T03:08:36.776086Z,viy-tools,0.1.0,0,0,https://github.com/GregoryBolshakov/viy,"viy's safeguards: approval, the bubblewrap sandbox, the egress proxy and untrusted text"
+2026-11-08T03:10:39.219009Z,canvist_extension_text_style,0.0.0,0,0,https://github.com/canvist/canvist,"canvist: TipTap's `textStyle` mark and the styles on it: colour, background colour, font family, font size, and line height"
+2026-11-08T03:12:16.02071Z,kalyx,0.1.0,0,0,https://github.com/casxi-lab/kalyx,The computer algebra library of casξ
+2026-11-08T03:16:00.359116Z,datahostant,0.0.0,0,0,https://github.com/ThinkersJournal/datahostant,"Placeholder: DataHostAnt, set up databases and other hostable storage locally or on a remote host. Not yet released."
+2026-11-08T03:17:41.504121Z,ch5xx-hal,0.0.1,0,0,https://github.com/ch32-rs/embassy-ch5xx,A placeholder owned by the ch32-rs team
+2026-11-08T03:18:36.866743Z,viy-term,0.1.0,0,0,https://github.com/GregoryBolshakov/viy,viy's terminal UI
