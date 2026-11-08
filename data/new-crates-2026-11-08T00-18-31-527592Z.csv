@@ -1,0 +1,36 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-07T23:25:35.014698Z,ext-proc-http-bridge,0.1.0,0,0,https://github.com/konrads/ext-proc-http-bridge,Envoy ext_proc gRPC service that exposes requests and responses as http::Request / http::Response to a handler
+2026-11-07T23:26:06.892699Z,windbag,0.0.0,0,0,,windbag
+2026-11-07T23:27:53.625293Z,gapfinder,0.1.0,0,0,https://github.com/ScottRMackenzie/GapFinder,Config based search for robotic tasks
+2026-11-07T23:33:21.696564Z,gdsyntax,0.1.0,0,0,https://github.com/q-rault/gdsyntax,"GDScript syntax trees and syntax errors, shared by the gdsuite tools"
+2026-11-07T23:37:13.78831Z,emojihash,0.1.0,0,0,https://github.com/stdfox/emojihash,"A simple, fast visual hashing library that turns data into emoji sequences"
+2026-11-07T23:42:24.074818Z,s0_cc,0.1.0,0,0,https://github.com/webc-site/sync0,sync0 时延梯度拥塞控制、非对称自适应 RTT 与 3x 抗反射放大算法库（sans-IO）
+2026-11-07T23:42:37.62191Z,s0_cdc,0.1.0,0,0,https://github.com/webc-site/sync0,sync0 FastCDC 内容定义分块与 128-bit BLAKE3 块级增量去重算法库
+2026-11-07T23:42:51.346998Z,s0_i18n,0.1.0,0,0,https://github.com/webc-site/sync0,sync0 多语言国际化支持（基于 ./i18n/*.yml 动态生成并自动匹配系统语言）
+2026-11-07T23:43:07.582593Z,s0_udp,0.1.0,0,0,https://github.com/webc-site/sync0,sync0 基于 compio 的高速 UDP 传输、线协议、自适应 Zstd 与 Dragonfly P2P 引擎
+2026-11-07T23:43:24.277123Z,sync0,0.1.0,0,0,https://github.com/webc-site/sync0,对等文件同步与 Dragonfly P2P 分发系统 / Peer-to-Peer File Sync & Dragonfly P2P Distribution System
+2026-11-07T23:46:26.004482Z,bajeri,0.0.0,0,0,,Compact “arena” allocator for tackling more complex projects.
+2026-11-07T23:48:32.284786Z,relayscrubber,0.1.0,0,0,https://github.com/AgentWorkforce/relayscrubber,Deterministic Technical Foul secret and PII scrubbing for Agent Relay
+2026-11-07T23:58:04.198573Z,hydo-results,0.2.0,0,0,https://github.com/kakoc/hydo,"hydo's results format: the run and exploration documents, the exploration's event stream, the lenient reader and the generated JSON Schema"
+2026-11-07T23:58:08.703459Z,hydo-history,0.2.0,0,0,https://github.com/kakoc/hydo,"hydo's history checkers: HYDO-HIST records, linearizability per key, Elle-style list-append, the combined verdict"
+2026-11-07T23:58:13.143197Z,hydo-engine-proto,0.2.0,0,0,https://github.com/kakoc/hydo,"The calls between hydo and its run engines as Rust types (requests, host commands, engine messages, results) and their one text form, the engines' line protocol"
+2026-11-07T23:58:19.067623Z,hydo-hvx,0.2.0,0,0,https://github.com/kakoc/hydo,The hvx run engine in Rust: drives /dev/hvx through its ioctls (hv/hvx/hvx_abi.h); in-process or as the hydo-hvx program (the C hvx_explore's command line and protocol)
+2026-11-07T23:58:25.708031Z,hydo-hvm,0.2.0,0,0,https://github.com/kakoc/hydo,"The Mac run engine: the deterministic arm64 VMM on Hypervisor.framework (ported from the C hvm.c, its virtio devices, its spin observer and hvmx, deleted in M147); in-process or as the hydo-hvm progr…"
+2026-11-08T00:01:15.776295Z,mailbag,0.1.0,0,0,https://github.com/accessware/mailbag,"Problem reports from desktop apps: what happened, the app and system it happened on, and the logs, sent to a mailbag server that emails them to the developer."
+2026-11-08T00:01:34.279873Z,mailbag-wx,0.1.0,0,0,https://github.com/accessware/mailbag,"A Report a Problem dialog for wxDragon apps, which sends the user's description and the app's logs to a mailbag server, and offers itself after a crash."
+2026-11-08T00:01:42.276463Z,mailbag-server,0.1.0,0,0,https://github.com/accessware/mailbag,Receives mailbag problem reports over HTTPS and emails each one to the developer.
+2026-11-08T00:04:06.930742Z,unwind-rs,0.1.1,0,0,https://github.com/pathscale/unwind-rs,Pathscale stack unwinder: a no_std _Unwind_* implementation in Rust
+2026-11-08T00:08:44.361669Z,base-message-macros,0.1.0,0,0,https://github.com/base-rs/base-message,The derive macro for base-message field sections
+2026-11-08T00:08:56.890411Z,base-message,0.1.0,0,0,https://github.com/base-rs/base-message,Interpret the header and trailer field sections of protocol messages into typed structs
+2026-11-08T00:10:23.174031Z,canvist_extension_document,0.0.0,0,0,https://github.com/canvist/canvist,canvist: TipTap's `doc` root node
+2026-11-08T00:10:45.975777Z,canvist_extension_paragraph,0.0.0,0,0,https://github.com/canvist/canvist,"canvist: TipTap's `paragraph` block, with `setParagraph` and `Mod-Alt-0`"
+2026-11-08T00:10:56.265435Z,canvist_extension_suggestion,0.0.0,0,0,https://github.com/canvist/canvist,"canvist: Trigger-character suggestions (`@`, `#`, `:`) that mention, hashtag, and emoji extensions build on, like TipTap's `@tiptap/suggestion`"
+2026-11-08T00:11:07.226499Z,canvist_extension_media,0.0.0,0,0,https://github.com/canvist/canvist,"canvist: The building blocks of media extensions: atomic blocks whose attributes say what to show, inserted by one command"
+2026-11-08T00:11:17.458177Z,canvist_extension_blockquote,0.0.0,0,0,https://github.com/canvist/canvist,"canvist: TipTap's `blockquote` block, with `> ` and `Mod-Shift-b`"
+2026-11-08T00:12:47.381077Z,finzdata,0.2.0,0,0,,"Official Rust client for FinzData point-in-time market data: US stocks since 2000 (delisted included), every futures contract since 2007, point-in-time GEX, FX, indexes, crypto, COT, SEC fundamentals…"
+2026-11-08T00:12:52.145906Z,renault-api,0.1.0,0,0,,"Async, storage-free Rust client for the Renault vehicle API"
+2026-11-08T00:13:37.741361Z,rotex-shader-slang,0.3.0,0,0,https://github.com/rotex-labs/rotex-shader,Slang compiler front end that cooks one shader into target payloads
+2026-11-08T00:13:50.630737Z,rotex-shader-graph,0.3.0,0,0,https://github.com/rotex-labs/rotex-shader,Typed host shader graph that emits Slang source
+2026-11-08T00:15:41.942196Z,frg-og,2.1.0,0,0,https://github.com/Shuflduf/frg-og,Transpiled programming language with frogs! (OUTDATED)
+2026-11-08T00:16:03.24583Z,sheikah,0.3.5,0,0,https://github.com/vahrina/sheikah,just another password manager
+2026-11-08T00:16:03.89921Z,harar,0.2.0,0,0,,"harar's client for Rust: secrets, identity tokens and policy from a harar primary or agent on its local socket"

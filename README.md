@@ -8,46 +8,49 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-07 23:20 UTC
+## Latest list — 2026-11-08 00:18 UTC
 
-New crates published between 2026-11-07 22:18 UTC and 2026-11-07 23:20 UTC.
+New crates published between 2026-11-07 23:20 UTC and 2026-11-08 00:18 UTC.
 
-[Full CSV](data/new-crates-2026-11-07T23-20-35-622362Z.csv)
+[Full CSV](data/new-crates-2026-11-08T00-18-31-527592Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-07 22:24:56 | [pankarta-software](https://crates.io/crates/pankarta-software) | 0.1.0 | 0 | A Rust game engine: wgpu rendering, rapier physics, SDL2 windowing, input and a… |
-| 2026-11-07 22:29:20 | [igs-iso9506-mms-codec](https://crates.io/crates/igs-iso9506-mms-codec) | 1.0.0 | 0 | BER and the encoding of TPKT, COTP, session, presentation, ACSE and MMS PDUs: n… |
-| 2026-11-07 22:29:37 | [igs-iso9506-mms-link](https://crates.io/crates/igs-iso9506-mms-link) | 1.0.0 | 0 | Sans-I/O state machines of the OSI upper layers and of the MMS association. |
-| 2026-11-07 22:29:48 | [igs-iso9506-mms](https://crates.io/crates/igs-iso9506-mms) | 1.0.0 | 0 | Async MMS client and server over TCP and TLS. |
-| 2026-11-07 22:31:46 | [igs-iec-tase2-model](https://crates.io/crates/igs-iec-tase2-model) | 1.0.0 | 0 | TASE.2 (IEC 60870-6) types and conversion to and from MMS data; no I/O. |
-| 2026-11-07 22:31:50 | [igs-iec-tase2-link](https://crates.io/crates/igs-iec-tase2-link) | 1.0.0 | 0 | TASE.2 (IEC 60870-6) sans-I/O bilateral tables, data sets and transfer sets. |
-| 2026-11-07 22:32:09 | [brodo](https://crates.io/crates/brodo) | 1.0.0 | 0 | Sparse volumes in pure Rust: a VDB-style sparse tree, fields that share a topol… |
-| 2026-11-07 22:32:22 | [colino](https://crates.io/crates/colino) | 1.0.0 | 0 | Converts triangle meshes to narrow-band signed distance fields (SDF) on brodo's… |
-| 2026-11-07 22:32:29 | [mestolo](https://crates.io/crates/mestolo) | 1.0.0 | 0 | A command that looks inside brodo's files: what a cache file, an archive or a .… |
-| 2026-11-07 22:33:46 | [igs-iec-tase2](https://crates.io/crates/igs-iec-tase2) | 1.0.0 | 0 | TASE.2 (IEC 60870-6) client on igs-iso9506-mms: association, data values, data… |
-| 2026-11-07 22:36:59 | [fandhe-browser-servo-host](https://crates.io/crates/fandhe-browser-servo-host) | 0.1.1 | 0 | Out-of-process Servo rendering host of fandhe-browser (built binary includes MP… |
-| 2026-11-07 22:41:36 | [adotenv-lsp](https://crates.io/crates/adotenv-lsp) | 0.1.0 | 0 | Language Server Protocol support for adotenv documents. |
-| 2026-11-07 22:43:20 | [igstase2-server](https://crates.io/crates/igstase2-server) | 1.0.0 | 0 | Demonstration TASE.2 server: points from a TOML file, simulated changes, the de… |
-| 2026-11-07 22:44:09 | [cargo-group-uses](https://crates.io/crates/cargo-group-uses) | 0.1.0 | 0 | Groups and merges Rust `use` declarations the way a project's style asks, where… |
-| 2026-11-07 22:45:06 | [cudakit-cudarc](https://crates.io/crates/cudakit-cudarc) | 0.19.10 | 0 | Fork of cudarc, safe and minimal CUDA bindings, with safer library loading on L… |
-| 2026-11-07 22:50:54 | [hydo-config](https://crates.io/crates/hydo-config) | 0.2.0 | 0 | Every environment variable hydo reads, in one place: the inventory, a snapshot… |
-| 2026-11-07 22:50:58 | [hydo-schedule](https://crates.io/crates/hydo-schedule) | 0.2.0 | 0 | hydo's schedule language as types: parse and print a schedule string byte for b… |
-| 2026-11-07 22:51:02 | [hydo-agent-proto](https://crates.io/crates/hydo-agent-proto) | 0.1.0 | 0 | hydo's host-agent protocol: messages, canonical JSON, console framing, the host… |
-| 2026-11-07 22:51:23 | [hydo-manifest](https://crates.io/crates/hydo-manifest) | 0.2.0 | 0 | hydo's project format as types: hydo.yaml, a plan's test: section and the hydo/… |
-| 2026-11-07 22:51:39 | [hydo-image](https://crates.io/crates/hydo-image) | 0.2.0 | 0 | hydo's image record: what shapes an image's runs but is not inside it (the gues… |
-| 2026-11-07 22:51:56 | [leptoskit_plugin_sensors](https://crates.io/crates/leptoskit_plugin_sensors) | 0.0.0 | 0 | Accelerometer, gravity-free acceleration, gyroscope, magnetometer and barometer… |
-| 2026-11-07 22:52:01 | [leptoskit_plugin_network_info](https://crates.io/crates/leptoskit_plugin_network_info) | 0.0.0 | 0 | Wi-Fi name, BSSID, and local address details for LeptosKit, returning nothing t… |
-| 2026-11-07 22:52:05 | [leptoskit_plugin_android_intent](https://crates.io/crates/leptoskit_plugin_android_intent) | 0.0.0 | 0 | Validated, bounded Android intents (activities, choosers, broadcasts, services)… |
-| 2026-11-07 22:52:10 | [leptoskit_plugin_android_alarm_manager](https://crates.io/crates/leptoskit_plugin_android_alarm_manager) | 0.0.0 | 0 | Android AlarmManager alarms, a durable fired-alarm queue and headless alarm han… |
-| 2026-11-07 22:53:05 | [igstase2-client](https://crates.io/crates/igstase2-client) | 1.0.0 | 0 | Command-line TASE.2 client: associates with a TASE.2 server and reads, writes,… |
-| 2026-11-07 23:03:09 | [clang-tidy-gui](https://crates.io/crates/clang-tidy-gui) | 0.2.0 | 0 | A desktop workspace for running clang-tidy checks one at a time |
-| 2026-11-07 23:05:38 | [tower-sessions-diesel-store](https://crates.io/crates/tower-sessions-diesel-store) | 0.1.0 | 0 | A Diesel store backend for tower-sessions |
-| 2026-11-07 23:08:48 | [hdf5-pure-core](https://crates.io/crates/hdf5-pure-core) | 0.48.0-rc.1 | 0 | Shared public types of hdf5-pure |
-| 2026-11-07 23:09:02 | [hdf5-pure-filter](https://crates.io/crates/hdf5-pure-filter) | 0.48.0-rc.1 | 0 | Pure-Rust HDF5 chunk filter codecs and pipelines |
-| 2026-11-07 23:09:11 | [hdf5-pure-format](https://crates.io/crates/hdf5-pure-format) | 0.48.0-rc.1 | 0 | Pure-Rust HDF5 on-disk structures and codecs |
-| 2026-11-07 23:09:17 | [hdf5-pure-space](https://crates.io/crates/hdf5-pure-space) | 0.48.0-rc.1 | 0 | Pure HDF5 file-space allocation and free-space policy |
-| 2026-11-07 23:09:56 | [service-key](https://crates.io/crates/service-key) | 0.6.0 | 0 | The service key — [METHOD] [service]/resource — a string naming one call to one… |
+| 2026-11-07 23:25:35 | [ext-proc-http-bridge](https://crates.io/crates/ext-proc-http-bridge) | 0.1.0 | 0 | Envoy ext_proc gRPC service that exposes requests and responses as http::Reques… |
+| 2026-11-07 23:26:06 | [windbag](https://crates.io/crates/windbag) | 0.0.0 | 0 | windbag |
+| 2026-11-07 23:27:53 | [gapfinder](https://crates.io/crates/gapfinder) | 0.1.0 | 0 | Config based search for robotic tasks |
+| 2026-11-07 23:33:21 | [gdsyntax](https://crates.io/crates/gdsyntax) | 0.1.0 | 0 | GDScript syntax trees and syntax errors, shared by the gdsuite tools |
+| 2026-11-07 23:37:13 | [emojihash](https://crates.io/crates/emojihash) | 0.1.0 | 0 | A simple, fast visual hashing library that turns data into emoji sequences |
+| 2026-11-07 23:42:24 | [s0_cc](https://crates.io/crates/s0_cc) | 0.1.0 | 0 | sync0 时延梯度拥塞控制、非对称自适应 RTT 与 3x 抗反射放大算法库（sans-IO） |
+| 2026-11-07 23:42:37 | [s0_cdc](https://crates.io/crates/s0_cdc) | 0.1.0 | 0 | sync0 FastCDC 内容定义分块与 128-bit BLAKE3 块级增量去重算法库 |
+| 2026-11-07 23:42:51 | [s0_i18n](https://crates.io/crates/s0_i18n) | 0.1.0 | 0 | sync0 多语言国际化支持（基于 ./i18n/*.yml 动态生成并自动匹配系统语言） |
+| 2026-11-07 23:43:07 | [s0_udp](https://crates.io/crates/s0_udp) | 0.1.0 | 0 | sync0 基于 compio 的高速 UDP 传输、线协议、自适应 Zstd 与 Dragonfly P2P 引擎 |
+| 2026-11-07 23:43:24 | [sync0](https://crates.io/crates/sync0) | 0.1.0 | 0 | 对等文件同步与 Dragonfly P2P 分发系统 / Peer-to-Peer File Sync & Dragonfly P2P Distributio… |
+| 2026-11-07 23:46:26 | [bajeri](https://crates.io/crates/bajeri) | 0.0.0 | 0 | Compact “arena” allocator for tackling more complex projects. |
+| 2026-11-07 23:48:32 | [relayscrubber](https://crates.io/crates/relayscrubber) | 0.1.0 | 0 | Deterministic Technical Foul secret and PII scrubbing for Agent Relay |
+| 2026-11-07 23:58:04 | [hydo-results](https://crates.io/crates/hydo-results) | 0.2.0 | 0 | hydo's results format: the run and exploration documents, the exploration's eve… |
+| 2026-11-07 23:58:08 | [hydo-history](https://crates.io/crates/hydo-history) | 0.2.0 | 0 | hydo's history checkers: HYDO-HIST records, linearizability per key, Elle-style… |
+| 2026-11-07 23:58:13 | [hydo-engine-proto](https://crates.io/crates/hydo-engine-proto) | 0.2.0 | 0 | The calls between hydo and its run engines as Rust types (requests, host comman… |
+| 2026-11-07 23:58:19 | [hydo-hvx](https://crates.io/crates/hydo-hvx) | 0.2.0 | 0 | The hvx run engine in Rust: drives /dev/hvx through its ioctls (hv/hvx/hvx_abi.… |
+| 2026-11-07 23:58:25 | [hydo-hvm](https://crates.io/crates/hydo-hvm) | 0.2.0 | 0 | The Mac run engine: the deterministic arm64 VMM on Hypervisor.framework (ported… |
+| 2026-11-08 00:01:15 | [mailbag](https://crates.io/crates/mailbag) | 0.1.0 | 0 | Problem reports from desktop apps: what happened, the app and system it happene… |
+| 2026-11-08 00:01:34 | [mailbag-wx](https://crates.io/crates/mailbag-wx) | 0.1.0 | 0 | A Report a Problem dialog for wxDragon apps, which sends the user's description… |
+| 2026-11-08 00:01:42 | [mailbag-server](https://crates.io/crates/mailbag-server) | 0.1.0 | 0 | Receives mailbag problem reports over HTTPS and emails each one to the develope… |
+| 2026-11-08 00:04:06 | [unwind-rs](https://crates.io/crates/unwind-rs) | 0.1.1 | 0 | Pathscale stack unwinder: a no_std _Unwind_* implementation in Rust |
+| 2026-11-08 00:08:44 | [base-message-macros](https://crates.io/crates/base-message-macros) | 0.1.0 | 0 | The derive macro for base-message field sections |
+| 2026-11-08 00:08:56 | [base-message](https://crates.io/crates/base-message) | 0.1.0 | 0 | Interpret the header and trailer field sections of protocol messages into typed… |
+| 2026-11-08 00:10:23 | [canvist_extension_document](https://crates.io/crates/canvist_extension_document) | 0.0.0 | 0 | canvist: TipTap's `doc` root node |
+| 2026-11-08 00:10:45 | [canvist_extension_paragraph](https://crates.io/crates/canvist_extension_paragraph) | 0.0.0 | 0 | canvist: TipTap's `paragraph` block, with `setParagraph` and `Mod-Alt-0` |
+| 2026-11-08 00:10:56 | [canvist_extension_suggestion](https://crates.io/crates/canvist_extension_suggestion) | 0.0.0 | 0 | canvist: Trigger-character suggestions (`@`, `#`, `:`) that mention, hashtag, a… |
+| 2026-11-08 00:11:07 | [canvist_extension_media](https://crates.io/crates/canvist_extension_media) | 0.0.0 | 0 | canvist: The building blocks of media extensions: atomic blocks whose attribute… |
+| 2026-11-08 00:11:17 | [canvist_extension_blockquote](https://crates.io/crates/canvist_extension_blockquote) | 0.0.0 | 0 | canvist: TipTap's `blockquote` block, with `> ` and `Mod-Shift-b` |
+| 2026-11-08 00:12:47 | [finzdata](https://crates.io/crates/finzdata) | 0.2.0 | 0 | Official Rust client for FinzData point-in-time market data: US stocks since 20… |
+| 2026-11-08 00:12:52 | [renault-api](https://crates.io/crates/renault-api) | 0.1.0 | 0 | Async, storage-free Rust client for the Renault vehicle API |
+| 2026-11-08 00:13:37 | [rotex-shader-slang](https://crates.io/crates/rotex-shader-slang) | 0.3.0 | 0 | Slang compiler front end that cooks one shader into target payloads |
+| 2026-11-08 00:13:50 | [rotex-shader-graph](https://crates.io/crates/rotex-shader-graph) | 0.3.0 | 0 | Typed host shader graph that emits Slang source |
+| 2026-11-08 00:15:41 | [frg-og](https://crates.io/crates/frg-og) | 2.1.0 | 0 | Transpiled programming language with frogs! (OUTDATED) |
+| 2026-11-08 00:16:03 | [sheikah](https://crates.io/crates/sheikah) | 0.3.5 | 0 | just another password manager |
+| 2026-11-08 00:16:03 | [harar](https://crates.io/crates/harar) | 0.2.0 | 0 | harar's client for Rust: secrets, identity tokens and policy from a harar prima… |
 
 ## Data source
 
