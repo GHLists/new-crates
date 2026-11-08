@@ -1,0 +1,47 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-08T12:21:11.900674Z,jflib-build,0.1.0,0,0,https://github.com/JFLibrary/JFLib,"What a JFLib app's build.rs hands to ui::main! and rt::main!: permissions, package data, assets, link arguments"
+2026-11-08T12:22:04.112854Z,persian-normalizer,0.1.0,0,0,https://github.com/Parsa-Parvizi/persian-normalizer,"Small, fast, zero-copy-when-possible Persian (Farsi) text normalization"
+2026-11-08T12:25:17.272579Z,rhwp-hayro-jpeg2000,0.4.0-rhwp.1,0,0,https://github.com/edwardkim/rhwp,"A memory-safe, pure-Rust JPEG 2000 decoder."
+2026-11-08T12:27:42.560713Z,tamias-cache,0.1.0,0,0,https://github.com/9aia/tamias,cache port — read-through fetched content
+2026-11-08T12:28:48.826884Z,blvm-lightning,0.1.6,0,0,https://github.com/BTCDecoded/blvm-lightning,Lightning Network payment processor module for blvm-node
+2026-11-08T12:31:36.765503Z,jflib-modplat,0.1.0,0,0,https://github.com/JFLibrary/JFLib,"The platform layer of a loadable JFLib module, through its host"
+2026-11-08T12:33:25.743768Z,loomer-core,0.0.0,0,0,https://github.com/emanyzwww/Loomer,"Core data types for Loomer: colors, geometry, elements, and window options."
+2026-11-08T12:34:53.467925Z,loomer-platform,0.0.0,0,0,https://github.com/emanyzwww/Loomer,"Platform layer for Loomer: winit-backed windows, the event loop, and event translation."
+2026-11-08T12:35:17.227327Z,rhwp-qcms,0.3.0-rhwp.1,0,0,https://github.com/FirefoxGraphics/qcms,lightweight color management
+2026-11-08T12:35:33.091028Z,loomer-runtime,0.0.0,0,0,https://github.com/emanyzwww/Loomer,Application runtime for Loomer: window lifecycle and event-loop integration.
+2026-11-08T12:36:19.788071Z,loomer,0.0.0,0,0,https://github.com/emanyzwww/Loomer,A cross-platform desktop GUI framework for Rust.
+2026-11-08T12:37:06.191491Z,tamias-source-http,0.1.0,0,0,https://github.com/9aia/tamias,http source impl — .tgz GET + optional sha256 pin
+2026-11-08T12:38:36.297055Z,devdoctor-core,0.1.1,0,0,https://github.com/Bannawat01/DevDoctor,Reusable local-first developer environment diagnostics.
+2026-11-08T12:39:36.010613Z,devdoctor-mcp,0.1.1,0,0,https://github.com/Bannawat01/DevDoctor,Read-only local MCP server for DevDoctor diagnostics.
+2026-11-08T12:42:06.063975Z,jflib-netpkt,0.1.0,0,0,https://github.com/JFLibrary/JFLib,"Network packets byte for byte: addresses, checksums, header codecs, a dissector, pcapng; no I/O"
+2026-11-08T12:45:14.953277Z,rhwp-hayro-jbig2,0.3.0-rhwp.1,0,0,https://github.com/edwardkim/rhwp,"A memory-safe, pure-Rust JBIG2 decoder."
+2026-11-08T12:47:12.735387Z,light-telemetry-client,0.1.1,0,0,https://github.com/oldienki/telemetry,LightTelemetry UDP fire-and-forget client
+2026-11-08T12:47:18.082159Z,light-telemetry-tracing,0.1.1,0,0,https://github.com/oldienki/telemetry,tracing layer emitting LightTelemetry UDP events
+2026-11-08T12:47:28.99864Z,light-telemetry,0.1.1,0,0,https://github.com/oldienki/telemetry,LightTelemetry ingest daemon
+2026-11-08T12:48:28.963849Z,tamias-publish,0.1.0,0,0,https://github.com/9aia/tamias,author side — pack + push
+2026-11-08T12:51:14.905813Z,window-islands,0.1.0,0,0,https://github.com/acus9345/window-islands,Group stacked Windows apps into a floating icon island above the window.
+2026-11-08T12:52:45.830779Z,jflib-plat,0.1.0,0,0,https://github.com/JFLibrary/JFLib,JFLib's platform layer: one module per operating system with the same functions
+2026-11-08T12:53:15.898228Z,blvm-governance,0.1.5,0,0,https://github.com/BTCDecoded/blvm-governance,Governance webhook and economic node tracking module for blvm-node
+2026-11-08T12:53:50.617222Z,malt-core,0.1.0,0,0,https://github.com/watermarkhu/malt,"Core engine for malt: AST traversal, rule traits, and diagnostics"
+2026-11-08T12:53:58.589341Z,malt-rules,0.1.0,0,0,https://github.com/watermarkhu/malt,Lint rule implementations for malt
+2026-11-08T12:54:09.016766Z,malt-cli,0.1.0,0,0,https://github.com/watermarkhu/malt,Command-line interface for the malt MATLAB linter
+2026-11-08T12:54:25.532729Z,tunnelward-crypto,0.0.9,0,0,https://github.com/sebastienrousseau/tunnelward,Tunnelward TLS configuration with hybrid post-quantum key exchange
+2026-11-08T12:54:26.6073Z,tunnelward-mcp,0.0.9,0,0,https://github.com/sebastienrousseau/tunnelward,Tunnelward MCP envelope parsing for Streamable HTTP and SSE
+2026-11-08T12:54:27.9047Z,tunnelward-proto,0.0.9,0,0,https://github.com/sebastienrousseau/tunnelward,"Tunnelward wire protocol: register frames, limits and error codes"
+2026-11-08T12:54:29.852106Z,tunnelward-connector,0.0.9,0,0,https://github.com/sebastienrousseau/tunnelward,Tunnelward connector: outbound registration and stdio bridge
+2026-11-08T12:54:31.6088Z,tunnelward-gateway,0.0.9,0,0,https://github.com/sebastienrousseau/tunnelward,"Tunnelward gateway: ingress, routing, admission and admin API"
+2026-11-08T12:55:14.812624Z,rust-widgets-icons,4.1.0,0,0,https://github.com/mikewolfli/rust-widgets,Material Symbols outlined icon data and name table for rust_widgets (generated geometry; Apache-2.0 path data)
+2026-11-08T12:55:23.024852Z,smarthive-socket,0.2.0,0,0,https://github.com/Smart-Hive-Labs/Hive-Socket,"Server-side Rust SDK for SmartHive Hive-Socket: notifications, room broadcasts, room history, media rooms, recordings, voice agents and webhook verification."
+2026-11-08T12:55:37.868367Z,rhwp-pdf-import-backend,0.3.78-rhwp.1,0,0,https://github.com/edwardkim/rhwp,"rhwp internal PDF import backend, security patches based on PDFOxide 0.3.78; not an official PDFOxide release"
+2026-11-08T12:58:56.583463Z,tamias-registry-local,0.1.0,0,0,https://github.com/9aia/tamias,"dir registry impl — a folder index, servable over HTTP"
+2026-11-08T13:01:21.42569Z,tunnelward,0.0.9,0,0,https://github.com/sebastienrousseau/tunnelward,The tunnelward command-line tool
+2026-11-08T13:03:16.283418Z,jflib-simd,0.1.0,0,0,https://github.com/JFLibrary/JFLib,"SSE2 and AVX2 behind one safe interface: a kernel written once, with bit-identical results"
+2026-11-08T13:05:52.337422Z,rhwp,0.9.0,0,0,https://github.com/edwardkim/rhwp,"HWP/HWPX document engine for Rust applications, WebAssembly, and CLI automation"
+2026-11-08T13:08:48.609797Z,mobile-ime-core,0.1.0,0,0,https://github.com/mrchypark/mobile-ime-core,Platform-independent state for mobile IME composition and focus
+2026-11-08T13:08:50.360003Z,cuora-tui,0.1.0,0,0,https://github.com/9aia/cuora,cuora — interactive vault TUI; a thin front-end over cuora-ops (phase 5 polish)
+2026-11-08T13:12:32.18258Z,ld2410s,0.2.2,0,0,https://github.com/mvdschee/ld2410s,HLK-LD2410S driver with backend-agnostic UART ownership for serialport or esp-idf-hal
+2026-11-08T13:13:47.452779Z,jflib-wgsl,0.1.0,0,0,https://github.com/JFLibrary/JFLib,"JFLib's WGSL compiler: source text to a checked, typed module to SPIR-V"
+2026-11-08T13:14:48.815883Z,superleader,0.0.1,0,0,https://github.com/Frankwii/superleader,"A leader key for the whole desktop: a tree of keys, pickers, prompts and live views in a floating window"
+2026-11-08T13:14:53.089982Z,nornir-mimir-bin,0.1.0,0,0,https://git.gunnar.rs/nordisk/nornir,"Mímir's binary graph: static x86_64 and AArch64 ELF control-flow discovery (programs, shared libraries, objects, static archives) with Mímir Arrow output (code_nodes, code_edges, code_asm)"
+2026-11-08T13:17:29.315221Z,tamias-config-yml,0.1.0,0,0,https://github.com/9aia/tamias,YAML config impl (the standard) — tamias.yml / tamias.yaml
+2026-11-08T13:17:46.834753Z,trlctl,0.1.0,0,0,https://github.com/therealm-tech/trlctl,Scaffold and validate repositories that follow the therealm Argo CD layout
