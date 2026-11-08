@@ -8,50 +8,45 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-08 17:20 UTC
+## Latest list — 2026-11-08 18:20 UTC
 
-New crates published between 2026-11-08 16:18 UTC and 2026-11-08 17:20 UTC.
+New crates published between 2026-11-08 17:20 UTC and 2026-11-08 18:20 UTC.
 
-[Full CSV](data/new-crates-2026-11-08T17-20-13-689454Z.csv)
+[Full CSV](data/new-crates-2026-11-08T18-20-21-594973Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-08 16:18:45 | [kerniq-observability-testing](https://crates.io/crates/kerniq-observability-testing) | 0.1.3 | 0 | Test support for Kerniq observability: in-memory metric, span and log exporters… |
-| 2026-11-08 16:20:40 | [watchdiff-core](https://crates.io/crates/watchdiff-core) | 0.1.0 | 0 | Lightweight web/file/API/DB/SSL change monitoring with diffs, alerts and a CLI. |
-| 2026-11-08 16:22:15 | [jflib-img-dds](https://crates.io/crates/jflib-img-dds) | 0.1.0 | 0 | DDS reader and writer for JFLib, with the BC1 to BC7 block codecs |
-| 2026-11-08 16:23:50 | [stmob](https://crates.io/crates/stmob) | 0.1.0 | 0 | Read and modify STM32 flash option bytes over probe-rs. |
-| 2026-11-08 16:23:56 | [game-toolkit-dosbus](https://crates.io/crates/game-toolkit-dosbus) | 0.1.0 | 0 | no_std clock, I/O port, IRQ and DMA interfaces shared by DOS-era PC hardware em… |
-| 2026-11-08 16:24:35 | [nordisk-libcontainer](https://crates.io/crates/nordisk-libcontainer) | 0.7.0 | 0 | Temporary fork of youki's libcontainer 0.7.0 with only the SeccompBackend trait… |
-| 2026-11-08 16:24:41 | [stmob-cli](https://crates.io/crates/stmob-cli) | 0.1.0 | 0 | Command-line tool for reading and modifying STM32 flash option bytes over probe… |
-| 2026-11-08 16:32:41 | [jflib-img-gif](https://crates.io/crates/jflib-img-gif) | 0.1.0 | 0 | GIF decoder and encoder for JFLib |
-| 2026-11-08 16:33:24 | [rings-aez](https://crates.io/crates/rings-aez) | 0.39.0 | 0 | AEZ v5 wide-block cipher and robust authenticated encryption for Rings |
-| 2026-11-08 16:33:32 | [rings-dns-relay](https://crates.io/crates/rings-dns-relay) | 0.39.0 | 0 | DNS relay for Rings: names every node <did>.<zone> and relays its services to t… |
-| 2026-11-08 16:33:37 | [rings-network-policy](https://crates.io/crates/rings-network-policy) | 0.39.0 | 0 | Shared public-network admission policy for Rings egress targets. |
-| 2026-11-08 16:33:40 | [rings-runtime](https://crates.io/crates/rings-runtime) | 0.39.0 | 0 | Shared native/browser runtime contracts (timers, task scheduling, thread-safety… |
-| 2026-11-08 16:43:07 | [jflib-img-hevc](https://crates.io/crates/jflib-img-hevc) | 0.1.0 | 0 | HEVC (H.265) intra decoder and encoder for HEIC still images |
-| 2026-11-08 16:48:28 | [shadowallet-chain-core](https://crates.io/crates/shadowallet-chain-core) | 0.1.0-alpha.1 | 0 | Chain-neutral identities, errors and capability traits for the Shadowallet Chai… |
-| 2026-11-08 16:49:18 | [shadowallet-chain-utxo](https://crates.io/crates/shadowallet-chain-utxo) | 0.1.0-alpha.1 | 0 | UTXO balance, history, fee-policy and persistence contracts for the Shadowallet… |
-| 2026-11-08 16:49:54 | [shadowallet-chain-bitcoin](https://crates.io/crates/shadowallet-chain-bitcoin) | 0.1.0-alpha.1 | 0 | Watch-only Bitcoin (BDK) synchronization, PSBT construction and finalization. |
-| 2026-11-08 16:50:25 | [shadowallet-chain-litecoin](https://crates.io/crates/shadowallet-chain-litecoin) | 0.1.0-alpha.1 | 0 | Watch-only Litecoin addresses, unsigned transaction preparation and external fi… |
-| 2026-11-08 16:52:51 | [plaindoc-core](https://crates.io/crates/plaindoc-core) | 0.0.1 | 0 | Placeholder: a fast document parser for LLM agents (PDF, Office, scans with OCR… |
-| 2026-11-08 16:53:04 | [plaindoc-formats](https://crates.io/crates/plaindoc-formats) | 0.0.1 | 0 | Placeholder: a fast document parser for LLM agents (PDF, Office, scans with OCR… |
-| 2026-11-08 16:53:08 | [plaindoc-ocr](https://crates.io/crates/plaindoc-ocr) | 0.0.1 | 0 | Placeholder: a fast document parser for LLM agents (PDF, Office, scans with OCR… |
-| 2026-11-08 16:53:10 | [plaindoc-cli](https://crates.io/crates/plaindoc-cli) | 0.0.1 | 0 | Placeholder: a fast document parser for LLM agents (PDF, Office, scans with OCR… |
-| 2026-11-08 16:53:13 | [plaindoc](https://crates.io/crates/plaindoc) | 0.0.1 | 0 | Placeholder: a fast document parser for LLM agents (PDF, Office, scans with OCR… |
-| 2026-11-08 16:53:33 | [jflib-img-jpeg](https://crates.io/crates/jflib-img-jpeg) | 0.1.0 | 0 | JPEG decoder and encoder for JFLib |
-| 2026-11-08 16:56:32 | [odk-schema](https://crates.io/crates/odk-schema) | 0.1.0 | 0 | Shared schema types for ODK (Omni Development Kit) |
-| 2026-11-08 16:58:49 | [odk-cli](https://crates.io/crates/odk-cli) | 0.1.0 | 0 | ODK CLI - Unified schema compilation from TypeScript, WASM, or JSON to multiple… |
-| 2026-11-08 16:58:58 | [odk-pdk](https://crates.io/crates/odk-pdk) | 0.1.0 | 0 | ODK Plugin Development Kit for Rust - build WASM schema plugins |
-| 2026-11-08 16:59:02 | [shadowallet-chain-dogecoin](https://crates.io/crates/shadowallet-chain-dogecoin) | 0.1.0-alpha.1 | 0 | Watch-only Dogecoin P2PKH addresses, unsigned transaction preparation and exter… |
-| 2026-11-08 17:00:39 | [byte-gauge](https://crates.io/crates/byte-gauge) | 0.1.1 | 0 | GLASTOR® Core — High-performance Rust SIMD binary auditor, ELF/PE/Mach-O sectio… |
-| 2026-11-08 17:01:20 | [specter-cli](https://crates.io/crates/specter-cli) | 0.2.0 | 0 | GLASTOR® Core — Zero-Compiler Polyglot AST API Contract Differ, Trojan Breaking… |
-| 2026-11-08 17:03:09 | [activitykit](https://crates.io/crates/activitykit) | 0.1.0 | 0 | iOS Live Activities from Rust |
-| 2026-11-08 17:04:01 | [jflib-img-jxr](https://crates.io/crates/jflib-img-jxr) | 0.1.0 | 0 | JPEG XR decoder and encoder for JFLib |
-| 2026-11-08 17:06:10 | [tritonpass](https://crates.io/crates/tritonpass) | 0.1.0 | 0 | Triton TTIR to block-level standard MLIR (func / arith / math / scf / memref /… |
-| 2026-11-08 17:08:57 | [shadowallet-chain-bitcoin-cash](https://crates.io/crates/shadowallet-chain-bitcoin-cash) | 0.1.0-alpha.1 | 0 | Bitcoin Cash signing proof of concept: CashAddr, ForkID sighash and P2PKH. |
-| 2026-11-08 17:14:27 | [jflib-img-png](https://crates.io/crates/jflib-img-png) | 0.1.0 | 0 | PNG decoder and encoder for JFLib |
-| 2026-11-08 17:14:38 | [rten-sequence](https://crates.io/crates/rten-sequence) | 0.28.0 | 0 | Sequence decoding algorithms for ML model outputs |
-| 2026-11-08 17:18:24 | [airlock-scan](https://crates.io/crates/airlock-scan) | 0.1.0 | 0 | Check a repository for malicious code before it reaches your machine |
+| 2026-11-08 17:24:59 | [jflib-img-svg](https://crates.io/crates/jflib-img-svg) | 0.1.0 | 0 | SVG images and icons drawn through JFLib's path rasterizer |
+| 2026-11-08 17:27:01 | [ods-core](https://crates.io/crates/ods-core) | 0.1.3 | 0 | Provider-neutral semantic graph and domain model for OpenDataSuite. |
+| 2026-11-08 17:27:07 | [ods-config](https://crates.io/crates/ods-config) | 0.1.3 | 0 | Layered, validated configuration and profiles for OpenDataSuite. |
+| 2026-11-08 17:27:09 | [ods-erd](https://crates.io/crates/ods-erd) | 0.1.3 | 0 | Entity-relationship models for OpenDataSuite: keys and relationships with evide… |
+| 2026-11-08 17:27:17 | [ods-sdk](https://crates.io/crates/ods-sdk) | 0.1.3 | 0 | Versioned plugin contracts for OpenDataSuite providers. |
+| 2026-11-08 17:35:32 | [jflib-img-tga](https://crates.io/crates/jflib-img-tga) | 0.1.0 | 0 | TGA reader and writer for JFLib |
+| 2026-11-08 17:41:55 | [ferritls-backend-x86_64](https://crates.io/crates/ferritls-backend-x86_64) | 0.9.1 | 0 | AES-NI + CLMUL + SHA-NI execution core for ferritls-core (out of the FIPS bound… |
+| 2026-11-08 17:42:15 | [dvm-api](https://crates.io/crates/dvm-api) | 0.1.0 | 0 | dvm.run's REST API: what it takes and returns, checked |
+| 2026-11-08 17:42:17 | [dvm-run](https://crates.io/crates/dvm-run) | 0.1.0 | 0 | Sandboxes whose every run replays: dvm.run's Rust SDK |
+| 2026-11-08 17:45:06 | [villeneuve](https://crates.io/crates/villeneuve) | 0.0.1 | 0 | Name held for villeneuve, the closed-source orbital-propagation engine behind e… |
+| 2026-11-08 17:45:08 | [scott](https://crates.io/crates/scott) | 0.0.1 | 0 | Name held for scott, the closed-source orbit-determination engine behind empyre… |
+| 2026-11-08 17:45:09 | [empyrean-core](https://crates.io/crates/empyrean-core) | 0.0.1 | 0 | Name held for empyrean-core, the closed-source engine layer of the empyrean dis… |
+| 2026-11-08 17:46:06 | [jflib-img-webp](https://crates.io/crates/jflib-img-webp) | 0.1.0 | 0 | WebP decoder and encoders for JFLib: VP8 and VP8L |
+| 2026-11-08 17:56:38 | [jflib-doc-io](https://crates.io/crates/jflib-doc-io) | 0.1.0 | 0 | Conservative DOCX reading and writing for JFLib documents |
+| 2026-11-08 17:56:54 | [tree-sitter-javascript-orchard](https://crates.io/crates/tree-sitter-javascript-orchard) | 0.1.0 | 0 | Parser for JavaScript files |
+| 2026-11-08 17:57:55 | [etsy-seller](https://crates.io/crates/etsy-seller) | 0.1.0-alpha.1 | 0 | Unofficial Rust client for the Etsy Open API v3. Not affiliated with, endorsed… |
+| 2026-11-08 17:57:59 | [datacraft-core](https://crates.io/crates/datacraft-core) | 0.1.0 | 0 | Headless domain model, command bus and application state for DataCraft |
+| 2026-11-08 17:58:39 | [datacraft-jet](https://crates.io/crates/datacraft-jet) | 0.1.0 | 0 | Clean-room pure-Rust Jet 3/4 and ACE backend for DataCraft (read path, Jet4 wri… |
+| 2026-11-08 17:59:32 | [datacraft-sqlite](https://crates.io/crates/datacraft-sqlite) | 0.1.0 | 0 | SQLite backend for DataCraft behind the storage port (rusqlite, statically bund… |
+| 2026-11-08 17:59:36 | [datacraft-csv](https://crates.io/crates/datacraft-csv) | 0.1.0 | 0 | CSV directory driver for the DataCraft engine (ADR-7 out-of-tree proof) |
+| 2026-11-08 17:59:56 | [datacraft-storage](https://crates.io/crates/datacraft-storage) | 0.1.0 | 0 | Format-detecting driver composite for DataCraft (shipped backends plus samples) |
+| 2026-11-08 18:07:06 | [jflib-img-bmp](https://crates.io/crates/jflib-img-bmp) | 0.1.0 | 0 | BMP decoder and encoder for JFLib |
+| 2026-11-08 18:08:27 | [datacraft-mcp](https://crates.io/crates/datacraft-mcp) | 0.1.0 | 0 | Headless stdio JSON-RPC 2.0 endpoint of the DataCraft command bus (standalone b… |
+| 2026-11-08 18:10:27 | [hearthr](https://crates.io/crates/hearthr) | 0.1.0 | 0 | Register a named background process with the OS service manager: systemd user u… |
+| 2026-11-08 18:15:32 | [uniffi-bindgen-c](https://crates.io/crates/uniffi-bindgen-c) | 0.1.0 | 0 | C bindings generator for UniFFI |
+| 2026-11-08 18:16:04 | [uniffi-bindgen-zig](https://crates.io/crates/uniffi-bindgen-zig) | 0.1.0 | 0 | Zig bindings generator for UniFFI |
+| 2026-11-08 18:16:54 | [canvist_extension_clear_formatting](https://crates.io/crates/canvist_extension_clear_formatting) | 0.0.0 | 0 | canvist: Remove marks and turn blocks back into paragraphs, with Mod-Backslash |
+| 2026-11-08 18:17:37 | [jflib-img-heif](https://crates.io/crates/jflib-img-heif) | 0.1.0 | 0 | HEIF reader and HEIC writer for JFLib |
+| 2026-11-08 18:17:53 | [cargo-steward](https://crates.io/crates/cargo-steward) | 0.1.0 | 0 | Keeps Cargo build output fast and bounded: stops the debug object-file leak, cl… |
+| 2026-11-08 18:18:41 | [tunnelward-identity](https://crates.io/crates/tunnelward-identity) | 0.0.10 | 0 | Tunnelward workload identity: the SPIFFE ID in an X.509-SVID |
+| 2026-11-08 18:18:48 | [uniffi-bindgen-lua](https://crates.io/crates/uniffi-bindgen-lua) | 0.1.0 | 0 | Lua bindings generator for UniFFI |
 
 ## Data source
 

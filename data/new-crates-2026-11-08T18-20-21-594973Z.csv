@@ -1,0 +1,32 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-08T17:24:59.416477Z,jflib-img-svg,0.1.0,0,0,https://github.com/JFLibrary/JFLib,SVG images and icons drawn through JFLib's path rasterizer
+2026-11-08T17:27:01.966945Z,ods-core,0.1.3,0,0,https://github.com/buchochelliq-labs/open-data-suite,Provider-neutral semantic graph and domain model for OpenDataSuite.
+2026-11-08T17:27:07.128294Z,ods-config,0.1.3,0,0,https://github.com/buchochelliq-labs/open-data-suite,"Layered, validated configuration and profiles for OpenDataSuite."
+2026-11-08T17:27:09.86177Z,ods-erd,0.1.3,0,0,https://github.com/buchochelliq-labs/open-data-suite,"Entity-relationship models for OpenDataSuite: keys and relationships with evidence (#60, #62, #63)."
+2026-11-08T17:27:17.387907Z,ods-sdk,0.1.3,0,0,https://github.com/buchochelliq-labs/open-data-suite,Versioned plugin contracts for OpenDataSuite providers.
+2026-11-08T17:35:32.80332Z,jflib-img-tga,0.1.0,0,0,https://github.com/JFLibrary/JFLib,TGA reader and writer for JFLib
+2026-11-08T17:41:55.374304Z,ferritls-backend-x86_64,0.9.1,0,0,https://codeberg.org/Hammerklavier/ferritls,"AES-NI + CLMUL + SHA-NI execution core for ferritls-core (out of the FIPS boundary, x86_64 only)"
+2026-11-08T17:42:15.953534Z,dvm-api,0.1.0,0,0,https://github.com/deterministic-machines/sdk,"dvm.run's REST API: what it takes and returns, checked"
+2026-11-08T17:42:17.646966Z,dvm-run,0.1.0,0,0,https://github.com/deterministic-machines/sdk,Sandboxes whose every run replays: dvm.run's Rust SDK
+2026-11-08T17:45:06.369824Z,villeneuve,0.0.1,0,0,https://github.com/Empyrean-Dynamics/empyrean,"Name held for villeneuve, the closed-source orbital-propagation engine behind empyrean. Contains no code; use the empyrean crate."
+2026-11-08T17:45:08.421804Z,scott,0.0.1,0,0,https://github.com/Empyrean-Dynamics/empyrean,"Name held for scott, the closed-source orbit-determination engine behind empyrean. Contains no code; use the empyrean crate."
+2026-11-08T17:45:09.242077Z,empyrean-core,0.0.1,0,0,https://github.com/Empyrean-Dynamics/empyrean,"Name held for empyrean-core, the closed-source engine layer of the empyrean distribution. Contains no code; use the empyrean crate."
+2026-11-08T17:46:06.796517Z,jflib-img-webp,0.1.0,0,0,https://github.com/JFLibrary/JFLib,WebP decoder and encoders for JFLib: VP8 and VP8L
+2026-11-08T17:56:38.844418Z,jflib-doc-io,0.1.0,0,0,https://github.com/JFLibrary/JFLib,Conservative DOCX reading and writing for JFLib documents
+2026-11-08T17:56:54.579629Z,tree-sitter-javascript-orchard,0.1.0,0,0,https://codeberg.org/grammar-orchard/tree-sitter-javascript-orchard,Parser for JavaScript files
+2026-11-08T17:57:55.945346Z,etsy-seller,0.1.0-alpha.1,0,0,https://github.com/fdhoff/api-sdks,"Unofficial Rust client for the Etsy Open API v3. Not affiliated with, endorsed or certified by Etsy."
+2026-11-08T17:57:59.27292Z,datacraft-core,0.1.0,0,0,https://github.com/RealRauch/datacraft,"Headless domain model, command bus and application state for DataCraft"
+2026-11-08T17:58:39.696416Z,datacraft-jet,0.1.0,0,0,https://github.com/RealRauch/datacraft,"Clean-room pure-Rust Jet 3/4 and ACE backend for DataCraft (read path, Jet4 writer)"
+2026-11-08T17:59:32.459525Z,datacraft-sqlite,0.1.0,0,0,https://github.com/RealRauch/datacraft,"SQLite backend for DataCraft behind the storage port (rusqlite, statically bundled)"
+2026-11-08T17:59:36.491713Z,datacraft-csv,0.1.0,0,0,https://github.com/RealRauch/datacraft,CSV directory driver for the DataCraft engine (ADR-7 out-of-tree proof)
+2026-11-08T17:59:56.897803Z,datacraft-storage,0.1.0,0,0,https://github.com/RealRauch/datacraft,Format-detecting driver composite for DataCraft (shipped backends plus samples)
+2026-11-08T18:07:06.613102Z,jflib-img-bmp,0.1.0,0,0,https://github.com/JFLibrary/JFLib,BMP decoder and encoder for JFLib
+2026-11-08T18:08:27.508664Z,datacraft-mcp,0.1.0,0,0,https://github.com/RealRauch/datacraft,Headless stdio JSON-RPC 2.0 endpoint of the DataCraft command bus (standalone binary crate)
+2026-11-08T18:10:27.32806Z,hearthr,0.1.0,0,0,https://github.com/Olyno/hearthr,"Register a named background process with the OS service manager: systemd user units, launchd LaunchAgents, Windows Task Scheduler — one spec in, a kept-alive daemon out."
+2026-11-08T18:15:32.28716Z,uniffi-bindgen-c,0.1.0,0,0,https://github.com/sorinirimies/uniffi-bindgen-c,C bindings generator for UniFFI
+2026-11-08T18:16:04.765107Z,uniffi-bindgen-zig,0.1.0,0,0,https://github.com/sorinirimies/uniffi-bindgen-zig,Zig bindings generator for UniFFI
+2026-11-08T18:16:54.29865Z,canvist_extension_clear_formatting,0.0.0,0,0,https://github.com/canvist/canvist,"canvist: Remove marks and turn blocks back into paragraphs, with Mod-Backslash"
+2026-11-08T18:17:37.126309Z,jflib-img-heif,0.1.0,0,0,https://github.com/JFLibrary/JFLib,HEIF reader and HEIC writer for JFLib
+2026-11-08T18:17:53.489057Z,cargo-steward,0.1.0,0,0,https://github.com/0xdoublesharp/cargo-steward,"Keeps Cargo build output fast and bounded: stops the debug object-file leak, cleans stale and orphaned build directories, and checks your setup"
+2026-11-08T18:18:41.543133Z,tunnelward-identity,0.0.10,0,0,https://github.com/sebastienrousseau/tunnelward,Tunnelward workload identity: the SPIFFE ID in an X.509-SVID
+2026-11-08T18:18:48.858397Z,uniffi-bindgen-lua,0.1.0,0,0,https://github.com/sorinirimies/uniffi-bindgen-lua,Lua bindings generator for UniFFI
