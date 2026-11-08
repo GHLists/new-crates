@@ -8,40 +8,49 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-08 22:18 UTC
+## Latest list — 2026-11-08 23:19 UTC
 
-New crates published between 2026-11-08 21:19 UTC and 2026-11-08 22:18 UTC.
+New crates published between 2026-11-08 22:18 UTC and 2026-11-08 23:19 UTC.
 
-[Full CSV](data/new-crates-2026-11-08T22-18-18-485032Z.csv)
+[Full CSV](data/new-crates-2026-11-08T23-19-35-812947Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-08 21:19:43 | [ponko_ecs](https://crates.io/crates/ponko_ecs) | 0.0.1 | 0 | The entity-component-system behind Ponko: archetype storage, runtime-registered… |
-| 2026-11-08 21:19:44 | [ponko_unity](https://crates.io/crates/ponko_unity) | 0.0.1 | 0 | Reads Unity projects (text YAML scenes, prefabs, materials and meshes, .meta GU… |
-| 2026-11-08 21:19:47 | [ponko](https://crates.io/crates/ponko) | 0.0.1 | 0 | A fast 2D game engine for simulating millions of things: ECS on all cores, hot… |
-| 2026-11-08 21:19:48 | [ponko_bench](https://crates.io/crates/ponko_bench) | 0.0.1 | 0 | Benchmarks: ponko_ecs vs bevy_ecs vs hecs, and simulation at scale. |
-| 2026-11-08 21:19:49 | [ponko_ffi](https://crates.io/crates/ponko_ffi) | 0.0.1 | 0 | C API for Ponko; include/crabby.hpp wraps it for C++17. |
-| 2026-11-08 21:23:57 | [ponko_mcp](https://crates.io/crates/ponko_mcp) | 0.0.1 | 0 | MCP server that lets AI agents inspect and drive running Ponko games |
-| 2026-11-08 21:31:51 | [vera-identity](https://crates.io/crates/vera-identity) | 0.1.0 | 0 | DID identity types |
-| 2026-11-08 21:35:38 | [yamlprims](https://crates.io/crates/yamlprims) | 0.1.0 | 0 | Owned YAML values, strict parsing, typed conversion and bounded wire encoding |
-| 2026-11-08 21:40:45 | [quentangled](https://crates.io/crates/quentangled) | 0.1.0 | 0 | A state vector based quantum circuit simulator. |
-| 2026-11-08 21:44:11 | [vera-zanzibar](https://crates.io/crates/vera-zanzibar) | 0.1.0 | 0 | Zanzibar relation-tuple evaluation engine |
-| 2026-11-08 21:45:08 | [vera-acp](https://crates.io/crates/vera-acp) | 0.1.0 | 0 | Access control policy types and policy YAML parsing |
-| 2026-11-08 21:46:02 | [vera-crypto](https://crates.io/crates/vera-crypto) | 0.1.0 | 0 | Cryptographic utilities for vera |
-| 2026-11-08 21:47:06 | [vera-domain](https://crates.io/crates/vera-domain) | 0.1.0 | 0 | Domain types for vera |
-| 2026-11-08 21:47:44 | [aster-terminal](https://crates.io/crates/aster-terminal) | 0.1.0 | 0 | A customizable Windows terminal emulator and multiplexer written in rust |
-| 2026-11-08 21:47:48 | [vera-modules](https://crates.io/crates/vera-modules) | 0.1.0 | 0 | Vera module implementations (ACP, Bulletin, Vera) |
-| 2026-11-08 21:48:45 | [vera-permission](https://crates.io/crates/vera-permission) | 0.1.0 | 0 | Verified native permission requests and read evidence |
-| 2026-11-08 21:55:16 | [clippy-new-lines](https://crates.io/crates/clippy-new-lines) | 0.1.0 | 0 | Check new lines from VCS for clippy |
-| 2026-11-08 21:56:10 | [dimvexa-core](https://crates.io/crates/dimvexa-core) | 0.1.0 | 0 | Unit conversion core: dimensions, exact rationals, parser and prepared conversi… |
-| 2026-11-08 21:56:33 | [dimvexa-data](https://crates.io/crates/dimvexa-data) | 0.1.0 | 0 | Unit conversion tables for dimvexa, compiled from audited TOML. Exact factors.… |
-| 2026-11-08 21:56:45 | [dimvexa-config](https://crates.io/crates/dimvexa-config) | 0.1.0 | 0 | User config files for dimvexa: your own names, units and density bridges (mt =… |
-| 2026-11-08 21:56:52 | [dimvexa](https://crates.io/crates/dimvexa) | 0.1.0 | 0 | Exact, fast unit conversion for Rust: core plus the seed unit table. Exact fact… |
-| 2026-11-08 21:57:50 | [vera-client](https://crates.io/crates/vera-client) | 0.1.0 | 0 | Rust client library for vera (EVM + BLS transaction paths) |
-| 2026-11-08 22:05:54 | [dimvexa-cli](https://crates.io/crates/dimvexa-cli) | 0.1.0 | 0 | Command-line unit conversion tool built on dimvexa. Exact factors. Loud failure… |
-| 2026-11-08 22:06:57 | [vera-verifier](https://crates.io/crates/vera-verifier) | 0.1.0 | 0 | Native proof verification for foreign-language Vera clients |
-| 2026-11-08 22:10:25 | [cimoxide-view](https://crates.io/crates/cimoxide-view) | 0.6.1 | 0 | A CGMES or NC model set as views: its grid at substation level, laid out, and i… |
-| 2026-11-08 22:13:28 | [muninn-plugin](https://crates.io/crates/muninn-plugin) | 1.3.0 | 0 | SDK for Muninn code space plugins: the stable C ABI (v1), the host API, frames… |
+| 2026-11-08 22:27:31 | [vport-proto](https://crates.io/crates/vport-proto) | 0.1.0 | 0 | Wire protocol definitions for VPort, a tiny display protocol for embedded and p… |
+| 2026-11-08 22:28:39 | [libvport](https://crates.io/crates/libvport) | 0.1.0 | 0 | Reference client library for VPort, a tiny display protocol for embedded and po… |
+| 2026-11-08 22:30:15 | [synthie-trombone](https://crates.io/crates/synthie-trombone) | 0.2.0 | 0 | Allocation-free, sample-rate independent Pink Trombone vocal tract synthesizer… |
+| 2026-11-08 22:30:18 | [synthie-trombone-cli](https://crates.io/crates/synthie-trombone-cli) | 0.2.0 | 0 | Pink Trombone in the terminal: play a vocal tract with keyboard and mouse, or t… |
+| 2026-11-08 22:32:23 | [forgectl](https://crates.io/crates/forgectl) | 0.1.1 | 0 | Keep a GitHub account's repositories in line with one manifest |
+| 2026-11-08 22:34:37 | [sysprims-evidence](https://crates.io/crates/sysprims-evidence) | 0.4.0 | 0 | Portable identity-evidence/v0 wire admission, report validation, and native pro… |
+| 2026-11-08 22:37:07 | [idbd](https://crates.io/crates/idbd) | 0.1.0 | 0 | Incremental Delta-Bar-Delta (Sutton 1992): a linear online learner that adapts… |
+| 2026-11-08 22:42:18 | [ods-provider-fake](https://crates.io/crates/ods-provider-fake) | 0.1.3 | 0 | Reference in-memory providers for OpenDataSuite contract tests. |
+| 2026-11-08 22:42:22 | [ods-health](https://crates.io/crates/ods-health) | 0.1.3 | 0 | The OpenDataSuite health engine: configurable checks, findings and badges (#392… |
+| 2026-11-08 22:42:27 | [ods-lineage](https://crates.io/crates/ods-lineage) | 0.1.3 | 0 | Column-level lineage graph, change impact and open export for OpenDataSuite (AD… |
+| 2026-11-08 22:42:29 | [ods-mcp](https://crates.io/crates/ods-mcp) | 0.1.3 | 0 | Model Context Protocol server for OpenDataSuite: read-only, local tools over th… |
+| 2026-11-08 22:42:32 | [ods-provider-databricks](https://crates.io/crates/ods-provider-databricks) | 0.1.3 | 0 | Databricks provider for OpenDataSuite: Unity Catalog observed lineage (#74), De… |
+| 2026-11-08 22:42:40 | [uu-archive-clickteam-install-creator-v2](https://crates.io/crates/uu-archive-clickteam-install-creator-v2) | 0.1.0 | 0 | Unpacker for Clickteam Install Creator 2 self-extracting installers |
+| 2026-11-08 22:47:43 | [ods-provider-dbt](https://crates.io/crates/ods-provider-dbt) | 0.1.3 | 0 | Reads dbt artifacts (manifest, catalog) for OpenDataSuite (#12). |
+| 2026-11-08 22:53:04 | [signify-http](https://crates.io/crates/signify-http) | 0.1.0 | 0 | HTTP transport, requests, responses and retries for Signify, signed with keri-h… |
+| 2026-11-08 22:53:05 | [signify-keys](https://crates.io/crates/signify-keys) | 0.1.0 | 0 | Signify key management: keepers, identifier habitats, and the client identity |
+| 2026-11-08 22:53:06 | [signify-client](https://crates.io/crates/signify-client) | 0.1.0 | 0 | Rust SDK for signing at the edge with KERI, ACDC, and KERIA: the Signify client… |
+| 2026-11-08 22:57:39 | [ods-provider-duckdb](https://crates.io/crates/ods-provider-duckdb) | 0.1.3 | 0 | DuckDB provider for OpenDataSuite: DuckDB's error patterns, as dbt-duckdb repor… |
+| 2026-11-08 22:58:40 | [haikeilabs-agentware](https://crates.io/crates/haikeilabs-agentware) | 0.16.0 | 0 | Agentware for Rust: Kei runtime socket client, tool-call authorization, tool sy… |
+| 2026-11-08 22:59:15 | [redis_hnsw](https://crates.io/crates/redis_hnsw) | 1.0.0 | 0 | Redis module for HNSW approximate nearest neighbor search, with Redis Cluster s… |
+| 2026-11-08 23:00:10 | [yaffa](https://crates.io/crates/yaffa) | 0.1.0 | 0 | A thin app framework for `color_eyre` errors + `clap` support. |
+| 2026-11-08 23:05:55 | [matern](https://crates.io/crates/matern) | 0.1.0 | 0 | Fast and Enzyme-differentiable besselk and Matern kernel functions. |
+| 2026-11-08 23:06:47 | [pencil-puzzles-core](https://crates.io/crates/pencil-puzzles-core) | 0.3.1 | 0 | Code shared by the pencil-puzzles genres: the difficulty scale, the solve and g… |
+| 2026-11-08 23:06:50 | [pencil-puzzles-fillomino](https://crates.io/crates/pencil-puzzles-fillomino) | 0.3.1 | 0 | Fillomino solver, generator, checker and difficulty rater |
+| 2026-11-08 23:06:50 | [pencil-puzzles-hashi](https://crates.io/crates/pencil-puzzles-hashi) | 0.3.1 | 0 | Hashi solver, generator, checker and difficulty rater |
+| 2026-11-08 23:06:51 | [pencil-puzzles-hitori](https://crates.io/crates/pencil-puzzles-hitori) | 0.3.1 | 0 | Hitori solver, generator, checker and difficulty rater |
+| 2026-11-08 23:06:52 | [pencil-puzzles-kakurasu](https://crates.io/crates/pencil-puzzles-kakurasu) | 0.3.1 | 0 | Kakurasu solver, generator, checker and difficulty rater |
+| 2026-11-08 23:07:40 | [ods-provider-process](https://crates.io/crates/ods-provider-process) | 0.1.3 | 0 | Runs OpenDataSuite script checks and out-of-process plugins as processes, over… |
+| 2026-11-08 23:13:33 | [day-part-bluetooth](https://crates.io/crates/day-part-bluetooth) | 0.0.1 | 0 | Part of Day, which builds native apps from one Rust codebase. This placeholder… |
+| 2026-11-08 23:13:36 | [day-part-background](https://crates.io/crates/day-part-background) | 0.0.1 | 0 | Part of Day, which builds native apps from one Rust codebase. This placeholder… |
+| 2026-11-08 23:13:38 | [day-part-push-android-fcm](https://crates.io/crates/day-part-push-android-fcm) | 0.0.1 | 0 | Part of Day, which builds native apps from one Rust codebase. This placeholder… |
+| 2026-11-08 23:13:40 | [day-part-push-ios-apns](https://crates.io/crates/day-part-push-ios-apns) | 0.0.1 | 0 | Part of Day, which builds native apps from one Rust codebase. This placeholder… |
+| 2026-11-08 23:13:42 | [day-part-push](https://crates.io/crates/day-part-push) | 0.0.1 | 0 | Part of Day, which builds native apps from one Rust codebase. This placeholder… |
+| 2026-11-08 23:16:48 | [pencil-puzzles-kakuro](https://crates.io/crates/pencil-puzzles-kakuro) | 0.3.1 | 0 | Kakuro solver, generator, checker and difficulty rater |
+| 2026-11-08 23:17:43 | [ods-provider-sqlparser](https://crates.io/crates/ods-provider-sqlparser) | 0.1.3 | 0 | Column-level SQL lineage for OpenDataSuite, built on the Apache-2.0 sqlparser c… |
 
 ## Data source
 
