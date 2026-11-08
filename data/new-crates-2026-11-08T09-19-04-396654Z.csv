@@ -1,0 +1,31 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-08T08:21:41.152193Z,cuora-vault-cached,0.1.0,0,0,https://github.com/9aia/cuora,Composite vault impl: read-through age-encrypted local cache in front of any backend (P-007)
+2026-11-08T08:23:50.160144Z,rpi-tts,0.1.15,0,0,https://github.com/pi-rust/rpi-package,API-key-free Microsoft Edge TTS client
+2026-11-08T08:26:57.674394Z,tamias-core,0.1.0,0,0,https://github.com/9aia/tamias,"Pure domain — package identity (@scope/name@semver), refs, manifests, records, digests (no I/O)"
+2026-11-08T08:28:15.13568Z,blvm-upstream,0.1.1,0,0,https://github.com/BTCDecoded/blvm-upstream,Outbound Bitcoin data connectors behind the blvm.upstream.v1 contract.
+2026-11-08T08:32:37.888237Z,einvoice-svrl,0.1.0,0,0,https://github.com/einvoice-validator/einvoice-validator,"Canonical, line-oriented form of SVRL validation reports, to compare the results of two Schematron engines with a plain diff"
+2026-11-08T08:32:38.820378Z,einvoice-xdm,0.1.0,0,0,https://github.com/einvoice-validator/einvoice-validator,"Atomic values of the XPath 2.0 data model (exact xs:decimal, xs:integer, xs:double, casts, comparisons, XSD regular expressions) with the behaviour of Saxon-HE 12.10"
+2026-11-08T08:32:39.711213Z,einvoice-xpath,0.1.0,0,0,https://github.com/einvoice-validator/einvoice-validator,Parser and syntax tree for the XPath 2.0 subset used by the official e-invoicing validation stylesheets
+2026-11-08T08:32:40.732172Z,einvoice-xsd,0.1.0,0,0,https://github.com/einvoice-validator/einvoice-validator,"XML Schema validation of UBL 2.1 Invoice and CreditNote documents against the official OASIS schemas, in pure Rust"
+2026-11-08T08:32:44.283937Z,einvoice-xpath-eval,0.1.0,0,0,https://github.com/einvoice-validator/einvoice-validator,"Node model and evaluator of the XPath 2.0 subset used by the official e-invoicing validation stylesheets, with the behaviour of Saxon-HE 12.10"
+2026-11-08T08:34:30.492198Z,licoarc-client,0.1.0,0,0,https://github.com/LicoLand/LicoArc-Client,"Standalone Lico Arc endpoint client: runtime, BadTower carrier, ports, and CLI."
+2026-11-08T08:37:18.178281Z,tamias-shell,0.1.0,0,0,https://github.com/9aia/tamias,Run a command in a working directory via bash -c — the generic shell-out helper
+2026-11-08T08:37:21.638682Z,einvoice-xslt,0.1.0,0,0,https://github.com/einvoice-validator/einvoice-validator,Loader for the XSLT 2.0 subset used by the official e-invoicing validation stylesheets
+2026-11-08T08:39:27.849271Z,rigorix-server,1.14.2,0,0,https://github.com/arman-jalili/rigorix-oss,OSS reference execution host — axum JSON-RPC 2.0 + SSE over the frozen rigorix.* catalog
+2026-11-08T08:40:44.022167Z,memdiver-sys,0.1.0,0,0,https://github.com/mztikk/memdiver,Low-level Linux and Windows bindings backing the memdiver external process memory library
+2026-11-08T08:41:03.580788Z,memdiver-core,0.1.0,0,0,https://github.com/mztikk/memdiver,"Safe, cross-platform API for reading and writing another process's memory"
+2026-11-08T08:41:09.667198Z,memdiver,0.1.0,0,0,https://github.com/mztikk/memdiver,Read and write the memory of another process on Linux and Windows
+2026-11-08T08:42:10.585745Z,hardcalc,0.1.0,0,0,https://github.com/hardcalc/hardcalc,"Universal terminal spreadsheet: vectors, matrices, tensors, typed cells and layers, stored as readable Markdown"
+2026-11-08T08:43:31.18945Z,blvm-fees,0.1.1,0,0,https://github.com/BTCDecoded/blvm-fees,blend and blend-min fee estimators. Reads blvm.upstream.v1 and the native table.
+2026-11-08T08:46:58.365658Z,tamias-config,0.1.0,0,0,https://github.com/9aia/tamias,Config port — where tamias.toml-shaped config comes from
+2026-11-08T08:47:38.595503Z,einvoice-xslt-exec,0.1.0,0,0,https://github.com/einvoice-validator/einvoice-validator,"Executor of the XSLT 2.0 subset used by the official e-invoicing validation stylesheets: runs the compiled Schematron and writes SVRL, with the behaviour of Saxon-HE"
+2026-11-08T08:48:04.109553Z,contract,0.1.0,0,0,https://github.com/Ranjeesh0701/contract,"Universal API contract language with zero-drift synchronization, multi-language codegen, and AI-agent compatibility"
+2026-11-08T08:57:25.516093Z,tamias-store-local,0.1.0,0,0,https://github.com/9aia/tamias,local store impl — a directory
+2026-11-08T08:57:53.15218Z,einvoice-validator,0.1.0,0,0,https://github.com/einvoice-validator/einvoice-validator,"Validate EN 16931 and Peppol BIS Billing 3.0 e-invoices against the official validation artefacts, in pure Rust"
+2026-11-08T08:59:05.139724Z,tiny-symmetric,0.2.0,0,0,,tiny symmetric crate
+2026-11-08T09:07:18.219344Z,tamias-driver,0.1.0,0,0,https://github.com/9aia/tamias,content driver host — discovery + dispatch of tamias-driver-<type> (no product knowledge)
+2026-11-08T09:07:53.446183Z,mace-kv-cli,0.2.1,0,0,https://github.com/abbycin/mace,Maintenance CLI for the mace key-value engine
+2026-11-08T09:08:06.513339Z,einvoice-cli,0.1.0,0,0,https://github.com/einvoice-validator/einvoice-validator,"einvoice-validate: command-line validation of EN 16931 and Peppol BIS Billing 3.0 e-invoices against the official validation artefacts, in pure Rust"
+2026-11-08T09:09:33.11229Z,pmask,0.0.0,0,0,https://github.com/Azathothas/pmask,Reserved name; the first release is 0.1.0-beta.1.
+2026-11-08T09:15:14.656397Z,please-release-please,0.0.0,0,0,https://github.com/seokju-na/prp,"PRP CLI: automate changelogs, versioning, and publishing"
+2026-11-08T09:17:46.559162Z,tamias-config-toml,0.1.0,0,0,https://github.com/9aia/tamias,TOML config impl

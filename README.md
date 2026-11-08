@@ -8,33 +8,44 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-08 08:18 UTC
+## Latest list — 2026-11-08 09:19 UTC
 
-New crates published between 2026-11-08 07:19 UTC and 2026-11-08 08:18 UTC.
+New crates published between 2026-11-08 08:18 UTC and 2026-11-08 09:19 UTC.
 
-[Full CSV](data/new-crates-2026-11-08T08-18-22-123044Z.csv)
+[Full CSV](data/new-crates-2026-11-08T09-19-04-396654Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-08 07:27:32 | [cuora-identity-file](https://crates.io/crates/cuora-identity-file) | 0.1.0 | 0 | Identity impl: the ~/.config/cuora/identity.txt age keyfile (0600) — the headle… |
-| 2026-11-08 07:27:44 | [rsbinder-topic](https://crates.io/crates/rsbinder-topic) | 0.1.0 | 0 | One publisher and many subscribers over kernel binder: a binder call sets a sub… |
-| 2026-11-08 07:27:53 | [purrdf-alloc-probe](https://crates.io/crates/purrdf-alloc-probe) | 0.0.0 | 0 | Empty registry bootstrap for purrdf-alloc-probe; use the functional release |
-| 2026-11-08 07:27:56 | [purrdf-testkit](https://crates.io/crates/purrdf-testkit) | 0.0.0 | 0 | Empty registry bootstrap for purrdf-testkit; use the functional release |
-| 2026-11-08 07:27:59 | [purrdf-conformance-kit](https://crates.io/crates/purrdf-conformance-kit) | 0.0.0 | 0 | Empty registry bootstrap for purrdf-conformance-kit; use the functional release |
-| 2026-11-08 07:34:04 | [bitspark-thesmos](https://crates.io/crates/bitspark-thesmos) | 1.0.0-preview.7 | 0 | The Spaces authority receiver: verify a supplied proof under the frozen law, wi… |
-| 2026-11-08 07:37:47 | [cuora-identity-keyring](https://crates.io/crates/cuora-identity-keyring) | 0.1.0 | 0 | Identity impl: the platform session secret store (secret-service / Keychain / C… |
-| 2026-11-08 07:45:22 | [libterm](https://crates.io/crates/libterm) | 0.0.0 | 0 | Cross-platform terminal manipulation library |
-| 2026-11-08 07:47:55 | [cuora-vault](https://crates.io/crates/cuora-vault) | 0.1.0 | 0 | Vault port: readable secret stores — get/put/rm/list/rotate, per-env; every imp… |
-| 2026-11-08 07:54:56 | [cakedome](https://crates.io/crates/cakedome) | 0.1.0 | 0 | An ORM layer on SeaORM that runs every read and write of an entity through a Re… |
-| 2026-11-08 07:58:16 | [ppoppo-pcs-mcp-proto](https://crates.io/crates/ppoppo-pcs-mcp-proto) | 0.1.0 | 0 | PCS /mcp face wire contract (pcs.mcp.v1) — the published MCP tool list: names,… |
-| 2026-11-08 07:58:43 | [cuora-testkit](https://crates.io/crates/cuora-testkit) | 0.1.0 | 0 | Vault conformance suite — every cuora-vault impl passes the same contract tests… |
-| 2026-11-08 08:02:36 | [lsec-core](https://crates.io/crates/lsec-core) | 0.1.0 | 0 | Core defense-in-depth local security engine for memory isolation, cryptography… |
-| 2026-11-08 08:08:50 | [lsec-ffi](https://crates.io/crates/lsec-ffi) | 0.1.0 | 0 | C-ABI foreign function interface and header exports for lsec. |
-| 2026-11-08 08:09:03 | [cuora-vault-age](https://crates.io/crates/cuora-vault-age) | 0.1.0 | 0 | Local vault impl: one age-x25519-encrypted JSON doc — the v1 default backend |
-| 2026-11-08 08:09:29 | [lsec-wasm](https://crates.io/crates/lsec-wasm) | 0.1.0 | 0 | WebAssembly interface for lsec in offline PWAs and browser clients. |
-| 2026-11-08 08:13:31 | [candle-roformer](https://crates.io/crates/candle-roformer) | 0.1.0 | 0 | Offline Rust/Candle library for vocal/instrumental separation and vocal transcr… |
-| 2026-11-08 08:15:49 | [bevy_elf_core](https://crates.io/crates/bevy_elf_core) | 0.1.0 | 0 | Core traits, types and impls for common bevy types |
-| 2026-11-08 08:16:31 | [elf_macro_utils](https://crates.io/crates/elf_macro_utils) | 0.1.0 | 0 | Helper types and functions for writing procedural macros |
+| 2026-11-08 08:21:41 | [cuora-vault-cached](https://crates.io/crates/cuora-vault-cached) | 0.1.0 | 0 | Composite vault impl: read-through age-encrypted local cache in front of any ba… |
+| 2026-11-08 08:23:50 | [rpi-tts](https://crates.io/crates/rpi-tts) | 0.1.15 | 0 | API-key-free Microsoft Edge TTS client |
+| 2026-11-08 08:26:57 | [tamias-core](https://crates.io/crates/tamias-core) | 0.1.0 | 0 | Pure domain — package identity (@scope/name@semver), refs, manifests, records,… |
+| 2026-11-08 08:28:15 | [blvm-upstream](https://crates.io/crates/blvm-upstream) | 0.1.1 | 0 | Outbound Bitcoin data connectors behind the blvm.upstream.v1 contract. |
+| 2026-11-08 08:32:37 | [einvoice-svrl](https://crates.io/crates/einvoice-svrl) | 0.1.0 | 0 | Canonical, line-oriented form of SVRL validation reports, to compare the result… |
+| 2026-11-08 08:32:38 | [einvoice-xdm](https://crates.io/crates/einvoice-xdm) | 0.1.0 | 0 | Atomic values of the XPath 2.0 data model (exact xs:decimal, xs:integer, xs:dou… |
+| 2026-11-08 08:32:39 | [einvoice-xpath](https://crates.io/crates/einvoice-xpath) | 0.1.0 | 0 | Parser and syntax tree for the XPath 2.0 subset used by the official e-invoicin… |
+| 2026-11-08 08:32:40 | [einvoice-xsd](https://crates.io/crates/einvoice-xsd) | 0.1.0 | 0 | XML Schema validation of UBL 2.1 Invoice and CreditNote documents against the o… |
+| 2026-11-08 08:32:44 | [einvoice-xpath-eval](https://crates.io/crates/einvoice-xpath-eval) | 0.1.0 | 0 | Node model and evaluator of the XPath 2.0 subset used by the official e-invoici… |
+| 2026-11-08 08:34:30 | [licoarc-client](https://crates.io/crates/licoarc-client) | 0.1.0 | 0 | Standalone Lico Arc endpoint client: runtime, BadTower carrier, ports, and CLI. |
+| 2026-11-08 08:37:18 | [tamias-shell](https://crates.io/crates/tamias-shell) | 0.1.0 | 0 | Run a command in a working directory via bash -c — the generic shell-out helper |
+| 2026-11-08 08:37:21 | [einvoice-xslt](https://crates.io/crates/einvoice-xslt) | 0.1.0 | 0 | Loader for the XSLT 2.0 subset used by the official e-invoicing validation styl… |
+| 2026-11-08 08:39:27 | [rigorix-server](https://crates.io/crates/rigorix-server) | 1.14.2 | 0 | OSS reference execution host — axum JSON-RPC 2.0 + SSE over the frozen rigorix.… |
+| 2026-11-08 08:40:44 | [memdiver-sys](https://crates.io/crates/memdiver-sys) | 0.1.0 | 0 | Low-level Linux and Windows bindings backing the memdiver external process memo… |
+| 2026-11-08 08:41:03 | [memdiver-core](https://crates.io/crates/memdiver-core) | 0.1.0 | 0 | Safe, cross-platform API for reading and writing another process's memory |
+| 2026-11-08 08:41:09 | [memdiver](https://crates.io/crates/memdiver) | 0.1.0 | 0 | Read and write the memory of another process on Linux and Windows |
+| 2026-11-08 08:42:10 | [hardcalc](https://crates.io/crates/hardcalc) | 0.1.0 | 0 | Universal terminal spreadsheet: vectors, matrices, tensors, typed cells and lay… |
+| 2026-11-08 08:43:31 | [blvm-fees](https://crates.io/crates/blvm-fees) | 0.1.1 | 0 | blend and blend-min fee estimators. Reads blvm.upstream.v1 and the native table. |
+| 2026-11-08 08:46:58 | [tamias-config](https://crates.io/crates/tamias-config) | 0.1.0 | 0 | Config port — where tamias.toml-shaped config comes from |
+| 2026-11-08 08:47:38 | [einvoice-xslt-exec](https://crates.io/crates/einvoice-xslt-exec) | 0.1.0 | 0 | Executor of the XSLT 2.0 subset used by the official e-invoicing validation sty… |
+| 2026-11-08 08:48:04 | [contract](https://crates.io/crates/contract) | 0.1.0 | 0 | Universal API contract language with zero-drift synchronization, multi-language… |
+| 2026-11-08 08:57:25 | [tamias-store-local](https://crates.io/crates/tamias-store-local) | 0.1.0 | 0 | local store impl — a directory |
+| 2026-11-08 08:57:53 | [einvoice-validator](https://crates.io/crates/einvoice-validator) | 0.1.0 | 0 | Validate EN 16931 and Peppol BIS Billing 3.0 e-invoices against the official va… |
+| 2026-11-08 08:59:05 | [tiny-symmetric](https://crates.io/crates/tiny-symmetric) | 0.2.0 | 0 | tiny symmetric crate |
+| 2026-11-08 09:07:18 | [tamias-driver](https://crates.io/crates/tamias-driver) | 0.1.0 | 0 | content driver host — discovery + dispatch of tamias-driver-<type> (no product… |
+| 2026-11-08 09:07:53 | [mace-kv-cli](https://crates.io/crates/mace-kv-cli) | 0.2.1 | 0 | Maintenance CLI for the mace key-value engine |
+| 2026-11-08 09:08:06 | [einvoice-cli](https://crates.io/crates/einvoice-cli) | 0.1.0 | 0 | einvoice-validate: command-line validation of EN 16931 and Peppol BIS Billing 3… |
+| 2026-11-08 09:09:33 | [pmask](https://crates.io/crates/pmask) | 0.0.0 | 0 | Reserved name; the first release is 0.1.0-beta.1. |
+| 2026-11-08 09:15:14 | [please-release-please](https://crates.io/crates/please-release-please) | 0.0.0 | 0 | PRP CLI: automate changelogs, versioning, and publishing |
+| 2026-11-08 09:17:46 | [tamias-config-toml](https://crates.io/crates/tamias-config-toml) | 0.1.0 | 0 | TOML config impl |
 
 ## Data source
 
