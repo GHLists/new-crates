@@ -1,0 +1,43 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-09T22:21:18.151414Z,pipedash-plugins,0.12.0,0,0,https://github.com/hcavarsan/pipedash,Built-in provider registry for Pipedash
+2026-11-09T22:24:30.446618Z,rheon-feel-wasm,0.1.0,0,0,https://github.com/spearsandshields/rheon,rheon | the FEEL engine as a wasm32-wasip1 reactor with a JSON ABI (build with --target wasm32-wasip1)
+2026-11-09T22:24:39.04683Z,graphersal-mcp,0.6.0,0,0,https://github.com/graphersal/graphersal,"Internal Model Context Protocol endpoint (tools, resources, answers) over a Graphersal session, shared by the servers of graphersal-cli; independent of any HTTP library; no stability guarantees"
+2026-11-09T22:24:57.809278Z,graphersal-serve,0.6.0,0,0,https://github.com/graphersal/graphersal,"Internal hosting core of Graphersal's servers (one graph: session thread, job queue, run registry, the playground HTTP API as an HTTP-library-free boundary, the embedded playground UI); used by the d…"
+2026-11-09T22:25:35.804491Z,neuro-divergent-data,0.2.0,0,0,https://github.com/ruvnet/ruv-FANN,Comprehensive data processing and validation pipeline for neural forecasting
+2026-11-09T22:26:15.286172Z,opencv-sys,0.2.0,0,0,https://github.com/ruvnet/ruv-FANN,Exception-safe C ABI bridge to system OpenCV 4
+2026-11-09T22:27:07.82374Z,speakable-normalizer,0.3.0,0,0,https://github.com/ultrasaurus/speakable,Rewrite English text into the words a text-to-speech voice should say
+2026-11-09T22:27:08.650477Z,speakable-splitter,0.3.0,0,0,https://github.com/ultrasaurus/speakable,Split plain text into sentences for reading aloud
+2026-11-09T22:27:09.323659Z,speakable-markdown,0.3.0,0,0,https://github.com/ultrasaurus/speakable,"Markdown to speakable plain text, split into sentences"
+2026-11-09T22:27:10.894307Z,speakable-timings,0.3.0,0,0,https://github.com/ultrasaurus/speakable,Sentence timings for a markdown document and one recording of it
+2026-11-09T22:27:12.412737Z,speakable-align,0.3.0,0,0,https://github.com/ultrasaurus/speakable,"Sentence and word timings for a markdown document from an audio file of it, by forced alignment"
+2026-11-09T22:27:22.786569Z,space-protocol-sdk,0.1.0,0,0,https://github.com/yvchen-qs/space,"Space SDK for TBC wallets, Space/Room/Article NFTs, and generic index access"
+2026-11-09T22:28:17.188233Z,ruv-fann-candle,0.1.0,0,0,https://github.com/ruvnet/ruv-FANN,Optional CPU Candle linear-tensor import into owned ruv-FANN prepared inference
+2026-11-09T22:28:43.464239Z,ruv-swarm-benchmarking,1.0.6,0,0,,Comprehensive benchmarking framework for Claude Code CLI and swarm orchestration
+2026-11-09T22:30:40.121083Z,ruv-swarm-wasm-unified,2.0.0,0,0,https://github.com/ruvnet/ruv-FANN,WebAssembly facade for the validated ruv-swarm browser bindings
+2026-11-09T22:31:47.486073Z,speakable,0.3.0,0,0,https://github.com/ultrasaurus/speakable,Command-line tools for sentence timings and demo pages
+2026-11-09T22:32:00.757888Z,temporalio-aws-s3driver,0.1.0,0,0,https://github.com/temporalio/sdk-rust,Amazon S3 external storage driver for the Temporal Rust SDK
+2026-11-09T22:33:39.760271Z,calcard-next,1.0.1,0,0,https://github.com/EvanCarroll/calcard-next,"Maintained fork of calcard: iCalendar/JSCalendar and vCard/JSContact parsing, building and conversion library for Rust"
+2026-11-09T22:38:10.689607Z,grapharch,0.2.4,0,0,https://github.com/ekgf/grapharch,"GraphArch is a tool to generate documentation for a given graph (knowledge graph, shape graph or ontology) as either a website or a PDF"
+2026-11-09T22:39:41.905349Z,zai,0.1.0,0,0,,Hausdorff distance between two point sets in D-dimensional Euclidean space. No dependencies.
+2026-11-09T22:39:43.590668Z,zs,0.1.0,0,0,,Hausdorff distance between two point sets in D-dimensional Euclidean space. No dependencies.
+2026-11-09T22:39:46.159796Z,yz,0.1.0,0,0,,Hausdorff distance between two point sets in D-dimensional Euclidean space. No dependencies.
+2026-11-09T22:39:48.623972Z,qz,0.1.0,0,0,,Hausdorff distance between two point sets in D-dimensional Euclidean space. No dependencies.
+2026-11-09T22:39:50.867417Z,ys,0.1.0,0,0,,Hausdorff distance between two point sets in D-dimensional Euclidean space. No dependencies.
+2026-11-09T22:44:38.901599Z,imece-agent,0.1.202611100124,0,0,https://github.com/selcukgural/imece,imece's own library: drives Claude Code sessions as child processes and reports what they do as events. Published for `cargo install imece`; its API has no stability promise
+2026-11-09T22:44:42.946972Z,imece,0.1.202611100124,0,0,https://github.com/selcukgural/imece,"One terminal for a team of Claude Code agents: a leader that hires workers, each in its own worktree, and nothing reaches your checkout until you have read the change"
+2026-11-09T22:45:12.861947Z,agentcam-core,0.1.0,0,0,https://github.com/chauhanswapnil/agentcam,"Parsers, event model and index for agentcam"
+2026-11-09T22:45:14.626172Z,agentcam-server,0.1.0,0,0,https://github.com/chauhanswapnil/agentcam,Local HTTP server and embedded web UI for agentcam
+2026-11-09T22:45:16.355348Z,agentcam-team,0.1.0,0,0,https://github.com/chauhanswapnil/agentcam,Self-hosted team server and laptop sync for agentcam
+2026-11-09T22:45:18.345362Z,agentcam,0.1.0,0,0,https://github.com/chauhanswapnil/agentcam,A dashcam for your coding agents: replay and search every Claude Code and Codex session on your machine
+2026-11-09T22:46:49.339292Z,rs-arrow-ipc2resized,0.1.0,0,0,https://github.com/takanoriyanagitani/rs-arrow-ipc2resized,Resize Arrow IPC record batches
+2026-11-09T22:48:24.789075Z,bilingua-model,0.9.1,0,0,https://github.com/patois-labs/bilingua,Bilingua: the extracted-document model shared by every Bilingua file parser
+2026-11-09T22:48:27.883108Z,bilingua-xmltree,0.9.1,0,0,https://github.com/patois-labs/bilingua,"Bilingua internal: the small lxml-like XML tree the Localization OS ports (XLIFF family, DOCX, PPTX) share. Not a public API."
+2026-11-09T22:48:31.890135Z,bilingua-adoc,0.9.1,0,0,https://github.com/patois-labs/bilingua,"Bilingua: AsciiDoc filter (adoc, asciidoc, asc)"
+2026-11-09T22:48:34.972708Z,bilingua-ass,0.9.1,0,0,https://github.com/patois-labs/bilingua,"Bilingua: Advanced SubStation Alpha subtitle filter (ass, ssa)"
+2026-11-09T22:48:37.974304Z,bilingua-dtd,0.9.1,0,0,https://github.com/patois-labs/bilingua,Bilingua: DTD entity file (Mozilla localization) filter
+2026-11-09T22:58:41.031612Z,bilingua-dxf,0.9.1,0,0,https://github.com/patois-labs/bilingua,Bilingua: AutoCAD DXF (ASCII) filter
+2026-11-09T23:08:40.566675Z,bilingua-ftl,0.9.1,0,0,https://github.com/patois-labs/bilingua,Bilingua: Mozilla Fluent (.ftl) filter
+2026-11-09T23:14:09.846602Z,epicauth,0.1.0,0,0,https://github.com/EpicAuth/EpicAuth-Rust-SDK,"Official Rust SDK for EpicAuth - Modern licensing, authentication and software protection"
+2026-11-09T23:14:48.996497Z,context-ontology,0.0.0,0,0,,"Agent context grounded in local ontologies, built from your notes by several model readers and reconciled across sections, documents, images and time."
+2026-11-09T23:15:19.91294Z,corex-browser,0.11.0,0,0,https://github.com/sluisr/corex,"Native Chrome DevTools Protocol browser control (accessibility snapshots, click, type, screenshots) for Corex"
+2026-11-09T23:15:34.491005Z,op2-formats,0.1.0,0,0,https://github.com/leviathan400/OP2Formats,"Outpost 2 file formats library - Read and Write Outpost 2's data files: .vol archives, maps, tilesets, sheets etc"
