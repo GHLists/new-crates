@@ -1,0 +1,19 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-09T06:19:14.540356Z,aethelgard-cli,0.1.0,0,0,https://github.com/ClearForge-LLC/aethelgard,"The aethelgard binary: JSON on stdin and stdout, documented exit codes."
+2026-11-09T06:23:52.778151Z,kinu_ui,0.1.1,0,0,https://github.com/KinuUI/kinu,Unstyled UI primitives for Kinu.
+2026-11-09T06:23:58.234227Z,kinu-gpui-linux,0.1.1,0,0,https://github.com/KinuUI/kinu,Support crate for Kinu's GPUI fork.
+2026-11-09T06:24:25.547813Z,kinu-gpui-macos,0.1.1,0,0,https://github.com/KinuUI/kinu,Support crate for Kinu's GPUI fork.
+2026-11-09T06:25:45.864735Z,kinu-gpui-platform,0.1.1,0,0,https://github.com/KinuUI/kinu,Platform entry points for Kinu's GPUI fork.
+2026-11-09T06:28:30.750822Z,marketing,0.1.0,0,0,,"Marketing formulas and models in Rust, proven against reference answers"
+2026-11-09T06:30:48.693834Z,leptoskit_plugin_cellular,0.0.0,0,0,https://github.com/leptoskit/leptoskit,"Carrier, MCC/MNC, radio generation, and VoIP capability snapshots for LeptosKit."
+2026-11-09T06:30:51.087476Z,leptoskit_plugin_contacts,0.0.0,0,0,https://github.com/leptoskit/leptoskit,"Bounded contact permission, pick-one, and query for LeptosKit."
+2026-11-09T06:44:18.323629Z,leptoskit_plugin_deep_link,0.0.0,0,0,https://github.com/leptoskit/leptoskit,Inbound URL and file activation queues for LeptosKit desktop hosts.
+2026-11-09T06:51:01.977509Z,quprs,0.15.0-rc.1,0,0,https://github.com/PhysicsQoo/QuPRS,Native path-sum reduction and equivalence checking for quantum circuits
+2026-11-09T06:51:51.15337Z,mercurio-plugin,0.1.0,0,0,https://github.com/frenzox/mercurio,Write plugins for the mercurio MQTT broker as WebAssembly components
+2026-11-09T06:57:36.762626Z,leptoskit_plugin_device_keys,0.0.0,0,0,https://github.com/leptoskit/leptoskit,Hardware-bound signing keys gated by biometrics or the device passcode for LeptosKit.
+2026-11-09T07:10:53.668471Z,leptoskit_plugin_device_motion,0.0.0,0,0,https://github.com/leptoskit/leptoskit,"Fused device-motion attitude, user acceleration, and rotation-rate readings for LeptosKit."
+2026-11-09T07:10:57.762474Z,leptoskit_plugin_device_policy,0.0.0,0,0,https://github.com/leptoskit/leptoskit,Explicit Android Device Policy Manager capabilities for LeptosKit.
+2026-11-09T07:13:13.427308Z,teams-tui,0.1.6,0,0,https://github.com/andre/teams-tui,Terminal User Interface for Microsoft Teams using Microsoft Graph API
+2026-11-09T07:13:54.296326Z,hashmap_get_many_mut,0.1.0,0,0,https://github.com/dochy-ksti/hashmap_get_many_mut,Get mutable references to values for a runtime-length list of keys in a std HashMap
+2026-11-09T07:15:50.20537Z,ironbark-serve,0.4.0,0,0,https://github.com/russellwmy/ironbark,OpenAI-compatible HTTP server for ironbark models
+2026-11-09T07:18:29.091807Z,elvcrypt,1.2.0,0,0,https://codeberg.org/alnorman/elvcrypt,Encryption utility
