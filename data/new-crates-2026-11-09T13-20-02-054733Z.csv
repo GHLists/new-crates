@@ -1,0 +1,48 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-09T12:22:58.926672Z,ruvector-voi,2.3.0,0,0,https://github.com/ruvnet/ruvector,Small value-of-information routing primitive for security gates and routers
+2026-11-09T12:23:22.407542Z,thryve_ffi,0.1.0,0,0,https://github.com/thryveframework/thryve,"C-compatible FFI bindings for the Thryve runtime, for use from C, C++, and other native languages."
+2026-11-09T12:24:09.043929Z,trinity-stack,0.2.1,0,0,https://github.com/paritytech/trinity-user-agents,"Parses, verifies and signs Trinity stack descriptors; ships to JavaScript as @parity/trinity-stack"
+2026-11-09T12:24:13.540979Z,feedkit,0.1.0,0,0,https://github.com/WyattAu/feedkit,Normalized open-source feed adapters for the argus intelligence platform
+2026-11-09T12:24:16.177198Z,graphkit,0.1.0,0,0,https://github.com/WyattAu/graphkit,Typed link graph with n-hop queries for the argus intelligence platform
+2026-11-09T12:25:37.218833Z,asolaria-verdict,0.1.0,0,0,https://github.com/JesseBrown1980/With-Felipe-Miguel-Olimpio-da-Cruz-as-The-omega-and-Aether...,"Tighten-only composition of the hookwall, spawn, tier and Fischer gates plus an input guard into one verdict"
+2026-11-09T12:25:41.584738Z,fsql-sqlparser,0.1.0,0,0,https://github.com/kjanat/fsql,Extensible SQL Lexer and Parser with support for ANSI SQL:2011
+2026-11-09T12:26:11.232865Z,fsql,0.1.0,0,0,https://github.com/kjanat/fsql,SQL query and mutation engine over the filesystem
+2026-11-09T12:26:20.478679Z,fsql-cli,0.1.0,0,0,https://github.com/kjanat/fsql,Command line interface for fsql
+2026-11-09T12:28:30.435282Z,ontokit,0.1.0,0,0,https://github.com/WyattAu/ontokit,Entity ontology with provenance for the argus intelligence platform
+2026-11-09T12:31:16.960151Z,alertkit,0.1.0,0,0,https://github.com/WyattAu/alertkit,Rule-based alerting for the argus intelligence platform
+2026-11-09T12:31:43.336995Z,marketdata-kit,0.1.0,0,0,https://github.com/WyattAu/marketdata-kit,Market-data adapters for the argus intelligence platform
+2026-11-09T12:34:50.000545Z,spl-message-executor-client,0.1.0,0,0,https://github.com/solana-program/nonce,Off-chain client helpers for the SPL Message Executor program (placeholder)
+2026-11-09T12:34:58.765686Z,spl-message-executor-interface,0.1.0,0,0,https://github.com/solana-program/nonce,Interface for the SPL Message Executor program (placeholder)
+2026-11-09T12:35:06.902359Z,spl-message-executor-program,0.1.0,0,0,https://github.com/solana-program/nonce,SPL Message Executor program (placeholder)
+2026-11-09T12:35:14.426824Z,csharp-to-rust,0.1.1,0,0,https://github.com/berkid89/csharp-to-rust,Transpile a small subset of C# into equivalent Rust.
+2026-11-09T12:35:32.778624Z,buildl-cargo,0.1.0,0,0,https://github.com/airsstack/buildl,The `cargo-buildl` binary — runs every buildl command as `cargo buildl <command>`.
+2026-11-09T12:35:37.402426Z,asolaria-whiteroom-shannon,0.1.0,0,0,,"The white-room L0 scorer, the Shannon-stage hookwall plane, Shannon gate boot fixture and white-room consumer, the fabric-thinker GNN wire and the hybrid multi-GNN harness, ported to an in-process Ru…"
+2026-11-09T12:45:36.559932Z,asolaria-levels-agents,0.1.0,0,0,https://github.com/JesseBrown1980/With-Felipe-Miguel-Olimpio-da-Cruz-as-The-omega-and-Aether...,"Integer port of the universe simulator's Fischer and MCP slice agents at levels 3 / 27 / rime, the rime Fischer solvers, and the four-agent wiring of rime_agents.py"
+2026-11-09T12:48:00.247187Z,canalis,0.0.1,0,0,https://github.com/meltingbots-labs/canalis,"PipeWire router, virtual devices and effect strips for the Linux desktop"
+2026-11-09T12:48:55.084352Z,claritas,0.0.1,0,0,,Work in progress.
+2026-11-09T12:48:58.974885Z,claritas-core,0.0.1,0,0,,Work in progress.
+2026-11-09T12:49:02.266512Z,claritas-rt,0.0.1,0,0,,Work in progress.
+2026-11-09T12:49:04.501125Z,claritas-ui,0.0.1,0,0,,Work in progress.
+2026-11-09T12:53:05.491457Z,libtea-core,0.1.0,0,0,https://github.com/Mehrn0ush/libtea-rs,Independent Rust types and protocol rules for the CycloneDX Transparency Exchange API. No network I/O.
+2026-11-09T12:53:39.329939Z,libtea-client,0.1.0,0,0,https://github.com/Mehrn0ush/libtea-rs,Independent async Rust client for the CycloneDX Transparency Exchange API.
+2026-11-09T12:55:36.750918Z,asolaria-quant-head8,0.1.0,0,0,https://github.com/JesseBrown1980/With-Felipe-Miguel-Olimpio-da-Cruz-as-The-omega-and-Aether...,"Integer port of the Asolaria eight-stage large-message quant head (quant8): JL count-sketch, Turbo int8, Polar sign, Zeta log-magnitude, Triple, Quadruple, histogram and prime-power lanes"
+2026-11-09T12:56:35.617194Z,liblootrs,0.1.0,0,0,https://github.com/Gigas002/lootrs,"Minimal TUI and CLI for running Windows games through wine, Proton (umu) or natively"
+2026-11-09T12:56:44.232464Z,ahk,0.1.0,0,0,https://github.com/danalec/ahk,"The ahk language: a lexer, an AST, a parser and an interpreter for AutoHotkey-style scripts"
+2026-11-09T12:56:55.740052Z,ahk-box,0.1.0,0,0,https://github.com/danalec/ahk,"The lab box as a script target: a uinput keyboard of our own, grim captures, and exact text"
+2026-11-09T12:56:56.166579Z,lifub-http-baseline,0.8.3,0,0,https://github.com/loxal/lifub,"The stable, assertable part of an observed HTTP response: the header volatility model, the page-title lookup, how hurl decodes a body, hurl escaping, secret names, HAR provenance markers, and the pol…"
+2026-11-09T12:57:07.690658Z,ahk-cli,0.1.0,0,0,https://github.com/danalec/ahk,"Run an ahk script on this machine: the script on stdin, the report on stdout"
+2026-11-09T12:57:11.749752Z,lootrs,0.1.0,0,0,https://github.com/Gigas002/lootrs,"Minimal TUI and CLI for running Windows games through wine, Proton (umu) or natively"
+2026-11-09T12:58:02.895725Z,gpui-kit-material,0.1.0,0,0,https://github.com/mizorewww/gpui-kit-material,"Material 3 design tokens, motion and component adapters for Longbridge GPUI Kit"
+2026-11-09T13:00:04.291351Z,singe-codegen,0.1.0-alpha.1,0,0,https://github.com/tinrab/singe,"Kernel IR, schedules, and code emitters for Singe's generated kernels."
+2026-11-09T13:00:07.437634Z,singe-loader,0.1.0-alpha.1,0,0,https://github.com/tinrab/singe,Loads NVIDIA libraries at run time for the Singe FFI crates.
+2026-11-09T13:04:46.756665Z,igen,0.1.0,0,0,,digital novel file generator
+2026-11-09T13:05:05.077629Z,site-audit,0.1.0,0,0,https://github.com/loxal/site-audit,"Bounded HTTP, TLS, technical SEO and site-crawl auditing with deterministic report comparison and Hurl export."
+2026-11-09T13:05:30.022628Z,igen-core,0.1.0,0,0,,digital novel file generator
+2026-11-09T13:05:37.455041Z,pump-glyphs-herself,0.1.0,0,0,,"Integer hot-lane regeneration of the ASOLARIA-HERSELF and MYTHOS-SELF-GLYPHS-256 GGUFs from their seeds, reproducing the numpy generators (USIM @3f9f42d) byte for byte."
+2026-11-09T13:06:22.173866Z,glommio-turso,0.0.0,0,0,https://github.com/dahankzter/glommio-turso,Glommio-native driver for Turso. Placeholder release; real crate in development.
+2026-11-09T13:06:24.487461Z,glommio-postgres,0.0.0,0,0,https://github.com/dahankzter/glommio-postgres,"A native, shard-local PostgreSQL client for the glommio runtime. Placeholder release; real crate in development."
+2026-11-09T13:10:36.740142Z,game_memory_tool,0.1.0,0,0,,"An unsafe crate, a personal-use crate, made just for convenience, only supports Windows, only for manipulating single-player game processes, the code is very unsafe. If you cargo add this crate, it i…"
+2026-11-09T13:19:45.002376Z,singe-nvcomp-sys,0.1.0-alpha.1,0,0,https://github.com/tinrab/singe,Low-level FFI bindings for the NVIDIA nvCOMP compression library.
+2026-11-09T13:19:47.561976Z,singe-nvjpeg-sys,0.1.0-alpha.1,0,0,https://github.com/tinrab/singe,Low-level FFI bindings for the NVIDIA nvJPEG and nvJPEG 2000 libraries.
+2026-11-09T13:19:50.24085Z,singe-nvtiff-sys,0.1.0-alpha.1,0,0,https://github.com/tinrab/singe,Low-level FFI bindings for the NVIDIA nvTIFF library.
+2026-11-09T13:19:52.797819Z,singe-nvimagecodec-sys,0.1.0-alpha.1,0,0,https://github.com/tinrab/singe,Low-level FFI bindings for the NVIDIA nvImageCodec library.

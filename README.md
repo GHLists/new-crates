@@ -8,48 +8,61 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-09 12:20 UTC
+## Latest list — 2026-11-09 13:20 UTC
 
-New crates published between 2026-11-09 11:18 UTC and 2026-11-09 12:20 UTC.
+New crates published between 2026-11-09 12:20 UTC and 2026-11-09 13:20 UTC.
 
-[Full CSV](data/new-crates-2026-11-09T12-20-25-262594Z.csv)
+[Full CSV](data/new-crates-2026-11-09T13-20-02-054733Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-09 11:18:26 | [iced_luminate](https://crates.io/crates/iced_luminate) | 0.1.0 | 0 | Luminate UI kit for iced 0.14: data descriptors, a first-class theme and the In… |
-| 2026-11-09 11:20:00 | [darkbox](https://crates.io/crates/darkbox) | 1.4.1 | 0 | Read, edit, verify and atomically write Darkbox project archives |
-| 2026-11-09 11:24:35 | [do-context-shield-vault-json](https://crates.io/crates/do-context-shield-vault-json) | 0.1.0 | 0 | Opt-in JSON-file vault plugin for cross-process do-context-shield workflows |
-| 2026-11-09 11:24:47 | [xgpui-luma](https://crates.io/crates/xgpui-luma) | 1.0.1 | 0 | XGPUI-Luma foundation: controls, layouts, themes, and shared look contracts |
-| 2026-11-09 11:25:03 | [xgpui-luma-color](https://crates.io/crates/xgpui-luma-color) | 1.0.1 | 0 | Color primitives and interactive color controls for XGPUI-Luma |
-| 2026-11-09 11:25:18 | [xgpui-luma-look-radix](https://crates.io/crates/xgpui-luma-look-radix) | 1.0.1 | 0 | Radix themes, color scales, and styled controls for XGPUI-Luma |
-| 2026-11-09 11:25:27 | [xgpui-luma-look-shadcn](https://crates.io/crates/xgpui-luma-look-shadcn) | 1.0.1 | 0 | Shadcn themes, CSS tokens, and styled controls for XGPUI-Luma |
-| 2026-11-09 11:25:35 | [xgpui-luma-plot](https://crates.io/crates/xgpui-luma-plot) | 1.0.1 | 0 | Native plotting SDK foundations for XGPUI-Luma |
-| 2026-11-09 11:25:37 | [asolaria-quant-cubes](https://crates.io/crates/asolaria-quant-cubes) | 0.1.0 | 0 | Combined-quant registry slots 21 and 25-28 (cube, word-glyph, shard-cube, white… |
-| 2026-11-09 11:29:50 | [wovault](https://crates.io/crates/wovault) | 0.1.2 | 0 | Write-only vault: encrypted backup library with HPKE-sealed write-only ingest |
-| 2026-11-09 11:31:01 | [rCSFs](https://crates.io/crates/rCSFs) | 3.0.0 | 0 | Rust-powered Python library for converting atomic-physics CSF data to Parquet a… |
-| 2026-11-09 11:31:37 | [dear-imgui-reflect-glam033](https://crates.io/crates/dear-imgui-reflect-glam033) | 0.22.0 | 0 | unofficial fork of dear-imgui-rs built against glam@033 |
-| 2026-11-09 11:34:27 | [do-context-shield-transformer-generalize](https://crates.io/crates/do-context-shield-transformer-generalize) | 0.1.0 | 0 | Non-reversible generalizing transformer plugin for do-context-shield |
-| 2026-11-09 11:35:36 | [asolaria-quant-exact](https://crates.io/crates/asolaria-quant-exact) | 0.1.0 | 0 | Combined-quant slots 13, 14 and 17-20 (exact re-representations) from the owner… |
-| 2026-11-09 11:38:58 | [vox_engine](https://crates.io/crates/vox_engine) | 0.3.1 | 0 | voxel game engine |
-| 2026-11-09 11:43:05 | [memdiver-call-sys](https://crates.io/crates/memdiver-call-sys) | 0.1.0 | 0 | Unsafe platform mechanism for memdiver-call |
-| 2026-11-09 11:43:26 | [memdiver-call](https://crates.io/crates/memdiver-call) | 0.1.1 | 0 | Call functions inside another local process on Linux and Windows |
-| 2026-11-09 11:43:58 | [code_guessr](https://crates.io/crates/code_guessr) | 0.1.0 | 0 | Test knowledge of your codebase, find the given line in valid files |
-| 2026-11-09 11:44:35 | [do-context-shield-transformer-mask](https://crates.io/crates/do-context-shield-transformer-mask) | 0.1.0 | 0 | Non-reversible partial-masking transformer plugin for do-context-shield |
-| 2026-11-09 11:52:23 | [checkslip](https://crates.io/crates/checkslip) | 0.1.0 | 0 | Official Rust client for the Checkslip API: look up Thai bank transfers from a… |
-| 2026-11-09 11:54:34 | [do-context-shield-transformer-pseudonymize](https://crates.io/crates/do-context-shield-transformer-pseudonymize) | 0.1.0 | 0 | Reversible pseudonymizing transformer plugin for do-context-shield |
-| 2026-11-09 11:59:18 | [minirun](https://crates.io/crates/minirun) | 0.1.0 | 0 | Measure cold-start of a containerised workload (p50/p99) |
-| 2026-11-09 12:00:56 | [ferrisfetch](https://crates.io/crates/ferrisfetch) | 0.3.1 | 0 | A fastfetch clone written in Rust |
-| 2026-11-09 12:09:10 | [nfs-mamont-util](https://crates.io/crates/nfs-mamont-util) | 0.3.0 | 0 | Ready-made building blocks for nfs-mamont servers: pool buffer allocator, MOUNT… |
-| 2026-11-09 12:09:39 | [thryve_utils](https://crates.io/crates/thryve_utils) | 0.1.0 | 0 | Utilities that other Thryve crates depend on: the blocks that are used to assem… |
-| 2026-11-09 12:09:41 | [thryve_core](https://crates.io/crates/thryve_core) | 0.1.0 | 0 | Thryve runtime logic for the engine and plugin and observer managers. This is a… |
-| 2026-11-09 12:09:41 | [asolaria-server-cosign-serve](https://crates.io/crates/asolaria-server-cosign-serve) | 0.1.0 | 0 | cosign-serve of asolaria-federation-1024 as an in-process library: shadow-ledge… |
-| 2026-11-09 12:09:43 | [thryve_observers](https://crates.io/crates/thryve_observers) | 0.1.0 | 0 | Observers core to the Thryve runtime which Thryve cannot survive without. This… |
-| 2026-11-09 12:09:45 | [thryve_run](https://crates.io/crates/thryve_run) | 0.1.0 | 0 | Runtime logic for the Thryve runtime. Handles interactive and service logic and… |
-| 2026-11-09 12:09:47 | [thryve](https://crates.io/crates/thryve) | 0.1.0 | 0 | A pluggable task/plugin/observer runtime for Rust, runnable interactively or as… |
-| 2026-11-09 12:09:48 | [asolaria-server-council-serve](https://crates.io/crates/asolaria-server-council-serve) | 0.1.0 | 0 | council-serve of asolaria-federation-1024 as an in-process library: the json=0… |
-| 2026-11-09 12:09:54 | [asolaria-ste-certificate](https://crates.io/crates/asolaria-ste-certificate) | 0.1.0 | 0 | Exact-integer port of the Sidon-Tower-Embedding distance certificate (sidon-cro… |
-| 2026-11-09 12:15:36 | [asolaria-ternary](https://crates.io/crates/asolaria-ternary) | 0.1.0 | 0 | The stack's shared ternary layer: the owner's tribit unit re-exported, plus int… |
-| 2026-11-09 12:19:19 | [rs-snap7](https://crates.io/crates/rs-snap7) | 0.1.0 | 0 | A Rust port of python-snap7 for Siemens S7 PLC communication |
+| 2026-11-09 12:22:58 | [ruvector-voi](https://crates.io/crates/ruvector-voi) | 2.3.0 | 0 | Small value-of-information routing primitive for security gates and routers |
+| 2026-11-09 12:23:22 | [thryve_ffi](https://crates.io/crates/thryve_ffi) | 0.1.0 | 0 | C-compatible FFI bindings for the Thryve runtime, for use from C, C++, and othe… |
+| 2026-11-09 12:24:09 | [trinity-stack](https://crates.io/crates/trinity-stack) | 0.2.1 | 0 | Parses, verifies and signs Trinity stack descriptors; ships to JavaScript as @p… |
+| 2026-11-09 12:24:13 | [feedkit](https://crates.io/crates/feedkit) | 0.1.0 | 0 | Normalized open-source feed adapters for the argus intelligence platform |
+| 2026-11-09 12:24:16 | [graphkit](https://crates.io/crates/graphkit) | 0.1.0 | 0 | Typed link graph with n-hop queries for the argus intelligence platform |
+| 2026-11-09 12:25:37 | [asolaria-verdict](https://crates.io/crates/asolaria-verdict) | 0.1.0 | 0 | Tighten-only composition of the hookwall, spawn, tier and Fischer gates plus an… |
+| 2026-11-09 12:25:41 | [fsql-sqlparser](https://crates.io/crates/fsql-sqlparser) | 0.1.0 | 0 | Extensible SQL Lexer and Parser with support for ANSI SQL:2011 |
+| 2026-11-09 12:26:11 | [fsql](https://crates.io/crates/fsql) | 0.1.0 | 0 | SQL query and mutation engine over the filesystem |
+| 2026-11-09 12:26:20 | [fsql-cli](https://crates.io/crates/fsql-cli) | 0.1.0 | 0 | Command line interface for fsql |
+| 2026-11-09 12:28:30 | [ontokit](https://crates.io/crates/ontokit) | 0.1.0 | 0 | Entity ontology with provenance for the argus intelligence platform |
+| 2026-11-09 12:31:16 | [alertkit](https://crates.io/crates/alertkit) | 0.1.0 | 0 | Rule-based alerting for the argus intelligence platform |
+| 2026-11-09 12:31:43 | [marketdata-kit](https://crates.io/crates/marketdata-kit) | 0.1.0 | 0 | Market-data adapters for the argus intelligence platform |
+| 2026-11-09 12:34:50 | [spl-message-executor-client](https://crates.io/crates/spl-message-executor-client) | 0.1.0 | 0 | Off-chain client helpers for the SPL Message Executor program (placeholder) |
+| 2026-11-09 12:34:58 | [spl-message-executor-interface](https://crates.io/crates/spl-message-executor-interface) | 0.1.0 | 0 | Interface for the SPL Message Executor program (placeholder) |
+| 2026-11-09 12:35:06 | [spl-message-executor-program](https://crates.io/crates/spl-message-executor-program) | 0.1.0 | 0 | SPL Message Executor program (placeholder) |
+| 2026-11-09 12:35:14 | [csharp-to-rust](https://crates.io/crates/csharp-to-rust) | 0.1.1 | 0 | Transpile a small subset of C# into equivalent Rust. |
+| 2026-11-09 12:35:32 | [buildl-cargo](https://crates.io/crates/buildl-cargo) | 0.1.0 | 0 | The `cargo-buildl` binary — runs every buildl command as `cargo buildl <command… |
+| 2026-11-09 12:35:37 | [asolaria-whiteroom-shannon](https://crates.io/crates/asolaria-whiteroom-shannon) | 0.1.0 | 0 | The white-room L0 scorer, the Shannon-stage hookwall plane, Shannon gate boot f… |
+| 2026-11-09 12:45:36 | [asolaria-levels-agents](https://crates.io/crates/asolaria-levels-agents) | 0.1.0 | 0 | Integer port of the universe simulator's Fischer and MCP slice agents at levels… |
+| 2026-11-09 12:48:00 | [canalis](https://crates.io/crates/canalis) | 0.0.1 | 0 | PipeWire router, virtual devices and effect strips for the Linux desktop |
+| 2026-11-09 12:48:55 | [claritas](https://crates.io/crates/claritas) | 0.0.1 | 0 | Work in progress. |
+| 2026-11-09 12:48:58 | [claritas-core](https://crates.io/crates/claritas-core) | 0.0.1 | 0 | Work in progress. |
+| 2026-11-09 12:49:02 | [claritas-rt](https://crates.io/crates/claritas-rt) | 0.0.1 | 0 | Work in progress. |
+| 2026-11-09 12:49:04 | [claritas-ui](https://crates.io/crates/claritas-ui) | 0.0.1 | 0 | Work in progress. |
+| 2026-11-09 12:53:05 | [libtea-core](https://crates.io/crates/libtea-core) | 0.1.0 | 0 | Independent Rust types and protocol rules for the CycloneDX Transparency Exchan… |
+| 2026-11-09 12:53:39 | [libtea-client](https://crates.io/crates/libtea-client) | 0.1.0 | 0 | Independent async Rust client for the CycloneDX Transparency Exchange API. |
+| 2026-11-09 12:55:36 | [asolaria-quant-head8](https://crates.io/crates/asolaria-quant-head8) | 0.1.0 | 0 | Integer port of the Asolaria eight-stage large-message quant head (quant8): JL… |
+| 2026-11-09 12:56:35 | [liblootrs](https://crates.io/crates/liblootrs) | 0.1.0 | 0 | Minimal TUI and CLI for running Windows games through wine, Proton (umu) or nat… |
+| 2026-11-09 12:56:44 | [ahk](https://crates.io/crates/ahk) | 0.1.0 | 0 | The ahk language: a lexer, an AST, a parser and an interpreter for AutoHotkey-s… |
+| 2026-11-09 12:56:55 | [ahk-box](https://crates.io/crates/ahk-box) | 0.1.0 | 0 | The lab box as a script target: a uinput keyboard of our own, grim captures, an… |
+| 2026-11-09 12:56:56 | [lifub-http-baseline](https://crates.io/crates/lifub-http-baseline) | 0.8.3 | 0 | The stable, assertable part of an observed HTTP response: the header volatility… |
+| 2026-11-09 12:57:07 | [ahk-cli](https://crates.io/crates/ahk-cli) | 0.1.0 | 0 | Run an ahk script on this machine: the script on stdin, the report on stdout |
+| 2026-11-09 12:57:11 | [lootrs](https://crates.io/crates/lootrs) | 0.1.0 | 0 | Minimal TUI and CLI for running Windows games through wine, Proton (umu) or nat… |
+| 2026-11-09 12:58:02 | [gpui-kit-material](https://crates.io/crates/gpui-kit-material) | 0.1.0 | 0 | Material 3 design tokens, motion and component adapters for Longbridge GPUI Kit |
+| 2026-11-09 13:00:04 | [singe-codegen](https://crates.io/crates/singe-codegen) | 0.1.0-alpha.1 | 0 | Kernel IR, schedules, and code emitters for Singe's generated kernels. |
+| 2026-11-09 13:00:07 | [singe-loader](https://crates.io/crates/singe-loader) | 0.1.0-alpha.1 | 0 | Loads NVIDIA libraries at run time for the Singe FFI crates. |
+| 2026-11-09 13:04:46 | [igen](https://crates.io/crates/igen) | 0.1.0 | 0 | digital novel file generator |
+| 2026-11-09 13:05:05 | [site-audit](https://crates.io/crates/site-audit) | 0.1.0 | 0 | Bounded HTTP, TLS, technical SEO and site-crawl auditing with deterministic rep… |
+| 2026-11-09 13:05:30 | [igen-core](https://crates.io/crates/igen-core) | 0.1.0 | 0 | digital novel file generator |
+| 2026-11-09 13:05:37 | [pump-glyphs-herself](https://crates.io/crates/pump-glyphs-herself) | 0.1.0 | 0 | Integer hot-lane regeneration of the ASOLARIA-HERSELF and MYTHOS-SELF-GLYPHS-25… |
+| 2026-11-09 13:06:22 | [glommio-turso](https://crates.io/crates/glommio-turso) | 0.0.0 | 0 | Glommio-native driver for Turso. Placeholder release; real crate in development. |
+| 2026-11-09 13:06:24 | [glommio-postgres](https://crates.io/crates/glommio-postgres) | 0.0.0 | 0 | A native, shard-local PostgreSQL client for the glommio runtime. Placeholder re… |
+| 2026-11-09 13:10:36 | [game_memory_tool](https://crates.io/crates/game_memory_tool) | 0.1.0 | 0 | An unsafe crate, a personal-use crate, made just for convenience, only supports… |
+| 2026-11-09 13:19:45 | [singe-nvcomp-sys](https://crates.io/crates/singe-nvcomp-sys) | 0.1.0-alpha.1 | 0 | Low-level FFI bindings for the NVIDIA nvCOMP compression library. |
+| 2026-11-09 13:19:47 | [singe-nvjpeg-sys](https://crates.io/crates/singe-nvjpeg-sys) | 0.1.0-alpha.1 | 0 | Low-level FFI bindings for the NVIDIA nvJPEG and nvJPEG 2000 libraries. |
+| 2026-11-09 13:19:50 | [singe-nvtiff-sys](https://crates.io/crates/singe-nvtiff-sys) | 0.1.0-alpha.1 | 0 | Low-level FFI bindings for the NVIDIA nvTIFF library. |
+| 2026-11-09 13:19:52 | [singe-nvimagecodec-sys](https://crates.io/crates/singe-nvimagecodec-sys) | 0.1.0-alpha.1 | 0 | Low-level FFI bindings for the NVIDIA nvImageCodec library. |
 
 ## Data source
 
