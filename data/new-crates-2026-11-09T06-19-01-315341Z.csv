@@ -1,0 +1,30 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-09T05:20:08.095736Z,sri-lanka-holidays,1.0.2,0,0,https://github.com/sahanRanasingha/sri-lanka-holidays,"Official Sri Lanka Public, Bank, and Mercantile holidays (including Full Moon Poya days) for 2026, 2027, and extensible JSON support."
+2026-11-09T05:20:42.564284Z,ritsuryo,0.1.0,0,0,https://github.com/conao3/rust-ritsuryo,"Japanese statutory periods and taxes, computed by Lean 4 code proved to follow the provisions"
+2026-11-09T05:24:37.919093Z,leptoskit_plugin_background,0.0.0,0,0,https://github.com/leptoskit/leptoskit,Keep an app working in the background for LeptosKit.
+2026-11-09T05:25:25.253506Z,hooke,0.0.0,0,0,https://github.com/shergin/hooke,A FlexBox layout library focused on concurrent rendering.
+2026-11-09T05:27:17.852865Z,hanafubuki-agent-plugin-workspace-fs,0.1.0,0,0,https://github.com/licyk/hanafubuki-agent,The hanafubuki-agent plugin for workspace file tools
+2026-11-09T05:29:26.392424Z,rpi-httpcore,0.1.20,0,0,https://github.com/pi-rust/rpi-package,HTTP and SSE protocol adapter library for the shared rpi extension core
+2026-11-09T05:37:35.116706Z,hanafubuki-agent,0.1.0,0,0,https://github.com/licyk/hanafubuki-agent,"An AI coding and operations agent to embed: the composition, its plugins, the slot and the host interface"
+2026-11-09T05:37:51.148933Z,leptoskit_plugin_background_task,0.0.0,0,0,https://github.com/leptoskit/leptoskit,Named OS background task registration for LeptosKit.
+2026-11-09T05:47:51.25388Z,hanafubuki-agent-tui,0.1.0,0,0,https://github.com/licyk/hanafubuki-agent,"The hanafubuki-agent terminal interface: the inline chat, its composer and its approval and question overlays"
+2026-11-09T05:50:59.480209Z,leptoskit_plugin_badge,0.0.0,0,0,https://github.com/leptoskit/leptoskit,App icon badge counts for LeptosKit.
+2026-11-09T05:51:01.958525Z,leptoskit_plugin_blob,0.0.0,0,0,https://github.com/leptoskit/leptoskit,Owned bounded byte blobs for LeptosKit.
+2026-11-09T05:54:10.761978Z,cameleer-ai,0.5.0,0,0,https://github.com/pmsudhi/cameleer,"Cameleer action layer for AI agents (std only): routes as tools (ai-tool, ai-resource, ai-prompt), a tool registry, JSON Schema 2020-12 argument checks, and a reliability envelope with idempotency, a…"
+2026-11-09T05:58:07.072404Z,hanafubuki-agent-cli,0.1.0,0,0,https://github.com/licyk/hanafubuki-agent,"The hanafubuki-agent command line and terminal interface: the chat, exec, resume, the configuration, Providers, MCP servers, sessions and doctor"
+2026-11-09T05:58:29.812733Z,aethelgard-ir,0.1.0,0,0,https://github.com/ClearForge-LLC/aethelgard,"The Aethelgard specification schema, validation, and serialization."
+2026-11-09T05:58:36.683766Z,aethelgard-kicad-lib,0.1.0,0,0,https://github.com/ClearForge-LLC/aethelgard,"KiCad 10.0.7's vendored symbols, footprints and licence text, as bytes. Data only."
+2026-11-09T05:58:42.998172Z,aethelgard-svd-hal,0.1.0,0,0,https://github.com/ClearForge-LLC/aethelgard,Aethelgard vendor register description ingestion and generated board crate.
+2026-11-09T05:58:51.443714Z,aethelgard-eda,0.1.0,0,0,https://github.com/ClearForge-LLC/aethelgard,"Aethelgard schematic and bill-of-materials emission, and the design-rule files its KiCad gates write."
+2026-11-09T05:58:55.730412Z,aethelgard-twin,0.1.0,0,0,https://github.com/ClearForge-LLC/aethelgard,"Aethelgard simulator platform descriptions, analog model, and lock-step bridge."
+2026-11-09T06:04:10.482728Z,leptoskit_plugin_calendar,0.0.0,0,0,https://github.com/leptoskit/leptoskit,"Bounded calendar permission, calendars, and events for LeptosKit."
+2026-11-09T06:04:19.074429Z,petrified,0.1.0,0,0,https://github.com/ApexDevelopment/petrified,"A Rust port of Ironwood, the routing protocol behind Yggdrasil"
+2026-11-09T06:05:02.756737Z,kinu-gpui,0.1.0,0,0,https://github.com/KinuUI/kinu,Kinu's GPUI fork.
+2026-11-09T06:06:20.548148Z,kinu-gpui-apple,0.1.0,0,0,https://github.com/KinuUI/kinu,Support crate for Kinu's GPUI fork.
+2026-11-09T06:08:41.105064Z,cmr,0.1.0,0,0,https://github.com/jackroddy/cmr,a markdown renderer for the command line
+2026-11-09T06:10:06.288451Z,flower-dictionary,0.1.0,0,0,https://github.com/axflower/flower-dictionary,"Reusable offline Chinese Pinyin lexicon tables, provenance and zero-copy Rust access"
+2026-11-09T06:10:12.779191Z,kinu-gpui-wgpu,0.1.0,0,0,https://github.com/KinuUI/kinu,Support crate for Kinu's GPUI fork.
+2026-11-09T06:10:20.086591Z,aethelgard-chaos,0.1.0,0,0,https://github.com/ClearForge-LLC/aethelgard,"Aethelgard fault scenarios, campaign runner, trace archive, and verdicts."
+2026-11-09T06:11:51.051596Z,kinu-gpui-windows,0.1.0,0,0,https://github.com/KinuUI/kinu,Support crate for Kinu's GPUI fork.
+2026-11-09T06:12:50.060181Z,aexlo,0.1.0,0,0,https://github.com/potistudio/aexlo,Run After Effects plugins without Adobe dependencies.
+2026-11-09T06:17:20.889929Z,leptoskit_plugin_camera,0.0.0,0,0,https://github.com/leptoskit/leptoskit,Host-owned camera sessions with a Camera preview surface for LeptosKit.
