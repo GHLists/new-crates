@@ -1,0 +1,43 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-09T03:18:41.596223Z,wasdk-wgpu,0.1.0,0,0,,"A wgpu backend over wasi:webgpu, so a program written against wgpu draws in a component unchanged."
+2026-11-09T03:18:47.987061Z,waos-package,0.1.0,0,0,,"The .wapk format: a program's manifest, component and icon in one zip, signed with its publisher's key; and the index.json a package source lists its programs in."
+2026-11-09T03:18:55.089039Z,waos-dev-protocol,0.1.0,0,0,,"What cargo waos and a running WaOS say to each other: the messages of one run, their frames, and the Unix socket that carries them."
+2026-11-09T03:20:26.301943Z,waos-cli,0.1.0,0,0,,"cargo waos: writes a new program, builds a program as a component, runs it in the WaOS on this machine, and packages it as a signed .wapk."
+2026-11-09T03:23:27.549571Z,hanafubuki-agent-process,0.1.0,0,0,https://github.com/licyk/hanafubuki-agent,"Process ownership for hanafubuki-agent: the executor, ownership receipts, process groups and PTYs"
+2026-11-09T03:23:28.992798Z,comatype,0.0.2,0,0,https://github.com/oldsheeep3/comatype,Comatype runtime for Rust (client `c` and server `s`)
+2026-11-09T03:23:52.64383Z,lasius-core,0.1.0,0,0,https://github.com/9aia/lasius,"Pure domain logic for lasius — config model, gh decoding, git status, workspace files"
+2026-11-09T03:23:55.288385Z,lasius,0.1.0,0,0,https://github.com/9aia/lasius,"Workspace gardener — clone, sync, and inspect every repo of a GitHub org under one root"
+2026-11-09T03:26:23.400056Z,claude-history-resume,0.1.29,0,0,https://github.com/chuilishi/claude-history,Fuzzy-search Claude Code conversation history from the terminal.
+2026-11-09T03:30:25.453226Z,waos-capabilities,0.1.0,0,0,,"The capability traits WaOS's engine serves programs through, and their records, in the shape of the WIT interfaces they serve."
+2026-11-09T03:33:48.419217Z,hanafubuki-agent-execution,0.1.0,0,0,https://github.com/licyk/hanafubuki-agent,"Command execution for hanafubuki-agent: commands, their approvals and background terminals"
+2026-11-09T03:36:22.513315Z,hakonfig-core,0.4.2,0,0,,"Hakonfig core: read/modify/write AI harness provider config, no Tauri"
+2026-11-09T03:36:44.308641Z,hakonfig-cli,0.4.2,0,0,,CLI Hakonfig: kelola config harness tanpa GUI
+2026-11-09T03:43:19.75847Z,tc_iso9797_mac,0.1.0,0,0,https://github.com/TomiCheng/tc_macs,"The ISO/IEC 9797-1 MAC algorithm 3 (ANSI X9.19 retail MAC) over DES, no_std and free of unsafe code"
+2026-11-09T03:43:28.978834Z,tc_kmac,0.1.0,0,0,https://github.com/TomiCheng/tc_macs,"KMAC128 and KMAC256 (NIST SP 800-185), as fixed-length MACs and as KMACXOF, no_std and free of unsafe code"
+2026-11-09T03:43:40.056458Z,tc_skein_mac,0.1.0,0,0,https://github.com/TomiCheng/tc_macs,"Skein-MAC with a 256-, 512- or 1024-bit state, no_std and free of unsafe code"
+2026-11-09T03:44:08.3924Z,hanafubuki-agent-mcp,0.1.0,0,0,https://github.com/licyk/hanafubuki-agent,"Model Context Protocol client for hanafubuki-agent: servers, transports, OAuth and tools"
+2026-11-09T03:46:06.635287Z,kinu-bench-metrics,0.1.0,0,0,https://github.com/KinuUI/kinu,Support crate for Kinu's GPUI fork.
+2026-11-09T03:49:29.798463Z,pavo-protocol,0.1.0,0,0,https://github.com/9aia/pavo,"Wire contract — driver manifests, ViewNode IR, ndjson ops (the public API)"
+2026-11-09T03:52:23.695036Z,kinu-derive-refineable,0.1.0,0,0,https://github.com/KinuUI/kinu,Support crate for Kinu's GPUI fork.
+2026-11-09T03:52:28.420838Z,kinu-gpui-macros,0.1.0,0,0,https://github.com/KinuUI/kinu,Support crate for Kinu's GPUI fork.
+2026-11-09T03:52:34.291086Z,kinu-shared-string,0.1.0,0,0,https://github.com/KinuUI/kinu,Support crate for Kinu's GPUI fork.
+2026-11-09T03:52:38.572645Z,kinu-gpui-util,0.1.0,0,0,https://github.com/KinuUI/kinu,Support crate for Kinu's GPUI fork.
+2026-11-09T03:54:32.031461Z,hanafubuki-agent-config,0.1.0,0,0,https://github.com/licyk/hanafubuki-agent,"The hanafubuki-agent configuration: settings, the provider registry and MCP servers in TOML"
+2026-11-09T03:55:41.035075Z,kinu-path,0.1.0,0,0,https://github.com/KinuUI/kinu,Support crate for Kinu's GPUI fork.
+2026-11-09T03:56:49.154595Z,swc_next_ecma_formatter,0.0.0,0,0,https://github.com/swc-project/swc-next,Reserved crate name for the SWC Next ECMAScript formatter
+2026-11-09T03:56:54.36848Z,swc_next_formatter_core,0.0.0,0,0,https://github.com/swc-project/swc-next,Reserved crate name for the SWC Next formatter core
+2026-11-09T03:57:07.665585Z,disparate,0.5.0,0,0,,"A diff core: any sequence in, an alignment out, as fast as the hardware allows"
+2026-11-09T03:59:59.975158Z,haste-document-storage,0.130.0,0,0,,Backend-agnostic document (blob) storage for Haste Health.
+2026-11-09T04:04:57.785204Z,hanafubuki-agent-plugin-execution,0.1.0,0,0,https://github.com/licyk/hanafubuki-agent,The hanafubuki-agent plugin for command execution tools
+2026-11-09T04:05:18.839976Z,kinu-scheduler,0.1.0,0,0,https://github.com/KinuUI/kinu,Support crate for Kinu's GPUI fork.
+2026-11-09T04:07:04.463154Z,claude-ps,0.1.0,0,0,https://github.com/sibincbaby/ccstat,"List running Claude Code sessions (memory, idle time, status) and kill unused ones"
+2026-11-09T04:09:04.443797Z,libthai,0.1.0,0,0,https://github.com/nanusorn/libthai-rs,Pure Rust port of libthai - Thai Language Support Library
+2026-11-09T04:12:16.213812Z,alpha2-plugin-abi,0.0.0,0,0,https://github.com/alpha2-sh/alpha2,"The alpha2-plugin/1 ABI: native tables, wasm names and emit records. Placeholder; the first release is 0.6.0."
+2026-11-09T04:15:16.229245Z,hanafubuki-agent-plugin-mcp,0.1.0,0,0,https://github.com/licyk/hanafubuki-agent,The hanafubuki-agent plugin exposing MCP server tools
+2026-11-09T04:15:18.454017Z,kinu-ztracing-macro,0.1.0,0,0,https://github.com/KinuUI/kinu,Support crate for Kinu's GPUI fork.
+2026-11-09T04:17:55.317571Z,leptoskit_3d,0.0.0,0,0,https://github.com/leptoskit/leptoskit,"GPU 3D scenes for leptoskit: a host-owned scene of glTF models, animation, and lights, driven by compact ops and drawn with wgpu."
+2026-11-09T04:17:59.375398Z,leptoskit_animation,0.0.0,0,0,https://github.com/leptoskit/leptoskit,"Animations that platforms run on their own compositor: springs, timing curves, keyframes, and enter and exit transitions for leptoskit."
+2026-11-09T04:18:04.123273Z,leptoskit_depth,0.0.0,0,0,https://github.com/leptoskit/leptoskit,"Metric depth from one camera picture, on the device: Depth Anything V2 run in pure Rust, for AR on phones whose platform measures no depth."
+2026-11-09T04:18:07.957947Z,leptoskit_platform,0.0.0,0,0,https://github.com/leptoskit/leptoskit,"Contracts for leptoskit platform extension crates: manifests, capability matrices, and scaffold file lists."
+2026-11-09T04:18:10.2113Z,leptoskit_platform_harmonyos,0.0.0,0,0,https://github.com/leptoskit/leptoskit,HarmonyOS / ArkUI platform extension for leptoskit: host templates and capability manifest.
+2026-11-09T04:18:16.831117Z,redact-token-store,0.12.7,0,0,https://github.com/censgate/redact,"Scoped, encrypted token interning and selective resolution"
