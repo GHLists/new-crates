@@ -8,52 +8,55 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-09 16:20 UTC
+## Latest list — 2026-11-09 17:19 UTC
 
-New crates published between 2026-11-09 15:18 UTC and 2026-11-09 16:20 UTC.
+New crates published between 2026-11-09 16:20 UTC and 2026-11-09 17:19 UTC.
 
-[Full CSV](data/new-crates-2026-11-09T16-20-08-676371Z.csv)
+[Full CSV](data/new-crates-2026-11-09T17-19-30-293867Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-09 15:19:59 | [saladfingers-api](https://crates.io/crates/saladfingers-api) | 0.1.0-alpha.1 | 0 | Typed client for the SaladCloud public REST API and S4 storage. |
-| 2026-11-09 15:19:59 | [saladfingers-protocol](https://crates.io/crates/saladfingers-protocol) | 0.1.0-alpha.1 | 0 | Shared wire contract between the saladfingers CLI and the in-container sf-agent. |
-| 2026-11-09 15:20:02 | [saladfingers](https://crates.io/crates/saladfingers) | 0.1.0-alpha.1 | 0 | saladfingers: rent SaladCloud GPUs for minimum billed seconds. |
-| 2026-11-09 15:20:03 | [saladfingers-agent](https://crates.io/crates/saladfingers-agent) | 0.1.0-alpha.1 | 0 | sf-agent: the in-container agent baked into every saladfingers image. |
-| 2026-11-09 15:20:09 | [parsec-edgar](https://crates.io/crates/parsec-edgar) | 0.1.1 | 0 | Fast SEC EDGAR client and filing parser: company lookup, filing lists, clean te… |
-| 2026-11-09 15:20:52 | [parsec-edgar-cli](https://crates.io/crates/parsec-edgar-cli) | 0.1.1 | 0 | Command-line client for SEC EDGAR: companies, filings, clean text and Item sect… |
-| 2026-11-09 15:21:45 | [ic-entropy](https://crates.io/crates/ic-entropy) | 0.1.0 | 0 | Bounded entropy buffering and seeded random generation without runtime dependen… |
-| 2026-11-09 15:22:51 | [halo-validator-derive](https://crates.io/crates/halo-validator-derive) | 0.1.0 | 0 | Derive macro implementation for the validator crate. |
-| 2026-11-09 15:23:18 | [halo-validator](https://crates.io/crates/halo-validator) | 0.1.0 | 0 | Rust 2024 validation library with derive macros, schema validation, and i18n me… |
-| 2026-11-09 15:24:07 | [comindly-engine](https://crates.io/crates/comindly-engine) | 0.5.0-beta.7 | 0 | comindly's engine: the index behind /api/v1 and /mcp, on this machine or as a t… |
-| 2026-11-09 15:24:11 | [podnode](https://crates.io/crates/podnode) | 0.0.0 | 0 | Node runtime of a PodUtils fleet server |
-| 2026-11-09 15:25:27 | [harn-stdlib-compiler](https://crates.io/crates/harn-stdlib-compiler) | 0.10.193 | 0 | Compile Harn standard library bytecode without native runtime implementations |
-| 2026-11-09 15:27:33 | [ssherlock](https://crates.io/crates/ssherlock) | 0.0.1 | 0 | Rust SSH Client |
-| 2026-11-09 15:34:22 | [podrelay-worker](https://crates.io/crates/podrelay-worker) | 0.0.0 | 0 | The podssh relay as a Cloudflare Worker |
-| 2026-11-09 15:36:11 | [rowq](https://crates.io/crates/rowq) | 1.0.0 | 0 | Query rows in tables, documents and databases from the terminal — CSV, JSON, YA… |
-| 2026-11-09 15:43:31 | [datajud-mcp](https://crates.io/crates/datajud-mcp) | 0.2.0 | 0 | MCP (Model Context Protocol) server for the DATAJUD public API (CNJ) — Brazilia… |
-| 2026-11-09 15:44:34 | [podrepl](https://crates.io/crates/podrepl) | 0.0.0 | 0 | Continuous SQLite replication over outbound 443 |
-| 2026-11-09 15:48:48 | [llm-inspect](https://crates.io/crates/llm-inspect) | 0.1.0 | 0 | Input and output security inspection for LLM applications: PII, secrets, prompt… |
-| 2026-11-09 15:51:42 | [nocturne-knot-encoding](https://crates.io/crates/nocturne-knot-encoding) | 0.1.2 | 0 | Canonical §4a proposal preimage + §4b ProposalBlob, plus shared multisig call t… |
-| 2026-11-09 15:53:06 | [argon2-verus](https://crates.io/crates/argon2-verus) | 0.1.0 | 0 | Dependency-free Argon2 password hashing with same-source Verus verification of… |
-| 2026-11-09 15:53:47 | [axess-testing](https://crates.io/crates/axess-testing) | 0.19.0 | 0 | Test fixtures for axess adopters: a tracing capture and an OIDC identity provid… |
-| 2026-11-09 15:54:45 | [podrunner](https://crates.io/crates/podrunner) | 0.0.0 | 0 | Ephemeral CI runners on your own servers |
-| 2026-11-09 16:00:50 | [upki-mirror](https://crates.io/crates/upki-mirror) | 0.2.0 | 0 | Tools for mirroring upki certificate and revocation data |
-| 2026-11-09 16:04:25 | [nocturne-knot-registry](https://crates.io/crates/nocturne-knot-registry) | 0.2.1 | 0 | BLS M-of-N quorum verification registry for committee membership. |
-| 2026-11-09 16:04:30 | [nocturne-knot-proposals](https://crates.io/crates/nocturne-knot-proposals) | 0.4.0 | 0 | On-chain propose/approve/finalize+execute multisig proposals contract. |
-| 2026-11-09 16:04:57 | [podsnap](https://crates.io/crates/podsnap) | 0.0.0 | 0 | Encrypted append-only backup shipper |
-| 2026-11-09 16:05:49 | [supervisord](https://crates.io/crates/supervisord) | 0.0.1 | 0 | Demand-aware process supervisor for Orbit Link fleets in any language |
-| 2026-11-09 16:09:03 | [discogs-client](https://crates.io/crates/discogs-client) | 0.1.0 | 0 | Ergonomic, async Rust client for the Discogs API |
-| 2026-11-09 16:12:33 | [mopenzl](https://crates.io/crates/mopenzl) | 0.1.0 | 0 | OpenZL compression and decompression in safe Rust; encoding is byte-identical t… |
-| 2026-11-09 16:13:59 | [yolowpdf-stat](https://crates.io/crates/yolowpdf-stat) | 0.1.0 | 0 | Mergeable online statistics and decision rules for yolowpdf's adaptive control… |
-| 2026-11-09 16:14:08 | [yolowpdf-sys](https://crates.io/crates/yolowpdf-sys) | 0.1.0 | 0 | Process-level tuning for the yolowpdf binary (glibc allocator thresholds, NUMA-… |
-| 2026-11-09 16:14:13 | [yolowpdf-infer](https://crates.io/crates/yolowpdf-infer) | 0.1.0 | 0 | Small pure-Rust neural network inference: tensors, convolution and transformer… |
-| 2026-11-09 16:14:27 | [yolowpdf-gpu](https://crates.io/crates/yolowpdf-gpu) | 0.1.0 | 0 | NVIDIA GPU backend for yolowpdf-infer: SGEMM, convolution and activations as PT… |
-| 2026-11-09 16:14:49 | [peal-sdk](https://crates.io/crates/peal-sdk) | 0.1.0 | 0 | Schedule posts across social platforms, follow how they did, and manage a Peal… |
-| 2026-11-09 16:15:23 | [yolowpdf](https://crates.io/crates/yolowpdf) | 0.1.0 | 0 | PDF to clean Markdown: text extraction, layout reconstruction and scanned-page… |
-| 2026-11-09 16:16:35 | [halo-harbor-macros](https://crates.io/crates/halo-harbor-macros) | 0.1.0 | 0 | Procedural macros for Harbor crawler applications. |
-| 2026-11-09 16:17:03 | [halo-harbor](https://crates.io/crates/halo-harbor) | 0.1.0 | 0 | Rust crawler runtime with HTTP, Browser, Rules, and pluggable schedulers. |
-| 2026-11-09 16:19:35 | [mercury-banking](https://crates.io/crates/mercury-banking) | 0.1.0-alpha.1 | 0 | Unofficial Rust client for the Mercury API. Not affiliated with, endorsed by or… |
+| 2026-11-09 16:23:14 | [yolowpdf-ocr](https://crates.io/crates/yolowpdf-ocr) | 0.1.0 | 0 | Pure-Rust OCR for scanned PDF pages: PP-OCRv6 text detection and recognition, o… |
+| 2026-11-09 16:27:56 | [untauri](https://crates.io/crates/untauri) | 0.3.0 | 0 | Extract the embedded web frontend out of a compiled Tauri app binary |
+| 2026-11-09 16:29:01 | [draftwright](https://crates.io/crates/draftwright) | 0.2.15 | 0 | Automated technical drawings from STEP B-rep: a Rust port of draftwright. |
+| 2026-11-09 16:29:31 | [z58](https://crates.io/crates/z58) | 0.1.0 | 0 | Zero-dependency, allocation-free Bitcoin Base58 with fixed-size fast paths |
+| 2026-11-09 16:35:40 | [nocturne-knot-registry-data](https://crates.io/crates/nocturne-knot-registry-data) | 0.1.0 | 0 | Account book for knot-registry. Writes require the Atlas-resolved logic contrac… |
+| 2026-11-09 16:35:45 | [nocturne-knot-proposals-data](https://crates.io/crates/nocturne-knot-proposals-data) | 0.1.0 | 0 | Proposal book for knot-proposals. Writes require the Atlas-resolved logic contr… |
+| 2026-11-09 16:35:53 | [nocturne-knot-tool](https://crates.io/crates/nocturne-knot-tool) | 0.2.0 | 0 | Local signing tool and web UI for exercising the multisig suite. |
+| 2026-11-09 16:35:59 | [nocturne-knot-collector](https://crates.io/crates/nocturne-knot-collector) | 0.2.0 | 0 | Untrusted off-chain signature/proposal collector for the multisig suite |
+| 2026-11-09 16:36:03 | [vix-zgui](https://crates.io/crates/vix-zgui) | 2.0.2 | 0 | Vix desktop GUI on zgui (reactive, CSS-styled, wgpu-drawn): the full Vix App in… |
+| 2026-11-09 16:37:24 | [nocturne-knot-warden-encoding](https://crates.io/crates/nocturne-knot-warden-encoding) | 0.2.1 | 0 | Host-visible call types and events for the warden contract (rkyv layout-pinned) |
+| 2026-11-09 16:39:46 | [intersection-lab](https://crates.io/crates/intersection-lab) | 0.5.0 | 0 | Microscopic traffic-intersection simulator for comparing signal control, sensin… |
+| 2026-11-09 16:40:03 | [nocturne-knot-event-decoder](https://crates.io/crates/nocturne-knot-event-decoder) | 0.1.0 | 0 | Dispatch Knot named events by contract, topic, and version |
+| 2026-11-09 16:43:22 | [cf-gears-license-enforcement](https://crates.io/crates/cf-gears-license-enforcement) | 0.1.0 | 0 | License enforcement gear - grant store, management API, and license-resolver ba… |
+| 2026-11-09 16:43:28 | [cf-gears-le-default-evaluator](https://crates.io/crates/cf-gears-le-default-evaluator) | 0.1.0 | 0 | Default grant evaluator for the license-enforcement gear |
+| 2026-11-09 16:43:33 | [cf-gears-le-issue-admission-plugin](https://crates.io/crates/cf-gears-le-issue-admission-plugin) | 0.1.0 | 0 | Admission plugin for the license-enforcement gear: root grants from authorized… |
+| 2026-11-09 16:44:11 | [llm-inspect-cli](https://crates.io/crates/llm-inspect-cli) | 0.1.0 | 0 | Command-line interface for llm-inspect: scan prompts for PII, secrets and promp… |
+| 2026-11-09 16:51:40 | [zscan](https://crates.io/crates/zscan) | 0.1.0 | 0 | Zero-dependency, allocation-free byte and substring search for no_std |
+| 2026-11-09 17:00:37 | [nocturne-knot-warden](https://crates.io/crates/nocturne-knot-warden) | 0.3.0 | 0 | Delaying guardian in front of an Atlas registry. Calls Atlas; Atlas does not ca… |
+| 2026-11-09 17:02:24 | [nocturne-atlas-event-decoder](https://crates.io/crates/nocturne-atlas-event-decoder) | 0.3.0 | 0 | Host decoder for Atlas events. Dispatch is contract identity plus topic. Versio… |
+| 2026-11-09 17:03:18 | [ctl-text](https://crates.io/crates/ctl-text) | 0.7.0 | 0 | Styled text for terminals: safe spans, cell widths, wrapping, and truncation |
+| 2026-11-09 17:03:22 | [ctl-layout](https://crates.io/crates/ctl-layout) | 0.7.0 | 0 | Terminal widgets built on ctl-text: tables, records, rules, stacks, and indents |
+| 2026-11-09 17:03:27 | [ctl-term](https://crates.io/crates/ctl-term) | 0.7.0 | 0 | Terminal output for CLIs: colour policy per stream, colour depth, width, and an… |
+| 2026-11-09 17:04:03 | [wasm-bindgen-test-alias](https://crates.io/crates/wasm-bindgen-test-alias) | 0.3.0 | 0 | Use wasm-bindgen-test as #[test]. |
+| 2026-11-09 17:05:01 | [glastor-aria-core](https://crates.io/crates/glastor-aria-core) | 0.1.0 | 0 | Headless WAI-ARIA 1.2 accessibility primitives and deterministic FSMs for Rust… |
+| 2026-11-09 17:05:08 | [glastor-css-binder](https://crates.io/crates/glastor-css-binder) | 0.1.0 | 0 | Native Zero-Node CSS scanning, compilation and bundling engine for Rust web app… |
+| 2026-11-09 17:05:47 | [glastor-ui-cli](https://crates.io/crates/glastor-ui-cli) | 0.1.0 | 0 | Decentralized UI distribution and code injection CLI for the Rust Cargo ecosyst… |
+| 2026-11-09 17:08:06 | [topcoat-metadata](https://crates.io/crates/topcoat-metadata) | 0.0.0 | 0 | Placeholder for a crate of the Topcoat web framework. Use the topcoat crate. |
+| 2026-11-09 17:08:09 | [topcoat-asset-grammar](https://crates.io/crates/topcoat-asset-grammar) | 0.0.0 | 0 | Placeholder for a crate of the Topcoat web framework. Use the topcoat crate. |
+| 2026-11-09 17:08:12 | [topcoat-asset-macro](https://crates.io/crates/topcoat-asset-macro) | 0.0.0 | 0 | Placeholder for a crate of the Topcoat web framework. Use the topcoat crate. |
+| 2026-11-09 17:08:18 | [dungeonctl-core](https://crates.io/crates/dungeonctl-core) | 0.1.0 | 0 | Control smart electronic toys created by DG-LAB |
+| 2026-11-09 17:08:30 | [dungeonctl-pattern](https://crates.io/crates/dungeonctl-pattern) | 0.1.0 | 0 | Control smart electronic toys created by DG-LAB |
+| 2026-11-09 17:08:39 | [aiwrapper](https://crates.io/crates/aiwrapper) | 0.1.0 | 0 | Embeddable async language providers and tool agents for Rust |
+| 2026-11-09 17:10:23 | [atom-core](https://crates.io/crates/atom-core) | 0.0.1 | 0 | Shared types for atom-db: shard hash, routing schema, wire protocol and checksu… |
+| 2026-11-09 17:10:26 | [atom-client](https://crates.io/crates/atom-client) | 0.0.1 | 0 | Application-side library for atom-db: local routing, leases and write guards. D… |
+| 2026-11-09 17:10:28 | [atom-router](https://crates.io/crates/atom-router) | 0.0.1 | 0 | Router library for atom-db: schema, leases, locks and shard moves. Depend on at… |
+| 2026-11-09 17:10:30 | [atom-cli](https://crates.io/crates/atom-cli) | 0.0.1 | 0 | Operator CLI (atdb) for atom-db: register databases, extend shards, show status. |
+| 2026-11-09 17:10:33 | [atom-db](https://crates.io/crates/atom-db) | 0.0.1 | 0 | Shard PostgreSQL without a router in the request path. The front door that re-e… |
+| 2026-11-09 17:10:41 | [forced-alignment](https://crates.io/crates/forced-alignment) | 0.5.2 | 0 | Word-level forced alignment: start and end times for each word of a known text… |
+| 2026-11-09 17:11:46 | [file-lease](https://crates.io/crates/file-lease) | 0.1.0 | 0 | Process-owned memory-backed files with automatic cleanup |
+| 2026-11-09 17:14:57 | [minibuild](https://crates.io/crates/minibuild) | 0.3.0 | 0 | A parallel, incremental build system with zero dependencies |
+| 2026-11-09 17:19:27 | [cubek-rms-norm](https://crates.io/crates/cubek-rms-norm) | 0.4.0-pre.2 | 0 | CubeK: RMS Norm Kernels |
 
 ## Data source
 

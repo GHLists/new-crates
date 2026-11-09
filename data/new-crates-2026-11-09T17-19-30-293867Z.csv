@@ -1,0 +1,42 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-09T16:23:14.814084Z,yolowpdf-ocr,0.1.0,0,0,https://github.com/YOLOW92/yolowpdf,"Pure-Rust OCR for scanned PDF pages: PP-OCRv6 text detection and recognition, on CPU or an NVIDIA GPU."
+2026-11-09T16:27:56.574061Z,untauri,0.3.0,0,0,https://github.com/hbofz/untauri,Extract the embedded web frontend out of a compiled Tauri app binary
+2026-11-09T16:29:01.848674Z,draftwright,0.2.15,0,0,https://github.com/pzfreo/draftwright-rust,Automated technical drawings from STEP B-rep: a Rust port of draftwright.
+2026-11-09T16:29:31.817558Z,z58,0.1.0,0,0,https://github.com/LIghtJUNction/z58,"Zero-dependency, allocation-free Bitcoin Base58 with fixed-size fast paths"
+2026-11-09T16:35:40.846138Z,nocturne-knot-registry-data,0.1.0,0,0,https://github.com/Nocturne-Standards/knot,Account book for knot-registry. Writes require the Atlas-resolved logic contract.
+2026-11-09T16:35:45.228207Z,nocturne-knot-proposals-data,0.1.0,0,0,https://github.com/Nocturne-Standards/knot,Proposal book for knot-proposals. Writes require the Atlas-resolved logic contract.
+2026-11-09T16:35:53.643868Z,nocturne-knot-tool,0.2.0,0,0,https://github.com/Nocturne-Standards/knot,Local signing tool and web UI for exercising the multisig suite.
+2026-11-09T16:35:59.063967Z,nocturne-knot-collector,0.2.0,0,0,https://github.com/Nocturne-Standards/knot,Untrusted off-chain signature/proposal collector for the multisig suite
+2026-11-09T16:36:03.6094Z,vix-zgui,2.0.2,0,0,https://github.com/vixide/vix,"Vix desktop GUI on zgui (reactive, CSS-styled, wgpu-drawn): the full Vix App in a native window."
+2026-11-09T16:37:24.052137Z,nocturne-knot-warden-encoding,0.2.1,0,0,https://github.com/Nocturne-Standards/knot,Host-visible call types and events for the warden contract (rkyv layout-pinned)
+2026-11-09T16:39:46.688948Z,intersection-lab,0.5.0,0,0,https://github.com/schreck61/intersection-lab,"Microscopic traffic-intersection simulator for comparing signal control, sensing and AI"
+2026-11-09T16:40:03.950987Z,nocturne-knot-event-decoder,0.1.0,0,0,https://github.com/Nocturne-Standards/knot,"Dispatch Knot named events by contract, topic, and version"
+2026-11-09T16:43:22.404673Z,cf-gears-license-enforcement,0.1.0,0,0,https://github.com/constructorfabric/gears-rust,"License enforcement gear - grant store, management API, and license-resolver backend"
+2026-11-09T16:43:28.387426Z,cf-gears-le-default-evaluator,0.1.0,0,0,https://github.com/constructorfabric/gears-rust,Default grant evaluator for the license-enforcement gear
+2026-11-09T16:43:33.477422Z,cf-gears-le-issue-admission-plugin,0.1.0,0,0,https://github.com/constructorfabric/gears-rust,Admission plugin for the license-enforcement gear: root grants from authorized issue requests
+2026-11-09T16:44:11.843738Z,llm-inspect-cli,0.1.0,0,0,https://github.com/TakahiroNago/llm-inspect,"Command-line interface for llm-inspect: scan prompts for PII, secrets and prompt injection; validate model output"
+2026-11-09T16:51:40.50618Z,zscan,0.1.0,0,0,https://github.com/LIghtJUNction/zscan,"Zero-dependency, allocation-free byte and substring search for no_std"
+2026-11-09T17:00:37.969033Z,nocturne-knot-warden,0.3.0,0,0,https://github.com/Nocturne-Standards/knot,Delaying guardian in front of an Atlas registry. Calls Atlas; Atlas does not call it.
+2026-11-09T17:02:24.102841Z,nocturne-atlas-event-decoder,0.3.0,0,0,https://github.com/Nocturne-Standards/atlas,Host decoder for Atlas events. Dispatch is contract identity plus topic. Version comes from the deployment record.
+2026-11-09T17:03:18.188783Z,ctl-text,0.7.0,0,0,https://github.com/victor-software-house/ctl-core,"Styled text for terminals: safe spans, cell widths, wrapping, and truncation"
+2026-11-09T17:03:22.53019Z,ctl-layout,0.7.0,0,0,https://github.com/victor-software-house/ctl-core,"Terminal widgets built on ctl-text: tables, records, rules, stacks, and indents"
+2026-11-09T17:03:27.438509Z,ctl-term,0.7.0,0,0,https://github.com/victor-software-house/ctl-core,"Terminal output for CLIs: colour policy per stream, colour depth, width, and an escape encoder"
+2026-11-09T17:04:03.626036Z,wasm-bindgen-test-alias,0.3.0,0,0,https://github.com/ngg/wasm-bindgen-test-alias,Use wasm-bindgen-test as #[test].
+2026-11-09T17:05:01.135925Z,glastor-aria-core,0.1.0,0,0,https://github.com/glastor-core/strata,Headless WAI-ARIA 1.2 accessibility primitives and deterministic FSMs for Rust web frameworks.
+2026-11-09T17:05:08.026109Z,glastor-css-binder,0.1.0,0,0,https://github.com/glastor-core/strata,"Native Zero-Node CSS scanning, compilation and bundling engine for Rust web applications."
+2026-11-09T17:05:47.564887Z,glastor-ui-cli,0.1.0,0,0,https://github.com/glastor-core/strata,Decentralized UI distribution and code injection CLI for the Rust Cargo ecosystem.
+2026-11-09T17:08:06.181579Z,topcoat-metadata,0.0.0,0,0,https://github.com/tokio-rs/topcoat,Placeholder for a crate of the Topcoat web framework. Use the topcoat crate.
+2026-11-09T17:08:09.16451Z,topcoat-asset-grammar,0.0.0,0,0,https://github.com/tokio-rs/topcoat,Placeholder for a crate of the Topcoat web framework. Use the topcoat crate.
+2026-11-09T17:08:12.464403Z,topcoat-asset-macro,0.0.0,0,0,https://github.com/tokio-rs/topcoat,Placeholder for a crate of the Topcoat web framework. Use the topcoat crate.
+2026-11-09T17:08:18.665466Z,dungeonctl-core,0.1.0,0,0,https://github.com/mebutkinky/dungeonctl,Control smart electronic toys created by DG-LAB
+2026-11-09T17:08:30.176365Z,dungeonctl-pattern,0.1.0,0,0,https://github.com/mebutkinky/dungeonctl,Control smart electronic toys created by DG-LAB
+2026-11-09T17:08:39.294717Z,aiwrapper,0.1.0,0,0,https://github.com/mitkury/aiwrapper,Embeddable async language providers and tool agents for Rust
+2026-11-09T17:10:23.765266Z,atom-core,0.0.1,0,0,https://github.com/vincbro/atom-db,"Shared types for atom-db: shard hash, routing schema, wire protocol and checksum tree."
+2026-11-09T17:10:26.046958Z,atom-client,0.0.1,0,0,https://github.com/vincbro/atom-db,"Application-side library for atom-db: local routing, leases and write guards. Depend on atom-db instead."
+2026-11-09T17:10:28.021121Z,atom-router,0.0.1,0,0,https://github.com/vincbro/atom-db,"Router library for atom-db: schema, leases, locks and shard moves. Depend on atom-db instead."
+2026-11-09T17:10:30.678018Z,atom-cli,0.0.1,0,0,https://github.com/vincbro/atom-db,"Operator CLI (atdb) for atom-db: register databases, extend shards, show status."
+2026-11-09T17:10:33.139829Z,atom-db,0.0.1,0,0,https://github.com/vincbro/atom-db,Shard PostgreSQL without a router in the request path. The front door that re-exports the client and router.
+2026-11-09T17:10:41.280093Z,forced-alignment,0.5.2,0,0,https://github.com/ultrasaurus/forced-alignment-rs,Word-level forced alignment: start and end times for each word of a known text in an audio file (wav2vec2 CTC on candle)
+2026-11-09T17:11:46.751193Z,file-lease,0.1.0,0,0,https://github.com/cachix/file-lease,Process-owned memory-backed files with automatic cleanup
+2026-11-09T17:14:57.52566Z,minibuild,0.3.0,0,0,https://github.com/SebTardif/MiniBuildRust,"A parallel, incremental build system with zero dependencies"
+2026-11-09T17:19:27.567167Z,cubek-rms-norm,0.4.0-pre.2,0,0,https://github.com/tracel-ai/cubek/tree/main/crates/cubek-rms-norm,CubeK: RMS Norm Kernels
