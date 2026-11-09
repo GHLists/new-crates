@@ -1,0 +1,39 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-09T10:18:54.483654Z,broadcom-proxy,0.1.0,0,0,https://github.com/AVGVSTVS96/broadcom,One address for all your Claude subscriptions: a Claude account pool for Claude Code
+2026-11-09T10:21:07.520229Z,mtui-cli,26.3.6,0,0,https://github.com/openSUSE/mtui,Interactive REPL frontend for mtui
+2026-11-09T10:25:36.589145Z,asolaria-events,0.1.0,0,0,https://github.com/JesseBrown1980,"Integer port of the Asolaria graph-event producer: edge-risk score, buildGraphEvent as HBP EVENT rows, and buildActionManifest"
+2026-11-09T10:25:44.816665Z,leptoskit_watch,0.0.0,0,0,https://github.com/leptoskit/leptoskit,"Shared watch UI surfaces for Wear OS and watchOS: pages, tiles, glances, and complications."
+2026-11-09T10:27:10.588175Z,mtui-mcp,26.3.6,0,0,https://github.com/openSUSE/mtui,Model Context Protocol server adapter for mtui
+2026-11-09T10:33:59.650603Z,do-context-shield-plugin-api,0.1.0,0,0,https://github.com/d-oit/do-context-shield,"Stable plugin contracts (Detector, Policy, Transformer, Vault) for do-context-shield"
+2026-11-09T10:34:43.709476Z,do-context-shield-audit-file,0.1.0,0,0,https://github.com/d-oit/do-context-shield,Strict private append-only JSONL audit sink for do-context-shield
+2026-11-09T10:35:36.043281Z,asolaria-g-planes,0.1.0,0,0,https://github.com/JesseBrown1980/With-Felipe-Miguel-Olimpio-da-Cruz-as-The-omega-and-Aether...,"Integer port of the Asolaria fabric GNN plane functions that compute from their arguments alone: the G4 GLSM latent-state transition and the G1/G2 leaf functions, on exact JavaScript doubles"
+2026-11-09T10:38:26.655384Z,suse-mtui,26.3.6,0,0,https://github.com/openSUSE/mtui,Maintenance Test Update Installer for SUSE QE update validation
+2026-11-09T10:39:23.425651Z,tauri-plugin-compmd,0.0.0,0,0,https://github.com/comp-markdown/compmd,A placeholder with no code: the CompMD Tauri plugin is published from 0.6.0.
+2026-11-09T10:39:38.950308Z,leptoskit_watchos,0.0.0,0,0,https://github.com/leptoskit/leptoskit,Experimental watchOS host and backend stubs for leptoskit watch surfaces.
+2026-11-09T10:39:42.346937Z,leptoskit_wearos,0.0.0,0,0,https://github.com/leptoskit/leptoskit,Experimental Wear OS host and backend stubs for leptoskit watch surfaces.
+2026-11-09T10:45:36.392619Z,asolaria-hrm-mtp,0.1.0,0,0,https://github.com/JesseBrown1980/With-Felipe-Miguel-Olimpio-da-Cruz-as-The-omega-and-Aether...,Integer port of the Asolaria HRM / MTP / zeta triad (bigpickle-rebuild) and the universe simulator's HRM and MTP slice agents
+2026-11-09T10:50:48.970531Z,do-context-shield-detector-gliner2,0.1.0,0,0,https://github.com/d-oit/do-context-shield,"GLiNER2 local NER detector plugin (ONNX, CPU-first, optional) for do-context-shield"
+2026-11-09T10:51:38.146788Z,do-context-shield-detector-hybrid,0.1.0,0,0,https://github.com/d-oit/do-context-shield,"Hybrid detector plugin (runs two detectors, e.g. regex + local model) for do-context-shield"
+2026-11-09T10:52:21.755875Z,do-context-shield-detector-regex,0.1.0,0,0,https://github.com/d-oit/do-context-shield,"Regex detector plugin (email, phone, IBAN, IPv4/IPv6, SSN, credit card, API keys, AWS keys, JWTs) for do-context-shield"
+2026-11-09T10:53:04.342673Z,do-context-shield-judge-heuristics,0.1.0,0,0,https://github.com/d-oit/do-context-shield,Deterministic local semantic judge (kind and value heuristics) for do-context-shield
+2026-11-09T10:53:37.110049Z,leptoskit_xr,0.0.0,0,0,https://github.com/leptoskit/leptoskit,"Augmented and virtual reality for LeptosKit: ARKit, ARCore, OpenXR (Meta Quest, Android XR), WebXR, a rotation-sensor fallback, and deterministic replay."
+2026-11-09T10:53:41.472415Z,alux-shape-syn,0.1.0,0,0,https://github.com/alux-network/alux-rust,"Reads the shape a serde-annotated Rust layout states, as syntax, for a derive and a source reader alike"
+2026-11-09T10:54:52.60236Z,do-context-shield-policy-default,0.1.0,0,0,https://github.com/d-oit/do-context-shield,"Conservative default policy plugin (pseudonymize identifiers, redact secrets) for do-context-shield"
+2026-11-09T10:55:36.558995Z,asolaria-kernel-lane,0.1.0,0,0,,"Kernel boot lane of asolaria-federation-1024 as an in-process host simulation: init envelope REPL with the hook_context table, sys_hookwall_pre/post with caller_pid 0, cosign chain, and the BOOTPID/B…"
+2026-11-09T10:57:18.955488Z,osmflow,0.11.0,0,0,https://github.com/nyurik/osmflow,"Fast, parallel reading of OpenStreetMap PBF files, and node location stores, from a city extract to the planet"
+2026-11-09T10:57:21.112969Z,osmflow-cli,0.11.0,0,0,https://github.com/nyurik/osmflow,"The osmflow command: dump OpenStreetMap PBF files as text or GeoJSON, and summarize them"
+2026-11-09T10:57:51.031726Z,alux-laws,0.1.0,0,0,https://github.com/alux-network/alux-rust,Laws as first-order programs: suites of named operations any interpreter can read
+2026-11-09T10:58:04.242764Z,alux-laws-check,0.1.0,0,0,https://github.com/alux-network/alux-rust,Runs ALUX law suites on subjects and reports every law that broke
+2026-11-09T10:58:09.848375Z,alux-source,0.1.0,0,0,https://github.com/alux-network/alux-rust,"What Rust source declares: traits, impls, bounds and extensions, for any interpreter to read"
+2026-11-09T10:58:14.814418Z,alux-source-index,0.1.0,0,0,https://github.com/alux-network/alux-rust,"What Rust source declares, as plain values that answer questions"
+2026-11-09T10:58:21.575091Z,alux-source-syn,0.1.0,0,0,https://github.com/alux-network/alux-rust,Reads Rust source with syn as a term over alux-source
+2026-11-09T11:01:37.3761Z,lxmf-server,0.2.0,0,0,https://github.com/lelloman/lxmf-rs,LXMF daemon supervisor and control server
+2026-11-09T11:02:50.202921Z,deduxit,0.3.0,0,0,https://github.com/deduxit/deduxit,"Logic suites, linear logic first: decides, checks, proves step by step and exports sequents of classical and intuitionistic linear logic, and ordinary propositional logic through its embeddings."
+2026-11-09T11:03:10.967974Z,deduxit-cli,0.3.0,0,0,https://github.com/deduxit/deduxit,"The deduxit command: decide, check, prove step by step and export sequents of linear logic, and ordinary logic through its translations."
+2026-11-09T11:05:36.166278Z,asolaria-port-address-emitter,0.1.0,0,0,https://github.com/JesseBrown1980/bigpickle-rebuild,"Hilbert-traced nested 16-bit logical ports (port.port.port) per agent, ported to integer Rust from bigpickle-rebuild@c592599 src/port-address-emitter.mjs"
+2026-11-09T11:05:40.786312Z,do-context-shield-policy-matrix,0.1.0,0,0,https://github.com/d-oit/do-context-shield,Opt-in jurisdiction-adequacy and purpose-mapping policy plugin for do-context-shield
+2026-11-09T11:15:36.688165Z,asolaria-qprism-throat,0.1.0,0,0,https://github.com/JesseBrown1980/With-Felipe-Miguel-Olimpio-da-Cruz-as-The-omega-and-Aether...,"Q-PRISM combined throat, written fresh for aether by Claude (not upstream code; secondary to the owner's DBBH->DBWH codec holographic-wormhole-codec, never the default path): selects recovery Path 1…"
+2026-11-09T11:16:36.956084Z,do-context-shield-vault-memory,0.1.0,0,0,https://github.com/d-oit/do-context-shield,In-memory session-scoped vault plugin for do-context-shield
+2026-11-09T11:17:12.479278Z,iced_animate,0.1.0,0,0,https://github.com/sonata-ltd/luminate,Tree-external animation engine for iced 0.14: keyed springs/eases resolved inside widgets
+2026-11-09T11:17:34.317281Z,iced_texture_cache,0.1.0,0,0,https://github.com/sonata-ltd/luminate,"Render-to-texture caching of widget subtrees for iced 0.14, without forking iced"
+2026-11-09T11:17:56.937809Z,iced_page_router,0.1.0,0,0,https://github.com/sonata-ltd/luminate,"Type-erased page router for iced 0.14: history, lifecycle, snapshots and a shared-state registry"
