@@ -8,56 +8,43 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-09 04:18 UTC
+## Latest list — 2026-11-09 05:19 UTC
 
-New crates published between 2026-11-09 03:18 UTC and 2026-11-09 04:18 UTC.
+New crates published between 2026-11-09 04:18 UTC and 2026-11-09 05:19 UTC.
 
-[Full CSV](data/new-crates-2026-11-09T04-18-45-04294Z.csv)
+[Full CSV](data/new-crates-2026-11-09T05-19-46-133996Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-09 03:18:41 | [wasdk-wgpu](https://crates.io/crates/wasdk-wgpu) | 0.1.0 | 0 | A wgpu backend over wasi:webgpu, so a program written against wgpu draws in a c… |
-| 2026-11-09 03:18:47 | [waos-package](https://crates.io/crates/waos-package) | 0.1.0 | 0 | The .wapk format: a program's manifest, component and icon in one zip, signed w… |
-| 2026-11-09 03:18:55 | [waos-dev-protocol](https://crates.io/crates/waos-dev-protocol) | 0.1.0 | 0 | What cargo waos and a running WaOS say to each other: the messages of one run,… |
-| 2026-11-09 03:20:26 | [waos-cli](https://crates.io/crates/waos-cli) | 0.1.0 | 0 | cargo waos: writes a new program, builds a program as a component, runs it in t… |
-| 2026-11-09 03:23:27 | [hanafubuki-agent-process](https://crates.io/crates/hanafubuki-agent-process) | 0.1.0 | 0 | Process ownership for hanafubuki-agent: the executor, ownership receipts, proce… |
-| 2026-11-09 03:23:28 | [comatype](https://crates.io/crates/comatype) | 0.0.2 | 0 | Comatype runtime for Rust (client `c` and server `s`) |
-| 2026-11-09 03:23:52 | [lasius-core](https://crates.io/crates/lasius-core) | 0.1.0 | 0 | Pure domain logic for lasius — config model, gh decoding, git status, workspace… |
-| 2026-11-09 03:23:55 | [lasius](https://crates.io/crates/lasius) | 0.1.0 | 0 | Workspace gardener — clone, sync, and inspect every repo of a GitHub org under… |
-| 2026-11-09 03:26:23 | [claude-history-resume](https://crates.io/crates/claude-history-resume) | 0.1.29 | 0 | Fuzzy-search Claude Code conversation history from the terminal. |
-| 2026-11-09 03:30:25 | [waos-capabilities](https://crates.io/crates/waos-capabilities) | 0.1.0 | 0 | The capability traits WaOS's engine serves programs through, and their records,… |
-| 2026-11-09 03:33:48 | [hanafubuki-agent-execution](https://crates.io/crates/hanafubuki-agent-execution) | 0.1.0 | 0 | Command execution for hanafubuki-agent: commands, their approvals and backgroun… |
-| 2026-11-09 03:36:22 | [hakonfig-core](https://crates.io/crates/hakonfig-core) | 0.4.2 | 0 | Hakonfig core: read/modify/write AI harness provider config, no Tauri |
-| 2026-11-09 03:36:44 | [hakonfig-cli](https://crates.io/crates/hakonfig-cli) | 0.4.2 | 0 | CLI Hakonfig: kelola config harness tanpa GUI |
-| 2026-11-09 03:43:19 | [tc_iso9797_mac](https://crates.io/crates/tc_iso9797_mac) | 0.1.0 | 0 | The ISO/IEC 9797-1 MAC algorithm 3 (ANSI X9.19 retail MAC) over DES, no_std and… |
-| 2026-11-09 03:43:28 | [tc_kmac](https://crates.io/crates/tc_kmac) | 0.1.0 | 0 | KMAC128 and KMAC256 (NIST SP 800-185), as fixed-length MACs and as KMACXOF, no_… |
-| 2026-11-09 03:43:40 | [tc_skein_mac](https://crates.io/crates/tc_skein_mac) | 0.1.0 | 0 | Skein-MAC with a 256-, 512- or 1024-bit state, no_std and free of unsafe code |
-| 2026-11-09 03:44:08 | [hanafubuki-agent-mcp](https://crates.io/crates/hanafubuki-agent-mcp) | 0.1.0 | 0 | Model Context Protocol client for hanafubuki-agent: servers, transports, OAuth… |
-| 2026-11-09 03:46:06 | [kinu-bench-metrics](https://crates.io/crates/kinu-bench-metrics) | 0.1.0 | 0 | Support crate for Kinu's GPUI fork. |
-| 2026-11-09 03:49:29 | [pavo-protocol](https://crates.io/crates/pavo-protocol) | 0.1.0 | 0 | Wire contract — driver manifests, ViewNode IR, ndjson ops (the public API) |
-| 2026-11-09 03:52:23 | [kinu-derive-refineable](https://crates.io/crates/kinu-derive-refineable) | 0.1.0 | 0 | Support crate for Kinu's GPUI fork. |
-| 2026-11-09 03:52:28 | [kinu-gpui-macros](https://crates.io/crates/kinu-gpui-macros) | 0.1.0 | 0 | Support crate for Kinu's GPUI fork. |
-| 2026-11-09 03:52:34 | [kinu-shared-string](https://crates.io/crates/kinu-shared-string) | 0.1.0 | 0 | Support crate for Kinu's GPUI fork. |
-| 2026-11-09 03:52:38 | [kinu-gpui-util](https://crates.io/crates/kinu-gpui-util) | 0.1.0 | 0 | Support crate for Kinu's GPUI fork. |
-| 2026-11-09 03:54:32 | [hanafubuki-agent-config](https://crates.io/crates/hanafubuki-agent-config) | 0.1.0 | 0 | The hanafubuki-agent configuration: settings, the provider registry and MCP ser… |
-| 2026-11-09 03:55:41 | [kinu-path](https://crates.io/crates/kinu-path) | 0.1.0 | 0 | Support crate for Kinu's GPUI fork. |
-| 2026-11-09 03:56:49 | [swc_next_ecma_formatter](https://crates.io/crates/swc_next_ecma_formatter) | 0.0.0 | 0 | Reserved crate name for the SWC Next ECMAScript formatter |
-| 2026-11-09 03:56:54 | [swc_next_formatter_core](https://crates.io/crates/swc_next_formatter_core) | 0.0.0 | 0 | Reserved crate name for the SWC Next formatter core |
-| 2026-11-09 03:57:07 | [disparate](https://crates.io/crates/disparate) | 0.5.0 | 0 | A diff core: any sequence in, an alignment out, as fast as the hardware allows |
-| 2026-11-09 03:59:59 | [haste-document-storage](https://crates.io/crates/haste-document-storage) | 0.130.0 | 0 | Backend-agnostic document (blob) storage for Haste Health. |
-| 2026-11-09 04:04:57 | [hanafubuki-agent-plugin-execution](https://crates.io/crates/hanafubuki-agent-plugin-execution) | 0.1.0 | 0 | The hanafubuki-agent plugin for command execution tools |
-| 2026-11-09 04:05:18 | [kinu-scheduler](https://crates.io/crates/kinu-scheduler) | 0.1.0 | 0 | Support crate for Kinu's GPUI fork. |
-| 2026-11-09 04:07:04 | [claude-ps](https://crates.io/crates/claude-ps) | 0.1.0 | 0 | List running Claude Code sessions (memory, idle time, status) and kill unused o… |
-| 2026-11-09 04:09:04 | [libthai](https://crates.io/crates/libthai) | 0.1.0 | 0 | Pure Rust port of libthai - Thai Language Support Library |
-| 2026-11-09 04:12:16 | [alpha2-plugin-abi](https://crates.io/crates/alpha2-plugin-abi) | 0.0.0 | 0 | The alpha2-plugin/1 ABI: native tables, wasm names and emit records. Placeholde… |
-| 2026-11-09 04:15:16 | [hanafubuki-agent-plugin-mcp](https://crates.io/crates/hanafubuki-agent-plugin-mcp) | 0.1.0 | 0 | The hanafubuki-agent plugin exposing MCP server tools |
-| 2026-11-09 04:15:18 | [kinu-ztracing-macro](https://crates.io/crates/kinu-ztracing-macro) | 0.1.0 | 0 | Support crate for Kinu's GPUI fork. |
-| 2026-11-09 04:17:55 | [leptoskit_3d](https://crates.io/crates/leptoskit_3d) | 0.0.0 | 0 | GPU 3D scenes for leptoskit: a host-owned scene of glTF models, animation, and… |
-| 2026-11-09 04:17:59 | [leptoskit_animation](https://crates.io/crates/leptoskit_animation) | 0.0.0 | 0 | Animations that platforms run on their own compositor: springs, timing curves,… |
-| 2026-11-09 04:18:04 | [leptoskit_depth](https://crates.io/crates/leptoskit_depth) | 0.0.0 | 0 | Metric depth from one camera picture, on the device: Depth Anything V2 run in p… |
-| 2026-11-09 04:18:07 | [leptoskit_platform](https://crates.io/crates/leptoskit_platform) | 0.0.0 | 0 | Contracts for leptoskit platform extension crates: manifests, capability matric… |
-| 2026-11-09 04:18:10 | [leptoskit_platform_harmonyos](https://crates.io/crates/leptoskit_platform_harmonyos) | 0.0.0 | 0 | HarmonyOS / ArkUI platform extension for leptoskit: host templates and capabili… |
-| 2026-11-09 04:18:16 | [redact-token-store](https://crates.io/crates/redact-token-store) | 0.12.7 | 0 | Scoped, encrypted token interning and selective resolution |
+| 2026-11-09 04:19:51 | [nativelite-ipc](https://crates.io/crates/nativelite-ipc) | 0.1.0 | 0 | A local, same-user, one-line-request/one-line-reply control channel: a Windows… |
+| 2026-11-09 04:20:02 | [leptoskit_platform_oculus](https://crates.io/crates/leptoskit_platform_oculus) | 0.0.0 | 0 | Experimental Meta Quest / Oculus platform extension for leptoskit: host stubs a… |
+| 2026-11-09 04:23:54 | [yolow64](https://crates.io/crates/yolow64) | 0.1.0 | 0 | Base64 encoding and decoding with SIMD acceleration |
+| 2026-11-09 04:25:33 | [hanafubuki-agent-runtime](https://crates.io/crates/hanafubuki-agent-runtime) | 0.1.0 | 0 | The contained Tokio runtime hanafubuki-agent runs on |
+| 2026-11-09 04:26:14 | [markdown-tags](https://crates.io/crates/markdown-tags) | 0.4.0 | 0 | Inline #tag lexing for Markdown note bodies, in three dialects: Obsidian's rule… |
+| 2026-11-09 04:31:51 | [leptoskit_plugin_age_range](https://crates.io/crates/leptoskit_plugin_age_range) | 0.0.0 | 0 | Declared age-range prompts for LeptosKit. |
+| 2026-11-09 04:35:50 | [hanafubuki-agent-skills](https://crates.io/crates/hanafubuki-agent-skills) | 0.1.0 | 0 | Skills for hanafubuki-agent: the catalog, packages and the bundled system Skills |
+| 2026-11-09 04:40:32 | [ebay-sell](https://crates.io/crates/ebay-sell) | 0.1.0-alpha.1 | 0 | Unofficial Rust client for eBay's Sell, Commerce and Developer REST APIs. Not a… |
+| 2026-11-09 04:43:25 | [plughost-capture](https://crates.io/crates/plughost-capture) | 0.2.2 | 0 | Reads the region of a display where a plughost remote editor shows, with only i… |
+| 2026-11-09 04:45:02 | [leptoskit_plugin_app_integrity](https://crates.io/crates/leptoskit_plugin_app_integrity) | 0.0.0 | 0 | Platform app attestation tokens for LeptosKit. |
+| 2026-11-09 04:45:26 | [ados-term](https://crates.io/crates/ados-term) | 0.1.0 | 0 | Full-screen terminal toolkit for installers and deploy wizards: amber-on-charco… |
+| 2026-11-09 04:46:08 | [hanafubuki-agent-kernel](https://crates.io/crates/hanafubuki-agent-kernel) | 0.1.0 | 0 | The hanafubuki-agent kernel: sessions, the turn loop, tool planning and context… |
+| 2026-11-09 04:51:00 | [mobicat-core](https://crates.io/crates/mobicat-core) | 0.1.1 | 0 | Log entries, store, query language and crash grouping for mobicat |
+| 2026-11-09 04:51:03 | [mobicat-sources](https://crates.io/crates/mobicat-sources) | 0.1.1 | 0 | Log sources for mobicat: adb logcat, iOS simulator log stream, files |
+| 2026-11-09 04:51:03 | [mobicat-tui](https://crates.io/crates/mobicat-tui) | 0.1.1 | 0 | Terminal UI for mobicat |
+| 2026-11-09 04:51:05 | [mobicat](https://crates.io/crates/mobicat) | 0.1.1 | 0 | One log viewer for Android and iOS: your app's logs only, crashes with stack tr… |
+| 2026-11-09 04:56:27 | [hanafubuki-agent-history](https://crates.io/crates/hanafubuki-agent-history) | 0.1.0 | 0 | Conversation history for hanafubuki-agent: JSONL rollouts and their SQLite index |
+| 2026-11-09 04:58:10 | [leptoskit_plugin_app_shortcuts](https://crates.io/crates/leptoskit_plugin_app_shortcuts) | 0.0.0 | 0 | Home-screen shortcuts, dock items, and jump-list tasks for LeptosKit. |
+| 2026-11-09 05:06:03 | [base-benchmark-load](https://crates.io/crates/base-benchmark-load) | 0.1.0 | 0 | HTTP load generator for Base benchmarks |
+| 2026-11-09 05:06:21 | [waos-webgpu-host](https://crates.io/crates/waos-webgpu-host) | 0.1.0 | 0 | The WebGPU host the engine serves wasi:webgpu with, over wgpu-core: the wasi-gf… |
+| 2026-11-09 05:06:44 | [hanafubuki-agent-web-search](https://crates.io/crates/hanafubuki-agent-web-search) | 0.1.0 | 0 | Web search and fetch providers for hanafubuki-agent |
+| 2026-11-09 05:06:44 | [hanafubuki-agent-workspace-fs](https://crates.io/crates/hanafubuki-agent-workspace-fs) | 0.1.0 | 0 | Workspace file access for hanafubuki-agent: reads, edits, search and atomic wri… |
+| 2026-11-09 05:07:50 | [waos](https://crates.io/crates/waos) | 0.1.0 | 0 | WaOS's engine, for any app to embed: runs programs, WASI components written wit… |
+| 2026-11-09 05:08:16 | [waft-embedder-wasdk](https://crates.io/crates/waft-embedder-wasdk) | 0.1.0 | 0 | Waft over wasdk: Waft's embedder for a program, the platform it sees over the S… |
+| 2026-11-09 05:11:17 | [xtcc](https://crates.io/crates/xtcc) | 0.1.0 | 0 | Temporary macOS TCC development controls |
+| 2026-11-09 05:11:22 | [leptoskit_plugin_asset](https://crates.io/crates/leptoskit_plugin_asset) | 0.0.0 | 0 | Packaged asset name resolution for LeptosKit. |
+| 2026-11-09 05:11:25 | [leptoskit_plugin_audio](https://crates.io/crates/leptoskit_plugin_audio) | 0.0.0 | 0 | Sound playback for LeptosKit applications: looping music, effects, fades and fi… |
+| 2026-11-09 05:16:34 | [machopo](https://crates.io/crates/machopo) | 0.1.0 | 0 | A WebAssembly browser from the future |
+| 2026-11-09 05:17:01 | [hanafubuki-agent-plugin-web](https://crates.io/crates/hanafubuki-agent-plugin-web) | 0.1.0 | 0 | The hanafubuki-agent plugin for web search and fetch tools |
 
 ## Data source
 

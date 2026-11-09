@@ -1,0 +1,30 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-09T04:19:51.643204Z,nativelite-ipc,0.1.0,0,0,https://github.com/nativelite/ipc,"A local, same-user, one-line-request/one-line-reply control channel: a Windows named pipe or a unix socket, served non-blocking from a run loop, with the hardening a hostile client made necessary. St…"
+2026-11-09T04:20:02.541437Z,leptoskit_platform_oculus,0.0.0,0,0,https://github.com/leptoskit/leptoskit,Experimental Meta Quest / Oculus platform extension for leptoskit: host stubs and capability manifest.
+2026-11-09T04:23:54.849143Z,yolow64,0.1.0,0,0,https://github.com/YOLOW92/yolow64,Base64 encoding and decoding with SIMD acceleration
+2026-11-09T04:25:33.468335Z,hanafubuki-agent-runtime,0.1.0,0,0,https://github.com/licyk/hanafubuki-agent,The contained Tokio runtime hanafubuki-agent runs on
+2026-11-09T04:26:14.348591Z,markdown-tags,0.4.0,0,0,https://github.com/osdlc/osdlc,"Inline #tag lexing for Markdown note bodies, in three dialects: Obsidian's rule (the default), a Unicode one that scans everything, and an ASCII one that skips code spans and fences and also accepts…"
+2026-11-09T04:31:51.561165Z,leptoskit_plugin_age_range,0.0.0,0,0,https://github.com/leptoskit/leptoskit,Declared age-range prompts for LeptosKit.
+2026-11-09T04:35:50.629873Z,hanafubuki-agent-skills,0.1.0,0,0,https://github.com/licyk/hanafubuki-agent,"Skills for hanafubuki-agent: the catalog, packages and the bundled system Skills"
+2026-11-09T04:40:32.172071Z,ebay-sell,0.1.0-alpha.1,0,0,https://github.com/fdhoff/api-sdks,"Unofficial Rust client for eBay's Sell, Commerce and Developer REST APIs. Not affiliated with, endorsed by or sponsored by eBay Inc."
+2026-11-09T04:43:25.768051Z,plughost-capture,0.2.2,0,0,https://github.com/emulette/plughost,"Reads the region of a display where a plughost remote editor shows, with only its helper's windows"
+2026-11-09T04:45:02.653142Z,leptoskit_plugin_app_integrity,0.0.0,0,0,https://github.com/leptoskit/leptoskit,Platform app attestation tokens for LeptosKit.
+2026-11-09T04:45:26.42208Z,ados-term,0.1.0,0,0,https://github.com/altnautica/ADOSDroneAgent,"Full-screen terminal toolkit for installers and deploy wizards: amber-on-charcoal theme with color tiers, frame compositor, raw tty backends, live step-progress renderers and a streaming command runn…"
+2026-11-09T04:46:08.145982Z,hanafubuki-agent-kernel,0.1.0,0,0,https://github.com/licyk/hanafubuki-agent,"The hanafubuki-agent kernel: sessions, the turn loop, tool planning and context assembly"
+2026-11-09T04:51:00.75172Z,mobicat-core,0.1.1,0,0,https://github.com/yamamoto7/mobicat,"Log entries, store, query language and crash grouping for mobicat"
+2026-11-09T04:51:03.234203Z,mobicat-sources,0.1.1,0,0,https://github.com/yamamoto7/mobicat,"Log sources for mobicat: adb logcat, iOS simulator log stream, files"
+2026-11-09T04:51:03.88649Z,mobicat-tui,0.1.1,0,0,https://github.com/yamamoto7/mobicat,Terminal UI for mobicat
+2026-11-09T04:51:05.48366Z,mobicat,0.1.1,0,0,https://github.com/yamamoto7/mobicat,"One log viewer for Android and iOS: your app's logs only, crashes with stack traces, the same keys and filters on both"
+2026-11-09T04:56:27.071341Z,hanafubuki-agent-history,0.1.0,0,0,https://github.com/licyk/hanafubuki-agent,Conversation history for hanafubuki-agent: JSONL rollouts and their SQLite index
+2026-11-09T04:58:10.240774Z,leptoskit_plugin_app_shortcuts,0.0.0,0,0,https://github.com/leptoskit/leptoskit,"Home-screen shortcuts, dock items, and jump-list tasks for LeptosKit."
+2026-11-09T05:06:03.153786Z,base-benchmark-load,0.1.0,0,0,https://github.com/base-rs/base-benchmark-load,HTTP load generator for Base benchmarks
+2026-11-09T05:06:21.861768Z,waos-webgpu-host,0.1.0,0,0,,"The WebGPU host the engine serves wasi:webgpu with, over wgpu-core: the wasi-gfx runtime's wasi-webgpu-wasmtime, modified."
+2026-11-09T05:06:44.425925Z,hanafubuki-agent-web-search,0.1.0,0,0,https://github.com/licyk/hanafubuki-agent,Web search and fetch providers for hanafubuki-agent
+2026-11-09T05:06:44.945193Z,hanafubuki-agent-workspace-fs,0.1.0,0,0,https://github.com/licyk/hanafubuki-agent,"Workspace file access for hanafubuki-agent: reads, edits, search and atomic writes"
+2026-11-09T05:07:50.295183Z,waos,0.1.0,0,0,,"WaOS's engine, for any app to embed: runs programs, WASI components written with wasdk, and serves them wasdk:platform and wasdk:media through its capabilities and the embedding app's shell."
+2026-11-09T05:08:16.910781Z,waft-embedder-wasdk,0.1.0,0,0,,"Waft over wasdk: Waft's embedder for a program, the platform it sees over the SDK's views, screens, system, windows, lifecycle, fonts, clipboard, menus, file dialogs, opener, notifications, media pla…"
+2026-11-09T05:11:17.471204Z,xtcc,0.1.0,0,0,https://github.com/AprilNEA/xtcc,Temporary macOS TCC development controls
+2026-11-09T05:11:22.158886Z,leptoskit_plugin_asset,0.0.0,0,0,https://github.com/leptoskit/leptoskit,Packaged asset name resolution for LeptosKit.
+2026-11-09T05:11:25.164127Z,leptoskit_plugin_audio,0.0.0,0,0,https://github.com/leptoskit/leptoskit,"Sound playback for LeptosKit applications: looping music, effects, fades and filters."
+2026-11-09T05:16:34.605185Z,machopo,0.1.0,0,0,,A WebAssembly browser from the future
+2026-11-09T05:17:01.896822Z,hanafubuki-agent-plugin-web,0.1.0,0,0,https://github.com/licyk/hanafubuki-agent,The hanafubuki-agent plugin for web search and fetch tools
