@@ -1,0 +1,30 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-09T18:23:10.245017Z,anectico,0.0.0,0,0,,Reserved for the official Anectico SDK; 1.0.0 is the first release.
+2026-11-09T18:23:13.516357Z,anectico-otel,0.0.0,0,0,,Reserved for the official Anectico SDK; 1.0.0 is the first release.
+2026-11-09T18:30:37.075683Z,kyv,0.1.0,0,0,https://github.com/amishbni/kyv,Key-value Store
+2026-11-09T18:35:49.850436Z,aimodels,0.1.0,0,0,https://github.com/mitkury/aimodels,"A collection of AI model specifications across different providers, embedded in Rust"
+2026-11-09T18:41:44.729598Z,s0_const,0.1.2,0,0,https://github.com/webc-site/sync0,sync0 零字符串二进制线协议常量、数值枚举原语与城市级地域亲和度定义
+2026-11-09T18:42:16.927071Z,s0_codec,0.1.2,0,0,https://github.com/webc-site/sync0,sync0 零分配块级 Zstd 编解码、双抽样自愈探测与在线吞吐自适应选级库
+2026-11-09T18:42:32.432881Z,s0_conf,0.1.2,0,0,https://github.com/webc-site/sync0,sync0 带宽速率解析、资源定位符与 NestedText (.nt) 权限配置解析库
+2026-11-09T18:42:49.011509Z,s0_fs,0.1.2,0,0,https://github.com/webc-site/sync0,sync0 基于 compio 的异步批量文件 I/O、小文件聚合流与原子暂存提交引擎
+2026-11-09T18:43:19.40216Z,s0_wire,0.1.2,0,0,https://github.com/webc-site/sync0,sync0 紧凑二进制线协议、TACK 双层确认帧与 Ed25519 自签名节点名片编解码库
+2026-11-09T18:45:14.950396Z,axa-problem-details-for-http-apis,0.1.0,0,0,https://github.com/publicprojects-io/axa/,RFC 9457 problem details responses for Axum services.
+2026-11-09T18:45:19.266023Z,axa-accepts-version-negotiation,0.2.0,0,0,https://github.com/publicprojects-io/axa/,Header-based API version negotiation for Axum services.
+2026-11-09T18:45:23.307723Z,axa-request-rate-limit,0.2.0,0,0,https://github.com/publicprojects-io/axa/,"In-process request limits, per client or per key, and failed-login lockout for Axum services."
+2026-11-09T18:45:28.82785Z,axa-idempotency-key,0.2.1,0,0,https://github.com/publicprojects-io/axa/,Idempotency-Key handling over Postgres for Axum services.
+2026-11-09T18:45:32.367751Z,axa-postgres-job-queue,0.2.0,0,0,https://github.com/publicprojects-io/axa/,"A Postgres job queue, worker pool, and recurring schedules for Axum services."
+2026-11-09T18:45:50.460497Z,s0_peer,0.1.2,0,0,https://github.com/webc-site/sync0,sync0 全对称 P2P 节点引擎、Dragonfly 条带化调度与动态折半抢占 Work-Stealing 库
+2026-11-09T18:48:42.258488Z,crate2d,0.1.0,0,0,,Reservation for a box2d rust version
+2026-11-09T18:50:09.415141Z,sigillo-core,0.2.0,0,0,https://gitlab.com/cancelleria/sigillo,Turns a CycloneDX or SPDX SBOM into a Cyber Resilience Act dossier
+2026-11-09T18:50:11.922703Z,sigillo,0.2.0,0,0,https://gitlab.com/cancelleria/sigillo,Drop your SBOM. Get your CRA dossier. Nothing leaves your machine.
+2026-11-09T18:52:46.848735Z,zclap,0.1.0,0,0,https://github.com/LIghtJUNction/zclap,"Small, allocation-free command-line parsing with borrowed events"
+2026-11-09T18:56:29.204777Z,rcct,0.1.0,0,0,https://github.com/Muktidaya/rcct,Pure-Rust geometry foundations for an independent CAD kernel
+2026-11-09T18:59:02.625883Z,residue,0.0.12,0,0,https://github.com/whiteheap/residue-cli,"Reclaim your storage from Git worktrees, automatically and safely. residue removes a worktree only when nothing in it would be lost, whichever coding agent left it."
+2026-11-09T19:01:03.591567Z,crushlzmesh,0.0.0,0,0,,Placeholder name reservation package for crush-lz tools. This package will contain an LZMESH codec.
+2026-11-09T19:01:06.098027Z,crushlzraven,0.0.0,0,0,,Placeholder name reservation package for crush-lz tools. This package will contain an LZRAVEN codec.
+2026-11-09T19:01:08.34688Z,lzmesh,0.0.0,0,0,,Placeholder name reservation package for crush-lz tools. This package will contain an LZMESH codec.
+2026-11-09T19:01:10.294583Z,lzraven,0.0.0,0,0,,Placeholder name reservation package for crush-lz tools. This package will contain an LZRAVEN codec.
+2026-11-09T19:01:56.675538Z,h2-forked,0.4.20,0,0,https://github.com/claviron/h2,HTTP/2 with Tokio APIs and a buffer-driven client
+2026-11-09T19:05:15.328651Z,tunnelward-policy,0.0.12,0,0,https://github.com/sebastienrousseau/tunnelward,"Tunnelward per-tool policy: which agent may make which MCP call, given the evidence of who sent it"
+2026-11-09T19:10:01.127636Z,xbl,0.1.0,0,0,https://github.com/KlugesBuch1/xbox-live-protocol,Xbox Live authentication and proof-of-possession signing
+2026-11-09T19:12:52.205029Z,chaincast,0.1.0,0,0,,small macro to perform chained ::from execution
