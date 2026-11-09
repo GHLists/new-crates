@@ -1,0 +1,25 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-09T17:19:54.417019Z,dungeonctl-audio,0.2.0,0,0,https://github.com/mebutkinky/dungeonctl,Control smart electronic toys created by DG-LAB
+2026-11-09T17:19:56.800505Z,cubek-linear-recurrence,0.4.0-pre.2,0,0,https://github.com/tracel-ai/cubek/tree/main/crates/cubek-linear-recurrence,CubeK: Linear Recurrence Kernels
+2026-11-09T17:20:06.237358Z,dungeonctl-utils,0.2.0,0,0,https://github.com/mebutkinky/dungeonctl,Control smart electronic toys created by DG-LAB
+2026-11-09T17:20:18.253342Z,cubek-swiglu,0.4.0-pre.2,0,0,https://github.com/tracel-ai/cubek/tree/main/crates/cubek-swiglu,CubeK: SwiGLU Kernels
+2026-11-09T17:20:25.776201Z,dungeonctl-device,0.2.0,0,0,https://github.com/mebutkinky/dungeonctl,Control smart electronic toys created by DG-LAB
+2026-11-09T17:20:38.977783Z,dungeonctl-graph,0.2.0,0,0,https://github.com/mebutkinky/dungeonctl,Control smart electronic toys created by DG-LAB
+2026-11-09T17:20:51.814347Z,langfuse-rust-sdk,0.2.2,0,0,https://github.com/lep511/langfuse-rust-sdk,Rust SDK for the Langfuse LLM observability API
+2026-11-09T17:21:17.266173Z,melipayamak,0.1.0,0,0,https://github.com/kfv/melipayamak-rs,Unofficial client for the Melipayamak (melipayamak.com) SMS REST API
+2026-11-09T17:26:49.79031Z,dungeonctl-cli,0.2.0,0,0,https://github.com/mebutkinky/dungeonctl,Control smart electronic toys created by DG-LAB
+2026-11-09T17:27:25.80353Z,lathe_extension_api,0.1.0,0,0,https://github.com/paterschris/lathe,"Lathe-only APIs for Lathe extensions, used alongside zed_extension_api"
+2026-11-09T17:27:37.681255Z,ltcodes,0.1.0,0,0,https://github.com/ello-lithuania/ltcodes,"Validate Lithuanian personal codes, company codes, VAT numbers and IBANs"
+2026-11-09T17:30:39.310406Z,ratatui-ascii-art,0.1.0,0,0,,"Dynamically rendered, colorful ASCII art for the terminal."
+2026-11-09T17:31:41.460397Z,prumo,0.1.1,0,0,https://github.com/kevinraymond/prumo,"Build analyzer for LaTeX: timing per package, which package loaded which, fonts, and the TeX Live packages a document needs"
+2026-11-09T17:33:14.707808Z,zhex,0.1.0,0,0,https://github.com/LIghtJUNction/zhex,"Zero-dependency, no_std hexadecimal encoding and decoding into caller-owned buffers"
+2026-11-09T17:44:03.656671Z,pzyp,0.1.1,0,0,https://github.com/chip-davis/pzyp,"A prettier front-end for zypper, styled after all of your favorite package managers."
+2026-11-09T17:45:16.419546Z,qr-utils,0.1.0,0,0,,QR tools to use in the CLI
+2026-11-09T17:53:58.907419Z,optimizam,0.1.0,0,0,https://github.com/hillegass/optimizam,"Linear, mixed-integer, constraint, and global nonlinear optimization in pure Rust, as a library and a command"
+2026-11-09T18:02:45.995539Z,pam_nfc,0.2.1,0,0,https://git.ihate.tech/kerkmann/pam_nfc,Use an NFC tag to authenticate through PAM.
+2026-11-09T18:04:52.685223Z,nazuchem-ir,0.1.0,0,0,https://github.com/Ameyanagi/nazuchem,Shared naming vocabulary and versioned molecular structure IR for nazuchem
+2026-11-09T18:05:01.331746Z,nazuchem-kernel,0.1.0,0,0,https://github.com/Ameyanagi/nazuchem,"Internal molecular perception kernel for nazuchem, adapted from RDKit and centres"
+2026-11-09T18:05:17.317148Z,nazuchem-n2s,0.1.0,0,0,https://github.com/Ameyanagi/nazuchem,A native Rust port of OPSIN chemical name interpretation
+2026-11-09T18:05:49.168032Z,nazuchem-s2n,0.1.0,0,0,https://github.com/Ameyanagi/nazuchem,"Structure-to-name library begun as a port of openclatura 0.4.3, extended in ReShiki"
+2026-11-09T18:06:21.224342Z,nazuchem,0.1.0,0,0,https://github.com/Ameyanagi/nazuchem,Chemical naming with a Rust port of OPSIN and an extended openclatura 0.4.3 port
+2026-11-09T18:09:56.915239Z,irpc-opentelemetry,0.1.0,0,0,https://github.com/n0-computer/irpc,OpenTelemetry span propagation for irpc
