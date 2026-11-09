@@ -1,0 +1,16 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-09T07:24:01.625856Z,leptoskit_plugin_diagnostics,0.0.0,0,0,https://github.com/leptoskit/leptoskit,Startup and interaction diagnostic spans for LeptosKit.
+2026-11-09T07:24:34.031942Z,base-http-content,0.4.0,0,0,https://github.com/base-rs/base-http,"Read request bodies into base-web-content declarations, streaming uploads to storage"
+2026-11-09T07:31:17.135683Z,pagesift-base64,1.2.3,0,0,https://github.com/YOLOW92/pagesift,Base64 encoding and decoding for PageSift
+2026-11-09T07:37:22.864642Z,leptoskit_plugin_home_widgets,0.0.0,0,0,https://github.com/leptoskit/leptoskit,Home-screen and desktop widget snapshots for LeptosKit.
+2026-11-09T07:39:25.399908Z,arabica-runner-remote,0.13.0,0,0,,Loop–Runner Protocol: remote runner client and runner host over WebSocket + mTLS
+2026-11-09T07:40:49.904528Z,pdk-util,0.1.0,0,0,https://github.com/LonlyWinter/pdk-util,PDK Util in Rust
+2026-11-09T07:44:21.173719Z,spectre-proto,0.1.0,0,0,https://github.com/minexxa/spectre,"Spectre proxy protocol core: wire format, Brutal congestion control, JLS obfuscation helpers, and UDP framing"
+2026-11-09T07:49:52.149467Z,lib-unknown,0.3.1,0,0,https://github.com/AlbusPhos/lib-unknown,"A `no_std` library with compile-time randomized system calls, random number generation, cryptography, and encoding."
+2026-11-09T07:50:28.98347Z,leptoskit_plugin_image_picker,0.0.0,0,0,https://github.com/leptoskit/leptoskit,Bounded photo-library image and video picking with temporary URI ownership for LeptosKit.
+2026-11-09T07:50:32.78869Z,leptoskit_plugin_live_activities,0.0.0,0,0,https://github.com/leptoskit/leptoskit,iOS Live Activities and Dynamic Island updates for LeptosKit.
+2026-11-09T07:53:09.218742Z,forthling-extras,0.2.5,0,0,https://github.com/DeSchaker/forthling,"Small building blocks for forthling: CSV, encoding, hash, date and URL words (and more to come), no dependencies"
+2026-11-09T08:03:42.773535Z,leptoskit_plugin_live_photo,0.0.0,0,0,https://github.com/leptoskit/leptoskit,Host-owned Live Photo sessions with a LivePhoto surface for LeptosKit.
+2026-11-09T08:11:09.704464Z,arabic-names-parser,0.1.0,0,0,https://github.com/usamassem/arabic-names-parser,"Low-level, I/O-agnostic normalization and decomposition of Arabic personal names into prefix, known-name, and postfix components"
+2026-11-09T08:16:25.68231Z,brokk-tree-sitter-hocon,0.1.0,0,0,https://github.com/BrokkAi/tree-sitter-hocon,Brokk-maintained HOCON grammar for the tree-sitter parsing library
+2026-11-09T08:17:33.932162Z,leptoskit_plugin_mail_composer,0.0.0,0,0,https://github.com/leptoskit/leptoskit,Owned-window mail composer presentation for LeptosKit.

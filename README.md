@@ -8,32 +8,29 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-09 07:18 UTC
+## Latest list — 2026-11-09 08:19 UTC
 
-New crates published between 2026-11-09 06:19 UTC and 2026-11-09 07:18 UTC.
+New crates published between 2026-11-09 07:18 UTC and 2026-11-09 08:19 UTC.
 
-[Full CSV](data/new-crates-2026-11-09T07-18-59-429692Z.csv)
+[Full CSV](data/new-crates-2026-11-09T08-19-18-338805Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-09 06:19:14 | [aethelgard-cli](https://crates.io/crates/aethelgard-cli) | 0.1.0 | 0 | The aethelgard binary: JSON on stdin and stdout, documented exit codes. |
-| 2026-11-09 06:23:52 | [kinu_ui](https://crates.io/crates/kinu_ui) | 0.1.1 | 0 | Unstyled UI primitives for Kinu. |
-| 2026-11-09 06:23:58 | [kinu-gpui-linux](https://crates.io/crates/kinu-gpui-linux) | 0.1.1 | 0 | Support crate for Kinu's GPUI fork. |
-| 2026-11-09 06:24:25 | [kinu-gpui-macos](https://crates.io/crates/kinu-gpui-macos) | 0.1.1 | 0 | Support crate for Kinu's GPUI fork. |
-| 2026-11-09 06:25:45 | [kinu-gpui-platform](https://crates.io/crates/kinu-gpui-platform) | 0.1.1 | 0 | Platform entry points for Kinu's GPUI fork. |
-| 2026-11-09 06:28:30 | [marketing](https://crates.io/crates/marketing) | 0.1.0 | 0 | Marketing formulas and models in Rust, proven against reference answers |
-| 2026-11-09 06:30:48 | [leptoskit_plugin_cellular](https://crates.io/crates/leptoskit_plugin_cellular) | 0.0.0 | 0 | Carrier, MCC/MNC, radio generation, and VoIP capability snapshots for LeptosKit. |
-| 2026-11-09 06:30:51 | [leptoskit_plugin_contacts](https://crates.io/crates/leptoskit_plugin_contacts) | 0.0.0 | 0 | Bounded contact permission, pick-one, and query for LeptosKit. |
-| 2026-11-09 06:44:18 | [leptoskit_plugin_deep_link](https://crates.io/crates/leptoskit_plugin_deep_link) | 0.0.0 | 0 | Inbound URL and file activation queues for LeptosKit desktop hosts. |
-| 2026-11-09 06:51:01 | [quprs](https://crates.io/crates/quprs) | 0.15.0-rc.1 | 0 | Native path-sum reduction and equivalence checking for quantum circuits |
-| 2026-11-09 06:51:51 | [mercurio-plugin](https://crates.io/crates/mercurio-plugin) | 0.1.0 | 0 | Write plugins for the mercurio MQTT broker as WebAssembly components |
-| 2026-11-09 06:57:36 | [leptoskit_plugin_device_keys](https://crates.io/crates/leptoskit_plugin_device_keys) | 0.0.0 | 0 | Hardware-bound signing keys gated by biometrics or the device passcode for Lept… |
-| 2026-11-09 07:10:53 | [leptoskit_plugin_device_motion](https://crates.io/crates/leptoskit_plugin_device_motion) | 0.0.0 | 0 | Fused device-motion attitude, user acceleration, and rotation-rate readings for… |
-| 2026-11-09 07:10:57 | [leptoskit_plugin_device_policy](https://crates.io/crates/leptoskit_plugin_device_policy) | 0.0.0 | 0 | Explicit Android Device Policy Manager capabilities for LeptosKit. |
-| 2026-11-09 07:13:13 | [teams-tui](https://crates.io/crates/teams-tui) | 0.1.6 | 0 | Terminal User Interface for Microsoft Teams using Microsoft Graph API |
-| 2026-11-09 07:13:54 | [hashmap_get_many_mut](https://crates.io/crates/hashmap_get_many_mut) | 0.1.0 | 0 | Get mutable references to values for a runtime-length list of keys in a std Has… |
-| 2026-11-09 07:15:50 | [ironbark-serve](https://crates.io/crates/ironbark-serve) | 0.4.0 | 0 | OpenAI-compatible HTTP server for ironbark models |
-| 2026-11-09 07:18:29 | [elvcrypt](https://crates.io/crates/elvcrypt) | 1.2.0 | 0 | Encryption utility |
+| 2026-11-09 07:24:01 | [leptoskit_plugin_diagnostics](https://crates.io/crates/leptoskit_plugin_diagnostics) | 0.0.0 | 0 | Startup and interaction diagnostic spans for LeptosKit. |
+| 2026-11-09 07:24:34 | [base-http-content](https://crates.io/crates/base-http-content) | 0.4.0 | 0 | Read request bodies into base-web-content declarations, streaming uploads to st… |
+| 2026-11-09 07:31:17 | [pagesift-base64](https://crates.io/crates/pagesift-base64) | 1.2.3 | 0 | Base64 encoding and decoding for PageSift |
+| 2026-11-09 07:37:22 | [leptoskit_plugin_home_widgets](https://crates.io/crates/leptoskit_plugin_home_widgets) | 0.0.0 | 0 | Home-screen and desktop widget snapshots for LeptosKit. |
+| 2026-11-09 07:39:25 | [arabica-runner-remote](https://crates.io/crates/arabica-runner-remote) | 0.13.0 | 0 | Loop–Runner Protocol: remote runner client and runner host over WebSocket + mTLS |
+| 2026-11-09 07:40:49 | [pdk-util](https://crates.io/crates/pdk-util) | 0.1.0 | 0 | PDK Util in Rust |
+| 2026-11-09 07:44:21 | [spectre-proto](https://crates.io/crates/spectre-proto) | 0.1.0 | 0 | Spectre proxy protocol core: wire format, Brutal congestion control, JLS obfusc… |
+| 2026-11-09 07:49:52 | [lib-unknown](https://crates.io/crates/lib-unknown) | 0.3.1 | 0 | A `no_std` library with compile-time randomized system calls, random number gen… |
+| 2026-11-09 07:50:28 | [leptoskit_plugin_image_picker](https://crates.io/crates/leptoskit_plugin_image_picker) | 0.0.0 | 0 | Bounded photo-library image and video picking with temporary URI ownership for… |
+| 2026-11-09 07:50:32 | [leptoskit_plugin_live_activities](https://crates.io/crates/leptoskit_plugin_live_activities) | 0.0.0 | 0 | iOS Live Activities and Dynamic Island updates for LeptosKit. |
+| 2026-11-09 07:53:09 | [forthling-extras](https://crates.io/crates/forthling-extras) | 0.2.5 | 0 | Small building blocks for forthling: CSV, encoding, hash, date and URL words (a… |
+| 2026-11-09 08:03:42 | [leptoskit_plugin_live_photo](https://crates.io/crates/leptoskit_plugin_live_photo) | 0.0.0 | 0 | Host-owned Live Photo sessions with a LivePhoto surface for LeptosKit. |
+| 2026-11-09 08:11:09 | [arabic-names-parser](https://crates.io/crates/arabic-names-parser) | 0.1.0 | 0 | Low-level, I/O-agnostic normalization and decomposition of Arabic personal name… |
+| 2026-11-09 08:16:25 | [brokk-tree-sitter-hocon](https://crates.io/crates/brokk-tree-sitter-hocon) | 0.1.0 | 0 | Brokk-maintained HOCON grammar for the tree-sitter parsing library |
+| 2026-11-09 08:17:33 | [leptoskit_plugin_mail_composer](https://crates.io/crates/leptoskit_plugin_mail_composer) | 0.0.0 | 0 | Owned-window mail composer presentation for LeptosKit. |
 
 ## Data source
 
