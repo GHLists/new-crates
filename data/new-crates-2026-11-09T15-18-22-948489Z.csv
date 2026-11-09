@@ -1,0 +1,50 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-09T14:22:25.984798Z,agntcy-slim-mcp-transport,0.1.0,0,0,https://github.com/agntcy/slim-mcp-rust,SLIM transport for the MCP Rust SDK (rmcp)
+2026-11-09T14:23:05.979864Z,pod-release,0.0.0,0,0,https://github.com/PodUtils/podcrates,"Release index schema, writer and verifier for PodUtils tools"
+2026-11-09T14:25:12.060422Z,cargo-iu_ui,0.2.3,0,0,https://github.com/eto0202/michiu,CLI tool for iu_ui accessible UI component catalog
+2026-11-09T14:25:57.081981Z,visualdebug-core,0.1.0,0,0,https://github.com/louispt1/visualdebug,"Trace ingestion, focus, summaries and annotations for visualdebug"
+2026-11-09T14:26:04.114021Z,visualdebug-viewer,0.1.0,0,0,https://github.com/louispt1/visualdebug,Bundles visualdebug traces into a self-contained HTML viewer
+2026-11-09T14:26:14.179716Z,ibus-engine,0.3.0,0,0,https://github.com/geosp/ibus-hold,"Write ibus input method engines in pure rust, without GObject"
+2026-11-09T14:26:14.25704Z,visualdebug,0.1.0,0,0,https://github.com/louispt1/visualdebug,"Record how code executes, scrub through it in a self-contained HTML viewer, annotated for PR review"
+2026-11-09T14:26:46.328298Z,fastmail,0.2.0,0,0,https://github.com/johnagan/fastmail-cli,"Command-line access to Fastmail: mail, contacts, calendars, files, notes, and more"
+2026-11-09T14:27:44.290527Z,ibus-hold,0.1.1,0,0,https://github.com/geosp/ibus-hold,macOS-style press-and-hold accent picker for ibus
+2026-11-09T14:28:33.928Z,outworld,0.0.1,0,0,https://github.com/davidparkercodes/outworld,"Privacy gateway that masks personal data before it reaches cloud AI. Name reserved, project coming soon."
+2026-11-09T14:28:36.463555Z,claustral,0.0.1,0,0,https://github.com/davidparkercodes/claustral,"Policy-bound encryption and access control for data used by AI. Name reserved, project coming soon."
+2026-11-09T14:33:16.62736Z,pod-unit,0.0.0,0,0,https://github.com/PodUtils/podcrates,"Hardened service units (systemd, launchd, Windows) for PodUtils tools"
+2026-11-09T14:34:03.487555Z,sitesquatch-edge,0.2.7,0,0,https://github.com/reverentgeek/sitesquatch,An Edge.js-compatible template engine for Rust
+2026-11-09T14:34:05.155283Z,sitesquatch,0.2.7,0,0,https://github.com/reverentgeek/sitesquatch,"A fast, pluggable static site generator"
+2026-11-09T14:34:07.022752Z,sitesquatch-js,0.2.7,0,0,https://github.com/reverentgeek/sitesquatch,"JavaScript site configuration (ssqch.config.js) for SiteSquatch, on QuickJS"
+2026-11-09T14:34:07.428584Z,sitesquatch-plugin-assets,0.2.7,0,0,https://github.com/reverentgeek/sitesquatch,Asset fingerprinting for SiteSquatch: content-hashed file names and rewritten references
+2026-11-09T14:34:07.770792Z,sitesquatch-plugin-image,0.2.7,0,0,https://github.com/reverentgeek/sitesquatch,Responsive image transform for SiteSquatch
+2026-11-09T14:35:04.437722Z,muster-mcp,0.12.0,0,0,https://github.com/sagoez/muster,Internal crate of muster-workspace: the MCP server over stdio. No stable API.
+2026-11-09T14:36:11.098337Z,aigifmaker,0.1.0,0,0,https://github.com/hanshs474/aigifmaker-rs,Official SDK for AI GIF Maker (aigifmaker.ai): turn text into animated GIFs.
+2026-11-09T14:40:30.525922Z,crash-sim,0.1.0,0,0,https://github.com/IBEASTMANISH/crash-sim,"Deterministic disk fault-injection and chaos-testing harness for write-ahead logs, storage engines, and crash recovery suites."
+2026-11-09T14:41:33.937009Z,wgt-language,0.5.0,0,0,https://github.com/WeightLang/WeightLang,"Static WeightLang syntax, model plans and artifact schemas"
+2026-11-09T14:41:34.502952Z,wgtime,0.5.0,0,0,https://github.com/WeightLang/WeightLang,Lightweight local client and wire contract for the wgtime execution service
+2026-11-09T14:41:35.357979Z,wgt-model-macros,0.5.0,0,0,https://github.com/WeightLang/WeightLang,Compile-time checked WGT model definitions for Rust programs
+2026-11-09T14:41:36.956482Z,wgt-model,0.5.0,0,0,https://github.com/WeightLang/WeightLang,Typed Rust model definitions and clients for the wgtime service
+2026-11-09T14:43:27.930214Z,podci,0.0.0,0,0,https://github.com/PodUtils/podci,Run CI/CD actions on pods
+2026-11-09T14:44:05.465134Z,sitesquatch-plugin-links,0.2.7,0,0,https://github.com/reverentgeek/sitesquatch,Link checker for SiteSquatch: internal links and anchors in the built site
+2026-11-09T14:46:38.324893Z,dtn-proto,0.1.0,0,0,https://github.com/IBEASTMANISH/dtn-proto,"Zero-copy, no_std compatible packet serializer and wire protocol parser for Delay-Tolerant Networking (DTN) and challenged mesh links."
+2026-11-09T14:47:21.075295Z,tkg-common,0.1.5,0,0,https://github.com/JeronimoCapelle/TorqKage,"Core engine for Torqkage: declarative MCP tool resolution, AST/comment policy filters, Bubblewrap sandboxing, and Jujutsu workspace isolation"
+2026-11-09T14:47:23.789985Z,tkg-hooks,0.1.5,0,0,https://github.com/JeronimoCapelle/TorqKage,"Sub-millisecond lifecycle hook interceptor for AI coding agents: enforces path policies, manifest guards, circuit breakers, and session handoffs"
+2026-11-09T14:47:24.515657Z,tkg-mcp,0.1.5,0,0,https://github.com/JeronimoCapelle/TorqKage,"Declarative Model Context Protocol (MCP) server & security firewall for AI coding agents (Claude Code, OpenCode, Cursor, Antigravity) with Bubblewrap sandboxing"
+2026-11-09T14:47:26.217051Z,torqkage,0.1.5,0,0,https://github.com/JeronimoCapelle/TorqKage,"Torqkage (tkg): Interactive Ratatui TUI control deck & launcher for managing AI coding agents, MCP tool permissions, Jujutsu workspaces, and sandboxes"
+2026-11-09T14:52:43.207982Z,grantry-redis,0.1.0,0,0,https://github.com/factorial-io/grantry,A Redis / Valkey OAuthStore for grantry
+2026-11-09T14:53:12.963169Z,crc32c-wal,0.1.0,0,0,https://github.com/IBEASTMANISH/crc32c-wal,Hardware-accelerated CRC32C (Castagnoli) checksum utility optimized for write-ahead log record validation with SIMD and slice-by-8 fallback.
+2026-11-09T14:53:38.910859Z,podinit,0.0.0,0,0,https://github.com/PodUtils/podinit,Turn a fresh Linux server into a fleet node in one command
+2026-11-09T14:54:14.571655Z,sitesquatch-plugin-minify,0.2.7,0,0,https://github.com/reverentgeek/sitesquatch,HTML minification transform for SiteSquatch
+2026-11-09T15:00:44.232814Z,fieldmuck,0.0.0,0,0,https://github.com/Fice/partly,"Build companion types of a struct, field by field: partials, patches, filters and more."
+2026-11-09T15:00:53.186786Z,fieldmuck-derive,0.0.0,0,0,https://github.com/Fice/partly,Derive macros for fieldmuck.
+2026-11-09T15:03:50.041246Z,podkey,0.0.0,0,0,https://github.com/PodUtils/podkey,In-memory secret agent with a time window
+2026-11-09T15:04:26.929945Z,sitesquatch-plugin-rss,0.2.7,0,0,https://github.com/reverentgeek/sitesquatch,RSS/Atom feed helpers for SiteSquatch
+2026-11-09T15:06:20.440122Z,comindly-api,0.5.0-beta.7,0,0,https://github.com/sayef/comindly,"comindly's API: the requests and answers of an engine's /api/v1, shared by the engine and the command line."
+2026-11-09T15:10:52.918184Z,tilesmith-dtype,0.1.1,0,0,https://github.com/tilesmith/gemm,Element types for the tilesmith engines.
+2026-11-09T15:10:53.865362Z,tilesmith-runtime,0.1.1,0,0,https://github.com/tilesmith/gemm,"Workspaces, task graphs, and executors for the tilesmith engines."
+2026-11-09T15:10:59.888782Z,tilesmith-isa,0.1.1,0,0,https://github.com/tilesmith/gemm,"Execution paths, ISA capability tokens, and host facts for the tilesmith engines."
+2026-11-09T15:13:23.454779Z,cubecl-inspect,0.12.0-pre.2,0,0,https://github.com/tracel-ai/cubecl/tree/main/crates/cubecl-inspect,"Reads a CubeCL environment file back: what it holds, how each autotune key was decided, where a build's time went, and which candidates earn their place."
+2026-11-09T15:13:29.030194Z,corebluetooth-address,0.1.0,0,0,https://github.com/inspiren-inc/corebluetooth-address,Resolve a CoreBluetooth peripheral identifier to its Bluetooth device address through the private selector retrieveAddressForPeripheral:
+2026-11-09T15:14:01.825966Z,podlog,0.0.0,0,0,https://github.com/PodUtils/podlog,Ship logs and metrics from a node over outbound 443
+2026-11-09T15:14:43.64747Z,ssqch,0.2.7,0,0,https://github.com/reverentgeek/sitesquatch,"The SiteSquatch command-line tool, configured by ssqch.config.js or sitesquatch.toml"
+2026-11-09T15:17:01.835905Z,bayar,0.0.1,0,0,,Reserved: payment-provider-agnostic checkout for the SplitFire AI suite. Work in progress.
+2026-11-09T15:18:15.404543Z,mozc-ffi,0.1.0,0,0,https://github.com/Malorn44/mozc-ffi,"Unofficial Rust bindings for Google's Mozc kana-kanji converter, in process"
