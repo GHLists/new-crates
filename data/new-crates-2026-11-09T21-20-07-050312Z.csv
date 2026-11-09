@@ -1,0 +1,24 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-09T20:22:34.42403Z,rheon-model-evaluator,0.1.0,0,0,https://github.com/spearsandshields/rheon,rheon | DMN model evaluator (fork of dsntk-model-evaluator)
+2026-11-09T20:32:20.307674Z,nomenclator,0.1.0,0,0,https://github.com/avenusta/nomenclator,"Media-naming conventions for movie and TV libraries: names in, structured naming facts out, with explicit ambiguity"
+2026-11-09T20:32:22.903841Z,nomenclator-cli,0.1.0,0,0,https://github.com/avenusta/nomenclator,"Diagnostics for the media naming conventions: parse a name, interpret or plan a real folder"
+2026-11-09T20:32:23.393902Z,nomenclator-grpc,0.1.0,0,0,https://github.com/avenusta/nomenclator,The media naming conventions over gRPC: one implementation for callers in any language
+2026-11-09T20:39:57.841837Z,tvek,0.1.0,0,0,https://github.com/Xpt0xZv/tvek,"Zero-dependency, ultra-fast RFC 8259 JSON linter and formatter"
+2026-11-09T20:40:36.106633Z,sik-storage-schema-core,0.1.0,0,0,https://github.com/sorobase/storage-schema,"contractstoragev0 format: model, XDR codec, sidecar JSON, wasm custom sections, decoder and lint"
+2026-11-09T20:42:55.295599Z,libsdca,0.3.0,0,0,https://github.com/mlapin/libsdca,"Numerically stable multiclass, top-k, multilabel and distillation losses, and certified SDCA solvers for linear and kernel SVM and softmax classifiers"
+2026-11-09T20:44:24.556715Z,agentai-audio,0.6.0,0,0,https://github.com/AdamStrojek/rust-agentai,Text-to-speech and voice cloning for AgentAI agents.
+2026-11-09T20:45:34.669649Z,sik-storage-schema-macros,0.1.0,0,0,https://github.com/sorobase/storage-schema,Attribute macros that write a contractstoragev0 Wasm custom section from #[contracttype] storage key enums
+2026-11-09T20:47:26.332449Z,sik-storage-schema-cli,0.1.0,0,0,https://github.com/sorobase/storage-schema,"storage-schema CLI: inspect, inject, strip, lint, decode, key, rpc"
+2026-11-09T20:54:28.807854Z,tree-sitter-xo,0.1.1,0,0,https://github.com/xo-lang/tree-sitter-xo,Xo grammar for tree-sitter
+2026-11-09T20:59:49.327015Z,cudash,0.1.0,0,0,https://github.com/property-x/cudash,A minimal and safe api over the vulkan toolkit. Inspired by cudarc's basic driver API with optional interop.
+2026-11-09T21:02:30.906254Z,evdev-classifier,0.1.0,0,0,https://github.com/iamrdv296/evdev-classifier,"Classify Linux evdev input devices (keyboard, mouse, touchpad, gamepad, ...) from their capabilities"
+2026-11-09T21:03:50.991053Z,statac-highlight,0.1.0,0,0,https://git.statac.dev/statac/statac,"Code coloured by the kind of each piece, as Statac colours it: HTML with classes, or ranges with their kind"
+2026-11-09T21:11:01.59091Z,nearsc,0.0.0,0,0,https://github.com/vinibarbosabr/nearsc-auditor,Deterministic security scanner for NEAR smart contracts (name reservation; 0.1.0 ships 2026-11-14)
+2026-11-09T21:11:08.976925Z,nearsc-mcp,0.0.0,0,0,https://github.com/vinibarbosabr/nearsc-auditor,MCP server exposing nearsc to coding agents (name reservation; 0.1.0 ships 2026-11-14)
+2026-11-09T21:12:45.643907Z,graphql-synthesizer,0.1.2,0,0,https://github.com/pleme-io/graphql-synthesizer,Typed AST for structurally correct GraphQL executable-document generation
+2026-11-09T21:15:45.133735Z,mimir-c,0.1.0,0,0,https://git.gunnar.rs/nordisk/nornir,LLVM bitcode producer for Mímir's shared graph tables
+2026-11-09T21:18:18.932477Z,c-mimir-dump,0.1.0,0,0,https://git.gunnar.rs/nordisk/nornir,Clang build capture and C graph producer for Mímir
+2026-11-09T21:19:41.716556Z,moonmchn,0.1.0,0,0,https://github.com/galaxyloop-labs/moonmchn,Moon MCHN configuration and application library
+2026-11-09T21:19:44.741182Z,moonmchn-smolmachines,0.1.0,0,0,https://github.com/galaxyloop-labs/moonmchn,smolmachines backend adapter for Moon MCHN
+2026-11-09T21:19:47.330198Z,moonmchn-cli,0.1.0,0,0,https://github.com/galaxyloop-labs/moonmchn,Moon MCHN library and command-line interface
+2026-11-09T21:19:58.036488Z,hdmv-menus,0.1.0,0,0,https://github.com/b-town-bit/hdmv-menus,"A Blu-ray's HDMV menus read from its files, nothing played: pages, buttons, pictures and commands."
