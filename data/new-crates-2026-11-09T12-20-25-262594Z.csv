@@ -1,0 +1,35 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-09T11:18:26.127688Z,iced_luminate,0.1.0,0,0,https://github.com/sonata-ltd/luminate,"Luminate UI kit for iced 0.14: data descriptors, a first-class theme and the Inter font, built on iced_animate, iced_texture_cache and iced_page_router"
+2026-11-09T11:20:00.3895Z,darkbox,1.4.1,0,0,https://github.com/illegalstudio/darkbox,"Read, edit, verify and atomically write Darkbox project archives"
+2026-11-09T11:24:35.551992Z,do-context-shield-vault-json,0.1.0,0,0,https://github.com/d-oit/do-context-shield,Opt-in JSON-file vault plugin for cross-process do-context-shield workflows
+2026-11-09T11:24:47.91428Z,xgpui-luma,1.0.1,0,0,https://github.com/gpui-luma-dev/xgpui-luma,"XGPUI-Luma foundation: controls, layouts, themes, and shared look contracts"
+2026-11-09T11:25:03.509225Z,xgpui-luma-color,1.0.1,0,0,https://github.com/gpui-luma-dev/xgpui-luma,Color primitives and interactive color controls for XGPUI-Luma
+2026-11-09T11:25:18.541278Z,xgpui-luma-look-radix,1.0.1,0,0,https://github.com/gpui-luma-dev/xgpui-luma,"Radix themes, color scales, and styled controls for XGPUI-Luma"
+2026-11-09T11:25:27.757889Z,xgpui-luma-look-shadcn,1.0.1,0,0,https://github.com/gpui-luma-dev/xgpui-luma,"Shadcn themes, CSS tokens, and styled controls for XGPUI-Luma"
+2026-11-09T11:25:35.234092Z,xgpui-luma-plot,1.0.1,0,0,https://github.com/gpui-luma-dev/xgpui-luma,Native plotting SDK foundations for XGPUI-Luma
+2026-11-09T11:25:37.143326Z,asolaria-quant-cubes,0.1.0,0,0,https://github.com/JesseBrown1980/With-Felipe-Miguel-Olimpio-da-Cruz-as-The-omega-and-Aether...,"Combined-quant registry slots 21 and 25-28 (cube, word-glyph, shard-cube, white-room/GULP): the owner's Q-PRISM Host-8 cube Rust and integer ports of the owner's ingest, room-rotor, white-room and GC…"
+2026-11-09T11:29:50.070314Z,wovault,0.1.2,0,0,https://github.com/ronykris/vault-core,Write-only vault: encrypted backup library with HPKE-sealed write-only ingest
+2026-11-09T11:31:01.278245Z,rCSFs,3.0.0,0,0,https://github.com/YenochQin/rCSFs,Rust-powered Python library for converting atomic-physics CSF data to Parquet and generating ML-ready descriptors
+2026-11-09T11:31:37.134929Z,dear-imgui-reflect-glam033,0.22.0,0,0,https://github.com/varda-games/dear-imgui-reflect-glam033,unofficial fork of dear-imgui-rs built against glam@033
+2026-11-09T11:34:27.861874Z,do-context-shield-transformer-generalize,0.1.0,0,0,https://github.com/d-oit/do-context-shield,Non-reversible generalizing transformer plugin for do-context-shield
+2026-11-09T11:35:36.373054Z,asolaria-quant-exact,0.1.0,0,0,,"Combined-quant slots 13, 14 and 17-20 (exact re-representations) from the owner's Rust: slice-harness wavelengths, the BEHCS 64/256/1024 ladder, HyperBEHCS 60D, Q-PRISM 256<->1024 transcode"
+2026-11-09T11:38:58.68853Z,vox_engine,0.3.1,0,0,https://github.com/Singhzing-kid1/voxEngine,voxel game engine
+2026-11-09T11:43:05.299599Z,memdiver-call-sys,0.1.0,0,0,,Unsafe platform mechanism for memdiver-call
+2026-11-09T11:43:26.415323Z,memdiver-call,0.1.1,0,0,,Call functions inside another local process on Linux and Windows
+2026-11-09T11:43:58.419151Z,code_guessr,0.1.0,0,0,,"Test knowledge of your codebase, find the given line in valid files"
+2026-11-09T11:44:35.905029Z,do-context-shield-transformer-mask,0.1.0,0,0,https://github.com/d-oit/do-context-shield,Non-reversible partial-masking transformer plugin for do-context-shield
+2026-11-09T11:52:23.877656Z,checkslip,0.1.0,0,0,https://github.com/Checkslip/sdk-rust,Official Rust client for the Checkslip API: look up Thai bank transfers from a slip QR or image
+2026-11-09T11:54:34.028507Z,do-context-shield-transformer-pseudonymize,0.1.0,0,0,https://github.com/d-oit/do-context-shield,Reversible pseudonymizing transformer plugin for do-context-shield
+2026-11-09T11:59:18.688527Z,minirun,0.1.0,0,0,https://github.com/ip888/minirun,Measure cold-start of a containerised workload (p50/p99)
+2026-11-09T12:00:56.190539Z,ferrisfetch,0.3.1,0,0,https://github.com/babichgh/ferrisfetch,A fastfetch clone written in Rust
+2026-11-09T12:09:10.769255Z,nfs-mamont-util,0.3.0,0,0,https://github.com/RMamonts/nfs-mamont,"Ready-made building blocks for nfs-mamont servers: pool buffer allocator, MOUNT v3 and NLM v4 service implementations"
+2026-11-09T12:09:39.542984Z,thryve_utils,0.1.0,0,0,https://github.com/thryveframework/thryve,Utilities that other Thryve crates depend on: the blocks that are used to assemble the Thryve runtime.
+2026-11-09T12:09:41.727253Z,thryve_core,0.1.0,0,0,https://github.com/thryveframework/thryve,"Thryve runtime logic for the engine and plugin and observer managers. This is an internal crate, not meant for direct use."
+2026-11-09T12:09:41.776314Z,asolaria-server-cosign-serve,0.1.0,0,0,,"cosign-serve of asolaria-federation-1024 as an in-process library: shadow-ledger open/resume, the five routes and the shadow append, without the TCP listener"
+2026-11-09T12:09:43.142541Z,thryve_observers,0.1.0,0,0,https://github.com/thryveframework/thryve,"Observers core to the Thryve runtime which Thryve cannot survive without. This is an internal crate, not meant for direct use"
+2026-11-09T12:09:45.614269Z,thryve_run,0.1.0,0,0,https://github.com/thryveframework/thryve,Runtime logic for the Thryve runtime. Handles interactive and service logic and initialization.
+2026-11-09T12:09:47.569474Z,thryve,0.1.0,0,0,https://github.com/thryveframework/thryve,"A pluggable task/plugin/observer runtime for Rust, runnable interactively or as a Windows service."
+2026-11-09T12:09:48.975395Z,asolaria-server-council-serve,0.1.0,0,0,,"council-serve of asolaria-federation-1024 as an in-process library: the json=0 routes (vote-ledger parity, confidence-scheduled verify, lane/policy/branch/mcp/event/recovery/ptc diagnostics) without…"
+2026-11-09T12:09:54.935863Z,asolaria-ste-certificate,0.1.0,0,0,https://github.com/JesseBrown1980/what-is-asolaria---how-do-we-get-reductions-in-everything,Exact-integer port of the Sidon-Tower-Embedding distance certificate (sidon-cross-fix.mjs) and the two distance probes beside it
+2026-11-09T12:15:36.830538Z,asolaria-ternary,0.1.0,0,0,,"The stack's shared ternary layer: the owner's tribit unit re-exported, plus integer ports of the owner's trijection and balanced-ternary codec. Integer only, no float."
+2026-11-09T12:19:19.757735Z,rs-snap7,0.1.0,0,0,https://github.com/PenguinKingGT/rs-snap7,A Rust port of python-snap7 for Siemens S7 PLC communication
