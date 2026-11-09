@@ -8,49 +8,53 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-08 23:19 UTC
+## Latest list — 2026-11-09 00:18 UTC
 
-New crates published between 2026-11-08 22:18 UTC and 2026-11-08 23:19 UTC.
+New crates published between 2026-11-08 23:19 UTC and 2026-11-09 00:18 UTC.
 
-[Full CSV](data/new-crates-2026-11-08T23-19-35-812947Z.csv)
+[Full CSV](data/new-crates-2026-11-09T00-18-18-380072Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-08 22:27:31 | [vport-proto](https://crates.io/crates/vport-proto) | 0.1.0 | 0 | Wire protocol definitions for VPort, a tiny display protocol for embedded and p… |
-| 2026-11-08 22:28:39 | [libvport](https://crates.io/crates/libvport) | 0.1.0 | 0 | Reference client library for VPort, a tiny display protocol for embedded and po… |
-| 2026-11-08 22:30:15 | [synthie-trombone](https://crates.io/crates/synthie-trombone) | 0.2.0 | 0 | Allocation-free, sample-rate independent Pink Trombone vocal tract synthesizer… |
-| 2026-11-08 22:30:18 | [synthie-trombone-cli](https://crates.io/crates/synthie-trombone-cli) | 0.2.0 | 0 | Pink Trombone in the terminal: play a vocal tract with keyboard and mouse, or t… |
-| 2026-11-08 22:32:23 | [forgectl](https://crates.io/crates/forgectl) | 0.1.1 | 0 | Keep a GitHub account's repositories in line with one manifest |
-| 2026-11-08 22:34:37 | [sysprims-evidence](https://crates.io/crates/sysprims-evidence) | 0.4.0 | 0 | Portable identity-evidence/v0 wire admission, report validation, and native pro… |
-| 2026-11-08 22:37:07 | [idbd](https://crates.io/crates/idbd) | 0.1.0 | 0 | Incremental Delta-Bar-Delta (Sutton 1992): a linear online learner that adapts… |
-| 2026-11-08 22:42:18 | [ods-provider-fake](https://crates.io/crates/ods-provider-fake) | 0.1.3 | 0 | Reference in-memory providers for OpenDataSuite contract tests. |
-| 2026-11-08 22:42:22 | [ods-health](https://crates.io/crates/ods-health) | 0.1.3 | 0 | The OpenDataSuite health engine: configurable checks, findings and badges (#392… |
-| 2026-11-08 22:42:27 | [ods-lineage](https://crates.io/crates/ods-lineage) | 0.1.3 | 0 | Column-level lineage graph, change impact and open export for OpenDataSuite (AD… |
-| 2026-11-08 22:42:29 | [ods-mcp](https://crates.io/crates/ods-mcp) | 0.1.3 | 0 | Model Context Protocol server for OpenDataSuite: read-only, local tools over th… |
-| 2026-11-08 22:42:32 | [ods-provider-databricks](https://crates.io/crates/ods-provider-databricks) | 0.1.3 | 0 | Databricks provider for OpenDataSuite: Unity Catalog observed lineage (#74), De… |
-| 2026-11-08 22:42:40 | [uu-archive-clickteam-install-creator-v2](https://crates.io/crates/uu-archive-clickteam-install-creator-v2) | 0.1.0 | 0 | Unpacker for Clickteam Install Creator 2 self-extracting installers |
-| 2026-11-08 22:47:43 | [ods-provider-dbt](https://crates.io/crates/ods-provider-dbt) | 0.1.3 | 0 | Reads dbt artifacts (manifest, catalog) for OpenDataSuite (#12). |
-| 2026-11-08 22:53:04 | [signify-http](https://crates.io/crates/signify-http) | 0.1.0 | 0 | HTTP transport, requests, responses and retries for Signify, signed with keri-h… |
-| 2026-11-08 22:53:05 | [signify-keys](https://crates.io/crates/signify-keys) | 0.1.0 | 0 | Signify key management: keepers, identifier habitats, and the client identity |
-| 2026-11-08 22:53:06 | [signify-client](https://crates.io/crates/signify-client) | 0.1.0 | 0 | Rust SDK for signing at the edge with KERI, ACDC, and KERIA: the Signify client… |
-| 2026-11-08 22:57:39 | [ods-provider-duckdb](https://crates.io/crates/ods-provider-duckdb) | 0.1.3 | 0 | DuckDB provider for OpenDataSuite: DuckDB's error patterns, as dbt-duckdb repor… |
-| 2026-11-08 22:58:40 | [haikeilabs-agentware](https://crates.io/crates/haikeilabs-agentware) | 0.16.0 | 0 | Agentware for Rust: Kei runtime socket client, tool-call authorization, tool sy… |
-| 2026-11-08 22:59:15 | [redis_hnsw](https://crates.io/crates/redis_hnsw) | 1.0.0 | 0 | Redis module for HNSW approximate nearest neighbor search, with Redis Cluster s… |
-| 2026-11-08 23:00:10 | [yaffa](https://crates.io/crates/yaffa) | 0.1.0 | 0 | A thin app framework for `color_eyre` errors + `clap` support. |
-| 2026-11-08 23:05:55 | [matern](https://crates.io/crates/matern) | 0.1.0 | 0 | Fast and Enzyme-differentiable besselk and Matern kernel functions. |
-| 2026-11-08 23:06:47 | [pencil-puzzles-core](https://crates.io/crates/pencil-puzzles-core) | 0.3.1 | 0 | Code shared by the pencil-puzzles genres: the difficulty scale, the solve and g… |
-| 2026-11-08 23:06:50 | [pencil-puzzles-fillomino](https://crates.io/crates/pencil-puzzles-fillomino) | 0.3.1 | 0 | Fillomino solver, generator, checker and difficulty rater |
-| 2026-11-08 23:06:50 | [pencil-puzzles-hashi](https://crates.io/crates/pencil-puzzles-hashi) | 0.3.1 | 0 | Hashi solver, generator, checker and difficulty rater |
-| 2026-11-08 23:06:51 | [pencil-puzzles-hitori](https://crates.io/crates/pencil-puzzles-hitori) | 0.3.1 | 0 | Hitori solver, generator, checker and difficulty rater |
-| 2026-11-08 23:06:52 | [pencil-puzzles-kakurasu](https://crates.io/crates/pencil-puzzles-kakurasu) | 0.3.1 | 0 | Kakurasu solver, generator, checker and difficulty rater |
-| 2026-11-08 23:07:40 | [ods-provider-process](https://crates.io/crates/ods-provider-process) | 0.1.3 | 0 | Runs OpenDataSuite script checks and out-of-process plugins as processes, over… |
-| 2026-11-08 23:13:33 | [day-part-bluetooth](https://crates.io/crates/day-part-bluetooth) | 0.0.1 | 0 | Part of Day, which builds native apps from one Rust codebase. This placeholder… |
-| 2026-11-08 23:13:36 | [day-part-background](https://crates.io/crates/day-part-background) | 0.0.1 | 0 | Part of Day, which builds native apps from one Rust codebase. This placeholder… |
-| 2026-11-08 23:13:38 | [day-part-push-android-fcm](https://crates.io/crates/day-part-push-android-fcm) | 0.0.1 | 0 | Part of Day, which builds native apps from one Rust codebase. This placeholder… |
-| 2026-11-08 23:13:40 | [day-part-push-ios-apns](https://crates.io/crates/day-part-push-ios-apns) | 0.0.1 | 0 | Part of Day, which builds native apps from one Rust codebase. This placeholder… |
-| 2026-11-08 23:13:42 | [day-part-push](https://crates.io/crates/day-part-push) | 0.0.1 | 0 | Part of Day, which builds native apps from one Rust codebase. This placeholder… |
-| 2026-11-08 23:16:48 | [pencil-puzzles-kakuro](https://crates.io/crates/pencil-puzzles-kakuro) | 0.3.1 | 0 | Kakuro solver, generator, checker and difficulty rater |
-| 2026-11-08 23:17:43 | [ods-provider-sqlparser](https://crates.io/crates/ods-provider-sqlparser) | 0.1.3 | 0 | Column-level SQL lineage for OpenDataSuite, built on the Apache-2.0 sqlparser c… |
+| 2026-11-08 23:24:07 | [seiza-model](https://crates.io/crates/seiza-model) | 0.1.0 | 0 | Learned image restoration for astrophotography: tiling, noise input and an ONNX… |
+| 2026-11-08 23:25:06 | [aether-loop](https://crates.io/crates/aether-loop) | 0.1.0 | 0 | ADDRESS/ROUTE/LOOP front-half of the Asolaria request path: PID minting, Brown-… |
+| 2026-11-08 23:25:08 | [asolaria-behcs1024-60d](https://crates.io/crates/asolaria-behcs1024-60d) | 0.1.0 | 0 | Source-bounded, no-alloc 60-glyph BEHCS-1024 coordinate and Host8 digest |
+| 2026-11-08 23:25:11 | [asolaria-gnn-int](https://crates.io/crates/asolaria-gnn-int) | 0.1.0 | 0 | Integer-only (Q16) reference for a 2-layer GCN with an edge-scoring MLP head. H… |
+| 2026-11-08 23:25:14 | [asolaria-gulp-watchers](https://crates.io/crates/asolaria-gulp-watchers) | 0.1.0 | 0 | The batch gulp/gc lanes, the GNN feedback cadence loop, the construction-routin… |
+| 2026-11-08 23:25:21 | [asolaria-hookwall](https://crates.io/crates/asolaria-hookwall) | 0.1.0 | 0 | Standalone extract of the asolaria-federation-1024 kernel-core hookwall, spawn/… |
+| 2026-11-08 23:25:26 | [situs](https://crates.io/crates/situs) | 0.1.0 | 0 | Static and dynamic R-trees over f64 boxes with no false negatives, and nearest-… |
+| 2026-11-08 23:26:48 | [skyeai](https://crates.io/crates/skyeai) | 0.0.1 | 0 | Skye AI for Rust (early development): the lexer of the .skye language for promp… |
+| 2026-11-08 23:26:50 | [pencil-puzzles-nurikabe](https://crates.io/crates/pencil-puzzles-nurikabe) | 0.3.1 | 0 | Nurikabe solver, generator, checker and difficulty rater |
+| 2026-11-08 23:27:41 | [ods-state](https://crates.io/crates/ods-state) | 0.1.3 | 0 | The OpenDataSuite State planner: what to build, what to reuse, and why (#18, #2… |
+| 2026-11-08 23:34:06 | [rtlog](https://crates.io/crates/rtlog) | 0.2.3 | 0 | Deferred, lock-free, allocation-free logger for no_std and std: ~40-cycle log c… |
+| 2026-11-08 23:34:11 | [rtlog-decode](https://crates.io/crates/rtlog-decode) | 0.2.3 | 0 | Host decoder and CLI for rtlog: turns binary log streams into text, JSON lines… |
+| 2026-11-08 23:35:36 | [asolaria-host8](https://crates.io/crates/asolaria-host8) | 0.1.0 | 0 | Host8 8-byte identity derivations, seat and verb-catalog parsing, C/D room rout… |
+| 2026-11-08 23:36:51 | [pencil-puzzles-sudoku](https://crates.io/crates/pencil-puzzles-sudoku) | 0.3.1 | 0 | Sudoku solver, generator, checker and difficulty rater |
+| 2026-11-08 23:37:41 | [ods-store-sqlite](https://crates.io/crates/ods-store-sqlite) | 0.1.3 | 0 | SQLite StateStore for OpenDataSuite: local, transactional, migrated (#25, ADR-0… |
+| 2026-11-08 23:38:07 | [approots](https://crates.io/crates/approots) | 0.1.0 | 0 | Directory locations for application caches, configuration, and state. |
+| 2026-11-08 23:45:11 | [licens](https://crates.io/crates/licens) | 0.1.0 | 0 | A small CLI for adding license files to projects |
+| 2026-11-08 23:45:36 | [asolaria-hrm-fork](https://crates.io/crates/asolaria-hrm-fork) | 0.1.0 | 0 | The owner's hp_mix codec (asolaria-cube-cloud) built unchanged under Rust 1.81,… |
+| 2026-11-08 23:46:48 | [rs-rbat2resized](https://crates.io/crates/rs-rbat2resized) | 0.1.0 | 0 | Resize Apache Arrow RecordBatches to a target size |
+| 2026-11-08 23:46:50 | [pencil-puzzles](https://crates.io/crates/pencil-puzzles) | 0.3.1 | 0 | Generators, solvers and difficulty raters for pencil puzzles |
+| 2026-11-08 23:47:49 | [ods-web](https://crates.io/crates/ods-web) | 0.1.3 | 0 | Hostable lineage explorer and dashboard for OpenDataSuite: a local/hosted serve… |
+| 2026-11-08 23:49:04 | [inference-engine](https://crates.io/crates/inference-engine) | 0.1.0-alpha.1 | 0 | Native Rust inference foundation with checked RDF rule-profile compilation |
+| 2026-11-08 23:55:36 | [asolaria-kernel-lane-core](https://crates.io/crates/asolaria-kernel-lane-core) | 0.1.0 | 0 | Byte-identical kernel/core modules of asolaria-federation-1024 that the kernel… |
+| 2026-11-08 23:56:51 | [pencil-puzzles-cli](https://crates.io/crates/pencil-puzzles-cli) | 0.3.1 | 0 | Command-line generator, solver and difficulty rater for pencil puzzles |
+| 2026-11-08 23:57:53 | [ods-cli](https://crates.io/crates/ods-cli) | 0.1.3 | 0 | The `ods` command-line interface for OpenDataSuite. |
+| 2026-11-09 00:00:14 | [geometres](https://crates.io/crates/geometres) | 0.1.0 | 0 | Exact, non-constructive computational geometry: validation, DE-9IM predicates a… |
+| 2026-11-09 00:00:18 | [reusable-future](https://crates.io/crates/reusable-future) | 1.0.0 | 0 | A memory-reusing, resettable future container designed for zero-allocation asyn… |
+| 2026-11-09 00:02:28 | [agnijs](https://crates.io/crates/agnijs) | 0.0.0 | 0 | Name reservation for AgniJS, a JavaScript engine written in Rust. Not yet funct… |
+| 2026-11-09 00:02:43 | [agnijs-cdp](https://crates.io/crates/agnijs-cdp) | 0.0.0 | 0 | Name reservation for AgniJS, a JavaScript engine written in Rust. Not yet funct… |
+| 2026-11-09 00:02:57 | [agnijs-cli](https://crates.io/crates/agnijs-cli) | 0.0.0 | 0 | Name reservation for AgniJS, a JavaScript engine written in Rust. Not yet funct… |
+| 2026-11-09 00:03:12 | [agnijs-compiler](https://crates.io/crates/agnijs-compiler) | 0.0.0 | 0 | Name reservation for AgniJS, a JavaScript engine written in Rust. Not yet funct… |
+| 2026-11-09 00:03:25 | [agnijs-debugger](https://crates.io/crates/agnijs-debugger) | 0.0.0 | 0 | Name reservation for AgniJS, a JavaScript engine written in Rust. Not yet funct… |
+| 2026-11-09 00:05:36 | [asolaria-l0-edge](https://crates.io/crates/asolaria-l0-edge) | 0.1.0 | 0 | Integer port of the Asolaria L0 EdgeLevelGNN: graph-event features, the trained… |
+| 2026-11-09 00:06:37 | [opentide-cql](https://crates.io/crates/opentide-cql) | 0.12.0 | 0 | opentide engine component: I/O-free CrowdStrike Query Language (CQL) engine (Fa… |
+| 2026-11-09 00:07:40 | [ods-provider-git](https://crates.io/crates/ods-provider-git) | 0.1.3 | 0 | Bounded producing-code reads from approved local Git object stores. |
+| 2026-11-09 00:10:33 | [stdo](https://crates.io/crates/stdo) | 0.0.1 | 0 | ⚡ Standard I/O Orchestrator — Zero-network Unix DAG workflow engine in Rust wit… |
+| 2026-11-09 00:12:59 | [agnijs-host-api](https://crates.io/crates/agnijs-host-api) | 0.0.0 | 0 | Name reservation for AgniJS, a JavaScript engine written in Rust. Not yet funct… |
+| 2026-11-09 00:15:36 | [asolaria-l1-prototype](https://crates.io/crates/asolaria-l1-prototype) | 0.1.0 | 0 | Integer port of the Asolaria L1 PrototypeGNN with its trained run-1 checkpoint'… |
+| 2026-11-09 00:15:57 | [nordisk-heimdall-youki](https://crates.io/crates/nordisk-heimdall-youki) | 0.1.0 | 0 | Heimdall is a defensive sandbox: Heimdall's classic-BPF builder as a seccomp ba… |
 
 ## Data source
 
