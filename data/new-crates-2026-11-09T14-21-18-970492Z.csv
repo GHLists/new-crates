@@ -1,0 +1,38 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-09T13:20:42.305716Z,singe-nvcomp,0.1.0-alpha.1,0,0,https://github.com/tinrab/singe,Safe Rust wrappers for the NVIDIA nvCOMP compression library.
+2026-11-09T13:40:41.993621Z,tatara-mesh,0.1.1,0,0,https://github.com/pleme-io/tatara-mesh,"tatara-mesh — typed `(defmesh …)` primitive. Rust struct + validation for the pleme-io service-mesh spec, consumed by arch-synthesizer to render concrete K8s manifests."
+2026-11-09T13:44:27.851051Z,retiretui_desktop,0.6.0,0,0,https://github.com/kenianbei/retiretui,Retirement planning application in a window.
+2026-11-09T13:51:50.433596Z,do-context-shield-core,0.1.0,0,0,https://github.com/d-oit/do-context-shield,Composable privacy pipeline (Detector -> Policy -> Transformer -> Vault) for do-context-shield
+2026-11-09T13:52:31.492571Z,do-context-shield-plugin-process,0.1.0,0,0,https://github.com/d-oit/do-context-shield,"Process plugins (detector, policy, transformer, vault) over newline-delimited JSON for do-context-shield"
+2026-11-09T13:53:15.742812Z,do-context-shield-plugin-registry,0.1.0,0,0,https://github.com/d-oit/do-context-shield,Compiled-in plugin registry selecting do-context-shield plugins by logical name
+2026-11-09T13:53:20.963548Z,noroshi,0.1.3,0,0,https://github.com/pleme-io/noroshi,Signal-fire alerts for AI coding agents: tell the operator when the agent is done or waiting
+2026-11-09T13:53:57.096921Z,do-context-shield-mcp-server,0.1.0,0,0,https://github.com/d-oit/do-context-shield,MCP stdio adapter (context.sanitize/restore/inspect) for do-context-shield
+2026-11-09T13:54:16.773089Z,sandpad-askroot,0.1.0,0,0,https://github.com/pr0n1x/sandpad,"The pieces behind `sandpad -p root`: the sudo/pkexec shim inside the sandbox, the host dialog, and the server between them"
+2026-11-09T13:54:20.293616Z,sandpad,0.1.0,0,0,https://github.com/pr0n1x/sandpad,"Run an app inside strict bubblewrap isolation, with a per-box home and an optional writable system layer"
+2026-11-09T13:54:45.252694Z,do-context-shield,0.1.0,0,0,https://github.com/d-oit/do-context-shield,"Local privacy boundary CLI for coding agents (sanitize, restore, inspect, mcp-stdio)"
+2026-11-09T13:56:01.434535Z,erpc-chain-bsc,0.0.1,0,0,https://github.com/elsoul/erpc-cli,Name reservation for the erpc CLI workspace crate erpc-chain-bsc. This version holds nothing; the crate is published by the release pipeline of https://github.com/elsoul/erpc-cli from its next tag.
+2026-11-09T13:56:04.598171Z,erpc-chain-hyperliquid,0.0.1,0,0,https://github.com/elsoul/erpc-cli,Name reservation for the erpc CLI workspace crate erpc-chain-hyperliquid. This version holds nothing; the crate is published by the release pipeline of https://github.com/elsoul/erpc-cli from its nex…
+2026-11-09T13:56:06.970608Z,erpc-chain-kaia,0.0.1,0,0,https://github.com/elsoul/erpc-cli,Name reservation for the erpc CLI workspace crate erpc-chain-kaia. This version holds nothing; the crate is published by the release pipeline of https://github.com/elsoul/erpc-cli from its next tag.
+2026-11-09T13:56:09.830267Z,erpc-chain-monad,0.0.1,0,0,https://github.com/elsoul/erpc-cli,Name reservation for the erpc CLI workspace crate erpc-chain-monad. This version holds nothing; the crate is published by the release pipeline of https://github.com/elsoul/erpc-cli from its next tag.
+2026-11-09T13:56:12.72077Z,erpc-chain-near,0.0.1,0,0,https://github.com/elsoul/erpc-cli,Name reservation for the erpc CLI workspace crate erpc-chain-near. This version holds nothing; the crate is published by the release pipeline of https://github.com/elsoul/erpc-cli from its next tag.
+2026-11-09T14:01:20.971366Z,zebkit-build,0.4.0,0,0,https://github.com/ikey4u/zebkit,For the build script of an application that uses zebkit: puts the engine beside the executable
+2026-11-09T14:01:22.749317Z,zebkit-rs,0.4.0,0,0,https://github.com/ikey4u/zebkit,"Raw bindings to the zebkit engine library (libzebkit): declarations only, nothing safe"
+2026-11-09T14:01:26.096768Z,zebkit,0.4.0,0,0,https://github.com/ikey4u/zebkit,"A web engine to embed: web views, the Chrome DevTools Protocol endpoint, and the libraries inside the engine"
+2026-11-09T14:01:36.738088Z,pod-broker,0.0.0,0,0,https://github.com/PodUtils/podcrates,"Egress broker for PodUtils: per-job policy, TLS end, placeholder credentials"
+2026-11-09T14:01:44.810697Z,spola,0.1.0,0,0,https://github.com/AndreaAcanfora/spola,"A small scripting language whose running programs can be checkpointed, moved and resumed anywhere"
+2026-11-09T14:04:11.351318Z,scry-rs-derive,0.1.0,0,0,https://github.com/sdaliyot/Scry.Rust,#[derive(Reflect)] for Scry.Rust.
+2026-11-09T14:04:35.370136Z,scry-rs,0.1.0,0,0,https://github.com/sdaliyot/Scry.Rust,Inspect and change the state of a running Rust process.
+2026-11-09T14:04:47.031775Z,scry-rs-cargo,0.1.0,0,0,https://github.com/sdaliyot/Scry.Rust,cargo scry: builds a crate with a Scry.Rust registry generated for all of its code.
+2026-11-09T14:05:00.958417Z,scry-rs-client,0.1.0,0,0,https://github.com/sdaliyot/Scry.Rust,"Talk to running Scry.Rust apps from Rust code, such as tests: what the scry-rs command line does, without a process per command."
+2026-11-09T14:06:25.680233Z,erpc-chain-polygon,0.0.1,0,0,https://github.com/elsoul/erpc-cli,Name reservation for the erpc CLI workspace crate erpc-chain-polygon. This version holds nothing; the crate is published by the release pipeline of https://github.com/elsoul/erpc-cli from its next ta…
+2026-11-09T14:11:44.789553Z,pod-control,0.0.0,0,0,https://github.com/PodUtils/podcrates,Versioned JSON control API for PodUtils tools on a Unix socket or named pipe
+2026-11-09T14:12:56.449439Z,pod-gsr,0.0.0,0,0,https://github.com/PodUtils/podcrates,GSRN relay of gsocket for PodUtils (deferred)
+2026-11-09T14:14:15.451226Z,kute,0.4.0,0,0,https://github.com/ThinkerDreamer/kute,"Records, transcribes and summarizes your calls, locally"
+2026-11-09T14:15:12.1739Z,mcwss,2.1.3,0,0,https://github.com/aliyoariel/mcwss-rs,Minecraft Bedrock Edition websocket server framework for Rust
+2026-11-09T14:16:02.538731Z,gpui-kit-markdown-extras,0.1.0,0,0,https://github.com/lingdu1234/gpui-kit-box.git,GPUI TextView 的 Markdown 扩展插件：公式（$…$ / $$…$$）与 Mermaid flowchart 渲染。
+2026-11-09T14:16:37.892643Z,erpc-chain-solana-native,0.0.1,0,0,https://github.com/elsoul/erpc-cli,Name reservation for the erpc CLI workspace crate erpc-chain-solana-native. This version holds nothing; the crate is published by the release pipeline of https://github.com/elsoul/erpc-cli from its n…
+2026-11-09T14:17:32.217541Z,estante-types,0.1.8,0,0,https://github.com/pleme-io/estante,Typed primitives for estante — the pleme-io shell-package manager. PkgSpec / LoadSpec / LockedPkgSpec re-exported from frost-lisp; resolver/manifest/lockfile shapes; estante's own typed config. No I/…
+2026-11-09T14:17:34.568462Z,estante,0.1.8,0,0,https://github.com/pleme-io/estante,"Cargo for shell. Nix-native, git-as-registry, Rust + Tatara-Lisp shell-package manager — fetches shareable behavior libraries by git ref and emits typed lockfiles consumable by frost-lisp's `defload`."
+2026-11-09T14:18:52.020593Z,provenance-mcp,0.0.0,0,0,https://github.com/quality-sh/provenance,Internal part of Provenance for the MCP server
+2026-11-09T14:18:55.839105Z,provenance-review,0.0.0,0,0,https://github.com/quality-sh/provenance,"Internal part of Provenance for the review host, review links and the review page bundle"
+2026-11-09T14:18:58.183452Z,nocturne-atlas-encoding,0.5.0,0,0,https://github.com/Nocturne-Standards/atlas,Host-visible call types for the Atlas registry contract (rkyv layout-pinned)
