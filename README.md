@@ -8,40 +8,46 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-09 01:19 UTC
+## Latest list — 2026-11-09 02:18 UTC
 
-New crates published between 2026-11-09 00:18 UTC and 2026-11-09 01:19 UTC.
+New crates published between 2026-11-09 01:19 UTC and 2026-11-09 02:18 UTC.
 
-[Full CSV](data/new-crates-2026-11-09T01-19-08-627435Z.csv)
+[Full CSV](data/new-crates-2026-11-09T02-18-37-91605Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-09 00:19:20 | [loremaster-build](https://crates.io/crates/loremaster-build) | 0.2.0 | 0 | build.rs helper: generate the host types of a loremaster YAML project. |
-| 2026-11-09 00:19:24 | [loremaster-dsl](https://crates.io/crates/loremaster-dsl) | 0.2.0 | 0 | Builder API in plain Rust for loremaster stories: rooms, things and rules as a… |
-| 2026-11-09 00:19:24 | [loremaster-workbench](https://crates.io/crates/loremaster-workbench) | 0.2.0 | 0 | Authoring views for loremaster stories: atlas, rules, machines, checks, preview… |
-| 2026-11-09 00:19:26 | [loremaster-macros](https://crates.io/crates/loremaster-macros) | 0.2.0 | 0 | The world! macro for loremaster stories: rooms, things, rules and tests in Rust… |
-| 2026-11-09 00:21:25 | [zzart-one](https://crates.io/crates/zzart-one) | 0.0.0 | 0 | fixture |
-| 2026-11-09 00:23:00 | [agnijs-intl](https://crates.io/crates/agnijs-intl) | 0.0.0 | 0 | Name reservation for AgniJS, a JavaScript engine written in Rust. Not yet funct… |
-| 2026-11-09 00:25:36 | [asolaria-l2-contrastive](https://crates.io/crates/asolaria-l2-contrastive) | 0.1.0 | 0 | Integer port of the trained Asolaria L2 ContrastiveGNN: the run-1 checkpoint's… |
-| 2026-11-09 00:29:16 | [luminess](https://crates.io/crates/luminess) | 0.5.0 | 0 | Template engine that compiles at startup against typed views: unknown fields fa… |
-| 2026-11-09 00:29:16 | [web-net](https://crates.io/crates/web-net) | 0.4.0 | 0 | Web layer on serve-net: URL normalization, sites and base paths, a compiled rou… |
-| 2026-11-09 00:32:59 | [agnijs-parser](https://crates.io/crates/agnijs-parser) | 0.0.0 | 0 | Name reservation for AgniJS, a JavaScript engine written in Rust. Not yet funct… |
-| 2026-11-09 00:35:36 | [asolaria-l4-gslgnn](https://crates.io/crates/asolaria-l4-gslgnn) | 0.1.0 | 0 | Integer port of the Asolaria L4 GSLGNN as served on port 4793, with its served… |
-| 2026-11-09 00:36:04 | [liveupdate](https://crates.io/crates/liveupdate) | 0.1.0-alpha.1 | 0 | Android Live Updates from Rust |
-| 2026-11-09 00:43:00 | [agnijs-quickjs](https://crates.io/crates/agnijs-quickjs) | 0.0.0 | 0 | Name reservation for AgniJS, a JavaScript engine written in Rust. Not yet funct… |
-| 2026-11-09 00:45:36 | [asolaria-omega-operator-catalog](https://crates.io/crates/asolaria-omega-operator-catalog) | 0.1.0 | 0 | The Omega operator catalog used by Q-PRISM recovery Path 3: 40 length-preservin… |
-| 2026-11-09 00:53:00 | [agnijs-regex](https://crates.io/crates/agnijs-regex) | 0.0.0 | 0 | Name reservation for AgniJS, a JavaScript engine written in Rust. Not yet funct… |
-| 2026-11-09 00:55:29 | [xtalforge-core](https://crates.io/crates/xtalforge-core) | 0.0.1 | 0 | Core crystal-structure types for xtalforge: elements, lattices, sites and struc… |
-| 2026-11-09 00:55:36 | [asolaria-qprism-recovery](https://crates.io/crates/asolaria-qprism-recovery) | 0.1.0 | 0 | Q-PRISM recovery paths: Path 1 LZ over a retained output window, Path 2 checked… |
-| 2026-11-09 00:56:35 | [binray](https://crates.io/crates/binray) | 0.0.1 | 0 | Binary analysis toolkit for PE, ELF, Mach-O, and WebAssembly |
-| 2026-11-09 00:56:37 | [xtalforge-io](https://crates.io/crates/xtalforge-io) | 0.0.1 | 0 | File-format readers and writers for xtalforge. |
-| 2026-11-09 01:00:54 | [xtalforge-symmetry](https://crates.io/crates/xtalforge-symmetry) | 0.0.1 | 0 | Symmetry types, space-group operations and reductions for xtalforge. |
-| 2026-11-09 01:03:00 | [agnijs-test262](https://crates.io/crates/agnijs-test262) | 0.0.0 | 0 | Name reservation for AgniJS, a JavaScript engine written in Rust. Not yet funct… |
-| 2026-11-09 01:05:36 | [asolaria-qprism-representation](https://crates.io/crates/asolaria-qprism-representation) | 0.1.0 | 0 | Q-PRISM representation layer: exact 2D -> 3D orb -> signed-2D projection over c… |
-| 2026-11-09 01:09:24 | [ircchallenge](https://crates.io/crates/ircchallenge) | 0.1.0 | 0 | port of jess' ircchallenge python library, for doing ratbox-style challenges |
-| 2026-11-09 01:11:21 | [mdq-rg](https://crates.io/crates/mdq-rg) | 0.1.0 | 0 | Read-only Markdown search with concise, source-linked excerpts for AI agents. |
-| 2026-11-09 01:12:59 | [agnijs-vm](https://crates.io/crates/agnijs-vm) | 0.0.0 | 0 | Name reservation for AgniJS, a JavaScript engine written in Rust. Not yet funct… |
-| 2026-11-09 01:15:37 | [asolaria-qr-read-int](https://crates.io/crates/asolaria-qr-read-int) | 0.1.0 | 0 | Integer-only QR reader: the jsQR decoder of the owner's colour QR page in Rust… |
+| 2026-11-09 01:19:11 | [director-asr](https://crates.io/crates/director-asr) | 0.1.1 | 0 | Speech to text for Director: word-timed transcripts from the Underdog Bark 3.0… |
+| 2026-11-09 01:20:33 | [xtalforge-view](https://crates.io/crates/xtalforge-view) | 0.0.1 | 0 | View settings, draw styles, colormaps and scene data for xtalforge. |
+| 2026-11-09 01:21:06 | [xtalforge-commands](https://crates.io/crates/xtalforge-commands) | 0.0.1 | 0 | Undoable commands and document state for xtalforge. |
+| 2026-11-09 01:21:36 | [embedag-llm](https://crates.io/crates/embedag-llm) | 0.1.1 | 0 | Constrained LLM extraction, schema derivation, oxillama & candle inference and… |
+| 2026-11-09 01:21:38 | [embedag-rag](https://crates.io/crates/embedag-rag) | 0.1.1 | 0 | Two-stage hybrid Graph-RAG query engine with RRF and topological distance decay… |
+| 2026-11-09 01:21:38 | [embedag-surrealdb](https://crates.io/crates/embedag-surrealdb) | 0.1.1 | 0 | SurrealDB multi-model document-graph persistence, embedded and remote storage,… |
+| 2026-11-09 01:21:41 | [embedag-diesel](https://crates.io/crates/embedag-diesel) | 0.1.1 | 0 | Relational persistence adapter with PostgreSQL pgvector, SQLite CTEs, Turso / l… |
+| 2026-11-09 01:21:44 | [embedag](https://crates.io/crates/embedag) | 0.1.1 | 0 | Deterministic hybrid Graph-RAG, in-memory DAGs, mixed-modality encoding, relati… |
+| 2026-11-09 01:22:55 | [sqs-poller](https://crates.io/crates/sqs-poller) | 0.1.0 | 0 | An SQS poller that backs off exponentially while the queue is empty and resets… |
+| 2026-11-09 01:29:29 | [xtalforge-ff](https://crates.io/crates/xtalforge-ff) | 0.0.1 | 0 | Force fields, charges, optimizers and thermochemistry for xtalforge. |
+| 2026-11-09 01:39:28 | [xtalforge-analysis](https://crates.io/crates/xtalforge-analysis) | 0.0.1 | 0 | PXRD, grids, porosity and topology analysis for xtalforge. |
+| 2026-11-09 01:40:20 | [rubrica-markdown](https://crates.io/crates/rubrica-markdown) | 0.1.0 | 0 | A CommonMark 0.31.2 and GFM pull parser that yields events with byte ranges, fo… |
+| 2026-11-09 01:40:49 | [quercus-ffmpeg-bootstrap](https://crates.io/crates/quercus-ffmpeg-bootstrap) | 0.7.0 | 0 | Quercus build-time static FFmpeg bootstrap and SHA256 verification |
+| 2026-11-09 01:41:24 | [rubrica-render](https://crates.io/crates/rubrica-render) | 0.1.0 | 0 | Markdown to sanitized HTML for the Rubrica wiki engine: CommonMark and GFM, fro… |
+| 2026-11-09 01:41:59 | [ruttice](https://crates.io/crates/ruttice) | 0.10.0 | 0 | A Rust library and toolkit for lattice QCD simulations |
+| 2026-11-09 01:42:07 | [rubrica-wasm-bundle](https://crates.io/crates/rubrica-wasm-bundle) | 0.1.0 | 0 | The prebuilt WebAssembly search for Rubrica sites: the .wasm and its loader as… |
+| 2026-11-09 01:43:00 | [nativelite-tmuxproto](https://crates.io/crates/nativelite-tmuxproto) | 0.1.0 | 0 | The tmux command-line protocol a pane host needs to serve Claude Code's agent t… |
+| 2026-11-09 01:43:26 | [rubrica-site](https://crates.io/crates/rubrica-site) | 0.1.0 | 0 | The corpus and static build of the Rubrica wiki engine: pages and URLs, navigat… |
+| 2026-11-09 01:44:36 | [rubrica](https://crates.io/crates/rubrica) | 0.1.0 | 0 | A wiki in a git repository, written in Rust: check a Markdown repository for de… |
+| 2026-11-09 01:49:22 | [memra-tier](https://crates.io/crates/memra-tier) | 0.139.0 | 0 | Native exact-byte tiering contracts for memra |
+| 2026-11-09 01:49:29 | [xtalforge-build](https://crates.io/crates/xtalforge-build) | 0.0.1 | 0 | Molecule, carbon and polymer builders for xtalforge. |
+| 2026-11-09 01:50:18 | [memra-net-guard](https://crates.io/crates/memra-net-guard) | 0.139.0 | 0 | SSRF address-range classification for server-initiated outbound HTTP fetches (n… |
+| 2026-11-09 01:59:09 | [cripsy-binary-api](https://crates.io/crates/cripsy-binary-api) | 0.2.0 | 0 | API moderna multibroker para opciones binarias (Rust, sync y async) |
+| 2026-11-09 01:59:28 | [xtalforge-mof](https://crates.io/crates/xtalforge-mof) | 0.0.1 | 0 | MOF topologies and framework assembly for xtalforge. |
+| 2026-11-09 02:07:57 | [compact-ipset](https://crates.io/crates/compact-ipset) | 1.0.0 | 0 | Compact, immutable IPv4 and IPv6 prefix sets with fast membership queries |
+| 2026-11-09 02:09:28 | [xtalforge-modules](https://crates.io/crates/xtalforge-modules) | 0.0.1 | 0 | Module registry, run records and on-disk workspace for xtalforge. |
+| 2026-11-09 02:09:44 | [pgrx-c-macros](https://crates.io/crates/pgrx-c-macros) | 0.20.0-beta.0 | 0 | Discover and translate C macros for pgrx binding generation |
+| 2026-11-09 02:10:27 | [hexcavator](https://crates.io/crates/hexcavator) | 0.0.1 | 0 | Binary analysis toolkit for PE, ELF, Mach-O, and WebAssembly |
+| 2026-11-09 02:11:19 | [fibre_http](https://crates.io/crates/fibre_http) | 0.5.0 | 0 | HTTP client whose handles switch between blocking and async with to_sync and to… |
+| 2026-11-09 02:17:43 | [xidl-http-docs](https://crates.io/crates/xidl-http-docs) | 0.111.0 | 0 | Standalone versioned HTTP API documentation generator for XIDL |
+| 2026-11-09 02:17:52 | [canc-core](https://crates.io/crates/canc-core) | 0.1.0 | 0 | Core scanner for comment-tag annotations (NOTE/TODO/…), shared by the canc LSP… |
+| 2026-11-09 02:18:09 | [canc](https://crates.io/crates/canc) | 0.1.0 | 0 | canc — comment-tag annotation LSP server and CLI (semantic tokens, diagnostics,… |
 
 ## Data source
 

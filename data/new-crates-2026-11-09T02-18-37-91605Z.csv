@@ -1,0 +1,33 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-09T01:19:11.555725Z,director-asr,0.1.1,0,0,https://github.com/stepupgaming/director,"Speech to text for Director: word-timed transcripts from the Underdog Bark 3.0 models, subtitles and the model store."
+2026-11-09T01:20:33.903187Z,xtalforge-view,0.0.1,0,0,https://github.com/jigonzalez930209/xtalforge,"View settings, draw styles, colormaps and scene data for xtalforge."
+2026-11-09T01:21:06.83869Z,xtalforge-commands,0.0.1,0,0,https://github.com/jigonzalez930209/xtalforge,Undoable commands and document state for xtalforge.
+2026-11-09T01:21:36.123689Z,embedag-llm,0.1.1,0,0,https://github.com/yasuomaidana/embedag,"Constrained LLM extraction, schema derivation, oxillama & candle inference and multi-tiered waterfall resolution for embedag."
+2026-11-09T01:21:38.219018Z,embedag-rag,0.1.1,0,0,https://github.com/yasuomaidana/embedag,Two-stage hybrid Graph-RAG query engine with RRF and topological distance decay for embedag.
+2026-11-09T01:21:38.92722Z,embedag-surrealdb,0.1.1,0,0,https://github.com/yasuomaidana/embedag,"SurrealDB multi-model document-graph persistence, embedded and remote storage, native RELATE edge traversals, and vector similarity integration for embedag."
+2026-11-09T01:21:41.890333Z,embedag-diesel,0.1.1,0,0,https://github.com/yasuomaidana/embedag,"Relational persistence adapter with PostgreSQL pgvector, SQLite CTEs, Turso / libSQL distributed database support, dynamic graph mutations and Testcontainers harness for embedag."
+2026-11-09T01:21:44.134867Z,embedag,0.1.1,0,0,https://github.com/yasuomaidana/embedag,"Deterministic hybrid Graph-RAG, in-memory DAGs, mixed-modality encoding, relational persistence, and Turso / libSQL support."
+2026-11-09T01:22:55.315697Z,sqs-poller,0.1.0,0,0,https://github.com/conao3/rust-sqs-poller,An SQS poller that backs off exponentially while the queue is empty and resets the moment a message arrives
+2026-11-09T01:29:29.118111Z,xtalforge-ff,0.0.1,0,0,https://github.com/jigonzalez930209/xtalforge,"Force fields, charges, optimizers and thermochemistry for xtalforge."
+2026-11-09T01:39:28.829763Z,xtalforge-analysis,0.0.1,0,0,https://github.com/jigonzalez930209/xtalforge,"PXRD, grids, porosity and topology analysis for xtalforge."
+2026-11-09T01:40:20.983812Z,rubrica-markdown,0.1.0,0,0,https://github.com/justin-stanley/rubrica,"A CommonMark 0.31.2 and GFM pull parser that yields events with byte ranges, for the Rubrica wiki engine. Block and inline parsers derive from pulldown-cmark 0.13.6 (MIT)."
+2026-11-09T01:40:49.328113Z,quercus-ffmpeg-bootstrap,0.7.0,0,0,https://github.com/OakVideoEditorCommunity/quercus-engine,Quercus build-time static FFmpeg bootstrap and SHA256 verification
+2026-11-09T01:41:24.531371Z,rubrica-render,0.1.0,0,0,https://github.com/justin-stanley/rubrica,"Markdown to sanitized HTML for the Rubrica wiki engine: CommonMark and GFM, front matter, heading ids, @sec markers, and a Wiki.js 2 compatibility profile."
+2026-11-09T01:41:59.385092Z,ruttice,0.10.0,0,0,https://github.com/atsanroger/RutticeQCD,A Rust library and toolkit for lattice QCD simulations
+2026-11-09T01:42:07.800586Z,rubrica-wasm-bundle,0.1.0,0,0,https://github.com/justin-stanley/rubrica,"The prebuilt WebAssembly search for Rubrica sites: the .wasm and its loader as data, built and attested by CI from rubrica-wasm. Used by rubrica-site."
+2026-11-09T01:43:00.331788Z,nativelite-tmuxproto,0.1.0,0,0,https://github.com/nativelite/tmuxproto,"The tmux command-line protocol a pane host needs to serve Claude Code's agent teams: argv parsing, #{format} expansion, POSIX shell words, and the verb runner over your own pane backend. Standard lib…"
+2026-11-09T01:43:26.917858Z,rubrica-site,0.1.0,0,0,https://github.com/justin-stanley/rubrica,"The corpus and static build of the Rubrica wiki engine: pages and URLs, navigation, link graph and checks, search index and templates, from in-memory Markdown files."
+2026-11-09T01:44:36.174982Z,rubrica,0.1.0,0,0,https://github.com/justin-stanley/rubrica,"A wiki in a git repository, written in Rust: check a Markdown repository for dead links and anchors, and build it into a static site with search and no script of its own."
+2026-11-09T01:49:22.614715Z,memra-tier,0.139.0,0,0,https://github.com/avifenesh/memra,Native exact-byte tiering contracts for memra
+2026-11-09T01:49:29.406218Z,xtalforge-build,0.0.1,0,0,https://github.com/jigonzalez930209/xtalforge,"Molecule, carbon and polymer builders for xtalforge."
+2026-11-09T01:50:18.411334Z,memra-net-guard,0.139.0,0,0,https://github.com/avifenesh/memra,"SSRF address-range classification for server-initiated outbound HTTP fetches (no I/O, no async runtime)"
+2026-11-09T01:59:09.142294Z,cripsy-binary-api,0.2.0,0,0,https://github.com/ionixcorp/cripsy_binary_API,"API moderna multibroker para opciones binarias (Rust, sync y async)"
+2026-11-09T01:59:28.738117Z,xtalforge-mof,0.0.1,0,0,https://github.com/jigonzalez930209/xtalforge,MOF topologies and framework assembly for xtalforge.
+2026-11-09T02:07:57.485932Z,compact-ipset,1.0.0,0,0,https://github.com/Kr328/ipset-rs,"Compact, immutable IPv4 and IPv6 prefix sets with fast membership queries"
+2026-11-09T02:09:28.871548Z,xtalforge-modules,0.0.1,0,0,https://github.com/jigonzalez930209/xtalforge,"Module registry, run records and on-disk workspace for xtalforge."
+2026-11-09T02:09:44.588713Z,pgrx-c-macros,0.20.0-beta.0,0,0,https://github.com/pgcentralfoundation/pgrx/,Discover and translate C macros for pgrx binding generation
+2026-11-09T02:10:27.630237Z,hexcavator,0.0.1,0,0,https://github.com/hexcavator/hexcavator,"Binary analysis toolkit for PE, ELF, Mach-O, and WebAssembly"
+2026-11-09T02:11:19.928158Z,fibre_http,0.5.0,0,0,https://github.com/excsn/fibre,"HTTP client whose handles switch between blocking and async with to_sync and to_async, sharing one connection pool."
+2026-11-09T02:17:43.84359Z,xidl-http-docs,0.111.0,0,0,https://github.com/xidl/xidl,Standalone versioned HTTP API documentation generator for XIDL
+2026-11-09T02:17:52.247808Z,canc-core,0.1.0,0,0,https://github.com/maikel-479/Anchors,"Core scanner for comment-tag annotations (NOTE/TODO/…), shared by the canc LSP server and CLI."
+2026-11-09T02:18:09.184176Z,canc,0.1.0,0,0,https://github.com/maikel-479/Anchors,"canc — comment-tag annotation LSP server and CLI (semantic tokens, diagnostics, symbols)."
