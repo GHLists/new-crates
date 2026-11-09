@@ -1,0 +1,35 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-09T08:19:54.078279Z,vsh-serde-saphyr,0.0.2,0,0,https://github.com/victor-software-house/serde-saphyr,"A fork of serde-saphyr with downstream patches, imported as serde_saphyr. YAML (de)serializer for Serde, emphasizing panic-free parsing, fast builds and good error reporting. Supports properties, inc…"
+2026-11-09T08:34:50.182979Z,leptoskit_plugin_maps,0.0.0,0,0,https://github.com/leptoskit/leptoskit,Host-owned map sessions with a Map surface for LeptosKit.
+2026-11-09T08:34:52.936861Z,leptoskit_plugin_media_library,0.0.0,0,0,https://github.com/leptoskit/leptoskit,Bounded photo-library list and save for LeptosKit.
+2026-11-09T08:35:59.139982Z,cognicode-graph-algos,0.102.1,0,0,https://github.com/Rubentxu/CogniCode,"Pure graph algorithms (PageRank, god_nodes, SCC) — WASM-compatible"
+2026-11-09T08:36:02.899136Z,cognicode-macros,0.102.1,0,0,https://github.com/Rubentxu/CogniCode,"Procedural macros for CogniCode: newtype derive, aix_tool attribute and declare_rule"
+2026-11-09T08:37:05.260294Z,cognicode-core,0.102.1,0,0,https://github.com/Rubentxu/CogniCode,Code intelligence library for AI agents
+2026-11-09T08:37:11.241242Z,cognicode-graph-wasm,0.102.1,0,0,https://github.com/Rubentxu/CogniCode,"WASM shim for cognicode-graph-algos — exposes pagerank, god_nodes, and community detection to the browser"
+2026-11-09T08:37:22.311034Z,bot-compass,0.0.1,0,0,https://gitcode.com/xuanwu/bot-compass,Evidence-driven C/C++ to Rust migration planning CLI.
+2026-11-09T08:38:01.257989Z,metaalign-core,1.0.2,0,0,https://github.com/Demon1110/MetaAlign,"Batch filesystem + Office document metadata engine (Windows first, WASM ready)"
+2026-11-09T08:41:55.899234Z,astral-discord,0.1.1,0,0,https://github.com/Miyanoto/astral,"Reusable Discord bot framework with commands, events, responders and Twilight gateway"
+2026-11-09T08:42:16.606744Z,swiftdoc,0.6.1,0,0,https://github.com/kura120/swiftdoc,"A zero-config, blazing fast Python auto-documentation generator."
+2026-11-09T08:48:38.86812Z,leptoskit_plugin_nfc,0.0.0,0,0,https://github.com/leptoskit/leptoskit,Bounded one-shot NDEF reads for LeptosKit.
+2026-11-09T08:49:19.910173Z,russl_compiler,0.1.1,0,0,https://github.com/project-blinc/russl,"The russl compiler: Rust-syntax shader source to naga, validated, emitted per target"
+2026-11-09T08:49:22.176247Z,russl_macros,0.1.1,0,0,https://github.com/project-blinc/russl,The russl! macro
+2026-11-09T08:49:24.625405Z,russl,0.1.1,0,0,https://github.com/project-blinc/russl,"Rust Shader Language: shaders in Rust syntax, compiled at build time to WGSL and native shader languages"
+2026-11-09T08:51:40.209634Z,keep-proto,1.0.0,0,0,https://github.com/stalwartlabs/keep,"Wire protocol of Stalwart Keep, an ephemeral key-value store and event stream server for clustered applications"
+2026-11-09T08:57:07.158653Z,keep-client,1.0.0,0,0,https://github.com/stalwartlabs/keep,"Rust client for Stalwart Keep, an ephemeral key-value store and event stream server for clustered applications"
+2026-11-09T09:01:49.368314Z,ason-format,1.0.0,0,0,https://github.com/hemashushu/ason-formatter,Source-preserving formatter and syntax highlighter for ASON documents
+2026-11-09T09:02:07.663956Z,asonfmt,1.0.0,0,0,https://github.com/hemashushu/ason-formatter,Command-line formatter and syntax highlighter for ASON documents
+2026-11-09T09:02:21.327908Z,leptoskit_plugin_picture_in_picture,0.0.0,0,0,https://github.com/leptoskit/leptoskit,Cross-mobile picture-in-picture and system overlay windows for LeptosKit.
+2026-11-09T09:02:24.661109Z,leptoskit_plugin_power_monitor,0.0.0,0,0,https://github.com/leptoskit/leptoskit,Desktop power and idle observation for LeptosKit hosts.
+2026-11-09T09:07:59.554019Z,allot-shared,0.3.0,0,0,https://github.com/meh7an/allot,"Internal to Allot, no stable API: protocol, config, and path types"
+2026-11-09T09:08:01.114339Z,allot-client,0.3.0,0,0,https://github.com/meh7an/allot,"Internal to Allot, no stable API: HTTP client for the Allot daemon"
+2026-11-09T09:08:02.115261Z,allot-core,0.3.0,0,0,https://github.com/meh7an/allot,"Internal to Allot, no stable API: lease ledger, admission control, heavy-command classifier"
+2026-11-09T09:08:04.438948Z,allot-sampler,0.3.0,0,0,https://github.com/meh7an/allot,"Internal to Allot, no stable API: CPU, RAM, GPU, and VRAM sampling"
+2026-11-09T09:08:06.225375Z,allot-cli,0.3.0,0,0,https://github.com/meh7an/allot,"CLI for Allot: status, leases, history, daemon control, install, and the PreToolUse hook"
+2026-11-09T09:09:07.304299Z,wgproxyrs,0.2.0,0,0,https://github.com/yukiproz/wgproxyrs,"Fully userspace WireGuard client in Rust that exposes the tunnel as a local SOCKS5/HTTP proxy — no interface, no routes, no root."
+2026-11-09T09:10:38.989756Z,palace-rs,0.19.3,0,0,https://github.com/AncientiCe/palace-rs,Local memory palace for AI assistants — Rust edition
+2026-11-09T09:12:13.619048Z,avb-pipewire,0.1.0,0,0,https://github.com/scrambletools/avb,Virtual audio devices on PipeWire for AVB stream inputs and outputs
+2026-11-09T09:12:22.16423Z,avb-endpointd,0.1.0,0,0,https://github.com/scrambletools/avb,"This computer's AVB entities for any app: the files apps share with the daemon, and, with its feature, the daemon itself"
+2026-11-09T09:12:46.478762Z,allot-mcp,0.3.0,0,0,https://github.com/meh7an/allot,MCP server that lets Claude Code sessions lease CPU and GPU capacity from Allot
+2026-11-09T09:16:07.184432Z,leptoskit_plugin_print,0.0.0,0,0,https://github.com/leptoskit/leptoskit,Owned-window print dialog presentation for LeptosKit.
+2026-11-09T09:17:18.619968Z,russl_build,0.1.1,0,0,https://github.com/project-blinc/russl,Compile russl shader files from build.rs
+2026-11-09T09:17:19.399926Z,russl_cli,0.1.1,0,0,https://github.com/project-blinc/russl,The russl command: check a shader file or print what it compiles to
