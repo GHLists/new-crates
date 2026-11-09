@@ -1,0 +1,39 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-09T15:19:59.414778Z,saladfingers-api,0.1.0-alpha.1,0,0,https://github.com/purefunsolutions/saladfingers,Typed client for the SaladCloud public REST API and S4 storage.
+2026-11-09T15:19:59.952692Z,saladfingers-protocol,0.1.0-alpha.1,0,0,https://github.com/purefunsolutions/saladfingers,Shared wire contract between the saladfingers CLI and the in-container sf-agent.
+2026-11-09T15:20:02.245858Z,saladfingers,0.1.0-alpha.1,0,0,https://github.com/purefunsolutions/saladfingers,saladfingers: rent SaladCloud GPUs for minimum billed seconds.
+2026-11-09T15:20:03.207543Z,saladfingers-agent,0.1.0-alpha.1,0,0,https://github.com/purefunsolutions/saladfingers,sf-agent: the in-container agent baked into every saladfingers image.
+2026-11-09T15:20:09.614924Z,parsec-edgar,0.1.1,0,0,https://github.com/ciscoriordan/parsec-edgar,"Fast SEC EDGAR client and filing parser: company lookup, filing lists, clean text, and 10-K/10-Q/8-K item sections"
+2026-11-09T15:20:52.353487Z,parsec-edgar-cli,0.1.1,0,0,https://github.com/ciscoriordan/parsec-edgar,"Command-line client for SEC EDGAR: companies, filings, clean text and Item sections as JSON, plus an MCP server"
+2026-11-09T15:21:45.826941Z,ic-entropy,0.1.0,0,0,https://github.com/dragginzgame/ic-entropy,Bounded entropy buffering and seeded random generation without runtime dependencies
+2026-11-09T15:22:51.274227Z,halo-validator-derive,0.1.0,0,0,https://github.com/halo-space/validator,Derive macro implementation for the validator crate.
+2026-11-09T15:23:18.810146Z,halo-validator,0.1.0,0,0,https://github.com/halo-space/validator,"Rust 2024 validation library with derive macros, schema validation, and i18n messages."
+2026-11-09T15:24:07.466396Z,comindly-engine,0.5.0-beta.7,0,0,https://github.com/sayef/comindly,"comindly's engine: the index behind /api/v1 and /mcp, on this machine or as a team server, with the web app, indexing jobs, members and roles."
+2026-11-09T15:24:11.546443Z,podnode,0.0.0,0,0,https://github.com/PodUtils/podnode,Node runtime of a PodUtils fleet server
+2026-11-09T15:25:27.870631Z,harn-stdlib-compiler,0.10.193,0,0,https://github.com/burin-labs/harn,Compile Harn standard library bytecode without native runtime implementations
+2026-11-09T15:27:33.446853Z,ssherlock,0.0.1,0,0,https://github.com/asadhshujau/ssherlock,Rust SSH Client
+2026-11-09T15:34:22.245322Z,podrelay-worker,0.0.0,0,0,https://github.com/PodUtils/podrelay-worker,The podssh relay as a Cloudflare Worker
+2026-11-09T15:36:11.162563Z,rowq,1.0.0,0,0,https://github.com/denisotree/rowq,"Query rows in tables, documents and databases from the terminal — CSV, JSON, YAML, TOML, Parquet, Excel, SQLite, DuckDB — with an MCP server that lets AI assistants compute over the same files"
+2026-11-09T15:43:31.328098Z,datajud-mcp,0.2.0,0,0,https://github.com/llp42/datajud-mcp,MCP (Model Context Protocol) server for the DATAJUD public API (CNJ) — Brazilian judiciary case metadata
+2026-11-09T15:44:34.21105Z,podrepl,0.0.0,0,0,https://github.com/PodUtils/podrepl,Continuous SQLite replication over outbound 443
+2026-11-09T15:48:48.01197Z,llm-inspect,0.1.0,0,0,https://github.com/TakahiroNago/llm-inspect,"Input and output security inspection for LLM applications: PII, secrets, prompt-injection heuristics, and structured-output validation"
+2026-11-09T15:51:42.956577Z,nocturne-knot-encoding,0.1.2,0,0,https://github.com/Nocturne-Standards/knot,"Canonical §4a proposal preimage + §4b ProposalBlob, plus shared multisig call types (layer E, feature-gated)"
+2026-11-09T15:53:06.179719Z,argon2-verus,0.1.0,0,0,https://github.com/microsoft/argon2-rs,Dependency-free Argon2 password hashing with same-source Verus verification of selected core functions
+2026-11-09T15:53:47.803895Z,axess-testing,0.19.0,0,0,https://github.com/GnomesOfZurich/axess,Test fixtures for axess adopters: a tracing capture and an OIDC identity provider fixture over wiremock. A dev-dependency only; kept out of production dependency graphs on purpose.
+2026-11-09T15:54:45.685944Z,podrunner,0.0.0,0,0,https://github.com/PodUtils/podrunner,Ephemeral CI runners on your own servers
+2026-11-09T16:00:50.48384Z,upki-mirror,0.2.0,0,0,https://github.com/rustls/upki,Tools for mirroring upki certificate and revocation data
+2026-11-09T16:04:25.722387Z,nocturne-knot-registry,0.2.1,0,0,https://github.com/Nocturne-Standards/knot,BLS M-of-N quorum verification registry for committee membership.
+2026-11-09T16:04:30.318328Z,nocturne-knot-proposals,0.4.0,0,0,https://github.com/Nocturne-Standards/knot,On-chain propose/approve/finalize+execute multisig proposals contract.
+2026-11-09T16:04:57.821166Z,podsnap,0.0.0,0,0,https://github.com/PodUtils/podsnap,Encrypted append-only backup shipper
+2026-11-09T16:05:49.98279Z,supervisord,0.0.1,0,0,https://github.com/claviron/supervisord,Demand-aware process supervisor for Orbit Link fleets in any language
+2026-11-09T16:09:03.088131Z,discogs-client,0.1.0,0,0,https://github.com/boehm-s/discogs-rs,"Ergonomic, async Rust client for the Discogs API"
+2026-11-09T16:12:33.967028Z,mopenzl,0.1.0,0,0,https://github.com/M-Compressors/mopenzl,OpenZL compression and decompression in safe Rust; encoding is byte-identical to Meta's reference library
+2026-11-09T16:13:59.207569Z,yolowpdf-stat,0.1.0,0,0,https://github.com/YOLOW92/yolowpdf,Mergeable online statistics and decision rules for yolowpdf's adaptive control (no dependencies).
+2026-11-09T16:14:08.081884Z,yolowpdf-sys,0.1.0,0,0,https://github.com/YOLOW92/yolowpdf,"Process-level tuning for the yolowpdf binary (glibc allocator thresholds, NUMA-sharded small-block allocator cache)."
+2026-11-09T16:14:13.411091Z,yolowpdf-infer,0.1.0,0,0,https://github.com/YOLOW92/yolowpdf,"Small pure-Rust neural network inference: tensors, convolution and transformer layers, safetensors loading."
+2026-11-09T16:14:27.08944Z,yolowpdf-gpu,0.1.0,0,0,https://github.com/YOLOW92/yolowpdf,"NVIDIA GPU backend for yolowpdf-infer: SGEMM, convolution and activations as PTX kernels, loaded through the CUDA driver at run time."
+2026-11-09T16:14:49.758514Z,peal-sdk,0.1.0,0,0,https://github.com/peal-social/peal,"Schedule posts across social platforms, follow how they did, and manage a Peal workspace's channels, media and members."
+2026-11-09T16:15:23.24647Z,yolowpdf,0.1.0,0,0,https://github.com/YOLOW92/yolowpdf,"PDF to clean Markdown: text extraction, layout reconstruction and scanned-page detection, built for LLM pipelines."
+2026-11-09T16:16:35.092312Z,halo-harbor-macros,0.1.0,0,0,https://github.com/halo-space/harbor,Procedural macros for Harbor crawler applications.
+2026-11-09T16:17:03.460903Z,halo-harbor,0.1.0,0,0,https://github.com/halo-space/harbor,"Rust crawler runtime with HTTP, Browser, Rules, and pluggable schedulers."
+2026-11-09T16:19:35.543193Z,mercury-banking,0.1.0-alpha.1,0,0,https://github.com/fdhoff/api-sdks,"Unofficial Rust client for the Mercury API. Not affiliated with, endorsed by or sponsored by Mercury Technologies, Inc."
