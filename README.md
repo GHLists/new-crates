@@ -8,48 +8,47 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-09 09:18 UTC
+## Latest list — 2026-11-09 10:18 UTC
 
-New crates published between 2026-11-09 08:19 UTC and 2026-11-09 09:18 UTC.
+New crates published between 2026-11-09 09:18 UTC and 2026-11-09 10:18 UTC.
 
-[Full CSV](data/new-crates-2026-11-09T09-18-19-275304Z.csv)
+[Full CSV](data/new-crates-2026-11-09T10-18-39-031782Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-09 08:19:54 | [vsh-serde-saphyr](https://crates.io/crates/vsh-serde-saphyr) | 0.0.2 | 0 | A fork of serde-saphyr with downstream patches, imported as serde_saphyr. YAML… |
-| 2026-11-09 08:34:50 | [leptoskit_plugin_maps](https://crates.io/crates/leptoskit_plugin_maps) | 0.0.0 | 0 | Host-owned map sessions with a Map surface for LeptosKit. |
-| 2026-11-09 08:34:52 | [leptoskit_plugin_media_library](https://crates.io/crates/leptoskit_plugin_media_library) | 0.0.0 | 0 | Bounded photo-library list and save for LeptosKit. |
-| 2026-11-09 08:35:59 | [cognicode-graph-algos](https://crates.io/crates/cognicode-graph-algos) | 0.102.1 | 0 | Pure graph algorithms (PageRank, god_nodes, SCC) — WASM-compatible |
-| 2026-11-09 08:36:02 | [cognicode-macros](https://crates.io/crates/cognicode-macros) | 0.102.1 | 0 | Procedural macros for CogniCode: newtype derive, aix_tool attribute and declare… |
-| 2026-11-09 08:37:05 | [cognicode-core](https://crates.io/crates/cognicode-core) | 0.102.1 | 0 | Code intelligence library for AI agents |
-| 2026-11-09 08:37:11 | [cognicode-graph-wasm](https://crates.io/crates/cognicode-graph-wasm) | 0.102.1 | 0 | WASM shim for cognicode-graph-algos — exposes pagerank, god_nodes, and communit… |
-| 2026-11-09 08:37:22 | [bot-compass](https://crates.io/crates/bot-compass) | 0.0.1 | 0 | Evidence-driven C/C++ to Rust migration planning CLI. |
-| 2026-11-09 08:38:01 | [metaalign-core](https://crates.io/crates/metaalign-core) | 1.0.2 | 0 | Batch filesystem + Office document metadata engine (Windows first, WASM ready) |
-| 2026-11-09 08:41:55 | [astral-discord](https://crates.io/crates/astral-discord) | 0.1.1 | 0 | Reusable Discord bot framework with commands, events, responders and Twilight g… |
-| 2026-11-09 08:42:16 | [swiftdoc](https://crates.io/crates/swiftdoc) | 0.6.1 | 0 | A zero-config, blazing fast Python auto-documentation generator. |
-| 2026-11-09 08:48:38 | [leptoskit_plugin_nfc](https://crates.io/crates/leptoskit_plugin_nfc) | 0.0.0 | 0 | Bounded one-shot NDEF reads for LeptosKit. |
-| 2026-11-09 08:49:19 | [russl_compiler](https://crates.io/crates/russl_compiler) | 0.1.1 | 0 | The russl compiler: Rust-syntax shader source to naga, validated, emitted per t… |
-| 2026-11-09 08:49:22 | [russl_macros](https://crates.io/crates/russl_macros) | 0.1.1 | 0 | The russl! macro |
-| 2026-11-09 08:49:24 | [russl](https://crates.io/crates/russl) | 0.1.1 | 0 | Rust Shader Language: shaders in Rust syntax, compiled at build time to WGSL an… |
-| 2026-11-09 08:51:40 | [keep-proto](https://crates.io/crates/keep-proto) | 1.0.0 | 0 | Wire protocol of Stalwart Keep, an ephemeral key-value store and event stream s… |
-| 2026-11-09 08:57:07 | [keep-client](https://crates.io/crates/keep-client) | 1.0.0 | 0 | Rust client for Stalwart Keep, an ephemeral key-value store and event stream se… |
-| 2026-11-09 09:01:49 | [ason-format](https://crates.io/crates/ason-format) | 1.0.0 | 0 | Source-preserving formatter and syntax highlighter for ASON documents |
-| 2026-11-09 09:02:07 | [asonfmt](https://crates.io/crates/asonfmt) | 1.0.0 | 0 | Command-line formatter and syntax highlighter for ASON documents |
-| 2026-11-09 09:02:21 | [leptoskit_plugin_picture_in_picture](https://crates.io/crates/leptoskit_plugin_picture_in_picture) | 0.0.0 | 0 | Cross-mobile picture-in-picture and system overlay windows for LeptosKit. |
-| 2026-11-09 09:02:24 | [leptoskit_plugin_power_monitor](https://crates.io/crates/leptoskit_plugin_power_monitor) | 0.0.0 | 0 | Desktop power and idle observation for LeptosKit hosts. |
-| 2026-11-09 09:07:59 | [allot-shared](https://crates.io/crates/allot-shared) | 0.3.0 | 0 | Internal to Allot, no stable API: protocol, config, and path types |
-| 2026-11-09 09:08:01 | [allot-client](https://crates.io/crates/allot-client) | 0.3.0 | 0 | Internal to Allot, no stable API: HTTP client for the Allot daemon |
-| 2026-11-09 09:08:02 | [allot-core](https://crates.io/crates/allot-core) | 0.3.0 | 0 | Internal to Allot, no stable API: lease ledger, admission control, heavy-comman… |
-| 2026-11-09 09:08:04 | [allot-sampler](https://crates.io/crates/allot-sampler) | 0.3.0 | 0 | Internal to Allot, no stable API: CPU, RAM, GPU, and VRAM sampling |
-| 2026-11-09 09:08:06 | [allot-cli](https://crates.io/crates/allot-cli) | 0.3.0 | 0 | CLI for Allot: status, leases, history, daemon control, install, and the PreToo… |
-| 2026-11-09 09:09:07 | [wgproxyrs](https://crates.io/crates/wgproxyrs) | 0.2.0 | 0 | Fully userspace WireGuard client in Rust that exposes the tunnel as a local SOC… |
-| 2026-11-09 09:10:38 | [palace-rs](https://crates.io/crates/palace-rs) | 0.19.3 | 0 | Local memory palace for AI assistants — Rust edition |
-| 2026-11-09 09:12:13 | [avb-pipewire](https://crates.io/crates/avb-pipewire) | 0.1.0 | 0 | Virtual audio devices on PipeWire for AVB stream inputs and outputs |
-| 2026-11-09 09:12:22 | [avb-endpointd](https://crates.io/crates/avb-endpointd) | 0.1.0 | 0 | This computer's AVB entities for any app: the files apps share with the daemon,… |
-| 2026-11-09 09:12:46 | [allot-mcp](https://crates.io/crates/allot-mcp) | 0.3.0 | 0 | MCP server that lets Claude Code sessions lease CPU and GPU capacity from Allot |
-| 2026-11-09 09:16:07 | [leptoskit_plugin_print](https://crates.io/crates/leptoskit_plugin_print) | 0.0.0 | 0 | Owned-window print dialog presentation for LeptosKit. |
-| 2026-11-09 09:17:18 | [russl_build](https://crates.io/crates/russl_build) | 0.1.1 | 0 | Compile russl shader files from build.rs |
-| 2026-11-09 09:17:19 | [russl_cli](https://crates.io/crates/russl_cli) | 0.1.1 | 0 | The russl command: check a shader file or print what it compiles to |
+| 2026-11-09 09:24:18 | [shadowallet-chain-evm](https://crates.io/crates/shadowallet-chain-evm) | 0.1.0-alpha.2 | 0 | EVM account derivation, RPC, ERC-20 and external transaction signing. |
+| 2026-11-09 09:30:04 | [leptoskit_plugin_sms](https://crates.io/crates/leptoskit_plugin_sms) | 0.0.0 | 0 | Owned-window SMS composer presentation for LeptosKit. |
+| 2026-11-09 09:30:09 | [leptoskit_plugin_updater](https://crates.io/crates/leptoskit_plugin_updater) | 0.0.0 | 0 | Native installed-app updater hooks for LeptosKit desktop hosts. |
+| 2026-11-09 09:43:29 | [rawether](https://crates.io/crates/rawether) | 0.0.1 | 0 | Raw Ethernet (layer 2) sockets: AF_PACKET rings, launch-time transmit and hardw… |
+| 2026-11-09 09:43:58 | [leptoskit_plugin_video](https://crates.io/crates/leptoskit_plugin_video) | 0.0.0 | 0 | Host-owned URL video players with a Video surface for LeptosKit. |
+| 2026-11-09 09:44:17 | [asolaria-quant-hyperbehcs](https://crates.io/crates/asolaria-quant-hyperbehcs) | 0.1.0 | 0 | Integer port of the Asolaria HyperBEHCS vector quants (registry slots 9-12): Ac… |
+| 2026-11-09 09:44:20 | [asolaria-recovery-omega-codecs](https://crates.io/crates/asolaria-recovery-omega-codecs) | 0.1.0 | 0 | Vendored Omega floor codec and Omega hyper codec integration (isolated std-only… |
+| 2026-11-09 09:44:30 | [origin-kit](https://crates.io/crates/origin-kit) | 0.3.0 | 0 | The `origin` command: create a new Origin application from the embedded project… |
+| 2026-11-09 09:44:32 | [asolaria-server-cosign-ledger](https://crates.io/crates/asolaria-server-cosign-ledger) | 0.1.0 | 0 | Cosign-chain ledger of asolaria-federation-1024 (byte-identical src/): the Cosi… |
+| 2026-11-09 09:44:36 | [asolaria-server-vote-quorum](https://crates.io/crates/asolaria-server-vote-quorum) | 0.1.0 | 0 | Council vote-ledger of asolaria-federation-1024, byte-identical: the sha-chain… |
+| 2026-11-09 09:44:39 | [asolaria-tribit](https://crates.io/crates/asolaria-tribit) | 0.1.0 | 0 | Balanced-ternary tribit core: three zeros, the rainbow register hose, and an ex… |
+| 2026-11-09 09:45:42 | [asolaria-verify-schedule](https://crates.io/crates/asolaria-verify-schedule) | 0.1.0 | 0 | Confidence-ranked verify scheduler: ranks proposals by an integer acceptance pr… |
+| 2026-11-09 09:55:36 | [asolaria-server-fischer-eval](https://crates.io/crates/asolaria-server-fischer-eval) | 0.1.0 | 0 | Asolaria userspace server · Fischer evaluator kernel · Host-8 json=0 HBP port |
+| 2026-11-09 09:57:49 | [mtui-types](https://crates.io/crates/mtui-types) | 26.3.6 | 0 | Domain types, RRID grammar, and report document for mtui |
+| 2026-11-09 09:57:51 | [mtui-config](https://crates.io/crates/mtui-config) | 26.3.6 | 0 | TOML configuration file handling for mtui |
+| 2026-11-09 09:57:52 | [leptoskit_plugin_video_thumbnails](https://crates.io/crates/leptoskit_plugin_video_thumbnails) | 0.0.0 | 0 | Extract one JPEG video frame thumbnail for LeptosKit. |
+| 2026-11-09 09:57:53 | [mtui-datasources](https://crates.io/crates/mtui-datasources) | 26.3.6 | 0 | HTTP datasources for mtui: refhosts, openQA, OBS, Gitea, TeReGen |
+| 2026-11-09 09:57:54 | [mtui-hosts](https://crates.io/crates/mtui-hosts) | 26.3.6 | 0 | SSH targets, locks, and parallel host fan-out for mtui |
+| 2026-11-09 09:57:56 | [mtui-testreport](https://crates.io/crates/mtui-testreport) | 26.3.6 | 0 | TestReport lifecycle and update workflow for mtui |
+| 2026-11-09 10:00:08 | [russl_expand](https://crates.io/crates/russl_expand) | 0.1.2 | 0 | The expansion behind russl!, for a framework's own shader macro with its extens… |
+| 2026-11-09 10:05:36 | [dbbh-coms-quant-prism](https://crates.io/crates/dbbh-coms-quant-prism) | 0.1.0 | 0 | Double Binary Black Hole Comms Quant Prism (first cell) — pure-Rust, zero-dep,… |
+| 2026-11-09 10:06:33 | [standardui](https://crates.io/crates/standardui) | 0.1.0 | 0 | Easy, native-looking desktop UIs in Rust — callbacks, menus, icons, done for yo… |
+| 2026-11-09 10:06:46 | [deskband11lib](https://crates.io/crates/deskband11lib) | 1.5.0 | 0 | Host native windows inside the Windows 11 taskbar. |
+| 2026-11-09 10:06:50 | [tauri-plugin-deskband11lib](https://crates.io/crates/tauri-plugin-deskband11lib) | 1.5.0 | 0 | Tauri plugin that hosts webview windows inside the Windows 11 taskbar. |
+| 2026-11-09 10:11:40 | [leptoskit_plugin_web_browser](https://crates.io/crates/leptoskit_plugin_web_browser) | 0.0.0 | 0 | In-app HTTP(S) browser presentation with dismiss for LeptosKit. |
+| 2026-11-09 10:11:47 | [leptoskit_service_worker](https://crates.io/crates/leptoskit_service_worker) | 0.0.0 | 0 | Register and talk to browser service workers from leptoskit web apps: caching s… |
+| 2026-11-09 10:15:36 | [qprism-3d-slice-harness](https://crates.io/crates/qprism-3d-slice-harness) | 0.1.0 | 0 | The 3D Q-PRISM slice harness: frozen slice -> 8 lossless representation wavelen… |
+| 2026-11-09 10:16:43 | [kgdiff-core](https://crates.io/crates/kgdiff-core) | 0.7.0 | 0 | Semantic diff engine for knowledge graphs: matching, change classification, hun… |
+| 2026-11-09 10:16:48 | [kgdiff-formats](https://crates.io/crates/kgdiff-formats) | 0.7.0 | 0 | Graph file parsers for kgdiff: kgdiff JSON and five other JSON graph shapes, RD… |
+| 2026-11-09 10:16:49 | [kgdiff-layout](https://crates.io/crates/kgdiff-layout) | 0.7.0 | 0 | Stable, deterministic, label-aware layout for knowledge-graph diffs: both versi… |
+| 2026-11-09 10:16:54 | [kgdiff-report](https://crates.io/crates/kgdiff-report) | 0.7.0 | 0 | The text outputs and HTML reports of kgdiff: terminal summary, --stat, --name-s… |
+| 2026-11-09 10:16:59 | [kgdiff](https://crates.io/crates/kgdiff) | 0.7.0 | 0 | Semantic diff and review for knowledge graphs, byte-compatible with @kgdiff/cli |
+| 2026-11-09 10:17:56 | [mtui-core](https://crates.io/crates/mtui-core) | 26.3.6 | 0 | Command registry, session, and dispatch engine for mtui |
 
 ## Data source
 
