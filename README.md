@@ -8,46 +8,43 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-09 02:18 UTC
+## Latest list — 2026-11-09 03:18 UTC
 
-New crates published between 2026-11-09 01:19 UTC and 2026-11-09 02:18 UTC.
+New crates published between 2026-11-09 02:18 UTC and 2026-11-09 03:18 UTC.
 
-[Full CSV](data/new-crates-2026-11-09T02-18-37-91605Z.csv)
+[Full CSV](data/new-crates-2026-11-09T03-18-38-652026Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-09 01:19:11 | [director-asr](https://crates.io/crates/director-asr) | 0.1.1 | 0 | Speech to text for Director: word-timed transcripts from the Underdog Bark 3.0… |
-| 2026-11-09 01:20:33 | [xtalforge-view](https://crates.io/crates/xtalforge-view) | 0.0.1 | 0 | View settings, draw styles, colormaps and scene data for xtalforge. |
-| 2026-11-09 01:21:06 | [xtalforge-commands](https://crates.io/crates/xtalforge-commands) | 0.0.1 | 0 | Undoable commands and document state for xtalforge. |
-| 2026-11-09 01:21:36 | [embedag-llm](https://crates.io/crates/embedag-llm) | 0.1.1 | 0 | Constrained LLM extraction, schema derivation, oxillama & candle inference and… |
-| 2026-11-09 01:21:38 | [embedag-rag](https://crates.io/crates/embedag-rag) | 0.1.1 | 0 | Two-stage hybrid Graph-RAG query engine with RRF and topological distance decay… |
-| 2026-11-09 01:21:38 | [embedag-surrealdb](https://crates.io/crates/embedag-surrealdb) | 0.1.1 | 0 | SurrealDB multi-model document-graph persistence, embedded and remote storage,… |
-| 2026-11-09 01:21:41 | [embedag-diesel](https://crates.io/crates/embedag-diesel) | 0.1.1 | 0 | Relational persistence adapter with PostgreSQL pgvector, SQLite CTEs, Turso / l… |
-| 2026-11-09 01:21:44 | [embedag](https://crates.io/crates/embedag) | 0.1.1 | 0 | Deterministic hybrid Graph-RAG, in-memory DAGs, mixed-modality encoding, relati… |
-| 2026-11-09 01:22:55 | [sqs-poller](https://crates.io/crates/sqs-poller) | 0.1.0 | 0 | An SQS poller that backs off exponentially while the queue is empty and resets… |
-| 2026-11-09 01:29:29 | [xtalforge-ff](https://crates.io/crates/xtalforge-ff) | 0.0.1 | 0 | Force fields, charges, optimizers and thermochemistry for xtalforge. |
-| 2026-11-09 01:39:28 | [xtalforge-analysis](https://crates.io/crates/xtalforge-analysis) | 0.0.1 | 0 | PXRD, grids, porosity and topology analysis for xtalforge. |
-| 2026-11-09 01:40:20 | [rubrica-markdown](https://crates.io/crates/rubrica-markdown) | 0.1.0 | 0 | A CommonMark 0.31.2 and GFM pull parser that yields events with byte ranges, fo… |
-| 2026-11-09 01:40:49 | [quercus-ffmpeg-bootstrap](https://crates.io/crates/quercus-ffmpeg-bootstrap) | 0.7.0 | 0 | Quercus build-time static FFmpeg bootstrap and SHA256 verification |
-| 2026-11-09 01:41:24 | [rubrica-render](https://crates.io/crates/rubrica-render) | 0.1.0 | 0 | Markdown to sanitized HTML for the Rubrica wiki engine: CommonMark and GFM, fro… |
-| 2026-11-09 01:41:59 | [ruttice](https://crates.io/crates/ruttice) | 0.10.0 | 0 | A Rust library and toolkit for lattice QCD simulations |
-| 2026-11-09 01:42:07 | [rubrica-wasm-bundle](https://crates.io/crates/rubrica-wasm-bundle) | 0.1.0 | 0 | The prebuilt WebAssembly search for Rubrica sites: the .wasm and its loader as… |
-| 2026-11-09 01:43:00 | [nativelite-tmuxproto](https://crates.io/crates/nativelite-tmuxproto) | 0.1.0 | 0 | The tmux command-line protocol a pane host needs to serve Claude Code's agent t… |
-| 2026-11-09 01:43:26 | [rubrica-site](https://crates.io/crates/rubrica-site) | 0.1.0 | 0 | The corpus and static build of the Rubrica wiki engine: pages and URLs, navigat… |
-| 2026-11-09 01:44:36 | [rubrica](https://crates.io/crates/rubrica) | 0.1.0 | 0 | A wiki in a git repository, written in Rust: check a Markdown repository for de… |
-| 2026-11-09 01:49:22 | [memra-tier](https://crates.io/crates/memra-tier) | 0.139.0 | 0 | Native exact-byte tiering contracts for memra |
-| 2026-11-09 01:49:29 | [xtalforge-build](https://crates.io/crates/xtalforge-build) | 0.0.1 | 0 | Molecule, carbon and polymer builders for xtalforge. |
-| 2026-11-09 01:50:18 | [memra-net-guard](https://crates.io/crates/memra-net-guard) | 0.139.0 | 0 | SSRF address-range classification for server-initiated outbound HTTP fetches (n… |
-| 2026-11-09 01:59:09 | [cripsy-binary-api](https://crates.io/crates/cripsy-binary-api) | 0.2.0 | 0 | API moderna multibroker para opciones binarias (Rust, sync y async) |
-| 2026-11-09 01:59:28 | [xtalforge-mof](https://crates.io/crates/xtalforge-mof) | 0.0.1 | 0 | MOF topologies and framework assembly for xtalforge. |
-| 2026-11-09 02:07:57 | [compact-ipset](https://crates.io/crates/compact-ipset) | 1.0.0 | 0 | Compact, immutable IPv4 and IPv6 prefix sets with fast membership queries |
-| 2026-11-09 02:09:28 | [xtalforge-modules](https://crates.io/crates/xtalforge-modules) | 0.0.1 | 0 | Module registry, run records and on-disk workspace for xtalforge. |
-| 2026-11-09 02:09:44 | [pgrx-c-macros](https://crates.io/crates/pgrx-c-macros) | 0.20.0-beta.0 | 0 | Discover and translate C macros for pgrx binding generation |
-| 2026-11-09 02:10:27 | [hexcavator](https://crates.io/crates/hexcavator) | 0.0.1 | 0 | Binary analysis toolkit for PE, ELF, Mach-O, and WebAssembly |
-| 2026-11-09 02:11:19 | [fibre_http](https://crates.io/crates/fibre_http) | 0.5.0 | 0 | HTTP client whose handles switch between blocking and async with to_sync and to… |
-| 2026-11-09 02:17:43 | [xidl-http-docs](https://crates.io/crates/xidl-http-docs) | 0.111.0 | 0 | Standalone versioned HTTP API documentation generator for XIDL |
-| 2026-11-09 02:17:52 | [canc-core](https://crates.io/crates/canc-core) | 0.1.0 | 0 | Core scanner for comment-tag annotations (NOTE/TODO/…), shared by the canc LSP… |
-| 2026-11-09 02:18:09 | [canc](https://crates.io/crates/canc) | 0.1.0 | 0 | canc — comment-tag annotation LSP server and CLI (semantic tokens, diagnostics,… |
+| 2026-11-09 02:19:29 | [xtalforge](https://crates.io/crates/xtalforge) | 0.0.2 | 0 | Pure Rust library for building, manipulating, analysing and exporting crystal s… |
+| 2026-11-09 02:21:45 | [xgpui-shell](https://crates.io/crates/xgpui-shell) | 0.1.0 | 0 | Experimental desktop-aware window shell for XGPUI applications |
+| 2026-11-09 02:21:57 | [quercus-ffmpeg-sys](https://crates.io/crates/quercus-ffmpeg-sys) | 0.7.0 | 0 | FFI bindings to FFmpeg |
+| 2026-11-09 02:22:07 | [quercus-ffmpeg-next](https://crates.io/crates/quercus-ffmpeg-next) | 0.7.0 | 0 | Safe FFmpeg wrapper (FFmpeg 4 compatible fork of the ffmpeg crate) |
+| 2026-11-09 02:23:57 | [sz-rust-sdd](https://crates.io/crates/sz-rust-sdd) | 2.1.0 | 0 | SZ-Rust SDD Agent — Spec-Driven Development 四阶段编排引擎 |
+| 2026-11-09 02:24:51 | [sz-rust-migration](https://crates.io/crates/sz-rust-migration) | 2.1.0 | 0 | SZ-Rust AI 辅助迁移工具 — TP6 → sz-rust 端到端迁移流水线 |
+| 2026-11-09 02:28:12 | [rarchive](https://crates.io/crates/rarchive) | 0.1.1 | 0 | Fast, unobtrusive pure-Rust archive reader (RAR 1.5-5, ZIP, 7z) |
+| 2026-11-09 02:29:29 | [xtalforge-cli](https://crates.io/crates/xtalforge-cli) | 0.0.2 | 0 | Command-line interface for xtalforge. |
+| 2026-11-09 02:30:48 | [rt-endian-rw](https://crates.io/crates/rt-endian-rw) | 1.0.0 | 0 | A Rust library crate that extends the 'Read' and 'Write' trait to read and writ… |
+| 2026-11-09 02:35:21 | [ncnn-rust-sys](https://crates.io/crates/ncnn-rust-sys) | 0.1.0 | 0 | Raw ncnn bindings and C ABI adapters for an externally installed SDK |
+| 2026-11-09 02:35:40 | [ncnn-rust](https://crates.io/crates/ncnn-rust) | 0.1.0 | 0 | Inference and resource-safe interfaces for an externally installed ncnn SDK |
+| 2026-11-09 02:39:03 | [codepact](https://crates.io/crates/codepact) | 0.3.0 | 0 | Inspect CodePact contracts in Python source without executing it |
+| 2026-11-09 02:41:23 | [rustffx](https://crates.io/crates/rustffx) | 1.0.0 | 0 | Ecossistema feito do zero, construido em cima do winit e inspirado no JavaFX. |
+| 2026-11-09 02:45:53 | [filer-proto](https://crates.io/crates/filer-proto) | 0.11.0 | 0 | Sans-IO client and server of the Filer protocol of the HP 100LX and 200LX palmt… |
+| 2026-11-09 02:46:15 | [lucida-analytics](https://crates.io/crates/lucida-analytics) | 0.1.0 | 0 | Lucida server SDK: batched events, local feature-flag evaluation, historical im… |
+| 2026-11-09 02:51:43 | [utf-nuku-core](https://crates.io/crates/utf-nuku-core) | 0.1.1 | 0 | UTF-8 / UTF-16 / UTF-32 encoder and decoder written from scratch, with a step-b… |
+| 2026-11-09 02:51:46 | [utf-nuku](https://crates.io/crates/utf-nuku) | 0.1.1 | 0 | CLI that encodes and decodes UTF-8 / UTF-16 / UTF-32 through Unix pipes and sho… |
+| 2026-11-09 02:52:20 | [hanafubuki-agent-foundation](https://crates.io/crates/hanafubuki-agent-foundation) | 0.1.0 | 0 | Neutral mechanisms for hanafubuki-agent: paths, cancellation, panics, persisten… |
+| 2026-11-09 02:52:21 | [hanafubuki-agent-tool-contracts](https://crates.io/crates/hanafubuki-agent-tool-contracts) | 0.1.0 | 0 | Tool call and tool result types shared by the hanafubuki-agent crates |
+| 2026-11-09 02:52:22 | [hanafubuki-agent-approval](https://crates.io/crates/hanafubuki-agent-approval) | 0.1.0 | 0 | Approval rules and decisions for hanafubuki-agent tool calls |
+| 2026-11-09 02:52:22 | [hanafubuki-agent-host](https://crates.io/crates/hanafubuki-agent-host) | 0.1.0 | 0 | The kardia plugin host of hanafubuki-agent: plugin rows, bounds, faults, restar… |
+| 2026-11-09 02:52:23 | [hanafubuki-agent-model-api](https://crates.io/crates/hanafubuki-agent-model-api) | 0.1.0 | 0 | Model provider protocols for hanafubuki-agent: requests, streaming and tool-cal… |
+| 2026-11-09 02:53:35 | [lucida-openfeature](https://crates.io/crates/lucida-openfeature) | 0.1.0 | 0 | OpenFeature provider for Lucida (server paradigm) |
+| 2026-11-09 03:02:44 | [hanafubuki-agent-contracts](https://crates.io/crates/hanafubuki-agent-contracts) | 0.1.0 | 0 | The hanafubuki-agent plugin API: the registries and the tool, context and appro… |
+| 2026-11-09 03:06:15 | [polyjose](https://crates.io/crates/polyjose) | 0.1.1 | 0 | Pure-Rust JOSE: JWA, JWK, JWS, JWE and JWT per the RFCs, with no OpenSSL |
+| 2026-11-09 03:09:16 | [cadep](https://crates.io/crates/cadep) | 0.1.0 | 0 | Typed Chrome DevTools Protocol communication for Rust |
+| 2026-11-09 03:13:06 | [hanafubuki-agent-memory](https://crates.io/crates/hanafubuki-agent-memory) | 0.1.0 | 0 | Long-term memory for hanafubuki-agent: generation, consolidation and retrieval |
+| 2026-11-09 03:18:08 | [wasdk-macros](https://crates.io/crates/wasdk-macros) | 0.1.0 | 0 | #[wasdk::main], the entry of a WaOS program written with wasdk, which wasdk re-… |
+| 2026-11-09 03:18:23 | [wasdk](https://crates.io/crates/wasdk) | 0.1.0 | 0 | What WaOS programs are written with: the bindings of the WIT packages wasdk:pla… |
 
 ## Data source
 

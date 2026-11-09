@@ -1,0 +1,30 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-09T02:19:29.629293Z,xtalforge,0.0.2,0,0,https://github.com/jigonzalez930209/xtalforge,"Pure Rust library for building, manipulating, analysing and exporting crystal structures."
+2026-11-09T02:21:45.331533Z,xgpui-shell,0.1.0,0,0,https://github.com/gpui-luma-dev/xgpui,Experimental desktop-aware window shell for XGPUI applications
+2026-11-09T02:21:57.980478Z,quercus-ffmpeg-sys,0.7.0,0,0,https://github.com/zmwangx/rust-ffmpeg-sys,FFI bindings to FFmpeg
+2026-11-09T02:22:07.566359Z,quercus-ffmpeg-next,0.7.0,0,0,https://github.com/zmwangx/rust-ffmpeg,Safe FFmpeg wrapper (FFmpeg 4 compatible fork of the ffmpeg crate)
+2026-11-09T02:23:57.157911Z,sz-rust-sdd,2.1.0,0,0,https://github.com/ljclz/sz-rust,SZ-Rust SDD Agent — Spec-Driven Development 四阶段编排引擎
+2026-11-09T02:24:51.169112Z,sz-rust-migration,2.1.0,0,0,https://github.com/ljclz/sz-rust,SZ-Rust AI 辅助迁移工具 — TP6 → sz-rust 端到端迁移流水线
+2026-11-09T02:28:12.495221Z,rarchive,0.1.1,0,0,https://github.com/gelenmedya/rarchive,"Fast, unobtrusive pure-Rust archive reader (RAR 1.5-5, ZIP, 7z)"
+2026-11-09T02:29:29.112607Z,xtalforge-cli,0.0.2,0,0,https://github.com/jigonzalez930209/xtalforge,Command-line interface for xtalforge.
+2026-11-09T02:30:48.816129Z,rt-endian-rw,1.0.0,0,0,https://github.com/rmod8/rt-endian-rw,A Rust library crate that extends the 'Read' and 'Write' trait to read and write Rust types with a runtime-specified endianness.
+2026-11-09T02:35:21.267307Z,ncnn-rust-sys,0.1.0,0,0,https://github.com/Edwardssss/ncnn.rust,Raw ncnn bindings and C ABI adapters for an externally installed SDK
+2026-11-09T02:35:40.793196Z,ncnn-rust,0.1.0,0,0,https://github.com/Edwardssss/ncnn.rust,Inference and resource-safe interfaces for an externally installed ncnn SDK
+2026-11-09T02:39:03.883006Z,codepact,0.3.0,0,0,https://github.com/eddiethedean/codepact,Inspect CodePact contracts in Python source without executing it
+2026-11-09T02:41:23.929032Z,rustffx,1.0.0,0,0,,"Ecossistema feito do zero, construido em cima do winit e inspirado no JavaFX."
+2026-11-09T02:45:53.135362Z,filer-proto,0.11.0,0,0,https://github.com/ractive/saturnus,"Sans-IO client and server of the Filer protocol of the HP 100LX and 200LX palmtops (framing, CRC, commands, error codes, retries)"
+2026-11-09T02:46:15.416271Z,lucida-analytics,0.1.0,0,0,https://github.com/lucidaanalytics/lucida-rust,"Lucida server SDK: batched events, local feature-flag evaluation, historical import"
+2026-11-09T02:51:43.630438Z,utf-nuku-core,0.1.1,0,0,https://gitlab.com/adamerikoff/utf-nuku,"UTF-8 / UTF-16 / UTF-32 encoder and decoder written from scratch, with a step-by-step trace of every char"
+2026-11-09T02:51:46.225462Z,utf-nuku,0.1.1,0,0,https://gitlab.com/adamerikoff/utf-nuku,CLI that encodes and decodes UTF-8 / UTF-16 / UTF-32 through Unix pipes and shows every step bit by bit
+2026-11-09T02:52:20.706964Z,hanafubuki-agent-foundation,0.1.0,0,0,https://github.com/licyk/hanafubuki-agent,"Neutral mechanisms for hanafubuki-agent: paths, cancellation, panics, persistence and blocking work"
+2026-11-09T02:52:21.154492Z,hanafubuki-agent-tool-contracts,0.1.0,0,0,https://github.com/licyk/hanafubuki-agent,Tool call and tool result types shared by the hanafubuki-agent crates
+2026-11-09T02:52:22.146695Z,hanafubuki-agent-approval,0.1.0,0,0,https://github.com/licyk/hanafubuki-agent,Approval rules and decisions for hanafubuki-agent tool calls
+2026-11-09T02:52:22.59755Z,hanafubuki-agent-host,0.1.0,0,0,https://github.com/licyk/hanafubuki-agent,"The kardia plugin host of hanafubuki-agent: plugin rows, bounds, faults, restarts and status"
+2026-11-09T02:52:23.076595Z,hanafubuki-agent-model-api,0.1.0,0,0,https://github.com/licyk/hanafubuki-agent,"Model provider protocols for hanafubuki-agent: requests, streaming and tool-call lowering"
+2026-11-09T02:53:35.807543Z,lucida-openfeature,0.1.0,0,0,https://github.com/lucidaanalytics/lucida-rust-openfeature,OpenFeature provider for Lucida (server paradigm)
+2026-11-09T03:02:44.406808Z,hanafubuki-agent-contracts,0.1.0,0,0,https://github.com/licyk/hanafubuki-agent,"The hanafubuki-agent plugin API: the registries and the tool, context and approval contracts plugins use"
+2026-11-09T03:06:15.690465Z,polyjose,0.1.1,0,0,https://github.com/bharathkontham/polyjose,"Pure-Rust JOSE: JWA, JWK, JWS, JWE and JWT per the RFCs, with no OpenSSL"
+2026-11-09T03:09:16.100243Z,cadep,0.1.0,0,0,https://github.com/xJonathanLEI/cadep,Typed Chrome DevTools Protocol communication for Rust
+2026-11-09T03:13:06.462261Z,hanafubuki-agent-memory,0.1.0,0,0,https://github.com/licyk/hanafubuki-agent,"Long-term memory for hanafubuki-agent: generation, consolidation and retrieval"
+2026-11-09T03:18:08.684925Z,wasdk-macros,0.1.0,0,0,,"#[wasdk::main], the entry of a WaOS program written with wasdk, which wasdk re-exports."
+2026-11-09T03:18:23.721561Z,wasdk,0.1.0,0,0,,"What WaOS programs are written with: the bindings of the WIT packages wasdk:platform and wasdk:media, as wit-bindgen generates them, passed through, and the program's entry."
