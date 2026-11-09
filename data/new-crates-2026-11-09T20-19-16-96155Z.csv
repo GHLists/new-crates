@@ -1,0 +1,39 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-09T19:20:01.464747Z,tapi_macros,0.0.1,0,0,https://github.com/pedrobartolini/tapi,"Derive macros for tapi, not for direct use"
+2026-11-09T19:20:03.947996Z,tapi,0.0.1,0,0,https://github.com/pedrobartolini/tapi,Typesafe API layer over axum with spec-driven input validation
+2026-11-09T19:21:26.447477Z,slantlet,0.1.0,0,0,https://github.com/sunsided/slantlet,"The Slantlet transform (Selesnick, 1999): an orthogonal, O(N) discrete wavelet-like transform with piecewise-linear basis functions and two vanishing moments."
+2026-11-09T19:24:22.808698Z,recse,0.0.1-dev.1,0,0,,rECSe - rust Entity Component System engine (game engine 2D/3D)
+2026-11-09T19:25:28.29817Z,breathe-resize,0.1.72,0,0,https://github.com/pleme-io/breathe,"The in-place pod resize as pure functions — resizePolicy restart check, QoS-preserving limit block, request block, the pods/{name}/resize body, and the convergence check against status.containerStatu…"
+2026-11-09T19:25:33.52023Z,breathe-capacity,0.1.72,0,0,https://github.com/pleme-io/breathe,"A pure, deterministic capacity-raise planner: turns an intent to grow memory, CPU, replicas or a node pool into ordered, bounded steps checked for node fit, cluster headroom, HPA replica shift, rollo…"
+2026-11-09T19:25:53.234584Z,ic-entropy-ic,0.1.1,0,0,https://github.com/dragginzgame/ic-entropy,IC entropy acquisition with opt-in timer-driven buffering and bounded random generation
+2026-11-09T19:28:34.351746Z,pb-mapper-desktop,0.11.0,0,0,https://github.com/acking-you/pb-mapper,Optional encrypted remote desktop endpoints for pb-mapper
+2026-11-09T19:33:37.025253Z,ferrifuge,0.21.0,0,0,https://github.com/jbiscella/ferrifuge,Centrifugo client SDK for Rust
+2026-11-09T19:36:07.015364Z,adaptif,0.0.1,0,0,https://github.com/bglid/adaptif,Adaptive filters for digital signal processing.
+2026-11-09T19:36:21.76852Z,minigrep_noa,0.1.0,0,0,,"First rustbook mini project, barebones grep implementatoin."
+2026-11-09T19:42:50.173553Z,burn-shard,0.23.0-pre.2,0,0,https://github.com/tracel-ai/burn/tree/main/crates/burn-shard,"Tensors split over several devices, with the sharding rule of each op"
+2026-11-09T19:43:09.425144Z,sonatype-policy-demo,1.3.0,0,0,https://github.com/sonatype/rust-policy-demo,A simple demo project that Sonatype employees can use to demo policy (and possibly other) features for Rust. It does not do anything of use and should not be used in production by anyone ever.
+2026-11-09T19:43:24.213509Z,rainmill-location,0.1.0,0,0,https://github.com/rainmill/location-plugin,"Rainmill Location: a portable curated place tree with aliases and resolution, for Laterite"
+2026-11-09T19:43:29.383906Z,rainmill-discovery,0.1.0,0,0,https://github.com/rainmill/discovery-plugin,"Rainmill Discovery: the files a site publishes about itself (robots.txt, sitemap.xml, llms.txt, humans.txt, security.txt), for Laterite"
+2026-11-09T19:43:35.251704Z,rainmill-user,0.1.0,0,0,https://github.com/rainmill/user-plugin,"Rainmill User: registered users, groups, preferences and an activity log for Laterite applications"
+2026-11-09T19:43:43.836967Z,rainmill-geo,0.1.0,0,0,https://github.com/rainmill/geo-plugin,"Rainmill Geo: PostGIS geometry, point-in-polygon, and nearest-neighbour primitives for Laterite"
+2026-11-09T19:53:55.555795Z,espnow-reliable,0.1.0,0,0,https://github.com/ApexDevelopment/espnow-reliable,"Reliable, ordered message delivery over ESP-NOW, as a no_std sans-IO state machine"
+2026-11-09T19:54:39.775177Z,sitesquatch-plugin-handlebars,0.3.0,0,0,https://github.com/reverentgeek/sitesquatch,Handlebars and Mustache templates for SiteSquatch
+2026-11-09T19:54:40.392235Z,sitesquatch-plugin-jinja,0.3.0,0,0,https://github.com/reverentgeek/sitesquatch,Nunjucks and Jinja templates for SiteSquatch
+2026-11-09T19:54:40.9809Z,sitesquatch-plugin-liquid,0.3.0,0,0,https://github.com/reverentgeek/sitesquatch,Liquid templates for SiteSquatch
+2026-11-09T19:55:01.76932Z,fastcrypto-threshold,0.1.1,0,0,https://github.com/MystenLabs/fastcrypto,"Threshold BLS, threshold Schnorr and DKG protocols"
+2026-11-09T19:55:18.4056Z,fastcrypto-vdf,0.1.1,0,0,https://github.com/MystenLabs/fastcrypto,Verifiable delay functions
+2026-11-09T19:55:32.694282Z,rheon-feel-number,0.1.0,0,0,https://github.com/spearsandshields/rheon,rheon | FEEL number: exact decimal128 arithmetic in pure Rust (fork of dsntk-feel-number)
+2026-11-09T19:55:33.220655Z,rheon-feel-regex,0.1.0,0,0,https://github.com/spearsandshields/rheon,rheon | FEEL regular expressions (fork of dsntk-feel-regex)
+2026-11-09T19:55:33.955018Z,rheon-feel-temporal,0.1.0,0,0,https://github.com/spearsandshields/rheon,rheon | FEEL temporal types (fork of dsntk-feel-temporal)
+2026-11-09T19:55:35.77578Z,rheon-feel,0.1.0,0,0,https://github.com/spearsandshields/rheon,rheon | FEEL definitions (fork of dsntk-feel)
+2026-11-09T19:55:36.737358Z,rheon-feel-parser,0.1.0,0,0,https://github.com/spearsandshields/rheon,rheon | FEEL parser (fork of dsntk-feel-parser)
+2026-11-09T19:56:01.530778Z,yggdrasil-proto,0.1.0,0,0,https://github.com/ApexDevelopment/yggdrasil-rs,"The operating-system-free parts of yggdrasil-rs, for embedded Yggdrasil nodes"
+2026-11-09T19:56:18.406407Z,yggdrasil-mesh,0.1.0,0,0,https://github.com/ApexDevelopment/yggdrasil-rs,"A Rust port of Yggdrasil, an end-to-end encrypted IPv6 mesh network"
+2026-11-09T20:00:42.295976Z,stem_types,0.1.0,0,0,https://github.com/StefanMathis/stem_types.git,Types for specifying the positioning of coils in stem - a Simulation Toolbox for Electric Motors.
+2026-11-09T20:01:35.23306Z,taskee-derive,0.1.0,0,0,https://github.com/bllexz/taskee,Derive macros for the taskee crate
+2026-11-09T20:01:38.340615Z,taskee,0.1.0,0,0,https://github.com/bllexz/taskee,"Typed, observable state for long-running async tasks. Built on tokio::sync::watch"
+2026-11-09T20:02:37.192572Z,rheon-feel-evaluator,0.1.0,0,0,https://github.com/spearsandshields/rheon,rheon | FEEL expression evaluator (fork of dsntk-feel-evaluator)
+2026-11-09T20:02:41.440609Z,pdfq,0.1.1,0,0,https://github.com/hakuxyz/pdfq,"Fast, parallel PDF search with a pdfgrep-compatible CLI"
+2026-11-09T20:04:30.47238Z,myco-core,0.1.1,0,0,https://github.com/9aia/myco,"myco domain core: item models, ID registry, state machine — pure, no I/O"
+2026-11-09T20:12:59.575365Z,rheon-model,0.1.0,0,0,https://github.com/spearsandshields/rheon,rheon | DMN model and parser (fork of dsntk-model)
+2026-11-09T20:17:32.447543Z,mq-bridge-full,1.4.0,0,0,https://github.com/marcomq/mq-bridge,"Every built-in mq-bridge endpoint as one loadable plugin library, for hosts that embed mq-bridge without them"
