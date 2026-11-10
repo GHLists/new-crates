@@ -1,0 +1,45 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-10T21:23:09.921227Z,mercurioctl,0.1.0,0,0,https://github.com/frenzox/mercurio,Command-line administration for the Mercurio MQTT broker
+2026-11-10T21:23:30.11592Z,navree-billing,1.0.0,0,0,https://github.com/NavreeHQ/navree,"Navree BillingModule: subscriptions, trials, seats, metered usage and invoices for users or workspaces, with Stripe or Paddle."
+2026-11-10T21:23:34.645539Z,lakehousebox,0.0.1,0,0,,"Reserved for LakehouseBox, the European-operated Apache Iceberg lakehouse for agents. Real releases will appear here."
+2026-11-10T21:23:37.161755Z,lhbox,0.0.1,0,0,,"Reserved for LakehouseBox, the European-operated Apache Iceberg lakehouse for agents. Real releases will appear here."
+2026-11-10T21:29:19.424262Z,aft-store,0.64.0,0,0,,On-disk index formats for Agent File Tools
+2026-11-10T21:33:31.23813Z,navree-directory,1.0.0,0,0,https://github.com/NavreeHQ/navree,Navree DirectoryModule: a SCIM 2.0 server and directory pull connectors that sync users and groups into your app.
+2026-11-10T21:33:40.814446Z,rex-iroh,0.0.0,0,0,https://tangled.org/isaaccorbrey.com/rex-iroh,"Pre-release placeholder for rex-iroh, a sidecar that connects Rex clients and servers over iroh; under active development at https://tangled.org/isaaccorbrey.com/rex-iroh"
+2026-11-10T21:38:41.91134Z,dato,0.0.0,0,0,https://github.com/LeoBorai/dato,Database Client TUI for SQLite
+2026-11-10T21:39:23.349443Z,mopr-macros,0.0.131,0,0,https://github.com/quant1x/mopr,mopr 的过程宏: #[cron_cache]
+2026-11-10T21:39:53.127334Z,pixctl,0.0.1,0,0,https://github.com/driftsys/pixctl,"Hermetic CLI that fits raster images for Markdown docs (PNG/WebP, display gate)"
+2026-11-10T21:39:59.299931Z,tblctl,0.0.1,0,0,https://github.com/driftsys/tblctl,Hermetic CLI that converts and checks tables for Markdown docs (XLSX/DOCX/CSV)
+2026-11-10T21:43:27.158278Z,navree-helm,1.0.0,0,0,https://github.com/NavreeHQ/navree,"Navree HelmModule: an admin panel generated from your navree-orm models, checked against your access rules."
+2026-11-10T21:46:46.348018Z,mininter-macros,0.1.1,0,0,https://github.com/Tech0ne/mininter,"#[api] procedural macro, making api integrations with MinInter really easy"
+2026-11-10T21:47:36.508139Z,cargo-rconfig,0.1.0,0,0,https://github.com/AdamPlejznerowski/cargo-rconfig,Cargo subcommand extending Rust's build system with declarative environment and flag management. (WIP)
+2026-11-10T21:47:40.943495Z,mininter,0.1.1,0,0,https://github.com/Tech0ne/mininter,"A MiniScript compiler/interpreter, writen in pure rust, with easy to use API"
+2026-11-10T21:48:37.934681Z,ordo-diff,0.6.0,0,0,https://github.com/FoamScience/ordo,Comprehension-optimized ordering of code-change hunks
+2026-11-10T21:51:23.721274Z,fat-toolkit-core,2.1.0,0,0,https://github.com/attify/firmware-analysis-toolkit,Shared models and SQLite persistence for FAT
+2026-11-10T21:51:36.422921Z,fat-toolkit-family,2.1.0,0,0,https://github.com/attify/firmware-analysis-toolkit,Signal-based device family classification for FAT
+2026-11-10T21:51:41.612083Z,fat-toolkit-package,2.1.0,0,0,https://github.com/attify/firmware-analysis-toolkit,Firmware package and blob parsing helpers for FAT
+2026-11-10T21:51:53.582623Z,fat-toolkit-extract,2.1.0,0,0,https://github.com/attify/firmware-analysis-toolkit,Bounded firmware container and filesystem extraction for FAT
+2026-11-10T21:52:20.589331Z,fat-toolkit-plugin-api,2.1.0,0,0,https://github.com/attify/firmware-analysis-toolkit,Plugin system type definitions for FAT
+2026-11-10T21:53:28.43448Z,navree-lighthouse,1.0.0,0,0,https://github.com/NavreeHQ/navree,"Navree LighthouseModule: application monitoring inside your app, with exceptions grouped into issues, traces, alerts and a dashboard."
+2026-11-10T21:54:07.821151Z,axa-maud-templates,0.1.0,0,0,https://github.com/publicprojects-io/axa/,Maud compile-time HTML templates with safe escaping and generic errors for Axum services.
+2026-11-10T21:55:22.306004Z,console-json,0.0.1,0,0,https://github.com/noirbizarre/console-json,"A lightweight, terminal-aware JSON pretty printer for Rust, built on console-rs and Serde."
+2026-11-10T21:55:48.950109Z,lsdk,0.0.0,0,0,https://github.com/KarpelesLab/lsdk,"Rust SDK for hardware wallets speaking the BOLOS APDU protocol: HID/WebHID transport, device info, genuine check, app management, firmware updates and app signers"
+2026-11-10T21:56:13.195869Z,mininter-shell,0.1.1,0,0,https://github.com/Tech0ne/mininter,A standalone MiniScript runner/compiler/repl using MinInter
+2026-11-10T21:57:43.589746Z,rapidworkers,0.1.0,0,0,https://github.com/RapidWorkers-io/rapidworkers,"Official Rust SDK for RapidWorkers: hire real people for microtasks, app testing and AI data collection (photos, audio, video, text)."
+2026-11-10T21:57:46.318451Z,rapidworkers-mcp,0.1.0,0,0,https://github.com/RapidWorkers-io/rapidworkers,"MCP server for RapidWorkers: let AI agents hire real people for AI data collection (photos, audio, video), app testing, surveys and microtasks."
+2026-11-10T22:00:08.650541Z,once_type_map,0.1.0,0,0,,"Thread-safe, insert-once type map that hands out plain references (no guards), like a OnceLock keyed by type"
+2026-11-10T22:00:27.866472Z,acquire,0.1.1,0,0,https://github.com/curlh/acquire,"Acquisition core for microscopes: event timing, hardware sequences, live view and OME-TIFF writing"
+2026-11-10T22:02:49.473198Z,fat-toolkit-backend,2.1.0,0,0,https://github.com/attify/firmware-analysis-toolkit,Emulation backend abstraction and registry for FAT
+2026-11-10T22:03:04.094304Z,drift_rust,0.5.1,0,0,https://github.com/rad-ox/drift,Zero-dependency compile-once Rust test bridge for DRIFT
+2026-11-10T22:03:30.104175Z,navree-search,1.0.0,0,0,https://github.com/NavreeHQ/navree,"Navree SearchModule: full-text and vector search over models, on the database, Meilisearch, Typesense, Tantivy or memory."
+2026-11-10T22:04:56.249154Z,normfs-capi,0.4.8,0,0,https://github.com/norma-core/normfs,C ABI for NormFS: a static library and normfs.h for C and C++ programs
+2026-11-10T22:12:18.450318Z,howdah,0.1.0,0,0,https://github.com/Hacker-007/howdah,Typed Postgres queries for Rust
+2026-11-10T22:13:26.445927Z,navree-sheets,1.0.0,0,0,https://github.com/NavreeHQ/navree,"Navree SheetsModule: CSV and Excel exports and import pipelines with header mapping, row validation, a preview and error files."
+2026-11-10T22:14:01.614251Z,fat-toolkit-bootloader,2.1.0,0,0,https://github.com/attify/firmware-analysis-toolkit,Bootloader profile loading and boot-plan modeling for FAT
+2026-11-10T22:16:52.383776Z,ikigai-xrust,2.3.0-ikigai.1,0,0,https://github.com/ikigai-rs/ikigai-xslt,xrust 2.3.0 with prefixed attribute values kept as written: support for XPath and XSLT
+2026-11-10T22:19:52.023411Z,arqlet-model,0.1.0,0,0,https://github.com/intentweave/arqlet,"Canonical graph identities, revisions, nested containers, ports and logical edges."
+2026-11-10T22:19:52.706265Z,arqlet-topology,0.1.0,0,0,https://github.com/intentweave/arqlet,"Planarity analysis and straight-line grid drawings for undirected graphs (A4b, provisional)."
+2026-11-10T22:19:54.985355Z,arqlet-elk,0.1.0,0,0,https://github.com/intentweave/arqlet,"Provisional adapter for graphs in the JSON form ELK uses (children, ports, edges with sources and targets, layoutOptions): translated into an Arqlet graph and options, and the layout written back. No…"
+2026-11-10T22:19:55.955555Z,arqlet-routing,0.1.0,0,0,https://github.com/intentweave/arqlet,"Edge routing for Arqlet: orthogonal and polyline routes, ports and bundle membership."
+2026-11-10T22:19:56.956328Z,arqlet-scene,0.1.0,0,0,https://github.com/intentweave/arqlet,"Renderer-independent scene geometry, labels, metrics and spatial queries for Arqlet layouts."
+2026-11-10T22:20:01.216289Z,externally-driven-async-rt,0.1.0,0,0,https://github.com/iliabylich/externally-driven-async-rt,Async runtime that is meant to be embedded
