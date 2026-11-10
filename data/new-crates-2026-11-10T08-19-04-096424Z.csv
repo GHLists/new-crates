@@ -1,0 +1,57 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-10T07:20:32.210406Z,wisk,0.1.0,0,0,https://github.com/nonelop/Wisk,Simple algebraic crate
+2026-11-10T07:20:36.669082Z,logbear-setup,0.1.3,0,0,https://github.com/teralabx/logbear,"Connects logbear to coding agents and the login session: MCP servers, hooks and the daemon service"
+2026-11-10T07:20:41.420339Z,rightkit-prompt-recipes,0.1.0,0,0,https://github.com/bogusyogi/rightkit,"Prompt contracts and validator, recipe composer and catalogue, character and LoRA lock, video quality templates, template swap, brand codes and the KDP workflow."
+2026-11-10T07:20:56.761982Z,logbeard,0.1.3,0,0,https://github.com/teralabx/logbear,"The logbear daemon: ingest, storage, retention, fanout and notifications"
+2026-11-10T07:21:05.617469Z,logbear-mcp,0.1.3,0,0,https://github.com/teralabx/logbear,MCP server exposing logbear's capture database to coding agents
+2026-11-10T07:21:08.833307Z,logbear-hook,0.1.3,0,0,https://github.com/teralabx/logbear,"Agent hook for Claude Code, Codex, pi and Hermes that pushes logbear errors into the agent's context"
+2026-11-10T07:21:23.682452Z,xstate-statemachine,0.1.0,0,0,https://github.com/basiltt/xstate-statemachine-rs,"XState v5 / SCXML statecharts for Rust: one facade crate re-exporting the engine, async runtime, persistence, EDA, patterns, observability, inspector and typed DSL behind feature flags"
+2026-11-10T07:21:54.138087Z,tpt-doc,0.1.0,0,0,https://github.com/tpt-solutions/tpt-doc,"Facade for the tpt-doc workspace: PDF, DOCX, XLSX, FHIR, HL7 v2, EDI, UBL e-invoicing and signing behind per-format feature flags"
+2026-11-10T07:22:45.314875Z,zumen-geo,0.2.0,0,0,https://github.com/zumen-jp/zumen,zumen の地理の領域モデル（地物・属性・LOD ごとの形、決定 0233）
+2026-11-10T07:27:57.949786Z,oqs-native,0.16.0,0,0,https://github.com/DeveloperBeau/liboqs-rust,A native Rust port of liboqs: every algorithm family behind one registry.
+2026-11-10T07:28:41.783423Z,bilingua-mo,0.9.1,0,0,https://github.com/patois-labs/bilingua,"Bilingua: gettext binary MO (mo, gmo) filter"
+2026-11-10T07:31:42.914821Z,rightkit-mail-store,0.1.0,0,0,https://github.com/bogusyogi/rightkit,"Mail store over SQLCipher: encrypted open with key candidates and lifetime lock, versioned schema and migration gate with backup, accounts, labels, threads, search adapter, outbox and pending queues,…"
+2026-11-10T07:31:46.104278Z,logbear,0.1.3,0,0,https://github.com/teralabx/logbear,"Local dev server logs for agents: wrap a command, capture everything it emits, and push errors at your agent"
+2026-11-10T07:31:55.978076Z,tpt-doc-cli,0.1.0,0,0,https://github.com/tpt-solutions/tpt-doc,"The `tpt` command line tool: sniff, inspect, validate and render documents (HL7 v2, EDI, FHIR, UBL, PDF, DOCX, XLSX)"
+2026-11-10T07:32:07.890965Z,xstate-statemachine-cli,0.1.0,0,0,https://github.com/basiltt/xstate-statemachine-rs,"Command-line tool for xstate-statemachine: validate, inspect, simulate, diagram and operate statecharts"
+2026-11-10T07:33:15.774085Z,jackdaw_data_path,0.20.1-rc.2,0,0,https://github.com/jbuehler23/jackdaw,Validation of the scene-relative paths jackdaw sidecar files are named by
+2026-11-10T07:33:32.815542Z,jackdaw_recipe,0.20.1-rc.2,0,0,https://github.com/jbuehler23/jackdaw,Engine-agnostic recipe inputs and expressions for the jackdaw editor
+2026-11-10T07:33:54.100344Z,zumen-extdm,0.2.0,0,0,https://github.com/zumen-jp/zumen,zumen の拡張 DM（公共測量標準図式の数値地形図データ）の読み取りと、地理の領域モデルへの移し（#378）
+2026-11-10T07:33:57.459777Z,jackdaw_tilemap,0.20.1-rc.2,0,0,https://github.com/jbuehler23/jackdaw,Engine-agnostic tilemap grid and chunk storage for the jackdaw editor
+2026-11-10T07:38:33.635751Z,jackdaw_tileset,0.20.1-rc.2,0,0,https://github.com/jbuehler23/jackdaw,Tileset asset for jackdaw tilemaps: a packed array image plus its terrains and objects
+2026-11-10T07:38:41.182163Z,bilingua-odf,0.9.1,0,0,https://github.com/patois-labs/bilingua,Bilingua: OpenDocument (odt ott ods ots odp otp odg otg) filters
+2026-11-10T07:39:41.961611Z,ik-analyzer-rs,1.3.0,0,0,https://github.com/hoare211/ik-analyzer-rs,"A high-performance, thread-safe Rust Chinese tokenizer built on the analysis-ik baseline, with an explicit opt-in IK Analyzer 2012_u6 parity contract."
+2026-11-10T07:41:56.355424Z,tpt-doc-mcp,0.1.0,0,0,https://github.com/tpt-solutions/tpt-doc,"Model Context Protocol server exposing tpt-doc validation, conversion and generation to AI agents"
+2026-11-10T07:42:19.333488Z,katgpt-assign,0.1.0,0,0,https://github.com/katopz/katgpt-rs,"Spec-driven constrained assignment solver — objects into containers under capacity/balance/movement specs, delta-evaluated over an integer expression DAG with deterministic local search. Pure modelle…"
+2026-11-10T07:42:38.280378Z,rightkit-agent-server,0.1.1,0,0,https://github.com/bogusyogi/rightkit,"Agent server host: HTTP/daemon API routes, CLI and interactive-session runtime, session hosting and orchestration glue for coding-agent applications"
+2026-11-10T07:44:55.523064Z,task-traffic-controller,0.5.0,0,0,https://github.com/t09tanaka/task-traffic-controller,A local admission controller that gates heavy commands behind a shared CPU budget and learns their weight
+2026-11-10T07:45:03.602243Z,zumen-jww,0.2.0,0,0,https://github.com/zumen-jp/zumen,zumen の JWW のファイルモデル（L1）と、そのコーデック
+2026-11-10T07:45:04.180619Z,zumen-pointcloud,0.2.0,0,0,https://github.com/zumen-jp/zumen,zumen の点群の領域モデル（L2、決定 0232）。地図の空間の列の点と、八分木の索引
+2026-11-10T07:46:58.744518Z,propel_parser,0.2.0,0,0,https://github.com/lajennylove/Propel,"Lexer, parser, and AST for the Propel templating language."
+2026-11-10T07:47:46.276661Z,html-conform-wasm,0.1.0,0,0,https://github.com/casoon/barrierlab,"WASM boundary for html-conform: HTML5 conformance checking in the browser, Node and Workers."
+2026-11-10T07:47:49.048297Z,propel_runtime,0.2.0,0,0,https://github.com/lajennylove/Propel,"Dev-mode renderer for Propel: renders templates at request time, reading the source from disk so edits show up without a rebuild."
+2026-11-10T07:48:20.269877Z,propel_compiler,0.2.0,0,0,https://github.com/lajennylove/Propel,Code generation for Propel: turns a parsed template into Rust.
+2026-11-10T07:48:41.478954Z,bilingua-plist,0.9.1,0,0,https://github.com/patois-labs/bilingua,Bilingua: Apple property lists (XML and binary) and .stringsdict parser and byte-faithful writer
+2026-11-10T07:48:52.746468Z,propel_macros,0.2.0,0,0,https://github.com/lajennylove/Propel,"Proc macros for Propel: check a context against the templates that use it, and compile views from a directory."
+2026-11-10T07:49:22.274776Z,chloedb,0.0.1,0,0,https://github.com/chloetech-ai/strata,"Placeholder: holds the name for Strata, an embedded search database with SQL. See https://github.com/chloetech-ai/strata"
+2026-11-10T07:49:36.034147Z,propel_rocket,0.2.0,0,0,https://github.com/lajennylove/Propel,Rocket integration for Propel: the PropelView responder.
+2026-11-10T07:53:30.115163Z,jackdaw_editor_core,0.20.1-rc.2,0,0,https://github.com/jbuehler23/jackdaw,Core of the Jackdaw scene editor
+2026-11-10T07:53:33.678758Z,jackdaw_editor_animation,0.20.1-rc.2,0,0,https://github.com/jbuehler23/jackdaw,"Animation timeline, clip editing and animation graph editor for the Jackdaw scene editor"
+2026-11-10T07:53:35.993731Z,jackdaw_editor_launcher,0.20.1-rc.2,0,0,https://github.com/jbuehler23/jackdaw,"Launcher, project select and new project screens for the Jackdaw scene editor"
+2026-11-10T07:56:19.308429Z,zumen-e57,0.2.0,0,0,https://github.com/zumen-jp/zumen,zumen の E57 の点群の読み取りと、点群の領域モデルへの移し（#373）
+2026-11-10T07:58:40.805964Z,bilingua-pptx,0.9.1,0,0,https://github.com/patois-labs/bilingua,Bilingua: PowerPoint (PPTX) parser. Extracts one unit per paragraph and writes the translation back.
+2026-11-10T07:59:43.626561Z,jackdaw_editor_modelling,0.20.1-rc.2,0,0,https://github.com/jbuehler23/jackdaw,Brush and mesh modelling tools for the Jackdaw scene editor
+2026-11-10T08:00:22.38673Z,litematic-nbt,0.5.1,0,0,https://github.com/Linvin-1233/Blockscope,NBT decoding with explicit resource limits for Minecraft litematic files.
+2026-11-10T08:00:31.253337Z,litematic-scene,0.5.1,0,0,https://github.com/Linvin-1233/Blockscope,"Canonical, deterministic scene representation shared by the Blockscope parser and renderer."
+2026-11-10T08:00:34.733387Z,litematic-core,0.5.1,0,0,https://github.com/Linvin-1233/Blockscope,Parsing and canonical scene construction for Minecraft .litematic files.
+2026-11-10T08:00:38.362818Z,litematic-mesh,0.5.1,0,0,https://github.com/Linvin-1233/Blockscope,Deterministic color-block mesh construction for Blockscope scenes.
+2026-11-10T08:00:51.861177Z,litematic-material,0.5.1,0,0,https://github.com/Linvin-1233/Blockscope,"Minecraft resource-pack blockstate, model, and texture loading for Blockscope."
+2026-11-10T08:07:40.746672Z,zumen-las,0.2.0,0,0,https://github.com/zumen-jp/zumen,zumen の LAS の点群の読み取りと、点群の領域モデルへの移し（#371）
+2026-11-10T08:08:40.991344Z,bilingua-serverpages,0.9.1,0,0,https://github.com/patois-labs/bilingua,"Bilingua: server pages (ASP.NET aspx/ascx, JSP, PHP templates, SSI shtml, ERB)"
+2026-11-10T08:08:56.386906Z,wren-context-loader,0.1.0,0,0,https://github.com/Canner/WrenAI,"Reads a Wren MDL project into Warble's ContextLoader projection, so a Warble profile can bind a wren project without Warble depending on Wren."
+2026-11-10T08:09:07.350224Z,lattice-leptos-core,0.1.0,0,0,https://github.com/aaaleid/lattice-editor,"Framework-free text model, transactions, selections, and history for the Lattice editor."
+2026-11-10T08:09:47.453077Z,lattice-leptos,0.1.0,0,0,https://github.com/aaaleid/lattice-editor,Embeddable Leptos code editor built on Lattice core.
+2026-11-10T08:09:54.04681Z,jackdaw_editor_remote,0.20.1-rc.2,0,0,https://github.com/jbuehler23/jackdaw,Remote control server and remote game debugger for the Jackdaw scene editor
+2026-11-10T08:11:30.973945Z,litematic-render,0.5.1,0,0,https://github.com/Linvin-1233/Blockscope,Deterministic rasterizer and PNG output for Blockscope scenes.
+2026-11-10T08:18:40.902844Z,bilingua-strings,0.9.1,0,0,https://github.com/patois-labs/bilingua,Bilingua: Apple .strings parser (UTF-8 and UTF-16)
+2026-11-10T08:18:51.232053Z,zumen-ply,0.2.0,0,0,https://github.com/zumen-jp/zumen,zumen の PLY の点群の読み取りと、点群の領域モデルへの移し（#373）
