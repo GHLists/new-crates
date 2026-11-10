@@ -8,44 +8,60 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-10 18:18 UTC
+## Latest list — 2026-11-10 19:19 UTC
 
-New crates published between 2026-11-10 17:19 UTC and 2026-11-10 18:18 UTC.
+New crates published between 2026-11-10 18:18 UTC and 2026-11-10 19:19 UTC.
 
-[Full CSV](data/new-crates-2026-11-10T18-18-51-377258Z.csv)
+[Full CSV](data/new-crates-2026-11-10T19-19-27-677344Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-10 17:20:19 | [gg-engine](https://crates.io/crates/gg-engine) | 0.1.92 | 0 | The model of Git Good: diffs, review, status and operation receipts, independen… |
-| 2026-11-10 17:20:48 | [gg-git](https://crates.io/crates/gg-git) | 0.1.92 | 0 | The Git layer of Git Good: reads repositories with gix and runs git for every c… |
-| 2026-11-10 17:21:03 | [ferrix-store](https://crates.io/crates/ferrix-store) | 0.1.1 | 0 | Global state management and persisted slice store for Ferrix |
-| 2026-11-10 17:23:01 | [git-good](https://crates.io/crates/git-good) | 0.1.92 | 0 | A fast, native Git desktop app: History tree, review, line staging, interactive… |
-| 2026-11-10 17:23:30 | [navree-mongo](https://crates.io/crates/navree-mongo) | 1.0.0 | 0 | Navree on MongoDB: connections and pools, the ORM's document driver, the schema… |
-| 2026-11-10 17:27:18 | [hl-background-cli](https://crates.io/crates/hl-background-cli) | 0.1.0 | 0 | Ultra-lightweight CLI and library to convert images into Half-Life background T… |
-| 2026-11-10 17:28:36 | [aster_forge_runtime](https://crates.io/crates/aster_forge_runtime) | 0.1.0-alpha.1 | 0 | Shared runtime primitives for Aster services |
-| 2026-11-10 17:30:03 | [rodio-async-sync-bridge](https://crates.io/crates/rodio-async-sync-bridge) | 0.1.3 | 0 | A bridge for rodio from async to sync |
-| 2026-11-10 17:33:30 | [navree-ui](https://crates.io/crates/navree-ui) | 1.0.0 | 0 | Navree's UI toolkit: typed components rendered to HTML on the server, one style… |
-| 2026-11-10 17:34:12 | [ferrix-style](https://crates.io/crates/ferrix-style) | 0.1.1 | 0 | Native Style IR, Style Registry, Cascade Engine, and Reactive Style Resolver fo… |
-| 2026-11-10 17:36:45 | [canter](https://crates.io/crates/canter) | 0.2.0 | 0 | Keyboard-driven terminal reader for Canvas LMS |
-| 2026-11-10 17:38:50 | [aster_forge_test](https://crates.io/crates/aster_forge_test) | 0.1.0-alpha.1 | 0 | Shared integration-test infrastructure for Aster services |
-| 2026-11-10 17:43:31 | [navree-auth](https://crates.io/crates/navree-auth) | 1.0.0 | 0 | Navree AuthModule: JWT authentication with rotating refresh tokens, pluggable s… |
-| 2026-11-10 17:47:21 | [ferrix-style-build](https://crates.io/crates/ferrix-style-build) | 0.1.1 | 0 | Build-time CSS subset parser, shorthand expander, and CSS Modules generator for… |
-| 2026-11-10 17:49:03 | [aster_forge_auth](https://crates.io/crates/aster_forge_auth) | 0.1.0-alpha.1 | 0 | Product-neutral local session authentication mechanics |
-| 2026-11-10 17:53:30 | [navree-notify](https://crates.io/crates/navree-notify) | 1.0.0 | 0 | Navree NotifyModule: notifications over mail, database, broadcast, chat, SMS, W… |
-| 2026-11-10 17:54:45 | [autorust](https://crates.io/crates/autorust) | 0.1.0 | 0 | A multi-backend GPU-compute / ML framework |
-| 2026-11-10 17:59:14 | [aster_forge_cache](https://crates.io/crates/aster_forge_cache) | 0.1.0-alpha.1 | 0 | Shared cache abstractions and backend constructors for Aster services |
-| 2026-11-10 18:00:30 | [ferrix-ui-core](https://crates.io/crates/ferrix-ui-core) | 0.1.1 | 0 | Components, hooks, lifecycle, and reconciliation for Ferrix |
-| 2026-11-10 18:01:08 | [ferrix-modules](https://crates.io/crates/ferrix-modules) | 0.1.1 | 0 | Native modules subsystem and Expo-compatible module bridging for Ferrix |
-| 2026-11-10 18:03:28 | [navree-queue](https://crates.io/crates/navree-queue) | 1.0.0 | 0 | Navree QueueModule: database and memory job queues, workers, retries with backo… |
-| 2026-11-10 18:04:22 | [bimetal-ir](https://crates.io/crates/bimetal-ir) | 202611.10.0 | 0 | Contract IR and discovery ABI shared by the Bimetal runtime and CLI |
-| 2026-11-10 18:04:24 | [bimetal-cli](https://crates.io/crates/bimetal-cli) | 202611.10.0 | 0 | The `bimetal` command, which builds, checks, and publishes generated Python and… |
-| 2026-11-10 18:04:25 | [bimetal-macros](https://crates.io/crates/bimetal-macros) | 202611.10.0 | 0 | Procedural macros re-exported by the Bimetal runtime |
-| 2026-11-10 18:04:26 | [bimetal](https://crates.io/crates/bimetal) | 202611.10.0 | 0 | Runtime and contract macros for Rust APIs that Bimetal compiles into Python and… |
-| 2026-11-10 18:09:25 | [aster_forge_cloud_files_linux](https://crates.io/crates/aster_forge_cloud_files_linux) | 0.1.0-alpha.1 | 0 | Product-neutral Linux FUSE bindings for Forge cloud-files core |
-| 2026-11-10 18:13:30 | [navree-workspace](https://crates.io/crates/navree-workspace) | 1.0.0 | 0 | Navree WorkspaceModule: multi-tenancy by workspace, with members, roles, invita… |
-| 2026-11-10 18:14:04 | [flora](https://crates.io/crates/flora) | 0.1.0 | 0 | A string formatter that inserts ANSI escape sequences in order to add styling.… |
-| 2026-11-10 18:15:27 | [sitevet](https://crates.io/crates/sitevet) | 0.1.0 | 0 | Website audit engine: crawl a site, run SEO, security and accessibility rules,… |
-| 2026-11-10 18:16:01 | [sitevet-cli](https://crates.io/crates/sitevet-cli) | 0.1.0 | 0 | Command-line website audits built on the sitevet library. |
+| 2026-11-10 18:19:35 | [aster_forge_cloud_files_macos_bridge](https://crates.io/crates/aster_forge_cloud_files_macos_bridge) | 0.1.0-alpha.1 | 0 | Product-neutral Rust bridge contracts for Apple File Provider extensions |
+| 2026-11-10 18:20:17 | [topcoat-openapi](https://crates.io/crates/topcoat-openapi) | 0.12.1 | 0 | A modular, batteries-included Rust web framework for server-rendered apps. |
+| 2026-11-10 18:23:29 | [navree-ai](https://crates.io/crates/navree-ai) | 1.0.0 | 0 | Navree AiModule: text, structured output and streaming from many model provider… |
+| 2026-11-10 18:29:46 | [aster_forge_cloud_files_windows](https://crates.io/crates/aster_forge_cloud_files_windows) | 0.1.0-alpha.1 | 0 | Windows Cloud Files bindings for the product-neutral Forge cloud-files core |
+| 2026-11-10 18:31:36 | [hyperlight-sandbox-wasm](https://crates.io/crates/hyperlight-sandbox-wasm) | 0.0.0 | 0 | Reserved for the Hyperlight sandbox backend; implementation is under active dev… |
+| 2026-11-10 18:31:53 | [hyperlight-sandbox-javascript](https://crates.io/crates/hyperlight-sandbox-javascript) | 0.0.0 | 0 | Reserved for the Hyperlight sandbox backend; implementation is under active dev… |
+| 2026-11-10 18:33:32 | [navree-documents](https://crates.io/crates/navree-documents) | 1.0.0 | 0 | Navree DocumentsModule: PDF from HTML templates or a typed builder, DOCX output… |
+| 2026-11-10 18:36:17 | [smsgora](https://crates.io/crates/smsgora) | 1.0.0 | 0 | Rust client for the SMS Gora SMS Gateway API: send and receive SMS through your… |
+| 2026-11-10 18:36:45 | [treepack](https://crates.io/crates/treepack) | 0.0.1 | 0 | Pack UTF-8 text files into a Markdown document |
+| 2026-11-10 18:37:43 | [waservix](https://crates.io/crates/waservix) | 1.0.0 | 0 | Rust client for the WAservix WhatsApp API Gateway: send WhatsApp messages from… |
+| 2026-11-10 18:39:09 | [cauce-core](https://crates.io/crates/cauce-core) | 0.0.1 | 0 | Engine core for Cauce: node tree, layout intent, state, and the C ABI. |
+| 2026-11-10 18:39:12 | [cauce-build](https://crates.io/crates/cauce-build) | 0.0.1 | 0 | Build-time label and language generator for Cauce apps. |
+| 2026-11-10 18:39:17 | [cauce-dom](https://crates.io/crates/cauce-dom) | 0.0.1 | 0 | DOM/CSS backend for Cauce: static HTML emission and client hydration. |
+| 2026-11-10 18:39:21 | [cauce-core-wasm](https://crates.io/crates/cauce-core-wasm) | 0.0.1 | 0 | The prebuilt engine artifact: cauce-core built as a WebAssembly module. |
+| 2026-11-10 18:39:59 | [aster_forge_db_migration](https://crates.io/crates/aster_forge_db_migration) | 0.1.0-alpha.1 | 0 | Shared SeaORM migration coordination and schema helpers for Aster products |
+| 2026-11-10 18:40:23 | [cauce-gpu](https://crates.io/crates/cauce-gpu) | 0.0.1 | 0 | The wgpu renderer for Cauce scenes. |
+| 2026-11-10 18:41:18 | [fragment-macros](https://crates.io/crates/fragment-macros) | 0.2.5 | 0 | Procedural macros for the Fragment Rust framework |
+| 2026-11-10 18:43:28 | [navree-flags](https://crates.io/crates/navree-flags) | 1.0.0 | 0 | Navree FlagsModule: feature flags as types, resolved per user, workspace, plan… |
+| 2026-11-10 18:44:31 | [nafru-email](https://crates.io/crates/nafru-email) | 0.1.1 | 0 | Official Nafru Email Rust SDK: send transactional email from Rust with a Resend… |
+| 2026-11-10 18:49:35 | [cauce-lib](https://crates.io/crates/cauce-lib) | 0.0.1 | 0 | Safe Rust binding for the Cauce GUI engine. |
+| 2026-11-10 18:50:11 | [aster_forge_events](https://crates.io/crates/aster_forge_events) | 0.1.0-alpha.1 | 0 | Product-neutral transient event transport primitives |
+| 2026-11-10 18:50:19 | [lonca-tree-sitter-ruby](https://crates.io/crates/lonca-tree-sitter-ruby) | 0.2.2 | 0 | The tree-sitter Ruby grammar 0.23.1 with its heredoc serialization fixed, as Lo… |
+| 2026-11-10 18:50:22 | [lonca-tree-sitter-swift](https://crates.io/crates/lonca-tree-sitter-swift) | 0.2.2 | 0 | The tree-sitter Swift grammar 0.7.4 with a read past a string in its scanner fi… |
+| 2026-11-10 18:51:34 | [irys-core](https://crates.io/crates/irys-core) | 0.1.0 | 0 | irys: the Geometry seam, rays, BVH/SAH, TLAS and the blue-noise sampler |
+| 2026-11-10 18:51:36 | [irys-light](https://crates.io/crates/irys-light) | 0.1.0 | 0 | irys: spectra, optics, environments, the CPU path tracer, caustics and splats |
+| 2026-11-10 18:51:37 | [irys-prims](https://crates.io/crates/irys-prims) | 0.1.0 | 0 | irys: stock Geometry implementations, analytic primitives and heightfields |
+| 2026-11-10 18:51:38 | [irys-gpu](https://crates.io/crates/irys-gpu) | 0.1.0 | 0 | irys: the wgpu compute tier with device, buffers, WGSL integrator, history and… |
+| 2026-11-10 18:51:39 | [irys-render](https://crates.io/crates/irys-render) | 0.1.0 | 0 | The light: rays, acceleration structures and a path tracer over any geometry th… |
+| 2026-11-10 18:53:30 | [navree-fleet](https://crates.io/crates/navree-fleet) | 1.0.0 | 0 | Navree FleetModule: supervised queue workers with auto-balancing, metrics, fail… |
+| 2026-11-10 18:55:39 | [frust-device-info](https://crates.io/crates/frust-device-info) | 0.6.6 | 0 | Device memory query for Frust apps: total RAM, low-RAM flag, system-available m… |
+| 2026-11-10 18:55:46 | [frust-permissions](https://crates.io/crates/frust-permissions) | 0.6.6 | 0 | Unified runtime permission status, request and settings shortcut for Frust apps… |
+| 2026-11-10 18:55:58 | [frust-background-task](https://crates.io/crates/frust-background-task) | 0.6.6 | 0 | Background-work plugin for Frust apps: backs frust::BackgroundTask with an Andr… |
+| 2026-11-10 18:56:09 | [frust-photo-library](https://crates.io/crates/frust-photo-library) | 0.6.6 | 0 | Photo and video picker for Frust apps: the system photo picker on Android and i… |
+| 2026-11-10 19:00:24 | [aster_forge_config](https://crates.io/crates/aster_forge_config) | 0.1.0-alpha.1 | 0 | Shared runtime configuration primitives for Aster services |
+| 2026-11-10 19:00:27 | [cauce](https://crates.io/crates/cauce) | 0.0.1 | 0 | Prebuilt native CLI for Cauce: build, static generation, and bundling. |
+| 2026-11-10 19:00:59 | [osmflow-sync](https://crates.io/crates/osmflow-sync) | 0.12.0-alpha.1 | 0 | Imports OpenStreetMap PBF files into PostgreSQL and keeps them current from rep… |
+| 2026-11-10 19:01:59 | [pipeline-events](https://crates.io/crates/pipeline-events) | 0.1.0 | 0 | Decodes events emitted by the Pipeline router |
+| 2026-11-10 19:02:00 | [pipeline-strategy-interface](https://crates.io/crates/pipeline-strategy-interface) | 0.1.0 | 0 | Wire types, discriminators and fee maths for Pipeline strategy programs |
+| 2026-11-10 19:02:12 | [newgit-serve](https://crates.io/crates/newgit-serve) | 0.10.0 | 0 | The newgit remote: Git repositories on local disk, project state in SQLite |
+| 2026-11-10 19:03:33 | [navree-graphql](https://crates.io/crates/navree-graphql) | 1.0.0 | 0 | Navree GraphqlModule: a GraphQL API served from your modules on async-graphql,… |
+| 2026-11-10 19:06:01 | [crumbkit-skills](https://crates.io/crates/crumbkit-skills) | 0.3.0 | 0 | Install a crumbkit tool's agent skill into agent skills directories, check the… |
+| 2026-11-10 19:09:35 | [cauce-abigen](https://crates.io/crates/cauce-abigen) | 0.0.1 | 0 | Generates the C ABI header and the JavaScript shim stubs for Cauce. |
+| 2026-11-10 19:11:07 | [aster_forge_external_auth](https://crates.io/crates/aster_forge_external_auth) | 0.1.0-alpha.1 | 0 | Feature-gated external authentication provider drivers for Aster services |
+| 2026-11-10 19:12:50 | [smart-review](https://crates.io/crates/smart-review) | 0.1.0 | 0 | A CLI tool for applying the spaced repetition technique |
+| 2026-11-10 19:13:27 | [navree-grpc](https://crates.io/crates/navree-grpc) | 1.0.0 | 0 | Navree GrpcModule: tonic services in modules with dependency injection, guards… |
+| 2026-11-10 19:13:48 | [rhema-provider-opencode](https://crates.io/crates/rhema-provider-opencode) | 0.2.2 | 0 | OpenCode Console and Go model provider for rhema |
 
 ## Data source
 

@@ -1,0 +1,47 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-10T18:19:35.858659Z,aster_forge_cloud_files_macos_bridge,0.1.0-alpha.1,0,0,https://github.com/AsterCommunity/AsterForge,Product-neutral Rust bridge contracts for Apple File Provider extensions
+2026-11-10T18:20:17.058929Z,topcoat-openapi,0.12.1,0,0,https://github.com/tokio-rs/topcoat,"A modular, batteries-included Rust web framework for server-rendered apps."
+2026-11-10T18:23:29.183977Z,navree-ai,1.0.0,0,0,https://github.com/NavreeHQ/navree,"Navree AiModule: text, structured output and streaming from many model providers, with failover, budgets, agents with tools and embeddings."
+2026-11-10T18:29:46.105616Z,aster_forge_cloud_files_windows,0.1.0-alpha.1,0,0,https://github.com/AsterCommunity/AsterForge,Windows Cloud Files bindings for the product-neutral Forge cloud-files core
+2026-11-10T18:31:36.499103Z,hyperlight-sandbox-wasm,0.0.0,0,0,https://github.com/hyperlight-dev/hyperlight-sandbox,Reserved for the Hyperlight sandbox backend; implementation is under active development.
+2026-11-10T18:31:53.923282Z,hyperlight-sandbox-javascript,0.0.0,0,0,https://github.com/hyperlight-dev/hyperlight-sandbox,Reserved for the Hyperlight sandbox backend; implementation is under active development.
+2026-11-10T18:33:32.212797Z,navree-documents,1.0.0,0,0,https://github.com/NavreeHQ/navree,"Navree DocumentsModule: PDF from HTML templates or a typed builder, DOCX output, and PDF merge, stamp and text extraction."
+2026-11-10T18:36:17.156728Z,smsgora,1.0.0,0,0,https://github.com/TekservixHQ/smsgora-rust,Rust client for the SMS Gora SMS Gateway API: send and receive SMS through your own Android phones
+2026-11-10T18:36:45.74982Z,treepack,0.0.1,0,0,https://github.com/MIFCoding/treepack,Pack UTF-8 text files into a Markdown document
+2026-11-10T18:37:43.501019Z,waservix,1.0.0,0,0,https://github.com/TekservixHQ/waservix-rust,Rust client for the WAservix WhatsApp API Gateway: send WhatsApp messages from your own number
+2026-11-10T18:39:09.613413Z,cauce-core,0.0.1,0,0,https://github.com/Sarctiann/cauce,"Engine core for Cauce: node tree, layout intent, state, and the C ABI."
+2026-11-10T18:39:12.403849Z,cauce-build,0.0.1,0,0,https://github.com/Sarctiann/cauce,Build-time label and language generator for Cauce apps.
+2026-11-10T18:39:17.834531Z,cauce-dom,0.0.1,0,0,https://github.com/Sarctiann/cauce,DOM/CSS backend for Cauce: static HTML emission and client hydration.
+2026-11-10T18:39:21.311001Z,cauce-core-wasm,0.0.1,0,0,https://github.com/Sarctiann/cauce,The prebuilt engine artifact: cauce-core built as a WebAssembly module.
+2026-11-10T18:39:59.20231Z,aster_forge_db_migration,0.1.0-alpha.1,0,0,https://github.com/AsterCommunity/AsterForge,Shared SeaORM migration coordination and schema helpers for Aster products
+2026-11-10T18:40:23.571417Z,cauce-gpu,0.0.1,0,0,https://github.com/Sarctiann/cauce,The wgpu renderer for Cauce scenes.
+2026-11-10T18:41:18.755501Z,fragment-macros,0.2.5,0,0,https://github.com/Jesse-Dan/fragment-rs,Procedural macros for the Fragment Rust framework
+2026-11-10T18:43:28.97407Z,navree-flags,1.0.0,0,0,https://github.com/NavreeHQ/navree,"Navree FlagsModule: feature flags as types, resolved per user, workspace, plan or percentage, stored in the database and cached."
+2026-11-10T18:44:31.848251Z,nafru-email,0.1.1,0,0,https://github.com/nafrucom/nafru-email-sdks,"Official Nafru Email Rust SDK: send transactional email from Rust with a Resend-compatible email API, webhook verification and Connect with Nafru OAuth"
+2026-11-10T18:49:35.616806Z,cauce-lib,0.0.1,0,0,https://github.com/Sarctiann/cauce,Safe Rust binding for the Cauce GUI engine.
+2026-11-10T18:50:11.082461Z,aster_forge_events,0.1.0-alpha.1,0,0,https://github.com/AsterCommunity/AsterForge,Product-neutral transient event transport primitives
+2026-11-10T18:50:19.999132Z,lonca-tree-sitter-ruby,0.2.2,0,0,https://github.com/selcukgural/lonca,"The tree-sitter Ruby grammar 0.23.1 with its heredoc serialization fixed, as Lonca's symbol engine reads it"
+2026-11-10T18:50:22.45134Z,lonca-tree-sitter-swift,0.2.2,0,0,https://github.com/selcukgural/lonca,"The tree-sitter Swift grammar 0.7.4 with a read past a string in its scanner fixed, as Lonca's symbol engine reads it"
+2026-11-10T18:51:34.705839Z,irys-core,0.1.0,0,0,https://github.com/muni-works/irys,"irys: the Geometry seam, rays, BVH/SAH, TLAS and the blue-noise sampler"
+2026-11-10T18:51:36.435064Z,irys-light,0.1.0,0,0,https://github.com/muni-works/irys,"irys: spectra, optics, environments, the CPU path tracer, caustics and splats"
+2026-11-10T18:51:37.108422Z,irys-prims,0.1.0,0,0,https://github.com/muni-works/irys,"irys: stock Geometry implementations, analytic primitives and heightfields"
+2026-11-10T18:51:38.086792Z,irys-gpu,0.1.0,0,0,https://github.com/muni-works/irys,"irys: the wgpu compute tier with device, buffers, WGSL integrator, history and denoisers"
+2026-11-10T18:51:39.955188Z,irys-render,0.1.0,0,0,https://github.com/muni-works/irys,"The light: rays, acceleration structures and a path tracer over any geometry that can be bounded and hit"
+2026-11-10T18:53:30.44309Z,navree-fleet,1.0.0,0,0,https://github.com/NavreeHQ/navree,"Navree FleetModule: supervised queue workers with auto-balancing, metrics, failed jobs and a Navree UI dashboard."
+2026-11-10T18:55:39.643298Z,frust-device-info,0.6.6,0,0,https://github.com/frust-rs/frust,"Device memory query for Frust apps: total RAM, low-RAM flag, system-available memory and the iOS per-process headroom."
+2026-11-10T18:55:46.56601Z,frust-permissions,0.6.6,0,0,https://github.com/frust-rs/frust,"Unified runtime permission status, request and settings shortcut for Frust apps: photos, camera, microphone and media location on Android and Apple."
+2026-11-10T18:55:58.418547Z,frust-background-task,0.6.6,0,0,https://github.com/frust-rs/frust,"Background-work plugin for Frust apps: backs frust::BackgroundTask with an Android short foreground service or an iOS UIKit background assertion, so a short write survives the app leaving the screen."
+2026-11-10T18:56:09.251264Z,frust-photo-library,0.6.6,0,0,https://github.com/frust-rs/frust,"Photo and video picker for Frust apps: the system photo picker on Android and iOS, a native file dialog on desktop, with picked media delivered as app-readable files."
+2026-11-10T19:00:24.274859Z,aster_forge_config,0.1.0-alpha.1,0,0,https://github.com/AsterCommunity/AsterForge,Shared runtime configuration primitives for Aster services
+2026-11-10T19:00:27.61827Z,cauce,0.0.1,0,0,https://github.com/Sarctiann/cauce,"Prebuilt native CLI for Cauce: build, static generation, and bundling."
+2026-11-10T19:00:59.392829Z,osmflow-sync,0.12.0-alpha.1,0,0,https://github.com/nyurik/osmflow/tree/main/crates/osmflow-sync/,Imports OpenStreetMap PBF files into PostgreSQL and keeps them current from replication diffs
+2026-11-10T19:01:59.405877Z,pipeline-events,0.1.0,0,0,https://github.com/MetalLegBob/pipeline,Decodes events emitted by the Pipeline router
+2026-11-10T19:02:00.438462Z,pipeline-strategy-interface,0.1.0,0,0,https://github.com/MetalLegBob/pipeline,"Wire types, discriminators and fee maths for Pipeline strategy programs"
+2026-11-10T19:02:12.005354Z,newgit-serve,0.10.0,0,0,https://github.com/Spheroman/newgit,"The newgit remote: Git repositories on local disk, project state in SQLite"
+2026-11-10T19:03:33.78575Z,navree-graphql,1.0.0,0,0,https://github.com/NavreeHQ/navree,"Navree GraphqlModule: a GraphQL API served from your modules on async-graphql, with access rules, dataloaders and subscriptions."
+2026-11-10T19:06:01.081399Z,crumbkit-skills,0.3.0,0,0,https://github.com/crumbkit/crumbkit,"Install a crumbkit tool's agent skill into agent skills directories, check the installed copies and print the skill"
+2026-11-10T19:09:35.519907Z,cauce-abigen,0.0.1,0,0,https://github.com/Sarctiann/cauce,Generates the C ABI header and the JavaScript shim stubs for Cauce.
+2026-11-10T19:11:07.491636Z,aster_forge_external_auth,0.1.0-alpha.1,0,0,https://github.com/AsterCommunity/AsterForge,Feature-gated external authentication provider drivers for Aster services
+2026-11-10T19:12:50.326288Z,smart-review,0.1.0,0,0,https://github.com/daniel-valencia-ts/smart-review,A CLI tool for applying the spaced repetition technique
+2026-11-10T19:13:27.979649Z,navree-grpc,1.0.0,0,0,https://github.com/NavreeHQ/navree,"Navree GrpcModule: tonic services in modules with dependency injection, guards and access rules; gRPC-Web, Connect, health and reflection."
+2026-11-10T19:13:48.455745Z,rhema-provider-opencode,0.2.2,0,0,https://github.com/vhaudiquet/rhema,OpenCode Console and Go model provider for rhema
