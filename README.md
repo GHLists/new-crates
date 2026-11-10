@@ -8,70 +8,69 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-10 08:19 UTC
+## Latest list — 2026-11-10 09:20 UTC
 
-New crates published between 2026-11-10 07:20 UTC and 2026-11-10 08:19 UTC.
+New crates published between 2026-11-10 08:19 UTC and 2026-11-10 09:20 UTC.
 
-[Full CSV](data/new-crates-2026-11-10T08-19-04-096424Z.csv)
+[Full CSV](data/new-crates-2026-11-10T09-20-39-406657Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-10 07:20:32 | [wisk](https://crates.io/crates/wisk) | 0.1.0 | 0 | Simple algebraic crate |
-| 2026-11-10 07:20:36 | [logbear-setup](https://crates.io/crates/logbear-setup) | 0.1.3 | 0 | Connects logbear to coding agents and the login session: MCP servers, hooks and… |
-| 2026-11-10 07:20:41 | [rightkit-prompt-recipes](https://crates.io/crates/rightkit-prompt-recipes) | 0.1.0 | 0 | Prompt contracts and validator, recipe composer and catalogue, character and Lo… |
-| 2026-11-10 07:20:56 | [logbeard](https://crates.io/crates/logbeard) | 0.1.3 | 0 | The logbear daemon: ingest, storage, retention, fanout and notifications |
-| 2026-11-10 07:21:05 | [logbear-mcp](https://crates.io/crates/logbear-mcp) | 0.1.3 | 0 | MCP server exposing logbear's capture database to coding agents |
-| 2026-11-10 07:21:08 | [logbear-hook](https://crates.io/crates/logbear-hook) | 0.1.3 | 0 | Agent hook for Claude Code, Codex, pi and Hermes that pushes logbear errors int… |
-| 2026-11-10 07:21:23 | [xstate-statemachine](https://crates.io/crates/xstate-statemachine) | 0.1.0 | 0 | XState v5 / SCXML statecharts for Rust: one facade crate re-exporting the engin… |
-| 2026-11-10 07:21:54 | [tpt-doc](https://crates.io/crates/tpt-doc) | 0.1.0 | 0 | Facade for the tpt-doc workspace: PDF, DOCX, XLSX, FHIR, HL7 v2, EDI, UBL e-inv… |
-| 2026-11-10 07:22:45 | [zumen-geo](https://crates.io/crates/zumen-geo) | 0.2.0 | 0 | zumen の地理の領域モデル（地物・属性・LOD ごとの形、決定 0233） |
-| 2026-11-10 07:27:57 | [oqs-native](https://crates.io/crates/oqs-native) | 0.16.0 | 0 | A native Rust port of liboqs: every algorithm family behind one registry. |
-| 2026-11-10 07:28:41 | [bilingua-mo](https://crates.io/crates/bilingua-mo) | 0.9.1 | 0 | Bilingua: gettext binary MO (mo, gmo) filter |
-| 2026-11-10 07:31:42 | [rightkit-mail-store](https://crates.io/crates/rightkit-mail-store) | 0.1.0 | 0 | Mail store over SQLCipher: encrypted open with key candidates and lifetime lock… |
-| 2026-11-10 07:31:46 | [logbear](https://crates.io/crates/logbear) | 0.1.3 | 0 | Local dev server logs for agents: wrap a command, capture everything it emits,… |
-| 2026-11-10 07:31:55 | [tpt-doc-cli](https://crates.io/crates/tpt-doc-cli) | 0.1.0 | 0 | The `tpt` command line tool: sniff, inspect, validate and render documents (HL7… |
-| 2026-11-10 07:32:07 | [xstate-statemachine-cli](https://crates.io/crates/xstate-statemachine-cli) | 0.1.0 | 0 | Command-line tool for xstate-statemachine: validate, inspect, simulate, diagram… |
-| 2026-11-10 07:33:15 | [jackdaw_data_path](https://crates.io/crates/jackdaw_data_path) | 0.20.1-rc.2 | 0 | Validation of the scene-relative paths jackdaw sidecar files are named by |
-| 2026-11-10 07:33:32 | [jackdaw_recipe](https://crates.io/crates/jackdaw_recipe) | 0.20.1-rc.2 | 0 | Engine-agnostic recipe inputs and expressions for the jackdaw editor |
-| 2026-11-10 07:33:54 | [zumen-extdm](https://crates.io/crates/zumen-extdm) | 0.2.0 | 0 | zumen の拡張 DM（公共測量標準図式の数値地形図データ）の読み取りと、地理の領域モデルへの移し（#378） |
-| 2026-11-10 07:33:57 | [jackdaw_tilemap](https://crates.io/crates/jackdaw_tilemap) | 0.20.1-rc.2 | 0 | Engine-agnostic tilemap grid and chunk storage for the jackdaw editor |
-| 2026-11-10 07:38:33 | [jackdaw_tileset](https://crates.io/crates/jackdaw_tileset) | 0.20.1-rc.2 | 0 | Tileset asset for jackdaw tilemaps: a packed array image plus its terrains and… |
-| 2026-11-10 07:38:41 | [bilingua-odf](https://crates.io/crates/bilingua-odf) | 0.9.1 | 0 | Bilingua: OpenDocument (odt ott ods ots odp otp odg otg) filters |
-| 2026-11-10 07:39:41 | [ik-analyzer-rs](https://crates.io/crates/ik-analyzer-rs) | 1.3.0 | 0 | A high-performance, thread-safe Rust Chinese tokenizer built on the analysis-ik… |
-| 2026-11-10 07:41:56 | [tpt-doc-mcp](https://crates.io/crates/tpt-doc-mcp) | 0.1.0 | 0 | Model Context Protocol server exposing tpt-doc validation, conversion and gener… |
-| 2026-11-10 07:42:19 | [katgpt-assign](https://crates.io/crates/katgpt-assign) | 0.1.0 | 0 | Spec-driven constrained assignment solver — objects into containers under capac… |
-| 2026-11-10 07:42:38 | [rightkit-agent-server](https://crates.io/crates/rightkit-agent-server) | 0.1.1 | 0 | Agent server host: HTTP/daemon API routes, CLI and interactive-session runtime,… |
-| 2026-11-10 07:44:55 | [task-traffic-controller](https://crates.io/crates/task-traffic-controller) | 0.5.0 | 0 | A local admission controller that gates heavy commands behind a shared CPU budg… |
-| 2026-11-10 07:45:03 | [zumen-jww](https://crates.io/crates/zumen-jww) | 0.2.0 | 0 | zumen の JWW のファイルモデル（L1）と、そのコーデック |
-| 2026-11-10 07:45:04 | [zumen-pointcloud](https://crates.io/crates/zumen-pointcloud) | 0.2.0 | 0 | zumen の点群の領域モデル（L2、決定 0232）。地図の空間の列の点と、八分木の索引 |
-| 2026-11-10 07:46:58 | [propel_parser](https://crates.io/crates/propel_parser) | 0.2.0 | 0 | Lexer, parser, and AST for the Propel templating language. |
-| 2026-11-10 07:47:46 | [html-conform-wasm](https://crates.io/crates/html-conform-wasm) | 0.1.0 | 0 | WASM boundary for html-conform: HTML5 conformance checking in the browser, Node… |
-| 2026-11-10 07:47:49 | [propel_runtime](https://crates.io/crates/propel_runtime) | 0.2.0 | 0 | Dev-mode renderer for Propel: renders templates at request time, reading the so… |
-| 2026-11-10 07:48:20 | [propel_compiler](https://crates.io/crates/propel_compiler) | 0.2.0 | 0 | Code generation for Propel: turns a parsed template into Rust. |
-| 2026-11-10 07:48:41 | [bilingua-plist](https://crates.io/crates/bilingua-plist) | 0.9.1 | 0 | Bilingua: Apple property lists (XML and binary) and .stringsdict parser and byt… |
-| 2026-11-10 07:48:52 | [propel_macros](https://crates.io/crates/propel_macros) | 0.2.0 | 0 | Proc macros for Propel: check a context against the templates that use it, and… |
-| 2026-11-10 07:49:22 | [chloedb](https://crates.io/crates/chloedb) | 0.0.1 | 0 | Placeholder: holds the name for Strata, an embedded search database with SQL. S… |
-| 2026-11-10 07:49:36 | [propel_rocket](https://crates.io/crates/propel_rocket) | 0.2.0 | 0 | Rocket integration for Propel: the PropelView responder. |
-| 2026-11-10 07:53:30 | [jackdaw_editor_core](https://crates.io/crates/jackdaw_editor_core) | 0.20.1-rc.2 | 0 | Core of the Jackdaw scene editor |
-| 2026-11-10 07:53:33 | [jackdaw_editor_animation](https://crates.io/crates/jackdaw_editor_animation) | 0.20.1-rc.2 | 0 | Animation timeline, clip editing and animation graph editor for the Jackdaw sce… |
-| 2026-11-10 07:53:35 | [jackdaw_editor_launcher](https://crates.io/crates/jackdaw_editor_launcher) | 0.20.1-rc.2 | 0 | Launcher, project select and new project screens for the Jackdaw scene editor |
-| 2026-11-10 07:56:19 | [zumen-e57](https://crates.io/crates/zumen-e57) | 0.2.0 | 0 | zumen の E57 の点群の読み取りと、点群の領域モデルへの移し（#373） |
-| 2026-11-10 07:58:40 | [bilingua-pptx](https://crates.io/crates/bilingua-pptx) | 0.9.1 | 0 | Bilingua: PowerPoint (PPTX) parser. Extracts one unit per paragraph and writes… |
-| 2026-11-10 07:59:43 | [jackdaw_editor_modelling](https://crates.io/crates/jackdaw_editor_modelling) | 0.20.1-rc.2 | 0 | Brush and mesh modelling tools for the Jackdaw scene editor |
-| 2026-11-10 08:00:22 | [litematic-nbt](https://crates.io/crates/litematic-nbt) | 0.5.1 | 0 | NBT decoding with explicit resource limits for Minecraft litematic files. |
-| 2026-11-10 08:00:31 | [litematic-scene](https://crates.io/crates/litematic-scene) | 0.5.1 | 0 | Canonical, deterministic scene representation shared by the Blockscope parser a… |
-| 2026-11-10 08:00:34 | [litematic-core](https://crates.io/crates/litematic-core) | 0.5.1 | 0 | Parsing and canonical scene construction for Minecraft .litematic files. |
-| 2026-11-10 08:00:38 | [litematic-mesh](https://crates.io/crates/litematic-mesh) | 0.5.1 | 0 | Deterministic color-block mesh construction for Blockscope scenes. |
-| 2026-11-10 08:00:51 | [litematic-material](https://crates.io/crates/litematic-material) | 0.5.1 | 0 | Minecraft resource-pack blockstate, model, and texture loading for Blockscope. |
-| 2026-11-10 08:07:40 | [zumen-las](https://crates.io/crates/zumen-las) | 0.2.0 | 0 | zumen の LAS の点群の読み取りと、点群の領域モデルへの移し（#371） |
-| 2026-11-10 08:08:40 | [bilingua-serverpages](https://crates.io/crates/bilingua-serverpages) | 0.9.1 | 0 | Bilingua: server pages (ASP.NET aspx/ascx, JSP, PHP templates, SSI shtml, ERB) |
-| 2026-11-10 08:08:56 | [wren-context-loader](https://crates.io/crates/wren-context-loader) | 0.1.0 | 0 | Reads a Wren MDL project into Warble's ContextLoader projection, so a Warble pr… |
-| 2026-11-10 08:09:07 | [lattice-leptos-core](https://crates.io/crates/lattice-leptos-core) | 0.1.0 | 0 | Framework-free text model, transactions, selections, and history for the Lattic… |
-| 2026-11-10 08:09:47 | [lattice-leptos](https://crates.io/crates/lattice-leptos) | 0.1.0 | 0 | Embeddable Leptos code editor built on Lattice core. |
-| 2026-11-10 08:09:54 | [jackdaw_editor_remote](https://crates.io/crates/jackdaw_editor_remote) | 0.20.1-rc.2 | 0 | Remote control server and remote game debugger for the Jackdaw scene editor |
-| 2026-11-10 08:11:30 | [litematic-render](https://crates.io/crates/litematic-render) | 0.5.1 | 0 | Deterministic rasterizer and PNG output for Blockscope scenes. |
-| 2026-11-10 08:18:40 | [bilingua-strings](https://crates.io/crates/bilingua-strings) | 0.9.1 | 0 | Bilingua: Apple .strings parser (UTF-8 and UTF-16) |
-| 2026-11-10 08:18:51 | [zumen-ply](https://crates.io/crates/zumen-ply) | 0.2.0 | 0 | zumen の PLY の点群の読み取りと、点群の領域モデルへの移し（#373） |
+| 2026-11-10 08:20:05 | [jackdaw_editor_terrain](https://crates.io/crates/jackdaw_editor_terrain) | 0.20.1-rc.2 | 0 | Terrain sculpting, painting, scatter and detail for the Jackdaw scene editor |
+| 2026-11-10 08:22:05 | [litematic-video](https://crates.io/crates/litematic-video) | 0.5.1 | 0 | Animation timeline and ffmpeg encoding for Blockscope video export. |
+| 2026-11-10 08:28:41 | [bilingua-vsdx](https://crates.io/crates/bilingua-vsdx) | 0.9.1 | 0 | Bilingua: Microsoft Visio (vsdx, vsdm) filter. Page names, shape text with run… |
+| 2026-11-10 08:29:13 | [turso_sqlite](https://crates.io/crates/turso_sqlite) | 0.9.0-pre.4 | 0 | SQLite frontend for Turso |
+| 2026-11-10 08:30:01 | [zumen-review](https://crates.io/crates/zumen-review) | 0.2.0 | 0 | zumen のレビューの文書: 赤入れと BIM の指摘を、対象の要素の ID とハッシュでつなぎ、新しいバージョンへ移す（決定 0214・0218） |
+| 2026-11-10 08:30:17 | [jackdaw_editor_tile](https://crates.io/crates/jackdaw_editor_tile) | 0.20.1-rc.2 | 0 | Tilemap and tileset editing for the Jackdaw scene editor |
+| 2026-11-10 08:32:54 | [blockscope-cli](https://crates.io/crates/blockscope-cli) | 0.5.1 | 0 | Command-line interface for rendering Minecraft .litematic files to PNG, MP4, an… |
+| 2026-11-10 08:34:24 | [haf-cargo-affected](https://crates.io/crates/haf-cargo-affected) | 0.1.0 | 0 | Cargo subcommand that lists workspace crates affected by a change |
+| 2026-11-10 08:38:41 | [bilingua-wxl](https://crates.io/crates/bilingua-wxl) | 0.9.1 | 0 | Bilingua: WiX localization (.wxl) filter, attribute form (WiX 4+) and text form… |
+| 2026-11-10 08:41:14 | [zumen-scene](https://crates.io/crates/zumen-scene) | 0.2.0 | 0 | zumen の 2D のシーン（L3）。配置をたどって解いた値を、列に並べたバッファーにする（決定 0137・0172） |
+| 2026-11-10 08:43:10 | [inl-core](https://crates.io/crates/inl-core) | 0.1.0 | 0 | Shared runtime for im-not-llm engines: device/dtype selection, model hub, atten… |
+| 2026-11-10 08:43:57 | [inl-text](https://crates.io/crates/inl-text) | 0.1.0 | 0 | Dense text embedding engines (Qwen3-Embedding, EmbeddingGemma 2) on candle |
+| 2026-11-10 08:44:05 | [inl-sparse](https://crates.io/crates/inl-sparse) | 0.1.0 | 0 | Learned-sparse (SPLADE) encoders: ModernBERT MLM + SPLADE pooling on candle |
+| 2026-11-10 08:48:41 | [bilingua-xcstrings](https://crates.io/crates/bilingua-xcstrings) | 0.9.1 | 0 | Bilingua: Xcode String Catalog (.xcstrings) and Xcode localization bundle (.xcl… |
+| 2026-11-10 08:48:55 | [inl-vision](https://crates.io/crates/inl-vision) | 0.1.1 | 0 | Multimodal embedding (image, video, audio) with EmbeddingGemma 2 on candle |
+| 2026-11-10 08:49:10 | [inl-server](https://crates.io/crates/inl-server) | 0.1.1 | 0 | Loopback HTTP daemon and lifecycle API for im-not-llm engines |
+| 2026-11-10 08:49:19 | [ct-ec](https://crates.io/crates/ct-ec) | 0.0.1 | 0 | Constant-time elliptic curve arithmetic with assembly-level verification |
+| 2026-11-10 08:50:32 | [noviscia-risk](https://crates.io/crates/noviscia-risk) | 0.1.0 | 0 | Dependency-free, deterministic risk and netting math for Noviscia |
+| 2026-11-10 08:50:40 | [noviscia-pool-sdk](https://crates.io/crates/noviscia-pool-sdk) | 0.1.0 | 0 | Enterprise instruction builders and state decoders for the Noviscia clearing po… |
+| 2026-11-10 08:50:41 | [mammoth-rs](https://crates.io/crates/mammoth-rs) | 0.1.0 | 0 | Convert .docx documents to clean, semantic HTML or Markdown, driven by styles.… |
+| 2026-11-10 08:50:42 | [docx-templater](https://crates.io/crates/docx-templater) | 0.1.0 | 0 | Fill .docx and .pptx templates with JSON / serde data using docxtemplater's tag… |
+| 2026-11-10 08:50:45 | [openapi-sampler](https://crates.io/crates/openapi-sampler) | 0.1.0 | 0 | Generate deterministic example values from OpenAPI 3.x / Swagger 2.0 / JSON Sch… |
+| 2026-11-10 08:50:53 | [oauth-providers](https://crates.io/crates/oauth-providers) | 0.1.0 | 0 | Small, framework-agnostic OAuth 2.0 / OpenID Connect clients for 60+ providers… |
+| 2026-11-10 08:51:24 | [flusso-config](https://crates.io/crates/flusso-config) | 0.16.0 | 0 | flusso configuration: parses flusso.toml and *.schema.yml, assembles the valida… |
+| 2026-11-10 08:52:21 | [flusso-source-postgres](https://crates.io/crates/flusso-source-postgres) | 0.16.0 | 0 | Postgres logical-replication source for flusso: WAL capture, backfill, and docu… |
+| 2026-11-10 08:52:26 | [zumen-profile](https://crates.io/crates/zumen-profile) | 0.2.0 | 0 | zumen のプロファイルの照合。配置をたどって解いた図面モデルの値を、プロファイルの規則と語彙と比べる（決定 0138・0173） |
+| 2026-11-10 08:52:33 | [flusso-stream-channel](https://crates.io/crates/flusso-stream-channel) | 0.16.0 | 0 | In-process channel queue implementation for flusso. |
+| 2026-11-10 08:52:49 | [flusso-sink-opensearch](https://crates.io/crates/flusso-sink-opensearch) | 0.16.0 | 0 | OpenSearch sink for flusso: bulk writes, mappings, seeding, and reindex. |
+| 2026-11-10 08:52:55 | [flusso-sink-stdout](https://crates.io/crates/flusso-sink-stdout) | 0.16.0 | 0 | stdout sink for flusso, for debugging and development. |
+| 2026-11-10 08:58:40 | [bilingua-xliffpkg](https://crates.io/crates/bilingua-xliffpkg) | 0.9.1 | 0 | Bilingua: zipped XLIFF packages (WorldServer .xlz and .wsxz). The XLIFF members… |
+| 2026-11-10 09:03:39 | [zumen-asbuilt](https://crates.io/crates/zumen-asbuilt) | 0.2.0 | 0 | zumen の出来形。設計の TIN と点群の標高の差を、プロファイルの規格値の区分ごとに集計する（決定 0234） |
+| 2026-11-10 09:03:49 | [dutchy-egui](https://crates.io/crates/dutchy-egui) | 1.1.0 | 0 | Dutchy Design System for egui: sharp geometry, warm colors, and bold typography |
+| 2026-11-10 09:04:39 | [trafilatura-rust](https://crates.io/crates/trafilatura-rust) | 0.1.0 | 0 | Web page main-text and metadata extraction, a Rust port of the Python trafilatu… |
+| 2026-11-10 09:08:31 | [bpmnkit-dmn](https://crates.io/crates/bpmnkit-dmn) | 0.2.0 | 0 | DMN 1.3 model, parser, lossless serializer and evaluator for BPMN Kit (Rust twi… |
+| 2026-11-10 09:08:40 | [bilingua-xmb](https://crates.io/crates/bilingua-xmb) | 0.9.1 | 0 | Bilingua: Google / Angular XMB message bundles and XTB translation bundles, byt… |
+| 2026-11-10 09:08:52 | [bpmnkit-compat](https://crates.io/crates/bpmnkit-compat) | 0.2.0 | 0 | Camunda 8 version compatibility checks and Camunda 7 to 8 migration (with JUEL… |
+| 2026-11-10 09:08:55 | [ferrix-compiler](https://crates.io/crates/ferrix-compiler) | 0.1.0 | 0 | AOT compiler for .fsx UI components into Rust |
+| 2026-11-10 09:08:58 | [ferrix-config](https://crates.io/crates/ferrix-config) | 0.1.0 | 0 | Configuration schema, validation, and environment layering for Ferrix |
+| 2026-11-10 09:09:03 | [ferrix-fmt](https://crates.io/crates/ferrix-fmt) | 0.1.0 | 0 | Lossless AST code formatter for .fsx files in Ferrix |
+| 2026-11-10 09:09:07 | [ferrix-lint](https://crates.io/crates/ferrix-lint) | 0.1.0 | 0 | Static analysis and linter rules for Ferrix .fsx components |
+| 2026-11-10 09:09:12 | [bpmnkit-layout](https://crates.io/crates/bpmnkit-layout) | 0.2.0 | 0 | BPMN and DMN auto-layout for BPMN Kit (Rust twin of @bpmnkit/core's applyAutoLa… |
+| 2026-11-10 09:09:34 | [bpmnkit-ascii](https://crates.io/crates/bpmnkit-ascii) | 0.2.0 | 0 | BPMN, DMN and Camunda forms as Unicode box-drawing text for terminals and chat… |
+| 2026-11-10 09:09:55 | [bpmnkit-builder](https://crates.io/crates/bpmnkit-builder) | 0.2.0 | 0 | Fluent BPMN process/diagram builders and DMN decision-table/DRD builders for BP… |
+| 2026-11-10 09:10:05 | [xrack-runtime](https://crates.io/crates/xrack-runtime) | 0.1.0 | 0 | Runtime types, properties, models, and controls for generated XRack UI |
+| 2026-11-10 09:10:06 | [xrack-assets](https://crates.io/crates/xrack-assets) | 0.1.0 | 0 | Image and vector asset support for XRack UI |
+| 2026-11-10 09:10:07 | [xrack-layout](https://crates.io/crates/xrack-layout) | 0.1.0 | 0 | Layout, hit testing, and input routing for XRack UI |
+| 2026-11-10 09:10:08 | [xrack-renderer-femtovg](https://crates.io/crates/xrack-renderer-femtovg) | 0.1.0 | 0 | FemtoVG and wgpu rendering for XRack UI |
+| 2026-11-10 09:10:09 | [xrack-platform-winit](https://crates.io/crates/xrack-platform-winit) | 0.1.0 | 0 | Native winit windows, input, and accessibility for XRack UI |
+| 2026-11-10 09:10:17 | [ferrix-cli](https://crates.io/crates/ferrix-cli) | 0.1.0 | 0 | Production developer toolchain and CLI for the Ferrix UI framework |
+| 2026-11-10 09:15:02 | [zumen-render](https://crates.io/crates/zumen-render) | 0.2.0 | 0 | zumen のシーンから SVG・PNG を作る描画部品 |
+| 2026-11-10 09:15:03 | [zumen-step](https://crates.io/crates/zumen-step) | 0.2.0 | 0 | zumen の ISO 10303-21 の交換構造（L0）。文と値を元のバイト範囲で持つレコードと、文字列のエスケープの戻し方 |
+| 2026-11-10 09:16:49 | [sinter-axum-macros](https://crates.io/crates/sinter-axum-macros) | 0.1.0 | 0 | embed!: checks a sinter build's data placeholders against a sinter-axum configu… |
+| 2026-11-10 09:17:01 | [kast-render](https://crates.io/crates/kast-render) | 0.1.0 | 0 | Photorealistic real-time renderer on wgpu: deferred PBR, IBL, cascaded PCSS sha… |
+| 2026-11-10 09:17:59 | [sinter-axum](https://crates.io/crates/sinter-axum) | 0.1.0 | 0 | Fills a sinter build's embedded-data placeholders per request: the page's API d… |
+| 2026-11-10 09:18:40 | [bilingua-html](https://crates.io/crates/bilingua-html) | 0.9.1 | 0 | Bilingua: HTML parser with live preview |
 
 ## Data source
 

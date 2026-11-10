@@ -1,0 +1,56 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-10T08:20:05.264837Z,jackdaw_editor_terrain,0.20.1-rc.2,0,0,https://github.com/jbuehler23/jackdaw,"Terrain sculpting, painting, scatter and detail for the Jackdaw scene editor"
+2026-11-10T08:22:05.827082Z,litematic-video,0.5.1,0,0,https://github.com/Linvin-1233/Blockscope,Animation timeline and ffmpeg encoding for Blockscope video export.
+2026-11-10T08:28:41.190701Z,bilingua-vsdx,0.9.1,0,0,https://github.com/patois-labs/bilingua,"Bilingua: Microsoft Visio (vsdx, vsdm) filter. Page names, shape text with run markers as tags, shape data labels."
+2026-11-10T08:29:13.789357Z,turso_sqlite,0.9.0-pre.4,0,0,https://github.com/tursodatabase/turso,SQLite frontend for Turso
+2026-11-10T08:30:01.313955Z,zumen-review,0.2.0,0,0,https://github.com/zumen-jp/zumen,zumen のレビューの文書: 赤入れと BIM の指摘を、対象の要素の ID とハッシュでつなぎ、新しいバージョンへ移す（決定 0214・0218）
+2026-11-10T08:30:17.220854Z,jackdaw_editor_tile,0.20.1-rc.2,0,0,https://github.com/jbuehler23/jackdaw,Tilemap and tileset editing for the Jackdaw scene editor
+2026-11-10T08:32:54.933335Z,blockscope-cli,0.5.1,0,0,https://github.com/Linvin-1233/Blockscope,"Command-line interface for rendering Minecraft .litematic files to PNG, MP4, and GIF."
+2026-11-10T08:34:24.802002Z,haf-cargo-affected,0.1.0,0,0,https://github.com/huuff/cargo-affected,Cargo subcommand that lists workspace crates affected by a change
+2026-11-10T08:38:41.10703Z,bilingua-wxl,0.9.1,0,0,https://github.com/patois-labs/bilingua,"Bilingua: WiX localization (.wxl) filter, attribute form (WiX 4+) and text form (WiX 3)"
+2026-11-10T08:41:14.28698Z,zumen-scene,0.2.0,0,0,https://github.com/zumen-jp/zumen,zumen の 2D のシーン（L3）。配置をたどって解いた値を、列に並べたバッファーにする（決定 0137・0172）
+2026-11-10T08:43:10.354035Z,inl-core,0.1.0,0,0,https://github.com/NomaDamas/im-not-llm,"Shared runtime for im-not-llm engines: device/dtype selection, model hub, attention, deadlines"
+2026-11-10T08:43:57.687714Z,inl-text,0.1.0,0,0,https://github.com/NomaDamas/im-not-llm,"Dense text embedding engines (Qwen3-Embedding, EmbeddingGemma 2) on candle"
+2026-11-10T08:44:05.646464Z,inl-sparse,0.1.0,0,0,https://github.com/NomaDamas/im-not-llm,Learned-sparse (SPLADE) encoders: ModernBERT MLM + SPLADE pooling on candle
+2026-11-10T08:48:41.174215Z,bilingua-xcstrings,0.9.1,0,0,https://github.com/patois-labs/bilingua,Bilingua: Xcode String Catalog (.xcstrings) and Xcode localization bundle (.xcloc) filters
+2026-11-10T08:48:55.099062Z,inl-vision,0.1.1,0,0,https://github.com/NomaDamas/im-not-llm,"Multimodal embedding (image, video, audio) with EmbeddingGemma 2 on candle"
+2026-11-10T08:49:10.839058Z,inl-server,0.1.1,0,0,https://github.com/NomaDamas/im-not-llm,Loopback HTTP daemon and lifecycle API for im-not-llm engines
+2026-11-10T08:49:19.278718Z,ct-ec,0.0.1,0,0,https://github.com/tecposter/ct-ec,Constant-time elliptic curve arithmetic with assembly-level verification
+2026-11-10T08:50:32.640948Z,noviscia-risk,0.1.0,0,0,https://github.com/KezzyNgotho/Noviscia-protocal,"Dependency-free, deterministic risk and netting math for Noviscia"
+2026-11-10T08:50:40.202577Z,noviscia-pool-sdk,0.1.0,0,0,https://github.com/KezzyNgotho/Noviscia-protocal,Enterprise instruction builders and state decoders for the Noviscia clearing pool and Fortress insurance vault
+2026-11-10T08:50:41.673085Z,mammoth-rs,0.1.0,0,0,https://github.com/DaniilPak/mammoth-rs,"Convert .docx documents to clean, semantic HTML or Markdown, driven by styles. A pure-Rust port of mammoth.js."
+2026-11-10T08:50:42.333519Z,docx-templater,0.1.0,0,0,https://github.com/DaniilPak/docx-templater,"Fill .docx and .pptx templates with JSON / serde data using docxtemplater's tag syntax ({name}, {#loop}, {^inverted}, {@raw}); robust to tags split across Word runs."
+2026-11-10T08:50:45.115988Z,openapi-sampler,0.1.0,0,0,https://github.com/DaniilPak/openapi-sampler-rs,Generate deterministic example values from OpenAPI 3.x / Swagger 2.0 / JSON Schema schemas. An independent Rust port of Redocly's openapi-sampler.
+2026-11-10T08:50:53.691692Z,oauth-providers,0.1.0,0,0,https://github.com/DaniilPak/oauth-providers,"Small, framework-agnostic OAuth 2.0 / OpenID Connect clients for 60+ providers (Google, GitHub, Apple, Microsoft Entra ID, Discord, ...). A Rust port of arctic."
+2026-11-10T08:51:24.519228Z,flusso-config,0.16.0,0,0,https://github.com/alias2k/flusso,"flusso configuration: parses flusso.toml and *.schema.yml, assembles the validated Config, and compiles the deterministic flusso.lock."
+2026-11-10T08:52:21.493403Z,flusso-source-postgres,0.16.0,0,0,https://github.com/alias2k/flusso,"Postgres logical-replication source for flusso: WAL capture, backfill, and document building."
+2026-11-10T08:52:26.67214Z,zumen-profile,0.2.0,0,0,https://github.com/zumen-jp/zumen,zumen のプロファイルの照合。配置をたどって解いた図面モデルの値を、プロファイルの規則と語彙と比べる（決定 0138・0173）
+2026-11-10T08:52:33.729885Z,flusso-stream-channel,0.16.0,0,0,https://github.com/alias2k/flusso,In-process channel queue implementation for flusso.
+2026-11-10T08:52:49.372583Z,flusso-sink-opensearch,0.16.0,0,0,https://github.com/alias2k/flusso,"OpenSearch sink for flusso: bulk writes, mappings, seeding, and reindex."
+2026-11-10T08:52:55.670919Z,flusso-sink-stdout,0.16.0,0,0,https://github.com/alias2k/flusso,"stdout sink for flusso, for debugging and development."
+2026-11-10T08:58:40.938071Z,bilingua-xliffpkg,0.9.1,0,0,https://github.com/patois-labs/bilingua,Bilingua: zipped XLIFF packages (WorldServer .xlz and .wsxz). The XLIFF members go through bilingua-xliff; every other member is carried through untouched.
+2026-11-10T09:03:39.027681Z,zumen-asbuilt,0.2.0,0,0,https://github.com/zumen-jp/zumen,zumen の出来形。設計の TIN と点群の標高の差を、プロファイルの規格値の区分ごとに集計する（決定 0234）
+2026-11-10T09:03:49.060774Z,dutchy-egui,1.1.0,0,0,https://github.com/skitsanos/dutchy-egui,"Dutchy Design System for egui: sharp geometry, warm colors, and bold typography"
+2026-11-10T09:04:39.717994Z,trafilatura-rust,0.1.0,0,0,https://github.com/vinhch/trafilatura-rust,"Web page main-text and metadata extraction, a Rust port of the Python trafilatura library."
+2026-11-10T09:08:31.314327Z,bpmnkit-dmn,0.2.0,0,0,https://github.com/bpmnkit/bpmnkit,"DMN 1.3 model, parser, lossless serializer and evaluator for BPMN Kit (Rust twin of @bpmnkit/core's DMN I/O and @bpmnkit/engine's DMN evaluation)"
+2026-11-10T09:08:40.661479Z,bilingua-xmb,0.9.1,0,0,https://github.com/patois-labs/bilingua,"Bilingua: Google / Angular XMB message bundles and XTB translation bundles, byte-faithful"
+2026-11-10T09:08:52.24316Z,bpmnkit-compat,0.2.0,0,0,https://github.com/bpmnkit/bpmnkit,Camunda 8 version compatibility checks and Camunda 7 to 8 migration (with JUEL to FEEL) for BPMN Kit (Rust twin of @bpmnkit/core's camunda-compat and camunda7)
+2026-11-10T09:08:55.432916Z,ferrix-compiler,0.1.0,0,0,https://github.com/soumitra-das-dev/ferrix-ui,AOT compiler for .fsx UI components into Rust
+2026-11-10T09:08:58.651216Z,ferrix-config,0.1.0,0,0,https://github.com/soumitra-das-dev/ferrix-ui,"Configuration schema, validation, and environment layering for Ferrix"
+2026-11-10T09:09:03.602567Z,ferrix-fmt,0.1.0,0,0,https://github.com/soumitra-das-dev/ferrix-ui,Lossless AST code formatter for .fsx files in Ferrix
+2026-11-10T09:09:07.254344Z,ferrix-lint,0.1.0,0,0,https://github.com/soumitra-das-dev/ferrix-ui,Static analysis and linter rules for Ferrix .fsx components
+2026-11-10T09:09:12.070033Z,bpmnkit-layout,0.2.0,0,0,https://github.com/bpmnkit/bpmnkit,BPMN and DMN auto-layout for BPMN Kit (Rust twin of @bpmnkit/core's applyAutoLayout and layoutDmn)
+2026-11-10T09:09:34.679657Z,bpmnkit-ascii,0.2.0,0,0,https://github.com/bpmnkit/bpmnkit,"BPMN, DMN and Camunda forms as Unicode box-drawing text for terminals and chat code blocks (byte-identical to @bpmnkit/ascii)"
+2026-11-10T09:09:55.242871Z,bpmnkit-builder,0.2.0,0,0,https://github.com/bpmnkit/bpmnkit,Fluent BPMN process/diagram builders and DMN decision-table/DRD builders for BPMN Kit (Rust twin of @bpmnkit/core's Bpmn.createProcess and Dmn builders)
+2026-11-10T09:10:05.048116Z,xrack-runtime,0.1.0,0,0,https://github.com/smallsunsun1/xrack,"Runtime types, properties, models, and controls for generated XRack UI"
+2026-11-10T09:10:06.693408Z,xrack-assets,0.1.0,0,0,https://github.com/smallsunsun1/xrack,Image and vector asset support for XRack UI
+2026-11-10T09:10:07.121636Z,xrack-layout,0.1.0,0,0,https://github.com/smallsunsun1/xrack,"Layout, hit testing, and input routing for XRack UI"
+2026-11-10T09:10:08.160301Z,xrack-renderer-femtovg,0.1.0,0,0,https://github.com/smallsunsun1/xrack,FemtoVG and wgpu rendering for XRack UI
+2026-11-10T09:10:09.62734Z,xrack-platform-winit,0.1.0,0,0,https://github.com/smallsunsun1/xrack,"Native winit windows, input, and accessibility for XRack UI"
+2026-11-10T09:10:17.941248Z,ferrix-cli,0.1.0,0,0,https://github.com/soumitra-das-dev/ferrix-ui,Production developer toolchain and CLI for the Ferrix UI framework
+2026-11-10T09:15:02.484173Z,zumen-render,0.2.0,0,0,https://github.com/zumen-jp/zumen,zumen のシーンから SVG・PNG を作る描画部品
+2026-11-10T09:15:03.045428Z,zumen-step,0.2.0,0,0,https://github.com/zumen-jp/zumen,zumen の ISO 10303-21 の交換構造（L0）。文と値を元のバイト範囲で持つレコードと、文字列のエスケープの戻し方
+2026-11-10T09:16:49.730239Z,sinter-axum-macros,0.1.0,0,0,https://github.com/tiaforge/sinter,embed!: checks a sinter build's data placeholders against a sinter-axum configuration at compile time.
+2026-11-10T09:17:01.669825Z,kast-render,0.1.0,0,0,https://github.com/mirged/kast,"Photorealistic real-time renderer on wgpu: deferred PBR, IBL, cascaded PCSS shadows, SSAO, SSR, bloom, DoF and ACES tonemapping"
+2026-11-10T09:17:59.331303Z,sinter-axum,0.1.0,0,0,https://github.com/tiaforge/sinter,"Fills a sinter build's embedded-data placeholders per request: the page's API data in the first frame, without server rendering. A tower layer for axum."
+2026-11-10T09:18:40.469781Z,bilingua-html,0.9.1,0,0,https://github.com/patois-labs/bilingua,Bilingua: HTML parser with live preview
