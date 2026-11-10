@@ -1,0 +1,68 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-10T09:21:11.959608Z,einvoice-bigint,0.3.0,0,0,https://github.com/einvoice-validator/einvoice-validator,"Arbitrary-precision signed integers in safe Rust, without dependencies and without assembly: exact arithmetic, truncated and floored division, decimal strings, conversions to and from f64"
+2026-11-10T09:21:12.911135Z,einvoice-pdf,0.3.0,0,0,https://github.com/einvoice-validator/einvoice-validator,"Extract the embedded e-invoice XML and its XMP metadata from Factur-X, ZUGFeRD and Order-X PDF/A-3 files, in pure Rust"
+2026-11-10T09:21:14.375429Z,einvoice-xml,0.3.0,0,0,https://github.com/einvoice-validator/einvoice-validator,"A streaming (pull) XML 1.0 parser with namespace resolution, zero-copy where it can be, for well-formedness checking and one-pass validation without a tree, in pure Rust"
+2026-11-10T09:21:29.703727Z,einvoice-schematron,0.3.0,0,0,https://github.com/einvoice-validator/einvoice-validator,"Schematron compiled to XSLT as ph-schematron 10.3.1 writes it, byte for byte, in pure Rust: the ISO Schematron skeleton run by this project's XSLT engine, the DOM of the compiled stylesheet and its X…"
+2026-11-10T09:26:17.825648Z,zumen-xml,0.2.0,0,0,https://github.com/zumen-jp/zumen,zumen の XML の L0（決定 0209）。要素・属性・文字と名前空間を、元のバイト範囲で読む
+2026-11-10T09:26:51.270727Z,gnap-net,0.1.0,0,0,https://github.com/davlgd/gnap,Conservative network address policies for GNAP example applications
+2026-11-10T09:26:51.934786Z,gnap-registry,0.1.0,0,0,https://github.com/davlgd/gnap,"IANA registries for the GNAP protocol (RFC 9635, RFC 9767), generated from the official CSV files"
+2026-11-10T09:26:54.029928Z,gnap-types,0.1.0,0,0,https://github.com/davlgd/gnap,"Data model for the GNAP protocol (RFC 9635, RFC 9767): serialization, polymorphism, validation"
+2026-11-10T09:26:56.357584Z,gnap-core,0.1.0,0,0,https://github.com/davlgd/gnap,"The GNAP grant state machine (RFC 9635 §1.5), pure and free of I/O"
+2026-11-10T09:26:57.17893Z,gnap-crypto,0.1.0,0,0,https://github.com/davlgd/gnap,Key proofing and interaction hashing for GNAP (RFC 9635)
+2026-11-10T09:28:40.989803Z,bilingua-sdl,0.9.1,0,0,https://github.com/patois-labs/bilingua,"Bilingua: Trados project and return packages (SDLPPX, SDLRPX) and memoQ packages (MQXLZ)"
+2026-11-10T09:29:24.6054Z,flatmarkdown-ast2html,0.6.0,0,0,https://github.com/petajournal/flatmarkdown,"Renders the Flat Markdown AST to HTML, without a Markdown parser"
+2026-11-10T09:29:56.579552Z,vowp-protocol,0.1.0,0,0,https://github.com/syver777/vowp,"VOWP protocol types for events, capsules, jobs, gates, profiles and configuration."
+2026-11-10T09:30:11.772309Z,vowp-store,0.1.0,0,0,https://github.com/syver777/vowp,"SQLite storage, JSONL logs and blobs for VOWP."
+2026-11-10T09:30:21.882967Z,vowp-graph,0.1.0,0,0,https://github.com/syver777/vowp,"Deterministic job graph, state machine, ownership and scheduling for VOWP."
+2026-11-10T09:30:26.100025Z,vowp-tmux,0.1.0,0,0,https://github.com/syver777/vowp,Safe tmux window management for VOWP job sessions.
+2026-11-10T09:30:31.144257Z,vowp-adapters,0.1.0,0,0,https://github.com/syver777/vowp,"Claude Code, opencode and generic CLI harness adapters for VOWP."
+2026-11-10T09:34:01.280188Z,exprim,0.4.0,0,0,https://github.com/liminalism/exprim,"A concurrent, memory-bounded PDF reader and renderer: parse, extract text, and rasterize pages on an immutable document snapshot"
+2026-11-10T09:37:13.527961Z,gnap-subject,0.1.0,0,0,https://github.com/davlgd/gnap,Signed subject assertions for GNAP
+2026-11-10T09:37:34.785113Z,zumen-citygml,0.2.0,0,0,https://github.com/zumen-jp/zumen,zumen の CityGML 2.0（PLATEAU の 3D 都市モデルと i-UR を含む）の読み取りと、地理の領域モデルへの移し（#379）
+2026-11-10T09:38:41.594001Z,bilingua-xlsx,0.9.1,0,0,https://github.com/patois-labs/bilingua,Bilingua: Excel (XLSX) parser. Extracts cell text and writes the translation back.
+2026-11-10T09:41:12.528291Z,vowp-core,0.1.0,0,0,https://github.com/syver777/vowp,"VOWP supervisor core: loops, gates, ledger, schedules, sessions and promotion."
+2026-11-10T09:45:31.290143Z,aixand-undercurrent-foundation,0.1.0-beta,0,0,https://github.com/Aixand/undercurrent,"Shared bounded value, digest, and privacy primitives for Undercurrent"
+2026-11-10T09:45:31.802056Z,aixand-undercurrent-platform-windows,0.1.0-beta,0,0,https://github.com/Aixand/undercurrent,"Native Windows process, terminal, and IPC primitives for Undercurrent"
+2026-11-10T09:45:32.483696Z,aixand-undercurrent-protocol,0.1.0-beta,0,0,https://github.com/Aixand/undercurrent,"Typed product requests, responses, and events for Undercurrent"
+2026-11-10T09:45:32.826936Z,aixand-undercurrent-wire,0.1.0-beta,0,0,https://github.com/Aixand/undercurrent,Bounded framing and handshake codecs for Undercurrent
+2026-11-10T09:45:33.682918Z,aixand-undercurrent-multiplex,0.1.0-beta,0,0,https://github.com/Aixand/undercurrent,Bounded stream multiplexing and scheduling for Undercurrent
+2026-11-10T09:45:50.889233Z,termtrace-engine,0.1.0,0,0,https://github.com/zigai/termtrace,"PTY recording, terminal replay, and observation for Termtrace"
+2026-11-10T09:45:52.268995Z,termtrace-render,0.1.0,0,0,https://github.com/zigai/termtrace,Deterministic semantic terminal rendering for Termtrace
+2026-11-10T09:45:53.045366Z,termtrace-tmux,0.1.0,0,0,https://github.com/zigai/termtrace,"Aggregate tmux recording: typed lifecycle events, a pure reducer, and its own journal and catalog"
+2026-11-10T09:45:53.937653Z,termtrace-media,0.1.0,0,0,https://github.com/zigai/termtrace,Native terminal capture and media production for Termtrace
+2026-11-10T09:45:54.70387Z,termtrace-export,0.1.0,0,0,https://github.com/zigai/termtrace,Verifiable terminal evidence exports for Termtrace
+2026-11-10T09:47:08.5072Z,gnap-client,0.1.0,0,0,https://github.com/davlgd/gnap,"The GNAP client instance role (RFC 9635), over a pluggable HTTP transport"
+2026-11-10T09:47:20.922872Z,degenview-journal,0.1.0,0,0,https://github.com/degenview/journal,"A provider-independent trading journal for DegenView: executions, flat-to-flat trades, statistics, reviews, import and export."
+2026-11-10T09:48:40.788807Z,bilingua-email,0.9.1,0,0,https://github.com/patois-labs/bilingua,Bilingua: email message (eml) filter
+2026-11-10T09:48:48.190165Z,zumen-geology,0.2.0,0,0,https://github.com/zumen-jp/zumen,zumen の地質・土質調査の成果（ボーリング交換用データ）の読み取り（#390）
+2026-11-10T09:51:32.023116Z,vix-egui,2.0.2,0,0,https://github.com/vixide/vix,Vix desktop GUI on egui (eframe): the full Vix App in a native window.
+2026-11-10T09:51:40.320847Z,vix-gpui,2.0.2,0,0,https://github.com/vixide/vix,Vix desktop GUI on GPUI (GPUI Kit): the full Vix App in a native GPU-rendered window.
+2026-11-10T09:51:47.164671Z,vix-iced,2.0.2,0,0,https://github.com/vixide/vix,Vix desktop GUI on iced: the full Vix App in a native window.
+2026-11-10T09:51:51.166251Z,vix-gtk4,2.0.2,0,0,https://github.com/vixide/vix,Vix desktop GUI on GTK 4 (gtk4-rs): the full Vix App in a native window.
+2026-11-10T09:51:54.51776Z,vix-slint,2.0.2,0,0,https://github.com/vixide/vix,Vix desktop GUI on Slint: the full Vix App in a native window.
+2026-11-10T09:56:32.810781Z,termtrace-schema,0.1.0,0,0,https://github.com/zigai/termtrace,JSON Schema catalog for Termtrace public contracts
+2026-11-10T09:56:34.621933Z,termtrace-service,0.1.0,0,0,https://github.com/zigai/termtrace,Reusable application services and orchestration for Termtrace
+2026-11-10T09:56:43.539054Z,vowp-cli,0.1.0,0,0,https://github.com/syver777/vowp,The VOWP command-line interface and `vowp` binary.
+2026-11-10T09:57:09.841698Z,gnap-as,0.1.0,0,0,https://github.com/davlgd/gnap,"The GNAP authorization server role (RFC 9635), free of any HTTP framework"
+2026-11-10T09:58:33.324922Z,incular-web,0.1.1,0,0,https://github.com/FabortLabs/incular,Browser (wasm32) entry for Incular over the shared Winit host
+2026-11-10T09:58:41.85401Z,bilingua-epub,0.9.1,0,0,https://github.com/patois-labs/bilingua,"Bilingua: EPUB 2 and EPUB 3 publication filter (OPF metadata, XHTML chapters in spine order, navigation document, NCX)"
+2026-11-10T09:59:31.480649Z,pg-walparser,0.1.0,0,0,https://github.com/ClickHouse/wal-rus,"PostgreSQL WAL (XLOG) record parser, no_std + alloc"
+2026-11-10T10:00:01.277816Z,zumen-ids,0.2.0,0,0,https://github.com/zumen-jp/zumen,zumen の IDS（Information Delivery Specification）の読み取りと、建物モデルでの照合（決定 0207・0217）
+2026-11-10T10:02:05.930271Z,vix-bui,2.0.2,0,0,https://github.com/vixide/vix,Vix desktop GUI on BUI (Blender's UI as a library): the full Vix App in a native window.
+2026-11-10T10:03:07.090341Z,ipcell,0.1.0-alpha.1,0,0,https://github.com/zzzdong/ipcell,IP -> value lookup file format (IPCELL01 v2): builder plus mem/mmap/file readers
+2026-11-10T10:03:59.631144Z,juiz_pkg,0.2.6,0,0,https://github.com/OpenJUIZ/juiz,Skeleton generator for juiz packages: juiz pkg create / juiz-pkg.
+2026-11-10T10:04:08.473262Z,aixand-undercurrent-transport-core,0.1.0-beta,0,0,https://github.com/Aixand/undercurrent,Transport session and delivery engine for Undercurrent
+2026-11-10T10:04:10.107894Z,aixand-undercurrent-transport-local,0.1.0-beta,0,0,https://github.com/Aixand/undercurrent,Authenticated local IPC transport for Undercurrent
+2026-11-10T10:04:18.849999Z,degenview-brokers,0.1.0,0,0,https://github.com/degenview/brokers,"A venue-neutral trading model and broker adapters for DegenView, with Coinbase Advanced Trade first."
+2026-11-10T10:06:55.680899Z,termtrace-scenario,0.1.0,0,0,https://github.com/zigai/termtrace,Strict evidence-native terminal scenario test runner for Termtrace
+2026-11-10T10:07:09.605874Z,gnap-rs,0.1.0,0,0,https://github.com/davlgd/gnap,GNAP resource-request authorization using authenticated opaque-token introspection
+2026-11-10T10:08:41.359412Z,bilingua-flare,0.9.1,0,0,https://github.com/patois-labs/bilingua,"Bilingua: MadCap Flare project filter (flprjzip: XHTML topics and snippets, variable sets, TOCs, glossaries)"
+2026-11-10T10:08:54.964384Z,aixand-undercurrent,0.1.0-beta,0,0,https://github.com/Aixand/undercurrent,Rust client SDK for the local Undercurrent runtime
+2026-11-10T10:09:48.99389Z,ogc-client,0.1.0,0,0,https://github.com/DaniilPak/ogc-client,"Client for OGC web services: WMS, WMTS, WFS, CSW and OGC API Features/Records/Tiles. Typed capabilities, request builders, axis-order handling. Inspired by Python's OWSLib."
+2026-11-10T10:11:03.227142Z,librosa-rs,0.1.0,0,0,https://github.com/DaniilPak/librosa-rs,"Pure-Rust audio and music analysis whose numbers match Python's librosa: STFT, mel/MFCC, chroma, CQT, onsets, beat tracking, tempo, YIN/pYIN, HPSS, time-stretch and pitch-shift."
+2026-11-10T10:11:13.346975Z,gpio-zero,0.1.0,0,0,https://github.com/DaniilPak/gpio-zero,"A simple, high-level device API for Raspberry Pi and other Linux GPIO boards (LEDs, buttons, motors, servos, sensors, ADCs), inspired by Python's gpiozero."
+2026-11-10T10:11:17.115076Z,zumen-landxml,0.2.0,0,0,https://github.com/zumen-jp/zumen,zumen の J-LandXML（LandXML 1.2 に準じた 3 次元設計データ交換標準）の読み取りと、土木の領域モデルへの移し（#368）
+2026-11-10T10:16:56.015588Z,emeans,0.1.0,0,0,https://github.com/savannahar68/emeans,"e-means clustering in Rust, a port of the CPU version from faiss/contrib/e_means"
+2026-11-10T10:17:09.88245Z,termtrace-sdk,0.1.0,0,0,https://github.com/zigai/termtrace,"Typed Rust client for Termtrace, with optional in-process replay and media"
+2026-11-10T10:17:10.364476Z,gnap-biscuit,0.1.0,0,0,https://github.com/davlgd/gnap,"A bounded, proof-bound Biscuit profile for GNAP file access"
+2026-11-10T10:18:41.667818Z,bilingua,0.9.1,0,0,https://github.com/patois-labs/bilingua,"Bilingua: open, segment and rebuild source files for translation (facade over the format crates)"
