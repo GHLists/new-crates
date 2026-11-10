@@ -1,0 +1,43 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-10T19:20:23.696505Z,pipeline-client,0.1.0,0,0,https://github.com/MetalLegBob/pipeline,"Addresses, instruction builders and account decoders for the Pipeline router"
+2026-11-10T19:21:09.597991Z,pipeline-quoter,0.1.0,0,0,https://github.com/MetalLegBob/pipeline,Quotes any Pipeline strategy by running its on-chain code in an embedded Solana VM
+2026-11-10T19:21:20.673784Z,aster_forge_logging,0.1.0-alpha.1,0,0,https://github.com/AsterCommunity/AsterForge,Shared tracing subscriber setup for Aster services
+2026-11-10T19:22:49.058013Z,pipeline-check,0.1.0,0,0,https://github.com/MetalLegBob/pipeline,"Self-service quality checks for Pipeline strategy markets, run in a local Solana VM"
+2026-11-10T19:23:27.500785Z,navree-i18n,1.0.0,0,0,https://github.com/NavreeHQ/navree,"Navree I18nModule: Fluent translations with plurals and variables, negotiated per request, for validation messages, views and notifications."
+2026-11-10T19:31:32.093346Z,aster_forge_metrics,0.1.0-alpha.1,0,0,https://github.com/AsterCommunity/AsterForge,Shared metrics recorder traits and subsystem registration primitives
+2026-11-10T19:33:29.020141Z,navree-integrations,1.0.0,0,0,https://github.com/NavreeHQ/navree,"Navree IntegrationsModule: workspace connections to third-party APIs with admin consent, encrypted credentials, token refresh and typed clients."
+2026-11-10T19:33:51.554399Z,netgauze-service-core,0.14.0,0,0,https://github.com/NetGauze/NetGauze,"Shared-nothing, thread-per-core service scaffolding for NetGauze collectors: worker trait, supervisor, CPU affinity, and core assignment."
+2026-11-10T19:34:15.10901Z,myko-auth,6.12.0,0,0,,Transport-independent authentication and local authorization for Myko
+2026-11-10T19:35:25.971945Z,myko-auth0,6.12.0,0,0,,Auth0 authentication and machine credentials for Myko
+2026-11-10T19:39:24.87845Z,fontspector-profile-microsoft,0.1.0,0,0,https://github.com/fonttools/fontspector,Fontspector checks for Microsoft font conformance
+2026-11-10T19:39:51.195533Z,fontspector-profile-silfonts,1.0.0,0,0,https://github.com/fonttools/fontspector,Fontspector checks for SIL Fonts font conformance
+2026-11-10T19:42:14.721631Z,aster_forge_middleware,0.1.0-alpha.1,0,0,https://github.com/AsterCommunity/AsterForge,Shared HTTP middleware for Aster services
+2026-11-10T19:43:29.158107Z,navree-logbook,1.0.0,0,0,https://github.com/NavreeHQ/navree,"Navree Logbook: a local debugging timeline of every request, query, job, mail and event, grouped by request, with request replay."
+2026-11-10T19:45:47.245955Z,tunnelward-audit,0.0.14,0,0,https://github.com/sebastienrousseau/tunnelward,"Tunnelward hash-chained audit log with signed checkpoints, pseudonyms, signed call receipts and an offline verifier"
+2026-11-10T19:46:18.791823Z,ggwave,0.1.0,0,0,https://github.com/katzenpost/ggwave-rs,"Safe Rust port of ggwave, the data-over-sound modem, wire-compatible with C ggwave"
+2026-11-10T19:49:31.637049Z,gurafi-macros,0.0.1,0,0,https://github.com/specta-rs/gurafi,Procedural macros for gurafi
+2026-11-10T19:49:32.773341Z,shiri,0.0.1,0,0,https://github.com/specta-rs/gurafi,Rust Serialization (w/ Serde compatibility)
+2026-11-10T19:49:37.083981Z,gurafi,0.0.1,0,0,https://github.com/specta-rs/gurafi,Intuitive GraphQL server for Rust
+2026-11-10T19:49:38.815641Z,suku,0.0.1,0,0,https://github.com/specta-rs/gurafi,GraphQL over HTTP for Rust
+2026-11-10T19:49:41.969658Z,gurafi-relay,0.0.1,0,0,https://github.com/specta-rs/gurafi,Pothos-style Relay helpers for the gurafi GraphQL server
+2026-11-10T19:53:25.342432Z,navree-mcp,1.0.0,0,0,https://github.com/NavreeHQ/navree,"Navree McpModule: MCP servers from #[mcp_server] services over streamable HTTP and stdio, with Navree auth and per-tool permissions."
+2026-11-10T19:53:27.945738Z,aster_forge_observability,0.1.0-alpha.1,0,0,https://github.com/AsterCommunity/AsterForge,HTTP observability endpoints for Aster services
+2026-11-10T19:56:19.416253Z,liminal-luau-analysis,0.1.0,0,0,https://github.com/ablative-io/liminal,"Luau's own type checker (Analysis, Luau 0.709), run strict over one module"
+2026-11-10T19:56:27.682555Z,liminal-reflex,0.1.0,0,0,https://github.com/ablative-io/liminal,"Stateless, bounded Luau mailbox verdicts"
+2026-11-10T20:01:14.880084Z,oito2_foundation,0.1.0,0,0,https://github.com/oito2/oito2_rs,"Platform rules shared by the OITO2 user interfaces: desktop environment detection, window button layout, window control style, decoration mode and system settings composition."
+2026-11-10T20:01:31.783166Z,oito2_settings,0.1.0,0,0,https://github.com/oito2/oito2_rs,"Reads and watches the desktop settings the OITO2 user interfaces follow: window button layout, accent color, high contrast and color scheme on Linux, Windows and macOS."
+2026-11-10T20:03:30.313525Z,navree-media,1.0.0,0,0,https://github.com/NavreeHQ/navree,"Navree MediaModule: files attached to models, image conversions, safe remote downloads, zip archives and text extraction."
+2026-11-10T20:03:38.731023Z,aster_forge_panic,0.1.0-alpha.1,0,0,https://github.com/AsterCommunity/AsterForge,Shared panic hook and crash report writer for Aster services
+2026-11-10T20:04:02.805241Z,axa-postgres-sqlx,0.1.3,0,0,https://github.com/publicprojects-io/axa/,"PostgreSQL pooling, migrations, and test resets over sqlx for Axum services."
+2026-11-10T20:04:06.710611Z,axa-postgres-seaorm,0.3.0,0,0,https://github.com/publicprojects-io/axa/,"SeaORM on PostgreSQL: connections, migrations, schema helpers, and test resets for Axum services, with an easy path from Loco."
+2026-11-10T20:04:10.222455Z,axa-postgres-diesel,0.2.1,0,0,https://github.com/publicprojects-io/axa/,"Diesel on PostgreSQL: pooling, migrations, and test resets for Axum services, in pure Rust."
+2026-11-10T20:04:14.178306Z,axa-postgres-toasty,0.1.0,0,0,https://github.com/publicprojects-io/axa/,"Toasty on PostgreSQL: connections, migrations, and test resets for Axum services."
+2026-11-10T20:04:17.567002Z,axa-mysql-sqlx,0.1.0,0,0,https://github.com/publicprojects-io/axa/,"MySQL pooling, migrations, and test resets over sqlx for Axum services."
+2026-11-10T20:04:21.266449Z,axa-mysql-seaorm,0.1.0,0,0,https://github.com/publicprojects-io/axa/,"SeaORM connections, migrations, schema helpers, and test resets for Axum services on MySQL."
+2026-11-10T20:10:39.042461Z,klarlabs-mcp-protocol,0.1.0,0,0,https://github.com/klarlabs-studio/mcp-rs,Modern MCP protocol engine maintained by Klarlabs for mcp-rs
+2026-11-10T20:10:42.355682Z,klarlabs-mcp,0.1.0,0,0,https://github.com/klarlabs-studio/mcp-rs,Typed MCP application framework ported from klarlabs-studio/mcp-go
+2026-11-10T20:13:27.06877Z,int3,0.0.1,0,0,,Placeholder for the int3 code security scanner (https://int3.sh)
+2026-11-10T20:13:28.02528Z,navree-oauth,1.0.0,0,0,https://github.com/NavreeHQ/navree,"Navree OAuthServerModule: an OAuth 2.1 authorization server and OpenID Connect provider with scopes, consent and device codes."
+2026-11-10T20:13:51.122475Z,aster_forge_tasks,0.1.0-alpha.1,0,0,https://github.com/AsterCommunity/AsterForge,Shared background task primitives for Aster services
+2026-11-10T20:13:52.848455Z,tinyik,0.1.0,0,0,https://github.com/varnholt/tinyik,Small dependency-free inverse kinematics: two-bone IK and FABRIK
+2026-11-10T20:14:37.666187Z,axa-mysql-diesel,0.1.0,0,0,https://github.com/publicprojects-io/axa/,"Diesel pooling, migrations, and test resets for Axum services on MySQL, in pure Rust."

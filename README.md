@@ -8,60 +8,56 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-10 19:19 UTC
+## Latest list — 2026-11-10 20:19 UTC
 
-New crates published between 2026-11-10 18:18 UTC and 2026-11-10 19:19 UTC.
+New crates published between 2026-11-10 19:19 UTC and 2026-11-10 20:19 UTC.
 
-[Full CSV](data/new-crates-2026-11-10T19-19-27-677344Z.csv)
+[Full CSV](data/new-crates-2026-11-10T20-19-29-061902Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-10 18:19:35 | [aster_forge_cloud_files_macos_bridge](https://crates.io/crates/aster_forge_cloud_files_macos_bridge) | 0.1.0-alpha.1 | 0 | Product-neutral Rust bridge contracts for Apple File Provider extensions |
-| 2026-11-10 18:20:17 | [topcoat-openapi](https://crates.io/crates/topcoat-openapi) | 0.12.1 | 0 | A modular, batteries-included Rust web framework for server-rendered apps. |
-| 2026-11-10 18:23:29 | [navree-ai](https://crates.io/crates/navree-ai) | 1.0.0 | 0 | Navree AiModule: text, structured output and streaming from many model provider… |
-| 2026-11-10 18:29:46 | [aster_forge_cloud_files_windows](https://crates.io/crates/aster_forge_cloud_files_windows) | 0.1.0-alpha.1 | 0 | Windows Cloud Files bindings for the product-neutral Forge cloud-files core |
-| 2026-11-10 18:31:36 | [hyperlight-sandbox-wasm](https://crates.io/crates/hyperlight-sandbox-wasm) | 0.0.0 | 0 | Reserved for the Hyperlight sandbox backend; implementation is under active dev… |
-| 2026-11-10 18:31:53 | [hyperlight-sandbox-javascript](https://crates.io/crates/hyperlight-sandbox-javascript) | 0.0.0 | 0 | Reserved for the Hyperlight sandbox backend; implementation is under active dev… |
-| 2026-11-10 18:33:32 | [navree-documents](https://crates.io/crates/navree-documents) | 1.0.0 | 0 | Navree DocumentsModule: PDF from HTML templates or a typed builder, DOCX output… |
-| 2026-11-10 18:36:17 | [smsgora](https://crates.io/crates/smsgora) | 1.0.0 | 0 | Rust client for the SMS Gora SMS Gateway API: send and receive SMS through your… |
-| 2026-11-10 18:36:45 | [treepack](https://crates.io/crates/treepack) | 0.0.1 | 0 | Pack UTF-8 text files into a Markdown document |
-| 2026-11-10 18:37:43 | [waservix](https://crates.io/crates/waservix) | 1.0.0 | 0 | Rust client for the WAservix WhatsApp API Gateway: send WhatsApp messages from… |
-| 2026-11-10 18:39:09 | [cauce-core](https://crates.io/crates/cauce-core) | 0.0.1 | 0 | Engine core for Cauce: node tree, layout intent, state, and the C ABI. |
-| 2026-11-10 18:39:12 | [cauce-build](https://crates.io/crates/cauce-build) | 0.0.1 | 0 | Build-time label and language generator for Cauce apps. |
-| 2026-11-10 18:39:17 | [cauce-dom](https://crates.io/crates/cauce-dom) | 0.0.1 | 0 | DOM/CSS backend for Cauce: static HTML emission and client hydration. |
-| 2026-11-10 18:39:21 | [cauce-core-wasm](https://crates.io/crates/cauce-core-wasm) | 0.0.1 | 0 | The prebuilt engine artifact: cauce-core built as a WebAssembly module. |
-| 2026-11-10 18:39:59 | [aster_forge_db_migration](https://crates.io/crates/aster_forge_db_migration) | 0.1.0-alpha.1 | 0 | Shared SeaORM migration coordination and schema helpers for Aster products |
-| 2026-11-10 18:40:23 | [cauce-gpu](https://crates.io/crates/cauce-gpu) | 0.0.1 | 0 | The wgpu renderer for Cauce scenes. |
-| 2026-11-10 18:41:18 | [fragment-macros](https://crates.io/crates/fragment-macros) | 0.2.5 | 0 | Procedural macros for the Fragment Rust framework |
-| 2026-11-10 18:43:28 | [navree-flags](https://crates.io/crates/navree-flags) | 1.0.0 | 0 | Navree FlagsModule: feature flags as types, resolved per user, workspace, plan… |
-| 2026-11-10 18:44:31 | [nafru-email](https://crates.io/crates/nafru-email) | 0.1.1 | 0 | Official Nafru Email Rust SDK: send transactional email from Rust with a Resend… |
-| 2026-11-10 18:49:35 | [cauce-lib](https://crates.io/crates/cauce-lib) | 0.0.1 | 0 | Safe Rust binding for the Cauce GUI engine. |
-| 2026-11-10 18:50:11 | [aster_forge_events](https://crates.io/crates/aster_forge_events) | 0.1.0-alpha.1 | 0 | Product-neutral transient event transport primitives |
-| 2026-11-10 18:50:19 | [lonca-tree-sitter-ruby](https://crates.io/crates/lonca-tree-sitter-ruby) | 0.2.2 | 0 | The tree-sitter Ruby grammar 0.23.1 with its heredoc serialization fixed, as Lo… |
-| 2026-11-10 18:50:22 | [lonca-tree-sitter-swift](https://crates.io/crates/lonca-tree-sitter-swift) | 0.2.2 | 0 | The tree-sitter Swift grammar 0.7.4 with a read past a string in its scanner fi… |
-| 2026-11-10 18:51:34 | [irys-core](https://crates.io/crates/irys-core) | 0.1.0 | 0 | irys: the Geometry seam, rays, BVH/SAH, TLAS and the blue-noise sampler |
-| 2026-11-10 18:51:36 | [irys-light](https://crates.io/crates/irys-light) | 0.1.0 | 0 | irys: spectra, optics, environments, the CPU path tracer, caustics and splats |
-| 2026-11-10 18:51:37 | [irys-prims](https://crates.io/crates/irys-prims) | 0.1.0 | 0 | irys: stock Geometry implementations, analytic primitives and heightfields |
-| 2026-11-10 18:51:38 | [irys-gpu](https://crates.io/crates/irys-gpu) | 0.1.0 | 0 | irys: the wgpu compute tier with device, buffers, WGSL integrator, history and… |
-| 2026-11-10 18:51:39 | [irys-render](https://crates.io/crates/irys-render) | 0.1.0 | 0 | The light: rays, acceleration structures and a path tracer over any geometry th… |
-| 2026-11-10 18:53:30 | [navree-fleet](https://crates.io/crates/navree-fleet) | 1.0.0 | 0 | Navree FleetModule: supervised queue workers with auto-balancing, metrics, fail… |
-| 2026-11-10 18:55:39 | [frust-device-info](https://crates.io/crates/frust-device-info) | 0.6.6 | 0 | Device memory query for Frust apps: total RAM, low-RAM flag, system-available m… |
-| 2026-11-10 18:55:46 | [frust-permissions](https://crates.io/crates/frust-permissions) | 0.6.6 | 0 | Unified runtime permission status, request and settings shortcut for Frust apps… |
-| 2026-11-10 18:55:58 | [frust-background-task](https://crates.io/crates/frust-background-task) | 0.6.6 | 0 | Background-work plugin for Frust apps: backs frust::BackgroundTask with an Andr… |
-| 2026-11-10 18:56:09 | [frust-photo-library](https://crates.io/crates/frust-photo-library) | 0.6.6 | 0 | Photo and video picker for Frust apps: the system photo picker on Android and i… |
-| 2026-11-10 19:00:24 | [aster_forge_config](https://crates.io/crates/aster_forge_config) | 0.1.0-alpha.1 | 0 | Shared runtime configuration primitives for Aster services |
-| 2026-11-10 19:00:27 | [cauce](https://crates.io/crates/cauce) | 0.0.1 | 0 | Prebuilt native CLI for Cauce: build, static generation, and bundling. |
-| 2026-11-10 19:00:59 | [osmflow-sync](https://crates.io/crates/osmflow-sync) | 0.12.0-alpha.1 | 0 | Imports OpenStreetMap PBF files into PostgreSQL and keeps them current from rep… |
-| 2026-11-10 19:01:59 | [pipeline-events](https://crates.io/crates/pipeline-events) | 0.1.0 | 0 | Decodes events emitted by the Pipeline router |
-| 2026-11-10 19:02:00 | [pipeline-strategy-interface](https://crates.io/crates/pipeline-strategy-interface) | 0.1.0 | 0 | Wire types, discriminators and fee maths for Pipeline strategy programs |
-| 2026-11-10 19:02:12 | [newgit-serve](https://crates.io/crates/newgit-serve) | 0.10.0 | 0 | The newgit remote: Git repositories on local disk, project state in SQLite |
-| 2026-11-10 19:03:33 | [navree-graphql](https://crates.io/crates/navree-graphql) | 1.0.0 | 0 | Navree GraphqlModule: a GraphQL API served from your modules on async-graphql,… |
-| 2026-11-10 19:06:01 | [crumbkit-skills](https://crates.io/crates/crumbkit-skills) | 0.3.0 | 0 | Install a crumbkit tool's agent skill into agent skills directories, check the… |
-| 2026-11-10 19:09:35 | [cauce-abigen](https://crates.io/crates/cauce-abigen) | 0.0.1 | 0 | Generates the C ABI header and the JavaScript shim stubs for Cauce. |
-| 2026-11-10 19:11:07 | [aster_forge_external_auth](https://crates.io/crates/aster_forge_external_auth) | 0.1.0-alpha.1 | 0 | Feature-gated external authentication provider drivers for Aster services |
-| 2026-11-10 19:12:50 | [smart-review](https://crates.io/crates/smart-review) | 0.1.0 | 0 | A CLI tool for applying the spaced repetition technique |
-| 2026-11-10 19:13:27 | [navree-grpc](https://crates.io/crates/navree-grpc) | 1.0.0 | 0 | Navree GrpcModule: tonic services in modules with dependency injection, guards… |
-| 2026-11-10 19:13:48 | [rhema-provider-opencode](https://crates.io/crates/rhema-provider-opencode) | 0.2.2 | 0 | OpenCode Console and Go model provider for rhema |
+| 2026-11-10 19:20:23 | [pipeline-client](https://crates.io/crates/pipeline-client) | 0.1.0 | 0 | Addresses, instruction builders and account decoders for the Pipeline router |
+| 2026-11-10 19:21:09 | [pipeline-quoter](https://crates.io/crates/pipeline-quoter) | 0.1.0 | 0 | Quotes any Pipeline strategy by running its on-chain code in an embedded Solana… |
+| 2026-11-10 19:21:20 | [aster_forge_logging](https://crates.io/crates/aster_forge_logging) | 0.1.0-alpha.1 | 0 | Shared tracing subscriber setup for Aster services |
+| 2026-11-10 19:22:49 | [pipeline-check](https://crates.io/crates/pipeline-check) | 0.1.0 | 0 | Self-service quality checks for Pipeline strategy markets, run in a local Solan… |
+| 2026-11-10 19:23:27 | [navree-i18n](https://crates.io/crates/navree-i18n) | 1.0.0 | 0 | Navree I18nModule: Fluent translations with plurals and variables, negotiated p… |
+| 2026-11-10 19:31:32 | [aster_forge_metrics](https://crates.io/crates/aster_forge_metrics) | 0.1.0-alpha.1 | 0 | Shared metrics recorder traits and subsystem registration primitives |
+| 2026-11-10 19:33:29 | [navree-integrations](https://crates.io/crates/navree-integrations) | 1.0.0 | 0 | Navree IntegrationsModule: workspace connections to third-party APIs with admin… |
+| 2026-11-10 19:33:51 | [netgauze-service-core](https://crates.io/crates/netgauze-service-core) | 0.14.0 | 0 | Shared-nothing, thread-per-core service scaffolding for NetGauze collectors: wo… |
+| 2026-11-10 19:34:15 | [myko-auth](https://crates.io/crates/myko-auth) | 6.12.0 | 0 | Transport-independent authentication and local authorization for Myko |
+| 2026-11-10 19:35:25 | [myko-auth0](https://crates.io/crates/myko-auth0) | 6.12.0 | 0 | Auth0 authentication and machine credentials for Myko |
+| 2026-11-10 19:39:24 | [fontspector-profile-microsoft](https://crates.io/crates/fontspector-profile-microsoft) | 0.1.0 | 0 | Fontspector checks for Microsoft font conformance |
+| 2026-11-10 19:39:51 | [fontspector-profile-silfonts](https://crates.io/crates/fontspector-profile-silfonts) | 1.0.0 | 0 | Fontspector checks for SIL Fonts font conformance |
+| 2026-11-10 19:42:14 | [aster_forge_middleware](https://crates.io/crates/aster_forge_middleware) | 0.1.0-alpha.1 | 0 | Shared HTTP middleware for Aster services |
+| 2026-11-10 19:43:29 | [navree-logbook](https://crates.io/crates/navree-logbook) | 1.0.0 | 0 | Navree Logbook: a local debugging timeline of every request, query, job, mail a… |
+| 2026-11-10 19:45:47 | [tunnelward-audit](https://crates.io/crates/tunnelward-audit) | 0.0.14 | 0 | Tunnelward hash-chained audit log with signed checkpoints, pseudonyms, signed c… |
+| 2026-11-10 19:46:18 | [ggwave](https://crates.io/crates/ggwave) | 0.1.0 | 0 | Safe Rust port of ggwave, the data-over-sound modem, wire-compatible with C ggw… |
+| 2026-11-10 19:49:31 | [gurafi-macros](https://crates.io/crates/gurafi-macros) | 0.0.1 | 0 | Procedural macros for gurafi |
+| 2026-11-10 19:49:32 | [shiri](https://crates.io/crates/shiri) | 0.0.1 | 0 | Rust Serialization (w/ Serde compatibility) |
+| 2026-11-10 19:49:37 | [gurafi](https://crates.io/crates/gurafi) | 0.0.1 | 0 | Intuitive GraphQL server for Rust |
+| 2026-11-10 19:49:38 | [suku](https://crates.io/crates/suku) | 0.0.1 | 0 | GraphQL over HTTP for Rust |
+| 2026-11-10 19:49:41 | [gurafi-relay](https://crates.io/crates/gurafi-relay) | 0.0.1 | 0 | Pothos-style Relay helpers for the gurafi GraphQL server |
+| 2026-11-10 19:53:25 | [navree-mcp](https://crates.io/crates/navree-mcp) | 1.0.0 | 0 | Navree McpModule: MCP servers from #[mcp_server] services over streamable HTTP… |
+| 2026-11-10 19:53:27 | [aster_forge_observability](https://crates.io/crates/aster_forge_observability) | 0.1.0-alpha.1 | 0 | HTTP observability endpoints for Aster services |
+| 2026-11-10 19:56:19 | [liminal-luau-analysis](https://crates.io/crates/liminal-luau-analysis) | 0.1.0 | 0 | Luau's own type checker (Analysis, Luau 0.709), run strict over one module |
+| 2026-11-10 19:56:27 | [liminal-reflex](https://crates.io/crates/liminal-reflex) | 0.1.0 | 0 | Stateless, bounded Luau mailbox verdicts |
+| 2026-11-10 20:01:14 | [oito2_foundation](https://crates.io/crates/oito2_foundation) | 0.1.0 | 0 | Platform rules shared by the OITO2 user interfaces: desktop environment detecti… |
+| 2026-11-10 20:01:31 | [oito2_settings](https://crates.io/crates/oito2_settings) | 0.1.0 | 0 | Reads and watches the desktop settings the OITO2 user interfaces follow: window… |
+| 2026-11-10 20:03:30 | [navree-media](https://crates.io/crates/navree-media) | 1.0.0 | 0 | Navree MediaModule: files attached to models, image conversions, safe remote do… |
+| 2026-11-10 20:03:38 | [aster_forge_panic](https://crates.io/crates/aster_forge_panic) | 0.1.0-alpha.1 | 0 | Shared panic hook and crash report writer for Aster services |
+| 2026-11-10 20:04:02 | [axa-postgres-sqlx](https://crates.io/crates/axa-postgres-sqlx) | 0.1.3 | 0 | PostgreSQL pooling, migrations, and test resets over sqlx for Axum services. |
+| 2026-11-10 20:04:06 | [axa-postgres-seaorm](https://crates.io/crates/axa-postgres-seaorm) | 0.3.0 | 0 | SeaORM on PostgreSQL: connections, migrations, schema helpers, and test resets… |
+| 2026-11-10 20:04:10 | [axa-postgres-diesel](https://crates.io/crates/axa-postgres-diesel) | 0.2.1 | 0 | Diesel on PostgreSQL: pooling, migrations, and test resets for Axum services, i… |
+| 2026-11-10 20:04:14 | [axa-postgres-toasty](https://crates.io/crates/axa-postgres-toasty) | 0.1.0 | 0 | Toasty on PostgreSQL: connections, migrations, and test resets for Axum service… |
+| 2026-11-10 20:04:17 | [axa-mysql-sqlx](https://crates.io/crates/axa-mysql-sqlx) | 0.1.0 | 0 | MySQL pooling, migrations, and test resets over sqlx for Axum services. |
+| 2026-11-10 20:04:21 | [axa-mysql-seaorm](https://crates.io/crates/axa-mysql-seaorm) | 0.1.0 | 0 | SeaORM connections, migrations, schema helpers, and test resets for Axum servic… |
+| 2026-11-10 20:10:39 | [klarlabs-mcp-protocol](https://crates.io/crates/klarlabs-mcp-protocol) | 0.1.0 | 0 | Modern MCP protocol engine maintained by Klarlabs for mcp-rs |
+| 2026-11-10 20:10:42 | [klarlabs-mcp](https://crates.io/crates/klarlabs-mcp) | 0.1.0 | 0 | Typed MCP application framework ported from klarlabs-studio/mcp-go |
+| 2026-11-10 20:13:27 | [int3](https://crates.io/crates/int3) | 0.0.1 | 0 | Placeholder for the int3 code security scanner (https://int3.sh) |
+| 2026-11-10 20:13:28 | [navree-oauth](https://crates.io/crates/navree-oauth) | 1.0.0 | 0 | Navree OAuthServerModule: an OAuth 2.1 authorization server and OpenID Connect… |
+| 2026-11-10 20:13:51 | [aster_forge_tasks](https://crates.io/crates/aster_forge_tasks) | 0.1.0-alpha.1 | 0 | Shared background task primitives for Aster services |
+| 2026-11-10 20:13:52 | [tinyik](https://crates.io/crates/tinyik) | 0.1.0 | 0 | Small dependency-free inverse kinematics: two-bone IK and FABRIK |
+| 2026-11-10 20:14:37 | [axa-mysql-diesel](https://crates.io/crates/axa-mysql-diesel) | 0.1.0 | 0 | Diesel pooling, migrations, and test resets for Axum services on MySQL, in pure… |
 
 ## Data source
 
