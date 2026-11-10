@@ -1,0 +1,31 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-10T17:20:19.278246Z,gg-engine,0.1.92,0,0,https://github.com/baol/gg,"The model of Git Good: diffs, review, status and operation receipts, independent of Git and the UI"
+2026-11-10T17:20:48.289151Z,gg-git,0.1.92,0,0,https://github.com/baol/gg,The Git layer of Git Good: reads repositories with gix and runs git for every change
+2026-11-10T17:21:03.606856Z,ferrix-store,0.1.1,0,0,https://github.com/soumitra-das-dev/ferrix-ui,Global state management and persisted slice store for Ferrix
+2026-11-10T17:23:01.436397Z,git-good,0.1.92,0,0,https://github.com/baol/gg,"A fast, native Git desktop app: History tree, review, line staging, interactive rebase and Recovery, running your own git"
+2026-11-10T17:23:30.322151Z,navree-mongo,1.0.0,0,0,https://github.com/NavreeHQ/navree,"Navree on MongoDB: connections and pools, the ORM's document driver, the schema builder on collections, and migrations."
+2026-11-10T17:27:18.240642Z,hl-background-cli,0.1.0,0,0,https://github.com/urgorri/hl-background-cli,Ultra-lightweight CLI and library to convert images into Half-Life background TGA slices
+2026-11-10T17:28:36.367941Z,aster_forge_runtime,0.1.0-alpha.1,0,0,https://github.com/AsterCommunity/AsterForge,Shared runtime primitives for Aster services
+2026-11-10T17:30:03.134509Z,rodio-async-sync-bridge,0.1.3,0,0,https://github.com/hasezoey/rodio-async-sync-bridge,A bridge for rodio from async to sync
+2026-11-10T17:33:30.125347Z,navree-ui,1.0.0,0,0,https://github.com/NavreeHQ/navree,"Navree's UI toolkit: typed components rendered to HTML on the server, one stylesheet, and a small owned runtime that loads only when a page needs it."
+2026-11-10T17:34:12.118091Z,ferrix-style,0.1.1,0,0,https://github.com/soumitra-das-dev/ferrix-ui,"Native Style IR, Style Registry, Cascade Engine, and Reactive Style Resolver for Ferrix"
+2026-11-10T17:36:45.694071Z,canter,0.2.0,0,0,https://github.com/taherakolawala/canter,Keyboard-driven terminal reader for Canvas LMS
+2026-11-10T17:38:50.449474Z,aster_forge_test,0.1.0-alpha.1,0,0,https://github.com/AsterCommunity/AsterForge,Shared integration-test infrastructure for Aster services
+2026-11-10T17:43:31.866341Z,navree-auth,1.0.0,0,0,https://github.com/NavreeHQ/navree,"Navree AuthModule: JWT authentication with rotating refresh tokens, pluggable strategies and user accounts."
+2026-11-10T17:47:21.088775Z,ferrix-style-build,0.1.1,0,0,https://github.com/soumitra-das-dev/ferrix-ui,"Build-time CSS subset parser, shorthand expander, and CSS Modules generator for Ferrix"
+2026-11-10T17:49:03.471207Z,aster_forge_auth,0.1.0-alpha.1,0,0,https://github.com/AsterCommunity/AsterForge,Product-neutral local session authentication mechanics
+2026-11-10T17:53:30.490724Z,navree-notify,1.0.0,0,0,https://github.com/NavreeHQ/navree,"Navree NotifyModule: notifications over mail, database, broadcast, chat, SMS, WhatsApp and web push, with preferences and a delivery log."
+2026-11-10T17:54:45.068611Z,autorust,0.1.0,0,0,https://github.com/apexys/autorust,A multi-backend GPU-compute / ML framework
+2026-11-10T17:59:14.968971Z,aster_forge_cache,0.1.0-alpha.1,0,0,https://github.com/AsterCommunity/AsterForge,Shared cache abstractions and backend constructors for Aster services
+2026-11-10T18:00:30.011446Z,ferrix-ui-core,0.1.1,0,0,https://github.com/soumitra-das-dev/ferrix-ui,"Components, hooks, lifecycle, and reconciliation for Ferrix"
+2026-11-10T18:01:08.438134Z,ferrix-modules,0.1.1,0,0,https://github.com/soumitra-das-dev/ferrix-ui,Native modules subsystem and Expo-compatible module bridging for Ferrix
+2026-11-10T18:03:28.255982Z,navree-queue,1.0.0,0,0,https://github.com/NavreeHQ/navree,"Navree QueueModule: database and memory job queues, workers, retries with backoff, unique and delayed jobs, job batches and operations with progress."
+2026-11-10T18:04:22.890848Z,bimetal-ir,202611.10.0,0,0,https://github.com/2xf-org/bimetal,Contract IR and discovery ABI shared by the Bimetal runtime and CLI
+2026-11-10T18:04:24.852254Z,bimetal-cli,202611.10.0,0,0,https://github.com/2xf-org/bimetal,"The `bimetal` command, which builds, checks, and publishes generated Python and TypeScript packages"
+2026-11-10T18:04:25.613984Z,bimetal-macros,202611.10.0,0,0,https://github.com/2xf-org/bimetal,Procedural macros re-exported by the Bimetal runtime
+2026-11-10T18:04:26.653822Z,bimetal,202611.10.0,0,0,https://github.com/2xf-org/bimetal,Runtime and contract macros for Rust APIs that Bimetal compiles into Python and TypeScript packages
+2026-11-10T18:09:25.55313Z,aster_forge_cloud_files_linux,0.1.0-alpha.1,0,0,https://github.com/AsterCommunity/AsterForge,Product-neutral Linux FUSE bindings for Forge cloud-files core
+2026-11-10T18:13:30.533693Z,navree-workspace,1.0.0,0,0,https://github.com/NavreeHQ/navree,"Navree WorkspaceModule: multi-tenancy by workspace, with members, roles, invitations, and row, schema or database isolation."
+2026-11-10T18:14:04.829131Z,flora,0.1.0,0,0,https://git.nonsensical.dev/Pywon/flora.git,A string formatter that inserts ANSI escape sequences in order to add styling. It uses a formatting style akin to the paris crate's.
+2026-11-10T18:15:27.117236Z,sitevet,0.1.0,0,0,https://github.com/Abdulkader-Safi/sitevet,"Website audit engine: crawl a site, run SEO, security and accessibility rules, get a typed, scored report."
+2026-11-10T18:16:01.688733Z,sitevet-cli,0.1.0,0,0,https://github.com/Abdulkader-Safi/sitevet,Command-line website audits built on the sitevet library.
