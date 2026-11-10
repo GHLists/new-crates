@@ -1,0 +1,56 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-10T01:20:57.983773Z,demomo,0.0.0,0,0,https://git.yummers.dev/yum/demomo,A webGPU-based graphics and GPGPU engine.
+2026-11-10T01:22:07.387721Z,piqueld-probe,0.1.0,0,0,https://github.com/sourceorigin-dev/piqueld,Static in-container HTTP health probe for piqueld services
+2026-11-10T01:22:09.786861Z,piqueld-core,0.1.0,0,0,https://github.com/sourceorigin-dev/piqueld,"Domain contracts shared by piqueld, its client and its CLI"
+2026-11-10T01:22:12.632143Z,piqueld-client,0.1.0,0,0,https://github.com/sourceorigin-dev/piqueld,Typed asynchronous client for the piqueld API
+2026-11-10T01:22:15.131307Z,piquelctl,0.1.0,0,0,https://github.com/sourceorigin-dev/piqueld,"Command-line client for piqueld, a control plane for a single-node Docker Swarm"
+2026-11-10T01:22:16.656995Z,piqueld,0.1.0,0,0,https://github.com/sourceorigin-dev/piqueld,"Control plane for a single-node Docker Swarm: deployments, HTTPS routes, secrets and more"
+2026-11-10T01:28:07.434342Z,rsfai,0.1.0,0,0,https://github.com/physwkim/rsFAI,"Azimuthal integrator (PONI + detector image to 1D/2D curves), a bit-exact Rust port of pyFAI's integrate1d/integrate2d"
+2026-11-10T01:28:40.889722Z,bilingua-php,0.9.1,0,0,https://github.com/patois-labs/bilingua,Bilingua: PHP array resource files (Laravel and CodeIgniter language files)
+2026-11-10T01:29:25.843245Z,rndr_liquid,0.5.0,0,0,https://github.com/EntasisLabs/rndr,"Liquid Markdown: paste-first UI fences (cards, charts, plans, tabs, ...) for rndr"
+2026-11-10T01:29:29.629339Z,rndr_chart,0.5.0,0,0,https://github.com/EntasisLabs/rndr,"Bar, line, area, pie, donut, radar, radial, scatter, combo and heatmap charts painted with rndr_paint"
+2026-11-10T01:29:36.216391Z,rndr_liquid_ui,0.5.0,0,0,https://github.com/EntasisLabs/rndr,Native rendering of Liquid Markdown blocks in rndr markdown views
+2026-11-10T01:29:39.035513Z,rndr_canvas,0.5.0,0,0,https://github.com/EntasisLabs/rndr,"Headless canvas documents: nodes, transactions, validation, undo history, geometry and storage"
+2026-11-10T01:29:44.389323Z,rndr_canvas_ui,0.5.0,0,0,https://github.com/EntasisLabs/rndr,"Paint and edit rndr_canvas documents: scene painter, editing tools, overlay and panels"
+2026-11-10T01:34:53.080208Z,rndr_media,0.5.0,0,0,https://github.com/EntasisLabs/rndr,"Native video and audio playback for rndr: GStreamer on Linux, AVFoundation on macOS"
+2026-11-10T01:36:23.894788Z,archier,0.1.0,0,0,,A pull parser for [ArchieML](https://archieml.org)
+2026-11-10T01:38:22.333662Z,rsfai-opencl,0.1.0,0,0,https://github.com/physwkim/rsFAI,"OpenCL/GPU integration backend for rsFAI, running pyFAI's CSR, LUT and histogram kernels"
+2026-11-10T01:38:40.743097Z,bilingua-po,0.9.1,0,0,https://github.com/patois-labs/bilingua,Bilingua: gettext PO and POT parser
+2026-11-10T01:41:41.458841Z,tay,0.0.0,0,0,,Topology Automation via YAML: brings a stack of host processes and containers up in dependency order and tells the truth about its state
+2026-11-10T01:42:56.959026Z,atif-io,0.4.5,0,0,https://github.com/dentiny/atif-arrow,JSON and JSONL trajectory readers for ATIF to Arrow conversion
+2026-11-10T01:44:20.206115Z,plexus-dyn,0.2.0,0,0,https://github.com/hypermemetic-ai/plexus-dyn,"A Plexus activation that connects to other services at runtime and grows TypeScript dendrites, each served as a peer: dyn.peer.<name>.<path>.<method>."
+2026-11-10T01:45:00.762967Z,rndr_browser,0.5.0,0,0,https://github.com/EntasisLabs/rndr,Optional embedded browser session for rndr
+2026-11-10T01:48:35.756749Z,rsfai-fiber,0.1.0,0,0,https://github.com/physwkim/rsFAI,"Fiber and grazing-incidence (GIWAXS/GISAXS) integration for rsFAI, ported from pyFAI's integrator/fiber.py"
+2026-11-10T01:48:41.273734Z,bilingua-properties,0.9.1,0,0,https://github.com/patois-labs/bilingua,Bilingua: Java and Mozilla .properties parser
+2026-11-10T01:49:05.342814Z,rightkit-memory-core,0.1.0,0,0,https://github.com/bogusyogi/rightkit,"Durable-memory core: memory tiers, retrieval ranking, a quality eval gate and token accounting, with no I/O."
+2026-11-10T01:49:14.895247Z,rightkit-notifications,0.1.0,0,0,https://github.com/bogusyogi/rightkit,"Neutral native notifications owner usable without Tauri: Client, Notification builder with actions and replace keys, Handle update and close, permission state, capabilities, and dock and taskbar badg…"
+2026-11-10T01:49:55.730823Z,rightkit-passkeys,0.1.0,0,0,https://github.com/bogusyogi/rightkit,"Passkey authenticator adapter over passkey-rs for Right Suite apps: a CredentialStore trait the consumer implements, request normalisation, and truthful user-presence and user-verification flags."
+2026-11-10T01:50:27.700989Z,rightkit-power,0.1.0,0,0,https://github.com/bogusyogi/rightkit,"Sleep, resume, session lock, battery, energy saver, display state and keep-awake for Right Suite apps: one owner of the device's power and session state."
+2026-11-10T01:51:49.60284Z,rightkit-sysmem,0.1.0,0,0,https://github.com/bogusyogi/rightkit,"Safe API over the platform memory calls: return free allocator pages to the OS, read physical memory on Windows, and find a window's monitor colour profile."
+2026-11-10T01:52:02.386602Z,flatmarkdown-ast,0.5.0,0,0,https://github.com/petajournal/flatmarkdown,Typed Flat Markdown AST (serde) for the JSON that the flatmarkdown crate produces
+2026-11-10T01:55:33.483281Z,opengrid-json,0.15.0,0,0,https://github.com/casoon/opengrid,A small JSON reader and writer shared by the browser and the server
+2026-11-10T01:55:38.766831Z,opengrid-types,0.15.0,0,0,https://github.com/casoon/opengrid,"Schemas, values and identifiers for the opengrid data and query engine"
+2026-11-10T01:55:43.421899Z,opengrid-query,0.15.0,0,0,https://github.com/casoon/opengrid,"Query AST, JSON contract and validation for opengrid"
+2026-11-10T01:55:47.685646Z,opengrid-columns,0.15.0,0,0,https://github.com/casoon/opengrid,"Column storage and kernels for the opengrid engine: typed columns, NULL bitmaps, gather and sort"
+2026-11-10T01:55:53.846239Z,opengrid-datasource,0.15.0,0,0,https://github.com/casoon/opengrid,"The DataSource contract, capabilities and portable query result of opengrid"
+2026-11-10T01:58:41.260801Z,bilingua-qtts,0.9.1,0,0,https://github.com/patois-labs/bilingua,"Bilingua: Qt Linguist .ts filter (messages as units, numerus forms, byte-for-byte skeleton)"
+2026-11-10T01:58:48.21334Z,rsfai-multigeometry,0.1.0,0,0,https://github.com/physwkim/rsFAI,"Multi-geometry azimuthal integration for rsFAI, ported from pyFAI's multi_geometry.py"
+2026-11-10T01:59:41.481093Z,gitaway,0.1.0-alpha.1,0,0,https://github.com/nikkel/gitaway,"Reach your self-hosted git server from anywhere, with a tunnel only gitaway uses"
+2026-11-10T02:02:39.738336Z,rightkit-theme,0.1.0,0,0,https://github.com/bogusyogi/rightkit,"Resolved theme tokens for non-web UIs: the @rightkit/theme brand resolver (derived dark accent, WCAG contrast repair) in Rust, emitting per-mode W3C design-token JSON."
+2026-11-10T02:03:20.696184Z,kubera-cli,0.2.0,0,0,https://github.com/dmdhrumilmistry/kubera,"Template driven secret detection, verification, analysis and rotation"
+2026-11-10T02:04:21.925508Z,mmkv-platform,0.1.0,0,0,https://github.com/wwog/mmkv-rs,"Platform abstraction traits for the MMKV Rust port: mmap, file locks, app lifecycle and storage roots."
+2026-11-10T02:04:35.194306Z,mmkv-platform-posix,0.1.0,0,0,https://github.com/wwog/mmkv-rs,"Shared POSIX mmap, flock and ftruncate primitives for the MMKV Rust port."
+2026-11-10T02:04:39.67267Z,mmkv-platform-macos,0.1.0,0,0,https://github.com/wwog/mmkv-rs,"macOS, tvOS, watchOS and visionOS support for the MMKV Rust port, using objc2 Foundation."
+2026-11-10T02:04:42.027066Z,mmkv-platform-ios,0.1.0,0,0,https://github.com/wwog/mmkv-rs,"iOS support for the MMKV Rust port: App Group paths, file protection and background/memory-warning lifecycle."
+2026-11-10T02:04:45.914406Z,mmkv-platform-linux,0.1.0,0,0,https://github.com/wwog/mmkv-rs,Linux support for the MMKV Rust port: POSIX mmap primitives and sendfile-based restore copies.
+2026-11-10T02:06:21.684441Z,opengrid-planner,0.15.0,0,0,https://github.com/casoon/opengrid,Query planner for opengrid: pushdown and hybrid client/server execution
+2026-11-10T02:07:19.315236Z,polymarket-agent,0.1.0,0,0,https://github.com/mattbusel/polymarket-agent,"Polymarket for AI agents: one CLI and one MCP server to search markets, read books and place attributed CLOB v2 orders (Rust, no npm)."
+2026-11-10T02:08:41.182082Z,bilingua-rc,0.9.1,0,0,https://github.com/patois-labs/bilingua,Bilingua: Windows resource script (.rc) parser
+2026-11-10T02:09:06.050414Z,rsfai-goniometer,0.1.0,0,0,https://github.com/physwkim/rsFAI,"Goniometer geometry model and refinement for rsFAI, ported from pyFAI's goniometer.py"
+2026-11-10T02:11:56.344421Z,mmkv-platform-android,0.1.0,0,0,https://github.com/wwog/mmkv-rs,"Android support for the MMKV Rust port: JNI paths, ashmem regions, process-mode checks and legacy migration."
+2026-11-10T02:14:16.605547Z,rightkit-win-ui,0.1.0,0,0,https://github.com/bogusyogi/rightkit,"Win32 UI toolkit: RAII window and GDI wrappers, software canvas, GDI surface and text painter, vector glyphs, shell file icons. Empty on other systems."
+2026-11-10T02:16:09.568438Z,rightkit-notch-ui,0.1.0,0,0,https://github.com/bogusyogi/rightkit,"Notch drawing core: edge-aware geometry, spring motion, hover card model and a software renderer for ring gauges and cards."
+2026-11-10T02:16:50.781879Z,opengrid-engine,0.15.0,0,0,https://github.com/casoon/opengrid,The opengrid engine: ingest and local query execution over typed columns
+2026-11-10T02:18:40.884547Z,bilingua-resjson,0.9.1,0,0,https://github.com/patois-labs/bilingua,Bilingua: Windows .resjson filter (JSON resources with _key.comment notes and JavaScript comments)
+2026-11-10T02:18:42.546131Z,willbooster-tree-sitter-sql,0.0.0-placeholder.0,0,0,https://github.com/WillBooster/tree-sitter-sql,Placeholder for WillBooster's tree-sitter-sql; the first release is 1.0.0
+2026-11-10T02:21:38.075674Z,mmkv-platform-windows,0.1.0,0,0,https://github.com/wwog/mmkv-rs,"Windows support for the MMKV Rust port: CreateFileMappingW, MapViewOfFile and LockFileEx."
