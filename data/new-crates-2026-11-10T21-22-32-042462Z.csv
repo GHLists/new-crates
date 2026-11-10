@@ -1,0 +1,37 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-10T20:20:21.362757Z,myko-permissions,6.12.0,0,0,,"Persisted permission entities, local policy, and operator recovery for Myko"
+2026-11-10T20:21:09.858182Z,myko-permissions-leptos,6.12.0,0,0,,Server-discovered permission components for Leptos
+2026-11-10T20:23:24.894544Z,navree-redis,1.0.0,0,0,https://github.com/NavreeHQ/navree,"Navree RedisModule: a shared Redis connection manager, and Redis drivers for the cache, locks, queue, sessions and rate limits."
+2026-11-10T20:24:03.770315Z,aster_forge_mail,0.1.0-alpha.1,0,0,https://github.com/AsterCommunity/AsterForge,Shared mail infrastructure helpers for Aster services
+2026-11-10T20:24:59.119415Z,axa-mysql-toasty,0.1.0,0,0,https://github.com/publicprojects-io/axa/,"Toasty connections, migrations, and test resets for Axum services, on MySQL."
+2026-11-10T20:28:20.089053Z,kasi-cli,0.3.0,0,0,https://github.com,CLI project scaffolder for the Kasi async web framework.
+2026-11-10T20:28:25.420601Z,delali-narsil,0.1.0,0,0,https://github.com/assetcorp/narsil,"Create, change, and search a Narsil index inside a Rust program, with full-text, vector, and hybrid search on Narsil's native core."
+2026-11-10T20:31:16.683424Z,wire2,2.1.0,0,0,https://github.com/godxgun/libwire2,"Rust binding for libwire2, found through pkg-config"
+2026-11-10T20:33:21.055581Z,otop,0.1.8,0,0,https://github.com/YPARK/otop,"A btop-like monitor of CPUs, memory, GPUs (NVIDIA and Apple) and processes, in the terminal"
+2026-11-10T20:33:28.796459Z,navree-settings,1.0.0,0,0,https://github.com/NavreeHQ/navree,"Navree SettingsModule: typed settings stored per scope, inherited down the chain, with the source of every value."
+2026-11-10T20:33:43.345288Z,aster_forge_db,0.1.0-alpha.1,0,0,https://github.com/AsterCommunity/AsterForge,Shared database utilities for Aster services
+2026-11-10T20:33:57.408359Z,dokime-tracing,0.1.3,0,0,https://github.com/stokker-technologies/dokime,Opt-in payload-free native test span traces.
+2026-11-10T20:34:30.287287Z,super-rex,0.1.0,0,0,https://github.com/coderaidershaun/super-rex,"Skills that plan and run a job with Claude Code sub-agents, plus a CLI that sets a repo up, picks a model for each role and records what ran"
+2026-11-10T20:37:37.195164Z,banded-krait,0.1.0,0,0,https://github.com/v-zhukovetskyi/krait,GPU-Accelerated DNA Sequence Aligner for short reads using WebGPU
+2026-11-10T20:39:54.385059Z,originlm-images,0.1.0-alpha.27,0,0,https://github.com/thomaslittle/originlm,Host-owned image generation tool and bring-your-own-key provider adapters
+2026-11-10T20:43:26.854208Z,navree-social,1.0.0,0,0,https://github.com/NavreeHQ/navree,"Navree SocialModule: sign in with Google, GitHub, Apple, Microsoft and other providers, linked to Navree users."
+2026-11-10T20:44:29.355941Z,aster_forge_audit,0.1.0-alpha.2,0,0,https://github.com/AsterCommunity/AsterForge,Shared audit runtime integration for Aster services
+2026-11-10T20:45:13.833382Z,logos-devnet,0.1.0,0,0,https://github.com/drptbl/logos-devnet,"A local LEZ chain for Logos development: one command to start it, fund accounts and deploy programs"
+2026-11-10T20:47:26.723853Z,aerofoil-replay,0.1.0-beta.1,0,0,https://github.com/colinwolff/aerofoil,Standalone multi-tier surveillance and RF sample replay engine
+2026-11-10T20:47:49.569664Z,aerofoil-tui,0.1.0-beta.1,0,0,https://github.com/colinwolff/aerofoil,Terminal UI dashboard for aerofoil with Ratatui PPI radar and telemetry tables
+2026-11-10T20:49:13.859506Z,rsolver,0.1.0,0,0,https://github.com/rjustincardona/rsolver,"Matrix-free dual bounds for QCQPs by GCD: BFGS on the Lagrange multipliers, checked to stay where the Lagrangian is positive semidefinite"
+2026-11-10T20:52:37.079783Z,burn_quantum_visualization,0.3.0,0,0,https://github.com/mosure/burn_quantum,"Interactive Bevy workbench for quantum circuits, states, photonic fabrics and optimization"
+2026-11-10T20:53:29.38949Z,navree-sso,1.0.0,0,0,https://github.com/NavreeHQ/navree,"Navree SsoModule: SAML 2.0 and OpenID Connect single sign-on per organization or workspace, verified email domains and just-in-time provisioning."
+2026-11-10T20:54:40.04607Z,aster_forge_xml,0.1.0-alpha.1,0,0,https://github.com/AsterCommunity/AsterForge,"Bounded, source-backed XML parsing for Aster services"
+2026-11-10T20:56:01.362469Z,raikou,0.1.0,0,0,https://github.com/brokentari/raikou,A Redis-compatible server
+2026-11-10T20:59:17.255719Z,enginseer,0.1.0,0,0,https://github.com/seuros/enginseer,A Podman container manager with state machine control
+2026-11-10T21:03:19.63858Z,rulerpack,0.3.0,0,0,https://github.com/oppressionslayer/rulerpack-rs,"Lars Rocha's XOR rulers over the primes: pack, count, walk."
+2026-11-10T21:03:31.094716Z,navree-webhooks,1.0.0,0,0,https://github.com/NavreeHQ/navree,"Navree WebhooksModule: signed outgoing webhooks with retries and a delivery log, and verified incoming webhooks from many senders."
+2026-11-10T21:04:52.2049Z,aster_forge_webdav,0.1.0-alpha.1,0,0,https://github.com/AsterCommunity/AsterForge,Product-neutral WebDAV protocol engine contracts for Aster services
+2026-11-10T21:12:01.734578Z,rondi,0.1.0,0,0,https://github.com/kadupulhq/rondi,Round-robin time-series storage and RRDtool binary compatibility library
+2026-11-10T21:12:04.286675Z,rondi-server,0.1.0,0,0,https://github.com/kadupulhq/rondi,"Storage coordination, write journaling, and rrdcached-compatible daemon components"
+2026-11-10T21:12:05.699773Z,rondi-cli,0.1.0,0,0,https://github.com/kadupulhq/rondi,RRDtool-compatible command-line interface and Rondi server executable
+2026-11-10T21:13:26.034141Z,navree-workflows,1.0.0,0,0,https://github.com/NavreeHQ/navree,"Navree WorkflowsModule: durable workflows in code and end-user automations with triggers, conditions and actions."
+2026-11-10T21:21:49.643676Z,oxrok-firmware-fetch,0.1.0,0,0,https://github.com/oxrok/oxrok-util,"Fetches the vendor firmware oxrok's drivers need: downloads it, or takes the user's copy, and extracts it on the user's machine"
+2026-11-10T21:22:19.613243Z,exoself-core,0.3.0,0,0,https://github.com/cYoren/exoself,"An unchosen temperament for software agents: derivation, birth, development, expression"
+2026-11-10T21:22:30.33476Z,exoself,0.3.0,0,0,https://github.com/cYoren/exoself,"Command line for exoself: draw a seed once, render the temperament, record a session, wire a host"
