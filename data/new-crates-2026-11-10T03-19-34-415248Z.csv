@@ -1,0 +1,49 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-10T02:27:17.774582Z,opengrid-pivot,0.15.0,0,0,https://github.com/casoon/opengrid,"Pivot for opengrid: dimensions, measures, grouping sets and the result they shape"
+2026-11-10T02:28:40.647609Z,bilingua-resx,0.9.1,0,0,https://github.com/patois-labs/bilingua,Bilingua: .NET resx and resw resource file parser
+2026-11-10T02:28:51.509748Z,rightkit-agent-demo,0.1.0,0,0,https://github.com/bogusyogi/rightkit,"Consented agent demo mode for Tauri hosts: an agent drives one catalog app through rightkit-automation while the host records that app's window into a sealed bundle, with an always-visible badge, a k…"
+2026-11-10T02:31:36.078411Z,mmkv-core,0.1.0,0,0,https://github.com/wwog/mmkv-rs,"Platform-agnostic MMKV engine: on-disk format, MiniPB codec, CRC-32, AES-CFB128 encryption, expiration and multi-process sync."
+2026-11-10T02:37:45.158991Z,opengrid-grid,0.15.0,0,0,https://github.com/casoon/opengrid,"Portable grid state, view-model and change detection for opengrid"
+2026-11-10T02:38:41.698937Z,bilingua-richtext,0.9.1,0,0,https://github.com/patois-labs/bilingua,"Bilingua: rich text JSON filters (Contentful Rich Text, Sanity Portable Text, Jira ADF, Notion blocks)"
+2026-11-10T02:39:34.649047Z,rightkit-app-lock,0.1.0,0,0,https://github.com/bogusyogi/rightkit,"Application lock: lock state machine types, preference fail-closed rules, OS user verification (Windows Hello, Touch ID) and the shell-side unlock flow against an engine transport."
+2026-11-10T02:41:36.974281Z,mmkv-rs,0.1.0,0,0,https://github.com/wwog/mmkv-rs,A byte-compatible Rust port of Tencent MMKV: fast memory-mapped key-value storage with AES-CFB128 encryption and key expiration.
+2026-11-10T02:44:55.228047Z,vwi-core,0.3.0,0,0,https://github.com/vantruong-dang/vietnamese-writing-intelligence,"High-performance linguistic core, Viterbi Trellis segmenter, and functional grammar auditor for Vietnamese"
+2026-11-10T02:45:30.538092Z,vwi-cli,0.3.0,0,0,https://github.com/vantruong-dang/vietnamese-writing-intelligence,High-performance standalone native CLI for Vietnamese Writing Intelligence
+2026-11-10T02:48:13.320356Z,opengrid-export,0.15.0,0,0,https://github.com/casoon/opengrid,"CSV, JSON and XLSX from an opengrid query result, piece by piece"
+2026-11-10T02:48:41.107754Z,bilingua-rst,0.9.1,0,0,https://github.com/patois-labs/bilingua,"Bilingua: reStructuredText (.rst, .rest) filter"
+2026-11-10T02:49:20.480616Z,gxp,0.49.0,0,0,https://github.com/chouxiaozi/gxp,grep-aligned query language for LLM agents (not a strict superset)
+2026-11-10T02:50:05.41715Z,rpi-node-core,0.1.0,0,0,https://github.com/pi-rust/rpi-package,Transport-neutral node discovery and coordination contracts for rpi
+2026-11-10T02:50:44.156871Z,rpi-node,0.1.0,0,0,https://github.com/pi-rust/rpi-package,Native node host lifecycle for rpi --node
+2026-11-10T02:51:07.679711Z,rightkit-clipboard-history,0.1.0,0,0,https://github.com/bogusyogi/rightkit,"Clipboard history logic: classify copied text (colour, link, code, plain) and spot whole-text secrets."
+2026-11-10T02:56:25.397993Z,foundation_context,0.0.1,0,0,https://github.com/ewe-studios/ewe_platform,"The shared context: a typed map plus the injected clock, config and random number generator"
+2026-11-10T02:58:54.657775Z,opengrid-connector,0.15.0,0,0,https://github.com/casoon/opengrid,The contract a data source implements to be served by opengrid-server
+2026-11-10T02:59:06.948452Z,bilingua-scc,0.9.1,0,0,https://github.com/patois-labs/bilingua,"Bilingua: Scenarist Closed Captions (SCC, CEA-608) filter"
+2026-11-10T03:01:41.482151Z,rightkit-dictation-text-pipeline,0.1.0,0,0,https://github.com/bogusyogi/rightkit,"Dictation text pipeline: LLM cleanup (L1-L3) with provider transports and policy, provider keys, runtime settings, screen-context vocabulary and the text polish orchestration."
+2026-11-10T03:01:44.54012Z,tc_asn1_x509,0.1.0,0,0,https://github.com/TomiCheng/tc_asn1,"X.509 and PKIX structures (certificates, CRLs, attribute certificates, extensions) on top of tc_asn1."
+2026-11-10T03:05:49.299828Z,lwd-uri-util,0.1.2,0,0,https://github.com/sapho11/lwd-uri-util,Canonicalize lightwalletd endpoint URIs for Zcash clients
+2026-11-10T03:07:01.996951Z,aylis-accesskit-android,0.9.1,0,0,https://github.com/e-rust/aylis,"Cópia do accesskit_android 0.9.1 (AccessKit, adaptador do Android) com a correção para o Android 9 e anteriores, usada pelo Aylis até a correção sair no original"
+2026-11-10T03:07:02.768094Z,aylis-build,0.1.0,0,0,https://github.com/e-rust/aylis,"Usado no build.rs dos projetos do Aylis: embute forms, temas e assets no executável e o ícone no .exe"
+2026-11-10T03:07:04.371548Z,aylis-core,0.1.0,0,0,https://github.com/e-rust/aylis,"Núcleo do Aylis: componentes, layout, propriedades, temas e interfaces de plataforma"
+2026-11-10T03:07:05.802803Z,aylis-devlink,0.1.0,0,0,https://github.com/e-rust/aylis,O canal de desenvolvimento do Aylis (app <-> IDE): Noise NKpsk0 sobre WebSocket
+2026-11-10T03:07:10.397231Z,aylis-3d,0.1.0,0,0,https://github.com/e-rust/aylis,"3D do Aylis: modelos glTF/GLB com esqueleto, morph targets e animação, desenhados com wgpu e compostos com os controles"
+2026-11-10T03:08:40.936391Z,bilingua-sdlproj,0.9.1,0,0,https://github.com/patois-labs/bilingua,"Bilingua: Trados Studio project files (sdlproj): project facts for a package manifest, byte-faithful merge"
+2026-11-10T03:09:53.356186Z,dn42-ipdb,0.1.0,0,0,https://github.com/bird-chinese-community/DN42-IPDB-SDK,Local GeoIP2-compatible DN42 IP and ASN lookup with verified release updates
+2026-11-10T03:09:59.067666Z,opengrid-connector-sqlite,0.15.0,0,0,https://github.com/casoon/opengrid,"SQLite as a reference connector for opengrid-server: a file, no installation"
+2026-11-10T03:12:30.023889Z,rightkit-library,0.1.1,0,0,https://github.com/bogusyogi/rightkit,"Local artifact library: SQLite-backed history/search index (files stay the source of truth) and a deterministic non-LLM enrichment pass (keywords, links, tags, segmentation)."
+2026-11-10T03:13:35.920601Z,songform,0.1.0,0,0,https://github.com/berryp/StageDisplay,"Songform, the StageDisplay song format (.sfsong): parser, beat timeline and playback engine"
+2026-11-10T03:13:58.318075Z,mhome-plugin-service-api,0.1.0,0,0,https://github.com/mhome-ai/integration,Implementation support for the MeowLink Plugin SDK
+2026-11-10T03:14:01.866769Z,songform-cli,0.0.0,0,0,https://github.com/berryp/StageDisplay,Placeholder reserving the name; part of StageDisplay (not released yet)
+2026-11-10T03:14:03.883441Z,songform-wasm,0.0.0,0,0,https://github.com/berryp/StageDisplay,Placeholder reserving the name; part of StageDisplay (not released yet)
+2026-11-10T03:14:05.986658Z,bandsync,0.0.0,0,0,https://github.com/berryp/StageDisplay,Placeholder reserving the name; part of StageDisplay (not released yet)
+2026-11-10T03:14:08.00691Z,wtsync,0.0.0,0,0,https://github.com/berryp/StageDisplay,Placeholder reserving the name; part of StageDisplay (not released yet)
+2026-11-10T03:14:24.934348Z,halo-harbor-contrib,0.1.1,0,0,https://github.com/halo-space/harbor,"Redis, MySQL, API Scheduler, and distributed middleware implementations for Harbor."
+2026-11-10T03:14:49.268998Z,mhome-plugin-runtime,0.8.0,0,0,https://github.com/mhome-ai/integration,Implementation support for the MeowLink Plugin SDK
+2026-11-10T03:15:09.44852Z,mhome-plugin-sdk,0.3.0,0,0,https://github.com/mhome-ai/integration,MeowLink native extension service SDK
+2026-11-10T03:16:41.523126Z,halo-harbor-worker,0.1.1,0,0,https://github.com/halo-space/harbor,Executable worker for Harbor crawler applications.
+2026-11-10T03:16:48.960816Z,auric-bootstrap-build,0.8.0,0,0,https://gitlab.com/megalithic-llc/auric-spa/auric.git,Codegen for the Bootstrap addon for the Ember-inspired Auric SPA framework
+2026-11-10T03:16:49.513785Z,auric-file-upload-build,0.8.0,0,0,https://gitlab.com/megalithic-llc/auric-spa/auric.git,Codegen for the File Upload addon for the Ember-inspired Auric SPA framework
+2026-11-10T03:16:51.655581Z,auric-bootstrap,0.8.0,0,0,https://gitlab.com/megalithic-llc/auric-spa/auric.git,Bootstrap addon for the Ember-inspired Auric SPA framework
+2026-11-10T03:16:52.224286Z,auric-composable-helpers,0.8.0,0,0,https://gitlab.com/megalithic-llc/auric-spa/auric.git,Composable helpers addon for the Ember-inspired Auric SPA framework
+2026-11-10T03:16:52.797339Z,auric-file-upload,0.8.0,0,0,https://gitlab.com/megalithic-llc/auric-spa/auric.git,File upload addon for the Ember-inspired Auric SPA framework
+2026-11-10T03:17:28.396515Z,aylis-controls-base,0.1.0,0,0,https://github.com/e-rust/aylis,"Os controles básicos do Aylis (forms, botões, edição, listas, menus, sistema...)"
+2026-11-10T03:18:41.540016Z,bilingua-seg,0.9.1,0,0,https://github.com/patois-labs/bilingua,Bilingua: SRX 2.0 sentence segmentation with inline-tag awareness
