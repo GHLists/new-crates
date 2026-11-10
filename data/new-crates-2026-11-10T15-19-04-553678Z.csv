@@ -1,0 +1,47 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-10T14:23:25.451699Z,navree-view,1.0.0,0,0,https://github.com/NavreeHQ/navree,Navree ViewModule: templates for mail and other text rendering.
+2026-11-10T14:27:18.416447Z,agent-eye,0.1.0,0,0,https://github.com/maxipavlovic/agent-eye,"Find, sort and resume your coding-agent sessions: local index, terminal picker and board"
+2026-11-10T14:27:46.784367Z,byob-server,0.1.0,0,0,https://github.com/Scronkfinkle/byob,"Serves the web UI and bridges WebSocket clients to the engine. Thread-per-connection, no async runtime (L4)"
+2026-11-10T14:29:12.771282Z,harioto,0.1.0,0,0,https://github.com/Ayajiro/harioto,"A terminal radio in Rust: seed it one song, it keeps playing"
+2026-11-10T14:29:46.646007Z,tpt-protocol-mavlink,0.1.0,0,0,https://github.com/tpt-solutions/tpt-protocol,MAVLink protocol crate that wraps the mavlink crate for frame decoding
+2026-11-10T14:33:27.821515Z,navree-api,1.0.0,0,0,https://github.com/NavreeHQ/navree,"Navree ApiModule: OpenAPI 3.1 generation from route metadata, docs UI and API resource helpers."
+2026-11-10T14:33:51.473545Z,tideorm-sql-builder-derive,0.1.0,0,0,https://github.com/rust-ocean/tideorm-sql-builder,The Iden and IdenStatic derives of TideORM's SQL builder
+2026-11-10T14:34:01.654039Z,tideorm-sql-builder,0.1.0,0,0,https://github.com/rust-ocean/tideorm-sql-builder,SQL builder for TideORM
+2026-11-10T14:36:08.075491Z,tideorm-driver-core,0.1.0,0,0,https://github.com/rust-ocean/tideorm-driver,"Connection, pool and type foundations of TideORM's database drivers"
+2026-11-10T14:36:22.261982Z,tideorm-driver-postgres,0.1.0,0,0,https://github.com/rust-ocean/tideorm-driver,PostgreSQL driver for TideORM
+2026-11-10T14:36:31.496321Z,tideorm-driver-mysql,0.1.0,0,0,https://github.com/rust-ocean/tideorm-driver,MySQL and MariaDB driver for TideORM
+2026-11-10T14:37:13.324503Z,tideorm-driver-sqlite,0.1.0,0,0,https://github.com/rust-ocean/tideorm-driver,"SQLite driver for TideORM, with a bundled SQLite"
+2026-11-10T14:37:31.136828Z,kwangss_add_one,0.1.0,0,0,,add_one
+2026-11-10T14:37:42.84516Z,kwangss_adder,0.1.0,0,0,,test
+2026-11-10T14:37:47.948761Z,byob-ui-egui,0.1.0,0,0,https://github.com/Scronkfinkle/byob,egui frontend. Talks to the engine only via byob-protocol; must compile to wasm32 (L4)
+2026-11-10T14:39:49.502631Z,starlist-core,1.0.0,0,0,https://github.com/p-lau/starlist,"Log parsing, pattern clustering, redaction and code locations shared by the starlist binaries."
+2026-11-10T14:40:38.36015Z,starlist,1.0.0,0,0,https://github.com/p-lau/starlist,"Watches your app's logs and serves distilled, redacted summaries to AI agents over MCP."
+2026-11-10T14:40:56.436142Z,tpt-protocol-bacnet,0.1.0,0,0,https://github.com/tpt-solutions/tpt-protocol,BACnet building automation protocol parser
+2026-11-10T14:43:29.902169Z,navree-cli,1.0.0,0,0,https://github.com/NavreeHQ/navree,"The navree command-line tool: new, make:*, dev, dock, Harbor's deploy commands, and forwarding of runtime commands."
+2026-11-10T14:47:36.960108Z,tideorm-driver,0.1.0,0,0,https://github.com/rust-ocean/tideorm-driver,Database drivers for TideORM
+2026-11-10T14:47:47.685446Z,byob,0.1.0,0,0,https://github.com/Scronkfinkle/byob,byob (bring your own brain): a native desktop AI coworker for any OpenAI-compatible endpoint
+2026-11-10T14:52:07.258832Z,tpt-protocol-opcua,0.1.0,0,0,https://github.com/tpt-solutions/tpt-protocol,OPC UA Industry 4.0 protocol parser
+2026-11-10T14:52:12.628923Z,tpt-protocol-dnp3,0.1.0,0,0,https://github.com/tpt-solutions/tpt-protocol,DNP3 electrical grid SCADA protocol parser
+2026-11-10T14:53:30.705563Z,navree-db,1.0.0,0,0,https://github.com/NavreeHQ/navree,"Navree DatabaseModule: its own data layer on SQLx for PostgreSQL/TimescaleDB, MySQL/MariaDB and SQLite, with migrations, seeders and pagination."
+2026-11-10T14:56:58.214523Z,invisi-sdk-primitives,1.2.0,0,0,https://github.com/invisi-lab/invisi-sdk-rust,"Pure field, key, commitment, wallet and delivery primitives"
+2026-11-10T14:57:28.686341Z,invisi-sdk-protocol,1.2.0,0,0,https://github.com/invisi-lab/invisi-sdk-rust,Invisi SDK protocol capabilities
+2026-11-10T14:57:32.324257Z,tideorm-engine,0.1.0,0,0,https://github.com/rust-ocean/tideorm-engine,Internal execution engine for TideORM
+2026-11-10T14:57:38.088241Z,invisi-sdk-prover,1.2.0,0,0,https://github.com/invisi-lab/invisi-sdk-rust,Invisi SDK prover capabilities
+2026-11-10T14:58:17.422534Z,dreamkernel,0.2.0,0,0,https://github.com/Nichtigott/dreamkernel,"Declarative topology/link layer for brain-like models: area shapes, projection maps, construction-time validation"
+2026-11-10T14:58:41.809144Z,invisi-sdk-rpc,1.2.0,0,0,https://github.com/invisi-lab/invisi-sdk-rust,Invisi SDK rpc capabilities
+2026-11-10T14:58:52.889592Z,invisi-sdk,1.2.0,0,0,https://github.com/invisi-lab/invisi-sdk-rust,Stateless Note and Credit orchestration for the InvisiPay privacy payment protocol
+2026-11-10T15:01:25.95179Z,tungsten-core,0.2.1,0,0,https://github.com/Tungsten-dev/tungsten-wg,"Core IR for tungsten density functions, written for verification with Verus."
+2026-11-10T15:01:35.067873Z,tungsten-parse,0.2.1,0,0,https://github.com/Tungsten-dev/tungsten-wg,"Text format, parser, elaborator and canonical printer for tungsten programs."
+2026-11-10T15:01:37.336533Z,tungsten-check,0.2.1,0,0,https://github.com/Tungsten-dev/tungsten-wg,"Lowers tungsten-ir programs to the tungsten-core IR, with a name registry."
+2026-11-10T15:01:52.699277Z,rustify-colors,0.3.0,0,0,https://github.com/rockie/rustify-ui,Typed Radix color scales and independently consumable scoped CSS assets
+2026-11-10T15:02:56.777173Z,reallyme-etsi-eaa-conformance,0.6.1,0,0,https://github.com/reallyme/ssi,Typed ETSI TS 119 472 and EUDI PID conformance policy for ReallyMe SSI.
+2026-11-10T15:03:21.847051Z,tpt-protocol-ethercat,0.1.0,0,0,https://github.com/tpt-solutions/tpt-protocol,From-scratch EtherCAT implementation (alternative to the ethercrab crate)
+2026-11-10T15:03:28.469818Z,navree-observe,1.0.0,0,0,https://github.com/NavreeHQ/navree,"Navree ObserveModule: health checks, readiness aggregation and Prometheus metrics."
+2026-11-10T15:07:46.182339Z,neocogi-ui-contracts,0.2.0-alpha.2,0,0,https://github.com/NeoCogi/neocogi-ui,"Canonical NeoCogi UI, graphics, appearance and authoring contracts with typed clients and build support"
+2026-11-10T15:08:26.724108Z,mouser-views,0.1.0,0,0,https://github.com/WeirdBrains/mouser,"Views for Mouser mode plugins: list / grid / carousel layout, carousel slide, image zoom and fit, scrollbars and labels, on mouser-mode-api panels"
+2026-11-10T15:08:49.920591Z,neocogi-ui-dylib,0.2.0-alpha.2,0,0,https://github.com/NeoCogi/neocogi-ui,Thin final COM shared-library entrypoint for the NeoCogi UI implementation
+2026-11-10T15:08:52.091033Z,mouser-media,0.1.0,0,0,https://github.com/WeirdBrains/mouser,"Media for Mouser mode plugins: the ffmpeg + cpal player, audio output, inline players with fullscreen and the open/close ease, shared by the commander and chat plugins"
+2026-11-10T15:11:42.752664Z,iec60870-rs,0.1.0,0,0,https://github.com/hupe1980/iec60870-rs,Placeholder for an IEC 60870 protocol implementation in Rust
+2026-11-10T15:13:29.55354Z,navree-storage,1.0.0,0,0,https://github.com/NavreeHQ/navree,"Navree StorageModule: named disks (local, memory, S3, Google Cloud Storage, Azure), streaming, signed and presigned URLs, upload checks and disk sync."
+2026-11-10T15:14:33.587819Z,tpt-protocol-sparkplugb,0.1.0,0,0,https://github.com/tpt-solutions/tpt-protocol,Sparkplug B MQTT-based IIoT protocol parser
+2026-11-10T15:18:47.755549Z,zmime,0.1.0,0,0,https://github.com/LIghtJUNction/zmime,"Zero-dependency, zero-allocation, no_std MIME message parsing with lazy decoding"
