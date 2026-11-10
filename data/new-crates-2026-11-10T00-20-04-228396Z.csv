@@ -1,0 +1,50 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-09T23:18:42.493911Z,bilingua-htmlcore,0.9.1,0,0,https://github.com/patois-labs/bilingua,Bilingua: the HTML scanner shared by the HTML and server-page filters (a port of the Localization OS HTML filter and its browser guard)
+2026-11-09T23:21:08.194116Z,wasmcop-job,0.1.0,0,0,https://github.com/jedisct1/wasmcop,The job and report formats shared by the wasmcop constant-time checker and its runner
+2026-11-09T23:21:10.645177Z,wasmcop-runner,0.1.0,0,0,https://github.com/jedisct1/wasmcop,The program the wasmcop constant-time checker runs under Valgrind to execute WebAssembly modules with secrets marked
+2026-11-09T23:21:11.389718Z,wasmcop-spec,0.1.0,0,0,https://github.com/jedisct1/wasmcop,The call syntax and TOML test files of the wasmcop constant-time checker
+2026-11-09T23:21:12.795155Z,wasmcop,0.1.0,0,0,https://github.com/jedisct1/wasmcop,Checks whether the native code generated for a WebAssembly module handles secrets in constant time
+2026-11-09T23:22:08.911095Z,neocogi-platform-contracts,0.2.0-alpha.1,0,0,https://github.com/NeoCogi/neocogi-platform,"NeoCogi renderer/platform contracts, shared types, limits, validation and build support"
+2026-11-09T23:22:19.65614Z,noms-core,0.1.1,0,0,https://github.com/allypost-org/noms,Send notifications through reusable email and Telegram destinations
+2026-11-09T23:22:21.762054Z,fsexp,0.1.0,0,0,https://github.com/Ella-Hoeppner/fsexp,A configurable parser for Lisp-like languages
+2026-11-09T23:22:32.988977Z,neocogi-platform,0.2.0-alpha.1,0,0,https://github.com/NeoCogi/neocogi-platform,"NeoCogi platform contracts, graphics, shader compiler and optional native/browser providers"
+2026-11-09T23:22:59.333337Z,neocogi-platform-dylib,0.2.0-alpha.1,0,0,https://github.com/NeoCogi/neocogi-platform,Thin final COM shared-library entrypoints for NeoCogi Platform
+2026-11-09T23:23:32.916973Z,texo,0.1.0,0,0,https://github.com/hexaquarks/texo,A terminal workspace for LaTeX resumes with PDF preview and AI assistance
+2026-11-09T23:25:01.83633Z,rightkit-agent-engine-core,0.1.0,0,0,https://github.com/bogusyogi/rightkit,"Agent engine core: the agent turn loop, tool dispatch, permission and approval flow, compaction, goals, guardian and worker agents"
+2026-11-09T23:25:10.665488Z,rightkit-agent-skills,0.1.0,0,0,https://github.com/bogusyogi/rightkit,"Agent skills and slash-command grammar: skill discovery, manifests, the shared command table and interactive effects"
+2026-11-09T23:25:18.671446Z,rightkit-catalog,0.1.0,0,0,https://github.com/bogusyogi/rightkit,"One localisation catalog source (a folder of JSON string catalogs, English as the reference) generated to TypeScript, Rust and Swift tables, with a completeness check: missing keys, extra keys, empty…"
+2026-11-09T23:25:26.854999Z,rightkit-contrast,0.1.0,0,0,https://github.com/bogusyogi/rightkit,"Colour contrast owner: WCAG relative luminance, contrast ratio and readable ink on a background for sRGB colours, std only."
+2026-11-09T23:25:34.7396Z,rightkit-decimal,0.1.0,0,0,https://github.com/bogusyogi/rightkit,"Exact decimal owner: parse a decimal string, canonical form, total ordering and lt/le/eq/ge/gt comparison with no floats, bounded input, std only."
+2026-11-09T23:27:05.68233Z,structured_goto,0.1.1,0,0,https://git.gay/Zepalesque/structured_goto,"A crate for safe, explicit state-machine-esque control flow."
+2026-11-09T23:28:41.805984Z,bilingua-htmlhelp,0.9.1,0,0,https://github.com/patois-labs/bilingua,"Bilingua: HTML Help (hhc, hhk, hhp) filters"
+2026-11-09T23:29:27.441055Z,cargo-schemata,0.1.0,0,0,https://github.com/t09tanaka/cargo-schemata,"Mutation testing for Rust that builds mutants once, as schemata."
+2026-11-09T23:31:22.316637Z,picqer-rs,0.1.0,0,0,https://github.com/robmeijerink/picqer-rs,Unofficial async client for the Picqer API
+2026-11-09T23:36:00.335729Z,rightkit-desktop-tweaks,0.1.0,0,0,https://github.com/bogusyogi/rightkit,"Desktop tweaks: the Windows global keyboard layer with Mac-style editing shortcuts, screenshot hot keys, hook hub and key injection."
+2026-11-09T23:36:14.12601Z,rightkit-device-link,0.1.0,0,0,https://github.com/bogusyogi/rightkit,"Reliable ordered message delivery between linked devices over a relay: sequence numbers, cumulative ACK on handler accept, bounded fragments and buffers, replay after reconnect, skip markers, version…"
+2026-11-09T23:37:16.777396Z,sentra-core,0.1.0,0,0,https://github.com/Taiizor/Sentra,"Core security analysis, taint tracking, advisory auditing, and verification engine for Sentra"
+2026-11-09T23:38:07.182789Z,sentra-cli,0.1.0,0,0,https://github.com/Taiizor/Sentra,Command-line interface for the Sentra autonomous security research and verified remediation platform
+2026-11-09T23:38:19.9113Z,sentra,0.1.0,0,0,https://github.com/Taiizor/Sentra,"Autonomous security research, taint analysis, and independently verified remediation platform"
+2026-11-09T23:38:41.414831Z,bilingua-icml,0.9.1,0,0,https://github.com/patois-labs/bilingua,"Bilingua: Adobe InCopy ICML and WoodWing WCML story files, parser and byte-faithful writer"
+2026-11-09T23:38:55.406179Z,umi-pdm-messages,0.1.0,0,0,https://github.com/umi-eng/pdm,CAN message definitions for UMI power distribution modules
+2026-11-09T23:39:14.372724Z,mclog,0.1.0,0,0,https://github.com/caukub/mclog,Minecraft log parser and analyzer
+2026-11-09T23:44:12.62523Z,mizeria,0.2.1,0,0,https://github.com/samhdev/mizeria,Prototype cucumber-style BDD runner for Rust
+2026-11-09T23:46:05.505565Z,fritzrecon,0.1.5,0,0,https://github.com/zx97/fritzrecon,FRITZ!Box / Pi-hole DNS reconciliation with selective device-memory cleanup
+2026-11-09T23:46:08.393637Z,rainmill-pdf,0.1.0,0,0,https://github.com/rainmill/pdf-plugin,"PDF documents for Laterite with Typst: markdown or Typst templates, letterhead layouts, a live preview, QR codes and barcodes, PDF/A and password protection"
+2026-11-09T23:46:39.601018Z,rightkit-feed,0.1.0,0,0,https://github.com/bogusyogi/rightkit,"RSS 2.0, RSS 1.0 and Atom feed parser: tolerant, bounded, DOCTYPE skipped, only the five predefined and numeric entities, guid/link/title/date/summary extraction."
+2026-11-09T23:48:06.096674Z,rainmill-legal,0.1.0,0,0,https://github.com/rainmill/legal-plugin,"Versioned legal documents for Laterite: drafts with undo, published versions with archival PDFs, public history and diffs, acceptances and change notices"
+2026-11-09T23:48:40.954277Z,bilingua-image,0.9.1,0,0,https://github.com/patois-labs/bilingua,Bilingua: SVG text and the text layer of raster images (the PNG region sidecar of Localization OS)
+2026-11-09T23:54:33.053621Z,umi-pdm,0.1.0,0,0,https://github.com/umi-eng/pdm,Rust library for interfacing with UMI power distribution modules
+2026-11-09T23:56:11.818038Z,umi-pdm-tool,0.1.0,0,0,https://github.com/umi-eng/pdm,UMI PDM command line tool
+2026-11-09T23:57:12.140691Z,rightkit-gpu,0.1.0,0,0,https://github.com/bogusyogi/rightkit,"Shared wgpu device context for Right Suite apps: per-OS backend policy, a crash sentinel around device creation, adapter pick and limits, an exit gate for in-flight GPU work, and a device-memory budg…"
+2026-11-09T23:58:41.394251Z,bilingua-ini,0.9.1,0,0,https://github.com/patois-labs/bilingua,Bilingua: INI and Joomla language file filter
+2026-11-10T00:06:23.499954Z,http-kit-io,0.0.0,0,0,https://github.com/zen-rs/http-kit,Part of http-kit.
+2026-11-10T00:06:25.71939Z,http-kit-h1,0.0.0,0,0,https://github.com/zen-rs/http-kit,Part of http-kit.
+2026-11-10T00:06:27.920255Z,http-kit-h3,0.0.0,0,0,https://github.com/zen-rs/http-kit,Part of http-kit.
+2026-11-10T00:07:35.346912Z,rightkit-i18n,0.1.0,0,0,https://github.com/bogusyogi/rightkit,"Rust runtime for the shared @rightkit/i18n catalogs: locale tag resolution, catalog merge over English, and dotted-key lookup with fallback."
+2026-11-10T00:07:42.617895Z,xark-wasm,0.3.0,0,0,https://github.com/blueshift-gg/xark,WebAssembly bindings for generating xark Groth16 (BN254) proofs in the browser / Node.
+2026-11-10T00:08:41.399697Z,bilingua-jsmodule,0.9.1,0,0,https://github.com/patois-labs/bilingua,"Bilingua: JavaScript and TypeScript locale module filter (js, cjs, mjs, ts, mts, cts)"
+2026-11-10T00:13:30.509431Z,geodesia,0.0.1,0,0,,Placeholder for a Rust-native coordinate reference system and coordinate operation engine. Not yet released.
+2026-11-10T00:14:32.529999Z,lagom,0.1.0,0,0,https://github.com/yuraware/lagom,"Lightweight token saver for coding agents: output styles, command-output compression and skills for Claude Code, Codex and Cursor."
+2026-11-10T00:15:21.703619Z,geodesia-epsg,0.0.1,0,0,,Placeholder for the EPSG dataset companion to geodesia. Not yet released; contains no data.
+2026-11-10T00:18:08.992308Z,rightkit-now-playing,0.1.0,0,0,https://github.com/bogusyogi/rightkit,"Now-playing and media-keys owner: publishes playback state and receives media-key and transport commands (SMTC on Windows, Now Playing on macOS, MPRIS on Linux) for native playback."
+2026-11-10T00:18:40.86841Z,bilingua-json,0.9.1,0,0,https://github.com/patois-labs/bilingua,"Bilingua: JSON filter (string values as units, byte-for-byte skeleton)"
