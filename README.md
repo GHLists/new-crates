@@ -8,59 +8,64 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-10 13:21 UTC
+## Latest list — 2026-11-10 14:21 UTC
 
-New crates published between 2026-11-10 12:19 UTC and 2026-11-10 13:21 UTC.
+New crates published between 2026-11-10 13:21 UTC and 2026-11-10 14:21 UTC.
 
-[Full CSV](data/new-crates-2026-11-10T13-21-53-120937Z.csv)
+[Full CSV](data/new-crates-2026-11-10T14-21-52-593369Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-10 12:23:22 | [navree-telemetry](https://crates.io/crates/navree-telemetry) | 1.0.0 | 0 | Navree telemetry: typed events (requests, queries, jobs, mail and more) deliver… |
-| 2026-11-10 12:27:07 | [tdx-testkit](https://crates.io/crates/tdx-testkit) | 0.5.1 | 0 | Test fixtures for tauri-delta-updater integrators: a mock update server with Ra… |
-| 2026-11-10 12:31:43 | [halo-harbor-facade](https://crates.io/crates/halo-harbor-facade) | 0.2.4 | 0 | Public Harbor facade for the core runtime, contrib extensions, and Worker. |
-| 2026-11-10 12:33:24 | [navree-events](https://crates.io/crates/navree-events) | 1.0.0 | 0 | Navree EventsModule: typed event bus with sync and queued listeners. |
-| 2026-11-10 12:37:27 | [ct-uint](https://crates.io/crates/ct-uint) | 0.0.1 | 0 | Constant-time fixed-width big integers and limb arithmetic for secret-data cryp… |
-| 2026-11-10 12:38:02 | [biscuit-ssh-core](https://crates.io/crates/biscuit-ssh-core) | 0.3.0 | 0 | Token vocabulary, verifier, and revocation lists of biscuit-ssh, SSH access thr… |
-| 2026-11-10 12:38:08 | [biscuit-ssh-ca](https://crates.io/crates/biscuit-ssh-ca) | 0.3.0 | 0 | OpenSSH certificate authority of biscuit-ssh, which signs short-lived certifica… |
-| 2026-11-10 12:38:13 | [biscuit-ssh-service](https://crates.io/crates/biscuit-ssh-service) | 0.3.0 | 0 | Plumbing shared by the biscuit-ssh services: revocation lists, logging, shutdow… |
-| 2026-11-10 12:38:20 | [biscuit-ssh-bastion](https://crates.io/crates/biscuit-ssh-bastion) | 0.3.0 | 0 | SSH bastion that checks Biscuit tokens and relays sessions to servers and Docke… |
-| 2026-11-10 12:38:25 | [biscuit-ssh](https://crates.io/crates/biscuit-ssh) | 0.3.0 | 0 | Client of biscuit-ssh: connects through the bastion with a Biscuit token, restr… |
-| 2026-11-10 12:39:20 | [firmos](https://crates.io/crates/firmos) | 0.0.1 | 0 | firmos: an open-source operating system for a company. Early work in progress;… |
-| 2026-11-10 12:40:54 | [steem-core](https://crates.io/crates/steem-core) | 0.1.1 | 0 | Core Steem protocol types, wire codec, cryptography, transaction signing and me… |
-| 2026-11-10 12:41:11 | [steem-rpc](https://crates.io/crates/steem-rpc) | 0.1.1 | 0 | JSON-RPC client for Steem nodes |
-| 2026-11-10 12:41:33 | [steem](https://crates.io/crates/steem) | 0.1.1 | 0 | Umbrella crate for the Rust Steem SDK |
-| 2026-11-10 12:41:48 | [proxy-links-exporter](https://crates.io/crates/proxy-links-exporter) | 0.1.0 | 0 | Export proxy links from xray-core and sing-box configurations |
-| 2026-11-10 12:43:25 | [navree-macros](https://crates.io/crates/navree-macros) | 1.0.0 | 0 | Navree's attribute and derive macros: #[module], #[injectable], #[controller],… |
-| 2026-11-10 12:43:59 | [eulumdat-scene](https://crates.io/crates/eulumdat-scene) | 0.8.0 | 0 | Light scene for the path-traced luminaire viewer: parametric scenes, camera, ca… |
-| 2026-11-10 12:44:02 | [eulumdat-tm25](https://crates.io/crates/eulumdat-tm25) | 0.8.0 | 0 | Bridge between tm25ray (IES TM-25 ray files) and eulumdat: far field → EULUMDAT… |
-| 2026-11-10 12:45:42 | [hello-crate](https://crates.io/crates/hello-crate) | 0.1.0 | 0 | Small Rust helpers for greetings and basic text statistics. |
-| 2026-11-10 12:47:05 | [biscuit-sandbox](https://crates.io/crates/biscuit-sandbox) | 0.1.0 | 0 | REST service creating short-lived sandbox containers, reachable through the bis… |
-| 2026-11-10 12:53:26 | [navree-config](https://crates.io/crates/navree-config) | 1.0.0 | 0 | Navree ConfigModule: typed configuration from .env, TOML and JSON files and APP… |
-| 2026-11-10 12:53:50 | [foundation_cloudflare_apps](https://crates.io/crates/foundation_cloudflare_apps) | 0.1.1 | 0 | Generated Cloudflare API client: apps group |
-| 2026-11-10 12:53:56 | [foundation_cloudflare_billing](https://crates.io/crates/foundation_cloudflare_billing) | 0.1.1 | 0 | Generated Cloudflare API client: billing group |
-| 2026-11-10 12:54:01 | [foundation_cloudflare_cache](https://crates.io/crates/foundation_cloudflare_cache) | 0.1.1 | 0 | Generated Cloudflare API client: cache group |
-| 2026-11-10 12:54:05 | [foundation_cloudflare_certificates](https://crates.io/crates/foundation_cloudflare_certificates) | 0.1.1 | 0 | Generated Cloudflare API client: certificates group |
-| 2026-11-10 12:54:12 | [foundation_cloudflare_data](https://crates.io/crates/foundation_cloudflare_data) | 0.1.1 | 0 | Generated Cloudflare API client: data group |
-| 2026-11-10 12:56:46 | [gql-rs](https://crates.io/crates/gql-rs) | 0.0.1-ga | 0 | GQL parser, typed AST builder, and semantic validator |
-| 2026-11-10 12:57:06 | [biscuit-ssh-issuer](https://crates.io/crates/biscuit-ssh-issuer) | 0.3.0 | 0 | HTTP service that exchanges Biscuit tokens for short-lived OpenSSH certificates |
-| 2026-11-10 12:57:23 | [rudof_rdf_sink](https://crates.io/crates/rudof_rdf_sink) | 0.3.39 | 0 | RDF and Knowledge Graphs processing tool |
-| 2026-11-10 12:59:50 | [cargo-autoprune](https://crates.io/crates/cargo-autoprune) | 0.1.0 | 0 | rustc-wrapper that keeps Cargo target/ dirs from growing: prunes superseded art… |
-| 2026-11-10 13:01:27 | [xdevcmd-core](https://crates.io/crates/xdevcmd-core) | 0.3.0 | 0 | xdevcmd's engine: listing, file operations, archives, find, compare. No termina… |
-| 2026-11-10 13:01:30 | [xdevcmd](https://crates.io/crates/xdevcmd) | 0.3.0 | 0 | xDev Commander: a cross-platform, two-pane terminal file manager that extends y… |
-| 2026-11-10 13:03:22 | [navree-openapi](https://crates.io/crates/navree-openapi) | 1.0.0 | 0 | Navree's OpenAPI 3.1 document model and the ToSchema trait and derive that desc… |
-| 2026-11-10 13:06:05 | [mfd](https://crates.io/crates/mfd) | 0.3.0 | 0 | A friendly, fd-style command line front end for macOS Spotlight (native MDQuery) |
-| 2026-11-10 13:07:49 | [byob-artifact-wire](https://crates.io/crates/byob-artifact-wire) | 0.1.0 | 0 | Wire protocol between byob and the byob-artifact-host helper process (L1, no de… |
-| 2026-11-10 13:07:49 | [byob-mcp](https://crates.io/crates/byob-mcp) | 0.1.0 | 0 | Blocking MCP client: stdio and streamable HTTP transports, tools/list and tools… |
-| 2026-11-10 13:07:49 | [byob-sandbox](https://crates.io/crates/byob-sandbox) | 0.1.0 | 0 | Run untrusted commands confined: Landlock + namespaces on Linux, sandbox-exec o… |
-| 2026-11-10 13:07:50 | [byob-types](https://crates.io/crates/byob-types) | 0.1.0 | 0 | Shared serde types: messages, steps, attachments, settings (L0) |
-| 2026-11-10 13:07:50 | [byob-web-assets](https://crates.io/crates/byob-web-assets) | 0.1.0 | 0 | byob's browser UI (the wasm build of byob-web), embedded so `byob --serve` work… |
-| 2026-11-10 13:11:28 | [atomfetch](https://crates.io/crates/atomfetch) | 0.1.1 | 0 | a tiny fastfetch clone with a few tricks up its sleeve. |
-| 2026-11-10 13:11:56 | [guictl](https://crates.io/crates/guictl) | 0.4.0 | 0 | Control a desktop GUI from the command line, for AI agents. |
-| 2026-11-10 13:13:25 | [navree-cache](https://crates.io/crates/navree-cache) | 1.0.0 | 0 | Navree CacheModule: cache stores (a bounded memory store), remember, tags, stal… |
-| 2026-11-10 13:17:46 | [byob-llm](https://crates.io/crates/byob-llm) | 0.1.0 | 0 | OpenAI-compatible inference client targeting a user-supplied URL (L1) |
-| 2026-11-10 13:18:10 | [pm-sysd-w](https://crates.io/crates/pm-sysd-w) | 0.1.0-a1 | 0 | 胖喵稳哒: Systemd style on Windows. |
-| 2026-11-10 13:19:50 | [jfrog-curation-malicious-dummy](https://crates.io/crates/jfrog-curation-malicious-dummy) | 1.0.0 | 0 | Non-malicious inert Rust crate used to test JFrog package curation workflows. I… |
+| 2026-11-10 13:23:22 | [kalku-rust](https://crates.io/crates/kalku-rust) | 0.33.0 | 0 | The Rust kalku: finds the places where a defect can be cast in a Rust project,… |
+| 2026-11-10 13:23:22 | [navree-crypto](https://crates.io/crates/navree-crypto) | 1.0.0 | 0 | Navree CryptoModule: AES-256-GCM encryption with key rotation, Argon2id hashing… |
+| 2026-11-10 13:24:40 | [petit-paint](https://crates.io/crates/petit-paint) | 0.2.0 | 0 | A small paint app written in Rust with GPUI |
+| 2026-11-10 13:27:45 | [byob-protocol](https://crates.io/crates/byob-protocol) | 0.1.0 | 0 | Client <-> engine messages shared by the desktop UI, web UI and server. Must co… |
+| 2026-11-10 13:31:58 | [maccleanup](https://crates.io/crates/maccleanup) | 0.10.0 | 0 | A colorful terminal app for macOS that shows where your disk space went and cle… |
+| 2026-11-10 13:31:58 | [zconv](https://crates.io/crates/zconv) | 0.1.1 | 0 | Zero-dependency, allocation-free AI protocol conversion |
+| 2026-11-10 13:32:09 | [tpt-protocol-tup](https://crates.io/crates/tpt-protocol-tup) | 0.1.0 | 0 | TPT Unified Protocol — canonical normalized schema with CBOR binary encoding an… |
+| 2026-11-10 13:32:24 | [tpt-protocol-core](https://crates.io/crates/tpt-protocol-core) | 0.1.0 | 0 | Core traits for TPT Protocol: FrameParser, StateValidator, DataNormalizer |
+| 2026-11-10 13:32:44 | [tpt-protocol-modbus](https://crates.io/crates/tpt-protocol-modbus) | 0.1.0 | 0 | Modbus RTU/TCP implementation, no_std (tokio-modbus requires std + tokio) |
+| 2026-11-10 13:32:50 | [tpt-protocol-j1939](https://crates.io/crates/tpt-protocol-j1939) | 0.1.0 | 0 | SAE J1939 heavy-duty vehicle protocol parser |
+| 2026-11-10 13:32:55 | [tpt-protocol-isobus](https://crates.io/crates/tpt-protocol-isobus) | 0.1.0 | 0 | ISO 11783 (ISOBUS) agricultural protocol parser |
+| 2026-11-10 13:33:28 | [navree-http](https://crates.io/crates/navree-http) | 1.0.0 | 0 | Navree HttpModule: Navree's router and extractors, default Tower layers, JSON e… |
+| 2026-11-10 13:36:00 | [rusto-nn](https://crates.io/crates/rusto-nn) | 0.4.0 | 0 | Lightweight, zero-bloat, 100% pure Rust inference engine for Alibaba MNN models |
+| 2026-11-10 13:36:16 | [rusto-core](https://crates.io/crates/rusto-core) | 0.4.0 | 0 | Core pure-Rust computer vision algorithms, postprocessing, and types for RustO! |
+| 2026-11-10 13:36:30 | [rusto-cpp](https://crates.io/crates/rusto-cpp) | 0.4.0 | 0 | Native C++ and OpenCV accelerated computer vision backends for RustO! |
+| 2026-11-10 13:36:46 | [rusto-rten](https://crates.io/crates/rusto-rten) | 0.4.0 | 0 | Pluggable RTen inference engine backend for RustO! |
+| 2026-11-10 13:37:13 | [rusto-nn-webgpu](https://crates.io/crates/rusto-nn-webgpu) | 0.4.0 | 0 | Pluggable WebGPU hardware acceleration backend for rusto-nn |
+| 2026-11-10 13:37:46 | [byob-tools](https://crates.io/crates/byob-tools) | 0.1.0 | 0 | Agent tools: filesystem, web fetch, charts, python (L2) |
+| 2026-11-10 13:43:23 | [navree-http-client](https://crates.io/crates/navree-http-client) | 1.0.0 | 0 | Navree HttpClientModule: outgoing HTTP with retries, timeouts, SSRF policy and… |
+| 2026-11-10 13:44:42 | [tpt-protocol-uds](https://crates.io/crates/tpt-protocol-uds) | 0.1.0 | 0 | ISO 14229 (UDS) diagnostic services implementation (no existing crate for this… |
+| 2026-11-10 13:47:46 | [byob-plugins](https://crates.io/crates/byob-plugins) | 0.1.0 | 0 | Plugins: hob-compatible manifests, Agent Skills (SKILL.md), MCP connectors, ada… |
+| 2026-11-10 13:53:24 | [navree-log](https://crates.io/crates/navree-log) | 1.0.0 | 0 | Navree LoggerModule: tracing subscriber, JSON or pretty output, redaction, rota… |
+| 2026-11-10 13:55:53 | [tpt-protocol-canopen](https://crates.io/crates/tpt-protocol-canopen) | 0.1.0 | 0 | CANopen implementation, no_std (canopen crate requires std + Linux socketcan) |
+| 2026-11-10 13:56:55 | [eventful-ratatui-macros](https://crates.io/crates/eventful-ratatui-macros) | 0.1.0 | 0 | Procedural macros for eventful-ratatui |
+| 2026-11-10 13:56:58 | [eventful-ratatui](https://crates.io/crates/eventful-ratatui) | 0.1.0 | 0 | Ratatui applications on eventful-rs: components, focus, key bindings and a redr… |
+| 2026-11-10 13:57:45 | [byob-store](https://crates.io/crates/byob-store) | 0.1.0 | 0 | Pluggable chat storage (SQLite or a plain-files folder) for chats, messages, to… |
+| 2026-11-10 14:01:28 | [rtemis](https://crates.io/crates/rtemis) | 0.1.0 | 0 | Machine learning metrics: ROC AUC and average precision for binary and multicla… |
+| 2026-11-10 14:01:53 | [rumblepad](https://crates.io/crates/rumblepad) | 0.1.0 | 0 | Switch-protocol and 8BitDo gamepads over HID: input state and HD rumble |
+| 2026-11-10 14:03:30 | [navree-navigator](https://crates.io/crates/navree-navigator) | 1.0.0 | 0 | Navree Navigator: the MCP server for coding agents, with the app's routes, sche… |
+| 2026-11-10 14:06:08 | [rialo-authority-name](https://crates.io/crates/rialo-authority-name) | 0.24.0 | 0 | The name of a Rialo authority: opaque, variable-length bytes |
+| 2026-11-10 14:06:15 | [rialo-ed25519](https://crates.io/crates/rialo-ed25519) | 0.24.0 | 0 | The first-party seam for Ed25519 over the vendored ed25519-consensus |
+| 2026-11-10 14:06:19 | [rialo-epoch-records-interface](https://crates.io/crates/rialo-epoch-records-interface) | 0.24.0 | 0 | Contract for the committed handover records an executing block can read |
+| 2026-11-10 14:06:34 | [rialo-risc-v-program-admission](https://crates.io/crates/rialo-risc-v-program-admission) | 0.24.0 | 0 | Admission checks for RISC-V (PolkaVM) program blobs |
+| 2026-11-10 14:07:08 | [tpt-protocol-doip-someip](https://crates.io/crates/tpt-protocol-doip-someip) | 0.1.0 | 0 | DoIP / SOME/IP automotive Ethernet protocol parser |
+| 2026-11-10 14:07:38 | [rialo-versioned-format](https://crates.io/crates/rialo-versioned-format) | 0.24.0 | 0 | Version identifier, strict codecs and test support for every on-chain format. |
+| 2026-11-10 14:07:47 | [byob-agent](https://crates.io/crates/byob-agent) | 0.1.0 | 0 | Headless agent engine: turn loop, tool calling, permissions, undo (L3) |
+| 2026-11-10 14:09:25 | [foundation_cloudflare_devices](https://crates.io/crates/foundation_cloudflare_devices) | 0.1.1 | 0 | Generated Cloudflare API client: devices group |
+| 2026-11-10 14:09:31 | [foundation_cloudflare_dns](https://crates.io/crates/foundation_cloudflare_dns) | 0.1.1 | 0 | Generated Cloudflare API client: dns group |
+| 2026-11-10 14:09:38 | [foundation_cloudflare_domains](https://crates.io/crates/foundation_cloudflare_domains) | 0.1.1 | 0 | Generated Cloudflare API client: domains group |
+| 2026-11-10 14:09:45 | [foundation_cloudflare_email](https://crates.io/crates/foundation_cloudflare_email) | 0.1.1 | 0 | Generated Cloudflare API client: email group |
+| 2026-11-10 14:09:50 | [foundation_cloudflare_entitlements](https://crates.io/crates/foundation_cloudflare_entitlements) | 0.1.1 | 0 | Generated Cloudflare API client: entitlements group |
+| 2026-11-10 14:09:56 | [foundation_cloudflare_events](https://crates.io/crates/foundation_cloudflare_events) | 0.1.1 | 0 | Generated Cloudflare API client: events group |
+| 2026-11-10 14:10:38 | [pgmi](https://crates.io/crates/pgmi) | 0.0.1 | 0 | Placeholder: the name pgmi is reserved for the upcoming Rust release of pgmi. I… |
+| 2026-11-10 14:10:57 | [kwangss_crate](https://crates.io/crates/kwangss_crate) | 0.1.0 | 0 | A fun game where you guess what number the computer has chosen. |
+| 2026-11-10 14:13:26 | [navree-schema](https://crates.io/crates/navree-schema) | 1.0.0 | 0 | Navree schema builder: tables, columns, indexes and foreign keys in Rust, compi… |
+| 2026-11-10 14:14:58 | [rialo-s-failure-handler-program](https://crates.io/crates/rialo-s-failure-handler-program) | 0.24.0 | 0 | Rialo failure-handler builtin program |
+| 2026-11-10 14:17:19 | [oci-request-signer](https://crates.io/crates/oci-request-signer) | 0.1.0 | 0 | Sign Oracle Cloud (OCI) REST API requests from Rust: reads ~/.oci/config, RSA-S… |
+| 2026-11-10 14:17:46 | [byob-exec](https://crates.io/crates/byob-exec) | 0.1.0 | 0 | Tools that run code in the sandbox: run_command, run_python, install_python_pac… |
+| 2026-11-10 14:18:20 | [tpt-protocol-nmea](https://crates.io/crates/tpt-protocol-nmea) | 0.1.0 | 0 | NMEA 0183 implementation, MIT OR Apache-2.0 (the nmea crate is Apache-2.0 only) |
+| 2026-11-10 14:18:35 | [zprs](https://crates.io/crates/zprs) | 0.1.0 | 0 | Zig progress protocol client library for Rust |
 
 ## Data source
 

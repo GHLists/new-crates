@@ -1,0 +1,51 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-10T13:23:22.159046Z,kalku-rust,0.33.0,0,0,https://github.com/lnds/kalku,"The Rust kalku: finds the places where a defect can be cast in a Rust project, and casts them"
+2026-11-10T13:23:22.699884Z,navree-crypto,1.0.0,0,0,https://github.com/NavreeHQ/navree,"Navree CryptoModule: AES-256-GCM encryption with key rotation, Argon2id hashing, token and JOSE helpers, TOTP and a QR code encoder."
+2026-11-10T13:24:40.235419Z,petit-paint,0.2.0,0,0,https://github.com/sakihet/petit-paint,A small paint app written in Rust with GPUI
+2026-11-10T13:27:45.261098Z,byob-protocol,0.1.0,0,0,https://github.com/Scronkfinkle/byob,"Client <-> engine messages shared by the desktop UI, web UI and server. Must compile to wasm32 (L1)"
+2026-11-10T13:31:58.293292Z,maccleanup,0.10.0,0,0,https://github.com/shayanoh/MacCleanup,A colorful terminal app for macOS that shows where your disk space went and cleans it up safely
+2026-11-10T13:31:58.551189Z,zconv,0.1.1,0,0,https://github.com/LIghtJUNction/zconv,"Zero-dependency, allocation-free AI protocol conversion"
+2026-11-10T13:32:09.251849Z,tpt-protocol-tup,0.1.0,0,0,https://github.com/tpt-solutions/tpt-protocol,TPT Unified Protocol — canonical normalized schema with CBOR binary encoding and JSON mirror
+2026-11-10T13:32:24.946658Z,tpt-protocol-core,0.1.0,0,0,https://github.com/tpt-solutions/tpt-protocol,"Core traits for TPT Protocol: FrameParser, StateValidator, DataNormalizer"
+2026-11-10T13:32:44.552137Z,tpt-protocol-modbus,0.1.0,0,0,https://github.com/tpt-solutions/tpt-protocol,"Modbus RTU/TCP implementation, no_std (tokio-modbus requires std + tokio)"
+2026-11-10T13:32:50.296078Z,tpt-protocol-j1939,0.1.0,0,0,https://github.com/tpt-solutions/tpt-protocol,SAE J1939 heavy-duty vehicle protocol parser
+2026-11-10T13:32:55.609031Z,tpt-protocol-isobus,0.1.0,0,0,https://github.com/tpt-solutions/tpt-protocol,ISO 11783 (ISOBUS) agricultural protocol parser
+2026-11-10T13:33:28.497052Z,navree-http,1.0.0,0,0,https://github.com/NavreeHQ/navree,"Navree HttpModule: Navree's router and extractors, default Tower layers, JSON errors, controllers and route metadata."
+2026-11-10T13:36:00.276114Z,rusto-nn,0.4.0,0,0,https://github.com/byrizki/rusto-rs,"Lightweight, zero-bloat, 100% pure Rust inference engine for Alibaba MNN models"
+2026-11-10T13:36:16.411605Z,rusto-core,0.4.0,0,0,https://github.com/byrizki/rusto-rs,"Core pure-Rust computer vision algorithms, postprocessing, and types for RustO!"
+2026-11-10T13:36:30.208715Z,rusto-cpp,0.4.0,0,0,https://github.com/byrizki/rusto-rs,Native C++ and OpenCV accelerated computer vision backends for RustO!
+2026-11-10T13:36:46.497435Z,rusto-rten,0.4.0,0,0,https://github.com/byrizki/rusto-rs,Pluggable RTen inference engine backend for RustO!
+2026-11-10T13:37:13.978694Z,rusto-nn-webgpu,0.4.0,0,0,https://github.com/byrizki/rusto-rs,Pluggable WebGPU hardware acceleration backend for rusto-nn
+2026-11-10T13:37:46.349257Z,byob-tools,0.1.0,0,0,https://github.com/Scronkfinkle/byob,"Agent tools: filesystem, web fetch, charts, python (L2)"
+2026-11-10T13:43:23.719533Z,navree-http-client,1.0.0,0,0,https://github.com/NavreeHQ/navree,"Navree HttpClientModule: outgoing HTTP with retries, timeouts, SSRF policy and fakes."
+2026-11-10T13:44:42.121022Z,tpt-protocol-uds,0.1.0,0,0,https://github.com/tpt-solutions/tpt-protocol,ISO 14229 (UDS) diagnostic services implementation (no existing crate for this protocol)
+2026-11-10T13:47:46.903745Z,byob-plugins,0.1.0,0,0,https://github.com/Scronkfinkle/byob,"Plugins: hob-compatible manifests, Agent Skills (SKILL.md), MCP connectors, adapted into byob-tools (L3)"
+2026-11-10T13:53:24.892242Z,navree-log,1.0.0,0,0,https://github.com/NavreeHQ/navree,"Navree LoggerModule: tracing subscriber, JSON or pretty output, redaction, rotating files and runtime level control."
+2026-11-10T13:55:53.040181Z,tpt-protocol-canopen,0.1.0,0,0,https://github.com/tpt-solutions/tpt-protocol,"CANopen implementation, no_std (canopen crate requires std + Linux socketcan)"
+2026-11-10T13:56:55.746596Z,eventful-ratatui-macros,0.1.0,0,0,https://github.com/DreamLogics/eventful-ratatui,Procedural macros for eventful-ratatui
+2026-11-10T13:56:58.38756Z,eventful-ratatui,0.1.0,0,0,https://github.com/DreamLogics/eventful-ratatui,"Ratatui applications on eventful-rs: components, focus, key bindings and a redraw loop"
+2026-11-10T13:57:45.438807Z,byob-store,0.1.0,0,0,https://github.com/Scronkfinkle/byob,"Pluggable chat storage (SQLite or a plain-files folder) for chats, messages, tool steps, grants and the undo journal; settings and secrets files (L1)"
+2026-11-10T14:01:28.784769Z,rtemis,0.1.0,0,0,https://github.com/rtemis-org/rtemis-rs,Machine learning metrics: ROC AUC and average precision for binary and multiclass classification
+2026-11-10T14:01:53.69109Z,rumblepad,0.1.0,0,0,https://github.com/aovestdipaperino/rumblepad,Switch-protocol and 8BitDo gamepads over HID: input state and HD rumble
+2026-11-10T14:03:30.955829Z,navree-navigator,1.0.0,0,0,https://github.com/NavreeHQ/navree,"Navree Navigator: the MCP server for coding agents, with the app's routes, schema, logs and version-matched docs, and the agent skills."
+2026-11-10T14:06:08.030565Z,rialo-authority-name,0.24.0,0,0,https://github.com/SubzeroLabs/rialo,"The name of a Rialo authority: opaque, variable-length bytes"
+2026-11-10T14:06:15.894427Z,rialo-ed25519,0.24.0,0,0,https://github.com/SubzeroLabs/rialo,The first-party seam for Ed25519 over the vendored ed25519-consensus
+2026-11-10T14:06:19.397798Z,rialo-epoch-records-interface,0.24.0,0,0,,Contract for the committed handover records an executing block can read
+2026-11-10T14:06:34.527089Z,rialo-risc-v-program-admission,0.24.0,0,0,,Admission checks for RISC-V (PolkaVM) program blobs
+2026-11-10T14:07:08.409086Z,tpt-protocol-doip-someip,0.1.0,0,0,https://github.com/tpt-solutions/tpt-protocol,DoIP / SOME/IP automotive Ethernet protocol parser
+2026-11-10T14:07:38.015257Z,rialo-versioned-format,0.24.0,0,0,https://github.com/SubzeroLabs/rialo,"Version identifier, strict codecs and test support for every on-chain format."
+2026-11-10T14:07:47.181489Z,byob-agent,0.1.0,0,0,https://github.com/Scronkfinkle/byob,"Headless agent engine: turn loop, tool calling, permissions, undo (L3)"
+2026-11-10T14:09:25.03145Z,foundation_cloudflare_devices,0.1.1,0,0,https://github.com/ewe-studios/ewe_platform,Generated Cloudflare API client: devices group
+2026-11-10T14:09:31.828042Z,foundation_cloudflare_dns,0.1.1,0,0,https://github.com/ewe-studios/ewe_platform,Generated Cloudflare API client: dns group
+2026-11-10T14:09:38.375463Z,foundation_cloudflare_domains,0.1.1,0,0,https://github.com/ewe-studios/ewe_platform,Generated Cloudflare API client: domains group
+2026-11-10T14:09:45.165409Z,foundation_cloudflare_email,0.1.1,0,0,https://github.com/ewe-studios/ewe_platform,Generated Cloudflare API client: email group
+2026-11-10T14:09:50.265224Z,foundation_cloudflare_entitlements,0.1.1,0,0,https://github.com/ewe-studios/ewe_platform,Generated Cloudflare API client: entitlements group
+2026-11-10T14:09:56.152058Z,foundation_cloudflare_events,0.1.1,0,0,https://github.com/ewe-studios/ewe_platform,Generated Cloudflare API client: events group
+2026-11-10T14:10:38.886337Z,pgmi,0.0.1,0,0,https://github.com/vvka-141/pgmi,Placeholder: the name pgmi is reserved for the upcoming Rust release of pgmi. Install pgmi today from https://github.com/vvka-141/pgmi
+2026-11-10T14:10:57.399092Z,kwangss_crate,0.1.0,0,0,,A fun game where you guess what number the computer has chosen.
+2026-11-10T14:13:26.619924Z,navree-schema,1.0.0,0,0,https://github.com/NavreeHQ/navree,"Navree schema builder: tables, columns, indexes and foreign keys in Rust, compiled for PostgreSQL with TimescaleDB, MySQL/MariaDB and SQLite."
+2026-11-10T14:14:58.398169Z,rialo-s-failure-handler-program,0.24.0,0,0,https://github.com/SubzeroLabs/rialo,Rialo failure-handler builtin program
+2026-11-10T14:17:19.293721Z,oci-request-signer,0.1.0,0,0,https://github.com/deeplabua/oci-request-signer,"Sign Oracle Cloud (OCI) REST API requests from Rust: reads ~/.oci/config, RSA-SHA256 HTTP signatures, small blocking client — no OCI SDK, no OpenSSL"
+2026-11-10T14:17:46.048409Z,byob-exec,0.1.0,0,0,https://github.com/Scronkfinkle/byob,"Tools that run code in the sandbox: run_command, run_python, install_python_packages (L3)"
+2026-11-10T14:18:20.165162Z,tpt-protocol-nmea,0.1.0,0,0,https://github.com/tpt-solutions/tpt-protocol,"NMEA 0183 implementation, MIT OR Apache-2.0 (the nmea crate is Apache-2.0 only)"
+2026-11-10T14:18:35.776211Z,zprs,0.1.0,0,0,https://github.com/asciimoth/zprs,Zig progress protocol client library for Rust
