@@ -8,50 +8,59 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-10 12:19 UTC
+## Latest list — 2026-11-10 13:21 UTC
 
-New crates published between 2026-11-10 11:19 UTC and 2026-11-10 12:19 UTC.
+New crates published between 2026-11-10 12:19 UTC and 2026-11-10 13:21 UTC.
 
-[Full CSV](data/new-crates-2026-11-10T12-19-13-719358Z.csv)
+[Full CSV](data/new-crates-2026-11-10T13-21-53-120937Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-10 11:21:36 | [http-kit-tls](https://crates.io/crates/http-kit-tls) | 0.1.0 | 0 | TLS over owned-buffer streams with rustls's unbuffered API, handing the record… |
-| 2026-11-10 11:22:15 | [crabxl-core](https://crates.io/crates/crabxl-core) | 0.1.0 | 0 | Shared spreadsheet types and resource limits for crabxl |
-| 2026-11-10 11:22:33 | [crabxl-xlsx](https://crates.io/crates/crabxl-xlsx) | 0.1.0 | 0 | Bounded streaming XLSX processing for crabxl |
-| 2026-11-10 11:22:41 | [crabxl](https://crates.io/crates/crabxl) | 0.1.0 | 0 | Fast, low-memory Rust library for reading, writing and editing Excel XLSX files. |
-| 2026-11-10 11:23:22 | [navree-phone](https://crates.io/crates/navree-phone) | 1.0.0 | 0 | Navree phone numbers: parsing, validation, number types and formatting (E.164,… |
-| 2026-11-10 11:26:29 | [r3vu](https://crates.io/crates/r3vu) | 0.3.0 | 0 | A mouse-driven terminal IDE for TypeScript and JavaScript on macOS. |
-| 2026-11-10 11:26:44 | [mcp-semantic-memory](https://crates.io/crates/mcp-semantic-memory) | 0.1.0 | 0 | Stateless MCP server for long-term semantic memory |
-| 2026-11-10 11:27:12 | [mcp-semantic-memory-mariadb](https://crates.io/crates/mcp-semantic-memory-mariadb) | 0.1.0 | 0 | Stateless MCP server for long-term semantic memory |
-| 2026-11-10 11:27:37 | [mcp-semantic-memory-postgres](https://crates.io/crates/mcp-semantic-memory-postgres) | 0.1.0 | 0 | Stateless MCP server for long-term semantic memory |
-| 2026-11-10 11:28:03 | [mcp-semantic-memory-sqlite](https://crates.io/crates/mcp-semantic-memory-sqlite) | 0.1.0 | 0 | Stateless MCP server for long-term semantic memory |
-| 2026-11-10 11:28:43 | [mcp-semantic-memory-cli](https://crates.io/crates/mcp-semantic-memory-cli) | 0.1.0 | 0 | Stateless MCP server for long-term semantic memory |
-| 2026-11-10 11:29:08 | [paludarium-jit-native](https://crates.io/crates/paludarium-jit-native) | 0.0.1 | 0 | Native JIT for paludarium: hot blocks compiled to host code with Cranelift (nam… |
-| 2026-11-10 11:30:24 | [zumen-ifc](https://crates.io/crates/zumen-ifc) | 0.2.0 | 0 | zumen の IFC の L1（決定 0207・0211）。スキーマを知らないインスタンスのグラフと、IFC-SPF・ifcZIP のコーデック |
-| 2026-11-10 11:33:23 | [navree-template](https://crates.io/crates/navree-template) | 1.0.0 | 0 | Navree's template engine: Jinja syntax, autoescaping by mode, a sandboxed value… |
-| 2026-11-10 11:40:27 | [hnoss](https://crates.io/crates/hnoss) | 0.8.0 | 0 | Exact monetary values for Rust, with zero dependencies |
-| 2026-11-10 11:41:41 | [cosca-path](https://crates.io/crates/cosca-path) | 0.7.0 | 0 | Per-OS paths for cosca (faithful components, exact equality, no implicit normal… |
-| 2026-11-10 11:41:43 | [zumen-sheet](https://crates.io/crates/zumen-sheet) | 0.2.0 | 0 | zumen の表（Excel の xlsx と CSV）の読み取り（#391） |
-| 2026-11-10 11:43:24 | [navree-ui-macros](https://crates.io/crates/navree-ui-macros) | 1.0.0 | 0 | The derives of navree-ui (Form, Options, TableRow and FilterBar), used through… |
-| 2026-11-10 11:48:32 | [adbrent](https://crates.io/crates/adbrent) | 0.2.1 | 0 | One Android device per AI agent: an adb device lock for parallel Claude Code, C… |
-| 2026-11-10 11:53:06 | [zumen-abi](https://crates.io/crates/zumen-abi) | 0.2.0 | 0 | zumen の API: 各言語から呼ぶ C ABI と wasm の関数と、スキーマで定めたメッセージ |
-| 2026-11-10 11:53:22 | [navree-validation-macros](https://crates.io/crates/navree-validation-macros) | 1.0.0 | 0 | Navree validation macros: #[derive(Validate)] with #[validate(...)] field rules… |
-| 2026-11-10 12:00:22 | [foundation_boringtun](https://crates.io/crates/foundation_boringtun) | 0.7.2 | 0 | Fork of boringtun (userspace WireGuard protocol) with a wasm32 clock backend, f… |
-| 2026-11-10 12:02:11 | [envoy-windows](https://crates.io/crates/envoy-windows) | 0.1.1 | 0 | Envoy - Windows environment variable manager |
-| 2026-11-10 12:03:26 | [navree-contracts](https://crates.io/crates/navree-contracts) | 1.0.0 | 0 | Navree contracts: small cross-cutting traits and types (Secret, RequestId, Prin… |
-| 2026-11-10 12:03:37 | [tari_ootle_wallet_sdk_services](https://crates.io/crates/tari_ootle_wallet_sdk_services) | 0.34.2 | 0 | High-level wallet services and abstractions for the Tari Ootle wallet |
-| 2026-11-10 12:04:29 | [zumen](https://crates.io/crates/zumen) | 0.2.0 | 0 | zumen を Rust から使う入口。API の関数と、スキーマで定めたメッセージの型と、シーンのリーダー（決定 0017・0203） |
-| 2026-11-10 12:04:30 | [zumen-cli](https://crates.io/crates/zumen-cli) | 0.2.0 | 0 | zumen の CLI と、標準入出力の JSON-RPC と MCP のサーバー（決定 0013・0197） |
-| 2026-11-10 12:04:57 | [zch](https://crates.io/crates/zch) | 3.0.0 | 0 | Codeforces and competitive programming TUI for the Zed editor: import problems… |
-| 2026-11-10 12:05:30 | [foundation_cloudflare_access](https://crates.io/crates/foundation_cloudflare_access) | 0.1.1 | 0 | Generated Cloudflare API client: access group |
-| 2026-11-10 12:05:37 | [foundation_cloudflare_accounts](https://crates.io/crates/foundation_cloudflare_accounts) | 0.1.1 | 0 | Generated Cloudflare API client: accounts group |
-| 2026-11-10 12:05:49 | [foundation_cloudflare_ai](https://crates.io/crates/foundation_cloudflare_ai) | 0.1.1 | 0 | Generated Cloudflare API client: ai group |
-| 2026-11-10 12:05:54 | [foundation_cloudflare_analytics](https://crates.io/crates/foundation_cloudflare_analytics) | 0.1.1 | 0 | Generated Cloudflare API client: analytics group |
-| 2026-11-10 12:12:00 | [coap-fileserver](https://crates.io/crates/coap-fileserver) | 0.0.1-alpha.0 | 0 | A simple CoAP file server |
-| 2026-11-10 12:13:18 | [reelhouse](https://crates.io/crates/reelhouse) | 0.0.1 | 0 | Open-source, Rust-native media server with Live TV/DVR and clients for every sc… |
-| 2026-11-10 12:13:27 | [navree-harbor](https://crates.io/crates/navree-harbor) | 1.0.0 | 0 | Navree Harbor: server provisioning over SSH, zero-downtime releases with health… |
-| 2026-11-10 12:16:04 | [pikaid](https://crates.io/crates/pikaid) | 1.0.0 | 0 | Official Rust implementation of pikaid — 26-character sortable Base36 identifie… |
+| 2026-11-10 12:23:22 | [navree-telemetry](https://crates.io/crates/navree-telemetry) | 1.0.0 | 0 | Navree telemetry: typed events (requests, queries, jobs, mail and more) deliver… |
+| 2026-11-10 12:27:07 | [tdx-testkit](https://crates.io/crates/tdx-testkit) | 0.5.1 | 0 | Test fixtures for tauri-delta-updater integrators: a mock update server with Ra… |
+| 2026-11-10 12:31:43 | [halo-harbor-facade](https://crates.io/crates/halo-harbor-facade) | 0.2.4 | 0 | Public Harbor facade for the core runtime, contrib extensions, and Worker. |
+| 2026-11-10 12:33:24 | [navree-events](https://crates.io/crates/navree-events) | 1.0.0 | 0 | Navree EventsModule: typed event bus with sync and queued listeners. |
+| 2026-11-10 12:37:27 | [ct-uint](https://crates.io/crates/ct-uint) | 0.0.1 | 0 | Constant-time fixed-width big integers and limb arithmetic for secret-data cryp… |
+| 2026-11-10 12:38:02 | [biscuit-ssh-core](https://crates.io/crates/biscuit-ssh-core) | 0.3.0 | 0 | Token vocabulary, verifier, and revocation lists of biscuit-ssh, SSH access thr… |
+| 2026-11-10 12:38:08 | [biscuit-ssh-ca](https://crates.io/crates/biscuit-ssh-ca) | 0.3.0 | 0 | OpenSSH certificate authority of biscuit-ssh, which signs short-lived certifica… |
+| 2026-11-10 12:38:13 | [biscuit-ssh-service](https://crates.io/crates/biscuit-ssh-service) | 0.3.0 | 0 | Plumbing shared by the biscuit-ssh services: revocation lists, logging, shutdow… |
+| 2026-11-10 12:38:20 | [biscuit-ssh-bastion](https://crates.io/crates/biscuit-ssh-bastion) | 0.3.0 | 0 | SSH bastion that checks Biscuit tokens and relays sessions to servers and Docke… |
+| 2026-11-10 12:38:25 | [biscuit-ssh](https://crates.io/crates/biscuit-ssh) | 0.3.0 | 0 | Client of biscuit-ssh: connects through the bastion with a Biscuit token, restr… |
+| 2026-11-10 12:39:20 | [firmos](https://crates.io/crates/firmos) | 0.0.1 | 0 | firmos: an open-source operating system for a company. Early work in progress;… |
+| 2026-11-10 12:40:54 | [steem-core](https://crates.io/crates/steem-core) | 0.1.1 | 0 | Core Steem protocol types, wire codec, cryptography, transaction signing and me… |
+| 2026-11-10 12:41:11 | [steem-rpc](https://crates.io/crates/steem-rpc) | 0.1.1 | 0 | JSON-RPC client for Steem nodes |
+| 2026-11-10 12:41:33 | [steem](https://crates.io/crates/steem) | 0.1.1 | 0 | Umbrella crate for the Rust Steem SDK |
+| 2026-11-10 12:41:48 | [proxy-links-exporter](https://crates.io/crates/proxy-links-exporter) | 0.1.0 | 0 | Export proxy links from xray-core and sing-box configurations |
+| 2026-11-10 12:43:25 | [navree-macros](https://crates.io/crates/navree-macros) | 1.0.0 | 0 | Navree's attribute and derive macros: #[module], #[injectable], #[controller],… |
+| 2026-11-10 12:43:59 | [eulumdat-scene](https://crates.io/crates/eulumdat-scene) | 0.8.0 | 0 | Light scene for the path-traced luminaire viewer: parametric scenes, camera, ca… |
+| 2026-11-10 12:44:02 | [eulumdat-tm25](https://crates.io/crates/eulumdat-tm25) | 0.8.0 | 0 | Bridge between tm25ray (IES TM-25 ray files) and eulumdat: far field → EULUMDAT… |
+| 2026-11-10 12:45:42 | [hello-crate](https://crates.io/crates/hello-crate) | 0.1.0 | 0 | Small Rust helpers for greetings and basic text statistics. |
+| 2026-11-10 12:47:05 | [biscuit-sandbox](https://crates.io/crates/biscuit-sandbox) | 0.1.0 | 0 | REST service creating short-lived sandbox containers, reachable through the bis… |
+| 2026-11-10 12:53:26 | [navree-config](https://crates.io/crates/navree-config) | 1.0.0 | 0 | Navree ConfigModule: typed configuration from .env, TOML and JSON files and APP… |
+| 2026-11-10 12:53:50 | [foundation_cloudflare_apps](https://crates.io/crates/foundation_cloudflare_apps) | 0.1.1 | 0 | Generated Cloudflare API client: apps group |
+| 2026-11-10 12:53:56 | [foundation_cloudflare_billing](https://crates.io/crates/foundation_cloudflare_billing) | 0.1.1 | 0 | Generated Cloudflare API client: billing group |
+| 2026-11-10 12:54:01 | [foundation_cloudflare_cache](https://crates.io/crates/foundation_cloudflare_cache) | 0.1.1 | 0 | Generated Cloudflare API client: cache group |
+| 2026-11-10 12:54:05 | [foundation_cloudflare_certificates](https://crates.io/crates/foundation_cloudflare_certificates) | 0.1.1 | 0 | Generated Cloudflare API client: certificates group |
+| 2026-11-10 12:54:12 | [foundation_cloudflare_data](https://crates.io/crates/foundation_cloudflare_data) | 0.1.1 | 0 | Generated Cloudflare API client: data group |
+| 2026-11-10 12:56:46 | [gql-rs](https://crates.io/crates/gql-rs) | 0.0.1-ga | 0 | GQL parser, typed AST builder, and semantic validator |
+| 2026-11-10 12:57:06 | [biscuit-ssh-issuer](https://crates.io/crates/biscuit-ssh-issuer) | 0.3.0 | 0 | HTTP service that exchanges Biscuit tokens for short-lived OpenSSH certificates |
+| 2026-11-10 12:57:23 | [rudof_rdf_sink](https://crates.io/crates/rudof_rdf_sink) | 0.3.39 | 0 | RDF and Knowledge Graphs processing tool |
+| 2026-11-10 12:59:50 | [cargo-autoprune](https://crates.io/crates/cargo-autoprune) | 0.1.0 | 0 | rustc-wrapper that keeps Cargo target/ dirs from growing: prunes superseded art… |
+| 2026-11-10 13:01:27 | [xdevcmd-core](https://crates.io/crates/xdevcmd-core) | 0.3.0 | 0 | xdevcmd's engine: listing, file operations, archives, find, compare. No termina… |
+| 2026-11-10 13:01:30 | [xdevcmd](https://crates.io/crates/xdevcmd) | 0.3.0 | 0 | xDev Commander: a cross-platform, two-pane terminal file manager that extends y… |
+| 2026-11-10 13:03:22 | [navree-openapi](https://crates.io/crates/navree-openapi) | 1.0.0 | 0 | Navree's OpenAPI 3.1 document model and the ToSchema trait and derive that desc… |
+| 2026-11-10 13:06:05 | [mfd](https://crates.io/crates/mfd) | 0.3.0 | 0 | A friendly, fd-style command line front end for macOS Spotlight (native MDQuery) |
+| 2026-11-10 13:07:49 | [byob-artifact-wire](https://crates.io/crates/byob-artifact-wire) | 0.1.0 | 0 | Wire protocol between byob and the byob-artifact-host helper process (L1, no de… |
+| 2026-11-10 13:07:49 | [byob-mcp](https://crates.io/crates/byob-mcp) | 0.1.0 | 0 | Blocking MCP client: stdio and streamable HTTP transports, tools/list and tools… |
+| 2026-11-10 13:07:49 | [byob-sandbox](https://crates.io/crates/byob-sandbox) | 0.1.0 | 0 | Run untrusted commands confined: Landlock + namespaces on Linux, sandbox-exec o… |
+| 2026-11-10 13:07:50 | [byob-types](https://crates.io/crates/byob-types) | 0.1.0 | 0 | Shared serde types: messages, steps, attachments, settings (L0) |
+| 2026-11-10 13:07:50 | [byob-web-assets](https://crates.io/crates/byob-web-assets) | 0.1.0 | 0 | byob's browser UI (the wasm build of byob-web), embedded so `byob --serve` work… |
+| 2026-11-10 13:11:28 | [atomfetch](https://crates.io/crates/atomfetch) | 0.1.1 | 0 | a tiny fastfetch clone with a few tricks up its sleeve. |
+| 2026-11-10 13:11:56 | [guictl](https://crates.io/crates/guictl) | 0.4.0 | 0 | Control a desktop GUI from the command line, for AI agents. |
+| 2026-11-10 13:13:25 | [navree-cache](https://crates.io/crates/navree-cache) | 1.0.0 | 0 | Navree CacheModule: cache stores (a bounded memory store), remember, tags, stal… |
+| 2026-11-10 13:17:46 | [byob-llm](https://crates.io/crates/byob-llm) | 0.1.0 | 0 | OpenAI-compatible inference client targeting a user-supplied URL (L1) |
+| 2026-11-10 13:18:10 | [pm-sysd-w](https://crates.io/crates/pm-sysd-w) | 0.1.0-a1 | 0 | 胖喵稳哒: Systemd style on Windows. |
+| 2026-11-10 13:19:50 | [jfrog-curation-malicious-dummy](https://crates.io/crates/jfrog-curation-malicious-dummy) | 1.0.0 | 0 | Non-malicious inert Rust crate used to test JFrog package curation workflows. I… |
 
 ## Data source
 

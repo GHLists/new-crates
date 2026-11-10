@@ -1,0 +1,46 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-10T12:23:22.637327Z,navree-telemetry,1.0.0,0,0,https://github.com/NavreeHQ/navree,"Navree telemetry: typed events (requests, queries, jobs, mail and more) delivered to registered sinks, and W3C trace context."
+2026-11-10T12:27:07.143079Z,tdx-testkit,0.5.1,0,0,https://github.com/zuoqiuning/tauri-delta-updater,"Test fixtures for tauri-delta-updater integrators: a mock update server with Range support, minisign helpers and signed manifest builders."
+2026-11-10T12:31:43.801344Z,halo-harbor-facade,0.2.4,0,0,https://github.com/halo-space/harbor,"Public Harbor facade for the core runtime, contrib extensions, and Worker."
+2026-11-10T12:33:24.525106Z,navree-events,1.0.0,0,0,https://github.com/NavreeHQ/navree,Navree EventsModule: typed event bus with sync and queued listeners.
+2026-11-10T12:37:27.661603Z,ct-uint,0.0.1,0,0,https://github.com/tecposter/ct-uint,Constant-time fixed-width big integers and limb arithmetic for secret-data cryptography
+2026-11-10T12:38:02.867378Z,biscuit-ssh-core,0.3.0,0,0,https://github.com/davlgd/biscuit-ssh,"Token vocabulary, verifier, and revocation lists of biscuit-ssh, SSH access through Biscuit tokens"
+2026-11-10T12:38:08.798135Z,biscuit-ssh-ca,0.3.0,0,0,https://github.com/davlgd/biscuit-ssh,"OpenSSH certificate authority of biscuit-ssh, which signs short-lived certificates for authorized Biscuit tokens"
+2026-11-10T12:38:13.361183Z,biscuit-ssh-service,0.3.0,0,0,https://github.com/davlgd/biscuit-ssh,"Plumbing shared by the biscuit-ssh services: revocation lists, logging, shutdown, token authority, and TLS serving"
+2026-11-10T12:38:20.151465Z,biscuit-ssh-bastion,0.3.0,0,0,https://github.com/davlgd/biscuit-ssh,"SSH bastion that checks Biscuit tokens and relays sessions to servers and Docker containers, cut when the token stops allowing them"
+2026-11-10T12:38:25.845398Z,biscuit-ssh,0.3.0,0,0,https://github.com/davlgd/biscuit-ssh,"Client of biscuit-ssh: connects through the bastion with a Biscuit token, restricts and inspects tokens, and administers root keys"
+2026-11-10T12:39:20.688122Z,firmos,0.0.1,0,0,,firmos: an open-source operating system for a company. Early work in progress; this release reserves the name.
+2026-11-10T12:40:54.993717Z,steem-core,0.1.1,0,0,https://github.com/faisalamin9696/steem-rs,"Core Steem protocol types, wire codec, cryptography, transaction signing and memo encryption"
+2026-11-10T12:41:11.243637Z,steem-rpc,0.1.1,0,0,https://github.com/faisalamin9696/steem-rs,JSON-RPC client for Steem nodes
+2026-11-10T12:41:33.20375Z,steem,0.1.1,0,0,https://github.com/faisalamin9696/steem-rs,Umbrella crate for the Rust Steem SDK
+2026-11-10T12:41:48.586308Z,proxy-links-exporter,0.1.0,0,0,,Export proxy links from xray-core and sing-box configurations
+2026-11-10T12:43:25.200355Z,navree-macros,1.0.0,0,0,https://github.com/NavreeHQ/navree,"Navree's attribute and derive macros: #[module], #[injectable], #[controller], route attributes, #[agent], #[workflow] and more."
+2026-11-10T12:43:59.097937Z,eulumdat-scene,0.8.0,0,0,https://github.com/holg/eulumdat-rs,"Light scene for the path-traced luminaire viewer: parametric scenes, camera, calculation grids, GPU structs and the WGSL tracer — engine-free"
+2026-11-10T12:44:02.60696Z,eulumdat-tm25,0.8.0,0,0,https://github.com/holg/eulumdat-rs,"Bridge between tm25ray (IES TM-25 ray files) and eulumdat: far field → EULUMDAT document, spectral table → ATLA spectrum"
+2026-11-10T12:45:42.035766Z,hello-crate,0.1.0,0,0,,Small Rust helpers for greetings and basic text statistics.
+2026-11-10T12:47:05.947194Z,biscuit-sandbox,0.1.0,0,0,https://github.com/davlgd/biscuit-sandbox,"REST service creating short-lived sandbox containers, reachable through the biscuit-ssh bastion with Biscuit tokens"
+2026-11-10T12:53:26.723179Z,navree-config,1.0.0,0,0,https://github.com/NavreeHQ/navree,"Navree ConfigModule: typed configuration from .env, TOML and JSON files and APP_ environment variables."
+2026-11-10T12:53:50.948904Z,foundation_cloudflare_apps,0.1.1,0,0,https://github.com/ewe-studios/ewe_platform,Generated Cloudflare API client: apps group
+2026-11-10T12:53:56.608775Z,foundation_cloudflare_billing,0.1.1,0,0,https://github.com/ewe-studios/ewe_platform,Generated Cloudflare API client: billing group
+2026-11-10T12:54:01.156641Z,foundation_cloudflare_cache,0.1.1,0,0,https://github.com/ewe-studios/ewe_platform,Generated Cloudflare API client: cache group
+2026-11-10T12:54:05.684283Z,foundation_cloudflare_certificates,0.1.1,0,0,https://github.com/ewe-studios/ewe_platform,Generated Cloudflare API client: certificates group
+2026-11-10T12:54:12.103932Z,foundation_cloudflare_data,0.1.1,0,0,https://github.com/ewe-studios/ewe_platform,Generated Cloudflare API client: data group
+2026-11-10T12:56:46.675467Z,gql-rs,0.0.1-ga,0,0,https://github.com/ntur-lab/gql-rs,"GQL parser, typed AST builder, and semantic validator"
+2026-11-10T12:57:06.456296Z,biscuit-ssh-issuer,0.3.0,0,0,https://github.com/davlgd/biscuit-ssh,HTTP service that exchanges Biscuit tokens for short-lived OpenSSH certificates
+2026-11-10T12:57:23.905548Z,rudof_rdf_sink,0.3.39,0,0,https://github.com/rudof-project/rudof,RDF and Knowledge Graphs processing tool
+2026-11-10T12:59:50.045515Z,cargo-autoprune,0.1.0,0,0,https://github.com/s00d/cargo-autoprune,rustc-wrapper that keeps Cargo target/ dirs from growing: prunes superseded artifacts in the background after builds
+2026-11-10T13:01:27.220905Z,xdevcmd-core,0.3.0,0,0,https://github.com/nci-gis/rust-commander,"xdevcmd's engine: listing, file operations, archives, find, compare. No terminal code."
+2026-11-10T13:01:30.858107Z,xdevcmd,0.3.0,0,0,https://github.com/nci-gis/rust-commander,"xDev Commander: a cross-platform, two-pane terminal file manager that extends your shell."
+2026-11-10T13:03:22.634768Z,navree-openapi,1.0.0,0,0,https://github.com/NavreeHQ/navree,Navree's OpenAPI 3.1 document model and the ToSchema trait and derive that describe Rust types.
+2026-11-10T13:06:05.608241Z,mfd,0.3.0,0,0,https://github.com/lululau/mfd-rs,"A friendly, fd-style command line front end for macOS Spotlight (native MDQuery)"
+2026-11-10T13:07:49.193957Z,byob-artifact-wire,0.1.0,0,0,https://github.com/Scronkfinkle/byob,"Wire protocol between byob and the byob-artifact-host helper process (L1, no dependencies)"
+2026-11-10T13:07:49.508265Z,byob-mcp,0.1.0,0,0,https://github.com/Scronkfinkle/byob,"Blocking MCP client: stdio and streamable HTTP transports, tools/list and tools/call (L2)"
+2026-11-10T13:07:49.897371Z,byob-sandbox,0.1.0,0,0,https://github.com/Scronkfinkle/byob,"Run untrusted commands confined: Landlock + namespaces on Linux, sandbox-exec on macOS; timeouts, output caps, process-tree kill (L2)"
+2026-11-10T13:07:50.08496Z,byob-types,0.1.0,0,0,https://github.com/Scronkfinkle/byob,"Shared serde types: messages, steps, attachments, settings (L0)"
+2026-11-10T13:07:50.485189Z,byob-web-assets,0.1.0,0,0,https://github.com/Scronkfinkle/byob,"byob's browser UI (the wasm build of byob-web), embedded so `byob --serve` works without extra files"
+2026-11-10T13:11:28.084781Z,atomfetch,0.1.1,0,0,,a tiny fastfetch clone with a few tricks up its sleeve.
+2026-11-10T13:11:56.059275Z,guictl,0.4.0,0,0,https://github.com/RaresBaa/guictl,"Control a desktop GUI from the command line, for AI agents."
+2026-11-10T13:13:25.590838Z,navree-cache,1.0.0,0,0,https://github.com/NavreeHQ/navree,"Navree CacheModule: cache stores (a bounded memory store), remember, tags, stale-while-revalidate and atomic locks."
+2026-11-10T13:17:46.281186Z,byob-llm,0.1.0,0,0,https://github.com/Scronkfinkle/byob,OpenAI-compatible inference client targeting a user-supplied URL (L1)
+2026-11-10T13:18:10.380705Z,pm-sysd-w,0.1.0-a1,0,0,https://github.com/fm-elpac/pm-sysd-w,胖喵稳哒: Systemd style on Windows.
+2026-11-10T13:19:50.334026Z,jfrog-curation-malicious-dummy,1.0.0,0,0,,"Non-malicious inert Rust crate used to test JFrog package curation workflows. It has no install scripts, no network access, and no payload."
