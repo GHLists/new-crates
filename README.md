@@ -8,58 +8,56 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-10 22:20 UTC
+## Latest list — 2026-11-10 23:20 UTC
 
-New crates published between 2026-11-10 21:22 UTC and 2026-11-10 22:20 UTC.
+New crates published between 2026-11-10 22:20 UTC and 2026-11-10 23:20 UTC.
 
-[Full CSV](data/new-crates-2026-11-10T22-20-32-439055Z.csv)
+[Full CSV](data/new-crates-2026-11-10T23-20-14-736669Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-10 21:23:09 | [mercurioctl](https://crates.io/crates/mercurioctl) | 0.1.0 | 0 | Command-line administration for the Mercurio MQTT broker |
-| 2026-11-10 21:23:30 | [navree-billing](https://crates.io/crates/navree-billing) | 1.0.0 | 0 | Navree BillingModule: subscriptions, trials, seats, metered usage and invoices… |
-| 2026-11-10 21:23:34 | [lakehousebox](https://crates.io/crates/lakehousebox) | 0.0.1 | 0 | Reserved for LakehouseBox, the European-operated Apache Iceberg lakehouse for a… |
-| 2026-11-10 21:23:37 | [lhbox](https://crates.io/crates/lhbox) | 0.0.1 | 0 | Reserved for LakehouseBox, the European-operated Apache Iceberg lakehouse for a… |
-| 2026-11-10 21:29:19 | [aft-store](https://crates.io/crates/aft-store) | 0.64.0 | 0 | On-disk index formats for Agent File Tools |
-| 2026-11-10 21:33:31 | [navree-directory](https://crates.io/crates/navree-directory) | 1.0.0 | 0 | Navree DirectoryModule: a SCIM 2.0 server and directory pull connectors that sy… |
-| 2026-11-10 21:33:40 | [rex-iroh](https://crates.io/crates/rex-iroh) | 0.0.0 | 0 | Pre-release placeholder for rex-iroh, a sidecar that connects Rex clients and s… |
-| 2026-11-10 21:38:41 | [dato](https://crates.io/crates/dato) | 0.0.0 | 0 | Database Client TUI for SQLite |
-| 2026-11-10 21:39:23 | [mopr-macros](https://crates.io/crates/mopr-macros) | 0.0.131 | 0 | mopr 的过程宏: #[cron_cache] |
-| 2026-11-10 21:39:53 | [pixctl](https://crates.io/crates/pixctl) | 0.0.1 | 0 | Hermetic CLI that fits raster images for Markdown docs (PNG/WebP, display gate) |
-| 2026-11-10 21:39:59 | [tblctl](https://crates.io/crates/tblctl) | 0.0.1 | 0 | Hermetic CLI that converts and checks tables for Markdown docs (XLSX/DOCX/CSV) |
-| 2026-11-10 21:43:27 | [navree-helm](https://crates.io/crates/navree-helm) | 1.0.0 | 0 | Navree HelmModule: an admin panel generated from your navree-orm models, checke… |
-| 2026-11-10 21:46:46 | [mininter-macros](https://crates.io/crates/mininter-macros) | 0.1.1 | 0 | #[api] procedural macro, making api integrations with MinInter really easy |
-| 2026-11-10 21:47:36 | [cargo-rconfig](https://crates.io/crates/cargo-rconfig) | 0.1.0 | 0 | Cargo subcommand extending Rust's build system with declarative environment and… |
-| 2026-11-10 21:47:40 | [mininter](https://crates.io/crates/mininter) | 0.1.1 | 0 | A MiniScript compiler/interpreter, writen in pure rust, with easy to use API |
-| 2026-11-10 21:48:37 | [ordo-diff](https://crates.io/crates/ordo-diff) | 0.6.0 | 0 | Comprehension-optimized ordering of code-change hunks |
-| 2026-11-10 21:51:23 | [fat-toolkit-core](https://crates.io/crates/fat-toolkit-core) | 2.1.0 | 0 | Shared models and SQLite persistence for FAT |
-| 2026-11-10 21:51:36 | [fat-toolkit-family](https://crates.io/crates/fat-toolkit-family) | 2.1.0 | 0 | Signal-based device family classification for FAT |
-| 2026-11-10 21:51:41 | [fat-toolkit-package](https://crates.io/crates/fat-toolkit-package) | 2.1.0 | 0 | Firmware package and blob parsing helpers for FAT |
-| 2026-11-10 21:51:53 | [fat-toolkit-extract](https://crates.io/crates/fat-toolkit-extract) | 2.1.0 | 0 | Bounded firmware container and filesystem extraction for FAT |
-| 2026-11-10 21:52:20 | [fat-toolkit-plugin-api](https://crates.io/crates/fat-toolkit-plugin-api) | 2.1.0 | 0 | Plugin system type definitions for FAT |
-| 2026-11-10 21:53:28 | [navree-lighthouse](https://crates.io/crates/navree-lighthouse) | 1.0.0 | 0 | Navree LighthouseModule: application monitoring inside your app, with exception… |
-| 2026-11-10 21:54:07 | [axa-maud-templates](https://crates.io/crates/axa-maud-templates) | 0.1.0 | 0 | Maud compile-time HTML templates with safe escaping and generic errors for Axum… |
-| 2026-11-10 21:55:22 | [console-json](https://crates.io/crates/console-json) | 0.0.1 | 0 | A lightweight, terminal-aware JSON pretty printer for Rust, built on console-rs… |
-| 2026-11-10 21:55:48 | [lsdk](https://crates.io/crates/lsdk) | 0.0.0 | 0 | Rust SDK for hardware wallets speaking the BOLOS APDU protocol: HID/WebHID tran… |
-| 2026-11-10 21:56:13 | [mininter-shell](https://crates.io/crates/mininter-shell) | 0.1.1 | 0 | A standalone MiniScript runner/compiler/repl using MinInter |
-| 2026-11-10 21:57:43 | [rapidworkers](https://crates.io/crates/rapidworkers) | 0.1.0 | 0 | Official Rust SDK for RapidWorkers: hire real people for microtasks, app testin… |
-| 2026-11-10 21:57:46 | [rapidworkers-mcp](https://crates.io/crates/rapidworkers-mcp) | 0.1.0 | 0 | MCP server for RapidWorkers: let AI agents hire real people for AI data collect… |
-| 2026-11-10 22:00:08 | [once_type_map](https://crates.io/crates/once_type_map) | 0.1.0 | 0 | Thread-safe, insert-once type map that hands out plain references (no guards),… |
-| 2026-11-10 22:00:27 | [acquire](https://crates.io/crates/acquire) | 0.1.1 | 0 | Acquisition core for microscopes: event timing, hardware sequences, live view a… |
-| 2026-11-10 22:02:49 | [fat-toolkit-backend](https://crates.io/crates/fat-toolkit-backend) | 2.1.0 | 0 | Emulation backend abstraction and registry for FAT |
-| 2026-11-10 22:03:04 | [drift_rust](https://crates.io/crates/drift_rust) | 0.5.1 | 0 | Zero-dependency compile-once Rust test bridge for DRIFT |
-| 2026-11-10 22:03:30 | [navree-search](https://crates.io/crates/navree-search) | 1.0.0 | 0 | Navree SearchModule: full-text and vector search over models, on the database,… |
-| 2026-11-10 22:04:56 | [normfs-capi](https://crates.io/crates/normfs-capi) | 0.4.8 | 0 | C ABI for NormFS: a static library and normfs.h for C and C++ programs |
-| 2026-11-10 22:12:18 | [howdah](https://crates.io/crates/howdah) | 0.1.0 | 0 | Typed Postgres queries for Rust |
-| 2026-11-10 22:13:26 | [navree-sheets](https://crates.io/crates/navree-sheets) | 1.0.0 | 0 | Navree SheetsModule: CSV and Excel exports and import pipelines with header map… |
-| 2026-11-10 22:14:01 | [fat-toolkit-bootloader](https://crates.io/crates/fat-toolkit-bootloader) | 2.1.0 | 0 | Bootloader profile loading and boot-plan modeling for FAT |
-| 2026-11-10 22:16:52 | [ikigai-xrust](https://crates.io/crates/ikigai-xrust) | 2.3.0-ikigai.1 | 0 | xrust 2.3.0 with prefixed attribute values kept as written: support for XPath a… |
-| 2026-11-10 22:19:52 | [arqlet-model](https://crates.io/crates/arqlet-model) | 0.1.0 | 0 | Canonical graph identities, revisions, nested containers, ports and logical edg… |
-| 2026-11-10 22:19:52 | [arqlet-topology](https://crates.io/crates/arqlet-topology) | 0.1.0 | 0 | Planarity analysis and straight-line grid drawings for undirected graphs (A4b,… |
-| 2026-11-10 22:19:54 | [arqlet-elk](https://crates.io/crates/arqlet-elk) | 0.1.0 | 0 | Provisional adapter for graphs in the JSON form ELK uses (children, ports, edge… |
-| 2026-11-10 22:19:55 | [arqlet-routing](https://crates.io/crates/arqlet-routing) | 0.1.0 | 0 | Edge routing for Arqlet: orthogonal and polyline routes, ports and bundle membe… |
-| 2026-11-10 22:19:56 | [arqlet-scene](https://crates.io/crates/arqlet-scene) | 0.1.0 | 0 | Renderer-independent scene geometry, labels, metrics and spatial queries for Ar… |
-| 2026-11-10 22:20:01 | [externally-driven-async-rt](https://crates.io/crates/externally-driven-async-rt) | 0.1.0 | 0 | Async runtime that is meant to be embedded |
+| 2026-11-10 22:23:30 | [navree-domains](https://crates.io/crates/navree-domains) | 1.0.0 | 0 | Navree DomainsModule: workspaces on their own domains, verified through DNS, wi… |
+| 2026-11-10 22:24:35 | [rustyfarian-esp-hal-power](https://crates.io/crates/rustyfarian-esp-hal-power) | 0.3.0 | 0 | Bare-metal (esp-hal) battery monitoring, charging detection, and deep-sleep dri… |
+| 2026-11-10 22:24:42 | [crawler-user-agents](https://crates.io/crates/crawler-user-agents) | 1.0.1 | 0 | Detect crawlers and bots by User-Agent using the monperrus/crawler-user-agents… |
+| 2026-11-10 22:24:58 | [fat-toolkit-query](https://crates.io/crates/fat-toolkit-query) | 2.1.0 | 0 | Evidence IR and multi-adapter query engine for FAT |
+| 2026-11-10 22:30:02 | [threers-captions](https://crates.io/crates/threers-captions) | 0.0.12 | 0 | Timed-text tracks and cues with their style, SubRip and WebVTT parsing and writ… |
+| 2026-11-10 22:30:03 | [threers-math](https://crates.io/crates/threers-math) | 0.0.12 | 0 | The math under threers: vectors, matrices, quaternions, colours and colour scal… |
+| 2026-11-10 22:30:04 | [threers-audio](https://crates.io/crates/threers-audio) | 0.0.12 | 0 | Audio for threers scenes: three.js's Audio, AudioListener, PositionalAudio and… |
+| 2026-11-10 22:30:15 | [threers-video](https://crates.io/crates/threers-video) | 0.0.12 | 0 | Video for threers: export rendered frames to MP4, WebM, MOV, GIF and APNG with… |
+| 2026-11-10 22:33:31 | [navree](https://crates.io/crates/navree) | 1.0.0 | 0 | Navree, the complete application framework for Rust: the backend, the screens a… |
+| 2026-11-10 22:35:32 | [fat-toolkit-emulate](https://crates.io/crates/fat-toolkit-emulate) | 2.1.0 | 0 | Emulation orchestration (preflight, plan, session) for FAT |
+| 2026-11-10 22:36:35 | [arqlet-view](https://crates.io/crates/arqlet-view) | 0.1.0 | 0 | View projection, aggregation, drill-down and path cut-outs. |
+| 2026-11-10 22:40:33 | [jflib-style-netlab](https://crates.io/crates/jflib-style-netlab) | 0.1.0 | 0 | JFLib's NetLab style: sober grey surfaces, clear borders, compact (the look of… |
+| 2026-11-10 22:41:16 | [sitesquatch-plugin-elements](https://crates.io/crates/sitesquatch-plugin-elements) | 0.4.0 | 0 | Custom elements for SiteSquatch: a component's script loads only on the pages t… |
+| 2026-11-10 22:41:19 | [sitesquatch-plugin-redirects](https://crates.io/crates/sitesquatch-plugin-redirects) | 0.4.0 | 0 | Redirects for SiteSquatch: front matter aliases and a list of redirects, as pag… |
+| 2026-11-10 22:41:19 | [sitesquatch-plugin-sass](https://crates.io/crates/sitesquatch-plugin-sass) | 0.4.0 | 0 | Sass for SiteSquatch: compiles .scss and .sass files with grass |
+| 2026-11-10 22:41:19 | [sitesquatch-plugin-sitemap](https://crates.io/crates/sitesquatch-plugin-sitemap) | 0.4.0 | 0 | Sitemap for SiteSquatch: sitemap.xml from the pages a build writes |
+| 2026-11-10 22:41:44 | [arqlet-layout](https://crates.io/crates/arqlet-layout) | 0.1.0 | 0 | Hierarchical layout phases and constraints; independent of host and renderer. |
+| 2026-11-10 22:46:16 | [fat-toolkit-analyze](https://crates.io/crates/fat-toolkit-analyze) | 2.1.0 | 0 | Pluggable firmware analyzer engine and built-in analyzers for FAT |
+| 2026-11-10 22:47:22 | [shelly2esphome](https://crates.io/crates/shelly2esphome) | 0.1.3 | 0 | Flash a self-built ESPHome firmware onto Shelly Gen1 devices over the air |
+| 2026-11-10 22:51:56 | [arqlet-reference](https://crates.io/crates/arqlet-reference) | 0.1.0 | 0 | Curated diagram reference document: canonical JSON, SHA-256 identities and vali… |
+| 2026-11-10 22:56:50 | [rustle-ble](https://crates.io/crates/rustle-ble) | 0.1.0 | 0 | Dependency-free Bluetooth Low Energy stack for Linux hosts: raw-HCI scanning, a… |
+| 2026-11-10 22:56:57 | [esmorph-dict-es](https://crates.io/crates/esmorph-dict-es) | 0.1.0 | 0 | Spanish dictionary for the esMorph morphological analyzer, built from Wiktionar… |
+| 2026-11-10 22:56:59 | [esmorph](https://crates.io/crates/esmorph) | 0.1.0 | 0 | Fast Spanish morphological analyzer: lemmas, Universal Dependencies features an… |
+| 2026-11-10 22:58:34 | [rws-k8s](https://crates.io/crates/rws-k8s) | 18.35.0 | 0 | Kubernetes integration and operator framework of rust-web-server (kube). (inter… |
+| 2026-11-10 22:58:45 | [fat-toolkit-taint](https://crates.io/crates/fat-toolkit-taint) | 2.1.0 | 0 | Firmware-wide taint analysis via Ghidra decompile + Joern c2cpg |
+| 2026-11-10 23:01:30 | [rs-arrow-octets2pgcopy](https://crates.io/crates/rs-arrow-octets2pgcopy) | 0.1.0 | 0 | Writes the single-byte items in the array as pgcopy bytes |
+| 2026-11-10 23:02:23 | [arqlet-runtime](https://crates.io/crates/arqlet-runtime) | 0.1.0 | 0 | Arqlet engine runtime: JSON dispatcher, snapshots, revisioned patches, incremen… |
+| 2026-11-10 23:11:36 | [fat-toolkit-plugin-host](https://crates.io/crates/fat-toolkit-plugin-host) | 2.1.0 | 0 | Plugin discovery, orchestration, and dispatch for FAT |
+| 2026-11-10 23:11:44 | [lumen-cpu](https://crates.io/crates/lumen-cpu) | 0.1.0 | 0 | The portability layer: a trait for each kind of processor instruction LumenDB i… |
+| 2026-11-10 23:11:49 | [pcapfast](https://crates.io/crates/pcapfast) | 0.1.0 | 0 | Zero-copy multithreaded pcap/pcapng parser with flow extraction |
+| 2026-11-10 23:11:51 | [lumen-flashkv](https://crates.io/crates/lumen-flashkv) | 0.1.0 | 0 | High-performance LSM-tree KV store: LevelDB-style LSM+WAL, crash-safe pread rea… |
+| 2026-11-10 23:11:53 | [lumen-raft](https://crates.io/crates/lumen-raft) | 0.1.0 | 0 | Deterministic Raft consensus core (majority quorum), SWIM gossip membership, La… |
+| 2026-11-10 23:11:54 | [tsvdb](https://crates.io/crates/tsvdb) | 0.1.0 | 0 | Columnar time-series database on top of flashkv, inspired by InfluxDB v3: line… |
+| 2026-11-10 23:12:33 | [arqlet](https://crates.io/crates/arqlet) | 0.1.0 | 0 | Incremental graph-layout engine for nested graphs with ports: layered, tree, ra… |
+| 2026-11-10 23:13:13 | [clarity-formats](https://crates.io/crates/clarity-formats) | 0.1.0 | 0 | Clarity.Formats: the data formats of the programs Clarity generates (JSON first… |
+| 2026-11-10 23:14:20 | [clarity-graph](https://crates.io/crates/clarity-graph) | 0.1.0 | 0 | Clarity's graphs: nodes and edges read from lists of records or from the data m… |
+| 2026-11-10 23:18:14 | [monospace-core](https://crates.io/crates/monospace-core) | 0.1.0 | 0 | Core library for Monospace: parsing, layout and ASCII rendering of diagrams |
+| 2026-11-10 23:18:16 | [monospace-diagram](https://crates.io/crates/monospace-diagram) | 0.1.0 | 0 | The model that holds a diagram after it is drawn: shapes in an order, drawable |
+| 2026-11-10 23:18:16 | [monospace-glyph-sets](https://crates.io/crates/monospace-glyph-sets) | 0.1.0 | 0 | Glyph sets that monospace-core does not ship, such as ASCII |
+| 2026-11-10 23:18:17 | [monospace-description](https://crates.io/crates/monospace-description) | 0.1.0 | 0 | The diagram description format: JSON deserialized into a monospace_diagram::Dia… |
+| 2026-11-10 23:18:18 | [monospace-editing](https://crates.io/crates/monospace-editing) | 0.1.0 | 0 | The layer that holds a diagram while it is being changed: a session, the comman… |
+| 2026-11-10 23:20:05 | [polyhaven_dl](https://crates.io/crates/polyhaven_dl) | 0.1.0 | 0 | A CLI tool for downloading material files from PolyHaven and processing them in… |
 
 ## Data source
 
