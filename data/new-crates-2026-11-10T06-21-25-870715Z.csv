@@ -1,0 +1,64 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-10T05:21:41.640463Z,ls-logging,0.1.0,0,0,,Логи служб lightmaster в journald
+2026-11-10T05:22:28.142917Z,rightkit-dictation-runtime,0.1.0,0,0,https://github.com/bogusyogi/rightkit,"Dictation engine runtime: the JSON-RPC sidecar worker (recording, finalize, polish, delivery decisions), speech service, IPC, crash capture and engine paths for a push-to-talk dictation engine."
+2026-11-10T05:23:40.967836Z,oqs-native-mayo,0.16.0,0,0,https://github.com/DeveloperBeau/liboqs-rust,"MAYO, the oil and vinegar signature scheme, a native port of the MAYO algorithms of liboqs."
+2026-11-10T05:27:24.577379Z,aylis-web,0.1.0,0,0,https://github.com/e-rust/aylis,Renderizador do Aylis para navegadores: Canvas e TextService sobre o Canvas 2D
+2026-11-10T05:28:41.304764Z,bilingua-xml,0.9.1,0,0,https://github.com/patois-labs/bilingua,"Bilingua: generic XML with ITS 2.0 rules, and multilingual XML (the base for DITA, DocBook and other XML formats)"
+2026-11-10T05:30:47.898023Z,numpression,0.1.0,0,0,https://github.com/MatteoLacki/numpression,"MS-Numpress encoding and decoding (linear, pic, slof) for mass spectrometry data, in safe Rust"
+2026-11-10T05:30:57.020352Z,kan-core,0.0.1,0,0,https://github.com/specta-rs/kan,Core router library for Kan
+2026-11-10T05:31:08.731321Z,kan-macros,0.0.1,0,0,https://github.com/specta-rs/kan,Optional procedural macros for Kan
+2026-11-10T05:31:16.935785Z,kan-hot,0.0.1,0,0,https://github.com/specta-rs/kan,Development-time hot reloading for Kan routers
+2026-11-10T05:31:23.172966Z,kan-hot-dev,0.0.1,0,0,https://github.com/specta-rs/kan,Development runner for Kan hot reloading
+2026-11-10T05:31:31.841902Z,kan-cli,0.0.1,0,0,https://github.com/specta-rs/kan,Command-line entry point for Kan development
+2026-11-10T05:32:59.366056Z,rightkit-dictation-tauri,0.1.1,0,0,https://github.com/bogusyogi/rightkit,"Dictation runtime for a desktop shell: recording state machine over the engine sidecar, history sequencing, transcribe watchdog and start-sequence liveness, behind a host trait."
+2026-11-10T05:33:48.67722Z,oqs-native-ml-dsa,0.16.0,0,0,https://github.com/DeveloperBeau/liboqs-rust,"ML-DSA of FIPS 204, a native port of the ML-DSA algorithms of liboqs."
+2026-11-10T05:34:54.987718Z,psst-cli,0.1.1,0,0,https://github.com/evanpurkhiser/psst,"Short-lived, local sessions for 1Password item-sharing links"
+2026-11-10T05:37:26.938149Z,aylis-d2d,0.1.0,0,0,https://github.com/e-rust/aylis,"Renderizador do Aylis no Windows sem Skia: Direct2D (GPU) e DirectWrite, que já vêm no sistema"
+2026-11-10T05:38:41.210256Z,bilingua-xmlres,0.9.1,0,0,https://github.com/patois-labs/bilingua,Bilingua: Android strings.xml and Java XML properties (XML software resources sent as .xml)
+2026-11-10T05:43:36.926415Z,rightkit-evidence-application,0.1.0,0,0,https://github.com/bogusyogi/rightkit,"In-process evidence application: composes audit, orchestration, policy and report crates behind host-supplied catalog, report and run sources"
+2026-11-10T05:43:48.080695Z,tpt-doc-core,0.1.0,0,0,https://github.com/tpt-solutions/tpt-doc,"Shared traits, zero-copy buffer abstractions, and unified error types for the tpt-doc ecosystem"
+2026-11-10T05:43:55.361942Z,oqs-native-ml-kem,0.16.0,0,0,https://github.com/DeveloperBeau/liboqs-rust,"ML-KEM of FIPS 203, a native port of the ML-KEM algorithms of liboqs."
+2026-11-10T05:44:02.687604Z,tpt-doc-fhir,0.1.0,0,0,https://github.com/tpt-solutions/tpt-doc,"HL7 FHIR R5 typed parsing, validation, and serialization with compile-time resource validation"
+2026-11-10T05:44:09.549456Z,tpt-doc-hl7v2,0.1.0,0,0,https://github.com/tpt-solutions/tpt-doc,Streaming HL7 v2.x (pipe-delimited) message parser and encoder — zero allocation per segment
+2026-11-10T05:44:16.313304Z,tpt-doc-edi,0.1.0,0,0,https://github.com/tpt-solutions/tpt-doc,EDIFACT and X12 parsing with schema validation and zero-allocation segment streaming
+2026-11-10T05:44:26.32356Z,tpt-doc-ooxml,0.1.0,0,0,https://github.com/tpt-solutions/tpt-doc,Shared OOXML package handling (ZIP containers and XML parts) for the XLSX and DOCX crates
+2026-11-10T05:47:31.209582Z,aylis-platform-winit,0.1.0,0,0,https://github.com/e-rust/aylis,Plataforma do Aylis sobre winit: desktop e celular (Skia na CPU ou GPU) e navegador (Canvas 2D)
+2026-11-10T05:48:41.705924Z,bilingua-xslt,0.9.1,0,0,https://github.com/patois-labs/bilingua,"Bilingua: XSLT stylesheets (xsl, xslt) literal result text parser and byte-faithful writer"
+2026-11-10T05:52:07.066363Z,tpt-doc-pdf,0.1.0,0,0,https://github.com/tpt-solutions/tpt-doc,"Pure-Rust PDF 1.7/2.0 generation and parsing — no pdfium, no C-FFI"
+2026-11-10T05:54:03.15462Z,oqs-native-mqom,0.16.0,0,0,https://github.com/DeveloperBeau/liboqs-rust,"MQOM, the MQ on my Mind signature scheme, a native port of the MQOM algorithms of liboqs."
+2026-11-10T05:54:09.359993Z,rightkit-github,0.1.1,0,0,https://github.com/bogusyogi/rightkit,"GitHub App authority contracts, forge request specs, App state store, webhook verification, installation tokens and device-flow sign-in"
+2026-11-10T05:57:28.08349Z,aylis-vector,0.1.0,0,0,https://github.com/e-rust/aylis,"Desenhos vetoriais do Aylis: animações Lottie e imagens SVG, desenhadas pelo Canvas (Skia, Direct2D e navegador)"
+2026-11-10T05:58:40.844698Z,bilingua-xtg,0.9.1,0,0,https://github.com/patois-labs/bilingua,"Bilingua: QuarkXPress Tags (XPress Tags tagged text, .xtg and .tag) parser"
+2026-11-10T05:59:27.788837Z,frontierqa-core,0.1.0,0,0,https://github.com/FrontierQa/core,"Shared reporting engine for FrontierQA: parse JUnit XML and Playwright JSON, redact secrets, and emit frontierqa-report.json."
+2026-11-10T06:00:44.612587Z,frontierqa,0.1.0,0,0,https://github.com/FrontierQa/core,Standalone CLI for FrontierQA: normalize JUnit XML and Playwright JSON into frontierqa-report.json.
+2026-11-10T06:01:53.281213Z,tpt-doc-convert,0.1.0,0,0,https://github.com/tpt-solutions/tpt-doc,Format converters for tpt-doc: HL7 v2 ADT/ORU messages to FHIR R5 bundles
+2026-11-10T06:03:59.067968Z,zumen-base,0.2.0,0,0,https://github.com/zumen-jp/zumen,zumen の横断の部品: 診断・予算・中断の合図と、それらを運ぶ文脈
+2026-11-10T06:03:59.518555Z,zumen-geom2d,0.2.0,0,0,https://github.com/zumen-jp/zumen,zumen の 2D の幾何（L3）。曲線を許容差つきで折れ線にし、線種を線と間に展開する（決定 0018・0172）
+2026-11-10T06:03:59.870771Z,zumen-json,0.2.0,0,0,https://github.com/zumen-jp/zumen,zumen の API のメッセージの JSON: 厳しく読み、どの環境でも同じバイト列に書く
+2026-11-10T06:04:02.139967Z,zumen-building,0.2.0,0,0,https://github.com/zumen-jp/zumen,zumen の建物モデル（L2、決定 0207）。要素とコンポーネント、ID とハッシュ、配置の連鎖、関係の索引
+2026-11-10T06:04:02.510733Z,zumen-geom3d,0.2.0,0,0,https://github.com/zumen-jp/zumen,zumen の 3D の幾何。点・配置・メッシュと、形状表現を評価するカーネルと平面での切断の trait（決定 0018）
+2026-11-10T06:04:11.39093Z,oqs-native-ntru,0.16.0,0,0,https://github.com/DeveloperBeau/liboqs-rust,"NTRU, the NTRU-HPS and NTRU-HRSS key encapsulation mechanisms, a native port of the NTRU algorithms of liboqs."
+2026-11-10T06:04:57.680293Z,flyedge,0.4.0,0,0,https://github.com/compfly-ai/flyedge,"flyedge agent-protection SDK, wire-compatible with the prism/policy API gateway. Rust port of flyedge-go, sharing the SDK wire contract."
+2026-11-10T06:05:02.570784Z,rightkit-context,0.1.0,0,0,https://github.com/bogusyogi/rightkit,"Context, memory and repository-graph commands for coding agents: the membrane CLI, hook entry points and the resident a host app supervises."
+2026-11-10T06:07:30.814555Z,aylis-project,0.1.0,0,0,https://github.com/e-rust/aylis,"Projetos do Aylis: o .aylisproj, a pasta do projeto, a fábrica de forms, os recursos e a geração de código"
+2026-11-10T06:08:12.765239Z,xstate-core,0.1.0,0,0,https://github.com/basiltt/xstate-statemachine-rs,"XState v5 / SCXML statechart engine: machine model, JSON parser, sans-I/O step engine, sync interpreter, snapshots"
+2026-11-10T06:08:40.900582Z,bilingua-yaml,0.9.1,0,0,https://github.com/patois-labs/bilingua,"Bilingua: YAML filter (generic, Rails i18n and Symfony YAML; values edited in place)"
+2026-11-10T06:08:45.727004Z,xstate-macros,0.1.0,0,0,https://github.com/basiltt/xstate-statemachine-rs,Procedural macros for xstate-core: typed events and a statechart DSL checked at compile time
+2026-11-10T06:09:05.913476Z,xstate-tokio,0.1.0,0,0,https://github.com/basiltt/xstate-statemachine-rs,"Async (tokio) interpreter for xstate-core machines: mailbox, timers, invoked services and actors"
+2026-11-10T06:09:08.745169Z,ai_i18n_lang,0.1.0,0,0,https://github.com/aii18n/aii18n,ai_i18n_lang
+2026-11-10T06:09:29.102339Z,xstate-persistence,0.1.0,0,0,https://github.com/basiltt/xstate-statemachine-rs,"Stores, locks, durable timers, idempotency and audit log for xstate-core machines (Python-compatible snapshot layout v4)"
+2026-11-10T06:09:45.215507Z,xstate-testing,0.1.0,0,0,https://github.com/basiltt/xstate-statemachine-rs,"Test helpers for xstate-core machines: stub logic, simulated clock fixtures, path walking, statechart coverage"
+2026-11-10T06:09:59.534506Z,gogo-ui,0.1.0,0,0,https://github.com/nokola/gogo,"gogo: a declarative UI language for apps and games. Compiles .gogo pages to static data; takes touches, returns a draw list. Pure Rust, no dependencies."
+2026-11-10T06:10:01.657653Z,gogo-text,0.1.0,0,0,https://github.com/nokola/gogo,"Text for gogo UIs: shapes and measures text and rasterizes glyphs into two atlases (cosmic-text + swash). No GPU, no window."
+2026-11-10T06:10:03.548541Z,gogo-wgpu,0.1.0,0,0,https://github.com/nokola/gogo,Draws a gogo UI with wgpu: the draw list of gogo-ui and the glyphs of gogo-text as batches of quads in a render pass the host began. Owns no window and no device.
+2026-11-10T06:11:53.808368Z,tpt-doc-spreadsheet,0.1.0,0,0,https://github.com/tpt-solutions/tpt-doc,Streaming .xlsx (OOXML) and .csv parsing and generation without loading entire files into RAM
+2026-11-10T06:14:19.801599Z,oqs-native-ntru-prime,0.16.0,0,0,https://github.com/DeveloperBeau/liboqs-rust,"Streamlined NTRU Prime, the sntrup761 key encapsulation mechanism, a native port of the NTRU Prime algorithm of liboqs."
+2026-11-10T06:14:28.109507Z,pensive,0.1.0,0,0,https://github.com/inglettronald/Pensive,A review-first Git client.
+2026-11-10T06:14:53.016106Z,farmfe_ecosystem_glob,0.1.0,0,0,https://github.com/farm-fe/farm,Farm's scoped picomatch-derived matcher and import glob walker
+2026-11-10T06:15:11.287225Z,zumen-sdk,0.2.0,0,0,https://github.com/zumen-jp/zumen,zumen の形式を書くための部品: コーデックとファイルモデルの trait、形式の判定の規則、テストのツール
+2026-11-10T06:15:43.585007Z,rightkit-dictation-engine,0.1.0,0,0,https://github.com/bogusyogi/rightkit,"Dictation engine: the speech engine sidecar binary and library facade over the dictation runtime, inference, text pipeline and command host, with engine contract tests and fixtures."
+2026-11-10T06:17:26.420716Z,aylis-providers,0.1.0,0,0,https://github.com/e-rust/aylis,"Provedores do Aylis (código de barras, exportação CSV e XLSX, PDF, servidor de mapa) e os componentes que os usam"
+2026-11-10T06:17:45.249014Z,vba-rs,0.0.0,0,0,,Reserved.
+2026-11-10T06:18:41.135211Z,bilingua-zip,0.9.1,0,0,https://github.com/patois-labs/bilingua,"Bilingua: the safe zip reader and writer shared by the Office parsers (DOCX, XLSX, PPTX)."
+2026-11-10T06:19:22.475119Z,dmgez,0.0.0,0,0,,Reserved.
+2026-11-10T06:19:57.400956Z,dockhand,0.0.0,0,0,,Reserved.
