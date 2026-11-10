@@ -1,0 +1,65 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-10T10:20:20.947069Z,marketing,0.2.0,0,0,,Marketing formulas and customer lifetime models with reference tests
+2026-11-10T10:21:14.379408Z,xarray-rs,0.1.0,0,0,https://github.com/DaniilPak/xarray-rs,"Labelled N-dimensional arrays for Rust: named dimensions, coordinates and attributes, inspired by Python's xarray"
+2026-11-10T10:22:02.85859Z,bpmnkit-lint,0.2.0,0,0,https://github.com/bpmnkit/bpmnkit,"BPMN lint and optimize passes, bpmnlint config, DMN and Form lint for BPMN Kit (Rust twin of @bpmnkit/core's lint, optimize and bpmnlint)"
+2026-11-10T10:22:25.170861Z,bpmnkit-render,0.2.0,0,0,https://github.com/bpmnkit/bpmnkit,"BPMN, DRD and decision-table images for BPMN Kit: SVG byte-identical to @bpmnkit/core exportSvg, and PNG"
+2026-11-10T10:22:37.464195Z,zumen-photo,0.2.0,0,0,https://github.com/zumen-jp/zumen,zumen の工事写真（JPEG の Exif・XMP）の読み取り（#387）
+2026-11-10T10:22:48.531619Z,bpmnkit-text,0.2.0,0,0,https://github.com/bpmnkit/bpmnkit,"Text formats for BPMN Kit: BPMN and DMN compact JSON, the process line format and connector lines (Rust twin of @bpmnkit/core's compact.ts and process-text.ts)"
+2026-11-10T10:23:10.165454Z,bpmnkit-diff,0.2.0,0,0,https://github.com/bpmnkit/bpmnkit,"Semantic diff of BPMN models: field-level changes, layout-only moves, and a presentation-free semantic hash (Rust twin of @bpmnkit/core's diffBpmn)"
+2026-11-10T10:23:27.396193Z,bpmnkit,0.2.0,0,0,https://github.com/bpmnkit/bpmnkit,"BPMN Kit for Rust: BPMN, DMN, FEEL and Camunda forms (parse, serialize, evaluate, lint, lay out, build), one dependency with a cargo feature per bpmnkit-* crate"
+2026-11-10T10:23:28.341342Z,neutrino-obscura,1.0.0,0,0,https://github.com/Izyawastaken/neutrino,"Compact, checksummed GitHub repository ID codes"
+2026-11-10T10:23:32.41636Z,binary-options-tools-core-macros,0.2.17,0,0,https://gitlab.chipatrade.com/chipadevorg/BinaryOptionsTools-v2,Proc-macro utilities for binary-options-tools-core
+2026-11-10T10:24:53.940997Z,spacy-rs,0.1.0,0,0,https://github.com/DaniilPak/spacy-rs,"Industrial-strength NLP in pure Rust: a spaCy-compatible tokenizer, Doc/Token/Span, Matcher, PhraseMatcher, EntityRuler, lemmatizer and en_core_web_sm inference"
+2026-11-10T10:27:11.477858Z,gnap-conformance,0.1.0,0,0,https://github.com/davlgd/gnap,"Selected GNAP (RFC 9635, RFC 9767) checks of messages and servers, as a library and a command line"
+2026-11-10T10:27:23.830551Z,termtrace,0.1.0,0,0,https://github.com/zigai/termtrace,Native-Ghostty terminal recording and semantic debugging for humans and agents
+2026-11-10T10:28:41.596852Z,bilingua-cli,0.9.1,0,0,https://github.com/patois-labs/bilingua,"Bilingua command line: extract, merge, segment, wordcount and pseudo-translate source files"
+2026-11-10T10:30:07.885479Z,auric-moment-helpers,0.8.0,0,0,https://gitlab.com/megalithic-llc/auric-spa/auric.git,Moment helpers addon for the Ember-inspired Auric SPA framework
+2026-11-10T10:30:20.802939Z,auric-moment-helpers-build,0.8.0,0,0,https://gitlab.com/megalithic-llc/auric-spa/auric.git,Codegen for the Moment Helpers addon for the Ember-inspired Auric SPA framework
+2026-11-10T10:31:09.765018Z,auric-math-helpers,0.8.0,0,0,https://gitlab.com/megalithic-llc/auric-spa/auric.git,Math helpers addon for the Ember-inspired Auric SPA framework
+2026-11-10T10:31:16.157694Z,auric-math-helpers-build,0.8.0,0,0,https://gitlab.com/megalithic-llc/auric-spa/auric.git,Codegen for the Math Helpers addon for the Ember-inspired Auric SPA framework
+2026-11-10T10:31:47.100506Z,auric-power-select,0.8.0,0,0,https://gitlab.com/megalithic-llc/auric-spa/auric.git,Power Select addon for the Ember-inspired Auric SPA framework
+2026-11-10T10:33:54.825008Z,zumen-sxf,0.2.0,0,0,https://github.com/zumen-jp/zumen,zumen の SXF（SFC・P21）のファイルモデル（L1）と、そのコーデック
+2026-11-10T10:36:08.967575Z,auric-power-select-build,0.8.0,0,0,https://gitlab.com/megalithic-llc/auric-spa/auric.git,Codegen for the Power Select addon for the Ember-inspired Auric SPA framework
+2026-11-10T10:37:34.618225Z,dprint-plugin-lisette,0.1.1,0,0,https://github.com/balthild/dprint-plugin-lisette,Lisette formatter plugin for dprint.
+2026-11-10T10:38:06.309191Z,haze,0.3.0,0,0,https://github.com/spectrvm1337/Haze-blur,Rounded-corner backdrop blur for Windows 10 windows (HostBackdropBrush + geometric clip)
+2026-11-10T10:38:20.867647Z,tddlog,0.1.1,0,0,https://github.com/Tractables/tddlog,Exact probabilistic inference by compilation into tree decision diagrams
+2026-11-10T10:40:07.305498Z,remarkable-metadata,0.1.0,0,0,https://github.com/citizen-stig/remarkable-tablet-cli-rs,Parse reMarkable tablet .metadata/.content JSON and build a logical document tree.
+2026-11-10T10:40:08.50037Z,remarkable-rm,0.1.0,0,0,https://github.com/citizen-stig/remarkable-tablet-cli-rs,Parser and renderer for reMarkable .rm notebook page files (Phase 4 — work in progress).
+2026-11-10T10:40:10.090236Z,tauri-plugin-haze,0.1.0,0,0,https://github.com/spectrvm1337/Haze-blur,"Rounded backdrop blur for Tauri 2 windows on Windows 10, controlled from JavaScript"
+2026-11-10T10:40:10.779924Z,remarkable-tablet,0.1.0,0,0,https://github.com/citizen-stig/remarkable-tablet-cli-rs,SSH/SFTP client and high-level filesystem operations for the reMarkable tablet.
+2026-11-10T10:40:13.003724Z,remarkable-cli,0.1.0,0,0,https://github.com/citizen-stig/remarkable-tablet-cli-rs,"Command-line tool for browsing, backing up, and managing files on a reMarkable tablet."
+2026-11-10T10:43:11.395222Z,navree-bounded,1.0.0,0,0,https://github.com/NavreeHQ/navree,"Navree's bounded in-process cache: sharded locks, a strict capacity, SIEVE eviction, TTL and TTI, and single-flight loading."
+2026-11-10T10:43:15.531042Z,navree-dock,1.0.0,0,0,https://github.com/NavreeHQ/navree,"Navree Dock: local development services (PostgreSQL, Redis, Meilisearch, Mailpit, MinIO, NATS) from dock.toml, run with docker compose."
+2026-11-10T10:43:19.403336Z,navree-glob,1.0.0,0,0,https://github.com/NavreeHQ/navree,"Navree's glob matcher: `*` and `?` over whole strings, in time proportional to the pattern times the input."
+2026-11-10T10:43:23.323322Z,navree-i18n-macros,1.0.0,0,0,https://github.com/NavreeHQ/navree,"Navree localization macros: embed_locales! embeds a directory of Fluent files in the binary, checking their syntax at compile time."
+2026-11-10T10:43:28.245416Z,navree-kernel,1.0.0,0,0,https://github.com/NavreeHQ/navree,"Navree kernel: module graph, type-keyed DI container, lifecycle and command runner."
+2026-11-10T10:44:40.887643Z,auric-string-helpers,0.8.0,0,0,https://gitlab.com/megalithic-llc/auric-spa/auric.git,String helpers addon for the Ember-inspired Auric SPA framework
+2026-11-10T10:44:47.099831Z,omlx-top,0.1.1,0,0,https://github.com/athoune/omlx-top,Read-only macOS terminal monitor for oMLX resource usage
+2026-11-10T10:45:10.454843Z,zumen-xyz,0.2.0,0,0,https://github.com/zumen-jp/zumen,zumen の XYZ（座標を並べた点群のテキスト）の読み取りと、点群の領域モデルへの移し（#373）
+2026-11-10T10:45:10.92435Z,zumen-zip,0.2.0,0,0,https://github.com/zumen-jp/zumen,zumen の ZIP の L0（決定 0210）。中央ディレクトリを読み、stored と deflate の項目を展開する
+2026-11-10T10:47:53.647007Z,cvd-policy,0.1.1,0,0,https://github.com/cvd-policy/cvd-policy-rs,Deterministic Rust library for validating and evaluating CVD Policy documents.
+2026-11-10T10:49:22.999428Z,iceoryx2-customization-ffi-service-types,0.0.1,0,0,https://github.com/eclipse-iceoryx/iceoryx2,iceoryx2 customization for FFI service types
+2026-11-10T10:52:49.010532Z,reifydb-workspace-hack,0.10.2,0,0,https://github.com/reifydb/reifydb,"workspace-hack package, managed by hakari"
+2026-11-10T10:53:23.19832Z,navree-markdown,1.0.0,0,0,https://github.com/NavreeHQ/navree,"Navree's Markdown reader: CommonMark read into events with no raw HTML, no script link and no unbounded document."
+2026-11-10T10:56:28.148528Z,zumen-bcf,0.2.0,0,0,https://github.com/zumen-jp/zumen,zumen の BCF: BCF 2.1・3.0 の bcfzip を読み書きし、レビューの文書の指摘と 3D の場所に写す（決定 0214・0220・0248）
+2026-11-10T11:02:53.552973Z,elab-core,0.1.0,0,0,https://github.com/adi0x90/elab,"Core experiment spec, phased runner, evidence, and value encoding for elab."
+2026-11-10T11:03:13.971548Z,elab-gdb,0.1.0,0,0,https://github.com/adi0x90/elab,GDB/MI transport for elab.
+2026-11-10T11:03:22.438928Z,navree-orm-macros,1.0.0,0,0,https://github.com/NavreeHQ/navree,"Navree ORM macros: #[derive(Model)], #[scopes] and #[test] (re-exported by navree-orm)."
+2026-11-10T11:03:22.581107Z,elab-serial,0.1.0,0,0,https://github.com/adi0x90/elab,Serial transport and witness matching for elab.
+2026-11-10T11:04:42.422501Z,vix-matrix-protocol,2.0.2,0,0,https://github.com/vixide/vix,"Matrix bridge for Vix IM: the JSON-lines protocol spoken with the vix-matrix helper, and an optional thread that starts and pumps the helper."
+2026-11-10T11:05:04.206344Z,elab-probe,0.1.0,0,0,https://github.com/adi0x90/elab,probe-rs transport for elab.
+2026-11-10T11:05:18.72204Z,auric-string-helpers-build,0.8.0,0,0,https://gitlab.com/megalithic-llc/auric-spa/auric.git,Codegen for the String Helpers addon for the Ember-inspired Auric SPA framework
+2026-11-10T11:05:25.342824Z,elab,0.1.0,0,0,https://github.com/adi0x90/elab,"Phased experiments against embedded targets: GDB/MI, probe-rs, serial, and JSONL evidence."
+2026-11-10T11:06:11.873288Z,vix-matrix,2.0.2,0,0,https://github.com/vixide/vix,"The Matrix helper for the Vix editor's IM: a matrix-sdk client with an encrypted SQLite store and end-to-end encryption, driven by Vix over JSON lines on stdin and stdout."
+2026-11-10T11:07:13.711006Z,reifydb-rql-frontend,0.10.2,0,0,https://github.com/reifydb/reifydb,Frontend of ReifyDB Query Language (RQL)
+2026-11-10T11:07:44.106933Z,zumen-delivery,0.2.0,0,0,https://github.com/zumen-jp/zumen,zumen の電子納品の成果品（フォルダー・管理ファイル）の読み取り（決定 0241、#383）
+2026-11-10T11:12:22.301253Z,cargo-keepcrafting-companion,0.7.0,0,0,https://github.com/ObenStudios/keepcrafting-companion-plugin-sdk-rs,Cargo subcommands for previewing KeepCrafting companion app WASM plugins
+2026-11-10T11:13:23.862797Z,navree-pdf,1.0.0,0,0,https://github.com/NavreeHQ/navree,"Navree's PDF object layer: a reader held to a memory and work budget, a writer, and text extraction in reading order."
+2026-11-10T11:14:06.564162Z,keepcrafting-companion-plugin-delta-assembler-slots,0.1.0,0,0,https://github.com/ObenStudios/keepcrafting-companion-plugins,Deterministic Delta Assembler slot images for Jinja
+2026-11-10T11:14:10.684719Z,keres,0.5.0,0,0,https://github.com/Keres-rs/keres,"A memory-safe, high-performance Rust library for modern file encryption and secure vaults."
+2026-11-10T11:14:27.985423Z,keres-cli,0.5.0,0,0,https://github.com/Keres-rs/keres,CLI for keres: encrypted vaults and single-file encryption with metadata protection
+2026-11-10T11:15:33.154057Z,xtalforge-agent,1.0.0-rc.1,0,0,https://github.com/jigonzalez930209/xtalforge,"Agent session, verbs, diagnostics and MCP server for xtalforge."
+2026-11-10T11:16:27.514679Z,tjik-desktop,0.1.0,0,0,https://github.com/tijptjik/tjikos,Toolkit-independent desktop state and action contracts with compositor adapters
+2026-11-10T11:16:31.344405Z,tjik-gtk,0.1.0,0,0,https://github.com/tijptjik/tjikos,Reusable GTK4 desktop presentation primitives with bounded image loading
+2026-11-10T11:17:01.429167Z,gnap,0.1.0,0,0,https://github.com/davlgd/gnap,"GNAP (RFC 9635, RFC 9767) in one dependency: the gnap-* crates, re-exported behind a feature per role"
+2026-11-10T11:19:03.046136Z,zumen-fgd,0.2.0,0,0,https://github.com/zumen-jp/zumen,zumen の基盤地図情報（GML）の読み取りと、地理の領域モデルへの移し（#378）

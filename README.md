@@ -8,81 +8,78 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-10 10:20 UTC
+## Latest list — 2026-11-10 11:19 UTC
 
-New crates published between 2026-11-10 09:20 UTC and 2026-11-10 10:20 UTC.
+New crates published between 2026-11-10 10:20 UTC and 2026-11-10 11:19 UTC.
 
-[Full CSV](data/new-crates-2026-11-10T10-20-04-033643Z.csv)
+[Full CSV](data/new-crates-2026-11-10T11-19-47-162394Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-10 09:21:11 | [einvoice-bigint](https://crates.io/crates/einvoice-bigint) | 0.3.0 | 0 | Arbitrary-precision signed integers in safe Rust, without dependencies and with… |
-| 2026-11-10 09:21:12 | [einvoice-pdf](https://crates.io/crates/einvoice-pdf) | 0.3.0 | 0 | Extract the embedded e-invoice XML and its XMP metadata from Factur-X, ZUGFeRD… |
-| 2026-11-10 09:21:14 | [einvoice-xml](https://crates.io/crates/einvoice-xml) | 0.3.0 | 0 | A streaming (pull) XML 1.0 parser with namespace resolution, zero-copy where it… |
-| 2026-11-10 09:21:29 | [einvoice-schematron](https://crates.io/crates/einvoice-schematron) | 0.3.0 | 0 | Schematron compiled to XSLT as ph-schematron 10.3.1 writes it, byte for byte, i… |
-| 2026-11-10 09:26:17 | [zumen-xml](https://crates.io/crates/zumen-xml) | 0.2.0 | 0 | zumen の XML の L0（決定 0209）。要素・属性・文字と名前空間を、元のバイト範囲で読む |
-| 2026-11-10 09:26:51 | [gnap-net](https://crates.io/crates/gnap-net) | 0.1.0 | 0 | Conservative network address policies for GNAP example applications |
-| 2026-11-10 09:26:51 | [gnap-registry](https://crates.io/crates/gnap-registry) | 0.1.0 | 0 | IANA registries for the GNAP protocol (RFC 9635, RFC 9767), generated from the… |
-| 2026-11-10 09:26:54 | [gnap-types](https://crates.io/crates/gnap-types) | 0.1.0 | 0 | Data model for the GNAP protocol (RFC 9635, RFC 9767): serialization, polymorph… |
-| 2026-11-10 09:26:56 | [gnap-core](https://crates.io/crates/gnap-core) | 0.1.0 | 0 | The GNAP grant state machine (RFC 9635 §1.5), pure and free of I/O |
-| 2026-11-10 09:26:57 | [gnap-crypto](https://crates.io/crates/gnap-crypto) | 0.1.0 | 0 | Key proofing and interaction hashing for GNAP (RFC 9635) |
-| 2026-11-10 09:28:40 | [bilingua-sdl](https://crates.io/crates/bilingua-sdl) | 0.9.1 | 0 | Bilingua: Trados project and return packages (SDLPPX, SDLRPX) and memoQ package… |
-| 2026-11-10 09:29:24 | [flatmarkdown-ast2html](https://crates.io/crates/flatmarkdown-ast2html) | 0.6.0 | 0 | Renders the Flat Markdown AST to HTML, without a Markdown parser |
-| 2026-11-10 09:29:56 | [vowp-protocol](https://crates.io/crates/vowp-protocol) | 0.1.0 | 0 | VOWP protocol types for events, capsules, jobs, gates, profiles and configurati… |
-| 2026-11-10 09:30:11 | [vowp-store](https://crates.io/crates/vowp-store) | 0.1.0 | 0 | SQLite storage, JSONL logs and blobs for VOWP. |
-| 2026-11-10 09:30:21 | [vowp-graph](https://crates.io/crates/vowp-graph) | 0.1.0 | 0 | Deterministic job graph, state machine, ownership and scheduling for VOWP. |
-| 2026-11-10 09:30:26 | [vowp-tmux](https://crates.io/crates/vowp-tmux) | 0.1.0 | 0 | Safe tmux window management for VOWP job sessions. |
-| 2026-11-10 09:30:31 | [vowp-adapters](https://crates.io/crates/vowp-adapters) | 0.1.0 | 0 | Claude Code, opencode and generic CLI harness adapters for VOWP. |
-| 2026-11-10 09:34:01 | [exprim](https://crates.io/crates/exprim) | 0.4.0 | 0 | A concurrent, memory-bounded PDF reader and renderer: parse, extract text, and… |
-| 2026-11-10 09:37:13 | [gnap-subject](https://crates.io/crates/gnap-subject) | 0.1.0 | 0 | Signed subject assertions for GNAP |
-| 2026-11-10 09:37:34 | [zumen-citygml](https://crates.io/crates/zumen-citygml) | 0.2.0 | 0 | zumen の CityGML 2.0（PLATEAU の 3D 都市モデルと i-UR を含む）の読み取りと、地理の領域モデルへの移し（#379） |
-| 2026-11-10 09:38:41 | [bilingua-xlsx](https://crates.io/crates/bilingua-xlsx) | 0.9.1 | 0 | Bilingua: Excel (XLSX) parser. Extracts cell text and writes the translation ba… |
-| 2026-11-10 09:41:12 | [vowp-core](https://crates.io/crates/vowp-core) | 0.1.0 | 0 | VOWP supervisor core: loops, gates, ledger, schedules, sessions and promotion. |
-| 2026-11-10 09:45:31 | [aixand-undercurrent-foundation](https://crates.io/crates/aixand-undercurrent-foundation) | 0.1.0-beta | 0 | Shared bounded value, digest, and privacy primitives for Undercurrent |
-| 2026-11-10 09:45:31 | [aixand-undercurrent-platform-windows](https://crates.io/crates/aixand-undercurrent-platform-windows) | 0.1.0-beta | 0 | Native Windows process, terminal, and IPC primitives for Undercurrent |
-| 2026-11-10 09:45:32 | [aixand-undercurrent-protocol](https://crates.io/crates/aixand-undercurrent-protocol) | 0.1.0-beta | 0 | Typed product requests, responses, and events for Undercurrent |
-| 2026-11-10 09:45:32 | [aixand-undercurrent-wire](https://crates.io/crates/aixand-undercurrent-wire) | 0.1.0-beta | 0 | Bounded framing and handshake codecs for Undercurrent |
-| 2026-11-10 09:45:33 | [aixand-undercurrent-multiplex](https://crates.io/crates/aixand-undercurrent-multiplex) | 0.1.0-beta | 0 | Bounded stream multiplexing and scheduling for Undercurrent |
-| 2026-11-10 09:45:50 | [termtrace-engine](https://crates.io/crates/termtrace-engine) | 0.1.0 | 0 | PTY recording, terminal replay, and observation for Termtrace |
-| 2026-11-10 09:45:52 | [termtrace-render](https://crates.io/crates/termtrace-render) | 0.1.0 | 0 | Deterministic semantic terminal rendering for Termtrace |
-| 2026-11-10 09:45:53 | [termtrace-tmux](https://crates.io/crates/termtrace-tmux) | 0.1.0 | 0 | Aggregate tmux recording: typed lifecycle events, a pure reducer, and its own j… |
-| 2026-11-10 09:45:53 | [termtrace-media](https://crates.io/crates/termtrace-media) | 0.1.0 | 0 | Native terminal capture and media production for Termtrace |
-| 2026-11-10 09:45:54 | [termtrace-export](https://crates.io/crates/termtrace-export) | 0.1.0 | 0 | Verifiable terminal evidence exports for Termtrace |
-| 2026-11-10 09:47:08 | [gnap-client](https://crates.io/crates/gnap-client) | 0.1.0 | 0 | The GNAP client instance role (RFC 9635), over a pluggable HTTP transport |
-| 2026-11-10 09:47:20 | [degenview-journal](https://crates.io/crates/degenview-journal) | 0.1.0 | 0 | A provider-independent trading journal for DegenView: executions, flat-to-flat… |
-| 2026-11-10 09:48:40 | [bilingua-email](https://crates.io/crates/bilingua-email) | 0.9.1 | 0 | Bilingua: email message (eml) filter |
-| 2026-11-10 09:48:48 | [zumen-geology](https://crates.io/crates/zumen-geology) | 0.2.0 | 0 | zumen の地質・土質調査の成果（ボーリング交換用データ）の読み取り（#390） |
-| 2026-11-10 09:51:32 | [vix-egui](https://crates.io/crates/vix-egui) | 2.0.2 | 0 | Vix desktop GUI on egui (eframe): the full Vix App in a native window. |
-| 2026-11-10 09:51:40 | [vix-gpui](https://crates.io/crates/vix-gpui) | 2.0.2 | 0 | Vix desktop GUI on GPUI (GPUI Kit): the full Vix App in a native GPU-rendered w… |
-| 2026-11-10 09:51:47 | [vix-iced](https://crates.io/crates/vix-iced) | 2.0.2 | 0 | Vix desktop GUI on iced: the full Vix App in a native window. |
-| 2026-11-10 09:51:51 | [vix-gtk4](https://crates.io/crates/vix-gtk4) | 2.0.2 | 0 | Vix desktop GUI on GTK 4 (gtk4-rs): the full Vix App in a native window. |
-| 2026-11-10 09:51:54 | [vix-slint](https://crates.io/crates/vix-slint) | 2.0.2 | 0 | Vix desktop GUI on Slint: the full Vix App in a native window. |
-| 2026-11-10 09:56:32 | [termtrace-schema](https://crates.io/crates/termtrace-schema) | 0.1.0 | 0 | JSON Schema catalog for Termtrace public contracts |
-| 2026-11-10 09:56:34 | [termtrace-service](https://crates.io/crates/termtrace-service) | 0.1.0 | 0 | Reusable application services and orchestration for Termtrace |
-| 2026-11-10 09:56:43 | [vowp-cli](https://crates.io/crates/vowp-cli) | 0.1.0 | 0 | The VOWP command-line interface and `vowp` binary. |
-| 2026-11-10 09:57:09 | [gnap-as](https://crates.io/crates/gnap-as) | 0.1.0 | 0 | The GNAP authorization server role (RFC 9635), free of any HTTP framework |
-| 2026-11-10 09:58:33 | [incular-web](https://crates.io/crates/incular-web) | 0.1.1 | 0 | Browser (wasm32) entry for Incular over the shared Winit host |
-| 2026-11-10 09:58:41 | [bilingua-epub](https://crates.io/crates/bilingua-epub) | 0.9.1 | 0 | Bilingua: EPUB 2 and EPUB 3 publication filter (OPF metadata, XHTML chapters in… |
-| 2026-11-10 09:59:31 | [pg-walparser](https://crates.io/crates/pg-walparser) | 0.1.0 | 0 | PostgreSQL WAL (XLOG) record parser, no_std + alloc |
-| 2026-11-10 10:00:01 | [zumen-ids](https://crates.io/crates/zumen-ids) | 0.2.0 | 0 | zumen の IDS（Information Delivery Specification）の読み取りと、建物モデルでの照合（決定 0207・0217） |
-| 2026-11-10 10:02:05 | [vix-bui](https://crates.io/crates/vix-bui) | 2.0.2 | 0 | Vix desktop GUI on BUI (Blender's UI as a library): the full Vix App in a nativ… |
-| 2026-11-10 10:03:07 | [ipcell](https://crates.io/crates/ipcell) | 0.1.0-alpha.1 | 0 | IP -> value lookup file format (IPCELL01 v2): builder plus mem/mmap/file readers |
-| 2026-11-10 10:03:59 | [juiz_pkg](https://crates.io/crates/juiz_pkg) | 0.2.6 | 0 | Skeleton generator for juiz packages: juiz pkg create / juiz-pkg. |
-| 2026-11-10 10:04:08 | [aixand-undercurrent-transport-core](https://crates.io/crates/aixand-undercurrent-transport-core) | 0.1.0-beta | 0 | Transport session and delivery engine for Undercurrent |
-| 2026-11-10 10:04:10 | [aixand-undercurrent-transport-local](https://crates.io/crates/aixand-undercurrent-transport-local) | 0.1.0-beta | 0 | Authenticated local IPC transport for Undercurrent |
-| 2026-11-10 10:04:18 | [degenview-brokers](https://crates.io/crates/degenview-brokers) | 0.1.0 | 0 | A venue-neutral trading model and broker adapters for DegenView, with Coinbase… |
-| 2026-11-10 10:06:55 | [termtrace-scenario](https://crates.io/crates/termtrace-scenario) | 0.1.0 | 0 | Strict evidence-native terminal scenario test runner for Termtrace |
-| 2026-11-10 10:07:09 | [gnap-rs](https://crates.io/crates/gnap-rs) | 0.1.0 | 0 | GNAP resource-request authorization using authenticated opaque-token introspect… |
-| 2026-11-10 10:08:41 | [bilingua-flare](https://crates.io/crates/bilingua-flare) | 0.9.1 | 0 | Bilingua: MadCap Flare project filter (flprjzip: XHTML topics and snippets, var… |
-| 2026-11-10 10:08:54 | [aixand-undercurrent](https://crates.io/crates/aixand-undercurrent) | 0.1.0-beta | 0 | Rust client SDK for the local Undercurrent runtime |
-| 2026-11-10 10:09:48 | [ogc-client](https://crates.io/crates/ogc-client) | 0.1.0 | 0 | Client for OGC web services: WMS, WMTS, WFS, CSW and OGC API Features/Records/T… |
-| 2026-11-10 10:11:03 | [librosa-rs](https://crates.io/crates/librosa-rs) | 0.1.0 | 0 | Pure-Rust audio and music analysis whose numbers match Python's librosa: STFT,… |
-| 2026-11-10 10:11:13 | [gpio-zero](https://crates.io/crates/gpio-zero) | 0.1.0 | 0 | A simple, high-level device API for Raspberry Pi and other Linux GPIO boards (L… |
-| 2026-11-10 10:11:17 | [zumen-landxml](https://crates.io/crates/zumen-landxml) | 0.2.0 | 0 | zumen の J-LandXML（LandXML 1.2 に準じた 3 次元設計データ交換標準）の読み取りと、土木の領域モデルへの移し（#368） |
-| 2026-11-10 10:16:56 | [emeans](https://crates.io/crates/emeans) | 0.1.0 | 0 | e-means clustering in Rust, a port of the CPU version from faiss/contrib/e_means |
-| 2026-11-10 10:17:09 | [termtrace-sdk](https://crates.io/crates/termtrace-sdk) | 0.1.0 | 0 | Typed Rust client for Termtrace, with optional in-process replay and media |
-| 2026-11-10 10:17:10 | [gnap-biscuit](https://crates.io/crates/gnap-biscuit) | 0.1.0 | 0 | A bounded, proof-bound Biscuit profile for GNAP file access |
-| 2026-11-10 10:18:41 | [bilingua](https://crates.io/crates/bilingua) | 0.9.1 | 0 | Bilingua: open, segment and rebuild source files for translation (facade over t… |
+| 2026-11-10 10:20:20 | [marketing](https://crates.io/crates/marketing) | 0.2.0 | 0 | Marketing formulas and customer lifetime models with reference tests |
+| 2026-11-10 10:21:14 | [xarray-rs](https://crates.io/crates/xarray-rs) | 0.1.0 | 0 | Labelled N-dimensional arrays for Rust: named dimensions, coordinates and attri… |
+| 2026-11-10 10:22:02 | [bpmnkit-lint](https://crates.io/crates/bpmnkit-lint) | 0.2.0 | 0 | BPMN lint and optimize passes, bpmnlint config, DMN and Form lint for BPMN Kit… |
+| 2026-11-10 10:22:25 | [bpmnkit-render](https://crates.io/crates/bpmnkit-render) | 0.2.0 | 0 | BPMN, DRD and decision-table images for BPMN Kit: SVG byte-identical to @bpmnki… |
+| 2026-11-10 10:22:37 | [zumen-photo](https://crates.io/crates/zumen-photo) | 0.2.0 | 0 | zumen の工事写真（JPEG の Exif・XMP）の読み取り（#387） |
+| 2026-11-10 10:22:48 | [bpmnkit-text](https://crates.io/crates/bpmnkit-text) | 0.2.0 | 0 | Text formats for BPMN Kit: BPMN and DMN compact JSON, the process line format a… |
+| 2026-11-10 10:23:10 | [bpmnkit-diff](https://crates.io/crates/bpmnkit-diff) | 0.2.0 | 0 | Semantic diff of BPMN models: field-level changes, layout-only moves, and a pre… |
+| 2026-11-10 10:23:27 | [bpmnkit](https://crates.io/crates/bpmnkit) | 0.2.0 | 0 | BPMN Kit for Rust: BPMN, DMN, FEEL and Camunda forms (parse, serialize, evaluat… |
+| 2026-11-10 10:23:28 | [neutrino-obscura](https://crates.io/crates/neutrino-obscura) | 1.0.0 | 0 | Compact, checksummed GitHub repository ID codes |
+| 2026-11-10 10:23:32 | [binary-options-tools-core-macros](https://crates.io/crates/binary-options-tools-core-macros) | 0.2.17 | 0 | Proc-macro utilities for binary-options-tools-core |
+| 2026-11-10 10:24:53 | [spacy-rs](https://crates.io/crates/spacy-rs) | 0.1.0 | 0 | Industrial-strength NLP in pure Rust: a spaCy-compatible tokenizer, Doc/Token/S… |
+| 2026-11-10 10:27:11 | [gnap-conformance](https://crates.io/crates/gnap-conformance) | 0.1.0 | 0 | Selected GNAP (RFC 9635, RFC 9767) checks of messages and servers, as a library… |
+| 2026-11-10 10:27:23 | [termtrace](https://crates.io/crates/termtrace) | 0.1.0 | 0 | Native-Ghostty terminal recording and semantic debugging for humans and agents |
+| 2026-11-10 10:28:41 | [bilingua-cli](https://crates.io/crates/bilingua-cli) | 0.9.1 | 0 | Bilingua command line: extract, merge, segment, wordcount and pseudo-translate… |
+| 2026-11-10 10:30:07 | [auric-moment-helpers](https://crates.io/crates/auric-moment-helpers) | 0.8.0 | 0 | Moment helpers addon for the Ember-inspired Auric SPA framework |
+| 2026-11-10 10:30:20 | [auric-moment-helpers-build](https://crates.io/crates/auric-moment-helpers-build) | 0.8.0 | 0 | Codegen for the Moment Helpers addon for the Ember-inspired Auric SPA framework |
+| 2026-11-10 10:31:09 | [auric-math-helpers](https://crates.io/crates/auric-math-helpers) | 0.8.0 | 0 | Math helpers addon for the Ember-inspired Auric SPA framework |
+| 2026-11-10 10:31:16 | [auric-math-helpers-build](https://crates.io/crates/auric-math-helpers-build) | 0.8.0 | 0 | Codegen for the Math Helpers addon for the Ember-inspired Auric SPA framework |
+| 2026-11-10 10:31:47 | [auric-power-select](https://crates.io/crates/auric-power-select) | 0.8.0 | 0 | Power Select addon for the Ember-inspired Auric SPA framework |
+| 2026-11-10 10:33:54 | [zumen-sxf](https://crates.io/crates/zumen-sxf) | 0.2.0 | 0 | zumen の SXF（SFC・P21）のファイルモデル（L1）と、そのコーデック |
+| 2026-11-10 10:36:08 | [auric-power-select-build](https://crates.io/crates/auric-power-select-build) | 0.8.0 | 0 | Codegen for the Power Select addon for the Ember-inspired Auric SPA framework |
+| 2026-11-10 10:37:34 | [dprint-plugin-lisette](https://crates.io/crates/dprint-plugin-lisette) | 0.1.1 | 0 | Lisette formatter plugin for dprint. |
+| 2026-11-10 10:38:06 | [haze](https://crates.io/crates/haze) | 0.3.0 | 0 | Rounded-corner backdrop blur for Windows 10 windows (HostBackdropBrush + geomet… |
+| 2026-11-10 10:38:20 | [tddlog](https://crates.io/crates/tddlog) | 0.1.1 | 0 | Exact probabilistic inference by compilation into tree decision diagrams |
+| 2026-11-10 10:40:07 | [remarkable-metadata](https://crates.io/crates/remarkable-metadata) | 0.1.0 | 0 | Parse reMarkable tablet .metadata/.content JSON and build a logical document tr… |
+| 2026-11-10 10:40:08 | [remarkable-rm](https://crates.io/crates/remarkable-rm) | 0.1.0 | 0 | Parser and renderer for reMarkable .rm notebook page files (Phase 4 — work in p… |
+| 2026-11-10 10:40:10 | [tauri-plugin-haze](https://crates.io/crates/tauri-plugin-haze) | 0.1.0 | 0 | Rounded backdrop blur for Tauri 2 windows on Windows 10, controlled from JavaSc… |
+| 2026-11-10 10:40:10 | [remarkable-tablet](https://crates.io/crates/remarkable-tablet) | 0.1.0 | 0 | SSH/SFTP client and high-level filesystem operations for the reMarkable tablet. |
+| 2026-11-10 10:40:13 | [remarkable-cli](https://crates.io/crates/remarkable-cli) | 0.1.0 | 0 | Command-line tool for browsing, backing up, and managing files on a reMarkable… |
+| 2026-11-10 10:43:11 | [navree-bounded](https://crates.io/crates/navree-bounded) | 1.0.0 | 0 | Navree's bounded in-process cache: sharded locks, a strict capacity, SIEVE evic… |
+| 2026-11-10 10:43:15 | [navree-dock](https://crates.io/crates/navree-dock) | 1.0.0 | 0 | Navree Dock: local development services (PostgreSQL, Redis, Meilisearch, Mailpi… |
+| 2026-11-10 10:43:19 | [navree-glob](https://crates.io/crates/navree-glob) | 1.0.0 | 0 | Navree's glob matcher: `*` and `?` over whole strings, in time proportional to… |
+| 2026-11-10 10:43:23 | [navree-i18n-macros](https://crates.io/crates/navree-i18n-macros) | 1.0.0 | 0 | Navree localization macros: embed_locales! embeds a directory of Fluent files i… |
+| 2026-11-10 10:43:28 | [navree-kernel](https://crates.io/crates/navree-kernel) | 1.0.0 | 0 | Navree kernel: module graph, type-keyed DI container, lifecycle and command run… |
+| 2026-11-10 10:44:40 | [auric-string-helpers](https://crates.io/crates/auric-string-helpers) | 0.8.0 | 0 | String helpers addon for the Ember-inspired Auric SPA framework |
+| 2026-11-10 10:44:47 | [omlx-top](https://crates.io/crates/omlx-top) | 0.1.1 | 0 | Read-only macOS terminal monitor for oMLX resource usage |
+| 2026-11-10 10:45:10 | [zumen-xyz](https://crates.io/crates/zumen-xyz) | 0.2.0 | 0 | zumen の XYZ（座標を並べた点群のテキスト）の読み取りと、点群の領域モデルへの移し（#373） |
+| 2026-11-10 10:45:10 | [zumen-zip](https://crates.io/crates/zumen-zip) | 0.2.0 | 0 | zumen の ZIP の L0（決定 0210）。中央ディレクトリを読み、stored と deflate の項目を展開する |
+| 2026-11-10 10:47:53 | [cvd-policy](https://crates.io/crates/cvd-policy) | 0.1.1 | 0 | Deterministic Rust library for validating and evaluating CVD Policy documents. |
+| 2026-11-10 10:49:22 | [iceoryx2-customization-ffi-service-types](https://crates.io/crates/iceoryx2-customization-ffi-service-types) | 0.0.1 | 0 | iceoryx2 customization for FFI service types |
+| 2026-11-10 10:52:49 | [reifydb-workspace-hack](https://crates.io/crates/reifydb-workspace-hack) | 0.10.2 | 0 | workspace-hack package, managed by hakari |
+| 2026-11-10 10:53:23 | [navree-markdown](https://crates.io/crates/navree-markdown) | 1.0.0 | 0 | Navree's Markdown reader: CommonMark read into events with no raw HTML, no scri… |
+| 2026-11-10 10:56:28 | [zumen-bcf](https://crates.io/crates/zumen-bcf) | 0.2.0 | 0 | zumen の BCF: BCF 2.1・3.0 の bcfzip を読み書きし、レビューの文書の指摘と 3D の場所に写す（決定 0214・0220・024… |
+| 2026-11-10 11:02:53 | [elab-core](https://crates.io/crates/elab-core) | 0.1.0 | 0 | Core experiment spec, phased runner, evidence, and value encoding for elab. |
+| 2026-11-10 11:03:13 | [elab-gdb](https://crates.io/crates/elab-gdb) | 0.1.0 | 0 | GDB/MI transport for elab. |
+| 2026-11-10 11:03:22 | [navree-orm-macros](https://crates.io/crates/navree-orm-macros) | 1.0.0 | 0 | Navree ORM macros: #[derive(Model)], #[scopes] and #[test] (re-exported by navr… |
+| 2026-11-10 11:03:22 | [elab-serial](https://crates.io/crates/elab-serial) | 0.1.0 | 0 | Serial transport and witness matching for elab. |
+| 2026-11-10 11:04:42 | [vix-matrix-protocol](https://crates.io/crates/vix-matrix-protocol) | 2.0.2 | 0 | Matrix bridge for Vix IM: the JSON-lines protocol spoken with the vix-matrix he… |
+| 2026-11-10 11:05:04 | [elab-probe](https://crates.io/crates/elab-probe) | 0.1.0 | 0 | probe-rs transport for elab. |
+| 2026-11-10 11:05:18 | [auric-string-helpers-build](https://crates.io/crates/auric-string-helpers-build) | 0.8.0 | 0 | Codegen for the String Helpers addon for the Ember-inspired Auric SPA framework |
+| 2026-11-10 11:05:25 | [elab](https://crates.io/crates/elab) | 0.1.0 | 0 | Phased experiments against embedded targets: GDB/MI, probe-rs, serial, and JSON… |
+| 2026-11-10 11:06:11 | [vix-matrix](https://crates.io/crates/vix-matrix) | 2.0.2 | 0 | The Matrix helper for the Vix editor's IM: a matrix-sdk client with an encrypte… |
+| 2026-11-10 11:07:13 | [reifydb-rql-frontend](https://crates.io/crates/reifydb-rql-frontend) | 0.10.2 | 0 | Frontend of ReifyDB Query Language (RQL) |
+| 2026-11-10 11:07:44 | [zumen-delivery](https://crates.io/crates/zumen-delivery) | 0.2.0 | 0 | zumen の電子納品の成果品（フォルダー・管理ファイル）の読み取り（決定 0241、#383） |
+| 2026-11-10 11:12:22 | [cargo-keepcrafting-companion](https://crates.io/crates/cargo-keepcrafting-companion) | 0.7.0 | 0 | Cargo subcommands for previewing KeepCrafting companion app WASM plugins |
+| 2026-11-10 11:13:23 | [navree-pdf](https://crates.io/crates/navree-pdf) | 1.0.0 | 0 | Navree's PDF object layer: a reader held to a memory and work budget, a writer,… |
+| 2026-11-10 11:14:06 | [keepcrafting-companion-plugin-delta-assembler-slots](https://crates.io/crates/keepcrafting-companion-plugin-delta-assembler-slots) | 0.1.0 | 0 | Deterministic Delta Assembler slot images for Jinja |
+| 2026-11-10 11:14:10 | [keres](https://crates.io/crates/keres) | 0.5.0 | 0 | A memory-safe, high-performance Rust library for modern file encryption and sec… |
+| 2026-11-10 11:14:27 | [keres-cli](https://crates.io/crates/keres-cli) | 0.5.0 | 0 | CLI for keres: encrypted vaults and single-file encryption with metadata protec… |
+| 2026-11-10 11:15:33 | [xtalforge-agent](https://crates.io/crates/xtalforge-agent) | 1.0.0-rc.1 | 0 | Agent session, verbs, diagnostics and MCP server for xtalforge. |
+| 2026-11-10 11:16:27 | [tjik-desktop](https://crates.io/crates/tjik-desktop) | 0.1.0 | 0 | Toolkit-independent desktop state and action contracts with compositor adapters |
+| 2026-11-10 11:16:31 | [tjik-gtk](https://crates.io/crates/tjik-gtk) | 0.1.0 | 0 | Reusable GTK4 desktop presentation primitives with bounded image loading |
+| 2026-11-10 11:17:01 | [gnap](https://crates.io/crates/gnap) | 0.1.0 | 0 | GNAP (RFC 9635, RFC 9767) in one dependency: the gnap-* crates, re-exported beh… |
+| 2026-11-10 11:19:03 | [zumen-fgd](https://crates.io/crates/zumen-fgd) | 0.2.0 | 0 | zumen の基盤地図情報（GML）の読み取りと、地理の領域モデルへの移し（#378） |
 
 ## Data source
 
