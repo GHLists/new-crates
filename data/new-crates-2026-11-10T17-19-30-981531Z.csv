@@ -1,0 +1,51 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-10T16:21:33.604813Z,tpt-protocol-coap,0.1.0,0,0,https://github.com/tpt-solutions/tpt-protocol,"CoAP (RFC 7252) implementation, no_std (coap-rs requires std + tokio)"
+2026-11-10T16:22:45.203282Z,aspero-store,0.2.0,0,0,https://github.com/transilluminate/aspero,"SQLite cache, identifier graph and history for aspero"
+2026-11-10T16:23:30.901178Z,navree-time,1.0.0,0,0,https://github.com/NavreeHQ/navree,"Navree TimeModule: tenant time zones, local days, send windows, holidays and local-time SQL."
+2026-11-10T16:27:44.517685Z,aster_forge_utils,0.1.0-alpha.1,0,0,https://github.com/AsterCommunity/AsterForge,Shared low-level utility helpers for Aster services
+2026-11-10T16:29:44.064995Z,aspero-openlibrary,0.2.0,0,0,https://github.com/transilluminate/aspero,Open Library (books) provider for aspero
+2026-11-10T16:33:15.332948Z,ferrix-renderer-protocol,0.1.1,0,0,https://github.com/soumitra-das-dev/ferrix-ui,Typed binary UI patch protocol between Ferrix Rust runtime and platform renderers
+2026-11-10T16:33:23.989506Z,navree-schedule,1.0.0,0,0,https://github.com/NavreeHQ/navree,"Navree ScheduleModule: cron schedules, overlap prevention and single-node runs."
+2026-11-10T16:33:53.14371Z,ferrix-reactivity,0.1.1,0,0,https://github.com/soumitra-das-dev/ferrix-ui,"Signals, dependency graph, and batching runtime for Ferrix"
+2026-11-10T16:34:33.031182Z,ferrix-layout,0.1.1,0,0,https://github.com/soumitra-das-dev/ferrix-ui,Taffy-based layout engine for Ferrix
+2026-11-10T16:35:12.979143Z,ferrix-network,0.1.1,0,0,https://github.com/soumitra-das-dev/ferrix-ui,Networking layer for Ferrix running on Tokio/Reqwest behind traits
+2026-11-10T16:36:32.12999Z,ferrix-storage,0.1.1,0,0,https://github.com/soumitra-das-dev/ferrix-ui,Persistent key-value storage engine and reactive use_storage hook for Ferrix
+2026-11-10T16:37:54.344051Z,aster_forge_http,0.1.0-alpha.1,0,0,https://github.com/AsterCommunity/AsterForge,Product-neutral outbound HTTP client mechanics for Aster services
+2026-11-10T16:43:29.15996Z,navree-validation,1.0.0,0,0,https://github.com/NavreeHQ/navree,"Navree ValidationModule: #[derive(Validate)] rules, Valid<T> extractors, field-level messages and international input."
+2026-11-10T16:43:32.93857Z,chrono-node-rs,0.1.0,0,0,https://github.com/sabbasi3-factory-lab/chrono-node-rs,"Behaviour-matched Rust port of chrono-node: natural-language date parsing, checked against chrono-node's own output"
+2026-11-10T16:44:25.036438Z,aspero-openalex,0.2.0,0,0,https://github.com/transilluminate/aspero,OpenAlex provider for aspero
+2026-11-10T16:46:46.46907Z,bruce-util-progress,0.1.0,0,0,https://github.com/bruceskingle/bruce-util-progress,"Reporting the progress of long work, and cancelling it, for libraries and the apps which call them"
+2026-11-10T16:48:02.988Z,aster_forge_macros,0.1.0-alpha.1,0,0,https://github.com/AsterCommunity/AsterForge,Product-neutral declarative macros for lossless string protocol enums
+2026-11-10T16:48:48.955227Z,oci-free-audit-core,0.1.0,0,0,https://github.com/deeplabua/oci-free-audit,Checks behind oci-free-audit: an OCI tenancy against the Always Free limits and the actual bill — read-only
+2026-11-10T16:48:56.6897Z,oci-free-audit,0.1.0,0,0,https://github.com/deeplabua/oci-free-audit,Will Oracle charge me? A read-only check of your OCI tenancy against the Always Free limits and your actual bill
+2026-11-10T16:50:11.437107Z,nanoglia-tools,0.1.0,0,0,https://github.com/AlixANNERAUD/nanoglia,"Check on a computer whether nanoglia runs a TensorFlow Lite model: the kernel of every operator, every operator that blocks, and the memory needed."
+2026-11-10T16:52:18.424559Z,oci-free-keeper-core,0.1.0,0,0,https://github.com/deeplabua/oci-free-keeper,Engine behind oci-free-keeper: how close OCI Always Free instances are to Oracle's idle-reclamation rule
+2026-11-10T16:52:25.030395Z,oci-free-keeper,0.1.0,0,0,https://github.com/deeplabua/oci-free-keeper,"Keep your Oracle Cloud Always Free instances from being reclaimed as idle — know how close they are, before Oracle does"
+2026-11-10T16:52:26.038462Z,bruce-db,0.1.0,0,0,https://github.com/bruceskingle/bruce-db,"A small record store with a hash key, a sort key and a version on every record, in files, replicated between nodes"
+2026-11-10T16:53:28.881926Z,navree-orm,1.0.0,0,0,https://github.com/NavreeHQ/navree,"Navree ORM: active-record models, a typed query builder, dirty tracking and pagination on PostgreSQL/TimescaleDB, MySQL and SQLite."
+2026-11-10T16:53:40.459807Z,aspero-europepmc,0.2.0,0,0,https://github.com/transilluminate/aspero,Europe PMC (biomedical) provider for aspero
+2026-11-10T16:55:08.455746Z,httpcat-rs,0.1.0,0,0,https://github.com/Feralthedogg/httpcat,Embedded HTTP cat images: allocation-free no_std lookup with optional HTTP responses
+2026-11-10T16:55:33.178934Z,ferrix-forms,0.1.1,0,0,https://github.com/soumitra-das-dev/ferrix-ui,"Declarative form state, input validation, and submission hooks for Ferrix"
+2026-11-10T16:55:55.645866Z,ferrix-i18n,0.1.1,0,0,https://github.com/soumitra-das-dev/ferrix-ui,"ICU-compatible internationalization, pluralization, and localization engine for Ferrix"
+2026-11-10T16:57:31.585381Z,mipple,0.9.14,0,0,https://github.com/Azazel-Labs/mipple,Rate-distortion optimized GPU texture encoder (BC1/BC4/BC5/BC7) with KTX2 + Zstd output
+2026-11-10T16:58:10.376283Z,aster_forge_validation,0.1.0-alpha.1,0,0,https://github.com/AsterCommunity/AsterForge,Shared validation helpers for Aster services
+2026-11-10T17:03:17.206549Z,adamo-zenoh-collections,1.9.0-adamo.1.0.20,0,0,https://github.com/adamo-tech/adamo,Internal crate for zenoh.
+2026-11-10T17:03:29.039422Z,navree-audit,1.0.0,0,0,https://github.com/NavreeHQ/navree,"Navree AuditModule: audit trail of data changes, sign-ins and permission changes."
+2026-11-10T17:03:34.371435Z,adamo-zenoh-buffers,1.9.0-adamo.1.0.20,0,0,https://github.com/adamo-tech/adamo,Internal crate for zenoh.
+2026-11-10T17:03:52.350088Z,adamo-zenoh-protocol,1.9.0-adamo.1.0.20,0,0,https://github.com/adamo-tech/adamo,Internal crate for zenoh.
+2026-11-10T17:04:10.242834Z,adamo-zenoh-shm,1.9.0-adamo.1.0.20,0,0,https://github.com/adamo-tech/adamo,Internal crate for zenoh.
+2026-11-10T17:04:28.424965Z,adamo-zenoh-codec,1.9.0-adamo.1.0.20,0,0,https://github.com/adamo-tech/adamo,Internal crate for zenoh.
+2026-11-10T17:06:19.13541Z,ferrix-sqlite,0.1.1,0,0,https://github.com/soumitra-das-dev/ferrix-ui,Embedded SQLite engine with reactive live queries for Ferrix
+2026-11-10T17:06:23.580707Z,aspero-engine,0.2.0,0,0,https://github.com/transilluminate/aspero,"Routing, caching and resilience engine for aspero"
+2026-11-10T17:06:48.147265Z,adamo-zenoh-config,1.9.0-adamo.1.0.20,0,0,https://github.com/adamo-tech/adamo,Internal crate for zenoh.
+2026-11-10T17:08:17.533803Z,aster_forge_storage_core,0.1.0-alpha.1,0,0,https://github.com/AsterCommunity/AsterForge,Shared storage utility helpers for Aster services
+2026-11-10T17:08:46.565388Z,aspero,0.2.0,0,0,https://github.com/transilluminate/aspero,"Find, resolve and verify scholarly literature from the command line"
+2026-11-10T17:11:54.77275Z,teeny-riscv,0.2.1,0,0,https://github.com/teenygrad/teenygrad,"Teenygrad is a high-performance, memory-safe Rust ML training and inference library. It targets devices from microcontrollers to traditional GPUs with statically-typed kernels and full async support."
+2026-11-10T17:12:02.056361Z,teeny-runtime,0.2.1,0,0,https://github.com/teenygrad/teenygrad,"Teenygrad is a high-performance, memory-safe Rust ML training and inference library. It targets devices from microcontrollers to traditional GPUs with statically-typed kernels and full async support."
+2026-11-10T17:12:07.286118Z,teeny-test,0.2.1,0,0,https://github.com/teenygrad/teenygrad,"Teenygrad is a high-performance, memory-safe Rust ML training and inference library. It targets devices from microcontrollers to traditional GPUs with statically-typed kernels and full async support."
+2026-11-10T17:12:41.593951Z,stem_machine,0.0.1,0,0,https://github.com/StefanMathis/stem_machine.git,Motor (assembly) definition for stem - a Simulation Toolbox for Electric Motors.
+2026-11-10T17:13:28.605406Z,navree-micro,1.0.0,0,0,https://github.com/NavreeHQ/navree,"Navree MicroModule: request-response messages and events between services, with the same modules, guards, validation and unit of work as HTTP routes."
+2026-11-10T17:15:17.586157Z,spawned-test,0.7.1,0,0,https://github.com/lambdaclass/spawned,"Test kit for Spawned actors: mocks, probes, harness helpers and fault injection"
+2026-11-10T17:16:12.708434Z,adamo-zenoh-stats,1.9.0-adamo.1.0.20,0,0,https://github.com/adamo-tech/adamo,Internal crate for zenoh.
+2026-11-10T17:17:05.825538Z,ferrix-lsp,0.1.1,0,0,https://github.com/soumitra-das-dev/ferrix-ui,Language Server Protocol implementation for .fsx component editing in Ferrix
+2026-11-10T17:18:26.176122Z,aster_forge_file_classification,0.1.0-alpha.1,0,0,https://github.com/AsterCommunity/AsterForge,File extension parsing and category classification helpers

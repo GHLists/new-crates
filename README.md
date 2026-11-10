@@ -8,80 +8,64 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-10 16:18 UTC
+## Latest list — 2026-11-10 17:19 UTC
 
-New crates published between 2026-11-10 15:19 UTC and 2026-11-10 16:18 UTC.
+New crates published between 2026-11-10 16:18 UTC and 2026-11-10 17:19 UTC.
 
-[Full CSV](data/new-crates-2026-11-10T16-18-51-807682Z.csv)
+[Full CSV](data/new-crates-2026-11-10T17-19-30-981531Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-10 15:23:23 | [navree-testing](https://crates.io/crates/navree-testing) | 1.0.0 | 0 | Navree testing kit: TestApp, in-process TestClient with cookies and XSRF helper… |
-| 2026-11-10 15:25:42 | [tpt-protocol-ocpp](https://crates.io/crates/tpt-protocol-ocpp) | 0.1.0 | 0 | OCPP 2.0.1 implementation, no_std (the ocpp crate is unmaintained since 2019) |
-| 2026-11-10 15:27:06 | [gunsnprices](https://crates.io/crates/gunsnprices) | 0.1.0 | 0 | Parse firearm and ammunition product titles: brand, model, caliber, magazine ca… |
-| 2026-11-10 15:28:12 | [invisi-sdk-session](https://crates.io/crates/invisi-sdk-session) | 1.2.0 | 0 | Invisi SDK session capabilities |
-| 2026-11-10 15:28:16 | [invisi-sdk-ffi](https://crates.io/crates/invisi-sdk-ffi) | 1.2.0 | 0 | Invisi SDK C ABI exports and host-executed wallet requests |
-| 2026-11-10 15:29:56 | [axa-toasty](https://crates.io/crates/axa-toasty) | 0.1.0 | 0 | Toasty connections, migrations, and test resets for Axum services. |
-| 2026-11-10 15:30:00 | [axa-mysql-job-queue](https://crates.io/crates/axa-mysql-job-queue) | 0.1.0 | 0 | A MySQL job queue, worker pool, and recurring schedules for Axum services. |
-| 2026-11-10 15:33:26 | [navree-access](https://crates.io/crates/navree-access) | 1.0.0 | 0 | Navree AccessModule: roles, permissions and abilities with record checks and SQ… |
-| 2026-11-10 15:36:10 | [sandogasa-cbs](https://crates.io/crates/sandogasa-cbs) | 0.28.0 | 0 | CentOS Build System conventions for SIG tools: tags, branches, login |
-| 2026-11-10 15:36:52 | [tpt-protocol-ieee11073-sdc](https://crates.io/crates/tpt-protocol-ieee11073-sdc) | 0.1.0 | 0 | IEEE 11073 SDC bedside medical device protocol parser |
-| 2026-11-10 15:38:57 | [blockscope-nbt](https://crates.io/crates/blockscope-nbt) | 0.5.2 | 0 | NBT decoding with explicit resource limits for Minecraft litematic files. |
-| 2026-11-10 15:39:06 | [blockscope-scene](https://crates.io/crates/blockscope-scene) | 0.5.2 | 0 | Canonical, deterministic scene representation shared by the Blockscope parser a… |
-| 2026-11-10 15:39:09 | [blockscope-core](https://crates.io/crates/blockscope-core) | 0.5.2 | 0 | Parsing and canonical scene construction for Minecraft .litematic files. |
-| 2026-11-10 15:39:12 | [blockscope-mesh](https://crates.io/crates/blockscope-mesh) | 0.5.2 | 0 | Deterministic color-block mesh construction for Blockscope scenes. |
-| 2026-11-10 15:39:25 | [blockscope-material](https://crates.io/crates/blockscope-material) | 0.5.2 | 0 | Minecraft resource-pack blockstate, model, and texture loading for Blockscope. |
-| 2026-11-10 15:39:44 | [xrackc-bin-aarch64-apple-darwin](https://crates.io/crates/xrackc-bin-aarch64-apple-darwin) | 0.1.1 | 0 | Prebuilt XRack compiler for aarch64-apple-darwin |
-| 2026-11-10 15:39:45 | [xrackc-bin-aarch64-pc-windows-msvc](https://crates.io/crates/xrackc-bin-aarch64-pc-windows-msvc) | 0.1.1 | 0 | Prebuilt XRack compiler for aarch64-pc-windows-msvc |
-| 2026-11-10 15:39:46 | [xrackc-bin-aarch64-unknown-linux-gnu](https://crates.io/crates/xrackc-bin-aarch64-unknown-linux-gnu) | 0.1.1 | 0 | Prebuilt XRack compiler for aarch64-unknown-linux-gnu |
-| 2026-11-10 15:39:47 | [xrackc-bin-x86_64-pc-windows-msvc](https://crates.io/crates/xrackc-bin-x86_64-pc-windows-msvc) | 0.1.1 | 0 | Prebuilt XRack compiler for x86_64-pc-windows-msvc |
-| 2026-11-10 15:39:47 | [xrackc-bin-x86_64-unknown-linux-gnu](https://crates.io/crates/xrackc-bin-x86_64-unknown-linux-gnu) | 0.1.1 | 0 | Prebuilt XRack compiler for x86_64-unknown-linux-gnu |
-| 2026-11-10 15:40:08 | [foundation_cloudflare_ips](https://crates.io/crates/foundation_cloudflare_ips) | 0.1.1 | 0 | Generated Cloudflare API client: ips group |
-| 2026-11-10 15:43:10 | [gsl-oxide-randist](https://crates.io/crates/gsl-oxide-randist) | 0.2.0 | 0 | Safe Rust random distributions, densities, and sampling utilities from GSL |
-| 2026-11-10 15:43:14 | [copyhound](https://crates.io/crates/copyhound) | 0.1.1 | 0 | Find big memcpys, panics and bounds checks in LLVM IR |
-| 2026-11-10 15:43:17 | [gsl-oxide-cdf](https://crates.io/crates/gsl-oxide-cdf) | 0.2.0 | 0 | Safe Rust cumulative distributions, survival functions, and quantiles from GSL |
-| 2026-11-10 15:43:23 | [navree-browser](https://crates.io/crates/navree-browser) | 1.0.0 | 0 | Navree browser testing: drive Chrome or Chromium over the DevTools Protocol fro… |
-| 2026-11-10 15:44:05 | [xrack-build](https://crates.io/crates/xrack-build) | 0.1.1 | 0 | Compile XRack UI files from a Cargo build script |
-| 2026-11-10 15:45:15 | [cbspkg](https://crates.io/crates/cbspkg) | 0.28.0 | 0 | Package and build for CentOS SIGs in CBS, the way fedpkg does for Fedora |
-| 2026-11-10 15:48:03 | [tpt-protocol-hl7v2](https://crates.io/crates/tpt-protocol-hl7v2) | 0.1.0 | 0 | HL7 v2.x hospital data messaging protocol parser |
-| 2026-11-10 15:50:04 | [blockscope-render](https://crates.io/crates/blockscope-render) | 0.5.2 | 0 | Deterministic rasterizer and PNG output for Blockscope scenes. |
-| 2026-11-10 15:51:03 | [xrack](https://crates.io/crates/xrack) | 0.1.1 | 0 | Declarative native UI for Rust with XRack |
-| 2026-11-10 15:52:15 | [trevrpc-protovalidate](https://crates.io/crates/trevrpc-protovalidate) | 1.8.0 | 0 | buf.validate request validation for TrevRPC servers |
-| 2026-11-10 15:53:29 | [navree-mail](https://crates.io/crates/navree-mail) | 1.0.0 | 0 | Navree MailModule: mailables rendered from templates, SMTP and provider API tra… |
-| 2026-11-10 15:53:39 | [simplenote-cli](https://crates.io/crates/simplenote-cli) | 0.1.0 | 0 | A scriptable Simplenote CLI for humans and agents |
-| 2026-11-10 15:56:42 | [light-fw](https://crates.io/crates/light-fw) | 0.17.0 | 0 | Реактивный графический интерфейс для Rust: Proxy-обозреватели и HTML-шаблоны в… |
-| 2026-11-10 15:57:38 | [aster-fs](https://crates.io/crates/aster-fs) | 0.1.0 | 0 | Auditable cross-platform file locking, allocation, and filesystem utilities for… |
-| 2026-11-10 15:59:13 | [tpt-protocol-knx](https://crates.io/crates/tpt-protocol-knx) | 0.1.0 | 0 | KNX smart building protocol parser |
-| 2026-11-10 16:00:39 | [blockscope-video](https://crates.io/crates/blockscope-video) | 0.5.2 | 0 | Animation timeline and ffmpeg encoding for Blockscope video export. |
-| 2026-11-10 16:00:58 | [kimetsu-bus](https://crates.io/crates/kimetsu-bus) | 2.11.0 | 0 | ADR 0001 F2 memory bus: iroh transport, static roster, request_pack. |
-| 2026-11-10 16:01:30 | [kimetsu-sdk](https://crates.io/crates/kimetsu-sdk) | 2.11.0 | 0 | In-process Rust entry for the ADR 0001 store operations. Not @kimetsu-ai/sdk. |
-| 2026-11-10 16:03:08 | [kimetsu-remote](https://crates.io/crates/kimetsu-remote) | 2.11.0 | 0 | Server-hosted Kimetsu brain over HTTP MCP, keyed by repository. |
-| 2026-11-10 16:03:16 | [openvpn-rust-bindings](https://crates.io/crates/openvpn-rust-bindings) | 0.1.0 | 0 | Rust bindings to OpenVPN 3 Core with a userspace tunnel |
-| 2026-11-10 16:03:27 | [navree-realtime](https://crates.io/crates/navree-realtime) | 1.0.0 | 0 | Navree RealtimeModule: Pusher-protocol WebSocket server with public, private an… |
-| 2026-11-10 16:03:49 | [wsq-cli](https://crates.io/crates/wsq-cli) | 0.2.0 | 0 | Command-line tool for WSQ fingerprint images: encode, decode, inspect and certi… |
-| 2026-11-10 16:10:23 | [tpt-protocol-matter-thread](https://crates.io/crates/tpt-protocol-matter-thread) | 0.1.0 | 0 | Matter/Thread implementation, MIT OR Apache-2.0 (rs-matter is Apache-2.0 only) |
-| 2026-11-10 16:11:19 | [docent](https://crates.io/crates/docent) | 0.1.2 | 0 | A context-aware reading companion for the terminal, Neovim, and the browser |
-| 2026-11-10 16:12:50 | [greenharness-quiet](https://crates.io/crates/greenharness-quiet) | 3.0.0 | 0 | The quiet-run active entry: one JSON file per running check, for a pane to tail |
-| 2026-11-10 16:12:53 | [greenharness-slots](https://crates.io/crates/greenharness-slots) | 3.0.0 | 0 | Host slots: one machine-wide queue every heavy job on the host takes its turn in |
-| 2026-11-10 16:13:05 | [greengate-runtime](https://crates.io/crates/greengate-runtime) | 3.0.0 | 0 | The amont hook logic: registry, dispatchers, checks and the trust model |
-| 2026-11-10 16:13:06 | [aspero-core](https://crates.io/crates/aspero-core) | 0.1.0 | 0 | Core types, identifiers and Provider trait for aspero (no I/O) |
-| 2026-11-10 16:13:08 | [aspero-bib](https://crates.io/crates/aspero-bib) | 0.1.0 | 0 | BibTeX/BibLaTeX reading for aspero |
-| 2026-11-10 16:13:09 | [aspero-crossref](https://crates.io/crates/aspero-crossref) | 0.1.0 | 0 | Crossref provider for aspero |
-| 2026-11-10 16:13:10 | [aspero-datacite](https://crates.io/crates/aspero-datacite) | 0.1.0 | 0 | DataCite provider for aspero |
-| 2026-11-10 16:13:11 | [aspero-doi](https://crates.io/crates/aspero-doi) | 0.1.0 | 0 | doi.org content-negotiation provider for aspero |
-| 2026-11-10 16:13:15 | [greengate](https://crates.io/crates/greengate) | 3.0.0 | 0 | Opinionated git hooks that judge what you are committing, not what is on disk |
-| 2026-11-10 16:13:29 | [navree-session](https://crates.io/crates/navree-session) | 1.0.0 | 0 | Navree SessionModule: encrypted session cookies, memory and database stores, CS… |
-| 2026-11-10 16:13:34 | [greengate-fleet](https://crates.io/crates/greengate-fleet) | 3.0.0 | 0 | The amont fleet dashboard: see and repair hook coverage across many repositories |
-| 2026-11-10 16:14:26 | [steelix-runtime-macros](https://crates.io/crates/steelix-runtime-macros) | 0.3.0 | 0 | Attribute macros of steelix-runtime |
-| 2026-11-10 16:15:35 | [sok-core](https://crates.io/crates/sok-core) | 0.0.1 | 0 | Core types and pure text processing for sok: response format, normalisation, to… |
-| 2026-11-10 16:15:36 | [sok-drivers](https://crates.io/crates/sok-drivers) | 0.0.1 | 0 | Tool-specific output drivers and pattern packs for sok |
-| 2026-11-10 16:15:36 | [sok-exec](https://crates.io/crates/sok-exec) | 0.0.1 | 0 | Process execution for sok: shell selection, merged capture, timeouts, process-t… |
-| 2026-11-10 16:15:37 | [sok](https://crates.io/crates/sok) | 0.0.1 | 0 | Shapes the output of every shell command your LLM agent runs: status, the lines… |
-| 2026-11-10 16:17:44 | [aster_forge_alloc](https://crates.io/crates/aster_forge_alloc) | 0.1.0-alpha.1 | 0 | Shared allocator tracking and memory statistics helpers |
-| 2026-11-10 16:17:45 | [aster_forge_api](https://crates.io/crates/aster_forge_api) | 0.1.0-alpha.1 | 0 | Shared API response and pagination helpers for Aster services |
-| 2026-11-10 16:17:46 | [aster_forge_api_docs_macros](https://crates.io/crates/aster_forge_api_docs_macros) | 0.1.0-alpha.1 | 0 | OpenAPI attribute macros shared by Aster services |
-| 2026-11-10 16:17:48 | [aster_forge_cloud_files_core](https://crates.io/crates/aster_forge_cloud_files_core) | 0.1.0-alpha.1 | 0 | Product-neutral contracts for native cloud-files integrations |
-| 2026-11-10 16:17:48 | [aster_forge_crypto](https://crates.io/crates/aster_forge_crypto) | 0.1.0-alpha.1 | 0 | Shared cryptographic helpers for Aster services |
+| 2026-11-10 16:21:33 | [tpt-protocol-coap](https://crates.io/crates/tpt-protocol-coap) | 0.1.0 | 0 | CoAP (RFC 7252) implementation, no_std (coap-rs requires std + tokio) |
+| 2026-11-10 16:22:45 | [aspero-store](https://crates.io/crates/aspero-store) | 0.2.0 | 0 | SQLite cache, identifier graph and history for aspero |
+| 2026-11-10 16:23:30 | [navree-time](https://crates.io/crates/navree-time) | 1.0.0 | 0 | Navree TimeModule: tenant time zones, local days, send windows, holidays and lo… |
+| 2026-11-10 16:27:44 | [aster_forge_utils](https://crates.io/crates/aster_forge_utils) | 0.1.0-alpha.1 | 0 | Shared low-level utility helpers for Aster services |
+| 2026-11-10 16:29:44 | [aspero-openlibrary](https://crates.io/crates/aspero-openlibrary) | 0.2.0 | 0 | Open Library (books) provider for aspero |
+| 2026-11-10 16:33:15 | [ferrix-renderer-protocol](https://crates.io/crates/ferrix-renderer-protocol) | 0.1.1 | 0 | Typed binary UI patch protocol between Ferrix Rust runtime and platform rendere… |
+| 2026-11-10 16:33:23 | [navree-schedule](https://crates.io/crates/navree-schedule) | 1.0.0 | 0 | Navree ScheduleModule: cron schedules, overlap prevention and single-node runs. |
+| 2026-11-10 16:33:53 | [ferrix-reactivity](https://crates.io/crates/ferrix-reactivity) | 0.1.1 | 0 | Signals, dependency graph, and batching runtime for Ferrix |
+| 2026-11-10 16:34:33 | [ferrix-layout](https://crates.io/crates/ferrix-layout) | 0.1.1 | 0 | Taffy-based layout engine for Ferrix |
+| 2026-11-10 16:35:12 | [ferrix-network](https://crates.io/crates/ferrix-network) | 0.1.1 | 0 | Networking layer for Ferrix running on Tokio/Reqwest behind traits |
+| 2026-11-10 16:36:32 | [ferrix-storage](https://crates.io/crates/ferrix-storage) | 0.1.1 | 0 | Persistent key-value storage engine and reactive use_storage hook for Ferrix |
+| 2026-11-10 16:37:54 | [aster_forge_http](https://crates.io/crates/aster_forge_http) | 0.1.0-alpha.1 | 0 | Product-neutral outbound HTTP client mechanics for Aster services |
+| 2026-11-10 16:43:29 | [navree-validation](https://crates.io/crates/navree-validation) | 1.0.0 | 0 | Navree ValidationModule: #[derive(Validate)] rules, Valid<T> extractors, field-… |
+| 2026-11-10 16:43:32 | [chrono-node-rs](https://crates.io/crates/chrono-node-rs) | 0.1.0 | 0 | Behaviour-matched Rust port of chrono-node: natural-language date parsing, chec… |
+| 2026-11-10 16:44:25 | [aspero-openalex](https://crates.io/crates/aspero-openalex) | 0.2.0 | 0 | OpenAlex provider for aspero |
+| 2026-11-10 16:46:46 | [bruce-util-progress](https://crates.io/crates/bruce-util-progress) | 0.1.0 | 0 | Reporting the progress of long work, and cancelling it, for libraries and the a… |
+| 2026-11-10 16:48:02 | [aster_forge_macros](https://crates.io/crates/aster_forge_macros) | 0.1.0-alpha.1 | 0 | Product-neutral declarative macros for lossless string protocol enums |
+| 2026-11-10 16:48:48 | [oci-free-audit-core](https://crates.io/crates/oci-free-audit-core) | 0.1.0 | 0 | Checks behind oci-free-audit: an OCI tenancy against the Always Free limits and… |
+| 2026-11-10 16:48:56 | [oci-free-audit](https://crates.io/crates/oci-free-audit) | 0.1.0 | 0 | Will Oracle charge me? A read-only check of your OCI tenancy against the Always… |
+| 2026-11-10 16:50:11 | [nanoglia-tools](https://crates.io/crates/nanoglia-tools) | 0.1.0 | 0 | Check on a computer whether nanoglia runs a TensorFlow Lite model: the kernel o… |
+| 2026-11-10 16:52:18 | [oci-free-keeper-core](https://crates.io/crates/oci-free-keeper-core) | 0.1.0 | 0 | Engine behind oci-free-keeper: how close OCI Always Free instances are to Oracl… |
+| 2026-11-10 16:52:25 | [oci-free-keeper](https://crates.io/crates/oci-free-keeper) | 0.1.0 | 0 | Keep your Oracle Cloud Always Free instances from being reclaimed as idle — kno… |
+| 2026-11-10 16:52:26 | [bruce-db](https://crates.io/crates/bruce-db) | 0.1.0 | 0 | A small record store with a hash key, a sort key and a version on every record,… |
+| 2026-11-10 16:53:28 | [navree-orm](https://crates.io/crates/navree-orm) | 1.0.0 | 0 | Navree ORM: active-record models, a typed query builder, dirty tracking and pag… |
+| 2026-11-10 16:53:40 | [aspero-europepmc](https://crates.io/crates/aspero-europepmc) | 0.2.0 | 0 | Europe PMC (biomedical) provider for aspero |
+| 2026-11-10 16:55:08 | [httpcat-rs](https://crates.io/crates/httpcat-rs) | 0.1.0 | 0 | Embedded HTTP cat images: allocation-free no_std lookup with optional HTTP resp… |
+| 2026-11-10 16:55:33 | [ferrix-forms](https://crates.io/crates/ferrix-forms) | 0.1.1 | 0 | Declarative form state, input validation, and submission hooks for Ferrix |
+| 2026-11-10 16:55:55 | [ferrix-i18n](https://crates.io/crates/ferrix-i18n) | 0.1.1 | 0 | ICU-compatible internationalization, pluralization, and localization engine for… |
+| 2026-11-10 16:57:31 | [mipple](https://crates.io/crates/mipple) | 0.9.14 | 0 | Rate-distortion optimized GPU texture encoder (BC1/BC4/BC5/BC7) with KTX2 + Zst… |
+| 2026-11-10 16:58:10 | [aster_forge_validation](https://crates.io/crates/aster_forge_validation) | 0.1.0-alpha.1 | 0 | Shared validation helpers for Aster services |
+| 2026-11-10 17:03:17 | [adamo-zenoh-collections](https://crates.io/crates/adamo-zenoh-collections) | 1.9.0-adamo.1.0.20 | 0 | Internal crate for zenoh. |
+| 2026-11-10 17:03:29 | [navree-audit](https://crates.io/crates/navree-audit) | 1.0.0 | 0 | Navree AuditModule: audit trail of data changes, sign-ins and permission change… |
+| 2026-11-10 17:03:34 | [adamo-zenoh-buffers](https://crates.io/crates/adamo-zenoh-buffers) | 1.9.0-adamo.1.0.20 | 0 | Internal crate for zenoh. |
+| 2026-11-10 17:03:52 | [adamo-zenoh-protocol](https://crates.io/crates/adamo-zenoh-protocol) | 1.9.0-adamo.1.0.20 | 0 | Internal crate for zenoh. |
+| 2026-11-10 17:04:10 | [adamo-zenoh-shm](https://crates.io/crates/adamo-zenoh-shm) | 1.9.0-adamo.1.0.20 | 0 | Internal crate for zenoh. |
+| 2026-11-10 17:04:28 | [adamo-zenoh-codec](https://crates.io/crates/adamo-zenoh-codec) | 1.9.0-adamo.1.0.20 | 0 | Internal crate for zenoh. |
+| 2026-11-10 17:06:19 | [ferrix-sqlite](https://crates.io/crates/ferrix-sqlite) | 0.1.1 | 0 | Embedded SQLite engine with reactive live queries for Ferrix |
+| 2026-11-10 17:06:23 | [aspero-engine](https://crates.io/crates/aspero-engine) | 0.2.0 | 0 | Routing, caching and resilience engine for aspero |
+| 2026-11-10 17:06:48 | [adamo-zenoh-config](https://crates.io/crates/adamo-zenoh-config) | 1.9.0-adamo.1.0.20 | 0 | Internal crate for zenoh. |
+| 2026-11-10 17:08:17 | [aster_forge_storage_core](https://crates.io/crates/aster_forge_storage_core) | 0.1.0-alpha.1 | 0 | Shared storage utility helpers for Aster services |
+| 2026-11-10 17:08:46 | [aspero](https://crates.io/crates/aspero) | 0.2.0 | 0 | Find, resolve and verify scholarly literature from the command line |
+| 2026-11-10 17:11:54 | [teeny-riscv](https://crates.io/crates/teeny-riscv) | 0.2.1 | 0 | Teenygrad is a high-performance, memory-safe Rust ML training and inference lib… |
+| 2026-11-10 17:12:02 | [teeny-runtime](https://crates.io/crates/teeny-runtime) | 0.2.1 | 0 | Teenygrad is a high-performance, memory-safe Rust ML training and inference lib… |
+| 2026-11-10 17:12:07 | [teeny-test](https://crates.io/crates/teeny-test) | 0.2.1 | 0 | Teenygrad is a high-performance, memory-safe Rust ML training and inference lib… |
+| 2026-11-10 17:12:41 | [stem_machine](https://crates.io/crates/stem_machine) | 0.0.1 | 0 | Motor (assembly) definition for stem - a Simulation Toolbox for Electric Motors. |
+| 2026-11-10 17:13:28 | [navree-micro](https://crates.io/crates/navree-micro) | 1.0.0 | 0 | Navree MicroModule: request-response messages and events between services, with… |
+| 2026-11-10 17:15:17 | [spawned-test](https://crates.io/crates/spawned-test) | 0.7.1 | 0 | Test kit for Spawned actors: mocks, probes, harness helpers and fault injection |
+| 2026-11-10 17:16:12 | [adamo-zenoh-stats](https://crates.io/crates/adamo-zenoh-stats) | 1.9.0-adamo.1.0.20 | 0 | Internal crate for zenoh. |
+| 2026-11-10 17:17:05 | [ferrix-lsp](https://crates.io/crates/ferrix-lsp) | 0.1.1 | 0 | Language Server Protocol implementation for .fsx component editing in Ferrix |
+| 2026-11-10 17:18:26 | [aster_forge_file_classification](https://crates.io/crates/aster_forge_file_classification) | 0.1.0-alpha.1 | 0 | File extension parsing and category classification helpers |
 
 ## Data source
 
