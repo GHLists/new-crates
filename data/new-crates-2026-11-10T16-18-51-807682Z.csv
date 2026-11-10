@@ -1,0 +1,67 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-10T15:23:23.410631Z,navree-testing,1.0.0,0,0,https://github.com/NavreeHQ/navree,"Navree testing kit: TestApp, in-process TestClient with cookies and XSRF helpers, fakes."
+2026-11-10T15:25:42.385638Z,tpt-protocol-ocpp,0.1.0,0,0,https://github.com/tpt-solutions/tpt-protocol,"OCPP 2.0.1 implementation, no_std (the ocpp crate is unmaintained since 2019)"
+2026-11-10T15:27:06.999009Z,gunsnprices,0.1.0,0,0,https://github.com/gunsnprices/gunsnprices-rust,"Parse firearm and ammunition product titles: brand, model, caliber, magazine capacity, barrel length, rounds per box, cost per round."
+2026-11-10T15:28:12.780354Z,invisi-sdk-session,1.2.0,0,0,https://github.com/invisi-lab/invisi-sdk-rust,Invisi SDK session capabilities
+2026-11-10T15:28:16.635788Z,invisi-sdk-ffi,1.2.0,0,0,https://github.com/invisi-lab/invisi-sdk-rust,Invisi SDK C ABI exports and host-executed wallet requests
+2026-11-10T15:29:56.79092Z,axa-toasty,0.1.0,0,0,https://github.com/publicprojects-io/axa/,"Toasty connections, migrations, and test resets for Axum services."
+2026-11-10T15:30:00.689312Z,axa-mysql-job-queue,0.1.0,0,0,https://github.com/publicprojects-io/axa/,"A MySQL job queue, worker pool, and recurring schedules for Axum services."
+2026-11-10T15:33:26.504509Z,navree-access,1.0.0,0,0,https://github.com/NavreeHQ/navree,"Navree AccessModule: roles, permissions and abilities with record checks and SQL list filters, shared with front ends as CASL JSON."
+2026-11-10T15:36:10.552773Z,sandogasa-cbs,0.28.0,0,0,https://github.com/slopfest/sandogasa,"CentOS Build System conventions for SIG tools: tags, branches, login"
+2026-11-10T15:36:52.498785Z,tpt-protocol-ieee11073-sdc,0.1.0,0,0,https://github.com/tpt-solutions/tpt-protocol,IEEE 11073 SDC bedside medical device protocol parser
+2026-11-10T15:38:57.419321Z,blockscope-nbt,0.5.2,0,0,https://github.com/Linvin-1233/Blockscope,NBT decoding with explicit resource limits for Minecraft litematic files.
+2026-11-10T15:39:06.216888Z,blockscope-scene,0.5.2,0,0,https://github.com/Linvin-1233/Blockscope,"Canonical, deterministic scene representation shared by the Blockscope parser and renderer."
+2026-11-10T15:39:09.494281Z,blockscope-core,0.5.2,0,0,https://github.com/Linvin-1233/Blockscope,Parsing and canonical scene construction for Minecraft .litematic files.
+2026-11-10T15:39:12.818642Z,blockscope-mesh,0.5.2,0,0,https://github.com/Linvin-1233/Blockscope,Deterministic color-block mesh construction for Blockscope scenes.
+2026-11-10T15:39:25.730198Z,blockscope-material,0.5.2,0,0,https://github.com/Linvin-1233/Blockscope,"Minecraft resource-pack blockstate, model, and texture loading for Blockscope."
+2026-11-10T15:39:44.415376Z,xrackc-bin-aarch64-apple-darwin,0.1.1,0,0,https://github.com/smallsunsun1/xrack,Prebuilt XRack compiler for aarch64-apple-darwin
+2026-11-10T15:39:45.570339Z,xrackc-bin-aarch64-pc-windows-msvc,0.1.1,0,0,https://github.com/smallsunsun1/xrack,Prebuilt XRack compiler for aarch64-pc-windows-msvc
+2026-11-10T15:39:46.174927Z,xrackc-bin-aarch64-unknown-linux-gnu,0.1.1,0,0,https://github.com/smallsunsun1/xrack,Prebuilt XRack compiler for aarch64-unknown-linux-gnu
+2026-11-10T15:39:47.259649Z,xrackc-bin-x86_64-pc-windows-msvc,0.1.1,0,0,https://github.com/smallsunsun1/xrack,Prebuilt XRack compiler for x86_64-pc-windows-msvc
+2026-11-10T15:39:47.892257Z,xrackc-bin-x86_64-unknown-linux-gnu,0.1.1,0,0,https://github.com/smallsunsun1/xrack,Prebuilt XRack compiler for x86_64-unknown-linux-gnu
+2026-11-10T15:40:08.938524Z,foundation_cloudflare_ips,0.1.1,0,0,https://github.com/ewe-studios/ewe_platform,Generated Cloudflare API client: ips group
+2026-11-10T15:43:10.328544Z,gsl-oxide-randist,0.2.0,0,0,https://github.com/jware-solutions/gsl-oxide,"Safe Rust random distributions, densities, and sampling utilities from GSL"
+2026-11-10T15:43:14.409145Z,copyhound,0.1.1,0,0,https://github.com/NikoMalik/copyhound,"Find big memcpys, panics and bounds checks in LLVM IR"
+2026-11-10T15:43:17.157908Z,gsl-oxide-cdf,0.2.0,0,0,https://github.com/jware-solutions/gsl-oxide,"Safe Rust cumulative distributions, survival functions, and quantiles from GSL"
+2026-11-10T15:43:23.98008Z,navree-browser,1.0.0,0,0,https://github.com/NavreeHQ/navree,"Navree browser testing: drive Chrome or Chromium over the DevTools Protocol from Rust tests, with automatic waiting and failure screenshots."
+2026-11-10T15:44:05.214814Z,xrack-build,0.1.1,0,0,https://github.com/smallsunsun1/xrack,Compile XRack UI files from a Cargo build script
+2026-11-10T15:45:15.677979Z,cbspkg,0.28.0,0,0,https://github.com/slopfest/sandogasa,"Package and build for CentOS SIGs in CBS, the way fedpkg does for Fedora"
+2026-11-10T15:48:03.166079Z,tpt-protocol-hl7v2,0.1.0,0,0,https://github.com/tpt-solutions/tpt-protocol,HL7 v2.x hospital data messaging protocol parser
+2026-11-10T15:50:04.416675Z,blockscope-render,0.5.2,0,0,https://github.com/Linvin-1233/Blockscope,Deterministic rasterizer and PNG output for Blockscope scenes.
+2026-11-10T15:51:03.831108Z,xrack,0.1.1,0,0,https://github.com/smallsunsun1/xrack,Declarative native UI for Rust with XRack
+2026-11-10T15:52:15.334654Z,trevrpc-protovalidate,1.8.0,0,0,https://trev.zip/llc/TrevRPC,buf.validate request validation for TrevRPC servers
+2026-11-10T15:53:29.656587Z,navree-mail,1.0.0,0,0,https://github.com/NavreeHQ/navree,"Navree MailModule: mailables rendered from templates, SMTP and provider API transports, a delivery log, suppressions and inbound mail."
+2026-11-10T15:53:39.209921Z,simplenote-cli,0.1.0,0,0,https://github.com/rvben/simplenote-cli,A scriptable Simplenote CLI for humans and agents
+2026-11-10T15:56:42.84231Z,light-fw,0.17.0,0,0,https://github.com/gifoff/light,Реактивный графический интерфейс для Rust: Proxy-обозреватели и HTML-шаблоны в духе Vue 3
+2026-11-10T15:57:38.822362Z,aster-fs,0.1.0,0,0,https://github.com/AsterCommunity/AsterFs,"Auditable cross-platform file locking, allocation, and filesystem utilities for sync and async Rust."
+2026-11-10T15:59:13.752004Z,tpt-protocol-knx,0.1.0,0,0,https://github.com/tpt-solutions/tpt-protocol,KNX smart building protocol parser
+2026-11-10T16:00:39.271941Z,blockscope-video,0.5.2,0,0,https://github.com/Linvin-1233/Blockscope,Animation timeline and ffmpeg encoding for Blockscope video export.
+2026-11-10T16:00:58.239278Z,kimetsu-bus,2.11.0,0,0,https://github.com/RodCor/kimetsu,"ADR 0001 F2 memory bus: iroh transport, static roster, request_pack."
+2026-11-10T16:01:30.632146Z,kimetsu-sdk,2.11.0,0,0,https://github.com/RodCor/kimetsu,In-process Rust entry for the ADR 0001 store operations. Not @kimetsu-ai/sdk.
+2026-11-10T16:03:08.233362Z,kimetsu-remote,2.11.0,0,0,https://github.com/RodCor/kimetsu,"Server-hosted Kimetsu brain over HTTP MCP, keyed by repository."
+2026-11-10T16:03:16.699824Z,openvpn-rust-bindings,0.1.0,0,0,https://github.com/SalahaldinBilal/openvpn-rust-bindings,Rust bindings to OpenVPN 3 Core with a userspace tunnel
+2026-11-10T16:03:27.048743Z,navree-realtime,1.0.0,0,0,https://github.com/NavreeHQ/navree,"Navree RealtimeModule: Pusher-protocol WebSocket server with public, private and presence channels, and live server-sent event streams for pages."
+2026-11-10T16:03:49.140605Z,wsq-cli,0.2.0,0,0,https://github.com/ybdn-ei/wsq-codec,"Command-line tool for WSQ fingerprint images: encode, decode, inspect and certify"
+2026-11-10T16:10:23.420916Z,tpt-protocol-matter-thread,0.1.0,0,0,https://github.com/tpt-solutions/tpt-protocol,"Matter/Thread implementation, MIT OR Apache-2.0 (rs-matter is Apache-2.0 only)"
+2026-11-10T16:11:19.343637Z,docent,0.1.2,0,0,https://github.com/apanoush/docent,"A context-aware reading companion for the terminal, Neovim, and the browser"
+2026-11-10T16:12:50.647481Z,greenharness-quiet,3.0.0,0,0,https://github.com/greenharness/greengate,"The quiet-run active entry: one JSON file per running check, for a pane to tail"
+2026-11-10T16:12:53.077971Z,greenharness-slots,3.0.0,0,0,https://github.com/greenharness/greengate,Host slots: one machine-wide queue every heavy job on the host takes its turn in
+2026-11-10T16:13:05.045187Z,greengate-runtime,3.0.0,0,0,https://github.com/greenharness/greengate,"The amont hook logic: registry, dispatchers, checks and the trust model"
+2026-11-10T16:13:06.869023Z,aspero-core,0.1.0,0,0,https://github.com/transilluminate/aspero,"Core types, identifiers and Provider trait for aspero (no I/O)"
+2026-11-10T16:13:08.970252Z,aspero-bib,0.1.0,0,0,https://github.com/transilluminate/aspero,BibTeX/BibLaTeX reading for aspero
+2026-11-10T16:13:09.68943Z,aspero-crossref,0.1.0,0,0,https://github.com/transilluminate/aspero,Crossref provider for aspero
+2026-11-10T16:13:10.408152Z,aspero-datacite,0.1.0,0,0,https://github.com/transilluminate/aspero,DataCite provider for aspero
+2026-11-10T16:13:11.048336Z,aspero-doi,0.1.0,0,0,https://github.com/transilluminate/aspero,doi.org content-negotiation provider for aspero
+2026-11-10T16:13:15.801077Z,greengate,3.0.0,0,0,https://github.com/greenharness/greengate,"Opinionated git hooks that judge what you are committing, not what is on disk"
+2026-11-10T16:13:29.125129Z,navree-session,1.0.0,0,0,https://github.com/NavreeHQ/navree,"Navree SessionModule: encrypted session cookies, memory and database stores, CSRF protection."
+2026-11-10T16:13:34.571783Z,greengate-fleet,3.0.0,0,0,https://github.com/greenharness/greengate,The amont fleet dashboard: see and repair hook coverage across many repositories
+2026-11-10T16:14:26.132932Z,steelix-runtime-macros,0.3.0,0,0,https://github.com/aisk/steelix,Attribute macros of steelix-runtime
+2026-11-10T16:15:35.012921Z,sok-core,0.0.1,0,0,https://github.com/mojobojo/sok,"Core types and pure text processing for sok: response format, normalisation, token estimation"
+2026-11-10T16:15:36.102359Z,sok-drivers,0.0.1,0,0,https://github.com/mojobojo/sok,Tool-specific output drivers and pattern packs for sok
+2026-11-10T16:15:36.376613Z,sok-exec,0.0.1,0,0,https://github.com/mojobojo/sok,"Process execution for sok: shell selection, merged capture, timeouts, process-tree kill"
+2026-11-10T16:15:37.530937Z,sok,0.0.1,0,0,https://github.com/mojobojo/sok,"Shapes the output of every shell command your LLM agent runs: status, the lines that matter, a pointer to the rest"
+2026-11-10T16:17:44.26496Z,aster_forge_alloc,0.1.0-alpha.1,0,0,https://github.com/AsterCommunity/AsterForge,Shared allocator tracking and memory statistics helpers
+2026-11-10T16:17:45.661435Z,aster_forge_api,0.1.0-alpha.1,0,0,https://github.com/AsterCommunity/AsterForge,Shared API response and pagination helpers for Aster services
+2026-11-10T16:17:46.509755Z,aster_forge_api_docs_macros,0.1.0-alpha.1,0,0,https://github.com/AsterCommunity/AsterForge,OpenAPI attribute macros shared by Aster services
+2026-11-10T16:17:48.196089Z,aster_forge_cloud_files_core,0.1.0-alpha.1,0,0,https://github.com/AsterCommunity/AsterForge,Product-neutral contracts for native cloud-files integrations
+2026-11-10T16:17:48.911086Z,aster_forge_crypto,0.1.0-alpha.1,0,0,https://github.com/AsterCommunity/AsterForge,Shared cryptographic helpers for Aster services
