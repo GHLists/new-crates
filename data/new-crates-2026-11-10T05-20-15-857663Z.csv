@@ -1,0 +1,42 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-10T04:23:57.756634Z,zvte,0.1.0,0,0,https://github.com/LIghtJUNction/zvte,"Zero-dependency, no_std ANSI/VT parser with allocation-free streaming and batched ASCII"
+2026-11-10T04:25:44.209361Z,skyzen-h1,0.0.0,0,0,https://github.com/zen-rs/skyzen,HTTP/1.1 server for the Skyzen framework
+2026-11-10T04:27:25.345108Z,aylis-dbcontrols,0.1.0,0,0,https://github.com/e-rust/aylis,"Controles ligados a dados do Aylis (DBEdit, DBText, DBCheckBox, DBNavigator)"
+2026-11-10T04:27:54.827871Z,rightkit-launcher,0.1.0,0,0,https://github.com/bogusyogi/rightkit,Command launcher logic: arithmetic calculator and unit conversion parsers that never hand typed text to an evaluator.
+2026-11-10T04:28:41.533191Z,bilingua-ttml,0.9.1,0,0,https://github.com/patois-labs/bilingua,Bilingua: TTML and DFXP subtitles (IMSC1 text profile) parser and byte-faithful writer
+2026-11-10T04:33:08.159875Z,agentfence,0.2.0,0,0,https://github.com/TimurRakhmatullin86/agentfence,"Rulebook for AI agents — default-deny policies, SQL-aware enforcement, budget limits, and MCP proxy"
+2026-11-10T04:35:10.198733Z,nexus-search-core,0.1.0,0,0,https://github.com/isaim0011/nexus-search,"Core types, scoring, and traits for the Nexus search engine"
+2026-11-10T04:36:42.961096Z,nexus-postgres,0.1.0,0,0,https://github.com/isaim0011/nexus-search,PostgreSQL backend for the Nexus search engine
+2026-11-10T04:37:28.301213Z,aylis-docview,0.1.0,0,0,https://github.com/e-rust/aylis,"Visualizador de documentos do Aylis: PDF (hayro), planilhas (XLSX, XLS, ODS, CSV) e textos (DOCX, ODT)"
+2026-11-10T04:38:41.556949Z,bilingua-ttx,0.9.1,0,0,https://github.com/patois-labs/bilingua,Bilingua: Trados TagEditor TTX (TRADOStag) parser and byte-faithful writer
+2026-11-10T04:38:45.875539Z,nexus-redis,0.1.0,0,0,https://github.com/isaim0011/nexus-search,Redis backend for the Nexus search engine
+2026-11-10T04:39:42.380726Z,rightkit-web-session,0.1.0,0,0,https://github.com/bogusyogi/rightkit,"Agent browser logins: one owner-approved Chromium session at a time on the login profile, with a network policy limited to the approved sites, a live view for the owner and signed approvals."
+2026-11-10T04:40:37.778889Z,parse-codesign,0.1.0,0,0,,Inspect macOS codesigning info
+2026-11-10T04:40:56.586296Z,nexus-search-cli,0.1.0,0,0,https://github.com/isaim0011/nexus-search,CLI monitor and admin tool for Nexus search indexes
+2026-11-10T04:42:24.47136Z,nexus-dashboard,0.1.0,0,0,https://github.com/isaim0011/nexus-search,HTTP dashboard and REST API for Nexus search indexes (Axum)
+2026-11-10T04:42:47.660995Z,oqs-native-domain,0.16.0,0,0,https://github.com/DeveloperBeau/liboqs-rust,Capability interfaces of the native liboqs port and the rules that use them.
+2026-11-10T04:42:53.5702Z,oqs-native-bike,0.16.0,0,0,https://github.com/DeveloperBeau/liboqs-rust,"BIKE, the bit flipping key encapsulation, a native port of the BIKE algorithms of liboqs."
+2026-11-10T04:42:57.44445Z,oqs-native-cross,0.16.0,0,0,https://github.com/DeveloperBeau/liboqs-rust,"CROSS, the code-based signature scheme over restricted objects, a native port of the CROSS algorithms of liboqs."
+2026-11-10T04:43:03.54684Z,oqs-native-classic-mceliece,0.16.0,0,0,https://github.com/DeveloperBeau/liboqs-rust,"Classic McEliece, the code-based key encapsulation mechanism, a native port of the Classic McEliece algorithms of liboqs."
+2026-11-10T04:43:07.715264Z,oqs-native-falcon,0.16.0,0,0,https://github.com/DeveloperBeau/liboqs-rust,"Falcon, the lattice signature scheme, a native port of the Falcon algorithms of liboqs."
+2026-11-10T04:46:51.407683Z,mlx-bridge,0.32.4-alpha.5,0,0,https://github.com/aosama/mlx-bridge,"A complete, low-level, policy-free Rust bridge to the MLX-C API of Apple's MLX for Apple silicon, tracking MLX releases. Version = the verified MLX release (0.32.4; binds MLX-C 0.8)."
+2026-11-10T04:47:25.853924Z,aylis-json,0.1.0,0,0,https://github.com/e-rust/aylis,"Layouts e temas do Aylis em JSON: carregar, salvar e gerar o JSON Schema"
+2026-11-10T04:48:38.22073Z,zsyn,0.1.0,0,0,https://github.com/LIghtJUNction/zsyn,"Zero-dependency, bounded, no_std syntax trees for Typst markup, code, and math"
+2026-11-10T04:48:41.730827Z,bilingua-wiki,0.9.1,0,0,https://github.com/patois-labs/bilingua,"Bilingua: MediaWiki and DokuWiki markup filters (wiki, mediawiki, wikitext; dokuwiki)"
+2026-11-10T04:50:22.1518Z,rightkit-agent-engine-mobile-runtime,0.1.0,0,0,https://github.com/bogusyogi/rightkit,"Agent engine mobile runtime: in-process engine host for platforms without fork/exec (iOS), with journal, FFI-friendly session API and portable tool profile"
+2026-11-10T04:53:15.348643Z,oqs-native-frodokem,0.16.0,0,0,https://github.com/DeveloperBeau/liboqs-rust,"FrodoKEM and eFrodoKEM, a native port of the FrodoKEM algorithms of liboqs."
+2026-11-10T04:57:29.867722Z,aylis-markdown,0.1.0,0,0,https://github.com/e-rust/aylis,"Componente Markdown do Aylis: texto rico (títulos, listas, tabelas, código, links) desenhado pelo Canvas"
+2026-11-10T04:58:40.995116Z,bilingua-wordfast,0.9.1,0,0,https://github.com/patois-labs/bilingua,Bilingua: Wordfast Pro TXML and TXLF (bilingual) parser and byte-faithful writer
+2026-11-10T05:00:58.087951Z,rightkit-code-audit-qualification,0.1.0,0,0,https://github.com/bogusyogi/rightkit,"Qualification tooling for the code audit engine: fixture bench scoring, semantic capsule bridge, assurance record validation and security-control observation"
+2026-11-10T05:03:22.2813Z,oqs-native-hqc,0.16.0,0,0,https://github.com/DeveloperBeau/liboqs-rust,"HQC, the Hamming Quasi-Cyclic key encapsulation mechanism, a native port of the HQC algorithms of liboqs."
+2026-11-10T05:07:29.07341Z,aylis-media,0.1.0,0,0,https://github.com/e-rust/aylis,"Áudio e vídeo do Aylis: MediaPlayer, VideoPlayer, decodificadores plugáveis (Media Foundation no Windows)"
+2026-11-10T05:08:40.674242Z,bilingua-xaml,0.9.1,0,0,https://github.com/patois-labs/bilingua,"Bilingua: XAML resource strings (WPF, UWP, WinUI, MAUI, Avalonia) parser and byte-faithful writer"
+2026-11-10T05:11:05.480253Z,signa-core,0.1.0,0,0,https://github.com/ryumatag/signa,"The SIP messages, transports and transactions of signa, down to the last retransmission."
+2026-11-10T05:11:12.933069Z,signa-ua,0.0.1,0,0,https://github.com/ryumatag/signa,"Dialogs and INVITE usage on signa-core, for SIP user agents."
+2026-11-10T05:11:48.725376Z,rightkit-context-runtime,0.1.0,0,0,https://github.com/bogusyogi/rightkit,"Context runtime: pull/push context packets, durable memory service, ledger, freshness, planning, background review and the resident service."
+2026-11-10T05:13:33.049256Z,oqs-native-lms,0.16.0,0,0,https://github.com/DeveloperBeau/liboqs-rust,"LMS and HSS of RFC 8554, a native port of the LMS stateful signature algorithms of liboqs."
+2026-11-10T05:14:14.83815Z,slintx,0.1.0,0,0,https://github.com/Guhuza/slintx,A project scaffold and development CLI for Rust and Slint
+2026-11-10T05:15:55.331589Z,zdwire,0.1.1,0,0,https://github.com/LIghtJUNction/zdwire,"Zero-dependency, allocation-free DNS wire parsing and encoding"
+2026-11-10T05:17:30.125371Z,aylis-skia,0.1.0,0,0,https://github.com/e-rust/aylis,Renderizador Skia do Aylis: implementa Canvas e TextService (CPU e GPU)
+2026-11-10T05:18:37.818835Z,zldap,0.1.0,0,0,https://github.com/LIghtJUNction/zldap,"Zero-dependency, no_std LDAP/BER codec with bounded, allocation-free parsing"
+2026-11-10T05:18:41.724287Z,bilingua-xliff,0.9.1,0,0,https://github.com/patois-labs/bilingua,"Bilingua: XLIFF 1.2 (with SDLXLIFF, memoQ MQXLIFF and Phrase MXLIFF) and XLIFF 2 reader and byte-faithful writer"
