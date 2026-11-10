@@ -1,0 +1,37 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-10T11:21:36.06426Z,http-kit-tls,0.1.0,0,0,https://github.com/lexoooooo/http-kit,"TLS over owned-buffer streams with rustls's unbuffered API, handing the record layer to kernel TLS on Linux"
+2026-11-10T11:22:15.298355Z,crabxl-core,0.1.0,0,0,https://github.com/crabxl/crabxl,Shared spreadsheet types and resource limits for crabxl
+2026-11-10T11:22:33.445498Z,crabxl-xlsx,0.1.0,0,0,https://github.com/crabxl/crabxl,Bounded streaming XLSX processing for crabxl
+2026-11-10T11:22:41.395822Z,crabxl,0.1.0,0,0,https://github.com/crabxl/crabxl,"Fast, low-memory Rust library for reading, writing and editing Excel XLSX files."
+2026-11-10T11:23:22.125461Z,navree-phone,1.0.0,0,0,https://github.com/NavreeHQ/navree,"Navree phone numbers: parsing, validation, number types and formatting (E.164, international, national) on libphonenumber's numbering plans."
+2026-11-10T11:26:29.688852Z,r3vu,0.3.0,0,0,https://github.com/Pulko/p0,A mouse-driven terminal IDE for TypeScript and JavaScript on macOS.
+2026-11-10T11:26:44.678991Z,mcp-semantic-memory,0.1.0,0,0,https://github.com/haras-unicorn/mcp-semantic-memory,Stateless MCP server for long-term semantic memory
+2026-11-10T11:27:12.624983Z,mcp-semantic-memory-mariadb,0.1.0,0,0,https://github.com/haras-unicorn/mcp-semantic-memory,Stateless MCP server for long-term semantic memory
+2026-11-10T11:27:37.334706Z,mcp-semantic-memory-postgres,0.1.0,0,0,https://github.com/haras-unicorn/mcp-semantic-memory,Stateless MCP server for long-term semantic memory
+2026-11-10T11:28:03.524241Z,mcp-semantic-memory-sqlite,0.1.0,0,0,https://github.com/haras-unicorn/mcp-semantic-memory,Stateless MCP server for long-term semantic memory
+2026-11-10T11:28:43.892161Z,mcp-semantic-memory-cli,0.1.0,0,0,https://github.com/haras-unicorn/mcp-semantic-memory,Stateless MCP server for long-term semantic memory
+2026-11-10T11:29:08.675835Z,paludarium-jit-native,0.0.1,0,0,https://github.com/aletheia-works/paludarium,Native JIT for paludarium: hot blocks compiled to host code with Cranelift (name reservation; the real crate starts at 0.14.0)
+2026-11-10T11:30:24.303318Z,zumen-ifc,0.2.0,0,0,https://github.com/zumen-jp/zumen,zumen の IFC の L1（決定 0207・0211）。スキーマを知らないインスタンスのグラフと、IFC-SPF・ifcZIP のコーデック
+2026-11-10T11:33:23.639035Z,navree-template,1.0.0,0,0,https://github.com/NavreeHQ/navree,"Navree's template engine: Jinja syntax, autoescaping by mode, a sandboxed value model and caps on depth, loops, work, output and allocation."
+2026-11-10T11:40:27.70382Z,hnoss,0.8.0,0,0,https://github.com/thomas666-beast/hnoss,"Exact monetary values for Rust, with zero dependencies"
+2026-11-10T11:41:41.747259Z,cosca-path,0.7.0,0,0,https://github.com/bindreams/cosca,"Per-OS paths for cosca (faithful components, exact equality, no implicit normalisation) and a filesystem to ask about them."
+2026-11-10T11:41:43.35667Z,zumen-sheet,0.2.0,0,0,https://github.com/zumen-jp/zumen,zumen の表（Excel の xlsx と CSV）の読み取り（#391）
+2026-11-10T11:43:24.823799Z,navree-ui-macros,1.0.0,0,0,https://github.com/NavreeHQ/navree,"The derives of navree-ui (Form, Options, TableRow and FilterBar), used through navree-ui or navree."
+2026-11-10T11:48:32.067083Z,adbrent,0.2.1,0,0,https://github.com/iammosab/adbrent,"One Android device per AI agent: an adb device lock for parallel Claude Code, Codex and other agent sessions"
+2026-11-10T11:53:06.216564Z,zumen-abi,0.2.0,0,0,https://github.com/zumen-jp/zumen,zumen の API: 各言語から呼ぶ C ABI と wasm の関数と、スキーマで定めたメッセージ
+2026-11-10T11:53:22.415752Z,navree-validation-macros,1.0.0,0,0,https://github.com/NavreeHQ/navree,Navree validation macros: #[derive(Validate)] with #[validate(...)] field rules (re-exported by navree-validation).
+2026-11-10T12:00:22.304157Z,foundation_boringtun,0.7.2,0,0,https://github.com/ewe-studios/ewe_platform,"Fork of boringtun (userspace WireGuard protocol) with a wasm32 clock backend, for foundation_wireguard"
+2026-11-10T12:02:11.866081Z,envoy-windows,0.1.1,0,0,https://github.com/StrongTheDev/envoy,Envoy - Windows environment variable manager
+2026-11-10T12:03:26.680233Z,navree-contracts,1.0.0,0,0,https://github.com/NavreeHQ/navree,"Navree contracts: small cross-cutting traits and types (Secret, RequestId, Principal, sinks, jobs, clock)."
+2026-11-10T12:03:37.378758Z,tari_ootle_wallet_sdk_services,0.34.2,0,0,https://github.com/tari-project/tari-ootle,High-level wallet services and abstractions for the Tari Ootle wallet
+2026-11-10T12:04:29.434946Z,zumen,0.2.0,0,0,https://github.com/zumen-jp/zumen,zumen を Rust から使う入口。API の関数と、スキーマで定めたメッセージの型と、シーンのリーダー（決定 0017・0203）
+2026-11-10T12:04:30.678851Z,zumen-cli,0.2.0,0,0,https://github.com/zumen-jp/zumen,zumen の CLI と、標準入出力の JSON-RPC と MCP のサーバー（決定 0013・0197）
+2026-11-10T12:04:57.824175Z,zch,3.0.0,0,0,https://github.com/prsweet/zch,"Codeforces and competitive programming TUI for the Zed editor: import problems from Competitive Companion, run tests with diffs, and submit from the terminal"
+2026-11-10T12:05:30.350508Z,foundation_cloudflare_access,0.1.1,0,0,https://github.com/ewe-studios/ewe_platform,Generated Cloudflare API client: access group
+2026-11-10T12:05:37.140967Z,foundation_cloudflare_accounts,0.1.1,0,0,https://github.com/ewe-studios/ewe_platform,Generated Cloudflare API client: accounts group
+2026-11-10T12:05:49.25224Z,foundation_cloudflare_ai,0.1.1,0,0,https://github.com/ewe-studios/ewe_platform,Generated Cloudflare API client: ai group
+2026-11-10T12:05:54.591336Z,foundation_cloudflare_analytics,0.1.1,0,0,https://github.com/ewe-studios/ewe_platform,Generated Cloudflare API client: analytics group
+2026-11-10T12:12:00.897492Z,coap-fileserver,0.0.1-alpha.0,0,0,https://github.com/ariel-os/coap-fileserver,A simple CoAP file server
+2026-11-10T12:13:18.20435Z,reelhouse,0.0.1,0,0,https://github.com/fbritoferreira/reelhouse,"Open-source, Rust-native media server with Live TV/DVR and clients for every screen. Early development."
+2026-11-10T12:13:27.252336Z,navree-harbor,1.0.0,0,0,https://github.com/NavreeHQ/navree,"Navree Harbor: server provisioning over SSH, zero-downtime releases with health checks and rollbacks, and push-to-deploy, from harbor.toml."
+2026-11-10T12:16:04.395433Z,pikaid,1.0.0,0,0,https://github.com/pikaid/pikaid-rust,Official Rust implementation of pikaid — 26-character sortable Base36 identifiers with 96-bit cryptographic randomness and 17-byte binary storage.
