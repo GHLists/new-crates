@@ -1,0 +1,55 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-10T06:21:54.88754Z,tpt-doc-word,0.1.0,0,0,https://github.com/tpt-solutions/tpt-doc,"Pure-Rust .docx (OOXML Word) document generation and parsing — no COM, no LibreOffice"
+2026-11-10T06:22:34.112921Z,xstate-inspect,0.1.0,0,0,https://github.com/basiltt/xstate-statemachine-rs,"Stately Inspector protocol for xstate-core machines: inspection messages, observer, JSONL recording and replay"
+2026-11-10T06:24:28.328783Z,oqs-native-slh-dsa,0.16.0,0,0,https://github.com/DeveloperBeau/liboqs-rust,"SLH-DSA of FIPS 205, a native port of the SLH-DSA algorithms of liboqs."
+2026-11-10T06:26:19.623387Z,zumen-crs,0.2.0,0,0,https://github.com/zumen-jp/zumen,zumen の座標系と標高（決定 0019）。空間ごとの座標の型、平面直角座標の換算、ジオイドの格子の補間
+2026-11-10T06:26:25.124985Z,rightkit-evidence-commands,0.1.0,0,0,https://github.com/bogusyogi/rightkit,"Evidence, freeze, contract, decision, governance, key, state and run command logic as library modules for a host CLI"
+2026-11-10T06:26:34.377885Z,rightkit-code-audit-commands,0.1.0,0,0,https://github.com/bogusyogi/rightkit,"Code audit command logic (audit, assurance, coverage, minimize, report, review, rules, verify) as library modules for a host CLI"
+2026-11-10T06:27:24.762238Z,aylis-webview,0.1.0,0,0,https://github.com/e-rust/aylis,Componente WebView do Aylis: a página fica numa vista nativa que a plataforma põe sobre o controle
+2026-11-10T06:28:41.181427Z,bilingua-arb,0.9.1,0,0,https://github.com/patois-labs/bilingua,"Bilingua: Flutter ARB filter (messages as units, ICU plurals and selects split, byte-for-byte skeleton)"
+2026-11-10T06:29:44.157435Z,mssql-rs,0.0.1-alpha.1,0,0,https://github.com/microsoft/mssql-rs,Placeholder for a future Microsoft SQL Server Driver
+2026-11-10T06:31:57.71694Z,tpt-doc-layout,0.1.0,0,0,https://github.com/tpt-solutions/tpt-doc,"Minimal, deterministic, headless HTML/CSS-to-PDF layout engine for generating compliant reports"
+2026-11-10T06:33:04.411947Z,xstate-observability,0.1.0,0,0,https://github.com/basiltt/xstate-statemachine-rs,"Metrics and tracing observers for xstate-core machines (metrics facade, label hygiene)"
+2026-11-10T06:34:37.20192Z,oqs-native-snova,0.16.0,0,0,https://github.com/DeveloperBeau/liboqs-rust,"SNOVA, the multivariate signature scheme, a native port of the SNOVA algorithms of liboqs."
+2026-11-10T06:37:30.649318Z,aylis-remote,0.1.0,0,0,https://github.com/e-rust/aylis,Protocolo do Aylis: comandos e eventos em JSON para backends em qualquer linguagem
+2026-11-10T06:37:30.9854Z,zumen-civil,0.2.0,0,0,https://github.com/zumen-jp/zumen,zumen の土木の領域モデル（L2、決定 0230）。線形・縦断・片勾配・測点・横断・TIN と、線形の上の位置の計算
+2026-11-10T06:38:08.229764Z,rightkit-media-gen,0.1.1,0,0,https://github.com/bogusyogi/rightkit,"Generative media providers (fal, WaveSpeed, Veo/Gemini, OpenAI Images, ElevenLabs, HeyGen, EvoLink, Higgsfield, Muapi, NanoBanana, Replicate, Wan2GP, Blender, local), model catalogue and facts, routi…"
+2026-11-10T06:38:13.192408Z,dioxus-mind-elixir,0.1.0,0,0,https://github.com/pk111and222/dioxus-mind-elixir,A Rust-native Dioxus mind map component with CSS-variable styling
+2026-11-10T06:38:28.296983Z,xstate-agents,0.1.0,0,0,https://github.com/basiltt/xstate-statemachine-rs,"LLM agents as statecharts for xstate-core: the tool-loop chart, budgets as guards, tool registry with allow-lists and approvals, runner, trace and multi-agent helpers"
+2026-11-10T06:38:41.279183Z,bilingua-csv,0.9.1,0,0,https://github.com/patois-labs/bilingua,Bilingua: CSV and TSV filter
+2026-11-10T06:41:52.879382Z,tpt-doc-sign,0.1.0,0,0,https://github.com/tpt-solutions/tpt-doc,"Pure-Rust cryptographic document signing — PAdES, XAdES, CAdES — leveraging ring primitives"
+2026-11-10T06:42:26.917353Z,vtcode-threads,0.181.10,0,0,https://github.com/vinhnx/vtcode,Thread identifiers and lifecycle types extracted from vtcode-core for independent builds.
+2026-11-10T06:43:25.391251Z,bbpe_rs,0.1.0,0,0,https://github.com/hoare211/bbpe_rs,A byte-level BPE tokenizer trainer and encoder for very large corpora
+2026-11-10T06:44:44.249014Z,oqs-native-system-random,0.16.0,0,0,https://github.com/DeveloperBeau/liboqs-rust,Random bytes from the operating system for the native liboqs port.
+2026-11-10T06:47:32.358458Z,vtmux-ghostty-vt-sys,3.8.0-beta.1,0,0,https://github.com/martintrojer/vtmux,"Raw FFI bindings to Ghostty's libghostty-vt, built from a pinned Ghostty commit with vtmux's patches (vtmux's fork of libghostty-vt-sys)"
+2026-11-10T06:47:33.812168Z,aylis,0.1.0,0,0,https://github.com/e-rust/aylis,"Aylis: framework de interface em Rust com designer visual, forms em JSON e camada de dados — a fachada que junta núcleo, controles, dados, plataforma e projeto"
+2026-11-10T06:48:20.568586Z,vtmux-ghostty-vt,3.8.0-beta.1,0,0,https://github.com/martintrojer/vtmux,"Safe Rust API over Ghostty's libghostty-vt terminal emulator, with vtmux's additions (vtmux's fork of libghostty-vt)"
+2026-11-10T06:48:26.036034Z,vtmux-vt,3.8.0-beta.1,0,0,https://github.com/martintrojer/vtmux,"vtmux's pane terminal: Ghostty's libghostty-vt shaped like a tmux pane (capture, query replies, state export for live upgrade). Internal to vtmux, no stable API: install `vtmux`."
+2026-11-10T06:48:32.655448Z,vtmux-core,3.8.0-beta.1,0,0,https://github.com/martintrojer/vtmux,"tmux 3.8's semantics in pure Rust for vtmux: commands, formats, options, keys, layouts, the client/server protocol. Internal to vtmux, no stable API: install `vtmux`."
+2026-11-10T06:48:37.646603Z,vtmux-snapshot,3.8.0-beta.1,0,0,https://github.com/martintrojer/vtmux,"vtmux's live-upgrade and persistence format. Internal to vtmux, no stable API: install `vtmux`."
+2026-11-10T06:48:41.433405Z,bilingua-desktop,0.9.1,0,0,https://github.com/patois-labs/bilingua,Bilingua: freedesktop .desktop entry and Haiku .catkeys filters
+2026-11-10T06:48:41.838512Z,zumen-drawing,0.2.0,0,0,https://github.com/zumen-jp/zumen,zumen の図面の領域モデル（L2）。形式に依存しない
+2026-11-10T06:48:43.902579Z,vtmux-client,3.8.0-beta.1,0,0,https://github.com/martintrojer/vtmux,"vtmux's attached client. Internal to vtmux, no stable API: install `vtmux`."
+2026-11-10T06:48:49.209819Z,rightkit-approvals,0.1.0,0,0,https://github.com/bogusyogi/rightkit,"In-app approval of paid drafts and deliveries: single-use challenges, launch-secret tokens minted by the shell and verified by the engine, parent binding, host-registered draft kinds"
+2026-11-10T06:49:21.52834Z,xstate-eda,0.1.0,0,0,https://github.com/basiltt/xstate-statemachine-rs,"Event-driven architecture for xstate-core machines: CloudEvents envelopes, broker adapters, inbound dispatcher, transactional outbox, dead-letter queues and AsyncAPI"
+2026-11-10T06:52:02.172649Z,tpt-doc-ubl,0.1.0,0,0,https://github.com/tpt-solutions/tpt-doc,UBL 2.1/2.3 and PEPPOL BIS Billing 3.0 e-invoicing — parse and generate compliant XML invoices
+2026-11-10T06:54:53.544639Z,oqs-native-uov,0.16.0,0,0,https://github.com/DeveloperBeau/liboqs-rust,"UOV, the Unbalanced Oil and Vinegar signature scheme, a native port of the UOV algorithms of liboqs."
+2026-11-10T06:58:41.044617Z,bilingua-dita,0.9.1,0,0,https://github.com/patois-labs/bilingua,"Bilingua: DITA (dita, ditamap, bookmap) and DocBook (dbk, docbook) filters on the bilingua-xml engine"
+2026-11-10T06:59:30.175934Z,rightkit-remote-compute,0.1.0,0,0,https://github.com/bogusyogi/rightkit,"Local and rented model compute: model catalogue, memory governor, installs, SSH and Vast.ai drivers, register/stage/run/teardown lifecycle, and the time-billed spend bracket with duration, budget and…"
+2026-11-10T06:59:50.314869Z,zumen-acad,0.2.0,0,0,https://github.com/zumen-jp/zumen,zumen の AutoCAD の系統のファイルモデル（L1）と、そのコーデック
+2026-11-10T06:59:55.129764Z,xstate-patterns,0.1.0,0,0,https://github.com/basiltt/xstate-statemachine-rs,"Resilience patterns for xstate-core machines: retry policies, circuit breaker, saga builder, choreography router"
+2026-11-10T07:01:54.516407Z,tpt-doc-diff,0.1.0,0,0,https://github.com/tpt-solutions/tpt-doc,"Structural diff for HL7 v2, EDIFACT, X12, FHIR JSON, XLSX and DOCX with path-style output"
+2026-11-10T07:05:02.480781Z,oqs-native-xmss,0.16.0,0,0,https://github.com/DeveloperBeau/liboqs-rust,"XMSS and XMSS^MT of RFC 8391, a native port of the stateful XMSS signatures of liboqs."
+2026-11-10T07:05:28.746342Z,tiny-symmetric,0.1.0,0,0,,tiny symmetric crate
+2026-11-10T07:05:53.729754Z,vtmux-server,3.8.0-beta.1,0,0,https://github.com/martintrojer/vtmux,"vtmux's server: sessions, panes, PTYs, control mode, the compositor, live upgrade. Internal to vtmux, no stable API: install `vtmux`."
+2026-11-10T07:08:16.545795Z,vtmux,3.8.0-beta.1,0,0,https://github.com/martintrojer/vtmux,Drop-in tmux 3.8 replacement in Rust on Ghostty's libghostty-vt. Modern stack. Better rendering. Live upgrades.
+2026-11-10T07:08:41.698891Z,bilingua-docx,0.9.1,0,0,https://github.com/patois-labs/bilingua,Bilingua: Word (DOCX) parser. Extracts one unit per paragraph and writes the translation back.
+2026-11-10T07:10:07.070438Z,rightkit-media-pipeline,0.1.0,0,0,https://github.com/bogusyogi/rightkit,"Named production pipelines on rightkit-media-gen: compose, dubbing with retiming, translation with terminology, fan-out multi-job steps, finishing hand-off and the campaign production stack"
+2026-11-10T07:10:37.32478Z,xstate-axum,0.1.0,0,0,https://github.com/basiltt/xstate-statemachine-rs,"axum integration for xstate-core machines: registry, REST and per-event routes, SSE and WebSocket streaming, problem details, Stately Inspector endpoint"
+2026-11-10T07:11:32.457799Z,zumen-civil-drawing,0.2.0,0,0,https://github.com/zumen-jp/zumen,zumen の土木の領域モデルから、線形の平面図・縦断図・横断図を図面モデルに出す（決定 0231）
+2026-11-10T07:11:53.014966Z,tpt-doc-audit,0.1.0,0,0,https://github.com/tpt-solutions/tpt-doc,"Tamper-evident audit log: a SHA-256 hash chain over events, with the head sealed by a CAdES signature"
+2026-11-10T07:14:20.037471Z,fingerly,0.1.0,0,0,https://github.com/fingerly-io/sdk-rust,"Server-side Fingerly SDK: event reads, webhook verification and a same-origin proxy for the browser SDK."
+2026-11-10T07:15:10.787405Z,oqs-native-kat-random,0.16.0,0,0,https://github.com/DeveloperBeau/liboqs-rust,The deterministic random generators of the liboqs known-answer tests: the NIST AES-256 CTR DRBG and the HQC SHAKE256 generator.
+2026-11-10T07:17:53.947611Z,pragma_rhi,1.0.0,0,0,https://github.com/razedproduction/pragma.component-rhi,"Render Hardware Interface for pragma.core-based game engines and frameworks, in pure Rust"
+2026-11-10T07:18:41.115243Z,bilingua-idml,0.9.1,0,0,https://github.com/patois-labs/bilingua,"Bilingua: Adobe InDesign IDML parser. One unit per paragraph, styles as inline tags, stories rewritten in place."
+2026-11-10T07:20:25.564113Z,logbear-core,0.1.3,0,0,https://github.com/teralabx/logbear,"Capture, storage, parsing and query core for logbear"

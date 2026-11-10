@@ -8,77 +8,68 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-10 06:21 UTC
+## Latest list — 2026-11-10 07:20 UTC
 
-New crates published between 2026-11-10 05:20 UTC and 2026-11-10 06:21 UTC.
+New crates published between 2026-11-10 06:21 UTC and 2026-11-10 07:20 UTC.
 
-[Full CSV](data/new-crates-2026-11-10T06-21-25-870715Z.csv)
+[Full CSV](data/new-crates-2026-11-10T07-20-26-686211Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-10 05:21:41 | [ls-logging](https://crates.io/crates/ls-logging) | 0.1.0 | 0 | Логи служб lightmaster в journald |
-| 2026-11-10 05:22:28 | [rightkit-dictation-runtime](https://crates.io/crates/rightkit-dictation-runtime) | 0.1.0 | 0 | Dictation engine runtime: the JSON-RPC sidecar worker (recording, finalize, pol… |
-| 2026-11-10 05:23:40 | [oqs-native-mayo](https://crates.io/crates/oqs-native-mayo) | 0.16.0 | 0 | MAYO, the oil and vinegar signature scheme, a native port of the MAYO algorithm… |
-| 2026-11-10 05:27:24 | [aylis-web](https://crates.io/crates/aylis-web) | 0.1.0 | 0 | Renderizador do Aylis para navegadores: Canvas e TextService sobre o Canvas 2D |
-| 2026-11-10 05:28:41 | [bilingua-xml](https://crates.io/crates/bilingua-xml) | 0.9.1 | 0 | Bilingua: generic XML with ITS 2.0 rules, and multilingual XML (the base for DI… |
-| 2026-11-10 05:30:47 | [numpression](https://crates.io/crates/numpression) | 0.1.0 | 0 | MS-Numpress encoding and decoding (linear, pic, slof) for mass spectrometry dat… |
-| 2026-11-10 05:30:57 | [kan-core](https://crates.io/crates/kan-core) | 0.0.1 | 0 | Core router library for Kan |
-| 2026-11-10 05:31:08 | [kan-macros](https://crates.io/crates/kan-macros) | 0.0.1 | 0 | Optional procedural macros for Kan |
-| 2026-11-10 05:31:16 | [kan-hot](https://crates.io/crates/kan-hot) | 0.0.1 | 0 | Development-time hot reloading for Kan routers |
-| 2026-11-10 05:31:23 | [kan-hot-dev](https://crates.io/crates/kan-hot-dev) | 0.0.1 | 0 | Development runner for Kan hot reloading |
-| 2026-11-10 05:31:31 | [kan-cli](https://crates.io/crates/kan-cli) | 0.0.1 | 0 | Command-line entry point for Kan development |
-| 2026-11-10 05:32:59 | [rightkit-dictation-tauri](https://crates.io/crates/rightkit-dictation-tauri) | 0.1.1 | 0 | Dictation runtime for a desktop shell: recording state machine over the engine… |
-| 2026-11-10 05:33:48 | [oqs-native-ml-dsa](https://crates.io/crates/oqs-native-ml-dsa) | 0.16.0 | 0 | ML-DSA of FIPS 204, a native port of the ML-DSA algorithms of liboqs. |
-| 2026-11-10 05:34:54 | [psst-cli](https://crates.io/crates/psst-cli) | 0.1.1 | 0 | Short-lived, local sessions for 1Password item-sharing links |
-| 2026-11-10 05:37:26 | [aylis-d2d](https://crates.io/crates/aylis-d2d) | 0.1.0 | 0 | Renderizador do Aylis no Windows sem Skia: Direct2D (GPU) e DirectWrite, que já… |
-| 2026-11-10 05:38:41 | [bilingua-xmlres](https://crates.io/crates/bilingua-xmlres) | 0.9.1 | 0 | Bilingua: Android strings.xml and Java XML properties (XML software resources s… |
-| 2026-11-10 05:43:36 | [rightkit-evidence-application](https://crates.io/crates/rightkit-evidence-application) | 0.1.0 | 0 | In-process evidence application: composes audit, orchestration, policy and repo… |
-| 2026-11-10 05:43:48 | [tpt-doc-core](https://crates.io/crates/tpt-doc-core) | 0.1.0 | 0 | Shared traits, zero-copy buffer abstractions, and unified error types for the t… |
-| 2026-11-10 05:43:55 | [oqs-native-ml-kem](https://crates.io/crates/oqs-native-ml-kem) | 0.16.0 | 0 | ML-KEM of FIPS 203, a native port of the ML-KEM algorithms of liboqs. |
-| 2026-11-10 05:44:02 | [tpt-doc-fhir](https://crates.io/crates/tpt-doc-fhir) | 0.1.0 | 0 | HL7 FHIR R5 typed parsing, validation, and serialization with compile-time reso… |
-| 2026-11-10 05:44:09 | [tpt-doc-hl7v2](https://crates.io/crates/tpt-doc-hl7v2) | 0.1.0 | 0 | Streaming HL7 v2.x (pipe-delimited) message parser and encoder — zero allocatio… |
-| 2026-11-10 05:44:16 | [tpt-doc-edi](https://crates.io/crates/tpt-doc-edi) | 0.1.0 | 0 | EDIFACT and X12 parsing with schema validation and zero-allocation segment stre… |
-| 2026-11-10 05:44:26 | [tpt-doc-ooxml](https://crates.io/crates/tpt-doc-ooxml) | 0.1.0 | 0 | Shared OOXML package handling (ZIP containers and XML parts) for the XLSX and D… |
-| 2026-11-10 05:47:31 | [aylis-platform-winit](https://crates.io/crates/aylis-platform-winit) | 0.1.0 | 0 | Plataforma do Aylis sobre winit: desktop e celular (Skia na CPU ou GPU) e naveg… |
-| 2026-11-10 05:48:41 | [bilingua-xslt](https://crates.io/crates/bilingua-xslt) | 0.9.1 | 0 | Bilingua: XSLT stylesheets (xsl, xslt) literal result text parser and byte-fait… |
-| 2026-11-10 05:52:07 | [tpt-doc-pdf](https://crates.io/crates/tpt-doc-pdf) | 0.1.0 | 0 | Pure-Rust PDF 1.7/2.0 generation and parsing — no pdfium, no C-FFI |
-| 2026-11-10 05:54:03 | [oqs-native-mqom](https://crates.io/crates/oqs-native-mqom) | 0.16.0 | 0 | MQOM, the MQ on my Mind signature scheme, a native port of the MQOM algorithms… |
-| 2026-11-10 05:54:09 | [rightkit-github](https://crates.io/crates/rightkit-github) | 0.1.1 | 0 | GitHub App authority contracts, forge request specs, App state store, webhook v… |
-| 2026-11-10 05:57:28 | [aylis-vector](https://crates.io/crates/aylis-vector) | 0.1.0 | 0 | Desenhos vetoriais do Aylis: animações Lottie e imagens SVG, desenhadas pelo Ca… |
-| 2026-11-10 05:58:40 | [bilingua-xtg](https://crates.io/crates/bilingua-xtg) | 0.9.1 | 0 | Bilingua: QuarkXPress Tags (XPress Tags tagged text, .xtg and .tag) parser |
-| 2026-11-10 05:59:27 | [frontierqa-core](https://crates.io/crates/frontierqa-core) | 0.1.0 | 0 | Shared reporting engine for FrontierQA: parse JUnit XML and Playwright JSON, re… |
-| 2026-11-10 06:00:44 | [frontierqa](https://crates.io/crates/frontierqa) | 0.1.0 | 0 | Standalone CLI for FrontierQA: normalize JUnit XML and Playwright JSON into fro… |
-| 2026-11-10 06:01:53 | [tpt-doc-convert](https://crates.io/crates/tpt-doc-convert) | 0.1.0 | 0 | Format converters for tpt-doc: HL7 v2 ADT/ORU messages to FHIR R5 bundles |
-| 2026-11-10 06:03:59 | [zumen-base](https://crates.io/crates/zumen-base) | 0.2.0 | 0 | zumen の横断の部品: 診断・予算・中断の合図と、それらを運ぶ文脈 |
-| 2026-11-10 06:03:59 | [zumen-geom2d](https://crates.io/crates/zumen-geom2d) | 0.2.0 | 0 | zumen の 2D の幾何（L3）。曲線を許容差つきで折れ線にし、線種を線と間に展開する（決定 0018・0172） |
-| 2026-11-10 06:03:59 | [zumen-json](https://crates.io/crates/zumen-json) | 0.2.0 | 0 | zumen の API のメッセージの JSON: 厳しく読み、どの環境でも同じバイト列に書く |
-| 2026-11-10 06:04:02 | [zumen-building](https://crates.io/crates/zumen-building) | 0.2.0 | 0 | zumen の建物モデル（L2、決定 0207）。要素とコンポーネント、ID とハッシュ、配置の連鎖、関係の索引 |
-| 2026-11-10 06:04:02 | [zumen-geom3d](https://crates.io/crates/zumen-geom3d) | 0.2.0 | 0 | zumen の 3D の幾何。点・配置・メッシュと、形状表現を評価するカーネルと平面での切断の trait（決定 0018） |
-| 2026-11-10 06:04:11 | [oqs-native-ntru](https://crates.io/crates/oqs-native-ntru) | 0.16.0 | 0 | NTRU, the NTRU-HPS and NTRU-HRSS key encapsulation mechanisms, a native port of… |
-| 2026-11-10 06:04:57 | [flyedge](https://crates.io/crates/flyedge) | 0.4.0 | 0 | flyedge agent-protection SDK, wire-compatible with the prism/policy API gateway… |
-| 2026-11-10 06:05:02 | [rightkit-context](https://crates.io/crates/rightkit-context) | 0.1.0 | 0 | Context, memory and repository-graph commands for coding agents: the membrane C… |
-| 2026-11-10 06:07:30 | [aylis-project](https://crates.io/crates/aylis-project) | 0.1.0 | 0 | Projetos do Aylis: o .aylisproj, a pasta do projeto, a fábrica de forms, os rec… |
-| 2026-11-10 06:08:12 | [xstate-core](https://crates.io/crates/xstate-core) | 0.1.0 | 0 | XState v5 / SCXML statechart engine: machine model, JSON parser, sans-I/O step… |
-| 2026-11-10 06:08:40 | [bilingua-yaml](https://crates.io/crates/bilingua-yaml) | 0.9.1 | 0 | Bilingua: YAML filter (generic, Rails i18n and Symfony YAML; values edited in p… |
-| 2026-11-10 06:08:45 | [xstate-macros](https://crates.io/crates/xstate-macros) | 0.1.0 | 0 | Procedural macros for xstate-core: typed events and a statechart DSL checked at… |
-| 2026-11-10 06:09:05 | [xstate-tokio](https://crates.io/crates/xstate-tokio) | 0.1.0 | 0 | Async (tokio) interpreter for xstate-core machines: mailbox, timers, invoked se… |
-| 2026-11-10 06:09:08 | [ai_i18n_lang](https://crates.io/crates/ai_i18n_lang) | 0.1.0 | 0 | ai_i18n_lang |
-| 2026-11-10 06:09:29 | [xstate-persistence](https://crates.io/crates/xstate-persistence) | 0.1.0 | 0 | Stores, locks, durable timers, idempotency and audit log for xstate-core machin… |
-| 2026-11-10 06:09:45 | [xstate-testing](https://crates.io/crates/xstate-testing) | 0.1.0 | 0 | Test helpers for xstate-core machines: stub logic, simulated clock fixtures, pa… |
-| 2026-11-10 06:09:59 | [gogo-ui](https://crates.io/crates/gogo-ui) | 0.1.0 | 0 | gogo: a declarative UI language for apps and games. Compiles .gogo pages to sta… |
-| 2026-11-10 06:10:01 | [gogo-text](https://crates.io/crates/gogo-text) | 0.1.0 | 0 | Text for gogo UIs: shapes and measures text and rasterizes glyphs into two atla… |
-| 2026-11-10 06:10:03 | [gogo-wgpu](https://crates.io/crates/gogo-wgpu) | 0.1.0 | 0 | Draws a gogo UI with wgpu: the draw list of gogo-ui and the glyphs of gogo-text… |
-| 2026-11-10 06:11:53 | [tpt-doc-spreadsheet](https://crates.io/crates/tpt-doc-spreadsheet) | 0.1.0 | 0 | Streaming .xlsx (OOXML) and .csv parsing and generation without loading entire… |
-| 2026-11-10 06:14:19 | [oqs-native-ntru-prime](https://crates.io/crates/oqs-native-ntru-prime) | 0.16.0 | 0 | Streamlined NTRU Prime, the sntrup761 key encapsulation mechanism, a native por… |
-| 2026-11-10 06:14:28 | [pensive](https://crates.io/crates/pensive) | 0.1.0 | 0 | A review-first Git client. |
-| 2026-11-10 06:14:53 | [farmfe_ecosystem_glob](https://crates.io/crates/farmfe_ecosystem_glob) | 0.1.0 | 0 | Farm's scoped picomatch-derived matcher and import glob walker |
-| 2026-11-10 06:15:11 | [zumen-sdk](https://crates.io/crates/zumen-sdk) | 0.2.0 | 0 | zumen の形式を書くための部品: コーデックとファイルモデルの trait、形式の判定の規則、テストのツール |
-| 2026-11-10 06:15:43 | [rightkit-dictation-engine](https://crates.io/crates/rightkit-dictation-engine) | 0.1.0 | 0 | Dictation engine: the speech engine sidecar binary and library facade over the… |
-| 2026-11-10 06:17:26 | [aylis-providers](https://crates.io/crates/aylis-providers) | 0.1.0 | 0 | Provedores do Aylis (código de barras, exportação CSV e XLSX, PDF, servidor de… |
-| 2026-11-10 06:17:45 | [vba-rs](https://crates.io/crates/vba-rs) | 0.0.0 | 0 | Reserved. |
-| 2026-11-10 06:18:41 | [bilingua-zip](https://crates.io/crates/bilingua-zip) | 0.9.1 | 0 | Bilingua: the safe zip reader and writer shared by the Office parsers (DOCX, XL… |
-| 2026-11-10 06:19:22 | [dmgez](https://crates.io/crates/dmgez) | 0.0.0 | 0 | Reserved. |
-| 2026-11-10 06:19:57 | [dockhand](https://crates.io/crates/dockhand) | 0.0.0 | 0 | Reserved. |
+| 2026-11-10 06:21:54 | [tpt-doc-word](https://crates.io/crates/tpt-doc-word) | 0.1.0 | 0 | Pure-Rust .docx (OOXML Word) document generation and parsing — no COM, no Libre… |
+| 2026-11-10 06:22:34 | [xstate-inspect](https://crates.io/crates/xstate-inspect) | 0.1.0 | 0 | Stately Inspector protocol for xstate-core machines: inspection messages, obser… |
+| 2026-11-10 06:24:28 | [oqs-native-slh-dsa](https://crates.io/crates/oqs-native-slh-dsa) | 0.16.0 | 0 | SLH-DSA of FIPS 205, a native port of the SLH-DSA algorithms of liboqs. |
+| 2026-11-10 06:26:19 | [zumen-crs](https://crates.io/crates/zumen-crs) | 0.2.0 | 0 | zumen の座標系と標高（決定 0019）。空間ごとの座標の型、平面直角座標の換算、ジオイドの格子の補間 |
+| 2026-11-10 06:26:25 | [rightkit-evidence-commands](https://crates.io/crates/rightkit-evidence-commands) | 0.1.0 | 0 | Evidence, freeze, contract, decision, governance, key, state and run command lo… |
+| 2026-11-10 06:26:34 | [rightkit-code-audit-commands](https://crates.io/crates/rightkit-code-audit-commands) | 0.1.0 | 0 | Code audit command logic (audit, assurance, coverage, minimize, report, review,… |
+| 2026-11-10 06:27:24 | [aylis-webview](https://crates.io/crates/aylis-webview) | 0.1.0 | 0 | Componente WebView do Aylis: a página fica numa vista nativa que a plataforma p… |
+| 2026-11-10 06:28:41 | [bilingua-arb](https://crates.io/crates/bilingua-arb) | 0.9.1 | 0 | Bilingua: Flutter ARB filter (messages as units, ICU plurals and selects split,… |
+| 2026-11-10 06:29:44 | [mssql-rs](https://crates.io/crates/mssql-rs) | 0.0.1-alpha.1 | 0 | Placeholder for a future Microsoft SQL Server Driver |
+| 2026-11-10 06:31:57 | [tpt-doc-layout](https://crates.io/crates/tpt-doc-layout) | 0.1.0 | 0 | Minimal, deterministic, headless HTML/CSS-to-PDF layout engine for generating c… |
+| 2026-11-10 06:33:04 | [xstate-observability](https://crates.io/crates/xstate-observability) | 0.1.0 | 0 | Metrics and tracing observers for xstate-core machines (metrics facade, label h… |
+| 2026-11-10 06:34:37 | [oqs-native-snova](https://crates.io/crates/oqs-native-snova) | 0.16.0 | 0 | SNOVA, the multivariate signature scheme, a native port of the SNOVA algorithms… |
+| 2026-11-10 06:37:30 | [aylis-remote](https://crates.io/crates/aylis-remote) | 0.1.0 | 0 | Protocolo do Aylis: comandos e eventos em JSON para backends em qualquer lingua… |
+| 2026-11-10 06:37:30 | [zumen-civil](https://crates.io/crates/zumen-civil) | 0.2.0 | 0 | zumen の土木の領域モデル（L2、決定 0230）。線形・縦断・片勾配・測点・横断・TIN と、線形の上の位置の計算 |
+| 2026-11-10 06:38:08 | [rightkit-media-gen](https://crates.io/crates/rightkit-media-gen) | 0.1.1 | 0 | Generative media providers (fal, WaveSpeed, Veo/Gemini, OpenAI Images, ElevenLa… |
+| 2026-11-10 06:38:13 | [dioxus-mind-elixir](https://crates.io/crates/dioxus-mind-elixir) | 0.1.0 | 0 | A Rust-native Dioxus mind map component with CSS-variable styling |
+| 2026-11-10 06:38:28 | [xstate-agents](https://crates.io/crates/xstate-agents) | 0.1.0 | 0 | LLM agents as statecharts for xstate-core: the tool-loop chart, budgets as guar… |
+| 2026-11-10 06:38:41 | [bilingua-csv](https://crates.io/crates/bilingua-csv) | 0.9.1 | 0 | Bilingua: CSV and TSV filter |
+| 2026-11-10 06:41:52 | [tpt-doc-sign](https://crates.io/crates/tpt-doc-sign) | 0.1.0 | 0 | Pure-Rust cryptographic document signing — PAdES, XAdES, CAdES — leveraging rin… |
+| 2026-11-10 06:42:26 | [vtcode-threads](https://crates.io/crates/vtcode-threads) | 0.181.10 | 0 | Thread identifiers and lifecycle types extracted from vtcode-core for independe… |
+| 2026-11-10 06:43:25 | [bbpe_rs](https://crates.io/crates/bbpe_rs) | 0.1.0 | 0 | A byte-level BPE tokenizer trainer and encoder for very large corpora |
+| 2026-11-10 06:44:44 | [oqs-native-system-random](https://crates.io/crates/oqs-native-system-random) | 0.16.0 | 0 | Random bytes from the operating system for the native liboqs port. |
+| 2026-11-10 06:47:32 | [vtmux-ghostty-vt-sys](https://crates.io/crates/vtmux-ghostty-vt-sys) | 3.8.0-beta.1 | 0 | Raw FFI bindings to Ghostty's libghostty-vt, built from a pinned Ghostty commit… |
+| 2026-11-10 06:47:33 | [aylis](https://crates.io/crates/aylis) | 0.1.0 | 0 | Aylis: framework de interface em Rust com designer visual, forms em JSON e cama… |
+| 2026-11-10 06:48:20 | [vtmux-ghostty-vt](https://crates.io/crates/vtmux-ghostty-vt) | 3.8.0-beta.1 | 0 | Safe Rust API over Ghostty's libghostty-vt terminal emulator, with vtmux's addi… |
+| 2026-11-10 06:48:26 | [vtmux-vt](https://crates.io/crates/vtmux-vt) | 3.8.0-beta.1 | 0 | vtmux's pane terminal: Ghostty's libghostty-vt shaped like a tmux pane (capture… |
+| 2026-11-10 06:48:32 | [vtmux-core](https://crates.io/crates/vtmux-core) | 3.8.0-beta.1 | 0 | tmux 3.8's semantics in pure Rust for vtmux: commands, formats, options, keys,… |
+| 2026-11-10 06:48:37 | [vtmux-snapshot](https://crates.io/crates/vtmux-snapshot) | 3.8.0-beta.1 | 0 | vtmux's live-upgrade and persistence format. Internal to vtmux, no stable API:… |
+| 2026-11-10 06:48:41 | [bilingua-desktop](https://crates.io/crates/bilingua-desktop) | 0.9.1 | 0 | Bilingua: freedesktop .desktop entry and Haiku .catkeys filters |
+| 2026-11-10 06:48:41 | [zumen-drawing](https://crates.io/crates/zumen-drawing) | 0.2.0 | 0 | zumen の図面の領域モデル（L2）。形式に依存しない |
+| 2026-11-10 06:48:43 | [vtmux-client](https://crates.io/crates/vtmux-client) | 3.8.0-beta.1 | 0 | vtmux's attached client. Internal to vtmux, no stable API: install `vtmux`. |
+| 2026-11-10 06:48:49 | [rightkit-approvals](https://crates.io/crates/rightkit-approvals) | 0.1.0 | 0 | In-app approval of paid drafts and deliveries: single-use challenges, launch-se… |
+| 2026-11-10 06:49:21 | [xstate-eda](https://crates.io/crates/xstate-eda) | 0.1.0 | 0 | Event-driven architecture for xstate-core machines: CloudEvents envelopes, brok… |
+| 2026-11-10 06:52:02 | [tpt-doc-ubl](https://crates.io/crates/tpt-doc-ubl) | 0.1.0 | 0 | UBL 2.1/2.3 and PEPPOL BIS Billing 3.0 e-invoicing — parse and generate complia… |
+| 2026-11-10 06:54:53 | [oqs-native-uov](https://crates.io/crates/oqs-native-uov) | 0.16.0 | 0 | UOV, the Unbalanced Oil and Vinegar signature scheme, a native port of the UOV… |
+| 2026-11-10 06:58:41 | [bilingua-dita](https://crates.io/crates/bilingua-dita) | 0.9.1 | 0 | Bilingua: DITA (dita, ditamap, bookmap) and DocBook (dbk, docbook) filters on t… |
+| 2026-11-10 06:59:30 | [rightkit-remote-compute](https://crates.io/crates/rightkit-remote-compute) | 0.1.0 | 0 | Local and rented model compute: model catalogue, memory governor, installs, SSH… |
+| 2026-11-10 06:59:50 | [zumen-acad](https://crates.io/crates/zumen-acad) | 0.2.0 | 0 | zumen の AutoCAD の系統のファイルモデル（L1）と、そのコーデック |
+| 2026-11-10 06:59:55 | [xstate-patterns](https://crates.io/crates/xstate-patterns) | 0.1.0 | 0 | Resilience patterns for xstate-core machines: retry policies, circuit breaker,… |
+| 2026-11-10 07:01:54 | [tpt-doc-diff](https://crates.io/crates/tpt-doc-diff) | 0.1.0 | 0 | Structural diff for HL7 v2, EDIFACT, X12, FHIR JSON, XLSX and DOCX with path-st… |
+| 2026-11-10 07:05:02 | [oqs-native-xmss](https://crates.io/crates/oqs-native-xmss) | 0.16.0 | 0 | XMSS and XMSS^MT of RFC 8391, a native port of the stateful XMSS signatures of… |
+| 2026-11-10 07:05:28 | [tiny-symmetric](https://crates.io/crates/tiny-symmetric) | 0.1.0 | 0 | tiny symmetric crate |
+| 2026-11-10 07:05:53 | [vtmux-server](https://crates.io/crates/vtmux-server) | 3.8.0-beta.1 | 0 | vtmux's server: sessions, panes, PTYs, control mode, the compositor, live upgra… |
+| 2026-11-10 07:08:16 | [vtmux](https://crates.io/crates/vtmux) | 3.8.0-beta.1 | 0 | Drop-in tmux 3.8 replacement in Rust on Ghostty's libghostty-vt. Modern stack.… |
+| 2026-11-10 07:08:41 | [bilingua-docx](https://crates.io/crates/bilingua-docx) | 0.9.1 | 0 | Bilingua: Word (DOCX) parser. Extracts one unit per paragraph and writes the tr… |
+| 2026-11-10 07:10:07 | [rightkit-media-pipeline](https://crates.io/crates/rightkit-media-pipeline) | 0.1.0 | 0 | Named production pipelines on rightkit-media-gen: compose, dubbing with retimin… |
+| 2026-11-10 07:10:37 | [xstate-axum](https://crates.io/crates/xstate-axum) | 0.1.0 | 0 | axum integration for xstate-core machines: registry, REST and per-event routes,… |
+| 2026-11-10 07:11:32 | [zumen-civil-drawing](https://crates.io/crates/zumen-civil-drawing) | 0.2.0 | 0 | zumen の土木の領域モデルから、線形の平面図・縦断図・横断図を図面モデルに出す（決定 0231） |
+| 2026-11-10 07:11:53 | [tpt-doc-audit](https://crates.io/crates/tpt-doc-audit) | 0.1.0 | 0 | Tamper-evident audit log: a SHA-256 hash chain over events, with the head seale… |
+| 2026-11-10 07:14:20 | [fingerly](https://crates.io/crates/fingerly) | 0.1.0 | 0 | Server-side Fingerly SDK: event reads, webhook verification and a same-origin p… |
+| 2026-11-10 07:15:10 | [oqs-native-kat-random](https://crates.io/crates/oqs-native-kat-random) | 0.16.0 | 0 | The deterministic random generators of the liboqs known-answer tests: the NIST… |
+| 2026-11-10 07:17:53 | [pragma_rhi](https://crates.io/crates/pragma_rhi) | 1.0.0 | 0 | Render Hardware Interface for pragma.core-based game engines and frameworks, in… |
+| 2026-11-10 07:18:41 | [bilingua-idml](https://crates.io/crates/bilingua-idml) | 0.9.1 | 0 | Bilingua: Adobe InDesign IDML parser. One unit per paragraph, styles as inline… |
+| 2026-11-10 07:20:25 | [logbear-core](https://crates.io/crates/logbear-core) | 0.1.3 | 0 | Capture, storage, parsing and query core for logbear |
 
 ## Data source
 
