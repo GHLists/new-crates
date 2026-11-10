@@ -8,62 +8,60 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-10 03:19 UTC
+## Latest list — 2026-11-10 04:22 UTC
 
-New crates published between 2026-11-10 02:21 UTC and 2026-11-10 03:19 UTC.
+New crates published between 2026-11-10 03:19 UTC and 2026-11-10 04:22 UTC.
 
-[Full CSV](data/new-crates-2026-11-10T03-19-34-415248Z.csv)
+[Full CSV](data/new-crates-2026-11-10T04-22-04-478124Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-10 02:27:17 | [opengrid-pivot](https://crates.io/crates/opengrid-pivot) | 0.15.0 | 0 | Pivot for opengrid: dimensions, measures, grouping sets and the result they sha… |
-| 2026-11-10 02:28:40 | [bilingua-resx](https://crates.io/crates/bilingua-resx) | 0.9.1 | 0 | Bilingua: .NET resx and resw resource file parser |
-| 2026-11-10 02:28:51 | [rightkit-agent-demo](https://crates.io/crates/rightkit-agent-demo) | 0.1.0 | 0 | Consented agent demo mode for Tauri hosts: an agent drives one catalog app thro… |
-| 2026-11-10 02:31:36 | [mmkv-core](https://crates.io/crates/mmkv-core) | 0.1.0 | 0 | Platform-agnostic MMKV engine: on-disk format, MiniPB codec, CRC-32, AES-CFB128… |
-| 2026-11-10 02:37:45 | [opengrid-grid](https://crates.io/crates/opengrid-grid) | 0.15.0 | 0 | Portable grid state, view-model and change detection for opengrid |
-| 2026-11-10 02:38:41 | [bilingua-richtext](https://crates.io/crates/bilingua-richtext) | 0.9.1 | 0 | Bilingua: rich text JSON filters (Contentful Rich Text, Sanity Portable Text, J… |
-| 2026-11-10 02:39:34 | [rightkit-app-lock](https://crates.io/crates/rightkit-app-lock) | 0.1.0 | 0 | Application lock: lock state machine types, preference fail-closed rules, OS us… |
-| 2026-11-10 02:41:36 | [mmkv-rs](https://crates.io/crates/mmkv-rs) | 0.1.0 | 0 | A byte-compatible Rust port of Tencent MMKV: fast memory-mapped key-value stora… |
-| 2026-11-10 02:44:55 | [vwi-core](https://crates.io/crates/vwi-core) | 0.3.0 | 0 | High-performance linguistic core, Viterbi Trellis segmenter, and functional gra… |
-| 2026-11-10 02:45:30 | [vwi-cli](https://crates.io/crates/vwi-cli) | 0.3.0 | 0 | High-performance standalone native CLI for Vietnamese Writing Intelligence |
-| 2026-11-10 02:48:13 | [opengrid-export](https://crates.io/crates/opengrid-export) | 0.15.0 | 0 | CSV, JSON and XLSX from an opengrid query result, piece by piece |
-| 2026-11-10 02:48:41 | [bilingua-rst](https://crates.io/crates/bilingua-rst) | 0.9.1 | 0 | Bilingua: reStructuredText (.rst, .rest) filter |
-| 2026-11-10 02:49:20 | [gxp](https://crates.io/crates/gxp) | 0.49.0 | 0 | grep-aligned query language for LLM agents (not a strict superset) |
-| 2026-11-10 02:50:05 | [rpi-node-core](https://crates.io/crates/rpi-node-core) | 0.1.0 | 0 | Transport-neutral node discovery and coordination contracts for rpi |
-| 2026-11-10 02:50:44 | [rpi-node](https://crates.io/crates/rpi-node) | 0.1.0 | 0 | Native node host lifecycle for rpi --node |
-| 2026-11-10 02:51:07 | [rightkit-clipboard-history](https://crates.io/crates/rightkit-clipboard-history) | 0.1.0 | 0 | Clipboard history logic: classify copied text (colour, link, code, plain) and s… |
-| 2026-11-10 02:56:25 | [foundation_context](https://crates.io/crates/foundation_context) | 0.0.1 | 0 | The shared context: a typed map plus the injected clock, config and random numb… |
-| 2026-11-10 02:58:54 | [opengrid-connector](https://crates.io/crates/opengrid-connector) | 0.15.0 | 0 | The contract a data source implements to be served by opengrid-server |
-| 2026-11-10 02:59:06 | [bilingua-scc](https://crates.io/crates/bilingua-scc) | 0.9.1 | 0 | Bilingua: Scenarist Closed Captions (SCC, CEA-608) filter |
-| 2026-11-10 03:01:41 | [rightkit-dictation-text-pipeline](https://crates.io/crates/rightkit-dictation-text-pipeline) | 0.1.0 | 0 | Dictation text pipeline: LLM cleanup (L1-L3) with provider transports and polic… |
-| 2026-11-10 03:01:44 | [tc_asn1_x509](https://crates.io/crates/tc_asn1_x509) | 0.1.0 | 0 | X.509 and PKIX structures (certificates, CRLs, attribute certificates, extensio… |
-| 2026-11-10 03:05:49 | [lwd-uri-util](https://crates.io/crates/lwd-uri-util) | 0.1.2 | 0 | Canonicalize lightwalletd endpoint URIs for Zcash clients |
-| 2026-11-10 03:07:01 | [aylis-accesskit-android](https://crates.io/crates/aylis-accesskit-android) | 0.9.1 | 0 | Cópia do accesskit_android 0.9.1 (AccessKit, adaptador do Android) com a correç… |
-| 2026-11-10 03:07:02 | [aylis-build](https://crates.io/crates/aylis-build) | 0.1.0 | 0 | Usado no build.rs dos projetos do Aylis: embute forms, temas e assets no execut… |
-| 2026-11-10 03:07:04 | [aylis-core](https://crates.io/crates/aylis-core) | 0.1.0 | 0 | Núcleo do Aylis: componentes, layout, propriedades, temas e interfaces de plata… |
-| 2026-11-10 03:07:05 | [aylis-devlink](https://crates.io/crates/aylis-devlink) | 0.1.0 | 0 | O canal de desenvolvimento do Aylis (app <-> IDE): Noise NKpsk0 sobre WebSocket |
-| 2026-11-10 03:07:10 | [aylis-3d](https://crates.io/crates/aylis-3d) | 0.1.0 | 0 | 3D do Aylis: modelos glTF/GLB com esqueleto, morph targets e animação, desenhad… |
-| 2026-11-10 03:08:40 | [bilingua-sdlproj](https://crates.io/crates/bilingua-sdlproj) | 0.9.1 | 0 | Bilingua: Trados Studio project files (sdlproj): project facts for a package ma… |
-| 2026-11-10 03:09:53 | [dn42-ipdb](https://crates.io/crates/dn42-ipdb) | 0.1.0 | 0 | Local GeoIP2-compatible DN42 IP and ASN lookup with verified release updates |
-| 2026-11-10 03:09:59 | [opengrid-connector-sqlite](https://crates.io/crates/opengrid-connector-sqlite) | 0.15.0 | 0 | SQLite as a reference connector for opengrid-server: a file, no installation |
-| 2026-11-10 03:12:30 | [rightkit-library](https://crates.io/crates/rightkit-library) | 0.1.1 | 0 | Local artifact library: SQLite-backed history/search index (files stay the sour… |
-| 2026-11-10 03:13:35 | [songform](https://crates.io/crates/songform) | 0.1.0 | 0 | Songform, the StageDisplay song format (.sfsong): parser, beat timeline and pla… |
-| 2026-11-10 03:13:58 | [mhome-plugin-service-api](https://crates.io/crates/mhome-plugin-service-api) | 0.1.0 | 0 | Implementation support for the MeowLink Plugin SDK |
-| 2026-11-10 03:14:01 | [songform-cli](https://crates.io/crates/songform-cli) | 0.0.0 | 0 | Placeholder reserving the name; part of StageDisplay (not released yet) |
-| 2026-11-10 03:14:03 | [songform-wasm](https://crates.io/crates/songform-wasm) | 0.0.0 | 0 | Placeholder reserving the name; part of StageDisplay (not released yet) |
-| 2026-11-10 03:14:05 | [bandsync](https://crates.io/crates/bandsync) | 0.0.0 | 0 | Placeholder reserving the name; part of StageDisplay (not released yet) |
-| 2026-11-10 03:14:08 | [wtsync](https://crates.io/crates/wtsync) | 0.0.0 | 0 | Placeholder reserving the name; part of StageDisplay (not released yet) |
-| 2026-11-10 03:14:24 | [halo-harbor-contrib](https://crates.io/crates/halo-harbor-contrib) | 0.1.1 | 0 | Redis, MySQL, API Scheduler, and distributed middleware implementations for Har… |
-| 2026-11-10 03:14:49 | [mhome-plugin-runtime](https://crates.io/crates/mhome-plugin-runtime) | 0.8.0 | 0 | Implementation support for the MeowLink Plugin SDK |
-| 2026-11-10 03:15:09 | [mhome-plugin-sdk](https://crates.io/crates/mhome-plugin-sdk) | 0.3.0 | 0 | MeowLink native extension service SDK |
-| 2026-11-10 03:16:41 | [halo-harbor-worker](https://crates.io/crates/halo-harbor-worker) | 0.1.1 | 0 | Executable worker for Harbor crawler applications. |
-| 2026-11-10 03:16:48 | [auric-bootstrap-build](https://crates.io/crates/auric-bootstrap-build) | 0.8.0 | 0 | Codegen for the Bootstrap addon for the Ember-inspired Auric SPA framework |
-| 2026-11-10 03:16:49 | [auric-file-upload-build](https://crates.io/crates/auric-file-upload-build) | 0.8.0 | 0 | Codegen for the File Upload addon for the Ember-inspired Auric SPA framework |
-| 2026-11-10 03:16:51 | [auric-bootstrap](https://crates.io/crates/auric-bootstrap) | 0.8.0 | 0 | Bootstrap addon for the Ember-inspired Auric SPA framework |
-| 2026-11-10 03:16:52 | [auric-composable-helpers](https://crates.io/crates/auric-composable-helpers) | 0.8.0 | 0 | Composable helpers addon for the Ember-inspired Auric SPA framework |
-| 2026-11-10 03:16:52 | [auric-file-upload](https://crates.io/crates/auric-file-upload) | 0.8.0 | 0 | File upload addon for the Ember-inspired Auric SPA framework |
-| 2026-11-10 03:17:28 | [aylis-controls-base](https://crates.io/crates/aylis-controls-base) | 0.1.0 | 0 | Os controles básicos do Aylis (forms, botões, edição, listas, menus, sistema...) |
-| 2026-11-10 03:18:41 | [bilingua-seg](https://crates.io/crates/bilingua-seg) | 0.9.1 | 0 | Bilingua: SRX 2.0 sentence segmentation with inline-tag awareness |
+| 2026-11-10 03:20:45 | [opengrid-datasource-postgres](https://crates.io/crates/opengrid-datasource-postgres) | 0.15.0 | 0 | PostgreSQL compiler and data source for opengrid |
+| 2026-11-10 03:23:51 | [google-pagespeed-insights-api](https://crates.io/crates/google-pagespeed-insights-api) | 0.1.0 | 0 | Async Rust client for the Google PageSpeed Insights API v5: Lighthouse scores a… |
+| 2026-11-10 03:23:58 | [rightkit-repo-graph](https://crates.io/crates/rightkit-repo-graph) | 0.1.0 | 0 | Repository code graph: tree-sitter extraction across 30+ languages, symbol/refe… |
+| 2026-11-10 03:26:27 | [auric-truth-helpers](https://crates.io/crates/auric-truth-helpers) | 0.8.0 | 0 | Truth helpers addon for the Ember-inspired Auric SPA framework |
+| 2026-11-10 03:26:45 | [freeimagetovideo](https://crates.io/crates/freeimagetovideo) | 0.1.0 | 0 | Free image to video AI with no daily cap: start with no sign-up, keep going on… |
+| 2026-11-10 03:27:28 | [aylis-controls-charts](https://crates.io/crates/aylis-controls-charts) | 0.1.0 | 0 | Gráficos, BI, trader, grafo de nós e mapa do Aylis |
+| 2026-11-10 03:28:41 | [bilingua-stf](https://crates.io/crates/bilingua-stf) | 0.9.1 | 0 | Bilingua: Salesforce Translation Workbench .stf filter |
+| 2026-11-10 03:31:21 | [opengrid-server](https://crates.io/crates/opengrid-server) | 0.15.0 | 0 | Data gateway for opengrid, as a library: query AST in, columns out, sources han… |
+| 2026-11-10 03:32:37 | [oqs-native-aes](https://crates.io/crates/oqs-native-aes) | 0.16.0 | 0 | Constant-time bitsliced AES-128 and AES-256 encryption in ECB and CTR modes, an… |
+| 2026-11-10 03:32:38 | [oqs-native-entities](https://crates.io/crates/oqs-native-entities) | 0.16.0 | 0 | Plain data types of the native liboqs port: descriptions, key containers and er… |
+| 2026-11-10 03:32:40 | [oqs-native-sha2](https://crates.io/crates/oqs-native-sha2) | 0.16.0 | 0 | The SHA-2 hash functions of FIPS 180-4, with the API that liboqs uses. |
+| 2026-11-10 03:32:41 | [oqs-native-sha3](https://crates.io/crates/oqs-native-sha3) | 0.16.0 | 0 | SHA-3 hash functions and the SHAKE extendable-output functions, as liboqs uses… |
+| 2026-11-10 03:32:42 | [oqs-native-sorting-network](https://crates.io/crates/oqs-native-sorting-network) | 0.16.0 | 0 | The constant-time sorting network of 32-bit and 64-bit values that the NTRU, NT… |
+| 2026-11-10 03:34:39 | [rightkit-agent-orchestration](https://crates.io/crates/rightkit-agent-orchestration) | 0.1.1 | 0 | Agent orchestration runtime: plans, routes, tasks, budgets, grants, escalation,… |
+| 2026-11-10 03:34:52 | [auric-truth-helpers-build](https://crates.io/crates/auric-truth-helpers-build) | 0.8.0 | 0 | Codegen for the Truth Helpers addon for the Ember-inspired Auric SPA framework |
+| 2026-11-10 03:37:26 | [aylis-controls-device](https://crates.io/crates/aylis-controls-device) | 0.1.0 | 0 | Sensores e recursos do aparelho no Aylis (localização, bateria, permissões, bio… |
+| 2026-11-10 03:38:41 | [bilingua-stl](https://crates.io/crates/bilingua-stl) | 0.9.1 | 0 | Bilingua: EBU STL (Tech 3264) subtitle filter |
+| 2026-11-10 03:44:51 | [auric-composable-helpers-build](https://crates.io/crates/auric-composable-helpers-build) | 0.8.0 | 0 | Codegen for the Composable Helpers addon for the Ember-inspired Auric SPA frame… |
+| 2026-11-10 03:45:13 | [rightkit-code-audit-engine](https://crates.io/crates/rightkit-code-audit-engine) | 0.1.0 | 0 | Repository code audit engine: native providers, DAG and scheduler, evidence iss… |
+| 2026-11-10 03:47:25 | [aylis-controls-editors](https://crates.io/crates/aylis-controls-editors) | 0.1.0 | 0 | Editores visuais do Aylis (ângulo, sombra, curva), a pintura e o texto animado |
+| 2026-11-10 03:48:39 | [pdifflib_derive](https://crates.io/crates/pdifflib_derive) | 0.2.1 | 0 | Derive macros for pdifflib fields, parameter schemas, and logging schemas |
+| 2026-11-10 03:48:41 | [bilingua-subtext](https://crates.io/crates/bilingua-subtext) | 0.9.1 | 0 | Bilingua: YouTube SBV and SubViewer 2.0 / MicroDVD (.sub) subtitle filters |
+| 2026-11-10 03:50:08 | [pdifflib](https://crates.io/crates/pdifflib) | 0.2.1 | 0 | Finite-difference operators, solvers, and simulation helpers for two-dimensiona… |
+| 2026-11-10 03:54:21 | [sika-plugin-sdk](https://crates.io/crates/sika-plugin-sdk) | 0.2.1 | 0 | SDK for writing sika desktop plugins: a thin, safe wrapper over the wasm ABI. |
+| 2026-11-10 03:55:50 | [rightkit-context-federation](https://crates.io/crates/rightkit-context-federation) | 0.1.0 | 0 | Context federation coordinator: immutable provider registry, fan-out of context… |
+| 2026-11-10 03:56:14 | [termtrace-model](https://crates.io/crates/termtrace-model) | 0.1.0 | 0 | Versioned data and protocol contracts for Termtrace terminal recordings |
+| 2026-11-10 03:56:14 | [termtrace-process](https://crates.io/crates/termtrace-process) | 0.1.0 | 0 | Process-group supervision, process identity, and exclusive locks for Termtrace |
+| 2026-11-10 03:56:15 | [termtrace-terminal](https://crates.io/crates/termtrace-terminal) | 0.1.0 | 0 | Pinned libghostty-vt terminal semantics for Termtrace |
+| 2026-11-10 03:56:15 | [termtrace-control](https://crates.io/crates/termtrace-control) | 0.1.0 | 0 | Client transport and phase observation for live Termtrace sessions |
+| 2026-11-10 03:56:16 | [termtrace-evidence](https://crates.io/crates/termtrace-evidence) | 0.1.0 | 0 | Integrity-checked canonical terminal recording storage for Termtrace |
+| 2026-11-10 03:57:25 | [aylis-controls-industrial](https://crates.io/crates/aylis-controls-industrial) | 0.1.0 | 0 | Controles industriais e elétricos do Aylis (telas de supervisão) |
+| 2026-11-10 03:58:41 | [bilingua-subtitle](https://crates.io/crates/bilingua-subtitle) | 0.9.1 | 0 | Bilingua: SRT and WebVTT subtitle parser |
+| 2026-11-10 04:00:40 | [kl](https://crates.io/crates/kl) | 0.1.0 | 0 | Distributed Kpack job execution engine over a 3D hypercube (Hamon Cube / 8 logi… |
+| 2026-11-10 04:00:55 | [obfstr2-macros](https://crates.io/crates/obfstr2-macros) | 0.3.0 | 0 | Proc-macros for obfstr2 compile-time obfuscation. Use `obfstr2` directly. |
+| 2026-11-10 04:01:11 | [obfstr2](https://crates.io/crates/obfstr2) | 0.3.0 | 0 | Polymorphic compile-time string/bytes/int/float/cstr/file obfuscation |
+| 2026-11-10 04:03:25 | [westerm](https://crates.io/crates/westerm) | 0.4.2 | 0 | A web terminal whose sessions survive closed tabs, restarts, and reboots |
+| 2026-11-10 04:06:28 | [rightkit-dictation-command-host](https://crates.io/crates/rightkit-dictation-command-host) | 0.1.0 | 0 | Dictation command host: voice command dispatch (keys, app launch, Shortcuts, po… |
+| 2026-11-10 04:06:36 | [klm](https://crates.io/crates/klm) | 0.1.0 | 0 | reserved name |
+| 2026-11-10 04:06:43 | [rightkit-dictation-ffi](https://crates.io/crates/rightkit-dictation-ffi) | 0.1.0 | 0 | Stable C surface for native shells over the dictation text pipeline, ASR audio… |
+| 2026-11-10 04:07:27 | [aylis-controls](https://crates.io/crates/aylis-controls) | 0.1.0 | 0 | Controles padrão do Aylis |
+| 2026-11-10 04:08:05 | [google-crux-api](https://crates.io/crates/google-crux-api) | 0.1.0 | 0 | Async Rust client for the Chrome UX Report (CrUX) API: Core Web Vitals field da… |
+| 2026-11-10 04:08:40 | [bilingua-text](https://crates.io/crates/bilingua-text) | 0.9.1 | 0 | Bilingua: plain text filter (paragraph units, keeps BOM and line endings) |
+| 2026-11-10 04:12:13 | [avenlab-physics](https://crates.io/crates/avenlab-physics) | 0.1.0 | 0 | Vehicle dynamics and wheel-load telemetry for Rapier simulations |
+| 2026-11-10 04:17:25 | [aylis-data](https://crates.io/crates/aylis-data) | 0.1.0 | 0 | Camada de dados do Aylis: ClientDataSet, Field, DataSource e delta para o backe… |
+| 2026-11-10 04:17:25 | [rightkit-dictation-inference](https://crates.io/crates/rightkit-dictation-inference) | 0.1.0 | 0 | Dictation inference: Parakeet TDT on CoreML and ONNX Runtime, Whisper, keyword… |
+| 2026-11-10 04:18:40 | [bilingua-toml](https://crates.io/crates/bilingua-toml) | 0.9.1 | 0 | Bilingua: TOML filter (string values as units, quoting style kept, byte-for-byt… |
 
 ## Data source
 

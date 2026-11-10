@@ -1,0 +1,47 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-10T03:20:45.796062Z,opengrid-datasource-postgres,0.15.0,0,0,https://github.com/casoon/opengrid,PostgreSQL compiler and data source for opengrid
+2026-11-10T03:23:51.54957Z,google-pagespeed-insights-api,0.1.0,0,0,https://github.com/uiuifree/rust-google-pagespeed-insights-api,"Async Rust client for the Google PageSpeed Insights API v5: Lighthouse scores and audits, Core Web Vitals field data (CrUX) for a URL and its origin"
+2026-11-10T03:23:58.461927Z,rightkit-repo-graph,0.1.0,0,0,https://github.com/bogusyogi/rightkit,"Repository code graph: tree-sitter extraction across 30+ languages, symbol/reference graph store, freshness tracking, watch and query."
+2026-11-10T03:26:27.4711Z,auric-truth-helpers,0.8.0,0,0,https://gitlab.com/megalithic-llc/auric-spa/auric.git,Truth helpers addon for the Ember-inspired Auric SPA framework
+2026-11-10T03:26:45.76534Z,freeimagetovideo,0.1.0,0,0,https://github.com/hanshs474/fitv-rs,"Free image to video AI with no daily cap: start with no sign-up, keep going on a free account. Every video comes with sound and no watermark. This is the official Rust SDK for Free Image to Video."
+2026-11-10T03:27:28.670635Z,aylis-controls-charts,0.1.0,0,0,https://github.com/e-rust/aylis,"Gráficos, BI, trader, grafo de nós e mapa do Aylis"
+2026-11-10T03:28:41.366972Z,bilingua-stf,0.9.1,0,0,https://github.com/patois-labs/bilingua,Bilingua: Salesforce Translation Workbench .stf filter
+2026-11-10T03:31:21.215536Z,opengrid-server,0.15.0,0,0,https://github.com/casoon/opengrid,"Data gateway for opengrid, as a library: query AST in, columns out, sources handed in as connectors"
+2026-11-10T03:32:37.591934Z,oqs-native-aes,0.16.0,0,0,https://github.com/DeveloperBeau/liboqs-rust,"Constant-time bitsliced AES-128 and AES-256 encryption in ECB and CTR modes, and Rijndael with a 256-bit block, as liboqs uses them."
+2026-11-10T03:32:38.876531Z,oqs-native-entities,0.16.0,0,0,https://github.com/DeveloperBeau/liboqs-rust,"Plain data types of the native liboqs port: descriptions, key containers and errors."
+2026-11-10T03:32:40.197262Z,oqs-native-sha2,0.16.0,0,0,https://github.com/DeveloperBeau/liboqs-rust,"The SHA-2 hash functions of FIPS 180-4, with the API that liboqs uses."
+2026-11-10T03:32:41.404316Z,oqs-native-sha3,0.16.0,0,0,https://github.com/DeveloperBeau/liboqs-rust,"SHA-3 hash functions and the SHAKE extendable-output functions, as liboqs uses them."
+2026-11-10T03:32:42.610026Z,oqs-native-sorting-network,0.16.0,0,0,https://github.com/DeveloperBeau/liboqs-rust,"The constant-time sorting network of 32-bit and 64-bit values that the NTRU, NTRU Prime and Classic McEliece algorithms of liboqs use."
+2026-11-10T03:34:39.340974Z,rightkit-agent-orchestration,0.1.1,0,0,https://github.com/bogusyogi/rightkit,"Agent orchestration runtime: plans, routes, tasks, budgets, grants, escalation, scheduling, delivery, inventories and platform layers"
+2026-11-10T03:34:52.310693Z,auric-truth-helpers-build,0.8.0,0,0,https://gitlab.com/megalithic-llc/auric-spa/auric.git,Codegen for the Truth Helpers addon for the Ember-inspired Auric SPA framework
+2026-11-10T03:37:26.254675Z,aylis-controls-device,0.1.0,0,0,https://github.com/e-rust/aylis,"Sensores e recursos do aparelho no Aylis (localização, bateria, permissões, biometria...)"
+2026-11-10T03:38:41.785524Z,bilingua-stl,0.9.1,0,0,https://github.com/patois-labs/bilingua,Bilingua: EBU STL (Tech 3264) subtitle filter
+2026-11-10T03:44:51.755693Z,auric-composable-helpers-build,0.8.0,0,0,https://gitlab.com/megalithic-llc/auric-spa/auric.git,Codegen for the Composable Helpers addon for the Ember-inspired Auric SPA framework
+2026-11-10T03:45:13.922554Z,rightkit-code-audit-engine,0.1.0,0,0,https://github.com/bogusyogi/rightkit,"Repository code audit engine: native providers, DAG and scheduler, evidence issuers, findings history and review runtime"
+2026-11-10T03:47:25.554385Z,aylis-controls-editors,0.1.0,0,0,https://github.com/e-rust/aylis,"Editores visuais do Aylis (ângulo, sombra, curva), a pintura e o texto animado"
+2026-11-10T03:48:39.466244Z,pdifflib_derive,0.2.1,0,0,https://github.com/che4web/pdifflib,"Derive macros for pdifflib fields, parameter schemas, and logging schemas"
+2026-11-10T03:48:41.609333Z,bilingua-subtext,0.9.1,0,0,https://github.com/patois-labs/bilingua,Bilingua: YouTube SBV and SubViewer 2.0 / MicroDVD (.sub) subtitle filters
+2026-11-10T03:50:08.330862Z,pdifflib,0.2.1,0,0,https://github.com/che4web/pdifflib,"Finite-difference operators, solvers, and simulation helpers for two-dimensional fields"
+2026-11-10T03:54:21.06891Z,sika-plugin-sdk,0.2.1,0,0,https://github.com/cuxt/sika-desktop,"SDK for writing sika desktop plugins: a thin, safe wrapper over the wasm ABI."
+2026-11-10T03:55:50.27216Z,rightkit-context-federation,0.1.0,0,0,https://github.com/bogusyogi/rightkit,"Context federation coordinator: immutable provider registry, fan-out of context operations across providers, and skill ranking."
+2026-11-10T03:56:14.016045Z,termtrace-model,0.1.0,0,0,https://github.com/zigai/termtrace,Versioned data and protocol contracts for Termtrace terminal recordings
+2026-11-10T03:56:14.789309Z,termtrace-process,0.1.0,0,0,https://github.com/zigai/termtrace,"Process-group supervision, process identity, and exclusive locks for Termtrace"
+2026-11-10T03:56:15.351776Z,termtrace-terminal,0.1.0,0,0,https://github.com/zigai/termtrace,Pinned libghostty-vt terminal semantics for Termtrace
+2026-11-10T03:56:15.983061Z,termtrace-control,0.1.0,0,0,https://github.com/zigai/termtrace,Client transport and phase observation for live Termtrace sessions
+2026-11-10T03:56:16.691397Z,termtrace-evidence,0.1.0,0,0,https://github.com/zigai/termtrace,Integrity-checked canonical terminal recording storage for Termtrace
+2026-11-10T03:57:25.414339Z,aylis-controls-industrial,0.1.0,0,0,https://github.com/e-rust/aylis,Controles industriais e elétricos do Aylis (telas de supervisão)
+2026-11-10T03:58:41.489049Z,bilingua-subtitle,0.9.1,0,0,https://github.com/patois-labs/bilingua,Bilingua: SRT and WebVTT subtitle parser
+2026-11-10T04:00:40.659113Z,kl,0.1.0,0,0,https://github.com/dualys/kl,Distributed Kpack job execution engine over a 3D hypercube (Hamon Cube / 8 logical nodes)
+2026-11-10T04:00:55.013774Z,obfstr2-macros,0.3.0,0,0,https://github.com/AlbusPhos/obfstr2,Proc-macros for obfstr2 compile-time obfuscation. Use `obfstr2` directly.
+2026-11-10T04:01:11.831482Z,obfstr2,0.3.0,0,0,https://github.com/AlbusPhos/obfstr2,Polymorphic compile-time string/bytes/int/float/cstr/file obfuscation
+2026-11-10T04:03:25.231017Z,westerm,0.4.2,0,0,https://github.com/SteelCrab/westerm,"A web terminal whose sessions survive closed tabs, restarts, and reboots"
+2026-11-10T04:06:28.304893Z,rightkit-dictation-command-host,0.1.0,0,0,https://github.com/bogusyogi/rightkit,"Dictation command host: voice command dispatch (keys, app launch, Shortcuts, power with confirmation), text delivery and insertion, focus checks and screen capture for a dictation app."
+2026-11-10T04:06:36.730912Z,klm,0.1.0,0,0,https://github.com/dualys/klm.git,reserved name
+2026-11-10T04:06:43.347007Z,rightkit-dictation-ffi,0.1.0,0,0,https://github.com/bogusyogi/rightkit,"Stable C surface for native shells over the dictation text pipeline, ASR audio conditioning and Parakeet detokenization."
+2026-11-10T04:07:27.510101Z,aylis-controls,0.1.0,0,0,https://github.com/e-rust/aylis,Controles padrão do Aylis
+2026-11-10T04:08:05.150981Z,google-crux-api,0.1.0,0,0,https://github.com/uiuifree/rust-google-crux-api,"Async Rust client for the Chrome UX Report (CrUX) API: Core Web Vitals field data (LCP, INP, CLS, TTFB) for a URL or origin, current and as a weekly history"
+2026-11-10T04:08:40.901879Z,bilingua-text,0.9.1,0,0,https://github.com/patois-labs/bilingua,"Bilingua: plain text filter (paragraph units, keeps BOM and line endings)"
+2026-11-10T04:12:13.584236Z,avenlab-physics,0.1.0,0,0,https://github.com/Avensky/avenlab-physics,Vehicle dynamics and wheel-load telemetry for Rapier simulations
+2026-11-10T04:17:25.412092Z,aylis-data,0.1.0,0,0,https://github.com/e-rust/aylis,"Camada de dados do Aylis: ClientDataSet, Field, DataSource e delta para o backend"
+2026-11-10T04:17:25.625093Z,rightkit-dictation-inference,0.1.0,0,0,https://github.com/bogusyogi/rightkit,"Dictation inference: Parakeet TDT on CoreML and ONNX Runtime, Whisper, keyword spotting, VAD, calibration, file transcription and the ASR timeline, for a push-to-talk dictation engine."
+2026-11-10T04:18:40.777491Z,bilingua-toml,0.9.1,0,0,https://github.com/patois-labs/bilingua,"Bilingua: TOML filter (string values as units, quoting style kept, byte-for-byte skeleton)"
