@@ -1,0 +1,33 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-10T00:25:32.216557Z,sshoq,0.1.3,0,0,https://github.com/romzorus/sshoq,Rust client library for SSHOQ
+2026-11-10T00:27:39.294714Z,oxdock-render,0.36.0-alpha,0,0,https://github.com/jzombie/rust-oxdock,"Generate text files from templates and data: READMEs, docs, installers, and other release artifacts, rendered deterministically from a single pipeline config."
+2026-11-10T00:28:37.275783Z,taffyc,26.11.13,0,0,https://codeberg.org/cerealdevv/taffy,the taffy compiler
+2026-11-10T00:28:41.37076Z,bilingua-json5,0.9.1,0,0,https://github.com/patois-labs/bilingua,"Bilingua: JSON5 and JSONC filter (comments, trailing commas, unquoted keys, single quotes; edits strings in place)"
+2026-11-10T00:28:47.960417Z,decoderant-a64,0.1.0,0,0,https://github.com/KenSykes/decoderant-a64,"A64 (AArch64) decoder, encoder, formatter and instruction info generated from Arm's machine-readable specification"
+2026-11-10T00:30:55.694709Z,geodesia-wkid,0.0.1,0,0,,Placeholder for the Esri WKID dataset companion to geodesia. Not yet released; contains no data.
+2026-11-10T00:31:38.818949Z,axonio,0.2.0,0,0,https://github.com/hackcat29/axonio-sdk,Rust client for Axonio: persistent memory for AI agents (formerly clawdb-client).
+2026-11-10T00:36:36.69046Z,rsfai-core,0.1.0,1,1,https://github.com/physwkim/rsFAI,"Core types, dtype contract, and golden bit/ULP comparison utilities for rsFAI"
+2026-11-10T00:36:39.258941Z,rsfai-calibrant,0.1.0,0,0,https://github.com/physwkim/rsFAI,"Calibrant ring positions and crystallography for rsFAI, ported from pyFAI's crystallography package"
+2026-11-10T00:36:39.873848Z,rsfai-detectors,0.1.0,0,0,https://github.com/physwkim/rsFAI,"Detector model, registry, and pixel-corner geometry for rsFAI (M2)"
+2026-11-10T00:36:40.836253Z,rsfai-distortion,0.1.0,0,0,https://github.com/physwkim/rsFAI,"Spatial-distortion correction and FITPACK spline evaluation for rsFAI, ported from pyFAI's distortion.py and spline.py"
+2026-11-10T00:36:41.854242Z,rsfai-io,0.1.0,0,0,https://github.com/physwkim/rsFAI,"HDF5/NeXus diffraction frame reader for rsFAI, pure Rust"
+2026-11-10T00:36:42.80707Z,rsfai-peaks,0.1.0,0,0,https://github.com/physwkim/rsFAI,"Peak-finding primitives for rsFAI (Massif, blob detection, Bilinear), ported from pyFAI"
+2026-11-10T00:38:41.167249Z,bilingua-latex,0.9.1,0,0,https://github.com/patois-labs/bilingua,"Bilingua: LaTeX filter (tex, latex, ltx)"
+2026-11-10T00:41:28.253532Z,cf-gears-toolkit-resilience,0.1.0,0,0,https://github.com/constructorfabric/gears-rust,"ToolKit client resilience: circuit breaker core, a tower layer and OpenTelemetry metrics"
+2026-11-10T00:43:39.045594Z,langfuse-rust-sdk-macros,0.8.0,0,0,https://github.com/lep511/langfuse-rust-sdk,The #[observe] attribute of langfuse-rust-sdk (use it through the `macros` feature of that crate)
+2026-11-10T00:47:15.343612Z,rsfai-preproc,0.1.0,0,0,https://github.com/physwkim/rsFAI,Per-pixel preprocessing (dark/flat/solidangle/polarization/normalization) for rsFAI (M3)
+2026-11-10T00:48:40.887089Z,bilingua-markdown,0.9.1,0,0,https://github.com/patois-labs/bilingua,"Bilingua: Markdown filter (CommonMark and GitHub tables, rewrites only text ranges)"
+2026-11-10T00:51:45.499797Z,krn,0.0.1,0,0,,Checked host-side sizing utilities for kernel development
+2026-11-10T00:57:27.374098Z,rsfai-geometry,0.1.0,0,0,https://github.com/physwkim/rsFAI,"PONI geometry, coordinate transforms (tth/chi/q/r) and units for rsFAI (M1)"
+2026-11-10T00:58:41.495017Z,bilingua-mdx,0.9.1,0,0,https://github.com/patois-labs/bilingua,"Bilingua: MDX filter (Markdown with JSX, expressions and ES modules, read as Localization OS reads it)"
+2026-11-10T01:07:39.068Z,rsfai-integrate,0.1.0,0,0,https://github.com/physwkim/rsFAI,"Integration engines: histogram, bbox/full pixel-splitting, sparse builder, CSR build+apply (M4-M6)"
+2026-11-10T01:07:39.948516Z,cowboy-proto,0.1.0,0,0,https://github.com/koshea/cowboy,"Wire protocol types shared by the Cowboy daemon, CLI, TUI, and web UI"
+2026-11-10T01:07:40.383275Z,cowboy-tui,0.1.0,0,0,https://github.com/koshea/cowboy,Ratatui terminal UI widgets and rendering for Cowboy
+2026-11-10T01:07:41.31126Z,cowboy-core,0.1.0,0,0,https://github.com/koshea/cowboy,"Core configuration, policy, ranch, and model transport types for Cowboy"
+2026-11-10T01:07:42.462482Z,cowboy-gateway,0.1.0,0,0,https://github.com/koshea/cowboy,Egress policy engine and DNS/SNI attribution for the Cowboy sandbox
+2026-11-10T01:07:43.019024Z,cowboy-sandbox,0.1.0,0,0,https://github.com/koshea/cowboy,Host-native sandbox plan builder (Linux bwrap/Landlock/seccomp and macOS Seatbelt) for Cowboy
+2026-11-10T01:08:41.505506Z,bilingua-mif,0.9.1,0,0,https://github.com/patois-labs/bilingua,"Bilingua: Adobe FrameMaker MIF filter (mif, version 8 and later)"
+2026-11-10T01:09:17.09737Z,zodl-ohttp-client,1.0.1,0,0,https://github.com/zodl-inc/zodl-ohttp,Oblivious HTTP (RFC 9458) client for the ZODL gateway
+2026-11-10T01:16:42.103054Z,cowboy-cli,0.1.0,0,0,https://github.com/koshea/cowboy,Opinionated local coding agent in a kernel-enforced sandbox
+2026-11-10T01:17:53.306554Z,rsfai-calib,0.1.0,0,0,https://github.com/physwkim/rsFAI,"Control points and geometry refinement for rsFAI, ported from pyFAI's control_points.py and geometryRefinement.py"
+2026-11-10T01:18:42.163754Z,bilingua-pdf,0.9.1,0,0,https://github.com/patois-labs/bilingua,Bilingua: PDF text layer filter (extraction as Localization OS and PDFium read it)
