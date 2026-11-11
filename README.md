@@ -8,36 +8,58 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-11 18:18 UTC
+## Latest list — 2026-11-11 19:21 UTC
 
-New crates published between 2026-11-11 17:18 UTC and 2026-11-11 18:18 UTC.
+New crates published between 2026-11-11 18:18 UTC and 2026-11-11 19:21 UTC.
 
-[Full CSV](data/new-crates-2026-11-11T18-18-46-419673Z.csv)
+[Full CSV](data/new-crates-2026-11-11T19-21-22-516203Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-11 17:18:56 | [everruns-coding](https://crates.io/crates/everruns-coding) | 0.0.0 | 0 | Name reservation for everruns-coding. Use 0.52.0 or later: code navigation capa… |
-| 2026-11-11 17:19:44 | [waterui-easing](https://crates.io/crates/waterui-easing) | 0.0.0 | 0 | Cubic Bézier and spring evaluation shared by WaterUI and its rendering engine. |
-| 2026-11-11 17:23:59 | [basil-ui](https://crates.io/crates/basil-ui) | 0.8.0-alpha.1 | 0 | shadcn/ui components for Leptos 0.8 on headless, accessible primitives, driven… |
-| 2026-11-11 17:32:43 | [zoter](https://crates.io/crates/zoter) | 0.1.0 | 0 | Restart systemd services without dropping their clients |
-| 2026-11-11 17:33:55 | [lena-adapter-clojure](https://crates.io/crates/lena-adapter-clojure) | 0.1.8 | 0 | A code-to-graph Swiss Army knife for interactive docs, call traces, and LLM con… |
-| 2026-11-11 17:43:53 | [shieldcraft](https://crates.io/crates/shieldcraft) | 0.1.0 | 0 | Defensive AI security, SQL query audit, data privacy masking, and sandbox guard… |
-| 2026-11-11 17:47:22 | [agent-rs](https://crates.io/crates/agent-rs) | 0.1.0 | 0 | A resumable agent engine with an optional SQLite durable host |
-| 2026-11-11 17:47:35 | [perfview](https://crates.io/crates/perfview) | 0.1.2 | 0 | A modern, human-readable live system performance viewer for Linux. |
-| 2026-11-11 17:50:40 | [ricehtml](https://crates.io/crates/ricehtml) | 0.1.0 | 0 | Build native desktop UIs from HTML + CSS with a DOM-like Rust API |
-| 2026-11-11 17:51:33 | [jarsnitch-core](https://crates.io/crates/jarsnitch-core) | 0.1.0 | 0 | Static capability analysis for Minecraft plugin jars |
-| 2026-11-11 17:51:37 | [jarsnitch](https://crates.io/crates/jarsnitch) | 0.1.0 | 0 | See what a Minecraft plugin can do before you install it |
-| 2026-11-11 17:55:04 | [shw](https://crates.io/crates/shw) | 0.1.0 | 0 | Blazing fast terminal viewer for images, videos and GitHub-flavored Markdown us… |
-| 2026-11-11 17:56:20 | [permlock](https://crates.io/crates/permlock) | 0.1.0 | 0 | A lockfile for what your dependencies can do. Fails the pull request when an up… |
-| 2026-11-11 17:58:21 | [stkcraft-geocalc](https://crates.io/crates/stkcraft-geocalc) | 0.1.8 | 0 | NAIF/SPICE-aligned geometry calculations for STKCraft |
-| 2026-11-11 18:00:58 | [shem](https://crates.io/crates/shem) | 0.1.0 | 0 | Run containers and VMs inside a model's weights |
-| 2026-11-11 18:01:00 | [containerd-shim-shem](https://crates.io/crates/containerd-shim-shem) | 0.1.0 | 0 | A containerd shim that runs containers on shem |
-| 2026-11-11 18:01:48 | [zplugin-macros](https://crates.io/crates/zplugin-macros) | 0.1.0 | 0 | Compile-time interface generation for zplugin's frozen native plugin ABI |
-| 2026-11-11 18:01:51 | [zplugin](https://crates.io/crates/zplugin) | 0.1.0 | 0 | Zero-dependency no_std native plugin ABI, loader, and generated Rust interfaces |
-| 2026-11-11 18:06:21 | [hadron-core](https://crates.io/crates/hadron-core) | 0.0.1 | 0 | Typed, verified GitHub-backed modpack publishing and collaboration for launchers |
-| 2026-11-11 18:13:23 | [pixoom](https://crates.io/crates/pixoom) | 0.1.0 | 0 | Draw on a Divoom Pixoo 64 over its local HTTP API, with embedded-graphics. |
-| 2026-11-11 18:13:50 | [wtf-core](https://crates.io/crates/wtf-core) | 0.4.0 | 0 | wtf's core: traces, rows, cursors, sessions, the `:` commands and searches, wit… |
-| 2026-11-11 18:13:52 | [wtf-wave](https://crates.io/crates/wtf-wave) | 0.4.0 | 0 | A Vim-like terminal viewer for VCD, FST and GHW waveforms, with an MCP server f… |
+| 2026-11-11 18:19:53 | [byob-bundled](https://crates.io/crates/byob-bundled) | 0.3.0 | 0 | byob's bundled plugins (artifacts, HTML apps, charts, markdown, images, core to… |
+| 2026-11-11 18:20:02 | [byob-sheets](https://crates.io/crates/byob-sheets) | 0.3.0 | 0 | Spreadsheets as a native plugin backend (IronCalc): the bundled sheets plugin's… |
+| 2026-11-11 18:21:03 | [contextcraft](https://crates.io/crates/contextcraft) | 0.1.0 | 0 | Dynamic context optimizer, prompt block injector, and conversation session mana… |
+| 2026-11-11 18:26:27 | [hyper64](https://crates.io/crates/hyper64) | 0.2.0 | 0 | Next-generation, ultra-fast, zero-allocation Base64 engine in Rust with AVX-512… |
+| 2026-11-11 18:30:20 | [ruvector-e-means](https://crates.io/crates/ruvector-e-means) | 0.1.0 | 0 | Deterministic CPU and WebAssembly e-means clustering with EMA centroid updates |
+| 2026-11-11 18:30:23 | [gearman-rs](https://crates.io/crates/gearman-rs) | 0.1.0 | 0 | A complete, ergonomic Gearman client and worker implementation in Rust |
+| 2026-11-11 18:32:20 | [weirdnet-keys](https://crates.io/crates/weirdnet-keys) | 0.1.0 | 0 | Weirdnet keys: 256-bit keys, BIP39 words, Shamir shards, HKDF and Argon2id deri… |
+| 2026-11-11 18:33:21 | [weirdnet-themes](https://crates.io/crates/weirdnet-themes) | 0.1.0 | 0 | Weirdnet themes: a TOML theme format with dark and light variants, 21 semantic… |
+| 2026-11-11 18:33:30 | [weirdnet-storage](https://crates.io/crates/weirdnet-storage) | 0.1.0 | 0 | Weirdnet storage: SQLCipher databases opened with a caller-supplied raw key, re… |
+| 2026-11-11 18:33:42 | [weirdnet-rules](https://crates.io/crates/weirdnet-rules) | 0.1.0 | 0 | Weirdnet rules: if-this-then-that over an event history. Condition syntax and c… |
+| 2026-11-11 18:33:51 | [weirdnet-plugin](https://crates.io/crates/weirdnet-plugin) | 0.1.0 | 0 | SDK for Weirdnet code space plugins: the stable C ABI (v2), the host API, frame… |
+| 2026-11-11 18:34:33 | [emoji-names](https://crates.io/crates/emoji-names) | 0.1.0 | 0 | A small Rust crate that replaces emojis in a string with their CLDR English name |
+| 2026-11-11 18:35:14 | [wings-source](https://crates.io/crates/wings-source) | 0.0.1 | 0 | Source positions and diagnostics for the Wings VM language tools |
+| 2026-11-11 18:35:33 | [wings-syntax](https://crates.io/crates/wings-syntax) | 0.0.1 | 0 | Lossless tokens and a recovering parser for the Wings VM language |
+| 2026-11-11 18:35:38 | [wings-sema](https://crates.io/crates/wings-sema) | 0.0.1 | 0 | Local name resolution and type checking for the Wings VM language |
+| 2026-11-11 18:35:43 | [wings-compile](https://crates.io/crates/wings-compile) | 0.0.1 | 0 | Static checking tools for the Wings VM language prototype |
+| 2026-11-11 18:35:50 | [wings-lsp](https://crates.io/crates/wings-lsp) | 0.0.1 | 0 | Language server for the Wings VM language prototype |
+| 2026-11-11 18:37:07 | [weirdnet-pipelines](https://crates.io/crates/weirdnet-pipelines) | 0.1.0 | 0 | Weirdnet pipelines: graphs (DAGs) of application-defined sources, steps and sin… |
+| 2026-11-11 18:39:15 | [flowhawk](https://crates.io/crates/flowhawk) | 0.1.0 | 0 | Flowhawk SDK for Rust: OpenTelemetry tracing, metrics and logs tagged with your… |
+| 2026-11-11 18:44:07 | [devdoctor](https://crates.io/crates/devdoctor) | 0.1.0 | 0 | A read-only terminal UI for inspecting developer processes, ports, and toolchai… |
+| 2026-11-11 18:46:00 | [seqterm](https://crates.io/crates/seqterm) | 0.1.0 | 0 | (Generalization of) null-terminated sequences. |
+| 2026-11-11 18:47:06 | [weirdnet-render](https://crates.io/crates/weirdnet-render) | 0.1.0 | 0 | Weirdnet render: structured data (tables, line charts, or JSON describing eithe… |
+| 2026-11-11 18:47:40 | [text_magic_tonetete](https://crates.io/crates/text_magic_tonetete) | 0.1.0 | 0 | A Rust crate for text manipulation and magic. |
+| 2026-11-11 18:47:58 | [yolowhtml-dom](https://crates.io/crates/yolowhtml-dom) | 0.1.0 | 0 | Fast HTML5 parser for content extraction: zero-copy arena DOM, CSS selectors, a… |
+| 2026-11-11 18:48:14 | [yolowhtml](https://crates.io/crates/yolowhtml) | 0.1.0 | 0 | HTML to clean Markdown: main-content extraction, Markdown generation, publicati… |
+| 2026-11-11 18:49:57 | [clarity-auth](https://crates.io/crates/clarity-auth) | 0.1.0 | 0 | Clarity.Auth: the sign-in strategies of the programs Clarity generates (passwor… |
+| 2026-11-11 18:53:12 | [stem-mqtt-proto](https://crates.io/crates/stem-mqtt-proto) | 0.8.1 | 0 | MQTT 3.1.1 / 5.0 wire protocol: a pure, runtime-free packet codec (no async, no… |
+| 2026-11-11 18:56:40 | [parse-that-egraph-derive](https://crates.io/crates/parse-that-egraph-derive) | 0.1.0 | 0 | #[derive(Language)] proc-macro for parse-that-egraph |
+| 2026-11-11 18:56:44 | [parse-that-egraph](https://crates.io/crates/parse-that-egraph) | 0.1.0 | 0 | General-purpose e-graph: equality saturation, rewrite rules, cost-model extract… |
+| 2026-11-11 18:56:56 | [parse-that-simd](https://crates.io/crates/parse-that-simd) | 0.1.0 | 0 | SIMD structural-byte scanning kernels (NEON, AVX2, AVX-512, wasm32 SIMD128) beh… |
+| 2026-11-11 18:57:03 | [ragcraft](https://crates.io/crates/ragcraft) | 0.1.0 | 0 | Fast semantic retrieval, smart document chunker, vector metrics, and embedded v… |
+| 2026-11-11 18:57:04 | [parse-that-regex](https://crates.io/crates/parse-that-regex) | 0.1.0 | 0 | Regex engine for parser generators: HIR, NFA→DFA compilation, e-graph simplific… |
+| 2026-11-11 18:57:06 | [weirdnet-code-spaces](https://crates.io/crates/weirdnet-code-spaces) | 0.1.0 | 0 | Weirdnet code spaces: math, Polars, Rust and typed Python sources compiled into… |
+| 2026-11-11 18:57:15 | [bbnf-ser](https://crates.io/crates/bbnf-ser) | 0.1.0 | 0 | Grammar-guided Serializer/Deserializer traits for BBNF |
+| 2026-11-11 19:06:25 | [bbnf-path](https://crates.io/crates/bbnf-path) | 0.1.0 | 0 | `path!` proc-macro: compile-time-typed path literals against a bbnf StructRegis… |
+| 2026-11-11 19:07:06 | [weirdnet-net](https://crates.io/crates/weirdnet-net) | 0.1.0 | 0 | Weirdnet networking: a libp2p node (TCP, QUIC, Noise, Yamux, mDNS, Kademlia, re… |
+| 2026-11-11 19:10:25 | [diff_data](https://crates.io/crates/diff_data) | 0.4.0 | 0 | PostgreSQL data diff, as a library: the SQL that makes a target's rows a refere… |
+| 2026-11-11 19:16:28 | [bbnf-lsp](https://crates.io/crates/bbnf-lsp) | 0.1.0 | 0 | Language server for BBNF grammar files |
+| 2026-11-11 19:18:49 | [apeiron-sdk](https://crates.io/crates/apeiron-sdk) | 0.0.0 | 0 | Name reserved for the Apeiron Engine SDK. The SDK ships with the Apeiron Engine… |
+| 2026-11-11 19:20:14 | [rune-zscore](https://crates.io/crates/rune-zscore) | 0.1.0 | 0 | Z-score and IQR-based outlier/anomaly detector |
+| 2026-11-11 19:20:23 | [rune-changepoint](https://crates.io/crates/rune-changepoint) | 0.1.0 | 0 | CUSUM-style changepoint detection over a numeric series |
+| 2026-11-11 19:20:32 | [rune-lttb](https://crates.io/crates/rune-lttb) | 0.1.0 | 0 | Largest-Triangle-Three-Buckets downsampling for chart-ready series |
+| 2026-11-11 19:20:41 | [rune-interpolate](https://crates.io/crates/rune-interpolate) | 0.1.0 | 0 | Linear and spline interpolation for gap-filling irregular series |
+| 2026-11-11 19:20:50 | [rune-resample](https://crates.io/crates/rune-resample) | 0.1.0 | 0 | Resample an irregular timestamped series to a fixed interval |
 
 ## Data source
 

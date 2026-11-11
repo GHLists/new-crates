@@ -1,0 +1,45 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-11T18:19:53.341403Z,byob-bundled,0.3.0,0,0,https://github.com/Scronkfinkle/byob,"byob's bundled plugins (artifacts, HTML apps, charts, markdown, images, core tools): their manifests and files, embedded at build time"
+2026-11-11T18:20:02.896268Z,byob-sheets,0.3.0,0,0,https://github.com/Scronkfinkle/byob,Spreadsheets as a native plugin backend (IronCalc): the bundled sheets plugin's backend (L4)
+2026-11-11T18:21:03.713193Z,contextcraft,0.1.0,0,0,https://github.com/kreivetech/contextcraft,"Dynamic context optimizer, prompt block injector, and conversation session manager for AI agents."
+2026-11-11T18:26:27.309707Z,hyper64,0.2.0,0,0,https://github.com/glastor-core/hyper64,"Next-generation, ultra-fast, zero-allocation Base64 engine in Rust with AVX-512, AVX2, NEON, WASM SIMD128, and const fn support"
+2026-11-11T18:30:20.182786Z,ruvector-e-means,0.1.0,0,0,https://github.com/ruvnet/ruvector,Deterministic CPU and WebAssembly e-means clustering with EMA centroid updates
+2026-11-11T18:30:23.508511Z,gearman-rs,0.1.0,0,0,https://github.com/ArtemIsmagilov/gearman-rs,"A complete, ergonomic Gearman client and worker implementation in Rust"
+2026-11-11T18:32:20.732772Z,weirdnet-keys,0.1.0,0,0,https://github.com/WeirdBrains/weirdnet-keys,"Weirdnet keys: 256-bit keys, BIP39 words, Shamir shards, HKDF and Argon2id derivation, XChaCha20-Poly1305 sealing, X25519 agreement, HMAC, an envelope keyring with rotation, rekey and recovery, dark-…"
+2026-11-11T18:33:21.421174Z,weirdnet-themes,0.1.0,0,0,https://github.com/WeirdBrains/weirdnet-themes,"Weirdnet themes: a TOML theme format with dark and light variants, 21 semantic colour roles, built-in palettes, contrast checks and optional ratatui colours."
+2026-11-11T18:33:30.747582Z,weirdnet-storage,0.1.0,0,0,https://github.com/WeirdBrains/weirdnet-storage,"Weirdnet storage: SQLCipher databases opened with a caller-supplied raw key, rekey and plaintext conversion, an ordered migration runner, savepoints, private files, snapshots and an optional row chan…"
+2026-11-11T18:33:42.156444Z,weirdnet-rules,0.1.0,0,0,https://github.com/WeirdBrains/weirdnet-rules,"Weirdnet rules: if-this-then-that over an event history. Condition syntax and comparison, rule specs generic over the application's then-actions, a matching and loop-protected engine behind a host tr…"
+2026-11-11T18:33:51.095989Z,weirdnet-plugin,0.1.0,0,0,https://github.com/WeirdBrains/weirdnet-plugin,"SDK for Weirdnet code space plugins: the stable C ABI (v2), the host API, frames and result views."
+2026-11-11T18:34:33.732714Z,emoji-names,0.1.0,0,0,https://github.com/A-265B-K/emoji-names.git,A small Rust crate that replaces emojis in a string with their CLDR English name
+2026-11-11T18:35:14.067888Z,wings-source,0.0.1,0,0,https://github.com/wsafight/wings,Source positions and diagnostics for the Wings VM language tools
+2026-11-11T18:35:33.628418Z,wings-syntax,0.0.1,0,0,https://github.com/wsafight/wings,Lossless tokens and a recovering parser for the Wings VM language
+2026-11-11T18:35:38.609941Z,wings-sema,0.0.1,0,0,https://github.com/wsafight/wings,Local name resolution and type checking for the Wings VM language
+2026-11-11T18:35:43.979625Z,wings-compile,0.0.1,0,0,https://github.com/wsafight/wings,Static checking tools for the Wings VM language prototype
+2026-11-11T18:35:50.18979Z,wings-lsp,0.0.1,0,0,https://github.com/wsafight/wings,Language server for the Wings VM language prototype
+2026-11-11T18:37:07.440156Z,weirdnet-pipelines,0.1.0,0,0,https://github.com/WeirdBrains/weirdnet-pipelines,"Weirdnet pipelines: graphs (DAGs) of application-defined sources, steps and sinks; parsing, validation, ordering, a runner that reaches the application through a host trait, and helpers for JSON colu…"
+2026-11-11T18:39:15.318339Z,flowhawk,0.1.0,0,0,,"Flowhawk SDK for Rust: OpenTelemetry tracing, metrics and logs tagged with your business flows, with remote-controlled sampling and redaction"
+2026-11-11T18:44:07.59696Z,devdoctor,0.1.0,0,0,https://github.com/aluciencozy/devdoctor,"A read-only terminal UI for inspecting developer processes, ports, and toolchains"
+2026-11-11T18:46:00.48366Z,seqterm,0.1.0,0,0,https://github.com/KirillAldashkin/seqterm,(Generalization of) null-terminated sequences.
+2026-11-11T18:47:06.046304Z,weirdnet-render,0.1.0,0,0,https://github.com/WeirdBrains/weirdnet-render,"Weirdnet render: structured data (tables, line charts, or JSON describing either) drawn to PNG, with input checks and size limits."
+2026-11-11T18:47:40.531469Z,text_magic_tonetete,0.1.0,0,0,,A Rust crate for text manipulation and magic.
+2026-11-11T18:47:58.360051Z,yolowhtml-dom,0.1.0,0,0,https://github.com/YOLOW92/yolowhtml,"Fast HTML5 parser for content extraction: zero-copy arena DOM, CSS selectors, and HTML5 tree-building rules."
+2026-11-11T18:48:14.450697Z,yolowhtml,0.1.0,0,0,https://github.com/YOLOW92/yolowhtml,"HTML to clean Markdown: main-content extraction, Markdown generation, publication dates and metadata, built for LLM pipelines."
+2026-11-11T18:49:57.276466Z,clarity-auth,0.1.0,0,0,https://github.com/petervdpas/Clarity,"Clarity.Auth: the sign-in strategies of the programs Clarity generates (password, the computer's account, tokens), sessions and failed tries, alike on every stack"
+2026-11-11T18:53:12.63759Z,stem-mqtt-proto,0.8.1,0,0,https://github.com/sorinirimies/stem-mqtt,"MQTT 3.1.1 / 5.0 wire protocol: a pure, runtime-free packet codec (no async, no TLS), shared by stem-mqtt-client and stem-mqtt-broker and usable on embedded targets."
+2026-11-11T18:56:40.491842Z,parse-that-egraph-derive,0.1.0,0,0,https://github.com/mkbabb/parse-that,#[derive(Language)] proc-macro for parse-that-egraph
+2026-11-11T18:56:44.739572Z,parse-that-egraph,0.1.0,0,0,https://github.com/mkbabb/parse-that,"General-purpose e-graph: equality saturation, rewrite rules, cost-model extraction"
+2026-11-11T18:56:56.987945Z,parse-that-simd,0.1.0,0,0,https://github.com/mkbabb/parse-that,"SIMD structural-byte scanning kernels (NEON, AVX2, AVX-512, wasm32 SIMD128) behind one runtime-dispatched tier table, each held to one scalar oracle"
+2026-11-11T18:57:03.955409Z,ragcraft,0.1.0,0,0,https://github.com/kreivetech/ragcraft,"Fast semantic retrieval, smart document chunker, vector metrics, and embedded vector store for AI agents and RAG applications."
+2026-11-11T18:57:04.671686Z,parse-that-regex,0.1.0,0,0,https://github.com/mkbabb/parse-that,"Regex engine for parser generators: HIR, NFA→DFA compilation, e-graph simplification, structural classification"
+2026-11-11T18:57:06.48823Z,weirdnet-code-spaces,0.1.0,0,0,https://github.com/WeirdBrains/weirdnet-code-spaces,"Weirdnet code spaces: math, Polars, Rust and typed Python sources compiled into plugins against the weirdnet-plugin SDK, content-addressed builds, ABI-checked loading, trust hashes and space line-ups…"
+2026-11-11T18:57:15.17461Z,bbnf-ser,0.1.0,0,0,https://github.com/mkbabb/bbnf-lang,Grammar-guided Serializer/Deserializer traits for BBNF
+2026-11-11T19:06:25.639909Z,bbnf-path,0.1.0,0,0,https://github.com/mkbabb/bbnf-lang,`path!` proc-macro: compile-time-typed path literals against a bbnf StructRegistry
+2026-11-11T19:07:06.06571Z,weirdnet-net,0.1.0,0,0,https://github.com/WeirdBrains/weirdnet-net,"Weirdnet networking: a libp2p node (TCP, QUIC, Noise, Yamux, mDNS, Kademlia, relays, hole punching, AutoNAT) carrying the application's own request and response types, signed key-exchange offers and…"
+2026-11-11T19:10:25.750389Z,diff_data,0.4.0,0,0,https://github.com/vkrinitsyn/diff-data,"PostgreSQL data diff, as a library: the SQL that makes a target's rows a reference's. A schema and data diff is sge's"
+2026-11-11T19:16:28.804864Z,bbnf-lsp,0.1.0,0,0,https://github.com/mkbabb/bbnf-lang,Language server for BBNF grammar files
+2026-11-11T19:18:49.719561Z,apeiron-sdk,0.0.0,0,0,,"Name reserved for the Apeiron Engine SDK. The SDK ships with the Apeiron Engine installer, not from crates.io."
+2026-11-11T19:20:14.267304Z,rune-zscore,0.1.0,0,0,https://github.com/alexile/runes,Z-score and IQR-based outlier/anomaly detector
+2026-11-11T19:20:23.213662Z,rune-changepoint,0.1.0,0,0,https://github.com/alexile/runes,CUSUM-style changepoint detection over a numeric series
+2026-11-11T19:20:32.110336Z,rune-lttb,0.1.0,0,0,https://github.com/alexile/runes,Largest-Triangle-Three-Buckets downsampling for chart-ready series
+2026-11-11T19:20:41.722249Z,rune-interpolate,0.1.0,0,0,https://github.com/alexile/runes,Linear and spline interpolation for gap-filling irregular series
+2026-11-11T19:20:50.403309Z,rune-resample,0.1.0,0,0,https://github.com/alexile/runes,Resample an irregular timestamped series to a fixed interval
