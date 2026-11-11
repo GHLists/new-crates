@@ -1,0 +1,24 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-11T05:19:22.69867Z,zakura-tor-error,0.0.0,0,0,https://github.com/zakura-core/zakura,Reserved
+2026-11-11T05:22:19.317934Z,prevtest,0.0.0,0,0,https://github.com/wyeworks/prevtest,Name reservation. A test caching solution for nextest.
+2026-11-11T05:25:02.989454Z,asc-arsc,0.1.1,0,0,https://github.com/Ylarod/asc-rs,"Lazy, bounds-checked resources.arsc reader used by asc-rs: names, per-config values, reference resolution."
+2026-11-11T05:30:25.181481Z,zakura-tor-guardmgr,0.0.0,0,0,https://github.com/zakura-core/zakura,Reserved
+2026-11-11T05:35:13.290714Z,asc-hap,0.1.1,0,0,https://github.com/Ylarod/asc-rs,"HarmonyOS package metadata for asc-rs: module.json, pack.info, pkgContextInfo.json and resources.index."
+2026-11-11T05:36:41.353208Z,z3cache,0.1.0,0,0,https://github.com/z3cache/z3cache,A drop-in replacement for the z3 binary that caches solver answers
+2026-11-11T05:41:27.702988Z,zakura-tor-hsclient,0.0.0,0,0,https://github.com/zakura-core/zakura,Reserved
+2026-11-11T05:41:47.903454Z,app-initializer,0.1.0,0,0,https://github.com/huanghu578/app-initializer,"A robust, atomic initializer for desktop apps (especially Windows MSIX) to manage AppData resources."
+2026-11-11T05:52:30.238241Z,zakura-tor-hscrypto,0.0.0,0,0,https://github.com/zakura-core/zakura,Reserved
+2026-11-11T05:54:48.42053Z,asc-pasm,0.1.1,0,0,https://github.com/Ylarod/asc-rs,Pandasm-style disassembly of ArkCompiler ABC records and functions for asc-rs.
+2026-11-11T05:57:27.111901Z,tauri-plugin-py-runtime,0.1.0,0,0,https://github.com/InfernalAzazel/tauri-plugin-py-runtime,"Tauri 2 plugin to write your app backend in Python: commands, events, channels and standalone packaging"
+2026-11-11T05:59:15.151399Z,nnz,0.0.1,0,0,,Structure-aware sparse factorization for quasi-definite linear systems
+2026-11-11T05:59:47.636461Z,wazobiamail,0.1.0,0,0,https://github.com/WazobiaMail/wazobiamail-rust,"Official WazobiaMail Rust SDK for transactional email via API. Start free with 3,000 emails/month. A Resend alternative that also supports SMTP, with domains, hosted mailboxes, and deliverability."
+2026-11-11T06:00:33.666166Z,vmnl_audio,0.1.0,0,0,https://github.com/VMNL/vmnl-audio,Independent VMNL audio playback with a private CPAL backend
+2026-11-11T06:03:32.874038Z,zakura-tor-key-forge,0.0.0,0,0,https://github.com/zakura-core/zakura,Reserved
+2026-11-11T06:06:20.472779Z,asc-findrefs,0.1.1,0,0,https://github.com/Ylarod/asc-rs,"Cross-reference search primitives for asc-rs: string/type/method/field locators, O(1) instruction-to-method resolution and raw code section scanning."
+2026-11-11T06:08:46.290242Z,opentide-yara,0.13.0,0,0,https://github.com/opentidehq/language-server,"opentide engine component: I/O-free YARA engine (libyara 4.5 dialect, YARA-X warnings) for HarfangLab and Bitdefender. Depend on opentide-analysis."
+2026-11-11T06:10:34.265891Z,tree-sitter-odoc,0.2.1,0,0,https://github.com/tmcgilchrist/tree-sitter-odoc,Odoc grammar for tree-sitter
+2026-11-11T06:13:55.900991Z,agui-sdk,0.0.1,0,0,https://github.com/MattJackson/agui-sdk,Rust SDK for the AG-UI agent-user interaction protocol (pre-release placeholder; full 1.0 SDK in progress).
+2026-11-11T06:14:03.325878Z,ag-ui-sdk,0.0.1,0,0,https://github.com/MattJackson/agui-sdk,Alias of agui-sdk: Rust SDK for the AG-UI agent-user interaction protocol.
+2026-11-11T06:14:35.449159Z,zakura-tor-keymgr,0.0.0,0,0,https://github.com/zakura-core/zakura,Reserved
+2026-11-11T06:16:28.151547Z,rust-mirror,0.1.0,0,0,https://github.com/rustcommons/rust-mirror,Prepare pinned Rust toolchain snapshots for offline static hosting
+2026-11-11T06:16:29.812018Z,asc-rebuild,0.1.1,0,0,https://github.com/Ylarod/asc-rs,"Extracts one class and its dependencies from a DEX and rebuilds a minimal, self-consistent DEX in memory (asc-rs)."
