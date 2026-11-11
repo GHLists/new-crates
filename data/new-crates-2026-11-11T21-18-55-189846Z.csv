@@ -1,0 +1,84 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-11T19:27:05.75998Z,dt8852,0.9.2,0,0,https://github.com/drupol/dt8852,A driver and command-line tool for the CEM DT-8852 sound level meter
+2026-11-11T19:28:09.996845Z,qorel-signer,0.1.0,0,0,https://github.com/qorechain/QORel,Pluggable transaction co-signers for QORel: adds post-quantum signature extension options to Cosmos SDK transactions (QoreChain hybrid ML-DSA-87).
+2026-11-11T19:28:26.637653Z,mitsukeru,0.1.0,0,0,https://github.com/arw-ywt/mitsukeru,"A zero-C-dependency, deterministic, safety-critical constraint optimization engine written in 100% pure Rust."
+2026-11-11T19:29:14.814037Z,rtex-core,0.1.0,0,0,https://github.com/hebertcisco/rtex-core,"The mouth of a TeX engine: tokenizer, catcodes, macro expansion, conditionals, registers and grouping, faithful to TeX: The Program and e-TeX"
+2026-11-11T19:29:54.113192Z,google-cloud-designcenter-v1,1.0.0,0,0,https://github.com/googleapis/google-cloud-rust/tree/main,Google Cloud Client Libraries for Rust - Design Center API
+2026-11-11T19:36:20.677977Z,unum-usage,0.1.0,0,0,https://github.com/corpunum/unum-usage,"Tiny local-only usage counters (JSONL, no args, no content) for the Unum engines"
+2026-11-11T19:36:45.619908Z,mcp-equidia-rs,0.1.0,0,0,https://github.com/fcenedes/mcp-equidia-rs,Equidia horse racing API CLI and MCP server with stdio and Streamable HTTP
+2026-11-11T19:37:39.231382Z,pdf-textlayer,0.3.0,0,0,https://github.com/patelvivekdev/pdf-textlayer,"Add an invisible, searchable text layer to a PDF from OCR boxes."
+2026-11-11T19:39:36.572631Z,twkb,0.1.0,0,0,https://github.com/nyurik/twkb,"Fast reader and writer for Tiny Well-Known Binary (TWKB) geometries, with geo-traits"
+2026-11-11T19:39:53.700385Z,agentstats,0.1.0,0,0,https://github.com/getagentstats/agentstats-rust,AgentStats analytics for Rust MCP servers (rmcp) and CLIs (clap). Never blocks a request.
+2026-11-11T19:49:08.399372Z,formel,0.1.0,0,0,https://github.com/manuel-rhdt/formel,Lay out mathematical formulas from MathML with a font's OpenType MATH table
+2026-11-11T19:50:02.644974Z,google-cloud-saasplatform-saasservicemgmt-v1,1.0.0,0,0,https://github.com/googleapis/google-cloud-rust/tree/main,Google Cloud Client Libraries for Rust - App Lifecycle Manager API
+2026-11-11T19:58:46.430937Z,crcbl-x11,0.19.1,0,0,https://github.com/kryptic-sh/crcbl,"Crucible's libxcb binding: the X11 core protocol and RandR, loaded with dlopen"
+2026-11-11T19:59:15.772866Z,wings-abi,0.0.2,0,0,https://github.com/wsafight/wings,Scalar AOT prototype ABI for Wings VM
+2026-11-11T19:59:24.311458Z,wings-ir,0.0.2,0,0,https://github.com/wsafight/wings,Validated scalar execution IR for Wings VM
+2026-11-11T19:59:32.6996Z,wings-artifact,0.0.2,0,0,https://github.com/wsafight/wings,Bounded scalar AOT artifact metadata for Wings VM
+2026-11-11T19:59:44.059039Z,wings-codegen,0.0.2,0,0,https://github.com/wsafight/wings,Cranelift scalar AOT backend for Wings VM
+2026-11-11T20:00:39.657883Z,wings-vm,0.0.2,0,0,https://github.com/wsafight/wings,Trusted scalar AOT execution prototype for Wings VM
+2026-11-11T20:03:49.457039Z,storageprims-local,0.2.0,0,0,https://github.com/3leaps/storageprims,Rooted local filesystem provider for storageprims
+2026-11-11T20:06:29.703615Z,rune-tdigest,0.1.0,0,0,https://github.com/alexile/runes,Streaming quantile/percentile estimator (t-digest-style) for large or unbounded series
+2026-11-11T20:06:38.575584Z,rune-season-decomp,0.1.0,0,0,https://github.com/alexile/runes,Simple additive/multiplicative seasonal decomposition
+2026-11-11T20:06:49.646375Z,rune-lowpass,0.1.0,0,0,https://github.com/alexile/runes,Low-pass/high-pass digital filter for noisy scalar signals
+2026-11-11T20:07:00.348993Z,rune-kalman-1d,0.1.0,0,0,https://github.com/alexile/runes,1D Kalman filter for smoothing a single noisy scalar signal
+2026-11-11T20:09:09.567298Z,infercraft,0.1.0,0,0,https://github.com/kreivetech/infercraft,"High-performance local LLM inference engine with zero-copy mmap, layer-by-layer weight streaming, and hardware calibration for Rust."
+2026-11-11T20:12:48.603178Z,overpunch-rx,0.1.0,0,0,https://github.com/copyleftdev/overpunch-rx,"Allocation-free signed overpunch and zoned decimal codecs: ASCII/EBCDIC, exact decimals, no_std"
+2026-11-11T20:14:44.983281Z,cpo3,0.0.1,0,0,https://github.com/cpo3-org/cpo3,"An interior-point solver for convex quadratic and linear programs, implemented in Rust with a Python interface"
+2026-11-11T20:15:27.446406Z,quran-detect,0.1.0,0,0,https://github.com/ieasybooks/quran-detect-rs,Detect Quran quotations in Arabic text and restore their canonical Tanzil wording.
+2026-11-11T20:15:42.269951Z,quran-detect-cli,0.1.0,0,0,https://github.com/ieasybooks/quran-detect-rs,Command-line detection and canonical restoration of Quran quotations in Arabic text.
+2026-11-11T20:17:45.280702Z,reallyme-wallet-proto,0.1.0,0,0,https://github.com/reallyme/wallet,Generated message-only protobuf contract for ReallyMe Wallet.
+2026-11-11T20:17:47.834423Z,reallyme-wallet-types,0.1.0,0,0,https://github.com/reallyme/wallet,Validated EUDI wallet core domain types.
+2026-11-11T20:17:49.843313Z,reallyme-wallet-lifecycle,0.1.0,0,0,https://github.com/reallyme/wallet,Wallet Unit lifecycle state machine for ReallyMe EUDI wallet core.
+2026-11-11T20:17:51.130418Z,ledkit-color,0.1.0,0,0,https://github.com/jrowe88/ledkit,"Colors for addressable LEDs: RGB/RGBW, hue, gamma, color temperature, gradients. no_std."
+2026-11-11T20:17:51.998074Z,reallyme-wallet-render,0.1.0,0,0,https://github.com/reallyme/wallet,Feature-gated wallet distribution render boundary.
+2026-11-11T20:17:53.012273Z,ledkit-core,0.1.0,0,0,https://github.com/jrowe88/ledkit,"Core of ledkit: LED chip catalogue, signal encoders and the Strip pixel buffer. no_std."
+2026-11-11T20:17:54.10132Z,reallyme-wallet-zk,0.1.0,0,0,https://github.com/reallyme/wallet,Optional ReallyMe Wallet integration for injected zero-knowledge proving.
+2026-11-11T20:17:54.651478Z,ledkit-layout,0.1.0,0,0,https://github.com/jrowe88/ledkit,"ledkit layouts: map (x, y) positions on LED matrices onto strip positions. no_std."
+2026-11-11T20:17:55.141421Z,ledkit-spi,0.1.0,0,0,https://github.com/jrowe88/ledkit,ledkit backend that drives NeoPixels and DotStars over any embedded-hal 1.0 SPI bus. no_std.
+2026-11-11T20:18:00.501109Z,ledkit-uart,0.1.0,0,0,https://github.com/jrowe88/ledkit,ledkit backend that drives NeoPixels from any embedded-io serial port (UART) with an inverted output. no_std.
+2026-11-11T20:20:15.445644Z,kitchen-ui,0.0.1,0,0,https://github.com/neuro-kitchen/kitchen,"Shared UI for GPUI apps (gpui-kit): design tokens, light and dark themes with a contrast-checked accent, widgets, a parameter editor, icon bundling and its test"
+2026-11-11T20:22:05.148728Z,liquid-ast,0.1.0,0,0,https://github.com/Shopify/theme-tools,"The syntax tree of Liquid HTML templates, as @shopify/liquid-html-parser builds it"
+2026-11-11T20:22:07.029627Z,liquid-parser,0.1.0,0,0,https://github.com/Shopify/theme-tools,"A parser for Liquid HTML templates, ported from @shopify/liquid-html-parser"
+2026-11-11T20:22:08.837751Z,theme-check,0.1.0,0,0,https://github.com/Shopify/theme-tools,"The linter for Shopify themes, ported from @shopify/theme-check-node"
+2026-11-11T20:22:29.770004Z,mlmf-hf-config,0.11.29,0,0,https://github.com/CireSnave/mlmf,"config.json defaults that are always correct, filled per declared model_type and cited to the transformers source. Structure to structure; no I/O."
+2026-11-11T20:22:49.389262Z,reallyme-wallet-keystore,0.1.0,0,0,https://github.com/reallyme/wallet,WSCD/WSCA key-handle boundary for ReallyMe wallet core.
+2026-11-11T20:22:52.769287Z,mlmf-mlx,0.11.29,0,0,https://github.com/CireSnave/mlmf,"MLX quantization geometry: locate packed linear layers in a safetensors container and parse the `quantization` config section. No I/O, no dequantization."
+2026-11-11T20:24:11.937245Z,mlmf-oracle,0.11.29,0,0,https://github.com/CireSnave/mlmf,"Offline mapping-file emitter for tensor names: the mapping-file format with evidence per entry, and a pluggable Oracle whose proposals are checked before they are written. Never on a load path."
+2026-11-11T20:25:16.408473Z,strata-palette,0.33.0,0,0,https://github.com/como-technologies/strata,"Record, compare, and check Spectro Cloud Palette profile versions, the clusters and other objects that run them, and pack versions"
+2026-11-11T20:31:53.229133Z,crush-lz,0.0.0,0,0,https://github.com/ecc521/crush-lz,"Placeholder reserved for the crush-lz project. Its codecs are published as crushlz, crushlzfse, lzbitmap, crushlz4 and lzmesh."
+2026-11-11T20:31:55.563314Z,crushlzvn,0.0.0,0,0,https://github.com/ecc521/crush-lz,"Placeholder reserved for the crush-lz project. Its codecs are published as crushlz, crushlzfse, lzbitmap, crushlz4 and lzmesh."
+2026-11-11T20:31:57.830681Z,crush-lzfse,0.0.0,0,0,https://github.com/ecc521/crush-lz,"Placeholder reserved for the crush-lz project. Its codecs are published as crushlz, crushlzfse, lzbitmap, crushlz4 and lzmesh."
+2026-11-11T20:32:00.006373Z,crush-lz4,0.0.0,0,0,https://github.com/ecc521/crush-lz,"Placeholder reserved for the crush-lz project. Its codecs are published as crushlz, crushlzfse, lzbitmap, crushlz4 and lzmesh."
+2026-11-11T20:32:01.226051Z,crush-lzbitmap,0.0.0,0,0,https://github.com/ecc521/crush-lz,"Placeholder reserved for the crush-lz project. Its codecs are published as crushlz, crushlzfse, lzbitmap, crushlz4 and lzmesh."
+2026-11-11T20:32:23.757226Z,pharos-corefile,0.1.0,0,0,https://github.com/itsmeyaw/pharos-dns,Corefile lexer and parser for Pharos
+2026-11-11T20:32:24.901336Z,pharos-proto,0.1.0,0,0,https://github.com/itsmeyaw/pharos-dns,"DNS wire format, names, records, zone files, TSIG and EDNS for Pharos"
+2026-11-11T20:32:27.381788Z,pharos-dnssec,0.1.0,0,0,https://github.com/itsmeyaw/pharos-dns,DNSSEC signing for the Pharos DNS server
+2026-11-11T20:32:28.22407Z,pharos-server,0.1.0,0,0,https://github.com/itsmeyaw/pharos-dns,"Listeners, Plugin Chain contract and metrics for the Pharos DNS server"
+2026-11-11T20:32:30.55069Z,pharos-kubernetes,0.1.0,0,0,https://github.com/itsmeyaw/pharos-dns,Kubernetes API client used by the Pharos kubernetes Plugin
+2026-11-11T20:32:49.338472Z,reallyme-wallet-attestation,0.1.0,0,0,https://github.com/reallyme/wallet,Wallet unit attestation lifecycle for ReallyMe wallet core.
+2026-11-11T20:33:15.812544Z,crush-lzmesh,0.0.0,0,0,https://github.com/ecc521/crush-lz,"Placeholder reserved for the crush-lz project. Its codecs are published as crushlz, crushlzfse, lzbitmap, crushlz4 and lzmesh."
+2026-11-11T20:35:03.741227Z,cipherfs,0.0.0,0,0,https://github.com/cipherfs/cipherfs,"Name reserved for CipherFS, an encrypted vault with synchronization and filesystem mounting; the first release is published at github.com/cipherfs/cipherfs"
+2026-11-11T20:36:12.972649Z,singalo,0.1.0,0,0,https://github.com/ultrabear/singalo,A crate providing a singleton Allocator impl
+2026-11-11T20:36:14.785403Z,tree-sitter-bash-orchard,0.1.0,0,0,https://codeberg.org/grammar-orchard/tree-sitter-bash-orchard,Parser for Bash files
+2026-11-11T20:38:15.625078Z,rune-correlate,0.1.0,0,0,https://github.com/alexile/runes,Cross-correlation and lag detection between two numeric series
+2026-11-11T20:38:24.021604Z,rune-derivative,0.1.0,0,0,https://github.com/alexile/runes,Rate-of-change (derivative) and cumulative (integral) calculation over a series
+2026-11-11T20:41:22.880437Z,rustgram-api,0.1.0,0,0,https://github.com/lethemery/RustGram,"Ergonomic async Telegram Bot API 10.4 library for Rust featuring HTML Widgets, Rich Messages, Ephemeral Messages, Guest Mode, Managed Bots, Router, and FSM."
+2026-11-11T20:42:35.573253Z,dexpi,0.1.1,0,0,https://github.com/olaf-b/dexpi,"Byte-faithful reader and writer for DEXPI 2.0 XML, with model loading and validation"
+2026-11-11T20:42:50.10687Z,reallyme-wallet-proto-codec,0.1.0,0,0,https://github.com/reallyme/wallet,Bounded protobuf codecs and typed domain conversions for ReallyMe Wallet.
+2026-11-11T20:42:52.707282Z,pharos-plugins,0.1.0,0,0,https://github.com/itsmeyaw/pharos-dns,CoreDNS-compatible Plugins for the Pharos DNS server
+2026-11-11T20:43:22.690405Z,apfs-compress,0.0.0,0,0,https://github.com/ecc521/apfscompress,Placeholder reserved for the apfscompress project. Install it with: cargo install apfscompress
+2026-11-11T20:44:04.740376Z,cartan-complex,0.10.0,0,0,https://github.com/alejandro-soto-franco/cartan,Abstract simplicial complexes with incidence operators and the Hodge decomposition of edge flows
+2026-11-11T20:51:16.795621Z,waterui-git-head,0.0.0,0,0,https://github.com/water-rs/waterui,Build-script helper that embeds the checked-out Git commit and reruns only when it moves
+2026-11-11T20:52:50.223352Z,reallyme-wallet-storage,0.1.0,0,0,https://github.com/reallyme/wallet,Storage traits and encrypted record boundaries for ReallyMe wallet core.
+2026-11-11T20:53:28.689555Z,pharos-dns,0.1.0,0,0,https://github.com/itsmeyaw/pharos-dns,Pharos: a performance-first DNS server compatible with CoreDNS Corefiles
+2026-11-11T20:53:34.797423Z,seid,0.1.1,0,0,https://github.com/Sharkow1743/seid,A SEgmented ID system
+2026-11-11T21:02:50.966457Z,reallyme-wallet-inventory,0.1.0,0,0,https://github.com/reallyme/wallet,Credential lifecycle and unlinkable batch-pool inventory for ReallyMe wallet core.
+2026-11-11T21:09:10.959424Z,laminardb-iceberg,0.40.2,0,0,https://github.com/apache/iceberg-rust,LaminarDB-maintained Apache Iceberg core: 0.11.0 on Arrow 59
+2026-11-11T21:09:13.439857Z,laminardb-iceberg-catalog-rest,0.40.2,0,0,https://github.com/apache/iceberg-rust,LaminarDB-maintained Apache Iceberg REST catalog: 0.11.0 on Arrow 59
+2026-11-11T21:09:16.342382Z,laminardb-iceberg-storage-opendal,0.40.2,0,0,https://github.com/apache/iceberg-rust,LaminarDB-maintained Apache Iceberg OpenDAL storage: 0.11.0 on Arrow 59
+2026-11-11T21:10:56.666857Z,prose-tools,0.1.0,0,0,https://github.com/khwstolle/prose-check,Fast prose formatter and document tooling powered by Candle and Tree-sitter
+2026-11-11T21:12:49.589887Z,reallyme-wallet-log,0.1.0,0,0,https://github.com/reallyme/wallet,User-visible transaction and QTSP decision log for ReallyMe wallet core.
+2026-11-11T21:13:06.032989Z,origincloud-sts,0.24.0,0,0,https://github.com/origincloudhq/sdk-rust,"The Origin Cloud STS API: the security token service: it turns a token from an identity provider outside Origin Cloud, such as a CI job's OIDC token, into the access token of a WORKLOAD service accou…"
+2026-11-11T21:14:32.705365Z,unumsearch,0.1.10,0,0,https://github.com/corpunum/unumsearch,"Always-fresh local file and code search: trigram index, ripgrep-compatible corpus, CLI/daemon/JSON-RPC/MCP front-ends"
+2026-11-11T21:15:36.361684Z,connector-for-ai-agents,0.3.0,0,0,https://github.com/MuhammadHusnainAli/connector-for-ai-agents,"2,000+ API connectors for Rust and AI agents: catalogue, auth field schemas, connection management with token exchange and request signing, plus scope-aware tools per connector. Sync and async."
