@@ -8,37 +8,67 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-11 06:18 UTC
+## Latest list — 2026-11-11 07:19 UTC
 
-New crates published between 2026-11-11 05:19 UTC and 2026-11-11 06:18 UTC.
+New crates published between 2026-11-11 06:18 UTC and 2026-11-11 07:19 UTC.
 
-[Full CSV](data/new-crates-2026-11-11T06-18-42-779609Z.csv)
+[Full CSV](data/new-crates-2026-11-11T07-19-56-392251Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-11 05:19:22 | [zakura-tor-error](https://crates.io/crates/zakura-tor-error) | 0.0.0 | 0 | Reserved |
-| 2026-11-11 05:22:19 | [prevtest](https://crates.io/crates/prevtest) | 0.0.0 | 0 | Name reservation. A test caching solution for nextest. |
-| 2026-11-11 05:25:02 | [asc-arsc](https://crates.io/crates/asc-arsc) | 0.1.1 | 0 | Lazy, bounds-checked resources.arsc reader used by asc-rs: names, per-config va… |
-| 2026-11-11 05:30:25 | [zakura-tor-guardmgr](https://crates.io/crates/zakura-tor-guardmgr) | 0.0.0 | 0 | Reserved |
-| 2026-11-11 05:35:13 | [asc-hap](https://crates.io/crates/asc-hap) | 0.1.1 | 0 | HarmonyOS package metadata for asc-rs: module.json, pack.info, pkgContextInfo.j… |
-| 2026-11-11 05:36:41 | [z3cache](https://crates.io/crates/z3cache) | 0.1.0 | 0 | A drop-in replacement for the z3 binary that caches solver answers |
-| 2026-11-11 05:41:27 | [zakura-tor-hsclient](https://crates.io/crates/zakura-tor-hsclient) | 0.0.0 | 0 | Reserved |
-| 2026-11-11 05:41:47 | [app-initializer](https://crates.io/crates/app-initializer) | 0.1.0 | 0 | A robust, atomic initializer for desktop apps (especially Windows MSIX) to mana… |
-| 2026-11-11 05:52:30 | [zakura-tor-hscrypto](https://crates.io/crates/zakura-tor-hscrypto) | 0.0.0 | 0 | Reserved |
-| 2026-11-11 05:54:48 | [asc-pasm](https://crates.io/crates/asc-pasm) | 0.1.1 | 0 | Pandasm-style disassembly of ArkCompiler ABC records and functions for asc-rs. |
-| 2026-11-11 05:57:27 | [tauri-plugin-py-runtime](https://crates.io/crates/tauri-plugin-py-runtime) | 0.1.0 | 0 | Tauri 2 plugin to write your app backend in Python: commands, events, channels… |
-| 2026-11-11 05:59:15 | [nnz](https://crates.io/crates/nnz) | 0.0.1 | 0 | Structure-aware sparse factorization for quasi-definite linear systems |
-| 2026-11-11 05:59:47 | [wazobiamail](https://crates.io/crates/wazobiamail) | 0.1.0 | 0 | Official WazobiaMail Rust SDK for transactional email via API. Start free with… |
-| 2026-11-11 06:00:33 | [vmnl_audio](https://crates.io/crates/vmnl_audio) | 0.1.0 | 0 | Independent VMNL audio playback with a private CPAL backend |
-| 2026-11-11 06:03:32 | [zakura-tor-key-forge](https://crates.io/crates/zakura-tor-key-forge) | 0.0.0 | 0 | Reserved |
-| 2026-11-11 06:06:20 | [asc-findrefs](https://crates.io/crates/asc-findrefs) | 0.1.1 | 0 | Cross-reference search primitives for asc-rs: string/type/method/field locators… |
-| 2026-11-11 06:08:46 | [opentide-yara](https://crates.io/crates/opentide-yara) | 0.13.0 | 0 | opentide engine component: I/O-free YARA engine (libyara 4.5 dialect, YARA-X wa… |
-| 2026-11-11 06:10:34 | [tree-sitter-odoc](https://crates.io/crates/tree-sitter-odoc) | 0.2.1 | 0 | Odoc grammar for tree-sitter |
-| 2026-11-11 06:13:55 | [agui-sdk](https://crates.io/crates/agui-sdk) | 0.0.1 | 0 | Rust SDK for the AG-UI agent-user interaction protocol (pre-release placeholder… |
-| 2026-11-11 06:14:03 | [ag-ui-sdk](https://crates.io/crates/ag-ui-sdk) | 0.0.1 | 0 | Alias of agui-sdk: Rust SDK for the AG-UI agent-user interaction protocol. |
-| 2026-11-11 06:14:35 | [zakura-tor-keymgr](https://crates.io/crates/zakura-tor-keymgr) | 0.0.0 | 0 | Reserved |
-| 2026-11-11 06:16:28 | [rust-mirror](https://crates.io/crates/rust-mirror) | 0.1.0 | 0 | Prepare pinned Rust toolchain snapshots for offline static hosting |
-| 2026-11-11 06:16:29 | [asc-rebuild](https://crates.io/crates/asc-rebuild) | 0.1.1 | 0 | Extracts one class and its dependencies from a DEX and rebuilds a minimal, self… |
+| 2026-11-11 06:20:24 | [air-conditioning](https://crates.io/crates/air-conditioning) | 0.1.0 | 0 | Run a Mac's fans at max for a while, then hand them back to macOS |
+| 2026-11-11 06:20:49 | [scrobl](https://crates.io/crates/scrobl) | 0.1.1 | 0 | The full Last.fm API in async Rust: every method callable, history read and che… |
+| 2026-11-11 06:20:51 | [scrobl-cli](https://crates.io/crates/scrobl-cli) | 0.1.1 | 0 | Keeps a local SQLite copy of a Last.fm listening history, read and checked page… |
+| 2026-11-11 06:24:24 | [asc-smali](https://crates.io/crates/asc-smali) | 0.1.1 | 0 | baksmali-style disassembler for a single class of a DEX (the built-in decompile… |
+| 2026-11-11 06:24:45 | [jerc](https://crates.io/crates/jerc) | 0.6.2 | 0 | A keyboard-driven terminal email client written in Rust |
+| 2026-11-11 06:25:37 | [zakura-tor-linkspec](https://crates.io/crates/zakura-tor-linkspec) | 0.0.0 | 0 | Reserved |
+| 2026-11-11 06:25:40 | [zero-client](https://crates.io/crates/zero-client) | 0.1.1 | 0 | A native Rust client for Zero. |
+| 2026-11-11 06:29:34 | [ccsa-mma](https://crates.io/crates/ccsa-mma) | 0.1.1 | 0 | Conservative convex separable approximations by the method of moving asymptotes |
+| 2026-11-11 06:31:42 | [pikapro-data](https://crates.io/crates/pikapro-data) | 0.1.0 | 0 | Pokémon game data for pikapro, generated from Pokémon Showdown: species, moves,… |
+| 2026-11-11 06:31:50 | [pikapro](https://crates.io/crates/pikapro) | 0.1.0 | 0 | A deterministic Pokémon battle simulator faithful to Pokémon Showdown: Gen 9 si… |
+| 2026-11-11 06:31:57 | [pikapro-protocol](https://crates.io/crates/pikapro-protocol) | 0.1.0 | 0 | Pokémon Showdown's text formats for pikapro: battle logs per perspective, choic… |
+| 2026-11-11 06:32:05 | [pikapro-validate](https://crates.io/crates/pikapro-validate) | 0.1.0 | 0 | A port of Pokémon Showdown's team validator for pikapro: VGC, Pokémon Champions… |
+| 2026-11-11 06:32:10 | [pikapro-teams](https://crates.io/crates/pikapro-teams) | 0.1.0 | 0 | Pokémon teams for pikapro, drawn deterministically from a seed: Showdown's rand… |
+| 2026-11-11 06:34:57 | [asc-engine](https://crates.io/crates/asc-engine) | 0.1.1 | 0 | High-level asc-rs engine: parallel APK class lookup, cross-DEX reference search… |
+| 2026-11-11 06:36:26 | [goodsorcery](https://crates.io/crates/goodsorcery) | 0.1.0 | 0 | Error tracking and performance monitoring for Rust apps, reporting to Good Sorc… |
+| 2026-11-11 06:36:40 | [zakura-tor-llcrypto](https://crates.io/crates/zakura-tor-llcrypto) | 0.0.0 | 0 | Reserved |
+| 2026-11-11 06:37:16 | [rheon-feel-grammar](https://crates.io/crates/rheon-feel-grammar) | 0.2.0 | 0 | rheon \| FEEL grammar (Bison) and the generator of the parser tables (fork of ds… |
+| 2026-11-11 06:40:58 | [libinf](https://crates.io/crates/libinf) | 0.1.0 | 0 | Pure-Rust reader for OS/2 Information Presentation Facility help files (.inf an… |
+| 2026-11-11 06:41:58 | [pikapro-server](https://crates.io/crates/pikapro-server) | 0.1.0 | 0 | Pokémon Showdown's battle stream and simulate-battle command on pikapro, messag… |
+| 2026-11-11 06:44:57 | [vector-sheet](https://crates.io/crates/vector-sheet) | 0.0.1 | 0 | The versioned vector sheet a guest block returns for its host to paint: compoun… |
+| 2026-11-11 06:45:27 | [asc-ark-engine](https://crates.io/crates/asc-ark-engine) | 0.1.1 | 0 | HarmonyOS (HAP / ABC) query engine for asc-rs: program opening, record listing,… |
+| 2026-11-11 06:47:43 | [zakura-tor-log-ratelim](https://crates.io/crates/zakura-tor-log-ratelim) | 0.0.0 | 0 | Reserved |
+| 2026-11-11 06:51:58 | [pikapro-view](https://crates.io/crates/pikapro-view) | 0.1.0 | 0 | A player's view of a pikapro battle: what a Pokémon Showdown client knows, buil… |
+| 2026-11-11 06:55:05 | [asc-mcp](https://crates.io/crates/asc-mcp) | 0.1.1 | 0 | asc-rs MCP server: a resident stdio session that keeps APKs open across getclas… |
+| 2026-11-11 06:58:45 | [zakura-tor-memquota](https://crates.io/crates/zakura-tor-memquota) | 0.0.0 | 0 | Reserved |
+| 2026-11-11 06:59:33 | [car-ledger](https://crates.io/crates/car-ledger) | 0.61.2 | 0 | Decision ledger contract and deterministic grading policy for CAR |
+| 2026-11-11 07:01:58 | [pikapro-rl](https://crates.io/crates/pikapro-rl) | 0.1.0 | 0 | A vectorised reinforcement-learning environment for Pokémon battles on pikapro:… |
+| 2026-11-11 07:02:42 | [foundation_cloudflare_load_balancers](https://crates.io/crates/foundation_cloudflare_load_balancers) | 0.1.1 | 0 | Generated Cloudflare API client: load_balancers group |
+| 2026-11-11 07:02:50 | [foundation_cloudflare_logs](https://crates.io/crates/foundation_cloudflare_logs) | 0.1.1 | 0 | Generated Cloudflare API client: logs group |
+| 2026-11-11 07:02:58 | [foundation_cloudflare_magic_wan](https://crates.io/crates/foundation_cloudflare_magic_wan) | 0.1.1 | 0 | Generated Cloudflare API client: magic_wan group |
+| 2026-11-11 07:03:05 | [xdts](https://crates.io/crates/xdts) | 0.1.0 | 0 | Read and write XDTS and TDTS animation exposure sheets, with no dependencies |
+| 2026-11-11 07:03:05 | [foundation_cloudflare_media](https://crates.io/crates/foundation_cloudflare_media) | 0.1.1 | 0 | Generated Cloudflare API client: media group |
+| 2026-11-11 07:03:10 | [hypersig_desktop](https://crates.io/crates/hypersig_desktop) | 0.15.0 | 0 | Runs a hypersig application in a desktop window |
+| 2026-11-11 07:03:10 | [foundation_cloudflare_migration](https://crates.io/crates/foundation_cloudflare_migration) | 0.1.1 | 0 | Generated Cloudflare API client: migration group |
+| 2026-11-11 07:03:53 | [wifiler](https://crates.io/crates/wifiler) | 0.1.0 | 0 | A tiny local Wi-Fi file server. Scan a QR code and send files between your comp… |
+| 2026-11-11 07:04:31 | [ct2rs-sys](https://crates.io/crates/ct2rs-sys) | 0.11.0 | 0 | Raw Rust bindings for OpenNMT/CTranslate2 |
+| 2026-11-11 07:05:19 | [dadl](https://crates.io/crates/dadl) | 0.0.2 | 0 | Per-tag processing core for DADL, the Detector-Aware Data Layer for quantum opt… |
+| 2026-11-11 07:05:34 | [asc-cli](https://crates.io/crates/asc-cli) | 0.1.1 | 0 | asc-rs command line: getclass / getmanifest / findrefs over an APK without prep… |
+| 2026-11-11 07:08:01 | [burstq-rs](https://crates.io/crates/burstq-rs) | 0.1.9 | 0 | A terminal-based concurrent TODO list |
+| 2026-11-11 07:09:48 | [zakura-tor-memquota-cost](https://crates.io/crates/zakura-tor-memquota-cost) | 0.0.0 | 0 | Reserved |
+| 2026-11-11 07:10:06 | [foundation_cloudflare_network](https://crates.io/crates/foundation_cloudflare_network) | 0.1.1 | 0 | Generated Cloudflare API client: network group |
+| 2026-11-11 07:11:57 | [oxc_simd_macros](https://crates.io/crates/oxc_simd_macros) | 0.158.0 | 0 | A collection of JavaScript tools written in Rust. |
+| 2026-11-11 07:11:58 | [pikapro-cli](https://crates.io/crates/pikapro-cli) | 0.1.0 | 0 | Command-line tool for pikapro, a Pokémon battle simulator faithful to Pokémon S… |
+| 2026-11-11 07:13:03 | [ruapc-memory](https://crates.io/crates/ruapc-memory) | 0.2.0-alpha.8 | 0 | RuaPC logical memory spaces, copy planning and immutable buffer sources |
+| 2026-11-11 07:13:12 | [aspero-json](https://crates.io/crates/aspero-json) | 0.4.0 | 0 | aspero's JSON contract: works, lookups, verdicts and claims as agents and apps… |
+| 2026-11-11 07:13:25 | [ruapc-schema](https://crates.io/crates/ruapc-schema) | 0.2.0-alpha.8 | 0 | Service schemas and OpenAPI projection for RuaPC |
+| 2026-11-11 07:13:42 | [ruapc-wire](https://crates.io/crates/ruapc-wire) | 0.2.0-alpha.8 | 0 | RuaPC message metadata, codecs and transport framing |
+| 2026-11-11 07:13:53 | [car-beads](https://crates.io/crates/car-beads) | 0.61.2 | 0 | Git-backed work beads and rebuildable registry index for CAR |
+| 2026-11-11 07:13:54 | [oxc_simd](https://crates.io/crates/oxc_simd) | 0.158.0 | 0 | A collection of JavaScript tools written in Rust. |
+| 2026-11-11 07:14:17 | [oxc_lexer](https://crates.io/crates/oxc_lexer) | 0.158.0 | 0 | A collection of JavaScript tools written in Rust. |
+| 2026-11-11 07:17:20 | [metafile-emf](https://crates.io/crates/metafile-emf) | 1.0.1 | 0 | EMF parsing, inspection, and renderer-independent playback for metafile-rs |
+| 2026-11-11 07:18:22 | [pdf-compressor](https://crates.io/crates/pdf-compressor) | 0.5.0 | 0 | CLI for batch compressing PDFs with iLovePDF.com |
+| 2026-11-11 07:19:26 | [metafile](https://crates.io/crates/metafile) | 1.0.1 | 0 | High-level WMF, EMF, and EMF+ parsing and deterministic SVG rendering |
 
 ## Data source
 

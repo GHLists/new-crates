@@ -1,0 +1,54 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-11T06:20:24.503154Z,air-conditioning,0.1.0,0,0,https://github.com/Jefferson-Butler1/air-conditioning,"Run a Mac's fans at max for a while, then hand them back to macOS"
+2026-11-11T06:20:49.609318Z,scrobl,0.1.1,0,0,https://github.com/kelchm/scrobl,"The full Last.fm API in async Rust: every method callable, history read and checked page by page, credentials kept out of logs. Unofficial."
+2026-11-11T06:20:51.181393Z,scrobl-cli,0.1.1,0,0,https://github.com/kelchm/scrobl,"Keeps a local SQLite copy of a Last.fm listening history, read and checked page by page. Unofficial."
+2026-11-11T06:24:24.353662Z,asc-smali,0.1.1,0,0,https://github.com/Ylarod/asc-rs,baksmali-style disassembler for a single class of a DEX (the built-in decompile backend of asc-rs).
+2026-11-11T06:24:45.350976Z,jerc,0.6.2,0,0,https://github.com/HiFiveJazz/jerc,A keyboard-driven terminal email client written in Rust
+2026-11-11T06:25:37.735912Z,zakura-tor-linkspec,0.0.0,0,0,https://github.com/zakura-core/zakura,Reserved
+2026-11-11T06:25:40.655769Z,zero-client,0.1.1,0,0,https://github.com/wevm/zero,A native Rust client for Zero.
+2026-11-11T06:29:34.268345Z,ccsa-mma,0.1.1,0,0,https://github.com/adam-t-burke/mma,Conservative convex separable approximations by the method of moving asymptotes
+2026-11-11T06:31:42.614531Z,pikapro-data,0.1.0,0,0,https://github.com/spedr/pikapro-engine,"Pokémon game data for pikapro, generated from Pokémon Showdown: species, moves, abilities, items, types and learnsets (Gen 9 and Champions)"
+2026-11-11T06:31:50.692772Z,pikapro,0.1.0,0,0,https://github.com/spedr/pikapro-engine,"A deterministic Pokémon battle simulator faithful to Pokémon Showdown: Gen 9 singles and doubles, VGC and Pokémon Champions"
+2026-11-11T06:31:57.310896Z,pikapro-protocol,0.1.0,0,0,https://github.com/spedr/pikapro-engine,"Pokémon Showdown's text formats for pikapro: battle logs per perspective, choice strings, request JSON, team import and export"
+2026-11-11T06:32:05.426176Z,pikapro-validate,0.1.0,0,0,https://github.com/spedr/pikapro-engine,"A port of Pokémon Showdown's team validator for pikapro: VGC, Pokémon Champions and custom-game rules, reported in Showdown's words"
+2026-11-11T06:32:10.155901Z,pikapro-teams,0.1.0,0,0,https://github.com/spedr/pikapro-engine,"Pokémon teams for pikapro, drawn deterministically from a seed: Showdown's random-battle generator and random teams its validator accepts"
+2026-11-11T06:34:57.802215Z,asc-engine,0.1.1,0,0,https://github.com/Ylarod/asc-rs,"High-level asc-rs engine: parallel APK class lookup, cross-DEX reference search, single-class rebuild + disassembly, manifest decoding."
+2026-11-11T06:36:26.626875Z,goodsorcery,0.1.0,0,0,https://github.com/creativesorcery/goodsorcery-rust,"Error tracking and performance monitoring for Rust apps, reporting to Good Sorcery"
+2026-11-11T06:36:40.44196Z,zakura-tor-llcrypto,0.0.0,0,0,https://github.com/zakura-core/zakura,Reserved
+2026-11-11T06:37:16.589764Z,rheon-feel-grammar,0.2.0,0,0,https://github.com/spearsandshields/rheon,rheon | FEEL grammar (Bison) and the generator of the parser tables (fork of dsntk-feel-grammar)
+2026-11-11T06:40:58.693311Z,libinf,0.1.0,0,0,https://github.com/accessware/libinf,Pure-Rust reader for OS/2 Information Presentation Facility help files (.inf and .hlp).
+2026-11-11T06:41:58.158399Z,pikapro-server,0.1.0,0,0,https://github.com/spedr/pikapro-engine,"Pokémon Showdown's battle stream and simulate-battle command on pikapro, message for message"
+2026-11-11T06:44:57.742088Z,vector-sheet,0.0.1,0,0,https://github.com/merely-made/graphshell,"The versioned vector sheet a guest block returns for its host to paint: compound fills, strokes, theme-role paint and text runs."
+2026-11-11T06:45:27.671015Z,asc-ark-engine,0.1.1,0,0,https://github.com/Ylarod/asc-rs,"HarmonyOS (HAP / ABC) query engine for asc-rs: program opening, record listing, disassembly and reference search."
+2026-11-11T06:47:43.137242Z,zakura-tor-log-ratelim,0.0.0,0,0,https://github.com/zakura-core/zakura,Reserved
+2026-11-11T06:51:58.236584Z,pikapro-view,0.1.0,0,0,https://github.com/spedr/pikapro-engine,"A player's view of a pikapro battle: what a Pokémon Showdown client knows, built from the battle's events and requests"
+2026-11-11T06:55:05.285943Z,asc-mcp,0.1.1,0,0,https://github.com/Ylarod/asc-rs,asc-rs MCP server: a resident stdio session that keeps APKs open across getclass / findrefs / listclass / getmanifest calls.
+2026-11-11T06:58:45.448784Z,zakura-tor-memquota,0.0.0,0,0,https://github.com/zakura-core/zakura,Reserved
+2026-11-11T06:59:33.169227Z,car-ledger,0.61.2,0,0,https://github.com/Parslee-ai/car,Decision ledger contract and deterministic grading policy for CAR
+2026-11-11T07:01:58.608723Z,pikapro-rl,0.1.0,0,0,https://github.com/spedr/pikapro-engine,"A vectorised reinforcement-learning environment for Pokémon battles on pikapro: player views, honest action masks, encoders, baseline opponents"
+2026-11-11T07:02:42.963256Z,foundation_cloudflare_load_balancers,0.1.1,0,0,https://github.com/ewe-studios/ewe_platform,Generated Cloudflare API client: load_balancers group
+2026-11-11T07:02:50.265403Z,foundation_cloudflare_logs,0.1.1,0,0,https://github.com/ewe-studios/ewe_platform,Generated Cloudflare API client: logs group
+2026-11-11T07:02:58.283201Z,foundation_cloudflare_magic_wan,0.1.1,0,0,https://github.com/ewe-studios/ewe_platform,Generated Cloudflare API client: magic_wan group
+2026-11-11T07:03:05.602811Z,xdts,0.1.0,0,0,https://github.com/SehataKuro/xdts,"Read and write XDTS and TDTS animation exposure sheets, with no dependencies"
+2026-11-11T07:03:05.62185Z,foundation_cloudflare_media,0.1.1,0,0,https://github.com/ewe-studios/ewe_platform,Generated Cloudflare API client: media group
+2026-11-11T07:03:10.293312Z,hypersig_desktop,0.15.0,0,0,https://github.com/imaimai17468/hypersig,Runs a hypersig application in a desktop window
+2026-11-11T07:03:10.452945Z,foundation_cloudflare_migration,0.1.1,0,0,https://github.com/ewe-studios/ewe_platform,Generated Cloudflare API client: migration group
+2026-11-11T07:03:53.436543Z,wifiler,0.1.0,0,0,https://github.com/akashkumarpr/wifiler,A tiny local Wi-Fi file server. Scan a QR code and send files between your computer and phone.
+2026-11-11T07:04:31.12075Z,ct2rs-sys,0.11.0,0,0,https://github.com/jkawamoto/ctranslate2-rs,Raw Rust bindings for OpenNMT/CTranslate2
+2026-11-11T07:05:19.694599Z,dadl,0.0.2,0,0,https://github.com/usecommon/dadl,"Per-tag processing core for DADL, the Detector-Aware Data Layer for quantum optics experiments"
+2026-11-11T07:05:34.182286Z,asc-cli,0.1.1,0,0,https://github.com/Ylarod/asc-rs,asc-rs command line: getclass / getmanifest / findrefs over an APK without preprocessing.
+2026-11-11T07:08:01.605725Z,burstq-rs,0.1.9,0,0,https://github.com/bobdyt/burstq-rs,A terminal-based concurrent TODO list
+2026-11-11T07:09:48.11272Z,zakura-tor-memquota-cost,0.0.0,0,0,https://github.com/zakura-core/zakura,Reserved
+2026-11-11T07:10:06.910988Z,foundation_cloudflare_network,0.1.1,0,0,https://github.com/ewe-studios/ewe_platform,Generated Cloudflare API client: network group
+2026-11-11T07:11:57.746174Z,oxc_simd_macros,0.158.0,0,0,https://github.com/oxc-project/oxc,A collection of JavaScript tools written in Rust.
+2026-11-11T07:11:58.277109Z,pikapro-cli,0.1.0,0,0,https://github.com/spedr/pikapro-engine,"Command-line tool for pikapro, a Pokémon battle simulator faithful to Pokémon Showdown: play, validate and benchmark battles"
+2026-11-11T07:13:03.104338Z,ruapc-memory,0.2.0-alpha.8,0,0,https://github.com/SF-Zhou/ruapc,"RuaPC logical memory spaces, copy planning and immutable buffer sources"
+2026-11-11T07:13:12.709758Z,aspero-json,0.4.0,0,0,https://github.com/transilluminate/aspero,"aspero's JSON contract: works, lookups, verdicts and claims as agents and apps see them"
+2026-11-11T07:13:25.770532Z,ruapc-schema,0.2.0-alpha.8,0,0,https://github.com/SF-Zhou/ruapc,Service schemas and OpenAPI projection for RuaPC
+2026-11-11T07:13:42.944019Z,ruapc-wire,0.2.0-alpha.8,0,0,https://github.com/SF-Zhou/ruapc,"RuaPC message metadata, codecs and transport framing"
+2026-11-11T07:13:53.827815Z,car-beads,0.61.2,0,0,https://github.com/Parslee-ai/car,Git-backed work beads and rebuildable registry index for CAR
+2026-11-11T07:13:54.126841Z,oxc_simd,0.158.0,0,0,https://github.com/oxc-project/oxc,A collection of JavaScript tools written in Rust.
+2026-11-11T07:14:17.197982Z,oxc_lexer,0.158.0,0,0,https://github.com/oxc-project/oxc,A collection of JavaScript tools written in Rust.
+2026-11-11T07:17:20.865885Z,metafile-emf,1.0.1,0,0,https://github.com/Dantusaikamal/metafile-rs,"EMF parsing, inspection, and renderer-independent playback for metafile-rs"
+2026-11-11T07:18:22.200808Z,pdf-compressor,0.5.0,0,0,https://github.com/janosh/pdf-compressor,CLI for batch compressing PDFs with iLovePDF.com
+2026-11-11T07:19:26.72977Z,metafile,1.0.1,0,0,https://github.com/Dantusaikamal/metafile-rs,"High-level WMF, EMF, and EMF+ parsing and deterministic SVG rendering"
