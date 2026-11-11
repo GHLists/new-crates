@@ -1,0 +1,29 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-11T02:22:24.193746Z,zeebra,0.1.0,0,0,https://github.com/mfaulk/zeebra,"Computational algebra over finite fields for cryptography: fields, polynomials, NTT, linear algebra, Gröbner bases (F4, FGLM) and polynomial system solving"
+2026-11-11T02:22:42.490694Z,zakura-test-temp-dir,0.0.0,0,0,https://github.com/zakura-core/zakura,Reserved
+2026-11-11T02:25:28.374721Z,ferrosys-lzfse,0.8.0,0,0,https://github.com/gregordinary/ferrosys,"LZVN and LZFSE decoders in safe Rust, derived from Apple's lzfse reference decoder, for the APFS reader in ferrosys"
+2026-11-11T02:25:28.867515Z,ferrosys-ucd,0.8.0,0,0,https://github.com/gregordinary/ferrosys,"Unicode Character Database tables ferrosys compares APFS names with: canonical decompositions, combining classes, case foldings and code point ages, from Unicode 17.0.0"
+2026-11-11T02:26:19.196757Z,acativa-sdk,0.1.0,0,0,,Rust host SDK embedding the Acativa WebAssembly decision kernel through wasmi
+2026-11-11T02:29:05.325123Z,Ag-core,0.1.0,0,0,https://github.com/Ag-act/Ag-core,A library to be used to make unified todo managers
+2026-11-11T02:33:44.542836Z,zakura-tor-async-utils,0.0.0,0,0,https://github.com/zakura-core/zakura,Reserved
+2026-11-11T02:37:41.738261Z,onefollowup,0.1.0,0,0,https://github.com/nickderobertis/onefollowup,"The follow-up loop for any orchestrator repository: draft, verify, file one ticket per root cause, and answer comments, over onetaskgraph."
+2026-11-11T02:43:37.211857Z,peabrain-rust,0.2.0,0,0,https://github.com/dbillion/peabrain-rust,"PeaBrain MCP Server in Rust - Persistent memory, vector search, multi-agent sync, plugins"
+2026-11-11T02:44:47.478403Z,zakura-tor-basic-utils,0.0.0,0,0,https://github.com/zakura-core/zakura,Reserved
+2026-11-11T02:48:39.174531Z,cargo-util-config,0.0.0,0,0,https://github.com/rust-lang/cargo,Placeholder for https://github.com/rust-lang/cargo/pull/17705
+2026-11-11T02:48:40.03091Z,zcall,0.1.1,0,0,https://github.com/LIghtJUNction/zcall,"Allocation-free, protocol-independent Sans-I/O AI call kernel"
+2026-11-11T02:49:42.320472Z,cargo-dev-registry,0.0.0,0,0,https://github.com/rust-lang/cargo,Placeholder for https://github.com/rust-lang/cargo/pull/17672
+2026-11-11T02:55:50.135061Z,zakura-tor-bytes,0.0.0,0,0,https://github.com/zakura-core/zakura,Reserved
+2026-11-11T02:55:55.502723Z,tree-sitter-opam,0.1.0,0,0,https://github.com/tmcgilchrist/tree-sitter-opam,Tree-sitter grammar for opam package manager files
+2026-11-11T02:56:37.440482Z,cargo-refine,0.5.0,0,0,https://github.com/riir-ai/riir-refine,Clippy-healing drafter+pruner pipeline: modelless ternary drafter x rust-analyzer validator x additive self-evolution loop (LoRA fallback deferred)
+2026-11-11T02:57:50.871178Z,fairliny-registrar,0.1.0,0,0,https://github.com/Unka-Malloc/Fairliny-Registrar,"Registration-based MCP service dispatcher: hosts declare tool services once, callers reach them over authenticated MCP on stdio and loopback HTTP."
+2026-11-11T02:59:54.721057Z,afaster-derive,0.0.10,0,0,https://github.com/ahriknow/afaster,Procedural derive macro for AFaster ORM admin metadata.
+2026-11-11T03:00:26.186704Z,z64,0.1.2,0,0,https://github.com/LIghtJUNction/z64,"Strict, allocation-free Base64 and Base64URL with zero dependencies"
+2026-11-11T03:01:13.4958Z,jazyk-goose-context-management,0.1.0-alpha.13-jazyk.1,0,0,https://github.com/JazykOrg/Jazyk,Goose conversation compaction with Jazyk WASM portability fixes
+2026-11-11T03:06:52.728389Z,zakura-tor-cell,0.0.0,0,0,https://github.com/zakura-core/zakura,Reserved
+2026-11-11T03:08:12.583075Z,database-graphql-schema,0.2.0,0,0,https://github.com/tinywind/database-graphql-schema,Generate deterministic GraphQL entity SDL from relational database schemas with fail-closed rules
+2026-11-11T03:10:16.42045Z,ms-compat,0.1.0,0,0,https://github.com/knezewski/ms-compat,Parse and format durations with JavaScript ms-compatible behavior
+2026-11-11T03:11:18.527158Z,wild-ingest-contract,0.1.0,0,0,https://github.com/wildstuff/the-wild,"wild — the wire contract of the producer ingest door (ADR-0365): requests, replies, codes, key classes and bounds, with the JSON Schemas derived from them."
+2026-11-11T03:11:29.708486Z,cargo-graphql-schema,0.2.0,0,0,https://github.com/tinywind/database-graphql-schema,Cargo subcommand and CLI for generating GraphQL entity SDL from relational databases
+2026-11-11T03:12:07.045373Z,wild-kit,0.1.0,0,0,https://github.com/wildstuff/the-wild,"wild — the producer half of the kit: a Rust client for Wild's producer ingest door (pairing, pinned TLS, calls, MCP view)."
+2026-11-11T03:12:25.031738Z,heel-shim,0.0.0,0,0,https://github.com/May-Agent/heel,The command shim and IPC client that run inside a heel sandbox
+2026-11-11T03:17:55.330145Z,zakura-tor-cert,0.0.0,0,0,https://github.com/zakura-core/zakura,Reserved
