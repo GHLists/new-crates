@@ -8,97 +8,75 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-11 21:18 UTC
+## Latest list — 2026-11-11 22:20 UTC
 
-New crates published between 2026-11-11 19:21 UTC and 2026-11-11 21:18 UTC.
+New crates published between 2026-11-11 21:18 UTC and 2026-11-11 22:20 UTC.
 
-[Full CSV](data/new-crates-2026-11-11T21-18-55-189846Z.csv)
+[Full CSV](data/new-crates-2026-11-11T22-20-29-103912Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-11 19:27:05 | [dt8852](https://crates.io/crates/dt8852) | 0.9.2 | 0 | A driver and command-line tool for the CEM DT-8852 sound level meter |
-| 2026-11-11 19:28:09 | [qorel-signer](https://crates.io/crates/qorel-signer) | 0.1.0 | 0 | Pluggable transaction co-signers for QORel: adds post-quantum signature extensi… |
-| 2026-11-11 19:28:26 | [mitsukeru](https://crates.io/crates/mitsukeru) | 0.1.0 | 0 | A zero-C-dependency, deterministic, safety-critical constraint optimization eng… |
-| 2026-11-11 19:29:14 | [rtex-core](https://crates.io/crates/rtex-core) | 0.1.0 | 0 | The mouth of a TeX engine: tokenizer, catcodes, macro expansion, conditionals,… |
-| 2026-11-11 19:29:54 | [google-cloud-designcenter-v1](https://crates.io/crates/google-cloud-designcenter-v1) | 1.0.0 | 0 | Google Cloud Client Libraries for Rust - Design Center API |
-| 2026-11-11 19:36:20 | [unum-usage](https://crates.io/crates/unum-usage) | 0.1.0 | 0 | Tiny local-only usage counters (JSONL, no args, no content) for the Unum engines |
-| 2026-11-11 19:36:45 | [mcp-equidia-rs](https://crates.io/crates/mcp-equidia-rs) | 0.1.0 | 0 | Equidia horse racing API CLI and MCP server with stdio and Streamable HTTP |
-| 2026-11-11 19:37:39 | [pdf-textlayer](https://crates.io/crates/pdf-textlayer) | 0.3.0 | 0 | Add an invisible, searchable text layer to a PDF from OCR boxes. |
-| 2026-11-11 19:39:36 | [twkb](https://crates.io/crates/twkb) | 0.1.0 | 0 | Fast reader and writer for Tiny Well-Known Binary (TWKB) geometries, with geo-t… |
-| 2026-11-11 19:39:53 | [agentstats](https://crates.io/crates/agentstats) | 0.1.0 | 0 | AgentStats analytics for Rust MCP servers (rmcp) and CLIs (clap). Never blocks… |
-| 2026-11-11 19:49:08 | [formel](https://crates.io/crates/formel) | 0.1.0 | 0 | Lay out mathematical formulas from MathML with a font's OpenType MATH table |
-| 2026-11-11 19:50:02 | [google-cloud-saasplatform-saasservicemgmt-v1](https://crates.io/crates/google-cloud-saasplatform-saasservicemgmt-v1) | 1.0.0 | 0 | Google Cloud Client Libraries for Rust - App Lifecycle Manager API |
-| 2026-11-11 19:58:46 | [crcbl-x11](https://crates.io/crates/crcbl-x11) | 0.19.1 | 0 | Crucible's libxcb binding: the X11 core protocol and RandR, loaded with dlopen |
-| 2026-11-11 19:59:15 | [wings-abi](https://crates.io/crates/wings-abi) | 0.0.2 | 0 | Scalar AOT prototype ABI for Wings VM |
-| 2026-11-11 19:59:24 | [wings-ir](https://crates.io/crates/wings-ir) | 0.0.2 | 0 | Validated scalar execution IR for Wings VM |
-| 2026-11-11 19:59:32 | [wings-artifact](https://crates.io/crates/wings-artifact) | 0.0.2 | 0 | Bounded scalar AOT artifact metadata for Wings VM |
-| 2026-11-11 19:59:44 | [wings-codegen](https://crates.io/crates/wings-codegen) | 0.0.2 | 0 | Cranelift scalar AOT backend for Wings VM |
-| 2026-11-11 20:00:39 | [wings-vm](https://crates.io/crates/wings-vm) | 0.0.2 | 0 | Trusted scalar AOT execution prototype for Wings VM |
-| 2026-11-11 20:03:49 | [storageprims-local](https://crates.io/crates/storageprims-local) | 0.2.0 | 0 | Rooted local filesystem provider for storageprims |
-| 2026-11-11 20:06:29 | [rune-tdigest](https://crates.io/crates/rune-tdigest) | 0.1.0 | 0 | Streaming quantile/percentile estimator (t-digest-style) for large or unbounded… |
-| 2026-11-11 20:06:38 | [rune-season-decomp](https://crates.io/crates/rune-season-decomp) | 0.1.0 | 0 | Simple additive/multiplicative seasonal decomposition |
-| 2026-11-11 20:06:49 | [rune-lowpass](https://crates.io/crates/rune-lowpass) | 0.1.0 | 0 | Low-pass/high-pass digital filter for noisy scalar signals |
-| 2026-11-11 20:07:00 | [rune-kalman-1d](https://crates.io/crates/rune-kalman-1d) | 0.1.0 | 0 | 1D Kalman filter for smoothing a single noisy scalar signal |
-| 2026-11-11 20:09:09 | [infercraft](https://crates.io/crates/infercraft) | 0.1.0 | 0 | High-performance local LLM inference engine with zero-copy mmap, layer-by-layer… |
-| 2026-11-11 20:12:48 | [overpunch-rx](https://crates.io/crates/overpunch-rx) | 0.1.0 | 0 | Allocation-free signed overpunch and zoned decimal codecs: ASCII/EBCDIC, exact… |
-| 2026-11-11 20:14:44 | [cpo3](https://crates.io/crates/cpo3) | 0.0.1 | 0 | An interior-point solver for convex quadratic and linear programs, implemented… |
-| 2026-11-11 20:15:27 | [quran-detect](https://crates.io/crates/quran-detect) | 0.1.0 | 0 | Detect Quran quotations in Arabic text and restore their canonical Tanzil wordi… |
-| 2026-11-11 20:15:42 | [quran-detect-cli](https://crates.io/crates/quran-detect-cli) | 0.1.0 | 0 | Command-line detection and canonical restoration of Quran quotations in Arabic… |
-| 2026-11-11 20:17:45 | [reallyme-wallet-proto](https://crates.io/crates/reallyme-wallet-proto) | 0.1.0 | 0 | Generated message-only protobuf contract for ReallyMe Wallet. |
-| 2026-11-11 20:17:47 | [reallyme-wallet-types](https://crates.io/crates/reallyme-wallet-types) | 0.1.0 | 0 | Validated EUDI wallet core domain types. |
-| 2026-11-11 20:17:49 | [reallyme-wallet-lifecycle](https://crates.io/crates/reallyme-wallet-lifecycle) | 0.1.0 | 0 | Wallet Unit lifecycle state machine for ReallyMe EUDI wallet core. |
-| 2026-11-11 20:17:51 | [ledkit-color](https://crates.io/crates/ledkit-color) | 0.1.0 | 0 | Colors for addressable LEDs: RGB/RGBW, hue, gamma, color temperature, gradients… |
-| 2026-11-11 20:17:51 | [reallyme-wallet-render](https://crates.io/crates/reallyme-wallet-render) | 0.1.0 | 0 | Feature-gated wallet distribution render boundary. |
-| 2026-11-11 20:17:53 | [ledkit-core](https://crates.io/crates/ledkit-core) | 0.1.0 | 0 | Core of ledkit: LED chip catalogue, signal encoders and the Strip pixel buffer.… |
-| 2026-11-11 20:17:54 | [reallyme-wallet-zk](https://crates.io/crates/reallyme-wallet-zk) | 0.1.0 | 0 | Optional ReallyMe Wallet integration for injected zero-knowledge proving. |
-| 2026-11-11 20:17:54 | [ledkit-layout](https://crates.io/crates/ledkit-layout) | 0.1.0 | 0 | ledkit layouts: map (x, y) positions on LED matrices onto strip positions. no_s… |
-| 2026-11-11 20:17:55 | [ledkit-spi](https://crates.io/crates/ledkit-spi) | 0.1.0 | 0 | ledkit backend that drives NeoPixels and DotStars over any embedded-hal 1.0 SPI… |
-| 2026-11-11 20:18:00 | [ledkit-uart](https://crates.io/crates/ledkit-uart) | 0.1.0 | 0 | ledkit backend that drives NeoPixels from any embedded-io serial port (UART) wi… |
-| 2026-11-11 20:20:15 | [kitchen-ui](https://crates.io/crates/kitchen-ui) | 0.0.1 | 0 | Shared UI for GPUI apps (gpui-kit): design tokens, light and dark themes with a… |
-| 2026-11-11 20:22:05 | [liquid-ast](https://crates.io/crates/liquid-ast) | 0.1.0 | 0 | The syntax tree of Liquid HTML templates, as @shopify/liquid-html-parser builds… |
-| 2026-11-11 20:22:07 | [liquid-parser](https://crates.io/crates/liquid-parser) | 0.1.0 | 0 | A parser for Liquid HTML templates, ported from @shopify/liquid-html-parser |
-| 2026-11-11 20:22:08 | [theme-check](https://crates.io/crates/theme-check) | 0.1.0 | 0 | The linter for Shopify themes, ported from @shopify/theme-check-node |
-| 2026-11-11 20:22:29 | [mlmf-hf-config](https://crates.io/crates/mlmf-hf-config) | 0.11.29 | 0 | config.json defaults that are always correct, filled per declared model_type an… |
-| 2026-11-11 20:22:49 | [reallyme-wallet-keystore](https://crates.io/crates/reallyme-wallet-keystore) | 0.1.0 | 0 | WSCD/WSCA key-handle boundary for ReallyMe wallet core. |
-| 2026-11-11 20:22:52 | [mlmf-mlx](https://crates.io/crates/mlmf-mlx) | 0.11.29 | 0 | MLX quantization geometry: locate packed linear layers in a safetensors contain… |
-| 2026-11-11 20:24:11 | [mlmf-oracle](https://crates.io/crates/mlmf-oracle) | 0.11.29 | 0 | Offline mapping-file emitter for tensor names: the mapping-file format with evi… |
-| 2026-11-11 20:25:16 | [strata-palette](https://crates.io/crates/strata-palette) | 0.33.0 | 0 | Record, compare, and check Spectro Cloud Palette profile versions, the clusters… |
-| 2026-11-11 20:31:53 | [crush-lz](https://crates.io/crates/crush-lz) | 0.0.0 | 0 | Placeholder reserved for the crush-lz project. Its codecs are published as crus… |
-| 2026-11-11 20:31:55 | [crushlzvn](https://crates.io/crates/crushlzvn) | 0.0.0 | 0 | Placeholder reserved for the crush-lz project. Its codecs are published as crus… |
-| 2026-11-11 20:31:57 | [crush-lzfse](https://crates.io/crates/crush-lzfse) | 0.0.0 | 0 | Placeholder reserved for the crush-lz project. Its codecs are published as crus… |
-| 2026-11-11 20:32:00 | [crush-lz4](https://crates.io/crates/crush-lz4) | 0.0.0 | 0 | Placeholder reserved for the crush-lz project. Its codecs are published as crus… |
-| 2026-11-11 20:32:01 | [crush-lzbitmap](https://crates.io/crates/crush-lzbitmap) | 0.0.0 | 0 | Placeholder reserved for the crush-lz project. Its codecs are published as crus… |
-| 2026-11-11 20:32:23 | [pharos-corefile](https://crates.io/crates/pharos-corefile) | 0.1.0 | 0 | Corefile lexer and parser for Pharos |
-| 2026-11-11 20:32:24 | [pharos-proto](https://crates.io/crates/pharos-proto) | 0.1.0 | 0 | DNS wire format, names, records, zone files, TSIG and EDNS for Pharos |
-| 2026-11-11 20:32:27 | [pharos-dnssec](https://crates.io/crates/pharos-dnssec) | 0.1.0 | 0 | DNSSEC signing for the Pharos DNS server |
-| 2026-11-11 20:32:28 | [pharos-server](https://crates.io/crates/pharos-server) | 0.1.0 | 0 | Listeners, Plugin Chain contract and metrics for the Pharos DNS server |
-| 2026-11-11 20:32:30 | [pharos-kubernetes](https://crates.io/crates/pharos-kubernetes) | 0.1.0 | 0 | Kubernetes API client used by the Pharos kubernetes Plugin |
-| 2026-11-11 20:32:49 | [reallyme-wallet-attestation](https://crates.io/crates/reallyme-wallet-attestation) | 0.1.0 | 0 | Wallet unit attestation lifecycle for ReallyMe wallet core. |
-| 2026-11-11 20:33:15 | [crush-lzmesh](https://crates.io/crates/crush-lzmesh) | 0.0.0 | 0 | Placeholder reserved for the crush-lz project. Its codecs are published as crus… |
-| 2026-11-11 20:35:03 | [cipherfs](https://crates.io/crates/cipherfs) | 0.0.0 | 0 | Name reserved for CipherFS, an encrypted vault with synchronization and filesys… |
-| 2026-11-11 20:36:12 | [singalo](https://crates.io/crates/singalo) | 0.1.0 | 0 | A crate providing a singleton Allocator impl |
-| 2026-11-11 20:36:14 | [tree-sitter-bash-orchard](https://crates.io/crates/tree-sitter-bash-orchard) | 0.1.0 | 0 | Parser for Bash files |
-| 2026-11-11 20:38:15 | [rune-correlate](https://crates.io/crates/rune-correlate) | 0.1.0 | 0 | Cross-correlation and lag detection between two numeric series |
-| 2026-11-11 20:38:24 | [rune-derivative](https://crates.io/crates/rune-derivative) | 0.1.0 | 0 | Rate-of-change (derivative) and cumulative (integral) calculation over a series |
-| 2026-11-11 20:41:22 | [rustgram-api](https://crates.io/crates/rustgram-api) | 0.1.0 | 0 | Ergonomic async Telegram Bot API 10.4 library for Rust featuring HTML Widgets,… |
-| 2026-11-11 20:42:35 | [dexpi](https://crates.io/crates/dexpi) | 0.1.1 | 0 | Byte-faithful reader and writer for DEXPI 2.0 XML, with model loading and valid… |
-| 2026-11-11 20:42:50 | [reallyme-wallet-proto-codec](https://crates.io/crates/reallyme-wallet-proto-codec) | 0.1.0 | 0 | Bounded protobuf codecs and typed domain conversions for ReallyMe Wallet. |
-| 2026-11-11 20:42:52 | [pharos-plugins](https://crates.io/crates/pharos-plugins) | 0.1.0 | 0 | CoreDNS-compatible Plugins for the Pharos DNS server |
-| 2026-11-11 20:43:22 | [apfs-compress](https://crates.io/crates/apfs-compress) | 0.0.0 | 0 | Placeholder reserved for the apfscompress project. Install it with: cargo insta… |
-| 2026-11-11 20:44:04 | [cartan-complex](https://crates.io/crates/cartan-complex) | 0.10.0 | 0 | Abstract simplicial complexes with incidence operators and the Hodge decomposit… |
-| 2026-11-11 20:51:16 | [waterui-git-head](https://crates.io/crates/waterui-git-head) | 0.0.0 | 0 | Build-script helper that embeds the checked-out Git commit and reruns only when… |
-| 2026-11-11 20:52:50 | [reallyme-wallet-storage](https://crates.io/crates/reallyme-wallet-storage) | 0.1.0 | 0 | Storage traits and encrypted record boundaries for ReallyMe wallet core. |
-| 2026-11-11 20:53:28 | [pharos-dns](https://crates.io/crates/pharos-dns) | 0.1.0 | 0 | Pharos: a performance-first DNS server compatible with CoreDNS Corefiles |
-| 2026-11-11 20:53:34 | [seid](https://crates.io/crates/seid) | 0.1.1 | 0 | A SEgmented ID system |
-| 2026-11-11 21:02:50 | [reallyme-wallet-inventory](https://crates.io/crates/reallyme-wallet-inventory) | 0.1.0 | 0 | Credential lifecycle and unlinkable batch-pool inventory for ReallyMe wallet co… |
-| 2026-11-11 21:09:10 | [laminardb-iceberg](https://crates.io/crates/laminardb-iceberg) | 0.40.2 | 0 | LaminarDB-maintained Apache Iceberg core: 0.11.0 on Arrow 59 |
-| 2026-11-11 21:09:13 | [laminardb-iceberg-catalog-rest](https://crates.io/crates/laminardb-iceberg-catalog-rest) | 0.40.2 | 0 | LaminarDB-maintained Apache Iceberg REST catalog: 0.11.0 on Arrow 59 |
-| 2026-11-11 21:09:16 | [laminardb-iceberg-storage-opendal](https://crates.io/crates/laminardb-iceberg-storage-opendal) | 0.40.2 | 0 | LaminarDB-maintained Apache Iceberg OpenDAL storage: 0.11.0 on Arrow 59 |
-| 2026-11-11 21:10:56 | [prose-tools](https://crates.io/crates/prose-tools) | 0.1.0 | 0 | Fast prose formatter and document tooling powered by Candle and Tree-sitter |
-| 2026-11-11 21:12:49 | [reallyme-wallet-log](https://crates.io/crates/reallyme-wallet-log) | 0.1.0 | 0 | User-visible transaction and QTSP decision log for ReallyMe wallet core. |
-| 2026-11-11 21:13:06 | [origincloud-sts](https://crates.io/crates/origincloud-sts) | 0.24.0 | 0 | The Origin Cloud STS API: the security token service: it turns a token from an… |
-| 2026-11-11 21:14:32 | [unumsearch](https://crates.io/crates/unumsearch) | 0.1.10 | 0 | Always-fresh local file and code search: trigram index, ripgrep-compatible corp… |
-| 2026-11-11 21:15:36 | [connector-for-ai-agents](https://crates.io/crates/connector-for-ai-agents) | 0.3.0 | 0 | 2,000+ API connectors for Rust and AI agents: catalogue, auth field schemas, co… |
+| 2026-11-11 21:19:18 | [ztd](https://crates.io/crates/ztd) | 0.0.5 | 0 | The FortunatoZukunftdeuter's Standard Library |
+| 2026-11-11 21:20:22 | [atroot](https://crates.io/crates/atroot) | 0.1.0 | 0 | Invoke Commands at the root project |
+| 2026-11-11 21:22:27 | [tree-sitter-c-orchard](https://crates.io/crates/tree-sitter-c-orchard) | 0.1.0 | 0 | C grammar for tree-sitter |
+| 2026-11-11 21:22:44 | [gaiadesk-embed-fetch](https://crates.io/crates/gaiadesk-embed-fetch) | 0.2.0 | 0 | Build-time helper for tauri-plugin-gaiadesk-support: downloads the prebuilt lib… |
+| 2026-11-11 21:22:50 | [reallyme-wallet-consent](https://crates.io/crates/reallyme-wallet-consent) | 0.1.0 | 0 | Relying-party entitlement and consent policy boundary for ReallyMe wallet core. |
+| 2026-11-11 21:23:26 | [tauri-plugin-gaiadesk-support](https://crates.io/crates/tauri-plugin-gaiadesk-support) | 0.2.0 | 0 | In-app remote support for Tauri apps: a "Get help" button that shares your app'… |
+| 2026-11-11 21:24:52 | [presk-manual](https://crates.io/crates/presk-manual) | 0.17.1 | 0 | User manual of the Presk compiler, rendered by rustdoc (cargo doc -p presk-manu… |
+| 2026-11-11 21:24:53 | [presk-provenance](https://crates.io/crates/presk-provenance) | 0.17.1 | 0 | The provenance table: every element of every stage of one compilation, and what… |
+| 2026-11-11 21:24:54 | [presk-syntax](https://crates.io/crates/presk-syntax) | 0.17.1 | 0 | Presk source map, diagnostics, lexer, AST and parser |
+| 2026-11-11 21:24:56 | [presk-data](https://crates.io/crates/presk-data) | 0.17.1 | 0 | The .psk.d data container: samples of one Presk type, and the training data pip… |
+| 2026-11-11 21:24:59 | [presk-types](https://crates.io/crates/presk-types) | 0.17.1 | 0 | Presk dimensions, Presburger fragment, elaboration and shape typing |
+| 2026-11-11 21:25:17 | [drasi-salesforce-common](https://crates.io/crates/drasi-salesforce-common) | 0.1.0 | 0 | Shared Salesforce mapping/auth/protocol primitives for Drasi source plugins |
+| 2026-11-11 21:27:19 | [phasesmith](https://crates.io/crates/phasesmith) | 0.8.1 | 0 | Powder and single-crystal diffraction analysis in Rust and Python |
+| 2026-11-11 21:28:25 | [ledkit-anim](https://crates.io/crates/ledkit-anim) | 0.1.0 | 0 | ledkit animations: effects for LED strips and matrices (rainbow, comet, flames,… |
+| 2026-11-11 21:29:54 | [svgdog](https://crates.io/crates/svgdog) | 1.0.4 | 0 | Compile declarative diagram descriptions to SVG and check any SVG for correctne… |
+| 2026-11-11 21:32:51 | [reallyme-wallet-flows](https://crates.io/crates/reallyme-wallet-flows) | 0.1.0 | 0 | Headless issuance and presentation state machines for ReallyMe wallet core. |
+| 2026-11-11 21:37:55 | [drasi-source-salesforce](https://crates.io/crates/drasi-source-salesforce) | 0.1.0 | 0 | Durable-first Salesforce source plugin for Drasi |
+| 2026-11-11 21:38:53 | [drasi-reaction-a2a](https://crates.io/crates/drasi-reaction-a2a) | 0.1.1 | 0 | A2A JSON-RPC reaction plugin for Drasi |
+| 2026-11-11 21:38:58 | [drasi-reaction-temporal](https://crates.io/crates/drasi-reaction-temporal) | 0.1.0 | 0 | Configurable Temporal workflow actions for Drasi query diffs |
+| 2026-11-11 21:41:04 | [tree-sitter-dockerfile-orchard](https://crates.io/crates/tree-sitter-dockerfile-orchard) | 0.1.0 | 0 | A tree-sitter module for the Dockerfile grammar |
+| 2026-11-11 21:41:06 | [presk-core](https://crates.io/crates/presk-core) | 0.17.1 | 0 | PSK-Core ANF IR, lowering, regularity and effect analyses, automatic differenti… |
+| 2026-11-11 21:42:50 | [reallyme-wallet-runtime](https://crates.io/crates/reallyme-wallet-runtime) | 0.1.0 | 0 | Canonical protobuf operation runtime for ReallyMe wallet-core. |
+| 2026-11-11 21:44:28 | [multishoot](https://crates.io/crates/multishoot) | 1.0.0 | 0 | Multiple-shooting boundary-value solver in double-, quad- and octo-double preci… |
+| 2026-11-11 21:46:12 | [presk-export-pytorch](https://crates.io/crates/presk-export-pytorch) | 0.17.1 | 0 | Readable PyTorch export of Presk programs |
+| 2026-11-11 21:47:28 | [ccam](https://crates.io/crates/ccam) | 0.4.1 | 0 | Switch between multiple Claude Code accounts on one machine: per terminal, per… |
+| 2026-11-11 21:51:53 | [ledkit-text](https://crates.io/crates/ledkit-text) | 0.1.0 | 0 | ledkit text: scrolling and still text on LED matrices, with bitmap and segment… |
+| 2026-11-11 21:52:18 | [ledkit-esp](https://crates.io/crates/ledkit-esp) | 0.1.0 | 0 | ledkit backend that drives NeoPixels with the ESP32 RMT peripheral through esp-… |
+| 2026-11-11 21:52:45 | [ledkit-nrf](https://crates.io/crates/ledkit-nrf) | 0.1.0 | 0 | ledkit backend that drives NeoPixels with the nRF52840's PWM sequencer and Easy… |
+| 2026-11-11 21:52:50 | [reallyme-wallet-http](https://crates.io/crates/reallyme-wallet-http) | 0.1.0 | 0 | Native HTTP adapters for the ReallyMe Wallet protobuf runtime. |
+| 2026-11-11 21:53:35 | [drasi-reaction-durable-task](https://crates.io/crates/drasi-reaction-durable-task) | 0.1.0 | 0 | Configurable Durable Task Scheduler reaction for Drasi |
+| 2026-11-11 21:53:40 | [compeller-react](https://crates.io/crates/compeller-react) | 1.0.0 | 0 | REACT by Compeller.ai: native macOS app for real-time audio-reactive visuals, D… |
+| 2026-11-11 21:53:42 | [ledkit-rp](https://crates.io/crates/ledkit-rp) | 0.1.0 | 0 | ledkit backend that drives NeoPixels with the RP2040 / RP2350 PIO, fed by the p… |
+| 2026-11-11 21:53:59 | [ledkit-esp-idf](https://crates.io/crates/ledkit-esp-idf) | 0.1.0 | 0 | ledkit backend that drives NeoPixels with the ESP32 RMT peripheral through esp-… |
+| 2026-11-11 21:56:24 | [presk-interp](https://crates.io/crates/presk-interp) | 0.17.1 | 0 | Presk arbitrary-precision reference interpreter over PSK-Core |
+| 2026-11-11 21:56:45 | [shifty-vio](https://crates.io/crates/shifty-vio) | 0.6.0 | 0 | Experimental, may change in any release (use shifty-experimental): SHACL violat… |
+| 2026-11-11 21:56:50 | [shapeshift-macro](https://crates.io/crates/shapeshift-macro) | 0.6.0 | 0 | Experimental, may change in any release (use shifty-experimental): Shapeshift k… |
+| 2026-11-11 21:57:03 | [bluenrg2](https://crates.io/crates/bluenrg2) | 0.1.0 | 0 | ST's BlueNRG-2 Bluetooth network coprocessor: HCI and ACI command packets, even… |
+| 2026-11-11 21:57:24 | [shapeshift-parse](https://crates.io/crates/shapeshift-parse) | 0.6.0 | 0 | Experimental, may change in any release (use shifty-experimental): Shapeshift t… |
+| 2026-11-11 21:58:07 | [shapeshift-import](https://crates.io/crates/shapeshift-import) | 0.6.0 | 0 | Experimental, may change in any release (use shifty-experimental): Shapeshift i… |
+| 2026-11-11 21:58:10 | [tree-sitter-shapeshift](https://crates.io/crates/tree-sitter-shapeshift) | 0.6.0 | 0 | Experimental, may change in any release: Shapeshift grammar for tree-sitter: hi… |
+| 2026-11-11 21:59:26 | [asur](https://crates.io/crates/asur) | 1.0.3 | 0 | One CLI for everyday local dev: containers, ports, .env files and leaked secret… |
+| 2026-11-11 22:02:51 | [reallyme-wallet-provider](https://crates.io/crates/reallyme-wallet-provider) | 0.1.0 | 0 | Versioned provider policy and correlation validation for ReallyMe Wallet adapte… |
+| 2026-11-11 22:03:47 | [isitai](https://crates.io/crates/isitai) | 0.0.1 | 0 | Local, offline check for proof or signals that a text, image, audio, video or P… |
+| 2026-11-11 22:04:28 | [access-gate](https://crates.io/crates/access-gate) | 0.4.0 | 0 | Authorization for Rust services: roles compiled to permission bit sets at boot,… |
+| 2026-11-11 22:05:07 | [tauri-plugin-pylair](https://crates.io/crates/tauri-plugin-pylair) | 0.1.0-rc.1 | 0 | Tauri plugin: Python runtime supervisor, IPC bridge, and permissions for Pylair… |
+| 2026-11-11 22:06:20 | [ledkit](https://crates.io/crates/ledkit) | 0.1.0 | 0 | Addressable LEDs (NeoPixels, DotStars, strips, rings and matrices) that just wo… |
+| 2026-11-11 22:06:32 | [presk-realize](https://crates.io/crates/presk-realize) | 0.17.1 | 0 | PSK-Sched v0: fusion groups over PSK-Core bodies |
+| 2026-11-11 22:08:15 | [auth-gate](https://crates.io/crates/auth-gate) | 0.4.0 | 0 | Authentication for Rust services: signed opaque session tokens, Argon2id passwo… |
+| 2026-11-11 22:10:33 | [lean-ctx-activity](https://crates.io/crates/lean-ctx-activity) | 0.1.0 | 0 | The host-neutral activity stream of LeanCTX \| OSS: one bounded, redacted event… |
+| 2026-11-11 22:11:23 | [lean-ctx-tasks](https://crates.io/crates/lean-ctx-tasks) | 0.1.0 | 0 | Local project tasks of LeanCTX \| OSS: the Hive task model and state machine, ke… |
+| 2026-11-11 22:12:06 | [irys-tags](https://crates.io/crates/irys-tags) | 0.1.1 | 0 | tag36h11 AprilTag detection in pure Rust: both polarities, every decimation, sm… |
+| 2026-11-11 22:12:44 | [irys-diff](https://crates.io/crates/irys-diff) | 0.1.1 | 0 | irys: differentiable spectral path tracing — BSDFs as tang IR graphs, bit-exact… |
+| 2026-11-11 22:12:46 | [irys-recon](https://crates.io/crates/irys-recon) | 0.1.1 | 0 | irys: image to CAD — recover an editable vcad program and its dimensions from p… |
+| 2026-11-11 22:12:47 | [irys-splat](https://crates.io/crates/irys-splat) | 0.1.1 | 0 | irys: a 3DGS trainer on irys's own GPU tier — tile rasteriser forward and adjoi… |
+| 2026-11-11 22:12:53 | [reallyme-wallet](https://crates.io/crates/reallyme-wallet) | 0.1.0 | 0 | ReallyMe EUDI wallet core facade. |
+| 2026-11-11 22:15:08 | [shapeshift-raise](https://crates.io/crates/shapeshift-raise) | 0.6.0 | 0 | Experimental, may change in any release (use shifty-experimental): Raise a buil… |
+| 2026-11-11 22:16:04 | [corten-run](https://crates.io/crates/corten-run) | 0.2.0 | 0 | A full-stack Rust web framework: pages in html!, fragment patches, typed handle… |
+| 2026-11-11 22:16:09 | [shifty-shapeshift](https://crates.io/crates/shifty-shapeshift) | 0.6.0 | 0 | Experimental, may change in any release (use shifty-experimental): Shapeshift,… |
+| 2026-11-11 22:16:14 | [corten-cluster](https://crates.io/crates/corten-cluster) | 0.2.0 | 0 | One Corten feed served by many instances: Postgres outbox, a leased relay to NA… |
+| 2026-11-11 22:16:15 | [corten-ui](https://crates.io/crates/corten-ui) | 0.2.0 | 0 | Headless Corten components for the widgets the browser has no element for: numb… |
+| 2026-11-11 22:16:45 | [presk-rt](https://crates.io/crates/presk-rt) | 0.17.1 | 0 | The runtime seam: values, the Backend trait, the interpreter behind it |
 
 ## Data source
 

@@ -1,0 +1,62 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-11T21:19:18.231343Z,ztd,0.0.5,0,0,https://github.com/FortunatoZukunftdeuter/ZtdRust,The FortunatoZukunftdeuter's Standard Library
+2026-11-11T21:20:22.69878Z,atroot,0.1.0,0,0,https://github.com/FortunatoZukunftdeuter/AtRoot,Invoke Commands at the root project
+2026-11-11T21:22:27.449063Z,tree-sitter-c-orchard,0.1.0,0,0,https://codeberg.org/grammar-orchard/tree-sitter-c-orchard,C grammar for tree-sitter
+2026-11-11T21:22:44.063715Z,gaiadesk-embed-fetch,0.2.0,0,0,https://github.com/Gaia-Desk/gaiadesk-embed-tauri,"Build-time helper for tauri-plugin-gaiadesk-support: downloads the prebuilt libgaiadesk_embed for the target, checks it against pinned SHA-256s and puts it where Tauri bundles it."
+2026-11-11T21:22:50.860273Z,reallyme-wallet-consent,0.1.0,0,0,https://github.com/reallyme/wallet,Relying-party entitlement and consent policy boundary for ReallyMe wallet core.
+2026-11-11T21:23:26.103737Z,tauri-plugin-gaiadesk-support,0.2.0,0,0,https://github.com/Gaia-Desk/gaiadesk-embed-tauri,"In-app remote support for Tauri apps: a ""Get help"" button that shares your app's window with your support team in the GaiaDesk console, with consent, an indicator, masks and optional guided control."
+2026-11-11T21:24:52.519959Z,presk-manual,0.17.1,0,0,https://github.com/presk-lang/presk,"User manual of the Presk compiler, rendered by rustdoc (cargo doc -p presk-manual --open)"
+2026-11-11T21:24:53.665378Z,presk-provenance,0.17.1,0,0,https://github.com/presk-lang/presk,"The provenance table: every element of every stage of one compilation, and what it was made from"
+2026-11-11T21:24:54.328059Z,presk-syntax,0.17.1,0,0,https://github.com/presk-lang/presk,"Presk source map, diagnostics, lexer, AST and parser"
+2026-11-11T21:24:56.936476Z,presk-data,0.17.1,0,0,https://github.com/presk-lang/presk,"The .psk.d data container: samples of one Presk type, and the training data pipeline"
+2026-11-11T21:24:59.366302Z,presk-types,0.17.1,0,0,https://github.com/presk-lang/presk,"Presk dimensions, Presburger fragment, elaboration and shape typing"
+2026-11-11T21:25:17.731851Z,drasi-salesforce-common,0.1.0,0,0,https://github.com/drasi-project/drasi-core,Shared Salesforce mapping/auth/protocol primitives for Drasi source plugins
+2026-11-11T21:27:19.510532Z,phasesmith,0.8.1,0,0,https://github.com/CPrescher/PhaseSmith,Powder and single-crystal diffraction analysis in Rust and Python
+2026-11-11T21:28:25.209522Z,ledkit-anim,0.1.0,0,0,https://github.com/jrowe88/ledkit,"ledkit animations: effects for LED strips and matrices (rainbow, comet, flames, swirl ...) and ways to combine them. no_std, no heap."
+2026-11-11T21:29:54.414533Z,svgdog,1.0.4,0,0,https://github.com/kKEo/svgdog,"Compile declarative diagram descriptions to SVG and check any SVG for correctness, legibility and portability"
+2026-11-11T21:32:51.069321Z,reallyme-wallet-flows,0.1.0,0,0,https://github.com/reallyme/wallet,Headless issuance and presentation state machines for ReallyMe wallet core.
+2026-11-11T21:37:55.311197Z,drasi-source-salesforce,0.1.0,0,0,https://github.com/drasi-project/drasi-core,Durable-first Salesforce source plugin for Drasi
+2026-11-11T21:38:53.51813Z,drasi-reaction-a2a,0.1.1,0,0,https://github.com/drasi-project/drasi-core,A2A JSON-RPC reaction plugin for Drasi
+2026-11-11T21:38:58.585372Z,drasi-reaction-temporal,0.1.0,0,0,https://github.com/drasi-project/drasi-core,Configurable Temporal workflow actions for Drasi query diffs
+2026-11-11T21:41:04.330308Z,tree-sitter-dockerfile-orchard,0.1.0,0,0,https://codeberg.org/grammar-orchard/tree-sitter-dockerfile-orchard,A tree-sitter module for the Dockerfile grammar
+2026-11-11T21:41:06.855978Z,presk-core,0.17.1,0,0,https://github.com/presk-lang/presk,"PSK-Core ANF IR, lowering, regularity and effect analyses, automatic differentiation"
+2026-11-11T21:42:50.967034Z,reallyme-wallet-runtime,0.1.0,0,0,https://github.com/reallyme/wallet,Canonical protobuf operation runtime for ReallyMe wallet-core.
+2026-11-11T21:44:28.399199Z,multishoot,1.0.0,0,0,https://github.com/nmoinvaz/multishoot,"Multiple-shooting boundary-value solver in double-, quad- and octo-double precision: Taylor-jet stepping between nodes, exact Jacobians by forward-mode duals, Newton over multidouble's Precision trait"
+2026-11-11T21:46:12.029658Z,presk-export-pytorch,0.17.1,0,0,https://github.com/presk-lang/presk,Readable PyTorch export of Presk programs
+2026-11-11T21:47:28.501442Z,ccam,0.4.1,0,0,https://github.com/jatinkrmalik/ccam,"Switch between multiple Claude Code accounts on one machine: per terminal, per project or global"
+2026-11-11T21:51:53.204697Z,ledkit-text,0.1.0,0,0,https://github.com/jrowe88/ledkit,"ledkit text: scrolling and still text on LED matrices, with bitmap and segment fonts. no_std, no heap."
+2026-11-11T21:52:18.429383Z,ledkit-esp,0.1.0,0,0,https://github.com/jrowe88/ledkit,"ledkit backend that drives NeoPixels with the ESP32 RMT peripheral through esp-hal (no_std, blocking and async)."
+2026-11-11T21:52:45.970713Z,ledkit-nrf,0.1.0,0,0,https://github.com/jrowe88/ledkit,"ledkit backend that drives NeoPixels with the nRF52840's PWM sequencer and EasyDMA, through embassy-nrf (no_std, blocking and async)."
+2026-11-11T21:52:50.598618Z,reallyme-wallet-http,0.1.0,0,0,https://github.com/reallyme/wallet,Native HTTP adapters for the ReallyMe Wallet protobuf runtime.
+2026-11-11T21:53:35.260395Z,drasi-reaction-durable-task,0.1.0,0,0,https://github.com/drasi-project/drasi-core,Configurable Durable Task Scheduler reaction for Drasi
+2026-11-11T21:53:40.507836Z,compeller-react,1.0.0,0,0,https://github.com/Compellerai/react,"REACT by Compeller.ai: native macOS app for real-time audio-reactive visuals, DMX/Hue/WLED lighting, NDI output and live streaming"
+2026-11-11T21:53:42.517783Z,ledkit-rp,0.1.0,0,0,https://github.com/jrowe88/ledkit,"ledkit backend that drives NeoPixels with the RP2040 / RP2350 PIO, fed by the processor or by DMA (no_std, blocking and async)."
+2026-11-11T21:53:59.359984Z,ledkit-esp-idf,0.1.0,0,0,https://github.com/jrowe88/ledkit,ledkit backend that drives NeoPixels with the ESP32 RMT peripheral through esp-idf-hal (std).
+2026-11-11T21:56:24.708432Z,presk-interp,0.17.1,0,0,https://github.com/presk-lang/presk,Presk arbitrary-precision reference interpreter over PSK-Core
+2026-11-11T21:56:45.363312Z,shifty-vio,0.6.0,0,0,https://github.com/gtfierro/shifty,"Experimental, may change in any release (use shifty-experimental): SHACL violation generation with ground-truth repairs, for knowledge-graph repair benchmarks"
+2026-11-11T21:56:50.284175Z,shapeshift-macro,0.6.0,0,0,https://github.com/gtfierro/shifty,"Experimental, may change in any release (use shifty-experimental): Shapeshift kernel builder: AST, template expansion, provenance, and build-time admission over the shifty shape algebra"
+2026-11-11T21:57:03.383102Z,bluenrg2,0.1.0,0,0,https://github.com/tobymurray/wrist-rs,"ST's BlueNRG-2 Bluetooth network coprocessor: HCI and ACI command packets, event decoding, and the SPI header's fields; bring your own SPI driver. no_std, no allocation"
+2026-11-11T21:57:24.255384Z,shapeshift-parse,0.6.0,0,0,https://github.com/gtfierro/shifty,"Experimental, may change in any release (use shifty-experimental): Shapeshift text front end: lexer, parser, and formatter"
+2026-11-11T21:58:07.802425Z,shapeshift-import,0.6.0,0,0,https://github.com/gtfierro/shifty,"Experimental, may change in any release (use shifty-experimental): Shapeshift import resolution: .shm modules, SHACL shapes graphs, and ontologies"
+2026-11-11T21:58:10.521978Z,tree-sitter-shapeshift,0.6.0,0,0,https://github.com/gtfierro/shifty,"Experimental, may change in any release: Shapeshift grammar for tree-sitter: highlighting and as-you-type feedback for editors and the REPL"
+2026-11-11T21:59:26.74042Z,asur,1.0.3,0,0,https://github.com/Asura0666/Asur,"One CLI for everyday local dev: containers, ports, .env files and leaked secrets."
+2026-11-11T22:02:51.326079Z,reallyme-wallet-provider,0.1.0,0,0,https://github.com/reallyme/wallet,Versioned provider policy and correlation validation for ReallyMe Wallet adapters.
+2026-11-11T22:03:47.965233Z,isitai,0.0.1,0,0,,"Local, offline check for proof or signals that a text, image, audio, video or PDF was made by AI (C2PA, IPTC, generator metadata). Work in progress."
+2026-11-11T22:04:28.482756Z,access-gate,0.4.0,0,0,https://github.com/jamesgober/access-gate,"Authorization for Rust services: roles compiled to permission bit sets at boot, rules with ownership, tenancy, attribute and step-up conditions, deny by default. Storage-free, no dependencies, no_std."
+2026-11-11T22:05:07.665053Z,tauri-plugin-pylair,0.1.0-rc.1,0,0,https://github.com/PylairHQ/Pylair,"Tauri plugin: Python runtime supervisor, IPC bridge, and permissions for Pylair apps"
+2026-11-11T22:06:20.199811Z,ledkit,0.1.0,0,0,https://github.com/jrowe88/ledkit,"Addressable LEDs (NeoPixels, DotStars, strips, rings and matrices) that just work: one crate with chips, colors, effects, text and board helpers. no_std."
+2026-11-11T22:06:32.634976Z,presk-realize,0.17.1,0,0,https://github.com/presk-lang/presk,PSK-Sched v0: fusion groups over PSK-Core bodies
+2026-11-11T22:08:15.917189Z,auth-gate,0.4.0,0,0,https://github.com/jamesgober/auth-gate,"Authentication for Rust services: signed opaque session tokens, Argon2id passwords, TOTP, recovery codes and passkeys, standing with time limits, and security signals. Protocol-free, storage behind t…"
+2026-11-11T22:10:33.182861Z,lean-ctx-activity,0.1.0,0,0,https://github.com/yvgude/lean-ctx,"The host-neutral activity stream of LeanCTX | OSS: one bounded, redacted event log per agent session."
+2026-11-11T22:11:23.070173Z,lean-ctx-tasks,0.1.0,0,0,https://github.com/yvgude/lean-ctx,"Local project tasks of LeanCTX | OSS: the Hive task model and state machine, kept per project on this machine."
+2026-11-11T22:12:06.569452Z,irys-tags,0.1.1,0,0,https://github.com/muni-works/irys,"tag36h11 AprilTag detection in pure Rust: both polarities, every decimation, small-tag upsample, sub-pixel corners on linear light"
+2026-11-11T22:12:44.95948Z,irys-diff,0.1.1,0,0,https://github.com/muni-works/irys,"irys: differentiable spectral path tracing — BSDFs as tang IR graphs, bit-exact path replay backprop on CPU f64 and a GPU wavefront"
+2026-11-11T22:12:46.684976Z,irys-recon,0.1.1,0,0,https://github.com/muni-works/irys,irys: image to CAD — recover an editable vcad program and its dimensions from photographs of a part beside an AprilTag
+2026-11-11T22:12:47.281704Z,irys-splat,0.1.1,0,0,https://github.com/muni-works/irys,"irys: a 3DGS trainer on irys's own GPU tier — tile rasteriser forward and adjoint, Adam, densification"
+2026-11-11T22:12:53.236868Z,reallyme-wallet,0.1.0,0,0,https://github.com/reallyme/wallet,ReallyMe EUDI wallet core facade.
+2026-11-11T22:15:08.086057Z,shapeshift-raise,0.6.0,0,0,https://github.com/gtfierro/shifty,"Experimental, may change in any release (use shifty-experimental): Raise a built Shapeshift schema to readable SHACL RDF"
+2026-11-11T22:16:04.839462Z,corten-run,0.2.0,0,0,https://github.com/corten-run/corten,"A full-stack Rust web framework: pages in html!, fragment patches, typed handlers and live feeds, on hyper."
+2026-11-11T22:16:09.423695Z,shifty-shapeshift,0.6.0,0,0,https://github.com/gtfierro/shifty,"Experimental, may change in any release (use shifty-experimental): Shapeshift, a macro language for RDF validation over the shifty shape algebra: sessions, reports, and the layers underneath"
+2026-11-11T22:16:14.90457Z,corten-cluster,0.2.0,0,0,https://github.com/corten-run/corten,"One Corten feed served by many instances: Postgres outbox, a leased relay to NATS JetStream, and per-instance followers that resume each other's cursors."
+2026-11-11T22:16:15.415774Z,corten-ui,0.2.0,0,0,https://github.com/corten-run/corten,"Headless Corten components for the widgets the browser has no element for: number field, combobox, tabs, menu button, toaster, and a modal dialog the server draws open."
+2026-11-11T22:16:45.951139Z,presk-rt,0.17.1,0,0,https://github.com/presk-lang/presk,"The runtime seam: values, the Backend trait, the interpreter behind it"
