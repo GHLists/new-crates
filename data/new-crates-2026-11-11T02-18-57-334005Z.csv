@@ -1,0 +1,29 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-11T01:20:04.730975Z,rsopt,0.0.1,0,0,https://github.com/RSOPT/rsopt,"A simple, elegant convex optimization solver."
+2026-11-11T01:21:48.309249Z,nitinol,0.6.0,0,0,https://github.com/HalsekiRaika/nitinol,A utilities for event sourcing
+2026-11-11T01:26:09.361328Z,zakura-arti-client,0.0.0,0,0,https://github.com/zakura-core/zakura,Reserved
+2026-11-11T01:27:09.373195Z,pod-actions-proto,0.0.0,0,0,https://github.com/PodUtils/podcrates,Native Actions runner: wire types and runner protocol
+2026-11-11T01:27:38.541037Z,tamias-provider,0.1.4,0,0,https://github.com/9aia/tamias,"provider lifecycle — installed `provider:` blocks → units, deploy/uninstall, run exec specs, journal argv"
+2026-11-11T01:28:06.193092Z,pod-actions-expr,0.0.0,0,0,https://github.com/PodUtils/podcrates,Native Actions runner: expression language and contexts
+2026-11-11T01:35:15.416297Z,camera-compression,0.1.1,0,0,https://github.com/aamirsahmad/camera-compression,"Batch downscale and recompress camera JPEGs, preserving EXIF and orientation"
+2026-11-11T01:37:12.513666Z,zakura-caret,0.0.0,0,0,https://github.com/zakura-core/zakura,Reserved
+2026-11-11T01:37:47.576045Z,tamias-tui,0.1.4,0,0,https://github.com/9aia/tamias,tamias — interactive package-manager TUI (ratatui); the `tamias ui` surface
+2026-11-11T01:38:14.475897Z,pod-actions-exec,0.0.0,0,0,https://github.com/PodUtils/podcrates,"Native Actions runner: steps, shells, file commands, actions"
+2026-11-11T01:42:18.631282Z,azure_cosmos_queryplan_win_x64,0.2.3,0,0,https://github.com/Azure/CosmosDB-Rust,Prebuilt Cosmos DB QueryPlanInterop native library for Windows x64 (bundled; used by azure_cosmos_queryplan_sys).
+2026-11-11T01:44:29.681992Z,azure_cosmos_queryplan_linux_x64,0.2.3,0,0,https://github.com/Azure/CosmosDB-Rust,Prebuilt Cosmos DB QueryPlanInterop native library for Linux x64 (bundled; used by azure_cosmos_queryplan_sys).
+2026-11-11T01:46:51.2004Z,azure_cosmos_queryplan_linux_arm64,0.2.3,0,0,https://github.com/Azure/CosmosDB-Rust,Prebuilt Cosmos DB QueryPlanInterop native library for Linux ARM64 (bundled; used by azure_cosmos_queryplan_sys).
+2026-11-11T01:48:18.373671Z,zakura-fs-mistrust,0.0.0,0,0,https://github.com/zakura-core/zakura,Reserved
+2026-11-11T01:48:24.461036Z,pod-actions-workflow,0.0.0,0,0,https://github.com/PodUtils/podcrates,"Local mode for the Actions runner: workflow YAML, matrix, needs"
+2026-11-11T01:50:11.763408Z,azure_cosmos_queryplan_macos_x64,0.2.3,0,0,https://github.com/Azure/CosmosDB-Rust,Prebuilt Cosmos DB QueryPlanInterop native library for macOS x64 (bundled; used by azure_cosmos_queryplan_sys).
+2026-11-11T01:53:03.089219Z,azure_cosmos_queryplan_macos_arm64,0.2.3,0,0,https://github.com/Azure/CosmosDB-Rust,Prebuilt Cosmos DB QueryPlanInterop native library for macOS ARM64 (bundled; used by azure_cosmos_queryplan_sys).
+2026-11-11T01:56:49.058149Z,azure_cosmos_queryplan_sys,0.2.3,0,0,https://github.com/Azure/CosmosDB-Rust,Platform-selecting facade for the prebuilt Cosmos DB QueryPlanInterop native library.
+2026-11-11T01:58:33.521871Z,pod-incus,0.0.0,0,0,https://github.com/PodUtils/podcrates,Incus client for PodUtils tools: containers and VMs for CI units
+2026-11-11T01:59:31.17976Z,zakura-safelog,0.0.0,0,0,https://github.com/zakura-core/zakura,Reserved
+2026-11-11T02:08:43.815499Z,pod-mask,0.0.0,0,0,https://github.com/PodUtils/podcrates,Reserved name for PodUtils (mask)
+2026-11-11T02:09:15.556815Z,pod-job,0.0.0,0,0,https://github.com/PodUtils/podcrates,"Records of a CI job and their JSON Schemas: offer, capability, run report"
+2026-11-11T02:10:36.779421Z,zakura-slotmap-careful,0.0.0,0,0,https://github.com/zakura-core/zakura,Reserved
+2026-11-11T02:14:35.788921Z,myco-git,0.1.3,0,0,https://github.com/9aia/myco,Git plumbing for myco — shells out to the git CLI; owns the project branch/worktree mechanics
+2026-11-11T02:18:28.315249Z,pi_graph_ports_derive,0.2.0,0,0,,pi_graph_ports 的 NodePort 派生宏
+2026-11-11T02:18:38.984249Z,pi_graph_ports,0.2.0,0,0,,类型化输入输出端口：渲染图参数规则改名版
+2026-11-11T02:18:48.006024Z,holiday-kr,0.1.0,0,0,https://github.com/TeiNam/holiday-kr,"South Korean public holidays (including substitute and temporary holidays), embedded from KASI data. No API key, network, or dependencies."
+2026-11-11T02:18:52.65417Z,behavior_graph,0.2.0,0,0,,行为图运行时：树形控制、类型化端口、TS 行为树节点语义
