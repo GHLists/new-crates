@@ -1,0 +1,37 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-11T07:20:02.384715Z,foundation_cloudflare_profile,0.1.1,0,0,https://github.com/ewe-studios/ewe_platform,Generated Cloudflare API client: profile group
+2026-11-11T07:20:22.468401Z,diskdiet,0.1.0,0,0,https://github.com/Baimmmss/diskdiet,"Find and delete the gigabytes your dev tools leave behind: node_modules, target/, .venv, Xcode DerivedData, package-manager caches and more."
+2026-11-11T07:20:50.57537Z,zakura-tor-netdir,0.0.0,0,0,https://github.com/zakura-core/zakura,Reserved
+2026-11-11T07:22:36.134831Z,tree-sitter-dune,0.1.0,0,0,https://github.com/ocaml-dune/tree-sitter-dune,Tree-sitter grammar for Dune build system files
+2026-11-11T07:25:41.177251Z,rowlock,0.0.1,0,0,https://github.com/Vintergatan-Ventures/rowlock,"Postgres schema, performance and tenant-isolation analysis for coding agents, served over MCP. Name reserved; first release pending."
+2026-11-11T07:30:03.156585Z,foundation_cloudflare_queues,0.1.1,0,0,https://github.com/ewe-studios/ewe_platform,Generated Cloudflare API client: queues group
+2026-11-11T07:31:53.068169Z,zakura-tor-netdoc,0.0.0,0,0,https://github.com/zakura-core/zakura,Reserved
+2026-11-11T07:35:11.025087Z,stkcraft-time,0.1.15,0,0,https://github.com/spacelibres/STKCraft-time,"NAIF/SPICE-aligned astronomical time scales in Rust: UTC, TAI, TT, TDB/ET, GPS, UT1 and SCLK, with LSK/SCLK/EOP kernels, no_std support, WebGeocalc parity and an MCP server."
+2026-11-11T07:39:30.592692Z,marquage_derive,0.1.1,0,0,,Proc macro for marquage
+2026-11-11T07:39:33.66094Z,marquage_lib,0.1.1,0,0,,Core of marquage
+2026-11-11T07:39:35.542595Z,marquage,0.1.1,0,0,,Facade library of marquage
+2026-11-11T07:40:07.627449Z,foundation_cloudflare_radar,0.1.1,0,0,https://github.com/ewe-studios/ewe_platform,Generated Cloudflare API client: radar group
+2026-11-11T07:42:55.529765Z,zakura-tor-persist,0.0.0,0,0,https://github.com/zakura-core/zakura,Reserved
+2026-11-11T07:45:59.920561Z,modernci,0.0.0,0,0,,ModernCI command-line client (mci). Name reserved for the official ModernCI CLI; the real client is coming soon. See https://modernci.dev
+2026-11-11T07:46:07.915194Z,modernci-ext,0.0.0,0,0,,ModernCI extension SDK. Name reserved for the official ModernCI plugin and extension SDK. See https://modernci.dev
+2026-11-11T07:50:04.072203Z,foundation_cloudflare_reports,0.1.1,0,0,https://github.com/ewe-studios/ewe_platform,Generated Cloudflare API client: reports group
+2026-11-11T07:53:28.780383Z,tsrs_core,0.24.0,0,0,https://github.com/oxc-project/tsrs,Core types and utilities for the tsrs TypeScript compiler
+2026-11-11T07:53:33.333269Z,tsrs_diagnostics,0.24.0,0,0,https://github.com/oxc-project/tsrs,TypeScript diagnostic messages for tsrs
+2026-11-11T07:53:38.859472Z,tsrs_spanmap,0.24.0,0,0,https://github.com/oxc-project/tsrs,Source span mapping for the tsrs TypeScript compiler
+2026-11-11T07:53:46.643291Z,tsrs_ast,0.24.0,0,0,https://github.com/oxc-project/tsrs,TypeScript abstract syntax tree for tsrs
+2026-11-11T07:53:54.513029Z,tsrs_scanner,0.24.0,0,0,https://github.com/oxc-project/tsrs,TypeScript and JavaScript scanner for tsrs
+2026-11-11T07:53:57.977373Z,zakura-tor-proto,0.0.0,0,0,https://github.com/zakura-core/zakura,Reserved
+2026-11-11T08:00:01.782931Z,foundation_cloudflare_resources,0.1.1,0,0,https://github.com/ewe-studios/ewe_platform,Generated Cloudflare API client: resources group
+2026-11-11T08:02:52.654791Z,txlemetry-symbol-data,0.6.0,0,0,,A shared library for serialising/deserialising Txlemetry symbol data
+2026-11-11T08:03:05.007885Z,txlemetry-rs,0.4.0,0,0,https://github.com/hectorvss/Txlemetry,An unofficial Rust client for Txlemetry (https://txlemetry.com/).
+2026-11-11T08:03:21.803118Z,tsrs_vfs,0.24.0,0,0,https://github.com/oxc-project/tsrs,Virtual filesystem and bundled TypeScript libraries for tsrs
+2026-11-11T08:05:00.298475Z,zakura-tor-protover,0.0.0,0,0,https://github.com/zakura-core/zakura,Reserved
+2026-11-11T08:10:04.402367Z,foundation_cloudflare_routes,0.1.1,0,0,https://github.com/ewe-studios/ewe_platform,Generated Cloudflare API client: routes group
+2026-11-11T08:10:28.322377Z,tmux-flash,0.1.0,0,0,https://github.com/Leandros/tmux-flash,"Jump labels for tmux panes, with the rules of flash.nvim"
+2026-11-11T08:13:39.503702Z,tsrs_parser,0.24.0,0,0,https://github.com/oxc-project/tsrs,TypeScript and JavaScript parser for tsrs
+2026-11-11T08:14:34.606315Z,cascivo-html,0.1.0,0,0,https://github.com/cascivo/cascivo,"Render .cv text into one deterministic, self-contained cascivo HTML file"
+2026-11-11T08:14:50.659646Z,cascivo-html-cli,0.1.0,0,0,https://github.com/cascivo/cascivo,cascivo-html command line: render .cv to one static HTML file
+2026-11-11T08:16:02.988381Z,zakura-tor-relay-crypto,0.0.0,0,0,https://github.com/zakura-core/zakura,Reserved
+2026-11-11T08:19:08.937541Z,orbit-macros,0.1.0,0,0,https://github.com/lajennylove/Orbit,The OrbitModel derive for orbit-orm
+2026-11-11T08:19:46.489741Z,orbit-orm,0.1.0,0,0,https://github.com/lajennylove/Orbit,"An ORM for Rocket.rs apps, with MySQL and MariaDB, PostgreSQL and SQLite"
+2026-11-11T08:20:06.002335Z,foundation_cloudflare_rules,0.1.1,0,0,https://github.com/ewe-studios/ewe_platform,Generated Cloudflare API client: rules group
