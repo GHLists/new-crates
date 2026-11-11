@@ -1,0 +1,42 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-11T09:20:07.489201Z,foundation_cloudflare_stream,0.1.1,0,0,https://github.com/ewe-studios/ewe_platform,Generated Cloudflare API client: stream group
+2026-11-11T09:20:27.272467Z,find_ext,0.3.1,0,0,https://github.com/webc-site/npm.git,"Find files by extension while walking a directory, streaming paths through a bounded channel / 遍历目录按后缀查找文件，通过有界队列流式返回"
+2026-11-11T09:22:20.190532Z,zakura-web-time-compat,0.0.0,0,0,https://github.com/zakura-core/zakura,Reserved
+2026-11-11T09:25:33.014588Z,tsrs_module,0.24.0,0,0,https://github.com/oxc-project/tsrs,TypeScript module resolution for tsrs
+2026-11-11T09:25:53.7154Z,ignore_dir,0.1.4,0,0,https://github.com/webc-site/npm.git,Directory ignore policy for directory walkers: hidden directories plus common dependency and build output directories / 目录遍历忽略策略：隐藏目录与常见依赖、构建产物目录
+2026-11-11T09:26:34.557891Z,ort-superserve,0.4.0,0,0,https://github.com/JiraPit/ort-superserve,High-throughput ONNX Runtime server with dynamic batching and session pooling
+2026-11-11T09:28:35.218049Z,flipper-companion-core,0.8.1,0,0,https://github.com/zx97/flipper-companion,"Domain model and policies shared by every flipper-companion crate: device information, storage entries, firmware versions and progress reporting."
+2026-11-11T09:30:02.91909Z,foundation_cloudflare_targets,0.1.1,0,0,https://github.com/ewe-studios/ewe_platform,Generated Cloudflare API client: targets group
+2026-11-11T09:30:42.919332Z,flipper-companion-dfu,0.8.1,0,0,https://github.com/zx97/flipper-companion,"DFU and DfuSe parsing and flashing for the Flipper Zero, implemented in pure Rust over USB."
+2026-11-11T09:35:52.249023Z,tsrs_tsoptions,0.24.0,0,0,https://github.com/oxc-project/tsrs,TypeScript compiler options and configuration parsing for tsrs
+2026-11-11T09:37:25.089985Z,nsh-updater,0.5.0,0,0,https://github.com/longbridge/nsh,"Self-update of packaged nsh apps: signed manifests, verified downloads, replacing the installed app."
+2026-11-11T09:37:36.818163Z,nsh-platform-apple,0.5.0,0,0,https://github.com/longbridge/nsh,"Code shared by the macOS and iOS backends: sound playback, the Speech recognizer, the notification center, the URL schemes web views serve from the app, web views' script evaluation and the unified l…"
+2026-11-11T09:37:43.183956Z,nsh-platform-tui,0.5.0,0,0,https://github.com/longbridge/nsh,Native Shell surfaces embedded in a terminal grid.
+2026-11-11T09:37:48.736101Z,nsh-tui-host,0.5.0,0,0,https://github.com/longbridge/nsh,Development host that runs a prebuilt Native Shell bundle in a terminal.
+2026-11-11T09:39:40.37709Z,whatschedule,0.1.0,0,0,https://github.com/Abhinav-Prabhakar/Whatschedule,A resilient Rust CLI for scheduling WhatsApp Web messages.
+2026-11-11T09:40:05.298089Z,annas-archive-mcp-server,1.0.5,0,0,https://github.com/Abhinav-Prabhakar/AnnasArchiveMCP,A robust Rust MCP server for searching and downloading books from Anna's Archive over MCP.
+2026-11-11T09:40:07.166629Z,foundation_cloudflare_tasks,0.1.1,0,0,https://github.com/ewe-studios/ewe_platform,Generated Cloudflare API client: tasks group
+2026-11-11T09:41:04.920705Z,baijimu-tracing,1.0.0,0,0,https://gitee.com/zxflimit_admin/baijimu-contracts,"W3C context, operation spans and scoped diagnostic logging for Baijimu services"
+2026-11-11T09:43:02.964877Z,flipper-companion-protocol,0.8.1,0,0,https://github.com/zx97/flipper-companion,"Serial framing, protobuf RPC session and screen conversion for the Flipper Zero."
+2026-11-11T09:44:10.534613Z,egui-pop-agent,0.2.0,0,0,https://github.com/quazardous/egui-pop,"Serves egui-pop's debug bridge out of the process, opt-in: JSON-RPC 2.0 over a private local socket (describe, snapshot, call, wait), for agents that drive a running application"
+2026-11-11T09:44:57.573025Z,triad-merge,0.0.1,0,0,https://github.com/lookbusy1344/triad-merge,"A fast, native three-way merge and two-way diff tool, built for Jujutsu with full Git support. Early placeholder release."
+2026-11-11T09:46:12.819735Z,tsrs_modulespecifiers,0.24.0,0,0,https://github.com/oxc-project/tsrs,TypeScript module specifier generation for tsrs
+2026-11-11T09:46:21.384671Z,agent-llm,0.1.0,0,0,https://github.com/hellobenben/agent-llm,Streaming LLM provider port and an OpenAI-compatible chat completion client.
+2026-11-11T09:49:14.065213Z,markdoc-regress,0.12.0,0,0,https://github.com/markdoc-rs/markdoc,"regress 0.12.0, an ECMAScript regular expression engine, with the fixes and V8-compatibility options markdoc needs"
+2026-11-11T09:49:30.109718Z,markdoc,0.1.0,0,0,https://github.com/markdoc-rs/markdoc,Rust implementation of the Markdoc document language (CommonMark plus a {% tag %} extension)
+2026-11-11T09:50:07.799156Z,foundation_cloudflare_tenants,0.1.1,0,0,https://github.com/ewe-studios/ewe_platform,Generated Cloudflare API client: tenants group
+2026-11-11T09:50:10.584508Z,gbc,0.1.0,0,0,https://github.com/axle-h/gb,"A Game Boy, Game Boy Color and Super Game Boy emulator."
+2026-11-11T09:55:24.746275Z,flipper-companion-update,0.8.1,0,0,https://github.com/zx97/flipper-companion,"Firmware directory client, channel handling and release selection for the Flipper Zero."
+2026-11-11T09:56:29.819876Z,tsrs_pseudochecker,0.24.0,0,0,https://github.com/oxc-project/tsrs,TypeScript syntactic type analysis for tsrs
+2026-11-11T09:57:38.60668Z,flipper-companion-app,0.8.1,0,0,https://github.com/zx97/flipper-companion,"Application services for flipper-companion: device probing, firmware download and installation, remote storage, backups, and the Flipper application catalog with install, update, uninstall, checksum…"
+2026-11-11T09:58:49.659501Z,sendio,1.1.0,0,0,,The official Rust SDK for the send.io email API.
+2026-11-11T09:59:52.898501Z,yolog,0.1.0,0,0,https://github.com/yologdev/yolog,"Rust client for yolog: versioned, portable state for AI agents"
+2026-11-11T10:00:03.474216Z,foundation_cloudflare_tokens,0.1.1,0,0,https://github.com/ewe-studios/ewe_platform,Generated Cloudflare API client: tokens group
+2026-11-11T10:04:55.342495Z,egui_hud,0.1.0,0,0,https://github.com/quazardous/egui_hud,"Controls as data for egui: a control's purpose, value, feel and representations, cards laid out on a slot engine, resolved in context, a value flow of gestures, and renderers on egui-pop"
+2026-11-11T10:06:57.640777Z,tsrs_checker,0.24.0,0,0,https://github.com/oxc-project/tsrs,TypeScript type checker for tsrs
+2026-11-11T10:09:47.570953Z,flipper-companion-project,0.8.1,0,0,https://github.com/zx97/flipper-companion,"flip.toml project support compatible with flippy: manifest model, source grammar and fetch-plan generation."
+2026-11-11T10:10:07.893285Z,foundation_cloudflare_tracer,0.1.1,0,0,https://github.com/ewe-studios/ewe_platform,Generated Cloudflare API client: tracer group
+2026-11-11T10:10:25.654265Z,markdoc-lint,0.1.0,0,0,https://github.com/markdoc-rs/markdoc-lint,"Lint rules for a Markdoc corpus, over the real AST"
+2026-11-11T10:13:51.319473Z,gamend,1.1.1429,0,0,https://github.com/appsinacup/gamend,"Client SDK for Gamend, an open-source game backend"
+2026-11-11T10:16:43.265262Z,tinyeval,0.11.0,0,0,https://github.com/evalship-hq/tinyeval,"Evals for the AI calls in your Rust app: test cases in a bash file, a worker that calls your code"
+2026-11-11T10:18:12.385488Z,tsrs_ipc,0.24.0,0,0,https://github.com/oxc-project/tsrs,Interprocess communication for the tsrs TypeScript compiler
