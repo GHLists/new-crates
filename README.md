@@ -8,42 +8,30 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-11 03:20 UTC
+## Latest list — 2026-11-11 04:19 UTC
 
-New crates published between 2026-11-11 02:18 UTC and 2026-11-11 03:20 UTC.
+New crates published between 2026-11-11 03:20 UTC and 2026-11-11 04:19 UTC.
 
-[Full CSV](data/new-crates-2026-11-11T03-20-19-127207Z.csv)
+[Full CSV](data/new-crates-2026-11-11T04-19-13-079242Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-11 02:22:24 | [zeebra](https://crates.io/crates/zeebra) | 0.1.0 | 0 | Computational algebra over finite fields for cryptography: fields, polynomials,… |
-| 2026-11-11 02:22:42 | [zakura-test-temp-dir](https://crates.io/crates/zakura-test-temp-dir) | 0.0.0 | 0 | Reserved |
-| 2026-11-11 02:25:28 | [ferrosys-lzfse](https://crates.io/crates/ferrosys-lzfse) | 0.8.0 | 0 | LZVN and LZFSE decoders in safe Rust, derived from Apple's lzfse reference deco… |
-| 2026-11-11 02:25:28 | [ferrosys-ucd](https://crates.io/crates/ferrosys-ucd) | 0.8.0 | 0 | Unicode Character Database tables ferrosys compares APFS names with: canonical… |
-| 2026-11-11 02:26:19 | [acativa-sdk](https://crates.io/crates/acativa-sdk) | 0.1.0 | 0 | Rust host SDK embedding the Acativa WebAssembly decision kernel through wasmi |
-| 2026-11-11 02:29:05 | [Ag-core](https://crates.io/crates/Ag-core) | 0.1.0 | 0 | A library to be used to make unified todo managers |
-| 2026-11-11 02:33:44 | [zakura-tor-async-utils](https://crates.io/crates/zakura-tor-async-utils) | 0.0.0 | 0 | Reserved |
-| 2026-11-11 02:37:41 | [onefollowup](https://crates.io/crates/onefollowup) | 0.1.0 | 0 | The follow-up loop for any orchestrator repository: draft, verify, file one tic… |
-| 2026-11-11 02:43:37 | [peabrain-rust](https://crates.io/crates/peabrain-rust) | 0.2.0 | 0 | PeaBrain MCP Server in Rust - Persistent memory, vector search, multi-agent syn… |
-| 2026-11-11 02:44:47 | [zakura-tor-basic-utils](https://crates.io/crates/zakura-tor-basic-utils) | 0.0.0 | 0 | Reserved |
-| 2026-11-11 02:48:39 | [cargo-util-config](https://crates.io/crates/cargo-util-config) | 0.0.0 | 0 | Placeholder for https://github.com/rust-lang/cargo/pull/17705 |
-| 2026-11-11 02:48:40 | [zcall](https://crates.io/crates/zcall) | 0.1.1 | 0 | Allocation-free, protocol-independent Sans-I/O AI call kernel |
-| 2026-11-11 02:49:42 | [cargo-dev-registry](https://crates.io/crates/cargo-dev-registry) | 0.0.0 | 0 | Placeholder for https://github.com/rust-lang/cargo/pull/17672 |
-| 2026-11-11 02:55:50 | [zakura-tor-bytes](https://crates.io/crates/zakura-tor-bytes) | 0.0.0 | 0 | Reserved |
-| 2026-11-11 02:55:55 | [tree-sitter-opam](https://crates.io/crates/tree-sitter-opam) | 0.1.0 | 0 | Tree-sitter grammar for opam package manager files |
-| 2026-11-11 02:56:37 | [cargo-refine](https://crates.io/crates/cargo-refine) | 0.5.0 | 0 | Clippy-healing drafter+pruner pipeline: modelless ternary drafter x rust-analyz… |
-| 2026-11-11 02:57:50 | [fairliny-registrar](https://crates.io/crates/fairliny-registrar) | 0.1.0 | 0 | Registration-based MCP service dispatcher: hosts declare tool services once, ca… |
-| 2026-11-11 02:59:54 | [afaster-derive](https://crates.io/crates/afaster-derive) | 0.0.10 | 0 | Procedural derive macro for AFaster ORM admin metadata. |
-| 2026-11-11 03:00:26 | [z64](https://crates.io/crates/z64) | 0.1.2 | 0 | Strict, allocation-free Base64 and Base64URL with zero dependencies |
-| 2026-11-11 03:01:13 | [jazyk-goose-context-management](https://crates.io/crates/jazyk-goose-context-management) | 0.1.0-alpha.13-jazy… | 0 | Goose conversation compaction with Jazyk WASM portability fixes |
-| 2026-11-11 03:06:52 | [zakura-tor-cell](https://crates.io/crates/zakura-tor-cell) | 0.0.0 | 0 | Reserved |
-| 2026-11-11 03:08:12 | [database-graphql-schema](https://crates.io/crates/database-graphql-schema) | 0.2.0 | 0 | Generate deterministic GraphQL entity SDL from relational database schemas with… |
-| 2026-11-11 03:10:16 | [ms-compat](https://crates.io/crates/ms-compat) | 0.1.0 | 0 | Parse and format durations with JavaScript ms-compatible behavior |
-| 2026-11-11 03:11:18 | [wild-ingest-contract](https://crates.io/crates/wild-ingest-contract) | 0.1.0 | 0 | wild — the wire contract of the producer ingest door (ADR-0365): requests, repl… |
-| 2026-11-11 03:11:29 | [cargo-graphql-schema](https://crates.io/crates/cargo-graphql-schema) | 0.2.0 | 0 | Cargo subcommand and CLI for generating GraphQL entity SDL from relational data… |
-| 2026-11-11 03:12:07 | [wild-kit](https://crates.io/crates/wild-kit) | 0.1.0 | 0 | wild — the producer half of the kit: a Rust client for Wild's producer ingest d… |
-| 2026-11-11 03:12:25 | [heel-shim](https://crates.io/crates/heel-shim) | 0.0.0 | 0 | The command shim and IPC client that run inside a heel sandbox |
-| 2026-11-11 03:17:55 | [zakura-tor-cert](https://crates.io/crates/zakura-tor-cert) | 0.0.0 | 0 | Reserved |
+| 2026-11-11 03:20:38 | [rawrchive](https://crates.io/crates/rawrchive) | 0.0.1 | 0 | A pure Rust RAR5 extractor |
+| 2026-11-11 03:23:08 | [tree-sitter-tsql](https://crates.io/crates/tree-sitter-tsql) | 0.1.0 | 0 | MIT-licensed T-SQL (SQL Server, Azure SQL) grammar for tree-sitter |
+| 2026-11-11 03:28:13 | [jazyk](https://crates.io/crates/jazyk) | 0.2.2 | 0 | A natural language compiler with a persistent semantic graph |
+| 2026-11-11 03:28:57 | [zakura-tor-cert-x509](https://crates.io/crates/zakura-tor-cert-x509) | 0.0.0 | 0 | Reserved |
+| 2026-11-11 03:29:52 | [docs-search](https://crates.io/crates/docs-search) | 0.1.0 | 0 | Client-side search index for docs sites: FST term dictionary with roaring-bitma… |
+| 2026-11-11 03:30:04 | [docs-witness](https://crates.io/crates/docs-witness) | 0.1.0 | 0 | Deterministic WASI snippet execution witnesses for docs sites: fresh wasmtime i… |
+| 2026-11-11 03:36:08 | [carbondb-service-bindings](https://crates.io/crates/carbondb-service-bindings) | 0.1.0 | 0 | ServiceBindings: the toolkit a Rust CarbonDB service builds with, its API footp… |
+| 2026-11-11 03:36:10 | [carbondb](https://crates.io/crates/carbondb) | 0.1.0 | 0 | CarbonDB: spaces on SQLite, its builtin services, and the one path every call t… |
+| 2026-11-11 03:39:42 | [digimcp](https://crates.io/crates/digimcp) | 0.1.0 | 0 | What's due, attendance, grades, materials, and agentic submissions — MCP server… |
+| 2026-11-11 03:40:00 | [zakura-tor-chanmgr](https://crates.io/crates/zakura-tor-chanmgr) | 0.0.0 | 0 | Reserved |
+| 2026-11-11 03:42:53 | [burnout-wim](https://crates.io/crates/burnout-wim) | 2.2.0 | 0 | Reads the WIM and ESD images of Windows: the header and the list of editions. B… |
+| 2026-11-11 03:46:09 | [ttyr](https://crates.io/crates/ttyr) | 0.1.0 | 0 | Terminal input, output and raw mode for Rust, with the full kitty keyboard prot… |
+| 2026-11-11 03:51:02 | [zakura-tor-checkable](https://crates.io/crates/zakura-tor-checkable) | 0.0.0 | 0 | Reserved |
+| 2026-11-11 03:56:37 | [docs-symbols](https://crates.io/crates/docs-symbols) | 0.1.0 | 0 | Symbol-anchored source extraction for docs sites: resolve a symbol path through… |
+| 2026-11-11 04:02:05 | [zakura-tor-circmgr](https://crates.io/crates/zakura-tor-circmgr) | 0.0.0 | 0 | Reserved |
+| 2026-11-11 04:13:07 | [zakura-tor-config](https://crates.io/crates/zakura-tor-config) | 0.0.0 | 0 | Reserved |
 
 ## Data source
 

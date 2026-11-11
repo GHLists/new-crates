@@ -1,0 +1,17 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-11T03:20:38.527712Z,rawrchive,0.0.1,0,0,,A pure Rust RAR5 extractor
+2026-11-11T03:23:08.644577Z,tree-sitter-tsql,0.1.0,0,0,https://github.com/datagrout/tree-sitter-grammars,"MIT-licensed T-SQL (SQL Server, Azure SQL) grammar for tree-sitter"
+2026-11-11T03:28:13.413727Z,jazyk,0.2.2,0,0,https://github.com/JazykOrg/Jazyk,A natural language compiler with a persistent semantic graph
+2026-11-11T03:28:57.742029Z,zakura-tor-cert-x509,0.0.0,0,0,https://github.com/zakura-core/zakura,Reserved
+2026-11-11T03:29:52.984771Z,docs-search,0.1.0,0,0,https://github.com/WyattAu/docs-search,"Client-side search index for docs sites: FST term dictionary with roaring-bitmap postings, BM25-shaped ranking, wasm32-clean bytes-in/bytes-out format (docs-core extension program, SPEC.md REQ-Q)"
+2026-11-11T03:30:04.214019Z,docs-witness,0.1.0,0,0,https://github.com/WyattAu/docs-witness,"Deterministic WASI snippet execution witnesses for docs sites: fresh wasmtime instance per run, fuel-bounded, captured stdout/exit/fuel, serializable payload. docs-core extension program (SPEC.md REQ…"
+2026-11-11T03:36:08.423763Z,carbondb-service-bindings,0.1.0,0,0,https://github.com/TorchlightSoftware/carbondb,"ServiceBindings: the toolkit a Rust CarbonDB service builds with, its API footprint at runtime and its packaging at build time"
+2026-11-11T03:36:10.279761Z,carbondb,0.1.0,0,0,https://github.com/TorchlightSoftware/carbondb,"CarbonDB: spaces on SQLite, its builtin services, and the one path every call takes to the services a device runs"
+2026-11-11T03:39:42.297217Z,digimcp,0.1.0,0,0,https://github.com/kushvinth/DigiMCP,"What's due, attendance, grades, materials, and agentic submissions — MCP server for Digiicampus (CollPoll) student portals."
+2026-11-11T03:40:00.222057Z,zakura-tor-chanmgr,0.0.0,0,0,https://github.com/zakura-core/zakura,Reserved
+2026-11-11T03:42:53.216173Z,burnout-wim,2.2.0,0,0,https://github.com/Stiven-Gjekaj/burnout,"Reads the WIM and ESD images of Windows: the header and the list of editions. Burnout uses it, and its interface is not stable."
+2026-11-11T03:46:09.884403Z,ttyr,0.1.0,0,0,https://github.com/kryptic-sh/ttyr,"Terminal input, output and raw mode for Rust, with the full kitty keyboard protocol and a ratatui backend"
+2026-11-11T03:51:02.866333Z,zakura-tor-checkable,0.0.0,0,0,https://github.com/zakura-core/zakura,Reserved
+2026-11-11T03:56:37.975198Z,docs-symbols,0.1.0,0,0,https://github.com/WyattAu/docs-symbols,Symbol-anchored source extraction for docs sites: resolve a symbol path through a tree-sitter AST and return its exact span with a position-independent anchor ID. docs-core extension program (SPEC.md…
+2026-11-11T04:02:05.283523Z,zakura-tor-circmgr,0.0.0,0,0,https://github.com/zakura-core/zakura,Reserved
+2026-11-11T04:13:07.928056Z,zakura-tor-config,0.0.0,0,0,https://github.com/zakura-core/zakura,Reserved
