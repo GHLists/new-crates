@@ -1,0 +1,45 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-11T13:19:25.706928Z,libddwaf-sys,2.1.0,0,0,https://github.com/DataDog/libddwaf-rust,Low-level bindings to DataDog/libddwaf
+2026-11-11T13:20:32.064534Z,fontoxide-cu2qu,0.1.0,0,0,https://github.com/MuTsunTsai/fontoxide,Cubic to quadratic curve conversion; a port of fontTools.cu2qu
+2026-11-11T13:20:40.982331Z,pineentry,0.1.0,0,0,https://github.com/asciimoth/pineentry,A GnuPG pinentry proxy that caches passphrases or reads them from files and environment variables
+2026-11-11T13:20:48.583393Z,relate-front,0.0.1,0,0,https://github.com/relatedb/relate,"Placeholder for relate-front, part of the Relate embedded openCypher graph engine. The first real release is coming soon; this empty crate only claims the name."
+2026-11-11T13:21:15.148158Z,composite-mvt,0.2.2,0,0,,Compose fixed Mapbox Vector Tile sources with optional input and output compression
+2026-11-11T13:21:53.490916Z,libddwaf,2.1.0,0,0,https://github.com/DataDog/libddwaf-rust,Rust bindings to DataDog/libddwaf
+2026-11-11T13:23:49.138956Z,licoup-agent-drivers,0.3.1,0,0,https://github.com/LicoLand/LicoUp-CLI.git,"Host side of LicoUp Agent execution: the adapter registry, adapter execution, the ACP session transport and the local service control plane."
+2026-11-11T13:26:28.404409Z,am-lz4-flex,0.14.0,0,0,https://github.com/antimatter-studios/lz4_flex,"A fork of lz4_flex carrying LZ4HC with a fixed-output mode (PSeitz/lz4_flex#244), published until upstream releases it."
+2026-11-11T13:29:15.619024Z,kittychart-ffi,0.1.2,0,0,https://github.com/CoreyKaylor/KittyChart,C ABI for KittyChart: Chart.js-compatible charts for graphics-capable terminals
+2026-11-11T13:30:30.920722Z,fontoxide-diff,0.1.0,0,0,https://github.com/MuTsunTsai/fontoxide,Comparing fonts table by table; a port of fontTools.diff
+2026-11-11T13:30:54.732Z,relate-planner,0.0.1,0,0,https://github.com/relatedb/relate,"Placeholder for relate-planner, part of the Relate embedded openCypher graph engine. The first real release is coming soon; this empty crate only claims the name."
+2026-11-11T13:34:52.065191Z,licoup-agent-lico-agent,0.3.1,0,0,https://github.com/LicoLand/LicoUp-CLI.git,"Lico Agent adapter package: the stdio JSONL RPC protocol, its session identity and its plan layout"
+2026-11-11T13:35:11.172744Z,licoup-agent-pi,0.3.1,0,0,https://github.com/LicoLand/LicoUp-CLI.git,"Pi adapter package: the Pi RPC driver, its process half and its vendor protocol"
+2026-11-11T13:36:35.851317Z,ninge-core,0.1.0,0,0,https://github.com/devgyurak/ninge,"Dual-screen handheld emulator core: pure logic, no IO"
+2026-11-11T13:36:37.666384Z,ninge,0.1.0,0,0,https://github.com/devgyurak/ninge,Terminal-native dual-screen handheld emulator
+2026-11-11T13:36:58.041735Z,docs-proof,0.1.0,0,0,https://github.com/WyattAu/docs-proof,"Lean proof certificates for docs sites: versioned record (theorem, source hash, toolchain, kernel result) with a verifier that flags stale sources or toolchains. Zero Lean linkage. docs-core extensio…"
+2026-11-11T13:39:24.499639Z,kittychart-ratatui,0.1.2,0,0,https://github.com/CoreyKaylor/KittyChart,A ratatui widget for KittyChart: Chart.js charts as kitty graphics (Unicode placeholders) or text cells
+2026-11-11T13:39:26.980469Z,syringe-rs,0.1.0,0,0,https://github.com/deimos-developers/syringe-rs,"A 32-bit Windows DLL injector and runtime hook loader, ported from SyringeEx"
+2026-11-11T13:40:33.471587Z,fontoxide-merge,0.1.0,0,0,https://github.com/MuTsunTsai/fontoxide,Merging fonts into one; a port of fontTools.merge
+2026-11-11T13:41:03.450201Z,relate-engine-api,0.0.1,0,0,https://github.com/relatedb/relate,"Placeholder for relate-engine-api, part of the Relate embedded openCypher graph engine. The first real release is coming soon; this empty crate only claims the name."
+2026-11-11T13:41:43.894059Z,bevy_birdwatch,0.0.0,0,0,,"Drive a Bevy game frame by frame without a window, for tests and agents. This version is a placeholder; the first release is 0.1.0."
+2026-11-11T13:42:33.305848Z,tierkey-core,0.1.0,0,0,https://github.com/pokedotdev/tierkey,Shared types for the tierkey CLI and key server
+2026-11-11T13:42:35.1726Z,tierkey,0.1.0,0,0,https://github.com/pokedotdev/tierkey,"Secrets in git with SOPS + age, unlocked by level keys from a Tailscale-only key server"
+2026-11-11T13:43:54.835331Z,iu2u,0.1.0,0,0,https://github.com/falcosan/iu2u,"Decision-model powers for coding agents: any decision model, local or hosted, as MCP tools and hooks"
+2026-11-11T13:44:59.5143Z,deimos-rs,0.1.0,0,0,https://github.com/deimos-developers/deimos,A Rust extension platform for Yuri's Revenge
+2026-11-11T13:46:32.312906Z,licoup-agent-antigravity,0.3.1,0,0,https://github.com/LicoLand/LicoUp-CLI.git,"Antigravity adapter package: the Antigravity CLI driver, its Agent Hooks receipt and its PTY protocol"
+2026-11-11T13:47:25.186526Z,pandrosion608-robotics,0.608.0,0,0,,"Standalone, dependency-free real robotics solver: bounded inverse kinematics, warm-started tracking, bounded least squares, restarts, continuation and periodic bound release"
+2026-11-11T13:48:55.448941Z,cargo-c1,0.1.0,0,0,https://github.com/okkmnone/cargo-c1,A tiny crate that provides a simple command as an alternative to cargo clean.
+2026-11-11T13:50:33.421079Z,fontoxide-otllib,0.1.0,0,0,https://github.com/MuTsunTsai/fontoxide,Building OpenType Layout tables; a port of fontTools.otlLib
+2026-11-11T13:51:11.084892Z,relate-executor,0.0.1,0,0,https://github.com/relatedb/relate,"Placeholder for relate-executor, part of the Relate embedded openCypher graph engine. The first real release is coming soon; this empty crate only claims the name."
+2026-11-11T13:57:37.266351Z,licoup-agent-claude-code,0.3.1,0,0,https://github.com/LicoLand/LicoUp-CLI.git,Claude Code adapter package: the Claude Code CLI stream-json protocol and its parser
+2026-11-11T14:00:31.959136Z,fontoxide-qu2cu,0.1.0,0,0,https://github.com/MuTsunTsai/fontoxide,Quadratic to cubic curve conversion; a port of fontTools.qu2cu
+2026-11-11T14:01:17.988032Z,relate-storage,0.0.1,0,0,https://github.com/relatedb/relate,"Placeholder for relate-storage, part of the Relate embedded openCypher graph engine. The first real release is coming soon; this empty crate only claims the name."
+2026-11-11T14:07:01.708274Z,mcmap-util,0.1.0,0,0,,"Minecraft Java Edition world toolkit: NBT, Anvil regions, chunks, level.dat, players, map rendering and seed-based world generation."
+2026-11-11T14:10:40.454997Z,fontoxide-t1lib,0.1.0,0,0,https://github.com/MuTsunTsai/fontoxide,Reading and writing PostScript Type 1 fonts; a port of fontTools.t1Lib
+2026-11-11T14:11:25.485358Z,relate-write-local,0.0.1,0,0,https://github.com/relatedb/relate,"Placeholder for relate-write-local, part of the Relate embedded openCypher graph engine. The first real release is coming soon; this empty crate only claims the name."
+2026-11-11T14:12:33.101281Z,mc-mappings,0.1.0,0,0,https://github.com/Sol1de/mc-mappings,Minecraft runtime mapping table model and JSON format
+2026-11-11T14:14:31.588333Z,mcxe,0.0.1-alpha,0,0,https://github.com/sebbge/mcxe,Download and launch Minecraft: Java Edition effortlessly
+2026-11-11T14:17:53.725396Z,ironflux-entities,0.1.0,0,0,https://gitlab.com/ThomasTartrau/ironflux,"Domain types of ironflux: ids, statuses, runs, steps. Internal crate of ironflux, no semver guarantee."
+2026-11-11T14:17:54.593206Z,ironflux-sdk,0.1.0,0,0,https://gitlab.com/ThomasTartrau/ironflux,"Write ironflux workflows in Rust: the Workflow trait, Shell, Agent and custom operations."
+2026-11-11T14:17:56.731715Z,ironflux-k8s,0.1.0,0,0,https://gitlab.com/ThomasTartrau/ironflux,"Kubernetes pods of ironflux steps. Internal crate of ironflux, no semver guarantee."
+2026-11-11T14:17:57.57753Z,ironflux-repositories,0.1.0,0,0,https://gitlab.com/ThomasTartrau/ironflux,"Postgres repositories and migrations of ironflux. Internal crate of ironflux, no semver guarantee."
+2026-11-11T14:17:59.955626Z,ironflux-services,0.1.0,0,0,https://gitlab.com/ThomasTartrau/ironflux,"Business services of ironflux. Internal crate of ironflux, no semver guarantee."
+2026-11-11T14:19:46.070057Z,ghost-workflow,0.1.0,0,0,https://github.com/Shreyas-a-j/ghost,"Generate a lean, project-level OpenCode workflow"
