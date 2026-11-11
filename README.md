@@ -8,42 +8,53 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-11 00:20 UTC
+## Latest list — 2026-11-11 01:20 UTC
 
-New crates published between 2026-11-10 23:20 UTC and 2026-11-11 00:20 UTC.
+New crates published between 2026-11-11 00:20 UTC and 2026-11-11 01:20 UTC.
 
-[Full CSV](data/new-crates-2026-11-11T00-20-35-473349Z.csv)
+[Full CSV](data/new-crates-2026-11-11T01-20-00-972418Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-10 23:22:26 | [lumen-cluster](https://crates.io/crates/lumen-cluster) | 0.1.0 | 0 | A tsvdb replicated by Raft: writes go through the leader's log, every node appl… |
-| 2026-11-10 23:23:40 | [rust-widgets-cli](https://crates.io/crates/rust-widgets-cli) | 4.2.0 | 0 | `rwui`: the rust_widgets designer CLI — check a project bundle, generate Rust f… |
-| 2026-11-10 23:25:27 | [firmware-analysis-toolkit](https://crates.io/crates/firmware-analysis-toolkit) | 2.1.0 | 0 | FAT — command-line firmware analysis toolkit |
-| 2026-11-10 23:28:53 | [monospace](https://crates.io/crates/monospace) | 0.1.0 | 0 | The interactive full-screen terminal application: the chrome around a diagram b… |
-| 2026-11-10 23:31:48 | [particle-traits](https://crates.io/crates/particle-traits) | 0.1.1 | 0 | Core traits for the particle component system. |
-| 2026-11-10 23:32:07 | [lumen-bench](https://crates.io/crates/lumen-bench) | 0.1.0 | 0 | CLI: generate pcaps, ingest pcap into tsvdb, run queries and KV benchmarks |
-| 2026-11-10 23:38:41 | [sciencekit_common](https://crates.io/crates/sciencekit_common) | 0.1.0 | 0 | Core traits, types and errors shared across the sciencekit sub-crates. |
-| 2026-11-10 23:39:25 | [monospace-cli](https://crates.io/crates/monospace-cli) | 0.1.0 | 0 | Minimal non-interactive command-line application for rendering ASCII diagrams |
-| 2026-11-10 23:39:54 | [sciencekit_math](https://crates.io/crates/sciencekit_math) | 0.1.0 | 0 | Computational kernels and the BLAS/LAPACK interface for sciencekit: pairwise di… |
-| 2026-11-10 23:41:07 | [sciencekit_metrics](https://crates.io/crates/sciencekit_metrics) | 0.1.0 | 0 | Evaluation metrics and streaming accumulators for sciencekit: classification an… |
-| 2026-11-10 23:42:20 | [sciencekit_preprocessing](https://crates.io/crates/sciencekit_preprocessing) | 0.1.0 | 0 | Scaling, encoding and feature-expansion transformers for sciencekit. |
-| 2026-11-10 23:43:33 | [sciencekit_impute](https://crates.io/crates/sciencekit_impute) | 0.1.0 | 0 | Missing-data imputers for sciencekit (simple strategies, indicator, k-NN). |
-| 2026-11-10 23:43:43 | [tuidoc](https://crates.io/crates/tuidoc) | 0.1.0 | 0 | A terminal viewer and editor for Word documents, with vim-style keys |
-| 2026-11-10 23:44:46 | [sciencekit_linear_model](https://crates.io/crates/sciencekit_linear_model) | 0.1.0 | 0 | Linear, regularized, logistic and stochastic-gradient models for sciencekit. |
-| 2026-11-10 23:54:29 | [type-identical](https://crates.io/crates/type-identical) | 0.1.0 | 0 | Traits for type identity. |
-| 2026-11-11 00:00:00 | [easyfix-core](https://crates.io/crates/easyfix-core) | 0.20.0 | 0 | Easy FIX (Financial Information Exchange) toolset - core types. |
-| 2026-11-11 00:02:19 | [rvifm](https://crates.io/crates/rvifm) | 0.1.0-alpha.1 | 0 | Vim-style TUI file manager written in Rust; references vifm's interaction model… |
-| 2026-11-11 00:05:28 | [signal-generator](https://crates.io/crates/signal-generator) | 0.1.0 | 0 | High-performance synthetic signal and waveform generator in Rust: sine, square,… |
-| 2026-11-11 00:05:51 | [ask-modulator](https://crates.io/crates/ask-modulator) | 0.1.0 | 0 | High-performance digital Amplitude Shift Keying (ASK) and On-Off Keying (OOK) b… |
-| 2026-11-11 00:06:18 | [fsk-modulator](https://crates.io/crates/fsk-modulator) | 0.1.0 | 0 | High-performance digital Frequency Shift Keying (FSK) and CPFSK baseband I/Q mo… |
-| 2026-11-11 00:06:39 | [psk-modulator](https://crates.io/crates/psk-modulator) | 0.1.0 | 0 | High-performance digital Phase Shift Keying (BPSK, QPSK) baseband I/Q modulator… |
-| 2026-11-11 00:07:05 | [fno-mail](https://crates.io/crates/fno-mail) | 0.4.8 | 0 | The fno mail protocol: envelope, bus log, address forms, delivery states, the l… |
-| 2026-11-11 00:07:17 | [cw-modulator](https://crates.io/crates/cw-modulator) | 0.1.0 | 0 | High-performance International Morse Code (CW / Continuous Wave) generator and… |
-| 2026-11-11 00:09:50 | [zugferd-rs](https://crates.io/crates/zugferd-rs) | 0.2.1 | 0 | Pure-Rust ZUGFeRD 2.x / Factur-X + XRechnung e-invoice library — generate, embe… |
-| 2026-11-11 00:12:08 | [pulsify-protocol](https://crates.io/crates/pulsify-protocol) | 6.0.0 | 0 | Pulsify binary protocol (envelopes 1 and 2), version vectors and an opaque patc… |
-| 2026-11-11 00:12:15 | [pulsify-sqlite](https://crates.io/crates/pulsify-sqlite) | 6.0.0 | 0 | Pulsify SQLite patch store and frame relay, file-compatible with the TypeScript… |
-| 2026-11-11 00:12:28 | [tauri-plugin-pulsify](https://crates.io/crates/tauri-plugin-pulsify) | 6.0.0 | 0 | Tauri 2 plugin persisting Pulsify documents in a local SQLite database |
-| 2026-11-11 00:19:15 | [broadside-mcp](https://crates.io/crates/broadside-mcp) | 1.0.0 | 0 | Deterministic build, verify, and deploy MCP server for qompass.ai: signed JWKS… |
+| 2026-11-11 00:21:55 | [cua-daemon-core](https://crates.io/crates/cua-daemon-core) | 0.23.0 | 0 | The cua SDK runtime (sandboxes, local runtimes, pools, shares) and the typed da… |
+| 2026-11-11 00:33:39 | [nitinol-contract](https://crates.io/crates/nitinol-contract) | 0.6.0 | 0 | Runtime-free contract traits between nitinol and downstream domain code |
+| 2026-11-11 00:33:41 | [nitinol-runtime](https://crates.io/crates/nitinol-runtime) | 0.6.0 | 0 | A utilities for event sourcing |
+| 2026-11-11 00:33:43 | [nitinol-persistence](https://crates.io/crates/nitinol-persistence) | 0.6.0 | 0 | Persistence abstractions for nitinol event sourcing |
+| 2026-11-11 00:33:46 | [nitinol-conformance](https://crates.io/crates/nitinol-conformance) | 0.6.0 | 0 | Executable conformance suite for the laws any interpreter of the nitinol contra… |
+| 2026-11-11 00:33:47 | [nitinol-eventsource](https://crates.io/crates/nitinol-eventsource) | 0.6.0 | 0 | Event sourcing runtime for nitinol: interprets the aggregate contract |
+| 2026-11-11 00:34:51 | [synthazia-hardware](https://crates.io/crates/synthazia-hardware) | 0.0.3 | 0 | Hardware synthesizer profiles: named parameters of external synths mapped to MI… |
+| 2026-11-11 00:37:36 | [liteinst-aarch64](https://crates.io/crates/liteinst-aarch64) | 0.2.0 | 0 | Shared descriptive AArch64 decode and selected-operand facts |
+| 2026-11-11 00:37:54 | [nitinol-macros](https://crates.io/crates/nitinol-macros) | 0.6.0 | 0 | Derive macros for nitinol event sourcing |
+| 2026-11-11 00:38:45 | [liteinst-aarch64-patch](https://crates.io/crates/liteinst-aarch64-patch) | 0.1.0 | 0 | Stopped-executor runtime patching over liteinst-aarch64 facts |
+| 2026-11-11 00:38:51 | [sew-mls-crypto](https://crates.io/crates/sew-mls-crypto) | 0.9.0 | 0 | An OpenMLS crypto provider on permissive crates only: openmls_traits' OpenMlsCr… |
+| 2026-11-11 00:40:54 | [sew-e2ee](https://crates.io/crates/sew-e2ee) | 0.9.0 | 0 | The client library for end-to-end encrypted Sew calls: MLS (openmls) per call,… |
+| 2026-11-11 00:41:24 | [reverie-liteinst-artifact](https://crates.io/crates/reverie-liteinst-artifact) | 0.5.6 | 0 | Host-only qualification of Reverie LiteInst artifacts |
+| 2026-11-11 00:46:02 | [stripe-poke](https://crates.io/crates/stripe-poke) | 0.1.1 | 0 | Treat Stripe webhooks as pokes: verify, re-fetch from Stripe, and deliver the d… |
+| 2026-11-11 00:50:32 | [cuobject-sys](https://crates.io/crates/cuobject-sys) | 0.1.0 | 0 | Raw FFI bindings to NVIDIA's cuObject server and client libraries (libcuobjserv… |
+| 2026-11-11 00:52:44 | [tree-sitter-menhir](https://crates.io/crates/tree-sitter-menhir) | 0.6.1 | 0 | Menhir grammar for tree-sitter with OCaml language injection |
+| 2026-11-11 00:52:58 | [Cityesengine](https://crates.io/crates/Cityesengine) | 0.1.0 | 0 | Simple city/factory build, game engine |
+| 2026-11-11 00:57:01 | [cuobject](https://crates.io/crates/cuobject) | 0.1.0 | 0 | Safe Rust bindings to NVIDIA's cuObject server and client libraries for S3-over… |
+| 2026-11-11 00:57:19 | [bitwig-mcp-rs](https://crates.io/crates/bitwig-mcp-rs) | 0.1.0 | 0 | Rust MCP server that controls Bitwig Studio over OSC (DrivenByMoss) |
+| 2026-11-11 00:58:57 | [aureole-webview](https://crates.io/crates/aureole-webview) | 0.0.1-beta.3 | 0 | Aureole 的网页视图：内嵌 CEF 内核，网页画进纹理，当成普通元素合成（试验性） |
+| 2026-11-11 01:00:12 | [tamias-registry-open](https://crates.io/crates/tamias-registry-open) | 0.1.4 | 0 | shared registry-source layer — name-or-ref resolution + named-source config CRUD |
+| 2026-11-11 01:00:13 | [nitinol-store-conformance](https://crates.io/crates/nitinol-store-conformance) | 0.6.0 | 0 | Executable conformance suites for the contracts any nitinol EventStore, Snapsho… |
+| 2026-11-11 01:00:17 | [tamias-source-registry](https://crates.io/crates/tamias-source-registry) | 0.1.4 | 0 | Registry-scoped install refs — the `<registry>:<name>[@<version>]` ref arm |
+| 2026-11-11 01:00:20 | [nitinol-sqlx](https://crates.io/crates/nitinol-sqlx) | 0.6.0 | 0 | sqlx-backed EventStore provider for nitinol |
+| 2026-11-11 01:00:28 | [tamias-sign](https://crates.io/crates/tamias-sign) | 0.1.4 | 0 | Package signing — ssh-keygen -Y sign/verify (namespace tamias-package) over the… |
+| 2026-11-11 01:00:49 | [tamias-install](https://crates.io/crates/tamias-install) | 0.1.4 | 0 | The shared install pipeline — ref → fetch/cache → manifest → driver dispatch →… |
+| 2026-11-11 01:01:00 | [tamias-deploy-launchd](https://crates.io/crates/tamias-deploy-launchd) | 0.1.4 | 0 | macos deploy impl — manage a per-user launchd agent (LaunchAgents plist + launc… |
+| 2026-11-11 01:01:47 | [dpc-tau-template](https://crates.io/crates/dpc-tau-template) | 0.1.0 | 0 | Shared strict template rendering and identity helpers for Tau extensions. |
+| 2026-11-11 01:05:14 | [reallyme-zk-artifacts](https://crates.io/crates/reallyme-zk-artifacts) | 0.3.0 | 0 | ReallyMe ZK artifact manifest validation and hash-pinned artifact metadata. |
+| 2026-11-11 01:05:17 | [reallyme-zk-proto](https://crates.io/crates/reallyme-zk-proto) | 0.3.0 | 0 | ReallyMe ZK protobuf contracts generated with Buffa. |
+| 2026-11-11 01:06:48 | [pod-hold](https://crates.io/crates/pod-hold) | 0.0.0 | 0 | Hold a payload to one egress for PodUtils tools |
+| 2026-11-11 01:07:15 | [tamias-deploy-windows](https://crates.io/crates/tamias-deploy-windows) | 0.1.4 | 0 | windows deploy impl — manage a per-user scheduled task (Task Scheduler via scht… |
+| 2026-11-11 01:10:18 | [xfce-panel-macros](https://crates.io/crates/xfce-panel-macros) | 0.1.0 | 0 | Attribute macro declaring xfconf-backed glib settings objects (xfce-panel) |
+| 2026-11-11 01:10:19 | [xfce-panel-sys](https://crates.io/crates/xfce-panel-sys) | 0.1.0 | 0 | FFI bindings to the libxfce4panel 2.0 plugin API (xfce4-panel) |
+| 2026-11-11 01:10:21 | [xfce-panel](https://crates.io/crates/xfce-panel) | 0.1.0 | 0 | Safe Rust API to write xfce4-panel plugins (trait + macro, on top of xfce-panel… |
+| 2026-11-11 01:11:04 | [nitinol-saga](https://crates.io/crates/nitinol-saga) | 0.6.0 | 0 | Event-sourced process manager (Saga) for nitinol |
+| 2026-11-11 01:12:28 | [trimensional](https://crates.io/crates/trimensional) | 0.0.0 | 0 | Trimensional API client |
+| 2026-11-11 01:16:59 | [pod-dockerapi](https://crates.io/crates/pod-dockerapi) | 0.0.0 | 0 | Docker Engine API subset over podvm, one socket for each job |
+| 2026-11-11 01:19:07 | [tamias-deploy-systemd](https://crates.io/crates/tamias-deploy-systemd) | 0.1.4 | 0 | systemd deploy impl — manage a per-user service unit (Linux) |
 
 ## Data source
 

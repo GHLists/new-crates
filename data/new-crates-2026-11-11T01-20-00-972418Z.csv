@@ -1,0 +1,40 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-11T00:21:55.03549Z,cua-daemon-core,0.23.0,0,0,https://github.com/trycua/cua,"The cua SDK runtime (sandboxes, local runtimes, pools, shares) and the typed daemon client: everything of cua-daemon except the daemon server."
+2026-11-11T00:33:39.756564Z,nitinol-contract,0.6.0,0,0,https://github.com/HalsekiRaika/nitinol,Runtime-free contract traits between nitinol and downstream domain code
+2026-11-11T00:33:41.329087Z,nitinol-runtime,0.6.0,0,0,https://github.com/HalsekiRaika/nitinol,A utilities for event sourcing
+2026-11-11T00:33:43.955458Z,nitinol-persistence,0.6.0,0,0,https://github.com/HalsekiRaika/nitinol,Persistence abstractions for nitinol event sourcing
+2026-11-11T00:33:46.288753Z,nitinol-conformance,0.6.0,0,0,https://github.com/HalsekiRaika/nitinol,Executable conformance suite for the laws any interpreter of the nitinol contract owes
+2026-11-11T00:33:47.998042Z,nitinol-eventsource,0.6.0,0,0,https://github.com/HalsekiRaika/nitinol,Event sourcing runtime for nitinol: interprets the aggregate contract
+2026-11-11T00:34:51.615788Z,synthazia-hardware,0.0.3,0,0,https://github.com/sorinirimies/synthazia,"Hardware synthesizer profiles: named parameters of external synths mapped to MIDI CC, 14-bit CC, NRPN, pitch bend and program change, with built-in Behringer profiles"
+2026-11-11T00:37:36.648742Z,liteinst-aarch64,0.2.0,0,0,https://github.com/rrnewton/liteinst2,Shared descriptive AArch64 decode and selected-operand facts
+2026-11-11T00:37:54.661703Z,nitinol-macros,0.6.0,0,0,https://github.com/HalsekiRaika/nitinol,Derive macros for nitinol event sourcing
+2026-11-11T00:38:45.085473Z,liteinst-aarch64-patch,0.1.0,0,0,https://github.com/rrnewton/liteinst2,Stopped-executor runtime patching over liteinst-aarch64 facts
+2026-11-11T00:38:51.992097Z,sew-mls-crypto,0.9.0,0,0,https://github.com/Alakazam-211/sew-crates,"An OpenMLS crypto provider on permissive crates only: openmls_traits' OpenMlsCrypto and OpenMlsRand over RustCrypto, with HPKE (RFC 9180) through the `hpke` crate (MIT OR Apache-2.0) instead of the M…"
+2026-11-11T00:40:54.790293Z,sew-e2ee,0.9.0,0,0,https://github.com/Alakazam-211/sew-crates,"The client library for end-to-end encrypted Sew calls: MLS (openmls) per call, per-sender frame keys, the 64-slot ring and the two-phase switch, recovery, the recorder key handoff, and the key-provid…"
+2026-11-11T00:41:24.292546Z,reverie-liteinst-artifact,0.5.6,0,0,https://github.com/facebookexperimental/reverie,Host-only qualification of Reverie LiteInst artifacts
+2026-11-11T00:46:02.526504Z,stripe-poke,0.1.1,0,0,https://github.com/tissue-systems/stripe-poke,"Treat Stripe webhooks as pokes: verify, re-fetch from Stripe, and deliver the derived state through a durable outbox"
+2026-11-11T00:50:32.443607Z,cuobject-sys,0.1.0,0,0,https://github.com/rainj-me/cuobject-sys,"Raw FFI bindings to NVIDIA's cuObject server and client libraries (libcuobjserver, libcuobjclient) for S3-over-RDMA"
+2026-11-11T00:52:44.59729Z,tree-sitter-menhir,0.6.1,0,0,https://github.com/Kerl13/tree-sitter-menhir,Menhir grammar for tree-sitter with OCaml language injection
+2026-11-11T00:52:58.847064Z,Cityesengine,0.1.0,0,0,https://github.com/BogdanUser404/Cityengine,"Simple city/factory build, game engine"
+2026-11-11T00:57:01.696938Z,cuobject,0.1.0,0,0,https://github.com/rainj-me/cuobject,Safe Rust bindings to NVIDIA's cuObject server and client libraries for S3-over-RDMA (GPUDirect object loading)
+2026-11-11T00:57:19.261628Z,bitwig-mcp-rs,0.1.0,0,0,https://github.com/sorinirimies/bitwig-mcp-rs,Rust MCP server that controls Bitwig Studio over OSC (DrivenByMoss)
+2026-11-11T00:58:57.824051Z,aureole-webview,0.0.1-beta.3,0,0,https://github.com/ruoyu-lab/aureole,Aureole 的网页视图：内嵌 CEF 内核，网页画进纹理，当成普通元素合成（试验性）
+2026-11-11T01:00:12.983882Z,tamias-registry-open,0.1.4,0,0,https://github.com/9aia/tamias,shared registry-source layer — name-or-ref resolution + named-source config CRUD
+2026-11-11T01:00:13.556491Z,nitinol-store-conformance,0.6.0,0,0,https://github.com/HalsekiRaika/nitinol,"Executable conformance suites for the contracts any nitinol EventStore, SnapshotStore and OffsetStore owes"
+2026-11-11T01:00:17.173877Z,tamias-source-registry,0.1.4,0,0,https://github.com/9aia/tamias,Registry-scoped install refs — the `<registry>:<name>[@<version>]` ref arm
+2026-11-11T01:00:20.862109Z,nitinol-sqlx,0.6.0,0,0,https://github.com/HalsekiRaika/nitinol,sqlx-backed EventStore provider for nitinol
+2026-11-11T01:00:28.77016Z,tamias-sign,0.1.4,0,0,https://github.com/9aia/tamias,Package signing — ssh-keygen -Y sign/verify (namespace tamias-package) over the provenance anchors
+2026-11-11T01:00:49.56515Z,tamias-install,0.1.4,0,0,https://github.com/9aia/tamias,The shared install pipeline — ref → fetch/cache → manifest → driver dispatch → store commit
+2026-11-11T01:01:00.074614Z,tamias-deploy-launchd,0.1.4,0,0,https://github.com/9aia/tamias,macos deploy impl — manage a per-user launchd agent (LaunchAgents plist + launchctl)
+2026-11-11T01:01:47.67957Z,dpc-tau-template,0.1.0,0,0,https://github.com/dpc/tau,Shared strict template rendering and identity helpers for Tau extensions.
+2026-11-11T01:05:14.823752Z,reallyme-zk-artifacts,0.3.0,0,0,https://github.com/reallyme/zk,ReallyMe ZK artifact manifest validation and hash-pinned artifact metadata.
+2026-11-11T01:05:17.151202Z,reallyme-zk-proto,0.3.0,0,0,https://github.com/reallyme/zk,ReallyMe ZK protobuf contracts generated with Buffa.
+2026-11-11T01:06:48.249339Z,pod-hold,0.0.0,0,0,https://github.com/PodUtils/podcrates,Hold a payload to one egress for PodUtils tools
+2026-11-11T01:07:15.823703Z,tamias-deploy-windows,0.1.4,0,0,https://github.com/9aia/tamias,windows deploy impl — manage a per-user scheduled task (Task Scheduler via schtasks.exe)
+2026-11-11T01:10:18.809379Z,xfce-panel-macros,0.1.0,0,0,https://github.com/d3v2a/xfce-panel-plugin-rs,Attribute macro declaring xfconf-backed glib settings objects (xfce-panel)
+2026-11-11T01:10:19.294951Z,xfce-panel-sys,0.1.0,0,0,https://github.com/d3v2a/xfce-panel-plugin-rs,FFI bindings to the libxfce4panel 2.0 plugin API (xfce4-panel)
+2026-11-11T01:10:21.197725Z,xfce-panel,0.1.0,0,0,https://github.com/d3v2a/xfce-panel-plugin-rs,"Safe Rust API to write xfce4-panel plugins (trait + macro, on top of xfce-panel-sys)"
+2026-11-11T01:11:04.788112Z,nitinol-saga,0.6.0,0,0,https://github.com/HalsekiRaika/nitinol,Event-sourced process manager (Saga) for nitinol
+2026-11-11T01:12:28.486092Z,trimensional,0.0.0,0,0,,Trimensional API client
+2026-11-11T01:16:59.259882Z,pod-dockerapi,0.0.0,0,0,https://github.com/PodUtils/podcrates,"Docker Engine API subset over podvm, one socket for each job"
+2026-11-11T01:19:07.628043Z,tamias-deploy-systemd,0.1.4,0,0,https://github.com/9aia/tamias,systemd deploy impl — manage a per-user service unit (Linux)
