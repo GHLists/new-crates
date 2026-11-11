@@ -8,30 +8,53 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-11 04:19 UTC
+## Latest list — 2026-11-11 05:19 UTC
 
-New crates published between 2026-11-11 03:20 UTC and 2026-11-11 04:19 UTC.
+New crates published between 2026-11-11 04:19 UTC and 2026-11-11 05:19 UTC.
 
-[Full CSV](data/new-crates-2026-11-11T04-19-13-079242Z.csv)
+[Full CSV](data/new-crates-2026-11-11T05-19-13-031847Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-11 03:20:38 | [rawrchive](https://crates.io/crates/rawrchive) | 0.0.1 | 0 | A pure Rust RAR5 extractor |
-| 2026-11-11 03:23:08 | [tree-sitter-tsql](https://crates.io/crates/tree-sitter-tsql) | 0.1.0 | 0 | MIT-licensed T-SQL (SQL Server, Azure SQL) grammar for tree-sitter |
-| 2026-11-11 03:28:13 | [jazyk](https://crates.io/crates/jazyk) | 0.2.2 | 0 | A natural language compiler with a persistent semantic graph |
-| 2026-11-11 03:28:57 | [zakura-tor-cert-x509](https://crates.io/crates/zakura-tor-cert-x509) | 0.0.0 | 0 | Reserved |
-| 2026-11-11 03:29:52 | [docs-search](https://crates.io/crates/docs-search) | 0.1.0 | 0 | Client-side search index for docs sites: FST term dictionary with roaring-bitma… |
-| 2026-11-11 03:30:04 | [docs-witness](https://crates.io/crates/docs-witness) | 0.1.0 | 0 | Deterministic WASI snippet execution witnesses for docs sites: fresh wasmtime i… |
-| 2026-11-11 03:36:08 | [carbondb-service-bindings](https://crates.io/crates/carbondb-service-bindings) | 0.1.0 | 0 | ServiceBindings: the toolkit a Rust CarbonDB service builds with, its API footp… |
-| 2026-11-11 03:36:10 | [carbondb](https://crates.io/crates/carbondb) | 0.1.0 | 0 | CarbonDB: spaces on SQLite, its builtin services, and the one path every call t… |
-| 2026-11-11 03:39:42 | [digimcp](https://crates.io/crates/digimcp) | 0.1.0 | 0 | What's due, attendance, grades, materials, and agentic submissions — MCP server… |
-| 2026-11-11 03:40:00 | [zakura-tor-chanmgr](https://crates.io/crates/zakura-tor-chanmgr) | 0.0.0 | 0 | Reserved |
-| 2026-11-11 03:42:53 | [burnout-wim](https://crates.io/crates/burnout-wim) | 2.2.0 | 0 | Reads the WIM and ESD images of Windows: the header and the list of editions. B… |
-| 2026-11-11 03:46:09 | [ttyr](https://crates.io/crates/ttyr) | 0.1.0 | 0 | Terminal input, output and raw mode for Rust, with the full kitty keyboard prot… |
-| 2026-11-11 03:51:02 | [zakura-tor-checkable](https://crates.io/crates/zakura-tor-checkable) | 0.0.0 | 0 | Reserved |
-| 2026-11-11 03:56:37 | [docs-symbols](https://crates.io/crates/docs-symbols) | 0.1.0 | 0 | Symbol-anchored source extraction for docs sites: resolve a symbol path through… |
-| 2026-11-11 04:02:05 | [zakura-tor-circmgr](https://crates.io/crates/zakura-tor-circmgr) | 0.0.0 | 0 | Reserved |
-| 2026-11-11 04:13:07 | [zakura-tor-config](https://crates.io/crates/zakura-tor-config) | 0.0.0 | 0 | Reserved |
+| 2026-11-11 04:24:10 | [zakura-tor-config-path](https://crates.io/crates/zakura-tor-config-path) | 0.0.0 | 0 | Reserved |
+| 2026-11-11 04:30:47 | [rexi-core](https://crates.io/crates/rexi-core) | 0.3.0 | 0 | Dependency-free EXI (Efficient XML Interchange) codec core: bit I/O, datatypes,… |
+| 2026-11-11 04:30:48 | [rexi-schema](https://crates.io/crates/rexi-schema) | 0.3.0 | 0 | XSD to EXI schema-informed grammar compiler |
+| 2026-11-11 04:30:50 | [rexi-schema-gen](https://crates.io/crates/rexi-schema-gen) | 0.3.0 | 0 | Generates static Rust grammar tables from XSD (gSOAP-style codegen) |
+| 2026-11-11 04:30:51 | [rexi-xml](https://crates.io/crates/rexi-xml) | 0.3.0 | 0 | XML <-> EXI event front-end and the rexi command line tool |
+| 2026-11-11 04:30:52 | [rexi-serde](https://crates.io/crates/rexi-serde) | 0.3.0 | 0 | Serde Serializer/Deserializer over the strict schema-informed EXI codec |
+| 2026-11-11 04:32:19 | [rs-legibility-lints](https://crates.io/crates/rs-legibility-lints) | 0.0.1 | 0 | Rust legibility rules for Dylint |
+| 2026-11-11 04:35:13 | [zakura-tor-consdiff](https://crates.io/crates/zakura-tor-consdiff) | 0.0.0 | 0 | Reserved |
+| 2026-11-11 04:40:19 | [rusto-nn-cuda](https://crates.io/crates/rusto-nn-cuda) | 0.4.0 | 0 | Pluggable NVIDIA CUDA hardware acceleration backend for rusto-nn |
+| 2026-11-11 04:42:44 | [teaql-http-reqwest](https://crates.io/crates/teaql-http-reqwest) | 6.0.0 | 0 | Controlled Reqwest HTTP provider for TeaQL runtime |
+| 2026-11-11 04:43:33 | [teaql-object-storage-s3](https://crates.io/crates/teaql-object-storage-s3) | 6.0.0 | 0 | S3-compatible provider for context-owned TeaQL object storage |
+| 2026-11-11 04:46:08 | [sigis](https://crates.io/crates/sigis) | 0.0.1 | 0 | Signature Integrity Service: open-source PDF signing and verification |
+| 2026-11-11 04:46:15 | [zakura-tor-dirclient](https://crates.io/crates/zakura-tor-dirclient) | 0.0.0 | 0 | Reserved |
+| 2026-11-11 04:46:41 | [folio](https://crates.io/crates/folio) | 0.0.0 | 0 | A new take on high-performance cross-platform UI frameworks. |
+| 2026-11-11 04:47:46 | [vespasian](https://crates.io/crates/vespasian) | 0.1.5 | 0 | The Weight Space Editing Assistant |
+| 2026-11-11 04:51:55 | [rubiks-cube](https://crates.io/crates/rubiks-cube) | 0.1.0 | 0 | A twisty puzzle library that supports human solving methods |
+| 2026-11-11 04:54:07 | [peabiru-core](https://crates.io/crates/peabiru-core) | 0.0.1 | 0 | Multimodal routing engine (street networks from OpenStreetMap, public transport… |
+| 2026-11-11 04:55:45 | [asc-abc](https://crates.io/crates/asc-abc) | 0.1.1 | 0 | Zero-copy, lazy ArkCompiler ABC (Panda file) reader primitives for asc-rs (head… |
+| 2026-11-11 04:55:47 | [asc-apk](https://crates.io/crates/asc-apk) | 0.1.1 | 0 | Memory-mapped APK access for asc-rs: central-directory scan, root-level DEX enu… |
+| 2026-11-11 04:55:48 | [asc-arkisa](https://crates.io/crates/asc-arkisa) | 0.1.1 | 0 | ArkCompiler dynamic (ECMAScript) bytecode opcode table, instruction formats and… |
+| 2026-11-11 04:55:49 | [asc-axml](https://crates.io/crates/asc-axml) | 0.1.1 | 0 | Android binary XML (AXML) decoder used by asc-rs to print AndroidManifest.xml. |
+| 2026-11-11 04:55:49 | [asc-dalvik](https://crates.io/crates/asc-dalvik) | 0.1.1 | 0 | Dalvik opcode table, instruction formats and operand decoding for asc-rs. |
+| 2026-11-11 04:57:10 | [envkeydiff](https://crates.io/crates/envkeydiff) | 0.1.0 | 0 | Compare the keys in a .env file with .env.example and report missing or unexpec… |
+| 2026-11-11 04:57:17 | [zakura-tor-dircommon](https://crates.io/crates/zakura-tor-dircommon) | 0.0.0 | 0 | Reserved |
+| 2026-11-11 04:59:01 | [zharness](https://crates.io/crates/zharness) | 0.1.1 | 0 | Caller-buffered tool composition and model lifecycle bridges for zcall |
+| 2026-11-11 05:03:15 | [loomkit](https://crates.io/crates/loomkit) | 0.18.0 | 0 | Install pinned embedded C units into a project |
+| 2026-11-11 05:05:24 | [asc-dex](https://crates.io/crates/asc-dex) | 0.1.1 | 0 | Zero-copy, lazy DEX parser primitives for asc-rs (headers, id tables, class dat… |
+| 2026-11-11 05:06:43 | [diagctl](https://crates.io/crates/diagctl) | 0.1.0 | 0 | Hermetic CLI that automates the tech-diagramming quality gate |
+| 2026-11-11 05:08:20 | [zakura-tor-dirmgr](https://crates.io/crates/zakura-tor-dirmgr) | 0.0.0 | 0 | Reserved |
+| 2026-11-11 05:08:51 | [wai-wasmq](https://crates.io/crates/wai-wasmq) | 0.1.0 | 0 | wasmQ: a deterministic, metered, receipted WebAssembly profile for hybrid quant… |
+| 2026-11-11 05:09:10 | [botness](https://crates.io/crates/botness) | 0.0.0 | 0 | Botness, a sandboxed AI coding agent for the terminal. This release only reserv… |
+| 2026-11-11 05:11:18 | [zmcpio](https://crates.io/crates/zmcpio) | 0.1.0 | 0 | Bounded, allocation-free, transport-independent MCP protocol primitives |
+| 2026-11-11 05:11:34 | [presolve](https://crates.io/crates/presolve) | 0.1.0 | 0 | Sparse presolve and postsolve for convex quadratic and conic optimization |
+| 2026-11-11 05:12:19 | [metafile-core](https://crates.io/crates/metafile-core) | 1.0.1 | 0 | Shared graphics types, renderer interfaces, diagnostics, and limits for metafil… |
+| 2026-11-11 05:13:27 | [metafile-dib](https://crates.io/crates/metafile-dib) | 1.0.1 | 0 | Bounded DIB decoding shared by metafile-rs format players |
+| 2026-11-11 05:14:54 | [metafile-svg](https://crates.io/crates/metafile-svg) | 1.0.1 | 0 | Deterministic, self-contained SVG renderer backend for metafile-rs |
+| 2026-11-11 05:15:40 | [asc-cache](https://crates.io/crates/asc-cache) | 0.1.1 | 0 | Inflated-DEX caches for asc-rs: an on-disk cache shared across processes and an… |
+| 2026-11-11 05:16:23 | [metafile-emfplus](https://crates.io/crates/metafile-emfplus) | 1.0.1 | 0 | EMF+ parsing, inspection, and renderer-independent playback for metafile-rs |
+| 2026-11-11 05:18:11 | [metafile-wmf](https://crates.io/crates/metafile-wmf) | 1.0.1 | 0 | WMF parsing, inspection, and renderer-independent playback for metafile-rs |
 
 ## Data source
 

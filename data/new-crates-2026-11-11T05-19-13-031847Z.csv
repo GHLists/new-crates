@@ -1,0 +1,40 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-11T04:24:10.423142Z,zakura-tor-config-path,0.0.0,0,0,https://github.com/zakura-core/zakura,Reserved
+2026-11-11T04:30:47.008745Z,rexi-core,0.3.0,0,0,https://github.com/nhenehan/rexi,"Dependency-free EXI (Efficient XML Interchange) codec core: bit I/O, datatypes, string tables, grammar runtime"
+2026-11-11T04:30:48.746624Z,rexi-schema,0.3.0,0,0,https://github.com/nhenehan/rexi,XSD to EXI schema-informed grammar compiler
+2026-11-11T04:30:50.734941Z,rexi-schema-gen,0.3.0,0,0,https://github.com/nhenehan/rexi,Generates static Rust grammar tables from XSD (gSOAP-style codegen)
+2026-11-11T04:30:51.470969Z,rexi-xml,0.3.0,0,0,https://github.com/nhenehan/rexi,XML <-> EXI event front-end and the rexi command line tool
+2026-11-11T04:30:52.225263Z,rexi-serde,0.3.0,0,0,https://github.com/nhenehan/rexi,Serde Serializer/Deserializer over the strict schema-informed EXI codec
+2026-11-11T04:32:19.367602Z,rs-legibility-lints,0.0.1,0,0,https://github.com/yowainwright/rs-legibility-lints,Rust legibility rules for Dylint
+2026-11-11T04:35:13.045032Z,zakura-tor-consdiff,0.0.0,0,0,https://github.com/zakura-core/zakura,Reserved
+2026-11-11T04:40:19.905129Z,rusto-nn-cuda,0.4.0,0,0,https://github.com/byrizki/rusto-rs,Pluggable NVIDIA CUDA hardware acceleration backend for rusto-nn
+2026-11-11T04:42:44.102411Z,teaql-http-reqwest,6.0.0,0,0,https://github.com/teaql/teaql-rs,Controlled Reqwest HTTP provider for TeaQL runtime
+2026-11-11T04:43:33.232195Z,teaql-object-storage-s3,6.0.0,0,0,https://github.com/teaql/teaql-rs,S3-compatible provider for context-owned TeaQL object storage
+2026-11-11T04:46:08.270078Z,sigis,0.0.1,0,0,https://github.com/kookyleo/sigis,Signature Integrity Service: open-source PDF signing and verification
+2026-11-11T04:46:15.596531Z,zakura-tor-dirclient,0.0.0,0,0,https://github.com/zakura-core/zakura,Reserved
+2026-11-11T04:46:41.162837Z,folio,0.0.0,0,0,https://github.com/shergin/folio,A new take on high-performance cross-platform UI frameworks.
+2026-11-11T04:47:46.518275Z,vespasian,0.1.5,0,0,https://github.com/chrisvoncsefalvay/vespasian,The Weight Space Editing Assistant
+2026-11-11T04:51:55.562375Z,rubiks-cube,0.1.0,0,0,https://github.com/Iurig/rubiks,A twisty puzzle library that supports human solving methods
+2026-11-11T04:54:07.433397Z,peabiru-core,0.0.1,0,0,https://github.com/StrategicProjects/peabiru-routing,"Multimodal routing engine (street networks from OpenStreetMap, public transport from GTFS): travel-time matrices and accessibility, without Java"
+2026-11-11T04:55:45.996612Z,asc-abc,0.1.1,0,0,https://github.com/Ylarod/asc-rs,"Zero-copy, lazy ArkCompiler ABC (Panda file) reader primitives for asc-rs (header, class index, regions, classes, methods, code, literal arrays, module records)."
+2026-11-11T04:55:47.456627Z,asc-apk,0.1.1,0,0,https://github.com/Ylarod/asc-rs,"Memory-mapped APK access for asc-rs: central-directory scan, root-level DEX enumeration and (cancellable) Deflate extraction."
+2026-11-11T04:55:48.322197Z,asc-arkisa,0.1.1,0,0,https://github.com/Ylarod/asc-rs,"ArkCompiler dynamic (ECMAScript) bytecode opcode table, instruction formats and operand decoding for asc-rs."
+2026-11-11T04:55:49.082247Z,asc-axml,0.1.1,0,0,https://github.com/Ylarod/asc-rs,Android binary XML (AXML) decoder used by asc-rs to print AndroidManifest.xml.
+2026-11-11T04:55:49.819831Z,asc-dalvik,0.1.1,0,0,https://github.com/Ylarod/asc-rs,"Dalvik opcode table, instruction formats and operand decoding for asc-rs."
+2026-11-11T04:57:10.394979Z,envkeydiff,0.1.0,0,0,https://github.com/PrinceAdvant/envkeydiff,Compare the keys in a .env file with .env.example and report missing or unexpected variables before a deploy.
+2026-11-11T04:57:17.811732Z,zakura-tor-dircommon,0.0.0,0,0,https://github.com/zakura-core/zakura,Reserved
+2026-11-11T04:59:01.537414Z,zharness,0.1.1,0,0,https://github.com/LIghtJUNction/zharness,Caller-buffered tool composition and model lifecycle bridges for zcall
+2026-11-11T05:03:15.28981Z,loomkit,0.18.0,0,0,https://github.com/Welkon/loom,Install pinned embedded C units into a project
+2026-11-11T05:05:24.402474Z,asc-dex,0.1.1,0,0,https://github.com/Ylarod/asc-rs,"Zero-copy, lazy DEX parser primitives for asc-rs (headers, id tables, class data, code items, encoded values, debug info, DEX041 containers)."
+2026-11-11T05:06:43.286768Z,diagctl,0.1.0,0,0,https://github.com/driftsys/diagctl,Hermetic CLI that automates the tech-diagramming quality gate
+2026-11-11T05:08:20.146726Z,zakura-tor-dirmgr,0.0.0,0,0,https://github.com/zakura-core/zakura,Reserved
+2026-11-11T05:08:51.556479Z,wai-wasmq,0.1.0,0,0,https://git.transaction.science/Transaction-Science/open-standards,"wasmQ: a deterministic, metered, receipted WebAssembly profile for hybrid quantum-classical programs. An OpenQASM 3 program and the WebAssembly its `extern` calls run travel in one content-addressed…"
+2026-11-11T05:09:10.284162Z,botness,0.0.0,0,0,,"Botness, a sandboxed AI coding agent for the terminal. This release only reserves the name."
+2026-11-11T05:11:18.656936Z,zmcpio,0.1.0,0,0,https://github.com/LIghtJUNction/zmcpio,"Bounded, allocation-free, transport-independent MCP protocol primitives"
+2026-11-11T05:11:34.556599Z,presolve,0.1.0,0,0,https://github.com/matteosantama/presolve,Sparse presolve and postsolve for convex quadratic and conic optimization
+2026-11-11T05:12:19.850334Z,metafile-core,1.0.1,0,0,https://github.com/Dantusaikamal/metafile-rs,"Shared graphics types, renderer interfaces, diagnostics, and limits for metafile-rs"
+2026-11-11T05:13:27.845452Z,metafile-dib,1.0.1,0,0,https://github.com/Dantusaikamal/metafile-rs,Bounded DIB decoding shared by metafile-rs format players
+2026-11-11T05:14:54.694713Z,metafile-svg,1.0.1,0,0,https://github.com/Dantusaikamal/metafile-rs,"Deterministic, self-contained SVG renderer backend for metafile-rs"
+2026-11-11T05:15:40.869371Z,asc-cache,0.1.1,0,0,https://github.com/Ylarod/asc-rs,Inflated-DEX caches for asc-rs: an on-disk cache shared across processes and an in-memory LRU for long-running hosts.
+2026-11-11T05:16:23.679227Z,metafile-emfplus,1.0.1,0,0,https://github.com/Dantusaikamal/metafile-rs,"EMF+ parsing, inspection, and renderer-independent playback for metafile-rs"
+2026-11-11T05:18:11.386435Z,metafile-wmf,1.0.1,0,0,https://github.com/Dantusaikamal/metafile-rs,"WMF parsing, inspection, and renderer-independent playback for metafile-rs"
