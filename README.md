@@ -8,49 +8,71 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-11 12:21 UTC
+## Latest list — 2026-11-11 13:18 UTC
 
-New crates published between 2026-11-11 11:21 UTC and 2026-11-11 12:21 UTC.
+New crates published between 2026-11-11 12:21 UTC and 2026-11-11 13:18 UTC.
 
-[Full CSV](data/new-crates-2026-11-11T12-21-25-25173Z.csv)
+[Full CSV](data/new-crates-2026-11-11T13-18-42-945261Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-11 11:22:10 | [pka-webarrow](https://crates.io/crates/pka-webarrow) | 0.1.0 | 0 | Write Rust macros that cross into JS, keeping paths that look like JS |
-| 2026-11-11 11:30:27 | [tsrs_execute](https://crates.io/crates/tsrs_execute) | 0.24.0 | 0 | Command-line and build orchestration for the tsrs TypeScript compiler |
-| 2026-11-11 11:32:25 | [licoup-platform-bridges](https://crates.io/crates/licoup-platform-bridges) | 0.3.1 | 0 | LicoUp platform bridges: same-process ABI identity and the generation-index han… |
-| 2026-11-11 11:40:45 | [tsrs_lsproto](https://crates.io/crates/tsrs_lsproto) | 0.24.0 | 0 | TypeScript language server protocol types for tsrs |
-| 2026-11-11 11:42:49 | [crabxl-calc](https://crates.io/crates/crabxl-calc) | 0.2.0 | 0 | Formula calculation for CrabXL workbooks. |
-| 2026-11-11 11:43:08 | [varaq](https://crates.io/crates/varaq) | 0.1.0 | 0 | An embedded transactional key-value store: a B+tree with optimistic latches, a… |
-| 2026-11-11 11:43:13 | [licoup-workflow](https://crates.io/crates/licoup-workflow) | 0.3.1 | 0 | LicoUp Adaptive Flywheel workflow compiler and transition machine. |
-| 2026-11-11 11:43:44 | [tilth-core](https://crates.io/crates/tilth-core) | 0.13.0 | 0 | The parsing substrate under tilth: tree-sitter outlines, language detection, im… |
-| 2026-11-11 11:47:49 | [sileo-slint](https://crates.io/crates/sileo-slint) | 0.1.0 | 0 | A physics-based toast component for Slint. Port of Sileo. |
-| 2026-11-11 11:51:01 | [tsrs_projectutil](https://crates.io/crates/tsrs_projectutil) | 0.24.0 | 0 | TypeScript project utilities for tsrs |
-| 2026-11-11 11:53:21 | [stackpress-leptos](https://crates.io/crates/stackpress-leptos) | 0.1.0 | 0 | Reusable Leptos components and explicit rendering without an application host |
-| 2026-11-11 11:54:02 | [stackpress-framework-language](https://crates.io/crates/stackpress-framework-language) | 0.1.0 | 0 | Pure checked locale registry and explicit aliases |
-| 2026-11-11 11:54:24 | [stackpress-sql](https://crates.io/crates/stackpress-sql) | 0.1.0 | 0 | Owned SQL queries and transport-independent database contracts |
-| 2026-11-11 11:54:34 | [licoup-conversation](https://crates.io/crates/licoup-conversation) | 0.3.1 | 0 | Durable LicoUp Canonical Conversation authority backed by SQLite. |
-| 2026-11-11 11:54:53 | [stackpress-lib](https://crates.io/crates/stackpress-lib) | 0.1.0 | 0 | Transport-neutral Stackpress values and ordered capability dispatch |
-| 2026-11-11 11:55:13 | [licoup-project](https://crates.io/crates/licoup-project) | 0.3.1 | 0 | Authorized LicoUp project and plan identity, dependency inputs, scheduling and… |
-| 2026-11-11 11:55:38 | [stackpress-idea-parser](https://crates.io/crates/stackpress-idea-parser) | 0.1.0 | 0 | Bounded Idea syntax, ordered schema compilation and source diagnostics |
-| 2026-11-11 12:01:17 | [charting](https://crates.io/crates/charting) | 0.1.0 | 0 | Financial charts for egui: candles drawn the TradingView way, indicators, drawi… |
-| 2026-11-11 12:01:24 | [tsrs_ls](https://crates.io/crates/tsrs_ls) | 0.24.0 | 0 | TypeScript language service for tsrs |
-| 2026-11-11 12:03:54 | [tw-cli](https://crates.io/crates/tw-cli) | 0.1.0 | 0 | One command for a Markdoc corpus |
-| 2026-11-11 12:06:12 | [licoup-workflow-store](https://crates.io/crates/licoup-workflow-store) | 0.3.1 | 0 | Durable LicoUp workflow state, command, queue, subscription and commit contract… |
-| 2026-11-11 12:07:46 | [tzlookup](https://crates.io/crates/tzlookup) | 3.2.0 | 0 | Set the system timezone based on IP geolocation. |
-| 2026-11-11 12:10:30 | [dlens-dv](https://crates.io/crates/dlens-dv) | 1.0.1 | 0 | Embeddable evaluation for text-to-SQL pipelines: initialise once, then call fun… |
-| 2026-11-11 12:11:41 | [waihub](https://crates.io/crates/waihub) | 0.0.0 | 0 | waihub: name held by Transaction Science, Inc. Nothing is released under it yet. |
-| 2026-11-11 12:11:47 | [tsrs_project](https://crates.io/crates/tsrs_project) | 0.24.0 | 0 | TypeScript project management for tsrs |
-| 2026-11-11 12:14:33 | [rshellcheck-core](https://crates.io/crates/rshellcheck-core) | 1.1.0 | 0 | Parser and analysis core of rshellcheck, a Rust port of ShellCheck |
-| 2026-11-11 12:14:49 | [rshellcheck](https://crates.io/crates/rshellcheck) | 1.1.0 | 0 | Rust port of ShellCheck, the static analysis tool for shell scripts |
-| 2026-11-11 12:15:38 | [tzlookup-cli](https://crates.io/crates/tzlookup-cli) | 3.2.1 | 0 | Set the system timezone based on IP geolocation. |
-| 2026-11-11 12:17:00 | [edinet-api](https://crates.io/crates/edinet-api) | 0.1.0 | 0 | Unofficial async Rust client and CLI for the EDINET API v2 (Japan FSA): filing… |
-| 2026-11-11 12:17:19 | [licoup-agent-codex](https://crates.io/crates/licoup-agent-codex) | 0.3.1 | 0 | Codex adapter package: the Codex app-server driver and its vendor protocol |
-| 2026-11-11 12:20:22 | [relate-model](https://crates.io/crates/relate-model) | 0.0.1 | 0 | Placeholder for relate-model, part of the Relate embedded openCypher graph engi… |
-| 2026-11-11 12:20:25 | [relate-names](https://crates.io/crates/relate-names) | 0.0.1 | 0 | Placeholder for relate-names, part of the Relate embedded openCypher graph engi… |
-| 2026-11-11 12:20:28 | [relate-splitter](https://crates.io/crates/relate-splitter) | 0.0.1 | 0 | Placeholder for relate-splitter, part of the Relate embedded openCypher graph e… |
-| 2026-11-11 12:20:31 | [relate-core](https://crates.io/crates/relate-core) | 0.0.1 | 0 | Placeholder for relate-core, part of the Relate embedded openCypher graph engin… |
-| 2026-11-11 12:20:35 | [relate-parser](https://crates.io/crates/relate-parser) | 0.0.1 | 0 | Placeholder for relate-parser, part of the Relate embedded openCypher graph eng… |
+| 2026-11-11 12:22:08 | [tsrs_api](https://crates.io/crates/tsrs_api) | 0.24.0 | 0 | Programmatic API for the tsrs TypeScript compiler |
+| 2026-11-11 12:24:56 | [fontoxide-encodings](https://crates.io/crates/fontoxide-encodings) | 0.1.0 | 0 | Legacy text encodings used in fonts; a port of fontTools.encodings |
+| 2026-11-11 12:25:03 | [fontoxide-repack](https://crates.io/crates/fontoxide-repack) | 0.1.0 | 0 | Offset overflow resolution for OpenType tables; a port of the HarfBuzz repacker |
+| 2026-11-11 12:25:07 | [fontoxide-unicodedata](https://crates.io/crates/fontoxide-unicodedata) | 0.1.0 | 0 | Unicode character properties; a port of fontTools.unicodedata |
+| 2026-11-11 12:25:15 | [fontoxide-misc](https://crates.io/crates/fontoxide-misc) | 0.1.0 | 0 | Miscellaneous font utilities; a port of fontTools.misc, agl, afmLib and tfmLib |
+| 2026-11-11 12:25:23 | [fontoxide-designspacelib](https://crates.io/crates/fontoxide-designspacelib) | 0.1.0 | 0 | Designspace documents; a port of fontTools.designspaceLib |
+| 2026-11-11 12:28:23 | [licoup-agent-deepseek](https://crates.io/crates/licoup-agent-deepseek) | 0.3.1 | 0 | DeepSeek Harness adapter package: the Harness SDK driver and its vendor protocol |
+| 2026-11-11 12:28:25 | [dart-vm-service](https://crates.io/crates/dart-vm-service) | 0.2.1 | 0 | Async (Tokio) client for the Dart VM Service Protocol: debug, hot reload, profi… |
+| 2026-11-11 12:30:31 | [fontoxide-pens](https://crates.io/crates/fontoxide-pens) | 0.1.0 | 0 | Pens for drawing glyph outlines; a port of fontTools.pens |
+| 2026-11-11 12:31:40 | [htrio-quinn-proto](https://crates.io/crates/htrio-quinn-proto) | 0.11.19 | 0 | Quinn-based QUIC protocol state machine maintained for htrio |
+| 2026-11-11 12:31:41 | [htrio-quinn-udp](https://crates.io/crates/htrio-quinn-udp) | 0.5.16 | 0 | Quinn-based UDP sockets with ECN support maintained for htrio |
+| 2026-11-11 12:31:43 | [htrio-quinn](https://crates.io/crates/htrio-quinn) | 0.11.12 | 0 | Quinn-based QUIC transport implementation maintained for htrio |
+| 2026-11-11 12:31:45 | [htrio-h3](https://crates.io/crates/htrio-h3) | 0.0.8 | 0 | An async HTTP/3 implementation maintained for htrio |
+| 2026-11-11 12:31:49 | [htrio-h3-datagram](https://crates.io/crates/htrio-h3-datagram) | 0.0.2 | 0 | RFC 9297 datagram extension for htrio's HTTP/3 implementation |
+| 2026-11-11 12:32:16 | [relate-catalog](https://crates.io/crates/relate-catalog) | 0.0.1 | 0 | Placeholder for relate-catalog, part of the Relate embedded openCypher graph en… |
+| 2026-11-11 12:32:31 | [tsrs_lint](https://crates.io/crates/tsrs_lint) | 0.24.0 | 0 | Type-aware JavaScript and TypeScript linting with tsrs |
+| 2026-11-11 12:36:31 | [kodestats](https://crates.io/crates/kodestats) | 0.1.0 | 0 | Fast code statistics library and CLI powering Codestats in Bricks. |
+| 2026-11-11 12:38:06 | [htrio-h3-quinn](https://crates.io/crates/htrio-h3-quinn) | 0.0.10 | 0 | Quinn transport adapter for htrio's HTTP/3 implementation |
+| 2026-11-11 12:39:26 | [licoup-private-gateway](https://crates.io/crates/licoup-private-gateway) | 0.3.1 | 0 | LicoUp Private Gateway: the authenticated loopback LLM model gateway — compiled… |
+| 2026-11-11 12:40:16 | [vcf-parity](https://crates.io/crates/vcf-parity) | 0.2.0 | 0 | Compares two VCF files record by record and field by field. |
+| 2026-11-11 12:40:31 | [fontoxide-svglib](https://crates.io/crates/fontoxide-svglib) | 0.1.0 | 0 | Drawing SVG paths and shapes with pens; a port of fontTools.svgLib |
+| 2026-11-11 12:42:22 | [relate-error](https://crates.io/crates/relate-error) | 0.0.1 | 0 | Placeholder for relate-error, part of the Relate embedded openCypher graph engi… |
+| 2026-11-11 12:42:49 | [tsrs_lsp](https://crates.io/crates/tsrs_lsp) | 0.24.0 | 0 | TypeScript language server for tsrs |
+| 2026-11-11 12:44:08 | [wowsir](https://crates.io/crates/wowsir) | 0.1.1 | 0 | A fast, headless, agent-first browser CLI for testing websites |
+| 2026-11-11 12:44:16 | [bmi-rust](https://crates.io/crates/bmi-rust) | 0.1.0 | 0 | Rust trait for the CSDMS Basic Model Interface |
+| 2026-11-11 12:46:52 | [df-aster-core](https://crates.io/crates/df-aster-core) | 0.0.1-beta | 0 | Aster SDK for Rust: futures markets, account, trading, agents, transfers, depos… |
+| 2026-11-11 12:48:26 | [htrio](https://crates.io/crates/htrio) | 0.1.0 | 0 | A reqwest-compatible native HTTP/1, HTTP/2 and HTTP/3 client with Alt-Svc disco… |
+| 2026-11-11 12:50:21 | [licoup-public-gateway](https://crates.io/crates/licoup-public-gateway) | 0.3.1 | 0 | LicoUp Public Gateway: the public-facing optional services — the service-neutra… |
+| 2026-11-11 12:50:28 | [relate-ir](https://crates.io/crates/relate-ir) | 0.0.1 | 0 | Placeholder for relate-ir, part of the Relate embedded openCypher graph engine.… |
+| 2026-11-11 12:50:36 | [fontoxide-ttlib](https://crates.io/crates/fontoxide-ttlib) | 0.1.0 | 0 | Read and write OpenType/TrueType fonts and TTX; a port of fontTools.ttLib |
+| 2026-11-11 12:50:42 | [ftl-check](https://crates.io/crates/ftl-check) | 0.1.0 | 0 | Validate, check and render Fluent (.ftl) localization files |
+| 2026-11-11 12:51:41 | [world-id-rp](https://crates.io/crates/world-id-rp) | 0.21.0 | 0 | RP verification for the World ID Protocol |
+| 2026-11-11 12:53:09 | [tsrs_cli](https://crates.io/crates/tsrs_cli) | 0.24.0 | 0 | TypeScript compiler and language server written in Rust |
+| 2026-11-11 12:54:18 | [implicit-predicates-core](https://crates.io/crates/implicit-predicates-core) | 0.0.1 | 0 | Arithmetic building blocks for exact geometric predicates: the no_std core of i… |
+| 2026-11-11 12:54:21 | [implicit-predicates-oracle](https://crates.io/crates/implicit-predicates-oracle) | 0.0.1 | 0 | Slow exact reference implementation used to test implicit-predicates |
+| 2026-11-11 12:54:26 | [implicit-predicates-gen](https://crates.io/crates/implicit-predicates-gen) | 0.0.1 | 0 | Code generator for exact geometric predicates over explicit and implicit points |
+| 2026-11-11 12:54:29 | [implicit-predicates](https://crates.io/crates/implicit-predicates) | 0.0.1 | 0 | Exact geometric predicates over explicit and implicit points |
+| 2026-11-11 12:58:14 | [lightjunction](https://crates.io/crates/lightjunction) | 0.1.1 | 0 | A tiny interactive introduction to LIghtJUNction, with honest command timings |
+| 2026-11-11 13:00:33 | [fontoxide-ufolib](https://crates.io/crates/fontoxide-ufolib) | 0.1.0 | 0 | Reading and writing UFO fonts; a port of fontTools.ufoLib |
+| 2026-11-11 13:00:34 | [relate-markdown](https://crates.io/crates/relate-markdown) | 0.0.1 | 0 | Placeholder for relate-markdown, part of the Relate embedded openCypher graph e… |
+| 2026-11-11 13:01:27 | [licoup-workflow-runtime](https://crates.io/crates/licoup-workflow-runtime) | 0.3.1 | 0 | Event-driven LicoUp workflow execution: durable admission, routing, node execut… |
+| 2026-11-11 13:06:51 | [pandrosion607-robotics](https://crates.io/crates/pandrosion607-robotics) | 0.607.0 | 0 | Standalone, dependency-free real robotics solver: bounded inverse kinematics, w… |
+| 2026-11-11 13:09:59 | [wpt_manifest](https://crates.io/crates/wpt_manifest) | 0.2.0 | 0 | Generate the web-platform-tests MANIFEST.json |
+| 2026-11-11 13:10:00 | [wpt_report](https://crates.io/crates/wpt_report) | 0.2.0 | 0 | Tools for working with WPT reports |
+| 2026-11-11 13:10:32 | [fontoxide-colorlib](https://crates.io/crates/fontoxide-colorlib) | 0.1.0 | 0 | Building COLR and CPAL tables; a port of fontTools.colorLib |
+| 2026-11-11 13:10:42 | [relate-ontology](https://crates.io/crates/relate-ontology) | 0.0.1 | 0 | Placeholder for relate-ontology, part of the Relate embedded openCypher graph e… |
+| 2026-11-11 13:12:38 | [licoup-agent-targets](https://crates.io/crates/licoup-agent-targets) | 0.3.1 | 0 | LicoUp Agent inventory: target declarations, local discovery, scan paths and re… |
+| 2026-11-11 13:13:22 | [skipper-core](https://crates.io/crates/skipper-core) | 1.0.0 | 0 | Core of Skipper: test-gating via Google Spreadsheet (resolver, Sheets client, s… |
+| 2026-11-11 13:13:23 | [skipper-macros](https://crates.io/crates/skipper-macros) | 1.0.0 | 0 | The #[skipper] attribute for Skipper test-gating (use the get-skipper crate) |
+| 2026-11-11 13:13:23 | [cargo-skipper](https://crates.io/crates/cargo-skipper) | 1.0.0 | 0 | `cargo skipper test`: run Rust tests with Skipper (one spreadsheet fetch, quara… |
+| 2026-11-11 13:13:24 | [skipper-cucumber](https://crates.io/crates/skipper-cucumber) | 1.0.0 | 0 | Skipper for cucumber-rs: enable or disable scenarios from a Google Spreadsheet |
+| 2026-11-11 13:13:24 | [get-skipper](https://crates.io/crates/get-skipper) | 1.0.0 | 0 | Skipper for Rust: enable or disable tests from a Google Spreadsheet (#[skipper]… |
+| 2026-11-11 13:18:25 | [kittychart-canvas](https://crates.io/crates/kittychart-canvas) | 0.1.0 | 0 | Canvas2D-shaped drawing API for KittyChart with a pure-Rust tiny-skia raster ba… |
+| 2026-11-11 13:18:26 | [kittychart-term](https://crates.io/crates/kittychart-term) | 0.1.0 | 0 | Terminal graphics encoders (kitty, sixel, unicode) and sans-IO capability detec… |
+| 2026-11-11 13:18:27 | [kittychart-core](https://crates.io/crates/kittychart-core) | 0.1.0 | 0 | Chart.js-compatible chart model, option resolution, scales, layout and drawing… |
+| 2026-11-11 13:18:28 | [kittychart](https://crates.io/crates/kittychart) | 0.1.0 | 0 | Chart.js-compatible charts rendered for kitty-graphics terminals (kitty, Ghostt… |
+| 2026-11-11 13:18:30 | [kittychart-cli](https://crates.io/crates/kittychart-cli) | 0.1.0 | 0 | Render Chart.js configs in your terminal (kitty graphics protocol) or to PNG |
 
 ## Data source
 
