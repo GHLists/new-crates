@@ -1,0 +1,39 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-11T22:25:26.345646Z,hostreach,0.1.0,0,0,https://github.com/mnk-works/hostreach,"Fast, reliable CLI tool to check reachable hosts from a URL list. No TLS verification, async, configurable concurrency."
+2026-11-11T22:26:08.534549Z,shifty-experimental,0.6.0,0,0,https://github.com/gtfierro/shifty,"Experimental interfaces of shifty, which may change in any release without a deprecation period: Shapeshift, a text language for shapes, and a generator of SHACL violations for repair benchmarks"
+2026-11-11T22:26:58.742045Z,presk-kernel,0.17.1,0,0,https://github.com/presk-lang/presk,"PSK-Kernel v0: loop-level kernels for PSK-Core primitives at concrete shapes, and their interpreter"
+2026-11-11T22:30:33.831552Z,instrument-api,0.2.0-alpha.1,0,0,https://github.com/josh-hemphill/instrument-components,Experimental vendor-neutral device driver contracts
+2026-11-11T22:30:37.893089Z,instrument-runtime,0.2.0-alpha.1,0,0,https://github.com/josh-hemphill/instrument-components,Experimental protocol-neutral device registration and session runtime
+2026-11-11T22:30:41.015844Z,instrument-scpi,0.2.0-alpha.1,0,0,https://github.com/josh-hemphill/instrument-components,Explicit-profile SCPI implementation for vendor-neutral Instrument Components contracts
+2026-11-11T22:30:43.614421Z,instrument-testkit,0.2.0-alpha.1,0,0,https://github.com/josh-hemphill/instrument-components,Strict scripted message conformance helpers for independent Instrument Components drivers
+2026-11-11T22:33:19.901867Z,gpui-ce-fonts,0.4.0-alpha.1,0,0,https://github.com/gpui-ce/gpui-ce,Fonts for testing text information
+2026-11-11T22:37:09.267698Z,presk-precision,0.17.1,0,0,https://github.com/presk-lang/presk,"Precision as a resource: the realization object, error propagation, sensitivity, the solver"
+2026-11-11T22:37:49.941107Z,lean-ctx-shell-policy,3.12.3,0,0,https://github.com/yvgude/lean-ctx,"The LeanCTX shell-allowlist policy: enforcement, approvals and side-door checks on top of the LeanCTX Engine."
+2026-11-11T22:39:05.402632Z,pyrite-vdb,0.1.0,0,0,https://github.com/eggdropsoap/pyrite-vdb.git,A Rusty port of OpenVDB and NanoVDB: sparse volumetric data trees and algorithms
+2026-11-11T22:39:59.619103Z,nodesig,1.0.0,0,0,,HTML node signatures for comparing document structure.
+2026-11-11T22:41:08.403289Z,ferrisma,0.0.0,0,0,https://github.com/sebastian-software/ferrixel,Ferrisma image processing pipeline: placeholder release with no image processing API
+2026-11-11T22:45:09.467622Z,doth,0.1.0,0,0,,"An opinionated, low-latency authentication server for Caddy's forward_auth"
+2026-11-11T22:45:12.87033Z,perf-event-open-sys-traits,1.0.0,0,0,https://github.com/jimblandy/perf-event.git,Traits for `perf-event-open-sys` types
+2026-11-11T22:46:36.598258Z,silvic-core,0.1.0,0,0,https://github.com/BenMagyar/silvic,"LightGBM-compatible gradient boosting: binning, leaf-wise trees on integer histograms, model.txt I/O"
+2026-11-11T22:47:13.117075Z,silvic-gpu,0.1.0,0,0,https://github.com/BenMagyar/silvic,"Metal and CUDA backends for silvic: one kernel source, compiled at run time for either device"
+2026-11-11T22:47:16.320334Z,silvic-net,0.1.0,0,0,https://github.com/BenMagyar/silvic,"TCP ring collectives (allreduce, allgather) for distributed silvic training"
+2026-11-11T22:47:18.787296Z,presk-train,0.17.1,0,0,https://github.com/presk-lang/presk,The training loop of a `training run` over the reference interpreter
+2026-11-11T22:47:19.012787Z,silvic-neuron,0.1.0,0,0,https://github.com/BenMagyar/silvic,AWS Neuron training and explicit float32 serving for silvic
+2026-11-11T22:47:32.288938Z,silvic-serve,0.1.0,0,0,https://github.com/BenMagyar/silvic,"Exact, fast batch scoring of LightGBM models: QuickScorer leaf bitvectors over SIMD row blocks"
+2026-11-11T22:47:51.246182Z,firecrawl-local,0.1.0,0,0,https://github.com/firecrawl/firecrawl,"Firecrawl Local: scrape, crawl and map on your own machine from one binary, with a hand-off to Firecrawl cloud."
+2026-11-11T22:52:27.176297Z,wallspin,0.1.1,0,0,https://github.com/darkobas2/wallspin,"Wallpaper changer for GNOME: topics, per-monitor images, clock overlay"
+2026-11-11T22:56:59.764583Z,silvic-triton,0.1.0,0,0,https://github.com/BenMagyar/silvic,"A Triton Inference Server backend that serves LightGBM models with silvic-serve, bit for bit"
+2026-11-11T22:57:32.802131Z,presk-cranelift,0.17.1,0,0,https://github.com/presk-lang/presk,The Cranelift JIT backend: PSK-Kernel v0 kernels compiled to machine code
+2026-11-11T23:00:23.095108Z,grafia,0.7.0,0,0,https://github.com/oversluizen/grafia,"Interactive 2D cubic Bezier contour, glyph, and vector canvas engine for egui with variable-font master compatibility and stylus brush support."
+2026-11-11T23:02:49.33732Z,promptshelf-core,0.1.0,0,0,https://github.com/ETSoftwareStudio/promptshelf,"Core library for PromptShelf: prompt files, templates, libraries and sync."
+2026-11-11T23:02:51.341084Z,jafa,2.0.0,0,0,https://github.com/Blaadam/jafa,A CLI tool for Roblox repository management
+2026-11-11T23:03:03.639817Z,promptshelf,0.1.0,0,0,https://github.com/ETSoftwareStudio/promptshelf,"Save, fill and share prompts from the terminal. Installs the `shelf` command."
+2026-11-11T23:06:09.094706Z,rs-arrow-words2pgcopy,0.1.0,0,0,https://github.com/takanoriyanagitani/rs-arrow-words2pgcopy,Converts the 2-bytes items in the array to pgcopy bytes.
+2026-11-11T23:07:47.25409Z,presk-opt,0.17.1,0,0,https://github.com/presk-lang/presk,"E-graph rewriting of PSK-Core programs (exact over ℝ), with extraction by operation counts"
+2026-11-11T23:11:32.516138Z,instrument-driver-tektronix,0.2.0-alpha.1,0,0,https://github.com/josh-hemphill/instrument-components-tektronix,Source-derived Tektronix device profiles; hardware validation pending
+2026-11-11T23:11:49.991952Z,instrument-driver-rigol,0.2.0-alpha.1,0,0,https://github.com/josh-hemphill/instrument-components-rigol,Source-derived Rigol device profiles; hardware validation pending
+2026-11-11T23:11:55.958612Z,instrument-driver-keithley,0.2.0-alpha.1,0,0,https://github.com/josh-hemphill/instrument-components-keithley,Source-derived Keithley device profiles; hardware validation pending
+2026-11-11T23:12:50.845429Z,gatekeeper-io,0.5.0,0,0,https://github.com/jamesgober/gatekeeper-io,"The gates for Rust services in one package: authentication for every request, authorization at the router, sign-in and sign-out with CSRF, standing changes, audit, and keys from a vault. Stage types…"
+2026-11-11T23:13:04.592801Z,instrument-driver-siglent,0.2.0-alpha.1,0,0,https://github.com/josh-hemphill/instrument-components-siglent,Source-derived Siglent device profiles; hardware validation pending
+2026-11-11T23:14:09.704739Z,badbots,0.1.0,0,0,https://github.com/cnlangzi/badbots,Evidence-based IP badness assessment for inbound traffic
+2026-11-11T23:18:02.836244Z,presk-export-c,0.17.1,0,0,https://github.com/presk-lang/presk,The C export: PSK-Kernel kernels printed as C functions (plan 0.9.0)
