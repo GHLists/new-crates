@@ -1,0 +1,29 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-10T23:22:26.921802Z,lumen-cluster,0.1.0,0,0,https://github.com/juanmaneo/LumenDB,"A tsvdb replicated by Raft: writes go through the leader's log, every node applies them to its own database"
+2026-11-10T23:23:40.449882Z,rust-widgets-cli,4.2.0,0,0,https://github.com/mikewolfli/rust-widgets,"`rwui`: the rust_widgets designer CLI — check a project bundle, generate Rust from it, and (in later stages) convert in both directions"
+2026-11-10T23:25:27.809108Z,firmware-analysis-toolkit,2.1.0,0,0,https://github.com/attify/firmware-analysis-toolkit,FAT — command-line firmware analysis toolkit
+2026-11-10T23:28:53.550745Z,monospace,0.1.0,0,0,https://github.com/andresmoschini/monospace,The interactive full-screen terminal application: the chrome around a diagram being edited
+2026-11-10T23:31:48.246084Z,particle-traits,0.1.1,0,0,https://github.com/johnstonskj/rust-particle,Core traits for the particle component system.
+2026-11-10T23:32:07.10351Z,lumen-bench,0.1.0,0,0,https://github.com/juanmaneo/LumenDB,"CLI: generate pcaps, ingest pcap into tsvdb, run queries and KV benchmarks"
+2026-11-10T23:38:41.432616Z,sciencekit_common,0.1.0,0,0,https://github.com/neurono-ml/sciencekit,"Core traits, types and errors shared across the sciencekit sub-crates."
+2026-11-10T23:39:25.58974Z,monospace-cli,0.1.0,0,0,https://github.com/andresmoschini/monospace,Minimal non-interactive command-line application for rendering ASCII diagrams
+2026-11-10T23:39:54.965925Z,sciencekit_math,0.1.0,0,0,https://github.com/neurono-ml/sciencekit,"Computational kernels and the BLAS/LAPACK interface for sciencekit: pairwise distances, dense/sparse products, higher-order operations and memory-layout helpers."
+2026-11-10T23:41:07.612895Z,sciencekit_metrics,0.1.0,0,0,https://github.com/neurono-ml/sciencekit,"Evaluation metrics and streaming accumulators for sciencekit: classification and regression scores, scorer adapters over the shared scoring contracts."
+2026-11-10T23:42:20.530883Z,sciencekit_preprocessing,0.1.0,0,0,https://github.com/neurono-ml/sciencekit,"Scaling, encoding and feature-expansion transformers for sciencekit."
+2026-11-10T23:43:33.244573Z,sciencekit_impute,0.1.0,0,0,https://github.com/neurono-ml/sciencekit,"Missing-data imputers for sciencekit (simple strategies, indicator, k-NN)."
+2026-11-10T23:43:43.208285Z,tuidoc,0.1.0,0,0,https://github.com/christianhelle/tuidoc,"A terminal viewer and editor for Word documents, with vim-style keys"
+2026-11-10T23:44:46.509997Z,sciencekit_linear_model,0.1.0,0,0,https://github.com/neurono-ml/sciencekit,"Linear, regularized, logistic and stochastic-gradient models for sciencekit."
+2026-11-10T23:54:29.269952Z,type-identical,0.1.0,0,0,https://github.com/BoxCatGarden/type_identical,Traits for type identity.
+2026-11-11T00:00:00.524432Z,easyfix-core,0.20.0,0,0,https://github.com/ldanko/easyfix,Easy FIX (Financial Information Exchange) toolset - core types.
+2026-11-11T00:02:19.696776Z,rvifm,0.1.0-alpha.1,0,0,https://github.com/wideweide/rvifm,"Vim-style TUI file manager written in Rust; references vifm's interaction model, not a fork"
+2026-11-11T00:05:28.742048Z,signal-generator,0.1.0,0,0,https://github.com/tcasaniv/signal-generator-rs,"High-performance synthetic signal and waveform generator in Rust: sine, square, triangle, sawtooth, chirp, and noise for audio DSP and SDR"
+2026-11-11T00:05:51.702532Z,ask-modulator,0.1.0,0,0,https://github.com/tcasaniv/ask-modulator-rs,High-performance digital Amplitude Shift Keying (ASK) and On-Off Keying (OOK) baseband I/Q modulator in Rust for SDR
+2026-11-11T00:06:18.446519Z,fsk-modulator,0.1.0,0,0,https://github.com/tcasaniv/fsk-modulator-rs,High-performance digital Frequency Shift Keying (FSK) and CPFSK baseband I/Q modulator in Rust for SDR
+2026-11-11T00:06:39.157926Z,psk-modulator,0.1.0,0,0,https://github.com/tcasaniv/psk-modulator-rs,"High-performance digital Phase Shift Keying (BPSK, QPSK) baseband I/Q modulator with Root-Raised Cosine (RRC) pulse shaping in Rust for SDR"
+2026-11-11T00:07:05.424999Z,fno-mail,0.4.8,0,0,https://github.com/fnodotdev/fno,"The fno mail protocol: envelope, bus log, address forms, delivery states, the lane trait and session ids."
+2026-11-11T00:07:17.792773Z,cw-modulator,0.1.0,0,0,https://github.com/tcasaniv/cw-modulator-rs,High-performance International Morse Code (CW / Continuous Wave) generator and baseband I/Q modulator with raised-cosine anti-click envelope in Rust for SDR
+2026-11-11T00:09:50.679354Z,zugferd-rs,0.2.1,0,0,https://github.com/philipp-berger/zugferd-rust,"Pure-Rust ZUGFeRD 2.x / Factur-X + XRechnung e-invoice library — generate, embed (PDF/A-3b), parse, and validate (XSD + EN16931 Schematron). Rust port of @lucaapp/zugferd-ts."
+2026-11-11T00:12:08.486767Z,pulsify-protocol,6.0.0,0,0,,"Pulsify binary protocol (envelopes 1 and 2), version vectors and an opaque patch relay"
+2026-11-11T00:12:15.781668Z,pulsify-sqlite,6.0.0,0,0,,"Pulsify SQLite patch store and frame relay, file-compatible with the TypeScript SqlitePatchStore"
+2026-11-11T00:12:28.526197Z,tauri-plugin-pulsify,6.0.0,0,0,,Tauri 2 plugin persisting Pulsify documents in a local SQLite database
+2026-11-11T00:19:15.340337Z,broadside-mcp,1.0.0,0,0,https://github.com/qompassai/broadside,"Deterministic build, verify, and deploy MCP server for qompass.ai: signed JWKS publication, append-only receipts, honeypot canary layer."
