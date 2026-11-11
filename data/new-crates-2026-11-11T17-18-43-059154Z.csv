@@ -1,0 +1,32 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-11T16:24:54.866242Z,stackpress-server-http,0.1.0,0,0,https://github.com/stackpress/rust,Owned HTTP/1 IO hosting for Stackpress
+2026-11-11T16:26:25.249123Z,aitran_cli_conf,0.1.0,0,0,https://github.com/letauto/aitran,aitran_cli_conf
+2026-11-11T16:27:50.723171Z,factioner,0.1.0,0,0,https://github.com/sunilksundaram/factioner,High-Performance Universal Service Resource Pooling & Resilience Engine
+2026-11-11T16:28:35.578878Z,python-index-proxy,0.1.0,0,0,https://github.com/mentaljam/python-index-proxy,"A caching Python package index proxy with configurable upstream sources, filesystem and cloud storage, pip/uv support, and Kubernetes deployment."
+2026-11-11T16:30:10.291297Z,masquerade,0.1.0,0,0,,Under development.
+2026-11-11T16:33:29.865688Z,stackpress-cli,0.1.0,0,0,https://github.com/stackpress/rust,Application-owned Stackpress CLI adapter primitives
+2026-11-11T16:36:19.532751Z,vector-push,0.1.0,0,0,https://github.com/VectorPrivacy/Vector,"Vector's sealed push notifications: the sender encrypts to the device, a blind pusher forwards."
+2026-11-11T16:36:23.899811Z,aitran_parse,0.1.0,0,0,https://github.com/letauto/aitran,翻译文本的行拆分、过滤与还原
+2026-11-11T16:36:26.48499Z,vector-media,0.1.0,0,0,https://github.com/VectorPrivacy/Vector,"Headless media for Vector: Opus voice in and out of Vector's voice Channels, for bots and servers."
+2026-11-11T16:37:14.424804Z,claviron-asgi,0.2.0-alpha.26,0,0,https://github.com/claviron/asgi,"Python and ASGI embedded in Claviron: lifespan, streaming HTTP and message sessions"
+2026-11-11T16:38:37.957007Z,longley-rice,0.1.0,0,0,https://github.com/ogarcia/meshview-rs,"The ITS Irregular Terrain Model (ITM, Longley-Rice) in area prediction mode, ported from NTIA's reference implementation"
+2026-11-11T16:40:40.074543Z,rune-watermark,0.1.0,0,0,https://github.com/alexile/runes,Late-arrival/watermark tracking for out-of-order event streams
+2026-11-11T16:40:47.347341Z,rune-multiplex,0.1.0,0,0,https://github.com/alexile/runes,"Fan-in merge of N ordered sources into one interleaved, time-ordered stream"
+2026-11-11T16:40:55.549992Z,rune-retry-queue,0.1.0,0,0,https://github.com/alexile/runes,Dead-letter queue with configurable backoff retry for failed sink writes
+2026-11-11T16:41:03.742253Z,rune-checkpoint,0.1.0,0,0,https://github.com/alexile/runes,Resumable-cursor/offset persistence for restartable stream consumers
+2026-11-11T16:41:11.586444Z,rune-ewma,0.1.0,0,0,https://github.com/alexile/runes,Exponentially weighted moving average over a numeric stream
+2026-11-11T16:45:32.749698Z,slint-modal-winit,0.30.13,0,0,https://github.com/akenejie/slint-modal-winit,Cross-platform window creation library.
+2026-11-11T16:47:25.520664Z,mercurio-scram,0.1.0,0,0,https://github.com/frenzox/mercurio,SCRAM-SHA-256 message handling and key derivation for the Mercurio MQTT implementation
+2026-11-11T16:47:45.784811Z,aitran_api,0.1.0,0,0,https://github.com/letauto/aitran,aitran_api
+2026-11-11T16:48:14.954164Z,stackpress-framework-view,0.1.0,0,0,https://github.com/stackpress/rust,Client-safe public page snapshots and bounded HTML contracts
+2026-11-11T16:52:41.976718Z,ek-qmt-shm,0.1.0,0,0,https://cnb.cool/enkeep/ek-qmt-shm,"Rust client for the QMT shared-memory RPC protocol: attaches to the named sections a QMT terminal strategy publishes, and speaks the same SPSC ring protocol as the Python reference client. The QMT-si…"
+2026-11-11T16:53:01.893405Z,shufti,0.2.0,0,0,https://gitlab.com/adnap/tools/shufti,A self-hosted dashboard that puts all your feeds in one place. Partially compatible with glance.
+2026-11-11T16:55:30.809873Z,glabs-repo-utils,0.1.0,0,0,https://git.gracefullabs.dev/glabs/repo-utils,Create gLabs-conventioned repositories on Forgejo
+2026-11-11T16:57:18.190031Z,aitran_db,0.1.0,0,0,https://github.com/letauto/aitran,纯文本、可 diff 的 i18n 数据库（只追加 + 流式压实）
+2026-11-11T16:58:50.754967Z,wocky,0.9.0,0,0,https://github.com/DougLau/wocky/,A tool to analyze and generate text
+2026-11-11T16:59:19.898322Z,osmtoolkit,0.1.0,0,0,https://codeberg.org/wsipak/osmtoolkit,Tools for working with OpenStreetMap data and interacting with its REST API
+2026-11-11T17:03:07.872273Z,llmcraft,0.1.0,0,0,https://github.com/kreivetech/llmcraft,"Lightweight, universal multi-provider LLM client and token telemetry for Rust (OpenAI, Anthropic, Gemini, Ollama, DeepSeek, Groq, Mistral)."
+2026-11-11T17:07:06.391165Z,aitran,0.1.0,0,0,https://github.com/letauto/aitran,aitran
+2026-11-11T17:14:59.78831Z,bevy_ldtk_procgen,0.1.0,0,0,https://github.com/ezraclintoc/bevy_ldtk_procgen,"Procedural dungeons for Bevy, streamed from rooms authored as LDtk levels"
+2026-11-11T17:16:11.926508Z,miresidian_instance,0.17.0,0,0,https://github.com/MyMires/miresidian,Miresidian 的实例策略、对象容器与可选多通道调度。
+2026-11-11T17:16:35.207257Z,near-signer-qr,0.1.0,0,0,https://github.com/near/near-signer-ios,Shows NEAR Signer requests as QR codes in a terminal and reads the answer
