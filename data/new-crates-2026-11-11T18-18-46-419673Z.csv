@@ -1,0 +1,23 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-11T17:18:56.798552Z,everruns-coding,0.0.0,0,0,https://github.com/everruns/everruns,Name reservation for everruns-coding. Use 0.52.0 or later: code navigation capabilities for Everruns agents.
+2026-11-11T17:19:44.550951Z,waterui-easing,0.0.0,0,0,https://github.com/water-rs/waterui,Cubic Bézier and spring evaluation shared by WaterUI and its rendering engine.
+2026-11-11T17:23:59.132889Z,basil-ui,0.8.0-alpha.1,0,0,https://github.com/j-fulbright/basil-ui,"shadcn/ui components for Leptos 0.8 on headless, accessible primitives, driven by shadcn-format CSS themes."
+2026-11-11T17:32:43.661812Z,zoter,0.1.0,0,0,https://github.com/z-galaxy/zoter,Restart systemd services without dropping their clients
+2026-11-11T17:33:55.907543Z,lena-adapter-clojure,0.1.8,0,0,https://github.com/yeajustmars/lena,"A code-to-graph Swiss Army knife for interactive docs, call traces, and LLM context."
+2026-11-11T17:43:53.781878Z,shieldcraft,0.1.0,0,0,https://github.com/kreivetech/shieldcraft,"Defensive AI security, SQL query audit, data privacy masking, and sandbox guard for Rust."
+2026-11-11T17:47:22.618409Z,agent-rs,0.1.0,0,0,https://github.com/danieljvdm/agent-rs,A resumable agent engine with an optional SQLite durable host
+2026-11-11T17:47:35.869064Z,perfview,0.1.2,0,0,https://github.com/crxig-rxberts/perfview,"A modern, human-readable live system performance viewer for Linux."
+2026-11-11T17:50:40.824003Z,ricehtml,0.1.0,0,0,https://github.com/gfi-sh/ricehtml,Build native desktop UIs from HTML + CSS with a DOM-like Rust API
+2026-11-11T17:51:33.651667Z,jarsnitch-core,0.1.0,0,0,https://github.com/mattbaconz/jarsnitch,Static capability analysis for Minecraft plugin jars
+2026-11-11T17:51:37.475916Z,jarsnitch,0.1.0,0,0,https://github.com/mattbaconz/jarsnitch,See what a Minecraft plugin can do before you install it
+2026-11-11T17:55:04.796011Z,shw,0.1.0,0,0,https://github.com/TillBeemelmanns/shw,"Blazing fast terminal viewer for images, videos and GitHub-flavored Markdown using the kitty graphics protocol"
+2026-11-11T17:56:20.500512Z,permlock,0.1.0,0,0,https://github.com/alii13/permlock,A lockfile for what your dependencies can do. Fails the pull request when an update asks for new powers.
+2026-11-11T17:58:21.690513Z,stkcraft-geocalc,0.1.8,0,0,https://github.com/spacelibres/STKCraft-Geocalc,NAIF/SPICE-aligned geometry calculations for STKCraft
+2026-11-11T18:00:58.438546Z,shem,0.1.0,0,0,https://github.com/JGalego/shem,Run containers and VMs inside a model's weights
+2026-11-11T18:01:00.473271Z,containerd-shim-shem,0.1.0,0,0,https://github.com/JGalego/shem,A containerd shim that runs containers on shem
+2026-11-11T18:01:48.091671Z,zplugin-macros,0.1.0,0,0,https://github.com/LIghtJUNction/zplugin,Compile-time interface generation for zplugin's frozen native plugin ABI
+2026-11-11T18:01:51.154683Z,zplugin,0.1.0,0,0,https://github.com/LIghtJUNction/zplugin,"Zero-dependency no_std native plugin ABI, loader, and generated Rust interfaces"
+2026-11-11T18:06:21.328005Z,hadron-core,0.0.1,0,0,https://github.com/Izyawastaken/hadron-core,"Typed, verified GitHub-backed modpack publishing and collaboration for launchers"
+2026-11-11T18:13:23.761545Z,pixoom,0.1.0,0,0,https://git.ihate.tech/kerkmann/pixoom,"Draw on a Divoom Pixoo 64 over its local HTTP API, with embedded-graphics."
+2026-11-11T18:13:50.215391Z,wtf-core,0.4.0,0,0,https://github.com/xtrollyj00/wtf,"wtf's core: traces, rows, cursors, sessions, the `:` commands and searches, with no user interface"
+2026-11-11T18:13:52.094699Z,wtf-wave,0.4.0,0,0,https://github.com/xtrollyj00/wtf,"A Vim-like terminal viewer for VCD, FST and GHW waveforms, with an MCP server for AI agents"
