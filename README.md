@@ -8,50 +8,54 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-11 08:21 UTC
+## Latest list — 2026-11-11 09:19 UTC
 
-New crates published between 2026-11-11 07:19 UTC and 2026-11-11 08:21 UTC.
+New crates published between 2026-11-11 08:21 UTC and 2026-11-11 09:19 UTC.
 
-[Full CSV](data/new-crates-2026-11-11T08-21-52-022049Z.csv)
+[Full CSV](data/new-crates-2026-11-11T09-19-30-791878Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-11 07:20:02 | [foundation_cloudflare_profile](https://crates.io/crates/foundation_cloudflare_profile) | 0.1.1 | 0 | Generated Cloudflare API client: profile group |
-| 2026-11-11 07:20:22 | [diskdiet](https://crates.io/crates/diskdiet) | 0.1.0 | 0 | Find and delete the gigabytes your dev tools leave behind: node_modules, target… |
-| 2026-11-11 07:20:50 | [zakura-tor-netdir](https://crates.io/crates/zakura-tor-netdir) | 0.0.0 | 0 | Reserved |
-| 2026-11-11 07:22:36 | [tree-sitter-dune](https://crates.io/crates/tree-sitter-dune) | 0.1.0 | 0 | Tree-sitter grammar for Dune build system files |
-| 2026-11-11 07:25:41 | [rowlock](https://crates.io/crates/rowlock) | 0.0.1 | 0 | Postgres schema, performance and tenant-isolation analysis for coding agents, s… |
-| 2026-11-11 07:30:03 | [foundation_cloudflare_queues](https://crates.io/crates/foundation_cloudflare_queues) | 0.1.1 | 0 | Generated Cloudflare API client: queues group |
-| 2026-11-11 07:31:53 | [zakura-tor-netdoc](https://crates.io/crates/zakura-tor-netdoc) | 0.0.0 | 0 | Reserved |
-| 2026-11-11 07:35:11 | [stkcraft-time](https://crates.io/crates/stkcraft-time) | 0.1.15 | 0 | NAIF/SPICE-aligned astronomical time scales in Rust: UTC, TAI, TT, TDB/ET, GPS,… |
-| 2026-11-11 07:39:30 | [marquage_derive](https://crates.io/crates/marquage_derive) | 0.1.1 | 0 | Proc macro for marquage |
-| 2026-11-11 07:39:33 | [marquage_lib](https://crates.io/crates/marquage_lib) | 0.1.1 | 0 | Core of marquage |
-| 2026-11-11 07:39:35 | [marquage](https://crates.io/crates/marquage) | 0.1.1 | 0 | Facade library of marquage |
-| 2026-11-11 07:40:07 | [foundation_cloudflare_radar](https://crates.io/crates/foundation_cloudflare_radar) | 0.1.1 | 0 | Generated Cloudflare API client: radar group |
-| 2026-11-11 07:42:55 | [zakura-tor-persist](https://crates.io/crates/zakura-tor-persist) | 0.0.0 | 0 | Reserved |
-| 2026-11-11 07:45:59 | [modernci](https://crates.io/crates/modernci) | 0.0.0 | 0 | ModernCI command-line client (mci). Name reserved for the official ModernCI CLI… |
-| 2026-11-11 07:46:07 | [modernci-ext](https://crates.io/crates/modernci-ext) | 0.0.0 | 0 | ModernCI extension SDK. Name reserved for the official ModernCI plugin and exte… |
-| 2026-11-11 07:50:04 | [foundation_cloudflare_reports](https://crates.io/crates/foundation_cloudflare_reports) | 0.1.1 | 0 | Generated Cloudflare API client: reports group |
-| 2026-11-11 07:53:28 | [tsrs_core](https://crates.io/crates/tsrs_core) | 0.24.0 | 0 | Core types and utilities for the tsrs TypeScript compiler |
-| 2026-11-11 07:53:33 | [tsrs_diagnostics](https://crates.io/crates/tsrs_diagnostics) | 0.24.0 | 0 | TypeScript diagnostic messages for tsrs |
-| 2026-11-11 07:53:38 | [tsrs_spanmap](https://crates.io/crates/tsrs_spanmap) | 0.24.0 | 0 | Source span mapping for the tsrs TypeScript compiler |
-| 2026-11-11 07:53:46 | [tsrs_ast](https://crates.io/crates/tsrs_ast) | 0.24.0 | 0 | TypeScript abstract syntax tree for tsrs |
-| 2026-11-11 07:53:54 | [tsrs_scanner](https://crates.io/crates/tsrs_scanner) | 0.24.0 | 0 | TypeScript and JavaScript scanner for tsrs |
-| 2026-11-11 07:53:57 | [zakura-tor-proto](https://crates.io/crates/zakura-tor-proto) | 0.0.0 | 0 | Reserved |
-| 2026-11-11 08:00:01 | [foundation_cloudflare_resources](https://crates.io/crates/foundation_cloudflare_resources) | 0.1.1 | 0 | Generated Cloudflare API client: resources group |
-| 2026-11-11 08:02:52 | [txlemetry-symbol-data](https://crates.io/crates/txlemetry-symbol-data) | 0.6.0 | 0 | A shared library for serialising/deserialising Txlemetry symbol data |
-| 2026-11-11 08:03:05 | [txlemetry-rs](https://crates.io/crates/txlemetry-rs) | 0.4.0 | 0 | An unofficial Rust client for Txlemetry (https://txlemetry.com/). |
-| 2026-11-11 08:03:21 | [tsrs_vfs](https://crates.io/crates/tsrs_vfs) | 0.24.0 | 0 | Virtual filesystem and bundled TypeScript libraries for tsrs |
-| 2026-11-11 08:05:00 | [zakura-tor-protover](https://crates.io/crates/zakura-tor-protover) | 0.0.0 | 0 | Reserved |
-| 2026-11-11 08:10:04 | [foundation_cloudflare_routes](https://crates.io/crates/foundation_cloudflare_routes) | 0.1.1 | 0 | Generated Cloudflare API client: routes group |
-| 2026-11-11 08:10:28 | [tmux-flash](https://crates.io/crates/tmux-flash) | 0.1.0 | 0 | Jump labels for tmux panes, with the rules of flash.nvim |
-| 2026-11-11 08:13:39 | [tsrs_parser](https://crates.io/crates/tsrs_parser) | 0.24.0 | 0 | TypeScript and JavaScript parser for tsrs |
-| 2026-11-11 08:14:34 | [cascivo-html](https://crates.io/crates/cascivo-html) | 0.1.0 | 0 | Render .cv text into one deterministic, self-contained cascivo HTML file |
-| 2026-11-11 08:14:50 | [cascivo-html-cli](https://crates.io/crates/cascivo-html-cli) | 0.1.0 | 0 | cascivo-html command line: render .cv to one static HTML file |
-| 2026-11-11 08:16:02 | [zakura-tor-relay-crypto](https://crates.io/crates/zakura-tor-relay-crypto) | 0.0.0 | 0 | Reserved |
-| 2026-11-11 08:19:08 | [orbit-macros](https://crates.io/crates/orbit-macros) | 0.1.0 | 0 | The OrbitModel derive for orbit-orm |
-| 2026-11-11 08:19:46 | [orbit-orm](https://crates.io/crates/orbit-orm) | 0.1.0 | 0 | An ORM for Rocket.rs apps, with MySQL and MariaDB, PostgreSQL and SQLite |
-| 2026-11-11 08:20:06 | [foundation_cloudflare_rules](https://crates.io/crates/foundation_cloudflare_rules) | 0.1.1 | 0 | Generated Cloudflare API client: rules group |
+| 2026-11-11 08:22:07 | [htmx_four_axum](https://crates.io/crates/htmx_four_axum) | 0.1.0 | 0 | Axum extractors and response headers for htmx 4. |
+| 2026-11-11 08:22:41 | [bruce-method-release](https://crates.io/crates/bruce-method-release) | 0.1.0 | 0 | Developing and releasing a set of Rust repositories which depend on one another… |
+| 2026-11-11 08:23:55 | [tsrs_binder](https://crates.io/crates/tsrs_binder) | 0.24.0 | 0 | TypeScript symbol binding for tsrs |
+| 2026-11-11 08:24:21 | [polars-geo-core](https://crates.io/crates/polars-geo-core) | 0.4.0 | 0 | GeoArrow-compatible geometry primitives for polars-geo: geometry model, WKB/EWK… |
+| 2026-11-11 08:27:06 | [zakura-tor-relay-selection](https://crates.io/crates/zakura-tor-relay-selection) | 0.0.0 | 0 | Reserved |
+| 2026-11-11 08:29:10 | [grapheme-ui](https://crates.io/crates/grapheme-ui) | 0.1.0 | 0 | Bridge from Grapheme View IR to rndr: full apps and embeddable surfaces |
+| 2026-11-11 08:30:05 | [foundation_cloudflare_secrets](https://crates.io/crates/foundation_cloudflare_secrets) | 0.1.1 | 0 | Generated Cloudflare API client: secrets group |
+| 2026-11-11 08:30:44 | [zellij-terminal](https://crates.io/crates/zellij-terminal) | 0.46.0 | 0 | The Zellij terminal, a native client for Zellij sessions |
+| 2026-11-11 08:34:10 | [tsrs_sourcemap](https://crates.io/crates/tsrs_sourcemap) | 0.24.0 | 0 | JavaScript source map generation for tsrs |
+| 2026-11-11 08:35:39 | [scanai](https://crates.io/crates/scanai) | 0.1.0 | 0 | Watches a network scanner, saves every scan, then OCRs and classifies it with a… |
+| 2026-11-11 08:36:58 | [rustybattery](https://crates.io/crates/rustybattery) | 0.3.0 | 0 | RustyBattery — Per-App Power Tracker & Battery Optimizer for Linux |
+| 2026-11-11 08:37:57 | [msssim-lite](https://crates.io/crates/msssim-lite) | 0.1.0 | 0 | Fast block-window multi-scale SSIM for encoder decisions |
+| 2026-11-11 08:38:09 | [zakura-tor-rtcompat](https://crates.io/crates/zakura-tor-rtcompat) | 0.0.0 | 0 | Reserved |
+| 2026-11-11 08:40:09 | [foundation_cloudflare_security](https://crates.io/crates/foundation_cloudflare_security) | 0.1.1 | 0 | Generated Cloudflare API client: security group |
+| 2026-11-11 08:43:57 | [meow-git](https://crates.io/crates/meow-git) | 1.0.0 | 0 | Git, without the growl. A beginner-first Git CLI. |
+| 2026-11-11 08:44:26 | [tsrs_printer](https://crates.io/crates/tsrs_printer) | 0.24.0 | 0 | TypeScript and JavaScript source printer for tsrs |
+| 2026-11-11 08:45:39 | [polars-geo-index](https://crates.io/crates/polars-geo-index) | 0.4.0 | 0 | Spatial index (STR R-tree), Hilbert bucket keys and bbox pruning for polars-geo… |
+| 2026-11-11 08:49:11 | [zakura-tor-rtmock](https://crates.io/crates/zakura-tor-rtmock) | 0.0.0 | 0 | Reserved |
+| 2026-11-11 08:49:40 | [polars-geo-algo](https://crates.io/crates/polars-geo-algo) | 0.4.0 | 0 | Vectorised geometry algorithms for polars-geo: a GeoEngine trait with a pure-Ru… |
+| 2026-11-11 08:50:05 | [foundation_cloudflare_security_center](https://crates.io/crates/foundation_cloudflare_security_center) | 0.1.1 | 0 | Generated Cloudflare API client: security_center group |
+| 2026-11-11 08:54:43 | [tsrs_api_codec](https://crates.io/crates/tsrs_api_codec) | 0.24.0 | 0 | Binary AST codec of the TypeScript native API (port of the pinned tsc/internal/… |
+| 2026-11-11 08:54:44 | [egui_fit](https://crates.io/crates/egui_fit) | 0.1.0 | 0 | A slot layout engine with no egui dependency: dense grid packing of plain boxes… |
+| 2026-11-11 08:58:36 | [scry-cli](https://crates.io/crates/scry-cli) | 0.1.0 | 0 | grep for images: search by metadata, OCR text, and meaning |
+| 2026-11-11 08:59:07 | [find_conf](https://crates.io/crates/find_conf) | 0.1.0 | 0 | Find a config file by walking up from a directory / 从目录逐级向上查找配置文件 |
+| 2026-11-11 09:00:05 | [foundation_cloudflare_shares](https://crates.io/crates/foundation_cloudflare_shares) | 0.1.1 | 0 | Generated Cloudflare API client: shares group |
+| 2026-11-11 09:00:13 | [zakura-tor-socksproto](https://crates.io/crates/zakura-tor-socksproto) | 0.0.0 | 0 | Reserved |
+| 2026-11-11 09:02:42 | [axum-server-dual-protocol2](https://crates.io/crates/axum-server-dual-protocol2) | 0.9.0 | 0 | Host a HTTP and HTTPS server on the same port with `axum-server` |
+| 2026-11-11 09:04:59 | [tsrs_api_transport](https://crates.io/crates/tsrs_api_transport) | 0.24.0 | 0 | Transport layer for the tsgo-compatible programmatic API (--api): sync MessageP… |
+| 2026-11-11 09:05:47 | [axum-server-acme](https://crates.io/crates/axum-server-acme) | 0.1.0 | 0 | Automatic TLS certificates for axum-server through ACME (for example Let's Encr… |
+| 2026-11-11 09:10:00 | [flipper-core](https://crates.io/crates/flipper-core) | 0.8.0 | 0 | Pure domain model and policies for flipper-companion |
+| 2026-11-11 09:10:07 | [foundation_cloudflare_storage](https://crates.io/crates/foundation_cloudflare_storage) | 0.1.1 | 0 | Generated Cloudflare API client: storage group |
+| 2026-11-11 09:10:07 | [flipper-dfu](https://crates.io/crates/flipper-dfu) | 0.8.0 | 0 | DfuSe image parsing and STM32 DFU flashing |
+| 2026-11-11 09:10:22 | [flipper-protocol](https://crates.io/crates/flipper-protocol) | 0.8.0 | 0 | Flipper Zero protobuf RPC protocol and serial session |
+| 2026-11-11 09:10:40 | [flipper-update](https://crates.io/crates/flipper-update) | 0.8.0 | 0 | Firmware directory, download and verification |
+| 2026-11-11 09:11:16 | [zakura-tor-units](https://crates.io/crates/zakura-tor-units) | 0.0.0 | 0 | Reserved |
+| 2026-11-11 09:14:53 | [polars-geo-frame](https://crates.io/crates/polars-geo-frame) | 0.4.0 | 0 | GeoArrow <-> Polars bridge for polars-geo: geometry dtypes, Series conversions… |
+| 2026-11-11 09:15:16 | [tsrs_astnav](https://crates.io/crates/tsrs_astnav) | 0.24.0 | 0 | TypeScript syntax tree navigation for tsrs |
+| 2026-11-11 09:15:42 | [polars-geo-io](https://crates.io/crates/polars-geo-io) | 0.4.0 | 0 | I/O backends for polars-geo: GeoJSON/NDJSON, GeoParquet and WKB/WKT columns. Co… |
+| 2026-11-11 09:16:52 | [polars-geo-expr](https://crates.io/crates/polars-geo-expr) | 0.4.0 | 0 | Geo expressions for polars-geo (`geo_area`, `geo_centroid`, ...) built on the p… |
+| 2026-11-11 09:17:13 | [polars-geo-python](https://crates.io/crates/polars-geo-python) | 0.4.0 | 0 | PyO3 extension module for polars-geo (imported as `polars_geo`). Not a general-… |
 
 ## Data source
 

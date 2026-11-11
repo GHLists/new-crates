@@ -1,0 +1,41 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-11T08:22:07.135358Z,htmx_four_axum,0.1.0,0,0,https://github.com/nilswloewen/htmx_four_axum,Axum extractors and response headers for htmx 4.
+2026-11-11T08:22:41.164904Z,bruce-method-release,0.1.0,0,0,https://github.com/bruceskingle/bruce-method-release,"Developing and releasing a set of Rust repositories which depend on one another, one way, in the right order"
+2026-11-11T08:23:55.354282Z,tsrs_binder,0.24.0,0,0,https://github.com/oxc-project/tsrs,TypeScript symbol binding for tsrs
+2026-11-11T08:24:21.635944Z,polars-geo-core,0.4.0,0,0,https://github.com/Lemonjuicegit/polarsGeo,"GeoArrow-compatible geometry primitives for polars-geo: geometry model, WKB/EWKB/WKT codecs and CRS. Community project, not affiliated with the Polars team / Polars Inc. Not the official geoarrow cra…"
+2026-11-11T08:27:06.575187Z,zakura-tor-relay-selection,0.0.0,0,0,https://github.com/zakura-core/zakura,Reserved
+2026-11-11T08:29:10.780519Z,grapheme-ui,0.1.0,0,0,https://github.com/EntasisLabs/grapheme-ui,Bridge from Grapheme View IR to rndr: full apps and embeddable surfaces
+2026-11-11T08:30:05.836607Z,foundation_cloudflare_secrets,0.1.1,0,0,https://github.com/ewe-studios/ewe_platform,Generated Cloudflare API client: secrets group
+2026-11-11T08:30:44.124961Z,zellij-terminal,0.46.0,0,0,https://github.com/zellij-org/zellij,"The Zellij terminal, a native client for Zellij sessions"
+2026-11-11T08:34:10.247739Z,tsrs_sourcemap,0.24.0,0,0,https://github.com/oxc-project/tsrs,JavaScript source map generation for tsrs
+2026-11-11T08:35:39.976374Z,scanai,0.1.0,0,0,https://github.com/rvdende/scanai,"Watches a network scanner, saves every scan, then OCRs and classifies it with a local vision model"
+2026-11-11T08:36:58.223534Z,rustybattery,0.3.0,0,0,https://github.com/b1mb4/rustybattery,RustyBattery — Per-App Power Tracker & Battery Optimizer for Linux
+2026-11-11T08:37:57.155516Z,msssim-lite,0.1.0,0,0,https://github.com/awxkee/msssim-lite,Fast block-window multi-scale SSIM for encoder decisions
+2026-11-11T08:38:09.121509Z,zakura-tor-rtcompat,0.0.0,0,0,https://github.com/zakura-core/zakura,Reserved
+2026-11-11T08:40:09.123766Z,foundation_cloudflare_security,0.1.1,0,0,https://github.com/ewe-studios/ewe_platform,Generated Cloudflare API client: security group
+2026-11-11T08:43:57.774989Z,meow-git,1.0.0,0,0,https://github.com/Abhinav-Prabhakar/Meow,"Git, without the growl. A beginner-first Git CLI."
+2026-11-11T08:44:26.529633Z,tsrs_printer,0.24.0,0,0,https://github.com/oxc-project/tsrs,TypeScript and JavaScript source printer for tsrs
+2026-11-11T08:45:39.248645Z,polars-geo-index,0.4.0,0,0,https://github.com/Lemonjuicegit/polarsGeo,"Spatial index (STR R-tree), Hilbert bucket keys and bbox pruning for polars-geo. Community project, not affiliated with the Polars team / Polars Inc."
+2026-11-11T08:49:11.519947Z,zakura-tor-rtmock,0.0.0,0,0,https://github.com/zakura-core/zakura,Reserved
+2026-11-11T08:49:40.389771Z,polars-geo-algo,0.4.0,0,0,https://github.com/Lemonjuicegit/polarsGeo,"Vectorised geometry algorithms for polars-geo: a GeoEngine trait with a pure-Rust backend. Community project, not affiliated with the Polars team / Polars Inc."
+2026-11-11T08:50:05.106518Z,foundation_cloudflare_security_center,0.1.1,0,0,https://github.com/ewe-studios/ewe_platform,Generated Cloudflare API client: security_center group
+2026-11-11T08:54:43.728588Z,tsrs_api_codec,0.24.0,0,0,https://github.com/oxc-project/tsrs,Binary AST codec of the TypeScript native API (port of the pinned tsc/internal/api/encoder)
+2026-11-11T08:54:44.825915Z,egui_fit,0.1.0,0,0,https://github.com/quazardous/egui_fit,"A slot layout engine with no egui dependency: dense grid packing of plain boxes in standard slot sizes, with forms, orientations, growth and hysteresis."
+2026-11-11T08:58:36.485559Z,scry-cli,0.1.0,0,0,https://github.com/JirkaKlimes/scry,"grep for images: search by metadata, OCR text, and meaning"
+2026-11-11T08:59:07.503126Z,find_conf,0.1.0,0,0,https://github.com/webc-site/npm.git,Find a config file by walking up from a directory / 从目录逐级向上查找配置文件
+2026-11-11T09:00:05.234415Z,foundation_cloudflare_shares,0.1.1,0,0,https://github.com/ewe-studios/ewe_platform,Generated Cloudflare API client: shares group
+2026-11-11T09:00:13.85139Z,zakura-tor-socksproto,0.0.0,0,0,https://github.com/zakura-core/zakura,Reserved
+2026-11-11T09:02:42.923577Z,axum-server-dual-protocol2,0.9.0,0,0,https://github.com/abs0luty/axum-server-dual-protocol,Host a HTTP and HTTPS server on the same port with `axum-server`
+2026-11-11T09:04:59.921367Z,tsrs_api_transport,0.24.0,0,0,https://github.com/oxc-project/tsrs,"Transport layer for the tsgo-compatible programmatic API (--api): sync MessagePack tuples, async JSON-RPC, filesystem callbacks"
+2026-11-11T09:05:47.421285Z,axum-server-acme,0.1.0,0,0,https://github.com/abs0luty/axum-server-acme,Automatic TLS certificates for axum-server through ACME (for example Let's Encrypt).
+2026-11-11T09:10:00.69474Z,flipper-core,0.8.0,0,0,https://github.com/zx97/flipper-companion,Pure domain model and policies for flipper-companion
+2026-11-11T09:10:07.117434Z,foundation_cloudflare_storage,0.1.1,0,0,https://github.com/ewe-studios/ewe_platform,Generated Cloudflare API client: storage group
+2026-11-11T09:10:07.700296Z,flipper-dfu,0.8.0,0,0,https://github.com/zx97/flipper-companion,DfuSe image parsing and STM32 DFU flashing
+2026-11-11T09:10:22.983686Z,flipper-protocol,0.8.0,0,0,https://github.com/zx97/flipper-companion,Flipper Zero protobuf RPC protocol and serial session
+2026-11-11T09:10:40.397961Z,flipper-update,0.8.0,0,0,https://github.com/zx97/flipper-companion,"Firmware directory, download and verification"
+2026-11-11T09:11:16.536339Z,zakura-tor-units,0.0.0,0,0,https://github.com/zakura-core/zakura,Reserved
+2026-11-11T09:14:53.031194Z,polars-geo-frame,0.4.0,0,0,https://github.com/Lemonjuicegit/polarsGeo,"GeoArrow <-> Polars bridge for polars-geo: geometry dtypes, Series conversions and frame-level geo metadata. Community project, not affiliated with the Polars team / Polars Inc."
+2026-11-11T09:15:16.038763Z,tsrs_astnav,0.24.0,0,0,https://github.com/oxc-project/tsrs,TypeScript syntax tree navigation for tsrs
+2026-11-11T09:15:42.962122Z,polars-geo-io,0.4.0,0,0,https://github.com/Lemonjuicegit/polarsGeo,"I/O backends for polars-geo: GeoJSON/NDJSON, GeoParquet and WKB/WKT columns. Community project, not affiliated with the Polars team / Polars Inc."
+2026-11-11T09:16:52.976114Z,polars-geo-expr,0.4.0,0,0,https://github.com/Lemonjuicegit/polarsGeo,"Geo expressions for polars-geo (`geo_area`, `geo_centroid`, ...) built on the polars expression API. Community project, not affiliated with the Polars team / Polars Inc."
+2026-11-11T09:17:13.614747Z,polars-geo-python,0.4.0,0,0,https://github.com/Lemonjuicegit/polarsGeo,PyO3 extension module for polars-geo (imported as `polars_geo`). Not a general-purpose library.
