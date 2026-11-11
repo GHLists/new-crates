@@ -1,0 +1,36 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-11T11:22:10.58908Z,pka-webarrow,0.1.0,0,0,https://github.com/panpka/webarrow,"Write Rust macros that cross into JS, keeping paths that look like JS"
+2026-11-11T11:30:27.533442Z,tsrs_execute,0.24.0,0,0,https://github.com/oxc-project/tsrs,Command-line and build orchestration for the tsrs TypeScript compiler
+2026-11-11T11:32:25.053282Z,licoup-platform-bridges,0.3.1,0,0,https://github.com/LicoLand/LicoUp-CLI.git,LicoUp platform bridges: same-process ABI identity and the generation-index handle arena.
+2026-11-11T11:40:45.460518Z,tsrs_lsproto,0.24.0,0,0,https://github.com/oxc-project/tsrs,TypeScript language server protocol types for tsrs
+2026-11-11T11:42:49.282689Z,crabxl-calc,0.2.0,0,0,https://github.com/crabxl/crabxl,Formula calculation for CrabXL workbooks.
+2026-11-11T11:43:08.043177Z,varaq,0.1.0,0,0,https://github.com/arriqaaq/varaq,"An embedded transactional key-value store: a B+tree with optimistic latches, a buffer manager that spills to disk, a write-ahead log, and backends for files, memory, io_uring and the browser's OPFS."
+2026-11-11T11:43:13.015376Z,licoup-workflow,0.3.1,0,0,https://github.com/LicoLand/LicoUp-CLI.git,LicoUp Adaptive Flywheel workflow compiler and transition machine.
+2026-11-11T11:43:44.019385Z,tilth-core,0.13.0,0,0,https://github.com/jahala/tilth,"The parsing substrate under tilth: tree-sitter outlines, language detection, imports, call sites and file-level dependencies."
+2026-11-11T11:47:49.821528Z,sileo-slint,0.1.0,0,0,https://github.com/Rezondes/sileo-slint,A physics-based toast component for Slint. Port of Sileo.
+2026-11-11T11:51:01.099513Z,tsrs_projectutil,0.24.0,0,0,https://github.com/oxc-project/tsrs,TypeScript project utilities for tsrs
+2026-11-11T11:53:21.760874Z,stackpress-leptos,0.1.0,0,0,https://github.com/stackpress/rust,Reusable Leptos components and explicit rendering without an application host
+2026-11-11T11:54:02.169194Z,stackpress-framework-language,0.1.0,0,0,https://github.com/stackpress/rust,Pure checked locale registry and explicit aliases
+2026-11-11T11:54:24.070822Z,stackpress-sql,0.1.0,0,0,https://github.com/stackpress/rust,Owned SQL queries and transport-independent database contracts
+2026-11-11T11:54:34.635532Z,licoup-conversation,0.3.1,0,0,https://github.com/LicoLand/LicoUp-CLI.git,Durable LicoUp Canonical Conversation authority backed by SQLite.
+2026-11-11T11:54:53.057665Z,stackpress-lib,0.1.0,0,0,https://github.com/stackpress/rust,Transport-neutral Stackpress values and ordered capability dispatch
+2026-11-11T11:55:13.900549Z,licoup-project,0.3.1,0,0,https://github.com/LicoLand/LicoUp-CLI.git,"Authorized LicoUp project and plan identity, dependency inputs, scheduling and change preview."
+2026-11-11T11:55:38.474544Z,stackpress-idea-parser,0.1.0,0,0,https://github.com/stackpress/rust,"Bounded Idea syntax, ordered schema compilation and source diagnostics"
+2026-11-11T12:01:17.838238Z,charting,0.1.0,0,0,https://github.com/ChloePike/charting,"Financial charts for egui: candles drawn the TradingView way, indicators, drawing tools and order-flow layers (book heatmap, liquidation-style time x price maps)"
+2026-11-11T12:01:24.979935Z,tsrs_ls,0.24.0,0,0,https://github.com/oxc-project/tsrs,TypeScript language service for tsrs
+2026-11-11T12:03:54.978198Z,tw-cli,0.1.0,0,0,https://github.com/markdoc-rs/tw,One command for a Markdoc corpus
+2026-11-11T12:06:12.703554Z,licoup-workflow-store,0.3.1,0,0,https://github.com/LicoLand/LicoUp-CLI.git,"Durable LicoUp workflow state, command, queue, subscription and commit contracts."
+2026-11-11T12:07:46.860423Z,tzlookup,3.2.0,0,0,https://github.com/BPplays/tzlookup,Set the system timezone based on IP geolocation.
+2026-11-11T12:10:30.9512Z,dlens-dv,1.0.1,0,0,https://github.com/dview-io/dlens,"Embeddable evaluation for text-to-SQL pipelines: initialise once, then call functions."
+2026-11-11T12:11:41.654713Z,waihub,0.0.0,0,0,https://git.transaction.science/Transaction-Science/open-standards,"waihub: name held by Transaction Science, Inc. Nothing is released under it yet."
+2026-11-11T12:11:47.615058Z,tsrs_project,0.24.0,0,0,https://github.com/oxc-project/tsrs,TypeScript project management for tsrs
+2026-11-11T12:14:33.030563Z,rshellcheck-core,1.1.0,0,0,https://github.com/kjanat/shellcheck-rs,"Parser and analysis core of rshellcheck, a Rust port of ShellCheck"
+2026-11-11T12:14:49.521918Z,rshellcheck,1.1.0,0,0,https://github.com/kjanat/shellcheck-rs,"Rust port of ShellCheck, the static analysis tool for shell scripts"
+2026-11-11T12:15:38.76967Z,tzlookup-cli,3.2.1,0,0,https://github.com/BPplays/tzlookup,Set the system timezone based on IP geolocation.
+2026-11-11T12:17:00.524051Z,edinet-api,0.1.0,0,0,https://github.com/uiuifree/rust-edinet-api,"Unofficial async Rust client and CLI for the EDINET API v2 (Japan FSA): filing lists and downloads of annual securities reports (有価証券報告書) and other disclosures as XBRL, CSV or PDF"
+2026-11-11T12:17:19.999882Z,licoup-agent-codex,0.3.1,0,0,https://github.com/LicoLand/LicoUp-CLI.git,Codex adapter package: the Codex app-server driver and its vendor protocol
+2026-11-11T12:20:22.349622Z,relate-model,0.0.1,0,0,https://github.com/relatedb/relate,"Placeholder for relate-model, part of the Relate embedded openCypher graph engine. The first real release is coming soon; this empty crate only claims the name."
+2026-11-11T12:20:25.585196Z,relate-names,0.0.1,0,0,https://github.com/relatedb/relate,"Placeholder for relate-names, part of the Relate embedded openCypher graph engine. The first real release is coming soon; this empty crate only claims the name."
+2026-11-11T12:20:28.958547Z,relate-splitter,0.0.1,0,0,https://github.com/relatedb/relate,"Placeholder for relate-splitter, part of the Relate embedded openCypher graph engine. The first real release is coming soon; this empty crate only claims the name."
+2026-11-11T12:20:31.949482Z,relate-core,0.0.1,0,0,https://github.com/relatedb/relate,"Placeholder for relate-core, part of the Relate embedded openCypher graph engine. The first real release is coming soon; this empty crate only claims the name."
+2026-11-11T12:20:35.193857Z,relate-parser,0.0.1,0,0,https://github.com/relatedb/relate,"Placeholder for relate-parser, part of the Relate embedded openCypher graph engine. The first real release is coming soon; this empty crate only claims the name."

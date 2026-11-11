@@ -8,58 +8,49 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-11 11:21 UTC
+## Latest list — 2026-11-11 12:21 UTC
 
-New crates published between 2026-11-11 10:18 UTC and 2026-11-11 11:21 UTC.
+New crates published between 2026-11-11 11:21 UTC and 2026-11-11 12:21 UTC.
 
-[Full CSV](data/new-crates-2026-11-11T11-21-14-856332Z.csv)
+[Full CSV](data/new-crates-2026-11-11T12-21-25-25173Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-11 10:20:08 | [foundation_cloudflare_waiting_rooms](https://crates.io/crates/foundation_cloudflare_waiting_rooms) | 0.1.1 | 0 | Generated Cloudflare API client: waiting_rooms group |
-| 2026-11-11 10:20:25 | [magicpay](https://crates.io/crates/magicpay) | 0.1.0 | 0 | Official Rust SDK for the MagicPay payment API |
-| 2026-11-11 10:22:09 | [flipper-companion-cli](https://crates.io/crates/flipper-companion-cli) | 0.8.1 | 0 | Command-line interface for flipper-companion: devices, firmware, storage, scree… |
-| 2026-11-11 10:26:02 | [leptos-markdoc](https://crates.io/crates/leptos-markdoc) | 0.1.0 | 0 | Leptos components that render Markdoc content |
-| 2026-11-11 10:26:07 | [flipper-companion](https://crates.io/crates/flipper-companion) | 0.8.1 | 0 | Desktop companion for the Flipper Zero: device management, firmware updates, fi… |
-| 2026-11-11 10:26:49 | [skopos-core](https://crates.io/crates/skopos-core) | 0.1.0 | 0 | Read, check and write OpenSkopos documents |
-| 2026-11-11 10:27:05 | [skopos](https://crates.io/crates/skopos) | 0.1.0 | 0 | Command line tool for OpenSkopos documents: check, fmt, convert, import, ids, e… |
-| 2026-11-11 10:28:28 | [tricode-core](https://crates.io/crates/tricode-core) | 1.0.0 | 0 | Encode text into triangle-grid codes and read them back from images |
-| 2026-11-11 10:28:29 | [tsrs_contentmapper](https://crates.io/crates/tsrs_contentmapper) | 0.24.0 | 0 | Source content mapping for the tsrs TypeScript compiler |
-| 2026-11-11 10:29:01 | [tricode](https://crates.io/crates/tricode) | 1.0.0 | 0 | Command-line tool that writes triangle-grid codes as PNGs and reads them back f… |
-| 2026-11-11 10:30:08 | [foundation_cloudflare_workers](https://crates.io/crates/foundation_cloudflare_workers) | 0.1.1 | 0 | Generated Cloudflare API client: workers group |
-| 2026-11-11 10:32:39 | [markdoc-ls](https://crates.io/crates/markdoc-ls) | 0.1.0 | 0 | Language server for a Markdoc corpus |
-| 2026-11-11 10:36:43 | [don_cli](https://crates.io/crates/don_cli) | 0.3.1 | 0 | Official CLI for Don Framework - Scaffold Rust APIs in 1 second |
-| 2026-11-11 10:38:51 | [tsrs_transformers](https://crates.io/crates/tsrs_transformers) | 0.24.0 | 0 | TypeScript and JavaScript transforms for tsrs |
-| 2026-11-11 10:39:59 | [fontoxide](https://crates.io/crates/fontoxide) | 0.0.1 | 0 | A Rust port of fontTools (placeholder: the first release, 0.1.0, is being publi… |
-| 2026-11-11 10:40:17 | [foundation_cloudflare_zones](https://crates.io/crates/foundation_cloudflare_zones) | 0.1.1 | 0 | Generated Cloudflare API client: zones group |
-| 2026-11-11 10:40:19 | [markdoc-prose](https://crates.io/crates/markdoc-prose) | 0.1.0 | 0 | Prose linting for a Markdoc corpus, on harper-core |
-| 2026-11-11 10:40:48 | [preset-agent-kit](https://crates.io/crates/preset-agent-kit) | 0.2.0 | 0 | A local-first agent for a desktop app: an OpenAI-compatible streaming client, t… |
-| 2026-11-11 10:48:19 | [mlmorph-rs](https://crates.io/crates/mlmorph-rs) | 1.4.3 | 0 | Malayalam morphological analyzer |
-| 2026-11-11 10:49:10 | [tsrs_declarations](https://crates.io/crates/tsrs_declarations) | 0.24.0 | 0 | TypeScript declaration emit for tsrs |
-| 2026-11-11 10:51:05 | [starknet-wallet-core](https://crates.io/crates/starknet-wallet-core) | 0.2.2 | 0 | Starknet wallet core: Krusty KMS key custody, the encrypted vault and wallet lo… |
-| 2026-11-11 10:51:24 | [bramble-core](https://crates.io/crates/bramble-core) | 0.2.2 | 0 | Bramble wallet core: wallet-core plus Bramble's policy, behind one UniFFI surfa… |
-| 2026-11-11 10:59:30 | [tsrs_compiler](https://crates.io/crates/tsrs_compiler) | 0.24.0 | 0 | TypeScript compiler programs and emit for tsrs |
-| 2026-11-11 11:00:14 | [dduroc-graphql](https://crates.io/crates/dduroc-graphql) | 0.2.0 | 0 | Bounded GraphQL queries and subscriptions over the dduroc native read API |
-| 2026-11-11 11:00:19 | [dduroc-web](https://crates.io/crates/dduroc-web) | 0.2.0 | 0 | Embeddable Axum router and prebuilt UI for dduroc |
-| 2026-11-11 11:00:22 | [mrs-arithmetic](https://crates.io/crates/mrs-arithmetic) | 0.3.0 | 0 | Bounded, exact evaluation of TPTP integer and rational arithmetic |
-| 2026-11-11 11:02:06 | [crabnnb](https://crates.io/crates/crabnnb) | 0.1.0 | 0 | CRABNNB - Crab's Remote Access Bluetooth Nearby Notification Blocker |
-| 2026-11-11 11:03:15 | [lease-cell](https://crates.io/crates/lease-cell) | 0.1.0 | 0 | Cell with checked, temporary ownership of its value |
-| 2026-11-11 11:06:02 | [pka-bigfixed](https://crates.io/crates/pka-bigfixed) | 0.1.0 | 0 | Arbitrary-range fixed-point decimal with an alloc-free i64 fast path |
-| 2026-11-11 11:06:03 | [nrfxlib-sys-pretty](https://crates.io/crates/nrfxlib-sys-pretty) | 0.1.0+4.0.0plus3.4.0 | 0 | A selective re-export of nrfxlib-sys with more structured names |
-| 2026-11-11 11:06:52 | [sjml-macros](https://crates.io/crates/sjml-macros) | 0.40.0 | 0 | Procedural macros for the Somuch Java Mod Loader Rust SDK |
-| 2026-11-11 11:07:21 | [sjml-sdk](https://crates.io/crates/sjml-sdk) | 0.40.0 | 0 | Rust guest SDK for the Somuch Java Mod Loader ABI |
-| 2026-11-11 11:08:03 | [sjml-cli](https://crates.io/crates/sjml-cli) | 0.1.0 | 0 | Build, validate, and package SJML Rust guest projects |
-| 2026-11-11 11:08:58 | [mrs-prephase](https://crates.io/crates/mrs-prephase) | 0.3.0 | 0 | Pre-phase problem analysis, taxonomy and plan synthesis for mrs |
-| 2026-11-11 11:09:45 | [rtg-tui](https://crates.io/crates/rtg-tui) | 0.1.16 | 0 | A terminal-first Telegram client written in Rust. |
-| 2026-11-11 11:09:47 | [tsrs_fswatch](https://crates.io/crates/tsrs_fswatch) | 0.24.0 | 0 | Filesystem watching for the tsrs TypeScript compiler |
-| 2026-11-11 11:14:31 | [lico-catalog-convergence](https://crates.io/crates/lico-catalog-convergence) | 0.3.1 | 0 | Portable catalog convergence engine shared by LicoUp desktop and mobile targets. |
-| 2026-11-11 11:14:38 | [licoup-state-machine-codegen](https://crates.io/crates/licoup-state-machine-codegen) | 0.3.1 | 0 | Build-time compiler for declarative LicoUp state machines. |
-| 2026-11-11 11:14:49 | [licoup-agent-adapter-sdk](https://crates.io/crates/licoup-agent-adapter-sdk) | 0.3.1 | 0 | Shared contract vocabulary every LicoUp Agent adapter program composes. |
-| 2026-11-11 11:14:59 | [licoup-agent-runtime](https://crates.io/crates/licoup-agent-runtime) | 0.3.1 | 0 | Host-neutral LicoUp Agent runtime boundary: provider identity, capability evide… |
-| 2026-11-11 11:15:12 | [licoup-agent-adapters](https://crates.io/crates/licoup-agent-adapters) | 0.3.1 | 0 | Provider-neutral LicoUp Subagent Mesh adapter registry for caller and target po… |
-| 2026-11-11 11:17:45 | [trackparse](https://crates.io/crates/trackparse) | 0.4.0 | 0 | Turn messy track names into structured data: artists with roles, remixes and ve… |
-| 2026-11-11 11:19:39 | [rebit](https://crates.io/crates/rebit) | 0.1.0 | 0 | Simple regex engine |
-| 2026-11-11 11:20:06 | [tsrs_incremental](https://crates.io/crates/tsrs_incremental) | 0.24.0 | 0 | Incremental compilation for the tsrs TypeScript compiler |
+| 2026-11-11 11:22:10 | [pka-webarrow](https://crates.io/crates/pka-webarrow) | 0.1.0 | 0 | Write Rust macros that cross into JS, keeping paths that look like JS |
+| 2026-11-11 11:30:27 | [tsrs_execute](https://crates.io/crates/tsrs_execute) | 0.24.0 | 0 | Command-line and build orchestration for the tsrs TypeScript compiler |
+| 2026-11-11 11:32:25 | [licoup-platform-bridges](https://crates.io/crates/licoup-platform-bridges) | 0.3.1 | 0 | LicoUp platform bridges: same-process ABI identity and the generation-index han… |
+| 2026-11-11 11:40:45 | [tsrs_lsproto](https://crates.io/crates/tsrs_lsproto) | 0.24.0 | 0 | TypeScript language server protocol types for tsrs |
+| 2026-11-11 11:42:49 | [crabxl-calc](https://crates.io/crates/crabxl-calc) | 0.2.0 | 0 | Formula calculation for CrabXL workbooks. |
+| 2026-11-11 11:43:08 | [varaq](https://crates.io/crates/varaq) | 0.1.0 | 0 | An embedded transactional key-value store: a B+tree with optimistic latches, a… |
+| 2026-11-11 11:43:13 | [licoup-workflow](https://crates.io/crates/licoup-workflow) | 0.3.1 | 0 | LicoUp Adaptive Flywheel workflow compiler and transition machine. |
+| 2026-11-11 11:43:44 | [tilth-core](https://crates.io/crates/tilth-core) | 0.13.0 | 0 | The parsing substrate under tilth: tree-sitter outlines, language detection, im… |
+| 2026-11-11 11:47:49 | [sileo-slint](https://crates.io/crates/sileo-slint) | 0.1.0 | 0 | A physics-based toast component for Slint. Port of Sileo. |
+| 2026-11-11 11:51:01 | [tsrs_projectutil](https://crates.io/crates/tsrs_projectutil) | 0.24.0 | 0 | TypeScript project utilities for tsrs |
+| 2026-11-11 11:53:21 | [stackpress-leptos](https://crates.io/crates/stackpress-leptos) | 0.1.0 | 0 | Reusable Leptos components and explicit rendering without an application host |
+| 2026-11-11 11:54:02 | [stackpress-framework-language](https://crates.io/crates/stackpress-framework-language) | 0.1.0 | 0 | Pure checked locale registry and explicit aliases |
+| 2026-11-11 11:54:24 | [stackpress-sql](https://crates.io/crates/stackpress-sql) | 0.1.0 | 0 | Owned SQL queries and transport-independent database contracts |
+| 2026-11-11 11:54:34 | [licoup-conversation](https://crates.io/crates/licoup-conversation) | 0.3.1 | 0 | Durable LicoUp Canonical Conversation authority backed by SQLite. |
+| 2026-11-11 11:54:53 | [stackpress-lib](https://crates.io/crates/stackpress-lib) | 0.1.0 | 0 | Transport-neutral Stackpress values and ordered capability dispatch |
+| 2026-11-11 11:55:13 | [licoup-project](https://crates.io/crates/licoup-project) | 0.3.1 | 0 | Authorized LicoUp project and plan identity, dependency inputs, scheduling and… |
+| 2026-11-11 11:55:38 | [stackpress-idea-parser](https://crates.io/crates/stackpress-idea-parser) | 0.1.0 | 0 | Bounded Idea syntax, ordered schema compilation and source diagnostics |
+| 2026-11-11 12:01:17 | [charting](https://crates.io/crates/charting) | 0.1.0 | 0 | Financial charts for egui: candles drawn the TradingView way, indicators, drawi… |
+| 2026-11-11 12:01:24 | [tsrs_ls](https://crates.io/crates/tsrs_ls) | 0.24.0 | 0 | TypeScript language service for tsrs |
+| 2026-11-11 12:03:54 | [tw-cli](https://crates.io/crates/tw-cli) | 0.1.0 | 0 | One command for a Markdoc corpus |
+| 2026-11-11 12:06:12 | [licoup-workflow-store](https://crates.io/crates/licoup-workflow-store) | 0.3.1 | 0 | Durable LicoUp workflow state, command, queue, subscription and commit contract… |
+| 2026-11-11 12:07:46 | [tzlookup](https://crates.io/crates/tzlookup) | 3.2.0 | 0 | Set the system timezone based on IP geolocation. |
+| 2026-11-11 12:10:30 | [dlens-dv](https://crates.io/crates/dlens-dv) | 1.0.1 | 0 | Embeddable evaluation for text-to-SQL pipelines: initialise once, then call fun… |
+| 2026-11-11 12:11:41 | [waihub](https://crates.io/crates/waihub) | 0.0.0 | 0 | waihub: name held by Transaction Science, Inc. Nothing is released under it yet. |
+| 2026-11-11 12:11:47 | [tsrs_project](https://crates.io/crates/tsrs_project) | 0.24.0 | 0 | TypeScript project management for tsrs |
+| 2026-11-11 12:14:33 | [rshellcheck-core](https://crates.io/crates/rshellcheck-core) | 1.1.0 | 0 | Parser and analysis core of rshellcheck, a Rust port of ShellCheck |
+| 2026-11-11 12:14:49 | [rshellcheck](https://crates.io/crates/rshellcheck) | 1.1.0 | 0 | Rust port of ShellCheck, the static analysis tool for shell scripts |
+| 2026-11-11 12:15:38 | [tzlookup-cli](https://crates.io/crates/tzlookup-cli) | 3.2.1 | 0 | Set the system timezone based on IP geolocation. |
+| 2026-11-11 12:17:00 | [edinet-api](https://crates.io/crates/edinet-api) | 0.1.0 | 0 | Unofficial async Rust client and CLI for the EDINET API v2 (Japan FSA): filing… |
+| 2026-11-11 12:17:19 | [licoup-agent-codex](https://crates.io/crates/licoup-agent-codex) | 0.3.1 | 0 | Codex adapter package: the Codex app-server driver and its vendor protocol |
+| 2026-11-11 12:20:22 | [relate-model](https://crates.io/crates/relate-model) | 0.0.1 | 0 | Placeholder for relate-model, part of the Relate embedded openCypher graph engi… |
+| 2026-11-11 12:20:25 | [relate-names](https://crates.io/crates/relate-names) | 0.0.1 | 0 | Placeholder for relate-names, part of the Relate embedded openCypher graph engi… |
+| 2026-11-11 12:20:28 | [relate-splitter](https://crates.io/crates/relate-splitter) | 0.0.1 | 0 | Placeholder for relate-splitter, part of the Relate embedded openCypher graph e… |
+| 2026-11-11 12:20:31 | [relate-core](https://crates.io/crates/relate-core) | 0.0.1 | 0 | Placeholder for relate-core, part of the Relate embedded openCypher graph engin… |
+| 2026-11-11 12:20:35 | [relate-parser](https://crates.io/crates/relate-parser) | 0.0.1 | 0 | Placeholder for relate-parser, part of the Relate embedded openCypher graph eng… |
 
 ## Data source
 
