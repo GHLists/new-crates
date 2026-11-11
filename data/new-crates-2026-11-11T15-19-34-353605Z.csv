@@ -1,0 +1,33 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-11T14:20:39.966812Z,fontoxide-mtilib,0.1.0,0,0,https://github.com/MuTsunTsai/fontoxide,Building OpenType Layout tables from Monotype/FontDame source files; a port of fontTools.mtiLib
+2026-11-11T14:22:25.915293Z,ek-jees,0.1.0,0,0,https://cnb.cool/enkeep/ek-jees,JEES gateway for the enkeep ek ecosystem: CTP MD + JEES TD in one plugin. Session drivers map JEES trader wire rows onto ek-data objects over the ek-event bus (pure-logic core; both native SDKs ship…
+2026-11-11T14:27:54.222855Z,ironflux-worker,0.1.0,0,0,https://gitlab.com/ThomasTartrau/ironflux,"The ironflux worker: registers your workflows and runs them from Postgres, one Kubernetes pod per step."
+2026-11-11T14:30:36.860751Z,fontoxide-subset,0.1.0,0,0,https://github.com/MuTsunTsai/fontoxide,Font subsetting; a port of fontTools.subset
+2026-11-11T14:30:52.359996Z,wsq-certified,1.0.0,0,0,https://github.com/ybdn-ei/wsq-codec,"The certified part of wsq-codec: WSQ fingerprint decoder, conformant encoder and inspection tools, frozen and versioned with the FBI certificate"
+2026-11-11T14:31:39.02534Z,libmcp-core,0.0.2,0,0,https://github.com/peterquentin/libmcp,In-process MCP engine for embedded and mobile applications
+2026-11-11T14:40:11.547466Z,uzor-secure,1.5.30,0,0,https://github.com/UZOR-dev/uzor,"Platform secure store for uzor apps: secrets behind biometry / device credential, passkey ceremonies, platform capabilities, OS randomness. No signing or verification."
+2026-11-11T14:40:40.357233Z,fontoxide-varlib,0.1.0,0,0,https://github.com/MuTsunTsai/fontoxide,Variable font tools; a port of fontTools.varLib
+2026-11-11T14:42:33.312795Z,claude-ide-launchd,0.1.1,0,0,https://github.com/small-gear-lab/claude-ide-server,"Unofficial: launchd's socket activation on macOS for claude-ide-server, the one call wrapped so that nothing else needs unsafe"
+2026-11-11T14:42:33.739927Z,claude-ide-windows,0.1.1,0,0,https://github.com/small-gear-lab/claude-ide-server,"Unofficial: the calls to Windows that claude-ide-server needs (a named pipe for one user, the user's SID, a process check), wrapped so that nothing else needs unsafe"
+2026-11-11T14:42:35.513871Z,claude-ide-core,0.1.1,0,0,https://github.com/small-gear-lab/claude-ide-server,"Unofficial server side of the /ide protocol of Claude Code: WebSocket, lock files and MCP, for the adapter of any editor"
+2026-11-11T14:42:37.643711Z,claude-ide-server,0.1.1,0,0,https://github.com/small-gear-lab/claude-ide-server,"Unofficial server that connects editors to the /ide of Claude Code, with an adapter for each editor"
+2026-11-11T14:43:43.432705Z,estivation,0.0.0,0,0,,local ai assistant
+2026-11-11T14:45:50.097439Z,docs-compiler,0.1.0,0,0,https://github.com/WyattAu/docs-compiler,"Docs compiler composing the estate's docs crates: include-symbol, witness, lean-check, and island fences resolved to static HTML via docs-core (docs-core extension program, SPEC.md M3/M4)"
+2026-11-11T14:48:07.777056Z,kitcode,0.1.3,0,0,https://github.com/taitide-labs/kitcode,KitCode Agent is an AI agent built in Rust.
+2026-11-11T14:48:34.640072Z,paga-rs,0.1.0,0,0,https://github.com/TeamTrustBridge/paga-rs,"Unofficial async Rust SDK for the Paga Engine API - payments, payouts, wallets and financial operations."
+2026-11-11T14:50:38.11488Z,fontoxide-fealib,0.1.0,0,0,https://github.com/MuTsunTsai/fontoxide,Feature file parsing and compiling; a port of fontTools.feaLib
+2026-11-11T14:53:41.231086Z,estiv,0.0.0,0,0,,local ai assistant
+2026-11-11T14:54:39.563284Z,aestivation,0.0.0,0,0,,local AI assistant
+2026-11-11T14:55:59.635173Z,rqtk-client,2.0.0-rc.1,0,0,https://github.com/wdoppenberg/rqtk,"Read rqtk repositories from Rust: requirements, links, verification status, lint findings and change history."
+2026-11-11T14:56:01.024792Z,caniko-secret-manager-schema,0.4.5,0,0,https://github.com/caniko/secret-manager,Data schema for secret-manager registries: switchable service accounts and their resolution
+2026-11-11T14:57:03.666597Z,abos-javac,0.1.0,0,0,https://github.com/A-Box-of-Scraps/abos-jni-rs,A build-time dependency for Cargo build scripts and unit tests to assist in invoking the native Java compiler to compile Java source files into class files.
+2026-11-11T14:57:08.550744Z,abos-jni-macros,0.1.0,0,0,https://github.com/A-Box-of-Scraps/abos-jni-rs,Procedural macros for abos-jni.
+2026-11-11T14:57:10.669939Z,abos-jni-sys-macros,0.1.0,0,0,https://github.com/A-Box-of-Scraps/abos-jni-rs,Versioned JNI and JVMTI function-table macros for abos-jni-sys.
+2026-11-11T14:57:12.422248Z,abos-cafebabe,0.1.0,0,0,https://github.com/A-Box-of-Scraps/abos-jni-rs,Small Java class-file metadata reader for JNI binding generation.
+2026-11-11T14:57:14.156872Z,abos-jbindgen-annotations,0.1.0,0,0,https://github.com/A-Box-of-Scraps/abos-jni-rs,Embedded Java annotations for abos-jbindgen.
+2026-11-11T15:00:32.041886Z,fontoxide-voltlib,0.1.0,0,0,https://github.com/MuTsunTsai/fontoxide,Reading MS VOLT projects and converting them to feature files; a port of fontTools.voltLib
+2026-11-11T15:09:03.035865Z,awk,0.1.0,0,0,https://github.com/hakuxyz/awk,A fast POSIX awk implementation in Rust
+2026-11-11T15:10:34.98072Z,fontoxide-cli,0.1.0,0,0,https://github.com/MuTsunTsai/fontoxide,"The fontoxide executable, which runs the fontTools command lines (ttx, subset, merge, varLib.instancer, ...); a port of fontTools.ttx and fontTools.__main__"
+2026-11-11T15:11:19.04438Z,bendec2rs,0.1.0,0,0,https://github.com/hpn777/bendec2rs,Portable Rust source generator for Bendec fixed-size message definitions
+2026-11-11T15:17:08.285078Z,abos-jni-sys,0.1.0,0,0,https://github.com/A-Box-of-Scraps/abos-jni-rs,Raw Rust definitions corresponding to jni.h.
+2026-11-11T15:17:14.93412Z,abos-jni,0.1.0,0,0,https://github.com/A-Box-of-Scraps/abos-jni-rs,Rust bindings and utilities for the Java Native Interface.

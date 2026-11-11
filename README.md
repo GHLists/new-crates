@@ -8,58 +8,46 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-11 14:20 UTC
+## Latest list — 2026-11-11 15:19 UTC
 
-New crates published between 2026-11-11 13:18 UTC and 2026-11-11 14:20 UTC.
+New crates published between 2026-11-11 14:20 UTC and 2026-11-11 15:19 UTC.
 
-[Full CSV](data/new-crates-2026-11-11T14-20-10-963435Z.csv)
+[Full CSV](data/new-crates-2026-11-11T15-19-34-353605Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-11 13:19:25 | [libddwaf-sys](https://crates.io/crates/libddwaf-sys) | 2.1.0 | 0 | Low-level bindings to DataDog/libddwaf |
-| 2026-11-11 13:20:32 | [fontoxide-cu2qu](https://crates.io/crates/fontoxide-cu2qu) | 0.1.0 | 0 | Cubic to quadratic curve conversion; a port of fontTools.cu2qu |
-| 2026-11-11 13:20:40 | [pineentry](https://crates.io/crates/pineentry) | 0.1.0 | 0 | A GnuPG pinentry proxy that caches passphrases or reads them from files and env… |
-| 2026-11-11 13:20:48 | [relate-front](https://crates.io/crates/relate-front) | 0.0.1 | 0 | Placeholder for relate-front, part of the Relate embedded openCypher graph engi… |
-| 2026-11-11 13:21:15 | [composite-mvt](https://crates.io/crates/composite-mvt) | 0.2.2 | 0 | Compose fixed Mapbox Vector Tile sources with optional input and output compres… |
-| 2026-11-11 13:21:53 | [libddwaf](https://crates.io/crates/libddwaf) | 2.1.0 | 0 | Rust bindings to DataDog/libddwaf |
-| 2026-11-11 13:23:49 | [licoup-agent-drivers](https://crates.io/crates/licoup-agent-drivers) | 0.3.1 | 0 | Host side of LicoUp Agent execution: the adapter registry, adapter execution, t… |
-| 2026-11-11 13:26:28 | [am-lz4-flex](https://crates.io/crates/am-lz4-flex) | 0.14.0 | 0 | A fork of lz4_flex carrying LZ4HC with a fixed-output mode (PSeitz/lz4_flex#244… |
-| 2026-11-11 13:29:15 | [kittychart-ffi](https://crates.io/crates/kittychart-ffi) | 0.1.2 | 0 | C ABI for KittyChart: Chart.js-compatible charts for graphics-capable terminals |
-| 2026-11-11 13:30:30 | [fontoxide-diff](https://crates.io/crates/fontoxide-diff) | 0.1.0 | 0 | Comparing fonts table by table; a port of fontTools.diff |
-| 2026-11-11 13:30:54 | [relate-planner](https://crates.io/crates/relate-planner) | 0.0.1 | 0 | Placeholder for relate-planner, part of the Relate embedded openCypher graph en… |
-| 2026-11-11 13:34:52 | [licoup-agent-lico-agent](https://crates.io/crates/licoup-agent-lico-agent) | 0.3.1 | 0 | Lico Agent adapter package: the stdio JSONL RPC protocol, its session identity… |
-| 2026-11-11 13:35:11 | [licoup-agent-pi](https://crates.io/crates/licoup-agent-pi) | 0.3.1 | 0 | Pi adapter package: the Pi RPC driver, its process half and its vendor protocol |
-| 2026-11-11 13:36:35 | [ninge-core](https://crates.io/crates/ninge-core) | 0.1.0 | 0 | Dual-screen handheld emulator core: pure logic, no IO |
-| 2026-11-11 13:36:37 | [ninge](https://crates.io/crates/ninge) | 0.1.0 | 0 | Terminal-native dual-screen handheld emulator |
-| 2026-11-11 13:36:58 | [docs-proof](https://crates.io/crates/docs-proof) | 0.1.0 | 0 | Lean proof certificates for docs sites: versioned record (theorem, source hash,… |
-| 2026-11-11 13:39:24 | [kittychart-ratatui](https://crates.io/crates/kittychart-ratatui) | 0.1.2 | 0 | A ratatui widget for KittyChart: Chart.js charts as kitty graphics (Unicode pla… |
-| 2026-11-11 13:39:26 | [syringe-rs](https://crates.io/crates/syringe-rs) | 0.1.0 | 0 | A 32-bit Windows DLL injector and runtime hook loader, ported from SyringeEx |
-| 2026-11-11 13:40:33 | [fontoxide-merge](https://crates.io/crates/fontoxide-merge) | 0.1.0 | 0 | Merging fonts into one; a port of fontTools.merge |
-| 2026-11-11 13:41:03 | [relate-engine-api](https://crates.io/crates/relate-engine-api) | 0.0.1 | 0 | Placeholder for relate-engine-api, part of the Relate embedded openCypher graph… |
-| 2026-11-11 13:41:43 | [bevy_birdwatch](https://crates.io/crates/bevy_birdwatch) | 0.0.0 | 0 | Drive a Bevy game frame by frame without a window, for tests and agents. This v… |
-| 2026-11-11 13:42:33 | [tierkey-core](https://crates.io/crates/tierkey-core) | 0.1.0 | 0 | Shared types for the tierkey CLI and key server |
-| 2026-11-11 13:42:35 | [tierkey](https://crates.io/crates/tierkey) | 0.1.0 | 0 | Secrets in git with SOPS + age, unlocked by level keys from a Tailscale-only ke… |
-| 2026-11-11 13:43:54 | [iu2u](https://crates.io/crates/iu2u) | 0.1.0 | 0 | Decision-model powers for coding agents: any decision model, local or hosted, a… |
-| 2026-11-11 13:44:59 | [deimos-rs](https://crates.io/crates/deimos-rs) | 0.1.0 | 0 | A Rust extension platform for Yuri's Revenge |
-| 2026-11-11 13:46:32 | [licoup-agent-antigravity](https://crates.io/crates/licoup-agent-antigravity) | 0.3.1 | 0 | Antigravity adapter package: the Antigravity CLI driver, its Agent Hooks receip… |
-| 2026-11-11 13:47:25 | [pandrosion608-robotics](https://crates.io/crates/pandrosion608-robotics) | 0.608.0 | 0 | Standalone, dependency-free real robotics solver: bounded inverse kinematics, w… |
-| 2026-11-11 13:48:55 | [cargo-c1](https://crates.io/crates/cargo-c1) | 0.1.0 | 0 | A tiny crate that provides a simple command as an alternative to cargo clean. |
-| 2026-11-11 13:50:33 | [fontoxide-otllib](https://crates.io/crates/fontoxide-otllib) | 0.1.0 | 0 | Building OpenType Layout tables; a port of fontTools.otlLib |
-| 2026-11-11 13:51:11 | [relate-executor](https://crates.io/crates/relate-executor) | 0.0.1 | 0 | Placeholder for relate-executor, part of the Relate embedded openCypher graph e… |
-| 2026-11-11 13:57:37 | [licoup-agent-claude-code](https://crates.io/crates/licoup-agent-claude-code) | 0.3.1 | 0 | Claude Code adapter package: the Claude Code CLI stream-json protocol and its p… |
-| 2026-11-11 14:00:31 | [fontoxide-qu2cu](https://crates.io/crates/fontoxide-qu2cu) | 0.1.0 | 0 | Quadratic to cubic curve conversion; a port of fontTools.qu2cu |
-| 2026-11-11 14:01:17 | [relate-storage](https://crates.io/crates/relate-storage) | 0.0.1 | 0 | Placeholder for relate-storage, part of the Relate embedded openCypher graph en… |
-| 2026-11-11 14:07:01 | [mcmap-util](https://crates.io/crates/mcmap-util) | 0.1.0 | 0 | Minecraft Java Edition world toolkit: NBT, Anvil regions, chunks, level.dat, pl… |
-| 2026-11-11 14:10:40 | [fontoxide-t1lib](https://crates.io/crates/fontoxide-t1lib) | 0.1.0 | 0 | Reading and writing PostScript Type 1 fonts; a port of fontTools.t1Lib |
-| 2026-11-11 14:11:25 | [relate-write-local](https://crates.io/crates/relate-write-local) | 0.0.1 | 0 | Placeholder for relate-write-local, part of the Relate embedded openCypher grap… |
-| 2026-11-11 14:12:33 | [mc-mappings](https://crates.io/crates/mc-mappings) | 0.1.0 | 0 | Minecraft runtime mapping table model and JSON format |
-| 2026-11-11 14:14:31 | [mcxe](https://crates.io/crates/mcxe) | 0.0.1-alpha | 0 | Download and launch Minecraft: Java Edition effortlessly |
-| 2026-11-11 14:17:53 | [ironflux-entities](https://crates.io/crates/ironflux-entities) | 0.1.0 | 0 | Domain types of ironflux: ids, statuses, runs, steps. Internal crate of ironflu… |
-| 2026-11-11 14:17:54 | [ironflux-sdk](https://crates.io/crates/ironflux-sdk) | 0.1.0 | 0 | Write ironflux workflows in Rust: the Workflow trait, Shell, Agent and custom o… |
-| 2026-11-11 14:17:56 | [ironflux-k8s](https://crates.io/crates/ironflux-k8s) | 0.1.0 | 0 | Kubernetes pods of ironflux steps. Internal crate of ironflux, no semver guaran… |
-| 2026-11-11 14:17:57 | [ironflux-repositories](https://crates.io/crates/ironflux-repositories) | 0.1.0 | 0 | Postgres repositories and migrations of ironflux. Internal crate of ironflux, n… |
-| 2026-11-11 14:17:59 | [ironflux-services](https://crates.io/crates/ironflux-services) | 0.1.0 | 0 | Business services of ironflux. Internal crate of ironflux, no semver guarantee. |
-| 2026-11-11 14:19:46 | [ghost-workflow](https://crates.io/crates/ghost-workflow) | 0.1.0 | 0 | Generate a lean, project-level OpenCode workflow |
+| 2026-11-11 14:20:39 | [fontoxide-mtilib](https://crates.io/crates/fontoxide-mtilib) | 0.1.0 | 0 | Building OpenType Layout tables from Monotype/FontDame source files; a port of… |
+| 2026-11-11 14:22:25 | [ek-jees](https://crates.io/crates/ek-jees) | 0.1.0 | 0 | JEES gateway for the enkeep ek ecosystem: CTP MD + JEES TD in one plugin. Sessi… |
+| 2026-11-11 14:27:54 | [ironflux-worker](https://crates.io/crates/ironflux-worker) | 0.1.0 | 0 | The ironflux worker: registers your workflows and runs them from Postgres, one… |
+| 2026-11-11 14:30:36 | [fontoxide-subset](https://crates.io/crates/fontoxide-subset) | 0.1.0 | 0 | Font subsetting; a port of fontTools.subset |
+| 2026-11-11 14:30:52 | [wsq-certified](https://crates.io/crates/wsq-certified) | 1.0.0 | 0 | The certified part of wsq-codec: WSQ fingerprint decoder, conformant encoder an… |
+| 2026-11-11 14:31:39 | [libmcp-core](https://crates.io/crates/libmcp-core) | 0.0.2 | 0 | In-process MCP engine for embedded and mobile applications |
+| 2026-11-11 14:40:11 | [uzor-secure](https://crates.io/crates/uzor-secure) | 1.5.30 | 0 | Platform secure store for uzor apps: secrets behind biometry / device credentia… |
+| 2026-11-11 14:40:40 | [fontoxide-varlib](https://crates.io/crates/fontoxide-varlib) | 0.1.0 | 0 | Variable font tools; a port of fontTools.varLib |
+| 2026-11-11 14:42:33 | [claude-ide-launchd](https://crates.io/crates/claude-ide-launchd) | 0.1.1 | 0 | Unofficial: launchd's socket activation on macOS for claude-ide-server, the one… |
+| 2026-11-11 14:42:33 | [claude-ide-windows](https://crates.io/crates/claude-ide-windows) | 0.1.1 | 0 | Unofficial: the calls to Windows that claude-ide-server needs (a named pipe for… |
+| 2026-11-11 14:42:35 | [claude-ide-core](https://crates.io/crates/claude-ide-core) | 0.1.1 | 0 | Unofficial server side of the /ide protocol of Claude Code: WebSocket, lock fil… |
+| 2026-11-11 14:42:37 | [claude-ide-server](https://crates.io/crates/claude-ide-server) | 0.1.1 | 0 | Unofficial server that connects editors to the /ide of Claude Code, with an ada… |
+| 2026-11-11 14:43:43 | [estivation](https://crates.io/crates/estivation) | 0.0.0 | 0 | local ai assistant |
+| 2026-11-11 14:45:50 | [docs-compiler](https://crates.io/crates/docs-compiler) | 0.1.0 | 0 | Docs compiler composing the estate's docs crates: include-symbol, witness, lean… |
+| 2026-11-11 14:48:07 | [kitcode](https://crates.io/crates/kitcode) | 0.1.3 | 0 | KitCode Agent is an AI agent built in Rust. |
+| 2026-11-11 14:48:34 | [paga-rs](https://crates.io/crates/paga-rs) | 0.1.0 | 0 | Unofficial async Rust SDK for the Paga Engine API - payments, payouts, wallets… |
+| 2026-11-11 14:50:38 | [fontoxide-fealib](https://crates.io/crates/fontoxide-fealib) | 0.1.0 | 0 | Feature file parsing and compiling; a port of fontTools.feaLib |
+| 2026-11-11 14:53:41 | [estiv](https://crates.io/crates/estiv) | 0.0.0 | 0 | local ai assistant |
+| 2026-11-11 14:54:39 | [aestivation](https://crates.io/crates/aestivation) | 0.0.0 | 0 | local AI assistant |
+| 2026-11-11 14:55:59 | [rqtk-client](https://crates.io/crates/rqtk-client) | 2.0.0-rc.1 | 0 | Read rqtk repositories from Rust: requirements, links, verification status, lin… |
+| 2026-11-11 14:56:01 | [caniko-secret-manager-schema](https://crates.io/crates/caniko-secret-manager-schema) | 0.4.5 | 0 | Data schema for secret-manager registries: switchable service accounts and thei… |
+| 2026-11-11 14:57:03 | [abos-javac](https://crates.io/crates/abos-javac) | 0.1.0 | 0 | A build-time dependency for Cargo build scripts and unit tests to assist in inv… |
+| 2026-11-11 14:57:08 | [abos-jni-macros](https://crates.io/crates/abos-jni-macros) | 0.1.0 | 0 | Procedural macros for abos-jni. |
+| 2026-11-11 14:57:10 | [abos-jni-sys-macros](https://crates.io/crates/abos-jni-sys-macros) | 0.1.0 | 0 | Versioned JNI and JVMTI function-table macros for abos-jni-sys. |
+| 2026-11-11 14:57:12 | [abos-cafebabe](https://crates.io/crates/abos-cafebabe) | 0.1.0 | 0 | Small Java class-file metadata reader for JNI binding generation. |
+| 2026-11-11 14:57:14 | [abos-jbindgen-annotations](https://crates.io/crates/abos-jbindgen-annotations) | 0.1.0 | 0 | Embedded Java annotations for abos-jbindgen. |
+| 2026-11-11 15:00:32 | [fontoxide-voltlib](https://crates.io/crates/fontoxide-voltlib) | 0.1.0 | 0 | Reading MS VOLT projects and converting them to feature files; a port of fontTo… |
+| 2026-11-11 15:09:03 | [awk](https://crates.io/crates/awk) | 0.1.0 | 0 | A fast POSIX awk implementation in Rust |
+| 2026-11-11 15:10:34 | [fontoxide-cli](https://crates.io/crates/fontoxide-cli) | 0.1.0 | 0 | The fontoxide executable, which runs the fontTools command lines (ttx, subset,… |
+| 2026-11-11 15:11:19 | [bendec2rs](https://crates.io/crates/bendec2rs) | 0.1.0 | 0 | Portable Rust source generator for Bendec fixed-size message definitions |
+| 2026-11-11 15:17:08 | [abos-jni-sys](https://crates.io/crates/abos-jni-sys) | 0.1.0 | 0 | Raw Rust definitions corresponding to jni.h. |
+| 2026-11-11 15:17:14 | [abos-jni](https://crates.io/crates/abos-jni) | 0.1.0 | 0 | Rust bindings and utilities for the Java Native Interface. |
 
 ## Data source
 
