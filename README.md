@@ -8,60 +8,63 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-12 19:18 UTC
+## Latest list — 2026-11-12 20:18 UTC
 
-New crates published between 2026-11-12 18:18 UTC and 2026-11-12 19:18 UTC.
+New crates published between 2026-11-12 19:18 UTC and 2026-11-12 20:18 UTC.
 
-[Full CSV](data/new-crates-2026-11-12T19-18-57-888616Z.csv)
+[Full CSV](data/new-crates-2026-11-12T20-18-44-171372Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-12 18:18:47 | [knowledge-architect-testing](https://crates.io/crates/knowledge-architect-testing) | 0.0.0 | 0 | Placeholder of a crate of knowledge-architect, published at its next release |
-| 2026-11-12 18:22:00 | [liveactivity](https://crates.io/crates/liveactivity) | 0.1.0 | 0 | Framework-neutral Live Activities: one interface over ActivityKit, Android Live… |
-| 2026-11-12 18:24:54 | [gitall-cli](https://crates.io/crates/gitall-cli) | 0.1.1 | 0 | Bulk operations over GitHub / GitLab repositories: CLI, TUI and WebUI |
-| 2026-11-12 18:24:57 | [rune-cvss](https://crates.io/crates/rune-cvss) | 0.1.0 | 0 | CVSS v3.0, v3.1 and v4.0 vector parsing and scoring, exactly as the FIRST speci… |
-| 2026-11-12 18:27:25 | [nexio](https://crates.io/crates/nexio) | 0.1.0 | 0 | A thread-per-core io_uring async runtime for Linux with owned-buffer I/O and a… |
-| 2026-11-12 18:30:08 | [uzor-plot](https://crates.io/crates/uzor-plot) | 1.5.41 | 0 | Plot math for uzor: nice-step ticks, label precision, value scales (linear, log… |
-| 2026-11-12 18:30:47 | [knowledge-architect-create](https://crates.io/crates/knowledge-architect-create) | 0.0.0 | 0 | Placeholder of a crate of knowledge-architect, published at its next release |
-| 2026-11-12 18:31:42 | [urn-rs-core](https://crates.io/crates/urn-rs-core) | 1.0.0 | 0 | Core types and parser for urn-rs. Use the urn-rs crate instead of depending on… |
-| 2026-11-12 18:31:44 | [urn-rs-static](https://crates.io/crates/urn-rs-static) | 1.0.0 | 0 | Compile-time checked URN literals for urn-rs |
-| 2026-11-12 18:32:44 | [vowp-daemon](https://crates.io/crates/vowp-daemon) | 0.3.0 | 0 | The loopback HTTP API for VOWP. |
-| 2026-11-12 18:35:03 | [rune-finding](https://crates.io/crates/rune-finding) | 0.1.0 | 0 | Shared security finding model: Finding, Severity, Confidence, Location, Evidenc… |
-| 2026-11-12 18:36:13 | [rust-crate-release](https://crates.io/crates/rust-crate-release) | 0.1.0 | 0 | Composable release workflows for Rust crates |
-| 2026-11-12 18:38:23 | [gpty-plugin](https://crates.io/crates/gpty-plugin) | 0.8.2 | 0 | Installed-plugin store and shared schema caps for gpty |
-| 2026-11-12 18:44:57 | [rune-metrics](https://crates.io/crates/rune-metrics) | 0.1.0 | 0 | Metrics registry with counters, gauges and histograms plus a Prometheus / OpenM… |
-| 2026-11-12 18:47:33 | [deadweight](https://crates.io/crates/deadweight) | 0.1.0 | 0 | Find the dead weight in your Claude Code setup: what every request carries befo… |
-| 2026-11-12 18:48:00 | [dogesoft](https://crates.io/crates/dogesoft) | 1.0.1 | 0 | Async client for the Doge Soft Explorer API: Dogecoin, Doginals, DRC-20 Coins a… |
-| 2026-11-12 18:53:27 | [apple-quant-visualizer](https://crates.io/crates/apple-quant-visualizer) | 0.1.1 | 0 | Apple Quant's statistics visualizer. |
-| 2026-11-12 18:54:57 | [rune-psl](https://crates.io/crates/rune-psl) | 0.1.0 | 0 | Public Suffix List: public suffix and registrable domain (eTLD+1) lookups over… |
-| 2026-11-12 18:56:02 | [tui-lipan-ghostty-vt-sys](https://crates.io/crates/tui-lipan-ghostty-vt-sys) | 0.1.0 | 0 | Raw FFI bindings to libghostty-vt 1.x for tui-lipan, built with Zig from the pi… |
-| 2026-11-12 19:00:21 | [panic-check](https://crates.io/crates/panic-check) | 0.1.0 | 0 | A small file integrity monitor: SHA-256 baselines that report added, modified a… |
-| 2026-11-12 19:00:58 | [adamo-zenoh-sync](https://crates.io/crates/adamo-zenoh-sync) | 1.9.0-adamo.1.0.21 | 0 | Internal crate for zenoh. |
-| 2026-11-12 19:01:08 | [assette](https://crates.io/crates/assette) | 0.0.0 | 0 | placeholder |
-| 2026-11-12 19:01:16 | [adamo-zenoh-task](https://crates.io/crates/adamo-zenoh-task) | 1.9.0-adamo.1.0.21 | 0 | Internal crate for zenoh. |
-| 2026-11-12 19:01:33 | [adamo-zenoh-link-commons](https://crates.io/crates/adamo-zenoh-link-commons) | 1.9.0-adamo.1.0.21 | 0 | Internal crate for zenoh. |
-| 2026-11-12 19:01:51 | [adamo-zenoh-link-quic_datagram](https://crates.io/crates/adamo-zenoh-link-quic_datagram) | 1.9.0-adamo.1.0.21 | 0 | Internal crate for zenoh. |
-| 2026-11-12 19:02:09 | [adamo-zenoh-link-quic](https://crates.io/crates/adamo-zenoh-link-quic) | 1.9.0-adamo.1.0.21 | 0 | Internal crate for zenoh. |
-| 2026-11-12 19:04:57 | [rune-host-match](https://crates.io/crates/rune-host-match) | 0.1.0 | 0 | Hostname pattern matching: exact, *.suffix egress allowlists and RFC 6125 certi… |
-| 2026-11-12 19:06:29 | [adamo-zenoh-link-serial](https://crates.io/crates/adamo-zenoh-link-serial) | 1.9.0-adamo.1.0.21 | 0 | Internal crate for zenoh. |
-| 2026-11-12 19:09:02 | [comfit-core](https://crates.io/crates/comfit-core) | 0.1.0 | 0 | Comfit highlighting engine, theme model, and renderers |
-| 2026-11-12 19:09:49 | [comfit-themes](https://crates.io/crates/comfit-themes) | 0.1.0 | 0 | Comfit themes and VS Code theme conversion |
-| 2026-11-12 19:10:47 | [comfit-grammars](https://crates.io/crates/comfit-grammars) | 0.1.0 | 0 | Comfit parsers and queries for Rust |
-| 2026-11-12 19:11:10 | [comfit](https://crates.io/crates/comfit) | 0.1.0 | 0 | Comfit syntax highlighting library for Rust |
-| 2026-11-12 19:12:34 | [tapi_codegen](https://crates.io/crates/tapi_codegen) | 0.0.4 | 0 | Client sdk generators for tapi contracts |
-| 2026-11-12 19:13:19 | [lucem-core](https://crates.io/crates/lucem-core) | 0.0.1 | 0 | Core of lucem: run-time choice of the CubeCL runtime (wgpu, CUDA, HIP, CPU), la… |
-| 2026-11-12 19:13:20 | [lucem-hub](https://crates.io/crates/lucem-hub) | 0.0.1 | 0 | Verified downloads and the local cache of published artifacts (model weights) f… |
-| 2026-11-12 19:13:20 | [lucem-ml](https://crates.io/crates/lucem-ml) | 0.0.1 | 0 | The contract of lucem's machine-learning plugins: model manifests, the request… |
-| 2026-11-12 19:13:22 | [lucem-io](https://crates.io/crates/lucem-io) | 0.0.1 | 0 | Image readers and writers for lucem (OME-Zarr, OME-TIFF, vendor formats) |
-| 2026-11-12 19:13:22 | [lucem-ops](https://crates.io/crates/lucem-ops) | 0.0.1 | 0 | GPU image operations for lucem, written once in CubeCL (filters, morphology, th… |
-| 2026-11-12 19:13:31 | [comfit-cli](https://crates.io/crates/comfit-cli) | 0.1.0 | 0 | Comfit command-line tool for highlighting and VS Code theme conversion |
-| 2026-11-12 19:14:56 | [rune-idna](https://crates.io/crates/rune-idna) | 0.1.0 | 0 | Internationalized domain names: Punycode (RFC 3492), UTS #46 / IDNA2008 convers… |
-| 2026-11-12 19:15:59 | [xconn](https://crates.io/crates/xconn) | 0.6.0 | 0 | Async and blocking WAMP clients, routers, and transports |
-| 2026-11-12 19:16:19 | [cecilia-app](https://crates.io/crates/cecilia-app) | 0.45.1 | 0 | Headless application state, commands and keymaps for cecilia |
-| 2026-11-12 19:16:50 | [cecilia-gui](https://crates.io/crates/cecilia-gui) | 0.45.1 | 0 | Graphical frontend for cecilia (winit + wgpu + vello) |
-| 2026-11-12 19:17:11 | [cecilia-tui](https://crates.io/crates/cecilia-tui) | 0.45.1 | 0 | Terminal frontend for cecilia |
-| 2026-11-12 19:17:41 | [cecilia](https://crates.io/crates/cecilia) | 0.45.1 | 0 | Tablature, notation and chant editor and player |
-| 2026-11-12 19:18:27 | [mac-led-control](https://crates.io/crates/mac-led-control) | 0.1.0 | 0 | A CLI to control the front status LED on Mac mini. |
+| 2026-11-12 19:19:39 | [tui-lipan-ghostty-vt-src](https://crates.io/crates/tui-lipan-ghostty-vt-src) | 0.1.0+libghostty-vt… | 0 | Vendored libghostty-vt 1.0.1 source and Zig dependencies, with tui-lipan's patc… |
+| 2026-11-12 19:21:38 | [lucem-view](https://crates.io/crates/lucem-view) | 0.0.1 | 0 | Viewing support for lucem: multiscale pyramids and tiles for display |
+| 2026-11-12 19:22:50 | [i18n_fmt_html](https://crates.io/crates/i18n_fmt_html) | 0.2.124 | 0 | HTML 格式：只替换行内文本，标签与 pre 内容原样保留 |
+| 2026-11-12 19:24:59 | [rune-x509](https://crates.io/crates/rune-x509) | 0.1.0 | 0 | X.509 certificate analysis: typed summaries, weak-crypto flags, chain building… |
+| 2026-11-12 19:31:38 | [lucem-pipeline](https://crates.io/crates/lucem-pipeline) | 0.0.1 | 0 | Pipeline engine of lucem: chains operations on the device over tiles of large i… |
+| 2026-11-12 19:34:47 | [givn](https://crates.io/crates/givn) | 0.9.20 | 0 | A single-binary, Gherkin-first spec-driven workflow tool |
+| 2026-11-12 19:34:59 | [rune-axum-mtls](https://crates.io/crates/rune-axum-mtls) | 0.1.0 | 0 | Mutual-TLS client-certificate extraction for Axum: rustls listener, rune-x509 c… |
+| 2026-11-12 19:36:13 | [oci-image-store](https://crates.io/crates/oci-image-store) | 0.1.1 | 0 | OCI images, pulled, stored and unpacked safely: a content-addressed blob store… |
+| 2026-11-12 19:36:29 | [oci-image-build](https://crates.io/crates/oci-image-build) | 0.1.0 | 0 | OCI images from a Containerfile: deterministic layers, multi-stage, RUN in youk… |
+| 2026-11-12 19:39:49 | [sliderule-machines](https://crates.io/crates/sliderule-machines) | 0.2.0 | 0 | Deterministic integer logarithms with stated one-sided error bounds and enclosi… |
+| 2026-11-12 19:39:53 | [offset-machines](https://crates.io/crates/offset-machines) | 0.2.0 | 0 | Bounded per-partition acknowledgement bitmap with contiguous commit candidates… |
+| 2026-11-12 19:39:56 | [budget-machines](https://crates.io/crates/budget-machines) | 0.2.0 | 0 | SLO error-budget accounting and multi-window burn-rate alert decisions from sup… |
+| 2026-11-12 19:39:59 | [coalesce-machines](https://crates.io/crates/coalesce-machines) | 0.2.0 | 0 | Bounded per-key in-flight leader/follower coalescing with generation-checked co… |
+| 2026-11-12 19:41:38 | [lucem-hist](https://crates.io/crates/lucem-hist) | 0.0.1 | 0 | Histology workflows for lucem: stain separation, tissue detection, areas, cell… |
+| 2026-11-12 19:42:44 | [gridgg](https://crates.io/crates/gridgg) | 0.1.0 | 0 | A Rust library for working with grids. |
+| 2026-11-12 19:44:56 | [rune-sse](https://crates.io/crates/rune-sse) | 0.1.0 | 0 | Incremental sans-I/O Server-Sent Events (text/event-stream) parser |
+| 2026-11-12 19:44:59 | [outbox-machines](https://crates.io/crates/outbox-machines) | 0.2.0 | 0 | Bounded delivery-policy metadata with generation-checked attempts |
+| 2026-11-12 19:45:03 | [wheel-machines](https://crates.io/crates/wheel-machines) | 0.2.0 | 0 | Fixed-capacity hierarchical timing wheel: register/cancel handles, due IDs on e… |
+| 2026-11-12 19:51:21 | [freertb](https://crates.io/crates/freertb) | 0.0.0 | 0 | The open source demand-side platform, compatible with the Beeswax Buzz API |
+| 2026-11-12 19:51:23 | [freertb-client](https://crates.io/crates/freertb-client) | 0.0.0 | 0 | Rust client for the FreeRTB API |
+| 2026-11-12 19:51:30 | [suspect-machines](https://crates.io/crates/suspect-machines) | 0.2.0 | 0 | Bounded heartbeat interval statistics and advisory phi-accrual suspicion |
+| 2026-11-12 19:51:38 | [lucem](https://crates.io/crates/lucem) | 0.0.1 | 0 | lucem: GPU image processing for biology, written once in CubeCL |
+| 2026-11-12 19:53:21 | [lorealm-plugin](https://crates.io/crates/lorealm-plugin) | 0.1.0 | 0 | Write Lorealm plugins in Rust |
+| 2026-11-12 19:54:13 | [lorealm_plugin_manifest](https://crates.io/crates/lorealm_plugin_manifest) | 0.1.0 | 0 | The manifest.toml format of Lorealm plugins |
+| 2026-11-12 19:54:56 | [rune-tool-schema](https://crates.io/crates/rune-tool-schema) | 0.1.0 | 0 | MCP-shaped tool descriptor: name, description, JSON-schema input, safety level… |
+| 2026-11-12 19:55:15 | [arbitrait](https://crates.io/crates/arbitrait) | 0.0.3 | 0 | Traits providing a simple framework for decision-making via voter consensus |
+| 2026-11-12 19:58:09 | [decade-channel](https://crates.io/crates/decade-channel) | 0.1.0 | 0 | client side of the decade socket, for decade-aware programs |
+| 2026-11-12 20:01:37 | [merkle-machines](https://crates.io/crates/merkle-machines) | 0.2.0 | 0 | Bounded resumable digest-tree comparison that locates differing leaf ranges |
+| 2026-11-12 20:01:50 | [composer-auth](https://crates.io/crates/composer-auth) | 0.3.0 | 0 | Composer repository credentials: the auth.json / COMPOSER_AUTH shapes (http-bas… |
+| 2026-11-12 20:03:12 | [fe11-sys](https://crates.io/crates/fe11-sys) | 0.1.0 | 0 | Raw PKCS#11 declarations for explicit Linux and Windows ABI profiles |
+| 2026-11-12 20:03:51 | [fe11-verify-engine-api](https://crates.io/crates/fe11-verify-engine-api) | 0.1.0 | 0 | Versioned C boundary shared by Fe11 and its optional verification engine |
+| 2026-11-12 20:04:57 | [rune-vectorstore](https://crates.io/crates/rune-vectorstore) | 0.1.0 | 0 | Vector-store trait with in-memory flat and HNSW indexes for RAG pipelines |
+| 2026-11-12 20:05:16 | [fe11](https://crates.io/crates/fe11) | 0.1.0 | 0 | Fe11 generic PKCS#11 interface with owned resources and bounded operations |
+| 2026-11-12 20:06:17 | [fe11-verify-engine](https://crates.io/crates/fe11-verify-engine) | 0.1.0 | 0 | Optional isolated software verification component for Fe11 |
+| 2026-11-12 20:07:03 | [taba-derive](https://crates.io/crates/taba-derive) | 0.0.1 | 0 | Derive macros for Taba, a Rolldown-based TypeScript bundler for Rust |
+| 2026-11-12 20:07:42 | [agentscope-macros](https://crates.io/crates/agentscope-macros) | 0.1.1 | 0 | AgentScope Rust - proc-macros (`#[tool]`) |
+| 2026-11-12 20:10:13 | [storvald](https://crates.io/crates/storvald) | 0.5.0 | 0 | Storvald: an AI-first creative environment for unslop games and apps. In develo… |
+| 2026-11-12 20:10:49 | [crubyte](https://crates.io/crates/crubyte) | 0.1.0 | 0 | Placeholder |
+| 2026-11-12 20:11:24 | [cpp_api_from_rust](https://crates.io/crates/cpp_api_from_rust) | 0.1.0 | 0 | Placeholder |
+| 2026-11-12 20:11:35 | [rust_api_from_cpp](https://crates.io/crates/rust_api_from_cpp) | 0.1.0 | 0 | Placeholder |
+| 2026-11-12 20:11:44 | [causal-machines](https://crates.io/crates/causal-machines) | 0.2.0 | 0 | Fixed-membership version vectors and bounded causal-delivery readiness |
+| 2026-11-12 20:12:13 | [haus-fmt](https://crates.io/crates/haus-fmt) | 0.1.0 | 0 | The haus data format: parser and data model |
+| 2026-11-12 20:12:27 | [haus-build](https://crates.io/crates/haus-build) | 0.1.0 | 0 | Rust types from haus schemas, generated in build.rs |
+| 2026-11-12 20:14:37 | [rstml-ssr-macros](https://crates.io/crates/rstml-ssr-macros) | 0.1.0 | 0 | Procedural macro implementation for rstml-ssr; use the rstml-ssr crate |
+| 2026-11-12 20:14:56 | [rune-relay](https://crates.io/crates/rune-relay) | 0.1.0 | 0 | Bidirectional byte relay between two stream halves, plus a ready-made TCP-liste… |
+| 2026-11-12 20:15:21 | [rstml-ssr](https://crates.io/crates/rstml-ssr) | 0.1.0 | 0 | Fallible server-side HTML rendering with rstml templates |
+| 2026-11-12 20:16:13 | [stem-mqtt-client-blocking](https://crates.io/crates/stem-mqtt-client-blocking) | 0.8.3 | 0 | A small blocking MQTT 3.1.1 / 5.0 client over any std::io transport (TcpStream,… |
+| 2026-11-12 20:16:52 | [lorealm-plugin-cli](https://crates.io/crates/lorealm-plugin-cli) | 0.1.0 | 0 | Create, build and release Lorealm plugins |
+| 2026-11-12 20:16:56 | [econ](https://crates.io/crates/econ) | 0.1.0 | 0 | Pick the cheapest Claude model that can handle a prompt, then open Claude Code… |
 
 ## Data source
 

@@ -1,0 +1,50 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-12T19:19:39.229053Z,tui-lipan-ghostty-vt-src,0.1.0+libghostty-vt.1.0.1,0,0,https://github.com/tui-lipan/tui-lipan,"Vendored libghostty-vt 1.0.1 source and Zig dependencies, with tui-lipan's patches applied, for tui-lipan-ghostty-vt-sys."
+2026-11-12T19:21:38.124064Z,lucem-view,0.0.1,0,0,https://github.com/neuro-kitchen/lucem,Viewing support for lucem: multiscale pyramids and tiles for display
+2026-11-12T19:22:50.313846Z,i18n_fmt_html,0.2.124,0,0,https://github.com/i18n-site/i18n.site,HTML 格式：只替换行内文本，标签与 pre 内容原样保留
+2026-11-12T19:24:59.743081Z,rune-x509,0.1.0,0,0,https://github.com/alexile/runes,"X.509 certificate analysis: typed summaries, weak-crypto flags, chain building and path validation, hostname checks"
+2026-11-12T19:31:38.342696Z,lucem-pipeline,0.0.1,0,0,https://github.com/neuro-kitchen/lucem,Pipeline engine of lucem: chains operations on the device over tiles of large images
+2026-11-12T19:34:47.760601Z,givn,0.9.20,0,0,https://github.com/buster/givn,"A single-binary, Gherkin-first spec-driven workflow tool"
+2026-11-12T19:34:59.193963Z,rune-axum-mtls,0.1.0,0,0,https://github.com/alexile/runes,"Mutual-TLS client-certificate extraction for Axum: rustls listener, rune-x509 clientAuth verification, typed extractor"
+2026-11-12T19:36:13.997748Z,oci-image-store,0.1.1,0,0,https://git.gunnar.rs/nordisk/edda,"OCI images, pulled, stored and unpacked safely: a content-addressed blob store behind a trait (an OCI image layout directory, an in-memory layout that reads and writes the layout tar), verified image…"
+2026-11-12T19:36:29.272643Z,oci-image-build,0.1.0,0,0,https://git.gunnar.rs/nordisk/edda,"OCI images from a Containerfile: deterministic layers, multi-stage, RUN in youki; no daemon"
+2026-11-12T19:39:49.726716Z,sliderule-machines,0.2.0,0,0,,Deterministic integer logarithms with stated one-sided error bounds and enclosing intervals
+2026-11-12T19:39:53.08035Z,offset-machines,0.2.0,0,0,,Bounded per-partition acknowledgement bitmap with contiguous commit candidates and generation-checked assignment
+2026-11-12T19:39:56.266082Z,budget-machines,0.2.0,0,0,,SLO error-budget accounting and multi-window burn-rate alert decisions from supplied counts
+2026-11-12T19:39:59.682385Z,coalesce-machines,0.2.0,0,0,,Bounded per-key in-flight leader/follower coalescing with generation-checked completion
+2026-11-12T19:41:38.735075Z,lucem-hist,0.0.1,0,0,https://github.com/neuro-kitchen/lucem,"Histology workflows for lucem: stain separation, tissue detection, areas, cell detection and measurement, object and pixel classifiers, intensity scores, density maps, multiplexed phenotypes, superpi…"
+2026-11-12T19:42:44.459902Z,gridgg,0.1.0,0,0,https://github.com/blakeanedved/gridgg-rs,A Rust library for working with grids.
+2026-11-12T19:44:56.630706Z,rune-sse,0.1.0,0,0,https://github.com/alexile/runes,Incremental sans-I/O Server-Sent Events (text/event-stream) parser
+2026-11-12T19:44:59.636894Z,outbox-machines,0.2.0,0,0,,Bounded delivery-policy metadata with generation-checked attempts
+2026-11-12T19:45:03.536427Z,wheel-machines,0.2.0,0,0,,"Fixed-capacity hierarchical timing wheel: register/cancel handles, due IDs on explicit ticks"
+2026-11-12T19:51:21.006643Z,freertb,0.0.0,0,0,https://github.com/freertb/freertb,"The open source demand-side platform, compatible with the Beeswax Buzz API"
+2026-11-12T19:51:23.22563Z,freertb-client,0.0.0,0,0,https://github.com/freertb/freertb,Rust client for the FreeRTB API
+2026-11-12T19:51:30.490879Z,suspect-machines,0.2.0,0,0,,Bounded heartbeat interval statistics and advisory phi-accrual suspicion
+2026-11-12T19:51:38.109863Z,lucem,0.0.1,0,0,https://github.com/neuro-kitchen/lucem,"lucem: GPU image processing for biology, written once in CubeCL"
+2026-11-12T19:53:21.775596Z,lorealm-plugin,0.1.0,0,0,https://github.com/Lorealm/Lorealm,Write Lorealm plugins in Rust
+2026-11-12T19:54:13.238824Z,lorealm_plugin_manifest,0.1.0,0,0,,The manifest.toml format of Lorealm plugins
+2026-11-12T19:54:56.484563Z,rune-tool-schema,0.1.0,0,0,https://github.com/alexile/runes,"MCP-shaped tool descriptor: name, description, JSON-schema input, safety level and category"
+2026-11-12T19:55:15.172312Z,arbitrait,0.0.3,0,0,https://github.com/kylekingcdn/arbitrait-rs,Traits providing a simple framework for decision-making via voter consensus
+2026-11-12T19:58:09.286178Z,decade-channel,0.1.0,0,0,https://github.com/jackroddy/decade,"client side of the decade socket, for decade-aware programs"
+2026-11-12T20:01:37.562594Z,merkle-machines,0.2.0,0,0,,Bounded resumable digest-tree comparison that locates differing leaf ranges
+2026-11-12T20:01:50.273136Z,composer-auth,0.3.0,0,0,https://github.com/cresset-tools/composer-rs,"Composer repository credentials: the auth.json / COMPOSER_AUTH shapes (http-basic, bearer, github-oauth, gitlab-token, gitlab-oauth) and the HTTP header each one sends."
+2026-11-12T20:03:12.130117Z,fe11-sys,0.1.0,0,0,https://github.com/BorealCryptosystems/fe11-sys,Raw PKCS#11 declarations for explicit Linux and Windows ABI profiles
+2026-11-12T20:03:51.886094Z,fe11-verify-engine-api,0.1.0,0,0,https://github.com/BorealCryptosystems/fe11,Versioned C boundary shared by Fe11 and its optional verification engine
+2026-11-12T20:04:57.307813Z,rune-vectorstore,0.1.0,0,0,https://github.com/alexile/runes,Vector-store trait with in-memory flat and HNSW indexes for RAG pipelines
+2026-11-12T20:05:16.048504Z,fe11,0.1.0,0,0,https://github.com/BorealCryptosystems/fe11,Fe11 generic PKCS#11 interface with owned resources and bounded operations
+2026-11-12T20:06:17.400881Z,fe11-verify-engine,0.1.0,0,0,https://github.com/BorealCryptosystems/fe11,Optional isolated software verification component for Fe11
+2026-11-12T20:07:03.979795Z,taba-derive,0.0.1,0,0,https://github.com/taba-build/taba,"Derive macros for Taba, a Rolldown-based TypeScript bundler for Rust"
+2026-11-12T20:07:42.614025Z,agentscope-macros,0.1.1,0,0,https://github.com/Endlessworld/agentscope-rust,AgentScope Rust - proc-macros (`#[tool]`)
+2026-11-12T20:10:13.300419Z,storvald,0.5.0,0,0,https://github.com/nokola/storvald,"Storvald: an AI-first creative environment for unslop games and apps. In development: this version holds the name and the `storvald` command, and runs nothing yet."
+2026-11-12T20:10:49.238214Z,crubyte,0.1.0,0,0,,Placeholder
+2026-11-12T20:11:24.556235Z,cpp_api_from_rust,0.1.0,0,0,,Placeholder
+2026-11-12T20:11:35.423891Z,rust_api_from_cpp,0.1.0,0,0,,Placeholder
+2026-11-12T20:11:44.647209Z,causal-machines,0.2.0,0,0,,Fixed-membership version vectors and bounded causal-delivery readiness
+2026-11-12T20:12:13.489787Z,haus-fmt,0.1.0,0,0,https://github.com/betalyra/haus-fmt,The haus data format: parser and data model
+2026-11-12T20:12:27.221522Z,haus-build,0.1.0,0,0,https://github.com/betalyra/haus-fmt,"Rust types from haus schemas, generated in build.rs"
+2026-11-12T20:14:37.210649Z,rstml-ssr-macros,0.1.0,0,0,https://github.com/ethanthoma/rstml-ssr,Procedural macro implementation for rstml-ssr; use the rstml-ssr crate
+2026-11-12T20:14:56.524428Z,rune-relay,0.1.0,0,0,https://github.com/alexile/runes,"Bidirectional byte relay between two stream halves, plus a ready-made TCP-listener-to-Unix-domain-socket bridge built on it — generic stream plumbing, no protocol awareness"
+2026-11-12T20:15:21.378755Z,rstml-ssr,0.1.0,0,0,https://github.com/ethanthoma/rstml-ssr,Fallible server-side HTML rendering with rstml templates
+2026-11-12T20:16:13.471012Z,stem-mqtt-client-blocking,0.8.3,0,0,https://github.com/sorinirimies/stem-mqtt,"A small blocking MQTT 3.1.1 / 5.0 client over any std::io transport (TcpStream, TLS), built on stem-mqtt-proto. No async runtime: for firmware (ESP32 with std), tools and tests."
+2026-11-12T20:16:52.447208Z,lorealm-plugin-cli,0.1.0,0,0,,"Create, build and release Lorealm plugins"
+2026-11-12T20:16:56.099666Z,econ,0.1.0,0,0,https://github.com/jaredforth/econ,"Pick the cheapest Claude model that can handle a prompt, then open Claude Code on it"
