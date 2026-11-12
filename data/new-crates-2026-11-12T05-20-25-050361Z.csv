@@ -1,0 +1,35 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-12T04:23:26.636857Z,earthsci-integrator-solvers,0.0.1,0,0,https://github.com/EarthSciML/EarthSciIntegrator,"EarthSciIntegrator methods, step-size control and linear algebra (spec/methods.md)."
+2026-11-12T04:25:00.599065Z,rtao-wallet,0.1.0,0,0,https://github.com/sam0x17/rtao,Bittensor wallet files and password resolution.
+2026-11-12T04:25:20.428279Z,earthsci-integrator-planner,0.0.1,0,0,https://github.com/EarthSciML/EarthSciIntegrator,"EarthSciIntegrator planner: operators, locality, structure, plan emission (spec/plan.md)."
+2026-11-12T04:25:30.249412Z,flui-cupertino,0.0.0,0,0,https://github.com/vanyastaff/flui,"Reserved name for FLUI, a declarative UI framework for Rust. The real crate will be published from the repository."
+2026-11-12T04:28:03.671672Z,earthsci-integrator,0.0.1,0,0,https://github.com/EarthSciML/EarthSciIntegrator,"EarthSciIntegrator core: operator interface, toy problems, schedule interpreter, tape and adjoint."
+2026-11-12T04:28:06.105614Z,earthsci-integrator-mpi,0.0.1,0,0,https://github.com/EarthSciML/EarthSciIntegrator,EarthSciIntegrator MPI executor (M0 scaffold; rsmpi is added at M5).
+2026-11-12T04:28:29.284856Z,bungeeoxide-minecraft-v1-12-1,0.1.1,0,0,,Minecraft 1.12.1 protocol types
+2026-11-12T04:28:30.240116Z,bungeeoxide-minecraft-v1-13,0.1.1,0,0,,Minecraft 1.13 protocol types
+2026-11-12T04:33:46.567663Z,ohauthcat,0.0.2,0,0,,"Official OhAuthCat server-side SDK: enterprise SSO (SAML and OIDC), directory sync, webhooks and the management API."
+2026-11-12T04:35:00.685926Z,rtao-evm,0.1.0,0,0,https://github.com/sam0x17/rtao,Bittensor EVM wallets and helpers.
+2026-11-12T04:35:53.700253Z,flui-devtools,0.0.0,0,0,https://github.com/vanyastaff/flui,"Reserved name for FLUI, a declarative UI framework for Rust. The real crate will be published from the repository."
+2026-11-12T04:37:46.430368Z,pdiff,0.0.0,0,0,https://github.com/a10y/pdiff,A rich git diff viewer that runs inside your terminal (Servo + Kitty graphics)
+2026-11-12T04:45:12.928662Z,rtao-reads,0.1.0,0,0,https://github.com/sam0x17/rtao,Typed Bittensor reads and namespaces.
+2026-11-12T04:46:16.58274Z,flui-engine,0.0.0,0,0,https://github.com/vanyastaff/flui,"Reserved name for FLUI, a declarative UI framework for Rust. The real crate will be published from the repository."
+2026-11-12T04:50:39.16008Z,bungeeoxide-minecraft-v1-12-2,0.1.1,0,0,,Minecraft 1.12.2 protocol types
+2026-11-12T04:50:40.158062Z,bungeeoxide-minecraft-v1-13-1,0.1.1,0,0,,Minecraft 1.13.1 protocol types
+2026-11-12T04:50:40.836191Z,bungeeoxide-minecraft-v1-13-2,0.1.1,0,0,,Minecraft 1.13.2 protocol types
+2026-11-12T04:53:26.502369Z,dpma-bytes,0.1.1,0,0,https://github.com/jackrosenthal/dpma-rs,C strings as bytes: byte formatting and C-locale string functions for the dpma-rs modules
+2026-11-12T04:53:42.706736Z,dpma-proto,0.1.1,0,0,https://github.com/jackrosenthal/dpma-rs,"Digium phone application-server protocol: constants, crypto, framing, and SIP URI parsing (no Asterisk dependency)"
+2026-11-12T04:55:02.82196Z,rtao-testkit,0.1.0,0,0,https://github.com/sam0x17/rtao,Fixtures and test infrastructure for rtao.
+2026-11-12T04:56:39.60708Z,flui-hot-reload,0.0.0,0,0,https://github.com/vanyastaff/flui,"Reserved name for FLUI, a declarative UI framework for Rust. The real crate will be published from the repository."
+2026-11-12T04:57:52.350656Z,redactdsn,0.1.0,0,0,https://github.com/PrinceAdvant/redactdsn,"Mask passwords and tokens in database connection strings (DATABASE_URL, REDIS_URL and friends) before they reach logs."
+2026-11-12T05:02:47.777744Z,lune-protocol,0.4.0,0,0,https://github.com/gleem-gg/lune-protocol,"The Lune bonding protocol: packet codec, registration cookie, ticket verification, limits and timers"
+2026-11-12T05:05:02.894229Z,rtao-tx,0.1.0,0,0,https://github.com/sam0x17/rtao,"Bittensor execution plans, policies and transaction results."
+2026-11-12T05:06:57.420696Z,capzel,0.1.0,0,0,https://github.com/xJonathanLEI/capzel,"Typed CAPTCHA challenges, solutions, and solver integrations for Rust"
+2026-11-12T05:07:02.496534Z,flui-interaction,0.0.0,0,0,https://github.com/vanyastaff/flui,"Reserved name for FLUI, a declarative UI framework for Rust. The real crate will be published from the repository."
+2026-11-12T05:11:25.203477Z,potatocad,0.0.1,0,0,https://github.com/potatocad/potatocad,CAD that runs on a potato: a no_std core for tiny parametric CAD on microcontrollers. This first release is its STL writer.
+2026-11-12T05:11:58.702327Z,bungeeoxide-minecraft-v1-14,0.1.1,0,0,,Minecraft 1.14 protocol types
+2026-11-12T05:12:01.253422Z,bungeeoxide-minecraft-v1-14-1,0.1.1,0,0,,Minecraft 1.14.1 protocol types
+2026-11-12T05:15:01.05145Z,rtao-intents,0.1.0,0,0,https://github.com/sam0x17/rtao,Bittensor transaction intents.
+2026-11-12T05:17:25.644018Z,flui-layer,0.0.0,0,0,https://github.com/vanyastaff/flui,"Reserved name for FLUI, a declarative UI framework for Rust. The real crate will be published from the repository."
+2026-11-12T05:18:49.461216Z,h5i-app-h1,0.5.5,0,0,https://github.com/h5i-dev/h5i,"A strict HTTP/1.1 request parser, chunked decoder and response writer for no_std devices, extracted to Lean and proven"
+2026-11-12T05:18:54.475925Z,h5i-app-embedded,0.5.5,0,0,https://github.com/h5i-dev/h5i,"An async, no_std, heap-free HTTP/1.1 server for h5i-app kernels on microcontrollers, over the verified h5i-app-h1 parser"
+2026-11-12T05:20:18.742762Z,adaptif-gatotkaca-sqlite,0.2.0,0,0,,"SQLite engine: lock-free thread-local readers, one writer thread, session routing"
