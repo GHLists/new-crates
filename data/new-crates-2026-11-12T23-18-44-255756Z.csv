@@ -1,0 +1,27 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-12T22:46:18.350251Z,mm-compile,0.0.1,0,0,https://github.com/N0xMare/micro-monty,"micro-monty compiler: engine AST, symbol tables, bytecode, exception tables"
+2026-11-12T22:46:19.036739Z,mm-core,0.0.1,0,0,https://github.com/N0xMare/micro-monty,"micro-monty heap: NaN-boxed values, arena, tracing GC, write barrier, interning"
+2026-11-12T22:46:19.873305Z,mm-parse,0.0.1,0,0,https://github.com/N0xMare/micro-monty,micro-monty parser front end: Python source to the engine AST (no_std)
+2026-11-12T22:46:21.847959Z,mm-engine,0.0.1,0,0,https://github.com/N0xMare/micro-monty,"micro-monty VM and builtins: dispatch, calls, exceptions, async, fuel, pause"
+2026-11-12T22:46:24.142711Z,mm-stdlib,0.0.1,0,0,https://github.com/N0xMare/micro-monty,"micro-monty bundled stdlib modules, one cargo feature per module"
+2026-11-12T22:46:45.550804Z,emotibit,0.1.0,0,0,https://github.com/eugenehp/emotibit-rs,"EmotiBit over WiFi (stock firmware) or Bluetooth (the emotibit-ble firmware): CLI, TUI and browser oscilloscopes, SD card, recorder/parser, LSL/OSC/UDP outputs, and a firmware flasher"
+2026-11-12T22:54:17.880308Z,antodo,1.0.0,0,0,https://github.com/tothaa/antodo,"A local-first desktop task planner with hierarchies, calendars, and finite recurrence"
+2026-11-12T22:57:03.688539Z,micro-monty,0.0.1,0,0,https://github.com/N0xMare/micro-monty,"Small, fast, durable Python-subset sandbox engine"
+2026-11-12T22:57:35.917801Z,tv-rs-drivers,0.8.0,0,0,https://github.com/Zakarialabib/tv-rs,Consolidated protocol-vendor drivers for tv-rs
+2026-11-12T23:00:38.268669Z,estat-api,0.1.0,0,0,https://github.com/uiuifree/rust-estat-api,"Unofficial async Rust client and CLI for the e-Stat API v3.0, the API of Japan's official statistics portal (政府統計の総合窓口): table search, metadata, statistical data with paging, bulk requests, datasets…"
+2026-11-12T23:02:39.596649Z,duroxide-mysql-tidb,0.1.0,0,0,https://github.com/mingley/duroxide-mysql-tidb,MySQL 8.0+ and TiDB storage provider for Duroxide durable execution
+2026-11-12T23:03:41.806008Z,rightkit-agent-learning,0.1.0,0,0,https://github.com/bogusyogi/rightkit,"Post-session learning for a coding agent (CodeRight): proposal extraction, evaluation and promotion, instincts, regression detection, evaluation-gated workflow proposals and skill optimisation."
+2026-11-12T23:04:32.91831Z,rightkit-agent-local-models,0.1.0,0,0,https://github.com/bogusyogi/rightkit,"Local model primitives for an agent host: hardware report, runtime detection, local model catalog and fit, provider route suggestion and a bounded local inference seam."
+2026-11-12T23:06:45.037688Z,mln-rs-vec-map,0.0.11,0,0,https://github.com/louwers/mln-rs,"Part of mln-rs, a Rust port of the MapLibre Native map rendering core. Depend on mln-rs instead."
+2026-11-12T23:06:51.940429Z,mln-rs-image,0.0.11,0,0,https://github.com/louwers/mln-rs,"Part of mln-rs, a Rust port of the MapLibre Native map rendering core. Depend on mln-rs instead."
+2026-11-12T23:06:57.429818Z,mln-rs-gl,0.0.11,0,0,https://github.com/louwers/mln-rs,"Part of mln-rs, a Rust port of the MapLibre Native map rendering core. Depend on mln-rs instead."
+2026-11-12T23:06:58.011151Z,mln-rs-mtl,0.0.11,0,0,https://github.com/louwers/mln-rs,"Part of mln-rs, a Rust port of the MapLibre Native map rendering core. Depend on mln-rs instead."
+2026-11-12T23:06:58.834867Z,mln-rs-vulkan,0.0.11,0,0,https://github.com/louwers/mln-rs,"Part of mln-rs, a Rust port of the MapLibre Native map rendering core. Depend on mln-rs instead."
+2026-11-12T23:08:04.797782Z,pencil-puzzles-aquarium,0.5.0,0,0,https://github.com/emieks/pencil-puzzles,"Aquarium solver, generator, checker and difficulty rater"
+2026-11-12T23:08:05.48628Z,pencil-puzzles-binairo,0.5.0,0,0,https://github.com/emieks/pencil-puzzles,"Binairo solver, generator, checker and difficulty rater"
+2026-11-12T23:08:06.388331Z,pencil-puzzles-chocona,0.5.0,0,0,https://github.com/emieks/pencil-puzzles,"Chocona solver, generator, checker and difficulty rater"
+2026-11-12T23:11:19.46308Z,causs,0.0.1,0,0,https://github.com/causshq/causs,Reserved name. Middleware and development environment for AI robotics.
+2026-11-12T23:11:34.391044Z,tethercam,0.0.1,0,0,https://github.com/nredd/tethercam,Turn a USB-tethered Sony Alpha camera into an ONVIF/RTSP network camera for UniFi Protect and Home Assistant
+2026-11-12T23:12:46.783711Z,rs-arrow-dwords2pgcopy,0.1.0,0,0,https://github.com/takanoriyanagitani/rs-arrow-dwords2pgcopy,Writes the 4-byte items in the array as pgcopy bytes.
+2026-11-12T23:17:18.995041Z,mln-rs-gestures,0.0.11,0,0,https://github.com/louwers/mln-rs,"Part of mln-rs, a Rust port of the MapLibre Native map rendering core. Depend on mln-rs instead."
+2026-11-12T23:18:39.410401Z,nt_syntax,0.1.12,0,0,https://github.com/i18n-site/i18n.site,"NestedText lexer, validator and value tree with official error messages"
