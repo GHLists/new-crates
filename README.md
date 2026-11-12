@@ -8,62 +8,68 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-12 10:19 UTC
+## Latest list — 2026-11-12 11:20 UTC
 
-New crates published between 2026-11-12 09:18 UTC and 2026-11-12 10:19 UTC.
+New crates published between 2026-11-12 10:19 UTC and 2026-11-12 11:20 UTC.
 
-[Full CSV](data/new-crates-2026-11-12T10-19-05-074758Z.csv)
+[Full CSV](data/new-crates-2026-11-12T11-20-50-149563Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-12 09:23:10 | [akari-rs](https://crates.io/crates/akari-rs) | 1.0.0 | 0 | A safe, embeddable scripting language for Rust. Sandboxed by default. |
-| 2026-11-12 09:27:50 | [besu-core](https://crates.io/crates/besu-core) | 0.1.0 | 0 | Core traits and SQL primitives for Besu, a typesafe SQL query builder for Rust. |
-| 2026-11-12 09:28:22 | [bungeeoxide-minecraft-v1-21-5](https://crates.io/crates/bungeeoxide-minecraft-v1-21-5) | 0.1.1 | 0 | Minecraft 1.21.5 protocol types |
-| 2026-11-12 09:28:25 | [bungeeoxide-minecraft-v1-21-6](https://crates.io/crates/bungeeoxide-minecraft-v1-21-6) | 0.1.1 | 0 | Minecraft 1.21.6 protocol types |
-| 2026-11-12 09:28:51 | [besu-schema](https://crates.io/crates/besu-schema) | 0.1.0 | 0 | Schema IR, migrations and DDL generation for Besu. |
-| 2026-11-12 09:29:32 | [lite](https://crates.io/crates/lite) | 0.1.0+full | 0 | Convention for versioning of libraries that have a lightweight subset |
-| 2026-11-12 09:29:35 | [onyxrt-sys](https://crates.io/crates/onyxrt-sys) | 0.1.1 | 0 | Low-level dynamically loaded ONNX Runtime C API bindings for onyxrt |
-| 2026-11-12 09:29:39 | [onyxrt](https://crates.io/crates/onyxrt) | 0.1.1 | 0 | Safe dynamically loaded ONNX Runtime bindings |
-| 2026-11-12 09:30:20 | [besu-any](https://crates.io/crates/besu-any) | 0.1.0 | 0 | A runtime-selected Besu database, for when the backend comes from configuration. |
-| 2026-11-12 09:30:39 | [besu-studio](https://crates.io/crates/besu-studio) | 0.1.0 | 0 | A development-only schema and data browser for Besu databases. |
-| 2026-11-12 09:30:58 | [besu-cli](https://crates.io/crates/besu-cli) | 0.1.0 | 0 | Command line tooling for Besu. |
-| 2026-11-12 09:34:39 | [open-arrow-access-core](https://crates.io/crates/open-arrow-access-core) | 0.1.0 | 0 | Shared reader, accessor, and layer contracts for Open Arrow Access |
-| 2026-11-12 09:34:41 | [open-arrow-access-decompression](https://crates.io/crates/open-arrow-access-decompression) | 0.1.0 | 0 | Streaming byte decompression layers for Open Arrow Access |
-| 2026-11-12 09:34:42 | [open-arrow-access-layers](https://crates.io/crates/open-arrow-access-layers) | 0.1.0 | 0 | Composable Arrow record layers for Open Arrow Access |
-| 2026-11-12 09:34:42 | [open-arrow-access-storage](https://crates.io/crates/open-arrow-access-storage) | 0.1.0 | 0 | Storage adapters for Open Arrow Access |
-| 2026-11-12 09:34:44 | [open-arrow-access-dataset](https://crates.io/crates/open-arrow-access-dataset) | 0.1.0 | 0 | Sequential file-set and directory datasets for Open Arrow Access |
-| 2026-11-12 09:35:57 | [libsearch-guard](https://crates.io/crates/libsearch-guard) | 0.1.0 | 0 | Restricts where a Windows executable's DLLs are searched for, from a build scri… |
-| 2026-11-12 09:42:33 | [copyrust](https://crates.io/crates/copyrust) | 0.1.1 | 0 | Parallel, content-aware batch file copying with structured progress |
-| 2026-11-12 09:42:47 | [copyrust-cli](https://crates.io/crates/copyrust-cli) | 0.1.1 | 0 | Content-aware parallel copying from the command line |
-| 2026-11-12 09:43:32 | [oxiview](https://crates.io/crates/oxiview) | 0.0.0 | 0 | A native, self-drawn GUI framework for Rust (macOS / Windows / Linux). Name res… |
-| 2026-11-12 09:44:03 | [open-arrow-access-file-format](https://crates.io/crates/open-arrow-access-file-format) | 0.1.0 | 0 | Arrow file-format readers for Open Arrow Access |
-| 2026-11-12 09:48:01 | [cadcore-mesh](https://crates.io/crates/cadcore-mesh) | 0.2.0 | 0 | Tessellation, STEP import and plane sections for the cadcore CAD kernel - exact… |
-| 2026-11-12 09:48:04 | [cadcore-union](https://crates.io/crates/cadcore-union) | 0.2.0 | 0 | Industrial Boolean-union engine for the cadcore CAD kernel - staged pipeline, a… |
-| 2026-11-12 09:49:24 | [bungeeoxide-minecraft-v1-21-8](https://crates.io/crates/bungeeoxide-minecraft-v1-21-8) | 0.1.1 | 0 | Minecraft 1.21.8 protocol types |
-| 2026-11-12 09:49:25 | [bungeeoxide-minecraft-v1-21-9](https://crates.io/crates/bungeeoxide-minecraft-v1-21-9) | 0.1.1 | 0 | Minecraft 1.21.9 protocol types |
-| 2026-11-12 09:50:16 | [menagerie](https://crates.io/crates/menagerie) | 0.1.0 | 0 | A collection of classic and randomized data structures: treaps with split and j… |
-| 2026-11-12 09:51:06 | [open-arrow-access-service](https://crates.io/crates/open-arrow-access-service) | 0.1.0 | 0 | Dataset source providers for Open Arrow Access |
-| 2026-11-12 09:55:16 | [markdoc-mermaid](https://crates.io/crates/markdoc-mermaid) | 0.1.0 | 0 | Mermaid diagrams for Markdoc, with node labels resolved from document anchors. |
-| 2026-11-12 09:55:18 | [peraz-core](https://crates.io/crates/peraz-core) | 0.1.0-alpha.2 | 0 | Peraz domain model: media info, jobs, recipes, plans, reports. No I/O. |
-| 2026-11-12 09:55:21 | [peraz-engine](https://crates.io/crates/peraz-engine) | 0.1.0-alpha.2 | 0 | Peraz engine adapters: media probing, FFmpeg, images, quality metrics. |
-| 2026-11-12 09:55:23 | [peraz](https://crates.io/crates/peraz) | 0.1.0-alpha.2 | 0 | Compress video, images, GIFs, PDFs, and e-books from the terminal |
-| 2026-11-12 09:56:25 | [talahon-mcp-opensearch](https://crates.io/crates/talahon-mcp-opensearch) | 2.2.0 | 0 | Native read-only OpenSearch MCP server (stdio) for the Talon agent container |
-| 2026-11-12 09:56:27 | [ct-curve-point](https://crates.io/crates/ct-curve-point) | 0.0.1 | 0 | Elliptic-curve point abstraction traits for constant-time cryptography |
-| 2026-11-12 10:00:53 | [open-arrow-access](https://crates.io/crates/open-arrow-access) | 0.1.0 | 0 | Composable read access to Apache Arrow streams |
-| 2026-11-12 10:02:39 | [noxi-serde](https://crates.io/crates/noxi-serde) | 0.0.2 | 0 | Serialize and deserialize Nix values with serde, derived from Snix serde |
-| 2026-11-12 10:03:16 | [noxi-build](https://crates.io/crates/noxi-build) | 0.0.2 | 0 | Derivation builds for the noxi engine, compatible with CppNix's sandbox |
-| 2026-11-12 10:03:36 | [noxi-glue](https://crates.io/crates/noxi-glue) | 0.0.2 | 0 | Store-aware builtins for the noxi evaluator, derived from Snix's glue crates |
-| 2026-11-12 10:03:51 | [noxi-flake](https://crates.io/crates/noxi-flake) | 0.0.2 | 0 | Flake graph and operation library for noxi |
-| 2026-11-12 10:04:06 | [noxi-daemon](https://crates.io/crates/noxi-daemon) | 0.0.2 | 0 | A Nix daemon for the noxi engine, speaking CppNix's worker protocol |
-| 2026-11-12 10:05:33 | [zarlib](https://crates.io/crates/zarlib) | 0.11.0 | 0 | ZAR archive library with compression, deduplication, and commit-based history |
-| 2026-11-12 10:10:54 | [bungeeoxide-minecraft-v1-21-11](https://crates.io/crates/bungeeoxide-minecraft-v1-21-11) | 0.1.1 | 0 | Minecraft 1.21.11 protocol types |
-| 2026-11-12 10:10:57 | [bungeeoxide-minecraft-v26-1](https://crates.io/crates/bungeeoxide-minecraft-v26-1) | 0.1.1 | 0 | Minecraft 26.1 protocol types |
-| 2026-11-12 10:10:57 | [bungeeoxide-packet-dumper](https://crates.io/crates/bungeeoxide-packet-dumper) | 0.1.1 | 0 | Proxy between a Minecraft 1.21.11 client and server that reports packets which… |
-| 2026-11-12 10:11:49 | [etdl-ontology-core](https://crates.io/crates/etdl-ontology-core) | 0.1.0 | 0 | ETDL Ontology Core: a domain-neutral, generic classification-vocabulary mechani… |
-| 2026-11-12 10:13:13 | [markdoc-pdf](https://crates.io/crates/markdoc-pdf) | 0.10.0 | 0 | Render Markdoc documents to PDF, as a CLI or a library |
-| 2026-11-12 10:14:39 | [noxi-commands](https://crates.io/crates/noxi-commands) | 0.0.2 | 0 | CppNix-compatible command implementations for noxi |
-| 2026-11-12 10:15:43 | [diu-kernel](https://crates.io/crates/diu-kernel) | 0.2.0 | 0 | Verification invariants for computational scientific claims: canonical result d… |
-| 2026-11-12 10:16:06 | [diu-cli](https://crates.io/crates/diu-cli) | 0.2.0 | 0 | diu — command-line SDK for DIU OS genes: scaffold a gene passport, run the kern… |
+| 2026-11-12 10:20:37 | [dfn3_rs](https://crates.io/crates/dfn3_rs) | 0.1.0 | 0 | Allocation-free real-time DeepFilterNet3 speech enhancement |
+| 2026-11-12 10:21:55 | [reqsign-openstack-keystone](https://crates.io/crates/reqsign-openstack-keystone) | 0.0.0 | 0 | Namespace reservation for a crate planned by Apache Reqsign. |
+| 2026-11-12 10:25:04 | [noxi-system](https://crates.io/crates/noxi-system) | 0.0.1 | 0 | Native noxi flake update, system rebuild and snapshot operations |
+| 2026-11-12 10:28:59 | [kv0](https://crates.io/crates/kv0) | 0.1.0-beta.1 | 0 | Ordered key-value store and experiment-tracking tables on Lance: local disk, S3… |
+| 2026-11-12 10:31:14 | [software_manager](https://crates.io/crates/software_manager) | 0.1.1 | 0 | Installs, updates, and shows the status of applications; and a library they use… |
+| 2026-11-12 10:31:48 | [bungeeoxide-minecraft](https://crates.io/crates/bungeeoxide-minecraft) | 0.1.1 | 0 | Minecraft protocol types of versions 1.0.1 to 26.1 |
+| 2026-11-12 10:31:52 | [bungeeoxide-converter](https://crates.io/crates/bungeeoxide-converter) | 0.1.1 | 0 | Converts Minecraft packets, chunks and worlds between versions 1.0.1 and 26.1 |
+| 2026-11-12 10:35:07 | [reallyme-zk-proto-codec](https://crates.io/crates/reallyme-zk-proto-codec) | 0.3.1 | 0 | Strict protobuf/domain conversion for ReallyMe ZK contracts. |
+| 2026-11-12 10:35:31 | [reallyme-zk-backend-bb](https://crates.io/crates/reallyme-zk-backend-bb) | 0.3.1 | 0 | Hash-pinned linked Barretenberg prover and verifier adapter for ReallyMe ZK. |
+| 2026-11-12 10:35:36 | [noxi-cli](https://crates.io/crates/noxi-cli) | 0.0.2 | 0 | Preview command-line entry point for the noxi package manager |
+| 2026-11-12 10:37:12 | [reallyme-vp-policy](https://crates.io/crates/reallyme-vp-policy) | 0.6.2 | 0 | Protocol-neutral verifiable presentation policy evaluation. |
+| 2026-11-12 10:37:21 | [reallyme-data-integrity](https://crates.io/crates/reallyme-data-integrity) | 0.6.2 | 0 | W3C Data Integrity identity envelope helpers for ReallyMe identity. |
+| 2026-11-12 10:37:36 | [reallyme-did-method-ion](https://crates.io/crates/reallyme-did-method-ion) | 0.6.2 | 0 | did:ion identifiers with authenticated Sidetree initial-state commitments. |
+| 2026-11-12 10:42:08 | [chairlift](https://crates.io/crates/chairlift) | 0.0.0 | 0 | An opinionated, lossless formatter for ClickHouse SQL and Jinja-templated SQL (… |
+| 2026-11-12 10:42:41 | [any-preview](https://crates.io/crates/any-preview) | 0.1.0 | 0 | Cross-platform document previews and thumbnails for Rust applications |
+| 2026-11-12 10:42:49 | [reallyme-did-method-key](https://crates.io/crates/reallyme-did-method-key) | 0.6.2 | 0 | did:key multibase and multicodec identifier helpers. |
+| 2026-11-12 10:46:35 | [freeastroapi](https://crates.io/crates/freeastroapi) | 0.1.0 | 0 | Official Rust SDK for FreeAstroAPI: western, Vedic and Chinese astrology, numer… |
+| 2026-11-12 10:49:17 | [bevy_mod_scripting_bevy_animation_bindings](https://crates.io/crates/bevy_mod_scripting_bevy_animation_bindings) | 0.24.0 | 0 | Script bindings for bevy animation playback |
+| 2026-11-12 10:49:20 | [bevy_mod_scripting_bevy_asset_bindings](https://crates.io/crates/bevy_mod_scripting_bevy_asset_bindings) | 0.24.0 | 0 | Script bindings for bevy assets: loading, handles and adding assets |
+| 2026-11-12 10:49:48 | [alloy-signer-azure](https://crates.io/crates/alloy-signer-azure) | 0.0.0 | 0 | Ethereum Azure Key Vault signer (reserved for Alloy) |
+| 2026-11-12 10:52:16 | [lykta-core](https://crates.io/crates/lykta-core) | 0.0.1 | 0 | Core types and configuration for lykta |
+| 2026-11-12 10:52:50 | [reallyme-did-method-me](https://crates.io/crates/reallyme-did-method-me) | 0.6.2 | 0 | did:me method-specific identifier generation and validation. |
+| 2026-11-12 10:52:53 | [bungeeoxide](https://crates.io/crates/bungeeoxide) | 0.1.1 | 0 | Minecraft proxy that lets clients of versions 1.0.1 to 26.1 play on a server of… |
+| 2026-11-12 10:52:53 | [bungeeoxide-convert-world](https://crates.io/crates/bungeeoxide-convert-world) | 0.1.1 | 0 | Converts Minecraft worlds saved by 1.0 and later to the latest supported version |
+| 2026-11-12 10:53:02 | [rxctools](https://crates.io/crates/rxctools) | 0.1.0 | 0 | Xcode's iPhone tools without Xcode: devicectl, xcodebuild test-without-building… |
+| 2026-11-12 10:53:24 | [asc-decompile-protocol](https://crates.io/crates/asc-decompile-protocol) | 0.2.0 | 0 | Wire types and line-delimited JSON-RPC framing shared by asc and its decompiler… |
+| 2026-11-12 10:53:24 | [asc-query](https://crates.io/crates/asc-query) | 0.2.0 | 0 | The query language of asc-rs as both engines read it: the KIND:VALUE rule synta… |
+| 2026-11-12 10:53:27 | [asc-decompile](https://crates.io/crates/asc-decompile) | 0.2.0 | 0 | Client for asc's decompiler backends: process pool, lifecycle and JSON-RPC over… |
+| 2026-11-12 10:53:34 | [asc-frontend](https://crates.io/crates/asc-frontend) | 0.2.0 | 0 | What the asc CLI and MCP server share above the engines: which engine answers f… |
+| 2026-11-12 10:53:35 | [lykta](https://crates.io/crates/lykta) | 0.0.1 | 0 | A highly visible dashboard for monitoring GitHub Actions workflows |
+| 2026-11-12 10:55:33 | [zarlib-cli](https://crates.io/crates/zarlib-cli) | 0.11.0 | 0 | Command-line interface for managing ZAR archives |
+| 2026-11-12 10:55:58 | [zarlib-gui](https://crates.io/crates/zarlib-gui) | 0.11.0 | 0 | Graphical user interface for managing ZAR archives |
+| 2026-11-12 10:58:29 | [alhazen-encode](https://crates.io/crates/alhazen-encode) | 0.1.0 | 0 | Live video encoding and capture for Rust: GPU H.264 (NVENC, VA-API) or Cisco's… |
+| 2026-11-12 11:00:02 | [rhema-rsd](https://crates.io/crates/rhema-rsd) | 0.2.3 | 0 | Resource-scoped dispatch: per-key leases, live inboxes, and revision-guarded se… |
+| 2026-11-12 11:00:10 | [rhema-memory](https://crates.io/crates/rhema-memory) | 0.2.3 | 0 | Cross-session agent memory: the store contract, volatile and markdown-file stor… |
+| 2026-11-12 11:00:20 | [rhema-identity](https://crates.io/crates/rhema-identity) | 0.2.3 | 0 | The agent accounts layer: named accounts on services, holding one secret each,… |
+| 2026-11-12 11:00:31 | [rhema-autonomous-agent](https://crates.io/crates/rhema-autonomous-agent) | 0.2.3 | 0 | The resident-agent core tier: source-driven sessions, a tool registry with allo… |
+| 2026-11-12 11:01:15 | [rhema-provider-chatgpt](https://crates.io/crates/rhema-provider-chatgpt) | 0.2.3 | 0 | ChatGPT subscription adapter for the rhema ModelProvider seam |
+| 2026-11-12 11:02:08 | [bevy_mod_scripting_bevy_audio_bindings](https://crates.io/crates/bevy_mod_scripting_bevy_audio_bindings) | 0.24.0 | 0 | Script bindings for bevy audio playback |
+| 2026-11-12 11:02:40 | [walkit-cli](https://crates.io/crates/walkit-cli) | 0.1.2 | 0 | Command-line tool for Winamp skins on the walkit engine: renders preview images… |
+| 2026-11-12 11:02:51 | [reallyme-did-method-web](https://crates.io/crates/reallyme-did-method-web) | 0.6.2 | 0 | did:web identifier generation, validation, and HTTPS location mapping. |
+| 2026-11-12 11:03:01 | [bevy_mod_scripting_bevy_camera_bindings](https://crates.io/crates/bevy_mod_scripting_bevy_camera_bindings) | 0.24.0 | 0 | Script bindings for bevy cameras, projections and visibility |
+| 2026-11-12 11:03:32 | [bevy_mod_scripting_bevy_color_bindings](https://crates.io/crates/bevy_mod_scripting_bevy_color_bindings) | 0.24.0 | 0 | Script bindings for bevy colors |
+| 2026-11-12 11:04:00 | [bevy_mod_scripting_bevy_ecs_bindings](https://crates.io/crates/bevy_mod_scripting_bevy_ecs_bindings) | 0.24.0 | 0 | Script bindings for the bevy ECS: entities, names and hierarchy |
+| 2026-11-12 11:05:32 | [rhema-provider-registry](https://crates.io/crates/rhema-provider-registry) | 0.2.3 | 0 | The provider fleet's name-to-adapter wiring: one build call per rhema-config PR… |
+| 2026-11-12 11:07:54 | [atlas-pull-verifier-interface](https://crates.io/crates/atlas-pull-verifier-interface) | 0.0.1 | 0 | Protocol definitions (payload format, config layout, instructions) for the Atla… |
+| 2026-11-12 11:07:55 | [atlas-push-oracle-interface](https://crates.io/crates/atlas-push-oracle-interface) | 0.0.1 | 0 | On-chain protocol definitions (account layouts, instructions, events) for the A… |
+| 2026-11-12 11:07:58 | [atlas-pull-verifier-sdk](https://crates.io/crates/atlas-pull-verifier-sdk) | 0.0.1 | 0 | Consumer SDK for verifying and decoding Atlas Pull Verifier price payloads on S… |
+| 2026-11-12 11:07:59 | [atlas-push-oracle-sdk](https://crates.io/crates/atlas-push-oracle-sdk) | 0.0.1 | 0 | Consumer SDK for reading Atlas Push Oracle price feeds on Solana (framework-agn… |
+| 2026-11-12 11:08:01 | [atlas-pull-verifier-anchor](https://crates.io/crates/atlas-pull-verifier-anchor) | 0.0.1 | 0 | Anchor adapter for verifying Atlas Pull Verifier price payloads on Solana |
+| 2026-11-12 11:12:50 | [reallyme-keys](https://crates.io/crates/reallyme-keys) | 0.6.2 | 0 | Keyset helpers for ReallyMe identity workflows. |
+| 2026-11-12 11:16:57 | [polars-geo](https://crates.io/crates/polars-geo) | 0.5.0 | 0 | One-stop entry point for polars-geo: polars + geometry columns + GeoPandas-styl… |
+| 2026-11-12 11:20:02 | [fleece-render-core](https://crates.io/crates/fleece-render-core) | 0.1.0 | 0 | Pure-Rust Minecraft skin and avatar renderer with optional Vulkan acceleration |
+| 2026-11-12 11:20:04 | [fleece-render-server](https://crates.io/crates/fleece-render-server) | 0.1.0 | 0 | HTTP service for rendering Minecraft skins, avatars, and player profiles |
 
 ## Data source
 

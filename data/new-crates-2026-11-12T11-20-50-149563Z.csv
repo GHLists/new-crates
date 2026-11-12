@@ -1,0 +1,55 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-12T10:20:37.597378Z,dfn3_rs,0.1.0,0,0,https://github.com/TanixLu/dfn3_rs,Allocation-free real-time DeepFilterNet3 speech enhancement
+2026-11-12T10:21:55.843641Z,reqsign-openstack-keystone,0.0.0,0,0,https://github.com/apache/reqsign,Namespace reservation for a crate planned by Apache Reqsign.
+2026-11-12T10:25:04.086803Z,noxi-system,0.0.1,0,0,https://github.com/SINGH-RAJVEER/nix-rs,"Native noxi flake update, system rebuild and snapshot operations"
+2026-11-12T10:28:59.816584Z,kv0,0.1.0-beta.1,0,0,https://github.com/sayef/kv0,"Ordered key-value store and experiment-tracking tables on Lance: local disk, S3, GCS, Azure or memory"
+2026-11-12T10:31:14.422337Z,software_manager,0.1.1,0,0,https://github.com/David-OConnor/software_manager,"Installs, updates, and shows the status of applications; and a library they use to update themselves."
+2026-11-12T10:31:48.555484Z,bungeeoxide-minecraft,0.1.1,0,0,,Minecraft protocol types of versions 1.0.1 to 26.1
+2026-11-12T10:31:52.052053Z,bungeeoxide-converter,0.1.1,0,0,,"Converts Minecraft packets, chunks and worlds between versions 1.0.1 and 26.1"
+2026-11-12T10:35:07.180407Z,reallyme-zk-proto-codec,0.3.1,0,0,https://github.com/reallyme/zk,Strict protobuf/domain conversion for ReallyMe ZK contracts.
+2026-11-12T10:35:31.968154Z,reallyme-zk-backend-bb,0.3.1,0,0,https://github.com/reallyme/zk,Hash-pinned linked Barretenberg prover and verifier adapter for ReallyMe ZK.
+2026-11-12T10:35:36.614129Z,noxi-cli,0.0.2,0,0,https://github.com/SINGH-RAJVEER/nix-rs,Preview command-line entry point for the noxi package manager
+2026-11-12T10:37:12.027811Z,reallyme-vp-policy,0.6.2,0,0,https://github.com/reallyme/ssi,Protocol-neutral verifiable presentation policy evaluation.
+2026-11-12T10:37:21.010077Z,reallyme-data-integrity,0.6.2,0,0,https://github.com/reallyme/ssi,W3C Data Integrity identity envelope helpers for ReallyMe identity.
+2026-11-12T10:37:36.309479Z,reallyme-did-method-ion,0.6.2,0,0,https://github.com/reallyme/ssi,did:ion identifiers with authenticated Sidetree initial-state commitments.
+2026-11-12T10:42:08.31997Z,chairlift,0.0.0,0,0,https://github.com/glennib/chairlift,"An opinionated, lossless formatter for ClickHouse SQL and Jinja-templated SQL (library + CLI)."
+2026-11-12T10:42:41.615742Z,any-preview,0.1.0,0,0,https://github.com/anggun-indra/any-preview,Cross-platform document previews and thumbnails for Rust applications
+2026-11-12T10:42:49.639983Z,reallyme-did-method-key,0.6.2,0,0,https://github.com/reallyme/ssi,did:key multibase and multicodec identifier helpers.
+2026-11-12T10:46:35.464377Z,freeastroapi,0.1.0,0,0,https://github.com/GabrielRw/freeastroapi-rust-sdk,"Official Rust SDK for FreeAstroAPI: western, Vedic and Chinese astrology, numerology, moon phases and more."
+2026-11-12T10:49:17.296809Z,bevy_mod_scripting_bevy_animation_bindings,0.24.0,0,0,https://github.com/makspll/bevy_mod_scripting,Script bindings for bevy animation playback
+2026-11-12T10:49:20.481161Z,bevy_mod_scripting_bevy_asset_bindings,0.24.0,0,0,https://github.com/makspll/bevy_mod_scripting,"Script bindings for bevy assets: loading, handles and adding assets"
+2026-11-12T10:49:48.797083Z,alloy-signer-azure,0.0.0,0,0,https://github.com/alloy-rs/alloy,Ethereum Azure Key Vault signer (reserved for Alloy)
+2026-11-12T10:52:16.43833Z,lykta-core,0.0.1,0,0,https://github.com/mklab-se/lykta,Core types and configuration for lykta
+2026-11-12T10:52:50.690645Z,reallyme-did-method-me,0.6.2,0,0,https://github.com/reallyme/ssi,did:me method-specific identifier generation and validation.
+2026-11-12T10:52:53.144296Z,bungeeoxide,0.1.1,0,0,,Minecraft proxy that lets clients of versions 1.0.1 to 26.1 play on a server of another version
+2026-11-12T10:52:53.888946Z,bungeeoxide-convert-world,0.1.1,0,0,,Converts Minecraft worlds saved by 1.0 and later to the latest supported version
+2026-11-12T10:53:02.830231Z,rxctools,0.1.0,0,0,https://github.com/kmagiera/rxctools,"Xcode's iPhone tools without Xcode: devicectl, xcodebuild test-without-building, devmodectl and app signing on macOS and Linux"
+2026-11-12T10:53:24.36096Z,asc-decompile-protocol,0.2.0,0,0,https://github.com/Ylarod/asc-rs,Wire types and line-delimited JSON-RPC framing shared by asc and its decompiler backends.
+2026-11-12T10:53:24.830552Z,asc-query,0.2.0,0,0,https://github.com/Ylarod/asc-rs,"The query language of asc-rs as both engines read it: the KIND:VALUE rule syntax, and the escaping of one-record-per-line text."
+2026-11-12T10:53:27.554564Z,asc-decompile,0.2.0,0,0,https://github.com/Ylarod/asc-rs,"Client for asc's decompiler backends: process pool, lifecycle and JSON-RPC over stdio."
+2026-11-12T10:53:34.784926Z,asc-frontend,0.2.0,0,0,https://github.com/Ylarod/asc-rs,"What the asc CLI and MCP server share above the engines: which engine answers for a program, findrefs arguments as queries, spilled output, class outlines, decompiler backends and HarmonyOS call tree…"
+2026-11-12T10:53:35.182487Z,lykta,0.0.1,0,0,https://github.com/mklab-se/lykta,A highly visible dashboard for monitoring GitHub Actions workflows
+2026-11-12T10:55:33.478166Z,zarlib-cli,0.11.0,0,0,https://github.com/brmmm3/zar-rs,Command-line interface for managing ZAR archives
+2026-11-12T10:55:58.58319Z,zarlib-gui,0.11.0,0,0,https://github.com/brmmm3/zar-rs,Graphical user interface for managing ZAR archives
+2026-11-12T10:58:29.39978Z,alhazen-encode,0.1.0,0,0,https://github.com/alhazen-rs/alhazen-encode,"Live video encoding and capture for Rust: GPU H.264 (NVENC, VA-API) or Cisco's OpenH264, WebRTC-ready output, screen/camera capture and the apps' sound without echo, on Linux, Windows and macOS."
+2026-11-12T11:00:02.432602Z,rhema-rsd,0.2.3,0,0,https://github.com/vhaudiquet/rhema,"Resource-scoped dispatch: per-key leases, live inboxes, and revision-guarded sessions over any store"
+2026-11-12T11:00:10.927074Z,rhema-memory,0.2.3,0,0,https://github.com/vhaudiquet/rhema,"Cross-session agent memory: the store contract, volatile and markdown-file stores, and the memory tools"
+2026-11-12T11:00:20.76603Z,rhema-identity,0.2.3,0,0,https://github.com/vhaudiquet/rhema,"The agent accounts layer: named accounts on services, holding one secret each, behind a use-never-read contract"
+2026-11-12T11:00:31.445843Z,rhema-autonomous-agent,0.2.3,0,0,https://github.com/vhaudiquet/rhema,"The resident-agent core tier: source-driven sessions, a tool registry with allowlists, and the lease-driven handler loop over rhema-rsd"
+2026-11-12T11:01:15.727381Z,rhema-provider-chatgpt,0.2.3,0,0,https://github.com/vhaudiquet/rhema,ChatGPT subscription adapter for the rhema ModelProvider seam
+2026-11-12T11:02:08.941729Z,bevy_mod_scripting_bevy_audio_bindings,0.24.0,0,0,https://github.com/makspll/bevy_mod_scripting,Script bindings for bevy audio playback
+2026-11-12T11:02:40.87863Z,walkit-cli,0.1.2,0,0,https://github.com/mattijsf/walkit-cli,Command-line tool for Winamp skins on the walkit engine: renders preview images and thumbnails
+2026-11-12T11:02:51.235311Z,reallyme-did-method-web,0.6.2,0,0,https://github.com/reallyme/ssi,"did:web identifier generation, validation, and HTTPS location mapping."
+2026-11-12T11:03:01.100184Z,bevy_mod_scripting_bevy_camera_bindings,0.24.0,0,0,https://github.com/makspll/bevy_mod_scripting,"Script bindings for bevy cameras, projections and visibility"
+2026-11-12T11:03:32.398751Z,bevy_mod_scripting_bevy_color_bindings,0.24.0,0,0,https://github.com/makspll/bevy_mod_scripting,Script bindings for bevy colors
+2026-11-12T11:04:00.906453Z,bevy_mod_scripting_bevy_ecs_bindings,0.24.0,0,0,https://github.com/makspll/bevy_mod_scripting,"Script bindings for the bevy ECS: entities, names and hierarchy"
+2026-11-12T11:05:32.176737Z,rhema-provider-registry,0.2.3,0,0,https://github.com/vhaudiquet/rhema,The provider fleet's name-to-adapter wiring: one build call per rhema-config PROVIDERS spelling
+2026-11-12T11:07:54.380672Z,atlas-pull-verifier-interface,0.0.1,0,0,https://github.com/oracle-atlas/atlas-solana,"Protocol definitions (payload format, config layout, instructions) for the Atlas Pull Verifier Solana program"
+2026-11-12T11:07:55.565207Z,atlas-push-oracle-interface,0.0.1,0,0,https://github.com/oracle-atlas/atlas-solana,"On-chain protocol definitions (account layouts, instructions, events) for the Atlas Push Oracle Solana program"
+2026-11-12T11:07:58.186993Z,atlas-pull-verifier-sdk,0.0.1,0,0,https://github.com/oracle-atlas/atlas-solana,Consumer SDK for verifying and decoding Atlas Pull Verifier price payloads on Solana
+2026-11-12T11:07:59.237353Z,atlas-push-oracle-sdk,0.0.1,0,0,https://github.com/oracle-atlas/atlas-solana,"Consumer SDK for reading Atlas Push Oracle price feeds on Solana (framework-agnostic, no_std)"
+2026-11-12T11:08:01.885112Z,atlas-pull-verifier-anchor,0.0.1,0,0,https://github.com/oracle-atlas/atlas-solana,Anchor adapter for verifying Atlas Pull Verifier price payloads on Solana
+2026-11-12T11:12:50.512185Z,reallyme-keys,0.6.2,0,0,https://github.com/reallyme/ssi,Keyset helpers for ReallyMe identity workflows.
+2026-11-12T11:16:57.360814Z,polars-geo,0.5.0,0,0,https://github.com/Lemonjuicegit/polarsGeo,"One-stop entry point for polars-geo: polars + geometry columns + GeoPandas-style spatial operations behind a single dependency. Community project, not affiliated with the Polars team / Polars Inc."
+2026-11-12T11:20:02.55841Z,fleece-render-core,0.1.0,0,0,https://github.com/LanYangYang-114/fleece-render,Pure-Rust Minecraft skin and avatar renderer with optional Vulkan acceleration
+2026-11-12T11:20:04.252994Z,fleece-render-server,0.1.0,0,0,https://github.com/LanYangYang-114/fleece-render,"HTTP service for rendering Minecraft skins, avatars, and player profiles"
