@@ -1,0 +1,26 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-11T23:18:51.379366Z,forgr-schema,0.1.0,0,0,https://github.com/rafters-studio/forgr,"What an app's schema.json says: its tables, columns, keys and foreign keys, read by replaying it into in-memory SQLite."
+2026-11-11T23:19:08.960667Z,forgr-macros,0.1.0,0,0,https://github.com/rafters-studio/forgr,"The schema! macro for forgr, re-exported by forgr."
+2026-11-11T23:19:17.894555Z,forgr,0.1.0,0,0,https://github.com/rafters-studio/forgr,Test data from the schema.json an app already has.
+2026-11-11T23:19:23.8119Z,tungo-sdk,0.2.0,0,0,https://github.com/TungoAI/tungo-sdk-rust,Official Rust SDK for the Tungo Platform API
+2026-11-11T23:28:07.12511Z,iters,0.0.0,0,0,https://github.com/vi-is-ramen/iters,Alternative way to iterate over your items
+2026-11-11T23:28:14.632694Z,presk-serve,0.17.1,0,0,https://github.com/presk-lang/presk,The generation loop of an `inference serve` over a runtime backend
+2026-11-11T23:30:13.199072Z,hexga_action,0.0.12-beta.2,0,0,https://github.com/Thomas-Mewily/hexga,"Trait for defining action, command, and undo redo system."
+2026-11-11T23:36:20.662995Z,instrument-driver-keysight,0.2.0-alpha.1,0,0,https://github.com/josh-hemphill/instrument-components-keysight,Source-derived Keysight device profiles; hardware validation pending
+2026-11-11T23:38:29.342413Z,presk-llvm,0.17.1,0,0,https://github.com/presk-lang/presk,"The LLVM backend: PSK-Kernel kernels printed as C and compiled by clang -O3, run by the native backend's host (plan 0.17.0)"
+2026-11-11T23:48:46.616608Z,presk-driver,0.17.1,0,0,https://github.com/presk-lang/presk,The pipeline as values: what every command of the presk tool and presk explain share (plan 0.11.0)
+2026-11-11T23:52:15.685114Z,amivuln-sandbox,0.0.14,0,0,https://github.com/nubian-ibex/amivuln,Landlock and seccomp sandbox for the amivuln version probe. Internal crate: no API stability.
+2026-11-11T23:57:35.406977Z,tminus,0.1.0,0,0,https://github.com/seagleNet/tminus,"A countdown timer for the terminal with animated text effects, styled after Omarchy's screensaver"
+2026-11-11T23:58:59.290044Z,presk-print-math,0.17.1,0,0,https://github.com/presk-lang/presk,"The printer of the denotation: a program's functions as the equations of the reference's chapter 3, in LaTeX or Unicode (plan 0.13.0 step 4)"
+2026-11-12T00:05:36.465259Z,whyshelf-core,0.1.0,0,0,https://github.com/ynishi/whyshelf,"Core (SDK) of whyshelf: books of documents whose kinds a project declares, and whether each decision about them still holds"
+2026-11-12T00:05:39.595515Z,whyshelf-infra,0.1.0,0,0,https://github.com/ynishi/whyshelf,"Adapters of whyshelf: file system, Git and clock implementations of the whyshelf-core ports"
+2026-11-12T00:05:41.660083Z,whyshelf,0.1.0,0,0,https://github.com/ynishi/whyshelf,"Books of documents whose kinds a project declares, linked to the files they stand on, and whether each decision about them still holds"
+2026-11-12T00:05:43.025833Z,whyshelf-cli,0.1.0,0,0,https://github.com/ynishi/whyshelf,"Command-line interface of whyshelf: books of documents whose kinds a project declares, and whether each decision about them still holds"
+2026-11-12T00:08:52.599739Z,mkd-freeport,0.3.1,0,0,https://github.com/monkeyking-hq/mkd-freeport,Discover and reserve TCP/UDP ports over IPv4 and IPv6 for scripts and AI agents
+2026-11-12T00:09:12.174099Z,presk-diagram,0.17.1,0,0,https://github.com/presk-lang/presk,"The network diagram: a program as boxes and arrows, a view of the provenance table, with its numbers and a layered layout (plan 0.14.0 step 1)"
+2026-11-12T00:12:51.482789Z,teka,0.1.0,0,0,https://github.com/ouster-lidar/teka-sdk,"Teka application runtime, device client, and signed TPK packages"
+2026-11-12T00:13:57.934624Z,teka-cli,0.1.0,0,0,https://github.com/ouster-lidar/teka-sdk,"Build, package, and deploy Teka apps and systems"
+2026-11-12T00:15:02.997696Z,png2ico,1.0.2,0,0,https://github.com/cumulus13/png2ico,"Fast, robust PNG/JPEG/WebP/BMP/GIF/TIFF to ICO converter with multi-size, PNG/BMP encoding, batch and parallel processing"
+2026-11-12T00:15:42.637185Z,pdf-stamp,0.1.0,0,0,https://github.com/EntSP/pdf-stamp,Per-recipient personalisation of cached PDF documents — visible watermarks and invisible /Info leak-trace metadata.
+2026-11-12T00:17:45.418462Z,inval-macros,0.1.0,0,0,https://github.com/lihe07/inval,Attribute macros for inval.
+2026-11-12T00:17:49.082938Z,inval,0.1.0,0,0,https://github.com/lihe07/inval,"Cache a function's result in memory and Redis, invalidated in every process on change."
