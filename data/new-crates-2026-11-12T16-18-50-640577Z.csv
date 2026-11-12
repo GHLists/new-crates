@@ -1,0 +1,43 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-12T15:26:10.769449Z,chromanticore,0.1.0,0,0,https://github.com/TaXi0k/chromanticore,Small inline text styling library.
+2026-11-12T15:41:12.797462Z,witmotion,0.9.0,0,0,https://tamcode.kunstuni-linz.at/mkalten/witosc,Async client library for WitMotion BLE IMU sensors (WT9011DCL-BT50 and compatible)
+2026-11-12T15:41:24.144286Z,witosc,0.9.0,0,0,https://tamcode.kunstuni-linz.at/mkalten/witosc,WitMotion BLE IMU -> OSC bridge (WT9011DCL-BT50)
+2026-11-12T15:42:29.680021Z,statime-seccomp,0.1.0,0,0,https://github.com/pendulum-project/ntpd-rs,Seccomp system call restricting for statime.
+2026-11-12T15:43:45.844506Z,statime-netptp,0.1.0,0,0,https://github.com/pendulum-project/ntpd-rs,Full-featured implementation of NTP with NTS support
+2026-11-12T15:44:21.965207Z,rune-forecast-ses,0.1.0,0,0,https://github.com/alexile/runes,Simple and double exponential smoothing forecaster
+2026-11-12T15:45:15.69416Z,rune-geohash,0.1.0,0,0,https://github.com/alexile/runes,Geohash encode/decode
+2026-11-12T15:46:41.797554Z,gg_url,0.1.0,0,0,https://github.com/GitGuardian/rust-libraries,URL handling for GitGuardian products
+2026-11-12T15:47:32.868314Z,any2proxy,0.1.0,0,0,https://github.com/nichind/any2proxy,json-rpc client for the any2proxy daemon
+2026-11-12T15:48:11.097331Z,gg_fs,0.1.1,0,0,https://github.com/GitGuardian/rust-libraries,"Filesystem operations with secure, portable defaults"
+2026-11-12T15:48:56.089271Z,gpui-rhai-build,0.4.3,0,0,https://github.com/eddix/gpui-rhai,Embeds a gpui-rhai application's ui/ directory into its binary from build.rs
+2026-11-12T15:54:57.039488Z,rune-haversine,0.1.0,0,0,https://github.com/alexile/runes,Great-circle distance and bearing between coordinates
+2026-11-12T15:55:43.347789Z,sid-gpl-data,0.1.0,0,0,https://github.com/aovestdipaperino/sid-play,"GPL-2.0 measurement data borrowed by the mos6581 and sid-play crates, kept apart so it can be replaced"
+2026-11-12T15:55:51.138073Z,mos6581,0.1.0,0,0,https://github.com/aovestdipaperino/sid-play,"MOS 6581 SID chip emulator, stepped one Φ2 cycle at a time"
+2026-11-12T15:56:03.166364Z,sid-play,0.1.0,0,0,https://github.com/aovestdipaperino/sid-play,Play C64 PSID tunes through the mos6581 SID emulator
+2026-11-12T15:56:43.865661Z,at-common,1.0.0,0,0,https://github.com/0xbarss/algo-trade,Shared primitives and utilities used across the algo-trade engine.
+2026-11-12T15:56:52.904076Z,playtest-core,0.0.0,0,0,,Placeholder Rust crate
+2026-11-12T15:56:56.393475Z,at-exec-core,1.0.0,0,0,https://github.com/0xbarss/algo-trade,"Venue-agnostic execution core, synchronous state machine, and pre-trade gate for algorithmic trading."
+2026-11-12T15:56:56.927175Z,playtest-assets,0.0.0,0,0,,Placeholder Rust crate
+2026-11-12T15:56:59.638288Z,playtest-cli,0.0.0,0,0,,Placeholder Rust crate
+2026-11-12T15:57:08.574148Z,at-risk,1.0.0,0,0,https://github.com/0xbarss/algo-trade,"Position sizing, stop management, and drawdown limits for algorithmic trading."
+2026-11-12T15:57:29.225366Z,at-redfolder,1.0.0,0,0,https://github.com/0xbarss/algo-trade,Async economic calendar client and automated trading blackout engine for algorithmic traders and prop firms.
+2026-11-12T15:57:44.51269Z,at-mt5-bridge,1.0.0,0,0,https://github.com/0xbarss/algo-trade,"Fast, unofficial MetaTrader 5 API bridge and client for Rust (OHLCV, Account, Orders, Tick & Bar Streaming)."
+2026-11-12T16:00:23.630327Z,clyx,0.1.0,0,0,https://github.com/Viazel/Clyx,"A modern Rust-powered CLI to easily create, configure, and build C/C++ projects with CMake."
+2026-11-12T16:01:33.751674Z,uni-auth-proto,0.2.0,0,0,https://github.com/Harshith-10/uni-auth,Shared wire DTOs and serialization models for uni-auth
+2026-11-12T16:02:17.385707Z,uni-auth-core,0.2.0,0,0,https://github.com/Harshith-10/uni-auth,"Core auth domain engine: AuthService, AuthAdapter trait, crypto, hooks, rate limiting"
+2026-11-12T16:03:41.684679Z,uni-auth-sqlx,0.2.0,0,0,https://github.com/Harshith-10/uni-auth,SQLx-based AuthAdapter implementations for PostgreSQL and SQLite
+2026-11-12T16:04:27.55783Z,at-data,1.0.0,0,0,https://github.com/0xbarss/algo-trade,Historical market data caching and OHLCV ingestion for Binance Futures and MetaTrader 5.
+2026-11-12T16:04:36.062224Z,kitchen-shell,0.0.3,0,0,https://github.com/neuro-kitchen/kitchen,"The frame the neuro-kitchen apps share: one command registry for menus, search, keys and agents; the view container; title, menu and status bars; Settings"
+2026-11-12T16:04:48.285906Z,uni-auth-axum,0.2.0,0,0,https://github.com/Harshith-10/uni-auth,Axum HTTP router exposing auth API routes with dual Cookie/Bearer auth
+2026-11-12T16:04:56.044716Z,rune-geofence,0.1.0,0,0,https://github.com/alexile/runes,"Point-in-polygon / point-in-circle containment, plus enter/exit event detection over a position stream"
+2026-11-12T16:05:24.536088Z,uni-auth-client,0.2.0,0,0,https://github.com/Harshith-10/uni-auth,Native Rust auth client for GPUI-Kit desktop apps: reqwest + keyring + loopback OAuth
+2026-11-12T16:06:29.250942Z,ncdb-plugin,0.0.0,0,0,https://github.com/nocentraldb/nocentraldb,Placeholder for NoCentralDB's ncdb-plugin crate. See https://github.com/nocentraldb/nocentraldb
+2026-11-12T16:06:30.62956Z,ncdb-harness,0.0.0,0,0,https://github.com/nocentraldb/nocentraldb,Placeholder for NoCentralDB's ncdb-harness crate. See https://github.com/nocentraldb/nocentraldb
+2026-11-12T16:06:36.338616Z,groove-core,0.1.0,0,0,https://github.com/lorecampa/groove,"Descriptor-owned, crash-recoverable Git worktree pools"
+2026-11-12T16:07:04.935564Z,groove-cli,0.1.0,0,0,https://github.com/lorecampa/groove,Machine-readable CLI for Groove worktree pools
+2026-11-12T16:14:29.276979Z,at-indicators,1.0.0,0,0,https://github.com/0xbarss/algo-trade,"Vectorized technical indicators (ATR, RSI, EMA, MACD, Bollinger, VWAP) with multi-timeframe caching."
+2026-11-12T16:14:56.95919Z,rune-mvt,0.1.0,0,0,https://github.com/alexile/runes,Encode and decode Mapbox Vector Tile protobuf
+2026-11-12T16:15:37.766716Z,r8gc-macros,0.1.0,0,0,https://github.com/Jabberwocky238/r8gc,r8gc 的过程宏：#[derive(Collect)] 等
+2026-11-12T16:16:17.866234Z,gpui-scan-macros,0.1.0,0,0,https://github.com/encryptedbusiness/gpui-scan,Attribute macros for gpui-scan
+2026-11-12T16:17:08.331309Z,gpui-scan,0.1.0,0,0,https://github.com/encryptedbusiness/gpui-scan,"React Scan for GPUI: re-render outlines, a live FPS readout, and a devtools inspector for any GPUI application"
+2026-11-12T16:18:25.735038Z,gpam-core,0.2.0,0,0,https://github.com/michalskalski/gpam,"Frontend-agnostic core of gpam: Google Cloud Privileged Access Manager backend, cache, and UI state"
