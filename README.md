@@ -8,69 +8,49 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-12 13:21 UTC
+## Latest list — 2026-11-12 14:19 UTC
 
-New crates published between 2026-11-12 12:21 UTC and 2026-11-12 13:21 UTC.
+New crates published between 2026-11-12 13:21 UTC and 2026-11-12 14:19 UTC.
 
-[Full CSV](data/new-crates-2026-11-12T13-21-03-131961Z.csv)
+[Full CSV](data/new-crates-2026-11-12T14-19-32-607691Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-12 12:21:30 | [mcp-to-cli](https://crates.io/crates/mcp-to-cli) | 0.1.0 | 0 | JSON Schema tool catalogs to clap commands for MCP servers |
-| 2026-11-12 12:22:39 | [rexi](https://crates.io/crates/rexi) | 0.3.0 | 0 | EXI (Efficient XML Interchange) for Rust: one crate for rexi-core, rexi-schema,… |
-| 2026-11-12 12:26:46 | [skywake](https://crates.io/crates/skywake) | 0.0.0 | 0 | Reserved for Skywake, a filesystem and search index for agents: https://skywake… |
-| 2026-11-12 12:26:50 | [skywake-cli](https://crates.io/crates/skywake-cli) | 0.0.0 | 0 | Reserved for Skywake, a filesystem and search index for agents: https://skywake… |
-| 2026-11-12 12:26:54 | [skywake-core](https://crates.io/crates/skywake-core) | 0.0.0 | 0 | Reserved for Skywake, a filesystem and search index for agents: https://skywake… |
-| 2026-11-12 12:26:59 | [skywake-client](https://crates.io/crates/skywake-client) | 0.0.0 | 0 | Reserved for Skywake, a filesystem and search index for agents: https://skywake… |
-| 2026-11-12 12:27:03 | [skywake-index](https://crates.io/crates/skywake-index) | 0.0.0 | 0 | Reserved for Skywake, a filesystem and search index for agents: https://skywake… |
-| 2026-11-12 12:30:06 | [cohors-mcp](https://crates.io/crates/cohors-mcp) | 0.7.5 | 0 | Model Context Protocol adapter for cohors: a hand-rolled JSON-RPC stdio server… |
-| 2026-11-12 12:33:56 | [bevy_mod_scripting_bevy_transform_bindings](https://crates.io/crates/bevy_mod_scripting_bevy_transform_bindings) | 0.24.0 | 0 | Script bindings for bevy transforms |
-| 2026-11-12 12:36:53 | [skywake-daemon](https://crates.io/crates/skywake-daemon) | 0.0.0 | 0 | Reserved for Skywake, a filesystem and search index for agents: https://skywake… |
-| 2026-11-12 12:39:09 | [db9s-core](https://crates.io/crates/db9s-core) | 2026.11.4 | 0 | UI-agnostic core of db9s: database backends, config, secrets and app state |
-| 2026-11-12 12:40:13 | [cohors-web](https://crates.io/crates/cohors-web) | 0.7.5 | 0 | cohors web dashboard — one Rust core; a native server half and a WASM (Leptos)… |
-| 2026-11-12 12:44:51 | [bevy_mod_scripting_bevy_ui_bindings](https://crates.io/crates/bevy_mod_scripting_bevy_ui_bindings) | 0.24.0 | 0 | Script bindings for bevy user interface nodes, layout and styling |
-| 2026-11-12 12:44:56 | [oxlint-vue-rs](https://crates.io/crates/oxlint-vue-rs) | 0.1.0 | 0 | All eslint-plugin-vue rules oxlint lacks (template + script) on the oxc toolcha… |
-| 2026-11-12 12:46:34 | [attentive-notifier](https://crates.io/crates/attentive-notifier) | 0.1.1 | 0 | Rust notification server and Windows toast dispatcher for Attentive Kit |
-| 2026-11-12 12:47:04 | [skywake-mount](https://crates.io/crates/skywake-mount) | 0.0.0 | 0 | Reserved for Skywake, a filesystem and search index for agents: https://skywake… |
-| 2026-11-12 12:48:59 | [bevy_mod_scripting_bevy_window_bindings](https://crates.io/crates/bevy_mod_scripting_bevy_window_bindings) | 0.24.0 | 0 | Script bindings for bevy windows |
-| 2026-11-12 12:49:20 | [colmat-traits](https://crates.io/crates/colmat-traits) | 0.25.0 | 0 | Scalar and SIMD traits for HPC linear algebra in the tensor4all faer fork. |
-| 2026-11-12 12:49:43 | [colmat](https://crates.io/crates/colmat) | 0.34.0 | 0 | Dense and sparse linear algebra for HPC applications with caller owned thread t… |
-| 2026-11-12 12:49:45 | [active-rpc-dir-sync](https://crates.io/crates/active-rpc-dir-sync) | 0.1.0 | 0 | One OS primitive for Active RPC: sync a file's parent directory to durable stor… |
-| 2026-11-12 12:50:01 | [active-rpc-process-tree](https://crates.io/crates/active-rpc-process-tree) | 0.1.0 | 0 | One OS primitive for Active RPC: a Windows job object holding a tool child and… |
-| 2026-11-12 12:50:06 | [very-normal](https://crates.io/crates/very-normal) | 0.1.0 | 0 | A terminal typing tutor that walks a ZSA Voyager from QWERTY to the Very Normal… |
-| 2026-11-12 12:50:11 | [active-rpc-liveness](https://crates.io/crates/active-rpc-liveness) | 0.1.0 | 0 | One OS primitive for Active RPC: whether a pid names a live process (Windows Op… |
-| 2026-11-12 12:50:19 | [active-rpc-file-identity](https://crates.io/crates/active-rpc-file-identity) | 0.1.0 | 0 | One OS primitive for Active RPC: the stable identity of an open file on Windows… |
-| 2026-11-12 12:50:47 | [curl-runner-cloud-client](https://crates.io/crates/curl-runner-cloud-client) | 2.8.0 | 0 | Blocking client for the curl-runner Cloud API, shared by the CLI and the studio |
-| 2026-11-12 12:50:51 | [vertep-yaml](https://crates.io/crates/vertep-yaml) | 0.1.1 | 0 | YAML surface for Vertep charts |
-| 2026-11-12 12:50:55 | [vertep-dm-cel](https://crates.io/crates/vertep-dm-cel) | 0.1.1 | 0 | CEL datamodel for Vertep |
-| 2026-11-12 12:51:02 | [vertep-macros](https://crates.io/crates/vertep-macros) | 0.1.1 | 0 | The statechart! macro: Rust DSL for Vertep charts |
-| 2026-11-12 12:51:06 | [cohors](https://crates.io/crates/cohors) | 0.7.5 | 0 | Every git repo you own, on one screen: a terminal dashboard, CLI and MCP server… |
-| 2026-11-12 12:51:12 | [vertep-dm-rust](https://crates.io/crates/vertep-dm-rust) | 0.1.1 | 0 | Rust datamodel for Vertep charts written with the statechart! macro |
-| 2026-11-12 12:51:32 | [offline-rn-shell](https://crates.io/crates/offline-rn-shell) | 0.3.3 | 0 | React Native android/ios shell cache and mesh native setup for Offline CLI |
-| 2026-11-12 12:51:48 | [ccr-lint](https://crates.io/crates/ccr-lint) | 0.1.1 | 0 | Conventional Commits linting and releases for Rust projects, without Node: a fa… |
-| 2026-11-12 12:53:18 | [unmei-engine](https://crates.io/crates/unmei-engine) | 0.1.0 | 0 | Minimal visual-novel runtime core: content-pack loading, .unmei DSL parser, sha… |
-| 2026-11-12 12:54:13 | [aeg-core](https://crates.io/crates/aeg-core) | 0.0.1 | 0 | Semantic kernel for aeglib: terms, histories, occurrences, domains, verdicts, c… |
-| 2026-11-12 12:54:18 | [aeg-algebra](https://crates.io/crates/aeg-algebra) | 0.0.1 | 0 | Exact algebra for aeglib: rationals, univariate polynomials, Sturm root countin… |
-| 2026-11-12 12:54:22 | [aeg-calculus](https://crates.io/crates/aeg-calculus) | 0.0.1 | 0 | AEG-native calculus: differential forms, horizontal differential, contact model… |
-| 2026-11-12 12:54:24 | [aeg-certify](https://crates.io/crates/aeg-certify) | 0.0.1 | 0 | Certificates and independent checkers for aeglib. |
-| 2026-11-12 12:55:46 | [unmei](https://crates.io/crates/unmei) | 0.1.0 | 0 | The unmei author CLI: generates and edits NPC decision configs via any OpenAI-c… |
-| 2026-11-12 12:57:14 | [skywake-cache](https://crates.io/crates/skywake-cache) | 0.0.0 | 0 | Reserved for Skywake, a filesystem and search index for agents: https://skywake… |
-| 2026-11-12 12:58:09 | [vertep-runtime](https://crates.io/crates/vertep-runtime) | 0.1.1 | 0 | Event-sourced actor runtime for Vertep: activations, mailboxes, journal, timers… |
-| 2026-11-12 12:59:24 | [flusso-script](https://crates.io/crates/flusso-script) | 0.17.0 | 0 | Script fields for flusso: typed computed fields, written in Rhai, run over each… |
-| 2026-11-12 12:59:55 | [aeg-analysis](https://crates.io/crates/aeg-analysis) | 0.0.1 | 0 | Differential/analytic structures for aeglib (connections, Picard-Fuchs operator… |
-| 2026-11-12 13:02:55 | [opentide-exabeam](https://crates.io/crates/opentide-exabeam) | 0.15.0 | 0 | opentide engine component: I/O-free Exabeam Query Language engine (Exabeam New-… |
-| 2026-11-12 13:03:26 | [qubit-reflect-derive](https://crates.io/crates/qubit-reflect-derive) | 0.2.1 | 0 | Procedural macros for qubit-reflect |
-| 2026-11-12 13:05:03 | [aeg-geometry](https://crates.io/crates/aeg-geometry) | 0.0.1 | 0 | AEG geometry: conformal AesSpec, canonical frame, k-puncture and z^2 models. |
-| 2026-11-12 13:05:15 | [qubit-reflect](https://crates.io/crates/qubit-reflect) | 0.2.2 | 0 | Macro-based structural and executable reflection for Rust |
-| 2026-11-12 13:07:57 | [qubit-event-bus-redis](https://crates.io/crates/qubit-event-bus-redis) | 0.7.1 | 0 | Synchronous and asynchronous Redis Streams providers for Qubit Event Bus |
-| 2026-11-12 13:08:08 | [vertep-agent](https://crates.io/crates/vertep-agent) | 0.1.1 | 0 | Deciders, LLM actors, tools with grants and sandboxed plan charts for Vertep ag… |
-| 2026-11-12 13:10:23 | [sororewind](https://crates.io/crates/sororewind) | 0.1.0 | 0 | Replay a failed Soroban transaction locally and narrate the call tree to the po… |
-| 2026-11-12 13:11:25 | [esf-mcp](https://crates.io/crates/esf-mcp) | 14.2.0 | 0 | MCP server that calculates EVE Online ship fits |
-| 2026-11-12 13:11:44 | [lmdeck](https://crates.io/crates/lmdeck) | 0.1.0 | 0 | One CLI to manage local AI model recipes: quant, engine and hardware configs fr… |
-| 2026-11-12 13:15:28 | [aeglib](https://crates.io/crates/aeglib) | 0.0.1 | 0 | Facade for the AEG symbolic/numerical computation library. |
-| 2026-11-12 13:16:25 | [i18n_walk](https://crates.io/crates/i18n_walk) | 0.2.115 | 0 | 按路径模式惰性枚举目录 |
-| 2026-11-12 13:18:06 | [vkeys](https://crates.io/crates/vkeys) | 0.1.0 | 0 | vkeys (virtual keys) - personal, machine-wide key store |
-| 2026-11-12 13:18:10 | [vertep-cluster](https://crates.io/crates/vertep-cluster) | 0.1.1 | 0 | Cluster membership, shard leases, QUIC transport and worker pools for Vertep |
+| 2026-11-12 13:21:22 | [simoom-hpack](https://crates.io/crates/simoom-hpack) | 0.1.0 | 0 | HPACK (RFC 7541) for simoom. |
+| 2026-11-12 13:21:28 | [simoom-sys](https://crates.io/crates/simoom-sys) | 0.1.0 | 0 | Operating-system layer of simoom: epoll, io_uring, kqueue, IOCP, sockets, SIMD… |
+| 2026-11-12 13:21:34 | [simoom-compress](https://crates.io/crates/simoom-compress) | 0.1.0 | 0 | DEFLATE (RFC 1951), zlib (RFC 1950) and gzip (RFC 1952) for simoom: streaming,… |
+| 2026-11-12 13:21:41 | [simoom-h2](https://crates.io/crates/simoom-h2) | 0.1.0 | 0 | Sans-io HTTP/2 (RFC 9113) connection engine for simoom, with DoS accounting. |
+| 2026-11-12 13:21:46 | [simoom-qpack](https://crates.io/crates/simoom-qpack) | 0.1.0 | 0 | QPACK (RFC 9204) for simoom. |
+| 2026-11-12 13:25:06 | [reallyme-trust-jades](https://crates.io/crates/reallyme-trust-jades) | 0.6.2 | 0 | ETSI TS 119 182-1 JAdES Baseline validation for ReallyMe trust decisions. |
+| 2026-11-12 13:25:34 | [reallyme-eudi-rp-registration](https://crates.io/crates/reallyme-eudi-rp-registration) | 0.6.2 | 0 | Strict EUDI Wallet Relying Party registration and credential profiles. |
+| 2026-11-12 13:25:38 | [aeg-cli](https://crates.io/crates/aeg-cli) | 0.0.1 | 0 | Command-line entry points for aeglib (Sturm counting, certificate verify/replay… |
+| 2026-11-12 13:26:12 | [notable-core](https://crates.io/crates/notable-core) | 0.1.0 | 0 | Parser, linter and merge conflict solver for keep-a-changelog like Changelog's |
+| 2026-11-12 13:26:15 | [notable](https://crates.io/crates/notable) | 0.1.0 | 0 | Parser, linter and merge conflict solver for keep-a-changelog like Changelog's |
+| 2026-11-12 13:28:11 | [vertep-cli](https://crates.io/crates/vertep-cli) | 0.1.1 | 0 | The vt command line: typecheck, schema, validate, hash, convert and certify |
+| 2026-11-12 13:28:33 | [cgp-orm](https://crates.io/crates/cgp-orm) | 0.1.0 | 0 | Transport-independent SeaORM repository and resource-service components for Con… |
+| 2026-11-12 13:28:37 | [lecop](https://crates.io/crates/lecop) | 0.1.0 | 0 | Fast health checks for LeRobot-format robot datasets (unofficial) |
+| 2026-11-12 13:31:57 | [simoom-rt](https://crates.io/crates/simoom-rt) | 0.1.0 | 0 | simoom runtime: one event loop per core, timer wheel, buffer pools, cross-threa… |
+| 2026-11-12 13:34:51 | [pxdprowl](https://crates.io/crates/pxdprowl) | 0.1.0 | 0 | Download proteomics datasets from ProteomeXchange repositories: PRIDE, MassIVE,… |
+| 2026-11-12 13:38:11 | [vertep-federation](https://crates.io/crates/vertep-federation) | 0.1.1 | 0 | DID identity, grants and relay mailboxes (TSP, DIDComm v2) for Vertep |
+| 2026-11-12 13:42:08 | [simoom-tls](https://crates.io/crates/simoom-tls) | 0.1.0 | 0 | Sans-io TLS 1.3 server and client for simoom, with QUIC support (RFC 9001). |
+| 2026-11-12 13:46:23 | [cargo-layers](https://crates.io/crates/cargo-layers) | 0.1.0 | 0 | A Cargo subcommand that checks which modules of a crate may reference each other |
+| 2026-11-12 13:47:04 | [steam-pressure](https://crates.io/crates/steam-pressure) | 0.1.0 | 0 | Zero-cost abstraction over Steam presence for Bevy applications. |
+| 2026-11-12 13:47:56 | [niv-ui-kit](https://crates.io/crates/niv-ui-kit) | 0.1.0 | 0 | Swift-style, easy-to-use UI kit for Rust, built on egui (the egui-like half; ma… |
+| 2026-11-12 13:48:09 | [vertep](https://crates.io/crates/vertep) | 0.1.1 | 0 | SCXML statecharts, virtual actors and AI agents with charts as RDF: the Vertep… |
+| 2026-11-12 13:48:47 | [mainkit](https://crates.io/crates/mainkit) | 0.1.0 | 0 | App/window launcher for niv-ui-kit (the eframe-like half): app("Name").size(..)… |
+| 2026-11-12 13:48:48 | [xe-bug-report](https://crates.io/crates/xe-bug-report) | 0.1.0 | 0 | Standalone GPU diagnostic collector: writes a redacted zip bundle of logs, sysf… |
+| 2026-11-12 13:52:18 | [simoom-http1](https://crates.io/crates/simoom-http1) | 0.1.0 | 0 | Sans-io, strict HTTP/1.1 parser and serializer (RFC 9112) for simoom. |
+| 2026-11-12 13:55:13 | [annotated-derive](https://crates.io/crates/annotated-derive) | 0.1.0 | 0 | The derive macros of annotated; use them through the annotated crate |
+| 2026-11-12 13:55:15 | [annotated](https://crates.io/crates/annotated) | 0.1.0 | 0 | Validation for structs that works with serde: every broken rule and missing fie… |
+| 2026-11-12 13:57:14 | [i18n_check](https://crates.io/crates/i18n_check) | 0.2.117 | 0 | 译文检查统一接口：送模型前改写原文、校验译文并生成修订原因 |
+| 2026-11-12 13:58:42 | [zsys](https://crates.io/crates/zsys) | 0.1.0 | 0 | A low-overhead, incremental system information engine |
+| 2026-11-12 14:01:38 | [mos6510](https://crates.io/crates/mos6510) | 0.1.0 | 0 | Cycle-exact MOS 6510/6502 CPU core with every undocumented opcode |
+| 2026-11-12 14:02:32 | [simoom-quic](https://crates.io/crates/simoom-quic) | 0.1.0 | 0 | Sans-io QUIC v1 transport (RFC 9000, 9002) for simoom. |
+| 2026-11-12 14:07:13 | [certval-cms](https://crates.io/crates/certval-cms) | 0.1.0-rc.1 | 0 | Cryptographic Message Syntax (CMS) for certval. Builds, decrypts, signs and ver… |
+| 2026-11-12 14:11:22 | [authlas](https://crates.io/crates/authlas) | 0.1.0 | 0 | OAuth 2.0 and JOSE in one crate: Rust core, stable C ABI, and the C++ HTTPS tra… |
+| 2026-11-12 14:12:50 | [simoom-h3](https://crates.io/crates/simoom-h3) | 0.1.0 | 0 | Sans-io HTTP/3 (RFC 9114) for simoom. |
+| 2026-11-12 14:15:49 | [verysync-sidecar](https://crates.io/crates/verysync-sidecar) | 0.1.0-alpha.1 | 0 | Async Rust control library for the official VerySync program |
+| 2026-11-12 14:19:11 | [stryx](https://crates.io/crates/stryx) | 0.1.0 | 0 | A high-performance, block-based SSTable storage engine for Rust. |
 
 ## Data source
 

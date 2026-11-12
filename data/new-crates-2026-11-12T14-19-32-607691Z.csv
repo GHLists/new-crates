@@ -1,0 +1,36 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-12T13:21:22.555027Z,simoom-hpack,0.1.0,0,0,https://github.com/Cameleering/simoom,HPACK (RFC 7541) for simoom.
+2026-11-12T13:21:28.275091Z,simoom-sys,0.1.0,0,0,https://github.com/Cameleering/simoom,"Operating-system layer of simoom: epoll, io_uring, kqueue, IOCP, sockets, SIMD scanning. The only crate with unsafe code."
+2026-11-12T13:21:34.447687Z,simoom-compress,0.1.0,0,0,https://github.com/Cameleering/simoom,"DEFLATE (RFC 1951), zlib (RFC 1950) and gzip (RFC 1952) for simoom: streaming, bounded, std-only."
+2026-11-12T13:21:41.531617Z,simoom-h2,0.1.0,0,0,https://github.com/Cameleering/simoom,"Sans-io HTTP/2 (RFC 9113) connection engine for simoom, with DoS accounting."
+2026-11-12T13:21:46.74316Z,simoom-qpack,0.1.0,0,0,https://github.com/Cameleering/simoom,QPACK (RFC 9204) for simoom.
+2026-11-12T13:25:06.170115Z,reallyme-trust-jades,0.6.2,0,0,https://github.com/reallyme/ssi,ETSI TS 119 182-1 JAdES Baseline validation for ReallyMe trust decisions.
+2026-11-12T13:25:34.298417Z,reallyme-eudi-rp-registration,0.6.2,0,0,https://github.com/reallyme/ssi,Strict EUDI Wallet Relying Party registration and credential profiles.
+2026-11-12T13:25:38.073311Z,aeg-cli,0.0.1,0,0,https://github.com/mountain/aeglib,"Command-line entry points for aeglib (Sturm counting, certificate verify/replay)."
+2026-11-12T13:26:12.969736Z,notable-core,0.1.0,0,0,https://github.com/foresterre/notable,"Parser, linter and merge conflict solver for keep-a-changelog like Changelog's"
+2026-11-12T13:26:15.422374Z,notable,0.1.0,0,0,https://github.com/foresterre/notable,"Parser, linter and merge conflict solver for keep-a-changelog like Changelog's"
+2026-11-12T13:28:11.335638Z,vertep-cli,0.1.1,0,0,https://github.com/Volland/vertep,"The vt command line: typecheck, schema, validate, hash, convert and certify"
+2026-11-12T13:28:33.607762Z,cgp-orm,0.1.0,0,0,https://github.com/Just-Replicant/cgp-orm,Transport-independent SeaORM repository and resource-service components for Context-Generic Programming (cgp-fork)
+2026-11-12T13:28:37.741621Z,lecop,0.1.0,0,0,https://github.com/michele-xilo/lecop,Fast health checks for LeRobot-format robot datasets (unofficial)
+2026-11-12T13:31:57.683786Z,simoom-rt,0.1.0,0,0,https://github.com/Cameleering/simoom,"simoom runtime: one event loop per core, timer wheel, buffer pools, cross-thread wakeups, offload pool."
+2026-11-12T13:34:51.62674Z,pxdprowl,0.1.0,0,0,https://github.com/qwibbert/pxdprowl,"Download proteomics datasets from ProteomeXchange repositories: PRIDE, MassIVE, iProX"
+2026-11-12T13:38:11.506208Z,vertep-federation,0.1.1,0,0,https://github.com/Volland/vertep,"DID identity, grants and relay mailboxes (TSP, DIDComm v2) for Vertep"
+2026-11-12T13:42:08.339301Z,simoom-tls,0.1.0,0,0,https://github.com/Cameleering/simoom,"Sans-io TLS 1.3 server and client for simoom, with QUIC support (RFC 9001)."
+2026-11-12T13:46:23.856274Z,cargo-layers,0.1.0,0,0,https://github.com/AprilNEA/cargo-layers,A Cargo subcommand that checks which modules of a crate may reference each other
+2026-11-12T13:47:04.726217Z,steam-pressure,0.1.0,0,0,https://github.com/caniko/rs-steam-pressure,Zero-cost abstraction over Steam presence for Bevy applications.
+2026-11-12T13:47:56.14478Z,niv-ui-kit,0.1.0,0,0,https://github.com/karanmehta1595/niv-ui-kit,"Swift-style, easy-to-use UI kit for Rust, built on egui (the egui-like half; mainkit is the eframe-like half)."
+2026-11-12T13:48:09.089434Z,vertep,0.1.1,0,0,https://github.com/Volland/vertep,"SCXML statecharts, virtual actors and AI agents with charts as RDF: the Vertep facade crate"
+2026-11-12T13:48:47.422863Z,mainkit,0.1.0,0,0,https://github.com/karanmehta1595/mainkit,"App/window launcher for niv-ui-kit (the eframe-like half): app(""Name"").size(..).run(MyApp)."
+2026-11-12T13:48:48.844875Z,xe-bug-report,0.1.0,0,0,https://github.com/team-blue-savery42/xe-bug-report,"Standalone GPU diagnostic collector: writes a redacted zip bundle of logs, sysfs and tool output"
+2026-11-12T13:52:18.213175Z,simoom-http1,0.1.0,0,0,https://github.com/Cameleering/simoom,"Sans-io, strict HTTP/1.1 parser and serializer (RFC 9112) for simoom."
+2026-11-12T13:55:13.661611Z,annotated-derive,0.1.0,0,0,https://github.com/pablocom/annotated,The derive macros of annotated; use them through the annotated crate
+2026-11-12T13:55:15.349294Z,annotated,0.1.0,0,0,https://github.com/pablocom/annotated,Validation for structs that works with serde: every broken rule and missing field in one error
+2026-11-12T13:57:14.378175Z,i18n_check,0.2.117,0,0,https://github.com/i18n-site/i18n.site,译文检查统一接口：送模型前改写原文、校验译文并生成修订原因
+2026-11-12T13:58:42.100827Z,zsys,0.1.0,0,0,https://github.com/LIghtJUNction/zsys,"A low-overhead, incremental system information engine"
+2026-11-12T14:01:38.232027Z,mos6510,0.1.0,0,0,https://github.com/aovestdipaperino/mos6510,Cycle-exact MOS 6510/6502 CPU core with every undocumented opcode
+2026-11-12T14:02:32.898648Z,simoom-quic,0.1.0,0,0,https://github.com/Cameleering/simoom,"Sans-io QUIC v1 transport (RFC 9000, 9002) for simoom."
+2026-11-12T14:07:13.451765Z,certval-cms,0.1.0-rc.1,0,0,https://github.com/carl-wallace/certval-cms,"Cryptographic Message Syntax (CMS) for certval. Builds, decrypts, signs and verifies EnvelopedData, AuthEnvelopedData and SignedData with every cryptographic operation performed by a pluggable implem…"
+2026-11-12T14:11:22.005606Z,authlas,0.1.0,0,0,https://github.com/Ai-finder-for-api/authlas-rust,"OAuth 2.0 and JOSE in one crate: Rust core, stable C ABI, and the C++ HTTPS transport"
+2026-11-12T14:12:50.120583Z,simoom-h3,0.1.0,0,0,https://github.com/Cameleering/simoom,Sans-io HTTP/3 (RFC 9114) for simoom.
+2026-11-12T14:15:49.112645Z,verysync-sidecar,0.1.0-alpha.1,0,0,https://github.com/AresJef/verysync-sidecar,Async Rust control library for the official VerySync program
+2026-11-12T14:19:11.453435Z,stryx,0.1.0,0,0,https://github.com/vamsi200/stryx,"A high-performance, block-based SSTable storage engine for Rust."
