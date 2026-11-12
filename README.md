@@ -8,39 +8,63 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-12 00:18 UTC
+## Latest list — 2026-11-12 01:19 UTC
 
-New crates published between 2026-11-11 23:18 UTC and 2026-11-12 00:18 UTC.
+New crates published between 2026-11-12 00:18 UTC and 2026-11-12 01:19 UTC.
 
-[Full CSV](data/new-crates-2026-11-12T00-18-46-39471Z.csv)
+[Full CSV](data/new-crates-2026-11-12T01-19-22-084682Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-11 23:18:51 | [forgr-schema](https://crates.io/crates/forgr-schema) | 0.1.0 | 0 | What an app's schema.json says: its tables, columns, keys and foreign keys, rea… |
-| 2026-11-11 23:19:08 | [forgr-macros](https://crates.io/crates/forgr-macros) | 0.1.0 | 0 | The schema! macro for forgr, re-exported by forgr. |
-| 2026-11-11 23:19:17 | [forgr](https://crates.io/crates/forgr) | 0.1.0 | 0 | Test data from the schema.json an app already has. |
-| 2026-11-11 23:19:23 | [tungo-sdk](https://crates.io/crates/tungo-sdk) | 0.2.0 | 0 | Official Rust SDK for the Tungo Platform API |
-| 2026-11-11 23:28:07 | [iters](https://crates.io/crates/iters) | 0.0.0 | 0 | Alternative way to iterate over your items |
-| 2026-11-11 23:28:14 | [presk-serve](https://crates.io/crates/presk-serve) | 0.17.1 | 0 | The generation loop of an `inference serve` over a runtime backend |
-| 2026-11-11 23:30:13 | [hexga_action](https://crates.io/crates/hexga_action) | 0.0.12-beta.2 | 0 | Trait for defining action, command, and undo redo system. |
-| 2026-11-11 23:36:20 | [instrument-driver-keysight](https://crates.io/crates/instrument-driver-keysight) | 0.2.0-alpha.1 | 0 | Source-derived Keysight device profiles; hardware validation pending |
-| 2026-11-11 23:38:29 | [presk-llvm](https://crates.io/crates/presk-llvm) | 0.17.1 | 0 | The LLVM backend: PSK-Kernel kernels printed as C and compiled by clang -O3, ru… |
-| 2026-11-11 23:48:46 | [presk-driver](https://crates.io/crates/presk-driver) | 0.17.1 | 0 | The pipeline as values: what every command of the presk tool and presk explain… |
-| 2026-11-11 23:52:15 | [amivuln-sandbox](https://crates.io/crates/amivuln-sandbox) | 0.0.14 | 0 | Landlock and seccomp sandbox for the amivuln version probe. Internal crate: no… |
-| 2026-11-11 23:57:35 | [tminus](https://crates.io/crates/tminus) | 0.1.0 | 0 | A countdown timer for the terminal with animated text effects, styled after Oma… |
-| 2026-11-11 23:58:59 | [presk-print-math](https://crates.io/crates/presk-print-math) | 0.17.1 | 0 | The printer of the denotation: a program's functions as the equations of the re… |
-| 2026-11-12 00:05:36 | [whyshelf-core](https://crates.io/crates/whyshelf-core) | 0.1.0 | 0 | Core (SDK) of whyshelf: books of documents whose kinds a project declares, and… |
-| 2026-11-12 00:05:39 | [whyshelf-infra](https://crates.io/crates/whyshelf-infra) | 0.1.0 | 0 | Adapters of whyshelf: file system, Git and clock implementations of the whyshel… |
-| 2026-11-12 00:05:41 | [whyshelf](https://crates.io/crates/whyshelf) | 0.1.0 | 0 | Books of documents whose kinds a project declares, linked to the files they sta… |
-| 2026-11-12 00:05:43 | [whyshelf-cli](https://crates.io/crates/whyshelf-cli) | 0.1.0 | 0 | Command-line interface of whyshelf: books of documents whose kinds a project de… |
-| 2026-11-12 00:08:52 | [mkd-freeport](https://crates.io/crates/mkd-freeport) | 0.3.1 | 0 | Discover and reserve TCP/UDP ports over IPv4 and IPv6 for scripts and AI agents |
-| 2026-11-12 00:09:12 | [presk-diagram](https://crates.io/crates/presk-diagram) | 0.17.1 | 0 | The network diagram: a program as boxes and arrows, a view of the provenance ta… |
-| 2026-11-12 00:12:51 | [teka](https://crates.io/crates/teka) | 0.1.0 | 0 | Teka application runtime, device client, and signed TPK packages |
-| 2026-11-12 00:13:57 | [teka-cli](https://crates.io/crates/teka-cli) | 0.1.0 | 0 | Build, package, and deploy Teka apps and systems |
-| 2026-11-12 00:15:02 | [png2ico](https://crates.io/crates/png2ico) | 1.0.2 | 0 | Fast, robust PNG/JPEG/WebP/BMP/GIF/TIFF to ICO converter with multi-size, PNG/B… |
-| 2026-11-12 00:15:42 | [pdf-stamp](https://crates.io/crates/pdf-stamp) | 0.1.0 | 0 | Per-recipient personalisation of cached PDF documents — visible watermarks and… |
-| 2026-11-12 00:17:45 | [inval-macros](https://crates.io/crates/inval-macros) | 0.1.0 | 0 | Attribute macros for inval. |
-| 2026-11-12 00:17:49 | [inval](https://crates.io/crates/inval) | 0.1.0 | 0 | Cache a function's result in memory and Redis, invalidated in every process on… |
+| 2026-11-12 00:19:28 | [presk-explain](https://crates.io/crates/presk-explain) | 0.17.1 | 0 | presk explain: one compilation as a document, every stage's representation and… |
+| 2026-11-12 00:19:52 | [normalie](https://crates.io/crates/normalie) | 0.1.0 | 0 | Fast normalizers for tokie |
+| 2026-11-12 00:29:51 | [presk](https://crates.io/crates/presk) | 0.17.1 | 0 | The Presk compiler: a language for neural networks with exact real semantics, c… |
+| 2026-11-12 00:30:34 | [argus-git-core](https://crates.io/crates/argus-git-core) | 0.1.0 | 0 | Internal crate of argus-git (discovery, status, fixes, config); no stability gu… |
+| 2026-11-12 00:30:36 | [argus-git-forge](https://crates.io/crates/argus-git-forge) | 0.1.0 | 0 | Internal crate of argus-git (forge listings: GitHub, directories); no stability… |
+| 2026-11-12 00:30:37 | [argus-git-tui](https://crates.io/crates/argus-git-tui) | 0.1.0 | 0 | Internal crate of argus-git (the terminal UI); no stability guarantees. |
+| 2026-11-12 00:30:39 | [argus-git](https://crates.io/crates/argus-git) | 0.1.0 | 0 | See which of your many git clones need attention, clean them up, and keep them… |
+| 2026-11-12 00:30:57 | [bungeeoxide-authlib](https://crates.io/crates/bungeeoxide-authlib) | 0.1.1 | 0 | Minecraft account authentication: Microsoft and launcher logins, session server… |
+| 2026-11-12 00:30:57 | [pds-bytes-runtime](https://crates.io/crates/pds-bytes-runtime) | 0.1.1 | 0 | Byte-level runtime for the Rust code pds2 generates from PDS binary protocol de… |
+| 2026-11-12 00:30:59 | [bungeeoxide-nbt](https://crates.io/crates/bungeeoxide-nbt) | 0.1.1 | 0 | Minecraft NBT types generated by pds2, with borrowing views |
+| 2026-11-12 00:31:00 | [bungeeoxide-pds-natives](https://crates.io/crates/bungeeoxide-pds-natives) | 0.1.1 | 0 | Hand-written pds2 natives of the Minecraft protocol: varints, UUIDs, NBT, legac… |
+| 2026-11-12 00:31:01 | [bungeeoxide-minecraft-root](https://crates.io/crates/bungeeoxide-minecraft-root) | 0.1.1 | 0 | Definitions shared by the other bungeeoxide-minecraft crates |
+| 2026-11-12 00:34:10 | [diurn](https://crates.io/crates/diurn) | 0.1.0 | 0 | Exchange calendars and trading hours for the world's markets, from the Diurn API |
+| 2026-11-12 00:44:50 | [whisker-image-linux](https://crates.io/crates/whisker-image-linux) | 0.14.6 | 0 | Linux Host implementation for whisker-image. |
+| 2026-11-12 00:44:50 | [whisker-input-linux](https://crates.io/crates/whisker-input-linux) | 0.14.6 | 0 | Linux Host implementation for whisker-input. |
+| 2026-11-12 00:47:42 | [bungeeoxide-minecraft-v1-0-1](https://crates.io/crates/bungeeoxide-minecraft-v1-0-1) | 0.1.1 | 0 | Minecraft 1.0.1 protocol types |
+| 2026-11-12 00:49:23 | [tsrs_contentmappertest](https://crates.io/crates/tsrs_contentmappertest) | 0.0.0 | 0 | Content mapper fixtures and test support for tsrs |
+| 2026-11-12 00:49:38 | [tsrs_bench](https://crates.io/crates/tsrs_bench) | 0.0.0 | 0 | Benchmark harnesses for the tsrs TypeScript compiler |
+| 2026-11-12 00:49:54 | [tsrs_testrunner](https://crates.io/crates/tsrs_testrunner) | 0.0.0 | 0 | Conformance and regression test runner for tsrs |
+| 2026-11-12 00:50:04 | [tsrs_wasm](https://crates.io/crates/tsrs_wasm) | 0.0.0 | 0 | WebAssembly module for the tsrs TypeScript compiler |
+| 2026-11-12 00:50:14 | [tsrs_definitelytyped](https://crates.io/crates/tsrs_definitelytyped) | 0.0.0 | 0 | DefinitelyTyped compatibility runner for tsrs |
+| 2026-11-12 00:50:25 | [bungeeoxide-minecraft-v1-1](https://crates.io/crates/bungeeoxide-minecraft-v1-1) | 0.1.1 | 0 | Minecraft 1.1 protocol types |
+| 2026-11-12 00:52:09 | [miden-ace](https://crates.io/crates/miden-ace) | 0.0.0 | 0 | Placeholder crate for a Miden VM project |
+| 2026-11-12 00:52:44 | [whisker-svg-linux](https://crates.io/crates/whisker-svg-linux) | 0.14.6 | 0 | Linux Host implementation for whisker-svg. |
+| 2026-11-12 00:53:50 | [miden-event-handler-abi](https://crates.io/crates/miden-event-handler-abi) | 0.0.0 | 0 | Placeholder crate for a Miden VM project |
+| 2026-11-12 00:54:55 | [umf-oxrdf](https://crates.io/crates/umf-oxrdf) | 0.3.5 | 0 | UMF registry companion for oxrdf. Basic data structures related to RDF |
+| 2026-11-12 00:54:57 | [umf-saphyr-parser](https://crates.io/crates/umf-saphyr-parser) | 0.1.0 | 0 | UMF registry companion for saphyr-parser. Vendored saphyr-parser 0.1.0 with an… |
+| 2026-11-12 00:55:01 | [umf-hashbrown-012](https://crates.io/crates/umf-hashbrown-012) | 0.12.3 | 0 | UMF registry companion for hashbrown. A Rust port of Google's SwissTable hash m… |
+| 2026-11-12 00:55:06 | [miden-event-handler-macros](https://crates.io/crates/miden-event-handler-macros) | 0.0.0 | 0 | Placeholder crate for a Miden VM project |
+| 2026-11-12 00:55:08 | [umf-hashbrown-013](https://crates.io/crates/umf-hashbrown-013) | 0.13.2 | 0 | UMF registry companion for hashbrown. A Rust port of Google's SwissTable hash m… |
+| 2026-11-12 00:55:12 | [umf-xsd-types](https://crates.io/crates/umf-xsd-types) | 0.9.6 | 0 | UMF registry companion for xsd-types. XSD data types. |
+| 2026-11-12 00:55:49 | [miden-event-handler-sdk](https://crates.io/crates/miden-event-handler-sdk) | 0.0.0 | 0 | Placeholder crate for a Miden VM project |
+| 2026-11-12 00:56:15 | [tamias-bin](https://crates.io/crates/tamias-bin) | 0.1.5 | 0 | Declared bins[] lifecycle — tools/bin/<triple> payloads, bin-dir deploy/destroy… |
+| 2026-11-12 00:56:36 | [miden-precompiles-stark](https://crates.io/crates/miden-precompiles-stark) | 0.0.0 | 0 | Placeholder crate for a Miden VM project |
+| 2026-11-12 00:59:19 | [bluelines](https://crates.io/crates/bluelines) | 0.1.0 | 0 | Preview markdown, mermaid included, in a browser tab that reloads on save |
+| 2026-11-12 00:59:50 | [miden-stark](https://crates.io/crates/miden-stark) | 0.0.0 | 0 | Placeholder crate for a Miden VM project |
+| 2026-11-12 01:00:34 | [tsrs_determinism](https://crates.io/crates/tsrs_determinism) | 0.0.0 | 0 | Determinism and conformance checks for tsrs |
+| 2026-11-12 01:06:07 | [super_admin_ui](https://crates.io/crates/super_admin_ui) | 0.6.3 | 0 | The admin UI of Super, built and embedded (ADR 0008) |
+| 2026-11-12 01:07:01 | [umf-oxttl](https://crates.io/crates/umf-oxttl) | 0.2.5 | 0 | UMF registry companion for oxttl. Parser and serializer for languages related t… |
+| 2026-11-12 01:07:25 | [wallet](https://crates.io/crates/wallet) | 0.3.0 | 0 | Local mnemonic vault, deterministic addresses, and cryptocurrency signing for P… |
+| 2026-11-12 01:07:58 | [super_core](https://crates.io/crates/super_core) | 0.6.3 | 0 | Super's core on hyper: Pingora's request phases (the `ProxyHttp` trait), its se… |
+| 2026-11-12 01:09:33 | [super_store](https://crates.io/crates/super_store) | 0.6.3 | 0 | The stores shared by Super (and Proksi) replicas: routes, certificates, leases… |
+| 2026-11-12 01:10:11 | [miden-vm-stark](https://crates.io/crates/miden-vm-stark) | 0.0.0 | 0 | Placeholder crate for a Miden VM project |
+| 2026-11-12 01:10:25 | [super_plugins](https://crates.io/crates/super_plugins) | 0.6.3 | 0 | Super's built-in plugins (Proksi's): authentication, limits, CORS, redirects, s… |
+| 2026-11-12 01:11:29 | [super_proxy](https://crates.io/crates/super_proxy) | 0.6.3 | 0 | Proksi on hyper: a batteries-included reverse proxy with automatic HTTPS and Le… |
+| 2026-11-12 01:13:58 | [bungeeoxide-minecraft-v1-2-3](https://crates.io/crates/bungeeoxide-minecraft-v1-2-3) | 0.1.1 | 0 | Minecraft 1.2.3 protocol types |
+| 2026-11-12 01:13:59 | [bungeeoxide-minecraft-v1-2-5](https://crates.io/crates/bungeeoxide-minecraft-v1-2-5) | 0.1.1 | 0 | Minecraft 1.2.5 protocol types |
+| 2026-11-12 01:14:15 | [boxlite-hypervisor](https://crates.io/crates/boxlite-hypervisor) | 0.13.0 | 0 | Host hypervisor backends for BoxLite's VMM |
+| 2026-11-12 01:15:23 | [boxlite-vmm](https://crates.io/crates/boxlite-vmm) | 0.13.0 | 0 | Virtual machine lifecycle and device model for BoxLite |
 
 ## Data source
 
