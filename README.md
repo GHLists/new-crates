@@ -8,58 +8,55 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-12 02:18 UTC
+## Latest list — 2026-11-12 03:19 UTC
 
-New crates published between 2026-11-12 01:19 UTC and 2026-11-12 02:18 UTC.
+New crates published between 2026-11-12 02:18 UTC and 2026-11-12 03:19 UTC.
 
-[Full CSV](data/new-crates-2026-11-12T02-18-46-23034Z.csv)
+[Full CSV](data/new-crates-2026-11-12T03-19-36-779431Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-12 01:20:02 | [mannerly](https://crates.io/crates/mannerly) | 0.1.0 | 0 | Lighthouse for command-line tools: scores any CLI on help, errors, pipes, color… |
-| 2026-11-12 01:21:57 | [miden-wasm-event-handlers](https://crates.io/crates/miden-wasm-event-handlers) | 0.0.0 | 0 | Placeholder crate for a Miden VM project |
-| 2026-11-12 01:30:59 | [miden-wasm-event-handlers-project](https://crates.io/crates/miden-wasm-event-handlers-project) | 0.0.0 | 0 | Placeholder crate for a Miden VM project |
-| 2026-11-12 01:31:07 | [umf-indexmap-1](https://crates.io/crates/umf-indexmap-1) | 1.9.3 | 0 | UMF registry companion for indexmap. A hash table with consistent order and fas… |
-| 2026-11-12 01:31:11 | [umf-json-syntax](https://crates.io/crates/umf-json-syntax) | 0.12.5 | 0 | UMF registry companion for json-syntax. Strict JSON parsing and mapping library |
-| 2026-11-12 01:31:29 | [wasmkeep-sdk](https://crates.io/crates/wasmkeep-sdk) | 0.0.0 | 0 | Placeholder that reserves the name. The WasmKeep Rust SDK is published here fro… |
-| 2026-11-12 01:35:17 | [rightkit-roots](https://crates.io/crates/rightkit-roots) | 0.1.0 | 0 | Where a Right Suite app keeps its data: the one run-mode decision, the per-user… |
-| 2026-11-12 01:35:39 | [bungeeoxide-minecraft-v1-3-2](https://crates.io/crates/bungeeoxide-minecraft-v1-3-2) | 0.1.1 | 0 | Minecraft 1.3.2 protocol types |
-| 2026-11-12 01:35:42 | [bungeeoxide-minecraft-v1-4-2](https://crates.io/crates/bungeeoxide-minecraft-v1-4-2) | 0.1.1 | 0 | Minecraft 1.4.2 protocol types |
-| 2026-11-12 01:39:03 | [podforge](https://crates.io/crates/podforge) | 0.0.0 | 0 | Forge backends and platform interop for PodUtils: git hosts, Radicle and other… |
-| 2026-11-12 01:43:25 | [signwriter](https://crates.io/crates/signwriter) | 0.2.0 | 0 | no_std driver for 128x64 I2C OLEDs: tells an SSD1306 from an SH1106 at runtime,… |
-| 2026-11-12 01:48:42 | [envelopes-data-integrity](https://crates.io/crates/envelopes-data-integrity) | 0.6.1 | 0 | W3C Data Integrity identity envelope helpers for ReallyMe identity. |
-| 2026-11-12 01:49:08 | [identity-presentation-vp-policy](https://crates.io/crates/identity-presentation-vp-policy) | 0.6.1 | 0 | Protocol-neutral verifiable presentation policy evaluation. |
-| 2026-11-12 01:49:30 | [pods](https://crates.io/crates/pods) | 0.0.0 | 0 | Umbrella installer for PodUtils tools: install, pin, verify, update and roll ba… |
-| 2026-11-12 01:49:34 | [reallyme-did-core](https://crates.io/crates/reallyme-did-core) | 0.6.1 | 0 | DID identity-core document generation, validation, canonical state, and update… |
-| 2026-11-12 01:49:50 | [reallyme-did-method-cheqd](https://crates.io/crates/reallyme-did-method-cheqd) | 0.6.1 | 0 | did:cheqd namespace and unique identifier helpers. |
-| 2026-11-12 01:50:01 | [reallyme-did-method-jwk](https://crates.io/crates/reallyme-did-method-jwk) | 0.6.1 | 0 | did:jwk deterministic identifier helpers. |
-| 2026-11-12 01:51:13 | [stackpress-framework-csrf](https://crates.io/crates/stackpress-framework-csrf) | 0.1.0 | 0 | Source-compatible CSRF token generation and explicit validation |
-| 2026-11-12 01:52:02 | [stackpress-framework-email](https://crates.io/crates/stackpress-framework-email) | 0.1.0 | 0 | Per-call Send email transport contracts and supervised background hooks |
-| 2026-11-12 01:52:18 | [stackpress-idea](https://crates.io/crates/stackpress-idea) | 0.1.0 | 0 | Independent Idea generation orchestration |
-| 2026-11-12 01:52:43 | [reallyme-did-method-ebsi](https://crates.io/crates/reallyme-did-method-ebsi) | 0.6.1 | 0 | did:ebsi versioned base58btc identifier helpers. |
-| 2026-11-12 01:55:44 | [ruv-fann-wsp-tensor](https://crates.io/crates/ruv-fann-wsp-tensor) | 0.1.0 | 0 | Bounded, streaming Safetensors checkpoint edits for WSP experiments |
-| 2026-11-12 01:57:12 | [bungeeoxide-minecraft-v1-4-5](https://crates.io/crates/bungeeoxide-minecraft-v1-4-5) | 0.1.1 | 0 | Minecraft 1.4.5 protocol types |
-| 2026-11-12 01:57:15 | [bungeeoxide-minecraft-v1-4-7](https://crates.io/crates/bungeeoxide-minecraft-v1-4-7) | 0.1.1 | 0 | Minecraft 1.4.7 protocol types |
-| 2026-11-12 01:59:42 | [podstat](https://crates.io/crates/podstat) | 0.0.0 | 0 | Outside prober and heartbeat: probe HTTPS endpoints and node reachability from… |
-| 2026-11-12 02:00:09 | [ct-fp](https://crates.io/crates/ct-fp) | 0.0.1 | 0 | Prime-field arithmetic trait and shared logic for constant-time cryptography |
-| 2026-11-12 02:02:45 | [rightkit-agent-task-contract](https://crates.io/crates/rightkit-agent-task-contract) | 0.1.0 | 0 | The agent task contract: task envelope, its ten statuses and legal transitions,… |
-| 2026-11-12 02:05:59 | [taba-tauri](https://crates.io/crates/taba-tauri) | 0.0.1 | 0 | Tauri backend for Taba, a Rolldown-based TypeScript bundler for Rust |
-| 2026-11-12 02:07:51 | [stackpress-framework-schema](https://crates.io/crates/stackpress-framework-schema) | 0.1.0 | 0 | Owned framework schema contracts and explicit build-host normalization |
-| 2026-11-12 02:08:09 | [stackpress-framework-sql](https://crates.io/crates/stackpress-framework-sql) | 0.1.0 | 0 | Borrowed generated stores and explicit SQLite migration planning |
-| 2026-11-12 02:08:34 | [stackpress-framework-admin](https://crates.io/crates/stackpress-framework-admin) | 0.1.0 | 0 | Public generated UI role adapters and optional deterministic code generation |
-| 2026-11-12 02:09:06 | [rightkit-agent-telemetry](https://crates.io/crates/rightkit-agent-telemetry) | 0.1.0 | 0 | Agent runtime telemetry for an agent host: resource metrics, turn latency, roun… |
-| 2026-11-12 02:10:30 | [zig-lean](https://crates.io/crates/zig-lean) | 0.1.0 | 0 | Validate and optimize Zig package build.zig.zon manifests |
-| 2026-11-12 02:10:51 | [ocloak](https://crates.io/crates/ocloak) | 0.1.0 | 0 | Open RFC 9458 OHTTP Relay |
-| 2026-11-12 02:13:35 | [zeroclaw-rpc-proto](https://crates.io/crates/zeroclaw-rpc-proto) | 0.9.0 | 0 | Wire contract for the ZeroClaw daemon RPC: method name table, request and respo… |
-| 2026-11-12 02:14:01 | [ct-scalar](https://crates.io/crates/ct-scalar) | 0.1.0 | 0 | Scalar-field trait and shared logic for constant-time cryptography |
-| 2026-11-12 02:14:39 | [zeroclaw-rpc-client](https://crates.io/crates/zeroclaw-rpc-client) | 0.9.0 | 0 | Client for the ZeroClaw daemon RPC: dial the local socket or any byte stream, r… |
-| 2026-11-12 02:15:25 | [termelon-vt](https://crates.io/crates/termelon-vt) | 0.1.0 | 0 | A terminal emulator library for Rust, for testing what terminal programs write. |
-| 2026-11-12 02:15:27 | [termelon](https://crates.io/crates/termelon) | 0.1.0 | 0 | A terminal user interface library for Rust. |
-| 2026-11-12 02:15:45 | [umf-json-ld-syntax](https://crates.io/crates/umf-json-ld-syntax) | 0.21.4 | 0 | UMF registry companion for json-ld-syntax. JSON-LD syntax |
-| 2026-11-12 02:15:50 | [umf-linked-data](https://crates.io/crates/umf-linked-data) | 0.1.2 | 0 | UMF registry companion for linked-data. Linked-Data dateset serialization/deser… |
-| 2026-11-12 02:15:54 | [umf-json-ld-core](https://crates.io/crates/umf-json-ld-core) | 0.21.4 | 0 | UMF registry companion for json-ld-core. JSON-LD core types and traits |
-| 2026-11-12 02:15:59 | [umf-json-ld-context-processing](https://crates.io/crates/umf-json-ld-context-processing) | 0.21.4 | 0 | UMF registry companion for json-ld-context-processing. JSON-LD context processi… |
-| 2026-11-12 02:16:03 | [umf-json-ld-serialization](https://crates.io/crates/umf-json-ld-serialization) | 0.21.4 | 0 | UMF registry companion for json-ld-serialization. JSON-LD serialization |
+| 2026-11-12 02:19:18 | [grindvakt-core](https://crates.io/crates/grindvakt-core) | 1.0.0 | 0 | The Grindvakt dynamic DNS engine as a library: keep A, AAAA and TXT records (in… |
+| 2026-11-12 02:19:20 | [bungeeoxide-minecraft-v1-5-1](https://crates.io/crates/bungeeoxide-minecraft-v1-5-1) | 0.1.1 | 0 | Minecraft 1.5.1 protocol types |
+| 2026-11-12 02:19:21 | [bungeeoxide-minecraft-v1-5-2](https://crates.io/crates/bungeeoxide-minecraft-v1-5-2) | 0.1.1 | 0 | Minecraft 1.5.2 protocol types |
+| 2026-11-12 02:20:23 | [harfrust_capi](https://crates.io/crates/harfrust_capi) | 0.16.0 | 0 | C API for the HarfRust text shaping library, mirroring HarfBuzz's shaping API. |
+| 2026-11-12 02:22:00 | [stackpress-framework-session](https://crates.io/crates/stackpress-framework-session) | 0.1.0 | 0 | Source-parity JWT identity and configured permission mechanisms |
+| 2026-11-12 02:22:20 | [stackpress-framework-api](https://crates.io/crates/stackpress-framework-api) | 0.1.0 | 0 | Source-compatible API configuration and invocation mechanics |
+| 2026-11-12 02:22:50 | [flirt-sig](https://crates.io/crates/flirt-sig) | 0.1.0 | 0 | Reader and matcher for IDA FLIRT .sig signature files (versions 5 to 11), with… |
+| 2026-11-12 02:24:51 | [mlib](https://crates.io/crates/mlib) | 0.0.2 | 0 | Fast, readable machine learning for tabular data: tables, pipelines, random for… |
+| 2026-11-12 02:27:19 | [stackpress-framework](https://crates.io/crates/stackpress-framework) | 0.1.0 | 0 | Compile-time composition of the source Stackpress framework |
+| 2026-11-12 02:33:01 | [i18nsite](https://crates.io/crates/i18nsite) | 0.1.0 | 0 | i18nsite |
+| 2026-11-12 02:38:33 | [dashcam](https://crates.io/crates/dashcam) | 0.1.0 | 0 | A local flight recorder for agent sessions: every tool call, prompt, diff and m… |
+| 2026-11-12 02:41:02 | [rtao-upstream-macros](https://crates.io/crates/rtao-upstream-macros) | 0.490.0 | 0 | Unofficial republish of subtensor-macros from RaoFoundation/subtensor v490, for… |
+| 2026-11-12 02:41:09 | [rtao-upstream-fips204](https://crates.io/crates/rtao-upstream-fips204) | 0.490.0 | 0 | Unofficial republish of fips204 from RaoFoundation/subtensor v490 (vendored fro… |
+| 2026-11-12 02:41:09 | [bungeeoxide-minecraft-v1-6-1](https://crates.io/crates/bungeeoxide-minecraft-v1-6-1) | 0.1.1 | 0 | Minecraft 1.6.1 protocol types |
+| 2026-11-12 02:41:12 | [bungeeoxide-minecraft-v1-6-2](https://crates.io/crates/bungeeoxide-minecraft-v1-6-2) | 0.1.1 | 0 | Minecraft 1.6.2 protocol types |
+| 2026-11-12 02:41:13 | [rtao-upstream-w3f-bls](https://crates.io/crates/rtao-upstream-w3f-bls) | 0.490.0 | 0 | Unofficial republish of w3f-bls from RaoFoundation/subtensor v490 (vendored fro… |
+| 2026-11-12 02:41:13 | [bungeeoxide-minecraft-v1-7](https://crates.io/crates/bungeeoxide-minecraft-v1-7) | 0.1.1 | 0 | Minecraft 1.7 protocol types |
+| 2026-11-12 02:41:18 | [rtao-upstream-hashed](https://crates.io/crates/rtao-upstream-hashed) | 0.490.0 | 0 | Unofficial republish of subtensor-hashed from RaoFoundation/subtensor v490, for… |
+| 2026-11-12 02:41:23 | [rtao-upstream-tle](https://crates.io/crates/rtao-upstream-tle) | 0.490.0 | 0 | Unofficial republish of tle from ideal-lab5/timelock at the revision RaoFoundat… |
+| 2026-11-12 02:45:04 | [rtao-upstream-core](https://crates.io/crates/rtao-upstream-core) | 0.490.0 | 0 | Unofficial republish of bittensor-core from RaoFoundation/subtensor v490 with r… |
+| 2026-11-12 02:54:57 | [rtao-arena](https://crates.io/crates/rtao-arena) | 0.2.0 | 0 | Fixed-capacity memory for wasm32 and other hosts whose linear memory must never… |
+| 2026-11-12 02:55:57 | [umf-json-ld-expansion](https://crates.io/crates/umf-json-ld-expansion) | 0.21.4 | 0 | UMF registry companion for json-ld-expansion. JSON-LD document expansion implem… |
+| 2026-11-12 02:56:01 | [umf-json-ld-compaction](https://crates.io/crates/umf-json-ld-compaction) | 0.21.4 | 0 | UMF registry companion for json-ld-compaction. JSON-LD document compaction impl… |
+| 2026-11-12 02:56:05 | [umf-json-ld](https://crates.io/crates/umf-json-ld) | 0.21.4 | 0 | UMF registry companion for json-ld. JSON-LD implementation |
+| 2026-11-12 02:56:10 | [umf-core](https://crates.io/crates/umf-core) | 0.10.11 | 0 | Host-independent Unified Metadata Format core library. |
+| 2026-11-12 03:02:30 | [bungeeoxide-minecraft-v1-6-4](https://crates.io/crates/bungeeoxide-minecraft-v1-6-4) | 0.1.1 | 0 | Minecraft 1.6.4 protocol types |
+| 2026-11-12 03:02:30 | [bungeeoxide-minecraft-v1-8](https://crates.io/crates/bungeeoxide-minecraft-v1-8) | 0.1.1 | 0 | Minecraft 1.8 protocol types |
+| 2026-11-12 03:05:10 | [rtao-core-ext](https://crates.io/crates/rtao-core-ext) | 0.1.0 | 0 | Staged extensions for the upstream Bittensor core. |
+| 2026-11-12 03:06:28 | [rust-mirror-gui](https://crates.io/crates/rust-mirror-gui) | 0.1.0 | 0 | Desktop app for building offline Rust toolchain mirrors with rust-mirror |
+| 2026-11-12 03:08:44 | [pi_graph_index](https://crates.io/crates/pi_graph_index) | 0.6.0 | 0 | Typed property indexes and coordinated indexed graph ownership |
+| 2026-11-12 03:14:09 | [ashlar-diff](https://crates.io/crates/ashlar-diff) | 0.2.0 | 0 | Headless text diffs: Myers with a cost cap, word-level changes, hunks with coll… |
+| 2026-11-12 03:14:10 | [ashlar-i18n](https://crates.io/crates/ashlar-i18n) | 0.2.0 | 0 | Small translation layer: JSON catalogs per locale, plural categories, number fo… |
+| 2026-11-12 03:14:11 | [ashlar-motion](https://crates.io/crates/ashlar-motion) | 0.2.0 | 0 | Headless motion maths: closed-form springs, curves, animated values, reduced-mo… |
+| 2026-11-12 03:14:11 | [ashlar-syntax](https://crates.io/crates/ashlar-syntax) | 0.2.0 | 0 | Headless syntax highlighting: forward-only, linear-time lexers for common langu… |
+| 2026-11-12 03:15:02 | [rtao-jsonrpc](https://crates.io/crates/rtao-jsonrpc) | 0.1.0 | 0 | Asynchronous Bittensor JSON-RPC transport. |
+| 2026-11-12 03:18:25 | [smugglr-place](https://crates.io/crates/smugglr-place) | 0.6.3 | 0 | smugglr's places: the place interface, the local SQLite file and HTTP-SQL. |
+| 2026-11-12 03:18:36 | [smugglr-memory](https://crates.io/crates/smugglr-memory) | 0.6.3 | 0 | smugglr's memory: each key's last hash per pair of places, in smugglr's own fil… |
+| 2026-11-12 03:18:46 | [smugglr-sync](https://crates.io/crates/smugglr-sync) | 0.6.3 | 0 | smugglr's direct sync: one run between two places, the same from the command li… |
+| 2026-11-12 03:18:57 | [smugglr-multi](https://crates.io/crates/smugglr-multi) | 0.6.3 | 0 | smugglr multi: stash and retrieve keep a person's own devices in step through b… |
+| 2026-11-12 03:19:10 | [smugglr-mesh](https://crates.io/crates/smugglr-mesh) | 0.6.3 | 0 | smugglr mesh: nodes on a local network kept in step with nobody in charge. |
+| 2026-11-12 03:19:29 | [indycheck](https://crates.io/crates/indycheck) | 0.1.0 | 0 | Offline Indian ID validator — PAN, Aadhaar, GSTIN, IFSC, UPI, mobile, PIN |
 
 ## Data source
 

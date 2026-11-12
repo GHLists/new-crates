@@ -1,0 +1,42 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-12T02:19:18.225258Z,grindvakt-core,1.0.0,0,0,https://github.com/WeirdBrains/grindvakt-core,"The Grindvakt dynamic DNS engine as a library: keep A, AAAA and TXT records (including libp2p _dnsaddr) current on DNSimple or DigitalOcean. Separate IPv4/IPv6 discovery that reports when there is no…"
+2026-11-12T02:19:20.323481Z,bungeeoxide-minecraft-v1-5-1,0.1.1,0,0,,Minecraft 1.5.1 protocol types
+2026-11-12T02:19:21.506025Z,bungeeoxide-minecraft-v1-5-2,0.1.1,0,0,,Minecraft 1.5.2 protocol types
+2026-11-12T02:20:23.188776Z,harfrust_capi,0.16.0,0,0,https://github.com/harfbuzz/harfrust,"C API for the HarfRust text shaping library, mirroring HarfBuzz's shaping API."
+2026-11-12T02:22:00.258146Z,stackpress-framework-session,0.1.0,0,0,https://github.com/stackpress/rust,Source-parity JWT identity and configured permission mechanisms
+2026-11-12T02:22:20.136437Z,stackpress-framework-api,0.1.0,0,0,https://github.com/stackpress/rust,Source-compatible API configuration and invocation mechanics
+2026-11-12T02:22:50.440814Z,flirt-sig,0.1.0,0,0,https://github.com/coleleavitt/flirt-sig,"Reader and matcher for IDA FLIRT .sig signature files (versions 5 to 11), with reference-name checks and arbitration"
+2026-11-12T02:24:51.586445Z,mlib,0.0.2,0,0,https://github.com/arslanerdem/mlib,"Fast, readable machine learning for tabular data: tables, pipelines, random forests, gradient boosting."
+2026-11-12T02:27:19.28693Z,stackpress-framework,0.1.0,0,0,https://github.com/stackpress/rust,Compile-time composition of the source Stackpress framework
+2026-11-12T02:33:01.309465Z,i18nsite,0.1.0,0,0,https://github.com/webc-site/npm,i18nsite
+2026-11-12T02:38:33.643313Z,dashcam,0.1.0,0,0,https://gitlab.com/Aloysiusvonf.ck/dashcam,"A local flight recorder for agent sessions: every tool call, prompt, diff and model turn, in one queryable timeline."
+2026-11-12T02:41:02.683447Z,rtao-upstream-macros,0.490.0,0,0,https://github.com/sam0x17/rtao,"Unofficial republish of subtensor-macros from RaoFoundation/subtensor v490, for rtao; not affiliated with or endorsed by its authors."
+2026-11-12T02:41:09.511272Z,rtao-upstream-fips204,0.490.0,0,0,https://github.com/sam0x17/rtao,"Unofficial republish of fips204 from RaoFoundation/subtensor v490 (vendored from integritychain/fips204), for rtao; not affiliated with or endorsed by its authors."
+2026-11-12T02:41:09.796596Z,bungeeoxide-minecraft-v1-6-1,0.1.1,0,0,,Minecraft 1.6.1 protocol types
+2026-11-12T02:41:12.401654Z,bungeeoxide-minecraft-v1-6-2,0.1.1,0,0,,Minecraft 1.6.2 protocol types
+2026-11-12T02:41:13.13782Z,rtao-upstream-w3f-bls,0.490.0,0,0,https://github.com/sam0x17/rtao,"Unofficial republish of w3f-bls from RaoFoundation/subtensor v490 (vendored from w3f/bls), for rtao; not affiliated with or endorsed by its authors."
+2026-11-12T02:41:13.253083Z,bungeeoxide-minecraft-v1-7,0.1.1,0,0,,Minecraft 1.7 protocol types
+2026-11-12T02:41:18.902487Z,rtao-upstream-hashed,0.490.0,0,0,https://github.com/sam0x17/rtao,"Unofficial republish of subtensor-hashed from RaoFoundation/subtensor v490, for rtao; not affiliated with or endorsed by its authors."
+2026-11-12T02:41:23.265681Z,rtao-upstream-tle,0.490.0,0,0,https://github.com/sam0x17/rtao,"Unofficial republish of tle from ideal-lab5/timelock at the revision RaoFoundation/subtensor v490 pins, for rtao; not affiliated with or endorsed by its authors."
+2026-11-12T02:45:04.480012Z,rtao-upstream-core,0.490.0,0,0,https://github.com/sam0x17/rtao,"Unofficial republish of bittensor-core from RaoFoundation/subtensor v490 with rtao's reviewed core patch (the Ed25519 erasure repair and the injectable Ledger transport), for rtao; not affiliated wit…"
+2026-11-12T02:54:57.769736Z,rtao-arena,0.2.0,0,0,https://github.com/sam0x17/rtao,Fixed-capacity memory for wasm32 and other hosts whose linear memory must never grow.
+2026-11-12T02:55:57.570543Z,umf-json-ld-expansion,0.21.4,0,0,https://github.com/DocumentDrivenDX/umf,UMF registry companion for json-ld-expansion. JSON-LD document expansion implementation
+2026-11-12T02:56:01.382898Z,umf-json-ld-compaction,0.21.4,0,0,https://github.com/DocumentDrivenDX/umf,UMF registry companion for json-ld-compaction. JSON-LD document compaction implementation
+2026-11-12T02:56:05.750367Z,umf-json-ld,0.21.4,0,0,https://github.com/DocumentDrivenDX/umf,UMF registry companion for json-ld. JSON-LD implementation
+2026-11-12T02:56:10.702365Z,umf-core,0.10.11,0,0,https://github.com/DocumentDrivenDX/umf,Host-independent Unified Metadata Format core library.
+2026-11-12T03:02:30.096995Z,bungeeoxide-minecraft-v1-6-4,0.1.1,0,0,,Minecraft 1.6.4 protocol types
+2026-11-12T03:02:30.940356Z,bungeeoxide-minecraft-v1-8,0.1.1,0,0,,Minecraft 1.8 protocol types
+2026-11-12T03:05:10.700508Z,rtao-core-ext,0.1.0,0,0,https://github.com/sam0x17/rtao,Staged extensions for the upstream Bittensor core.
+2026-11-12T03:06:28.416431Z,rust-mirror-gui,0.1.0,0,0,https://github.com/rustcommons/rust-mirror-gui,Desktop app for building offline Rust toolchain mirrors with rust-mirror
+2026-11-12T03:08:44.643815Z,pi_graph_index,0.6.0,0,0,https://github.com/GaiaWorld/pi_graph,Typed property indexes and coordinated indexed graph ownership
+2026-11-12T03:14:09.378818Z,ashlar-diff,0.2.0,0,0,https://github.com/Himasnhu-AT/ashlar,"Headless text diffs: Myers with a cost cap, word-level changes, hunks with collapsible context, and a unified-patch parser and writer"
+2026-11-12T03:14:10.178032Z,ashlar-i18n,0.2.0,0,0,https://github.com/Himasnhu-AT/ashlar,"Small translation layer: JSON catalogs per locale, plural categories, number formatting, fallback chains and locale negotiation"
+2026-11-12T03:14:11.102785Z,ashlar-motion,0.2.0,0,0,https://github.com/Himasnhu-AT/ashlar,"Headless motion maths: closed-form springs, curves, animated values, reduced-motion policy, OKLab colour and gesture helpers"
+2026-11-12T03:14:11.824657Z,ashlar-syntax,0.2.0,0,0,https://github.com/Himasnhu-AT/ashlar,"Headless syntax highlighting: forward-only, linear-time lexers for common languages, with a line-state API for incremental views"
+2026-11-12T03:15:02.124185Z,rtao-jsonrpc,0.1.0,0,0,https://github.com/sam0x17/rtao,Asynchronous Bittensor JSON-RPC transport.
+2026-11-12T03:18:25.421658Z,smugglr-place,0.6.3,0,0,https://github.com/rafters-studio/smugglr,"smugglr's places: the place interface, the local SQLite file and HTTP-SQL."
+2026-11-12T03:18:36.513276Z,smugglr-memory,0.6.3,0,0,https://github.com/rafters-studio/smugglr,"smugglr's memory: each key's last hash per pair of places, in smugglr's own files."
+2026-11-12T03:18:46.349601Z,smugglr-sync,0.6.3,0,0,https://github.com/rafters-studio/smugglr,"smugglr's direct sync: one run between two places, the same from the command line and a browser tab."
+2026-11-12T03:18:57.253526Z,smugglr-multi,0.6.3,0,0,https://github.com/rafters-studio/smugglr,smugglr multi: stash and retrieve keep a person's own devices in step through blobs the app stores.
+2026-11-12T03:19:10.352417Z,smugglr-mesh,0.6.3,0,0,https://github.com/rafters-studio/smugglr,smugglr mesh: nodes on a local network kept in step with nobody in charge.
+2026-11-12T03:19:29.022707Z,indycheck,0.1.0,0,0,https://github.com/dusmamud/indycheck,"Offline Indian ID validator — PAN, Aadhaar, GSTIN, IFSC, UPI, mobile, PIN"
