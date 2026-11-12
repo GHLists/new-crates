@@ -1,0 +1,41 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-12T03:23:46.224419Z,bungeeoxide-minecraft-v1-9,0.1.1,0,0,,Minecraft 1.9 protocol types
+2026-11-12T03:23:49.110627Z,bungeeoxide-minecraft-v1-9-2,0.1.1,0,0,,Minecraft 1.9.2 protocol types
+2026-11-12T03:24:59.935908Z,rtao-core,0.1.0,0,0,https://github.com/sam0x17/rtao,The curated boundary to the upstream Bittensor core.
+2026-11-12T03:26:57.189007Z,lumen-engine-3d,0.6.0-beta.0,0,0,https://github.com/lumiscia/lumen-oss,"Scene maths, meshes and glTF models for the Lumen engine's 3D nodes."
+2026-11-12T03:27:02.431477Z,groundstation-ui-embed,0.2.0,0,0,https://github.com/groundstationhq/groundstation,"The built Ground Station UI (ui/dist), embedded and served by gsd and the hosted api"
+2026-11-12T03:27:05.758232Z,groundstation-wire,0.2.0,0,0,https://github.com/groundstationhq/groundstation,"Wire types of the Ground Station HTTP API, shared by gsd, the CLI and the hosted backend"
+2026-11-12T03:33:05.148826Z,leptoskit_apm,0.0.0,0,0,https://github.com/leptoskit/leptoskit,Bounded application observability and agent-readable evidence for LeptosKit.
+2026-11-12T03:33:13.683781Z,leptoskit_game,0.0.0,0,0,https://github.com/leptoskit/leptoskit,"A game host for leptoskit: Rust gameplay, leptoskit menus, drawn with wgpu."
+2026-11-12T03:33:17.918637Z,leptoskit_log,0.0.0,0,0,https://github.com/leptoskit/leptoskit,"Where leptoskit's own records go on each platform: logcat, os_log, stderr, or the browser console, with a panic hook."
+2026-11-12T03:33:27.847322Z,leptoskit_plugin_dev_client,0.0.0,0,0,https://github.com/leptoskit/leptoskit,Connect a phone to the guest leptoskit dev is serving.
+2026-11-12T03:33:42.436719Z,leptoskit_plugin_recorder,0.0.0,0,0,https://github.com/leptoskit/leptoskit,Record the microphone continuously in the background as timed audio segments for LeptosKit apps.
+2026-11-12T03:35:01.373858Z,rtao-primitives,0.1.0,0,0,https://github.com/sam0x17/rtao,"Identifiers, amounts and shared Bittensor vocabulary."
+2026-11-12T03:37:33.884909Z,smugglr-web,0.6.4,0,0,https://github.com/rafters-studio/smugglr,"The smugglr engine in the browser, compiled to WASM with wasm-bindgen."
+2026-11-12T03:41:24.221375Z,fsspec_sys,0.2.0,0,0,https://github.com/1kbgz/fsspec-rs,"C ABI types and bindings for libfsspec, the shared fsspec-rs registry"
+2026-11-12T03:41:25.095631Z,fsspec_capi,0.2.0,0,0,https://github.com/1kbgz/fsspec-rs,C ABI for the fsspec-rs filesystem registry and backends
+2026-11-12T03:43:11.854531Z,gamma_lake,0.0.0,0,0,,A library for doing things
+2026-11-12T03:45:01.6379Z,rtao-catalog,0.1.0,0,0,https://github.com/sam0x17/rtao,"Generated Bittensor intent, read and error catalogs."
+2026-11-12T03:45:20.289116Z,bungeeoxide-minecraft-v1-9-4,0.1.1,0,0,,Minecraft 1.9.4 protocol types
+2026-11-12T03:45:22.358453Z,bungeeoxide-minecraft-v1-10,0.1.1,0,0,,Minecraft 1.10 protocol types
+2026-11-12T03:48:17.640999Z,roark,0.1.0,0,0,https://github.com/joneseysinno/ses-roark,Public-domain mechanics formulas inspired by Roark's Formulas for Stress and Strain
+2026-11-12T03:51:52.987304Z,art_7p7,0.1.0,0,0,,A Sample crate
+2026-11-12T03:52:13.060341Z,stackpress,0.1.0,0,0,https://github.com/stackpress/rust,Explicit facade for the Stackpress Rust libraries
+2026-11-12T03:54:11.780009Z,flui,0.0.0,0,0,https://github.com/vanyastaff/flui,"Reserved name for FLUI, a declarative UI framework for Rust. The real crate will be published from the repository."
+2026-11-12T03:54:14.230588Z,flui-foundation,0.0.0,0,0,https://github.com/vanyastaff/flui,"Reserved name for FLUI, a declarative UI framework for Rust. The real crate will be published from the repository."
+2026-11-12T03:54:16.489662Z,flui-view,0.0.0,0,0,https://github.com/vanyastaff/flui,"Reserved name for FLUI, a declarative UI framework for Rust. The real crate will be published from the repository."
+2026-11-12T03:54:18.908108Z,flui-widgets,0.0.0,0,0,https://github.com/vanyastaff/flui,"Reserved name for FLUI, a declarative UI framework for Rust. The real crate will be published from the repository."
+2026-11-12T03:54:21.168233Z,flui-app,0.0.0,0,0,https://github.com/vanyastaff/flui,"Reserved name for FLUI, a declarative UI framework for Rust. The real crate will be published from the repository."
+2026-11-12T03:55:10.360965Z,rtao-runtime,0.1.0,0,0,https://github.com/sam0x17/rtao,Bittensor chain descriptors and typed runtime models.
+2026-11-12T03:55:27.62695Z,cemi,0.5.0,0,0,https://github.com/hamador0016/cemi,Secrets with memory that your AI can use without seeing
+2026-11-12T04:00:40.534505Z,joobq,0.1.0,0,0,https://github.com/azutoolkit/joobqui,Thin JoobQ worker and producer SDK for the JoobQUI Polyglot SDK Gateway
+2026-11-12T04:01:11.323993Z,agent-blame,0.1.0,0,0,,The git blame of agents. See who's to blame for this slop code.
+2026-11-12T04:02:15.717118Z,cargo-hive,0.1.0,0,0,https://github.com/jayden-dang/cargo-hive,"Reclaim and reuse Rust build artifacts across Git worktrees on macOS: safe GC for target/ dirs, dependency seeding for new worktrees, measured receipts. Built for parallel coding agents."
+2026-11-12T04:04:11.279472Z,codemode-cli,0.1.0,0,0,,A stateless MCP host for shell-native agent workflows
+2026-11-12T04:04:44.47674Z,flui-animation,0.0.0,0,0,https://github.com/vanyastaff/flui,"Reserved name for FLUI, a declarative UI framework for Rust. The real crate will be published from the repository."
+2026-11-12T04:05:00.443239Z,rtao-signer,0.1.0,0,0,https://github.com/sam0x17/rtao,Bittensor signing contracts and key sources.
+2026-11-12T04:06:24.897043Z,bungeeoxide-minecraft-v1-11,0.1.1,0,0,,Minecraft 1.11 protocol types
+2026-11-12T04:06:27.795524Z,bungeeoxide-minecraft-v1-12,0.1.1,0,0,,Minecraft 1.12 protocol types
+2026-11-12T04:09:31.893079Z,scip-tsrs,0.2.2-alpha.1,0,0,https://github.com/daikonic-org/scip-tsrs,Native TypeScript SCIP indexer powered by tsrs
+2026-11-12T04:15:02.918587Z,rtao-client,0.1.0,0,0,https://github.com/sam0x17/rtao,Asynchronous Bittensor chain access.
+2026-11-12T04:15:07.562994Z,flui-assets,0.0.0,0,0,https://github.com/vanyastaff/flui,"Reserved name for FLUI, a declarative UI framework for Rust. The real crate will be published from the repository."
