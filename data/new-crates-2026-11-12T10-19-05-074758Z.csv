@@ -1,0 +1,49 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-12T09:23:10.240848Z,akari-rs,1.0.0,0,0,https://github.com/HvKOkla/Akari,"A safe, embeddable scripting language for Rust. Sandboxed by default."
+2026-11-12T09:27:50.353583Z,besu-core,0.1.0,0,0,https://github.com/specta-rs/besu,"Core traits and SQL primitives for Besu, a typesafe SQL query builder for Rust."
+2026-11-12T09:28:22.870709Z,bungeeoxide-minecraft-v1-21-5,0.1.1,0,0,,Minecraft 1.21.5 protocol types
+2026-11-12T09:28:25.76328Z,bungeeoxide-minecraft-v1-21-6,0.1.1,0,0,,Minecraft 1.21.6 protocol types
+2026-11-12T09:28:51.322904Z,besu-schema,0.1.0,0,0,https://github.com/specta-rs/besu,"Schema IR, migrations and DDL generation for Besu."
+2026-11-12T09:29:32.131058Z,lite,0.1.0+full,0,0,https://github.com/flexsync-rs/lite,Convention for versioning of libraries that have a lightweight subset
+2026-11-12T09:29:35.950707Z,onyxrt-sys,0.1.1,0,0,https://github.com/SunDoge/onyxrt,Low-level dynamically loaded ONNX Runtime C API bindings for onyxrt
+2026-11-12T09:29:39.773101Z,onyxrt,0.1.1,0,0,https://github.com/SunDoge/onyxrt,Safe dynamically loaded ONNX Runtime bindings
+2026-11-12T09:30:20.487615Z,besu-any,0.1.0,0,0,https://github.com/specta-rs/besu,"A runtime-selected Besu database, for when the backend comes from configuration."
+2026-11-12T09:30:39.071148Z,besu-studio,0.1.0,0,0,https://github.com/specta-rs/besu,A development-only schema and data browser for Besu databases.
+2026-11-12T09:30:58.065656Z,besu-cli,0.1.0,0,0,https://github.com/specta-rs/besu,Command line tooling for Besu.
+2026-11-12T09:34:39.740162Z,open-arrow-access-core,0.1.0,0,0,https://github.com/dentiny/open-arrow-access,"Shared reader, accessor, and layer contracts for Open Arrow Access"
+2026-11-12T09:34:41.45707Z,open-arrow-access-decompression,0.1.0,0,0,https://github.com/dentiny/open-arrow-access,Streaming byte decompression layers for Open Arrow Access
+2026-11-12T09:34:42.041153Z,open-arrow-access-layers,0.1.0,0,0,https://github.com/dentiny/open-arrow-access,Composable Arrow record layers for Open Arrow Access
+2026-11-12T09:34:42.581214Z,open-arrow-access-storage,0.1.0,0,0,https://github.com/dentiny/open-arrow-access,Storage adapters for Open Arrow Access
+2026-11-12T09:34:44.684886Z,open-arrow-access-dataset,0.1.0,0,0,https://github.com/dentiny/open-arrow-access,Sequential file-set and directory datasets for Open Arrow Access
+2026-11-12T09:35:57.92241Z,libsearch-guard,0.1.0,0,0,https://github.com/bindreams/libsearch-guard,"Restricts where a Windows executable's DLLs are searched for, from a build script, and checks Windows, Linux and macOS binaries for relative library search paths"
+2026-11-12T09:42:33.563294Z,copyrust,0.1.1,0,0,https://github.com/CatScarf/CopyRust,"Parallel, content-aware batch file copying with structured progress"
+2026-11-12T09:42:47.516784Z,copyrust-cli,0.1.1,0,0,https://github.com/CatScarf/CopyRust,Content-aware parallel copying from the command line
+2026-11-12T09:43:32.406803Z,oxiview,0.0.0,0,0,https://github.com/oxiview/oxiview,"A native, self-drawn GUI framework for Rust (macOS / Windows / Linux). Name reserved; under active design."
+2026-11-12T09:44:03.044563Z,open-arrow-access-file-format,0.1.0,0,0,https://github.com/dentiny/open-arrow-access,Arrow file-format readers for Open Arrow Access
+2026-11-12T09:48:01.727313Z,cadcore-mesh,0.2.0,0,0,https://github.com/YATSKOVSKYI/cadcore,"Tessellation, STEP import and plane sections for the cadcore CAD kernel - exact B-Rep to triangle meshes, no OCCT dependency"
+2026-11-12T09:48:04.63595Z,cadcore-union,0.2.0,0,0,https://github.com/YATSKOVSKYI/cadcore,"Industrial Boolean-union engine for the cadcore CAD kernel - staged pipeline, analytic intersection oracle, refinement to emitted geometry, in-process validation gates"
+2026-11-12T09:49:24.851863Z,bungeeoxide-minecraft-v1-21-8,0.1.1,0,0,,Minecraft 1.21.8 protocol types
+2026-11-12T09:49:25.44538Z,bungeeoxide-minecraft-v1-21-9,0.1.1,0,0,,Minecraft 1.21.9 protocol types
+2026-11-12T09:50:16.597626Z,menagerie,0.1.0,0,0,https://github.com/SpanishInquisition49/Menagerie,"A collection of classic and randomized data structures: treaps with split and join, more to come"
+2026-11-12T09:51:06.20769Z,open-arrow-access-service,0.1.0,0,0,https://github.com/dentiny/open-arrow-access,Dataset source providers for Open Arrow Access
+2026-11-12T09:55:16.108236Z,markdoc-mermaid,0.1.0,0,0,https://github.com/markdoc-rs/markdoc-mermaid,"Mermaid diagrams for Markdoc, with node labels resolved from document anchors."
+2026-11-12T09:55:18.833842Z,peraz-core,0.1.0-alpha.2,0,0,https://github.com/arsyadcc/peraz,"Peraz domain model: media info, jobs, recipes, plans, reports. No I/O."
+2026-11-12T09:55:21.731899Z,peraz-engine,0.1.0-alpha.2,0,0,https://github.com/arsyadcc/peraz,"Peraz engine adapters: media probing, FFmpeg, images, quality metrics."
+2026-11-12T09:55:23.768388Z,peraz,0.1.0-alpha.2,0,0,https://github.com/arsyadcc/peraz,"Compress video, images, GIFs, PDFs, and e-books from the terminal"
+2026-11-12T09:56:25.21267Z,talahon-mcp-opensearch,2.2.0,0,0,https://github.com/Liohtml/talahon,Native read-only OpenSearch MCP server (stdio) for the Talon agent container
+2026-11-12T09:56:27.337566Z,ct-curve-point,0.0.1,0,0,https://github.com/YOURNAME/ct-curve-point,Elliptic-curve point abstraction traits for constant-time cryptography
+2026-11-12T10:00:53.439306Z,open-arrow-access,0.1.0,0,0,https://github.com/dentiny/open-arrow-access,Composable read access to Apache Arrow streams
+2026-11-12T10:02:39.246113Z,noxi-serde,0.0.2,0,0,https://github.com/SINGH-RAJVEER/nix-rs,"Serialize and deserialize Nix values with serde, derived from Snix serde"
+2026-11-12T10:03:16.858392Z,noxi-build,0.0.2,0,0,https://github.com/SINGH-RAJVEER/nix-rs,"Derivation builds for the noxi engine, compatible with CppNix's sandbox"
+2026-11-12T10:03:36.016526Z,noxi-glue,0.0.2,0,0,https://github.com/SINGH-RAJVEER/nix-rs,"Store-aware builtins for the noxi evaluator, derived from Snix's glue crates"
+2026-11-12T10:03:51.081828Z,noxi-flake,0.0.2,0,0,https://github.com/SINGH-RAJVEER/nix-rs,Flake graph and operation library for noxi
+2026-11-12T10:04:06.135859Z,noxi-daemon,0.0.2,0,0,https://github.com/SINGH-RAJVEER/nix-rs,"A Nix daemon for the noxi engine, speaking CppNix's worker protocol"
+2026-11-12T10:05:33.142997Z,zarlib,0.11.0,0,0,https://github.com/brmmm3/zar-rs,"ZAR archive library with compression, deduplication, and commit-based history"
+2026-11-12T10:10:54.302466Z,bungeeoxide-minecraft-v1-21-11,0.1.1,0,0,,Minecraft 1.21.11 protocol types
+2026-11-12T10:10:57.157621Z,bungeeoxide-minecraft-v26-1,0.1.1,0,0,,Minecraft 26.1 protocol types
+2026-11-12T10:10:57.875246Z,bungeeoxide-packet-dumper,0.1.1,0,0,,Proxy between a Minecraft 1.21.11 client and server that reports packets which do not survive decoding and re-encoding
+2026-11-12T10:11:49.617506Z,etdl-ontology-core,0.1.0,0,0,https://github.com/ETDL-lang/etdl,"ETDL Ontology Core: a domain-neutral, generic classification-vocabulary mechanism (stable canonical ids, lifecycle status, deprecation/replacement) for any built-in supplement that classifies things…"
+2026-11-12T10:13:13.018838Z,markdoc-pdf,0.10.0,0,0,https://github.com/markdoc-rs/markdoc-pdf,"Render Markdoc documents to PDF, as a CLI or a library"
+2026-11-12T10:14:39.3482Z,noxi-commands,0.0.2,0,0,https://github.com/SINGH-RAJVEER/nix-rs,CppNix-compatible command implementations for noxi
+2026-11-12T10:15:43.888882Z,diu-kernel,0.2.0,0,0,https://github.com/diu-os/diu-kernel,"Verification invariants for computational scientific claims: canonical result digest (RFC 8785 JCS + SHA-256), module manifest contract, pre-declared acceptance criteria with five-valued outcomes, an…"
+2026-11-12T10:16:06.600057Z,diu-cli,0.2.0,0,0,https://github.com/diu-os/diu-cli,"diu — command-line SDK for DIU OS genes: scaffold a gene passport, run the kernel's Gate 1 locally, compute its content hash, and publish to a DIU OS instance."
