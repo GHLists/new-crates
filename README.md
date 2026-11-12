@@ -8,49 +8,70 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-12 14:19 UTC
+## Latest list — 2026-11-12 15:20 UTC
 
-New crates published between 2026-11-12 13:21 UTC and 2026-11-12 14:19 UTC.
+New crates published between 2026-11-12 14:19 UTC and 2026-11-12 15:20 UTC.
 
-[Full CSV](data/new-crates-2026-11-12T14-19-32-607691Z.csv)
+[Full CSV](data/new-crates-2026-11-12T15-20-41-671935Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-12 13:21:22 | [simoom-hpack](https://crates.io/crates/simoom-hpack) | 0.1.0 | 0 | HPACK (RFC 7541) for simoom. |
-| 2026-11-12 13:21:28 | [simoom-sys](https://crates.io/crates/simoom-sys) | 0.1.0 | 0 | Operating-system layer of simoom: epoll, io_uring, kqueue, IOCP, sockets, SIMD… |
-| 2026-11-12 13:21:34 | [simoom-compress](https://crates.io/crates/simoom-compress) | 0.1.0 | 0 | DEFLATE (RFC 1951), zlib (RFC 1950) and gzip (RFC 1952) for simoom: streaming,… |
-| 2026-11-12 13:21:41 | [simoom-h2](https://crates.io/crates/simoom-h2) | 0.1.0 | 0 | Sans-io HTTP/2 (RFC 9113) connection engine for simoom, with DoS accounting. |
-| 2026-11-12 13:21:46 | [simoom-qpack](https://crates.io/crates/simoom-qpack) | 0.1.0 | 0 | QPACK (RFC 9204) for simoom. |
-| 2026-11-12 13:25:06 | [reallyme-trust-jades](https://crates.io/crates/reallyme-trust-jades) | 0.6.2 | 0 | ETSI TS 119 182-1 JAdES Baseline validation for ReallyMe trust decisions. |
-| 2026-11-12 13:25:34 | [reallyme-eudi-rp-registration](https://crates.io/crates/reallyme-eudi-rp-registration) | 0.6.2 | 0 | Strict EUDI Wallet Relying Party registration and credential profiles. |
-| 2026-11-12 13:25:38 | [aeg-cli](https://crates.io/crates/aeg-cli) | 0.0.1 | 0 | Command-line entry points for aeglib (Sturm counting, certificate verify/replay… |
-| 2026-11-12 13:26:12 | [notable-core](https://crates.io/crates/notable-core) | 0.1.0 | 0 | Parser, linter and merge conflict solver for keep-a-changelog like Changelog's |
-| 2026-11-12 13:26:15 | [notable](https://crates.io/crates/notable) | 0.1.0 | 0 | Parser, linter and merge conflict solver for keep-a-changelog like Changelog's |
-| 2026-11-12 13:28:11 | [vertep-cli](https://crates.io/crates/vertep-cli) | 0.1.1 | 0 | The vt command line: typecheck, schema, validate, hash, convert and certify |
-| 2026-11-12 13:28:33 | [cgp-orm](https://crates.io/crates/cgp-orm) | 0.1.0 | 0 | Transport-independent SeaORM repository and resource-service components for Con… |
-| 2026-11-12 13:28:37 | [lecop](https://crates.io/crates/lecop) | 0.1.0 | 0 | Fast health checks for LeRobot-format robot datasets (unofficial) |
-| 2026-11-12 13:31:57 | [simoom-rt](https://crates.io/crates/simoom-rt) | 0.1.0 | 0 | simoom runtime: one event loop per core, timer wheel, buffer pools, cross-threa… |
-| 2026-11-12 13:34:51 | [pxdprowl](https://crates.io/crates/pxdprowl) | 0.1.0 | 0 | Download proteomics datasets from ProteomeXchange repositories: PRIDE, MassIVE,… |
-| 2026-11-12 13:38:11 | [vertep-federation](https://crates.io/crates/vertep-federation) | 0.1.1 | 0 | DID identity, grants and relay mailboxes (TSP, DIDComm v2) for Vertep |
-| 2026-11-12 13:42:08 | [simoom-tls](https://crates.io/crates/simoom-tls) | 0.1.0 | 0 | Sans-io TLS 1.3 server and client for simoom, with QUIC support (RFC 9001). |
-| 2026-11-12 13:46:23 | [cargo-layers](https://crates.io/crates/cargo-layers) | 0.1.0 | 0 | A Cargo subcommand that checks which modules of a crate may reference each other |
-| 2026-11-12 13:47:04 | [steam-pressure](https://crates.io/crates/steam-pressure) | 0.1.0 | 0 | Zero-cost abstraction over Steam presence for Bevy applications. |
-| 2026-11-12 13:47:56 | [niv-ui-kit](https://crates.io/crates/niv-ui-kit) | 0.1.0 | 0 | Swift-style, easy-to-use UI kit for Rust, built on egui (the egui-like half; ma… |
-| 2026-11-12 13:48:09 | [vertep](https://crates.io/crates/vertep) | 0.1.1 | 0 | SCXML statecharts, virtual actors and AI agents with charts as RDF: the Vertep… |
-| 2026-11-12 13:48:47 | [mainkit](https://crates.io/crates/mainkit) | 0.1.0 | 0 | App/window launcher for niv-ui-kit (the eframe-like half): app("Name").size(..)… |
-| 2026-11-12 13:48:48 | [xe-bug-report](https://crates.io/crates/xe-bug-report) | 0.1.0 | 0 | Standalone GPU diagnostic collector: writes a redacted zip bundle of logs, sysf… |
-| 2026-11-12 13:52:18 | [simoom-http1](https://crates.io/crates/simoom-http1) | 0.1.0 | 0 | Sans-io, strict HTTP/1.1 parser and serializer (RFC 9112) for simoom. |
-| 2026-11-12 13:55:13 | [annotated-derive](https://crates.io/crates/annotated-derive) | 0.1.0 | 0 | The derive macros of annotated; use them through the annotated crate |
-| 2026-11-12 13:55:15 | [annotated](https://crates.io/crates/annotated) | 0.1.0 | 0 | Validation for structs that works with serde: every broken rule and missing fie… |
-| 2026-11-12 13:57:14 | [i18n_check](https://crates.io/crates/i18n_check) | 0.2.117 | 0 | 译文检查统一接口：送模型前改写原文、校验译文并生成修订原因 |
-| 2026-11-12 13:58:42 | [zsys](https://crates.io/crates/zsys) | 0.1.0 | 0 | A low-overhead, incremental system information engine |
-| 2026-11-12 14:01:38 | [mos6510](https://crates.io/crates/mos6510) | 0.1.0 | 0 | Cycle-exact MOS 6510/6502 CPU core with every undocumented opcode |
-| 2026-11-12 14:02:32 | [simoom-quic](https://crates.io/crates/simoom-quic) | 0.1.0 | 0 | Sans-io QUIC v1 transport (RFC 9000, 9002) for simoom. |
-| 2026-11-12 14:07:13 | [certval-cms](https://crates.io/crates/certval-cms) | 0.1.0-rc.1 | 0 | Cryptographic Message Syntax (CMS) for certval. Builds, decrypts, signs and ver… |
-| 2026-11-12 14:11:22 | [authlas](https://crates.io/crates/authlas) | 0.1.0 | 0 | OAuth 2.0 and JOSE in one crate: Rust core, stable C ABI, and the C++ HTTPS tra… |
-| 2026-11-12 14:12:50 | [simoom-h3](https://crates.io/crates/simoom-h3) | 0.1.0 | 0 | Sans-io HTTP/3 (RFC 9114) for simoom. |
-| 2026-11-12 14:15:49 | [verysync-sidecar](https://crates.io/crates/verysync-sidecar) | 0.1.0-alpha.1 | 0 | Async Rust control library for the official VerySync program |
-| 2026-11-12 14:19:11 | [stryx](https://crates.io/crates/stryx) | 0.1.0 | 0 | A high-performance, block-based SSTable storage engine for Rust. |
+| 2026-11-12 14:22:03 | [dioxus-map-editor](https://crates.io/crates/dioxus-map-editor) | 0.1.0 | 0 | An embeddable SVG map editor core and interaction canvas for Dioxus |
+| 2026-11-12 14:22:22 | [zarlib-zcopy](https://crates.io/crates/zarlib-zcopy) | 0.11.0 | 0 | Command-line tool for transferring directory trees using ZAR |
+| 2026-11-12 14:23:05 | [simoom](https://crates.io/crates/simoom) | 0.1.0 | 0 | simoom: a small, fast, secure embeddable HTTP/1.1, HTTP/2 and HTTP/3 server. |
+| 2026-11-12 14:27:43 | [ppicker](https://crates.io/crates/ppicker) | 0.1.0 | 0 | Fast project picker for tiling window managers: open a project in your editor |
+| 2026-11-12 14:32:22 | [vasak-health-protocol](https://crates.io/crates/vasak-health-protocol) | 0.2.1 | 0 | Contrato D-Bus compartido del servicio de salud de VasakOS |
+| 2026-11-12 14:32:42 | [vasak-assistant-protocol](https://crates.io/crates/vasak-assistant-protocol) | 0.3.20 | 0 | Contrato D-Bus compartido del asistente de IA residente de VasakOS |
+| 2026-11-12 14:33:20 | [vasak-connect-protocol](https://crates.io/crates/vasak-connect-protocol) | 0.3.4 | 0 | Shared D-Bus contract for the VasakOS Android device service |
+| 2026-11-12 14:33:22 | [simoom-client](https://crates.io/crates/simoom-client) | 0.1.0 | 0 | Std-only HTTP/1.1, HTTP/2 and HTTP/3 client and WebSocket client for simoom: po… |
+| 2026-11-12 14:33:26 | [tparquet-core](https://crates.io/crates/tparquet-core) | 1.0.0 | 0 | The PCODEC Parquet compression codec payload (spec/FORMAT.md) |
+| 2026-11-12 14:33:27 | [tparquet-parquet](https://crates.io/crates/tparquet-parquet) | 60.1.0 | 0 | The arrow-rs parquet crate 60.1.0 with the PCODEC compression codec, for tparqu… |
+| 2026-11-12 14:33:29 | [tparquet](https://crates.io/crates/tparquet) | 1.0.0 | 0 | Parquet files with the PCODEC codec: writer with automatic codec selection, tra… |
+| 2026-11-12 14:34:16 | [pdfcer-flatten](https://crates.io/crates/pdfcer-flatten) | 0.146.0 | 0 | pdfcer transparency flattener: PDF transparency (constant alpha, blend modes, o… |
+| 2026-11-12 14:37:11 | [pdfcer-emf](https://crates.io/crates/pdfcer-emf) | 0.146.0 | 0 | pdfcer Enhanced Metafile writer: PDF pages to vector [MS-EMF] metafiles for pri… |
+| 2026-11-12 14:40:25 | [cerulion_node_abi](https://crates.io/crates/cerulion_node_abi) | 2.0.0 | 0 | Compiler-independent C interface for Cerulion node plugins |
+| 2026-11-12 14:40:26 | [cerulion_telemetry](https://crates.io/crates/cerulion_telemetry) | 2.0.0 | 0 | Consent resolver and property guard for Cerulion desk surfaces (a no-op without… |
+| 2026-11-12 14:40:34 | [cerulion_msgio](https://crates.io/crates/cerulion_msgio) | 2.0.0 | 0 | Messages as JSON or YAML text on local shared memory: encode and publish, call… |
+| 2026-11-12 14:40:38 | [cerulion_android](https://crates.io/crates/cerulion_android) | 2.0.0 | 0 | Embedded Cerulion runtime for Android apps: Java facade, JNI bindings and graph… |
+| 2026-11-12 14:41:23 | [sologger](https://crates.io/crates/sologger) | 0.4.0 | 0 | Configurable standalone service to parse raw logs emitted from a Solana RPC int… |
+| 2026-11-12 14:41:23 | [deoverlap-core](https://crates.io/crates/deoverlap-core) | 4.2.0 | 0 | Remove overlapping strokes from vector drawings (Rust core of deoverlap) |
+| 2026-11-12 14:41:30 | [penfill](https://crates.io/crates/penfill) | 0.4.0 | 0 | Fills and hatches for pen plotters: a catalogue of materials (water, vegetation… |
+| 2026-11-12 14:42:16 | [burin-map-core](https://crates.io/crates/burin-map-core) | 0.1.0 | 0 | Drawing engine of burin-map: pen-and-ink terrain lines from an elevation grid |
+| 2026-11-12 14:42:31 | [burin-map-script](https://crates.io/crates/burin-map-script) | 0.1.0 | 0 | burin-map documents in JavaScript: a script in, the atlas it builds out |
+| 2026-11-12 14:42:54 | [burin-map](https://crates.io/crates/burin-map) | 0.1.0 | 0 | Pen-and-ink terrain maps from elevation tiles |
+| 2026-11-12 14:45:44 | [mison-derive](https://crates.io/crates/mison-derive) | 0.2.0 | 0 | The derive macros for mison::Encode and mison::Decode |
+| 2026-11-12 14:46:40 | [statime-algo](https://crates.io/crates/statime-algo) | 0.1.0 | 0 | Full-featured implementation of NTP with NTS support |
+| 2026-11-12 14:48:47 | [statime-wire](https://crates.io/crates/statime-wire) | 0.1.0 | 0 | Full-featured implementation of NTP with NTS support |
+| 2026-11-12 14:49:12 | [statime-csptp](https://crates.io/crates/statime-csptp) | 0.1.0 | 0 | Full-featured implementation of NTP with NTS support |
+| 2026-11-12 14:49:39 | [statime-config-derive](https://crates.io/crates/statime-config-derive) | 0.1.0 | 0 | Full-featured implementation of NTP with NTS support |
+| 2026-11-12 14:49:47 | [statime-config](https://crates.io/crates/statime-config) | 0.1.0 | 0 | Full-featured implementation of NTP with NTS support |
+| 2026-11-12 14:50:15 | [drawland-core](https://crates.io/crates/drawland-core) | 0.1.0 | 0 | Maps drawn for pen plotters: OSM features to a layered SVG. No I/O. |
+| 2026-11-12 14:52:34 | [wirdigen-cli](https://crates.io/crates/wirdigen-cli) | 0.0.0 | 0 | Placeholder: the wirdigen CLI is published from https://github.com/Cerclique/wi… |
+| 2026-11-12 14:54:32 | [omni-ring](https://crates.io/crates/omni-ring) | 0.1.0 | 0 | Wait-free bounded SPSC descriptor ring and lock-free bounded MPMC ring (REQ-OS-… |
+| 2026-11-12 14:55:28 | [isnady-gui](https://crates.io/crates/isnady-gui) | 0.7.5 | 0 | isnady's window in Rust (Tauri 2): the same data, the same rules as the Python… |
+| 2026-11-12 14:57:11 | [omni-cap](https://crates.io/crates/omni-cap) | 0.1.0 | 0 | 64-byte cache-line-aligned hardware capability token (REQ-OS-002). |
+| 2026-11-12 14:59:36 | [drawland-script](https://crates.io/crates/drawland-script) | 0.1.0 | 0 | draw.land profiles in JavaScript: the script builds the graph the engine runs |
+| 2026-11-12 15:01:31 | [certval-awslc](https://crates.io/crates/certval-awslc) | 0.1.0-rc.1 | 0 | AWS-LC crypto provider for certval. Performs message digest calculation and cer… |
+| 2026-11-12 15:02:38 | [certval-cng](https://crates.io/crates/certval-cng) | 0.1.0-rc.1 | 0 | Windows CNG crypto provider for certval. Performs message digest calculation an… |
+| 2026-11-12 15:02:57 | [aeg-hilbert16](https://crates.io/crates/aeg-hilbert16) | 0.0.2 | 0 | hilbert-16 adapter for aeglib (Abelian-Horner, Gauss-Manin, periods). |
+| 2026-11-12 15:04:24 | [certval-openssl](https://crates.io/crates/certval-openssl) | 0.1.0-rc.1 | 0 | OpenSSL crypto provider for certval. Performs message digest calculation and ce… |
+| 2026-11-12 15:04:51 | [tonus](https://crates.io/crates/tonus) | 0.1.0 | 0 | Minimal terminal music player for offline playback |
+| 2026-11-12 15:05:17 | [certval-pkcs11](https://crates.io/crates/certval-pkcs11) | 0.1.0-rc.1 | 0 | PKCS #11 crypto provider for certval. Offloads message digest calculation and c… |
+| 2026-11-12 15:07:08 | [certval-security-framework](https://crates.io/crates/certval-security-framework) | 0.1.0-rc.1 | 0 | Security.framework crypto provider for certval. Performs certificate signature… |
+| 2026-11-12 15:10:24 | [drawland-cli](https://crates.io/crates/drawland-cli) | 0.1.0 | 0 | draw.land map stage: fetch OSM, render the layered SVG |
+| 2026-11-12 15:10:25 | [atlas-push-oracle-anchor](https://crates.io/crates/atlas-push-oracle-anchor) | 0.0.1 | 0 | Anchor adapter for Atlas Push Oracle price feeds on Solana |
+| 2026-11-12 15:11:22 | [tauri-plugin-gtec-ble](https://crates.io/crates/tauri-plugin-gtec-ble) | 1.0.0 | 0 | Tauri plugin for g.tec BLE amplifiers: the gtecble C library behind the command… |
+| 2026-11-12 15:13:31 | [coreserver-cli](https://crates.io/crates/coreserver-cli) | 0.1.2 | 0 | CLI for CORESERVER V2 (DirectAdmin API over SSH) |
+| 2026-11-12 15:15:04 | [py](https://crates.io/crates/py) | 0.0.0-reserved | 0 | py |
+| 2026-11-12 15:15:26 | [uk](https://crates.io/crates/uk) | 0.0.0-reserved | 0 | uk |
+| 2026-11-12 15:15:30 | [us](https://crates.io/crates/us) | 0.0.0-reserved | 0 | us |
+| 2026-11-12 15:15:33 | [gk](https://crates.io/crates/gk) | 0.0.0-reserved | 0 | gk |
+| 2026-11-12 15:16:13 | [rune-bin](https://crates.io/crates/rune-bin) | 0.1.0 | 0 | Fixed and adaptive histogram binning for numeric distributions |
+| 2026-11-12 15:16:22 | [rune-quantity](https://crates.io/crates/rune-quantity) | 0.1.0 | 0 | Typed physical-quantity/unit system with compile-time-checked conversions (dist… |
+| 2026-11-12 15:16:29 | [rune-gap-detect](https://crates.io/crates/rune-gap-detect) | 0.1.0 | 0 | Detect missing/gap intervals in an expected-cadence timestamped series |
+| 2026-11-12 15:16:37 | [rune-stats](https://crates.io/crates/rune-stats) | 0.1.0 | 0 | Nonparametric statistics: robust descriptives, rank tests and effect sizes |
+| 2026-11-12 15:17:42 | [obedience](https://crates.io/crates/obedience) | 0.1.0 | 0 | A library for finding dependencies versions across multiple programming languag… |
+| 2026-11-12 15:17:44 | [obedience-cli](https://crates.io/crates/obedience-cli) | 0.1.0 | 0 | Command-line tool to detect outdated dependencies across multiple package manag… |
 
 ## Data source
 

@@ -1,0 +1,57 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-12T14:22:03.414232Z,dioxus-map-editor,0.1.0,0,0,https://github.com/pk111and222/dioxus-map-editor,An embeddable SVG map editor core and interaction canvas for Dioxus
+2026-11-12T14:22:22.329325Z,zarlib-zcopy,0.11.0,0,0,https://github.com/brmmm3/zar-rs,Command-line tool for transferring directory trees using ZAR
+2026-11-12T14:23:05.478839Z,simoom,0.1.0,0,0,https://github.com/Cameleering/simoom,"simoom: a small, fast, secure embeddable HTTP/1.1, HTTP/2 and HTTP/3 server."
+2026-11-12T14:27:43.565523Z,ppicker,0.1.0,0,0,https://github.com/roman-right/ppicker,Fast project picker for tiling window managers: open a project in your editor
+2026-11-12T14:32:22.436262Z,vasak-health-protocol,0.2.1,0,0,https://github.com/Vasak-OS/vasak-health-service,Contrato D-Bus compartido del servicio de salud de VasakOS
+2026-11-12T14:32:42.135253Z,vasak-assistant-protocol,0.3.20,0,0,https://github.com/Vasak-OS/vasak-assistant,Contrato D-Bus compartido del asistente de IA residente de VasakOS
+2026-11-12T14:33:20.30661Z,vasak-connect-protocol,0.3.4,0,0,https://github.com/Vasak-OS/vasak-connect,Shared D-Bus contract for the VasakOS Android device service
+2026-11-12T14:33:22.280715Z,simoom-client,0.1.0,0,0,https://github.com/Cameleering/simoom,"Std-only HTTP/1.1, HTTP/2 and HTTP/3 client and WebSocket client for simoom: pooling, TLS, proxies, streaming bodies, timeouts."
+2026-11-12T14:33:26.318907Z,tparquet-core,1.0.0,0,0,https://github.com/aperiodic-io/tparquet,The PCODEC Parquet compression codec payload (spec/FORMAT.md)
+2026-11-12T14:33:27.934721Z,tparquet-parquet,60.1.0,0,0,https://github.com/aperiodic-io/tparquet,"The arrow-rs parquet crate 60.1.0 with the PCODEC compression codec, for tparquet"
+2026-11-12T14:33:29.67981Z,tparquet,1.0.0,0,0,https://github.com/aperiodic-io/tparquet,"Parquet files with the PCODEC codec: writer with automatic codec selection, transcoding, and the tparquet CLI"
+2026-11-12T14:34:16.719313Z,pdfcer-flatten,0.146.0,0,0,https://github.com/KenM76/pdfcer,"pdfcer transparency flattener: PDF transparency (constant alpha, blend modes, overprint, isolated and knockout groups) over flat colours, resolved into opaque vector regions. Pure Rust geometry and a…"
+2026-11-12T14:37:11.351339Z,pdfcer-emf,0.146.0,0,0,https://github.com/KenM76/pdfcer,"pdfcer Enhanced Metafile writer: PDF pages to vector [MS-EMF] metafiles for printing, the clipboard and export, plus per-ink separation plates. Pure Rust over pdfcer-render's export recording; no GUI…"
+2026-11-12T14:40:25.866273Z,cerulion_node_abi,2.0.0,0,0,https://github.com/cerulion-inc/cerulion,Compiler-independent C interface for Cerulion node plugins
+2026-11-12T14:40:26.395449Z,cerulion_telemetry,2.0.0,0,0,https://github.com/cerulion-inc/cerulion,Consent resolver and property guard for Cerulion desk surfaces (a no-op without the `posthog` feature)
+2026-11-12T14:40:34.359272Z,cerulion_msgio,2.0.0,0,0,https://github.com/cerulion-inc/cerulion,"Messages as JSON or YAML text on local shared memory: encode and publish, call a service, snapshot a camera frame, decode one message"
+2026-11-12T14:40:38.847285Z,cerulion_android,2.0.0,0,0,https://github.com/cerulion-inc/cerulion,"Embedded Cerulion runtime for Android apps: Java facade, JNI bindings and graph nodes linked into the app library"
+2026-11-12T14:41:23.654736Z,sologger,0.4.0,0,0,https://github.com/brytelands/sologger,Configurable standalone service to parse raw logs emitted from a Solana RPC into structured logs and transport Solana logs to either a LogStash or OpenTelemetry endpoint via TCP
+2026-11-12T14:41:23.848558Z,deoverlap-core,4.2.0,0,0,https://github.com/piLeoni/deoverlap,Remove overlapping strokes from vector drawings (Rust core of deoverlap)
+2026-11-12T14:41:30.389651Z,penfill,0.4.0,0,0,https://github.com/piLeoni/penfill,"Fills and hatches for pen plotters: a catalogue of materials (water, vegetation, ground, rock, built) over generators that describe their own options, map symbols, CAD .pat hatches, and your own patt…"
+2026-11-12T14:42:16.766842Z,burin-map-core,0.1.0,0,0,https://github.com/piLeoni/burin-map,Drawing engine of burin-map: pen-and-ink terrain lines from an elevation grid
+2026-11-12T14:42:31.496741Z,burin-map-script,0.1.0,0,0,https://github.com/piLeoni/burin-map,"burin-map documents in JavaScript: a script in, the atlas it builds out"
+2026-11-12T14:42:54.379519Z,burin-map,0.1.0,0,0,https://github.com/piLeoni/burin-map,Pen-and-ink terrain maps from elevation tiles
+2026-11-12T14:45:44.239578Z,mison-derive,0.2.0,0,0,https://github.com/takagiy/mison,The derive macros for mison::Encode and mison::Decode
+2026-11-12T14:46:40.73194Z,statime-algo,0.1.0,0,0,https://github.com/pendulum-project/ntpd-rs,Full-featured implementation of NTP with NTS support
+2026-11-12T14:48:47.346745Z,statime-wire,0.1.0,0,0,https://github.com/pendulum-project/ntpd-rs,Full-featured implementation of NTP with NTS support
+2026-11-12T14:49:12.648826Z,statime-csptp,0.1.0,0,0,https://github.com/pendulum-project/ntpd-rs,Full-featured implementation of NTP with NTS support
+2026-11-12T14:49:39.929907Z,statime-config-derive,0.1.0,0,0,https://github.com/pendulum-project/ntpd-rs,Full-featured implementation of NTP with NTS support
+2026-11-12T14:49:47.451129Z,statime-config,0.1.0,0,0,https://github.com/pendulum-project/ntpd-rs,Full-featured implementation of NTP with NTS support
+2026-11-12T14:50:15.002037Z,drawland-core,0.1.0,0,0,https://github.com/piLeoni/postcards,Maps drawn for pen plotters: OSM features to a layered SVG. No I/O.
+2026-11-12T14:52:34.729818Z,wirdigen-cli,0.0.0,0,0,https://github.com/Cerclique/wirdigen/,Placeholder: the wirdigen CLI is published from https://github.com/Cerclique/wirdigen/
+2026-11-12T14:54:32.088235Z,omni-ring,0.1.0,0,0,https://github.com/WyattAu/os-core,Wait-free bounded SPSC descriptor ring and lock-free bounded MPMC ring (REQ-OS-001).
+2026-11-12T14:55:28.662533Z,isnady-gui,0.7.5,0,0,https://github.com/bayramkotan/isnady-rs,"isnady's window in Rust (Tauri 2): the same data, the same rules as the Python isnady"
+2026-11-12T14:57:11.61083Z,omni-cap,0.1.0,0,0,https://github.com/WyattAu/os-core,64-byte cache-line-aligned hardware capability token (REQ-OS-002).
+2026-11-12T14:59:36.588412Z,drawland-script,0.1.0,0,0,https://github.com/piLeoni/postcards,draw.land profiles in JavaScript: the script builds the graph the engine runs
+2026-11-12T15:01:31.493757Z,certval-awslc,0.1.0-rc.1,0,0,https://github.com/carl-wallace/certval-awslc,"AWS-LC crypto provider for certval. Performs message digest calculation and certificate signature verification with AWS-LC through aws-lc-rs, including its FIPS-validated build, so certification path…"
+2026-11-12T15:02:38.62089Z,certval-cng,0.1.0-rc.1,0,0,https://github.com/carl-wallace/certval-cng,"Windows CNG crypto provider for certval. Performs message digest calculation and certificate signature verification with Cryptography API: Next Generation, so certification path validation on Windows…"
+2026-11-12T15:02:57.209487Z,aeg-hilbert16,0.0.2,0,0,https://github.com/mountain/aeglib,"hilbert-16 adapter for aeglib (Abelian-Horner, Gauss-Manin, periods)."
+2026-11-12T15:04:24.879819Z,certval-openssl,0.1.0-rc.1,0,0,https://github.com/carl-wallace/certval-openssl,"OpenSSL crypto provider for certval. Performs message digest calculation and certificate signature verification with the system's OpenSSL 3, so certification path validation can use OpenSSL's FIPS pr…"
+2026-11-12T15:04:51.610202Z,tonus,0.1.0,0,0,https://github.com/lekspa/tonus,Minimal terminal music player for offline playback
+2026-11-12T15:05:17.312232Z,certval-pkcs11,0.1.0-rc.1,0,0,https://github.com/carl-wallace/certval-pkcs11,"PKCS #11 crypto provider for certval. Offloads message digest calculation and certificate signature verification to a PKCS #11 module, so certification path validation can be performed using the cryp…"
+2026-11-12T15:07:08.635411Z,certval-security-framework,0.1.0-rc.1,0,0,https://github.com/carl-wallace/certval-security-framework,"Security.framework crypto provider for certval. Performs certificate signature verification with Apple's platform cryptography, so certification path validation on macOS and iOS can use the operating…"
+2026-11-12T15:10:24.642137Z,drawland-cli,0.1.0,0,0,https://github.com/piLeoni/postcards,"draw.land map stage: fetch OSM, render the layered SVG"
+2026-11-12T15:10:25.334673Z,atlas-push-oracle-anchor,0.0.1,0,0,https://github.com/oracle-atlas/atlas-solana,Anchor adapter for Atlas Push Oracle price feeds on Solana
+2026-11-12T15:11:22.923585Z,tauri-plugin-gtec-ble,1.0.0,0,0,,Tauri plugin for g.tec BLE amplifiers: the gtecble C library behind the commands @gtec-neurotechnology/ble-tauri invokes.
+2026-11-12T15:13:31.208479Z,coreserver-cli,0.1.2,0,0,https://github.com/ao1607/coreserver-cli,CLI for CORESERVER V2 (DirectAdmin API over SSH)
+2026-11-12T15:15:04.774603Z,py,0.0.0-reserved,0,0,,py
+2026-11-12T15:15:26.541183Z,uk,0.0.0-reserved,0,0,,uk
+2026-11-12T15:15:30.4352Z,us,0.0.0-reserved,0,0,,us
+2026-11-12T15:15:33.037252Z,gk,0.0.0-reserved,0,0,,gk
+2026-11-12T15:16:13.269524Z,rune-bin,0.1.0,0,0,https://github.com/alexile/runes,Fixed and adaptive histogram binning for numeric distributions
+2026-11-12T15:16:22.271861Z,rune-quantity,0.1.0,0,0,https://github.com/alexile/runes,"Typed physical-quantity/unit system with compile-time-checked conversions (distance, speed, energy, etc.)"
+2026-11-12T15:16:29.907066Z,rune-gap-detect,0.1.0,0,0,https://github.com/alexile/runes,Detect missing/gap intervals in an expected-cadence timestamped series
+2026-11-12T15:16:37.994924Z,rune-stats,0.1.0,0,0,https://github.com/alexile/runes,"Nonparametric statistics: robust descriptives, rank tests and effect sizes"
+2026-11-12T15:17:42.22225Z,obedience,0.1.0,0,0,https://gitlab.com/ornythorinque/obedience,A library for finding dependencies versions across multiple programming languages.
+2026-11-12T15:17:44.31436Z,obedience-cli,0.1.0,0,0,https://gitlab.com/ornythorinque/obedience,Command-line tool to detect outdated dependencies across multiple package managers.
