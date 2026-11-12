@@ -1,0 +1,56 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-12T12:21:30.15198Z,mcp-to-cli,0.1.0,0,0,https://git.vhaudiquet.fr/vhaudiquet/mcp-to-cli,JSON Schema tool catalogs to clap commands for MCP servers
+2026-11-12T12:22:39.264969Z,rexi,0.3.0,0,0,https://github.com/nhenehan/rexi,"EXI (Efficient XML Interchange) for Rust: one crate for rexi-core, rexi-schema, rexi-xml and rexi-serde"
+2026-11-12T12:26:46.201317Z,skywake,0.0.0,0,0,https://github.com/skywakehq/skywake,"Reserved for Skywake, a filesystem and search index for agents: https://skywake.dev"
+2026-11-12T12:26:50.547456Z,skywake-cli,0.0.0,0,0,https://github.com/skywakehq/skywake,"Reserved for Skywake, a filesystem and search index for agents: https://skywake.dev"
+2026-11-12T12:26:54.901818Z,skywake-core,0.0.0,0,0,https://github.com/skywakehq/skywake,"Reserved for Skywake, a filesystem and search index for agents: https://skywake.dev"
+2026-11-12T12:26:59.097248Z,skywake-client,0.0.0,0,0,https://github.com/skywakehq/skywake,"Reserved for Skywake, a filesystem and search index for agents: https://skywake.dev"
+2026-11-12T12:27:03.318872Z,skywake-index,0.0.0,0,0,https://github.com/skywakehq/skywake,"Reserved for Skywake, a filesystem and search index for agents: https://skywake.dev"
+2026-11-12T12:30:06.255751Z,cohors-mcp,0.7.5,0,0,https://github.com/rushirb2001/cohors,Model Context Protocol adapter for cohors: a hand-rolled JSON-RPC stdio server exposing the fleet reads and the gated actions to a coding agent.
+2026-11-12T12:33:56.776398Z,bevy_mod_scripting_bevy_transform_bindings,0.24.0,0,0,https://github.com/makspll/bevy_mod_scripting,Script bindings for bevy transforms
+2026-11-12T12:36:53.261971Z,skywake-daemon,0.0.0,0,0,https://github.com/skywakehq/skywake,"Reserved for Skywake, a filesystem and search index for agents: https://skywake.dev"
+2026-11-12T12:39:09.939943Z,db9s-core,2026.11.4,0,0,https://github.com/damien-mathieu1/db9s,"UI-agnostic core of db9s: database backends, config, secrets and app state"
+2026-11-12T12:40:13.069292Z,cohors-web,0.7.5,0,0,https://github.com/rushirb2001/cohors,cohors web dashboard — one Rust core; a native server half and a WASM (Leptos) browser half
+2026-11-12T12:44:51.778551Z,bevy_mod_scripting_bevy_ui_bindings,0.24.0,0,0,https://github.com/makspll/bevy_mod_scripting,"Script bindings for bevy user interface nodes, layout and styling"
+2026-11-12T12:44:56.167307Z,oxlint-vue-rs,0.1.0,0,0,https://github.com/s00d/oxlint-vue-rs,"All eslint-plugin-vue rules oxlint lacks (template + script) on the oxc toolchain, with eslint-plugin-vue parity"
+2026-11-12T12:46:34.173413Z,attentive-notifier,0.1.1,0,0,https://github.com/q32757468/attentive-rs,Rust notification server and Windows toast dispatcher for Attentive Kit
+2026-11-12T12:47:04.204005Z,skywake-mount,0.0.0,0,0,https://github.com/skywakehq/skywake,"Reserved for Skywake, a filesystem and search index for agents: https://skywake.dev"
+2026-11-12T12:48:59.110567Z,bevy_mod_scripting_bevy_window_bindings,0.24.0,0,0,https://github.com/makspll/bevy_mod_scripting,Script bindings for bevy windows
+2026-11-12T12:49:20.295402Z,colmat-traits,0.25.0,0,0,https://github.com/tensor4all/faer,Scalar and SIMD traits for HPC linear algebra in the tensor4all faer fork.
+2026-11-12T12:49:43.978651Z,colmat,0.34.0,0,0,https://github.com/tensor4all/faer,Dense and sparse linear algebra for HPC applications with caller owned thread teams.
+2026-11-12T12:49:45.347956Z,active-rpc-dir-sync,0.1.0,0,0,https://github.com/Active-Official/active-rpc,"One OS primitive for Active RPC: sync a file's parent directory to durable storage (Windows FlushFileBuffers on the directory handle, Unix sync_all)"
+2026-11-12T12:50:01.679748Z,active-rpc-process-tree,0.1.0,0,0,https://github.com/Active-Official/active-rpc,"One OS primitive for Active RPC: a Windows job object holding a tool child and every descendant it starts, so a timeout kill ends the whole tree (XPL-RPC-04), and the Unix process-group signals that…"
+2026-11-12T12:50:06.113378Z,very-normal,0.1.0,0,0,https://github.com/markryall/very-normal,"A terminal typing tutor that walks a ZSA Voyager from QWERTY to the Very Normal layout, a few keys at a time"
+2026-11-12T12:50:11.467697Z,active-rpc-liveness,0.1.0,0,0,https://github.com/Active-Official/active-rpc,"One OS primitive for Active RPC: whether a pid names a live process (Windows OpenProcess, macOS kill(pid, 0))"
+2026-11-12T12:50:19.955232Z,active-rpc-file-identity,0.1.0,0,0,https://github.com/Active-Official/active-rpc,"One OS primitive for Active RPC: the stable identity of an open file on Windows (volume serial + file index), so receipt-lock ownership is the file, not its copyable text"
+2026-11-12T12:50:47.894639Z,curl-runner-cloud-client,2.8.0,0,0,https://github.com/alexvcasillas/curl-runner,"Blocking client for the curl-runner Cloud API, shared by the CLI and the studio"
+2026-11-12T12:50:51.515392Z,vertep-yaml,0.1.1,0,0,https://github.com/Volland/vertep,YAML surface for Vertep charts
+2026-11-12T12:50:55.380371Z,vertep-dm-cel,0.1.1,0,0,https://github.com/Volland/vertep,CEL datamodel for Vertep
+2026-11-12T12:51:02.732016Z,vertep-macros,0.1.1,0,0,https://github.com/Volland/vertep,The statechart! macro: Rust DSL for Vertep charts
+2026-11-12T12:51:06.507889Z,cohors,0.7.5,0,0,https://github.com/rushirb2001/cohors,"Every git repo you own, on one screen: a terminal dashboard, CLI and MCP server for your whole fleet of repositories."
+2026-11-12T12:51:12.422438Z,vertep-dm-rust,0.1.1,0,0,https://github.com/Volland/vertep,Rust datamodel for Vertep charts written with the statechart! macro
+2026-11-12T12:51:32.807704Z,offline-rn-shell,0.3.3,0,0,https://github.com/Offline-Protocol/CLI,React Native android/ios shell cache and mesh native setup for Offline CLI
+2026-11-12T12:51:48.846781Z,ccr-lint,0.1.1,0,0,https://github.com/Forsrobin/ccr-lint,"Conventional Commits linting and releases for Rust projects, without Node: a faithful port of commitlint (config-conventional) and commit-and-tag-version (conventionalcommits preset)."
+2026-11-12T12:53:18.742634Z,unmei-engine,0.1.0,0,0,https://github.com/SairaDev02/unmei-vn,"Minimal visual-novel runtime core: content-pack loading, .unmei DSL parser, shared by the Bevy runtime and the unmei author CLI."
+2026-11-12T12:54:13.728467Z,aeg-core,0.0.1,0,0,https://github.com/mountain/aeglib,"Semantic kernel for aeglib: terms, histories, occurrences, domains, verdicts, certificates."
+2026-11-12T12:54:18.854624Z,aeg-algebra,0.0.1,0,0,https://github.com/mountain/aeglib,"Exact algebra for aeglib: rationals, univariate polynomials, Sturm root counting."
+2026-11-12T12:54:22.281785Z,aeg-calculus,0.0.1,0,0,https://github.com/mountain/aeglib,"AEG-native calculus: differential forms, horizontal differential, contact models, AM/ACS evaluation."
+2026-11-12T12:54:24.435329Z,aeg-certify,0.0.1,0,0,https://github.com/mountain/aeglib,Certificates and independent checkers for aeglib.
+2026-11-12T12:55:46.124383Z,unmei,0.1.0,0,0,https://github.com/SairaDev02/unmei-vn,"The unmei author CLI: generates and edits NPC decision configs via any OpenAI-compatible chat endpoint, fully offline in output."
+2026-11-12T12:57:14.892404Z,skywake-cache,0.0.0,0,0,https://github.com/skywakehq/skywake,"Reserved for Skywake, a filesystem and search index for agents: https://skywake.dev"
+2026-11-12T12:58:09.497352Z,vertep-runtime,0.1.1,0,0,https://github.com/Volland/vertep,"Event-sourced actor runtime for Vertep: activations, mailboxes, journal, timers and versioning"
+2026-11-12T12:59:24.162319Z,flusso-script,0.17.0,0,0,https://github.com/alias2k/flusso,"Script fields for flusso: typed computed fields, written in Rhai, run over each built document."
+2026-11-12T12:59:55.650039Z,aeg-analysis,0.0.1,0,0,https://github.com/mountain/aeglib,"Differential/analytic structures for aeglib (connections, Picard-Fuchs operators)."
+2026-11-12T13:02:55.932924Z,opentide-exabeam,0.15.0,0,0,https://github.com/opentidehq/language-server,opentide engine component: I/O-free Exabeam Query Language engine (Exabeam New-Scale SIEM). Depend on opentide-analysis.
+2026-11-12T13:03:26.151119Z,qubit-reflect-derive,0.2.1,0,0,https://github.com/qubit-ltd/rs-reflect,Procedural macros for qubit-reflect
+2026-11-12T13:05:03.047202Z,aeg-geometry,0.0.1,0,0,https://github.com/mountain/aeglib,"AEG geometry: conformal AesSpec, canonical frame, k-puncture and z^2 models."
+2026-11-12T13:05:15.642764Z,qubit-reflect,0.2.2,0,0,https://github.com/qubit-ltd/rs-reflect,Macro-based structural and executable reflection for Rust
+2026-11-12T13:07:57.024026Z,qubit-event-bus-redis,0.7.1,0,0,https://github.com/qubit-ltd/rs-event-bus-redis,Synchronous and asynchronous Redis Streams providers for Qubit Event Bus
+2026-11-12T13:08:08.851536Z,vertep-agent,0.1.1,0,0,https://github.com/Volland/vertep,"Deciders, LLM actors, tools with grants and sandboxed plan charts for Vertep agents"
+2026-11-12T13:10:23.030765Z,sororewind,0.1.0,0,0,https://github.com/Dione-b/sororewind,Replay a failed Soroban transaction locally and narrate the call tree to the point of failure
+2026-11-12T13:11:25.510708Z,esf-mcp,14.2.0,0,0,https://github.com/EVEShipFit/dogma-engine,MCP server that calculates EVE Online ship fits
+2026-11-12T13:11:44.70499Z,lmdeck,0.1.0,0,0,https://github.com/javierbits/lmdeck,"One CLI to manage local AI model recipes: quant, engine and hardware configs from Hugging Face, GitHub and friends."
+2026-11-12T13:15:28.643902Z,aeglib,0.0.1,0,0,https://github.com/mountain/aeglib,Facade for the AEG symbolic/numerical computation library.
+2026-11-12T13:16:25.084948Z,i18n_walk,0.2.115,0,0,https://github.com/i18n-site/i18n.site,按路径模式惰性枚举目录
+2026-11-12T13:18:06.458202Z,vkeys,0.1.0,0,0,https://github.com/kcpatt27/vkeys,"vkeys (virtual keys) - personal, machine-wide key store"
+2026-11-12T13:18:10.265364Z,vertep-cluster,0.1.1,0,0,https://github.com/Volland/vertep,"Cluster membership, shard leases, QUIC transport and worker pools for Vertep"
