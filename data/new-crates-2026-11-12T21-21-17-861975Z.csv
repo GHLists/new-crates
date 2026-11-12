@@ -1,0 +1,39 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-12T20:22:40.999414Z,tessar-core,0.1.0,0,0,https://github.com/ab7tr4ct/tessar,"Core of tessar: data model, memory rules and ports"
+2026-11-12T20:22:42.919099Z,tessar-embed-cache,0.1.0,0,0,https://github.com/ab7tr4ct/tessar,A persistent vector cache in front of any tessar embedder
+2026-11-12T20:22:43.860102Z,tessar-embed-candle,0.1.0,0,0,https://github.com/ab7tr4ct/tessar,"Pure-Rust in-process embedder for tessar: voyage-4-nano on candle, no cmake"
+2026-11-12T20:22:44.804585Z,tessar-journal,0.1.0,0,0,https://github.com/ab7tr4ct/tessar,File journal for tessar: append-only JSON Lines with checksums
+2026-11-12T20:22:48.55856Z,tessar,0.1.0,0,0,https://github.com/ab7tr4ct/tessar,MCP server for tessar: memory for Claude Code and other agents over stdio
+2026-11-12T20:24:12.59183Z,packetshark,0.1.1,0,0,https://github.com/DevSingh05/packetshark,"A fast terminal UI for Wireshark: packet list, dissection tree and hex view, powered by sharkd"
+2026-11-12T20:24:59.326901Z,rune-taxonomy,0.1.0,0,0,https://github.com/alexile/runes,"CWE, CAPEC, ATT&CK, OWASP Top 10 and ASVS reference data with typed, validated ids and cross-mappings"
+2026-11-12T20:26:02.638216Z,join-machines,0.2.0,0,0,,Bounded two-input interval-join metadata with resumable pair emission and watermark retirement
+2026-11-12T20:31:24.58138Z,escrow-machines,0.2.0,0,0,,"Bounded-counter escrow: fixed-replica rights accounting, conserved spends, and replay-safe transfers"
+2026-11-12T20:33:42.101794Z,turbodot,0.5.0,0,0,https://github.com/nokola/storvald,"TurboDot: the app and game engine where AI can prove that its changes work. Headless, deterministic, high-performance. In development: this version holds the name and has no API yet."
+2026-11-12T20:35:13.170265Z,rune-pe,0.1.1,0,0,https://github.com/alexile/runes,"Lightweight PE (Windows executable) parser: headers, sections, imports, exports, security flags (ASLR, DEP, CFG, SafeSEH)"
+2026-11-12T20:39:00.432939Z,chiri,0.0.1,0,0,https://github.com/mcandre/chiri,lightweight software package generator
+2026-11-12T20:42:53.382267Z,bandit-machines,0.2.0,0,0,,Bounded UCB1 and epsilon-greedy arm selection with ticketed delayed rewards
+2026-11-12T20:44:58.152821Z,rune-base32,0.1.1,0,0,https://github.com/alexile/runes,"Base32 encode/decode — RFC 4648 standard and hex alphabets, pure Rust"
+2026-11-12T20:47:32.428357Z,fusee-core,1.0.0,0,0,https://github.com/bitsinfra/fusee,"Deterministic core of the Fusee durable execution engine: records, segments, journals and shard state with no I/O"
+2026-11-12T20:47:35.28981Z,fusee,1.0.0,0,0,https://github.com/bitsinfra/fusee,Embeddable durable execution at the speed of the disk: workflows whose steps are durable within microseconds of fdatasync
+2026-11-12T20:47:38.074954Z,fusee-server,1.0.0,0,0,https://github.com/bitsinfra/fusee,"Fusee server mode: the server holds the log, workflow code runs in the application"
+2026-11-12T20:47:39.95555Z,fusee-cli,1.0.0,0,0,https://github.com/bitsinfra/fusee,"The fusee command: disk-check, server mode and data directory inspection"
+2026-11-12T20:47:40.463925Z,fusee-sim,1.0.0,0,0,https://github.com/bitsinfra/fusee,"Deterministic simulation testing for Fusee: seeded scheduler, faulty disks and networks, and correctness checkers"
+2026-11-12T20:51:45.330784Z,gwennol-core,0.0.0,0,0,https://github.com/plethwaith/gwennol,"Gwennol core: the agent loop and its model and tool contracts, for embedding. Name reservation; no functionality yet."
+2026-11-12T20:51:48.465415Z,gwennol-host,0.0.0,0,0,https://github.com/plethwaith/gwennol,"Gwennol host: native filesystem, process and HTTP steps for a Gwead kernel, and the operator that approves them. Name reservation; no functionality yet."
+2026-11-12T20:51:51.275224Z,xgpui-gpu-interop,0.1.0,0,0,https://github.com/gpui-luma-dev/xgpui,Experimental zero-copy GPU interop for xgpui: show frames from your own GPU engine (wgpu or Metal) in xgpui windows
+2026-11-12T20:53:25.377009Z,canary-machines,0.2.0,0,0,,Sequential Bernoulli regression tests with stated error bounds and promote/rollback/continue recommendations
+2026-11-12T20:54:56.693452Z,rune-base58,0.1.1,0,0,https://github.com/alexile/runes,"Base58 encode/decode — Bitcoin alphabet and Flickr alphabet, with optional Check encoding"
+2026-11-12T21:00:34.15163Z,fairway-hash,0.1.0,0,0,https://github.com/juanmaneo/fairway,"Rust port of Google's HighwayHash (64/128/256-bit) and SipHash/SipHash-1-3, with portable scalar and SIMD (SSE4.1/AVX2/NEON) backends"
+2026-11-12T21:02:14.534202Z,interceptor-multilang,1.0.1,0,0,https://github.com/TitanCSA/Interceptor-MultiLang,Minimal Rust bindings for the Interceptor Windows input filter driver
+2026-11-12T21:02:47.342696Z,rust-odf,0.1.0,0,0,https://github.com/extend-hq/rust-office,"Shared OpenDocument package, style, text and drawing readers for the Rust Office parsers"
+2026-11-12T21:03:35.373734Z,journal-machines,0.2.0,0,0,,"Bounded log segment metadata: roll decisions, compaction candidates, and pin-gated reclamation"
+2026-11-12T21:04:57.379066Z,rune-dns-wire,0.1.0,0,0,https://github.com/alexile/runes,"Sans-I/O DNS message parser and builder (RFC 1035, EDNS0, name compression)"
+2026-11-12T21:08:00.075273Z,lorasmith,0.1.0,0,0,https://github.com/RegaLabs/lorasmith,"Fine-tune an open LLM on your own data with one command, on any GPU or none."
+2026-11-12T21:08:26.150318Z,pgso-core,0.1.0,0,0,https://github.com/PGSO-Workspace/pgso-sdk,"Pure, deterministic governance core for PGSO: Signal/Actuator traits, decision engine, inviolable allowlist, and audit log. Depends only on thiserror."
+2026-11-12T21:08:29.881935Z,pgso-actuator-local,0.1.0,0,0,https://github.com/PGSO-Workspace/pgso-sdk,Reference in-memory Actuator for PGSO: applies governance decisions to a served tool catalog and backstops the G2 inviolable allowlist.
+2026-11-12T21:08:35.831381Z,pgso-actuator-mcp,0.1.0,0,0,https://github.com/PGSO-Workspace/pgso-sdk,PGSO Actuator that serves the governed tool catalog over the Model Context Protocol (tools/list) and tracks tools/list_changed notifications.
+2026-11-12T21:08:39.115474Z,pgso-signal-egemaps,0.1.0,0,0,https://github.com/PGSO-Workspace/pgso-sdk,"Default PGSO signal: a pure-Rust, eGeMAPS-style prosodic feature extractor (F0, energy, jitter, shimmer, voicing) mapped to an arousal reading. No ML runtime, no model download."
+2026-11-12T21:08:58.240578Z,pgso-actuator-http,0.1.0,0,0,,Session-scoped PGSO execution with HTTP and MCP request adapters
+2026-11-12T21:12:58.582004Z,stackdog,0.3.0,0,0,https://github.com/trydirect/stackdog,Security platform for Docker containers and Linux servers
+2026-11-12T21:13:44.211935Z,handoff-machines,0.2.0,0,0,,Bounded partition ownership transfer phases with generation-tagged acknowledgements and fenced activation
+2026-11-12T21:14:56.840987Z,rune-tls-hello,0.1.0,0,0,https://github.com/alexile/runes,"Sans-I/O TLS record and ClientHello/ServerHello parser and builder (SNI, ALPN, versions, extensions)"
