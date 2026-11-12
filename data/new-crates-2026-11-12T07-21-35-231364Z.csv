@@ -1,0 +1,40 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-12T06:23:33.534258Z,vestige-extract,0.6.0,0,0,https://github.com/conorluddy/Vestige,Internal crate for Vestige — LLM extraction provider abstraction for daemon-mode session-log ingestion (V0.5.4). Deterministic fake provider always available; ollama/anthropic/openai land behind feat…
+2026-11-12T06:23:44.893841Z,vestige-daemon,0.6.0,0,0,https://github.com/conorluddy/Vestige,Internal crate for Vestige — background daemon runtime (V0.5). Public API is unstable; use the `vestige` binary.
+2026-11-12T06:24:59.119446Z,rtao-transport-quic,0.1.0,0,0,https://github.com/sam0x17/rtao,"btlightning-compatible QUIC transport for Bittensor neurons, built on quinn."
+2026-11-12T06:25:46.767057Z,flui-platform,0.0.0,0,0,https://github.com/vanyastaff/flui,"Reserved name for FLUI, a declarative UI framework for Rust. The real crate will be published from the repository."
+2026-11-12T06:26:12.037205Z,mokugen,0.1.0,0,0,https://github.com/mokugen/mokugen,Binary container inspection and SDK primitives for Mokugen neural audio models.
+2026-11-12T06:28:19.324057Z,craftkit,0.1.1,0,0,https://github.com/germ3n/craftkit,"Write Minecraft mods in Rust: the protocol a mod speaks with the craftkit host, the Mod trait, the exported C ABI, and a headless harness to test a mod without a game."
+2026-11-12T06:29:58.987596Z,flui-protocol,0.0.0,0,0,https://github.com/vanyastaff/flui,"Reserved name for FLUI, a declarative UI framework for Rust. The real crate will be published from the repository."
+2026-11-12T06:35:00.347228Z,rtao,0.1.0,0,0,https://github.com/sam0x17/rtao,Rust SDK and operator framework for Bittensor subnets.
+2026-11-12T06:36:34.414534Z,bungeeoxide-minecraft-v1-16-1,0.1.1,0,0,,Minecraft 1.16.1 protocol types
+2026-11-12T06:36:35.103981Z,bungeeoxide-minecraft-v1-16-2,0.1.1,0,0,,Minecraft 1.16.2 protocol types
+2026-11-12T06:40:22.14417Z,flui-rendering,0.0.0,0,0,https://github.com/vanyastaff/flui,"Reserved name for FLUI, a declarative UI framework for Rust. The real crate will be published from the repository."
+2026-11-12T06:41:00.903889Z,restsend-vnc,0.1.0,0,0,https://github.com/restsend/restsend-vnc,"A headless, cross-platform (macOS/Windows) VNC server CLI"
+2026-11-12T06:44:39.36356Z,zf-zebrachaos,0.0.1-rc.0,0,0,https://github.com/zebrafactory/zebrachaos,🦓 🤪 ZebraChaos is a Content Hash Addressable Object Store. It's a lot like Git.
+2026-11-12T06:45:06.339281Z,rtao-cli,0.1.0,0,0,https://github.com/sam0x17/rtao,The rtao command line application.
+2026-11-12T06:46:35.848724Z,olangc-im,1.0.0-rc.9,0,0,https://github.com/ooyeku/olang,olang's copy of im 15.1.0 (immutable collection datatypes by Bodil Stokke) with the tracing its cycle collector needs. Use im itself unless you are building olang.
+2026-11-12T06:50:44.283675Z,flui-runtime,0.0.0,0,0,https://github.com/vanyastaff/flui,"Reserved name for FLUI, a declarative UI framework for Rust. The real crate will be published from the repository."
+2026-11-12T06:52:07.21733Z,weirdnet-accounts,0.1.0,0,0,https://github.com/WeirdBrains/weirdnet-accounts,"Weirdnet accounts: Argon2id passwords, hashed session and email tokens, user-name and email rules, per-client rate limits with trusted proxies, and org-scoped API keys with scopes, expiry and revocat…"
+2026-11-12T06:52:21.794428Z,weirdnet-mcp,0.1.0,0,0,https://github.com/WeirdBrains/weirdnet-mcp,"Weirdnet MCP: a transport-agnostic Model Context Protocol (JSON-RPC 2.0) tools server with tool specs, annotations, argument helpers and a stdio-to-HTTP bridge loop (extracted from TAUR)."
+2026-11-12T06:54:05.803588Z,i18n_lang,0.2.106,0,0,https://github.com/i18n-site/i18n.site,i18n_lang
+2026-11-12T06:54:18.262535Z,i18n_conf,0.2.106,0,0,https://github.com/i18n-site/i18n.site,解析 i18n.nt 任务配置（NestedText）
+2026-11-12T06:54:43.608956Z,i18n_cli_conf,0.2.106,0,0,https://github.com/i18n-site/i18n.site,i18n_cli_conf
+2026-11-12T06:57:39.139767Z,hessian2-core,0.1.0,0,0,https://github.com/cnzakii/hessian2,Hessian 2.0 serialization primitives: a pull reader and a writer
+2026-11-12T06:59:02.106968Z,bungeeoxide-minecraft-v1-17,0.1.1,0,0,,Minecraft 1.17 protocol types
+2026-11-12T06:59:04.57777Z,bungeeoxide-minecraft-v1-17-1,0.1.1,0,0,,Minecraft 1.17.1 protocol types
+2026-11-12T07:01:07.337929Z,flui-scheduler,0.0.0,0,0,https://github.com/vanyastaff/flui,"Reserved name for FLUI, a declarative UI framework for Rust. The real crate will be published from the repository."
+2026-11-12T07:02:43.633573Z,giong,0.2.0,0,0,https://github.com/giong-run/Giong,Gióng — a thread-per-core async runtime for Linux built directly on io_uring
+2026-11-12T07:02:46.252267Z,giong-tls,0.2.0,0,0,https://github.com/giong-run/Giong,"TLS for the giong thread-per-core runtime, built on rustls"
+2026-11-12T07:02:49.063264Z,giong-http,0.2.0,0,0,https://github.com/giong-run/Giong,"A small, strict HTTP/1.1 server for the giong thread-per-core runtime"
+2026-11-12T07:07:17.575078Z,i18n_var,0.2.106,0,0,https://github.com/i18n-site/i18n.site,提取并比对字符串中的模板变量
+2026-11-12T07:07:30.578895Z,i18n_tran,0.2.106,0,0,https://github.com/i18n-site/i18n.site,批量逐行翻译：提示词、分批与修订
+2026-11-12T07:07:42.89511Z,i18n_os,0.2.106,0,0,https://github.com/i18n-site/i18n.site,平台差异原语：路径分隔符归一与父目录落盘
+2026-11-12T07:07:55.639453Z,i18n_db,0.2.106,0,0,https://github.com/i18n-site/i18n.site,纯文本、可 diff 的 i18n 数据库（只追加 + 流式压实）
+2026-11-12T07:11:30.389562Z,flui-sdk,0.0.0,0,0,https://github.com/vanyastaff/flui,"Reserved name for FLUI, a declarative UI framework for Rust. The real crate will be published from the repository."
+2026-11-12T07:15:43.498034Z,i18n_log,0.2.106,0,0,https://github.com/i18n-site/i18n.site,按项目名初始化滚动文件日志
+2026-11-12T07:16:14.041135Z,pure-sift,0.1.0,0,0,https://github.com/dannkkie/pure-sift,"Pure-Rust US6711293B1 SIFT feature extraction, RANSAC/Homography alignment, visual catalog search, and HTTP workbench with zero unsafe code."
+2026-11-12T07:17:38.413761Z,tcs-xtce,0.6.0,0,0,https://github.com/vomlehn/tcs-xtce,"Flight software: serialization and deserialization of OMG XTCE documents into managed, preallocated buffers, being integrated with NASA's cFS and JPL's F Prime"
+2026-11-12T07:20:32.666035Z,bungeeoxide-minecraft-v1-18,0.1.1,0,0,,Minecraft 1.18 protocol types
+2026-11-12T07:20:35.4867Z,bungeeoxide-minecraft-v1-18-2,0.1.1,0,0,,Minecraft 1.18.2 protocol types
+2026-11-12T07:20:36.775924Z,bungeeoxide-minecraft-v1-19,0.1.1,0,0,,Minecraft 1.19 protocol types

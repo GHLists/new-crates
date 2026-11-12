@@ -8,40 +8,53 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-12 06:21 UTC
+## Latest list — 2026-11-12 07:21 UTC
 
-New crates published between 2026-11-12 05:20 UTC and 2026-11-12 06:21 UTC.
+New crates published between 2026-11-12 06:21 UTC and 2026-11-12 07:21 UTC.
 
-[Full CSV](data/new-crates-2026-11-12T06-21-47-126041Z.csv)
+[Full CSV](data/new-crates-2026-11-12T07-21-35-231364Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-12 05:23:16 | [ltext](https://crates.io/crates/ltext) | 0.2.1 | 0 | λtext: general-purpose text-file templating utility |
-| 2026-11-12 05:25:01 | [rtao-metagraph](https://crates.io/crates/rtao-metagraph) | 0.1.0 | 0 | Bittensor metagraph projections and synchronization. |
-| 2026-11-12 05:26:17 | [cargo-unused](https://crates.io/crates/cargo-unused) | 0.1.2 | 0 | Detect unused pub methods in a Rust workspace |
-| 2026-11-12 05:27:48 | [flui-log](https://crates.io/crates/flui-log) | 0.0.0 | 0 | Reserved name for FLUI, a declarative UI framework for Rust. The real crate wil… |
-| 2026-11-12 05:32:42 | [bungeeoxide-minecraft-v1-14-3](https://crates.io/crates/bungeeoxide-minecraft-v1-14-3) | 0.1.1 | 0 | Minecraft 1.14.3 protocol types |
-| 2026-11-12 05:32:43 | [bungeeoxide-minecraft-v1-14-4](https://crates.io/crates/bungeeoxide-minecraft-v1-14-4) | 0.1.1 | 0 | Minecraft 1.14.4 protocol types |
-| 2026-11-12 05:33:51 | [flui-macros](https://crates.io/crates/flui-macros) | 0.0.0 | 0 | Reserved name for FLUI, a declarative UI framework for Rust. The real crate wil… |
-| 2026-11-12 05:34:59 | [rtao-btauth](https://crates.io/crates/rtao-btauth) | 0.1.0 | 0 | Signed HTTP authentication for Bittensor hotkeys (btauth/1). |
-| 2026-11-12 05:38:41 | [pageon](https://crates.io/crates/pageon) | 0.0.1 | 0 | A browser engine for autonomous agents. |
-| 2026-11-12 05:44:14 | [flui-material](https://crates.io/crates/flui-material) | 0.0.0 | 0 | Reserved name for FLUI, a declarative UI framework for Rust. The real crate wil… |
-| 2026-11-12 05:45:01 | [rtao-compat-epistula](https://crates.io/crates/rtao-compat-epistula) | 0.1.0 | 0 | Epistula v2 signed HTTP headers with upstream dialect presets. |
-| 2026-11-12 05:52:36 | [frona-ontologies](https://crates.io/crates/frona-ontologies) | 0.1.0 | 0 | Prepares published ontologies into small artifacts, and answers subsumption and… |
-| 2026-11-12 05:54:37 | [flui-native](https://crates.io/crates/flui-native) | 0.0.0 | 0 | Reserved name for FLUI, a declarative UI framework for Rust. The real crate wil… |
-| 2026-11-12 05:54:38 | [bungeeoxide-minecraft-v1-15](https://crates.io/crates/bungeeoxide-minecraft-v1-15) | 0.1.1 | 0 | Minecraft 1.15 protocol types |
-| 2026-11-12 05:54:39 | [bungeeoxide-minecraft-v1-15-1](https://crates.io/crates/bungeeoxide-minecraft-v1-15-1) | 0.1.1 | 0 | Minecraft 1.15.1 protocol types |
-| 2026-11-12 05:55:00 | [rtao-compat-synapse](https://crates.io/crates/rtao-compat-synapse) | 0.1.0 | 0 | Wire compatibility with bittensor 10.5.0 Synapse, Axon and Dendrite peers. |
-| 2026-11-12 05:56:01 | [rkat-tui](https://crates.io/crates/rkat-tui) | 0.0.1 | 0 | Interactive terminal coding harness on the Meerkat agent platform, with an auto… |
-| 2026-11-12 06:02:35 | [citta](https://crates.io/crates/citta) | 0.1.0 | 0 | Cross-device capability sharing and task delegation for agents |
-| 2026-11-12 06:03:09 | [wasm2rs-wasi](https://crates.io/crates/wasm2rs-wasi) | 0.1.0 | 0 | Typed WASI 0.2 host for programs transpiled by wasm2rs. |
-| 2026-11-12 06:05:00 | [rtao-neuron](https://crates.io/crates/rtao-neuron) | 0.1.0 | 0 | Bittensor validator, miner and owner runtimes. |
-| 2026-11-12 06:05:00 | [flui-objects](https://crates.io/crates/flui-objects) | 0.0.0 | 0 | Reserved name for FLUI, a declarative UI framework for Rust. The real crate wil… |
-| 2026-11-12 06:14:34 | [versorc-math](https://crates.io/crates/versorc-math) | 0.1.0 | 0 | Low-level Clifford Geometric Algebra, Versor Operators, and High-Dimensional Ma… |
-| 2026-11-12 06:14:59 | [rtao-remote-signer](https://crates.io/crates/rtao-remote-signer) | 0.1.0 | 0 | Policy-checked remote transaction signing over btauth/1 (rtao-remote-signer/1). |
-| 2026-11-12 06:15:23 | [flui-painting](https://crates.io/crates/flui-painting) | 0.0.0 | 0 | Reserved name for FLUI, a declarative UI framework for Rust. The real crate wil… |
-| 2026-11-12 06:15:45 | [bungeeoxide-minecraft-v1-15-2](https://crates.io/crates/bungeeoxide-minecraft-v1-15-2) | 0.1.1 | 0 | Minecraft 1.15.2 protocol types |
-| 2026-11-12 06:15:45 | [bungeeoxide-minecraft-v1-16](https://crates.io/crates/bungeeoxide-minecraft-v1-16) | 0.1.1 | 0 | Minecraft 1.16 protocol types |
+| 2026-11-12 06:23:33 | [vestige-extract](https://crates.io/crates/vestige-extract) | 0.6.0 | 0 | Internal crate for Vestige — LLM extraction provider abstraction for daemon-mod… |
+| 2026-11-12 06:23:44 | [vestige-daemon](https://crates.io/crates/vestige-daemon) | 0.6.0 | 0 | Internal crate for Vestige — background daemon runtime (V0.5). Public API is un… |
+| 2026-11-12 06:24:59 | [rtao-transport-quic](https://crates.io/crates/rtao-transport-quic) | 0.1.0 | 0 | btlightning-compatible QUIC transport for Bittensor neurons, built on quinn. |
+| 2026-11-12 06:25:46 | [flui-platform](https://crates.io/crates/flui-platform) | 0.0.0 | 0 | Reserved name for FLUI, a declarative UI framework for Rust. The real crate wil… |
+| 2026-11-12 06:26:12 | [mokugen](https://crates.io/crates/mokugen) | 0.1.0 | 0 | Binary container inspection and SDK primitives for Mokugen neural audio models. |
+| 2026-11-12 06:28:19 | [craftkit](https://crates.io/crates/craftkit) | 0.1.1 | 0 | Write Minecraft mods in Rust: the protocol a mod speaks with the craftkit host,… |
+| 2026-11-12 06:29:58 | [flui-protocol](https://crates.io/crates/flui-protocol) | 0.0.0 | 0 | Reserved name for FLUI, a declarative UI framework for Rust. The real crate wil… |
+| 2026-11-12 06:35:00 | [rtao](https://crates.io/crates/rtao) | 0.1.0 | 0 | Rust SDK and operator framework for Bittensor subnets. |
+| 2026-11-12 06:36:34 | [bungeeoxide-minecraft-v1-16-1](https://crates.io/crates/bungeeoxide-minecraft-v1-16-1) | 0.1.1 | 0 | Minecraft 1.16.1 protocol types |
+| 2026-11-12 06:36:35 | [bungeeoxide-minecraft-v1-16-2](https://crates.io/crates/bungeeoxide-minecraft-v1-16-2) | 0.1.1 | 0 | Minecraft 1.16.2 protocol types |
+| 2026-11-12 06:40:22 | [flui-rendering](https://crates.io/crates/flui-rendering) | 0.0.0 | 0 | Reserved name for FLUI, a declarative UI framework for Rust. The real crate wil… |
+| 2026-11-12 06:41:00 | [restsend-vnc](https://crates.io/crates/restsend-vnc) | 0.1.0 | 0 | A headless, cross-platform (macOS/Windows) VNC server CLI |
+| 2026-11-12 06:44:39 | [zf-zebrachaos](https://crates.io/crates/zf-zebrachaos) | 0.0.1-rc.0 | 0 | 🦓 🤪 ZebraChaos is a Content Hash Addressable Object Store. It's a lot like Git. |
+| 2026-11-12 06:45:06 | [rtao-cli](https://crates.io/crates/rtao-cli) | 0.1.0 | 0 | The rtao command line application. |
+| 2026-11-12 06:46:35 | [olangc-im](https://crates.io/crates/olangc-im) | 1.0.0-rc.9 | 0 | olang's copy of im 15.1.0 (immutable collection datatypes by Bodil Stokke) with… |
+| 2026-11-12 06:50:44 | [flui-runtime](https://crates.io/crates/flui-runtime) | 0.0.0 | 0 | Reserved name for FLUI, a declarative UI framework for Rust. The real crate wil… |
+| 2026-11-12 06:52:07 | [weirdnet-accounts](https://crates.io/crates/weirdnet-accounts) | 0.1.0 | 0 | Weirdnet accounts: Argon2id passwords, hashed session and email tokens, user-na… |
+| 2026-11-12 06:52:21 | [weirdnet-mcp](https://crates.io/crates/weirdnet-mcp) | 0.1.0 | 0 | Weirdnet MCP: a transport-agnostic Model Context Protocol (JSON-RPC 2.0) tools… |
+| 2026-11-12 06:54:05 | [i18n_lang](https://crates.io/crates/i18n_lang) | 0.2.106 | 0 | i18n_lang |
+| 2026-11-12 06:54:18 | [i18n_conf](https://crates.io/crates/i18n_conf) | 0.2.106 | 0 | 解析 i18n.nt 任务配置（NestedText） |
+| 2026-11-12 06:54:43 | [i18n_cli_conf](https://crates.io/crates/i18n_cli_conf) | 0.2.106 | 0 | i18n_cli_conf |
+| 2026-11-12 06:57:39 | [hessian2-core](https://crates.io/crates/hessian2-core) | 0.1.0 | 0 | Hessian 2.0 serialization primitives: a pull reader and a writer |
+| 2026-11-12 06:59:02 | [bungeeoxide-minecraft-v1-17](https://crates.io/crates/bungeeoxide-minecraft-v1-17) | 0.1.1 | 0 | Minecraft 1.17 protocol types |
+| 2026-11-12 06:59:04 | [bungeeoxide-minecraft-v1-17-1](https://crates.io/crates/bungeeoxide-minecraft-v1-17-1) | 0.1.1 | 0 | Minecraft 1.17.1 protocol types |
+| 2026-11-12 07:01:07 | [flui-scheduler](https://crates.io/crates/flui-scheduler) | 0.0.0 | 0 | Reserved name for FLUI, a declarative UI framework for Rust. The real crate wil… |
+| 2026-11-12 07:02:43 | [giong](https://crates.io/crates/giong) | 0.2.0 | 0 | Gióng — a thread-per-core async runtime for Linux built directly on io_uring |
+| 2026-11-12 07:02:46 | [giong-tls](https://crates.io/crates/giong-tls) | 0.2.0 | 0 | TLS for the giong thread-per-core runtime, built on rustls |
+| 2026-11-12 07:02:49 | [giong-http](https://crates.io/crates/giong-http) | 0.2.0 | 0 | A small, strict HTTP/1.1 server for the giong thread-per-core runtime |
+| 2026-11-12 07:07:17 | [i18n_var](https://crates.io/crates/i18n_var) | 0.2.106 | 0 | 提取并比对字符串中的模板变量 |
+| 2026-11-12 07:07:30 | [i18n_tran](https://crates.io/crates/i18n_tran) | 0.2.106 | 0 | 批量逐行翻译：提示词、分批与修订 |
+| 2026-11-12 07:07:42 | [i18n_os](https://crates.io/crates/i18n_os) | 0.2.106 | 0 | 平台差异原语：路径分隔符归一与父目录落盘 |
+| 2026-11-12 07:07:55 | [i18n_db](https://crates.io/crates/i18n_db) | 0.2.106 | 0 | 纯文本、可 diff 的 i18n 数据库（只追加 + 流式压实） |
+| 2026-11-12 07:11:30 | [flui-sdk](https://crates.io/crates/flui-sdk) | 0.0.0 | 0 | Reserved name for FLUI, a declarative UI framework for Rust. The real crate wil… |
+| 2026-11-12 07:15:43 | [i18n_log](https://crates.io/crates/i18n_log) | 0.2.106 | 0 | 按项目名初始化滚动文件日志 |
+| 2026-11-12 07:16:14 | [pure-sift](https://crates.io/crates/pure-sift) | 0.1.0 | 0 | Pure-Rust US6711293B1 SIFT feature extraction, RANSAC/Homography alignment, vis… |
+| 2026-11-12 07:17:38 | [tcs-xtce](https://crates.io/crates/tcs-xtce) | 0.6.0 | 0 | Flight software: serialization and deserialization of OMG XTCE documents into m… |
+| 2026-11-12 07:20:32 | [bungeeoxide-minecraft-v1-18](https://crates.io/crates/bungeeoxide-minecraft-v1-18) | 0.1.1 | 0 | Minecraft 1.18 protocol types |
+| 2026-11-12 07:20:35 | [bungeeoxide-minecraft-v1-18-2](https://crates.io/crates/bungeeoxide-minecraft-v1-18-2) | 0.1.1 | 0 | Minecraft 1.18.2 protocol types |
+| 2026-11-12 07:20:36 | [bungeeoxide-minecraft-v1-19](https://crates.io/crates/bungeeoxide-minecraft-v1-19) | 0.1.1 | 0 | Minecraft 1.19 protocol types |
 
 ## Data source
 
