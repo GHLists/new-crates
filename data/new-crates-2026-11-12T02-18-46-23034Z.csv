@@ -1,0 +1,45 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-12T01:20:02.523779Z,mannerly,0.1.0,0,0,https://github.com/Baimmmss/mannerly,"Lighthouse for command-line tools: scores any CLI on help, errors, pipes, colors, speed and Ctrl-C, then tells you how to fix it."
+2026-11-12T01:21:57.829775Z,miden-wasm-event-handlers,0.0.0,0,0,https://github.com/0xMiden/miden-vm,Placeholder crate for a Miden VM project
+2026-11-12T01:30:59.523408Z,miden-wasm-event-handlers-project,0.0.0,0,0,https://github.com/0xMiden/miden-vm,Placeholder crate for a Miden VM project
+2026-11-12T01:31:07.245647Z,umf-indexmap-1,1.9.3,0,0,https://github.com/DocumentDrivenDX/umf,UMF registry companion for indexmap. A hash table with consistent order and fast iteration.
+2026-11-12T01:31:11.577916Z,umf-json-syntax,0.12.5,0,0,https://github.com/DocumentDrivenDX/umf,UMF registry companion for json-syntax. Strict JSON parsing and mapping library
+2026-11-12T01:31:29.276181Z,wasmkeep-sdk,0.0.0,0,0,https://github.com/WasmKeep/wasmkeep,Placeholder that reserves the name. The WasmKeep Rust SDK is published here from 0.2.0.
+2026-11-12T01:35:17.944265Z,rightkit-roots,0.1.0,0,0,https://github.com/bogusyogi/rightkit,"Where a Right Suite app keeps its data: the one run-mode decision, the per-user suite root, app roots with their migration, and the crash-safe root cutover."
+2026-11-12T01:35:39.724843Z,bungeeoxide-minecraft-v1-3-2,0.1.1,0,0,,Minecraft 1.3.2 protocol types
+2026-11-12T01:35:42.114465Z,bungeeoxide-minecraft-v1-4-2,0.1.1,0,0,,Minecraft 1.4.2 protocol types
+2026-11-12T01:39:03.724705Z,podforge,0.0.0,0,0,https://github.com/PodUtils/podforge,"Forge backends and platform interop for PodUtils: git hosts, Radicle and other git alternatives behind one interface"
+2026-11-12T01:43:25.623215Z,signwriter,0.2.0,0,0,https://github.com/datenkollektiv/rustyfarian-peripherals,"no_std driver for 128x64 I2C OLEDs: tells an SSD1306 from an SH1106 at runtime, survives hot-plug, and draws through embedded-graphics"
+2026-11-12T01:48:42.758489Z,envelopes-data-integrity,0.6.1,0,0,https://github.com/reallyme/ssi,W3C Data Integrity identity envelope helpers for ReallyMe identity.
+2026-11-12T01:49:08.11554Z,identity-presentation-vp-policy,0.6.1,0,0,https://github.com/reallyme/ssi,Protocol-neutral verifiable presentation policy evaluation.
+2026-11-12T01:49:30.416043Z,pods,0.0.0,0,0,https://github.com/PodUtils/pods,"Umbrella installer for PodUtils tools: install, pin, verify, update and roll back each tool, no root needed."
+2026-11-12T01:49:34.224679Z,reallyme-did-core,0.6.1,0,0,https://github.com/reallyme/ssi,"DID identity-core document generation, validation, canonical state, and update logic."
+2026-11-12T01:49:50.746656Z,reallyme-did-method-cheqd,0.6.1,0,0,https://github.com/reallyme/ssi,did:cheqd namespace and unique identifier helpers.
+2026-11-12T01:50:01.514727Z,reallyme-did-method-jwk,0.6.1,0,0,https://github.com/reallyme/ssi,did:jwk deterministic identifier helpers.
+2026-11-12T01:51:13.433602Z,stackpress-framework-csrf,0.1.0,0,0,https://github.com/stackpress/rust,Source-compatible CSRF token generation and explicit validation
+2026-11-12T01:52:02.608474Z,stackpress-framework-email,0.1.0,0,0,https://github.com/stackpress/rust,Per-call Send email transport contracts and supervised background hooks
+2026-11-12T01:52:18.137077Z,stackpress-idea,0.1.0,0,0,https://github.com/stackpress/rust,Independent Idea generation orchestration
+2026-11-12T01:52:43.074919Z,reallyme-did-method-ebsi,0.6.1,0,0,https://github.com/reallyme/ssi,did:ebsi versioned base58btc identifier helpers.
+2026-11-12T01:55:44.772513Z,ruv-fann-wsp-tensor,0.1.0,0,0,https://github.com/ruvnet/ruv-FANN,"Bounded, streaming Safetensors checkpoint edits for WSP experiments"
+2026-11-12T01:57:12.327206Z,bungeeoxide-minecraft-v1-4-5,0.1.1,0,0,,Minecraft 1.4.5 protocol types
+2026-11-12T01:57:15.012146Z,bungeeoxide-minecraft-v1-4-7,0.1.1,0,0,,Minecraft 1.4.7 protocol types
+2026-11-12T01:59:42.291503Z,podstat,0.0.0,0,0,https://github.com/PodUtils/podstat,"Outside prober and heartbeat: probe HTTPS endpoints and node reachability from several places, alerting once and closing on recovery."
+2026-11-12T02:00:09.774698Z,ct-fp,0.0.1,0,0,https://github.com/power-system/ct-fp,Prime-field arithmetic trait and shared logic for constant-time cryptography
+2026-11-12T02:02:45.799382Z,rightkit-agent-task-contract,0.1.0,0,0,https://github.com/bogusyogi/rightkit,"The agent task contract: task envelope, its ten statuses and legal transitions, principals, intent provenance, effect classes, device references, approval binding on the approvals core and the voice…"
+2026-11-12T02:05:59.774913Z,taba-tauri,0.0.1,0,0,https://github.com/taba-build/taba,"Tauri backend for Taba, a Rolldown-based TypeScript bundler for Rust"
+2026-11-12T02:07:51.9641Z,stackpress-framework-schema,0.1.0,0,0,https://github.com/stackpress/rust,Owned framework schema contracts and explicit build-host normalization
+2026-11-12T02:08:09.383561Z,stackpress-framework-sql,0.1.0,0,0,https://github.com/stackpress/rust,Borrowed generated stores and explicit SQLite migration planning
+2026-11-12T02:08:34.023996Z,stackpress-framework-admin,0.1.0,0,0,https://github.com/stackpress/rust,Public generated UI role adapters and optional deterministic code generation
+2026-11-12T02:09:06.658004Z,rightkit-agent-telemetry,0.1.0,0,0,https://github.com/bogusyogi/rightkit,"Agent runtime telemetry for an agent host: resource metrics, turn latency, round trips, prompt overhead, context ceiling, evidence and repair counters."
+2026-11-12T02:10:30.419029Z,zig-lean,0.1.0,0,0,https://github.com/lean-packages/zig-lean,Validate and optimize Zig package build.zig.zon manifests
+2026-11-12T02:10:51.983529Z,ocloak,0.1.0,0,0,https://github.com/kpcyrd/ocloak,Open RFC 9458 OHTTP Relay
+2026-11-12T02:13:35.810582Z,zeroclaw-rpc-proto,0.9.0,0,0,https://github.com/zeroclaw-labs/zeroclaw,"Wire contract for the ZeroClaw daemon RPC: method name table, request and response types, notification payloads and error codes, shared by the daemon and every RPC client without linking the runtime."
+2026-11-12T02:14:01.776252Z,ct-scalar,0.1.0,0,0,https://github.com/power-system/ct-scalar,Scalar-field trait and shared logic for constant-time cryptography
+2026-11-12T02:14:39.228518Z,zeroclaw-rpc-client,0.9.0,0,0,https://github.com/zeroclaw-labs/zeroclaw,"Client for the ZeroClaw daemon RPC: dial the local socket or any byte stream, run the initialize handshake, multiplex requests, notifications and server-initiated requests, and reconnect with backoff…"
+2026-11-12T02:15:25.613633Z,termelon-vt,0.1.0,0,0,https://github.com/mesa-hills-research/termelon,"A terminal emulator library for Rust, for testing what terminal programs write."
+2026-11-12T02:15:27.999965Z,termelon,0.1.0,0,0,https://github.com/mesa-hills-research/termelon,A terminal user interface library for Rust.
+2026-11-12T02:15:45.696023Z,umf-json-ld-syntax,0.21.4,0,0,https://github.com/DocumentDrivenDX/umf,UMF registry companion for json-ld-syntax. JSON-LD syntax
+2026-11-12T02:15:50.30854Z,umf-linked-data,0.1.2,0,0,https://github.com/DocumentDrivenDX/umf,UMF registry companion for linked-data. Linked-Data dateset serialization/deserialization traits
+2026-11-12T02:15:54.752154Z,umf-json-ld-core,0.21.4,0,0,https://github.com/DocumentDrivenDX/umf,UMF registry companion for json-ld-core. JSON-LD core types and traits
+2026-11-12T02:15:59.463535Z,umf-json-ld-context-processing,0.21.4,0,0,https://github.com/DocumentDrivenDX/umf,UMF registry companion for json-ld-context-processing. JSON-LD context processing implementation
+2026-11-12T02:16:03.698697Z,umf-json-ld-serialization,0.21.4,0,0,https://github.com/DocumentDrivenDX/umf,UMF registry companion for json-ld-serialization. JSON-LD serialization
