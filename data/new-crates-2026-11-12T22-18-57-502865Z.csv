@@ -1,0 +1,19 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-12T21:21:21.414134Z,refresh-machines,0.2.0,0,0,,Fresh/stale/expired cache metadata with stale-while-revalidate and stale-if-error decisions
+2026-11-12T21:25:48.266831Z,spillgate,0.1.0,0,0,https://github.com/FelixMiddelhoff/spillgate-rust,"Decode untrusted compressed data (gzip, deflate, brotli, zstd) with mandatory limits: decompression bombs end in typed errors."
+2026-11-12T21:39:25.326059Z,already-tested,0.1.0,0,0,https://github.com/dblock/already-tested,"Skip duplicate CI with trusted, content-matched local-test claims."
+2026-11-12T21:52:38.126728Z,worldinterface-protocol,0.2.0-alpha.1,0,0,https://github.com/zed-colonel/worldinterface,Protocol layer for WorldInterface durable embedded workflows
+2026-11-12T21:52:49.324297Z,worldinterface-capability,0.2.0-alpha.1,0,0,https://github.com/zed-colonel/worldinterface,Capability layer for WorldInterface durable embedded workflows
+2026-11-12T21:53:00.349155Z,worldinterface-domain,0.2.0-alpha.1,0,0,https://github.com/zed-colonel/worldinterface,Domain layer for WorldInterface durable embedded workflows
+2026-11-12T21:53:11.486789Z,worldinterface-storage,0.2.0-alpha.1,0,0,https://github.com/zed-colonel/worldinterface,Storage layer for WorldInterface durable embedded workflows
+2026-11-12T21:53:22.265108Z,worldinterface-worker,0.2.0-alpha.1,0,0,https://github.com/zed-colonel/worldinterface,Worker layer for WorldInterface durable embedded workflows
+2026-11-12T21:53:33.052021Z,worldinterface-egress,0.2.0-alpha.1,0,0,https://github.com/zed-colonel/worldinterface,Egress layer for WorldInterface durable embedded workflows
+2026-11-12T21:55:28.788332Z,tinsel,0.1.0,0,0,https://github.com/borhara/tinsel,"Clean, pink-hued terminal output with a little sparkle: live step lists, spinners, tables, trees, prompts and more. Zero dependencies."
+2026-11-12T21:58:42.225256Z,whatsup-cli,0.1.0,0,0,https://github.com/GeekyAsif786/whatsup,"See what is listening on your dev machine: ports, dev servers, databases and containers"
+2026-11-12T22:02:52.556729Z,worldinterface-ingress,0.2.0-alpha.1,0,0,https://github.com/zed-colonel/worldinterface,Ingress layer for WorldInterface durable embedded workflows
+2026-11-12T22:09:13.271036Z,rightkit-agent-daemon,0.1.0,0,0,https://github.com/bogusyogi/rightkit,"Daemon primitives for an agent host: trusted-source authority gate, daemon settings, live-turn handle and the lifecycle authority behind every operator surface."
+2026-11-12T22:10:35.613797Z,astro-calc-core,0.1.0,0,0,https://github.com/neilg63/astro-calc-core,"Pure-Rust ephemeris core: planetary positions, angles, ayanamshas, rise/set and stations from JPL data"
+2026-11-12T22:10:46.258367Z,groovyfmt,0.9.2,0,0,https://github.com/costajohnt/groovyfmt,"Fast formatter and linter for Groovy, Gradle build scripts, and Jenkinsfiles"
+2026-11-12T22:12:51.506238Z,worldinterface-runtime,0.2.0-alpha.1,0,0,https://github.com/zed-colonel/worldinterface,Runtime layer for WorldInterface durable embedded workflows
+2026-11-12T22:14:18.630953Z,lexio-rent,0.1.0,0,0,https://github.com/lexio-rent-git/lexio-rust,"Async client for the Lexio Rent API (car rental software): fleet, rentals, quotes, customers, payments and maintenance."
+2026-11-12T22:15:18.12435Z,rustydemon-gr2,0.5.1,0,0,https://github.com/HoldMyBeer-gg/rustydemon,Granny3D (.gr2) reader used by Rusty Demon for D2R .model files
