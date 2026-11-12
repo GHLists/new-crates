@@ -1,0 +1,35 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-12T07:21:53.454426Z,flui-semantics,0.0.0,0,0,https://github.com/vanyastaff/flui,"Reserved name for FLUI, a declarative UI framework for Rust. The real crate will be published from the repository."
+2026-11-12T07:27:50.30467Z,tree-sitter-gsql,1.0.2,0,0,https://github.com/abrahamchandy95/gsql-lsp,TigerGraph GSQL grammar for tree-sitter
+2026-11-12T07:28:05.079883Z,gsql-lsp,1.0.2,0,0,https://github.com/abrahamchandy95/gsql-lsp,Language server for TigerGraph GSQL
+2026-11-12T07:29:39.497132Z,meshloop-context,0.3.0,0,0,https://github.com/smota/meshloop,"Context engineering for Meshloop: AST skeleton extraction, Tier 1 reader, and prompt caching."
+2026-11-12T07:29:48.748332Z,myanmar-date,0.1.0,0,0,https://github.com/Mr-Zer0/mmdate,"Conversion between Gregorian and Myanmar (Burmese) lunisolar calendar dates, ported from yan9a/mmcal."
+2026-11-12T07:32:16.232957Z,flui-system,0.0.0,0,0,https://github.com/vanyastaff/flui,"Reserved name for FLUI, a declarative UI framework for Rust. The real crate will be published from the repository."
+2026-11-12T07:32:17.352767Z,natx-sqlite,1.0.0,0,0,https://github.com/nasa-runtime/nasa-runtime-rust,"Managed SQLite file ownership, bounded SQL execution, ambient transactions and consistent backups"
+2026-11-12T07:39:27.825209Z,kafka-native,0.41.0,0,0,,"Kafka protocol client for grpc-dc: dependency-free Kafka wire implementation behind the grpcdc.kafka.v1 service, usable in-process (library) or via the kafka_proxy sidecar"
+2026-11-12T07:41:22.527846Z,eggs-derive,0.1.1,0,0,https://github.com/romishalom/eggs,Derive macro for the `eggs` crate
+2026-11-12T07:41:48.182564Z,bungeeoxide-minecraft-v1-19-2,0.1.1,0,0,,Minecraft 1.19.2 protocol types
+2026-11-12T07:41:50.775173Z,bungeeoxide-minecraft-v1-19-3,0.1.1,0,0,,Minecraft 1.19.3 protocol types
+2026-11-12T07:41:50.85268Z,eggs,0.1.2,0,0,https://github.com/romishalom/eggs,"Type-safe snapshots, diffs, patches and undo/redo history for Rust application state"
+2026-11-12T07:42:39.234064Z,flui-testing,0.0.0,0,0,https://github.com/vanyastaff/flui,"Reserved name for FLUI, a declarative UI framework for Rust. The real crate will be published from the repository."
+2026-11-12T07:48:45.357068Z,backhopper-jigsaw,0.37.0,0,0,https://github.com/michaelklishin/backhopper,Reads an Erlang plugin set into the references backhopper's jigsaw check compares
+2026-11-12T07:50:57.619552Z,weirdnet-update,0.1.0,0,0,https://github.com/WeirdBrains/weirdnet-update,"Weirdnet update metadata: org roots with k-of-n Ed25519 keys and release-key delegations, signed update manifests, optional timestamp freshness and revocation, anti-rollback state, on-device targetin…"
+2026-11-12T07:51:52.985241Z,fltk-splash,0.1.0,0,0,https://github.com/huanghu578/fltk-splash,A lightweight FLTK-based splash screen with Base64 background image and clickable links
+2026-11-12T07:52:23.416644Z,i18n_fmt,0.2.107,0,0,https://github.com/i18n-site/i18n.site,格式无关的翻译抽象：按文档顺序取值、回写译文，保留原始字节
+2026-11-12T07:52:35.649617Z,i18n_fmt_json,0.2.107,0,0,https://github.com/i18n-site/i18n.site,JSON / JSON5 格式：只替换字符串值
+2026-11-12T07:53:39.73775Z,peakmark,0.1.0,0,0,https://github.com/casoon/peakmark,Gate WebAssembly modules on size and memory against a baseline kept in the repository
+2026-11-12T07:55:43.788415Z,i18n_fmt_md,0.2.107,0,0,https://github.com/i18n-site/i18n.site,Markdown 格式：整篇作为一个值
+2026-11-12T07:57:41.012901Z,edsger,0.0.0,0,0,,Small library for Cardano smart-contract operators
+2026-11-12T08:03:09.369604Z,bungeeoxide-minecraft-v1-19-4,0.1.1,0,0,,Minecraft 1.19.4 protocol types
+2026-11-12T08:03:10.640762Z,bungeeoxide-minecraft-v1-20,0.1.1,0,0,,Minecraft 1.20 protocol types
+2026-11-12T08:05:43.980115Z,i18n_fmt_nt,0.2.107,0,0,https://github.com/i18n-site/i18n.site,NestedText 格式支持
+2026-11-12T08:07:18.397466Z,system2-shared,0.1.0,0,0,https://github.com/jhartquist/system2,The code that system2 and its macros share. It is not a public API.
+2026-11-12T08:07:20.16824Z,system2-macros,0.1.0,0,0,https://github.com/jhartquist/system2,The macros of system2.
+2026-11-12T08:07:22.533451Z,fleetwire,0.1.0,0,0,https://github.com/fleetwire-dev/fleetwire-rs,Unofficial read-only client for the Tesla Fleet API
+2026-11-12T08:08:30.892873Z,axe-os,0.2.1,0,0,https://github.com/popodidi/axe,A self-hosted task queue and dispatcher for coding agents
+2026-11-12T08:09:09.453851Z,ayelwinsoe_hello_world,0.1.0,0,0,https://github.com/rust-lang/cargo,A short description of my package
+2026-11-12T08:09:47.931082Z,symphonia-opus,0.1.0,0,0,https://github.com/jiztastamablastamarang/symphonia-opus,"100% safe, pure-Rust Opus audio decoder (RFC 6716 / RFC 7845 / RFC 8251) for Symphonia."
+2026-11-12T08:11:03.750887Z,namapper-sqlite,1.0.0,0,0,https://github.com/nasa-runtime/nasa-runtime-rust,"Declarative SQLite Mapper and SQL macros with napp-managed datasources, transactions and bounded results"
+2026-11-12T08:11:15.474228Z,namigrate-sqlite,1.0.0,0,0,https://github.com/nasa-runtime/nasa-runtime-rust,Atomic SQLite schema migration and validation gates for napp-managed file datasources
+2026-11-12T08:15:43.631579Z,i18n_fmt_toml,0.2.107,0,0,https://github.com/i18n-site/i18n.site,TOML 格式：只替换字符串值
+2026-11-12T08:16:48.703091Z,owned-seq-patterns,0.1.0,0,0,https://github.com/A4-Tacks/owned-seq-patterns-rs,"Some helper functions, owned matching seq values, like if let [a, b, ..] = vec![x,y,z]"
