@@ -1,0 +1,34 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-12T08:24:34.015038Z,corpora-agent,0.1.1,0,0,https://github.com/exegia/corpora-core,AI skills and agentic workflow runtime for the Corpora apps suite
+2026-11-12T08:24:56.956952Z,bungeeoxide-minecraft-v1-20-2,0.1.1,0,0,,Minecraft 1.20.2 protocol types
+2026-11-12T08:24:58.20735Z,bungeeoxide-minecraft-v1-20-3,0.1.1,0,0,,Minecraft 1.20.3 protocol types
+2026-11-12T08:25:44.554721Z,i18n_fmt_yaml,0.2.108,0,0,https://github.com/i18n-site/i18n.site,YAML 格式：只替换值标量
+2026-11-12T08:28:46.576286Z,opentoken-core,0.0.1,0,0,https://git.opentokencloud.io/TokeNautLab/opentoken-rust-cli,"Core library for the OpenToken CLI: reads and writes AI coding tool configs (Claude Code, Codex, OpenCode, Hermes, ...) and syncs CC Switch. OpenToken 配置核心库。"
+2026-11-12T08:29:57.055895Z,prometheus-expfmt,0.1.0,0,0,https://github.com/prometheus/scrape.rs,Prometheus and OpenMetrics wire exposition format decoders for Apache Arrow (OTAP) and Protobuf DTOs
+2026-11-12T08:29:57.858473Z,prometheus-relabel,0.1.0,0,0,https://github.com/prometheus/scrape.rs,Prometheus-compatible target and metric label relabeling (relabel_configs and metric_relabel_configs)
+2026-11-12T08:33:56.947204Z,frona-derive,0.1.0,0,0,https://git.mcx.ai/mina/frona,Procedural macros for Frona harness tools and Frona application integration
+2026-11-12T08:33:57.324751Z,frona-model-catalog,0.1.0,0,0,https://git.mcx.ai/mina/frona,"Validated model metadata, parameter schemas, and cached catalog snapshots"
+2026-11-12T08:33:57.763562Z,frona-text,0.1.0,0,0,https://git.mcx.ai/mina/frona,"Unicode-aware text matching, prompt templates, and configurable redaction"
+2026-11-12T08:33:59.89755Z,frona-harness,0.1.0,0,0,https://git.mcx.ai/mina/frona,Embeddable model and tool execution with structured refinement and custom loops
+2026-11-12T08:34:02.323948Z,frona-pkm,0.1.0,0,0,https://git.mcx.ai/mina/frona,Composable personal knowledge memory phases with caller-owned persistence
+2026-11-12T08:35:43.833778Z,i18n_progress,0.2.108,0,0,https://github.com/i18n-site/i18n.site,加权进度与剩余时间估算
+2026-11-12T08:37:47.246105Z,zeusbuilder,0.0.1,0,0,https://github.com/zeusbuilder,ZEUS Builder — official crate name reservation. See https://zeusbuilder.io
+2026-11-12T08:37:53.093303Z,zeussolver,0.0.1,0,0,https://github.com/zeussolver,ZEUS Solver — official crate name reservation. See https://zeussolver.com
+2026-11-12T08:37:59.469698Z,zeusrelay,0.0.1,0,0,https://github.com/zeusrelay,ZEUS Relay — official crate name reservation. See https://zeusrelay.xyz
+2026-11-12T08:45:44.607794Z,i18n_sdk,0.2.108,0,0,https://github.com/i18n-site/i18n.site,批量多格式 i18n 翻译流水线核心 SDK
+2026-11-12T08:45:58.628514Z,bungeeoxide-minecraft-v1-20-5,0.1.1,0,0,,Minecraft 1.20.5 protocol types
+2026-11-12T08:46:01.287726Z,bungeeoxide-minecraft-v1-21-1,0.1.1,0,0,,Minecraft 1.21.1 protocol types
+2026-11-12T08:50:43.890661Z,silverhamu-client,0.2.0,0,0,https://github.com/dhq-boiler/SilverHamu,Synchronous TCP and TLS client for the SilverHamu service
+2026-11-12T08:56:52.207504Z,i18n_ui,0.2.108,0,0,https://github.com/i18n-site/i18n.site,i18n 翻译进度终端界面：交互式并发面板与非交互逐行输出
+2026-11-12T09:01:27.755559Z,pandrosion476-standalone,0.476.0,0,0,,"Dependency-free standalone Rust solver for real and complex nonlinear systems and least squares, with a scale-invariant Levenberg-Marquardt lane"
+2026-11-12T09:03:47.456164Z,den-tui,0.1.0,0,0,https://github.com/fran0x/den,"A read-only terminal inspector for your developer machine: Homebrew, Codex and Claude Code, AWS, Kubernetes, Docker and toolchains"
+2026-11-12T09:07:15.910495Z,bungeeoxide-minecraft-v1-21-3,0.1.1,0,0,,Minecraft 1.21.3 protocol types
+2026-11-12T09:07:18.953512Z,bungeeoxide-minecraft-v1-21-4,0.1.1,0,0,,Minecraft 1.21.4 protocol types
+2026-11-12T09:07:56.32859Z,salty-core,0.1.0,0,0,https://github.com/WeirdBrains/salty-gull,"Salty Gull service core: apps, channels, verified roots and manifests, content-addressed blobs (SQLite)."
+2026-11-12T09:08:07.21058Z,salty-client,0.1.0,0,0,https://github.com/WeirdBrains/salty-gull,"Salty Gull device updater: verified, consented desktop updates with installers, trial boots and rollback."
+2026-11-12T09:12:26.065028Z,aprender-legacy-codec,0.72.5,0,0,https://github.com/paiml/aprender,"serde codec that reads and writes the bincode 1.x legacy layout byte-for-byte (fixint, little-endian), without the unmaintained bincode crate (RUSTSEC-2025-0141)"
+2026-11-12T09:12:56.894659Z,malmal,0.1.0,0,0,https://github.com/nguyenthuan155632/malmal,"Upload scanner for images, SVG, PDF and PostScript files"
+2026-11-12T09:14:14.492618Z,malmal-ffi,0.1.0,0,0,https://github.com/nguyenthuan155632/malmal,C ABI for the malmal upload scanner
+2026-11-12T09:15:52.475007Z,walkit,0.10.0,0,0,https://github.com/mattijsf/walkit,"Modern Winamp skin engine: .wal skins, MAKI scripts, a draw list for any renderer"
+2026-11-12T09:16:24.481464Z,malmal-cli,0.1.0,0,0,https://github.com/nguyenthuan155632/malmal,Command-line scanner and daemon for the malmal upload scanner
+2026-11-12T09:17:40.286792Z,kividb,1.2.1,0,0,https://github.com/kividbio/kividb,A fast Redis®-compatible in-memory store written in Rust

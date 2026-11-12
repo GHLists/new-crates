@@ -8,48 +8,47 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-12 08:20 UTC
+## Latest list — 2026-11-12 09:18 UTC
 
-New crates published between 2026-11-12 07:21 UTC and 2026-11-12 08:20 UTC.
+New crates published between 2026-11-12 08:20 UTC and 2026-11-12 09:18 UTC.
 
-[Full CSV](data/new-crates-2026-11-12T08-20-03-385391Z.csv)
+[Full CSV](data/new-crates-2026-11-12T09-18-53-247072Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-12 07:21:53 | [flui-semantics](https://crates.io/crates/flui-semantics) | 0.0.0 | 0 | Reserved name for FLUI, a declarative UI framework for Rust. The real crate wil… |
-| 2026-11-12 07:27:50 | [tree-sitter-gsql](https://crates.io/crates/tree-sitter-gsql) | 1.0.2 | 0 | TigerGraph GSQL grammar for tree-sitter |
-| 2026-11-12 07:28:05 | [gsql-lsp](https://crates.io/crates/gsql-lsp) | 1.0.2 | 0 | Language server for TigerGraph GSQL |
-| 2026-11-12 07:29:39 | [meshloop-context](https://crates.io/crates/meshloop-context) | 0.3.0 | 0 | Context engineering for Meshloop: AST skeleton extraction, Tier 1 reader, and p… |
-| 2026-11-12 07:29:48 | [myanmar-date](https://crates.io/crates/myanmar-date) | 0.1.0 | 0 | Conversion between Gregorian and Myanmar (Burmese) lunisolar calendar dates, po… |
-| 2026-11-12 07:32:16 | [flui-system](https://crates.io/crates/flui-system) | 0.0.0 | 0 | Reserved name for FLUI, a declarative UI framework for Rust. The real crate wil… |
-| 2026-11-12 07:32:17 | [natx-sqlite](https://crates.io/crates/natx-sqlite) | 1.0.0 | 0 | Managed SQLite file ownership, bounded SQL execution, ambient transactions and… |
-| 2026-11-12 07:39:27 | [kafka-native](https://crates.io/crates/kafka-native) | 0.41.0 | 0 | Kafka protocol client for grpc-dc: dependency-free Kafka wire implementation be… |
-| 2026-11-12 07:41:22 | [eggs-derive](https://crates.io/crates/eggs-derive) | 0.1.1 | 0 | Derive macro for the `eggs` crate |
-| 2026-11-12 07:41:48 | [bungeeoxide-minecraft-v1-19-2](https://crates.io/crates/bungeeoxide-minecraft-v1-19-2) | 0.1.1 | 0 | Minecraft 1.19.2 protocol types |
-| 2026-11-12 07:41:50 | [bungeeoxide-minecraft-v1-19-3](https://crates.io/crates/bungeeoxide-minecraft-v1-19-3) | 0.1.1 | 0 | Minecraft 1.19.3 protocol types |
-| 2026-11-12 07:41:50 | [eggs](https://crates.io/crates/eggs) | 0.1.2 | 0 | Type-safe snapshots, diffs, patches and undo/redo history for Rust application… |
-| 2026-11-12 07:42:39 | [flui-testing](https://crates.io/crates/flui-testing) | 0.0.0 | 0 | Reserved name for FLUI, a declarative UI framework for Rust. The real crate wil… |
-| 2026-11-12 07:48:45 | [backhopper-jigsaw](https://crates.io/crates/backhopper-jigsaw) | 0.37.0 | 0 | Reads an Erlang plugin set into the references backhopper's jigsaw check compar… |
-| 2026-11-12 07:50:57 | [weirdnet-update](https://crates.io/crates/weirdnet-update) | 0.1.0 | 0 | Weirdnet update metadata: org roots with k-of-n Ed25519 keys and release-key de… |
-| 2026-11-12 07:51:52 | [fltk-splash](https://crates.io/crates/fltk-splash) | 0.1.0 | 0 | A lightweight FLTK-based splash screen with Base64 background image and clickab… |
-| 2026-11-12 07:52:23 | [i18n_fmt](https://crates.io/crates/i18n_fmt) | 0.2.107 | 0 | 格式无关的翻译抽象：按文档顺序取值、回写译文，保留原始字节 |
-| 2026-11-12 07:52:35 | [i18n_fmt_json](https://crates.io/crates/i18n_fmt_json) | 0.2.107 | 0 | JSON / JSON5 格式：只替换字符串值 |
-| 2026-11-12 07:53:39 | [peakmark](https://crates.io/crates/peakmark) | 0.1.0 | 0 | Gate WebAssembly modules on size and memory against a baseline kept in the repo… |
-| 2026-11-12 07:55:43 | [i18n_fmt_md](https://crates.io/crates/i18n_fmt_md) | 0.2.107 | 0 | Markdown 格式：整篇作为一个值 |
-| 2026-11-12 07:57:41 | [edsger](https://crates.io/crates/edsger) | 0.0.0 | 0 | Small library for Cardano smart-contract operators |
-| 2026-11-12 08:03:09 | [bungeeoxide-minecraft-v1-19-4](https://crates.io/crates/bungeeoxide-minecraft-v1-19-4) | 0.1.1 | 0 | Minecraft 1.19.4 protocol types |
-| 2026-11-12 08:03:10 | [bungeeoxide-minecraft-v1-20](https://crates.io/crates/bungeeoxide-minecraft-v1-20) | 0.1.1 | 0 | Minecraft 1.20 protocol types |
-| 2026-11-12 08:05:43 | [i18n_fmt_nt](https://crates.io/crates/i18n_fmt_nt) | 0.2.107 | 0 | NestedText 格式支持 |
-| 2026-11-12 08:07:18 | [system2-shared](https://crates.io/crates/system2-shared) | 0.1.0 | 0 | The code that system2 and its macros share. It is not a public API. |
-| 2026-11-12 08:07:20 | [system2-macros](https://crates.io/crates/system2-macros) | 0.1.0 | 0 | The macros of system2. |
-| 2026-11-12 08:07:22 | [fleetwire](https://crates.io/crates/fleetwire) | 0.1.0 | 0 | Unofficial read-only client for the Tesla Fleet API |
-| 2026-11-12 08:08:30 | [axe-os](https://crates.io/crates/axe-os) | 0.2.1 | 0 | A self-hosted task queue and dispatcher for coding agents |
-| 2026-11-12 08:09:09 | [ayelwinsoe_hello_world](https://crates.io/crates/ayelwinsoe_hello_world) | 0.1.0 | 0 | A short description of my package |
-| 2026-11-12 08:09:47 | [symphonia-opus](https://crates.io/crates/symphonia-opus) | 0.1.0 | 0 | 100% safe, pure-Rust Opus audio decoder (RFC 6716 / RFC 7845 / RFC 8251) for Sy… |
-| 2026-11-12 08:11:03 | [namapper-sqlite](https://crates.io/crates/namapper-sqlite) | 1.0.0 | 0 | Declarative SQLite Mapper and SQL macros with napp-managed datasources, transac… |
-| 2026-11-12 08:11:15 | [namigrate-sqlite](https://crates.io/crates/namigrate-sqlite) | 1.0.0 | 0 | Atomic SQLite schema migration and validation gates for napp-managed file datas… |
-| 2026-11-12 08:15:43 | [i18n_fmt_toml](https://crates.io/crates/i18n_fmt_toml) | 0.2.107 | 0 | TOML 格式：只替换字符串值 |
-| 2026-11-12 08:16:48 | [owned-seq-patterns](https://crates.io/crates/owned-seq-patterns) | 0.1.0 | 0 | Some helper functions, owned matching seq values, like if let [a, b, ..] = vec!… |
+| 2026-11-12 08:24:34 | [corpora-agent](https://crates.io/crates/corpora-agent) | 0.1.1 | 0 | AI skills and agentic workflow runtime for the Corpora apps suite |
+| 2026-11-12 08:24:56 | [bungeeoxide-minecraft-v1-20-2](https://crates.io/crates/bungeeoxide-minecraft-v1-20-2) | 0.1.1 | 0 | Minecraft 1.20.2 protocol types |
+| 2026-11-12 08:24:58 | [bungeeoxide-minecraft-v1-20-3](https://crates.io/crates/bungeeoxide-minecraft-v1-20-3) | 0.1.1 | 0 | Minecraft 1.20.3 protocol types |
+| 2026-11-12 08:25:44 | [i18n_fmt_yaml](https://crates.io/crates/i18n_fmt_yaml) | 0.2.108 | 0 | YAML 格式：只替换值标量 |
+| 2026-11-12 08:28:46 | [opentoken-core](https://crates.io/crates/opentoken-core) | 0.0.1 | 0 | Core library for the OpenToken CLI: reads and writes AI coding tool configs (Cl… |
+| 2026-11-12 08:29:57 | [prometheus-expfmt](https://crates.io/crates/prometheus-expfmt) | 0.1.0 | 0 | Prometheus and OpenMetrics wire exposition format decoders for Apache Arrow (OT… |
+| 2026-11-12 08:29:57 | [prometheus-relabel](https://crates.io/crates/prometheus-relabel) | 0.1.0 | 0 | Prometheus-compatible target and metric label relabeling (relabel_configs and m… |
+| 2026-11-12 08:33:56 | [frona-derive](https://crates.io/crates/frona-derive) | 0.1.0 | 0 | Procedural macros for Frona harness tools and Frona application integration |
+| 2026-11-12 08:33:57 | [frona-model-catalog](https://crates.io/crates/frona-model-catalog) | 0.1.0 | 0 | Validated model metadata, parameter schemas, and cached catalog snapshots |
+| 2026-11-12 08:33:57 | [frona-text](https://crates.io/crates/frona-text) | 0.1.0 | 0 | Unicode-aware text matching, prompt templates, and configurable redaction |
+| 2026-11-12 08:33:59 | [frona-harness](https://crates.io/crates/frona-harness) | 0.1.0 | 0 | Embeddable model and tool execution with structured refinement and custom loops |
+| 2026-11-12 08:34:02 | [frona-pkm](https://crates.io/crates/frona-pkm) | 0.1.0 | 0 | Composable personal knowledge memory phases with caller-owned persistence |
+| 2026-11-12 08:35:43 | [i18n_progress](https://crates.io/crates/i18n_progress) | 0.2.108 | 0 | 加权进度与剩余时间估算 |
+| 2026-11-12 08:37:47 | [zeusbuilder](https://crates.io/crates/zeusbuilder) | 0.0.1 | 0 | ZEUS Builder — official crate name reservation. See https://zeusbuilder.io |
+| 2026-11-12 08:37:53 | [zeussolver](https://crates.io/crates/zeussolver) | 0.0.1 | 0 | ZEUS Solver — official crate name reservation. See https://zeussolver.com |
+| 2026-11-12 08:37:59 | [zeusrelay](https://crates.io/crates/zeusrelay) | 0.0.1 | 0 | ZEUS Relay — official crate name reservation. See https://zeusrelay.xyz |
+| 2026-11-12 08:45:44 | [i18n_sdk](https://crates.io/crates/i18n_sdk) | 0.2.108 | 0 | 批量多格式 i18n 翻译流水线核心 SDK |
+| 2026-11-12 08:45:58 | [bungeeoxide-minecraft-v1-20-5](https://crates.io/crates/bungeeoxide-minecraft-v1-20-5) | 0.1.1 | 0 | Minecraft 1.20.5 protocol types |
+| 2026-11-12 08:46:01 | [bungeeoxide-minecraft-v1-21-1](https://crates.io/crates/bungeeoxide-minecraft-v1-21-1) | 0.1.1 | 0 | Minecraft 1.21.1 protocol types |
+| 2026-11-12 08:50:43 | [silverhamu-client](https://crates.io/crates/silverhamu-client) | 0.2.0 | 0 | Synchronous TCP and TLS client for the SilverHamu service |
+| 2026-11-12 08:56:52 | [i18n_ui](https://crates.io/crates/i18n_ui) | 0.2.108 | 0 | i18n 翻译进度终端界面：交互式并发面板与非交互逐行输出 |
+| 2026-11-12 09:01:27 | [pandrosion476-standalone](https://crates.io/crates/pandrosion476-standalone) | 0.476.0 | 0 | Dependency-free standalone Rust solver for real and complex nonlinear systems a… |
+| 2026-11-12 09:03:47 | [den-tui](https://crates.io/crates/den-tui) | 0.1.0 | 0 | A read-only terminal inspector for your developer machine: Homebrew, Codex and… |
+| 2026-11-12 09:07:15 | [bungeeoxide-minecraft-v1-21-3](https://crates.io/crates/bungeeoxide-minecraft-v1-21-3) | 0.1.1 | 0 | Minecraft 1.21.3 protocol types |
+| 2026-11-12 09:07:18 | [bungeeoxide-minecraft-v1-21-4](https://crates.io/crates/bungeeoxide-minecraft-v1-21-4) | 0.1.1 | 0 | Minecraft 1.21.4 protocol types |
+| 2026-11-12 09:07:56 | [salty-core](https://crates.io/crates/salty-core) | 0.1.0 | 0 | Salty Gull service core: apps, channels, verified roots and manifests, content-… |
+| 2026-11-12 09:08:07 | [salty-client](https://crates.io/crates/salty-client) | 0.1.0 | 0 | Salty Gull device updater: verified, consented desktop updates with installers,… |
+| 2026-11-12 09:12:26 | [aprender-legacy-codec](https://crates.io/crates/aprender-legacy-codec) | 0.72.5 | 0 | serde codec that reads and writes the bincode 1.x legacy layout byte-for-byte (… |
+| 2026-11-12 09:12:56 | [malmal](https://crates.io/crates/malmal) | 0.1.0 | 0 | Upload scanner for images, SVG, PDF and PostScript files |
+| 2026-11-12 09:14:14 | [malmal-ffi](https://crates.io/crates/malmal-ffi) | 0.1.0 | 0 | C ABI for the malmal upload scanner |
+| 2026-11-12 09:15:52 | [walkit](https://crates.io/crates/walkit) | 0.10.0 | 0 | Modern Winamp skin engine: .wal skins, MAKI scripts, a draw list for any render… |
+| 2026-11-12 09:16:24 | [malmal-cli](https://crates.io/crates/malmal-cli) | 0.1.0 | 0 | Command-line scanner and daemon for the malmal upload scanner |
+| 2026-11-12 09:17:40 | [kividb](https://crates.io/crates/kividb) | 1.2.1 | 0 | A fast Redis®-compatible in-memory store written in Rust |
 
 ## Data source
 
