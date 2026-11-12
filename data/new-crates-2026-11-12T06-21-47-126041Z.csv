@@ -1,0 +1,27 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-12T05:23:16.743172Z,ltext,0.2.1,0,0,https://github.com/ltext/ltext,λtext: general-purpose text-file templating utility
+2026-11-12T05:25:01.384033Z,rtao-metagraph,0.1.0,0,0,https://github.com/sam0x17/rtao,Bittensor metagraph projections and synchronization.
+2026-11-12T05:26:17.066344Z,cargo-unused,0.1.2,0,0,https://github.com/x-at-01/cargo-unused,Detect unused pub methods in a Rust workspace
+2026-11-12T05:27:48.784034Z,flui-log,0.0.0,0,0,https://github.com/vanyastaff/flui,"Reserved name for FLUI, a declarative UI framework for Rust. The real crate will be published from the repository."
+2026-11-12T05:32:42.439171Z,bungeeoxide-minecraft-v1-14-3,0.1.1,0,0,,Minecraft 1.14.3 protocol types
+2026-11-12T05:32:43.182551Z,bungeeoxide-minecraft-v1-14-4,0.1.1,0,0,,Minecraft 1.14.4 protocol types
+2026-11-12T05:33:51.318827Z,flui-macros,0.0.0,0,0,https://github.com/vanyastaff/flui,"Reserved name for FLUI, a declarative UI framework for Rust. The real crate will be published from the repository."
+2026-11-12T05:34:59.614545Z,rtao-btauth,0.1.0,0,0,https://github.com/sam0x17/rtao,Signed HTTP authentication for Bittensor hotkeys (btauth/1).
+2026-11-12T05:38:41.841171Z,pageon,0.0.1,0,0,https://github.com/hupe1980/pageon,A browser engine for autonomous agents.
+2026-11-12T05:44:14.527254Z,flui-material,0.0.0,0,0,https://github.com/vanyastaff/flui,"Reserved name for FLUI, a declarative UI framework for Rust. The real crate will be published from the repository."
+2026-11-12T05:45:01.423393Z,rtao-compat-epistula,0.1.0,0,0,https://github.com/sam0x17/rtao,Epistula v2 signed HTTP headers with upstream dialect presets.
+2026-11-12T05:52:36.476171Z,frona-ontologies,0.1.0,0,0,https://github.com/fronalabs/frona-ontologies,"Prepares published ontologies into small artifacts, and answers subsumption and disjointness over them without materialising"
+2026-11-12T05:54:37.49365Z,flui-native,0.0.0,0,0,https://github.com/vanyastaff/flui,"Reserved name for FLUI, a declarative UI framework for Rust. The real crate will be published from the repository."
+2026-11-12T05:54:38.196247Z,bungeeoxide-minecraft-v1-15,0.1.1,0,0,,Minecraft 1.15 protocol types
+2026-11-12T05:54:39.482471Z,bungeeoxide-minecraft-v1-15-1,0.1.1,0,0,,Minecraft 1.15.1 protocol types
+2026-11-12T05:55:00.334722Z,rtao-compat-synapse,0.1.0,0,0,https://github.com/sam0x17/rtao,"Wire compatibility with bittensor 10.5.0 Synapse, Axon and Dendrite peers."
+2026-11-12T05:56:01.557163Z,rkat-tui,0.0.1,0,0,https://github.com/zond/rkat-tui,"Interactive terminal coding harness on the Meerkat agent platform, with an auto-mode approval model"
+2026-11-12T06:02:35.030382Z,citta,0.1.0,0,0,https://github.com/priyankark/citta,Cross-device capability sharing and task delegation for agents
+2026-11-12T06:03:09.619799Z,wasm2rs-wasi,0.1.0,0,0,https://github.com/hirosassa/wasm2rs,Typed WASI 0.2 host for programs transpiled by wasm2rs.
+2026-11-12T06:05:00.149424Z,rtao-neuron,0.1.0,0,0,https://github.com/sam0x17/rtao,"Bittensor validator, miner and owner runtimes."
+2026-11-12T06:05:00.43398Z,flui-objects,0.0.0,0,0,https://github.com/vanyastaff/flui,"Reserved name for FLUI, a declarative UI framework for Rust. The real crate will be published from the repository."
+2026-11-12T06:14:34.976726Z,versorc-math,0.1.0,0,0,https://github.com/versorc/versorc-math,"Low-level Clifford Geometric Algebra, Versor Operators, and High-Dimensional Matrix Reductions"
+2026-11-12T06:14:59.505572Z,rtao-remote-signer,0.1.0,0,0,https://github.com/sam0x17/rtao,Policy-checked remote transaction signing over btauth/1 (rtao-remote-signer/1).
+2026-11-12T06:15:23.672156Z,flui-painting,0.0.0,0,0,https://github.com/vanyastaff/flui,"Reserved name for FLUI, a declarative UI framework for Rust. The real crate will be published from the repository."
+2026-11-12T06:15:45.325639Z,bungeeoxide-minecraft-v1-15-2,0.1.1,0,0,,Minecraft 1.15.2 protocol types
+2026-11-12T06:15:45.77474Z,bungeeoxide-minecraft-v1-16,0.1.1,0,0,,Minecraft 1.16 protocol types
