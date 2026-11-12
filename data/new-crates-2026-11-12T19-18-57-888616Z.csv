@@ -1,0 +1,47 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-12T18:18:47.794414Z,knowledge-architect-testing,0.0.0,0,0,https://github.com/teoboutin/knowledge-architect,"Placeholder of a crate of knowledge-architect, published at its next release"
+2026-11-12T18:22:00.537918Z,liveactivity,0.1.0,0,0,https://github.com/1eedaegon/liveactivity-rs,"Framework-neutral Live Activities: one interface over ActivityKit, Android Live Updates and other backends"
+2026-11-12T18:24:54.96114Z,gitall-cli,0.1.1,0,0,,"Bulk operations over GitHub / GitLab repositories: CLI, TUI and WebUI"
+2026-11-12T18:24:57.085456Z,rune-cvss,0.1.0,0,0,https://github.com/alexile/runes,"CVSS v3.0, v3.1 and v4.0 vector parsing and scoring, exactly as the FIRST specifications and reference calculators define it"
+2026-11-12T18:27:25.969434Z,nexio,0.1.0,0,0,https://github.com/isaim0011/nexio,A thread-per-core io_uring async runtime for Linux with owned-buffer I/O and a cancellation-safety layer checked by Miri and Kani
+2026-11-12T18:30:08.570104Z,uzor-plot,1.5.41,0,0,https://github.com/UZOR-dev/uzor,"Plot math for uzor: nice-step ticks, label precision, value scales (linear, log, percent, indexed), auto-range, time scales, viewport and crosshair models. No rendering, no DOM."
+2026-11-12T18:30:47.184148Z,knowledge-architect-create,0.0.0,0,0,https://github.com/teoboutin/knowledge-architect,"Placeholder of a crate of knowledge-architect, published at its next release"
+2026-11-12T18:31:42.971329Z,urn-rs-core,1.0.0,0,0,https://github.com/mskvarc/urn-rs/,Core types and parser for urn-rs. Use the urn-rs crate instead of depending on this one directly.
+2026-11-12T18:31:44.530655Z,urn-rs-static,1.0.0,0,0,https://github.com/mskvarc/urn-rs/,Compile-time checked URN literals for urn-rs
+2026-11-12T18:32:44.233999Z,vowp-daemon,0.3.0,0,0,https://github.com/syver777/vowp,The loopback HTTP API for VOWP.
+2026-11-12T18:35:03.352147Z,rune-finding,0.1.0,0,0,https://github.com/alexile/runes,"Shared security finding model: Finding, Severity, Confidence, Location, Evidence and taxonomy references, with a stable fingerprint"
+2026-11-12T18:36:13.557335Z,rust-crate-release,0.1.0,0,0,https://github.com/dblock/rust-crate-release,Composable release workflows for Rust crates
+2026-11-12T18:38:23.784991Z,gpty-plugin,0.8.2,0,0,https://github.com/godot-pty/gpty,Installed-plugin store and shared schema caps for gpty
+2026-11-12T18:44:57.020971Z,rune-metrics,0.1.0,0,0,https://github.com/alexile/runes,"Metrics registry with counters, gauges and histograms plus a Prometheus / OpenMetrics text exporter, process collector and HTTP middleware"
+2026-11-12T18:47:33.552778Z,deadweight,0.1.0,0,0,https://github.com/msertdev/deadweight,"Find the dead weight in your Claude Code setup: what every request carries before you type, and what you never use."
+2026-11-12T18:48:00.013056Z,dogesoft,1.0.1,0,0,https://github.com/builderdogecoin/dogesoftio,"Async client for the Doge Soft Explorer API: Dogecoin, Doginals, DRC-20 Coins and .doge names."
+2026-11-12T18:53:27.134848Z,apple-quant-visualizer,0.1.1,0,0,https://gitlab.com/apple-quant/apple-quant/,Apple Quant's statistics visualizer.
+2026-11-12T18:54:57.958868Z,rune-psl,0.1.0,0,0,https://github.com/alexile/runes,"Public Suffix List: public suffix and registrable domain (eTLD+1) lookups over an embedded, pinned list"
+2026-11-12T18:56:02.095205Z,tui-lipan-ghostty-vt-sys,0.1.0,0,0,https://github.com/tui-lipan/tui-lipan,"Raw FFI bindings to libghostty-vt 1.x for tui-lipan, built with Zig from the pinned, patched upstream release."
+2026-11-12T19:00:21.130362Z,panic-check,0.1.0,0,0,https://github.com/precious-adeyinka/panic-check,"A small file integrity monitor: SHA-256 baselines that report added, modified and deleted files"
+2026-11-12T19:00:58.493494Z,adamo-zenoh-sync,1.9.0-adamo.1.0.21,0,0,https://github.com/adamo-tech/adamo,Internal crate for zenoh.
+2026-11-12T19:01:08.292656Z,assette,0.0.0,0,0,,placeholder
+2026-11-12T19:01:16.020592Z,adamo-zenoh-task,1.9.0-adamo.1.0.21,0,0,https://github.com/adamo-tech/adamo,Internal crate for zenoh.
+2026-11-12T19:01:33.609265Z,adamo-zenoh-link-commons,1.9.0-adamo.1.0.21,0,0,https://github.com/adamo-tech/adamo,Internal crate for zenoh.
+2026-11-12T19:01:51.469361Z,adamo-zenoh-link-quic_datagram,1.9.0-adamo.1.0.21,0,0,https://github.com/adamo-tech/adamo,Internal crate for zenoh.
+2026-11-12T19:02:09.145938Z,adamo-zenoh-link-quic,1.9.0-adamo.1.0.21,0,0,https://github.com/adamo-tech/adamo,Internal crate for zenoh.
+2026-11-12T19:04:57.016367Z,rune-host-match,0.1.0,0,0,https://github.com/alexile/runes,"Hostname pattern matching: exact, *.suffix egress allowlists and RFC 6125 certificate wildcards"
+2026-11-12T19:06:29.754557Z,adamo-zenoh-link-serial,1.9.0-adamo.1.0.21,0,0,https://github.com/adamo-tech/adamo,Internal crate for zenoh.
+2026-11-12T19:09:02.331382Z,comfit-core,0.1.0,0,0,https://github.com/pinanek/comfit,"Comfit highlighting engine, theme model, and renderers"
+2026-11-12T19:09:49.685563Z,comfit-themes,0.1.0,0,0,https://github.com/pinanek/comfit,Comfit themes and VS Code theme conversion
+2026-11-12T19:10:47.603546Z,comfit-grammars,0.1.0,0,0,https://github.com/pinanek/comfit,Comfit parsers and queries for Rust
+2026-11-12T19:11:10.532095Z,comfit,0.1.0,0,0,https://github.com/pinanek/comfit,Comfit syntax highlighting library for Rust
+2026-11-12T19:12:34.082241Z,tapi_codegen,0.0.4,0,0,https://github.com/pedrobartolini/tapi,Client sdk generators for tapi contracts
+2026-11-12T19:13:19.664041Z,lucem-core,0.0.1,0,0,https://github.com/neuro-kitchen/lucem,"Core of lucem: run-time choice of the CubeCL runtime (wgpu, CUDA, HIP, CPU), launch geometry, device arrays and memory reuse"
+2026-11-12T19:13:20.267609Z,lucem-hub,0.0.1,0,0,https://github.com/neuro-kitchen/lucem,Verified downloads and the local cache of published artifacts (model weights) for lucem's plugins: all network access of the models is here
+2026-11-12T19:13:20.686555Z,lucem-ml,0.0.1,0,0,https://github.com/neuro-kitchen/lucem,"The contract of lucem's machine-learning plugins: model manifests, the request protocol, discovery of plugin programs and a client (no model code, no ML runtime)"
+2026-11-12T19:13:22.24623Z,lucem-io,0.0.1,0,0,https://github.com/neuro-kitchen/lucem,"Image readers and writers for lucem (OME-Zarr, OME-TIFF, vendor formats)"
+2026-11-12T19:13:22.66906Z,lucem-ops,0.0.1,0,0,https://github.com/neuro-kitchen/lucem,"GPU image operations for lucem, written once in CubeCL (filters, morphology, thresholds, statistics)"
+2026-11-12T19:13:31.270919Z,comfit-cli,0.1.0,0,0,https://github.com/pinanek/comfit,Comfit command-line tool for highlighting and VS Code theme conversion
+2026-11-12T19:14:56.644915Z,rune-idna,0.1.0,0,0,https://github.com/alexile/runes,"Internationalized domain names: Punycode (RFC 3492), UTS #46 / IDNA2008 conversion, and UTS #39 confusable and mixed-script homograph detection"
+2026-11-12T19:15:59.418095Z,xconn,0.6.0,0,0,https://github.com/xconnio/xconn,"Async and blocking WAMP clients, routers, and transports"
+2026-11-12T19:16:19.947739Z,cecilia-app,0.45.1,0,0,https://github.com/kjmcnamara1/cecilia,"Headless application state, commands and keymaps for cecilia"
+2026-11-12T19:16:50.592153Z,cecilia-gui,0.45.1,0,0,https://github.com/kjmcnamara1/cecilia,Graphical frontend for cecilia (winit + wgpu + vello)
+2026-11-12T19:17:11.966071Z,cecilia-tui,0.45.1,0,0,https://github.com/kjmcnamara1/cecilia,Terminal frontend for cecilia
+2026-11-12T19:17:41.126568Z,cecilia,0.45.1,0,0,https://github.com/kjmcnamara1/cecilia,"Tablature, notation and chant editor and player"
+2026-11-12T19:18:27.143765Z,mac-led-control,0.1.0,0,0,https://github.com/yourusername/mac-led-control,A CLI to control the front status LED on Mac mini.
