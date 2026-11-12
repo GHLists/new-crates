@@ -1,0 +1,49 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-12T11:22:50.820266Z,reallyme-did-api,0.6.2,0,0,https://github.com/reallyme/ssi,"Ergonomic Rust API for ReallyMe DID generation, update, validation, and proto transport."
+2026-11-12T11:25:55.238522Z,st25r3916-rfal,0.1.0,0,0,https://github.com/BierDav/st25r3916-rfal,Safe Rust wrapper around ST's RFAL C library (v4.0.2) for the ST25R3916 / ST25R3916B NFC reader ICs
+2026-11-12T11:29:56.333575Z,thaumatrope,0.2.0,0,0,https://github.com/datenkollektiv/rustyfarian-knob,"Platform-independent pure logic for the rustyfarian-knob firmware (no_std, host-testable)"
+2026-11-12T11:30:14.974017Z,praxinoscope,0.2.0,0,0,https://github.com/datenkollektiv/rustyfarian-knob,"Shared no_std scene logic for the rustyfarian-knob firmware: screens, draw adapters and LED scheduling over embedded-graphics"
+2026-11-12T11:32:50.577569Z,reallyme-vp-api,0.6.2,0,0,https://github.com/reallyme/ssi,Protocol-neutral presentation policy evaluation and report API.
+2026-11-12T11:35:43.17098Z,snpsplit,1.0.0,0,0,https://github.com/FelixKrueger/SNPsplit,Allele-specific alignment sorting: tag and split reads by parental genome
+2026-11-12T11:36:35.087674Z,oushodh,0.1.0,0,0,https://github.com/oushodh/oushodh-rust,Rust SDK for the Oushodh medicine data API
+2026-11-12T11:37:41.445119Z,talahon-mcp-mysql,2.3.0,0,0,https://github.com/Liohtml/talahon,Native MySQL MCP server (stdio) for the Talon agent container
+2026-11-12T11:43:01.601559Z,tauri-plugin-majik-signature-client,1.2.0,0,0,,Tauri v2 plugin exposing Majikah's Rust signature client to webview applications.
+2026-11-12T11:43:50.152165Z,bevy_mod_scripting_bevy_gizmos_bindings,0.24.0,0,0,https://github.com/makspll/bevy_mod_scripting,Script bindings for bevy gizmos: immediate mode debug drawing
+2026-11-12T11:44:26.555099Z,bevy_mod_scripting_bevy_input_bindings,0.24.0,0,0,https://github.com/makspll/bevy_mod_scripting,"Script bindings for bevy input: keyboard, mouse, gamepads, touch and focus"
+2026-11-12T11:45:01.903121Z,bevy_mod_scripting_bevy_math_bindings,0.24.0,0,0,https://github.com/makspll/bevy_mod_scripting,"Script bindings for bevy math: vectors, quaternions, matrices, directions, rectangles, rays, shapes and easing"
+2026-11-12T11:46:37.41033Z,bevy_mod_scripting_bevy_render_bindings,0.24.0,0,0,https://github.com/makspll/bevy_mod_scripting,"Script bindings for bevy rendering: meshes, materials and images"
+2026-11-12T11:46:46.744114Z,bevy_mod_scripting_bevy_sprite_bindings,0.24.0,0,0,https://github.com/makspll/bevy_mod_scripting,Script bindings for bevy sprites and texture atlases
+2026-11-12T11:47:02.810121Z,boom-bookmarks,0.0.1,0,0,https://github.com/aellwein/boom,Git-backed bookmark sync library for boom
+2026-11-12T11:47:05.727528Z,boom-host,0.0.1,0,0,https://github.com/aellwein/boom,"Native messaging host and CLI for boom, a git-backed bookmark manager"
+2026-11-12T11:48:34.425205Z,cargo-hardcore,0.1.1,0,0,https://github.com/zac-franklin/cargo-hardcore,Wrapper around cargo check. Deletes code if error or warning detected.
+2026-11-12T11:51:41.13193Z,evilbuttons,0.1.0,0,0,https://github.com/radiumcoders/Evil-Buttons-gpui,"Playful, highly animated, slightly evil buttons for GPUI"
+2026-11-12T11:52:31.895614Z,railing,0.9.1,0,0,https://github.com/molowny/railing,"Building blocks for Rust command-line apps: step-by-step output, interactive prompts, tables, JSON output, structured errors"
+2026-11-12T11:53:49.431097Z,cohors-core,0.7.5,0,0,https://github.com/rushirb2001/cohors,"Pure, WASM-safe domain logic for cohors: models, the RepoProvider trait, and sort/filter/fuzzy ranking."
+2026-11-12T11:53:53.75446Z,ves_vecs_rust,0.1.0,0,0,https://github.com/VES1963/ves_vecs_rust.git,This library contains a basic Vec2d struct with some methods and operations used for handling both coordinates and math
+2026-11-12T11:53:58.185606Z,cohors-config,0.7.5,0,0,https://github.com/rushirb2001/cohors,Configuration and discovery settings for cohors (TOML).
+2026-11-12T11:54:30.2879Z,cohors-git,0.7.5,0,0,https://github.com/rushirb2001/cohors,Local git data source for cohors: repo discovery and per-repo snapshots via gix.
+2026-11-12T11:54:41.789992Z,cohors-github,0.7.5,0,0,https://github.com/rushirb2001/cohors,Remote (GitHub) data source for cohors: PR and CI status via the REST API.
+2026-11-12T11:54:44.736922Z,cohors-actions,0.7.5,0,0,https://github.com/rushirb2001/cohors,"Write-side adapter for cohors: the git mutating actions (fetch/pull/push/commit/stash/run), the bounded command runner, and the action registry shared by every front-end."
+2026-11-12T11:54:50.012149Z,tilefish,0.0.0,0,0,https://github.com/Kilerd/tilefish,"Typed tensor DSL for GPU kernels: shapes, dtypes and quantization formats in the type, one compiled artifact for Python, C++ and Rust hosts. Name reservation, nothing usable yet."
+2026-11-12T11:57:13.541556Z,vertep-core,0.1.0,0,0,https://github.com/Volland/vertep,"Chart IR, validation and the pure SCXML step kernel for Vertep (no_std)"
+2026-11-12T11:57:14.305698Z,vertep-store,0.1.0,0,0,https://github.com/Volland/vertep,"Storage contracts for Vertep: JournalStore, GraphStore and their test kit"
+2026-11-12T11:57:16.244227Z,vertep-dm-ecma,0.1.0,0,0,https://github.com/Volland/vertep,ECMAScript datamodel for Vertep on the boa engine
+2026-11-12T11:57:16.575333Z,vertep-scxml,0.1.0,0,0,https://github.com/Volland/vertep,SCXML reader and writer for Vertep charts
+2026-11-12T11:57:17.108028Z,vertep-tiramemsu,0.1.0,0,0,https://github.com/Volland/vertep,Tiramemsu backend for Vertep journals and graphs
+2026-11-12T11:58:51.00476Z,vertep-oxigraph,0.1.0,0,0,https://github.com/Volland/vertep,Oxigraph and SPARQL 1.1 graph store adapter for Vertep
+2026-11-12T12:00:04.980949Z,bevy_mod_scripting_bevy_state_bindings,0.24.0,0,0,https://github.com/makspll/bevy_mod_scripting,Script bindings for bevy app states
+2026-11-12T12:07:46.946994Z,sched,0.1.0,0,0,https://github.com/Reverier-Xu/sched-rs,A cron alternative using IANA-style schedule expressions
+2026-11-12T12:08:10.54818Z,vertep-rdf,0.1.0,0,0,https://github.com/Volland/vertep,"RDF 1.2 projection, vt ontology, SHACL shapes and canonical hashing for Vertep charts"
+2026-11-12T12:08:54.475831Z,cohors-launchpad,0.7.5,0,0,https://github.com/rushirb2001/cohors,"Launchpad adapter for cohors: reads and writes each repo's committed .cohors/ contribution, the cross-repo focus board, and the agent activity log."
+2026-11-12T12:10:30.674134Z,bevy_mod_scripting_bevy_text_bindings,0.24.0,0,0,https://github.com/makspll/bevy_mod_scripting,Script bindings for bevy text
+2026-11-12T12:11:19.468907Z,swat-maps-doc,0.1.0,0,0,https://github.com/swatmobility/gpui-maps,"The map document format of gpui-maps: layers, filters, scales and the actions that edit them. Pure Rust, no GPU, wasm-ready."
+2026-11-12T12:11:24.600949Z,swat-maps-dash,0.1.0,0,0,https://github.com/swatmobility/gpui-maps,"The dashboard format of gpui-maps: page specs, a guarded SQL template compiler with dialects, and sans-IO ClickHouse connectors."
+2026-11-12T12:11:28.404679Z,swat-maps-stac,0.1.0,0,0,https://github.com/swatmobility/gpui-maps,"A lenient static STAC 1.1 / Portolan catalog reader: lazy link walk, assets by role, licences, publisher styles, ETag disk cache. Pure Rust, no HTTP client of its own."
+2026-11-12T12:11:32.963273Z,gpui-agentic-http,0.1.0,0,0,https://github.com/swatmobility/gpui-maps,"A local-only, self-describing HTTP surface for driving and inspecting a gpui app without a human at the keyboard: an action registry, the transport, GET / discovery, and an MCP server for coding agen…"
+2026-11-12T12:12:30.636374Z,gpui-maps,0.8.0,0,0,https://github.com/swatmobility/gpui-maps,"A GPU vector-map engine for GPUI: MVT/PMTiles/MBTiles tiles, MapLibre-style JSON styling, globe, 3D buildings and data overlays."
+2026-11-12T12:17:25.774074Z,gc-primitives,0.1.0,0,0,https://github.com/rainbowcrr-sys/rbc-monorepo,"Allocation-reducing object pooling primitives with compile-time-safe leases (zero unsafe, zero dependencies)"
+2026-11-12T12:18:00.192384Z,cameleer-attest,0.6.0,0,0,https://github.com/cameleering/cameleer,"Cameleer attestation (std only): evidence from Linux configfs-tsm (Intel TDX, AMD SEV-SNP) and the dstack guest agent, bound to the running routes, configuration and TLS key"
+2026-11-12T12:18:20.722897Z,creditcraft,0.1.0,0,0,https://github.com/kreivetech/creditcraft,Deterministic integer-based credit calculation and token billing engine for metered APIs and AI workflows
+2026-11-12T12:18:57.597145Z,bevy_mod_scripting_bevy_time_bindings,0.24.0,0,0,https://github.com/makspll/bevy_mod_scripting,"Script bindings for bevy time: durations, clocks, timers and stopwatches"
+2026-11-12T12:20:00.518142Z,cohors-fleet,0.7.5,0,0,https://github.com/rushirb2001/cohors,Fleet composition layer for cohors: config + git + github wired into one Scanner (discover → snapshot → groups/aliases) shared by every front-end.
+2026-11-12T12:20:48.311772Z,cameleer-health,0.6.0,0,0,https://github.com/cameleering/cameleer,"The Cameleer health pack (std only): HL7 v2 (hl7 data format, hl7terser language, mllp component), FHIR R4 (fhir component, fhirJson and fhirXml data formats), and DICOM (Part 10, the dicom component…"
