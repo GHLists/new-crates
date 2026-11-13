@@ -1,0 +1,49 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-13T19:18:51.866289Z,zeebx-core,0.1.1,0,0,https://github.com/ZeebxTeam/zeebx-core,"Host-independent implementation of the Qualcomm BREW platform: .mod/.mif/.bar parsers, AEE interface tables, guest memory layout, heap, VFS and stdlib helpers"
+2026-11-13T19:19:17.534505Z,carcilator,0.0.1,0,0,,"SystemVerilog simulator in Rust (IEEE 1800-2023, four-state). Placeholder: not yet released."
+2026-11-13T19:20:44.794262Z,nexio-macros,0.2.5,0,0,https://github.com/isaim0011/nexio,Procedural macros (#[nexio::main] and #[nexio::test]) for the nexio async runtime
+2026-11-13T19:21:45.128811Z,mrve32,0.1.1,0,0,https://github.com/vladimirmitnovitskiy/MRVE32,RV32IMAC machine-mode RISC-V MCU emulator with pluggable memory-mapped devices
+2026-11-13T19:22:04.061488Z,inkrs,0.2.1,0,0,https://github.com/praveenperera/inkrs,"GPU-resident ink inference for villa's flat ink readers and Hecate 9.6 um, writing their outputs"
+2026-11-13T19:28:40.162732Z,CatFrame,1.0.1,0,0,https://github.com/Gillian-LHorset/CatFrame,"A tiny terminal application that plays ASCII-art cat animations, frame by frame, centered in your terminal. The animation come from Mistral Vibe."
+2026-11-13T19:31:13.722771Z,tokedex,0.0.0,0,0,https://github.com/ArtificialAnalysis/Tokedex,"Placeholder for Tokedex, an open-source LLM router from Artificial Analysis. Not released yet."
+2026-11-13T19:34:14.790549Z,kap-solver,0.3.0,0,0,https://github.com/inspiros/kap,k-assignment (k-partite matching) solvers and a rectangular linear assignment solver
+2026-11-13T19:34:57.262065Z,dependency-drama,0.1.1,0,0,https://github.com/ryckakas/dependency-drama,"Deadpan jokes about your dependencies, each one a true fact from the lockfile"
+2026-11-13T19:35:10.615141Z,cpm-planner-core,0.8.0,0,0,https://github.com/praxec/cpm-planner,"Pure Critical Path Method kernel of cpm-planner: plan graph model, CPM forward/backward pass, slack and critical path, resource levelling, Monte Carlo and earned value, with no SQLite, async runtime…"
+2026-11-13T19:35:29.680474Z,image-capture,0.1.0,0,0,https://github.com/nredd/image-capture,Owned ImageCaptureCore camera sessions over PTP for macOS
+2026-11-13T19:36:18.403132Z,zmux-seal-proto,1.2.6,0,0,https://github.com/zmuxio/zmux-rs,Sans-IO Establish handshake of the zmux secure carrier
+2026-11-13T19:36:58.436137Z,zmux-seal,1.2.6,0,0,https://github.com/zmuxio/zmux-rs,"The zmux secure carrier: Establish, trust anchors and gates over zmux carriers"
+2026-11-13T19:37:33.479869Z,crabshell-reactive,0.1.0,0,0,https://github.com/w0x7y/crabshell,"Single-threaded signals, memos, effects and owners for Crabshell"
+2026-11-13T19:37:35.440959Z,crabshell-ui,0.1.0,0,0,https://github.com/w0x7y/crabshell,"Widgets, styles, layout, text layout, hit testing and invalidation for Crabshell"
+2026-11-13T19:37:37.793737Z,crabshell-render,0.1.0,0,0,https://github.com/w0x7y/crabshell,"Draws Crabshell windows into pixmaps: shapes, text, icons and damage tracking"
+2026-11-13T19:37:39.315091Z,crabshell-services,0.1.0,0,0,https://github.com/w0x7y/crabshell,"Crabshell's services, so far the clock, Sway workspaces, audio and the tray"
+2026-11-13T19:37:41.784578Z,crabshell-wayland,0.1.0,0,0,https://github.com/w0x7y/crabshell,"Crabshell's Wayland platform: the event loop, layer-shell windows, outputs and pointer input"
+2026-11-13T19:39:40.450785Z,mrve32-snn,0.2.0,0,0,https://github.com/vladimirmitnovitskiy/mrve32-snn,SNN layer accelerator device module for the MRVE32 RISC-V emulator
+2026-11-13T19:42:31.886982Z,periscope-machines,0.3.0,0,0,https://github.com/seuros/periscope_machines,"Scoped integer ids: a caller-chosen scope in the top 16 bits, a never-reissued sequence below"
+2026-11-13T19:47:06.439816Z,rune-axum-concurrency,0.1.0,0,0,https://github.com/alexile/runes,Concurrency limit middleware for Axum — bounded in-flight requests with 503 load shedding and metrics
+2026-11-13T19:47:15.075518Z,rune-axum-health,0.1.0,0,0,https://github.com/alexile/runes,Health and readiness probes plus graceful shutdown for Axum — readiness flips on shutdown and in-flight requests drain before exit
+2026-11-13T19:47:29.474481Z,rune-axum-problem,0.1.0,0,0,https://github.com/alexile/runes,"RFC 9457 problem details for Axum — application/problem+json error responses with extensions, plus a layer for bare error statuses"
+2026-11-13T19:47:30.3849Z,gwid,0.0.3,0,0,https://github.com/matthewoestreich/gwid,RFC 9562-compliant UUIDs
+2026-11-13T19:47:45.451774Z,rune-axum-requestid,0.1.0,0,0,https://github.com/alexile/runes,"Request-id and W3C traceparent propagation layer for Axum — extensions, response header and tracing span"
+2026-11-13T19:49:01.300453Z,crabshell,0.1.0,0,0,https://github.com/w0x7y/crabshell,"A full Rust replacement for Quickshell, where your whole shell is a Rust crate"
+2026-11-13T19:51:59.355202Z,cargo-structure-diff,0.0.2,0,0,https://github.com/0xheartcode/cargo-structure-diff,"Structural diff for Rust crates: extract the module graph, diff base against head, render it as Mermaid, and gate on architectural lints."
+2026-11-13T19:55:02.004924Z,rune-axum-timeout,0.1.0,0,0,https://github.com/alexile/runes,"Request timeout middleware for Axum — per-request deadline with a configurable 504 response, overridable per route"
+2026-11-13T19:55:13.72026Z,hopback,0.2.0,0,0,https://github.com/avgvi/hopback,"Find, resume and fork coding-agent sessions across Claude Code, Codex and more"
+2026-11-13T19:56:59.787805Z,dotenvx-official,0.1.2,0,0,,A secure dotenv for Rust—from the creator of dotenv
+2026-11-13T19:58:35.319615Z,vf_flag,0.1.0,0,0,,My own bitflags crate
+2026-11-13T19:59:14.245264Z,crabshell-cli,0.1.0,0,0,https://github.com/w0x7y/crabshell,"The crabshell command: creates, checks and runs a Crabshell config"
+2026-11-13T20:05:01.689873Z,rune-tower-circuitbreaker,0.1.0,0,0,https://github.com/alexile/runes,"Circuit-breaker layer for Tower clients — opens on error-rate or slow-call-rate thresholds, probes in half-open, closes on recovery"
+2026-11-13T20:05:05.844286Z,assumptions,0.1.0,0,0,https://github.com/RoloEdits/assumptions,A crate for adding assumptions about the outside world that can change at any moment without your control.
+2026-11-13T20:09:39.593814Z,compiler-fuzzer-mutations,0.1.0,0,0,https://github.com/agroce/compiler-fuzzer-mutations,"Mutation-testing-style source mutations for LibAFL, from afl-compiler-fuzzer, for fuzzing compilers and interpreters"
+2026-11-13T20:12:08.020233Z,giong-mcp,0.4.0,0,0,https://github.com/giong-run/Giong,"An MCP server that lets AI agents look inside a running giong service: workers, tasks, pools, profiles"
+2026-11-13T20:12:08.637372Z,giong-web,0.4.0,0,0,https://github.com/giong-run/Giong,"A router, middleware and JSON for HTTP services on the giong thread-per-core runtime"
+2026-11-13T20:13:20.374048Z,sentinel4rust-core,0.1.0,0,0,https://github.com/umbgtt10/sentinel4rust,"The technology-free core of sentinel4rust: the patrol and its back-off, the roster, the record kept on each repository's mutants branch, and what git and cargo-mutants answer"
+2026-11-13T20:13:25.55608Z,xrack-syntax,0.5.0,0,0,https://github.com/smallsunsun1/xrack,XRack syntax support
+2026-11-13T20:13:34.676324Z,xrack-mlir-bin-aarch64-apple-darwin,0.5.0,0,0,https://github.com/smallsunsun1/xrack,Prebuilt XRack MLIR native library for aarch64-apple-darwin
+2026-11-13T20:13:35.773021Z,xrack-mlir-bin-aarch64-unknown-linux-gnu,0.5.0,0,0,https://github.com/smallsunsun1/xrack,Prebuilt XRack MLIR native library for aarch64-unknown-linux-gnu
+2026-11-13T20:13:36.350992Z,xrack-mlir-bin-x86_64-unknown-linux-gnu,0.5.0,0,0,https://github.com/smallsunsun1/xrack,Prebuilt XRack MLIR native library for x86_64-unknown-linux-gnu
+2026-11-13T20:13:37.222973Z,xrack-parser,0.5.0,0,0,https://github.com/smallsunsun1/xrack,XRack parser support
+2026-11-13T20:15:02.549265Z,rune-tower-retry,0.1.0,0,0,https://github.com/alexile/runes,"Retry and hedging layer for Tower clients — backoff with jitter, a retry budget, and request hedging for idempotent calls"
+2026-11-13T20:15:29.494209Z,ason-convert,1.3.0,0,0,https://github.com/hemashushu/ason-converter,"A Rust library for converting between ASON, ASONB, JSON, and JSONC."
+2026-11-13T20:15:51.589282Z,ason2b,1.3.0,0,0,https://github.com/hemashushu/ason-converter,Command-line tool for converting between ASON and ASONB.
+2026-11-13T20:16:13.225773Z,ason2j,1.3.0,0,0,https://github.com/hemashushu/ason-converter,Command-line tool for converting between ASON/ASONB and JSON/JSONC.
+2026-11-13T20:16:47.847118Z,mongot-standalone-client,0.2.0,0,0,https://github.com/beardsandbeers/mongot,Typed BSON/gRPC client for standalone mongot
