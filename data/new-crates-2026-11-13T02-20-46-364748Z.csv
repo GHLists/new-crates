@@ -1,0 +1,17 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-13T01:25:17.593073Z,pod-tty,0.0.0,0,0,https://github.com/PodUtils/podcrates,The local terminal as a guard: raw mode and its restore on Unix and Windows
+2026-11-13T01:31:08.754054Z,fireline-classify,0.0.0,0,0,https://github.com/ThinkersJournal/fireline,Placeholder: reserved for FireLine's Classify interface crate (dtype tokens). Not yet released.
+2026-11-13T01:35:43.459056Z,pod-fuse,0.0.0,0,0,https://github.com/PodUtils/podcrates,"A FUSE server with no libfuse, with the write opcodes and invalidation"
+2026-11-13T01:38:07.398245Z,twip-graphics,0.1.1,0,0,https://github.com/jaxcksn/twip,Internal part of Twip (its 2D graphics: pictures drawn on the CPU and the GPU). No stable API; use the `twip` crate.
+2026-11-13T01:41:39.474064Z,robius-theme,0.3.1,0,0,https://github.com/project-robius/robius,Rust abstractions for getting the system's light or dark theme and subscribing to changes
+2026-11-13T01:46:11.276871Z,pod-cas,0.0.0,0,0,https://github.com/PodUtils/podcrates,"A BLAKE3 content store with resume, placement, sweep and tree manifests"
+2026-11-13T01:47:52.952197Z,clarity-app-mcp,0.1.0,0,0,https://github.com/petervdpas/Clarity,"Clarity.AppMcp: the MCP service of the programs Clarity generates, offering an app's commands to AI agents with the person's grant, alike on every stack"
+2026-11-13T01:56:32.968826Z,pod-view,0.0.0,0,0,https://github.com/PodUtils/podcrates,"A live view of a directory: records, a frame codec and an ordered write-back log"
+2026-11-13T02:06:54.601349Z,pod-attest,0.0.0,0,0,https://github.com/PodUtils/podcrates,The check of an SEV-SNP attestation report and the expected measurement of a guest set
+2026-11-13T02:08:32.753568Z,keel-libc,0.1.0,0,0,https://github.com/mengzhuo/keel,A Rust no_std musl-compatible libc implementation
+2026-11-13T02:08:38.46433Z,keel-ldso,0.1.0,0,0,https://github.com/mengzhuo/keel,A Rust dynamic linker for musl-linked ELF binaries
+2026-11-13T02:08:41.870333Z,keel-rt,0.1.0,0,0,https://github.com/mengzhuo/keel,A Rust musl-compatible libc with a dynamic linker
+2026-11-13T02:08:46.250034Z,keel-utils,0.1.0,0,0,https://github.com/mengzhuo/keel,Rust implementations of the musl-utils commands for keel
+2026-11-13T02:14:33.321344Z,ontaria,0.0.1,0,0,https://github.com/vbasky/ontaria,"Look up classes, properties, and resources in RDF Schema and OWL ontologies"
+2026-11-13T02:17:14.72221Z,pod-ssh,0.0.0,0,0,https://github.com/PodUtils/podcrates,"An SSH client library with a host key policy, an auth chain and an exec channel"
+2026-11-13T02:17:38.067254Z,ima,0.0.0,0,0,,A simple image viewer
