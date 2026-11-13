@@ -1,0 +1,37 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-13T08:18:53.04565Z,mikrio-rusqlite,0.41.1-mikrio.1,0,0,https://github.com/meltyshev/mikrio,mikrio-maintained distribution: Ergonomic wrapper for SQLite
+2026-11-13T08:19:04.645044Z,mikrio-s3s,0.17.0-mikrio.1,0,0,https://github.com/meltyshev/mikrio,mikrio-maintained distribution: S3 Service Adapter
+2026-11-13T08:19:16.118915Z,mikrio-core,0.1.0,0,0,https://github.com/meltyshev/mikrio,Storage engine for mikrio
+2026-11-13T08:19:27.396358Z,mikrio-http,0.1.0,0,0,https://github.com/meltyshev/mikrio,S3-compatible HTTP interface for mikrio
+2026-11-13T08:19:38.543576Z,mikrio,0.1.0,0,0,https://github.com/meltyshev/mikrio,Embedded object storage with an S3-compatible HTTP interface
+2026-11-13T08:22:35.386806Z,iquji-agent-wire,0.1.0,0,0,https://github.com/haydardsx/iquji-community-agent,Agent 请求、事件、配置元数据与进程监督的 Rust 机器合同。
+2026-11-13T08:23:02.771411Z,iquji-shared-agent,0.1.0,0,0,https://github.com/haydardsx/iquji-community-agent,连接本机已授权 Agent 的 Rust 库与命令行工具。
+2026-11-13T08:24:39.738827Z,bboxy450-term-plugin-sdk,0.2.0,0,0,https://github.com/bboxy450/bboxy450-term,"Build bboxy450-term plugins in Rust: stdio MCP runtime, shape, skills and a test client"
+2026-11-13T08:28:46.326672Z,mast-proto,0.0.1,0,0,,Lexical token prototypes and operator precedence descriptors for minimal AST parsers.
+2026-11-13T08:29:39.087887Z,mast-pal,0.0.1,0,0,,Parenthesis balancing and line-column alignment layout utilities for AST formatters.
+2026-11-13T08:30:19.728763Z,mast-sys,0.0.1,0,0,,Lightweight identifier interning and symbol table primitives for AST passes.
+2026-11-13T08:35:41.508642Z,diesel_attribute_parser,0.1.0,0,0,https://github.com/diesel-rs/diesel/,"You should not use this crate directly, it is internal to Diesel."
+2026-11-13T08:36:05.600109Z,bboxy450-term-data_source-gitkb,0.2.0,0,0,https://github.com/bboxy450/bboxy450-term,GitKB data_source plugin for bboxy450-term: source-aware documents and tasks over the hash-pinned git-kb CLI
+2026-11-13T08:41:28.559054Z,diesel_infer_query,0.1.0,0,0,,Nullability inference engine for SQL queries
+2026-11-13T08:45:41.370597Z,es8311-async,0.1.0,0,0,https://github.com/Hahihula/es8311-async,no_std async driver for the Everest Semiconductor ES8311 audio codec
+2026-11-13T08:51:20.090921Z,djangors-contrib-oauth,0.13.0,0,0,https://github.com/QUANTORA-ltd/djangors,OAuth 2.0 and OpenID Connect client and provider for Djangors
+2026-11-13T08:51:21.454666Z,djangors-contrib-orgs,0.13.0,0,0,https://github.com/QUANTORA-ltd/djangors,"Organizations, teams, roles, and memberships for Djangors"
+2026-11-13T08:51:23.075672Z,djangors-contrib-saml,0.13.0,0,0,https://github.com/QUANTORA-ltd/djangors,Pure-Rust SAML 2.0 Service Provider single sign-on for Djangors
+2026-11-13T08:52:15.290594Z,susz,0.1.0,0,0,https://github.com/jasisz/susz,Susz 1: a binary form of Lean 4 kernel exports (lean4export 3.1)
+2026-11-13T08:52:45.88506Z,mikrio-cli,0.1.0,0,0,https://github.com/meltyshev/mikrio,Command-line interface for mikrio object storage
+2026-11-13T08:52:57.252976Z,mikrio-embed,0.1.0,0,0,https://github.com/meltyshev/mikrio,Foreign-runtime support for mikrio bindings
+2026-11-13T08:53:08.288213Z,mikrio-ffi,0.1.0,0,0,https://github.com/meltyshev/mikrio,C interface for mikrio object storage
+2026-11-13T08:58:49.104255Z,opentoken-cli,0.0.1,0,0,https://git.opentokencloud.io/TokeNautLab/opentoken-rust-cli,"Configure Claude Code, Claude Desktop, Codex, OpenCode, OpenClaw, Hermes, pi and Atomcode for the OpenToken gateway in one command. OpenToken 一键接入 AI 模型。"
+2026-11-13T09:02:33.756333Z,anoma-risc0-kind-trees,1.0.0-rc.10,0,0,https://github.com/anoma/risc0-kind-trees,"The kind trees the Anoma protocol adapters are committed to, and the supported-token list they are built from."
+2026-11-13T09:03:22.882363Z,mast-core,0.0.1,0,0,,"Core traversal, visitor, and folding traits for minimal AST structures."
+2026-11-13T09:04:01.13701Z,mast-kernel,0.0.1,0,0,,Contiguous index-arena kernel for flat minimal AST storage and evaluation.
+2026-11-13T09:04:05.13427Z,stacker-cli,0.0.0,0,0,https://github.com/trydirect/stacker,Name reserved for the TryDirect Stacker CLI. Not installable from crates.io yet - see the README for how to install it today.
+2026-11-13T09:04:38.916178Z,mast-macros,0.0.1,0,0,,Helper macros for constructing minimal AST spans and keyword tables.
+2026-11-13T09:05:39.396272Z,mast-derive,0.0.1,0,0,,Lightweight tag and node kind derivation helpers for minimal AST enums.
+2026-11-13T09:07:17.949667Z,idl-verify-carbon,0.4.0,0,0,https://github.com/senzenn/idl-drift,Run a Carbon decoder as the decoder under test of idl-verify --decoder.
+2026-11-13T09:07:19.162476Z,idl-verify-fixtures,0.4.0,0,0,https://github.com/senzenn/idl-drift,"One #[test] per fixture file of idl-verify --export-fixtures, for a Shipstern parser or a Carbon decoder."
+2026-11-13T09:07:20.733569Z,idl-verify-shipstern,0.4.0,0,0,https://github.com/senzenn/idl-drift,Run a Shipstern or Vixen generated parser as the decoder under test of idl-verify --decoder.
+2026-11-13T09:07:26.386485Z,idl-drift-guard,0.4.0,0,0,https://github.com/senzenn/idl-drift,"Count the decode misses of a Shipstern parser or a Carbon decoder per program, and alert at the first bad data after a program upgrade."
+2026-11-13T09:09:34.537205Z,corundum-framework-fs-api,0.12.0,0,0,https://github.com/sapphire-turtle/corundum-framework,"The fs.* methods an app's server serves over its workspace folder: their names, parameters, results and error codes"
+2026-11-13T09:09:46.039763Z,corundum-framework-journal,0.12.0,0,0,https://github.com/sapphire-turtle/corundum-framework,"An undo log for an app server's changes: batches of recorded operations, each with its plan and outcome, that can be undone and redone"
+2026-11-13T09:09:55.883064Z,corundum-framework-fs,0.12.0,0,0,https://github.com/sapphire-turtle/corundum-framework,"An app server's workspace folder over the fs.* and journal.* methods: checked paths, the app's files hidden, folders listed a page at a time, files read in ranges, and moves, new folders and trashing…"
