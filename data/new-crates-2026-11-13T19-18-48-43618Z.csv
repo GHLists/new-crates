@@ -1,0 +1,23 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-13T18:25:02.612886Z,rune-matchers,0.1.0,0,0,https://github.com/alexile/runes,"Nuclei-style matcher and extractor DSL over rune-http-model exchanges: word, regex, binary, status, header, JSON and XPath rules"
+2026-11-13T18:25:42.481309Z,mantra-extract,0.1.0,0,0,,Extract mantra artifacts from content
+2026-11-13T18:27:26.769303Z,pulsify-rocksdb,11.0.0,0,0,,"Pulsify RocksDB patch store and frame relay, with the semantics of pulsify-sqlite"
+2026-11-13T18:29:50.125416Z,oxscape_contour,0.1.0,0,0,https://codeberg.org/feefladder/oxscape/,level-based parallel (Barnes 2019) hydrology runtime
+2026-11-13T18:31:29.878778Z,odoo-log,0.1.0,0,0,https://github.com/GetFluvo/odoo-log,"Zero-copy parser for Odoo server logs: headers, levels, tracebacks"
+2026-11-13T18:32:00.605379Z,newman,0.1.0,0,0,https://tangled.org/tedius.tngl.sh/newman,"Parser for VizieR exports (VOTable, FITS, VizieR TSV, CSV) into a columnar, null-aware table"
+2026-11-13T18:32:26.571106Z,kui-kit,0.1.0-alpha.82,0,0,https://github.com/qxuken/kui,Kit components for kui: typed Rust builders and an embedded Lua extension
+2026-11-13T18:34:22.112052Z,fleetmux-layout,0.2.1,0,0,https://github.com/justindbca/fleetmux,"fleetmux fixed fleet layout: supervisor, control and worker areas."
+2026-11-13T18:34:22.586469Z,fleetmux-proto,0.2.1,0,0,https://github.com/justindbca/fleetmux,fleetmux wire protocol: frame codec shared by the fleetmux terminal and its web window.
+2026-11-13T18:34:22.99638Z,fleetmux-term,0.2.1,0,0,https://github.com/justindbca/fleetmux,fleetmux terminal state: VT parsing and screen model for fleet panes.
+2026-11-13T18:34:24.721697Z,fleetmux,0.2.1,0,0,https://github.com/justindbca/fleetmux,"fleetmux: run AI agent teams. A supervisor agent leads worker agents (Claude Code, Codex, Pi, opencode), and the program, not the model, accepts the work. This crate installs the terminal binary; fle…"
+2026-11-13T18:34:25.663487Z,fleetmux-web,0.2.1,0,0,https://github.com/justindbca/fleetmux,fleetmux-web: native desktop window for the fleetmux terminal.
+2026-11-13T18:35:02.614535Z,rune-mime,0.1.0,0,0,https://github.com/alexile/runes,"MIME media types: Content-Type parsing and formatting, charset detection, and bounded multipart/form-data and multipart/mixed parsing"
+2026-11-13T18:45:06.191132Z,rune-openapi,0.1.0,0,0,https://github.com/alexile/runes,"OpenAPI 3.x and Swagger 2.0 import: normalized endpoints, typed parameters, schemas, example requests and insertion points"
+2026-11-13T18:47:57.658587Z,bruce-graphql,0.5.0,0,0,https://github.com/bruceskingle/bruce-graphql,Bruce's GraphQL CodeGen: the runtime for the typed Rust which bruce-graphql-builder generates from a GraphQL schema and queries
+2026-11-13T18:47:58.543074Z,bruce-graphql-builder,0.5.0,0,0,https://github.com/bruceskingle/bruce-graphql,"Bruce's GraphQL CodeGen: generates typed Rust from a GraphQL schema and queries, in a build script, for bruce-graphql"
+2026-11-13T18:55:03.001552Z,rune-axum-cache,0.1.0,0,0,https://github.com/alexile/runes,"Cache-Control and conditional-request middleware for Axum — sets caching directives and validators, answers 304/412 per RFC 9110"
+2026-11-13T19:02:07.112749Z,git-changed,0.0.2,0,0,https://github.com/function-artisans/git-changed,List the files that changed in the current git branch
+2026-11-13T19:05:01.963014Z,rune-axum-compression,0.1.0,0,0,https://github.com/alexile/runes,"Response compression middleware for Axum — negotiated gzip, deflate, br and zstd with a content-type allowlist and minimum size"
+2026-11-13T19:12:04.37371Z,multi-log-macros,0.1.0,0,0,https://github.com/liebman/multi-log-macros,"Proc macros that dispatch one log statement to defmt, log, and an optional extra sink"
+2026-11-13T19:12:05.658467Z,anzan,0.1.0,0,0,https://github.com/BenjaminLucier/anzan,A terminal trainer for mental math (暗算)
+2026-11-13T19:12:38.062537Z,lwax,0.1.0,0,0,https://git.compute4.com/TheOfficialSeb/lwax,LuaU Rojo Project Bundler

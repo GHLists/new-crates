@@ -8,55 +8,36 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-13 18:18 UTC
+## Latest list — 2026-11-13 19:18 UTC
 
-New crates published between 2026-11-13 17:20 UTC and 2026-11-13 18:18 UTC.
+New crates published between 2026-11-13 18:18 UTC and 2026-11-13 19:18 UTC.
 
-[Full CSV](data/new-crates-2026-11-13T18-18-43-863404Z.csv)
+[Full CSV](data/new-crates-2026-11-13T19-18-48-43618Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-13 17:21:35 | [omma](https://crates.io/crates/omma) | 0.1.0 | 0 | An eye-strain break reminder for the macOS menu bar |
-| 2026-11-13 17:23:29 | [krishiv-cli](https://crates.io/crates/krishiv-cli) | 0.2.0 | 0 | Krishiv command line binary |
-| 2026-11-13 17:25:03 | [rune-dns-records](https://crates.io/crates/rune-dns-records) | 0.1.0 | 0 | Typed parsers and weakness checks for SPF, DKIM, DMARC, MTA-STS, TLS-RPT, BIMI,… |
-| 2026-11-13 17:27:08 | [valrig-nam](https://crates.io/crates/valrig-nam) | 0.0.1 | 0 | Pure-Rust Neural Amp Modeler (.nam) inference, allocation-free in the audio cal… |
-| 2026-11-13 17:27:18 | [io-gtasks](https://crates.io/crates/io-gtasks) | 0.1.0 | 0 | Google Tasks REST API client library for Rust |
-| 2026-11-13 17:27:56 | [ferrata](https://crates.io/crates/ferrata) | 0.1.0 | 0 | Alpine package dependency resolution that matches apk, in safe Rust |
-| 2026-11-13 17:29:13 | [hanabi_protocol](https://crates.io/crates/hanabi_protocol) | 0.1.0 | 0 | The messages of hanab.live's protocol (WebSocket and HTTP), typed, with their J… |
-| 2026-11-13 17:31:25 | [kartis](https://crates.io/crates/kartis) | 0.1.0 | 0 | Rust chart widgets and shared SVG/Canvas layouts for Glory |
-| 2026-11-13 17:35:02 | [rune-dns-resolver](https://crates.io/crates/rune-dns-resolver) | 0.1.0 | 0 | Async DNS stub resolver over rune-dns-wire: UDP with TCP fallback, DoT and DoH,… |
-| 2026-11-13 17:35:59 | [nlptoolkit-xmlparser](https://crates.io/crates/nlptoolkit-xmlparser) | 0.0.1 | 0 | Simple Xml Parser library |
-| 2026-11-13 17:40:11 | [kirch-units](https://crates.io/crates/kirch-units) | 0.0.1 | 0 | Engineering-notation parsing and IEC 60063 preferred values. |
-| 2026-11-13 17:40:14 | [kirch](https://crates.io/crates/kirch) | 0.0.1 | 0 | Engineering-notation parser and IEC 60063 preferred-value finder (CLI). |
-| 2026-11-13 17:41:38 | [cw32r031-pac](https://crates.io/crates/cw32r031-pac) | 0.1.0 | 0 | Zero-dependency register access crate (PAC) for the CW32R031 Cortex-M0+ MCU, ge… |
-| 2026-11-13 17:41:57 | [cw32w031-pac](https://crates.io/crates/cw32w031-pac) | 0.1.0 | 0 | Zero-dependency register access crate (PAC) for the CW32W031 Cortex-M0+ MCU, ge… |
-| 2026-11-13 17:42:27 | [parts](https://crates.io/crates/parts) | 0.0.1 | 0 | Placeholder to reserve the name. A real release is coming soon. |
-| 2026-11-13 17:43:06 | [pigeonhole-otel](https://crates.io/crates/pigeonhole-otel) | 0.1.0 | 0 | Exports Pigeonhole's engine metrics through OpenTelemetry. |
-| 2026-11-13 17:43:31 | [pigeonhole-embed](https://crates.io/crates/pigeonhole-embed) | 0.1.0 | 0 | Local text embeddings for pigeonhole-memory: a pinned open model, run on the CP… |
-| 2026-11-13 17:44:19 | [sulur-core](https://crates.io/crates/sulur-core) | 1.3.1 | 0 | Sulur memory core — graph schema, formation, recall, forgetting and the dream c… |
-| 2026-11-13 17:44:44 | [sulur-mcp](https://crates.io/crates/sulur-mcp) | 1.3.1 | 0 | MCP stdio server exposing the Sulur memory core to coding agents |
-| 2026-11-13 17:45:03 | [rune-dns-zone](https://crates.io/crates/rune-dns-zone) | 0.1.0 | 0 | Sans-I/O DNS zone-file (RFC 1035 master format) parser and writer with AXFR/IXF… |
-| 2026-11-13 17:45:08 | [sulur-server](https://crates.io/crates/sulur-server) | 1.3.1 | 0 | Sulur daemon: the memory core, the dream cycle and the Hermes wire protocol in… |
-| 2026-11-13 17:46:54 | [sulur-eval](https://crates.io/crates/sulur-eval) | 1.3.1 | 0 | Reproducible retrieval evaluation harness for Sulur memory engine |
-| 2026-11-13 17:47:59 | [vasak-gamification-protocol](https://crates.io/crates/vasak-gamification-protocol) | 0.1.0 | 0 | Contrato D-Bus compartido del servicio de gamificación de VasakOS |
-| 2026-11-13 17:49:32 | [sne](https://crates.io/crates/sne) | 0.1.0-beta.4 | 0 | Simple Node Environment: a fast, cross-platform Node.js version manager |
-| 2026-11-13 17:51:47 | [valrig-core](https://crates.io/crates/valrig-core) | 0.0.1 | 0 | The Valrig engine: a rack of modules, the controls on it, presets in and out, a… |
-| 2026-11-13 17:52:38 | [rake-autostart](https://crates.io/crates/rake-autostart) | 0.1.0-alpha.4 | 0 | Portable per-user launch-at-login settings, independent of GPUI |
-| 2026-11-13 17:52:39 | [rake-blaze-live](https://crates.io/crates/rake-blaze-live) | 0.1.0-alpha.4 | 0 | Pinned Blaze live-patch runtime for Rake (vendored upstream runtime) |
-| 2026-11-13 17:52:43 | [rake-tray](https://crates.io/crates/rake-tray) | 0.1.0-alpha.4 | 0 | Native tray resources and portable tray contracts for Rake |
-| 2026-11-13 17:52:46 | [rake-view-syntax](https://crates.io/crates/rake-view-syntax) | 0.1.0-alpha.4 | 0 | Internal view syntax for matching Rake versions; no external stability guarante… |
-| 2026-11-13 17:55:01 | [rune-http-model](https://crates.io/crates/rune-http-model) | 0.1.0 | 0 | Shared HTTP model: requests, responses, byte-exact bodies, headers, timings and… |
-| 2026-11-13 17:56:50 | [inlights-floor-api](https://crates.io/crates/inlights-floor-api) | 0.1.0 | 0 | Request and response types of the InLights Floor API, used by inlights-floor |
-| 2026-11-13 17:56:53 | [inlights-floor](https://crates.io/crates/inlights-floor) | 0.1.0 | 0 | Rust client for InLights Floor: KV, blob storage, jobs, realtime, messages, dev… |
-| 2026-11-13 17:59:13 | [sc-agent-types](https://crates.io/crates/sc-agent-types) | 0.1.0 | 0 | Shared value types for sc-agent: model catalog, providers, session ids, cancell… |
-| 2026-11-13 17:59:48 | [sc-agent-config](https://crates.io/crates/sc-agent-config) | 0.1.0 | 0 | Global sc-agent configuration (~/.sc-agent/default.json) loaded with sc-config. |
-| 2026-11-13 18:00:34 | [sc-agent-secrets](https://crates.io/crates/sc-agent-secrets) | 0.1.0 | 0 | API key resolution for sc-agent: process environment, repo-root .env, platform… |
-| 2026-11-13 18:01:18 | [sc-agent-log](https://crates.io/crates/sc-agent-log) | 0.1.0 | 0 | General and session loggers for sc-agent over sc-observability. |
-| 2026-11-13 18:02:01 | [sc-agent-http](https://crates.io/crates/sc-agent-http) | 0.1.0 | 0 | Sync HTTP layer for sc-agent: one send per call, busy and quota classification,… |
-| 2026-11-13 18:02:09 | [zyphra-textnorm](https://crates.io/crates/zyphra-textnorm) | 0.2.0 | 0 | Text normalization for TTS in 43 languages: native Rust ports of NeMo and ZONOS… |
-| 2026-11-13 18:05:01 | [rune-ip](https://crates.io/crates/rune-ip) | 0.1.0 | 0 | IPv4/IPv6 classification per the IANA special-purpose registries (global, priva… |
-| 2026-11-13 18:09:24 | [relate-gram](https://crates.io/crates/relate-gram) | 0.1.0 | 0 | Load gram files into Relate, export Relate databases as gram, and fix files the… |
-| 2026-11-13 18:15:01 | [rune-macaddr](https://crates.io/crates/rune-macaddr) | 0.1.0 | 0 | MAC address (EUI-48/EUI-64) parsing, formatting and classification with IEEE OU… |
+| 2026-11-13 18:25:02 | [rune-matchers](https://crates.io/crates/rune-matchers) | 0.1.0 | 0 | Nuclei-style matcher and extractor DSL over rune-http-model exchanges: word, re… |
+| 2026-11-13 18:25:42 | [mantra-extract](https://crates.io/crates/mantra-extract) | 0.1.0 | 0 | Extract mantra artifacts from content |
+| 2026-11-13 18:27:26 | [pulsify-rocksdb](https://crates.io/crates/pulsify-rocksdb) | 11.0.0 | 0 | Pulsify RocksDB patch store and frame relay, with the semantics of pulsify-sqli… |
+| 2026-11-13 18:29:50 | [oxscape_contour](https://crates.io/crates/oxscape_contour) | 0.1.0 | 0 | level-based parallel (Barnes 2019) hydrology runtime |
+| 2026-11-13 18:31:29 | [odoo-log](https://crates.io/crates/odoo-log) | 0.1.0 | 0 | Zero-copy parser for Odoo server logs: headers, levels, tracebacks |
+| 2026-11-13 18:32:00 | [newman](https://crates.io/crates/newman) | 0.1.0 | 0 | Parser for VizieR exports (VOTable, FITS, VizieR TSV, CSV) into a columnar, nul… |
+| 2026-11-13 18:32:26 | [kui-kit](https://crates.io/crates/kui-kit) | 0.1.0-alpha.82 | 0 | Kit components for kui: typed Rust builders and an embedded Lua extension |
+| 2026-11-13 18:34:22 | [fleetmux-layout](https://crates.io/crates/fleetmux-layout) | 0.2.1 | 0 | fleetmux fixed fleet layout: supervisor, control and worker areas. |
+| 2026-11-13 18:34:22 | [fleetmux-proto](https://crates.io/crates/fleetmux-proto) | 0.2.1 | 0 | fleetmux wire protocol: frame codec shared by the fleetmux terminal and its web… |
+| 2026-11-13 18:34:22 | [fleetmux-term](https://crates.io/crates/fleetmux-term) | 0.2.1 | 0 | fleetmux terminal state: VT parsing and screen model for fleet panes. |
+| 2026-11-13 18:34:24 | [fleetmux](https://crates.io/crates/fleetmux) | 0.2.1 | 0 | fleetmux: run AI agent teams. A supervisor agent leads worker agents (Claude Co… |
+| 2026-11-13 18:34:25 | [fleetmux-web](https://crates.io/crates/fleetmux-web) | 0.2.1 | 0 | fleetmux-web: native desktop window for the fleetmux terminal. |
+| 2026-11-13 18:35:02 | [rune-mime](https://crates.io/crates/rune-mime) | 0.1.0 | 0 | MIME media types: Content-Type parsing and formatting, charset detection, and b… |
+| 2026-11-13 18:45:06 | [rune-openapi](https://crates.io/crates/rune-openapi) | 0.1.0 | 0 | OpenAPI 3.x and Swagger 2.0 import: normalized endpoints, typed parameters, sch… |
+| 2026-11-13 18:47:57 | [bruce-graphql](https://crates.io/crates/bruce-graphql) | 0.5.0 | 0 | Bruce's GraphQL CodeGen: the runtime for the typed Rust which bruce-graphql-bui… |
+| 2026-11-13 18:47:58 | [bruce-graphql-builder](https://crates.io/crates/bruce-graphql-builder) | 0.5.0 | 0 | Bruce's GraphQL CodeGen: generates typed Rust from a GraphQL schema and queries… |
+| 2026-11-13 18:55:03 | [rune-axum-cache](https://crates.io/crates/rune-axum-cache) | 0.1.0 | 0 | Cache-Control and conditional-request middleware for Axum — sets caching direct… |
+| 2026-11-13 19:02:07 | [git-changed](https://crates.io/crates/git-changed) | 0.0.2 | 0 | List the files that changed in the current git branch |
+| 2026-11-13 19:05:01 | [rune-axum-compression](https://crates.io/crates/rune-axum-compression) | 0.1.0 | 0 | Response compression middleware for Axum — negotiated gzip, deflate, br and zst… |
+| 2026-11-13 19:12:04 | [multi-log-macros](https://crates.io/crates/multi-log-macros) | 0.1.0 | 0 | Proc macros that dispatch one log statement to defmt, log, and an optional extr… |
+| 2026-11-13 19:12:05 | [anzan](https://crates.io/crates/anzan) | 0.1.0 | 0 | A terminal trainer for mental math (暗算) |
+| 2026-11-13 19:12:38 | [lwax](https://crates.io/crates/lwax) | 0.1.0 | 0 | LuaU Rojo Project Bundler |
 
 ## Data source
 
