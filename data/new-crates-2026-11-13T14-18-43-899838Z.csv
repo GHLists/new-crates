@@ -1,0 +1,44 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-13T13:19:01.212915Z,bruce-embedded-std,0.1.0,0,0,https://github.com/bruceskingle/bruce-embedded-std,"Bruce's Standard Library Embedded Platform: the hardware agnostic part of a platform for embedded applications, with Features, their settings and a config page"
+2026-11-13T13:19:52.823149Z,future-meta,0.9.0,0,0,https://github.com/zynthium/future-meta,"Chinese futures fee, margin, and contract specification as-of query client"
+2026-11-13T13:23:50.480504Z,mtg-session,0.0.1,0,0,https://github.com/ferrogram-app/mtg,Name reserved for the MTProto crates of the Ferrogram project (not released yet).
+2026-11-13T13:28:48.156385Z,discord-rust-macros,0.1.0,0,0,https://github.com/notwinterdust/discord-rust,Procedural macros for discord-rust.
+2026-11-13T13:31:56.583387Z,runmat-constraint,0.7.1,0,0,https://github.com/runmat-org/runmat,"2D sketch and 3D mate constraint solver for RunMat CAD: rigid-cluster construction and DM decomposition, Newton/Levenberg-Marquardt and dog leg with exact AD Jacobians, NURBS and ellipses, limits, DO…"
+2026-11-13T13:31:59.112836Z,runmat-rules,0.7.1,0,0,https://github.com/runmat-org/runmat,"CSS-like selector, precedence and explain engine shared by RunMat circuit design rules and CAD check packs"
+2026-11-13T13:32:13.026309Z,runmat-circuit-sim,0.7.1,0,0,https://github.com/runmat-org/runmat,"RunMat circuit simulation: a clean-room SPICE-class engine (modified nodal analysis, sparse LU, damped Newton with gmin and source stepping, adaptive trapezoidal and Gear-2 transient, AC small-signal…"
+2026-11-13T13:32:23.120044Z,runmat-analysis-distributed,0.7.1,0,0,https://github.com/runmat-org/runmat,Domain decomposition for one finite element problem across cooperating worker processes
+2026-11-13T13:32:27.738902Z,runmat-analysis-qualification,0.7.1,0,0,,FEA requirement register and qualification evidence links
+2026-11-13T13:33:23.68335Z,mtg-mtsender,0.0.1,0,0,https://github.com/ferrogram-app/mtg,Name reserved for the MTProto crates of the Ferrogram project (not released yet).
+2026-11-13T13:40:31.326489Z,guic-packager-utils,0.1.0,0,0,https://github.com/foctal/guic,Utilities for cargo-packager crates
+2026-11-13T13:40:33.154511Z,synapseone,0.9.0,0,0,https://github.com/vku-open-source-2026/SynapseOne,Async Rust SDK for the SynapseOne platform gateway (Tier 1)
+2026-11-13T13:40:37.210309Z,guic-packager,0.1.0,0,0,https://github.com/foctal/guic,Executable packager and bundler distributed as a CLI and library.
+2026-11-13T13:40:37.80574Z,guic-packager-resource-resolver,0.1.0,0,0,https://github.com/foctal/guic,Cargo packager resource resolver
+2026-11-13T13:40:38.180196Z,guic-packager-updater,0.1.0,0,0,https://github.com/foctal/guic,Rust executable updater.
+2026-11-13T13:40:43.092199Z,synapsedx,0.7.0,0,0,https://github.com/vku-open-source-2026/SynapseDX,Async Rust client for the SynapseDX Tier-2 capabilities API
+2026-11-13T13:40:51.440545Z,discord-rust-commands,0.1.0,0,0,https://github.com/notwinterdust/discord-rust,"Command handling, argument parsing, context menus, and cog extension primitives for discord-rust."
+2026-11-13T13:45:06.127149Z,aspero-mcp,0.13.0,0,0,https://github.com/transilluminate/aspero,"aspero as a Model Context Protocol server: search, look up, verify and identify scholarly works from an agent"
+2026-11-13T13:46:09.957971Z,mtg-client,0.0.1,0,0,https://github.com/ferrogram-app/mtg,Name reserved for the MTProto crates of the Ferrogram project (not released yet).
+2026-11-13T13:47:49.392183Z,solana-shake,0.1.0,0,0,https://github.com/blueshift-gg/solana-shake,"A no_std, SVM-optimized SHAKE and TurboSHAKE library."
+2026-11-13T13:50:58.008664Z,batata-api,1.0.0,0,0,https://github.com/easynet-cn/batata,"API contract for Batata (gRPC and HTTP models, shared by clients and server)"
+2026-11-13T13:52:33.739488Z,batata-maintainer-client,1.0.0,0,0,https://github.com/easynet-cn/batata,Admin/maintainer HTTP client for Batata/Nacos
+2026-11-13T13:52:54.108354Z,discord-rust-webhook,0.1.0,0,0,https://github.com/notwinterdust/discord-rust,"Webhook execution, token authentication, and multipart payload serialization for discord-rust."
+2026-11-13T13:58:51.80716Z,pewt,0.0.1,0,0,,Pewter compute client by Omega Compute. Name reserved; the first release is coming soon.
+2026-11-13T14:01:10.843308Z,rat-wgpu,1.0.0,0,0,https://github.com/thscharler/rat-wgpu,ratatui backend with wgpu rendering
+2026-11-13T14:01:59.071035Z,docx-extract,1.1.0,0,0,https://github.com/pdfluent/pdfluent-sdk,DOCX to engine-block extraction: Word documents as pdf-engine Block/BlockKind
+2026-11-13T14:02:43.607877Z,format-extract,1.4.0,0,0,https://github.com/pdfluent/pdfluent-sdk,"Bounded image, delimited, structured data and RTF input extraction"
+2026-11-13T14:03:09.474726Z,EEWParser-Rust,2.0.0,0,0,https://github.com/TenkyuChimata/EEWParser-Rust,Rust library and CLI for parsing Japan Meteorological Agency (JMA) Earthquake Early Warning XML and Telegram messages.
+2026-11-13T14:03:26.53809Z,markup-extract,1.4.0,0,0,https://github.com/pdfluent/pdfluent-sdk,"HTML, Markdown and plain-text extraction onto pdf-engine blocks"
+2026-11-13T14:04:13.061256Z,mail-office-input,1.4.0,0,0,https://github.com/pdfluent/pdfluent-sdk,"Bounded email, legacy Office and OpenDocument input extraction"
+2026-11-13T14:04:57.616488Z,discord-rust-data,0.1.0,0,0,https://github.com/notwinterdust/discord-rust,"Data models, JSON serialization, and gateway payload primitives for discord-rust."
+2026-11-13T14:07:15.420659Z,rat-salsa-wgpu,1.0.0,0,0,https://github.com/thscharler/rat-salsa-wgpu,ratatui + wgpu + winit event-loop and widgets
+2026-11-13T14:07:32.907376Z,sigilup-core,0.1.0,0,0,https://github.com/zkz098/sigilup,"Sans-I/O hybrid Ed25519 + ML-DSA-65 cryptographic envelopes, single-pass hashing, and key-rotation primitives for sigilup"
+2026-11-13T14:07:55.629565Z,sigilup-manifest,0.1.0,0,0,https://github.com/zkz098/sigilup,"Self-update manifest schema, SemVer evaluation, URL allowlists, anti-rollback/anti-freeze policy, and key-pinning for sigilup"
+2026-11-13T14:08:17.021843Z,sigilup,0.1.0,0,0,https://github.com/zkz098/sigilup,Post-quantum hybrid (Ed25519 + ML-DSA-65) self-update and artifact signing toolkit with single-pass BLAKE3 + SHA-512 streaming verification
+2026-11-13T14:08:41.519931Z,sigilup-cli,0.1.0,0,0,https://github.com/zkz098/sigilup,"Release signing, key-rotation, manifest generation, and guard CLI for sigilup"
+2026-11-13T14:09:33.648117Z,praxi-format,0.1.1,0,0,https://github.com/qbart/praxi,Reader and writer for the PRAXI container format
+2026-11-13T14:09:36.364718Z,praxi,0.1.1,0,0,https://github.com/qbart/praxi,"Video player for games: GPU block-compressed frames, events, variants"
+2026-11-13T14:09:38.642375Z,praxi-audio,0.1.1,0,0,https://github.com/qbart/praxi,Audio output for the praxi viewer and editor
+2026-11-13T14:09:39.38439Z,praxi-encoder,0.1.1,0,0,https://github.com/qbart/praxi,"Encoder for praxi video files (BC7, ASTC)"
+2026-11-13T14:09:41.662516Z,praxi-cli,0.1.1,0,0,https://github.com/qbart/praxi,praxi command line tool
+2026-11-13T14:17:01.154696Z,discord-rust-app,0.1.0,0,0,https://github.com/notwinterdust/discord-rust,"Application commands, typed command options, interactions, and UI components for discord-rust."
+2026-11-13T14:17:06.121635Z,praxi-wgpu,0.1.1,0,0,https://github.com/qbart/praxi,Texture upload and drawing of praxi video for wgpu engines
