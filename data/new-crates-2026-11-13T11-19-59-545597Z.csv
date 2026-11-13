@@ -1,0 +1,49 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-13T10:22:11.304927Z,jetcarp-core,0.4.0,0,0,https://github.com/jprodgers/jetcarp,"JETCARP engine: tilings, cell fields, cellular automata, commands, scenes. No UI or GPU dependencies."
+2026-11-13T10:22:13.501543Z,jetcarp-gpu,0.4.0,0,0,https://github.com/jprodgers/jetcarp,"JETCARP GPU simulation: wgpu compute shaders, bit-identical to the jetcarp-core CPU steppers."
+2026-11-13T10:22:14.16975Z,jetcarp-store,0.4.0,0,0,https://github.com/jprodgers/jetcarp,"JETCARP's store: the pattern library (the SQLite catalog and its migrations), the Quick Start menu, the media index, and the website export. No UI or GPU dependencies."
+2026-11-13T10:22:15.370615Z,jetcarp-search,0.4.0,0,0,https://github.com/jprodgers/jetcarp,"JETCARP's searches: the job runner (specs, strategies, runner, handles, registry, budgets) and every strategy (soup hunts, bounded soup searches, explore, evolve, ants, movers, census, collisions, sa…"
+2026-11-13T10:22:17.275001Z,jetcarp-pack,0.4.0,0,0,https://github.com/jprodgers/jetcarp,"JETCARP packs (format 1.0): a content-addressed store of Parquet tables and JSON documents, signed with SSH signatures; publishing a library into one, exporting a version, and importing a store or an…"
+2026-11-13T10:23:35.630715Z,meshview,0.2.0,0,0,https://github.com/uvar-apps/meshview,"Headless CPU rasterizer for comparing triangle meshes side by side: one shared orthographic camera, coverage masks, deterministic PNG sheets"
+2026-11-13T10:27:26.546629Z,crawlora-modrinth,0.1.0,0,0,https://github.com/Crawlora-org/crawlora-modrinth,Typed Rust client for Crawlora's hosted Modrinth API. Requires a Crawlora API key.
+2026-11-13T10:27:33.732826Z,crawlora-openligadb,0.1.0,0,0,https://github.com/Crawlora-org/crawlora-openligadb,Typed Rust client for Crawlora's hosted OpenLigaDB API. Requires a Crawlora API key.
+2026-11-13T10:27:39.179793Z,crawlora-speedrun,0.1.0,0,0,https://github.com/Crawlora-org/crawlora-speedrun,Typed Rust client for Crawlora's hosted Speedrun.com API. Requires a Crawlora API key.
+2026-11-13T10:29:06.453903Z,screen-calipers,0.1.0,0,0,https://git.jaysmito.dev/jaysmito101/screen_calipers,A lightweight desktop tool for measuring screen distances and angles.
+2026-11-13T10:30:56.210523Z,wl-annotate,0.1.0,0,0,https://github.com/EnricoDev1/wl-annotate,Draw annotations directly on the screen on Wayland
+2026-11-13T10:32:35.462152Z,jetcarp-api,0.4.0,0,0,https://github.com/jprodgers/jetcarp,"JETCARP's operations layer: what the command line, the MCP server, Rhai scripts, and the app all call, with the argument parsers, output folders, and world host they share. No UI or GPU dependencies."
+2026-11-13T10:36:29.196708Z,tower-actix,0.0.0,0,0,,Temporary reservation for this crate name.
+2026-11-13T10:37:24.791036Z,siderite-config,0.1.0,0,0,https://github.com/jraavis/siderite,"Layered configuration (TOML, environment, overrides) for siderite"
+2026-11-13T10:37:25.184283Z,siderite-macros,0.1.0,0,0,https://github.com/jraavis/siderite,"Procedural macros for siderite: route attributes, routes![] and derive(Schema)"
+2026-11-13T10:37:25.626624Z,siderite-validation,0.1.0,0,0,https://github.com/jraavis/siderite,Pydantic-inspired validation and schema metadata for siderite
+2026-11-13T10:37:26.60946Z,siderite-openapi,0.1.0,0,0,https://github.com/jraavis/siderite,OpenAPI 3.1 document model and builder for siderite
+2026-11-13T10:37:26.93949Z,siderite-orm,0.1.0,0,0,https://github.com/jraavis/siderite,"Django-inspired ORM core: QueryPlan IR, expressions, capabilities"
+2026-11-13T10:40:27.388112Z,organisationsnummer-rs,1.1.0,0,0,https://github.com/organisationsnummer/rust,Validate Swedish organization numbers
+2026-11-13T10:40:33.451436Z,coolapk-cli,0.1.0,0,0,https://github.com/LIghtJUNction/coolapk-cli,Standalone Rust CLI for the Coolapk community
+2026-11-13T10:40:59.34514Z,clock-dbm,0.1.0,0,0,https://github.com/MasWag/clock-dbm,Difference bound matrices (DBMs) over packed i32 bounds for timed-automata zones
+2026-11-13T10:42:36.106869Z,jetcarp-script,0.4.0,0,0,https://github.com/jprodgers/jetcarp,"JETCARP's scripting engine (Rhai): worlds, runs, renders, and parallel rule sweeps into output folders, with a host API for the CLI, the app, and the MCP server. No UI or GPU dependencies."
+2026-11-13T10:43:43.968412Z,runmat-build-identity,0.7.1,0,0,,Build-time configuration identity for dependency-aware artifact reuse
+2026-11-13T10:45:15.102305Z,runmat-cpu-execution,0.7.1,0,0,,Bounded reusable shared-memory CPU execution for RunMat
+2026-11-13T10:45:47.357231Z,runmat-simulation-usage,0.7.1,0,0,https://github.com/runmat-org/runmat,Exact numerical-operation units for RunMat simulation usage
+2026-11-13T10:45:59.123302Z,hyaline,0.1.0,0,0,https://github.com/Ricardo-Evans/hyaline,"A safe and efficient deferred resource reclamation library for concurrent scenarios, powered by the Hyaline-1 algorithm."
+2026-11-13T10:46:04.844172Z,everystate,0.0.1,0,0,https://github.com/mattzcarey/verify.js,A TLA+ model checker with no Java dependency (TLC-compatible). Pre-release placeholder; the first real release is in progress.
+2026-11-13T10:46:20.003416Z,runmat-sparse-solvers,0.7.1,0,0,https://github.com/runmat-org/runmat,"Shared value-free sparse linear algebra for RunMat: sparse storage, direct factorizations, Krylov methods, multigrid and eigensolvers"
+2026-11-13T10:46:47.739368Z,kui-web,0.1.0-alpha.81,0,0,https://github.com/qxuken/kui,"A single-canvas browser host for kui, with Canvas 2D and WebGPU renderers"
+2026-11-13T10:47:25.295036Z,runmat-sparse-accelerate,0.7.1,0,0,https://github.com/runmat-org/runmat,Device preconditioners for the shared sparse solvers through the accelerator provider contract
+2026-11-13T10:52:11.590434Z,siderite-backends,0.1.0,0,0,https://github.com/jraavis/siderite,SQL query compilers and database backends for siderite
+2026-11-13T10:52:35.643483Z,jetcarp-display,0.4.0,0,0,https://github.com/jprodgers/jetcarp,"JETCARP display engine: draws worlds with wgpu, steps them on the GPU, and holds scene profiles. No window toolkit, so a wallpaper, a screensaver, or the app can all use it."
+2026-11-13T10:54:23.340188Z,runmat-clarabel,0.7.1,0,0,https://github.com/runmat-org/runmat,RunMat cooperative integration of the Clarabel 0.11.1 conic interior-point solver
+2026-11-13T11:00:36.823398Z,diesel-sqlite-session,0.1.0,0,0,https://github.com/connetto-rs/diesel-sqlite-session,SQLite session extension support for Diesel ORM - track changes and generate changesets/patchsets for replication
+2026-11-13T11:02:18.362185Z,runmat-design-syntax,0.7.1,0,0,https://github.com/runmat-org/runmat,"The RunMat design language: lexer, lossless syntax tree, dialects, document engine, structured edits and projections"
+2026-11-13T11:02:36.417485Z,jetcarp-mcp,0.4.0,0,0,https://github.com/jprodgers/jetcarp,"JETCARP's MCP (Model Context Protocol) server over the operations layer: tools, the book as resources, JSON-RPC handling, and the local app link. Transport independent; shared by the jetcarp program…"
+2026-11-13T11:04:44.03479Z,meteo-mcp-rs,0.1.1,0,0,https://github.com/gohyperdev/meteo-mcp-rs,Native Rust MCP server for Open-Meteo with an interactive MCP App dashboard (weather + EU AQI)
+2026-11-13T11:05:25.84092Z,siderite-core,0.1.0,0,0,https://github.com/jraavis/siderite,"App, routing, extractors, responses and errors for siderite"
+2026-11-13T11:08:31.24215Z,oxscape_core,0.0.1,0,0,https://codeberg.org/feefladder/oxscape/,array primitives shared by all oxscape crates
+2026-11-13T11:11:43.580472Z,oxscape_flowmets,0.0.1,0,0,https://codeberg.org/feefladder/oxscape/,"hydrological flow metrics. These can be used as-is with oxscape-core, or as part of either tile-based or level-based parallel implementations"
+2026-11-13T11:12:21.961317Z,runmat-analysis-language,0.7.1,0,0,https://github.com/runmat-org/runmat,Typed FEA source-to-domain compiler for RunMat
+2026-11-13T11:12:35.211295Z,jetcarp-app,0.4.0,0,0,https://github.com/jprodgers/jetcarp,JETCARP desktop app (egui + wgpu).
+2026-11-13T11:12:38.199197Z,logsender,0.9.1,0,0,https://github.com/juanparati/logsender,A lightweight log sender agent
+2026-11-13T11:12:54.182891Z,tonutils-cli,2.0.0,0,0,https://github.com/lapismyt/tonutils-rs,Command-line tooling for `tonutils` Rust crate.
+2026-11-13T11:13:02.599416Z,light-fw-devtools-web,0.18.0,0,0,https://github.com/gifoff/light,Web UI DevTools: браузерный инспектор VDOM/State поверх TCP-DevTools (127.0.0.1:9229)
+2026-11-13T11:16:38.990789Z,fncosmos-sdk,0.1.0,0,0,,Write fncosmos operations in Rust: durable backend functions that run in WebAssembly
+2026-11-13T11:17:47.277218Z,siderite-cache,0.1.0,0,0,https://github.com/jraavis/siderite,"Cache backends (in-memory LRU, Redis) and route caching for siderite"
+2026-11-13T11:17:47.829525Z,siderite-migrations,0.1.0,0,0,https://github.com/jraavis/siderite,Django-inspired schema migrations for siderite
