@@ -1,0 +1,69 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-13T15:23:43.268319Z,secugen-hu20-rs,0.1.0,0,0,https://github.com/faeliaso/secugen-hu20-rs,Pure Rust userspace USB driver for the SecuGen Hamster Pro 20 (HU20) fingerprint scanner.
+2026-11-13T15:24:37.030909Z,compono-gpui,1.0.0-rc,0,0,https://github.com/yet300/compono,Connects a Compono tree to GPUI
+2026-11-13T15:26:30.777307Z,cozo-ng-bin,0.8.1,0,0,https://github.com/cozodb/cozo,Standalone Cozo database
+2026-11-13T15:28:58.012705Z,rightkit-agent-config,0.1.0,0,0,https://github.com/bogusyogi/rightkit,"Layered TOML configuration for an agent host: defaults, user, workspace, environment and session layers, state root, workspace trust, instructions and presets."
+2026-11-13T15:29:10.543518Z,relwatch,0.1.0,0,0,https://tangled.org/joaquind.dev/relwatch,Watch PyPI packages for new releases and get macOS notifications
+2026-11-13T15:29:41.386018Z,cozo-ng-c,0.8.1,0,0,https://github.com/cozodb/cozo,C bindings for CozoDB
+2026-11-13T15:30:08.846868Z,krishiv-types,0.2.0,0,0,https://github.com/KrishivAI/krishiv-engine,Internal type representations
+2026-11-13T15:30:22.964316Z,krishiv-kernels,0.2.0,0,0,https://github.com/KrishivAI/krishiv-engine,Compute kernels (SIMD)
+2026-11-13T15:30:26.656524Z,krishiv-udf-sdk,0.2.0,0,0,https://github.com/KrishivAI/krishiv-engine,UDF SDK
+2026-11-13T15:30:41.170472Z,krishiv-functions,0.2.0,0,0,https://github.com/KrishivAI/krishiv-engine,Spark-compatible function library
+2026-11-13T15:30:45.359861Z,krishiv-memory,0.2.0,0,0,https://github.com/KrishivAI/krishiv-engine,Memory management
+2026-11-13T15:31:19.98928Z,po-bundle,0.1.0,0,0,https://github.com/baslentfert/po-bundle,"Gettext .po translations baked into your binary, for Rust code and Slint UIs alike: a tr! macro, OS-language detection, and a tool that keeps the .po files up to date."
+2026-11-13T15:32:58.403965Z,rune-mcp,0.1.0,0,0,https://github.com/alexile/runes,"Hardened MCP client and server on rmcp: rune tools, resources and prompts, namespaced multi-server tool sets, policy, caps and fencing"
+2026-11-13T15:33:25.919658Z,rune-log,0.1.0,0,0,https://github.com/alexile/runes,"Structured tracing logging layer (text or JSON) with field-level secret and PII redaction, configured from env-style values"
+2026-11-13T15:34:12.239181Z,cozo-ng-java,0.8.1,0,0,https://github.com/cozodb/cozo,Java bindings for CozoDB
+2026-11-13T15:35:46.977252Z,cozo-ng-python,0.8.1,0,0,https://github.com/cozodb/cozo,Cozo database for python
+2026-11-13T15:37:40.350723Z,cozo-ng-node,0.8.1,0,0,https://github.com/cozodb/cozo,Cozo database for NodeJS
+2026-11-13T15:39:48.14409Z,rune-ml-core,0.1.0,0,0,https://github.com/alexile/runes,"Shared ML core: row-major matrices, distance metrics, deterministic RNG and estimator traits"
+2026-11-13T15:39:52.506535Z,rune-pca,0.1.0,0,0,https://github.com/alexile/runes,"Principal component analysis — exact (eigen / Jacobi SVD) and randomized SVD, whitening, inverse transform"
+2026-11-13T15:40:15.68057Z,rune-wildcard-dns,0.1.0,0,0,https://github.com/alexile/runes,"Wildcard DNS detection and filtering for subdomain enumeration, over a caller-supplied resolver"
+2026-11-13T15:40:17.867227Z,cozo-ng-swift,0.8.1,0,0,https://github.com/cozodb/cozo,Cozo database for Swift
+2026-11-13T15:40:23.473851Z,ts-bnf-runtime,0.6.0-beta.2,0,0,https://github.com/ambs/tree-sitter-bnf-tools,"Types shared by the typed ASTs that ts-bnf-tool generates: spans, diagnostics and the Reflect trait"
+2026-11-13T15:40:33.522332Z,rune-finding-dedupe,0.1.0,0,0,https://github.com/alexile/runes,Cross-scan finding deduplication and correlation: merge findings by fingerprint and track stable issue identity over time
+2026-11-13T15:42:47.160642Z,senzor-core,1.0.0,0,0,https://github.com/kankaj/Senzor,"The engine of Senzor, an MQTT sensor simulator: project files, validation, generators and the MQTT instances. Shared by the senzor window, senzor-cli and senzor-mcp; no stable API of its own."
+2026-11-13T15:42:49.116228Z,senzor-mcp,1.0.0,0,0,https://github.com/kankaj/Senzor,"The MCP server of Senzor, an MQTT sensor simulator: lets AI agents edit and run a project. Shared by the senzor window and senzor-cli; no stable API of its own."
+2026-11-13T15:42:50.874886Z,senzor,1.0.0,0,0,https://github.com/kankaj/Senzor,"MQTT sensor simulator: a window to edit, run and watch simulated sensors"
+2026-11-13T15:42:52.591063Z,senzor-cli,1.0.0,0,0,https://github.com/kankaj/Senzor,"MQTT sensor simulator: run Senzor projects headless, in a terminal, Docker or CI"
+2026-11-13T15:43:03.149155Z,cozo-ng-wasm,0.8.1,0,0,https://github.com/cozodb/cozo,Cozo database for WASM
+2026-11-13T15:45:03.294929Z,rune-chain-usage,0.1.0,0,0,https://github.com/alexile/runes,Per-provider token and cost accounting with budget caps for rune-chain LLMs
+2026-11-13T15:45:40.591634Z,luagee,0.1.0,0,0,https://github.com/alexstanovoy/luagee,"A sandboxed Lua 5.1 interpreter with LuaJIT-compatible extensions, in safe Rust, for running untrusted scripts under hard limits: fuel, memory, string, depth and source bounds, no IO, no dependencies."
+2026-11-13T15:46:45.356216Z,termden-core,0.1.2,0,0,https://github.com/Sylviromi/termden,Domain types and configuration shared by termden binaries
+2026-11-13T15:46:47.316747Z,termden,0.1.2,0,0,https://github.com/Sylviromi/termden,"Workspaces and tiled terminals for coding agents (Claude Code, opencode, pi)"
+2026-11-13T15:46:48.344644Z,termdenctl,0.0.0,0,0,https://github.com/Sylviromi/termden,Command-line control and MCP server for termden
+2026-11-13T15:49:28.703187Z,ferridriver-heap,0.6.0,0,0,https://github.com/salamaashoush/ferridriver,"V8 heap snapshot analysis: retained sizes, dominators and retaining paths, in Rust"
+2026-11-13T15:49:40.229917Z,ferridriver-trace,0.6.0,0,0,https://github.com/salamaashoush/ferridriver,"Read, summarize and redact Playwright trace archives, and print selectors as locators."
+2026-11-13T15:49:45.063172Z,ferridriver-types,0.6.0,0,0,https://github.com/salamaashoush/ferridriver,"The TypeScript declarations, device registry and keyboard layout of a ferridriver build."
+2026-11-13T15:53:14.448896Z,ironflux-client,0.3.0,0,0,https://gitlab.com/ThomasTartrau/ironflux,"Typed client of the ironflux REST API, generated from the routes of the server of the same version."
+2026-11-13T15:55:04.64116Z,rune-otel-genai,0.1.0,0,0,https://github.com/alexile/runes,"OpenTelemetry GenAI semantic-convention spans for rune-chain LLM calls, tool executions and agents — model, tokens, cost and errors"
+2026-11-13T15:55:10.555248Z,telegram-rich,0.0.1,0,0,https://github.com/ElleryHe/telegram-rich,"Telegram Bot API rich messages toolkit: normalize arbitrary HTML into Telegram Rich HTML, fit it into official limits, and serde types for InputRichMessage / InputRichBlock / RichText."
+2026-11-13T15:55:52.398811Z,pure-editor,25.7.1,0,0,https://github.com/TsaH0/helix-editor-custom,"Pure: a modal text editor forked from Helix, with WebAssembly plugins and Vim-style commands."
+2026-11-13T16:00:43.010627Z,sciencekit_telemetry,0.8.0,0,0,https://github.com/neurono-ml/sciencekit,"Opt-in OpenTelemetry trace, log and metric export pipelines and lifecycle for sciencekit."
+2026-11-13T16:01:17.630465Z,sciencekit_pipeline,0.8.0,0,0,https://github.com/neurono-ml/sciencekit,Compile-time typed linear pipelines and validated runtime DAG pipelines for sciencekit estimators.
+2026-11-13T16:02:47.920761Z,sciencekit_ffi,0.8.0,0,0,https://github.com/neurono-ml/sciencekit,Stable C ABI for the sciencekit machine-learning library.
+2026-11-13T16:03:22.453924Z,sciencekit_onnx,0.8.0,0,0,https://github.com/neurono-ml/sciencekit,ONNX export for sciencekit: translate a fitted model's neutral state into a valid ONNX graph.
+2026-11-13T16:03:45.65019Z,sciencekit,0.8.0,0,0,https://github.com/neurono-ml/sciencekit,"Machine Learning library in Rust reimplementing all of scikit-learn — extreme performance, zero-copy and native out-of-core."
+2026-11-13T16:03:53.404622Z,tmux-agent-usage,0.1.0,0,0,https://github.com/ramonmello/tmux-agent-usage,"AI coding agent subscription usage (Claude Code, Codex) for the tmux status line"
+2026-11-13T16:05:01.743424Z,navree-native,1.2.0,0,0,https://github.com/NavreeHQ/navree,"The protocol of Navree Native: the parts, actions and ops a native client draws with its system's toolkit, the client descriptor, and example envelopes."
+2026-11-13T16:05:03.337078Z,rune-audit-log,0.1.0,0,0,https://github.com/alexile/runes,"Append-only, hash-chained (optionally HMAC-signed) tamper-evident audit log with pluggable storage"
+2026-11-13T16:05:24.565647Z,tapirus-micro,1.0.4,0,0,https://github.com/tapiruslab/TapirusDB,Allocation-free fixed-slot flash records for bare-metal devices
+2026-11-13T16:05:42.902137Z,rightkit-launcher-win,0.1.0,0,0,https://github.com/bogusyogi/rightkit,"The Windows launcher panel over rightkit-launcher: a layered search window with apps, files, notes, snippets, the in-launcher assistant and Store apps; product name, pages and readings come from the…"
+2026-11-13T16:05:44.88172Z,tessera-sort,0.0.0,0,0,,Reserved.
+2026-11-13T16:05:57.625588Z,tessera-order,0.0.0,0,0,,Reserved.
+2026-11-13T16:06:24.997764Z,aci-tallies-geom,0.1.0,0,0,https://github.com/AlvaroCubi/aci-tallies,"Geometry of MCNP-style structured meshes (rectangular and cylindrical): voxel indexing, volumes, point location and VTK export"
+2026-11-13T16:06:26.610784Z,aci-tallies,0.1.0,0,0,https://github.com/AlvaroCubi/aci-tallies,"Fast, out-of-core readers for MCNP tally files: meshtal (FMESH), MCTAL and D1SUNED cell-under-voxel"
+2026-11-13T16:06:49.717574Z,tapirus-ffi,1.0.4,0,0,https://github.com/tapiruslab/TapirusDB,C Foreign Function Interface (FFI) bindings for TapirusDB
+2026-11-13T16:07:38.007172Z,tapirus-wasm,1.0.4,0,0,https://github.com/tapiruslab/TapirusDB,WebAssembly (WASM) bindings for TapirusDB embedded AI database engine
+2026-11-13T16:08:23.027129Z,auric-body-class,0.8.1,0,0,https://gitlab.com/megalithic-llc/auric-spa/auric.git,Route classes on the document body addon for the Ember-inspired Auric SPA framework
+2026-11-13T16:08:30.117419Z,auric-body-class-build,0.8.1,0,0,https://gitlab.com/megalithic-llc/auric-spa/auric.git,Codegen for the Body Class addon for the Ember-inspired Auric SPA framework
+2026-11-13T16:09:57.943079Z,ferridriver-perf,0.6.0,0,0,https://github.com/salamaashoush/ferridriver,"Chrome performance trace analysis: metrics and insights, in Rust"
+2026-11-13T16:10:45.218937Z,auric-notify,0.8.1,0,0,https://gitlab.com/megalithic-llc/auric-spa/auric.git,Notification messages addon for the Ember-inspired Auric SPA framework
+2026-11-13T16:10:51.554974Z,auric-notify-build,0.8.1,0,0,https://gitlab.com/megalithic-llc/auric-spa/auric.git,Codegen for the Notify addon for the Ember-inspired Auric SPA framework
+2026-11-13T16:11:07.754254Z,auric-page-title,0.8.1,0,0,https://gitlab.com/megalithic-llc/auric-spa/auric.git,Document title addon for the Ember-inspired Auric SPA framework
+2026-11-13T16:14:34.997981Z,auric-page-title-build,0.8.1,0,0,https://gitlab.com/megalithic-llc/auric-spa/auric.git,Codegen for the Page Title addon for the Ember-inspired Auric SPA framework
+2026-11-13T16:15:01.45537Z,rune-dirs,0.1.0,0,0,https://github.com/alexile/runes,"Per-app config, cache, data and state directories (XDG, macOS, Windows) from a caller-supplied environment"
+2026-11-13T16:17:21.633365Z,celesta-media-image,0.0.0,0,0,https://github.com/mika-f/celesta,Placeholder for the Celesta project. The real crate is not published yet.
+2026-11-13T16:17:24.954459Z,celesta-codec-ffmpeg-x264,0.0.0,0,0,https://github.com/mika-f/celesta,Placeholder for the Celesta project. The real crate is not published yet.
+2026-11-13T16:17:28.233196Z,celesta-codec-avfoundation,0.0.0,0,0,https://github.com/mika-f/celesta,Placeholder for the Celesta project. The real crate is not published yet.
+2026-11-13T16:17:30.174141Z,celesta-codec-mediafoundation,0.0.0,0,0,https://github.com/mika-f/celesta,Placeholder for the Celesta project. The real crate is not published yet.

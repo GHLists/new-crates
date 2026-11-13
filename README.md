@@ -8,74 +8,82 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-13 15:19 UTC
+## Latest list — 2026-11-13 16:19 UTC
 
-New crates published between 2026-11-13 14:18 UTC and 2026-11-13 15:19 UTC.
+New crates published between 2026-11-13 15:19 UTC and 2026-11-13 16:19 UTC.
 
-[Full CSV](data/new-crates-2026-11-13T15-19-59-039678Z.csv)
+[Full CSV](data/new-crates-2026-11-13T16-19-33-924146Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-13 14:19:59 | [idiomatic-sh-ryo-matching](https://crates.io/crates/idiomatic-sh-ryo-matching) | 0.1.4 | 0 | Pure regex and glob matching semantics |
-| 2026-11-13 14:20:00 | [idiomatic-sh-ryo-relations](https://crates.io/crates/idiomatic-sh-ryo-relations) | 0.1.4 | 0 | Portable relation catalog and answer vocabulary for Ryo |
-| 2026-11-13 14:20:34 | [cozo-ng](https://crates.io/crates/cozo-ng) | 0.8.0 | 0 | A general-purpose, transactional, relational database that uses Datalog and foc… |
-| 2026-11-13 14:21:00 | [crawlora-fortnite](https://crates.io/crates/crawlora-fortnite) | 0.1.0 | 0 | Typed Rust client for Crawlora's hosted Fortnite API. Requires a Crawlora API k… |
-| 2026-11-13 14:21:27 | [crawlora-lichess](https://crates.io/crates/crawlora-lichess) | 0.1.0 | 0 | Typed Rust client for Crawlora's hosted Lichess API. Requires a Crawlora API ke… |
-| 2026-11-13 14:21:50 | [crawlora-liquipedia](https://crates.io/crates/crawlora-liquipedia) | 0.1.0 | 0 | Typed Rust client for Crawlora's hosted Liquipedia API. Requires a Crawlora API… |
-| 2026-11-13 14:22:18 | [crawlora-chesscom](https://crates.io/crates/crawlora-chesscom) | 0.1.0 | 0 | Typed Rust client for Crawlora's hosted Chess.com API. Requires a Crawlora API… |
-| 2026-11-13 14:22:52 | [crawlora-nba](https://crates.io/crates/crawlora-nba) | 0.1.0 | 0 | Typed Rust client for Crawlora's hosted NBA API. Requires a Crawlora API key. |
-| 2026-11-13 14:25:45 | [praxi-bevy](https://crates.io/crates/praxi-bevy) | 0.1.1 | 0 | Bevy plugin playing praxi video |
-| 2026-11-13 14:27:52 | [crawlora-faceit](https://crates.io/crates/crawlora-faceit) | 0.1.0 | 0 | Typed Rust client for Crawlora's hosted FACEIT API. Requires a Crawlora API key. |
-| 2026-11-13 14:28:22 | [diesel-builders-derive](https://crates.io/crates/diesel-builders-derive) | 0.1.0 | 0 | Procedural macros for diesel-builders to generate type-safe builders for Diesel… |
-| 2026-11-13 14:28:24 | [diesel-builders](https://crates.io/crates/diesel-builders) | 0.1.0 | 0 | A type-safe builder pattern library for Diesel that handles complex table relat… |
-| 2026-11-13 14:28:39 | [objserde](https://crates.io/crates/objserde) | 0.2.0 | 0 | Loss-preserving Wavefront OBJ parser with MTL materials and texture references,… |
-| 2026-11-13 14:29:06 | [discord-rust-models](https://crates.io/crates/discord-rust-models) | 0.1.0 | 0 | Strongly-typed Discord domain models and JSON decoding for discord-rust. |
-| 2026-11-13 14:34:15 | [idiomatic-sh-ryo-derived](https://crates.io/crates/idiomatic-sh-ryo-derived) | 0.1.4 | 0 | Portable derived-view semantics for Ryo |
-| 2026-11-13 14:34:19 | [idiomatic-sh-ryo-operators](https://crates.io/crates/idiomatic-sh-ryo-operators) | 0.1.4 | 0 | Portable operator semantics for Ryo |
-| 2026-11-13 14:34:34 | [idiomatic-sh-ryo-execution-domain](https://crates.io/crates/idiomatic-sh-ryo-execution-domain) | 0.1.4 | 0 | Ryo execution engine's domain: the compiled program, operator contracts, tables… |
-| 2026-11-13 14:34:43 | [idiomatic-sh-ryo-execution-store](https://crates.io/crates/idiomatic-sh-ryo-execution-store) | 0.1.4 | 0 | Ryo execution store: the file DAG's derived views, relation publications, lease… |
-| 2026-11-13 14:34:56 | [siquant](https://crates.io/crates/siquant) | 0.1.2 | 0 | SI units, prefixes and quantities with uncertainty, defined by YAML resource fi… |
-| 2026-11-13 14:35:08 | [observed_destination_memory](https://crates.io/crates/observed_destination_memory) | 0.1.0 | 0 | In-memory destination for Observed pipeline. |
-| 2026-11-13 14:37:30 | [mow](https://crates.io/crates/mow) | 0.4.0 | 0 | masonry grid image viewer with copy-pasting for offline moodboards |
-| 2026-11-13 14:38:02 | [peekaboo-net](https://crates.io/crates/peekaboo-net) | 0.2.0 | 0 | A read-only, privacy-conscious peek at what your home router and ISP can see. O… |
-| 2026-11-13 14:38:17 | [eu-company-lookup](https://crates.io/crates/eu-company-lookup) | 1.0.0 | 0 | Typed EU VAT verification and Bulgarian business lookup, with explicit failures… |
-| 2026-11-13 14:40:09 | [idiomatic-sh-ryo-execution-runtime](https://crates.io/crates/idiomatic-sh-ryo-execution-runtime) | 0.1.4 | 0 | Ryo execution runtime: the compiled program's scheduling, admission, readiness,… |
-| 2026-11-13 14:41:11 | [discord-rust-event](https://crates.io/crates/discord-rust-event) | 0.1.0 | 0 | Gateway event types, dispatcher, and event filters for discord-rust. |
-| 2026-11-13 14:41:40 | [compono](https://crates.io/crates/compono) | 1.0.0-rc | 0 | UI-independent component tree: lifecycle, navigation and state between business… |
-| 2026-11-13 14:41:41 | [compono-desktop](https://crates.io/crates/compono-desktop) | 1.0.0-rc | 0 | Desktop conventions for Compono: a saved-state file and the Back shortcuts of e… |
-| 2026-11-13 14:41:42 | [compono-motion](https://crates.io/crates/compono-motion) | 1.0.0-rc | 0 | Router transitions for Compono UIs: curves, springs, presets and layer values,… |
-| 2026-11-13 14:41:45 | [compono-test](https://crates.io/crates/compono-test) | 1.0.0-rc | 0 | Headless host, virtual time and host conformance checks for Compono |
-| 2026-11-13 14:41:46 | [compono-tokio](https://crates.io/crates/compono-tokio) | 1.0.0-rc | 0 | Runs Compono component tasks on Tokio |
-| 2026-11-13 14:42:10 | [rada-lua](https://crates.io/crates/rada-lua) | 0.7.0-rc.1 | 0 | Lua recipes for rada, a terminal file manager: a closed Lua 5.4 that can only a… |
-| 2026-11-13 14:42:18 | [ursus_praefectus](https://crates.io/crates/ursus_praefectus) | 0.1.0 | 0 | Library for data validation: email, URL, IP, phone, password, and counts. |
-| 2026-11-13 14:44:12 | [compono-web](https://crates.io/crates/compono-web) | 1.0.0-rc | 0 | Browser platform for Compono: history, page lifecycle, session storage and tasks |
-| 2026-11-13 14:50:27 | [praxi-viewer](https://crates.io/crates/praxi-viewer) | 0.1.1 | 0 | GPU viewer for praxi files |
-| 2026-11-13 14:50:34 | [vertep-webvh](https://crates.io/crates/vertep-webvh) | 0.1.3 | 0 | did:webvh for Vertep: create, update, witness, publish and serve DID logs with… |
-| 2026-11-13 14:50:35 | [praxi-editor](https://crates.io/crates/praxi-editor) | 0.1.1 | 0 | Cue editor for praxi files |
-| 2026-11-13 14:52:46 | [motion-cli](https://crates.io/crates/motion-cli) | 0.2.0 | 0 | Command-line program that loads, validates, renders and previews declarative JS… |
-| 2026-11-13 14:53:05 | [oxscape_tile](https://crates.io/crates/oxscape_tile) | 0.0.1 | 0 | tile-based parallel hydrology algroithms for _rather large_ DEMs |
-| 2026-11-13 14:53:15 | [discord-rust-clients](https://crates.io/crates/discord-rust-clients) | 0.1.0 | 0 | HTTP REST client, WebSocket gateway connection, sharding manager, cache, and bo… |
-| 2026-11-13 14:54:34 | [idiomatic-sh-ryo-execution](https://crates.io/crates/idiomatic-sh-ryo-execution) | 0.1.4 | 0 | Ryo executable-program ownership, admission and invocation lifecycle |
-| 2026-11-13 14:54:50 | [compono-egui](https://crates.io/crates/compono-egui) | 1.0.0-rc | 0 | Connects a Compono tree to egui |
-| 2026-11-13 14:54:54 | [ponko_macros](https://crates.io/crates/ponko_macros) | 0.1.0 | 0 | Derive macros for Ponko (`#[derive(Component)]`). Use them through `ponko` or `… |
-| 2026-11-13 14:55:12 | [sciencekit_gpu](https://crates.io/crates/sciencekit_gpu) | 0.8.0 | 0 | Device-compute contracts for sciencekit: device capabilities, buffers, kernel d… |
-| 2026-11-13 14:55:34 | [sciencekit_gpu_opencl](https://crates.io/crates/sciencekit_gpu_opencl) | 0.8.0 | 0 | OpenCL 3.0 device backend for sciencekit: discovery, buffers, runtime-compiled… |
-| 2026-11-13 14:55:53 | [rightkit-mail-gateway](https://crates.io/crates/rightkit-mail-gateway) | 0.1.0 | 0 | The mail adapter of the agent gateway: mail verbs (search, thread, draft, send… |
-| 2026-11-13 14:56:41 | [sciencekit_svm](https://crates.io/crates/sciencekit_svm) | 0.8.0 | 0 | Support-vector classifiers and regressors for sciencekit: pure-Rust SMO solver,… |
-| 2026-11-13 14:59:31 | [sciencekit_decomposition](https://crates.io/crates/sciencekit_decomposition) | 0.8.0 | 0 | Matrix decomposition and linear dimensionality-reduction estimators for science… |
-| 2026-11-13 15:00:39 | [sciencekit_ensemble](https://crates.io/crates/sciencekit_ensemble) | 0.8.0 | 0 | Ensemble estimators for sciencekit: random forests, generic bagging and stage-w… |
-| 2026-11-13 15:03:10 | [compono-ffi](https://crates.io/crates/compono-ffi) | 1.0.0-rc | 0 | The Rust side of a Compono tree driven by SwiftUI, Compose or another native UI |
-| 2026-11-13 15:05:14 | [uccharan](https://crates.io/crates/uccharan) | 0.1.0 | 0 | Permissively licensed text-to-phoneme (G2P) library for neural TTS: en-US, en-G… |
-| 2026-11-13 15:05:19 | [uccharan-capi](https://crates.io/crates/uccharan-capi) | 0.1.0 | 0 | C ABI for uccharan, the permissively licensed text-to-phoneme library. |
-| 2026-11-13 15:05:19 | [discord-rust](https://crates.io/crates/discord-rust) | 0.1.0 | 0 | A feature-rich Discord API and Gateway library for Rust. |
-| 2026-11-13 15:06:09 | [sciencekit_outlier](https://crates.io/crates/sciencekit_outlier) | 0.8.0 | 0 | Outlier and anomaly detection estimators for sciencekit: Isolation Forest with… |
-| 2026-11-13 15:07:21 | [consciousness-core](https://crates.io/crates/consciousness-core) | 0.6.0 | 0 | Unified consciousness physics: Kuramoto sync, IIT Φ, wave memory, and the Ξ ope… |
-| 2026-11-13 15:07:23 | [kannaka-attention](https://crates.io/crates/kannaka-attention) | 0.2.0 | 0 | Attention-as-gravity: a sparse-attention beam over kannaka-memory's holographic… |
-| 2026-11-13 15:08:48 | [ghostsignals](https://crates.io/crates/ghostsignals) | 0.2.0 | 0 | Prediction markets as collective intelligence using LMSR |
-| 2026-11-13 15:09:56 | [git-changelist](https://crates.io/crates/git-changelist) | 0.1.2 | 0 | Deterministic Git/GitHub version fact extractor and changelog classifier for de… |
-| 2026-11-13 15:13:16 | [yolowdoc](https://crates.io/crates/yolowdoc) | 0.1.1 | 0 | Pure-Rust documents-to-Markdown library: DOCX, XLSX, XLSB, PPTX, legacy DOC/XLS… |
-| 2026-11-13 15:13:50 | [compono-iced](https://crates.io/crates/compono-iced) | 1.0.0-rc | 0 | Connects a Compono tree to iced |
-| 2026-11-13 15:19:39 | [braket](https://crates.io/crates/braket) | 0.1.0 | 0 | Classify shell command effects in microseconds. |
+| 2026-11-13 15:23:43 | [secugen-hu20-rs](https://crates.io/crates/secugen-hu20-rs) | 0.1.0 | 0 | Pure Rust userspace USB driver for the SecuGen Hamster Pro 20 (HU20) fingerprin… |
+| 2026-11-13 15:24:37 | [compono-gpui](https://crates.io/crates/compono-gpui) | 1.0.0-rc | 0 | Connects a Compono tree to GPUI |
+| 2026-11-13 15:26:30 | [cozo-ng-bin](https://crates.io/crates/cozo-ng-bin) | 0.8.1 | 0 | Standalone Cozo database |
+| 2026-11-13 15:28:58 | [rightkit-agent-config](https://crates.io/crates/rightkit-agent-config) | 0.1.0 | 0 | Layered TOML configuration for an agent host: defaults, user, workspace, enviro… |
+| 2026-11-13 15:29:10 | [relwatch](https://crates.io/crates/relwatch) | 0.1.0 | 0 | Watch PyPI packages for new releases and get macOS notifications |
+| 2026-11-13 15:29:41 | [cozo-ng-c](https://crates.io/crates/cozo-ng-c) | 0.8.1 | 0 | C bindings for CozoDB |
+| 2026-11-13 15:30:08 | [krishiv-types](https://crates.io/crates/krishiv-types) | 0.2.0 | 0 | Internal type representations |
+| 2026-11-13 15:30:22 | [krishiv-kernels](https://crates.io/crates/krishiv-kernels) | 0.2.0 | 0 | Compute kernels (SIMD) |
+| 2026-11-13 15:30:26 | [krishiv-udf-sdk](https://crates.io/crates/krishiv-udf-sdk) | 0.2.0 | 0 | UDF SDK |
+| 2026-11-13 15:30:41 | [krishiv-functions](https://crates.io/crates/krishiv-functions) | 0.2.0 | 0 | Spark-compatible function library |
+| 2026-11-13 15:30:45 | [krishiv-memory](https://crates.io/crates/krishiv-memory) | 0.2.0 | 0 | Memory management |
+| 2026-11-13 15:31:19 | [po-bundle](https://crates.io/crates/po-bundle) | 0.1.0 | 0 | Gettext .po translations baked into your binary, for Rust code and Slint UIs al… |
+| 2026-11-13 15:32:58 | [rune-mcp](https://crates.io/crates/rune-mcp) | 0.1.0 | 0 | Hardened MCP client and server on rmcp: rune tools, resources and prompts, name… |
+| 2026-11-13 15:33:25 | [rune-log](https://crates.io/crates/rune-log) | 0.1.0 | 0 | Structured tracing logging layer (text or JSON) with field-level secret and PII… |
+| 2026-11-13 15:34:12 | [cozo-ng-java](https://crates.io/crates/cozo-ng-java) | 0.8.1 | 0 | Java bindings for CozoDB |
+| 2026-11-13 15:35:46 | [cozo-ng-python](https://crates.io/crates/cozo-ng-python) | 0.8.1 | 0 | Cozo database for python |
+| 2026-11-13 15:37:40 | [cozo-ng-node](https://crates.io/crates/cozo-ng-node) | 0.8.1 | 0 | Cozo database for NodeJS |
+| 2026-11-13 15:39:48 | [rune-ml-core](https://crates.io/crates/rune-ml-core) | 0.1.0 | 0 | Shared ML core: row-major matrices, distance metrics, deterministic RNG and est… |
+| 2026-11-13 15:39:52 | [rune-pca](https://crates.io/crates/rune-pca) | 0.1.0 | 0 | Principal component analysis — exact (eigen / Jacobi SVD) and randomized SVD, w… |
+| 2026-11-13 15:40:15 | [rune-wildcard-dns](https://crates.io/crates/rune-wildcard-dns) | 0.1.0 | 0 | Wildcard DNS detection and filtering for subdomain enumeration, over a caller-s… |
+| 2026-11-13 15:40:17 | [cozo-ng-swift](https://crates.io/crates/cozo-ng-swift) | 0.8.1 | 0 | Cozo database for Swift |
+| 2026-11-13 15:40:23 | [ts-bnf-runtime](https://crates.io/crates/ts-bnf-runtime) | 0.6.0-beta.2 | 0 | Types shared by the typed ASTs that ts-bnf-tool generates: spans, diagnostics a… |
+| 2026-11-13 15:40:33 | [rune-finding-dedupe](https://crates.io/crates/rune-finding-dedupe) | 0.1.0 | 0 | Cross-scan finding deduplication and correlation: merge findings by fingerprint… |
+| 2026-11-13 15:42:47 | [senzor-core](https://crates.io/crates/senzor-core) | 1.0.0 | 0 | The engine of Senzor, an MQTT sensor simulator: project files, validation, gene… |
+| 2026-11-13 15:42:49 | [senzor-mcp](https://crates.io/crates/senzor-mcp) | 1.0.0 | 0 | The MCP server of Senzor, an MQTT sensor simulator: lets AI agents edit and run… |
+| 2026-11-13 15:42:50 | [senzor](https://crates.io/crates/senzor) | 1.0.0 | 0 | MQTT sensor simulator: a window to edit, run and watch simulated sensors |
+| 2026-11-13 15:42:52 | [senzor-cli](https://crates.io/crates/senzor-cli) | 1.0.0 | 0 | MQTT sensor simulator: run Senzor projects headless, in a terminal, Docker or CI |
+| 2026-11-13 15:43:03 | [cozo-ng-wasm](https://crates.io/crates/cozo-ng-wasm) | 0.8.1 | 0 | Cozo database for WASM |
+| 2026-11-13 15:45:03 | [rune-chain-usage](https://crates.io/crates/rune-chain-usage) | 0.1.0 | 0 | Per-provider token and cost accounting with budget caps for rune-chain LLMs |
+| 2026-11-13 15:45:40 | [luagee](https://crates.io/crates/luagee) | 0.1.0 | 0 | A sandboxed Lua 5.1 interpreter with LuaJIT-compatible extensions, in safe Rust… |
+| 2026-11-13 15:46:45 | [termden-core](https://crates.io/crates/termden-core) | 0.1.2 | 0 | Domain types and configuration shared by termden binaries |
+| 2026-11-13 15:46:47 | [termden](https://crates.io/crates/termden) | 0.1.2 | 0 | Workspaces and tiled terminals for coding agents (Claude Code, opencode, pi) |
+| 2026-11-13 15:46:48 | [termdenctl](https://crates.io/crates/termdenctl) | 0.0.0 | 0 | Command-line control and MCP server for termden |
+| 2026-11-13 15:49:28 | [ferridriver-heap](https://crates.io/crates/ferridriver-heap) | 0.6.0 | 0 | V8 heap snapshot analysis: retained sizes, dominators and retaining paths, in R… |
+| 2026-11-13 15:49:40 | [ferridriver-trace](https://crates.io/crates/ferridriver-trace) | 0.6.0 | 0 | Read, summarize and redact Playwright trace archives, and print selectors as lo… |
+| 2026-11-13 15:49:45 | [ferridriver-types](https://crates.io/crates/ferridriver-types) | 0.6.0 | 0 | The TypeScript declarations, device registry and keyboard layout of a ferridriv… |
+| 2026-11-13 15:53:14 | [ironflux-client](https://crates.io/crates/ironflux-client) | 0.3.0 | 0 | Typed client of the ironflux REST API, generated from the routes of the server… |
+| 2026-11-13 15:55:04 | [rune-otel-genai](https://crates.io/crates/rune-otel-genai) | 0.1.0 | 0 | OpenTelemetry GenAI semantic-convention spans for rune-chain LLM calls, tool ex… |
+| 2026-11-13 15:55:10 | [telegram-rich](https://crates.io/crates/telegram-rich) | 0.0.1 | 0 | Telegram Bot API rich messages toolkit: normalize arbitrary HTML into Telegram… |
+| 2026-11-13 15:55:52 | [pure-editor](https://crates.io/crates/pure-editor) | 25.7.1 | 0 | Pure: a modal text editor forked from Helix, with WebAssembly plugins and Vim-s… |
+| 2026-11-13 16:00:43 | [sciencekit_telemetry](https://crates.io/crates/sciencekit_telemetry) | 0.8.0 | 0 | Opt-in OpenTelemetry trace, log and metric export pipelines and lifecycle for s… |
+| 2026-11-13 16:01:17 | [sciencekit_pipeline](https://crates.io/crates/sciencekit_pipeline) | 0.8.0 | 0 | Compile-time typed linear pipelines and validated runtime DAG pipelines for sci… |
+| 2026-11-13 16:02:47 | [sciencekit_ffi](https://crates.io/crates/sciencekit_ffi) | 0.8.0 | 0 | Stable C ABI for the sciencekit machine-learning library. |
+| 2026-11-13 16:03:22 | [sciencekit_onnx](https://crates.io/crates/sciencekit_onnx) | 0.8.0 | 0 | ONNX export for sciencekit: translate a fitted model's neutral state into a val… |
+| 2026-11-13 16:03:45 | [sciencekit](https://crates.io/crates/sciencekit) | 0.8.0 | 0 | Machine Learning library in Rust reimplementing all of scikit-learn — extreme p… |
+| 2026-11-13 16:03:53 | [tmux-agent-usage](https://crates.io/crates/tmux-agent-usage) | 0.1.0 | 0 | AI coding agent subscription usage (Claude Code, Codex) for the tmux status line |
+| 2026-11-13 16:05:01 | [navree-native](https://crates.io/crates/navree-native) | 1.2.0 | 0 | The protocol of Navree Native: the parts, actions and ops a native client draws… |
+| 2026-11-13 16:05:03 | [rune-audit-log](https://crates.io/crates/rune-audit-log) | 0.1.0 | 0 | Append-only, hash-chained (optionally HMAC-signed) tamper-evident audit log wit… |
+| 2026-11-13 16:05:24 | [tapirus-micro](https://crates.io/crates/tapirus-micro) | 1.0.4 | 0 | Allocation-free fixed-slot flash records for bare-metal devices |
+| 2026-11-13 16:05:42 | [rightkit-launcher-win](https://crates.io/crates/rightkit-launcher-win) | 0.1.0 | 0 | The Windows launcher panel over rightkit-launcher: a layered search window with… |
+| 2026-11-13 16:05:44 | [tessera-sort](https://crates.io/crates/tessera-sort) | 0.0.0 | 0 | Reserved. |
+| 2026-11-13 16:05:57 | [tessera-order](https://crates.io/crates/tessera-order) | 0.0.0 | 0 | Reserved. |
+| 2026-11-13 16:06:24 | [aci-tallies-geom](https://crates.io/crates/aci-tallies-geom) | 0.1.0 | 0 | Geometry of MCNP-style structured meshes (rectangular and cylindrical): voxel i… |
+| 2026-11-13 16:06:26 | [aci-tallies](https://crates.io/crates/aci-tallies) | 0.1.0 | 0 | Fast, out-of-core readers for MCNP tally files: meshtal (FMESH), MCTAL and D1SU… |
+| 2026-11-13 16:06:49 | [tapirus-ffi](https://crates.io/crates/tapirus-ffi) | 1.0.4 | 0 | C Foreign Function Interface (FFI) bindings for TapirusDB |
+| 2026-11-13 16:07:38 | [tapirus-wasm](https://crates.io/crates/tapirus-wasm) | 1.0.4 | 0 | WebAssembly (WASM) bindings for TapirusDB embedded AI database engine |
+| 2026-11-13 16:08:23 | [auric-body-class](https://crates.io/crates/auric-body-class) | 0.8.1 | 0 | Route classes on the document body addon for the Ember-inspired Auric SPA frame… |
+| 2026-11-13 16:08:30 | [auric-body-class-build](https://crates.io/crates/auric-body-class-build) | 0.8.1 | 0 | Codegen for the Body Class addon for the Ember-inspired Auric SPA framework |
+| 2026-11-13 16:09:57 | [ferridriver-perf](https://crates.io/crates/ferridriver-perf) | 0.6.0 | 0 | Chrome performance trace analysis: metrics and insights, in Rust |
+| 2026-11-13 16:10:45 | [auric-notify](https://crates.io/crates/auric-notify) | 0.8.1 | 0 | Notification messages addon for the Ember-inspired Auric SPA framework |
+| 2026-11-13 16:10:51 | [auric-notify-build](https://crates.io/crates/auric-notify-build) | 0.8.1 | 0 | Codegen for the Notify addon for the Ember-inspired Auric SPA framework |
+| 2026-11-13 16:11:07 | [auric-page-title](https://crates.io/crates/auric-page-title) | 0.8.1 | 0 | Document title addon for the Ember-inspired Auric SPA framework |
+| 2026-11-13 16:14:34 | [auric-page-title-build](https://crates.io/crates/auric-page-title-build) | 0.8.1 | 0 | Codegen for the Page Title addon for the Ember-inspired Auric SPA framework |
+| 2026-11-13 16:15:01 | [rune-dirs](https://crates.io/crates/rune-dirs) | 0.1.0 | 0 | Per-app config, cache, data and state directories (XDG, macOS, Windows) from a… |
+| 2026-11-13 16:17:21 | [celesta-media-image](https://crates.io/crates/celesta-media-image) | 0.0.0 | 0 | Placeholder for the Celesta project. The real crate is not published yet. |
+| 2026-11-13 16:17:24 | [celesta-codec-ffmpeg-x264](https://crates.io/crates/celesta-codec-ffmpeg-x264) | 0.0.0 | 0 | Placeholder for the Celesta project. The real crate is not published yet. |
+| 2026-11-13 16:17:28 | [celesta-codec-avfoundation](https://crates.io/crates/celesta-codec-avfoundation) | 0.0.0 | 0 | Placeholder for the Celesta project. The real crate is not published yet. |
+| 2026-11-13 16:17:30 | [celesta-codec-mediafoundation](https://crates.io/crates/celesta-codec-mediafoundation) | 0.0.0 | 0 | Placeholder for the Celesta project. The real crate is not published yet. |
 
 ## Data source
 
