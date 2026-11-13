@@ -1,0 +1,39 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-13T20:20:20.80696Z,wikineedle,0.3.0,0,0,https://gitlab.com/thoemmes/wikineedle,Random-access reader and HTTP server over Wikimedia multistream dumps
+2026-11-13T20:21:04.516914Z,xrack-mlir-bin-aarch64-pc-windows-msvc,0.5.0,0,0,https://github.com/smallsunsun1/xrack,Prebuilt XRack MLIR native library for aarch64-pc-windows-msvc
+2026-11-13T20:23:16.542502Z,maisa-core,0.1.0,0,0,https://github.com/mouhamed1296/maisa-core,MA-ISA: Multi-Axis Integrated State Accumulation. no_std reference implementation of Mathematical Specification 1.0.
+2026-11-13T20:25:02.013732Z,rune-config,0.2.0,0,0,https://github.com/alexile/runes,"Layered configuration (defaults, TOML, .env, environment, overrides) with per-key source tracking, a .env parser and env-to-struct deserialization"
+2026-11-13T20:28:13.650667Z,ic-testkit-wire,0.1.0,0,0,https://github.com/dragginzgame/ic-tooling,Version-specific IC Wire calls over Testkit's native PocketIC client
+2026-11-13T20:28:44.308502Z,fastgpui,0.1.0,0,0,https://github.com/AnswerDotAI/fastgpui,"Drive GPUI apps from Python, as fastcdp drives Chrome"
+2026-11-13T20:31:53.030487Z,xrack-mlir-bin-x86_64-pc-windows-msvc,0.5.0,0,0,https://github.com/smallsunsun1/xrack,Prebuilt XRack MLIR native library for x86_64-pc-windows-msvc
+2026-11-13T20:35:03.513601Z,rune-secret-ref,0.1.0,0,0,https://github.com/alexile/runes,"Secret references (env, file, command) resolved into a redacting SecretValue"
+2026-11-13T20:35:14.775794Z,musicdb,0.1.3,0,0,https://github.com/pedrohgmacedo/musicdb,"Apple Music .musicdb parser, inspector, and format analysis toolkit"
+2026-11-13T20:41:04.60933Z,xrack-ir,0.5.0,0,0,https://github.com/smallsunsun1/xrack,XRack ir support
+2026-11-13T20:42:37.751714Z,sawe,0.1.0,0,0,https://github.com/p1mo/sawe,"wrapper for salvo with handlebars, ufs, uiicons & SEO rendering"
+2026-11-13T20:45:03.127019Z,rune-secret-vault,0.1.0,0,0,https://github.com/alexile/runes,"Secret providers (env, file, OS keyring, HashiCorp Vault) with TTL caching over rune-secret-ref"
+2026-11-13T20:49:45.792008Z,zlink-zruntime,0.9.0,0,0,https://github.com/z-galaxy/zlink/,zlink library for the zruntime runtime
+2026-11-13T20:51:02.325563Z,xrack-mlir,0.5.0,0,0,https://github.com/smallsunsun1/xrack,XRack mlir support
+2026-11-13T20:53:33.611253Z,clipvault-tui,0.1.0,0,0,https://github.com/Jvamg/clipvault,Smart clipboard manager and Time-Machine for Linux (Wayland & X11)
+2026-11-13T20:54:47.964159Z,ultra-repeats,0.1.1,0,0,https://github.com/TravisWheelerLab/ultra-rs,"Rust port of ULTRA, a tool for finding and annotating tandem repeats in genomic sequence"
+2026-11-13T20:55:02.212389Z,rune-asn,0.1.0,0,0,https://github.com/alexile/runes,"IP-to-ASN and ASN-to-prefix lookup over BGP/RIR datasets (RouteViews pfx2as, iptoasn, bgpdump, RIR delegated stats) with longest-prefix match"
+2026-11-13T20:57:33.911637Z,any-value,0.1.0,0,0,https://github.com/nodeve-com/any-value,"A value of any one kind JSON holds, plus timestamps and durations, and serde to read and write it."
+2026-11-13T20:57:37.283291Z,pattern-emit,0.6.2,0,0,https://github.com/nodeve-com/pattern-emit,"RE2 patterns as search tables: compile builds each into a sparse DFA, a program that only searches links just the search."
+2026-11-13T20:57:40.173483Z,state-store,0.1.0,0,0,https://github.com/nodeve-com/state-store,"Recent entries kept in memory, bounded by count and by age: the newest, a list, a map by key, or a list for each key."
+2026-11-13T20:57:52.716121Z,schema-emit-runtime,0.6.2,0,0,https://github.com/nodeve-com/schema-emit,"What checks that schema-emit writes link: why a value fails, and where a failure goes."
+2026-11-13T20:57:57.387164Z,schema-emit,0.6.2,0,0,https://github.com/nodeve-com/schema-emit,"JSON Schema to Rust: types with serde decode and encode, and checks over typed values, linking schema-emit-runtime."
+2026-11-13T21:00:56.798732Z,xrack-resources,0.5.0,0,0,https://github.com/smallsunsun1/xrack,XRack resources support
+2026-11-13T21:03:41.55812Z,stock-trek-macros,0.1.0,0,0,https://github.com/Stock-Trek/stock-trek,Registration macros for stock-trek
+2026-11-13T21:05:02.054801Z,rune-burp-xml,0.1.0,0,0,https://github.com/alexile/runes,"Burp Suite items and issues XML export reader and writer over rune-http-model, base64 request/response to HttpExchange"
+2026-11-13T21:07:28.944128Z,qso-graph-interop,0.1.0,0,0,https://github.com/qso-graph/qso-graph-interop,Bounded sans-I/O amateur radio protocol codecs
+2026-11-13T21:07:35.556977Z,qso-graph-interop-cli,0.1.0,0,0,https://github.com/qso-graph/qso-graph-interop,"Decode, poll, and simulate amateur radio application protocols"
+2026-11-13T21:12:06.744478Z,ferrolith_core,0.1.0,0,0,https://github.com/emilienlemaire/ferrolith,LR(1) automaton and table construction for the ferrolith parser generator
+2026-11-13T21:12:18.797656Z,ferrolith_macro,0.1.0,0,0,https://github.com/emilienlemaire/ferrolith,Procedural macro implementation of the ferrolith parser generator
+2026-11-13T21:12:32.584609Z,ferrolith,0.1.0,0,0,https://github.com/emilienlemaire/ferrolith,An LR(1) parser generator driven by a `grammar!` procedural macro
+2026-11-13T21:15:44.497747Z,rune-notify,0.1.0,0,0,https://github.com/alexile/runes,"Notification sinks for findings and alerts: Slack, Discord, generic JSON webhook and Jira, over a caller-supplied HTTP transport"
+2026-11-13T21:17:54.437723Z,sc-decision-schema,0.1.0,0,0,,"Decision-layer contract for sc-agent: TypeSafe System One API types, the Backend and Decision traits, per-question digests."
+2026-11-13T21:18:32.19972Z,sc-llm-provider,0.1.0,0,0,,"Sans-IO LLM provider wire for sc-agent: Anthropic Messages and OpenAI-compatible Chat Completions, JSON-schema output."
+2026-11-13T21:19:01.496374Z,tailwind-classification-macros,0.3.0,0,0,https://github.com/sntran/tailwind.com,"The classification macros of the scanner of Tailwind CSS (crates/classification-macros of Tailwind CSS), for tailwind-scanner"
+2026-11-13T21:19:02.161611Z,tailwind-ignore,0.3.0,0,0,https://github.com/sntran/tailwind.com,"The fork of the crate ignore (from ripgrep) that the scanner of Tailwind CSS uses, for tailwind-scanner"
+2026-11-13T21:19:04.226897Z,tailwind-scanner,0.3.0,0,0,https://github.com/sntran/tailwind.com,"The scanner of Tailwind CSS (crates/oxide of Tailwind CSS), as the crate tailwind uses it"
+2026-11-13T21:19:05.970093Z,sc-decision-systemone,0.1.0,0,0,,System One decision backend for sc-agent: sans-IO encode/decode of POST /v1/systemone and GET /v1/models for Jev and any System One server.
+2026-11-13T21:19:06.432248Z,tailwind,0.3.0,0,0,https://github.com/sntran/tailwind.com,"A Tailwind CSS 4 compiler in Rust, with each version of Tailwind CSS 4 from 4.0.0"

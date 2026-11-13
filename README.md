@@ -8,62 +8,52 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-13 20:18 UTC
+## Latest list — 2026-11-13 21:19 UTC
 
-New crates published between 2026-11-13 19:18 UTC and 2026-11-13 20:18 UTC.
+New crates published between 2026-11-13 20:18 UTC and 2026-11-13 21:19 UTC.
 
-[Full CSV](data/new-crates-2026-11-13T20-18-40-12692Z.csv)
+[Full CSV](data/new-crates-2026-11-13T21-19-15-920301Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-13 19:18:51 | [zeebx-core](https://crates.io/crates/zeebx-core) | 0.1.1 | 0 | Host-independent implementation of the Qualcomm BREW platform: .mod/.mif/.bar p… |
-| 2026-11-13 19:19:17 | [carcilator](https://crates.io/crates/carcilator) | 0.0.1 | 0 | SystemVerilog simulator in Rust (IEEE 1800-2023, four-state). Placeholder: not… |
-| 2026-11-13 19:20:44 | [nexio-macros](https://crates.io/crates/nexio-macros) | 0.2.5 | 0 | Procedural macros (#[nexio::main] and #[nexio::test]) for the nexio async runti… |
-| 2026-11-13 19:21:45 | [mrve32](https://crates.io/crates/mrve32) | 0.1.1 | 0 | RV32IMAC machine-mode RISC-V MCU emulator with pluggable memory-mapped devices |
-| 2026-11-13 19:22:04 | [inkrs](https://crates.io/crates/inkrs) | 0.2.1 | 0 | GPU-resident ink inference for villa's flat ink readers and Hecate 9.6 um, writ… |
-| 2026-11-13 19:28:40 | [CatFrame](https://crates.io/crates/CatFrame) | 1.0.1 | 0 | A tiny terminal application that plays ASCII-art cat animations, frame by frame… |
-| 2026-11-13 19:31:13 | [tokedex](https://crates.io/crates/tokedex) | 0.0.0 | 0 | Placeholder for Tokedex, an open-source LLM router from Artificial Analysis. No… |
-| 2026-11-13 19:34:14 | [kap-solver](https://crates.io/crates/kap-solver) | 0.3.0 | 0 | k-assignment (k-partite matching) solvers and a rectangular linear assignment s… |
-| 2026-11-13 19:34:57 | [dependency-drama](https://crates.io/crates/dependency-drama) | 0.1.1 | 0 | Deadpan jokes about your dependencies, each one a true fact from the lockfile |
-| 2026-11-13 19:35:10 | [cpm-planner-core](https://crates.io/crates/cpm-planner-core) | 0.8.0 | 0 | Pure Critical Path Method kernel of cpm-planner: plan graph model, CPM forward/… |
-| 2026-11-13 19:35:29 | [image-capture](https://crates.io/crates/image-capture) | 0.1.0 | 0 | Owned ImageCaptureCore camera sessions over PTP for macOS |
-| 2026-11-13 19:36:18 | [zmux-seal-proto](https://crates.io/crates/zmux-seal-proto) | 1.2.6 | 0 | Sans-IO Establish handshake of the zmux secure carrier |
-| 2026-11-13 19:36:58 | [zmux-seal](https://crates.io/crates/zmux-seal) | 1.2.6 | 0 | The zmux secure carrier: Establish, trust anchors and gates over zmux carriers |
-| 2026-11-13 19:37:33 | [crabshell-reactive](https://crates.io/crates/crabshell-reactive) | 0.1.0 | 0 | Single-threaded signals, memos, effects and owners for Crabshell |
-| 2026-11-13 19:37:35 | [crabshell-ui](https://crates.io/crates/crabshell-ui) | 0.1.0 | 0 | Widgets, styles, layout, text layout, hit testing and invalidation for Crabshell |
-| 2026-11-13 19:37:37 | [crabshell-render](https://crates.io/crates/crabshell-render) | 0.1.0 | 0 | Draws Crabshell windows into pixmaps: shapes, text, icons and damage tracking |
-| 2026-11-13 19:37:39 | [crabshell-services](https://crates.io/crates/crabshell-services) | 0.1.0 | 0 | Crabshell's services, so far the clock, Sway workspaces, audio and the tray |
-| 2026-11-13 19:37:41 | [crabshell-wayland](https://crates.io/crates/crabshell-wayland) | 0.1.0 | 0 | Crabshell's Wayland platform: the event loop, layer-shell windows, outputs and… |
-| 2026-11-13 19:39:40 | [mrve32-snn](https://crates.io/crates/mrve32-snn) | 0.2.0 | 0 | SNN layer accelerator device module for the MRVE32 RISC-V emulator |
-| 2026-11-13 19:42:31 | [periscope-machines](https://crates.io/crates/periscope-machines) | 0.3.0 | 0 | Scoped integer ids: a caller-chosen scope in the top 16 bits, a never-reissued… |
-| 2026-11-13 19:47:06 | [rune-axum-concurrency](https://crates.io/crates/rune-axum-concurrency) | 0.1.0 | 0 | Concurrency limit middleware for Axum — bounded in-flight requests with 503 loa… |
-| 2026-11-13 19:47:15 | [rune-axum-health](https://crates.io/crates/rune-axum-health) | 0.1.0 | 0 | Health and readiness probes plus graceful shutdown for Axum — readiness flips o… |
-| 2026-11-13 19:47:29 | [rune-axum-problem](https://crates.io/crates/rune-axum-problem) | 0.1.0 | 0 | RFC 9457 problem details for Axum — application/problem+json error responses wi… |
-| 2026-11-13 19:47:30 | [gwid](https://crates.io/crates/gwid) | 0.0.3 | 0 | RFC 9562-compliant UUIDs |
-| 2026-11-13 19:47:45 | [rune-axum-requestid](https://crates.io/crates/rune-axum-requestid) | 0.1.0 | 0 | Request-id and W3C traceparent propagation layer for Axum — extensions, respons… |
-| 2026-11-13 19:49:01 | [crabshell](https://crates.io/crates/crabshell) | 0.1.0 | 0 | A full Rust replacement for Quickshell, where your whole shell is a Rust crate |
-| 2026-11-13 19:51:59 | [cargo-structure-diff](https://crates.io/crates/cargo-structure-diff) | 0.0.2 | 0 | Structural diff for Rust crates: extract the module graph, diff base against he… |
-| 2026-11-13 19:55:02 | [rune-axum-timeout](https://crates.io/crates/rune-axum-timeout) | 0.1.0 | 0 | Request timeout middleware for Axum — per-request deadline with a configurable… |
-| 2026-11-13 19:55:13 | [hopback](https://crates.io/crates/hopback) | 0.2.0 | 0 | Find, resume and fork coding-agent sessions across Claude Code, Codex and more |
-| 2026-11-13 19:56:59 | [dotenvx-official](https://crates.io/crates/dotenvx-official) | 0.1.2 | 0 | A secure dotenv for Rust—from the creator of dotenv |
-| 2026-11-13 19:58:35 | [vf_flag](https://crates.io/crates/vf_flag) | 0.1.0 | 0 | My own bitflags crate |
-| 2026-11-13 19:59:14 | [crabshell-cli](https://crates.io/crates/crabshell-cli) | 0.1.0 | 0 | The crabshell command: creates, checks and runs a Crabshell config |
-| 2026-11-13 20:05:01 | [rune-tower-circuitbreaker](https://crates.io/crates/rune-tower-circuitbreaker) | 0.1.0 | 0 | Circuit-breaker layer for Tower clients — opens on error-rate or slow-call-rate… |
-| 2026-11-13 20:05:05 | [assumptions](https://crates.io/crates/assumptions) | 0.1.0 | 0 | A crate for adding assumptions about the outside world that can change at any m… |
-| 2026-11-13 20:09:39 | [compiler-fuzzer-mutations](https://crates.io/crates/compiler-fuzzer-mutations) | 0.1.0 | 0 | Mutation-testing-style source mutations for LibAFL, from afl-compiler-fuzzer, f… |
-| 2026-11-13 20:12:08 | [giong-mcp](https://crates.io/crates/giong-mcp) | 0.4.0 | 0 | An MCP server that lets AI agents look inside a running giong service: workers,… |
-| 2026-11-13 20:12:08 | [giong-web](https://crates.io/crates/giong-web) | 0.4.0 | 0 | A router, middleware and JSON for HTTP services on the giong thread-per-core ru… |
-| 2026-11-13 20:13:20 | [sentinel4rust-core](https://crates.io/crates/sentinel4rust-core) | 0.1.0 | 0 | The technology-free core of sentinel4rust: the patrol and its back-off, the ros… |
-| 2026-11-13 20:13:25 | [xrack-syntax](https://crates.io/crates/xrack-syntax) | 0.5.0 | 0 | XRack syntax support |
-| 2026-11-13 20:13:34 | [xrack-mlir-bin-aarch64-apple-darwin](https://crates.io/crates/xrack-mlir-bin-aarch64-apple-darwin) | 0.5.0 | 0 | Prebuilt XRack MLIR native library for aarch64-apple-darwin |
-| 2026-11-13 20:13:35 | [xrack-mlir-bin-aarch64-unknown-linux-gnu](https://crates.io/crates/xrack-mlir-bin-aarch64-unknown-linux-gnu) | 0.5.0 | 0 | Prebuilt XRack MLIR native library for aarch64-unknown-linux-gnu |
-| 2026-11-13 20:13:36 | [xrack-mlir-bin-x86_64-unknown-linux-gnu](https://crates.io/crates/xrack-mlir-bin-x86_64-unknown-linux-gnu) | 0.5.0 | 0 | Prebuilt XRack MLIR native library for x86_64-unknown-linux-gnu |
-| 2026-11-13 20:13:37 | [xrack-parser](https://crates.io/crates/xrack-parser) | 0.5.0 | 0 | XRack parser support |
-| 2026-11-13 20:15:02 | [rune-tower-retry](https://crates.io/crates/rune-tower-retry) | 0.1.0 | 0 | Retry and hedging layer for Tower clients — backoff with jitter, a retry budget… |
-| 2026-11-13 20:15:29 | [ason-convert](https://crates.io/crates/ason-convert) | 1.3.0 | 0 | A Rust library for converting between ASON, ASONB, JSON, and JSONC. |
-| 2026-11-13 20:15:51 | [ason2b](https://crates.io/crates/ason2b) | 1.3.0 | 0 | Command-line tool for converting between ASON and ASONB. |
-| 2026-11-13 20:16:13 | [ason2j](https://crates.io/crates/ason2j) | 1.3.0 | 0 | Command-line tool for converting between ASON/ASONB and JSON/JSONC. |
-| 2026-11-13 20:16:47 | [mongot-standalone-client](https://crates.io/crates/mongot-standalone-client) | 0.2.0 | 0 | Typed BSON/gRPC client for standalone mongot |
+| 2026-11-13 20:20:20 | [wikineedle](https://crates.io/crates/wikineedle) | 0.3.0 | 0 | Random-access reader and HTTP server over Wikimedia multistream dumps |
+| 2026-11-13 20:21:04 | [xrack-mlir-bin-aarch64-pc-windows-msvc](https://crates.io/crates/xrack-mlir-bin-aarch64-pc-windows-msvc) | 0.5.0 | 0 | Prebuilt XRack MLIR native library for aarch64-pc-windows-msvc |
+| 2026-11-13 20:23:16 | [maisa-core](https://crates.io/crates/maisa-core) | 0.1.0 | 0 | MA-ISA: Multi-Axis Integrated State Accumulation. no_std reference implementati… |
+| 2026-11-13 20:25:02 | [rune-config](https://crates.io/crates/rune-config) | 0.2.0 | 0 | Layered configuration (defaults, TOML, .env, environment, overrides) with per-k… |
+| 2026-11-13 20:28:13 | [ic-testkit-wire](https://crates.io/crates/ic-testkit-wire) | 0.1.0 | 0 | Version-specific IC Wire calls over Testkit's native PocketIC client |
+| 2026-11-13 20:28:44 | [fastgpui](https://crates.io/crates/fastgpui) | 0.1.0 | 0 | Drive GPUI apps from Python, as fastcdp drives Chrome |
+| 2026-11-13 20:31:53 | [xrack-mlir-bin-x86_64-pc-windows-msvc](https://crates.io/crates/xrack-mlir-bin-x86_64-pc-windows-msvc) | 0.5.0 | 0 | Prebuilt XRack MLIR native library for x86_64-pc-windows-msvc |
+| 2026-11-13 20:35:03 | [rune-secret-ref](https://crates.io/crates/rune-secret-ref) | 0.1.0 | 0 | Secret references (env, file, command) resolved into a redacting SecretValue |
+| 2026-11-13 20:35:14 | [musicdb](https://crates.io/crates/musicdb) | 0.1.3 | 0 | Apple Music .musicdb parser, inspector, and format analysis toolkit |
+| 2026-11-13 20:41:04 | [xrack-ir](https://crates.io/crates/xrack-ir) | 0.5.0 | 0 | XRack ir support |
+| 2026-11-13 20:42:37 | [sawe](https://crates.io/crates/sawe) | 0.1.0 | 0 | wrapper for salvo with handlebars, ufs, uiicons & SEO rendering |
+| 2026-11-13 20:45:03 | [rune-secret-vault](https://crates.io/crates/rune-secret-vault) | 0.1.0 | 0 | Secret providers (env, file, OS keyring, HashiCorp Vault) with TTL caching over… |
+| 2026-11-13 20:49:45 | [zlink-zruntime](https://crates.io/crates/zlink-zruntime) | 0.9.0 | 0 | zlink library for the zruntime runtime |
+| 2026-11-13 20:51:02 | [xrack-mlir](https://crates.io/crates/xrack-mlir) | 0.5.0 | 0 | XRack mlir support |
+| 2026-11-13 20:53:33 | [clipvault-tui](https://crates.io/crates/clipvault-tui) | 0.1.0 | 0 | Smart clipboard manager and Time-Machine for Linux (Wayland & X11) |
+| 2026-11-13 20:54:47 | [ultra-repeats](https://crates.io/crates/ultra-repeats) | 0.1.1 | 0 | Rust port of ULTRA, a tool for finding and annotating tandem repeats in genomic… |
+| 2026-11-13 20:55:02 | [rune-asn](https://crates.io/crates/rune-asn) | 0.1.0 | 0 | IP-to-ASN and ASN-to-prefix lookup over BGP/RIR datasets (RouteViews pfx2as, ip… |
+| 2026-11-13 20:57:33 | [any-value](https://crates.io/crates/any-value) | 0.1.0 | 0 | A value of any one kind JSON holds, plus timestamps and durations, and serde to… |
+| 2026-11-13 20:57:37 | [pattern-emit](https://crates.io/crates/pattern-emit) | 0.6.2 | 0 | RE2 patterns as search tables: compile builds each into a sparse DFA, a program… |
+| 2026-11-13 20:57:40 | [state-store](https://crates.io/crates/state-store) | 0.1.0 | 0 | Recent entries kept in memory, bounded by count and by age: the newest, a list,… |
+| 2026-11-13 20:57:52 | [schema-emit-runtime](https://crates.io/crates/schema-emit-runtime) | 0.6.2 | 0 | What checks that schema-emit writes link: why a value fails, and where a failur… |
+| 2026-11-13 20:57:57 | [schema-emit](https://crates.io/crates/schema-emit) | 0.6.2 | 0 | JSON Schema to Rust: types with serde decode and encode, and checks over typed… |
+| 2026-11-13 21:00:56 | [xrack-resources](https://crates.io/crates/xrack-resources) | 0.5.0 | 0 | XRack resources support |
+| 2026-11-13 21:03:41 | [stock-trek-macros](https://crates.io/crates/stock-trek-macros) | 0.1.0 | 0 | Registration macros for stock-trek |
+| 2026-11-13 21:05:02 | [rune-burp-xml](https://crates.io/crates/rune-burp-xml) | 0.1.0 | 0 | Burp Suite items and issues XML export reader and writer over rune-http-model,… |
+| 2026-11-13 21:07:28 | [qso-graph-interop](https://crates.io/crates/qso-graph-interop) | 0.1.0 | 0 | Bounded sans-I/O amateur radio protocol codecs |
+| 2026-11-13 21:07:35 | [qso-graph-interop-cli](https://crates.io/crates/qso-graph-interop-cli) | 0.1.0 | 0 | Decode, poll, and simulate amateur radio application protocols |
+| 2026-11-13 21:12:06 | [ferrolith_core](https://crates.io/crates/ferrolith_core) | 0.1.0 | 0 | LR(1) automaton and table construction for the ferrolith parser generator |
+| 2026-11-13 21:12:18 | [ferrolith_macro](https://crates.io/crates/ferrolith_macro) | 0.1.0 | 0 | Procedural macro implementation of the ferrolith parser generator |
+| 2026-11-13 21:12:32 | [ferrolith](https://crates.io/crates/ferrolith) | 0.1.0 | 0 | An LR(1) parser generator driven by a `grammar!` procedural macro |
+| 2026-11-13 21:15:44 | [rune-notify](https://crates.io/crates/rune-notify) | 0.1.0 | 0 | Notification sinks for findings and alerts: Slack, Discord, generic JSON webhoo… |
+| 2026-11-13 21:17:54 | [sc-decision-schema](https://crates.io/crates/sc-decision-schema) | 0.1.0 | 0 | Decision-layer contract for sc-agent: TypeSafe System One API types, the Backen… |
+| 2026-11-13 21:18:32 | [sc-llm-provider](https://crates.io/crates/sc-llm-provider) | 0.1.0 | 0 | Sans-IO LLM provider wire for sc-agent: Anthropic Messages and OpenAI-compatibl… |
+| 2026-11-13 21:19:01 | [tailwind-classification-macros](https://crates.io/crates/tailwind-classification-macros) | 0.3.0 | 0 | The classification macros of the scanner of Tailwind CSS (crates/classification… |
+| 2026-11-13 21:19:02 | [tailwind-ignore](https://crates.io/crates/tailwind-ignore) | 0.3.0 | 0 | The fork of the crate ignore (from ripgrep) that the scanner of Tailwind CSS us… |
+| 2026-11-13 21:19:04 | [tailwind-scanner](https://crates.io/crates/tailwind-scanner) | 0.3.0 | 0 | The scanner of Tailwind CSS (crates/oxide of Tailwind CSS), as the crate tailwi… |
+| 2026-11-13 21:19:05 | [sc-decision-systemone](https://crates.io/crates/sc-decision-systemone) | 0.1.0 | 0 | System One decision backend for sc-agent: sans-IO encode/decode of POST /v1/sys… |
+| 2026-11-13 21:19:06 | [tailwind](https://crates.io/crates/tailwind) | 0.3.0 | 0 | A Tailwind CSS 4 compiler in Rust, with each version of Tailwind CSS 4 from 4.0… |
 
 ## Data source
 
