@@ -8,40 +8,42 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-12 23:18 UTC
+## Latest list — 2026-11-13 00:18 UTC
 
-New crates published between 2026-11-12 22:18 UTC and 2026-11-12 23:18 UTC.
+New crates published between 2026-11-12 23:18 UTC and 2026-11-13 00:18 UTC.
 
-[Full CSV](data/new-crates-2026-11-12T23-18-44-255756Z.csv)
+[Full CSV](data/new-crates-2026-11-13T00-18-59-098705Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-12 22:46:18 | [mm-compile](https://crates.io/crates/mm-compile) | 0.0.1 | 0 | micro-monty compiler: engine AST, symbol tables, bytecode, exception tables |
-| 2026-11-12 22:46:19 | [mm-core](https://crates.io/crates/mm-core) | 0.0.1 | 0 | micro-monty heap: NaN-boxed values, arena, tracing GC, write barrier, interning |
-| 2026-11-12 22:46:19 | [mm-parse](https://crates.io/crates/mm-parse) | 0.0.1 | 0 | micro-monty parser front end: Python source to the engine AST (no_std) |
-| 2026-11-12 22:46:21 | [mm-engine](https://crates.io/crates/mm-engine) | 0.0.1 | 0 | micro-monty VM and builtins: dispatch, calls, exceptions, async, fuel, pause |
-| 2026-11-12 22:46:24 | [mm-stdlib](https://crates.io/crates/mm-stdlib) | 0.0.1 | 0 | micro-monty bundled stdlib modules, one cargo feature per module |
-| 2026-11-12 22:46:45 | [emotibit](https://crates.io/crates/emotibit) | 0.1.0 | 0 | EmotiBit over WiFi (stock firmware) or Bluetooth (the emotibit-ble firmware): C… |
-| 2026-11-12 22:54:17 | [antodo](https://crates.io/crates/antodo) | 1.0.0 | 0 | A local-first desktop task planner with hierarchies, calendars, and finite recu… |
-| 2026-11-12 22:57:03 | [micro-monty](https://crates.io/crates/micro-monty) | 0.0.1 | 0 | Small, fast, durable Python-subset sandbox engine |
-| 2026-11-12 22:57:35 | [tv-rs-drivers](https://crates.io/crates/tv-rs-drivers) | 0.8.0 | 0 | Consolidated protocol-vendor drivers for tv-rs |
-| 2026-11-12 23:00:38 | [estat-api](https://crates.io/crates/estat-api) | 0.1.0 | 0 | Unofficial async Rust client and CLI for the e-Stat API v3.0, the API of Japan'… |
-| 2026-11-12 23:02:39 | [duroxide-mysql-tidb](https://crates.io/crates/duroxide-mysql-tidb) | 0.1.0 | 0 | MySQL 8.0+ and TiDB storage provider for Duroxide durable execution |
-| 2026-11-12 23:03:41 | [rightkit-agent-learning](https://crates.io/crates/rightkit-agent-learning) | 0.1.0 | 0 | Post-session learning for a coding agent (CodeRight): proposal extraction, eval… |
-| 2026-11-12 23:04:32 | [rightkit-agent-local-models](https://crates.io/crates/rightkit-agent-local-models) | 0.1.0 | 0 | Local model primitives for an agent host: hardware report, runtime detection, l… |
-| 2026-11-12 23:06:45 | [mln-rs-vec-map](https://crates.io/crates/mln-rs-vec-map) | 0.0.11 | 0 | Part of mln-rs, a Rust port of the MapLibre Native map rendering core. Depend o… |
-| 2026-11-12 23:06:51 | [mln-rs-image](https://crates.io/crates/mln-rs-image) | 0.0.11 | 0 | Part of mln-rs, a Rust port of the MapLibre Native map rendering core. Depend o… |
-| 2026-11-12 23:06:57 | [mln-rs-gl](https://crates.io/crates/mln-rs-gl) | 0.0.11 | 0 | Part of mln-rs, a Rust port of the MapLibre Native map rendering core. Depend o… |
-| 2026-11-12 23:06:58 | [mln-rs-mtl](https://crates.io/crates/mln-rs-mtl) | 0.0.11 | 0 | Part of mln-rs, a Rust port of the MapLibre Native map rendering core. Depend o… |
-| 2026-11-12 23:06:58 | [mln-rs-vulkan](https://crates.io/crates/mln-rs-vulkan) | 0.0.11 | 0 | Part of mln-rs, a Rust port of the MapLibre Native map rendering core. Depend o… |
-| 2026-11-12 23:08:04 | [pencil-puzzles-aquarium](https://crates.io/crates/pencil-puzzles-aquarium) | 0.5.0 | 0 | Aquarium solver, generator, checker and difficulty rater |
-| 2026-11-12 23:08:05 | [pencil-puzzles-binairo](https://crates.io/crates/pencil-puzzles-binairo) | 0.5.0 | 0 | Binairo solver, generator, checker and difficulty rater |
-| 2026-11-12 23:08:06 | [pencil-puzzles-chocona](https://crates.io/crates/pencil-puzzles-chocona) | 0.5.0 | 0 | Chocona solver, generator, checker and difficulty rater |
-| 2026-11-12 23:11:19 | [causs](https://crates.io/crates/causs) | 0.0.1 | 0 | Reserved name. Middleware and development environment for AI robotics. |
-| 2026-11-12 23:11:34 | [tethercam](https://crates.io/crates/tethercam) | 0.0.1 | 0 | Turn a USB-tethered Sony Alpha camera into an ONVIF/RTSP network camera for Uni… |
-| 2026-11-12 23:12:46 | [rs-arrow-dwords2pgcopy](https://crates.io/crates/rs-arrow-dwords2pgcopy) | 0.1.0 | 0 | Writes the 4-byte items in the array as pgcopy bytes. |
-| 2026-11-12 23:17:18 | [mln-rs-gestures](https://crates.io/crates/mln-rs-gestures) | 0.0.11 | 0 | Part of mln-rs, a Rust port of the MapLibre Native map rendering core. Depend o… |
-| 2026-11-12 23:18:39 | [nt_syntax](https://crates.io/crates/nt_syntax) | 0.1.12 | 0 | NestedText lexer, validator and value tree with official error messages |
+| 2026-11-12 23:20:33 | [xfs-lib](https://crates.io/crates/xfs-lib) | 0.1.2 | 0 | XFS on-disk decoding, RAID0 member mapping, salvage and signature carving |
+| 2026-11-12 23:20:54 | [xfs-doctor](https://crates.io/crates/xfs-doctor) | 0.1.2 | 0 | Inspect, map, salvage and carve damaged XFS images (read-only) |
+| 2026-11-12 23:21:43 | [serde_nt](https://crates.io/crates/serde_nt) | 0.1.12 | 0 | NestedText (de)serialization for serde, powered by nt_syntax |
+| 2026-11-12 23:23:35 | [temperance](https://crates.io/crates/temperance) | 2.1.3 | 0 | RPC, in moderation |
+| 2026-11-12 23:23:54 | [temperance-udp](https://crates.io/crates/temperance-udp) | 2.1.0 | 0 | Blocking UDP clients and servers for temperance |
+| 2026-11-12 23:27:33 | [mln-rs-runtime](https://crates.io/crates/mln-rs-runtime) | 0.0.11 | 0 | Part of mln-rs, a Rust port of the MapLibre Native map rendering core. Depend o… |
+| 2026-11-12 23:29:16 | [blockprint](https://crates.io/crates/blockprint) | 0.1.0 | 0 | Grid-based placement and routing (P&R) for chip design. |
+| 2026-11-12 23:30:19 | [yewi-fonts](https://crates.io/crates/yewi-fonts) | 0.1.0 | 0 | The self-hosted font files used by the yewi design system. |
+| 2026-11-12 23:30:21 | [yewi-test](https://crates.io/crates/yewi-test) | 0.1.0 | 0 | Server-side render helpers for testing Yew components. |
+| 2026-11-12 23:30:29 | [yewi](https://crates.io/crates/yewi) | 0.1.0 | 0 | A design system and component library for Yew applications. |
+| 2026-11-12 23:37:47 | [mln-rs-headless](https://crates.io/crates/mln-rs-headless) | 0.0.11 | 0 | Part of mln-rs, a Rust port of the MapLibre Native map rendering core. Depend o… |
+| 2026-11-12 23:38:56 | [reqtidy](https://crates.io/crates/reqtidy) | 0.1.8 | 0 | Fast Python requirements checker: validates, installs and tidies project depend… |
+| 2026-11-12 23:50:17 | [rootle-kernel](https://crates.io/crates/rootle-kernel) | 0.13.1 | 0 | Allocation-free request lifetime decisions extracted to Lean with Charon and Ae… |
+| 2026-11-12 23:55:07 | [lobbyism](https://crates.io/crates/lobbyism) | 0.1.0 | 0 | Lobbies and matchmaking for Rust games: wire protocol and async WebSocket clien… |
+| 2026-11-12 23:55:10 | [lobbyism-server](https://crates.io/crates/lobbyism-server) | 0.1.0 | 0 | Lobby and matchmaking server for Rust games: lobbies, skill-bucketed queues, an… |
+| 2026-11-12 23:55:18 | [mdhtml2gpui](https://crates.io/crates/mdhtml2gpui) | 0.1.0 | 0 | Render mdhtml documents as GPUI elements. |
+| 2026-11-13 00:01:58 | [snugly](https://crates.io/crates/snugly) | 0.1.0 | 0 | Deterministic 2D atlas packing of rectangles and irregular shapes: MaxRects and… |
+| 2026-11-13 00:06:50 | [simcraft](https://crates.io/crates/simcraft) | 0.0.0 | 0 | Simcraft: a simulation engine for discrete-event, agent-based, system dynamics,… |
+| 2026-11-13 00:09:35 | [v_html5escape](https://crates.io/crates/v_html5escape) | 1.0.0 | 0 | SIMD-accelerated escaping of the five HTML-sensitive characters. |
+| 2026-11-13 00:09:53 | [dodai-fx](https://crates.io/crates/dodai-fx) | 0.1.0 | 0 | Self-contained visual effects, no dependencies: surface textures and animated e… |
+| 2026-11-13 00:10:35 | [dodai-core](https://crates.io/crates/dodai-core) | 0.1.0 | 0 | Framework-agnostic design tokens, themes and theme switcher for Dodai UI, with… |
+| 2026-11-13 00:11:11 | [dodai-frost](https://crates.io/crates/dodai-frost) | 0.1.0 | 0 | Frosted glass on plain RGBA8 pixels: blur, tint, saturation and edge. GPU first… |
+| 2026-11-13 00:11:57 | [dodai-icons](https://crates.io/crates/dodai-icons) | 0.1.0 | 0 | Every Dodai icon in one crate: the typed IconId vocabulary, the Material Symbol… |
+| 2026-11-13 00:13:47 | [jscycles](https://crates.io/crates/jscycles) | 0.2.0 | 0 | Find circular imports between files and workspace packages in JavaScript and Ty… |
+| 2026-11-13 00:13:56 | [osdl](https://crates.io/crates/osdl) | 0.0.0 | 0 | OSDL: the Open Simulation Definition Language, a JSON format for discrete-event… |
+| 2026-11-13 00:13:59 | [simcraft-core](https://crates.io/crates/simcraft-core) | 0.0.0 | 0 | Simcraft core: the simulation kernel of Simcraft, a simulation engine for discr… |
+| 2026-11-13 00:14:28 | [cargo-warden](https://crates.io/crates/cargo-warden) | 0.1.0 | 0 | A unified Cargo plugin and code quality toolkit for Rust and Slint projects |
+| 2026-11-13 00:18:28 | [dodai-gpui](https://crates.io/crates/dodai-gpui) | 0.1.0 | 0 | GPUI components for the Dodai UI design system: 160+ themed widgets in Cyberpun… |
 
 ## Data source
 
