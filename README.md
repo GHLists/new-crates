@@ -8,68 +8,55 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-13 17:20 UTC
+## Latest list — 2026-11-13 18:18 UTC
 
-New crates published between 2026-11-13 16:19 UTC and 2026-11-13 17:20 UTC.
+New crates published between 2026-11-13 17:20 UTC and 2026-11-13 18:18 UTC.
 
-[Full CSV](data/new-crates-2026-11-13T17-20-45-644781Z.csv)
+[Full CSV](data/new-crates-2026-11-13T18-18-43-863404Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-13 16:21:01 | [syntagm-core](https://crates.io/crates/syntagm-core) | 0.1.0 | 0 | A small typed construction algebra: identified units, features, ordering and co… |
-| 2026-11-13 16:21:08 | [bruce-embedded-firmware](https://crates.io/crates/bruce-embedded-firmware) | 0.1.0 | 0 | The firmware for bruce-embedded-std boards on a computer: the shared folder it… |
-| 2026-11-13 16:21:09 | [syntagm-sequence](https://crates.io/crates/syntagm-sequence) | 0.1.0 | 0 | Ordered sequence patterns over caller-defined values, compiled to Syntagm sheet… |
-| 2026-11-13 16:21:10 | [bruce-embedded-flash](https://crates.io/crates/bruce-embedded-flash) | 0.1.0 | 0 | Flashes firmware built on bruce-embedded-std to a board, only if it was built f… |
-| 2026-11-13 16:21:13 | [bruce-embedded-flash-ui](https://crates.io/crates/bruce-embedded-flash-ui) | 0.1.0 | 0 | A Dioxus component for flashing bruce-embedded-std firmware to boards on USB, a… |
-| 2026-11-13 16:21:15 | [syntagm-morphology](https://crates.io/crates/syntagm-morphology) | 0.1.0 | 0 | Projects the structure of a Syntagm sheet into the published agglutinative and… |
-| 2026-11-13 16:21:17 | [syntagm-language-contract](https://crates.io/crates/syntagm-language-contract) | 0.1.0 | 0 | Reads the structures of a published simple_impl_language_interpreter LanguageCo… |
-| 2026-11-13 16:21:23 | [syntagm](https://crates.io/crates/syntagm) | 0.1.0 | 0 | Syntagm, one dependency: the construction algebra and checker, ordered and recu… |
-| 2026-11-13 16:22:27 | [cgp-api-macros](https://crates.io/crates/cgp-api-macros) | 0.1.2 | 0 | Proc-macro attribute #[entity_api] for generating cgp-api context wiring |
-| 2026-11-13 16:24:07 | [krishiv-store](https://crates.io/crates/krishiv-store) | 0.2.0 | 0 | Object-store layer shared by the Krishiv engine and platform: URLs, store build… |
-| 2026-11-13 16:24:24 | [krishiv-io](https://crates.io/crates/krishiv-io) | 0.2.0 | 0 | Object store and file format I/O |
-| 2026-11-13 16:24:57 | [krishiv-optimizer](https://crates.io/crates/krishiv-optimizer) | 0.2.0 | 0 | Query optimizer |
-| 2026-11-13 16:25:01 | [rune-fuzzyhash](https://crates.io/crates/rune-fuzzyhash) | 0.1.0 | 0 | TLSH and ssdeep (CTPH) fuzzy hashes with distance scoring for near-identical fi… |
-| 2026-11-13 16:25:30 | [krishiv-exec](https://crates.io/crates/krishiv-exec) | 0.2.0 | 0 | Batch execution engine |
-| 2026-11-13 16:25:50 | [krishiv-plan-codec](https://crates.io/crates/krishiv-plan-codec) | 0.2.0 | 0 | The krishiv.plan.v1 codec for physical plans |
-| 2026-11-13 16:25:59 | [ferridriver-viewer](https://crates.io/crates/ferridriver-viewer) | 0.6.0 | 0 | Embedded Playwright-compatible web apps (trace viewer, UI mode, recorder, HTML… |
-| 2026-11-13 16:27:48 | [auric-set-body-class](https://crates.io/crates/auric-set-body-class) | 0.8.1 | 0 | Template classes on the document body addon for the Ember-inspired Auric SPA fr… |
-| 2026-11-13 16:33:34 | [krishiv-session](https://crates.io/crates/krishiv-session) | 0.2.0 | 0 | Krishiv sessions: SQL and DataFrames over the engine |
-| 2026-11-13 16:33:57 | [netpix_log_parser](https://crates.io/crates/netpix_log_parser) | 0.1.0 | 0 | Crate for parsing rtc_event_log format |
-| 2026-11-13 16:35:03 | [rune-randomness](https://crates.io/crates/rune-randomness) | 0.1.0 | 0 | NIST SP 800-22 and FIPS 140-2 statistical randomness tests for tokens and bit s… |
-| 2026-11-13 16:35:27 | [lattice-agent-tools](https://crates.io/crates/lattice-agent-tools) | 0.6.0 | 0 | Documented, atomic agent tools for the Lattice editor: read, search, and revisi… |
-| 2026-11-13 16:37:01 | [auric-set-body-class-build](https://crates.io/crates/auric-set-body-class-build) | 0.8.1 | 0 | Codegen for the Set Body Class addon for the Ember-inspired Auric SPA framework |
-| 2026-11-13 16:39:38 | [moltn-pages-macros](https://crates.io/crates/moltn-pages-macros) | 0.1.0 | 0 | The #[page] attribute macro of moltn-pages. |
-| 2026-11-13 16:39:39 | [moltn-ssr](https://crates.io/crates/moltn-ssr) | 0.1.0 | 0 | Server-side rendering of Inertia v3 (Vue, React, Svelte) inside the Rust proces… |
-| 2026-11-13 16:39:39 | [moltn-toolchain](https://crates.io/crates/moltn-toolchain) | 0.1.0 | 0 | Detect, resolve and drive a project's JavaScript toolchain (Node, Bun, Deno; np… |
-| 2026-11-13 16:39:42 | [moltn-pages](https://crates.io/crates/moltn-pages) | 0.1.0 | 0 | File-based routing for Inertia (Vue, React, Svelte) on axum, with TypeScript ty… |
-| 2026-11-13 16:39:44 | [moltn-cli](https://crates.io/crates/moltn-cli) | 0.1.0 | 0 | The moltn command: create, develop, build and check Rust + Inertia applications… |
-| 2026-11-13 16:43:26 | [krishiv-ui-assets](https://crates.io/crates/krishiv-ui-assets) | 0.2.0 | 0 | Embedded web UI assets |
-| 2026-11-13 16:45:01 | [rune-simhash](https://crates.io/crates/rune-simhash) | 0.1.0 | 0 | SimHash and MinHash locality-sensitive signatures with shingling and an online… |
-| 2026-11-13 16:46:58 | [idl-rs](https://crates.io/crates/idl-rs) | 0.0.0 | 0 | Name reserved for the idl-rs telemetry engine. Not released yet; see the reposi… |
-| 2026-11-13 16:47:00 | [idl-rs-cli](https://crates.io/crates/idl-rs-cli) | 0.0.0 | 0 | Name reserved for the idl-rs command-line tool. Not released yet; see the repos… |
-| 2026-11-13 16:47:01 | [idl-library](https://crates.io/crates/idl-library) | 0.0.0 | 0 | Name reserved for the idl-rs ride library manager. Not released yet; see the re… |
-| 2026-11-13 16:49:41 | [bruce-esp-idf](https://crates.io/crates/bruce-esp-idf) | 0.1.0 | 0 | Bruce's ESP-IDF Platform: bruce-embedded-std on ESP32 boards, with Wi-Fi, an HT… |
-| 2026-11-13 16:51:30 | [rightkit-daemon-remote](https://crates.io/crates/rightkit-daemon-remote) | 0.1.0 | 0 | Remote side of a Right Suite daemon: the daemon-api v1 HTTPS host for enrolled… |
-| 2026-11-13 16:51:48 | [bottlecap](https://crates.io/crates/bottlecap) | 0.0.0 | 0 | Placeholder for Bottlecap, a fast, memory-efficient rate limiter for Rust. |
-| 2026-11-13 16:51:49 | [bottlecap-actix-web](https://crates.io/crates/bottlecap-actix-web) | 0.0.0 | 0 | Placeholder for Bottlecap, a fast, memory-efficient rate limiter for Rust. |
-| 2026-11-13 16:51:50 | [bottlecap-tower](https://crates.io/crates/bottlecap-tower) | 0.0.0 | 0 | Placeholder for Bottlecap, a fast, memory-efficient rate limiter for Rust. |
-| 2026-11-13 16:53:27 | [krishiv-server](https://crates.io/crates/krishiv-server) | 0.2.0 | 0 | Admin and UI API server |
-| 2026-11-13 16:55:02 | [rune-telemetry](https://crates.io/crates/rune-telemetry) | 0.1.0 | 0 | One-call tracing subscriber and OTLP trace export bootstrap configured from OTE… |
-| 2026-11-13 16:56:48 | [sqleq](https://crates.io/crates/sqleq) | 0.1.0 | 0 | Decides whether two SQL queries are equivalent, meaning they always return the… |
-| 2026-11-13 16:57:59 | [ferridriver-testjs](https://crates.io/crates/ferridriver-testjs) | 0.6.0 | 0 | TypeScript test-file front-end for the ferridriver test runner (QuickJS-native) |
-| 2026-11-13 17:00:36 | [rightkit-media-gen-client](https://crates.io/crates/rightkit-media-gen-client) | 0.1.0 | 0 | Client of the generation engine contract: drive an installed media-generation e… |
-| 2026-11-13 17:01:52 | [fluidattacks-core-snippets-domain](https://crates.io/crates/fluidattacks-core-snippets-domain) | 0.1.0 | 0 | Fluid Attacks snippets functional core (no_std) |
-| 2026-11-13 17:02:37 | [fluidattacks-core-snippets](https://crates.io/crates/fluidattacks-core-snippets) | 0.1.0 | 0 | Fluid Attacks Core Snippets |
-| 2026-11-13 17:03:26 | [krishiv-alloc](https://crates.io/crates/krishiv-alloc) | 0.2.0 | 0 | mimalloc settings and memory release for Krishiv binaries (never linked by libr… |
-| 2026-11-13 17:05:01 | [rune-transform](https://crates.io/crates/rune-transform) | 0.1.0 | 0 | Registry of named, chainable byte transforms (encode, decode, hash, compress) b… |
-| 2026-11-13 17:10:05 | [heatel](https://crates.io/crates/heatel) | 0.1.0 | 0 | Reads Valve's Source 2 formats (VPK, resources, KV3, textures, sounds, models,… |
-| 2026-11-13 17:10:24 | [lingokit-build](https://crates.io/crates/lingokit-build) | 0.1.0 | 0 | build.rs helper for lingokit (i18n for clap CLIs and rmcp MCP servers): validat… |
-| 2026-11-13 17:10:24 | [lingokit-macros](https://crates.io/crates/lingokit-macros) | 0.1.0 | 0 | derive(LocalizedError) for lingokit (i18n for clap CLIs and rmcp MCP servers) |
-| 2026-11-13 17:10:26 | [lingokit](https://crates.io/crates/lingokit) | 0.1.0 | 0 | Localize clap CLIs and rmcp MCP servers with Fluent: one set of .ftl files for… |
-| 2026-11-13 17:13:30 | [krishiv-mcp](https://crates.io/crates/krishiv-mcp) | 0.2.0 | 0 | MCP adapter |
-| 2026-11-13 17:15:01 | [rune-which](https://crates.io/crates/rune-which) | 0.1.0 | 0 | Cross-platform executable lookup on PATH or in given directories, honouring PAT… |
-| 2026-11-13 17:17:08 | [solana-ml-dsa](https://crates.io/crates/solana-ml-dsa) | 0.1.0 | 0 | ML-DSA-44 (FIPS 204) signature verification for Solana programs. |
-| 2026-11-13 17:19:23 | [frost-zec](https://crates.io/crates/frost-zec) | 0.1.0 | 0 | FROST threshold signing for shielded ZEC: DKG, ZIP 2005 group keys, re-randomiz… |
+| 2026-11-13 17:21:35 | [omma](https://crates.io/crates/omma) | 0.1.0 | 0 | An eye-strain break reminder for the macOS menu bar |
+| 2026-11-13 17:23:29 | [krishiv-cli](https://crates.io/crates/krishiv-cli) | 0.2.0 | 0 | Krishiv command line binary |
+| 2026-11-13 17:25:03 | [rune-dns-records](https://crates.io/crates/rune-dns-records) | 0.1.0 | 0 | Typed parsers and weakness checks for SPF, DKIM, DMARC, MTA-STS, TLS-RPT, BIMI,… |
+| 2026-11-13 17:27:08 | [valrig-nam](https://crates.io/crates/valrig-nam) | 0.0.1 | 0 | Pure-Rust Neural Amp Modeler (.nam) inference, allocation-free in the audio cal… |
+| 2026-11-13 17:27:18 | [io-gtasks](https://crates.io/crates/io-gtasks) | 0.1.0 | 0 | Google Tasks REST API client library for Rust |
+| 2026-11-13 17:27:56 | [ferrata](https://crates.io/crates/ferrata) | 0.1.0 | 0 | Alpine package dependency resolution that matches apk, in safe Rust |
+| 2026-11-13 17:29:13 | [hanabi_protocol](https://crates.io/crates/hanabi_protocol) | 0.1.0 | 0 | The messages of hanab.live's protocol (WebSocket and HTTP), typed, with their J… |
+| 2026-11-13 17:31:25 | [kartis](https://crates.io/crates/kartis) | 0.1.0 | 0 | Rust chart widgets and shared SVG/Canvas layouts for Glory |
+| 2026-11-13 17:35:02 | [rune-dns-resolver](https://crates.io/crates/rune-dns-resolver) | 0.1.0 | 0 | Async DNS stub resolver over rune-dns-wire: UDP with TCP fallback, DoT and DoH,… |
+| 2026-11-13 17:35:59 | [nlptoolkit-xmlparser](https://crates.io/crates/nlptoolkit-xmlparser) | 0.0.1 | 0 | Simple Xml Parser library |
+| 2026-11-13 17:40:11 | [kirch-units](https://crates.io/crates/kirch-units) | 0.0.1 | 0 | Engineering-notation parsing and IEC 60063 preferred values. |
+| 2026-11-13 17:40:14 | [kirch](https://crates.io/crates/kirch) | 0.0.1 | 0 | Engineering-notation parser and IEC 60063 preferred-value finder (CLI). |
+| 2026-11-13 17:41:38 | [cw32r031-pac](https://crates.io/crates/cw32r031-pac) | 0.1.0 | 0 | Zero-dependency register access crate (PAC) for the CW32R031 Cortex-M0+ MCU, ge… |
+| 2026-11-13 17:41:57 | [cw32w031-pac](https://crates.io/crates/cw32w031-pac) | 0.1.0 | 0 | Zero-dependency register access crate (PAC) for the CW32W031 Cortex-M0+ MCU, ge… |
+| 2026-11-13 17:42:27 | [parts](https://crates.io/crates/parts) | 0.0.1 | 0 | Placeholder to reserve the name. A real release is coming soon. |
+| 2026-11-13 17:43:06 | [pigeonhole-otel](https://crates.io/crates/pigeonhole-otel) | 0.1.0 | 0 | Exports Pigeonhole's engine metrics through OpenTelemetry. |
+| 2026-11-13 17:43:31 | [pigeonhole-embed](https://crates.io/crates/pigeonhole-embed) | 0.1.0 | 0 | Local text embeddings for pigeonhole-memory: a pinned open model, run on the CP… |
+| 2026-11-13 17:44:19 | [sulur-core](https://crates.io/crates/sulur-core) | 1.3.1 | 0 | Sulur memory core — graph schema, formation, recall, forgetting and the dream c… |
+| 2026-11-13 17:44:44 | [sulur-mcp](https://crates.io/crates/sulur-mcp) | 1.3.1 | 0 | MCP stdio server exposing the Sulur memory core to coding agents |
+| 2026-11-13 17:45:03 | [rune-dns-zone](https://crates.io/crates/rune-dns-zone) | 0.1.0 | 0 | Sans-I/O DNS zone-file (RFC 1035 master format) parser and writer with AXFR/IXF… |
+| 2026-11-13 17:45:08 | [sulur-server](https://crates.io/crates/sulur-server) | 1.3.1 | 0 | Sulur daemon: the memory core, the dream cycle and the Hermes wire protocol in… |
+| 2026-11-13 17:46:54 | [sulur-eval](https://crates.io/crates/sulur-eval) | 1.3.1 | 0 | Reproducible retrieval evaluation harness for Sulur memory engine |
+| 2026-11-13 17:47:59 | [vasak-gamification-protocol](https://crates.io/crates/vasak-gamification-protocol) | 0.1.0 | 0 | Contrato D-Bus compartido del servicio de gamificación de VasakOS |
+| 2026-11-13 17:49:32 | [sne](https://crates.io/crates/sne) | 0.1.0-beta.4 | 0 | Simple Node Environment: a fast, cross-platform Node.js version manager |
+| 2026-11-13 17:51:47 | [valrig-core](https://crates.io/crates/valrig-core) | 0.0.1 | 0 | The Valrig engine: a rack of modules, the controls on it, presets in and out, a… |
+| 2026-11-13 17:52:38 | [rake-autostart](https://crates.io/crates/rake-autostart) | 0.1.0-alpha.4 | 0 | Portable per-user launch-at-login settings, independent of GPUI |
+| 2026-11-13 17:52:39 | [rake-blaze-live](https://crates.io/crates/rake-blaze-live) | 0.1.0-alpha.4 | 0 | Pinned Blaze live-patch runtime for Rake (vendored upstream runtime) |
+| 2026-11-13 17:52:43 | [rake-tray](https://crates.io/crates/rake-tray) | 0.1.0-alpha.4 | 0 | Native tray resources and portable tray contracts for Rake |
+| 2026-11-13 17:52:46 | [rake-view-syntax](https://crates.io/crates/rake-view-syntax) | 0.1.0-alpha.4 | 0 | Internal view syntax for matching Rake versions; no external stability guarante… |
+| 2026-11-13 17:55:01 | [rune-http-model](https://crates.io/crates/rune-http-model) | 0.1.0 | 0 | Shared HTTP model: requests, responses, byte-exact bodies, headers, timings and… |
+| 2026-11-13 17:56:50 | [inlights-floor-api](https://crates.io/crates/inlights-floor-api) | 0.1.0 | 0 | Request and response types of the InLights Floor API, used by inlights-floor |
+| 2026-11-13 17:56:53 | [inlights-floor](https://crates.io/crates/inlights-floor) | 0.1.0 | 0 | Rust client for InLights Floor: KV, blob storage, jobs, realtime, messages, dev… |
+| 2026-11-13 17:59:13 | [sc-agent-types](https://crates.io/crates/sc-agent-types) | 0.1.0 | 0 | Shared value types for sc-agent: model catalog, providers, session ids, cancell… |
+| 2026-11-13 17:59:48 | [sc-agent-config](https://crates.io/crates/sc-agent-config) | 0.1.0 | 0 | Global sc-agent configuration (~/.sc-agent/default.json) loaded with sc-config. |
+| 2026-11-13 18:00:34 | [sc-agent-secrets](https://crates.io/crates/sc-agent-secrets) | 0.1.0 | 0 | API key resolution for sc-agent: process environment, repo-root .env, platform… |
+| 2026-11-13 18:01:18 | [sc-agent-log](https://crates.io/crates/sc-agent-log) | 0.1.0 | 0 | General and session loggers for sc-agent over sc-observability. |
+| 2026-11-13 18:02:01 | [sc-agent-http](https://crates.io/crates/sc-agent-http) | 0.1.0 | 0 | Sync HTTP layer for sc-agent: one send per call, busy and quota classification,… |
+| 2026-11-13 18:02:09 | [zyphra-textnorm](https://crates.io/crates/zyphra-textnorm) | 0.2.0 | 0 | Text normalization for TTS in 43 languages: native Rust ports of NeMo and ZONOS… |
+| 2026-11-13 18:05:01 | [rune-ip](https://crates.io/crates/rune-ip) | 0.1.0 | 0 | IPv4/IPv6 classification per the IANA special-purpose registries (global, priva… |
+| 2026-11-13 18:09:24 | [relate-gram](https://crates.io/crates/relate-gram) | 0.1.0 | 0 | Load gram files into Relate, export Relate databases as gram, and fix files the… |
+| 2026-11-13 18:15:01 | [rune-macaddr](https://crates.io/crates/rune-macaddr) | 0.1.0 | 0 | MAC address (EUI-48/EUI-64) parsing, formatting and classification with IEEE OU… |
 
 ## Data source
 
