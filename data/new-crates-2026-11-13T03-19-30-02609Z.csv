@@ -1,0 +1,24 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-13T02:23:38.134077Z,cutwater,0.1.0,0,0,https://gitlab.com/sakiori-oss/cutwater,"Releases the packages of a repository through one bot-maintained merge request, from reviewed changeset files"
+2026-11-13T02:27:33.667065Z,pod-link,0.0.0,0,0,https://github.com/PodUtils/podcrates,"A link between two peers: many streams over one carrier, with credit windows, a keepalive and pluggable carriers"
+2026-11-13T02:37:48.456242Z,pod-turn,0.0.0,0,0,https://github.com/PodUtils/podcrates,STUN codec and a TURN client (RFC 8656) over UDP and over TLS on TCP
+2026-11-13T02:37:50.993731Z,fyrainput,1.0.0,0,0,https://github.com/TitanCSA/FyraInput-SDK,Windows x64 FyraInput SDK with product-specific native bindings
+2026-11-13T02:37:59.775468Z,autohotinterceptor,1.0.0,0,0,https://github.com/TitanCSA/AutoHotInterceptor,Windows x64 AutoHotInterceptor SDK with product-specific native bindings
+2026-11-13T02:38:08.835489Z,fyrainput-gamepad,1.0.0,0,0,https://github.com/TitanCSA/FyraInput-Gamepad-SDK,Windows x64 FyraInput-Gamepad SDK with product-specific native bindings
+2026-11-13T02:38:17.504716Z,fyrainput-keyboard-mouse,1.0.0,0,0,https://github.com/TitanCSA/FyraInput-Keyboard-Mouse-SDK,Windows x64 FyraInput-Keyboard-Mouse SDK with product-specific native bindings
+2026-11-13T02:38:25.579022Z,interceptor-sdk,1.0.0,0,0,https://github.com/TitanCSA/Interceptor,Windows x64 Interceptor SDK with product-specific native bindings
+2026-11-13T02:40:35.205166Z,basalt-vault,1.0.0,0,0,https://github.com/CarterCole/rust-basalt,Basalt Protocol v1 — portable knowledge vaults over any key-value store
+2026-11-13T02:42:29.97424Z,interceptor-gamepad-controller,1.0.0,0,0,https://github.com/TitanCSA/Interceptor-Gamepad-Controller,Windows x64 Interceptor-Gamepad-Controller SDK with product-specific native bindings
+2026-11-13T02:42:34.213631Z,airadb,0.2.0,0,0,https://github.com/LingXia-Dev/airadb,"Pure Rust ADB client for TCP connections, Android 5+, and cross-platform embedding"
+2026-11-13T02:48:02.995119Z,pod-devtunnel,0.0.0,0,0,https://github.com/PodUtils/podcrates,"The client side of Microsoft Dev Tunnels: management API, relay WebSocket and SSH channels as byte streams"
+2026-11-13T02:53:06.922905Z,virbius-core,1.0.3,0,0,https://github.com/i1see1you/VirbiusAgent,"VirbiusAgent edge SDK: DLP, precheck, sandbox, Prompt Gateway, License"
+2026-11-13T02:55:21.80608Z,interceptor-keyboard-mouse,1.0.0,0,0,https://github.com/TitanCSA/Interceptor-Keyboard-Mouse,Windows x64 Interceptor-Keyboard-Mouse SDK with product-specific native bindings
+2026-11-13T02:55:55.621589Z,sesmesh,0.9.0,0,0,https://github.com/uvar-apps/sesmesh,Solvent Excluded Surface (Connolly surface) meshing for molecular structures
+2026-11-13T02:55:59.363811Z,sesmesh-cli,0.9.0,0,0,https://github.com/uvar-apps/sesmesh,"Command-line tool computing Solvent Excluded Surfaces (Connolly surfaces) of molecules as triangle meshes (OBJ, PLY, MSMS)"
+2026-11-13T02:58:16.612239Z,podswarm,0.0.0,0,0,https://github.com/PodUtils/podswarm,"ssh, but what you get is compute: the processors, memory and network of any machine you can reach, from one static binary"
+2026-11-13T02:58:19.275236Z,iphone-cli,0.1.1,0,0,https://github.com/HyunSeob/iphone-cli,"Let AI agents read and operate any app on a real iPhone through the accessibility tree. No XCUITest, WebDriverAgent or Xcode signing."
+2026-11-13T02:58:59.098568Z,rndr-flow,0.6.0,0,0,https://github.com/EntasisLabs/rndr,Optional headless scope ownership for rndr
+2026-11-13T03:00:18.622819Z,wxgeo,0.4.3,0,0,,WeChat built-in browser geolocation spoofer (MITM proxy + TUI)
+2026-11-13T03:04:15.639644Z,ct-ed25519,0.0.2,0,0,https://github.com/power-system/ct-ed25519,Constant-time Ed25519 signatures (RFC 8032)
+2026-11-13T03:05:26.569875Z,windows-gamepad-filter,1.0.0,0,0,https://github.com/titanfyre/Windows-Gamepad-Filter,Windows x64 Windows-Gamepad-Filter SDK with product-specific native bindings
+2026-11-13T03:17:57.787206Z,windows-input-filter,1.0.0,0,0,https://github.com/titanfyre/Windows-Input-Filter,Windows x64 Windows-Input-Filter SDK with product-specific native bindings

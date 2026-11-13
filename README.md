@@ -8,30 +8,37 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-13 02:20 UTC
+## Latest list — 2026-11-13 03:19 UTC
 
-New crates published between 2026-11-13 01:18 UTC and 2026-11-13 02:20 UTC.
+New crates published between 2026-11-13 02:20 UTC and 2026-11-13 03:19 UTC.
 
-[Full CSV](data/new-crates-2026-11-13T02-20-46-364748Z.csv)
+[Full CSV](data/new-crates-2026-11-13T03-19-30-02609Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-13 01:25:17 | [pod-tty](https://crates.io/crates/pod-tty) | 0.0.0 | 0 | The local terminal as a guard: raw mode and its restore on Unix and Windows |
-| 2026-11-13 01:31:08 | [fireline-classify](https://crates.io/crates/fireline-classify) | 0.0.0 | 0 | Placeholder: reserved for FireLine's Classify interface crate (dtype tokens). N… |
-| 2026-11-13 01:35:43 | [pod-fuse](https://crates.io/crates/pod-fuse) | 0.0.0 | 0 | A FUSE server with no libfuse, with the write opcodes and invalidation |
-| 2026-11-13 01:38:07 | [twip-graphics](https://crates.io/crates/twip-graphics) | 0.1.1 | 0 | Internal part of Twip (its 2D graphics: pictures drawn on the CPU and the GPU).… |
-| 2026-11-13 01:41:39 | [robius-theme](https://crates.io/crates/robius-theme) | 0.3.1 | 0 | Rust abstractions for getting the system's light or dark theme and subscribing… |
-| 2026-11-13 01:46:11 | [pod-cas](https://crates.io/crates/pod-cas) | 0.0.0 | 0 | A BLAKE3 content store with resume, placement, sweep and tree manifests |
-| 2026-11-13 01:47:52 | [clarity-app-mcp](https://crates.io/crates/clarity-app-mcp) | 0.1.0 | 0 | Clarity.AppMcp: the MCP service of the programs Clarity generates, offering an… |
-| 2026-11-13 01:56:32 | [pod-view](https://crates.io/crates/pod-view) | 0.0.0 | 0 | A live view of a directory: records, a frame codec and an ordered write-back log |
-| 2026-11-13 02:06:54 | [pod-attest](https://crates.io/crates/pod-attest) | 0.0.0 | 0 | The check of an SEV-SNP attestation report and the expected measurement of a gu… |
-| 2026-11-13 02:08:32 | [keel-libc](https://crates.io/crates/keel-libc) | 0.1.0 | 0 | A Rust no_std musl-compatible libc implementation |
-| 2026-11-13 02:08:38 | [keel-ldso](https://crates.io/crates/keel-ldso) | 0.1.0 | 0 | A Rust dynamic linker for musl-linked ELF binaries |
-| 2026-11-13 02:08:41 | [keel-rt](https://crates.io/crates/keel-rt) | 0.1.0 | 0 | A Rust musl-compatible libc with a dynamic linker |
-| 2026-11-13 02:08:46 | [keel-utils](https://crates.io/crates/keel-utils) | 0.1.0 | 0 | Rust implementations of the musl-utils commands for keel |
-| 2026-11-13 02:14:33 | [ontaria](https://crates.io/crates/ontaria) | 0.0.1 | 0 | Look up classes, properties, and resources in RDF Schema and OWL ontologies |
-| 2026-11-13 02:17:14 | [pod-ssh](https://crates.io/crates/pod-ssh) | 0.0.0 | 0 | An SSH client library with a host key policy, an auth chain and an exec channel |
-| 2026-11-13 02:17:38 | [ima](https://crates.io/crates/ima) | 0.0.0 | 0 | A simple image viewer |
+| 2026-11-13 02:23:38 | [cutwater](https://crates.io/crates/cutwater) | 0.1.0 | 0 | Releases the packages of a repository through one bot-maintained merge request,… |
+| 2026-11-13 02:27:33 | [pod-link](https://crates.io/crates/pod-link) | 0.0.0 | 0 | A link between two peers: many streams over one carrier, with credit windows, a… |
+| 2026-11-13 02:37:48 | [pod-turn](https://crates.io/crates/pod-turn) | 0.0.0 | 0 | STUN codec and a TURN client (RFC 8656) over UDP and over TLS on TCP |
+| 2026-11-13 02:37:50 | [fyrainput](https://crates.io/crates/fyrainput) | 1.0.0 | 0 | Windows x64 FyraInput SDK with product-specific native bindings |
+| 2026-11-13 02:37:59 | [autohotinterceptor](https://crates.io/crates/autohotinterceptor) | 1.0.0 | 0 | Windows x64 AutoHotInterceptor SDK with product-specific native bindings |
+| 2026-11-13 02:38:08 | [fyrainput-gamepad](https://crates.io/crates/fyrainput-gamepad) | 1.0.0 | 0 | Windows x64 FyraInput-Gamepad SDK with product-specific native bindings |
+| 2026-11-13 02:38:17 | [fyrainput-keyboard-mouse](https://crates.io/crates/fyrainput-keyboard-mouse) | 1.0.0 | 0 | Windows x64 FyraInput-Keyboard-Mouse SDK with product-specific native bindings |
+| 2026-11-13 02:38:25 | [interceptor-sdk](https://crates.io/crates/interceptor-sdk) | 1.0.0 | 0 | Windows x64 Interceptor SDK with product-specific native bindings |
+| 2026-11-13 02:40:35 | [basalt-vault](https://crates.io/crates/basalt-vault) | 1.0.0 | 0 | Basalt Protocol v1 — portable knowledge vaults over any key-value store |
+| 2026-11-13 02:42:29 | [interceptor-gamepad-controller](https://crates.io/crates/interceptor-gamepad-controller) | 1.0.0 | 0 | Windows x64 Interceptor-Gamepad-Controller SDK with product-specific native bin… |
+| 2026-11-13 02:42:34 | [airadb](https://crates.io/crates/airadb) | 0.2.0 | 0 | Pure Rust ADB client for TCP connections, Android 5+, and cross-platform embedd… |
+| 2026-11-13 02:48:02 | [pod-devtunnel](https://crates.io/crates/pod-devtunnel) | 0.0.0 | 0 | The client side of Microsoft Dev Tunnels: management API, relay WebSocket and S… |
+| 2026-11-13 02:53:06 | [virbius-core](https://crates.io/crates/virbius-core) | 1.0.3 | 0 | VirbiusAgent edge SDK: DLP, precheck, sandbox, Prompt Gateway, License |
+| 2026-11-13 02:55:21 | [interceptor-keyboard-mouse](https://crates.io/crates/interceptor-keyboard-mouse) | 1.0.0 | 0 | Windows x64 Interceptor-Keyboard-Mouse SDK with product-specific native bindings |
+| 2026-11-13 02:55:55 | [sesmesh](https://crates.io/crates/sesmesh) | 0.9.0 | 0 | Solvent Excluded Surface (Connolly surface) meshing for molecular structures |
+| 2026-11-13 02:55:59 | [sesmesh-cli](https://crates.io/crates/sesmesh-cli) | 0.9.0 | 0 | Command-line tool computing Solvent Excluded Surfaces (Connolly surfaces) of mo… |
+| 2026-11-13 02:58:16 | [podswarm](https://crates.io/crates/podswarm) | 0.0.0 | 0 | ssh, but what you get is compute: the processors, memory and network of any mac… |
+| 2026-11-13 02:58:19 | [iphone-cli](https://crates.io/crates/iphone-cli) | 0.1.1 | 0 | Let AI agents read and operate any app on a real iPhone through the accessibili… |
+| 2026-11-13 02:58:59 | [rndr-flow](https://crates.io/crates/rndr-flow) | 0.6.0 | 0 | Optional headless scope ownership for rndr |
+| 2026-11-13 03:00:18 | [wxgeo](https://crates.io/crates/wxgeo) | 0.4.3 | 0 | WeChat built-in browser geolocation spoofer (MITM proxy + TUI) |
+| 2026-11-13 03:04:15 | [ct-ed25519](https://crates.io/crates/ct-ed25519) | 0.0.2 | 0 | Constant-time Ed25519 signatures (RFC 8032) |
+| 2026-11-13 03:05:26 | [windows-gamepad-filter](https://crates.io/crates/windows-gamepad-filter) | 1.0.0 | 0 | Windows x64 Windows-Gamepad-Filter SDK with product-specific native bindings |
+| 2026-11-13 03:17:57 | [windows-input-filter](https://crates.io/crates/windows-input-filter) | 1.0.0 | 0 | Windows x64 Windows-Input-Filter SDK with product-specific native bindings |
 
 ## Data source
 
