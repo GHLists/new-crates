@@ -8,37 +8,51 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-13 03:19 UTC
+## Latest list — 2026-11-13 04:19 UTC
 
-New crates published between 2026-11-13 02:20 UTC and 2026-11-13 03:19 UTC.
+New crates published between 2026-11-13 03:19 UTC and 2026-11-13 04:19 UTC.
 
-[Full CSV](data/new-crates-2026-11-13T03-19-30-02609Z.csv)
+[Full CSV](data/new-crates-2026-11-13T04-19-40-718983Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-13 02:23:38 | [cutwater](https://crates.io/crates/cutwater) | 0.1.0 | 0 | Releases the packages of a repository through one bot-maintained merge request,… |
-| 2026-11-13 02:27:33 | [pod-link](https://crates.io/crates/pod-link) | 0.0.0 | 0 | A link between two peers: many streams over one carrier, with credit windows, a… |
-| 2026-11-13 02:37:48 | [pod-turn](https://crates.io/crates/pod-turn) | 0.0.0 | 0 | STUN codec and a TURN client (RFC 8656) over UDP and over TLS on TCP |
-| 2026-11-13 02:37:50 | [fyrainput](https://crates.io/crates/fyrainput) | 1.0.0 | 0 | Windows x64 FyraInput SDK with product-specific native bindings |
-| 2026-11-13 02:37:59 | [autohotinterceptor](https://crates.io/crates/autohotinterceptor) | 1.0.0 | 0 | Windows x64 AutoHotInterceptor SDK with product-specific native bindings |
-| 2026-11-13 02:38:08 | [fyrainput-gamepad](https://crates.io/crates/fyrainput-gamepad) | 1.0.0 | 0 | Windows x64 FyraInput-Gamepad SDK with product-specific native bindings |
-| 2026-11-13 02:38:17 | [fyrainput-keyboard-mouse](https://crates.io/crates/fyrainput-keyboard-mouse) | 1.0.0 | 0 | Windows x64 FyraInput-Keyboard-Mouse SDK with product-specific native bindings |
-| 2026-11-13 02:38:25 | [interceptor-sdk](https://crates.io/crates/interceptor-sdk) | 1.0.0 | 0 | Windows x64 Interceptor SDK with product-specific native bindings |
-| 2026-11-13 02:40:35 | [basalt-vault](https://crates.io/crates/basalt-vault) | 1.0.0 | 0 | Basalt Protocol v1 — portable knowledge vaults over any key-value store |
-| 2026-11-13 02:42:29 | [interceptor-gamepad-controller](https://crates.io/crates/interceptor-gamepad-controller) | 1.0.0 | 0 | Windows x64 Interceptor-Gamepad-Controller SDK with product-specific native bin… |
-| 2026-11-13 02:42:34 | [airadb](https://crates.io/crates/airadb) | 0.2.0 | 0 | Pure Rust ADB client for TCP connections, Android 5+, and cross-platform embedd… |
-| 2026-11-13 02:48:02 | [pod-devtunnel](https://crates.io/crates/pod-devtunnel) | 0.0.0 | 0 | The client side of Microsoft Dev Tunnels: management API, relay WebSocket and S… |
-| 2026-11-13 02:53:06 | [virbius-core](https://crates.io/crates/virbius-core) | 1.0.3 | 0 | VirbiusAgent edge SDK: DLP, precheck, sandbox, Prompt Gateway, License |
-| 2026-11-13 02:55:21 | [interceptor-keyboard-mouse](https://crates.io/crates/interceptor-keyboard-mouse) | 1.0.0 | 0 | Windows x64 Interceptor-Keyboard-Mouse SDK with product-specific native bindings |
-| 2026-11-13 02:55:55 | [sesmesh](https://crates.io/crates/sesmesh) | 0.9.0 | 0 | Solvent Excluded Surface (Connolly surface) meshing for molecular structures |
-| 2026-11-13 02:55:59 | [sesmesh-cli](https://crates.io/crates/sesmesh-cli) | 0.9.0 | 0 | Command-line tool computing Solvent Excluded Surfaces (Connolly surfaces) of mo… |
-| 2026-11-13 02:58:16 | [podswarm](https://crates.io/crates/podswarm) | 0.0.0 | 0 | ssh, but what you get is compute: the processors, memory and network of any mac… |
-| 2026-11-13 02:58:19 | [iphone-cli](https://crates.io/crates/iphone-cli) | 0.1.1 | 0 | Let AI agents read and operate any app on a real iPhone through the accessibili… |
-| 2026-11-13 02:58:59 | [rndr-flow](https://crates.io/crates/rndr-flow) | 0.6.0 | 0 | Optional headless scope ownership for rndr |
-| 2026-11-13 03:00:18 | [wxgeo](https://crates.io/crates/wxgeo) | 0.4.3 | 0 | WeChat built-in browser geolocation spoofer (MITM proxy + TUI) |
-| 2026-11-13 03:04:15 | [ct-ed25519](https://crates.io/crates/ct-ed25519) | 0.0.2 | 0 | Constant-time Ed25519 signatures (RFC 8032) |
-| 2026-11-13 03:05:26 | [windows-gamepad-filter](https://crates.io/crates/windows-gamepad-filter) | 1.0.0 | 0 | Windows x64 Windows-Gamepad-Filter SDK with product-specific native bindings |
-| 2026-11-13 03:17:57 | [windows-input-filter](https://crates.io/crates/windows-input-filter) | 1.0.0 | 0 | Windows x64 Windows-Input-Filter SDK with product-specific native bindings |
+| 2026-11-13 03:22:25 | [byob-docs](https://crates.io/crates/byob-docs) | 0.3.2 | 0 | Document text (PDF, .docx, .pptx) and PDF page images, pure Rust (L1) |
+| 2026-11-13 03:22:34 | [byob-memory](https://crates.io/crates/byob-memory) | 0.3.2 | 0 | Memory as a native plugin backend: plain memory.md files (global and per worksp… |
+| 2026-11-13 03:22:35 | [byob-web-tools](https://crates.io/crates/byob-web-tools) | 0.3.2 | 0 | Web search and page reading as a native plugin backend: the bundled web plugin'… |
+| 2026-11-13 03:24:49 | [yaits](https://crates.io/crates/yaits) | 0.0.1 | 0 | Experimental iterator expansions. |
+| 2026-11-13 03:28:44 | [coin-cli](https://crates.io/crates/coin-cli) | 0.0.1 | 0 | A CLI for your Coinbase account |
+| 2026-11-13 03:29:21 | [talin-macros](https://crates.io/crates/talin-macros) | 0.1.0 | 0 | Macro implementations for talin |
+| 2026-11-13 03:29:59 | [talin-provider](https://crates.io/crates/talin-provider) | 0.1.0 | 0 | A strongly-typed Rust client and type definitions for LLM provider APIs |
+| 2026-11-13 03:30:46 | [talin](https://crates.io/crates/talin) | 0.1.0 | 0 | A minimal, type-safe framework for defining LLM agents using TOML. |
+| 2026-11-13 03:31:23 | [talin-build](https://crates.io/crates/talin-build) | 0.1.0 | 0 | Build-time code generation for talin agents from TOML configuration files |
+| 2026-11-13 03:32:14 | [priorart](https://crates.io/crates/priorart) | 0.1.0 | 0 | Offline, deterministic prior-art dossiers for smart-contract audit findings: ha… |
+| 2026-11-13 03:32:55 | [compmd-pack](https://crates.io/crates/compmd-pack) | 0.7.0 | 0 | The names CompMD packs and their files are known by: a pack's name, a release,… |
+| 2026-11-13 03:33:13 | [compmd-host](https://crates.io/crates/compmd-host) | 0.7.0 | 0 | What every host of CompMD documents shares: the bundle and its manifest, the pa… |
+| 2026-11-13 03:34:02 | [windows-keyboard-mouse-filter](https://crates.io/crates/windows-keyboard-mouse-filter) | 1.0.0 | 0 | Windows x64 Windows-Keyboard-Mouse-Filter SDK with product-specific native bind… |
+| 2026-11-13 03:41:33 | [discord-mcp](https://crates.io/crates/discord-mcp) | 0.2.0 | 0 | MCP server for Discord: the whole REST API through one passthrough, with the AP… |
+| 2026-11-13 03:50:25 | [neocogi-com-serialization](https://crates.io/crates/neocogi-com-serialization) | 0.2.0-alpha.4 | 0 | Static and dynamic COM serialization plugin with NCB and lightweight JSON forma… |
+| 2026-11-13 03:51:09 | [fyradevice](https://crates.io/crates/fyradevice) | 1.0.0 | 0 | Windows x64 FyraDevice direct native SDK |
+| 2026-11-13 03:51:18 | [vdevice](https://crates.io/crates/vdevice) | 1.0.0 | 0 | Windows x64 Vdevice direct native SDK |
+| 2026-11-13 03:51:34 | [neocogi-com-serialization-dylib](https://crates.io/crates/neocogi-com-serialization-dylib) | 0.2.0-alpha.4 | 0 | Native COM serialization plugin with built-in NCB and JSON formats |
+| 2026-11-13 03:52:23 | [uf-bsp-core](https://crates.io/crates/uf-bsp-core) | 0.1.0 | 0 | Shared hardware metadata and USB helpers for uf-bsp board support crates |
+| 2026-11-13 03:52:29 | [windows-virtual-devices](https://crates.io/crates/windows-virtual-devices) | 1.0.0 | 0 | Windows x64 Windows-Virtual-Devices direct native SDK |
+| 2026-11-13 03:52:41 | [tbs-lucid-h7-bsp](https://crates.io/crates/tbs-lucid-h7-bsp) | 0.1.0 | 0 | Embassy-based board support for the TBS Lucid H7 flight controller |
+| 2026-11-13 03:52:50 | [speedybee-f405-v4-bsp](https://crates.io/crates/speedybee-f405-v4-bsp) | 0.1.0 | 0 | Embassy-based board support for the SpeedyBee F405 V4 flight controller |
+| 2026-11-13 03:54:06 | [blogen](https://crates.io/crates/blogen) | 0.1.0 | 0 | A fast, themeable static blog generator with math, syntax highlighting and Merm… |
+| 2026-11-13 03:56:11 | [optamus-host](https://crates.io/crates/optamus-host) | 1.0.3 | 0 | JSON-RPC 2.0 over stdio host that exposes the Optamus agent SDK to any language |
+| 2026-11-13 04:00:37 | [shiplist](https://crates.io/crates/shiplist) | 0.1.0 | 0 | Put every file in a repository in exactly one list, and check what ships in you… |
+| 2026-11-13 04:05:42 | [bevy-flock-core](https://crates.io/crates/bevy-flock-core) | 1.0.0 | 0 | The engine-free simulation core of bevy-flock: spatial index, steering, behavio… |
+| 2026-11-13 04:06:04 | [bevy-flock-ecs](https://crates.io/crates/bevy-flock-ecs) | 1.0.0 | 0 | The Bevy-facing half of bevy-flock: the plugin, components and systems, on top… |
+| 2026-11-13 04:06:10 | [jmap-blob-types](https://crates.io/crates/jmap-blob-types) | 0.0.1 | 0 | JMAP Blob Management (draft-ietf-jmap-blobext) types for Rust: capability ident… |
+| 2026-11-13 04:06:12 | [jmap-blob-server](https://crates.io/crates/jmap-blob-server) | 0.0.1 | 0 | JMAP Blob Management (draft-ietf-jmap-blobext) server for Rust: capability iden… |
+| 2026-11-13 04:06:13 | [jmap-blob-client](https://crates.io/crates/jmap-blob-client) | 0.0.1 | 0 | JMAP Blob Management (draft-ietf-jmap-blobext) client for Rust: capability iden… |
+| 2026-11-13 04:06:15 | [jmap-object-history-types](https://crates.io/crates/jmap-object-history-types) | 0.0.1 | 0 | JMAP Object History (draft-ietf-jmap-object-history) types for Rust: capability… |
+| 2026-11-13 04:06:16 | [jmap-object-history-server](https://crates.io/crates/jmap-object-history-server) | 0.0.1 | 0 | JMAP Object History (draft-ietf-jmap-object-history) server helpers for Rust: c… |
+| 2026-11-13 04:06:20 | [smop-macros](https://crates.io/crates/smop-macros) | 0.4.0 | 0 | Procedural macros for smop: the cmd! command template |
+| 2026-11-13 04:10:04 | [actix-spa](https://crates.io/crates/actix-spa) | 0.0.0 | 0 | Temporary reservation for this crate name. |
+| 2026-11-13 04:10:09 | [actix-web-sse](https://crates.io/crates/actix-web-sse) | 0.0.0 | 0 | Temporary reservation for this crate name. |
+| 2026-11-13 04:11:35 | [virbius-mcp-proxy](https://crates.io/crates/virbius-mcp-proxy) | 1.0.3 | 0 | VirbiusAgent MCP proxy: stdio/SSE routing with a security pipeline (license, al… |
+| 2026-11-13 04:16:18 | [jmap-object-history-client](https://crates.io/crates/jmap-object-history-client) | 0.0.1 | 0 | JMAP Object History (draft-ietf-jmap-object-history) client for Rust: capabilit… |
 
 ## Data source
 

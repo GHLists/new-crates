@@ -1,0 +1,38 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-13T03:22:25.006433Z,byob-docs,0.3.2,0,0,https://github.com/Scronkfinkle/byob,"Document text (PDF, .docx, .pptx) and PDF page images, pure Rust (L1)"
+2026-11-13T03:22:34.460678Z,byob-memory,0.3.2,0,0,https://github.com/Scronkfinkle/byob,"Memory as a native plugin backend: plain memory.md files (global and per workspace) in the prompt, remember/forget tools and a pane (L4)"
+2026-11-13T03:22:35.439854Z,byob-web-tools,0.3.2,0,0,https://github.com/Scronkfinkle/byob,Web search and page reading as a native plugin backend: the bundled web plugin's backend (L4)
+2026-11-13T03:24:49.927412Z,yaits,0.0.1,0,0,https://github.com/nanai10a/yaits,Experimental iterator expansions.
+2026-11-13T03:28:44.908448Z,coin-cli,0.0.1,0,0,https://github.com/HighDesertCode/coin-cli,A CLI for your Coinbase account
+2026-11-13T03:29:21.623305Z,talin-macros,0.1.0,0,0,https://github.com/Asteromorph-Corp/talin,Macro implementations for talin
+2026-11-13T03:29:59.698641Z,talin-provider,0.1.0,0,0,https://github.com/Asteromorph-Corp/talin,A strongly-typed Rust client and type definitions for LLM provider APIs
+2026-11-13T03:30:46.396151Z,talin,0.1.0,0,0,https://github.com/Asteromorph-Corp/talin,"A minimal, type-safe framework for defining LLM agents using TOML."
+2026-11-13T03:31:23.884105Z,talin-build,0.1.0,0,0,https://github.com/Asteromorph-Corp/talin,Build-time code generation for talin agents from TOML configuration files
+2026-11-13T03:32:14.955144Z,priorart,0.1.0,0,0,https://github.com/KhomDev/priorart,"Offline, deterministic prior-art dossiers for smart-contract audit findings: has this been found, is it excluded, and can it be paid?"
+2026-11-13T03:32:55.549983Z,compmd-pack,0.7.0,0,0,https://github.com/comp-markdown/compmd,"The names CompMD packs and their files are known by: a pack's name, a release, a file's path and place, an integrity. In development."
+2026-11-13T03:33:13.510285Z,compmd-host,0.7.0,0,0,https://github.com/comp-markdown/compmd,"What every host of CompMD documents shares: the bundle and its manifest, the pack store, and the serving contract, for any platform's adapter. In development."
+2026-11-13T03:34:02.334925Z,windows-keyboard-mouse-filter,1.0.0,0,0,https://github.com/titanfyre/Windows-Keyboard-Mouse-Filter,Windows x64 Windows-Keyboard-Mouse-Filter SDK with product-specific native bindings
+2026-11-13T03:41:33.014081Z,discord-mcp,0.2.0,0,0,https://github.com/DeityLamb/discord-mcp,"MCP server for Discord: the whole REST API through one passthrough, with the API reference built in"
+2026-11-13T03:50:25.360098Z,neocogi-com-serialization,0.2.0-alpha.4,0,0,https://github.com/NeoCogi/neocogi-com,Static and dynamic COM serialization plugin with NCB and lightweight JSON formats
+2026-11-13T03:51:09.698463Z,fyradevice,1.0.0,0,0,https://github.com/TitanCSA/FyraDevice-SDK,Windows x64 FyraDevice direct native SDK
+2026-11-13T03:51:18.713497Z,vdevice,1.0.0,0,0,https://github.com/TitanCSA/Vdevice,Windows x64 Vdevice direct native SDK
+2026-11-13T03:51:34.164824Z,neocogi-com-serialization-dylib,0.2.0-alpha.4,0,0,https://github.com/NeoCogi/neocogi-com,Native COM serialization plugin with built-in NCB and JSON formats
+2026-11-13T03:52:23.583331Z,uf-bsp-core,0.1.0,0,0,https://github.com/jettify/uf-bsp,Shared hardware metadata and USB helpers for uf-bsp board support crates
+2026-11-13T03:52:29.14235Z,windows-virtual-devices,1.0.0,0,0,https://github.com/titanfyre/Windows-Virtual-Devices,Windows x64 Windows-Virtual-Devices direct native SDK
+2026-11-13T03:52:41.961262Z,tbs-lucid-h7-bsp,0.1.0,0,0,https://github.com/jettify/uf-bsp,Embassy-based board support for the TBS Lucid H7 flight controller
+2026-11-13T03:52:50.109001Z,speedybee-f405-v4-bsp,0.1.0,0,0,https://github.com/jettify/uf-bsp,Embassy-based board support for the SpeedyBee F405 V4 flight controller
+2026-11-13T03:54:06.525279Z,blogen,0.1.0,0,0,https://github.com/SF-Zhou/blogen,"A fast, themeable static blog generator with math, syntax highlighting and Mermaid support"
+2026-11-13T03:56:11.299126Z,optamus-host,1.0.3,0,0,https://github.com/optamus-ai/optamus-sdk,JSON-RPC 2.0 over stdio host that exposes the Optamus agent SDK to any language
+2026-11-13T04:00:37.7033Z,shiplist,0.1.0,0,0,https://github.com/DocSpring/shiplist,"Put every file in a repository in exactly one list, and check what ships in your Docker images and packages"
+2026-11-13T04:05:42.351089Z,bevy-flock-core,1.0.0,0,0,https://github.com/greysquirr3l/bevy-flock,"The engine-free simulation core of bevy-flock: spatial index, steering, behaviour trees, cognition tiers and the continuum ambient tier, with no Bevy app in the dependency graph."
+2026-11-13T04:06:04.980414Z,bevy-flock-ecs,1.0.0,0,0,https://github.com/greysquirr3l/bevy-flock,"The Bevy-facing half of bevy-flock: the plugin, components and systems, on top of the engine-free simulation core."
+2026-11-13T04:06:10.556554Z,jmap-blob-types,0.0.1,0,0,https://github.com/MarkAtwood/crate-jmap,JMAP Blob Management (draft-ietf-jmap-blobext) types for Rust: capability identifier (early placeholder)
+2026-11-13T04:06:12.111374Z,jmap-blob-server,0.0.1,0,0,https://github.com/MarkAtwood/crate-jmap,JMAP Blob Management (draft-ietf-jmap-blobext) server for Rust: capability identifier (early placeholder)
+2026-11-13T04:06:13.695171Z,jmap-blob-client,0.0.1,0,0,https://github.com/MarkAtwood/crate-jmap,JMAP Blob Management (draft-ietf-jmap-blobext) client for Rust: capability identifier (early placeholder)
+2026-11-13T04:06:15.393639Z,jmap-object-history-types,0.0.1,0,0,https://github.com/MarkAtwood/crate-jmap,JMAP Object History (draft-ietf-jmap-object-history) types for Rust: capability identifier (early placeholder)
+2026-11-13T04:06:16.98923Z,jmap-object-history-server,0.0.1,0,0,https://github.com/MarkAtwood/crate-jmap,JMAP Object History (draft-ietf-jmap-object-history) server helpers for Rust: capability identifier (early placeholder)
+2026-11-13T04:06:20.572261Z,smop-macros,0.4.0,0,0,https://github.com/madmax983/smop,Procedural macros for smop: the cmd! command template
+2026-11-13T04:10:04.168032Z,actix-spa,0.0.0,0,0,,Temporary reservation for this crate name.
+2026-11-13T04:10:09.710328Z,actix-web-sse,0.0.0,0,0,,Temporary reservation for this crate name.
+2026-11-13T04:11:35.375547Z,virbius-mcp-proxy,1.0.3,0,0,https://github.com/i1see1you/VirbiusAgent,"VirbiusAgent MCP proxy: stdio/SSE routing with a security pipeline (license, allowlist, engine adjudication, audit)"
+2026-11-13T04:16:18.868994Z,jmap-object-history-client,0.0.1,0,0,https://github.com/MarkAtwood/crate-jmap,JMAP Object History (draft-ietf-jmap-object-history) client for Rust: capability identifier (early placeholder)
