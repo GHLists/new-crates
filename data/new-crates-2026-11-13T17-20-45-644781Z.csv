@@ -1,0 +1,55 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-13T16:21:01.856457Z,syntagm-core,0.1.0,0,0,,"A small typed construction algebra: identified units, features, ordering and co-occurrence relations, checked arrangements, typed refusals, deterministic traces, and 1o rule sheets"
+2026-11-13T16:21:08.773848Z,bruce-embedded-firmware,0.1.0,0,0,https://github.com/bruceskingle/bruce-embedded-flash,"The firmware for bruce-embedded-std boards on a computer: the shared folder it is kept in, by repository and version, and downloading it from GitHub releases."
+2026-11-13T16:21:09.168243Z,syntagm-sequence,0.1.0,0,0,,"Ordered sequence patterns over caller-defined values, compiled to Syntagm sheets and checked by syntagm-core"
+2026-11-13T16:21:10.925838Z,bruce-embedded-flash,0.1.0,0,0,https://github.com/bruceskingle/bruce-embedded-flash,"Flashes firmware built on bruce-embedded-std to a board, only if it was built for that board."
+2026-11-13T16:21:13.122155Z,bruce-embedded-flash-ui,0.1.0,0,0,https://github.com/bruceskingle/bruce-embedded-flash,"A Dioxus component for flashing bruce-embedded-std firmware to boards on USB, and a desktop app built with it."
+2026-11-13T16:21:15.07737Z,syntagm-morphology,0.1.0,0,0,,"Projects the structure of a Syntagm sheet into the published agglutinative and fusional morphology kernels, and reads their traces back as arrangements"
+2026-11-13T16:21:17.215624Z,syntagm-language-contract,0.1.0,0,0,,Reads the structures of a published simple_impl_language_interpreter LanguageContract as syntagm-sequence patterns
+2026-11-13T16:21:23.928163Z,syntagm,0.1.0,0,0,,"Syntagm, one dependency: the construction algebra and checker, ordered and recursive sequence patterns, and optional bridges to morphology kernels and published language contracts"
+2026-11-13T16:22:27.007089Z,cgp-api-macros,0.1.2,0,0,https://github.com/Just-Replicant/cgp-api,Proc-macro attribute #[entity_api] for generating cgp-api context wiring
+2026-11-13T16:24:07.841857Z,krishiv-store,0.2.0,0,0,https://github.com/KrishivAI/krishiv-engine,"Object-store layer shared by the Krishiv engine and platform: URLs, store building, credentials (ADR 0044)"
+2026-11-13T16:24:24.573653Z,krishiv-io,0.2.0,0,0,https://github.com/KrishivAI/krishiv-engine,Object store and file format I/O
+2026-11-13T16:24:57.801937Z,krishiv-optimizer,0.2.0,0,0,https://github.com/KrishivAI/krishiv-engine,Query optimizer
+2026-11-13T16:25:01.504127Z,rune-fuzzyhash,0.1.0,0,0,https://github.com/alexile/runes,TLSH and ssdeep (CTPH) fuzzy hashes with distance scoring for near-identical files and payloads
+2026-11-13T16:25:30.021058Z,krishiv-exec,0.2.0,0,0,https://github.com/KrishivAI/krishiv-engine,Batch execution engine
+2026-11-13T16:25:50.414964Z,krishiv-plan-codec,0.2.0,0,0,https://github.com/KrishivAI/krishiv-engine,The krishiv.plan.v1 codec for physical plans
+2026-11-13T16:25:59.982319Z,ferridriver-viewer,0.6.0,0,0,https://github.com/salamaashoush/ferridriver,"Embedded Playwright-compatible web apps (trace viewer, UI mode, recorder, HTML report) and the routes that feed them."
+2026-11-13T16:27:48.48251Z,auric-set-body-class,0.8.1,0,0,https://gitlab.com/megalithic-llc/auric-spa/auric.git,Template classes on the document body addon for the Ember-inspired Auric SPA framework
+2026-11-13T16:33:34.932978Z,krishiv-session,0.2.0,0,0,https://github.com/KrishivAI/krishiv-engine,Krishiv sessions: SQL and DataFrames over the engine
+2026-11-13T16:33:57.686647Z,netpix_log_parser,0.1.0,0,0,https://github.com/xMOROx/netpix,Crate for parsing rtc_event_log format
+2026-11-13T16:35:03.468355Z,rune-randomness,0.1.0,0,0,https://github.com/alexile/runes,NIST SP 800-22 and FIPS 140-2 statistical randomness tests for tokens and bit streams
+2026-11-13T16:35:27.931469Z,lattice-agent-tools,0.6.0,0,0,https://github.com/aaaleid/lattice-editor,"Documented, atomic agent tools for the Lattice editor: read, search, and revision-safe edits."
+2026-11-13T16:37:01.893181Z,auric-set-body-class-build,0.8.1,0,0,https://gitlab.com/megalithic-llc/auric-spa/auric.git,Codegen for the Set Body Class addon for the Ember-inspired Auric SPA framework
+2026-11-13T16:39:38.652642Z,moltn-pages-macros,0.1.0,0,0,https://github.com/moltn-dev/moltn-libs,The #[page] attribute macro of moltn-pages.
+2026-11-13T16:39:39.269714Z,moltn-ssr,0.1.0,0,0,https://github.com/moltn-dev/moltn-libs,"Server-side rendering of Inertia v3 (Vue, React, Svelte) inside the Rust process, with an embedded JavaScript engine."
+2026-11-13T16:39:39.706751Z,moltn-toolchain,0.1.0,0,0,https://github.com/moltn-dev/moltn-libs,"Detect, resolve and drive a project's JavaScript toolchain (Node, Bun, Deno; npm, pnpm, Yarn, bun) from Rust."
+2026-11-13T16:39:42.095171Z,moltn-pages,0.1.0,0,0,https://github.com/moltn-dev/moltn-libs,"File-based routing for Inertia (Vue, React, Svelte) on axum, with TypeScript types generated from Rust."
+2026-11-13T16:39:44.411621Z,moltn-cli,0.1.0,0,0,https://github.com/moltn-dev/moltn-libs,"The moltn command: create, develop, build and check Rust + Inertia applications (Vue, React, Svelte)."
+2026-11-13T16:43:26.301203Z,krishiv-ui-assets,0.2.0,0,0,https://github.com/KrishivAI/krishiv-engine,Embedded web UI assets
+2026-11-13T16:45:01.694322Z,rune-simhash,0.1.0,0,0,https://github.com/alexile/runes,SimHash and MinHash locality-sensitive signatures with shingling and an online near-duplicate clusterer
+2026-11-13T16:46:58.857516Z,idl-rs,0.0.0,0,0,https://github.com/saucyeng/idl-rs,Name reserved for the idl-rs telemetry engine. Not released yet; see the repository.
+2026-11-13T16:47:00.022478Z,idl-rs-cli,0.0.0,0,0,https://github.com/saucyeng/idl-rs,Name reserved for the idl-rs command-line tool. Not released yet; see the repository.
+2026-11-13T16:47:01.071885Z,idl-library,0.0.0,0,0,https://github.com/saucyeng/idl-rs,Name reserved for the idl-rs ride library manager. Not released yet; see the repository.
+2026-11-13T16:49:41.983558Z,bruce-esp-idf,0.1.0,0,0,https://github.com/bruceskingle/bruce-esp-idf,"Bruce's ESP-IDF Platform: bruce-embedded-std on ESP32 boards, with Wi-Fi, an HTTP server, settings in NVS and drivers for each board's hardware"
+2026-11-13T16:51:30.287392Z,rightkit-daemon-remote,0.1.0,0,0,https://github.com/bogusyogi/rightkit,"Remote side of a Right Suite daemon: the daemon-api v1 HTTPS host for enrolled devices, the blocking rk-link/1 device client and the rk-relay/1 blind relay protocol."
+2026-11-13T16:51:48.805052Z,bottlecap,0.0.0,0,0,https://github.com/explodingcamera/bottlecap,"Placeholder for Bottlecap, a fast, memory-efficient rate limiter for Rust."
+2026-11-13T16:51:49.499148Z,bottlecap-actix-web,0.0.0,0,0,https://github.com/explodingcamera/bottlecap,"Placeholder for Bottlecap, a fast, memory-efficient rate limiter for Rust."
+2026-11-13T16:51:50.059199Z,bottlecap-tower,0.0.0,0,0,https://github.com/explodingcamera/bottlecap,"Placeholder for Bottlecap, a fast, memory-efficient rate limiter for Rust."
+2026-11-13T16:53:27.287101Z,krishiv-server,0.2.0,0,0,https://github.com/KrishivAI/krishiv-engine,Admin and UI API server
+2026-11-13T16:55:02.36703Z,rune-telemetry,0.1.0,0,0,https://github.com/alexile/runes,One-call tracing subscriber and OTLP trace export bootstrap configured from OTEL_* and RUST_LOG environment variables
+2026-11-13T16:56:48.942224Z,sqleq,0.1.0,0,0,https://github.com/datadog-labs/sqleq,"Decides whether two SQL queries are equivalent, meaning they always return the same results. Aims to return a proof when they are equivalent or a concrete counterexample when they are not."
+2026-11-13T16:57:59.052949Z,ferridriver-testjs,0.6.0,0,0,,TypeScript test-file front-end for the ferridriver test runner (QuickJS-native)
+2026-11-13T17:00:36.639072Z,rightkit-media-gen-client,0.1.0,0,0,https://github.com/bogusyogi/rightkit,"Client of the generation engine contract: drive an installed media-generation engine (submit, follow, import) with a crash-safe journal and recovery, model catalog checks and generated-source import,…"
+2026-11-13T17:01:52.681592Z,fluidattacks-core-snippets-domain,0.1.0,0,0,https://gitlab.com/fluidattacks/universe,Fluid Attacks snippets functional core (no_std)
+2026-11-13T17:02:37.574899Z,fluidattacks-core-snippets,0.1.0,0,0,https://gitlab.com/fluidattacks/universe,Fluid Attacks Core Snippets
+2026-11-13T17:03:26.222975Z,krishiv-alloc,0.2.0,0,0,https://github.com/KrishivAI/krishiv-engine,mimalloc settings and memory release for Krishiv binaries (never linked by libraries)
+2026-11-13T17:05:01.523307Z,rune-transform,0.1.0,0,0,https://github.com/alexile/runes,"Registry of named, chainable byte transforms (encode, decode, hash, compress) built on the rune codecs"
+2026-11-13T17:10:05.183801Z,heatel,0.1.0,0,0,https://github.com/alexstanovoy/heatel,"Reads Valve's Source 2 formats (VPK, resources, KV3, textures, sounds, models, materials, particles, worlds) and converts them to glTF, KTX2, PNG, WAV, MP3 and JSON; tested on Dota 2."
+2026-11-13T17:10:24.278277Z,lingokit-build,0.1.0,0,0,https://github.com/lovelygenerator/lingokit,build.rs helper for lingokit (i18n for clap CLIs and rmcp MCP servers): validates FTL files and generates typed accessors
+2026-11-13T17:10:24.855158Z,lingokit-macros,0.1.0,0,0,https://github.com/lovelygenerator/lingokit,derive(LocalizedError) for lingokit (i18n for clap CLIs and rmcp MCP servers)
+2026-11-13T17:10:26.83944Z,lingokit,0.1.0,0,0,https://github.com/lovelygenerator/lingokit,"Localize clap CLIs and rmcp MCP servers with Fluent: one set of .ftl files for help, errors, tool descriptions and messages"
+2026-11-13T17:13:30.982664Z,krishiv-mcp,0.2.0,0,0,https://github.com/KrishivAI/krishiv-engine,MCP adapter
+2026-11-13T17:15:01.652247Z,rune-which,0.1.0,0,0,https://github.com/alexile/runes,"Cross-platform executable lookup on PATH or in given directories, honouring PATHEXT"
+2026-11-13T17:17:08.045832Z,solana-ml-dsa,0.1.0,0,0,https://github.com/blueshift-gg/solana-ml-dsa,ML-DSA-44 (FIPS 204) signature verification for Solana programs.
+2026-11-13T17:19:23.11048Z,frost-zec,0.1.0,0,0,https://github.com/OpenPGP-Wallet/frost-zec,"FROST threshold signing for shielded ZEC: DKG, ZIP 2005 group keys, re-randomized PCZT signing, co-signer checks and member backup strings"
