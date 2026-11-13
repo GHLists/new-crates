@@ -1,0 +1,28 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-13T04:20:02.132831Z,optamus-sdk,1.0.4,0,0,,Optamus SDK — embed the Optamus coding agent in Rust applications
+2026-11-13T04:26:20.733696Z,jmap-object-history,0.0.1,0,0,https://github.com/MarkAtwood/crate-jmap,JMAP Object History (draft-ietf-jmap-object-history) for Rust: capability identifier (early placeholder)
+2026-11-13T04:32:42.893085Z,kumoba-protocol,0.1.0,0,0,https://github.com/Parassharmaa/kumoba,"Host-guest wire protocol shared by kumoba, kumoba-worker and kumoba-guest"
+2026-11-13T04:32:46.673668Z,kumoba,0.1.0,0,0,https://github.com/Parassharmaa/kumoba,Local libkrun microVM sandboxes for Rust applications
+2026-11-13T04:32:48.036707Z,kumoba-guest,0.1.0,0,0,https://github.com/Parassharmaa/kumoba,"PID 1 agent that runs inside kumoba microVMs and serves commands, files and the desktop over vsock"
+2026-11-13T04:32:51.496893Z,kumobad,0.1.0,0,0,https://github.com/Parassharmaa/kumoba,HTTP daemon and per-VM worker serving kumoba microVM sandboxes
+2026-11-13T04:36:22.78098Z,jmap-conditional,0.0.1,0,0,https://github.com/MarkAtwood/crate-jmap,JMAP conditional and atomic Foo/set (draft-ietf-jmap-conditional) for Rust: capability identifier (early placeholder)
+2026-11-13T04:46:24.750183Z,jmap-emailpush,0.0.1,0,0,https://github.com/MarkAtwood/crate-jmap,JMAP EmailPush (draft-ietf-jmap-emailpush) for Rust: capability identifier (early placeholder)
+2026-11-13T04:52:50.894397Z,bevy-flock-anim,1.0.0,0,0,https://github.com/greysquirr3l/bevy-flock,"Blended clip weights, gaze and gesture playback for bevy-flock crowds: the layer that makes a simulated crowd look alive."
+2026-11-13T04:52:58.243404Z,bevy-flock,1.0.0,0,0,https://github.com/greysquirr3l/bevy-flock,"Deterministic crowd and NPC simulation for Bevy: boids, budgeted level-of-detail cognition, pluggable behaviour, and a continuum ambient tier that scales past a million inhabitants."
+2026-11-13T04:53:32.983357Z,file-trace-studio,1.0.0,0,0,https://github.com/titanfyre/File-Trace-Studio,Windows x64 File-Trace-Studio direct native SDK
+2026-11-13T04:53:41.763928Z,connection-trace-studio,1.0.0,0,0,https://github.com/titanfyre/Connection-Trace-Studio,Windows x64 Connection-Trace-Studio direct native SDK
+2026-11-13T04:53:50.833008Z,process-trace-studio,1.0.0,0,0,https://github.com/titanfyre/Process-Trace-Studio,Windows x64 Process-Trace-Studio direct native SDK
+2026-11-13T04:53:59.462231Z,processguard-sdk,1.0.0,0,0,https://github.com/titanfyre/ProcessGuard-SDK,Windows x64 ProcessGuard-SDK direct native SDK
+2026-11-13T04:54:08.131072Z,registryguard,1.0.0,0,0,https://github.com/titanfyre/RegistryGuard,Windows x64 RegistryGuard direct native SDK
+2026-11-13T04:56:26.713976Z,jmap-mdn,0.0.1,0,0,https://github.com/MarkAtwood/crate-jmap,JMAP Message Disposition Notifications (RFC 9007) for Rust: capability identifier (early placeholder)
+2026-11-13T04:58:50.060077Z,composeports,0.1.0,0,0,https://github.com/PrinceAdvant/composeports,List the host ports published by Docker Compose files and catch conflicts before docker compose up fails.
+2026-11-13T05:01:47.248803Z,run-fast,0.1.0,0,0,https://github.com/CunZaijiali/QH-Runfast,Start configured programs quickly: a shortcut and alias launcher driven by a TOML file
+2026-11-13T05:02:48.286612Z,storage-io-flight-recorder,1.0.0,0,0,https://github.com/titanfyre/Storage-IO-Flight-Recorder,Windows x64 Storage-IO-Flight-Recorder direct native SDK
+2026-11-13T05:06:28.618439Z,jmap-sieve,0.0.1,0,0,https://github.com/MarkAtwood/crate-jmap,JMAP for Sieve Scripts (RFC 9661) for Rust: capability identifier (early placeholder)
+2026-11-13T05:10:32.435456Z,libeq_pfs,0.5.1,0,0,https://github.com/cjab/libeq,An Everquest pfs/s3d/eqg file loader
+2026-11-13T05:11:34.548513Z,libeq_wld,0.5.1,0,0,https://github.com/cjab/libeq,An Everquest .wld file loader
+2026-11-13T05:12:28.473268Z,virtual-storage-fault-lab,1.0.0,0,0,https://github.com/titanfyre/Virtual-Storage-Fault-Lab,Windows x64 Virtual-Storage-Fault-Lab direct native SDK
+2026-11-13T05:13:30.210466Z,wolftpm2-src,0.3.2,0,0,https://github.com/MarkAtwood/wolfssl-rs,Compile wolfTPM from source for use by wolftpm2-sys (formerly published as wolftpm-src)
+2026-11-13T05:13:41.2603Z,knownbots,0.1.0,0,0,https://github.com/cnlangzi/knownbots-rust,Verify known crawlers via User-Agent and published IP ranges
+2026-11-13T05:17:16.46692Z,libeq_s3d,0.5.1,0,0,https://github.com/cjab/libeq,An Everquest pfs/s3d/eqg cli tool
+2026-11-13T05:17:56.122403Z,libeq,0.5.1,0,0,https://github.com/cjab/libeq,Libraries and tools for working with EverQuest game data
