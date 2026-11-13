@@ -1,0 +1,38 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-13T07:22:37.974988Z,remote-workstation-sdk,1.0.0,0,0,https://github.com/titanfyre/Remote-Workstation-SDK,Windows x64 Remote-Workstation-SDK direct native SDK
+2026-11-13T07:23:28.073585Z,yolowsyntax,0.1.0,0,0,https://github.com/YOLOW92/yolowsyntax,"Pure-Rust tree-sitter grammar runtime and code outline extractor (symbols, imports, sections) for 41 languages."
+2026-11-13T07:24:19.356248Z,bunsen-tool,0.42.0,0,0,https://github.com/zspacelabs/bunsen,"bunsen's models on the command line. `bunsen-tool asr`: speech to text, by profile or with Parakeet TDT, Qwen3-ASR, Voxtral Realtime or Whisper, and who spoke when, through NVIDIA's Sortformer; `buns…"
+2026-11-13T07:27:04.701788Z,jmap-search,0.0.1,0,0,https://github.com/MarkAtwood/crate-jmap,"JMAP search: umbrella crate re-exporting jmap-search-types, -client, and -server"
+2026-11-13T07:32:48.430909Z,titan-audio-link,1.0.0,0,0,https://github.com/titanfyre/Titan-Audio-Link,Windows x64 Titan-Audio-Link direct native SDK
+2026-11-13T07:35:27.52796Z,openbatrangs,0.3.0,0,0,https://github.com/arpanpathak/openbatrangs,A terminal coding agent that runs on local language models
+2026-11-13T07:39:45.595858Z,bitg-core,0.3.1,0,0,https://github.com/dtwinuz/bitg,"Uzbek Latin to the 2026 alphabet (ö ğ ş ç ʼ) conversion engine: rules, Cyrillic, reverse and an English guard"
+2026-11-13T07:40:57.651903Z,rosemyne-plugin,1.0.0,0,0,https://github.com/SalahaldinBilal/rosemyne,"Write, build and pack Rosemyne plugins in Rust (plugin API 1)"
+2026-11-13T07:42:28.842672Z,interception-v2,1.0.0,0,0,https://github.com/TitanCSA/Interception-V2,Windows x64 Interception-V2 direct native SDK
+2026-11-13T07:42:45.943792Z,pi_result_macros,0.1.0,0,0,,Companion error derive macros for pi_result
+2026-11-13T07:46:30.728065Z,asciichem,1.0.0,0,0,https://github.com/asciichem/asciichem-rs,AsciiChem: ASCII syntax for chemistry parsed into a semantic model
+2026-11-13T07:46:41.729805Z,ahi-unix,0.1.0,0,0,https://github.com/iancleary/ahi,The POSIX calls ahi needs and std does not expose: signal handlers and process-group kill. In-repo so ahi can forbid unsafe code.
+2026-11-13T07:50:39.597953Z,pi_recording,0.1.0,0,0,,Bounded append-only recording with segmented storage and read-only scanning
+2026-11-13T07:51:52.259544Z,klb,0.1.0,0,0,https://github.com/Rbfinch/klb,"klb (grug name for club): a single-threaded, arena-allocated, CLI-native language that compiles to native executables"
+2026-11-13T07:52:02.654283Z,pi_record_replay_index,0.1.0,0,0,,Bounded SQLite indexes and read-only cursors for recording replay
+2026-11-13T07:52:39.878285Z,node-interceptor,1.0.0,0,0,https://github.com/TitanCSA/node-interceptor,Windows x64 node-interceptor direct native SDK
+2026-11-13T07:53:05.888741Z,pi_record_replay,0.1.0,0,0,,"Recording models, bounded replay contexts, archives and disk-backed selection"
+2026-11-13T07:54:19.009821Z,longshore,0.0.0,0,0,https://github.com/carverauto/longshore,Object storage client for Linux io_uring. Placeholder: the first release is in development.
+2026-11-13T07:54:27.126845Z,pi_record_replay_db,0.1.0,0,0,,Offline WAL indexing and read-only transaction replay for pi_db recordings
+2026-11-13T07:55:36.077186Z,ageha,0.0.1,0,0,https://github.com/IceyWu/ageha-rust,A Rust toolkit.
+2026-11-13T07:56:07.109519Z,collections-adaptive-push,0.1.0,0,0,https://github.com/lnlbg/collections-adaptive-push,A Rust library providing adaptive capacity strategies and custom push extensions for standard collections.
+2026-11-13T07:58:57.550172Z,koyot_ss,0.1.0,0,0,,This is a mini Environment
+2026-11-13T07:59:24.23061Z,mast,0.0.1,0,0,,"Minimal, zero-dependency AST node and source span utilities for experimental parsers."
+2026-11-13T07:59:32.019379Z,bboxy450-canvas,0.2.0,0,0,https://github.com/bboxy450/bboxy450-term,"Semantic canvas operation logs, deterministic replay and camera geometry"
+2026-11-13T07:59:52.021022Z,bboxy450-kitty-graphics,0.2.0,0,0,https://github.com/bboxy450/bboxy450-term,"Kitty terminal graphics protocol: command parsing, chunked image assembly and placements"
+2026-11-13T08:02:50.268891Z,browser-control-sdk,1.0.0,0,0,https://github.com/TitanCSA/Browser-Control-SDK,Windows x64 Browser-Control-SDK direct native SDK
+2026-11-13T08:02:51.36972Z,keyko-core,0.4.0,0,0,https://github.com/pokedotdev/keyko,Shared types for the keyko CLI and key server
+2026-11-13T08:02:53.24243Z,keyko,0.4.0,0,0,https://github.com/pokedotdev/keyko,"Encrypted secrets in git with SOPS + age, shared with your team"
+2026-11-13T08:03:44.431921Z,jump-jotter,0.1.0,0,0,https://github.com/spapanik/jump-jotter,A directory changer with per-shell directory history
+2026-11-13T08:04:25.486655Z,ck-activation,1.1.1,0,0,https://github.com/ckandrinirina/ck-activation,Activation checks for protected Tauri and Rust apps
+2026-11-13T08:07:26.92251Z,bboxy450-term-remote,0.2.0,0,0,https://github.com/bboxy450/bboxy450-term,Remote supervisor link for bboxy450-term: one IR-framed protocol between a local mux and a per-swarm remote supervisor hosting bboxy450-harness ACP seats
+2026-11-13T08:07:43.933464Z,bboxy450-den,0.2.0,0,0,https://github.com/bboxy450/bboxy450-term,Parser and bounded soundness checker for Den specifications
+2026-11-13T08:09:24.8554Z,nginjen-lite,0.1.0,0,0,https://github.com/codecoradev/nginjen,"Dependency-light web search parsing and HTML-to-markdown scrape helpers extracted from nginjen (no browser, no async runtime)"
+2026-11-13T08:12:08.46983Z,bboxy450-harness,0.2.0,0,0,https://github.com/bboxy450/bboxy450-harness,A GUI-first coding-agent harness with one replayable protocol
+2026-11-13T08:13:50.681453Z,bboxy450-keychain-macos,0.2.0,0,0,https://github.com/bboxy450/bboxy450-term,Read-only macOS Keychain queries with authentication UI disabled
+2026-11-13T08:14:08.378597Z,omni-heap,0.1.0,0,0,https://github.com/WyattAu/os-core,"Deterministic fixed-page allocator for the omniosk microcore: bitmap-backed, no_std, panic-free (REQ-OS-007)."
+2026-11-13T08:15:49.189443Z,bboxy450-usage,0.2.0,0,0,https://github.com/bboxy450/bboxy450-term,"Read-only, bounded machine and AI account usage sampling"

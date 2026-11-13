@@ -8,51 +8,51 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-13 07:20 UTC
+## Latest list — 2026-11-13 08:18 UTC
 
-New crates published between 2026-11-13 06:18 UTC and 2026-11-13 07:20 UTC.
+New crates published between 2026-11-13 07:20 UTC and 2026-11-13 08:18 UTC.
 
-[Full CSV](data/new-crates-2026-11-13T07-20-43-792158Z.csv)
+[Full CSV](data/new-crates-2026-11-13T08-18-38-149487Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-13 06:21:27 | [oracle-ir](https://crates.io/crates/oracle-ir) | 0.1.0 | 0 | Portable typed card semantics owned by Oracle Grammar |
-| 2026-11-13 06:22:17 | [oracle-ir-contract](https://crates.io/crates/oracle-ir-contract) | 0.1.0 | 0 | Validation, canonicalization and binding contracts for Oracle IR |
-| 2026-11-13 06:22:41 | [virtual-camera-sdk](https://crates.io/crates/virtual-camera-sdk) | 1.0.0 | 0 | Windows x64 Virtual-Camera-SDK direct native SDK |
-| 2026-11-13 06:23:45 | [oracle-ir-grammar](https://crates.io/crates/oracle-ir-grammar) | 0.1.0 | 0 | Phrase-level Oracle grammar over its owned rules IR |
-| 2026-11-13 06:24:13 | [voltaic-driver](https://crates.io/crates/voltaic-driver) | 0.1.0 | 0 | Incremental compilation driver for the Voltaic compiler. |
-| 2026-11-13 06:24:51 | [hodograph](https://crates.io/crates/hodograph) | 0.1.0 | 0 | An owner-scoped lineage model: the descent of entries through branching visits.… |
-| 2026-11-13 06:25:06 | [quadstore](https://crates.io/crates/quadstore) | 0.1.0 | 0 | A dictionary and six-ordering quad index over dense term ids, generic over the… |
-| 2026-11-13 06:25:17 | [fieldbook](https://crates.io/crates/fieldbook) | 0.1.0 | 0 | Graph fields as portable data: field identity and extent, a scalar/vector field… |
-| 2026-11-13 06:25:33 | [portolan](https://crates.io/crates/portolan) | 0.1.0 | 0 | A generic content-addressed container graph: Graph<N, E> on petgraph with capab… |
-| 2026-11-13 06:26:44 | [jmap-metadata](https://crates.io/crates/jmap-metadata) | 0.0.1 | 0 | JMAP Metadata: umbrella crate re-exporting jmap-metadata-types, -client, and -s… |
-| 2026-11-13 06:28:51 | [brz-collections](https://crates.io/crates/brz-collections) | 0.0.1 | 0 | Breeze collections with optional cross-language iteration compatibility |
-| 2026-11-13 06:34:41 | [voltaic-cli](https://crates.io/crates/voltaic-cli) | 0.1.0 | 0 | The Voltaic compiler: .sdx in, .xrs containing ordinary Rust out. |
-| 2026-11-13 06:35:34 | [qude-core](https://crates.io/crates/qude-core) | 0.1.0 | 0 | Host-agnostic IR, simulation, and scene building for qude-viz |
-| 2026-11-13 06:35:42 | [qude-viz](https://crates.io/crates/qude-viz) | 0.1.0 | 0 | Qude schedule rendering and self-contained atom-array viewers |
-| 2026-11-13 06:35:51 | [qudeir-rstim](https://crates.io/crates/qudeir-rstim) | 0.1.0 | 0 | Portable Clifford execution for QudeIR digital programs |
-| 2026-11-13 06:36:05 | [qude](https://crates.io/crates/qude) | 1.0.0 | 0 | QEC experiment circuits, neutral-atom compilation, simulation and evaluation |
-| 2026-11-13 06:36:48 | [jmap-vtc](https://crates.io/crates/jmap-vtc) | 0.0.1 | 0 | JMAP VTC (video calls): umbrella crate re-exporting jmap-vtc-types, -client, an… |
-| 2026-11-13 06:38:37 | [eska-debug](https://crates.io/crates/eska-debug) | 0.30.0 | 0 | Native DAP and HTTP debugging for 1C Designer XML projects |
-| 2026-11-13 06:43:32 | [slugread](https://crates.io/crates/slugread) | 0.1.0 | 0 | Tiny zero-dependency text helpers: slugify, truncate, word_count, reading_time. |
-| 2026-11-13 06:46:52 | [jmap-scene](https://crates.io/crates/jmap-scene) | 0.0.1 | 0 | JMAP Scene: umbrella crate re-exporting jmap-scene-types, -client, and -server |
-| 2026-11-13 06:55:50 | [changed-block-tracking-sdk](https://crates.io/crates/changed-block-tracking-sdk) | 1.0.0 | 0 | Windows x64 Changed-Block-Tracking-SDK direct native SDK |
-| 2026-11-13 06:55:59 | [cloud-files-sdk](https://crates.io/crates/cloud-files-sdk) | 1.0.0 | 0 | Windows x64 Cloud-Files-SDK direct native SDK |
-| 2026-11-13 06:56:08 | [hid-access-control](https://crates.io/crates/hid-access-control) | 1.0.0 | 0 | Windows x64 HID-Access-Control direct native SDK |
-| 2026-11-13 06:56:56 | [jmap-graph](https://crates.io/crates/jmap-graph) | 0.0.1 | 0 | JMAP Graph: umbrella crate re-exporting jmap-graph-types, -client, and -server |
-| 2026-11-13 06:59:51 | [leanfran-runtime](https://crates.io/crates/leanfran-runtime) | 0.6.0 | 0 | Runtime of the Rust code generated from Lean by leanfran |
-| 2026-11-13 06:59:59 | [leanfran-build](https://crates.io/crates/leanfran-build) | 0.6.0 | 0 | Build script support of leanfran: checks the lean! blocks of a crate with Lean,… |
-| 2026-11-13 07:00:07 | [leanfran-macros](https://crates.io/crates/leanfran-macros) | 0.6.0 | 0 | Procedural macros of leanfran: lean!, #[model], #[opaque], #[derive(Model)] and… |
-| 2026-11-13 07:00:08 | [swe-diagrams](https://crates.io/crates/swe-diagrams) | 0.2.0 | 0 | Fast diagrams of software, written by agents in a compact language |
-| 2026-11-13 07:00:13 | [leanfran](https://crates.io/crates/leanfran) | 0.6.0 | 0 | Run Lean functions from Rust and verify Rust functions in Lean |
-| 2026-11-13 07:00:21 | [cargo-leanfran](https://crates.io/crates/cargo-leanfran) | 0.6.0 | 0 | cargo leanfran: extract Lean models of Rust functions with Charon and Aeneas, s… |
-| 2026-11-13 07:02:48 | [usb-over-ip-sdk](https://crates.io/crates/usb-over-ip-sdk) | 1.0.0 | 0 | Windows x64 USB-over-IP-SDK direct native SDK |
-| 2026-11-13 07:06:59 | [jmap-did](https://crates.io/crates/jmap-did) | 0.0.1 | 0 | JMAP DID: umbrella crate re-exporting jmap-did-types |
-| 2026-11-13 07:08:00 | [sapling-small-set](https://crates.io/crates/sapling-small-set) | 0.1.0 | 0 | Compact bitset of small non-negative integers. |
-| 2026-11-13 07:12:28 | [user-backed-virtual-disk-sdk](https://crates.io/crates/user-backed-virtual-disk-sdk) | 1.0.0 | 0 | Windows x64 User-Backed-Virtual-Disk-SDK direct native SDK |
-| 2026-11-13 07:15:40 | [bunsen-catalog](https://crates.io/crates/bunsen-catalog) | 0.42.0 | 0 | bunsen's built-in catalog: the layers bunsen imports, as built from their sourc… |
-| 2026-11-13 07:17:01 | [jmap-cid](https://crates.io/crates/jmap-cid) | 0.0.1 | 0 | JMAP CID: umbrella crate re-exporting jmap-cid-types |
-| 2026-11-13 07:19:04 | [axum-ratelimit](https://crates.io/crates/axum-ratelimit) | 0.1.0 | 0 | Exact sliding-window rate limiting for Axum, with atomic memory and Redis backe… |
+| 2026-11-13 07:22:37 | [remote-workstation-sdk](https://crates.io/crates/remote-workstation-sdk) | 1.0.0 | 0 | Windows x64 Remote-Workstation-SDK direct native SDK |
+| 2026-11-13 07:23:28 | [yolowsyntax](https://crates.io/crates/yolowsyntax) | 0.1.0 | 0 | Pure-Rust tree-sitter grammar runtime and code outline extractor (symbols, impo… |
+| 2026-11-13 07:24:19 | [bunsen-tool](https://crates.io/crates/bunsen-tool) | 0.42.0 | 0 | bunsen's models on the command line. `bunsen-tool asr`: speech to text, by prof… |
+| 2026-11-13 07:27:04 | [jmap-search](https://crates.io/crates/jmap-search) | 0.0.1 | 0 | JMAP search: umbrella crate re-exporting jmap-search-types, -client, and -server |
+| 2026-11-13 07:32:48 | [titan-audio-link](https://crates.io/crates/titan-audio-link) | 1.0.0 | 0 | Windows x64 Titan-Audio-Link direct native SDK |
+| 2026-11-13 07:35:27 | [openbatrangs](https://crates.io/crates/openbatrangs) | 0.3.0 | 0 | A terminal coding agent that runs on local language models |
+| 2026-11-13 07:39:45 | [bitg-core](https://crates.io/crates/bitg-core) | 0.3.1 | 0 | Uzbek Latin to the 2026 alphabet (ö ğ ş ç ʼ) conversion engine: rules, Cyrillic… |
+| 2026-11-13 07:40:57 | [rosemyne-plugin](https://crates.io/crates/rosemyne-plugin) | 1.0.0 | 0 | Write, build and pack Rosemyne plugins in Rust (plugin API 1) |
+| 2026-11-13 07:42:28 | [interception-v2](https://crates.io/crates/interception-v2) | 1.0.0 | 0 | Windows x64 Interception-V2 direct native SDK |
+| 2026-11-13 07:42:45 | [pi_result_macros](https://crates.io/crates/pi_result_macros) | 0.1.0 | 0 | Companion error derive macros for pi_result |
+| 2026-11-13 07:46:30 | [asciichem](https://crates.io/crates/asciichem) | 1.0.0 | 0 | AsciiChem: ASCII syntax for chemistry parsed into a semantic model |
+| 2026-11-13 07:46:41 | [ahi-unix](https://crates.io/crates/ahi-unix) | 0.1.0 | 0 | The POSIX calls ahi needs and std does not expose: signal handlers and process-… |
+| 2026-11-13 07:50:39 | [pi_recording](https://crates.io/crates/pi_recording) | 0.1.0 | 0 | Bounded append-only recording with segmented storage and read-only scanning |
+| 2026-11-13 07:51:52 | [klb](https://crates.io/crates/klb) | 0.1.0 | 0 | klb (grug name for club): a single-threaded, arena-allocated, CLI-native langua… |
+| 2026-11-13 07:52:02 | [pi_record_replay_index](https://crates.io/crates/pi_record_replay_index) | 0.1.0 | 0 | Bounded SQLite indexes and read-only cursors for recording replay |
+| 2026-11-13 07:52:39 | [node-interceptor](https://crates.io/crates/node-interceptor) | 1.0.0 | 0 | Windows x64 node-interceptor direct native SDK |
+| 2026-11-13 07:53:05 | [pi_record_replay](https://crates.io/crates/pi_record_replay) | 0.1.0 | 0 | Recording models, bounded replay contexts, archives and disk-backed selection |
+| 2026-11-13 07:54:19 | [longshore](https://crates.io/crates/longshore) | 0.0.0 | 0 | Object storage client for Linux io_uring. Placeholder: the first release is in… |
+| 2026-11-13 07:54:27 | [pi_record_replay_db](https://crates.io/crates/pi_record_replay_db) | 0.1.0 | 0 | Offline WAL indexing and read-only transaction replay for pi_db recordings |
+| 2026-11-13 07:55:36 | [ageha](https://crates.io/crates/ageha) | 0.0.1 | 0 | A Rust toolkit. |
+| 2026-11-13 07:56:07 | [collections-adaptive-push](https://crates.io/crates/collections-adaptive-push) | 0.1.0 | 0 | A Rust library providing adaptive capacity strategies and custom push extension… |
+| 2026-11-13 07:58:57 | [koyot_ss](https://crates.io/crates/koyot_ss) | 0.1.0 | 0 | This is a mini Environment |
+| 2026-11-13 07:59:24 | [mast](https://crates.io/crates/mast) | 0.0.1 | 0 | Minimal, zero-dependency AST node and source span utilities for experimental pa… |
+| 2026-11-13 07:59:32 | [bboxy450-canvas](https://crates.io/crates/bboxy450-canvas) | 0.2.0 | 0 | Semantic canvas operation logs, deterministic replay and camera geometry |
+| 2026-11-13 07:59:52 | [bboxy450-kitty-graphics](https://crates.io/crates/bboxy450-kitty-graphics) | 0.2.0 | 0 | Kitty terminal graphics protocol: command parsing, chunked image assembly and p… |
+| 2026-11-13 08:02:50 | [browser-control-sdk](https://crates.io/crates/browser-control-sdk) | 1.0.0 | 0 | Windows x64 Browser-Control-SDK direct native SDK |
+| 2026-11-13 08:02:51 | [keyko-core](https://crates.io/crates/keyko-core) | 0.4.0 | 0 | Shared types for the keyko CLI and key server |
+| 2026-11-13 08:02:53 | [keyko](https://crates.io/crates/keyko) | 0.4.0 | 0 | Encrypted secrets in git with SOPS + age, shared with your team |
+| 2026-11-13 08:03:44 | [jump-jotter](https://crates.io/crates/jump-jotter) | 0.1.0 | 0 | A directory changer with per-shell directory history |
+| 2026-11-13 08:04:25 | [ck-activation](https://crates.io/crates/ck-activation) | 1.1.1 | 0 | Activation checks for protected Tauri and Rust apps |
+| 2026-11-13 08:07:26 | [bboxy450-term-remote](https://crates.io/crates/bboxy450-term-remote) | 0.2.0 | 0 | Remote supervisor link for bboxy450-term: one IR-framed protocol between a loca… |
+| 2026-11-13 08:07:43 | [bboxy450-den](https://crates.io/crates/bboxy450-den) | 0.2.0 | 0 | Parser and bounded soundness checker for Den specifications |
+| 2026-11-13 08:09:24 | [nginjen-lite](https://crates.io/crates/nginjen-lite) | 0.1.0 | 0 | Dependency-light web search parsing and HTML-to-markdown scrape helpers extract… |
+| 2026-11-13 08:12:08 | [bboxy450-harness](https://crates.io/crates/bboxy450-harness) | 0.2.0 | 0 | A GUI-first coding-agent harness with one replayable protocol |
+| 2026-11-13 08:13:50 | [bboxy450-keychain-macos](https://crates.io/crates/bboxy450-keychain-macos) | 0.2.0 | 0 | Read-only macOS Keychain queries with authentication UI disabled |
+| 2026-11-13 08:14:08 | [omni-heap](https://crates.io/crates/omni-heap) | 0.1.0 | 0 | Deterministic fixed-page allocator for the omniosk microcore: bitmap-backed, no… |
+| 2026-11-13 08:15:49 | [bboxy450-usage](https://crates.io/crates/bboxy450-usage) | 0.2.0 | 0 | Read-only, bounded machine and AI account usage sampling |
 
 ## Data source
 
