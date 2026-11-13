@@ -1,0 +1,49 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-13T21:19:39.316281Z,sc-decision-llm,0.1.0,0,0,,"Haiku and Luna decision backends for sc-agent: the Jev request as a JSON-schema LLM call, self-reported probabilities and confidence."
+2026-11-13T21:20:12.781644Z,sc-decision-local,0.1.0,0,0,,"Local System One decision backend for sc-agent: a configured Jev-compatible daemon (Strands Decider, Laya, Mapika/decider, generic) with model discovery."
+2026-11-13T21:20:20.191479Z,vf_event,0.1.1,0,0,,"Callbacks, Events and Signals"
+2026-11-13T21:22:52.253118Z,pagesift-graph,1.4.0,0,0,https://github.com/YOLOW92/pagesift,"Cross-source provenance, citation, version lineage, field evidence, corroboration and conflict graph layer for pagesift."
+2026-11-13T21:25:42.880351Z,farthing,0.15.0,0,0,https://github.com/Azazel-Labs/farthing,"Mesh LOD for real-time 3D: attribute-aware reduction, UV unwrapping and atlas packing, material baking, aggregation, voxel remeshing, impostors, visibility culling and skinning LOD."
+2026-11-13T21:25:59.305703Z,farthing-cli,0.15.0,0,0,https://github.com/Azazel-Labs/farthing,Command-line front end for farthing.
+2026-11-13T21:26:42.584434Z,roundhouse-path,0.3.0,0,0,https://github.com/strawberyy-coconut/roundhouse,Path joining and template validation shared by roundhouse and its macros.
+2026-11-13T21:26:46.634627Z,roundhouse-macros-core,0.3.0,0,0,https://github.com/strawberyy-coconut/roundhouse,Parsing and expansion for roundhouse's proc macros.
+2026-11-13T21:28:25.067447Z,sc-decision-runner,0.1.0,0,0,,"Sync decision runner for sc-agent: one Decision over any Backend, worker threads, holdoffs in the queue, cancel, one session row per result."
+2026-11-13T21:28:58.752131Z,hinny,0.0.1,0,0,,"Hinny: an embedded hybrid search database (full-text, vector and sparse retrieval with filters, in your process). Placeholder for the first public release."
+2026-11-13T21:29:15.342837Z,arduous_rt,0.7.0,0,0,https://github.com/RandyMcMillan/arduous_rt,"Process-global named Tokio runtimes with nesting, reentrancy-safe execution, and stress-testing helpers"
+2026-11-13T21:34:04.996418Z,duke-odf,0.2.1,0,0,https://github.com/extend-hq/duke-office,"Shared OpenDocument package, style, text and drawing readers for the Duke Office parsers"
+2026-11-13T21:34:06.657455Z,duke-office-art,0.1.10,0,0,https://github.com/extend-hq/duke-office,"Shared Office picture, shape, connector and saved SmartArt rendering for Rust and WebAssembly"
+2026-11-13T21:34:08.968724Z,duke-office-charts,0.2.1,0,0,https://github.com/extend-hq/duke-office,Render Office Open XML charts to SVG from native Rust or WebAssembly
+2026-11-13T21:34:11.410769Z,duke-office-charts-wasm,0.2.1,0,0,https://github.com/extend-hq/duke-office,WebAssembly bindings for the Office Open XML chart renderer
+2026-11-13T21:38:19.909115Z,sc-treesitter,0.1.0,0,0,,Load tree-sitter grammars and run any query against them.
+2026-11-13T21:47:31.055856Z,mapdiff-core,0.1.0,0,0,https://github.com/avgvi/mapdiff,"Shared data model: scopes, kinds, access levels, IDs."
+2026-11-13T21:47:46.786138Z,mapdiff-extract,0.1.0,0,0,https://github.com/avgvi/mapdiff,Parses source files into scope trees.
+2026-11-13T21:47:54.82244Z,mapdiff-gitdiff,0.1.0,0,0,https://github.com/avgvi/mapdiff,Reads git refs and builds scope-level change sets.
+2026-11-13T21:48:05.740843Z,mapdiff-graph,0.1.0,0,0,https://github.com/avgvi/mapdiff,"Reference graph, edge lifting, cycles and impact."
+2026-11-13T21:48:23.735371Z,mapdiff-server,0.1.0,0,0,https://github.com/avgvi/mapdiff,Local HTTP API for the UI.
+2026-11-13T21:49:16.505062Z,sitr,0.1.0,0,0,,sitr CLI: run predefined tree-sitter queries (product binary for sc-treesitter).
+2026-11-13T21:49:33.235616Z,cf-vault,0.1.0,0,0,https://github.com/cf-contrib/cf-vault,"Manage Cloudflare credentials: sign in, keep them in the system keychain, and run commands with them"
+2026-11-13T21:50:48.856213Z,chaoshub,0.1.0,0,0,https://github.com/chaosteil/chaoshub,"A terminal app that tracks your GitHub pull requests, with jj or git"
+2026-11-13T21:53:48.929709Z,duke-pages,0.3.1,0,0,https://github.com/extend-hq/duke-office,"Rust parser, document model, and serializer for DOCX and legacy Word documents"
+2026-11-13T21:56:14.352874Z,sort-raytracing,0.1.0,0,0,https://github.com/francisreboucas/sort-raytracing,"Pure Rust port of SORT (Simple Open-source Ray Tracing), focused on architectural rendering"
+2026-11-13T21:58:04.447325Z,susik,0.1.0,0,0,https://github.com/jdh8/susik,"Four Color Cards (四色牌): the 112-card deck, multiset hands, melds, and a layout solver shared by its games"
+2026-11-13T21:58:16.076455Z,broadcast-dash,0.1.0,0,0,https://github.com/fishloa/rust-broadcast,"MPEG-DASH (ISO/IEC 23009-1) manifest syntax: the MPD model, its bounded parser, the SegmentTemplate substitution grammar and the xs:duration reader. Parsing only, no client."
+2026-11-13T21:59:08.541415Z,decidr,0.1.0,0,0,,Command-line client for the TypeSafe (Jev) decision API.
+2026-11-13T21:59:12.615286Z,chd-rs,0.1.0,0,0,https://github.com/alucryd/oxyromon,"CHD (MAME Compressed Hunks of Data) inspection, compression and decompression, interchangeable with chdman"
+2026-11-13T21:59:15.719057Z,rvz-rs,0.1.0,0,0,https://github.com/alucryd/oxyromon,"RVZ (GameCube and Wii disc image) compression and decompression, scrubbing included, interchangeable with Dolphin"
+2026-11-13T21:59:18.630978Z,wbfs-rs,0.1.0,0,0,https://github.com/alucryd/oxyromon,"WBFS (Wii and GameCube disc image) creation and extraction, interchangeable with wit"
+2026-11-13T21:59:33.942715Z,mapdiff,0.1.0,0,0,https://github.com/avgvi/mapdiff,"Review a change on a map of your code: diffs by function and type, drawn with what they touch"
+2026-11-13T22:01:50.192873Z,akibiyori,0.1.0-rc1,0,0,https://github.com/oxur/akibiyori,Generate readable Cobalt source from OpenAPI contracts and authored Markdown
+2026-11-13T22:01:59.350847Z,kiso-core,0.1.0,0,0,https://github.com/momoi-labs/blueprint,"Kiso component specs: one contract for the React, HTML, text and ratatui outputs"
+2026-11-13T22:02:16.520855Z,tui-kiso,0.1.0,0,0,https://github.com/momoi-labs/blueprint,Kiso components for ratatui terminal interfaces
+2026-11-13T22:03:12.833353Z,aerofoil-mlat,0.1.0-beta.2,0,0,https://github.com/colinwolff/aerofoil,"Multilateration (MLAT) receiver registry, clock drift synchronization, and TDOA hyperbolic solver for aerofoil"
+2026-11-13T22:05:18.604035Z,broadcast-smooth,0.1.0,0,0,https://github.com/fishloa/rust-broadcast,Microsoft Smooth Streaming (MS-SSTR) client Manifest: typed model with parse and serialize.
+2026-11-13T22:06:10.680591Z,duke-pages-wasm,0.3.1,0,0,https://github.com/extend-hq/duke-office,WebAssembly bindings for the duke-pages parser and serializer
+2026-11-13T22:06:21.289791Z,reallyme-buffa,0.1.0,0,0,https://github.com/reallyme/buffa,ReallyMe fork: A pure Rust Protocol Buffers implementation with first-class editions support
+2026-11-13T22:06:26.767564Z,reallyme-buffa-descriptor,0.1.0,0,0,https://github.com/reallyme/buffa,"ReallyMe fork: Protobuf descriptor types (FileDescriptorProto, DescriptorProto, ...) for buffa"
+2026-11-13T22:06:32.052801Z,reallyme-buffa-types,0.1.0,0,0,https://github.com/reallyme/buffa,ReallyMe fork: Protobuf well-known types for buffa
+2026-11-13T22:06:36.014487Z,reallyme-buffa-proto-options,0.1.0,0,0,https://github.com/reallyme/buffa,ReallyMe fork: Rust types for buffa's custom protobuf options (buffa/ext/options.proto)
+2026-11-13T22:06:41.334411Z,reallyme-buffa-codegen,0.1.0,0,0,https://github.com/reallyme/buffa,ReallyMe fork: Shared code generation logic for buffa (descriptor → Rust source)
+2026-11-13T22:10:31.198989Z,langdex,0.0.1,0,0,https://github.com/victor-software-house/langdex,"The languages of source files: names, aliases, extensions, file names and interpreters, from GitHub Linguist"
+2026-11-13T22:13:18.864264Z,duke-slides,0.4.1,0,0,https://github.com/extend-hq/duke-office,Parse PowerPoint PPTX and legacy PPT presentations into a structured model
+2026-11-13T22:13:51.319886Z,scinumtools3-build,0.10.2,0,0,https://github.com/scinumtools/snt3,Compile-time DIPL evaluation and Rust struct initializer generation
+2026-11-13T22:14:40.442654Z,csvidx,0.1.0,0,0,https://github.com/hoopengo/csvidx,Secondary index for huge CSV files: lookup by key without importing
