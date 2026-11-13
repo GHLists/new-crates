@@ -1,0 +1,24 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-13T09:32:56.405453Z,fastpeg,0.0.0,0,0,https://github.com/schwimmbeck/fastpeg,"A PEG parsing library: grammars loaded at runtime, a bytecode parsing machine and a lossless parse tree. In development, this release holds no code yet"
+2026-11-13T09:34:09.952439Z,vertep-objects,0.1.2,0,0,https://github.com/Volland/vertep,Durable objects for Vertep: DID-addressed actors with verifiable journals and decentralised custody over TSP
+2026-11-13T09:34:10.447439Z,vertep-tsp-mediator,0.1.2,0,0,https://github.com/Volland/vertep,A TSP mailbox mediator: routed-mode intermediary with durable store-and-forward mailboxes and pickup
+2026-11-13T09:44:34.505217Z,herdr-devtunnel,0.1.0,0,0,https://github.com/Syndim/herdr-devtunnel,Connect Herdr cores through private Microsoft Dev Tunnels
+2026-11-13T09:46:58.897679Z,igs-iec61850-mms-core,0.1.0,0,0,https://github.com/aklira/igs-iec61850-mms,"Sans-I/O core of IEC 61850 over MMS: object references, ACSI types and their MMS mapping, model, service state machines."
+2026-11-13T09:47:04.404348Z,igs-iec61850-mms,0.1.0,0,0,https://github.com/aklira/igs-iec61850-mms,IEC 61850 client and server over MMS: async API on the MMS crates of igs-iso9506-mms.
+2026-11-13T09:48:12.767938Z,ataraxia-ide,0.1.0,0,0,https://github.com/myrk-kale/ataraxia,"Desktop environment for agent-assisted software development: chat with coding agents, review what they wrote, keep decisions and flows"
+2026-11-13T09:52:52.076229Z,yubild,0.1.0,0,0,https://github.com/zhiyuHD/yubild,用 Python 写配置的 C++ 构建系统：生成 CMake，内置测试与变异测试
+2026-11-13T09:55:32.480076Z,medical_iqm,0.16.0,0,0,,"Image quality / QA metrics for medical images (NIfTI, NRRD, DICOM, MetaImage, Analyze, optional HDF5)"
+2026-11-13T09:58:40.43736Z,dither-core,0.1.0,0,0,https://github.com/DeepanshuMishraa/dither-kit-rs,"Renderer-neutral ordered-dither engine: palettes, fills, charts, gradients, backgrounds, avatars."
+2026-11-13T09:58:49.610299Z,dither-ratatui,0.1.0,0,0,https://github.com/DeepanshuMishraa/dither-kit-rs,"Dithered charts, buttons, gradients and backgrounds for Ratatui terminal apps."
+2026-11-13T09:58:58.179972Z,dither-gpui,0.1.0,0,0,https://github.com/DeepanshuMishraa/dither-kit-rs,"Dithered charts, buttons, gradients and backgrounds for GPUI Kit desktop apps."
+2026-11-13T10:01:33.535371Z,vc-delta3d-sys,0.3.2,0,0,https://github.com/ScrollPrize/vc-delta3d,"Raw FFI bindings to VC-Delta3D, a fast codec for 3-D 8- and 16-bit integer fields (C sources bundled)"
+2026-11-13T10:03:32.935688Z,briev-verify,0.1.0,0,0,,Briev's body prover: symbolic execution and SMT discharge over the Briev AST
+2026-11-13T10:04:29.321367Z,grantctl,0.0.1,0,0,https://github.com/nst-sdc/grantctl,"Manage accounts, SSH, sudo and resource limits across a small Debian/Ubuntu cluster from one file"
+2026-11-13T10:05:53.283621Z,rho-protocol,1.0.0,0,0,https://github.com/matthewyjiang/rho,Versioned JSON-RPC protocol between the Rho daemon and its frontends
+2026-11-13T10:07:20.107161Z,sql_interpolate_macros,0.1.0,0,0,https://github.com/scalableminds/sql_interpolate,Proc macro for sql_interpolate. Use the sql_interpolate crate instead.
+2026-11-13T10:07:22.361303Z,sql_interpolate,0.1.0,0,0,https://github.com/scalableminds/sql_interpolate,"SQL queries for Postgres with inline value interpolation: q!(""SELECT * FROM users WHERE id = ${id}"")"
+2026-11-13T10:09:44.066919Z,postacert,0.1.0,0,0,https://github.com/LucaCappelletti94/postacert,"Parsing PEC messages, Italian certified email, and reading and writing their daticert.xml certification data"
+2026-11-13T10:11:33.752587Z,second-brain-oauth,0.3.0,0,0,https://github.com/a-miyashita/second-brain,"OAuth 2.0 installed-app helpers: PKCE, loopback redirect and token requests (internal crate of second-brain, no API stability)"
+2026-11-13T10:12:01.956146Z,second-brain-microsoft,0.3.0,0,0,https://github.com/a-miyashita/second-brain,"Microsoft OAuth (Entra, PKCE loopback), Graph client and the microsoft.file source (internal crate of second-brain, no API stability)"
+2026-11-13T10:15:05.676916Z,nix-vault,0.2.0,0,0,https://github.com/nixos-contrib/nix-vault,Authenticate Nix against private services: store credentials in the system keychain and run commands with them available to Nix
+2026-11-13T10:18:47.707191Z,gisserver,0.8.0,0,0,,"Core library family of rust-gisserver: bespoke COG/BigTIFF reader, tile rendering, MVT encoding, PMTiles/MBTiles archives, WMS/WFS/OGC API protocols, projections and PostGIS source - pure Rust, no GD…"

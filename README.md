@@ -8,50 +8,37 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-13 09:19 UTC
+## Latest list — 2026-11-13 10:19 UTC
 
-New crates published between 2026-11-13 08:18 UTC and 2026-11-13 09:19 UTC.
+New crates published between 2026-11-13 09:19 UTC and 2026-11-13 10:19 UTC.
 
-[Full CSV](data/new-crates-2026-11-13T09-19-11-096012Z.csv)
+[Full CSV](data/new-crates-2026-11-13T10-19-01-31598Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-13 08:18:53 | [mikrio-rusqlite](https://crates.io/crates/mikrio-rusqlite) | 0.41.1-mikrio.1 | 0 | mikrio-maintained distribution: Ergonomic wrapper for SQLite |
-| 2026-11-13 08:19:04 | [mikrio-s3s](https://crates.io/crates/mikrio-s3s) | 0.17.0-mikrio.1 | 0 | mikrio-maintained distribution: S3 Service Adapter |
-| 2026-11-13 08:19:16 | [mikrio-core](https://crates.io/crates/mikrio-core) | 0.1.0 | 0 | Storage engine for mikrio |
-| 2026-11-13 08:19:27 | [mikrio-http](https://crates.io/crates/mikrio-http) | 0.1.0 | 0 | S3-compatible HTTP interface for mikrio |
-| 2026-11-13 08:19:38 | [mikrio](https://crates.io/crates/mikrio) | 0.1.0 | 0 | Embedded object storage with an S3-compatible HTTP interface |
-| 2026-11-13 08:22:35 | [iquji-agent-wire](https://crates.io/crates/iquji-agent-wire) | 0.1.0 | 0 | Agent 请求、事件、配置元数据与进程监督的 Rust 机器合同。 |
-| 2026-11-13 08:23:02 | [iquji-shared-agent](https://crates.io/crates/iquji-shared-agent) | 0.1.0 | 0 | 连接本机已授权 Agent 的 Rust 库与命令行工具。 |
-| 2026-11-13 08:24:39 | [bboxy450-term-plugin-sdk](https://crates.io/crates/bboxy450-term-plugin-sdk) | 0.2.0 | 0 | Build bboxy450-term plugins in Rust: stdio MCP runtime, shape, skills and a tes… |
-| 2026-11-13 08:28:46 | [mast-proto](https://crates.io/crates/mast-proto) | 0.0.1 | 0 | Lexical token prototypes and operator precedence descriptors for minimal AST pa… |
-| 2026-11-13 08:29:39 | [mast-pal](https://crates.io/crates/mast-pal) | 0.0.1 | 0 | Parenthesis balancing and line-column alignment layout utilities for AST format… |
-| 2026-11-13 08:30:19 | [mast-sys](https://crates.io/crates/mast-sys) | 0.0.1 | 0 | Lightweight identifier interning and symbol table primitives for AST passes. |
-| 2026-11-13 08:35:41 | [diesel_attribute_parser](https://crates.io/crates/diesel_attribute_parser) | 0.1.0 | 0 | You should not use this crate directly, it is internal to Diesel. |
-| 2026-11-13 08:36:05 | [bboxy450-term-data_source-gitkb](https://crates.io/crates/bboxy450-term-data_source-gitkb) | 0.2.0 | 0 | GitKB data_source plugin for bboxy450-term: source-aware documents and tasks ov… |
-| 2026-11-13 08:41:28 | [diesel_infer_query](https://crates.io/crates/diesel_infer_query) | 0.1.0 | 0 | Nullability inference engine for SQL queries |
-| 2026-11-13 08:45:41 | [es8311-async](https://crates.io/crates/es8311-async) | 0.1.0 | 0 | no_std async driver for the Everest Semiconductor ES8311 audio codec |
-| 2026-11-13 08:51:20 | [djangors-contrib-oauth](https://crates.io/crates/djangors-contrib-oauth) | 0.13.0 | 0 | OAuth 2.0 and OpenID Connect client and provider for Djangors |
-| 2026-11-13 08:51:21 | [djangors-contrib-orgs](https://crates.io/crates/djangors-contrib-orgs) | 0.13.0 | 0 | Organizations, teams, roles, and memberships for Djangors |
-| 2026-11-13 08:51:23 | [djangors-contrib-saml](https://crates.io/crates/djangors-contrib-saml) | 0.13.0 | 0 | Pure-Rust SAML 2.0 Service Provider single sign-on for Djangors |
-| 2026-11-13 08:52:15 | [susz](https://crates.io/crates/susz) | 0.1.0 | 0 | Susz 1: a binary form of Lean 4 kernel exports (lean4export 3.1) |
-| 2026-11-13 08:52:45 | [mikrio-cli](https://crates.io/crates/mikrio-cli) | 0.1.0 | 0 | Command-line interface for mikrio object storage |
-| 2026-11-13 08:52:57 | [mikrio-embed](https://crates.io/crates/mikrio-embed) | 0.1.0 | 0 | Foreign-runtime support for mikrio bindings |
-| 2026-11-13 08:53:08 | [mikrio-ffi](https://crates.io/crates/mikrio-ffi) | 0.1.0 | 0 | C interface for mikrio object storage |
-| 2026-11-13 08:58:49 | [opentoken-cli](https://crates.io/crates/opentoken-cli) | 0.0.1 | 0 | Configure Claude Code, Claude Desktop, Codex, OpenCode, OpenClaw, Hermes, pi an… |
-| 2026-11-13 09:02:33 | [anoma-risc0-kind-trees](https://crates.io/crates/anoma-risc0-kind-trees) | 1.0.0-rc.10 | 0 | The kind trees the Anoma protocol adapters are committed to, and the supported-… |
-| 2026-11-13 09:03:22 | [mast-core](https://crates.io/crates/mast-core) | 0.0.1 | 0 | Core traversal, visitor, and folding traits for minimal AST structures. |
-| 2026-11-13 09:04:01 | [mast-kernel](https://crates.io/crates/mast-kernel) | 0.0.1 | 0 | Contiguous index-arena kernel for flat minimal AST storage and evaluation. |
-| 2026-11-13 09:04:05 | [stacker-cli](https://crates.io/crates/stacker-cli) | 0.0.0 | 0 | Name reserved for the TryDirect Stacker CLI. Not installable from crates.io yet… |
-| 2026-11-13 09:04:38 | [mast-macros](https://crates.io/crates/mast-macros) | 0.0.1 | 0 | Helper macros for constructing minimal AST spans and keyword tables. |
-| 2026-11-13 09:05:39 | [mast-derive](https://crates.io/crates/mast-derive) | 0.0.1 | 0 | Lightweight tag and node kind derivation helpers for minimal AST enums. |
-| 2026-11-13 09:07:17 | [idl-verify-carbon](https://crates.io/crates/idl-verify-carbon) | 0.4.0 | 0 | Run a Carbon decoder as the decoder under test of idl-verify --decoder. |
-| 2026-11-13 09:07:19 | [idl-verify-fixtures](https://crates.io/crates/idl-verify-fixtures) | 0.4.0 | 0 | One #[test] per fixture file of idl-verify --export-fixtures, for a Shipstern p… |
-| 2026-11-13 09:07:20 | [idl-verify-shipstern](https://crates.io/crates/idl-verify-shipstern) | 0.4.0 | 0 | Run a Shipstern or Vixen generated parser as the decoder under test of idl-veri… |
-| 2026-11-13 09:07:26 | [idl-drift-guard](https://crates.io/crates/idl-drift-guard) | 0.4.0 | 0 | Count the decode misses of a Shipstern parser or a Carbon decoder per program,… |
-| 2026-11-13 09:09:34 | [corundum-framework-fs-api](https://crates.io/crates/corundum-framework-fs-api) | 0.12.0 | 0 | The fs.* methods an app's server serves over its workspace folder: their names,… |
-| 2026-11-13 09:09:46 | [corundum-framework-journal](https://crates.io/crates/corundum-framework-journal) | 0.12.0 | 0 | An undo log for an app server's changes: batches of recorded operations, each w… |
-| 2026-11-13 09:09:55 | [corundum-framework-fs](https://crates.io/crates/corundum-framework-fs) | 0.12.0 | 0 | An app server's workspace folder over the fs.* and journal.* methods: checked p… |
+| 2026-11-13 09:32:56 | [fastpeg](https://crates.io/crates/fastpeg) | 0.0.0 | 0 | A PEG parsing library: grammars loaded at runtime, a bytecode parsing machine a… |
+| 2026-11-13 09:34:09 | [vertep-objects](https://crates.io/crates/vertep-objects) | 0.1.2 | 0 | Durable objects for Vertep: DID-addressed actors with verifiable journals and d… |
+| 2026-11-13 09:34:10 | [vertep-tsp-mediator](https://crates.io/crates/vertep-tsp-mediator) | 0.1.2 | 0 | A TSP mailbox mediator: routed-mode intermediary with durable store-and-forward… |
+| 2026-11-13 09:44:34 | [herdr-devtunnel](https://crates.io/crates/herdr-devtunnel) | 0.1.0 | 0 | Connect Herdr cores through private Microsoft Dev Tunnels |
+| 2026-11-13 09:46:58 | [igs-iec61850-mms-core](https://crates.io/crates/igs-iec61850-mms-core) | 0.1.0 | 0 | Sans-I/O core of IEC 61850 over MMS: object references, ACSI types and their MM… |
+| 2026-11-13 09:47:04 | [igs-iec61850-mms](https://crates.io/crates/igs-iec61850-mms) | 0.1.0 | 0 | IEC 61850 client and server over MMS: async API on the MMS crates of igs-iso950… |
+| 2026-11-13 09:48:12 | [ataraxia-ide](https://crates.io/crates/ataraxia-ide) | 0.1.0 | 0 | Desktop environment for agent-assisted software development: chat with coding a… |
+| 2026-11-13 09:52:52 | [yubild](https://crates.io/crates/yubild) | 0.1.0 | 0 | 用 Python 写配置的 C++ 构建系统：生成 CMake，内置测试与变异测试 |
+| 2026-11-13 09:55:32 | [medical_iqm](https://crates.io/crates/medical_iqm) | 0.16.0 | 0 | Image quality / QA metrics for medical images (NIfTI, NRRD, DICOM, MetaImage, A… |
+| 2026-11-13 09:58:40 | [dither-core](https://crates.io/crates/dither-core) | 0.1.0 | 0 | Renderer-neutral ordered-dither engine: palettes, fills, charts, gradients, bac… |
+| 2026-11-13 09:58:49 | [dither-ratatui](https://crates.io/crates/dither-ratatui) | 0.1.0 | 0 | Dithered charts, buttons, gradients and backgrounds for Ratatui terminal apps. |
+| 2026-11-13 09:58:58 | [dither-gpui](https://crates.io/crates/dither-gpui) | 0.1.0 | 0 | Dithered charts, buttons, gradients and backgrounds for GPUI Kit desktop apps. |
+| 2026-11-13 10:01:33 | [vc-delta3d-sys](https://crates.io/crates/vc-delta3d-sys) | 0.3.2 | 0 | Raw FFI bindings to VC-Delta3D, a fast codec for 3-D 8- and 16-bit integer fiel… |
+| 2026-11-13 10:03:32 | [briev-verify](https://crates.io/crates/briev-verify) | 0.1.0 | 0 | Briev's body prover: symbolic execution and SMT discharge over the Briev AST |
+| 2026-11-13 10:04:29 | [grantctl](https://crates.io/crates/grantctl) | 0.0.1 | 0 | Manage accounts, SSH, sudo and resource limits across a small Debian/Ubuntu clu… |
+| 2026-11-13 10:05:53 | [rho-protocol](https://crates.io/crates/rho-protocol) | 1.0.0 | 0 | Versioned JSON-RPC protocol between the Rho daemon and its frontends |
+| 2026-11-13 10:07:20 | [sql_interpolate_macros](https://crates.io/crates/sql_interpolate_macros) | 0.1.0 | 0 | Proc macro for sql_interpolate. Use the sql_interpolate crate instead. |
+| 2026-11-13 10:07:22 | [sql_interpolate](https://crates.io/crates/sql_interpolate) | 0.1.0 | 0 | SQL queries for Postgres with inline value interpolation: q!("SELECT * FROM use… |
+| 2026-11-13 10:09:44 | [postacert](https://crates.io/crates/postacert) | 0.1.0 | 0 | Parsing PEC messages, Italian certified email, and reading and writing their da… |
+| 2026-11-13 10:11:33 | [second-brain-oauth](https://crates.io/crates/second-brain-oauth) | 0.3.0 | 0 | OAuth 2.0 installed-app helpers: PKCE, loopback redirect and token requests (in… |
+| 2026-11-13 10:12:01 | [second-brain-microsoft](https://crates.io/crates/second-brain-microsoft) | 0.3.0 | 0 | Microsoft OAuth (Entra, PKCE loopback), Graph client and the microsoft.file sou… |
+| 2026-11-13 10:15:05 | [nix-vault](https://crates.io/crates/nix-vault) | 0.2.0 | 0 | Authenticate Nix against private services: store credentials in the system keyc… |
+| 2026-11-13 10:18:47 | [gisserver](https://crates.io/crates/gisserver) | 0.8.0 | 0 | Core library family of rust-gisserver: bespoke COG/BigTIFF reader, tile renderi… |
 
 ## Data source
 
