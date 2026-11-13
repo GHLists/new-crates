@@ -1,0 +1,31 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-13T22:19:55.733832Z,reallyme-buffa-build,0.1.0,0,0,https://github.com/reallyme/buffa,ReallyMe fork: Build-time integration for buffa (use in build.rs)
+2026-11-13T22:23:06.946124Z,reallyme-buffa-remote-derive,0.1.0,0,0,https://github.com/reallyme/buffa,"ReallyMe fork: Derive macros that implement buffa's pluggable owned-type traits (ProtoString, ProtoBytes, ProtoList, ProtoBox, MapStorage) for a newtype wrapping a foreign remote type"
+2026-11-13T22:23:18.909405Z,duke-slides-wasm,0.4.1,0,0,https://github.com/extend-hq/duke-office,WebAssembly bindings for the Extend PowerPoint parser
+2026-11-13T22:28:23.58137Z,aixm,0.1.0,0,0,https://github.com/AeronauticalMaps/libefb,AIXM 5.x parser
+2026-11-13T22:32:22.799379Z,miden-prover-service,0.0.0,0,0,https://github.com/0xMiden/miden-vm,Placeholder crate for a Miden VM project
+2026-11-13T22:34:15.234072Z,reallyme-protoc-gen-buffa,0.1.0,0,0,https://github.com/reallyme/buffa,ReallyMe fork: protoc plugin for generating Rust code with buffa
+2026-11-13T22:34:50.446145Z,emx,0.0.1,0,0,https://github.com/emergingrobotics/emx,"A fast terminal editor with Emacs keybindings, built for working alongside coding agents"
+2026-11-13T22:38:13.392143Z,tsap-oo,0.1.0,0,0,https://github.com/jdh8/tsap-oo,"十胡 (Tsa̍p-ôo), the Taiwanese Four Color Cards game: rules, round state machine, scoreboard, and bots"
+2026-11-13T22:39:20.856549Z,xrack-interpreter,0.5.0,0,0,https://github.com/smallsunsun1/xrack,XRack interpreter support
+2026-11-13T22:39:27.824878Z,fsspec_fuse,0.1.0,0,0,https://github.com/1kbgz/fsspec-fuse,Mount fsspec filesystems with FUSE
+2026-11-13T22:40:12.781131Z,do-not-drop,0.1.0,0,0,https://github.com/antonyare93/do-not-drop,"Do-Not-Drop is a package for preventing AI agents and developers from deleting, dropping or truncating tables by mistake."
+2026-11-13T22:40:32.349133Z,pixelforge-ash,0.38.1+1.4.352.f4c2ca3,0,0,https://github.com/hgaiser/ash,Vulkan bindings for Rust
+2026-11-13T22:43:43.496215Z,fifo-bufread,0.1.0,0,0,,Produce hunks of bytes in one thread or async task and consume them from another through a BufRead
+2026-11-13T22:45:30.474417Z,reallyme-protoc-gen-buffa-packaging,0.1.0,0,0,https://github.com/reallyme/buffa,ReallyMe fork: protoc plugin that emits a mod.rs module tree for buffa per-file output
+2026-11-13T22:53:40.291257Z,consecution,0.1.0,0,0,,"What a function does, from facts about its body: data and order dependencies, the conditions on each return, effects and mutations, a name-free behavioural sequence with its digests, and callee summa…"
+2026-11-13T22:53:54.739319Z,ufs-base,0.1.0,0,0,https://github.com/p1mo/ufs/tree/main/ufs-core,core for ufs
+2026-11-13T22:54:00.377828Z,consecution-rust,0.1.0,0,0,,"Rust functions for Consecution: syn reads the source, Syntagm declarations decide how each construct is formed, and the structure is lowered to body facts and behaviour"
+2026-11-13T22:55:27.168761Z,last-commander-core,0.0.0,0,0,https://github.com/last-commander/last-commander,"Core logic of Last Commander, a keyboard-driven two-panel file manager. Name reserved; under development."
+2026-11-13T22:55:29.961299Z,last-commander,0.0.0,0,0,https://github.com/last-commander/last-commander,"Last Commander, a keyboard-driven two-panel file manager. Name reserved; under development."
+2026-11-13T22:57:57.046911Z,bgpkit-snap,1.0.0-rc.1,0,0,https://github.com/bgpkit/bgpkit-snap,"Versioned, memory-mappable container for prefix tries, with an append-only journal"
+2026-11-13T23:00:52.726471Z,jtac-core,0.2.18,0,0,https://github.com/dmriding/jtac,"Evidence types, canonical encoding, hashing, the Merkle tree, and the verdict function."
+2026-11-13T23:00:55.642209Z,jtac-gate,0.2.18,0,0,https://github.com/dmriding/jtac,Shell command classifier and the decision function for tool calls and git operations.
+2026-11-13T23:00:56.475354Z,jtac-policy,0.2.18,0,0,https://github.com/dmriding/jtac,"Parse, validate, hash, and evaluate policy."
+2026-11-13T23:00:57.012585Z,jtac-sign,0.2.18,0,0,https://github.com/dmriding/jtac,SSHSIG signing and verification through ssh-keygen.
+2026-11-13T23:01:00.133689Z,jtac-checks,0.2.18,0,0,https://github.com/dmriding/jtac,"Check runner: subprocess execution, output capture, caching, diff-integrity checks."
+2026-11-13T23:03:58.439854Z,arc-lend,0.1.0,0,0,https://github.com/tutti-audio/arc-lend,A shared-value cell for threads on a deadline: one thread replaces the value while others read it without waiting or freeing
+2026-11-13T23:04:09.574706Z,jtac-store,0.2.18,0,0,https://github.com/dmriding/jtac,Local content-addressed store and the git ref layer.
+2026-11-13T23:08:19.121483Z,claude-code-settings,0.1.0,0,0,https://github.com/talaagent/ccwire,"Typed Claude Code settings.json: every key, lossless round-trips, and Claude Code's layer merge"
+2026-11-13T23:09:19.759508Z,mcp-lite,0.1.0,0,0,https://github.com/ikarys/mcp-lite,A small synchronous Model Context Protocol client with a lazy tool layer
+2026-11-13T23:14:21.364385Z,anthropic-messages,0.1.0,0,0,https://github.com/ZmoleCristian/anthropic-messages,"Typed client for the Anthropic Messages API: request and response types, HTTP client, SSE event stream"

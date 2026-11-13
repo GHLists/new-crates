@@ -8,62 +8,44 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-13 22:18 UTC
+## Latest list — 2026-11-13 23:19 UTC
 
-New crates published between 2026-11-13 21:19 UTC and 2026-11-13 22:18 UTC.
+New crates published between 2026-11-13 22:18 UTC and 2026-11-13 23:19 UTC.
 
-[Full CSV](data/new-crates-2026-11-13T22-18-41-200823Z.csv)
+[Full CSV](data/new-crates-2026-11-13T23-19-36-994011Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-13 21:19:39 | [sc-decision-llm](https://crates.io/crates/sc-decision-llm) | 0.1.0 | 0 | Haiku and Luna decision backends for sc-agent: the Jev request as a JSON-schema… |
-| 2026-11-13 21:20:12 | [sc-decision-local](https://crates.io/crates/sc-decision-local) | 0.1.0 | 0 | Local System One decision backend for sc-agent: a configured Jev-compatible dae… |
-| 2026-11-13 21:20:20 | [vf_event](https://crates.io/crates/vf_event) | 0.1.1 | 0 | Callbacks, Events and Signals |
-| 2026-11-13 21:22:52 | [pagesift-graph](https://crates.io/crates/pagesift-graph) | 1.4.0 | 0 | Cross-source provenance, citation, version lineage, field evidence, corroborati… |
-| 2026-11-13 21:25:42 | [farthing](https://crates.io/crates/farthing) | 0.15.0 | 0 | Mesh LOD for real-time 3D: attribute-aware reduction, UV unwrapping and atlas p… |
-| 2026-11-13 21:25:59 | [farthing-cli](https://crates.io/crates/farthing-cli) | 0.15.0 | 0 | Command-line front end for farthing. |
-| 2026-11-13 21:26:42 | [roundhouse-path](https://crates.io/crates/roundhouse-path) | 0.3.0 | 0 | Path joining and template validation shared by roundhouse and its macros. |
-| 2026-11-13 21:26:46 | [roundhouse-macros-core](https://crates.io/crates/roundhouse-macros-core) | 0.3.0 | 0 | Parsing and expansion for roundhouse's proc macros. |
-| 2026-11-13 21:28:25 | [sc-decision-runner](https://crates.io/crates/sc-decision-runner) | 0.1.0 | 0 | Sync decision runner for sc-agent: one Decision over any Backend, worker thread… |
-| 2026-11-13 21:28:58 | [hinny](https://crates.io/crates/hinny) | 0.0.1 | 0 | Hinny: an embedded hybrid search database (full-text, vector and sparse retriev… |
-| 2026-11-13 21:29:15 | [arduous_rt](https://crates.io/crates/arduous_rt) | 0.7.0 | 0 | Process-global named Tokio runtimes with nesting, reentrancy-safe execution, an… |
-| 2026-11-13 21:34:04 | [duke-odf](https://crates.io/crates/duke-odf) | 0.2.1 | 0 | Shared OpenDocument package, style, text and drawing readers for the Duke Offic… |
-| 2026-11-13 21:34:06 | [duke-office-art](https://crates.io/crates/duke-office-art) | 0.1.10 | 0 | Shared Office picture, shape, connector and saved SmartArt rendering for Rust a… |
-| 2026-11-13 21:34:08 | [duke-office-charts](https://crates.io/crates/duke-office-charts) | 0.2.1 | 0 | Render Office Open XML charts to SVG from native Rust or WebAssembly |
-| 2026-11-13 21:34:11 | [duke-office-charts-wasm](https://crates.io/crates/duke-office-charts-wasm) | 0.2.1 | 0 | WebAssembly bindings for the Office Open XML chart renderer |
-| 2026-11-13 21:38:19 | [sc-treesitter](https://crates.io/crates/sc-treesitter) | 0.1.0 | 0 | Load tree-sitter grammars and run any query against them. |
-| 2026-11-13 21:47:31 | [mapdiff-core](https://crates.io/crates/mapdiff-core) | 0.1.0 | 0 | Shared data model: scopes, kinds, access levels, IDs. |
-| 2026-11-13 21:47:46 | [mapdiff-extract](https://crates.io/crates/mapdiff-extract) | 0.1.0 | 0 | Parses source files into scope trees. |
-| 2026-11-13 21:47:54 | [mapdiff-gitdiff](https://crates.io/crates/mapdiff-gitdiff) | 0.1.0 | 0 | Reads git refs and builds scope-level change sets. |
-| 2026-11-13 21:48:05 | [mapdiff-graph](https://crates.io/crates/mapdiff-graph) | 0.1.0 | 0 | Reference graph, edge lifting, cycles and impact. |
-| 2026-11-13 21:48:23 | [mapdiff-server](https://crates.io/crates/mapdiff-server) | 0.1.0 | 0 | Local HTTP API for the UI. |
-| 2026-11-13 21:49:16 | [sitr](https://crates.io/crates/sitr) | 0.1.0 | 0 | sitr CLI: run predefined tree-sitter queries (product binary for sc-treesitter). |
-| 2026-11-13 21:49:33 | [cf-vault](https://crates.io/crates/cf-vault) | 0.1.0 | 0 | Manage Cloudflare credentials: sign in, keep them in the system keychain, and r… |
-| 2026-11-13 21:50:48 | [chaoshub](https://crates.io/crates/chaoshub) | 0.1.0 | 0 | A terminal app that tracks your GitHub pull requests, with jj or git |
-| 2026-11-13 21:53:48 | [duke-pages](https://crates.io/crates/duke-pages) | 0.3.1 | 0 | Rust parser, document model, and serializer for DOCX and legacy Word documents |
-| 2026-11-13 21:56:14 | [sort-raytracing](https://crates.io/crates/sort-raytracing) | 0.1.0 | 0 | Pure Rust port of SORT (Simple Open-source Ray Tracing), focused on architectur… |
-| 2026-11-13 21:58:04 | [susik](https://crates.io/crates/susik) | 0.1.0 | 0 | Four Color Cards (四色牌): the 112-card deck, multiset hands, melds, and a layout… |
-| 2026-11-13 21:58:16 | [broadcast-dash](https://crates.io/crates/broadcast-dash) | 0.1.0 | 0 | MPEG-DASH (ISO/IEC 23009-1) manifest syntax: the MPD model, its bounded parser,… |
-| 2026-11-13 21:59:08 | [decidr](https://crates.io/crates/decidr) | 0.1.0 | 0 | Command-line client for the TypeSafe (Jev) decision API. |
-| 2026-11-13 21:59:12 | [chd-rs](https://crates.io/crates/chd-rs) | 0.1.0 | 0 | CHD (MAME Compressed Hunks of Data) inspection, compression and decompression,… |
-| 2026-11-13 21:59:15 | [rvz-rs](https://crates.io/crates/rvz-rs) | 0.1.0 | 0 | RVZ (GameCube and Wii disc image) compression and decompression, scrubbing incl… |
-| 2026-11-13 21:59:18 | [wbfs-rs](https://crates.io/crates/wbfs-rs) | 0.1.0 | 0 | WBFS (Wii and GameCube disc image) creation and extraction, interchangeable wit… |
-| 2026-11-13 21:59:33 | [mapdiff](https://crates.io/crates/mapdiff) | 0.1.0 | 0 | Review a change on a map of your code: diffs by function and type, drawn with w… |
-| 2026-11-13 22:01:50 | [akibiyori](https://crates.io/crates/akibiyori) | 0.1.0-rc1 | 0 | Generate readable Cobalt source from OpenAPI contracts and authored Markdown |
-| 2026-11-13 22:01:59 | [kiso-core](https://crates.io/crates/kiso-core) | 0.1.0 | 0 | Kiso component specs: one contract for the React, HTML, text and ratatui outputs |
-| 2026-11-13 22:02:16 | [tui-kiso](https://crates.io/crates/tui-kiso) | 0.1.0 | 0 | Kiso components for ratatui terminal interfaces |
-| 2026-11-13 22:03:12 | [aerofoil-mlat](https://crates.io/crates/aerofoil-mlat) | 0.1.0-beta.2 | 0 | Multilateration (MLAT) receiver registry, clock drift synchronization, and TDOA… |
-| 2026-11-13 22:05:18 | [broadcast-smooth](https://crates.io/crates/broadcast-smooth) | 0.1.0 | 0 | Microsoft Smooth Streaming (MS-SSTR) client Manifest: typed model with parse an… |
-| 2026-11-13 22:06:10 | [duke-pages-wasm](https://crates.io/crates/duke-pages-wasm) | 0.3.1 | 0 | WebAssembly bindings for the duke-pages parser and serializer |
-| 2026-11-13 22:06:21 | [reallyme-buffa](https://crates.io/crates/reallyme-buffa) | 0.1.0 | 0 | ReallyMe fork: A pure Rust Protocol Buffers implementation with first-class edi… |
-| 2026-11-13 22:06:26 | [reallyme-buffa-descriptor](https://crates.io/crates/reallyme-buffa-descriptor) | 0.1.0 | 0 | ReallyMe fork: Protobuf descriptor types (FileDescriptorProto, DescriptorProto,… |
-| 2026-11-13 22:06:32 | [reallyme-buffa-types](https://crates.io/crates/reallyme-buffa-types) | 0.1.0 | 0 | ReallyMe fork: Protobuf well-known types for buffa |
-| 2026-11-13 22:06:36 | [reallyme-buffa-proto-options](https://crates.io/crates/reallyme-buffa-proto-options) | 0.1.0 | 0 | ReallyMe fork: Rust types for buffa's custom protobuf options (buffa/ext/option… |
-| 2026-11-13 22:06:41 | [reallyme-buffa-codegen](https://crates.io/crates/reallyme-buffa-codegen) | 0.1.0 | 0 | ReallyMe fork: Shared code generation logic for buffa (descriptor → Rust source) |
-| 2026-11-13 22:10:31 | [langdex](https://crates.io/crates/langdex) | 0.0.1 | 0 | The languages of source files: names, aliases, extensions, file names and inter… |
-| 2026-11-13 22:13:18 | [duke-slides](https://crates.io/crates/duke-slides) | 0.4.1 | 0 | Parse PowerPoint PPTX and legacy PPT presentations into a structured model |
-| 2026-11-13 22:13:51 | [scinumtools3-build](https://crates.io/crates/scinumtools3-build) | 0.10.2 | 0 | Compile-time DIPL evaluation and Rust struct initializer generation |
-| 2026-11-13 22:14:40 | [csvidx](https://crates.io/crates/csvidx) | 0.1.0 | 0 | Secondary index for huge CSV files: lookup by key without importing |
+| 2026-11-13 22:19:55 | [reallyme-buffa-build](https://crates.io/crates/reallyme-buffa-build) | 0.1.0 | 0 | ReallyMe fork: Build-time integration for buffa (use in build.rs) |
+| 2026-11-13 22:23:06 | [reallyme-buffa-remote-derive](https://crates.io/crates/reallyme-buffa-remote-derive) | 0.1.0 | 0 | ReallyMe fork: Derive macros that implement buffa's pluggable owned-type traits… |
+| 2026-11-13 22:23:18 | [duke-slides-wasm](https://crates.io/crates/duke-slides-wasm) | 0.4.1 | 0 | WebAssembly bindings for the Extend PowerPoint parser |
+| 2026-11-13 22:28:23 | [aixm](https://crates.io/crates/aixm) | 0.1.0 | 0 | AIXM 5.x parser |
+| 2026-11-13 22:32:22 | [miden-prover-service](https://crates.io/crates/miden-prover-service) | 0.0.0 | 0 | Placeholder crate for a Miden VM project |
+| 2026-11-13 22:34:15 | [reallyme-protoc-gen-buffa](https://crates.io/crates/reallyme-protoc-gen-buffa) | 0.1.0 | 0 | ReallyMe fork: protoc plugin for generating Rust code with buffa |
+| 2026-11-13 22:34:50 | [emx](https://crates.io/crates/emx) | 0.0.1 | 0 | A fast terminal editor with Emacs keybindings, built for working alongside codi… |
+| 2026-11-13 22:38:13 | [tsap-oo](https://crates.io/crates/tsap-oo) | 0.1.0 | 0 | 十胡 (Tsa̍p-ôo), the Taiwanese Four Color Cards game: rules, round state machine,… |
+| 2026-11-13 22:39:20 | [xrack-interpreter](https://crates.io/crates/xrack-interpreter) | 0.5.0 | 0 | XRack interpreter support |
+| 2026-11-13 22:39:27 | [fsspec_fuse](https://crates.io/crates/fsspec_fuse) | 0.1.0 | 0 | Mount fsspec filesystems with FUSE |
+| 2026-11-13 22:40:12 | [do-not-drop](https://crates.io/crates/do-not-drop) | 0.1.0 | 0 | Do-Not-Drop is a package for preventing AI agents and developers from deleting,… |
+| 2026-11-13 22:40:32 | [pixelforge-ash](https://crates.io/crates/pixelforge-ash) | 0.38.1+1.4.352.f4c2… | 0 | Vulkan bindings for Rust |
+| 2026-11-13 22:43:43 | [fifo-bufread](https://crates.io/crates/fifo-bufread) | 0.1.0 | 0 | Produce hunks of bytes in one thread or async task and consume them from anothe… |
+| 2026-11-13 22:45:30 | [reallyme-protoc-gen-buffa-packaging](https://crates.io/crates/reallyme-protoc-gen-buffa-packaging) | 0.1.0 | 0 | ReallyMe fork: protoc plugin that emits a mod.rs module tree for buffa per-file… |
+| 2026-11-13 22:53:40 | [consecution](https://crates.io/crates/consecution) | 0.1.0 | 0 | What a function does, from facts about its body: data and order dependencies, t… |
+| 2026-11-13 22:53:54 | [ufs-base](https://crates.io/crates/ufs-base) | 0.1.0 | 0 | core for ufs |
+| 2026-11-13 22:54:00 | [consecution-rust](https://crates.io/crates/consecution-rust) | 0.1.0 | 0 | Rust functions for Consecution: syn reads the source, Syntagm declarations deci… |
+| 2026-11-13 22:55:27 | [last-commander-core](https://crates.io/crates/last-commander-core) | 0.0.0 | 0 | Core logic of Last Commander, a keyboard-driven two-panel file manager. Name re… |
+| 2026-11-13 22:55:29 | [last-commander](https://crates.io/crates/last-commander) | 0.0.0 | 0 | Last Commander, a keyboard-driven two-panel file manager. Name reserved; under… |
+| 2026-11-13 22:57:57 | [bgpkit-snap](https://crates.io/crates/bgpkit-snap) | 1.0.0-rc.1 | 0 | Versioned, memory-mappable container for prefix tries, with an append-only jour… |
+| 2026-11-13 23:00:52 | [jtac-core](https://crates.io/crates/jtac-core) | 0.2.18 | 0 | Evidence types, canonical encoding, hashing, the Merkle tree, and the verdict f… |
+| 2026-11-13 23:00:55 | [jtac-gate](https://crates.io/crates/jtac-gate) | 0.2.18 | 0 | Shell command classifier and the decision function for tool calls and git opera… |
+| 2026-11-13 23:00:56 | [jtac-policy](https://crates.io/crates/jtac-policy) | 0.2.18 | 0 | Parse, validate, hash, and evaluate policy. |
+| 2026-11-13 23:00:57 | [jtac-sign](https://crates.io/crates/jtac-sign) | 0.2.18 | 0 | SSHSIG signing and verification through ssh-keygen. |
+| 2026-11-13 23:01:00 | [jtac-checks](https://crates.io/crates/jtac-checks) | 0.2.18 | 0 | Check runner: subprocess execution, output capture, caching, diff-integrity che… |
+| 2026-11-13 23:03:58 | [arc-lend](https://crates.io/crates/arc-lend) | 0.1.0 | 0 | A shared-value cell for threads on a deadline: one thread replaces the value wh… |
+| 2026-11-13 23:04:09 | [jtac-store](https://crates.io/crates/jtac-store) | 0.2.18 | 0 | Local content-addressed store and the git ref layer. |
+| 2026-11-13 23:08:19 | [claude-code-settings](https://crates.io/crates/claude-code-settings) | 0.1.0 | 0 | Typed Claude Code settings.json: every key, lossless round-trips, and Claude Co… |
+| 2026-11-13 23:09:19 | [mcp-lite](https://crates.io/crates/mcp-lite) | 0.1.0 | 0 | A small synchronous Model Context Protocol client with a lazy tool layer |
+| 2026-11-13 23:14:21 | [anthropic-messages](https://crates.io/crates/anthropic-messages) | 0.1.0 | 0 | Typed client for the Anthropic Messages API: request and response types, HTTP c… |
 
 ## Data source
 
