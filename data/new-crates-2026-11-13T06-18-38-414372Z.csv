@@ -1,0 +1,34 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-13T05:22:30.572038Z,wolftpm2-sys,0.3.1,0,0,https://github.com/MarkAtwood/wolfssl-rs,"Unofficial auto-generated Rust FFI bindings to wolfTPM, for wolftpm2"
+2026-11-13T05:22:38.945852Z,titan-file-filter,1.0.0,0,0,https://github.com/titanfyre/Titan-File-Filter,Windows x64 Titan-File-Filter direct native SDK
+2026-11-13T05:28:24.697254Z,cameleer,0.6.0,0,0,https://github.com/cameleering/cameleer,"Cameleer: Apache Camel's integration model in Rust, and the reliable action layer for AI agents. Installs the `cameleer` command (the cameleer-main crate)."
+2026-11-13T05:30:49.807313Z,siafudb-graph-common,0.1.0,0,0,https://github.com/siafuDB/siafudb,"Common types, memory allocators, and utilities for Grafeo (SiafuDB fork of GrafeoDB 0.6.2)"
+2026-11-13T05:31:08.718877Z,siafudb-graph-core,0.1.0,0,0,https://github.com/siafuDB/siafudb,"Core graph models, indexes, and execution primitives for Grafeo (SiafuDB fork of GrafeoDB 0.6.2)"
+2026-11-13T05:31:20.640485Z,siafudb-graph-adapters,0.1.0,0,0,https://github.com/siafuDB/siafudb,"Storage, query language, and plugin adapters for Grafeo (SiafuDB fork of GrafeoDB 0.6.2)"
+2026-11-13T05:31:27.881329Z,siafudb-graph-storage,0.1.0,0,0,https://github.com/siafuDB/siafudb,"Persistence layer for Grafeo: WAL, container format, section I/O (SiafuDB fork of GrafeoDB 0.6.2)"
+2026-11-13T05:31:55.466599Z,siafudb-graph-engine,0.1.0,0,0,https://github.com/siafuDB/siafudb,Query engine and database management for Grafeo (SiafuDB fork of GrafeoDB 0.6.2)
+2026-11-13T05:32:28.874759Z,wolftpm2,0.3.1,0,0,https://github.com/MarkAtwood/wolfssl-rs,Unofficial safe Rust bindings to wolfTPM (TPM 2.0); not the official `wolftpm` crate
+2026-11-13T05:32:49.118468Z,titan-network-filter,1.0.0,0,0,https://github.com/titanfyre/Titan-Network-Filter,Windows x64 Titan-Network-Filter direct native SDK
+2026-11-13T05:42:29.496943Z,network-emulation-sdk,1.0.0,0,0,https://github.com/titanfyre/Network-Emulation-SDK,Windows x64 Network-Emulation-SDK direct native SDK
+2026-11-13T05:46:24.983958Z,siafudb-graph,0.1.0,0,0,https://github.com/siafuDB/siafudb,"A high-performance, embeddable graph database with a Rust core and no required C dependencies (SiafuDB fork of GrafeoDB 0.6.2)"
+2026-11-13T05:46:31.077625Z,jmap-refplus,0.0.1,0,0,https://github.com/MarkAtwood/crate-jmap,JMAP result-reference extensions (draft-ietf-jmap-refplus) for Rust: capability identifier (early placeholder)
+2026-11-13T05:47:26.990697Z,kesto,0.3.3,0,0,https://github.com/atareao/kesto,"Lightweight backup orchestrator in a container: dumps MariaDB/PostgreSQL and host directories into rustic repositories on S3, with a live React panel."
+2026-11-13T05:52:40.096256Z,packet-capture-sdk,1.0.0,0,0,https://github.com/titanfyre/Packet-Capture-SDK,Windows x64 Packet-Capture-SDK direct native SDK
+2026-11-13T05:56:11.554938Z,sori-metrics,0.1.0,0,0,https://github.com/p14jeffwest/sori-metrics,Objective audio quality metrics in pure Rust: the 2f model (on an ITU-R BS.1387 Basic ear model) and a ViSQOL v3 audio-mode compatible MOS for music
+2026-11-13T05:56:33.074553Z,jmap-mail-sharing,0.0.1,0,0,https://github.com/MarkAtwood/crate-jmap,JMAP mail sharing (draft-ietf-jmap-mail-sharing) for Rust: capability identifier (early placeholder)
+2026-11-13T06:00:22.590629Z,siafudb-core,0.3.0,0,0,https://github.com/siafuDB/siafudb,"SiafuDB core: embedded graph database with fragments, bound-parameter queries, change log, and native/browser profiles. Pre-release."
+2026-11-13T06:02:50.455075Z,usb-trace-sdk,1.0.0,0,0,https://github.com/titanfyre/USB-Trace-SDK,Windows x64 USB-Trace-SDK direct native SDK
+2026-11-13T06:06:37.192734Z,jmap-filenode,0.0.1,0,0,https://github.com/MarkAtwood/crate-jmap,"JMAP FileNode: umbrella crate re-exporting jmap-filenode-types, -client, and -server"
+2026-11-13T06:07:14.133372Z,fireplace-crypto,0.1.0,0,0,https://github.com/fireplacechat/fireplace-crypto,"Fireplace end-to-end encryption: identities, prekeys, handshake and the hybrid double ratchet"
+2026-11-13T06:08:40.212083Z,email-reply-extractor,1.2.1,0,0,https://github.com/JayDaley/email-reply-extractor,"Extract the new text from an email reply: strip quoted text, quote headers, signatures and sign-offs. Rust port of the Python reference, byte-identical output."
+2026-11-13T06:09:52.52737Z,symbology,0.2.0,0,0,https://github.com/journey-to-code-org/symbology,"QR codes and linear barcodes written from scratch, with no dependencies"
+2026-11-13T06:12:15.919299Z,voltaic-diag,0.1.0,0,0,https://github.com/Industrial/voltaic,"Diagnostics for the Voltaic compiler: codes, spans and rendering."
+2026-11-13T06:12:18.388431Z,voltaic-lexer,0.1.0,0,0,https://github.com/Industrial/voltaic,"Off-side-rule lexer for the Voltaic language: spans, trivia and whitespace adjacency."
+2026-11-13T06:12:20.573429Z,voltaic-ast,0.1.0,0,0,https://github.com/Industrial/voltaic,Syntax tree types for the Voltaic language.
+2026-11-13T06:12:22.872616Z,voltaic-emit,0.1.0,0,0,https://github.com/Industrial/voltaic,"Rust source emitter for the Voltaic compiler: AST in, .xrs out."
+2026-11-13T06:12:25.053606Z,voltaic-fmt,0.1.0,0,0,https://github.com/Industrial/voltaic,The canonical formatter for Voltaic source.
+2026-11-13T06:12:30.959915Z,virtual-network-adapter-sdk,1.0.0,0,0,https://github.com/titanfyre/Virtual-Network-Adapter-SDK,Windows x64 Virtual-Network-Adapter-SDK direct native SDK
+2026-11-13T06:15:37.718503Z,voltaic-parser,0.1.0,0,0,https://github.com/Industrial/voltaic,Hand-written recursive-descent parser for the Voltaic language.
+2026-11-13T06:16:41.154705Z,jmap-sharing,0.0.1,0,0,https://github.com/MarkAtwood/crate-jmap,"JMAP Sharing: umbrella crate re-exporting jmap-sharing-types, -client, and -server"
+2026-11-13T06:17:16.401794Z,niisa,0.0.1,0,0,https://github.com/niisa-io/niisa,"Niisa, an agent-native planning engine (placeholder; first release coming)"
+2026-11-13T06:17:46.657348Z,pdf-render-types,1.0.0,0,0,https://github.com/pdfluent/pdfluent-sdk,"The public types of the PDFluent renderer that every version of it shares: RasterQuality, PdfData and StandardFont."
