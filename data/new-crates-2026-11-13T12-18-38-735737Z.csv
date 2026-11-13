@@ -1,0 +1,39 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-13T11:22:22.429734Z,runmat-extension-abi,0.7.1,0,0,https://github.com/runmat-org/runmat,Versioned C ABI for native RunMat extensions
+2026-11-13T11:22:34.720892Z,jetcarp-host,0.4.0,0,0,https://github.com/jprodgers/jetcarp,JETCARP background host: runs live scenes without the app window.
+2026-11-13T11:23:35.469593Z,rsille-typst,0.1.0,0,0,https://github.com/nidhoggfgg/rsille.git,Render Typst math into rsille raster canvases
+2026-11-13T11:23:41.467777Z,fiftyone-fodid-core,4.5.19,0,0,https://github.com/51Degrees/51degrees-rust,"The 51Did element data, property names, metadata and engine trait that any engine producing 51Dids is built on, with no cloud request engine."
+2026-11-13T11:25:37.084753Z,manguebyte-ump-io,0.2.0,0,0,https://github.com/alessonqueirozdev-hub/manguebyte,"The systems' own Universal MIDI Packet output (CoreMIDI event lists, the ALSA sequencer's UMP events), reached through foreign calls, for manguebyte-devices."
+2026-11-13T11:26:10.281241Z,manguebyte-state,0.2.0,0,0,https://github.com/alessonqueirozdev-hub/manguebyte,"Application state for the Manguebyte Audio Framework: a document tree with undo and redo, change journals, parameter links, saved state, settings files and snapshots for the audio thread."
+2026-11-13T11:30:07.973073Z,siderite-cli,0.1.0,0,0,https://github.com/jraavis/siderite,The siderite command-line tool
+2026-11-13T11:30:55.968405Z,yolowzstd,0.1.0,0,0,https://github.com/YOLOW92/yolowzstd,"Pure-Rust, hardware-adaptive Zstandard (RFC 8878) codec — zero runtime dependencies, #![forbid(unsafe_code)]."
+2026-11-13T11:32:17.756551Z,runmat-fea-source,0.7.1,0,0,,Checked FEA source contracts and bounded semantic queries
+2026-11-13T11:32:34.299489Z,jetcarp,0.4.0,0,0,https://github.com/jprodgers/jetcarp,"JETCARP (Jimmie's Euclidean Tilings and Cellular Automata Research Program): cellular automata on square, hexagonal, Archimedean, k-uniform, isohedral and aperiodic tilings. One program: the app, the…"
+2026-11-13T11:39:23.710749Z,phoenixflow,0.4.0,0,0,,Display relationships between phoenix projects.
+2026-11-13T11:40:08.029069Z,nu-runner,0.1.0,0,0,https://codeberg.org/AntonWetzel/nux,Use nushell as a command runner
+2026-11-13T11:42:20.982921Z,runmat-workspace-contracts,0.7.1,0,0,,Typed coherent workspace capture and conditional publication contracts
+2026-11-13T11:42:52.201014Z,siderite-sessions,0.1.0,0,0,https://github.com/jraavis/siderite,"Cookie sessions, CSRF tokens and session stores for siderite"
+2026-11-13T11:43:45.083195Z,string-analyze,0.1.0,0,0,https://github.com/AlbusPhos/string-analyze,Find key strings from cluttered text
+2026-11-13T11:45:36.141Z,rhema-sandbox,0.2.6,0,0,https://github.com/vhaudiquet/rhema,"The sandbox seam: the `Sandbox` contract, the `ShellSandbox` adapter, the wire protocol, and the backend family's shared machinery"
+2026-11-13T11:45:46.561549Z,rhema-sandbox-local,0.2.6,0,0,https://github.com/vhaudiquet/rhema,Local sandbox backend for the rhema `Sandbox` seam: commands as host processes rooted at one host directory
+2026-11-13T11:46:01.452555Z,rhema-sandbox-http,0.2.6,0,0,https://github.com/vhaudiquet/rhema,The rhema sandbox wire protocol over HTTPS: the `HttpSandbox` client and the `HttpTransport` seam
+2026-11-13T11:46:22.082247Z,rhema-cloud-agent,0.2.6,0,0,https://github.com/vhaudiquet/rhema,"The coding-agent harness for cloud frontends: assembly without a filesystem, a client approval gate, and a pluggable sandbox"
+2026-11-13T11:52:18.628017Z,runmat-geometry-kernel,0.7.1,0,0,https://github.com/runmat-org/runmat,"The kernel-neutral geometry-engine contract for RunMat CAD: canonical operations in, opaque bodies plus a per-entity history record out"
+2026-11-13T11:54:29.322269Z,charta,0.1.0,0,0,https://github.com/linzeyan/charta,"Interactive charts for the full Data Viz Catalogue, rendered to SVG/HTML or native GUIs"
+2026-11-13T11:55:17.651423Z,siderite-testkit,0.1.0,0,0,https://github.com/jraavis/siderite,Testing helpers for siderite applications
+2026-11-13T11:55:42.155194Z,fission-assets,0.1.0-alpha.1,0,0,https://github.com/fission-ui/fission,Typed asset provenance and licence metadata for Fission build tooling
+2026-11-13T11:55:44.627735Z,fission-scene,0.1.0-alpha.1,0,0,https://github.com/fission-ui/fission,"Renderer-neutral scene identity, assets, math, and diagnostics for Fission"
+2026-11-13T11:56:25.26904Z,fission-scene2d,0.1.0-alpha.1,0,0,https://github.com/fission-ui/fission,Retained renderer-neutral 2D scenes for Fission
+2026-11-13T11:56:27.56222Z,fission-scene3d,0.1.0-alpha.1,0,0,https://github.com/fission-ui/fission,Retained renderer-neutral 3D scenes for Fission
+2026-11-13T11:56:29.714747Z,fission-game,0.1.0-alpha.1,0,0,https://github.com/fission-ui/fission,Deterministic runtime primitives shared by Fission 2D and 3D games
+2026-11-13T11:58:04.429794Z,fan2jian,0.1.0,0,0,https://github.com/jorgeandrecastro/fan2jian,"Convertisseur ultra-rapide chinois traditionnel (繁体) vers chinois simplifié (简体), sans aucune dépendance."
+2026-11-13T12:01:52.742828Z,pipe-adapter-sdk,0.1.0,0,0,https://github.com/trydirect/status,Transport-agnostic traits and message types for status-panel pipe adapters
+2026-11-13T12:02:16.346675Z,pipe-adapter-mail,0.1.0,0,0,https://github.com/trydirect/status,"IMAP/POP3/SMTP pipe adapter for status-panel, built on pipe-adapter-sdk"
+2026-11-13T12:02:21.342018Z,runmat-mex,0.7.1,0,0,https://github.com/runmat-org/runmat,"Native C, C++, Fortran, and GPU MEX adapter for RunMat"
+2026-11-13T12:02:51.286927Z,status-panel,0.2.2,0,0,https://github.com/trydirect/status,"Self-hosted status page with uptime monitoring, incident dashboards and a probe agent for Docker stacks"
+2026-11-13T12:03:36.184622Z,robotech-template,1.17.0,0,0,https://github.com/rusthing/robotech-rs,"RoboTech platform template rendering kernel: {{var}} placeholders, filter chains and structured diagnostics."
+2026-11-13T12:06:44.02211Z,coyote-lang,0.1.0,0,0,,bare-metal language for sovereign computation — source to silicon
+2026-11-13T12:07:37.268575Z,openvpn3-indicator-rs,0.1.0,0,0,https://github.com/skoky/openvpn3-indicator-rs,Tray indicator for OpenVPN 3 Linux
+2026-11-13T12:10:13.575534Z,siderite-web,0.1.0,0,0,https://github.com/jraavis/siderite,Public facade and prelude for the siderite web framework
+2026-11-13T12:12:24.571564Z,runmat-java,0.7.1,0,0,https://github.com/runmat-org/runmat,Java interoperability for RunMat
+2026-11-13T12:14:34.868249Z,symposium-pm-cargo,0.1.0,0,0,https://github.com/symposium-dev/symposium,The cargo package manager for Symposium: resolves crates from a Cargo workspace into unvalidated plugins

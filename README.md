@@ -8,62 +8,52 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-13 11:19 UTC
+## Latest list — 2026-11-13 12:18 UTC
 
-New crates published between 2026-11-13 10:19 UTC and 2026-11-13 11:19 UTC.
+New crates published between 2026-11-13 11:19 UTC and 2026-11-13 12:18 UTC.
 
-[Full CSV](data/new-crates-2026-11-13T11-19-59-545597Z.csv)
+[Full CSV](data/new-crates-2026-11-13T12-18-38-735737Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-13 10:22:11 | [jetcarp-core](https://crates.io/crates/jetcarp-core) | 0.4.0 | 0 | JETCARP engine: tilings, cell fields, cellular automata, commands, scenes. No U… |
-| 2026-11-13 10:22:13 | [jetcarp-gpu](https://crates.io/crates/jetcarp-gpu) | 0.4.0 | 0 | JETCARP GPU simulation: wgpu compute shaders, bit-identical to the jetcarp-core… |
-| 2026-11-13 10:22:14 | [jetcarp-store](https://crates.io/crates/jetcarp-store) | 0.4.0 | 0 | JETCARP's store: the pattern library (the SQLite catalog and its migrations), t… |
-| 2026-11-13 10:22:15 | [jetcarp-search](https://crates.io/crates/jetcarp-search) | 0.4.0 | 0 | JETCARP's searches: the job runner (specs, strategies, runner, handles, registr… |
-| 2026-11-13 10:22:17 | [jetcarp-pack](https://crates.io/crates/jetcarp-pack) | 0.4.0 | 0 | JETCARP packs (format 1.0): a content-addressed store of Parquet tables and JSO… |
-| 2026-11-13 10:23:35 | [meshview](https://crates.io/crates/meshview) | 0.2.0 | 0 | Headless CPU rasterizer for comparing triangle meshes side by side: one shared… |
-| 2026-11-13 10:27:26 | [crawlora-modrinth](https://crates.io/crates/crawlora-modrinth) | 0.1.0 | 0 | Typed Rust client for Crawlora's hosted Modrinth API. Requires a Crawlora API k… |
-| 2026-11-13 10:27:33 | [crawlora-openligadb](https://crates.io/crates/crawlora-openligadb) | 0.1.0 | 0 | Typed Rust client for Crawlora's hosted OpenLigaDB API. Requires a Crawlora API… |
-| 2026-11-13 10:27:39 | [crawlora-speedrun](https://crates.io/crates/crawlora-speedrun) | 0.1.0 | 0 | Typed Rust client for Crawlora's hosted Speedrun.com API. Requires a Crawlora A… |
-| 2026-11-13 10:29:06 | [screen-calipers](https://crates.io/crates/screen-calipers) | 0.1.0 | 0 | A lightweight desktop tool for measuring screen distances and angles. |
-| 2026-11-13 10:30:56 | [wl-annotate](https://crates.io/crates/wl-annotate) | 0.1.0 | 0 | Draw annotations directly on the screen on Wayland |
-| 2026-11-13 10:32:35 | [jetcarp-api](https://crates.io/crates/jetcarp-api) | 0.4.0 | 0 | JETCARP's operations layer: what the command line, the MCP server, Rhai scripts… |
-| 2026-11-13 10:36:29 | [tower-actix](https://crates.io/crates/tower-actix) | 0.0.0 | 0 | Temporary reservation for this crate name. |
-| 2026-11-13 10:37:24 | [siderite-config](https://crates.io/crates/siderite-config) | 0.1.0 | 0 | Layered configuration (TOML, environment, overrides) for siderite |
-| 2026-11-13 10:37:25 | [siderite-macros](https://crates.io/crates/siderite-macros) | 0.1.0 | 0 | Procedural macros for siderite: route attributes, routes![] and derive(Schema) |
-| 2026-11-13 10:37:25 | [siderite-validation](https://crates.io/crates/siderite-validation) | 0.1.0 | 0 | Pydantic-inspired validation and schema metadata for siderite |
-| 2026-11-13 10:37:26 | [siderite-openapi](https://crates.io/crates/siderite-openapi) | 0.1.0 | 0 | OpenAPI 3.1 document model and builder for siderite |
-| 2026-11-13 10:37:26 | [siderite-orm](https://crates.io/crates/siderite-orm) | 0.1.0 | 0 | Django-inspired ORM core: QueryPlan IR, expressions, capabilities |
-| 2026-11-13 10:40:27 | [organisationsnummer-rs](https://crates.io/crates/organisationsnummer-rs) | 1.1.0 | 0 | Validate Swedish organization numbers |
-| 2026-11-13 10:40:33 | [coolapk-cli](https://crates.io/crates/coolapk-cli) | 0.1.0 | 0 | Standalone Rust CLI for the Coolapk community |
-| 2026-11-13 10:40:59 | [clock-dbm](https://crates.io/crates/clock-dbm) | 0.1.0 | 0 | Difference bound matrices (DBMs) over packed i32 bounds for timed-automata zones |
-| 2026-11-13 10:42:36 | [jetcarp-script](https://crates.io/crates/jetcarp-script) | 0.4.0 | 0 | JETCARP's scripting engine (Rhai): worlds, runs, renders, and parallel rule swe… |
-| 2026-11-13 10:43:43 | [runmat-build-identity](https://crates.io/crates/runmat-build-identity) | 0.7.1 | 0 | Build-time configuration identity for dependency-aware artifact reuse |
-| 2026-11-13 10:45:15 | [runmat-cpu-execution](https://crates.io/crates/runmat-cpu-execution) | 0.7.1 | 0 | Bounded reusable shared-memory CPU execution for RunMat |
-| 2026-11-13 10:45:47 | [runmat-simulation-usage](https://crates.io/crates/runmat-simulation-usage) | 0.7.1 | 0 | Exact numerical-operation units for RunMat simulation usage |
-| 2026-11-13 10:45:59 | [hyaline](https://crates.io/crates/hyaline) | 0.1.0 | 0 | A safe and efficient deferred resource reclamation library for concurrent scena… |
-| 2026-11-13 10:46:04 | [everystate](https://crates.io/crates/everystate) | 0.0.1 | 0 | A TLA+ model checker with no Java dependency (TLC-compatible). Pre-release plac… |
-| 2026-11-13 10:46:20 | [runmat-sparse-solvers](https://crates.io/crates/runmat-sparse-solvers) | 0.7.1 | 0 | Shared value-free sparse linear algebra for RunMat: sparse storage, direct fact… |
-| 2026-11-13 10:46:47 | [kui-web](https://crates.io/crates/kui-web) | 0.1.0-alpha.81 | 0 | A single-canvas browser host for kui, with Canvas 2D and WebGPU renderers |
-| 2026-11-13 10:47:25 | [runmat-sparse-accelerate](https://crates.io/crates/runmat-sparse-accelerate) | 0.7.1 | 0 | Device preconditioners for the shared sparse solvers through the accelerator pr… |
-| 2026-11-13 10:52:11 | [siderite-backends](https://crates.io/crates/siderite-backends) | 0.1.0 | 0 | SQL query compilers and database backends for siderite |
-| 2026-11-13 10:52:35 | [jetcarp-display](https://crates.io/crates/jetcarp-display) | 0.4.0 | 0 | JETCARP display engine: draws worlds with wgpu, steps them on the GPU, and hold… |
-| 2026-11-13 10:54:23 | [runmat-clarabel](https://crates.io/crates/runmat-clarabel) | 0.7.1 | 0 | RunMat cooperative integration of the Clarabel 0.11.1 conic interior-point solv… |
-| 2026-11-13 11:00:36 | [diesel-sqlite-session](https://crates.io/crates/diesel-sqlite-session) | 0.1.0 | 0 | SQLite session extension support for Diesel ORM - track changes and generate ch… |
-| 2026-11-13 11:02:18 | [runmat-design-syntax](https://crates.io/crates/runmat-design-syntax) | 0.7.1 | 0 | The RunMat design language: lexer, lossless syntax tree, dialects, document eng… |
-| 2026-11-13 11:02:36 | [jetcarp-mcp](https://crates.io/crates/jetcarp-mcp) | 0.4.0 | 0 | JETCARP's MCP (Model Context Protocol) server over the operations layer: tools,… |
-| 2026-11-13 11:04:44 | [meteo-mcp-rs](https://crates.io/crates/meteo-mcp-rs) | 0.1.1 | 0 | Native Rust MCP server for Open-Meteo with an interactive MCP App dashboard (we… |
-| 2026-11-13 11:05:25 | [siderite-core](https://crates.io/crates/siderite-core) | 0.1.0 | 0 | App, routing, extractors, responses and errors for siderite |
-| 2026-11-13 11:08:31 | [oxscape_core](https://crates.io/crates/oxscape_core) | 0.0.1 | 0 | array primitives shared by all oxscape crates |
-| 2026-11-13 11:11:43 | [oxscape_flowmets](https://crates.io/crates/oxscape_flowmets) | 0.0.1 | 0 | hydrological flow metrics. These can be used as-is with oxscape-core, or as par… |
-| 2026-11-13 11:12:21 | [runmat-analysis-language](https://crates.io/crates/runmat-analysis-language) | 0.7.1 | 0 | Typed FEA source-to-domain compiler for RunMat |
-| 2026-11-13 11:12:35 | [jetcarp-app](https://crates.io/crates/jetcarp-app) | 0.4.0 | 0 | JETCARP desktop app (egui + wgpu). |
-| 2026-11-13 11:12:38 | [logsender](https://crates.io/crates/logsender) | 0.9.1 | 0 | A lightweight log sender agent |
-| 2026-11-13 11:12:54 | [tonutils-cli](https://crates.io/crates/tonutils-cli) | 2.0.0 | 0 | Command-line tooling for `tonutils` Rust crate. |
-| 2026-11-13 11:13:02 | [light-fw-devtools-web](https://crates.io/crates/light-fw-devtools-web) | 0.18.0 | 0 | Web UI DevTools: браузерный инспектор VDOM/State поверх TCP-DevTools (127.0.0.1… |
-| 2026-11-13 11:16:38 | [fncosmos-sdk](https://crates.io/crates/fncosmos-sdk) | 0.1.0 | 0 | Write fncosmos operations in Rust: durable backend functions that run in WebAss… |
-| 2026-11-13 11:17:47 | [siderite-cache](https://crates.io/crates/siderite-cache) | 0.1.0 | 0 | Cache backends (in-memory LRU, Redis) and route caching for siderite |
-| 2026-11-13 11:17:47 | [siderite-migrations](https://crates.io/crates/siderite-migrations) | 0.1.0 | 0 | Django-inspired schema migrations for siderite |
+| 2026-11-13 11:22:22 | [runmat-extension-abi](https://crates.io/crates/runmat-extension-abi) | 0.7.1 | 0 | Versioned C ABI for native RunMat extensions |
+| 2026-11-13 11:22:34 | [jetcarp-host](https://crates.io/crates/jetcarp-host) | 0.4.0 | 0 | JETCARP background host: runs live scenes without the app window. |
+| 2026-11-13 11:23:35 | [rsille-typst](https://crates.io/crates/rsille-typst) | 0.1.0 | 0 | Render Typst math into rsille raster canvases |
+| 2026-11-13 11:23:41 | [fiftyone-fodid-core](https://crates.io/crates/fiftyone-fodid-core) | 4.5.19 | 0 | The 51Did element data, property names, metadata and engine trait that any engi… |
+| 2026-11-13 11:25:37 | [manguebyte-ump-io](https://crates.io/crates/manguebyte-ump-io) | 0.2.0 | 0 | The systems' own Universal MIDI Packet output (CoreMIDI event lists, the ALSA s… |
+| 2026-11-13 11:26:10 | [manguebyte-state](https://crates.io/crates/manguebyte-state) | 0.2.0 | 0 | Application state for the Manguebyte Audio Framework: a document tree with undo… |
+| 2026-11-13 11:30:07 | [siderite-cli](https://crates.io/crates/siderite-cli) | 0.1.0 | 0 | The siderite command-line tool |
+| 2026-11-13 11:30:55 | [yolowzstd](https://crates.io/crates/yolowzstd) | 0.1.0 | 0 | Pure-Rust, hardware-adaptive Zstandard (RFC 8878) codec — zero runtime dependen… |
+| 2026-11-13 11:32:17 | [runmat-fea-source](https://crates.io/crates/runmat-fea-source) | 0.7.1 | 0 | Checked FEA source contracts and bounded semantic queries |
+| 2026-11-13 11:32:34 | [jetcarp](https://crates.io/crates/jetcarp) | 0.4.0 | 0 | JETCARP (Jimmie's Euclidean Tilings and Cellular Automata Research Program): ce… |
+| 2026-11-13 11:39:23 | [phoenixflow](https://crates.io/crates/phoenixflow) | 0.4.0 | 0 | Display relationships between phoenix projects. |
+| 2026-11-13 11:40:08 | [nu-runner](https://crates.io/crates/nu-runner) | 0.1.0 | 0 | Use nushell as a command runner |
+| 2026-11-13 11:42:20 | [runmat-workspace-contracts](https://crates.io/crates/runmat-workspace-contracts) | 0.7.1 | 0 | Typed coherent workspace capture and conditional publication contracts |
+| 2026-11-13 11:42:52 | [siderite-sessions](https://crates.io/crates/siderite-sessions) | 0.1.0 | 0 | Cookie sessions, CSRF tokens and session stores for siderite |
+| 2026-11-13 11:43:45 | [string-analyze](https://crates.io/crates/string-analyze) | 0.1.0 | 0 | Find key strings from cluttered text |
+| 2026-11-13 11:45:36 | [rhema-sandbox](https://crates.io/crates/rhema-sandbox) | 0.2.6 | 0 | The sandbox seam: the `Sandbox` contract, the `ShellSandbox` adapter, the wire… |
+| 2026-11-13 11:45:46 | [rhema-sandbox-local](https://crates.io/crates/rhema-sandbox-local) | 0.2.6 | 0 | Local sandbox backend for the rhema `Sandbox` seam: commands as host processes… |
+| 2026-11-13 11:46:01 | [rhema-sandbox-http](https://crates.io/crates/rhema-sandbox-http) | 0.2.6 | 0 | The rhema sandbox wire protocol over HTTPS: the `HttpSandbox` client and the `H… |
+| 2026-11-13 11:46:22 | [rhema-cloud-agent](https://crates.io/crates/rhema-cloud-agent) | 0.2.6 | 0 | The coding-agent harness for cloud frontends: assembly without a filesystem, a… |
+| 2026-11-13 11:52:18 | [runmat-geometry-kernel](https://crates.io/crates/runmat-geometry-kernel) | 0.7.1 | 0 | The kernel-neutral geometry-engine contract for RunMat CAD: canonical operation… |
+| 2026-11-13 11:54:29 | [charta](https://crates.io/crates/charta) | 0.1.0 | 0 | Interactive charts for the full Data Viz Catalogue, rendered to SVG/HTML or nat… |
+| 2026-11-13 11:55:17 | [siderite-testkit](https://crates.io/crates/siderite-testkit) | 0.1.0 | 0 | Testing helpers for siderite applications |
+| 2026-11-13 11:55:42 | [fission-assets](https://crates.io/crates/fission-assets) | 0.1.0-alpha.1 | 0 | Typed asset provenance and licence metadata for Fission build tooling |
+| 2026-11-13 11:55:44 | [fission-scene](https://crates.io/crates/fission-scene) | 0.1.0-alpha.1 | 0 | Renderer-neutral scene identity, assets, math, and diagnostics for Fission |
+| 2026-11-13 11:56:25 | [fission-scene2d](https://crates.io/crates/fission-scene2d) | 0.1.0-alpha.1 | 0 | Retained renderer-neutral 2D scenes for Fission |
+| 2026-11-13 11:56:27 | [fission-scene3d](https://crates.io/crates/fission-scene3d) | 0.1.0-alpha.1 | 0 | Retained renderer-neutral 3D scenes for Fission |
+| 2026-11-13 11:56:29 | [fission-game](https://crates.io/crates/fission-game) | 0.1.0-alpha.1 | 0 | Deterministic runtime primitives shared by Fission 2D and 3D games |
+| 2026-11-13 11:58:04 | [fan2jian](https://crates.io/crates/fan2jian) | 0.1.0 | 0 | Convertisseur ultra-rapide chinois traditionnel (繁体) vers chinois simplifié (简体… |
+| 2026-11-13 12:01:52 | [pipe-adapter-sdk](https://crates.io/crates/pipe-adapter-sdk) | 0.1.0 | 0 | Transport-agnostic traits and message types for status-panel pipe adapters |
+| 2026-11-13 12:02:16 | [pipe-adapter-mail](https://crates.io/crates/pipe-adapter-mail) | 0.1.0 | 0 | IMAP/POP3/SMTP pipe adapter for status-panel, built on pipe-adapter-sdk |
+| 2026-11-13 12:02:21 | [runmat-mex](https://crates.io/crates/runmat-mex) | 0.7.1 | 0 | Native C, C++, Fortran, and GPU MEX adapter for RunMat |
+| 2026-11-13 12:02:51 | [status-panel](https://crates.io/crates/status-panel) | 0.2.2 | 0 | Self-hosted status page with uptime monitoring, incident dashboards and a probe… |
+| 2026-11-13 12:03:36 | [robotech-template](https://crates.io/crates/robotech-template) | 1.17.0 | 0 | RoboTech platform template rendering kernel: {{var}} placeholders, filter chain… |
+| 2026-11-13 12:06:44 | [coyote-lang](https://crates.io/crates/coyote-lang) | 0.1.0 | 0 | bare-metal language for sovereign computation — source to silicon |
+| 2026-11-13 12:07:37 | [openvpn3-indicator-rs](https://crates.io/crates/openvpn3-indicator-rs) | 0.1.0 | 0 | Tray indicator for OpenVPN 3 Linux |
+| 2026-11-13 12:10:13 | [siderite-web](https://crates.io/crates/siderite-web) | 0.1.0 | 0 | Public facade and prelude for the siderite web framework |
+| 2026-11-13 12:12:24 | [runmat-java](https://crates.io/crates/runmat-java) | 0.7.1 | 0 | Java interoperability for RunMat |
+| 2026-11-13 12:14:34 | [symposium-pm-cargo](https://crates.io/crates/symposium-pm-cargo) | 0.1.0 | 0 | The cargo package manager for Symposium: resolves crates from a Cargo workspace… |
 
 ## Data source
 
