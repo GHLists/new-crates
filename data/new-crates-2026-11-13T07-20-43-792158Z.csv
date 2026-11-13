@@ -1,0 +1,38 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-13T06:21:27.836789Z,oracle-ir,0.1.0,0,0,https://github.com/vishvananda/oracle-grammar,Portable typed card semantics owned by Oracle Grammar
+2026-11-13T06:22:17.389619Z,oracle-ir-contract,0.1.0,0,0,https://github.com/vishvananda/oracle-grammar,"Validation, canonicalization and binding contracts for Oracle IR"
+2026-11-13T06:22:41.24579Z,virtual-camera-sdk,1.0.0,0,0,https://github.com/titanfyre/Virtual-Camera-SDK,Windows x64 Virtual-Camera-SDK direct native SDK
+2026-11-13T06:23:45.954915Z,oracle-ir-grammar,0.1.0,0,0,https://github.com/vishvananda/oracle-grammar,Phrase-level Oracle grammar over its owned rules IR
+2026-11-13T06:24:13.812043Z,voltaic-driver,0.1.0,0,0,https://github.com/Industrial/voltaic,Incremental compilation driver for the Voltaic compiler.
+2026-11-13T06:24:51.789531Z,hodograph,0.1.0,0,0,https://github.com/merely-made/eidetic,"An owner-scoped lineage model: the descent of entries through branching visits. Generic Entry / Visit / Owner records with append-only visits, projected edges and serde/rkyv snapshots. Formerly the s…"
+2026-11-13T06:25:06.159137Z,quadstore,0.1.0,0,0,https://github.com/merely-made/eidetic,"A dictionary and six-ordering quad index over dense term ids, generic over the term type, with live and history views and in-place maintenance. No dependencies. Formerly the quads module of the chart…"
+2026-11-13T06:25:17.823274Z,fieldbook,0.1.0,0,0,https://github.com/merely-made/eidetic,"Graph fields as portable data: field identity and extent, a scalar/vector field AST, couplings (how nodes respond to a field) and edge paths. Definitions only; evaluation lives elsewhere. Formerly th…"
+2026-11-13T06:25:33.644603Z,portolan,0.1.0,0,0,https://github.com/merely-made/eidetic,"A generic content-addressed container graph: Graph<N, E> on petgraph with capability traits, default Container/Relation payloads, an event-sourced edit spine over muniment journals, typed node facets…"
+2026-11-13T06:26:44.179614Z,jmap-metadata,0.0.1,0,0,https://github.com/MarkAtwood/crate-jmap,"JMAP Metadata: umbrella crate re-exporting jmap-metadata-types, -client, and -server"
+2026-11-13T06:28:51.388946Z,brz-collections,0.0.1,0,0,https://github.com/we-breeze/collections,Breeze collections with optional cross-language iteration compatibility
+2026-11-13T06:34:41.916116Z,voltaic-cli,0.1.0,0,0,https://github.com/Industrial/voltaic,"The Voltaic compiler: .sdx in, .xrs containing ordinary Rust out."
+2026-11-13T06:35:34.127992Z,qude-core,0.1.0,0,0,https://gitlab.qudeleap.com/GiggleLiu/qude,"Host-agnostic IR, simulation, and scene building for qude-viz"
+2026-11-13T06:35:42.572359Z,qude-viz,0.1.0,0,0,https://gitlab.qudeleap.com/GiggleLiu/qude,Qude schedule rendering and self-contained atom-array viewers
+2026-11-13T06:35:51.688432Z,qudeir-rstim,0.1.0,0,0,https://gitlab.qudeleap.com/GiggleLiu/qude,Portable Clifford execution for QudeIR digital programs
+2026-11-13T06:36:05.270381Z,qude,1.0.0,0,0,https://gitlab.qudeleap.com/GiggleLiu/qude,"QEC experiment circuits, neutral-atom compilation, simulation and evaluation"
+2026-11-13T06:36:48.541665Z,jmap-vtc,0.0.1,0,0,https://github.com/MarkAtwood/crate-jmap,"JMAP VTC (video calls): umbrella crate re-exporting jmap-vtc-types, -client, and -server"
+2026-11-13T06:38:37.873639Z,eska-debug,0.30.0,0,0,https://github.com/1c-tooling/eska,Native DAP and HTTP debugging for 1C Designer XML projects
+2026-11-13T06:43:32.630409Z,slugread,0.1.0,0,0,https://github.com/VinsOrl/_alg/tree/main/homework/slugread,"Tiny zero-dependency text helpers: slugify, truncate, word_count, reading_time."
+2026-11-13T06:46:52.455237Z,jmap-scene,0.0.1,0,0,https://github.com/MarkAtwood/crate-jmap,"JMAP Scene: umbrella crate re-exporting jmap-scene-types, -client, and -server"
+2026-11-13T06:55:50.947977Z,changed-block-tracking-sdk,1.0.0,0,0,https://github.com/titanfyre/Changed-Block-Tracking-SDK,Windows x64 Changed-Block-Tracking-SDK direct native SDK
+2026-11-13T06:55:59.456803Z,cloud-files-sdk,1.0.0,0,0,https://github.com/titanfyre/Cloud-Files-SDK,Windows x64 Cloud-Files-SDK direct native SDK
+2026-11-13T06:56:08.195373Z,hid-access-control,1.0.0,0,0,https://github.com/titanfyre/HID-Access-Control,Windows x64 HID-Access-Control direct native SDK
+2026-11-13T06:56:56.367587Z,jmap-graph,0.0.1,0,0,https://github.com/MarkAtwood/crate-jmap,"JMAP Graph: umbrella crate re-exporting jmap-graph-types, -client, and -server"
+2026-11-13T06:59:51.91513Z,leanfran-runtime,0.6.0,0,0,https://github.com/conao3/lean-leanfran,Runtime of the Rust code generated from Lean by leanfran
+2026-11-13T06:59:59.817916Z,leanfran-build,0.6.0,0,0,https://github.com/conao3/lean-leanfran,"Build script support of leanfran: checks the lean! blocks of a crate with Lean, generates their Rust code, and checks the proofs of the modelled functions against the lockfile"
+2026-11-13T07:00:07.268502Z,leanfran-macros,0.6.0,0,0,https://github.com/conao3/lean-leanfran,"Procedural macros of leanfran: lean!, #[model], #[opaque], #[derive(Model)] and #[exported]"
+2026-11-13T07:00:08.03997Z,swe-diagrams,0.2.0,0,0,https://github.com/Benny-Gil/swe-diagrams,"Fast diagrams of software, written by agents in a compact language"
+2026-11-13T07:00:13.825569Z,leanfran,0.6.0,0,0,https://github.com/conao3/lean-leanfran,Run Lean functions from Rust and verify Rust functions in Lean
+2026-11-13T07:00:21.688871Z,cargo-leanfran,0.6.0,0,0,https://github.com/conao3/lean-leanfran,"cargo leanfran: extract Lean models of Rust functions with Charon and Aeneas, state their obligations and check their proofs"
+2026-11-13T07:02:48.466364Z,usb-over-ip-sdk,1.0.0,0,0,https://github.com/titanfyre/USB-over-IP-SDK,Windows x64 USB-over-IP-SDK direct native SDK
+2026-11-13T07:06:59.255531Z,jmap-did,0.0.1,0,0,https://github.com/MarkAtwood/crate-jmap,JMAP DID: umbrella crate re-exporting jmap-did-types
+2026-11-13T07:08:00.016456Z,sapling-small-set,0.1.0,0,0,https://github.com/facebook/sapling,Compact bitset of small non-negative integers.
+2026-11-13T07:12:28.64819Z,user-backed-virtual-disk-sdk,1.0.0,0,0,https://github.com/titanfyre/User-Backed-Virtual-Disk-SDK,Windows x64 User-Backed-Virtual-Disk-SDK direct native SDK
+2026-11-13T07:15:40.313489Z,bunsen-catalog,0.42.0,0,0,https://github.com/zspacelabs/bunsen,"bunsen's built-in catalog: the layers bunsen imports, as built from their sources"
+2026-11-13T07:17:01.992622Z,jmap-cid,0.0.1,0,0,https://github.com/MarkAtwood/crate-jmap,JMAP CID: umbrella crate re-exporting jmap-cid-types
+2026-11-13T07:19:04.487881Z,axum-ratelimit,0.1.0,0,0,https://github.com/bigyao25/axum-ratelimit,"Exact sliding-window rate limiting for Axum, with atomic memory and Redis backends"

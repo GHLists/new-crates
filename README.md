@@ -8,47 +8,51 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-13 06:18 UTC
+## Latest list — 2026-11-13 07:20 UTC
 
-New crates published between 2026-11-13 05:20 UTC and 2026-11-13 06:18 UTC.
+New crates published between 2026-11-13 06:18 UTC and 2026-11-13 07:20 UTC.
 
-[Full CSV](data/new-crates-2026-11-13T06-18-38-414372Z.csv)
+[Full CSV](data/new-crates-2026-11-13T07-20-43-792158Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-13 05:22:30 | [wolftpm2-sys](https://crates.io/crates/wolftpm2-sys) | 0.3.1 | 0 | Unofficial auto-generated Rust FFI bindings to wolfTPM, for wolftpm2 |
-| 2026-11-13 05:22:38 | [titan-file-filter](https://crates.io/crates/titan-file-filter) | 1.0.0 | 0 | Windows x64 Titan-File-Filter direct native SDK |
-| 2026-11-13 05:28:24 | [cameleer](https://crates.io/crates/cameleer) | 0.6.0 | 0 | Cameleer: Apache Camel's integration model in Rust, and the reliable action lay… |
-| 2026-11-13 05:30:49 | [siafudb-graph-common](https://crates.io/crates/siafudb-graph-common) | 0.1.0 | 0 | Common types, memory allocators, and utilities for Grafeo (SiafuDB fork of Graf… |
-| 2026-11-13 05:31:08 | [siafudb-graph-core](https://crates.io/crates/siafudb-graph-core) | 0.1.0 | 0 | Core graph models, indexes, and execution primitives for Grafeo (SiafuDB fork o… |
-| 2026-11-13 05:31:20 | [siafudb-graph-adapters](https://crates.io/crates/siafudb-graph-adapters) | 0.1.0 | 0 | Storage, query language, and plugin adapters for Grafeo (SiafuDB fork of Grafeo… |
-| 2026-11-13 05:31:27 | [siafudb-graph-storage](https://crates.io/crates/siafudb-graph-storage) | 0.1.0 | 0 | Persistence layer for Grafeo: WAL, container format, section I/O (SiafuDB fork… |
-| 2026-11-13 05:31:55 | [siafudb-graph-engine](https://crates.io/crates/siafudb-graph-engine) | 0.1.0 | 0 | Query engine and database management for Grafeo (SiafuDB fork of GrafeoDB 0.6.2) |
-| 2026-11-13 05:32:28 | [wolftpm2](https://crates.io/crates/wolftpm2) | 0.3.1 | 0 | Unofficial safe Rust bindings to wolfTPM (TPM 2.0); not the official `wolftpm`… |
-| 2026-11-13 05:32:49 | [titan-network-filter](https://crates.io/crates/titan-network-filter) | 1.0.0 | 0 | Windows x64 Titan-Network-Filter direct native SDK |
-| 2026-11-13 05:42:29 | [network-emulation-sdk](https://crates.io/crates/network-emulation-sdk) | 1.0.0 | 0 | Windows x64 Network-Emulation-SDK direct native SDK |
-| 2026-11-13 05:46:24 | [siafudb-graph](https://crates.io/crates/siafudb-graph) | 0.1.0 | 0 | A high-performance, embeddable graph database with a Rust core and no required… |
-| 2026-11-13 05:46:31 | [jmap-refplus](https://crates.io/crates/jmap-refplus) | 0.0.1 | 0 | JMAP result-reference extensions (draft-ietf-jmap-refplus) for Rust: capability… |
-| 2026-11-13 05:47:26 | [kesto](https://crates.io/crates/kesto) | 0.3.3 | 0 | Lightweight backup orchestrator in a container: dumps MariaDB/PostgreSQL and ho… |
-| 2026-11-13 05:52:40 | [packet-capture-sdk](https://crates.io/crates/packet-capture-sdk) | 1.0.0 | 0 | Windows x64 Packet-Capture-SDK direct native SDK |
-| 2026-11-13 05:56:11 | [sori-metrics](https://crates.io/crates/sori-metrics) | 0.1.0 | 0 | Objective audio quality metrics in pure Rust: the 2f model (on an ITU-R BS.1387… |
-| 2026-11-13 05:56:33 | [jmap-mail-sharing](https://crates.io/crates/jmap-mail-sharing) | 0.0.1 | 0 | JMAP mail sharing (draft-ietf-jmap-mail-sharing) for Rust: capability identifie… |
-| 2026-11-13 06:00:22 | [siafudb-core](https://crates.io/crates/siafudb-core) | 0.3.0 | 0 | SiafuDB core: embedded graph database with fragments, bound-parameter queries,… |
-| 2026-11-13 06:02:50 | [usb-trace-sdk](https://crates.io/crates/usb-trace-sdk) | 1.0.0 | 0 | Windows x64 USB-Trace-SDK direct native SDK |
-| 2026-11-13 06:06:37 | [jmap-filenode](https://crates.io/crates/jmap-filenode) | 0.0.1 | 0 | JMAP FileNode: umbrella crate re-exporting jmap-filenode-types, -client, and -s… |
-| 2026-11-13 06:07:14 | [fireplace-crypto](https://crates.io/crates/fireplace-crypto) | 0.1.0 | 0 | Fireplace end-to-end encryption: identities, prekeys, handshake and the hybrid… |
-| 2026-11-13 06:08:40 | [email-reply-extractor](https://crates.io/crates/email-reply-extractor) | 1.2.1 | 0 | Extract the new text from an email reply: strip quoted text, quote headers, sig… |
-| 2026-11-13 06:09:52 | [symbology](https://crates.io/crates/symbology) | 0.2.0 | 0 | QR codes and linear barcodes written from scratch, with no dependencies |
-| 2026-11-13 06:12:15 | [voltaic-diag](https://crates.io/crates/voltaic-diag) | 0.1.0 | 0 | Diagnostics for the Voltaic compiler: codes, spans and rendering. |
-| 2026-11-13 06:12:18 | [voltaic-lexer](https://crates.io/crates/voltaic-lexer) | 0.1.0 | 0 | Off-side-rule lexer for the Voltaic language: spans, trivia and whitespace adja… |
-| 2026-11-13 06:12:20 | [voltaic-ast](https://crates.io/crates/voltaic-ast) | 0.1.0 | 0 | Syntax tree types for the Voltaic language. |
-| 2026-11-13 06:12:22 | [voltaic-emit](https://crates.io/crates/voltaic-emit) | 0.1.0 | 0 | Rust source emitter for the Voltaic compiler: AST in, .xrs out. |
-| 2026-11-13 06:12:25 | [voltaic-fmt](https://crates.io/crates/voltaic-fmt) | 0.1.0 | 0 | The canonical formatter for Voltaic source. |
-| 2026-11-13 06:12:30 | [virtual-network-adapter-sdk](https://crates.io/crates/virtual-network-adapter-sdk) | 1.0.0 | 0 | Windows x64 Virtual-Network-Adapter-SDK direct native SDK |
-| 2026-11-13 06:15:37 | [voltaic-parser](https://crates.io/crates/voltaic-parser) | 0.1.0 | 0 | Hand-written recursive-descent parser for the Voltaic language. |
-| 2026-11-13 06:16:41 | [jmap-sharing](https://crates.io/crates/jmap-sharing) | 0.0.1 | 0 | JMAP Sharing: umbrella crate re-exporting jmap-sharing-types, -client, and -ser… |
-| 2026-11-13 06:17:16 | [niisa](https://crates.io/crates/niisa) | 0.0.1 | 0 | Niisa, an agent-native planning engine (placeholder; first release coming) |
-| 2026-11-13 06:17:46 | [pdf-render-types](https://crates.io/crates/pdf-render-types) | 1.0.0 | 0 | The public types of the PDFluent renderer that every version of it shares: Rast… |
+| 2026-11-13 06:21:27 | [oracle-ir](https://crates.io/crates/oracle-ir) | 0.1.0 | 0 | Portable typed card semantics owned by Oracle Grammar |
+| 2026-11-13 06:22:17 | [oracle-ir-contract](https://crates.io/crates/oracle-ir-contract) | 0.1.0 | 0 | Validation, canonicalization and binding contracts for Oracle IR |
+| 2026-11-13 06:22:41 | [virtual-camera-sdk](https://crates.io/crates/virtual-camera-sdk) | 1.0.0 | 0 | Windows x64 Virtual-Camera-SDK direct native SDK |
+| 2026-11-13 06:23:45 | [oracle-ir-grammar](https://crates.io/crates/oracle-ir-grammar) | 0.1.0 | 0 | Phrase-level Oracle grammar over its owned rules IR |
+| 2026-11-13 06:24:13 | [voltaic-driver](https://crates.io/crates/voltaic-driver) | 0.1.0 | 0 | Incremental compilation driver for the Voltaic compiler. |
+| 2026-11-13 06:24:51 | [hodograph](https://crates.io/crates/hodograph) | 0.1.0 | 0 | An owner-scoped lineage model: the descent of entries through branching visits.… |
+| 2026-11-13 06:25:06 | [quadstore](https://crates.io/crates/quadstore) | 0.1.0 | 0 | A dictionary and six-ordering quad index over dense term ids, generic over the… |
+| 2026-11-13 06:25:17 | [fieldbook](https://crates.io/crates/fieldbook) | 0.1.0 | 0 | Graph fields as portable data: field identity and extent, a scalar/vector field… |
+| 2026-11-13 06:25:33 | [portolan](https://crates.io/crates/portolan) | 0.1.0 | 0 | A generic content-addressed container graph: Graph<N, E> on petgraph with capab… |
+| 2026-11-13 06:26:44 | [jmap-metadata](https://crates.io/crates/jmap-metadata) | 0.0.1 | 0 | JMAP Metadata: umbrella crate re-exporting jmap-metadata-types, -client, and -s… |
+| 2026-11-13 06:28:51 | [brz-collections](https://crates.io/crates/brz-collections) | 0.0.1 | 0 | Breeze collections with optional cross-language iteration compatibility |
+| 2026-11-13 06:34:41 | [voltaic-cli](https://crates.io/crates/voltaic-cli) | 0.1.0 | 0 | The Voltaic compiler: .sdx in, .xrs containing ordinary Rust out. |
+| 2026-11-13 06:35:34 | [qude-core](https://crates.io/crates/qude-core) | 0.1.0 | 0 | Host-agnostic IR, simulation, and scene building for qude-viz |
+| 2026-11-13 06:35:42 | [qude-viz](https://crates.io/crates/qude-viz) | 0.1.0 | 0 | Qude schedule rendering and self-contained atom-array viewers |
+| 2026-11-13 06:35:51 | [qudeir-rstim](https://crates.io/crates/qudeir-rstim) | 0.1.0 | 0 | Portable Clifford execution for QudeIR digital programs |
+| 2026-11-13 06:36:05 | [qude](https://crates.io/crates/qude) | 1.0.0 | 0 | QEC experiment circuits, neutral-atom compilation, simulation and evaluation |
+| 2026-11-13 06:36:48 | [jmap-vtc](https://crates.io/crates/jmap-vtc) | 0.0.1 | 0 | JMAP VTC (video calls): umbrella crate re-exporting jmap-vtc-types, -client, an… |
+| 2026-11-13 06:38:37 | [eska-debug](https://crates.io/crates/eska-debug) | 0.30.0 | 0 | Native DAP and HTTP debugging for 1C Designer XML projects |
+| 2026-11-13 06:43:32 | [slugread](https://crates.io/crates/slugread) | 0.1.0 | 0 | Tiny zero-dependency text helpers: slugify, truncate, word_count, reading_time. |
+| 2026-11-13 06:46:52 | [jmap-scene](https://crates.io/crates/jmap-scene) | 0.0.1 | 0 | JMAP Scene: umbrella crate re-exporting jmap-scene-types, -client, and -server |
+| 2026-11-13 06:55:50 | [changed-block-tracking-sdk](https://crates.io/crates/changed-block-tracking-sdk) | 1.0.0 | 0 | Windows x64 Changed-Block-Tracking-SDK direct native SDK |
+| 2026-11-13 06:55:59 | [cloud-files-sdk](https://crates.io/crates/cloud-files-sdk) | 1.0.0 | 0 | Windows x64 Cloud-Files-SDK direct native SDK |
+| 2026-11-13 06:56:08 | [hid-access-control](https://crates.io/crates/hid-access-control) | 1.0.0 | 0 | Windows x64 HID-Access-Control direct native SDK |
+| 2026-11-13 06:56:56 | [jmap-graph](https://crates.io/crates/jmap-graph) | 0.0.1 | 0 | JMAP Graph: umbrella crate re-exporting jmap-graph-types, -client, and -server |
+| 2026-11-13 06:59:51 | [leanfran-runtime](https://crates.io/crates/leanfran-runtime) | 0.6.0 | 0 | Runtime of the Rust code generated from Lean by leanfran |
+| 2026-11-13 06:59:59 | [leanfran-build](https://crates.io/crates/leanfran-build) | 0.6.0 | 0 | Build script support of leanfran: checks the lean! blocks of a crate with Lean,… |
+| 2026-11-13 07:00:07 | [leanfran-macros](https://crates.io/crates/leanfran-macros) | 0.6.0 | 0 | Procedural macros of leanfran: lean!, #[model], #[opaque], #[derive(Model)] and… |
+| 2026-11-13 07:00:08 | [swe-diagrams](https://crates.io/crates/swe-diagrams) | 0.2.0 | 0 | Fast diagrams of software, written by agents in a compact language |
+| 2026-11-13 07:00:13 | [leanfran](https://crates.io/crates/leanfran) | 0.6.0 | 0 | Run Lean functions from Rust and verify Rust functions in Lean |
+| 2026-11-13 07:00:21 | [cargo-leanfran](https://crates.io/crates/cargo-leanfran) | 0.6.0 | 0 | cargo leanfran: extract Lean models of Rust functions with Charon and Aeneas, s… |
+| 2026-11-13 07:02:48 | [usb-over-ip-sdk](https://crates.io/crates/usb-over-ip-sdk) | 1.0.0 | 0 | Windows x64 USB-over-IP-SDK direct native SDK |
+| 2026-11-13 07:06:59 | [jmap-did](https://crates.io/crates/jmap-did) | 0.0.1 | 0 | JMAP DID: umbrella crate re-exporting jmap-did-types |
+| 2026-11-13 07:08:00 | [sapling-small-set](https://crates.io/crates/sapling-small-set) | 0.1.0 | 0 | Compact bitset of small non-negative integers. |
+| 2026-11-13 07:12:28 | [user-backed-virtual-disk-sdk](https://crates.io/crates/user-backed-virtual-disk-sdk) | 1.0.0 | 0 | Windows x64 User-Backed-Virtual-Disk-SDK direct native SDK |
+| 2026-11-13 07:15:40 | [bunsen-catalog](https://crates.io/crates/bunsen-catalog) | 0.42.0 | 0 | bunsen's built-in catalog: the layers bunsen imports, as built from their sourc… |
+| 2026-11-13 07:17:01 | [jmap-cid](https://crates.io/crates/jmap-cid) | 0.0.1 | 0 | JMAP CID: umbrella crate re-exporting jmap-cid-types |
+| 2026-11-13 07:19:04 | [axum-ratelimit](https://crates.io/crates/axum-ratelimit) | 0.1.0 | 0 | Exact sliding-window rate limiting for Axum, with atomic memory and Redis backe… |
 
 ## Data source
 
