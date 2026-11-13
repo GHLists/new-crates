@@ -1,0 +1,62 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-13T12:19:20.728069Z,elfcode-core,0.1.0,0,0,https://github.com/maartenpeels/elfcode,Domain types and the process protocol shared by the elfcode crates
+2026-11-13T12:19:23.190154Z,cargo-elfcode,0.1.0,0,0,https://github.com/maartenpeels/elfcode,"Fetch, run, test and submit Advent of Code solutions written with elfcode"
+2026-11-13T12:19:23.791644Z,elfcode,0.1.0,0,0,https://github.com/maartenpeels/elfcode,"Write Advent of Code solutions as one small trait impl per day, with example tests generated from TOML"
+2026-11-13T12:19:24.310082Z,elfcode-build,0.1.0,0,0,https://github.com/maartenpeels/elfcode,Build script support for elfcode: finds the day files and generates their registry and example tests
+2026-11-13T12:19:34.963566Z,probe-format,0.1.0,0,0,https://github.com/probnode/probe,"Reader for Probe, a lossless compressed file format for prediction-market order books"
+2026-11-13T12:19:38.807183Z,probe-cli,0.1.0,0,0,https://github.com/probnode/probe,"The probe command: inspect, print, convert (parquet, Arrow) and verify Probe order-book files"
+2026-11-13T12:19:42.730233Z,bq27220-async,0.1.0,0,0,https://github.com/Hahihula/bq27220-async,no_std async driver for the Texas Instruments BQ27220 battery fuel gauge
+2026-11-13T12:19:53.755229Z,fission-physics,0.1.0-alpha.1,0,0,https://github.com/fission-ui/fission,Backend-neutral physics contracts for Fission games and scenes
+2026-11-13T12:19:55.996529Z,fission-physics-rapier2d,0.1.0-alpha.1,0,0,https://github.com/fission-ui/fission,Optional Rapier 2D physics provider for Fission
+2026-11-13T12:19:58.502895Z,fission-physics-rapier3d,0.1.0-alpha.1,0,0,https://github.com/fission-ui/fission,Optional Rapier 3D physics provider for Fission
+2026-11-13T12:20:51.366655Z,checkpoint-template,0.1.0,0,0,https://github.com/d-oit/rust-2026-template,Secure and high-performance checkpointing template for state-intensive applications
+2026-11-13T12:22:20.047951Z,runmat-native-ffi,0.7.1,0,0,https://github.com/runmat-org/runmat,Native shared-library interoperability for RunMat
+2026-11-13T12:26:17.600235Z,spillvec,0.1.0,0,0,https://github.com/jorgeandrecastro/spillvec,"Vec qui déborde sur le disque au-delà d'un seuil (éléments ou octets), sans aucune dépendance, avec checksums d'intégrité."
+2026-11-13T12:28:34.10681Z,stepbook,0.1.0,0,0,https://github.com/KamalF/stepbook,"Run the bash blocks of a Markdown runbook one at a time, in a terminal UI"
+2026-11-13T12:29:18.514751Z,oci-image-composefs,0.1.0,0,0,https://git.gunnar.rs/nordisk/edda,"composefs for container images in pure Rust: a content-addressed object store (per-file dedupe, fs-verity digests), an EROFS metadata image per image with overlay redirect/metacopy, and an overlay mo…"
+2026-11-13T12:32:24.299757Z,runmat-python,0.7.1,0,0,https://github.com/runmat-org/runmat,Native CPython interoperability for RunMat
+2026-11-13T12:36:02.565126Z,discord-rust-abc,0.1.0,0,0,https://github.com/notwinterdust/discord-rust,"Abstract base components, snowflakes, colours, and CDN asset helpers for discord-rust."
+2026-11-13T12:36:19.372394Z,discord-rust-enums,0.1.0,0,0,https://github.com/notwinterdust/discord-rust,"Discord API enumerations, bitflags, intents, permissions, and opcode constants for discord-rust."
+2026-11-13T12:36:36.089226Z,discord-rust-except,0.1.0,0,0,https://github.com/notwinterdust/discord-rust,Granular error hierarchy and exception types for discord-rust.
+2026-11-13T12:36:52.997159Z,discord-rust-log,0.1.0,0,0,https://github.com/notwinterdust/discord-rust,Zero-dependency structured logging framework for discord-rust.
+2026-11-13T12:37:09.708663Z,discord-rust-util,0.1.0,0,0,https://github.com/notwinterdust/discord-rust,"URL encoding, percent-encoding, and string formatting utilities for discord-rust."
+2026-11-13T12:38:25.291699Z,openjp2-ctypes,0.7.0,0,0,https://github.com/Neopallium/openjp2,C-ABI mirror types shared by the openjp2 core and the openjp2-capi crate.
+2026-11-13T12:39:00.790508Z,openjp2-capi,0.7.0,0,0,https://github.com/Neopallium/openjp2,C ABI for the Rust port of Openjpeg.
+2026-11-13T12:41:21.865398Z,probnode,0.1.0,0,0,https://github.com/probnode/probnode-rs,"Official Rust client for the ProbNode API: prediction-market order books, trades and bars as sha256-checked files"
+2026-11-13T12:42:19.322657Z,clai,0.1.0,0,0,https://github.com/smolkov/clai,"AI coding agent for the terminal, with tools behind permission rules"
+2026-11-13T12:42:59.052464Z,openjp2-wasm,0.7.0,0,0,https://github.com/Neopallium/openjp2,WASM bindings for the pure-Rust OpenJPEG port (openjp2).
+2026-11-13T12:43:34.519724Z,pi-clock-core,0.1.0,0,0,,Foundational source contracts for composable clocks
+2026-11-13T12:44:25.749832Z,tauri-plugin-paplico-query-local-fonts,0.0.0,0,0,https://github.com/hanakla/paplico,Placeholder for the Paplico Tauri plugin that lists installed fonts like the browser's window.queryLocalFonts(). Use 0.2.0 or later.
+2026-11-13T12:44:26.057152Z,openjp2-cli,0.7.1,0,0,https://github.com/Neopallium/openjp2,Command-line tools for the pure-Rust OpenJPEG port (openjp2)
+2026-11-13T12:44:33.441735Z,pi-clock-platform,0.1.0,0,0,,Fallible platform monotonic sources for composable clocks
+2026-11-13T12:45:17.987022Z,pi-clock-manual,0.1.0,0,0,,Process-global manually refreshed monotonic clocks
+2026-11-13T12:46:25.890667Z,matrix-kitty,0.1.0,0,0,https://github.com/EriksRemess/matrix-kitty,GLMatrix digital rain rendered in a terminal with Kitty graphics animation
+2026-11-13T12:50:53.619418Z,lenso-composition,0.2.4,0,0,https://github.com/LioRael/lenso-cli,"Pure, bounded capability and instance composition for code extensions"
+2026-11-13T12:51:33.494464Z,bruce-embedded-firmware-record,0.1.0,0,0,https://github.com/bruceskingle/bruce-embedded-firmware-record,"The record a bruce-embedded-std firmware image carries of the board it was built for, which a flasher reads before flashing."
+2026-11-13T12:52:15.339815Z,lenso-codegen,0.2.4,0,0,https://github.com/LioRael/lenso-cli,Pure deterministic generation contracts for Lenso code extensions
+2026-11-13T12:52:41.37022Z,lenso-runtime,0.2.4,0,0,https://github.com/LioRael/lenso-cli,Explicit manifest discovery and restricted Wasm/process adapters for Lenso CLI
+2026-11-13T12:53:02.445778Z,lenso-project,0.1.2,0,0,https://github.com/LioRael/lenso-cli,Optional reviewed file changes for Lenso workflows
+2026-11-13T12:53:15.968968Z,discord-rust-version,0.1.0,0,0,https://github.com/notwinterdust/discord-rust,Discord API version constants and endpoint URL builders for discord-rust.
+2026-11-13T12:53:29.19834Z,infinidysk-fuse,0.10.1,0,0,https://github.com/infinidysk/infinidysk-fuse,Async FUSE user-space library for tokio and async-io. A fork of fuse3 maintained for infinidysk.
+2026-11-13T12:59:25.677143Z,shadewire-unreal,0.4.0,0,0,https://github.com/rdeioris/shadewire,Unreal Engine material graph reader for Shadewire: the shadewire-unreal-graph JSON to the IR
+2026-11-13T13:00:53.279669Z,peabiru-cli,0.1.0,0,0,https://github.com/StrategicProjects/peabiru-routing,"Command-line tool of the peabiru routing engine: travel-time matrices, accessibility, isochrones, itineraries and fares on OpenStreetMap and GTFS, from CSV to CSV and GeoJSON"
+2026-11-13T13:01:30.238559Z,recoverable-move,0.1.1,0,0,https://github.com/mahdoosh1/recoverable-move,Crash-recoverable relocation of an overlapping GPT partition
+2026-11-13T13:02:48.506376Z,cs705,1.0.0,0,0,https://github.com/mi2428/cs705-rs,Native Rust library for reading and editing IC-705 configuration files and handling clone protocols
+2026-11-13T13:03:02.292234Z,sops-lint,0.1.0,0,0,https://github.com/eldpcn/sops-lint,A linter that understands SOPS: catches secrets that escaped encryption and files SOPS wouldn't actually cover.
+2026-11-13T13:04:16.923954Z,discord-rust-voice,0.1.0,0,0,https://github.com/notwinterdust/discord-rust,"Discord voice gateway connection, encryption traits, audio source scaling, and RTP packet handling for discord-rust."
+2026-11-13T13:06:42.645793Z,cozo-ng-rocks,0.2.0,0,0,https://github.com/jorgeandrecastro/cozo-ng,Bindings to RocksDB used by the cozo crate
+2026-11-13T13:06:50.367096Z,headless-mention,0.1.0,0,0,https://github.com/imranbarbhuiya/headless-mention,"Headless mention input logic for any UI toolkit: parse <@id> values into labelled parts, keep mentions intact through edits, and drive @-suggestions"
+2026-11-13T13:07:19.63775Z,brachio,0.0.0,0,0,https://github.com/narumiruna/brachio,A Rex coding agent status TUI
+2026-11-13T13:12:21.770799Z,lenso-app,0.1.0,0,0,https://github.com/LioRael/lenso,Native Rust application primitives for Lenso
+2026-11-13T13:12:46.2474Z,mtg-tl-parser,0.0.1,0,0,https://github.com/ferrogram-app/mtg,Name reserved for the MTProto crates of the Ferrogram project (not released yet).
+2026-11-13T13:13:00.031348Z,mtg-tl-gen,0.0.1,0,0,https://github.com/ferrogram-app/mtg,Name reserved for the MTProto crates of the Ferrogram project (not released yet).
+2026-11-13T13:13:13.989158Z,mtg-tl-types,0.0.1,0,0,https://github.com/ferrogram-app/mtg,Name reserved for the MTProto crates of the Ferrogram project (not released yet).
+2026-11-13T13:13:27.815997Z,mtg-crypto,0.0.1,0,0,https://github.com/ferrogram-app/mtg,Name reserved for the MTProto crates of the Ferrogram project (not released yet).
+2026-11-13T13:14:40.311467Z,mtg-mtproto,0.0.1,0,0,https://github.com/ferrogram-app/mtg,Name reserved for the MTProto crates of the Ferrogram project (not released yet).
+2026-11-13T13:14:52.487473Z,lenso-sqlite,0.1.0,0,0,https://github.com/LioRael/lenso,SQLite durable task and event delivery for Lenso
+2026-11-13T13:17:49.963577Z,fission-compose-macros,0.16.0,0,0,https://github.com/fission-ui/fission,Procedural macros for Fission's declarative Compose authoring API
+2026-11-13T13:17:53.919438Z,fission-compose,0.16.0,0,0,https://github.com/fission-ui/fission,Declarative component composition and typed bindings for Fission applications
+2026-11-13T13:17:55.647834Z,cargo-acyclic,0.1.0,0,0,https://github.com/AlphaJack/cargo-acyclic,Checks that the modules of a Rust workspace have no cycles. It also checks that no function calls up to a parent module and that modules use their layers in order.
+2026-11-13T13:18:05.33668Z,bevy_grimoire_rhai,0.1.0,0,0,https://github.com/bevy-coven/bevy_grimoire,"Rhai scripts on entities, reloaded live: the one Rhai host a bevy_grimoire game runs its scripts on."
+2026-11-13T13:18:08.096433Z,fpeg,0.0.0,0,0,https://github.com/schwimmbeck/fpeg,"A PEG parsing library: grammars loaded at runtime, a bytecode parsing machine and a lossless parse tree. In development, this release holds no code yet"
+2026-11-13T13:18:58.683816Z,bruce-embedded-std-derive,0.1.0,0,0,https://github.com/bruceskingle/bruce-embedded-std,"#[derive(FeatureConfig)] for bruce-embedded-std, which re-exports it"

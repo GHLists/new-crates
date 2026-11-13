@@ -8,52 +8,75 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-13 12:18 UTC
+## Latest list — 2026-11-13 13:19 UTC
 
-New crates published between 2026-11-13 11:19 UTC and 2026-11-13 12:18 UTC.
+New crates published between 2026-11-13 12:18 UTC and 2026-11-13 13:19 UTC.
 
-[Full CSV](data/new-crates-2026-11-13T12-18-38-735737Z.csv)
+[Full CSV](data/new-crates-2026-11-13T13-19-00-391605Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-13 11:22:22 | [runmat-extension-abi](https://crates.io/crates/runmat-extension-abi) | 0.7.1 | 0 | Versioned C ABI for native RunMat extensions |
-| 2026-11-13 11:22:34 | [jetcarp-host](https://crates.io/crates/jetcarp-host) | 0.4.0 | 0 | JETCARP background host: runs live scenes without the app window. |
-| 2026-11-13 11:23:35 | [rsille-typst](https://crates.io/crates/rsille-typst) | 0.1.0 | 0 | Render Typst math into rsille raster canvases |
-| 2026-11-13 11:23:41 | [fiftyone-fodid-core](https://crates.io/crates/fiftyone-fodid-core) | 4.5.19 | 0 | The 51Did element data, property names, metadata and engine trait that any engi… |
-| 2026-11-13 11:25:37 | [manguebyte-ump-io](https://crates.io/crates/manguebyte-ump-io) | 0.2.0 | 0 | The systems' own Universal MIDI Packet output (CoreMIDI event lists, the ALSA s… |
-| 2026-11-13 11:26:10 | [manguebyte-state](https://crates.io/crates/manguebyte-state) | 0.2.0 | 0 | Application state for the Manguebyte Audio Framework: a document tree with undo… |
-| 2026-11-13 11:30:07 | [siderite-cli](https://crates.io/crates/siderite-cli) | 0.1.0 | 0 | The siderite command-line tool |
-| 2026-11-13 11:30:55 | [yolowzstd](https://crates.io/crates/yolowzstd) | 0.1.0 | 0 | Pure-Rust, hardware-adaptive Zstandard (RFC 8878) codec — zero runtime dependen… |
-| 2026-11-13 11:32:17 | [runmat-fea-source](https://crates.io/crates/runmat-fea-source) | 0.7.1 | 0 | Checked FEA source contracts and bounded semantic queries |
-| 2026-11-13 11:32:34 | [jetcarp](https://crates.io/crates/jetcarp) | 0.4.0 | 0 | JETCARP (Jimmie's Euclidean Tilings and Cellular Automata Research Program): ce… |
-| 2026-11-13 11:39:23 | [phoenixflow](https://crates.io/crates/phoenixflow) | 0.4.0 | 0 | Display relationships between phoenix projects. |
-| 2026-11-13 11:40:08 | [nu-runner](https://crates.io/crates/nu-runner) | 0.1.0 | 0 | Use nushell as a command runner |
-| 2026-11-13 11:42:20 | [runmat-workspace-contracts](https://crates.io/crates/runmat-workspace-contracts) | 0.7.1 | 0 | Typed coherent workspace capture and conditional publication contracts |
-| 2026-11-13 11:42:52 | [siderite-sessions](https://crates.io/crates/siderite-sessions) | 0.1.0 | 0 | Cookie sessions, CSRF tokens and session stores for siderite |
-| 2026-11-13 11:43:45 | [string-analyze](https://crates.io/crates/string-analyze) | 0.1.0 | 0 | Find key strings from cluttered text |
-| 2026-11-13 11:45:36 | [rhema-sandbox](https://crates.io/crates/rhema-sandbox) | 0.2.6 | 0 | The sandbox seam: the `Sandbox` contract, the `ShellSandbox` adapter, the wire… |
-| 2026-11-13 11:45:46 | [rhema-sandbox-local](https://crates.io/crates/rhema-sandbox-local) | 0.2.6 | 0 | Local sandbox backend for the rhema `Sandbox` seam: commands as host processes… |
-| 2026-11-13 11:46:01 | [rhema-sandbox-http](https://crates.io/crates/rhema-sandbox-http) | 0.2.6 | 0 | The rhema sandbox wire protocol over HTTPS: the `HttpSandbox` client and the `H… |
-| 2026-11-13 11:46:22 | [rhema-cloud-agent](https://crates.io/crates/rhema-cloud-agent) | 0.2.6 | 0 | The coding-agent harness for cloud frontends: assembly without a filesystem, a… |
-| 2026-11-13 11:52:18 | [runmat-geometry-kernel](https://crates.io/crates/runmat-geometry-kernel) | 0.7.1 | 0 | The kernel-neutral geometry-engine contract for RunMat CAD: canonical operation… |
-| 2026-11-13 11:54:29 | [charta](https://crates.io/crates/charta) | 0.1.0 | 0 | Interactive charts for the full Data Viz Catalogue, rendered to SVG/HTML or nat… |
-| 2026-11-13 11:55:17 | [siderite-testkit](https://crates.io/crates/siderite-testkit) | 0.1.0 | 0 | Testing helpers for siderite applications |
-| 2026-11-13 11:55:42 | [fission-assets](https://crates.io/crates/fission-assets) | 0.1.0-alpha.1 | 0 | Typed asset provenance and licence metadata for Fission build tooling |
-| 2026-11-13 11:55:44 | [fission-scene](https://crates.io/crates/fission-scene) | 0.1.0-alpha.1 | 0 | Renderer-neutral scene identity, assets, math, and diagnostics for Fission |
-| 2026-11-13 11:56:25 | [fission-scene2d](https://crates.io/crates/fission-scene2d) | 0.1.0-alpha.1 | 0 | Retained renderer-neutral 2D scenes for Fission |
-| 2026-11-13 11:56:27 | [fission-scene3d](https://crates.io/crates/fission-scene3d) | 0.1.0-alpha.1 | 0 | Retained renderer-neutral 3D scenes for Fission |
-| 2026-11-13 11:56:29 | [fission-game](https://crates.io/crates/fission-game) | 0.1.0-alpha.1 | 0 | Deterministic runtime primitives shared by Fission 2D and 3D games |
-| 2026-11-13 11:58:04 | [fan2jian](https://crates.io/crates/fan2jian) | 0.1.0 | 0 | Convertisseur ultra-rapide chinois traditionnel (繁体) vers chinois simplifié (简体… |
-| 2026-11-13 12:01:52 | [pipe-adapter-sdk](https://crates.io/crates/pipe-adapter-sdk) | 0.1.0 | 0 | Transport-agnostic traits and message types for status-panel pipe adapters |
-| 2026-11-13 12:02:16 | [pipe-adapter-mail](https://crates.io/crates/pipe-adapter-mail) | 0.1.0 | 0 | IMAP/POP3/SMTP pipe adapter for status-panel, built on pipe-adapter-sdk |
-| 2026-11-13 12:02:21 | [runmat-mex](https://crates.io/crates/runmat-mex) | 0.7.1 | 0 | Native C, C++, Fortran, and GPU MEX adapter for RunMat |
-| 2026-11-13 12:02:51 | [status-panel](https://crates.io/crates/status-panel) | 0.2.2 | 0 | Self-hosted status page with uptime monitoring, incident dashboards and a probe… |
-| 2026-11-13 12:03:36 | [robotech-template](https://crates.io/crates/robotech-template) | 1.17.0 | 0 | RoboTech platform template rendering kernel: {{var}} placeholders, filter chain… |
-| 2026-11-13 12:06:44 | [coyote-lang](https://crates.io/crates/coyote-lang) | 0.1.0 | 0 | bare-metal language for sovereign computation — source to silicon |
-| 2026-11-13 12:07:37 | [openvpn3-indicator-rs](https://crates.io/crates/openvpn3-indicator-rs) | 0.1.0 | 0 | Tray indicator for OpenVPN 3 Linux |
-| 2026-11-13 12:10:13 | [siderite-web](https://crates.io/crates/siderite-web) | 0.1.0 | 0 | Public facade and prelude for the siderite web framework |
-| 2026-11-13 12:12:24 | [runmat-java](https://crates.io/crates/runmat-java) | 0.7.1 | 0 | Java interoperability for RunMat |
-| 2026-11-13 12:14:34 | [symposium-pm-cargo](https://crates.io/crates/symposium-pm-cargo) | 0.1.0 | 0 | The cargo package manager for Symposium: resolves crates from a Cargo workspace… |
+| 2026-11-13 12:19:20 | [elfcode-core](https://crates.io/crates/elfcode-core) | 0.1.0 | 0 | Domain types and the process protocol shared by the elfcode crates |
+| 2026-11-13 12:19:23 | [cargo-elfcode](https://crates.io/crates/cargo-elfcode) | 0.1.0 | 0 | Fetch, run, test and submit Advent of Code solutions written with elfcode |
+| 2026-11-13 12:19:23 | [elfcode](https://crates.io/crates/elfcode) | 0.1.0 | 0 | Write Advent of Code solutions as one small trait impl per day, with example te… |
+| 2026-11-13 12:19:24 | [elfcode-build](https://crates.io/crates/elfcode-build) | 0.1.0 | 0 | Build script support for elfcode: finds the day files and generates their regis… |
+| 2026-11-13 12:19:34 | [probe-format](https://crates.io/crates/probe-format) | 0.1.0 | 0 | Reader for Probe, a lossless compressed file format for prediction-market order… |
+| 2026-11-13 12:19:38 | [probe-cli](https://crates.io/crates/probe-cli) | 0.1.0 | 0 | The probe command: inspect, print, convert (parquet, Arrow) and verify Probe or… |
+| 2026-11-13 12:19:42 | [bq27220-async](https://crates.io/crates/bq27220-async) | 0.1.0 | 0 | no_std async driver for the Texas Instruments BQ27220 battery fuel gauge |
+| 2026-11-13 12:19:53 | [fission-physics](https://crates.io/crates/fission-physics) | 0.1.0-alpha.1 | 0 | Backend-neutral physics contracts for Fission games and scenes |
+| 2026-11-13 12:19:55 | [fission-physics-rapier2d](https://crates.io/crates/fission-physics-rapier2d) | 0.1.0-alpha.1 | 0 | Optional Rapier 2D physics provider for Fission |
+| 2026-11-13 12:19:58 | [fission-physics-rapier3d](https://crates.io/crates/fission-physics-rapier3d) | 0.1.0-alpha.1 | 0 | Optional Rapier 3D physics provider for Fission |
+| 2026-11-13 12:20:51 | [checkpoint-template](https://crates.io/crates/checkpoint-template) | 0.1.0 | 0 | Secure and high-performance checkpointing template for state-intensive applicat… |
+| 2026-11-13 12:22:20 | [runmat-native-ffi](https://crates.io/crates/runmat-native-ffi) | 0.7.1 | 0 | Native shared-library interoperability for RunMat |
+| 2026-11-13 12:26:17 | [spillvec](https://crates.io/crates/spillvec) | 0.1.0 | 0 | Vec qui déborde sur le disque au-delà d'un seuil (éléments ou octets), sans auc… |
+| 2026-11-13 12:28:34 | [stepbook](https://crates.io/crates/stepbook) | 0.1.0 | 0 | Run the bash blocks of a Markdown runbook one at a time, in a terminal UI |
+| 2026-11-13 12:29:18 | [oci-image-composefs](https://crates.io/crates/oci-image-composefs) | 0.1.0 | 0 | composefs for container images in pure Rust: a content-addressed object store (… |
+| 2026-11-13 12:32:24 | [runmat-python](https://crates.io/crates/runmat-python) | 0.7.1 | 0 | Native CPython interoperability for RunMat |
+| 2026-11-13 12:36:02 | [discord-rust-abc](https://crates.io/crates/discord-rust-abc) | 0.1.0 | 0 | Abstract base components, snowflakes, colours, and CDN asset helpers for discor… |
+| 2026-11-13 12:36:19 | [discord-rust-enums](https://crates.io/crates/discord-rust-enums) | 0.1.0 | 0 | Discord API enumerations, bitflags, intents, permissions, and opcode constants… |
+| 2026-11-13 12:36:36 | [discord-rust-except](https://crates.io/crates/discord-rust-except) | 0.1.0 | 0 | Granular error hierarchy and exception types for discord-rust. |
+| 2026-11-13 12:36:52 | [discord-rust-log](https://crates.io/crates/discord-rust-log) | 0.1.0 | 0 | Zero-dependency structured logging framework for discord-rust. |
+| 2026-11-13 12:37:09 | [discord-rust-util](https://crates.io/crates/discord-rust-util) | 0.1.0 | 0 | URL encoding, percent-encoding, and string formatting utilities for discord-rus… |
+| 2026-11-13 12:38:25 | [openjp2-ctypes](https://crates.io/crates/openjp2-ctypes) | 0.7.0 | 0 | C-ABI mirror types shared by the openjp2 core and the openjp2-capi crate. |
+| 2026-11-13 12:39:00 | [openjp2-capi](https://crates.io/crates/openjp2-capi) | 0.7.0 | 0 | C ABI for the Rust port of Openjpeg. |
+| 2026-11-13 12:41:21 | [probnode](https://crates.io/crates/probnode) | 0.1.0 | 0 | Official Rust client for the ProbNode API: prediction-market order books, trade… |
+| 2026-11-13 12:42:19 | [clai](https://crates.io/crates/clai) | 0.1.0 | 0 | AI coding agent for the terminal, with tools behind permission rules |
+| 2026-11-13 12:42:59 | [openjp2-wasm](https://crates.io/crates/openjp2-wasm) | 0.7.0 | 0 | WASM bindings for the pure-Rust OpenJPEG port (openjp2). |
+| 2026-11-13 12:43:34 | [pi-clock-core](https://crates.io/crates/pi-clock-core) | 0.1.0 | 0 | Foundational source contracts for composable clocks |
+| 2026-11-13 12:44:25 | [tauri-plugin-paplico-query-local-fonts](https://crates.io/crates/tauri-plugin-paplico-query-local-fonts) | 0.0.0 | 0 | Placeholder for the Paplico Tauri plugin that lists installed fonts like the br… |
+| 2026-11-13 12:44:26 | [openjp2-cli](https://crates.io/crates/openjp2-cli) | 0.7.1 | 0 | Command-line tools for the pure-Rust OpenJPEG port (openjp2) |
+| 2026-11-13 12:44:33 | [pi-clock-platform](https://crates.io/crates/pi-clock-platform) | 0.1.0 | 0 | Fallible platform monotonic sources for composable clocks |
+| 2026-11-13 12:45:17 | [pi-clock-manual](https://crates.io/crates/pi-clock-manual) | 0.1.0 | 0 | Process-global manually refreshed monotonic clocks |
+| 2026-11-13 12:46:25 | [matrix-kitty](https://crates.io/crates/matrix-kitty) | 0.1.0 | 0 | GLMatrix digital rain rendered in a terminal with Kitty graphics animation |
+| 2026-11-13 12:50:53 | [lenso-composition](https://crates.io/crates/lenso-composition) | 0.2.4 | 0 | Pure, bounded capability and instance composition for code extensions |
+| 2026-11-13 12:51:33 | [bruce-embedded-firmware-record](https://crates.io/crates/bruce-embedded-firmware-record) | 0.1.0 | 0 | The record a bruce-embedded-std firmware image carries of the board it was buil… |
+| 2026-11-13 12:52:15 | [lenso-codegen](https://crates.io/crates/lenso-codegen) | 0.2.4 | 0 | Pure deterministic generation contracts for Lenso code extensions |
+| 2026-11-13 12:52:41 | [lenso-runtime](https://crates.io/crates/lenso-runtime) | 0.2.4 | 0 | Explicit manifest discovery and restricted Wasm/process adapters for Lenso CLI |
+| 2026-11-13 12:53:02 | [lenso-project](https://crates.io/crates/lenso-project) | 0.1.2 | 0 | Optional reviewed file changes for Lenso workflows |
+| 2026-11-13 12:53:15 | [discord-rust-version](https://crates.io/crates/discord-rust-version) | 0.1.0 | 0 | Discord API version constants and endpoint URL builders for discord-rust. |
+| 2026-11-13 12:53:29 | [infinidysk-fuse](https://crates.io/crates/infinidysk-fuse) | 0.10.1 | 0 | Async FUSE user-space library for tokio and async-io. A fork of fuse3 maintaine… |
+| 2026-11-13 12:59:25 | [shadewire-unreal](https://crates.io/crates/shadewire-unreal) | 0.4.0 | 0 | Unreal Engine material graph reader for Shadewire: the shadewire-unreal-graph J… |
+| 2026-11-13 13:00:53 | [peabiru-cli](https://crates.io/crates/peabiru-cli) | 0.1.0 | 0 | Command-line tool of the peabiru routing engine: travel-time matrices, accessib… |
+| 2026-11-13 13:01:30 | [recoverable-move](https://crates.io/crates/recoverable-move) | 0.1.1 | 0 | Crash-recoverable relocation of an overlapping GPT partition |
+| 2026-11-13 13:02:48 | [cs705](https://crates.io/crates/cs705) | 1.0.0 | 0 | Native Rust library for reading and editing IC-705 configuration files and hand… |
+| 2026-11-13 13:03:02 | [sops-lint](https://crates.io/crates/sops-lint) | 0.1.0 | 0 | A linter that understands SOPS: catches secrets that escaped encryption and fil… |
+| 2026-11-13 13:04:16 | [discord-rust-voice](https://crates.io/crates/discord-rust-voice) | 0.1.0 | 0 | Discord voice gateway connection, encryption traits, audio source scaling, and… |
+| 2026-11-13 13:06:42 | [cozo-ng-rocks](https://crates.io/crates/cozo-ng-rocks) | 0.2.0 | 0 | Bindings to RocksDB used by the cozo crate |
+| 2026-11-13 13:06:50 | [headless-mention](https://crates.io/crates/headless-mention) | 0.1.0 | 0 | Headless mention input logic for any UI toolkit: parse <@id> values into labell… |
+| 2026-11-13 13:07:19 | [brachio](https://crates.io/crates/brachio) | 0.0.0 | 0 | A Rex coding agent status TUI |
+| 2026-11-13 13:12:21 | [lenso-app](https://crates.io/crates/lenso-app) | 0.1.0 | 0 | Native Rust application primitives for Lenso |
+| 2026-11-13 13:12:46 | [mtg-tl-parser](https://crates.io/crates/mtg-tl-parser) | 0.0.1 | 0 | Name reserved for the MTProto crates of the Ferrogram project (not released yet… |
+| 2026-11-13 13:13:00 | [mtg-tl-gen](https://crates.io/crates/mtg-tl-gen) | 0.0.1 | 0 | Name reserved for the MTProto crates of the Ferrogram project (not released yet… |
+| 2026-11-13 13:13:13 | [mtg-tl-types](https://crates.io/crates/mtg-tl-types) | 0.0.1 | 0 | Name reserved for the MTProto crates of the Ferrogram project (not released yet… |
+| 2026-11-13 13:13:27 | [mtg-crypto](https://crates.io/crates/mtg-crypto) | 0.0.1 | 0 | Name reserved for the MTProto crates of the Ferrogram project (not released yet… |
+| 2026-11-13 13:14:40 | [mtg-mtproto](https://crates.io/crates/mtg-mtproto) | 0.0.1 | 0 | Name reserved for the MTProto crates of the Ferrogram project (not released yet… |
+| 2026-11-13 13:14:52 | [lenso-sqlite](https://crates.io/crates/lenso-sqlite) | 0.1.0 | 0 | SQLite durable task and event delivery for Lenso |
+| 2026-11-13 13:17:49 | [fission-compose-macros](https://crates.io/crates/fission-compose-macros) | 0.16.0 | 0 | Procedural macros for Fission's declarative Compose authoring API |
+| 2026-11-13 13:17:53 | [fission-compose](https://crates.io/crates/fission-compose) | 0.16.0 | 0 | Declarative component composition and typed bindings for Fission applications |
+| 2026-11-13 13:17:55 | [cargo-acyclic](https://crates.io/crates/cargo-acyclic) | 0.1.0 | 0 | Checks that the modules of a Rust workspace have no cycles. It also checks that… |
+| 2026-11-13 13:18:05 | [bevy_grimoire_rhai](https://crates.io/crates/bevy_grimoire_rhai) | 0.1.0 | 0 | Rhai scripts on entities, reloaded live: the one Rhai host a bevy_grimoire game… |
+| 2026-11-13 13:18:08 | [fpeg](https://crates.io/crates/fpeg) | 0.0.0 | 0 | A PEG parsing library: grammars loaded at runtime, a bytecode parsing machine a… |
+| 2026-11-13 13:18:58 | [bruce-embedded-std-derive](https://crates.io/crates/bruce-embedded-std-derive) | 0.1.0 | 0 | #[derive(FeatureConfig)] for bruce-embedded-std, which re-exports it |
 
 ## Data source
 
