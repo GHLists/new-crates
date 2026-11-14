@@ -1,0 +1,18 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-14T13:24:08.53019Z,mumble-client-protocol,0.1.0,0,0,https://github.com/Mumcord/mumble-client-protocol,"Client side of the Mumble voice chat protocol: TLS control channel, protobuf messages, server state and the encrypted UDP voice transport"
+2026-11-14T13:26:55.369468Z,agentty-gpui-linux,0.1.0,0,0,https://github.com/empty-user77/agentty-gpui,"Zed's gpui_linux crate, as used by agentty-gpui"
+2026-11-14T13:29:45.414612Z,yt-core-proto,1.21.0,0,0,https://github.com/DBinvent/yt-cluster-light.git,"YT Cluster lite: the Rust types of the base, db and link protos, their helper code, and the gRPC client and server stubs"
+2026-11-14T13:29:52.349113Z,lekima-platform,0.3.0,0,0,https://github.com/benmooo/lekima,"Operating-system media integration (MPRIS, Now Playing) for lekima."
+2026-11-14T13:36:05.268735Z,pdf2-render,0.1.0-rc.1,0,0,https://github.com/pdf2-rs/pdf2,"Rasteriser for the pdf2 crate: paths, clips, transforms and (soon) images and text."
+2026-11-14T13:36:08.566397Z,pdf2-wasm,0.1.0-rc.1,0,0,https://github.com/pdf2-rs/pdf2,"WebAssembly bindings for pdf2: open, inspect and render PDF 2.0 pages in the browser."
+2026-11-14T13:37:11.529687Z,agentty-gpui-macos,0.1.0,0,0,https://github.com/empty-user77/agentty-gpui,"Zed's gpui_macos crate, as used by agentty-gpui"
+2026-11-14T13:40:58.320716Z,thingdb-ffi,0.93.1,0,0,https://github.com/sayanmohsin/thingd,C ABI for the standalone ThingDB embedded key-value database.
+2026-11-14T13:41:31.684532Z,tiny-database,1.0.0,0,0,https://github.com/Zodey-hub/tiny-database,A small and simple embedded database
+2026-11-14T13:43:59.245887Z,bannerbobomb-svg,0.1.1,0,0,https://github.com/chyyran/bannerbobomb,SVG renderer and browser viewer for Wii banners
+2026-11-14T13:46:13.342385Z,yt-core,1.21.0,0,0,https://github.com/DBinvent/yt-cluster-light.git,"YT Cluster lite: a YT node for one database, linked to a YT cluster above - inside an application, or beside one PostgreSQL instance (yt-lite)"
+2026-11-14T13:47:47.255505Z,agentty-gpui-windows,0.1.0,0,0,https://github.com/empty-user77/agentty-gpui,"Zed's gpui_windows crate, as used by agentty-gpui"
+2026-11-14T13:47:59.453578Z,hatang,0.1.0,0,0,,"Official Rust SDK for Ha Tang (Hạ Tầng): support CRM and live chat, plans and purchases, the AI assistant's knowledge, email, VietQR payments and webhooks."
+2026-11-14T13:52:54.656998Z,herdr-goal-manager,0.1.1,0,0,https://github.com/nwiizo/herdr-goal-manager,"Durable goals, evidence, and mixed human/command work in Herdr"
+2026-11-14T13:53:21.818354Z,sendclap,0.2.0,0,0,https://github.com/backmeupplz/sendclap-sdk,Official Sendclap client: license activation/validation for apps and the creator REST API
+2026-11-14T13:58:04.677813Z,agentty-gpui-platform,0.1.0,0,0,https://github.com/empty-user77/agentty-gpui,"Zed's gpui_platform crate, as used by agentty-gpui"
+2026-11-14T14:18:08.486938Z,elegant-mermaid,0.1.0,0,0,https://github.com/gosuda/elegant-mermaid,"Render and check Mermaid diagrams as SVG, PNG, or terminal text."
