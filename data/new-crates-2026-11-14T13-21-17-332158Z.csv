@@ -1,0 +1,40 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-14T12:20:13.666326Z,aac-convert,0.3.2,5,5,https://github.com/whepper/ferrite,FLAC to AAC (ADTS or M4A) converter for the native Ferrite Rust AAC encoder
+2026-11-14T12:24:21.294828Z,tessera-rl-simd,0.2.0,15,15,https://github.com/joaquinbejar/tessera-rl,Audited fixed-width lane types and runtime dispatch for Tessera
+2026-11-14T12:24:33.070456Z,tessera-rl-onnx,0.2.0,5,5,https://github.com/joaquinbejar/tessera-rl,Tessera ONNX search evaluator: loading and checks of ONNX Runtime (ADR-0057)
+2026-11-14T12:24:33.871936Z,tessera-rl-rts,0.2.0,7,7,https://github.com/joaquinbejar/tessera-rl,"Tessera's RTS environment (tessera/RTS-v1): world, map generator and turn resolution"
+2026-11-14T12:25:24.535095Z,drawen,0.1.0,6,6,https://github.com/NMogolev/drawen,Public facade for the Drawen UI toolkit
+2026-11-14T12:25:25.136634Z,agentty-gpui-ztracing-macro,0.1.0,14,14,https://github.com/empty-user77/agentty-gpui,"Zed's ztracing_macro crate, as used by agentty-gpui"
+2026-11-14T12:26:23.452893Z,dman-config,0.1.0,14,14,https://github.com/rajput-hemant/dman,"Configuration, paths and secrets handling for dman"
+2026-11-14T12:33:40.904273Z,pdf2-cli,0.1.0-alpha.1,5,5,https://github.com/pdf2-rs/pdf2,Command-line front end for the pdf2 crate: inspect PDF 2.0 files.
+2026-11-14T12:35:34.093374Z,agentty-gpui-ztracing,0.1.0,10,10,https://github.com/empty-user77/agentty-gpui,"Zed's ztracing crate, as used by agentty-gpui"
+2026-11-14T12:35:57.918667Z,noxi-events,0.0.1,9,9,https://github.com/SINGH-RAJVEER/nix-rs,"Structured operation events, per-build output streams and rustc-style terminal rendering for noxi"
+2026-11-14T12:36:40.385536Z,dman-web,0.1.0,10,10,https://github.com/rajput-hemant/dman,"dman's browser UI: server-rendered HTML, htmx and SSE, served by the daemon"
+2026-11-14T12:43:41.447471Z,nokori,0.0.1,5,5,https://github.com/sile/nokori,A markdown-file-based backlog management CLI
+2026-11-14T12:45:43.349744Z,agentty-gpui-sum-tree,0.1.0,9,9,https://github.com/empty-user77/agentty-gpui,"A sum tree data structure, a concurrency-friendly B-tree"
+2026-11-14T12:47:05.166015Z,dman-tui,0.1.0,7,7,https://github.com/rajput-hemant/dman,Terminal user interface (ratatui) for the dman daemon
+2026-11-14T12:53:01.48846Z,cargo-heft,0.1.0,5,5,https://github.com/eltonlaice/cargo-heft,Shows where the bytes of a Cargo target directory go
+2026-11-14T12:56:04.442298Z,agentty-gpui,0.1.0,2,2,https://github.com/empty-user77/agentty-gpui,Zed's GPU-accelerated UI framework
+2026-11-14T12:57:07.191271Z,gb-cli,1.0.0,1,1,https://codefloe.com/grassblock/gb.rs,gb is a cli tool for everyday tasks
+2026-11-14T12:57:30.5349Z,dman-daemon,0.1.0,1,1,https://github.com/rajput-hemant/dman,"The dman daemon: owns engines, queue, state and the API server"
+2026-11-14T12:58:08.189266Z,codync-accounts,0.1.0,1,1,https://github.com/leepokai/Codync,"More than one login per coding agent on a computer: a folder per account, what it shares with the user's setup, and who it signs in"
+2026-11-14T12:59:41.672505Z,oriera-splat,0.13.0,0,0,https://github.com/OriEra-engine/engine,"OriEra L5 Gaussian splatting: EWA projection, deterministic depth order, CPU reference rasterizer"
+2026-11-14T13:01:03.032951Z,oriera-embodied,0.13.0,0,0,https://github.com/OriEra-engine/engine,"OriEra embodied simulation runtime (L9): TableTopEnv, SceneSpec, URDF import, LeRobot export, eval protocols (ADR 0004)"
+2026-11-14T13:02:39.853462Z,qude,0.1.0,0,0,https://gitlab.qudeleap.com/GiggleLiu/qude,"QEC experiment circuits, neutral-atom compilation, simulation and evaluation"
+2026-11-14T13:05:46.582202Z,giong-compat,0.5.0,0,0,https://github.com/giong-run/Giong,"Tokio and futures-io I/O traits for giong's streams, so transport-generic protocol crates run on giong"
+2026-11-14T13:05:58.837175Z,pandroots,0.1.0,0,0,https://github.com/ivan-fr/pandrosion,Complex polynomial roots with exact multiplicities and a posteriori inclusion discs using the Pandrosion simultaneous rectangle
+2026-11-14T13:06:20.759617Z,agentty-gpui-apple,0.1.0,0,0,https://github.com/empty-user77/agentty-gpui,"Zed's gpui_apple crate, as used by agentty-gpui"
+2026-11-14T13:06:54.440059Z,lustro_api,1.0.1,0,0,https://github.com/Ligatum/Lustro_API,"Lustro V1 is a 256-bit deterministic, single-pass diffusion engine with HASH/PRNG/XOF capabilities, providing live state-forking (stream tree branching)"
+2026-11-14T13:07:38.863792Z,kennel-core,0.2.0,0,0,https://github.com/flamestro/kennel,"Core of kennel: run package managers and builds inside hardened containers, on a copy of the project"
+2026-11-14T13:07:50.140932Z,kennel,0.2.0,0,0,https://github.com/flamestro/kennel,"Run npm, cargo, pip, go ... inside a hardened container, on a copy of your project, so a hacked package can't touch your files"
+2026-11-14T13:08:05.467283Z,dman,0.1.0,0,0,https://github.com/rajput-hemant/dman,"Terminal-first download manager built on aria2 (optional yt-dlp for video): CLI, TUI, web UI and daemon"
+2026-11-14T13:08:10.432767Z,kennel-tui,0.2.0,0,0,https://github.com/flamestro/kennel,Terminal UI for kennel: run commands in the sandbox and watch their network and file activity
+2026-11-14T13:09:23.322913Z,cel-emit-runtime,0.6.2,0,0,https://github.com/nodeve-com/cel-emit,"What Rust that cel-emit writes links: CEL's semantics, one module per area, over std values."
+2026-11-14T13:09:38.46039Z,cel-emit,0.6.2,0,0,https://github.com/nodeve-com/cel-emit,"CEL to Rust: checked expressions lowered to a typed tree and emitted as Rust that links cel-emit-runtime, then built by rustc."
+2026-11-14T13:09:45.228342Z,cel-emit-schema-bridge,0.6.2,0,0,https://github.com/nodeve-com/cel-emit,"What cel-emit's computed properties take, built from a JSON Schema through schema-emit."
+2026-11-14T13:09:50.692498Z,kennel-desktop,0.2.0,0,0,https://github.com/flamestro/kennel,Desktop app for kennel: run commands in the sandbox and watch their network and file activity
+2026-11-14T13:11:39.076766Z,etassia,0.1.0,0,0,https://github.com/etassia/etassia-rs,Etassia core: parse and render diagram sources through parsanol grammars
+2026-11-14T13:12:08.715568Z,oriera-wasm,0.13.0,0,0,https://github.com/OriEra-engine/engine,"OriEra embodied sim → wasm-bindgen glue (PLAN-embodied-general M1): one physics, browser front end"
+2026-11-14T13:13:19.323186Z,soundcloud-v2,0.1.0,0,0,https://github.com/KlugesBuch1/soundcloud-protocol,Read-only client for the SoundCloud api-v2 routes in the catalogue
+2026-11-14T13:16:35.459992Z,agentty-gpui-wgpu,0.1.0,0,0,https://github.com/empty-user77/agentty-gpui,"Zed's gpui_wgpu crate, as used by agentty-gpui"
+2026-11-14T13:21:12.241601Z,peek-editor,0.1.0,0,0,https://github.com/lalithaar/peek,"Terminal based text-editor for 'I know roughly what I'm looking for, just take me there' - quickly find, edit, save and move on. 0 modes or tabs to learn."
