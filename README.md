@@ -8,41 +8,32 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-14 01:20 UTC
+## Latest list — 2026-11-14 02:18 UTC
 
-New crates published between 2026-11-14 00:19 UTC and 2026-11-14 01:20 UTC.
+New crates published between 2026-11-14 01:20 UTC and 2026-11-14 02:18 UTC.
 
-[Full CSV](data/new-crates-2026-11-14T01-20-14-776974Z.csv)
+[Full CSV](data/new-crates-2026-11-14T02-18-18-913311Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-14 00:22:22 | [ferriscope-smithay](https://crates.io/crates/ferriscope-smithay) | 0.7.1+a9822e8 | 0 | Fork of smithay with a Vulkan compute renderer, for ferriscope |
-| 2026-11-14 00:24:40 | [fexu-core](https://crates.io/crates/fexu-core) | 0.1.0 | 0 | Shared types for the Fexu framework |
-| 2026-11-14 00:25:36 | [fexu-macros](https://crates.io/crates/fexu-macros) | 0.1.0 | 0 | Derive macros for Fexu models |
-| 2026-11-14 00:25:42 | [fexu-cache](https://crates.io/crates/fexu-cache) | 0.1.0 | 0 | Process-local cache for the Fexu framework |
-| 2026-11-14 00:25:49 | [fexu-static](https://crates.io/crates/fexu-static) | 0.1.0 | 0 | Static file serving for the Fexu framework |
-| 2026-11-14 00:25:57 | [fexu-middleware](https://crates.io/crates/fexu-middleware) | 0.1.0 | 0 | HTTP middleware for the Fexu framework |
-| 2026-11-14 00:27:06 | [ferriscope](https://crates.io/crates/ferriscope) | 0.1.0 | 0 | A Rust port of gamescope: a headless streaming compositor, as a library and a b… |
-| 2026-11-14 00:31:32 | [blite](https://crates.io/crates/blite) | 0.4.0 | 0 | Boring Local Information Telling Engine - tells you things you might want to kn… |
-| 2026-11-14 00:33:51 | [openai-responses-api](https://crates.io/crates/openai-responses-api) | 0.1.0 | 0 | Typed client for the OpenAI Responses API: input and output items, HTTP client,… |
-| 2026-11-14 00:36:12 | [fexu-mail](https://crates.io/crates/fexu-mail) | 0.1.0 | 0 | Mail delivery for the Fexu framework |
-| 2026-11-14 00:40:06 | [harnessmux](https://crates.io/crates/harnessmux) | 0.1.1 | 0 | Run coding-agent CLI sessions (Claude, Codex, Copilot, Gemini, Kilo and more) o… |
-| 2026-11-14 00:45:45 | [fexu-db](https://crates.io/crates/fexu-db) | 0.1.0 | 0 | Database access for the Fexu framework |
-| 2026-11-14 00:53:52 | [unsworn](https://crates.io/crates/unsworn) | 0.0.1 | 0 | An API router with allegiance to no language |
-| 2026-11-14 00:55:04 | [fexu-migrations](https://crates.io/crates/fexu-migrations) | 0.1.0 | 0 | Schema migrations for the Fexu framework |
-| 2026-11-14 00:56:56 | [unsworn-core](https://crates.io/crates/unsworn-core) | 0.0.1 | 0 | API router core for unsworn |
-| 2026-11-14 00:58:24 | [unsworn-proto](https://crates.io/crates/unsworn-proto) | 0.0.1 | 0 | API router proto for unsworn |
-| 2026-11-14 01:02:38 | [gitterrace](https://crates.io/crates/gitterrace) | 0.0.0 | 0 | Reserved for gitterrace, a local, read-only git browser. Install it from https:… |
-| 2026-11-14 01:02:40 | [git-terrace](https://crates.io/crates/git-terrace) | 0.0.0 | 0 | Reserved for gitterrace, a local, read-only git browser. Install it from https:… |
-| 2026-11-14 01:03:20 | [algoscope](https://crates.io/crates/algoscope) | 0.1.0 | 0 | An interactive terminal visualizer for sorting and pathfinding algorithms, with… |
-| 2026-11-14 01:04:32 | [sunns-hearth-store-pg](https://crates.io/crates/sunns-hearth-store-pg) | 0.5.0 | 0 | Postgres implementation of the store traits. |
-| 2026-11-14 01:05:25 | [starfire-protocol](https://crates.io/crates/starfire-protocol) | 0.0.0 | 0 | Clean-room Rust wire layer for the Sunshine/GameStream protocol: pairing crypto… |
-| 2026-11-14 01:07:52 | [tendir](https://crates.io/crates/tendir) | 0.0.0 | 0 | Placeholder reserving the tendir name: The tendir CLI, one static binary, and t… |
-| 2026-11-14 01:07:54 | [tendir-cli](https://crates.io/crates/tendir-cli) | 0.0.0 | 0 | Placeholder reserving the tendir-cli name: CLI for the tendir task manager. No… |
-| 2026-11-14 01:07:57 | [tendir-server](https://crates.io/crates/tendir-server) | 0.0.0 | 0 | Placeholder reserving the tendir-server name: Sync relay server for tendir. No… |
-| 2026-11-14 01:11:09 | [fexu-auth](https://crates.io/crates/fexu-auth) | 0.1.0 | 0 | Sessions and passwords for the Fexu framework |
-| 2026-11-14 01:17:09 | [rustrade-pricing](https://crates.io/crates/rustrade-pricing) | 0.22.0 | 0 | Option pricing models for Rustrade: American and European price, implied volati… |
-| 2026-11-14 01:18:13 | [fexu-storage](https://crates.io/crates/fexu-storage) | 0.1.0 | 0 | File storage for the Fexu framework |
+| 2026-11-14 01:21:35 | [opendal-service-harborhub](https://crates.io/crates/opendal-service-harborhub) | 0.5.0 | 0 | Read-only OpenDAL backend for Harbor Hub result objects |
+| 2026-11-14 01:25:56 | [fexu-jobs](https://crates.io/crates/fexu-jobs) | 0.1.0 | 0 | Background jobs for the Fexu framework |
+| 2026-11-14 01:34:33 | [pqco](https://crates.io/crates/pqco) | 0.0.1 | 0 | Piqued Collab — Assistant-to-assistant coordination for pqdx-governed work. Def… |
+| 2026-11-14 01:35:25 | [fexu-forms](https://crates.io/crates/fexu-forms) | 0.1.0 | 0 | Form types for the Fexu framework |
+| 2026-11-14 01:38:27 | [icudtl](https://crates.io/crates/icudtl) | 0.77.1 | 0 | ICU 77 common data (icudtl.dat) for V8, with current IANA time zone data |
+| 2026-11-14 01:46:05 | [packmem](https://crates.io/crates/packmem) | 0.2.0 | 0 | Packed, operation-aware columns for record collections: filter and aggregate in… |
+| 2026-11-14 01:46:59 | [graven](https://crates.io/crates/graven) | 0.1.0 | 0 | Runtime for the Graven zero-copy binary format: builder, checked and verified r… |
+| 2026-11-14 01:47:00 | [graven-layout](https://crates.io/crates/graven-layout) | 0.1.0 | 0 | Field layout algorithm of the Graven binary format (spec §3.3). |
+| 2026-11-14 01:47:03 | [graven-dynamic](https://crates.io/crates/graven-dynamic) | 0.1.0 | 0 | Schema-driven reader and writer for the Graven binary format (schemas as data,… |
+| 2026-11-14 01:47:05 | [graven-compiler](https://crates.io/crates/graven-compiler) | 0.1.0 | 0 | gravenc: compiler for the .graven schema language, with lockfile and compatibil… |
+| 2026-11-14 01:49:15 | [hybridize-core](https://crates.io/crates/hybridize-core) | 0.0.1 | 0 | Core finding model and policies for hybridize |
+| 2026-11-14 01:49:17 | [hybridize](https://crates.io/crates/hybridize) | 0.0.1 | 0 | Policy-aware post-quantum TLS migration assistant |
+| 2026-11-14 01:51:02 | [nupdf](https://crates.io/crates/nupdf) | 0.1.0 | 0 | A PDF engine for AI agents: read, search, render, edit and redact PDFs, in memo… |
+| 2026-11-14 01:51:23 | [nupdf-cli](https://crates.io/crates/nupdf-cli) | 0.1.0 | 0 | Command-line interface for nupdf, built for agents |
+| 2026-11-14 01:51:43 | [mediax-cli](https://crates.io/crates/mediax-cli) | 0.1.0 | 0 | The mediax command line: probe, transcode and remux media files |
+| 2026-11-14 01:51:45 | [waterkit-automation](https://crates.io/crates/waterkit-automation) | 0.2.0 | 0 | Virtual displays and cursor-free input for desktop automation |
+| 2026-11-14 01:56:33 | [unsworn-sdk](https://crates.io/crates/unsworn-sdk) | 0.0.1 | 0 | Rust SDK for unsworn |
+| 2026-11-14 02:07:15 | [fastlmmrslib](https://crates.io/crates/fastlmmrslib) | 0.1.0 | 0 | Experimental reentrant Rust implementation of Davies' quadratic-form probabilit… |
 
 ## Data source
 

@@ -1,0 +1,19 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-14T01:21:35.50207Z,opendal-service-harborhub,0.5.0,0,0,https://github.com/dentiny/atif-arrow,Read-only OpenDAL backend for Harbor Hub result objects
+2026-11-14T01:25:56.405414Z,fexu-jobs,0.1.0,0,0,https://github.com/Iam-Sanja/fexu-rs,Background jobs for the Fexu framework
+2026-11-14T01:34:33.879779Z,pqco,0.0.1,0,0,https://github.com/pqdc/pqco,"Piqued Collab — Assistant-to-assistant coordination for pqdx-governed work. Defines where assistants talk, who writes state, what may run unattended, and how collaborators exchange scoped context acr…"
+2026-11-14T01:35:25.353291Z,fexu-forms,0.1.0,0,0,https://github.com/Iam-Sanja/fexu-rs,Form types for the Fexu framework
+2026-11-14T01:38:27.128992Z,icudtl,0.77.1,0,0,https://github.com/convex/icudtl,"ICU 77 common data (icudtl.dat) for V8, with current IANA time zone data"
+2026-11-14T01:46:05.872748Z,packmem,0.2.0,0,0,https://github.com/HamedMP/packmem,"Packed, operation-aware columns for record collections: filter and aggregate in memory without decompressing."
+2026-11-14T01:46:59.715714Z,graven,0.1.0,0,0,https://github.com/lpj145/graven,"Runtime for the Graven zero-copy binary format: builder, checked and verified readers, envelope."
+2026-11-14T01:47:00.785904Z,graven-layout,0.1.0,0,0,https://github.com/lpj145/graven,Field layout algorithm of the Graven binary format (spec §3.3).
+2026-11-14T01:47:03.293411Z,graven-dynamic,0.1.0,0,0,https://github.com/lpj145/graven,"Schema-driven reader and writer for the Graven binary format (schemas as data, no generated code)."
+2026-11-14T01:47:05.645811Z,graven-compiler,0.1.0,0,0,https://github.com/lpj145/graven,"gravenc: compiler for the .graven schema language, with lockfile and compatibility checks."
+2026-11-14T01:49:15.199258Z,hybridize-core,0.0.1,0,0,https://github.com/arferreira/hybridize,Core finding model and policies for hybridize
+2026-11-14T01:49:17.068195Z,hybridize,0.0.1,0,0,https://github.com/arferreira/hybridize,Policy-aware post-quantum TLS migration assistant
+2026-11-14T01:51:02.484914Z,nupdf,0.1.0,0,0,https://github.com/raspao-studio/nupdf,"A PDF engine for AI agents: read, search, render, edit and redact PDFs, in memory-safe Rust"
+2026-11-14T01:51:23.259524Z,nupdf-cli,0.1.0,0,0,https://github.com/raspao-studio/nupdf,"Command-line interface for nupdf, built for agents"
+2026-11-14T01:51:43.732522Z,mediax-cli,0.1.0,0,0,https://github.com/water-rs/mediax,"The mediax command line: probe, transcode and remux media files"
+2026-11-14T01:51:45.602604Z,waterkit-automation,0.2.0,0,0,https://github.com/water-rs/waterkit,Virtual displays and cursor-free input for desktop automation
+2026-11-14T01:56:33.646186Z,unsworn-sdk,0.0.1,0,0,https://github.com/j4crev/unsworn,Rust SDK for unsworn
+2026-11-14T02:07:15.565937Z,fastlmmrslib,0.1.0,0,0,https://github.com/fastlmm/fastlmmrslib,Experimental reentrant Rust implementation of Davies' quadratic-form probabilities
