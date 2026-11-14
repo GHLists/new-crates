@@ -8,41 +8,52 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-14 21:18 UTC
+## Latest list — 2026-11-14 22:19 UTC
 
-New crates published between 2026-11-14 20:18 UTC and 2026-11-14 21:18 UTC.
+New crates published between 2026-11-14 21:18 UTC and 2026-11-14 22:19 UTC.
 
-[Full CSV](data/new-crates-2026-11-14T21-18-40-406501Z.csv)
+[Full CSV](data/new-crates-2026-11-14T22-19-11-529855Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-14 20:19:14 | [phasewise](https://crates.io/crates/phasewise) | 0.1.0 | 0 | Run big plans with Claude Code or Codex one phase at a time — verified, checkpo… |
-| 2026-11-14 20:22:48 | [genai-agents](https://crates.io/crates/genai-agents) | 0.0.1 | 0 | Agents for Rust: a tool loop, sessions, guardrails, handoffs and tracing, indep… |
-| 2026-11-14 20:22:52 | [genai-agents-openai](https://crates.io/crates/genai-agents-openai) | 0.0.1 | 0 | The OpenAI provider for genai-agents, on openai-ergonomic |
-| 2026-11-14 20:24:38 | [eisler-kicad](https://crates.io/crates/eisler-kicad) | 0.0.0 | 0 | Reserved for Eisler. |
-| 2026-11-14 20:24:40 | [eisler-altium](https://crates.io/crates/eisler-altium) | 0.0.0 | 0 | Reserved for Eisler. |
-| 2026-11-14 20:31:19 | [sew-str0m-is](https://crates.io/crates/sew-str0m-is) | 0.12.1 | 0 | Fork of str0m (https://github.com/algesten/str0m) with Sew's patches. ICE (Inte… |
-| 2026-11-14 20:31:51 | [sew-str0m](https://crates.io/crates/sew-str0m) | 0.25.1 | 0 | Fork of str0m (https://github.com/algesten/str0m) with Sew's patches. WebRTC li… |
-| 2026-11-14 20:34:23 | [uccharan-data](https://crates.io/crates/uccharan-data) | 0.5.0 | 0 | Word tables of uccharan's languages other than English and Hindi, for builds th… |
-| 2026-11-14 20:38:11 | [phloem-sdk](https://crates.io/crates/phloem-sdk) | 0.1.0-rc.1 | 0 | The official Phloem SDK for Rust |
-| 2026-11-14 20:41:53 | [duet-play](https://crates.io/crates/duet-play) | 0.2.0 | 0 | Play a duet Song: the timed MIDI events it sounds as, and a SoundFont synth tha… |
-| 2026-11-14 20:44:40 | [amr-nb](https://crates.io/crates/amr-nb) | 0.1.0 | 0 | Pure-Rust, bit-exact AMR-NB (3GPP TS 26.073) speech codec: encoder, decoder, DT… |
-| 2026-11-14 20:50:18 | [elementa](https://crates.io/crates/elementa) | 0.1.0 | 0 | Deterministic, correctly rounded elementary functions for no_std Rust. |
-| 2026-11-14 20:54:15 | [ii](https://crates.io/crates/ii) | 0.0.0 | 0 | Zero-overhead Sans-I/O terminal rendering engine for Markdown, LaTeX, Katex, Me… |
-| 2026-11-14 20:57:28 | [oxidized-hyphae](https://crates.io/crates/oxidized-hyphae) | 0.1.0 | 0 | A placeholder for a small FIFO channel-link web service for Myscelium Core. Ins… |
-| 2026-11-14 20:58:31 | [saci-macros](https://crates.io/crates/saci-macros) | 0.1.0 | 0 | Derive and attribute macros for the SACI processor SDK: #[derive(Component)], #… |
-| 2026-11-14 20:58:34 | [saci](https://crates.io/crates/saci) | 0.1.0 | 0 | SACI: a batch processing engine on Apache Arrow. The columnar engine, connector… |
-| 2026-11-14 21:00:19 | [flyball](https://crates.io/crates/flyball) | 0.1.0 | 0 | Keyed rate limiting behind one trait: an exact, memory-bounded in-memory GCRA l… |
-| 2026-11-14 21:00:22 | [toddstack-accounts](https://crates.io/crates/toddstack-accounts) | 0.1.0 | 0 | Client for Todd Griffin's Projects accounts: OIDC sign-in, token checks, signed… |
-| 2026-11-14 21:00:37 | [gram-value](https://crates.io/crates/gram-value) | 0.1.1 | 0 | The data values of the gram notation: kinds, equality, canonical text and known… |
-| 2026-11-14 21:04:41 | [klatch](https://crates.io/crates/klatch) | 0.1.0-alpha.0 | 0 | A substrate for agent rooms: claims, asks, offers, a board and a durable encryp… |
-| 2026-11-14 21:06:52 | [mk-client](https://crates.io/crates/mk-client) | 0.5.11 | 0 | Command-line client for Mikrotik RouterOS API |
-| 2026-11-14 21:06:53 | [mk-mcp](https://crates.io/crates/mk-mcp) | 0.5.11 | 0 | Model Context Protocol (MCP) server for Mikrotik RouterOS |
-| 2026-11-14 21:10:33 | [rustydemon-mpk](https://crates.io/crates/rustydemon-mpk) | 0.7.0 | 0 | Rust library for reading MPK archives (Messiah engine, Diablo Immortal) |
-| 2026-11-14 21:10:57 | [rustydemon-messiah](https://crates.io/crates/rustydemon-messiah) | 0.7.0 | 0 | Rust library for reading Messiah engine assets (Diablo Immortal) |
-| 2026-11-14 21:15:22 | [korg-cli](https://crates.io/crates/korg-cli) | 0.1.0 | 0 | Kirby's music organizer: tidy covers, fetch synced lyrics, encode FLAC to Opus,… |
-| 2026-11-14 21:16:04 | [fencing-lease](https://crates.io/crates/fencing-lease) | 0.1.3 | 0 | Named fencing leases for standalone engines |
-| 2026-11-14 21:18:30 | [pryn](https://crates.io/crates/pryn) | 0.1.0 | 0 | Read-only Linux diagnostics for Wi-Fi, Bluetooth, and audio |
+| 2026-11-14 21:19:53 | [apfmt-core](https://crates.io/crates/apfmt-core) | 0.1.0 | 0 | The formatting library of apfmt, an experimental Rust code formatter |
+| 2026-11-14 21:20:16 | [apfmt](https://crates.io/crates/apfmt) | 0.1.0 | 0 | An experimental Rust code formatter |
+| 2026-11-14 21:21:30 | [crtx-object](https://crates.io/crates/crtx-object) | 0.3.0-rc.1 | 0 | Bounded source-object text extraction with provenance for Cortex. |
+| 2026-11-14 21:25:30 | [adit](https://crates.io/crates/adit) | 0.0.0 | 0 | Placeholder for an in-development IPC library. |
+| 2026-11-14 21:27:24 | [mln-rs-system-fonts](https://crates.io/crates/mln-rs-system-fonts) | 0.0.11 | 0 | Part of mln-rs, a Rust port of the MapLibre Native map rendering core. Depend o… |
+| 2026-11-14 21:27:25 | [mln-rs-web-host](https://crates.io/crates/mln-rs-web-host) | 0.0.11 | 0 | Part of mln-rs, a Rust port of the MapLibre Native map rendering core. Depend o… |
+| 2026-11-14 21:27:53 | [longshore_common](https://crates.io/crates/longshore_common) | 0.0.0 | 0 | Part of longshore, an object storage client for Linux io_uring: the I/O layer:… |
+| 2026-11-14 21:27:55 | [longshore_crc](https://crates.io/crates/longshore_crc) | 0.0.0 | 0 | Part of longshore, an object storage client for Linux io_uring: CRC-64/NVME and… |
+| 2026-11-14 21:27:57 | [longshore_dns](https://crates.io/crates/longshore_dns) | 0.0.0 | 0 | Part of longshore, an object storage client for Linux io_uring: a DNS resolver… |
+| 2026-11-14 21:27:59 | [longshore_tls](https://crates.io/crates/longshore_tls) | 0.0.0 | 0 | Part of longshore, an object storage client for Linux io_uring: TLS 1.3 records… |
+| 2026-11-14 21:28:01 | [longshore_http_client](https://crates.io/crates/longshore_http_client) | 0.0.0 | 0 | Part of longshore, an object storage client for Linux io_uring: an HTTP/1.1 cli… |
+| 2026-11-14 21:31:08 | [origincloud-kms](https://crates.io/crates/origincloud-kms) | 0.26.0 | 0 | The Origin Cloud KMS API: grants: permission for one platform host to use one k… |
+| 2026-11-14 21:36:19 | [tinypod](https://crates.io/crates/tinypod) | 0.0.1 | 0 | TinyPod |
+| 2026-11-14 21:37:44 | [longshore_s3](https://crates.io/crates/longshore_s3) | 0.0.0 | 0 | Part of longshore, an object storage client for Linux io_uring: an object stora… |
+| 2026-11-14 21:40:28 | [cretopass](https://crates.io/crates/cretopass) | 1.1.2 | 0 | Terminal-based secret keeper with vim-style navigation, age-encrypted file stor… |
+| 2026-11-14 21:46:54 | [xw](https://crates.io/crates/xw) | 0.0.0 | 0 | Ultra fast widgets for tmux and status lines |
+| 2026-11-14 21:50:24 | [qontain-firewall](https://crates.io/crates/qontain-firewall) | 0.1.0 | 0 | Keeps qontain agents' iptables rules installed while the agents live |
+| 2026-11-14 21:50:27 | [qontain-oci](https://crates.io/crates/qontain-oci) | 0.1.0 | 0 | OCI image pull and rootfs extraction for qontain |
+| 2026-11-14 21:50:29 | [qontain-sdk](https://crates.io/crates/qontain-sdk) | 0.1.0 | 0 | SDK for agents running under qontain: brokered tools, wires and typed refusals |
+| 2026-11-14 21:50:31 | [qontain-guest](https://crates.io/crates/qontain-guest) | 0.1.0 | 0 | Runs inside a qontain vsock-only microVM: bridges the broker and published port… |
+| 2026-11-14 21:50:33 | [qontain-krun](https://crates.io/crates/qontain-krun) | 0.1.0 | 0 | Safe Rust bindings to libkrun for qontain microVM isolation |
+| 2026-11-14 21:54:33 | [pioc-parser](https://crates.io/crates/pioc-parser) | 0.1.0 | 0 | Legacy and canonical PIOC assembly parser |
+| 2026-11-14 21:55:03 | [pioc-proc](https://crates.io/crates/pioc-proc) | 0.1.0 | 0 | Compile-time PIOC assembler macros |
+| 2026-11-14 21:55:39 | [pioc-vm](https://crates.io/crates/pioc-vm) | 0.1.0 | 0 | Cycle-aware PIOC virtual machine and waveform exporters |
+| 2026-11-14 21:55:55 | [pioc-programs](https://crates.io/crates/pioc-programs) | 0.1.0 | 0 | Embassy-style protocol drivers for the WCH PIOC command transport |
+| 2026-11-14 21:56:04 | [qontain-docker](https://crates.io/crates/qontain-docker) | 0.1.0 | 0 | Docker/OCI container backend for qontain agent isolation |
+| 2026-11-14 21:58:15 | [nu_plugin_render](https://crates.io/crates/nu_plugin_render) | 0.1.0 | 0 | A Nushell plugin that draws tables as pictures in the terminal, with kitty grap… |
+| 2026-11-14 21:58:37 | [claviron-python](https://crates.io/crates/claviron-python) | 0.2.5 | 0 | Python embedded in Claviron: the interpreter, its environment and ASGI applicat… |
+| 2026-11-14 22:03:09 | [mdat](https://crates.io/crates/mdat) | 1.0.0 | 0 | Convert microscopy data to TIFF and inspect metadata |
+| 2026-11-14 22:04:11 | [yewi-highlight](https://crates.io/crates/yewi-highlight) | 0.3.0 | 0 | Small syntax lexers that turn source text into coloured tokens. No UI dependenc… |
+| 2026-11-14 22:04:12 | [yewi-tokens](https://crates.io/crates/yewi-tokens) | 0.3.0 | 0 | The yewi design tokens as Rust constants, for UIs that do not draw with CSS. |
+| 2026-11-14 22:06:12 | [jsonschema-lua](https://crates.io/crates/jsonschema-lua) | 0.1.0 | 0 | a json schema validation lua module using the jsonschema rust crate |
+| 2026-11-14 22:06:13 | [snapsheet](https://crates.io/crates/snapsheet) | 0.1.0 | 0 | Per-app keyboard cheatsheet overlay for the niri Wayland compositor |
+| 2026-11-14 22:09:31 | [qontain-native](https://crates.io/crates/qontain-native) | 0.1.0 | 0 | Native Linux container isolation for qontain (namespaces + cgroups + seccomp).… |
+| 2026-11-14 22:10:34 | [fints-client](https://crates.io/crates/fints-client) | 0.0.0 | 0 | FinTS 3.0 client library. Name reserved; not usable yet. |
+| 2026-11-14 22:11:20 | [spavn](https://crates.io/crates/spavn) | 0.2.17 | 0 | Terminal-native coding agent that ships as one Rust binary: no async runtime, t… |
+| 2026-11-14 22:17:16 | [ctrader-connector](https://crates.io/crates/ctrader-connector) | 0.3.10 | 0 | Client library for the cTrader Open API and the cTrader FIX 4.4 API |
+| 2026-11-14 22:17:49 | [ftt_rs](https://crates.io/crates/ftt_rs) | 0.1.0 | 0 | Fast, zero-copy inference for fastText models in Rust |
 
 ## Data source
 

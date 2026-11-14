@@ -1,0 +1,39 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-14T21:19:53.188412Z,apfmt-core,0.1.0,0,0,https://github.com/spirali/apfmt,"The formatting library of apfmt, an experimental Rust code formatter"
+2026-11-14T21:20:16.342511Z,apfmt,0.1.0,0,0,https://github.com/spirali/apfmt,An experimental Rust code formatter
+2026-11-14T21:21:30.259816Z,crtx-object,0.3.0-rc.1,0,0,https://github.com/0ryant/cortex,Bounded source-object text extraction with provenance for Cortex.
+2026-11-14T21:25:30.509559Z,adit,0.0.0,0,0,,Placeholder for an in-development IPC library.
+2026-11-14T21:27:24.547485Z,mln-rs-system-fonts,0.0.11,0,0,https://github.com/louwers/mln-rs,"Part of mln-rs, a Rust port of the MapLibre Native map rendering core. Depend on mln-rs instead."
+2026-11-14T21:27:25.062966Z,mln-rs-web-host,0.0.11,0,0,https://github.com/louwers/mln-rs,"Part of mln-rs, a Rust port of the MapLibre Native map rendering core. Depend on mln-rs instead."
+2026-11-14T21:27:53.923363Z,longshore_common,0.0.0,0,0,https://github.com/carverauto/longshore,"Part of longshore, an object storage client for Linux io_uring: the I/O layer: one trait, an io_uring backend and a deterministic simulator. Placeholder: the first release is not published yet."
+2026-11-14T21:27:55.925913Z,longshore_crc,0.0.0,0,0,https://github.com/carverauto/longshore,"Part of longshore, an object storage client for Linux io_uring: CRC-64/NVME and CRC-32C for object storage checksums. Placeholder: the first release is not published yet."
+2026-11-14T21:27:57.693143Z,longshore_dns,0.0.0,0,0,https://github.com/carverauto/longshore,"Part of longshore, an object storage client for Linux io_uring: a DNS resolver driven by I/O completions. Placeholder: the first release is not published yet."
+2026-11-14T21:27:59.475293Z,longshore_tls,0.0.0,0,0,https://github.com/carverauto/longshore,"Part of longshore, an object storage client for Linux io_uring: TLS 1.3 records over the longshore I/O layer. Placeholder: the first release is not published yet."
+2026-11-14T21:28:01.39686Z,longshore_http_client,0.0.0,0,0,https://github.com/carverauto/longshore,"Part of longshore, an object storage client for Linux io_uring: an HTTP/1.1 client over the longshore I/O layer. Placeholder: the first release is not published yet."
+2026-11-14T21:31:08.483466Z,origincloud-kms,0.26.0,0,0,https://github.com/origincloudhq/sdk-rust,"The Origin Cloud KMS API: grants: permission for one platform host to use one key for one operation and one encryption context, for at most an hour at a time."
+2026-11-14T21:36:19.322217Z,tinypod,0.0.1,0,0,https://github.com/sumeeth05/tinypod.git,TinyPod
+2026-11-14T21:37:44.893238Z,longshore_s3,0.0.0,0,0,https://github.com/carverauto/longshore,"Part of longshore, an object storage client for Linux io_uring: an object storage client for S3 and stores that speak its protocol. Placeholder: the first release is not published yet."
+2026-11-14T21:40:28.192575Z,cretopass,1.1.2,0,0,https://github.com/Dmitrytuk/cretopass,"Terminal-based secret keeper with vim-style navigation, age-encrypted file storage, and in-memory editing"
+2026-11-14T21:46:54.034976Z,xw,0.0.0,0,0,https://github.com/zx0r/xw,Ultra fast widgets for tmux and status lines
+2026-11-14T21:50:24.508445Z,qontain-firewall,0.1.0,0,0,https://github.com/albyte-ai/qontain,Keeps qontain agents' iptables rules installed while the agents live
+2026-11-14T21:50:27.148914Z,qontain-oci,0.1.0,0,0,https://github.com/albyte-ai/qontain,OCI image pull and rootfs extraction for qontain
+2026-11-14T21:50:29.258102Z,qontain-sdk,0.1.0,0,0,https://github.com/albyte-ai/qontain,"SDK for agents running under qontain: brokered tools, wires and typed refusals"
+2026-11-14T21:50:31.558612Z,qontain-guest,0.1.0,0,0,https://github.com/albyte-ai/qontain,"Runs inside a qontain vsock-only microVM: bridges the broker and published ports over vsock, then runs the agent"
+2026-11-14T21:50:33.321718Z,qontain-krun,0.1.0,0,0,https://github.com/albyte-ai/qontain,Safe Rust bindings to libkrun for qontain microVM isolation
+2026-11-14T21:54:33.525891Z,pioc-parser,0.1.0,0,0,https://github.com/andelf/pioc,Legacy and canonical PIOC assembly parser
+2026-11-14T21:55:03.205983Z,pioc-proc,0.1.0,0,0,https://github.com/andelf/pioc,Compile-time PIOC assembler macros
+2026-11-14T21:55:39.005414Z,pioc-vm,0.1.0,0,0,https://github.com/andelf/pioc,Cycle-aware PIOC virtual machine and waveform exporters
+2026-11-14T21:55:55.096229Z,pioc-programs,0.1.0,0,0,https://github.com/andelf/pioc,Embassy-style protocol drivers for the WCH PIOC command transport
+2026-11-14T21:56:04.074974Z,qontain-docker,0.1.0,0,0,https://github.com/albyte-ai/qontain,Docker/OCI container backend for qontain agent isolation
+2026-11-14T21:58:15.00544Z,nu_plugin_render,0.1.0,0,0,https://github.com/fdncred/nu_plugin_render,"A Nushell plugin that draws tables as pictures in the terminal, with kitty graphics or sixel"
+2026-11-14T21:58:37.372496Z,claviron-python,0.2.5,0,0,https://github.com/claviron/python,"Python embedded in Claviron: the interpreter, its environment and ASGI applications"
+2026-11-14T22:03:09.169566Z,mdat,1.0.0,0,0,https://github.com/keejkrej/mdat-rs,Convert microscopy data to TIFF and inspect metadata
+2026-11-14T22:04:11.708765Z,yewi-highlight,0.3.0,0,0,https://github.com/SierraSoftworks/yewi,Small syntax lexers that turn source text into coloured tokens. No UI dependency.
+2026-11-14T22:04:12.116977Z,yewi-tokens,0.3.0,0,0,https://github.com/SierraSoftworks/yewi,"The yewi design tokens as Rust constants, for UIs that do not draw with CSS."
+2026-11-14T22:06:12.799218Z,jsonschema-lua,0.1.0,0,0,https://github.com/benniekiss/rs-mod-lua,a json schema validation lua module using the jsonschema rust crate
+2026-11-14T22:06:13.937128Z,snapsheet,0.1.0,0,0,https://git.enzolevan.fr/elv.snapsheet,Per-app keyboard cheatsheet overlay for the niri Wayland compositor
+2026-11-14T22:09:31.734545Z,qontain-native,0.1.0,0,0,https://github.com/albyte-ai/qontain,Native Linux container isolation for qontain (namespaces + cgroups + seccomp). Internal to qontain; not a stable API.
+2026-11-14T22:10:34.465923Z,fints-client,0.0.0,0,0,,FinTS 3.0 client library. Name reserved; not usable yet.
+2026-11-14T22:11:20.531428Z,spavn,0.2.17,0,0,https://github.com/tugayoktayokay/spavn-cli,"Terminal-native coding agent that ships as one Rust binary: no async runtime, three direct dependencies"
+2026-11-14T22:17:16.57465Z,ctrader-connector,0.3.10,0,0,https://github.com/andreoss/ctrader-connector-rust,Client library for the cTrader Open API and the cTrader FIX 4.4 API
+2026-11-14T22:17:49.82013Z,ftt_rs,0.1.0,0,0,,"Fast, zero-copy inference for fastText models in Rust"
