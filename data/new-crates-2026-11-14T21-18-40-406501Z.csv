@@ -1,0 +1,28 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-14T20:19:14.315708Z,phasewise,0.1.0,0,0,https://github.com/userfypp/phasewise,"Run big plans with Claude Code or Codex one phase at a time — verified, checkpointed, and reviewable."
+2026-11-14T20:22:48.859337Z,genai-agents,0.0.1,0,0,https://github.com/genai-rs/genai-agents,"Agents for Rust: a tool loop, sessions, guardrails, handoffs and tracing, independent of the model provider"
+2026-11-14T20:22:52.568348Z,genai-agents-openai,0.0.1,0,0,https://github.com/genai-rs/genai-agents,"The OpenAI provider for genai-agents, on openai-ergonomic"
+2026-11-14T20:24:38.681808Z,eisler-kicad,0.0.0,0,0,https://github.com/eisler-ai,Reserved for Eisler.
+2026-11-14T20:24:40.714841Z,eisler-altium,0.0.0,0,0,https://github.com/eisler-ai,Reserved for Eisler.
+2026-11-14T20:31:19.660598Z,sew-str0m-is,0.12.1,0,0,https://github.com/Alakazam-211/str0m,Fork of str0m (https://github.com/algesten/str0m) with Sew's patches. ICE (Interactive Connectivity Establishment) in Sans-IO style
+2026-11-14T20:31:51.410106Z,sew-str0m,0.25.1,0,0,https://github.com/Alakazam-211/str0m,Fork of str0m (https://github.com/algesten/str0m) with Sew's patches. WebRTC library in Sans-IO style
+2026-11-14T20:34:23.782863Z,uccharan-data,0.5.0,0,0,https://github.com/cB-Sigma/uccharan,"Word tables of uccharan's languages other than English and Hindi, for builds that compile them in."
+2026-11-14T20:38:11.293353Z,phloem-sdk,0.1.0-rc.1,0,0,,The official Phloem SDK for Rust
+2026-11-14T20:41:53.129639Z,duet-play,0.2.0,0,0,https://github.com/tasker-systems/making-music,"Play a duet Song: the timed MIDI events it sounds as, and a SoundFont synth that renders them."
+2026-11-14T20:44:40.046154Z,amr-nb,0.1.0,0,0,https://github.com/jj2218/amr-rs,"Pure-Rust, bit-exact AMR-NB (3GPP TS 26.073) speech codec: encoder, decoder, DTX, RFC 4867 packing"
+2026-11-14T20:50:18.627968Z,elementa,0.1.0,0,0,https://github.com/JustinGeoSci/elementa,"Deterministic, correctly rounded elementary functions for no_std Rust."
+2026-11-14T20:54:15.046834Z,ii,0.0.0,0,0,https://github.com/zx0r/ii,"Zero-overhead Sans-I/O terminal rendering engine for Markdown, LaTeX, Katex, Mermaid, and IPYNB via Kitty Graphics SHM"
+2026-11-14T20:57:28.026188Z,oxidized-hyphae,0.1.0,0,0,,"A placeholder for a small FIFO channel-link web service for Myscelium Core. Inspired by the hyphae of mycelium that carry nutrients through a fungus, it will serve as the root of the channels that ca…"
+2026-11-14T20:58:31.969211Z,saci-macros,0.1.0,0,0,https://github.com/nassor/saci,"Derive and attribute macros for the SACI processor SDK: #[derive(Component)], #[transform], #[fold] and #[processor]."
+2026-11-14T20:58:34.180529Z,saci,0.1.0,0,0,https://github.com/nassor/saci,"SACI: a batch processing engine on Apache Arrow. The columnar engine, connectors, byte formats, the wasm processor and native plugin SDKs, and the service host, each behind its own feature."
+2026-11-14T21:00:19.866706Z,flyball,0.1.0,0,0,https://github.com/goddtriffin/toddstack,"Keyed rate limiting behind one trait: an exact, memory-bounded in-memory GCRA limiter with zero dependencies, plus a mock for tests."
+2026-11-14T21:00:22.774068Z,toddstack-accounts,0.1.0,0,0,https://github.com/goddtriffin/toddstack,"Client for Todd Griffin's Projects accounts: OIDC sign-in, token checks, signed webhooks, friends and events."
+2026-11-14T21:00:37.763043Z,gram-value,0.1.1,0,0,https://github.com/gram-data/gram-value,"The data values of the gram notation: kinds, equality, canonical text and known-tag interpretation"
+2026-11-14T21:04:41.836846Z,klatch,0.1.0-alpha.0,0,0,https://github.com/hslee16/klatch,"A substrate for agent rooms: claims, asks, offers, a board and a durable encrypted log, as a command line, a wire protocol and a Rust client"
+2026-11-14T21:06:52.841813Z,mk-client,0.5.11,0,0,https://github.com/Nic0w/mikrotik-api-rs,Command-line client for Mikrotik RouterOS API
+2026-11-14T21:06:53.52184Z,mk-mcp,0.5.11,0,0,https://github.com/Nic0w/mikrotik-api-rs,Model Context Protocol (MCP) server for Mikrotik RouterOS
+2026-11-14T21:10:33.727095Z,rustydemon-mpk,0.7.0,0,0,https://github.com/HoldMyBeer-gg/rustydemon,"Rust library for reading MPK archives (Messiah engine, Diablo Immortal)"
+2026-11-14T21:10:57.577452Z,rustydemon-messiah,0.7.0,0,0,https://github.com/HoldMyBeer-gg/rustydemon,Rust library for reading Messiah engine assets (Diablo Immortal)
+2026-11-14T21:15:22.464553Z,korg-cli,0.1.0,0,0,https://github.com/archhaze24/korg,"Kirby's music organizer: tidy covers, fetch synced lyrics, encode FLAC to Opus, add ReplayGain"
+2026-11-14T21:16:04.736214Z,fencing-lease,0.1.3,0,0,https://github.com/Sannrox/fencing-lease,Named fencing leases for standalone engines
+2026-11-14T21:18:30.537564Z,pryn,0.1.0,0,0,https://github.com/MQSethar/pryn,"Read-only Linux diagnostics for Wi-Fi, Bluetooth, and audio"
