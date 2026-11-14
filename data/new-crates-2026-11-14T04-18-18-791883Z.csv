@@ -1,0 +1,15 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-14T03:22:36.52171Z,cargo-hive-seed,0.1.1,0,0,https://github.com/jayden-dang/cargo-hive,"Reclaim and reuse Rust build artifacts across Git worktrees on macOS: safe GC for target/ dirs, dependency seeding for new worktrees, measured receipts. Built for parallel coding agents."
+2026-11-14T03:23:58.093016Z,resolvconf,0.0.0,0,0,,Temporary reservation for this crate name.
+2026-11-14T03:27:42.700018Z,david-cli,0.1.0,0,0,https://github.com/Rbfinch/david,The `david` command-line orchestrator.
+2026-11-14T03:34:05.782489Z,flazsh-env,0.1.0,0,0,https://github.com/ningsuhen/flazsh,Bounded typed asynchronous direnv export cache
+2026-11-14T03:34:06.225682Z,flazsh-history,0.1.0,0,0,https://github.com/ningsuhen/flazsh,"Durable, replay-safe histdb storage and shared search for flazsh"
+2026-11-14T03:34:06.871024Z,flazsh-prompt,0.1.0,0,0,https://github.com/ningsuhen/flazsh,Existing shell prompt rendering and background git state inside flazsh
+2026-11-14T03:34:07.927087Z,flazsh-service,0.1.0,0,0,https://github.com/ningsuhen/flazsh,Bounded asynchronous daemon history service
+2026-11-14T03:34:09.754918Z,flazsh,0.1.0,0,0,https://github.com/ningsuhen/flazsh,flazsh daemon: one Rust/tokio daemon serving every zsh shell
+2026-11-14T03:41:59.548088Z,nephis-aletheia,0.1.0,0,0,https://github.com/mohitrajdeo/ciel-Aletheia,NEPHIS Aletheia: Ultra-low-latency in-memory fuel-metered verification engine for AI reasoning and RL rollouts
+2026-11-14T03:47:04.688219Z,betterdiscord,0.1.0,0,0,,reserved for after phoenix release
+2026-11-14T03:48:47.805926Z,aomesh,0.2.0,0,0,https://github.com/uvar-apps/aomesh,Per-vertex ambient occlusion baked into 1D texture coordinates and a 256x1 grayscale texture
+2026-11-14T03:53:11.56592Z,appblocklist,1.0.0,0,0,https://github.com/explainableaixai/appblocklist-rust,"Client for the AppBlockList App Lookup API: categorize iOS and Android apps by bundle ID, App Store ID or package name for MDM app blocklists."
+2026-11-14T04:08:00.237321Z,llms-ink,0.1.0,0,0,https://github.com/lukax/llms-ink-rs,"Client for llms.ink: turn any public link (site, docs, GitHub repo, PDF, video) into llms.txt or llms-full.txt."
+2026-11-14T04:13:14.815522Z,square-rulerpack,0.2.0,0,0,https://github.com/oppressionslayer/square-rulerpack-rs-v2,"Lars Rocha's second factoring engine: self-initialising quadratic sieve with double large primes, cache-sized blocks and square lanes, in pure Rust."
