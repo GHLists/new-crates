@@ -8,50 +8,44 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-14 19:19 UTC
+## Latest list — 2026-11-14 20:18 UTC
 
-New crates published between 2026-11-14 18:19 UTC and 2026-11-14 19:19 UTC.
+New crates published between 2026-11-14 19:19 UTC and 2026-11-14 20:18 UTC.
 
-[Full CSV](data/new-crates-2026-11-14T19-19-35-318114Z.csv)
+[Full CSV](data/new-crates-2026-11-14T20-18-39-357221Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-14 18:24:47 | [purge-ecosystems](https://crates.io/crates/purge-ecosystems) | 0.1.0 | 0 | Registry of every supported ecosystem |
-| 2026-11-14 18:24:50 | [purge-session](https://crates.io/crates/purge-session) | 0.1.0 | 0 | Runs purge against the user's configuration and saved state |
-| 2026-11-14 18:25:18 | [drumlin](https://crates.io/crates/drumlin) | 0.1.1 | 0 | Text-to-SVG UML diagrams with hand-drafted quality layout |
-| 2026-11-14 18:33:15 | [tumlare](https://crates.io/crates/tumlare) | 0.0.0 | 0 | Placeholder: Tumlare, an OCI registry for CI. This version only reserves the na… |
-| 2026-11-14 18:36:08 | [purge-daemon](https://crates.io/crates/purge-daemon) | 0.1.0 | 0 | The background loop of purge: scheduling, idle checks and notifications |
-| 2026-11-14 18:39:13 | [atlassian-toolkit](https://crates.io/crates/atlassian-toolkit) | 0.0.1 | 0 | Rust SDK for the Atlassian suite (Jira, Confluence, Bitbucket, Trello, Admin) g… |
-| 2026-11-14 18:39:40 | [atlassian-toolkit-mcp](https://crates.io/crates/atlassian-toolkit-mcp) | 0.0.1 | 0 | Model Context Protocol server exposing the Atlassian suite through atlassian-to… |
-| 2026-11-14 18:40:52 | [atl](https://crates.io/crates/atl) | 0.0.1 | 0 | atl: one CLI and MCP server for Jira, Confluence, Bitbucket, Trello and Atlassi… |
-| 2026-11-14 18:44:36 | [jalalix](https://crates.io/crates/jalalix) | 0.1.1 | 0 | Jalali (Persian / Shamsi) calendar library — pure Rust, no dependencies |
-| 2026-11-14 18:47:11 | [purge-service](https://crates.io/crates/purge-service) | 0.1.0 | 0 | Registers the purge daemon to start at login |
-| 2026-11-14 18:53:11 | [keylease-connectors](https://crates.io/crates/keylease-connectors) | 0.3.0 | 0 | Typed SaaS connector actions executed by KeyLease without revealing credentials |
-| 2026-11-14 18:53:29 | [ignite-macros](https://crates.io/crates/ignite-macros) | 0.3.0 | 0 | Derive macro for Ignite: writes an admin resource from an Orbit model. |
-| 2026-11-14 18:53:44 | [keylease-policy](https://crates.io/crates/keylease-policy) | 0.3.0 | 0 | Deny-by-default policy rules and approvals used by KeyLease |
-| 2026-11-14 18:53:47 | [ignite-core](https://crates.io/crates/ignite-core) | 0.3.0 | 0 | Core types for Ignite, the admin panel for Rocket.rs: resources, fields, forms… |
-| 2026-11-14 18:54:04 | [fireline-contract](https://crates.io/crates/fireline-contract) | 0.2.6 | 0 | KISS-Contract bind-time obligations: parse a Dispatch expression (KISS-CONTRACT… |
-| 2026-11-14 18:54:21 | [ignite-panel](https://crates.io/crates/ignite-panel) | 0.3.0 | 0 | The Ignite admin panel for Rocket.rs, built on Propel views and Orbit. |
-| 2026-11-14 18:55:42 | [lau-bigfun](https://crates.io/crates/lau-bigfun) | 0.3.1 | 0 | Tomb Raider LAU (Legend, Anniversary, Underworld) bigfile archive reader and un… |
-| 2026-11-14 18:58:19 | [purge](https://crates.io/crates/purge) | 0.1.0 | 0 | Reclaims disk space from stale build artifacts (Rust target/ folders), running… |
-| 2026-11-14 18:58:57 | [sharenv](https://crates.io/crates/sharenv) | 0.1.2 | 0 | Sync and share project .env files with a self-hosted sharenv-api |
-| 2026-11-14 18:59:03 | [devwrapped-core](https://crates.io/crates/devwrapped-core) | 0.0.1 | 0 | Collectors, stats model, and awards for devwrapped |
-| 2026-11-14 18:59:14 | [devwrapped-card](https://crates.io/crates/devwrapped-card) | 0.0.1 | 0 | SVG, PNG, and HTML card renderers for devwrapped |
-| 2026-11-14 18:59:23 | [devwrapped](https://crates.io/crates/devwrapped) | 0.0.1 | 0 | A year in review from your local git history, shell history, and AI agent logs |
-| 2026-11-14 19:00:51 | [rightkit-agent-coding-tools](https://crates.io/crates/rightkit-agent-coding-tools) | 0.1.0 | 0 | The coding agent's host tools (files, edit and patch, shell and PTY, git, brows… |
-| 2026-11-14 19:01:39 | [offloader](https://crates.io/crates/offloader) | 0.1.0 | 0 | Offload a file elsewhere and leave an encrypted retrieval record in its place |
-| 2026-11-14 19:01:40 | [sv-lexer](https://crates.io/crates/sv-lexer) | 0.1.0 | 0 | Lossless SystemVerilog lexer (IEEE 1800-2023): every byte of the input is in ex… |
-| 2026-11-14 19:01:40 | [sv-source](https://crates.io/crates/sv-source) | 0.1.0 | 0 | Reads VCS and Xcelium style file lists into one normalized compile plan |
-| 2026-11-14 19:01:41 | [sv-preprocessor](https://crates.io/crates/sv-preprocessor) | 0.1.0 | 0 | SystemVerilog preprocessor on sv-lexer: `define, `ifdef, `include and macro exp… |
-| 2026-11-14 19:01:42 | [sv-syntax](https://crates.io/crates/sv-syntax) | 0.1.0 | 0 | Lossless SystemVerilog syntax tree (CST) over sv-preprocessor |
-| 2026-11-14 19:01:44 | [sv-semantic](https://crates.io/crates/sv-semantic) | 0.1.0 | 0 | IEEE 1800-2023 semantic analysis, constant evaluation, elaboration, and class m… |
-| 2026-11-14 19:07:22 | [sane-sys](https://crates.io/crates/sane-sys) | 0.1.0 | 0 | Raw FFI bindings to libsane, the SANE (Scanner Access Now Easy) scanner API, ge… |
-| 2026-11-14 19:07:27 | [libsane](https://crates.io/crates/libsane) | 0.1.0 | 0 | Scan documents and images from Rust: safe bindings to SANE (Scanner Access Now… |
-| 2026-11-14 19:12:09 | [sv-netlist](https://crates.io/crates/sv-netlist) | 0.1.0 | 0 | Format-neutral, word-level RTL netlist lowering, procedural symbolic execution,… |
-| 2026-11-14 19:15:42 | [lugh](https://crates.io/crates/lugh) | 0.7.0 | 0 | Lugh Core: runtime and CLI for Lugh, a programming language for AI agents with… |
-| 2026-11-14 19:16:22 | [bcmalloc](https://crates.io/crates/bcmalloc) | 0.1.0 | 0 | A scalable global allocator that reserves its memory up front, for long-lived,… |
-| 2026-11-14 19:16:34 | [vertep-wallet](https://crates.io/crates/vertep-wallet) | 0.1.5 | 0 | Agent wallets for Vertep: sealed credentials, consent, pluggable exchange proto… |
-| 2026-11-14 19:19:00 | [spec-stream-core](https://crates.io/crates/spec-stream-core) | 0.1.0 | 0 | Core algorithms, data structures, and verification primitives for speculative d… |
+| 2026-11-14 19:19:35 | [spec-stream-cache](https://crates.io/crates/spec-stream-cache) | 0.1.0 | 0 | Paged KV-cache memory manager with virtual-to-physical block tables, prefix cac… |
+| 2026-11-14 19:20:12 | [spec-stream-engine](https://crates.io/crates/spec-stream-engine) | 0.1.0 | 0 | Speculative decoding async execution engine, pipeline scheduler, and token stre… |
+| 2026-11-14 19:20:45 | [spec-stream](https://crates.io/crates/spec-stream) | 0.1.0 | 0 | High-performance, model-agnostic speculative decoding and paged KV-cache engine… |
+| 2026-11-14 19:22:12 | [svlang](https://crates.io/crates/svlang) | 0.1.1 | 0 | Pure-Rust IEEE 1800-2023 SystemVerilog compiler front end: filelists, lexer, pr… |
+| 2026-11-14 19:22:25 | [tapes-dotfiles](https://crates.io/crates/tapes-dotfiles) | 0.1.9-beta | 0 | Atomic dotfiles switcher for Linux and Ricing. |
+| 2026-11-14 19:23:23 | [lecop-rav1d](https://crates.io/crates/lecop-rav1d) | 1.3.0 | 0 | Fork of rusty_av1d (rav1d, the Rust port of the dav1d AV1 decoder) whose x86_64… |
+| 2026-11-14 19:24:34 | [duet-abc](https://crates.io/crates/duet-abc) | 0.2.0 | 0 | Read and write a subset of ABC 2.1 as duet Songs, refusing the rest by name. |
+| 2026-11-14 19:26:52 | [wolin](https://crates.io/crates/wolin) | 0.0.1 | 0 | Wolin (月印千江) — Reserved namespace for the Sovereign Solid Pod Engine (https://w… |
+| 2026-11-14 19:26:57 | [wolin-core](https://crates.io/crates/wolin-core) | 0.0.1 | 0 | Wolin (月印千江) — Reserved namespace for the Sovereign Solid Pod Engine (https://w… |
+| 2026-11-14 19:27:02 | [wolin-identity](https://crates.io/crates/wolin-identity) | 0.0.1 | 0 | Wolin (月印千江) — Reserved namespace for the Sovereign Solid Pod Engine (https://w… |
+| 2026-11-14 19:27:07 | [wolin-policy](https://crates.io/crates/wolin-policy) | 0.0.1 | 0 | Wolin (月印千江) — Reserved namespace for the Sovereign Solid Pod Engine (https://w… |
+| 2026-11-14 19:27:11 | [wolin-storage](https://crates.io/crates/wolin-storage) | 0.0.1 | 0 | Wolin (月印千江) — Reserved namespace for the Sovereign Solid Pod Engine (https://w… |
+| 2026-11-14 19:29:41 | [wolin-mcp](https://crates.io/crates/wolin-mcp) | 0.0.1 | 0 | Wolin (月印千江) — Reserved namespace for the Sovereign Solid Pod Engine (https://w… |
+| 2026-11-14 19:32:12 | [dialloom-plugin-api](https://crates.io/crates/dialloom-plugin-api) | 0.1.0-rc.1 | 0 | The public contract between Dialloom and its plugins: identifiers, settings sch… |
+| 2026-11-14 19:32:25 | [dialloom-plugin](https://crates.io/crates/dialloom-plugin) | 0.1.0-rc.1 | 0 | The Rust SDK for Dialloom plugins: action types and device adapters that Diallo… |
+| 2026-11-14 19:33:23 | [rat-wgpu](https://crates.io/crates/rat-wgpu) | 1.0.3 | 0 | ratatui backend with wgpu rendering |
+| 2026-11-14 19:33:47 | [cozo-ng-cli](https://crates.io/crates/cozo-ng-cli) | 0.1.0 | 0 | The Cozo-NG command-line tool: query, import/export, vector search and graph al… |
+| 2026-11-14 19:34:16 | [spec-stream-server](https://crates.io/crates/spec-stream-server) | 0.1.0 | 0 | High-performance OpenAI-compatible HTTP inference server with Server-Sent Event… |
+| 2026-11-14 19:36:49 | [vexa-sca](https://crates.io/crates/vexa-sca) | 1.3.6 | 0 | Vexa SCA - Evidence-aware Software Composition Analysis, AST Reachability, SAST… |
+| 2026-11-14 19:39:21 | [wolin-server](https://crates.io/crates/wolin-server) | 0.0.1 | 0 | Wolin (月印千江) — Reserved namespace for the Sovereign Solid Pod Engine (https://w… |
+| 2026-11-14 19:40:02 | [gcloud-observability](https://crates.io/crates/gcloud-observability) | 0.31.0 | 0 | Google Cloud observability for Rust: OpenTelemetry exporters for Cloud Trace th… |
+| 2026-11-14 19:43:40 | [rat-salsa-wgpu](https://crates.io/crates/rat-salsa-wgpu) | 1.0.3 | 0 | ratatui + wgpu + winit event-loop and widgets |
+| 2026-11-14 19:43:58 | [xtalforge-ml](https://crates.io/crates/xtalforge-ml) | 1.14.0 | 0 | ML representations, datasets and inference for xtalforge. |
+| 2026-11-14 19:46:21 | [suritui](https://crates.io/crates/suritui) | 0.1.0 | 0 | A terminal UI for Suricata alerts and rule management on a FreeBSD router (read… |
+| 2026-11-14 19:47:18 | [microvec](https://crates.io/crates/microvec) | 0.0.1 | 0 | statically allocated array backed vec, designed to be efficient at runtime and… |
+| 2026-11-14 20:00:39 | [vertep-kolyada](https://crates.io/crates/vertep-kolyada) | 0.1.6 | 0 | Kolyada: verifiable role-based agent protocols for Vertep, with signed messages… |
+| 2026-11-14 20:04:08 | [genet-sri](https://crates.io/crates/genet-sri) | 0.1.0 | 0 | Subresource Integrity metadata parsing and matching for Genet's fetch and scrip… |
+| 2026-11-14 20:10:28 | [sv-btor2](https://crates.io/crates/sv-btor2) | 0.1.1 | 0 | Btor2 writer for the svlang word-level RTL netlist: SystemVerilog designs as tr… |
+| 2026-11-14 20:16:15 | [rdna](https://crates.io/crates/rdna) | 0.0.1 | 0 | cmatrix but for bioinformaticians |
+| 2026-11-14 20:17:02 | [libmodsecurity3-rs](https://crates.io/crates/libmodsecurity3-rs) | 0.1.1 | 0 | Experimental Rust bindings to libmodsecurity v3 (ModSecurity's C API) |
 
 ## Data source
 
