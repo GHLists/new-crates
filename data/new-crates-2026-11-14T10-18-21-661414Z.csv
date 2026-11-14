@@ -1,0 +1,51 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-14T09:19:06.729337Z,ravenrs-barcode,27.1.28,0,0,https://github.com/alexkads/RavenRS,"Barcodes as plain data for RavenRS: EAN, UPC, Code 128, Code 39, ITF, QR Code and GTIN checks, with nothing about drawing."
+2026-11-14T09:19:33.985249Z,n0-schema-derive,0.1.0,0,0,https://github.com/n0-computer/n0-schema,derive macro for n0-schema
+2026-11-14T09:19:44.958394Z,n0-schema,0.1.0,0,0,https://github.com/n0-computer/n0-schema,simple schema language for rpc calls
+2026-11-14T09:20:08.906782Z,ipsa-chains,0.1.0,0,0,https://github.com/ipsadev/ipsa,"Stellar and Cosmos encoding for IBC v2 services: Soroban values, IBC v2 messages, Tendermint client and consensus states, router packet events"
+2026-11-14T09:23:43.551148Z,cw32r031-bsp,0.1.0,0,0,https://github.com/SunWithCloude/cw32-bsp,Generic minimal BSP for the CW32R031 Cortex-M0+ MCU on embassy-cw32
+2026-11-14T09:27:42.467007Z,planeter-i18n,0.6.0,0,0,https://github.com/prikk-vcs/planeter,"planeter's languages as data: the registry, sign-off records, CLDR plural categories, BCP 47 negotiation, catalog audits, review baselines and language rules. Shared by the server and the command-lin…"
+2026-11-14T09:31:10.110149Z,nvim-rpc-sys,0.12.6,0,0,https://github.com/naughie/nvim-rpc-rs,"Generated Neovim API function signatures, UI events, and type metadata"
+2026-11-14T09:31:17.790201Z,nvim-rpc,0.1.0,0,0,https://github.com/naughie/nvim-rpc-rs,"Typed Neovim RPC calls with caller-selected arguments, results, and I/O"
+2026-11-14T09:31:26.566389Z,nvim-rpc-plugin,0.1.0,0,0,https://github.com/naughie/nvim-rpc-rs,Tokio plugin handlers and a Neovim client with RPC response matching
+2026-11-14T09:32:18.174424Z,lekima-domain,0.1.0,0,0,https://github.com/benmooo/lekima,"Pure domain model, ports and playback state for lekima."
+2026-11-14T09:32:31.235651Z,lekima-config,0.1.0,0,0,https://github.com/benmooo/lekima,"Layered configuration, paths and session storage for lekima."
+2026-11-14T09:32:36.924891Z,lekima-ipc,0.1.0,0,0,https://github.com/benmooo/lekima,Newline-delimited JSON protocol between the lekima daemon and its clients.
+2026-11-14T09:32:41.333239Z,lekima-core,0.1.0,0,0,https://github.com/benmooo/lekima,"Application rules: queue orchestration, playback transitions, provider coordination."
+2026-11-14T09:32:51.942086Z,lekima-ncm,0.1.1,0,0,https://github.com/benmooo/lekima,"NetEase Cloud Music adapter for lekima, built on the ncmapi crate."
+2026-11-14T09:36:33.333124Z,cascivo-tui,0.1.0,0,0,https://github.com/cascivo/cascivo,Cascivo design system for the terminal: utility classes and components on ratatui
+2026-11-14T09:37:10.230004Z,subc-config,0.1.0,0,0,https://github.com/cortexkit/subconscious,"Shared configuration policy, canonical digests and approval records for subc."
+2026-11-14T09:37:39.892337Z,lekima-audio,0.1.0,0,0,https://github.com/benmooo/lekima,"Audio output adapter for lekima, built on rodio."
+2026-11-14T09:42:31.633641Z,shrub-process,0.7.0,0,0,https://github.com/victor-software-house/shrub,"Process launch for shrub and its embedders: one spawn request, the child setup a sandbox needs, and no unsafe code for the caller"
+2026-11-14T09:47:05.210042Z,sveltui-image,0.1.0-alpha.4,0,0,https://github.com/themosthigh/sveltui,"Image components for sveltui: half-block rendering today, terminal graphics protocols as opt-in features"
+2026-11-14T09:47:09.916194Z,lekima-tui,0.1.0,0,0,https://github.com/benmooo/lekima,"ratatui frontend for lekima: keyboard-first, vim flavoured."
+2026-11-14T09:48:57.240212Z,video,0.1.0,0,0,,a general video codec library
+2026-11-14T09:49:34.13812Z,adbr,0.12.0,0,0,https://github.com/coidea-sys/adbr,"Analysis-Ready DataBase (ADB) — the data-readiness layer for time-series AI: quality-aware (timestamp, value, quality) storage, irregular-sampling regularization, and fleet-scale batching that make r…"
+2026-11-14T09:49:56.439494Z,vp-auth-sdk,1.0.0,0,0,https://github.com/veilplane/vp-auth-sdk-rust,Veilplane auth API
+2026-11-14T09:50:10.011468Z,vp-core-sdk,1.0.0,0,0,https://github.com/veilplane/vp-core-sdk-rust,Veilplane core API
+2026-11-14T09:51:00.216591Z,vp-fleet-sdk,1.0.0,0,0,https://github.com/veilplane/vp-fleet-sdk-rust,Veilplane fleet API
+2026-11-14T09:51:28.926876Z,vp-ops-sdk,1.0.0,0,0,https://github.com/veilplane/vp-ops-sdk-rust,Veilplane ops API
+2026-11-14T09:56:04.165473Z,vp-rendezvous-sdk,1.0.0,0,0,https://github.com/veilplane/vp-rendezvous-sdk-rust,Veilplane rendezvous API
+2026-11-14T09:56:26.554166Z,s3-signed-post,0.1.0,0,0,https://github.com/DoctorSulla/s3-signed-post/,A simple library with an ergonomic API for providing direct uploads to S3
+2026-11-14T09:59:00.39717Z,lekima,0.1.1,0,0,https://github.com/benmooo/lekima,The lekima command line interface and player daemon.
+2026-11-14T09:59:32.871908Z,scp-exporter,0.1.0,0,0,https://github.com/ipsadev/ipsa-tooling,Fetches Stellar SCP consensus evidence from history archives
+2026-11-14T09:59:39.908188Z,rmail,0.1.1,0,0,https://github.com/yingkitw/rmail,"A small, fast, self-contained mail server (SMTP + IMAP) written in Rust"
+2026-11-14T09:59:50.375822Z,matryona-machines,0.1.0,0,0,https://github.com/seuros/matryona_machines,"The glue every machines gem shares: pinned classes, exact-class reads, clone-then-keep, Integer and nanosecond converters, deterministic test RNGs"
+2026-11-14T10:01:27.200054Z,scp-verify,0.1.0,0,0,https://github.com/ipsadev/ipsa-tooling,"Independently verify Stellar SCP consensus for a single ledger, step by step"
+2026-11-14T10:04:17.552163Z,paleo,0.1.0,0,0,https://github.com/NMogolev/drawen,"Drawen's pure-Rust media layer built from focused container, audio, and video crates"
+2026-11-14T10:04:20.991001Z,paleo-audio,0.1.0,0,0,https://github.com/NMogolev/drawen,"Audio output, PCM conversion, and playback clock for Paleo"
+2026-11-14T10:04:25.674752Z,paleo-h264,0.1.0,0,0,https://github.com/NMogolev/drawen,Pure-Rust H.264 decoding backend for Paleo
+2026-11-14T10:04:27.709283Z,drawen-core,0.1.0,0,0,https://github.com/NMogolev/drawen,Core data types for the Drawen UI toolkit
+2026-11-14T10:04:27.716194Z,smed-client,0.1.0,0,0,https://github.com/thomschlie/smed,"Client for smed, the SpaceMouse Enterprise driver daemon (JSON-lines API)"
+2026-11-14T10:04:31.132276Z,drawen-workspace,0.1.0,0,0,https://github.com/NMogolev/drawen,Persistent docking and document-workspace model for Drawen
+2026-11-14T10:13:53.362713Z,kuri-link,0.3.3,0,0,https://github.com/kuriyen/kuri-link,"Private RPC between a front end and its back end over iroh: dial keys, not IPs."
+2026-11-14T10:14:39.353687Z,drawen-render,0.1.0,0,0,https://github.com/NMogolev/drawen,Backend-neutral rendering contracts for Drawen
+2026-11-14T10:16:26.430818Z,harpia-core,0.3.0,0,0,https://github.com/reinanbr/harpia,"Shared types, errors and traits for the Harpia LLM toolkit."
+2026-11-14T10:16:28.544045Z,harpia-http,0.3.0,0,0,https://github.com/reinanbr/harpia,"Polite HTTP for LLM and data pipelines: offline by default, per-host rate limits, retries honoring Retry-After, circuit breaker, TTL cache, size caps."
+2026-11-14T10:16:29.655407Z,harpia-pub,0.3.0,0,0,https://github.com/reinanbr/harpia,"Scientific publishing tooling: tolerant LaTeX project loading, text extraction with source maps, and BibTeX parsing with positions."
+2026-11-14T10:16:30.647273Z,harpia-structured,0.3.0,0,0,https://github.com/reinanbr/harpia,"Structured LLM output in pure Rust: JSON extraction and repair, streaming JSON, schema validation, constrained-decoding grammars, tool-call parsing."
+2026-11-14T10:16:31.596333Z,harpia-text,0.3.0,0,0,https://github.com/reinanbr/harpia,"Text primitives for LLM data pipelines: normalization, segmentation with offsets, quality signals, similarity, fuzzy matching, BM25."
+2026-11-14T10:16:34.1577Z,crispr-cas-finder-core,0.1.0,0,0,https://github.com/FullHuman/crispr-cas-finder,Detection of CRISPR arrays and Cas systems in prokaryotic genomes
+2026-11-14T10:16:36.815399Z,crispr-cas-finder-cli,0.1.0,0,0,https://github.com/FullHuman/crispr-cas-finder,Command-line tool that finds CRISPR arrays and Cas systems in prokaryotic genomes
+2026-11-14T10:18:07.783992Z,oxent-sys,0.3.2,0,0,https://github.com/Project-Xent/oxent,"Raw bindings to the Xent native UI toolkit (xent-core, xent-kit, fluxent)"
+2026-11-14T10:18:14.385988Z,chalk-metrics-macros,0.0.4,0,0,https://github.com/chalk-ai/chalk-metrics,Proc macros for chalk-metrics
