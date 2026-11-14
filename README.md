@@ -8,28 +8,32 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-14 04:18 UTC
+## Latest list — 2026-11-14 05:20 UTC
 
-New crates published between 2026-11-14 03:19 UTC and 2026-11-14 04:18 UTC.
+New crates published between 2026-11-14 04:18 UTC and 2026-11-14 05:20 UTC.
 
-[Full CSV](data/new-crates-2026-11-14T04-18-18-791883Z.csv)
+[Full CSV](data/new-crates-2026-11-14T05-20-06-353415Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-14 03:22:36 | [cargo-hive-seed](https://crates.io/crates/cargo-hive-seed) | 0.1.1 | 0 | Reclaim and reuse Rust build artifacts across Git worktrees on macOS: safe GC f… |
-| 2026-11-14 03:23:58 | [resolvconf](https://crates.io/crates/resolvconf) | 0.0.0 | 0 | Temporary reservation for this crate name. |
-| 2026-11-14 03:27:42 | [david-cli](https://crates.io/crates/david-cli) | 0.1.0 | 0 | The `david` command-line orchestrator. |
-| 2026-11-14 03:34:05 | [flazsh-env](https://crates.io/crates/flazsh-env) | 0.1.0 | 0 | Bounded typed asynchronous direnv export cache |
-| 2026-11-14 03:34:06 | [flazsh-history](https://crates.io/crates/flazsh-history) | 0.1.0 | 0 | Durable, replay-safe histdb storage and shared search for flazsh |
-| 2026-11-14 03:34:06 | [flazsh-prompt](https://crates.io/crates/flazsh-prompt) | 0.1.0 | 0 | Existing shell prompt rendering and background git state inside flazsh |
-| 2026-11-14 03:34:07 | [flazsh-service](https://crates.io/crates/flazsh-service) | 0.1.0 | 0 | Bounded asynchronous daemon history service |
-| 2026-11-14 03:34:09 | [flazsh](https://crates.io/crates/flazsh) | 0.1.0 | 0 | flazsh daemon: one Rust/tokio daemon serving every zsh shell |
-| 2026-11-14 03:41:59 | [nephis-aletheia](https://crates.io/crates/nephis-aletheia) | 0.1.0 | 0 | NEPHIS Aletheia: Ultra-low-latency in-memory fuel-metered verification engine f… |
-| 2026-11-14 03:47:04 | [betterdiscord](https://crates.io/crates/betterdiscord) | 0.1.0 | 0 | reserved for after phoenix release |
-| 2026-11-14 03:48:47 | [aomesh](https://crates.io/crates/aomesh) | 0.2.0 | 0 | Per-vertex ambient occlusion baked into 1D texture coordinates and a 256x1 gray… |
-| 2026-11-14 03:53:11 | [appblocklist](https://crates.io/crates/appblocklist) | 1.0.0 | 0 | Client for the AppBlockList App Lookup API: categorize iOS and Android apps by… |
-| 2026-11-14 04:08:00 | [llms-ink](https://crates.io/crates/llms-ink) | 0.1.0 | 0 | Client for llms.ink: turn any public link (site, docs, GitHub repo, PDF, video)… |
-| 2026-11-14 04:13:14 | [square-rulerpack](https://crates.io/crates/square-rulerpack) | 0.2.0 | 0 | Lars Rocha's second factoring engine: self-initialising quadratic sieve with do… |
+| 2026-11-14 04:20:23 | [lotar-lib](https://crates.io/crates/lotar-lib) | 0.15.0 | 0 | The lotar library: tasks, storage, services, CLI handlers and the web server |
+| 2026-11-14 04:20:23 | [lotar-web-assets](https://crates.io/crates/lotar-web-assets) | 0.15.0 | 0 | The LoTaR web UI, embedded for the lotar binary |
+| 2026-11-14 04:20:25 | [lotar](https://crates.io/crates/lotar) | 0.15.0 | 0 | A git-native task management CLI that stores issues as YAML files in your repos… |
+| 2026-11-14 04:21:41 | [kubo-ffi](https://crates.io/crates/kubo-ffi) | 975742.1839.241928 | 0 | Safe Rust bindings to the Kubo C FFI layer |
+| 2026-11-14 04:37:52 | [delta_fabric](https://crates.io/crates/delta_fabric) | 0.7.2 | 0 | Decentralized weight synchronization for distributed ML training with built-in… |
+| 2026-11-14 04:40:54 | [bunny-optics](https://crates.io/crates/bunny-optics) | 0.7.1 | 0 | Deterministic camera, ray-generation, sampling, pixel-value and diffuse shading… |
+| 2026-11-14 04:45:34 | [tianai-captcha](https://crates.io/crates/tianai-captcha) | 0.1.0 | 0 | dromara/tianai-captcha 的 Rust 移植：SLIDER 滑块、ROTATE 旋转、CONCAT 拼接行为验证码的生成与校验 |
+| 2026-11-14 04:49:01 | [tcsxtce](https://crates.io/crates/tcsxtce) | 0.7.0 | 0 | Flight software: the runtime for the packet codecs tcs-xtce generates from OMG… |
+| 2026-11-14 04:50:55 | [pgloom-pgctrl](https://crates.io/crates/pgloom-pgctrl) | 0.1.0 | 0 | Control-connection utilities for PgLoom: lock inspection, snapshot/restore and… |
+| 2026-11-14 04:50:57 | [pgloom-wire](https://crates.io/crates/pgloom-wire) | 0.1.0 | 0 | PostgreSQL v3 wire-protocol codec and turn-gating L7 proxy used by PgLoom |
+| 2026-11-14 04:50:59 | [pgloom-engine](https://crates.io/crates/pgloom-engine) | 0.1.0 | 0 | Deterministic schedule exploration, lock parking and episode coordination for P… |
+| 2026-11-14 04:51:02 | [pgloom-driver](https://crates.io/crates/pgloom-driver) | 0.1.0 | 0 | Scenario configuration (pgloom.yaml) and concurrent workload drivers for PgLoom |
+| 2026-11-14 04:51:03 | [pgloom-report](https://crates.io/crates/pgloom-report) | 0.1.0 | 0 | Execution timelines, Fix Advisor and replay files for PgLoom |
+| 2026-11-14 05:01:33 | [pgloom](https://crates.io/crates/pgloom) | 0.1.0 | 0 | PgLoom: a deterministic interleaving model checker for PostgreSQL-backed servic… |
+| 2026-11-14 05:03:54 | [aomesh-cli](https://crates.io/crates/aomesh-cli) | 0.3.0 | 0 | Per-vertex ambient occlusion baked into 1D texture coordinates and a 256x1 gray… |
+| 2026-11-14 05:17:15 | [pacer-plugin-install-protocol](https://crates.io/crates/pacer-plugin-install-protocol) | 0.2.0 | 0 | Generated planner integration (planner.*, capability.planner.*) wire types for… |
+| 2026-11-14 05:17:20 | [pacer-plugin-hosts-protocol](https://crates.io/crates/pacer-plugin-hosts-protocol) | 0.2.0 | 0 | Generated host-runner and host capability wire types for the pacer plugin proto… |
+| 2026-11-14 05:17:28 | [pacer-plugin-exec-protocol](https://crates.io/crates/pacer-plugin-exec-protocol) | 0.2.0 | 0 | Generated executor and process capability wire types for the pacer plugin proto… |
 
 ## Data source
 
