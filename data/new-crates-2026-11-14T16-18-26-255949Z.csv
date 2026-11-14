@@ -1,0 +1,21 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-14T15:22:26.895397Z,safemca,0.2.0,0,0,https://github.com/hamravichauhan/safeMCA,The sub-millisecond security proxy and airbag for AI agents using the Model Context Protocol (MCP)
+2026-11-14T15:22:34.13458Z,bevy_flui,0.20.1,0,0,https://github.com/DaRAGingLunatic/bevy_flui,"Beautiful, accessible UI components for Bevy, inspired by Radix Themes"
+2026-11-14T15:25:28.692392Z,vzjson,1.0.0,0,0,https://github.com/SadisticNight/vzjson,High-performance pure-Rust JSON library inspired by yyjson 0.13.0 (#![forbid(unsafe_code)])
+2026-11-14T15:34:31.585487Z,genum-macro,0.1.0,0,0,https://github.com/vi-is-ramen/genum,Proc-macro implementation for genum
+2026-11-14T15:35:03.785566Z,genum,0.1.0,0,0,https://github.com/vi-is-ramen/genum,Compile-time verified enum narrowing with zero-cost conversions and niche optimizations
+2026-11-14T15:39:59.212502Z,cachegirl,1.0.1,0,0,https://github.com/bejiihiu/cachegirl,"Centralized management of temporary resources in Rust: files, buffers, caches, and scratch data with namespaces, quotas, leases, cleanup policies, and crash recovery"
+2026-11-14T15:42:56.545278Z,rexsim,0.1.0,0,0,https://github.com/Bethel-nz/rexsim,"A live iOS Simulator inside a Rex terminal pane, drawn with the Kitty graphics protocol"
+2026-11-14T15:49:36.230541Z,swe-md-parser,1.9.13,0,0,https://github.com/sweengineeringlabs/md-parser,Deterministic Markdown slide-deck parser and content-limit validator with zero external dependencies
+2026-11-14T15:51:43.281343Z,karbon-updater,0.1.0,0,0,https://github.com/larevuegeek/karbon-ui,"Self-update for desktop applications: checks a release endpoint, downloads a minisign-signed package, verifies and installs it (Windows, macOS, Linux)"
+2026-11-14T15:57:41.87859Z,latentmesh-memorilla,0.1.0,0,0,https://github.com/ruvnet/LatentMesh,"Native Memorilla inference, cached memory and Qwen3 input embedding delivery"
+2026-11-14T16:03:12.67168Z,unpopped-convert,0.0.0,0,0,https://github.com/EvansLaboratories/Unpopped,Name reserved for Unpopped's source-to-IR conversion frontend; not yet released.
+2026-11-14T16:03:56.055692Z,cherry,0.0.1,0,0,https://github.com/taquangtrung/cherry,"An embeddable modal text editor: the Vim grammar where you navigate, Emacs editing where you type, painted by whatever toolkit hosts it."
+2026-11-14T16:06:19.304154Z,srmgui,0.1.0,0,0,https://github.com/ljporljp/srmgui,"GUI tool to switch Rust Cargo registry mirrors, built with GPUI Kit"
+2026-11-14T16:07:54.034993Z,agi-auth,0.4.0,0,0,https://github.com/Alpha-Global-Inovasi/agi-auth-service,Framework-agnostic authentication core for AGI services: multi-issuer OIDC/JWT verification with JWKS caching and a Firebase preset
+2026-11-14T16:07:56.575532Z,agi-auth-actix,0.4.0,0,0,https://github.com/Alpha-Global-Inovasi/agi-auth-service,Actix-web middleware and extractors for agi-auth
+2026-11-14T16:17:05.801708Z,cargoscope-core,0.1.0,0,0,https://github.com/HarpeLm/CargoScope,Core domain types and analysis orchestration for CargoScope
+2026-11-14T16:17:07.283225Z,cargoscope-advisory,0.1.0,0,0,https://github.com/HarpeLm/CargoScope,RustSec advisory database access and caching for CargoScope
+2026-11-14T16:17:07.849437Z,cargoscope-cargo,0.1.0,0,0,https://github.com/HarpeLm/CargoScope,Cargo manifest and lockfile parsing for CargoScope
+2026-11-14T16:17:08.34631Z,cargoscope-report,0.1.0,0,0,https://github.com/HarpeLm/CargoScope,"Text, JSON and SARIF report rendering for CargoScope"
+2026-11-14T16:17:09.906327Z,cargoscope,0.1.0,0,0,https://github.com/HarpeLm/CargoScope,"Understand every dependency in your Rust project: advisories, unused dependencies, licenses, versions and why each one is there"
