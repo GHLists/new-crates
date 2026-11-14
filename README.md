@@ -8,32 +8,35 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-14 02:18 UTC
+## Latest list — 2026-11-14 03:19 UTC
 
-New crates published between 2026-11-14 01:20 UTC and 2026-11-14 02:18 UTC.
+New crates published between 2026-11-14 02:18 UTC and 2026-11-14 03:19 UTC.
 
-[Full CSV](data/new-crates-2026-11-14T02-18-18-913311Z.csv)
+[Full CSV](data/new-crates-2026-11-14T03-19-24-470797Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-14 01:21:35 | [opendal-service-harborhub](https://crates.io/crates/opendal-service-harborhub) | 0.5.0 | 0 | Read-only OpenDAL backend for Harbor Hub result objects |
-| 2026-11-14 01:25:56 | [fexu-jobs](https://crates.io/crates/fexu-jobs) | 0.1.0 | 0 | Background jobs for the Fexu framework |
-| 2026-11-14 01:34:33 | [pqco](https://crates.io/crates/pqco) | 0.0.1 | 0 | Piqued Collab — Assistant-to-assistant coordination for pqdx-governed work. Def… |
-| 2026-11-14 01:35:25 | [fexu-forms](https://crates.io/crates/fexu-forms) | 0.1.0 | 0 | Form types for the Fexu framework |
-| 2026-11-14 01:38:27 | [icudtl](https://crates.io/crates/icudtl) | 0.77.1 | 0 | ICU 77 common data (icudtl.dat) for V8, with current IANA time zone data |
-| 2026-11-14 01:46:05 | [packmem](https://crates.io/crates/packmem) | 0.2.0 | 0 | Packed, operation-aware columns for record collections: filter and aggregate in… |
-| 2026-11-14 01:46:59 | [graven](https://crates.io/crates/graven) | 0.1.0 | 0 | Runtime for the Graven zero-copy binary format: builder, checked and verified r… |
-| 2026-11-14 01:47:00 | [graven-layout](https://crates.io/crates/graven-layout) | 0.1.0 | 0 | Field layout algorithm of the Graven binary format (spec §3.3). |
-| 2026-11-14 01:47:03 | [graven-dynamic](https://crates.io/crates/graven-dynamic) | 0.1.0 | 0 | Schema-driven reader and writer for the Graven binary format (schemas as data,… |
-| 2026-11-14 01:47:05 | [graven-compiler](https://crates.io/crates/graven-compiler) | 0.1.0 | 0 | gravenc: compiler for the .graven schema language, with lockfile and compatibil… |
-| 2026-11-14 01:49:15 | [hybridize-core](https://crates.io/crates/hybridize-core) | 0.0.1 | 0 | Core finding model and policies for hybridize |
-| 2026-11-14 01:49:17 | [hybridize](https://crates.io/crates/hybridize) | 0.0.1 | 0 | Policy-aware post-quantum TLS migration assistant |
-| 2026-11-14 01:51:02 | [nupdf](https://crates.io/crates/nupdf) | 0.1.0 | 0 | A PDF engine for AI agents: read, search, render, edit and redact PDFs, in memo… |
-| 2026-11-14 01:51:23 | [nupdf-cli](https://crates.io/crates/nupdf-cli) | 0.1.0 | 0 | Command-line interface for nupdf, built for agents |
-| 2026-11-14 01:51:43 | [mediax-cli](https://crates.io/crates/mediax-cli) | 0.1.0 | 0 | The mediax command line: probe, transcode and remux media files |
-| 2026-11-14 01:51:45 | [waterkit-automation](https://crates.io/crates/waterkit-automation) | 0.2.0 | 0 | Virtual displays and cursor-free input for desktop automation |
-| 2026-11-14 01:56:33 | [unsworn-sdk](https://crates.io/crates/unsworn-sdk) | 0.0.1 | 0 | Rust SDK for unsworn |
-| 2026-11-14 02:07:15 | [fastlmmrslib](https://crates.io/crates/fastlmmrslib) | 0.1.0 | 0 | Experimental reentrant Rust implementation of Davies' quadratic-form probabilit… |
+| 2026-11-14 02:23:55 | [cw32f030-pac-um](https://crates.io/crates/cw32f030-pac-um) | 0.1.2 | 0 | Zero-dependency register access crate (PAC) for the CW32F030 Cortex-M0+ MCU, ge… |
+| 2026-11-14 02:24:02 | [cw32l010-pac-um](https://crates.io/crates/cw32l010-pac-um) | 0.1.2 | 0 | Zero-dependency register access crate (PAC) for the CW32L010 Cortex-M0+ MCU, ge… |
+| 2026-11-14 02:24:57 | [cw32l012-pac-um](https://crates.io/crates/cw32l012-pac-um) | 0.3.0 | 0 | Standalone register access crate (PAC) for the CW32L012 Cortex-M0+ MCU (Wuhan X… |
+| 2026-11-14 02:29:01 | [mptui](https://crates.io/crates/mptui) | 0.1.3 | 0 | mptui: Micropub Publisher Terminal User Interface \| Publish text-only blog post… |
+| 2026-11-14 02:37:28 | [thai-syllable-rules](https://crates.io/crates/thai-syllable-rules) | 0.1.1 | 0 | Rule-based Thai syllable candidates with explicit uncertainty |
+| 2026-11-14 02:37:33 | [thai-syllable-segmenter](https://crates.io/crates/thai-syllable-segmenter) | 0.1.1 | 0 | Thai syllable separation using the distilled rules-aware model |
+| 2026-11-14 02:37:38 | [thai-word-segmenter](https://crates.io/crates/thai-word-segmenter) | 0.1.1 | 0 | Source-preserving Thai word segmentation bundled with trained contextual model |
+| 2026-11-14 02:37:43 | [thai-line-segmenter](https://crates.io/crates/thai-line-segmenter) | 0.1.1 | 0 | Thai line segmenter with script-aware punctuation attachment and zero-width joi… |
+| 2026-11-14 02:52:44 | [halil](https://crates.io/crates/halil) | 0.1.0 | 0 | A small task manager for the terminal |
+| 2026-11-14 03:06:17 | [cargo-hive-platform](https://crates.io/crates/cargo-hive-platform) | 0.1.1 | 0 | Reclaim and reuse Rust build artifacts across Git worktrees on macOS: safe GC f… |
+| 2026-11-14 03:06:21 | [cargo-hive-core](https://crates.io/crates/cargo-hive-core) | 0.1.1 | 0 | Reclaim and reuse Rust build artifacts across Git worktrees on macOS: safe GC f… |
+| 2026-11-14 03:06:22 | [cargo-hive-state](https://crates.io/crates/cargo-hive-state) | 0.1.1 | 0 | Reclaim and reuse Rust build artifacts across Git worktrees on macOS: safe GC f… |
+| 2026-11-14 03:06:24 | [cargo-hive-cargo](https://crates.io/crates/cargo-hive-cargo) | 0.1.1 | 0 | Reclaim and reuse Rust build artifacts across Git worktrees on macOS: safe GC f… |
+| 2026-11-14 03:06:27 | [cargo-hive-doctor](https://crates.io/crates/cargo-hive-doctor) | 0.1.1 | 0 | Reclaim and reuse Rust build artifacts across Git worktrees on macOS: safe GC f… |
+| 2026-11-14 03:12:35 | [cargo-hive-gc](https://crates.io/crates/cargo-hive-gc) | 0.1.1 | 0 | Reclaim and reuse Rust build artifacts across Git worktrees on macOS: safe GC f… |
+| 2026-11-14 03:16:20 | [david-spec](https://crates.io/crates/david-spec) | 0.1.0 | 0 | Strongly typed AST, semantic validator and Python-oracle assembler for David *.… |
+| 2026-11-14 03:16:23 | [david-env](https://crates.io/crates/david-env) | 0.1.0 | 0 | Environment & toolchain preflight (macOS host + linux/arm64 Debian container) f… |
+| 2026-11-14 03:16:24 | [david-gen](https://crates.io/crates/david-gen) | 0.1.0 | 0 | Deterministic Rust test, harness and differential-bridge synthesis for David sp… |
+| 2026-11-14 03:16:26 | [david-prompt](https://crates.io/crates/david-prompt) | 0.1.0 | 0 | Locked skeleton, Cargo manifest, body splicing and per-function LLM prompts for… |
+| 2026-11-14 03:16:29 | [david-verify](https://crates.io/crates/david-verify) | 0.1.0 | 0 | AST gatekeeper, cross-platform verification gates and structured repair payload… |
+| 2026-11-14 03:18:38 | [charry](https://crates.io/crates/charry) | 0.1.0 | 0 | Low-RAM & generic UTF-8 decoder |
 
 ## Data source
 
