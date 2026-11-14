@@ -8,31 +8,42 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-14 14:18 UTC
+## Latest list — 2026-11-14 15:18 UTC
 
-New crates published between 2026-11-14 13:21 UTC and 2026-11-14 14:18 UTC.
+New crates published between 2026-11-14 14:18 UTC and 2026-11-14 15:18 UTC.
 
-[Full CSV](data/new-crates-2026-11-14T14-18-18-960125Z.csv)
+[Full CSV](data/new-crates-2026-11-14T15-18-22-060917Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-14 13:24:08 | [mumble-client-protocol](https://crates.io/crates/mumble-client-protocol) | 0.1.0 | 0 | Client side of the Mumble voice chat protocol: TLS control channel, protobuf me… |
-| 2026-11-14 13:26:55 | [agentty-gpui-linux](https://crates.io/crates/agentty-gpui-linux) | 0.1.0 | 0 | Zed's gpui_linux crate, as used by agentty-gpui |
-| 2026-11-14 13:29:45 | [yt-core-proto](https://crates.io/crates/yt-core-proto) | 1.21.0 | 0 | YT Cluster lite: the Rust types of the base, db and link protos, their helper c… |
-| 2026-11-14 13:29:52 | [lekima-platform](https://crates.io/crates/lekima-platform) | 0.3.0 | 0 | Operating-system media integration (MPRIS, Now Playing) for lekima. |
-| 2026-11-14 13:36:05 | [pdf2-render](https://crates.io/crates/pdf2-render) | 0.1.0-rc.1 | 0 | Rasteriser for the pdf2 crate: paths, clips, transforms and (soon) images and t… |
-| 2026-11-14 13:36:08 | [pdf2-wasm](https://crates.io/crates/pdf2-wasm) | 0.1.0-rc.1 | 0 | WebAssembly bindings for pdf2: open, inspect and render PDF 2.0 pages in the br… |
-| 2026-11-14 13:37:11 | [agentty-gpui-macos](https://crates.io/crates/agentty-gpui-macos) | 0.1.0 | 0 | Zed's gpui_macos crate, as used by agentty-gpui |
-| 2026-11-14 13:40:58 | [thingdb-ffi](https://crates.io/crates/thingdb-ffi) | 0.93.1 | 0 | C ABI for the standalone ThingDB embedded key-value database. |
-| 2026-11-14 13:41:31 | [tiny-database](https://crates.io/crates/tiny-database) | 1.0.0 | 0 | A small and simple embedded database |
-| 2026-11-14 13:43:59 | [bannerbobomb-svg](https://crates.io/crates/bannerbobomb-svg) | 0.1.1 | 0 | SVG renderer and browser viewer for Wii banners |
-| 2026-11-14 13:46:13 | [yt-core](https://crates.io/crates/yt-core) | 1.21.0 | 0 | YT Cluster lite: a YT node for one database, linked to a YT cluster above - ins… |
-| 2026-11-14 13:47:47 | [agentty-gpui-windows](https://crates.io/crates/agentty-gpui-windows) | 0.1.0 | 0 | Zed's gpui_windows crate, as used by agentty-gpui |
-| 2026-11-14 13:47:59 | [hatang](https://crates.io/crates/hatang) | 0.1.0 | 0 | Official Rust SDK for Ha Tang (Hạ Tầng): support CRM and live chat, plans and p… |
-| 2026-11-14 13:52:54 | [herdr-goal-manager](https://crates.io/crates/herdr-goal-manager) | 0.1.1 | 0 | Durable goals, evidence, and mixed human/command work in Herdr |
-| 2026-11-14 13:53:21 | [sendclap](https://crates.io/crates/sendclap) | 0.2.0 | 0 | Official Sendclap client: license activation/validation for apps and the creato… |
-| 2026-11-14 13:58:04 | [agentty-gpui-platform](https://crates.io/crates/agentty-gpui-platform) | 0.1.0 | 0 | Zed's gpui_platform crate, as used by agentty-gpui |
-| 2026-11-14 14:18:08 | [elegant-mermaid](https://crates.io/crates/elegant-mermaid) | 0.1.0 | 0 | Render and check Mermaid diagrams as SVG, PNG, or terminal text. |
+| 2026-11-14 14:20:29 | [walltag](https://crates.io/crates/walltag) | 0.1.0 | 0 | Minimalist wallpaper manager and visual gallery for Linux/Wayland |
+| 2026-11-14 14:24:08 | [emd-cli](https://crates.io/crates/emd-cli) | 0.1.0 | 0 | Command-line tool emd to render, check, and view Mermaid diagrams. |
+| 2026-11-14 14:27:08 | [a2ui-catalog-basic](https://crates.io/crates/a2ui-catalog-basic) | 0.2.0 | 0 | The A2UI v1.0 basic catalog for a2ui-runtime. |
+| 2026-11-14 14:33:33 | [relay-rover](https://crates.io/crates/relay-rover) | 0.1.0 | 0 | High-performance, zero-LLM deterministic email intelligence, classification, an… |
+| 2026-11-14 14:38:52 | [edo-lsp-client](https://crates.io/crates/edo-lsp-client) | 0.1.0 | 0 | A small LSP client that returns the diagnostics a language server publishes for… |
+| 2026-11-14 14:39:12 | [edo-tree-sitter-kotlin](https://crates.io/crates/edo-tree-sitter-kotlin) | 0.4.8 | 0 | The brokk-tree-sitter-kotlin grammar (git submodule brokk/), built against curr… |
+| 2026-11-14 14:39:51 | [edo-mcp](https://crates.io/crates/edo-mcp) | 0.2.0 | 0 | An MCP server and CLI that agents use to read and write code by its syntax tree |
+| 2026-11-14 14:42:07 | [jsbeautify](https://crates.io/crates/jsbeautify) | 0.1.0 | 0 | A fast JavaScript beautifier and deobfuscator powered by oxc |
+| 2026-11-14 14:43:29 | [egui_model_viewer](https://crates.io/crates/egui_model_viewer) | 0.1.0 | 0 | A lightweight, embeddable 3D GLB/glTF model viewer widget for egui + wgpu |
+| 2026-11-14 14:43:40 | [datacraft-types](https://crates.io/crates/datacraft-types) | 0.2.0 | 0 | Access domain value and schema vocabulary of DataCraft (the type boundary below… |
+| 2026-11-14 14:43:53 | [datacraft-expr](https://crates.io/crates/datacraft-expr) | 0.2.0 | 0 | Access-style expression engine of DataCraft (parse, evaluate, format) |
+| 2026-11-14 14:44:01 | [datacraft-query](https://crates.io/crates/datacraft-query) | 0.2.0 | 0 | QBE model, criteria parsing and query evaluation of DataCraft |
+| 2026-11-14 14:44:45 | [datacraft-import](https://crates.io/crates/datacraft-import) | 0.2.0 | 0 | Migration tool: native Access forms and reports into DataCraft sidecar designs |
+| 2026-11-14 14:55:53 | [crate-map](https://crates.io/crates/crate-map) | 0.1.0 | 0 | Cargo workspace/crate structure detection: manifests, crate boundaries, module… |
+| 2026-11-14 14:58:06 | [xtalforge-generation](https://crates.io/crates/xtalforge-generation) | 1.13.0 | 0 | Structure generation and global search for xtalforge. |
+| 2026-11-14 14:58:36 | [fujo-error](https://crates.io/crates/fujo-error) | 0.1.0 | 0 | Structured errors shared by Fujo crates |
+| 2026-11-14 14:58:41 | [fujo-core](https://crates.io/crates/fujo-core) | 0.1.0 | 0 | Typed schemas, argument parsing, and input resolution for Fujo |
+| 2026-11-14 14:58:46 | [fujo-complete](https://crates.io/crates/fujo-complete) | 0.1.0 | 0 | Bash, Zsh, Fish, and PowerShell completions for Fujo commands |
+| 2026-11-14 14:58:51 | [fujo-output](https://crates.io/crates/fujo-output) | 0.1.0 | 0 | Output writers, tables, spinners, and progress bars for Fujo |
+| 2026-11-14 14:58:58 | [fujo](https://crates.io/crates/fujo) | 0.1.0 | 0 | Rust CLI framework with typed inputs and command handlers |
+| 2026-11-14 15:01:15 | [code-intelligence](https://crates.io/crates/code-intelligence) | 0.1.0 | 0 | Read-only code-intelligence library and MCP server for coding agents, built on… |
+| 2026-11-14 15:05:06 | [turing-screen-monitor](https://crates.io/crates/turing-screen-monitor) | 0.1.0 | 0 | A lightweight Linux system monitor for Turing 3.5-inch USB screens |
+| 2026-11-14 15:07:16 | [bevy_flui_core](https://crates.io/crates/bevy_flui_core) | 0.20.1 | 0 | The theme, text, locale and scheduling that every bevy_flui crate builds on |
+| 2026-11-14 15:07:30 | [bevy_flui_icons](https://crates.io/crates/bevy_flui_icons) | 0.20.1 | 0 | The icon sets and the icon component of bevy_flui |
+| 2026-11-14 15:07:36 | [bevy_flui_animation](https://crates.io/crates/bevy_flui_animation) | 0.20.1 | 0 | Tweens, springs and timelines for bevy_flui |
+| 2026-11-14 15:12:41 | [mxs](https://crates.io/crates/mxs) | 0.1.0 | 0 | A sound engine on FunDSP, with 85 synths and 17 effects |
+| 2026-11-14 15:14:51 | [bevy_flui_widgets](https://crates.io/crates/bevy_flui_widgets) | 0.20.1 | 0 | The components of bevy_flui and the plugin that adds them |
+| 2026-11-14 15:16:22 | [graphersal-memory](https://crates.io/crates/graphersal-memory) | 0.1.0 | 0 | Local graph memory for AI coding agents: rules, decisions and past sessions, se… |
 
 ## Data source
 
