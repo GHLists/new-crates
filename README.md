@@ -8,44 +8,30 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-13 23:19 UTC
+## Latest list — 2026-11-14 00:19 UTC
 
-New crates published between 2026-11-13 22:18 UTC and 2026-11-13 23:19 UTC.
+New crates published between 2026-11-13 23:19 UTC and 2026-11-14 00:19 UTC.
 
-[Full CSV](data/new-crates-2026-11-13T23-19-36-994011Z.csv)
+[Full CSV](data/new-crates-2026-11-14T00-19-53-751575Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-13 22:19:55 | [reallyme-buffa-build](https://crates.io/crates/reallyme-buffa-build) | 0.1.0 | 0 | ReallyMe fork: Build-time integration for buffa (use in build.rs) |
-| 2026-11-13 22:23:06 | [reallyme-buffa-remote-derive](https://crates.io/crates/reallyme-buffa-remote-derive) | 0.1.0 | 0 | ReallyMe fork: Derive macros that implement buffa's pluggable owned-type traits… |
-| 2026-11-13 22:23:18 | [duke-slides-wasm](https://crates.io/crates/duke-slides-wasm) | 0.4.1 | 0 | WebAssembly bindings for the Extend PowerPoint parser |
-| 2026-11-13 22:28:23 | [aixm](https://crates.io/crates/aixm) | 0.1.0 | 0 | AIXM 5.x parser |
-| 2026-11-13 22:32:22 | [miden-prover-service](https://crates.io/crates/miden-prover-service) | 0.0.0 | 0 | Placeholder crate for a Miden VM project |
-| 2026-11-13 22:34:15 | [reallyme-protoc-gen-buffa](https://crates.io/crates/reallyme-protoc-gen-buffa) | 0.1.0 | 0 | ReallyMe fork: protoc plugin for generating Rust code with buffa |
-| 2026-11-13 22:34:50 | [emx](https://crates.io/crates/emx) | 0.0.1 | 0 | A fast terminal editor with Emacs keybindings, built for working alongside codi… |
-| 2026-11-13 22:38:13 | [tsap-oo](https://crates.io/crates/tsap-oo) | 0.1.0 | 0 | 十胡 (Tsa̍p-ôo), the Taiwanese Four Color Cards game: rules, round state machine,… |
-| 2026-11-13 22:39:20 | [xrack-interpreter](https://crates.io/crates/xrack-interpreter) | 0.5.0 | 0 | XRack interpreter support |
-| 2026-11-13 22:39:27 | [fsspec_fuse](https://crates.io/crates/fsspec_fuse) | 0.1.0 | 0 | Mount fsspec filesystems with FUSE |
-| 2026-11-13 22:40:12 | [do-not-drop](https://crates.io/crates/do-not-drop) | 0.1.0 | 0 | Do-Not-Drop is a package for preventing AI agents and developers from deleting,… |
-| 2026-11-13 22:40:32 | [pixelforge-ash](https://crates.io/crates/pixelforge-ash) | 0.38.1+1.4.352.f4c2… | 0 | Vulkan bindings for Rust |
-| 2026-11-13 22:43:43 | [fifo-bufread](https://crates.io/crates/fifo-bufread) | 0.1.0 | 0 | Produce hunks of bytes in one thread or async task and consume them from anothe… |
-| 2026-11-13 22:45:30 | [reallyme-protoc-gen-buffa-packaging](https://crates.io/crates/reallyme-protoc-gen-buffa-packaging) | 0.1.0 | 0 | ReallyMe fork: protoc plugin that emits a mod.rs module tree for buffa per-file… |
-| 2026-11-13 22:53:40 | [consecution](https://crates.io/crates/consecution) | 0.1.0 | 0 | What a function does, from facts about its body: data and order dependencies, t… |
-| 2026-11-13 22:53:54 | [ufs-base](https://crates.io/crates/ufs-base) | 0.1.0 | 0 | core for ufs |
-| 2026-11-13 22:54:00 | [consecution-rust](https://crates.io/crates/consecution-rust) | 0.1.0 | 0 | Rust functions for Consecution: syn reads the source, Syntagm declarations deci… |
-| 2026-11-13 22:55:27 | [last-commander-core](https://crates.io/crates/last-commander-core) | 0.0.0 | 0 | Core logic of Last Commander, a keyboard-driven two-panel file manager. Name re… |
-| 2026-11-13 22:55:29 | [last-commander](https://crates.io/crates/last-commander) | 0.0.0 | 0 | Last Commander, a keyboard-driven two-panel file manager. Name reserved; under… |
-| 2026-11-13 22:57:57 | [bgpkit-snap](https://crates.io/crates/bgpkit-snap) | 1.0.0-rc.1 | 0 | Versioned, memory-mappable container for prefix tries, with an append-only jour… |
-| 2026-11-13 23:00:52 | [jtac-core](https://crates.io/crates/jtac-core) | 0.2.18 | 0 | Evidence types, canonical encoding, hashing, the Merkle tree, and the verdict f… |
-| 2026-11-13 23:00:55 | [jtac-gate](https://crates.io/crates/jtac-gate) | 0.2.18 | 0 | Shell command classifier and the decision function for tool calls and git opera… |
-| 2026-11-13 23:00:56 | [jtac-policy](https://crates.io/crates/jtac-policy) | 0.2.18 | 0 | Parse, validate, hash, and evaluate policy. |
-| 2026-11-13 23:00:57 | [jtac-sign](https://crates.io/crates/jtac-sign) | 0.2.18 | 0 | SSHSIG signing and verification through ssh-keygen. |
-| 2026-11-13 23:01:00 | [jtac-checks](https://crates.io/crates/jtac-checks) | 0.2.18 | 0 | Check runner: subprocess execution, output capture, caching, diff-integrity che… |
-| 2026-11-13 23:03:58 | [arc-lend](https://crates.io/crates/arc-lend) | 0.1.0 | 0 | A shared-value cell for threads on a deadline: one thread replaces the value wh… |
-| 2026-11-13 23:04:09 | [jtac-store](https://crates.io/crates/jtac-store) | 0.2.18 | 0 | Local content-addressed store and the git ref layer. |
-| 2026-11-13 23:08:19 | [claude-code-settings](https://crates.io/crates/claude-code-settings) | 0.1.0 | 0 | Typed Claude Code settings.json: every key, lossless round-trips, and Claude Co… |
-| 2026-11-13 23:09:19 | [mcp-lite](https://crates.io/crates/mcp-lite) | 0.1.0 | 0 | A small synchronous Model Context Protocol client with a lazy tool layer |
-| 2026-11-13 23:14:21 | [anthropic-messages](https://crates.io/crates/anthropic-messages) | 0.1.0 | 0 | Typed client for the Anthropic Messages API: request and response types, HTTP c… |
+| 2026-11-13 23:20:27 | [linalloc-sys](https://crates.io/crates/linalloc-sys) | 0.1.0 | 0 | Virtual memory primitives for linalloc |
+| 2026-11-13 23:38:43 | [rskim-contract](https://crates.io/crates/rskim-contract) | 3.0.0 | 0 | Safety invariant contract and fail-open guardrail module for skim Layer 3 |
+| 2026-11-13 23:38:46 | [rskim-llm](https://crates.io/crates/rskim-llm) | 3.0.0 | 0 | LLM message model: parse/serialize Anthropic & OpenAI request bodies with conte… |
+| 2026-11-13 23:38:53 | [rskim-tokens](https://crates.io/crates/rskim-tokens) | 3.0.0 | 0 | Multi-provider token counting library for skim |
+| 2026-11-13 23:38:58 | [rskim-compress](https://crates.io/crates/rskim-compress) | 3.0.0 | 0 | Per-content-type block compression router for skim Layer-3 (BlockRouter, log co… |
+| 2026-11-13 23:39:12 | [rskim-proxy](https://crates.io/crates/rskim-proxy) | 3.0.0 | 0 | HTTP reverse proxy foundation for skim Layer 3: provider routing, SSE/chunked p… |
+| 2026-11-13 23:40:51 | [prego-cli](https://crates.io/crates/prego-cli) | 0.9.0 | 0 | Alias of the crate prego, the command-line tool for Prego by Katskill. Installs… |
+| 2026-11-13 23:50:40 | [fncosmos-auth](https://crates.io/crates/fncosmos-auth) | 0.1.0 | 0 | Sign-in for fncosmos apps: email and password, sessions and tokens, in the app'… |
+| 2026-11-13 23:56:22 | [debugbundle](https://crates.io/crates/debugbundle) | 1.0.0-alpha.1 | 0 | Safe, bounded runtime error reporting for Rust, Axum and Actix Web |
+| 2026-11-13 23:59:51 | [smooth-runtime](https://crates.io/crates/smooth-runtime) | 0.1.0 | 0 | Sans-IO Smooth Streaming (MS-SSTR) engine: a pull client (manifest fetch/refres… |
+| 2026-11-14 00:05:14 | [quickertype-js-compat](https://crates.io/crates/quickertype-js-compat) | 0.1.0 | 0 | JavaScript-exact helpers (number formatting, UTF-16 strings, V8 sort, JSON.stri… |
+| 2026-11-14 00:05:33 | [quickertype-core](https://crates.io/crates/quickertype-core) | 0.1.0 | 0 | The quicktype engine: infer types from JSON, JSON Schema and GraphQL and render… |
+| 2026-11-14 00:05:54 | [quickertype-graphql-input](https://crates.io/crates/quickertype-graphql-input) | 0.1.0 | 0 | GraphQL query + schema input for quicktype |
+| 2026-11-14 00:06:00 | [quickertype-typescript-input](https://crates.io/crates/quickertype-typescript-input) | 0.1.0 | 0 | TypeScript input for quicktype, via the TypeScript 7 native type checker |
+| 2026-11-14 00:06:32 | [quickertype](https://crates.io/crates/quickertype) | 0.1.0 | 0 | Rust port of quicktype: generate types and converters from JSON and schemas |
+| 2026-11-14 00:16:23 | [helicoid-spline](https://crates.io/crates/helicoid-spline) | 0.0.10 | 0 | Uniform cumulative B-splines on Lie groups, with O(K) control Jacobians: no_std… |
 
 ## Data source
 

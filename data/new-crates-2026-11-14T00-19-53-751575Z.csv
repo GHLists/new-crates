@@ -1,0 +1,17 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-13T23:20:27.190058Z,linalloc-sys,0.1.0,0,0,https://github.com/qaijuang/linalloc,Virtual memory primitives for linalloc
+2026-11-13T23:38:43.41782Z,rskim-contract,3.0.0,0,0,https://github.com/dean0x/skim,Safety invariant contract and fail-open guardrail module for skim Layer 3
+2026-11-13T23:38:46.587003Z,rskim-llm,3.0.0,0,0,https://github.com/dean0x/skim,LLM message model: parse/serialize Anthropic & OpenAI request bodies with content-block classification
+2026-11-13T23:38:53.475222Z,rskim-tokens,3.0.0,0,0,https://github.com/dean0x/skim,Multi-provider token counting library for skim
+2026-11-13T23:38:58.550063Z,rskim-compress,3.0.0,0,0,https://github.com/dean0x/skim,"Per-content-type block compression router for skim Layer-3 (BlockRouter, log compression)"
+2026-11-13T23:39:12.852558Z,rskim-proxy,3.0.0,0,0,https://github.com/dean0x/skim,"HTTP reverse proxy foundation for skim Layer 3: provider routing, SSE/chunked passthrough, stateless fail-open core"
+2026-11-13T23:40:51.497998Z,prego-cli,0.9.0,0,0,https://github.com/group-katskill/prego-clients,"Alias of the crate prego, the command-line tool for Prego by Katskill. Installs the same prego binary, from the same source and version."
+2026-11-13T23:50:40.120036Z,fncosmos-auth,0.1.0,0,0,,"Sign-in for fncosmos apps: email and password, sessions and tokens, in the app's own database. Speaks Better Auth's protocol."
+2026-11-13T23:56:22.71835Z,debugbundle,1.0.0-alpha.1,0,0,https://github.com/debugbundle/debugbundle-rust,"Safe, bounded runtime error reporting for Rust, Axum and Actix Web"
+2026-11-13T23:59:51.643132Z,smooth-runtime,0.1.0,0,0,https://github.com/fishloa/rust-broadcast,"Sans-IO Smooth Streaming (MS-SSTR) engine: a pull client (manifest fetch/refresh, stream/quality selection, chunk enumeration, fragment URLs, init/tfxd handling, retry/backoff, live join) and a live…"
+2026-11-14T00:05:14.047528Z,quickertype-js-compat,0.1.0,0,0,https://github.com/EloB/quickertype,"JavaScript-exact helpers (number formatting, UTF-16 strings, V8 sort, JSON.stringify, pluralize, ...) for the quicktype Rust port"
+2026-11-14T00:05:33.75198Z,quickertype-core,0.1.0,0,0,https://github.com/EloB/quickertype,"The quicktype engine: infer types from JSON, JSON Schema and GraphQL and render them in 25+ languages"
+2026-11-14T00:05:54.274234Z,quickertype-graphql-input,0.1.0,0,0,https://github.com/EloB/quickertype,GraphQL query + schema input for quicktype
+2026-11-14T00:06:00.84987Z,quickertype-typescript-input,0.1.0,0,0,https://github.com/EloB/quickertype,"TypeScript input for quicktype, via the TypeScript 7 native type checker"
+2026-11-14T00:06:32.616315Z,quickertype,0.1.0,0,0,https://github.com/EloB/quickertype,Rust port of quicktype: generate types and converters from JSON and schemas
+2026-11-14T00:16:23.671286Z,helicoid-spline,0.0.10,0,0,https://github.com/NoeFontana/helicoid,"Uniform cumulative B-splines on Lie groups, with O(K) control Jacobians: no_std, no alloc, no unsafe."
