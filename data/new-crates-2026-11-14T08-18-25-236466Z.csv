@@ -1,0 +1,20 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-14T07:20:50.602044Z,turul-mcp-ext-skills,0.1.0,0,0,https://github.com/aussierobots/turul-mcp-framework,"MCP Skills extension (io.modelcontextprotocol/skills, SEP-2640) — wire types, skill:// URIs and sha256 manifests over turul-agent-skills"
+2026-11-14T07:23:54.800376Z,fela,1.0.0,0,0,https://github.com/cdown/fela,"A fast, keyboard-driven image viewer."
+2026-11-14T07:24:59.940138Z,pod-actions-results,0.0.0,0,0,https://github.com/PodUtils/podcrates,"The ArtifactService of the results API of GitHub Actions (twirp JSON) and the block blob routes of its signed URLs, over one store for each run"
+2026-11-14T07:26:24.368654Z,a2ui-runtime,0.1.0,0,0,https://github.com/oku-theory/a2ui-rs,Renderer-side runtime for the A2UI v1.0 protocol.
+2026-11-14T07:37:04.324265Z,lightsearch,0.1.0,0,0,,"An embedded full-text search engine database in Rust: ES-style documents, inverted index, BM25, Chinese/English tokenizers, on a hand-written SQLite-style storage kernel with a swappable real-SQLite3…"
+2026-11-14T07:38:13.506554Z,seiza-image-ser,0.1.0,0,0,https://github.com/theatrus/seiza,Seekable raw SER image sequences for the Seiza astrophotography toolkit
+2026-11-14T07:40:11.547661Z,jobkeep-macros,0.1.0,0,0,https://github.com/hardiksavaliya/jobkeep,"Procedural macros for JobKeep (#[job], #[recurring])"
+2026-11-14T07:40:15.358065Z,jobkeep-core,0.1.0,0,0,https://github.com/hardiksavaliya/jobkeep,"Core types and traits for JobKeep: jobs, states, storage trait, cron parsing"
+2026-11-14T07:40:18.14198Z,jobkeep-memory,0.1.0,0,0,https://github.com/hardiksavaliya/jobkeep,In-memory storage backend for JobKeep (tests and local development)
+2026-11-14T07:40:19.274713Z,git-process,0.1.0,0,0,https://github.com/flowerornament/git-evidence,"A hardened `git` subprocess: one invocation prefix, typed object ids, retried starts and their failure records"
+2026-11-14T07:40:21.424248Z,jobkeep-client,0.1.0,0,0,https://github.com/hardiksavaliya/jobkeep,"Enqueue, schedule and manage recurring JobKeep jobs (Hangfire BackgroundJob / RecurringJob)"
+2026-11-14T07:40:21.955343Z,jobkeep-dashboard,0.1.0,0,0,https://github.com/hardiksavaliya/jobkeep,"Web dashboard for JobKeep: queues, job states, retries, recurring jobs, servers"
+2026-11-14T07:40:26.000308Z,git-evidence,0.1.0,0,0,https://github.com/flowerornament/git-evidence,"Numbers recorded per Git commit, kept in Git notes; show, trend, diff and SQL"
+2026-11-14T07:42:52.213465Z,arto-mcp,0.0.0,0,0,https://github.com/arto-app/Arto,A Model Context Protocol server that lets an agent show files in Arto and read where the reader is
+2026-11-14T07:49:54.49563Z,refpact-core,0.1.0,0,0,https://github.com/AoElite/RefPact,The language-neutral core of refpact: rules evaluated over facts that a front end makes
+2026-11-14T07:50:01.772269Z,refpact,0.1.0,0,0,https://github.com/AoElite/RefPact,"Architecture tests for Rust: rules about what code may depend on, checked as ordinary tests"
+2026-11-14T08:07:13.619069Z,uteke-privacy,0.24.0,0,0,https://github.com/codecoradev/uteke,"Secret detector and redactor shared by uteke and tole: AWS, GitHub, npm, Slack, Google keys, bearer, JWT, URL passwords and NAME=value secrets, masked in a shape-preserving way"
+2026-11-14T08:16:02.709938Z,sarangi-macros,0.1.0,0,0,https://github.com/encryptedbusiness/sarangi,Proc macros for sarangi: #[derive(Store)] and #[tracking]. Re-exported by the sarangi crate.
+2026-11-14T08:16:42.089649Z,sarangi,0.1.0,0,0,https://github.com/encryptedbusiness/sarangi,"Pinia/Zustand-style reactive state for GPUI: field-level signals, stores, getters, actions, selectors"

@@ -8,35 +8,33 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-14 07:20 UTC
+## Latest list — 2026-11-14 08:18 UTC
 
-New crates published between 2026-11-14 06:19 UTC and 2026-11-14 07:20 UTC.
+New crates published between 2026-11-14 07:20 UTC and 2026-11-14 08:18 UTC.
 
-[Full CSV](data/new-crates-2026-11-14T07-20-44-752387Z.csv)
+[Full CSV](data/new-crates-2026-11-14T08-18-25-236466Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-14 06:21:19 | [xsh](https://crates.io/crates/xsh) | 0.0.9 | 0 | A minimal shell in rust |
-| 2026-11-14 06:23:49 | [podrunner-slots](https://crates.io/crates/podrunner-slots) | 0.0.0 | 0 | The slots core of podrunner: states, journal, placement, status, drain, codes a… |
-| 2026-11-14 06:26:25 | [xcss-codegen](https://crates.io/crates/xcss-codegen) | 0.12.0 | 0 | CSS and JavaScript generation for XCSS |
-| 2026-11-14 06:28:21 | [smear-analysis](https://crates.io/crates/smear-analysis) | 0.0.0 | 0 | The GraphQLx schema analyzer: GraphQLx packages in, a resolved model and its di… |
-| 2026-11-14 06:29:15 | [shipstern-preconf-source](https://crates.io/crates/shipstern-preconf-source) | 0.13.0 | 0 | Triton preconfirmation source for Shipstern |
-| 2026-11-14 06:34:03 | [podssh-cli](https://crates.io/crates/podssh-cli) | 0.0.0 | 0 | The command line of podssh: SSH from machines whose only way out is HTTPS, thro… |
-| 2026-11-14 06:34:46 | [sigtrace](https://crates.io/crates/sigtrace) | 0.1.0 | 0 | 一个轻量、单线程的响应式运行时 |
-| 2026-11-14 06:35:50 | [xcss-core](https://crates.io/crates/xcss-core) | 0.12.0 | 0 | Compiler core for the XCSS styling language |
-| 2026-11-14 06:44:15 | [podvm-api](https://crates.io/crates/podvm-api) | 0.0.0 | 0 | The Docker and Podman compatible API surface of podvm |
-| 2026-11-14 06:48:00 | [xcss-resolver](https://crates.io/crates/xcss-resolver) | 0.12.0 | 0 | Filesystem project resolution for XCSS |
-| 2026-11-14 06:52:53 | [renderwall-core](https://crates.io/crates/renderwall-core) | 0.1.0 | 0 | renderwall URL classification: route grammar, oid validation, cache-key preimage |
-| 2026-11-14 06:53:03 | [renderwall-store](https://crates.io/crates/renderwall-store) | 0.1.0 | 0 | renderwall content-addressed render store: zstd CAS payloads + index records |
-| 2026-11-14 06:53:07 | [renderwall-audit](https://crates.io/crates/renderwall-audit) | 0.1.0 | 0 | renderwall — the audit projection (pure arithmetic over a /stats document) |
-| 2026-11-14 06:53:20 | [renderwall-proxy](https://crates.io/crates/renderwall-proxy) | 0.1.0 | 0 | renderwall reverse proxy: classify, pass through, serve hits, tee fills |
-| 2026-11-14 06:53:27 | [renderwall](https://crates.io/crates/renderwall) | 0.1.0 | 0 | renderwall — render-cost firewall reverse proxy for git forges |
-| 2026-11-14 06:54:29 | [podfleet](https://crates.io/crates/podfleet) | 0.0.0 | 0 | A PodUtils tool: name reserved |
-| 2026-11-14 06:56:52 | [xcss-cli](https://crates.io/crates/xcss-cli) | 0.12.0 | 0 | Command-line compiler for XCSS |
-| 2026-11-14 07:04:37 | [podrun](https://crates.io/crates/podrun) | 0.0.0 | 0 | A PodUtils tool: name reserved |
-| 2026-11-14 07:08:05 | [embassy-cw32](https://crates.io/crates/embassy-cw32) | 0.4.0 | 0 | embassy async HAL for CW32 Cortex-M0+ MCUs (Wuhan Xinyuan / CMSemicon): L012/L0… |
-| 2026-11-14 07:14:47 | [podmask](https://crates.io/crates/podmask) | 0.0.0 | 0 | Confidential execution without trusted hardware: redact the /proc metadata of a… |
-| 2026-11-14 07:19:15 | [teixml-to-mutable](https://crates.io/crates/teixml-to-mutable) | 0.1.0 | 0 | Converts TEI-XML to raw phext (multiversal chain format) — stage 0.1: raw phext |
+| 2026-11-14 07:20:50 | [turul-mcp-ext-skills](https://crates.io/crates/turul-mcp-ext-skills) | 0.1.0 | 0 | MCP Skills extension (io.modelcontextprotocol/skills, SEP-2640) — wire types, s… |
+| 2026-11-14 07:23:54 | [fela](https://crates.io/crates/fela) | 1.0.0 | 0 | A fast, keyboard-driven image viewer. |
+| 2026-11-14 07:24:59 | [pod-actions-results](https://crates.io/crates/pod-actions-results) | 0.0.0 | 0 | The ArtifactService of the results API of GitHub Actions (twirp JSON) and the b… |
+| 2026-11-14 07:26:24 | [a2ui-runtime](https://crates.io/crates/a2ui-runtime) | 0.1.0 | 0 | Renderer-side runtime for the A2UI v1.0 protocol. |
+| 2026-11-14 07:37:04 | [lightsearch](https://crates.io/crates/lightsearch) | 0.1.0 | 0 | An embedded full-text search engine database in Rust: ES-style documents, inver… |
+| 2026-11-14 07:38:13 | [seiza-image-ser](https://crates.io/crates/seiza-image-ser) | 0.1.0 | 0 | Seekable raw SER image sequences for the Seiza astrophotography toolkit |
+| 2026-11-14 07:40:11 | [jobkeep-macros](https://crates.io/crates/jobkeep-macros) | 0.1.0 | 0 | Procedural macros for JobKeep (#[job], #[recurring]) |
+| 2026-11-14 07:40:15 | [jobkeep-core](https://crates.io/crates/jobkeep-core) | 0.1.0 | 0 | Core types and traits for JobKeep: jobs, states, storage trait, cron parsing |
+| 2026-11-14 07:40:18 | [jobkeep-memory](https://crates.io/crates/jobkeep-memory) | 0.1.0 | 0 | In-memory storage backend for JobKeep (tests and local development) |
+| 2026-11-14 07:40:19 | [git-process](https://crates.io/crates/git-process) | 0.1.0 | 0 | A hardened `git` subprocess: one invocation prefix, typed object ids, retried s… |
+| 2026-11-14 07:40:21 | [jobkeep-client](https://crates.io/crates/jobkeep-client) | 0.1.0 | 0 | Enqueue, schedule and manage recurring JobKeep jobs (Hangfire BackgroundJob / R… |
+| 2026-11-14 07:40:21 | [jobkeep-dashboard](https://crates.io/crates/jobkeep-dashboard) | 0.1.0 | 0 | Web dashboard for JobKeep: queues, job states, retries, recurring jobs, servers |
+| 2026-11-14 07:40:26 | [git-evidence](https://crates.io/crates/git-evidence) | 0.1.0 | 0 | Numbers recorded per Git commit, kept in Git notes; show, trend, diff and SQL |
+| 2026-11-14 07:42:52 | [arto-mcp](https://crates.io/crates/arto-mcp) | 0.0.0 | 0 | A Model Context Protocol server that lets an agent show files in Arto and read… |
+| 2026-11-14 07:49:54 | [refpact-core](https://crates.io/crates/refpact-core) | 0.1.0 | 0 | The language-neutral core of refpact: rules evaluated over facts that a front e… |
+| 2026-11-14 07:50:01 | [refpact](https://crates.io/crates/refpact) | 0.1.0 | 0 | Architecture tests for Rust: rules about what code may depend on, checked as or… |
+| 2026-11-14 08:07:13 | [uteke-privacy](https://crates.io/crates/uteke-privacy) | 0.24.0 | 0 | Secret detector and redactor shared by uteke and tole: AWS, GitHub, npm, Slack,… |
+| 2026-11-14 08:16:02 | [sarangi-macros](https://crates.io/crates/sarangi-macros) | 0.1.0 | 0 | Proc macros for sarangi: #[derive(Store)] and #[tracking]. Re-exported by the s… |
+| 2026-11-14 08:16:42 | [sarangi](https://crates.io/crates/sarangi) | 0.1.0 | 0 | Pinia/Zustand-style reactive state for GPUI: field-level signals, stores, gette… |
 
 ## Data source
 
