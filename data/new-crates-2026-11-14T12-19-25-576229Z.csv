@@ -1,0 +1,45 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-14T11:22:01.561167Z,jflib-render2d,0.2.0,0,0,https://github.com/JFLibrary/JFLib,"The core of JFLib's 2D renderer for CAD on jflib-gpu: a retained scene of lines, polylines, arcs and circles, Bézier curves, ellipses, splines, fills and hatches with layers and styles, dash patterns…"
+2026-11-14T11:22:51.082687Z,cadrender,0.1.0,0,0,https://github.com/hameddavodi/cadrender,"Fast DXF and DWG to PNG and SVG renderer: open a drawing, render its sheets"
+2026-11-14T11:23:25.691094Z,harpia,0.3.0,0,0,https://github.com/reinanbr/harpia,"Sharp-eyed LLM tooling in pure Rust: data curation, structured output, API clients, local inference, training and evaluation."
+2026-11-14T11:24:37.475359Z,agentty-gpui-bench-metrics,0.1.0,0,0,https://github.com/empty-user77/agentty-gpui,"Zed's bench_metrics crate, as used by agentty-gpui"
+2026-11-14T11:24:38.144486Z,drawen-servo-linux,0.1.0,0,0,https://github.com/NMogolev/drawen,Linux Vulkan dmabuf/EGL shared-texture interop for Drawen browser embedding
+2026-11-14T11:24:40.967334Z,agentty-gpui-util,0.1.0,0,0,https://github.com/empty-user77/agentty-gpui,"Zed's gpui_util crate, as used by agentty-gpui"
+2026-11-14T11:24:43.764321Z,agentty-gpui-collections,0.1.0,0,0,https://github.com/empty-user77/agentty-gpui,Standard collection types used by Zed and GPUI
+2026-11-14T11:24:47.148783Z,agentty-gpui-http-client,0.1.0,0,0,https://github.com/empty-user77/agentty-gpui,A HTTP client library for Zed and GPUI
+2026-11-14T11:24:50.756406Z,agentty-gpui-macros,0.1.0,0,0,https://github.com/empty-user77/agentty-gpui,Macros used by gpui
+2026-11-14T11:33:01.306724Z,cadrender-cli,0.1.0,0,0,https://github.com/hameddavodi/cadrender,Command line tool for cadrender: render DXF and DWG sheets to PNG and SVG
+2026-11-14T11:33:19.116949Z,harpia-cli,0.3.0,0,0,https://github.com/reinanbr/harpia,"The `harpia` command line: text utilities, dataset curation, chat templates, packing and JSON repair."
+2026-11-14T11:34:34.649866Z,jflib-gltf,0.2.0,0,0,https://github.com/JFLibrary/JFLib,"glTF 2.0 import for JFLib (.gltf and .glb): meshes, materials, textures, images, nodes in f64, without a GPU"
+2026-11-14T11:34:37.722672Z,drawen-servo-macos,0.1.0,0,0,https://github.com/NMogolev/drawen,macOS IOSurface shared-texture interop for Drawen browser embedding
+2026-11-14T11:34:55.98621Z,agentty-gpui-derive-refineable,0.1.0,0,0,https://github.com/empty-user77/agentty-gpui,A derive macro for creating refinement types in Rust
+2026-11-14T11:41:58.587891Z,acid-cat-core,0.1.0,0,0,https://github.com/Hebilicious/acidcat,"Serve AcidCat capabilities and events in Rust, through the MCP, HTTP and CLI bindings."
+2026-11-14T11:42:19.110482Z,cel-core-nodeve,0.5.1,0,0,https://github.com/nodeve-com/cel-core,"A fork of cel-core, the Common Expression Language (CEL) in Rust, carrying fixes not yet merged upstream"
+2026-11-14T11:44:38.847677Z,drawen-servo,0.1.0,0,0,https://github.com/NMogolev/drawen,Platform selection facade for Drawen's Servo shared-texture interop
+2026-11-14T11:44:54.580788Z,jflib-render3d,0.2.0,0,0,https://github.com/JFLibrary/JFLib,"The core of JFLib's 3D engine on jflib-gpu: meshes, textured materials, scenes of instances, visibility on the GPU, glTF scenes"
+2026-11-14T11:45:00.399087Z,agentty-gpui-refineable,0.1.0,0,0,https://github.com/empty-user77/agentty-gpui,A macro for creating 'refinement' types that can be used to partially initialize or mutate a complex struct
+2026-11-14T11:49:48.018768Z,dman-proto,0.1.0,0,0,https://github.com/rajput-hemant/dman,Wire types shared by the dman daemon and its clients
+2026-11-14T11:49:50.657765Z,dman-search,0.1.0,0,0,https://github.com/rajput-hemant/dman,"Torrent search providers (declarative definitions), engine, parsers and result aggregation for dman"
+2026-11-14T11:49:53.260648Z,dman-torrent,0.1.0,0,0,https://github.com/rajput-hemant/dman,"Minimal bencode reader and .torrent summary (name, files, info-hash) for dman"
+2026-11-14T11:49:54.147667Z,dman-ytdlp,0.1.0,0,0,https://github.com/rajput-hemant/dman,yt-dlp video engine adapter for dman
+2026-11-14T11:50:00.822458Z,dman-aria2,0.1.0,0,0,https://github.com/rajput-hemant/dman,Typed aria2 JSON-RPC (WebSocket) client for dman
+2026-11-14T11:54:40.389291Z,drawen-widgets,0.1.0,0,0,https://github.com/NMogolev/drawen,Standard widgets for Drawen
+2026-11-14T11:55:05.642013Z,agentty-gpui-scheduler,0.1.0,0,0,https://github.com/empty-user77/agentty-gpui,"Zed's scheduler crate, as used by agentty-gpui"
+2026-11-14T12:00:40.099119Z,polog,0.1.0-alpha.1,0,0,https://github.com/zheland/polog,Performance-oriented structured logging facade
+2026-11-14T12:03:13.589378Z,polog-util,0.1.0-alpha.1,0,0,https://github.com/zheland/polog,Performance-oriented structured logging facade utilities
+2026-11-14T12:04:39.561435Z,drawen-director,0.1.0,0,0,https://github.com/NMogolev/drawen,Optional runtime orchestration for Drawen media playback
+2026-11-14T12:05:10.565115Z,agentty-gpui-shared-string,0.1.0,0,0,https://github.com/empty-user77/agentty-gpui,"Zed's gpui_shared_string crate, as used by agentty-gpui"
+2026-11-14T12:05:10.983428Z,pologger,0.1.0-alpha.1,0,0,https://github.com/zheland/polog,Performance-oriented structured logging facade backend
+2026-11-14T12:05:47.827612Z,dman-store,0.1.0,0,0,https://github.com/rajput-hemant/dman,"Persistent, authoritative job store for the dman daemon"
+2026-11-14T12:06:19.691368Z,bedlam,0.2.0,0,0,https://github.com/caniko/bedlam,"Self-hosted microVM sandboxes for coding agents, placed by AMC admission"
+2026-11-14T12:09:04.59188Z,fexu-cli,0.1.0,0,0,https://github.com/Iam-Sanja/fexu-rs,Command line for the Fexu framework
+2026-11-14T12:09:24.126538Z,fexu-admin,0.1.0,0,0,https://github.com/Iam-Sanja/fexu-rs,Server-rendered admin for the Fexu framework
+2026-11-14T12:09:53.088347Z,fexu-api,0.1.0,0,0,https://github.com/Iam-Sanja/fexu-rs,HTTP runtime for the Fexu framework
+2026-11-14T12:10:06.267328Z,fexu,0.1.0,0,0,https://github.com/Iam-Sanja/fexu-rs,Experimental model-first web framework
+2026-11-14T12:13:01.447244Z,minigrep_by_ani,0.1.0,0,0,,A lightweight version of grep tool.
+2026-11-14T12:14:01.235881Z,klibs-rules,0.3.0,0,0,https://github.com/Astra-Interactive/rules-architecture,Checks a Cargo workspace against the Astra-Interactive architecture rules
+2026-11-14T12:14:39.017628Z,drawen-browser,0.1.0,0,0,https://github.com/NMogolev/drawen,Browser surface and Servo integration layer for Drawen
+2026-11-14T12:15:20.240275Z,agentty-gpui-zlog,0.1.0,0,0,https://github.com/empty-user77/agentty-gpui,"Zed's zlog crate, as used by agentty-gpui"
+2026-11-14T12:16:04.134681Z,dman-client,0.1.0,0,0,https://github.com/rajput-hemant/dman,Typed async client (WebSocket JSON-RPC) for the dman daemon API
+2026-11-14T12:16:31.758496Z,vaka-sdk,0.2.0,0,0,https://github.com/ErikHellman/vaka,"Rust SDK for Vaka: panics, errors, release health and events"
+2026-11-14T12:17:32.819432Z,ferrite-aac,0.3.2,0,0,https://github.com/whepper/ferrite,Native Rust AAC-LC encoder derived from Fraunhofer FDK AAC (Ferrite)

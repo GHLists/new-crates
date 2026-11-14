@@ -8,56 +8,58 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-14 11:19 UTC
+## Latest list — 2026-11-14 12:19 UTC
 
-New crates published between 2026-11-14 10:18 UTC and 2026-11-14 11:19 UTC.
+New crates published between 2026-11-14 11:19 UTC and 2026-11-14 12:19 UTC.
 
-[Full CSV](data/new-crates-2026-11-14T11-19-45-410137Z.csv)
+[Full CSV](data/new-crates-2026-11-14T12-19-25-576229Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-14 10:18:42 | [oxent](https://crates.io/crates/oxent) | 0.3.2 | 0 | Declarative Rust bindings for the Xent native UI toolkit |
-| 2026-11-14 10:23:23 | [harpia-data](https://crates.io/crates/harpia-data) | 0.3.0 | 0 | LLM datasets in pure Rust: streaming IO, curation (filters, PII, dedup, deconta… |
-| 2026-11-14 10:24:39 | [drawen-ui](https://crates.io/crates/drawen-ui) | 0.1.0 | 0 | Retained widget runtime for Drawen |
-| 2026-11-14 10:30:11 | [cadrender-core](https://crates.io/crates/cadrender-core) | 0.1.0 | 0 | Scene model, entities, render options and drawing walk used by cadrender |
-| 2026-11-14 10:30:19 | [cadrender-acis](https://crates.io/crates/cadrender-acis) | 0.1.0 | 0 | Just enough of the ACIS SAT/SAB formats to draw REGION, 3DSOLID and BODY outlin… |
-| 2026-11-14 10:30:22 | [cadrender-shx](https://crates.io/crates/cadrender-shx) | 0.1.0 | 0 | AutoCAD SHX/SHP stroke font reader, font resolution and text layout |
-| 2026-11-14 10:30:26 | [cadrender-dwg](https://crates.io/crates/cadrender-dwg) | 0.1.0 | 0 | DWG reader in pure Rust (R2004 to R2018 files) used by cadrender |
-| 2026-11-14 10:30:28 | [front-matter](https://crates.io/crates/front-matter) | 0.0.2 | 0 | The front matter of Markdown and MDX files: a YAML, TOML or JSON block, with ea… |
-| 2026-11-14 10:30:36 | [cadrender-dxf](https://crates.io/crates/cadrender-dxf) | 0.1.0 | 0 | Fast, tolerant ASCII DXF reader that builds a cadrender scene |
-| 2026-11-14 10:33:31 | [harpia-client](https://crates.io/crates/harpia-client) | 0.3.0 | 0 | Unified typed async LLM clients (OpenAI-compatible, Anthropic, Ollama) with str… |
-| 2026-11-14 10:34:40 | [drawen-software](https://crates.io/crates/drawen-software) | 0.1.0 | 0 | Deterministic software renderer and test support for Drawen |
-| 2026-11-14 10:37:15 | [polarduck](https://crates.io/crates/polarduck) | 0.1.2 | 0 | Rust-powered streaming NDJSON-to-Arrow aggregation, batch-streamed schema-evolv… |
-| 2026-11-14 10:39:58 | [grannom-commons](https://crates.io/crates/grannom-commons) | 0.0.0-reserved | 0 | Name reservation for grannom-commons, the Grannom Commons crypto core types (pe… |
-| 2026-11-14 10:40:01 | [grannom-install](https://crates.io/crates/grannom-install) | 0.0.0-reserved | 0 | Name reservation for grannom-install, the one installer, with one step order on… |
-| 2026-11-14 10:40:04 | [grannom-llm-decision](https://crates.io/crates/grannom-llm-decision) | 0.0.0-reserved | 0 | Name reservation for grannom-llm-decision, the LLM decision layer over a frozen… |
-| 2026-11-14 10:40:06 | [grannom-pane](https://crates.io/crates/grannom-pane) | 0.0.0-reserved | 0 | Name reservation for grannom-pane, the pane base: pseudoconsole panes it owns (… |
-| 2026-11-14 10:40:09 | [grannom-testkit](https://crates.io/crates/grannom-testkit) | 0.0.0-reserved | 0 | Name reservation for grannom-testkit, the test-only fixtures shared by the gran… |
-| 2026-11-14 10:42:11 | [cadrender-image](https://crates.io/crates/cadrender-image) | 0.1.0 | 0 | Loads the picture files of CAD IMAGE entities (PNG, JPEG) for cadrender |
-| 2026-11-14 10:43:34 | [harpia-eval](https://crates.io/crates/harpia-eval) | 0.3.0 | 0 | Evaluation for LLMs and datasets: harnesses, LLM-as-judge, RAG metrics, calibra… |
-| 2026-11-14 10:44:39 | [drawen-wgpu](https://crates.io/crates/drawen-wgpu) | 0.1.0 | 0 | wgpu display-list renderer for Drawen |
-| 2026-11-14 10:48:59 | [tafas](https://crates.io/crates/tafas) | 0.3.0 | 0 | Capture a video from YouTube, TikTok, X, Vimeo, Reddit, SoundCloud or Twitch in… |
-| 2026-11-14 10:52:19 | [cadrender-raster](https://crates.io/crates/cadrender-raster) | 0.1.0 | 0 | PNG output for cadrender: a tiny-skia based drawing sink and a fast PNG encoder |
-| 2026-11-14 10:53:23 | [milvaion-worker](https://crates.io/crates/milvaion-worker) | 1.1.0 | 0 | Worker SDK for Milvaion, the distributed job scheduler: run Milvaion jobs in Ru… |
-| 2026-11-14 10:53:30 | [harpia-local](https://crates.io/crates/harpia-local) | 0.3.0 | 0 | Pure-Rust local inference with candle: encoders (sequence/pair classifiers, emb… |
-| 2026-11-14 10:54:38 | [drawen-platform](https://crates.io/crates/drawen-platform) | 0.1.0 | 0 | Platform-independent window contracts for Drawen |
-| 2026-11-14 11:02:28 | [cadrender-svg](https://crates.io/crates/cadrender-svg) | 0.1.0 | 0 | SVG output for cadrender: a drawing sink that writes compact SVG |
-| 2026-11-14 11:03:30 | [harpia-train](https://crates.io/crates/harpia-train) | 0.3.0 | 0 | Fine-tuning in pure Rust on candle: encoder classifiers and cross-encoders, LoR… |
-| 2026-11-14 11:03:31 | [cadmus](https://crates.io/crates/cadmus) | 0.1.1 | 0 | A batteries-included web framework for Rust: models, admin site, REST API, migr… |
-| 2026-11-14 11:03:43 | [cadmus-cli](https://crates.io/crates/cadmus-cli) | 0.1.1 | 0 | The `cadmus` command: creates Cadmus projects and models |
-| 2026-11-14 11:04:24 | [smudge-devtools](https://crates.io/crates/smudge-devtools) | 0.0.0 | 0 | The in-app developer tools of the Smudge GUI library |
-| 2026-11-14 11:04:34 | [cargo-smudge](https://crates.io/crates/cargo-smudge) | 0.0.0 | 0 | The cargo subcommand that builds, runs and hot-patches Smudge apps |
-| 2026-11-14 11:04:39 | [drawen-platform-winit](https://crates.io/crates/drawen-platform-winit) | 0.1.0 | 0 | Winit native-window adapter for Drawen |
-| 2026-11-14 11:05:23 | [smudge-markdown](https://crates.io/crates/smudge-markdown) | 0.0.0 | 0 | Markdown rendering widgets for the Smudge GUI library |
-| 2026-11-14 11:05:32 | [smudge-android](https://crates.io/crates/smudge-android) | 0.0.0 | 0 | The Android platform layer of the Smudge GUI library |
-| 2026-11-14 11:08:24 | [noteplay](https://crates.io/crates/noteplay) | 0.1.0 | 0 | A Rust crate that generates audio from notes and musical sequences, supporting… |
-| 2026-11-14 11:08:57 | [bootvine-screen](https://crates.io/crates/bootvine-screen) | 0.1.3 | 0 | The boot screen of bootvine as data and pure functions: model, messages, comman… |
-| 2026-11-14 11:09:05 | [bootvine-openrc-link](https://crates.io/crates/bootvine-openrc-link) | 0.1.3 | 0 | The OpenRC side of bootvine: service state changes under /run/openrc turned int… |
-| 2026-11-14 11:09:12 | [bootvine-systemd-link](https://crates.io/crates/bootvine-systemd-link) | 0.1.3 | 0 | The systemd side of bootvine: the job feed over systemd's private socket, journ… |
-| 2026-11-14 11:12:40 | [cadrender-dwg-scene](https://crates.io/crates/cadrender-dwg-scene) | 0.1.0 | 0 | Turns a cadrender-dwg drawing into a cadrender scene |
-| 2026-11-14 11:13:19 | [harpia-verify](https://crates.io/crates/harpia-verify) | 0.3.0 | 0 | Grounding and fact-checking for LLM pipelines against user-trusted online sourc… |
-| 2026-11-14 11:14:39 | [drawen-servo-windows](https://crates.io/crates/drawen-servo-windows) | 0.1.0 | 0 | Windows DXGI shared-texture interop for Drawen browser embedding |
-| 2026-11-14 11:18:33 | [pdftotext-rs](https://crates.io/crates/pdftotext-rs) | 0.1.0 | 0 | Clean-room PDF text extraction (ISO 32000-2) that reads equipment manuals corre… |
+| 2026-11-14 11:22:01 | [jflib-render2d](https://crates.io/crates/jflib-render2d) | 0.2.0 | 0 | The core of JFLib's 2D renderer for CAD on jflib-gpu: a retained scene of lines… |
+| 2026-11-14 11:22:51 | [cadrender](https://crates.io/crates/cadrender) | 0.1.0 | 0 | Fast DXF and DWG to PNG and SVG renderer: open a drawing, render its sheets |
+| 2026-11-14 11:23:25 | [harpia](https://crates.io/crates/harpia) | 0.3.0 | 0 | Sharp-eyed LLM tooling in pure Rust: data curation, structured output, API clie… |
+| 2026-11-14 11:24:37 | [agentty-gpui-bench-metrics](https://crates.io/crates/agentty-gpui-bench-metrics) | 0.1.0 | 0 | Zed's bench_metrics crate, as used by agentty-gpui |
+| 2026-11-14 11:24:38 | [drawen-servo-linux](https://crates.io/crates/drawen-servo-linux) | 0.1.0 | 0 | Linux Vulkan dmabuf/EGL shared-texture interop for Drawen browser embedding |
+| 2026-11-14 11:24:40 | [agentty-gpui-util](https://crates.io/crates/agentty-gpui-util) | 0.1.0 | 0 | Zed's gpui_util crate, as used by agentty-gpui |
+| 2026-11-14 11:24:43 | [agentty-gpui-collections](https://crates.io/crates/agentty-gpui-collections) | 0.1.0 | 0 | Standard collection types used by Zed and GPUI |
+| 2026-11-14 11:24:47 | [agentty-gpui-http-client](https://crates.io/crates/agentty-gpui-http-client) | 0.1.0 | 0 | A HTTP client library for Zed and GPUI |
+| 2026-11-14 11:24:50 | [agentty-gpui-macros](https://crates.io/crates/agentty-gpui-macros) | 0.1.0 | 0 | Macros used by gpui |
+| 2026-11-14 11:33:01 | [cadrender-cli](https://crates.io/crates/cadrender-cli) | 0.1.0 | 0 | Command line tool for cadrender: render DXF and DWG sheets to PNG and SVG |
+| 2026-11-14 11:33:19 | [harpia-cli](https://crates.io/crates/harpia-cli) | 0.3.0 | 0 | The `harpia` command line: text utilities, dataset curation, chat templates, pa… |
+| 2026-11-14 11:34:34 | [jflib-gltf](https://crates.io/crates/jflib-gltf) | 0.2.0 | 0 | glTF 2.0 import for JFLib (.gltf and .glb): meshes, materials, textures, images… |
+| 2026-11-14 11:34:37 | [drawen-servo-macos](https://crates.io/crates/drawen-servo-macos) | 0.1.0 | 0 | macOS IOSurface shared-texture interop for Drawen browser embedding |
+| 2026-11-14 11:34:55 | [agentty-gpui-derive-refineable](https://crates.io/crates/agentty-gpui-derive-refineable) | 0.1.0 | 0 | A derive macro for creating refinement types in Rust |
+| 2026-11-14 11:41:58 | [acid-cat-core](https://crates.io/crates/acid-cat-core) | 0.1.0 | 0 | Serve AcidCat capabilities and events in Rust, through the MCP, HTTP and CLI bi… |
+| 2026-11-14 11:42:19 | [cel-core-nodeve](https://crates.io/crates/cel-core-nodeve) | 0.5.1 | 0 | A fork of cel-core, the Common Expression Language (CEL) in Rust, carrying fixe… |
+| 2026-11-14 11:44:38 | [drawen-servo](https://crates.io/crates/drawen-servo) | 0.1.0 | 0 | Platform selection facade for Drawen's Servo shared-texture interop |
+| 2026-11-14 11:44:54 | [jflib-render3d](https://crates.io/crates/jflib-render3d) | 0.2.0 | 0 | The core of JFLib's 3D engine on jflib-gpu: meshes, textured materials, scenes… |
+| 2026-11-14 11:45:00 | [agentty-gpui-refineable](https://crates.io/crates/agentty-gpui-refineable) | 0.1.0 | 0 | A macro for creating 'refinement' types that can be used to partially initializ… |
+| 2026-11-14 11:49:48 | [dman-proto](https://crates.io/crates/dman-proto) | 0.1.0 | 0 | Wire types shared by the dman daemon and its clients |
+| 2026-11-14 11:49:50 | [dman-search](https://crates.io/crates/dman-search) | 0.1.0 | 0 | Torrent search providers (declarative definitions), engine, parsers and result… |
+| 2026-11-14 11:49:53 | [dman-torrent](https://crates.io/crates/dman-torrent) | 0.1.0 | 0 | Minimal bencode reader and .torrent summary (name, files, info-hash) for dman |
+| 2026-11-14 11:49:54 | [dman-ytdlp](https://crates.io/crates/dman-ytdlp) | 0.1.0 | 0 | yt-dlp video engine adapter for dman |
+| 2026-11-14 11:50:00 | [dman-aria2](https://crates.io/crates/dman-aria2) | 0.1.0 | 0 | Typed aria2 JSON-RPC (WebSocket) client for dman |
+| 2026-11-14 11:54:40 | [drawen-widgets](https://crates.io/crates/drawen-widgets) | 0.1.0 | 0 | Standard widgets for Drawen |
+| 2026-11-14 11:55:05 | [agentty-gpui-scheduler](https://crates.io/crates/agentty-gpui-scheduler) | 0.1.0 | 0 | Zed's scheduler crate, as used by agentty-gpui |
+| 2026-11-14 12:00:40 | [polog](https://crates.io/crates/polog) | 0.1.0-alpha.1 | 0 | Performance-oriented structured logging facade |
+| 2026-11-14 12:03:13 | [polog-util](https://crates.io/crates/polog-util) | 0.1.0-alpha.1 | 0 | Performance-oriented structured logging facade utilities |
+| 2026-11-14 12:04:39 | [drawen-director](https://crates.io/crates/drawen-director) | 0.1.0 | 0 | Optional runtime orchestration for Drawen media playback |
+| 2026-11-14 12:05:10 | [agentty-gpui-shared-string](https://crates.io/crates/agentty-gpui-shared-string) | 0.1.0 | 0 | Zed's gpui_shared_string crate, as used by agentty-gpui |
+| 2026-11-14 12:05:10 | [pologger](https://crates.io/crates/pologger) | 0.1.0-alpha.1 | 0 | Performance-oriented structured logging facade backend |
+| 2026-11-14 12:05:47 | [dman-store](https://crates.io/crates/dman-store) | 0.1.0 | 0 | Persistent, authoritative job store for the dman daemon |
+| 2026-11-14 12:06:19 | [bedlam](https://crates.io/crates/bedlam) | 0.2.0 | 0 | Self-hosted microVM sandboxes for coding agents, placed by AMC admission |
+| 2026-11-14 12:09:04 | [fexu-cli](https://crates.io/crates/fexu-cli) | 0.1.0 | 0 | Command line for the Fexu framework |
+| 2026-11-14 12:09:24 | [fexu-admin](https://crates.io/crates/fexu-admin) | 0.1.0 | 0 | Server-rendered admin for the Fexu framework |
+| 2026-11-14 12:09:53 | [fexu-api](https://crates.io/crates/fexu-api) | 0.1.0 | 0 | HTTP runtime for the Fexu framework |
+| 2026-11-14 12:10:06 | [fexu](https://crates.io/crates/fexu) | 0.1.0 | 0 | Experimental model-first web framework |
+| 2026-11-14 12:13:01 | [minigrep_by_ani](https://crates.io/crates/minigrep_by_ani) | 0.1.0 | 0 | A lightweight version of grep tool. |
+| 2026-11-14 12:14:01 | [klibs-rules](https://crates.io/crates/klibs-rules) | 0.3.0 | 0 | Checks a Cargo workspace against the Astra-Interactive architecture rules |
+| 2026-11-14 12:14:39 | [drawen-browser](https://crates.io/crates/drawen-browser) | 0.1.0 | 0 | Browser surface and Servo integration layer for Drawen |
+| 2026-11-14 12:15:20 | [agentty-gpui-zlog](https://crates.io/crates/agentty-gpui-zlog) | 0.1.0 | 0 | Zed's zlog crate, as used by agentty-gpui |
+| 2026-11-14 12:16:04 | [dman-client](https://crates.io/crates/dman-client) | 0.1.0 | 0 | Typed async client (WebSocket JSON-RPC) for the dman daemon API |
+| 2026-11-14 12:16:31 | [vaka-sdk](https://crates.io/crates/vaka-sdk) | 0.2.0 | 0 | Rust SDK for Vaka: panics, errors, release health and events |
+| 2026-11-14 12:17:32 | [ferrite-aac](https://crates.io/crates/ferrite-aac) | 0.3.2 | 0 | Native Rust AAC-LC encoder derived from Fraunhofer FDK AAC (Ferrite) |
 
 ## Data source
 
