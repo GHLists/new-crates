@@ -8,30 +8,41 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-14 00:19 UTC
+## Latest list — 2026-11-14 01:20 UTC
 
-New crates published between 2026-11-13 23:19 UTC and 2026-11-14 00:19 UTC.
+New crates published between 2026-11-14 00:19 UTC and 2026-11-14 01:20 UTC.
 
-[Full CSV](data/new-crates-2026-11-14T00-19-53-751575Z.csv)
+[Full CSV](data/new-crates-2026-11-14T01-20-14-776974Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-13 23:20:27 | [linalloc-sys](https://crates.io/crates/linalloc-sys) | 0.1.0 | 0 | Virtual memory primitives for linalloc |
-| 2026-11-13 23:38:43 | [rskim-contract](https://crates.io/crates/rskim-contract) | 3.0.0 | 0 | Safety invariant contract and fail-open guardrail module for skim Layer 3 |
-| 2026-11-13 23:38:46 | [rskim-llm](https://crates.io/crates/rskim-llm) | 3.0.0 | 0 | LLM message model: parse/serialize Anthropic & OpenAI request bodies with conte… |
-| 2026-11-13 23:38:53 | [rskim-tokens](https://crates.io/crates/rskim-tokens) | 3.0.0 | 0 | Multi-provider token counting library for skim |
-| 2026-11-13 23:38:58 | [rskim-compress](https://crates.io/crates/rskim-compress) | 3.0.0 | 0 | Per-content-type block compression router for skim Layer-3 (BlockRouter, log co… |
-| 2026-11-13 23:39:12 | [rskim-proxy](https://crates.io/crates/rskim-proxy) | 3.0.0 | 0 | HTTP reverse proxy foundation for skim Layer 3: provider routing, SSE/chunked p… |
-| 2026-11-13 23:40:51 | [prego-cli](https://crates.io/crates/prego-cli) | 0.9.0 | 0 | Alias of the crate prego, the command-line tool for Prego by Katskill. Installs… |
-| 2026-11-13 23:50:40 | [fncosmos-auth](https://crates.io/crates/fncosmos-auth) | 0.1.0 | 0 | Sign-in for fncosmos apps: email and password, sessions and tokens, in the app'… |
-| 2026-11-13 23:56:22 | [debugbundle](https://crates.io/crates/debugbundle) | 1.0.0-alpha.1 | 0 | Safe, bounded runtime error reporting for Rust, Axum and Actix Web |
-| 2026-11-13 23:59:51 | [smooth-runtime](https://crates.io/crates/smooth-runtime) | 0.1.0 | 0 | Sans-IO Smooth Streaming (MS-SSTR) engine: a pull client (manifest fetch/refres… |
-| 2026-11-14 00:05:14 | [quickertype-js-compat](https://crates.io/crates/quickertype-js-compat) | 0.1.0 | 0 | JavaScript-exact helpers (number formatting, UTF-16 strings, V8 sort, JSON.stri… |
-| 2026-11-14 00:05:33 | [quickertype-core](https://crates.io/crates/quickertype-core) | 0.1.0 | 0 | The quicktype engine: infer types from JSON, JSON Schema and GraphQL and render… |
-| 2026-11-14 00:05:54 | [quickertype-graphql-input](https://crates.io/crates/quickertype-graphql-input) | 0.1.0 | 0 | GraphQL query + schema input for quicktype |
-| 2026-11-14 00:06:00 | [quickertype-typescript-input](https://crates.io/crates/quickertype-typescript-input) | 0.1.0 | 0 | TypeScript input for quicktype, via the TypeScript 7 native type checker |
-| 2026-11-14 00:06:32 | [quickertype](https://crates.io/crates/quickertype) | 0.1.0 | 0 | Rust port of quicktype: generate types and converters from JSON and schemas |
-| 2026-11-14 00:16:23 | [helicoid-spline](https://crates.io/crates/helicoid-spline) | 0.0.10 | 0 | Uniform cumulative B-splines on Lie groups, with O(K) control Jacobians: no_std… |
+| 2026-11-14 00:22:22 | [ferriscope-smithay](https://crates.io/crates/ferriscope-smithay) | 0.7.1+a9822e8 | 0 | Fork of smithay with a Vulkan compute renderer, for ferriscope |
+| 2026-11-14 00:24:40 | [fexu-core](https://crates.io/crates/fexu-core) | 0.1.0 | 0 | Shared types for the Fexu framework |
+| 2026-11-14 00:25:36 | [fexu-macros](https://crates.io/crates/fexu-macros) | 0.1.0 | 0 | Derive macros for Fexu models |
+| 2026-11-14 00:25:42 | [fexu-cache](https://crates.io/crates/fexu-cache) | 0.1.0 | 0 | Process-local cache for the Fexu framework |
+| 2026-11-14 00:25:49 | [fexu-static](https://crates.io/crates/fexu-static) | 0.1.0 | 0 | Static file serving for the Fexu framework |
+| 2026-11-14 00:25:57 | [fexu-middleware](https://crates.io/crates/fexu-middleware) | 0.1.0 | 0 | HTTP middleware for the Fexu framework |
+| 2026-11-14 00:27:06 | [ferriscope](https://crates.io/crates/ferriscope) | 0.1.0 | 0 | A Rust port of gamescope: a headless streaming compositor, as a library and a b… |
+| 2026-11-14 00:31:32 | [blite](https://crates.io/crates/blite) | 0.4.0 | 0 | Boring Local Information Telling Engine - tells you things you might want to kn… |
+| 2026-11-14 00:33:51 | [openai-responses-api](https://crates.io/crates/openai-responses-api) | 0.1.0 | 0 | Typed client for the OpenAI Responses API: input and output items, HTTP client,… |
+| 2026-11-14 00:36:12 | [fexu-mail](https://crates.io/crates/fexu-mail) | 0.1.0 | 0 | Mail delivery for the Fexu framework |
+| 2026-11-14 00:40:06 | [harnessmux](https://crates.io/crates/harnessmux) | 0.1.1 | 0 | Run coding-agent CLI sessions (Claude, Codex, Copilot, Gemini, Kilo and more) o… |
+| 2026-11-14 00:45:45 | [fexu-db](https://crates.io/crates/fexu-db) | 0.1.0 | 0 | Database access for the Fexu framework |
+| 2026-11-14 00:53:52 | [unsworn](https://crates.io/crates/unsworn) | 0.0.1 | 0 | An API router with allegiance to no language |
+| 2026-11-14 00:55:04 | [fexu-migrations](https://crates.io/crates/fexu-migrations) | 0.1.0 | 0 | Schema migrations for the Fexu framework |
+| 2026-11-14 00:56:56 | [unsworn-core](https://crates.io/crates/unsworn-core) | 0.0.1 | 0 | API router core for unsworn |
+| 2026-11-14 00:58:24 | [unsworn-proto](https://crates.io/crates/unsworn-proto) | 0.0.1 | 0 | API router proto for unsworn |
+| 2026-11-14 01:02:38 | [gitterrace](https://crates.io/crates/gitterrace) | 0.0.0 | 0 | Reserved for gitterrace, a local, read-only git browser. Install it from https:… |
+| 2026-11-14 01:02:40 | [git-terrace](https://crates.io/crates/git-terrace) | 0.0.0 | 0 | Reserved for gitterrace, a local, read-only git browser. Install it from https:… |
+| 2026-11-14 01:03:20 | [algoscope](https://crates.io/crates/algoscope) | 0.1.0 | 0 | An interactive terminal visualizer for sorting and pathfinding algorithms, with… |
+| 2026-11-14 01:04:32 | [sunns-hearth-store-pg](https://crates.io/crates/sunns-hearth-store-pg) | 0.5.0 | 0 | Postgres implementation of the store traits. |
+| 2026-11-14 01:05:25 | [starfire-protocol](https://crates.io/crates/starfire-protocol) | 0.0.0 | 0 | Clean-room Rust wire layer for the Sunshine/GameStream protocol: pairing crypto… |
+| 2026-11-14 01:07:52 | [tendir](https://crates.io/crates/tendir) | 0.0.0 | 0 | Placeholder reserving the tendir name: The tendir CLI, one static binary, and t… |
+| 2026-11-14 01:07:54 | [tendir-cli](https://crates.io/crates/tendir-cli) | 0.0.0 | 0 | Placeholder reserving the tendir-cli name: CLI for the tendir task manager. No… |
+| 2026-11-14 01:07:57 | [tendir-server](https://crates.io/crates/tendir-server) | 0.0.0 | 0 | Placeholder reserving the tendir-server name: Sync relay server for tendir. No… |
+| 2026-11-14 01:11:09 | [fexu-auth](https://crates.io/crates/fexu-auth) | 0.1.0 | 0 | Sessions and passwords for the Fexu framework |
+| 2026-11-14 01:17:09 | [rustrade-pricing](https://crates.io/crates/rustrade-pricing) | 0.22.0 | 0 | Option pricing models for Rustrade: American and European price, implied volati… |
+| 2026-11-14 01:18:13 | [fexu-storage](https://crates.io/crates/fexu-storage) | 0.1.0 | 0 | File storage for the Fexu framework |
 
 ## Data source
 
