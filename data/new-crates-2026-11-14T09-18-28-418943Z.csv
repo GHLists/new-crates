@@ -1,0 +1,39 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-14T08:19:04.96867Z,omega-cognitive-kernel,0.5.6,0,0,https://github.com/4jb5nkddkb-dot/omega-cognitive-kernel,Online strategy-patch runtime: training-free RuleEffect adaptation with audit and rollback
+2026-11-14T08:26:10.842464Z,pico-echo,1.0.0,0,0,https://github.com/PhotoDotPi/pico,"A modern, backward-compatible replacement for the Unix echo utility"
+2026-11-14T08:26:29.558392Z,carry,0.2.1,0,0,https://github.com/liagha/carry,Context-aware conversion traits Carry and CarryAsync
+2026-11-14T08:30:41.434376Z,fensu-facts,0.1.0,0,0,https://github.com/sqlstack-io/fensu,"Python source facts for Fensu: parsed modules, imports, symbols and file inventory"
+2026-11-14T08:31:06.578135Z,fensu-native,0.1.0,0,0,https://github.com/sqlstack-io/fensu,"Fensu's core rule engine and Python rules, usable from Rust without the Python bindings"
+2026-11-14T08:35:34.121542Z,cw32f003-bsp,0.1.0,0,0,https://github.com/SunWithCloude/cw32-bsp,Generic minimal BSP for the CW32F003 Cortex-M0+ MCU on embassy-cw32
+2026-11-14T08:35:54.093341Z,cw32f020-bsp,0.1.0,0,0,https://github.com/SunWithCloude/cw32-bsp,Generic minimal BSP for the CW32F020 Cortex-M0+ MCU on embassy-cw32
+2026-11-14T08:36:16.969217Z,cw32f030-bsp,0.1.0,0,0,https://github.com/SunWithCloude/cw32-bsp,Generic minimal BSP for the CW32F030 Cortex-M0+ MCU on embassy-cw32
+2026-11-14T08:36:32.519995Z,cw32l010-bsp,0.1.0,0,0,https://github.com/SunWithCloude/cw32-bsp,Generic minimal BSP for the CW32L010 Cortex-M0+ MCU on embassy-cw32
+2026-11-14T08:36:47.639431Z,cw32l011-bsp,0.1.0,0,0,https://github.com/SunWithCloude/cw32-bsp,Generic minimal BSP for the CW32L011 Cortex-M0+ MCU on embassy-cw32
+2026-11-14T08:45:12.691703Z,tekmor-core,1.1.0-rc2,0,0,,"Pure routing types and scoring logic for tekmor; no storage, process, or network IO"
+2026-11-14T08:45:54.290818Z,tekmor,1.1.0-rc2,0,0,https://github.com/autonomic-ai-dev/tekmor,"Fast local MCP router for agents, skills, rules, and memory"
+2026-11-14T08:55:31.354534Z,xlfn-kernel,0.1.0,0,0,https://github.com/nakashima-hikaru/xlfn,Implementation-only ownership and concurrency primitives for xlfn
+2026-11-14T08:57:03.417064Z,cw32l012-bsp,0.1.0,0,0,https://github.com/SunWithCloude/cw32-bsp,Generic minimal BSP for the CW32L012 Cortex-M0+ MCU on embassy-cw32
+2026-11-14T08:57:13.926129Z,cw32l031-bsp,0.1.0,0,0,https://github.com/SunWithCloude/cw32-bsp,Generic minimal BSP for the CW32L031 Cortex-M0+ MCU on embassy-cw32
+2026-11-14T08:59:39.449943Z,rekon-core,0.0.1,0,0,https://github.com/rekon-rs/rekon,Effort accounting for agentic work: reconstruct a two-axis ledger (compute cost + human attention) from the trail you already leave.
+2026-11-14T08:59:50.416623Z,kernova,0.0.1,0,0,https://github.com/hupe1980/kernova,"Placeholder for kernova, a general-purpose, Linux-inspired operating system written in Rust. Nothing usable yet."
+2026-11-14T08:59:51.726293Z,rekon-connectors,0.0.1,0,0,https://github.com/rekon-rs/rekon,"Connectors for rekon: git, ccusage, calendar, GitLab, and Mattermost sources that produce events for the rekon pipeline."
+2026-11-14T09:00:00.962895Z,rekon,0.0.1,0,0,https://github.com/rekon-rs/rekon,Reconstruct where your time and compute went: account for agentic work on two axes and review a daily ledger instead of keeping a timesheet.
+2026-11-14T09:02:00.820908Z,mahbot-rlx-libm,0.2.18-mahbot.3,0,0,https://github.com/edezhic/mahbot-rlx,"glibc 2.43's libm (x86_64 FMA variants) reproduced bit-for-bit in pure Rust: exp, log, pow, trig, inverse trig, hyperbolic, erf, gamma, f32 and f64"
+2026-11-14T09:02:36.063516Z,cw32l052-bsp,0.1.0,0,0,https://github.com/SunWithCloude/cw32-bsp,Generic minimal BSP for the CW32L052 Cortex-M0+ MCU on embassy-cw32
+2026-11-14T09:03:10.513176Z,mahbot-rlx-fastmath,0.2.18-mahbot.3,0,0,https://github.com/edezhic/mahbot-rlx,"Accurate vectorized f32 exp / log / tanh in pure Rust (NEON on aarch64): <= 1.33 ulp over every f32, faster than the platform libm"
+2026-11-14T09:04:21.168278Z,mahbot-rlx-search,0.2.18-mahbot.3,0,0,https://github.com/edezhic/mahbot-rlx,"Host-side sequence search shared by every decoder: argmax/top-k/log-softmax, beam search, CTC greedy/prefix-beam/forced alignment over log and tropical semirings"
+2026-11-14T09:04:45.129351Z,snapfire_time,0.1.0,0,0,https://github.com/excsn/snapfire,"Time zones and calendar time for SnapFire, from a compiled time zone database or the host's own, as JavaScript reads them"
+2026-11-14T09:05:34.01848Z,mahbot-rlx-linux-ref,0.2.18-mahbot.3,0,0,https://github.com/edezhic/mahbot-rlx,"NumPy/SciPy's Linux x86-64 reference numerics in pure Rust, bit for bit: OpenBLAS 0.3.30 Haswell kernels, its bundled reference LAPACK, x86-simd-sort AVX2 argsort, x87 extended arithmetic"
+2026-11-14T09:06:45.472473Z,mahbot-rlx-pocketfft,0.2.18-mahbot.3,0,0,https://github.com/edezhic/mahbot-rlx,"scipy.fft (pocketfft) reproduced bit-for-bit in pure Rust, with selectable FMA contraction and twiddle rounding"
+2026-11-14T09:13:08.85363Z,cw32l083-bsp,0.1.0,0,0,https://github.com/SunWithCloude/cw32-bsp,Generic minimal BSP for the CW32L083 Cortex-M0+ MCU on embassy-cw32
+2026-11-14T09:14:51.748795Z,karbon-ui-macros,0.1.0,0,0,https://github.com/larevuegeek/karbon-ui,"Compiler of karbon-ui templates (.ui) and CSS: procedural macros ui!, ui_file!, styles!, css_file!"
+2026-11-14T09:15:09.420184Z,ravenrs-dfe,27.1.28,0,0,https://github.com/alexkads/RavenRS,"BETA, proof of concept: what Brazilian electronic fiscal documents share in RavenRS (XML, C14N, XMLDSig, transport, sandbox handlers, test ICP-Brasil certificates). Not homologated."
+2026-11-14T09:15:12.526079Z,ravenrs-pagamento,27.1.28,0,0,https://github.com/alexkads/RavenRS,"BETA, proof of concept: electronic payments for a Brazilian point of sale, with a power-loss journal, a provider simulator, the ABECS pinpad protocol and IntPos files. Never tested against a real pro…"
+2026-11-14T09:15:14.577775Z,ravenrs-pdf,27.1.28,0,0,https://github.com/alexkads/RavenRS,"Headless PDF engine for RavenRS: reading (encryption included), writing, merging and splitting, attachments, fonts and page rendering to pixels, in pure Rust."
+2026-11-14T09:15:16.045558Z,ravenrs-perifericos,27.1.28,0,0,https://github.com/alexkads/RavenRS,"Commercial automation peripherals for RavenRS as data: versioned driver manifests for printers, label printers, pinpads and scanners, with signed catalogs and rollback. Drivers carry no code."
+2026-11-14T09:15:21.648115Z,karbon-ui,0.1.0,0,0,https://github.com/larevuegeek/karbon-ui,"Native desktop UI library for Rust: HTML templates and CSS compiled to native widgets, no webview (Windows, macOS, Linux)"
+2026-11-14T09:15:22.361053Z,ravenrs-word,27.1.28,0,0,https://github.com/alexkads/RavenRS,"Headless word-processing engine for RavenRS: a document model with styles, lists, tables, notes and tracked changes, and DOCX, DOC, RTF, ODT, HTML, Markdown, LaTeX and plain text reading and writing."
+2026-11-14T09:16:11.12861Z,rmp-bytes,0.1.0,0,0,https://github.com/naughie/nvim-api-rs,MessagePack encoding and decoding with caller-selected buffers and I/O
+2026-11-14T09:16:25.750985Z,test_hook_macro,0.1.0,0,0,https://github.com/smoelius/test_hook,Proc macros for `test_hook`
+2026-11-14T09:16:27.329336Z,test_hook,0.1.0,0,0,https://github.com/smoelius/test_hook,Control how test executables are run
+2026-11-14T09:16:29.866309Z,nvim-api-sys,0.12.6,0,0,https://github.com/naughie/nvim-api-rs,"Generated Neovim API function signatures, UI events, and type metadata"

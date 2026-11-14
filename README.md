@@ -8,33 +8,52 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-14 08:18 UTC
+## Latest list — 2026-11-14 09:18 UTC
 
-New crates published between 2026-11-14 07:20 UTC and 2026-11-14 08:18 UTC.
+New crates published between 2026-11-14 08:18 UTC and 2026-11-14 09:18 UTC.
 
-[Full CSV](data/new-crates-2026-11-14T08-18-25-236466Z.csv)
+[Full CSV](data/new-crates-2026-11-14T09-18-28-418943Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-14 07:20:50 | [turul-mcp-ext-skills](https://crates.io/crates/turul-mcp-ext-skills) | 0.1.0 | 0 | MCP Skills extension (io.modelcontextprotocol/skills, SEP-2640) — wire types, s… |
-| 2026-11-14 07:23:54 | [fela](https://crates.io/crates/fela) | 1.0.0 | 0 | A fast, keyboard-driven image viewer. |
-| 2026-11-14 07:24:59 | [pod-actions-results](https://crates.io/crates/pod-actions-results) | 0.0.0 | 0 | The ArtifactService of the results API of GitHub Actions (twirp JSON) and the b… |
-| 2026-11-14 07:26:24 | [a2ui-runtime](https://crates.io/crates/a2ui-runtime) | 0.1.0 | 0 | Renderer-side runtime for the A2UI v1.0 protocol. |
-| 2026-11-14 07:37:04 | [lightsearch](https://crates.io/crates/lightsearch) | 0.1.0 | 0 | An embedded full-text search engine database in Rust: ES-style documents, inver… |
-| 2026-11-14 07:38:13 | [seiza-image-ser](https://crates.io/crates/seiza-image-ser) | 0.1.0 | 0 | Seekable raw SER image sequences for the Seiza astrophotography toolkit |
-| 2026-11-14 07:40:11 | [jobkeep-macros](https://crates.io/crates/jobkeep-macros) | 0.1.0 | 0 | Procedural macros for JobKeep (#[job], #[recurring]) |
-| 2026-11-14 07:40:15 | [jobkeep-core](https://crates.io/crates/jobkeep-core) | 0.1.0 | 0 | Core types and traits for JobKeep: jobs, states, storage trait, cron parsing |
-| 2026-11-14 07:40:18 | [jobkeep-memory](https://crates.io/crates/jobkeep-memory) | 0.1.0 | 0 | In-memory storage backend for JobKeep (tests and local development) |
-| 2026-11-14 07:40:19 | [git-process](https://crates.io/crates/git-process) | 0.1.0 | 0 | A hardened `git` subprocess: one invocation prefix, typed object ids, retried s… |
-| 2026-11-14 07:40:21 | [jobkeep-client](https://crates.io/crates/jobkeep-client) | 0.1.0 | 0 | Enqueue, schedule and manage recurring JobKeep jobs (Hangfire BackgroundJob / R… |
-| 2026-11-14 07:40:21 | [jobkeep-dashboard](https://crates.io/crates/jobkeep-dashboard) | 0.1.0 | 0 | Web dashboard for JobKeep: queues, job states, retries, recurring jobs, servers |
-| 2026-11-14 07:40:26 | [git-evidence](https://crates.io/crates/git-evidence) | 0.1.0 | 0 | Numbers recorded per Git commit, kept in Git notes; show, trend, diff and SQL |
-| 2026-11-14 07:42:52 | [arto-mcp](https://crates.io/crates/arto-mcp) | 0.0.0 | 0 | A Model Context Protocol server that lets an agent show files in Arto and read… |
-| 2026-11-14 07:49:54 | [refpact-core](https://crates.io/crates/refpact-core) | 0.1.0 | 0 | The language-neutral core of refpact: rules evaluated over facts that a front e… |
-| 2026-11-14 07:50:01 | [refpact](https://crates.io/crates/refpact) | 0.1.0 | 0 | Architecture tests for Rust: rules about what code may depend on, checked as or… |
-| 2026-11-14 08:07:13 | [uteke-privacy](https://crates.io/crates/uteke-privacy) | 0.24.0 | 0 | Secret detector and redactor shared by uteke and tole: AWS, GitHub, npm, Slack,… |
-| 2026-11-14 08:16:02 | [sarangi-macros](https://crates.io/crates/sarangi-macros) | 0.1.0 | 0 | Proc macros for sarangi: #[derive(Store)] and #[tracking]. Re-exported by the s… |
-| 2026-11-14 08:16:42 | [sarangi](https://crates.io/crates/sarangi) | 0.1.0 | 0 | Pinia/Zustand-style reactive state for GPUI: field-level signals, stores, gette… |
+| 2026-11-14 08:19:04 | [omega-cognitive-kernel](https://crates.io/crates/omega-cognitive-kernel) | 0.5.6 | 0 | Online strategy-patch runtime: training-free RuleEffect adaptation with audit a… |
+| 2026-11-14 08:26:10 | [pico-echo](https://crates.io/crates/pico-echo) | 1.0.0 | 0 | A modern, backward-compatible replacement for the Unix echo utility |
+| 2026-11-14 08:26:29 | [carry](https://crates.io/crates/carry) | 0.2.1 | 0 | Context-aware conversion traits Carry and CarryAsync |
+| 2026-11-14 08:30:41 | [fensu-facts](https://crates.io/crates/fensu-facts) | 0.1.0 | 0 | Python source facts for Fensu: parsed modules, imports, symbols and file invent… |
+| 2026-11-14 08:31:06 | [fensu-native](https://crates.io/crates/fensu-native) | 0.1.0 | 0 | Fensu's core rule engine and Python rules, usable from Rust without the Python… |
+| 2026-11-14 08:35:34 | [cw32f003-bsp](https://crates.io/crates/cw32f003-bsp) | 0.1.0 | 0 | Generic minimal BSP for the CW32F003 Cortex-M0+ MCU on embassy-cw32 |
+| 2026-11-14 08:35:54 | [cw32f020-bsp](https://crates.io/crates/cw32f020-bsp) | 0.1.0 | 0 | Generic minimal BSP for the CW32F020 Cortex-M0+ MCU on embassy-cw32 |
+| 2026-11-14 08:36:16 | [cw32f030-bsp](https://crates.io/crates/cw32f030-bsp) | 0.1.0 | 0 | Generic minimal BSP for the CW32F030 Cortex-M0+ MCU on embassy-cw32 |
+| 2026-11-14 08:36:32 | [cw32l010-bsp](https://crates.io/crates/cw32l010-bsp) | 0.1.0 | 0 | Generic minimal BSP for the CW32L010 Cortex-M0+ MCU on embassy-cw32 |
+| 2026-11-14 08:36:47 | [cw32l011-bsp](https://crates.io/crates/cw32l011-bsp) | 0.1.0 | 0 | Generic minimal BSP for the CW32L011 Cortex-M0+ MCU on embassy-cw32 |
+| 2026-11-14 08:45:12 | [tekmor-core](https://crates.io/crates/tekmor-core) | 1.1.0-rc2 | 0 | Pure routing types and scoring logic for tekmor; no storage, process, or networ… |
+| 2026-11-14 08:45:54 | [tekmor](https://crates.io/crates/tekmor) | 1.1.0-rc2 | 0 | Fast local MCP router for agents, skills, rules, and memory |
+| 2026-11-14 08:55:31 | [xlfn-kernel](https://crates.io/crates/xlfn-kernel) | 0.1.0 | 0 | Implementation-only ownership and concurrency primitives for xlfn |
+| 2026-11-14 08:57:03 | [cw32l012-bsp](https://crates.io/crates/cw32l012-bsp) | 0.1.0 | 0 | Generic minimal BSP for the CW32L012 Cortex-M0+ MCU on embassy-cw32 |
+| 2026-11-14 08:57:13 | [cw32l031-bsp](https://crates.io/crates/cw32l031-bsp) | 0.1.0 | 0 | Generic minimal BSP for the CW32L031 Cortex-M0+ MCU on embassy-cw32 |
+| 2026-11-14 08:59:39 | [rekon-core](https://crates.io/crates/rekon-core) | 0.0.1 | 0 | Effort accounting for agentic work: reconstruct a two-axis ledger (compute cost… |
+| 2026-11-14 08:59:50 | [kernova](https://crates.io/crates/kernova) | 0.0.1 | 0 | Placeholder for kernova, a general-purpose, Linux-inspired operating system wri… |
+| 2026-11-14 08:59:51 | [rekon-connectors](https://crates.io/crates/rekon-connectors) | 0.0.1 | 0 | Connectors for rekon: git, ccusage, calendar, GitLab, and Mattermost sources th… |
+| 2026-11-14 09:00:00 | [rekon](https://crates.io/crates/rekon) | 0.0.1 | 0 | Reconstruct where your time and compute went: account for agentic work on two a… |
+| 2026-11-14 09:02:00 | [mahbot-rlx-libm](https://crates.io/crates/mahbot-rlx-libm) | 0.2.18-mahbot.3 | 0 | glibc 2.43's libm (x86_64 FMA variants) reproduced bit-for-bit in pure Rust: ex… |
+| 2026-11-14 09:02:36 | [cw32l052-bsp](https://crates.io/crates/cw32l052-bsp) | 0.1.0 | 0 | Generic minimal BSP for the CW32L052 Cortex-M0+ MCU on embassy-cw32 |
+| 2026-11-14 09:03:10 | [mahbot-rlx-fastmath](https://crates.io/crates/mahbot-rlx-fastmath) | 0.2.18-mahbot.3 | 0 | Accurate vectorized f32 exp / log / tanh in pure Rust (NEON on aarch64): <= 1.3… |
+| 2026-11-14 09:04:21 | [mahbot-rlx-search](https://crates.io/crates/mahbot-rlx-search) | 0.2.18-mahbot.3 | 0 | Host-side sequence search shared by every decoder: argmax/top-k/log-softmax, be… |
+| 2026-11-14 09:04:45 | [snapfire_time](https://crates.io/crates/snapfire_time) | 0.1.0 | 0 | Time zones and calendar time for SnapFire, from a compiled time zone database o… |
+| 2026-11-14 09:05:34 | [mahbot-rlx-linux-ref](https://crates.io/crates/mahbot-rlx-linux-ref) | 0.2.18-mahbot.3 | 0 | NumPy/SciPy's Linux x86-64 reference numerics in pure Rust, bit for bit: OpenBL… |
+| 2026-11-14 09:06:45 | [mahbot-rlx-pocketfft](https://crates.io/crates/mahbot-rlx-pocketfft) | 0.2.18-mahbot.3 | 0 | scipy.fft (pocketfft) reproduced bit-for-bit in pure Rust, with selectable FMA… |
+| 2026-11-14 09:13:08 | [cw32l083-bsp](https://crates.io/crates/cw32l083-bsp) | 0.1.0 | 0 | Generic minimal BSP for the CW32L083 Cortex-M0+ MCU on embassy-cw32 |
+| 2026-11-14 09:14:51 | [karbon-ui-macros](https://crates.io/crates/karbon-ui-macros) | 0.1.0 | 0 | Compiler of karbon-ui templates (.ui) and CSS: procedural macros ui!, ui_file!,… |
+| 2026-11-14 09:15:09 | [ravenrs-dfe](https://crates.io/crates/ravenrs-dfe) | 27.1.28 | 0 | BETA, proof of concept: what Brazilian electronic fiscal documents share in Rav… |
+| 2026-11-14 09:15:12 | [ravenrs-pagamento](https://crates.io/crates/ravenrs-pagamento) | 27.1.28 | 0 | BETA, proof of concept: electronic payments for a Brazilian point of sale, with… |
+| 2026-11-14 09:15:14 | [ravenrs-pdf](https://crates.io/crates/ravenrs-pdf) | 27.1.28 | 0 | Headless PDF engine for RavenRS: reading (encryption included), writing, mergin… |
+| 2026-11-14 09:15:16 | [ravenrs-perifericos](https://crates.io/crates/ravenrs-perifericos) | 27.1.28 | 0 | Commercial automation peripherals for RavenRS as data: versioned driver manifes… |
+| 2026-11-14 09:15:21 | [karbon-ui](https://crates.io/crates/karbon-ui) | 0.1.0 | 0 | Native desktop UI library for Rust: HTML templates and CSS compiled to native w… |
+| 2026-11-14 09:15:22 | [ravenrs-word](https://crates.io/crates/ravenrs-word) | 27.1.28 | 0 | Headless word-processing engine for RavenRS: a document model with styles, list… |
+| 2026-11-14 09:16:11 | [rmp-bytes](https://crates.io/crates/rmp-bytes) | 0.1.0 | 0 | MessagePack encoding and decoding with caller-selected buffers and I/O |
+| 2026-11-14 09:16:25 | [test_hook_macro](https://crates.io/crates/test_hook_macro) | 0.1.0 | 0 | Proc macros for `test_hook` |
+| 2026-11-14 09:16:27 | [test_hook](https://crates.io/crates/test_hook) | 0.1.0 | 0 | Control how test executables are run |
+| 2026-11-14 09:16:29 | [nvim-api-sys](https://crates.io/crates/nvim-api-sys) | 0.12.6 | 0 | Generated Neovim API function signatures, UI events, and type metadata |
 
 ## Data source
 
