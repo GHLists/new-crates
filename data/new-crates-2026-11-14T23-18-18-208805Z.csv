@@ -1,0 +1,52 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-14T22:20:55.142468Z,qontain,0.1.0,0,0,https://github.com/albyte-ai/qontain,"Run AI agents like untrusted code: own kernel, no network, a broker for every request"
+2026-11-14T22:22:27.789825Z,valverig-nam,0.0.2,0,0,https://github.com/ValveRig/valverig-nam,"Pure-Rust Neural Amp Modeler (.nam) inference, allocation-free in the audio callback"
+2026-11-14T22:22:55.026118Z,depscout-core,0.0.0,0,0,https://github.com/HarpeLm/DepScout,Core domain types and analysis orchestration for Dep Scout
+2026-11-14T22:22:56.640745Z,depscout-advisory,0.0.0,0,0,https://github.com/HarpeLm/DepScout,RustSec advisory database access and caching for Dep Scout
+2026-11-14T22:22:56.990415Z,depscout-cargo,0.0.0,0,0,https://github.com/HarpeLm/DepScout,Cargo manifest and lockfile parsing for Dep Scout
+2026-11-14T22:22:57.546493Z,depscout-report,0.0.0,0,0,https://github.com/HarpeLm/DepScout,"Text, JSON and SARIF report rendering for Dep Scout"
+2026-11-14T22:22:58.579728Z,depscout,0.0.0,0,0,https://github.com/HarpeLm/DepScout,"Understand every dependency in your Rust project: advisories, unused dependencies, licenses, versions and why each one is there"
+2026-11-14T22:28:14.0227Z,sysreflect-core,0.1.0,0,0,https://github.com/ggdev-ops/lmsafe,"System reflection: host telemetry (CPU, memory, network, processes)"
+2026-11-14T22:28:19.874662Z,sysreflect-model,0.1.0,0,0,https://github.com/ggdev-ops/lmsafe,"Model and media reflection: family detection, binary-header parsing, capability inference"
+2026-11-14T22:28:28.316326Z,lmsafe-zone,0.1.0,0,0,https://github.com/ggdev-ops/lmsafe,Safe Zone storage plus the single admission rule for model loading
+2026-11-14T22:28:36.924766Z,lmsafe-ffi,0.1.0,0,0,https://github.com/ggdev-ops/lmsafe,C FFI bindings for lmsafe (liblmsafe.so)
+2026-11-14T22:28:48.954356Z,lmsafe-cli,0.1.0,0,0,https://github.com/ggdev-ops/lmsafe,Headless lmsafe: one-shot telemetry snapshot and model inspection
+2026-11-14T22:32:13.138266Z,mpi-rt-sys,0.1.0,0,0,https://github.com/tensor4all/rsmpi-rt,Low-level Rust bindings to MPI via MPIABI dynamic loading
+2026-11-14T22:35:01.309407Z,rsmpi-sys,0.2.4,0,0,https://github.com/tensor4all/rsmpi-rt,Message Passing Interface bindings for Rust
+2026-11-14T22:35:09.618506Z,rsmpi-rt,0.8.2,0,0,https://github.com/tensor4all/rsmpi-rt,Message Passing Interface bindings for Rust
+2026-11-14T22:38:49.24994Z,ff3,0.1.0,0,0,https://github.com/benjdod/ff3,FF3 and FF3-1 format-preserving encryption
+2026-11-14T22:40:13.289483Z,rust-nix-template,0.1.0,0,0,https://github.com/Ghost-Nix-Syndicate/rust-nix-template,A simple Rust project using Nix
+2026-11-14T22:40:44.848536Z,lmsafe-tui,0.1.0,0,0,https://github.com/ggdev-ops/lmsafe,Terminal dashboard for lmsafe telemetry and model admission control
+2026-11-14T22:41:03.705762Z,bytepeel-core,0.1.1,0,0,https://github.com/pinta365/bytepeel,"Zero-dependency recursive decoder and editor for encoded and binary data: hex, base64, PEM, JWT, gzip/zstd, DER/ASN.1, CBOR, MessagePack and schemaless protobuf, with confidence-ranked interpretations"
+2026-11-14T22:41:09.647689Z,bytepeel,0.1.1,0,0,https://github.com/pinta365/bytepeel,"Peel layers of encoding off binary data (hex, base64, PEM, JWT, gzip, zstd, DER/ASN.1, CBOR, MessagePack, protobuf), edit it in place, and serve it to AI agents over MCP"
+2026-11-14T22:47:37.70972Z,safe-http-telemetry,0.1.0,0,0,https://github.com/sylvainTIASSOU/safe-http-telemetry,"Safe, bounded HTTP telemetry for Axum, tracing, OpenTelemetry, and Grafana Loki"
+2026-11-14T22:50:09.436138Z,ferroui-designer-core,0.5.0,0,0,https://github.com/wieslawsoltes/FerroUI,"Source-preserving XAML document, syntax, transactions and history for FerroUI visual designers"
+2026-11-14T22:50:11.965417Z,ferroui-designer-animation,0.5.0,0,0,https://github.com/wieslawsoltes/FerroUI,"Portable timeline authoring, deterministic animation sampling and XAML animation interchange for FerroUI designers"
+2026-11-14T22:50:13.929983Z,voltaic-lattice,0.2.0,0,0,https://github.com/Industrial/voltaic,"Lattice: the inference engine for the Voltaic compiler — types, effect rows, ownership modes and refinements."
+2026-11-14T22:50:14.383771Z,ferroui-designer-collaboration,0.5.0,0,0,https://github.com/wieslawsoltes/FerroUI,"Transport-independent replicated XAML designer model, synchronization and presence"
+2026-11-14T22:50:16.929666Z,ferroui-designer-project,0.5.0,0,0,https://github.com/wieslawsoltes/FerroUI,"Portable FerroUI solution discovery, document buffers, resource URIs and cancellable build tasks"
+2026-11-14T22:50:19.26471Z,ferroui-designer-language,0.5.0,0,0,https://github.com/wieslawsoltes/FerroUI,XAML language services and stdio language server for FerroUI visual designers
+2026-11-14T22:56:59.088718Z,uuid58,0.1.0,0,0,https://github.com/nakanoasaservice/uuid58,"Encode UUIDs as fixed-length, order-preserving 22-character Base58 strings"
+2026-11-14T22:57:33.12884Z,sageant-lexical,0.0.0,0,0,https://github.com/ThinkersJournal/sageant,Name reserved for SageAnt; not yet released.
+2026-11-14T22:57:58.95524Z,sageant-persistant,0.0.0,0,0,https://github.com/ThinkersJournal/sageant,Name reserved for SageAnt; not yet released.
+2026-11-14T22:58:07.907817Z,texshelf-core,0.1.0,0,0,https://github.com/texshelf/texshelf,"Manifest, index and download logic shared by the texshelf tools"
+2026-11-14T22:58:19.86753Z,texshelf,0.1.0,0,0,https://github.com/texshelf/texshelf,Start LaTeX and Typst projects from templates
+2026-11-14T22:58:25.431138Z,sageant-mcp,0.0.0,0,0,https://github.com/ThinkersJournal/sageant,Name reserved for SageAnt; not yet released.
+2026-11-14T22:58:34.091042Z,valverig-core,0.0.2,0,0,https://github.com/ValveRig/valverig-core,"The ValveRig engine: a rack of modules, the controls on it, presets in and out, and an allocation-free process() that runs anywhere"
+2026-11-14T22:58:50.427795Z,sageant-cli,0.0.0,0,0,https://github.com/ThinkersJournal/sageant,Name reserved for SageAnt; not yet released.
+2026-11-14T22:58:59.163087Z,ggitignore,0.1.0,0,0,https://github.com/jbene445/ggitignore,ggitignore for github gitignore templates
+2026-11-14T23:01:22.726636Z,ferroui-designer-tools,0.5.0,0,0,https://github.com/wieslawsoltes/FerroUI,"Portable panel layout adapters, property metadata, selection geometry and manipulation plans for FerroUI designers"
+2026-11-14T23:01:36.241299Z,lifetivation-pdf,0.1.0,0,0,https://github.com/roksprogar/lifetivation-pdf,"HTML/CSS to PDF rendering in pure Rust, built for paged media."
+2026-11-14T23:02:06.373259Z,ferroui-media,0.5.0,0,0,https://github.com/wieslawsoltes/FerroUI,"Shared frame, event and renderer-host contracts for portable media"
+2026-11-14T23:05:25.18394Z,xyz-node,0.1.1,0,0,https://github.com/ejfkdev/xyz-node,"Peer nodes for xyz: discoverable local MCP endpoints over unix sockets (one definition, four forms)"
+2026-11-14T23:09:26.388661Z,rift-plugin,0.1.5,0,0,https://github.com/Jotrorox/rift,Guest SDK for Rift WebAssembly plugins (rift:plugin@0.1.5)
+2026-11-14T23:10:01.052501Z,xc,0.0.0,0,0,https://github.com/zx0r/xc,Ultra fast shell history engine
+2026-11-14T23:10:49.814431Z,hanafubuki-agent-compression,0.4.0,0,0,https://github.com/licyk/hanafubuki-agent,"Model-driven hierarchical context compression for hanafubuki-agent, ported from billion-context's acp-kernel"
+2026-11-14T23:10:54.202848Z,hanafubuki-agent-sandbox,0.4.0,0,0,https://github.com/licyk/hanafubuki-agent,"The sandbox of hanafubuki-agent's commands: read-only, workspace-write or full access, enforced by Landlock and seccomp on Linux, by Seatbelt on macOS and by a restricted token on Windows"
+2026-11-14T23:10:54.989262Z,hanafubuki-agent-update,0.4.0,0,0,https://github.com/licyk/hanafubuki-agent,"The hanafubuki-agent binary's self-update: the release lookup, the version rules, the installation's kind, and the download, verification and replacement of the executable"
+2026-11-14T23:10:59.604559Z,hanafubuki-agent-packages,0.4.0,0,0,https://github.com/licyk/hanafubuki-agent,"Installed plugins for hanafubuki-agent: Codex-compatible packages and marketplaces, a versioned cache, staged installs and the install record"
+2026-11-14T23:11:00.380927Z,hanafubuki-agent-worktree,0.4.0,0,0,https://github.com/licyk/hanafubuki-agent,"Git worktrees for hanafubuki-agent: detached checkouts under its data directory, each with the session it belongs to"
+2026-11-14T23:11:04.723085Z,vultr-dns-updater,0.0.0,0,0,https://github.com/flipbit03/vultr-dns-updater,Keeps Vultr DNS A records pointed at your public IP. Placeholder: the Rust release is coming.
+2026-11-14T23:11:28.966041Z,efr32mg2x-pac,0.1.0,0,0,https://github.com/bitscrafts/EFR32MG2X-RS,Peripheral Access Crate for EFR32MG24 microcontrollers
+2026-11-14T23:13:09.910836Z,ferroui-media-camera,0.5.0,0,0,https://github.com/wieslawsoltes/FerroUI,"Portable camera discovery, capture sessions and owned photos"
+2026-11-14T23:18:13.363831Z,juiz_zenoh_broker,0.2.9,0,0,https://github.com/OpenJUIZ/juiz,Zenoh broker for JUIZ (docs/spec/zenoh-broker.md).
