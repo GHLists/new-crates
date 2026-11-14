@@ -1,0 +1,26 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-14T05:28:18.378242Z,voice-call-local,0.1.0,0,0,https://github.com/kosumic/whip,Platform-independent local voice-call turn detection and lifecycle policy
+2026-11-14T05:31:12.870675Z,laputa-loc,2.0.0,0,0,https://github.com/joshuarli/loc,"The fastest and most accurate code counter around: code, comment, blank, and shebang lines by language, as text or JSON"
+2026-11-14T05:31:19.731171Z,tcsccsds,0.3.0,0,0,https://github.com/vomlehn/tcs-xtce,"Flight software: CCSDS standards, such as the CCSDS time codes, without allocation; part of tcs-xtce, with matching C, C++ and Python libraries"
+2026-11-14T05:37:45.585135Z,qexo,1.3.0,0,0,,"qexo — the Exocortex coordinator, phext-native: all node state lives in /var/lib/qexo/state.phext (Layer 2 addressing over phext)"
+2026-11-14T05:41:08.556372Z,datadock,0.1.0,0,0,https://github.com/yumishenlan113543/datadock,A small command-line backup tool that copies source directories to destination directories.
+2026-11-14T05:48:07.024287Z,solana-xmss,0.1.0,0,0,https://github.com/blueshift-gg/solana-xmss,"Post-quantum hash-based signatures for Solana programs: a 256-leaf DKKW25 generalized XMSS tree over solana-winternitz's target-sum Winternitz keys, verified with the sol_keccak256 syscall"
+2026-11-14T05:54:51.804089Z,xtalforge-engines,1.12.0,0,0,https://github.com/jigonzalez930209/xtalforge,"Simulation-engine input sets, output parsers and electronic-structure analysis for xtalforge."
+2026-11-14T05:55:55.07922Z,grove-wt-adapters,0.1.0,0,0,https://github.com/macalinao/grove,Editor and AI-tool adapters for Grove (M1+)
+2026-11-14T05:55:57.177235Z,grove-wt-git,0.1.0,0,0,https://github.com/macalinao/grove,Thin git/worktree process wrapper for Grove
+2026-11-14T05:56:03.111595Z,grove-wt-config,0.1.0,0,0,https://github.com/macalinao/grove,Layered configuration for Grove (grove.kdl + git-config + .gtrconfig)
+2026-11-14T05:56:52.191564Z,grove-wt-forge,0.1.0,0,0,https://github.com/macalinao/grove,"Forge integration (GitHub, Gitea, GitLab) for Grove (M2)"
+2026-11-14T05:57:26.582213Z,grove-wt-core,0.1.0,0,0,https://github.com/macalinao/grove,Core worktree lifecycle logic for Grove
+2026-11-14T06:03:29.308045Z,internetdata-axum,1.0.0,0,0,https://github.com/internetdata/sdk-rust-axum,"The official axum and tower middleware for the InternetData API: look up the visitor behind each request, where they are, which network they come from and whether it is a VPN, a proxy or a hosting se…"
+2026-11-14T06:03:34.549806Z,langfuse-ergonomic-macros,0.15.0,0,0,https://github.com/genai-rs/langfuse-ergonomic,The #[observe] attribute of langfuse-ergonomic (use it through langfuse-ergonomic)
+2026-11-14T06:04:42.784023Z,xcss-source,0.12.0,0,0,https://github.com/IvanKobtsev/XCSS,"Source files, positions, and diagnostics for XCSS"
+2026-11-14T06:05:03.12293Z,xcss-syntax,0.12.0,0,0,https://github.com/IvanKobtsev/XCSS,Syntax parser for the XCSS styling language
+2026-11-14T06:05:16.677195Z,xcss-analysis,0.12.0,0,0,https://github.com/IvanKobtsev/XCSS,Semantic analysis for the XCSS styling language
+2026-11-14T06:05:36.78976Z,smear-semantics,0.0.1,0,0,https://github.com/al8n/smear,"The algorithms smear's GraphQL schema builder and GraphQLx analyzer share: a byte-spelling interner, duplicate-name detection and a graph-cycle kernel."
+2026-11-14T06:06:21.204026Z,xcss-typescript,0.12.0,0,0,https://github.com/IvanKobtsev/XCSS,TypeScript integration for XCSS
+2026-11-14T06:06:36.758551Z,xcss-language-service,0.12.0,0,0,https://github.com/IvanKobtsev/XCSS,Protocol-independent editor queries for XCSS
+2026-11-14T06:08:01.763139Z,atip,0.3.1,0,0,https://github.com/journeyWorker/atip,"The atip/1 contract pieces a command-line tool shares, up to 1.6: the generic projection of a clap tree onto the self-description documents and their serializer for the minor a tool declares, the err…"
+2026-11-14T06:12:53.30137Z,atip-check,0.3.1,0,0,https://github.com/journeyWorker/atip,"atip check: runs a built binary and checks the atip/1 contract from outside (argv in; stdout, stderr, exit status and file-system changes out). It knows nothing about the tool's source or framework,…"
+2026-11-14T06:12:59.443886Z,inl-late,0.1.0,0,0,https://github.com/NomaDamas/im-not-llm,Late-interaction (multi-vector) text encoders: Qwen3.5 MultiVectorEncoder (pplx-embed-v2-late) on candle
+2026-11-14T06:13:28.041566Z,pod-actions-store,0.0.0,0,0,https://github.com/PodUtils/podcrates,"The actions of a GitHub Actions workflow by tag: resolve of each uses, a sorted lock file of commits and digests, a store of tarballs"
+2026-11-14T06:15:18.576066Z,xcss-format,0.12.0,0,0,https://github.com/IvanKobtsev/XCSS,Source formatter for XCSS

@@ -8,32 +8,39 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-14 05:20 UTC
+## Latest list — 2026-11-14 06:19 UTC
 
-New crates published between 2026-11-14 04:18 UTC and 2026-11-14 05:20 UTC.
+New crates published between 2026-11-14 05:20 UTC and 2026-11-14 06:19 UTC.
 
-[Full CSV](data/new-crates-2026-11-14T05-20-06-353415Z.csv)
+[Full CSV](data/new-crates-2026-11-14T06-19-26-924771Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-14 04:20:23 | [lotar-lib](https://crates.io/crates/lotar-lib) | 0.15.0 | 0 | The lotar library: tasks, storage, services, CLI handlers and the web server |
-| 2026-11-14 04:20:23 | [lotar-web-assets](https://crates.io/crates/lotar-web-assets) | 0.15.0 | 0 | The LoTaR web UI, embedded for the lotar binary |
-| 2026-11-14 04:20:25 | [lotar](https://crates.io/crates/lotar) | 0.15.0 | 0 | A git-native task management CLI that stores issues as YAML files in your repos… |
-| 2026-11-14 04:21:41 | [kubo-ffi](https://crates.io/crates/kubo-ffi) | 975742.1839.241928 | 0 | Safe Rust bindings to the Kubo C FFI layer |
-| 2026-11-14 04:37:52 | [delta_fabric](https://crates.io/crates/delta_fabric) | 0.7.2 | 0 | Decentralized weight synchronization for distributed ML training with built-in… |
-| 2026-11-14 04:40:54 | [bunny-optics](https://crates.io/crates/bunny-optics) | 0.7.1 | 0 | Deterministic camera, ray-generation, sampling, pixel-value and diffuse shading… |
-| 2026-11-14 04:45:34 | [tianai-captcha](https://crates.io/crates/tianai-captcha) | 0.1.0 | 0 | dromara/tianai-captcha 的 Rust 移植：SLIDER 滑块、ROTATE 旋转、CONCAT 拼接行为验证码的生成与校验 |
-| 2026-11-14 04:49:01 | [tcsxtce](https://crates.io/crates/tcsxtce) | 0.7.0 | 0 | Flight software: the runtime for the packet codecs tcs-xtce generates from OMG… |
-| 2026-11-14 04:50:55 | [pgloom-pgctrl](https://crates.io/crates/pgloom-pgctrl) | 0.1.0 | 0 | Control-connection utilities for PgLoom: lock inspection, snapshot/restore and… |
-| 2026-11-14 04:50:57 | [pgloom-wire](https://crates.io/crates/pgloom-wire) | 0.1.0 | 0 | PostgreSQL v3 wire-protocol codec and turn-gating L7 proxy used by PgLoom |
-| 2026-11-14 04:50:59 | [pgloom-engine](https://crates.io/crates/pgloom-engine) | 0.1.0 | 0 | Deterministic schedule exploration, lock parking and episode coordination for P… |
-| 2026-11-14 04:51:02 | [pgloom-driver](https://crates.io/crates/pgloom-driver) | 0.1.0 | 0 | Scenario configuration (pgloom.yaml) and concurrent workload drivers for PgLoom |
-| 2026-11-14 04:51:03 | [pgloom-report](https://crates.io/crates/pgloom-report) | 0.1.0 | 0 | Execution timelines, Fix Advisor and replay files for PgLoom |
-| 2026-11-14 05:01:33 | [pgloom](https://crates.io/crates/pgloom) | 0.1.0 | 0 | PgLoom: a deterministic interleaving model checker for PostgreSQL-backed servic… |
-| 2026-11-14 05:03:54 | [aomesh-cli](https://crates.io/crates/aomesh-cli) | 0.3.0 | 0 | Per-vertex ambient occlusion baked into 1D texture coordinates and a 256x1 gray… |
-| 2026-11-14 05:17:15 | [pacer-plugin-install-protocol](https://crates.io/crates/pacer-plugin-install-protocol) | 0.2.0 | 0 | Generated planner integration (planner.*, capability.planner.*) wire types for… |
-| 2026-11-14 05:17:20 | [pacer-plugin-hosts-protocol](https://crates.io/crates/pacer-plugin-hosts-protocol) | 0.2.0 | 0 | Generated host-runner and host capability wire types for the pacer plugin proto… |
-| 2026-11-14 05:17:28 | [pacer-plugin-exec-protocol](https://crates.io/crates/pacer-plugin-exec-protocol) | 0.2.0 | 0 | Generated executor and process capability wire types for the pacer plugin proto… |
+| 2026-11-14 05:28:18 | [voice-call-local](https://crates.io/crates/voice-call-local) | 0.1.0 | 0 | Platform-independent local voice-call turn detection and lifecycle policy |
+| 2026-11-14 05:31:12 | [laputa-loc](https://crates.io/crates/laputa-loc) | 2.0.0 | 0 | The fastest and most accurate code counter around: code, comment, blank, and sh… |
+| 2026-11-14 05:31:19 | [tcsccsds](https://crates.io/crates/tcsccsds) | 0.3.0 | 0 | Flight software: CCSDS standards, such as the CCSDS time codes, without allocat… |
+| 2026-11-14 05:37:45 | [qexo](https://crates.io/crates/qexo) | 1.3.0 | 0 | qexo — the Exocortex coordinator, phext-native: all node state lives in /var/li… |
+| 2026-11-14 05:41:08 | [datadock](https://crates.io/crates/datadock) | 0.1.0 | 0 | A small command-line backup tool that copies source directories to destination… |
+| 2026-11-14 05:48:07 | [solana-xmss](https://crates.io/crates/solana-xmss) | 0.1.0 | 0 | Post-quantum hash-based signatures for Solana programs: a 256-leaf DKKW25 gener… |
+| 2026-11-14 05:54:51 | [xtalforge-engines](https://crates.io/crates/xtalforge-engines) | 1.12.0 | 0 | Simulation-engine input sets, output parsers and electronic-structure analysis… |
+| 2026-11-14 05:55:55 | [grove-wt-adapters](https://crates.io/crates/grove-wt-adapters) | 0.1.0 | 0 | Editor and AI-tool adapters for Grove (M1+) |
+| 2026-11-14 05:55:57 | [grove-wt-git](https://crates.io/crates/grove-wt-git) | 0.1.0 | 0 | Thin git/worktree process wrapper for Grove |
+| 2026-11-14 05:56:03 | [grove-wt-config](https://crates.io/crates/grove-wt-config) | 0.1.0 | 0 | Layered configuration for Grove (grove.kdl + git-config + .gtrconfig) |
+| 2026-11-14 05:56:52 | [grove-wt-forge](https://crates.io/crates/grove-wt-forge) | 0.1.0 | 0 | Forge integration (GitHub, Gitea, GitLab) for Grove (M2) |
+| 2026-11-14 05:57:26 | [grove-wt-core](https://crates.io/crates/grove-wt-core) | 0.1.0 | 0 | Core worktree lifecycle logic for Grove |
+| 2026-11-14 06:03:29 | [internetdata-axum](https://crates.io/crates/internetdata-axum) | 1.0.0 | 0 | The official axum and tower middleware for the InternetData API: look up the vi… |
+| 2026-11-14 06:03:34 | [langfuse-ergonomic-macros](https://crates.io/crates/langfuse-ergonomic-macros) | 0.15.0 | 0 | The #[observe] attribute of langfuse-ergonomic (use it through langfuse-ergonom… |
+| 2026-11-14 06:04:42 | [xcss-source](https://crates.io/crates/xcss-source) | 0.12.0 | 0 | Source files, positions, and diagnostics for XCSS |
+| 2026-11-14 06:05:03 | [xcss-syntax](https://crates.io/crates/xcss-syntax) | 0.12.0 | 0 | Syntax parser for the XCSS styling language |
+| 2026-11-14 06:05:16 | [xcss-analysis](https://crates.io/crates/xcss-analysis) | 0.12.0 | 0 | Semantic analysis for the XCSS styling language |
+| 2026-11-14 06:05:36 | [smear-semantics](https://crates.io/crates/smear-semantics) | 0.0.1 | 0 | The algorithms smear's GraphQL schema builder and GraphQLx analyzer share: a by… |
+| 2026-11-14 06:06:21 | [xcss-typescript](https://crates.io/crates/xcss-typescript) | 0.12.0 | 0 | TypeScript integration for XCSS |
+| 2026-11-14 06:06:36 | [xcss-language-service](https://crates.io/crates/xcss-language-service) | 0.12.0 | 0 | Protocol-independent editor queries for XCSS |
+| 2026-11-14 06:08:01 | [atip](https://crates.io/crates/atip) | 0.3.1 | 0 | The atip/1 contract pieces a command-line tool shares, up to 1.6: the generic p… |
+| 2026-11-14 06:12:53 | [atip-check](https://crates.io/crates/atip-check) | 0.3.1 | 0 | atip check: runs a built binary and checks the atip/1 contract from outside (ar… |
+| 2026-11-14 06:12:59 | [inl-late](https://crates.io/crates/inl-late) | 0.1.0 | 0 | Late-interaction (multi-vector) text encoders: Qwen3.5 MultiVectorEncoder (pplx… |
+| 2026-11-14 06:13:28 | [pod-actions-store](https://crates.io/crates/pod-actions-store) | 0.0.0 | 0 | The actions of a GitHub Actions workflow by tag: resolve of each uses, a sorted… |
+| 2026-11-14 06:15:18 | [xcss-format](https://crates.io/crates/xcss-format) | 0.12.0 | 0 | Source formatter for XCSS |
 
 ## Data source
 
