@@ -8,46 +8,47 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-14 17:18 UTC
+## Latest list — 2026-11-14 18:19 UTC
 
-New crates published between 2026-11-14 16:18 UTC and 2026-11-14 17:18 UTC.
+New crates published between 2026-11-14 17:18 UTC and 2026-11-14 18:19 UTC.
 
-[Full CSV](data/new-crates-2026-11-14T17-18-24-109144Z.csv)
+[Full CSV](data/new-crates-2026-11-14T18-19-31-067544Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-14 16:19:19 | [greenpiste-guard](https://crates.io/crates/greenpiste-guard) | 4.0.1 | 0 | greenpiste's guard: shell analysis, rules and stances for an agent's tool calls |
-| 2026-11-14 16:19:36 | [greenpiste-process](https://crates.io/crates/greenpiste-process) | 4.0.1 | 0 | greenpiste's work process: plan review, implementation review, preview approval… |
-| 2026-11-14 16:19:45 | [greenpiste](https://crates.io/crates/greenpiste) | 4.0.1 | 0 | A guard for Claude Code's tool calls: it reads each one before it runs, the wor… |
-| 2026-11-14 16:30:19 | [tudolio](https://crates.io/crates/tudolio) | 0.1.0 | 0 | A simple, lightweight terminal-based todo manager |
-| 2026-11-14 16:30:52 | [inodedb-core](https://crates.io/crates/inodedb-core) | 0.1.0 | 0 | InodeDB's semantics as deterministic state machines. |
-| 2026-11-14 16:30:53 | [inodedb-proto](https://crates.io/crates/inodedb-proto) | 0.1.0 | 0 | InodeDB's gRPC protocol. |
-| 2026-11-14 16:30:54 | [inodedb-transport](https://crates.io/crates/inodedb-transport) | 0.1.0 | 0 | gRPC's transport for InodeDB, directly on HTTP/2. |
-| 2026-11-14 16:30:56 | [inodedb-client](https://crates.io/crates/inodedb-client) | 0.1.0 | 0 | InodeDB's Rust client. |
-| 2026-11-14 16:43:47 | [opac](https://crates.io/crates/opac) | 0.0.1 | 0 | opac |
-| 2026-11-14 16:53:53 | [sigil-fonts](https://crates.io/crates/sigil-fonts) | 0.2.0 | 0 | The fonts Sigil draws with by default: Fira Sans, Cascadia Mono, a Noto Color E… |
-| 2026-11-14 16:55:32 | [doppelscan](https://crates.io/crates/doppelscan) | 0.9.0 | 0 | Fast syntax-aware duplicate code finder with an MCP server for coding agents |
-| 2026-11-14 16:58:18 | [duet-core](https://crates.io/crates/duet-core) | 0.1.0 | 0 | The Song every duet format converts through, quantizing, and the notefmt text f… |
-| 2026-11-14 16:58:20 | [duet-midi](https://crates.io/crates/duet-midi) | 0.1.0 | 0 | Read and write Standard MIDI Files as duet Songs, exactly. |
-| 2026-11-14 16:58:22 | [duet-drums](https://crates.io/crates/duet-drums) | 0.1.0 | 0 | The duet drum grid: a lanes × steps velocity matrix, its text form, lane maps,… |
-| 2026-11-14 16:58:24 | [duet-cli](https://crates.io/crates/duet-cli) | 0.1.0 | 0 | duet: compose with an LLM in text both can read, and convert it to and from MID… |
-| 2026-11-14 16:59:44 | [pr0xy](https://crates.io/crates/pr0xy) | 0.2.0 | 0 | Sovereign safe-Rust reverse proxy & AI/MCP Zero-Trust gateway with Post-Quantum… |
-| 2026-11-14 17:06:46 | [svg-rs](https://crates.io/crates/svg-rs) | 0.1.0 | 0 | svg to texture, placeholder for now |
-| 2026-11-14 17:07:18 | [sh0-term](https://crates.io/crates/sh0-term) | 0.1.0 | 0 | Terminal emulation layer for sh0 |
-| 2026-11-14 17:07:33 | [sh0-ipc](https://crates.io/crates/sh0-ipc) | 0.1.0 | 0 | Local IPC transport and protocol between sh0 daemon and frontends |
-| 2026-11-14 17:07:55 | [sh0-core](https://crates.io/crates/sh0-core) | 0.1.0 | 0 | Domain model and orchestration core for sh0 |
-| 2026-11-14 17:08:02 | [unicode-scripts](https://crates.io/crates/unicode-scripts) | 0.3.0 | 0 | The package provides detection of scripts from Unicode codepoints. |
-| 2026-11-14 17:08:19 | [sh0-ssh](https://crates.io/crates/sh0-ssh) | 0.1.0 | 0 | russh-based SSH transport layer for sh0 |
-| 2026-11-14 17:08:31 | [sh0-store](https://crates.io/crates/sh0-store) | 0.1.0 | 0 | TOML config and SQLite persistence for sh0 |
-| 2026-11-14 17:10:53 | [rusted-auth](https://crates.io/crates/rusted-auth) | 0.4.1 | 0 | Framework-agnostic authentication core for Rust services: multi-issuer OIDC/JWT… |
-| 2026-11-14 17:10:55 | [rusted-auth-actix](https://crates.io/crates/rusted-auth-actix) | 0.4.1 | 0 | Actix-web middleware and extractors for rusted-auth |
-| 2026-11-14 17:12:03 | [hdl-syntax](https://crates.io/crates/hdl-syntax) | 0.1.0 | 0 | Reusable lexers, parsers, and syntax trees (CST/AST) for Verilog and VHDL |
-| 2026-11-14 17:12:09 | [hdl-ir](https://crates.io/crates/hdl-ir) | 0.1.0 | 0 | Language-neutral elaborated design IR (netlist + processes) |
-| 2026-11-14 17:12:13 | [hdl-lib](https://crates.io/crates/hdl-lib) | 0.1.0 | 0 | Library manager: named libraries, search paths, on-demand compile, dependency g… |
-| 2026-11-14 17:12:16 | [hdl-sim](https://crates.io/crates/hdl-sim) | 0.1.0 | 0 | Event-driven simulation kernel: logic values, time, scheduler, observer bus |
-| 2026-11-14 17:12:20 | [hdl-wave](https://crates.io/crates/hdl-wave) | 0.1.0 | 0 | Wave sinks and viewers: VCD, self-contained HTML/SVG, live HTTP+SSE, ASCII |
-| 2026-11-14 17:12:45 | [sh0-ai](https://crates.io/crates/sh0-ai) | 0.1.0 | 0 | AI-facing subcommand surface for sh0 |
-| 2026-11-14 17:17:27 | [ccf](https://crates.io/crates/ccf) | 0.1.0 | 0 | Search your local Claude Code conversations from the terminal |
+| 2026-11-14 17:21:16 | [unicode-languages](https://crates.io/crates/unicode-languages) | 2.3.0 | 0 | A library to detect language coverage given a list of codepoints. |
+| 2026-11-14 17:22:01 | [rill-media](https://crates.io/crates/rill-media) | 2026.11.16 | 0 | Safe Rust bindings for the Rill media extractor and downloader |
+| 2026-11-14 17:23:12 | [sh0-tui](https://crates.io/crates/sh0-tui) | 0.1.0 | 0 | ratatui frontend for sh0 |
+| 2026-11-14 17:26:29 | [libch](https://crates.io/crates/libch) | 0.1.1 | 0 | ClickHouse's insert and merge as short-lived operations on BigHouse `inodedb` d… |
+| 2026-11-14 17:28:14 | [unicode-samples](https://crates.io/crates/unicode-samples) | 0.0.1 | 0 | The package provides samples for Unicode languages and writing scripts. |
+| 2026-11-14 17:32:29 | [gus-list](https://crates.io/crates/gus-list) | 0.1.0 | 0 | Headless list logic: group runs, keyboard selection by key, keyed diff. |
+| 2026-11-14 17:32:33 | [gus-keys](https://crates.io/crates/gus-keys) | 0.1.0 | 0 | Headless keyboard shortcuts: parse chords like Ctrl+Shift+N and map them to act… |
+| 2026-11-14 17:32:36 | [sh0](https://crates.io/crates/sh0) | 0.1.0 | 0 | Lightweight cross-platform TUI SSH/SFTP manager with an AI-first CLI |
+| 2026-11-14 17:32:38 | [gus-combobox](https://crates.io/crates/gus-combobox) | 0.1.0 | 0 | Headless combobox: ranked matches, inline completion and a keyboard-driven list. |
+| 2026-11-14 17:32:42 | [gus-anim-state](https://crates.io/crates/gus-anim-state) | 0.1.0 | 0 | Headless animation timing: per-key scripts of timed phases, advanced by the app. |
+| 2026-11-14 17:32:46 | [hdlsim](https://crates.io/crates/hdlsim) | 0.1.0 | 0 | hdlsim — self-contained VHDL + Verilog simulator (CLI binary and library API) |
+| 2026-11-14 17:32:57 | [gus-list-slint](https://crates.io/crates/gus-list-slint) | 0.1.0 | 0 | Applies gus-list keyed diffs to Slint VecModels. |
+| 2026-11-14 17:33:42 | [rusted-email](https://crates.io/crates/rusted-email) | 0.2.0 | 0 | Email library for Rust services, with SMTP and mock providers and Handlebars te… |
+| 2026-11-14 17:35:11 | [misty](https://crates.io/crates/misty) | 0.0.1 | 0 | A GPU-rendered, keyboard-first GUI framework for Rust desktop apps: window runt… |
+| 2026-11-14 17:35:31 | [gus-keys-slint](https://crates.io/crates/gus-keys-slint) | 0.1.0 | 0 | Turns Slint key events into gus-keys chords. |
+| 2026-11-14 17:37:35 | [partimento](https://crates.io/crates/partimento) | 0.1.0 | 0 | Checks and renders structured RFC specifications |
+| 2026-11-14 17:40:03 | [purge-config](https://crates.io/crates/purge-config) | 0.1.0 | 0 | Configuration loading and policy resolution |
+| 2026-11-14 17:40:06 | [purge-process](https://crates.io/crates/purge-process) | 0.1.0 | 0 | Low-priority process spawning, process inspection and load sampling |
+| 2026-11-14 17:40:09 | [purge-ecosystem](https://crates.io/crates/purge-ecosystem) | 0.1.0 | 0 | The Ecosystem trait implemented by every supported project kind |
+| 2026-11-14 17:40:13 | [purge-scan](https://crates.io/crates/purge-scan) | 0.1.0 | 0 | Discovers projects below configured roots |
+| 2026-11-14 17:40:18 | [purge-state](https://crates.io/crates/purge-state) | 0.1.0 | 0 | Persistent state, action history and run locking |
+| 2026-11-14 17:43:20 | [pioc-core](https://crates.io/crates/pioc-core) | 0.1.0 | 0 | Core RISC8B/PIOC instruction and register model |
+| 2026-11-14 17:44:58 | [smoll](https://crates.io/crates/smoll) | 0.0.1 | 0 | Single MOLecule Localization. |
+| 2026-11-14 17:45:00 | [pddl-lsp](https://crates.io/crates/pddl-lsp) | 0.1.0 | 0 | A language server for PDDL: diagnostics, navigation, completion and formatting |
+| 2026-11-14 17:51:25 | [purge-engine](https://crates.io/crates/purge-engine) | 0.1.0 | 0 | Decides what to clean and carries it out |
+| 2026-11-14 17:51:38 | [xmtty](https://crates.io/crates/xmtty) | 26.11.2 | 0 | the christmas countdown |
+| 2026-11-14 17:57:41 | [rust-thanos](https://crates.io/crates/rust-thanos) | 0.0.4 | 0 | An efficient Minecraft Java world optimization tool to detect and remove unused… |
+| 2026-11-14 18:02:39 | [purge-notify](https://crates.io/crates/purge-notify) | 0.1.0 | 0 | Desktop notifications |
+| 2026-11-14 18:04:24 | [pangolin-rt](https://crates.io/crates/pangolin-rt) | 0.1.0 | 0 | Erlang-style processes, links, monitors and supervisors on Tokio |
+| 2026-11-14 18:07:40 | [powerio-archive](https://crates.io/crates/powerio-archive) | 0.12.0 | 0 | Bounded in-memory ZIP transport for PowerIO inputs. |
+| 2026-11-14 18:09:54 | [axa-webhooks](https://crates.io/crates/axa-webhooks) | 0.1.0 | 0 | Standard Webhooks signing and verifying, with HMAC-SHA256 and Ed25519 keys, for… |
+| 2026-11-14 18:09:57 | [axa-http-client](https://crates.io/crates/axa-http-client) | 0.1.0 | 0 | An outbound HTTP client that refuses private, loopback, link-local, and metadat… |
+| 2026-11-14 18:13:43 | [purge-rust](https://crates.io/crates/purge-rust) | 0.1.0 | 0 | Rust/Cargo ecosystem support |
 
 ## Data source
 

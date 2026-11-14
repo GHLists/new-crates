@@ -1,0 +1,34 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-14T17:21:16.689159Z,unicode-languages,2.3.0,0,0,https://github.com/the-type-founders/unicode-languages-rs,A library to detect language coverage given a list of codepoints.
+2026-11-14T17:22:01.713057Z,rill-media,2026.11.16,0,0,https://github.com/SimaoMoreira5228/rill,Safe Rust bindings for the Rill media extractor and downloader
+2026-11-14T17:23:12.275802Z,sh0-tui,0.1.0,0,0,https://github.com/creator521314/sh0,ratatui frontend for sh0
+2026-11-14T17:26:29.174041Z,libch,0.1.1,0,0,https://github.com/danthegoodman1/libch,"ClickHouse's insert and merge as short-lived operations on BigHouse `inodedb` disks, so one pool of workers serves many tenants."
+2026-11-14T17:28:14.613126Z,unicode-samples,0.0.1,0,0,https://github.com/the-type-founders/unicode-samples-rs,The package provides samples for Unicode languages and writing scripts.
+2026-11-14T17:32:29.504941Z,gus-list,0.1.0,0,0,https://github.com/carvalhosauro/gus,"Headless list logic: group runs, keyboard selection by key, keyed diff."
+2026-11-14T17:32:33.953192Z,gus-keys,0.1.0,0,0,https://github.com/carvalhosauro/gus,Headless keyboard shortcuts: parse chords like Ctrl+Shift+N and map them to actions.
+2026-11-14T17:32:36.042353Z,sh0,0.1.0,0,0,https://github.com/creator521314/sh0,Lightweight cross-platform TUI SSH/SFTP manager with an AI-first CLI
+2026-11-14T17:32:38.274454Z,gus-combobox,0.1.0,0,0,https://github.com/carvalhosauro/gus,"Headless combobox: ranked matches, inline completion and a keyboard-driven list."
+2026-11-14T17:32:42.0575Z,gus-anim-state,0.1.0,0,0,https://github.com/carvalhosauro/gus,"Headless animation timing: per-key scripts of timed phases, advanced by the app."
+2026-11-14T17:32:46.775137Z,hdlsim,0.1.0,0,0,https://github.com/larsjoost/hdlsim,hdlsim — self-contained VHDL + Verilog simulator (CLI binary and library API)
+2026-11-14T17:32:57.998923Z,gus-list-slint,0.1.0,0,0,https://github.com/carvalhosauro/gus,Applies gus-list keyed diffs to Slint VecModels.
+2026-11-14T17:33:42.082607Z,rusted-email,0.2.0,0,0,https://github.com/Alpha-Global-Inovasi/rusted-email,"Email library for Rust services, with SMTP and mock providers and Handlebars templates"
+2026-11-14T17:35:11.981774Z,misty,0.0.1,0,0,https://github.com/taquangtrung/misty,"A GPU-rendered, keyboard-first GUI framework for Rust desktop apps: window runtime, chrome, widgets, and themes."
+2026-11-14T17:35:31.37757Z,gus-keys-slint,0.1.0,0,0,https://github.com/carvalhosauro/gus,Turns Slint key events into gus-keys chords.
+2026-11-14T17:37:35.222227Z,partimento,0.1.0,0,0,https://github.com/camshaft/partimento,Checks and renders structured RFC specifications
+2026-11-14T17:40:03.957843Z,purge-config,0.1.0,0,0,https://github.com/iMohmmedSA/purge,Configuration loading and policy resolution
+2026-11-14T17:40:06.922456Z,purge-process,0.1.0,0,0,https://github.com/iMohmmedSA/purge,"Low-priority process spawning, process inspection and load sampling"
+2026-11-14T17:40:09.159703Z,purge-ecosystem,0.1.0,0,0,https://github.com/iMohmmedSA/purge,The Ecosystem trait implemented by every supported project kind
+2026-11-14T17:40:13.788486Z,purge-scan,0.1.0,0,0,https://github.com/iMohmmedSA/purge,Discovers projects below configured roots
+2026-11-14T17:40:18.889943Z,purge-state,0.1.0,0,0,https://github.com/iMohmmedSA/purge,"Persistent state, action history and run locking"
+2026-11-14T17:43:20.542165Z,pioc-core,0.1.0,0,0,https://github.com/andelf/pioc,Core RISC8B/PIOC instruction and register model
+2026-11-14T17:44:58.455721Z,smoll,0.0.1,0,0,https://git.pomppervova.nl/wim/smoll,Single MOLecule Localization.
+2026-11-14T17:45:00.611302Z,pddl-lsp,0.1.0,0,0,https://github.com/sunsided/pddl-rs,"A language server for PDDL: diagnostics, navigation, completion and formatting"
+2026-11-14T17:51:25.316924Z,purge-engine,0.1.0,0,0,https://github.com/iMohmmedSA/purge,Decides what to clean and carries it out
+2026-11-14T17:51:38.521904Z,xmtty,26.11.2,0,0,https://codeberg.org/cerealdevv/xmtty,the christmas countdown
+2026-11-14T17:57:41.772651Z,rust-thanos,0.0.4,0,0,https://github.com/OrzMC/OrzMCBackup,An efficient Minecraft Java world optimization tool to detect and remove unused chunks
+2026-11-14T18:02:39.469289Z,purge-notify,0.1.0,0,0,https://github.com/iMohmmedSA/purge,Desktop notifications
+2026-11-14T18:04:24.625691Z,pangolin-rt,0.1.0,0,0,https://github.com/melodyLeonard/pangolin,"Erlang-style processes, links, monitors and supervisors on Tokio"
+2026-11-14T18:07:40.247985Z,powerio-archive,0.12.0,0,0,https://github.com/eigenergy/powerio,Bounded in-memory ZIP transport for PowerIO inputs.
+2026-11-14T18:09:54.494172Z,axa-webhooks,0.1.0,0,0,https://github.com/publicprojects-io/axa/,"Standard Webhooks signing and verifying, with HMAC-SHA256 and Ed25519 keys, for Axum services."
+2026-11-14T18:09:57.619761Z,axa-http-client,0.1.0,0,0,https://github.com/publicprojects-io/axa/,"An outbound HTTP client that refuses private, loopback, link-local, and metadata addresses, after DNS and on every redirect."
+2026-11-14T18:13:43.454967Z,purge-rust,0.1.0,0,0,https://github.com/iMohmmedSA/purge,Rust/Cargo ecosystem support
