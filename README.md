@@ -8,34 +8,46 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-14 16:18 UTC
+## Latest list — 2026-11-14 17:18 UTC
 
-New crates published between 2026-11-14 15:18 UTC and 2026-11-14 16:18 UTC.
+New crates published between 2026-11-14 16:18 UTC and 2026-11-14 17:18 UTC.
 
-[Full CSV](data/new-crates-2026-11-14T16-18-26-255949Z.csv)
+[Full CSV](data/new-crates-2026-11-14T17-18-24-109144Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-14 15:22:26 | [safemca](https://crates.io/crates/safemca) | 0.2.0 | 0 | The sub-millisecond security proxy and airbag for AI agents using the Model Con… |
-| 2026-11-14 15:22:34 | [bevy_flui](https://crates.io/crates/bevy_flui) | 0.20.1 | 0 | Beautiful, accessible UI components for Bevy, inspired by Radix Themes |
-| 2026-11-14 15:25:28 | [vzjson](https://crates.io/crates/vzjson) | 1.0.0 | 0 | High-performance pure-Rust JSON library inspired by yyjson 0.13.0 (#![forbid(un… |
-| 2026-11-14 15:34:31 | [genum-macro](https://crates.io/crates/genum-macro) | 0.1.0 | 0 | Proc-macro implementation for genum |
-| 2026-11-14 15:35:03 | [genum](https://crates.io/crates/genum) | 0.1.0 | 0 | Compile-time verified enum narrowing with zero-cost conversions and niche optim… |
-| 2026-11-14 15:39:59 | [cachegirl](https://crates.io/crates/cachegirl) | 1.0.1 | 0 | Centralized management of temporary resources in Rust: files, buffers, caches,… |
-| 2026-11-14 15:42:56 | [rexsim](https://crates.io/crates/rexsim) | 0.1.0 | 0 | A live iOS Simulator inside a Rex terminal pane, drawn with the Kitty graphics… |
-| 2026-11-14 15:49:36 | [swe-md-parser](https://crates.io/crates/swe-md-parser) | 1.9.13 | 0 | Deterministic Markdown slide-deck parser and content-limit validator with zero… |
-| 2026-11-14 15:51:43 | [karbon-updater](https://crates.io/crates/karbon-updater) | 0.1.0 | 0 | Self-update for desktop applications: checks a release endpoint, downloads a mi… |
-| 2026-11-14 15:57:41 | [latentmesh-memorilla](https://crates.io/crates/latentmesh-memorilla) | 0.1.0 | 0 | Native Memorilla inference, cached memory and Qwen3 input embedding delivery |
-| 2026-11-14 16:03:12 | [unpopped-convert](https://crates.io/crates/unpopped-convert) | 0.0.0 | 0 | Name reserved for Unpopped's source-to-IR conversion frontend; not yet released. |
-| 2026-11-14 16:03:56 | [cherry](https://crates.io/crates/cherry) | 0.0.1 | 0 | An embeddable modal text editor: the Vim grammar where you navigate, Emacs edit… |
-| 2026-11-14 16:06:19 | [srmgui](https://crates.io/crates/srmgui) | 0.1.0 | 0 | GUI tool to switch Rust Cargo registry mirrors, built with GPUI Kit |
-| 2026-11-14 16:07:54 | [agi-auth](https://crates.io/crates/agi-auth) | 0.4.0 | 0 | Framework-agnostic authentication core for AGI services: multi-issuer OIDC/JWT… |
-| 2026-11-14 16:07:56 | [agi-auth-actix](https://crates.io/crates/agi-auth-actix) | 0.4.0 | 0 | Actix-web middleware and extractors for agi-auth |
-| 2026-11-14 16:17:05 | [cargoscope-core](https://crates.io/crates/cargoscope-core) | 0.1.0 | 0 | Core domain types and analysis orchestration for CargoScope |
-| 2026-11-14 16:17:07 | [cargoscope-advisory](https://crates.io/crates/cargoscope-advisory) | 0.1.0 | 0 | RustSec advisory database access and caching for CargoScope |
-| 2026-11-14 16:17:07 | [cargoscope-cargo](https://crates.io/crates/cargoscope-cargo) | 0.1.0 | 0 | Cargo manifest and lockfile parsing for CargoScope |
-| 2026-11-14 16:17:08 | [cargoscope-report](https://crates.io/crates/cargoscope-report) | 0.1.0 | 0 | Text, JSON and SARIF report rendering for CargoScope |
-| 2026-11-14 16:17:09 | [cargoscope](https://crates.io/crates/cargoscope) | 0.1.0 | 0 | Understand every dependency in your Rust project: advisories, unused dependenci… |
+| 2026-11-14 16:19:19 | [greenpiste-guard](https://crates.io/crates/greenpiste-guard) | 4.0.1 | 0 | greenpiste's guard: shell analysis, rules and stances for an agent's tool calls |
+| 2026-11-14 16:19:36 | [greenpiste-process](https://crates.io/crates/greenpiste-process) | 4.0.1 | 0 | greenpiste's work process: plan review, implementation review, preview approval… |
+| 2026-11-14 16:19:45 | [greenpiste](https://crates.io/crates/greenpiste) | 4.0.1 | 0 | A guard for Claude Code's tool calls: it reads each one before it runs, the wor… |
+| 2026-11-14 16:30:19 | [tudolio](https://crates.io/crates/tudolio) | 0.1.0 | 0 | A simple, lightweight terminal-based todo manager |
+| 2026-11-14 16:30:52 | [inodedb-core](https://crates.io/crates/inodedb-core) | 0.1.0 | 0 | InodeDB's semantics as deterministic state machines. |
+| 2026-11-14 16:30:53 | [inodedb-proto](https://crates.io/crates/inodedb-proto) | 0.1.0 | 0 | InodeDB's gRPC protocol. |
+| 2026-11-14 16:30:54 | [inodedb-transport](https://crates.io/crates/inodedb-transport) | 0.1.0 | 0 | gRPC's transport for InodeDB, directly on HTTP/2. |
+| 2026-11-14 16:30:56 | [inodedb-client](https://crates.io/crates/inodedb-client) | 0.1.0 | 0 | InodeDB's Rust client. |
+| 2026-11-14 16:43:47 | [opac](https://crates.io/crates/opac) | 0.0.1 | 0 | opac |
+| 2026-11-14 16:53:53 | [sigil-fonts](https://crates.io/crates/sigil-fonts) | 0.2.0 | 0 | The fonts Sigil draws with by default: Fira Sans, Cascadia Mono, a Noto Color E… |
+| 2026-11-14 16:55:32 | [doppelscan](https://crates.io/crates/doppelscan) | 0.9.0 | 0 | Fast syntax-aware duplicate code finder with an MCP server for coding agents |
+| 2026-11-14 16:58:18 | [duet-core](https://crates.io/crates/duet-core) | 0.1.0 | 0 | The Song every duet format converts through, quantizing, and the notefmt text f… |
+| 2026-11-14 16:58:20 | [duet-midi](https://crates.io/crates/duet-midi) | 0.1.0 | 0 | Read and write Standard MIDI Files as duet Songs, exactly. |
+| 2026-11-14 16:58:22 | [duet-drums](https://crates.io/crates/duet-drums) | 0.1.0 | 0 | The duet drum grid: a lanes × steps velocity matrix, its text form, lane maps,… |
+| 2026-11-14 16:58:24 | [duet-cli](https://crates.io/crates/duet-cli) | 0.1.0 | 0 | duet: compose with an LLM in text both can read, and convert it to and from MID… |
+| 2026-11-14 16:59:44 | [pr0xy](https://crates.io/crates/pr0xy) | 0.2.0 | 0 | Sovereign safe-Rust reverse proxy & AI/MCP Zero-Trust gateway with Post-Quantum… |
+| 2026-11-14 17:06:46 | [svg-rs](https://crates.io/crates/svg-rs) | 0.1.0 | 0 | svg to texture, placeholder for now |
+| 2026-11-14 17:07:18 | [sh0-term](https://crates.io/crates/sh0-term) | 0.1.0 | 0 | Terminal emulation layer for sh0 |
+| 2026-11-14 17:07:33 | [sh0-ipc](https://crates.io/crates/sh0-ipc) | 0.1.0 | 0 | Local IPC transport and protocol between sh0 daemon and frontends |
+| 2026-11-14 17:07:55 | [sh0-core](https://crates.io/crates/sh0-core) | 0.1.0 | 0 | Domain model and orchestration core for sh0 |
+| 2026-11-14 17:08:02 | [unicode-scripts](https://crates.io/crates/unicode-scripts) | 0.3.0 | 0 | The package provides detection of scripts from Unicode codepoints. |
+| 2026-11-14 17:08:19 | [sh0-ssh](https://crates.io/crates/sh0-ssh) | 0.1.0 | 0 | russh-based SSH transport layer for sh0 |
+| 2026-11-14 17:08:31 | [sh0-store](https://crates.io/crates/sh0-store) | 0.1.0 | 0 | TOML config and SQLite persistence for sh0 |
+| 2026-11-14 17:10:53 | [rusted-auth](https://crates.io/crates/rusted-auth) | 0.4.1 | 0 | Framework-agnostic authentication core for Rust services: multi-issuer OIDC/JWT… |
+| 2026-11-14 17:10:55 | [rusted-auth-actix](https://crates.io/crates/rusted-auth-actix) | 0.4.1 | 0 | Actix-web middleware and extractors for rusted-auth |
+| 2026-11-14 17:12:03 | [hdl-syntax](https://crates.io/crates/hdl-syntax) | 0.1.0 | 0 | Reusable lexers, parsers, and syntax trees (CST/AST) for Verilog and VHDL |
+| 2026-11-14 17:12:09 | [hdl-ir](https://crates.io/crates/hdl-ir) | 0.1.0 | 0 | Language-neutral elaborated design IR (netlist + processes) |
+| 2026-11-14 17:12:13 | [hdl-lib](https://crates.io/crates/hdl-lib) | 0.1.0 | 0 | Library manager: named libraries, search paths, on-demand compile, dependency g… |
+| 2026-11-14 17:12:16 | [hdl-sim](https://crates.io/crates/hdl-sim) | 0.1.0 | 0 | Event-driven simulation kernel: logic values, time, scheduler, observer bus |
+| 2026-11-14 17:12:20 | [hdl-wave](https://crates.io/crates/hdl-wave) | 0.1.0 | 0 | Wave sinks and viewers: VCD, self-contained HTML/SVG, live HTTP+SSE, ASCII |
+| 2026-11-14 17:12:45 | [sh0-ai](https://crates.io/crates/sh0-ai) | 0.1.0 | 0 | AI-facing subcommand surface for sh0 |
+| 2026-11-14 17:17:27 | [ccf](https://crates.io/crates/ccf) | 0.1.0 | 0 | Search your local Claude Code conversations from the terminal |
 
 ## Data source
 

@@ -1,0 +1,33 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-14T16:19:19.455065Z,greenpiste-guard,4.0.1,0,0,https://github.com/greenharness/greenpiste,"greenpiste's guard: shell analysis, rules and stances for an agent's tool calls"
+2026-11-14T16:19:36.041802Z,greenpiste-process,4.0.1,0,0,https://github.com/greenharness/greenpiste,"greenpiste's work process: plan review, implementation review, preview approvals and provenance"
+2026-11-14T16:19:45.848193Z,greenpiste,4.0.1,0,0,https://github.com/greenharness/greenpiste,"A guard for Claude Code's tool calls: it reads each one before it runs, the work-process verdicts (plan review, implementation review, preview) included"
+2026-11-14T16:30:19.364685Z,tudolio,0.1.0,0,0,https://github.com/SirSamX/todo,"A simple, lightweight terminal-based todo manager"
+2026-11-14T16:30:52.966101Z,inodedb-core,0.1.0,0,0,https://github.com/danthegoodman1/inodedb,InodeDB's semantics as deterministic state machines.
+2026-11-14T16:30:53.753567Z,inodedb-proto,0.1.0,0,0,https://github.com/danthegoodman1/inodedb,InodeDB's gRPC protocol.
+2026-11-14T16:30:54.490584Z,inodedb-transport,0.1.0,0,0,https://github.com/danthegoodman1/inodedb,"gRPC's transport for InodeDB, directly on HTTP/2."
+2026-11-14T16:30:56.210015Z,inodedb-client,0.1.0,0,0,https://github.com/danthegoodman1/inodedb,InodeDB's Rust client.
+2026-11-14T16:43:47.510047Z,opac,0.0.1,0,0,https://github.com/sumeeth05/openPAC,opac
+2026-11-14T16:53:53.074205Z,sigil-fonts,0.2.0,0,0,https://github.com/manaforged/sigil,"The fonts Sigil draws with by default: Fira Sans, Cascadia Mono, a Noto Color Emoji subset, and a DejaVu Sans symbol subset."
+2026-11-14T16:55:32.799362Z,doppelscan,0.9.0,0,0,https://github.com/CMaintz/doppelscan,Fast syntax-aware duplicate code finder with an MCP server for coding agents
+2026-11-14T16:58:18.585192Z,duet-core,0.1.0,0,0,https://github.com/tasker-systems/making-music,"The Song every duet format converts through, quantizing, and the notefmt text format."
+2026-11-14T16:58:20.524105Z,duet-midi,0.1.0,0,0,https://github.com/tasker-systems/making-music,"Read and write Standard MIDI Files as duet Songs, exactly."
+2026-11-14T16:58:22.210418Z,duet-drums,0.1.0,0,0,https://github.com/tasker-systems/making-music,"The duet drum grid: a lanes × steps velocity matrix, its text form, lane maps, and conversion to and from a duet Song."
+2026-11-14T16:58:24.143553Z,duet-cli,0.1.0,0,0,https://github.com/tasker-systems/making-music,"duet: compose with an LLM in text both can read, and convert it to and from MIDI."
+2026-11-14T16:59:44.536059Z,pr0xy,0.2.0,0,0,https://gitlab.com/nowroth82/pr0xy,"Sovereign safe-Rust reverse proxy & AI/MCP Zero-Trust gateway with Post-Quantum TLS 1.3 & HTTP/3 QUIC (FIPS 140-3 / CNSA 2.0), RFC 9421 Web Bot Auth, Fides IFC MCP firewall, disaggregated LLM routing…"
+2026-11-14T17:06:46.308568Z,svg-rs,0.1.0,0,0,https://github.com/lockbook/svg-rs,"svg to texture, placeholder for now"
+2026-11-14T17:07:18.643178Z,sh0-term,0.1.0,0,0,https://github.com/creator521314/sh0,Terminal emulation layer for sh0
+2026-11-14T17:07:33.325346Z,sh0-ipc,0.1.0,0,0,https://github.com/creator521314/sh0,Local IPC transport and protocol between sh0 daemon and frontends
+2026-11-14T17:07:55.560171Z,sh0-core,0.1.0,0,0,https://github.com/creator521314/sh0,Domain model and orchestration core for sh0
+2026-11-14T17:08:02.73513Z,unicode-scripts,0.3.0,0,0,https://github.com/the-type-founders/unicode-scripts,The package provides detection of scripts from Unicode codepoints.
+2026-11-14T17:08:19.14324Z,sh0-ssh,0.1.0,0,0,https://github.com/creator521314/sh0,russh-based SSH transport layer for sh0
+2026-11-14T17:08:31.088888Z,sh0-store,0.1.0,0,0,https://github.com/creator521314/sh0,TOML config and SQLite persistence for sh0
+2026-11-14T17:10:53.19071Z,rusted-auth,0.4.1,0,0,https://github.com/Alpha-Global-Inovasi/rusted-auth,Framework-agnostic authentication core for Rust services: multi-issuer OIDC/JWT verification with JWKS caching and a Firebase preset
+2026-11-14T17:10:55.75186Z,rusted-auth-actix,0.4.1,0,0,https://github.com/Alpha-Global-Inovasi/rusted-auth,Actix-web middleware and extractors for rusted-auth
+2026-11-14T17:12:03.906723Z,hdl-syntax,0.1.0,0,0,https://github.com/larsjoost/hdlsim,"Reusable lexers, parsers, and syntax trees (CST/AST) for Verilog and VHDL"
+2026-11-14T17:12:09.337664Z,hdl-ir,0.1.0,0,0,https://github.com/larsjoost/hdlsim,Language-neutral elaborated design IR (netlist + processes)
+2026-11-14T17:12:13.661122Z,hdl-lib,0.1.0,0,0,https://github.com/larsjoost/hdlsim,"Library manager: named libraries, search paths, on-demand compile, dependency graph, cache"
+2026-11-14T17:12:16.482749Z,hdl-sim,0.1.0,0,0,https://github.com/larsjoost/hdlsim,"Event-driven simulation kernel: logic values, time, scheduler, observer bus"
+2026-11-14T17:12:20.919004Z,hdl-wave,0.1.0,0,0,https://github.com/larsjoost/hdlsim,"Wave sinks and viewers: VCD, self-contained HTML/SVG, live HTTP+SSE, ASCII"
+2026-11-14T17:12:45.486515Z,sh0-ai,0.1.0,0,0,https://github.com/creator521314/sh0,AI-facing subcommand surface for sh0
+2026-11-14T17:17:27.803466Z,ccf,0.1.0,0,0,https://github.com/polina4096/ccf,Search your local Claude Code conversations from the terminal
