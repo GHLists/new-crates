@@ -1,0 +1,37 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-14T18:24:47.161579Z,purge-ecosystems,0.1.0,0,0,https://github.com/iMohmmedSA/purge,Registry of every supported ecosystem
+2026-11-14T18:24:50.421752Z,purge-session,0.1.0,0,0,https://github.com/iMohmmedSA/purge,Runs purge against the user's configuration and saved state
+2026-11-14T18:25:18.798739Z,drumlin,0.1.1,0,0,https://github.com/davidpettersson/drumlin,Text-to-SVG UML diagrams with hand-drafted quality layout
+2026-11-14T18:33:15.116992Z,tumlare,0.0.0,0,0,,"Placeholder: Tumlare, an OCI registry for CI. This version only reserves the name."
+2026-11-14T18:36:08.505897Z,purge-daemon,0.1.0,0,0,https://github.com/iMohmmedSA/purge,"The background loop of purge: scheduling, idle checks and notifications"
+2026-11-14T18:39:13.278655Z,atlassian-toolkit,0.0.1,0,0,https://github.com/racetozero/atlassian-toolkit,"Rust SDK for the Atlassian suite (Jira, Confluence, Bitbucket, Trello, Admin) generated from Atlassian's OpenAPI documents"
+2026-11-14T18:39:40.823933Z,atlassian-toolkit-mcp,0.0.1,0,0,https://github.com/racetozero/atlassian-toolkit,Model Context Protocol server exposing the Atlassian suite through atlassian-toolkit
+2026-11-14T18:40:52.264444Z,atl,0.0.1,0,0,https://github.com/racetozero/atlassian-toolkit,"atl: one CLI and MCP server for Jira, Confluence, Bitbucket, Trello and Atlassian Admin, Cloud and Data Center"
+2026-11-14T18:44:36.04896Z,jalalix,0.1.1,0,0,https://github.com/jalalix/rust,"Jalali (Persian / Shamsi) calendar library — pure Rust, no dependencies"
+2026-11-14T18:47:11.148602Z,purge-service,0.1.0,0,0,https://github.com/iMohmmedSA/purge,Registers the purge daemon to start at login
+2026-11-14T18:53:11.198453Z,keylease-connectors,0.3.0,0,0,https://github.com/tidusvn05/keylease,Typed SaaS connector actions executed by KeyLease without revealing credentials
+2026-11-14T18:53:29.772021Z,ignite-macros,0.3.0,0,0,https://github.com/lajennylove/Ignite,Derive macro for Ignite: writes an admin resource from an Orbit model.
+2026-11-14T18:53:44.05396Z,keylease-policy,0.3.0,0,0,https://github.com/tidusvn05/keylease,Deny-by-default policy rules and approvals used by KeyLease
+2026-11-14T18:53:47.50054Z,ignite-core,0.3.0,0,0,https://github.com/lajennylove/Ignite,"Core types for Ignite, the admin panel for Rocket.rs: resources, fields, forms and runtime resources."
+2026-11-14T18:54:04.684186Z,fireline-contract,0.2.6,0,0,https://github.com/ThinkersJournal/fireline,"KISS-Contract bind-time obligations: parse a Dispatch expression (KISS-CONTRACT-6.6-0006) and bind it against a launch environment with typed declines (6.12-0001..-0006, 6.6-0009). Draft-tracking, de…"
+2026-11-14T18:54:21.118319Z,ignite-panel,0.3.0,0,0,https://github.com/lajennylove/Ignite,"The Ignite admin panel for Rocket.rs, built on Propel views and Orbit."
+2026-11-14T18:55:42.808649Z,lau-bigfun,0.3.1,0,0,https://github.com/EitrLicht/lau-bigfun-rs,"Tomb Raider LAU (Legend, Anniversary, Underworld) bigfile archive reader and unpacker"
+2026-11-14T18:58:19.459638Z,purge,0.1.0,0,0,https://github.com/iMohmmedSA/purge,"Reclaims disk space from stale build artifacts (Rust target/ folders), running in the background"
+2026-11-14T18:58:57.700028Z,sharenv,0.1.2,0,0,https://github.com/pr4j3sh/sharenv,Sync and share project .env files with a self-hosted sharenv-api
+2026-11-14T18:59:03.880743Z,devwrapped-core,0.0.1,0,0,https://github.com/OBERON-gg/devwrapped,"Collectors, stats model, and awards for devwrapped"
+2026-11-14T18:59:14.349535Z,devwrapped-card,0.0.1,0,0,https://github.com/OBERON-gg/devwrapped,"SVG, PNG, and HTML card renderers for devwrapped"
+2026-11-14T18:59:23.367154Z,devwrapped,0.0.1,0,0,https://github.com/OBERON-gg/devwrapped,"A year in review from your local git history, shell history, and AI agent logs"
+2026-11-14T19:00:51.781983Z,rightkit-agent-coding-tools,0.1.0,0,0,https://github.com/bogusyogi/rightkit,"The coding agent's host tools (files, edit and patch, shell and PTY, git, browser, MCP, LSP, tasks, checkpoints, sandboxing) behind an async `Tool` trait and a `ToolRegistry`."
+2026-11-14T19:01:39.29777Z,offloader,0.1.0,0,0,https://github.com/jakeuribe/offloader,Offload a file elsewhere and leave an encrypted retrieval record in its place
+2026-11-14T19:01:40.042407Z,sv-lexer,0.1.0,0,0,https://github.com/mayurkubavat/svlang,Lossless SystemVerilog lexer (IEEE 1800-2023): every byte of the input is in exactly one token
+2026-11-14T19:01:40.532991Z,sv-source,0.1.0,0,0,https://github.com/mayurkubavat/svlang,Reads VCS and Xcelium style file lists into one normalized compile plan
+2026-11-14T19:01:41.064431Z,sv-preprocessor,0.1.0,0,0,https://github.com/mayurkubavat/svlang,"SystemVerilog preprocessor on sv-lexer: `define, `ifdef, `include and macro expansion"
+2026-11-14T19:01:42.625198Z,sv-syntax,0.1.0,0,0,https://github.com/mayurkubavat/svlang,Lossless SystemVerilog syntax tree (CST) over sv-preprocessor
+2026-11-14T19:01:44.364883Z,sv-semantic,0.1.0,0,0,https://github.com/mayurkubavat/svlang,"IEEE 1800-2023 semantic analysis, constant evaluation, elaboration, and class model"
+2026-11-14T19:07:22.129255Z,sane-sys,0.1.0,0,0,https://github.com/AlixANNERAUD/libsane_rust,"Raw FFI bindings to libsane, the SANE (Scanner Access Now Easy) scanner API, generated with bindgen and linked through pkg-config"
+2026-11-14T19:07:27.488639Z,libsane,0.1.0,0,0,https://github.com/AlixANNERAUD/libsane_rust,"Scan documents and images from Rust: safe bindings to SANE (Scanner Access Now Easy) for flatbed scanners, document feeders and multifunction printers on Linux, BSD and macOS"
+2026-11-14T19:12:09.027043Z,sv-netlist,0.1.0,0,0,https://github.com/mayurkubavat/svlang,"Format-neutral, word-level RTL netlist lowering, procedural symbolic execution, and bit-level driver analysis for IEEE 1800-2023 SystemVerilog"
+2026-11-14T19:15:42.068945Z,lugh,0.7.0,0,0,https://github.com/Ashutosh3142857/lugh-lang,"Lugh Core: runtime and CLI for Lugh, a programming language for AI agents with policy, budgets and human approval in the syntax"
+2026-11-14T19:16:22.67666Z,bcmalloc,0.1.0,0,0,https://github.com/clabby/bcmalloc,"A scalable global allocator that reserves its memory up front, for long-lived, highly concurrent programs."
+2026-11-14T19:16:34.712882Z,vertep-wallet,0.1.5,0,0,https://github.com/Volland/vertep,"Agent wallets for Vertep: sealed credentials, consent, pluggable exchange protocols and formats, and an exchange model checked in Lean"
+2026-11-14T19:19:00.146547Z,spec-stream-core,0.1.0,0,0,https://github.com/glastor-core/spec-stream,"Core algorithms, data structures, and verification primitives for speculative decoding in LLM inference"
