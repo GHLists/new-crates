@@ -1,0 +1,22 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-14T06:21:19.870926Z,xsh,0.0.9,0,0,https://github.com/Erox-02/xsh,A minimal shell in rust
+2026-11-14T06:23:49.717524Z,podrunner-slots,0.0.0,0,0,https://github.com/PodUtils/podrunner,"The slots core of podrunner: states, journal, placement, status, drain, codes and audit"
+2026-11-14T06:26:25.454179Z,xcss-codegen,0.12.0,0,0,https://github.com/IvanKobtsev/XCSS,CSS and JavaScript generation for XCSS
+2026-11-14T06:28:21.721766Z,smear-analysis,0.0.0,0,0,https://github.com/al8n/smear,"The GraphQLx schema analyzer: GraphQLx packages in, a resolved model and its diagnostics out."
+2026-11-14T06:29:15.492588Z,shipstern-preconf-source,0.13.0,0,0,https://github.com/solana-rpc/shipstern,Triton preconfirmation source for Shipstern
+2026-11-14T06:34:03.833644Z,podssh-cli,0.0.0,0,0,https://github.com/PodUtils/podssh,"The command line of podssh: SSH from machines whose only way out is HTTPS, through a WebSocket relay"
+2026-11-14T06:34:46.322028Z,sigtrace,0.1.0,0,0,https://github.com/mengyou1024/sigtrace,一个轻量、单线程的响应式运行时
+2026-11-14T06:35:50.520651Z,xcss-core,0.12.0,0,0,https://github.com/IvanKobtsev/XCSS,Compiler core for the XCSS styling language
+2026-11-14T06:44:15.946513Z,podvm-api,0.0.0,0,0,https://github.com/PodUtils/podvm,The Docker and Podman compatible API surface of podvm
+2026-11-14T06:48:00.549273Z,xcss-resolver,0.12.0,0,0,https://github.com/IvanKobtsev/XCSS,Filesystem project resolution for XCSS
+2026-11-14T06:52:53.098417Z,renderwall-core,0.1.0,0,0,https://github.com/lucheeseng827/renderwall,"renderwall URL classification: route grammar, oid validation, cache-key preimage"
+2026-11-14T06:53:03.618049Z,renderwall-store,0.1.0,0,0,https://github.com/lucheeseng827/renderwall,renderwall content-addressed render store: zstd CAS payloads + index records
+2026-11-14T06:53:07.859966Z,renderwall-audit,0.1.0,0,0,https://github.com/lucheeseng827/renderwall,renderwall — the audit projection (pure arithmetic over a /stats document)
+2026-11-14T06:53:20.419097Z,renderwall-proxy,0.1.0,0,0,https://github.com/lucheeseng827/renderwall,"renderwall reverse proxy: classify, pass through, serve hits, tee fills"
+2026-11-14T06:53:27.412041Z,renderwall,0.1.0,0,0,https://github.com/lucheeseng827/renderwall,renderwall — render-cost firewall reverse proxy for git forges
+2026-11-14T06:54:29.32932Z,podfleet,0.0.0,0,0,https://github.com/PodUtils/podfleet,A PodUtils tool: name reserved
+2026-11-14T06:56:52.228743Z,xcss-cli,0.12.0,0,0,https://github.com/IvanKobtsev/XCSS,Command-line compiler for XCSS
+2026-11-14T07:04:37.582383Z,podrun,0.0.0,0,0,https://github.com/PodUtils/podrun,A PodUtils tool: name reserved
+2026-11-14T07:08:05.060414Z,embassy-cw32,0.4.0,0,0,https://github.com/SunWithCloude/Cw32l012_embassy,embassy async HAL for CW32 Cortex-M0+ MCUs (Wuhan Xinyuan / CMSemicon): L012/L010/L011 and the classic F003/F020/F030(A030)/L031/L052/L083/R031/W031 families
+2026-11-14T07:14:47.046786Z,podmask,0.0.0,0,0,https://github.com/PodUtils/podmask,Confidential execution without trusted hardware: redact the /proc metadata of a process tree while programs keep their real arguments
+2026-11-14T07:19:15.244387Z,teixml-to-mutable,0.1.0,0,0,,Converts TEI-XML to raw phext (multiversal chain format) — stage 0.1: raw phext
