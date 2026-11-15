@@ -1,0 +1,23 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-15T10:21:25.24211Z,esales-tariff,0.0.1,0,0,https://github.com/hupe1980/esales,"Part of esales, the open-source sales platform for energy retail. Name reserved; the first release follows."
+2026-11-15T10:25:39.842748Z,prooftrail,0.2.0,0,0,https://github.com/AjmalX0/ProofVault,"ProofTrail CLI: verifiable digital evidence — acquisition, sealing, custody chain, Merkle anchoring, court packages"
+2026-11-15T10:26:45.442952Z,dioptrin,0.13.0,0,0,https://github.com/CPrescher/Dioptrin,Fast open-source 1D/2D diffraction integration with CSR lookup tables
+2026-11-15T10:28:05.151362Z,polymer-config,0.1.0,0,0,https://github.com/SnowflakePowered/polymer,Emulator configuration definitions and output formats for Polymer
+2026-11-15T10:28:07.244129Z,polymer-pluginmanifest,0.1.0,0,0,https://github.com/SnowflakePowered/polymer,Parsing and validation of Polymer plugin manifests
+2026-11-15T10:28:09.206843Z,polymer-distribution,0.1.0,0,0,https://github.com/SnowflakePowered/polymer,"Polymer plugin index, release manifests, and signed archives"
+2026-11-15T10:28:11.082283Z,polymer-pack,0.1.0,0,0,https://github.com/SnowflakePowered/polymer,"Packs, signs, and checks Polymer plugins for distribution"
+2026-11-15T10:29:30.830998Z,esales-terms,0.0.1,0,0,https://github.com/hupe1980/esales,"Part of esales, the open-source sales platform for energy retail. Name reserved; the first release follows."
+2026-11-15T10:35:44.733885Z,prooftrail-verify,0.2.0,0,0,https://github.com/AjmalX0/ProofVault,"Independent, offline verifier for ProofTrail court packages"
+2026-11-15T10:37:22.687156Z,genai-agents-eval,0.1.0,0,0,https://github.com/genai-rs/genai-agents,"Evals for genai-agents: datasets, scorers, repeated runs, reports with a baseline, Langfuse dataset runs"
+2026-11-15T10:38:12.925388Z,genai-agents-mcp,0.1.0,0,0,https://github.com/genai-rs/genai-agents,"The tools of MCP servers as genai-agents tools, on rmcp"
+2026-11-15T10:38:49.661037Z,zzu,0.1.0,0,0,https://github.com/Illustar0/libzzu,Async Rust client for Zhengzhou University campus services
+2026-11-15T10:39:37.287706Z,esales-verify,0.0.1,0,0,https://github.com/hupe1980/esales,"Part of esales, the open-source sales platform for energy retail. Name reserved; the first release follows."
+2026-11-15T10:39:58.301567Z,torogao-paint,0.5.0,0,0,,"The torogao-paint document core: a sparse tile-based layered raster document with a deterministic op log (torogao-paint/1), blend modes in integer arithmetic, and PNG import/export. No UI, no GPU."
+2026-11-15T10:40:02.332599Z,torogao-gencond,0.5.0,0,0,,"Torogao's experimental generation-conditioning seam (D-822): the Conditioning record schema, canon compilation, and the torogao-gen-graph/1 compiler. Enters the author surface only behind torogao-aut…"
+2026-11-15T10:41:18.162213Z,genai-agents-sqlite,0.1.0,0,0,https://github.com/genai-rs/genai-agents,SQLite sessions for genai-agents
+2026-11-15T10:41:34.305834Z,torogao-pen,0.5.0,0,0,,"The torogao-pen evdev side-channel: pen pressure and position read from the kernel evdev node (capability-matched, reader-only, no grab) for torogao-paint, plus the uinput synthetic pen that exercise…"
+2026-11-15T10:46:02.051181Z,prooftrail-verify-server,0.2.0,0,0,https://github.com/AjmalX0/ProofVault,"Account-free public verification status pages for ProofTrail packages (signed, revocable QR tokens)"
+2026-11-15T10:51:52.471185Z,centralino,0.1.0,0,0,,"A WireGuard mesh network combining direct peer-to-peer connections with an integrated control plane for NAT traversal, mesh DNS, and self-service enrollment"
+2026-11-15T10:54:44.208792Z,hypermarkdown,0.1.0,0,0,https://github.com/ewiger/hypermarkdown,The HyperMarkdown resolver: which card a [[reference]] names.
+2026-11-15T11:03:31.656734Z,open-port-scanner,2.0.0,0,0,https://github.com/open-port-tools/port-scanner,"Fast, zero-dependency async TCP port scanner & 1-click local LAN subnet mapper in native Rust with GPU GUI (egui) and CLI (clap)."
+2026-11-15T11:19:32.114933Z,jfr_parser,0.1.0,0,0,https://github.com/Muthu-Palaniyappan-OL/jfr-parser,"Fast, low-memory, dependency-free reader and query engine for Java Flight Recorder (JFR) files"
