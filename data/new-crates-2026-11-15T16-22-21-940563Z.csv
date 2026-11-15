@@ -1,0 +1,32 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-15T15:23:39.451013Z,celesta-registry-format,0.10.0-alpha.2,0,0,https://github.com/mika-f/celesta,"The plugin registry's client-facing file formats: JSON Schemas, fixtures, and their Rust types."
+2026-11-15T15:25:50.094002Z,mole-p2p,0.1.1,0,0,https://github.com/michal-pielka/mole,Serverless peer-to-peer byte tunnels over Mainline DHT or STUN and rendezvous
+2026-11-15T15:27:32.540431Z,yacrypt-core,0.1.0,0,0,,"Core cryptographic primitives, keystore management, and encryption workflows for YaCrypt."
+2026-11-15T15:27:58.811627Z,yacrypt,0.1.0,0,0,https://github.com/double12gzh/YaCrypt,"Secure file encryption/decryption CLI tool using Argon2id, XChaCha20-Poly1305, X25519, and Ed25519."
+2026-11-15T15:28:31.093038Z,ferrovisor,0.0.1,0,0,,Ferrovisor bare-metal hypervisor: host compatibility check (future: installation tool & API)
+2026-11-15T15:29:42.654056Z,fvctl,0.0.1,0,0,,Command-line tool for the Ferrovisor hypervisor (currently: host compatibility check)
+2026-11-15T15:31:51.511681Z,tf-log-parser-derive,0.1.0,0,0,https://codeberg.org/icewind/tf-log-parser,derive macros for tf-log-parser
+2026-11-15T15:34:04.624028Z,tf-log-parser,0.1.0,0,0,https://codeberg.org/icewind/tf-log-parser,TF2 log parser with a focus on speed and flexibility
+2026-11-15T15:36:02.093302Z,rakko-test-utils,0.1.0,0,0,https://github.com/aonyx-ai/rakko,Helpers for testing Rakko actions
+2026-11-15T15:43:26.595556Z,pqbind,0.0.1,0,0,,"Reserved name: post-quantum authentication for connections that already have post-quantum key exchange. Pre-release, no functionality yet."
+2026-11-15T15:45:59.479099Z,toron,0.0.1,0,0,,"Toron, a modular audio workstation for Windows: everything is a node you patch freely — drivers, VST3 plugins, sequencer, mixing console, modular synth. Presentation crate; the application is in deve…"
+2026-11-15T15:48:37.411252Z,kafka-streams-lite,0.1.0,0,0,,"A lightweight Kafka Streams-style DSL and runtime for Rust, with a broker-independent core"
+2026-11-15T15:49:58.564175Z,rakko-tool,0.1.0,0,0,https://github.com/aonyx-ai/rakko,Finds and runs the external tools of Rakko actions through mise
+2026-11-15T15:55:56.048222Z,deckly-plugin-protocol,0.0.1,0,0,https://github.com/deckly-app/Deckly,"Messages, framing and limits shared by the Deckly plugin host and the Deckly plugin SDK"
+2026-11-15T15:55:58.28523Z,deckly-cli,0.0.1,0,0,https://github.com/deckly-app/Deckly,"Create, build, run and package Deckly plugins"
+2026-11-15T15:55:58.887649Z,deckly-sdk,0.0.1,0,0,https://github.com/deckly-app/Deckly,Write plugins for Deckly in Rust
+2026-11-15T16:04:05.586328Z,aonyx-rakko-cargo,0.1.0,0,0,https://github.com/aonyx-ai/rakko,"Runs cargo for Rakko actions: workspaces, toolchains, and JSON diagnostics"
+2026-11-15T16:04:29.226073Z,talia,0.0.1,0,0,,Talia: a desktop and server workspace for coding agents. Name reserved; in development.
+2026-11-15T16:04:55.175286Z,bases,0.1.0,0,0,https://github.com/fast/bases,"Fast, strict RFC 4648 Base16, Base32, and Base64 codecs for Rust."
+2026-11-15T16:06:19.413666Z,skamandros,0.1.0,0,0,https://github.com/zk4x/skamandros,"Tenstorrent kernel IR, allocator and driver. Builds libskamandros.so."
+2026-11-15T16:06:43.495543Z,pqbind-crypto,0.0.1,0,0,,"Reserved name: hybrid Ed25519 and ML-DSA-87 signatures for pqbind. Pre-release, no functionality yet."
+2026-11-15T16:06:46.122028Z,pqbind-cli,0.0.1,0,0,,"Reserved name: the pqbind command line (demo, verify, probe). Pre-release, no functionality yet."
+2026-11-15T16:08:14.000242Z,slint-access-widgets,0.1.0,0,0,https://github.com/baslentfert/slint-access-widgets,"Accessible widgets for Slint (WCAG 2.2): a virtualized table that screen readers can follow, and more. Follows the active Slint style."
+2026-11-15T16:11:43.696561Z,tca6408a-registers,0.1.0,0,0,https://github.com/sunsided/tca6408a,A typed map of the TI TCA6408A 8-bit I²C I/O expander registers
+2026-11-15T16:11:46.334302Z,tca6408a,0.1.0,0,0,https://github.com/sunsided/tca6408a,A platform-agnostic embedded-hal driver for the TI TCA6408A 8-bit I²C I/O expander
+2026-11-15T16:14:13.96767Z,qmi8658a-registers,0.1.0,0,0,https://github.com/sunsided/qmi8658a,A typed map of the QST QMI8658A IMU registers
+2026-11-15T16:14:16.751351Z,qmi8658a,0.1.0,0,0,https://github.com/sunsided/qmi8658a,A platform-agnostic embedded-hal driver for the QST QMI8658A 6-axis IMU
+2026-11-15T16:14:23.551421Z,qmc5883p-registers,0.1.0,0,0,https://github.com/sunsided/qmc5883p,A typed map of the QST QMC5883P magnetometer registers
+2026-11-15T16:15:50.427379Z,qmc5883p-ng,0.1.0,0,0,https://github.com/sunsided/qmc5883p,A platform-agnostic embedded-hal driver for the QST QMC5883P magnetometer
+2026-11-15T16:17:17.133238Z,sekimori,0.15.0,0,0,https://github.com/h11roki/sekimori,Static analysis for GitHub Actions workflows that run AI coding agents
+2026-11-15T16:18:05.79797Z,aonyx-rakko-check-mise-lock,0.1.0,0,0,https://github.com/aonyx-ai/rakko,A Rakko action that checks that the mise lockfile of a project is up to date
