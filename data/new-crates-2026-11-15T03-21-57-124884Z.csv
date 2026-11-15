@@ -1,0 +1,36 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-15T02:18:33.725789Z,cdl-blocks,0.1.0,0,0,https://github.com/ACE-IoT-Solutions/ace-cdl-explorer,CDL elementary block registry and slot-based kernels
+2026-11-15T02:18:41.827142Z,cdl-compat,0.1.0,0,0,https://github.com/ACE-IoT-Solutions/ace-cdl-explorer,Lossless simplified CDL JSON adapter for the canonical model
+2026-11-15T02:18:46.948068Z,cdl-exec,0.1.0,0,0,https://github.com/ACE-IoT-Solutions/ace-cdl-explorer,Compile and execute canonical CDL documents
+2026-11-15T02:23:45.292748Z,ferroui-media-camera-android,0.5.0,0,0,https://github.com/wieslawsoltes/FerroUI,CameraX photo and silent video capture with shared Android GPU preview
+2026-11-15T02:27:50.112203Z,cdl-verify,0.1.0,0,0,https://github.com/ACE-IoT-Solutions/ace-cdl-explorer,Native CDL trend replay and absolute time/value funnel verification
+2026-11-15T02:35:04.971461Z,ferroui-media-qr-android,0.5.0,0,0,https://github.com/wieslawsoltes/FerroUI,Optional bundled offline Android QR analysis of CameraX images
+2026-11-15T02:35:07.611971Z,ml-convertant-core,0.1.24,0,0,https://github.com/ThinkersJournal/ml-convertant,Error-measurement contract and conversion trait shared by the ml-convertant crates.
+2026-11-15T02:35:08.125879Z,ml-convertant-names,0.1.24,0,0,https://github.com/ThinkersJournal/ml-convertant,"Rename LoRA adapter tensors between the PEFT (safetensors) and llama.cpp GGUF forms, refusing names it has no measured mapping for."
+2026-11-15T02:35:09.521242Z,ml-convertant-awq,0.1.24,0,0,https://github.com/ThinkersJournal/ml-convertant,"AWQ (4-bit, GEMM layout) pack, unpack and kernel repack with measured error: lossless and checked bit-exact."
+2026-11-15T02:35:10.430428Z,ml-convertant-ggml,0.1.24,0,0,https://github.com/ThinkersJournal/ml-convertant,"ggml block-format encode/decode (Q8_0) with measured error, bit-exact against llama.cpp's reference."
+2026-11-15T02:35:11.365106Z,ml-convertant-kquants,0.1.24,0,0,https://github.com/ThinkersJournal/ml-convertant,"ggml K-quants (Q4_K) encode/decode with measured error, bit-exact against llama.cpp's reference."
+2026-11-15T02:37:49.749195Z,cdl-cli,0.1.0,0,0,https://github.com/ACE-IoT-Solutions/ace-cdl-explorer,"Validate, convert, run and verify CDL controllers"
+2026-11-15T02:37:59.283226Z,ml-convertant-lora,0.1.24,0,0,https://github.com/ThinkersJournal/ml-convertant,"Merge a LoRA adapter into base weights (W + scale * B @ A) with a measured, bounded error."
+2026-11-15T02:45:47.24104Z,markfmt,1.0.0,0,0,https://github.com/tnorbye/markfmt,"Standalone Markdown, Markdeep, and agent instruction file formatter"
+2026-11-15T02:45:59.162143Z,nookcodes,0.5.1,0,0,https://github.com/xavwtf/nookcodes,Crate for generating and decoding passwords for Animal Crossing: GameCube.
+2026-11-15T02:46:09.549178Z,ferroui-media-video-android,0.5.0,0,0,https://github.com/wieslawsoltes/FerroUI,Android native playback and audio with shared GPU frame output
+2026-11-15T02:47:09.017681Z,crumbkit-durable,0.5.0,0,0,https://github.com/crumbkit/crumbkit,"Replace a file atomically, so a reader or a crash sees the old bytes or the new bytes, and lock a lock file that is still at its path"
+2026-11-15T02:47:51.424961Z,ml-convertant-mlmf,0.1.24,0,0,https://github.com/ThinkersJournal/ml-convertant,"Read a GGUF with MLMF, convert its dense tensors to a ggml quantized type with measured error, write a new GGUF."
+2026-11-15T02:53:11.789822Z,sendmock-core,1.0.0,0,0,https://github.com/shibbirweb/sendmock,"Shared types for SendMock: events, value objects, errors, clock and id traits."
+2026-11-15T02:53:14.727127Z,sendmock-payments,1.0.0,0,0,https://github.com/shibbirweb/sendmock,"Payment domain for SendMock: checkout flows, payment methods and their rules."
+2026-11-15T02:53:17.762346Z,sendmock-tray,1.0.0,0,0,https://github.com/shibbirweb/sendmock,"A menu bar and system tray app for SendMock: starts it, shows the unread counts and opens the web UI."
+2026-11-15T02:53:34.322079Z,sendmock-store,1.0.0,0,0,https://github.com/shibbirweb/sendmock,"SQLite storage for SendMock: connections, migrations and repositories."
+2026-11-15T02:53:41.055046Z,sendmock-webhooks,1.0.0,0,0,https://github.com/shibbirweb/sendmock,"Webhook domain for SendMock: endpoints, rules, rendering and delivery."
+2026-11-15T02:57:14.851452Z,blackhosts,1.0.1793744309,0,0,https://github.com/Lateralus138/blackhosts,This is a cross-platform hosts file installer for hosts files found at the StevenBlack repository.
+2026-11-15T02:57:51.190264Z,ferroui-media3d,0.5.0,0,0,https://github.com/wieslawsoltes/FerroUI,"WPF-style 3D for FerroUI: the Media3D values, and the scene model of Viewport3D"
+2026-11-15T02:57:51.592961Z,ml-convertant-nf4,0.1.24,0,0,https://github.com/ThinkersJournal/ml-convertant,"bitsandbytes NF4 (4-bit NormalFloat) encode/decode with measured error, checked against real bitsandbytes output."
+2026-11-15T02:58:48.458553Z,gpu-info-rs,0.1.0,0,0,https://github.com/ssoj13/gpu-info-rs,"Portable GPU info: wgpu capability reporting (limits/features/formats) + DXGI VRAM budget, plus OS-level VRAM/RAM query (no GPU context). One-stop GPU info crate with a diagnostic CLI."
+2026-11-15T03:03:16.892402Z,sendmock-mail,1.0.0,0,0,https://github.com/shibbirweb/sendmock,"The email domain for SendMock: parsing, extraction, tags and the ingest service."
+2026-11-15T03:09:45.493415Z,ferroui-designer-collaboration-host,0.5.0,0,0,https://github.com/wieslawsoltes/FerroUI,"Durable authenticated designer rooms, reconnecting clients and an MCP collaboration service"
+2026-11-15T03:13:16.525098Z,sendmock-sms,1.0.0,0,0,https://github.com/shibbirweb/sendmock,"SMS domain for SendMock: messages, providers and delivery simulation."
+2026-11-15T03:14:16.819961Z,maat-flight,0.2.0,0,0,https://github.com/IsomorphicAlgo/Ma-at,"Vehicle-layer core of the Ma'at contact scheduler: no_std, heap-free, integer-only contact-window types and stable reason codes"
+2026-11-15T03:14:18.914941Z,maat-ground,0.2.0,0,0,https://github.com/IsomorphicAlgo/Ma-at,"Human-layer companion to the Ma'at contact scheduler: ground stations, calendar time and Ephemerust pass prediction feeding the no_std flight core"
+2026-11-15T03:14:20.722075Z,maat-cli,0.2.0,0,0,https://github.com/IsomorphicAlgo/Ma-at,Command-line front end for the Ma'at contact scheduler
+2026-11-15T03:18:32.47382Z,atomictrack128,2.0.0-alpha.1,0,0,https://github.com/Bill13579/atomictrack,A place to play with monotonic atomic numbers (128-bit atomics version)
+2026-11-15T03:21:12.462346Z,ferroui-media-browser,0.5.0,0,0,https://github.com/wieslawsoltes/FerroUI,Page-owned WebGL frame storage and direct texture presentation
