@@ -1,0 +1,34 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-15T22:24:54.570578Z,aonyx-rakko-lint-rust,0.1.0,0,0,https://github.com/aonyx-ai/rakko,A Rakko action that lints Rust code with clippy
+2026-11-15T22:32:01.570172Z,strata_charts,0.1.0,0,0,https://github.com/strataui/strata,Declarative SVG & GPU Data Visualization Charts for Strata
+2026-11-15T22:32:02.451209Z,strata_crdt,0.1.0,0,0,https://github.com/strataui/strata,Local-first conflict-free replicated data types and collaborative reactive signals for Project Strata
+2026-11-15T22:32:02.817459Z,strata_device,0.1.0,0,0,https://github.com/strataui/strata,"Native hardware introspection, device telemetry, and reactive hardware signals for Strata"
+2026-11-15T22:32:03.147122Z,strata_form,0.1.0,0,0,https://github.com/strataui/strata,Pure-Rust signal-driven form state management and schema validation engine for Strata
+2026-11-15T22:32:04.097582Z,strata_hot_reload,0.1.0,0,0,https://github.com/strataui/strata,State-preserving native code hot-reloading orchestrator for Project Strata
+2026-11-15T22:33:31.743699Z,lsd-protocol,113.0.1,0,0,,"Wire contract of the native LSD inference API, shared by every server and client that speaks it"
+2026-11-15T22:35:39.342126Z,ratatui-prtty,0.1.0,0,0,https://github.com/hughpyle/ratatui-prtty,"The prtty 1989-DOS window look (half-cell frames, title tabs, drop shadows) as a drop-in ratatui Block"
+2026-11-15T22:36:40.294247Z,aonyx-rakko-lint-shell,0.1.0,0,0,https://github.com/aonyx-ai/rakko,A Rakko action that lints shell scripts with ShellCheck
+2026-11-15T22:38:17.9607Z,strata_i18n,0.1.0,0,0,https://github.com/strataui/strata,"Pure-Rust reactive internationalization (i18n), ICU MessageFormat, and localization engine for Strata"
+2026-11-15T22:43:13.967972Z,signon,1.0.0,0,0,https://github.com/dbinvent/signon.git,"Shared user management for the your backoffices: registration, email verification, login sessions, password reset and OAuth2 SSO"
+2026-11-15T22:48:24.652061Z,aonyx-rakko-lint-toml,0.1.0,0,0,https://github.com/aonyx-ai/rakko,A Rakko action that validates TOML files with taplo
+2026-11-15T22:52:09.732465Z,aeconv,0.1.0,0,0,https://github.com/nirkzxc/aeconv,"Extensible cross-platform file conversion CLI written in Rust, starting with images."
+2026-11-15T22:57:18.527943Z,tree-sitter-gosu,0.1.0,0,0,https://github.com/patrickkelley/tree-sitter-gosu,Gosu is a statically typed general-purpose programming language that runs on the Java Virtual Machine.
+2026-11-15T22:57:58.635743Z,rs-arrow-qwords2pgcopy,0.1.0,0,0,https://github.com/takanoriyanagitani/rs-arrow-qwords2pgcopy,Converts the 8-bytes items in the array to pgcopy bytes.
+2026-11-15T23:04:20.229035Z,aonyx-rakko-nextest,0.1.0,0,0,https://github.com/aonyx-ai/rakko,Runs cargo-nextest for Rakko actions and turns its reports into findings
+2026-11-15T23:06:07.241617Z,dirt-bike-graphics-fitment,1.0.0,0,0,https://github.com/dirt-bike-graphics/dirt-bike-graphics.github.io,"Dirt bike plastic and graphics kit fitment data across 175 model years, 76 models and 11 brands with zero-dependency lookup helpers."
+2026-11-15T23:06:12.030913Z,custom-motorcycle-helmet-styles,1.0.0,0,0,https://github.com/dirt-bike-graphics/custom-motorcycle-helmet,"Motorcycle helmet shell silhouettes, paintable zones and surface finishes across 33 helmet styles and 5 rider categories."
+2026-11-15T23:06:16.975663Z,custom-skateboard-deck-sizes,1.0.0,0,0,https://github.com/custom-skateboard-decks/custom-skateboard-decks.github.io,"Skateboard deck shapes, width by length dimensions, truck axle pairings and 300 DPI print specs across 33 boards."
+2026-11-15T23:06:19.377236Z,syncspin-core,0.1.0,0,0,https://github.com/acuntex/syncspin,"Sendspin protocol core: Noise handshake, framing, messages and the clock filter"
+2026-11-15T23:06:32.269168Z,syncspin-client,0.1.0,0,0,https://github.com/acuntex/syncspin,"Sendspin client: session loop, noise handshake, Sink trait and event stream"
+2026-11-15T23:08:18.356774Z,oxirush-pfcp,0.1.0,0,0,https://github.com/linouxis9/oxirush-pfcp,"PFCP (3GPP TS 29.244, Release 19) in Rust: decode, build, check and encode every message and IE of N4, N4mb, Sxa, Sxb and Sxc, and edit them as JSON. no_std."
+2026-11-15T23:09:16.1203Z,rangoframework-template,0.1.0,0,0,https://github.com/ZFCon/rango-framework,Rango template engine: Rango Template Language in Rust.
+2026-11-15T23:09:29.851521Z,rangoframework-forms,0.1.0,0,0,https://github.com/ZFCon/rango-framework,Rango forms: the forms framework in Rust.
+2026-11-15T23:09:39.433024Z,rangoframework-views,0.1.0,0,0,https://github.com/ZFCon/rango-framework,"Rango views: default error views, debug pages, static serving, decorators, shortcuts."
+2026-11-15T23:09:54.72121Z,rangoframework-middleware,0.1.0,0,0,https://github.com/ZFCon/rango-framework,"Rango request handling: middleware chain, built-in middleware, dev server."
+2026-11-15T23:10:06.321819Z,rangoframework-contrib,0.1.0,0,0,https://github.com/ZFCon/rango-framework,"Rango contrib apps: auth, sessions, messages, contenttypes, staticfiles, sites and more."
+2026-11-15T23:15:41.171768Z,koda-config,0.7.0,0,0,https://github.com/lijunzh/koda,"The config file of the Koda AI coding agent: reading, checking and editing ~/.config/koda/config.toml"
+2026-11-15T23:15:51.142775Z,koda-protocol,0.7.0,0,0,https://github.com/lijunzh/koda,The client protocol of the Koda AI coding agent: JSON-RPC 2.0 messages and their types
+2026-11-15T23:16:13.87534Z,aonyx-rakko-set-msrv,0.1.0,0,0,https://github.com/aonyx-ai/rakko,A Rakko command that sets and verifies the minimum supported Rust version
+2026-11-15T23:16:22.954774Z,koda-state,0.7.0,0,0,https://github.com/lijunzh/koda,"The stored state of the Koda AI coding agent: its sessions, SQLite files and diagnostic log database"
+2026-11-15T23:18:12.119211Z,koda-client,0.7.0,0,0,https://github.com/lijunzh/koda,"The client API of the Koda AI coding agent: start Koda, send requests, read its answers"
+2026-11-15T23:20:41.888477Z,rangoframework-test,0.1.0,0,0,https://github.com/ZFCon/rango-framework,"Rango test utilities: Client, RequestFactory, response assertions."
