@@ -1,0 +1,49 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-15T14:20:22.443154Z,negi,0.1.0,0,0,https://github.com/rifuki/negi,"tmux on your phone, over one control-mode connection per session."
+2026-11-15T14:20:37.000814Z,lsm6dsv-registers,0.1.0,0,0,https://github.com/sunsided/lsm6dsv,A typed map of the STMicroelectronics LSM6DSV and LSM6DSV16X IMU registers
+2026-11-15T14:20:39.512268Z,lsm6dsv,0.1.0,0,0,https://github.com/sunsided/lsm6dsv,A platform-agnostic embedded-hal driver for the STMicroelectronics LSM6DSV and LSM6DSV16X IMUs
+2026-11-15T14:21:05.895926Z,ai-ui-clipboard,0.1.0,0,0,https://github.com/iyiolacak/ai-ui-rewrite-rust,"Clipboard access for assistant-ui apps on native and in the browser, reporting whether a copy worked."
+2026-11-15T14:21:07.197876Z,ai-ui-core,0.1.0,0,0,https://github.com/iyiolacak/ai-ui-rewrite-rust,"Rust port of @assistant-ui/core: message model, branching repository, model adapter contract and local thread runtime."
+2026-11-15T14:21:08.707984Z,ai-ui-markdown,0.1.0,0,0,https://github.com/iyiolacak/ai-ui-rewrite-rust,"Rust port of @assistant-ui/markdown: a bounded, safe Markdown parser and block projection for streaming chat text."
+2026-11-15T14:21:10.4449Z,ai-ui-sdk-stream,0.1.0,0,0,https://github.com/iyiolacak/ai-ui-rewrite-rust,"Bounded, incremental fold of the AI SDK 7 UI message stream into messages, for native and Wasm, with a differential test against the published AI SDK."
+2026-11-15T14:21:13.9111Z,ai-ui-state,0.1.0,0,0,https://github.com/iyiolacak/ai-ui-rewrite-rust,"UI-agnostic thread, message and part state for assistant-ui: what a UI renders and the actions it calls."
+2026-11-15T14:21:43.505114Z,lis2mdl-registers,0.1.0,0,0,https://github.com/sunsided/lis2mdl,A typed map of the STMicroelectronics LIS2MDL magnetometer registers
+2026-11-15T14:21:46.107433Z,lis2mdl,0.1.0,0,0,https://github.com/sunsided/lis2mdl,A platform-agnostic embedded-hal driver for the STMicroelectronics LIS2MDL magnetometer
+2026-11-15T14:22:56.338881Z,cst820-registers,0.1.0,0,0,https://github.com/sunsided/cst820,A typed map of the Hynitron CST820 touch controller registers
+2026-11-15T14:23:28.075825Z,cui-sys,0.1.3+cui1.4.0,0,0,https://github.com/Inokinoki/cui-rs,Raw FFI bindings to the CUI immediate-mode UI library (vendored C sources)
+2026-11-15T14:23:39.081758Z,sxr-observed,0.2.0,0,0,https://github.com/GodSpeedAI/RealityTrace,RealityTrace observed representation: interaction-event ingest classification and the deterministic `observed derive` computation over a verified ledger. No I/O.
+2026-11-15T14:23:57.613612Z,cui-rs,0.1.3+cui1.4.0,0,0,https://github.com/Inokinoki/cui-rs,"Safe, idiomatic Rust bindings for the CUI immediate-mode UI library"
+2026-11-15T14:25:55.469151Z,cst820,0.1.0,0,0,https://github.com/sunsided/cst820,A platform-agnostic embedded-hal driver for the Hynitron CST820 touch controller
+2026-11-15T14:31:09.460611Z,ai-ui-stream,0.1.0,0,0,https://github.com/iyiolacak/ai-ui-rewrite-rust,"Rust port of assistant-stream: chunks, the message accumulator, state operations, partial JSON and the assistant-transport serialization."
+2026-11-15T14:32:43.634762Z,jj_compose_core,0.1.0,0,0,,"Core library behind jj-compose: a jj wrapper, a Conventional Commit message model, and hunk splitting"
+2026-11-15T14:35:34.115554Z,can-laptop-battery,0.1.0,0,0,https://github.com/wallem89/can-laptop-battery,"Show a CAN bus battery (SOC, charging) as a laptop battery on Linux via a tiny power_supply kernel module"
+2026-11-15T14:35:39.848551Z,jj-compose,0.1.0,0,0,https://github.com/saylesss88/jj-compose,Easily split big jujutsu working copy changes into atomic commits
+2026-11-15T14:35:44.291957Z,benchdown,0.1.0,0,0,https://github.com/yethranayeh/benchdown,Measure a command's processor energy the way hyperfine measures its time
+2026-11-15T14:41:44.35982Z,ai-ui-data-stream,0.1.0,0,0,https://github.com/iyiolacak/ai-ui-rewrite-rust,Rust port of @assistant-ui/react-data-stream: a ChatModelAdapter for AI SDK backends (data stream and UI message stream protocols).
+2026-11-15T14:46:25.224804Z,minicanvas,0.1.0,0,0,https://gitlab.com/francescofattori-group/rust/minicanvas,A small 2D graphics library built on wgpu and winit
+2026-11-15T14:47:55.194664Z,wse,3.0.0,0,0,https://github.com/silvermpx/wse,"WebSocket engine for reactive user interfaces: topics with message recovery, presence, clustering without a broker, JWT, end-to-end encryption and signed messages."
+2026-11-15T14:47:57.163884Z,wse-client,3.0.0,0,0,https://github.com/silvermpx/wse,"Rust client for WSE servers, natively and in the browser: topics with message recovery, reconnects, MessagePack, end-to-end encryption and signed messages."
+2026-11-15T14:50:41.342596Z,lecop-openh264-sys2,0.9.10,0,0,https://github.com/michele-xilo/lecop-openh264,"Low-level bindings for OpenH264, with prebuilt x86_64 assembly so no nasm is needed. Fork of openh264-sys2 for lecop."
+2026-11-15T14:51:23.125157Z,lecop-openh264,0.9.10,0,0,https://github.com/michele-xilo/lecop-openh264,"Idiomatic bindings for OpenH264, built on lecop-openh264-sys2. Fork of openh264 for lecop."
+2026-11-15T14:51:23.73341Z,ai-ui-http,0.1.0,0,0,https://github.com/iyiolacak/ai-ui-rewrite-rust,"HTTP clients for ai-ui-data-stream: native (ureq, rustls) and browser (fetch)."
+2026-11-15T14:51:24.213297Z,fake-bus,0.1.0,0,0,https://github.com/sunsided/fake-bus,"Fake embedded-hal I²C, SPI and delay implementations that drive stateful chip models in host tests"
+2026-11-15T14:54:43.730199Z,miniam,0.1.1,0,0,https://github.com/Wian1977/miniam,"Apple Music in the terminal: true-color album art, a live spectrum and keyboard playback controls."
+2026-11-15T14:55:56.701635Z,nix-expression,0.1.0,0,0,https://codeberg.org/psentee/etwa,Typed representation of a Nix language expression
+2026-11-15T14:57:07.161866Z,pattie,0.0.1,0,0,,Name reserved: cross-platform virtual audio routing. Real release coming soon.
+2026-11-15T14:58:07.178011Z,hql-ext-ml,0.1.0,0,0,https://github.com/ewiger/hql-extensions,"HQL package `ml`: datasets, fitted models as values, prediction and metrics"
+2026-11-15T14:59:11.810249Z,microci-editor,0.1.0,0,0,https://github.com/geraldolsribeiro/microci-editor,A graphical editor for MicroCI YAML workflows
+2026-11-15T14:59:45.59317Z,aonyx-rakko-pre-commit,0.1.0,0,0,https://github.com/aonyx-ai/rakko,"A pre-commit command for Rakko, which runs the actions that guard a commit"
+2026-11-15T15:05:33.467671Z,emx-text,0.0.2,0,0,https://github.com/emergingrobotics/emx,Large-file text storage and search for the emx editor
+2026-11-15T15:05:34.282472Z,emx-types,0.0.2,0,0,https://github.com/emergingrobotics/emx,Shared types for the emx editor
+2026-11-15T15:05:34.808261Z,emx-proto,0.0.2,0,0,https://github.com/emergingrobotics/emx,Client/daemon wire protocol for the emx editor
+2026-11-15T15:05:35.235944Z,emx-term,0.0.2,0,0,https://github.com/emergingrobotics/emx,Terminal input and rendering for the emx editor
+2026-11-15T15:05:35.976446Z,emx-core,0.0.2,0,0,https://github.com/emergingrobotics/emx,"Editor core (buffers, commands, persistence) for the emx editor"
+2026-11-15T15:06:17.362288Z,rustyglide-core,0.1.0,0,0,https://github.com/michidk/rustyglide,"3dfx Glide state machine, texture memory and formats, without a GPU"
+2026-11-15T15:06:56.688914Z,rustyglide-wgpu,0.1.0,0,0,https://github.com/michidk/rustyglide,wgpu renderer for rustyglide: the Voodoo pixel pipeline in WGSL
+2026-11-15T15:07:02.987071Z,rustyglide,0.1.0,0,0,https://github.com/michidk/rustyglide,"3dfx Glide on wgpu: Vulkan, Metal, DX12 or OpenGL"
+2026-11-15T15:08:55.04644Z,amr-wb,0.1.0,0,0,https://github.com/jj2218/amr-rs,"Pure-Rust, bit-exact AMR-WB (3GPP TS 26.173, ITU-T G.722.2) speech decoder"
+2026-11-15T15:09:54.682394Z,llt,0.1.2,0,0,https://github.com/situ2001/llt,Offline Lulutong timetable parser and queries
+2026-11-15T15:10:31.048897Z,countsloc,0.2.1,0,0,https://codeberg.org/r3boot/countsloc,"Single-binary CLI that counts source, test, comment and blank lines plus functions and classes per language, lexically and without a parser"
+2026-11-15T15:11:58.64613Z,omni-task,0.1.0,0,0,https://github.com/WyattAu/os-core,"Deterministic cooperative task slots for the omniosk microcore: round-robin tick dispatch, no_std, panic-free (REQ-OS-008)."
+2026-11-15T15:12:01.769466Z,omni-block,0.1.0,0,0,https://github.com/WyattAu/os-core,"Block-device seam for the omniosk microcore: BlockRam model device and the write/read-back smoke contract, no_std, panic-free (REQ-OS-006)."
+2026-11-15T15:16:03.878888Z,aonyx-rakko-worktree,0.1.0,0,0,https://github.com/aonyx-ai/rakko,A disposable Git worktree for Rakko actions that must not change the checkout
