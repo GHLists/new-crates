@@ -1,0 +1,13 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-15T04:23:19.494971Z,sendmock,1.0.0,0,0,https://github.com/shibbirweb/sendmock,"Catch email, SMS, payments and webhooks from any app on your machine."
+2026-11-15T04:23:58.582966Z,rpc-manifest,0.1.0,0,0,https://github.com/talaagent/protoc-gen-rpc-manifest,"Types and lookups for RPC manifests from protoc-gen-rpc-manifest, and a generic Connect JSON caller."
+2026-11-15T04:34:26.832788Z,rpc-manifest-cli,0.1.0,0,0,https://github.com/talaagent/protoc-gen-rpc-manifest,A drop-in `rpc` subcommand (bpaf or clap) that lists and calls any RPC in a manifest over Connect JSON.
+2026-11-15T04:43:22.612546Z,kdl-nodes,0.1.0,0,0,https://github.com/talaagent/kdl-kit,Untyped helpers for named KDL nodes and blocks
+2026-11-15T04:47:05.298214Z,valo-pathops,0.24.0,0,0,https://github.com/seedeai/valo,"Skia's PathOps for valo: boolean operations on paths, ported from Skia"
+2026-11-15T04:48:04.245172Z,unlinkable-inference,0.1.0,0,0,https://github.com/Obscurify-ai/unlinkable-inference,"Unlinkable inference: anonymous prepaid API sessions paid with blind-signed e-cash. Client (wallet, blinding, sessions, recovery from one secret) and, with the `server` feature, the server endpoints"
+2026-11-15T04:48:10.556454Z,unlinkable-inference-cli,0.1.0,0,0,https://github.com/Obscurify-ai/unlinkable-inference,"Local proxy for unlinkable inference: OpenAI and Anthropic endpoints on localhost paid from a voucher wallet, one session per conversation"
+2026-11-15T04:51:06.522701Z,coderag,0.1.0,0,0,https://github.com/yingkitw/coderag,"Retrieval engine for codebases: syntax-aware chunking, pluggable embeddings, and persistent vector search."
+2026-11-15T04:53:24.890952Z,kdl-pretty,0.1.0,0,0,https://github.com/talaagent/kdl-kit,"A deterministic, comment-preserving KDL v2 formatter"
+2026-11-15T04:57:18.087542Z,spawned-sim-libc,0.8.0,0,0,https://github.com/lambdaclass/spawned,Clock and entropy interposers for Spawned's deterministic simulator (compiled only under --cfg spawned_sim)
+2026-11-15T05:03:20.774264Z,protoc-gen-rpc-manifest,0.1.0,0,0,https://github.com/talaagent/protoc-gen-rpc-manifest,"protoc/buf plugin that emits a manifest of every RPC service and method (Rust, TypeScript or JSON)."
+2026-11-15T05:13:28.817163Z,kdl-pretty-cli,0.1.0,0,0,https://github.com/talaagent/kdl-kit,kdl-pretty: format KDL v2 files in place or check them (treefmt-friendly)
