@@ -1,0 +1,30 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-15T16:25:39.366532Z,es8311-registers,0.1.0,0,0,https://github.com/sunsided/es8311,A typed map of the Everest Semiconductor ES8311 audio codec registers
+2026-11-15T16:29:42.575407Z,tej-db-core,0.1.0,0,0,https://github.com/YeabsiraBezabih/tej-db,"Core primitives, slotted page layouts, bounds, and storage traits for the TejDB embedded DBMS"
+2026-11-15T16:29:46.024355Z,aonyx-rakko-check-renovate-config,0.1.0,0,0,https://github.com/aonyx-ai/rakko,A Rakko action that validates the Renovate configuration of a project
+2026-11-15T16:30:05.142817Z,tej-db-pager,0.1.0,0,0,https://github.com/YeabsiraBezabih/tej-db,"Storage pager, memory/file/mmap backends, and S3-FIFO buffer cache for TejDB"
+2026-11-15T16:30:17.517911Z,typst-prose,0.1.0,0,0,https://github.com/5cover/typst-prose,Extract natural-language prose from Typst documents.
+2026-11-15T16:30:34.297087Z,tej-db-btree,0.1.0,0,0,https://github.com/YeabsiraBezabih/tej-db,Copy-On-Write (COW) B+ Tree with zero-copy visitors and in-place staging for TejDB
+2026-11-15T16:31:05.213804Z,tej-db-columnar,0.1.0,0,0,https://github.com/YeabsiraBezabih/tej-db,"Hybrid columnar row-groups, SIMD ColumnVector, ZoneMaps, and Parquet/Arrow codecs for TejDB"
+2026-11-15T16:36:36.787425Z,es8311-ng,0.1.0,0,0,https://github.com/sunsided/es8311,A platform-agnostic embedded-hal driver for the Everest Semiconductor ES8311 audio codec
+2026-11-15T16:38:57.330239Z,clione_core,0.1.0,0,0,https://github.com/kazanefu/clione,Core functionality of the Clione game engine
+2026-11-15T16:39:12.511301Z,tej-db-txn,0.1.0,0,0,https://github.com/YeabsiraBezabih/tej-db,"Snapshot isolation, lock-free ingestor, OCC conflict validation, and group commit for TejDB"
+2026-11-15T16:42:02.51939Z,foch-plugin-sdk,0.0.1,0,0,https://github.com/Acture/foch,The Foch native plugin SDK: the host ABI plus the shared services a plugin builds against
+2026-11-15T16:43:32.331251Z,ruf,0.2.0,0,0,https://github.com/Freya-TDE/RUF,"RUF – Rust native UI Framework: desktop UIs with GTK 4 on Linux, Windows and macOS; the foundation of the RNCL components and the Freya TDE IDE"
+2026-11-15T16:43:35.143396Z,rncl,0.2.0,0,0,https://github.com/Freya-TDE/RUF,"RNCL – Rust native Component Library: ready-made GTK 4 components (window, button, text field, list, tree, code editor …) built on RUF"
+2026-11-15T16:43:35.441999Z,aonyx-rakko-check-typescript,0.1.0,0,0,https://github.com/aonyx-ai/rakko,A Rakko action that type checks TypeScript with tsc
+2026-11-15T16:44:39.76151Z,clione,0.1.0,0,0,https://github.com/kazanefu/clione,A modular game engine written in Rust
+2026-11-15T16:44:42.923015Z,frontmost-ai,0.2.2,0,0,https://github.com/frontmost-ai/sdks,"See when ChatGPT and other AI apps recommend your business, from your own code and agents."
+2026-11-15T16:44:58.478369Z,pultr,0.0.2,0,0,https://github.com/the-cons/pultr,Card-based terminal dashboard for your machine's settings and status
+2026-11-15T16:49:23.266018Z,tej-db-vector,0.1.0,0,0,https://github.com/YeabsiraBezabih/tej-db,"SIMD RaBitQ 1/2-bit quantization, FWHT transforms, and Vamana graph index for TejDB"
+2026-11-15T16:50:10.061283Z,cw32w031-bsp,0.1.0,0,0,https://github.com/SunWithCloude/cw32-bsp,Generic minimal BSP for the CW32W031 Cortex-M0+ MCU on embassy-cw32
+2026-11-15T16:51:34.81177Z,mailcore-sdk,0.1.0-alpha.1,0,0,https://github.com/mailcore-hq/mailcore-rust,Cliente Rust assíncrono e bloqueante da API Mailcore.
+2026-11-15T16:57:19.695749Z,aonyx-rakko-format-terraform,0.1.0,0,0,https://github.com/aonyx-ai/rakko,A Rakko action that formats Terraform files with terraform fmt
+2026-11-15T16:59:41.968799Z,tej-db-vectorized,0.1.0,0,0,https://github.com/YeabsiraBezabih/tej-db,"Morsel-driven parallel query engine with SIMD vector filters, joins, and aggregates for TejDB"
+2026-11-15T17:01:12.377521Z,runconvert,0.1.0,0,0,https://github.com/runconvert/runconvert-rust,Official RunConvert SDK for Rust: convert files between 240+ formats
+2026-11-15T17:07:07.037365Z,wsg-lib,0.1.0,0,0,https://gitlab.com/jerome.bousquie/wsg,"A lightweight, GPU-driven 3D library for Rust on wgpu, with instancing, culling, lighting, and opt-in rendering effects."
+2026-11-15T17:07:59.458689Z,feature-check-version,2.4.0,0,0,https://git.sr.ht/~ppentchev/feature-check,Parse and compare version strings
+2026-11-15T17:08:04.326115Z,feature-check-cli,2.4.0,0,0,https://git.sr.ht/~ppentchev/feature-check,Query a program for supported features - command-line tool
+2026-11-15T17:08:54.889913Z,grofe,0.2.0,0,0,https://github.com/termage/grofe,An agent-native terminal multiplexer that speaks tmux
+2026-11-15T17:09:38.932911Z,tej-db,0.1.0,0,0,https://github.com/YeabsiraBezabih/tej-db,"Modular, high-performance embedded ACID DBMS in pure Rust with native vector and HTAP engines"
+2026-11-15T17:18:50.44285Z,localgpt-audio-models,0.6.0,0,0,https://github.com/localgpt-app/localgpt,"Optional audio-analysis models for LocalGPT's agents: install them, then split stems, transcribe notes, tag sounds and match audio to descriptions, on the CPU"
