@@ -1,0 +1,41 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-14T23:21:26.705384Z,hanafubuki-agent-hooks,0.4.0,0,0,https://github.com/licyk/hanafubuki-agent,"Hooks for hanafubuki-agent: the user's and the project's commands run around tool calls, prompts and final answers, each trusted by the hash of its definition"
+2026-11-14T23:23:25.584373Z,qrimg,0.1.4,0,0,https://github.com/nakatam1337/qrimg,"Generate QR code images (.webp, .svg, .avif) from text on the command line"
+2026-11-14T23:24:20.228181Z,ferroui-media-qr,0.5.0,0,0,https://github.com/wieslawsoltes/FerroUI,Optional offline QR analysis of shared camera frames
+2026-11-14T23:25:56.911739Z,grove-wt-shell,0.1.0,0,0,https://github.com/macalinao/grove,"Shell integration (cd, db env hook, completions) for Grove"
+2026-11-14T23:26:02.196122Z,grove-wt-tasks,0.1.0,0,0,https://github.com/macalinao/grove,Parallel task-graph (DAG) execution for Grove worktree creation
+2026-11-14T23:26:30.652322Z,xj,0.1.0,0,0,https://github.com/zx0r/xj,Ultra-Fast Neovim profile manager
+2026-11-14T23:26:53.461889Z,grove-wt,0.1.0,0,0,https://github.com/macalinao/grove,Grove — a Rust git worktree runner (a gtr alternative)
+2026-11-14T23:29:29.526769Z,son-of-w,1.0.0,0,0,https://github.com/son-of-w/son,"One memory for every AI agent: a local store of decisions, patterns, facts and todos"
+2026-11-14T23:31:51.391824Z,hanafubuki-agent-plugin-hooks,0.4.0,0,0,https://github.com/licyk/hanafubuki-agent,"The hanafubuki-agent plugin that runs the user's hooks around tool calls, at a session's start, on a prompt and before a turn ends"
+2026-11-14T23:33:23.840887Z,links-json,0.1.0,0,0,https://codeberg.org/bendangelo/links-json,"Parse, validate, normalize, and merge links.json linkrolls."
+2026-11-14T23:33:48.452736Z,rightkit-media-gen-approvals,0.1.0,0,0,https://github.com/bogusyogi/rightkit,"Media-generation approvals on the rightkit-approvals core: launch-secret approval tokens minted by the app shell and verified by the engine, parent binding, host-registered draft kinds, the Blender f…"
+2026-11-14T23:35:24.000945Z,ferroui-media-video,0.5.0,0,0,https://github.com/wieslawsoltes/FerroUI,"Portable video playback sources, players and playback sessions"
+2026-11-14T23:35:30.141221Z,omnibuf-derive,0.1.0,0,0,https://github.com/omnibuf/omnibuf-rs,Procedural derive macro for OmniBuf native Rust structs and oneof enums
+2026-11-14T23:35:38.576689Z,omnibuf,0.1.0,0,0,https://github.com/omnibuf/omnibuf-rs,"Core runtime, wire primitives, blind decoder, opaque splicing, and prost/buffa bridges for OmniBuf"
+2026-11-14T23:35:43.589566Z,protoc-gen-omnibuf-rs,0.1.0,0,0,https://github.com/omnibuf/omnibuf-rs,Protocol Buffers compiler plugin generating single-pass OmniBuf Rust codecs and Opaque views
+2026-11-14T23:35:59.446478Z,efr32mg2x-hal,0.1.1,0,0,https://github.com/bitscrafts/EFR32MG2X-RS,Hardware Abstraction Layer for EFR32MG24 microcontrollers
+2026-11-14T23:36:09.493119Z,nadir-audio,0.4.0,0,0,https://github.com/jabbott-iii/Nadir,"Audio for the Nadir engine: a mixer of voices and buses, sound at a place in the world, streamed music, and sound and music assets."
+2026-11-14T23:36:11.846588Z,nadir-debug,0.4.0,0,0,https://github.com/jabbott-iii/Nadir,Developer tools for the Nadir engine: an immediate-mode debug UI drawn with the engine's own renderer.
+2026-11-14T23:37:13.719526Z,rightkit-media-gen-models,0.1.0,0,0,https://github.com/bogusyogi/rightkit,"Local model management for the media-generation engine: hardware fit, installs through the rightkit-models store, a memory-aware governor for heavy local models, per-capability routes and the studio.…"
+2026-11-14T23:39:29.469986Z,filedrawer-analyzer,0.1.0,0,0,https://github.com/filedrawer-dev/filedrawer,"Reads a File Drawer entry by docs/entry-format.md: refusals, warnings, the Results table and the card."
+2026-11-14T23:41:20.26964Z,filedrawer,0.1.0,0,0,https://github.com/filedrawer-dev/filedrawer,"Checks File Drawer entries offline, with the analyzer filedrawer.dev runs."
+2026-11-14T23:42:13.452573Z,hanafubuki-agent-plugin-packages,0.4.0,0,0,https://github.com/licyk/hanafubuki-agent,"The hanafubuki-agent plugin that runs installed plugins' code as Kardia guests: sandboxed processes owned by the Agent's executor, or WebAssembly modules within fuel, time and memory limits, restarte…"
+2026-11-14T23:43:19.603928Z,argon2-rust-cli,0.3.0,0,0,https://github.com/myaux0/argon2-rust-cli,Generate Argon2 hashes from command line using the pure-Rust argon2-rust implementation
+2026-11-14T23:47:11.851715Z,ferroui-media-controls,0.5.0,0,0,https://github.com/wieslawsoltes/FerroUI,Composited shared-texture presenters for FerroUI
+2026-11-14T23:48:33.729633Z,mux-core,0.0.3,0,0,https://github.com/Sn0wo2/mux-core,Transport-independent multiplexed session middleware
+2026-11-14T23:50:56.396315Z,akashic-sanitize,0.1.0,0,0,https://github.com/PedrocaODev/akashic,Format-preserving semantic pseudonymization and code/log sanitization for Akashic
+2026-11-14T23:51:08.501357Z,akashic-embedding,0.1.0,0,0,https://github.com/PedrocaODev/akashic,Embedding provider traits and sidecar lifecycle management for Akashic
+2026-11-14T23:51:35.962875Z,akashic-vault,0.1.0,0,0,https://github.com/PedrocaODev/akashic,Open Knowledge Format (OKF) v0.2 Markdown vault engine and indexer for Akashic
+2026-11-14T23:52:00.372219Z,akashic-engine,0.1.0,0,0,https://github.com/PedrocaODev/akashic,"Multi-language AST code graph engine, community detection, and symbol search for Akashic"
+2026-11-14T23:52:24.227155Z,akashic-lint,0.1.0,0,0,https://github.com/PedrocaODev/akashic,"Vault schema, relation invariants, and custom field rule linter for Akashic"
+2026-11-14T23:52:33.634526Z,hanafubuki-agent-plugin-worktree,0.4.0,0,0,https://github.com/licyk/hanafubuki-agent,The hanafubuki-agent plugin that serves Git worktrees to the facade's worktree calls
+2026-11-14T23:54:09.098607Z,apex-framework,0.0.0,0,0,https://github.com/ApexFramework/apex,Reserved for the Apex framework. Coming soon.
+2026-11-14T23:55:18.890345Z,akashic-rca,0.1.0,0,0,https://github.com/PedrocaODev/akashic,"Root cause analysis conductor, crash deduplication, and crystallization engine for Akashic"
+2026-11-14T23:56:08.947354Z,rightkit-memory-client,0.1.0,0,0,https://github.com/bogusyogi/rightkit,"Client of the RightKit memory engine: the typed MemoryBackend over the external membrane CLI, durable-write screening and a small in-memory store, on the engine's own types."
+2026-11-14T23:58:17.777096Z,ferroui-direct2d,0.5.0,0,0,https://github.com/wieslawsoltes/FerroUI,"Windows system GPU rendering and text with Direct2D, Direct3D 11, DirectWrite and WIC"
+2026-11-14T23:59:07.225013Z,rivus,0.0.0,0,0,https://github.com/yagihash/rivus,"Placeholder to reserve the name. rivus is a taint analysis query engine for Dart, Go and Rust."
+2026-11-15T00:02:07.62757Z,sudo-mudo-apt-opt-gop-stop-remove,0.1.0,0,0,https://github.com/thisislinuxmasterrace/sudo-mudo-apt-opt-gop-stop-remove,when you really want to nuke the shit out of some files
+2026-11-15T00:05:14.627907Z,akashic-daemon,0.1.0,0,0,https://github.com/PedrocaODev/akashic,"Gerrit stream monitor, adaptive debouncer, and background reconciler for Akashic"
+2026-11-15T00:09:21.598314Z,ferroui-media-camera-controls,0.5.0,0,0,https://github.com/wieslawsoltes/FerroUI,"Portable composited camera preview, independently of video controls"
+2026-11-15T00:15:13.728035Z,akashic-core,0.1.0,0,0,https://github.com/PedrocaODev/akashic,Unified CLI and Model Context Protocol (MCP) server for Akashic
