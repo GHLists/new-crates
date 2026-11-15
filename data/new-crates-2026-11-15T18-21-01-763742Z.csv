@@ -1,0 +1,34 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-15T17:20:21.293872Z,tej-db-sql,0.1.0,0,0,https://github.com/YeabsiraBezabih/tej-db,"SQLite parity SQL engine, cost-based optimizer (CBO), and BM25 full-text search for TejDB"
+2026-11-15T17:22:55.838422Z,aonyx-rakko-format-typescript,0.1.0,0,0,https://github.com/aonyx-ai/rakko,A Rakko action that formats TypeScript and JavaScript with oxfmt
+2026-11-15T17:23:41.469256Z,patchright-rs,0.1.1,0,0,https://github.com/vincentmuthomi/patchright-rs,Patchright for Rust: undetected Playwright (Chromium) bindings built on playwright-rust
+2026-11-15T17:25:55.963277Z,astro-calc-build,0.1.0,0,0,https://github.com/neilg63/astro-calc-core,"Installs the JPL ephemeris files for astro-calc-core: pick a date-range tier, download, verify and build the station table"
+2026-11-15T17:27:27.051563Z,vertep-rules,0.1.7,0,0,https://github.com/Volland/vertep,"Rule programs beside the journal: a rules decider whose rationale is a derivation, run by lean-elpi through tiramemsu"
+2026-11-15T17:29:18.452889Z,spotify-badges,0.0.1,0,0,https://github.com/utoni/spotify-badges,Spotify Badges - Generate spotify SVG web badges.
+2026-11-15T17:29:30.412337Z,tej-db-cli,0.1.0,0,0,https://github.com/YeabsiraBezabih/tej-db,Interactive terminal TUI and CLI administration shell for TejDB
+2026-11-15T17:29:45.010672Z,car-machine-inventory,0.64.0,0,0,https://github.com/Parslee-ai/car,"Read-only inventory of what coding sessions leave on a machine (Docker objects, the Docker VM's host footprint, orphaned processes) and their attribution to sessions, for Common Agent Runtime"
+2026-11-15T17:32:46.311216Z,turbojet-message,0.11.0,0,0,https://github.com/jrogers/turbojet,"Turbojet's FIX messages, field types, codec and the macros generated messages are written in"
+2026-11-15T17:34:54.397875Z,kraken-decode,0.1.1,0,0,https://github.com/MaddisonM79/kraken-decode,"Safe, clean-room decoder for the block-compressed streams in Palworld's Mac save files (compatible with the byte-oriented stream type of the Kraken family of formats). Decode only, no_std, no unsafe."
+2026-11-15T17:36:44.435342Z,aonyx-rakko-lint-github-actions,0.1.0,0,0,https://github.com/aonyx-ai/rakko,A Rakko action that audits GitHub Actions workflows with zizmor
+2026-11-15T17:38:02.75414Z,meta-notation,0.1.1,0,0,https://github.com/link-foundation/meta-notation,Rust implementation of the Meta-Notation parser
+2026-11-15T17:39:12.362153Z,lino-transformer,0.1.0,0,0,https://github.com/link-foundation/transformer,"A rule-based, Turing-complete structural transformer for Links Notation (LiNo)"
+2026-11-15T17:39:47.391633Z,links-client,1.0.0,0,0,https://github.com/link-foundation/links-client,Rust client library for link-cli (Links Theory database)
+2026-11-15T17:40:37.912782Z,dissekt,0.0.0,0,0,,"Offline analysis of packet captures, from frames to decrypted application messages. The first release is in preparation."
+2026-11-15T17:40:40.319794Z,dissekt-cli,0.0.0,0,0,,"Command-line tool for dissekt, offline analysis of packet captures. The first release is in preparation."
+2026-11-15T17:48:36.092154Z,aonyx-rakko-lint-markdown,0.1.0,0,0,https://github.com/aonyx-ai/rakko,A Rakko action that lints Markdown files with markdownlint
+2026-11-15T17:51:23.062371Z,submilli-front-end,0.6.3,0,0,https://github.com/submilli/submilli-runtime,"The contract between a Submilli front end and the engine: typed trees, package declarations, types and diagnostics"
+2026-11-15T17:54:40.217656Z,libscl,0.1.0,0,0,https://codeberg.org/sorashii/libscl-rs,Staticly Linked Rust Wrapper Crate for libscl
+2026-11-15T18:00:34.881444Z,lib_idle,0.1.0,0,0,,A lightweight lib to create Idle games
+2026-11-15T18:02:15.028875Z,aonyx-rakko-lint-stiles,0.1.0,0,0,https://github.com/aonyx-ai/rakko,A Rakko action that lints Rust and TypeScript code with stiles rules
+2026-11-15T18:04:32.896639Z,co5300-registers,0.1.0,0,0,https://github.com/sunsided/co5300,A typed map of the Chipone CO5300 AMOLED display controller commands
+2026-11-15T18:04:35.6293Z,co5300,0.1.0,0,0,https://github.com/sunsided/co5300,"A platform-agnostic, transport-agnostic driver for the Chipone CO5300 AMOLED display controller"
+2026-11-15T18:10:11.680874Z,ili9341-registers,0.1.0,0,0,https://github.com/sunsided/ili9341,A typed map of the Ilitek ILI9341 TFT LCD controller commands
+2026-11-15T18:10:14.202146Z,ili9341-ng,0.1.0,0,0,https://github.com/sunsided/ili9341,A platform-agnostic embedded-hal driver for the Ilitek ILI9341 TFT LCD controller (SPI and parallel)
+2026-11-15T18:12:42.73612Z,lamarge,0.1.0,0,0,https://github.com/snowbl-capital/lamarge-sdk-rs,"Client for the LaMarge API: sign-in, takes, transfers, withdrawals and market making, each request checked before it is signed."
+2026-11-15T18:13:06.439093Z,aggrega-abi,0.9.0,0,0,https://github.com/aggrega-ai/aggrega-abi,Portable codec for the Aggrega Wasm plugin ABI.
+2026-11-15T18:14:07.683875Z,aonyx-rakko-lint-terraform,0.1.0,0,0,https://github.com/aonyx-ai/rakko,A Rakko action that lints Terraform modules with TFLint
+2026-11-15T18:15:12.348679Z,aggrega-pdk-rust,0.9.0,0,0,https://github.com/aggrega-ai/aggrega-pdk,Plugin Development Kit for authoring Aggrega Wasm plugins in Rust.
+2026-11-15T18:15:56.472059Z,windowed-peekable,0.1.0,0,0,https://github.com/Dilses/windowed-peekable,A fixed-capacity ring-buffer iterator adapter with multi-offset lookahead.
+2026-11-15T18:16:14.640189Z,kiwa-core,0.1.0,0,0,https://github.com/GregoireF/kiwa,"Core library of kiwa: zero-config, polyglot project and task discovery."
+2026-11-15T18:16:35.266359Z,kiwa,0.1.0,0,0,https://github.com/GregoireF/kiwa,Find any project. Run any task. Built for humans and AI agents.
+2026-11-15T18:18:35.994991Z,fauxidc,0.1.0,0,0,https://github.com/schmas/fauxidc,Small OAuth 2.0 / OpenID Connect mock server for local development and tests.

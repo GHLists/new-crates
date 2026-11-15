@@ -8,43 +8,47 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-15 17:20 UTC
+## Latest list — 2026-11-15 18:21 UTC
 
-New crates published between 2026-11-15 16:22 UTC and 2026-11-15 17:20 UTC.
+New crates published between 2026-11-15 17:20 UTC and 2026-11-15 18:21 UTC.
 
-[Full CSV](data/new-crates-2026-11-15T17-20-02-791035Z.csv)
+[Full CSV](data/new-crates-2026-11-15T18-21-01-763742Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-15 16:25:39 | [es8311-registers](https://crates.io/crates/es8311-registers) | 0.1.0 | 0 | A typed map of the Everest Semiconductor ES8311 audio codec registers |
-| 2026-11-15 16:29:42 | [tej-db-core](https://crates.io/crates/tej-db-core) | 0.1.0 | 0 | Core primitives, slotted page layouts, bounds, and storage traits for the TejDB… |
-| 2026-11-15 16:29:46 | [aonyx-rakko-check-renovate-config](https://crates.io/crates/aonyx-rakko-check-renovate-config) | 0.1.0 | 0 | A Rakko action that validates the Renovate configuration of a project |
-| 2026-11-15 16:30:05 | [tej-db-pager](https://crates.io/crates/tej-db-pager) | 0.1.0 | 0 | Storage pager, memory/file/mmap backends, and S3-FIFO buffer cache for TejDB |
-| 2026-11-15 16:30:17 | [typst-prose](https://crates.io/crates/typst-prose) | 0.1.0 | 0 | Extract natural-language prose from Typst documents. |
-| 2026-11-15 16:30:34 | [tej-db-btree](https://crates.io/crates/tej-db-btree) | 0.1.0 | 0 | Copy-On-Write (COW) B+ Tree with zero-copy visitors and in-place staging for Te… |
-| 2026-11-15 16:31:05 | [tej-db-columnar](https://crates.io/crates/tej-db-columnar) | 0.1.0 | 0 | Hybrid columnar row-groups, SIMD ColumnVector, ZoneMaps, and Parquet/Arrow code… |
-| 2026-11-15 16:36:36 | [es8311-ng](https://crates.io/crates/es8311-ng) | 0.1.0 | 0 | A platform-agnostic embedded-hal driver for the Everest Semiconductor ES8311 au… |
-| 2026-11-15 16:38:57 | [clione_core](https://crates.io/crates/clione_core) | 0.1.0 | 0 | Core functionality of the Clione game engine |
-| 2026-11-15 16:39:12 | [tej-db-txn](https://crates.io/crates/tej-db-txn) | 0.1.0 | 0 | Snapshot isolation, lock-free ingestor, OCC conflict validation, and group comm… |
-| 2026-11-15 16:42:02 | [foch-plugin-sdk](https://crates.io/crates/foch-plugin-sdk) | 0.0.1 | 0 | The Foch native plugin SDK: the host ABI plus the shared services a plugin buil… |
-| 2026-11-15 16:43:32 | [ruf](https://crates.io/crates/ruf) | 0.2.0 | 0 | RUF – Rust native UI Framework: desktop UIs with GTK 4 on Linux, Windows and ma… |
-| 2026-11-15 16:43:35 | [rncl](https://crates.io/crates/rncl) | 0.2.0 | 0 | RNCL – Rust native Component Library: ready-made GTK 4 components (window, butt… |
-| 2026-11-15 16:43:35 | [aonyx-rakko-check-typescript](https://crates.io/crates/aonyx-rakko-check-typescript) | 0.1.0 | 0 | A Rakko action that type checks TypeScript with tsc |
-| 2026-11-15 16:44:39 | [clione](https://crates.io/crates/clione) | 0.1.0 | 0 | A modular game engine written in Rust |
-| 2026-11-15 16:44:42 | [frontmost-ai](https://crates.io/crates/frontmost-ai) | 0.2.2 | 0 | See when ChatGPT and other AI apps recommend your business, from your own code… |
-| 2026-11-15 16:44:58 | [pultr](https://crates.io/crates/pultr) | 0.0.2 | 0 | Card-based terminal dashboard for your machine's settings and status |
-| 2026-11-15 16:49:23 | [tej-db-vector](https://crates.io/crates/tej-db-vector) | 0.1.0 | 0 | SIMD RaBitQ 1/2-bit quantization, FWHT transforms, and Vamana graph index for T… |
-| 2026-11-15 16:50:10 | [cw32w031-bsp](https://crates.io/crates/cw32w031-bsp) | 0.1.0 | 0 | Generic minimal BSP for the CW32W031 Cortex-M0+ MCU on embassy-cw32 |
-| 2026-11-15 16:51:34 | [mailcore-sdk](https://crates.io/crates/mailcore-sdk) | 0.1.0-alpha.1 | 0 | Cliente Rust assíncrono e bloqueante da API Mailcore. |
-| 2026-11-15 16:57:19 | [aonyx-rakko-format-terraform](https://crates.io/crates/aonyx-rakko-format-terraform) | 0.1.0 | 0 | A Rakko action that formats Terraform files with terraform fmt |
-| 2026-11-15 16:59:41 | [tej-db-vectorized](https://crates.io/crates/tej-db-vectorized) | 0.1.0 | 0 | Morsel-driven parallel query engine with SIMD vector filters, joins, and aggreg… |
-| 2026-11-15 17:01:12 | [runconvert](https://crates.io/crates/runconvert) | 0.1.0 | 0 | Official RunConvert SDK for Rust: convert files between 240+ formats |
-| 2026-11-15 17:07:07 | [wsg-lib](https://crates.io/crates/wsg-lib) | 0.1.0 | 0 | A lightweight, GPU-driven 3D library for Rust on wgpu, with instancing, culling… |
-| 2026-11-15 17:07:59 | [feature-check-version](https://crates.io/crates/feature-check-version) | 2.4.0 | 0 | Parse and compare version strings |
-| 2026-11-15 17:08:04 | [feature-check-cli](https://crates.io/crates/feature-check-cli) | 2.4.0 | 0 | Query a program for supported features - command-line tool |
-| 2026-11-15 17:08:54 | [grofe](https://crates.io/crates/grofe) | 0.2.0 | 0 | An agent-native terminal multiplexer that speaks tmux |
-| 2026-11-15 17:09:38 | [tej-db](https://crates.io/crates/tej-db) | 0.1.0 | 0 | Modular, high-performance embedded ACID DBMS in pure Rust with native vector an… |
-| 2026-11-15 17:18:50 | [localgpt-audio-models](https://crates.io/crates/localgpt-audio-models) | 0.6.0 | 0 | Optional audio-analysis models for LocalGPT's agents: install them, then split… |
+| 2026-11-15 17:20:21 | [tej-db-sql](https://crates.io/crates/tej-db-sql) | 0.1.0 | 0 | SQLite parity SQL engine, cost-based optimizer (CBO), and BM25 full-text search… |
+| 2026-11-15 17:22:55 | [aonyx-rakko-format-typescript](https://crates.io/crates/aonyx-rakko-format-typescript) | 0.1.0 | 0 | A Rakko action that formats TypeScript and JavaScript with oxfmt |
+| 2026-11-15 17:23:41 | [patchright-rs](https://crates.io/crates/patchright-rs) | 0.1.1 | 0 | Patchright for Rust: undetected Playwright (Chromium) bindings built on playwri… |
+| 2026-11-15 17:25:55 | [astro-calc-build](https://crates.io/crates/astro-calc-build) | 0.1.0 | 0 | Installs the JPL ephemeris files for astro-calc-core: pick a date-range tier, d… |
+| 2026-11-15 17:27:27 | [vertep-rules](https://crates.io/crates/vertep-rules) | 0.1.7 | 0 | Rule programs beside the journal: a rules decider whose rationale is a derivati… |
+| 2026-11-15 17:29:18 | [spotify-badges](https://crates.io/crates/spotify-badges) | 0.0.1 | 0 | Spotify Badges - Generate spotify SVG web badges. |
+| 2026-11-15 17:29:30 | [tej-db-cli](https://crates.io/crates/tej-db-cli) | 0.1.0 | 0 | Interactive terminal TUI and CLI administration shell for TejDB |
+| 2026-11-15 17:29:45 | [car-machine-inventory](https://crates.io/crates/car-machine-inventory) | 0.64.0 | 0 | Read-only inventory of what coding sessions leave on a machine (Docker objects,… |
+| 2026-11-15 17:32:46 | [turbojet-message](https://crates.io/crates/turbojet-message) | 0.11.0 | 0 | Turbojet's FIX messages, field types, codec and the macros generated messages a… |
+| 2026-11-15 17:34:54 | [kraken-decode](https://crates.io/crates/kraken-decode) | 0.1.1 | 0 | Safe, clean-room decoder for the block-compressed streams in Palworld's Mac sav… |
+| 2026-11-15 17:36:44 | [aonyx-rakko-lint-github-actions](https://crates.io/crates/aonyx-rakko-lint-github-actions) | 0.1.0 | 0 | A Rakko action that audits GitHub Actions workflows with zizmor |
+| 2026-11-15 17:38:02 | [meta-notation](https://crates.io/crates/meta-notation) | 0.1.1 | 0 | Rust implementation of the Meta-Notation parser |
+| 2026-11-15 17:39:12 | [lino-transformer](https://crates.io/crates/lino-transformer) | 0.1.0 | 0 | A rule-based, Turing-complete structural transformer for Links Notation (LiNo) |
+| 2026-11-15 17:39:47 | [links-client](https://crates.io/crates/links-client) | 1.0.0 | 0 | Rust client library for link-cli (Links Theory database) |
+| 2026-11-15 17:40:37 | [dissekt](https://crates.io/crates/dissekt) | 0.0.0 | 0 | Offline analysis of packet captures, from frames to decrypted application messa… |
+| 2026-11-15 17:40:40 | [dissekt-cli](https://crates.io/crates/dissekt-cli) | 0.0.0 | 0 | Command-line tool for dissekt, offline analysis of packet captures. The first r… |
+| 2026-11-15 17:48:36 | [aonyx-rakko-lint-markdown](https://crates.io/crates/aonyx-rakko-lint-markdown) | 0.1.0 | 0 | A Rakko action that lints Markdown files with markdownlint |
+| 2026-11-15 17:51:23 | [submilli-front-end](https://crates.io/crates/submilli-front-end) | 0.6.3 | 0 | The contract between a Submilli front end and the engine: typed trees, package… |
+| 2026-11-15 17:54:40 | [libscl](https://crates.io/crates/libscl) | 0.1.0 | 0 | Staticly Linked Rust Wrapper Crate for libscl |
+| 2026-11-15 18:00:34 | [lib_idle](https://crates.io/crates/lib_idle) | 0.1.0 | 0 | A lightweight lib to create Idle games |
+| 2026-11-15 18:02:15 | [aonyx-rakko-lint-stiles](https://crates.io/crates/aonyx-rakko-lint-stiles) | 0.1.0 | 0 | A Rakko action that lints Rust and TypeScript code with stiles rules |
+| 2026-11-15 18:04:32 | [co5300-registers](https://crates.io/crates/co5300-registers) | 0.1.0 | 0 | A typed map of the Chipone CO5300 AMOLED display controller commands |
+| 2026-11-15 18:04:35 | [co5300](https://crates.io/crates/co5300) | 0.1.0 | 0 | A platform-agnostic, transport-agnostic driver for the Chipone CO5300 AMOLED di… |
+| 2026-11-15 18:10:11 | [ili9341-registers](https://crates.io/crates/ili9341-registers) | 0.1.0 | 0 | A typed map of the Ilitek ILI9341 TFT LCD controller commands |
+| 2026-11-15 18:10:14 | [ili9341-ng](https://crates.io/crates/ili9341-ng) | 0.1.0 | 0 | A platform-agnostic embedded-hal driver for the Ilitek ILI9341 TFT LCD controll… |
+| 2026-11-15 18:12:42 | [lamarge](https://crates.io/crates/lamarge) | 0.1.0 | 0 | Client for the LaMarge API: sign-in, takes, transfers, withdrawals and market m… |
+| 2026-11-15 18:13:06 | [aggrega-abi](https://crates.io/crates/aggrega-abi) | 0.9.0 | 0 | Portable codec for the Aggrega Wasm plugin ABI. |
+| 2026-11-15 18:14:07 | [aonyx-rakko-lint-terraform](https://crates.io/crates/aonyx-rakko-lint-terraform) | 0.1.0 | 0 | A Rakko action that lints Terraform modules with TFLint |
+| 2026-11-15 18:15:12 | [aggrega-pdk-rust](https://crates.io/crates/aggrega-pdk-rust) | 0.9.0 | 0 | Plugin Development Kit for authoring Aggrega Wasm plugins in Rust. |
+| 2026-11-15 18:15:56 | [windowed-peekable](https://crates.io/crates/windowed-peekable) | 0.1.0 | 0 | A fixed-capacity ring-buffer iterator adapter with multi-offset lookahead. |
+| 2026-11-15 18:16:14 | [kiwa-core](https://crates.io/crates/kiwa-core) | 0.1.0 | 0 | Core library of kiwa: zero-config, polyglot project and task discovery. |
+| 2026-11-15 18:16:35 | [kiwa](https://crates.io/crates/kiwa) | 0.1.0 | 0 | Find any project. Run any task. Built for humans and AI agents. |
+| 2026-11-15 18:18:35 | [fauxidc](https://crates.io/crates/fauxidc) | 0.1.0 | 0 | Small OAuth 2.0 / OpenID Connect mock server for local development and tests. |
 
 ## Data source
 
