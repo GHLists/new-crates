@@ -1,0 +1,70 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-15T19:22:57.616994Z,bezel-naga-types,0.3.25+zed.e4a373,0,0,https://github.com/gfx-rs/wgpu,Common types for naga and wgpu
+2026-11-15T19:23:01.659067Z,bezel-wgpu-sync,0.3.25+zed.e4a373,0,0,https://github.com/gfx-rs/wgpu,Synchronization primitives for wgpu. Not meant for general use.
+2026-11-15T19:23:40.031374Z,touchy-pad,0.3.9,0,0,https://github.com/geeksville/touchy-pad,Host-side API for the Touchy-Pad open-source USB multitouch pad / button-matrix device.
+2026-11-15T19:23:49.704342Z,bezel-naga,0.3.25+zed.e4a373,0,0,https://github.com/gfx-rs/wgpu,Shader translator and validator. Part of the wgpu project
+2026-11-15T19:23:58.241937Z,bezel-wgpu-types,0.3.25+zed.e4a373,0,0,https://github.com/gfx-rs/wgpu,"Common types and utilities for wgpu, the cross-platform, safe, pure-rust graphics API"
+2026-11-15T19:24:36.726299Z,bezel-wgpu-naga-bridge,0.3.25+zed.e4a373,0,0,https://github.com/gfx-rs/wgpu,Conversions between naga and wgpu-types. Part of the wgpu project
+2026-11-15T19:25:29.242588Z,srfm-core,0.1.0,0,0,https://github.com/Mattbusel/srfm-core,"SRFM bar transforms for Rust: Minkowski beta (timelike/spacelike bars), black-hole mass, rolling geodesic and the Hawking z proxy, as slice functions and streaming structs (optional ta::Next). Carved…"
+2026-11-15T19:26:52.149947Z,nanocodec-common,0.1.0,0,0,https://github.com/cribbinsb/nanocodec,"nanocodec common types: picture buffers and views, raw YUV I/O, bit writing, NAL framing, errors"
+2026-11-15T19:26:54.822182Z,nanocodec-dsp,0.1.0,0,0,https://github.com/cribbinsb/nanocodec,"nanocodec pixel kernels: scalar reference plus AVX2 / AVX-512 / NEON / WASM SIMD128 versions, with runtime dispatch"
+2026-11-15T19:26:57.401747Z,nanocodec-analysis,0.1.0,0,0,https://github.com/cribbinsb/nanocodec,"nanocodec source analysis: pyramid, pre-analysis, motion estimation, global motion"
+2026-11-15T19:26:59.916203Z,nanocodec-encoder,0.1.0,0,0,https://github.com/cribbinsb/nanocodec,"nanocodec shared encoder engine: configuration, presets, frame loop, mode decision, rate control, the CodecBackend trait"
+2026-11-15T19:27:02.591459Z,nanocodec-av1,0.1.0,0,0,https://github.com/cribbinsb/nanocodec,"nanocodec AV1 encoder backend for the shared engine, and an AV1 decoder for the streams it emits"
+2026-11-15T19:28:36.181951Z,katui-app,0.0.0,0,0,https://github.com/h4ks-com/katui,Run pixel UI programs on the terminal in one call
+2026-11-15T19:29:01.852952Z,bezel-gpui-ios,0.3.25+zed.e4a373,0,0,https://github.com/crabtalk/zed,"gpui_ios from zed-industries/zed, republished for the bezel gpui fork"
+2026-11-15T19:30:55.07038Z,aonyx-rakko-test-typescript,0.1.0,0,0,https://github.com/aonyx-ai/rakko,A Rakko action that runs the tests of a Node.js project with node --test
+2026-11-15T19:33:46.278144Z,katui-game,0.0.0,0,0,https://github.com/h4ks-com/katui,"Arcade games on katui: a light buffer, held keys and a fixed-step runner"
+2026-11-15T19:36:34.105339Z,canary-core,0.1.0,0,0,https://github.com/HylightGames/canary,"Canary Engine core runtime: App bootstrap, subsystem registry, logging."
+2026-11-15T19:36:38.128619Z,canary-ecs,0.1.0,0,0,https://github.com/HylightGames/canary,"Canary Engine ECS: entities, components, resources, and the World."
+2026-11-15T19:36:45.495709Z,canary-loc,0.1.0,0,0,https://github.com/HylightGames/canary,Canary Engine localization: LocKey + Fluent (.ftl) resolution. See docs/architecture/localization.md and ADR 0015.
+2026-11-15T19:36:58.730106Z,nanocodec-av2,0.1.0,0,0,https://github.com/cribbinsb/nanocodec,"nanocodec AV2 encoder backend for the shared engine (8-bit 4:2:0 subset), and a decoder for the streams it emits"
+2026-11-15T19:37:06.923046Z,canary-net,0.1.0,0,0,https://github.com/HylightGames/canary,Server-authoritative replication transport for Canary (QUIC default behind a Canary-owned trait)
+2026-11-15T19:37:10.9688Z,canary-platform,0.1.0,0,0,https://github.com/HylightGames/canary,Canary Engine platform abstraction: windowing/input/filesystem/time traits.
+2026-11-15T19:41:19.620741Z,strata_dom,0.1.0,0,0,https://github.com/strataui/strata,"Core DOM, reactive signals, and synthetic event routing for Strata"
+2026-11-15T19:41:20.739417Z,strata_gpu_path,0.1.0,0,0,https://github.com/strataui/strata,Slug and Vello-tier analytical GPU Bézier curve and vector path engine for Project Strata
+2026-11-15T19:43:42.213855Z,axum-oauth,0.1.0,0,0,https://github.com/mtelahun/axum-oauth,OAuth2 authorization server built on axum and oxide-auth
+2026-11-15T19:44:00.156478Z,katui-layout,0.0.0,0,0,https://github.com/h4ks-com/katui,Constraint splitting for cell rectangles
+2026-11-15T19:45:05.515032Z,rakko-cli,0.1.0,0,0,https://github.com/aonyx-ai/rakko,Builds the maintenance command line of a project from its Rakko actions
+2026-11-15T19:46:50.853046Z,vox-ripple,0.1.1,0,0,https://github.com/BLig-Vox/Ripple,A Rust terminal emulator with a GPU-rendered interface
+2026-11-15T19:46:58.370144Z,nanocodec-h264,0.1.0,0,0,https://github.com/cribbinsb/nanocodec,"nanocodec H.264 encoder backend for the shared engine, and an H.264 decoder for the streams it emits"
+2026-11-15T19:47:44.18067Z,canary-render,0.1.0,0,0,https://github.com/HylightGames/canary,"Canary Engine RHI trait: devices, buffers, pipelines, command encoding. Backend-agnostic -- see canary-render-vulkan and ADR 0016."
+2026-11-15T19:48:03.098452Z,nocturne-rs,0.3.2,0,0,https://github.com/nightscout/nocturne,Nocturne V4 API SDK
+2026-11-15T19:48:44.666081Z,anthilus,0.1.0,0,0,https://github.com/left-alert-chaos/anthilus,Anthilus is a lightweight file manager for you Linux terminal!
+2026-11-15T19:48:49.174693Z,driftsync-core,0.1.0,0,0,https://github.com/Liqtzone/driftsync,"Core domain logic, structural 3-way merge, and secret scanning engine for driftsync"
+2026-11-15T19:49:13.323858Z,driftsync-git,0.1.0,0,0,https://github.com/Liqtzone/driftsync,Hardened Git operations and PR automation for driftsync
+2026-11-15T19:49:43.189063Z,driftsync,0.1.0,0,0,https://github.com/Liqtzone/driftsync,Multi-repository 3-way structural configuration drift & sync engine
+2026-11-15T19:51:22.700853Z,strata_agent_ui,0.1.0,0,0,https://github.com/strataui/strata,"Streaming, sandboxed generative UI protocol for LLM and autonomous agents in Project Strata"
+2026-11-15T19:51:28.903726Z,bezel-wgpu-hal,0.3.25+zed.e4a373,0,0,https://github.com/gfx-rs/wgpu,"Hardware abstraction layer for wgpu, the cross-platform, safe, pure-rust graphics API"
+2026-11-15T19:51:38.073645Z,bezel-wgpu-core-deps-apple,0.3.25+zed.e4a373,0,0,https://github.com/gfx-rs/wgpu,Feature unification helper crate for Apple platforms
+2026-11-15T19:53:14.464022Z,mfdfa,0.1.0,0,0,https://github.com/Mattbusel/mfdfa,"Multifractal detrended fluctuation analysis (MFDFA spectra h(q), tau(q), f(alpha)), Higuchi fractal dimension and wavelet Hurst estimation for time series. Carved out of srfm-lab."
+2026-11-15T19:54:23.320409Z,katui-ratatui,0.0.0,0,0,https://github.com/h4ks-com/katui,Ratatui Backend implementation over the katui scene and presenters
+2026-11-15T19:55:15.103935Z,bgmatte,0.1.0,0,0,https://github.com/Mumcord/bgmatte,"Realtime background blur and background replacement for camera pictures: person segmentation with ONNX Runtime, edge refinement and temporal smoothing, without allocation per frame"
+2026-11-15T19:56:59.13454Z,nanocodec-hevc,0.1.0,0,0,https://github.com/cribbinsb/nanocodec,"nanocodec HEVC encoder backend for the shared engine, and an HEVC decoder for the streams it emits"
+2026-11-15T19:57:55.362142Z,rangoframework-core,0.1.0,0,0,https://github.com/ZFCon/rango-framework,"Rango core: settings, signals, signing, validators, utils, checks, management framework."
+2026-11-15T19:58:02.776469Z,canary-state,0.1.0,0,0,https://github.com/HylightGames/canary,Authored project state and deterministic simulation snapshots for Canary
+2026-11-15T19:58:10.200134Z,rangoframework-macros,0.1.0,0,0,https://github.com/ZFCon/rango-framework,"Rango procedural macros: #[derive(Model)], filter!, q!."
+2026-11-15T19:58:21.235356Z,rangoframework-cli,0.1.0,0,0,https://github.com/ZFCon/rango-framework,"Rango command-line tools: rango-admin, startproject, startapp."
+2026-11-15T19:58:35.491184Z,rangoframework-db,0.1.0,0,0,https://github.com/ZFCon/rango-framework,"Rango ORM: models, QuerySets, SQLite/PostgreSQL backends."
+2026-11-15T19:58:41.446004Z,rangoframework-http,0.1.0,0,0,https://github.com/ZFCon/rango-framework,"Rango HTTP layer: requests, responses, cookies, query dicts, uploads."
+2026-11-15T19:58:49.06859Z,bezel-wgpu-core-deps-emscripten,0.3.25+zed.e4a373,0,0,https://github.com/gfx-rs/wgpu,Feature unification helper crate for the Emscripten platform
+2026-11-15T19:59:12.436908Z,aonyx-rakko-build-internal-docs,0.1.0,0,0,https://github.com/aonyx-ai/rakko,A Rakko action that builds internal Rust documentation with rustdoc
+2026-11-15T20:00:47.960596Z,southstar-pdfjs,6.4.299,0,0,https://github.com/nordstjernen-web/southstar-browser,"Mozilla's pdf.js 6.4.299 (pdfjs-dist, legacy build) with its CMaps, standard fonts and WebAssembly decoders, embedded for Southstar's PDF viewer"
+2026-11-15T20:01:14.180594Z,strata_aria,0.1.0,0,0,https://github.com/strataui/strata,Accessible Headless UI Primitives & Floating Collision Engine for Strata
+2026-11-15T20:04:43.289993Z,katui,0.0.0,0,0,https://github.com/h4ks-com/katui,Graphics-first terminal UI engine: cell and pixel planes over the kitty graphics protocol
+2026-11-15T20:06:58.000021Z,nanocodec-vp9,0.1.0,0,0,https://github.com/cribbinsb/nanocodec,"nanocodec VP9 Profile 0 encoder backend for the shared engine, and a VP9 Profile 0 decoder"
+2026-11-15T20:07:28.071991Z,ic-wasm-store-protocol,0.2.1,0,0,https://github.com/dragginzgame/ic-wasm-store,Passive Rust types and bounded IC Wire messages for the Internet Computer Wasm Store
+2026-11-15T20:07:30.591613Z,ic-wasm-store,0.2.1,0,0,https://github.com/dragginzgame/ic-wasm-store,"Internet Computer canister for immutable Wasm storage, resumable uploads and exact restoration"
+2026-11-15T20:07:58.4265Z,rangoframework-urls,0.1.0,0,0,https://github.com/ZFCon/rango-framework,"Rango URL routing: path()/re_path()/include(), resolve(), reverse()."
+2026-11-15T20:08:01.980483Z,day-process,0.0.1,0,0,https://github.com/daybrite/day,"Part of Day, which builds native apps from one Rust codebase. This placeholder holds the name until the first release."
+2026-11-15T20:08:26.641868Z,canary-assets,0.1.0,0,0,https://github.com/HylightGames/canary,Canary Engine asset loading: AssetId + AssetHandle<T> + AssetStore<T> + AssetError. See docs/architecture/asset-system.md and ADR 0018.
+2026-11-15T20:10:02.792811Z,bezel-wgpu-core-deps-linux-android-bsd,0.3.25+zed.e4a373,0,0,https://github.com/gfx-rs/wgpu,Feature unification helper crate for the Linux/Android/BSD platforms
+2026-11-15T20:14:04.620567Z,mtg-secret,0.0.1,0,0,https://github.com/ferrogram-app/mtg,Telegram secret chats (end-to-end encryption). Name reserved; the code is not published yet.
+2026-11-15T20:14:07.473704Z,mtg-calls,0.0.1,0,0,https://github.com/ferrogram-app/mtg,Telegram call signalling and key exchange. Name reserved; the code is not published yet.
+2026-11-15T20:14:25.574228Z,yah-access-plan,0.9.0,0,0,https://github.com/yah-ai/yubaba,Declared service access resolved once: per-port `from` audiences plus placed records into a mesh enrolment boundary and per-node exact filters.
+2026-11-15T20:14:26.957181Z,yah-headscale-derp,0.9.0,0,0,https://github.com/yah-ai/yubaba,yah's DERP map (the yah-derp regions on the public doors) plus the writer that places it beside headscale's config.yaml as the tailnet's only relay set.
+2026-11-15T20:15:43.038014Z,syspm-core,0.0.1,0,0,https://github.com/thinkse-dev/syspm,"Core library for syspm, a SysML v2 and KerML package manager (internal; no stability guarantees)"
+2026-11-15T20:15:46.176046Z,aonyx-rakko-check-crate-owners,0.1.0,0,0,https://github.com/aonyx-ai/rakko,A Rakko action that checks that each crate has its required owners on crates.io
+2026-11-15T20:16:59.477861Z,nanocodec-vvc,0.1.0,0,0,https://github.com/cribbinsb/nanocodec,"nanocodec H.266/VVC encoder backend for the shared engine, and a VVC decoder for the streams it emits"
+2026-11-15T20:18:43.19347Z,canary-collab,0.1.0,0,0,https://github.com/HylightGames/canary,Server-authoritative live-collaboration operations for Canary (v0.0.16 op path)
+2026-11-15T20:19:01.785013Z,ctrlz,0.2.0,0,0,https://github.com/akshaytheflash/ctrlz,A local shadow store for undoing coding-agent edits
