@@ -1,0 +1,27 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-15T11:25:14.002003Z,lmsafe,0.1.0,0,0,https://github.com/ggdev-ops/lmsafe,C FFI bindings for lmsafe (liblmsafe.so)
+2026-11-15T11:33:07.843075Z,jfr,0.1.0,0,0,https://github.com/Muthu-Palaniyappan-OL/jfr,"Fast, low-memory, dependency-free reader and query engine for Java Flight Recorder (JFR) files"
+2026-11-15T11:40:22.541907Z,bevy_flui_locale,0.20.11,0,0,https://github.com/DaRAGingLunatic/bevy_flui,"The words of bevy_flui in fourteen languages, from French and Russian to Arabic, Hindi and Japanese"
+2026-11-15T11:44:55.143673Z,catchment,0.1.0,0,0,,"The reservoir service for Mere: a persona's catalog of meres by data domain, access decisions, store lifetimes and sealing. Names no graph."
+2026-11-15T11:46:17.285653Z,sceno-backdrops,0.0.1,0,0,https://github.com/merely-made/graphshell,"Portable, disclosed-data backdrop scenes (metre, fretboard, terrain, templated sequences) compiled to sceno scenes: geometry only, no analysis or product authority."
+2026-11-15T11:57:24.875835Z,byard-macro,0.1.0,0,0,https://github.com/Briany4717/byard,"Procedural macros for Byard: #[byard_controller], #[native_view] and the HostValue derives"
+2026-11-15T11:57:35.034701Z,byard-core,0.1.0,0,0,https://github.com/Briany4717/byard,"The Byard engine: layout, text, the GPU renderer and the bridge to Rust controllers"
+2026-11-15T11:57:57.88344Z,byard-compiler,0.1.0,0,0,https://github.com/Briany4717/byard,"The byld language of Byard: lexer, parser, type checker, formatter and interpreter"
+2026-11-15T11:58:19.478056Z,byard-project,0.1.0,0,0,https://github.com/Briany4717/byard,"A Byard project on disk: its manifest, theme, dependencies, lockfile and package archives"
+2026-11-15T11:58:40.748829Z,byard-platform,0.1.0,0,0,https://github.com/Briany4717/byard,"The Byard window, input and accessibility host, on winit"
+2026-11-15T12:03:05.082962Z,codeagent,0.5.0,0,0,https://github.com/smolkov/codeagent,"AI coding agent for the terminal, with tools behind permission rules"
+2026-11-15T12:03:27.655192Z,rustbcx,0.1.0,0,0,https://github.com/OctoKeights/rustbcx,"BC1-5 and BC7 texture block compression in pure Rust, ported from Richard Geldreich's bc7enc_rdo and Binomial's bc7e. Bit-identical output, no dependencies and no unsafe code."
+2026-11-15T12:07:34.069578Z,byard-cli,0.1.0,0,0,https://github.com/Briany4717/byard,"The byard command as a library: new, dev, check, fmt, shot, bundle and the rest"
+2026-11-15T12:09:29.488687Z,kardia-server,0.3.0,0,0,https://github.com/licyk/kardia,Lifecycle-owned HTTP and WebSocket server for kardia
+2026-11-15T12:09:31.750008Z,kardia-http,0.3.0,0,0,https://github.com/licyk/kardia,Lifecycle-owned HTTP and WebSocket client service for kardia
+2026-11-15T12:09:32.01764Z,kardia-server-acl,0.3.0,0,0,https://github.com/licyk/kardia,Host-based HTTP and WebSocket route access control for kardia
+2026-11-15T12:09:32.167497Z,kardia-server-echo,0.3.0,0,0,https://github.com/licyk/kardia,Streaming HTTP and WebSocket echo plugin for kardia
+2026-11-15T12:09:32.357992Z,kardia-server-static,0.3.0,0,0,https://github.com/licyk/kardia,Lifecycle-owned static file serving for kardia
+2026-11-15T12:10:47.430067Z,cius-ro-id,0.1.0,0,0,https://github.com/StBogdan/ro-efactura-rust,"no_std-compatible Romanian fiscal, legal, banking, and geographic identifiers (CUI/CIF, CNP + ANAF B2C placeholder, ONRC, RO IBAN, ISO 3166-2:RO & Bucharest sectors)"
+2026-11-15T12:11:03.569253Z,cius-ro,0.1.0,0,0,https://github.com/StBogdan/ro-efactura-rust,"ANAF RO e-Factura (CIUS-RO 1.0.1) e-invoice validator: EN 16931 fixed-point model, BR-RO-* rules, UBL 2.1 / CII D16B XSD, and hybrid efactura.xml PDF/A-3 inspection"
+2026-11-15T12:11:13.656175Z,cius-ro-cli,0.1.0,0,0,https://github.com/StBogdan/ro-efactura-rust,Command-line validator and PDF/A-3 extractor for Romanian ANAF RO e-Factura (CIUS-RO 1.0.1) e-invoices and fiscal identifiers
+2026-11-15T12:13:17.54974Z,walkwomen-core,0.1.0,0,0,https://gitlab.com/thyseus/walkwomen,"Platform-free library model, sorting, shuffle and index for walkwomen"
+2026-11-15T12:13:21.36566Z,walkwomen-desktop-audio,0.1.0,0,0,https://gitlab.com/thyseus/walkwomen,Rodio playback backend for the walkwomen host dev loop
+2026-11-15T12:13:32.926801Z,soulseek-client,0.1.0,0,0,https://github.com/reseek-rs/soulseek-client,"A Soulseek client library on tokio: server session, peers, transfers, searches"
+2026-11-15T12:13:42.312731Z,walkwomen-platform,0.1.0,0,0,https://gitlab.com/thyseus/walkwomen,Android native plugin (Media3 playback service + JNI bridge) for walkwomen
+2026-11-15T12:17:33.070699Z,byard,0.1.0,0,0,https://github.com/Briany4717/byard,"A GPU UI framework: the interface in byld, the logic in Rust, and the `byard` command"
