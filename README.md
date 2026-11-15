@@ -8,26 +8,48 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-15 05:19 UTC
+## Latest list — 2026-11-15 06:20 UTC
 
-New crates published between 2026-11-15 04:21 UTC and 2026-11-15 05:19 UTC.
+New crates published between 2026-11-15 05:19 UTC and 2026-11-15 06:20 UTC.
 
-[Full CSV](data/new-crates-2026-11-15T05-19-53-264793Z.csv)
+[Full CSV](data/new-crates-2026-11-15T06-20-09-881065Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-15 04:23:19 | [sendmock](https://crates.io/crates/sendmock) | 1.0.0 | 0 | Catch email, SMS, payments and webhooks from any app on your machine. |
-| 2026-11-15 04:23:58 | [rpc-manifest](https://crates.io/crates/rpc-manifest) | 0.1.0 | 0 | Types and lookups for RPC manifests from protoc-gen-rpc-manifest, and a generic… |
-| 2026-11-15 04:34:26 | [rpc-manifest-cli](https://crates.io/crates/rpc-manifest-cli) | 0.1.0 | 0 | A drop-in `rpc` subcommand (bpaf or clap) that lists and calls any RPC in a man… |
-| 2026-11-15 04:43:22 | [kdl-nodes](https://crates.io/crates/kdl-nodes) | 0.1.0 | 0 | Untyped helpers for named KDL nodes and blocks |
-| 2026-11-15 04:47:05 | [valo-pathops](https://crates.io/crates/valo-pathops) | 0.24.0 | 0 | Skia's PathOps for valo: boolean operations on paths, ported from Skia |
-| 2026-11-15 04:48:04 | [unlinkable-inference](https://crates.io/crates/unlinkable-inference) | 0.1.0 | 0 | Unlinkable inference: anonymous prepaid API sessions paid with blind-signed e-c… |
-| 2026-11-15 04:48:10 | [unlinkable-inference-cli](https://crates.io/crates/unlinkable-inference-cli) | 0.1.0 | 0 | Local proxy for unlinkable inference: OpenAI and Anthropic endpoints on localho… |
-| 2026-11-15 04:51:06 | [coderag](https://crates.io/crates/coderag) | 0.1.0 | 0 | Retrieval engine for codebases: syntax-aware chunking, pluggable embeddings, an… |
-| 2026-11-15 04:53:24 | [kdl-pretty](https://crates.io/crates/kdl-pretty) | 0.1.0 | 0 | A deterministic, comment-preserving KDL v2 formatter |
-| 2026-11-15 04:57:18 | [spawned-sim-libc](https://crates.io/crates/spawned-sim-libc) | 0.8.0 | 0 | Clock and entropy interposers for Spawned's deterministic simulator (compiled o… |
-| 2026-11-15 05:03:20 | [protoc-gen-rpc-manifest](https://crates.io/crates/protoc-gen-rpc-manifest) | 0.1.0 | 0 | protoc/buf plugin that emits a manifest of every RPC service and method (Rust,… |
-| 2026-11-15 05:13:28 | [kdl-pretty-cli](https://crates.io/crates/kdl-pretty-cli) | 0.1.0 | 0 | kdl-pretty: format KDL v2 files in place or check them (treefmt-friendly) |
+| 2026-11-15 05:23:34 | [kdl-serde](https://crates.io/crates/kdl-serde) | 0.1.0 | 0 | Serde Serializer and Deserializer for KDL v2 documents |
+| 2026-11-15 05:25:44 | [ibis-core](https://crates.io/crates/ibis-core) | 0.1.0 | 0 | Core of ibis-rs: datatypes, IR, Table/Expr API, and the Backend trait |
+| 2026-11-15 05:25:46 | [ibis-sql](https://crates.io/crates/ibis-sql) | 0.1.0 | 0 | IR -> SQL compiler for ibis-rs; the Dialect trait is the SQL backend plugin seam |
+| 2026-11-15 05:25:48 | [ibis-duckdb](https://crates.io/crates/ibis-duckdb) | 0.1.0 | 0 | DuckDB backend plugin for ibis-rs |
+| 2026-11-15 05:25:48 | [ibis-postgres](https://crates.io/crates/ibis-postgres) | 0.1.0 | 0 | Postgres backend plugin for ibis-rs |
+| 2026-11-15 05:25:48 | [ibis-sqlite](https://crates.io/crates/ibis-sqlite) | 0.1.0 | 0 | SQLite backend plugin for ibis-rs |
+| 2026-11-15 05:30:56 | [mfe-player](https://crates.io/crates/mfe-player) | 0.3.5 | 0 | Music For Everyone — a plugin-driven, terminal-native music player that tells s… |
+| 2026-11-15 05:33:26 | [lab-resource-manager-core](https://crates.io/crates/lab-resource-manager-core) | 0.1.0 | 0 | Domain model and use cases of lab-resource-manager: GPU and room reservations,… |
+| 2026-11-15 05:33:57 | [bpaf-kit](https://crates.io/crates/bpaf-kit) | 0.1.0 | 0 | Batteries for Rust CLIs built on bpaf: #[derive(Cli)] startup, subprocesses, Ct… |
+| 2026-11-15 05:34:03 | [wcli](https://crates.io/crates/wcli) | 0.1.0 | 0 | Command-line parsing for Waffuru's tools, after commander.js: a command tree fr… |
+| 2026-11-15 05:45:47 | [korek-ir](https://crates.io/crates/korek-ir) | 0.1.0 | 0 | korek's schema IR and generator plugin protocol types: plain serde data |
+| 2026-11-15 05:47:06 | [ibis-rs](https://crates.io/crates/ibis-rs) | 0.1.0 | 0 | Portable lazy dataframe API for Rust, modeled on Python Ibis: write a query onc… |
+| 2026-11-15 05:47:08 | [guessing_gamenb666](https://crates.io/crates/guessing_gamenb666) | 0.1.1 | 0 | A fun game where you guess what number the computer has chosen. |
+| 2026-11-15 05:47:32 | [rm-redraw](https://crates.io/crates/rm-redraw) | 0.1.0 | 0 | Deterministic reMarkable ink rendering and progressive stroke reveal for native… |
+| 2026-11-15 05:47:48 | [rm-rmdoc](https://crates.io/crates/rm-rmdoc) | 0.1.0 | 0 | Bounded reMarkable notebook archive, page decoding and normalization |
+| 2026-11-15 05:47:59 | [rm-replay-core](https://crates.io/crates/rm-replay-core) | 0.1.0 | 0 | reMarkable stroke replay scheduling and native-reference anchor fitting for Rus… |
+| 2026-11-15 05:48:37 | [wpantry-yara](https://crates.io/crates/wpantry-yara) | 0.4.0 | 0 | A YARA rule engine with no dependencies: parser, compiler and scanner (pantry's… |
+| 2026-11-15 05:49:05 | [wpantry](https://crates.io/crates/wpantry) | 0.4.0 | 0 | Finds the vulnerabilities that apply to this computer and its git repos (librar… |
+| 2026-11-15 05:49:14 | [pxscrape-aivpn](https://crates.io/crates/pxscrape-aivpn) | 0.1.0 | 0 | AIVPN API scraper |
+| 2026-11-15 05:50:53 | [wiron](https://crates.io/crates/wiron) | 0.0.1 | 0 | The command line of Iron, Waffuru's kernel toolkit. Published ahead of the tool… |
+| 2026-11-15 05:55:29 | [korek-runtime](https://crates.io/crates/korek-runtime) | 0.1.0 | 0 | Runtime for Rust generated by korek: validation with field paths, string format… |
+| 2026-11-15 05:56:26 | [wbutter](https://crates.io/crates/wbutter) | 0.0.1 | 0 | The command line of Butter, Waffuru's inference engine. Published ahead of the… |
+| 2026-11-15 06:00:03 | [syllabix-stt](https://crates.io/crates/syllabix-stt) | 0.1.2 | 0 | Speech-to-text for Syllabix: one Stt trait over Whisper, Qwen3-ASR, Moonshine,… |
+| 2026-11-15 06:00:03 | [syllabix-tts](https://crates.io/crates/syllabix-tts) | 0.1.2 | 0 | Text-to-speech for Syllabix: one Tts trait over Pocket TTS, Kokoro, Qwen3-TTS,… |
+| 2026-11-15 06:05:22 | [acorn-rs](https://crates.io/crates/acorn-rs) | 0.1.0 | 0 | A function-for-function Rust port of the acorn JavaScript parser and @sveltejs/… |
+| 2026-11-15 06:05:43 | [korek-core](https://crates.io/crates/korek-core) | 0.1.0 | 0 | korek's schema front end: KDL v2 parsing, lowering to the IR, validation and st… |
+| 2026-11-15 06:07:37 | [xrack-media-bin-aarch64-apple-darwin](https://crates.io/crates/xrack-media-bin-aarch64-apple-darwin) | 0.5.1 | 0 | Prebuilt XRack media library for aarch64-apple-darwin |
+| 2026-11-15 06:07:38 | [xrack-media-bin-aarch64-pc-windows-msvc](https://crates.io/crates/xrack-media-bin-aarch64-pc-windows-msvc) | 0.5.1 | 0 | Prebuilt XRack media library for aarch64-pc-windows-msvc |
+| 2026-11-15 06:07:39 | [xrack-media-bin-aarch64-unknown-linux-gnu](https://crates.io/crates/xrack-media-bin-aarch64-unknown-linux-gnu) | 0.5.1 | 0 | Prebuilt XRack media library for aarch64-unknown-linux-gnu |
+| 2026-11-15 06:07:39 | [xrack-media-bin-x86_64-pc-windows-msvc](https://crates.io/crates/xrack-media-bin-x86_64-pc-windows-msvc) | 0.5.1 | 0 | Prebuilt XRack media library for x86_64-pc-windows-msvc |
+| 2026-11-15 06:07:39 | [xrack-media-bin-x86_64-unknown-linux-gnu](https://crates.io/crates/xrack-media-bin-x86_64-unknown-linux-gnu) | 0.5.1 | 0 | Prebuilt XRack media library for x86_64-unknown-linux-gnu |
+| 2026-11-15 06:11:45 | [xrack-media](https://crates.io/crates/xrack-media) | 0.5.1 | 0 | FFmpeg-backed media playback for XRack |
+| 2026-11-15 06:15:46 | [korek-gen-common](https://crates.io/crates/korek-gen-common) | 0.1.0 | 0 | Shared helpers for korek code generators: doc comments, identifiers, unsupporte… |
+| 2026-11-15 06:18:49 | [netglass](https://crates.io/crates/netglass) | 0.0.1 | 0 | A TCP connection probe for network diagnostics |
 
 ## Data source
 
