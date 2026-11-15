@@ -1,0 +1,50 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-15T20:20:18.661359Z,polysmelt,0.1.0,0,0,https://github.com/Azazel-Labs/polysmelt,"Pure-Rust 3D asset interchange: glTF/GLB reading and writing, meshopt compression, and readers for common mesh formats"
+2026-11-15T20:21:40.488987Z,omics-alignment,0.1.0,0,0,https://github.com/stjude-rust-labs/omics,Foundational representations of sequence alignments in the Rust omics ecosystem
+2026-11-15T20:21:45.724159Z,glastor-aria-wasm,0.1.0,0,0,https://github.com/glastor-core/strata,WebAssembly runtime bridge for GLASTOR Strata headless accessibility FSMs and harmonic motion physics.
+2026-11-15T20:23:16.081411Z,consequence,0.1.0,0,0,,"Simple Rust library with a type ""Outcome"" - a Result-like three-state container for differentiating outcomes from runtime errors."
+2026-11-15T20:23:45.366023Z,multisolver,0.1.0,0,0,https://github.com/nmoinvaz/multisolver,"Nonlinear solvers in double-, quad- and octo-double precision over multidouble's Precision trait: damped Newton, chord and Shamanskii, GMRES-refined Newton, Levenberg-Marquardt, the asymptotic numeri…"
+2026-11-15T20:26:03.645711Z,bezel-wgpu-core-deps-wasm,0.3.25+zed.e4a373,0,0,https://github.com/gfx-rs/wgpu,Feature unification helper crate for the WebAssembly platform
+2026-11-15T20:26:57.78195Z,nanocodec,0.1.0,0,0,https://github.com/cribbinsb/nanocodec,"Real-time, low-latency video encoders and matching decoders for H.264, HEVC, VVC, AV1, VP9 and AV2 on one shared engine"
+2026-11-15T20:29:56.807629Z,ml-convertant-calibrate,0.0.0,0,0,https://github.com/ThinkersJournal/ml-convertant,"Reserved name: calibration (RTN baseline, scale search) for ml-convertant quantisation (placeholder, not yet released)"
+2026-11-15T20:30:04.605181Z,aonyx-rakko-check-dependencies,0.1.0,0,0,https://github.com/aonyx-ai/rakko,A Rakko action that checks Rust dependencies with cargo-deny
+2026-11-15T20:30:55.670855Z,cutforge,0.2.0,0,0,https://github.com/znoowmk/z-forge-cli,"CutForge (cf): zero-copy MP4 muxer, frame-accurate Smart GOP Cut, ITU-R BS.1770-4 loudnorm, sub-pixel Ken Burns & MCP server"
+2026-11-15T20:30:58.065406Z,spaceforge,0.2.0,0,0,https://github.com/znoowmk/z-forge-cli,"SpaceForge (sp): instant O(1) disk space analyzer, extension breakdown & 3-stage duplicate finder with MCP server"
+2026-11-15T20:31:00.297692Z,droidforge,0.2.0,0,0,https://github.com/znoowmk/z-forge-cli,"DroidForge (droidctl): universal Android fleet controller, semantic UI selector (-96% tokens), Zero-Touch package firewall & MCP server"
+2026-11-15T20:31:03.194646Z,searchforge,0.3.0,0,0,https://github.com/znoowmk/z-forge-cli,"SearchForge (sf): instant file and OCR content search CLI & MCP server for Linux, macOS, and Windows"
+2026-11-15T20:32:02.13978Z,generic-pdf-writer,0.15.0,0,0,https://github.com/lovasoa/pdf-writer,A PDF writer fork for streaming large documents without buffering them entirely in memory.
+2026-11-15T20:32:04.336006Z,incroxigraph-oxsdatatypes,0.0.1,0,0,https://github.com/maartyman/incroxigraph,Some XSD datatypes for SPARQL implementations
+2026-11-15T20:32:13.464575Z,incroxigraph-oxrdf,0.0.1,0,0,https://github.com/maartyman/incroxigraph,Basic data structures related to RDF
+2026-11-15T20:32:22.732863Z,incroxigraph-oxjsonld,0.0.1,0,0,https://github.com/maartyman/incroxigraph,Parser and serializer for the JSON-LD format
+2026-11-15T20:32:28.810072Z,incroxigraph-oxrdfxml,0.0.1,0,0,https://github.com/maartyman/incroxigraph,Parser and serializer for the RDF/XML format
+2026-11-15T20:32:35.810225Z,incroxigraph-oxttl,0.0.1,0,0,https://github.com/maartyman/incroxigraph,"Parser and serializer for languages related to RDF Turtle (N-Triples, N-Quads, Turtle, TriG and N3)"
+2026-11-15T20:33:44.8355Z,leakhound,0.3.0,0,0,https://github.com/qtclover/leakhound,Fast secret scanner for source trees and git history
+2026-11-15T20:35:49.070958Z,speckhashx,1.0.0,0,0,https://github.com/multipleof4/SpeckHashX,"Variable-output hash built from Speck128/256 (Hirose double-block mode). Experimental, unreviewed."
+2026-11-15T20:36:59.087222Z,nanocodec-capi,0.1.0,0,0,https://github.com/cribbinsb/nanocodec,C ABI for embedding the nanocodec encoders and decoders (staticlib/cdylib + include/nanocodec.h)
+2026-11-15T20:36:59.9054Z,sanadb,0.1.2,0,0,https://github.com/RohithOrg/sanadb,"Disk-first embedded vector + metadata store: write-ahead log, memory-mapped DiskANN-style graph index, product quantization, metadata filters"
+2026-11-15T20:40:05.373922Z,anova_rs,0.0.4,0,0,,TUI for minotoring and controlling ANOVA APC devices
+2026-11-15T20:41:31.097923Z,brrrty-compat,0.0.1,0,0,https://github.com/brrrty/brrrty,Compare Brrrty output folders against Eleventy output.
+2026-11-15T20:41:31.494229Z,brrrty-markdown,0.0.1,0,0,https://github.com/brrrty/brrrty,"Markdown rendering for Brrrty, an Eleventy-compatible static site generator."
+2026-11-15T20:41:31.994218Z,brrty,0.0.1,0,0,https://github.com/brrrty/brrrty,"Did you mean brrrty? (three Rs, like ""go brrr"")"
+2026-11-15T20:41:32.938049Z,brrrty-core,0.0.1,0,0,https://github.com/brrrty/brrrty,"Core build pipeline for Brrrty, an Eleventy-compatible static site generator."
+2026-11-15T20:41:34.669484Z,brrrty,0.0.1,0,0,https://github.com/brrrty/brrrty,"Brrrty, a fast static site generator compatible with Eleventy (11ty) projects."
+2026-11-15T20:44:06.688672Z,cozo-ng-cleaner,0.1.0,0,0,https://github.com/jorgeandrecastro/cozo-ng,"Data cleaning and preparation pipelines (normalization, typing, validation, deduplication, chunking) for Cozo-NG, AI agents and GraphRAG"
+2026-11-15T20:44:08.187032Z,aonyx-rakko-check-msrv,0.1.0,0,0,https://github.com/aonyx-ai/rakko,A Rakko action that checks a Rust project on its minimum supported Rust version
+2026-11-15T20:45:13.338337Z,bezel-wgpu-core-deps-windows,0.3.25+zed.e4a373,0,0,https://github.com/gfx-rs/wgpu,Feature unification helper crate for the Windows/Linux/Android platforms
+2026-11-15T20:45:34.940318Z,bezel-wgpu-core,0.3.25+zed.e4a373,0,0,https://github.com/gfx-rs/wgpu,"Core implementation logic of wgpu, the cross-platform, safe, pure-rust graphics API"
+2026-11-15T20:45:50.285808Z,incroxigraph-oxrdfio,0.0.1,0,0,https://github.com/maartyman/incroxigraph,Parser and serializer for various RDF formats
+2026-11-15T20:46:57.9919Z,nanocodec-cli,0.1.0,0,0,https://github.com/cribbinsb/nanocodec,nanocodec command-line encoder and decoder (the `nanocodec` binary)
+2026-11-15T20:52:24.68452Z,ibis-polars,0.1.0,0,0,https://github.com/brojonat/ibis-rs,"Polars backend plugin for ibis-rs: runs the IR on Polars LazyFrames, in process, no SQL"
+2026-11-15T20:52:54.938606Z,plannotator-tui-review,0.10.0,0,0,https://github.com/ramos/plannotator-tui,"Git diff capture, code-review notes, anchoring and agent feedback for plannotator-tui."
+2026-11-15T20:56:02.539725Z,aonyx-rakko-check-unused-deps,0.1.0,0,0,https://github.com/aonyx-ai/rakko,A Rakko action that finds unused Rust dependencies with cargo-udeps
+2026-11-15T20:56:58.461656Z,nanocodec-web,0.1.0,0,0,https://github.com/cribbinsb/nanocodec,Browser WASM bindings for nanocodec encode and decode
+2026-11-15T21:08:54.67456Z,bureaucrate,0.12.0,0,0,,Release management tool
+2026-11-15T21:09:40.585169Z,aonyx-rakko-format-json,0.1.0,0,0,https://github.com/aonyx-ai/rakko,A Rakko action that formats JSON files with prettier
+2026-11-15T21:14:20.079145Z,bfm-reldate,0.1.0,0,0,https://github.com/superaligned-to/bfm,"Resolve English relative date phrases such as ""last Sunday"" or ""two weeks ago"" against the date they were said."
+2026-11-15T21:14:23.112144Z,bfm-beam,0.1.0,0,0,https://github.com/superaligned-to/bfm,"Deterministic best-first graph traversal with a bounded beam, a score floor and a node budget."
+2026-11-15T21:14:25.651986Z,bfm-scrub,0.1.0,0,0,https://github.com/superaligned-to/bfm,"Masks credential-shaped tokens, bearer values, URL passwords and secret key=value pairs in log text."
+2026-11-15T21:14:27.143704Z,alwith-media,0.6.3,0,0,https://github.com/ALwith-ai/alwith-modules,ALwith media: typed Tauri commands backed by the private native media library
+2026-11-15T21:14:28.492706Z,bfm-ctxpack,0.1.0,0,0,https://github.com/superaligned-to/bfm,"Packs titled sections of text into a character and token budget, never cutting an atomic item in half."
+2026-11-15T21:14:33.215708Z,bfm,0.1.0,0,0,https://github.com/superaligned-to/bfm,Rust client for the BFM HTTP API
+2026-11-15T21:16:04.184833Z,containerd-pause,0.1.0,0,0,https://github.com/containerd/rust-extensions,Anchor process holding a PID namespace open
+2026-11-15T21:16:49.311249Z,rusque,0.1.2,0,0,https://github.com/danish-a1/rusque,"Background job queue with in-memory, Redis, Postgres, MySQL and AWS SQS backends"
