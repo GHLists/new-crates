@@ -8,40 +8,47 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-15 12:19 UTC
+## Latest list — 2026-11-15 13:20 UTC
 
-New crates published between 2026-11-15 11:21 UTC and 2026-11-15 12:19 UTC.
+New crates published between 2026-11-15 12:19 UTC and 2026-11-15 13:20 UTC.
 
-[Full CSV](data/new-crates-2026-11-15T12-19-00-903084Z.csv)
+[Full CSV](data/new-crates-2026-11-15T13-20-23-186515Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-15 11:25:14 | [lmsafe](https://crates.io/crates/lmsafe) | 0.1.0 | 0 | C FFI bindings for lmsafe (liblmsafe.so) |
-| 2026-11-15 11:33:07 | [jfr](https://crates.io/crates/jfr) | 0.1.0 | 0 | Fast, low-memory, dependency-free reader and query engine for Java Flight Recor… |
-| 2026-11-15 11:40:22 | [bevy_flui_locale](https://crates.io/crates/bevy_flui_locale) | 0.20.11 | 0 | The words of bevy_flui in fourteen languages, from French and Russian to Arabic… |
-| 2026-11-15 11:44:55 | [catchment](https://crates.io/crates/catchment) | 0.1.0 | 0 | The reservoir service for Mere: a persona's catalog of meres by data domain, ac… |
-| 2026-11-15 11:46:17 | [sceno-backdrops](https://crates.io/crates/sceno-backdrops) | 0.0.1 | 0 | Portable, disclosed-data backdrop scenes (metre, fretboard, terrain, templated… |
-| 2026-11-15 11:57:24 | [byard-macro](https://crates.io/crates/byard-macro) | 0.1.0 | 0 | Procedural macros for Byard: #[byard_controller], #[native_view] and the HostVa… |
-| 2026-11-15 11:57:35 | [byard-core](https://crates.io/crates/byard-core) | 0.1.0 | 0 | The Byard engine: layout, text, the GPU renderer and the bridge to Rust control… |
-| 2026-11-15 11:57:57 | [byard-compiler](https://crates.io/crates/byard-compiler) | 0.1.0 | 0 | The byld language of Byard: lexer, parser, type checker, formatter and interpre… |
-| 2026-11-15 11:58:19 | [byard-project](https://crates.io/crates/byard-project) | 0.1.0 | 0 | A Byard project on disk: its manifest, theme, dependencies, lockfile and packag… |
-| 2026-11-15 11:58:40 | [byard-platform](https://crates.io/crates/byard-platform) | 0.1.0 | 0 | The Byard window, input and accessibility host, on winit |
-| 2026-11-15 12:03:05 | [codeagent](https://crates.io/crates/codeagent) | 0.5.0 | 0 | AI coding agent for the terminal, with tools behind permission rules |
-| 2026-11-15 12:03:27 | [rustbcx](https://crates.io/crates/rustbcx) | 0.1.0 | 0 | BC1-5 and BC7 texture block compression in pure Rust, ported from Richard Geldr… |
-| 2026-11-15 12:07:34 | [byard-cli](https://crates.io/crates/byard-cli) | 0.1.0 | 0 | The byard command as a library: new, dev, check, fmt, shot, bundle and the rest |
-| 2026-11-15 12:09:29 | [kardia-server](https://crates.io/crates/kardia-server) | 0.3.0 | 0 | Lifecycle-owned HTTP and WebSocket server for kardia |
-| 2026-11-15 12:09:31 | [kardia-http](https://crates.io/crates/kardia-http) | 0.3.0 | 0 | Lifecycle-owned HTTP and WebSocket client service for kardia |
-| 2026-11-15 12:09:32 | [kardia-server-acl](https://crates.io/crates/kardia-server-acl) | 0.3.0 | 0 | Host-based HTTP and WebSocket route access control for kardia |
-| 2026-11-15 12:09:32 | [kardia-server-echo](https://crates.io/crates/kardia-server-echo) | 0.3.0 | 0 | Streaming HTTP and WebSocket echo plugin for kardia |
-| 2026-11-15 12:09:32 | [kardia-server-static](https://crates.io/crates/kardia-server-static) | 0.3.0 | 0 | Lifecycle-owned static file serving for kardia |
-| 2026-11-15 12:10:47 | [cius-ro-id](https://crates.io/crates/cius-ro-id) | 0.1.0 | 0 | no_std-compatible Romanian fiscal, legal, banking, and geographic identifiers (… |
-| 2026-11-15 12:11:03 | [cius-ro](https://crates.io/crates/cius-ro) | 0.1.0 | 0 | ANAF RO e-Factura (CIUS-RO 1.0.1) e-invoice validator: EN 16931 fixed-point mod… |
-| 2026-11-15 12:11:13 | [cius-ro-cli](https://crates.io/crates/cius-ro-cli) | 0.1.0 | 0 | Command-line validator and PDF/A-3 extractor for Romanian ANAF RO e-Factura (CI… |
-| 2026-11-15 12:13:17 | [walkwomen-core](https://crates.io/crates/walkwomen-core) | 0.1.0 | 0 | Platform-free library model, sorting, shuffle and index for walkwomen |
-| 2026-11-15 12:13:21 | [walkwomen-desktop-audio](https://crates.io/crates/walkwomen-desktop-audio) | 0.1.0 | 0 | Rodio playback backend for the walkwomen host dev loop |
-| 2026-11-15 12:13:32 | [soulseek-client](https://crates.io/crates/soulseek-client) | 0.1.0 | 0 | A Soulseek client library on tokio: server session, peers, transfers, searches |
-| 2026-11-15 12:13:42 | [walkwomen-platform](https://crates.io/crates/walkwomen-platform) | 0.1.0 | 0 | Android native plugin (Media3 playback service + JNI bridge) for walkwomen |
-| 2026-11-15 12:17:33 | [byard](https://crates.io/crates/byard) | 0.1.0 | 0 | A GPU UI framework: the interface in byld, the logic in Rust, and the `byard` c… |
+| 2026-11-15 12:19:54 | [kardia-server-proxy](https://crates.io/crates/kardia-server-proxy) | 0.3.0 | 0 | Lifecycle-owned HTTP and WebSocket reverse proxy for kardia |
+| 2026-11-15 12:27:33 | [byld-lsp](https://crates.io/crates/byld-lsp) | 0.1.0 | 0 | A language server for byld, the language of Byard (.byd files) |
+| 2026-11-15 12:30:26 | [unyk-derive](https://crates.io/crates/unyk-derive) | 0.1.0 | 0 | Derive macros for the unyk utility library |
+| 2026-11-15 12:30:30 | [unyk](https://crates.io/crates/unyk) | 0.1.0 | 0 | Utilities, numeric types, and time representations for no_std Rust |
+| 2026-11-15 12:31:27 | [text_chipper](https://crates.io/crates/text_chipper) | 0.2.2 | 0 | Token-budgeted, Markdown-aware text chunking for RAG and LLM pipelines, with pl… |
+| 2026-11-15 12:31:44 | [tui-monitor](https://crates.io/crates/tui-monitor) | 0.2.0 | 0 | A fast, cross-platform terminal system monitor built with ratatui |
+| 2026-11-15 12:32:47 | [zkteco-proto](https://crates.io/crates/zkteco-proto) | 0.1.0-alpha.1 | 0 | Sans-IO implementation of the ZKTeco device protocol (packets, checksums, comm… |
+| 2026-11-15 12:32:50 | [zkteco-client](https://crates.io/crates/zkteco-client) | 0.1.0-alpha.1 | 0 | Async (tokio) client for ZKTeco biometric and access-control devices over TCP a… |
+| 2026-11-15 12:32:53 | [zkctl](https://crates.io/crates/zkctl) | 0.1.0-alpha.1 | 0 | Command-line tool for ZKTeco biometric and access-control devices: device info,… |
+| 2026-11-15 12:36:43 | [ndsif](https://crates.io/crates/ndsif) | 0.1.0 | 0 | I/O-independent NDSIF v1 protocol codec for NanoDrive |
+| 2026-11-15 12:44:09 | [ndsif-transport](https://crates.io/crates/ndsif-transport) | 0.1.0 | 0 | Serial transport and scheduled playback for NDSIF devices. |
+| 2026-11-15 12:44:56 | [ruaa-dft-grids](https://crates.io/crates/ruaa-dft-grids) | 0.1.0 | 0 | Molecular DFT numerical-integration grids: Lebedev angular rules, radial quadra… |
+| 2026-11-15 12:47:30 | [dataviz-mcp](https://crates.io/crates/dataviz-mcp) | 0.1.0 | 0 | MCP server that gives AI assistants (Claude Code, Claude Desktop, any MCP clien… |
+| 2026-11-15 12:49:57 | [tencent-cloud-common](https://crates.io/crates/tencent-cloud-common) | 0.1.0 | 0 | Common utilities for Tencent Cloud SDK |
+| 2026-11-15 12:51:08 | [tencent-cloud-cam](https://crates.io/crates/tencent-cloud-cam) | 0.1.0 | 0 | Tencent Cloud CAM policy model for Rust |
+| 2026-11-15 12:51:57 | [tencent-cloud-cos-derive](https://crates.io/crates/tencent-cloud-cos-derive) | 0.1.0 | 0 | Derive macros for Tencent Cloud COS Rust SDK |
+| 2026-11-15 12:52:05 | [sag2-json](https://crates.io/crates/sag2-json) | 0.1.0 | 0 | Byte-exact CPython 3.12 JSON codec used by the SAG2 Rust port |
+| 2026-11-15 12:52:41 | [sag2-rank-sys](https://crates.io/crates/sag2-rank-sys) | 0.1.0 | 0 | Vendored sag_rank.c FTS5 scoring functions, statically linked |
+| 2026-11-15 12:53:38 | [sag2-core](https://crates.io/crates/sag2-core) | 0.1.0 | 0 | SAG2 text core: the §4 tokenizer and the Unicode tables it needs |
+| 2026-11-15 12:53:54 | [tencent-cloud-captcha](https://crates.io/crates/tencent-cloud-captcha) | 0.1.0 | 0 | Tencent Cloud Captcha Rust SDK |
+| 2026-11-15 12:54:09 | [tencent-cloud-sms](https://crates.io/crates/tencent-cloud-sms) | 0.1.0 | 0 | Tencent Cloud SMS Rust SDK |
+| 2026-11-15 12:54:13 | [edifact-derive](https://crates.io/crates/edifact-derive) | 0.19.0 | 0 | Derive macros for EdifactSerialize / EdifactDeserialize (from edifact) |
+| 2026-11-15 12:54:26 | [edifact](https://crates.io/crates/edifact) | 0.19.0 | 0 | Zero-copy EDIFACT (ISO 9735) parser, writer, typed derive, validation and CONTR… |
+| 2026-11-15 12:55:18 | [sag2-index](https://crates.io/crates/sag2-index) | 0.1.0 | 0 | SQLite FTS5 index access for the SAG2 port: open decision table, statistics and… |
+| 2026-11-15 12:56:02 | [sag2](https://crates.io/crates/sag2) | 0.1.0 | 0 | SAG2 orchestration: rank_dpp, the judge payload builder and search_sag2 |
+| 2026-11-15 12:56:09 | [tencent-cloud-sts](https://crates.io/crates/tencent-cloud-sts) | 0.1.0 | 0 | Tencent Cloud STS Rust SDK |
+| 2026-11-15 13:01:11 | [cst816s-rs](https://crates.io/crates/cst816s-rs) | 0.2.0 | 0 | Hynitron CST816 capacitive touch driver for embedded-hal (blocking and async, I… |
+| 2026-11-15 13:01:22 | [ml-convertant-gptq](https://crates.io/crates/ml-convertant-gptq) | 0.0.0 | 0 | Reserved name: GPTQ unpack/repack and conversion for ml-convertant (placeholder… |
+| 2026-11-15 13:03:29 | [sag2-cli](https://crates.io/crates/sag2-cli) | 0.1.0 | 0 | Command line entry points for the SAG2 port: gate verification, index build and… |
+| 2026-11-15 13:06:15 | [tencent-cloud-cos](https://crates.io/crates/tencent-cloud-cos) | 0.1.0 | 0 | Tencent Cloud COS Rust SDK |
+| 2026-11-15 13:10:00 | [dictz](https://crates.io/crates/dictz) | 0.0.5 | 0 | dictz — a cross-platform multi-format offline dictionary (Rust port of github.c… |
+| 2026-11-15 13:10:42 | [hydo-contracts](https://crates.io/crates/hydo-contracts) | 0.3.4 | 0 | hydo's function contracts: `// hydo:` comments next to functions (requires, ens… |
+| 2026-11-15 13:11:53 | [rakko-macros](https://crates.io/crates/rakko-macros) | 0.1.0 | 0 | The derive macros of the rakko crate, which exports them again |
 
 ## Data source
 

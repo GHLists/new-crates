@@ -1,0 +1,34 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-15T12:19:54.728326Z,kardia-server-proxy,0.3.0,0,0,https://github.com/licyk/kardia,Lifecycle-owned HTTP and WebSocket reverse proxy for kardia
+2026-11-15T12:27:33.370697Z,byld-lsp,0.1.0,0,0,https://github.com/Briany4717/byard,"A language server for byld, the language of Byard (.byd files)"
+2026-11-15T12:30:26.449505Z,unyk-derive,0.1.0,0,0,https://codeberg.org/umukka/Unyk.git,Derive macros for the unyk utility library
+2026-11-15T12:30:30.26625Z,unyk,0.1.0,0,0,https://codeberg.org/umukka/Unyk.git,"Utilities, numeric types, and time representations for no_std Rust"
+2026-11-15T12:31:27.095369Z,text_chipper,0.2.2,0,0,https://github.com/kameh0use/text-chipper,"Token-budgeted, Markdown-aware text chunking for RAG and LLM pipelines, with pluggable tokenizers and Python bindings."
+2026-11-15T12:31:44.511284Z,tui-monitor,0.2.0,0,0,https://gitlab.com/luke-tseng/tui-monitor,"A fast, cross-platform terminal system monitor built with ratatui"
+2026-11-15T12:32:47.786925Z,zkteco-proto,0.1.0-alpha.1,0,0,https://github.com/xeroxzen/ferrite-zk,"Sans-IO implementation of the ZKTeco device protocol (packets, checksums, comm key, record layouts, time encoding), with pyzk parity. Part of the Ferrite project."
+2026-11-15T12:32:50.20276Z,zkteco-client,0.1.0-alpha.1,0,0,https://github.com/xeroxzen/ferrite-zk,"Async (tokio) client for ZKTeco biometric and access-control devices over TCP and UDP, with feature parity with pyzk. Part of the Ferrite project."
+2026-11-15T12:32:53.710764Z,zkctl,0.1.0-alpha.1,0,0,https://github.com/xeroxzen/ferrite-zk,"Command-line tool for ZKTeco biometric and access-control devices: device info, users, attendance export, live event streaming, enrolment. Built on zkteco-client. Part of the Ferrite project."
+2026-11-15T12:36:43.841743Z,ndsif,0.1.0,0,0,https://github.com/h1romas4/chipstream,I/O-independent NDSIF v1 protocol codec for NanoDrive
+2026-11-15T12:44:09.51252Z,ndsif-transport,0.1.0,0,0,https://github.com/h1romas4/chipstream,Serial transport and scheduled playback for NDSIF devices.
+2026-11-15T12:44:56.671625Z,ruaa-dft-grids,0.1.0,0,0,https://github.com/RESTGroup/ruaa-dft-grids,"Molecular DFT numerical-integration grids: Lebedev angular rules, radial quadratures, pruning, and Becke/LKO partition weights with analytic gradients and Hessians. Built-in PySCF level presets and a…"
+2026-11-15T12:47:30.674343Z,dataviz-mcp,0.1.0,0,0,https://github.com/dataviz-rs/dataviz,"MCP server that gives AI assistants (Claude Code, Claude Desktop, any MCP client) fast charts: 120+ chart types from data, CSV/JSON files and PDB molecules, returned as images, built on dataviz."
+2026-11-15T12:49:57.071527Z,tencent-cloud-common,0.1.0,0,0,https://github.com/jefferywang/tencent-cloud-sdk,Common utilities for Tencent Cloud SDK
+2026-11-15T12:51:08.620893Z,tencent-cloud-cam,0.1.0,0,0,https://github.com/jefferywang/tencent-cloud-sdk,Tencent Cloud CAM policy model for Rust
+2026-11-15T12:51:57.892714Z,tencent-cloud-cos-derive,0.1.0,0,0,https://github.com/jefferywang/tencent-cloud-sdk,Derive macros for Tencent Cloud COS Rust SDK
+2026-11-15T12:52:05.39442Z,sag2-json,0.1.0,0,0,https://github.com/brianmiller123/sag2-rs,Byte-exact CPython 3.12 JSON codec used by the SAG2 Rust port
+2026-11-15T12:52:41.067425Z,sag2-rank-sys,0.1.0,0,0,https://github.com/brianmiller123/sag2-rs,"Vendored sag_rank.c FTS5 scoring functions, statically linked"
+2026-11-15T12:53:38.045673Z,sag2-core,0.1.0,0,0,https://github.com/brianmiller123/sag2-rs,SAG2 text core: the §4 tokenizer and the Unicode tables it needs
+2026-11-15T12:53:54.997604Z,tencent-cloud-captcha,0.1.0,0,0,https://github.com/jefferywang/tencent-cloud-sdk,Tencent Cloud Captcha Rust SDK
+2026-11-15T12:54:09.705381Z,tencent-cloud-sms,0.1.0,0,0,https://github.com/jefferywang/tencent-cloud-sdk,Tencent Cloud SMS Rust SDK
+2026-11-15T12:54:13.595206Z,edifact-derive,0.19.0,0,0,https://github.com/hupe1980/edifact,Derive macros for EdifactSerialize / EdifactDeserialize (from edifact)
+2026-11-15T12:54:26.840689Z,edifact,0.19.0,0,0,https://github.com/hupe1980/edifact,"Zero-copy EDIFACT (ISO 9735) parser, writer, typed derive, validation and CONTRL generation"
+2026-11-15T12:55:18.787758Z,sag2-index,0.1.0,0,0,https://github.com/brianmiller123/sag2-rs,"SQLite FTS5 index access for the SAG2 port: open decision table, statistics and retrieve"
+2026-11-15T12:56:02.176875Z,sag2,0.1.0,0,0,https://github.com/brianmiller123/sag2-rs,"SAG2 orchestration: rank_dpp, the judge payload builder and search_sag2"
+2026-11-15T12:56:09.68981Z,tencent-cloud-sts,0.1.0,0,0,https://github.com/jefferywang/tencent-cloud-sdk,Tencent Cloud STS Rust SDK
+2026-11-15T13:01:11.596519Z,cst816s-rs,0.2.0,0,0,https://github.com/IniterWorker/cst816s,"Hynitron CST816 capacitive touch driver for embedded-hal (blocking and async, I2C)"
+2026-11-15T13:01:22.100827Z,ml-convertant-gptq,0.0.0,0,0,https://github.com/ThinkersJournal/ml-convertant,"Reserved name: GPTQ unpack/repack and conversion for ml-convertant (placeholder, not yet released)"
+2026-11-15T13:03:29.134312Z,sag2-cli,0.1.0,0,0,https://github.com/brianmiller123/sag2-rs,"Command line entry points for the SAG2 port: gate verification, index build and search"
+2026-11-15T13:06:15.530136Z,tencent-cloud-cos,0.1.0,0,0,https://github.com/jefferywang/tencent-cloud-sdk,Tencent Cloud COS Rust SDK
+2026-11-15T13:10:00.625187Z,dictz,0.0.5,0,0,https://github.com/bayramkotan/dictz,dictz — a cross-platform multi-format offline dictionary (Rust port of github.com/bayramkotan/dictz)
+2026-11-15T13:10:42.794145Z,hydo-contracts,0.3.4,0,0,https://github.com/kakoc/hydo,"hydo's function contracts: `// hydo:` comments next to functions (requires, ensures with old(), input domains), compiled with the program's debug information into breakpoints and reads that an engine…"
+2026-11-15T13:11:53.242692Z,rakko-macros,0.1.0,0,0,https://github.com/aonyx-ai/rakko,"The derive macros of the rakko crate, which exports them again"
