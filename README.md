@@ -8,49 +8,56 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-15 03:21 UTC
+## Latest list — 2026-11-15 04:21 UTC
 
-New crates published between 2026-11-15 02:18 UTC and 2026-11-15 03:21 UTC.
+New crates published between 2026-11-15 03:21 UTC and 2026-11-15 04:21 UTC.
 
-[Full CSV](data/new-crates-2026-11-15T03-21-57-124884Z.csv)
+[Full CSV](data/new-crates-2026-11-15T04-21-05-646961Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-15 02:18:33 | [cdl-blocks](https://crates.io/crates/cdl-blocks) | 0.1.0 | 0 | CDL elementary block registry and slot-based kernels |
-| 2026-11-15 02:18:41 | [cdl-compat](https://crates.io/crates/cdl-compat) | 0.1.0 | 0 | Lossless simplified CDL JSON adapter for the canonical model |
-| 2026-11-15 02:18:46 | [cdl-exec](https://crates.io/crates/cdl-exec) | 0.1.0 | 0 | Compile and execute canonical CDL documents |
-| 2026-11-15 02:23:45 | [ferroui-media-camera-android](https://crates.io/crates/ferroui-media-camera-android) | 0.5.0 | 0 | CameraX photo and silent video capture with shared Android GPU preview |
-| 2026-11-15 02:27:50 | [cdl-verify](https://crates.io/crates/cdl-verify) | 0.1.0 | 0 | Native CDL trend replay and absolute time/value funnel verification |
-| 2026-11-15 02:35:04 | [ferroui-media-qr-android](https://crates.io/crates/ferroui-media-qr-android) | 0.5.0 | 0 | Optional bundled offline Android QR analysis of CameraX images |
-| 2026-11-15 02:35:07 | [ml-convertant-core](https://crates.io/crates/ml-convertant-core) | 0.1.24 | 0 | Error-measurement contract and conversion trait shared by the ml-convertant cra… |
-| 2026-11-15 02:35:08 | [ml-convertant-names](https://crates.io/crates/ml-convertant-names) | 0.1.24 | 0 | Rename LoRA adapter tensors between the PEFT (safetensors) and llama.cpp GGUF f… |
-| 2026-11-15 02:35:09 | [ml-convertant-awq](https://crates.io/crates/ml-convertant-awq) | 0.1.24 | 0 | AWQ (4-bit, GEMM layout) pack, unpack and kernel repack with measured error: lo… |
-| 2026-11-15 02:35:10 | [ml-convertant-ggml](https://crates.io/crates/ml-convertant-ggml) | 0.1.24 | 0 | ggml block-format encode/decode (Q8_0) with measured error, bit-exact against l… |
-| 2026-11-15 02:35:11 | [ml-convertant-kquants](https://crates.io/crates/ml-convertant-kquants) | 0.1.24 | 0 | ggml K-quants (Q4_K) encode/decode with measured error, bit-exact against llama… |
-| 2026-11-15 02:37:49 | [cdl-cli](https://crates.io/crates/cdl-cli) | 0.1.0 | 0 | Validate, convert, run and verify CDL controllers |
-| 2026-11-15 02:37:59 | [ml-convertant-lora](https://crates.io/crates/ml-convertant-lora) | 0.1.24 | 0 | Merge a LoRA adapter into base weights (W + scale * B @ A) with a measured, bou… |
-| 2026-11-15 02:45:47 | [markfmt](https://crates.io/crates/markfmt) | 1.0.0 | 0 | Standalone Markdown, Markdeep, and agent instruction file formatter |
-| 2026-11-15 02:45:59 | [nookcodes](https://crates.io/crates/nookcodes) | 0.5.1 | 0 | Crate for generating and decoding passwords for Animal Crossing: GameCube. |
-| 2026-11-15 02:46:09 | [ferroui-media-video-android](https://crates.io/crates/ferroui-media-video-android) | 0.5.0 | 0 | Android native playback and audio with shared GPU frame output |
-| 2026-11-15 02:47:09 | [crumbkit-durable](https://crates.io/crates/crumbkit-durable) | 0.5.0 | 0 | Replace a file atomically, so a reader or a crash sees the old bytes or the new… |
-| 2026-11-15 02:47:51 | [ml-convertant-mlmf](https://crates.io/crates/ml-convertant-mlmf) | 0.1.24 | 0 | Read a GGUF with MLMF, convert its dense tensors to a ggml quantized type with… |
-| 2026-11-15 02:53:11 | [sendmock-core](https://crates.io/crates/sendmock-core) | 1.0.0 | 0 | Shared types for SendMock: events, value objects, errors, clock and id traits. |
-| 2026-11-15 02:53:14 | [sendmock-payments](https://crates.io/crates/sendmock-payments) | 1.0.0 | 0 | Payment domain for SendMock: checkout flows, payment methods and their rules. |
-| 2026-11-15 02:53:17 | [sendmock-tray](https://crates.io/crates/sendmock-tray) | 1.0.0 | 0 | A menu bar and system tray app for SendMock: starts it, shows the unread counts… |
-| 2026-11-15 02:53:34 | [sendmock-store](https://crates.io/crates/sendmock-store) | 1.0.0 | 0 | SQLite storage for SendMock: connections, migrations and repositories. |
-| 2026-11-15 02:53:41 | [sendmock-webhooks](https://crates.io/crates/sendmock-webhooks) | 1.0.0 | 0 | Webhook domain for SendMock: endpoints, rules, rendering and delivery. |
-| 2026-11-15 02:57:14 | [blackhosts](https://crates.io/crates/blackhosts) | 1.0.1793744309 | 0 | This is a cross-platform hosts file installer for hosts files found at the Stev… |
-| 2026-11-15 02:57:51 | [ferroui-media3d](https://crates.io/crates/ferroui-media3d) | 0.5.0 | 0 | WPF-style 3D for FerroUI: the Media3D values, and the scene model of Viewport3D |
-| 2026-11-15 02:57:51 | [ml-convertant-nf4](https://crates.io/crates/ml-convertant-nf4) | 0.1.24 | 0 | bitsandbytes NF4 (4-bit NormalFloat) encode/decode with measured error, checked… |
-| 2026-11-15 02:58:48 | [gpu-info-rs](https://crates.io/crates/gpu-info-rs) | 0.1.0 | 0 | Portable GPU info: wgpu capability reporting (limits/features/formats) + DXGI V… |
-| 2026-11-15 03:03:16 | [sendmock-mail](https://crates.io/crates/sendmock-mail) | 1.0.0 | 0 | The email domain for SendMock: parsing, extraction, tags and the ingest service. |
-| 2026-11-15 03:09:45 | [ferroui-designer-collaboration-host](https://crates.io/crates/ferroui-designer-collaboration-host) | 0.5.0 | 0 | Durable authenticated designer rooms, reconnecting clients and an MCP collabora… |
-| 2026-11-15 03:13:16 | [sendmock-sms](https://crates.io/crates/sendmock-sms) | 1.0.0 | 0 | SMS domain for SendMock: messages, providers and delivery simulation. |
-| 2026-11-15 03:14:16 | [maat-flight](https://crates.io/crates/maat-flight) | 0.2.0 | 0 | Vehicle-layer core of the Ma'at contact scheduler: no_std, heap-free, integer-o… |
-| 2026-11-15 03:14:18 | [maat-ground](https://crates.io/crates/maat-ground) | 0.2.0 | 0 | Human-layer companion to the Ma'at contact scheduler: ground stations, calendar… |
-| 2026-11-15 03:14:20 | [maat-cli](https://crates.io/crates/maat-cli) | 0.2.0 | 0 | Command-line front end for the Ma'at contact scheduler |
-| 2026-11-15 03:18:32 | [atomictrack128](https://crates.io/crates/atomictrack128) | 2.0.0-alpha.1 | 0 | A place to play with monotonic atomic numbers (128-bit atomics version) |
-| 2026-11-15 03:21:12 | [ferroui-media-browser](https://crates.io/crates/ferroui-media-browser) | 0.5.0 | 0 | Page-owned WebGL frame storage and direct texture presentation |
+| 2026-11-15 03:22:14 | [vti-rooms-host](https://crates.io/crates/vti-rooms-host) | 0.1.0 | 0 | The rooms/* Trust Task handlers a data-room host serves, shared by every host b… |
+| 2026-11-15 03:22:49 | [xhandler](https://crates.io/crates/xhandler) | 6.0.0-alpha.1 | 0 | Create, sign and send the UBL XML electronic documents of SUNAT (Peru) |
+| 2026-11-15 03:23:08 | [xhandler-cli](https://crates.io/crates/xhandler-cli) | 6.0.0-alpha.1 | 0 | The xhandler command: create, sign and send the UBL XML electronic documents of… |
+| 2026-11-15 03:23:20 | [vtc-audit](https://crates.io/crates/vtc-audit) | 0.1.0 | 0 | The Verifiable Trust Community's audit-event vocabulary, over the shared vti-co… |
+| 2026-11-15 03:23:22 | [sendmock-ops](https://crates.io/crates/sendmock-ops) | 1.0.0 | 0 | The SendMock operation registry shared by REST, CLI and MCP. |
+| 2026-11-15 03:27:30 | [noa-gpui-scene](https://crates.io/crates/noa-gpui-scene) | 0.1.0 | 0 | GPU-independent display list for noa-gpui |
+| 2026-11-15 03:27:42 | [noa-gpui-layout](https://crates.io/crates/noa-gpui-layout) | 0.1.0 | 0 | Taffy-based layout adapter for noa-gpui |
+| 2026-11-15 03:27:53 | [noa-gpui-text](https://crates.io/crates/noa-gpui-text) | 0.1.0 | 0 | Text shaping and layout storage for noa-gpui |
+| 2026-11-15 03:28:05 | [noa-gpui-core](https://crates.io/crates/noa-gpui-core) | 0.1.0 | 0 | Retained widget tree, events, focus and invalidation for noa-gpui |
+| 2026-11-15 03:28:21 | [noa-gpui-render-wgpu](https://crates.io/crates/noa-gpui-render-wgpu) | 0.1.0 | 0 | wgpu renderer for the noa-gpui display list |
+| 2026-11-15 03:32:16 | [ferroui-media-camera-browser](https://crates.io/crates/ferroui-media-camera-browser) | 0.5.0 | 0 | Explicit browser camera acquisition and shared WebGL preview |
+| 2026-11-15 03:32:19 | [ferroui-media-video-browser](https://crates.io/crates/ferroui-media-video-browser) | 0.5.0 | 0 | Native browser playback with shared WebGL frame output |
+| 2026-11-15 03:33:18 | [sendmock-api](https://crates.io/crates/sendmock-api) | 1.0.0 | 0 | The SendMock HTTP server: REST routes, realtime, OpenAPI and the embedded UI. |
+| 2026-11-15 03:35:49 | [ownthelibs](https://crates.io/crates/ownthelibs) | 0.0.1 | 0 | Placeholder for the Own the Libs zero-dependency framework. |
+| 2026-11-15 03:35:51 | [own-the-libs](https://crates.io/crates/own-the-libs) | 0.0.1 | 0 | Placeholder for the Own the Libs zero-dependency framework. |
+| 2026-11-15 03:36:29 | [zakura-mempool](https://crates.io/crates/zakura-mempool) | 0.0.0 | 0 | Reserved |
+| 2026-11-15 03:36:43 | [lurker-core-contract](https://crates.io/crates/lurker-core-contract) | 0.68.4 | 0 | Engine-neutral proxy core contract: identity, lifecycle, outbound, routing inte… |
+| 2026-11-15 03:36:53 | [lurker-core-ports](https://crates.io/crates/lurker-core-ports) | 0.68.4 | 0 | Engine-neutral ports shared by every Lurker core host: process, outbound, routi… |
+| 2026-11-15 03:36:56 | [lurker-engine-runtime](https://crates.io/crates/lurker-engine-runtime) | 0.68.4 | 0 | Engine-neutral backend registry, owner-switch coordinator and runtime facade fo… |
+| 2026-11-15 03:37:08 | [lurker-profile-store](https://crates.io/crates/lurker-profile-store) | 0.68.4 | 0 | Portable profile-store kernel: durable layout, atomic document I/O, settings/st… |
+| 2026-11-15 03:37:12 | [lurker-ui-presentation](https://crates.io/crates/lurker-ui-presentation) | 0.68.4 | 0 | Engine-, platform- and UI-neutral presentation kernel: typed reducers, viewport… |
+| 2026-11-15 03:38:18 | [noa-gpui-platform](https://crates.io/crates/noa-gpui-platform) | 0.1.0 | 0 | winit application shell for noa-gpui: windows, input, the frame loop and OS int… |
+| 2026-11-15 03:41:04 | [latticesort](https://crates.io/crates/latticesort) | 0.1.0 | 0 | Adaptive structural, hash-aggregated, and hybrid radix sorting library for prim… |
+| 2026-11-15 03:41:23 | [tauri-plugin-dimina](https://crates.io/crates/tauri-plugin-dimina) | 1.9.0-beta.1 | 0 | Standalone Dimina mini-program windows for Tauri 2 hosts |
+| 2026-11-15 03:43:17 | [sendmock-cli](https://crates.io/crates/sendmock-cli) | 1.0.0 | 0 | SendMock CLI client commands. |
+| 2026-11-15 03:43:35 | [ferroui-media-windows](https://crates.io/crates/ferroui-media-windows) | 0.5.0 | 0 | Media Foundation DXGI storage and compatible ANGLE device interop |
+| 2026-11-15 03:43:46 | [mihomo-driver](https://crates.io/crates/mihomo-driver) | 0.68.4 | 0 | Engine driver for the mihomo (Clash.Meta) core: control API, configuration code… |
+| 2026-11-15 03:53:17 | [sendmock-mcp](https://crates.io/crates/sendmock-mcp) | 1.0.0 | 0 | The SendMock MCP server and its tools. |
+| 2026-11-15 03:53:48 | [vta-test-support](https://crates.io/crates/vta-test-support) | 0.1.0 | 0 | A mock Verifiable Trust Agent for tests: a real VTA on a loopback port, an opti… |
+| 2026-11-15 03:53:49 | [singbox-driver](https://crates.io/crates/singbox-driver) | 0.68.4 | 0 | Engine driver for the sing-box core: control API, configuration codec and proce… |
+| 2026-11-15 03:54:39 | [ferroui-media-camera-windows](https://crates.io/crates/ferroui-media-camera-windows) | 0.5.0 | 0 | Explicit Media Foundation camera acquisition and JPEG snapshots |
+| 2026-11-15 04:03:16 | [sendmock-pop3](https://crates.io/crates/sendmock-pop3) | 1.0.0 | 0 | The SendMock POP3 listener. |
+| 2026-11-15 04:05:43 | [ferroui-media-video-windows](https://crates.io/crates/ferroui-media-video-windows) | 0.5.0 | 0 | Media Foundation playback with native WASAPI audio timing |
+| 2026-11-15 04:11:53 | [bpaf-kit-macros](https://crates.io/crates/bpaf-kit-macros) | 0.1.0 | 0 | #[derive(Cli)] for bpaf-kit: the startup sequence and a parser test for bpaf co… |
+| 2026-11-15 04:11:55 | [bpaf-kit-build](https://crates.io/crates/bpaf-kit-build) | 0.1.0 | 0 | Dependency-free build.rs helper that bakes the git rev, dirty flag, build date… |
+| 2026-11-15 04:12:56 | [kdl-tree](https://crates.io/crates/kdl-tree) | 0.1.0 | 0 | A fast KDL v2 parser into a borrowed document tree with byte spans everywhere |
+| 2026-11-15 04:13:00 | [kdl-span](https://crates.io/crates/kdl-span) | 0.1.0 | 0 | Source maps, spans and diagnostics for KDL documents |
+| 2026-11-15 04:13:04 | [kdl-load](https://crates.io/crates/kdl-load) | 0.1.0 | 0 | Load KDL files and directories as one document with a source map |
+| 2026-11-15 04:13:17 | [sendmock-smtp](https://crates.io/crates/sendmock-smtp) | 1.0.0 | 0 | The SendMock SMTP listener. |
+| 2026-11-15 04:14:19 | [openwarden](https://crates.io/crates/openwarden) | 0.1.0 | 0 | An async Rust client library for the Bitwarden and Vaultwarden personal-vault A… |
+| 2026-11-15 04:15:12 | [glicense](https://crates.io/crates/glicense) | 0.1.0 | 0 | glicense for github license templates |
+| 2026-11-15 04:17:25 | [ferroui-designer](https://crates.io/crates/ferroui-designer) | 0.5.0 | 0 | Embeddable FerroUI visual XAML designer with native workspace, transactional pr… |
 
 ## Data source
 

@@ -1,0 +1,43 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-15T03:22:14.745805Z,vti-rooms-host,0.1.0,0,0,https://github.com/OpenVTC/verifiable-trust-infrastructure,"The rooms/* Trust Task handlers a data-room host serves, shared by every host behind one RoomHost trait"
+2026-11-15T03:22:49.506362Z,xhandler,6.0.0-alpha.1,0,0,https://github.com/project-openubl/xhandler-rust,"Create, sign and send the UBL XML electronic documents of SUNAT (Peru)"
+2026-11-15T03:23:08.524257Z,xhandler-cli,6.0.0-alpha.1,0,0,https://github.com/project-openubl/xhandler-rust,"The xhandler command: create, sign and send the UBL XML electronic documents of SUNAT (Peru)"
+2026-11-15T03:23:20.971248Z,vtc-audit,0.1.0,0,0,https://github.com/OpenVTC/verifiable-trust-infrastructure,"The Verifiable Trust Community's audit-event vocabulary, over the shared vti-common audit envelope, hash chain and writer"
+2026-11-15T03:23:22.440331Z,sendmock-ops,1.0.0,0,0,https://github.com/shibbirweb/sendmock,"The SendMock operation registry shared by REST, CLI and MCP."
+2026-11-15T03:27:30.52406Z,noa-gpui-scene,0.1.0,0,0,https://github.com/simota/noa-gpui,GPU-independent display list for noa-gpui
+2026-11-15T03:27:42.01324Z,noa-gpui-layout,0.1.0,0,0,https://github.com/simota/noa-gpui,Taffy-based layout adapter for noa-gpui
+2026-11-15T03:27:53.668675Z,noa-gpui-text,0.1.0,0,0,https://github.com/simota/noa-gpui,Text shaping and layout storage for noa-gpui
+2026-11-15T03:28:05.199276Z,noa-gpui-core,0.1.0,0,0,https://github.com/simota/noa-gpui,"Retained widget tree, events, focus and invalidation for noa-gpui"
+2026-11-15T03:28:21.277654Z,noa-gpui-render-wgpu,0.1.0,0,0,https://github.com/simota/noa-gpui,wgpu renderer for the noa-gpui display list
+2026-11-15T03:32:16.905493Z,ferroui-media-camera-browser,0.5.0,0,0,https://github.com/wieslawsoltes/FerroUI,Explicit browser camera acquisition and shared WebGL preview
+2026-11-15T03:32:19.858148Z,ferroui-media-video-browser,0.5.0,0,0,https://github.com/wieslawsoltes/FerroUI,Native browser playback with shared WebGL frame output
+2026-11-15T03:33:18.597616Z,sendmock-api,1.0.0,0,0,https://github.com/shibbirweb/sendmock,"The SendMock HTTP server: REST routes, realtime, OpenAPI and the embedded UI."
+2026-11-15T03:35:49.386586Z,ownthelibs,0.0.1,0,0,,Placeholder for the Own the Libs zero-dependency framework.
+2026-11-15T03:35:51.452034Z,own-the-libs,0.0.1,0,0,,Placeholder for the Own the Libs zero-dependency framework.
+2026-11-15T03:36:29.644732Z,zakura-mempool,0.0.0,0,0,https://github.com/zakura-core/zakura,Reserved
+2026-11-15T03:36:43.630091Z,lurker-core-contract,0.68.4,0,0,https://github.com/zhugenanbei181/music-frog,"Engine-neutral proxy core contract: identity, lifecycle, outbound, routing intent and typed failure."
+2026-11-15T03:36:53.161189Z,lurker-core-ports,0.68.4,0,0,https://github.com/zhugenanbei181/music-frog,"Engine-neutral ports shared by every Lurker core host: process, outbound, routing intent and document inspection."
+2026-11-15T03:36:56.595992Z,lurker-engine-runtime,0.68.4,0,0,https://github.com/zhugenanbei181/music-frog,"Engine-neutral backend registry, owner-switch coordinator and runtime facade for Lurker core hosts."
+2026-11-15T03:37:08.219953Z,lurker-profile-store,0.68.4,0,0,https://github.com/zhugenanbei181/music-frog,"Portable profile-store kernel: durable layout, atomic document I/O, settings/state schema and cross-process write fences with an injectable native platform."
+2026-11-15T03:37:12.515451Z,lurker-ui-presentation,0.68.4,0,0,https://github.com/zhugenanbei181/music-frog,"Engine-, platform- and UI-neutral presentation kernel: typed reducers, viewport policy and text-catalog port."
+2026-11-15T03:38:18.495513Z,noa-gpui-platform,0.1.0,0,0,https://github.com/simota/noa-gpui,"winit application shell for noa-gpui: windows, input, the frame loop and OS integration"
+2026-11-15T03:41:04.98155Z,latticesort,0.1.0,0,0,https://github.com/SimpleSoftwareLTDA/latticesort,"Adaptive structural, hash-aggregated, and hybrid radix sorting library for primitive integers and floating-point slices in safe Rust."
+2026-11-15T03:41:23.225044Z,tauri-plugin-dimina,1.9.0-beta.1,0,0,https://github.com/didi/dimina,Standalone Dimina mini-program windows for Tauri 2 hosts
+2026-11-15T03:43:17.051295Z,sendmock-cli,1.0.0,0,0,https://github.com/shibbirweb/sendmock,SendMock CLI client commands.
+2026-11-15T03:43:35.060097Z,ferroui-media-windows,0.5.0,0,0,https://github.com/wieslawsoltes/FerroUI,Media Foundation DXGI storage and compatible ANGLE device interop
+2026-11-15T03:43:46.781691Z,mihomo-driver,0.68.4,0,0,https://github.com/zhugenanbei181/music-frog,"Engine driver for the mihomo (Clash.Meta) core: control API, configuration codec and process supervision."
+2026-11-15T03:53:17.299574Z,sendmock-mcp,1.0.0,0,0,https://github.com/shibbirweb/sendmock,The SendMock MCP server and its tools.
+2026-11-15T03:53:48.013791Z,vta-test-support,0.1.0,0,0,https://github.com/OpenVTC/verifiable-trust-infrastructure,"A mock Verifiable Trust Agent for tests: a real VTA on a loopback port, an optional stub DID hosting service, and DIDComm/TSP through an embedded mediator"
+2026-11-15T03:53:49.111011Z,singbox-driver,0.68.4,0,0,https://github.com/zhugenanbei181/music-frog,"Engine driver for the sing-box core: control API, configuration codec and process supervision."
+2026-11-15T03:54:39.858258Z,ferroui-media-camera-windows,0.5.0,0,0,https://github.com/wieslawsoltes/FerroUI,Explicit Media Foundation camera acquisition and JPEG snapshots
+2026-11-15T04:03:16.683751Z,sendmock-pop3,1.0.0,0,0,https://github.com/shibbirweb/sendmock,The SendMock POP3 listener.
+2026-11-15T04:05:43.988558Z,ferroui-media-video-windows,0.5.0,0,0,https://github.com/wieslawsoltes/FerroUI,Media Foundation playback with native WASAPI audio timing
+2026-11-15T04:11:53.412847Z,bpaf-kit-macros,0.1.0,0,0,https://github.com/talaagent/bpaf-kit,#[derive(Cli)] for bpaf-kit: the startup sequence and a parser test for bpaf command-line parsers
+2026-11-15T04:11:55.873913Z,bpaf-kit-build,0.1.0,0,0,https://github.com/talaagent/bpaf-kit,"Dependency-free build.rs helper that bakes the git rev, dirty flag, build date and target into a CLI for bpaf-kit's --version"
+2026-11-15T04:12:56.865774Z,kdl-tree,0.1.0,0,0,https://github.com/talaagent/kdl-kit,A fast KDL v2 parser into a borrowed document tree with byte spans everywhere
+2026-11-15T04:13:00.09212Z,kdl-span,0.1.0,0,0,https://github.com/talaagent/kdl-kit,"Source maps, spans and diagnostics for KDL documents"
+2026-11-15T04:13:04.665723Z,kdl-load,0.1.0,0,0,https://github.com/talaagent/kdl-kit,Load KDL files and directories as one document with a source map
+2026-11-15T04:13:17.439629Z,sendmock-smtp,1.0.0,0,0,https://github.com/shibbirweb/sendmock,The SendMock SMTP listener.
+2026-11-15T04:14:19.616567Z,openwarden,0.1.0,0,0,https://github.com/talaagent/openwarden,"An async Rust client library for the Bitwarden and Vaultwarden personal-vault API: API-key login, unlock, sync, field-by-field decryption and URI matching"
+2026-11-15T04:15:12.103584Z,glicense,0.1.0,0,0,https://github.com/jbene445/glicense,glicense for github license templates
+2026-11-15T04:17:25.438151Z,ferroui-designer,0.5.0,0,0,https://github.com/wieslawsoltes/FerroUI,"Embeddable FerroUI visual XAML designer with native workspace, transactional preview and timeline"
