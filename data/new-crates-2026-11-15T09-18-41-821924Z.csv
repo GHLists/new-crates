@@ -1,0 +1,33 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-15T08:23:38.689295Z,waywi,0.1.1,0,0,https://github.com/sinavarasina/waywi,Wayland widget toolkit in Rust
+2026-11-15T08:23:43.062448Z,t32-language-server-user-guide-data,0.1.0,0,0,https://codeberg.org/xasc/t32-language-server,Prepares information from user guide for language server consumption
+2026-11-15T08:26:25.227401Z,ndarray-cuda-matmul,0.1.2,0,0,https://gitee.com/yizili/ndarray-cuda-matmul,A Fork Branch From https://github.com/Lyn-liyuan/ndarray-cuda-matmul
+2026-11-15T08:26:51.047371Z,detour-gpu,0.1.5,0,0,https://github.com/0x00-Community/detour,"detour for its users (acde): the 2D scene and the drivers, aggregated; one feature per GPU model so only the drivers asked for build"
+2026-11-15T08:27:33.410644Z,BREP_construction,0.20.0,0,0,https://github.com/mmiscool/next.BREP.io_RUST_BREP_KERNEL,"Solid construction of the BREP kernel: extrusions, revolutions, sweeps and lofts."
+2026-11-15T08:29:19.268361Z,indra,0.7.0,0,0,https://github.com/dmdhrumilmistry/indra,"Run, watch and orchestrate AI coding agents (Claude Code, Codex, Gemini, Ollama) across machines: a web console, workflows with conditions and loops, boards, an MCP server and graph memory, in one bi…"
+2026-11-15T08:37:36.924032Z,BREP_blend,0.20.0,0,0,https://github.com/mmiscool/next.BREP.io_RUST_BREP_KERNEL,"Fillets, chamfers and blends of the BREP kernel."
+2026-11-15T08:38:06.479187Z,r8virtasm,0.1.2,0,0,https://github.com/0x00-Community/r8,"r8 virtual instruction set: bytecode definitions, JavaScript ⇒ bytecode"
+2026-11-15T08:45:10.25179Z,orbit-ir,0.1.0,0,0,https://github.com/AjmalX0/Orbit,"ORBIT typed intermediate representation (orbit-ir/1), payload validation and expression evaluation"
+2026-11-15T08:45:10.832586Z,orbit-syntax,0.1.0,0,0,https://github.com/AjmalX0/Orbit,"ORBIT lexer, parser, AST, diagnostics and formatter"
+2026-11-15T08:45:11.695543Z,orbit-compiler,0.1.0,0,0,https://github.com/AjmalX0/Orbit,"ORBIT compiler: semantic analysis, type checking and IR generation"
+2026-11-15T08:45:13.387653Z,orbit-runtime,0.1.0,0,0,https://github.com/AjmalX0/Orbit,"ORBIT durable workflow runtime: event-sourced engine, SQLite/PostgreSQL persistence, HTTP and gRPC worker protocols"
+2026-11-15T08:45:15.291652Z,orbit-lang,0.1.0,0,0,https://github.com/AjmalX0/Orbit,"ORBIT: a polyglot orchestration language. The orbit compiler, runtime server, language server and CLI"
+2026-11-15T08:45:49.092097Z,esales,0.0.1,0,0,https://github.com/hupe1980/esales,The open-source sales platform for energy retail. The platform's crates are published as esales-*; this name is reserved for the umbrella crate.
+2026-11-15T08:47:40.323978Z,BREP_offset,0.20.0,0,0,https://github.com/mmiscool/next.BREP.io_RUST_BREP_KERNEL,"Solid offsets, shells and thickening of the BREP kernel."
+2026-11-15T08:48:05.184608Z,r8executor,0.1.2,0,0,https://github.com/0x00-Community/r8,r8 bytecode executor
+2026-11-15T08:50:16.24104Z,esales-bo4e,0.0.1,0,0,https://github.com/hupe1980/esales,"Part of esales, the open-source sales platform for energy retail. Name reserved; the first release follows."
+2026-11-15T08:50:19.397932Z,esales-commission,0.0.1,0,0,https://github.com/hupe1980/esales,"Part of esales, the open-source sales platform for energy retail. Name reserved; the first release follows."
+2026-11-15T08:50:22.688325Z,esales-connect,0.0.1,0,0,https://github.com/hupe1980/esales,"Part of esales, the open-source sales platform for energy retail. Name reserved; the first release follows."
+2026-11-15T08:50:25.862011Z,esales-core,0.0.1,0,0,https://github.com/hupe1980/esales,"Part of esales, the open-source sales platform for energy retail. Name reserved; the first release follows."
+2026-11-15T08:50:28.981331Z,esales-events,0.0.1,0,0,https://github.com/hupe1980/esales,"Part of esales, the open-source sales platform for energy retail. Name reserved; the first release follows."
+2026-11-15T08:56:06.528212Z,orbit-worker,0.1.0,0,0,https://github.com/AjmalX0/Orbit,Rust worker SDK for the ORBIT orchestration runtime
+2026-11-15T08:57:43.985869Z,BREP_direct_edit,0.20.0,0,0,https://github.com/mmiscool/next.BREP.io_RUST_BREP_KERNEL,"Direct editing of B-rep faces: move, rotate, offset, draft, delete and refit."
+2026-11-15T08:58:26.425172Z,r8compiler,0.1.2,0,0,https://github.com/0x00-Community/r8,r8 compiler: bytecode ⇒ MLIR (llvm dialect) ⇒ mlirpass ⇒ raw machine code
+2026-11-15T09:00:34.380544Z,esales-field-core,0.0.1,0,0,https://github.com/hupe1980/esales,"Part of esales, the open-source sales platform for energy retail. Name reserved; the first release follows."
+2026-11-15T09:02:38.796502Z,eclisp-macros,0.2.0-beta.0,0,0,https://git.lovie.dev/levi/eclisp,Procedural macros for eclisp
+2026-11-15T09:04:21.219245Z,sprawling-mei,0.0.17,0,0,https://github.com/2youg1/sprawling-agents,"Archetype:Mei, an academic minimal Agent Harness prototype for secondary development and technical discussion."
+2026-11-15T09:06:04.827842Z,vls,0.1.0,0,0,,tiny rust ls
+2026-11-15T09:07:00.441226Z,google-cloud-shell-cli,0.1.0,0,0,,"Google Cloud Shell from your terminal: ssh, scp and an ssh ProxyCommand, without the gcloud SDK"
+2026-11-15T09:10:40.741296Z,esales-journey,0.0.1,0,0,https://github.com/hupe1980/esales,"Part of esales, the open-source sales platform for energy retail. Name reserved; the first release follows."
+2026-11-15T09:12:17.80516Z,earthsci-ast-cli,0.13.0,0,0,https://github.com/EarthSciML/EarthSciAST,The `esm` command-line tool for EarthSciML Abstract Syntax Tree Format files
+2026-11-15T09:14:26.990898Z,prooftrail-core,0.2.0,0,0,https://github.com/AjmalX0/ProofVault,"ProofTrail core: digests, canonical JSON, identifiers, chain and ledger hashing, signature verification"
