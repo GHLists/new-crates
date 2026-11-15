@@ -1,0 +1,34 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-15T18:27:50.537259Z,aonyx-rakko-lint-typescript,0.1.0,0,0,https://github.com/aonyx-ai/rakko,A Rakko action that lints TypeScript and JavaScript with oxlint
+2026-11-15T18:30:20.798385Z,doublets-web,0.1.3,0,0,https://github.com/linksplatform/doublets-web,WebAssembly bindings for the LinksPlatform Doublets associative storage library.
+2026-11-15T18:34:06.343849Z,parsmith,1.0.0,0,0,https://github.com/vypivshiy/parsmith,"Universal Rust compiler, linter, and multi-target codegen engine for KDL 2.0 Schema DSL v2.1"
+2026-11-15T18:39:41.719682Z,aonyx-rakko-lint-yaml,0.1.0,0,0,https://github.com/aonyx-ai/rakko,A Rakko action that lints YAML files with yamllint
+2026-11-15T18:45:41.210888Z,katui-scene,0.0.0,0,0,https://github.com/h4ks-com/katui,"The katui scene: z-ordered cell and pixel planes, damage and placements"
+2026-11-15T18:45:42.384603Z,byob-calendar,0.3.5,0,0,https://github.com/Scronkfinkle/byob,Calendars over CalDAV as a native plugin backend: the bundled calendar plugin's backend (L4)
+2026-11-15T18:45:42.999575Z,byob-help,0.3.5,0,0,https://github.com/Scronkfinkle/byob,"byob's user guide for the model: the bundled help plugin's byob_help tool over byob's own docs, embedded (L4)"
+2026-11-15T18:45:43.514155Z,byob-mail,0.3.5,0,0,https://github.com/Scronkfinkle/byob,Email over IMAP and SMTP as a native plugin backend: the bundled mail plugin's backend (L4)
+2026-11-15T18:46:14.568707Z,katui-draw,0.0.0,0,0,https://github.com/h4ks-com/katui,Canvas and text rasterizing onto katui pixel surfaces
+2026-11-15T18:46:25.179793Z,katui-proto,0.0.0,0,0,https://github.com/h4ks-com/katui,Terminal graphics protocol codecs and capability probes
+2026-11-15T18:46:34.652882Z,katui-present,0.0.0,0,0,https://github.com/h4ks-com/katui,Presenters: scene diffs translated into terminal bytes on a sink
+2026-11-15T18:46:44.902324Z,katui-rt,0.0.0,0,0,https://github.com/h4ks-com/katui,"The katui runtime: the tty transport, terminal lifecycle and loops"
+2026-11-15T18:51:06.200277Z,tinyascii,0.1.0,0,0,https://github.com/caio-oliv/tinyascii,"Fixed-capacity, inline ASCII strings with no allocation. no_std by default."
+2026-11-15T18:52:26.63143Z,gpu-async-reactor,0.1.0,0,0,https://github.com/Avarok-Cybersecurity/gpu-async-reactor,"Await GPU work as a memory descriptor: a no_std completion port, deadline estimator, typed wait plans and a small FILL executor, with CUDA, HIP and Metal backends and std, tokio and io_uring hosts."
+2026-11-15T18:53:25.828085Z,aonyx-rakko-prettier,0.1.0,0,0,https://github.com/aonyx-ai/rakko,Runs prettier for Rakko actions and reads the problems that it reports
+2026-11-15T18:56:13.516136Z,alien-signing,3.3.65,0,0,,"Signed statements, signer lists, signing settings and the install ledger for installs that run only what the vendor signed"
+2026-11-15T18:57:07.348397Z,katui-ui,0.0.0,0,0,https://github.com/h4ks-com/katui,Reactive element trees over katui layers
+2026-11-15T19:04:03.844556Z,tree-sitter-typescript-next,0.24.0,0,0,https://github.com/inth3shadows/tree-sitter-typescript,TypeScript and TSX grammars for tree-sitter
+2026-11-15T19:04:34.405131Z,flowtox,0.1.0,0,0,https://github.com/Mattbusel/flowtox,"Order-flow toxicity for Rust: streaming VPIN, bulk volume classification, Lee-Ready and tick-rule trade signing, and the EKOP PIN model fitted by maximum likelihood. No default dependencies. Carved o…"
+2026-11-15T19:05:17.128487Z,aonyx-rakko-shfmt,0.1.0,0,0,https://github.com/aonyx-ai/rakko,"Runs shfmt for Rakko actions to find, check, and format shell scripts"
+2026-11-15T19:07:33.92146Z,katui-widgets,0.0.0,0,0,https://github.com/h4ks-com/katui,"katui widgets over katui-ui: a theme, inputs, lists, tables, trees, scroll views, popups and controls"
+2026-11-15T19:08:34.867294Z,game-toolkit-handheld,0.1.0,0,0,https://github.com/sunsided/game-toolkit-handheld,"Write a small game once against a no_std framebuffer and input API; run it on ESP32 boards, the Playdate, or on desktop and web through game-toolkit"
+2026-11-15T19:10:11.342093Z,game-toolkit-handheld-kode-dot,0.1.0-alpha.1,0,0,https://github.com/sunsided/game-toolkit-handheld,Kode Dot (ESP32-P4) backend for game-toolkit-handheld: run any Rgb565 HandheldGame on the board
+2026-11-15T19:11:25.571259Z,strata_build,0.1.0,0,0,https://github.com/strataui/strata,"Universal configuration loader, multi-format YAML/TOML engine, and dynamic build plugin pipeline for Strata"
+2026-11-15T19:11:26.264975Z,strata_macro,0.1.0,0,0,https://github.com/strataui/strata,"Procedural macros for Strata: rsx! declarative syntax, #[component], and dynamic! macro"
+2026-11-15T19:11:26.657679Z,strata_primitives,0.1.0,0,0,https://github.com/strataui/strata,"Zero-dependency mathematical, geometric, color, atom, and memory primitives for Project Strata"
+2026-11-15T19:11:27.038553Z,strata_vfs,0.1.0,0,0,https://github.com/strataui/strata,"Universal, sandboxed asynchronous Virtual File System with zero #[cfg] in user code for Strata"
+2026-11-15T19:11:28.05411Z,strata_web_api,0.1.0,0,0,https://github.com/strataui/strata,W3C Web Platform APIs in pure idiomatic Rust for Strata
+2026-11-15T19:11:35.442103Z,pgmx,0.1.1,0,0,,A lossless image format and encoder/decoder library
+2026-11-15T19:17:08.882532Z,aonyx-rakko-taplo,0.1.0,0,0,https://github.com/aonyx-ai/rakko,"Runs taplo for Rakko actions to lint, check, and format TOML files"
+2026-11-15T19:18:16.806647Z,katui-content,0.0.0,0,0,https://github.com/h4ks-com/katui,"Document content rendered into scene cells, starting with markdown"
+2026-11-15T19:18:28.469439Z,strata_audio,0.1.0,0,0,https://github.com/strataui/strata,Pure-Rust spatial 3D audio synthesizer and DSP engine for Project Strata
+2026-11-15T19:19:30.697101Z,game-toolkit-handheld-esp32s3,0.1.0-alpha.1,0,0,https://github.com/sunsided/game-toolkit-handheld,ESP32-S3 + ILI9341 backend for game-toolkit-handheld: run any Rgb565 HandheldGame on a 320x240 SPI panel
