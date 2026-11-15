@@ -8,46 +8,47 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-15 09:18 UTC
+## Latest list — 2026-11-15 10:19 UTC
 
-New crates published between 2026-11-15 08:20 UTC and 2026-11-15 09:18 UTC.
+New crates published between 2026-11-15 09:18 UTC and 2026-11-15 10:19 UTC.
 
-[Full CSV](data/new-crates-2026-11-15T09-18-41-821924Z.csv)
+[Full CSV](data/new-crates-2026-11-15T10-19-12-572503Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-15 08:23:38 | [waywi](https://crates.io/crates/waywi) | 0.1.1 | 0 | Wayland widget toolkit in Rust |
-| 2026-11-15 08:23:43 | [t32-language-server-user-guide-data](https://crates.io/crates/t32-language-server-user-guide-data) | 0.1.0 | 0 | Prepares information from user guide for language server consumption |
-| 2026-11-15 08:26:25 | [ndarray-cuda-matmul](https://crates.io/crates/ndarray-cuda-matmul) | 0.1.2 | 0 | A Fork Branch From https://github.com/Lyn-liyuan/ndarray-cuda-matmul |
-| 2026-11-15 08:26:51 | [detour-gpu](https://crates.io/crates/detour-gpu) | 0.1.5 | 0 | detour for its users (acde): the 2D scene and the drivers, aggregated; one feat… |
-| 2026-11-15 08:27:33 | [BREP_construction](https://crates.io/crates/BREP_construction) | 0.20.0 | 0 | Solid construction of the BREP kernel: extrusions, revolutions, sweeps and loft… |
-| 2026-11-15 08:29:19 | [indra](https://crates.io/crates/indra) | 0.7.0 | 0 | Run, watch and orchestrate AI coding agents (Claude Code, Codex, Gemini, Ollama… |
-| 2026-11-15 08:37:36 | [BREP_blend](https://crates.io/crates/BREP_blend) | 0.20.0 | 0 | Fillets, chamfers and blends of the BREP kernel. |
-| 2026-11-15 08:38:06 | [r8virtasm](https://crates.io/crates/r8virtasm) | 0.1.2 | 0 | r8 virtual instruction set: bytecode definitions, JavaScript ⇒ bytecode |
-| 2026-11-15 08:45:10 | [orbit-ir](https://crates.io/crates/orbit-ir) | 0.1.0 | 0 | ORBIT typed intermediate representation (orbit-ir/1), payload validation and ex… |
-| 2026-11-15 08:45:10 | [orbit-syntax](https://crates.io/crates/orbit-syntax) | 0.1.0 | 0 | ORBIT lexer, parser, AST, diagnostics and formatter |
-| 2026-11-15 08:45:11 | [orbit-compiler](https://crates.io/crates/orbit-compiler) | 0.1.0 | 0 | ORBIT compiler: semantic analysis, type checking and IR generation |
-| 2026-11-15 08:45:13 | [orbit-runtime](https://crates.io/crates/orbit-runtime) | 0.1.0 | 0 | ORBIT durable workflow runtime: event-sourced engine, SQLite/PostgreSQL persist… |
-| 2026-11-15 08:45:15 | [orbit-lang](https://crates.io/crates/orbit-lang) | 0.1.0 | 0 | ORBIT: a polyglot orchestration language. The orbit compiler, runtime server, l… |
-| 2026-11-15 08:45:49 | [esales](https://crates.io/crates/esales) | 0.0.1 | 0 | The open-source sales platform for energy retail. The platform's crates are pub… |
-| 2026-11-15 08:47:40 | [BREP_offset](https://crates.io/crates/BREP_offset) | 0.20.0 | 0 | Solid offsets, shells and thickening of the BREP kernel. |
-| 2026-11-15 08:48:05 | [r8executor](https://crates.io/crates/r8executor) | 0.1.2 | 0 | r8 bytecode executor |
-| 2026-11-15 08:50:16 | [esales-bo4e](https://crates.io/crates/esales-bo4e) | 0.0.1 | 0 | Part of esales, the open-source sales platform for energy retail. Name reserved… |
-| 2026-11-15 08:50:19 | [esales-commission](https://crates.io/crates/esales-commission) | 0.0.1 | 0 | Part of esales, the open-source sales platform for energy retail. Name reserved… |
-| 2026-11-15 08:50:22 | [esales-connect](https://crates.io/crates/esales-connect) | 0.0.1 | 0 | Part of esales, the open-source sales platform for energy retail. Name reserved… |
-| 2026-11-15 08:50:25 | [esales-core](https://crates.io/crates/esales-core) | 0.0.1 | 0 | Part of esales, the open-source sales platform for energy retail. Name reserved… |
-| 2026-11-15 08:50:28 | [esales-events](https://crates.io/crates/esales-events) | 0.0.1 | 0 | Part of esales, the open-source sales platform for energy retail. Name reserved… |
-| 2026-11-15 08:56:06 | [orbit-worker](https://crates.io/crates/orbit-worker) | 0.1.0 | 0 | Rust worker SDK for the ORBIT orchestration runtime |
-| 2026-11-15 08:57:43 | [BREP_direct_edit](https://crates.io/crates/BREP_direct_edit) | 0.20.0 | 0 | Direct editing of B-rep faces: move, rotate, offset, draft, delete and refit. |
-| 2026-11-15 08:58:26 | [r8compiler](https://crates.io/crates/r8compiler) | 0.1.2 | 0 | r8 compiler: bytecode ⇒ MLIR (llvm dialect) ⇒ mlirpass ⇒ raw machine code |
-| 2026-11-15 09:00:34 | [esales-field-core](https://crates.io/crates/esales-field-core) | 0.0.1 | 0 | Part of esales, the open-source sales platform for energy retail. Name reserved… |
-| 2026-11-15 09:02:38 | [eclisp-macros](https://crates.io/crates/eclisp-macros) | 0.2.0-beta.0 | 0 | Procedural macros for eclisp |
-| 2026-11-15 09:04:21 | [sprawling-mei](https://crates.io/crates/sprawling-mei) | 0.0.17 | 0 | Archetype:Mei, an academic minimal Agent Harness prototype for secondary develo… |
-| 2026-11-15 09:06:04 | [vls](https://crates.io/crates/vls) | 0.1.0 | 0 | tiny rust ls |
-| 2026-11-15 09:07:00 | [google-cloud-shell-cli](https://crates.io/crates/google-cloud-shell-cli) | 0.1.0 | 0 | Google Cloud Shell from your terminal: ssh, scp and an ssh ProxyCommand, withou… |
-| 2026-11-15 09:10:40 | [esales-journey](https://crates.io/crates/esales-journey) | 0.0.1 | 0 | Part of esales, the open-source sales platform for energy retail. Name reserved… |
-| 2026-11-15 09:12:17 | [earthsci-ast-cli](https://crates.io/crates/earthsci-ast-cli) | 0.13.0 | 0 | The `esm` command-line tool for EarthSciML Abstract Syntax Tree Format files |
-| 2026-11-15 09:14:26 | [prooftrail-core](https://crates.io/crates/prooftrail-core) | 0.2.0 | 0 | ProofTrail core: digests, canonical JSON, identifiers, chain and ledger hashing… |
+| 2026-11-15 09:19:01 | [tuilist](https://crates.io/crates/tuilist) | 0.1.1 | 0 | A terminal client for Microsoft To Do, with vim-style keys |
+| 2026-11-15 09:20:46 | [esales-lead](https://crates.io/crates/esales-lead) | 0.0.1 | 0 | Part of esales, the open-source sales platform for energy retail. Name reserved… |
+| 2026-11-15 09:23:42 | [pakf-core](https://crates.io/crates/pakf-core) | 0.1.0 | 0 | The library of pakf, which shares project files through packs. |
+| 2026-11-15 09:23:44 | [pakf](https://crates.io/crates/pakf) | 0.1.0 | 0 | pakf shares project files through packs. |
+| 2026-11-15 09:24:29 | [prooftrail-merkle](https://crates.io/crates/prooftrail-merkle) | 0.2.0 | 0 | RFC 6962 / RFC 9162 Merkle tree hash, audit paths and inclusion-proof verificat… |
+| 2026-11-15 09:30:53 | [esales-order](https://crates.io/crates/esales-order) | 0.0.1 | 0 | Part of esales, the open-source sales platform for energy retail. Name reserved… |
+| 2026-11-15 09:33:31 | [genai-agents-macros](https://crates.io/crates/genai-agents-macros) | 0.1.0 | 0 | The #[tool] attribute of genai-agents: a tool from an async function |
+| 2026-11-15 09:34:35 | [elkr](https://crates.io/crates/elkr) | 0.1.0 | 0 | Deterministic graph layout: a Rust implementation of the Eclipse Layout Kernel… |
+| 2026-11-15 09:34:55 | [prooftrail-store](https://crates.io/crates/prooftrail-store) | 0.2.0 | 0 | ProofTrail vault: Argon2id KEK, AES-KW wrapped DEKs, chunked AES-256-GCM STREAM… |
+| 2026-11-15 09:36:16 | [audiocn](https://crates.io/crates/audiocn) | 0.1.1 | 0 | Audio UI components for GPUI: meters, visualizers, faders, knobs, channel strip… |
+| 2026-11-15 09:40:59 | [esales-payout](https://crates.io/crates/esales-payout) | 0.0.1 | 0 | Part of esales, the open-source sales platform for energy retail. Name reserved… |
+| 2026-11-15 09:43:13 | [omnidist](https://crates.io/crates/omnidist) | 0.0.0 | 0 | Placeholder Rust crate |
+| 2026-11-15 09:45:00 | [prooftrail-custody](https://crates.io/crates/prooftrail-custody) | 0.2.0 | 0 | ProofTrail custody: append-only hash chain, examiner keys (encrypted PKCS#8), e… |
+| 2026-11-15 09:51:06 | [esales-rules](https://crates.io/crates/esales-rules) | 0.0.1 | 0 | Part of esales, the open-source sales platform for energy retail. Name reserved… |
+| 2026-11-15 09:52:13 | [si446x](https://crates.io/crates/si446x) | 0.2.0 | 0 | Driver for Si446x radios |
+| 2026-11-15 09:54:28 | [lupin-mcp](https://crates.io/crates/lupin-mcp) | 1.0.0 | 0 | Revenue-alignment MCP server: opportunity ledger, capability matching, Qompass/… |
+| 2026-11-15 09:55:04 | [prooftrail-acquire](https://crates.io/crates/prooftrail-acquire) | 0.2.0 | 0 | ProofTrail acquisition: streaming intake, sealing, claimed-digest divergence, d… |
+| 2026-11-15 09:58:17 | [veo-segment](https://crates.io/crates/veo-segment) | 0.4.0 | 0 | Segment analytics client for Rust |
+| 2026-11-15 09:58:41 | [veo-segment-public-api](https://crates.io/crates/veo-segment-public-api) | 0.4.0 | 0 | Generated Rust client for the Segment Public API |
+| 2026-11-15 10:01:12 | [esales-service](https://crates.io/crates/esales-service) | 0.0.1 | 0 | Part of esales, the open-source sales platform for energy retail. Name reserved… |
+| 2026-11-15 10:05:07 | [prooftrail-ledger](https://crates.io/crates/prooftrail-ledger) | 0.2.0 | 0 | ProofTrail simulated append-only ledger, Merkle batching and offline anchor que… |
+| 2026-11-15 10:05:18 | [prooftrail-package](https://crates.io/crates/prooftrail-package) | 0.2.0 | 0 | ProofTrail court-package export: manifest, certificate, custody, proofs, ledger… |
+| 2026-11-15 10:09:58 | [gpui-material-theme](https://crates.io/crates/gpui-material-theme) | 0.1.0 | 0 | Material 3 Expressive tokens and themes for GPUI Material |
+| 2026-11-15 10:10:05 | [gpui-material-foundation](https://crates.io/crates/gpui-material-foundation) | 0.1.0 | 0 | GPUI adapters and drawing primitives for GPUI Material |
+| 2026-11-15 10:10:07 | [redslang](https://crates.io/crates/redslang) | 0.1.0 | 0 | Run the Slang shader compiler in-process: several targets per call, reflection… |
+| 2026-11-15 10:10:15 | [gpui-material-components](https://crates.io/crates/gpui-material-components) | 0.1.0 | 0 | Material 3 Expressive desktop components for GPUI |
+| 2026-11-15 10:10:15 | [redslangc](https://crates.io/crates/redslangc) | 0.1.0 | 0 | Command-line Slang shader compiler that runs Slang in-process: stdin/stdout, se… |
+| 2026-11-15 10:10:24 | [gpui-material-extras](https://crates.io/crates/gpui-material-extras) | 0.1.0 | 0 | Optional Material 3 Expressive component families for GPUI |
+| 2026-11-15 10:10:34 | [gpui-material](https://crates.io/crates/gpui-material) | 0.1.0 | 0 | Material 3 Expressive components and themes for GPUI desktop applications |
+| 2026-11-15 10:11:19 | [esales-sim](https://crates.io/crates/esales-sim) | 0.0.1 | 0 | Part of esales, the open-source sales platform for energy retail. Name reserved… |
+| 2026-11-15 10:13:03 | [vongola-mcp](https://crates.io/crates/vongola-mcp) | 1.0.0 | 0 | Read-only, operator-local stdio MCP server over a running vongola daemon's admi… |
+| 2026-11-15 10:13:25 | [riscrab](https://crates.io/crates/riscrab) | 0.1.0 | 0 | A RV64 emulator in Rust, built from scratch to explore the RISC-V privileged ar… |
+| 2026-11-15 10:15:25 | [prooftrail-verify-lib](https://crates.io/crates/prooftrail-verify-lib) | 0.2.0 | 0 | ProofTrail independent package verifier (no vault, database or private-key acce… |
 
 ## Data source
 

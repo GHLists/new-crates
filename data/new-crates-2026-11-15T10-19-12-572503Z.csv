@@ -1,0 +1,34 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-15T09:19:01.924691Z,tuilist,0.1.1,0,0,https://github.com/christianhelle/tuilist,"A terminal client for Microsoft To Do, with vim-style keys"
+2026-11-15T09:20:46.955316Z,esales-lead,0.0.1,0,0,https://github.com/hupe1980/esales,"Part of esales, the open-source sales platform for energy retail. Name reserved; the first release follows."
+2026-11-15T09:23:42.858295Z,pakf-core,0.1.0,0,0,https://github.com/six5536/pakf,"The library of pakf, which shares project files through packs."
+2026-11-15T09:23:44.465572Z,pakf,0.1.0,0,0,https://github.com/six5536/pakf,pakf shares project files through packs.
+2026-11-15T09:24:29.953171Z,prooftrail-merkle,0.2.0,0,0,https://github.com/AjmalX0/ProofVault,"RFC 6962 / RFC 9162 Merkle tree hash, audit paths and inclusion-proof verification"
+2026-11-15T09:30:53.332705Z,esales-order,0.0.1,0,0,https://github.com/hupe1980/esales,"Part of esales, the open-source sales platform for energy retail. Name reserved; the first release follows."
+2026-11-15T09:33:31.986864Z,genai-agents-macros,0.1.0,0,0,https://github.com/genai-rs/genai-agents,The #[tool] attribute of genai-agents: a tool from an async function
+2026-11-15T09:34:35.336742Z,elkr,0.1.0,0,0,https://github.com/etassia/elkr,"Deterministic graph layout: a Rust implementation of the Eclipse Layout Kernel algorithms, ported from metanorma/elkrb"
+2026-11-15T09:34:55.543314Z,prooftrail-store,0.2.0,0,0,https://github.com/AjmalX0/ProofVault,"ProofTrail vault: Argon2id KEK, AES-KW wrapped DEKs, chunked AES-256-GCM STREAM, dual content-addressed backends, SQLite schema"
+2026-11-15T09:36:16.476157Z,audiocn,0.1.1,0,0,https://github.com/radiumcoders/audiocn-gpui,"Audio UI components for GPUI: meters, visualizers, faders, knobs, channel strips and a mixer"
+2026-11-15T09:40:59.559635Z,esales-payout,0.0.1,0,0,https://github.com/hupe1980/esales,"Part of esales, the open-source sales platform for energy retail. Name reserved; the first release follows."
+2026-11-15T09:43:13.854629Z,omnidist,0.0.0,0,0,,Placeholder Rust crate
+2026-11-15T09:45:00.934512Z,prooftrail-custody,0.2.0,0,0,https://github.com/AjmalX0/ProofVault,"ProofTrail custody: append-only hash chain, examiner keys (encrypted PKCS#8), event signatures"
+2026-11-15T09:51:06.827003Z,esales-rules,0.0.1,0,0,https://github.com/hupe1980/esales,"Part of esales, the open-source sales platform for energy retail. Name reserved; the first release follows."
+2026-11-15T09:52:13.373623Z,si446x,0.2.0,0,0,,Driver for Si446x radios
+2026-11-15T09:54:28.816815Z,lupin-mcp,1.0.0,0,0,https://github.com/qompassai/lupin,"Revenue-alignment MCP server: opportunity ledger, capability matching, Qompass/NTRanch lanes."
+2026-11-15T09:55:04.345268Z,prooftrail-acquire,0.2.0,0,0,https://github.com/AjmalX0/ProofVault,"ProofTrail acquisition: streaming intake, sealing, claimed-digest divergence, derived copies"
+2026-11-15T09:58:17.47167Z,veo-segment,0.4.0,0,0,https://github.com/veo-technologies/segment,Segment analytics client for Rust
+2026-11-15T09:58:41.108687Z,veo-segment-public-api,0.4.0,0,0,https://github.com/veo-technologies/segment,Generated Rust client for the Segment Public API
+2026-11-15T10:01:12.511656Z,esales-service,0.0.1,0,0,https://github.com/hupe1980/esales,"Part of esales, the open-source sales platform for energy retail. Name reserved; the first release follows."
+2026-11-15T10:05:07.567194Z,prooftrail-ledger,0.2.0,0,0,https://github.com/AjmalX0/ProofVault,"ProofTrail simulated append-only ledger, Merkle batching and offline anchor queue"
+2026-11-15T10:05:18.944236Z,prooftrail-package,0.2.0,0,0,https://github.com/AjmalX0/ProofVault,"ProofTrail court-package export: manifest, certificate, custody, proofs, ledger excerpt, Bates-numbered exhibits"
+2026-11-15T10:09:58.631244Z,gpui-material-theme,0.1.0,0,0,https://github.com/wangdiandao/gpui-material,Material 3 Expressive tokens and themes for GPUI Material
+2026-11-15T10:10:05.999442Z,gpui-material-foundation,0.1.0,0,0,https://github.com/wangdiandao/gpui-material,GPUI adapters and drawing primitives for GPUI Material
+2026-11-15T10:10:07.764941Z,redslang,0.1.0,0,0,https://github.com/argon-chat/redslangc,"Run the Slang shader compiler in-process: several targets per call, reflection JSON, structured diagnostics"
+2026-11-15T10:10:15.016499Z,gpui-material-components,0.1.0,0,0,https://github.com/wangdiandao/gpui-material,Material 3 Expressive desktop components for GPUI
+2026-11-15T10:10:15.692216Z,redslangc,0.1.0,0,0,https://github.com/argon-chat/redslangc,"Command-line Slang shader compiler that runs Slang in-process: stdin/stdout, several targets per run, JSON output"
+2026-11-15T10:10:24.779146Z,gpui-material-extras,0.1.0,0,0,https://github.com/wangdiandao/gpui-material,Optional Material 3 Expressive component families for GPUI
+2026-11-15T10:10:34.702826Z,gpui-material,0.1.0,0,0,https://github.com/wangdiandao/gpui-material,Material 3 Expressive components and themes for GPUI desktop applications
+2026-11-15T10:11:19.377867Z,esales-sim,0.0.1,0,0,https://github.com/hupe1980/esales,"Part of esales, the open-source sales platform for energy retail. Name reserved; the first release follows."
+2026-11-15T10:13:03.343859Z,vongola-mcp,1.0.0,0,0,,"Read-only, operator-local stdio MCP server over a running vongola daemon's admin surfaces."
+2026-11-15T10:13:25.573533Z,riscrab,0.1.0,0,0,https://github.com/LacusENI/riscrab,"A RV64 emulator in Rust, built from scratch to explore the RISC-V privileged architecture"
+2026-11-15T10:15:25.944173Z,prooftrail-verify-lib,0.2.0,0,0,https://github.com/AjmalX0/ProofVault,"ProofTrail independent package verifier (no vault, database or private-key access)"
