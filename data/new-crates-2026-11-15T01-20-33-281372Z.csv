@@ -1,0 +1,27 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-15T00:20:25.506321Z,ferroui-media-video-controls,0.5.0,5,0,https://github.com/wieslawsoltes/FerroUI,Composited video presentation and accessible playback controls
+2026-11-15T00:20:40.382196Z,assetc-colors,0.2.2,4,0,https://github.com/qbart/assetc,"The color logic of assetc: sRGB, HSV and hex colors, gradients with dithering, color modifiers, blend modes, 3D LUTs and color vision simulation"
+2026-11-15T00:23:02.840784Z,hwcodec-libvpx-src,0.1.0+1.15.2,0,0,https://github.com/Mumcord/hwcodec,"Source code of libvpx 1.15.2, bundled for the hwcodec crate's build"
+2026-11-15T00:23:06.035968Z,hwcodec-svt-av1-src,0.1.0+4.2.0,0,0,https://github.com/Mumcord/hwcodec,"Source code of SVT-AV1 4.2.0, bundled for the hwcodec crate's build"
+2026-11-15T00:23:08.698771Z,hwcodec-dav1d-src,0.1.0+1.5.4,0,0,https://github.com/Mumcord/hwcodec,"Source code of dav1d 1.5.4, bundled for the hwcodec crate's build"
+2026-11-15T00:23:11.041063Z,hwcodec-libvpl-src,0.1.0+2.17.0,0,0,https://github.com/Mumcord/hwcodec,"Source code of the Intel VPL dispatcher (libvpl) 2.17.0, bundled for the hwcodec crate's build"
+2026-11-15T00:23:16.979187Z,hwcodec-prebuilt-x86_64-pc-windows-msvc,0.1.0+native-libs.1,4,0,https://github.com/Mumcord/hwcodec,"Prebuilt static libvpx, SVT-AV1, dav1d and Intel VPL dispatcher for x86_64-pc-windows-msvc, for the hwcodec crate's build"
+2026-11-15T00:28:45.94635Z,hwcodec,0.1.0,0,0,https://github.com/Mumcord/hwcodec,"Realtime AV1 and VP9 video encoding and decoding: hardware encoders (NVENC, Quick Sync, AMF, VA-API) and software codecs (SVT-AV1, libvpx, dav1d) behind one interface"
+2026-11-15T00:31:32.921344Z,ferroui-media-opengl,0.5.0,8,0,https://github.com/wieslawsoltes/FerroUI,Render-thread immutable native GL frame production and presentation
+2026-11-15T00:32:17.778486Z,xaa,0.1.0-alpha.1,3,0,https://github.com/danielkov/xaa,Stateless Cross App Access (XAA) toolkit: Identity Assertion JWT Authorization Grant (ID-JAG) for requesting apps and resource authorization servers
+2026-11-15T00:34:23.788334Z,tracezero,0.1.0,5,0,https://github.com/Ranjeet2063/tracezero,Microsecond-startup unprivileged ephemeral process sandbox & instant time-travel rollback engine
+2026-11-15T00:39:59.655051Z,pain001-sdk,0.0.88,7,0,https://github.com/sebastienrousseau/pain001-sdk-rust,Typed blocking client for the pain001 REST API (ISO 20022 pain.001 and pain.008)
+2026-11-15T00:42:45.035087Z,ferroui-media-apple,0.5.0,8,0,https://github.com/wieslawsoltes/FerroUI,CoreVideo ownership and IOSurface imports shared by media producers
+2026-11-15T00:42:48.025925Z,ferroui-media-camera-apple,0.5.0,6,0,https://github.com/wieslawsoltes/FerroUI,AVFoundation camera capture with shared CoreVideo frames
+2026-11-15T00:45:02.932074Z,vas,0.0.0,6,0,https://github.com/qbart/vas,A collection of data structures and algorithms for game development.
+2026-11-15T00:53:58.787687Z,ferroui-media-linux,0.5.0,3,0,https://github.com/wieslawsoltes/FerroUI,GStreamer DMA-BUF sessions and native EGL frame ownership
+2026-11-15T00:54:30.082088Z,viewport-lib-particles,0.2.0,3,0,https://github.com/utfus/viewport-lib-particles,"GPU particle and VFX system for viewport-lib: modifier graph, WGSL codegen, lit and shadowed particle draw"
+2026-11-15T01:00:41.598322Z,dom-parser,0.1.0,0,0,https://github.com/fgsch/dom-parser,"HTML DOM parsing, CSS selector queries, and tree traversal, built on html5ever"
+2026-11-15T01:05:10.043044Z,ferroui-media-camera-linux,0.5.0,0,0,https://github.com/wieslawsoltes/FerroUI,Portal PipeWire and explicit V4L2 camera profiles
+2026-11-15T01:09:24.583099Z,adamantium,0.1.0,0,0,https://github.com/xipkit/adamantium,"Copy-on-write values, structured concurrency and actors for Rust, with the lint set that keeps a crate inside them"
+2026-11-15T01:09:47.53503Z,cargo-adamantium,0.1.0,0,0,https://github.com/xipkit/adamantium,Checks that a crate stays inside the adamantium fragment of Rust
+2026-11-15T01:11:26.384084Z,mole-stun,0.1.0,0,0,https://github.com/michal-pielka/mole,A small RFC 8489 STUN Binding server
+2026-11-15T01:11:36.853193Z,mole-rendezvous,0.1.0,0,0,https://github.com/michal-pielka/mole,A signed rendezvous server for Mole peers
+2026-11-15T01:16:14.188442Z,ferroui-media-metal,0.5.0,0,0,https://github.com/wieslawsoltes/FerroUI,Independent Metal texture production and renderer-host encoding on the active device
+2026-11-15T01:17:30.392946Z,zpane,0.5.0,0,0,https://github.com/zenthora/zpane,"Blazing-fast 3-pane Miller Column Command, Subcommand, Parameter & Variable Explorer for PowerShell, Linux, and Termux"
+2026-11-15T01:19:12.396148Z,pfrelay,0.1.0,0,0,https://github.com/wushilin/pf-simple,Rust SDK for the pf-simple relay hub: serve a tunnel or connect through one

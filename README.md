@@ -8,54 +8,40 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-15 00:19 UTC
+## Latest list — 2026-11-15 01:20 UTC
 
-New crates published between 2026-11-14 23:18 UTC and 2026-11-15 00:19 UTC.
+New crates published between 2026-11-15 00:19 UTC and 2026-11-15 01:20 UTC.
 
-[Full CSV](data/new-crates-2026-11-15T00-19-14-012768Z.csv)
+[Full CSV](data/new-crates-2026-11-15T01-20-33-281372Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-14 23:21:26 | [hanafubuki-agent-hooks](https://crates.io/crates/hanafubuki-agent-hooks) | 0.4.0 | 0 | Hooks for hanafubuki-agent: the user's and the project's commands run around to… |
-| 2026-11-14 23:23:25 | [qrimg](https://crates.io/crates/qrimg) | 0.1.4 | 0 | Generate QR code images (.webp, .svg, .avif) from text on the command line |
-| 2026-11-14 23:24:20 | [ferroui-media-qr](https://crates.io/crates/ferroui-media-qr) | 0.5.0 | 0 | Optional offline QR analysis of shared camera frames |
-| 2026-11-14 23:25:56 | [grove-wt-shell](https://crates.io/crates/grove-wt-shell) | 0.1.0 | 0 | Shell integration (cd, db env hook, completions) for Grove |
-| 2026-11-14 23:26:02 | [grove-wt-tasks](https://crates.io/crates/grove-wt-tasks) | 0.1.0 | 0 | Parallel task-graph (DAG) execution for Grove worktree creation |
-| 2026-11-14 23:26:30 | [xj](https://crates.io/crates/xj) | 0.1.0 | 0 | Ultra-Fast Neovim profile manager |
-| 2026-11-14 23:26:53 | [grove-wt](https://crates.io/crates/grove-wt) | 0.1.0 | 0 | Grove — a Rust git worktree runner (a gtr alternative) |
-| 2026-11-14 23:29:29 | [son-of-w](https://crates.io/crates/son-of-w) | 1.0.0 | 0 | One memory for every AI agent: a local store of decisions, patterns, facts and… |
-| 2026-11-14 23:31:51 | [hanafubuki-agent-plugin-hooks](https://crates.io/crates/hanafubuki-agent-plugin-hooks) | 0.4.0 | 0 | The hanafubuki-agent plugin that runs the user's hooks around tool calls, at a… |
-| 2026-11-14 23:33:23 | [links-json](https://crates.io/crates/links-json) | 0.1.0 | 0 | Parse, validate, normalize, and merge links.json linkrolls. |
-| 2026-11-14 23:33:48 | [rightkit-media-gen-approvals](https://crates.io/crates/rightkit-media-gen-approvals) | 0.1.0 | 0 | Media-generation approvals on the rightkit-approvals core: launch-secret approv… |
-| 2026-11-14 23:35:24 | [ferroui-media-video](https://crates.io/crates/ferroui-media-video) | 0.5.0 | 0 | Portable video playback sources, players and playback sessions |
-| 2026-11-14 23:35:30 | [omnibuf-derive](https://crates.io/crates/omnibuf-derive) | 0.1.0 | 0 | Procedural derive macro for OmniBuf native Rust structs and oneof enums |
-| 2026-11-14 23:35:38 | [omnibuf](https://crates.io/crates/omnibuf) | 0.1.0 | 0 | Core runtime, wire primitives, blind decoder, opaque splicing, and prost/buffa… |
-| 2026-11-14 23:35:43 | [protoc-gen-omnibuf-rs](https://crates.io/crates/protoc-gen-omnibuf-rs) | 0.1.0 | 0 | Protocol Buffers compiler plugin generating single-pass OmniBuf Rust codecs and… |
-| 2026-11-14 23:35:59 | [efr32mg2x-hal](https://crates.io/crates/efr32mg2x-hal) | 0.1.1 | 0 | Hardware Abstraction Layer for EFR32MG24 microcontrollers |
-| 2026-11-14 23:36:09 | [nadir-audio](https://crates.io/crates/nadir-audio) | 0.4.0 | 0 | Audio for the Nadir engine: a mixer of voices and buses, sound at a place in th… |
-| 2026-11-14 23:36:11 | [nadir-debug](https://crates.io/crates/nadir-debug) | 0.4.0 | 0 | Developer tools for the Nadir engine: an immediate-mode debug UI drawn with the… |
-| 2026-11-14 23:37:13 | [rightkit-media-gen-models](https://crates.io/crates/rightkit-media-gen-models) | 0.1.0 | 0 | Local model management for the media-generation engine: hardware fit, installs… |
-| 2026-11-14 23:39:29 | [filedrawer-analyzer](https://crates.io/crates/filedrawer-analyzer) | 0.1.0 | 0 | Reads a File Drawer entry by docs/entry-format.md: refusals, warnings, the Resu… |
-| 2026-11-14 23:41:20 | [filedrawer](https://crates.io/crates/filedrawer) | 0.1.0 | 0 | Checks File Drawer entries offline, with the analyzer filedrawer.dev runs. |
-| 2026-11-14 23:42:13 | [hanafubuki-agent-plugin-packages](https://crates.io/crates/hanafubuki-agent-plugin-packages) | 0.4.0 | 0 | The hanafubuki-agent plugin that runs installed plugins' code as Kardia guests:… |
-| 2026-11-14 23:43:19 | [argon2-rust-cli](https://crates.io/crates/argon2-rust-cli) | 0.3.0 | 0 | Generate Argon2 hashes from command line using the pure-Rust argon2-rust implem… |
-| 2026-11-14 23:47:11 | [ferroui-media-controls](https://crates.io/crates/ferroui-media-controls) | 0.5.0 | 0 | Composited shared-texture presenters for FerroUI |
-| 2026-11-14 23:48:33 | [mux-core](https://crates.io/crates/mux-core) | 0.0.3 | 0 | Transport-independent multiplexed session middleware |
-| 2026-11-14 23:50:56 | [akashic-sanitize](https://crates.io/crates/akashic-sanitize) | 0.1.0 | 0 | Format-preserving semantic pseudonymization and code/log sanitization for Akash… |
-| 2026-11-14 23:51:08 | [akashic-embedding](https://crates.io/crates/akashic-embedding) | 0.1.0 | 0 | Embedding provider traits and sidecar lifecycle management for Akashic |
-| 2026-11-14 23:51:35 | [akashic-vault](https://crates.io/crates/akashic-vault) | 0.1.0 | 0 | Open Knowledge Format (OKF) v0.2 Markdown vault engine and indexer for Akashic |
-| 2026-11-14 23:52:00 | [akashic-engine](https://crates.io/crates/akashic-engine) | 0.1.0 | 0 | Multi-language AST code graph engine, community detection, and symbol search fo… |
-| 2026-11-14 23:52:24 | [akashic-lint](https://crates.io/crates/akashic-lint) | 0.1.0 | 0 | Vault schema, relation invariants, and custom field rule linter for Akashic |
-| 2026-11-14 23:52:33 | [hanafubuki-agent-plugin-worktree](https://crates.io/crates/hanafubuki-agent-plugin-worktree) | 0.4.0 | 0 | The hanafubuki-agent plugin that serves Git worktrees to the facade's worktree… |
-| 2026-11-14 23:54:09 | [apex-framework](https://crates.io/crates/apex-framework) | 0.0.0 | 0 | Reserved for the Apex framework. Coming soon. |
-| 2026-11-14 23:55:18 | [akashic-rca](https://crates.io/crates/akashic-rca) | 0.1.0 | 0 | Root cause analysis conductor, crash deduplication, and crystallization engine… |
-| 2026-11-14 23:56:08 | [rightkit-memory-client](https://crates.io/crates/rightkit-memory-client) | 0.1.0 | 0 | Client of the RightKit memory engine: the typed MemoryBackend over the external… |
-| 2026-11-14 23:58:17 | [ferroui-direct2d](https://crates.io/crates/ferroui-direct2d) | 0.5.0 | 0 | Windows system GPU rendering and text with Direct2D, Direct3D 11, DirectWrite a… |
-| 2026-11-14 23:59:07 | [rivus](https://crates.io/crates/rivus) | 0.0.0 | 0 | Placeholder to reserve the name. rivus is a taint analysis query engine for Dar… |
-| 2026-11-15 00:02:07 | [sudo-mudo-apt-opt-gop-stop-remove](https://crates.io/crates/sudo-mudo-apt-opt-gop-stop-remove) | 0.1.0 | 0 | when you really want to nuke the shit out of some files |
-| 2026-11-15 00:05:14 | [akashic-daemon](https://crates.io/crates/akashic-daemon) | 0.1.0 | 0 | Gerrit stream monitor, adaptive debouncer, and background reconciler for Akashic |
-| 2026-11-15 00:09:21 | [ferroui-media-camera-controls](https://crates.io/crates/ferroui-media-camera-controls) | 0.5.0 | 0 | Portable composited camera preview, independently of video controls |
-| 2026-11-15 00:15:13 | [akashic-core](https://crates.io/crates/akashic-core) | 0.1.0 | 0 | Unified CLI and Model Context Protocol (MCP) server for Akashic |
+| 2026-11-15 00:20:25 | [ferroui-media-video-controls](https://crates.io/crates/ferroui-media-video-controls) | 0.5.0 | 5 | Composited video presentation and accessible playback controls |
+| 2026-11-15 00:20:40 | [assetc-colors](https://crates.io/crates/assetc-colors) | 0.2.2 | 4 | The color logic of assetc: sRGB, HSV and hex colors, gradients with dithering,… |
+| 2026-11-15 00:23:02 | [hwcodec-libvpx-src](https://crates.io/crates/hwcodec-libvpx-src) | 0.1.0+1.15.2 | 0 | Source code of libvpx 1.15.2, bundled for the hwcodec crate's build |
+| 2026-11-15 00:23:06 | [hwcodec-svt-av1-src](https://crates.io/crates/hwcodec-svt-av1-src) | 0.1.0+4.2.0 | 0 | Source code of SVT-AV1 4.2.0, bundled for the hwcodec crate's build |
+| 2026-11-15 00:23:08 | [hwcodec-dav1d-src](https://crates.io/crates/hwcodec-dav1d-src) | 0.1.0+1.5.4 | 0 | Source code of dav1d 1.5.4, bundled for the hwcodec crate's build |
+| 2026-11-15 00:23:11 | [hwcodec-libvpl-src](https://crates.io/crates/hwcodec-libvpl-src) | 0.1.0+2.17.0 | 0 | Source code of the Intel VPL dispatcher (libvpl) 2.17.0, bundled for the hwcode… |
+| 2026-11-15 00:23:16 | [hwcodec-prebuilt-x86_64-pc-windows-msvc](https://crates.io/crates/hwcodec-prebuilt-x86_64-pc-windows-msvc) | 0.1.0+native-libs.1 | 4 | Prebuilt static libvpx, SVT-AV1, dav1d and Intel VPL dispatcher for x86_64-pc-w… |
+| 2026-11-15 00:28:45 | [hwcodec](https://crates.io/crates/hwcodec) | 0.1.0 | 0 | Realtime AV1 and VP9 video encoding and decoding: hardware encoders (NVENC, Qui… |
+| 2026-11-15 00:31:32 | [ferroui-media-opengl](https://crates.io/crates/ferroui-media-opengl) | 0.5.0 | 8 | Render-thread immutable native GL frame production and presentation |
+| 2026-11-15 00:32:17 | [xaa](https://crates.io/crates/xaa) | 0.1.0-alpha.1 | 3 | Stateless Cross App Access (XAA) toolkit: Identity Assertion JWT Authorization… |
+| 2026-11-15 00:34:23 | [tracezero](https://crates.io/crates/tracezero) | 0.1.0 | 5 | Microsecond-startup unprivileged ephemeral process sandbox & instant time-trave… |
+| 2026-11-15 00:39:59 | [pain001-sdk](https://crates.io/crates/pain001-sdk) | 0.0.88 | 7 | Typed blocking client for the pain001 REST API (ISO 20022 pain.001 and pain.008) |
+| 2026-11-15 00:42:45 | [ferroui-media-apple](https://crates.io/crates/ferroui-media-apple) | 0.5.0 | 8 | CoreVideo ownership and IOSurface imports shared by media producers |
+| 2026-11-15 00:42:48 | [ferroui-media-camera-apple](https://crates.io/crates/ferroui-media-camera-apple) | 0.5.0 | 6 | AVFoundation camera capture with shared CoreVideo frames |
+| 2026-11-15 00:45:02 | [vas](https://crates.io/crates/vas) | 0.0.0 | 6 | A collection of data structures and algorithms for game development. |
+| 2026-11-15 00:53:58 | [ferroui-media-linux](https://crates.io/crates/ferroui-media-linux) | 0.5.0 | 3 | GStreamer DMA-BUF sessions and native EGL frame ownership |
+| 2026-11-15 00:54:30 | [viewport-lib-particles](https://crates.io/crates/viewport-lib-particles) | 0.2.0 | 3 | GPU particle and VFX system for viewport-lib: modifier graph, WGSL codegen, lit… |
+| 2026-11-15 01:00:41 | [dom-parser](https://crates.io/crates/dom-parser) | 0.1.0 | 0 | HTML DOM parsing, CSS selector queries, and tree traversal, built on html5ever |
+| 2026-11-15 01:05:10 | [ferroui-media-camera-linux](https://crates.io/crates/ferroui-media-camera-linux) | 0.5.0 | 0 | Portal PipeWire and explicit V4L2 camera profiles |
+| 2026-11-15 01:09:24 | [adamantium](https://crates.io/crates/adamantium) | 0.1.0 | 0 | Copy-on-write values, structured concurrency and actors for Rust, with the lint… |
+| 2026-11-15 01:09:47 | [cargo-adamantium](https://crates.io/crates/cargo-adamantium) | 0.1.0 | 0 | Checks that a crate stays inside the adamantium fragment of Rust |
+| 2026-11-15 01:11:26 | [mole-stun](https://crates.io/crates/mole-stun) | 0.1.0 | 0 | A small RFC 8489 STUN Binding server |
+| 2026-11-15 01:11:36 | [mole-rendezvous](https://crates.io/crates/mole-rendezvous) | 0.1.0 | 0 | A signed rendezvous server for Mole peers |
+| 2026-11-15 01:16:14 | [ferroui-media-metal](https://crates.io/crates/ferroui-media-metal) | 0.5.0 | 0 | Independent Metal texture production and renderer-host encoding on the active d… |
+| 2026-11-15 01:17:30 | [zpane](https://crates.io/crates/zpane) | 0.5.0 | 0 | Blazing-fast 3-pane Miller Column Command, Subcommand, Parameter & Variable Exp… |
+| 2026-11-15 01:19:12 | [pfrelay](https://crates.io/crates/pfrelay) | 0.1.0 | 0 | Rust SDK for the pf-simple relay hub: serve a tunnel or connect through one |
 
 ## Data source
 
