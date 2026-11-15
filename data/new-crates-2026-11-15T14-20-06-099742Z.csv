@@ -1,0 +1,26 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-15T13:24:43.54621Z,senu,0.2.0,0,0,https://github.com/efg-technologies/senu,"Declare a Rust function once and serve it as a web page, a JSON API and an MCP tool, with one permission check and one contract test suite"
+2026-11-15T13:25:36.060288Z,ratclone,0.1.0,0,0,https://github.com/SyscallBrain/ratclone,A keyboard-driven terminal UI for rclone
+2026-11-15T13:35:57.85385Z,virsh-tui,0.3.1,0,0,https://github.com/SyscallBrain/virsh-tui,Keyboard-driven terminal UI for libvirt/virsh with vim keys and live graphs
+2026-11-15T13:36:03.751664Z,lazybw,1.2.2,0,0,https://github.com/SyscallBrain/lazybw,A keyboard-first terminal UI for the Bitwarden vault
+2026-11-15T13:36:43.570132Z,muster-web,0.0.0,0,0,https://github.com/sagoez/muster,Placeholder reserving the name for muster's web view; the real crate is published from https://github.com/sagoez/muster.
+2026-11-15T13:47:24.212124Z,acts-expr,0.26.0,0,0,https://github.com/yaojianpin/acts.git,the acts expression evaluator: a dependency-free parser and interpreter for the simple expressions a workflow carries
+2026-11-15T13:47:24.522961Z,acts-proto,0.26.0,0,0,https://github.com/yaojianpin/acts.git,"The generated gRPC bindings of the acts wire protocol, shared by the client channel and the server plugin"
+2026-11-15T13:47:27.569261Z,acts-acl,0.26.0,0,0,https://github.com/yaojianpin/acts.git,"store-backed users, passwords and login sessions for the acts workflow engine"
+2026-11-15T13:47:28.518703Z,acts-package-javascript,0.26.0,0,0,https://github.com/yaojianpin/acts.git,acts package that runs JavaScript code with an embedded QuickJS runtime
+2026-11-15T13:49:56.870023Z,delta-update-engine,1.0.0-rc.4,0,0,https://github.com/zuoqiuning/delta-update-engine,Windows-only file-level delta update engine for Tauri applications
+2026-11-15T13:52:16.848973Z,tauri-plugin-delta-update,1.0.0-rc.4,0,0,https://github.com/zuoqiuning/delta-update-engine,Windows-only Tauri 2 plugin for file-level delta updates
+2026-11-15T13:52:42.772647Z,delta-update-cli,1.0.0-rc.4,0,0,https://github.com/zuoqiuning/delta-update-engine,Build-side release CLI for delta-update-engine (Windows targets)
+2026-11-15T13:54:01.60539Z,prisk-engine,2.0.0,0,0,https://github.com/LunaticConglomerateLLC/prisk,PRisk shared analysis engine: offline-first change-intelligence for pull requests.
+2026-11-15T13:54:14.222514Z,prisk,2.0.0,0,0,https://github.com/LunaticConglomerateLLC/prisk,PRisk command-line interface: offline-first change-intelligence for pull requests.
+2026-11-15T14:01:05.621118Z,maio,0.1.0,0,0,,A macro level database store
+2026-11-15T14:02:42.529911Z,maio-register,0.1.0,0,0,,A zero-overhead writer designed solely for proc-macros.
+2026-11-15T14:02:58.487017Z,maio-compiler,0.1.0,0,0,,A batch processing engine with Rayon parallelism.
+2026-11-15T14:04:44.887791Z,maio-core,0.1.0,0,0,,Core engien of maio store
+2026-11-15T14:05:50.963808Z,ikon-teleport,1.0.0,0,0,,Teleport binary serialization codec for the IKON protocol.
+2026-11-15T14:05:52.32413Z,maio-cli,0.1.0,0,0,,Cli for maio store
+2026-11-15T14:05:53.865291Z,ikon-protocol,1.0.0,0,0,,Generated Teleport message types and opcodes for the IKON protocol.
+2026-11-15T14:05:56.259773Z,ikon-sdk,1.0.0,0,0,,Rust client SDK for the IKON platform.
+2026-11-15T14:07:01.810677Z,tift,0.1.1,0,0,https://github.com/PrimeX-06/tift,"A configurable, fast LaTeX source formatter"
+2026-11-15T14:16:38.134093Z,ace-building-sim,0.1.1,0,0,https://github.com/ACE-IoT-Solutions/ace-cdl-explorer,Native controller-independent building plant and CDL simulation adapter
+2026-11-15T14:18:24.686359Z,rakko,0.1.0,0,0,https://github.com/aonyx-ai/rakko,"The traits and types of Rakko, which turns project maintenance into Rust crates"
