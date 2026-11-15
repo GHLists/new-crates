@@ -1,0 +1,31 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-15T06:22:34.361761Z,cl-glyph,0.1.0,0,0,https://github.com/mkovaxx/cl-glyph,Define and render centerline glyphs
+2026-11-15T06:25:43.655367Z,korek-plugin,0.1.0,0,0,https://github.com/talaagent/korek,"Write korek code generator plugins: the JSON plugin protocol, run helper and hooks (no parser dependency)"
+2026-11-15T06:32:14.379392Z,closient,0.0.1,0,0,https://github.com/closient/closient,Closient: placeholder crate reserving the name. SDK coming soon.
+2026-11-15T06:35:36.387373Z,korek-gen-docs,0.1.0,0,0,https://github.com/talaagent/korek,"korek's markdown reference docs generator for schemas: types, keys, rules in words"
+2026-11-15T06:37:41.167287Z,qmi8658,0.2.0,0,0,https://github.com/IniterWorker/qmi8658,"QMI8658 6-axis IMU driver for embedded-hal (blocking and async, I2C and SPI)"
+2026-11-15T06:40:26.97056Z,guessing_game666,0.1.1,0,0,,A fun game where you guess what number the computer has chosen.
+2026-11-15T06:45:33.491833Z,korek-gen-jsonschema,0.1.0,0,0,https://github.com/talaagent/korek,"korek's JSON Schema 2020-12 code generator (one file, or one per type for MCP tool inputs)"
+2026-11-15T06:49:35.624652Z,pageon-dom,0.1.0,0,0,https://github.com/hupe1980/pageon,"pageon's document model: an arena DOM with handles that never alias, built by html5ever"
+2026-11-15T06:50:40.398139Z,pageon-env,0.1.0,0,0,https://github.com/hupe1980/pageon,"pageon's single seam for nondeterminism: network (requests and realtime connections), clock and randomness, live, recorded or replayed"
+2026-11-15T06:50:57.150191Z,pageon-agent,0.1.0,0,0,https://github.com/hupe1980/pageon,"pageon's agent observations: compact, quoted, budgeted views of a web page with stable element refs"
+2026-11-15T06:51:07.117063Z,pageon-net,0.1.0,0,0,https://github.com/hupe1980/pageon,"pageon's browser networking: the Fetch rules, CORS, cookies (PSL, CHIPS), Web Storage and the egress policy, over pageon-env"
+2026-11-15T06:53:37.938216Z,pageon-layout,0.1.0,0,0,https://github.com/hupe1980/pageon,"pageon's geometry and pixels: CSS cascade and layout with bundled fonts, boxes, visibility, cover, hit-testing and on-demand paint"
+2026-11-15T06:55:37.605355Z,korek-gen-proto,0.1.0,0,0,https://github.com/talaagent/korek,"korek's Protobuf code generator: messages, enums, protovalidate rules, gRPC/ConnectRPC services, buf.yaml"
+2026-11-15T07:00:41.041399Z,frona-sandbox,0.1.0,0,0,https://github.com/fronalabs/frona,Portable process sandbox execution and resource management
+2026-11-15T07:05:47.507324Z,korek-gen-rust,0.1.0,0,0,https://github.com/talaagent/korek,"korek's Rust code generator: serde types, validate() per type, Defaults and typed key consts"
+2026-11-15T07:07:10.886526Z,pageon-ax,0.1.0,0,0,https://github.com/hupe1980/pageon,"pageon's accessibility tree: HTML-AAM roles, ARIA, AccName 1.2 names and states"
+2026-11-15T07:07:34.27034Z,recordchaos-core,0.1.0,0,0,https://github.com/logitsolutionsai/recordchaos,"Core engine of recordchaos: mutates synthetic HL7 FHIR R4 bundles, validates them, runs them against an importer and shrinks failures."
+2026-11-15T07:07:37.193076Z,recordchaos-report,0.1.0,0,0,https://github.com/logitsolutionsai/recordchaos,HTML report and JUnit XML for recordchaos runs.
+2026-11-15T07:07:40.023423Z,recordchaos,0.1.0,0,0,https://github.com/logitsolutionsai/recordchaos,"recordchaos: breaks synthetic patient record bundles (for HL7 FHIR R4) on purpose to test your importer, and shrinks every failure."
+2026-11-15T07:07:55.151905Z,shelfcheck-core,0.1.0,0,0,https://github.com/logitsolutionsai/shelfcheck,"Record model, feed readers, rule engine and diff for shelfcheck"
+2026-11-15T07:07:58.301528Z,shelfcheck-report,0.1.0,0,0,https://github.com/logitsolutionsai/shelfcheck,"Report outputs for shelfcheck: HTML, SARIF, JUnit, CSV and terminal"
+2026-11-15T07:11:00.902939Z,kallo-spectral,0.1.0,0,0,https://github.com/tsukiyo20/kallo,"Spectra, sensors and RGB-to-spectrum reconstruction"
+2026-11-15T07:12:48.992042Z,kallo-data,0.1.0,0,0,https://github.com/tsukiyo20/kallo,The measured film and paper files the model is generated from
+2026-11-15T07:13:02.73769Z,kallo-core,0.1.0,0,0,https://github.com/tsukiyo20/kallo,Reference film model: characteristic curves and development kinetics
+2026-11-15T07:13:19.010875Z,kallo-io,0.1.0,0,0,https://github.com/tsukiyo20/kallo,Image loading and saving for Kallo
+2026-11-15T07:14:34.775838Z,kallo-gpu,0.1.0,0,0,https://github.com/tsukiyo20/kallo,"wgpu backend for Kallo, held to the CPU model's tolerance"
+2026-11-15T07:14:55.169712Z,pageon-js,0.1.0,0,0,https://github.com/hupe1980/pageon,"pageon's JavaScript: V8, WebIDL-generated DOM bindings and the HTML event loop"
+2026-11-15T07:15:54.265388Z,korek-gen-ts,0.1.0,0,0,https://github.com/talaagent/korek,korek's TypeScript code generator: types with no runtime dependency
+2026-11-15T07:16:58.043338Z,kallo-view,0.1.0,0,0,https://github.com/tsukiyo20/kallo,"The model, arranged into the shapes an interface draws"
+2026-11-15T07:18:32.51157Z,shelfcheck,0.1.0,0,0,https://github.com/logitsolutionsai/shelfcheck,"Checks product feeds against the formats AI shopping assistants read, and flags identity changes between feeds"
