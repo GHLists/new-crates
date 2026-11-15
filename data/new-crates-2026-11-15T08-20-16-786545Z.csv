@@ -1,0 +1,38 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-15T07:23:52.329479Z,kakemono,0.4.0,0,0,https://github.com/iamcaominhtien/kakemono,"Convert scientific-paper PDFs (arXiv) into clean, readable HTML in four fidelity modes"
+2026-11-15T07:25:33.393212Z,korek-gen-zod,0.1.0,0,0,https://github.com/talaagent/korek,korek's Zod v4 code generator: schemas checked against the generated TypeScript types
+2026-11-15T07:26:40.262747Z,kallo-raw,0.1.0,0,0,https://github.com/tsukiyo20/kallo,Camera raw decoding for kalo
+2026-11-15T07:30:39.011351Z,znippy-plugin-cargo,0.1.0,0,0,https://git.gunnar.rs/nordisk/znippy,"Cargo .crate plugin for znippy: a crate's sparse-index line, the versions it pins and the license it declares, read out of its own Cargo.toml under bounds"
+2026-11-15T07:34:22.776853Z,keepapart,0.1.1,0,0,https://github.com/moelsaka01/keepapart,"One machine, many Claude & Codex accounts. Work, personal, clients, kept apart."
+2026-11-15T07:36:01.026727Z,korek,0.1.0,0,0,https://github.com/talaagent/korek,"Schema-first code generation: define types, settings keys and RPC services once in KDL, generate Rust, Protobuf, Zod, TypeScript and JSON Schema (library)"
+2026-11-15T07:36:22.021035Z,periscope-mcp,1.0.0,0,0,,"MCP server that brokers into a Neovim instance running the user's own config, exposing its LSP clients, formatter/linter registries, DAP setup, and more as MCP tools."
+2026-11-15T07:36:42.85948Z,kallo-api,0.1.0,0,0,https://github.com/tsukiyo20/kallo,"The use-case layer: load a photograph, develop it, print it"
+2026-11-15T07:37:20.801266Z,torogao-vrm,0.4.0,0,0,,"VRM 1.0 export for Torogao: vrm-profile/1 permission records, GLB to VRM export with byte-preserved geometry, and read-back validation."
+2026-11-15T07:37:22.072653Z,torogao-osc,0.4.0,0,0,,"VRChat-dialect OSC parameter surface for Torogao: a bounded OSC 1.0 codec, a declared typed surface over /avatar/parameters/*, /avatar/change, /input/* and /chatbox/*, and a localhost-first UDP trans…"
+2026-11-15T07:45:47.341535Z,korek-testkit,0.1.0,0,0,https://github.com/talaagent/korek,Shared validation test vectors and a conformance runner for korek code generators
+2026-11-15T07:47:46.432384Z,kallo-cli,0.1.0,0,0,https://github.com/tsukiyo20/kallo,The `kalo` command line interface
+2026-11-15T07:52:32.64261Z,tonus,0.1.0,0,0,https://github.com/lekspa/tonus,Minimal terminal music player for offline playback
+2026-11-15T07:55:20.450526Z,safemcp,0.1.0,0,0,https://github.com/hamravichauhan/safeMCP,The sub-millisecond security proxy and airbag for AI agents using the Model Context Protocol (MCP)
+2026-11-15T07:55:54.630338Z,korek-cli,0.1.0,0,0,https://github.com/talaagent/korek,"Schema-first code generator CLI: KDL schemas to Rust, Protobuf (protovalidate), Zod, TypeScript, JSON Schema and docs"
+2026-11-15T08:04:18.127035Z,starmade,0.0.1,0,0,https://github.com/starmadelabs/starmade,Official Rust SDK for Starmade: print and ship your designs on the products people actually buy.
+2026-11-15T08:06:24.009259Z,proverrr-core,0.1.0,0,0,https://github.com/Proverrr/proverrr-core,Light-weight library for solving geometric problems with exact arithmetic
+2026-11-15T08:08:30.151619Z,r8macros,0.1.2,0,0,https://github.com/0x00-Community/r8,r8 过程宏：从 JSON 定义生成枚举
+2026-11-15T08:08:30.96917Z,r8taskqueue,0.1.2,0,0,https://github.com/0x00-Community/r8,r8 任务队列：无锁数据流调度，依赖做完的任务立刻在 moremath 线程池上并行跑；并查集归家族，配额按字节码条数
+2026-11-15T08:08:34.696566Z,r8framework,0.1.2,0,0,https://github.com/0x00-Community/r8,r8 核心框架层：trait 与通用结构体 / 枚举
+2026-11-15T08:08:36.177631Z,r8binding,0.1.2,0,0,https://github.com/0x00-Community/r8,r8 的 Rust ⇄ JS 绑定：类型转换、宿主对象、把 Rust 类型导出成 JS 类（过程宏在 r8macros）
+2026-11-15T08:08:38.234526Z,r8builtins,0.1.2,0,0,https://github.com/0x00-Community/r8,r8 内建对象：实现 Intrinsics，往 Realm 里装 Object / Function / Array / String / Number / Math / Error / console
+2026-11-15T08:12:45.430442Z,anti-disassembly,0.1.0,0,0,https://github.com/AlbusPhos/anti-disassembly,Polymorphic anti-disassembly junk code
+2026-11-15T08:13:16.535831Z,faster-base58,0.1.0,0,0,https://github.com/elichai/faster-base58,Fast Bitcoin Base58 encoding and decoding with automatic CPU dispatch
+2026-11-15T08:15:42.956037Z,ppr,0.1.0,0,0,https://github.com/Ricardo-Castro-Gastelum/papiro,A minimal terminal Markdown editor and viewer.
+2026-11-15T08:15:51.815925Z,ceichas,0.1.0,0,0,https://github.com/pimalaya/ceichas,"Wait until a wall-clock time, counting suspended time and following clock changes"
+2026-11-15T08:16:38.438956Z,ascolta-domain,0.0.1,0,0,https://github.com/eval-exec/ascolta,"Domain types for ascolta, a modern MPD client"
+2026-11-15T08:16:58.234136Z,ascolta-mpd,0.0.1,0,0,https://github.com/eval-exec/ascolta,Async MPD protocol client used by ascolta
+2026-11-15T08:17:14.300094Z,BREP_geometry,0.20.0,0,0,https://github.com/mmiscool/next.BREP.io_RUST_BREP_KERNEL,"Geometry layer of the BREP kernel: vectors, tolerances, diagnostics, NURBS curves and surfaces, projection and intersection."
+2026-11-15T08:17:15.429289Z,r8platform,0.1.2,0,0,https://github.com/0x00-Community/r8,r8 platform layer: the standard-library implementation of the Platform trait
+2026-11-15T08:17:22.602055Z,BREP_topology,0.20.0,0,0,https://github.com/mmiscool/next.BREP.io_RUST_BREP_KERNEL,"Topology layer of the BREP kernel: B-rep solids, validation, soundness, classification, mass properties and tessellation."
+2026-11-15T08:17:25.085458Z,BREP_surface_offset,0.20.0,0,0,https://github.com/mmiscool/next.BREP.io_RUST_BREP_KERNEL,"Surface offsets of the BREP kernel: offset carriers, trims, regularity and fold loci."
+2026-11-15T08:17:27.79411Z,BREP_boolean,0.20.0,0,0,https://github.com/mmiscool/next.BREP.io_RUST_BREP_KERNEL,"Booleans and healing of the BREP kernel: imprint, fragment, boolean assembly, sewing and face merging."
+2026-11-15T08:17:30.581945Z,BREP_solvers,0.20.0,0,0,https://github.com/mmiscool/next.BREP.io_RUST_BREP_KERNEL,Constraint solvers of the BREP kernel: 2D and 3D sketches and assemblies.
+2026-11-15T08:18:59.478098Z,lotar-core,0.15.0,0,0,https://github.com/localtaskrepo/lotar,"The core of the lotar library: config, storage, tasks and the REST types"
+2026-11-15T08:19:01.035619Z,ascolta,0.0.1,0,0,https://github.com/eval-exec/ascolta,"A modern, feature-rich terminal client for MPD"
+2026-11-15T08:19:16.787431Z,nvim-router,0.2.0,0,0,https://github.com/naughie/nvim-router.rs,Routing Neovim rpc calls by namespacing
