@@ -1,0 +1,43 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-16T21:20:30.457149Z,libacdebin-dbg,0.0.0,0,0,,Placeholder for Dopame's libacdebin-dbg
+2026-11-16T21:21:14.450025Z,cgp-macro-extra-core,0.8.0-prerelease,0,0,https://github.com/contextgeneric/cgp,"The shared core of CGP's extra procedural macros: their AST types, parsers, and visitors."
+2026-11-16T21:21:16.992606Z,cgp-macro-extra-lib,0.8.0-prerelease,0,0,https://github.com/contextgeneric/cgp,"The implementation of CGP's extra procedural macros, which lower through cgp-macro-core's AST types."
+2026-11-16T21:21:19.176401Z,cgp-macro-extra,0.8.0-prerelease,0,0,https://github.com/contextgeneric/cgp,"CGP's extra procedural macros, which define handler providers from functions and dispatch a trait over an enum."
+2026-11-16T21:22:44.428321Z,cargo-cgp-expand,0.1.0-prerelease,0,0,https://github.com/contextgeneric/cargo-cgp,"Resugars CGP's type-level constructs in expanded Rust source, for the cargo-cgp expand command."
+2026-11-16T21:25:36.418223Z,taut,0.1.0,0,0,https://github.com/Dvow/taut,"A Rust GUI library for Windows and Linux that aims to be small, fast and accessible, with zero dependencies and nothing compiled in that your program doesn't use."
+2026-11-16T21:27:15.069969Z,tvim,0.1.0,0,0,https://github.com/borhara/tvim,A vim-like terminal text editor written in Rust.
+2026-11-16T21:27:34.768797Z,sk-yuv,0.0.0,0,0,https://github.com/argon-chat/skathi,Reserved for Skathi; the crate is published with Skathi 0.3.0
+2026-11-16T21:30:57.017228Z,libacdebin-system,0.0.0,0,0,,Placeholder for Dopame's libacdebin-system
+2026-11-16T21:32:07.545711Z,lumenc-plugin,0.0.11,0,0,https://github.com/lumen-fx/lumen,SDK for lumenc compiler plugins: the CompilerPlugin trait and the C-ABI export macro.
+2026-11-16T21:32:17.920176Z,lumen-plugin,0.0.11,0,0,https://github.com/lumen-fx/lumen,SDK for Lumen runtime plugins: the RuntimePlugin trait and the C-ABI export macro.
+2026-11-16T21:34:27.671346Z,paisley-engine-transport,0.1.0-alpha.1,0,0,https://github.com/BLig-Vox/Paisley,Bounded process transport and inactive-tab residency policy for Paisley
+2026-11-16T21:36:49.162815Z,paisley-cef-gtk,0.1.0-alpha.1,0,0,https://github.com/BLig-Vox/Paisley,Paisley's GTK4 CEF adapter with bounded transport
+2026-11-16T21:37:40.15047Z,sk-permissions,0.0.0,0,0,https://github.com/argon-chat/skathi,Reserved for Skathi; the crate is published with Skathi 0.3.0
+2026-11-16T21:39:04.440853Z,rust-varlap,0.1.0-beta.1,0,0,https://github.com/jchchiu/rust-varlap,Quality control tool for genetic variants
+2026-11-16T21:40:21.610591Z,libacde-api,0.0.0,0,0,,Placeholder for Dopame's libacde-api
+2026-11-16T21:41:46.660508Z,plasma-protocol,0.2.0,0,0,https://github.com/superaligned-to/plasma,Wire types and the OpenAPI contract between the Plasma server and its clients.
+2026-11-16T21:41:47.410243Z,plasma-provider,0.2.0,0,0,https://github.com/superaligned-to/plasma,"Streaming model provider clients (Anthropic, OpenAI and compatible) for the Plasma coding agent."
+2026-11-16T21:41:47.947268Z,plasma-store,0.2.0,0,0,https://github.com/superaligned-to/plasma,Plasma's SQLite event store and projections.
+2026-11-16T21:41:48.249214Z,plasma-tools,0.2.0,0,0,https://github.com/superaligned-to/plasma,"Built-in file, shell and search tools for the Plasma coding agent."
+2026-11-16T21:41:51.54987Z,plasma-agent,0.2.0,0,0,https://github.com/superaligned-to/plasma,"The Plasma agent loop: stream a model step, retry, run tools, repeat."
+2026-11-16T21:42:13.606365Z,dogwood-ops,0.0.0,0,0,https://github.com/dogwood-policy/dogwood,"Placeholder for the Dogwood operations crate (check, validate, lower, replay, explain, live authorization). The real crate is published from https://github.com/dogwood-policy/dogwood."
+2026-11-16T21:45:40.487398Z,geocoder-core,0.2.0,0,0,https://github.com/Creatiwity/geocoder-core,"Address geocoding and autocomplete ported from addok, with country profiles for France (BAN), Luxembourg and Belgium"
+2026-11-16T21:46:10.085882Z,generate-license,0.1.0,0,0,https://github.com/guysenpai/generate-license,Generate license files from SPDX identifiers
+2026-11-16T21:47:34.174122Z,sk-locale,0.0.0,0,0,https://github.com/argon-chat/skathi,Reserved for Skathi; the crate is published with Skathi 0.3.0
+2026-11-16T21:48:18.656125Z,pairdeck,0.1.0,0,0,https://github.com/portvex/pairdeck,A modern twin-panel terminal file manager in the spirit of Midnight Commander
+2026-11-16T21:50:47.95434Z,libtracefs,0.0.0,0,0,,Placeholder for Dopame's libtracefs
+2026-11-16T21:52:38.115648Z,plasma-mcp,0.2.0,0,0,https://github.com/superaligned-to/plasma,Model Context Protocol client and server pieces for the Plasma coding agent.
+2026-11-16T21:55:33.870816Z,apache-spark-connect-build,4.3.0,0,0,https://github.com/apache/spark-connect-rust,build.rs helper that compiles Rust WASM UDFs for the Spark Connect client
+2026-11-16T21:55:34.333644Z,apache-spark-connect-macros,4.3.0,0,0,https://github.com/apache/spark-connect-rust,Procedural macros for the Rust Spark Connect client (e.g. #[spark_wasm_udf])
+2026-11-16T21:57:34.754018Z,sk-desktop,0.0.0,0,0,https://github.com/argon-chat/skathi,Reserved for Skathi; the crate is published with Skathi 0.3.0
+2026-11-16T21:59:51.772247Z,delali-narsil-server,0.1.0,0,0,https://github.com/assetcorp/narsil,"Serve one Narsil node over HTTP and WebSocket from a Rust program, with the routes, limits, and error codes of the TypeScript server."
+2026-11-16T22:01:15.079318Z,libacde-host,0.0.0,0,0,,Placeholder for Dopame's libacde-host
+2026-11-16T22:03:11.416077Z,plasma-workflow,0.2.0,0,0,https://github.com/superaligned-to/plasma,Workflow scripting runtime for the Plasma coding agent.
+2026-11-16T22:07:40.662213Z,sk-app,0.0.0,0,0,https://github.com/argon-chat/skathi,Reserved for Skathi; the crate is published with Skathi 0.3.0
+2026-11-16T22:07:52.242805Z,lumenc,0.0.11,0,0,https://github.com/lumen-fx/lumen,"Lumen markup compiler + runner: parse main.lmn / main.css, spawn ECS, run."
+2026-11-16T22:08:45.094601Z,agent-link,0.1.0,0,0,https://github.com/sporadic-nomad/agent-link,Integrate external AI agents into Rust applications through PTY and structured stdio transports.
+2026-11-16T22:09:24.945215Z,flightdeck,0.1.0,0,0,https://github.com/jedisct1/rust-flightdeck,"FlightDeck deck cipher and Deck-BO authenticated encryption (TurboSHAKE-BO, SHAKE-BO), with SIMD on x86-64, AArch64 and WebAssembly"
+2026-11-16T22:10:39.777498Z,libacde-dom,0.0.0,0,0,,Placeholder for Dopame's libacde-dom
+2026-11-16T22:13:01.159774Z,brrrty-nunjucks,0.0.7,0,0,https://github.com/brrrty/brrrty,"A Nunjucks template engine that matches Nunjucks 3.2.4 as Eleventy configures it, for an Eleventy-compatible static site generator."
+2026-11-16T22:13:30.672593Z,plasma-tui-core,0.2.0,0,0,https://github.com/superaligned-to/plasma,"Pure reducer state for the Plasma terminal UI, with no I/O."
+2026-11-16T22:17:34.837733Z,skathi,0.0.0,0,0,https://github.com/argon-chat/skathi,Reserved for Skathi; the crate is published with Skathi 0.3.0

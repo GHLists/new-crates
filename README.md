@@ -8,56 +8,56 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-16 21:18 UTC
+## Latest list — 2026-11-16 22:19 UTC
 
-New crates published between 2026-11-16 20:21 UTC and 2026-11-16 21:18 UTC.
+New crates published between 2026-11-16 21:18 UTC and 2026-11-16 22:19 UTC.
 
-[Full CSV](data/new-crates-2026-11-16T21-18-21-773631Z.csv)
+[Full CSV](data/new-crates-2026-11-16T22-19-11-946228Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-16 20:22:06 | [cursed_secp256k1](https://crates.io/crates/cursed_secp256k1) | 0.1.2 | 0 | ECDSA over secp256k1 where every field element is a Vec<Digit> and every operat… |
-| 2026-11-16 20:22:59 | [puerto-nucleo](https://crates.io/crates/puerto-nucleo) | 0.21.0 | 0 | Puerto runtime — the domain types every Puerto project shares: paged lists, the… |
-| 2026-11-16 20:23:40 | [puerto-eventos](https://crates.io/crates/puerto-eventos) | 0.21.0 | 0 | Puerto runtime — the worker every Puerto project with domain events runs: the o… |
-| 2026-11-16 20:23:58 | [gutil-plugin-sdk](https://crates.io/crates/gutil-plugin-sdk) | 0.1.0 | 0 | SDK for gutil WebAssembly plug-ins |
-| 2026-11-16 20:24:00 | [puerto-correo](https://crates.io/crates/puerto-correo) | 0.21.0 | 0 | Puerto runtime — mail for Puerto projects: the SMTP adapter of the mail port, t… |
-| 2026-11-16 20:27:13 | [tedi_web](https://crates.io/crates/tedi_web) | 0.17.15 | 0 | The board in a browser: tedi's own store and sync, served |
-| 2026-11-16 20:27:40 | [sk-effects](https://crates.io/crates/sk-effects) | 0.0.0 | 0 | Reserved for Skathi; the crate is published with Skathi 0.3.0 |
-| 2026-11-16 20:27:44 | [aws-sdk-connectscheduling](https://crates.io/crates/aws-sdk-connectscheduling) | 1.0.0 | 0 | AWS SDK for Amazon Connect Scheduling |
-| 2026-11-16 20:28:08 | [lokey-ble-macros](https://crates.io/crates/lokey-ble-macros) | 0.0.1 | 0 | BLE transport support for the lokey framework (macro crate) |
-| 2026-11-16 20:29:09 | [lokey-ble](https://crates.io/crates/lokey-ble) | 0.0.1 | 0 | BLE (Bluetooth Low Energy) transport support for the lokey framework |
-| 2026-11-16 20:29:53 | [aws-sdk-opensearchmemory](https://crates.io/crates/aws-sdk-opensearchmemory) | 1.0.0 | 0 | AWS SDK for Amazon OpenSearch Memory |
-| 2026-11-16 20:30:20 | [libacinstaller](https://crates.io/crates/libacinstaller) | 0.0.0 | 0 | Placeholder for Dopame's libacinstaller |
-| 2026-11-16 20:30:24 | [aws-sdk-sagemakerinferencerouterruntime](https://crates.io/crates/aws-sdk-sagemakerinferencerouterruntime) | 1.0.0 | 0 | AWS SDK for Amazon SageMaker Inference Router Runtime |
-| 2026-11-16 20:31:28 | [lokey-usb-macros](https://crates.io/crates/lokey-usb-macros) | 0.0.1 | 0 | USB transport support for the lokey framework (macro crate) |
-| 2026-11-16 20:31:48 | [boatramp-cwt](https://crates.io/crates/boatramp-cwt) | 0.62.0 | 0 | Generic attenuable COSE_Sign1/CWT capability-credential engine (RFC 8392/9052/8… |
-| 2026-11-16 20:32:22 | [lokey-usb](https://crates.io/crates/lokey-usb) | 0.0.1 | 0 | USB transport support for the lokey framework |
-| 2026-11-16 20:32:38 | [boatramp-signer](https://crates.io/crates/boatramp-signer) | 0.62.0 | 0 | External KMS/HSM/Vault signer backends for the boatramp control-plane token iss… |
-| 2026-11-16 20:32:46 | [lokey-usb-ble](https://crates.io/crates/lokey-usb-ble) | 0.0.1 | 0 | Combined USB and BLE transport support for the lokey framework |
-| 2026-11-16 20:37:40 | [sk-lottie](https://crates.io/crates/sk-lottie) | 0.0.0 | 0 | Reserved for Skathi; the crate is published with Skathi 0.3.0 |
-| 2026-11-16 20:38:53 | [ctlup](https://crates.io/crates/ctlup) | 0.1.4 | 0 | Installation and update manager for ctl and ctmux |
-| 2026-11-16 20:39:34 | [gtwy](https://crates.io/crates/gtwy) | 0.0.1 | 0 | Composable HTTP request forwarding with endpoint selection, retries, and stream… |
-| 2026-11-16 20:39:49 | [gtwy-ai](https://crates.io/crates/gtwy-ai) | 0.0.1 | 0 | AI provider routing, model resolution, and usage reporting components for gtwy. |
-| 2026-11-16 20:40:48 | [libackernel](https://crates.io/crates/libackernel) | 0.0.0 | 0 | Placeholder for Dopame's libackernel |
-| 2026-11-16 20:42:55 | [apexuse-mcp](https://crates.io/crates/apexuse-mcp) | 0.2.1 | 0 | Local-first cross-platform Computer Use MCP server using native Accessibility,… |
-| 2026-11-16 20:47:33 | [sk-thorvg-sys](https://crates.io/crates/sk-thorvg-sys) | 0.0.0 | 0 | Reserved for Skathi; the crate is published with Skathi 0.3.0 |
-| 2026-11-16 20:51:15 | [libagentrt](https://crates.io/crates/libagentrt) | 0.0.0 | 0 | Placeholder for Dopame's libagentrt |
-| 2026-11-16 20:51:38 | [frontmatter-spans](https://crates.io/crates/frontmatter-spans) | 0.1.0 | 0 | Detect YAML, TOML and JSON front matter and parse it with a source span on ever… |
-| 2026-11-16 20:52:02 | [fno](https://crates.io/crates/fno) | 0.0.0 | 0 | Name held for the fno v0.1.0 release. Install the real release once it is publi… |
-| 2026-11-16 20:57:11 | [ic-topology](https://crates.io/crates/ic-topology) | 0.108.0 | 0 | Read-only IC infrastructure evidence for Canic topology decisions |
-| 2026-11-16 20:57:34 | [sk-payload](https://crates.io/crates/sk-payload) | 0.0.0 | 0 | Reserved for Skathi; the crate is published with Skathi 0.3.0 |
-| 2026-11-16 20:57:44 | [mlirbinary](https://crates.io/crates/mlirbinary) | 0.2.0 | 0 | Binary formats of MLIR modules in Rust: write and read them as mlirformat IR, w… |
-| 2026-11-16 20:59:41 | [cli-template](https://crates.io/crates/cli-template) | 0.1.0 | 0 | A Rust CLI template project |
-| 2026-11-16 21:00:40 | [libdopame](https://crates.io/crates/libdopame) | 0.0.0 | 0 | Placeholder for Dopame's libdopame |
-| 2026-11-16 21:07:34 | [sk-resample](https://crates.io/crates/sk-resample) | 0.0.0 | 0 | Reserved for Skathi; the crate is published with Skathi 0.3.0 |
-| 2026-11-16 21:08:57 | [mcfilin](https://crates.io/crates/mcfilin) | 0.1.0 | 0 | A file viewer with Miller columns, after NeXTSTEP's File Viewer |
-| 2026-11-16 21:09:57 | [greenbelay-guard](https://crates.io/crates/greenbelay-guard) | 6.0.0 | 0 | greenbelay's guard: shell analysis, rules and stances for an agent's tool calls |
-| 2026-11-16 21:10:13 | [greenbelay-process](https://crates.io/crates/greenbelay-process) | 6.0.0 | 0 | greenbelay's work process: plan review, implementation review, preview approval… |
-| 2026-11-16 21:10:24 | [greenbelay](https://crates.io/crates/greenbelay) | 6.0.0 | 0 | A guard for Claude Code's tool calls: it reads each one before it runs, the wor… |
-| 2026-11-16 21:11:05 | [libacdev](https://crates.io/crates/libacdev) | 0.0.0 | 0 | Placeholder for Dopame's libacdev |
-| 2026-11-16 21:14:19 | [winnowr-xgboost](https://crates.io/crates/winnowr-xgboost) | 0.1.1 | 0 | Statically linked XGBoost (vendored source) with a small safe API, for winnowr. |
-| 2026-11-16 21:14:41 | [winnowr](https://crates.io/crates/winnowr) | 0.1.1 | 0 | Machine-learned genotyping and filtering of germline small-variant calls. |
-| 2026-11-16 21:17:47 | [sk-vpx-sys](https://crates.io/crates/sk-vpx-sys) | 0.0.0 | 0 | Reserved for Skathi; the crate is published with Skathi 0.3.0 |
+| 2026-11-16 21:20:30 | [libacdebin-dbg](https://crates.io/crates/libacdebin-dbg) | 0.0.0 | 0 | Placeholder for Dopame's libacdebin-dbg |
+| 2026-11-16 21:21:14 | [cgp-macro-extra-core](https://crates.io/crates/cgp-macro-extra-core) | 0.8.0-prerelease | 0 | The shared core of CGP's extra procedural macros: their AST types, parsers, and… |
+| 2026-11-16 21:21:16 | [cgp-macro-extra-lib](https://crates.io/crates/cgp-macro-extra-lib) | 0.8.0-prerelease | 0 | The implementation of CGP's extra procedural macros, which lower through cgp-ma… |
+| 2026-11-16 21:21:19 | [cgp-macro-extra](https://crates.io/crates/cgp-macro-extra) | 0.8.0-prerelease | 0 | CGP's extra procedural macros, which define handler providers from functions an… |
+| 2026-11-16 21:22:44 | [cargo-cgp-expand](https://crates.io/crates/cargo-cgp-expand) | 0.1.0-prerelease | 0 | Resugars CGP's type-level constructs in expanded Rust source, for the cargo-cgp… |
+| 2026-11-16 21:25:36 | [taut](https://crates.io/crates/taut) | 0.1.0 | 0 | A Rust GUI library for Windows and Linux that aims to be small, fast and access… |
+| 2026-11-16 21:27:15 | [tvim](https://crates.io/crates/tvim) | 0.1.0 | 0 | A vim-like terminal text editor written in Rust. |
+| 2026-11-16 21:27:34 | [sk-yuv](https://crates.io/crates/sk-yuv) | 0.0.0 | 0 | Reserved for Skathi; the crate is published with Skathi 0.3.0 |
+| 2026-11-16 21:30:57 | [libacdebin-system](https://crates.io/crates/libacdebin-system) | 0.0.0 | 0 | Placeholder for Dopame's libacdebin-system |
+| 2026-11-16 21:32:07 | [lumenc-plugin](https://crates.io/crates/lumenc-plugin) | 0.0.11 | 0 | SDK for lumenc compiler plugins: the CompilerPlugin trait and the C-ABI export… |
+| 2026-11-16 21:32:17 | [lumen-plugin](https://crates.io/crates/lumen-plugin) | 0.0.11 | 0 | SDK for Lumen runtime plugins: the RuntimePlugin trait and the C-ABI export mac… |
+| 2026-11-16 21:34:27 | [paisley-engine-transport](https://crates.io/crates/paisley-engine-transport) | 0.1.0-alpha.1 | 0 | Bounded process transport and inactive-tab residency policy for Paisley |
+| 2026-11-16 21:36:49 | [paisley-cef-gtk](https://crates.io/crates/paisley-cef-gtk) | 0.1.0-alpha.1 | 0 | Paisley's GTK4 CEF adapter with bounded transport |
+| 2026-11-16 21:37:40 | [sk-permissions](https://crates.io/crates/sk-permissions) | 0.0.0 | 0 | Reserved for Skathi; the crate is published with Skathi 0.3.0 |
+| 2026-11-16 21:39:04 | [rust-varlap](https://crates.io/crates/rust-varlap) | 0.1.0-beta.1 | 0 | Quality control tool for genetic variants |
+| 2026-11-16 21:40:21 | [libacde-api](https://crates.io/crates/libacde-api) | 0.0.0 | 0 | Placeholder for Dopame's libacde-api |
+| 2026-11-16 21:41:46 | [plasma-protocol](https://crates.io/crates/plasma-protocol) | 0.2.0 | 0 | Wire types and the OpenAPI contract between the Plasma server and its clients. |
+| 2026-11-16 21:41:47 | [plasma-provider](https://crates.io/crates/plasma-provider) | 0.2.0 | 0 | Streaming model provider clients (Anthropic, OpenAI and compatible) for the Pla… |
+| 2026-11-16 21:41:47 | [plasma-store](https://crates.io/crates/plasma-store) | 0.2.0 | 0 | Plasma's SQLite event store and projections. |
+| 2026-11-16 21:41:48 | [plasma-tools](https://crates.io/crates/plasma-tools) | 0.2.0 | 0 | Built-in file, shell and search tools for the Plasma coding agent. |
+| 2026-11-16 21:41:51 | [plasma-agent](https://crates.io/crates/plasma-agent) | 0.2.0 | 0 | The Plasma agent loop: stream a model step, retry, run tools, repeat. |
+| 2026-11-16 21:42:13 | [dogwood-ops](https://crates.io/crates/dogwood-ops) | 0.0.0 | 0 | Placeholder for the Dogwood operations crate (check, validate, lower, replay, e… |
+| 2026-11-16 21:45:40 | [geocoder-core](https://crates.io/crates/geocoder-core) | 0.2.0 | 0 | Address geocoding and autocomplete ported from addok, with country profiles for… |
+| 2026-11-16 21:46:10 | [generate-license](https://crates.io/crates/generate-license) | 0.1.0 | 0 | Generate license files from SPDX identifiers |
+| 2026-11-16 21:47:34 | [sk-locale](https://crates.io/crates/sk-locale) | 0.0.0 | 0 | Reserved for Skathi; the crate is published with Skathi 0.3.0 |
+| 2026-11-16 21:48:18 | [pairdeck](https://crates.io/crates/pairdeck) | 0.1.0 | 0 | A modern twin-panel terminal file manager in the spirit of Midnight Commander |
+| 2026-11-16 21:50:47 | [libtracefs](https://crates.io/crates/libtracefs) | 0.0.0 | 0 | Placeholder for Dopame's libtracefs |
+| 2026-11-16 21:52:38 | [plasma-mcp](https://crates.io/crates/plasma-mcp) | 0.2.0 | 0 | Model Context Protocol client and server pieces for the Plasma coding agent. |
+| 2026-11-16 21:55:33 | [apache-spark-connect-build](https://crates.io/crates/apache-spark-connect-build) | 4.3.0 | 0 | build.rs helper that compiles Rust WASM UDFs for the Spark Connect client |
+| 2026-11-16 21:55:34 | [apache-spark-connect-macros](https://crates.io/crates/apache-spark-connect-macros) | 4.3.0 | 0 | Procedural macros for the Rust Spark Connect client (e.g. #[spark_wasm_udf]) |
+| 2026-11-16 21:57:34 | [sk-desktop](https://crates.io/crates/sk-desktop) | 0.0.0 | 0 | Reserved for Skathi; the crate is published with Skathi 0.3.0 |
+| 2026-11-16 21:59:51 | [delali-narsil-server](https://crates.io/crates/delali-narsil-server) | 0.1.0 | 0 | Serve one Narsil node over HTTP and WebSocket from a Rust program, with the rou… |
+| 2026-11-16 22:01:15 | [libacde-host](https://crates.io/crates/libacde-host) | 0.0.0 | 0 | Placeholder for Dopame's libacde-host |
+| 2026-11-16 22:03:11 | [plasma-workflow](https://crates.io/crates/plasma-workflow) | 0.2.0 | 0 | Workflow scripting runtime for the Plasma coding agent. |
+| 2026-11-16 22:07:40 | [sk-app](https://crates.io/crates/sk-app) | 0.0.0 | 0 | Reserved for Skathi; the crate is published with Skathi 0.3.0 |
+| 2026-11-16 22:07:52 | [lumenc](https://crates.io/crates/lumenc) | 0.0.11 | 0 | Lumen markup compiler + runner: parse main.lmn / main.css, spawn ECS, run. |
+| 2026-11-16 22:08:45 | [agent-link](https://crates.io/crates/agent-link) | 0.1.0 | 0 | Integrate external AI agents into Rust applications through PTY and structured… |
+| 2026-11-16 22:09:24 | [flightdeck](https://crates.io/crates/flightdeck) | 0.1.0 | 0 | FlightDeck deck cipher and Deck-BO authenticated encryption (TurboSHAKE-BO, SHA… |
+| 2026-11-16 22:10:39 | [libacde-dom](https://crates.io/crates/libacde-dom) | 0.0.0 | 0 | Placeholder for Dopame's libacde-dom |
+| 2026-11-16 22:13:01 | [brrrty-nunjucks](https://crates.io/crates/brrrty-nunjucks) | 0.0.7 | 0 | A Nunjucks template engine that matches Nunjucks 3.2.4 as Eleventy configures i… |
+| 2026-11-16 22:13:30 | [plasma-tui-core](https://crates.io/crates/plasma-tui-core) | 0.2.0 | 0 | Pure reducer state for the Plasma terminal UI, with no I/O. |
+| 2026-11-16 22:17:34 | [skathi](https://crates.io/crates/skathi) | 0.0.0 | 0 | Reserved for Skathi; the crate is published with Skathi 0.3.0 |
 
 ## Data source
 
