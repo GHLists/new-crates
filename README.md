@@ -8,45 +8,61 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-16 16:18 UTC
+## Latest list — 2026-11-16 17:18 UTC
 
-New crates published between 2026-11-16 15:21 UTC and 2026-11-16 16:18 UTC.
+New crates published between 2026-11-16 16:18 UTC and 2026-11-16 17:18 UTC.
 
-[Full CSV](data/new-crates-2026-11-16T16-18-49-722822Z.csv)
+[Full CSV](data/new-crates-2026-11-16T17-18-20-32538Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-16 15:22:39 | [dmarc2](https://crates.io/crates/dmarc2) | 0.1.0 | 0 | RFC 9990-compliant DMARC aggregate report parser |
-| 2026-11-16 15:23:36 | [ibis-mysql](https://crates.io/crates/ibis-mysql) | 0.1.0 | 0 | MySQL backend plugin for ibis-rs |
-| 2026-11-16 15:23:37 | [ibis-trino](https://crates.io/crates/ibis-trino) | 0.1.0 | 0 | Trino backend plugin for ibis-rs |
-| 2026-11-16 15:23:47 | [maplibre-nsh](https://crates.io/crates/maplibre-nsh) | 0.1.0 | 0 | MapLibre maps in Native Shell apps, drawn by mln-rs into a native view |
-| 2026-11-16 15:24:19 | [era2m_hdl](https://crates.io/crates/era2m_hdl) | 0.2.1 | 0 | SpinalHDL-like hardware builder embedded in Rust: the core, its base components… |
-| 2026-11-16 15:25:38 | [webagent](https://crates.io/crates/webagent) | 1.0.0 | 0 | DSL-driven web AI agent for file operations, code modification, and command exe… |
-| 2026-11-16 15:26:20 | [maplibre-whisker](https://crates.io/crates/maplibre-whisker) | 0.1.0 | 0 | MapLibre maps in Whisker apps, drawn by mln-rs into a native view |
-| 2026-11-16 15:31:09 | [acdebin-system](https://crates.io/crates/acdebin-system) | 0.0.0 | 0 | Placeholder for Dopame's acdebin-system |
-| 2026-11-16 15:33:39 | [era2m_ffi_ipc](https://crates.io/crates/era2m_ffi_ipc) | 0.2.1 | 0 | Expose ipc ffi used by Era2m |
-| 2026-11-16 15:35:46 | [presk-format](https://crates.io/crates/presk-format) | 0.18.0 | 0 | Machine number formats as data: a float, an integer or a scaled format by its p… |
-| 2026-11-16 15:40:13 | [ic-platform-protocol](https://crates.io/crates/ic-platform-protocol) | 0.2.2 | 0 | Bounded external protocol formats for IC Platform |
-| 2026-11-16 15:40:29 | [acde-api](https://crates.io/crates/acde-api) | 0.0.0 | 0 | Placeholder for Dopame's acde-api |
-| 2026-11-16 15:41:10 | [scrapeunblocker](https://crates.io/crates/scrapeunblocker) | 0.19.0 | 0 | Official Rust client for the ScrapeUnblocker API - scrape any page past Cloudfl… |
-| 2026-11-16 15:46:42 | [luck_config](https://crates.io/crates/luck_config) | 0.0.0 | 0 | Placeholder that lets luck's release workflow publish luck_config |
-| 2026-11-16 15:47:06 | [azuki](https://crates.io/crates/azuki) | 1.0.0 | 0 | A minimalist parser generator for Rust. |
-| 2026-11-16 15:47:34 | [ra_ap_hir-ide](https://crates.io/crates/ra_ap_hir-ide) | 0.0.1-alpha.1 | 0 | Initial version of ra_ap_hir-ide, do not use |
-| 2026-11-16 15:50:18 | [era2m_ffi_rpc](https://crates.io/crates/era2m_ffi_rpc) | 0.2.1 | 0 | Expose rpc interface used by Era2m |
-| 2026-11-16 15:50:51 | [tracefs](https://crates.io/crates/tracefs) | 0.0.0 | 0 | Placeholder for Dopame's tracefs |
-| 2026-11-16 15:52:42 | [koda-mcp](https://crates.io/crates/koda-mcp) | 0.7.2 | 0 | The MCP client of the Koda AI coding agent: connecting to MCP servers over stdi… |
-| 2026-11-16 15:52:46 | [koda-server](https://crates.io/crates/koda-server) | 0.7.2 | 0 | The host of the Koda AI coding agent: the server end of its client protocol |
-| 2026-11-16 15:53:43 | [era2m_sim_containers](https://crates.io/crates/era2m_sim_containers) | 0.2.1 | 0 | Era2m dedicated containers. |
-| 2026-11-16 16:00:21 | [acde-host](https://crates.io/crates/acde-host) | 0.0.0 | 0 | Placeholder for Dopame's acde-host |
-| 2026-11-16 16:05:35 | [axa-api-tokens](https://crates.io/crates/axa-api-tokens) | 0.1.0 | 0 | Opaque API tokens with a prefix, kept only as a SHA-256 hash, with scopes, expi… |
-| 2026-11-16 16:07:58 | [ikigai-inquiry](https://crates.io/crates/ikigai-inquiry) | 0.1.0 | 0 | Inquiries from public contact forms as ikigai resources: routed into layers by… |
-| 2026-11-16 16:11:00 | [acde-dom](https://crates.io/crates/acde-dom) | 0.0.0 | 0 | Placeholder for Dopame's acde-dom |
-| 2026-11-16 16:11:22 | [mcwpack](https://crates.io/crates/mcwpack) | 0.7.0 | 0 | Prepare a Minecraft Java world for release (filter files, clean empty chunks, z… |
-| 2026-11-16 16:13:38 | [goome-sys](https://crates.io/crates/goome-sys) | 0.5.0 | 0 | Raw bindings to goome, the one file C overlay and ui library. Builds goome.h wi… |
-| 2026-11-16 16:13:40 | [goome](https://crates.io/crates/goome) | 0.5.0 | 0 | Overlays on top of everything, normal desktop apps, or ui inside your game. Saf… |
-| 2026-11-16 16:14:09 | [energyml-views](https://crates.io/crates/energyml-views) | 0.4.0 | 0 | The views of an EnergyML package as pictures: one registry of views, each drawi… |
-| 2026-11-16 16:16:22 | [era2m_sim_macros](https://crates.io/crates/era2m_sim_macros) | 0.2.1 | 0 | Era2m procedural macros |
-| 2026-11-16 16:16:23 | [era2m_sim_output](https://crates.io/crates/era2m_sim_output) | 0.2.1 | 0 | Era2m utility to easily generate parser-ready Log and Trace messages |
+| 2026-11-16 16:20:25 | [acde-runtime](https://crates.io/crates/acde-runtime) | 0.0.0 | 0 | Placeholder for Dopame's acde-runtime |
+| 2026-11-16 16:21:53 | [bulksketch](https://crates.io/crates/bulksketch) | 0.1.0 | 0 | PinSketch (BCH) set-reconciliation sketches over GF(2^64) in pure Rust, with a… |
+| 2026-11-16 16:23:01 | [lopatnov-conduit-ext-proc](https://crates.io/crates/lopatnov-conduit-ext-proc) | 2.4.0 | 0 | External processing filter (Envoy ext_proc protocol over gRPC): config, client… |
+| 2026-11-16 16:30:57 | [acde-render](https://crates.io/crates/acde-render) | 0.0.0 | 0 | Placeholder for Dopame's acde-render |
+| 2026-11-16 16:32:22 | [swm341-hal](https://crates.io/crates/swm341-hal) | 0.1.0 | 0 | HAL for Synwit SWM341 microcontrollers (Arm China STAR-MC1 / Armv8-M Mainline) |
+| 2026-11-16 16:39:44 | [tc_dh_key](https://crates.io/crates/tc_dh_key) | 0.1.0 | 0 | Diffie-Hellman domain parameters, keys, standard groups, and group and key pair… |
+| 2026-11-16 16:40:44 | [acde-storage](https://crates.io/crates/acde-storage) | 0.0.0 | 0 | Placeholder for Dopame's acde-storage |
+| 2026-11-16 16:42:13 | [canary-input](https://crates.io/crates/canary-input) | 0.1.0 | 0 | Canary Engine deterministic gameplay input: action identities, bindings, UI-cap… |
+| 2026-11-16 16:43:15 | [canary-plugin-api](https://crates.io/crates/canary-plugin-api) | 0.1.0 | 0 | Canary Engine plugin trait surface and native (Tier B) plugin loader. |
+| 2026-11-16 16:43:31 | [canary-render-vulkan](https://crates.io/crates/canary-render-vulkan) | 0.1.0 | 0 | Canary Engine RHI backend: Vulkan, via ash. See ADR 0016. |
+| 2026-11-16 16:43:40 | [canary-scheduler](https://crates.io/crates/canary-scheduler) | 0.1.0 | 0 | Canary Engine ECS scheduler: system access declarations and stage-based executi… |
+| 2026-11-16 16:43:45 | [canary-ui-core](https://crates.io/crates/canary-ui-core) | 0.1.0 | 0 | Canary Engine backend-neutral UI boundary: widget traits, capture results, user… |
+| 2026-11-16 16:49:39 | [axum-oidc-middleware](https://crates.io/crates/axum-oidc-middleware) | 0.1.0 | 0 | Bearer-token authentication for Axum against one or more OIDC issuers (Google,… |
+| 2026-11-16 16:51:09 | [paragc-macros](https://crates.io/crates/paragc-macros) | 0.1.0 | 0 | Procedural macros for paragc: #[derive(Trace)] |
+| 2026-11-16 16:51:13 | [mdmore](https://crates.io/crates/mdmore) | 0.1.0 | 0 | more for Markdown: a fast terminal pager with syntax-highlighted code blocks |
+| 2026-11-16 16:51:14 | [acde-media](https://crates.io/crates/acde-media) | 0.0.0 | 0 | Placeholder for Dopame's acde-media |
+| 2026-11-16 16:51:16 | [paragc](https://crates.io/crates/paragc) | 0.1.0 | 0 | A parallel mark-region (Immix-style blocks and lines) garbage collector for Rus… |
+| 2026-11-16 16:54:04 | [canary-transform](https://crates.io/crates/canary-transform) | 0.1.0 | 0 | Canary Engine spatial transforms: local Transform, cached GlobalTransform, hier… |
+| 2026-11-16 16:54:18 | [cant-pack](https://crates.io/crates/cant-pack) | 0.0.4 | 0 | Cans for Cantainer: the format, packing, and installing into the store. |
+| 2026-11-16 16:54:49 | [cant-registry](https://crates.io/crates/cant-registry) | 0.0.4 | 0 | OCI registry push and pull of cans for Cantainer. |
+| 2026-11-16 16:57:01 | [exif-inspect](https://crates.io/crates/exif-inspect) | 0.1.0 | 0 | Bounded metadata extraction from images and media with caller-owned storage |
+| 2026-11-16 16:57:36 | [gyroid](https://crates.io/crates/gyroid) | 0.0.1 | 0 | Modern web-based slicer for 3D printers, with direct Moonraker integration. Sin… |
+| 2026-11-16 16:58:02 | [cosh-whatsapp](https://crates.io/crates/cosh-whatsapp) | 0.1.0 | 0 | WhatsApp Web (multi-device) integration for cosh — pair by QR code, send and re… |
+| 2026-11-16 16:58:54 | [era2m_sim_core](https://crates.io/crates/era2m_sim_core) | 0.2.1 | 0 | Era2m simulation kernel. Leverage Rust-async features for Architecture simulati… |
+| 2026-11-16 16:58:57 | [era2m_sim](https://crates.io/crates/era2m_sim) | 0.2.1 | 0 | Era2m simulation framework |
+| 2026-11-16 16:58:59 | [era2m_cpn](https://crates.io/crates/era2m_cpn) | 0.2.1 | 0 | Era2m common components library |
+| 2026-11-16 16:59:01 | [era2m_hdl_tlm](https://crates.io/crates/era2m_hdl_tlm) | 0.2.1 | 0 | Bridge between era2m TLM components (async) and era2m_hdl cycle-based RTL models |
+| 2026-11-16 16:59:14 | [tower-telemetry](https://crates.io/crates/tower-telemetry) | 0.0.0 | 0 | OpenTelemetry HTTP and messaging spans and HTTP metrics as Tower layers, for hy… |
+| 2026-11-16 16:59:47 | [myrion](https://crates.io/crates/myrion) | 0.1.0 | 0 | A placeholder crate for myrion. |
+| 2026-11-16 17:00:42 | [acde-model](https://crates.io/crates/acde-model) | 0.0.0 | 0 | Placeholder for Dopame's acde-model |
+| 2026-11-16 17:03:25 | [mime-inspect](https://crates.io/crates/mime-inspect) | 0.1.0 | 0 | Allocation-free MIME signature detection with bounded custom magic rules |
+| 2026-11-16 17:03:27 | [teigeodata-core](https://crates.io/crates/teigeodata-core) | 1.0.1 | 0 | Core types of teigeodata: stable IDs, grid coordinates and Hilbert order. no_st… |
+| 2026-11-16 17:03:53 | [teigeodata-blob](https://crates.io/crates/teigeodata-blob) | 1.0.1 | 0 | The columnar result blob of teigeodata: one aligned buffer of typed columns, re… |
+| 2026-11-16 17:04:21 | [teigeodata-names](https://crates.io/crates/teigeodata-names) | 1.0.1 | 0 | Name normalisation and phonetic keys for teigeodata: one code path for the forg… |
+| 2026-11-16 17:04:38 | [canary-ui-egui](https://crates.io/crates/canary-ui-egui) | 0.1.0 | 0 | Canary Engine egui adapter: translates normalized platform input into egui, bui… |
+| 2026-11-16 17:04:50 | [teigeodata-format](https://crates.io/crates/teigeodata-format) | 1.0.1 | 0 | The .tgd pack container of teigeodata: a validating zero-copy reader, and a det… |
+| 2026-11-16 17:05:19 | [teigeodata-sync](https://crates.io/crates/teigeodata-sync) | 1.0.1 | 0 | Downloads, updates and storage of teigeodata packs: the seekable zstd transport… |
+| 2026-11-16 17:06:51 | [era2m_cpu_insn_macros](https://crates.io/crates/era2m_cpu_insn_macros) | 0.2.1 | 0 | Declarative macros for era2m_cpu_iss: instruction definitions, decoder tables (… |
+| 2026-11-16 17:11:07 | [acde-log](https://crates.io/crates/acde-log) | 0.0.0 | 0 | Placeholder for Dopame's acde-log |
+| 2026-11-16 17:13:38 | [teigeodata-engine](https://crates.io/crates/teigeodata-engine) | 1.0.1 | 0 | The layered engine of teigeodata: open packs mapped, verify them lazily, and an… |
+| 2026-11-16 17:14:41 | [zimfile-xapian](https://crates.io/crates/zimfile-xapian) | 0.1.0 | 0 | libzim's Xapian search indexes (read, write, search) in pure Rust: a reimplemen… |
+| 2026-11-16 17:14:44 | [zimfile](https://crates.io/crates/zimfile) | 0.1.0 | 0 | Read and write ZIM archives (Kiwix, openZIM) and their Xapian search indexes in… |
+| 2026-11-16 17:14:47 | [zim-mcp](https://crates.io/crates/zim-mcp) | 0.4.0 | 0 | Offline access to Kiwix ZIM archives (Wikipedia etc.) for any AI tool: MCP serv… |
+| 2026-11-16 17:15:00 | [canary-audio](https://crates.io/crates/canary-audio) | 0.1.0 | 0 | Canary Engine audio: AudioBackend trait + private rodio bootstrap backend, comp… |
+| 2026-11-16 17:15:59 | [era2m_cpu_insn_proc_macros](https://crates.io/crates/era2m_cpu_insn_proc_macros) | 0.2.1 | 0 | Procedural macros for era2m_cpu_iss: instruction derive and CSR definitions. Is… |
+| 2026-11-16 17:17:03 | [ai-ui-markdown-slint](https://crates.io/crates/ai-ui-markdown-slint) | 0.1.0 | 0 | Slint rendering of ai-ui-markdown blocks, with off-thread formatting and a stre… |
+| 2026-11-16 17:17:04 | [ai-ui-slint](https://crates.io/crates/ai-ui-slint) | 0.1.0 | 0 | Slint components with assistant-ui's look: thread, messages, composer, branch p… |
 
 ## Data source
 

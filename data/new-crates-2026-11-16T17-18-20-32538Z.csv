@@ -1,0 +1,48 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-16T16:20:25.262403Z,acde-runtime,0.0.0,0,0,,Placeholder for Dopame's acde-runtime
+2026-11-16T16:21:53.611191Z,bulksketch,0.1.0,0,0,https://github.com/Bulk-trade/bulksketch,"PinSketch (BCH) set-reconciliation sketches over GF(2^64) in pure Rust, with a bounded work budget per decode"
+2026-11-16T16:23:01.528546Z,lopatnov-conduit-ext-proc,2.4.0,0,0,https://github.com/lopatnov/conduit,"External processing filter (Envoy ext_proc protocol over gRPC): config, client and header-mutation rules for conduit (issue #27)"
+2026-11-16T16:30:57.448871Z,acde-render,0.0.0,0,0,,Placeholder for Dopame's acde-render
+2026-11-16T16:32:22.69481Z,swm341-hal,0.1.0,0,0,https://github.com/hysonglet/swm341-hal,HAL for Synwit SWM341 microcontrollers (Arm China STAR-MC1 / Armv8-M Mainline)
+2026-11-16T16:39:44.830211Z,tc_dh_key,0.1.0,0,0,https://github.com/TomiCheng/tc_asym_cipher,"Diffie-Hellman domain parameters, keys, standard groups, and group and key pair generation, after Bouncy Castle."
+2026-11-16T16:40:44.19687Z,acde-storage,0.0.0,0,0,,Placeholder for Dopame's acde-storage
+2026-11-16T16:42:13.687179Z,canary-input,0.1.0,0,0,https://github.com/HylightGames/canary,"Canary Engine deterministic gameplay input: action identities, bindings, UI-capture routing, and per-frame SimulationInput snapshots."
+2026-11-16T16:43:15.579674Z,canary-plugin-api,0.1.0,0,0,https://github.com/HylightGames/canary,Canary Engine plugin trait surface and native (Tier B) plugin loader.
+2026-11-16T16:43:31.48299Z,canary-render-vulkan,0.1.0,0,0,https://github.com/HylightGames/canary,"Canary Engine RHI backend: Vulkan, via ash. See ADR 0016."
+2026-11-16T16:43:40.048899Z,canary-scheduler,0.1.0,0,0,https://github.com/HylightGames/canary,Canary Engine ECS scheduler: system access declarations and stage-based execution.
+2026-11-16T16:43:45.996281Z,canary-ui-core,0.1.0,0,0,https://github.com/HylightGames/canary,"Canary Engine backend-neutral UI boundary: widget traits, capture results, user intents, and renderer-independent paint output. Game code depends on this crate, never on a UI backend directly."
+2026-11-16T16:49:39.939741Z,axum-oidc-middleware,0.1.0,0,0,https://github.com/thomascjohnson/axum_oidc_middleware,"Bearer-token authentication for Axum against one or more OIDC issuers (Google, Keycloak, ...)"
+2026-11-16T16:51:09.921481Z,paragc-macros,0.1.0,0,0,https://github.com/0x00-Community/paragc,Procedural macros for paragc: #[derive(Trace)]
+2026-11-16T16:51:13.958514Z,mdmore,0.1.0,0,0,https://github.com/TheChasman/mdmore,more for Markdown: a fast terminal pager with syntax-highlighted code blocks
+2026-11-16T16:51:14.847141Z,acde-media,0.0.0,0,0,,Placeholder for Dopame's acde-media
+2026-11-16T16:51:16.959717Z,paragc,0.1.0,0,0,https://github.com/0x00-Community/paragc,"A parallel mark-region (Immix-style blocks and lines) garbage collector for Rust: non-moving, lock-free allocation from many threads, parallel marking with work stealing and parallel sweeping"
+2026-11-16T16:54:04.390243Z,canary-transform,0.1.0,0,0,https://github.com/HylightGames/canary,"Canary Engine spatial transforms: local Transform, cached GlobalTransform, hierarchy, and propagation."
+2026-11-16T16:54:18.091817Z,cant-pack,0.0.4,0,0,https://github.com/cantainer/cantainer,"Cans for Cantainer: the format, packing, and installing into the store."
+2026-11-16T16:54:49.752182Z,cant-registry,0.0.4,0,0,https://github.com/cantainer/cantainer,OCI registry push and pull of cans for Cantainer.
+2026-11-16T16:57:01.917543Z,exif-inspect,0.1.0,0,0,https://github.com/jcalcote/exif-rs,Bounded metadata extraction from images and media with caller-owned storage
+2026-11-16T16:57:36.246179Z,gyroid,0.0.1,0,0,https://github.com/theitlab-dev/gyroid,"Modern web-based slicer for 3D printers, with direct Moonraker integration. Single binary, no runtime."
+2026-11-16T16:58:02.114506Z,cosh-whatsapp,0.1.0,0,0,https://github.com/DiegoZaluski/co-sh,"WhatsApp Web (multi-device) integration for cosh — pair by QR code, send and receive messages"
+2026-11-16T16:58:54.577497Z,era2m_sim_core,0.2.1,0,0,https://gitlab.com/era2m/era2m_sim,Era2m simulation kernel. Leverage Rust-async features for Architecture simulation
+2026-11-16T16:58:57.162463Z,era2m_sim,0.2.1,0,0,https://gitlab.com/era2m/era2m_sim,Era2m simulation framework
+2026-11-16T16:58:59.277371Z,era2m_cpn,0.2.1,0,0,https://gitlab.com/era2m/era2m_sim,Era2m common components library
+2026-11-16T16:59:01.898777Z,era2m_hdl_tlm,0.2.1,0,0,https://gitlab.com/era2m/era2m_sim,Bridge between era2m TLM components (async) and era2m_hdl cycle-based RTL models
+2026-11-16T16:59:14.597665Z,tower-telemetry,0.0.0,0,0,https://github.com/butlerx/tower-telemetry,"OpenTelemetry HTTP and messaging spans and HTTP metrics as Tower layers, for hyper and axum servers and message consumers."
+2026-11-16T16:59:47.612913Z,myrion,0.1.0,0,0,https://github.com/hktcode/myrion-rs,A placeholder crate for myrion.
+2026-11-16T17:00:42.340042Z,acde-model,0.0.0,0,0,,Placeholder for Dopame's acde-model
+2026-11-16T17:03:25.16453Z,mime-inspect,0.1.0,0,0,https://github.com/jcalcote/mime-rs,Allocation-free MIME signature detection with bounded custom magic rules
+2026-11-16T17:03:27.335387Z,teigeodata-core,1.0.1,0,0,https://github.com/teispace/teigeodata,"Core types of teigeodata: stable IDs, grid coordinates and Hilbert order. no_std, no dependencies."
+2026-11-16T17:03:53.362201Z,teigeodata-blob,1.0.1,0,0,https://github.com/teispace/teigeodata,"The columnar result blob of teigeodata: one aligned buffer of typed columns, read as views in every language."
+2026-11-16T17:04:21.060098Z,teigeodata-names,1.0.1,0,0,https://github.com/teispace/teigeodata,Name normalisation and phonetic keys for teigeodata: one code path for the forge and the runtime.
+2026-11-16T17:04:38.355637Z,canary-ui-egui,0.1.0,0,0,https://github.com/HylightGames/canary,"Canary Engine egui adapter: translates normalized platform input into egui, builds HUD widgets through the canary-ui-core traits, and converts tessellated output to renderer-independent paint data."
+2026-11-16T17:04:50.814458Z,teigeodata-format,1.0.1,0,0,https://github.com/teispace/teigeodata,"The .tgd pack container of teigeodata: a validating zero-copy reader, and a deterministic writer."
+2026-11-16T17:05:19.082827Z,teigeodata-sync,1.0.1,0,0,https://github.com/teispace/teigeodata,"Downloads, updates and storage of teigeodata packs: the seekable zstd transport, its seek-table reader and frame planner."
+2026-11-16T17:06:51.004393Z,era2m_cpu_insn_macros,0.2.1,0,0,https://gitlab.com/era2m/era2m_cpu,"Declarative macros for era2m_cpu_iss: instruction definitions, decoder tables (simple map, tree map) and instruction categories. Issued from Terminus ISS written by shady831213"
+2026-11-16T17:11:07.082536Z,acde-log,0.0.0,0,0,,Placeholder for Dopame's acde-log
+2026-11-16T17:13:38.653337Z,teigeodata-engine,1.0.1,0,0,https://github.com/teispace/teigeodata,"The layered engine of teigeodata: open packs mapped, verify them lazily, and answer queries across every installed pack as one dataset."
+2026-11-16T17:14:41.358012Z,zimfile-xapian,0.1.0,0,0,https://github.com/gordonbrander/zim-mcp,"libzim's Xapian search indexes (read, write, search) in pure Rust: a reimplementation, not bindings"
+2026-11-16T17:14:44.84627Z,zimfile,0.1.0,0,0,https://github.com/gordonbrander/zim-mcp,"Read and write ZIM archives (Kiwix, openZIM) and their Xapian search indexes in pure Rust"
+2026-11-16T17:14:47.906856Z,zim-mcp,0.4.0,0,0,https://github.com/gordonbrander/zim-mcp,"Offline access to Kiwix ZIM archives (Wikipedia etc.) for any AI tool: MCP server, library manager and Markdown export"
+2026-11-16T17:15:00.807955Z,canary-audio,0.1.0,0,0,https://github.com/HylightGames/canary,"Canary Engine audio: AudioBackend trait + private rodio bootstrap backend, components, trigger system. See docs/architecture/audio.md and ADR 0023."
+2026-11-16T17:15:59.539374Z,era2m_cpu_insn_proc_macros,0.2.1,0,0,https://gitlab.com/era2m/era2m_cpu,Procedural macros for era2m_cpu_iss: instruction derive and CSR definitions. Issued from Terminus ISS written by shady831213
+2026-11-16T17:17:03.045286Z,ai-ui-markdown-slint,0.1.0,0,0,https://github.com/iyiolacak/ai-ui-rewrite-rust,"Slint rendering of ai-ui-markdown blocks, with off-thread formatting and a streaming cache."
+2026-11-16T17:17:04.479476Z,ai-ui-slint,0.1.0,0,0,https://github.com/iyiolacak/ai-ui-rewrite-rust,"Slint components with assistant-ui's look: thread, messages, composer, branch picker, actions, reasoning, tools, Markdown."
