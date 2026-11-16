@@ -1,0 +1,14 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-16T08:21:51.851601Z,netsecops,0.1.0,0,0,https://github.com/DBISHT4U/NetSecOPS,"⚡ A blazing-fast CLI toolkit for network security operations — firewall auditing, proxy log parsing, SSL cert checking, and more."
+2026-11-16T08:30:57.23244Z,whambam,1.1.0,0,0,https://github.com/cloudy-native/whambam.dev,Fast HTTP(S) load testing with a live terminal UI and hey-compatible flags
+2026-11-16T08:40:49.79223Z,bulkparse,0.1.0,0,0,https://github.com/bulkgrid/bulkparse,Portable document conversion with structured output and explicit diagnostics
+2026-11-16T08:41:06.548679Z,bulkparse-ocr,0.1.0,0,0,https://github.com/bulkgrid/bulkparse,Optional supervised OCR provider for BulkParse
+2026-11-16T08:43:23.531679Z,bulkparse-ocr-native,0.1.0,0,0,https://github.com/bulkgrid/bulkparse,"Native OCR, scanned table extraction and PDF rendering for BulkParse"
+2026-11-16T08:43:36.669843Z,mpc-sample-sdk,0.7.0,0,0,https://github.com/ioma8/mpc-sample-sdk,Rust mod SDK for the Akai MPC Sample firmware
+2026-11-16T08:43:38.852016Z,bulkparse-pool,0.1.0,0,0,https://github.com/bulkgrid/bulkparse,Optional bounded process host for BulkParse
+2026-11-16T08:44:07.122006Z,bulkparse-cli,0.1.0,0,0,https://github.com/bulkgrid/bulkparse,Command line interface for BulkParse
+2026-11-16T08:45:14.091339Z,svg3dx-core,0.1.1,0,0,https://github.com/xiaohunqupo/svg3dx-core,Kernel-agnostic parser and evaluator for the svg3dx format
+2026-11-16T08:46:19.395471Z,hypr2niri,0.5.0,0,0,https://github.com/Pisosenie/apolline,"Turns a Hyprland config, hyprland.conf or hyprland.lua of any version, into a niri config"
+2026-11-16T08:53:50.036186Z,specify-core,0.1.16,0,0,https://github.com/pzfreo/specify-core,Interview-driven AP242 PMI authoring for STEP parts (Rust port of specify-core)
+2026-11-16T08:56:54.344853Z,fpeg-cli,0.0.0,0,0,https://github.com/schwimmbeck/fpeg,"The fpeg command: checks PEG grammars, parses inputs and profiles a parse. In development, this release holds no code yet"
+2026-11-16T09:13:26.369579Z,wasmtime-dylink,0.1.0,0,0,https://github.com/ediskandarov/wasmtime-dylink,A dylink.0 shared-library loader built on the public Wasmtime API
