@@ -1,0 +1,24 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-16T11:20:06.710241Z,uncl,0.1.13,0,0,https://github.com/even-zero/uncl,"a single, toggleable, resizable floating terminal window as an accomplice to your worst terminal misdeeds"
+2026-11-16T11:21:13.359811Z,haest-mods,0.1.0,0,0,https://github.com/haest-werk/haest,haest mods: change how haest behaves without forking it. Native Rust mods and .js/.ts mod files in embedded QuickJS
+2026-11-16T11:22:35.38427Z,iktinos-live,0.1.0,0,0,https://github.com/td72/iktinos,Live events for iktinos: the event protocol spoken by the iktinos-bridge mod and the Unix-socket server that receives it
+2026-11-16T11:22:43.141444Z,iktinos-tui,0.1.0,0,0,https://github.com/td72/iktinos,A small terminal viewer for the Claude Code sessions on this machine
+2026-11-16T11:23:09.53018Z,dicepack,0.1.0,0,0,https://github.com/dubaua/dicepack-rust,Fast dice notation roller with normalization and probability distribution analysis.
+2026-11-16T11:25:42.340643Z,ikit-mcp,0.1.1,0,0,https://github.com/kaushik-xs/ikit,ikit MCP server: exposes ikit tools to AI agents over stdio or HTTP
+2026-11-16T11:27:22.647248Z,atm-org,0.4.0,0,0,https://github.com/damelLP/agent-tmux-manager,Pure organisation state and event replay for ATM
+2026-11-16T11:27:44.921951Z,irisui-workbench,0.1.0-alpha.1,0,0,,Desktop IDE and Professional Workbench Application Shell Framework for Iris UI
+2026-11-16T11:29:58.144518Z,banner-exchange,0.1.0,0,0,https://codeberg.org/YGGverse/banner-exchange,Good old banner exchange platform
+2026-11-16T11:31:15.000911Z,haest-config,0.1.0,0,0,https://github.com/haest-werk/haest,"haest's settings loader: a builder over TOML files, HAEST_* variables and flags, laid in the order a host adds them, into the values the runtime is handed"
+2026-11-16T11:34:30.4905Z,ikit-tui,0.1.1,0,0,https://github.com/kaushik-xs/ikit,ikit: a terminal UI over the ikit CLI
+2026-11-16T11:38:27.47354Z,irisui,0.1.0-alpha.1,0,0,,GPU-accelerated Retained-Mode UI framework for games and creative software
+2026-11-16T11:40:06.999953Z,rsenml,0.9.2,0,0,https://github.com/nhenehan/rsenml,"RFC 8428 Sensor Measurement Lists (SenML/SenSML) in JSON, CBOR, XML and EXI; no_std + alloc"
+2026-11-16T11:41:17.351677Z,haest-runtime,0.1.0,0,0,https://github.com/haest-werk/haest,"haest assembled from its settings: providers, workspace, tools, MCP, mods, subagents and the session file, for any host with a UI"
+2026-11-16T11:44:38.21385Z,ikit-cli,0.1.1,0,0,https://github.com/kaushik-xs/ikit,"ikit: create, update, destroy and manage infrastructure components"
+2026-11-16T11:51:17.729478Z,haest,0.1.0,0,0,https://github.com/haest-werk/haest,"haest: an agent loop and tool harness you embed. One dependency, features pick the parts"
+2026-11-16T11:52:02.905081Z,myke,1.2.1,0,0,https://github.com/Multigriffes-org/Myke,This is a custom CLI to automatically compile small C/C++ project
+2026-11-16T12:01:18.33868Z,haest-cli,0.1.0,0,0,https://github.com/haest-werk/haest,"haest, the command line agent"
+2026-11-16T12:12:56.914914Z,s-md-slides,0.1.0,0,0,https://github.com/Abdulkader-Safi/s-md-slides,Free-canvas slide decks stored in one readable markdown file
+2026-11-16T12:13:11.270109Z,s-md-slides-render,0.1.0,0,0,https://github.com/Abdulkader-Safi/s-md-slides,"Native export for s-md-slides decks: PNG, JPEG, GIF and PDF with selectable text"
+2026-11-16T12:13:31.065604Z,s-md-slides-cli,0.1.0,0,0,https://github.com/Abdulkader-Safi/s-md-slides,"The s-md-slides command: validate, export, serve and apply for markdown slide decks"
+2026-11-16T12:14:48.198097Z,rubricate,0.1.0,0,0,https://github.com/mdegans/rubricate,"A small, dependency-free tokeniser for highlighting code blocks by rule. Linear time, no unsafe."
+2026-11-16T12:17:46.599501Z,x80-core,0.1.0,0,0,https://github.com/unemu-org/x80,Guest-agnostic Intel 8080-family interpreter core.

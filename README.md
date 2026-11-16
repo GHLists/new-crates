@@ -8,46 +8,37 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-16 11:18 UTC
+## Latest list — 2026-11-16 12:21 UTC
 
-New crates published between 2026-11-16 10:20 UTC and 2026-11-16 11:18 UTC.
+New crates published between 2026-11-16 11:18 UTC and 2026-11-16 12:21 UTC.
 
-[Full CSV](data/new-crates-2026-11-16T11-18-41-890647Z.csv)
+[Full CSV](data/new-crates-2026-11-16T12-21-08-818334Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-16 10:26:56 | [yoobi-cli](https://crates.io/crates/yoobi-cli) | 0.1.3 | 0 | Read and browse Yoobi timesheets from the command line |
-| 2026-11-16 10:36:47 | [chroven](https://crates.io/crates/chroven) | 0.1.0 | 0 | Owned Chrome processes with full typed CDP access |
-| 2026-11-16 10:40:45 | [haest-core](https://crates.io/crates/haest-core) | 0.1.0 | 0 | haest's agent loop and the contracts every plug-in implements: Provider, Tool,… |
-| 2026-11-16 10:41:07 | [haest-ts](https://crates.io/crates/haest-ts) | 0.1.0 | 0 | TypeScript to JavaScript for haest's embedded QuickJS: swc's type stripper, lin… |
-| 2026-11-16 10:41:38 | [haest-workspace](https://crates.io/crates/haest-workspace) | 0.1.0 | 0 | Workspaces for haest: the real disk + bash, and a bashkit sandbox over a copy-o… |
-| 2026-11-16 10:41:54 | [haest-tools](https://crates.io/crates/haest-tools) | 0.1.0 | 0 | haest's built-in tools: Read, Write, Edit, Glob, Grep, Bash, WebFetch, tasks, T… |
-| 2026-11-16 10:42:17 | [haest-code](https://crates.io/crates/haest-code) | 0.1.0 | 0 | haest's JavaScript engine (embedded QuickJS): the Code tool, which calls haest'… |
-| 2026-11-16 10:44:01 | [highrise-rs](https://crates.io/crates/highrise-rs) | 0.1.1 | 0 | Fast async Rust SDK and MCP server for the Highrise Bot WebSocket and Web REST… |
-| 2026-11-16 10:48:22 | [hardviz](https://crates.io/crates/hardviz) | 0.1.5 | 0 | Hardware monitoring dashboard: CPU, GPU, memory, temperatures, network and disks |
-| 2026-11-16 10:51:12 | [haest-providers](https://crates.io/crates/haest-providers) | 0.1.0 | 0 | Model API adapters for haest: Anthropic Messages, OpenAI Chat Completions + Res… |
-| 2026-11-16 10:56:13 | [starkom-scpf](https://crates.io/crates/starkom-scpf) | 1.0.1 | 0 | The encoder of the Starkom Compact Proof Format (SCPF) for EVM verifiers. |
-| 2026-11-16 10:58:36 | [drr-channel](https://crates.io/crates/drr-channel) | 0.1.0 | 0 | Async channel with one queue per sender, served by deficit round robin: fair sh… |
-| 2026-11-16 11:01:09 | [haest-settings](https://crates.io/crates/haest-settings) | 0.1.0 | 0 | haest's settings as plain values: what a conversation is built from. No files,… |
-| 2026-11-16 11:01:24 | [irisui-core](https://crates.io/crates/irisui-core) | 0.1.0-alpha.1 | 0 | Core safe arena graph, geometry, and styling data structures for Iris UI |
-| 2026-11-16 11:01:44 | [irisui-layout](https://crates.io/crates/irisui-layout) | 0.1.0-alpha.1 | 0 | Taffy-based layout engine adapter and caching subsystem for Iris UI |
-| 2026-11-16 11:02:06 | [irisui-text](https://crates.io/crates/irisui-text) | 0.1.0-alpha.1 | 0 | GPU typography, font shaping, and glyph caching engine for Iris UI |
-| 2026-11-16 11:02:11 | [irisui-wgpu](https://crates.io/crates/irisui-wgpu) | 0.1.0-alpha.1 | 0 | GPU SDF rendering pipeline and shader backend for Iris UI |
-| 2026-11-16 11:02:43 | [irisui-widgets](https://crates.io/crates/irisui-widgets) | 0.1.0-alpha.1 | 0 | Standard widget set and game-engine editor components for Iris UI |
-| 2026-11-16 11:03:38 | [stalzone-api](https://crates.io/crates/stalzone-api) | 0.1.0 | 0 | Unofficial asynchronous Rust client for the STALZONE API |
-| 2026-11-16 11:07:11 | [irisui-dock](https://crates.io/crates/irisui-dock) | 0.1.0-alpha.1 | 0 | Binary Split-Tree Docking and multi-pane management engine for Iris UI |
-| 2026-11-16 11:09:31 | [git-twig](https://crates.io/crates/git-twig) | 0.1.0 | 0 | Lightweight Git worktrees using native copy-on-write files |
-| 2026-11-16 11:11:11 | [haest-mcp](https://crates.io/crates/haest-mcp) | 0.1.0 | 0 | haest's MCP client: connects MCP servers (stdio, streamable HTTP) and offers th… |
-| 2026-11-16 11:14:43 | [ikit-core](https://crates.io/crates/ikit-core) | 0.1.1 | 0 | ikit domain model and validation |
-| 2026-11-16 11:15:04 | [ikit-net](https://crates.io/crates/ikit-net) | 0.1.1 | 0 | ikit networking: the ZeroTier Central API v2 client and zerotier-cli output par… |
-| 2026-11-16 11:15:10 | [ikit-provider](https://crates.io/crates/ikit-provider) | 0.1.1 | 0 | ikit deploy providers: rendering workloads for Docker Compose (Kubernetes later) |
-| 2026-11-16 11:15:33 | [termtrace-sdk-server](https://crates.io/crates/termtrace-sdk-server) | 0.1.1 | 0 | JSON-RPC server that exposes the Termtrace SDK to clients in other languages |
-| 2026-11-16 11:15:45 | [ikit-state](https://crates.io/crates/ikit-state) | 0.1.1 | 0 | ikit state store: StateStore trait and the SQLite backend |
-| 2026-11-16 11:17:01 | [irisui-winit](https://crates.io/crates/irisui-winit) | 0.1.0-alpha.1 | 0 | Winit platform windowing adapter and event bridge for Iris UI |
-| 2026-11-16 11:18:04 | [dayzmake-core](https://crates.io/crates/dayzmake-core) | 0.2.0 | 0 | Readers and writers for DayZ file formats: PBO, rapified config, P3D, PAA, BI k… |
-| 2026-11-16 11:18:17 | [iktinos](https://crates.io/crates/iktinos) | 0.1.0 | 0 | Claude Code sessions as data: read the local transcripts (~/.claude/projects) i… |
-| 2026-11-16 11:18:26 | [dayzmake](https://crates.io/crates/dayzmake) | 3.0.0 | 0 | DayZ modding tools |
-| 2026-11-16 11:18:27 | [ikit-app](https://crates.io/crates/ikit-app) | 0.1.1 | 0 | ikit use cases shared by the CLI and the MCP server |
+| 2026-11-16 11:20:06 | [uncl](https://crates.io/crates/uncl) | 0.1.13 | 0 | a single, toggleable, resizable floating terminal window as an accomplice to yo… |
+| 2026-11-16 11:21:13 | [haest-mods](https://crates.io/crates/haest-mods) | 0.1.0 | 0 | haest mods: change how haest behaves without forking it. Native Rust mods and .… |
+| 2026-11-16 11:22:35 | [iktinos-live](https://crates.io/crates/iktinos-live) | 0.1.0 | 0 | Live events for iktinos: the event protocol spoken by the iktinos-bridge mod an… |
+| 2026-11-16 11:22:43 | [iktinos-tui](https://crates.io/crates/iktinos-tui) | 0.1.0 | 0 | A small terminal viewer for the Claude Code sessions on this machine |
+| 2026-11-16 11:23:09 | [dicepack](https://crates.io/crates/dicepack) | 0.1.0 | 0 | Fast dice notation roller with normalization and probability distribution analy… |
+| 2026-11-16 11:25:42 | [ikit-mcp](https://crates.io/crates/ikit-mcp) | 0.1.1 | 0 | ikit MCP server: exposes ikit tools to AI agents over stdio or HTTP |
+| 2026-11-16 11:27:22 | [atm-org](https://crates.io/crates/atm-org) | 0.4.0 | 0 | Pure organisation state and event replay for ATM |
+| 2026-11-16 11:27:44 | [irisui-workbench](https://crates.io/crates/irisui-workbench) | 0.1.0-alpha.1 | 0 | Desktop IDE and Professional Workbench Application Shell Framework for Iris UI |
+| 2026-11-16 11:29:58 | [banner-exchange](https://crates.io/crates/banner-exchange) | 0.1.0 | 0 | Good old banner exchange platform |
+| 2026-11-16 11:31:15 | [haest-config](https://crates.io/crates/haest-config) | 0.1.0 | 0 | haest's settings loader: a builder over TOML files, HAEST_* variables and flags… |
+| 2026-11-16 11:34:30 | [ikit-tui](https://crates.io/crates/ikit-tui) | 0.1.1 | 0 | ikit: a terminal UI over the ikit CLI |
+| 2026-11-16 11:38:27 | [irisui](https://crates.io/crates/irisui) | 0.1.0-alpha.1 | 0 | GPU-accelerated Retained-Mode UI framework for games and creative software |
+| 2026-11-16 11:40:06 | [rsenml](https://crates.io/crates/rsenml) | 0.9.2 | 0 | RFC 8428 Sensor Measurement Lists (SenML/SenSML) in JSON, CBOR, XML and EXI; no… |
+| 2026-11-16 11:41:17 | [haest-runtime](https://crates.io/crates/haest-runtime) | 0.1.0 | 0 | haest assembled from its settings: providers, workspace, tools, MCP, mods, suba… |
+| 2026-11-16 11:44:38 | [ikit-cli](https://crates.io/crates/ikit-cli) | 0.1.1 | 0 | ikit: create, update, destroy and manage infrastructure components |
+| 2026-11-16 11:51:17 | [haest](https://crates.io/crates/haest) | 0.1.0 | 0 | haest: an agent loop and tool harness you embed. One dependency, features pick… |
+| 2026-11-16 11:52:02 | [myke](https://crates.io/crates/myke) | 1.2.1 | 0 | This is a custom CLI to automatically compile small C/C++ project |
+| 2026-11-16 12:01:18 | [haest-cli](https://crates.io/crates/haest-cli) | 0.1.0 | 0 | haest, the command line agent |
+| 2026-11-16 12:12:56 | [s-md-slides](https://crates.io/crates/s-md-slides) | 0.1.0 | 0 | Free-canvas slide decks stored in one readable markdown file |
+| 2026-11-16 12:13:11 | [s-md-slides-render](https://crates.io/crates/s-md-slides-render) | 0.1.0 | 0 | Native export for s-md-slides decks: PNG, JPEG, GIF and PDF with selectable text |
+| 2026-11-16 12:13:31 | [s-md-slides-cli](https://crates.io/crates/s-md-slides-cli) | 0.1.0 | 0 | The s-md-slides command: validate, export, serve and apply for markdown slide d… |
+| 2026-11-16 12:14:48 | [rubricate](https://crates.io/crates/rubricate) | 0.1.0 | 0 | A small, dependency-free tokeniser for highlighting code blocks by rule. Linear… |
+| 2026-11-16 12:17:46 | [x80-core](https://crates.io/crates/x80-core) | 0.1.0 | 0 | Guest-agnostic Intel 8080-family interpreter core. |
 
 ## Data source
 
