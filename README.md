@@ -8,61 +8,67 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-16 17:18 UTC
+## Latest list — 2026-11-16 18:21 UTC
 
-New crates published between 2026-11-16 16:18 UTC and 2026-11-16 17:18 UTC.
+New crates published between 2026-11-16 17:18 UTC and 2026-11-16 18:21 UTC.
 
-[Full CSV](data/new-crates-2026-11-16T17-18-20-32538Z.csv)
+[Full CSV](data/new-crates-2026-11-16T18-21-07-26933Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-16 16:20:25 | [acde-runtime](https://crates.io/crates/acde-runtime) | 0.0.0 | 0 | Placeholder for Dopame's acde-runtime |
-| 2026-11-16 16:21:53 | [bulksketch](https://crates.io/crates/bulksketch) | 0.1.0 | 0 | PinSketch (BCH) set-reconciliation sketches over GF(2^64) in pure Rust, with a… |
-| 2026-11-16 16:23:01 | [lopatnov-conduit-ext-proc](https://crates.io/crates/lopatnov-conduit-ext-proc) | 2.4.0 | 0 | External processing filter (Envoy ext_proc protocol over gRPC): config, client… |
-| 2026-11-16 16:30:57 | [acde-render](https://crates.io/crates/acde-render) | 0.0.0 | 0 | Placeholder for Dopame's acde-render |
-| 2026-11-16 16:32:22 | [swm341-hal](https://crates.io/crates/swm341-hal) | 0.1.0 | 0 | HAL for Synwit SWM341 microcontrollers (Arm China STAR-MC1 / Armv8-M Mainline) |
-| 2026-11-16 16:39:44 | [tc_dh_key](https://crates.io/crates/tc_dh_key) | 0.1.0 | 0 | Diffie-Hellman domain parameters, keys, standard groups, and group and key pair… |
-| 2026-11-16 16:40:44 | [acde-storage](https://crates.io/crates/acde-storage) | 0.0.0 | 0 | Placeholder for Dopame's acde-storage |
-| 2026-11-16 16:42:13 | [canary-input](https://crates.io/crates/canary-input) | 0.1.0 | 0 | Canary Engine deterministic gameplay input: action identities, bindings, UI-cap… |
-| 2026-11-16 16:43:15 | [canary-plugin-api](https://crates.io/crates/canary-plugin-api) | 0.1.0 | 0 | Canary Engine plugin trait surface and native (Tier B) plugin loader. |
-| 2026-11-16 16:43:31 | [canary-render-vulkan](https://crates.io/crates/canary-render-vulkan) | 0.1.0 | 0 | Canary Engine RHI backend: Vulkan, via ash. See ADR 0016. |
-| 2026-11-16 16:43:40 | [canary-scheduler](https://crates.io/crates/canary-scheduler) | 0.1.0 | 0 | Canary Engine ECS scheduler: system access declarations and stage-based executi… |
-| 2026-11-16 16:43:45 | [canary-ui-core](https://crates.io/crates/canary-ui-core) | 0.1.0 | 0 | Canary Engine backend-neutral UI boundary: widget traits, capture results, user… |
-| 2026-11-16 16:49:39 | [axum-oidc-middleware](https://crates.io/crates/axum-oidc-middleware) | 0.1.0 | 0 | Bearer-token authentication for Axum against one or more OIDC issuers (Google,… |
-| 2026-11-16 16:51:09 | [paragc-macros](https://crates.io/crates/paragc-macros) | 0.1.0 | 0 | Procedural macros for paragc: #[derive(Trace)] |
-| 2026-11-16 16:51:13 | [mdmore](https://crates.io/crates/mdmore) | 0.1.0 | 0 | more for Markdown: a fast terminal pager with syntax-highlighted code blocks |
-| 2026-11-16 16:51:14 | [acde-media](https://crates.io/crates/acde-media) | 0.0.0 | 0 | Placeholder for Dopame's acde-media |
-| 2026-11-16 16:51:16 | [paragc](https://crates.io/crates/paragc) | 0.1.0 | 0 | A parallel mark-region (Immix-style blocks and lines) garbage collector for Rus… |
-| 2026-11-16 16:54:04 | [canary-transform](https://crates.io/crates/canary-transform) | 0.1.0 | 0 | Canary Engine spatial transforms: local Transform, cached GlobalTransform, hier… |
-| 2026-11-16 16:54:18 | [cant-pack](https://crates.io/crates/cant-pack) | 0.0.4 | 0 | Cans for Cantainer: the format, packing, and installing into the store. |
-| 2026-11-16 16:54:49 | [cant-registry](https://crates.io/crates/cant-registry) | 0.0.4 | 0 | OCI registry push and pull of cans for Cantainer. |
-| 2026-11-16 16:57:01 | [exif-inspect](https://crates.io/crates/exif-inspect) | 0.1.0 | 0 | Bounded metadata extraction from images and media with caller-owned storage |
-| 2026-11-16 16:57:36 | [gyroid](https://crates.io/crates/gyroid) | 0.0.1 | 0 | Modern web-based slicer for 3D printers, with direct Moonraker integration. Sin… |
-| 2026-11-16 16:58:02 | [cosh-whatsapp](https://crates.io/crates/cosh-whatsapp) | 0.1.0 | 0 | WhatsApp Web (multi-device) integration for cosh — pair by QR code, send and re… |
-| 2026-11-16 16:58:54 | [era2m_sim_core](https://crates.io/crates/era2m_sim_core) | 0.2.1 | 0 | Era2m simulation kernel. Leverage Rust-async features for Architecture simulati… |
-| 2026-11-16 16:58:57 | [era2m_sim](https://crates.io/crates/era2m_sim) | 0.2.1 | 0 | Era2m simulation framework |
-| 2026-11-16 16:58:59 | [era2m_cpn](https://crates.io/crates/era2m_cpn) | 0.2.1 | 0 | Era2m common components library |
-| 2026-11-16 16:59:01 | [era2m_hdl_tlm](https://crates.io/crates/era2m_hdl_tlm) | 0.2.1 | 0 | Bridge between era2m TLM components (async) and era2m_hdl cycle-based RTL models |
-| 2026-11-16 16:59:14 | [tower-telemetry](https://crates.io/crates/tower-telemetry) | 0.0.0 | 0 | OpenTelemetry HTTP and messaging spans and HTTP metrics as Tower layers, for hy… |
-| 2026-11-16 16:59:47 | [myrion](https://crates.io/crates/myrion) | 0.1.0 | 0 | A placeholder crate for myrion. |
-| 2026-11-16 17:00:42 | [acde-model](https://crates.io/crates/acde-model) | 0.0.0 | 0 | Placeholder for Dopame's acde-model |
-| 2026-11-16 17:03:25 | [mime-inspect](https://crates.io/crates/mime-inspect) | 0.1.0 | 0 | Allocation-free MIME signature detection with bounded custom magic rules |
-| 2026-11-16 17:03:27 | [teigeodata-core](https://crates.io/crates/teigeodata-core) | 1.0.1 | 0 | Core types of teigeodata: stable IDs, grid coordinates and Hilbert order. no_st… |
-| 2026-11-16 17:03:53 | [teigeodata-blob](https://crates.io/crates/teigeodata-blob) | 1.0.1 | 0 | The columnar result blob of teigeodata: one aligned buffer of typed columns, re… |
-| 2026-11-16 17:04:21 | [teigeodata-names](https://crates.io/crates/teigeodata-names) | 1.0.1 | 0 | Name normalisation and phonetic keys for teigeodata: one code path for the forg… |
-| 2026-11-16 17:04:38 | [canary-ui-egui](https://crates.io/crates/canary-ui-egui) | 0.1.0 | 0 | Canary Engine egui adapter: translates normalized platform input into egui, bui… |
-| 2026-11-16 17:04:50 | [teigeodata-format](https://crates.io/crates/teigeodata-format) | 1.0.1 | 0 | The .tgd pack container of teigeodata: a validating zero-copy reader, and a det… |
-| 2026-11-16 17:05:19 | [teigeodata-sync](https://crates.io/crates/teigeodata-sync) | 1.0.1 | 0 | Downloads, updates and storage of teigeodata packs: the seekable zstd transport… |
-| 2026-11-16 17:06:51 | [era2m_cpu_insn_macros](https://crates.io/crates/era2m_cpu_insn_macros) | 0.2.1 | 0 | Declarative macros for era2m_cpu_iss: instruction definitions, decoder tables (… |
-| 2026-11-16 17:11:07 | [acde-log](https://crates.io/crates/acde-log) | 0.0.0 | 0 | Placeholder for Dopame's acde-log |
-| 2026-11-16 17:13:38 | [teigeodata-engine](https://crates.io/crates/teigeodata-engine) | 1.0.1 | 0 | The layered engine of teigeodata: open packs mapped, verify them lazily, and an… |
-| 2026-11-16 17:14:41 | [zimfile-xapian](https://crates.io/crates/zimfile-xapian) | 0.1.0 | 0 | libzim's Xapian search indexes (read, write, search) in pure Rust: a reimplemen… |
-| 2026-11-16 17:14:44 | [zimfile](https://crates.io/crates/zimfile) | 0.1.0 | 0 | Read and write ZIM archives (Kiwix, openZIM) and their Xapian search indexes in… |
-| 2026-11-16 17:14:47 | [zim-mcp](https://crates.io/crates/zim-mcp) | 0.4.0 | 0 | Offline access to Kiwix ZIM archives (Wikipedia etc.) for any AI tool: MCP serv… |
-| 2026-11-16 17:15:00 | [canary-audio](https://crates.io/crates/canary-audio) | 0.1.0 | 0 | Canary Engine audio: AudioBackend trait + private rodio bootstrap backend, comp… |
-| 2026-11-16 17:15:59 | [era2m_cpu_insn_proc_macros](https://crates.io/crates/era2m_cpu_insn_proc_macros) | 0.2.1 | 0 | Procedural macros for era2m_cpu_iss: instruction derive and CSR definitions. Is… |
-| 2026-11-16 17:17:03 | [ai-ui-markdown-slint](https://crates.io/crates/ai-ui-markdown-slint) | 0.1.0 | 0 | Slint rendering of ai-ui-markdown blocks, with off-thread formatting and a stre… |
-| 2026-11-16 17:17:04 | [ai-ui-slint](https://crates.io/crates/ai-ui-slint) | 0.1.0 | 0 | Slint components with assistant-ui's look: thread, messages, composer, branch p… |
+| 2026-11-16 17:19:01 | [website-vulnerability-scanner](https://crates.io/crates/website-vulnerability-scanner) | 0.2.0 | 0 | Cross-platform defensive website security & configuration scanner with GUI and… |
+| 2026-11-16 17:20:28 | [acde-webgl](https://crates.io/crates/acde-webgl) | 0.0.0 | 0 | Placeholder for Dopame's acde-webgl |
+| 2026-11-16 17:21:30 | [forgesworn-qr](https://crates.io/crates/forgesworn-qr) | 0.3.0 | 0 | QR code encoder and image decoder with no runtime dependencies, plus SVG and te… |
+| 2026-11-16 17:21:49 | [skathi-taffy](https://crates.io/crates/skathi-taffy) | 0.0.0 | 0 | Reserved for Skathi; the crate is published with Skathi 0.3.0 |
+| 2026-11-16 17:21:53 | [skathi-gpui-bench-metrics](https://crates.io/crates/skathi-gpui-bench-metrics) | 0.0.0 | 0 | Reserved for Skathi; the crate is published with Skathi 0.3.0 |
+| 2026-11-16 17:21:56 | [skathi-gpui-collections](https://crates.io/crates/skathi-gpui-collections) | 0.0.0 | 0 | Reserved for Skathi; the crate is published with Skathi 0.3.0 |
+| 2026-11-16 17:21:57 | [skathi-gpui-util](https://crates.io/crates/skathi-gpui-util) | 0.0.0 | 0 | Reserved for Skathi; the crate is published with Skathi 0.3.0 |
+| 2026-11-16 17:22:07 | [skathi-gpui-macros](https://crates.io/crates/skathi-gpui-macros) | 0.0.0 | 0 | Reserved for Skathi; the crate is published with Skathi 0.3.0 |
+| 2026-11-16 17:24:36 | [escpost-usbprint](https://crates.io/crates/escpost-usbprint) | 0.5.0 | 0 | Safe Windows USB printer device access for ESCPost |
+| 2026-11-16 17:25:51 | [canary-physics](https://crates.io/crates/canary-physics) | 0.1.0 | 0 | Canary Engine 2D physics: PhysicsBackend trait + Rapier2D backend with fixed-ti… |
+| 2026-11-16 17:27:32 | [era2m_cpu_perf](https://crates.io/crates/era2m_cpu_perf) | 0.2.1 | 0 | ISA-agnostic CPU timing models of era2m (in-order, out-of-order, ...) |
+| 2026-11-16 17:27:55 | [skathi-gpui-http-client](https://crates.io/crates/skathi-gpui-http-client) | 0.0.0 | 0 | Reserved for Skathi; the crate is published with Skathi 0.3.0 |
+| 2026-11-16 17:30:55 | [acde-napi](https://crates.io/crates/acde-napi) | 0.0.0 | 0 | Placeholder for Dopame's acde-napi |
+| 2026-11-16 17:32:35 | [teigeodata-api](https://crates.io/crates/teigeodata-api) | 1.0.1 | 0 | The safe public API of teigeodata: the one source every language binding is gen… |
+| 2026-11-16 17:34:10 | [scidtopgn](https://crates.io/crates/scidtopgn) | 0.2.0 | 0 | Library for reading and writing SCID chess databases |
+| 2026-11-16 17:34:17 | [scidtopgn-cli](https://crates.io/crates/scidtopgn-cli) | 0.2.0 | 0 | CLI tool for converting SCID databases to/from PGN format |
+| 2026-11-16 17:35:22 | [teigeodata-server](https://crates.io/crates/teigeodata-server) | 1.0.1 | 0 | The request core of the teigeodata servers: outputs (native, GeoJSON, Nominatim… |
+| 2026-11-16 17:36:08 | [canary-render-ecs](https://crates.io/crates/canary-render-ecs) | 0.1.0 | 0 | Canary Engine ECS-to-render bridge: extract renderables from the World, CPU-bak… |
+| 2026-11-16 17:36:26 | [dreamd-protocol](https://crates.io/crates/dreamd-protocol) | 1.3.1 | 0 | Serde types for dreamd's on-disk JSONL records and HTTP API. |
+| 2026-11-16 17:37:34 | [skathi-gpui-refineable](https://crates.io/crates/skathi-gpui-refineable) | 0.0.0 | 0 | Reserved for Skathi; the crate is published with Skathi 0.3.0 |
+| 2026-11-16 17:38:55 | [ibis-hiveserver2](https://crates.io/crates/ibis-hiveserver2) | 0.1.0 | 0 | Minimal HiveServer2 (Thrift) client: what the Spark and Impala backends of ibis… |
+| 2026-11-16 17:38:59 | [ibis-impala](https://crates.io/crates/ibis-impala) | 0.1.0 | 0 | Apache Impala backend plugin for ibis-rs |
+| 2026-11-16 17:39:00 | [ibis-spark](https://crates.io/crates/ibis-spark) | 0.1.0 | 0 | Spark SQL backend plugin for ibis-rs, over the Spark Thrift server |
+| 2026-11-16 17:40:19 | [acde-gpu](https://crates.io/crates/acde-gpu) | 0.0.0 | 0 | Placeholder for Dopame's acde-gpu |
+| 2026-11-16 17:40:54 | [dreamd-core](https://crates.io/crates/dreamd-core) | 1.3.1 | 0 | Engine behind the dreamd binary: episodic store, BM25 recall, dream cycle. |
+| 2026-11-16 17:44:13 | [teigeodata-cli](https://crates.io/crates/teigeodata-cli) | 1.0.1 | 0 | tgd, the teigeodata command line: inspect, verify, diff, extract and export pac… |
+| 2026-11-16 17:46:24 | [bevy_movie_play_experimental](https://crates.io/crates/bevy_movie_play_experimental) | 0.0.1 | 0 | Play a movie in Bevy (currently experimental) |
+| 2026-11-16 17:47:04 | [era2m_cpu_iss](https://crates.io/crates/era2m_cpu_iss) | 0.2.1 | 0 | Utility to generate ISA Instruction and CSR utils. Issued from Terminus ISS wri… |
+| 2026-11-16 17:47:05 | [era2m_softfloat](https://crates.io/crates/era2m_softfloat) | 0.2.1 | 0 | ISA-agnostic IEEE 754 binary floating point in software, with the ISA choices (… |
+| 2026-11-16 17:47:34 | [skathi-gpui-derive-refineable](https://crates.io/crates/skathi-gpui-derive-refineable) | 0.0.0 | 0 | Reserved for Skathi; the crate is published with Skathi 0.3.0 |
+| 2026-11-16 17:48:29 | [xoev-codelists-fim](https://crates.io/crates/xoev-codelists-fim) | 1.2611.4 | 0 | Codelist data published under `urn:xoev-de:fim:codeliste:` (FIM) |
+| 2026-11-16 17:48:34 | [xoev-codelists-kosit](https://crates.io/crates/xoev-codelists-kosit) | 1.2611.4 | 0 | Codelist data published under `urn:xoev-de:kosit:codeliste:` (KoSIT) |
+| 2026-11-16 17:48:38 | [xoev-codelists-xewaffe](https://crates.io/crates/xoev-codelists-xewaffe) | 1.2611.4 | 0 | Codelist data published under `urn:xoev-de:xewaffe:codeliste:` (XEWaffe) |
+| 2026-11-16 17:48:41 | [xoev-codelists-xfahrtenschreiber](https://crates.io/crates/xoev-codelists-xfahrtenschreiber) | 1.2611.3 | 0 | Codelist data published under `urn:xoev-de:xfahrtenschreiber:codeliste:` (XFahr… |
+| 2026-11-16 17:48:48 | [xoev-codelists-xpersonenstand](https://crates.io/crates/xoev-codelists-xpersonenstand) | 1.2611.3 | 0 | Codelist data published under `urn:xpersonenstand:schluesseltabelle:` (Personen… |
+| 2026-11-16 17:50:45 | [acde-vello](https://crates.io/crates/acde-vello) | 0.0.0 | 0 | Placeholder for Dopame's acde-vello |
+| 2026-11-16 17:53:23 | [xoev-codelists-xoev](https://crates.io/crates/xoev-codelists-xoev) | 1.2611.3 | 0 | Codelist data published under `urn:de:xoev:codeliste:` (XÖV) |
+| 2026-11-16 17:57:34 | [skathi-gpui-scheduler](https://crates.io/crates/skathi-gpui-scheduler) | 0.0.0 | 0 | Reserved for Skathi; the crate is published with Skathi 0.3.0 |
+| 2026-11-16 17:59:18 | [vantage-tester](https://crates.io/crates/vantage-tester) | 0.1.0 | 0 | What-if scenario tests: parses scenario YAML, plans the what-if tree and walks… |
+| 2026-11-16 18:01:09 | [acde-shell](https://crates.io/crates/acde-shell) | 0.0.0 | 0 | Placeholder for Dopame's acde-shell |
+| 2026-11-16 18:02:57 | [era2m_cpu](https://crates.io/crates/era2m_cpu) | 0.2.1 | 0 | Era2m cpu iss utilities and cores |
+| 2026-11-16 18:03:23 | [era2m_crand_core](https://crates.io/crates/era2m_crand_core) | 0.2.1 | 0 | era2m_crand core: TOML model, expression language, solver, analysis (no renderi… |
+| 2026-11-16 18:04:48 | [cpython-api](https://crates.io/crates/cpython-api) | 0.1.0 | 0 | Placeholder for the private CPython Rust API |
+| 2026-11-16 18:07:33 | [skathi-gpui-sum-tree](https://crates.io/crates/skathi-gpui-sum-tree) | 0.0.0 | 0 | Reserved for Skathi; the crate is published with Skathi 0.3.0 |
+| 2026-11-16 18:10:31 | [acde-window](https://crates.io/crates/acde-window) | 0.0.0 | 0 | Placeholder for Dopame's acde-window |
+| 2026-11-16 18:12:32 | [forge-build](https://crates.io/crates/forge-build) | 0.2.0 | 0 | An incremental C/C++ build system with explainable rebuilds |
+| 2026-11-16 18:14:38 | [haest-http](https://crates.io/crates/haest-http) | 0.2.0 | 0 | haest's HTTP seam: a small request/response client trait haest's model calls an… |
+| 2026-11-16 18:15:17 | [rusted-auth-sea-orm](https://crates.io/crates/rusted-auth-sea-orm) | 0.5.0 | 0 | Postgres storage for rusted-auth with SeaORM: accounts, sessions, second factor… |
+| 2026-11-16 18:17:12 | [era2m_crand_macros](https://crates.io/crates/era2m_crand_macros) | 0.2.1 | 0 | params!("model.toml"): typed Rust structs generated from an era2m_crand model |
+| 2026-11-16 18:17:34 | [skathi-gpui-ztracing](https://crates.io/crates/skathi-gpui-ztracing) | 0.0.0 | 0 | Reserved for Skathi; the crate is published with Skathi 0.3.0 |
+| 2026-11-16 18:19:20 | [haest-issues](https://crates.io/crates/haest-issues) | 0.1.0 | 0 | Experimental, and an example of how to write tools for haest: issue-tracker too… |
+| 2026-11-16 18:20:01 | [pultr-core](https://crates.io/crates/pultr-core) | 0.0.4 | 0 | Core of pultr: cards, layout, input and rendering |
+| 2026-11-16 18:20:57 | [acde-paint](https://crates.io/crates/acde-paint) | 0.0.0 | 0 | Placeholder for Dopame's acde-paint |
 
 ## Data source
 

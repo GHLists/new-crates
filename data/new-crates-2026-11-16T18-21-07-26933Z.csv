@@ -1,0 +1,54 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-16T17:19:01.782299Z,website-vulnerability-scanner,0.2.0,0,0,https://github.com/websecaudit/website-vulnerability-scanner,Cross-platform defensive website security & configuration scanner with GUI and CLI reports.
+2026-11-16T17:20:28.989099Z,acde-webgl,0.0.0,0,0,,Placeholder for Dopame's acde-webgl
+2026-11-16T17:21:30.191578Z,forgesworn-qr,0.3.0,0,0,https://github.com/forgesworn/qr,"QR code encoder and image decoder with no runtime dependencies, plus SVG and terminal rendering."
+2026-11-16T17:21:49.649224Z,skathi-taffy,0.0.0,0,0,https://github.com/argon-chat/skathi,Reserved for Skathi; the crate is published with Skathi 0.3.0
+2026-11-16T17:21:53.012695Z,skathi-gpui-bench-metrics,0.0.0,0,0,https://github.com/argon-chat/skathi,Reserved for Skathi; the crate is published with Skathi 0.3.0
+2026-11-16T17:21:56.125473Z,skathi-gpui-collections,0.0.0,0,0,https://github.com/argon-chat/skathi,Reserved for Skathi; the crate is published with Skathi 0.3.0
+2026-11-16T17:21:57.846348Z,skathi-gpui-util,0.0.0,0,0,https://github.com/argon-chat/skathi,Reserved for Skathi; the crate is published with Skathi 0.3.0
+2026-11-16T17:22:07.274116Z,skathi-gpui-macros,0.0.0,0,0,https://github.com/argon-chat/skathi,Reserved for Skathi; the crate is published with Skathi 0.3.0
+2026-11-16T17:24:36.755986Z,escpost-usbprint,0.5.0,0,0,https://github.com/receiptful/escpost,Safe Windows USB printer device access for ESCPost
+2026-11-16T17:25:51.082777Z,canary-physics,0.1.0,0,0,https://github.com/HylightGames/canary,Canary Engine 2D physics: PhysicsBackend trait + Rapier2D backend with fixed-timestep stepping. See docs/architecture/physics.md and ADR 0019.
+2026-11-16T17:27:32.286068Z,era2m_cpu_perf,0.2.1,0,0,https://gitlab.com/era2m/era2m_cpu,"ISA-agnostic CPU timing models of era2m (in-order, out-of-order, ...)"
+2026-11-16T17:27:55.663387Z,skathi-gpui-http-client,0.0.0,0,0,https://github.com/argon-chat/skathi,Reserved for Skathi; the crate is published with Skathi 0.3.0
+2026-11-16T17:30:55.201147Z,acde-napi,0.0.0,0,0,,Placeholder for Dopame's acde-napi
+2026-11-16T17:32:35.212152Z,teigeodata-api,1.0.1,0,0,https://github.com/teispace/teigeodata,The safe public API of teigeodata: the one source every language binding is generated from.
+2026-11-16T17:34:10.618273Z,scidtopgn,0.2.0,0,0,https://github.com/intermezzo-chess/scidtopgn,Library for reading and writing SCID chess databases
+2026-11-16T17:34:17.109349Z,scidtopgn-cli,0.2.0,0,0,https://github.com/intermezzo-chess/scidtopgn,CLI tool for converting SCID databases to/from PGN format
+2026-11-16T17:35:22.735456Z,teigeodata-server,1.0.1,0,0,https://github.com/teispace/teigeodata,"The request core of the teigeodata servers: outputs (native, GeoJSON, Nominatim-compatible), query bounds, attribution and the seams a hosted tier plugs into."
+2026-11-16T17:36:08.265201Z,canary-render-ecs,0.1.0,0,0,https://github.com/HylightGames/canary,"Canary Engine ECS-to-render bridge: extract renderables from the World, CPU-bake frames, and draw through canary-render."
+2026-11-16T17:36:26.465243Z,dreamd-protocol,1.3.1,0,0,https://github.com/botzrDev/dreamd,Serde types for dreamd's on-disk JSONL records and HTTP API.
+2026-11-16T17:37:34.541127Z,skathi-gpui-refineable,0.0.0,0,0,https://github.com/argon-chat/skathi,Reserved for Skathi; the crate is published with Skathi 0.3.0
+2026-11-16T17:38:55.815118Z,ibis-hiveserver2,0.1.0,0,0,https://github.com/brojonat/ibis-rs,Minimal HiveServer2 (Thrift) client: what the Spark and Impala backends of ibis-rs speak
+2026-11-16T17:38:59.812982Z,ibis-impala,0.1.0,0,0,https://github.com/brojonat/ibis-rs,Apache Impala backend plugin for ibis-rs
+2026-11-16T17:39:00.829641Z,ibis-spark,0.1.0,0,0,https://github.com/brojonat/ibis-rs,"Spark SQL backend plugin for ibis-rs, over the Spark Thrift server"
+2026-11-16T17:40:19.561772Z,acde-gpu,0.0.0,0,0,,Placeholder for Dopame's acde-gpu
+2026-11-16T17:40:54.536015Z,dreamd-core,1.3.1,0,0,https://github.com/botzrDev/dreamd,"Engine behind the dreamd binary: episodic store, BM25 recall, dream cycle."
+2026-11-16T17:44:13.436793Z,teigeodata-cli,1.0.1,0,0,https://github.com/teispace/teigeodata,"tgd, the teigeodata command line: inspect, verify, diff, extract and export packs; query them; keep a store of them in sync."
+2026-11-16T17:46:24.433432Z,bevy_movie_play_experimental,0.0.1,0,0,https://github.com/unclepomedev/bevy_movie_play_experimental,Play a movie in Bevy (currently experimental)
+2026-11-16T17:47:04.837515Z,era2m_cpu_iss,0.2.1,0,0,https://gitlab.com/era2m/era2m_cpu,Utility to generate ISA Instruction and CSR utils. Issued from Terminus ISS written by shady831213 <shady831213@126.com>
+2026-11-16T17:47:05.3473Z,era2m_softfloat,0.2.1,0,0,https://gitlab.com/era2m/era2m_cpu,"ISA-agnostic IEEE 754 binary floating point in software, with the ISA choices (NaN propagation, tininess, flush-to-zero) as a policy"
+2026-11-16T17:47:34.492669Z,skathi-gpui-derive-refineable,0.0.0,0,0,https://github.com/argon-chat/skathi,Reserved for Skathi; the crate is published with Skathi 0.3.0
+2026-11-16T17:48:29.311857Z,xoev-codelists-fim,1.2611.4,0,0,https://github.com/hd-gmbh-dev/xoev-codelists-rs,Codelist data published under `urn:xoev-de:fim:codeliste:` (FIM)
+2026-11-16T17:48:34.989842Z,xoev-codelists-kosit,1.2611.4,0,0,https://github.com/hd-gmbh-dev/xoev-codelists-rs,Codelist data published under `urn:xoev-de:kosit:codeliste:` (KoSIT)
+2026-11-16T17:48:38.431428Z,xoev-codelists-xewaffe,1.2611.4,0,0,https://github.com/hd-gmbh-dev/xoev-codelists-rs,Codelist data published under `urn:xoev-de:xewaffe:codeliste:` (XEWaffe)
+2026-11-16T17:48:41.722054Z,xoev-codelists-xfahrtenschreiber,1.2611.3,0,0,https://github.com/hd-gmbh-dev/xoev-codelists-rs,Codelist data published under `urn:xoev-de:xfahrtenschreiber:codeliste:` (XFahrtenschreiber)
+2026-11-16T17:48:48.477946Z,xoev-codelists-xpersonenstand,1.2611.3,0,0,https://github.com/hd-gmbh-dev/xoev-codelists-rs,Codelist data published under `urn:xpersonenstand:schluesseltabelle:` (Personenstand)
+2026-11-16T17:50:45.177021Z,acde-vello,0.0.0,0,0,,Placeholder for Dopame's acde-vello
+2026-11-16T17:53:23.693297Z,xoev-codelists-xoev,1.2611.3,0,0,https://github.com/hd-gmbh-dev/xoev-codelists-rs,Codelist data published under `urn:de:xoev:codeliste:` (XÖV)
+2026-11-16T17:57:34.30888Z,skathi-gpui-scheduler,0.0.0,0,0,https://github.com/argon-chat/skathi,Reserved for Skathi; the crate is published with Skathi 0.3.0
+2026-11-16T17:59:18.872348Z,vantage-tester,0.1.0,0,0,https://github.com/romaninsh/vantage,"What-if scenario tests: parses scenario YAML, plans the what-if tree and walks it through a host"
+2026-11-16T18:01:09.381538Z,acde-shell,0.0.0,0,0,,Placeholder for Dopame's acde-shell
+2026-11-16T18:02:57.849018Z,era2m_cpu,0.2.1,0,0,https://gitlab.com/era2m/era2m_cpu,Era2m cpu iss utilities and cores
+2026-11-16T18:03:23.355674Z,era2m_crand_core,0.2.1,0,0,https://gitlab.com/era2m/era2m_verif,"era2m_crand core: TOML model, expression language, solver, analysis (no rendering, no CLI)"
+2026-11-16T18:04:48.527999Z,cpython-api,0.1.0,0,0,,Placeholder for the private CPython Rust API
+2026-11-16T18:07:33.879623Z,skathi-gpui-sum-tree,0.0.0,0,0,https://github.com/argon-chat/skathi,Reserved for Skathi; the crate is published with Skathi 0.3.0
+2026-11-16T18:10:31.500081Z,acde-window,0.0.0,0,0,,Placeholder for Dopame's acde-window
+2026-11-16T18:12:32.904689Z,forge-build,0.2.0,0,0,https://github.com/bantunesfranco/forge-build,An incremental C/C++ build system with explainable rebuilds
+2026-11-16T18:14:38.040396Z,haest-http,0.2.0,0,0,https://github.com/haest-werk/haest,"haest's HTTP seam: a small request/response client trait haest's model calls and tools send through, and its default over reqwest and rustls"
+2026-11-16T18:15:17.491706Z,rusted-auth-sea-orm,0.5.0,0,0,https://github.com/Alpha-Global-Inovasi/rusted-auth,"Postgres storage for rusted-auth with SeaORM: accounts, sessions, second factors, single-use tokens, attempt counters and the audit log"
+2026-11-16T18:17:12.052412Z,era2m_crand_macros,0.2.1,0,0,https://gitlab.com/era2m/era2m_verif,"params!(""model.toml""): typed Rust structs generated from an era2m_crand model"
+2026-11-16T18:17:34.031081Z,skathi-gpui-ztracing,0.0.0,0,0,https://github.com/argon-chat/skathi,Reserved for Skathi; the crate is published with Skathi 0.3.0
+2026-11-16T18:19:20.705004Z,haest-issues,0.1.0,0,0,https://github.com/haest-werk/haest,"Experimental, and an example of how to write tools for haest: issue-tracker tools over one trait, with a GitHub Issues backend and a markdown board-card backend"
+2026-11-16T18:20:01.477369Z,pultr-core,0.0.4,0,0,https://github.com/the-cons/pultr,"Core of pultr: cards, layout, input and rendering"
+2026-11-16T18:20:57.366832Z,acde-paint,0.0.0,0,0,,Placeholder for Dopame's acde-paint
