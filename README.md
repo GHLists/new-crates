@@ -8,27 +8,30 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-16 09:18 UTC
+## Latest list — 2026-11-16 10:20 UTC
 
-New crates published between 2026-11-16 08:20 UTC and 2026-11-16 09:18 UTC.
+New crates published between 2026-11-16 09:18 UTC and 2026-11-16 10:20 UTC.
 
-[Full CSV](data/new-crates-2026-11-16T09-18-19-385878Z.csv)
+[Full CSV](data/new-crates-2026-11-16T10-20-33-757418Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-16 08:21:51 | [netsecops](https://crates.io/crates/netsecops) | 0.1.0 | 0 | ⚡ A blazing-fast CLI toolkit for network security operations — firewall auditin… |
-| 2026-11-16 08:30:57 | [whambam](https://crates.io/crates/whambam) | 1.1.0 | 0 | Fast HTTP(S) load testing with a live terminal UI and hey-compatible flags |
-| 2026-11-16 08:40:49 | [bulkparse](https://crates.io/crates/bulkparse) | 0.1.0 | 0 | Portable document conversion with structured output and explicit diagnostics |
-| 2026-11-16 08:41:06 | [bulkparse-ocr](https://crates.io/crates/bulkparse-ocr) | 0.1.0 | 0 | Optional supervised OCR provider for BulkParse |
-| 2026-11-16 08:43:23 | [bulkparse-ocr-native](https://crates.io/crates/bulkparse-ocr-native) | 0.1.0 | 0 | Native OCR, scanned table extraction and PDF rendering for BulkParse |
-| 2026-11-16 08:43:36 | [mpc-sample-sdk](https://crates.io/crates/mpc-sample-sdk) | 0.7.0 | 0 | Rust mod SDK for the Akai MPC Sample firmware |
-| 2026-11-16 08:43:38 | [bulkparse-pool](https://crates.io/crates/bulkparse-pool) | 0.1.0 | 0 | Optional bounded process host for BulkParse |
-| 2026-11-16 08:44:07 | [bulkparse-cli](https://crates.io/crates/bulkparse-cli) | 0.1.0 | 0 | Command line interface for BulkParse |
-| 2026-11-16 08:45:14 | [svg3dx-core](https://crates.io/crates/svg3dx-core) | 0.1.1 | 0 | Kernel-agnostic parser and evaluator for the svg3dx format |
-| 2026-11-16 08:46:19 | [hypr2niri](https://crates.io/crates/hypr2niri) | 0.5.0 | 0 | Turns a Hyprland config, hyprland.conf or hyprland.lua of any version, into a n… |
-| 2026-11-16 08:53:50 | [specify-core](https://crates.io/crates/specify-core) | 0.1.16 | 0 | Interview-driven AP242 PMI authoring for STEP parts (Rust port of specify-core) |
-| 2026-11-16 08:56:54 | [fpeg-cli](https://crates.io/crates/fpeg-cli) | 0.0.0 | 0 | The fpeg command: checks PEG grammars, parses inputs and profiles a parse. In d… |
-| 2026-11-16 09:13:26 | [wasmtime-dylink](https://crates.io/crates/wasmtime-dylink) | 0.1.0 | 0 | A dylink.0 shared-library loader built on the public Wasmtime API |
+| 2026-11-16 09:19:50 | [img2webp](https://crates.io/crates/img2webp) | 0.1.0 | 0 | Convert PNG, JPEG and SVG images to WebP from the command line (lossy or lossle… |
+| 2026-11-16 09:23:01 | [claude-code-sessions](https://crates.io/crates/claude-code-sessions) | 0.1.1 | 0 | Claude Code sessions as data: read the local transcripts (~/.claude/projects) i… |
+| 2026-11-16 09:28:33 | [pii-veil-cli](https://crates.io/crates/pii-veil-cli) | 0.1.1 | 0 | CLI tool for ultrafast, deterministic, and reversible PII & secret anonymizatio… |
+| 2026-11-16 09:46:55 | [whitaker](https://crates.io/crates/whitaker) | 0.3.0 | 0 | Whitaker command-line interface |
+| 2026-11-16 09:48:11 | [inka-evidence](https://crates.io/crates/inka-evidence) | 0.0.2 | 0 | Test evidence v1 wire schema: shared validation, parsing and emission |
+| 2026-11-16 09:48:13 | [inka-core](https://crates.io/crates/inka-core) | 0.0.2 | 0 | Core library for inka |
+| 2026-11-16 09:48:14 | [inka-evidence-rust](https://crates.io/crates/inka-evidence-rust) | 0.0.2 | 0 | Rust test adapter emitting inka test evidence from cargo-nextest runs |
+| 2026-11-16 09:48:16 | [inka-cli](https://crates.io/crates/inka-cli) | 0.0.2 | 0 | Command-line interface for inka |
+| 2026-11-16 09:48:17 | [inka-lsp](https://crates.io/crates/inka-lsp) | 0.0.2 | 0 | Language server for the inka argumentation DSL |
+| 2026-11-16 09:52:42 | [gevatter_rustc_toolchain](https://crates.io/crates/gevatter_rustc_toolchain) | 0.0.1 | 0 | Rust toolchain utils for cargo-gevatter |
+| 2026-11-16 09:52:44 | [cargo-gevatter](https://crates.io/crates/cargo-gevatter) | 0.0.1 | 0 | Diagnoses and fixes lifetime annotations more fluentry than any other tools |
+| 2026-11-16 09:57:58 | [simplealloc](https://crates.io/crates/simplealloc) | 1.0.0 | 0 | small allocators for learning how Rust's allocator API fits together |
+| 2026-11-16 09:59:48 | [celesta-registry-client](https://crates.io/crates/celesta-registry-client) | 0.0.0 | 0 | Placeholder for the Celesta project. The real crate is not published yet. |
+| 2026-11-16 10:04:18 | [gofile-dl](https://crates.io/crates/gofile-dl) | 0.1.0 | 0 | High-performance, 100% Safe Rust GoFile.io CLI & Web Downloader |
+| 2026-11-16 10:14:24 | [markdoc-mermaid-renderer](https://crates.io/crates/markdoc-mermaid-renderer) | 0.3.1 | 0 | mermaid-rs-renderer 0.3.1, a pure-Rust Mermaid renderer, with the diagram types… |
+| 2026-11-16 10:17:01 | [mora_z85](https://crates.io/crates/mora_z85) | 0.1.0 | 0 | Z85 encoding/decoding for input of any length, no_std and allocation-free |
 
 ## Data source
 

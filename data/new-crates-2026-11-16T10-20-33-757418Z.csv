@@ -1,0 +1,17 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-16T09:19:50.482515Z,img2webp,0.1.0,0,0,,"Convert PNG, JPEG and SVG images to WebP from the command line (lossy or lossless, batch, parallel)."
+2026-11-16T09:23:01.634754Z,claude-code-sessions,0.1.1,0,0,https://github.com/td72/claude-code-sessions,Claude Code sessions as data: read the local transcripts (~/.claude/projects) into a model of every session on the machine
+2026-11-16T09:28:33.431349Z,pii-veil-cli,0.1.1,0,0,https://github.com/glastor-core/pii-veil,"CLI tool for ultrafast, deterministic, and reversible PII & secret anonymization."
+2026-11-16T09:46:55.43656Z,whitaker,0.3.0,0,0,https://github.com/leynos/whitaker,Whitaker command-line interface
+2026-11-16T09:48:11.033845Z,inka-evidence,0.0.2,0,0,https://github.com/ut-issl/inka,"Test evidence v1 wire schema: shared validation, parsing and emission"
+2026-11-16T09:48:13.680498Z,inka-core,0.0.2,0,0,https://github.com/ut-issl/inka,Core library for inka
+2026-11-16T09:48:14.593514Z,inka-evidence-rust,0.0.2,0,0,https://github.com/ut-issl/inka,Rust test adapter emitting inka test evidence from cargo-nextest runs
+2026-11-16T09:48:16.77023Z,inka-cli,0.0.2,0,0,https://github.com/ut-issl/inka,Command-line interface for inka
+2026-11-16T09:48:17.534613Z,inka-lsp,0.0.2,0,0,https://github.com/ut-issl/inka,Language server for the inka argumentation DSL
+2026-11-16T09:52:42.663962Z,gevatter_rustc_toolchain,0.0.1,0,0,,Rust toolchain utils for cargo-gevatter
+2026-11-16T09:52:44.659925Z,cargo-gevatter,0.0.1,0,0,https://github.com/cordx56/gevatter,Diagnoses and fixes lifetime annotations more fluentry than any other tools
+2026-11-16T09:57:58.873004Z,simplealloc,1.0.0,0,0,https://codeberg.org/tbreslein/simplealloc,small allocators for learning how Rust's allocator API fits together
+2026-11-16T09:59:48.22513Z,celesta-registry-client,0.0.0,0,0,https://github.com/mika-f/Celesta,Placeholder for the Celesta project. The real crate is not published yet.
+2026-11-16T10:04:18.731621Z,gofile-dl,0.1.0,0,0,https://github.com/fdkevin0/gofile-dl-rs,"High-performance, 100% Safe Rust GoFile.io CLI & Web Downloader"
+2026-11-16T10:14:24.211869Z,markdoc-mermaid-renderer,0.3.1,0,0,https://github.com/markdoc-rs/markdoc-mermaid,"mermaid-rs-renderer 0.3.1, a pure-Rust Mermaid renderer, with the diagram types and fixes markdoc-mermaid needs"
+2026-11-16T10:17:01.601077Z,mora_z85,0.1.0,0,0,,"Z85 encoding/decoding for input of any length, no_std and allocation-free"
