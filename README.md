@@ -8,49 +8,74 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-16 13:21 UTC
+## Latest list — 2026-11-16 14:18 UTC
 
-New crates published between 2026-11-16 12:21 UTC and 2026-11-16 13:21 UTC.
+New crates published between 2026-11-16 13:21 UTC and 2026-11-16 14:18 UTC.
 
-[Full CSV](data/new-crates-2026-11-16T13-21-18-455735Z.csv)
+[Full CSV](data/new-crates-2026-11-16T14-18-24-243585Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-16 12:23:14 | [gruszka](https://crates.io/crates/gruszka) | 0.1.0 | 0 | A Lean 4 kernel: normalization by evaluation over Susz exports |
-| 2026-11-16 12:35:57 | [open-arrow-sink-core](https://crates.io/crates/open-arrow-sink-core) | 0.1.0 | 0 | Core contracts for Arrow RecordBatch sinks |
-| 2026-11-16 12:35:58 | [open-arrow-sink-layer](https://crates.io/crates/open-arrow-sink-layer) | 0.1.0 | 0 | Composable layers for Arrow RecordBatch sinks |
-| 2026-11-16 12:35:59 | [open-arrow-sink-storage](https://crates.io/crates/open-arrow-sink-storage) | 0.1.0 | 0 | Shared OpenDAL storage for Arrow sinks |
-| 2026-11-16 12:36:01 | [open-arrow-sink-iceberg](https://crates.io/crates/open-arrow-sink-iceberg) | 0.1.0 | 0 | Minimal append-only Iceberg table sink |
-| 2026-11-16 12:36:01 | [open-arrow-sink-lance](https://crates.io/crates/open-arrow-sink-lance) | 0.1.0 | 0 | Lance dataset sink over shared OpenDAL storage |
-| 2026-11-16 12:46:31 | [vox-paisley](https://crates.io/crates/vox-paisley) | 0.1.0 | 0 | A Linux-first multi-tab browser built with Rust, GTK4, and WebKitGTK. |
-| 2026-11-16 12:46:54 | [karka](https://crates.io/crates/karka) | 0.0.0 | 0 | Video editing from the command line: projects of tracks and clips, scenes in So… |
-| 2026-11-16 12:50:12 | [open-arrow-sink-parquet](https://crates.io/crates/open-arrow-sink-parquet) | 0.1.0 | 0 | Parquet directory sink over shared OpenDAL storage |
-| 2026-11-16 12:50:14 | [bus-contract](https://crates.io/crates/bus-contract) | 0.1.0 | 0 | A contract for an in-process hook bus: libraries declare typed hook points and… |
-| 2026-11-16 12:51:11 | [open-arrow-sink](https://crates.io/crates/open-arrow-sink) | 0.1.0 | 0 | Composable, independent Arrow RecordBatch sinks |
-| 2026-11-16 12:53:57 | [nevia](https://crates.io/crates/nevia) | 0.0.0 | 0 | Placeholder: this name is reserved for the official Nevia SDK. Not yet function… |
-| 2026-11-16 12:54:35 | [pathscrub](https://crates.io/crates/pathscrub) | 0.1.0 | 0 | Clean up $PATH: drop empty, relative, missing and duplicate entries |
-| 2026-11-16 12:59:26 | [weirdnet-tls](https://crates.io/crates/weirdnet-tls) | 0.1.0 | 0 | Weirdnet TLS certificates: ACME (TLS-ALPN-01, HTTP-01, DNS-01) over instant-acm… |
-| 2026-11-16 12:59:57 | [aster_forge_process](https://crates.io/crates/aster_forge_process) | 0.1.0-alpha.1 | 0 | Bounded child-process lifecycle mechanics for Aster services |
-| 2026-11-16 13:04:32 | [mcp-wire](https://crates.io/crates/mcp-wire) | 0.1.0 | 0 | Wire types of the Model Context Protocol, shared by MCP servers and clients |
-| 2026-11-16 13:08:41 | [veilmesh-bot-client](https://crates.io/crates/veilmesh-bot-client) | 0.1.0 | 0 | Client for the local API of a VeilMesh group bot (veilmesh-bot) |
-| 2026-11-16 13:11:27 | [panic-button-proto](https://crates.io/crates/panic-button-proto) | 0.1.0 | 0 | Panic Button wire protocol: message types and strict deterministic CBOR encodin… |
-| 2026-11-16 13:11:30 | [panic-button-crypto](https://crates.io/crates/panic-button-crypto) | 0.1.0 | 0 | Panic Button cryptography: device keys, certificates, sealing, key shares, reco… |
-| 2026-11-16 13:11:34 | [panic-button-core](https://crates.io/crates/panic-button-core) | 0.1.0 | 0 | Panic Button sans-IO core state machine: peers, alarms, hold logic, status and… |
-| 2026-11-16 13:11:39 | [panic-button-relay](https://crates.io/crates/panic-button-relay) | 0.1.0 | 0 | Panic Button relay: a blind, multi-tenant forwarder of sealed envelopes. |
-| 2026-11-16 13:11:43 | [panic-button-net](https://crates.io/crates/panic-button-net) | 0.1.0 | 0 | Panic Button network I/O drivers: UDP, TCP, mDNS, relay client and interface wa… |
-| 2026-11-16 13:12:21 | [xlsx-stream](https://crates.io/crates/xlsx-stream) | 0.1.0 | 0 | Converte linhas JSON em XLSX com memória constante |
-| 2026-11-16 13:12:30 | [source-sentinel](https://crates.io/crates/source-sentinel) | 0.1.0 | 0 | Aplica regras de código-fonte com diagnósticos determinísticos |
-| 2026-11-16 13:17:27 | [sinew-core](https://crates.io/crates/sinew-core) | 0.1.0 | 0 | Model, message, tool and prompt abstractions for Sinew |
-| 2026-11-16 13:17:29 | [sinew-eval](https://crates.io/crates/sinew-eval) | 0.1.0 | 0 | Datasets, evaluators and experiments for Sinew (LangSmith-style evaluation) |
-| 2026-11-16 13:17:30 | [sinew-rag](https://crates.io/crates/sinew-rag) | 0.1.0 | 0 | Retrieval for Sinew: embeddings, loaders, text splitters, vector stores, retrie… |
-| 2026-11-16 13:17:31 | [sinew-trace](https://crates.io/crates/sinew-trace) | 0.1.0 | 0 | Run tracing for Sinew graphs, models and tools |
-| 2026-11-16 13:17:33 | [sinew-graph](https://crates.io/crates/sinew-graph) | 0.1.0 | 0 | Typed state-graph engine for LLM agents: loops, branching, checkpoints, human-i… |
-| 2026-11-16 13:20:03 | [tsdb-reader](https://crates.io/crates/tsdb-reader) | 0.1.0 | 0 | Zero-copy, read-only parser for Prometheus TSDB blocks: index v1-v3, all chunk… |
-| 2026-11-16 13:20:12 | [adamo-zenoh-link-tcp](https://crates.io/crates/adamo-zenoh-link-tcp) | 1.9.0-adamo.1.0.27 | 0 | Internal crate for zenoh. |
-| 2026-11-16 13:20:29 | [adamo-zenoh-link-tls](https://crates.io/crates/adamo-zenoh-link-tls) | 1.9.0-adamo.1.0.27 | 0 | Internal crate for zenoh. |
-| 2026-11-16 13:20:33 | [citers](https://crates.io/crates/citers) | 0.1.0 | 0 | Explore the citation graph of your reference library in the browser, with data… |
-| 2026-11-16 13:20:47 | [adamo-zenoh-link-udp](https://crates.io/crates/adamo-zenoh-link-udp) | 1.9.0-adamo.1.0.27 | 0 | Internal crate for zenoh. |
-| 2026-11-16 13:21:05 | [adamo-zenoh-link-unixpipe](https://crates.io/crates/adamo-zenoh-link-unixpipe) | 1.9.0-adamo.1.0.27 | 0 | Internal crate for zenoh. |
+| 2026-11-16 13:21:23 | [adamo-zenoh-link-unixsock_stream](https://crates.io/crates/adamo-zenoh-link-unixsock_stream) | 1.9.0-adamo.1.0.27 | 0 | Internal crate for zenoh. |
+| 2026-11-16 13:21:50 | [panic-button-store](https://crates.io/crates/panic-button-store) | 0.1.0 | 0 | Panic Button SQLite persistence for identity, certificates, alarms and audit. |
+| 2026-11-16 13:26:46 | [adamo-zenoh-link-vsock](https://crates.io/crates/adamo-zenoh-link-vsock) | 1.9.0-adamo.1.0.27 | 0 | Internal crate for zenoh. |
+| 2026-11-16 13:28:06 | [sinew-a2a](https://crates.io/crates/sinew-a2a) | 0.1.0 | 0 | Agent2Agent (A2A) protocol client and server for Sinew models and agent graphs |
+| 2026-11-16 13:31:07 | [j8](https://crates.io/crates/j8) | 0.0.0 | 0 | j8: a JavaScript engine written from scratch in Rust, layered like V8 (name res… |
+| 2026-11-16 13:31:19 | [j8lockfree](https://crates.io/crates/j8lockfree) | 0.1.2 | 0 | j8 的无锁基础件（手写，no_std）：分段 MPMC 队列、只追加的分段向量、只压入可封口的 Treiber 栈、Chase–Lev 工作窃取双端队列 |
+| 2026-11-16 13:31:24 | [j8gc-macros](https://crates.io/crates/j8gc-macros) | 0.1.2 | 0 | Procedural macros for j8gc: #[derive(Collect)] and others |
+| 2026-11-16 13:31:29 | [j8macros](https://crates.io/crates/j8macros) | 0.1.2 | 0 | j8 procedural macros: generate enums from JSON definitions |
+| 2026-11-16 13:31:36 | [j8gc](https://crates.io/crates/j8gc) | 0.1.2 | 0 | Generational, moving (compacting), parallel GC for Rust with a 'gc brand lifeti… |
+| 2026-11-16 13:31:44 | [intersect-build-support](https://crates.io/crates/intersect-build-support) | 0.1.0-alpha.1 | 0 | Host-only deterministic source identity support for Intersect packages. |
+| 2026-11-16 13:32:13 | [panic-button-agent](https://crates.io/crates/panic-button-agent) | 0.1.0 | 0 | Panic Button agent runtime: wires core, network, store and platform; control AP… |
+| 2026-11-16 13:36:13 | [adamo-zenoh-link-webtransport](https://crates.io/crates/adamo-zenoh-link-webtransport) | 1.9.0-adamo.1.0.27 | 0 | Internal crate for zenoh. |
+| 2026-11-16 13:38:21 | [sinew-checkpoint](https://crates.io/crates/sinew-checkpoint) | 0.1.0 | 0 | Persistent checkpointers (SQLite, Postgres) for sinew-graph |
+| 2026-11-16 13:38:37 | [whoq](https://crates.io/crates/whoq) | 0.1.1 | 0 | RDAP-first WHOIS for humans and agents: structured output, MCP server, watch mo… |
+| 2026-11-16 13:40:07 | [rustren](https://crates.io/crates/rustren) | 0.1.0 | 0 | Browserless 2D Video Render Engine in Rust |
+| 2026-11-16 13:40:51 | [joplin-mcp](https://crates.io/crates/joplin-mcp) | 0.1.0 | 0 | Fast, standalone Rust MCP server for Joplin's Data API |
+| 2026-11-16 13:41:05 | [j8framework](https://crates.io/crates/j8framework) | 0.1.2 | 0 | j8 core framework layer: traits and common structs / enums |
+| 2026-11-16 13:41:40 | [panic-button](https://crates.io/crates/panic-button) | 0.1.0 | 0 | The panic-button admin and diagnostics command-line tool. |
+| 2026-11-16 13:48:39 | [sinew-mcp](https://crates.io/crates/sinew-mcp) | 0.1.0 | 0 | Model Context Protocol client and server for Sinew tools and agents |
+| 2026-11-16 13:49:20 | [staron](https://crates.io/crates/staron) | 1.0.0 | 0 | A tiny, functional GitHub star gate for CLI tools. |
+| 2026-11-16 13:49:21 | [secureai](https://crates.io/crates/secureai) | 0.1.0 | 0 | Sub-millisecond kernel sandboxing and execution security runtime for AI agents |
+| 2026-11-16 13:49:43 | [bevel-fonts-build](https://crates.io/crates/bevel-fonts-build) | 0.1.0 | 0 | Embeds font faces from a craft-fonts checkout in an app's build.rs, optionally… |
+| 2026-11-16 13:49:44 | [bevel-i18n](https://crates.io/crates/bevel-i18n) | 0.1.0 | 0 | Translation lookup with fallback, CLDR plurals and number formats, the system l… |
+| 2026-11-16 13:49:44 | [bevel-window](https://crates.io/crates/bevel-window) | 0.1.0 | 0 | Decides who draws the window frame on each desktop (macOS, Windows, X11, Waylan… |
+| 2026-11-16 13:49:46 | [bevel-widgets](https://crates.io/crates/bevel-widgets) | 0.1.0 | 0 | Reusable egui controls: icon buttons, tabs, panes, splits and resize handles, d… |
+| 2026-11-16 13:49:48 | [bevel-theme](https://crates.io/crates/bevel-theme) | 0.1.0 | 0 | Design tokens (surfaces, text, accent, status tones, radii, spacing) in dark an… |
+| 2026-11-16 13:50:18 | [acde](https://crates.io/crates/acde) | 0.0.0 | 0 | Placeholder for Dopame's acde |
+| 2026-11-16 13:50:22 | [acdert](https://crates.io/crates/acdert) | 0.0.0 | 0 | Placeholder for Dopame's acdert |
+| 2026-11-16 13:50:25 | [acde-base](https://crates.io/crates/acde-base) | 0.0.0 | 0 | Placeholder for Dopame's acde-base |
+| 2026-11-16 13:50:28 | [acde-dopame](https://crates.io/crates/acde-dopame) | 0.0.0 | 0 | Placeholder for Dopame's acde-dopame |
+| 2026-11-16 13:50:33 | [acfs](https://crates.io/crates/acfs) | 0.0.0 | 0 | Placeholder for Dopame's acfs |
+| 2026-11-16 13:51:31 | [j8binding](https://crates.io/crates/j8binding) | 0.1.2 | 0 | Rust ⇄ JS bindings for j8: type conversion, host objects, exporting Rust types… |
+| 2026-11-16 13:53:36 | [cortexkit-length-refusal](https://crates.io/crates/cortexkit-length-refusal) | 0.1.0 | 0 | Whether a model provider refused a request as too long for the model's context… |
+| 2026-11-16 13:56:05 | [polylint-rumdl](https://crates.io/crates/polylint-rumdl) | 0.3.5 | 0 | Polylint's internal fork of rumdl. Use the rumdl crate instead. |
+| 2026-11-16 13:56:57 | [j8builtins](https://crates.io/crates/j8builtins) | 0.1.2 | 0 | j8 built-in objects: implements Intrinsics and installs Object / Function / Arr… |
+| 2026-11-16 13:57:31 | [flextable](https://crates.io/crates/flextable) | 0.1.0 | 0 | A Lua-inspired table: one flexible structure for arrays, dictionaries, objects,… |
+| 2026-11-16 13:59:04 | [sinew-scope](https://crates.io/crates/sinew-scope) | 0.1.0 | 0 | Trace server, web UI and terminal viewer for Sinew (LangSmith-style) |
+| 2026-11-16 14:00:49 | [agentde](https://crates.io/crates/agentde) | 0.0.0 | 0 | Placeholder for Dopame's agentde |
+| 2026-11-16 14:01:33 | [codyscript-core](https://crates.io/crates/codyscript-core) | 0.5.0 | 0 | CodyScript: a small, sandboxed interpreter for programs written as data. Hosts… |
+| 2026-11-16 14:01:37 | [codyscript-json](https://crates.io/crates/codyscript-json) | 0.5.0 | 0 | JSON for CodyScript: parse and print programs and values, the language's JSON S… |
+| 2026-11-16 14:01:41 | [utf8bytes](https://crates.io/crates/utf8bytes) | 0.1.0 | 0 | A cheaply cloneable UTF-8 string type |
+| 2026-11-16 14:03:21 | [aec3_rs](https://crates.io/crates/aec3_rs) | 0.1.0 | 0 | Pure Rust 48 kHz multichannel acoustic echo cancellation derived from WebRTC AE… |
+| 2026-11-16 14:04:11 | [magic-ws](https://crates.io/crates/magic-ws) | 1.1.0 | 0 | Lightweight binary WebSocket framework for real-time games |
+| 2026-11-16 14:05:13 | [image_filters_types](https://crates.io/crates/image_filters_types) | 0.1.0 | 0 | Types describing SVG/CSS image filter graphs |
+| 2026-11-16 14:05:20 | [anyrender_vello_gpu](https://crates.io/crates/anyrender_vello_gpu) | 0.12.0 | 0 | vello_gpu (formerly vello_hybrid) backend for anyrender |
+| 2026-11-16 14:05:26 | [anyrender_tiny_skia](https://crates.io/crates/anyrender_tiny_skia) | 0.1.0 | 0 | tiny-skia backend for anyrender |
+| 2026-11-16 14:06:34 | [kkfetch](https://crates.io/crates/kkfetch) | 0.27.0 | 0 | A fast, lightweight Linux, Windows, macOS, and Android system information fetch… |
+| 2026-11-16 14:06:51 | [kktypr](https://crates.io/crates/kktypr) | 0.1.0 | 0 | A blazingly fast touch typing academy and developer syntax tutor for your termi… |
+| 2026-11-16 14:07:10 | [j8platform](https://crates.io/crates/j8platform) | 0.1.2 | 0 | j8 platform layer: the standard-library implementation of the Platform trait |
+| 2026-11-16 14:07:47 | [intersect-model](https://crates.io/crates/intersect-model) | 0.1.0-alpha.1 | 0 | Shared model APIs and Rcore execution without Xtext. |
+| 2026-11-16 14:09:23 | [sinew-harness](https://crates.io/crates/sinew-harness) | 0.1.0 | 0 | Agent harness for Sinew: built-in tools, subagents, permissions, context compac… |
+| 2026-11-16 14:11:14 | [libagentde](https://crates.io/crates/libagentde) | 0.0.0 | 0 | Placeholder for Dopame's libagentde |
+| 2026-11-16 14:11:27 | [pipelink-common](https://crates.io/crates/pipelink-common) | 0.1.0 | 0 | Shared domain types, IPC events, and audio graph models for PipeLink |
+| 2026-11-16 14:11:41 | [pipelink-resolver](https://crates.io/crates/pipelink-resolver) | 0.1.0 | 0 | Application and node matching rules for PipeLink audio routing |
+| 2026-11-16 14:11:53 | [pipelink-jack](https://crates.io/crates/pipelink-jack) | 0.1.0 | 0 | Lock-free JACK audio mixing backend for PipeLink |
+| 2026-11-16 14:12:24 | [pipelink-pw](https://crates.io/crates/pipelink-pw) | 0.1.0 | 0 | PipeWire graph discovery, linking, and metadata backend for PipeLink |
+| 2026-11-16 14:12:38 | [pipelink-engine](https://crates.io/crates/pipelink-engine) | 0.1.0 | 0 | Audio routing orchestration engine and XDG persistence for PipeLink |
+| 2026-11-16 14:15:09 | [intersect-text](https://crates.io/crates/intersect-text) | 0.1.0-alpha.1 | 0 | Xtext compilation and text interpretation over Intersect model services. |
+| 2026-11-16 14:16:45 | [opendembow-core](https://crates.io/crates/opendembow-core) | 0.13.0 | 0 | Reusable audio engine, instruments, effects, and project format for OpenDembow. |
+| 2026-11-16 14:17:40 | [j8virtasm](https://crates.io/crates/j8virtasm) | 0.1.2 | 0 | j8 virtual instruction set: bytecode definitions, JavaScript ⇒ bytecode |
 
 ## Data source
 

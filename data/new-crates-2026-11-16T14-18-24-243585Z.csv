@@ -1,0 +1,61 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-16T13:21:23.838845Z,adamo-zenoh-link-unixsock_stream,1.9.0-adamo.1.0.27,0,0,https://github.com/adamo-tech/adamo,Internal crate for zenoh.
+2026-11-16T13:21:50.256754Z,panic-button-store,0.1.0,0,0,https://github.com/ohtf/panic-button,"Panic Button SQLite persistence for identity, certificates, alarms and audit."
+2026-11-16T13:26:46.261619Z,adamo-zenoh-link-vsock,1.9.0-adamo.1.0.27,0,0,https://github.com/adamo-tech/adamo,Internal crate for zenoh.
+2026-11-16T13:28:06.578425Z,sinew-a2a,0.1.0,0,0,https://github.com/roanbrasil/sinew,Agent2Agent (A2A) protocol client and server for Sinew models and agent graphs
+2026-11-16T13:31:07.77112Z,j8,0.0.0,0,0,https://github.com/0x00-Community/j8,"j8: a JavaScript engine written from scratch in Rust, layered like V8 (name reservation; the real release follows)"
+2026-11-16T13:31:19.702223Z,j8lockfree,0.1.2,0,0,https://github.com/0x00-Community/j8,j8 的无锁基础件（手写，no_std）：分段 MPMC 队列、只追加的分段向量、只压入可封口的 Treiber 栈、Chase–Lev 工作窃取双端队列
+2026-11-16T13:31:24.445089Z,j8gc-macros,0.1.2,0,0,https://github.com/0x00-Community/j8,Procedural macros for j8gc: #[derive(Collect)] and others
+2026-11-16T13:31:29.817054Z,j8macros,0.1.2,0,0,https://github.com/0x00-Community/j8,j8 procedural macros: generate enums from JSON definitions
+2026-11-16T13:31:36.117472Z,j8gc,0.1.2,0,0,https://github.com/0x00-Community/j8,"Generational, moving (compacting), parallel GC for Rust with a 'gc brand lifetime; collection runs on the moremath thread pool"
+2026-11-16T13:31:44.770207Z,intersect-build-support,0.1.0-alpha.1,0,0,https://github.com/mercurio-labs/intersect-model,Host-only deterministic source identity support for Intersect packages.
+2026-11-16T13:32:13.359954Z,panic-button-agent,0.1.0,0,0,https://github.com/ohtf/panic-button,"Panic Button agent runtime: wires core, network, store and platform; control API."
+2026-11-16T13:36:13.878061Z,adamo-zenoh-link-webtransport,1.9.0-adamo.1.0.27,0,0,https://github.com/adamo-tech/adamo,Internal crate for zenoh.
+2026-11-16T13:38:21.912599Z,sinew-checkpoint,0.1.0,0,0,https://github.com/roanbrasil/sinew,"Persistent checkpointers (SQLite, Postgres) for sinew-graph"
+2026-11-16T13:38:37.87215Z,whoq,0.1.1,0,0,https://github.com/honzabit/whoq,"RDAP-first WHOIS for humans and agents: structured output, MCP server, watch mode, bulk IP enrichment, live DNS/mail/TLS checks"
+2026-11-16T13:40:07.489959Z,rustren,0.1.0,0,0,https://github.com/sharriffajar/rustren,Browserless 2D Video Render Engine in Rust
+2026-11-16T13:40:51.119054Z,joplin-mcp,0.1.0,0,0,https://github.com/nihilok/joplin-mcp,"Fast, standalone Rust MCP server for Joplin's Data API"
+2026-11-16T13:41:05.341874Z,j8framework,0.1.2,0,0,https://github.com/0x00-Community/j8,j8 core framework layer: traits and common structs / enums
+2026-11-16T13:41:40.407807Z,panic-button,0.1.0,0,0,https://github.com/ohtf/panic-button,The panic-button admin and diagnostics command-line tool.
+2026-11-16T13:48:39.347383Z,sinew-mcp,0.1.0,0,0,https://github.com/roanbrasil/sinew,Model Context Protocol client and server for Sinew tools and agents
+2026-11-16T13:49:20.51296Z,staron,1.0.0,0,0,https://github.com/biyuehu/staron,"A tiny, functional GitHub star gate for CLI tools."
+2026-11-16T13:49:21.380108Z,secureai,0.1.0,0,0,https://github.com/openprogs/secureai,Sub-millisecond kernel sandboxing and execution security runtime for AI agents
+2026-11-16T13:49:43.794182Z,bevel-fonts-build,0.1.0,0,0,https://github.com/julien-langlois/bevel,"Embeds font faces from a craft-fonts checkout in an app's build.rs, optionally cut to the characters of its translations, or serves them for web builds."
+2026-11-16T13:49:44.316395Z,bevel-i18n,0.1.0,0,0,https://github.com/julien-langlois/bevel,"Translation lookup with fallback, CLDR plurals and number formats, the system locale and region, search folding and locale sorting, on ICU4X."
+2026-11-16T13:49:44.892488Z,bevel-window,0.1.0,0,0,https://github.com/julien-langlois/bevel,"Decides who draws the window frame on each desktop (macOS, Windows, X11, Wayland), makes an egui app's top strip act as its title bar, and keeps the bookkeeping of one window per document."
+2026-11-16T13:49:46.220532Z,bevel-widgets,0.1.0,0,0,https://github.com/julien-langlois/bevel,"Reusable egui controls: icon buttons, tabs, panes, splits and resize handles, docking, a multilingual UI font stack and localized number fields."
+2026-11-16T13:49:48.48939Z,bevel-theme,0.1.0,0,0,https://github.com/julien-langlois/bevel,"Design tokens (surfaces, text, accent, status tones, radii, spacing) in dark and light for egui, applied to a context in one call."
+2026-11-16T13:50:18.842519Z,acde,0.0.0,0,0,,Placeholder for Dopame's acde
+2026-11-16T13:50:22.099248Z,acdert,0.0.0,0,0,,Placeholder for Dopame's acdert
+2026-11-16T13:50:25.246422Z,acde-base,0.0.0,0,0,,Placeholder for Dopame's acde-base
+2026-11-16T13:50:28.18716Z,acde-dopame,0.0.0,0,0,,Placeholder for Dopame's acde-dopame
+2026-11-16T13:50:33.497695Z,acfs,0.0.0,0,0,,Placeholder for Dopame's acfs
+2026-11-16T13:51:31.141753Z,j8binding,0.1.2,0,0,https://github.com/0x00-Community/j8,"Rust ⇄ JS bindings for j8: type conversion, host objects, exporting Rust types as JS classes (procedural macros live in j8macros)"
+2026-11-16T13:53:36.082213Z,cortexkit-length-refusal,0.1.0,0,0,https://github.com/cortexkit/commons,"Whether a model provider refused a request as too long for the model's context window, and the token counts the refusal states."
+2026-11-16T13:56:05.514559Z,polylint-rumdl,0.3.5,0,0,https://github.com/polylint/rumdl,Polylint's internal fork of rumdl. Use the rumdl crate instead.
+2026-11-16T13:56:57.683285Z,j8builtins,0.1.2,0,0,https://github.com/0x00-Community/j8,j8 built-in objects: implements Intrinsics and installs Object / Function / Array / String / Number / Math / Error / console into a Realm
+2026-11-16T13:57:31.280519Z,flextable,0.1.0,0,0,https://github.com/imhasnainizhar/datatable,"A Lua-inspired table: one flexible structure for arrays, dictionaries, objects, records, sets, and modules."
+2026-11-16T13:59:04.245541Z,sinew-scope,0.1.0,0,0,https://github.com/roanbrasil/sinew,"Trace server, web UI and terminal viewer for Sinew (LangSmith-style)"
+2026-11-16T14:00:49.851147Z,agentde,0.0.0,0,0,,Placeholder for Dopame's agentde
+2026-11-16T14:01:33.156503Z,codyscript-core,0.5.0,0,0,https://github.com/cody-script/core,"CodyScript: a small, sandboxed interpreter for programs written as data. Hosts supply the operations; programs supply the logic. Format-independent core."
+2026-11-16T14:01:37.092677Z,codyscript-json,0.5.0,0,0,https://github.com/cody-script/core,"JSON for CodyScript: parse and print programs and values, the language's JSON Schema, and serde_json interop."
+2026-11-16T14:01:41.454045Z,utf8bytes,0.1.0,0,0,https://github.com/yukibtc/utf8bytes.git,A cheaply cloneable UTF-8 string type
+2026-11-16T14:03:21.011711Z,aec3_rs,0.1.0,0,0,,Pure Rust 48 kHz multichannel acoustic echo cancellation derived from WebRTC AEC3
+2026-11-16T14:04:11.947169Z,magic-ws,1.1.0,0,0,https://github.com/alirezapkg/magic-ws,Lightweight binary WebSocket framework for real-time games
+2026-11-16T14:05:13.885055Z,image_filters_types,0.1.0,0,0,https://github.com/dioxuslabs/anyrender,Types describing SVG/CSS image filter graphs
+2026-11-16T14:05:20.257351Z,anyrender_vello_gpu,0.12.0,0,0,https://github.com/dioxuslabs/anyrender,vello_gpu (formerly vello_hybrid) backend for anyrender
+2026-11-16T14:05:26.51355Z,anyrender_tiny_skia,0.1.0,0,0,https://github.com/dioxuslabs/anyrender,tiny-skia backend for anyrender
+2026-11-16T14:06:34.380712Z,kkfetch,0.27.0,0,0,https://github.com/kk376/kkfetch,"A fast, lightweight Linux, Windows, macOS, and Android system information fetch tool written in Rust"
+2026-11-16T14:06:51.786627Z,kktypr,0.1.0,0,0,https://github.com/kk376/kktypr,A blazingly fast touch typing academy and developer syntax tutor for your terminal
+2026-11-16T14:07:10.288651Z,j8platform,0.1.2,0,0,https://github.com/0x00-Community/j8,j8 platform layer: the standard-library implementation of the Platform trait
+2026-11-16T14:07:47.211462Z,intersect-model,0.1.0-alpha.1,0,0,https://github.com/mercurio-labs/intersect-model,Shared model APIs and Rcore execution without Xtext.
+2026-11-16T14:09:23.88801Z,sinew-harness,0.1.0,0,0,https://github.com/roanbrasil/sinew,"Agent harness for Sinew: built-in tools, subagents, permissions, context compaction, budgets, guardrails and the sinew-agent CLI"
+2026-11-16T14:11:14.556385Z,libagentde,0.0.0,0,0,,Placeholder for Dopame's libagentde
+2026-11-16T14:11:27.915072Z,pipelink-common,0.1.0,0,0,https://codeberg.org/kuroki-kael/pipelink,"Shared domain types, IPC events, and audio graph models for PipeLink"
+2026-11-16T14:11:41.843075Z,pipelink-resolver,0.1.0,0,0,https://codeberg.org/kuroki-kael/pipelink,Application and node matching rules for PipeLink audio routing
+2026-11-16T14:11:53.067203Z,pipelink-jack,0.1.0,0,0,https://codeberg.org/kuroki-kael/pipelink,Lock-free JACK audio mixing backend for PipeLink
+2026-11-16T14:12:24.374555Z,pipelink-pw,0.1.0,0,0,https://codeberg.org/kuroki-kael/pipelink,"PipeWire graph discovery, linking, and metadata backend for PipeLink"
+2026-11-16T14:12:38.651944Z,pipelink-engine,0.1.0,0,0,https://codeberg.org/kuroki-kael/pipelink,Audio routing orchestration engine and XDG persistence for PipeLink
+2026-11-16T14:15:09.456106Z,intersect-text,0.1.0-alpha.1,0,0,https://github.com/mercurio-labs/intersect-text,Xtext compilation and text interpretation over Intersect model services.
+2026-11-16T14:16:45.468191Z,opendembow-core,0.13.0,0,0,https://github.com/jorgeandrecastro/opendembow,"Reusable audio engine, instruments, effects, and project format for OpenDembow."
+2026-11-16T14:17:40.475115Z,j8virtasm,0.1.2,0,0,https://github.com/0x00-Community/j8,"j8 virtual instruction set: bytecode definitions, JavaScript ⇒ bytecode"
