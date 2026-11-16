@@ -8,51 +8,72 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-16 06:20 UTC
+## Latest list — 2026-11-16 07:18 UTC
 
-New crates published between 2026-11-16 05:21 UTC and 2026-11-16 06:20 UTC.
+New crates published between 2026-11-16 06:20 UTC and 2026-11-16 07:18 UTC.
 
-[Full CSV](data/new-crates-2026-11-16T06-20-54-467671Z.csv)
+[Full CSV](data/new-crates-2026-11-16T07-18-40-756602Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-16 05:22:27 | [pkpdutils-abi](https://crates.io/crates/pkpdutils-abi) | 0.1.0 | 0 | Wire contracts of pkpdutils: NCA options, sample batches and analysis results |
-| 2026-11-16 05:22:28 | [pkpdutils-units](https://crates.io/crates/pkpdutils-units) | 0.1.0 | 0 | Curated pharmacokinetic unit registry and parameter unit expressions, in agreem… |
-| 2026-11-16 05:24:12 | [lote](https://crates.io/crates/lote) | 0.0.1 | 0 | A reservation engine that never oversells: hold, confirm, release, expire. |
-| 2026-11-16 05:26:29 | [yggio](https://crates.io/crates/yggio) | 0.0.17 | 0 | Allocation-conscious Arrow schemas, fields, resource identifiers, byte-oriented… |
-| 2026-11-16 05:26:34 | [yggio-market](https://crates.io/crates/yggio-market) | 0.0.17 | 0 | Market data and FIX for yggio: the four market enum kinds, the identifiers, the… |
-| 2026-11-16 05:26:38 | [yggio-ai](https://crates.io/crates/yggio-ai) | 0.0.17 | 0 | Language models for yggio: Model, Llm and Agent over their Value traits, persis… |
-| 2026-11-16 05:26:40 | [yggio-mysql](https://crates.io/crates/yggio-mysql) | 0.0.17 | 0 | MySQL 8.4 LTS and Apache Doris 4.1 for yggio: one blocking client over the MySQ… |
-| 2026-11-16 05:26:43 | [yggio-sqlite](https://crates.io/crates/yggio-sqlite) | 0.0.17 | 0 | SQLite for yggio: the library bundled through rusqlite behind the core's regist… |
-| 2026-11-16 05:27:21 | [strata_codegen_js](https://crates.io/crates/strata_codegen_js) | 0.1.0 | 0 | Pure JavaScript ESM code generator and AST transpiler for Strata |
-| 2026-11-16 05:27:22 | [strata_layout](https://crates.io/crates/strata_layout) | 0.1.0 | 0 | Chromium-parity Box Model, Flexbox (L1), and CSS Grid (L2) layout engine in pur… |
-| 2026-11-16 05:33:11 | [abl-evcc](https://crates.io/crates/abl-evcc) | 0.1.0 | 0 | ABL eMH1 / eMH2 (EVCC2/3) wallbox Modbus ASCII communication tool and library |
-| 2026-11-16 05:37:29 | [strata_a11y](https://crates.io/crates/strata_a11y) | 0.1.0 | 0 | Native screen-reader accessibility bridge and WCAG 2.1 AAA auditor for Project… |
-| 2026-11-16 05:39:43 | [bezel-wgpu](https://crates.io/crates/bezel-wgpu) | 0.3.25+zed.e4a373 | 0 | Cross-platform, safe, pure-rust graphics API |
-| 2026-11-16 05:45:21 | [arazzo](https://crates.io/crates/arazzo) | 0.0.0 | 0 | Name reserved for arazzo-cli, an executor, validator and debugger for Arazzo AP… |
-| 2026-11-16 05:46:43 | [arazzo-runtime](https://crates.io/crates/arazzo-runtime) | 0.0.0 | 0 | Name reserved for the arazzo-runtime library crate of arazzo-cli, an executor f… |
-| 2026-11-16 05:46:46 | [arazzo-spec](https://crates.io/crates/arazzo-spec) | 0.0.0 | 0 | Name reserved for the arazzo-spec library crate of arazzo-cli, an executor for… |
-| 2026-11-16 05:46:46 | [bitmomo](https://crates.io/crates/bitmomo) | 0.1.0 | 0 | BitMomo merchant SDK: accept crypto payments and verify webhooks in Rust |
-| 2026-11-16 05:46:47 | [arazzo-validate](https://crates.io/crates/arazzo-validate) | 0.0.0 | 0 | Name reserved for the arazzo-validate library crate of arazzo-cli, an executor… |
-| 2026-11-16 05:46:49 | [arazzo-expr](https://crates.io/crates/arazzo-expr) | 0.0.0 | 0 | Name reserved for the arazzo-expr library crate of arazzo-cli, an executor for… |
-| 2026-11-16 05:47:20 | [strata_table](https://crates.io/crates/strata_table) | 0.1.0 | 0 | Headless Data Grid & Table Engine for Strata |
-| 2026-11-16 05:57:21 | [skif-js-types](https://crates.io/crates/skif-js-types) | 0.6.0 | 0 | Type-aware facts for skif's JS/TS analysis from the TypeScript checker of tsrs;… |
-| 2026-11-16 05:57:25 | [strata_toast](https://crates.io/crates/strata_toast) | 0.1.0 | 0 | Stacked Toast Notification Engine for Strata |
-| 2026-11-16 05:57:38 | [arazzo-generate](https://crates.io/crates/arazzo-generate) | 0.0.0 | 0 | Name reserved for the arazzo-generate library crate of arazzo-cli, an executor… |
-| 2026-11-16 06:03:39 | [zeeml-text-metrics](https://crates.io/crates/zeeml-text-metrics) | 1.0.0 | 0 | Zero-dependency sentence burstiness, lexical word telemetry, CGPA normalizer, a… |
-| 2026-11-16 06:04:22 | [ciber_serde](https://crates.io/crates/ciber_serde) | 0.1.0 | 0 | Serde support for the CBR data format |
-| 2026-11-16 06:04:53 | [rshid_win](https://crates.io/crates/rshid_win) | 0.1.0 | 0 | A USB HID library for Windows, implemented directly on setupapi, hid and cfgmgr… |
-| 2026-11-16 06:08:12 | [arazzo-mcp](https://crates.io/crates/arazzo-mcp) | 0.0.0 | 0 | Name reserved for the arazzo-mcp library crate of arazzo-cli, an executor for A… |
-| 2026-11-16 06:10:39 | [strata_virtual](https://crates.io/crates/strata_virtual) | 0.1.0 | 0 | Pure-Rust high-scale 1M+ list and grid windowed virtualization engine for Strata |
-| 2026-11-16 06:11:42 | [down_verify](https://crates.io/crates/down_verify) | 0.2.0 | 0 | Lock-free streaming chunk verification trait and background worker pool / 无锁流式分… |
-| 2026-11-16 06:12:04 | [siann](https://crates.io/crates/siann) | 0.0.1 | 0 | Silicon approximate nearest neighbors: fast similarity search on Apple silicon… |
-| 2026-11-16 06:17:58 | [yggio-xmla](https://crates.io/crates/yggio-xmla) | 0.0.17 | 0 | XML for Analysis 1.1 for yggio: the SOAP client of SSAS, tabular models, Mondri… |
-| 2026-11-16 06:18:01 | [yggio-postgres](https://crates.io/crates/yggio-postgres) | 0.0.17 | 0 | PostgreSQL 16 and 17 for yggio: one blocking client over the PostgreSQL v3 wire… |
-| 2026-11-16 06:18:03 | [yggio-sqlserver](https://crates.io/crates/yggio-sqlserver) | 0.0.17 | 0 | Microsoft SQL Server 2019/2022 and Azure SQL for yggio: one blocking client ove… |
-| 2026-11-16 06:18:05 | [yggio-adbc](https://crates.io/crates/yggio-adbc) | 0.0.17 | 0 | An ADBC 1.1.0 driver over yggio: one C entry point whose `uri` picks the engine… |
-| 2026-11-16 06:18:08 | [yggio-odbc](https://crates.io/crates/yggio-odbc) | 0.0.17 | 0 | An ODBC 3.80 Unicode driver over yggio: one shared library a Driver Manager loa… |
-| 2026-11-16 06:18:46 | [arazzo-debug-adapter](https://crates.io/crates/arazzo-debug-adapter) | 0.0.0 | 0 | Name reserved for the arazzo-debug-adapter library crate of arazzo-cli, an exec… |
-| 2026-11-16 06:20:33 | [strata_render](https://crates.io/crates/strata_render) | 0.1.0 | 0 | High-performance Display List, Stacking Context Compositor, and GPU rasterizati… |
+| 2026-11-16 06:24:13 | [runic-diagnostics-macros](https://crates.io/crates/runic-diagnostics-macros) | 0.1.0 | 0 | Derive support for runic-diagnostics |
+| 2026-11-16 06:24:13 | [runic-log](https://crates.io/crates/runic-log) | 0.1.0 | 0 | Provides flexible trace logging for Runic |
+| 2026-11-16 06:24:14 | [runic-macros](https://crates.io/crates/runic-macros) | 0.1.0 | 0 | Provides proc macro support for Runic |
+| 2026-11-16 06:24:14 | [runic-symbol](https://crates.io/crates/runic-symbol) | 0.1.0 | 0 | String interning for Runic |
+| 2026-11-16 06:24:16 | [runic-diagnostics](https://crates.io/crates/runic-diagnostics) | 0.1.0 | 0 | An MLIR-inspired compiler framework |
+| 2026-11-16 06:25:02 | [swc_next_formatter_bridge](https://crates.io/crates/swc_next_formatter_bridge) | 0.0.0 | 0 | Reserved crate name for SWC Next formatter bridge |
+| 2026-11-16 06:25:09 | [swc_next_formatter_host](https://crates.io/crates/swc_next_formatter_host) | 0.0.0 | 0 | Reserved crate name for SWC Next formatter host |
+| 2026-11-16 06:25:18 | [pcb-routing](https://crates.io/crates/pcb-routing) | 0.1.0 | 0 | Grid router for printed circuit boards: all nets are laid together and settle b… |
+| 2026-11-16 06:25:20 | [swc_next_formatter_js](https://crates.io/crates/swc_next_formatter_js) | 0.0.0 | 0 | Reserved crate name for SWC Next formatter js |
+| 2026-11-16 06:25:30 | [swc_next_formatter_js_bridge](https://crates.io/crates/swc_next_formatter_js_bridge) | 0.0.0 | 0 | Reserved crate name for SWC Next formatter js bridge |
+| 2026-11-16 06:25:46 | [bandmap-core](https://crates.io/crates/bandmap-core) | 2.0.0 | 0 | Core alignment/read-mapping library for bandmap |
+| 2026-11-16 06:26:01 | [bandmap](https://crates.io/crates/bandmap) | 2.0.0 | 0 | An extensible and performant aligner and read mapper |
+| 2026-11-16 06:26:51 | [incroxigraph-sparesults](https://crates.io/crates/incroxigraph-sparesults) | 0.0.1 | 0 | SPARQL query results formats parsers and serializers |
+| 2026-11-16 06:27:26 | [runic-ir](https://crates.io/crates/runic-ir) | 0.1.0 | 0 | Fundamental Runic intermediate representation types and APIs |
+| 2026-11-16 06:27:58 | [strata-ui-platform](https://crates.io/crates/strata-ui-platform) | 0.1.0 | 0 | Native Hardware Abstraction Layer for Android, iOS, macOS, Windows, Linux, and… |
+| 2026-11-16 06:28:38 | [umf-metamodel](https://crates.io/crates/umf-metamodel) | 0.10.12 | 0 | Unified Metadata Format metamodel library. |
+| 2026-11-16 06:28:39 | [umf-codegen](https://crates.io/crates/umf-codegen) | 0.10.12 | 0 | Unified Metadata Format code generation library. |
+| 2026-11-16 06:28:45 | [umf-graphql](https://crates.io/crates/umf-graphql) | 0.10.12 | 0 | GraphQL adapter for Unified Metadata Format. |
+| 2026-11-16 06:28:49 | [umf-tagged-wire](https://crates.io/crates/umf-tagged-wire) | 0.10.12 | 0 | Tagged wire representation for Unified Metadata Format. |
+| 2026-11-16 06:28:53 | [umf-core-wire](https://crates.io/crates/umf-core-wire) | 0.10.12 | 0 | Wire bindings for the Unified Metadata Format core. |
+| 2026-11-16 06:31:02 | [vardadieniai](https://crates.io/crates/vardadieniai) | 1.0.0 | 0 | Lithuanian name days (vardadieniai): names by date, dates by name and today's n… |
+| 2026-11-16 06:31:04 | [vestuviu-metines](https://crates.io/crates/vestuviu-metines) | 1.0.0 | 0 | Lithuanian wedding anniversary names (vestuvių metinės) by year and the next an… |
+| 2026-11-16 06:31:06 | [naujagimiu-vardai](https://crates.io/crates/naujagimiu-vardai) | 1.0.0 | 0 | Most popular newborn names in Lithuania (2024, Registry Centre open data): girl… |
+| 2026-11-16 06:31:26 | [ludamtalk](https://crates.io/crates/ludamtalk) | 1.0.0 | 0 | 루담톡(LudamTalk) 온라인채팅 봇 SDK — 게이트웨이 연결, 명령어, 임베드, 보안 봇, AI 봇 |
+| 2026-11-16 06:33:08 | [incroxigraph-spargebra](https://crates.io/crates/incroxigraph-spargebra) | 0.0.1 | 0 | SPARQL parser |
+| 2026-11-16 06:33:22 | [incroxigraph-spargeo](https://crates.io/crates/incroxigraph-spargeo) | 0.0.1 | 0 | GeoSPARQL functions |
+| 2026-11-16 06:33:38 | [umf-metamodel-cli](https://crates.io/crates/umf-metamodel-cli) | 0.10.12 | 0 | Command-line compiler for the Unified Metadata Format metamodel. |
+| 2026-11-16 06:34:15 | [merlin-acp](https://crates.io/crates/merlin-acp) | 0.15.0 | 0 | Agent Client Protocol client for merlin agent plugins |
+| 2026-11-16 06:35:35 | [incroxigraph-sparopt](https://crates.io/crates/incroxigraph-sparopt) | 0.0.1 | 0 | SPARQL optimizer |
+| 2026-11-16 06:36:50 | [incroxigraph-spareval](https://crates.io/crates/incroxigraph-spareval) | 0.0.1 | 0 | SPARQL evaluator |
+| 2026-11-16 06:37:02 | [runic-analysis](https://crates.io/crates/runic-analysis) | 0.1.0 | 0 | Runic's data-flow analysis framework and passes |
+| 2026-11-16 06:37:12 | [nativelite-wayland](https://crates.io/crates/nativelite-wayland) | 0.1.0 | 0 | A Wayland client - the wire format, the socket with file descriptor passing, ob… |
+| 2026-11-16 06:37:18 | [nativelite-xkb](https://crates.io/crates/nativelite-xkb) | 0.1.0 | 0 | XKB keymaps for a Wayland client - keymap text parsing, keyboard state, keysyms… |
+| 2026-11-16 06:38:12 | [strata_chromium_surface](https://crates.io/crates/strata_chromium_surface) | 0.1.0 | 0 | Isolated on-demand Chromium subprocess harness, OSR shared memory compositor, a… |
+| 2026-11-16 06:40:57 | [aster_acme_core](https://crates.io/crates/aster_acme_core) | 0.1.0-alpha.1 | 0 | ACME resource states and state machine decisions. |
+| 2026-11-16 06:40:58 | [dataweave-rs](https://crates.io/crates/dataweave-rs) | 0.1.0 | 0 | A Rust implementation of the DataWeave expression language and its core library |
+| 2026-11-16 06:42:11 | [incroxigraph-oxrocksdb-sys](https://crates.io/crates/incroxigraph-oxrocksdb-sys) | 0.0.1 | 0 | Rust bindings for RocksDB for Oxigraph usage. |
+| 2026-11-16 06:42:22 | [aster_acme_process](https://crates.io/crates/aster_acme_process) | 0.1.0-alpha.1 | 0 | Bounded child-process lifecycle management for AsterACME. |
+| 2026-11-16 06:42:25 | [aster_acme_dns](https://crates.io/crates/aster_acme_dns) | 0.1.0-alpha.1 | 0 | DNS challenge publication contracts and routing policy for AsterACME. |
+| 2026-11-16 06:43:40 | [umf-cli](https://crates.io/crates/umf-cli) | 0.10.12 | 0 | Command-line interface for Unified Metadata Format. |
+| 2026-11-16 06:44:24 | [asset-minifier](https://crates.io/crates/asset-minifier) | 0.0.0 | 0 | A lightweight, pure Rust asset minifier that flattens whitespace and strips com… |
+| 2026-11-16 06:44:29 | [aster_acme_protocol](https://crates.io/crates/aster_acme_protocol) | 0.1.0-alpha.1 | 0 | Typed ACME wire models and discovered resource URLs. |
+| 2026-11-16 06:44:39 | [glypher](https://crates.io/crates/glypher) | 0.1.0 | 0 | Convert images to ascii art |
+| 2026-11-16 06:45:05 | [glypher-cli](https://crates.io/crates/glypher-cli) | 0.1.0 | 0 | Command line interface for glypher, converts images to ascii art |
+| 2026-11-16 06:45:14 | [vaartix](https://crates.io/crates/vaartix) | 0.1.0 | 0 | The official Rust client for Vaartix, the transactional email API built in Indi… |
+| 2026-11-16 06:45:19 | [aster_acme_dns_adpp](https://crates.io/crates/aster_acme_dns_adpp) | 0.1.0-alpha.1 | 0 | ADPP external DNS provider process adapter for AsterACME. |
+| 2026-11-16 06:47:46 | [strata_devtools](https://crates.io/crates/strata_devtools) | 0.1.0 | 0 | In-Process Overlay HUD, Frame Profiler, Reactive DAG Inspector, and Time-Travel… |
+| 2026-11-16 06:48:11 | [incroxigraph](https://crates.io/crates/incroxigraph) | 0.0.1 | 0 | RDF and SPARQL database with incremental query evaluation |
+| 2026-11-16 06:48:16 | [runic-transform](https://crates.io/crates/runic-transform) | 0.1.0 | 0 | Transformation passes and utilities for Runic IR |
+| 2026-11-16 06:48:57 | [qg-di-macros](https://crates.io/crates/qg-di-macros) | 0.1.0 | 0 | Function injection attribute for qg-di |
+| 2026-11-16 06:50:16 | [aster_acme_dns_resolver](https://crates.io/crates/aster_acme_dns_resolver) | 0.1.0-alpha.1 | 0 | Hickory DNS observation adapter for AsterACME publication policy. |
+| 2026-11-16 06:58:01 | [aster_acme](https://crates.io/crates/aster_acme) | 0.1.0-alpha.1 | 0 | Embeddable ACME client and certificate lifecycle orchestration. |
+| 2026-11-16 06:58:17 | [pfrelay-quic](https://crates.io/crates/pfrelay-quic) | 0.16.0 | 0 | Rust SDK for the pf-simple relay hub over QUIC (tunnel protocol 3): serve a tun… |
+| 2026-11-16 06:58:20 | [runic-dialect-ub](https://crates.io/crates/runic-dialect-ub) | 0.1.0 | 0 | Undefined behavior dialect for Runic |
+| 2026-11-16 07:08:24 | [runic-dialect-arith](https://crates.io/crates/runic-dialect-arith) | 0.1.0 | 0 | Arithmetic dialect for Runic |
+| 2026-11-16 07:11:54 | [aster_acme_cli_storage](https://crates.io/crates/aster_acme_cli_storage) | 0.1.0-alpha.1 | 0 | Private local account and key storage for the AsterACME CLI. |
+| 2026-11-16 07:18:30 | [runic-compile](https://crates.io/crates/runic-compile) | 0.1.0 | 0 | The compiler harness of Runic: what a compilation is asked to do, and the stage… |
+| 2026-11-16 07:18:37 | [fiducial-rt](https://crates.io/crates/fiducial-rt) | 0.28.0 | 0 | Real-time setup for a Linux control loop: SCHED_FIFO, mlockall, CPU pinning, st… |
 
 ## Data source
 

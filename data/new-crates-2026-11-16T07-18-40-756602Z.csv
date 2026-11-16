@@ -1,0 +1,59 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-16T06:24:13.066624Z,runic-diagnostics-macros,0.1.0,0,0,https://github.com/bitwalker/runic,Derive support for runic-diagnostics
+2026-11-16T06:24:13.842534Z,runic-log,0.1.0,0,0,https://github.com/bitwalker/runic,Provides flexible trace logging for Runic
+2026-11-16T06:24:14.36596Z,runic-macros,0.1.0,0,0,https://github.com/bitwalker/runic,Provides proc macro support for Runic
+2026-11-16T06:24:14.919997Z,runic-symbol,0.1.0,0,0,https://github.com/bitwalker/runic,String interning for Runic
+2026-11-16T06:24:16.579787Z,runic-diagnostics,0.1.0,0,0,https://github.com/bitwalker/runic,An MLIR-inspired compiler framework
+2026-11-16T06:25:02.267986Z,swc_next_formatter_bridge,0.0.0,0,0,https://github.com/swc-project/swc-next,Reserved crate name for SWC Next formatter bridge
+2026-11-16T06:25:09.037033Z,swc_next_formatter_host,0.0.0,0,0,https://github.com/swc-project/swc-next,Reserved crate name for SWC Next formatter host
+2026-11-16T06:25:18.577931Z,pcb-routing,0.1.0,0,0,https://github.com/9thAxis/pcb-routing,Grid router for printed circuit boards: all nets are laid together and settle between themselves who goes where (negotiated congestion)
+2026-11-16T06:25:20.336628Z,swc_next_formatter_js,0.0.0,0,0,https://github.com/swc-project/swc-next,Reserved crate name for SWC Next formatter js
+2026-11-16T06:25:30.690608Z,swc_next_formatter_js_bridge,0.0.0,0,0,https://github.com/swc-project/swc-next,Reserved crate name for SWC Next formatter js bridge
+2026-11-16T06:25:46.107338Z,bandmap-core,2.0.0,0,0,https://github.com/keithyin/rammap,Core alignment/read-mapping library for bandmap
+2026-11-16T06:26:01.433111Z,bandmap,2.0.0,0,0,https://github.com/keithyin/rammap,An extensible and performant aligner and read mapper
+2026-11-16T06:26:51.772008Z,incroxigraph-sparesults,0.0.1,0,0,https://github.com/maartyman/incroxigraph,SPARQL query results formats parsers and serializers
+2026-11-16T06:27:26.460096Z,runic-ir,0.1.0,0,0,https://github.com/bitwalker/runic,Fundamental Runic intermediate representation types and APIs
+2026-11-16T06:27:58.691377Z,strata-ui-platform,0.1.0,0,0,https://github.com/strataui/strata,"Native Hardware Abstraction Layer for Android, iOS, macOS, Windows, Linux, and Web"
+2026-11-16T06:28:38.099843Z,umf-metamodel,0.10.12,0,0,https://github.com/DocumentDrivenDX/umf,Unified Metadata Format metamodel library.
+2026-11-16T06:28:39.74212Z,umf-codegen,0.10.12,0,0,https://github.com/DocumentDrivenDX/umf,Unified Metadata Format code generation library.
+2026-11-16T06:28:45.023198Z,umf-graphql,0.10.12,0,0,https://github.com/DocumentDrivenDX/umf,GraphQL adapter for Unified Metadata Format.
+2026-11-16T06:28:49.304851Z,umf-tagged-wire,0.10.12,0,0,https://github.com/DocumentDrivenDX/umf,Tagged wire representation for Unified Metadata Format.
+2026-11-16T06:28:53.819436Z,umf-core-wire,0.10.12,0,0,https://github.com/DocumentDrivenDX/umf,Wire bindings for the Unified Metadata Format core.
+2026-11-16T06:31:02.647004Z,vardadieniai,1.0.0,0,0,https://github.com/ello-lithuania/lietuviski-vardadieniai,"Lithuanian name days (vardadieniai): names by date, dates by name and today's names in Europe/Vilnius time. Library and CLI, no dependencies."
+2026-11-16T06:31:04.92405Z,vestuviu-metines,1.0.0,0,0,https://github.com/ello-lithuania/vestuviu-metines,"Lithuanian wedding anniversary names (vestuvių metinės) by year and the next anniversary for a wedding date. Library and CLI, no dependencies."
+2026-11-16T06:31:06.767578Z,naujagimiu-vardai,1.0.0,0,0,https://github.com/ello-lithuania/lietuviski-vardadieniai,"Most popular newborn names in Lithuania (2024, Registry Centre open data): girls and boys with ranks and counts. Library and CLI, no dependencies."
+2026-11-16T06:31:26.173582Z,ludamtalk,1.0.0,0,0,https://github.com/FRAMETECH-STUDIO/ludamtalk-sdk,"루담톡(LudamTalk) 온라인채팅 봇 SDK — 게이트웨이 연결, 명령어, 임베드, 보안 봇, AI 봇"
+2026-11-16T06:33:08.486697Z,incroxigraph-spargebra,0.0.1,0,0,https://github.com/maartyman/incroxigraph,SPARQL parser
+2026-11-16T06:33:22.953833Z,incroxigraph-spargeo,0.0.1,0,0,https://github.com/maartyman/incroxigraph,GeoSPARQL functions
+2026-11-16T06:33:38.691376Z,umf-metamodel-cli,0.10.12,0,0,https://github.com/DocumentDrivenDX/umf,Command-line compiler for the Unified Metadata Format metamodel.
+2026-11-16T06:34:15.859771Z,merlin-acp,0.15.0,0,0,https://github.com/merlin-editor/merlin,Agent Client Protocol client for merlin agent plugins
+2026-11-16T06:35:35.142292Z,incroxigraph-sparopt,0.0.1,0,0,https://github.com/maartyman/incroxigraph,SPARQL optimizer
+2026-11-16T06:36:50.364943Z,incroxigraph-spareval,0.0.1,0,0,https://github.com/maartyman/incroxigraph,SPARQL evaluator
+2026-11-16T06:37:02.242186Z,runic-analysis,0.1.0,0,0,https://github.com/bitwalker/runic,Runic's data-flow analysis framework and passes
+2026-11-16T06:37:12.677098Z,nativelite-wayland,0.1.0,0,0,https://github.com/nativelite/wayland-rs,"A Wayland client - the wire format, the socket with file descriptor passing, objects, events, and a protocol scanner - using only the Rust standard library."
+2026-11-16T06:37:18.78363Z,nativelite-xkb,0.1.0,0,0,https://github.com/nativelite/xkb-rs,"XKB keymaps for a Wayland client - keymap text parsing, keyboard state, keysyms and Compose sequences - using only the Rust standard library."
+2026-11-16T06:38:12.013238Z,strata_chromium_surface,0.1.0,0,0,https://github.com/strataui/strata,"Isolated on-demand Chromium subprocess harness, OSR shared memory compositor, and native WebView bridge"
+2026-11-16T06:40:57.275374Z,aster_acme_core,0.1.0-alpha.1,0,0,https://github.com/AsterCommunity/AsterACME,ACME resource states and state machine decisions.
+2026-11-16T06:40:58.338727Z,dataweave-rs,0.1.0,0,0,https://github.com/omkarium/Dataweave-rs,A Rust implementation of the DataWeave expression language and its core library
+2026-11-16T06:42:11.631143Z,incroxigraph-oxrocksdb-sys,0.0.1,0,0,https://github.com/maartyman/incroxigraph,Rust bindings for RocksDB for Oxigraph usage.
+2026-11-16T06:42:22.417308Z,aster_acme_process,0.1.0-alpha.1,0,0,https://github.com/AsterCommunity/AsterACME,Bounded child-process lifecycle management for AsterACME.
+2026-11-16T06:42:25.038633Z,aster_acme_dns,0.1.0-alpha.1,0,0,https://github.com/AsterCommunity/AsterACME,DNS challenge publication contracts and routing policy for AsterACME.
+2026-11-16T06:43:40.233801Z,umf-cli,0.10.12,0,0,https://github.com/DocumentDrivenDX/umf,Command-line interface for Unified Metadata Format.
+2026-11-16T06:44:24.964711Z,asset-minifier,0.0.0,0,0,https://github.com/dr-montasir/asset-minifier,"A lightweight, pure Rust asset minifier that flattens whitespace and strips comments from CSS and JS files while seamlessly updating .ignore profiles for cargo watch development workflows."
+2026-11-16T06:44:29.314466Z,aster_acme_protocol,0.1.0-alpha.1,0,0,https://github.com/AsterCommunity/AsterACME,Typed ACME wire models and discovered resource URLs.
+2026-11-16T06:44:39.354492Z,glypher,0.1.0,0,0,https://github.com/butlerx/textify,Convert images to ascii art
+2026-11-16T06:45:05.464203Z,glypher-cli,0.1.0,0,0,https://github.com/butlerx/textify,"Command line interface for glypher, converts images to ascii art"
+2026-11-16T06:45:14.724562Z,vaartix,0.1.0,0,0,https://github.com/vaartix-mail/vaartix-rust,"The official Rust client for Vaartix, the transactional email API built in India."
+2026-11-16T06:45:19.42202Z,aster_acme_dns_adpp,0.1.0-alpha.1,0,0,https://github.com/AsterCommunity/AsterACME,ADPP external DNS provider process adapter for AsterACME.
+2026-11-16T06:47:46.977933Z,strata_devtools,0.1.0,0,0,https://github.com/strataui/strata,"In-Process Overlay HUD, Frame Profiler, Reactive DAG Inspector, and Time-Travel Debugger for Strata"
+2026-11-16T06:48:11.552561Z,incroxigraph,0.0.1,0,0,https://github.com/maartyman/incroxigraph,RDF and SPARQL database with incremental query evaluation
+2026-11-16T06:48:16.20402Z,runic-transform,0.1.0,0,0,https://github.com/bitwalker/runic,Transformation passes and utilities for Runic IR
+2026-11-16T06:48:57.047191Z,qg-di-macros,0.1.0,0,0,https://github.com/Quaternion-Group/qg-di,Function injection attribute for qg-di
+2026-11-16T06:50:16.69624Z,aster_acme_dns_resolver,0.1.0-alpha.1,0,0,https://github.com/AsterCommunity/AsterACME,Hickory DNS observation adapter for AsterACME publication policy.
+2026-11-16T06:58:01.939837Z,aster_acme,0.1.0-alpha.1,0,0,https://github.com/AsterCommunity/AsterACME,Embeddable ACME client and certificate lifecycle orchestration.
+2026-11-16T06:58:17.252516Z,pfrelay-quic,0.16.0,0,0,https://github.com/wushilin/pf-simple,Rust SDK for the pf-simple relay hub over QUIC (tunnel protocol 3): serve a tunnel or connect through one
+2026-11-16T06:58:20.118168Z,runic-dialect-ub,0.1.0,0,0,https://github.com/bitwalker/runic,Undefined behavior dialect for Runic
+2026-11-16T07:08:24.804873Z,runic-dialect-arith,0.1.0,0,0,https://github.com/bitwalker/runic,Arithmetic dialect for Runic
+2026-11-16T07:11:54.71739Z,aster_acme_cli_storage,0.1.0-alpha.1,0,0,https://github.com/AsterCommunity/AsterACME,Private local account and key storage for the AsterACME CLI.
+2026-11-16T07:18:30.412296Z,runic-compile,0.1.0,0,0,https://github.com/bitwalker/runic,"The compiler harness of Runic: what a compilation is asked to do, and the stages it runs through"
+2026-11-16T07:18:37.453181Z,fiducial-rt,0.28.0,0,0,https://github.com/AleksaZCodes/fiducial,"Real-time setup for a Linux control loop: SCHED_FIFO, mlockall, CPU pinning, stack prefault."
