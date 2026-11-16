@@ -8,67 +8,68 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-16 18:21 UTC
+## Latest list — 2026-11-16 19:19 UTC
 
-New crates published between 2026-11-16 17:18 UTC and 2026-11-16 18:21 UTC.
+New crates published between 2026-11-16 18:21 UTC and 2026-11-16 19:19 UTC.
 
-[Full CSV](data/new-crates-2026-11-16T18-21-07-26933Z.csv)
+[Full CSV](data/new-crates-2026-11-16T19-19-56-828501Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-16 17:19:01 | [website-vulnerability-scanner](https://crates.io/crates/website-vulnerability-scanner) | 0.2.0 | 0 | Cross-platform defensive website security & configuration scanner with GUI and… |
-| 2026-11-16 17:20:28 | [acde-webgl](https://crates.io/crates/acde-webgl) | 0.0.0 | 0 | Placeholder for Dopame's acde-webgl |
-| 2026-11-16 17:21:30 | [forgesworn-qr](https://crates.io/crates/forgesworn-qr) | 0.3.0 | 0 | QR code encoder and image decoder with no runtime dependencies, plus SVG and te… |
-| 2026-11-16 17:21:49 | [skathi-taffy](https://crates.io/crates/skathi-taffy) | 0.0.0 | 0 | Reserved for Skathi; the crate is published with Skathi 0.3.0 |
-| 2026-11-16 17:21:53 | [skathi-gpui-bench-metrics](https://crates.io/crates/skathi-gpui-bench-metrics) | 0.0.0 | 0 | Reserved for Skathi; the crate is published with Skathi 0.3.0 |
-| 2026-11-16 17:21:56 | [skathi-gpui-collections](https://crates.io/crates/skathi-gpui-collections) | 0.0.0 | 0 | Reserved for Skathi; the crate is published with Skathi 0.3.0 |
-| 2026-11-16 17:21:57 | [skathi-gpui-util](https://crates.io/crates/skathi-gpui-util) | 0.0.0 | 0 | Reserved for Skathi; the crate is published with Skathi 0.3.0 |
-| 2026-11-16 17:22:07 | [skathi-gpui-macros](https://crates.io/crates/skathi-gpui-macros) | 0.0.0 | 0 | Reserved for Skathi; the crate is published with Skathi 0.3.0 |
-| 2026-11-16 17:24:36 | [escpost-usbprint](https://crates.io/crates/escpost-usbprint) | 0.5.0 | 0 | Safe Windows USB printer device access for ESCPost |
-| 2026-11-16 17:25:51 | [canary-physics](https://crates.io/crates/canary-physics) | 0.1.0 | 0 | Canary Engine 2D physics: PhysicsBackend trait + Rapier2D backend with fixed-ti… |
-| 2026-11-16 17:27:32 | [era2m_cpu_perf](https://crates.io/crates/era2m_cpu_perf) | 0.2.1 | 0 | ISA-agnostic CPU timing models of era2m (in-order, out-of-order, ...) |
-| 2026-11-16 17:27:55 | [skathi-gpui-http-client](https://crates.io/crates/skathi-gpui-http-client) | 0.0.0 | 0 | Reserved for Skathi; the crate is published with Skathi 0.3.0 |
-| 2026-11-16 17:30:55 | [acde-napi](https://crates.io/crates/acde-napi) | 0.0.0 | 0 | Placeholder for Dopame's acde-napi |
-| 2026-11-16 17:32:35 | [teigeodata-api](https://crates.io/crates/teigeodata-api) | 1.0.1 | 0 | The safe public API of teigeodata: the one source every language binding is gen… |
-| 2026-11-16 17:34:10 | [scidtopgn](https://crates.io/crates/scidtopgn) | 0.2.0 | 0 | Library for reading and writing SCID chess databases |
-| 2026-11-16 17:34:17 | [scidtopgn-cli](https://crates.io/crates/scidtopgn-cli) | 0.2.0 | 0 | CLI tool for converting SCID databases to/from PGN format |
-| 2026-11-16 17:35:22 | [teigeodata-server](https://crates.io/crates/teigeodata-server) | 1.0.1 | 0 | The request core of the teigeodata servers: outputs (native, GeoJSON, Nominatim… |
-| 2026-11-16 17:36:08 | [canary-render-ecs](https://crates.io/crates/canary-render-ecs) | 0.1.0 | 0 | Canary Engine ECS-to-render bridge: extract renderables from the World, CPU-bak… |
-| 2026-11-16 17:36:26 | [dreamd-protocol](https://crates.io/crates/dreamd-protocol) | 1.3.1 | 0 | Serde types for dreamd's on-disk JSONL records and HTTP API. |
-| 2026-11-16 17:37:34 | [skathi-gpui-refineable](https://crates.io/crates/skathi-gpui-refineable) | 0.0.0 | 0 | Reserved for Skathi; the crate is published with Skathi 0.3.0 |
-| 2026-11-16 17:38:55 | [ibis-hiveserver2](https://crates.io/crates/ibis-hiveserver2) | 0.1.0 | 0 | Minimal HiveServer2 (Thrift) client: what the Spark and Impala backends of ibis… |
-| 2026-11-16 17:38:59 | [ibis-impala](https://crates.io/crates/ibis-impala) | 0.1.0 | 0 | Apache Impala backend plugin for ibis-rs |
-| 2026-11-16 17:39:00 | [ibis-spark](https://crates.io/crates/ibis-spark) | 0.1.0 | 0 | Spark SQL backend plugin for ibis-rs, over the Spark Thrift server |
-| 2026-11-16 17:40:19 | [acde-gpu](https://crates.io/crates/acde-gpu) | 0.0.0 | 0 | Placeholder for Dopame's acde-gpu |
-| 2026-11-16 17:40:54 | [dreamd-core](https://crates.io/crates/dreamd-core) | 1.3.1 | 0 | Engine behind the dreamd binary: episodic store, BM25 recall, dream cycle. |
-| 2026-11-16 17:44:13 | [teigeodata-cli](https://crates.io/crates/teigeodata-cli) | 1.0.1 | 0 | tgd, the teigeodata command line: inspect, verify, diff, extract and export pac… |
-| 2026-11-16 17:46:24 | [bevy_movie_play_experimental](https://crates.io/crates/bevy_movie_play_experimental) | 0.0.1 | 0 | Play a movie in Bevy (currently experimental) |
-| 2026-11-16 17:47:04 | [era2m_cpu_iss](https://crates.io/crates/era2m_cpu_iss) | 0.2.1 | 0 | Utility to generate ISA Instruction and CSR utils. Issued from Terminus ISS wri… |
-| 2026-11-16 17:47:05 | [era2m_softfloat](https://crates.io/crates/era2m_softfloat) | 0.2.1 | 0 | ISA-agnostic IEEE 754 binary floating point in software, with the ISA choices (… |
-| 2026-11-16 17:47:34 | [skathi-gpui-derive-refineable](https://crates.io/crates/skathi-gpui-derive-refineable) | 0.0.0 | 0 | Reserved for Skathi; the crate is published with Skathi 0.3.0 |
-| 2026-11-16 17:48:29 | [xoev-codelists-fim](https://crates.io/crates/xoev-codelists-fim) | 1.2611.4 | 0 | Codelist data published under `urn:xoev-de:fim:codeliste:` (FIM) |
-| 2026-11-16 17:48:34 | [xoev-codelists-kosit](https://crates.io/crates/xoev-codelists-kosit) | 1.2611.4 | 0 | Codelist data published under `urn:xoev-de:kosit:codeliste:` (KoSIT) |
-| 2026-11-16 17:48:38 | [xoev-codelists-xewaffe](https://crates.io/crates/xoev-codelists-xewaffe) | 1.2611.4 | 0 | Codelist data published under `urn:xoev-de:xewaffe:codeliste:` (XEWaffe) |
-| 2026-11-16 17:48:41 | [xoev-codelists-xfahrtenschreiber](https://crates.io/crates/xoev-codelists-xfahrtenschreiber) | 1.2611.3 | 0 | Codelist data published under `urn:xoev-de:xfahrtenschreiber:codeliste:` (XFahr… |
-| 2026-11-16 17:48:48 | [xoev-codelists-xpersonenstand](https://crates.io/crates/xoev-codelists-xpersonenstand) | 1.2611.3 | 0 | Codelist data published under `urn:xpersonenstand:schluesseltabelle:` (Personen… |
-| 2026-11-16 17:50:45 | [acde-vello](https://crates.io/crates/acde-vello) | 0.0.0 | 0 | Placeholder for Dopame's acde-vello |
-| 2026-11-16 17:53:23 | [xoev-codelists-xoev](https://crates.io/crates/xoev-codelists-xoev) | 1.2611.3 | 0 | Codelist data published under `urn:de:xoev:codeliste:` (XÖV) |
-| 2026-11-16 17:57:34 | [skathi-gpui-scheduler](https://crates.io/crates/skathi-gpui-scheduler) | 0.0.0 | 0 | Reserved for Skathi; the crate is published with Skathi 0.3.0 |
-| 2026-11-16 17:59:18 | [vantage-tester](https://crates.io/crates/vantage-tester) | 0.1.0 | 0 | What-if scenario tests: parses scenario YAML, plans the what-if tree and walks… |
-| 2026-11-16 18:01:09 | [acde-shell](https://crates.io/crates/acde-shell) | 0.0.0 | 0 | Placeholder for Dopame's acde-shell |
-| 2026-11-16 18:02:57 | [era2m_cpu](https://crates.io/crates/era2m_cpu) | 0.2.1 | 0 | Era2m cpu iss utilities and cores |
-| 2026-11-16 18:03:23 | [era2m_crand_core](https://crates.io/crates/era2m_crand_core) | 0.2.1 | 0 | era2m_crand core: TOML model, expression language, solver, analysis (no renderi… |
-| 2026-11-16 18:04:48 | [cpython-api](https://crates.io/crates/cpython-api) | 0.1.0 | 0 | Placeholder for the private CPython Rust API |
-| 2026-11-16 18:07:33 | [skathi-gpui-sum-tree](https://crates.io/crates/skathi-gpui-sum-tree) | 0.0.0 | 0 | Reserved for Skathi; the crate is published with Skathi 0.3.0 |
-| 2026-11-16 18:10:31 | [acde-window](https://crates.io/crates/acde-window) | 0.0.0 | 0 | Placeholder for Dopame's acde-window |
-| 2026-11-16 18:12:32 | [forge-build](https://crates.io/crates/forge-build) | 0.2.0 | 0 | An incremental C/C++ build system with explainable rebuilds |
-| 2026-11-16 18:14:38 | [haest-http](https://crates.io/crates/haest-http) | 0.2.0 | 0 | haest's HTTP seam: a small request/response client trait haest's model calls an… |
-| 2026-11-16 18:15:17 | [rusted-auth-sea-orm](https://crates.io/crates/rusted-auth-sea-orm) | 0.5.0 | 0 | Postgres storage for rusted-auth with SeaORM: accounts, sessions, second factor… |
-| 2026-11-16 18:17:12 | [era2m_crand_macros](https://crates.io/crates/era2m_crand_macros) | 0.2.1 | 0 | params!("model.toml"): typed Rust structs generated from an era2m_crand model |
-| 2026-11-16 18:17:34 | [skathi-gpui-ztracing](https://crates.io/crates/skathi-gpui-ztracing) | 0.0.0 | 0 | Reserved for Skathi; the crate is published with Skathi 0.3.0 |
-| 2026-11-16 18:19:20 | [haest-issues](https://crates.io/crates/haest-issues) | 0.1.0 | 0 | Experimental, and an example of how to write tools for haest: issue-tracker too… |
-| 2026-11-16 18:20:01 | [pultr-core](https://crates.io/crates/pultr-core) | 0.0.4 | 0 | Core of pultr: cards, layout, input and rendering |
-| 2026-11-16 18:20:57 | [acde-paint](https://crates.io/crates/acde-paint) | 0.0.0 | 0 | Placeholder for Dopame's acde-paint |
+| 2026-11-16 18:25:18 | [yacordis-component-api](https://crates.io/crates/yacordis-component-api) | 0.1.0 | 0 | Stable C-ABI boundary for yacordis components compiled as cdylib binaries |
+| 2026-11-16 18:27:35 | [skathi-gpui-ztracing-macro](https://crates.io/crates/skathi-gpui-ztracing-macro) | 0.0.0 | 0 | Reserved for Skathi; the crate is published with Skathi 0.3.0 |
+| 2026-11-16 18:30:00 | [sanadb-studio](https://crates.io/crates/sanadb-studio) | 0.2.1 | 0 | Local web UI for a sanadb store: browse, search, map, watch the walk, edit meta… |
+| 2026-11-16 18:30:18 | [acde-driver](https://crates.io/crates/acde-driver) | 0.0.0 | 0 | Placeholder for Dopame's acde-driver |
+| 2026-11-16 18:31:18 | [enf](https://crates.io/crates/enf) | 0.1.1 | 0 | Slightly nicer than /usr/bin/env |
+| 2026-11-16 18:31:44 | [yacordis-macros](https://crates.io/crates/yacordis-macros) | 0.1.0 | 0 | Attribute macros for declaring yacordis components |
+| 2026-11-16 18:32:00 | [yacordis](https://crates.io/crates/yacordis) | 0.1.0 | 0 | Rust implementation of the Cordis spatiotemporal composability framework |
+| 2026-11-16 18:32:04 | [toolcheck](https://crates.io/crates/toolcheck) | 0.1.0 | 0 | Check team tool versions and explain required upgrades |
+| 2026-11-16 18:32:18 | [yacordis-loader](https://crates.io/crates/yacordis-loader) | 0.1.0 | 0 | Runtime installer for yacordis components distributed as prebuilt cdylib binari… |
+| 2026-11-16 18:32:23 | [yacordis-logger](https://crates.io/crates/yacordis-logger) | 0.1.0 | 0 | Leveled logging service with pluggable sinks for yacordis |
+| 2026-11-16 18:32:29 | [yacordis-timer](https://crates.io/crates/yacordis-timer) | 0.1.0 | 0 | Scope-released timer service for yacordis (setTimeout/setInterval/sleep) |
+| 2026-11-16 18:32:44 | [era2m_test_macros](https://crates.io/crates/era2m_test_macros) | 0.2.1 | 0 | The #[era2m_test::test] attribute (use it through era2m_test) |
+| 2026-11-16 18:32:52 | [quebracho-x402](https://crates.io/crates/quebracho-x402) | 0.1.0 | 0 | x402 payments for devices: a no_std core that verifies EVM exact payments, port… |
+| 2026-11-16 18:33:02 | [quebracho-x402-screening](https://crates.io/crates/quebracho-x402-screening) | 0.1.0 | 0 | Address screening for quebracho-x402: OFAC's list shipped, the token's own blac… |
+| 2026-11-16 18:34:45 | [matier-core](https://crates.io/crates/matier-core) | 0.1.0 | 0 | Shared body, error, observer and buffer types for the Matier HTTP client |
+| 2026-11-16 18:34:45 | [matier-h1](https://crates.io/crates/matier-h1) | 0.1.0 | 0 | Sans-IO HTTP/1.1 client codec (RFC 9112) |
+| 2026-11-16 18:34:46 | [matier-h2](https://crates.io/crates/matier-h2) | 0.1.0 | 0 | Sans-IO HTTP/2 framing, HPACK and flow-control primitives for Matier |
+| 2026-11-16 18:34:47 | [matier-otel](https://crates.io/crates/matier-otel) | 0.1.0 | 0 | Optional OpenTelemetry instrumentation for Matier |
+| 2026-11-16 18:34:48 | [matier-transport](https://crates.io/crates/matier-transport) | 0.1.0 | 0 | TCP, TLS and HTTP/1.1 and HTTP/2 connections for the Matier HTTP client |
+| 2026-11-16 18:34:54 | [xcom-proto](https://crates.io/crates/xcom-proto) | 0.0.1 | 0 | Wire types and codec of the xcom protocol. Placeholder; the first release follo… |
+| 2026-11-16 18:34:57 | [xcom-core](https://crates.io/crates/xcom-core) | 0.0.1 | 0 | The xcom broker and placement, for embedding. Placeholder; the first release fo… |
+| 2026-11-16 18:35:01 | [xcom-cli](https://crates.io/crates/xcom-cli) | 0.0.1 | 0 | The xcom command: run work across your own machines. Placeholder; the first rel… |
+| 2026-11-16 18:37:34 | [skathi-gpui-platform](https://crates.io/crates/skathi-gpui-platform) | 0.0.0 | 0 | Reserved for Skathi; the crate is published with Skathi 0.3.0 |
+| 2026-11-16 18:40:44 | [acde-jsrt](https://crates.io/crates/acde-jsrt) | 0.0.0 | 0 | Placeholder for Dopame's acde-jsrt |
+| 2026-11-16 18:41:14 | [nsh-ext](https://crates.io/crates/nsh-ext) | 0.1.0 | 0 | Opt-in native WebView extensions for Native Shell |
+| 2026-11-16 18:42:24 | [ail](https://crates.io/crates/ail) | 0.1.0 | 0 | Advanced Information Lister - provides a simple or detailed description of the… |
+| 2026-11-16 18:43:24 | [era2m_test](https://crates.io/crates/era2m_test) | 0.2.1 | 0 | Test definition for era2m projects: kind, group, seeds, timeout, one process pe… |
+| 2026-11-16 18:43:26 | [era2m_crand](https://crates.io/crates/era2m_crand) | 0.2.1 | 0 | Constrained-random parameter sets defined in TOML: solver, analysis, templates,… |
+| 2026-11-16 18:43:41 | [transmitly](https://crates.io/crates/transmitly) | 1.0.1 | 0 | Rust client for the Transmitly email API |
+| 2026-11-16 18:44:01 | [nsh-ext-linux](https://crates.io/crates/nsh-ext-linux) | 0.1.0 | 0 | Linux (GTK 4, WebKitGTK 6.0) adapter for nsh-ext's extension-owned WebView |
+| 2026-11-16 18:44:06 | [onyun](https://crates.io/crates/onyun) | 0.3.1 | 0 | High-speed Tor v3 .onion vanity address minter with CLI, Web UI, and Tauri desk… |
+| 2026-11-16 18:44:58 | [matier-pool](https://crates.io/crates/matier-pool) | 0.1.0 | 0 | Connection pool for Matier: h1 idle stack + waiter queue, h2 snapshot with powe… |
+| 2026-11-16 18:47:41 | [skathi-gpui-linux](https://crates.io/crates/skathi-gpui-linux) | 0.0.0 | 0 | Reserved for Skathi; the crate is published with Skathi 0.3.0 |
+| 2026-11-16 18:50:19 | [pd-host-schema](https://crates.io/crates/pd-host-schema) | 0.31.2 | 0 | Shared host-schema parsing for the pd-host-function proc macro and the pd-vm bu… |
+| 2026-11-16 18:50:37 | [wustite](https://crates.io/crates/wustite) | 0.1.0 | 0 | A competitive chess engine, built with Rust and Python. |
+| 2026-11-16 18:51:10 | [acde-remote](https://crates.io/crates/acde-remote) | 0.0.0 | 0 | Placeholder for Dopame's acde-remote |
+| 2026-11-16 18:51:25 | [nsh-ext-apple](https://crates.io/crates/nsh-ext-apple) | 0.1.0 | 0 | iOS, Mac Catalyst and macOS adapter for nsh-ext's loading-progress WebView |
+| 2026-11-16 18:52:00 | [ansi_to_appcui](https://crates.io/crates/ansi_to_appcui) | 1.1.0 | 0 | . |
+| 2026-11-16 18:52:14 | [nsh-ext-windows](https://crates.io/crates/nsh-ext-windows) | 0.1.0 | 0 | Windows WebView2 adapter for nsh-ext, hosted as an NSH native component |
+| 2026-11-16 18:52:51 | [nsh-ext-gpui](https://crates.io/crates/nsh-ext-gpui) | 0.1.0 | 0 | nsh-ext WebView for Native Shell's GPUI backend: an owned wry web view as a nat… |
+| 2026-11-16 18:54:16 | [era2m](https://crates.io/crates/era2m) | 0.2.1 | 0 | era2m: hardware description (era2m_hdl), transaction-level simulation (era2m_si… |
+| 2026-11-16 18:54:34 | [musid-dli](https://crates.io/crates/musid-dli) | 0.1.0 | 0 | Modular Rust music metadata, provider aggregation, stream resolution and local… |
+| 2026-11-16 18:55:05 | [matier](https://crates.io/crates/matier) | 0.1.0 | 0 | Matier: a high-performance HTTP/1.1 + HTTP/2 client for tokio |
+| 2026-11-16 18:57:35 | [skathi-gpui-wgpu](https://crates.io/crates/skathi-gpui-wgpu) | 0.0.0 | 0 | Reserved for Skathi; the crate is published with Skathi 0.3.0 |
+| 2026-11-16 19:00:35 | [tracefs-core](https://crates.io/crates/tracefs-core) | 0.0.0 | 0 | Placeholder for Dopame's tracefs-core |
+| 2026-11-16 19:01:29 | [rho-a2ui](https://crates.io/crates/rho-a2ui) | 0.1.0 | 0 | A2UI v1.0 core for Rho: catalogs, validation, message processing, and A2UI Expr… |
+| 2026-11-16 19:02:11 | [vocsim](https://crates.io/crates/vocsim) | 0.1.0 | 0 | A small formant-based singing voice synthesizer |
+| 2026-11-16 19:05:20 | [yam-serde](https://crates.io/crates/yam-serde) | 0.1.2 | 0 | Pure Rust YAML reader and writer (to be added) |
+| 2026-11-16 19:07:34 | [skathi-gpui-web](https://crates.io/crates/skathi-gpui-web) | 0.0.0 | 0 | Reserved for Skathi; the crate is published with Skathi 0.3.0 |
+| 2026-11-16 19:10:59 | [tracefsd](https://crates.io/crates/tracefsd) | 0.0.0 | 0 | Placeholder for Dopame's tracefsd |
+| 2026-11-16 19:11:11 | [rue-lint](https://crates.io/crates/rue-lint) | 0.12.0 | 0 | Lints for the Rue programming language, which run as passes after compilation. |
+| 2026-11-16 19:12:40 | [drawnui-add3d](https://crates.io/crates/drawnui-add3d) | 0.1.0-preview.1 | 0 | An add-on for DrawnUI for Rust: 3D models in a DrawnUI screen. glTF scenes with… |
+| 2026-11-16 19:17:35 | [skathi-gpui-ios](https://crates.io/crates/skathi-gpui-ios) | 0.0.0 | 0 | Reserved for Skathi; the crate is published with Skathi 0.3.0 |
+| 2026-11-16 19:19:00 | [camel-json-schema](https://crates.io/crates/camel-json-schema) | 0.69.0 | 0 | Confined JSON Schema compilation shared by rust-camel consumers |
 
 ## Data source
 

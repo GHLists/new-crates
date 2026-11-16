@@ -1,0 +1,55 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-16T18:25:18.212226Z,yacordis-component-api,0.1.0,0,0,,Stable C-ABI boundary for yacordis components compiled as cdylib binaries
+2026-11-16T18:27:35.01346Z,skathi-gpui-ztracing-macro,0.0.0,0,0,https://github.com/argon-chat/skathi,Reserved for Skathi; the crate is published with Skathi 0.3.0
+2026-11-16T18:30:00.790925Z,sanadb-studio,0.2.1,0,0,https://github.com/RohithOrg/sanadb,"Local web UI for a sanadb store: browse, search, map, watch the walk, edit metadata"
+2026-11-16T18:30:18.905204Z,acde-driver,0.0.0,0,0,,Placeholder for Dopame's acde-driver
+2026-11-16T18:31:18.201489Z,enf,0.1.1,0,0,https://github.com/jeffs/enf,Slightly nicer than /usr/bin/env
+2026-11-16T18:31:44.443998Z,yacordis-macros,0.1.0,0,0,,Attribute macros for declaring yacordis components
+2026-11-16T18:32:00.39434Z,yacordis,0.1.0,0,0,,Rust implementation of the Cordis spatiotemporal composability framework
+2026-11-16T18:32:04.758992Z,toolcheck,0.1.0,0,0,https://github.com/cesarferreira/toolcheck,Check team tool versions and explain required upgrades
+2026-11-16T18:32:18.156562Z,yacordis-loader,0.1.0,0,0,,Runtime installer for yacordis components distributed as prebuilt cdylib binaries
+2026-11-16T18:32:23.610071Z,yacordis-logger,0.1.0,0,0,,Leveled logging service with pluggable sinks for yacordis
+2026-11-16T18:32:29.511653Z,yacordis-timer,0.1.0,0,0,,Scope-released timer service for yacordis (setTimeout/setInterval/sleep)
+2026-11-16T18:32:44.146146Z,era2m_test_macros,0.2.1,0,0,https://gitlab.com/era2m/era2m_verif,The #[era2m_test::test] attribute (use it through era2m_test)
+2026-11-16T18:32:52.531554Z,quebracho-x402,0.1.0,0,0,https://github.com/quebracho-digital/x402-rs,"x402 payments for devices: a no_std core that verifies EVM exact payments, ported from the PHP library quebracho/x402."
+2026-11-16T18:33:02.95075Z,quebracho-x402-screening,0.1.0,0,0,https://github.com/quebracho-digital/x402-rs,"Address screening for quebracho-x402: OFAC's list shipped, the token's own blacklist (USDC/USDT freeze), Chainalysis' oracle and API, your own allow and deny lists, and their syncs."
+2026-11-16T18:34:45.479324Z,matier-core,0.1.0,0,0,https://github.com/ben-cunningham/matier,"Shared body, error, observer and buffer types for the Matier HTTP client"
+2026-11-16T18:34:45.854437Z,matier-h1,0.1.0,0,0,https://github.com/ben-cunningham/matier,Sans-IO HTTP/1.1 client codec (RFC 9112)
+2026-11-16T18:34:46.468583Z,matier-h2,0.1.0,0,0,https://github.com/ben-cunningham/matier,"Sans-IO HTTP/2 framing, HPACK and flow-control primitives for Matier"
+2026-11-16T18:34:47.766294Z,matier-otel,0.1.0,0,0,https://github.com/ben-cunningham/matier,Optional OpenTelemetry instrumentation for Matier
+2026-11-16T18:34:48.352097Z,matier-transport,0.1.0,0,0,https://github.com/ben-cunningham/matier,"TCP, TLS and HTTP/1.1 and HTTP/2 connections for the Matier HTTP client"
+2026-11-16T18:34:54.795905Z,xcom-proto,0.0.1,0,0,https://github.com/xcom-project/xcom,Wire types and codec of the xcom protocol. Placeholder; the first release follows.
+2026-11-16T18:34:57.890179Z,xcom-core,0.0.1,0,0,https://github.com/xcom-project/xcom,"The xcom broker and placement, for embedding. Placeholder; the first release follows."
+2026-11-16T18:35:01.086905Z,xcom-cli,0.0.1,0,0,https://github.com/xcom-project/xcom,The xcom command: run work across your own machines. Placeholder; the first release follows.
+2026-11-16T18:37:34.746311Z,skathi-gpui-platform,0.0.0,0,0,https://github.com/argon-chat/skathi,Reserved for Skathi; the crate is published with Skathi 0.3.0
+2026-11-16T18:40:44.066652Z,acde-jsrt,0.0.0,0,0,,Placeholder for Dopame's acde-jsrt
+2026-11-16T18:41:14.814816Z,nsh-ext,0.1.0,0,0,https://github.com/honsunrise/nsh-ext,Opt-in native WebView extensions for Native Shell
+2026-11-16T18:42:24.138466Z,ail,0.1.0,0,0,https://github.com/JJtheJJpro/ail,Advanced Information Lister - provides a simple or detailed description of the running machine
+2026-11-16T18:43:24.289695Z,era2m_test,0.2.1,0,0,https://gitlab.com/era2m/era2m_verif,"Test definition for era2m projects: kind, group, seeds, timeout, one process per test, era2m_ci records"
+2026-11-16T18:43:26.692242Z,era2m_crand,0.2.1,0,0,https://gitlab.com/era2m/era2m_verif,"Constrained-random parameter sets defined in TOML: solver, analysis, templates, typed Rust structs"
+2026-11-16T18:43:41.907061Z,transmitly,1.0.1,0,0,https://github.com/Transmitly-io/sdk-rust,Rust client for the Transmitly email API
+2026-11-16T18:44:01.464177Z,nsh-ext-linux,0.1.0,0,0,https://github.com/honsunrise/nsh-ext,"Linux (GTK 4, WebKitGTK 6.0) adapter for nsh-ext's extension-owned WebView"
+2026-11-16T18:44:06.356153Z,onyun,0.3.1,0,0,https://github.com/Hyphonical/Onyun,"High-speed Tor v3 .onion vanity address minter with CLI, Web UI, and Tauri desktop support"
+2026-11-16T18:44:58.565783Z,matier-pool,0.1.0,0,0,https://github.com/ben-cunningham/matier,"Connection pool for Matier: h1 idle stack + waiter queue, h2 snapshot with power-of-two-choices"
+2026-11-16T18:47:41.232436Z,skathi-gpui-linux,0.0.0,0,0,https://github.com/argon-chat/skathi,Reserved for Skathi; the crate is published with Skathi 0.3.0
+2026-11-16T18:50:19.779758Z,pd-host-schema,0.31.2,0,0,https://github.com/rustscript-lang/rustscript,Shared host-schema parsing for the pd-host-function proc macro and the pd-vm build script
+2026-11-16T18:50:37.064795Z,wustite,0.1.0,0,0,https://github.com/scriptednob/wustite,"A competitive chess engine, built with Rust and Python."
+2026-11-16T18:51:10.657485Z,acde-remote,0.0.0,0,0,,Placeholder for Dopame's acde-remote
+2026-11-16T18:51:25.936756Z,nsh-ext-apple,0.1.0,0,0,https://github.com/honsunrise/nsh-ext,"iOS, Mac Catalyst and macOS adapter for nsh-ext's loading-progress WebView"
+2026-11-16T18:52:00.284085Z,ansi_to_appcui,1.1.0,0,0,https://github.com/gdt050579/ansi_to_appcui/,.
+2026-11-16T18:52:14.24956Z,nsh-ext-windows,0.1.0,0,0,https://github.com/honsunrise/nsh-ext,"Windows WebView2 adapter for nsh-ext, hosted as an NSH native component"
+2026-11-16T18:52:51.068704Z,nsh-ext-gpui,0.1.0,0,0,https://github.com/honsunrise/nsh-ext,nsh-ext WebView for Native Shell's GPUI backend: an owned wry web view as a native component.
+2026-11-16T18:54:16.334595Z,era2m,0.2.1,0,0,https://gitlab.com/era2m/era2m,"era2m: hardware description (era2m_hdl), transaction-level simulation (era2m_sim), CPU models and verification helpers, behind one dependency"
+2026-11-16T18:54:34.803845Z,musid-dli,0.1.0,0,0,https://github.com/emoeem/musid-dli,"Modular Rust music metadata, provider aggregation, stream resolution and local music library"
+2026-11-16T18:55:05.147422Z,matier,0.1.0,0,0,https://github.com/ben-cunningham/matier,Matier: a high-performance HTTP/1.1 + HTTP/2 client for tokio
+2026-11-16T18:57:35.084107Z,skathi-gpui-wgpu,0.0.0,0,0,https://github.com/argon-chat/skathi,Reserved for Skathi; the crate is published with Skathi 0.3.0
+2026-11-16T19:00:35.432559Z,tracefs-core,0.0.0,0,0,,Placeholder for Dopame's tracefs-core
+2026-11-16T19:01:29.221802Z,rho-a2ui,0.1.0,0,0,https://github.com/matthewyjiang/rho,"A2UI v1.0 core for Rho: catalogs, validation, message processing, and A2UI Express"
+2026-11-16T19:02:11.443687Z,vocsim,0.1.0,0,0,,A small formant-based singing voice synthesizer
+2026-11-16T19:05:20.374762Z,yam-serde,0.1.2,0,0,https://github.com/Ygg01/yam-rs,Pure Rust YAML reader and writer (to be added)
+2026-11-16T19:07:34.666865Z,skathi-gpui-web,0.0.0,0,0,https://github.com/argon-chat/skathi,Reserved for Skathi; the crate is published with Skathi 0.3.0
+2026-11-16T19:10:59.537909Z,tracefsd,0.0.0,0,0,,Placeholder for Dopame's tracefsd
+2026-11-16T19:11:11.997243Z,rue-lint,0.12.0,0,0,https://github.com/xch-dev/rue,"Lints for the Rue programming language, which run as passes after compilation."
+2026-11-16T19:12:40.451489Z,drawnui-add3d,0.1.0-preview.1,0,0,https://github.com/DrawnUi/DrawnUi.Rust,"An add-on for DrawnUI for Rust: 3D models in a DrawnUI screen. glTF scenes with skeleton animations, many objects on one game field, shapes made in code, shaded, cartoon or flat looks."
+2026-11-16T19:17:35.100659Z,skathi-gpui-ios,0.0.0,0,0,https://github.com/argon-chat/skathi,Reserved for Skathi; the crate is published with Skathi 0.3.0
+2026-11-16T19:19:00.489043Z,camel-json-schema,0.69.0,0,0,https://github.com/kennycallado/rust-camel,Confined JSON Schema compilation shared by rust-camel consumers
