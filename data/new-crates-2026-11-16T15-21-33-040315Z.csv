@@ -1,0 +1,74 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-16T14:19:42.708374Z,sinew-serve,0.1.0,0,0,https://github.com/roanbrasil/sinew,"Low-latency HTTP server for Sinew graphs and agents (LangGraph Platform / LangServe style), with an OpenAI-compatible facade and a typed client"
+2026-11-16T14:20:39.044674Z,libagentfs,0.0.0,0,0,,Placeholder for Dopame's libagentfs
+2026-11-16T14:21:10.704322Z,weirdnet-device-link,0.1.0,0,0,https://github.com/WeirdBrains/weirdnet-device-link,"weirdnet-device-link/v1: move a Weirdnet user identity to another device over a QR offer, SAS check and sealed transfer."
+2026-11-16T14:22:00.052261Z,weirdnet-ext-proto,0.1.0,0,0,https://github.com/WeirdBrains/weirdnet-ext,"weirdnet.ext.v1: the protobuf contract between a Weirdnet extension host and its extensions (lifecycle, handshake, capabilities, logging, health), with tonic stubs."
+2026-11-16T14:22:03.544178Z,weirdnet-ext,0.1.0,0,0,https://github.com/WeirdBrains/weirdnet-ext,"Weirdnet extension host: signed extension packages, install and update rules, capability grants, a per-OS process sandbox (Landlock and seccomp on Linux), and a supervisor with a gRPC broker over a p…"
+2026-11-16T14:22:06.503024Z,weirdnet-ext-sdk,0.1.0,0,0,https://github.com/WeirdBrains/weirdnet-ext,"Write Weirdnet extensions: connect to the host over the private socket it started you with, handshake, call app services, log, report health, and handle lifecycle events."
+2026-11-16T14:23:04.051405Z,weirdnet-push,0.1.0,0,0,https://github.com/WeirdBrains/weirdnet-push,"Weirdnet push wake-up: fixed-size wake payloads sealed to the device, opaque wake handles with rotation and revocation, a client, and a self-hostable server delivering through APNs, FCM and Weirdnet…"
+2026-11-16T14:24:46.247909Z,mnw-marginalia,0.1.0,0,0,https://makenot.work/git/max/marginalia,"Git notes over an engine boundary: fanout-aware reads, compare-and-swap writes and git's merge strategies, byte-exact"
+2026-11-16T14:25:19.811687Z,proto-dto,0.1.0,0,0,https://github.com/Just-Replicant/proto-dto,"macro_rules! generators for typed protobuf DTOs carried in google.protobuf.Any, with a JSON shape and flutter_rust_bridge CRUD wrappers"
+2026-11-16T14:26:26.850265Z,pipelink,0.1.0,0,0,https://codeberg.org/kuroki-kael/pipelink,Virtual PipeWire/JACK audio routing daemon and CLI
+2026-11-16T14:26:43.128136Z,llevant,0.1.2,0,0,https://github.com/Fusion4Energy/llevant,Fast MCNP constructive solid geometry engine
+2026-11-16T14:26:45.227901Z,llevant-scene,0.1.2,0,0,https://github.com/Fusion4Energy/llevant,"What frontends of llevant share about an MCNP model: cell rules, hiding, fields, material looks, the input cards, a cache of compiled models"
+2026-11-16T14:26:47.192001Z,llevant-render,0.1.2,0,0,https://github.com/Fusion4Energy/llevant,"Images of llevant's MCNP models: colours, colour scales, fields over the geometry, physically based shading"
+2026-11-16T14:26:49.16688Z,llevant-gpu,0.1.2,0,0,https://github.com/Fusion4Energy/llevant,GPU renderer of llevant's compiled MCNP models (3D viewer)
+2026-11-16T14:26:51.39473Z,llevant-viewer,0.1.2,0,0,https://github.com/Fusion4Energy/llevant,"Interactive viewer of MCNP models: 3D views and 2D slices, built on llevant"
+2026-11-16T14:27:08.550864Z,weirdnet-schemes,0.1.0,0,0,https://github.com/WeirdBrains/weirdnet-schemes,"The Weirdnet URL scheme registry: signed prefix and scheme records, the WeirdBrains-signed canonical list with reserved weirdnet prefixes, a local resolver with pins and conflict rules, install hints…"
+2026-11-16T14:28:04.051469Z,j8executor,0.1.2,0,0,https://github.com/0x00-Community/j8,j8 bytecode executor
+2026-11-16T14:30:06.687498Z,sinew,0.1.0,0,0,https://github.com/roanbrasil/sinew,"LLM chains, agent graphs and tracing in Rust"
+2026-11-16T14:31:20.070679Z,acgpu,0.0.0,0,0,,Placeholder for Dopame's acgpu
+2026-11-16T14:31:45.484367Z,koda-command,0.7.1,0,0,https://github.com/lijunzh/koda,"Shell command classification for the Koda AI coding agent: what a command does, and the paths it touches"
+2026-11-16T14:31:50.783835Z,koda-memory,0.7.1,0,0,https://github.com/lijunzh/koda,"Memory for the Koda AI coding agent: the instruction files people write (AGENTS.md, CLAUDE.md) and the notes Koda keeps"
+2026-11-16T14:31:51.143333Z,koda-providers,0.7.1,0,0,https://github.com/lijunzh/koda,"Model providers for the Koda AI coding agent: Anthropic, Gemini and OpenAI-compatible clients, and the model tables"
+2026-11-16T14:31:51.704445Z,koda-skills,0.7.1,0,0,https://github.com/lijunzh/koda,"Skills for the Koda AI coding agent: finding SKILL.md files in the project, the user's folder and the built-in set"
+2026-11-16T14:32:52.407678Z,era2m_ids,0.1.1,0,0,https://gitlab.com/era2m/era2m_core,"Typed indices and the vectors they index, shared by the era2m IRs"
+2026-11-16T14:32:53.183471Z,era2m_viz,0.1.1,0,0,https://gitlab.com/era2m/era2m_core,"Interactive structural views (HTML/SVG) of era2m designs: modules, interfaces, children and links"
+2026-11-16T14:33:00.228143Z,era2m_ci_model,0.1.1,0,0,https://gitlab.com/era2m/era2m_ci,era2m_ci record format (era2m_ci/v1): the JSON contract between producers and the server
+2026-11-16T14:37:03.526Z,weirdnet-access,0.1.0,0,0,https://github.com/WeirdBrains/weirdnet-access,"Weirdnet access policy: Private/Public and Open/Gated as independent axes, a shared permission core apps extend, ranked configurable roles with implications, owner/member/guest actors, and the host-s…"
+2026-11-16T14:37:51.352778Z,opent8,0.2.0,0,0,https://github.com/viralitygmbh/opent8-rs,Independent Rust types and serialization for OpenT8 timetable data
+2026-11-16T14:39:15.471569Z,j8taskqueue,0.1.2,0,0,https://github.com/0x00-Community/j8,j8 任务队列：无锁数据流调度，依赖做完的任务立刻在 moremath 线程池上并行跑；并查集归家族，配额按字节码条数
+2026-11-16T14:39:25.17102Z,smallpeg,0.13.0,0,0,https://github.com/sawapi/smallpeg,"A from-scratch, dependency-free JPEG encoder in pure Rust: trellis quantization, optimized progressive scans, optimized Huffman tables, AAN DCT, Lanczos3 resize."
+2026-11-16T14:41:20.610517Z,ackernel,0.0.0,0,0,,Placeholder for Dopame's ackernel
+2026-11-16T14:41:32.553015Z,lodestone-cli,0.1.0,0,0,https://github.com/cylewitruk/lodestone,Local semantic code search daemon for coding agents
+2026-11-16T14:43:43.734923Z,deflate-turbo,0.1.0,0,0,,"A fast DEFLATE, zlib and gzip codec in safe Rust"
+2026-11-16T14:44:34.975901Z,isoextract,0.2.0,0,0,https://github.com/gabrielfalcao/isoextract,extract ISO files into extract ISO files in their parent directories by default or elsewhere you designate
+2026-11-16T14:46:49.973448Z,era2m_hdl_macros,0.2.1,0,0,https://gitlab.com/era2m/era2m_hdl,"Proc macros for era2m_hdl: #[hdl], #[derive(HwEnum)], #[derive(Interface)]"
+2026-11-16T14:46:50.561358Z,era2m_wavedoc_core,0.2.1,0,0,https://gitlab.com/era2m/era2m_hdl,"Timing-diagram text format of era2m_wavedoc: parser, layout and SVG renderer; Mermaid diagrams"
+2026-11-16T14:46:52.882494Z,era2m_hdl_core,0.2.1,0,0,https://gitlab.com/era2m/era2m_hdl,"The era2m_hdl builder: modules, interfaces, IR, optimisation, Verilog emitter, cycle simulator, VCD and testbenches"
+2026-11-16T14:46:54.248283Z,weirdnetctl,0.1.0,0,0,https://github.com/WeirdBrains/weirdnetctl,"Holds and rotates Weirdnet signing keys (passphrase-encrypted), signs prefix and scheme records, countersigns reserved prefixes, builds the WeirdBrains canonical list, and verifies all of them."
+2026-11-16T14:50:11.965546Z,j8compiler,0.1.2,0,0,https://github.com/0x00-Community/j8,j8 compiler: bytecode ⇒ MLIR (llvm dialect) ⇒ mlirpass ⇒ raw machine code
+2026-11-16T14:50:38.458867Z,rp2350-boot2,0.1.0,0,0,https://github.com/snple/rp2350,RP2350 second stage boot loader (XIP setup function)
+2026-11-16T14:50:40.259096Z,agentrt,0.0.0,0,0,,Placeholder for Dopame's agentrt
+2026-11-16T14:50:59.263376Z,rp2350-macro,0.1.0,0,0,https://github.com/snple/rp2350,Procedural macros for rp2350
+2026-11-16T14:51:10.058075Z,rp2350-rt,0.1.0,0,0,https://github.com/snple/rp2350,Runtime support for RP2350 Cortex-M33 microcontrollers
+2026-11-16T14:51:41.360718Z,rp2350-pac,0.1.0,0,0,https://github.com/snple/rp2350,Peripheral Access Crate for RP2350 (Raspberry Pi Pico 2)
+2026-11-16T14:52:18.257845Z,rp2350,0.1.0,0,0,https://github.com/snple/rp2350,Hardware Abstraction Layer for RP2350 microcontrollers
+2026-11-16T14:52:37.103939Z,rustegon-driver,0.1.0,0,0,https://github.com/rustegon/rustegon,Official Rust driver of the Rustegon distributed ACID document database.
+2026-11-16T14:54:56.177708Z,rp2350-usb,0.1.0,0,0,https://github.com/snple/rp2350,USB Device Stack for RP2350 microcontrollers
+2026-11-16T14:57:46.174282Z,updateforge,0.0.0,0,0,,Placeholder: the UpdateForge Rust client is in development.
+2026-11-16T14:57:54.336283Z,updateforge-sys,0.0.0,0,0,,Placeholder: the bindings to the UpdateForge core are in development.
+2026-11-16T14:59:41.690748Z,axa-mail,0.1.0,0,0,https://github.com/publicprojects-io/axa/,"Mail for Axum services over lettre: SMTP, file, and memory transports, with production refusing SMTP without TLS."
+2026-11-16T14:59:46.470781Z,axa-storage-with-apache-arrow-and-aws,0.1.0,0,0,https://github.com/publicprojects-io/axa/,"Object storage for Axum services over Apache Arrow's object_store: local disk, memory, and S3, refusing keys that climb out, with presigned URLs."
+2026-11-16T15:01:04.1341Z,dopame,0.0.0,0,0,,Placeholder for Dopame's dopame
+2026-11-16T15:01:28.915562Z,j8jit,0.1.2,0,0,https://github.com/0x00-Community/j8,"j8 JIT: picks hot functions for j8compiler, loads the machine code and replaces interpretation (falls back to the interpreter when a fast path doesn't hold)"
+2026-11-16T15:02:39.353292Z,era2m_wavedoc,0.2.1,0,0,https://gitlab.com/era2m/era2m_hdl,Timing and Mermaid diagrams in rustdoc: #[wavedoc] renders ```wave and ```mermaid blocks of doc comments as inline SVG
+2026-11-16T15:06:35.599239Z,eridu,0.1.1,0,0,https://github.com/Galaktis/eridu,The Epic of your Repository — a Git history visualizer
+2026-11-16T15:07:06.883438Z,llevant-cli,0.1.2,0,0,https://github.com/Fusion4Energy/llevant,Command-line tool for the llevant MCNP geometry engine
+2026-11-16T15:09:03.962448Z,maplibre-rust-ui,0.1.0,0,0,https://github.com/birkskyum/maplibre-rust-ui,"MapLibre maps for Rust UI frameworks, declared once and drawn by mln-rs"
+2026-11-16T15:10:23.881961Z,cadkit-capi,0.5.3,0,0,https://github.com/TNYCL/cadkit,Stable C ABI (and C++ header) for cadkit.
+2026-11-16T15:10:26.176298Z,acdev,0.0.0,0,0,,Placeholder for Dopame's acdev
+2026-11-16T15:11:50.005959Z,j8debugger,0.1.2,0,0,https://github.com/0x00-Community/j8,j8 debugging tool: the j8dbg CLI
+2026-11-16T15:12:06.234921Z,maplibre-slint,0.1.0,0,0,https://github.com/birkskyum/maplibre-rust-ui,"MapLibre maps in Slint apps, drawn by mln-rs on Slint's wgpu renderer"
+2026-11-16T15:14:15.845418Z,maplibre-egui,0.1.0,0,0,https://github.com/birkskyum/maplibre-rust-ui,"MapLibre maps in egui apps, drawn by mln-rs on egui's wgpu renderer"
+2026-11-16T15:15:33.342913Z,brrrty-config,0.0.5,0,0,https://github.com/brrrty/brrrty,"Reads brrrty.config.rhai, the Rhai config for Brrrty, an Eleventy-compatible static site generator."
+2026-11-16T15:15:33.878289Z,pdfdiet,0.1.0,0,0,https://github.com/sawapi/pdfdiet,"Put PDFs on a diet: measured-DPI image downsampling plus lossless font and structure optimization, under a permissive license."
+2026-11-16T15:19:06.771468Z,era2m_hdl_lib,0.2.1,0,0,https://gitlab.com/era2m/era2m_hdl,"Base components for era2m_hdl: streams, flows, FIFOs, arbiters"
+2026-11-16T15:19:09.436322Z,era2m_hdl_verilator,0.2.1,0,0,https://gitlab.com/era2m/era2m_hdl,"Verilator backend for era2m_hdl: a design compiled by Verilator (vendor black boxes, large designs), driven by the same testbench and TLM bridge as the built-in simulator"
+2026-11-16T15:19:12.579737Z,ic-blob-storage-canister,0.101.0,0,0,https://github.com/dragginzgame/ic-blob-storage,Experimental standalone Internet Computer host for ic-blob-storage
+2026-11-16T15:19:13.180699Z,ic-blob-storage-reference-app,0.101.0,0,0,https://github.com/dragginzgame/ic-blob-storage,Experimental reference application and Wire protocol for ic-blob-storage
+2026-11-16T15:19:15.459041Z,ic-blob-storage-cli,0.101.0,0,0,https://github.com/dragginzgame/ic-blob-storage,"Blob storage inspection, offline preparation and guarded maintenance CLI for the Internet Computer"
+2026-11-16T15:19:32.473748Z,dimvexa-calc,0.10.0,0,0,https://github.com/welworx/dimvexa,"Exact calculation with dimvexa quantities: sums, differences, powers, scaling and comparisons across units, temperature points and differences kept apart (ADR-027). Exact factors. Loud failures. Zero…"
+2026-11-16T15:19:46.571022Z,maplibre-bevy,0.1.0,0,0,https://github.com/birkskyum/maplibre-rust-ui,"MapLibre maps in Bevy apps, drawn by mln-rs on Bevy's wgpu renderer"
+2026-11-16T15:20:51.024544Z,acdebin-dbg,0.0.0,0,0,,Placeholder for Dopame's acdebin-dbg
+2026-11-16T15:20:58.070037Z,nabedra-database,0.1.0,0,0,https://github.com/zPy52/nabedra-database,"S3-backed database with immutable Parquet snapshots, an HTTP API, and distributed workers"
