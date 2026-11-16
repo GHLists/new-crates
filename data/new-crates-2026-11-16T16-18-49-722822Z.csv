@@ -1,0 +1,32 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-16T15:22:39.248429Z,dmarc2,0.1.0,0,0,https://github.com/Faholan/dmarc2,RFC 9990-compliant DMARC aggregate report parser
+2026-11-16T15:23:36.587232Z,ibis-mysql,0.1.0,0,0,https://github.com/brojonat/ibis-rs,MySQL backend plugin for ibis-rs
+2026-11-16T15:23:37.227431Z,ibis-trino,0.1.0,0,0,https://github.com/brojonat/ibis-rs,Trino backend plugin for ibis-rs
+2026-11-16T15:23:47.053836Z,maplibre-nsh,0.1.0,0,0,https://github.com/birkskyum/maplibre-rust-ui,"MapLibre maps in Native Shell apps, drawn by mln-rs into a native view"
+2026-11-16T15:24:19.949687Z,era2m_hdl,0.2.1,0,0,https://gitlab.com/era2m/era2m_hdl,"SpinalHDL-like hardware builder embedded in Rust: the core, its base components and (feature `verilator`) the Verilator backend, with a prelude"
+2026-11-16T15:25:38.889017Z,webagent,1.0.0,0,0,https://github.com/biyuehu/webagent,"DSL-driven web AI agent for file operations, code modification, and command execution"
+2026-11-16T15:26:20.626326Z,maplibre-whisker,0.1.0,0,0,https://github.com/birkskyum/maplibre-rust-ui,"MapLibre maps in Whisker apps, drawn by mln-rs into a native view"
+2026-11-16T15:31:09.781178Z,acdebin-system,0.0.0,0,0,,Placeholder for Dopame's acdebin-system
+2026-11-16T15:33:39.411324Z,era2m_ffi_ipc,0.2.1,0,0,https://gitlab.com/era2m/era2m_sim,Expose ipc ffi used by Era2m
+2026-11-16T15:35:46.522393Z,presk-format,0.18.0,0,0,https://github.com/presk-lang/presk,"Machine number formats as data: a float, an integer or a scaled format by its parameters, one generic rounding, the encodings"
+2026-11-16T15:40:13.838402Z,ic-platform-protocol,0.2.2,0,0,https://github.com/dragginzgame/ic-platform,Bounded external protocol formats for IC Platform
+2026-11-16T15:40:29.111575Z,acde-api,0.0.0,0,0,,Placeholder for Dopame's acde-api
+2026-11-16T15:41:10.113776Z,scrapeunblocker,0.19.0,0,0,https://github.com/ScrapeUnblocker/scrapeunblocker-rust,"Official Rust client for the ScrapeUnblocker API - scrape any page past Cloudflare, DataDome, PerimeterX and Akamai as HTML, Markdown or parsed JSON."
+2026-11-16T15:46:42.192381Z,luck_config,0.0.0,0,0,https://github.com/esoware/luck,Placeholder that lets luck's release workflow publish luck_config
+2026-11-16T15:47:06.432909Z,azuki,1.0.0,0,0,,A minimalist parser generator for Rust.
+2026-11-16T15:47:34.957033Z,ra_ap_hir-ide,0.0.1-alpha.1,0,0,https://github.com/rust-lang/rust-analyzer,"Initial version of ra_ap_hir-ide, do not use"
+2026-11-16T15:50:18.925325Z,era2m_ffi_rpc,0.2.1,0,0,https://gitlab.com/era2m/era2m_sim,Expose rpc interface used by Era2m
+2026-11-16T15:50:51.549659Z,tracefs,0.0.0,0,0,,Placeholder for Dopame's tracefs
+2026-11-16T15:52:42.433891Z,koda-mcp,0.7.2,0,0,https://github.com/lijunzh/koda,The MCP client of the Koda AI coding agent: connecting to MCP servers over stdio and HTTP and bridging their tools
+2026-11-16T15:52:46.572412Z,koda-server,0.7.2,0,0,https://github.com/lijunzh/koda,The host of the Koda AI coding agent: the server end of its client protocol
+2026-11-16T15:53:43.120971Z,era2m_sim_containers,0.2.1,0,0,https://gitlab.com/era2m/era2m_sim,Era2m dedicated containers.
+2026-11-16T16:00:21.405051Z,acde-host,0.0.0,0,0,,Placeholder for Dopame's acde-host
+2026-11-16T16:05:35.409535Z,axa-api-tokens,0.1.0,0,0,https://github.com/publicprojects-io/axa/,"Opaque API tokens with a prefix, kept only as a SHA-256 hash, with scopes, expiry, and last use."
+2026-11-16T16:07:58.049139Z,ikigai-inquiry,0.1.0,0,0,https://github.com/ikigai-rs/ikigai-inquiry,"Inquiries from public contact forms as ikigai resources: routed into layers by a classification funnel, with a layers client any host mounts."
+2026-11-16T16:11:00.779361Z,acde-dom,0.0.0,0,0,,Placeholder for Dopame's acde-dom
+2026-11-16T16:11:22.917163Z,mcwpack,0.7.0,0,0,https://github.com/aksiome/mcwpack,"Prepare a Minecraft Java world for release (filter files, clean empty chunks, zip datapacks)"
+2026-11-16T16:13:38.117189Z,goome-sys,0.5.0,0,0,https://github.com/goome-ui/rust-goome,"Raw bindings to goome, the one file C overlay and ui library. Builds goome.h with the cc crate"
+2026-11-16T16:13:40.719537Z,goome,0.5.0,0,0,https://github.com/goome-ui/rust-goome,"Overlays on top of everything, normal desktop apps, or ui inside your game. Safe Rust for goome"
+2026-11-16T16:14:09.010874Z,energyml-views,0.4.0,0,0,https://github.com/geosiris-technologies/energyml-rust,"The views of an EnergyML package as pictures: one registry of views, each drawing a display list, written as SVG (and PNG on demand), drawn again from its own metadata."
+2026-11-16T16:16:22.2845Z,era2m_sim_macros,0.2.1,0,0,https://gitlab.com/era2m/era2m_sim,Era2m procedural macros
+2026-11-16T16:16:23.045961Z,era2m_sim_output,0.2.1,0,0,https://gitlab.com/era2m/era2m_sim,Era2m utility to easily generate parser-ready Log and Trace messages
