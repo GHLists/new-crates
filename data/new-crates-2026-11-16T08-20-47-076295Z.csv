@@ -1,0 +1,27 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-16T07:19:21.331395Z,aster_acme_validation,0.1.0-alpha.1,0,0,https://github.com/AsterCommunity/AsterACME,DNS-01 challenge automation for AsterACME.
+2026-11-16T07:28:36.284598Z,runic-dialect-cf,0.1.0,0,0,https://github.com/bitwalker/runic,Unstructured control flow dialect for Runic
+2026-11-16T07:28:50.964467Z,aster_acme_cli,0.1.0-alpha.1,0,0,https://github.com/AsterCommunity/AsterACME,Command-line interface for AsterACME.
+2026-11-16T07:38:42.190627Z,runic-dialect-scf,0.1.0,0,0,https://github.com/bitwalker/runic,Structured control flow dialect for Runic
+2026-11-16T07:48:47.037205Z,runic-dialect-mem,0.1.0,0,0,https://github.com/bitwalker/runic,Byte-addressed memory dialect for Runic
+2026-11-16T07:51:03.47269Z,sag,0.1.0-beta.2,0,0,,Embedded Rust SDK for document indexing and multi-hop evidence retrieval with SAG2
+2026-11-16T07:53:18.587787Z,curd-editor,0.2.0,0,0,https://github.com/vikram5258/crud-editor,A tiny terminal text editor
+2026-11-16T07:55:26.227975Z,mooncrater,0.1.0,0,0,,Embeddable headless application-streaming library: stream a host app's rendered output to unmodified Moonlight clients. The application owns the application; mooncrater owns the streaming pipeline.
+2026-11-16T07:58:14.242885Z,juliana-cal-core,0.1.0,0,0,https://github.com/sjfhsjfh/juliana-cal,Core manifest parsing and RFC 5545 rendering for juliana-cal
+2026-11-16T07:59:02.556327Z,runic-opt,0.1.0,0,0,https://github.com/bitwalker/runic,"Reads textual IR, runs a pass pipeline on it, verifies and prints the result"
+2026-11-16T07:59:03.727888Z,juliana-cal,0.1.0,0,0,https://github.com/sjfhsjfh/juliana-cal,Build course-deadline ICS feeds from a TOML manifest
+2026-11-16T08:01:08.311436Z,falak-contracts,1.0.0,0,0,https://github.com/falakme/framework,"Provider traits, capability profile, IR types and error taxonomy shared by every Falak crate."
+2026-11-16T08:01:08.750288Z,falak-studio,1.0.0,0,0,https://github.com/falakme/framework,Falak Studio: an admin interface generated from each app's `admin:` metadata.
+2026-11-16T08:01:09.485391Z,falak-core,1.0.0,0,0,https://github.com/falakme/framework,"Portable semantic core: schema AST, validation, policy compiler and Query AST. No I/O."
+2026-11-16T08:01:09.890178Z,falak-driver-d1,1.0.0,0,0,https://github.com/falakme/framework,Cloudflare D1 storage driver.
+2026-11-16T08:01:10.223454Z,falak-driver-postgres,1.0.0,0,0,https://github.com/falakme/framework,PostgreSQL storage driver.
+2026-11-16T08:06:19.216653Z,openpaw-mcp,0.1.1,0,0,https://github.com/KunlunMeta-Limited/openpaw.git,"MCP client host: server lifecycle, circuit breaker, resources (M2)."
+2026-11-16T08:16:04.669402Z,weirdnet-relay,0.1.0,0,0,https://github.com/WeirdBrains/weirdnet-relay,"Weirdnet relay and bootstrap node: libp2p circuit relay v2 with data-carrying circuits, Kademlia server, AutoNAT and hole-punch coordination on weirdnet-net, a node key in a SQLCipher database, and a…"
+2026-11-16T08:16:18.48084Z,baka-av3a-core,0.1.0,0,0,https://github.com/Zencok/baka-av3a,Pure Rust AV3A audio decoder with multichannel PCM output
+2026-11-16T08:16:21.699654Z,baka-av3a-container,0.1.0,0,0,https://github.com/Zencok/baka-av3a,"MP4 demuxing, progressive input and range playback for AV3A audio"
+2026-11-16T08:17:29.395143Z,baka-av3a-cli,0.1.0,0,0,https://github.com/Zencok/baka-av3a,"Command-line AV3A inspection, extraction and PCM WAV decoding"
+2026-11-16T08:19:23.846686Z,karez-chunk,0.0.1,0,0,,"Placeholder reserving the name: the columnar chunk crate of karez, a planned Rust database connectivity library. No code yet."
+2026-11-16T08:19:27.63282Z,karez-proto-pg,0.0.1,0,0,,"Placeholder reserving the name: the PostgreSQL protocol crate of karez, a planned Rust database connectivity library. No code yet."
+2026-11-16T08:19:31.250732Z,karez-pg,0.0.1,0,0,,"Placeholder reserving the name: the blocking PostgreSQL client crate of karez, a planned Rust database connectivity library. No code yet."
+2026-11-16T08:19:35.029639Z,karez-rt,0.0.1,0,0,,"Placeholder reserving the name: the shared-connection runtime crate of karez, a planned Rust database connectivity library. No code yet."
+2026-11-16T08:19:38.682503Z,karez,0.0.1,0,0,,"Placeholder reserving the name: the top-level crate of karez, a planned Rust database connectivity library. No code yet."
