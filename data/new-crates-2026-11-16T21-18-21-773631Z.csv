@@ -1,0 +1,43 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-16T20:22:06.791052Z,cursed_secp256k1,0.1.2,0,0,https://github.com/rot13maxi/cursed_secp256k1,ECDSA over secp256k1 where every field element is a Vec<Digit> and every operation goes through cursed_arithmetic
+2026-11-16T20:22:59.32615Z,puerto-nucleo,0.21.0,0,0,https://github.com/Guuri11/Puerto,"Puerto runtime — the domain types every Puerto project shares: paged lists, the repository error, domain events and the ports their transports implement, and the mail ports, and the auth port."
+2026-11-16T20:23:40.658596Z,puerto-eventos,0.21.0,0,0,https://github.com/Guuri11/Puerto,"Puerto runtime — the worker every Puerto project with domain events runs: the outbox relay, the consume loops and their delivery policy, health probes and graceful shutdown."
+2026-11-16T20:23:58.378557Z,gutil-plugin-sdk,0.1.0,0,0,https://github.com/Leitwolf11/gutil,SDK for gutil WebAssembly plug-ins
+2026-11-16T20:24:00.31956Z,puerto-correo,0.21.0,0,0,https://github.com/Guuri11/Puerto,"Puerto runtime — mail for Puerto projects: the SMTP adapter of the mail port, the template renderer each generated mail uses, and the send-once step a worker consumer calls."
+2026-11-16T20:27:13.934888Z,tedi_web,0.17.15,0,0,https://github.com/valeratrades/tedi,"The board in a browser: tedi's own store and sync, served"
+2026-11-16T20:27:40.027365Z,sk-effects,0.0.0,0,0,https://github.com/argon-chat/skathi,Reserved for Skathi; the crate is published with Skathi 0.3.0
+2026-11-16T20:27:44.58588Z,aws-sdk-connectscheduling,1.0.0,0,0,https://github.com/awslabs/aws-sdk-rust,AWS SDK for Amazon Connect Scheduling
+2026-11-16T20:28:08.443489Z,lokey-ble-macros,0.0.1,0,0,https://github.com/nn1ks/lokey,BLE transport support for the lokey framework (macro crate)
+2026-11-16T20:29:09.972157Z,lokey-ble,0.0.1,0,0,https://github.com/nn1ks/lokey,BLE (Bluetooth Low Energy) transport support for the lokey framework
+2026-11-16T20:29:53.176656Z,aws-sdk-opensearchmemory,1.0.0,0,0,https://github.com/awslabs/aws-sdk-rust,AWS SDK for Amazon OpenSearch Memory
+2026-11-16T20:30:20.365419Z,libacinstaller,0.0.0,0,0,,Placeholder for Dopame's libacinstaller
+2026-11-16T20:30:24.929177Z,aws-sdk-sagemakerinferencerouterruntime,1.0.0,0,0,https://github.com/awslabs/aws-sdk-rust,AWS SDK for Amazon SageMaker Inference Router Runtime
+2026-11-16T20:31:28.086543Z,lokey-usb-macros,0.0.1,0,0,https://github.com/nn1ks/lokey,USB transport support for the lokey framework (macro crate)
+2026-11-16T20:31:48.828572Z,boatramp-cwt,0.62.0,0,0,https://github.com/BoatRamp/BoatRamp,"Generic attenuable COSE_Sign1/CWT capability-credential engine (RFC 8392/9052/8747): pluggable Signer (ES256 default + Ed25519), offline chain-walk verification, and engine-enforced monotonic narrowi…"
+2026-11-16T20:32:22.548069Z,lokey-usb,0.0.1,0,0,https://github.com/nn1ks/lokey,USB transport support for the lokey framework
+2026-11-16T20:32:38.47087Z,boatramp-signer,0.62.0,0,0,https://github.com/BoatRamp/BoatRamp,External KMS/HSM/Vault signer backends for the boatramp control-plane token issuer
+2026-11-16T20:32:46.886816Z,lokey-usb-ble,0.0.1,0,0,https://github.com/nn1ks/lokey,Combined USB and BLE transport support for the lokey framework
+2026-11-16T20:37:40.258261Z,sk-lottie,0.0.0,0,0,https://github.com/argon-chat/skathi,Reserved for Skathi; the crate is published with Skathi 0.3.0
+2026-11-16T20:38:53.655867Z,ctlup,0.1.4,0,0,https://github.com/tokn-ai/ctl,Installation and update manager for ctl and ctmux
+2026-11-16T20:39:34.351449Z,gtwy,0.0.1,0,0,https://github.com/Yingrjimsch/aist-ff,"Composable HTTP request forwarding with endpoint selection, retries, and streaming responses."
+2026-11-16T20:39:49.472604Z,gtwy-ai,0.0.1,0,0,https://github.com/Yingrjimsch/aist-ff,"AI provider routing, model resolution, and usage reporting components for gtwy."
+2026-11-16T20:40:48.223931Z,libackernel,0.0.0,0,0,,Placeholder for Dopame's libackernel
+2026-11-16T20:42:55.803024Z,apexuse-mcp,0.2.1,0,0,https://github.com/Jackpkn/apexuse,"Local-first cross-platform Computer Use MCP server using native Accessibility, Set-of-Mark visual grounding, OCR, and workflow memory"
+2026-11-16T20:47:33.916954Z,sk-thorvg-sys,0.0.0,0,0,https://github.com/argon-chat/skathi,Reserved for Skathi; the crate is published with Skathi 0.3.0
+2026-11-16T20:51:15.146626Z,libagentrt,0.0.0,0,0,,Placeholder for Dopame's libagentrt
+2026-11-16T20:51:38.103756Z,frontmatter-spans,0.1.0,0,0,https://github.com/srobroek/frontmatter-spans,"Detect YAML, TOML and JSON front matter and parse it with a source span on every key and value."
+2026-11-16T20:52:02.242162Z,fno,0.0.0,0,0,https://github.com/fnodotdev/fno,Name held for the fno v0.1.0 release. Install the real release once it is published.
+2026-11-16T20:57:11.229606Z,ic-topology,0.108.0,0,0,https://github.com/dragginzgame/ic-query,Read-only IC infrastructure evidence for Canic topology decisions
+2026-11-16T20:57:34.155757Z,sk-payload,0.0.0,0,0,https://github.com/argon-chat/skathi,Reserved for Skathi; the crate is published with Skathi 0.3.0
+2026-11-16T20:57:44.52941Z,mlirbinary,0.2.0,0,0,https://github.com/Jabberwocky238/mlirbinary,"Binary formats of MLIR modules in Rust: write and read them as mlirformat IR, with formats as plugins (SPIR-V built in)"
+2026-11-16T20:59:41.905596Z,cli-template,0.1.0,0,0,https://github.com/dallay/cli-template,A Rust CLI template project
+2026-11-16T21:00:40.026514Z,libdopame,0.0.0,0,0,,Placeholder for Dopame's libdopame
+2026-11-16T21:07:34.298136Z,sk-resample,0.0.0,0,0,https://github.com/argon-chat/skathi,Reserved for Skathi; the crate is published with Skathi 0.3.0
+2026-11-16T21:08:57.413763Z,mcfilin,0.1.0,0,0,https://github.com/roblillack/mcfilin,"A file viewer with Miller columns, after NeXTSTEP's File Viewer"
+2026-11-16T21:09:57.168399Z,greenbelay-guard,6.0.0,0,0,https://github.com/greenharness/greenbelay,"greenbelay's guard: shell analysis, rules and stances for an agent's tool calls"
+2026-11-16T21:10:13.493006Z,greenbelay-process,6.0.0,0,0,https://github.com/greenharness/greenbelay,"greenbelay's work process: plan review, implementation review, preview approvals and provenance"
+2026-11-16T21:10:24.247325Z,greenbelay,6.0.0,0,0,https://github.com/greenharness/greenbelay,"A guard for Claude Code's tool calls: it reads each one before it runs, the work-process verdicts (plan review, implementation review, preview) included"
+2026-11-16T21:11:05.406002Z,libacdev,0.0.0,0,0,,Placeholder for Dopame's libacdev
+2026-11-16T21:14:19.840774Z,winnowr-xgboost,0.1.1,0,0,https://github.com/fg-labs/winnowr,"Statically linked XGBoost (vendored source) with a small safe API, for winnowr."
+2026-11-16T21:14:41.023811Z,winnowr,0.1.1,0,0,https://github.com/fg-labs/winnowr,Machine-learned genotyping and filtering of germline small-variant calls.
+2026-11-16T21:17:47.098017Z,sk-vpx-sys,0.0.0,0,0,https://github.com/argon-chat/skathi,Reserved for Skathi; the crate is published with Skathi 0.3.0
