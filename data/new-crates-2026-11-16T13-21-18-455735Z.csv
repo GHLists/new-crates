@@ -1,0 +1,36 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-16T12:23:14.537596Z,gruszka,0.1.0,0,0,https://github.com/jasisz/gruszka,A Lean 4 kernel: normalization by evaluation over Susz exports
+2026-11-16T12:35:57.305625Z,open-arrow-sink-core,0.1.0,0,0,https://github.com/dentiny/open-arrow-sink,Core contracts for Arrow RecordBatch sinks
+2026-11-16T12:35:58.800226Z,open-arrow-sink-layer,0.1.0,0,0,https://github.com/dentiny/open-arrow-sink,Composable layers for Arrow RecordBatch sinks
+2026-11-16T12:35:59.468114Z,open-arrow-sink-storage,0.1.0,0,0,https://github.com/dentiny/open-arrow-sink,Shared OpenDAL storage for Arrow sinks
+2026-11-16T12:36:01.165064Z,open-arrow-sink-iceberg,0.1.0,0,0,https://github.com/dentiny/open-arrow-sink,Minimal append-only Iceberg table sink
+2026-11-16T12:36:01.962308Z,open-arrow-sink-lance,0.1.0,0,0,https://github.com/dentiny/open-arrow-sink,Lance dataset sink over shared OpenDAL storage
+2026-11-16T12:46:31.49049Z,vox-paisley,0.1.0,0,0,https://github.com/BLig-Vox/Browny,"A Linux-first multi-tab browser built with Rust, GTK4, and WebKitGTK."
+2026-11-16T12:46:54.987219Z,karka,0.0.0,0,0,https://github.com/saikksub/karkataka,"Video editing from the command line: projects of tracks and clips, scenes in SolidJS, rendered on the GPU by offscreen Chromium."
+2026-11-16T12:50:12.097483Z,open-arrow-sink-parquet,0.1.0,0,0,https://github.com/dentiny/open-arrow-sink,Parquet directory sink over shared OpenDAL storage
+2026-11-16T12:50:14.565537Z,bus-contract,0.1.0,0,0,https://github.com/quazardous/bus-contract,"A contract for an in-process hook bus: libraries declare typed hook points and listen with named order (after, before, last), owners and deadlines; the application supplies the implementation and dec…"
+2026-11-16T12:51:11.987807Z,open-arrow-sink,0.1.0,0,0,https://github.com/dentiny/open-arrow-sink,"Composable, independent Arrow RecordBatch sinks"
+2026-11-16T12:53:57.559076Z,nevia,0.0.0,0,0,,Placeholder: this name is reserved for the official Nevia SDK. Not yet functional.
+2026-11-16T12:54:35.585571Z,pathscrub,0.1.0,0,0,https://github.com/appe233/pathscrub,"Clean up $PATH: drop empty, relative, missing and duplicate entries"
+2026-11-16T12:59:26.008828Z,weirdnet-tls,0.1.0,0,0,https://github.com/WeirdBrains/weirdnet-tls,"Weirdnet TLS certificates: ACME (TLS-ALPN-01, HTTP-01, DNS-01) over instant-acme, certificate stores, an SNI resolver with hot swap and pinned certificates, ARI-based renewal with backoff and a typed…"
+2026-11-16T12:59:57.657375Z,aster_forge_process,0.1.0-alpha.1,0,0,https://github.com/AsterCommunity/AsterForge,Bounded child-process lifecycle mechanics for Aster services
+2026-11-16T13:04:32.982775Z,mcp-wire,0.1.0,0,0,https://github.com/seuros/mcp-wire,"Wire types of the Model Context Protocol, shared by MCP servers and clients"
+2026-11-16T13:08:41.912795Z,veilmesh-bot-client,0.1.0,0,0,https://github.com/veilmesh/veilmesh-bot,Client for the local API of a VeilMesh group bot (veilmesh-bot)
+2026-11-16T13:11:27.844707Z,panic-button-proto,0.1.0,0,0,https://github.com/ohtf/panic-button,Panic Button wire protocol: message types and strict deterministic CBOR encoding (no I/O).
+2026-11-16T13:11:30.970539Z,panic-button-crypto,0.1.0,0,0,https://github.com/ohtf/panic-button,"Panic Button cryptography: device keys, certificates, sealing, key shares, recovery kits and tokens (no I/O)."
+2026-11-16T13:11:34.454586Z,panic-button-core,0.1.0,0,0,https://github.com/ohtf/panic-button,"Panic Button sans-IO core state machine: peers, alarms, hold logic, status and sync."
+2026-11-16T13:11:39.632748Z,panic-button-relay,0.1.0,0,0,https://github.com/ohtf/panic-button,"Panic Button relay: a blind, multi-tenant forwarder of sealed envelopes."
+2026-11-16T13:11:43.399335Z,panic-button-net,0.1.0,0,0,https://github.com/ohtf/panic-button,"Panic Button network I/O drivers: UDP, TCP, mDNS, relay client and interface watch."
+2026-11-16T13:12:21.296011Z,xlsx-stream,0.1.0,0,0,https://github.com/Thiagolino8/rust-tools,Converte linhas JSON em XLSX com memória constante
+2026-11-16T13:12:30.203418Z,source-sentinel,0.1.0,0,0,https://github.com/Thiagolino8/rust-tools,Aplica regras de código-fonte com diagnósticos determinísticos
+2026-11-16T13:17:27.601352Z,sinew-core,0.1.0,0,0,https://github.com/roanbrasil/sinew,"Model, message, tool and prompt abstractions for Sinew"
+2026-11-16T13:17:29.016431Z,sinew-eval,0.1.0,0,0,https://github.com/roanbrasil/sinew,"Datasets, evaluators and experiments for Sinew (LangSmith-style evaluation)"
+2026-11-16T13:17:30.434959Z,sinew-rag,0.1.0,0,0,https://github.com/roanbrasil/sinew,"Retrieval for Sinew: embeddings, loaders, text splitters, vector stores, retrievers and RAG chains"
+2026-11-16T13:17:31.239607Z,sinew-trace,0.1.0,0,0,https://github.com/roanbrasil/sinew,"Run tracing for Sinew graphs, models and tools"
+2026-11-16T13:17:33.118697Z,sinew-graph,0.1.0,0,0,https://github.com/roanbrasil/sinew,"Typed state-graph engine for LLM agents: loops, branching, checkpoints, human-in-the-loop"
+2026-11-16T13:20:03.679159Z,tsdb-reader,0.1.0,0,0,https://github.com/zhuyanxi/tsdb-reader,"Zero-copy, read-only parser for Prometheus TSDB blocks: index v1-v3, all chunk encodings, tombstones"
+2026-11-16T13:20:12.135345Z,adamo-zenoh-link-tcp,1.9.0-adamo.1.0.27,0,0,https://github.com/adamo-tech/adamo,Internal crate for zenoh.
+2026-11-16T13:20:29.797397Z,adamo-zenoh-link-tls,1.9.0-adamo.1.0.27,0,0,https://github.com/adamo-tech/adamo,Internal crate for zenoh.
+2026-11-16T13:20:33.038749Z,citers,0.1.0,0,0,https://github.com/namil-k/citers,"Explore the citation graph of your reference library in the browser, with data from OpenAlex"
+2026-11-16T13:20:47.973968Z,adamo-zenoh-link-udp,1.9.0-adamo.1.0.27,0,0,https://github.com/adamo-tech/adamo,Internal crate for zenoh.
+2026-11-16T13:21:05.911321Z,adamo-zenoh-link-unixpipe,1.9.0-adamo.1.0.27,0,0,https://github.com/adamo-tech/adamo,Internal crate for zenoh.
