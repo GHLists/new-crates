@@ -8,30 +8,46 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-16 10:20 UTC
+## Latest list — 2026-11-16 11:18 UTC
 
-New crates published between 2026-11-16 09:18 UTC and 2026-11-16 10:20 UTC.
+New crates published between 2026-11-16 10:20 UTC and 2026-11-16 11:18 UTC.
 
-[Full CSV](data/new-crates-2026-11-16T10-20-33-757418Z.csv)
+[Full CSV](data/new-crates-2026-11-16T11-18-41-890647Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-16 09:19:50 | [img2webp](https://crates.io/crates/img2webp) | 0.1.0 | 0 | Convert PNG, JPEG and SVG images to WebP from the command line (lossy or lossle… |
-| 2026-11-16 09:23:01 | [claude-code-sessions](https://crates.io/crates/claude-code-sessions) | 0.1.1 | 0 | Claude Code sessions as data: read the local transcripts (~/.claude/projects) i… |
-| 2026-11-16 09:28:33 | [pii-veil-cli](https://crates.io/crates/pii-veil-cli) | 0.1.1 | 0 | CLI tool for ultrafast, deterministic, and reversible PII & secret anonymizatio… |
-| 2026-11-16 09:46:55 | [whitaker](https://crates.io/crates/whitaker) | 0.3.0 | 0 | Whitaker command-line interface |
-| 2026-11-16 09:48:11 | [inka-evidence](https://crates.io/crates/inka-evidence) | 0.0.2 | 0 | Test evidence v1 wire schema: shared validation, parsing and emission |
-| 2026-11-16 09:48:13 | [inka-core](https://crates.io/crates/inka-core) | 0.0.2 | 0 | Core library for inka |
-| 2026-11-16 09:48:14 | [inka-evidence-rust](https://crates.io/crates/inka-evidence-rust) | 0.0.2 | 0 | Rust test adapter emitting inka test evidence from cargo-nextest runs |
-| 2026-11-16 09:48:16 | [inka-cli](https://crates.io/crates/inka-cli) | 0.0.2 | 0 | Command-line interface for inka |
-| 2026-11-16 09:48:17 | [inka-lsp](https://crates.io/crates/inka-lsp) | 0.0.2 | 0 | Language server for the inka argumentation DSL |
-| 2026-11-16 09:52:42 | [gevatter_rustc_toolchain](https://crates.io/crates/gevatter_rustc_toolchain) | 0.0.1 | 0 | Rust toolchain utils for cargo-gevatter |
-| 2026-11-16 09:52:44 | [cargo-gevatter](https://crates.io/crates/cargo-gevatter) | 0.0.1 | 0 | Diagnoses and fixes lifetime annotations more fluentry than any other tools |
-| 2026-11-16 09:57:58 | [simplealloc](https://crates.io/crates/simplealloc) | 1.0.0 | 0 | small allocators for learning how Rust's allocator API fits together |
-| 2026-11-16 09:59:48 | [celesta-registry-client](https://crates.io/crates/celesta-registry-client) | 0.0.0 | 0 | Placeholder for the Celesta project. The real crate is not published yet. |
-| 2026-11-16 10:04:18 | [gofile-dl](https://crates.io/crates/gofile-dl) | 0.1.0 | 0 | High-performance, 100% Safe Rust GoFile.io CLI & Web Downloader |
-| 2026-11-16 10:14:24 | [markdoc-mermaid-renderer](https://crates.io/crates/markdoc-mermaid-renderer) | 0.3.1 | 0 | mermaid-rs-renderer 0.3.1, a pure-Rust Mermaid renderer, with the diagram types… |
-| 2026-11-16 10:17:01 | [mora_z85](https://crates.io/crates/mora_z85) | 0.1.0 | 0 | Z85 encoding/decoding for input of any length, no_std and allocation-free |
+| 2026-11-16 10:26:56 | [yoobi-cli](https://crates.io/crates/yoobi-cli) | 0.1.3 | 0 | Read and browse Yoobi timesheets from the command line |
+| 2026-11-16 10:36:47 | [chroven](https://crates.io/crates/chroven) | 0.1.0 | 0 | Owned Chrome processes with full typed CDP access |
+| 2026-11-16 10:40:45 | [haest-core](https://crates.io/crates/haest-core) | 0.1.0 | 0 | haest's agent loop and the contracts every plug-in implements: Provider, Tool,… |
+| 2026-11-16 10:41:07 | [haest-ts](https://crates.io/crates/haest-ts) | 0.1.0 | 0 | TypeScript to JavaScript for haest's embedded QuickJS: swc's type stripper, lin… |
+| 2026-11-16 10:41:38 | [haest-workspace](https://crates.io/crates/haest-workspace) | 0.1.0 | 0 | Workspaces for haest: the real disk + bash, and a bashkit sandbox over a copy-o… |
+| 2026-11-16 10:41:54 | [haest-tools](https://crates.io/crates/haest-tools) | 0.1.0 | 0 | haest's built-in tools: Read, Write, Edit, Glob, Grep, Bash, WebFetch, tasks, T… |
+| 2026-11-16 10:42:17 | [haest-code](https://crates.io/crates/haest-code) | 0.1.0 | 0 | haest's JavaScript engine (embedded QuickJS): the Code tool, which calls haest'… |
+| 2026-11-16 10:44:01 | [highrise-rs](https://crates.io/crates/highrise-rs) | 0.1.1 | 0 | Fast async Rust SDK and MCP server for the Highrise Bot WebSocket and Web REST… |
+| 2026-11-16 10:48:22 | [hardviz](https://crates.io/crates/hardviz) | 0.1.5 | 0 | Hardware monitoring dashboard: CPU, GPU, memory, temperatures, network and disks |
+| 2026-11-16 10:51:12 | [haest-providers](https://crates.io/crates/haest-providers) | 0.1.0 | 0 | Model API adapters for haest: Anthropic Messages, OpenAI Chat Completions + Res… |
+| 2026-11-16 10:56:13 | [starkom-scpf](https://crates.io/crates/starkom-scpf) | 1.0.1 | 0 | The encoder of the Starkom Compact Proof Format (SCPF) for EVM verifiers. |
+| 2026-11-16 10:58:36 | [drr-channel](https://crates.io/crates/drr-channel) | 0.1.0 | 0 | Async channel with one queue per sender, served by deficit round robin: fair sh… |
+| 2026-11-16 11:01:09 | [haest-settings](https://crates.io/crates/haest-settings) | 0.1.0 | 0 | haest's settings as plain values: what a conversation is built from. No files,… |
+| 2026-11-16 11:01:24 | [irisui-core](https://crates.io/crates/irisui-core) | 0.1.0-alpha.1 | 0 | Core safe arena graph, geometry, and styling data structures for Iris UI |
+| 2026-11-16 11:01:44 | [irisui-layout](https://crates.io/crates/irisui-layout) | 0.1.0-alpha.1 | 0 | Taffy-based layout engine adapter and caching subsystem for Iris UI |
+| 2026-11-16 11:02:06 | [irisui-text](https://crates.io/crates/irisui-text) | 0.1.0-alpha.1 | 0 | GPU typography, font shaping, and glyph caching engine for Iris UI |
+| 2026-11-16 11:02:11 | [irisui-wgpu](https://crates.io/crates/irisui-wgpu) | 0.1.0-alpha.1 | 0 | GPU SDF rendering pipeline and shader backend for Iris UI |
+| 2026-11-16 11:02:43 | [irisui-widgets](https://crates.io/crates/irisui-widgets) | 0.1.0-alpha.1 | 0 | Standard widget set and game-engine editor components for Iris UI |
+| 2026-11-16 11:03:38 | [stalzone-api](https://crates.io/crates/stalzone-api) | 0.1.0 | 0 | Unofficial asynchronous Rust client for the STALZONE API |
+| 2026-11-16 11:07:11 | [irisui-dock](https://crates.io/crates/irisui-dock) | 0.1.0-alpha.1 | 0 | Binary Split-Tree Docking and multi-pane management engine for Iris UI |
+| 2026-11-16 11:09:31 | [git-twig](https://crates.io/crates/git-twig) | 0.1.0 | 0 | Lightweight Git worktrees using native copy-on-write files |
+| 2026-11-16 11:11:11 | [haest-mcp](https://crates.io/crates/haest-mcp) | 0.1.0 | 0 | haest's MCP client: connects MCP servers (stdio, streamable HTTP) and offers th… |
+| 2026-11-16 11:14:43 | [ikit-core](https://crates.io/crates/ikit-core) | 0.1.1 | 0 | ikit domain model and validation |
+| 2026-11-16 11:15:04 | [ikit-net](https://crates.io/crates/ikit-net) | 0.1.1 | 0 | ikit networking: the ZeroTier Central API v2 client and zerotier-cli output par… |
+| 2026-11-16 11:15:10 | [ikit-provider](https://crates.io/crates/ikit-provider) | 0.1.1 | 0 | ikit deploy providers: rendering workloads for Docker Compose (Kubernetes later) |
+| 2026-11-16 11:15:33 | [termtrace-sdk-server](https://crates.io/crates/termtrace-sdk-server) | 0.1.1 | 0 | JSON-RPC server that exposes the Termtrace SDK to clients in other languages |
+| 2026-11-16 11:15:45 | [ikit-state](https://crates.io/crates/ikit-state) | 0.1.1 | 0 | ikit state store: StateStore trait and the SQLite backend |
+| 2026-11-16 11:17:01 | [irisui-winit](https://crates.io/crates/irisui-winit) | 0.1.0-alpha.1 | 0 | Winit platform windowing adapter and event bridge for Iris UI |
+| 2026-11-16 11:18:04 | [dayzmake-core](https://crates.io/crates/dayzmake-core) | 0.2.0 | 0 | Readers and writers for DayZ file formats: PBO, rapified config, P3D, PAA, BI k… |
+| 2026-11-16 11:18:17 | [iktinos](https://crates.io/crates/iktinos) | 0.1.0 | 0 | Claude Code sessions as data: read the local transcripts (~/.claude/projects) i… |
+| 2026-11-16 11:18:26 | [dayzmake](https://crates.io/crates/dayzmake) | 3.0.0 | 0 | DayZ modding tools |
+| 2026-11-16 11:18:27 | [ikit-app](https://crates.io/crates/ikit-app) | 0.1.1 | 0 | ikit use cases shared by the CLI and the MCP server |
 
 ## Data source
 

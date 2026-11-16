@@ -1,0 +1,33 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-16T10:26:56.951581Z,yoobi-cli,0.1.3,0,0,https://github.com/rvben/yoobi-cli,Read and browse Yoobi timesheets from the command line
+2026-11-16T10:36:47.62506Z,chroven,0.1.0,0,0,https://github.com/xJonathanLEI/chroven,Owned Chrome processes with full typed CDP access
+2026-11-16T10:40:45.768251Z,haest-core,0.1.0,0,0,https://github.com/haest-werk/haest,"haest's agent loop and the contracts every plug-in implements: Provider, Tool, Fs, Workspace, AgentHooks"
+2026-11-16T10:41:07.058692Z,haest-ts,0.1.0,0,0,https://github.com/haest-werk/haest,"TypeScript to JavaScript for haest's embedded QuickJS: swc's type stripper, line numbers kept"
+2026-11-16T10:41:38.852781Z,haest-workspace,0.1.0,0,0,https://github.com/haest-werk/haest,"Workspaces for haest: the real disk + bash, and a bashkit sandbox over a copy-on-write overlay (or over any haest Fs)"
+2026-11-16T10:41:54.052145Z,haest-tools,0.1.0,0,0,https://github.com/haest-werk/haest,"haest's built-in tools: Read, Write, Edit, Glob, Grep, Bash, WebFetch, tasks, ToolSearch, Skill"
+2026-11-16T10:42:17.554537Z,haest-code,0.1.0,0,0,https://github.com/haest-werk/haest,"haest's JavaScript engine (embedded QuickJS): the Code tool, which calls haest's tools from a short program, and the sandbox `js` command"
+2026-11-16T10:44:01.02868Z,highrise-rs,0.1.1,0,0,https://github.com/isaim0011/highrise-rs,Fast async Rust SDK and MCP server for the Highrise Bot WebSocket and Web REST APIs
+2026-11-16T10:48:22.599014Z,hardviz,0.1.5,0,0,https://github.com/liorbass/hardviz,"Hardware monitoring dashboard: CPU, GPU, memory, temperatures, network and disks"
+2026-11-16T10:51:12.427636Z,haest-providers,0.1.0,0,0,https://github.com/haest-werk/haest,"Model API adapters for haest: Anthropic Messages, OpenAI Chat Completions + Responses, OpenRouter, any OpenAI-compatible endpoint; pluggable HTTP transport"
+2026-11-16T10:56:13.350095Z,starkom-scpf,1.0.1,0,0,https://github.com/libernet-xyz/scpf.git,The encoder of the Starkom Compact Proof Format (SCPF) for EVM verifiers.
+2026-11-16T10:58:36.622379Z,drr-channel,0.1.0,0,0,https://github.com/RMamonts/nfs-mamont,"Async channel with one queue per sender, served by deficit round robin: fair sharing of a tokio worker pool between connections or tenants"
+2026-11-16T11:01:09.462365Z,haest-settings,0.1.0,0,0,https://github.com/haest-werk/haest,"haest's settings as plain values: what a conversation is built from. No files, no environment, no flags"
+2026-11-16T11:01:24.140558Z,irisui-core,0.1.0-alpha.1,0,0,,"Core safe arena graph, geometry, and styling data structures for Iris UI"
+2026-11-16T11:01:44.823247Z,irisui-layout,0.1.0-alpha.1,0,0,,Taffy-based layout engine adapter and caching subsystem for Iris UI
+2026-11-16T11:02:06.051211Z,irisui-text,0.1.0-alpha.1,0,0,,"GPU typography, font shaping, and glyph caching engine for Iris UI"
+2026-11-16T11:02:11.084102Z,irisui-wgpu,0.1.0-alpha.1,0,0,,GPU SDF rendering pipeline and shader backend for Iris UI
+2026-11-16T11:02:43.314888Z,irisui-widgets,0.1.0-alpha.1,0,0,,Standard widget set and game-engine editor components for Iris UI
+2026-11-16T11:03:38.127359Z,stalzone-api,0.1.0,0,0,https://github.com/Oneyann/stalzone-api,Unofficial asynchronous Rust client for the STALZONE API
+2026-11-16T11:07:11.99922Z,irisui-dock,0.1.0-alpha.1,0,0,,Binary Split-Tree Docking and multi-pane management engine for Iris UI
+2026-11-16T11:09:31.868208Z,git-twig,0.1.0,0,0,https://github.com/leostera/git-twig,Lightweight Git worktrees using native copy-on-write files
+2026-11-16T11:11:11.818918Z,haest-mcp,0.1.0,0,0,https://github.com/haest-werk/haest,"haest's MCP client: connects MCP servers (stdio, streamable HTTP) and offers their tools as haest tools"
+2026-11-16T11:14:43.749795Z,ikit-core,0.1.1,0,0,https://github.com/kaushik-xs/ikit,ikit domain model and validation
+2026-11-16T11:15:04.05731Z,ikit-net,0.1.1,0,0,https://github.com/kaushik-xs/ikit,ikit networking: the ZeroTier Central API v2 client and zerotier-cli output parsing
+2026-11-16T11:15:10.706502Z,ikit-provider,0.1.1,0,0,https://github.com/kaushik-xs/ikit,ikit deploy providers: rendering workloads for Docker Compose (Kubernetes later)
+2026-11-16T11:15:33.655438Z,termtrace-sdk-server,0.1.1,0,0,https://github.com/zigai/termtrace,JSON-RPC server that exposes the Termtrace SDK to clients in other languages
+2026-11-16T11:15:45.059687Z,ikit-state,0.1.1,0,0,https://github.com/kaushik-xs/ikit,ikit state store: StateStore trait and the SQLite backend
+2026-11-16T11:17:01.026425Z,irisui-winit,0.1.0-alpha.1,0,0,,Winit platform windowing adapter and event bridge for Iris UI
+2026-11-16T11:18:04.40517Z,dayzmake-core,0.2.0,0,0,https://github.com/bzed/dayzmake,"Readers and writers for DayZ file formats: PBO, rapified config, P3D, PAA, BI keys and signatures"
+2026-11-16T11:18:17.679698Z,iktinos,0.1.0,0,0,https://github.com/td72/iktinos,Claude Code sessions as data: read the local transcripts (~/.claude/projects) into a model of every session on the machine
+2026-11-16T11:18:26.529835Z,dayzmake,3.0.0,0,0,https://github.com/bzed/dayzmake,DayZ modding tools
+2026-11-16T11:18:27.722725Z,ikit-app,0.1.1,0,0,https://github.com/kaushik-xs/ikit,ikit use cases shared by the CLI and the MCP server
