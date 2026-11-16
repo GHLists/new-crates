@@ -8,47 +8,47 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-15 23:21 UTC
+## Latest list — 2026-11-16 00:19 UTC
 
-New crates published between 2026-11-15 22:18 UTC and 2026-11-15 23:21 UTC.
+New crates published between 2026-11-15 23:21 UTC and 2026-11-16 00:19 UTC.
 
-[Full CSV](data/new-crates-2026-11-15T23-21-02-690294Z.csv)
+[Full CSV](data/new-crates-2026-11-16T00-19-06-349646Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-15 22:24:54 | [aonyx-rakko-lint-rust](https://crates.io/crates/aonyx-rakko-lint-rust) | 0.1.0 | 0 | A Rakko action that lints Rust code with clippy |
-| 2026-11-15 22:32:01 | [strata_charts](https://crates.io/crates/strata_charts) | 0.1.0 | 0 | Declarative SVG & GPU Data Visualization Charts for Strata |
-| 2026-11-15 22:32:02 | [strata_crdt](https://crates.io/crates/strata_crdt) | 0.1.0 | 0 | Local-first conflict-free replicated data types and collaborative reactive sign… |
-| 2026-11-15 22:32:02 | [strata_device](https://crates.io/crates/strata_device) | 0.1.0 | 0 | Native hardware introspection, device telemetry, and reactive hardware signals… |
-| 2026-11-15 22:32:03 | [strata_form](https://crates.io/crates/strata_form) | 0.1.0 | 0 | Pure-Rust signal-driven form state management and schema validation engine for… |
-| 2026-11-15 22:32:04 | [strata_hot_reload](https://crates.io/crates/strata_hot_reload) | 0.1.0 | 0 | State-preserving native code hot-reloading orchestrator for Project Strata |
-| 2026-11-15 22:33:31 | [lsd-protocol](https://crates.io/crates/lsd-protocol) | 113.0.1 | 0 | Wire contract of the native LSD inference API, shared by every server and clien… |
-| 2026-11-15 22:35:39 | [ratatui-prtty](https://crates.io/crates/ratatui-prtty) | 0.1.0 | 0 | The prtty 1989-DOS window look (half-cell frames, title tabs, drop shadows) as… |
-| 2026-11-15 22:36:40 | [aonyx-rakko-lint-shell](https://crates.io/crates/aonyx-rakko-lint-shell) | 0.1.0 | 0 | A Rakko action that lints shell scripts with ShellCheck |
-| 2026-11-15 22:38:17 | [strata_i18n](https://crates.io/crates/strata_i18n) | 0.1.0 | 0 | Pure-Rust reactive internationalization (i18n), ICU MessageFormat, and localiza… |
-| 2026-11-15 22:43:13 | [signon](https://crates.io/crates/signon) | 1.0.0 | 0 | Shared user management for the your backoffices: registration, email verificati… |
-| 2026-11-15 22:48:24 | [aonyx-rakko-lint-toml](https://crates.io/crates/aonyx-rakko-lint-toml) | 0.1.0 | 0 | A Rakko action that validates TOML files with taplo |
-| 2026-11-15 22:52:09 | [aeconv](https://crates.io/crates/aeconv) | 0.1.0 | 0 | Extensible cross-platform file conversion CLI written in Rust, starting with im… |
-| 2026-11-15 22:57:18 | [tree-sitter-gosu](https://crates.io/crates/tree-sitter-gosu) | 0.1.0 | 0 | Gosu is a statically typed general-purpose programming language that runs on th… |
-| 2026-11-15 22:57:58 | [rs-arrow-qwords2pgcopy](https://crates.io/crates/rs-arrow-qwords2pgcopy) | 0.1.0 | 0 | Converts the 8-bytes items in the array to pgcopy bytes. |
-| 2026-11-15 23:04:20 | [aonyx-rakko-nextest](https://crates.io/crates/aonyx-rakko-nextest) | 0.1.0 | 0 | Runs cargo-nextest for Rakko actions and turns its reports into findings |
-| 2026-11-15 23:06:07 | [dirt-bike-graphics-fitment](https://crates.io/crates/dirt-bike-graphics-fitment) | 1.0.0 | 0 | Dirt bike plastic and graphics kit fitment data across 175 model years, 76 mode… |
-| 2026-11-15 23:06:12 | [custom-motorcycle-helmet-styles](https://crates.io/crates/custom-motorcycle-helmet-styles) | 1.0.0 | 0 | Motorcycle helmet shell silhouettes, paintable zones and surface finishes acros… |
-| 2026-11-15 23:06:16 | [custom-skateboard-deck-sizes](https://crates.io/crates/custom-skateboard-deck-sizes) | 1.0.0 | 0 | Skateboard deck shapes, width by length dimensions, truck axle pairings and 300… |
-| 2026-11-15 23:06:19 | [syncspin-core](https://crates.io/crates/syncspin-core) | 0.1.0 | 0 | Sendspin protocol core: Noise handshake, framing, messages and the clock filter |
-| 2026-11-15 23:06:32 | [syncspin-client](https://crates.io/crates/syncspin-client) | 0.1.0 | 0 | Sendspin client: session loop, noise handshake, Sink trait and event stream |
-| 2026-11-15 23:08:18 | [oxirush-pfcp](https://crates.io/crates/oxirush-pfcp) | 0.1.0 | 0 | PFCP (3GPP TS 29.244, Release 19) in Rust: decode, build, check and encode ever… |
-| 2026-11-15 23:09:16 | [rangoframework-template](https://crates.io/crates/rangoframework-template) | 0.1.0 | 0 | Rango template engine: Rango Template Language in Rust. |
-| 2026-11-15 23:09:29 | [rangoframework-forms](https://crates.io/crates/rangoframework-forms) | 0.1.0 | 0 | Rango forms: the forms framework in Rust. |
-| 2026-11-15 23:09:39 | [rangoframework-views](https://crates.io/crates/rangoframework-views) | 0.1.0 | 0 | Rango views: default error views, debug pages, static serving, decorators, shor… |
-| 2026-11-15 23:09:54 | [rangoframework-middleware](https://crates.io/crates/rangoframework-middleware) | 0.1.0 | 0 | Rango request handling: middleware chain, built-in middleware, dev server. |
-| 2026-11-15 23:10:06 | [rangoframework-contrib](https://crates.io/crates/rangoframework-contrib) | 0.1.0 | 0 | Rango contrib apps: auth, sessions, messages, contenttypes, staticfiles, sites… |
-| 2026-11-15 23:15:41 | [koda-config](https://crates.io/crates/koda-config) | 0.7.0 | 0 | The config file of the Koda AI coding agent: reading, checking and editing ~/.c… |
-| 2026-11-15 23:15:51 | [koda-protocol](https://crates.io/crates/koda-protocol) | 0.7.0 | 0 | The client protocol of the Koda AI coding agent: JSON-RPC 2.0 messages and thei… |
-| 2026-11-15 23:16:13 | [aonyx-rakko-set-msrv](https://crates.io/crates/aonyx-rakko-set-msrv) | 0.1.0 | 0 | A Rakko command that sets and verifies the minimum supported Rust version |
-| 2026-11-15 23:16:22 | [koda-state](https://crates.io/crates/koda-state) | 0.7.0 | 0 | The stored state of the Koda AI coding agent: its sessions, SQLite files and di… |
-| 2026-11-15 23:18:12 | [koda-client](https://crates.io/crates/koda-client) | 0.7.0 | 0 | The client API of the Koda AI coding agent: start Koda, send requests, read its… |
-| 2026-11-15 23:20:41 | [rangoframework-test](https://crates.io/crates/rangoframework-test) | 0.1.0 | 0 | Rango test utilities: Client, RequestFactory, response assertions. |
+| 2026-11-15 23:26:05 | [irig106-time-cli](https://crates.io/crates/irig106-time-cli) | 0.0.1 | 0 | Name placeholder for the irig106-time command-line tool (binary irigtime; mount… |
+| 2026-11-15 23:27:47 | [scionic-merkletree](https://crates.io/crates/scionic-merkletree) | 2.5.6 | 0 | Scionic Merkle trees: a folder of files under one root, with identical chunks,… |
+| 2026-11-15 23:29:17 | [oxvm-bridge](https://crates.io/crates/oxvm-bridge) | 0.1.0 | 0 | Process identity, native Linux programs and VM sockets for Rust programs runnin… |
+| 2026-11-15 23:30:04 | [aonyx-rakko-terraform](https://crates.io/crates/aonyx-rakko-terraform) | 0.1.0 | 0 | A Rakko bundle of actions that format and lint Terraform |
+| 2026-11-15 23:31:24 | [rangoframework-rest](https://crates.io/crates/rangoframework-rest) | 0.1.0 | 0 | Rango REST framework: serializers, viewsets, routers and OpenAPI schema (a REST… |
+| 2026-11-15 23:36:50 | [app118](https://crates.io/crates/app118) | 0.1.0 | 0 | A terminal based app for running you projects directly on docker |
+| 2026-11-15 23:41:56 | [aonyx-rakko-test-rust-docs](https://crates.io/crates/aonyx-rakko-test-rust-docs) | 0.1.0 | 0 | A Rakko action that runs the documentation tests of Rust libraries |
+| 2026-11-15 23:41:59 | [rangoframework](https://crates.io/crates/rangoframework) | 0.1.0 | 0 | Rango: a batteries-included web framework for Rust — ORM, migrations, templates… |
+| 2026-11-15 23:44:20 | [zonewright-mock](https://crates.io/crates/zonewright-mock) | 0.1.0 | 0 | Stateful mock DNS provider APIs for testing zonewright and the applications tha… |
+| 2026-11-15 23:44:24 | [zonewright](https://crates.io/crates/zonewright) | 0.1.0 | 0 | Manage DNS zones at DNS hosting providers: provider clients, record operations,… |
+| 2026-11-15 23:45:59 | [caitlyn-sdk-core](https://crates.io/crates/caitlyn-sdk-core) | 0.8.1 | 0 | The runtime behind the generated Caitlyn Rust SDK (caitlyn-sdk): the Caitlyn wi… |
+| 2026-11-15 23:46:07 | [caitlyn-sdk](https://crates.io/crates/caitlyn-sdk) | 0.8.1 | 0 | The Rust SDK for the Caitlyn API, generated from its Smithy model. |
+| 2026-11-15 23:52:31 | [allotd](https://crates.io/crates/allotd) | 0.3.0 | 0 | Allot daemon: samples the machine and grants CPU and GPU leases to Claude Code… |
+| 2026-11-15 23:53:36 | [hoard-gguf](https://crates.io/crates/hoard-gguf) | 0.1.0 | 0 | Strict, zero-copy GGUF parser and inspector for llama.cpp model files |
+| 2026-11-15 23:53:41 | [hoard-core](https://crates.io/crates/hoard-core) | 0.1.0 | 0 | Manifest, canonical JSON, validation, and hashing for the hoard artifact layer |
+| 2026-11-15 23:54:01 | [hoard-hf](https://crates.io/crates/hoard-hf) | 0.1.0 | 0 | Hugging Face Hub resolution and Xet/HTTP transport for the hoard artifact layer |
+| 2026-11-15 23:54:29 | [hoard-artifact](https://crates.io/crates/hoard-artifact) | 0.1.0 | 0 | Artifact pipeline CLI for large model files: verified fetch, manifests, CAS, an… |
+| 2026-11-15 23:55:51 | [aonyx-rakko-typescript](https://crates.io/crates/aonyx-rakko-typescript) | 0.1.0 | 0 | A Rakko bundle of actions that format, lint, type check, and test TypeScript |
+| 2026-11-15 23:55:59 | [vmix-shortcuts](https://crates.io/crates/vmix-shortcuts) | 0.2.4 | 0 | Embedded vMix shortcut function catalog |
+| 2026-11-15 23:59:49 | [liora-webview](https://crates.io/crates/liora-webview) | 0.6.1 | 0 | Opt-in WRY child webview hosted by a GPUI control for Liora applications. |
+| 2026-11-16 00:08:32 | [redis-lens](https://crates.io/crates/redis-lens) | 0.1.0 | 0 | A terminal UI for Redis and Valkey: browse keys and values, find what uses the… |
+| 2026-11-16 00:10:15 | [aonyx-rakko-baseline](https://crates.io/crates/aonyx-rakko-baseline) | 0.1.0 | 0 | A Rakko bundle of actions for the files of any project, whatever its language |
+| 2026-11-16 00:10:56 | [clean_text](https://crates.io/crates/clean_text) | 0.2.0 | 0 | Strip control and bidirectional control characters in a single pass, no_std |
+| 2026-11-16 00:11:30 | [postext](https://crates.io/crates/postext) | 1.87.0 | 0 | Typeset books from Rust with Postext: PDF, HTML, EPUB, page images, Word and In… |
+| 2026-11-16 00:12:57 | [i18n_nt_parse](https://crates.io/crates/i18n_nt_parse) | 0.2.0 | 0 | 加载与解析 i18n NestedText 词条目录，供代码生成与翻译工具复用 |
+| 2026-11-16 00:13:27 | [xhtml](https://crates.io/crates/xhtml) | 0.2.0 | 0 | Fast HTML escaping with exact output length, no intermediate buffer, no_std |
+| 2026-11-16 00:13:32 | [bfmt](https://crates.io/crates/bfmt) | 0.2.0 | 0 | Compile `$[name]` / `${name}` templates to compact bytecode and render them in… |
+| 2026-11-16 00:13:40 | [i18n_nt](https://crates.io/crates/i18n_nt) | 0.2.0 | 0 | 编译期生成、零解析的 NestedText 国际化运行时 |
+| 2026-11-16 00:15:48 | [i18n_nt_codegen](https://crates.io/crates/i18n_nt_codegen) | 0.2.0 | 0 | 把 NestedText 多语言词条编译为内联词典的 Rust 源码 |
+| 2026-11-16 00:17:11 | [solix-ffi](https://crates.io/crates/solix-ffi) | 1.1.3 | 0 | Safe FFI abstractions, macros, and value marshaling SDK for Solix native extens… |
+| 2026-11-16 00:17:26 | [solix-common](https://crates.io/crates/solix-common) | 1.1.3 | 0 | Common data structures, bytecode format, diagnostics, and solver for the Solix… |
+| 2026-11-16 00:18:19 | [solix-runtime](https://crates.io/crates/solix-runtime) | 1.1.3 | 0 | 64-bit register virtual machine, ARC memory manager, and native runtime for the… |
+| 2026-11-16 00:18:55 | [solix-compilation](https://crates.io/crates/solix-compilation) | 1.1.3 | 0 | Compiler frontend, lexer, parser, type checker, and bytecode generator for the… |
 
 ## Data source
 

@@ -1,0 +1,34 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-15T23:26:05.469787Z,irig106-time-cli,0.0.1,0,0,https://github.com/TelemetryWorks/irig106-time,Name placeholder for the irig106-time command-line tool (binary irigtime; mounted as `irig106 time` in irig106-cli). Real releases are published from TelemetryWorks/irig106-time via crates.io Trusted…
+2026-11-15T23:27:47.782348Z,scionic-merkletree,2.5.6,0,0,https://github.com/HORNET-Storage/Scionic-MerkleTree-Rust,"Scionic Merkle trees: a folder of files under one root, with identical chunks, files and folders stored once, and any part of it shown and checked without the rest"
+2026-11-15T23:29:17.042961Z,oxvm-bridge,0.1.0,0,0,https://github.com/spacia-ai/oxvm-sdk-public,"Process identity, native Linux programs and VM sockets for Rust programs running as WebAssembly (wasm32-wasip1) in an OXVM virtual machine"
+2026-11-15T23:30:04.850795Z,aonyx-rakko-terraform,0.1.0,0,0,https://github.com/aonyx-ai/rakko,A Rakko bundle of actions that format and lint Terraform
+2026-11-15T23:31:24.163223Z,rangoframework-rest,0.1.0,0,0,https://github.com/ZFCon/rango-framework,"Rango REST framework: serializers, viewsets, routers and OpenAPI schema (a REST framework + OpenAPI schema generation in Rust)."
+2026-11-15T23:36:50.622052Z,app118,0.1.0,0,0,https://github.com/VamatoHD/iei-2026-p1-tp04-g02,A terminal based app for running you projects directly on docker
+2026-11-15T23:41:56.805539Z,aonyx-rakko-test-rust-docs,0.1.0,0,0,https://github.com/aonyx-ai/rakko,A Rakko action that runs the documentation tests of Rust libraries
+2026-11-15T23:41:59.116112Z,rangoframework,0.1.0,0,0,https://github.com/ZFCon/rango-framework,"Rango: a batteries-included web framework for Rust — ORM, migrations, templates, forms, admin, auth, REST."
+2026-11-15T23:44:20.243435Z,zonewright-mock,0.1.0,0,0,https://github.com/dcl-group/zonewright,"Stateful mock DNS provider APIs for testing zonewright and the applications that use it, without live accounts."
+2026-11-15T23:44:24.462642Z,zonewright,0.1.0,0,0,https://github.com/dcl-group/zonewright,"Manage DNS zones at DNS hosting providers: provider clients, record operations, DNS-01 helpers and a propagation inspector."
+2026-11-15T23:45:59.725322Z,caitlyn-sdk-core,0.8.1,0,0,https://github.com/caitlyn-ai/sdk,"The runtime behind the generated Caitlyn Rust SDK (caitlyn-sdk): the Caitlyn wire protocol, sign-in, retries, streams and telemetry."
+2026-11-15T23:46:07.706089Z,caitlyn-sdk,0.8.1,0,0,https://github.com/caitlyn-ai/sdk,"The Rust SDK for the Caitlyn API, generated from its Smithy model."
+2026-11-15T23:52:31.604974Z,allotd,0.3.0,0,0,https://github.com/meh7an/allot,Allot daemon: samples the machine and grants CPU and GPU leases to Claude Code sessions
+2026-11-15T23:53:36.237489Z,hoard-gguf,0.1.0,0,0,https://github.com/meillaya/hoard,"Strict, zero-copy GGUF parser and inspector for llama.cpp model files"
+2026-11-15T23:53:41.041482Z,hoard-core,0.1.0,0,0,https://github.com/meillaya/hoard,"Manifest, canonical JSON, validation, and hashing for the hoard artifact layer"
+2026-11-15T23:54:01.741912Z,hoard-hf,0.1.0,0,0,https://github.com/meillaya/hoard,Hugging Face Hub resolution and Xet/HTTP transport for the hoard artifact layer
+2026-11-15T23:54:29.772375Z,hoard-artifact,0.1.0,0,0,https://github.com/meillaya/hoard,"Artifact pipeline CLI for large model files: verified fetch, manifests, CAS, and Nix fixed-output paths"
+2026-11-15T23:55:51.605208Z,aonyx-rakko-typescript,0.1.0,0,0,https://github.com/aonyx-ai/rakko,"A Rakko bundle of actions that format, lint, type check, and test TypeScript"
+2026-11-15T23:55:59.644501Z,vmix-shortcuts,0.2.4,0,0,https://github.com/MikanseiLaboratory/vmix-rs,Embedded vMix shortcut function catalog
+2026-11-15T23:59:49.964169Z,liora-webview,0.6.1,0,0,https://github.com/yhyzgn/liora,Opt-in WRY child webview hosted by a GPUI control for Liora applications.
+2026-11-16T00:08:32.946007Z,redis-lens,0.1.0,0,0,https://github.com/magna-nz/redis-lens,"A terminal UI for Redis and Valkey: browse keys and values, find what uses the memory, watch the server and run commands."
+2026-11-16T00:10:15.673933Z,aonyx-rakko-baseline,0.1.0,0,0,https://github.com/aonyx-ai/rakko,"A Rakko bundle of actions for the files of any project, whatever its language"
+2026-11-16T00:10:56.321303Z,clean_text,0.2.0,0,0,https://github.com/i18n-site/i18n.site,"Strip control and bidirectional control characters in a single pass, no_std"
+2026-11-16T00:11:30.351894Z,postext,1.87.0,0,0,https://github.com/drnachio/postext,"Typeset books from Rust with Postext: PDF, HTML, EPUB, page images, Word and InDesign from a .postext book or Markdown, through the self-contained postext command line."
+2026-11-16T00:12:57.465925Z,i18n_nt_parse,0.2.0,0,0,https://github.com/i18n-site/i18n.site,加载与解析 i18n NestedText 词条目录，供代码生成与翻译工具复用
+2026-11-16T00:13:27.760242Z,xhtml,0.2.0,0,0,https://github.com/i18n-site/i18n.site,"Fast HTML escaping with exact output length, no intermediate buffer, no_std"
+2026-11-16T00:13:32.899691Z,bfmt,0.2.0,0,0,https://github.com/i18n-site/i18n.site,Compile `$[name]` / `${name}` templates to compact bytecode and render them in one pass
+2026-11-16T00:13:40.183558Z,i18n_nt,0.2.0,0,0,https://github.com/i18n-site/i18n.site,编译期生成、零解析的 NestedText 国际化运行时
+2026-11-16T00:15:48.534675Z,i18n_nt_codegen,0.2.0,0,0,https://github.com/i18n-site/i18n.site,把 NestedText 多语言词条编译为内联词典的 Rust 源码
+2026-11-16T00:17:11.5021Z,solix-ffi,1.1.3,0,0,https://github.com/Jehudme/solix-language,"Safe FFI abstractions, macros, and value marshaling SDK for Solix native extensions"
+2026-11-16T00:17:26.810551Z,solix-common,1.1.3,0,0,https://github.com/Jehudme/solix-language,"Common data structures, bytecode format, diagnostics, and solver for the Solix language"
+2026-11-16T00:18:19.802413Z,solix-runtime,1.1.3,0,0,https://github.com/Jehudme/solix-language,"64-bit register virtual machine, ARC memory manager, and native runtime for the Solix language"
+2026-11-16T00:18:55.093212Z,solix-compilation,1.1.3,0,0,https://github.com/Jehudme/solix-language,"Compiler frontend, lexer, parser, type checker, and bytecode generator for the Solix language"
