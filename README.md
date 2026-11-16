@@ -8,35 +8,43 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-16 01:20 UTC
+## Latest list — 2026-11-16 02:19 UTC
 
-New crates published between 2026-11-16 00:19 UTC and 2026-11-16 01:20 UTC.
+New crates published between 2026-11-16 01:20 UTC and 2026-11-16 02:19 UTC.
 
-[Full CSV](data/new-crates-2026-11-16T01-20-17-814988Z.csv)
+[Full CSV](data/new-crates-2026-11-16T02-19-44-467399Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-16 00:19:39 | [solix-lsp](https://crates.io/crates/solix-lsp) | 1.1.3 | 0 | Language Server Protocol (LSP 3.17) implementation for the Solix language |
-| 2026-11-16 00:24:03 | [aonyx-rakko-check-latest-deps](https://crates.io/crates/aonyx-rakko-check-latest-deps) | 0.1.0 | 0 | A Rakko action that tests a Rust project with its newest dependency versions |
-| 2026-11-16 00:25:48 | [i18n_nt_macro](https://crates.io/crates/i18n_nt_macro) | 0.2.0 | 0 | i18n_nt 的编译期 NT 导入宏 i18n_nt_macro::include! |
-| 2026-11-16 00:27:05 | [meta-ontology](https://crates.io/crates/meta-ontology) | 0.11.0 | 0 | A self-describing meta-ontology stored in Links Notation: library, CLI, microse… |
-| 2026-11-16 00:27:37 | [solix-dap](https://crates.io/crates/solix-dap) | 1.1.3 | 0 | Debug Adapter Protocol (DAP) implementation for the Solix language |
-| 2026-11-16 00:31:08 | [refract-ui](https://crates.io/crates/refract-ui) | 0.1.9 | 0 | Portable, customizable components for Refract applications |
-| 2026-11-16 00:33:40 | [querydown-parser](https://crates.io/crates/querydown-parser) | 0.1.0 | 0 | The parser of the Querydown language, used by the `querydown` compiler |
-| 2026-11-16 00:35:48 | [i18n_tran_prompt](https://crates.io/crates/i18n_tran_prompt) | 0.2.0 | 0 | 译文检测与翻译提示词：改写原文、校验译文，集中生成全部提示词文案 |
-| 2026-11-16 00:39:14 | [cortexkit-bus-client](https://crates.io/crates/cortexkit-bus-client) | 0.1.0 | 0 | Seedless ck-bus credentials and local NATS connections for Rust modules |
-| 2026-11-16 00:42:40 | [somadb](https://crates.io/crates/somadb) | 0.0.0 | 0 | Placeholder for SomaDB, a portable, versioned SQL database for agent state. Not… |
-| 2026-11-16 00:49:09 | [malmal-jxl-jbr](https://crates.io/crates/malmal-jxl-jbr) | 0.2.1 | 0 | JPEG bitstream reconstruction from JPEG XL bitstream: jxl-jbr with the fixes ma… |
-| 2026-11-16 00:49:15 | [malmal-jxl-render](https://crates.io/crates/malmal-jxl-render) | 0.12.4 | 0 | JPEG XL image renderer, part of jxl-oxide: jxl-render with the fixes malmal nee… |
-| 2026-11-16 00:49:18 | [malmal-filmcraft-av1](https://crates.io/crates/malmal-filmcraft-av1) | 0.9.0 | 0 | Clean-room AV1 decoder (AV1 Bitstream & Decoding Process Specification v1.0.0 w… |
-| 2026-11-16 00:49:41 | [malmal-jxl-oxide](https://crates.io/crates/malmal-jxl-oxide) | 0.12.6 | 0 | JPEG XL decoder written in pure Rust: jxl-oxide with the fixes malmal needs, un… |
-| 2026-11-16 00:51:30 | [aonyx-rakko-check-minimal-deps](https://crates.io/crates/aonyx-rakko-check-minimal-deps) | 0.1.0 | 0 | A Rakko action that tests a Rust project with its lowest dependency versions |
-| 2026-11-16 00:56:42 | [svg-path-preview](https://crates.io/crates/svg-path-preview) | 0.4.0 | 0 | SVG path geometry, bounds, and braille and SVG previews |
-| 2026-11-16 00:57:26 | [simple-static-server](https://crates.io/crates/simple-static-server) | 0.1.3 | 0 | Simple Static Server: atomic static publishing in one binary |
-| 2026-11-16 01:08:42 | [spr-circuit](https://crates.io/crates/spr-circuit) | 0.10.0 | 0 | SPP protocol circuit types and operations over Xark: owners, UTXOs, balances, t… |
-| 2026-11-16 01:09:05 | [uping](https://crates.io/crates/uping) | 0.3.0 | 0 | A tiny TOML-configured reverse proxy with automatic HTTPS (ACME), static files… |
-| 2026-11-16 01:17:16 | [web2mcp](https://crates.io/crates/web2mcp) | 0.0.1 | 0 | Turn any existing app into safe, deterministic MCP tools. Placeholder release;… |
-| 2026-11-16 01:18:00 | [ek-api](https://crates.io/crates/ek-api) | 0.1.0 | 0 | Headless API service for the ek ecosystem: NDJSON JSON-RPC over TCP, token auth… |
+| 2026-11-16 01:21:01 | [aonyx-rakko-shell](https://crates.io/crates/aonyx-rakko-shell) | 0.1.0 | 0 | A Rakko bundle of actions that format and lint shell scripts |
+| 2026-11-16 01:30:36 | [huenda-contract](https://crates.io/crates/huenda-contract) | 0.1.0 | 0 | The isolated core contract for Huenda: a thin, sans-I/O core for three-valued v… |
+| 2026-11-16 01:30:38 | [huenda](https://crates.io/crates/huenda) | 0.1.0 | 0 | Curated entrypoint for Huenda: a thin, sans-I/O core for three-valued verdicts… |
+| 2026-11-16 01:30:39 | [huenda-conformance](https://crates.io/crates/huenda-conformance) | 0.1.0 | 0 | Conformance checks for Huenda tree implementations: what a correct adapter repo… |
+| 2026-11-16 01:30:41 | [huenda-driver](https://crates.io/crates/huenda-driver) | 0.1.0 | 0 | Optional reference answer session for Huenda: an answer-holding stepper over th… |
+| 2026-11-16 01:32:02 | [jamparty](https://crates.io/crates/jamparty) | 0.1.0 | 0 | Share a site under development with a few people, peer to peer, and route their… |
+| 2026-11-16 01:34:46 | [aonyx-rakko-test-rust](https://crates.io/crates/aonyx-rakko-test-rust) | 0.1.0 | 0 | A Rakko action that runs Rust tests with nextest |
+| 2026-11-16 01:34:51 | [mln-rs-wire-derive](https://crates.io/crates/mln-rs-wire-derive) | 0.0.12 | 0 | Part of mln-rs, a Rust port of the MapLibre Native map rendering core. Depend o… |
+| 2026-11-16 01:34:52 | [mln-rs-wire](https://crates.io/crates/mln-rs-wire) | 0.0.12 | 0 | Part of mln-rs, a Rust port of the MapLibre Native map rendering core. Depend o… |
+| 2026-11-16 01:35:06 | [mln-rs-glsl](https://crates.io/crates/mln-rs-glsl) | 0.0.12 | 0 | Part of mln-rs, a Rust port of the MapLibre Native map rendering core. Depend o… |
+| 2026-11-16 01:41:38 | [hadoop-native](https://crates.io/crates/hadoop-native) | 0.1.0 | 0 | Native Hadoop client foundations for Rust |
+| 2026-11-16 01:48:19 | [bravo_index](https://crates.io/crates/bravo_index) | 0.1.0 | 0 | The Bravo package manager 👏 |
+| 2026-11-16 01:48:21 | [bravo_backend](https://crates.io/crates/bravo_backend) | 0.1.0 | 0 | The Bravo package manager 👏 |
+| 2026-11-16 01:48:23 | [bravo_registry](https://crates.io/crates/bravo_registry) | 0.1.0 | 0 | The Bravo package manager 👏 |
+| 2026-11-16 01:59:23 | [tntop](https://crates.io/crates/tntop) | 0.1.0 | 0 | A TUI to help you monitor resources and services on your TrueNas server. |
+| 2026-11-16 02:02:53 | [aonyx-rakko-rust](https://crates.io/crates/aonyx-rakko-rust) | 0.1.0 | 0 | A Rakko bundle of the actions that every Rust project of Aonyx runs |
+| 2026-11-16 02:05:12 | [renk](https://crates.io/crates/renk) | 0.1.0 | 0 | Indentation-based syntax for Rust: transpiles .rk files to .rs |
+| 2026-11-16 02:08:05 | [the-doer-tui](https://crates.io/crates/the-doer-tui) | 1.0.0 | 0 | A fast, keyboard-driven terminal user interface for Doer task & checklist manag… |
+| 2026-11-16 02:08:30 | [day-piece-map-canvas](https://crates.io/crates/day-piece-map-canvas) | 0.0.0 | 0 | Bootstrap package for Day's canvas renderer supporting MapLibre styles and vect… |
+| 2026-11-16 02:08:32 | [day-piece-map-apple](https://crates.io/crates/day-piece-map-apple) | 0.0.0 | 0 | Bootstrap package for Apple Maps provider for Day apps |
+| 2026-11-16 02:08:34 | [day-piece-map-google](https://crates.io/crates/day-piece-map-google) | 0.0.0 | 0 | Bootstrap package for Google Maps provider for Day apps |
+| 2026-11-16 02:09:58 | [rs-toml-macros](https://crates.io/crates/rs-toml-macros) | 0.2.0 | 0 | Derive macros for the rs-toml TOML parser and emitter. |
+| 2026-11-16 02:10:13 | [rs-toml](https://crates.io/crates/rs-toml) | 0.2.0 | 0 | Pure Rust TOML parser and emitter with span-preserving document access. |
+| 2026-11-16 02:13:05 | [say-when](https://crates.io/crates/say-when) | 0.1.0 | 0 | Reads days, ranges of days, times and how things repeat, written in plain Engli… |
+| 2026-11-16 02:13:07 | [blinc-markdoc](https://crates.io/crates/blinc-markdoc) | 0.1.0 | 0 | Renders Markdoc documents as Blinc UI elements |
+| 2026-11-16 02:14:52 | [bevy_rui](https://crates.io/crates/bevy_rui) | 0.1.7 | 0 | UI widgets and layout system for the Bevy engine |
+| 2026-11-16 02:15:06 | [honig](https://crates.io/crates/honig) | 0.0.1 | 0 | The runtime dependency of code generated by `cargo-honig`: HTTP adapters, routi… |
+| 2026-11-16 02:15:08 | [cargo-honig](https://crates.io/crates/cargo-honig) | 0.0.1 | 0 | honig turns an OpenAPI description into typed Rust clients and servers. |
+| 2026-11-16 02:18:05 | [oxradon](https://crates.io/crates/oxradon) | 0.1.0 | 0 | A fast, drop-in Rust port of radon, the Python code metrics tool |
 
 ## Data source
 
