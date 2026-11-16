@@ -1,0 +1,17 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-16T03:23:23.731953Z,swc_next_core,0.0.0,0,0,https://github.com/swc-project/swc-next,Placeholder reserving the swc_next_core name for SWC Next
+2026-11-16T03:23:29.327453Z,swc_next_generator_bridge,0.0.0,0,0,https://github.com/swc-project/swc-next,Placeholder reserving the swc_next_generator_bridge name for SWC Next
+2026-11-16T03:23:35.157387Z,swc_next_transformer_bridge,0.0.0,0,0,https://github.com/swc-project/swc-next,Placeholder reserving the swc_next_transformer_bridge name for SWC Next
+2026-11-16T03:29:14.632974Z,rocketmq-client-remoting,0.0.1,0,0,https://github.com/zhaohai666/rocketmq-client-remoting,Apache RocketMQ classic remoting protocol client (Rust / tokio)
+2026-11-16T03:33:41.218311Z,egui-mineral-macros,0.0.0,0,0,https://github.com/lajosbencz/egui-mineral,"Placeholder for egui-mineral-macros, part of the egui-mineral UI framework; releases follow."
+2026-11-16T03:33:43.887395Z,egui-mineral,0.0.0,0,0,https://github.com/lajosbencz/egui-mineral,"Placeholder for egui-mineral, part of the egui-mineral UI framework; releases follow."
+2026-11-16T03:33:46.23336Z,egui-mineral-material,0.0.0,0,0,https://github.com/lajosbencz/egui-mineral,"Placeholder for egui-mineral-material, part of the egui-mineral UI framework; releases follow."
+2026-11-16T03:42:20.821715Z,arcnix-core,0.2.0,0,0,https://github.com/taidge/arcnix,SSH and SFTP server management primitives for Arcnix
+2026-11-16T03:42:23.042973Z,arcnix,0.2.0,0,0,https://github.com/taidge/arcnix,A friendly desktop workspace for managing servers over SSH
+2026-11-16T03:44:24.129034Z,leaf_sys,0.1.0,0,0,,The leaf_rs ffi bindings.
+2026-11-16T03:50:35.591193Z,leaf_rs,0.1.0,0,0,,"A Window, Graphics, and Input library."
+2026-11-16T04:01:23.309693Z,macin-adm,0.1.0,0,0,https://github.com/SakuzyPeng/MacinFormat-ADM-Core,"ADM metadata parsing, projection, generation, and lossless editing"
+2026-11-16T04:01:25.318554Z,macin-bwf,0.1.0,0,0,https://github.com/SakuzyPeng/MacinFormat-ADM-Core,"RIFF, RF64, and BW64 audio containers with ADM metadata support"
+2026-11-16T04:01:28.18813Z,macin-atmos,0.1.0,0,0,https://github.com/SakuzyPeng/MacinFormat-ADM-Core,"Streaming ADM BWF and DAMF Atmos master authoring, reading, and conversion"
+2026-11-16T04:08:53.367214Z,syncspin-server,0.2.0,0,0,https://github.com/acuntex/syncspin,"Sendspin server: listener, one group, roles, streaming and pairing"
+2026-11-16T04:17:19.003324Z,const-fixed,0.1.0,0,0,https://github.com/kaidokert/const-fixed-rs,Fixed-point numbers.
