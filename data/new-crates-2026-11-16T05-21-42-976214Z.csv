@@ -1,0 +1,21 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-16T04:19:34.502362Z,ibis-clickhouse,0.1.0,0,0,https://github.com/brojonat/ibis-rs,ClickHouse backend plugin for ibis-rs
+2026-11-16T04:21:55.031181Z,ssmcp,0.4.0,0,0,https://github.com/LIghtJUNction/ssmcp,Expose a local shell or coding agent as MCP through SSH public-key authentication
+2026-11-16T04:26:01.269398Z,ahi-durable,0.1.0,0,0,https://github.com/iancleary/ahi,Execution records and effect accounting for ahi
+2026-11-16T04:29:55.912732Z,strata_icons,0.1.0,0,0,https://github.com/strataui/strata,"Built-in vector icon system with over 1,000+ icons and subpixel GPU rendering for Strata"
+2026-11-16T04:29:56.708728Z,strata_js,0.1.0,0,0,https://github.com/strataui/strata,JavaScript runtime and dynamic type emulation in pure Rust for Strata
+2026-11-16T04:29:57.671151Z,strata_motion,0.1.0,0,0,https://github.com/strataui/strata,"Spring Physics, Layout Transitions & Morphing Animation Engine for Strata"
+2026-11-16T04:29:58.480563Z,strata_plugin_runtime,0.1.0,0,0,https://github.com/strataui/strata,Sandboxed dynamic plugin loader and runtime extension host for Project Strata
+2026-11-16T04:29:59.168429Z,strata_query,0.1.0,0,0,https://github.com/strataui/strata,"Pure-Rust asynchronous query caching, deduplication, and mutation engine for Strata"
+2026-11-16T04:31:07.482105Z,vmnl_macros,0.1.0,0,0,https://github.com/VMNL/vmnl-graphics,Internal procedural macros for VMNL Graphics.
+2026-11-16T04:34:05.769173Z,vmnl_graphics,0.1.0,0,0,https://github.com/VMNL/vmnl-graphics,VMNL graphics and windowing crate.
+2026-11-16T04:38:20.39388Z,strata_router,0.1.0,0,0,https://github.com/strataui/strata,Universal type-safe declarative routing engine for Strata applications
+2026-11-16T04:40:30.797447Z,rlmesh-tether,0.0.1,0,0,https://github.com/ArenaX-Labs/rlmesh,Part of RLMesh (https://rlmesh.dev). Name reserved; the first release is 0.2.0.
+2026-11-16T04:40:32.871635Z,rlmesh-cockpit,0.0.1,0,0,https://github.com/ArenaX-Labs/rlmesh,Part of RLMesh (https://rlmesh.dev). Name reserved; the first release is 0.2.0.
+2026-11-16T04:48:14.57329Z,strata_storage,0.1.0,0,0,https://github.com/strataui/strata,"Pure-Rust Bitcask WAL engine, synchronous in-memory storage, and secure keystore for Strata"
+2026-11-16T04:59:47.779267Z,strata-ui-store,0.1.0,0,0,https://github.com/strataui/strata,Lightweight Signal-Driven Global State Store for Strata
+2026-11-16T05:04:53.915318Z,sew-noise,0.10.2,0,0,https://github.com/Alakazam-211/sew-crates,"Microphone noise removal in pure Rust: a real-time capture stage (10 ms blocks of 48 kHz mono in place, fixed latency, a mode switchable without clicks), a frame API and a stream API (any block size,…"
+2026-11-16T05:07:45.964076Z,strata_style,0.1.0,0,0,https://github.com/strataui/strata,"Pure Rust CSS engine, cascade solver, and Tailwind CSS JIT compiler"
+2026-11-16T05:10:46.822223Z,nexus-rpc-macros,0.1.0,0,0,https://github.com/nexus-rpc/sdk-rust,Procedural macros for Nexus service definitions and typed operation markers
+2026-11-16T05:10:47.589302Z,nexus-rpc,0.1.0,0,0,https://github.com/nexus-rpc/sdk-rust,Nexus service definitions and typed operation markers
+2026-11-16T05:11:51.557343Z,noteking-tui,1.0.0,0,0,https://github.com/leouofa/NoteKing-TUI,"A fast, keyboard-driven terminal user interface for NoteKing markdown note studio"
