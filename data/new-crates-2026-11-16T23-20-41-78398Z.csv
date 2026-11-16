@@ -1,0 +1,45 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-16T22:21:05.380059Z,libacde-runtime,0.0.0,0,0,,Placeholder for Dopame's libacde-runtime
+2026-11-16T22:21:52.878564Z,plasma-kernel,0.2.0,0,0,https://github.com/superaligned-to/plasma,"Plasma's durable session kernel: turns, steps, permissions and tool runs over an event store."
+2026-11-16T22:27:12.948524Z,conducto,0.0.0,0,0,,Conducto.rs: multi-agent workflows from recipes you can read. This name is reserved; the alpha is released later in November 2026.
+2026-11-16T22:27:34.232531Z,skathi-gpui,0.0.0,0,0,https://github.com/argon-chat/skathi,Reserved for Skathi; the crate is published with Skathi 0.3.0
+2026-11-16T22:28:00.193684Z,pandsysroots,0.14.0,0,0,https://github.com/ivan-fr/pandrosion,"All the solutions of a polynomial system of any shape, each in a certified ball, by simultaneous sweeps of the Pandrosion rectangle step and the law of the residues, without homotopy"
+2026-11-16T22:30:31.802586Z,libacde-render,0.0.0,0,0,,Placeholder for Dopame's libacde-render
+2026-11-16T22:31:10.97658Z,helicoprion-core,0.4.0,0,0,https://github.com/Seafoam-Labs/helicoprion,"Scheduler detection, system metadata and result types for helicoprion"
+2026-11-16T22:31:13.8488Z,helicoprion-report,0.4.0,0,0,https://github.com/Seafoam-Labs/helicoprion,Comparison statistics and SVG/HTML reports for helicoprion
+2026-11-16T22:31:14.716096Z,helicoprion-workloads,0.4.0,0,0,https://github.com/Seafoam-Labs/helicoprion,Self-contained scheduler workloads for helicoprion
+2026-11-16T22:31:16.985598Z,helicoprion,0.4.0,0,0,https://github.com/Seafoam-Labs/helicoprion,"Scheduler-focused CPU benchmark: detects EEVDF vs sched-ext, runs workloads, charts the difference"
+2026-11-16T22:32:22.885414Z,plasma-server,0.2.0,0,0,https://github.com/superaligned-to/plasma,The HTTP server behind `plasma serve`.
+2026-11-16T22:37:34.229393Z,skathi-gpui-shared-string,0.0.0,0,0,https://github.com/argon-chat/skathi,Reserved for Skathi; the crate is published with Skathi 0.3.0
+2026-11-16T22:40:58.381685Z,libacde-storage,0.0.0,0,0,,Placeholder for Dopame's libacde-storage
+2026-11-16T22:42:57.806124Z,plasma-tui,0.2.0,0,0,https://github.com/superaligned-to/plasma,"The Plasma terminal UI (`plasma-tui`), a client of `plasma serve`."
+2026-11-16T22:46:27.02106Z,bbt-bibtex-parser,14.0.5,0,0,https://github.com/retorquere/bibtex-parser.git,BibTeX parser for Better BibTeX 4 zotero
+2026-11-16T22:48:40.281097Z,skathi-gpui-zlog,0.0.0,0,0,https://github.com/argon-chat/skathi,Reserved for Skathi; the crate is published with Skathi 0.3.0
+2026-11-16T22:50:22.847462Z,libacde-media,0.0.0,0,0,,Placeholder for Dopame's libacde-media
+2026-11-16T22:52:50.686767Z,rs-arrow-blobs2pgcopy,0.1.0,0,0,https://github.com/takanoriyanagitani/rs-arrow-blobs2pgcopy,Converts the blobs in the array to pgcopy bytes.
+2026-11-16T22:53:21.534387Z,ic-cargo-metadata,0.1.0,0,0,https://github.com/dragginzgame/ic-tooling,"Bounded, format-preserving Cargo release metadata renderer"
+2026-11-16T22:53:26.440273Z,plasma-cli,0.2.0,0,0,https://github.com/superaligned-to/plasma,"Plasma, a fast terminal coding agent: the `plasma` command and its detached server."
+2026-11-16T22:55:41.5455Z,sealwax-core,0.1.0,0,0,https://github.com/sealwax/sealwax,"Core of sealwax: opening PDF documents, their pages and geometry, full and incremental saves."
+2026-11-16T22:55:43.594209Z,sealwax-annots,0.1.0,0,0,https://github.com/sealwax/sealwax,"XFDF applied to PDF documents, annotations flattened into their pages."
+2026-11-16T22:55:44.425958Z,sealwax-sign,0.1.0,0,0,https://github.com/sealwax/sealwax,"PAdES signatures of PDF documents: certification and approval, signed outside (an HSM), with RFC 3161 timestamps."
+2026-11-16T22:55:45.106577Z,sealwax-text,0.1.0,0,0,https://github.com/sealwax/sealwax,"Text drawn by the content of PDF pages: which glyphs map to Unicode, for PDF/A level a and u."
+2026-11-16T22:55:46.235524Z,sealwax-pdfa,0.1.0,0,0,https://github.com/sealwax/sealwax,Conversion of PDF documents to PDF/A-3.
+2026-11-16T22:56:04.430296Z,fayde-core,0.3.0,0,0,https://github.com/shaneryall/Fayde,Core types for the Fayde astrometric plate solver
+2026-11-16T22:56:07.528717Z,fayde-catalog,0.3.0,0,0,https://github.com/shaneryall/Fayde,"Star catalogue access for Fayde: catalogue trait, UCAC4 reader, epoch propagation"
+2026-11-16T22:56:09.882952Z,fayde-detect,0.3.0,0,0,https://github.com/shaneryall/Fayde,Star and streak detection for the Fayde plate solver: positions with errors from an image
+2026-11-16T22:56:12.635921Z,fayde-wcs,0.3.0,0,0,https://github.com/shaneryall/Fayde,TAN/SIP world coordinate systems and FITS WCS cards for Fayde
+2026-11-16T22:56:20.311141Z,fayde-index,0.3.0,0,0,https://github.com/shaneryall/Fayde,Pattern index builder and on-disk index format for Fayde
+2026-11-16T22:56:41.277462Z,turul-mcp-ext-server-card,0.1.0,0,0,https://github.com/aussierobots/turul-mcp-framework,"MCP Server Cards (experimental, SEP-2127) wire types, validation and the served card document"
+2026-11-16T22:58:39.921375Z,skathi-gpui-macos,0.0.0,0,0,https://github.com/argon-chat/skathi,Reserved for Skathi; the crate is published with Skathi 0.3.0
+2026-11-16T23:00:49.984489Z,libacde-model,0.0.0,0,0,,Placeholder for Dopame's libacde-model
+2026-11-16T23:04:55.667782Z,sealwax-raster,0.1.0,0,0,https://github.com/sealwax/sealwax,PDF pages rendered to images: the grayscale PDF of a fax.
+2026-11-16T23:06:09.937588Z,fayde-solve,0.3.0,0,0,https://github.com/shaneryall/Fayde,"Plate solving for Fayde: hypothesis generation, verification and WCS fitting"
+2026-11-16T23:07:34.06842Z,skathi-gpui-windows,0.0.0,0,0,https://github.com/argon-chat/skathi,Reserved for Skathi; the crate is published with Skathi 0.3.0
+2026-11-16T23:07:54.730911Z,brrrty-serve,0.0.8,0,0,https://github.com/brrrty/brrrty,"Local static file server for Brrrty, an Eleventy-compatible static site generator."
+2026-11-16T23:09:08.594664Z,bitcoin-transaction-builder,0.1.0,0,0,https://github.com/yancyribbens/bitcoin-transaction-builder,A builder for Bitcoin Transactions
+2026-11-16T23:11:16.880663Z,libacde-log,0.0.0,0,0,,Placeholder for Dopame's libacde-log
+2026-11-16T23:11:49.227694Z,cloakapi,1.3.1,0,0,https://git.cloakapi.io/rust.git,"Client for the CloakAPI gateway: personal data in a prompt is replaced with stand-ins on your machine before the request leaves it, and restored in the reply."
+2026-11-16T23:14:56.846368Z,sealwax,0.1.0,0,0,https://github.com/sealwax/sealwax,"A PDF library: reading, flattening, PDF/A-3a conversion and PAdES signatures."
+2026-11-16T23:16:09.658451Z,fayde-fits,0.3.0,0,0,https://github.com/shaneryall/Fayde,"FITS I/O for Fayde: images, source lists, header priors, WCS files"
+2026-11-16T23:18:39.576936Z,sk-css,0.0.0,0,0,https://github.com/argon-chat/skathi,Reserved for Skathi; the crate is published with Skathi 0.3.0
+2026-11-16T23:20:41.289781Z,libacde-webgl,0.0.0,0,0,,Placeholder for Dopame's libacde-webgl
