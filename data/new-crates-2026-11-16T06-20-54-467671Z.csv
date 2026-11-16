@@ -1,0 +1,38 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-16T05:22:27.771345Z,pkpdutils-abi,0.1.0,0,0,https://github.com/matthiaskoenig/pkpdutils-core,"Wire contracts of pkpdutils: NCA options, sample batches and analysis results"
+2026-11-16T05:22:28.448242Z,pkpdutils-units,0.1.0,0,0,https://github.com/matthiaskoenig/pkpdutils-core,"Curated pharmacokinetic unit registry and parameter unit expressions, in agreement with pint"
+2026-11-16T05:24:12.83401Z,lote,0.0.1,0,0,https://github.com/lotehq/lote,"A reservation engine that never oversells: hold, confirm, release, expire."
+2026-11-16T05:26:29.654682Z,yggio,0.0.17,0,0,https://github.com/Platob/yggio,"Allocation-conscious Arrow schemas, fields, resource identifiers, byte-oriented values, and record I/O"
+2026-11-16T05:26:34.09907Z,yggio-market,0.0.17,0,0,https://github.com/Platob/yggio,"Market data and FIX for yggio: the four market enum kinds, the identifiers, the products, the market-data graph, its message and its lifecycle walk, and the FIX dictionary registry, its store and the…"
+2026-11-16T05:26:38.135707Z,yggio-ai,0.0.17,0,0,https://github.com/Platob/yggio,"Language models for yggio: Model, Llm and Agent over their Value traits, persisted settings, Claude, Bedrock and OpenAI-compatible backends, a priced model catalog, KPIs, routing, tools and a coding…"
+2026-11-16T05:26:40.844029Z,yggio-mysql,0.0.17,0,0,https://github.com/Platob/yggio,"MySQL 8.4 LTS and Apache Doris 4.1 for yggio: one blocking client over the MySQL wire protocol, its result sets decoded column-wise into Arrow, over the core's TLS, secrets, durations and retry rules"
+2026-11-16T05:26:43.270622Z,yggio-sqlite,0.0.17,0,0,https://github.com/Platob/yggio,"SQLite for yggio: the library bundled through rusqlite behind the core's registered engine, its rows decoded by declared type and storage class into Arrow, its writes in one transaction each"
+2026-11-16T05:27:21.824159Z,strata_codegen_js,0.1.0,0,0,https://github.com/strataui/strata,Pure JavaScript ESM code generator and AST transpiler for Strata
+2026-11-16T05:27:22.846723Z,strata_layout,0.1.0,0,0,https://github.com/strataui/strata,"Chromium-parity Box Model, Flexbox (L1), and CSS Grid (L2) layout engine in pure Rust"
+2026-11-16T05:33:11.210646Z,abl-evcc,0.1.0,0,0,https://github.com/acpiccolo/ABL-EVCC-Wallbox,ABL eMH1 / eMH2 (EVCC2/3) wallbox Modbus ASCII communication tool and library
+2026-11-16T05:37:29.973102Z,strata_a11y,0.1.0,0,0,https://github.com/strataui/strata,Native screen-reader accessibility bridge and WCAG 2.1 AAA auditor for Project Strata
+2026-11-16T05:39:43.620743Z,bezel-wgpu,0.3.25+zed.e4a373,0,0,https://github.com/gfx-rs/wgpu,"Cross-platform, safe, pure-rust graphics API"
+2026-11-16T05:45:21.030233Z,arazzo,0.0.0,0,0,https://github.com/strefethen/arazzo-cli,"Name reserved for arazzo-cli, an executor, validator and debugger for Arazzo API workflows"
+2026-11-16T05:46:43.557714Z,arazzo-runtime,0.0.0,0,0,https://github.com/strefethen/arazzo-cli,"Name reserved for the arazzo-runtime library crate of arazzo-cli, an executor for Arazzo API workflows"
+2026-11-16T05:46:46.262204Z,arazzo-spec,0.0.0,0,0,https://github.com/strefethen/arazzo-cli,"Name reserved for the arazzo-spec library crate of arazzo-cli, an executor for Arazzo API workflows"
+2026-11-16T05:46:46.369959Z,bitmomo,0.1.0,0,0,,BitMomo merchant SDK: accept crypto payments and verify webhooks in Rust
+2026-11-16T05:46:47.737577Z,arazzo-validate,0.0.0,0,0,https://github.com/strefethen/arazzo-cli,"Name reserved for the arazzo-validate library crate of arazzo-cli, an executor for Arazzo API workflows"
+2026-11-16T05:46:49.949201Z,arazzo-expr,0.0.0,0,0,https://github.com/strefethen/arazzo-cli,"Name reserved for the arazzo-expr library crate of arazzo-cli, an executor for Arazzo API workflows"
+2026-11-16T05:47:20.734322Z,strata_table,0.1.0,0,0,https://github.com/strataui/strata,Headless Data Grid & Table Engine for Strata
+2026-11-16T05:57:21.716508Z,skif-js-types,0.6.0,0,0,https://github.com/Goldziher/skif,Type-aware facts for skif's JS/TS analysis from the TypeScript checker of tsrs; the only tsrs boundary.
+2026-11-16T05:57:25.271361Z,strata_toast,0.1.0,0,0,https://github.com/strataui/strata,Stacked Toast Notification Engine for Strata
+2026-11-16T05:57:38.978323Z,arazzo-generate,0.0.0,0,0,https://github.com/strefethen/arazzo-cli,"Name reserved for the arazzo-generate library crate of arazzo-cli, an executor for Arazzo API workflows"
+2026-11-16T06:03:39.635862Z,zeeml-text-metrics,1.0.0,0,0,https://github.com/Zee-ML/zeeml-rust-crates,"Zero-dependency sentence burstiness, lexical word telemetry, CGPA normalizer, and RFC-4180 CSV parser/escaper by ZeeML (zeeml.com)."
+2026-11-16T06:04:22.623039Z,ciber_serde,0.1.0,0,0,https://github.com/CiberCodes/ciber_serde,Serde support for the CBR data format
+2026-11-16T06:04:53.638655Z,rshid_win,0.1.0,0,0,,"A USB HID library for Windows, implemented directly on setupapi, hid and cfgmgr32"
+2026-11-16T06:08:12.422696Z,arazzo-mcp,0.0.0,0,0,https://github.com/strefethen/arazzo-cli,"Name reserved for the arazzo-mcp library crate of arazzo-cli, an executor for Arazzo API workflows"
+2026-11-16T06:10:39.92287Z,strata_virtual,0.1.0,0,0,https://github.com/strataui/strata,Pure-Rust high-scale 1M+ list and grid windowed virtualization engine for Strata
+2026-11-16T06:11:42.483845Z,down_verify,0.2.0,0,0,https://atomgit.com/i18n-site/rs,Lock-free streaming chunk verification trait and background worker pool / 无锁流式分块校验接口与后台工作池
+2026-11-16T06:12:04.379765Z,siann,0.0.1,0,0,https://github.com/vglazer/siann,Silicon approximate nearest neighbors: fast similarity search on Apple silicon (placeholder; in development)
+2026-11-16T06:17:58.44733Z,yggio-xmla,0.0.17,0,0,https://github.com/Platob/yggio,"XML for Analysis 1.1 for yggio: the SOAP client of SSAS, tabular models, Mondrian and the core's own provider behind the core's Engine, Connection and Statement, every rowset decoded by its XML Schem…"
+2026-11-16T06:18:01.226676Z,yggio-postgres,0.0.17,0,0,https://github.com/Platob/yggio,"PostgreSQL 16 and 17 for yggio: one blocking client over the PostgreSQL v3 wire protocol, its binary results decoded column-wise into Arrow and its writes sent as binary COPY, over the core's TLS, se…"
+2026-11-16T06:18:03.516318Z,yggio-sqlserver,0.0.17,0,0,https://github.com/Platob/yggio,"Microsoft SQL Server 2019/2022 and Azure SQL for yggio: one blocking client over TDS, its result sets decoded column-wise into Arrow and its writes bulk-loaded straight from Arrow, over the core's TL…"
+2026-11-16T06:18:05.894358Z,yggio-adbc,0.0.17,0,0,https://github.com/Platob/yggio,"An ADBC 1.1.0 driver over yggio: one C entry point whose `uri` picks the engine - the Yggio engine over the system warehouse, or a registered one such as MySQL, Apache Doris and SQLite - its statemen…"
+2026-11-16T06:18:08.219409Z,yggio-odbc,0.0.17,0,0,https://github.com/Platob/yggio,"An ODBC 3.80 Unicode driver over yggio: one shared library a Driver Manager loads, whose connection string picks the engine - the Yggio engine over the system warehouse, or a registered one: MySQL, A…"
+2026-11-16T06:18:46.532473Z,arazzo-debug-adapter,0.0.0,0,0,https://github.com/strefethen/arazzo-cli,"Name reserved for the arazzo-debug-adapter library crate of arazzo-cli, an executor for Arazzo API workflows"
+2026-11-16T06:20:33.286371Z,strata_render,0.1.0,0,0,https://github.com/strataui/strata,"High-performance Display List, Stacking Context Compositor, and GPU rasterization pipeline"
