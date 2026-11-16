@@ -1,0 +1,30 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-16T19:20:15.314844Z,mulciber-light,0.2.0,0,0,https://github.com/fairhill1/mulciber,"Light baking for Mulciber games: directional lightmaps and ambient cubes traced over triangle meshes, in the units and with the lamp function of mulciber-shader's lighting library"
+2026-11-16T19:20:23.045846Z,agent-os,0.0.0,0,0,,Placeholder for Dopame's agent-os
+2026-11-16T19:20:51.822278Z,stoa-licensing,0.1.1,0,0,https://github.com/giannotr/stoa-dev,"Offline-capable, device-bound license activation for STOA Tauri apps"
+2026-11-16T19:24:12.7978Z,enggraph-agent,0.1.0,0,0,https://github.com/oberon-systems/enggraph,Host agent for enggraph: enrolls with a stack and serves its directories read-only over one signed socket
+2026-11-16T19:25:57.160364Z,ihs,0.1.1,0,0,https://github.com/artemtsitronov/ihs,"ihs - images hide secrets. A micro CLI tool that lets users hide and reveal data in PNG files, while remaining identical to the eye."
+2026-11-16T19:27:49.441029Z,skathi-gpui-apple,0.0.0,0,0,https://github.com/argon-chat/skathi,Reserved for Skathi; the crate is published with Skathi 0.3.0
+2026-11-16T19:29:28.206616Z,t4a-metal-sys,0.1.0,0,0,https://github.com/tensor4all/t4a-gpu-backend,"Run-time loaded Metal, MetalPerformanceShaders and MetalPerformanceShadersGraph tables for tensor4all"
+2026-11-16T19:29:37.649964Z,t4a-metal-runtime,0.1.1,0,0,https://github.com/tensor4all/t4a-gpu-backend,"Standalone Metal execution runtime (one device, one queue, shared buffers, run-time compiled MSL and checked launches) for tensor4all"
+2026-11-16T19:30:48.581758Z,libacde,0.0.0,0,0,,Placeholder for Dopame's libacde
+2026-11-16T19:31:52.631331Z,cursed_arithmetic,0.1.0,0,0,https://github.com/rot13maxi/cursed_arithmetic_rs,"Integer and bignum arithmetic built from lookup tables, not primitive arithmetic"
+2026-11-16T19:35:04.132495Z,gsim-core,0.3.0,0,0,https://github.com/GLODI-Engineering/gsim-core,"Schematic model for circuit and block-diagram simulation: a parametric component-contract schema (GSF v2) whose ports, geometry and validation are expressions evaluated live as parameters change, a .…"
+2026-11-16T19:37:40.705408Z,redjs-webgpu,0.0.0,0,0,https://github.com/argon-chat/skathi,Reserved for Skathi; the crate is published with Skathi 0.3.0
+2026-11-16T19:41:15.422474Z,libacdert,0.0.0,0,0,,Placeholder for Dopame's libacdert
+2026-11-16T19:44:03.118537Z,gutil,0.6.0,0,0,https://github.com/Leitwolf11/gutil,"A single-binary, cross-platform reimplementation of GNU coreutils"
+2026-11-16T19:47:40.260293Z,redjs,0.0.0,0,0,https://github.com/argon-chat/skathi,Reserved for Skathi; the crate is published with Skathi 0.3.0
+2026-11-16T19:48:38.00506Z,mind-api,0.0.0,0,0,,The interface to mind-api.com. This release reserves the name.
+2026-11-16T19:49:18.577135Z,fno-proto,0.0.0,0,0,https://github.com/fnodotdev/fno,Name held for the fno v0.1.0 release. Install the real release once it is published.
+2026-11-16T19:49:26.648865Z,fno-agent,0.0.0,0,0,https://github.com/fnodotdev/fno,Name held for the fno v0.1.0 release. Install the real release once it is published.
+2026-11-16T19:50:40.345415Z,libacde-base,0.0.0,0,0,,Placeholder for Dopame's libacde-base
+2026-11-16T19:57:34.289794Z,redjs-macros,0.0.0,0,0,https://github.com/argon-chat/skathi,Reserved for Skathi; the crate is published with Skathi 0.3.0
+2026-11-16T20:01:05.648348Z,libacde-dopame,0.0.0,0,0,,Placeholder for Dopame's libacde-dopame
+2026-11-16T20:07:34.336206Z,sk-runtime,0.0.0,0,0,https://github.com/argon-chat/skathi,Reserved for Skathi; the crate is published with Skathi 0.3.0
+2026-11-16T20:10:30.609881Z,libacfs,0.0.0,0,0,,Placeholder for Dopame's libacfs
+2026-11-16T20:12:44.678679Z,ctl-files,0.1.4,0,0,https://github.com/tokn-ai/ctl,Bounded read-only file and Git operations for local and SSH ctl clients
+2026-11-16T20:17:34.869065Z,sk-tree,0.0.0,0,0,https://github.com/argon-chat/skathi,Reserved for Skathi; the crate is published with Skathi 0.3.0
+2026-11-16T20:18:11.62846Z,amzn_midway_client_suite,0.0.1,0,0,,Midway Client Suite
+2026-11-16T20:20:56.859745Z,libacgpu,0.0.0,0,0,,Placeholder for Dopame's libacgpu
+2026-11-16T20:21:33.796491Z,brrrty-jsregex,0.0.6,0,0,https://github.com/brrrty/brrrty,"JavaScript regular expression syntax and semantics for Brrrty, an Eleventy-compatible static site generator."
+2026-11-16T20:21:36.88624Z,brrrty-prism,0.0.6,0,0,https://github.com/brrrty/brrrty,"Prism-compatible syntax highlighting for Brrrty, an Eleventy-compatible static site generator."
