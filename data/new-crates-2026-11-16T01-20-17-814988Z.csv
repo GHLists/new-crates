@@ -1,0 +1,22 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-16T00:19:39.568294Z,solix-lsp,1.1.3,0,0,https://github.com/Jehudme/solix-language,Language Server Protocol (LSP 3.17) implementation for the Solix language
+2026-11-16T00:24:03.19515Z,aonyx-rakko-check-latest-deps,0.1.0,0,0,https://github.com/aonyx-ai/rakko,A Rakko action that tests a Rust project with its newest dependency versions
+2026-11-16T00:25:48.856996Z,i18n_nt_macro,0.2.0,0,0,https://github.com/i18n-site/i18n.site,i18n_nt 的编译期 NT 导入宏 i18n_nt_macro::include!
+2026-11-16T00:27:05.89466Z,meta-ontology,0.11.0,0,0,https://github.com/link-foundation/meta-ontology,"A self-describing meta-ontology stored in Links Notation: library, CLI, microservice, and WASM/React web app (public domain)."
+2026-11-16T00:27:37.972182Z,solix-dap,1.1.3,0,0,https://github.com/Jehudme/solix-language,Debug Adapter Protocol (DAP) implementation for the Solix language
+2026-11-16T00:31:08.161353Z,refract-ui,0.1.9,0,0,https://github.com/refractrs/refract,"Portable, customizable components for Refract applications"
+2026-11-16T00:33:40.317834Z,querydown-parser,0.1.0,0,0,https://github.com/seancolsen/querydown,"The parser of the Querydown language, used by the `querydown` compiler"
+2026-11-16T00:35:48.43569Z,i18n_tran_prompt,0.2.0,0,0,https://github.com/i18n-site/i18n.site,译文检测与翻译提示词：改写原文、校验译文，集中生成全部提示词文案
+2026-11-16T00:39:14.143316Z,cortexkit-bus-client,0.1.0,0,0,https://github.com/cortexkit/commons,Seedless ck-bus credentials and local NATS connections for Rust modules
+2026-11-16T00:42:40.120378Z,somadb,0.0.0,0,0,https://github.com/somadb/somadb,"Placeholder for SomaDB, a portable, versioned SQL database for agent state. Not yet released."
+2026-11-16T00:49:09.561139Z,malmal-jxl-jbr,0.2.1,0,0,https://github.com/nguyenthuan155632/malmal,"JPEG bitstream reconstruction from JPEG XL bitstream: jxl-jbr with the fixes malmal needs, until they are released upstream"
+2026-11-16T00:49:15.16941Z,malmal-jxl-render,0.12.4,0,0,https://github.com/nguyenthuan155632/malmal,"JPEG XL image renderer, part of jxl-oxide: jxl-render with the fixes malmal needs, until they are released upstream"
+2026-11-16T00:49:18.771628Z,malmal-filmcraft-av1,0.9.0,0,0,https://github.com/nguyenthuan155632/malmal,"Clean-room AV1 decoder (AV1 Bitstream & Decoding Process Specification v1.0.0 with Errata 1): filmcraft-av1 with the fixes malmal needs, until they are released upstream"
+2026-11-16T00:49:41.228741Z,malmal-jxl-oxide,0.12.6,0,0,https://github.com/nguyenthuan155632/malmal,"JPEG XL decoder written in pure Rust: jxl-oxide with the fixes malmal needs, until they are released upstream"
+2026-11-16T00:51:30.074734Z,aonyx-rakko-check-minimal-deps,0.1.0,0,0,https://github.com/aonyx-ai/rakko,A Rakko action that tests a Rust project with its lowest dependency versions
+2026-11-16T00:56:42.517159Z,svg-path-preview,0.4.0,0,0,https://github.com/kjanat/svg,"SVG path geometry, bounds, and braille and SVG previews"
+2026-11-16T00:57:26.185652Z,simple-static-server,0.1.3,0,0,https://github.com/hmirin/sss,Simple Static Server: atomic static publishing in one binary
+2026-11-16T01:08:42.276453Z,spr-circuit,0.10.0,0,0,https://github.com/helius-labs/privacy-rings,"SPP protocol circuit types and operations over Xark: owners, UTXOs, balances, transactions and Poseidon."
+2026-11-16T01:09:05.924384Z,uping,0.3.0,0,0,https://github.com/raonagos/uping,"A tiny TOML-configured reverse proxy with automatic HTTPS (ACME), static files and raw TCP forwarding, built on Cloudflare Pingora."
+2026-11-16T01:17:16.183388Z,web2mcp,0.0.1,0,0,https://github.com/MHughesDev/web2mcp,"Turn any existing app into safe, deterministic MCP tools. Placeholder release; the project is in development."
+2026-11-16T01:18:00.926069Z,ek-api,0.1.0,0,0,https://cnb.cool/enkeep/ek-api,"Headless API service for the ek ecosystem: NDJSON JSON-RPC over TCP, token auth, plugin management and event push."

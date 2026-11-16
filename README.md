@@ -8,47 +8,35 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-16 00:19 UTC
+## Latest list — 2026-11-16 01:20 UTC
 
-New crates published between 2026-11-15 23:21 UTC and 2026-11-16 00:19 UTC.
+New crates published between 2026-11-16 00:19 UTC and 2026-11-16 01:20 UTC.
 
-[Full CSV](data/new-crates-2026-11-16T00-19-06-349646Z.csv)
+[Full CSV](data/new-crates-2026-11-16T01-20-17-814988Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-15 23:26:05 | [irig106-time-cli](https://crates.io/crates/irig106-time-cli) | 0.0.1 | 0 | Name placeholder for the irig106-time command-line tool (binary irigtime; mount… |
-| 2026-11-15 23:27:47 | [scionic-merkletree](https://crates.io/crates/scionic-merkletree) | 2.5.6 | 0 | Scionic Merkle trees: a folder of files under one root, with identical chunks,… |
-| 2026-11-15 23:29:17 | [oxvm-bridge](https://crates.io/crates/oxvm-bridge) | 0.1.0 | 0 | Process identity, native Linux programs and VM sockets for Rust programs runnin… |
-| 2026-11-15 23:30:04 | [aonyx-rakko-terraform](https://crates.io/crates/aonyx-rakko-terraform) | 0.1.0 | 0 | A Rakko bundle of actions that format and lint Terraform |
-| 2026-11-15 23:31:24 | [rangoframework-rest](https://crates.io/crates/rangoframework-rest) | 0.1.0 | 0 | Rango REST framework: serializers, viewsets, routers and OpenAPI schema (a REST… |
-| 2026-11-15 23:36:50 | [app118](https://crates.io/crates/app118) | 0.1.0 | 0 | A terminal based app for running you projects directly on docker |
-| 2026-11-15 23:41:56 | [aonyx-rakko-test-rust-docs](https://crates.io/crates/aonyx-rakko-test-rust-docs) | 0.1.0 | 0 | A Rakko action that runs the documentation tests of Rust libraries |
-| 2026-11-15 23:41:59 | [rangoframework](https://crates.io/crates/rangoframework) | 0.1.0 | 0 | Rango: a batteries-included web framework for Rust — ORM, migrations, templates… |
-| 2026-11-15 23:44:20 | [zonewright-mock](https://crates.io/crates/zonewright-mock) | 0.1.0 | 0 | Stateful mock DNS provider APIs for testing zonewright and the applications tha… |
-| 2026-11-15 23:44:24 | [zonewright](https://crates.io/crates/zonewright) | 0.1.0 | 0 | Manage DNS zones at DNS hosting providers: provider clients, record operations,… |
-| 2026-11-15 23:45:59 | [caitlyn-sdk-core](https://crates.io/crates/caitlyn-sdk-core) | 0.8.1 | 0 | The runtime behind the generated Caitlyn Rust SDK (caitlyn-sdk): the Caitlyn wi… |
-| 2026-11-15 23:46:07 | [caitlyn-sdk](https://crates.io/crates/caitlyn-sdk) | 0.8.1 | 0 | The Rust SDK for the Caitlyn API, generated from its Smithy model. |
-| 2026-11-15 23:52:31 | [allotd](https://crates.io/crates/allotd) | 0.3.0 | 0 | Allot daemon: samples the machine and grants CPU and GPU leases to Claude Code… |
-| 2026-11-15 23:53:36 | [hoard-gguf](https://crates.io/crates/hoard-gguf) | 0.1.0 | 0 | Strict, zero-copy GGUF parser and inspector for llama.cpp model files |
-| 2026-11-15 23:53:41 | [hoard-core](https://crates.io/crates/hoard-core) | 0.1.0 | 0 | Manifest, canonical JSON, validation, and hashing for the hoard artifact layer |
-| 2026-11-15 23:54:01 | [hoard-hf](https://crates.io/crates/hoard-hf) | 0.1.0 | 0 | Hugging Face Hub resolution and Xet/HTTP transport for the hoard artifact layer |
-| 2026-11-15 23:54:29 | [hoard-artifact](https://crates.io/crates/hoard-artifact) | 0.1.0 | 0 | Artifact pipeline CLI for large model files: verified fetch, manifests, CAS, an… |
-| 2026-11-15 23:55:51 | [aonyx-rakko-typescript](https://crates.io/crates/aonyx-rakko-typescript) | 0.1.0 | 0 | A Rakko bundle of actions that format, lint, type check, and test TypeScript |
-| 2026-11-15 23:55:59 | [vmix-shortcuts](https://crates.io/crates/vmix-shortcuts) | 0.2.4 | 0 | Embedded vMix shortcut function catalog |
-| 2026-11-15 23:59:49 | [liora-webview](https://crates.io/crates/liora-webview) | 0.6.1 | 0 | Opt-in WRY child webview hosted by a GPUI control for Liora applications. |
-| 2026-11-16 00:08:32 | [redis-lens](https://crates.io/crates/redis-lens) | 0.1.0 | 0 | A terminal UI for Redis and Valkey: browse keys and values, find what uses the… |
-| 2026-11-16 00:10:15 | [aonyx-rakko-baseline](https://crates.io/crates/aonyx-rakko-baseline) | 0.1.0 | 0 | A Rakko bundle of actions for the files of any project, whatever its language |
-| 2026-11-16 00:10:56 | [clean_text](https://crates.io/crates/clean_text) | 0.2.0 | 0 | Strip control and bidirectional control characters in a single pass, no_std |
-| 2026-11-16 00:11:30 | [postext](https://crates.io/crates/postext) | 1.87.0 | 0 | Typeset books from Rust with Postext: PDF, HTML, EPUB, page images, Word and In… |
-| 2026-11-16 00:12:57 | [i18n_nt_parse](https://crates.io/crates/i18n_nt_parse) | 0.2.0 | 0 | 加载与解析 i18n NestedText 词条目录，供代码生成与翻译工具复用 |
-| 2026-11-16 00:13:27 | [xhtml](https://crates.io/crates/xhtml) | 0.2.0 | 0 | Fast HTML escaping with exact output length, no intermediate buffer, no_std |
-| 2026-11-16 00:13:32 | [bfmt](https://crates.io/crates/bfmt) | 0.2.0 | 0 | Compile `$[name]` / `${name}` templates to compact bytecode and render them in… |
-| 2026-11-16 00:13:40 | [i18n_nt](https://crates.io/crates/i18n_nt) | 0.2.0 | 0 | 编译期生成、零解析的 NestedText 国际化运行时 |
-| 2026-11-16 00:15:48 | [i18n_nt_codegen](https://crates.io/crates/i18n_nt_codegen) | 0.2.0 | 0 | 把 NestedText 多语言词条编译为内联词典的 Rust 源码 |
-| 2026-11-16 00:17:11 | [solix-ffi](https://crates.io/crates/solix-ffi) | 1.1.3 | 0 | Safe FFI abstractions, macros, and value marshaling SDK for Solix native extens… |
-| 2026-11-16 00:17:26 | [solix-common](https://crates.io/crates/solix-common) | 1.1.3 | 0 | Common data structures, bytecode format, diagnostics, and solver for the Solix… |
-| 2026-11-16 00:18:19 | [solix-runtime](https://crates.io/crates/solix-runtime) | 1.1.3 | 0 | 64-bit register virtual machine, ARC memory manager, and native runtime for the… |
-| 2026-11-16 00:18:55 | [solix-compilation](https://crates.io/crates/solix-compilation) | 1.1.3 | 0 | Compiler frontend, lexer, parser, type checker, and bytecode generator for the… |
+| 2026-11-16 00:19:39 | [solix-lsp](https://crates.io/crates/solix-lsp) | 1.1.3 | 0 | Language Server Protocol (LSP 3.17) implementation for the Solix language |
+| 2026-11-16 00:24:03 | [aonyx-rakko-check-latest-deps](https://crates.io/crates/aonyx-rakko-check-latest-deps) | 0.1.0 | 0 | A Rakko action that tests a Rust project with its newest dependency versions |
+| 2026-11-16 00:25:48 | [i18n_nt_macro](https://crates.io/crates/i18n_nt_macro) | 0.2.0 | 0 | i18n_nt 的编译期 NT 导入宏 i18n_nt_macro::include! |
+| 2026-11-16 00:27:05 | [meta-ontology](https://crates.io/crates/meta-ontology) | 0.11.0 | 0 | A self-describing meta-ontology stored in Links Notation: library, CLI, microse… |
+| 2026-11-16 00:27:37 | [solix-dap](https://crates.io/crates/solix-dap) | 1.1.3 | 0 | Debug Adapter Protocol (DAP) implementation for the Solix language |
+| 2026-11-16 00:31:08 | [refract-ui](https://crates.io/crates/refract-ui) | 0.1.9 | 0 | Portable, customizable components for Refract applications |
+| 2026-11-16 00:33:40 | [querydown-parser](https://crates.io/crates/querydown-parser) | 0.1.0 | 0 | The parser of the Querydown language, used by the `querydown` compiler |
+| 2026-11-16 00:35:48 | [i18n_tran_prompt](https://crates.io/crates/i18n_tran_prompt) | 0.2.0 | 0 | 译文检测与翻译提示词：改写原文、校验译文，集中生成全部提示词文案 |
+| 2026-11-16 00:39:14 | [cortexkit-bus-client](https://crates.io/crates/cortexkit-bus-client) | 0.1.0 | 0 | Seedless ck-bus credentials and local NATS connections for Rust modules |
+| 2026-11-16 00:42:40 | [somadb](https://crates.io/crates/somadb) | 0.0.0 | 0 | Placeholder for SomaDB, a portable, versioned SQL database for agent state. Not… |
+| 2026-11-16 00:49:09 | [malmal-jxl-jbr](https://crates.io/crates/malmal-jxl-jbr) | 0.2.1 | 0 | JPEG bitstream reconstruction from JPEG XL bitstream: jxl-jbr with the fixes ma… |
+| 2026-11-16 00:49:15 | [malmal-jxl-render](https://crates.io/crates/malmal-jxl-render) | 0.12.4 | 0 | JPEG XL image renderer, part of jxl-oxide: jxl-render with the fixes malmal nee… |
+| 2026-11-16 00:49:18 | [malmal-filmcraft-av1](https://crates.io/crates/malmal-filmcraft-av1) | 0.9.0 | 0 | Clean-room AV1 decoder (AV1 Bitstream & Decoding Process Specification v1.0.0 w… |
+| 2026-11-16 00:49:41 | [malmal-jxl-oxide](https://crates.io/crates/malmal-jxl-oxide) | 0.12.6 | 0 | JPEG XL decoder written in pure Rust: jxl-oxide with the fixes malmal needs, un… |
+| 2026-11-16 00:51:30 | [aonyx-rakko-check-minimal-deps](https://crates.io/crates/aonyx-rakko-check-minimal-deps) | 0.1.0 | 0 | A Rakko action that tests a Rust project with its lowest dependency versions |
+| 2026-11-16 00:56:42 | [svg-path-preview](https://crates.io/crates/svg-path-preview) | 0.4.0 | 0 | SVG path geometry, bounds, and braille and SVG previews |
+| 2026-11-16 00:57:26 | [simple-static-server](https://crates.io/crates/simple-static-server) | 0.1.3 | 0 | Simple Static Server: atomic static publishing in one binary |
+| 2026-11-16 01:08:42 | [spr-circuit](https://crates.io/crates/spr-circuit) | 0.10.0 | 0 | SPP protocol circuit types and operations over Xark: owners, UTXOs, balances, t… |
+| 2026-11-16 01:09:05 | [uping](https://crates.io/crates/uping) | 0.3.0 | 0 | A tiny TOML-configured reverse proxy with automatic HTTPS (ACME), static files… |
+| 2026-11-16 01:17:16 | [web2mcp](https://crates.io/crates/web2mcp) | 0.0.1 | 0 | Turn any existing app into safe, deterministic MCP tools. Placeholder release;… |
+| 2026-11-16 01:18:00 | [ek-api](https://crates.io/crates/ek-api) | 0.1.0 | 0 | Headless API service for the ek ecosystem: NDJSON JSON-RPC over TCP, token auth… |
 
 ## Data source
 
