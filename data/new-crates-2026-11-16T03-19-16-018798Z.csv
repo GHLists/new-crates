@@ -1,0 +1,24 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-16T02:28:33.644566Z,fux-pane,0.38.0,0,0,https://github.com/gold-silver-copper/fux,"fux's pane process: a pane's terminal, its input and its program, and what it and its server say to each other"
+2026-11-16T02:32:03.18885Z,aonyx-rakko-rust-binary,0.1.0,0,0,https://github.com/aonyx-ai/rakko,A Rakko bundle of the actions for Rust projects of Aonyx that ship a binary
+2026-11-16T02:36:35.121087Z,rustterm,0.1.14,0,0,https://github.com/oksyd/RustTerm,"A native desktop workspace for terminals, remote desktops, and databases"
+2026-11-16T02:40:43.199648Z,tgradish-tgs,0.1.0,0,0,https://github.com/sliva0/tgradish,"Pure-Rust library that turns pixel art from GIF, APNG, WebP, Aseprite or sprite sheets into Telegram animated stickers (.tgs), and checks any .tgs"
+2026-11-16T02:41:04.20376Z,tgradish-core,2.0.0,0,0,https://github.com/sliva0/tgradish,"Library behind tgradish: Telegram video, static and pixel art sticker conversion, and WebM duration spoofing"
+2026-11-16T02:41:29.628321Z,tgradish-gui,2.0.0,0,0,https://github.com/sliva0/tgradish,The tgradish GUI: converts with tgradish-core
+2026-11-16T02:41:55.34949Z,tgradish,2.0.0,0,0,https://github.com/sliva0/tgradish,"Telegram video, static and animated stickers and emoji from videos, images or pixel art"
+2026-11-16T02:50:26.802125Z,pii-veil-core,0.1.0,0,0,https://github.com/glastor-core/pii-veil,"Ultrafast, deterministic, and reversible PII & secret anonymization engine for LLMs, logs, and SQL streams."
+2026-11-16T02:50:44.787582Z,pii-veil-ffi,0.1.0,0,0,https://github.com/glastor-core/pii-veil,"C-ABI Foreign Function Interface (FFI) bindings for pii-veil-core (for Go cgo, C/C++, Zig, and .NET)."
+2026-11-16T02:53:00.396058Z,brrrty-js,0.0.3,0,0,https://github.com/brrrty/brrrty,"JavaScript-semantics values shared by Brrrty's template engines, for an Eleventy-compatible static site generator."
+2026-11-16T02:53:03.200465Z,brrrty-liquid,0.0.3,0,0,https://github.com/brrrty/brrrty,"A Liquid template engine that matches LiquidJS as Eleventy configures it, for an Eleventy-compatible static site generator."
+2026-11-16T02:57:40.762784Z,aonyx-rakko-rust-library,0.1.0,0,0,https://github.com/aonyx-ai/rakko,A Rakko bundle of the actions for Rust projects of Aonyx that publish a library
+2026-11-16T03:02:14.454176Z,cfgy-core,0.1.0,0,0,https://github.com/Killer545537/cfgy,"Core value IR, conversion traits, and error types for cfgy. Format-agnostic; you probably want the `cfgy` crate instead."
+2026-11-16T03:02:18.120906Z,cfgy-formats,0.1.0,0,0,https://github.com/Killer545537/cfgy,"Feature-gated TOML, JSON, and YAML adapters that lower source text into the cfgy value IR."
+2026-11-16T03:02:22.263402Z,cfgy-derive,0.1.0,0,0,https://github.com/Killer545537/cfgy,Proc-macro implementation of cfgy's `FromConfig` derive. Re-exported by `cfgy`; do not depend on this directly.
+2026-11-16T03:02:27.324539Z,cfgy,0.1.0,0,0,https://github.com/Killer545537/cfgy,"Derive config structs from TOML, JSON, or YAML files, with the file checked at compile time and parsed at runtime."
+2026-11-16T03:05:34.435034Z,orint,0.0.0,0,0,,"oi — orchestrating intelligence: agent orchestrator (reserved placeholder, no functionality)"
+2026-11-16T03:06:53.800127Z,oi-rs,0.0.0,0,0,,"oi — orchestrating intelligence: agent orchestrator (reserved placeholder, no functionality)"
+2026-11-16T03:07:31.359625Z,oi-cli,0.0.0,0,0,,"oi — orchestrating intelligence: agent orchestrator (reserved placeholder, no functionality)"
+2026-11-16T03:11:21.937373Z,maac,0.6.1,0,0,https://github.com/tksuns12/maac,"MaaC (Music as a Code) parser, compiler, and renderer"
+2026-11-16T03:13:35.30528Z,agt,0.0.0,0,0,,"agt — sandboxed agent runtime: isolated per-instance workspaces and launch-security controls (reserved placeholder, no functionality)"
+2026-11-16T03:15:20.026102Z,agt-rs,0.0.0,0,0,,"agt — sandboxed agent runtime: isolated per-instance workspaces and launch-security controls (reserved placeholder, no functionality)"
+2026-11-16T03:18:08.078659Z,agt-cli,0.0.0,0,0,,"agt — sandboxed agent runtime: isolated per-instance workspaces and launch-security controls (reserved placeholder, no functionality)"
