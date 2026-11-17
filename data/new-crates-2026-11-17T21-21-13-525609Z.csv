@@ -1,0 +1,51 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-17T20:22:27.155923Z,grana-engine,0.2.0,0,0,https://github.com/formetaohy/Grana,Next-generation microscopy image visualization and analysis platform
+2026-11-17T20:23:05.172683Z,melotui-core,2026.11.1,0,0,https://github.com/m-d-nabeel/melotui,"State, commands and actions of the melotui music player. Part of melotui; not meant to be used on its own."
+2026-11-17T20:23:09.291817Z,melotui-bus,2026.11.1,0,0,https://github.com/m-d-nabeel/melotui,The messages melotui's threads send one another. Part of melotui; not meant to be used on its own.
+2026-11-17T20:23:11.59958Z,melotui-tui,2026.11.1,0,0,https://github.com/m-d-nabeel/melotui,"Terminal interface of the melotui music player: its views, themes and keys. Part of melotui; not meant to be used on its own."
+2026-11-17T20:23:16.474156Z,melotui-audio,2026.11.1,0,0,https://github.com/m-d-nabeel/melotui,"Playback, decoding, effects and spectrum analysis for the melotui music player. Part of melotui; not meant to be used on its own."
+2026-11-17T20:23:18.391422Z,melotui-cover,2026.11.1,0,0,https://github.com/m-d-nabeel/melotui,Album art loading and caching for the melotui music player. Part of melotui; not meant to be used on its own.
+2026-11-17T20:23:36.268803Z,owlrouter,0.1.0,0,0,https://github.com/owlrouter/owlrouter,Link-state routing over causal stamps for accelerator fabrics
+2026-11-17T20:25:57.413734Z,plusthree-derive,0.1.0,0,0,https://tangled.org/did:plc:x6uodia46cnmzpy6ruvrrzgm,"Macros for plusthree: #[derive(Context)], #[derive(Event)], #[derive(Children)] and machine!"
+2026-11-17T20:25:57.787415Z,plusthree-ir,0.1.0,0,0,https://tangled.org/did:plc:x6uodia46cnmzpy6ruvrrzgm,"Statechart IR: builder, validation, flattening"
+2026-11-17T20:25:58.438112Z,plusthree-core,0.1.0,0,0,https://tangled.org/did:plc:x6uodia46cnmzpy6ruvrrzgm,"Statechart kernel: snapshot, step, microstep"
+2026-11-17T20:26:00.186007Z,plusthree-system,0.1.0,0,0,https://tangled.org/did:plc:x6uodia46cnmzpy6ruvrrzgm,Pure actor-system reducer for plusthree (port of XState v6 systemTransition)
+2026-11-17T20:26:02.212128Z,plusthree-json,0.1.0,0,0,https://tangled.org/did:plc:x6uodia46cnmzpy6ruvrrzgm,XState v6 MachineJSON machines and persisted snapshots for plusthree
+2026-11-17T20:26:59.900514Z,repository-read,1.0.0,0,0,https://github.com/heavenstudio/symphony,"Repository reads that report every attempt, a missing path and a directory listing included, for a reader and the verifier that audits it."
+2026-11-17T20:28:15.797747Z,rscodec,0.1.0-alpha.1,0,0,https://github.com/loadingalias/rscodec,Codecs for Rust (in development). Each codec is a leaf feature with portable and SIMD backends and no C.
+2026-11-17T20:29:46.655731Z,roadcase-repo,0.1.0,0,0,https://github.com/transcodeworks/roadcase,"Signed apt and pacman repositories as static folders, and AUR -bin PKGBUILDs, for Linux packages."
+2026-11-17T20:29:47.259426Z,roadcase-update,0.1.0,0,0,https://github.com/transcodeworks/roadcase,"Signed self-updates for desktop applications: a manifest, a download, and the installer, bundle or AppImage swap; desktop integration for AppImages."
+2026-11-17T20:29:48.64265Z,roadcase-bundle,0.1.0,0,0,https://github.com/transcodeworks/roadcase,"Config-driven packaging of desktop applications: macOS bundles, disk images and notarization, Windows NSIS installers, Linux AppImages, .deb and pacman packages."
+2026-11-17T20:29:50.439872Z,roadcase,0.1.0,0,0,https://github.com/transcodeworks/roadcase,Packages desktop applications and publishes their signed updates.
+2026-11-17T20:31:11.77699Z,prime-badge,0.1.0,0,0,https://github.com/anton-avramchuk/prime-rs,prime-rs: Badge component (PrimeNG port)
+2026-11-17T20:31:59.145349Z,grana-offline,0.2.0,0,0,https://github.com/formetaohy/Grana,Next-generation microscopy image visualization and analysis platform
+2026-11-17T20:33:37.626843Z,melotui-db,2026.11.1,0,0,https://github.com/m-d-nabeel/melotui,The SQLite music library database of the melotui music player. Part of melotui; not meant to be used on its own.
+2026-11-17T20:35:05.094739Z,rals-math,0.1.0,0,0,,Yet another linear algebra math library
+2026-11-17T20:36:53.010847Z,plusthree-runtime,0.1.0,0,0,https://tangled.org/did:plc:x6uodia46cnmzpy6ruvrrzgm,Live actor runtime for plusthree: mailboxes and clocks around plusthree-system
+2026-11-17T20:37:02.05194Z,symphony-api,0.1.0,0,0,https://github.com/heavenstudio/symphony,"Symphony's wire types: the JSON its server sends and its client reads, the blocks of symphony-blocks among them."
+2026-11-17T20:41:10.672983Z,sbom-attest,0.1.0,0,0,https://github.com/Mattbusel/sbom-attest,"Build-time SBOMs for mixed Rust and C/C++ embedded builds: CycloneDX 1.6 and SPDX 2.3 with the CISA 2026 minimum elements, vendor-vs-independent SBOM diff, signed in-toto/SLSA provenance and a DoWI 8…"
+2026-11-17T20:41:34.042039Z,prime-blockui,0.1.0,0,0,https://github.com/anton-avramchuk/prime-rs,prime-rs: BlockUI component (port of PrimeNG)
+2026-11-17T20:42:40.554071Z,grana-preview,0.2.0,0,0,https://github.com/formetaohy/Grana,Next-generation microscopy image visualization and analysis platform
+2026-11-17T20:43:23.319277Z,melotui-download,2026.11.1,0,0,https://github.com/m-d-nabeel/melotui,"YouTube search and downloads, through yt-dlp, for the melotui music player. Part of melotui; not meant to be used on its own."
+2026-11-17T20:45:19.78941Z,tstag,0.2.0,0,0,https://codeberg.org/pksoft/tstag,A tool to rename files with a timestamp.
+2026-11-17T20:46:23.657197Z,plusthree,0.1.0,0,0,https://tangled.org/did:plc:x6uodia46cnmzpy6ruvrrzgm,High-performance Rust port of XState v6 statecharts
+2026-11-17T20:47:22.640614Z,symphony-plugin,1.0.0,0,0,https://github.com/heavenstudio/symphony,"What a Symphony plugin implements: its seams, the blocks it renders to and the line protocol a plugin's own process answers. Part of Symphony's plugin kit."
+2026-11-17T20:51:37.765737Z,prime-breadcrumb,0.1.0,0,0,https://github.com/anton-avramchuk/prime-rs,prime-rs: Breadcrumb component (PrimeNG port)
+2026-11-17T20:52:35.539324Z,grana-mesh,0.2.0,0,0,https://github.com/formetaohy/Grana,Next-generation microscopy image visualization and analysis platform
+2026-11-17T20:53:36.641469Z,melotui-engine,2026.11.1,0,0,https://github.com/m-d-nabeel/melotui,Connects the melotui music player's workers to its interface. Part of melotui; not meant to be used on its own.
+2026-11-17T20:57:30.571278Z,symphony-board,0.1.0,0,0,https://github.com/heavenstudio/symphony,"Symphony's task board: the `tasks` and `agent-send` commands, its store on SurrealDB, the agents it staffs and the builds and tests it records."
+2026-11-17T20:59:11.945477Z,keywork-svg,0.1.0,0,0,https://tangled.org/rockorager.dev/keywork,"A static SVG parser without dependencies that resolves styles, use, gradients, clips, and masks into a compact render tree"
+2026-11-17T21:01:41.54551Z,prime-button,0.1.0,0,0,https://github.com/anton-avramchuk/prime-rs,prime-rs: Button component (port of PrimeNG)
+2026-11-17T21:02:00.836233Z,grana-interop,0.2.0,0,0,https://github.com/formetaohy/Grana,Next-generation microscopy image visualization and analysis platform
+2026-11-17T21:02:44.51991Z,noise-channel,0.1.0,0,0,,Synchronous typed Noise KK channels over owned Unix descriptors
+2026-11-17T21:03:28.241081Z,melotui,2026.11.1,0,0,https://github.com/m-d-nabeel/melotui,"A terminal music player with a spectrum visualizer, DSP effects, synced lyrics and YouTube downloads"
+2026-11-17T21:06:15.148084Z,keywork-wire,0.1.0,0,0,https://tangled.org/rockorager.dev/keywork,"Keywork's Wayland client: wire codec, generated protocol bindings, and fd passing, without libwayland"
+2026-11-17T21:07:17.248472Z,symphony-chrome,0.1.0,0,0,https://github.com/heavenstudio/symphony,"Headless Chrome on a private profile, driven over its DevTools protocol and leashed to the process that launched it: what `symphony shot` and Symphony's browser tests drive."
+2026-11-17T21:08:31.800282Z,ignit-winit,0.30.8-ignit.1,0,0,https://forgejo.sakul-flee.de/SakulFlee/Ignit-Winit,Cross-platform window creation library (Ignit fork).
+2026-11-17T21:09:40.66025Z,sooner-email,0.1.0,0,0,https://github.com/Quad-Labs-LLC/sooner-sdks,Typed async Rust SDK for the Sooner email API
+2026-11-17T21:10:09.919582Z,ignit-cosmic-text,0.19.0-ignit.1,0,0,https://forgejo.sakul-flee.de/SakulFlee/Ignit-Cosmic-Text,Pure Rust multi-line text handling (Ignit fork)
+2026-11-17T21:10:43.254708Z,ignit-cryoglyph,0.1.0-ignit.1,0,0,https://forgejo.sakul-flee.de/SakulFlee/Ignit-Cryoglyph,"Fast, simple 2D text rendering for wgpu (Ignit fork)"
+2026-11-17T21:11:44.259435Z,prime-buttongroup,0.1.0,0,0,https://github.com/anton-avramchuk/prime-rs,prime-rs: ButtonGroup component (port of PrimeNG)
+2026-11-17T21:12:10.088484Z,grana-calibration,0.2.0,0,0,https://github.com/formetaohy/Grana,Next-generation microscopy image visualization and analysis platform
+2026-11-17T21:16:14.344367Z,keywork-platform,0.1.0,0,0,https://tangled.org/rockorager.dev/keywork,"Keywork's platform layer: event loop, worker pool, Wayland windows and input, XKB keyboards, dmabuf buffers, and a D-Bus client with the desktop portals"
+2026-11-17T21:17:43.34176Z,symphony-app,0.1.0,0,0,https://github.com/heavenstudio/symphony,"Symphony's library and its `symphony` command: the owner's review of a project's documents, its decisions and asks, the project file and the plugins it selects."
