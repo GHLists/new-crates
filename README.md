@@ -8,65 +8,54 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-17 18:19 UTC
+## Latest list — 2026-11-17 19:20 UTC
 
-New crates published between 2026-11-17 17:18 UTC and 2026-11-17 18:19 UTC.
+New crates published between 2026-11-17 18:19 UTC and 2026-11-17 19:20 UTC.
 
-[Full CSV](data/new-crates-2026-11-17T18-19-00-385098Z.csv)
+[Full CSV](data/new-crates-2026-11-17T19-20-59-719305Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-17 17:22:13 | [grana-czi](https://crates.io/crates/grana-czi) | 0.2.0 | 0 | Next-generation microscopy image visualization and analysis platform |
-| 2026-11-17 17:25:32 | [aster_acme_dns_http](https://crates.io/crates/aster_acme_dns_http) | 0.1.0-alpha.2 | 0 | Forge HTTP execution adapter for AsterACME DNS provider actions. |
-| 2026-11-17 17:25:40 | [aster_acme_dns_builtin](https://crates.io/crates/aster_acme_dns_builtin) | 0.1.0-alpha.2 | 0 | Feature-selected DNS provider state machines without network or filesystem acce… |
-| 2026-11-17 17:27:05 | [pleochroma-ui-kit](https://crates.io/crates/pleochroma-ui-kit) | 0.12.0 | 0 | The shared Slint UI kit of the Pleochroma apps: the dark theme tokens, the pale… |
-| 2026-11-17 17:27:21 | [pleochroma-library-mirror](https://crates.io/crates/pleochroma-library-mirror) | 0.12.0 | 0 | Pleochroma's design-library mirror sync and remote browsing over the read-only… |
-| 2026-11-17 17:30:09 | [cho-theme](https://crates.io/crates/cho-theme) | 0.1.1 | 0 | Loads Zed theme files (schema v0.2.0) for Chorong. |
-| 2026-11-17 17:31:56 | [oxidi_macros](https://crates.io/crates/oxidi_macros) | 0.1.0 | 0 | Procedural macros for the Oxidi zero-cost dependency injection framework |
-| 2026-11-17 17:32:02 | [grana-file](https://crates.io/crates/grana-file) | 0.2.0 | 0 | Next-generation microscopy image visualization and analysis platform |
-| 2026-11-17 17:32:05 | [oxidi_core](https://crates.io/crates/oxidi_core) | 0.1.0 | 0 | Zero-cost dependency injection container for Rust with compile-time resolution |
-| 2026-11-17 17:36:05 | [cho-git](https://crates.io/crates/cho-git) | 0.1.1 | 0 | Read-only git facts for Chorong: repository identity, worktrees, commits, diffs… |
-| 2026-11-17 17:36:12 | [cho-settings](https://crates.io/crates/cho-settings) | 0.1.1 | 0 | Chorong's settings: typed defaults, JSONC settings file, per-repository overrid… |
-| 2026-11-17 17:38:40 | [willow-beacon-cl-core](https://crates.io/crates/willow-beacon-cl-core) | 0.1.0 | 0 | Beacon-chain SSZ types and Merkle proofs for Willow's light clients |
-| 2026-11-17 17:39:00 | [willow-anchor-core](https://crates.io/crates/willow-anchor-core) | 0.1.0 | 0 | The wire statement of Willow's sync-committee anchor (without its BLS path, whi… |
-| 2026-11-17 17:39:04 | [willow-window-anchor-core](https://crates.io/crates/willow-window-anchor-core) | 0.1.0 | 0 | Beacon-state block-root window proofs for Willow's light clients |
-| 2026-11-17 17:39:10 | [willow-parlia-verify](https://crates.io/crates/willow-parlia-verify) | 0.1.0 | 0 | BNB Smart Chain (Parlia) validator-set light client for Willow |
-| 2026-11-17 17:39:19 | [willow-anchor-verify](https://crates.io/crates/willow-anchor-verify) | 0.1.0 | 0 | Willow's block anchoring: Ethereum, Sepolia and BNB light clients, L2 games, as… |
-| 2026-11-17 17:39:26 | [polylint-tsrs](https://crates.io/crates/polylint-tsrs) | 0.1.0 | 0 | Programs of the TypeScript checker of tsrs over a host file system: shared pars… |
-| 2026-11-17 17:41:25 | [dav1d-tools](https://crates.io/crates/dav1d-tools) | 0.1.0 | 0 | Command line AV1 decoder built on the dav1d Rust bindings |
-| 2026-11-17 17:41:43 | [test-impact](https://crates.io/crates/test-impact) | 0.1.0 | 0 | Seleciona testes por dependências reversas para feedback local |
-| 2026-11-17 17:42:12 | [grana-net](https://crates.io/crates/grana-net) | 0.2.0 | 0 | Next-generation microscopy image visualization and analysis platform |
-| 2026-11-17 17:45:40 | [zterm](https://crates.io/crates/zterm) | 0.1.0 | 0 | Bounded no_std terminal screen, scrollback and VT protocol state |
-| 2026-11-17 17:45:53 | [boxfs-juicefs-sys](https://crates.io/crates/boxfs-juicefs-sys) | 0.1.0 | 0 | Raw bindings to the filesystem-rs embedded JuiceFS Go archive |
-| 2026-11-17 17:47:23 | [chronixd](https://crates.io/crates/chronixd) | 0.8.0 | 0 | chronixd — the Chronix time-series database server daemon. |
-| 2026-11-17 17:48:07 | [codecov-rust-mcp](https://crates.io/crates/codecov-rust-mcp) | 3.0.1 | 0 | MCP server for the Codecov API (stdio or Streamable HTTP): PR patch coverage an… |
-| 2026-11-17 17:48:08 | [cho-investigation](https://crates.io/crates/cho-investigation) | 0.1.1 | 0 | The Chorong investigation format: call stacks, tours, diagrams and PR overlays. |
-| 2026-11-17 17:48:14 | [willow-receipts-trie](https://crates.io/crates/willow-receipts-trie) | 0.1.0 | 0 | Ethereum receipts-trie reconstruction and keccak/RLP helpers |
-| 2026-11-17 17:48:16 | [typwire-macros](https://crates.io/crates/typwire-macros) | 0.2.0 | 0 | Procedural macros for typwire. |
-| 2026-11-17 17:48:25 | [bedrock-agentcore](https://crates.io/crates/bedrock-agentcore) | 0.0.1 | 0 | Amazon Bedrock AgentCore SDK for Rust |
-| 2026-11-17 17:50:38 | [invisi-sdk-ipp](https://crates.io/crates/invisi-sdk-ipp) | 1.2.5 | 0 | Independent IPP protocol validation and session HTTP client |
-| 2026-11-17 17:52:31 | [grana-readout](https://crates.io/crates/grana-readout) | 0.2.0 | 0 | Next-generation microscopy image visualization and analysis platform |
-| 2026-11-17 17:53:36 | [pageon-style](https://crates.io/crates/pageon-style) | 0.6.0 | 0 | pageon's CSS styling: Stylo directly on pageon's document, with change-log driv… |
-| 2026-11-17 17:54:15 | [widget-actions](https://crates.io/crates/widget-actions) | 0.1.0 | 0 | Types for the Matrix widget API actions (MSC4411 / MSC4412) with optional UniFF… |
-| 2026-11-17 17:54:16 | [widget-logging](https://crates.io/crates/widget-logging) | 0.1.0 | 0 | The logger the widget tools bindings install: RUST_LOG-style filtering, platfor… |
-| 2026-11-17 17:54:18 | [widget-matrix-backend](https://crates.io/crates/widget-matrix-backend) | 0.1.0 | 0 | The Matrix side-effects interface the widget host driver drives (send events, r… |
-| 2026-11-17 17:54:20 | [widget-host-driver](https://crates.io/crates/widget-host-driver) | 0.1.0 | 0 | Host (Matrix client) side state machine of the widget API: feed it widget messa… |
-| 2026-11-17 17:54:37 | [native-kit-macros](https://crates.io/crates/native-kit-macros) | 0.1.0 | 0 | Procedural macros and SwiftUI-style declarative UI syntax for the NativeKit eng… |
-| 2026-11-17 17:57:29 | [cliffvm](https://crates.io/crates/cliffvm) | 0.1.0 | 0 | The cliffhanger VM: a reactive graph of entities with getters and setters, a SQ… |
-| 2026-11-17 17:57:55 | [native-kit](https://crates.io/crates/native-kit) | 0.1.0 | 0 | High-performance 5-platform Dynamic UI Engine for Rust (iOS, Android, Linux, Wi… |
-| 2026-11-17 17:58:14 | [willow-chains](https://crates.io/crates/willow-chains) | 0.1.0 | 0 | Per-chain rules (receipts, forks) for Willow's verifiers |
-| 2026-11-17 17:59:03 | [nativekit-cli](https://crates.io/crates/nativekit-cli) | 0.1.0 | 0 | NativeKit CLI (nk) — Project scaffolding, sub-second hot reload, and 5-platform… |
-| 2026-11-17 17:59:44 | [lrsalvage-core](https://crates.io/crates/lrsalvage-core) | 0.2.0 | 0 | Salvage JPEG previews from Adobe Lightroom Classic catalogs |
-| 2026-11-17 18:00:18 | [numerobis](https://crates.io/crates/numerobis) | 0.2.2-alpha | 0 | Raw accelerator computing (GPU matrix engines, NPUs) on top of miraculix formats |
-| 2026-11-17 18:00:22 | [atsam3x8e-pac](https://crates.io/crates/atsam3x8e-pac) | 0.1.0 | 0 | Peripheral access crate for the Microchip ATSAM3X8E / SAM3X8ERT (generated with… |
-| 2026-11-17 18:00:25 | [sam3x-hal](https://crates.io/crates/sam3x-hal) | 0.1.0 | 0 | Hardware abstraction layer for the Microchip SAM3X family (SAM3X8E / SAM3X8ERT) |
-| 2026-11-17 18:00:27 | [arduino-due](https://crates.io/crates/arduino-due) | 0.1.0 | 0 | Board support for the Arduino Due: the SAM3X8E's pins under the names on the si… |
-| 2026-11-17 18:02:10 | [lrsalvage-cli](https://crates.io/crates/lrsalvage-cli) | 0.2.0 | 0 | CLI for salvaging Lightroom Classic previews |
-| 2026-11-17 18:02:40 | [grana-tiff](https://crates.io/crates/grana-tiff) | 0.2.0 | 0 | Next-generation microscopy image visualization and analysis platform |
-| 2026-11-17 18:03:26 | [cho-layout-ui](https://crates.io/crates/cho-layout-ui) | 0.1.1 | 0 | The GPUI shell for cho-layout: docks, editor area, focus pages, tray, menus and… |
-| 2026-11-17 18:08:16 | [willow-blockcheck](https://crates.io/crates/willow-blockcheck) | 0.1.0 | 0 | Block bodies and receipts verified against their header, per chain |
-| 2026-11-17 18:12:20 | [grana-dir](https://crates.io/crates/grana-dir) | 0.2.0 | 0 | Next-generation microscopy image visualization and analysis platform |
-| 2026-11-17 18:18:17 | [willow-blockproof](https://crates.io/crates/willow-blockproof) | 0.1.0 | 0 | Willow's block, transaction and receipt proofs, verified against the block hash |
+| 2026-11-17 18:19:03 | [serviceradar-sdk-rust](https://crates.io/crates/serviceradar-sdk-rust) | 0.1.6 | 0 | Idiomatic Rust SDK for building ServiceRadar WebAssembly plugins |
+| 2026-11-17 18:20:16 | [cho-changes](https://crates.io/crates/cho-changes) | 0.1.1 | 0 | Changed files and changed declarations between two commits, read from the objec… |
+| 2026-11-17 18:20:50 | [cho-semantic](https://crates.io/crates/cho-semantic) | 0.1.1 | 0 | SCIP-based semantic navigation: index loading, queries, cache and indexer runne… |
+| 2026-11-17 18:22:08 | [grana-image](https://crates.io/crates/grana-image) | 0.2.0 | 0 | Next-generation microscopy image visualization and analysis platform |
+| 2026-11-17 18:25:19 | [cho-graph](https://crates.io/crates/cho-graph) | 0.1.1 | 0 | Reference-graph engine: nodes, edges, roll-up and views over SCIP indexes; JSON… |
+| 2026-11-17 18:25:24 | [artios](https://crates.io/crates/artios) | 0.0.1 | 0 | Reserved for the Artios 2D rendering and UI framework. |
+| 2026-11-17 18:28:18 | [willow-items-verify-wasm](https://crates.io/crates/willow-items-verify-wasm) | 0.1.0 | 0 | The verify page's items verifier (blocks, transactions, receipts), callable nat… |
+| 2026-11-17 18:30:36 | [pqc-probe-core](https://crates.io/crates/pqc-probe-core) | 0.1.0 | 0 | Core probe logic: detects PQ algorithms on TLS and SSH endpoints |
+| 2026-11-17 18:30:41 | [pqc-probe](https://crates.io/crates/pqc-probe) | 0.1.0 | 0 | CLI for pqc-probe: detect post-quantum crypto on TLS and SSH endpoints |
+| 2026-11-17 18:30:42 | [pqc-probe-web](https://crates.io/crates/pqc-probe-web) | 0.1.0 | 0 | Web service for pqc-probe: submit a target, poll the job, fetch the JSON report |
+| 2026-11-17 18:31:01 | [treeproof](https://crates.io/crates/treeproof) | 0.1.0 | 1 | Signed test-result receipts for a git tree: in-toto test-result attestations, a… |
+| 2026-11-17 18:31:54 | [grana-stitch](https://crates.io/crates/grana-stitch) | 0.2.0 | 0 | Next-generation microscopy image visualization and analysis platform |
+| 2026-11-17 18:35:37 | [artios-api](https://crates.io/crates/artios-api) | 0.0.1 | 0 | Reserved for the Artios 2D rendering and UI framework. |
+| 2026-11-17 18:38:15 | [willow-op-exec](https://crates.io/crates/willow-op-exec) | 0.1.0 | 0 | OP-stack (Unichain) calls over proven state, for Willow's call proofs |
+| 2026-11-17 18:42:09 | [agtmls-mcp](https://crates.io/crates/agtmls-mcp) | 0.0.35 | 0 | Model Context Protocol server for the AgtMLS agent skills registry: search, rea… |
+| 2026-11-17 18:43:00 | [matrix-widget-actions](https://crates.io/crates/matrix-widget-actions) | 0.1.0 | 0 | Types for the Matrix widget API actions (MSC4411 / MSC4412) with optional UniFF… |
+| 2026-11-17 18:43:00 | [matrix-widget-logging](https://crates.io/crates/matrix-widget-logging) | 0.1.0 | 0 | The logger the widget tools bindings install: RUST_LOG-style filtering, platfor… |
+| 2026-11-17 18:43:01 | [grana-i18n](https://crates.io/crates/grana-i18n) | 0.2.0 | 0 | Next-generation microscopy image visualization and analysis platform |
+| 2026-11-17 18:43:02 | [matrix-widget-host-backend-interface](https://crates.io/crates/matrix-widget-host-backend-interface) | 0.1.0 | 0 | The Matrix side-effects interface the widget host driver drives (send events, r… |
+| 2026-11-17 18:43:04 | [matrix-widget-host-driver](https://crates.io/crates/matrix-widget-host-driver) | 0.1.0 | 0 | Host (Matrix client) side state machine of the widget API: feed it widget messa… |
+| 2026-11-17 18:45:50 | [artios-skia](https://crates.io/crates/artios-skia) | 0.0.1 | 0 | Reserved for the Artios 2D rendering and UI framework. |
+| 2026-11-17 18:48:16 | [willow-state-verify](https://crates.io/crates/willow-state-verify) | 0.1.0 | 0 | Willow's state and call proofs, verified by running the call over proven state |
+| 2026-11-17 18:52:56 | [grana-profile](https://crates.io/crates/grana-profile) | 0.2.0 | 0 | Next-generation microscopy image visualization and analysis platform |
+| 2026-11-17 18:54:04 | [compile-outcomes](https://crates.io/crates/compile-outcomes) | 0.1.0 | 0 | Compiles Rust snippets and reports what the compiler said about each one, witho… |
+| 2026-11-17 18:55:46 | [polylint-js-types](https://crates.io/crates/polylint-js-types) | 0.1.0 | 0 | Type-aware facts about JS/TS class, enum and namespace members from the TypeScr… |
+| 2026-11-17 18:56:04 | [artios-shell](https://crates.io/crates/artios-shell) | 0.0.1 | 0 | Reserved for the Artios 2D rendering and UI framework. |
+| 2026-11-17 18:58:17 | [willow-trace-verify](https://crates.io/crates/willow-trace-verify) | 0.1.0 | 0 | Willow's trace proofs, verified by running the block or call over proven state |
+| 2026-11-17 18:59:01 | [collections-traits](https://crates.io/crates/collections-traits) | 0.1.0 | 0 | The missed collection traits |
+| 2026-11-17 19:01:33 | [phron-image](https://crates.io/crates/phron-image) | 0.1.0 | 0 | Build and sign Phron Image URLs. The Rust core behind the Phron Image SDKs. |
+| 2026-11-17 19:02:10 | [bgpkit-snap-derive](https://crates.io/crates/bgpkit-snap-derive) | 0.1.0 | 0 | The SnapValue derive for bgpkit-snap |
+| 2026-11-17 19:02:54 | [grana-optics](https://crates.io/crates/grana-optics) | 0.2.0 | 0 | Next-generation microscopy image visualization and analysis platform |
+| 2026-11-17 19:05:30 | [utf8-to-utf32](https://crates.io/crates/utf8-to-utf32) | 0.1.0 | 0 | Fast UTF-8 to UTF-32 conversion with std-compatible errors, lossy/C1 modes and… |
+| 2026-11-17 19:06:17 | [artios-ui](https://crates.io/crates/artios-ui) | 0.0.1 | 0 | Reserved for the Artios 2D rendering and UI framework. |
+| 2026-11-17 19:08:17 | [willow-state-verify-wasm](https://crates.io/crates/willow-state-verify-wasm) | 0.1.0 | 0 | The verify page's state verifier (accounts, calls, traces), callable natively |
+| 2026-11-17 19:11:38 | [libmseed](https://crates.io/crates/libmseed) | 0.1.0 | 0 | Pure-Rust, safe port of libmseed: read, write and manage miniSEED 2 and 3 seism… |
+| 2026-11-17 19:12:36 | [grana-model](https://crates.io/crates/grana-model) | 0.2.0 | 0 | Next-generation microscopy image visualization and analysis platform |
+| 2026-11-17 19:15:16 | [mln-rs-frame-pacer](https://crates.io/crates/mln-rs-frame-pacer) | 0.0.13 | 0 | Part of mln-rs, a Rust port of the MapLibre Native map rendering core. Depend o… |
+| 2026-11-17 19:15:26 | [mln-rs-d3d12](https://crates.io/crates/mln-rs-d3d12) | 0.0.13 | 0 | Part of mln-rs, a Rust port of the MapLibre Native map rendering core. Depend o… |
+| 2026-11-17 19:18:15 | [willow-logs-core](https://crates.io/crates/willow-logs-core) | 0.1.0 | 0 | Log-set statements for Willow's log proofs |
+| 2026-11-17 19:20:20 | [cho-sources](https://crates.io/crates/cho-sources) | 0.1.1 | 0 | Remote sources for Chorong: projects, the repository cache, fetching, worktrees… |
 
 ## Data source
 

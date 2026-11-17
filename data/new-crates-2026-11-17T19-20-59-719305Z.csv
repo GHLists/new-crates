@@ -1,0 +1,41 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-17T18:19:03.789496Z,serviceradar-sdk-rust,0.1.6,0,0,https://github.com/carverauto/serviceradar-sdk-rust,Idiomatic Rust SDK for building ServiceRadar WebAssembly plugins
+2026-11-17T18:20:16.149336Z,cho-changes,0.1.1,0,0,https://github.com/ujuddeok/chorong,"Changed files and changed declarations between two commits, read from the object store."
+2026-11-17T18:20:50.042212Z,cho-semantic,0.1.1,0,0,https://github.com/ujuddeok/chorong,"SCIP-based semantic navigation: index loading, queries, cache and indexer runners."
+2026-11-17T18:22:08.552718Z,grana-image,0.2.0,0,0,https://github.com/formetaohy/Grana,Next-generation microscopy image visualization and analysis platform
+2026-11-17T18:25:19.628328Z,cho-graph,0.1.1,0,0,https://github.com/ujuddeok/chorong,"Reference-graph engine: nodes, edges, roll-up and views over SCIP indexes; JSON, DOT and HTML output."
+2026-11-17T18:25:24.077083Z,artios,0.0.1,0,0,,Reserved for the Artios 2D rendering and UI framework.
+2026-11-17T18:28:18.037242Z,willow-items-verify-wasm,0.1.0,0,0,https://github.com/willow-network/willow-verify,"The verify page's items verifier (blocks, transactions, receipts), callable natively"
+2026-11-17T18:30:36.992709Z,pqc-probe-core,0.1.0,0,0,https://github.com/asifmahbubnaeem/pqc-probe,Core probe logic: detects PQ algorithms on TLS and SSH endpoints
+2026-11-17T18:30:41.614133Z,pqc-probe,0.1.0,0,0,https://github.com/asifmahbubnaeem/pqc-probe,CLI for pqc-probe: detect post-quantum crypto on TLS and SSH endpoints
+2026-11-17T18:30:42.559913Z,pqc-probe-web,0.1.0,0,0,https://github.com/asifmahbubnaeem/pqc-probe,"Web service for pqc-probe: submit a target, poll the job, fetch the JSON report"
+2026-11-17T18:31:01.288424Z,treeproof,0.1.0,1,1,https://github.com/Mattbusel/treeproof,"Signed test-result receipts for a git tree: in-toto test-result attestations, a cross-worktree result cache, and done-gates for coding agents (Claude Code, Codex, MCP, GitHub Actions)."
+2026-11-17T18:31:54.614033Z,grana-stitch,0.2.0,0,0,https://github.com/formetaohy/Grana,Next-generation microscopy image visualization and analysis platform
+2026-11-17T18:35:37.253189Z,artios-api,0.0.1,0,0,,Reserved for the Artios 2D rendering and UI framework.
+2026-11-17T18:38:15.239608Z,willow-op-exec,0.1.0,0,0,https://github.com/willow-network/willow-verify,"OP-stack (Unichain) calls over proven state, for Willow's call proofs"
+2026-11-17T18:42:09.395252Z,agtmls-mcp,0.0.35,0,0,https://github.com/sebastienrousseau/agtmls-mcp,"Model Context Protocol server for the AgtMLS agent skills registry: search, read, audit and verify skills over JSON-RPC"
+2026-11-17T18:43:00.036757Z,matrix-widget-actions,0.1.0,0,0,https://github.com/toger5/matrix-widget-sdk,Types for the Matrix widget API actions (MSC4411 / MSC4412) with optional UniFFI bindings
+2026-11-17T18:43:00.638963Z,matrix-widget-logging,0.1.0,0,0,https://github.com/toger5/matrix-widget-sdk,"The logger the widget tools bindings install: RUST_LOG-style filtering, platform log output, optional host sink"
+2026-11-17T18:43:01.379493Z,grana-i18n,0.2.0,0,0,https://github.com/formetaohy/Grana,Next-generation microscopy image visualization and analysis platform
+2026-11-17T18:43:02.687609Z,matrix-widget-host-backend-interface,0.1.0,0,0,https://github.com/toger5/matrix-widget-sdk,"The Matrix side-effects interface the widget host driver drives (send events, read state, ...)"
+2026-11-17T18:43:04.416057Z,matrix-widget-host-driver,0.1.0,0,0,https://github.com/toger5/matrix-widget-sdk,"Host (Matrix client) side state machine of the widget API: feed it widget messages, it drives a MatrixBackend"
+2026-11-17T18:45:50.392144Z,artios-skia,0.0.1,0,0,,Reserved for the Artios 2D rendering and UI framework.
+2026-11-17T18:48:16.883693Z,willow-state-verify,0.1.0,0,0,https://github.com/willow-network/willow-verify,"Willow's state and call proofs, verified by running the call over proven state"
+2026-11-17T18:52:56.164057Z,grana-profile,0.2.0,0,0,https://github.com/formetaohy/Grana,Next-generation microscopy image visualization and analysis platform
+2026-11-17T18:54:04.840821Z,compile-outcomes,0.1.0,0,0,https://github.com/marlon-sousa/compile-outcomes-rs,"Compiles Rust snippets and reports what the compiler said about each one, without judging, for #[test], Gherkin or any test framework"
+2026-11-17T18:55:46.888611Z,polylint-js-types,0.1.0,0,0,https://github.com/polylint/polylint,"Type-aware facts about JS/TS class, enum and namespace members from the TypeScript checker of tsrs."
+2026-11-17T18:56:04.045646Z,artios-shell,0.0.1,0,0,,Reserved for the Artios 2D rendering and UI framework.
+2026-11-17T18:58:17.461449Z,willow-trace-verify,0.1.0,0,0,https://github.com/willow-network/willow-verify,"Willow's trace proofs, verified by running the block or call over proven state"
+2026-11-17T18:59:01.749346Z,collections-traits,0.1.0,0,0,https://github.com/rust-amplify/collections,The missed collection traits
+2026-11-17T19:01:33.443696Z,phron-image,0.1.0,0,0,https://github.com/phron-net/image,Build and sign Phron Image URLs. The Rust core behind the Phron Image SDKs.
+2026-11-17T19:02:10.865773Z,bgpkit-snap-derive,0.1.0,0,0,https://github.com/bgpkit/bgpkit-snap,The SnapValue derive for bgpkit-snap
+2026-11-17T19:02:54.32763Z,grana-optics,0.2.0,0,0,https://github.com/formetaohy/Grana,Next-generation microscopy image visualization and analysis platform
+2026-11-17T19:05:30.878237Z,utf8-to-utf32,0.1.0,0,0,https://github.com/lu-zero/utf8-to-utf32,"Fast UTF-8 to UTF-32 conversion with std-compatible errors, lossy/C1 modes and a chunk decoder; pure Rust, runtime-dispatched SSE4.1/AVX2/AVX-512, NEON and VSX."
+2026-11-17T19:06:17.113378Z,artios-ui,0.0.1,0,0,,Reserved for the Artios 2D rendering and UI framework.
+2026-11-17T19:08:17.724838Z,willow-state-verify-wasm,0.1.0,0,0,https://github.com/willow-network/willow-verify,"The verify page's state verifier (accounts, calls, traces), callable natively"
+2026-11-17T19:11:38.46123Z,libmseed,0.1.0,0,0,https://github.com/EarthScope/libmseed-rs,"Pure-Rust, safe port of libmseed: read, write and manage miniSEED 2 and 3 seismological data"
+2026-11-17T19:12:36.574658Z,grana-model,0.2.0,0,0,https://github.com/formetaohy/Grana,Next-generation microscopy image visualization and analysis platform
+2026-11-17T19:15:16.111934Z,mln-rs-frame-pacer,0.0.13,0,0,https://github.com/louwers/mln-rs,"Part of mln-rs, a Rust port of the MapLibre Native map rendering core. Depend on mln-rs instead."
+2026-11-17T19:15:26.963239Z,mln-rs-d3d12,0.0.13,0,0,https://github.com/louwers/mln-rs,"Part of mln-rs, a Rust port of the MapLibre Native map rendering core. Depend on mln-rs instead."
+2026-11-17T19:18:15.073477Z,willow-logs-core,0.1.0,0,0,https://github.com/willow-network/willow-verify,Log-set statements for Willow's log proofs
+2026-11-17T19:20:20.922033Z,cho-sources,0.1.1,0,0,https://github.com/ujuddeok/chorong,"Remote sources for Chorong: projects, the repository cache, fetching, worktrees, merge bases, pull-request details and host tokens."
