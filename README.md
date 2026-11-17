@@ -8,66 +8,45 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-17 06:19 UTC
+## Latest list — 2026-11-17 07:19 UTC
 
-New crates published between 2026-11-17 05:18 UTC and 2026-11-17 06:19 UTC.
+New crates published between 2026-11-17 06:19 UTC and 2026-11-17 07:19 UTC.
 
-[Full CSV](data/new-crates-2026-11-17T06-19-40-237908Z.csv)
+[Full CSV](data/new-crates-2026-11-17T07-19-06-44964Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-17 05:21:17 | [ultron-durable](https://crates.io/crates/ultron-durable) | 1.0.0 | 0 | Pi Durable storage: records, the Storage contract, and the in-memory working co… |
-| 2026-11-17 05:21:36 | [inl-ane](https://crates.io/crates/inl-ane) | 0.1.0 | 0 | Dense and learned-sparse text embeddings on the Apple Neural Engine (Core ML):… |
-| 2026-11-17 05:22:32 | [xcomm](https://crates.io/crates/xcomm) | 0.1.0 | 0 | Fast serial terminal with an agent control interface and a herdr plugin |
-| 2026-11-17 05:25:50 | [arborstone-sat](https://crates.io/crates/arborstone-sat) | 0.0.1 | 0 | A CDCL SAT solver with pseudo-Boolean constraints, MaxSAT and DRAT/LRAT proofs. |
-| 2026-11-17 05:28:28 | [slango-codegen](https://crates.io/crates/slango-codegen) | 0.1.0-alpha.1 | 0 | The generator of slango-macros: typed Rust bindings to the compute kernels of a… |
-| 2026-11-17 05:28:30 | [slango-macros](https://crates.io/crates/slango-macros) | 0.1.0-alpha.1 | 0 | The procedural macro shader!, which compiles a Slang file while a crate builds… |
-| 2026-11-17 05:28:42 | [analysant-ontological](https://crates.io/crates/analysant-ontological) | 0.0.0 | 0 | Reserved name: the ontological analysis library of AnalysAnt (generic text anal… |
-| 2026-11-17 05:31:58 | [ultron-loki](https://crates.io/crates/ultron-loki) | 1.0.0 | 0 | Loki write-time guardrails: Rust port of the loki.py engine |
-| 2026-11-17 05:35:26 | [azure_cosmos_queryplan_win_arm64](https://crates.io/crates/azure_cosmos_queryplan_win_arm64) | 0.2.6 | 0 | Prebuilt Cosmos DB QueryPlanInterop native library for Windows ARM64 (bundled;… |
-| 2026-11-17 05:35:41 | [rstasks-core](https://crates.io/crates/rstasks-core) | 0.1.0 | 0 | RsTasks core: models, SQLite storage, actor/claim/event semantics |
-| 2026-11-17 05:35:44 | [rstasks](https://crates.io/crates/rstasks) | 0.1.0 | 0 | RsTasks CLI — scriptable human operations |
-| 2026-11-17 05:35:45 | [rstasks-mcp](https://crates.io/crates/rstasks-mcp) | 0.1.0 | 0 | RsTasks MCP server — agent tools over the shared core (rmcp) |
-| 2026-11-17 05:35:46 | [rstasks-server](https://crates.io/crates/rstasks-server) | 0.1.0 | 0 | RsTasks local REST server (Axum) — read-only dashboard API for the Web UI |
-| 2026-11-17 05:35:47 | [rstasks-tui](https://crates.io/crates/rstasks-tui) | 0.1.0 | 0 | RsTasks TUI (ratatui) — kanban view over the shared core |
-| 2026-11-17 05:35:54 | [arborstone-tsp](https://crates.io/crates/arborstone-tsp) | 0.0.1 | 0 | Travelling salesman engine of arborstone: Lin-Kernighan heuristics, Held-Karp b… |
-| 2026-11-17 05:37:36 | [ironflowx-core](https://crates.io/crates/ironflowx-core) | 0.0.1 | 0 | Ironflow core types: Ironflow Resource Names (IRNs) and the resource hierarchy. |
-| 2026-11-17 05:37:38 | [ironflowx](https://crates.io/crates/ironflowx) | 0.0.1 | 0 | Ironflow foundation crates in one dependency. |
-| 2026-11-17 05:39:09 | [analysant-structural](https://crates.io/crates/analysant-structural) | 0.0.0 | 0 | Reserved name: the structural analysis library of AnalysAnt (generic text analy… |
-| 2026-11-17 05:40:34 | [sshcm-core](https://crates.io/crates/sshcm-core) | 0.3.0 | 0 | Lossless ssh_config parser and safe editing core for sshcm |
-| 2026-11-17 05:40:46 | [sshcm](https://crates.io/crates/sshcm) | 0.3.0 | 0 | SSH Connection Manager: add, edit, remove and list the connections in ~/.ssh/co… |
-| 2026-11-17 05:42:23 | [ultron-lanes](https://crates.io/crates/ultron-lanes) | 1.0.0 | 0 | A root's REPL lanes: named kernels running one cell at a time, detachable and c… |
-| 2026-11-17 05:45:58 | [arborstone-cpsat](https://crates.io/crates/arborstone-cpsat) | 0.0.1 | 0 | A CP-SAT solver: integer constraint propagation on the arborstone SAT solver, w… |
-| 2026-11-17 05:49:29 | [icp-canister-interfaces](https://crates.io/crates/icp-canister-interfaces) | 0.1.0 | 0 | Candid interfaces and canister ids of the Internet Computer system canisters ic… |
-| 2026-11-17 05:49:30 | [icp-events](https://crates.io/crates/icp-events) | 0.1.0 | 0 | Typed progress events that icp-cli's operations report and its renderers draw. |
-| 2026-11-17 05:49:31 | [icp-project](https://crates.io/crates/icp-project) | 0.1.0 | 0 | The icp-cli project model: manifests, canisters, and the operations that build,… |
-| 2026-11-17 05:49:33 | [icp-sync-plugin](https://crates.io/crates/icp-sync-plugin) | 0.1.0 | 0 | The wasmtime Component Model runtime that runs icp-cli sync plugins. |
-| 2026-11-17 05:52:48 | [ultron-blocking-http](https://crates.io/crates/ultron-blocking-http) | 1.0.0 | 0 | One blocking HTTP exchange for host-thread callers (Hindsight, the judge seat):… |
-| 2026-11-17 05:56:01 | [arborstone-io](https://crates.io/crates/arborstone-io) | 0.0.1 | 0 | Input and output for arborstone models: protobuf (CpModelProto) and FlatZinc fi… |
-| 2026-11-17 05:57:51 | [skathi-macros](https://crates.io/crates/skathi-macros) | 0.0.0 | 0 | The #[skathi::module] and #[skathi::data] attributes of the skathi crate (reser… |
-| 2026-11-17 05:59:02 | [oesdk](https://crates.io/crates/oesdk) | 0.1.0 | 0 | Mod SDK + CLI for FNF: Oxide Engine (WIT component mods) |
-| 2026-11-17 06:03:57 | [ultron-ai](https://crates.io/crates/ultron-ai) | 1.0.0 | 0 | Provider layer of packages/ai: message model, streaming events, every API imple… |
-| 2026-11-17 06:05:11 | [djs-model](https://crates.io/crates/djs-model) | 0.1.0-alpha.1 | 0 | Discord API v10 types — users, guilds, channels, messages, interactions and gat… |
-| 2026-11-17 06:05:23 | [djs-collection](https://crates.io/crates/djs-collection) | 0.1.0-alpha.1 | 0 | A feature-rich map type modelled on discord.js Collection. |
-| 2026-11-17 06:05:26 | [djs-util](https://crates.io/crates/djs-util) | 0.1.0-alpha.1 | 0 | Shared utilities used across the djs-rs crates. |
-| 2026-11-17 06:05:37 | [djs-formatters](https://crates.io/crates/djs-formatters) | 0.1.0-alpha.1 | 0 | Markdown, mention and timestamp formatting helpers for Discord messages. |
-| 2026-11-17 06:05:42 | [djs-builders](https://crates.io/crates/djs-builders) | 0.1.0-alpha.1 | 0 | Validated builders for Discord embeds, application commands, components and mod… |
-| 2026-11-17 06:06:05 | [arborstone](https://crates.io/crates/arborstone) | 0.0.1 | 0 | Combinatorial optimization in pure safe Rust: SAT, CP-SAT, linear programming a… |
-| 2026-11-17 06:07:29 | [qubit-model-metadata](https://crates.io/crates/qubit-model-metadata) | 0.2.0 | 0 | Static, strongly typed metadata for Rust domain models |
-| 2026-11-17 06:07:58 | [qubit-model-derive](https://crates.io/crates/qubit-model-derive) | 0.2.0 | 0 | Derive macros for Qubit Rust model metadata |
-| 2026-11-17 06:09:19 | [qubit-operation](https://crates.io/crates/qubit-operation) | 0.3.0 | 0 | Managed operation lifecycles and composition for Rust |
-| 2026-11-17 06:13:00 | [rouge-macros](https://crates.io/crates/rouge-macros) | 0.1.0 | 0 | The view! and #[component] macros for Rouge |
-| 2026-11-17 06:13:01 | [rouge-reactive](https://crates.io/crates/rouge-reactive) | 0.1.0 | 0 | Fine-grained signals, memos, effects and scopes for Rouge |
-| 2026-11-17 06:13:02 | [rouge-theme](https://crates.io/crates/rouge-theme) | 0.1.0 | 0 | Renderer-neutral colors, UI and Markdown palettes, and semantic control states… |
-| 2026-11-17 06:13:04 | [rouge-render](https://crates.io/crates/rouge-render) | 0.1.0 | 0 | wgpu renderer, effects and shared GPU surfaces for Rouge |
-| 2026-11-17 06:13:04 | [rouge-syntax](https://crates.io/crates/rouge-syntax) | 0.1.0 | 0 | Tree-sitter syntax highlighting, symbol tags and syntax themes for Rouge |
-| 2026-11-17 06:14:29 | [ultron-herdr](https://crates.io/crates/ultron-herdr) | 1.0.0 | 0 | Ultron in herdr's agents panel: pane detection from the injected env and a back… |
-| 2026-11-17 06:15:21 | [cria-api](https://crates.io/crates/cria-api) | 0.1.0 | 0 | CRIA (Cloud-music Rust Integration API): native Rust client for the NetEase Clo… |
-| 2026-11-17 06:16:02 | [djs-rest](https://crates.io/crates/djs-rest) | 0.1.0-alpha.1 | 0 | Rate-limit-aware Discord REST API client built on hyper. |
-| 2026-11-17 06:16:08 | [arborstone-routing](https://crates.io/crates/arborstone-routing) | 0.0.1 | 0 | Vehicle routing for arborstone: capacitated and time-windowed problems over a c… |
-| 2026-11-17 06:16:32 | [rouge-core](https://crates.io/crates/rouge-core) | 0.1.0 | 0 | Element tree, styles, layout, text, views and the layer compositor for Rouge |
-| 2026-11-17 06:16:36 | [raiment](https://crates.io/crates/raiment) | 0.0.0 | 0 | Application-level helpers influenced by C-family scope techniques (for Rust) |
-| 2026-11-17 06:18:45 | [onionmint](https://crates.io/crates/onionmint) | 0.1.0 | 0 | Vanity address generator for Tor v3 onion services |
+| 2026-11-17 06:19:46 | [ultron-session-file](https://crates.io/crates/ultron-session-file) | 1.0.0 | 0 | Ultron's Pi session JSONL format: entries, migrations, tree, model context, dis… |
+| 2026-11-17 06:25:25 | [telco](https://crates.io/crates/telco) | 0.0.1 | 0 | Telecom billing: rating, charging, invoicing and the explainable bill. Placehol… |
+| 2026-11-17 06:26:21 | [djs-gateway](https://crates.io/crates/djs-gateway) | 0.1.0-alpha.1 | 0 | Discord gateway (WebSocket) client with sharding and transport compression. |
+| 2026-11-17 06:30:15 | [ultron-server](https://crates.io/crates/ultron-server) | 1.0.0 | 0 | Ultron server: the Radius relay host |
+| 2026-11-17 06:34:10 | [rouge-markdown](https://crates.io/crates/rouge-markdown) | 0.1.0 | 0 | Renderer-neutral Markdown documents, append streams and syntax-highlighted code… |
+| 2026-11-17 06:34:22 | [rouge-widgets](https://crates.io/crates/rouge-widgets) | 0.1.0 | 0 | Rouge's component set: bundled fonts, rem-based tokens, typography, icons and w… |
+| 2026-11-17 06:36:29 | [djs-cache](https://crates.io/crates/djs-cache) | 0.1.0-alpha.1 | 0 | Configurable, pluggable in-memory cache for Discord entities. |
+| 2026-11-17 06:40:41 | [ultron-session-journal](https://crates.io/crates/ultron-session-journal) | 1.0.0 | 0 | Ultron's format-4 session journal (harness operation journal JSONL): storage, l… |
+| 2026-11-17 06:41:20 | [cpu-dispatch](https://crates.io/crates/cpu-dispatch) | 0.1.0 | 0 | Safe CPU feature dispatch through tokens, with safe SIMD loads and stores |
+| 2026-11-17 06:44:55 | [rouge](https://crates.io/crates/rouge) | 0.1.0 | 0 | A signal-driven, GPU-composited UI framework for native apps and the web |
+| 2026-11-17 06:47:02 | [djs-voice](https://crates.io/crates/djs-voice) | 0.1.0-alpha.1 | 0 | Discord voice for djs-rs: calls, tracks and end-to-end encrypted audio (DAVE). |
+| 2026-11-17 06:51:09 | [ultron-resources](https://crates.io/crates/ultron-resources) | 1.0.0 | 0 | System prompt and resource assembly: context files, skills, the runtime guide |
+| 2026-11-17 06:51:46 | [nt4-derive](https://crates.io/crates/nt4-derive) | 0.2.0 | 0 | Unofficial: #[derive(NtStruct)] for the nt4 crate, generating WPILib struct sch… |
+| 2026-11-17 06:57:37 | [djs-rs](https://crates.io/crates/djs-rs) | 0.1.0-alpha.1 | 0 | High-level, discord.js-style framework for building Discord bots in Rust. |
+| 2026-11-17 06:58:31 | [nlptoolkit-framenet](https://crates.io/crates/nlptoolkit-framenet) | 0.0.2 | 0 | Simple Turkish Framenet library |
+| 2026-11-17 06:59:11 | [northstack](https://crates.io/crates/northstack) | 0.2.0 | 0 | Full-stack web framework for AI coding agents: Rust, React and SQLite in one sm… |
+| 2026-11-17 07:01:14 | [lambda-runtime-base](https://crates.io/crates/lambda-runtime-base) | 0.1.0 | 0 | Unofficial blocking client for the AWS Lambda Runtime API: take one invocation… |
+| 2026-11-17 07:01:40 | [ultron-rlm-views](https://crates.io/crates/ultron-rlm-views) | 1.0.0 | 0 | The live RLM views of the native TUI and `ultron watch` (run graph, docked pane… |
+| 2026-11-17 07:02:06 | [buildclamp-core](https://crates.io/crates/buildclamp-core) | 0.2.0 | 0 | buildclamp policy model, build-unit classification, and the capability report |
+| 2026-11-17 07:02:11 | [billionverify](https://crates.io/crates/billionverify) | 1.0.1 | 0 | Official Rust client for the BillionVerify email verification API |
+| 2026-11-17 07:02:11 | [ohpm-native](https://crates.io/crates/ohpm-native) | 0.7.0 | 0 | Native OpenHarmony build support for ohpm-rs (port of cargo-ohrs) |
+| 2026-11-17 07:02:13 | [buildclamp-sandbox](https://crates.io/crates/buildclamp-sandbox) | 0.2.0 | 0 | buildclamp Linux enforcement: seccomp-BPF, user-notification supervision, names… |
+| 2026-11-17 07:02:17 | [buildclamp-shim](https://crates.io/crates/buildclamp-shim) | 0.2.0 | 0 | buildclamp cargo interception: the rustc wrapper, the build-script launcher, an… |
+| 2026-11-17 07:02:30 | [cargo-buildclamp](https://crates.io/crates/cargo-buildclamp) | 0.2.0 | 0 | buildclamp — run every build.rs and proc-macro inside a declared capability env… |
+| 2026-11-17 07:06:43 | [cower](https://crates.io/crates/cower) | 0.0.0 | 0 | Policy-based clone-on-write pointers for no_std, with or without alloc |
+| 2026-11-17 07:06:43 | [vtcode-tui-runtime](https://crates.io/crates/vtcode-tui-runtime) | 0.182.7 | 0 | Terminal-rendering and inline-UI runtime extracted from vtcode-core |
+| 2026-11-17 07:07:06 | [grafeo-cuda-core](https://crates.io/crates/grafeo-cuda-core) | 0.3.0 | 0 | GPU device management and CSR bridge for Grafeo. |
+| 2026-11-17 07:07:07 | [grafeo-cuda-algos](https://crates.io/crates/grafeo-cuda-algos) | 0.3.0 | 0 | GPU-accelerated graph algorithms for Grafeo (triangle counting, BFS, PageRank,… |
+| 2026-11-17 07:12:14 | [ultron-host](https://crates.io/crates/ultron-host) | 1.0.0 | 0 | Rust host operations behind the Python kernel API: bash, shell jobs, write chec… |
+| 2026-11-17 07:14:26 | [prizm](https://crates.io/crates/prizm) | 0.0.1 | 0 | Command-line client for prizm |
+| 2026-11-17 07:16:08 | [prizm-utils](https://crates.io/crates/prizm-utils) | 0.0.1 | 0 | Shared helpers for the prizm command-line client |
 
 ## Data source
 

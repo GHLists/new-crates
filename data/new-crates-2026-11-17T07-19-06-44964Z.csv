@@ -1,0 +1,32 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-17T06:19:46.010313Z,ultron-session-file,1.0.0,0,0,https://github.com/alfredosdpiii/ultron-rs,"Ultron's Pi session JSONL format: entries, migrations, tree, model context, discovery"
+2026-11-17T06:25:25.57015Z,telco,0.0.1,0,0,https://github.com/hupe1980/telco,"Telecom billing: rating, charging, invoicing and the explainable bill. Placeholder — work in progress."
+2026-11-17T06:26:21.100966Z,djs-gateway,0.1.0-alpha.1,0,0,https://github.com/kotoanidev/djs-rs,Discord gateway (WebSocket) client with sharding and transport compression.
+2026-11-17T06:30:15.457149Z,ultron-server,1.0.0,0,0,https://github.com/alfredosdpiii/ultron-rs,Ultron server: the Radius relay host
+2026-11-17T06:34:10.1333Z,rouge-markdown,0.1.0,0,0,https://github.com/jcarver989/rouge,"Renderer-neutral Markdown documents, append streams and syntax-highlighted code blocks for Rouge"
+2026-11-17T06:34:22.921129Z,rouge-widgets,0.1.0,0,0,https://github.com/jcarver989/rouge,"Rouge's component set: bundled fonts, rem-based tokens, typography, icons and widgets"
+2026-11-17T06:36:29.777321Z,djs-cache,0.1.0-alpha.1,0,0,https://github.com/kotoanidev/djs-rs,"Configurable, pluggable in-memory cache for Discord entities."
+2026-11-17T06:40:41.011513Z,ultron-session-journal,1.0.0,0,0,https://github.com/alfredosdpiii/ultron-rs,"Ultron's format-4 session journal (harness operation journal JSONL): storage, legacy v3 import, repository, fork, model context, run journal and session names"
+2026-11-17T06:41:20.36435Z,cpu-dispatch,0.1.0,0,0,,"Safe CPU feature dispatch through tokens, with safe SIMD loads and stores"
+2026-11-17T06:44:55.456675Z,rouge,0.1.0,0,0,https://github.com/jcarver989/rouge,"A signal-driven, GPU-composited UI framework for native apps and the web"
+2026-11-17T06:47:02.893724Z,djs-voice,0.1.0-alpha.1,0,0,https://github.com/kotoanidev/djs-rs,"Discord voice for djs-rs: calls, tracks and end-to-end encrypted audio (DAVE)."
+2026-11-17T06:51:09.02203Z,ultron-resources,1.0.0,0,0,https://github.com/alfredosdpiii/ultron-rs,"System prompt and resource assembly: context files, skills, the runtime guide"
+2026-11-17T06:51:46.07427Z,nt4-derive,0.2.0,0,0,https://github.com/tuffinmuffin/nt4-rs,"Unofficial: #[derive(NtStruct)] for the nt4 crate, generating WPILib struct schemas from Rust structs and enums"
+2026-11-17T06:57:37.702875Z,djs-rs,0.1.0-alpha.1,0,0,https://github.com/kotoanidev/djs-rs,"High-level, discord.js-style framework for building Discord bots in Rust."
+2026-11-17T06:58:31.653211Z,nlptoolkit-framenet,0.0.2,0,0,https://github.com/StarlangSoftware/TurkishFramenet-Rust,Simple Turkish Framenet library
+2026-11-17T06:59:11.945647Z,northstack,0.2.0,0,0,https://github.com/elitan/northstack,"Full-stack web framework for AI coding agents: Rust, React and SQLite in one small binary."
+2026-11-17T07:01:14.790369Z,lambda-runtime-base,0.1.0,0,0,https://github.com/insd47/lambda-runtime-base,Unofficial blocking client for the AWS Lambda Runtime API: take one invocation at a time and answer it your way
+2026-11-17T07:01:40.540802Z,ultron-rlm-views,1.0.0,0,0,https://github.com/alfredosdpiii/ultron-rs,"The live RLM views of the native TUI and `ultron watch` (run graph, docked panel, focus view, RLM pane, running work) and the one poll of the inspections they draw from"
+2026-11-17T07:02:06.290213Z,buildclamp-core,0.2.0,0,0,https://github.com/lucheeseng827/buildclamp,"buildclamp policy model, build-unit classification, and the capability report"
+2026-11-17T07:02:11.083163Z,billionverify,1.0.1,0,0,https://github.com/BillionVerify/billionverify-rust,Official Rust client for the BillionVerify email verification API
+2026-11-17T07:02:11.337642Z,ohpm-native,0.7.0,0,0,https://github.com/harmony-contrib/ohpm-rs,Native OpenHarmony build support for ohpm-rs (port of cargo-ohrs)
+2026-11-17T07:02:13.451896Z,buildclamp-sandbox,0.2.0,0,0,https://github.com/lucheeseng827/buildclamp,"buildclamp Linux enforcement: seccomp-BPF, user-notification supervision, namespaces, Landlock"
+2026-11-17T07:02:17.38317Z,buildclamp-shim,0.2.0,0,0,https://github.com/lucheeseng827/buildclamp,"buildclamp cargo interception: the rustc wrapper, the build-script launcher, and the unit runner"
+2026-11-17T07:02:30.557704Z,cargo-buildclamp,0.2.0,0,0,https://github.com/lucheeseng827/buildclamp,buildclamp — run every build.rs and proc-macro inside a declared capability envelope
+2026-11-17T07:06:43.635567Z,cower,0.0.0,0,0,https://github.com/al8n/cower,"Policy-based clone-on-write pointers for no_std, with or without alloc"
+2026-11-17T07:06:43.894596Z,vtcode-tui-runtime,0.182.7,0,0,https://github.com/vinhnx/vtcode,Terminal-rendering and inline-UI runtime extracted from vtcode-core
+2026-11-17T07:07:06.679591Z,grafeo-cuda-core,0.3.0,0,0,https://github.com/GrafeoDB/grafeo-cuda,GPU device management and CSR bridge for Grafeo.
+2026-11-17T07:07:07.473308Z,grafeo-cuda-algos,0.3.0,0,0,https://github.com/GrafeoDB/grafeo-cuda,"GPU-accelerated graph algorithms for Grafeo (triangle counting, BFS, PageRank, k-truss)."
+2026-11-17T07:12:14.206202Z,ultron-host,1.0.0,0,0,https://github.com/alfredosdpiii/ultron-rs,"Rust host operations behind the Python kernel API: bash, shell jobs, write checks"
+2026-11-17T07:14:26.179206Z,prizm,0.0.1,0,0,,Command-line client for prizm
+2026-11-17T07:16:08.862323Z,prizm-utils,0.0.1,0,0,,Shared helpers for the prizm command-line client
