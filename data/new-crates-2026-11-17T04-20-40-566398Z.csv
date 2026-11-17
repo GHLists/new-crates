@@ -1,0 +1,52 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-17T03:20:03.276237Z,safeconduct,0.1.0,0,0,https://github.com/bit2swaz/safeconduct,"Deterministic replay browser for AI agents: record a run, replay it exactly, fuzz it, check rules, shrink failures"
+2026-11-17T03:20:56.037814Z,frasil-deposit-tokens,0.1.0,0,0,https://github.com/transcodeworks/frasil,"Frasil's deposit tokens extension: deposit keys, grants, tokens and their messages, a device's checks and a peer's issuance, redemption, budgets and key rotation. An internal building block of Frasil…"
+2026-11-17T03:22:42.553999Z,blockchain_keystore,0.9.7,0,0,https://github.com/richdrich/blockchain_ops_rust,"Wrap and unwrap a data key under a password, a caller-supplied secret, or (later) a key held by platform hardware."
+2026-11-17T03:25:28.404947Z,zumen-live,0.3.0,0,0,https://github.com/zumen-jp/zumen,zumen の文書エンジンの基盤。ページ配列・塊ごとの版・トランザクション・取り消し・空間索引・差分追跡
+2026-11-17T03:25:30.410437Z,aethelgard-renode-models,0.2.0,0,0,https://github.com/ClearForge-LLC/aethelgard,"Aethelgard's own Renode peripheral models (C#), as text. Data only."
+2026-11-17T03:25:41.707017Z,zumen-text,0.3.0,0,0,https://github.com/zumen-jp/zumen,zumen のフォント読み取りと文字の配置（L3）。図面の領域モデルの文字を字形の寸法で置く
+2026-11-17T03:25:50.571403Z,zumen-scene3d,0.3.0,0,0,https://github.com/zumen-jp/zumen,建物モデルから 3D のシーンを作り、メッシュと配置を列のバッファーで渡す
+2026-11-17T03:26:02.942443Z,zumen-geojson,0.3.0,0,0,https://github.com/zumen-jp/zumen,zumen の GeoJSON（RFC 7946）の読み書きと、地理の領域モデルとの変換（#876）
+2026-11-17T03:29:18.69091Z,aethelgard-evolve,0.2.0,0,0,https://github.com/ClearForge-LLC/aethelgard,Aethelgard attribution from traces and mutation proposals.
+2026-11-17T03:30:02.207056Z,aethelgard-pincheck,0.2.0,0,0,https://github.com/ClearForge-LLC/aethelgard,"Aethelgard's pinout check: what a linked STM32H7 firmware writes to the GPIO registers at reset, judged against the solved topology."
+2026-11-17T03:31:33.674313Z,frasil-ephemeral,0.1.0,0,0,https://github.com/transcodeworks/frasil,"Frasil's ephemeral channel extension. An internal building block of Frasil, less stable than the `frasil` crate: depend on `frasil` instead."
+2026-11-17T03:31:34.12097Z,frasil-iroh,0.1.0,0,0,https://github.com/transcodeworks/frasil,"Frasil's iroh binding. An internal building block of Frasil, less stable than the `frasil` crate: depend on `frasil` instead."
+2026-11-17T03:36:05.783719Z,ultron-assets,1.0.0,0,0,https://github.com/alfredosdpiii/ultron-rs,"The package files the `ultron` binary embeds: the Python runtime, bundled skills, docs, changelog, export template and Loki engine"
+2026-11-17T03:36:07.610323Z,ultron-jsrt,1.0.0,0,0,https://github.com/alfredosdpiii/ultron-rs,"JavaScript semantics the TypeScript port is held to (JSON.stringify, String/Number/toFixed/Math.round, trim and \s, UTF-16 length and slice, Date.parse/toISOString/now, localeCompare, truthiness) and…"
+2026-11-17T03:36:08.555962Z,ultron-signals,1.0.0,0,0,https://github.com/alfredosdpiii/ultron-rs,"Process signal handling without unsafe: SIGINT, SIGTERM and SIGHUP caught and dispatched to the running mode's handler, never blocked (children inherit default handling); child processes run with a t…"
+2026-11-17T03:36:12.344527Z,ultron-chord-delta,1.0.0,0,0,https://github.com/alfredosdpiii/ultron-rs,"Chord delta operations over JSON: validation, application, and the wire codec"
+2026-11-17T03:36:13.346157Z,ultron-jsonschema,1.0.0,0,0,https://github.com/alfredosdpiii/ultron-rs,"TypeBox's JSON-schema checking as the TypeScript product runs it: the definition-registry meta-check, Check/Errors (keyword order, en_US messages, the eight-error cap), the registered string formats,…"
+2026-11-17T03:40:38.023698Z,zumen-sima,0.3.0,0,0,https://github.com/zumen-jp/zumen,zumen の SIMA 共通フォーマット（カンマ区切り .sim と JPGIS 版 XML）の読み書きと領域モデル変換（#374）
+2026-11-17T03:40:39.099607Z,zumen-tiff,0.3.0,0,0,https://github.com/zumen-jp/zumen,zumen の TIFF 6.0・GeoTIFF 1.1 の読み取りと領域モデル変換・PNG 復号（#877）
+2026-11-17T03:41:43.292539Z,qg-di,0.1.4,0,0,https://github.com/Quaternion-Group/qg-di,"A small, explicit-context dependency injection container"
+2026-11-17T03:41:54.935967Z,ultron-sandbox,1.0.0,0,0,https://github.com/alfredosdpiii/ultron-rs,"Process isolation for the host's shell commands (bwrap, unshare, docker), its doctor and write containment"
+2026-11-17T03:42:00.213768Z,odatabase-edm,0.1.0,0,0,https://github.com/danfengtong19983/odatabase,"OData v4 entity data model, primitive values and CSDL writers"
+2026-11-17T03:42:00.540613Z,odatabase-macros,0.1.0,0,0,https://github.com/danfengtong19983/odatabase,Derive macros describing OData entity types
+2026-11-17T03:42:01.695632Z,odatabase-uri,0.1.0,0,0,https://github.com/danfengtong19983/odatabase,OData v4 URI parser bound to the service model
+2026-11-17T03:42:03.472021Z,odatabase-sql,0.1.0,0,0,https://github.com/danfengtong19983/odatabase,Translates OData requests to SQL and executes them
+2026-11-17T03:42:05.282395Z,odatabase-core,0.1.0,0,0,https://github.com/danfengtong19983/odatabase,"OData v4 request processing, independent of any web framework"
+2026-11-17T03:42:18.818601Z,frasil-units,0.1.0,0,0,https://github.com/transcodeworks/frasil,"Frasil's units, streams, objects, compaction, snapshots and sync messages. An internal building block of Frasil, less stable than the `frasil` crate: depend on `frasil` instead."
+2026-11-17T03:42:26.017576Z,dcm4rs,0.1.0,0,0,,DICOM 数据模型与数据字典
+2026-11-17T03:44:05.29991Z,tsdocrs,0.1.0,0,0,https://github.com/cutenode/tsdocrs,A TSDoc parser: a port of @microsoft/tsdoc that gives the same tree and messages
+2026-11-17T03:46:12.089623Z,puy-stdlib,0.0.4,0,0,https://github.com/puy-lang/puy,"Pascal sources of the Puy standard library units (no I/O, WASM-compatible)"
+2026-11-17T03:47:58.037928Z,filegrip,0.1.0,0,0,https://github.com/insd47/filegrip,"File handles over aws-sdk-s3: stat, read, write, copy, delete, list, and presign S3 objects"
+2026-11-17T03:52:13.731019Z,ultron-model-scope,1.0.0,0,0,https://github.com/alfredosdpiii/ultron-rs,"Model patterns as the TypeScript resolver reads them (model-resolver.ts): minimatch globs, localeCompare, parseModelPattern and resolveModelScopeFromModels over any model record; shared by the provid…"
+2026-11-17T03:53:02.824546Z,frasil-admission,0.1.0,0,0,https://github.com/transcodeworks/frasil,"Frasil's admission: the admission code, the setup code, the welcome and access requests. An internal building block of Frasil, less stable than the `frasil` crate: depend on `frasil` instead."
+2026-11-17T03:55:52.662864Z,hqdn3d,0.1.0,0,0,https://github.com/PostPerfection/hqdn3d,Clean-room high-quality 3D video denoiser
+2026-11-17T03:57:15.981167Z,odatabase-axum,0.1.0,0,0,https://github.com/danfengtong19983/odatabase,axum integration for odatabase services
+2026-11-17T04:02:26.807816Z,nt4-proto,0.1.0,0,0,https://github.com/tuffinmuffin/nt4-rs,"Unofficial NetworkTables 4.1 (NT4) wire format for Rust: JSON control messages and MessagePack value frames, byte for byte as WPILib's ntcore, with no I/O"
+2026-11-17T04:02:30.23799Z,nt4-core,0.1.0,0,0,https://github.com/tuffinmuffin/nt4-rs,"Unofficial NetworkTables 4.1 (NT4) client and server state machines for Rust, with no sockets or clock (sans-I/O), behaving as WPILib's ntcore"
+2026-11-17T04:02:34.07954Z,ultron-websocket,1.0.0,0,0,https://github.com/alfredosdpiii/ultron-rs,"RFC 6455 WebSocket framing without I/O: frames, a validating message decoder, close payloads, the handshake accept key"
+2026-11-17T04:02:38.742165Z,nt4,0.1.0,0,0,https://github.com/tuffinmuffin/nt4-rs,"Unofficial NetworkTables 4.1 (NT4) client and server for Rust and tokio, compatible with WPILib's ntcore: typed topics, structs, time sync, reconnect"
+2026-11-17T04:02:41.774979Z,nt4-wpimath,0.1.0,0,0,https://github.com/tuffinmuffin/nt4-rs,"Unofficial: WPILib's wpimath types (Pose2d, Pose3d, swerve module states, ...) as NetworkTables struct topics for the nt4 crate, with wpimath's exact schemas"
+2026-11-17T04:02:53.496435Z,odatabase,0.1.0,0,0,https://github.com/danfengtong19983/odatabase,OData v4 services over SQL databases
+2026-11-17T04:03:22.7478Z,arctypon-core,0.0.0,0,0,https://github.com/arctypon/arctypon,Core actor & message abstractions (no_std) for the arctypon kernel series
+2026-11-17T04:03:40.983602Z,frasil,0.1.0,0,0,https://github.com/transcodeworks/frasil,"Frasil for applications: devices that share spaces, online and offline."
+2026-11-17T04:04:14.358478Z,arctypon,0.0.0,0,0,https://github.com/arctypon/arctypon,"Open-source no_std actor kernel in Rust, built on Asterinas OSTD/OSDK"
+2026-11-17T04:06:19.893953Z,qubit-model-id,0.2.0,0,0,https://github.com/qubit-ltd/rs-model-metadata,"Stable, portable model identifiers shared by model-aware Rust crates"
+2026-11-17T04:06:35.800325Z,fork-rsipstack,0.7.14,0,0,https://github.com/dengxiayehu/rsipstack,rsipstack 0.7.14 fork with ordered dialog sends and nonblocking fork cleanup
+2026-11-17T04:09:13.290403Z,remoteid,0.1.0,0,0,https://github.com/Mattbusel/remoteid,"Pure Rust, no_std decoder and encoder for drone Remote ID (ASTM F3411-22a, ASD-STAN EN 4709-002, Open Drone ID) over Bluetooth and Wi-Fi, with a per-aircraft tracker"
+2026-11-17T04:11:41.818894Z,tailwind-embed,0.1.0,0,0,https://github.com/kenjiwho/tailwind-embed,Compile and embed Tailwind CSS directly into Rust applications.
+2026-11-17T04:12:56.893482Z,ultron-telemetry,1.0.0,0,0,https://github.com/alfredosdpiii/ultron-rs,"Bug-report payloads and archive, and the crash log the bug report reads"
+2026-11-17T04:14:01.657874Z,frasil-relay,0.1.0,0,0,https://github.com/transcodeworks/frasil,"Frasil's always-on peer service, with an optional iroh relay."
+2026-11-17T04:15:29.16767Z,devdash,0.1.0,0,0,https://github.com/DBISHT4U/devdash,"💻 A beautiful terminal dashboard for developers — system stats, Git info, project overview, and more in one gorgeous TUI."
