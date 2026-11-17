@@ -8,65 +8,64 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-17 04:20 UTC
+## Latest list — 2026-11-17 05:18 UTC
 
-New crates published between 2026-11-17 03:18 UTC and 2026-11-17 04:20 UTC.
+New crates published between 2026-11-17 04:20 UTC and 2026-11-17 05:18 UTC.
 
-[Full CSV](data/new-crates-2026-11-17T04-20-40-566398Z.csv)
+[Full CSV](data/new-crates-2026-11-17T05-18-18-928284Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-17 03:20:03 | [safeconduct](https://crates.io/crates/safeconduct) | 0.1.0 | 0 | Deterministic replay browser for AI agents: record a run, replay it exactly, fu… |
-| 2026-11-17 03:20:56 | [frasil-deposit-tokens](https://crates.io/crates/frasil-deposit-tokens) | 0.1.0 | 0 | Frasil's deposit tokens extension: deposit keys, grants, tokens and their messa… |
-| 2026-11-17 03:22:42 | [blockchain_keystore](https://crates.io/crates/blockchain_keystore) | 0.9.7 | 0 | Wrap and unwrap a data key under a password, a caller-supplied secret, or (late… |
-| 2026-11-17 03:25:28 | [zumen-live](https://crates.io/crates/zumen-live) | 0.3.0 | 0 | zumen の文書エンジンの基盤。ページ配列・塊ごとの版・トランザクション・取り消し・空間索引・差分追跡 |
-| 2026-11-17 03:25:30 | [aethelgard-renode-models](https://crates.io/crates/aethelgard-renode-models) | 0.2.0 | 0 | Aethelgard's own Renode peripheral models (C#), as text. Data only. |
-| 2026-11-17 03:25:41 | [zumen-text](https://crates.io/crates/zumen-text) | 0.3.0 | 0 | zumen のフォント読み取りと文字の配置（L3）。図面の領域モデルの文字を字形の寸法で置く |
-| 2026-11-17 03:25:50 | [zumen-scene3d](https://crates.io/crates/zumen-scene3d) | 0.3.0 | 0 | 建物モデルから 3D のシーンを作り、メッシュと配置を列のバッファーで渡す |
-| 2026-11-17 03:26:02 | [zumen-geojson](https://crates.io/crates/zumen-geojson) | 0.3.0 | 0 | zumen の GeoJSON（RFC 7946）の読み書きと、地理の領域モデルとの変換（#876） |
-| 2026-11-17 03:29:18 | [aethelgard-evolve](https://crates.io/crates/aethelgard-evolve) | 0.2.0 | 0 | Aethelgard attribution from traces and mutation proposals. |
-| 2026-11-17 03:30:02 | [aethelgard-pincheck](https://crates.io/crates/aethelgard-pincheck) | 0.2.0 | 0 | Aethelgard's pinout check: what a linked STM32H7 firmware writes to the GPIO re… |
-| 2026-11-17 03:31:33 | [frasil-ephemeral](https://crates.io/crates/frasil-ephemeral) | 0.1.0 | 0 | Frasil's ephemeral channel extension. An internal building block of Frasil, les… |
-| 2026-11-17 03:31:34 | [frasil-iroh](https://crates.io/crates/frasil-iroh) | 0.1.0 | 0 | Frasil's iroh binding. An internal building block of Frasil, less stable than t… |
-| 2026-11-17 03:36:05 | [ultron-assets](https://crates.io/crates/ultron-assets) | 1.0.0 | 0 | The package files the `ultron` binary embeds: the Python runtime, bundled skill… |
-| 2026-11-17 03:36:07 | [ultron-jsrt](https://crates.io/crates/ultron-jsrt) | 1.0.0 | 0 | JavaScript semantics the TypeScript port is held to (JSON.stringify, String/Num… |
-| 2026-11-17 03:36:08 | [ultron-signals](https://crates.io/crates/ultron-signals) | 1.0.0 | 0 | Process signal handling without unsafe: SIGINT, SIGTERM and SIGHUP caught and d… |
-| 2026-11-17 03:36:12 | [ultron-chord-delta](https://crates.io/crates/ultron-chord-delta) | 1.0.0 | 0 | Chord delta operations over JSON: validation, application, and the wire codec |
-| 2026-11-17 03:36:13 | [ultron-jsonschema](https://crates.io/crates/ultron-jsonschema) | 1.0.0 | 0 | TypeBox's JSON-schema checking as the TypeScript product runs it: the definitio… |
-| 2026-11-17 03:40:38 | [zumen-sima](https://crates.io/crates/zumen-sima) | 0.3.0 | 0 | zumen の SIMA 共通フォーマット（カンマ区切り .sim と JPGIS 版 XML）の読み書きと領域モデル変換（#374） |
-| 2026-11-17 03:40:39 | [zumen-tiff](https://crates.io/crates/zumen-tiff) | 0.3.0 | 0 | zumen の TIFF 6.0・GeoTIFF 1.1 の読み取りと領域モデル変換・PNG 復号（#877） |
-| 2026-11-17 03:41:43 | [qg-di](https://crates.io/crates/qg-di) | 0.1.4 | 0 | A small, explicit-context dependency injection container |
-| 2026-11-17 03:41:54 | [ultron-sandbox](https://crates.io/crates/ultron-sandbox) | 1.0.0 | 0 | Process isolation for the host's shell commands (bwrap, unshare, docker), its d… |
-| 2026-11-17 03:42:00 | [odatabase-edm](https://crates.io/crates/odatabase-edm) | 0.1.0 | 0 | OData v4 entity data model, primitive values and CSDL writers |
-| 2026-11-17 03:42:00 | [odatabase-macros](https://crates.io/crates/odatabase-macros) | 0.1.0 | 0 | Derive macros describing OData entity types |
-| 2026-11-17 03:42:01 | [odatabase-uri](https://crates.io/crates/odatabase-uri) | 0.1.0 | 0 | OData v4 URI parser bound to the service model |
-| 2026-11-17 03:42:03 | [odatabase-sql](https://crates.io/crates/odatabase-sql) | 0.1.0 | 0 | Translates OData requests to SQL and executes them |
-| 2026-11-17 03:42:05 | [odatabase-core](https://crates.io/crates/odatabase-core) | 0.1.0 | 0 | OData v4 request processing, independent of any web framework |
-| 2026-11-17 03:42:18 | [frasil-units](https://crates.io/crates/frasil-units) | 0.1.0 | 0 | Frasil's units, streams, objects, compaction, snapshots and sync messages. An i… |
-| 2026-11-17 03:42:26 | [dcm4rs](https://crates.io/crates/dcm4rs) | 0.1.0 | 0 | DICOM 数据模型与数据字典 |
-| 2026-11-17 03:44:05 | [tsdocrs](https://crates.io/crates/tsdocrs) | 0.1.0 | 0 | A TSDoc parser: a port of @microsoft/tsdoc that gives the same tree and messages |
-| 2026-11-17 03:46:12 | [puy-stdlib](https://crates.io/crates/puy-stdlib) | 0.0.4 | 0 | Pascal sources of the Puy standard library units (no I/O, WASM-compatible) |
-| 2026-11-17 03:47:58 | [filegrip](https://crates.io/crates/filegrip) | 0.1.0 | 0 | File handles over aws-sdk-s3: stat, read, write, copy, delete, list, and presig… |
-| 2026-11-17 03:52:13 | [ultron-model-scope](https://crates.io/crates/ultron-model-scope) | 1.0.0 | 0 | Model patterns as the TypeScript resolver reads them (model-resolver.ts): minim… |
-| 2026-11-17 03:53:02 | [frasil-admission](https://crates.io/crates/frasil-admission) | 0.1.0 | 0 | Frasil's admission: the admission code, the setup code, the welcome and access… |
-| 2026-11-17 03:55:52 | [hqdn3d](https://crates.io/crates/hqdn3d) | 0.1.0 | 0 | Clean-room high-quality 3D video denoiser |
-| 2026-11-17 03:57:15 | [odatabase-axum](https://crates.io/crates/odatabase-axum) | 0.1.0 | 0 | axum integration for odatabase services |
-| 2026-11-17 04:02:26 | [nt4-proto](https://crates.io/crates/nt4-proto) | 0.1.0 | 0 | Unofficial NetworkTables 4.1 (NT4) wire format for Rust: JSON control messages… |
-| 2026-11-17 04:02:30 | [nt4-core](https://crates.io/crates/nt4-core) | 0.1.0 | 0 | Unofficial NetworkTables 4.1 (NT4) client and server state machines for Rust, w… |
-| 2026-11-17 04:02:34 | [ultron-websocket](https://crates.io/crates/ultron-websocket) | 1.0.0 | 0 | RFC 6455 WebSocket framing without I/O: frames, a validating message decoder, c… |
-| 2026-11-17 04:02:38 | [nt4](https://crates.io/crates/nt4) | 0.1.0 | 0 | Unofficial NetworkTables 4.1 (NT4) client and server for Rust and tokio, compat… |
-| 2026-11-17 04:02:41 | [nt4-wpimath](https://crates.io/crates/nt4-wpimath) | 0.1.0 | 0 | Unofficial: WPILib's wpimath types (Pose2d, Pose3d, swerve module states, ...)… |
-| 2026-11-17 04:02:53 | [odatabase](https://crates.io/crates/odatabase) | 0.1.0 | 0 | OData v4 services over SQL databases |
-| 2026-11-17 04:03:22 | [arctypon-core](https://crates.io/crates/arctypon-core) | 0.0.0 | 0 | Core actor & message abstractions (no_std) for the arctypon kernel series |
-| 2026-11-17 04:03:40 | [frasil](https://crates.io/crates/frasil) | 0.1.0 | 0 | Frasil for applications: devices that share spaces, online and offline. |
-| 2026-11-17 04:04:14 | [arctypon](https://crates.io/crates/arctypon) | 0.0.0 | 0 | Open-source no_std actor kernel in Rust, built on Asterinas OSTD/OSDK |
-| 2026-11-17 04:06:19 | [qubit-model-id](https://crates.io/crates/qubit-model-id) | 0.2.0 | 0 | Stable, portable model identifiers shared by model-aware Rust crates |
-| 2026-11-17 04:06:35 | [fork-rsipstack](https://crates.io/crates/fork-rsipstack) | 0.7.14 | 0 | rsipstack 0.7.14 fork with ordered dialog sends and nonblocking fork cleanup |
-| 2026-11-17 04:09:13 | [remoteid](https://crates.io/crates/remoteid) | 0.1.0 | 0 | Pure Rust, no_std decoder and encoder for drone Remote ID (ASTM F3411-22a, ASD-… |
-| 2026-11-17 04:11:41 | [tailwind-embed](https://crates.io/crates/tailwind-embed) | 0.1.0 | 0 | Compile and embed Tailwind CSS directly into Rust applications. |
-| 2026-11-17 04:12:56 | [ultron-telemetry](https://crates.io/crates/ultron-telemetry) | 1.0.0 | 0 | Bug-report payloads and archive, and the crash log the bug report reads |
-| 2026-11-17 04:14:01 | [frasil-relay](https://crates.io/crates/frasil-relay) | 0.1.0 | 0 | Frasil's always-on peer service, with an optional iroh relay. |
-| 2026-11-17 04:15:29 | [devdash](https://crates.io/crates/devdash) | 0.1.0 | 0 | 💻 A beautiful terminal dashboard for developers — system stats, Git info, proje… |
+| 2026-11-17 04:21:29 | [astlens](https://crates.io/crates/astlens) | 0.6.2 | 0 | MCP server for AST-aware code navigation with tree-sitter: outlines, symbol sea… |
+| 2026-11-17 04:23:19 | [ultron-protocol](https://crates.io/crates/ultron-protocol) | 1.0.0 | 0 | Ultron server/client wire protocol: strict CBOR, length-prefixed framing, valid… |
+| 2026-11-17 04:23:24 | [orion-definitions](https://crates.io/crates/orion-definitions) | 2.0.0 | 0 | Definition primitives and formatter (order-preserving JSON AST, SQL lexer, and… |
+| 2026-11-17 04:23:33 | [orion-extension-api](https://crates.io/crates/orion-extension-api) | 2.0.0 | 0 | The extension surface of the Orion runtime: the channel driver, provider backen… |
+| 2026-11-17 04:24:20 | [orion-common](https://crates.io/crates/orion-common) | 2.0.0 | 0 | Shared primitives of the Orion runtime: configuration, the error type, crypto,… |
+| 2026-11-17 04:25:32 | [mavlink-tlog](https://crates.io/crates/mavlink-tlog) | 0.1.0 | 0 | Read and write MAVLink .tlog telemetry logs (QGroundControl, Mission Planner, M… |
+| 2026-11-17 04:25:34 | [orion-storage](https://crates.io/crates/orion-storage) | 2.0.0 | 0 | The Orion runtime's state database: pools over SQLite, PostgreSQL and MySQL, th… |
+| 2026-11-17 04:26:31 | [orion-engine](https://crates.io/crates/orion-engine) | 2.0.0 | 0 | The Orion runtime's workflow engine: Orion's dataflow-rs functions and operator… |
+| 2026-11-17 04:26:55 | [dseams-sys](https://crates.io/crates/dseams-sys) | 2.14.0 | 0 | Raw FFI bindings to libseams, the d-SEAMS C API |
+| 2026-11-17 04:27:49 | [dseams](https://crates.io/crates/dseams) | 2.14.0 | 0 | Safe Rust wrapper for the d-SEAMS C API: ice, clathrate and ring analysis of mo… |
+| 2026-11-17 04:31:28 | [analysant](https://crates.io/crates/analysant) | 0.0.0 | 0 | Reserved name: generic text analysis libraries (lexical, semantic, and the lens… |
+| 2026-11-17 04:33:40 | [ultron-theme](https://crates.io/crates/ultron-theme) | 1.0.0 | 0 | Ultron themes: the theme document schema, the built-in dark and light themes, c… |
+| 2026-11-17 04:34:38 | [analysant-core](https://crates.io/crates/analysant-core) | 0.0.0 | 0 | Reserved name: the core analysis library of AnalysAnt (generic text analysis).… |
+| 2026-11-17 04:35:02 | [analysant-lexical](https://crates.io/crates/analysant-lexical) | 0.0.0 | 0 | Reserved name: the lexical analysis library of AnalysAnt (generic text analysis… |
+| 2026-11-17 04:35:26 | [analysant-semantic](https://crates.io/crates/analysant-semantic) | 0.0.0 | 0 | Reserved name: the semantic analysis library of AnalysAnt (generic text analysi… |
+| 2026-11-17 04:35:49 | [slang-bindgen](https://crates.io/crates/slang-bindgen) | 0.1.0-alpha.1 | 0 | Generates the raw Rust bindings of slang-compiler-sys from the Slang headers wi… |
+| 2026-11-17 04:35:50 | [slang-src](https://crates.io/crates/slang-src) | 0.1.0-alpha.1.slang… | 0 | The Slang source tree at a recorded commit, cloned for the crates that build Sl… |
+| 2026-11-17 04:35:50 | [analysant-pragmatic](https://crates.io/crates/analysant-pragmatic) | 0.0.0 | 0 | Reserved name: the pragmatic analysis library of AnalysAnt (generic text analys… |
+| 2026-11-17 04:35:51 | [slang-compiler-sys](https://crates.io/crates/slang-compiler-sys) | 0.1.0-alpha.1 | 0 | Raw bindings to the Slang shader compiler, generated from the Slang headers in… |
+| 2026-11-17 04:35:53 | [slang-glslang-sys](https://crates.io/crates/slang-glslang-sys) | 0.1.0-alpha.1 | 0 | glslang and SPIRV-Tools built statically for a vendored Slang, with the in-proc… |
+| 2026-11-17 04:35:55 | [slang-compiler](https://crates.io/crates/slang-compiler) | 0.1.0-alpha.1 | 0 | Safe Rust wrappers over the Slang shader compiler. |
+| 2026-11-17 04:41:51 | [dugix-core](https://crates.io/crates/dugix-core) | 1.0.0 | 0 | A local-first terminal chat app for deep research and multi-agent work |
+| 2026-11-17 04:43:16 | [dugix](https://crates.io/crates/dugix) | 1.0.0 | 0 | A local-first terminal chat app for deep research and multi-agent work |
+| 2026-11-17 04:44:05 | [ultron-knowledge](https://crates.io/crates/ultron-knowledge) | 1.0.0 | 0 | The knowledge graph: what each repository's files are made of (constructs and s… |
+| 2026-11-17 04:46:09 | [orion-plugin-host](https://crates.io/crates/orion-plugin-host) | 2.0.0 | 0 | The Orion runtime's WebAssembly plugin host: the Wasmtime sandbox and its ceili… |
+| 2026-11-17 04:46:23 | [analysant-epistemic](https://crates.io/crates/analysant-epistemic) | 0.0.0 | 0 | Reserved name: the epistemic analysis library of AnalysAnt (generic text analys… |
+| 2026-11-17 04:47:02 | [orion-runtime](https://crates.io/crates/orion-runtime) | 2.0.0 | 0 | The Orion runtime's serving node: channels and their guards, the runtime genera… |
+| 2026-11-17 04:47:44 | [xrack-testing](https://crates.io/crates/xrack-testing) | 0.7.0 | 0 | Headless interaction testing for XRack applications |
+| 2026-11-17 04:48:32 | [slango](https://crates.io/crates/slango) | 0.1.0-alpha.1 | 0 | Run Slang compute kernels and draw with Slang render pipelines on the GPU from… |
+| 2026-11-17 04:49:30 | [ultron-kernel](https://crates.io/crates/ultron-kernel) | 1.0.0 | 0 | Supervisor for Ultron's persistent Python kernel (runtime.py): process, wire pr… |
+| 2026-11-17 04:55:39 | [orion-authoring](https://crates.io/crates/orion-authoring) | 2.0.0 | 0 | The Orion runtime's authoring layer: definition sets, the compile passes, fmt a… |
+| 2026-11-17 04:56:12 | [tagpin](https://crates.io/crates/tagpin) | 0.1.0 | 0 | Find unpinned container image references (latest or no tag) in Dockerfiles and… |
+| 2026-11-17 04:56:59 | [analysant-temporal](https://crates.io/crates/analysant-temporal) | 0.0.0 | 0 | Reserved name: the temporal analysis library of AnalysAnt (generic text analysi… |
+| 2026-11-17 04:57:23 | [analysant-logical](https://crates.io/crates/analysant-logical) | 0.0.0 | 0 | Reserved name: the logical analysis library of AnalysAnt (generic text analysis… |
+| 2026-11-17 05:00:07 | [ultron-config](https://crates.io/crates/ultron-config) | 1.0.0 | 0 | Ultron settings, auth.json, project trust and agent paths, file-compatible with… |
+| 2026-11-17 05:05:37 | [orion-http](https://crates.io/crates/orion-http) | 2.0.0 | 0 | The Orion runtime's HTTP layer: the axum router, the admin and data routes, mid… |
+| 2026-11-17 05:07:50 | [analysant-deontic](https://crates.io/crates/analysant-deontic) | 0.0.0 | 0 | Reserved name: the deontic analysis library of AnalysAnt (generic text analysis… |
+| 2026-11-17 05:09:24 | [reportstudio](https://crates.io/crates/reportstudio) | 0.1.0 | 0 | Generate PDFs from Report Studio report definitions |
+| 2026-11-17 05:10:48 | [ultron-tui](https://crates.io/crates/ultron-tui) | 1.0.0 | 0 | Terminal UI: ANSI-aware width/wrap/truncate, key parsing, stdin splitting, comp… |
+| 2026-11-17 05:15:39 | [arborstone-base](https://crates.io/crates/arborstone-base) | 0.0.1 | 0 | Foundational types for the arborstone solvers: typed indices, integer domains,… |
+| 2026-11-17 05:15:41 | [arborstone-check](https://crates.io/crates/arborstone-check) | 0.0.1 | 0 | Independent checkers for solver answers: LRAT proofs, SAT models and pseudo-Boo… |
+| 2026-11-17 05:15:43 | [arborstone-algo](https://crates.io/crates/arborstone-algo) | 0.0.1 | 0 | Algorithms and graph structures used by the arborstone solvers: heaps, partitio… |
+| 2026-11-17 05:15:45 | [arborstone-lp](https://crates.io/crates/arborstone-lp) | 0.0.1 | 0 | Linear programming for arborstone: sparse LP data, MPS files, primal and dual s… |
+| 2026-11-17 05:15:47 | [arborstone-model](https://crates.io/crates/arborstone-model) | 0.0.1 | 0 | The arborstone CP-SAT model: variables, constraints, objective and strategies,… |
+| 2026-11-17 05:16:57 | [interpreter](https://crates.io/crates/interpreter) | 1.0.0 | 0 | Build language runtimes in Rust: a single-pass parser to SSA bytecode, a regist… |
+| 2026-11-17 05:17:00 | [repo-search-ort](https://crates.io/crates/repo-search-ort) | 0.0.0 | 0 | ONNX Runtime token embedding for repo-search (Linux, Windows) |
+| 2026-11-17 05:17:17 | [koda-git](https://crates.io/crates/koda-git) | 0.7.5 | 0 | Git for the Koda AI coding agent: one hardened way to run git, so a repository'… |
+| 2026-11-17 05:17:17 | [koda-oss](https://crates.io/crates/koda-oss) | 0.7.5 | 0 | Local models for the Koda AI coding agent: koda --oss starts llama.cpp's llama-… |
+| 2026-11-17 05:17:30 | [koda-tui](https://crates.io/crates/koda-tui) | 0.7.5 | 0 | The terminal interface of the Koda AI coding agent: the fullscreen TUI the koda… |
+| 2026-11-17 05:18:16 | [analysant-discourse](https://crates.io/crates/analysant-discourse) | 0.0.0 | 0 | Reserved name: the discourse analysis library of AnalysAnt (generic text analys… |
 
 ## Data source
 

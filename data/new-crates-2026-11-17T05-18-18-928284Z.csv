@@ -1,0 +1,51 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-17T04:21:29.588351Z,astlens,0.6.2,0,0,https://github.com/aeron2k4/astlens,"MCP server for AST-aware code navigation with tree-sitter: outlines, symbol search, references and token-budgeted reads"
+2026-11-17T04:23:19.929447Z,ultron-protocol,1.0.0,0,0,https://github.com/alfredosdpiii/ultron-rs,"Ultron server/client wire protocol: strict CBOR, length-prefixed framing, validated messages"
+2026-11-17T04:23:24.032822Z,orion-definitions,2.0.0,0,0,https://github.com/GoPlasmatic/Orion,"Definition primitives and formatter (order-preserving JSON AST, SQL lexer, and source provenance) for Orion"
+2026-11-17T04:23:33.217662Z,orion-extension-api,2.0.0,0,0,https://github.com/GoPlasmatic/Orion,"The extension surface of the Orion runtime: the channel driver, provider backend, pool cache and package verifier traits, their contract types, and the registration surface an edition composes a node…"
+2026-11-17T04:24:20.893888Z,orion-common,2.0.0,0,0,https://github.com/GoPlasmatic/Orion,"Shared primitives of the Orion runtime: configuration, the error type, crypto, metrics, request and trace context, canonical JSON and the egress body reader"
+2026-11-17T04:25:32.725633Z,mavlink-tlog,0.1.0,0,0,https://github.com/Mattbusel/mavlink-tlog,"Read and write MAVLink .tlog telemetry logs (QGroundControl, Mission Planner, MAVProxy), with damaged-log recovery, checksum checks for every all.xml message, and per-sender packet loss statistics"
+2026-11-17T04:25:34.448728Z,orion-storage,2.0.0,0,0,https://github.com/GoPlasmatic/Orion,"The Orion runtime's state database: pools over SQLite, PostgreSQL and MySQL, the embedded migrations, row models and repositories"
+2026-11-17T04:26:31.536142Z,orion-engine,2.0.0,0,0,https://github.com/GoPlasmatic/Orion,"The Orion runtime's workflow engine: Orion's dataflow-rs functions and operators, the loader, connectors, the portable data dialect and JWT"
+2026-11-17T04:26:55.849263Z,dseams-sys,2.14.0,0,0,https://github.com/d-SEAMS/dseams-rs,"Raw FFI bindings to libseams, the d-SEAMS C API"
+2026-11-17T04:27:49.816184Z,dseams,2.14.0,0,0,https://github.com/d-SEAMS/dseams-rs,"Safe Rust wrapper for the d-SEAMS C API: ice, clathrate and ring analysis of molecular simulations"
+2026-11-17T04:31:28.009122Z,analysant,0.0.0,0,0,,"Reserved name: generic text analysis libraries (lexical, semantic, and the lenses built on them). Nothing is published here yet."
+2026-11-17T04:33:40.496886Z,ultron-theme,1.0.0,0,0,https://github.com/alfredosdpiii/ultron-rs,"Ultron themes: the theme document schema, the built-in dark and light themes, color resolution and conversion, ANSI palettes, text styles, the theme registry, and choosing a theme from the setting an…"
+2026-11-17T04:34:38.327524Z,analysant-core,0.0.0,0,0,,Reserved name: the core analysis library of AnalysAnt (generic text analysis). Nothing is published here yet.
+2026-11-17T04:35:02.711576Z,analysant-lexical,0.0.0,0,0,,Reserved name: the lexical analysis library of AnalysAnt (generic text analysis). Nothing is published here yet.
+2026-11-17T04:35:26.640563Z,analysant-semantic,0.0.0,0,0,,Reserved name: the semantic analysis library of AnalysAnt (generic text analysis). Nothing is published here yet.
+2026-11-17T04:35:49.657573Z,slang-bindgen,0.1.0-alpha.1,0,0,https://github.com/g-whiz/slang-rust,Generates the raw Rust bindings of slang-compiler-sys from the Slang headers with libclang.
+2026-11-17T04:35:50.293555Z,slang-src,0.1.0-alpha.1.slang.2026.17.0.25.gc7954ebd1,0,0,https://github.com/g-whiz/slang-rust,"The Slang source tree at a recorded commit, cloned for the crates that build Slang from source."
+2026-11-17T04:35:50.641822Z,analysant-pragmatic,0.0.0,0,0,,Reserved name: the pragmatic analysis library of AnalysAnt (generic text analysis). Nothing is published here yet.
+2026-11-17T04:35:51.202846Z,slang-compiler-sys,0.1.0-alpha.1,0,0,https://github.com/g-whiz/slang-rust,"Raw bindings to the Slang shader compiler, generated from the Slang headers in every build."
+2026-11-17T04:35:53.10055Z,slang-glslang-sys,0.1.0-alpha.1,0,0,https://github.com/g-whiz/slang-rust,"glslang and SPIRV-Tools built statically for a vendored Slang, with the in-process loader through which it optimizes SPIR-V."
+2026-11-17T04:35:55.049285Z,slang-compiler,0.1.0-alpha.1,0,0,https://github.com/g-whiz/slang-rust,Safe Rust wrappers over the Slang shader compiler.
+2026-11-17T04:41:51.683293Z,dugix-core,1.0.0,0,0,https://github.com/dukunuu/dugix,A local-first terminal chat app for deep research and multi-agent work
+2026-11-17T04:43:16.076171Z,dugix,1.0.0,0,0,https://github.com/dukunuu/dugix,A local-first terminal chat app for deep research and multi-agent work
+2026-11-17T04:44:05.404103Z,ultron-knowledge,1.0.0,0,0,https://github.com/alfredosdpiii/ultron-rs,"The knowledge graph: what each repository's files are made of (constructs and symbols, by git blob), shared by every repository and read by the kernel"
+2026-11-17T04:46:09.892112Z,orion-plugin-host,2.0.0,0,0,https://github.com/GoPlasmatic/Orion,"The Orion runtime's WebAssembly plugin host: the Wasmtime sandbox and its ceilings, the plugin.toml manifest, plugin functions and the trust check"
+2026-11-17T04:46:23.906966Z,analysant-epistemic,0.0.0,0,0,,Reserved name: the epistemic analysis library of AnalysAnt (generic text analysis). Nothing is published here yet.
+2026-11-17T04:47:02.910024Z,orion-runtime,2.0.0,0,0,https://github.com/GoPlasmatic/Orion,"The Orion runtime's serving node: channels and their guards, the runtime generation and deployment builds, cron, the trace queues, cluster coordination and the v2 extension boundary"
+2026-11-17T04:47:44.440052Z,xrack-testing,0.7.0,0,0,https://github.com/smallsunsun1/xrack,Headless interaction testing for XRack applications
+2026-11-17T04:48:32.888039Z,slango,0.1.0-alpha.1,0,0,https://github.com/g-whiz/slang-rust,"Run Slang compute kernels and draw with Slang render pipelines on the GPU from Rust, through wgpu."
+2026-11-17T04:49:30.534957Z,ultron-kernel,1.0.0,0,0,https://github.com/alfredosdpiii/ultron-rs,"Supervisor for Ultron's persistent Python kernel (runtime.py): process, wire protocol, host requests"
+2026-11-17T04:55:39.648107Z,orion-authoring,2.0.0,0,0,https://github.com/GoPlasmatic/Orion,"The Orion runtime's authoring layer: definition sets, the compile passes, fmt and clippy, and the checks a definition passes before a node accepts it"
+2026-11-17T04:56:12.053472Z,tagpin,0.1.0,0,0,https://github.com/PrinceAdvant/tagpin,Find unpinned container image references (latest or no tag) in Dockerfiles and Docker Compose files.
+2026-11-17T04:56:59.260311Z,analysant-temporal,0.0.0,0,0,,Reserved name: the temporal analysis library of AnalysAnt (generic text analysis). Nothing is published here yet.
+2026-11-17T04:57:23.854075Z,analysant-logical,0.0.0,0,0,,Reserved name: the logical analysis library of AnalysAnt (generic text analysis). Nothing is published here yet.
+2026-11-17T05:00:07.824467Z,ultron-config,1.0.0,0,0,https://github.com/alfredosdpiii/ultron-rs,"Ultron settings, auth.json, project trust and agent paths, file-compatible with the TypeScript product"
+2026-11-17T05:05:37.227815Z,orion-http,2.0.0,0,0,https://github.com/GoPlasmatic/Orion,"The Orion runtime's HTTP layer: the axum router, the admin and data routes, middleware, TLS serving and the OpenAPI document"
+2026-11-17T05:07:50.225707Z,analysant-deontic,0.0.0,0,0,,Reserved name: the deontic analysis library of AnalysAnt (generic text analysis). Nothing is published here yet.
+2026-11-17T05:09:24.011027Z,reportstudio,0.1.0,0,0,https://github.com/LuigimonSoft/reportstudio-rs,Generate PDFs from Report Studio report definitions
+2026-11-17T05:10:48.516913Z,ultron-tui,1.0.0,0,0,https://github.com/alfredosdpiii/ultron-rs,"Terminal UI: ANSI-aware width/wrap/truncate, key parsing, stdin splitting, components, and the diffing renderer"
+2026-11-17T05:15:39.616985Z,arborstone-base,0.0.1,0,0,,"Foundational types for the arborstone solvers: typed indices, integer domains, exact arithmetic, bitsets, deterministic randomness and work limits."
+2026-11-17T05:15:41.58349Z,arborstone-check,0.0.1,0,0,,"Independent checkers for solver answers: LRAT proofs, SAT models and pseudo-Boolean proofs, on the standard library alone."
+2026-11-17T05:15:43.985879Z,arborstone-algo,0.0.1,0,0,,"Algorithms and graph structures used by the arborstone solvers: heaps, partitions, automorphisms, knapsack, components, matching, flow and cliques."
+2026-11-17T05:15:45.906091Z,arborstone-lp,0.0.1,0,0,,"Linear programming for arborstone: sparse LP data, MPS files, primal and dual simplex with warm starts, and exact checks and bounds."
+2026-11-17T05:15:47.857451Z,arborstone-model,0.0.1,0,0,,"The arborstone CP-SAT model: variables, constraints, objective and strategies, with a builder, a validator and a solution checker."
+2026-11-17T05:16:57.164885Z,interpreter,1.0.0,0,0,https://github.com/dylan-sutton-chavez/interpreter,"Build language runtimes in Rust: a single-pass parser to SSA bytecode, a register VM with an op budget, an exact memory meter, a GC and snapshots, with kernels, Lox and a plugin kit."
+2026-11-17T05:17:00.731293Z,repo-search-ort,0.0.0,0,0,https://github.com/May-Agent/repo-search,"ONNX Runtime token embedding for repo-search (Linux, Windows)"
+2026-11-17T05:17:17.274817Z,koda-git,0.7.5,0,0,https://github.com/lijunzh/koda,"Git for the Koda AI coding agent: one hardened way to run git, so a repository's own config can't run programs"
+2026-11-17T05:17:17.433365Z,koda-oss,0.7.5,0,0,https://github.com/lijunzh/koda,Local models for the Koda AI coding agent: koda --oss starts llama.cpp's llama-server with a model and stops it when Koda exits
+2026-11-17T05:17:30.443262Z,koda-tui,0.7.5,0,0,https://github.com/lijunzh/koda,The terminal interface of the Koda AI coding agent: the fullscreen TUI the koda command opens
+2026-11-17T05:18:16.881697Z,analysant-discourse,0.0.0,0,0,,Reserved name: the discourse analysis library of AnalysAnt (generic text analysis). Nothing is published here yet.
