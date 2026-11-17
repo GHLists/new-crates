@@ -1,0 +1,30 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-17T10:21:28.343792Z,ultron-session-core,1.0.0,0,0,https://github.com/alfredosdpiii/ultron-rs,"One session's runtime, shared by every mode through the session worker: the rlm lane (model, provider, system prompt, the single rlm tool), the composition root of its host stack, the format-4 run jo…"
+2026-11-17T10:22:42.561381Z,mulciber-ocean,0.1.0,0,0,https://github.com/fairhill1/mulciber,"An FFT ocean for Mulciber games: Tessendorf wave tiles from a JONSWAP spectrum each frame, a polar grid out to the true horizon, shoaling over the game's sea bed and a flowing sea, its height read on…"
+2026-11-17T10:23:10.060763Z,venti,0.1.0,0,0,https://github.com/programmersd21/venti,fast quiet terminal multiplexer (linux only)
+2026-11-17T10:31:17.012507Z,cheap-clone-derive,0.1.0,0,0,https://github.com/al8n/cheap-clone,Derive macro for cheap-clone.
+2026-11-17T10:31:59.170677Z,ultron-claude-root,1.0.0,0,0,https://github.com/alfredosdpiii/ultron-rs,"Claude Code as the root agent of Ultron: `ultron claude`, the Claude Code runner and its session bridge"
+2026-11-17T10:36:56.143981Z,wits,2.2.0,0,0,https://github.com/aryehlev/wits,"Explain why a process is slow, and where in its code: Linux (procfs, eBPF) and macOS, any language, one binary."
+2026-11-17T10:37:48.56708Z,wayfarer-package,0.1.1,0,0,https://github.com/Limina-Agency/wayfarer,"The routing package format: open, verify, read and write routing.mrt files"
+2026-11-17T10:37:54.222498Z,wayfarer-costing,0.1.0,0,0,https://github.com/Limina-Agency/wayfarer,The edge-cost model that routing packages are built and queried with
+2026-11-17T10:37:57.438982Z,wayfarer-road-graph,0.1.0,0,0,https://github.com/Limina-Agency/wayfarer,"Road graph for routing: built from OSM ways, enhanced and quality-checked"
+2026-11-17T10:38:03.316635Z,wayfarer,0.1.0,0,0,https://github.com/Limina-Agency/wayfarer,"Offline routing engine over routing packages: routes, matrices, isochrones, map matching"
+2026-11-17T10:38:11.026293Z,wayfarer-service,0.1.0,0,0,https://github.com/Limina-Agency/wayfarer,"Routing sources, readiness and route workflows over the offline routing engine"
+2026-11-17T10:38:31.120297Z,shrinkgate,0.1.1,0,0,https://github.com/KotalaKishanReddy/shrinkgate,"ShrinkGate — a local context-shrinking gateway for coding agents (Claude Code, Codex, OpenCode, Muse Code, ...). Linux, macOS & Windows alternative to ContextShrink Code."
+2026-11-17T10:38:41.879325Z,ic-query-topology,0.110.1,0,0,https://github.com/dragginzgame/ic-query,Read-only IC infrastructure evidence for Canic topology decisions
+2026-11-17T10:40:15.737677Z,wayfarer-line-network,0.1.0,0,0,https://github.com/Limina-Agency/wayfarer,Line-network normalization: OSM ways split at shared nodes into a topology of segments with merged attributes
+2026-11-17T10:40:23.337156Z,ic-query-sns,0.105.1,0,0,https://github.com/dragginzgame/ic-query,Selected ICRC balances and SNS neuron evidence for user migration
+2026-11-17T10:41:23.546882Z,egui-pop-hooks,0.1.1,0,0,https://github.com/quazardous/egui-pop,"A small hook kernel: typed hook points, listeners with ids ordered by after/before and priority, alter and collect emits, a per-listener error boundary with panics caught and deadlines, introspection…"
+2026-11-17T10:42:08.191818Z,egui-pop-winit,0.1.1,0,0,https://github.com/quazardous/egui-pop,"The winit layer of egui-pop's runner: a winit 0.30 window id as the window's raw handles (Win32, X11, Wayland), so every window of an event loop is reachable, with no egui dependency"
+2026-11-17T10:42:28.945107Z,ultron-optimize,1.0.0,0,0,https://github.com/alfredosdpiii/ultron-rs,"ultron optimize: Ultron's own pipelines (judge seat, memory recall, autoreview) run as versioned variants against frozen test sets, offline by default; cost/quality points, failures, the Pareto front…"
+2026-11-17T10:50:49.333711Z,wayfarer-compiler,0.1.0,0,0,https://github.com/Limina-Agency/wayfarer,Compiles OSM PBF extracts into offline routing packages (routing.mrt)
+2026-11-17T10:52:52.771272Z,ultron-daemon,1.0.0,0,0,https://github.com/alfredosdpiii/ultron-rs,"Ultron's local session daemon: coordinator, server generations, session worker supervision and the session worker process"
+2026-11-17T10:56:03.38668Z,rust_win_trackpad,0.1.0,0,0,https://github.com/ZFordDev/rust_win_trackpad,"A small, temporary Windows precision-touchpad workaround."
+2026-11-17T10:58:34.062371Z,sacm,0.1.0,0,0,https://github.com/lasrod/libSACM,"Read, edit, validate and write OMG SACM 2.3 (Structured Assurance Case Metamodel) assurance cases"
+2026-11-17T10:58:37.662394Z,barbacane-sigv4,1.0.0-rc.1,0,0,https://github.com/barbacane-dev/barbacane,AWS Signature Version 4 signing primitives for Barbacane API gateway plugins
+2026-11-17T10:58:54.267598Z,sacm-cli,0.1.0,0,0,https://github.com/lasrod/libSACM,Validate and convert OMG SACM 2.3 assurance cases
+2026-11-17T11:01:21.504442Z,wayfarer-cli,0.1.0,0,0,https://github.com/Limina-Agency/wayfarer,"The wayfarer command line: compile OSM PBF extracts into offline routing packages, inspect them and route on them"
+2026-11-17T11:03:53.8099Z,ultron-agent,1.0.0,0,0,https://github.com/alfredosdpiii/ultron-rs,"The `ultron` binary: composition root (host stack, kernel), argument parsing, help, version, --list-models, session selection, print/JSON/RPC modes and `sandbox doctor`"
+2026-11-17T11:09:38.113609Z,wayfarer-ffi,0.1.0,0,0,https://github.com/Limina-Agency/wayfarer,"C ABI for the offline routing engine: open routing packages; route (waypoints, closures), matrix, isochrone, map matching, snap and navigation progress requests as JSON, with cancellation"
+2026-11-17T11:10:07.16565Z,secure-alloc,0.7.0,0,0,https://github.com/greekfetacheese/secure-types/tree/master/crates/secure-alloc,"Locked, guard-paged and canary-checked secure memory allocation with constant-time comparison and zeroing."
+2026-11-17T11:11:46.094655Z,padb,0.0.0,0,0,https://github.com/thepadb/padb,Parks & Attractions Database (PADB) API client. Placeholder.
