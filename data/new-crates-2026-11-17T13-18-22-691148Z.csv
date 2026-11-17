@@ -1,0 +1,39 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-17T12:25:09.503174Z,biome_db,0.7.2,0,0,https://github.com/biomejs/biome,Biome internal database
+2026-11-17T12:26:37.503703Z,scioxide-rootfind,0.1.0,0,0,https://github.com/kakune/scioxide,"Scalar, system, and polynomial root finding"
+2026-11-17T12:27:16.430324Z,subspace-search-onnx,0.1.0,0,0,,Subspace Framework: local ONNX reranking for full-text search. Internal crate; apps depend on `subspace-framework`.
+2026-11-17T12:27:17.943894Z,retry-please,0.1.0,0,0,https://github.com/DenisGorbachev/retry-please,Asynchronous retries
+2026-11-17T12:30:49.286933Z,nostromo,0.1.1,0,0,,"Managed Cargo build storage on macOS and Linux, with optional APFS CoW reuse"
+2026-11-17T12:32:56.765883Z,libsmx-fix,0.3.0,0,0,https://github.com/salames316/libsmx,Temporary patched libsmx with crypto-bigint 0.7 (RUSTSEC-2026-0387 fix); use upstream libsmx when fixed.
+2026-11-17T12:33:20.07614Z,agshell,0.5.1,0,0,https://github.com/adhikasp/agshell,A supervised execution shell for coding agents: per-command and per-stage exit status instead of one exit code per command string.
+2026-11-17T12:36:41.60411Z,scioxide-ode,0.1.0,0,0,https://github.com/kakune/scioxide,IVP and collocation BVP ODE solvers with events and adaptivity
+2026-11-17T12:37:28.541791Z,subspace-agent-tools,0.1.0,0,0,,"Subspace Framework: the agent tool interface boards advertise, with batched writes. Internal crate; apps depend on `subspace-framework`."
+2026-11-17T12:42:07.649665Z,slashbuilder-post-kit,0.1.0,0,0,https://github.com/slash-builder/post-kit,"Personas that write blog posts: a tool-less, schema-checked model call, deterministic checks, a hashed term guard, rendering, and gated publishing."
+2026-11-17T12:46:19.229822Z,scioxide-random,0.1.0,0,0,https://github.com/kakune/scioxide,"PRNG engines, distributions, quasi-random sequences, and sampling"
+2026-11-17T12:47:39.12489Z,subspace-client-github,0.1.0,0,0,,Subspace Framework GitHub client: REST and GraphQL types and requests. Internal crate; apps depend on `subspace-framework`.
+2026-11-17T12:49:21.525896Z,slashbuilder-storage-kit,0.2.0,0,0,https://github.com/slash-builder/storage-kit,"Content-addressed binary storage engine for the SlashBuilder Kit ecosystem: BLAKE3 addressing, recursive fragmentation, Zstd packfiles, per-partition dedup, and async local, S3 and HTTP backends"
+2026-11-17T12:54:45.268544Z,kvrail,0.0.1,0,0,https://github.com/kvrail/kvrail,KVRail: RDMA-over-Thunderbolt KV-cache store for Apple Silicon. v0.0.1 ships `kvrail doctor`.
+2026-11-17T12:55:48.558782Z,deltaui_glifo,0.5.0,0,0,https://github.com/linebender/vello,"Glifo provides APIs for efficiently rendering text. Fork of glifo on deltaui_vello_common (unchanged otherwise), for deltaui. Imported as `glifo`."
+2026-11-17T12:55:52.214497Z,deltaui_vello_gpu,0.4.0,0,0,https://github.com/linebender/vello,"A GPU renderer for Vello with CPU-side preprocessing. Fork of vello_gpu on deltaui_vello_common that reuses the strips of unchanged path operations, for deltaui. Imported as `vello_gpu`."
+2026-11-17T12:56:24.108773Z,scioxide-signal,0.1.0,0,0,https://github.com/kakune/scioxide,"Signal transforms, filters, streaming, and dense continuous/discrete LTI systems"
+2026-11-17T12:56:39.314792Z,lumen-schema,0.1.0,0,0,https://github.com/uniqtechteam/lumen,"Reads, checks and formats schema.prisma files for lumen."
+2026-11-17T12:57:09.395683Z,lumen-orm,0.1.0,0,0,https://github.com/uniqtechteam/lumen,"lumen's runtime: a query builder, relations and transactions for Postgres and MongoDB, used by the generated client."
+2026-11-17T12:57:44.162363Z,lumen-migrate,0.1.0,0,0,https://github.com/uniqtechteam/lumen,"lumen's migrations: describe a database, diff it with the schema, write and apply SQL."
+2026-11-17T12:57:48.25901Z,subspace-github-auth,0.1.0,0,0,,"Subspace Framework: Sign in with GitHub, the OAuth browser and device flows. Internal crate; apps depend on `subspace-framework`."
+2026-11-17T12:58:24.284486Z,lumen-db-codegen,0.1.0,0,0,https://github.com/uniqtechteam/lumen,Generates lumen's type-safe Rust client from a schema.prisma file.
+2026-11-17T12:58:35.048887Z,lumen-db-cli,0.1.0,0,0,https://github.com/uniqtechteam/lumen,"The lumen command: init, format, validate, migrate, db push and generate."
+2026-11-17T13:00:16.878083Z,jber,1.0.0,0,0,https://github.com/ref42/jber,"Turn Altium, KiCad and EasyEDA Gerber archives into JLCPCB-ready sets"
+2026-11-17T13:01:52.791527Z,enqrypta-sdk,0.1.0,0,0,https://github.com/qvh-inc/enqrypta-sdk,"Official Rust SDK for Enqrypta — Post-Quantum Cryptography, Secure Runtimes, and FHE"
+2026-11-17T13:02:00.290478Z,eaglet-macros,0.1.0,0,0,https://github.com/uniqtechteam/eaglet,"Procedural macros for eaglet (#[module], #[injectable], #[controller], route attributes)."
+2026-11-17T13:02:04.73182Z,slashbuilder-identity-kit,0.2.0,0,0,https://github.com/slash-builder/identity-kit,"Account, family-graph and OIDC authentication primitives for the SlashBuilder Kit ecosystem"
+2026-11-17T13:02:08.229869Z,plugin-rpc,0.1.0-alpha.1,0,0,https://github.com/DustinEwan/pluginrpc,Reference implementation of the pluginrpc wire mechanism: line-delimited JSON-RPC framing with no profile content.
+2026-11-17T13:06:18.250036Z,scioxide-stats,0.1.0,0,0,https://github.com/kakune/scioxide,Validated online statistics and exact empirical distributions
+2026-11-17T13:06:42.473312Z,chiffchaff,0.9.0,0,0,https://github.com/SmartAcoustics/chiffchaff,"Identifies exactly which build of a piece of software is running, in a record that fits a DNS TXT string."
+2026-11-17T13:07:58.703796Z,subspace-update,0.1.0,0,0,,Subspace Framework updater: checks and installs an app's own GitHub releases. Internal crate; apps depend on `subspace-framework`.
+2026-11-17T13:09:02.113864Z,tumpel-api,0.1.0,0,0,https://github.com/tumpel/protocol,"Types and a typed client for the tumpel API and host channel, generated from its TypeSpec"
+2026-11-17T13:12:09.746551Z,eaglet,0.1.0,0,0,https://github.com/uniqtechteam/eaglet,"The NestJS structure for Rust web apps: modules, providers, controllers and guards on top of Axum."
+2026-11-17T13:15:22.767231Z,thinkingdata-core,0.1.0,0,0,https://github.com/houseme/thinkingdata,"Core implementation of the ThinkingData Analytics Rust SDK: data model, validation, and log/batch/debug consumers with blocking and async APIs."
+2026-11-17T13:15:58.327399Z,thinkingdata,0.1.0,0,0,https://github.com/houseme/thinkingdata,Rust SDK for ThinkingData Analytics (TE): API entry (blocking & async) plus the `thinkingdata` CLI. Functional logic lives in thinkingdata-core.
+2026-11-17T13:16:09.987698Z,scioxide-integrate,0.1.0,0,0,https://github.com/kakune/scioxide,1D and multi-dimensional numerical integration
+2026-11-17T13:17:30.847981Z,forgesworn-qr-embedded,0.1.0,0,0,https://github.com/forgesworn/qr,Allocation-free no_std QR encoder with fixed caller-owned buffers and optional optimal text segmentation
+2026-11-17T13:18:12.110456Z,subspace-agent,0.1.0,0,0,,"Subspace Framework agent runtime: Copilot, Pi and ACP chat engines. Internal crate; apps depend on `subspace-framework`."
