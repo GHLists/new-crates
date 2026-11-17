@@ -8,49 +8,52 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-17 01:18 UTC
+## Latest list — 2026-11-17 02:20 UTC
 
-New crates published between 2026-11-17 00:19 UTC and 2026-11-17 01:18 UTC.
+New crates published between 2026-11-17 01:18 UTC and 2026-11-17 02:20 UTC.
 
-[Full CSV](data/new-crates-2026-11-17T01-18-18-997716Z.csv)
+[Full CSV](data/new-crates-2026-11-17T02-20-47-022303Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-17 00:21:15 | [libacde-paint](https://crates.io/crates/libacde-paint) | 0.0.0 | 0 | Placeholder for Dopame's libacde-paint |
-| 2026-11-17 00:23:23 | [duet-dsp](https://crates.io/crates/duet-dsp) | 0.3.0 | 0 | duet's audio analysis: samples in, events out, as a stream of stages that settl… |
-| 2026-11-17 00:23:27 | [duet-capture](https://crates.io/crates/duet-capture) | 0.3.0 | 0 | duet capture: audio files in, a Song out. Decodes takes through Symphonia, runs… |
-| 2026-11-17 00:23:39 | [duet-schemas](https://crates.io/crates/duet-schemas) | 0.3.0 | 0 | duet's documents: the envelope, the versioned kinds, the .duet and .duet.jsonl… |
-| 2026-11-17 00:27:34 | [sk-hotkeys](https://crates.io/crates/sk-hotkeys) | 0.0.0 | 0 | Reserved for Skathi; the crate is published with Skathi 0.3.0 |
-| 2026-11-17 00:30:40 | [libacde-driver](https://crates.io/crates/libacde-driver) | 0.0.0 | 0 | Placeholder for Dopame's libacde-driver |
-| 2026-11-17 00:32:27 | [lexical-ui](https://crates.io/crates/lexical-ui) | 0.1.0 | 0 | A Rust port of Lexical's model and headless packages, at parity with the JS imp… |
-| 2026-11-17 00:37:24 | [sobol-seq](https://crates.io/crates/sobol-seq) | 1.0.3 | 0 | A fast Sobol sequence generator for Rust (performance-focused fork of the `sobo… |
-| 2026-11-17 00:41:03 | [byond-wire](https://crates.io/crates/byond-wire) | 0.1.1 | 0 | Small standard-library BYOND Topic client |
-| 2026-11-17 00:41:06 | [libacde-jsrt](https://crates.io/crates/libacde-jsrt) | 0.0.0 | 0 | Placeholder for Dopame's libacde-jsrt |
-| 2026-11-17 00:43:06 | [eggpass](https://crates.io/crates/eggpass) | 0.1.1 | 0 | A lightweight, local, OpenAI-compatible proxy for Grok and ChatGPT, authenticat… |
-| 2026-11-17 00:50:32 | [libacde-remote](https://crates.io/crates/libacde-remote) | 0.0.0 | 0 | Placeholder for Dopame's libacde-remote |
-| 2026-11-17 00:51:16 | [frasil-base](https://crates.io/crates/frasil-base) | 0.1.0 | 0 | Frasil's conventions and time: deterministic CBOR, error classes, the timeline… |
-| 2026-11-17 00:51:17 | [frasil-drive](https://crates.io/crates/frasil-drive) | 0.1.0 | 0 | The drive extension (ext-drive.md): a file tree in a Loro document. An internal… |
-| 2026-11-17 00:51:17 | [frasil-index-derive](https://crates.io/crates/frasil-index-derive) | 0.1.0 | 0 | The derive macro of frasil's `index` feature. An internal building block of Fra… |
-| 2026-11-17 00:51:25 | [frasil-adapter](https://crates.io/crates/frasil-adapter) | 0.1.0 | 0 | Frasil's adapter interface. An internal building block of Frasil, less stable t… |
-| 2026-11-17 00:51:25 | [mime-guardian](https://crates.io/crates/mime-guardian) | 0.1.0 | 0 | Keeps your default applications the way you set them |
-| 2026-11-17 00:51:25 | [frasil-crypto](https://crates.io/crates/frasil-crypto) | 0.1.0 | 0 | Frasil's primitives, key checks, the X-Wing wrap and signature schemes 0 and 2.… |
-| 2026-11-17 00:51:26 | [frasil-resolve](https://crates.io/crates/frasil-resolve) | 0.1.0 | 0 | Frasil's resolution procedure, shared by the roster, the device list and the pe… |
-| 2026-11-17 00:53:05 | [semlex-schema](https://crates.io/crates/semlex-schema) | 0.1.0 | 0 | Serde model of Weaver's resolved/2.0 registry and the effective-attribute resol… |
-| 2026-11-17 00:53:07 | [semlex-expand](https://crates.io/crates/semlex-expand) | 0.1.0 | 0 | Expansion engine for semlex: pure functions from registry schema and call-site… |
-| 2026-11-17 00:53:09 | [semlex-macros](https://crates.io/crates/semlex-macros) | 0.1.0 | 0 | Proc-macro shim for semlex: registry!() and the call-site macros. |
-| 2026-11-17 00:53:11 | [semlex](https://crates.io/crates/semlex) | 0.1.0 | 0 | Compile-time OpenTelemetry semantic conventions for Rust, straight from your We… |
-| 2026-11-17 01:01:01 | [libtracefs-core](https://crates.io/crates/libtracefs-core) | 0.0.0 | 0 | Placeholder for Dopame's libtracefs-core |
-| 2026-11-17 01:03:01 | [frasil-adapter-loro](https://crates.io/crates/frasil-adapter-loro) | 0.1.0 | 0 | Frasil's Loro adapter. An internal building block of Frasil, less stable than t… |
-| 2026-11-17 01:03:07 | [jazz-model](https://crates.io/crates/jazz-model) | 2.0.0-alpha.65.66-r… | 0 | Jazz's data model layer: schema, queries, transactions and the public schema mo… |
-| 2026-11-17 01:03:12 | [jazz-protocol](https://crates.io/crates/jazz-protocol) | 2.0.0-alpha.65.66-r… | 0 | Jazz's protocol layer: sync messages, wire frames, protocol limits and authoriz… |
-| 2026-11-17 01:03:15 | [jazz-db](https://crates.io/crates/jazz-db) | 2.0.0-alpha.65.66-r… | 0 | Jazz's database: the thread-affine Db facade over SQLite. |
-| 2026-11-17 01:03:16 | [miresidian_encoding](https://crates.io/crates/miresidian_encoding) | 0.5.1 | 0 | Miresidian 显式格式编解码增强。 |
-| 2026-11-17 01:03:19 | [jazz-core](https://crates.io/crates/jazz-core) | 2.0.0-alpha.65.66-r… | 0 | Jazz's engine: a local-first, distributed, real-time database with full edit hi… |
-| 2026-11-17 01:03:22 | [jazz-native-transport](https://crates.io/crates/jazz-native-transport) | 2.0.0-alpha.65.66-r… | 0 | Native (non-browser) WebSocket transport between Jazz clients and servers. |
-| 2026-11-17 01:08:33 | [robit-wechat](https://crates.io/crates/robit-wechat) | 0.3.0 | 0 | WeChat iLink Bot platform frontend for the robit agent. |
-| 2026-11-17 01:10:24 | [libtracefsd](https://crates.io/crates/libtracefsd) | 0.0.0 | 0 | Placeholder for Dopame's libtracefsd |
-| 2026-11-17 01:14:07 | [frasil-adapter-records](https://crates.io/crates/frasil-adapter-records) | 0.1.0 | 0 | Frasil's Records adapter. An internal building block of Frasil, less stable tha… |
-| 2026-11-17 01:15:19 | [tightbeam-wire](https://crates.io/crates/tightbeam-wire) | 0.1.0 | 0 | The envelope rules that message-oriented socket transports of tightbeam share |
+| 2026-11-17 01:19:28 | [pnv](https://crates.io/crates/pnv) | 0.1.0 | 0 | Encrypted secrets in YAML files that are safe to commit, readable from build sc… |
+| 2026-11-17 01:20:00 | [typemotion-art-svg](https://crates.io/crates/typemotion-art-svg) | 0.1.0 | 0 | Generate lightweight SVG graphics for TypeMotion.Art workflows |
+| 2026-11-17 01:20:21 | [livelychart-svg](https://crates.io/crates/livelychart-svg) | 0.1.0 | 0 | Generate lightweight SVG graphics for LivelyChart workflows |
+| 2026-11-17 01:20:35 | [aiwhiteboard-video-svg](https://crates.io/crates/aiwhiteboard-video-svg) | 0.1.0 | 0 | Generate lightweight SVG graphics for AIWhiteboard.Video workflows |
+| 2026-11-17 01:20:50 | [sparkmeld-storyboard-svg](https://crates.io/crates/sparkmeld-storyboard-svg) | 0.1.0 | 0 | Generate lightweight SVG graphics for SparkMeld workflows |
+| 2026-11-17 01:20:58 | [libagent-os](https://crates.io/crates/libagent-os) | 0.0.0 | 0 | Placeholder for Dopame's libagent-os |
+| 2026-11-17 01:21:04 | [tokmeme-caption-svg](https://crates.io/crates/tokmeme-caption-svg) | 0.1.0 | 0 | Generate lightweight SVG graphics for TokMeme workflows |
+| 2026-11-17 01:21:54 | [stanza-lsm](https://crates.io/crates/stanza-lsm) | 0.1.0 | 0 | Crash-safe WAL and prefix-compressed LSM-tree storage engine with deterministic… |
+| 2026-11-17 01:22:02 | [goodmem](https://crates.io/crates/goodmem) | 0.1.0 | 0 | Typed asynchronous Rust SDK for the GoodMem REST API |
+| 2026-11-17 01:24:00 | [qso-io](https://crates.io/crates/qso-io) | 0.1.0 | 0 | Amateur radio data interchange with strict and permissive ADI parsing |
+| 2026-11-17 01:25:04 | [frasil-adapter-blobs](https://crates.io/crates/frasil-adapter-blobs) | 0.1.0 | 0 | Frasil's Blobs adapter. An internal building block of Frasil, less stable than… |
+| 2026-11-17 01:35:52 | [frasil-events](https://crates.io/crates/frasil-events) | 0.1.0 | 0 | Frasil's event envelope, event IDs, placement, chains, fork evidence, anchors a… |
+| 2026-11-17 01:39:08 | [tweener](https://crates.io/crates/tweener) | 0.1.1 | 0 | One-dimensional tweening library. |
+| 2026-11-17 01:47:27 | [frasil-identity](https://crates.io/crates/frasil-identity) | 0.1.0 | 0 | Frasil's identity: device keys, device lists, recovery, passkeys, fingerprints… |
+| 2026-11-17 01:48:31 | [greensummit](https://crates.io/crates/greensummit) | 2.0.0 | 0 | Sign and verify attestations that a test suite already passed on a tree, so CI… |
+| 2026-11-17 01:50:14 | [newmean-pii](https://crates.io/crates/newmean-pii) | 1.6.0 | 0 | On-device PII detection, masking and extraction in 54 languages: small models (… |
+| 2026-11-17 01:50:44 | [ursa-shell](https://crates.io/crates/ursa-shell) | 0.9.0 | 0 | Ursa's shell apart from the terminal: dot-commands, results drawn as tables, an… |
+| 2026-11-17 01:51:23 | [jazz-app-support](https://crates.io/crates/jazz-app-support) | 2.0.0-alpha.65.66-r… | 0 | Typed, Send + Clone Rust handle for a Jazz app opened from its jazz.app.json |
+| 2026-11-17 01:51:27 | [jazz-codegen](https://crates.io/crates/jazz-codegen) | 2.0.0-alpha.65.66-r… | 0 | Typed bindings and migration stubs generated from an app's jazz.app.json |
+| 2026-11-17 01:51:31 | [jazz-ffi](https://crates.io/crates/jazz-ffi) | 2.0.0-alpha.65.66-r… | 0 | JSON-in/JSON-out bindings of jazz-app-support for Swift and Kotlin (UniFFI) and… |
+| 2026-11-17 01:51:34 | [jazz-otel](https://crates.io/crates/jazz-otel) | 2.0.0-alpha.65.66-r… | 0 | OpenTelemetry export for Jazz servers. |
+| 2026-11-17 01:51:37 | [jazz-server](https://crates.io/crates/jazz-server) | 2.0.0-alpha.65.66-r… | 0 | The Jazz sync server, as a library. |
+| 2026-11-17 01:52:59 | [ulo-conformance-support](https://crates.io/crates/ulo-conformance-support) | 0.1.0-alpha.3 | 0 | The harness pieces the Ulo conformance suites share |
+| 2026-11-17 01:54:00 | [ulo-runtime-conformance](https://crates.io/crates/ulo-runtime-conformance) | 0.1.0-alpha.3 | 0 | The conformance suite every Ulo runtime runs |
+| 2026-11-17 01:56:38 | [ulo-rpc-conformance](https://crates.io/crates/ulo-rpc-conformance) | 0.1.0-alpha.3 | 0 | The conformance suite every Ulo RPC link runs |
+| 2026-11-17 01:58:25 | [frasil-app-requests](https://crates.io/crates/frasil-app-requests) | 0.1.0 | 0 | Frasil's device-signed requests to application servers: signer and verifier. An… |
+| 2026-11-17 02:00:39 | [falak-driver-sqlite](https://crates.io/crates/falak-driver-sqlite) | 1.1.0 | 0 | SQLite storage driver. |
+| 2026-11-17 02:00:41 | [falak-egress](https://crates.io/crates/falak-egress) | 1.1.0 | 0 | Outbound request allow-list with private-address blocking. |
+| 2026-11-17 02:00:47 | [falak-ledger](https://crates.io/crates/falak-ledger) | 1.1.0 | 0 | Double-entry ledger: commands, PostgreSQL execution, reconciliation, sagas. |
+| 2026-11-17 02:00:55 | [falak-storage](https://crates.io/crates/falak-storage) | 1.1.0 | 0 | Object storage presigning and upload checks. |
+| 2026-11-17 02:00:57 | [falak-audit](https://crates.io/crates/falak-audit) | 1.1.0 | 0 | Hash-chained, append-only audit log. |
+| 2026-11-17 02:01:01 | [dspk-session](https://crates.io/crates/dspk-session) | 0.0.11 | 0 | The dspk session document: recordings, views with their processing, the graph o… |
+| 2026-11-17 02:01:24 | [falak-auth](https://crates.io/crates/falak-auth) | 1.1.0 | 0 | Local identity: passwords, sessions, Ed25519 tokens. |
+| 2026-11-17 02:04:11 | [slashbuilder-spec-kit](https://crates.io/crates/slashbuilder-spec-kit) | 0.1.0 | 0 | Protocol-specification methodology and conformance harness primitives for the S… |
+| 2026-11-17 02:07:25 | [cvfs](https://crates.io/crates/cvfs) | 0.1.0 | 0 | Cross-platform filesystem storage backend for CareerVector workspaces: conditio… |
+| 2026-11-17 02:09:07 | [frasil-keys](https://crates.io/crates/frasil-keys) | 0.1.0 | 0 | Frasil's key formats: rotations, derivations, bundles, wraps, links and sealed… |
+| 2026-11-17 02:11:24 | [falak-migrate](https://crates.io/crates/falak-migrate) | 1.1.0 | 0 | Migration planning and application. |
+| 2026-11-17 02:20:10 | [frasil-libraries](https://crates.io/crates/frasil-libraries) | 0.1.0 | 0 | Frasil's libraries extension: tickets, issuer signing and ticket checks. An int… |
 
 ## Data source
 
