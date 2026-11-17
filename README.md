@@ -8,43 +8,57 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-17 11:18 UTC
+## Latest list — 2026-11-17 12:19 UTC
 
-New crates published between 2026-11-17 10:18 UTC and 2026-11-17 11:18 UTC.
+New crates published between 2026-11-17 11:18 UTC and 2026-11-17 12:19 UTC.
 
-[Full CSV](data/new-crates-2026-11-17T11-18-24-120853Z.csv)
+[Full CSV](data/new-crates-2026-11-17T12-19-03-009066Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-17 10:21:28 | [ultron-session-core](https://crates.io/crates/ultron-session-core) | 1.0.0 | 0 | One session's runtime, shared by every mode through the session worker: the rlm… |
-| 2026-11-17 10:22:42 | [mulciber-ocean](https://crates.io/crates/mulciber-ocean) | 0.1.0 | 0 | An FFT ocean for Mulciber games: Tessendorf wave tiles from a JONSWAP spectrum… |
-| 2026-11-17 10:23:10 | [venti](https://crates.io/crates/venti) | 0.1.0 | 0 | fast quiet terminal multiplexer (linux only) |
-| 2026-11-17 10:31:17 | [cheap-clone-derive](https://crates.io/crates/cheap-clone-derive) | 0.1.0 | 0 | Derive macro for cheap-clone. |
-| 2026-11-17 10:31:59 | [ultron-claude-root](https://crates.io/crates/ultron-claude-root) | 1.0.0 | 0 | Claude Code as the root agent of Ultron: `ultron claude`, the Claude Code runne… |
-| 2026-11-17 10:36:56 | [wits](https://crates.io/crates/wits) | 2.2.0 | 0 | Explain why a process is slow, and where in its code: Linux (procfs, eBPF) and… |
-| 2026-11-17 10:37:48 | [wayfarer-package](https://crates.io/crates/wayfarer-package) | 0.1.1 | 0 | The routing package format: open, verify, read and write routing.mrt files |
-| 2026-11-17 10:37:54 | [wayfarer-costing](https://crates.io/crates/wayfarer-costing) | 0.1.0 | 0 | The edge-cost model that routing packages are built and queried with |
-| 2026-11-17 10:37:57 | [wayfarer-road-graph](https://crates.io/crates/wayfarer-road-graph) | 0.1.0 | 0 | Road graph for routing: built from OSM ways, enhanced and quality-checked |
-| 2026-11-17 10:38:03 | [wayfarer](https://crates.io/crates/wayfarer) | 0.1.0 | 0 | Offline routing engine over routing packages: routes, matrices, isochrones, map… |
-| 2026-11-17 10:38:11 | [wayfarer-service](https://crates.io/crates/wayfarer-service) | 0.1.0 | 0 | Routing sources, readiness and route workflows over the offline routing engine |
-| 2026-11-17 10:38:31 | [shrinkgate](https://crates.io/crates/shrinkgate) | 0.1.1 | 0 | ShrinkGate — a local context-shrinking gateway for coding agents (Claude Code,… |
-| 2026-11-17 10:38:41 | [ic-query-topology](https://crates.io/crates/ic-query-topology) | 0.110.1 | 0 | Read-only IC infrastructure evidence for Canic topology decisions |
-| 2026-11-17 10:40:15 | [wayfarer-line-network](https://crates.io/crates/wayfarer-line-network) | 0.1.0 | 0 | Line-network normalization: OSM ways split at shared nodes into a topology of s… |
-| 2026-11-17 10:40:23 | [ic-query-sns](https://crates.io/crates/ic-query-sns) | 0.105.1 | 0 | Selected ICRC balances and SNS neuron evidence for user migration |
-| 2026-11-17 10:41:23 | [egui-pop-hooks](https://crates.io/crates/egui-pop-hooks) | 0.1.1 | 0 | A small hook kernel: typed hook points, listeners with ids ordered by after/bef… |
-| 2026-11-17 10:42:08 | [egui-pop-winit](https://crates.io/crates/egui-pop-winit) | 0.1.1 | 0 | The winit layer of egui-pop's runner: a winit 0.30 window id as the window's ra… |
-| 2026-11-17 10:42:28 | [ultron-optimize](https://crates.io/crates/ultron-optimize) | 1.0.0 | 0 | ultron optimize: Ultron's own pipelines (judge seat, memory recall, autoreview)… |
-| 2026-11-17 10:50:49 | [wayfarer-compiler](https://crates.io/crates/wayfarer-compiler) | 0.1.0 | 0 | Compiles OSM PBF extracts into offline routing packages (routing.mrt) |
-| 2026-11-17 10:52:52 | [ultron-daemon](https://crates.io/crates/ultron-daemon) | 1.0.0 | 0 | Ultron's local session daemon: coordinator, server generations, session worker… |
-| 2026-11-17 10:56:03 | [rust_win_trackpad](https://crates.io/crates/rust_win_trackpad) | 0.1.0 | 0 | A small, temporary Windows precision-touchpad workaround. |
-| 2026-11-17 10:58:34 | [sacm](https://crates.io/crates/sacm) | 0.1.0 | 0 | Read, edit, validate and write OMG SACM 2.3 (Structured Assurance Case Metamode… |
-| 2026-11-17 10:58:37 | [barbacane-sigv4](https://crates.io/crates/barbacane-sigv4) | 1.0.0-rc.1 | 0 | AWS Signature Version 4 signing primitives for Barbacane API gateway plugins |
-| 2026-11-17 10:58:54 | [sacm-cli](https://crates.io/crates/sacm-cli) | 0.1.0 | 0 | Validate and convert OMG SACM 2.3 assurance cases |
-| 2026-11-17 11:01:21 | [wayfarer-cli](https://crates.io/crates/wayfarer-cli) | 0.1.0 | 0 | The wayfarer command line: compile OSM PBF extracts into offline routing packag… |
-| 2026-11-17 11:03:53 | [ultron-agent](https://crates.io/crates/ultron-agent) | 1.0.0 | 0 | The `ultron` binary: composition root (host stack, kernel), argument parsing, h… |
-| 2026-11-17 11:09:38 | [wayfarer-ffi](https://crates.io/crates/wayfarer-ffi) | 0.1.0 | 0 | C ABI for the offline routing engine: open routing packages; route (waypoints,… |
-| 2026-11-17 11:10:07 | [secure-alloc](https://crates.io/crates/secure-alloc) | 0.7.0 | 0 | Locked, guard-paged and canary-checked secure memory allocation with constant-t… |
-| 2026-11-17 11:11:46 | [padb](https://crates.io/crates/padb) | 0.0.0 | 0 | Parks & Attractions Database (PADB) API client. Placeholder. |
+| 2026-11-17 11:19:08 | [axtb-base](https://crates.io/crates/axtb-base) | 0.2.0-alpha.1 | 0 | Shared foundation of the axtb crates: molecules, errors, units, element tables,… |
+| 2026-11-17 11:23:44 | [encore-redis-commands](https://crates.io/crates/encore-redis-commands) | 2.0.0-beta.9 | 0 | Redis's command table: flags, ACL categories and key positions, generated from… |
+| 2026-11-17 11:23:55 | [encore-pubsub-filter](https://crates.io/crates/encore-pubsub-filter) | 2.0.0-beta.9 | 0 | Pub/Sub subscription filters: the language, its checks against GCP Pub/Sub's an… |
+| 2026-11-17 11:24:37 | [encore-reqauth](https://crates.io/crates/encore-reqauth) | 2.0.0-beta.9 | 0 | The wire protocol of Encore's service-to-service request auth |
+| 2026-11-17 11:24:48 | [encore-call-signing](https://crates.io/crates/encore-call-signing) | 2.0.0-beta.9 | 0 | The Encore signing service: signing and verifying calls between containers for… |
+| 2026-11-17 11:24:58 | [encore-pubsub-push](https://crates.io/crates/encore-pubsub-push) | 2.0.0-beta.9 | 0 | Taking GCP Pub/Sub pushes in an Encore container |
+| 2026-11-17 11:25:37 | [scioxide-core](https://crates.io/crates/scioxide-core) | 0.1.0 | 0 | Scalar traits, error types, tolerance, and interval primitives for SciOxide |
+| 2026-11-17 11:25:39 | [scioxide-differentiate](https://crates.io/crates/scioxide-differentiate) | 0.1.0 | 0 | Numerical differentiation and derivative selection for SciOxide |
+| 2026-11-17 11:25:40 | [scioxide-sparse](https://crates.io/crates/scioxide-sparse) | 0.1.0 | 0 | Canonical sparse storage, kernels, and preconditioners for SciOxide |
+| 2026-11-17 11:25:42 | [scioxide-linalg](https://crates.io/crates/scioxide-linalg) | 0.1.0 | 0 | Dense matrices, decompositions, and iterative solvers for SciOxide |
+| 2026-11-17 11:25:44 | [scioxide-ad](https://crates.io/crates/scioxide-ad) | 0.1.0 | 0 | Forward and reverse automatic differentiation |
+| 2026-11-17 11:27:54 | [encore-runtime-proxy](https://crates.io/crates/encore-runtime-proxy) | 2.0.0-beta.9 | 0 | The Encore runtime reverse proxy, routing requests to hosted services |
+| 2026-11-17 11:28:46 | [z3d_engine](https://crates.io/crates/z3d_engine) | 0.0.1 | 0 | Reserved for the Z3D game engine by Zetta 3D. Not ready for use yet. |
+| 2026-11-17 11:28:48 | [z3d_cli](https://crates.io/crates/z3d_cli) | 0.0.1 | 0 | Reserved for the command-line tool of the Z3D game engine by Zetta 3D. Not read… |
+| 2026-11-17 11:30:25 | [ajiro-api](https://crates.io/crates/ajiro-api) | 0.1.6 | 0 | API definitions, regression tests and mocks generated by AI coding agents from… |
+| 2026-11-17 11:36:28 | [subspace-agent-model](https://crates.io/crates/subspace-agent-model) | 0.1.0 | 0 | Subspace Framework: neutral chat context, session summaries and image drafts. I… |
+| 2026-11-17 11:36:32 | [subspace-charts](https://crates.io/crates/subspace-charts) | 0.1.0 | 0 | Subspace Framework charts: the chart model, Chart.js conversion and Flint compi… |
+| 2026-11-17 11:36:35 | [subspace-client-test-support](https://crates.io/crates/subspace-client-test-support) | 0.1.0 | 0 | Subspace Framework: offline HTTP fixtures for client tests. Internal crate; app… |
+| 2026-11-17 11:36:38 | [subspace-contracts](https://crates.io/crates/subspace-contracts) | 0.1.0 | 0 | Subspace Framework: typed, versioned board-to-board contracts. Internal crate;… |
+| 2026-11-17 11:36:42 | [subspace-lucide](https://crates.io/crates/subspace-lucide) | 0.1.0 | 0 | Subspace Framework: Lucide icons for GPUI Kit controls, selected by the linker.… |
+| 2026-11-17 11:37:30 | [scioxide-spatial](https://crates.io/crates/scioxide-spatial) | 0.1.0 | 0 | Geometry, topology, distance metrics, and borrowed KD-tree search for SciOxide |
+| 2026-11-17 11:37:47 | [bruce-embedded-sim](https://crates.io/crates/bruce-embedded-sim) | 0.2.0 | 0 | Bruce's Standard Library Embedded Platform's board simulator: firmware for the… |
+| 2026-11-17 11:38:03 | [encore-gateway](https://crates.io/crates/encore-gateway) | 2.0.0-beta.9 | 0 | The Encore Gateway Core: the gateway of an Encore application as a library, wit… |
+| 2026-11-17 11:39:53 | [hdds-xrce](https://crates.io/crates/hdds-xrce) | 0.1.0 | 0 | DDS-XRCE v1.0 agent/client bridge for resource-constrained devices |
+| 2026-11-17 11:39:59 | [hdds-influx-sink](https://crates.io/crates/hdds-influx-sink) | 0.1.0 | 0 | InfluxDB sink for HDDS DDS topics |
+| 2026-11-17 11:40:25 | [dbmigrator_core](https://crates.io/crates/dbmigrator_core) | 0.4.6 | 0 | Core recipe loading and parsing for the dbmigrator crate |
+| 2026-11-17 11:40:40 | [dbmigrator_macros](https://crates.io/crates/dbmigrator_macros) | 0.4.6 | 0 | Procedural macros for the dbmigrator crate |
+| 2026-11-17 11:43:15 | [authorization_contract](https://crates.io/crates/authorization_contract) | 0.1.0 | 0 | Generic authorization request and decision types, an Authorizer trait, an exact… |
+| 2026-11-17 11:46:46 | [subspace-product](https://crates.io/crates/subspace-product) | 0.1.0 | 0 | Subspace Framework: product descriptors, build info, aliases and paths. Interna… |
+| 2026-11-17 11:46:55 | [scioxide-special](https://crates.io/crates/scioxide-special) | 0.1.0 | 0 | Special functions (gamma, bessel, error, elliptic, airy) for SciOxide |
+| 2026-11-17 11:47:54 | [encore-sdk-core-gateway](https://crates.io/crates/encore-sdk-core-gateway) | 2.0.0-beta.9 | 0 | The Encore SDK core with the Gateway Core, for gateway programs |
+| 2026-11-17 11:56:51 | [subspace-search](https://crates.io/crates/subspace-search) | 0.1.0 | 0 | Subspace Framework: scoped persistent SQLite full-text search. Internal crate;… |
+| 2026-11-17 11:57:01 | [scioxide-fft](https://crates.io/crates/scioxide-fft) | 0.1.0 | 0 | Planned FFT/IFFT, DCT/DST, and transform utilities |
+| 2026-11-17 12:01:38 | [osm-tile-compiler](https://crates.io/crates/osm-tile-compiler) | 0.1.0 | 0 | Compiles an OpenStreetMap .osm.pbf into an OpenMapTiles-schema basemap as one P… |
+| 2026-11-17 12:06:55 | [subspace-web](https://crates.io/crates/subspace-web) | 0.1.0 | 0 | Subspace Framework: bounded, SSRF-safe web research. Internal crate; apps depen… |
+| 2026-11-17 12:06:57 | [scioxide-poly](https://crates.io/crates/scioxide-poly) | 0.1.0 | 0 | Exact algebra and basis-aware approximate polynomials with diagnostics |
+| 2026-11-17 12:10:08 | [formatjs_temporal](https://crates.io/crates/formatjs_temporal) | 1.0.0 | 0 | Temporal calendar, date, time and timezone primitives |
+| 2026-11-17 12:10:45 | [iktinos-core](https://crates.io/crates/iktinos-core) | 0.3.0 | 0 | Claude Code sessions as data: read the local transcripts (~/.claude/projects) i… |
+| 2026-11-17 12:16:48 | [scioxide-interp](https://crates.io/crates/scioxide-interp) | 0.1.0 | 0 | Interpolation, tensor and rational splines, local models, and fixed-covariance… |
+| 2026-11-17 12:17:06 | [subspace-core](https://crates.io/crates/subspace-core) | 0.1.0 | 0 | Subspace Framework core: config file, credentials, HTTP agent, state and PATH l… |
+| 2026-11-17 12:17:12 | [nextest-libtest-json](https://crates.io/crates/nextest-libtest-json) | 0.0.0 | 0 | Serde types and parser for nextest and libtest JSON test output |
+| 2026-11-17 12:17:15 | [rustc-self-profile](https://crates.io/crates/rustc-self-profile) | 0.0.0 | 0 | Read and summarize rustc -Zself-profile data |
+| 2026-11-17 12:17:17 | [cargo-timings-parse](https://crates.io/crates/cargo-timings-parse) | 0.0.0 | 0 | Parse and analyze cargo --timings reports |
 
 ## Data source
 
