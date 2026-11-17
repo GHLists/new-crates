@@ -1,0 +1,73 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-17T22:23:01.482792Z,grana-brand,0.2.0,0,0,https://github.com/formetaohy/Grana,Next-generation microscopy image visualization and analysis platform
+2026-11-17T22:23:08.066839Z,prime-dialog,0.1.0,0,0,https://github.com/anton-avramchuk/prime-rs,prime-rs: Dialog component (PrimeNG port)
+2026-11-17T22:24:05.843571Z,aurelia-steam-vent-proto-common,0.6.0,0,0,https://codeberg.org/Drackrath/proto,Trait for protobuf structs used by the Steam client protocol
+2026-11-17T22:24:09.394079Z,aurelia-steam-vent-proto-steam,0.6.0,0,0,https://codeberg.org/Drackrath/proto,Protobuf structs used by the Steam client protocol for Steam
+2026-11-17T22:24:12.937699Z,aurelia-steam-vent-proto,0.6.0,0,0,https://codeberg.org/Drackrath/proto,Protobuf structs used by the Steam client protocol
+2026-11-17T22:26:08.503409Z,ignit-iced-wgpu,0.15.0-ignit.1,0,0,https://forgejo.sakul-flee.de/SakulFlee/Ignit-Iced,A renderer for iced on top of wgpu (Ignit fork)
+2026-11-17T22:27:05.040473Z,ghostmode,0.0.1,0,0,https://github.com/legend-of-alan/ghostmode,Code Mode for Rust agents: sandboxed execute and poll tools for agentic REPL loops.
+2026-11-17T22:27:07.130208Z,spookery,0.0.1,0,0,https://github.com/legend-of-alan/spookery,An engine that referees persistent text worlds.
+2026-11-17T22:27:52.628241Z,aurelia-steam-vent-crypto,0.3.0,0,0,https://codeberg.org/steam-vent/steam-vent,Rust implementation of Steam crypto
+2026-11-17T22:29:08.917373Z,novafile-derive,0.1.0,0,0,https://github.com/novafile/nova,#[derive(NovaSchema)]: NOVA schemas from Rust types
+2026-11-17T22:29:09.528143Z,novafile-value,0.1.0,0,0,https://github.com/novafile/nova,"NOVA semantic value model, canonical encoding and revisions"
+2026-11-17T22:29:11.620624Z,novafile-binary,0.1.0,0,0,https://github.com/novafile/nova,NOVA framed binary representation and streams
+2026-11-17T22:29:15.008843Z,novafile-text,0.1.0,0,0,https://github.com/novafile/nova,"NOVA text syntax: parser, writer profiles, paths and template AST"
+2026-11-17T22:29:17.613781Z,novafile-schema,0.1.0,0,0,https://github.com/novafile/nova,"NOVA schema language: types, constraints, resolution and compatibility"
+2026-11-17T22:29:33.982305Z,novomq,0.6.1,0,0,https://github.com/novomation/novo_mq,Simple real-time messaging
+2026-11-17T22:33:08.561893Z,grana-editor,0.2.0,0,0,https://github.com/formetaohy/Grana,Next-generation microscopy image visualization and analysis platform
+2026-11-17T22:33:33.138558Z,prime-confirmdialog,0.1.0,0,0,https://github.com/anton-avramchuk/prime-rs,prime-rs: ConfirmDialog component (PrimeNG port)
+2026-11-17T22:33:58.183457Z,tilth-core-fork,0.15.1,0,0,https://github.com/MerlinScheurer/tilth-core,"The parsing substrate under tilth: tree-sitter outlines, language detection, imports, call sites and file-level dependencies."
+2026-11-17T22:36:09.292566Z,ignit-iced-renderer,0.15.0-ignit.1,0,0,https://forgejo.sakul-flee.de/SakulFlee/Ignit-Iced,The official renderer for iced (Ignit fork)
+2026-11-17T22:36:30.956795Z,novafile-formats,0.1.0,0,0,https://github.com/novafile/nova,"YAML, TOML and CBOR <-> NOVA value adapters with explicit loss reporting"
+2026-11-17T22:39:16.079827Z,rustfn,0.1.1,0,0,,Async Rust client SDK and party/social manager for Epic Online Services and Fortnite
+2026-11-17T22:39:49.231011Z,raio-macros,0.1.0,0,0,https://github.com/raio-robotics/raio,"The derive macros of raio, a deterministic realtime async runtime"
+2026-11-17T22:39:57.338429Z,raio-rs,0.1.0,0,0,https://github.com/raio-robotics/raio,A deterministic realtime async runtime
+2026-11-17T22:42:50.922729Z,grana-app,0.2.0,0,0,https://github.com/formetaohy/Grana,Next-generation microscopy image visualization and analysis platform
+2026-11-17T22:43:37.400554Z,prime-confirmpopup,0.1.0,0,0,https://github.com/anton-avramchuk/prime-rs,prime-rs: ConfirmPopup component (PrimeNG port)
+2026-11-17T22:46:11.638636Z,tgws-bridge,0.1.0,0,0,https://github.com/Nekiplay/gorilla-bot-tg,"Local SOCKS5 bridge to a TgWsProxy instance: obfuscated2 client handshake, transport-tag stripping and dial-with-replay, so any MTProto client can use a local proxy process"
+2026-11-17T22:46:12.470378Z,ignit-iced-program,0.15.0-ignit.1,0,0,https://forgejo.sakul-flee.de/SakulFlee/Ignit-Iced,The definition of an iced program (Ignit fork)
+2026-11-17T22:46:59.444564Z,novafile-json,0.1.0,0,0,https://github.com/novafile/nova,JSON <-> NOVA value mapping with explicit loss reporting
+2026-11-17T22:47:09.304608Z,fsend-proto,0.1.0,0,0,https://github.com/maxomatic458/fsend,"Protocol types shared by the fsend CLI, relay and web app"
+2026-11-17T22:48:47.417717Z,acrylmicrovm-shared,0.13.1,0,0,https://github.com/acryldev/acrylmicrovm,Shared types and protocol definitions for AcrylMicrovm host-guest communication
+2026-11-17T22:48:55.037521Z,acrylmicrovm-libkrun-sys,0.13.1,0,0,https://github.com/acryldev/acrylmicrovm,FFI bindings to libkrun and libkrunfw
+2026-11-17T22:48:57.933379Z,acrylmicrovm-libgvproxy-sys,0.13.1,0,0,https://github.com/acryldev/acrylmicrovm,FFI bindings to gvproxy-bridge C library
+2026-11-17T22:48:59.883937Z,acrylmicrovm-e2fsprogs-sys,0.13.1,0,0,https://github.com/acryldev/acrylmicrovm,Builds and bundles mke2fs from e2fsprogs
+2026-11-17T22:49:09.764995Z,acrylmicrovm-bubblewrap-sys,0.13.1,0,0,https://github.com/acryldev/acrylmicrovm,Builds and bundles bwrap from bubblewrap
+2026-11-17T22:49:29.993375Z,acrylmicrovm-hypervisor,0.13.1,0,0,https://github.com/acryldev/acrylmicrovm,Host hypervisor backends for AcrylMicrovm's VMM
+2026-11-17T22:49:52.409169Z,tilth-fork,0.15.1,0,0,https://github.com/MerlinScheurer/tilth,"Smart code reading for AI agents. Definitions, callers, deps and function-level diffs from tree-sitter."
+2026-11-17T22:51:08.270149Z,nordisk-heimdall-follower-core,0.1.0,0,0,https://gunnar.rs/nordisk/heimdall,Bounded no_std state transitions for Heimdall's defensive graph follower
+2026-11-17T22:51:18.416702Z,rs-arrow-dates2pgcopy,0.1.0,0,0,https://github.com/takanoriyanagitani/rs-arrow-dates2pgcopy,Converts the date items in the array to pgcopy bytes.
+2026-11-17T22:51:19.88043Z,libc-rs,0.0.1,0,0,https://github.com/pathscale/libc-rs,Pure-Rust no_std native runtime and capability call substrate for unikernel environments
+2026-11-17T22:51:27.516545Z,nordisk-heimdall-follower-host,0.1.0,0,0,https://gunnar.rs/nordisk/heimdall,Host attachment and completed-run diagnostics for Heimdall's graph follower
+2026-11-17T22:53:40.959096Z,prime-menu,0.1.0,0,0,https://github.com/anton-avramchuk/prime-rs,prime-rs: Menu component (PrimeNG port)
+2026-11-17T22:54:43.314389Z,loop-manager-contract,0.0.1,0,0,https://github.com/kvokka/loop-manager,"Contracts of the core of loop-manager: the config, the driver and tracker interfaces, the event envelope"
+2026-11-17T22:54:46.068305Z,loop-manager-addons,0.0.1,0,0,https://github.com/kvokka/loop-manager,The addons bundled with loop-manager: default-policy and worktree
+2026-11-17T22:54:47.326883Z,loop-manager-br,0.0.1,0,0,https://github.com/kvokka/loop-manager,The br tracker adapter of loop-manager
+2026-11-17T22:54:49.10695Z,loop-manager-core,0.0.1,0,0,https://github.com/kvokka/loop-manager,"Core of loop-manager: the single writer of the runtime state, the engine over loop-manager-contract"
+2026-11-17T22:54:53.507894Z,loop-manager-front,0.0.1,0,0,https://github.com/kvokka/loop-manager,Frontends of loop-manager: the HTTP API on a unix socket and its client
+2026-11-17T22:55:01.735788Z,mscan,0.1.0,0,0,https://github.com/precious-adeyinka/mscan,A small concurrent TCP port scanner
+2026-11-17T22:55:05.111956Z,sockat,0.1.0,0,0,https://github.com/kawaz/sockat,Bind and connect Unix domain sockets whose path is longer than sun_path allows
+2026-11-17T22:56:07.740342Z,ignit-iced-test,0.15.0-ignit.1,0,0,https://forgejo.sakul-flee.de/SakulFlee/Ignit-Iced,A library for testing iced applications in headless mode (Ignit fork)
+2026-11-17T22:58:02.120753Z,taskchampion-sync-server,0.7.1,0,0,https://github.com/GothenburgBitFactory/taskchampion-sync-server,Core of sync protocol for TaskChampion
+2026-11-17T22:59:47.219141Z,acrylmicrovm-vmm,0.13.1,0,0,https://github.com/acryldev/acrylmicrovm,Virtual machine lifecycle and device model for AcrylMicrovm
+2026-11-17T23:00:16.097899Z,novafile-lint,0.1.0,0,0,https://github.com/novafile/nova,"Style and correctness lints for NOVA documents and schemas, with fixes"
+2026-11-17T23:01:41.161389Z,axum-vite-spa-bundle,1.0.1,0,0,https://github.com/bakatrouble/axum-vite-spa-bundle,"Serve a Vite SPA from an axum app: embedded bundle in release, reverse proxy to the Vite dev server in debug"
+2026-11-17T23:04:04.934105Z,prime-tieredmenu,0.1.0,0,0,https://github.com/anton-avramchuk/prime-rs,prime-rs: TieredMenu component (PrimeNG port)
+2026-11-17T23:04:15.60458Z,nsh-ext,0.1.0,0,0,https://github.com/honsunrise/nsh-ext,Opt-in native WebView extensions for Native Shell
+2026-11-17T23:04:27.930108Z,nsh-ext-linux,0.1.0,0,0,https://github.com/honsunrise/nsh-ext,"Linux (GTK 4, WebKitGTK 6.0) adapter for nsh-ext's extension-owned WebView"
+2026-11-17T23:04:33.596398Z,nsh-ext-apple,0.1.0,0,0,https://github.com/honsunrise/nsh-ext,"iOS, Mac Catalyst and macOS adapter for nsh-ext's loading-progress WebView"
+2026-11-17T23:04:38.438653Z,nsh-ext-windows,0.1.0,0,0,https://github.com/honsunrise/nsh-ext,"Windows WebView2 adapter for nsh-ext, hosted as an NSH native component"
+2026-11-17T23:04:46.749441Z,nsh-ext-gpui,0.1.0,0,0,https://github.com/honsunrise/nsh-ext,nsh-ext WebView for Native Shell's GPUI backend: an owned wry web view as a native component.
+2026-11-17T23:05:16.290357Z,loop-manager-testkit,0.0.1,0,0,https://github.com/kvokka/loop-manager,Test doubles of loop-manager: the scripted driver and fake providers
+2026-11-17T23:06:10.534782Z,ignit-iced-widget,0.15.0-ignit.1,0,0,https://forgejo.sakul-flee.de/SakulFlee/Ignit-Iced,The built-in widgets for iced (Ignit fork)
+2026-11-17T23:07:45.244078Z,novafile-serde,0.1.0,0,0,https://github.com/novafile/nova,"Serde integration for NOVA: derive-based (de)serialization to text, binary and values"
+2026-11-17T23:09:47.830962Z,flightlog-core,0.1.0,0,0,https://github.com/Mattbusel/flightlog,"ArduPilot DataFlash (.bin) and MAVLink .tlog flight logs as typed columnar tables (Arrow optional), with damaged-log recovery and flight-facts: deterministic log checks that cite ArduPilot wiki thres…"
+2026-11-17T23:10:10.205766Z,acrylmicrovm,0.13.1,0,0,https://github.com/acryldev/acrylmicrovm,"Embeddable virtual machine runtime for secure, isolated code execution"
+2026-11-17T23:13:44.50984Z,toml-1o,0.1.0,0,0,https://github.com/jameshuntt/1oLanguageSupport,"TOML text lowered into the 1o document IR, validated by core-1o's one schema validator"
+2026-11-17T23:14:29.247635Z,prime-contextmenu,0.1.0,0,0,https://github.com/anton-avramchuk/prime-rs,prime-rs: ContextMenu component (PrimeNG port)
+2026-11-17T23:14:58.688695Z,loop-manager-claude,0.0.1,0,0,https://github.com/kvokka/loop-manager,The claude adapter of loop-manager: claude -p over stream-json
+2026-11-17T23:15:13.270624Z,ooxml-validator,0.1.0,0,0,https://github.com/2018kguo/ooxml-validator,A streaming .docx validator that gives the Open XML SDK's verdicts
+2026-11-17T23:15:15.218836Z,json-1o,0.1.0,0,0,https://github.com/jameshuntt/1oLanguageSupport,"JSON text lowered into the 1o document IR, validated by core-1o's one schema validator"
+2026-11-17T23:16:11.263193Z,ignit-iced-winit,0.15.0-ignit.1,0,0,https://forgejo.sakul-flee.de/SakulFlee/Ignit-Iced,A runtime for iced on top of winit (Ignit fork)
+2026-11-17T23:16:30.082494Z,markdown-1o,0.1.0,0,0,https://github.com/jameshuntt/1oLanguageSupport,"Markdown as a container of tagged 1o, TOML and JSON documents, each read by its own adapter, every span in the Markdown's bytes"
+2026-11-17T23:17:42.769548Z,novafile-facet,0.1.0,0,0,https://github.com/novafile/nova,"facet integration for NOVA: reflection-based (de)serialization to text, binary and values"
