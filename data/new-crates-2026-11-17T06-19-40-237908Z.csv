@@ -1,0 +1,53 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-17T05:21:17.370127Z,ultron-durable,1.0.0,0,0,https://github.com/alfredosdpiii/ultron-rs,"Pi Durable storage: records, the Storage contract, and the in-memory working copy"
+2026-11-17T05:21:36.219448Z,inl-ane,0.1.0,0,0,https://github.com/NomaDamas/im-not-llm,"Dense and learned-sparse text embeddings on the Apple Neural Engine (Core ML): EmbeddingGemma 2, Qwen3-Embedding, KURE-Sparse-nano"
+2026-11-17T05:22:32.257062Z,xcomm,0.1.0,0,0,https://github.com/cantona/xcomm,Fast serial terminal with an agent control interface and a herdr plugin
+2026-11-17T05:25:50.882132Z,arborstone-sat,0.0.1,0,0,,"A CDCL SAT solver with pseudo-Boolean constraints, MaxSAT and DRAT/LRAT proofs."
+2026-11-17T05:28:28.951677Z,slango-codegen,0.1.0-alpha.1,0,0,https://github.com/g-whiz/slang-rust,"The generator of slango-macros: typed Rust bindings to the compute kernels of a Slang file, for slango."
+2026-11-17T05:28:30.825177Z,slango-macros,0.1.0-alpha.1,0,0,https://github.com/g-whiz/slang-rust,"The procedural macro shader!, which compiles a Slang file while a crate builds and generates typed Rust bindings to its compute kernels, for slango."
+2026-11-17T05:28:42.992977Z,analysant-ontological,0.0.0,0,0,,Reserved name: the ontological analysis library of AnalysAnt (generic text analysis). Nothing is published here yet.
+2026-11-17T05:31:58.597291Z,ultron-loki,1.0.0,0,0,https://github.com/alfredosdpiii/ultron-rs,Loki write-time guardrails: Rust port of the loki.py engine
+2026-11-17T05:35:26.825448Z,azure_cosmos_queryplan_win_arm64,0.2.6,0,0,https://github.com/Azure/CosmosDB-Rust,Prebuilt Cosmos DB QueryPlanInterop native library for Windows ARM64 (bundled; used by azure_cosmos_queryplan_sys).
+2026-11-17T05:35:41.994001Z,rstasks-core,0.1.0,0,0,https://github.com/yfyang86/rsTask,"RsTasks core: models, SQLite storage, actor/claim/event semantics"
+2026-11-17T05:35:44.527145Z,rstasks,0.1.0,0,0,https://github.com/yfyang86/rsTask,RsTasks CLI — scriptable human operations
+2026-11-17T05:35:45.5584Z,rstasks-mcp,0.1.0,0,0,https://github.com/yfyang86/rsTask,RsTasks MCP server — agent tools over the shared core (rmcp)
+2026-11-17T05:35:46.498325Z,rstasks-server,0.1.0,0,0,https://github.com/yfyang86/rsTask,RsTasks local REST server (Axum) — read-only dashboard API for the Web UI
+2026-11-17T05:35:47.002278Z,rstasks-tui,0.1.0,0,0,https://github.com/yfyang86/rsTask,RsTasks TUI (ratatui) — kanban view over the shared core
+2026-11-17T05:35:54.522863Z,arborstone-tsp,0.0.1,0,0,,"Travelling salesman engine of arborstone: Lin-Kernighan heuristics, Held-Karp bounds and exact branch and cut with checked certificates."
+2026-11-17T05:37:36.764114Z,ironflowx-core,0.0.1,0,0,https://github.com/ironflowx/foundation,Ironflow core types: Ironflow Resource Names (IRNs) and the resource hierarchy.
+2026-11-17T05:37:38.454612Z,ironflowx,0.0.1,0,0,https://github.com/ironflowx/foundation,Ironflow foundation crates in one dependency.
+2026-11-17T05:39:09.55817Z,analysant-structural,0.0.0,0,0,,Reserved name: the structural analysis library of AnalysAnt (generic text analysis). Nothing is published here yet.
+2026-11-17T05:40:34.219376Z,sshcm-core,0.3.0,0,0,https://github.com/empatisoft/sshcm,Lossless ssh_config parser and safe editing core for sshcm
+2026-11-17T05:40:46.063015Z,sshcm,0.3.0,0,0,https://github.com/empatisoft/sshcm,"SSH Connection Manager: add, edit, remove and list the connections in ~/.ssh/config"
+2026-11-17T05:42:23.708664Z,ultron-lanes,1.0.0,0,0,https://github.com/alfredosdpiii/ultron-rs,"A root's REPL lanes: named kernels running one cell at a time, detachable and cancellable cells, side lanes for a busy lane, and the kernel pool bounding live kernels"
+2026-11-17T05:45:58.286996Z,arborstone-cpsat,0.0.1,0,0,,"A CP-SAT solver: integer constraint propagation on the arborstone SAT solver, with presolve, linear relaxations, cuts and parallel search."
+2026-11-17T05:49:29.728836Z,icp-canister-interfaces,0.1.0,0,0,https://github.com/dfinity/icp-cli,Candid interfaces and canister ids of the Internet Computer system canisters icp-cli calls.
+2026-11-17T05:49:30.223298Z,icp-events,0.1.0,0,0,https://github.com/dfinity/icp-cli,Typed progress events that icp-cli's operations report and its renderers draw.
+2026-11-17T05:49:31.095091Z,icp-project,0.1.0,0,0,https://github.com/dfinity/icp-cli,"The icp-cli project model: manifests, canisters, and the operations that build, install, sync and deploy them."
+2026-11-17T05:49:33.166666Z,icp-sync-plugin,0.1.0,0,0,https://github.com/dfinity/icp-cli,The wasmtime Component Model runtime that runs icp-cli sync plugins.
+2026-11-17T05:52:48.177887Z,ultron-blocking-http,1.0.0,0,0,https://github.com/alfredosdpiii/ultron-rs,"One blocking HTTP exchange for host-thread callers (Hindsight, the judge seat): a transport trait with a reqwest implementation on a private one-thread runtime, a size limit, a deadline and a cancell…"
+2026-11-17T05:56:01.971784Z,arborstone-io,0.0.1,0,0,,Input and output for arborstone models: protobuf (CpModelProto) and FlatZinc files.
+2026-11-17T05:57:51.738127Z,skathi-macros,0.0.0,0,0,https://github.com/argon-chat/skathi,The #[skathi::module] and #[skathi::data] attributes of the skathi crate (reserved; first release with skathi 0.4)
+2026-11-17T05:59:02.262301Z,oesdk,0.1.0,0,0,https://github.com/FunkinRustUp/FNF-Oxide-Engine,Mod SDK + CLI for FNF: Oxide Engine (WIT component mods)
+2026-11-17T06:03:57.454784Z,ultron-ai,1.0.0,0,0,https://github.com/alfredosdpiii/ultron-rs,"Provider layer of packages/ai: message model, streaming events, every API implementation (Anthropic, OpenAI completions/responses/codex, Azure, Google, Vertex, Mistral, Bedrock, pi-messages, Claude C…"
+2026-11-17T06:05:11.70479Z,djs-model,0.1.0-alpha.1,0,0,https://github.com/kotoanidev/djs-rs,"Discord API v10 types — users, guilds, channels, messages, interactions and gateway events."
+2026-11-17T06:05:23.994739Z,djs-collection,0.1.0-alpha.1,0,0,https://github.com/kotoanidev/djs-rs,A feature-rich map type modelled on discord.js Collection.
+2026-11-17T06:05:26.591513Z,djs-util,0.1.0-alpha.1,0,0,https://github.com/kotoanidev/djs-rs,Shared utilities used across the djs-rs crates.
+2026-11-17T06:05:37.86538Z,djs-formatters,0.1.0-alpha.1,0,0,https://github.com/kotoanidev/djs-rs,"Markdown, mention and timestamp formatting helpers for Discord messages."
+2026-11-17T06:05:42.736857Z,djs-builders,0.1.0-alpha.1,0,0,https://github.com/kotoanidev/djs-rs,"Validated builders for Discord embeds, application commands, components and modals."
+2026-11-17T06:06:05.522016Z,arborstone,0.0.1,0,0,,"Combinatorial optimization in pure safe Rust: SAT, CP-SAT, linear programming and travelling salesman solvers whose answers can be checked independently."
+2026-11-17T06:07:29.632057Z,qubit-model-metadata,0.2.0,0,0,https://github.com/qubit-ltd/rs-model-metadata,"Static, strongly typed metadata for Rust domain models"
+2026-11-17T06:07:58.300504Z,qubit-model-derive,0.2.0,0,0,https://github.com/qubit-ltd/rs-model-metadata/tree/main/derive,Derive macros for Qubit Rust model metadata
+2026-11-17T06:09:19.77816Z,qubit-operation,0.3.0,0,0,https://github.com/qubit-ltd/rs-operation,Managed operation lifecycles and composition for Rust
+2026-11-17T06:13:00.884685Z,rouge-macros,0.1.0,0,0,https://github.com/jcarver989/rouge,The view! and #[component] macros for Rouge
+2026-11-17T06:13:01.485567Z,rouge-reactive,0.1.0,0,0,https://github.com/jcarver989/rouge,"Fine-grained signals, memos, effects and scopes for Rouge"
+2026-11-17T06:13:02.432087Z,rouge-theme,0.1.0,0,0,https://github.com/jcarver989/rouge,"Renderer-neutral colors, UI and Markdown palettes, and semantic control states for Rouge"
+2026-11-17T06:13:04.06936Z,rouge-render,0.1.0,0,0,https://github.com/jcarver989/rouge,"wgpu renderer, effects and shared GPU surfaces for Rouge"
+2026-11-17T06:13:04.854Z,rouge-syntax,0.1.0,0,0,https://github.com/jcarver989/rouge,"Tree-sitter syntax highlighting, symbol tags and syntax themes for Rouge"
+2026-11-17T06:14:29.973009Z,ultron-herdr,1.0.0,0,0,https://github.com/alfredosdpiii/ultron-rs,"Ultron in herdr's agents panel: pane detection from the injected env and a background reporter (state, session, metadata, release) over herdr's socket API"
+2026-11-17T06:15:21.995063Z,cria-api,0.1.0,0,0,https://github.com/alpaca-herd/cria,CRIA (Cloud-music Rust Integration API): native Rust client for the NetEase Cloud Music API on the compio runtime
+2026-11-17T06:16:02.214737Z,djs-rest,0.1.0-alpha.1,0,0,https://github.com/kotoanidev/djs-rs,Rate-limit-aware Discord REST API client built on hyper.
+2026-11-17T06:16:08.387426Z,arborstone-routing,0.0.1,0,0,,Vehicle routing for arborstone: capacitated and time-windowed problems over a checked routing model (planned).
+2026-11-17T06:16:32.086442Z,rouge-core,0.1.0,0,0,https://github.com/jcarver989/rouge,"Element tree, styles, layout, text, views and the layer compositor for Rouge"
+2026-11-17T06:16:36.126607Z,raiment,0.0.0,0,0,https://github.com/synesissoftware/raiment,Application-level helpers influenced by C-family scope techniques (for Rust)
+2026-11-17T06:18:45.94228Z,onionmint,0.1.0,0,0,https://github.com/rizl123/onionmint,Vanity address generator for Tor v3 onion services
