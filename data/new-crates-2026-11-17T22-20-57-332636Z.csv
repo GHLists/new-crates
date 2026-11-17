@@ -1,0 +1,52 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-17T21:21:27.556294Z,ttf2ufo,0.1.0,0,0,https://github.com/JLHwung/ttf2ufo,"Extract a UFO from a TrueType font, byte for byte like ufo-extractor's extractufo"
+2026-11-17T21:21:47.059292Z,prime-card,0.1.0,0,0,https://github.com/anton-avramchuk/prime-rs,prime-rs: Card component (PrimeNG port)
+2026-11-17T21:21:55.692455Z,grana-protocol,0.2.0,0,0,https://github.com/formetaohy/Grana,Next-generation microscopy image visualization and analysis platform
+2026-11-17T21:26:14.832304Z,keywork-gfx,0.1.0,0,0,https://tangled.org/rockorager.dev/keywork,"Keywork's graphics: display lists, a CPU reference renderer, a Vulkan renderer, and PNG, JPEG, WebP, GIF, BMP, and ICO decoders"
+2026-11-17T21:26:22.81565Z,corrosign,0.1.0,0,0,https://gitlab.com/nerdocs/corrosign,PAdES signing of PDF documents with pluggable signature providers
+2026-11-17T21:26:24.621956Z,corrosign-atrust,0.1.0,0,0,https://gitlab.com/nerdocs/corrosign,"A-Trust ""Signatur mit ID Austria"" provider for corrosign (Security Layer 1.2)"
+2026-11-17T21:26:24.851379Z,corrosign-pkcs12,0.1.0,0,0,https://gitlab.com/nerdocs/corrosign,Local-key provider for corrosign: signs with a key from a password-protected PKCS#12 file
+2026-11-17T21:27:16.174055Z,ignit-iced-core,0.15.0-ignit.1,0,0,https://forgejo.sakul-flee.de/SakulFlee/Ignit-Iced,The essential ideas of iced (Ignit fork)
+2026-11-17T21:27:22.387288Z,ignit-iced-beacon,0.15.0-ignit.1,0,0,https://forgejo.sakul-flee.de/SakulFlee/Ignit-Iced,A client/server protocol to monitor and supervise iced applications (Ignit fork)
+2026-11-17T21:27:24.885508Z,ignit-iced-futures,0.15.0-ignit.1,0,0,https://forgejo.sakul-flee.de/SakulFlee/Ignit-Iced,"Commands, subscriptions, and future executors for iced (Ignit fork)"
+2026-11-17T21:27:29.204737Z,ignit-iced-debug,0.15.0-ignit.1,0,0,https://forgejo.sakul-flee.de/SakulFlee/Ignit-Iced,A pluggable API for debugging iced applications (Ignit fork)
+2026-11-17T21:28:44.52227Z,ic-host-sign,0.1.0,0,0,https://github.com/dragginzgame/ic-tooling,Bounded offline IC signing through an existing OS-keyring identity
+2026-11-17T21:29:08.582473Z,symphony-server,0.1.0,0,0,https://github.com/heavenstudio/symphony,"Symphony's server: one per machine, serving each registered project's documents, review queue and task board to its web client, which it embeds."
+2026-11-17T21:32:10.033744Z,prime-carousel,0.1.0,0,0,https://github.com/anton-avramchuk/prime-rs,prime-rs: Carousel component (PrimeNG port)
+2026-11-17T21:32:20.349734Z,grana-report,0.2.0,0,0,https://github.com/formetaohy/Grana,Next-generation microscopy image visualization and analysis platform
+2026-11-17T21:36:08.001748Z,ignit-iced-graphics,0.15.0-ignit.1,0,0,https://forgejo.sakul-flee.de/SakulFlee/Ignit-Iced,A bunch of backend-agnostic types that can be leveraged to build a renderer for iced (Ignit fork)
+2026-11-17T21:36:14.687265Z,keywork-desktop,0.1.0,0,0,https://tangled.org/rockorager.dev/keywork,"Freedesktop specs for Keywork apps: icon themes, shared MIME info, desktop entries, thumbnails, trash, user directories, recent files, and mounts"
+2026-11-17T21:37:46.161472Z,lblake3,0.2.0,0,0,https://git.gunnar.rs/nordisk/znippy-zoomies,"BLAKE3 in pure Rust: blake3 1.8.7's API with no C, no assembly and no inline asm, plus Rust AVX-512 and NEON paths"
+2026-11-17T21:42:33.461873Z,prime-cascadeselect,0.1.0,0,0,https://github.com/anton-avramchuk/prime-rs,prime-rs: CascadeSelect component (PrimeNG port)
+2026-11-17T21:42:53.928459Z,grana-restore,0.2.0,0,0,https://github.com/formetaohy/Grana,Next-generation microscopy image visualization and analysis platform
+2026-11-17T21:46:03.822197Z,ignit-iced-highlighter,0.15.0-ignit.1,0,0,https://forgejo.sakul-flee.de/SakulFlee/Ignit-Iced,A syntax highlighter for iced (Ignit fork)
+2026-11-17T21:46:17.82823Z,keywork-text,0.1.0,0,0,https://tangled.org/rockorager.dev/keywork,"Keywork's text stack: fonts, shaping through HarfRust, Unicode bidi and line breaking, paragraph layout, glyph rasterization, and an editing state machine"
+2026-11-17T21:46:59.138506Z,pgconn,0.1.0,0,0,,"A lightweight, sync PostgreSQL client library with SQL-syntax-named methods"
+2026-11-17T21:51:34.44969Z,snug-cbor,0.1.0,0,0,https://github.com/3sln/snug,"CDDL (RFC 8610) validation and CBOR (RFC 8949) encoding, decoding and checked views"
+2026-11-17T21:52:36.937311Z,prime-checkbox,0.1.0,0,0,https://github.com/anton-avramchuk/prime-rs,prime-rs: Checkbox component (port of PrimeNG)
+2026-11-17T21:52:50.675955Z,grana-weight,0.2.0,0,0,https://github.com/formetaohy/Grana,Next-generation microscopy image visualization and analysis platform
+2026-11-17T21:54:38.793378Z,idiomatic-sh-tastemaker-values,0.1.3,0,0,https://github.com/idiomatic-sh/idiomatic,Shared value types for Tastemaker
+2026-11-17T21:55:35.167302Z,idiomatic-sh-asymptote-values,0.1.3,0,0,https://github.com/idiomatic-sh/idiomatic,Shared value types for Asymptote
+2026-11-17T21:56:05.281597Z,ignit-iced-selector,0.15.0-ignit.1,0,0,https://forgejo.sakul-flee.de/SakulFlee/Ignit-Iced,A set of abstractions for selecting data from the widget tree (Ignit fork)
+2026-11-17T21:56:15.424091Z,keywork,0.1.0,0,0,https://tangled.org/rockorager.dev/keywork,"A Rust-only, Wayland-only GUI toolkit: a retained tree changed in transactions, incremental layout, and Radix-styled widgets"
+2026-11-17T21:56:56.446443Z,octobit-core,0.2.0,0,0,https://github.com/octobit-dev/octo-lib,"Core types of octo-lib, a deterministic pixel art engine: colors, palettes, pixel buffers and PNG"
+2026-11-17T21:57:48.776775Z,lather-cli,0.2.0,0,0,https://github.com/douglance/lather,Measure code hygiene and verify small improvements against a fixed baseline.
+2026-11-17T22:02:41.101509Z,grana-segment,0.2.0,0,0,https://github.com/formetaohy/Grana,Next-generation microscopy image visualization and analysis platform
+2026-11-17T22:02:59.511773Z,prime-colorpicker,0.1.0,0,0,https://github.com/anton-avramchuk/prime-rs,prime-rs: ColorPicker component (PrimeNG port)
+2026-11-17T22:05:39.566149Z,geotz-api,0.1.1,0,0,https://github.com/neilg63/geotz-api,"Place and time-zone lookup service backed by SQLite, with importers for GeoNames and TimeZoneDB data"
+2026-11-17T22:06:05.468925Z,ignit-iced-runtime,0.15.0-ignit.1,0,0,https://forgejo.sakul-flee.de/SakulFlee/Ignit-Iced,A renderer-agnostic runtime for iced (Ignit fork)
+2026-11-17T22:06:13.94656Z,keywork-looks,0.1.0,0,0,https://tangled.org/rockorager.dev/keywork,"Looks for Keywork: complete themes after GNOME, KDE, macOS, Windows, Omarchy, and ten materials, built on Keywork's base theme"
+2026-11-17T22:08:37.775278Z,robot-overlord-core,1.2.0,0,0,https://github.com/robot-lord/robot-overlord,"rlord (Robot Overlord) internals: sessions database, tmux, agent transcripts. Not a stable API."
+2026-11-17T22:08:46.900888Z,robot-overlord-daemon,1.2.0,0,0,https://github.com/robot-lord/robot-overlord,rlord (Robot Overlord) internals: the daemon and its MCP server. Not a stable API.
+2026-11-17T22:08:59.209104Z,robot-overlord-tui,1.2.0,0,0,https://github.com/robot-lord/robot-overlord,rlord (Robot Overlord) internals: the terminal UI. Not a stable API.
+2026-11-17T22:09:07.550324Z,robot-overlord,1.2.0,0,0,https://github.com/robot-lord/robot-overlord,"rlord: manage your AI coding agents (Claude Code, Codex, OpenCode) with AI, in tmux"
+2026-11-17T22:11:49.433287Z,license-worker-client,0.3.1,0,0,https://github.com/licenseworker/license-worker-client,"Client for License Worker licence servers: activate, check offline-tolerantly with signed Ed25519 licences, deactivate"
+2026-11-17T22:12:58.329886Z,grana-session,0.2.0,0,0,https://github.com/formetaohy/Grana,Next-generation microscopy image visualization and analysis platform
+2026-11-17T22:13:02.963339Z,prime-confirmation,0.1.0,0,0,https://github.com/anton-avramchuk/prime-rs,prime-rs: Confirmation and ConfirmationService (port of PrimeNG)
+2026-11-17T22:13:17.201961Z,gauntlet,0.1.0,0,0,https://github.com/BenjaminLucier/gauntlet,"128 practice problems that take you from knowing Rust to being fluent in it, in a terminal trainer"
+2026-11-17T22:14:41.001019Z,telar-fs-atomic,0.2.3,0,0,https://github.com/AdrielGBM/telar,"Replaces a file's contents all at once for Telar's runtime and tools: a reader finds the previous contents or the new ones, never part of either."
+2026-11-17T22:16:09.751087Z,ignit-iced-tiny-skia,0.15.0-ignit.1,0,0,https://forgejo.sakul-flee.de/SakulFlee/Ignit-Iced,A software renderer for iced on top of tiny-skia (Ignit fork)
+2026-11-17T22:16:11.447325Z,telar-platform-accesskit,0.2.3,0,0,https://github.com/AdrielGBM/telar,"Telar's accessibility snapshot as an AccessKit tree, and AccessKit's requests as Telar actions."
+2026-11-17T22:16:13.852345Z,keywork-tokio,0.1.0,0,0,https://tangled.org/rockorager.dev/keywork,Runs tokio tasks for Keywork apps and delivers their results in the dispatch phase
+2026-11-17T22:16:41.199108Z,sparse-ir-sve,0.16.0,0,0,https://github.com/SpM-lab/sparse-ir-rs,"Singular value expansion of integral kernels in extended precision, with an ACA-accelerated truncated SVD"
+2026-11-17T22:20:04.032006Z,n64dd-disk,0.10.1,0,0,https://github.com/one-retro/one-saves,"Read and write Nintendo 64DD disk images: the retail and MAME layouts, the system area, and the RAM area a game writes"

@@ -8,64 +8,65 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-17 21:21 UTC
+## Latest list — 2026-11-17 22:20 UTC
 
-New crates published between 2026-11-17 20:21 UTC and 2026-11-17 21:21 UTC.
+New crates published between 2026-11-17 21:21 UTC and 2026-11-17 22:20 UTC.
 
-[Full CSV](data/new-crates-2026-11-17T21-21-13-525609Z.csv)
+[Full CSV](data/new-crates-2026-11-17T22-20-57-332636Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-17 20:22:27 | [grana-engine](https://crates.io/crates/grana-engine) | 0.2.0 | 0 | Next-generation microscopy image visualization and analysis platform |
-| 2026-11-17 20:23:05 | [melotui-core](https://crates.io/crates/melotui-core) | 2026.11.1 | 0 | State, commands and actions of the melotui music player. Part of melotui; not m… |
-| 2026-11-17 20:23:09 | [melotui-bus](https://crates.io/crates/melotui-bus) | 2026.11.1 | 0 | The messages melotui's threads send one another. Part of melotui; not meant to… |
-| 2026-11-17 20:23:11 | [melotui-tui](https://crates.io/crates/melotui-tui) | 2026.11.1 | 0 | Terminal interface of the melotui music player: its views, themes and keys. Par… |
-| 2026-11-17 20:23:16 | [melotui-audio](https://crates.io/crates/melotui-audio) | 2026.11.1 | 0 | Playback, decoding, effects and spectrum analysis for the melotui music player.… |
-| 2026-11-17 20:23:18 | [melotui-cover](https://crates.io/crates/melotui-cover) | 2026.11.1 | 0 | Album art loading and caching for the melotui music player. Part of melotui; no… |
-| 2026-11-17 20:23:36 | [owlrouter](https://crates.io/crates/owlrouter) | 0.1.0 | 0 | Link-state routing over causal stamps for accelerator fabrics |
-| 2026-11-17 20:25:57 | [plusthree-derive](https://crates.io/crates/plusthree-derive) | 0.1.0 | 0 | Macros for plusthree: #[derive(Context)], #[derive(Event)], #[derive(Children)]… |
-| 2026-11-17 20:25:57 | [plusthree-ir](https://crates.io/crates/plusthree-ir) | 0.1.0 | 0 | Statechart IR: builder, validation, flattening |
-| 2026-11-17 20:25:58 | [plusthree-core](https://crates.io/crates/plusthree-core) | 0.1.0 | 0 | Statechart kernel: snapshot, step, microstep |
-| 2026-11-17 20:26:00 | [plusthree-system](https://crates.io/crates/plusthree-system) | 0.1.0 | 0 | Pure actor-system reducer for plusthree (port of XState v6 systemTransition) |
-| 2026-11-17 20:26:02 | [plusthree-json](https://crates.io/crates/plusthree-json) | 0.1.0 | 0 | XState v6 MachineJSON machines and persisted snapshots for plusthree |
-| 2026-11-17 20:26:59 | [repository-read](https://crates.io/crates/repository-read) | 1.0.0 | 0 | Repository reads that report every attempt, a missing path and a directory list… |
-| 2026-11-17 20:28:15 | [rscodec](https://crates.io/crates/rscodec) | 0.1.0-alpha.1 | 0 | Codecs for Rust (in development). Each codec is a leaf feature with portable an… |
-| 2026-11-17 20:29:46 | [roadcase-repo](https://crates.io/crates/roadcase-repo) | 0.1.0 | 0 | Signed apt and pacman repositories as static folders, and AUR -bin PKGBUILDs, f… |
-| 2026-11-17 20:29:47 | [roadcase-update](https://crates.io/crates/roadcase-update) | 0.1.0 | 0 | Signed self-updates for desktop applications: a manifest, a download, and the i… |
-| 2026-11-17 20:29:48 | [roadcase-bundle](https://crates.io/crates/roadcase-bundle) | 0.1.0 | 0 | Config-driven packaging of desktop applications: macOS bundles, disk images and… |
-| 2026-11-17 20:29:50 | [roadcase](https://crates.io/crates/roadcase) | 0.1.0 | 0 | Packages desktop applications and publishes their signed updates. |
-| 2026-11-17 20:31:11 | [prime-badge](https://crates.io/crates/prime-badge) | 0.1.0 | 0 | prime-rs: Badge component (PrimeNG port) |
-| 2026-11-17 20:31:59 | [grana-offline](https://crates.io/crates/grana-offline) | 0.2.0 | 0 | Next-generation microscopy image visualization and analysis platform |
-| 2026-11-17 20:33:37 | [melotui-db](https://crates.io/crates/melotui-db) | 2026.11.1 | 0 | The SQLite music library database of the melotui music player. Part of melotui;… |
-| 2026-11-17 20:35:05 | [rals-math](https://crates.io/crates/rals-math) | 0.1.0 | 0 | Yet another linear algebra math library |
-| 2026-11-17 20:36:53 | [plusthree-runtime](https://crates.io/crates/plusthree-runtime) | 0.1.0 | 0 | Live actor runtime for plusthree: mailboxes and clocks around plusthree-system |
-| 2026-11-17 20:37:02 | [symphony-api](https://crates.io/crates/symphony-api) | 0.1.0 | 0 | Symphony's wire types: the JSON its server sends and its client reads, the bloc… |
-| 2026-11-17 20:41:10 | [sbom-attest](https://crates.io/crates/sbom-attest) | 0.1.0 | 0 | Build-time SBOMs for mixed Rust and C/C++ embedded builds: CycloneDX 1.6 and SP… |
-| 2026-11-17 20:41:34 | [prime-blockui](https://crates.io/crates/prime-blockui) | 0.1.0 | 0 | prime-rs: BlockUI component (port of PrimeNG) |
-| 2026-11-17 20:42:40 | [grana-preview](https://crates.io/crates/grana-preview) | 0.2.0 | 0 | Next-generation microscopy image visualization and analysis platform |
-| 2026-11-17 20:43:23 | [melotui-download](https://crates.io/crates/melotui-download) | 2026.11.1 | 0 | YouTube search and downloads, through yt-dlp, for the melotui music player. Par… |
-| 2026-11-17 20:45:19 | [tstag](https://crates.io/crates/tstag) | 0.2.0 | 0 | A tool to rename files with a timestamp. |
-| 2026-11-17 20:46:23 | [plusthree](https://crates.io/crates/plusthree) | 0.1.0 | 0 | High-performance Rust port of XState v6 statecharts |
-| 2026-11-17 20:47:22 | [symphony-plugin](https://crates.io/crates/symphony-plugin) | 1.0.0 | 0 | What a Symphony plugin implements: its seams, the blocks it renders to and the… |
-| 2026-11-17 20:51:37 | [prime-breadcrumb](https://crates.io/crates/prime-breadcrumb) | 0.1.0 | 0 | prime-rs: Breadcrumb component (PrimeNG port) |
-| 2026-11-17 20:52:35 | [grana-mesh](https://crates.io/crates/grana-mesh) | 0.2.0 | 0 | Next-generation microscopy image visualization and analysis platform |
-| 2026-11-17 20:53:36 | [melotui-engine](https://crates.io/crates/melotui-engine) | 2026.11.1 | 0 | Connects the melotui music player's workers to its interface. Part of melotui;… |
-| 2026-11-17 20:57:30 | [symphony-board](https://crates.io/crates/symphony-board) | 0.1.0 | 0 | Symphony's task board: the `tasks` and `agent-send` commands, its store on Surr… |
-| 2026-11-17 20:59:11 | [keywork-svg](https://crates.io/crates/keywork-svg) | 0.1.0 | 0 | A static SVG parser without dependencies that resolves styles, use, gradients,… |
-| 2026-11-17 21:01:41 | [prime-button](https://crates.io/crates/prime-button) | 0.1.0 | 0 | prime-rs: Button component (port of PrimeNG) |
-| 2026-11-17 21:02:00 | [grana-interop](https://crates.io/crates/grana-interop) | 0.2.0 | 0 | Next-generation microscopy image visualization and analysis platform |
-| 2026-11-17 21:02:44 | [noise-channel](https://crates.io/crates/noise-channel) | 0.1.0 | 0 | Synchronous typed Noise KK channels over owned Unix descriptors |
-| 2026-11-17 21:03:28 | [melotui](https://crates.io/crates/melotui) | 2026.11.1 | 0 | A terminal music player with a spectrum visualizer, DSP effects, synced lyrics… |
-| 2026-11-17 21:06:15 | [keywork-wire](https://crates.io/crates/keywork-wire) | 0.1.0 | 0 | Keywork's Wayland client: wire codec, generated protocol bindings, and fd passi… |
-| 2026-11-17 21:07:17 | [symphony-chrome](https://crates.io/crates/symphony-chrome) | 0.1.0 | 0 | Headless Chrome on a private profile, driven over its DevTools protocol and lea… |
-| 2026-11-17 21:08:31 | [ignit-winit](https://crates.io/crates/ignit-winit) | 0.30.8-ignit.1 | 0 | Cross-platform window creation library (Ignit fork). |
-| 2026-11-17 21:09:40 | [sooner-email](https://crates.io/crates/sooner-email) | 0.1.0 | 0 | Typed async Rust SDK for the Sooner email API |
-| 2026-11-17 21:10:09 | [ignit-cosmic-text](https://crates.io/crates/ignit-cosmic-text) | 0.19.0-ignit.1 | 0 | Pure Rust multi-line text handling (Ignit fork) |
-| 2026-11-17 21:10:43 | [ignit-cryoglyph](https://crates.io/crates/ignit-cryoglyph) | 0.1.0-ignit.1 | 0 | Fast, simple 2D text rendering for wgpu (Ignit fork) |
-| 2026-11-17 21:11:44 | [prime-buttongroup](https://crates.io/crates/prime-buttongroup) | 0.1.0 | 0 | prime-rs: ButtonGroup component (port of PrimeNG) |
-| 2026-11-17 21:12:10 | [grana-calibration](https://crates.io/crates/grana-calibration) | 0.2.0 | 0 | Next-generation microscopy image visualization and analysis platform |
-| 2026-11-17 21:16:14 | [keywork-platform](https://crates.io/crates/keywork-platform) | 0.1.0 | 0 | Keywork's platform layer: event loop, worker pool, Wayland windows and input, X… |
-| 2026-11-17 21:17:43 | [symphony-app](https://crates.io/crates/symphony-app) | 0.1.0 | 0 | Symphony's library and its `symphony` command: the owner's review of a project'… |
+| 2026-11-17 21:21:27 | [ttf2ufo](https://crates.io/crates/ttf2ufo) | 0.1.0 | 0 | Extract a UFO from a TrueType font, byte for byte like ufo-extractor's extractu… |
+| 2026-11-17 21:21:47 | [prime-card](https://crates.io/crates/prime-card) | 0.1.0 | 0 | prime-rs: Card component (PrimeNG port) |
+| 2026-11-17 21:21:55 | [grana-protocol](https://crates.io/crates/grana-protocol) | 0.2.0 | 0 | Next-generation microscopy image visualization and analysis platform |
+| 2026-11-17 21:26:14 | [keywork-gfx](https://crates.io/crates/keywork-gfx) | 0.1.0 | 0 | Keywork's graphics: display lists, a CPU reference renderer, a Vulkan renderer,… |
+| 2026-11-17 21:26:22 | [corrosign](https://crates.io/crates/corrosign) | 0.1.0 | 0 | PAdES signing of PDF documents with pluggable signature providers |
+| 2026-11-17 21:26:24 | [corrosign-atrust](https://crates.io/crates/corrosign-atrust) | 0.1.0 | 0 | A-Trust "Signatur mit ID Austria" provider for corrosign (Security Layer 1.2) |
+| 2026-11-17 21:26:24 | [corrosign-pkcs12](https://crates.io/crates/corrosign-pkcs12) | 0.1.0 | 0 | Local-key provider for corrosign: signs with a key from a password-protected PK… |
+| 2026-11-17 21:27:16 | [ignit-iced-core](https://crates.io/crates/ignit-iced-core) | 0.15.0-ignit.1 | 0 | The essential ideas of iced (Ignit fork) |
+| 2026-11-17 21:27:22 | [ignit-iced-beacon](https://crates.io/crates/ignit-iced-beacon) | 0.15.0-ignit.1 | 0 | A client/server protocol to monitor and supervise iced applications (Ignit fork) |
+| 2026-11-17 21:27:24 | [ignit-iced-futures](https://crates.io/crates/ignit-iced-futures) | 0.15.0-ignit.1 | 0 | Commands, subscriptions, and future executors for iced (Ignit fork) |
+| 2026-11-17 21:27:29 | [ignit-iced-debug](https://crates.io/crates/ignit-iced-debug) | 0.15.0-ignit.1 | 0 | A pluggable API for debugging iced applications (Ignit fork) |
+| 2026-11-17 21:28:44 | [ic-host-sign](https://crates.io/crates/ic-host-sign) | 0.1.0 | 0 | Bounded offline IC signing through an existing OS-keyring identity |
+| 2026-11-17 21:29:08 | [symphony-server](https://crates.io/crates/symphony-server) | 0.1.0 | 0 | Symphony's server: one per machine, serving each registered project's documents… |
+| 2026-11-17 21:32:10 | [prime-carousel](https://crates.io/crates/prime-carousel) | 0.1.0 | 0 | prime-rs: Carousel component (PrimeNG port) |
+| 2026-11-17 21:32:20 | [grana-report](https://crates.io/crates/grana-report) | 0.2.0 | 0 | Next-generation microscopy image visualization and analysis platform |
+| 2026-11-17 21:36:08 | [ignit-iced-graphics](https://crates.io/crates/ignit-iced-graphics) | 0.15.0-ignit.1 | 0 | A bunch of backend-agnostic types that can be leveraged to build a renderer for… |
+| 2026-11-17 21:36:14 | [keywork-desktop](https://crates.io/crates/keywork-desktop) | 0.1.0 | 0 | Freedesktop specs for Keywork apps: icon themes, shared MIME info, desktop entr… |
+| 2026-11-17 21:37:46 | [lblake3](https://crates.io/crates/lblake3) | 0.2.0 | 0 | BLAKE3 in pure Rust: blake3 1.8.7's API with no C, no assembly and no inline as… |
+| 2026-11-17 21:42:33 | [prime-cascadeselect](https://crates.io/crates/prime-cascadeselect) | 0.1.0 | 0 | prime-rs: CascadeSelect component (PrimeNG port) |
+| 2026-11-17 21:42:53 | [grana-restore](https://crates.io/crates/grana-restore) | 0.2.0 | 0 | Next-generation microscopy image visualization and analysis platform |
+| 2026-11-17 21:46:03 | [ignit-iced-highlighter](https://crates.io/crates/ignit-iced-highlighter) | 0.15.0-ignit.1 | 0 | A syntax highlighter for iced (Ignit fork) |
+| 2026-11-17 21:46:17 | [keywork-text](https://crates.io/crates/keywork-text) | 0.1.0 | 0 | Keywork's text stack: fonts, shaping through HarfRust, Unicode bidi and line br… |
+| 2026-11-17 21:46:59 | [pgconn](https://crates.io/crates/pgconn) | 0.1.0 | 0 | A lightweight, sync PostgreSQL client library with SQL-syntax-named methods |
+| 2026-11-17 21:51:34 | [snug-cbor](https://crates.io/crates/snug-cbor) | 0.1.0 | 0 | CDDL (RFC 8610) validation and CBOR (RFC 8949) encoding, decoding and checked v… |
+| 2026-11-17 21:52:36 | [prime-checkbox](https://crates.io/crates/prime-checkbox) | 0.1.0 | 0 | prime-rs: Checkbox component (port of PrimeNG) |
+| 2026-11-17 21:52:50 | [grana-weight](https://crates.io/crates/grana-weight) | 0.2.0 | 0 | Next-generation microscopy image visualization and analysis platform |
+| 2026-11-17 21:54:38 | [idiomatic-sh-tastemaker-values](https://crates.io/crates/idiomatic-sh-tastemaker-values) | 0.1.3 | 0 | Shared value types for Tastemaker |
+| 2026-11-17 21:55:35 | [idiomatic-sh-asymptote-values](https://crates.io/crates/idiomatic-sh-asymptote-values) | 0.1.3 | 0 | Shared value types for Asymptote |
+| 2026-11-17 21:56:05 | [ignit-iced-selector](https://crates.io/crates/ignit-iced-selector) | 0.15.0-ignit.1 | 0 | A set of abstractions for selecting data from the widget tree (Ignit fork) |
+| 2026-11-17 21:56:15 | [keywork](https://crates.io/crates/keywork) | 0.1.0 | 0 | A Rust-only, Wayland-only GUI toolkit: a retained tree changed in transactions,… |
+| 2026-11-17 21:56:56 | [octobit-core](https://crates.io/crates/octobit-core) | 0.2.0 | 0 | Core types of octo-lib, a deterministic pixel art engine: colors, palettes, pix… |
+| 2026-11-17 21:57:48 | [lather-cli](https://crates.io/crates/lather-cli) | 0.2.0 | 0 | Measure code hygiene and verify small improvements against a fixed baseline. |
+| 2026-11-17 22:02:41 | [grana-segment](https://crates.io/crates/grana-segment) | 0.2.0 | 0 | Next-generation microscopy image visualization and analysis platform |
+| 2026-11-17 22:02:59 | [prime-colorpicker](https://crates.io/crates/prime-colorpicker) | 0.1.0 | 0 | prime-rs: ColorPicker component (PrimeNG port) |
+| 2026-11-17 22:05:39 | [geotz-api](https://crates.io/crates/geotz-api) | 0.1.1 | 0 | Place and time-zone lookup service backed by SQLite, with importers for GeoName… |
+| 2026-11-17 22:06:05 | [ignit-iced-runtime](https://crates.io/crates/ignit-iced-runtime) | 0.15.0-ignit.1 | 0 | A renderer-agnostic runtime for iced (Ignit fork) |
+| 2026-11-17 22:06:13 | [keywork-looks](https://crates.io/crates/keywork-looks) | 0.1.0 | 0 | Looks for Keywork: complete themes after GNOME, KDE, macOS, Windows, Omarchy, a… |
+| 2026-11-17 22:08:37 | [robot-overlord-core](https://crates.io/crates/robot-overlord-core) | 1.2.0 | 0 | rlord (Robot Overlord) internals: sessions database, tmux, agent transcripts. N… |
+| 2026-11-17 22:08:46 | [robot-overlord-daemon](https://crates.io/crates/robot-overlord-daemon) | 1.2.0 | 0 | rlord (Robot Overlord) internals: the daemon and its MCP server. Not a stable A… |
+| 2026-11-17 22:08:59 | [robot-overlord-tui](https://crates.io/crates/robot-overlord-tui) | 1.2.0 | 0 | rlord (Robot Overlord) internals: the terminal UI. Not a stable API. |
+| 2026-11-17 22:09:07 | [robot-overlord](https://crates.io/crates/robot-overlord) | 1.2.0 | 0 | rlord: manage your AI coding agents (Claude Code, Codex, OpenCode) with AI, in… |
+| 2026-11-17 22:11:49 | [license-worker-client](https://crates.io/crates/license-worker-client) | 0.3.1 | 0 | Client for License Worker licence servers: activate, check offline-tolerantly w… |
+| 2026-11-17 22:12:58 | [grana-session](https://crates.io/crates/grana-session) | 0.2.0 | 0 | Next-generation microscopy image visualization and analysis platform |
+| 2026-11-17 22:13:02 | [prime-confirmation](https://crates.io/crates/prime-confirmation) | 0.1.0 | 0 | prime-rs: Confirmation and ConfirmationService (port of PrimeNG) |
+| 2026-11-17 22:13:17 | [gauntlet](https://crates.io/crates/gauntlet) | 0.1.0 | 0 | 128 practice problems that take you from knowing Rust to being fluent in it, in… |
+| 2026-11-17 22:14:41 | [telar-fs-atomic](https://crates.io/crates/telar-fs-atomic) | 0.2.3 | 0 | Replaces a file's contents all at once for Telar's runtime and tools: a reader… |
+| 2026-11-17 22:16:09 | [ignit-iced-tiny-skia](https://crates.io/crates/ignit-iced-tiny-skia) | 0.15.0-ignit.1 | 0 | A software renderer for iced on top of tiny-skia (Ignit fork) |
+| 2026-11-17 22:16:11 | [telar-platform-accesskit](https://crates.io/crates/telar-platform-accesskit) | 0.2.3 | 0 | Telar's accessibility snapshot as an AccessKit tree, and AccessKit's requests a… |
+| 2026-11-17 22:16:13 | [keywork-tokio](https://crates.io/crates/keywork-tokio) | 0.1.0 | 0 | Runs tokio tasks for Keywork apps and delivers their results in the dispatch ph… |
+| 2026-11-17 22:16:41 | [sparse-ir-sve](https://crates.io/crates/sparse-ir-sve) | 0.16.0 | 0 | Singular value expansion of integral kernels in extended precision, with an ACA… |
+| 2026-11-17 22:20:04 | [n64dd-disk](https://crates.io/crates/n64dd-disk) | 0.10.1 | 0 | Read and write Nintendo 64DD disk images: the retail and MAME layouts, the syst… |
 
 ## Data source
 
