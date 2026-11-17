@@ -1,0 +1,22 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-17T15:23:47.518607Z,slashbuilder-substrate-kit,0.1.0,0,0,https://github.com/slash-builder/substrate-kit,"Linux and dockerd substrate for the SlashBuilder Kit ecosystem: container lifecycle, cgroup and mount resolution, and service-principal embodiment"
+2026-11-17T15:25:02.304114Z,nornir-mimir-node-map,0.1.0,0,0,https://git.gunnar.rs/nordisk/nornir,"Shared node-map wire types and proof identifiers, without a decoder"
+2026-11-17T15:25:03.167628Z,nornir-mimir-libc,0.1.0,0,0,https://git.gunnar.rs/nordisk/nornir,"Mímir's model of a C run-time: one trait (LibcModel) with glibc, musl and Eyra implementations: how a thread starts, the generic system-call entries, the program start, the unwinding model and where…"
+2026-11-17T15:28:01.962985Z,moul-store,0.0.1,0,0,https://github.com/moul-labs/moul,"SQLite access for Moul: the shared, writer-only and device stores, system tables and migrations."
+2026-11-17T15:29:48.423914Z,karyos-cluster,0.1.0-alpha.3,0,0,https://github.com/quantstratum/karyos,"Consensus module, service container, snapshots and guards."
+2026-11-17T15:31:41.760245Z,moul-rules,0.0.1,0,0,https://github.com/moul-labs/moul,"Parser, SQL compiler and record evaluator for Moul's access-rule language."
+2026-11-17T15:32:02.941721Z,moul-web,0.0.1,0,0,https://github.com/moul-labs/moul,"Browser host for the Moul engine: worker entry point, message protocol and tab coordination."
+2026-11-17T15:32:13.460431Z,moul-server,0.0.1,0,0,https://github.com/moul-labs/moul,"Native host for one Moul database: HTTP API, realtime, mail, jobs and MCP."
+2026-11-17T15:34:34.544253Z,moul-hub,0.0.1,0,0,https://github.com/moul-labs/moul,"Moul Hub: runs many Moul apps side by side, each in its own database, opened on demand."
+2026-11-17T15:38:57.211943Z,clipdeck-core,2.1.2,0,0,https://github.com/mhosseinab/clipdeck,"Clipboard history, pinboards and encrypted storage for ClipDeck"
+2026-11-17T15:39:00.280537Z,clipdeck-app,2.1.2,0,0,https://github.com/mhosseinab/clipdeck,"Fast native clipboard manager with search, pinboards and paste stack"
+2026-11-17T15:40:03.007656Z,karyos,0.1.0-alpha.3,0,0,https://github.com/quantstratum/karyos,"Public facade: re-exports the client, Archive and Cluster APIs and defines karyos::Error."
+2026-11-17T15:49:53.699459Z,slashbuilder-bitchain,0.2.0,0,0,https://github.com/slash-builder/bitchain,"Content-addressed binary storage CLI for the SlashBuilder Kit ecosystem: format v2 reference client (BLAKE3 addressing, recursive fragmentation, Zstd packfiles, per-partition dedup) plus the manifest…"
+2026-11-17T15:57:37.771952Z,wasmnest-p2p-engine,0.1.0,0,0,https://github.com/7ZAI/wasmnest-lib,WasmNest libp2p 机制引擎：节点身份桥（node_id↔PeerId）+ swarm 生命周期 + 入站准入闸门 + 流协议名注册表。默认形态 = 纯引擎机制 + 端口抽象（零 WIT / 零 SDK / 零平台依赖 / 零内部 crate 依赖），任何宿主可直接引用
+2026-11-17T15:57:55.34633Z,wasmnest-cli-engine,0.0.1,0,0,https://github.com/7ZAI/wasmnest-lib,WasmNest CLI 能力域机制骨架：内建命令目录（词汇真源）+ argv 解析 + 帮助与补全 + 本机 IPC wire 帧契约。默认形态 = 纯机制（零 WIT / 零 wasm / 零异步运行时 / 零内部 crate 依赖），WireError 是纯 wire 类型、域错误映射住宿主侧
+2026-11-17T15:58:50.67412Z,egui-bevy,0.0.1,0,0,https://github.com/rustbasic/egui-bevy,Integration between egui and Bevy
+2026-11-17T16:02:21.307807Z,igris,0.0.0,0,0,https://github.com/JlassiRafet/IGRIS,"Agent orchestration: a chat assistant hands coding work to agents in Herdr, a decision model picks, the shell verifies."
+2026-11-17T16:03:00.766249Z,h3wire-masque,0.1.0,0,0,https://github.com/mqvpn/h3wire,MASQUE CONNECT-UDP (RFC 9298) and the HTTP capsule codec (RFC 9297) over h3wire-async
+2026-11-17T16:05:06.119192Z,foom,0.1.0,0,0,,foom
+2026-11-17T16:09:16.945507Z,octoii-ai,0.0.2,0,0,https://github.com/octoii-works/octoii-ai,"Octoii's access to models: one vocabulary of conversations in and out, the catalogue of models, and each provider's driver"
+2026-11-17T16:11:42.349073Z,mhtml,0.4.0,0,0,https://github.com/doggy8088/mhtml,"Convert Markdown to a beautiful, self-contained HTML page — preview in your browser, switch light/dark themes, and bring your own CSS."
