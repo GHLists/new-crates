@@ -1,0 +1,36 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-17T00:21:15.739562Z,libacde-paint,0.0.0,0,0,,Placeholder for Dopame's libacde-paint
+2026-11-17T00:23:23.872431Z,duet-dsp,0.3.0,0,0,https://github.com/tasker-systems/duet,"duet's audio analysis: samples in, events out, as a stream of stages that settle their output as they go. No I/O, codecs or formats."
+2026-11-17T00:23:27.246853Z,duet-capture,0.3.0,0,0,https://github.com/tasker-systems/duet,"duet capture: audio files in, a Song out. Decodes takes through Symphonia, runs duet-dsp's analysis and assembles the events."
+2026-11-17T00:23:39.874392Z,duet-schemas,0.3.0,0,0,https://github.com/tasker-systems/duet,"duet's documents: the envelope, the versioned kinds, the .duet and .duet.jsonl framing, and the version policy."
+2026-11-17T00:27:34.215809Z,sk-hotkeys,0.0.0,0,0,https://github.com/argon-chat/skathi,Reserved for Skathi; the crate is published with Skathi 0.3.0
+2026-11-17T00:30:40.251875Z,libacde-driver,0.0.0,0,0,,Placeholder for Dopame's libacde-driver
+2026-11-17T00:32:27.852473Z,lexical-ui,0.1.0,0,0,https://github.com/wevm/lexical,"A Rust port of Lexical's model and headless packages, at parity with the JS implementation."
+2026-11-17T00:37:24.717669Z,sobol-seq,1.0.3,0,0,https://github.com/M-Schwab/sobol-rs,A fast Sobol sequence generator for Rust (performance-focused fork of the `sobol` crate)
+2026-11-17T00:41:03.802578Z,byond-wire,0.1.1,0,0,https://github.com/Wirewraith/byond-wire,Small standard-library BYOND Topic client
+2026-11-17T00:41:06.477871Z,libacde-jsrt,0.0.0,0,0,,Placeholder for Dopame's libacde-jsrt
+2026-11-17T00:43:06.834074Z,eggpass,0.1.1,0,0,https://github.com/eggstack/eggpass,"A lightweight, local, OpenAI-compatible proxy for Grok and ChatGPT, authenticated with your own subscription over OAuth"
+2026-11-17T00:50:32.602017Z,libacde-remote,0.0.0,0,0,,Placeholder for Dopame's libacde-remote
+2026-11-17T00:51:16.571114Z,frasil-base,0.1.0,0,0,https://github.com/transcodeworks/frasil,"Frasil's conventions and time: deterministic CBOR, error classes, the timeline and its checks. An internal building block of Frasil, less stable than the `frasil` crate: depend on `frasil` instead."
+2026-11-17T00:51:17.03411Z,frasil-drive,0.1.0,0,0,https://github.com/transcodeworks/frasil,"The drive extension (ext-drive.md): a file tree in a Loro document. An internal building block of Frasil, less stable than the `frasil` crate: depend on `frasil` instead."
+2026-11-17T00:51:17.764762Z,frasil-index-derive,0.1.0,0,0,https://github.com/transcodeworks/frasil,"The derive macro of frasil's `index` feature. An internal building block of Frasil, less stable than the `frasil` crate: depend on `frasil` instead."
+2026-11-17T00:51:25.477732Z,frasil-adapter,0.1.0,0,0,https://github.com/transcodeworks/frasil,"Frasil's adapter interface. An internal building block of Frasil, less stable than the `frasil` crate: depend on `frasil` instead."
+2026-11-17T00:51:25.746081Z,mime-guardian,0.1.0,0,0,https://github.com/ItzTas/mime-guardian,Keeps your default applications the way you set them
+2026-11-17T00:51:25.794449Z,frasil-crypto,0.1.0,0,0,https://github.com/transcodeworks/frasil,"Frasil's primitives, key checks, the X-Wing wrap and signature schemes 0 and 2. An internal building block of Frasil, less stable than the `frasil` crate: depend on `frasil` instead."
+2026-11-17T00:51:26.445578Z,frasil-resolve,0.1.0,0,0,https://github.com/transcodeworks/frasil,"Frasil's resolution procedure, shared by the roster, the device list and the peer's skeleton. An internal building block of Frasil, less stable than the `frasil` crate: depend on `frasil` instead."
+2026-11-17T00:53:05.361766Z,semlex-schema,0.1.0,0,0,https://github.com/jerbly/semlex,Serde model of Weaver's resolved/2.0 registry and the effective-attribute resolver.
+2026-11-17T00:53:07.436528Z,semlex-expand,0.1.0,0,0,https://github.com/jerbly/semlex,Expansion engine for semlex: pure functions from registry schema and call-site tokens to Rust tokens.
+2026-11-17T00:53:09.361833Z,semlex-macros,0.1.0,0,0,https://github.com/jerbly/semlex,Proc-macro shim for semlex: registry!() and the call-site macros.
+2026-11-17T00:53:11.292378Z,semlex,0.1.0,0,0,https://github.com/jerbly/semlex,"Compile-time OpenTelemetry semantic conventions for Rust, straight from your Weaver registry."
+2026-11-17T01:01:01.153746Z,libtracefs-core,0.0.0,0,0,,Placeholder for Dopame's libtracefs-core
+2026-11-17T01:03:01.820248Z,frasil-adapter-loro,0.1.0,0,0,https://github.com/transcodeworks/frasil,"Frasil's Loro adapter. An internal building block of Frasil, less stable than the `frasil` crate: depend on `frasil` instead."
+2026-11-17T01:03:07.550398Z,jazz-model,2.0.0-alpha.65.66-rc.0,0,0,https://github.com/garden-co/jazz,"Jazz's data model layer: schema, queries, transactions and the public schema model."
+2026-11-17T01:03:12.18384Z,jazz-protocol,2.0.0-alpha.65.66-rc.0,0,0,https://github.com/garden-co/jazz,"Jazz's protocol layer: sync messages, wire frames, protocol limits and authorization scopes."
+2026-11-17T01:03:15.592396Z,jazz-db,2.0.0-alpha.65.66-rc.0,0,0,https://github.com/garden-co/jazz,Jazz's database: the thread-affine Db facade over SQLite.
+2026-11-17T01:03:16.457706Z,miresidian_encoding,0.5.1,0,0,https://github.com/MyMires/miresidian,Miresidian 显式格式编解码增强。
+2026-11-17T01:03:19.549458Z,jazz-core,2.0.0-alpha.65.66-rc.0,0,0,https://github.com/garden-co/jazz,"Jazz's engine: a local-first, distributed, real-time database with full edit history and authorized sync, on SQLite."
+2026-11-17T01:03:22.875203Z,jazz-native-transport,2.0.0-alpha.65.66-rc.0,0,0,https://github.com/garden-co/jazz,Native (non-browser) WebSocket transport between Jazz clients and servers.
+2026-11-17T01:08:33.414939Z,robit-wechat,0.3.0,0,0,https://github.com/leexgone/robit,WeChat iLink Bot platform frontend for the robit agent.
+2026-11-17T01:10:24.704685Z,libtracefsd,0.0.0,0,0,,Placeholder for Dopame's libtracefsd
+2026-11-17T01:14:07.406845Z,frasil-adapter-records,0.1.0,0,0,https://github.com/transcodeworks/frasil,"Frasil's Records adapter. An internal building block of Frasil, less stable than the `frasil` crate: depend on `frasil` instead."
+2026-11-17T01:15:19.850511Z,tightbeam-wire,0.1.0,0,0,https://github.com/wahidgroup/tightbeam-ext,The envelope rules that message-oriented socket transports of tightbeam share
