@@ -1,0 +1,47 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-17T16:22:53.468633Z,sip-uri-diagnostics,1.0.0,0,0,https://github.com/voip-rs/sip-uri,"Warning codes, components and the parse error that sip-uri reports SIP, tel: and URN URI grammar breaches in"
+2026-11-17T16:26:23.315143Z,releaser-rs,0.1.0,0,0,https://github.com/PaoloFernetti/releaser,"Semantic-release для Rust: Conventional Commits → semver, CHANGELOG, теги"
+2026-11-17T16:26:27.672468Z,a2s-protocol,0.1.0,0,0,https://codeberg.org/nikolas-chomsky/a2s-protocol,A protocol core for building A2S server query clients
+2026-11-17T16:29:08.922806Z,simraft-core,0.1.0,0,0,https://github.com/david-engelmann/simraft-kv,"Sans-I/O Raft consensus core for simraft-kv: a pure deterministic state machine with Pre-Vote, fast log backup, and persist-before-response ordering"
+2026-11-17T16:29:49.210486Z,inferone,0.1.0,0,0,,Small dependency-free Hausdorff distance library for point sets.
+2026-11-17T16:33:04.101311Z,irender-markdown-kit,0.2.0,0,0,https://github.com/kaushik-xs/iRender,Markdown for iRender documents: a safe renderer and an editor with a toolbar and live preview
+2026-11-17T16:33:12.570718Z,irender-cli,0.2.0,0,0,https://github.com/kaushik-xs/iRender,Validate and render iRender documents from the command line
+2026-11-17T16:33:29.475673Z,fasthtmlparser,0.1.0,0,0,https://github.com/romanti3172/fasthtmlparser-rs,"Fast HTML / XML parser for scraping with XPath 1.0 and CSS selectors: a flat tag list, lazy text and attributes. A port of z3l.FastHtmlParser."
+2026-11-17T16:37:16.686229Z,graphlink-auth,0.1.1,0,0,https://github.com/chedim/graphlink,"graphlink-auth: HS256 tokens (JWT) for graphlink peers; std only: SHA-256, HMAC and base64url are written here"
+2026-11-17T16:37:17.059462Z,graphlink-core,0.1.1,0,0,https://github.com/chedim/graphlink,"The graph link's protocol core: the subscription table and the replica notes (no network, no VM)"
+2026-11-17T16:37:18.694553Z,graphlink-net,0.1.1,0,0,https://github.com/chedim/graphlink,"A TCP transport for graphlink-core: one JSON frame per line, non-blocking"
+2026-11-17T16:37:19.141053Z,graphlink-shm,0.1.1,0,0,https://github.com/chedim/graphlink,"A shared-memory transport for graphlink-core: two single-producer rings in a mapped file, no dependency"
+2026-11-17T16:37:19.773313Z,graphlink-cli,0.1.1,0,0,https://github.com/chedim/graphlink,"graphlink: serve a few nodes, watch them, write one (a debugging tool and a demo peer for graphlink-core)"
+2026-11-17T16:38:00.584111Z,ic-storage-derive,0.76.0,0,0,https://github.com/dragginzgame/ic-storage,Experimental declarations for bounded scalar storage records
+2026-11-17T16:40:39.548072Z,usenet,0.1.0,0,0,https://github.com/AugusDogus/usenet-rs,"Reads Usenet releases as files: NNTP, yEnc, NZB, and stored RAR layouts"
+2026-11-17T16:43:20.142704Z,cityparquet-schema,0.1.0,0,0,https://github.com/cityjson/cityparquet,"CityParquet type system, CityGML CM taxonomy, and Arrow schema definitions"
+2026-11-17T16:43:22.6651Z,cityparquet,0.1.0,0,0,https://github.com/cityjson/cityparquet,CityParquet reader and writer (Arrow + Parquet)
+2026-11-17T16:43:25.130811Z,cityparquet-cli,0.1.0,0,0,https://github.com/cityjson/cityparquet,CityParquet command-line tool
+2026-11-17T16:43:46.580459Z,dgos,0.1.0,0,0,,DataFlow Graph OS: a small dataflow-graph core (placeholder release)
+2026-11-17T16:44:34.419626Z,drata-client,0.1.0,0,0,https://github.com/WealthLine/drata-client,"Client for Drata's custom connections and Access Review APIs, with full-replace sync and a keyless dry run"
+2026-11-17T16:45:05.90964Z,monitor-core,0.2.0,0,0,https://github.com/houseme/service-watch,Cross-platform service & hardware monitoring library
+2026-11-17T16:48:04.205638Z,monitor-agent,0.2.0,0,0,https://github.com/houseme/service-watch,service-watch monitoring agent
+2026-11-17T16:48:38.976691Z,graphlink-bridge,0.1.1,0,0,https://github.com/chedim/graphlink,"graphlink-bridge: TCP outward, shared memory inward: joins a seat to a remote peer without a socket in the seat"
+2026-11-17T16:48:53.010124Z,monitorctl,0.2.0,0,0,https://github.com/houseme/service-watch,service-watch control CLI
+2026-11-17T16:50:59.13915Z,avd-asn,0.2.0,0,0,,"Deterministic integer adaptive semantic neurons with one-shot memory, E-Means clustering, and Z3 validation"
+2026-11-17T16:53:47.541898Z,grana-store,0.2.0,0,0,https://github.com/formetaohy/Grana,Next-generation microscopy image visualization and analysis platform
+2026-11-17T16:54:03.28021Z,grana-exec,0.2.0,0,0,https://github.com/formetaohy/Grana,Next-generation microscopy image visualization and analysis platform
+2026-11-17T16:54:19.368016Z,grana-codec,0.2.0,0,0,https://github.com/formetaohy/Grana,Next-generation microscopy image visualization and analysis platform
+2026-11-17T16:54:49.86479Z,grana-geometry,0.2.0,0,0,https://github.com/formetaohy/Grana,Next-generation microscopy image visualization and analysis platform
+2026-11-17T16:55:13.377545Z,cho-core,0.1.1,0,0,https://github.com/ujuddeok/chorong,"Source buffers, byte-exact positions and chorong:// links."
+2026-11-17T16:55:14.40304Z,cho-fonts,0.1.1,0,0,https://github.com/ujuddeok/chorong,Picks installed UI and code font families for GPUI (shared by the viewer and the layout lab).
+2026-11-17T16:55:15.172439Z,cho-layout,0.1.1,0,0,https://github.com/ujuddeok/chorong,"Chorong's window layout model: docks, panes, tabs, pins and focus layouts. No GPUI dependency."
+2026-11-17T16:55:15.596293Z,cho-metrics,0.1.1,0,0,https://github.com/ujuddeok/chorong,"Always-on, allocation-free per-feature cost counters, rolling windows and frame-budget tracking for Chorong."
+2026-11-17T16:55:16.02939Z,cho-search,0.1.1,0,0,https://github.com/ujuddeok/chorong,"Repository text search for Chorong, built on ripgrep's libraries."
+2026-11-17T16:55:41.800491Z,orus,0.1.0,0,0,https://github.com/OrusKernel/orus,"Orus is an AI-assisted, formally verified microkernel written in Rust and checked with Verus"
+2026-11-17T16:55:57.06056Z,grana-display,0.2.0,0,0,https://github.com/formetaohy/Grana,Next-generation microscopy image visualization and analysis platform
+2026-11-17T16:58:55.975624Z,q-periapt-sdk,0.2.0,0,0,https://github.com/billlza/q-periapt,"Owned, signed-policy ContextBound runtime for Q-Periapt"
+2026-11-17T16:59:06.696418Z,q-periapt-host-store,0.2.0,0,0,https://github.com/billlza/q-periapt,Private host policy persistence and runtime ownership for Q-Periapt
+2026-11-17T17:02:14.512284Z,grana-warp,0.2.0,0,0,https://github.com/formetaohy/Grana,Next-generation microscopy image visualization and analysis platform
+2026-11-17T17:02:21.280069Z,axa-sqlite-job-queue,0.2.0,0,0,https://github.com/publicprojects-io/axa/,"A SQLite job queue, worker pool, and recurring schedules for Axum services."
+2026-11-17T17:03:01.407132Z,picusbase-function-sdk,0.1.0,0,0,https://github.com/picusbase/picusbase-sdk-rust,SDK for writing native (native-v1) PicusBase Compute Functions in Rust
+2026-11-17T17:03:05.312704Z,picusbase-agent-runtime,0.1.0,0,0,https://github.com/picusbase/picusbase-sdk-rust,"Orchestration core of the AI assistant, shared by every app on PicusBase"
+2026-11-17T17:03:37.239601Z,pixdither,0.1.0,0,0,,"Pixel-square ordered dithering (Bayer 4/8, IGN) of SVGs, images and procedural fields into crisp tone grids — plus multi-series charts and isometric vector scenes."
+2026-11-17T17:06:55.093413Z,cho-syntax,0.1.1,0,0,https://github.com/ujuddeok/chorong,Tree-sitter language registry and syntax highlighting for Chorong.
+2026-11-17T17:08:18.496734Z,skif-cache,0.0.1,0,0,https://github.com/polylint/skif,The disk cache store of skif. Placeholder: the first real release is 0.9.0.
+2026-11-17T17:11:59.599302Z,grana-archive,0.2.0,0,0,https://github.com/formetaohy/Grana,Next-generation microscopy image visualization and analysis platform
