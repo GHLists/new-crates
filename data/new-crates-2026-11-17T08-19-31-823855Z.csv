@@ -1,0 +1,31 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-17T07:22:54.693823Z,ultron-agent-core,1.0.0,0,0,https://github.com/alfredosdpiii/ultron-rs,"Agent loop of packages/agent: turns over ai streaming, tool execution, steering/follow-up queues, abort, and the AgentEvent stream"
+2026-11-17T07:22:59.043552Z,crypto-service-sdk,0.0.40,0,0,https://github.com/sebastienrousseau/crypto-service-sdk-rust,Async and blocking typed client for the Crypto Service REST API (crypto-server v2)
+2026-11-17T07:28:12.859945Z,axum-plugin-macros,0.1.0,0,0,https://github.com/fa-sharp/axum-plugin,Macros for axum-plugin
+2026-11-17T07:28:22.48852Z,axum-plugin,0.3.0,0,0,https://github.com/fa-sharp/axum-plugin,A small plugin layer for axum applications
+2026-11-17T07:33:15.975346Z,ctyp,0.1.0,0,0,https://git.corbet.ch/corbet-fsl/ctyp,"Document library over ctypst and cletter: papers, fonts, blocks, correspondence, rendering, measurement, PDF"
+2026-11-17T07:33:24.229257Z,cvst,0.1.0,0,0,https://git.corbet.ch/corbet-fsl/cvst,"CareerVector style library: style catalogue, contracts, Typst templates and style assets"
+2026-11-17T07:33:36.446759Z,ultron-mcp,1.0.0,0,0,https://github.com/alfredosdpiii/ultron-rs,"MCP client (JSON-RPC 2.0 over stdio), tool-result content conversion, and mcp.json configuration"
+2026-11-17T07:34:57.767515Z,docattest-markdown,1.0.0,0,0,https://github.com/docattest/docattest,markdown-rs 1.0.0 with the fixes docattest needs to parse as micromark does (see PATCHES.md); use markdown-rs itself unless you need these.
+2026-11-17T07:35:21.604239Z,docattest-core,0.1.2,0,0,https://github.com/docattest/docattest,The language-neutral core of docattest: documentation that CI can fail.
+2026-11-17T07:35:50.243558Z,docattest,0.1.2,0,0,https://github.com/docattest/docattest,"Documentation that CI can fail, for Rust projects: the docattest command and its Rust adapter."
+2026-11-17T07:41:42.88085Z,lotar-tasks,0.0.0,0,0,https://github.com/localtaskrepo/lotar,Placeholder for a crate of lotar (https://github.com/localtaskrepo/lotar); the real crate follows with the next release
+2026-11-17T07:41:44.759275Z,lotar-agent,0.0.0,0,0,https://github.com/localtaskrepo/lotar,Placeholder for a crate of lotar (https://github.com/localtaskrepo/lotar); the real crate follows with the next release
+2026-11-17T07:42:33.138094Z,bedrock-index,0.1.0,0,0,https://github.com/aynader/Bedrock,"Every file name on a Windows PC in memory-mapped columns, kept current from the NTFS change journal, searched in Everything's syntax."
+2026-11-17T07:44:05.779372Z,ultron-client,1.0.0,0,0,https://github.com/alfredosdpiii/ultron-rs,"Ultron session client: handshake, request correlation, Unix socket discovery, the Radius relay client transport and reconnector"
+2026-11-17T07:45:20.798886Z,tree-sitter-probl,0.1.0,0,0,https://github.com/garlab/probl,Probl grammar and queries for Tree-sitter
+2026-11-17T07:46:13.309036Z,relative-meta-logic,0.19.1,0,0,https://github.com/link-foundation/relative-meta-logic,A prototype for logic framework that can reason about anything relative to given probability of input statements
+2026-11-17T07:49:40.393185Z,ultron-compaction,1.0.0,0,0,https://github.com/alfredosdpiii/ultron-rs,"Context compaction and branch summarization of packages/coding-agent/src/core/compaction: token estimation, cut points, summary requests"
+2026-11-17T07:54:56.308492Z,pkgre,0.5.0,0,0,https://github.com/pkgre/pkgre,Command-line tool for the pkgre curated package registries
+2026-11-17T07:54:59.980686Z,pkgre-pkgs-pkgre-rust,0.5.0,0,0,https://github.com/pkgre/pkgre,Declarative reconciler and renderer for curated Cargo sparse registries
+2026-11-17T07:56:06.68264Z,ccvl,0.1.0,0,0,,"Shared CareerVector engine: style contracts, document bundles and the Yrs document engine"
+2026-11-17T08:00:27.570813Z,ultron-interactive,1.0.0,0,0,https://github.com/alfredosdpiii/ultron-rs,"Interactive-mode conversation components (messages, tool/rlm cells, bash, summaries, footer, diffs) on the tui crate"
+2026-11-17T08:00:40.792649Z,rove-math,0.1.0,0,0,,"Rove Engine math: vectors, matrices, quaternions and transforms"
+2026-11-17T08:00:50.678232Z,rove-scene,0.1.0,0,0,,"Rove Engine scene: cameras, lights, meshes and PBR materials"
+2026-11-17T08:01:48.100626Z,rove-render,0.1.0,0,0,,"Rove Engine renderer: physically based, image based lighting, cascaded shadows"
+2026-11-17T08:02:39.157935Z,rove-app,0.1.0,0,0,,Rove Engine application layer: windowing and the frame loop
+2026-11-17T08:02:56.889182Z,serde-yaml-rust2,0.1.0,0,0,https://github.com/NITI-Lab/serde-yaml-rust2,"YAML serialization/deserialization built on yaml-rust2 — a safe, pure-Rust, YAML 1.2 serde integration"
+2026-11-17T08:03:00.263885Z,rove-demo,0.1.0,0,0,,Rove Engine PBR showcase
+2026-11-17T08:11:06.941125Z,clione_input,0.1.1,0,0,https://github.com/kazanefu/clione,Input handling module for the Clione game engine
+2026-11-17T08:11:17.334335Z,ultron-kernel-apis,1.0.0,0,0,https://github.com/alfredosdpiii/ultron-rs,"Host operations behind the thin Python kernel APIs: code skills and the skill catalog, memory, hints, images"
+2026-11-17T08:17:21.557706Z,licers,1.0.0,0,0,,"Licers license-key verification: Ed25519-signed responses, floating seats, usage credits, remote variables, offline licenses."
