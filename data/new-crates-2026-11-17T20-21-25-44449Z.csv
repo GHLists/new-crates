@@ -1,0 +1,43 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-17T19:21:01.791983Z,chorong,0.1.1,0,0,https://github.com/ujuddeok/chorong,"Chorong's headless command-line interface, for people and agents."
+2026-11-17T19:21:58.034033Z,grana-text,0.2.0,0,0,https://github.com/formetaohy/Grana,Next-generation microscopy image visualization and analysis platform
+2026-11-17T19:22:40.935525Z,weirdnet-sync,0.1.0,0,0,https://github.com/WeirdBrains/weirdnet-sync,"Weirdnet sync: hybrid logical clocks, an op log, LWW and OR-set merge, tombstone GC, SyncKey page sealing, a device roster with self-cert and revocation, and the weirdnet-sync/v1 pull protocol over w…"
+2026-11-17T19:25:16.525832Z,chorong-app,0.1.1,0,0,https://github.com/ujuddeok/chorong,Chorong's GPU-rendered viewer.
+2026-11-17T19:26:20.841043Z,silicon-publishing-policy,0.1.0,0,0,https://github.com/teamofsilicons/silicon-organizations,Shared organization publishing authorization for Silicon developer resources
+2026-11-17T19:28:14.588748Z,willow-logs-agg-core,0.1.0,0,0,https://github.com/willow-network/willow-verify,Aggregation statements for Willow's log proofs
+2026-11-17T19:32:22.625067Z,grana-raster,0.2.0,0,0,https://github.com/formetaohy/Grana,Next-generation microscopy image visualization and analysis platform
+2026-11-17T19:32:43.298644Z,quic_wg,0.5.0,0,0,https://github.com/occasionallydavid/quic_wg,Authenticated QUIC streams and HTTP over userspace WireGuard
+2026-11-17T19:35:13.046561Z,freya-hypereffect,0.1.0,0,0,,"A Freya renderer for hypereffect, drawn with Freya's own components and theme."
+2026-11-17T19:38:14.745503Z,willow-logs-query,0.1.0,0,0,https://github.com/willow-network/willow-verify,"Willow's eth_getLogs proofs, verified: every range and link of a response"
+2026-11-17T19:40:38.881745Z,prime-rs-core,0.1.0,0,0,https://github.com/anton-avramchuk/prime-rs,prime-rs: core
+2026-11-17T19:40:41.822669Z,prime-icons,0.1.0,0,0,https://github.com/anton-avramchuk/prime-rs,prime-rs: PrimeNG SVG icons
+2026-11-17T19:40:45.019372Z,prime-accordion,0.1.0,0,0,https://github.com/anton-avramchuk/prime-rs,prime-rs: Accordion component (PrimeNG port)
+2026-11-17T19:40:47.918671Z,prime-chip,0.1.0,0,0,https://github.com/anton-avramchuk/prime-rs,prime-rs: Chip component (port of PrimeNG)
+2026-11-17T19:41:07.238073Z,prime-dom,0.1.0,0,0,https://github.com/anton-avramchuk/prime-rs,prime-rs: dom
+2026-11-17T19:41:50.401157Z,vitals-machines,0.1.0,0,0,https://github.com/seuros/vitals_machines,Host vital signs and a recovery machine that waits for them to hold before calling it recovered
+2026-11-17T19:42:55.377422Z,grana-figure,0.2.0,0,0,https://github.com/formetaohy/Grana,Next-generation microscopy image visualization and analysis platform
+2026-11-17T19:47:38.420749Z,freya-cop,0.1.0,0,0,https://github.com/andunieee/freya-cop,"A Freya client for the Cassis Order Protocol: hypereffect pages over iroh, with invoices in and out."
+2026-11-17T19:48:14.874794Z,willow-logs-verify-openvm,0.1.0,0,0,https://github.com/willow-network/willow-verify,The pinned OpenVM program keys of Willow's log proofs (the OpenVM verifier itself is not in this package)
+2026-11-17T19:51:23.54128Z,prime-inputtext,0.1.0,0,0,https://github.com/anton-avramchuk/prime-rs,prime-rs: InputText component (PrimeNG port)
+2026-11-17T19:52:48.634272Z,sew-call-client,0.8.2,0,0,https://github.com/Alakazam-211/sew-crates,"Sew's native voice engine: LiveKit-protocol signalling and reconnect against Sew's media server, str0m transport with TURN over UDP, TCP and TLS (relay-only when asked), MLS call keys with the mandat…"
+2026-11-17T19:52:54.407554Z,grana-vector,0.2.0,0,0,https://github.com/formetaohy/Grana,Next-generation microscopy image visualization and analysis platform
+2026-11-17T19:54:14.232006Z,tauri-plugin-sew-voice,0.8.2,0,0,https://github.com/Alakazam-211/sew-crates,"Sew native voice calls for Tauri 2 apps: join, leave, mute, devices and live call state, with the sign-in kept in host Rust (JoinProvider)."
+2026-11-17T19:58:17.875288Z,willow-logs-verify,0.1.0,0,0,https://github.com/willow-network/willow-verify,"willow-logs-verify: verify a Willow RPC response on your own machine (log proofs, blocks, transactions, state and anchors)"
+2026-11-17T19:58:21.786993Z,validation-errors,0.1.1,0,0,https://github.com/connetto-rs/diesel-builders,"Validation errors for diesel-builders models, convertible into Diesel and builder errors."
+2026-11-17T20:02:13.865541Z,codecsls,0.1.0,0,0,https://github.com/Aegyptiacus11/codecsls-rs,"Lossless image codecs in safe Rust: JPEG-LS (ITU-T T.87), gray and colour"
+2026-11-17T20:02:20.446284Z,prime-autocomplete,0.1.0,0,0,https://github.com/anton-avramchuk/prime-rs,prime-rs: AutoComplete component (PrimeNG port)
+2026-11-17T20:03:01.691526Z,grana-chart,0.2.0,0,0,https://github.com/formetaohy/Grana,Next-generation microscopy image visualization and analysis platform
+2026-11-17T20:03:41.70149Z,transsafety-minimal-core,0.1.0,0,0,https://github.com/MaleneJung/transsafety-minimal-core,The core functionality of transsafety-minimal
+2026-11-17T20:03:59.978498Z,zgraphics,0.1.0,0,0,https://github.com/LIghtJUNction/ztty,"Bounded no_std Kitty graphics protocol, PNG decoding and terminal image placement"
+2026-11-17T20:05:57.830665Z,jwt-sessions,0.1.0,0,0,https://github.com/Aegyptiacus11/jwt-sessions-rs,"First-party JWT auth: rotating, reuse-detecting refresh tokens in an httpOnly cookie, with an axum router"
+2026-11-17T20:08:21.118679Z,willow-logs-verify-wasm,0.1.0,0,0,https://github.com/willow-network/willow-verify,"The verify page's log verifier (SP1), callable natively"
+2026-11-17T20:10:43.775052Z,prime-avatar,0.1.0,0,0,https://github.com/anton-avramchuk/prime-rs,prime-rs: Avatar component (PrimeNG port)
+2026-11-17T20:12:13.034449Z,grana-page,0.2.0,0,0,https://github.com/formetaohy/Grana,Next-generation microscopy image visualization and analysis platform
+2026-11-17T20:13:24.449005Z,process-cwd,1.0.0,0,0,https://github.com/heavenstudio/symphony,"Working-directory scans of running processes through lsof, and children started without a fork, as Symphony's sweeps use them."
+2026-11-17T20:13:25.339578Z,symphony-args,1.0.0,0,0,https://github.com/heavenstudio/symphony,"Command-line arguments with stable option matching and refusals, as Symphony's commands read them."
+2026-11-17T20:13:25.947725Z,symphony-blocks,1.0.0,0,0,https://github.com/heavenstudio/symphony,"The blocks a Symphony plugin renders to and the data its seams return, as the server sends them and the client draws them. Part of Symphony's plugin kit."
+2026-11-17T20:13:26.624883Z,symphony-docs,1.0.0,0,0,https://github.com/heavenstudio/symphony,"The checks a Symphony project's docs build runs over its documents, and the Markdown syntax every reader of them shares. Part of Symphony's plugin kit."
+2026-11-17T20:13:27.281387Z,symphony-env,1.0.0,0,0,https://github.com/heavenstudio/symphony,"Symphony's environment variables, each by its one SYMPHONY_ name, read by one rule: an empty value is unset."
+2026-11-17T20:17:51.490305Z,symphony-schema,1.0.0,0,0,https://github.com/heavenstudio/symphony,"Local JSON Schema validation with stable diagnostics and no external reference reads, as Symphony checks its settings files."
+2026-11-17T20:18:18.035696Z,willow-rpc,0.1.0,0,0,https://github.com/willow-network/willow-verify,"A verifying JSON-RPC client for Willow: every response is verified on your machine against proofs and a light client, with an alloy transport"
+2026-11-17T20:21:08.637301Z,prime-avatargroup,0.1.0,0,0,https://github.com/anton-avramchuk/prime-rs,prime-rs: AvatarGroup component (port of PrimeNG)
