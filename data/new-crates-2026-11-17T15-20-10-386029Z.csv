@@ -1,0 +1,54 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-17T14:19:12.657737Z,qqbot-sdk-core,0.3.1,0,0,https://github.com/Lovely-02/qqbot-sdk-rs,轻巧、异步的 QQ 官方机器人 SDK：鉴权、消息、事件、群与频道管理
+2026-11-17T14:19:22.680604Z,subspace-report-issue,0.1.0,0,0,,Subspace Framework: issue reports with explicit diagnostics and image consent. Internal crate; apps depend on `subspace-framework`.
+2026-11-17T14:22:22.581311Z,bootstyle,0.1.1,0,0,https://github.com/StarcevAlexander/bootstyle,"Bootstrap 5 UI components for Rust - typed builders that render framework-agnostic HTML and CSS for axum, actix-web, rocket, SSR and static sites. Zero JavaScript. Forms, tables, navigation, modals."
+2026-11-17T14:25:48.494875Z,agy-statusline,0.1.0,0,0,https://github.com/fdkevin0/agy-statusline-rs,Safe Rust port of agy-statusline: cache hit rate and last-turn generation speed statusline.
+2026-11-17T14:25:52.966354Z,gotipe-versioning,0.1.0,0,0,https://github.com/veniameen/gotipe,"Document versions for GoTipe: snapshots, block-level comparison and restore."
+2026-11-17T14:26:27.1135Z,coastguard_derive,0.1.1,0,0,https://codeberg.org/xmort/coastguard,Derive macro for Coastguard
+2026-11-17T14:26:29.530916Z,coastguard,0.1.1,0,0,https://codeberg.org/xmort/coastguard,Schema-based serialization system
+2026-11-17T14:29:11.163035Z,citygml-core,0.1.0,0,0,https://github.com/cityjson/cityparquet,"Version-neutral CityGML model, GML geometry and the conversion to CityJSON"
+2026-11-17T14:29:12.839195Z,citygml2,0.1.0,0,0,https://github.com/cityjson/cityparquet,CityGML 2.0 reader and writer
+2026-11-17T14:29:13.093664Z,citygml3,0.1.0,0,0,https://github.com/cityjson/cityparquet,CityGML 3.0 reader and writer
+2026-11-17T14:29:13.843252Z,citygml-citydb,0.1.0,0,0,https://github.com/cityjson/cityparquet,3DCityDB v5 reader: a database's city objects as CityGML model objects
+2026-11-17T14:29:14.082559Z,citygml-rs,0.1.0,0,0,https://github.com/cityjson/cityparquet,"CityGML 2.0 and 3.0 to and from CityJSON, whichever version a document is"
+2026-11-17T14:29:32.869145Z,subspace-search-ui,0.1.0,0,0,,Subspace Framework: the retained full-text search view and source settings. Internal crate; apps depend on `subspace-framework`.
+2026-11-17T14:30:53.24597Z,ev_lib_macros,0.1.0,0,0,https://github.com/EV-Main/web_std,"ev_lib's derives: `Views` (a service's views, their hrefs and their table)"
+2026-11-17T14:30:55.925365Z,trash-streamers-contracts,1.2.10,0,0,https://github.com/<you>/<repo>,Protobuf definitions and generated Rust types
+2026-11-17T14:33:44.496153Z,foxfire-acp,0.1.0,0,0,https://github.com/jcarver989/foxfire,Agent Client Protocol (ACP) client utilities and Aether protocol extensions
+2026-11-17T14:33:46.266059Z,foxfire-core,0.1.0,0,0,https://github.com/jcarver989/foxfire,UI-agnostic Agent Client Protocol (ACP) client core shared by foxfire's frontends
+2026-11-17T14:33:48.137203Z,foxfire-tui,0.1.0,0,0,https://github.com/jcarver989/foxfire,Embeddable terminal UI for AI coding agents via the Agent Client Protocol (ACP)
+2026-11-17T14:33:49.836292Z,foxfire,0.1.0,0,0,https://github.com/jcarver989/foxfire,A terminal client for AI coding agents via the Agent Client Protocol (ACP)
+2026-11-17T14:36:08.7649Z,gotipe-export,0.1.0,0,0,https://github.com/veniameen/gotipe,"Import and export for GoTipe documents: Markdown, HTML, JSON, and its own PDF layout and DOCX writer."
+2026-11-17T14:37:28.992649Z,taigaui,0.1.1,0,0,https://github.com/StarcevAlexander/taigaui,"Taiga UI styled components for Rust - typed builders that render framework-agnostic HTML and CSS for axum, actix-web, rocket, SSR and static sites. Zero JavaScript. Buttons, inputs, tabs, alerts."
+2026-11-17T14:39:46.010467Z,subspace-shell,0.1.0,0,0,,"Subspace Framework shell: the window, switcher, palette, help, Settings and themes. Internal crate; apps depend on `subspace-framework`."
+2026-11-17T14:40:54.351112Z,samply-debugid-stackpulse,0.1.0,0,0,https://github.com/pablogsal/wholesym,Samply compatible debugids. (Stackpulse fork)
+2026-11-17T14:40:56.824311Z,samply-object-stackpulse,0.1.0,0,0,https://github.com/pablogsal/wholesym,Samply object functions. (Stackpulse fork)
+2026-11-17T14:40:59.512287Z,samply-symbols-stackpulse,0.1.0,0,0,https://github.com/pablogsal/wholesym,Symbolication utilities for the Firefox profiler. (Stackpulse fork)
+2026-11-17T14:41:02.144704Z,samply-api-stackpulse,0.1.0,0,0,https://github.com/pablogsal/wholesym,"JSON API for querying symbol information, uses samply-symbols. (Stackpulse fork)"
+2026-11-17T14:41:04.346617Z,irender-core,0.1.0,0,0,https://github.com/kaushik-xs/iRender,"Document model, expressions, theming, policy and validation for iRender"
+2026-11-17T14:41:04.674519Z,wholesym-stackpulse,0.1.0,0,0,https://github.com/pablogsal/wholesym,A complete solution for fetching symbol files and resolving code addresses to symbols and debuginfo. (Stackpulse fork)
+2026-11-17T14:41:06.017206Z,irender-style,0.1.0,0,0,https://github.com/kaushik-xs/iRender,"Compiles iRender style blocks into hashed, deduplicated CSS classes"
+2026-11-17T14:41:07.549941Z,irender-html,0.1.0,0,0,https://github.com/kaushik-xs/iRender,Server-side HTML renderer and tiny browser runtime for iRender documents
+2026-11-17T14:41:09.229599Z,irender-icon-kit,0.1.0,0,0,https://github.com/kaushik-xs/iRender,"SVG icons for iRender documents: original outline icons in packs per industry, plus your own"
+2026-11-17T14:41:09.727925Z,irender-ui-kit,0.1.0,0,0,https://github.com/kaushik-xs/iRender,"A ready-made component kit for iRender: buttons, cards, alerts, form controls, tables and more"
+2026-11-17T14:41:35.271213Z,mcp-goals,0.1.0,0,0,https://github.com/seuros/chaos,Wire types and lifecycle state machine for the chaos/goals MCP extension
+2026-11-17T14:42:09.572772Z,pdf-probe,0.4.0,0,0,https://github.com/polybot-platform/pdf-probe,"A small, fail-closed reader that answers two questions about an untrusted PDF: how many pages, and how big is each page."
+2026-11-17T14:46:43.852392Z,gotipe-export-wasm,0.1.0,0,0,https://github.com/veniameen/gotipe,WebAssembly bindings of the GoTipe PDF and DOCX exporter (the @gotipe/export-wasm npm package).
+2026-11-17T14:49:59.547129Z,subspace-framework,0.1.0,0,0,,The Subspace Framework: build desktop dashboard apps from Spaces with GPUI Kit
+2026-11-17T14:52:29.980539Z,misb,0.1.1,0,0,https://github.com/Mattbusel/misb,"MISB KLV metadata for drone video (STANAG 4609): ST 0601 UAS Datalink, ST 0102 security, ST 0903 VMTI and ST 1201 IMAPB. Decode and encode, checksum checked, no_std, no dependencies"
+2026-11-17T14:56:23.056603Z,irender-chart-kit,0.1.0,0,0,https://github.com/kaushik-xs/iRender,"Charts for iRender documents, drawn by Apache ECharts: every series type, themed from the document's tokens"
+2026-11-17T14:56:25.314108Z,irender-flow-kit,0.1.0,0,0,https://github.com/kaushik-xs/iRender,"Node-and-edge diagrams for iRender documents: React Flow-compatible JSON, node types written as ordinary iRender trees"
+2026-11-17T14:56:59.077136Z,gotipe-wasm,0.1.0,0,0,https://github.com/veniameen/gotipe,WebAssembly bindings of the GoTipe editor engine (the @gotipe/wasm npm package).
+2026-11-17T14:57:45.67041Z,pcfg,0.1.3,0,0,,Password cracker using Probabilistic Context-Free Grammars
+2026-11-17T15:01:39.852995Z,uas-cot,0.1.0,0,0,https://github.com/Mattbusel/uas-cot,"Drone telemetry to Cursor on Target (CoT) for TAK: Remote ID, MISB ST 0601 KLV (STANAG 4609 video) and MAVLink to ATAK/WinTAK/TAK Server, with the uas2cot command line bridge"
+2026-11-17T15:02:11.710288Z,keenable,0.1.0,0,0,https://github.com/keenableai/keenable-sdk,"Official Rust SDK for Keenable, the web search API built for AI agents: search, fetch, citable context and tool calling."
+2026-11-17T15:02:52.809325Z,logdrop,0.1.0-alpha1,0,0,,LogDrop tracing for Rust services: OpenTelemetry with LogDrop's privacy pipeline
+2026-11-17T15:08:48.333523Z,hephaestus-device,0.4.0,0,0,https://github.com/open-hephaestus/sdk,"Device SDK for Hephaestus: claim, mTLS MQTT, device twin, remote methods, OTA, certificate renewal, a console terminal and installing from the registry"
+2026-11-17T15:08:50.821853Z,hephaestus-esp-idf,0.4.0,0,0,https://github.com/open-hephaestus/sdk,"Hephaestus device library for ESP32 on ESP-IDF: Wi-Fi, MQTT/TLS, claim and certificate renewal, twin, OTA, sensors"
+2026-11-17T15:09:13.812867Z,hephaestus-edge,0.4.0,0,0,https://github.com/open-hephaestus/sdk,"Hephaestus agent for Linux boxes and gateways: the device's connection, a terminal in the console, installing containers, Helm charts and OS images from the registry, and what is installed"
+2026-11-17T15:12:46.777064Z,karyos-sys,0.1.0-alpha.3,0,0,https://github.com/quantstratum/karyos,"Shared memory mappings, AtomicBuffer, rings, broadcast buffer, counters, seqlock slots, TSC and NUMA placement."
+2026-11-17T15:12:53.408306Z,karyos-protocol,0.1.0-alpha.3,0,0,https://github.com/quantstratum/karyos,"Frame layouts, flyweights and channel URI parsing."
+2026-11-17T15:12:57.089442Z,karyos-codec,0.1.0-alpha.3,0,0,https://github.com/quantstratum/karyos,Derive macro support for message views and encoders.
+2026-11-17T15:13:02.422644Z,karyos-client,0.1.0-alpha.3,0,0,https://github.com/quantstratum/karyos,"Publications, subscriptions, the client conductor, conflation and lanes."
+2026-11-17T15:13:07.236372Z,karyos-io,0.1.0-alpha.3,0,0,https://github.com/quantstratum/karyos,"Backend traits, the sockets backend, hardware timestamps and timed transmission; the uring and xdp features add the other backends."
+2026-11-17T15:19:29.59089Z,karyos-archive,0.1.0-alpha.3,0,0,https://github.com/quantstratum/karyos,"Recording, catalog, replay and recording groups."
