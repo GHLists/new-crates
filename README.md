@@ -8,52 +8,59 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-17 13:18 UTC
+## Latest list — 2026-11-17 14:18 UTC
 
-New crates published between 2026-11-17 12:19 UTC and 2026-11-17 13:18 UTC.
+New crates published between 2026-11-17 13:18 UTC and 2026-11-17 14:18 UTC.
 
-[Full CSV](data/new-crates-2026-11-17T13-18-22-691148Z.csv)
+[Full CSV](data/new-crates-2026-11-17T14-18-24-123533Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-17 12:25:09 | [biome_db](https://crates.io/crates/biome_db) | 0.7.2 | 0 | Biome internal database |
-| 2026-11-17 12:26:37 | [scioxide-rootfind](https://crates.io/crates/scioxide-rootfind) | 0.1.0 | 0 | Scalar, system, and polynomial root finding |
-| 2026-11-17 12:27:16 | [subspace-search-onnx](https://crates.io/crates/subspace-search-onnx) | 0.1.0 | 0 | Subspace Framework: local ONNX reranking for full-text search. Internal crate;… |
-| 2026-11-17 12:27:17 | [retry-please](https://crates.io/crates/retry-please) | 0.1.0 | 0 | Asynchronous retries |
-| 2026-11-17 12:30:49 | [nostromo](https://crates.io/crates/nostromo) | 0.1.1 | 0 | Managed Cargo build storage on macOS and Linux, with optional APFS CoW reuse |
-| 2026-11-17 12:32:56 | [libsmx-fix](https://crates.io/crates/libsmx-fix) | 0.3.0 | 0 | Temporary patched libsmx with crypto-bigint 0.7 (RUSTSEC-2026-0387 fix); use up… |
-| 2026-11-17 12:33:20 | [agshell](https://crates.io/crates/agshell) | 0.5.1 | 0 | A supervised execution shell for coding agents: per-command and per-stage exit… |
-| 2026-11-17 12:36:41 | [scioxide-ode](https://crates.io/crates/scioxide-ode) | 0.1.0 | 0 | IVP and collocation BVP ODE solvers with events and adaptivity |
-| 2026-11-17 12:37:28 | [subspace-agent-tools](https://crates.io/crates/subspace-agent-tools) | 0.1.0 | 0 | Subspace Framework: the agent tool interface boards advertise, with batched wri… |
-| 2026-11-17 12:42:07 | [slashbuilder-post-kit](https://crates.io/crates/slashbuilder-post-kit) | 0.1.0 | 0 | Personas that write blog posts: a tool-less, schema-checked model call, determi… |
-| 2026-11-17 12:46:19 | [scioxide-random](https://crates.io/crates/scioxide-random) | 0.1.0 | 0 | PRNG engines, distributions, quasi-random sequences, and sampling |
-| 2026-11-17 12:47:39 | [subspace-client-github](https://crates.io/crates/subspace-client-github) | 0.1.0 | 0 | Subspace Framework GitHub client: REST and GraphQL types and requests. Internal… |
-| 2026-11-17 12:49:21 | [slashbuilder-storage-kit](https://crates.io/crates/slashbuilder-storage-kit) | 0.2.0 | 0 | Content-addressed binary storage engine for the SlashBuilder Kit ecosystem: BLA… |
-| 2026-11-17 12:54:45 | [kvrail](https://crates.io/crates/kvrail) | 0.0.1 | 0 | KVRail: RDMA-over-Thunderbolt KV-cache store for Apple Silicon. v0.0.1 ships `k… |
-| 2026-11-17 12:55:48 | [deltaui_glifo](https://crates.io/crates/deltaui_glifo) | 0.5.0 | 0 | Glifo provides APIs for efficiently rendering text. Fork of glifo on deltaui_ve… |
-| 2026-11-17 12:55:52 | [deltaui_vello_gpu](https://crates.io/crates/deltaui_vello_gpu) | 0.4.0 | 0 | A GPU renderer for Vello with CPU-side preprocessing. Fork of vello_gpu on delt… |
-| 2026-11-17 12:56:24 | [scioxide-signal](https://crates.io/crates/scioxide-signal) | 0.1.0 | 0 | Signal transforms, filters, streaming, and dense continuous/discrete LTI systems |
-| 2026-11-17 12:56:39 | [lumen-schema](https://crates.io/crates/lumen-schema) | 0.1.0 | 0 | Reads, checks and formats schema.prisma files for lumen. |
-| 2026-11-17 12:57:09 | [lumen-orm](https://crates.io/crates/lumen-orm) | 0.1.0 | 0 | lumen's runtime: a query builder, relations and transactions for Postgres and M… |
-| 2026-11-17 12:57:44 | [lumen-migrate](https://crates.io/crates/lumen-migrate) | 0.1.0 | 0 | lumen's migrations: describe a database, diff it with the schema, write and app… |
-| 2026-11-17 12:57:48 | [subspace-github-auth](https://crates.io/crates/subspace-github-auth) | 0.1.0 | 0 | Subspace Framework: Sign in with GitHub, the OAuth browser and device flows. In… |
-| 2026-11-17 12:58:24 | [lumen-db-codegen](https://crates.io/crates/lumen-db-codegen) | 0.1.0 | 0 | Generates lumen's type-safe Rust client from a schema.prisma file. |
-| 2026-11-17 12:58:35 | [lumen-db-cli](https://crates.io/crates/lumen-db-cli) | 0.1.0 | 0 | The lumen command: init, format, validate, migrate, db push and generate. |
-| 2026-11-17 13:00:16 | [jber](https://crates.io/crates/jber) | 1.0.0 | 0 | Turn Altium, KiCad and EasyEDA Gerber archives into JLCPCB-ready sets |
-| 2026-11-17 13:01:52 | [enqrypta-sdk](https://crates.io/crates/enqrypta-sdk) | 0.1.0 | 0 | Official Rust SDK for Enqrypta — Post-Quantum Cryptography, Secure Runtimes, an… |
-| 2026-11-17 13:02:00 | [eaglet-macros](https://crates.io/crates/eaglet-macros) | 0.1.0 | 0 | Procedural macros for eaglet (#[module], #[injectable], #[controller], route at… |
-| 2026-11-17 13:02:04 | [slashbuilder-identity-kit](https://crates.io/crates/slashbuilder-identity-kit) | 0.2.0 | 0 | Account, family-graph and OIDC authentication primitives for the SlashBuilder K… |
-| 2026-11-17 13:02:08 | [plugin-rpc](https://crates.io/crates/plugin-rpc) | 0.1.0-alpha.1 | 0 | Reference implementation of the pluginrpc wire mechanism: line-delimited JSON-R… |
-| 2026-11-17 13:06:18 | [scioxide-stats](https://crates.io/crates/scioxide-stats) | 0.1.0 | 0 | Validated online statistics and exact empirical distributions |
-| 2026-11-17 13:06:42 | [chiffchaff](https://crates.io/crates/chiffchaff) | 0.9.0 | 0 | Identifies exactly which build of a piece of software is running, in a record t… |
-| 2026-11-17 13:07:58 | [subspace-update](https://crates.io/crates/subspace-update) | 0.1.0 | 0 | Subspace Framework updater: checks and installs an app's own GitHub releases. I… |
-| 2026-11-17 13:09:02 | [tumpel-api](https://crates.io/crates/tumpel-api) | 0.1.0 | 0 | Types and a typed client for the tumpel API and host channel, generated from it… |
-| 2026-11-17 13:12:09 | [eaglet](https://crates.io/crates/eaglet) | 0.1.0 | 0 | The NestJS structure for Rust web apps: modules, providers, controllers and gua… |
-| 2026-11-17 13:15:22 | [thinkingdata-core](https://crates.io/crates/thinkingdata-core) | 0.1.0 | 0 | Core implementation of the ThinkingData Analytics Rust SDK: data model, validat… |
-| 2026-11-17 13:15:58 | [thinkingdata](https://crates.io/crates/thinkingdata) | 0.1.0 | 0 | Rust SDK for ThinkingData Analytics (TE): API entry (blocking & async) plus the… |
-| 2026-11-17 13:16:09 | [scioxide-integrate](https://crates.io/crates/scioxide-integrate) | 0.1.0 | 0 | 1D and multi-dimensional numerical integration |
-| 2026-11-17 13:17:30 | [forgesworn-qr-embedded](https://crates.io/crates/forgesworn-qr-embedded) | 0.1.0 | 0 | Allocation-free no_std QR encoder with fixed caller-owned buffers and optional… |
-| 2026-11-17 13:18:12 | [subspace-agent](https://crates.io/crates/subspace-agent) | 0.1.0 | 0 | Subspace Framework agent runtime: Copilot, Pi and ACP chat engines. Internal cr… |
+| 2026-11-17 13:22:03 | [eaglet-cli](https://crates.io/crates/eaglet-cli) | 0.1.1 | 0 | The eaglet command line: create projects and generate modules, controllers, ser… |
+| 2026-11-17 13:26:20 | [scioxide-optimize](https://crates.io/crates/scioxide-optimize) | 0.1.0 | 0 | Unconstrained, constrained, and global optimization |
+| 2026-11-17 13:28:25 | [subspace-dashboard](https://crates.io/crates/subspace-dashboard) | 0.1.0 | 0 | Subspace Framework board kit: the Dashboard trait, shared widgets and design to… |
+| 2026-11-17 13:33:35 | [tumpel](https://crates.io/crates/tumpel) | 0.1.0 | 0 | The command line client for tumpel: sign in, configure a tenant and drive sessi… |
+| 2026-11-17 13:35:49 | [scioxide-pde](https://crates.io/crates/scioxide-pde) | 0.1.0 | 0 | PDE discretization (FDM/FEM/FVM) and solvers |
+| 2026-11-17 13:38:36 | [subspace-mcp](https://crates.io/crates/subspace-mcp) | 0.1.0 | 0 | Subspace Framework: the MCP server for the agent tools boards advertise. Intern… |
+| 2026-11-17 13:38:44 | [tumpel-channel](https://crates.io/crates/tumpel-channel) | 0.1.0 | 0 | The wire protocol between the tumpel control plane and its host supervisors |
+| 2026-11-17 13:38:44 | [tumpel-guest](https://crates.io/crates/tumpel-guest) | 0.1.0 | 0 | The agent inside a tumpel Firecracker box that runs a coding harness turn |
+| 2026-11-17 13:38:46 | [tumpel-supervisor](https://crates.io/crates/tumpel-supervisor) | 0.1.0 | 0 | The tumpel host supervisor: boots Firecracker boxes and runs coding agent turns… |
+| 2026-11-17 13:39:56 | [hekate-testkit](https://crates.io/crates/hekate-testkit) | 0.39.0 | 0 | Test oracles for Hekate programs: honest statements must verify and forged trac… |
+| 2026-11-17 13:44:52 | [rainhill](https://crates.io/crates/rainhill) | 1.0.0 | 0 | Jeu incrémental de réseau ferroviaire dans le terminal, de 1825 à demain |
+| 2026-11-17 13:45:44 | [scioxide-validated](https://crates.io/crates/scioxide-validated) | 0.1.0 | 0 | Certified interval and real/complex affine arithmetic with explicit resource bu… |
+| 2026-11-17 13:45:47 | [satusehat-integration](https://crates.io/crates/satusehat-integration) | 0.1.0 | 0 | SATUSEHAT FHIR R4 builder, validator and client — Rust core |
+| 2026-11-17 13:45:54 | [matui](https://crates.io/crates/matui) | 0.1.0 | 0 | Material Design UI components for Rust: builders that render styled, framework-… |
+| 2026-11-17 13:46:43 | [satusehat-client](https://crates.io/crates/satusehat-client) | 0.1.0 | 0 | Klien SATUSEHAT: OAuth2 client_credentials, retry, jurnal kirim |
+| 2026-11-17 13:47:14 | [rust-anything](https://crates.io/crates/rust-anything) | 1.2.0 | 0 | Rewrite your app in Rust, one piece at a time, checked against the original's r… |
+| 2026-11-17 13:47:21 | [satusehat-cli](https://crates.io/crates/satusehat-cli) | 0.1.0 | 0 | Command line interface for satusehat-integration |
+| 2026-11-17 13:48:46 | [subspace-board-command](https://crates.io/crates/subspace-board-command) | 0.1.0 | 0 | Subspace Framework: headless board commands generated from the capability catal… |
+| 2026-11-17 13:49:24 | [termux-keyring-store](https://crates.io/crates/termux-keyring-store) | 0.1.0 | 0 | A file-based AES-GCM-SIV keyring store for Termux/Android, implementing keyring… |
+| 2026-11-17 13:50:14 | [rustweave-core](https://crates.io/crates/rustweave-core) | 0.1.0 | 0 | A DataWeave-compatible expression engine |
+| 2026-11-17 13:50:38 | [zinput](https://crates.io/crates/zinput) | 0.1.0 | 0 | Zero-dependency no_std terminal keyboard, mouse and paste encoding |
+| 2026-11-17 13:50:42 | [zpty](https://crates.io/crates/zpty) | 0.1.0 | 0 | A small no_std Linux PTY owner with nonblocking I/O and explicit child lifecycle |
+| 2026-11-17 13:50:48 | [rustweave](https://crates.io/crates/rustweave) | 0.1.0 | 0 | Command-line interface for the rustweave expression engine |
+| 2026-11-17 13:52:41 | [jj-ws](https://crates.io/crates/jj-ws) | 0.1.1 | 0 | Numbered jj workspaces on a megamerge, one Rex session each |
+| 2026-11-17 13:53:45 | [quick-pr](https://crates.io/crates/quick-pr) | 0.1.0 | 0 | A native macOS pull request radar, powered by GitHub CLI |
+| 2026-11-17 13:54:37 | [agent-effects-cli](https://crates.io/crates/agent-effects-cli) | 0.2.1 | 0 | Operator CLI for agent-effects: inspect, approve and reconcile effects in SQLit… |
+| 2026-11-17 13:56:01 | [mboostrs-core](https://crates.io/crates/mboostrs-core) | 0.2.0 | 0 | Pure-Rust component-wise functional gradient boosting engine (R mboost semantic… |
+| 2026-11-17 13:58:58 | [subspace-chat](https://crates.io/crates/subspace-chat) | 0.1.0 | 0 | Subspace Framework: the app-wide chat panel and its runtime lifecycle. Internal… |
+| 2026-11-17 14:05:10 | [nanosb-protocol](https://crates.io/crates/nanosb-protocol) | 0.2.0 | 0 | Versioned NDJSON control protocol shared by the nanosandbox helper and every SDK |
+| 2026-11-17 14:05:19 | [moul](https://crates.io/crates/moul) | 0.0.1 | 0 | A backend that runs in a browser tab: one SQLite file, access rules, auth, file… |
+| 2026-11-17 14:05:21 | [moul-core](https://crates.io/crates/moul-core) | 0.0.1 | 0 | The Moul engine: collections, records, auth, files, realtime and the change log… |
+| 2026-11-17 14:05:24 | [moul-cli](https://crates.io/crates/moul-cli) | 0.0.1 | 0 | The moul command-line tool: pull, restore, check, serve, hub and deploy. |
+| 2026-11-17 14:05:26 | [moul-ltx](https://crates.io/crates/moul-ltx) | 0.0.1 | 0 | Read, write and compact LTX v3 files, the replica format Litestream writes. |
+| 2026-11-17 14:05:29 | [moul-vfs](https://crates.io/crates/moul-vfs) | 0.0.1 | 0 | SQLite file layer for Moul that records the pages each commit changes, with bac… |
+| 2026-11-17 14:05:36 | [nanosb-client](https://crates.io/crates/nanosb-client) | 0.2.0 | 0 | SandboxClient: the reference protocol client for the nanosandbox helper (Local… |
+| 2026-11-17 14:06:00 | [nanosandbox-sdk](https://crates.io/crates/nanosandbox-sdk) | 0.2.0 | 0 | Rust SDK for the nanosandbox protocol helper (re-exports nanosb-client) |
+| 2026-11-17 14:07:59 | [clankerdiff-rouge](https://crates.io/crates/clankerdiff-rouge) | 0.10.0 | 0 | Reusable Rouge diff review component |
+| 2026-11-17 14:09:09 | [subspace-component-gallery-board](https://crates.io/crates/subspace-component-gallery-board) | 0.1.0 | 0 | Subspace Framework component gallery: every shared component in its states. Int… |
+| 2026-11-17 14:13:28 | [crumbkit-starmap](https://crates.io/crates/crumbkit-starmap) | 0.4.1 | 0 | The self environment list command, which prints the environment variables that… |
+| 2026-11-17 14:13:43 | [gotipe-schema](https://crates.io/crates/gotipe-schema) | 0.1.0 | 0 | Document schema of the GoTipe editor: blocks, marks, attributes and validation. |
+| 2026-11-17 14:13:44 | [gotipe-core](https://crates.io/crates/gotipe-core) | 0.1.0 | 0 | The GoTipe editor engine: document model, transactions, selection, history and… |
+| 2026-11-17 14:13:46 | [gotipe-ai](https://crates.io/crates/gotipe-ai) | 0.1.0 | 0 | AI document operations for the GoTipe editor: context, commands, suggestions an… |
+| 2026-11-17 14:13:46 | [gotipe-crdt](https://crates.io/crates/gotipe-crdt) | 0.1.0 | 0 | CRDT for GoTipe documents: concurrent and offline edits merge into one document… |
+| 2026-11-17 14:13:47 | [gotipe-comments](https://crates.io/crates/gotipe-comments) | 0.1.0 | 0 | Anchored comment threads and suggestions for GoTipe documents. |
+| 2026-11-17 14:17:15 | [moul-sync](https://crates.io/crates/moul-sync) | 0.0.1 | 0 | Litestream-compatible LTX sync for Moul: push, pull, follow, hand-off, compacti… |
 
 ## Data source
 

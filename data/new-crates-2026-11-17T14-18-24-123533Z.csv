@@ -1,0 +1,46 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-17T13:22:03.424303Z,eaglet-cli,0.1.1,0,0,https://github.com/uniqtechteam/eaglet,"The eaglet command line: create projects and generate modules, controllers, services and resources."
+2026-11-17T13:26:20.626759Z,scioxide-optimize,0.1.0,0,0,https://github.com/kakune/scioxide,"Unconstrained, constrained, and global optimization"
+2026-11-17T13:28:25.960626Z,subspace-dashboard,0.1.0,0,0,,"Subspace Framework board kit: the Dashboard trait, shared widgets and design tokens. Internal crate; apps depend on `subspace-framework`."
+2026-11-17T13:33:35.237047Z,tumpel,0.1.0,0,0,https://github.com/tumpel/cli,"The command line client for tumpel: sign in, configure a tenant and drive sessions"
+2026-11-17T13:35:49.584593Z,scioxide-pde,0.1.0,0,0,https://github.com/kakune/scioxide,PDE discretization (FDM/FEM/FVM) and solvers
+2026-11-17T13:38:36.562131Z,subspace-mcp,0.1.0,0,0,,Subspace Framework: the MCP server for the agent tools boards advertise. Internal crate; apps depend on `subspace-framework`.
+2026-11-17T13:38:44.326894Z,tumpel-channel,0.1.0,0,0,https://github.com/tumpel/supervisor,The wire protocol between the tumpel control plane and its host supervisors
+2026-11-17T13:38:44.808666Z,tumpel-guest,0.1.0,0,0,https://github.com/tumpel/supervisor,The agent inside a tumpel Firecracker box that runs a coding harness turn
+2026-11-17T13:38:46.077887Z,tumpel-supervisor,0.1.0,0,0,https://github.com/tumpel/supervisor,The tumpel host supervisor: boots Firecracker boxes and runs coding agent turns for the control plane
+2026-11-17T13:39:56.597426Z,hekate-testkit,0.39.0,0,0,https://github.com/oumuamua-labs/hekate,Test oracles for Hekate programs: honest statements must verify and forged traces must fail for the expected reason.
+2026-11-17T13:44:52.068812Z,rainhill,1.0.0,0,0,https://github.com/SmasBalloon/train,"Jeu incrémental de réseau ferroviaire dans le terminal, de 1825 à demain"
+2026-11-17T13:45:44.52268Z,scioxide-validated,0.1.0,0,0,https://github.com/kakune/scioxide,Certified interval and real/complex affine arithmetic with explicit resource budgets
+2026-11-17T13:45:47.898172Z,satusehat-integration,0.1.0,0,0,https://github.com/ivanwilliammd/satusehat-integration-rs,"SATUSEHAT FHIR R4 builder, validator and client — Rust core"
+2026-11-17T13:45:54.171854Z,matui,0.1.0,0,0,https://github.com/StarcevAlexander/matui,"Material Design UI components for Rust: builders that render styled, framework-agnostic HTML"
+2026-11-17T13:46:43.730817Z,satusehat-client,0.1.0,0,0,https://github.com/ivanwilliammd/satusehat-integration-rs,"Klien SATUSEHAT: OAuth2 client_credentials, retry, jurnal kirim"
+2026-11-17T13:47:14.77022Z,rust-anything,1.2.0,0,0,https://github.com/erkamyaman/rust-anything,"Rewrite your app in Rust, one piece at a time, checked against the original's recorded behavior at every step. TypeScript/JavaScript, Python, C, Go, Ruby and Java"
+2026-11-17T13:47:21.943854Z,satusehat-cli,0.1.0,0,0,https://github.com/ivanwilliammd/satusehat-integration-rs,Command line interface for satusehat-integration
+2026-11-17T13:48:46.600685Z,subspace-board-command,0.1.0,0,0,,Subspace Framework: headless board commands generated from the capability catalog. Internal crate; apps depend on `subspace-framework`.
+2026-11-17T13:49:24.676494Z,termux-keyring-store,0.1.0,0,0,https://github.com/rc-chuah/termux-keyring-store,"A file-based AES-GCM-SIV keyring store for Termux/Android, implementing keyring-core"
+2026-11-17T13:50:14.71211Z,rustweave-core,0.1.0,0,0,https://github.com/omkarium/rustweave,A DataWeave-compatible expression engine
+2026-11-17T13:50:38.487831Z,zinput,0.1.0,0,0,https://github.com/LIghtJUNction/ztty,"Zero-dependency no_std terminal keyboard, mouse and paste encoding"
+2026-11-17T13:50:42.317429Z,zpty,0.1.0,0,0,https://github.com/LIghtJUNction/ztty,A small no_std Linux PTY owner with nonblocking I/O and explicit child lifecycle
+2026-11-17T13:50:48.251267Z,rustweave,0.1.0,0,0,https://github.com/omkarium/rustweave,Command-line interface for the rustweave expression engine
+2026-11-17T13:52:41.790791Z,jj-ws,0.1.1,0,0,https://tangled.org/kloevaa.dk/jj-ws,"Numbered jj workspaces on a megamerge, one Rex session each"
+2026-11-17T13:53:45.620057Z,quick-pr,0.1.0,0,0,https://github.com/cesarferreira/quick-pr,"A native macOS pull request radar, powered by GitHub CLI"
+2026-11-17T13:54:37.228364Z,agent-effects-cli,0.2.1,0,0,https://github.com/akosidencio/agent-effects,"Operator CLI for agent-effects: inspect, approve and reconcile effects in SQLite or PostgreSQL"
+2026-11-17T13:56:01.72372Z,mboostrs-core,0.2.0,0,0,https://github.com/fcela/mboostrs,Pure-Rust component-wise functional gradient boosting engine (R mboost semantics)
+2026-11-17T13:58:58.870588Z,subspace-chat,0.1.0,0,0,,Subspace Framework: the app-wide chat panel and its runtime lifecycle. Internal crate; apps depend on `subspace-framework`.
+2026-11-17T14:05:10.933227Z,nanosb-protocol,0.2.0,0,0,https://github.com/nanosandboxai/nanosandbox,Versioned NDJSON control protocol shared by the nanosandbox helper and every SDK
+2026-11-17T14:05:19.467655Z,moul,0.0.1,0,0,https://github.com/moul-labs/moul,"A backend that runs in a browser tab: one SQLite file, access rules, auth, files and realtime, synced as a Litestream replica."
+2026-11-17T14:05:21.93924Z,moul-core,0.0.1,0,0,https://github.com/moul-labs/moul,"The Moul engine: collections, records, auth, files, realtime and the change log. Takes a request and returns a response."
+2026-11-17T14:05:24.369251Z,moul-cli,0.0.1,0,0,https://github.com/moul-labs/moul,"The moul command-line tool: pull, restore, check, serve, hub and deploy."
+2026-11-17T14:05:26.870003Z,moul-ltx,0.0.1,0,0,https://github.com/moul-labs/moul,"Read, write and compact LTX v3 files, the replica format Litestream writes."
+2026-11-17T14:05:29.595209Z,moul-vfs,0.0.1,0,0,https://github.com/moul-labs/moul,"SQLite file layer for Moul that records the pages each commit changes, with back ends for browser storage (OPFS), disk and memory."
+2026-11-17T14:05:36.645501Z,nanosb-client,0.2.0,0,0,https://github.com/nanosandboxai/nanosandbox,"SandboxClient: the reference protocol client for the nanosandbox helper (Local backend implemented, Cloud stubbed)"
+2026-11-17T14:06:00.860371Z,nanosandbox-sdk,0.2.0,0,0,https://github.com/nanosandboxai/nanosandbox,Rust SDK for the nanosandbox protocol helper (re-exports nanosb-client)
+2026-11-17T14:07:59.225531Z,clankerdiff-rouge,0.10.0,0,0,https://github.com/jcarver989/diff,Reusable Rouge diff review component
+2026-11-17T14:09:09.726009Z,subspace-component-gallery-board,0.1.0,0,0,,Subspace Framework component gallery: every shared component in its states. Internal crate; apps depend on `subspace-framework`.
+2026-11-17T14:13:28.1787Z,crumbkit-starmap,0.4.1,0,0,https://github.com/crumbkit/starmap,"The self environment list command, which prints the environment variables that a crumbkit tool declares with starmap"
+2026-11-17T14:13:43.005732Z,gotipe-schema,0.1.0,0,0,https://github.com/veniameen/gotipe,"Document schema of the GoTipe editor: blocks, marks, attributes and validation."
+2026-11-17T14:13:44.753937Z,gotipe-core,0.1.0,0,0,https://github.com/veniameen/gotipe,"The GoTipe editor engine: document model, transactions, selection, history and tables."
+2026-11-17T14:13:46.379118Z,gotipe-ai,0.1.0,0,0,https://github.com/veniameen/gotipe,"AI document operations for the GoTipe editor: context, commands, suggestions and PII masking."
+2026-11-17T14:13:46.631873Z,gotipe-crdt,0.1.0,0,0,https://github.com/veniameen/gotipe,"CRDT for GoTipe documents: concurrent and offline edits merge into one document, with cursors."
+2026-11-17T14:13:47.579226Z,gotipe-comments,0.1.0,0,0,https://github.com/veniameen/gotipe,Anchored comment threads and suggestions for GoTipe documents.
+2026-11-17T14:17:15.28169Z,moul-sync,0.0.1,0,0,https://github.com/moul-labs/moul,"Litestream-compatible LTX sync for Moul: push, pull, follow, hand-off, compaction and retention."
