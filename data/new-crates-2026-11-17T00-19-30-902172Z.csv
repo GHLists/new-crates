@@ -1,0 +1,37 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-16T23:24:56.190815Z,sealwax-cli,0.1.0,0,0,https://github.com/sealwax/sealwax,"Command-line tool of sealwax: inspect documents, survey a corpus."
+2026-11-16T23:25:16.398369Z,axa-minijinja-templates,0.1.0,0,0,https://github.com/publicprojects-io/axa/,"MiniJinja templates with safe escaping, strict undefined values, and generic errors for Axum services."
+2026-11-16T23:26:10.308486Z,fayde-api,0.3.0,0,0,https://github.com/shaneryall/Fayde,Request building and JSON reports shared by the Fayde command line and Python bindings
+2026-11-16T23:27:49.332754Z,sk-elements,0.0.0,0,0,https://github.com/argon-chat/skathi,Reserved for Skathi; the crate is published with Skathi 0.3.0
+2026-11-16T23:31:06.762476Z,libacde-napi,0.0.0,0,0,,Placeholder for Dopame's libacde-napi
+2026-11-16T23:32:14.391954Z,dspk-table,0.0.11,0,0,https://github.com/neuro-kitchen/dsp-kitchen,"Tables for dspk as Polars data frames: one Polars for every crate, Parquet in and out, and the sort and filter the views ask for; domain crates build their own tables (events, units, …) on it"
+2026-11-16T23:32:47.094652Z,secantus-pg-query,0.1.0-beta.19,0,0,https://github.com/jdrumgoole/SecantusDB,"SecantusDB's fork of pg_query 6.2.0: PostgreSQL's own parser via libpg_query, keeping a PL/pgSQL compile error's SQLSTATE and position."
+2026-11-16T23:34:18.454202Z,fttyd,0.0.2,0,0,https://github.com/Foorack/fttyd,"Web terminal with a system stats sidebar and file manager, drop-in compatible with ttyd"
+2026-11-16T23:36:09.74397Z,fayde-cli,0.3.0,0,0,https://github.com/shaneryall/Fayde,Command-line interface for the Fayde plate solver
+2026-11-16T23:37:33.95415Z,sk-sticker,0.0.0,0,0,https://github.com/argon-chat/skathi,Reserved for Skathi; the crate is published with Skathi 0.3.0
+2026-11-16T23:37:39.458576Z,ses,0.0.1,0,0,https://github.com/shadowmkj/ses,"A high-performance, zero-dependency, linear-space Myers diff engine in Rust."
+2026-11-16T23:38:30.702789Z,secantus-icu,0.5.3-beta.197,0,0,https://github.com/jdrumgoole/SecantusDB,"The ICU 57.1 collator mongod 8.2 links, built from mongo's own copy of the sources and data. Internal to SecantusDB: no semver promise."
+2026-11-16T23:40:31.349655Z,libacde-gpu,0.0.0,0,0,,Placeholder for Dopame's libacde-gpu
+2026-11-16T23:46:12.108239Z,slashbuilder-app-context-kit,0.1.0,0,0,https://github.com/slash-builder/app-context-kit,"The root namespace for one running app: identity, directories, settings, roster, a resource-broker session and opt-in peers"
+2026-11-16T23:46:19.883336Z,oneo,0.1.0,0,0,,Reserved for the future 1o toolkit facade. The facade has not been released yet.
+2026-11-16T23:46:22.091589Z,one_o,0.1.0,0,0,,Reserved package name.
+2026-11-16T23:47:33.96525Z,sk-video,0.0.0,0,0,https://github.com/argon-chat/skathi,Reserved for Skathi; the crate is published with Skathi 0.3.0
+2026-11-16T23:50:57.150417Z,libacde-vello,0.0.0,0,0,,Placeholder for Dopame's libacde-vello
+2026-11-16T23:51:40.252145Z,orbit-atomic,0.1.0,0,0,https://github.com/iadev09/orbitive,"Atomics shared between the processes of a fleet over Orbit shared memory, with wait and notify."
+2026-11-16T23:57:34.272265Z,sk-storage,0.0.0,0,0,https://github.com/argon-chat/skathi,Reserved for Skathi; the crate is published with Skathi 0.3.0
+2026-11-17T00:00:20.360015Z,libacde-shell,0.0.0,0,0,,Placeholder for Dopame's libacde-shell
+2026-11-17T00:01:18.340502Z,jazz-alpha59-alpha60-dump,2.0.0-alpha.65.66-rc.0,0,0,https://github.com/garden-co/jazz,The dump format between the alpha59-alpha60 exporter and its importer.
+2026-11-17T00:01:21.045404Z,jazz-ruzstd,0.8.3,0,0,https://github.com/KillingSpark/zstd-rs,A decoder for the zstd compression format
+2026-11-17T00:01:23.516017Z,jazz-compression,2.0.0-alpha.65.66-rc.0,0,0,https://github.com/garden-co/jazz,"Transport compression codecs (lz4, zstd, ruzstd) for Jazz's sync protocol."
+2026-11-17T00:01:25.696879Z,jazz-text,2.0.0-alpha.65.66-rc.0,0,0,https://github.com/garden-co/jazz,Jazz's text primitives: the authority's text merge and stateless anchors into text.
+2026-11-17T00:01:27.691377Z,jazz-types,2.0.0-alpha.65.66-rc.0,0,0,https://github.com/garden-co/jazz,"Bottom layer of Jazz: wire-stable ids, time, object and identity types."
+2026-11-17T00:04:21.768325Z,chita-ext-sdk,0.1.0,0,0,https://github.com/decomponendiscifris/chita-extensions,"What a Chita extension is written with: the requests it can make, what it gets back, and the entry points Chita calls"
+2026-11-17T00:06:04.773642Z,anchorpass,0.1.1,0,0,,Bounded HTTP protocol client with signed protocol bundles
+2026-11-17T00:07:33.970398Z,sk-clipboard,0.0.0,0,0,https://github.com/argon-chat/skathi,Reserved for Skathi; the crate is published with Skathi 0.3.0
+2026-11-17T00:10:47.772803Z,libacde-window,0.0.0,0,0,,Placeholder for Dopame's libacde-window
+2026-11-17T00:16:24.573127Z,suanpan,0.0.0,0,0,https://github.com/oxidecomputer/rumors,"Reserved for the suanpan crate, in development at https://github.com/oxidecomputer/rumors."
+2026-11-17T00:16:24.599542Z,laptop-tune,1.0.0,0,0,,"Unified Linux laptop power, hybrid GPU runtime PM, thermal, and battery threshold auditor & configurator."
+2026-11-17T00:16:35.499899Z,before,0.0.0,0,0,https://github.com/oxidecomputer/rumors,"Reserved for the before crate, in development at https://github.com/oxidecomputer/rumors."
+2026-11-17T00:16:42.999964Z,rumors,0.0.0,0,0,https://github.com/oxidecomputer/rumors,"Reserved for the rumors crate, in development at https://github.com/oxidecomputer/rumors."
+2026-11-17T00:17:34.381212Z,sk-webview,0.0.0,0,0,https://github.com/argon-chat/skathi,Reserved for Skathi; the crate is published with Skathi 0.3.0
+2026-11-17T00:18:55.062606Z,rumors-tracing,0.0.0,0,0,https://github.com/oxidecomputer/rumors,"Reserved for the rumors-tracing crate, in development at https://github.com/oxidecomputer/rumors."

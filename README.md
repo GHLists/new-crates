@@ -8,58 +8,50 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-16 23:20 UTC
+## Latest list — 2026-11-17 00:19 UTC
 
-New crates published between 2026-11-16 22:19 UTC and 2026-11-16 23:20 UTC.
+New crates published between 2026-11-16 23:20 UTC and 2026-11-17 00:19 UTC.
 
-[Full CSV](data/new-crates-2026-11-16T23-20-41-78398Z.csv)
+[Full CSV](data/new-crates-2026-11-17T00-19-30-902172Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-16 22:21:05 | [libacde-runtime](https://crates.io/crates/libacde-runtime) | 0.0.0 | 0 | Placeholder for Dopame's libacde-runtime |
-| 2026-11-16 22:21:52 | [plasma-kernel](https://crates.io/crates/plasma-kernel) | 0.2.0 | 0 | Plasma's durable session kernel: turns, steps, permissions and tool runs over a… |
-| 2026-11-16 22:27:12 | [conducto](https://crates.io/crates/conducto) | 0.0.0 | 0 | Conducto.rs: multi-agent workflows from recipes you can read. This name is rese… |
-| 2026-11-16 22:27:34 | [skathi-gpui](https://crates.io/crates/skathi-gpui) | 0.0.0 | 0 | Reserved for Skathi; the crate is published with Skathi 0.3.0 |
-| 2026-11-16 22:28:00 | [pandsysroots](https://crates.io/crates/pandsysroots) | 0.14.0 | 0 | All the solutions of a polynomial system of any shape, each in a certified ball… |
-| 2026-11-16 22:30:31 | [libacde-render](https://crates.io/crates/libacde-render) | 0.0.0 | 0 | Placeholder for Dopame's libacde-render |
-| 2026-11-16 22:31:10 | [helicoprion-core](https://crates.io/crates/helicoprion-core) | 0.4.0 | 0 | Scheduler detection, system metadata and result types for helicoprion |
-| 2026-11-16 22:31:13 | [helicoprion-report](https://crates.io/crates/helicoprion-report) | 0.4.0 | 0 | Comparison statistics and SVG/HTML reports for helicoprion |
-| 2026-11-16 22:31:14 | [helicoprion-workloads](https://crates.io/crates/helicoprion-workloads) | 0.4.0 | 0 | Self-contained scheduler workloads for helicoprion |
-| 2026-11-16 22:31:16 | [helicoprion](https://crates.io/crates/helicoprion) | 0.4.0 | 0 | Scheduler-focused CPU benchmark: detects EEVDF vs sched-ext, runs workloads, ch… |
-| 2026-11-16 22:32:22 | [plasma-server](https://crates.io/crates/plasma-server) | 0.2.0 | 0 | The HTTP server behind `plasma serve`. |
-| 2026-11-16 22:37:34 | [skathi-gpui-shared-string](https://crates.io/crates/skathi-gpui-shared-string) | 0.0.0 | 0 | Reserved for Skathi; the crate is published with Skathi 0.3.0 |
-| 2026-11-16 22:40:58 | [libacde-storage](https://crates.io/crates/libacde-storage) | 0.0.0 | 0 | Placeholder for Dopame's libacde-storage |
-| 2026-11-16 22:42:57 | [plasma-tui](https://crates.io/crates/plasma-tui) | 0.2.0 | 0 | The Plasma terminal UI (`plasma-tui`), a client of `plasma serve`. |
-| 2026-11-16 22:46:27 | [bbt-bibtex-parser](https://crates.io/crates/bbt-bibtex-parser) | 14.0.5 | 0 | BibTeX parser for Better BibTeX 4 zotero |
-| 2026-11-16 22:48:40 | [skathi-gpui-zlog](https://crates.io/crates/skathi-gpui-zlog) | 0.0.0 | 0 | Reserved for Skathi; the crate is published with Skathi 0.3.0 |
-| 2026-11-16 22:50:22 | [libacde-media](https://crates.io/crates/libacde-media) | 0.0.0 | 0 | Placeholder for Dopame's libacde-media |
-| 2026-11-16 22:52:50 | [rs-arrow-blobs2pgcopy](https://crates.io/crates/rs-arrow-blobs2pgcopy) | 0.1.0 | 0 | Converts the blobs in the array to pgcopy bytes. |
-| 2026-11-16 22:53:21 | [ic-cargo-metadata](https://crates.io/crates/ic-cargo-metadata) | 0.1.0 | 0 | Bounded, format-preserving Cargo release metadata renderer |
-| 2026-11-16 22:53:26 | [plasma-cli](https://crates.io/crates/plasma-cli) | 0.2.0 | 0 | Plasma, a fast terminal coding agent: the `plasma` command and its detached ser… |
-| 2026-11-16 22:55:41 | [sealwax-core](https://crates.io/crates/sealwax-core) | 0.1.0 | 0 | Core of sealwax: opening PDF documents, their pages and geometry, full and incr… |
-| 2026-11-16 22:55:43 | [sealwax-annots](https://crates.io/crates/sealwax-annots) | 0.1.0 | 0 | XFDF applied to PDF documents, annotations flattened into their pages. |
-| 2026-11-16 22:55:44 | [sealwax-sign](https://crates.io/crates/sealwax-sign) | 0.1.0 | 0 | PAdES signatures of PDF documents: certification and approval, signed outside (… |
-| 2026-11-16 22:55:45 | [sealwax-text](https://crates.io/crates/sealwax-text) | 0.1.0 | 0 | Text drawn by the content of PDF pages: which glyphs map to Unicode, for PDF/A… |
-| 2026-11-16 22:55:46 | [sealwax-pdfa](https://crates.io/crates/sealwax-pdfa) | 0.1.0 | 0 | Conversion of PDF documents to PDF/A-3. |
-| 2026-11-16 22:56:04 | [fayde-core](https://crates.io/crates/fayde-core) | 0.3.0 | 0 | Core types for the Fayde astrometric plate solver |
-| 2026-11-16 22:56:07 | [fayde-catalog](https://crates.io/crates/fayde-catalog) | 0.3.0 | 0 | Star catalogue access for Fayde: catalogue trait, UCAC4 reader, epoch propagati… |
-| 2026-11-16 22:56:09 | [fayde-detect](https://crates.io/crates/fayde-detect) | 0.3.0 | 0 | Star and streak detection for the Fayde plate solver: positions with errors fro… |
-| 2026-11-16 22:56:12 | [fayde-wcs](https://crates.io/crates/fayde-wcs) | 0.3.0 | 0 | TAN/SIP world coordinate systems and FITS WCS cards for Fayde |
-| 2026-11-16 22:56:20 | [fayde-index](https://crates.io/crates/fayde-index) | 0.3.0 | 0 | Pattern index builder and on-disk index format for Fayde |
-| 2026-11-16 22:56:41 | [turul-mcp-ext-server-card](https://crates.io/crates/turul-mcp-ext-server-card) | 0.1.0 | 0 | MCP Server Cards (experimental, SEP-2127) wire types, validation and the served… |
-| 2026-11-16 22:58:39 | [skathi-gpui-macos](https://crates.io/crates/skathi-gpui-macos) | 0.0.0 | 0 | Reserved for Skathi; the crate is published with Skathi 0.3.0 |
-| 2026-11-16 23:00:49 | [libacde-model](https://crates.io/crates/libacde-model) | 0.0.0 | 0 | Placeholder for Dopame's libacde-model |
-| 2026-11-16 23:04:55 | [sealwax-raster](https://crates.io/crates/sealwax-raster) | 0.1.0 | 0 | PDF pages rendered to images: the grayscale PDF of a fax. |
-| 2026-11-16 23:06:09 | [fayde-solve](https://crates.io/crates/fayde-solve) | 0.3.0 | 0 | Plate solving for Fayde: hypothesis generation, verification and WCS fitting |
-| 2026-11-16 23:07:34 | [skathi-gpui-windows](https://crates.io/crates/skathi-gpui-windows) | 0.0.0 | 0 | Reserved for Skathi; the crate is published with Skathi 0.3.0 |
-| 2026-11-16 23:07:54 | [brrrty-serve](https://crates.io/crates/brrrty-serve) | 0.0.8 | 0 | Local static file server for Brrrty, an Eleventy-compatible static site generat… |
-| 2026-11-16 23:09:08 | [bitcoin-transaction-builder](https://crates.io/crates/bitcoin-transaction-builder) | 0.1.0 | 0 | A builder for Bitcoin Transactions |
-| 2026-11-16 23:11:16 | [libacde-log](https://crates.io/crates/libacde-log) | 0.0.0 | 0 | Placeholder for Dopame's libacde-log |
-| 2026-11-16 23:11:49 | [cloakapi](https://crates.io/crates/cloakapi) | 1.3.1 | 0 | Client for the CloakAPI gateway: personal data in a prompt is replaced with sta… |
-| 2026-11-16 23:14:56 | [sealwax](https://crates.io/crates/sealwax) | 0.1.0 | 0 | A PDF library: reading, flattening, PDF/A-3a conversion and PAdES signatures. |
-| 2026-11-16 23:16:09 | [fayde-fits](https://crates.io/crates/fayde-fits) | 0.3.0 | 0 | FITS I/O for Fayde: images, source lists, header priors, WCS files |
-| 2026-11-16 23:18:39 | [sk-css](https://crates.io/crates/sk-css) | 0.0.0 | 0 | Reserved for Skathi; the crate is published with Skathi 0.3.0 |
-| 2026-11-16 23:20:41 | [libacde-webgl](https://crates.io/crates/libacde-webgl) | 0.0.0 | 0 | Placeholder for Dopame's libacde-webgl |
+| 2026-11-16 23:24:56 | [sealwax-cli](https://crates.io/crates/sealwax-cli) | 0.1.0 | 0 | Command-line tool of sealwax: inspect documents, survey a corpus. |
+| 2026-11-16 23:25:16 | [axa-minijinja-templates](https://crates.io/crates/axa-minijinja-templates) | 0.1.0 | 0 | MiniJinja templates with safe escaping, strict undefined values, and generic er… |
+| 2026-11-16 23:26:10 | [fayde-api](https://crates.io/crates/fayde-api) | 0.3.0 | 0 | Request building and JSON reports shared by the Fayde command line and Python b… |
+| 2026-11-16 23:27:49 | [sk-elements](https://crates.io/crates/sk-elements) | 0.0.0 | 0 | Reserved for Skathi; the crate is published with Skathi 0.3.0 |
+| 2026-11-16 23:31:06 | [libacde-napi](https://crates.io/crates/libacde-napi) | 0.0.0 | 0 | Placeholder for Dopame's libacde-napi |
+| 2026-11-16 23:32:14 | [dspk-table](https://crates.io/crates/dspk-table) | 0.0.11 | 0 | Tables for dspk as Polars data frames: one Polars for every crate, Parquet in a… |
+| 2026-11-16 23:32:47 | [secantus-pg-query](https://crates.io/crates/secantus-pg-query) | 0.1.0-beta.19 | 0 | SecantusDB's fork of pg_query 6.2.0: PostgreSQL's own parser via libpg_query, k… |
+| 2026-11-16 23:34:18 | [fttyd](https://crates.io/crates/fttyd) | 0.0.2 | 0 | Web terminal with a system stats sidebar and file manager, drop-in compatible w… |
+| 2026-11-16 23:36:09 | [fayde-cli](https://crates.io/crates/fayde-cli) | 0.3.0 | 0 | Command-line interface for the Fayde plate solver |
+| 2026-11-16 23:37:33 | [sk-sticker](https://crates.io/crates/sk-sticker) | 0.0.0 | 0 | Reserved for Skathi; the crate is published with Skathi 0.3.0 |
+| 2026-11-16 23:37:39 | [ses](https://crates.io/crates/ses) | 0.0.1 | 0 | A high-performance, zero-dependency, linear-space Myers diff engine in Rust. |
+| 2026-11-16 23:38:30 | [secantus-icu](https://crates.io/crates/secantus-icu) | 0.5.3-beta.197 | 0 | The ICU 57.1 collator mongod 8.2 links, built from mongo's own copy of the sour… |
+| 2026-11-16 23:40:31 | [libacde-gpu](https://crates.io/crates/libacde-gpu) | 0.0.0 | 0 | Placeholder for Dopame's libacde-gpu |
+| 2026-11-16 23:46:12 | [slashbuilder-app-context-kit](https://crates.io/crates/slashbuilder-app-context-kit) | 0.1.0 | 0 | The root namespace for one running app: identity, directories, settings, roster… |
+| 2026-11-16 23:46:19 | [oneo](https://crates.io/crates/oneo) | 0.1.0 | 0 | Reserved for the future 1o toolkit facade. The facade has not been released yet. |
+| 2026-11-16 23:46:22 | [one_o](https://crates.io/crates/one_o) | 0.1.0 | 0 | Reserved package name. |
+| 2026-11-16 23:47:33 | [sk-video](https://crates.io/crates/sk-video) | 0.0.0 | 0 | Reserved for Skathi; the crate is published with Skathi 0.3.0 |
+| 2026-11-16 23:50:57 | [libacde-vello](https://crates.io/crates/libacde-vello) | 0.0.0 | 0 | Placeholder for Dopame's libacde-vello |
+| 2026-11-16 23:51:40 | [orbit-atomic](https://crates.io/crates/orbit-atomic) | 0.1.0 | 0 | Atomics shared between the processes of a fleet over Orbit shared memory, with… |
+| 2026-11-16 23:57:34 | [sk-storage](https://crates.io/crates/sk-storage) | 0.0.0 | 0 | Reserved for Skathi; the crate is published with Skathi 0.3.0 |
+| 2026-11-17 00:00:20 | [libacde-shell](https://crates.io/crates/libacde-shell) | 0.0.0 | 0 | Placeholder for Dopame's libacde-shell |
+| 2026-11-17 00:01:18 | [jazz-alpha59-alpha60-dump](https://crates.io/crates/jazz-alpha59-alpha60-dump) | 2.0.0-alpha.65.66-r… | 0 | The dump format between the alpha59-alpha60 exporter and its importer. |
+| 2026-11-17 00:01:21 | [jazz-ruzstd](https://crates.io/crates/jazz-ruzstd) | 0.8.3 | 0 | A decoder for the zstd compression format |
+| 2026-11-17 00:01:23 | [jazz-compression](https://crates.io/crates/jazz-compression) | 2.0.0-alpha.65.66-r… | 0 | Transport compression codecs (lz4, zstd, ruzstd) for Jazz's sync protocol. |
+| 2026-11-17 00:01:25 | [jazz-text](https://crates.io/crates/jazz-text) | 2.0.0-alpha.65.66-r… | 0 | Jazz's text primitives: the authority's text merge and stateless anchors into t… |
+| 2026-11-17 00:01:27 | [jazz-types](https://crates.io/crates/jazz-types) | 2.0.0-alpha.65.66-r… | 0 | Bottom layer of Jazz: wire-stable ids, time, object and identity types. |
+| 2026-11-17 00:04:21 | [chita-ext-sdk](https://crates.io/crates/chita-ext-sdk) | 0.1.0 | 0 | What a Chita extension is written with: the requests it can make, what it gets… |
+| 2026-11-17 00:06:04 | [anchorpass](https://crates.io/crates/anchorpass) | 0.1.1 | 0 | Bounded HTTP protocol client with signed protocol bundles |
+| 2026-11-17 00:07:33 | [sk-clipboard](https://crates.io/crates/sk-clipboard) | 0.0.0 | 0 | Reserved for Skathi; the crate is published with Skathi 0.3.0 |
+| 2026-11-17 00:10:47 | [libacde-window](https://crates.io/crates/libacde-window) | 0.0.0 | 0 | Placeholder for Dopame's libacde-window |
+| 2026-11-17 00:16:24 | [suanpan](https://crates.io/crates/suanpan) | 0.0.0 | 0 | Reserved for the suanpan crate, in development at https://github.com/oxidecompu… |
+| 2026-11-17 00:16:24 | [laptop-tune](https://crates.io/crates/laptop-tune) | 1.0.0 | 0 | Unified Linux laptop power, hybrid GPU runtime PM, thermal, and battery thresho… |
+| 2026-11-17 00:16:35 | [before](https://crates.io/crates/before) | 0.0.0 | 0 | Reserved for the before crate, in development at https://github.com/oxidecomput… |
+| 2026-11-17 00:16:42 | [rumors](https://crates.io/crates/rumors) | 0.0.0 | 0 | Reserved for the rumors crate, in development at https://github.com/oxidecomput… |
+| 2026-11-17 00:17:34 | [sk-webview](https://crates.io/crates/sk-webview) | 0.0.0 | 0 | Reserved for Skathi; the crate is published with Skathi 0.3.0 |
+| 2026-11-17 00:18:55 | [rumors-tracing](https://crates.io/crates/rumors-tracing) | 0.0.0 | 0 | Reserved for the rumors-tracing crate, in development at https://github.com/oxi… |
 
 ## Data source
 
