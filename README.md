@@ -8,52 +8,60 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-17 02:20 UTC
+## Latest list — 2026-11-17 03:18 UTC
 
-New crates published between 2026-11-17 01:18 UTC and 2026-11-17 02:20 UTC.
+New crates published between 2026-11-17 02:20 UTC and 2026-11-17 03:18 UTC.
 
-[Full CSV](data/new-crates-2026-11-17T02-20-47-022303Z.csv)
+[Full CSV](data/new-crates-2026-11-17T03-18-25-055618Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-17 01:19:28 | [pnv](https://crates.io/crates/pnv) | 0.1.0 | 0 | Encrypted secrets in YAML files that are safe to commit, readable from build sc… |
-| 2026-11-17 01:20:00 | [typemotion-art-svg](https://crates.io/crates/typemotion-art-svg) | 0.1.0 | 0 | Generate lightweight SVG graphics for TypeMotion.Art workflows |
-| 2026-11-17 01:20:21 | [livelychart-svg](https://crates.io/crates/livelychart-svg) | 0.1.0 | 0 | Generate lightweight SVG graphics for LivelyChart workflows |
-| 2026-11-17 01:20:35 | [aiwhiteboard-video-svg](https://crates.io/crates/aiwhiteboard-video-svg) | 0.1.0 | 0 | Generate lightweight SVG graphics for AIWhiteboard.Video workflows |
-| 2026-11-17 01:20:50 | [sparkmeld-storyboard-svg](https://crates.io/crates/sparkmeld-storyboard-svg) | 0.1.0 | 0 | Generate lightweight SVG graphics for SparkMeld workflows |
-| 2026-11-17 01:20:58 | [libagent-os](https://crates.io/crates/libagent-os) | 0.0.0 | 0 | Placeholder for Dopame's libagent-os |
-| 2026-11-17 01:21:04 | [tokmeme-caption-svg](https://crates.io/crates/tokmeme-caption-svg) | 0.1.0 | 0 | Generate lightweight SVG graphics for TokMeme workflows |
-| 2026-11-17 01:21:54 | [stanza-lsm](https://crates.io/crates/stanza-lsm) | 0.1.0 | 0 | Crash-safe WAL and prefix-compressed LSM-tree storage engine with deterministic… |
-| 2026-11-17 01:22:02 | [goodmem](https://crates.io/crates/goodmem) | 0.1.0 | 0 | Typed asynchronous Rust SDK for the GoodMem REST API |
-| 2026-11-17 01:24:00 | [qso-io](https://crates.io/crates/qso-io) | 0.1.0 | 0 | Amateur radio data interchange with strict and permissive ADI parsing |
-| 2026-11-17 01:25:04 | [frasil-adapter-blobs](https://crates.io/crates/frasil-adapter-blobs) | 0.1.0 | 0 | Frasil's Blobs adapter. An internal building block of Frasil, less stable than… |
-| 2026-11-17 01:35:52 | [frasil-events](https://crates.io/crates/frasil-events) | 0.1.0 | 0 | Frasil's event envelope, event IDs, placement, chains, fork evidence, anchors a… |
-| 2026-11-17 01:39:08 | [tweener](https://crates.io/crates/tweener) | 0.1.1 | 0 | One-dimensional tweening library. |
-| 2026-11-17 01:47:27 | [frasil-identity](https://crates.io/crates/frasil-identity) | 0.1.0 | 0 | Frasil's identity: device keys, device lists, recovery, passkeys, fingerprints… |
-| 2026-11-17 01:48:31 | [greensummit](https://crates.io/crates/greensummit) | 2.0.0 | 0 | Sign and verify attestations that a test suite already passed on a tree, so CI… |
-| 2026-11-17 01:50:14 | [newmean-pii](https://crates.io/crates/newmean-pii) | 1.6.0 | 0 | On-device PII detection, masking and extraction in 54 languages: small models (… |
-| 2026-11-17 01:50:44 | [ursa-shell](https://crates.io/crates/ursa-shell) | 0.9.0 | 0 | Ursa's shell apart from the terminal: dot-commands, results drawn as tables, an… |
-| 2026-11-17 01:51:23 | [jazz-app-support](https://crates.io/crates/jazz-app-support) | 2.0.0-alpha.65.66-r… | 0 | Typed, Send + Clone Rust handle for a Jazz app opened from its jazz.app.json |
-| 2026-11-17 01:51:27 | [jazz-codegen](https://crates.io/crates/jazz-codegen) | 2.0.0-alpha.65.66-r… | 0 | Typed bindings and migration stubs generated from an app's jazz.app.json |
-| 2026-11-17 01:51:31 | [jazz-ffi](https://crates.io/crates/jazz-ffi) | 2.0.0-alpha.65.66-r… | 0 | JSON-in/JSON-out bindings of jazz-app-support for Swift and Kotlin (UniFFI) and… |
-| 2026-11-17 01:51:34 | [jazz-otel](https://crates.io/crates/jazz-otel) | 2.0.0-alpha.65.66-r… | 0 | OpenTelemetry export for Jazz servers. |
-| 2026-11-17 01:51:37 | [jazz-server](https://crates.io/crates/jazz-server) | 2.0.0-alpha.65.66-r… | 0 | The Jazz sync server, as a library. |
-| 2026-11-17 01:52:59 | [ulo-conformance-support](https://crates.io/crates/ulo-conformance-support) | 0.1.0-alpha.3 | 0 | The harness pieces the Ulo conformance suites share |
-| 2026-11-17 01:54:00 | [ulo-runtime-conformance](https://crates.io/crates/ulo-runtime-conformance) | 0.1.0-alpha.3 | 0 | The conformance suite every Ulo runtime runs |
-| 2026-11-17 01:56:38 | [ulo-rpc-conformance](https://crates.io/crates/ulo-rpc-conformance) | 0.1.0-alpha.3 | 0 | The conformance suite every Ulo RPC link runs |
-| 2026-11-17 01:58:25 | [frasil-app-requests](https://crates.io/crates/frasil-app-requests) | 0.1.0 | 0 | Frasil's device-signed requests to application servers: signer and verifier. An… |
-| 2026-11-17 02:00:39 | [falak-driver-sqlite](https://crates.io/crates/falak-driver-sqlite) | 1.1.0 | 0 | SQLite storage driver. |
-| 2026-11-17 02:00:41 | [falak-egress](https://crates.io/crates/falak-egress) | 1.1.0 | 0 | Outbound request allow-list with private-address blocking. |
-| 2026-11-17 02:00:47 | [falak-ledger](https://crates.io/crates/falak-ledger) | 1.1.0 | 0 | Double-entry ledger: commands, PostgreSQL execution, reconciliation, sagas. |
-| 2026-11-17 02:00:55 | [falak-storage](https://crates.io/crates/falak-storage) | 1.1.0 | 0 | Object storage presigning and upload checks. |
-| 2026-11-17 02:00:57 | [falak-audit](https://crates.io/crates/falak-audit) | 1.1.0 | 0 | Hash-chained, append-only audit log. |
-| 2026-11-17 02:01:01 | [dspk-session](https://crates.io/crates/dspk-session) | 0.0.11 | 0 | The dspk session document: recordings, views with their processing, the graph o… |
-| 2026-11-17 02:01:24 | [falak-auth](https://crates.io/crates/falak-auth) | 1.1.0 | 0 | Local identity: passwords, sessions, Ed25519 tokens. |
-| 2026-11-17 02:04:11 | [slashbuilder-spec-kit](https://crates.io/crates/slashbuilder-spec-kit) | 0.1.0 | 0 | Protocol-specification methodology and conformance harness primitives for the S… |
-| 2026-11-17 02:07:25 | [cvfs](https://crates.io/crates/cvfs) | 0.1.0 | 0 | Cross-platform filesystem storage backend for CareerVector workspaces: conditio… |
-| 2026-11-17 02:09:07 | [frasil-keys](https://crates.io/crates/frasil-keys) | 0.1.0 | 0 | Frasil's key formats: rotations, derivations, bundles, wraps, links and sealed… |
-| 2026-11-17 02:11:24 | [falak-migrate](https://crates.io/crates/falak-migrate) | 1.1.0 | 0 | Migration planning and application. |
-| 2026-11-17 02:20:10 | [frasil-libraries](https://crates.io/crates/frasil-libraries) | 0.1.0 | 0 | Frasil's libraries extension: tickets, issuer signing and ticket checks. An int… |
+| 2026-11-17 02:21:07 | [cvws](https://crates.io/crates/cvws) | 0.1.0 | 0 | CareerVector storage workspace: document envelope, Store trait, conditional wri… |
+| 2026-11-17 02:21:25 | [falak-runtime-native](https://crates.io/crates/falak-runtime-native) | 1.1.0 | 0 | Native runtime (Axum, Tokio) serving a compiled app. |
+| 2026-11-17 02:22:02 | [chronicle-core](https://crates.io/crates/chronicle-core) | 0.1.0 | 0 | Single-threaded deterministic limit order book and matching engine with zero st… |
+| 2026-11-17 02:24:19 | [threers-font](https://crates.io/crates/threers-font) | 0.1.0 | 0 | TrueType fonts as FreeType and HarfBuzz render and shape them: sfnt tables, sca… |
+| 2026-11-17 02:24:21 | [threers-splat-sort](https://crates.io/crates/threers-splat-sort) | 0.1.0 | 0 | Back-to-front ordering of Gaussian splats by depth: a radix sort over SIMD-made… |
+| 2026-11-17 02:24:24 | [threers-ui](https://crates.io/crates/threers-ui) | 0.1.0 | 0 | A small retained UI: CSS-subset styles, flexbox layout, controls, painting thro… |
+| 2026-11-17 02:24:29 | [threers-fem](https://crates.io/crates/threers-fem) | 0.1.0 | 0 | Finite and boundary element analysis for threers — a tetrahedral mesher, linear… |
+| 2026-11-17 02:24:29 | [threers-ios](https://crates.io/crates/threers-ios) | 0.1.0 | 0 | threers apps on iPhone, iPad, Apple Vision Pro and the Mac in Rust, drawn with… |
+| 2026-11-17 02:24:33 | [chronicle-wal](https://crates.io/crates/chronicle-wal) | 0.1.0 | 0 | CRC32C write-ahead log and atomic snapshots for chronicle order books |
+| 2026-11-17 02:26:45 | [cargo-faster](https://crates.io/crates/cargo-faster) | 0.0.0 | 0 | Find out why your Rust build is slow and how to make it faster |
+| 2026-11-17 02:26:55 | [chronicle-lob-cli](https://crates.io/crates/chronicle-lob-cli) | 0.1.0 | 0 | Command line replay, verification, snapshot, and benchmark tool for chronicle b… |
+| 2026-11-17 02:27:11 | [slashbuilder-service-kit](https://crates.io/crates/slashbuilder-service-kit) | 0.1.0 | 0 | axum scaffolding, middleware, logging, config, and observability for the SlashB… |
+| 2026-11-17 02:30:42 | [slashbuilder-errand-kit](https://crates.io/crates/slashbuilder-errand-kit) | 0.1.0 | 0 | Gated, sandboxed agent runs for the SlashBuilder Kit ecosystem: credentials are… |
+| 2026-11-17 02:30:57 | [frasil-peers](https://crates.io/crates/frasil-peers) | 0.1.0 | 0 | The rules of Frasil's always-on peers that replicas also run. An internal build… |
+| 2026-11-17 02:31:24 | [falak-ai](https://crates.io/crates/falak-ai) | 1.1.0 | 0 | AI readiness: the MCP server projection, the AI egress policy and the human app… |
+| 2026-11-17 02:33:27 | [stanza-mux](https://crates.io/crates/stanza-mux) | 0.1.0 | 0 | Zero-dependency stateful session multiplexer, out-of-order command router, warm… |
+| 2026-11-17 02:36:43 | [verirun-core](https://crates.io/crates/verirun-core) | 0.1.0 | 0 | Deterministic core for verirun. RFC 8785 canonical encoding, domain-separated d… |
+| 2026-11-17 02:38:13 | [verirun-store](https://crates.io/crates/verirun-store) | 0.1.0 | 0 | I/O adapters for verirun. SHA-256 behind the core HasherFactory seam, and the c… |
+| 2026-11-17 02:39:27 | [verirun-cli](https://crates.io/crates/verirun-cli) | 0.1.0 | 0 | The verirun executable and its library surface. A thin shell over the determini… |
+| 2026-11-17 02:41:24 | [falak-federation](https://crates.io/crates/falak-federation) | 1.1.0 | 0 | The app side of Falak Office: enroll, sign requests, follow the key set and rev… |
+| 2026-11-17 02:42:17 | [frasil-space](https://crates.io/crates/frasil-space) | 0.1.0 | 0 | Frasil's spaces: the roster, effective membership, the write rule and the key g… |
+| 2026-11-17 02:42:23 | [frasil-space-file](https://crates.io/crates/frasil-space-file) | 0.1.0 | 0 | Frasil's space files: one space in a file, with a way in (ext-space-files.md).… |
+| 2026-11-17 02:48:29 | [mailctl](https://crates.io/crates/mailctl) | 0.1.0 | 0 | Safe, agent-friendly IMAP/SMTP command line tool for sorting mailboxes: per-acc… |
+| 2026-11-17 02:51:26 | [falak-cli](https://crates.io/crates/falak-cli) | 1.1.0 | 0 | The falak command line. |
+| 2026-11-17 02:52:25 | [triq-macros](https://crates.io/crates/triq-macros) | 0.1.0 | 0 | #[derive(Ports)] for triq |
+| 2026-11-17 02:52:28 | [triq](https://crates.io/crates/triq) | 0.1.0 | 0 | Nodes, factories and runtimes on top of iceoryx2 |
+| 2026-11-17 02:52:30 | [triq-tap](https://crates.io/crates/triq-tap) | 0.1.0 | 0 | Read any iceoryx2 topic as bytes, without having its type |
+| 2026-11-17 02:52:31 | [triq-views](https://crates.io/crates/triq-views) | 0.1.0 | 0 | A window for a project's own views of its messages, each in a pane that the use… |
+| 2026-11-17 02:56:19 | [tightbeam-grpc](https://crates.io/crates/tightbeam-grpc) | 0.1.0 | 0 | gRPC transport for the tightbeam messaging protocol, which tunnels envelopes ov… |
+| 2026-11-17 03:00:52 | [tc_agreement](https://crates.io/crates/tc_agreement) | 0.1.0 | 0 | Shared contracts for key agreement, after Bouncy Castle's IRawAgreement. |
+| 2026-11-17 03:01:05 | [tc_dh](https://crates.io/crates/tc_dh) | 0.1.0 | 0 | Diffie-Hellman key agreement after Bouncy Castle: the basic agreement and the M… |
+| 2026-11-17 03:01:28 | [falak-office](https://crates.io/crates/falak-office) | 1.1.0 | 0 | Falak Office: identity, registry and key service for federated apps. |
+| 2026-11-17 03:01:51 | [certone](https://crates.io/crates/certone) | 0.1.1 | 0 | Rust client for the CertOne control-plane API: submit AI compliance checks, pol… |
+| 2026-11-17 03:03:35 | [campchecklist](https://crates.io/crates/campchecklist) | 1.0.0 | 0 | Read and edit plain-text packing checklists for camping trips (# sections, - [… |
+| 2026-11-17 03:06:17 | [greentopo-core](https://crates.io/crates/greentopo-core) | 2.0.0 | 0 | Decision graph and resolver for Architecture Decision Records |
+| 2026-11-17 03:06:23 | [greentopo](https://crates.io/crates/greentopo) | 2.0.0 | 0 | Ask what the current architecture decision is, and get a typed answer |
+| 2026-11-17 03:09:01 | [sensorium-rt](https://crates.io/crates/sensorium-rt) | 0.7.3 | 0 | The sensorium Rust recorder's runtime: per-thread MAP_SHARED trace spools, the… |
+| 2026-11-17 03:09:03 | [sensorium-transform](https://crates.io/crates/sensorium-transform) | 0.5.2 | 0 | The sensorium Rust recorder's source transformer: entry guards, exit operands,… |
+| 2026-11-17 03:09:06 | [cargo-sensorium](https://crates.io/crates/cargo-sensorium) | 0.8.4 | 0 | The sensorium Rust recorder's driver: `cargo sensorium test\|run` (`--tier`, `--… |
+| 2026-11-17 03:09:58 | [frasil-store](https://crates.io/crates/frasil-store) | 0.1.0 | 0 | Frasil's store at rest: sealed device keys, records, the head, the mark and con… |
+| 2026-11-17 03:09:58 | [frasil-transport](https://crates.io/crates/frasil-transport) | 0.1.0 | 0 | Frasil's transport, sans-IO: frames, messages, handshakes, mailboxes and ticket… |
+| 2026-11-17 03:11:25 | [phantom-osint](https://crates.io/crates/phantom-osint) | 0.1.0 | 0 | 👻 Blazing-fast username hunter — find anyone's digital footprint across 400+ si… |
+| 2026-11-17 03:12:07 | [lexic-core](https://crates.io/crates/lexic-core) | 1.2.0 | 0 | Offline-first dictionary + SM-2 flashcard domain models and scheduler |
+| 2026-11-17 03:12:08 | [lexic-dict](https://crates.io/crates/lexic-dict) | 1.2.0 | 0 | Free Dictionary API client and query normalization for Lexic |
+| 2026-11-17 03:12:09 | [lexic-store](https://crates.io/crates/lexic-store) | 1.2.0 | 0 | SQLite storage layer for Lexic: schema, migrations, repositories, backup |
+| 2026-11-17 03:12:11 | [lexic-gui](https://crates.io/crates/lexic-gui) | 1.2.0 | 0 | Offline-first dictionary + SM-2 flashcard desktop GUI (iced) |
 
 ## Data source
 
