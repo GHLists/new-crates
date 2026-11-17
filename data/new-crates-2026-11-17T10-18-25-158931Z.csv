@@ -1,0 +1,24 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-17T09:20:09.378055Z,ultron-services,1.0.0,0,0,https://github.com/alfredosdpiii/ultron-rs,"Ultron's local services as kernel-API host operations: refinements (lessons) and their review and activation flow, skill-proposal validation, experiment history, release gates, and documents kept as…"
+2026-11-17T09:20:57.066201Z,pangolin-tun,0.1.0,0,0,https://github.com/cnlangzi/pangolin-tun,"Pangolin tunnel protocol and client: QUIC, with a WebSocket/TCP fallback"
+2026-11-17T09:24:32.42702Z,zstd_nrp,0.1.0,0,0,https://github.com/OctoKeights/zstd_nrp,"Zstandard in pure, safe Rust: a native port of zstd's compressor, giving the frames ZSTD_compress gives at every level, and of its reference decoder."
+2026-11-17T09:30:56.114321Z,ultron-diagram,1.0.0,0,0,https://github.com/alfredosdpiii/ultron-rs,"diagram.mermaid: Mermaid text rendered by node and the vendored Pele into an SVG in the Ultron theme's colours, with readable labels, and a PNG drawn by resvg"
+2026-11-17T09:33:49.886033Z,quicsh-pam,0.1.0,0,0,https://github.com/amaanq/quicsh,"Password logins through PAM, as much of it as quicsh uses"
+2026-11-17T09:33:50.101419Z,quicsh-vt,0.1.0,0,0,https://github.com/amaanq/quicsh,"The terminal emulator of libghostty-vt, as much of it as quicsh uses"
+2026-11-17T09:33:51.020103Z,quicsh,0.1.0,0,0,https://github.com/amaanq/quicsh,SSH replacement over QUIC with a privilege-separated server
+2026-11-17T09:41:21.00621Z,velarx,0.0.1,0,0,https://github.com/giuseppe/velarx,A container engine written in Rust
+2026-11-17T09:41:51.121491Z,ultron-delegation,1.0.0,0,0,https://github.com/alfredosdpiii/ultron-rs,"Host side of rlm.spawn / collect / finish: the task journal, the kernel lane pool, subagent runs with host-side waits and completion events"
+2026-11-17T09:49:28.814049Z,axum-sse,0.0.0,0,0,,Temporary reservation for this crate name.
+2026-11-17T09:51:36.22615Z,completeness-derive,0.1.0,0,0,,Attribute macro behind the completeness crate
+2026-11-17T09:51:45.776309Z,completeness,0.1.0,0,0,,Complete partial structs with field-path errors and $todo serialization
+2026-11-17T09:52:23.834996Z,ultron-usage,1.0.0,0,0,https://github.com/alfredosdpiii/ultron-rs,"Session usage: a session file's usage log (`ultron/usage-cli.ts` reader), its session report and the report's text, for `ultron usage`, `/usage` and `ultron mcp`'s `usage.report`"
+2026-11-17T09:53:53.428783Z,sc-scene,0.2.0,0,0,https://codeberg.org/SoulCrafted/Slicer,"Scene aggregate for the resin pipeline: nodes, mesh resources, traversal, expansion, bake, validation and repair orchestration"
+2026-11-17T09:54:35.488824Z,sc-scene-edit,0.2.0,0,0,https://codeberg.org/SoulCrafted/Slicer,Typed scene-edit vocabulary: undo / redo edits and clipboard fragments over sc-scene
+2026-11-17T09:55:32.510453Z,openobserve-client,0.1.1,0,0,https://github.com/jason-darcy/openobserve,"OpenObserve telemetry for Rust: OTLP traces, metrics and logs to a local or remote OpenObserve instance, plus raw JSON ingestion."
+2026-11-17T09:57:17.051489Z,mcpwatch,0.1.0,0,0,https://github.com/vedhaai/MCP-Watch,"Security guard for MCP servers in Rust: the official Rust SDK (rmcp), axum/tower, actix-web"
+2026-11-17T10:08:58.058837Z,ultron-graph,1.0.0,0,0,https://github.com/alfredosdpiii/ultron-rs,"The REPL's knowledge API (relations across files on demand, settled by plain code and the judge, cached in the knowledge store) and its optional Neo4j mirror, with memorantado's memory relations mirr…"
+2026-11-17T10:09:45.991178Z,ultron-review,1.0.0,0,0,https://github.com/alfredosdpiii/ultron-rs,"Autoreview: the kernel review engine, its plan and the GitHub reviewer, daemon and service behind `ultron autoreview`"
+2026-11-17T10:10:49.030644Z,miden-genesis,0.18.3,0,0,https://github.com/0xMiden/node,Builds the Miden genesis block and its required USDCx accounts
+2026-11-17T10:13:51.585725Z,drawen-tasks,0.2.0,0,0,https://github.com/NMogolev/drawen,"Thread pool, cancellable tasks, progress, and a UI-thread dispatcher for Drawen"
+2026-11-17T10:16:41.445151Z,salvajocs-core,0.1.0,0,0,https://github.com/jmigual/salvajocs,"Game-save scanning, backup and cross-OS restore into a restic-format repository"
+2026-11-17T10:16:44.273028Z,salvajocs,0.1.0,0,0,https://github.com/jmigual/salvajocs,"Desktop app that backs up and restores game saves in a restic-format repository, across Linux, Wine/Proton and Windows"
