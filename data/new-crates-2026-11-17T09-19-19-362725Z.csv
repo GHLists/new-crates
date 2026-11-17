@@ -1,0 +1,43 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-17T08:20:40.19641Z,billionsend,0.1.2,0,0,https://github.com/billionsend/billionsend-rust,Rust SDK for the BillionSend email API
+2026-11-17T08:21:46.186801Z,ultron-lsp,1.0.0,0,0,https://github.com/alfredosdpiii/ultron-rs,"Language server diagnostics for every REPL file write: server detection, mise install, a stdio LSP client"
+2026-11-17T08:22:12.253569Z,gene_encoding,0.1.0,0,0,https://github.com/kunai-project/gene-rs,Crate defining how gene-rs represents raw data as text
+2026-11-17T08:23:02.695926Z,proto-dto-build,0.1.0,0,0,https://github.com/Just-Replicant/proto-dto,Build-script helper for proto-dto: renders flutter_rust_bridge mirror structs and exhaustive conversion checks from a protobuf descriptor set
+2026-11-17T08:30:39.638612Z,refix-fix42,0.1.0,0,0,https://github.com/refixhq/refix,Typed FIX 4.2 protocol messages for the ReFIX engine
+2026-11-17T08:32:28.091623Z,ultron-inference,1.0.0,0,0,https://github.com/alfredosdpiii/ultron-rs,"Host side of rlm.infer (and rlm.load): budgets, contract validation with bounded re-asks, Incomplete results"
+2026-11-17T08:39:21.608878Z,osm-pbf-ingest,0.1.0,0,0,https://github.com/Limina-Agency/osm-pbf-ingest,"OSM PBF ingest: blob index, parallel node/way/relation passes, node location store and normalized batches"
+2026-11-17T08:41:09.099187Z,rsproperties-service,0.7.0,0,0,https://github.com/hiking90/rsproperties,Linux emulation of the Android system property service (not usable on Android)
+2026-11-17T08:43:12.821868Z,ultron-harness,1.0.0,0,0,https://github.com/alfredosdpiii/ultron-rs,"Durable task runtime: the Pi Durable scheduler and conversation runtime (submissions, generation, durable REPL cells, children, swarm state), the RLM task journal, the lane snapshot reducer and the e…"
+2026-11-17T08:44:28.210672Z,i18n-next,0.1.0,0,0,https://github.com/s00d/i18n-next-rs,"i18n for Rust and Tauri on the same locale files as nuxt-i18n-micro: pages, plurals, Intl-compatible formats, no runtime dependencies"
+2026-11-17T08:44:30.748408Z,tauri-plugin-i18n-next,0.1.0,0,0,https://github.com/s00d/i18n-next-rs,"Tauri plugin for i18n-next: one locale catalog for the Rust backend, native UI and the WebView"
+2026-11-17T08:45:44.912103Z,polus,0.0.1,0,0,https://github.com,"Stereographic and equal-area projections, spatial orientation analysis, and geological orientation data visualization."
+2026-11-17T08:49:45.773014Z,phlite_bindings,0.2.0,0,0,https://github.com/tomchaplin/phlite,"The shared Python bindings of phlite: choosing an algorithm, building barcodes, and the phlite.core module"
+2026-11-17T08:49:47.261646Z,phlite_complexes,0.2.0,0,0,https://github.com/tomchaplin/phlite,"Persistent homology of explicit sparse filtered chain complexes with phlite, and the phlite.complexes Python package"
+2026-11-17T08:49:47.713454Z,phlite_images,0.2.0,0,0,https://github.com/tomchaplin/phlite,"Persistent homology of images (cubical complexes) with phlite, and the phlite.images Python package"
+2026-11-17T08:49:48.565661Z,phlite_clouds,0.2.0,0,0,https://github.com/tomchaplin/phlite,"Persistent homology of point clouds and distance matrices (Vietoris–Rips, alpha, ...) with phlite, and the phlite.clouds Python package"
+2026-11-17T08:49:50.236593Z,phlite_networks,0.2.0,0,0,https://github.com/tomchaplin/phlite,"Persistent homology of networks (grounded persistent path homology of weighted digraphs, ...) with phlite, and the phlite.networks Python package"
+2026-11-17T08:50:07.615361Z,pi-async-task,0.1.0,0,0,https://github.com/vmosone007/pi-async-rt,异步任务（Task）的基础类型（type）与生命周期（lifecycle）阶段定义
+2026-11-17T08:51:08.11836Z,pi-async-wait,0.1.0,0,0,https://github.com/vmosone007/pi-async-rt,独立于运行时的无锁单次交值与全部交值等待
+2026-11-17T08:51:42.161635Z,pi-async-task-queue,0.1.1,0,0,https://github.com/vmosone007/pi-async-rt,本地侵入式任务队列与外部任务池接入
+2026-11-17T08:52:10.225846Z,pi-async-task-wake,0.1.0,0,0,https://github.com/vmosone007/pi-async-rt,固定目标的本地与跨线程任务唤醒接入
+2026-11-17T08:52:12.661267Z,turul-ai-catalog,0.0.19,0,0,https://github.com/aussierobots/turul-agent-card,"Parse, validate and serialise AI Catalog (application/ai-catalog+json) documents"
+2026-11-17T08:52:15.997417Z,turul-ai-catalog-client,0.0.19,0,0,https://github.com/aussierobots/turul-agent-card,Load AI Catalog documents from files and HTTPS with Safe Fetching
+2026-11-17T08:52:17.54641Z,turul-ai-catalog-storage,0.0.19,0,0,https://github.com/aussierobots/turul-agent-card,"Storage for AI Catalog entries: the CatalogStore trait, record gate, assembly and backends"
+2026-11-17T08:52:20.594769Z,turul-ai-catalog-lambda,0.0.19,0,0,https://github.com/aussierobots/turul-agent-card,AWS Lambda handler serving an AI Catalog assembled from a catalog store at the well-known URI
+2026-11-17T08:52:22.024689Z,turul-ai-catalog-trust,0.0.19,0,0,https://github.com/aussierobots/turul-agent-card,"Signed payloads, artifact digests and signing for AI Catalog trust"
+2026-11-17T08:53:57.594504Z,miniz_nrp,0.1.0,0,0,https://github.com/OctoKeights/miniz_nrp,"zlib and deflate in pure, safe Rust: a native port of miniz's compressor and decompressor, giving the bytes miniz gives at every level."
+2026-11-17T08:53:57.676757Z,ultron-judge,1.0.0,0,0,https://github.com/alfredosdpiii/ultron-rs,"The judge seat: closed-set decisions asked of Jev (TypeSafe System One), a d1 server or a chat model, with fallback, escalation to another model family, review verdicts, spend receipts and limits; ju…"
+2026-11-17T08:56:24.589041Z,zfp_nrp,0.1.0,0,0,https://github.com/OctoKeights/zfp_nrp,"ZFP in pure, safe Rust: a native port of the zfp library's coder of blocks of four by four floats and its stream of bits, giving the bits zfp gives."
+2026-11-17T08:56:48.830593Z,stb_image_write_nrp,0.1.0,0,0,https://github.com/OctoKeights/stb_image_write_nrp,"PNG, BMP and JPEG writers in pure, safe Rust: a native port of stb_image_write.h, giving the bytes it writes."
+2026-11-17T08:58:33.465469Z,libdeflate_nrp,0.1.0,0,0,https://github.com/OctoKeights/libdeflate_nrp,"DEFLATE and zlib in pure, safe Rust: a native port of libdeflate's compressor and decompressor, giving the streams libdeflate gives at its levels 0 and 2 to 9."
+2026-11-17T08:58:48.969127Z,openexr_nrp,0.1.0,0,0,https://github.com/OctoKeights/openexr_nrp,"OpenEXR's DWAA and DWAB compressions in pure, safe Rust: a native port of OpenEXRCore's, giving the blocks OpenEXRCore gives on x86-64."
+2026-11-17T08:59:47.383713Z,tinyexr_nrp,0.1.0,0,0,https://github.com/OctoKeights/tinyexr_nrp,"OpenEXR files read and written in pure, safe Rust: a native port of tinyexr, giving the files and values tinyexr gives, with DWAA and DWAB as OpenEXR has them."
+2026-11-17T09:01:02.424208Z,turul-ai-catalog-tui,0.0.19,0,0,https://github.com/aussierobots/turul-agent-card,Terminal view over a resolved AI Catalog tree
+2026-11-17T09:04:23.067111Z,ultron-memorantado,1.0.0,0,0,https://github.com/alfredosdpiii/ultron-rs,"Ultron's memorantado memory client: memory.* over memorantado's REST API (scoped claims with keys, curation, file-snapshot evidence), the server and backend choice, over the blocking-http transport"
+2026-11-17T09:08:22.592252Z,pi-async-runtime-core,0.1.0,0,0,https://github.com/vmosone007/pi-async-rt,与具体执行器和队列实现无关的运行时核心能力
+2026-11-17T09:09:02.938799Z,stb_image_nrp,0.1.0,0,0,https://github.com/OctoKeights/stb_image_nrp,"Image file readers in pure, safe Rust: a native port of stb_image.h (PNG, BMP, JPEG, GIF, TGA, PSD, PNM, HDR), giving the pixels it gives."
+2026-11-17T09:09:39.068144Z,ultron-hindsight,1.0.0,0,0,https://github.com/alfredosdpiii/ultron-rs,"Ultron's Hindsight memory client: the native Hindsight 0.9.2 document endpoints behind memory.* and autoreview's lessons, the Hindsight URL and bank resolution, over the blocking-http transport"
+2026-11-17T09:10:34.17904Z,ic-sns-migration,0.104.1,0,0,https://github.com/dragginzgame/ic-query,Selected ICRC balances and SNS neuron evidence for user migration
+2026-11-17T09:11:30.733126Z,turul-ai-catalog-cli,0.0.19,0,0,https://github.com/aussierobots/turul-agent-card,"Command line for AI Catalog: validate, list, view, init, add and remove"
+2026-11-17T09:12:59.493984Z,pi-async-executor,0.1.0,0,0,https://github.com/vmosone007/pi-async-rt,默认执行器的统一时钟与线程通知基础
+2026-11-17T09:13:20.891989Z,pi-async-runtime,0.1.0,0,0,https://github.com/vmosone007/pi-async-rt,单线程串行及并发异步运行时的静态组合
