@@ -1,0 +1,54 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-18T12:21:35.107227Z,name-sayer,0.0.1,0,0,,authoritative DNS server with blocklist features
+2026-11-18T12:23:07.028938Z,blastr,0.1.1,0,0,https://github.com/zix3r/blastr,Shows what a Rust code change can affect
+2026-11-18T12:27:52.519293Z,biome_html_syntax,0.7.3,0,0,https://github.com/biomejs/biome,SyntaxKind and common rowan definitions for biome_html_parser
+2026-11-18T12:29:41.802875Z,datex2,0.0.1,0,0,https://github.com/hupe1980/datex2,Unofficial DATEX II implementation in Rust for road traffic and travel information. Placeholder release; no functionality yet.
+2026-11-18T12:30:54.386329Z,mrk-cli,0.9.0,0,0,https://github.com/vmeyet/mrk-cli,"Render Markdown beautifully in the terminal: syntax highlighting, tables, themes, and Mermaid diagrams as images."
+2026-11-18T12:33:27.477361Z,frust-markdown-editor,0.3.1,0,0,https://github.com/iocast/frust-markdown-editor,A Word-style WYSIWYG CommonMark editor widget for Frust
+2026-11-18T12:34:18.798354Z,termux-backup,1.0.0,0,0,https://github.com/rc-chuah/termux-backup,A Rust program to backup and restore your Termux home and sysroot directories.
+2026-11-18T12:35:44.252085Z,decklink-sys,0.1.0,0,0,https://github.com/MikanseiLaboratory/rust-decklink,Low-level C ABI bindings for Blackmagic DeckLink SDK 16.0
+2026-11-18T12:37:53.833631Z,biome_html_factory,0.7.3,0,0,https://github.com/biomejs/biome,Utilities to create HTML AST for biome_html_parser
+2026-11-18T12:40:46.22057Z,rust-decklink,0.1.0,0,0,https://github.com/MikanseiLaboratory/rust-decklink,"Safe, cross-platform, runtime-agnostic DeckLink capture and playout"
+2026-11-18T12:42:48.132539Z,brokk-mj-sessionwiki,0.0.0,0,0,https://github.com/BrokkAi/mjolnir,Mjolnir's session history index: keeping it in sync and answering searches over it (name reservation; released with Mjolnir)
+2026-11-18T12:47:53.788248Z,biome_html_formatter,0.7.3,0,0,https://github.com/biomejs/biome,Biome's HTML formatter
+2026-11-18T12:49:08.152067Z,brokk-mj-build-cache,0.0.0,0,0,https://github.com/BrokkAi/mjolnir,"The build, clone and tool caches Mjolnir keeps on a session's host (name reservation; released with Mjolnir)"
+2026-11-18T12:52:42.282094Z,adamo-zenoh-link-ws,1.9.0-adamo.1.0.28,0,0,https://github.com/adamo-tech/adamo,Internal crate for zenoh.
+2026-11-18T12:52:59.754773Z,adamo-zenoh-link,1.9.0-adamo.1.0.28,0,0,https://github.com/adamo-tech/adamo,Internal crate for zenoh.
+2026-11-18T12:53:17.261981Z,adamo-zenoh-crypto,1.9.0-adamo.1.0.28,0,0,https://github.com/adamo-tech/adamo,Internal crate for zenoh.
+2026-11-18T12:53:34.945811Z,adamo-zenoh-uring,1.9.0-adamo.1.0.28,0,0,https://github.com/adamo-tech/adamo,Internal crate for zenoh.
+2026-11-18T12:53:38.582918Z,brokk-mj-session-types,0.0.0,0,0,https://github.com/BrokkAi/mjolnir,Plan and failure types shared by the parts of Mjolnir that run a session (name reservation; released with Mjolnir)
+2026-11-18T12:53:53.148832Z,adamo-zenoh-transport,1.9.0-adamo.1.0.28,0,0,https://github.com/adamo-tech/adamo,Internal crate for zenoh.
+2026-11-18T12:54:14.235014Z,nightwatch-ndr,0.1.0,0,0,https://github.com/Ai-finder-for-api/nightwatch,"Passive network threat detection engine with offline PCAP analysis, declarative rules, and SQLite event storage"
+2026-11-18T12:56:12.741259Z,adamo-zenoh-plugin-trait,1.9.0-adamo.1.0.28,0,0,https://github.com/adamo-tech/adamo,Zenoh: The Zero Overhead Pub/Sub/Query Protocol.
+2026-11-18T12:56:34.969225Z,openai-mock-server,0.1.0,0,0,https://github.com/genai-rs/openai-mock-server,"A scripted mock of the OpenAI API for tests, served by an axum server generated from OpenAI's OpenAPI specification"
+2026-11-18T12:57:53.546891Z,biome_html_parser,0.7.3,0,0,https://github.com/biomejs/biome,Biome's HTML/Astro/Svelte parser
+2026-11-18T12:59:03.736642Z,demongrep,0.1.0,0,0,https://github.com/yxanul/demongrep,"Fast, local semantic code search powered by Rust"
+2026-11-18T12:59:55.024189Z,super-router-pricing,0.2.0,0,0,https://github.com/Super-Solution/super-router,"Exact big-integer pricing for Super Router: Charge, Bound and CompileCreditPrice."
+2026-11-18T12:59:55.76595Z,super-router-sse,0.2.0,0,0,https://github.com/Super-Solution/super-router,Bounded server-sent-events reader for provider adapters.
+2026-11-18T12:59:58.061708Z,super-router-contracts,0.2.0,0,0,https://github.com/Super-Solution/super-router,"Wire types, strict parsing of untrusted JSON and canonical JSON for Super Router."
+2026-11-18T12:59:59.446056Z,super-router-provider-anthropic,0.2.0,0,0,https://github.com/Super-Solution/super-router,Anthropic Messages API adapter.
+2026-11-18T13:00:00.017723Z,super-router-provider-openai,0.2.0,0,0,https://github.com/Super-Solution/super-router,OpenAI Responses API adapter.
+2026-11-18T13:00:39.091528Z,lambdadx,0.1.0,0,0,,MaiMaiDX Chart Studio
+2026-11-18T13:03:09.994875Z,testifyguru,0.1.0,0,0,https://github.com/StarcevAlexander/testifyguru,"testify-style fluent assertions for Rust - assert_that(value).is_equal_to(x).contains(y), zero dependencies"
+2026-11-18T13:03:43.893001Z,tablo-audit,0.11.0,0,0,https://github.com/y-l-g/tablo,"The audit log for Tablo panels, built on Tablo's public API, re-exported as `tablo::audit`."
+2026-11-18T13:04:59.598754Z,prime-splitter,0.1.0,0,0,https://github.com/anton-avramchuk/prime-rs,prime-rs: Splitter component (PrimeNG port)
+2026-11-18T13:05:05.24555Z,argoshot,0.1.0,0,0,https://github.com/rrlabs-io/argoshot-rust,"Official client for the Argoshot screenshot API: screenshots, PDFs and signed og:image URLs of any web page or HTML."
+2026-11-18T13:05:38.78522Z,rp-pac-riscv,0.1.0,0,0,https://github.com/jorgeandrecastro/embassy-riscv,"Peripheral Access Crate (PAC) for Raspberry Pi Silicon chips (RP2040, RP235x). Fork of rp-pac pinned for embassy-rp-riscv."
+2026-11-18T13:07:54.20126Z,biome_js_control_flow,0.7.3,0,0,https://github.com/biomejs/biome,JavaScript control-flow graph construction and semantic service
+2026-11-18T13:09:10.894557Z,embassy-hal-internal-riscv,0.1.0,0,0,https://github.com/jorgeandrecastro/embassy-riscv,Internal implementation details for Embassy HALs. DO NOT USE DIRECTLY.
+2026-11-18T13:09:27.560042Z,canic-management-protocol,0.222.0,0,0,https://github.com/dragginzgame/canic,Bounded child management authority and evidence
+2026-11-18T13:09:32.950907Z,canic-management,0.222.0,0,0,https://github.com/dragginzgame/canic,Reusable bounded child management engine
+2026-11-18T13:09:35.423667Z,canic-root,0.222.0,0,0,https://github.com/dragginzgame/canic,Root for bounded controller-approved application canisters
+2026-11-18T13:10:15.916957Z,super-router-routing,0.2.0,0,0,https://github.com/Super-Solution/super-router,"Offering selection for Super Router: hard limits, weighted scoring and ordering."
+2026-11-18T13:12:12.622784Z,brrrty-node,0.0.22,0,0,https://github.com/brrrty/brrrty,"Runs an Eleventy site's JavaScript data files in the site's own Node, for Brrrty, an Eleventy-compatible static site generator."
+2026-11-18T13:13:48.370528Z,zodguru,0.1.0,0,0,https://github.com/StarcevAlexander/zodguru,"zod-style schema validation for Rust - composable builders that validate serde_json::Value and report every issue with its path, zero dependencies"
+2026-11-18T13:14:03.154871Z,qxide,0.1.0,0,0,https://github.com/qxide-lang/qxide,"Early experiment for Qxide, a Rust-like quantum/classical language: qubit ownership as Rust types, OpenQASM 3 output, tiny state-vector simulator"
+2026-11-18T13:15:14.932975Z,prime-stepper,0.1.0,0,0,https://github.com/anton-avramchuk/prime-rs,prime-rs: Stepper component (PrimeNG port)
+2026-11-18T13:15:35.68259Z,brokk-mj-worker-staging,0.0.0,0,0,https://github.com/BrokkAi/mjolnir,"Putting the Mjolnir worker, its harness and its profile onto a session's target (name reservation; released with Mjolnir)"
+2026-11-18T13:15:59.374868Z,osd,0.1.0,0,0,https://github.com/roomi-fields/open-synth-descriptors,"The reference reader of Open Synth Descriptors: descriptors read strictly into types, maker profiles and shared MIDI resolved."
+2026-11-18T13:16:05.959427Z,osd-formats,0.1.0,0,0,https://github.com/roomi-fields/open-synth-descriptors,"Open Synth Descriptors to and from the formats others use: MIDI CSV tables, Electra One, MIDNAM, OSCQuery."
+2026-11-18T13:16:10.796419Z,osd-cli,0.1.0,0,0,https://github.com/roomi-fields/open-synth-descriptors,"The osd command: validate, convert and start an Open Synth Descriptors file."
+2026-11-18T13:16:29.665191Z,atman-client,1.23.0,0,0,https://github.com/W-Mai/atman,Typed native and HTTP clients for atman runtime hosts
+2026-11-18T13:17:54.020636Z,biome_grit_patterns,0.7.3,0,0,https://github.com/biomejs/biome,Biome implementation for Grit Patterns
+2026-11-18T13:18:00.844413Z,pollyguru,0.1.0,0,0,https://github.com/StarcevAlexander/pollyguru,"Polly-style resilience for Rust - retry with exponential backoff and jitter, circuit breaker, zero dependencies"
+2026-11-18T13:20:14.905424Z,super-router-router,0.2.0,0,0,https://github.com/Super-Solution/super-router,"The Super Router data plane: idempotent admission, reserve, execute and settle."

@@ -8,47 +8,67 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-18 12:20 UTC
+## Latest list — 2026-11-18 13:21 UTC
 
-New crates published between 2026-11-18 11:19 UTC and 2026-11-18 12:20 UTC.
+New crates published between 2026-11-18 12:20 UTC and 2026-11-18 13:21 UTC.
 
-[Full CSV](data/new-crates-2026-11-18T12-20-29-976394Z.csv)
+[Full CSV](data/new-crates-2026-11-18T13-21-23-734974Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-18 11:19:31 | [puns-derive](https://crates.io/crates/puns-derive) | 0.1.0 | 0 | The #[derive(Pun)] macro for the puns crate |
-| 2026-11-18 11:19:36 | [puns](https://crates.io/crates/puns) | 0.1.0 | 0 | Type punning proven at compile time: a safe alternative to transmute and to han… |
-| 2026-11-18 11:19:37 | [prime-speeddial](https://crates.io/crates/prime-speeddial) | 0.1.0 | 0 | prime-rs: SpeedDial component (PrimeNG port) |
-| 2026-11-18 11:20:22 | [brei](https://crates.io/crates/brei) | 0.1.0 | 0 | A small but versatile workflow system, with workflows in TOML, YAML or JSON |
-| 2026-11-18 11:21:48 | [claude-agent-rust-sdk-macros](https://crates.io/crates/claude-agent-rust-sdk-macros) | 0.1.0-rc.2 | 0 | Procedural macros of claude-agent-rust-sdk, used through its `macros` feature |
-| 2026-11-18 11:21:56 | [claude-agent-rust-sdk](https://crates.io/crates/claude-agent-rust-sdk) | 0.1.0-rc.2 | 0 | Rust SDK for building Claude Agent applications on top of the Claude CLI |
-| 2026-11-18 11:27:53 | [biome_yaml_factory](https://crates.io/crates/biome_yaml_factory) | 0.7.3 | 0 | Utilities to create YAML AST for biome_yaml_parser |
-| 2026-11-18 11:29:22 | [egui-customplot](https://crates.io/crates/egui-customplot) | 0.1.0 | 0 | An embeddable, high-performance scientific and engineering plotting library for… |
-| 2026-11-18 11:29:42 | [prime-splitbutton](https://crates.io/crates/prime-splitbutton) | 0.1.0 | 0 | prime-rs: SplitButton component (PrimeNG port) |
-| 2026-11-18 11:37:53 | [biome_yaml_parser](https://crates.io/crates/biome_yaml_parser) | 0.7.3 | 0 | Biome's YAML parser |
-| 2026-11-18 11:47:52 | [biome_css_semantic](https://crates.io/crates/biome_css_semantic) | 0.7.3 | 0 | Biome's semantic model for CSS |
-| 2026-11-18 11:48:18 | [mini-crdt](https://crates.io/crates/mini-crdt) | 0.1.0 | 0 | Zero-dependency CRDT implementations for Rust |
-| 2026-11-18 11:48:42 | [rialo-transaction-package-interface](https://crates.io/crates/rialo-transaction-package-interface) | 0.26.0 | 0 | Contract between protocol, which carries a user transaction as its Solana encod… |
-| 2026-11-18 11:50:19 | [agentai-video](https://crates.io/crates/agentai-video) | 0.7.0 | 0 | Video generation for AgentAI: submit a job, follow it, download the video. |
-| 2026-11-18 11:52:49 | [rialo-compute-budget-bounds](https://crates.io/crates/rialo-compute-budget-bounds) | 0.26.0 | 0 | Per-block, feature-resolved compute-budget ceilings beside the rialo-s-compute-… |
-| 2026-11-18 11:54:40 | [nvim-rpc-ui](https://crates.io/crates/nvim-rpc-ui) | 0.1.0 | 0 | Backend-independent Neovim UI state, frames, and input |
-| 2026-11-18 11:57:11 | [basek](https://crates.io/crates/basek) | 0.1.0 | 0 | Это учебный проект для тестирования кибербезопасности. |
-| 2026-11-18 11:57:17 | [mp305](https://crates.io/crates/mp305) | 0.1.1 | 0 | CLI and library to control the ISDT MP305 (MP305A/MP305B) bench power supply ov… |
-| 2026-11-18 11:57:52 | [biome_glob](https://crates.io/crates/biome_glob) | 0.7.3 | 0 | <DESCRIPTION> |
-| 2026-11-18 12:02:43 | [blastr-model](https://crates.io/crates/blastr-model) | 0.1.0 | 0 | Internal crate of Blastr (shared data types); not a stable API |
-| 2026-11-18 12:02:44 | [blastr-store](https://crates.io/crates/blastr-store) | 0.1.0 | 0 | Internal crate of Blastr (the SQLite cache); not a stable API |
-| 2026-11-18 12:02:45 | [blastr-git](https://crates.io/crates/blastr-git) | 0.1.0 | 0 | Internal crate of Blastr (Git access); not a stable API |
-| 2026-11-18 12:02:45 | [blastr-ra](https://crates.io/crates/blastr-ra) | 0.1.0 | 0 | Internal crate of Blastr (the rust-analyzer adapter); not a stable API |
-| 2026-11-18 12:02:46 | [blastr-core](https://crates.io/crates/blastr-core) | 0.1.0 | 0 | Internal crate of Blastr (the analysis pipeline); not a stable API |
-| 2026-11-18 12:04:52 | [ssplayer-wgpu](https://crates.io/crates/ssplayer-wgpu) | 7.0.0-beta.1 | 0 | SpriteStudio Player for wgpu: renders SpriteStudio animations (.ssab) with wgpu. |
-| 2026-11-18 12:07:04 | [markdown-editor-core](https://crates.io/crates/markdown-editor-core) | 0.1.0 | 0 | UI-independent core of a Word-style WYSIWYG CommonMark editor |
-| 2026-11-18 12:07:50 | [runx-launcher](https://crates.io/crates/runx-launcher) | 0.7.1 | 0 | Run any project with the exact runtime versions it declares — no global install… |
-| 2026-11-18 12:07:53 | [biome_graphql_formatter](https://crates.io/crates/biome_graphql_formatter) | 0.7.3 | 0 | Biome's GraphQL formatter |
-| 2026-11-18 12:10:26 | [ssplayer-bevy](https://crates.io/crates/ssplayer-bevy) | 7.0.0-beta.1 | 0 | Bevy adapter for SpriteStudio Player for wgpu: spawns a SpriteStudio animation… |
-| 2026-11-18 12:17:22 | [docs4agent](https://crates.io/crates/docs4agent) | 0.1.0 | 0 | Frontmatter, templates, and the check for Hatchery documents |
-| 2026-11-18 12:17:53 | [biome_grit_formatter](https://crates.io/crates/biome_grit_formatter) | 0.7.3 | 0 | Biome's GritQL formatter |
-| 2026-11-18 12:18:45 | [blastr-gui](https://crates.io/crates/blastr-gui) | 0.1.0 | 0 | Internal crate of Blastr (the desktop interface); not a stable API |
-| 2026-11-18 12:19:25 | [phanotate-rs](https://crates.io/crates/phanotate-rs) | 0.1.4 | 0 | A fast Rust implementation of PHANOTATE with automatic genetic-code detection f… |
+| 2026-11-18 12:21:35 | [name-sayer](https://crates.io/crates/name-sayer) | 0.0.1 | 0 | authoritative DNS server with blocklist features |
+| 2026-11-18 12:23:07 | [blastr](https://crates.io/crates/blastr) | 0.1.1 | 0 | Shows what a Rust code change can affect |
+| 2026-11-18 12:27:52 | [biome_html_syntax](https://crates.io/crates/biome_html_syntax) | 0.7.3 | 0 | SyntaxKind and common rowan definitions for biome_html_parser |
+| 2026-11-18 12:29:41 | [datex2](https://crates.io/crates/datex2) | 0.0.1 | 0 | Unofficial DATEX II implementation in Rust for road traffic and travel informat… |
+| 2026-11-18 12:30:54 | [mrk-cli](https://crates.io/crates/mrk-cli) | 0.9.0 | 0 | Render Markdown beautifully in the terminal: syntax highlighting, tables, theme… |
+| 2026-11-18 12:33:27 | [frust-markdown-editor](https://crates.io/crates/frust-markdown-editor) | 0.3.1 | 0 | A Word-style WYSIWYG CommonMark editor widget for Frust |
+| 2026-11-18 12:34:18 | [termux-backup](https://crates.io/crates/termux-backup) | 1.0.0 | 0 | A Rust program to backup and restore your Termux home and sysroot directories. |
+| 2026-11-18 12:35:44 | [decklink-sys](https://crates.io/crates/decklink-sys) | 0.1.0 | 0 | Low-level C ABI bindings for Blackmagic DeckLink SDK 16.0 |
+| 2026-11-18 12:37:53 | [biome_html_factory](https://crates.io/crates/biome_html_factory) | 0.7.3 | 0 | Utilities to create HTML AST for biome_html_parser |
+| 2026-11-18 12:40:46 | [rust-decklink](https://crates.io/crates/rust-decklink) | 0.1.0 | 0 | Safe, cross-platform, runtime-agnostic DeckLink capture and playout |
+| 2026-11-18 12:42:48 | [brokk-mj-sessionwiki](https://crates.io/crates/brokk-mj-sessionwiki) | 0.0.0 | 0 | Mjolnir's session history index: keeping it in sync and answering searches over… |
+| 2026-11-18 12:47:53 | [biome_html_formatter](https://crates.io/crates/biome_html_formatter) | 0.7.3 | 0 | Biome's HTML formatter |
+| 2026-11-18 12:49:08 | [brokk-mj-build-cache](https://crates.io/crates/brokk-mj-build-cache) | 0.0.0 | 0 | The build, clone and tool caches Mjolnir keeps on a session's host (name reserv… |
+| 2026-11-18 12:52:42 | [adamo-zenoh-link-ws](https://crates.io/crates/adamo-zenoh-link-ws) | 1.9.0-adamo.1.0.28 | 0 | Internal crate for zenoh. |
+| 2026-11-18 12:52:59 | [adamo-zenoh-link](https://crates.io/crates/adamo-zenoh-link) | 1.9.0-adamo.1.0.28 | 0 | Internal crate for zenoh. |
+| 2026-11-18 12:53:17 | [adamo-zenoh-crypto](https://crates.io/crates/adamo-zenoh-crypto) | 1.9.0-adamo.1.0.28 | 0 | Internal crate for zenoh. |
+| 2026-11-18 12:53:34 | [adamo-zenoh-uring](https://crates.io/crates/adamo-zenoh-uring) | 1.9.0-adamo.1.0.28 | 0 | Internal crate for zenoh. |
+| 2026-11-18 12:53:38 | [brokk-mj-session-types](https://crates.io/crates/brokk-mj-session-types) | 0.0.0 | 0 | Plan and failure types shared by the parts of Mjolnir that run a session (name… |
+| 2026-11-18 12:53:53 | [adamo-zenoh-transport](https://crates.io/crates/adamo-zenoh-transport) | 1.9.0-adamo.1.0.28 | 0 | Internal crate for zenoh. |
+| 2026-11-18 12:54:14 | [nightwatch-ndr](https://crates.io/crates/nightwatch-ndr) | 0.1.0 | 0 | Passive network threat detection engine with offline PCAP analysis, declarative… |
+| 2026-11-18 12:56:12 | [adamo-zenoh-plugin-trait](https://crates.io/crates/adamo-zenoh-plugin-trait) | 1.9.0-adamo.1.0.28 | 0 | Zenoh: The Zero Overhead Pub/Sub/Query Protocol. |
+| 2026-11-18 12:56:34 | [openai-mock-server](https://crates.io/crates/openai-mock-server) | 0.1.0 | 0 | A scripted mock of the OpenAI API for tests, served by an axum server generated… |
+| 2026-11-18 12:57:53 | [biome_html_parser](https://crates.io/crates/biome_html_parser) | 0.7.3 | 0 | Biome's HTML/Astro/Svelte parser |
+| 2026-11-18 12:59:03 | [demongrep](https://crates.io/crates/demongrep) | 0.1.0 | 0 | Fast, local semantic code search powered by Rust |
+| 2026-11-18 12:59:55 | [super-router-pricing](https://crates.io/crates/super-router-pricing) | 0.2.0 | 0 | Exact big-integer pricing for Super Router: Charge, Bound and CompileCreditPric… |
+| 2026-11-18 12:59:55 | [super-router-sse](https://crates.io/crates/super-router-sse) | 0.2.0 | 0 | Bounded server-sent-events reader for provider adapters. |
+| 2026-11-18 12:59:58 | [super-router-contracts](https://crates.io/crates/super-router-contracts) | 0.2.0 | 0 | Wire types, strict parsing of untrusted JSON and canonical JSON for Super Route… |
+| 2026-11-18 12:59:59 | [super-router-provider-anthropic](https://crates.io/crates/super-router-provider-anthropic) | 0.2.0 | 0 | Anthropic Messages API adapter. |
+| 2026-11-18 13:00:00 | [super-router-provider-openai](https://crates.io/crates/super-router-provider-openai) | 0.2.0 | 0 | OpenAI Responses API adapter. |
+| 2026-11-18 13:00:39 | [lambdadx](https://crates.io/crates/lambdadx) | 0.1.0 | 0 | MaiMaiDX Chart Studio |
+| 2026-11-18 13:03:09 | [testifyguru](https://crates.io/crates/testifyguru) | 0.1.0 | 0 | testify-style fluent assertions for Rust - assert_that(value).is_equal_to(x).co… |
+| 2026-11-18 13:03:43 | [tablo-audit](https://crates.io/crates/tablo-audit) | 0.11.0 | 0 | The audit log for Tablo panels, built on Tablo's public API, re-exported as `ta… |
+| 2026-11-18 13:04:59 | [prime-splitter](https://crates.io/crates/prime-splitter) | 0.1.0 | 0 | prime-rs: Splitter component (PrimeNG port) |
+| 2026-11-18 13:05:05 | [argoshot](https://crates.io/crates/argoshot) | 0.1.0 | 0 | Official client for the Argoshot screenshot API: screenshots, PDFs and signed o… |
+| 2026-11-18 13:05:38 | [rp-pac-riscv](https://crates.io/crates/rp-pac-riscv) | 0.1.0 | 0 | Peripheral Access Crate (PAC) for Raspberry Pi Silicon chips (RP2040, RP235x).… |
+| 2026-11-18 13:07:54 | [biome_js_control_flow](https://crates.io/crates/biome_js_control_flow) | 0.7.3 | 0 | JavaScript control-flow graph construction and semantic service |
+| 2026-11-18 13:09:10 | [embassy-hal-internal-riscv](https://crates.io/crates/embassy-hal-internal-riscv) | 0.1.0 | 0 | Internal implementation details for Embassy HALs. DO NOT USE DIRECTLY. |
+| 2026-11-18 13:09:27 | [canic-management-protocol](https://crates.io/crates/canic-management-protocol) | 0.222.0 | 0 | Bounded child management authority and evidence |
+| 2026-11-18 13:09:32 | [canic-management](https://crates.io/crates/canic-management) | 0.222.0 | 0 | Reusable bounded child management engine |
+| 2026-11-18 13:09:35 | [canic-root](https://crates.io/crates/canic-root) | 0.222.0 | 0 | Root for bounded controller-approved application canisters |
+| 2026-11-18 13:10:15 | [super-router-routing](https://crates.io/crates/super-router-routing) | 0.2.0 | 0 | Offering selection for Super Router: hard limits, weighted scoring and ordering. |
+| 2026-11-18 13:12:12 | [brrrty-node](https://crates.io/crates/brrrty-node) | 0.0.22 | 0 | Runs an Eleventy site's JavaScript data files in the site's own Node, for Brrrt… |
+| 2026-11-18 13:13:48 | [zodguru](https://crates.io/crates/zodguru) | 0.1.0 | 0 | zod-style schema validation for Rust - composable builders that validate serde_… |
+| 2026-11-18 13:14:03 | [qxide](https://crates.io/crates/qxide) | 0.1.0 | 0 | Early experiment for Qxide, a Rust-like quantum/classical language: qubit owner… |
+| 2026-11-18 13:15:14 | [prime-stepper](https://crates.io/crates/prime-stepper) | 0.1.0 | 0 | prime-rs: Stepper component (PrimeNG port) |
+| 2026-11-18 13:15:35 | [brokk-mj-worker-staging](https://crates.io/crates/brokk-mj-worker-staging) | 0.0.0 | 0 | Putting the Mjolnir worker, its harness and its profile onto a session's target… |
+| 2026-11-18 13:15:59 | [osd](https://crates.io/crates/osd) | 0.1.0 | 0 | The reference reader of Open Synth Descriptors: descriptors read strictly into… |
+| 2026-11-18 13:16:05 | [osd-formats](https://crates.io/crates/osd-formats) | 0.1.0 | 0 | Open Synth Descriptors to and from the formats others use: MIDI CSV tables, Ele… |
+| 2026-11-18 13:16:10 | [osd-cli](https://crates.io/crates/osd-cli) | 0.1.0 | 0 | The osd command: validate, convert and start an Open Synth Descriptors file. |
+| 2026-11-18 13:16:29 | [atman-client](https://crates.io/crates/atman-client) | 1.23.0 | 0 | Typed native and HTTP clients for atman runtime hosts |
+| 2026-11-18 13:17:54 | [biome_grit_patterns](https://crates.io/crates/biome_grit_patterns) | 0.7.3 | 0 | Biome implementation for Grit Patterns |
+| 2026-11-18 13:18:00 | [pollyguru](https://crates.io/crates/pollyguru) | 0.1.0 | 0 | Polly-style resilience for Rust - retry with exponential backoff and jitter, ci… |
+| 2026-11-18 13:20:14 | [super-router-router](https://crates.io/crates/super-router-router) | 0.2.0 | 0 | The Super Router data plane: idempotent admission, reserve, execute and settle. |
 
 ## Data source
 
