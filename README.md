@@ -8,52 +8,45 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-18 02:21 UTC
+## Latest list — 2026-11-18 03:19 UTC
 
-New crates published between 2026-11-18 01:19 UTC and 2026-11-18 02:21 UTC.
+New crates published between 2026-11-18 02:21 UTC and 2026-11-18 03:19 UTC.
 
-[Full CSV](data/new-crates-2026-11-18T02-21-24-121904Z.csv)
+[Full CSV](data/new-crates-2026-11-18T03-19-31-579324Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-18 01:22:12 | [snodra-messaging-kafka](https://crates.io/crates/snodra-messaging-kafka) | 0.6.0 | 0 | Snodra messaging: the Kafka event store (publish, subscriptions, reset, lag, de… |
-| 2026-11-18 01:22:48 | [snodra-messaging-mongo](https://crates.io/crates/snodra-messaging-mongo) | 0.6.0 | 0 | Snodra messaging: the MongoDB message store (outbox, processed events, dead let… |
-| 2026-11-18 01:23:07 | [snodra-messaging-sqlx](https://crates.io/crates/snodra-messaging-sqlx) | 0.6.0 | 0 | Snodra messaging: the SQL message store on PostgreSQL and MySQL (outbox, proces… |
-| 2026-11-18 01:23:22 | [snodra-messaging-rabbitmq](https://crates.io/crates/snodra-messaging-rabbitmq) | 0.6.0 | 0 | Snodra messaging: the RabbitMQ Streams event store (super stream publish, singl… |
-| 2026-11-18 01:23:40 | [pod-lab](https://crates.io/crates/pod-lab) | 0.0.0 | 0 | The classes of hostile hosts as profiles: the rows of pod-hostprobe that each p… |
-| 2026-11-18 01:26:07 | [ignit_shader_core](https://crates.io/crates/ignit_shader_core) | 1.6.0 | 0 | Shader descriptors, variables, and pipeline plumbing for Ignit |
-| 2026-11-18 01:27:02 | [prime-floatlabel](https://crates.io/crates/prime-floatlabel) | 0.1.0 | 0 | prime-rs: FloatLabel component (port of PrimeNG) |
-| 2026-11-18 01:27:47 | [gadk-agentanalytics](https://crates.io/crates/gadk-agentanalytics) | 0.2.1 | 0 | BigQuery agent analytics plugin for gadk |
-| 2026-11-18 01:28:13 | [catherine-core](https://crates.io/crates/catherine-core) | 0.3.0 | 0 | Catherine kernel: .ct.json model document format, parser, canonical form, hash |
-| 2026-11-18 01:28:40 | [catherine-analysis](https://crates.io/crates/catherine-analysis) | 0.3.0 | 0 | Catherine analysis: bounded search, redundancy, underconstraint, distinguish, a… |
-| 2026-11-18 01:29:04 | [catherine-ledger](https://crates.io/crates/catherine-ledger) | 0.3.0 | 0 | The P6 kata validation ledger: content-addressed entries, validator, project ro… |
-| 2026-11-18 01:29:48 | [catherine-cli](https://crates.io/crates/catherine-cli) | 0.3.0 | 0 | The catherine CLI: check and findings over .ct.json model documents |
-| 2026-11-18 01:34:28 | [pod-manual](https://crates.io/crates/pod-manual) | 0.0.0 | 0 | The help and the manual of a command line from one model: plain text, man(7), J… |
-| 2026-11-18 01:36:04 | [ignit_vertex](https://crates.io/crates/ignit_vertex) | 1.6.0 | 0 | Vertex formats for Ignit |
-| 2026-11-18 01:37:53 | [gadk-mcp](https://crates.io/crates/gadk-mcp) | 0.2.1 | 0 | Model Context Protocol (MCP) server tools as a gadk toolset |
-| 2026-11-18 01:44:46 | [pod-detach](https://crates.io/crates/pod-detach) | 0.0.0 | 0 | Detached payloads for PodUtils tools (name reserved) |
-| 2026-11-18 01:46:04 | [ignit_material_shader](https://crates.io/crates/ignit_material_shader) | 1.6.0 | 0 | Material shader assembly and pipeline creation for Ignit |
-| 2026-11-18 01:47:36 | [anyword](https://crates.io/crates/anyword) | 0.1.0 | 0 | Get random words from default lists or custom-made ones |
-| 2026-11-18 01:47:59 | [gadk-prompts](https://crates.io/crates/gadk-prompts) | 0.2.1 | 0 | Versioned, labelled prompt registry for gadk agents |
-| 2026-11-18 01:49:44 | [bmd-atem-atom](https://crates.io/crates/bmd-atem-atom) | 0.1.0 | 0 | Blackmagic Design ATEM atom (command record) codec shared by the UDP/BURP and U… |
-| 2026-11-18 01:49:54 | [embassy-bmd-atem](https://crates.io/crates/embassy-bmd-atem) | 0.1.0 | 0 | Blackmagic Design ATEM control protocol for embedded Rust: UDP/BURP (edge-nal s… |
-| 2026-11-18 01:50:05 | [embassy-bmd-atem-std](https://crates.io/crates/embassy-bmd-atem-std) | 0.1.0 | 0 | Standard-library (Tokio + nusb) host backend and `atem-usb-control` CLI for the… |
-| 2026-11-18 01:52:49 | [xml-fragment](https://crates.io/crates/xml-fragment) | 0.1.0 | 0 | Opaque, re-emittable XML subtrees for serde documents parsed with quick-xml |
-| 2026-11-18 01:55:03 | [pod-time](https://crates.io/crates/pod-time) | 0.0.0 | 0 | The time-zone reader and the cron of PodUtils tools |
-| 2026-11-18 01:56:05 | [ignit_mesh](https://crates.io/crates/ignit_mesh) | 1.6.0 | 0 | Mesh data and GPU mesh resources for Ignit |
-| 2026-11-18 01:58:05 | [gadk-server](https://crates.io/crates/gadk-server) | 0.2.1 | 0 | The gadk REST API server, with inbound authentication |
-| 2026-11-18 01:59:05 | [web-faith-revocation](https://crates.io/crates/web-faith-revocation) | 1.0.0 | 0 | OneCRL and CRLite certificate revocation checking for rustls, on top of any ver… |
-| 2026-11-18 02:00:31 | [wirebin](https://crates.io/crates/wirebin) | 0.1.0 | 0 | Minimal dependency-free binary serialization over std::io::Read/Write: big-endi… |
-| 2026-11-18 02:01:39 | [stoffel-wasm-client](https://crates.io/crates/stoffel-wasm-client) | 0.1.0-alpha.1 | 0 | Browser-side private client I/O for the Stoffel coordinator |
-| 2026-11-18 02:03:24 | [znippy-sign](https://crates.io/crates/znippy-sign) | 0.1.0 | 0 | Detached CMS provenance signatures for znippy archives: per-artifact and per-ar… |
-| 2026-11-18 02:03:38 | [znippy-feed](https://crates.io/crates/znippy-feed) | 0.1.0 | 0 | Keyed feed archives for znippy: rows sorted by key in small frames, the archive… |
-| 2026-11-18 02:05:18 | [pod-udf](https://crates.io/crates/pod-udf) | 0.0.0 | 0 | A reader of UDF (ECMA-167, UDF 1.02 to 2.60) that finds a file in an image and… |
-| 2026-11-18 02:06:06 | [ignit_model](https://crates.io/crates/ignit_model) | 1.6.0 | 0 | Model descriptors and GPU model resources for Ignit |
-| 2026-11-18 02:08:10 | [gadk-tools](https://crates.io/crates/gadk-tools) | 0.2.1 | 0 | Built-in gadk tools and plugins: Gemini tools, artifacts, memory, examples, too… |
-| 2026-11-18 02:15:32 | [pod-qga](https://crates.io/crates/pod-qga) | 0.0.0 | 0 | A blocking client of the QEMU Guest Agent over a Unix socket: sync, ping, exec,… |
-| 2026-11-18 02:16:02 | [ignit_shader_math](https://crates.io/crates/ignit_shader_math) | 1.6.0 | 0 | Reusable WGSL math nodes for Ignit |
-| 2026-11-18 02:18:16 | [gadk-a2a](https://crates.io/crates/gadk-a2a) | 0.2.1 | 0 | Agent2Agent (A2A) protocol support for gadk: serve agents over A2A and call rem… |
-| 2026-11-18 02:18:45 | [llm-resilience](https://crates.io/crates/llm-resilience) | 0.1.0 | 0 | Single-flight request deduplication and an async circuit breaker for LLM and HT… |
+| 2026-11-18 02:26:03 | [ignit_shader_engine](https://crates.io/crates/ignit_shader_engine) | 1.6.0 | 0 | Reusable WGSL nodes for engine rendering in Ignit |
+| 2026-11-18 02:28:22 | [gadk-eval](https://crates.io/crates/gadk-eval) | 0.2.1 | 0 | Offline evaluation of gadk agents: eval sets, scorers and an LLM judge |
+| 2026-11-18 02:36:08 | [ignit_shader_pbr](https://crates.io/crates/ignit_shader_pbr) | 1.6.0 | 0 | Reusable WGSL PBR nodes for Ignit |
+| 2026-11-18 02:38:27 | [gadk-prompts-firestore](https://crates.io/crates/gadk-prompts-firestore) | 0.2.1 | 0 | Firestore store for gadk-prompts |
+| 2026-11-18 02:46:07 | [ignit_importer_gltf](https://crates.io/crates/ignit_importer_gltf) | 1.6.0 | 0 | Asynchronous glTF 2.0 importer for Ignit |
+| 2026-11-18 02:47:21 | [kombuse-describe](https://crates.io/crates/kombuse-describe) | 0.1.0 | 0 | A command-line tool says what its command line is: `<tool> describe --json` pri… |
+| 2026-11-18 02:48:32 | [gadk-telemetry](https://crates.io/crates/gadk-telemetry) | 0.2.1 | 0 | OpenTelemetry tracing, metrics and logs for gadk, with Google Cloud export |
+| 2026-11-18 02:52:52 | [kombuse-microvm-guest](https://crates.io/crates/kombuse-microvm-guest) | 0.1.0 | 0 | The guest side of microvm: the job and status a run passes to its init (microvm… |
+| 2026-11-18 02:52:58 | [kombuse-microvm-krun-worker](https://crates.io/crates/kombuse-microvm-krun-worker) | 0.1.0 | 0 | The process that runs one libkrun VM: it loads the pinned library, confines its… |
+| 2026-11-18 02:53:09 | [kombuse-microvm](https://crates.io/crates/kombuse-microvm) | 0.1.0 | 0 | One command in a fresh microVM, on Firecracker or libkrun, chosen explicitly be… |
+| 2026-11-18 02:53:18 | [kombuse-room](https://crates.io/crates/kombuse-room) | 0.1.0 | 0 | Environments for persistent microVM workspaces: definitions from devcontainer.j… |
+| 2026-11-18 02:53:53 | [meshdiet-core](https://crates.io/crates/meshdiet-core) | 0.1.0 | 0 | Engine behind meshdiet: reads GLB and glTF files and reports what makes them he… |
+| 2026-11-18 02:54:03 | [meshdiet](https://crates.io/crates/meshdiet) | 0.1.0 | 0 | Find the 3D models that make your website slow: audits GLB and glTF weight. |
+| 2026-11-18 02:55:06 | [meister](https://crates.io/crates/meister) | 0.5.0 | 0 | Qompass SFW game maker MCP: authoring and project state for SFW games, with a l… |
+| 2026-11-18 02:55:19 | [tackle-mcp](https://crates.io/crates/tackle-mcp) | 0.3.0 | 0 | Tackle - live game-editor broker as an MCP stdio server (U1 read core, U2 write… |
+| 2026-11-18 02:56:37 | [lumen-mcp](https://crates.io/crates/lumen-mcp) | 2.0.2 | 0 | Lux in motu - cross-platform, cross-media deterministic conversion engine: 2D a… |
+| 2026-11-18 02:57:15 | [phlow-mcp](https://crates.io/crates/phlow-mcp) | 1.0.1 | 0 | Newline-delimited JSON-RPC (MCP) server for the phlow agent runtime |
+| 2026-11-18 02:57:55 | [skills-mgr](https://crates.io/crates/skills-mgr) | 0.1.0 | 0 | Read the skills-mgr catalog and skill files from Rust without subprocesses |
+| 2026-11-18 02:58:38 | [gadk-vertexai](https://crates.io/crates/gadk-vertexai) | 0.2.1 | 0 | Vertex AI Agent Engine session, memory and Example Store services for gadk |
+| 2026-11-18 02:58:54 | [gradus](https://crates.io/crates/gradus) | 0.0.0 | 0 | A fast, native build tool for the JVM. |
+| 2026-11-18 02:59:03 | [osprey-core](https://crates.io/crates/osprey-core) | 0.1.0 | 0 | Core 64-byte aligned binary formats (.osi, .osv, .osr), FWHT, 1-Bit SuperKMeans… |
+| 2026-11-18 02:59:37 | [osprey-simd](https://crates.io/crates/osprey-simd) | 0.1.0 | 0 | Runtime-dispatched SIMD kernels (AVX-512 VPOPCNTDQ/BW, AVX2, ARM64 NEON, scalar… |
+| 2026-11-18 03:00:18 | [osprey-storage](https://crates.io/crates/osprey-storage) | 0.1.0 | 0 | Zero-copy memmap2 readers, TSP locality ordering, WaRP DP request coalescing, Z… |
+| 2026-11-18 03:00:51 | [osprey-cli](https://crates.io/crates/osprey-cli) | 0.1.0 | 0 | OspreyDB 100% CLI binary for deterministic Parquet/JSONL ingestion, S3Vec vecto… |
+| 2026-11-18 03:02:29 | [clauset](https://crates.io/crates/clauset) | 0.3.0 | 0 | Several Claude Code accounts on one Mac, sharing one ~/.claude |
+| 2026-11-18 03:05:37 | [sealwax-compose](https://crates.io/crates/sealwax-compose) | 0.4.0 | 0 | PDF documents written from laid-out pages: glyphs, paths, pictures and links. |
+| 2026-11-18 03:07:38 | [enigma-mcp](https://crates.io/crates/enigma-mcp) | 1.3.1 | 0 | Enigma MCP: memory server for an Obsidian vault |
+| 2026-11-18 03:08:43 | [gadk-agentregistry](https://crates.io/crates/gadk-agentregistry) | 0.2.1 | 0 | Client for the Google Cloud Agent Registry (A2A agents, MCP servers and models)… |
+| 2026-11-18 03:09:30 | [aws-s3-transfer](https://crates.io/crates/aws-s3-transfer) | 0.0.1 | 0 | Placeholder for Transfer Manager for Amazon S3 |
+| 2026-11-18 03:09:37 | [aws-s3-transfer-ext](https://crates.io/crates/aws-s3-transfer-ext) | 0.0.1 | 0 | Placeholder for extensions to Transfer Manager for Amazon S3 |
+| 2026-11-18 03:18:48 | [gadk-cli](https://crates.io/crates/gadk-cli) | 0.2.1 | 0 | The gadk deploy CLI: deploy gadk agents to Cloud Run and Vertex AI Agent Engine |
 
 ## Data source
 

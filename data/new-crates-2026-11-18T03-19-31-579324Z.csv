@@ -1,0 +1,32 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-18T02:26:03.987173Z,ignit_shader_engine,1.6.0,0,0,https://forgejo.sakul-flee.de/SakulFlee/Ignit,Reusable WGSL nodes for engine rendering in Ignit
+2026-11-18T02:28:22.357705Z,gadk-eval,0.2.1,0,0,https://github.com/sirhco/gadk-rust,"Offline evaluation of gadk agents: eval sets, scorers and an LLM judge"
+2026-11-18T02:36:08.70706Z,ignit_shader_pbr,1.6.0,0,0,https://forgejo.sakul-flee.de/SakulFlee/Ignit,Reusable WGSL PBR nodes for Ignit
+2026-11-18T02:38:27.503366Z,gadk-prompts-firestore,0.2.1,0,0,https://github.com/sirhco/gadk-rust,Firestore store for gadk-prompts
+2026-11-18T02:46:07.348266Z,ignit_importer_gltf,1.6.0,0,0,https://forgejo.sakul-flee.de/SakulFlee/Ignit,Asynchronous glTF 2.0 importer for Ignit
+2026-11-18T02:47:21.949158Z,kombuse-describe,0.1.0,0,0,,"A command-line tool says what its command line is: `<tool> describe --json` prints its commands and arguments as JSON (describe/1), read from its clap definition"
+2026-11-18T02:48:32.578535Z,gadk-telemetry,0.2.1,0,0,https://github.com/sirhco/gadk-rust,"OpenTelemetry tracing, metrics and logs for gadk, with Google Cloud export"
+2026-11-18T02:52:52.717016Z,kombuse-microvm-guest,0.1.0,0,0,,"The guest side of microvm: the job and status a run passes to its init (microvm-guest/1), and the init itself, PID 1 of every microVM"
+2026-11-18T02:52:58.313773Z,kombuse-microvm-krun-worker,0.1.0,0,0,,"The process that runs one libkrun VM: it loads the pinned library, confines itself with Landlock and a syscall filter, and hands itself to libkrun, which never returns"
+2026-11-18T02:53:09.56162Z,kombuse-microvm,0.1.0,0,0,,"One command in a fresh microVM, on Firecracker or libkrun, chosen explicitly behind one interface: pinned artefacts, a tree in and out, the command's streams and status, and nothing kept between runs"
+2026-11-18T02:53:18.754784Z,kombuse-room,0.1.0,0,0,,"Environments for persistent microVM workspaces: definitions from devcontainer.json text, their preparation into images and SSH access, the environment service and a catalog client"
+2026-11-18T02:53:53.709836Z,meshdiet-core,0.1.0,0,0,https://github.com/uniqtechteam/meshdiet,Engine behind meshdiet: reads GLB and glTF files and reports what makes them heavy.
+2026-11-18T02:54:03.574688Z,meshdiet,0.1.0,0,0,https://github.com/uniqtechteam/meshdiet,Find the 3D models that make your website slow: audits GLB and glTF weight.
+2026-11-18T02:55:06.765413Z,meister,0.5.0,0,0,,"Qompass SFW game maker MCP: authoring and project state for SFW games, with a live lane gate."
+2026-11-18T02:55:19.606051Z,tackle-mcp,0.3.0,0,0,,"Tackle - live game-editor broker as an MCP stdio server (U1 read core, U2 write core)"
+2026-11-18T02:56:37.052015Z,lumen-mcp,2.0.2,0,0,,"Lux in motu - cross-platform, cross-media deterministic conversion engine: 2D art, 3D models and engine formats from code-first records"
+2026-11-18T02:57:15.426131Z,phlow-mcp,1.0.1,0,0,https://github.com/qompassai/phlow,Newline-delimited JSON-RPC (MCP) server for the phlow agent runtime
+2026-11-18T02:57:55.054596Z,skills-mgr,0.1.0,0,0,https://github.com/yusing/skills-mgr,Read the skills-mgr catalog and skill files from Rust without subprocesses
+2026-11-18T02:58:38.112397Z,gadk-vertexai,0.2.1,0,0,https://github.com/sirhco/gadk-rust,"Vertex AI Agent Engine session, memory and Example Store services for gadk"
+2026-11-18T02:58:54.264763Z,gradus,0.0.0,0,0,https://github.com/duskine/gradus,"A fast, native build tool for the JVM."
+2026-11-18T02:59:03.042111Z,osprey-core,0.1.0,0,0,https://github.com/ospreydb/ospreydb,"Core 64-byte aligned binary formats (.osi, .osv, .osr), FWHT, 1-Bit SuperKMeans, asymmetric RaBitQ, WaRP DP, and LUT-Rank math primitives for OspreyDB."
+2026-11-18T02:59:37.586843Z,osprey-simd,0.1.0,0,0,https://github.com/ospreydb/ospreydb,"Runtime-dispatched SIMD kernels (AVX-512 VPOPCNTDQ/BW, AVX2, ARM64 NEON, scalar fallback) for OspreyDB RaBitQ, FWHT, f16 dot product, and LUT-Rank MaxSim."
+2026-11-18T03:00:18.166363Z,osprey-storage,0.1.0,0,0,https://github.com/ospreydb/ospreydb,"Zero-copy memmap2 readers, TSP locality ordering, WaRP DP request coalescing, Zstd minipage codecs, and async object_store/S3 storage for OspreyDB."
+2026-11-18T03:00:51.869875Z,osprey-cli,0.1.0,0,0,https://github.com/ospreydb/ospreydb,"OspreyDB 100% CLI binary for deterministic Parquet/JSONL ingestion, S3Vec vector search, CPU LUT-Rank reranking, artifact inspection, and TCO benchmarking."
+2026-11-18T03:02:29.002327Z,clauset,0.3.0,0,0,https://github.com/mischasigtermans/clauset,"Several Claude Code accounts on one Mac, sharing one ~/.claude"
+2026-11-18T03:05:37.463377Z,sealwax-compose,0.4.0,0,0,https://github.com/sealwax/sealwax,"PDF documents written from laid-out pages: glyphs, paths, pictures and links."
+2026-11-18T03:07:38.550687Z,enigma-mcp,1.3.1,0,0,https://github.com/Rayhanson-Git/enigma,Enigma MCP: memory server for an Obsidian vault
+2026-11-18T03:08:43.515689Z,gadk-agentregistry,0.2.1,0,0,https://github.com/sirhco/gadk-rust,"Client for the Google Cloud Agent Registry (A2A agents, MCP servers and models) for gadk"
+2026-11-18T03:09:30.955163Z,aws-s3-transfer,0.0.1,0,0,https://github.com/awslabs/aws-s3-transfer-manager-rs,Placeholder for Transfer Manager for Amazon S3
+2026-11-18T03:09:37.585534Z,aws-s3-transfer-ext,0.0.1,0,0,https://github.com/awslabs/aws-s3-transfer-manager-rs,Placeholder for extensions to Transfer Manager for Amazon S3
+2026-11-18T03:18:48.937783Z,gadk-cli,0.2.1,0,0,https://github.com/sirhco/gadk-rust,The gadk deploy CLI: deploy gadk agents to Cloud Run and Vertex AI Agent Engine
