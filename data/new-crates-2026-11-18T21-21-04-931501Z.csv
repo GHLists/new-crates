@@ -1,0 +1,18 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-18T20:26:45.15161Z,aws-sdk-abusesignal,1.0.0,0,0,https://github.com/awslabs/aws-sdk-rust,AWS SDK for AWS Abuse Signal API
+2026-11-18T20:34:39.720667Z,redraft,0.1.0,0,0,https://github.com/no382001/redraft,"Browse a branch's history and rewrite it: reword any commit or edit its diff, with every later commit replayed on top."
+2026-11-18T20:36:17.310479Z,llrt_net_policy,0.0.1,0,0,,LLRT (Net Policy)
+2026-11-18T20:36:20.022682Z,llrt_temporal,0.0.1,0,0,,LLRT (Temporal)
+2026-11-18T20:48:47.083268Z,zin-spec,0.2.0,0,0,https://github.com/enekos/zin,"English-like specifications, exhaustively model checked, then run as conformance tests inside your test framework"
+2026-11-18T20:49:54.904339Z,biparse,0.1.0,0,0,https://github.com/lithostruct/biparse,Parser combinator framework for dual AST + CST construction and correspondence.
+2026-11-18T20:50:17.873062Z,filecon,0.1.0,0,0,https://github.com/dutobo/filecon,File-type icons for 703 formats in three styles (embedded SVGs) plus a file-type resolver.
+2026-11-18T20:50:58.152587Z,bevy_audionimbus,0.1.0,0,0,https://git.connected-rails.org/Connected-Rails/bevy_audionimbus,"Steam Audio for Bevy through audionimbus: occlusion, transmission, air absorption, HRTF and reflections, played through bevy_audio or kira"
+2026-11-18T20:58:49.825495Z,crimlab,0.0.1,0,0,https://github.com/rootcoder007/crimlab,"Criminology and sociolegal statistics: the crimlab C++ kernels, compiled in, called by name with JSON"
+2026-11-18T21:00:46.32061Z,peer-payments,0.1.0,0,0,https://git.iris.to/#/npub1xdhnr9mrv47kkrn95k6cwecearydeh8e895990n3acntwvmgk2dsdeeycm/cashu-service,"Durable, bounded peer credit shared by paid services without a mint"
+2026-11-18T21:02:28.855814Z,xingo-extprec,0.1.0,0,0,https://github.com/StrategicProjects/xingo-extprec,"Extended precision for numerical linear algebra: double-double arithmetic with proven error bounds, compensated kernels and rigorous interval enclosures of residuals"
+2026-11-18T21:03:29.597444Z,phrack-tui,0.1.0,0,0,https://github.com/krmbzds/phrack-tui,"A terminal reader for the Phrack archive, with vim keys and an amber CRT look"
+2026-11-18T21:03:56.713157Z,compresso,0.1.0,0,0,,Decoders and readers for compressed file formats
+2026-11-18T21:04:16.915115Z,decompresso,0.1.0,0,0,,cli for decompressing files
+2026-11-18T21:09:21.964697Z,can_i_haz_json,0.1.0,0,0,https://github.com/hukasu/can_i_haz_json,"Minimal, no_std, and no dependencies JSON reader"
+2026-11-18T21:13:37.17164Z,volkit,0.1.0,0,0,https://github.com/praveenperera/volkit,"Native GPU runtime for 3D volume networks: CUDA host layer, cuDNN and cuBLAS layers, prebuilt PTX kernels"
+2026-11-18T21:18:40.279519Z,znippy-virtual-index,0.1.0,0,0,https://git.gunnar.rs/nordisk/znippy,"A virtual index over a store of bodies: a log of events keyed (generation, seq), never rewritten, a current view of each repository's newest row, the past up to a generation, a client's index written…"
