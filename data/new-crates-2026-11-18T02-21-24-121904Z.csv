@@ -1,0 +1,39 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-18T01:22:12.481559Z,snodra-messaging-kafka,0.6.0,0,0,https://github.com/snodra/snodra-messaging-rs,"Snodra messaging: the Kafka event store (publish, subscriptions, reset, lag, dead-letter topics, the event browser) and partner Kafka topics"
+2026-11-18T01:22:48.059163Z,snodra-messaging-mongo,0.6.0,0,0,https://github.com/snodra/snodra-messaging-rs,"Snodra messaging: the MongoDB message store (outbox, processed events, dead letters, processor control, external calls, sagas)"
+2026-11-18T01:23:07.910031Z,snodra-messaging-sqlx,0.6.0,0,0,https://github.com/snodra/snodra-messaging-rs,"Snodra messaging: the SQL message store on PostgreSQL and MySQL (outbox, processed events, dead letters, processor control, external calls, sagas), sharing its tables with snodra-messaging-jdbc"
+2026-11-18T01:23:22.4054Z,snodra-messaging-rabbitmq,0.6.0,0,0,https://github.com/snodra/snodra-messaging-rs,"Snodra messaging: the RabbitMQ Streams event store (super stream publish, single active consumer subscriptions, reset, lag, the dead-letter stream, the event browser)"
+2026-11-18T01:23:40.96364Z,pod-lab,0.0.0,0,0,https://github.com/PodUtils/podcrates,"The classes of hostile hosts as profiles: the rows of pod-hostprobe that each part refuses or allows, and the check of a profile against a report"
+2026-11-18T01:26:07.260741Z,ignit_shader_core,1.6.0,0,0,https://forgejo.sakul-flee.de/SakulFlee/Ignit,"Shader descriptors, variables, and pipeline plumbing for Ignit"
+2026-11-18T01:27:02.06185Z,prime-floatlabel,0.1.0,0,0,https://github.com/anton-avramchuk/prime-rs,prime-rs: FloatLabel component (port of PrimeNG)
+2026-11-18T01:27:47.375057Z,gadk-agentanalytics,0.2.1,0,0,https://github.com/sirhco/gadk-rust,BigQuery agent analytics plugin for gadk
+2026-11-18T01:28:13.944737Z,catherine-core,0.3.0,0,0,,"Catherine kernel: .ct.json model document format, parser, canonical form, hash"
+2026-11-18T01:28:40.182134Z,catherine-analysis,0.3.0,0,0,,"Catherine analysis: bounded search, redundancy, underconstraint, distinguish, and the query traversals"
+2026-11-18T01:29:04.14195Z,catherine-ledger,0.3.0,0,0,,"The P6 kata validation ledger: content-addressed entries, validator, project rollup (openspec change add-kata-validation-ledger, beads catherine-9vv)"
+2026-11-18T01:29:48.170771Z,catherine-cli,0.3.0,0,0,,The catherine CLI: check and findings over .ct.json model documents
+2026-11-18T01:34:28.087403Z,pod-manual,0.0.0,0,0,https://github.com/PodUtils/podcrates,"The help and the manual of a command line from one model: plain text, man(7), JSON and llms.txt, and the checks of the text rules"
+2026-11-18T01:36:04.17757Z,ignit_vertex,1.6.0,0,0,https://forgejo.sakul-flee.de/SakulFlee/Ignit,Vertex formats for Ignit
+2026-11-18T01:37:53.022042Z,gadk-mcp,0.2.1,0,0,https://github.com/sirhco/gadk-rust,Model Context Protocol (MCP) server tools as a gadk toolset
+2026-11-18T01:44:46.425461Z,pod-detach,0.0.0,0,0,https://github.com/PodUtils/podcrates,Detached payloads for PodUtils tools (name reserved)
+2026-11-18T01:46:04.432785Z,ignit_material_shader,1.6.0,0,0,https://forgejo.sakul-flee.de/SakulFlee/Ignit,Material shader assembly and pipeline creation for Ignit
+2026-11-18T01:47:36.320031Z,anyword,0.1.0,0,0,https://github.com/daniel-valencia-ts/anyword,Get random words from default lists or custom-made ones
+2026-11-18T01:47:59.28405Z,gadk-prompts,0.2.1,0,0,https://github.com/sirhco/gadk-rust,"Versioned, labelled prompt registry for gadk agents"
+2026-11-18T01:49:44.29094Z,bmd-atem-atom,0.1.0,0,0,https://github.com/MikanseiLaboratory/embassy-bmd-atem,Blackmagic Design ATEM atom (command record) codec shared by the UDP/BURP and USB transports
+2026-11-18T01:49:54.178324Z,embassy-bmd-atem,0.1.0,0,0,https://github.com/MikanseiLaboratory/embassy-bmd-atem,Blackmagic Design ATEM control protocol for embedded Rust: UDP/BURP (edge-nal style) and USB-C 8.6+ host
+2026-11-18T01:50:05.215966Z,embassy-bmd-atem-std,0.1.0,0,0,https://github.com/MikanseiLaboratory/embassy-bmd-atem,Standard-library (Tokio + nusb) host backend and `atem-usb-control` CLI for the Blackmagic Design ATEM USB-C 8.6+ control link
+2026-11-18T01:52:49.938252Z,xml-fragment,0.1.0,0,0,https://github.com/maxpowa/xml-fragment.rs,"Opaque, re-emittable XML subtrees for serde documents parsed with quick-xml"
+2026-11-18T01:55:03.025409Z,pod-time,0.0.0,0,0,https://github.com/PodUtils/podcrates,The time-zone reader and the cron of PodUtils tools
+2026-11-18T01:56:05.104357Z,ignit_mesh,1.6.0,0,0,https://forgejo.sakul-flee.de/SakulFlee/Ignit,Mesh data and GPU mesh resources for Ignit
+2026-11-18T01:58:05.086363Z,gadk-server,0.2.1,0,0,https://github.com/sirhco/gadk-rust,"The gadk REST API server, with inbound authentication"
+2026-11-18T01:59:05.018352Z,web-faith-revocation,1.0.0,0,0,https://github.com/passcod/faith,"OneCRL and CRLite certificate revocation checking for rustls, on top of any verifier"
+2026-11-18T02:00:31.424048Z,wirebin,0.1.0,0,0,,"Minimal dependency-free binary serialization over std::io::Read/Write: big-endian primitives, u32-length-prefixed strings and bytes, and frames"
+2026-11-18T02:01:39.11815Z,stoffel-wasm-client,0.1.0-alpha.1,0,0,https://github.com/Stoffel-Labs/stoffel,Browser-side private client I/O for the Stoffel coordinator
+2026-11-18T02:03:24.821264Z,znippy-sign,0.1.0,0,0,https://git.gunnar.rs/nordisk/znippy,"Detached CMS provenance signatures for znippy archives: per-artifact and per-archive signatures over the chunk hashes, M-of-N signature sets, DSSE envelopes. Pure Rust (RustCrypto)."
+2026-11-18T02:03:38.281861Z,znippy-feed,0.1.0,0,0,https://git.gunnar.rs/nordisk/znippy,"Keyed feed archives for znippy: rows sorted by key in small frames, the archive's sorted lookup as the key index, a secondary index, base and delta generations; and the feed archive handler (advisory…"
+2026-11-18T02:05:18.130919Z,pod-udf,0.0.0,0,0,https://github.com/PodUtils/podcrates,"A reader of UDF (ECMA-167, UDF 1.02 to 2.60) that finds a file in an image and gives its byte ranges, with no I/O of its own"
+2026-11-18T02:06:06.927267Z,ignit_model,1.6.0,0,0,https://forgejo.sakul-flee.de/SakulFlee/Ignit,Model descriptors and GPU model resources for Ignit
+2026-11-18T02:08:10.142789Z,gadk-tools,0.2.1,0,0,https://github.com/sirhco/gadk-rust,"Built-in gadk tools and plugins: Gemini tools, artifacts, memory, examples, tool search and skills"
+2026-11-18T02:15:32.119598Z,pod-qga,0.0.0,0,0,https://github.com/PodUtils/podcrates,"A blocking client of the QEMU Guest Agent over a Unix socket: sync, ping, exec, file calls and shutdown, each with a bound and a typed error"
+2026-11-18T02:16:02.975542Z,ignit_shader_math,1.6.0,0,0,https://forgejo.sakul-flee.de/SakulFlee/Ignit,Reusable WGSL math nodes for Ignit
+2026-11-18T02:18:16.964105Z,gadk-a2a,0.2.1,0,0,https://github.com/sirhco/gadk-rust,Agent2Agent (A2A) protocol support for gadk: serve agents over A2A and call remote A2A agents
+2026-11-18T02:18:45.513312Z,llm-resilience,0.1.0,0,0,https://github.com/Mattbusel/tokio-prompt-orchestrator,"Single-flight request deduplication and an async circuit breaker for LLM and HTTP clients, with a tower layer and a reqwest middleware. The core needs only tokio, parking_lot and tracing."
