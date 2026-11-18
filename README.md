@@ -8,77 +8,58 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-18 00:19 UTC
+## Latest list — 2026-11-18 01:19 UTC
 
-New crates published between 2026-11-17 23:19 UTC and 2026-11-18 00:19 UTC.
+New crates published between 2026-11-18 00:19 UTC and 2026-11-18 01:19 UTC.
 
-[Full CSV](data/new-crates-2026-11-18T00-19-03-609475Z.csv)
+[Full CSV](data/new-crates-2026-11-18T01-19-06-858555Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-17 23:20:20 | [plakous-image](https://crates.io/crates/plakous-image) | 0.0.4 | 0 | Pure image sniffing and normalization into attachment and tool-result bounds |
-| 2026-11-17 23:20:25 | [plakous-runner-protocol](https://crates.io/crates/plakous-runner-protocol) | 0.0.4 | 0 | Runner protocol frames, handshake, request classes and operations between a Pla… |
-| 2026-11-17 23:20:28 | [plakd-wire-types](https://crates.io/crates/plakd-wire-types) | 0.0.4 | 0 | Product wire DTOs for Plak hosts and clients |
-| 2026-11-17 23:20:28 | [acrylmicrovm-cli](https://crates.io/crates/acrylmicrovm-cli) | 0.13.1 | 0 | Command-line interface for AcrylMicrovm container runtime |
-| 2026-11-17 23:20:45 | [plakous-runner-dial](https://crates.io/crates/plakous-runner-dial) | 0.0.4 | 0 | Portable Noise IK and pairing core for runner dial-in |
-| 2026-11-17 23:21:09 | [plakous-runner](https://crates.io/crates/plakous-runner) | 0.0.4 | 0 | The host and runner ends of the Plakous runner protocol over an execution envir… |
-| 2026-11-17 23:24:53 | [prime-inputnumber](https://crates.io/crates/prime-inputnumber) | 0.1.0 | 0 | prime-rs: InputNumber component (PrimeNG port) |
-| 2026-11-17 23:25:44 | [loop-manager-codex](https://crates.io/crates/loop-manager-codex) | 0.0.1 | 0 | The codex adapter of loop-manager: codex app-server over stdio |
-| 2026-11-17 23:26:17 | [novafile-patch](https://crates.io/crates/novafile-patch) | 0.1.0 | 0 | NOVA queries, projections and validated atomic patches |
-| 2026-11-17 23:26:57 | [plakd](https://crates.io/crates/plakd) | 0.0.4 | 0 | plakd host server, product library, and operator command-line interface |
-| 2026-11-17 23:33:48 | [subsumes](https://crates.io/crates/subsumes) | 0.1.0 | 0 | JSON Schema inclusion: does one schema accept every instance that is valid unde… |
-| 2026-11-17 23:35:05 | [loop-manager](https://crates.io/crates/loop-manager) | 0.0.1 | 0 | An event-driven orchestrator for coding agents and the loops they work in |
-| 2026-11-17 23:35:17 | [prime-select](https://crates.io/crates/prime-select) | 0.1.0 | 0 | prime-rs: Select component (PrimeNG port) |
-| 2026-11-17 23:36:40 | [gadk-platform](https://crates.io/crates/gadk-platform) | 0.2.1 | 0 | Time, UUID, task and environment seams and shared helpers for gadk |
-| 2026-11-17 23:36:42 | [gadk-genai](https://crates.io/crates/gadk-genai) | 0.2.1 | 0 | Gemini-compatible content and generation config types for gadk |
-| 2026-11-17 23:36:44 | [gadk-artifact](https://crates.io/crates/gadk-artifact) | 0.2.1 | 0 | Artifact storage service for gadk agents, with an in-memory implementation |
-| 2026-11-17 23:36:47 | [gadk-model](https://crates.io/crates/gadk-model) | 0.2.1 | 0 | The gadk LLM abstraction: the Llm trait, model registry, HTTP seam and REST tra… |
-| 2026-11-17 23:36:50 | [extenddb-backup-store](https://crates.io/crates/extenddb-backup-store) | 0.1.15 | 0 | Backup object store of the ExtendDB server, with filesystem and S3 implementati… |
-| 2026-11-17 23:36:50 | [gadk-artifact-gcs](https://crates.io/crates/gadk-artifact-gcs) | 0.2.1 | 0 | Google Cloud Storage artifact service for gadk |
-| 2026-11-17 23:36:50 | [novafile-proto](https://crates.io/crates/novafile-proto) | 0.1.0 | 0 | Schema-driven Protocol Buffers (proto3) adapter for NOVA values |
-| 2026-11-17 23:36:52 | [extenddb-cache](https://crates.io/crates/extenddb-cache) | 0.1.15 | 0 | In-memory stale-while-revalidate cache used by the ExtendDB auth and server lay… |
-| 2026-11-17 23:36:54 | [extenddb-core](https://crates.io/crates/extenddb-core) | 0.1.15 | 0 | Core types, validation, errors and limits of the ExtendDB server. Internal crat… |
-| 2026-11-17 23:36:57 | [extenddb-auth](https://crates.io/crates/extenddb-auth) | 0.1.15 | 0 | SigV4 authentication and IAM-compatible authorization of the ExtendDB server. I… |
-| 2026-11-17 23:37:00 | [extenddb-storage](https://crates.io/crates/extenddb-storage) | 0.1.15 | 0 | Storage traits that every ExtendDB backend implements, with the catalog migrati… |
-| 2026-11-17 23:38:12 | [rapidea](https://crates.io/crates/rapidea) | 0.0.1 | 0 | Rapidea, a config-driven backend platform: one YAML file becomes a Postgres sch… |
-| 2026-11-17 23:38:15 | [rapidea-cli](https://crates.io/crates/rapidea-cli) | 0.0.1 | 0 | The command-line client of Rapidea, a config-driven backend platform. This vers… |
-| 2026-11-17 23:41:01 | [ignit_2d](https://crates.io/crates/ignit_2d) | 1.6.0 | 0 | 2D camera, shapes, batching, and rendering for Ignit |
-| 2026-11-17 23:41:10 | [ignit_math](https://crates.io/crates/ignit_math) | 1.6.0 | 0 | Transforms, projections, and math types for Ignit |
-| 2026-11-17 23:45:43 | [prime-paginator](https://crates.io/crates/prime-paginator) | 0.1.0 | 0 | prime-rs: Paginator component (PrimeNG port) |
-| 2026-11-17 23:46:05 | [ignit_camera](https://crates.io/crates/ignit_camera) | 1.6.0 | 0 | Camera descriptors and projection helpers for Ignit |
-| 2026-11-17 23:46:24 | [novafile-schemars](https://crates.io/crates/novafile-schemars) | 0.1.0 | 0 | JSON Schema and schemars integration for NOVA schemas |
-| 2026-11-17 23:46:27 | [rpi-optchat](https://crates.io/crates/rpi-optchat) | 0.1.0 | 0 | OptChat's persistent chat memory for the rpi Rust agent: a session-scoped messa… |
-| 2026-11-17 23:46:54 | [gadk-httprr](https://crates.io/crates/gadk-httprr) | 0.2.1 | 0 | HTTP record/replay for deterministic gadk tests |
-| 2026-11-17 23:46:56 | [extenddb-config](https://crates.io/crates/extenddb-config) | 0.1.15 | 0 | Configuration types and loading of the ExtendDB server. Internal crate of the e… |
-| 2026-11-17 23:50:42 | [aurora_iconify_catalog](https://crates.io/crates/aurora_iconify_catalog) | 0.4.0 | 0 | Icon name lists for aurora_iconify. Internal data crate: depend on aurora_iconi… |
-| 2026-11-17 23:51:14 | [aurora_iconify_macros](https://crates.io/crates/aurora_iconify_macros) | 0.4.0 | 0 | The icon_sets! macro of aurora_iconify. Depend on aurora_iconify, which re-expo… |
-| 2026-11-17 23:55:47 | [prime-dataview](https://crates.io/crates/prime-dataview) | 0.1.0 | 0 | prime-rs: DataView component (PrimeNG port) |
-| 2026-11-17 23:55:52 | [novafile-template](https://crates.io/crates/novafile-template) | 0.1.0 | 0 | NOVA template rendering: typed parameters, reuse, conditionals and loops over v… |
-| 2026-11-17 23:56:04 | [ignit_file_manager](https://crates.io/crates/ignit_file_manager) | 1.6.0 | 0 | Cross-platform asset and storage I/O for Ignit |
-| 2026-11-17 23:56:56 | [extenddb-engine](https://crates.io/crates/extenddb-engine) | 0.1.15 | 0 | Operation dispatch, input validation and DynamoDB error mapping of the ExtendDB… |
-| 2026-11-17 23:56:58 | [gadk-openai](https://crates.io/crates/gadk-openai) | 0.2.1 | 0 | OpenAI models for gadk on the Responses and Chat Completions APIs |
-| 2026-11-17 23:58:50 | [caller-core](https://crates.io/crates/caller-core) | 0.2.0 | 0 | Pure domain types and call-timing math for contra dance calling: dance cards, r… |
-| 2026-11-17 23:59:00 | [caller-sources](https://crates.io/crates/caller-sources) | 0.2.0 | 0 | Fetch and parse contra dance and ABC tune sources behind provider traits, with… |
-| 2026-11-17 23:59:55 | [rangular-host](https://crates.io/crates/rangular-host) | 1.1.0 | 0 | Host binding API shared by rangular AOT and runtime |
-| 2026-11-17 23:59:57 | [rangular-expr](https://crates.io/crates/rangular-expr) | 1.1.0 | 0 | Expression AST and evaluation for rangular templates |
-| 2026-11-18 00:00:00 | [rangular-parser](https://crates.io/crates/rangular-parser) | 1.1.0 | 0 | Angular-subset HTML template parser for rangular |
-| 2026-11-18 00:00:03 | [rangular-css](https://crates.io/crates/rangular-css) | 1.1.0 | 0 | Component SCSS, :host, and emulated encapsulation for rangular |
-| 2026-11-18 00:00:05 | [rangular-macros](https://crates.io/crates/rangular-macros) | 1.1.0 | 0 | Proc macros for rangular component templates |
-| 2026-11-18 00:00:36 | [actix-crud-admin](https://crates.io/crates/actix-crud-admin) | 0.2.0 | 0 | Auto-generated CRUD admin for Actix-web 4, with pluggable auth |
-| 2026-11-18 00:05:53 | [prime-datepicker](https://crates.io/crates/prime-datepicker) | 0.1.0 | 0 | prime-rs: DatePicker component (PrimeNG port) |
-| 2026-11-18 00:06:05 | [ignit_core](https://crates.io/crates/ignit_core) | 1.6.0 | 0 | Core caches, logging, math, and GPU helpers for Ignit |
-| 2026-11-18 00:06:35 | [novafile](https://crates.io/crates/novafile) | 0.1.0 | 0 | NOVA, the Notation for Objects, Values & Agents: one semantic model, several re… |
-| 2026-11-18 00:06:56 | [bellhound](https://crates.io/crates/bellhound) | 0.6.6 | 0 | A line-oriented telephone bridge for interactive AI agents |
-| 2026-11-18 00:06:57 | [extenddb-server](https://crates.io/crates/extenddb-server) | 0.1.15 | 0 | HTTP layer of the ExtendDB server, which serves the DynamoDB wire protocol. Int… |
-| 2026-11-18 00:07:02 | [gadk-session](https://crates.io/crates/gadk-session) | 0.2.1 | 0 | Sessions, events and the in-memory session service for gadk |
-| 2026-11-18 00:11:43 | [zamok4agent](https://crates.io/crates/zamok4agent) | 0.1.0 | 0 | Lock cell: store secrets and deliver their use. Does not read profiles or grant… |
-| 2026-11-18 00:13:19 | [ez4a-types](https://crates.io/crates/ez4a-types) | 0.1.0 | 0 | Durable Pi storage records for engine zero for agents |
-| 2026-11-18 00:13:48 | [ez4a-store](https://crates.io/crates/ez4a-store) | 0.1.1 | 0 | Memory and SQLite durable storage for engine zero for agents |
-| 2026-11-18 00:15:56 | [prime-divider](https://crates.io/crates/prime-divider) | 0.1.0 | 0 | prime-rs: Divider component (PrimeNG port) |
-| 2026-11-18 00:16:06 | [ignit_cull](https://crates.io/crates/ignit_cull) | 1.6.0 | 0 | CPU frustum culling for Ignit |
-| 2026-11-18 00:16:53 | [novafile-cli](https://crates.io/crates/novafile-cli) | 0.1.0 | 0 | The `nvf` command-line tool: format, convert, validate, query and patch NOVA do… |
-| 2026-11-18 00:16:55 | [extenddb-app](https://crates.io/crates/extenddb-app) | 0.1.15 | 0 | Command-line interface of the ExtendDB server, shared by every backend build. I… |
-| 2026-11-18 00:17:07 | [gadk-anthropic](https://crates.io/crates/gadk-anthropic) | 0.2.1 | 0 | Claude models for gadk on the Anthropic Messages API and Vertex AI |
+| 2026-11-18 00:22:48 | [plusthree-inspect](https://crates.io/crates/plusthree-inspect) | 0.1.3 | 0 | Watch plusthree machines live in the Stately Inspector |
+| 2026-11-18 00:24:04 | [agg-gui-web-shell](https://crates.io/crates/agg-gui-web-shell) | 0.6.1 | 0 | Turn-key browser shell for agg-gui — canvas + WebGPU/WebGL2 surface, requestAni… |
+| 2026-11-18 00:25:45 | [rangular-aot](https://crates.io/crates/rangular-aot) | 1.1.0 | 0 | Compile-time lowering of rangular templates to Leptos |
+| 2026-11-18 00:25:47 | [rangular-runtime](https://crates.io/crates/rangular-runtime) | 1.1.0 | 0 | Runtime interpreter for rangular templates |
+| 2026-11-18 00:26:13 | [ignit_ecs](https://crates.io/crates/ignit_ecs) | 1.6.0 | 0 | Entity-component-system world, queries, systems, and schedules for Ignit |
+| 2026-11-18 00:26:19 | [prime-dock](https://crates.io/crates/prime-dock) | 0.1.0 | 0 | prime-rs: Dock component (port of PrimeNG) |
+| 2026-11-18 00:26:55 | [extenddb-storage-cassandra](https://crates.io/crates/extenddb-storage-cassandra) | 0.1.15 | 0 | Apache Cassandra storage backend of the ExtendDB server (experimental). Interna… |
+| 2026-11-18 00:27:12 | [gadk-gemini](https://crates.io/crates/gadk-gemini) | 0.2.1 | 0 | Gemini API and Vertex AI models for gadk |
+| 2026-11-18 00:29:15 | [sk-audio](https://crates.io/crates/sk-audio) | 0.0.0 | 0 | Multichannel and spatial audio output for Skathi (reserved; first release with… |
+| 2026-11-18 00:32:10 | [hdoc-encoder](https://crates.io/crates/hdoc-encoder) | 0.1.0 | 0 | Create HyperDoc (HDOC) files from page display lists and binary assets |
+| 2026-11-18 00:32:19 | [hdoc-decoder](https://crates.io/crates/hdoc-decoder) | 0.1.0 | 0 | Read HyperDoc (HDOC) files with indexed page access and text search |
+| 2026-11-18 00:34:24 | [novafile-lsp](https://crates.io/crates/novafile-lsp) | 0.1.1 | 0 | Language server for NOVA documents, schemas, patches and templates |
+| 2026-11-18 00:36:14 | [ignit_texture](https://crates.io/crates/ignit_texture) | 1.6.0 | 0 | Texture descriptors and GPU texture resources for Ignit |
+| 2026-11-18 00:36:24 | [prime-drawer](https://crates.io/crates/prime-drawer) | 0.1.0 | 0 | prime-rs: Drawer component (PrimeNG port) |
+| 2026-11-18 00:36:56 | [extenddb-storage-mongodb](https://crates.io/crates/extenddb-storage-mongodb) | 0.1.15 | 0 | MongoDB storage backend of the ExtendDB server. Internal crate of the extenddb… |
+| 2026-11-18 00:37:17 | [gadk-memory](https://crates.io/crates/gadk-memory) | 0.2.1 | 0 | Long-term memory service for gadk agents, with an in-memory implementation |
+| 2026-11-18 00:37:57 | [waft-material-color-utilities](https://crates.io/crates/waft-material-color-utilities) | 0.6.0 | 0 | Material Design's colour algorithms (HCT, dynamic colour, schemes), ported from… |
+| 2026-11-18 00:38:00 | [waft-embedder-apple](https://crates.io/crates/waft-embedder-apple) | 0.6.0 | 0 | What Waft's hosts on macOS and iOS share |
+| 2026-11-18 00:38:04 | [waft-embedder-ios](https://crates.io/crates/waft-embedder-ios) | 0.6.0 | 0 | iOS host for Waft |
+| 2026-11-18 00:38:23 | [waft-material](https://crates.io/crates/waft-material) | 0.6.0 | 0 | Material Design widgets for Waft |
+| 2026-11-18 00:39:22 | [springrep](https://crates.io/crates/springrep) | 0.1.0 | 0 | An exact boundary-representation geometry kernel, in safe Rust |
+| 2026-11-18 00:41:37 | [rangular-build](https://crates.io/crates/rangular-build) | 1.1.0 | 0 | Build support for compiling rangular HTML templates and SCSS in Cargo build scr… |
+| 2026-11-18 00:41:40 | [rangular](https://crates.io/crates/rangular) | 1.1.0 | 0 | Angular-shaped HTML/SCSS templates for Leptos: CSR, SSR, and hydration |
+| 2026-11-18 00:43:25 | [boatramp-guestlog](https://crates.io/crates/boatramp-guestlog) | 0.63.0 | 0 | The shared guest-log sink for boatramp compute backends: drain a launched conta… |
+| 2026-11-18 00:44:14 | [nordisk-boringtun](https://crates.io/crates/nordisk-boringtun) | 0.7.2 | 0 | Cloudflare's BoringTun 0.7.1 (WireGuard®) with ring replaced by RustCrypto: pur… |
+| 2026-11-18 00:46:11 | [ignit_ibl_brdf](https://crates.io/crates/ignit_ibl_brdf) | 1.6.0 | 0 | BRDF lookup-table generation for image-based lighting in Ignit |
+| 2026-11-18 00:46:27 | [prime-fieldset](https://crates.io/crates/prime-fieldset) | 0.1.0 | 0 | prime-rs: Fieldset component (port of PrimeNG) |
+| 2026-11-18 00:46:55 | [extenddb-storage-postgres](https://crates.io/crates/extenddb-storage-postgres) | 0.1.15 | 0 | PostgreSQL storage backend of the ExtendDB server. Internal crate of the extend… |
+| 2026-11-18 00:47:22 | [gadk-session-database](https://crates.io/crates/gadk-session-database) | 0.2.1 | 0 | SQL database session service for gadk (SQLite and PostgreSQL) |
+| 2026-11-18 00:56:04 | [ignit_light](https://crates.io/crates/ignit_light) | 1.6.0 | 0 | Light descriptors and GPU light data for Ignit |
+| 2026-11-18 00:56:31 | [prime-message](https://crates.io/crates/prime-message) | 0.1.0 | 0 | prime-rs: Message component (PrimeNG port) |
+| 2026-11-18 00:56:57 | [extenddb-storage-sqlite](https://crates.io/crates/extenddb-storage-sqlite) | 0.1.15 | 0 | SQLite storage backend of the ExtendDB server. Internal crate of the extenddb b… |
+| 2026-11-18 00:57:27 | [gadk-agent](https://crates.io/crates/gadk-agent) | 0.2.1 | 0 | The gadk agent API: agents, contexts, tools, callbacks and plugins |
+| 2026-11-18 00:59:49 | [dspk-device](https://crates.io/crates/dspk-device) | 0.0.12 | 0 | A dspk device: live sources, a causal chain, taps, recording, one director and… |
+| 2026-11-18 01:00:05 | [brep-protocol](https://crates.io/crates/brep-protocol) | 0.1.1 | 0 | The B-rep operations a conformance suite calls: their data types, the kernel tr… |
+| 2026-11-18 01:06:02 | [ignit_instance](https://crates.io/crates/ignit_instance) | 1.6.0 | 0 | GPU instance data for Ignit |
+| 2026-11-18 01:06:13 | [bzip2-turbo-rs](https://crates.io/crates/bzip2-turbo-rs) | 0.1.0 | 0 | A fast bzip2 codec in safe Rust |
+| 2026-11-18 01:06:34 | [prime-progressbar](https://crates.io/crates/prime-progressbar) | 0.1.0 | 0 | prime-rs: ProgressBar component (PrimeNG port) |
+| 2026-11-18 01:06:57 | [extenddb](https://crates.io/crates/extenddb) | 0.1.15 | 0 | A DynamoDB-compatible API server that stores data in PostgreSQL, MongoDB, Cassa… |
+| 2026-11-18 01:07:33 | [gadk-auth](https://crates.io/crates/gadk-auth) | 0.2.1 | 0 | Credentials, credential store and refresh-and-retry transport for gadk tools |
+| 2026-11-18 01:08:03 | [snodra-messaging-rs](https://crates.io/crates/snodra-messaging-rs) | 0.6.0 | 0 | Snodra messaging client for Rust: hub client (commands, queries), events throug… |
+| 2026-11-18 01:16:04 | [ignit_shader_preprocessor](https://crates.io/crates/ignit_shader_preprocessor) | 1.6.0 | 0 | Named WGSL shader-node registry and builder for Ignit |
+| 2026-11-18 01:16:59 | [prime-fileupload](https://crates.io/crates/prime-fileupload) | 0.1.0 | 0 | prime-rs: FileUpload component (PrimeNG port) |
+| 2026-11-18 01:17:39 | [gadk-engine](https://crates.io/crates/gadk-engine) | 0.2.1 | 0 | The gadk runtime: LLM agent and flow, workflow agents and graphs, and the runner |
 
 ## Data source
 

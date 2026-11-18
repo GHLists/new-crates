@@ -1,0 +1,45 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-18T00:22:48.130382Z,plusthree-inspect,0.1.3,0,0,https://tangled.org/did:plc:x6uodia46cnmzpy6ruvrrzgm,Watch plusthree machines live in the Stately Inspector
+2026-11-18T00:24:04.804653Z,agg-gui-web-shell,0.6.1,0,0,https://github.com/larsbrubaker/agg-gui,"Turn-key browser shell for agg-gui — canvas + WebGPU/WebGL2 surface, requestAnimationFrame loop, DOM input forwarding, page lifecycle, and localStorage settings"
+2026-11-18T00:25:45.352726Z,rangular-aot,1.1.0,0,0,https://github.com/Interchouette-ITC/rangular,Compile-time lowering of rangular templates to Leptos
+2026-11-18T00:25:47.724054Z,rangular-runtime,1.1.0,0,0,https://github.com/Interchouette-ITC/rangular,Runtime interpreter for rangular templates
+2026-11-18T00:26:13.030825Z,ignit_ecs,1.6.0,0,0,https://forgejo.sakul-flee.de/SakulFlee/Ignit,"Entity-component-system world, queries, systems, and schedules for Ignit"
+2026-11-18T00:26:19.466033Z,prime-dock,0.1.0,0,0,https://github.com/anton-avramchuk/prime-rs,prime-rs: Dock component (port of PrimeNG)
+2026-11-18T00:26:55.962026Z,extenddb-storage-cassandra,0.1.15,0,0,https://github.com/ExtendDB/extenddb,"Apache Cassandra storage backend of the ExtendDB server (experimental). Internal crate of the extenddb binary, with no API stability promise."
+2026-11-18T00:27:12.344183Z,gadk-gemini,0.2.1,0,0,https://github.com/sirhco/gadk-rust,Gemini API and Vertex AI models for gadk
+2026-11-18T00:29:15.021314Z,sk-audio,0.0.0,0,0,https://github.com/argon-chat/skathi,Multichannel and spatial audio output for Skathi (reserved; first release with skathi 0.4)
+2026-11-18T00:32:10.754399Z,hdoc-encoder,0.1.0,0,0,https://github.com/younsabood/hdoc-encoder,Create HyperDoc (HDOC) files from page display lists and binary assets
+2026-11-18T00:32:19.532493Z,hdoc-decoder,0.1.0,0,0,https://github.com/younsabood/hdoc-decoder,Read HyperDoc (HDOC) files with indexed page access and text search
+2026-11-18T00:34:24.85221Z,novafile-lsp,0.1.1,0,0,https://github.com/novafile/nova,"Language server for NOVA documents, schemas, patches and templates"
+2026-11-18T00:36:14.382319Z,ignit_texture,1.6.0,0,0,https://forgejo.sakul-flee.de/SakulFlee/Ignit,Texture descriptors and GPU texture resources for Ignit
+2026-11-18T00:36:24.011963Z,prime-drawer,0.1.0,0,0,https://github.com/anton-avramchuk/prime-rs,prime-rs: Drawer component (PrimeNG port)
+2026-11-18T00:36:56.657238Z,extenddb-storage-mongodb,0.1.15,0,0,https://github.com/ExtendDB/extenddb,"MongoDB storage backend of the ExtendDB server. Internal crate of the extenddb binary, with no API stability promise."
+2026-11-18T00:37:17.457514Z,gadk-memory,0.2.1,0,0,https://github.com/sirhco/gadk-rust,"Long-term memory service for gadk agents, with an in-memory implementation"
+2026-11-18T00:37:57.701132Z,waft-material-color-utilities,0.6.0,0,0,https://github.com/waos-dev/waft,"Material Design's colour algorithms (HCT, dynamic colour, schemes), ported from Dart's material_color_utilities"
+2026-11-18T00:38:00.726855Z,waft-embedder-apple,0.6.0,0,0,https://github.com/waos-dev/waft,What Waft's hosts on macOS and iOS share
+2026-11-18T00:38:04.1896Z,waft-embedder-ios,0.6.0,0,0,https://github.com/waos-dev/waft,iOS host for Waft
+2026-11-18T00:38:23.643247Z,waft-material,0.6.0,0,0,https://github.com/waos-dev/waft,Material Design widgets for Waft
+2026-11-18T00:39:22.510566Z,springrep,0.1.0,0,0,https://github.com/springcraft-ai/springrep,"An exact boundary-representation geometry kernel, in safe Rust"
+2026-11-18T00:41:37.721824Z,rangular-build,1.1.0,0,0,https://github.com/Interchouette-ITC/rangular,Build support for compiling rangular HTML templates and SCSS in Cargo build scripts
+2026-11-18T00:41:40.808561Z,rangular,1.1.0,0,0,https://github.com/Interchouette-ITC/rangular,"Angular-shaped HTML/SCSS templates for Leptos: CSR, SSR, and hydration"
+2026-11-18T00:43:25.096558Z,boatramp-guestlog,0.63.0,0,0,https://github.com/BoatRamp/BoatRamp,"The shared guest-log sink for boatramp compute backends: drain a launched container's stdout/stderr line-by-line, mirror each line to tracing, and append to a bounded per-container log file. One sink…"
+2026-11-18T00:44:14.761335Z,nordisk-boringtun,0.7.2,0,0,https://git.gunnar.rs/nordisk/boringtun,"Cloudflare's BoringTun 0.7.1 (WireGuard®) with ring replaced by RustCrypto: pure Rust, the same API, the same bytes on the wire"
+2026-11-18T00:46:11.003519Z,ignit_ibl_brdf,1.6.0,0,0,https://forgejo.sakul-flee.de/SakulFlee/Ignit,BRDF lookup-table generation for image-based lighting in Ignit
+2026-11-18T00:46:27.677933Z,prime-fieldset,0.1.0,0,0,https://github.com/anton-avramchuk/prime-rs,prime-rs: Fieldset component (port of PrimeNG)
+2026-11-18T00:46:55.880131Z,extenddb-storage-postgres,0.1.15,0,0,https://github.com/ExtendDB/extenddb,"PostgreSQL storage backend of the ExtendDB server. Internal crate of the extenddb binary, with no API stability promise."
+2026-11-18T00:47:22.423994Z,gadk-session-database,0.2.1,0,0,https://github.com/sirhco/gadk-rust,SQL database session service for gadk (SQLite and PostgreSQL)
+2026-11-18T00:56:04.784621Z,ignit_light,1.6.0,0,0,https://forgejo.sakul-flee.de/SakulFlee/Ignit,Light descriptors and GPU light data for Ignit
+2026-11-18T00:56:31.202042Z,prime-message,0.1.0,0,0,https://github.com/anton-avramchuk/prime-rs,prime-rs: Message component (PrimeNG port)
+2026-11-18T00:56:57.100444Z,extenddb-storage-sqlite,0.1.15,0,0,https://github.com/ExtendDB/extenddb,"SQLite storage backend of the ExtendDB server. Internal crate of the extenddb binary, with no API stability promise."
+2026-11-18T00:57:27.621446Z,gadk-agent,0.2.1,0,0,https://github.com/sirhco/gadk-rust,"The gadk agent API: agents, contexts, tools, callbacks and plugins"
+2026-11-18T00:59:49.156831Z,dspk-device,0.0.12,0,0,https://github.com/neuro-kitchen/dsp-kitchen,"A dspk device: live sources, a causal chain, taps, recording, one director and many viewers"
+2026-11-18T01:00:05.555838Z,brep-protocol,0.1.1,0,0,https://github.com/springcraft-ai/brep-conformance,"The B-rep operations a conformance suite calls: their data types, the kernel trait, and its JSON-lines binding"
+2026-11-18T01:06:02.784257Z,ignit_instance,1.6.0,0,0,https://forgejo.sakul-flee.de/SakulFlee/Ignit,GPU instance data for Ignit
+2026-11-18T01:06:13.532918Z,bzip2-turbo-rs,0.1.0,0,0,,A fast bzip2 codec in safe Rust
+2026-11-18T01:06:34.039706Z,prime-progressbar,0.1.0,0,0,https://github.com/anton-avramchuk/prime-rs,prime-rs: ProgressBar component (PrimeNG port)
+2026-11-18T01:06:57.008875Z,extenddb,0.1.15,0,0,https://github.com/ExtendDB/extenddb,"A DynamoDB-compatible API server that stores data in PostgreSQL, MongoDB, Cassandra or SQLite."
+2026-11-18T01:07:33.084941Z,gadk-auth,0.2.1,0,0,https://github.com/sirhco/gadk-rust,"Credentials, credential store and refresh-and-retry transport for gadk tools"
+2026-11-18T01:08:03.111268Z,snodra-messaging-rs,0.6.0,0,0,https://github.com/snodra/snodra-messaging-rs,"Snodra messaging client for Rust: hub client (commands, queries), events through an event-store add-on with the message store's outbox, identity"
+2026-11-18T01:16:04.433748Z,ignit_shader_preprocessor,1.6.0,0,0,https://forgejo.sakul-flee.de/SakulFlee/Ignit,Named WGSL shader-node registry and builder for Ignit
+2026-11-18T01:16:59.145542Z,prime-fileupload,0.1.0,0,0,https://github.com/anton-avramchuk/prime-rs,prime-rs: FileUpload component (PrimeNG port)
+2026-11-18T01:17:39.941574Z,gadk-engine,0.2.1,0,0,https://github.com/sirhco/gadk-rust,"The gadk runtime: LLM agent and flow, workflow agents and graphs, and the runner"
