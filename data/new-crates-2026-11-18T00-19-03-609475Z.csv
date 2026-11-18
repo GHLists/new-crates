@@ -1,0 +1,64 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-17T23:20:20.428394Z,plakous-image,0.0.4,0,0,https://github.com/N0xMare/plak,Pure image sniffing and normalization into attachment and tool-result bounds
+2026-11-17T23:20:25.387818Z,plakous-runner-protocol,0.0.4,0,0,https://github.com/N0xMare/plak,"Runner protocol frames, handshake, request classes and operations between a Plakous host and a runner"
+2026-11-17T23:20:28.126036Z,plakd-wire-types,0.0.4,0,0,https://github.com/N0xMare/plak,Product wire DTOs for Plak hosts and clients
+2026-11-17T23:20:28.932497Z,acrylmicrovm-cli,0.13.1,0,0,https://github.com/acryldev/acrylmicrovm,Command-line interface for AcrylMicrovm container runtime
+2026-11-17T23:20:45.618329Z,plakous-runner-dial,0.0.4,0,0,https://github.com/N0xMare/plak,Portable Noise IK and pairing core for runner dial-in
+2026-11-17T23:21:09.972674Z,plakous-runner,0.0.4,0,0,https://github.com/N0xMare/plak,"The host and runner ends of the Plakous runner protocol over an execution environment, with an in-process loopback"
+2026-11-17T23:24:53.403807Z,prime-inputnumber,0.1.0,0,0,https://github.com/anton-avramchuk/prime-rs,prime-rs: InputNumber component (PrimeNG port)
+2026-11-17T23:25:44.107781Z,loop-manager-codex,0.0.1,0,0,https://github.com/kvokka/loop-manager,The codex adapter of loop-manager: codex app-server over stdio
+2026-11-17T23:26:17.776282Z,novafile-patch,0.1.0,0,0,https://github.com/novafile/nova,"NOVA queries, projections and validated atomic patches"
+2026-11-17T23:26:57.658765Z,plakd,0.0.4,0,0,https://github.com/N0xMare/plak,"plakd host server, product library, and operator command-line interface"
+2026-11-17T23:33:48.788556Z,subsumes,0.1.0,0,0,https://github.com/georg-wolflein/subsumes,JSON Schema inclusion: does one schema accept every instance that is valid under another?
+2026-11-17T23:35:05.241513Z,loop-manager,0.0.1,0,0,https://github.com/kvokka/loop-manager,An event-driven orchestrator for coding agents and the loops they work in
+2026-11-17T23:35:17.491669Z,prime-select,0.1.0,0,0,https://github.com/anton-avramchuk/prime-rs,prime-rs: Select component (PrimeNG port)
+2026-11-17T23:36:40.017298Z,gadk-platform,0.2.1,0,0,https://github.com/sirhco/gadk-rust,"Time, UUID, task and environment seams and shared helpers for gadk"
+2026-11-17T23:36:42.581374Z,gadk-genai,0.2.1,0,0,https://github.com/sirhco/gadk-rust,Gemini-compatible content and generation config types for gadk
+2026-11-17T23:36:44.9791Z,gadk-artifact,0.2.1,0,0,https://github.com/sirhco/gadk-rust,"Artifact storage service for gadk agents, with an in-memory implementation"
+2026-11-17T23:36:47.746747Z,gadk-model,0.2.1,0,0,https://github.com/sirhco/gadk-rust,"The gadk LLM abstraction: the Llm trait, model registry, HTTP seam and REST transport"
+2026-11-17T23:36:50.327497Z,extenddb-backup-store,0.1.15,0,0,https://github.com/ExtendDB/extenddb,"Backup object store of the ExtendDB server, with filesystem and S3 implementations. Internal crate of the extenddb binary, with no API stability promise."
+2026-11-17T23:36:50.329213Z,gadk-artifact-gcs,0.2.1,0,0,https://github.com/sirhco/gadk-rust,Google Cloud Storage artifact service for gadk
+2026-11-17T23:36:50.452694Z,novafile-proto,0.1.0,0,0,https://github.com/novafile/nova,Schema-driven Protocol Buffers (proto3) adapter for NOVA values
+2026-11-17T23:36:52.609935Z,extenddb-cache,0.1.15,0,0,https://github.com/ExtendDB/extenddb,"In-memory stale-while-revalidate cache used by the ExtendDB auth and server layers. Internal crate of the extenddb binary, with no API stability promise."
+2026-11-17T23:36:54.716748Z,extenddb-core,0.1.15,0,0,https://github.com/ExtendDB/extenddb,"Core types, validation, errors and limits of the ExtendDB server. Internal crate of the extenddb binary, with no API stability promise."
+2026-11-17T23:36:57.86605Z,extenddb-auth,0.1.15,0,0,https://github.com/ExtendDB/extenddb,"SigV4 authentication and IAM-compatible authorization of the ExtendDB server. Internal crate of the extenddb binary, with no API stability promise."
+2026-11-17T23:37:00.264191Z,extenddb-storage,0.1.15,0,0,https://github.com/ExtendDB/extenddb,"Storage traits that every ExtendDB backend implements, with the catalog migration framework and the storage code the backends share. Internal crate of the extenddb binary, with no API stability promi…"
+2026-11-17T23:38:12.75055Z,rapidea,0.0.1,0,0,,"Rapidea, a config-driven backend platform: one YAML file becomes a Postgres schema and an API. This version holds the name; the command-line client is distributed from rapidea.com for now."
+2026-11-17T23:38:15.094032Z,rapidea-cli,0.0.1,0,0,,"The command-line client of Rapidea, a config-driven backend platform. This version holds the name; the client, `rapidea`, is distributed from rapidea.com for now."
+2026-11-17T23:41:01.804851Z,ignit_2d,1.6.0,0,0,https://forgejo.sakul-flee.de/SakulFlee/Ignit,"2D camera, shapes, batching, and rendering for Ignit"
+2026-11-17T23:41:10.134785Z,ignit_math,1.6.0,0,0,https://forgejo.sakul-flee.de/SakulFlee/Ignit,"Transforms, projections, and math types for Ignit"
+2026-11-17T23:45:43.010758Z,prime-paginator,0.1.0,0,0,https://github.com/anton-avramchuk/prime-rs,prime-rs: Paginator component (PrimeNG port)
+2026-11-17T23:46:05.965729Z,ignit_camera,1.6.0,0,0,https://forgejo.sakul-flee.de/SakulFlee/Ignit,Camera descriptors and projection helpers for Ignit
+2026-11-17T23:46:24.104447Z,novafile-schemars,0.1.0,0,0,https://github.com/novafile/nova,JSON Schema and schemars integration for NOVA schemas
+2026-11-17T23:46:27.125384Z,rpi-optchat,0.1.0,0,0,https://github.com/pi-rust/rpi-package,"OptChat's persistent chat memory for the rpi Rust agent: a session-scoped message log, a bounded summary view, and zoom/search recall tools"
+2026-11-17T23:46:54.925714Z,gadk-httprr,0.2.1,0,0,https://github.com/sirhco/gadk-rust,HTTP record/replay for deterministic gadk tests
+2026-11-17T23:46:56.541183Z,extenddb-config,0.1.15,0,0,https://github.com/ExtendDB/extenddb,"Configuration types and loading of the ExtendDB server. Internal crate of the extenddb binary, with no API stability promise."
+2026-11-17T23:50:42.464899Z,aurora_iconify_catalog,0.4.0,0,0,https://github.com/drew-chase/aurora-ui,Icon name lists for aurora_iconify. Internal data crate: depend on aurora_iconify instead
+2026-11-17T23:51:14.802979Z,aurora_iconify_macros,0.4.0,0,0,https://github.com/drew-chase/aurora-ui,"The icon_sets! macro of aurora_iconify. Depend on aurora_iconify, which re-exports it"
+2026-11-17T23:55:47.71829Z,prime-dataview,0.1.0,0,0,https://github.com/anton-avramchuk/prime-rs,prime-rs: DataView component (PrimeNG port)
+2026-11-17T23:55:52.834985Z,novafile-template,0.1.0,0,0,https://github.com/novafile/nova,"NOVA template rendering: typed parameters, reuse, conditionals and loops over values"
+2026-11-17T23:56:04.675532Z,ignit_file_manager,1.6.0,0,0,https://forgejo.sakul-flee.de/SakulFlee/Ignit,Cross-platform asset and storage I/O for Ignit
+2026-11-17T23:56:56.713984Z,extenddb-engine,0.1.15,0,0,https://github.com/ExtendDB/extenddb,"Operation dispatch, input validation and DynamoDB error mapping of the ExtendDB server. Internal crate of the extenddb binary, with no API stability promise."
+2026-11-17T23:56:58.668204Z,gadk-openai,0.2.1,0,0,https://github.com/sirhco/gadk-rust,OpenAI models for gadk on the Responses and Chat Completions APIs
+2026-11-17T23:58:50.623307Z,caller-core,0.2.0,0,0,https://github.com/nicholasgower/Caller-karaoke,"Pure domain types and call-timing math for contra dance calling: dance cards, roles, aliases, and timelines"
+2026-11-17T23:59:00.391926Z,caller-sources,0.2.0,0,0,https://github.com/nicholasgower/Caller-karaoke,"Fetch and parse contra dance and ABC tune sources behind provider traits, with a TTL cache and no HTTP client"
+2026-11-17T23:59:55.254218Z,rangular-host,1.1.0,0,0,https://github.com/Interchouette-ITC/rangular,Host binding API shared by rangular AOT and runtime
+2026-11-17T23:59:57.597027Z,rangular-expr,1.1.0,0,0,https://github.com/Interchouette-ITC/rangular,Expression AST and evaluation for rangular templates
+2026-11-18T00:00:00.6445Z,rangular-parser,1.1.0,0,0,https://github.com/Interchouette-ITC/rangular,Angular-subset HTML template parser for rangular
+2026-11-18T00:00:03.078356Z,rangular-css,1.1.0,0,0,https://github.com/Interchouette-ITC/rangular,"Component SCSS, :host, and emulated encapsulation for rangular"
+2026-11-18T00:00:05.770773Z,rangular-macros,1.1.0,0,0,https://github.com/Interchouette-ITC/rangular,Proc macros for rangular component templates
+2026-11-18T00:00:36.377667Z,actix-crud-admin,0.2.0,0,0,https://github.com/TincoNomad/actix-crud-admin,"Auto-generated CRUD admin for Actix-web 4, with pluggable auth"
+2026-11-18T00:05:53.753558Z,prime-datepicker,0.1.0,0,0,https://github.com/anton-avramchuk/prime-rs,prime-rs: DatePicker component (PrimeNG port)
+2026-11-18T00:06:05.233279Z,ignit_core,1.6.0,0,0,https://forgejo.sakul-flee.de/SakulFlee/Ignit,"Core caches, logging, math, and GPU helpers for Ignit"
+2026-11-18T00:06:35.600341Z,novafile,0.1.0,0,0,https://github.com/novafile/nova,"NOVA, the Notation for Objects, Values & Agents: one semantic model, several representations (umbrella crate)"
+2026-11-18T00:06:56.221092Z,bellhound,0.6.6,0,0,https://github.com/justinweiler/Bellhound,A line-oriented telephone bridge for interactive AI agents
+2026-11-18T00:06:57.355271Z,extenddb-server,0.1.15,0,0,https://github.com/ExtendDB/extenddb,"HTTP layer of the ExtendDB server, which serves the DynamoDB wire protocol. Internal crate of the extenddb binary, with no API stability promise."
+2026-11-18T00:07:02.709241Z,gadk-session,0.2.1,0,0,https://github.com/sirhco/gadk-rust,"Sessions, events and the in-memory session service for gadk"
+2026-11-18T00:11:43.186425Z,zamok4agent,0.1.0,0,0,https://github.com/HATCHERY-lab/zamok4agent,Lock cell: store secrets and deliver their use. Does not read profiles or grant caps.
+2026-11-18T00:13:19.263214Z,ez4a-types,0.1.0,0,0,https://github.com/HATCHERY-lab/ez4a,Durable Pi storage records for engine zero for agents
+2026-11-18T00:13:48.769597Z,ez4a-store,0.1.1,0,0,https://github.com/HATCHERY-lab/ez4a,Memory and SQLite durable storage for engine zero for agents
+2026-11-18T00:15:56.992609Z,prime-divider,0.1.0,0,0,https://github.com/anton-avramchuk/prime-rs,prime-rs: Divider component (PrimeNG port)
+2026-11-18T00:16:06.43901Z,ignit_cull,1.6.0,0,0,https://forgejo.sakul-flee.de/SakulFlee/Ignit,CPU frustum culling for Ignit
+2026-11-18T00:16:53.371985Z,novafile-cli,0.1.0,0,0,https://github.com/novafile/nova,"The `nvf` command-line tool: format, convert, validate, query and patch NOVA documents"
+2026-11-18T00:16:55.861302Z,extenddb-app,0.1.15,0,0,https://github.com/ExtendDB/extenddb,"Command-line interface of the ExtendDB server, shared by every backend build. Internal crate of the extenddb binary, with no API stability promise."
+2026-11-18T00:17:07.315734Z,gadk-anthropic,0.2.1,0,0,https://github.com/sirhco/gadk-rust,Claude models for gadk on the Anthropic Messages API and Vertex AI
