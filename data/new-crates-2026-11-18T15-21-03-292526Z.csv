@@ -1,0 +1,43 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-18T14:19:16.865467Z,embassy-executor-riscv,0.1.0,0,0,https://github.com/jorgeandrecastro/embassy-riscv,async/await executor designed for embedded usage
+2026-11-18T14:26:05.90114Z,prime-toast,0.1.0,0,0,https://github.com/anton-avramchuk/prime-rs,prime-rs: Toast component and MessageService (PrimeNG port)
+2026-11-18T14:26:28.01881Z,tarot-cards,0.1.0,0,0,,"The 78 Rider-Waite tarot cards as static data: names, keywords, upright and reversed meanings, yes/no answers, plus a seeded draw."
+2026-11-18T14:27:54.011498Z,biome_js_runtime,0.7.3,0,0,https://github.com/biomejs/biome,ECMAScript runtime for JS plugins
+2026-11-18T14:29:41.12296Z,embassy-rp-riscv,0.1.0,0,0,https://github.com/jorgeandrecastro/embassy-riscv,Embassy Hardware Abstraction Layer (HAL) for the Raspberry Pi RP2040 or RP235x microcontroller
+2026-11-18T14:34:43.538948Z,libimgquant,3.0.0,0,0,https://github.com/kiwina/libimgquant,"Pure-Rust, BSD-licensed color quantizer: converts RGBA images to 8-bit palette images with alpha for small PNGs and GIFs. Based on libimagequant 2.4.1, improved with color quantization research"
+2026-11-18T14:34:44.085769Z,sensai-engine,0.0.0,0,0,,Reserved for the SensAI inference engine library.
+2026-11-18T14:34:46.572788Z,imgquant,3.0.0,0,0,https://github.com/kiwina/libimgquant,"pngquant-style command-line PNG quantizer (lossy PNG compression to 8-bit palette with alpha), built on libimgquant"
+2026-11-18T14:34:46.689454Z,sensaix,0.0.0,0,0,,Reserved for the SensAI inference engine command.
+2026-11-18T14:34:47.318304Z,libimgquant-capi,3.0.0,0,0,https://github.com/kiwina/libimgquant,"C API of libimgquant (libimgquant.h, libimgquant.so/.a), compatible with the libimagequant 2.4.x API"
+2026-11-18T14:35:37.900182Z,louis-cli,0.4.0,0,0,https://github.com/liblouis/louis-rs,"Command line tool for louis-rs, a pure Rust re-implementation of the liblouis braille translator"
+2026-11-18T14:36:09.272738Z,prime-toggleswitch,0.1.0,0,0,https://github.com/anton-avramchuk/prime-rs,prime-rs: ToggleSwitch component (port of PrimeNG)
+2026-11-18T14:37:54.153177Z,biome_js_type_info,0.7.3,0,0,https://github.com/biomejs/biome,Data structures for tracking type information
+2026-11-18T14:38:32.609833Z,orgize-ng,0.10.0-alpha.10,0,0,https://github.com/szaffarano/orgize,A Rust library for parsing org-mode files (maintained fork of orgize).
+2026-11-18T14:39:18.911984Z,la1010,0.1.0,0,0,https://github.com/mstaack/kingst-la1010-control,"CLI and library for the Kingst LA1010 USB logic analyzer: capture, measure, decode UART/I2C/SPI/USB"
+2026-11-18T14:41:54.062737Z,egui_mineral,0.0.0,0,0,https://github.com/lajosbencz/egui-mineral,"Placeholder for egui_mineral, part of the egui_mineral UI framework; releases follow."
+2026-11-18T14:42:00.626051Z,egui_mineral_macros,0.0.0,0,0,https://github.com/lajosbencz/egui-mineral,"Placeholder for egui_mineral_macros, part of the egui_mineral UI framework; releases follow."
+2026-11-18T14:42:09.077928Z,egui_mineral_material,0.0.0,0,0,https://github.com/lajosbencz/egui-mineral,"Placeholder for egui_mineral_material, part of the egui_mineral UI framework; releases follow."
+2026-11-18T14:43:28.85869Z,ontaria-macros,0.4.0,0,0,https://github.com/vbasky/ontaria,Proc macro that turns an ontology into Rust constants
+2026-11-18T14:46:08.157005Z,ulana,0.1.0,0,0,https://github.com/zobeli-dev/ulana,Luau scripts that draw native UI: a sandboxed runtime and a checked block tree.
+2026-11-18T14:46:12.344396Z,prime-toolbar,0.1.0,0,0,https://github.com/anton-avramchuk/prime-rs,prime-rs: Toolbar component (port of PrimeNG)
+2026-11-18T14:46:22.229873Z,ulana-cli,0.1.0,0,0,https://github.com/zobeli-dev/ulana,"The ulana command: render Luau views, check trees, and serve a folder of views with hot reload."
+2026-11-18T14:46:45.982069Z,bulky,0.1.0,0,0,https://github.com/deyna256/bulky,A command wrapper for sharing a workload limit across projects on one machine
+2026-11-18T14:47:52.56538Z,biome_manifest,0.7.3,0,0,https://github.com/biomejs/biome,Biome manifest model and loader
+2026-11-18T14:49:33.962272Z,xtce-pus,0.1.2,0,0,https://github.com/RustSpaceLab/xtce-rs,"ECSS-E-ST-70-41C Packet Utilization Standard (PUS-C) no_std framing, CRC-16-CCITT, and HIL responder"
+2026-11-18T14:49:53.342974Z,xtce-model,0.1.2,0,0,https://github.com/RustSpaceLab/xtce-rs,XTCE telemetry metadata: streaming XML parser and arena-backed intermediate representation
+2026-11-18T14:50:00.753167Z,xtce-decode,0.1.2,0,0,https://github.com/RustSpaceLab/xtce-rs,Decode CCSDS telemetry packets against an XTCE definition
+2026-11-18T14:50:12.819711Z,xtce-codegen,0.1.2,0,0,https://github.com/RustSpaceLab/xtce-rs,Compile an XTCE telemetry definition into a static Rust decoder
+2026-11-18T14:50:27.294857Z,xtce-cli,0.1.2,0,0,https://github.com/RustSpaceLab/xtce-rs,Command-line tools for inspecting and decoding CCSDS telemetry defined by XTCE
+2026-11-18T14:56:29.94321Z,prime-tree,0.1.0,0,0,https://github.com/anton-avramchuk/prime-rs,prime-rs: Tree component (PrimeNG port)
+2026-11-18T14:57:54.009946Z,biome_module_graph,0.7.3,0,0,https://github.com/biomejs/biome,Data structure for tracking inferred information across modules
+2026-11-18T15:01:46.177643Z,exav-qr,0.0.3,0,0,https://github.com/sylvinus/exav,"QR code detection and decoding: rqrr 0.11.0, a port of quirc, with its lru and g2p dependencies replaced by safe code of its own."
+2026-11-18T15:06:47.47357Z,prime-treeselect,0.1.0,0,0,https://github.com/anton-avramchuk/prime-rs,prime-rs: TreeSelect component (PrimeNG port)
+2026-11-18T15:07:12.653666Z,efr32mg2x-pac,0.1.0,0,0,https://github.com/bitscrafts/EFR32MG2X-RS,Peripheral Access Crate for EFR32MG24 microcontrollers
+2026-11-18T15:07:54.377723Z,biome_plugin_loader,0.7.3,0,0,https://github.com/biomejs/biome,Functionality for loading plugins and caching them in memory
+2026-11-18T15:08:32.847584Z,yaaral-macros,0.5.4,0,0,https://gitlab.com/cyloncore/yaaral,Procedural macros of yaaral
+2026-11-18T15:16:52.619129Z,prime-treetable,0.1.0,0,0,https://github.com/anton-avramchuk/prime-rs,"prime-rs: TreeTable component (PrimeNG port), stage 1"
+2026-11-18T15:17:53.294707Z,biome_rule_options,0.7.3,0,0,https://github.com/biomejs/biome,This crate is internally used to share lint rule options across analyzers
+2026-11-18T15:18:29.916936Z,o1-contract,0.1.0,0,0,https://github.com/jameshuntt/o1,"Vocabulary for bounded execution: zero-sized execution-intent policies, execution contracts and multidimensional resource envelopes. No dependencies, no unsafe."
+2026-11-18T15:18:59.119236Z,o1-core,0.1.0,0,0,https://github.com/jameshuntt/o1,"OS-independent, allocation-free substrate: bit operations, strict-provenance tagged pointers, fixed-capacity collections, generational arena, sans-IO framing."
+2026-11-18T15:19:03.079123Z,o1-sync,0.1.0,0,0,https://github.com/jameshuntt/o1,"Allocation-free bounded synchronisation: a fixed-capacity SPSC ring whose push and pop are wait-free, and cache-line padding."
+2026-11-18T15:19:06.555037Z,o1-predict,0.1.0,0,0,https://github.com/jameshuntt/o1,"Operation-class time prediction from calibration evidence: exact class matching, no extrapolation, an interval with its evidence or a machine-readable refusal. no_std + alloc, no unsafe."
