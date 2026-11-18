@@ -1,0 +1,62 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-18T09:20:37.106991Z,tessera-foundation,0.1.0,0,0,https://github.com/tessera-ui/tessera,Foundation primitives and shared UI building blocks for tessera-ui.
+2026-11-18T09:20:41.232014Z,tessera-i18n,0.1.0,0,0,https://github.com/tessera-ui/tessera,Reactive Fluent localization for Tessera applications
+2026-11-18T09:20:45.595355Z,tessera-platform,0.1.0,0,0,https://github.com/tessera-ui/tessera,Platform services and plugins for Tessera.
+2026-11-18T09:22:19.374109Z,linqguru,0.1.0,0,0,https://github.com/StarcevAlexander/linqguru,"LINQ-style query methods for Rust iterators - where, select, order_by, group_by, aggregate and 20 more C#-named extension methods"
+2026-11-18T09:23:40.201387Z,nest-rs-authn-macros,7.0.0,0,0,https://github.com/YV17labs/NestRS,"Internal — #[derive(PrincipalIdentity)] (a claims type's subject, tenant and scopes, read off the fields it marks); re-exported by nest-rs-authn, not a direct dependency."
+2026-11-18T09:26:32.199035Z,nest-rs-reqwest,7.0.0,0,0,https://github.com/YV17labs/NestRS,W3C Trace Context and HTTP client telemetry on the reqwest client a NestRS app builds itself.
+2026-11-18T09:26:57.246675Z,ahrefs,0.1.0,0,0,https://github.com/ljh-sh/ahrefs,Rust client for the Ahrefs API v3
+2026-11-18T09:27:06.872319Z,nest-rs-authz-macros,7.0.0,0,0,https://github.com/YV17labs/NestRS,"Internal — the #[subject] decorator (a capability no table holds, as an authorization subject); re-exported by nest-rs-authz, not a direct dependency."
+2026-11-18T09:27:10.129382Z,ahrefs-cli,0.1.0,0,0,https://github.com/ljh-sh/ahrefs,Command line client for the Ahrefs API v3
+2026-11-18T09:27:21.268115Z,graphrt-plugin,0.1.0,0,0,https://github.com/BimaPangestu28/graphrt,"Plugin host for graphrt: load node kinds and tools from external processes, HTTP services or WebAssembly modules."
+2026-11-18T09:27:59.188946Z,mdbook-track,0.0.4,0,0,https://github.com/CompEng0001/mdbook-track,Local chapter checklist progress tracking for mdBook
+2026-11-18T09:28:40.988539Z,prime-popover,0.1.0,0,0,https://github.com/anton-avramchuk/prime-rs,prime-rs: Popover component (PrimeNG port)
+2026-11-18T09:28:46.210664Z,unidbg-hypervisor,0.1.1,0,0,https://github.com/2noScript/unidbg-rs,macOS Apple Silicon Hypervisor.framework ARM64 backend for unidbg-rs
+2026-11-18T09:29:36.079002Z,mdbook-components,0.2.2,0,0,https://github.com/CompEng0001/mdbook-components,Theme-aware Markdown components and layouts for mdBook
+2026-11-18T09:30:39.938124Z,openwarden-cli,0.1.1,0,0,https://github.com/talaagent/openwarden,"ow: a fast, bw-compatible command-line client for Bitwarden and Vaultwarden, with an encrypted local cache"
+2026-11-18T09:32:51.918348Z,vbmc-rs,0.4.0,0,0,https://github.com/fabiendupont/vbmc-rs,A Redfish-compliant virtual BMC — manage VMs with the same Redfish API used for physical servers
+2026-11-18T09:33:43.166725Z,nest-rs-seaorm-macros,7.0.0,0,0,https://github.com/YV17labs/NestRS,"Internal — the #[expose] decorator macro (a SeaORM entity to its wire DTO, inputs and GraphQL object); re-exported by nest-rs-seaorm, not a direct dependency."
+2026-11-18T09:34:52.578168Z,nest-rs-static-files,7.0.0,0,0,https://github.com/YV17labs/NestRS,"Static files and single-page apps for NestRS, from a directory or a folder embedded in the binary, served beside the API as the router's fallback."
+2026-11-18T09:35:10.281392Z,typemaxxing,0.1.0,0,0,https://github.com/Surya-Varman/Typemaxxing,"A fast, offline typing speed test for your terminal"
+2026-11-18T09:37:09.447469Z,kalkan,0.3.1,0,0,https://github.com/CelkMehmett/kalkan,"Masks Turkish PII (national ID, tax ID, IBAN, phone, card, plate, names) before it reaches an LLM and restores it in the reply. Zero-dependency KVKK/GDPR shield."
+2026-11-18T09:37:40.006963Z,brokk-mj-targets,0.0.0,0,0,https://github.com/BrokkAi/mjolnir,"Session target provisioning, control and cleanup for Mjolnir (name reservation; released with Mjolnir)"
+2026-11-18T09:37:52.117569Z,biome_graphql_factory,0.7.3,0,0,https://github.com/biomejs/biome,Utilities to create GraphQL AST for biome_graphql_parser
+2026-11-18T09:37:55.363293Z,biome_graphql_semantic,0.7.3,0,0,https://github.com/biomejs/biome,Biome's semantic model for GraphQL
+2026-11-18T09:38:01.514307Z,biome_grit_factory,0.7.3,0,0,https://github.com/biomejs/biome,Utilities to create GritQL AST for biome_grit_parser
+2026-11-18T09:38:02.302788Z,graphrt-rag,0.1.0,0,0,https://github.com/BimaPangestu28/graphrt,"Retrieval building blocks for graphrt: embedders, vector stores, hybrid search, reranking, chunking and the knowledge-retrieval node."
+2026-11-18T09:38:10.702867Z,biome_markdown_syntax,0.7.3,0,0,https://github.com/biomejs/biome,SyntaxKind and common rowan definitions for biome_markdown_parser
+2026-11-18T09:38:13.912111Z,biome_markdown_factory,0.7.3,0,0,https://github.com/biomejs/biome,Utilities to create Markdown AST for biome_markdown_parser
+2026-11-18T09:38:44.04294Z,prime-progressspinner,0.1.0,0,0,https://github.com/anton-avramchuk/prime-rs,prime-rs: ProgressSpinner component (port of PrimeNG)
+2026-11-18T09:40:57.753549Z,lintel-plugin-sdk,0.5.0,0,0,https://github.com/freemode1614/lintel,SDK for developing WASM plugins for the Lintel microkernel HTTP gateway
+2026-11-18T09:43:03.296725Z,atm-comms,0.5.0,0,0,https://github.com/damelLP/agent-tmux-manager,Vendor-neutral durable message row types for ATM
+2026-11-18T09:43:57.425064Z,statementkit,0.1.0,0,0,https://github.com/heshiming/statementkit,Parse brokerage statement content into actionable numbers
+2026-11-18T09:44:08.931016Z,atm-chat,0.5.0,0,0,https://github.com/damelLP/agent-tmux-manager,Terminal chat state and screen for ATM
+2026-11-18T09:44:51.601225Z,mermaid-rust,1.0.0,0,0,https://github.com/iDigimon/mermaid-rust,Native Mermaid parsing and rendering facade
+2026-11-18T09:47:52.214844Z,biome_analyze_macros,0.7.3,0,0,https://github.com/biomejs/biome,Procedural macros for Biome analyzer code generation
+2026-11-18T09:48:47.449468Z,prime-radiobutton,0.1.0,0,0,https://github.com/anton-avramchuk/prime-rs,prime-rs: RadioButton component (port of PrimeNG)
+2026-11-18T09:48:51.224246Z,graphrt-cli,0.1.0,0,0,https://github.com/BimaPangestu28/graphrt,The graphrt command-line runner and HTTP server for agentic workflow graphs.
+2026-11-18T09:50:23.589597Z,lintel-plugin,0.5.1,0,0,https://github.com/freemode1614/lintel,Scaffold and package Lintel WASM plugins
+2026-11-18T09:53:00.969257Z,cargo-clippy-html,0.1.0,0,0,https://github.com/Imagination12357/clippy-html,"Generate static, rustdoc-style HTML reports from Clippy diagnostics."
+2026-11-18T09:54:46.241465Z,loopctl-hnsw,0.6.0,0,0,https://github.com/dch-labs/loopctl,HNSW-backed VectorIndex for loopctl's semantic memory
+2026-11-18T09:55:03.533309Z,loopctl-otel,0.6.0,0,0,https://github.com/dch-labs/loopctl,OpenTelemetry (OTLP) exporter for loopctl agent loops — GenAI-shaped spans for Jaeger/Tempo/Honeycomb
+2026-11-18T09:55:22.885228Z,loopctl-langfuse,0.6.0,0,0,https://github.com/dch-labs/loopctl,"Langfuse (LLM observability) exporter for loopctl agent loops — native traces, sessions, and scores"
+2026-11-18T09:55:31.624691Z,loopctl-client,0.6.0,0,0,https://github.com/dch-labs/loopctl,"The shared daemon client for the loopctl family: typed verbs, event streams, and the versioned handshake over the unix socket, TCP, or TLS"
+2026-11-18T09:55:44.34109Z,loopctl-vector,0.6.0,0,0,https://github.com/dch-labs/loopctl,"External vector-store backends (Qdrant, pgvector) for loopctl's semantic memory"
+2026-11-18T09:57:52.15493Z,biome_tailwind_syntax,0.7.3,0,0,https://github.com/biomejs/biome,SyntaxKind and common rowan definitions for biome_tailwind_parser
+2026-11-18T09:58:51.018826Z,prime-rating,0.1.0,0,0,https://github.com/anton-avramchuk/prime-rs,prime-rs: Rating component (PrimeNG port)
+2026-11-18T09:59:03.714423Z,hashtree-paid-retrieval,0.1.0,0,0,https://git.iris.to/#/npub1xdhnr9mrv47kkrn95k6cwecearydeh8e895990n3acntwvmgk2dsdeeycm/hashtree,"Pay-to-retrieve blob route, provider and wallet interface for Hashtree"
+2026-11-18T09:59:42.748305Z,graphrt-ffi,0.1.0,0,0,https://github.com/BimaPangestu28/graphrt,"Embedding API for mobile and desktop apps (Kotlin, Swift, Python...) via UniFFI."
+2026-11-18T10:00:51.831432Z,vowp-asif,0.1.1,0,0,https://github.com/syver777/vowp-asif,Standalone ASIF 0.4 package and validation layer for VOWP session interchange
+2026-11-18T10:02:32.901408Z,ssab,7.0.0-beta.1,0,0,https://github.com/cri-middleware/SpriteStudio-SDK,The .ssab / .ssqb binary format for SpriteStudio — the FlatBuffers schema shared by converter and runtime
+2026-11-18T10:02:34.215968Z,sspj,7.0.0-beta.1,0,0,https://github.com/cri-middleware/SpriteStudio-SDK,Parser for SpriteStudio project files (.sspj / .ssae / .ssce / .ssee / .ssqe / .ssse)
+2026-11-18T10:02:35.88288Z,ssconverter,7.0.0-beta.1,0,0,https://github.com/cri-middleware/SpriteStudio-SDK,Converts SpriteStudio projects into the .ssab / .ssqb runtime binaries
+2026-11-18T10:02:39.175922Z,ssruntime,7.0.0-beta.1,0,0,https://github.com/cri-middleware/SpriteStudio-SDK,"no_std playback engine for SpriteStudio animations — per-frame transforms, mesh deformation, and a cross-engine draw plan"
+2026-11-18T10:07:52.149566Z,biome_tailwind_factory,0.7.3,0,0,https://github.com/biomejs/biome,Utilities to create Tailwind AST for biome_tailwind_factory
+2026-11-18T10:08:54.828899Z,prime-scrollpanel,0.1.0,0,0,https://github.com/anton-avramchuk/prime-rs,prime-rs: ScrollPanel component (PrimeNG port)
+2026-11-18T10:09:36.745528Z,brokk-mj-worker-runtime,0.0.0,0,0,https://github.com/BrokkAi/mjolnir,Target-side worker runtime library for Mjolnir sessions (name reservation; released with Mjolnir)
+2026-11-18T10:09:52.446275Z,purge-js,0.2.1,0,0,https://github.com/iMohmmedSA/purge,"JavaScript and TypeScript ecosystem support: npm, pnpm, Yarn and Bun projects"
+2026-11-18T10:11:31.344146Z,nazo-mdoc,0.3.0,0,0,https://github.com/nazozero/nazo-mdoc,"ISO mdoc issuance, parsing and signature verification"
+2026-11-18T10:13:05.148886Z,spacejunk,0.1.0,0,0,https://github.com/carvalinh0/spacejunk,Fast TUI disk usage analyzer: shows a tree of folders from heaviest to lightest
+2026-11-18T10:15:04.312964Z,x-cem,0.1.1,0,0,https://github.com/CC19990113/x-cem,零第三方依赖的词法级 TS/JS Custom Elements Manifest 生成器（手写 lexer + JSON 序列化）
+2026-11-18T10:17:52.155141Z,biome_js_extent,0.7.3,0,0,https://github.com/biomejs/biome,Finds where JavaScript embedded in another language ends
+2026-11-18T10:19:12.64788Z,prime-scrolltop,0.1.0,0,0,https://github.com/anton-avramchuk/prime-rs,prime-rs: ScrollTop component (PrimeNG port)
