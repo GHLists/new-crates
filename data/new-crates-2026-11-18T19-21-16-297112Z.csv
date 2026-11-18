@@ -1,0 +1,41 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-18T18:25:10.63318Z,pharos-kv,0.1.0,0,0,https://github.com/itsmeyaw/pharos-dns,"Small durable ordered key-value store: one file, in-place commits, checksummed log"
+2026-11-18T18:26:24.240308Z,rusuna-events,0.2.0,0,0,https://github.com/conao3/rust-rusuna,"Event triggers and cron triggers on PostgreSQL for rusuna, delivered to Rust handlers and webhooks"
+2026-11-18T18:31:00.019427Z,ztreamer-blocking,0.2.0,0,0,https://github.com/zcashlabs/ztreamer,Work on the Tokio blocking thread pool that keeps the panics of its closure
+2026-11-18T18:31:00.985003Z,ztreamer-jsonrpc,0.2.0,0,0,https://github.com/zcashlabs/ztreamer,JSON-RPC 2.0 client over HTTP and HTTPS
+2026-11-18T18:31:05.055542Z,ztreamer-chain,0.2.0,0,0,https://github.com/zcashlabs/ztreamer,"The compact block model of ztreamer: types, parser and byte codecs"
+2026-11-18T18:31:07.639428Z,ztreamer-snapshot,0.2.0,0,0,https://github.com/zcashlabs/ztreamer,"The snapshot format: manifest entries, the epoch rule, the manifest and the directory layout"
+2026-11-18T18:31:10.916085Z,ztreamer-backend,0.2.0,0,0,https://github.com/zcashlabs/ztreamer,The chain-state reads that ztreamer needs from a Zakura node
+2026-11-18T18:31:28.596868Z,sprust,0.1.0,0,0,,"Rust tools for calculations using the Navier-Stokes Equation solver, SPINS, outputs."
+2026-11-18T18:35:19.551184Z,structal-lib,0.5.3,0,0,https://codebase.helmholtz.cloud/DAPHNE4NFDI/aixtal-v2/structal-3d,"Draws crystal structures from CIFs with three-d on any glow context: atoms, bonds, coordination polyhedra, cell edges, labels, a compass, picking and image export"
+2026-11-18T18:35:21.630408Z,structal-egui,0.5.3,0,0,https://codebase.helmholtz.cloud/DAPHNE4NFDI/aixtal-v2/structal-3d,"egui widgets for structal: a crystal structure view with its toolbar, compass, settings panel and picked-atom card"
+2026-11-18T18:38:54.944807Z,ztreamer-index,0.2.0,0,0,https://github.com/zcashlabs/ztreamer,"LMDB storage of ztreamer compact blocks, its write batches and its note commitment trees"
+2026-11-18T18:42:07.282899Z,aix-rs,1.0.0,0,0,https://github.com/get-aix/aix,Manage AI gateway profiles and launch AI coding tools with the right credentials
+2026-11-18T18:47:27.097811Z,blyx_lexer,0.1.0,0,0,https://github.com/Rahulchaube1/blyxxxx,Native Independent Lexer for the Blyx Programming Language
+2026-11-18T18:47:29.596322Z,blyx_ast,0.1.0,0,0,https://github.com/Rahulchaube1/blyxxxx,"Native AST Nodes, Visitors, and Span Tracking for the Blyx Compiler"
+2026-11-18T18:48:30.419732Z,covalence-blob-verify,0.1.0-dev.10,0,0,https://github.com/hiloopai/covalence,Byte streams checked against an expected length and digest
+2026-11-18T18:49:27.466901Z,ztreamer-sync,0.2.0,0,0,https://github.com/zcashlabs/ztreamer,Keep the ztreamer index at the node tip: the historical pass and the head follower
+2026-11-18T18:51:04.573578Z,blyx_parser,0.1.0,0,0,https://github.com/Rahulchaube1/blyxxxx,Native Independent Parser for the Blyx Programming Language
+2026-11-18T18:51:17.037217Z,blyxc,0.2.0,0,0,https://github.com/Rahulchaube1/blyxxxx,Official Compiler Driver for the Blyx Programming Language
+2026-11-18T18:59:03.306053Z,ztreamer-remote,0.2.0,0,0,https://github.com/zcashlabs/ztreamer,Typed JSON-RPC calls to a remote zakura node
+2026-11-18T19:01:18.038601Z,semanticant-core,0.1.0,0,0,https://github.com/ThinkersJournal/semanticant,"Tiny shared types for SemanticAnt: Span, LangTag, Reason, Verdict, Provenance and the data-pack manifest. Standard library only."
+2026-11-18T19:02:57.54103Z,gitkraft-settings,1.5.0,0,0,https://github.com/sorinirimies/gitkraft,"Settings, layout, repo history and theme data for GitKraft (no git2, no UI)"
+2026-11-18T19:03:31.321194Z,gitkraft-platforms,1.5.0,0,0,https://github.com/sorinirimies/gitkraft,"GitHub, GitLab and Gitea/Forgejo/Codeberg behind one model: PRs, issues, reviews, notifications, contributions"
+2026-11-18T19:03:36.968631Z,gitkraft-ci,1.5.0,0,0,https://github.com/sorinirimies/gitkraft,"CI/CD runs, jobs, steps and logs for GitHub Actions, Gitea/Forgejo Actions and GitLab CI"
+2026-11-18T19:04:45.387582Z,tohsaka,0.1.0,0,0,https://github.com/w3lt/rin,Rin (Tohsaka) is all you need to deploy a team of AI agents. She is the best waifu btw
+2026-11-18T19:04:49.562124Z,gitkraft-hub,1.5.0,0,0,https://github.com/sorinirimies/gitkraft,"The glue every GitKraft front-end shares: accounts, dashboard sections to data, pulse, contributions"
+2026-11-18T19:06:59.478816Z,gitkraft-web,1.5.0,0,0,https://github.com/sorinirimies/gitkraft,"GitKraft on localhost: pull requests, issues, CI, pulse and notifications of every platform account (Topcoat, server rendered)"
+2026-11-18T19:07:16.52134Z,gitkraft-mcp,1.5.0,0,0,https://github.com/sorinirimies/gitkraft,"GitKraft as an MCP server: pull requests, issues and CI of GitHub, GitLab, Gitea and Codeberg for AI assistants, read-only unless you allow writes"
+2026-11-18T19:07:23.219653Z,menger-logs,0.9.0,0,0,https://github.com/hypermemetic-ai/menger,"menger's logs service — a typed table per log made from a JSON Schema, tied to a ticket and taking its reach, entries checked, kept and read by name"
+2026-11-18T19:07:23.959172Z,menger-notes,0.9.0,0,0,https://github.com/hypermemetic-ai/menger,"menger's notes service — notes on their own API and file, every write a revision, the organization's roles held by the gate"
+2026-11-18T19:07:27.926216Z,menger-code,0.9.0,0,0,https://github.com/hypermemetic-ai/menger,"menger's code service — a GitHub ref resolved to a commit, the commit fetched once, its tree and files answered from what is kept"
+2026-11-18T19:09:27.540246Z,emob-smart,0.3.0,0,0,https://github.com/hupe1980/emob,"§ 14a EnWG as executable law: which charge points are steuerbare Verbrauchseinrichtungen, the Mindestleistung the operator is owed, and a site allocation that cannot exceed the grid operator's setpoi…"
+2026-11-18T19:09:32.678826Z,emob-eebus,0.3.0,0,0,https://github.com/hupe1980/emob,"The EEBUS seam for § 14a EnWG: a grid operator's setpoint lifted off a SPINE datagram as an exact decimal, and the five states LPC gives a controllable site"
+2026-11-18T19:09:33.800806Z,emob-service,0.3.0,0,0,https://github.com/hupe1980/emob,"The shell every emob daemon shares — configuration, structured logging, a readiness probe that does not lie, graceful shutdown — and the three pieces that are about charging: an OCPI-party authority…"
+2026-11-18T19:09:36.933586Z,emob-billing,0.3.0,0,0,https://github.com/hupe1980/emob,"Rated EV charging records turned into money: invoice lines whose rounding is stated rather than discovered, the German VAT treatment of a roaming settlement as an executable rule, an EN 16931 e-invoi…"
+2026-11-18T19:09:38.228158Z,emob-thg,0.3.0,0,0,https://github.com/hupe1980/emob,"The German greenhouse-gas quota for public EV charging as executable law: 38. BImSchV § 6(3) eligibility per point, the § 5(3) counting factor and Anlage 3 drive efficiency, and a § 8 notification bu…"
+2026-11-18T19:09:39.157773Z,ztreamer-replicator,0.2.0,0,0,https://github.com/zcashlabs/ztreamer,"The source side of replication: range_meta rows, the Replicator service and snapshot export"
+2026-11-18T19:12:44.202242Z,trusty-browser,0.7.0,0,0,https://github.com/bobmatnyc/trusty-tools,"Trusty Browser broker and MCP server: lets local AI agents drive your own Chrome profile through paired, per-workflow grants"
+2026-11-18T19:19:14.692926Z,ztreamer-embedded,0.2.0,0,0,https://github.com/zcashlabs/ztreamer,"The embedded mode of ztreamer: the in-process Zakura client, its block sources and its state backend"
+2026-11-18T19:19:55.787774Z,emob-pnc,0.3.0,0,0,https://github.com/hupe1980/emob,"ISO 15118 Plug & Charge contract lifecycle: OPCP pools as plural from day one, contract certificates validated against the pool that issued them, and the revocation answer the protocol libraries leav…"
+2026-11-18T19:21:06.510126Z,ztty,0.3.1,0,0,https://github.com/LIghtJUNction/ztty,"A lean native no_std Rust terminal with Kitty graphics, built on Project Z"
