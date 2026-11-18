@@ -1,0 +1,29 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-18T07:24:06.420408Z,smbcloud-ascapi-iap,0.6.0,0,0,https://github.com/smbcloudXYZ/smbcloud-ascapi,"App Store Connect in-app purchases: the product, its localizations, price schedule, territory availability and App Review screenshot."
+2026-11-18T07:26:13.393571Z,rs-turbo-tasks-fs,0.1.0,0,0,https://github.com/hardfist/rs-turbo,Turbo engine crate turbo-tasks-fs. Republished fork of `turbo-tasks-fs` from vercel/next.js turbopack (rev 81d6086) for turbobuild.
+2026-11-18T07:26:47.981938Z,prime-knob,0.1.0,0,0,https://github.com/anton-avramchuk/prime-rs,prime-rs: Knob component (PrimeNG port)
+2026-11-18T07:32:05.909312Z,scotoma,0.0.1,0,0,https://github.com/mudbungie/scotoma,"A blind spot for agents: store secrets, hand out opaque handles, substitute the value only at execution, and redact it from everything the model could read."
+2026-11-18T07:37:07.750051Z,prime-listbox,0.1.0,0,0,https://github.com/anton-avramchuk/prime-rs,prime-rs: Listbox component (PrimeNG port)
+2026-11-18T07:46:32.570521Z,bytesetscan,0.0.1,0,0,https://github.com/WangLabCSU/bytesetscan,SIMD-accelerated byte-set matching with Shufti and Truffle
+2026-11-18T07:47:26.330196Z,prime-megamenu,0.1.0,0,0,https://github.com/anton-avramchuk/prime-rs,prime-rs: MegaMenu component (PrimeNG port)
+2026-11-18T07:51:01.840013Z,lichtung-plot,0.1.0,0,0,https://github.com/PythiaLaurus/lichtung-plot,Strongly typed scientific plotting with deterministic SVG and PNG output
+2026-11-18T07:52:23.462282Z,lichtung-plot-ndarray,0.1.0,0,0,https://github.com/PythiaLaurus/lichtung-plot,Direct scientific plotting from logical ndarray views and columns
+2026-11-18T07:53:22.39551Z,lichtung-plot-polars,0.1.0,0,0,https://github.com/PythiaLaurus/lichtung-plot,Direct scientific plotting from eager Polars fields and columns
+2026-11-18T07:57:30.80943Z,prime-menubar,0.1.0,0,0,https://github.com/anton-avramchuk/prime-rs,prime-rs: Menubar component (PrimeNG port)
+2026-11-18T07:58:20.486597Z,rusuna,0.1.0,0,0,https://github.com/conao3/rust-rusuna,A Hasura-style GraphQL engine as a Rust library: compiles a query to one SQL statement
+2026-11-18T07:58:31.871075Z,rusuna-sqlx,0.1.0,0,0,https://github.com/conao3/rust-rusuna,Execute rusuna statements on PostgreSQL with sqlx
+2026-11-18T07:58:43.260537Z,rusuna-async-graphql,0.1.0,0,0,https://github.com/conao3/rust-rusuna,Serve a rusuna schema from an async-graphql dynamic schema beside hand-written resolvers
+2026-11-18T07:58:54.70333Z,rusuna-axum,0.1.0,0,0,https://github.com/conao3/rust-rusuna,An axum route that serves rusuna async-graphql schemas per role
+2026-11-18T07:58:56.723802Z,sshtether,0.1.3,0,0,https://github.com/cumulus13/sshtether,"Remote command runner over SSH that stays tethered: PTY, colour, UTF-8, auto-reconnect, failover and dead-peer detection"
+2026-11-18T07:59:50.887444Z,rp2350-riscv-linker,0.1.0,0,0,https://github.com/jorgeandrecastro/rp2350-riscv-linker,Zero-config linker riscv and boot support for RP2350 (Pico 2) in Rust. Pure no_std infrastructure.
+2026-11-18T08:07:34.310172Z,prime-metergroup,0.1.0,0,0,https://github.com/anton-avramchuk/prime-rs,prime-rs: MeterGroup component (PrimeNG port)
+2026-11-18T08:13:09.72778Z,contact-relationship-management-domain,0.2.0,0,0,https://github.com/contact-relationship-management/contact-relationship-management-service-with-rust,"Contact Relationship Management (CRM): the domain rules, with no web routes or database storage"
+2026-11-18T08:14:12.367042Z,graphrt-core,0.1.0,0,0,https://github.com/BimaPangestu28/graphrt,"Executor-agnostic graph runtime for agentic AI workflows: graph model, variable pool, scheduler, events, snapshots and built-in control nodes."
+2026-11-18T08:14:46.110338Z,graphrt-wasm,0.1.0,0,0,https://github.com/BimaPangestu28/graphrt,Sandboxed WebAssembly plugins for graphrt: add node kinds from portable .wasm modules with fuel and memory limits.
+2026-11-18T08:15:20.420885Z,graphrt-bundle,0.1.0,0,0,https://github.com/BimaPangestu28/graphrt,"Portable graphrt bundles: one signed file holding a workflow, its plugins and configs, deployable anywhere."
+2026-11-18T08:15:55.772402Z,graphrt-http,0.1.0,0,0,https://github.com/BimaPangestu28/graphrt,HTTP request node with SSRF protection for the graphrt workflow runtime.
+2026-11-18T08:16:17.293571Z,j8bytecode,0.4.0,0,0,https://github.com/0x00-Community/j8,"j8 virtual instruction set: bytecode definitions (generated from JSON), assembler / disassembler; the dependency root of j8"
+2026-11-18T08:16:30.4345Z,graphrt-code,0.1.0,0,0,https://github.com/BimaPangestu28/graphrt,"Sandboxed code node (embedded JavaScript, optional remote sandbox) for the graphrt workflow runtime."
+2026-11-18T08:16:40.488343Z,j8napi,0.4.0,0,0,https://github.com/0x00-Community/j8,"Node-API (napi) for j8: the C ABI that native addons (and napi-rs modules) link against, implemented on j8's engine"
+2026-11-18T08:17:55.299358Z,prime-multiselect,0.1.0,0,0,https://github.com/anton-avramchuk/prime-rs,prime-rs: MultiSelect component (PrimeNG port)
+2026-11-18T08:19:45.416407Z,miblo,0.9.0,0,0,https://github.com/NaSuRall/Miblo,Terminal workspace for Rust APIs with SQLite or MySQL and remote templates
