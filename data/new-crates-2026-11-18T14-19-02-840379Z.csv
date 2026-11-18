@@ -1,0 +1,50 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-18T13:23:47.872191Z,sensai,0.0.0,0,0,,Reserved for the SensAI inference engine.
+2026-11-18T13:23:50.002525Z,sensai-core,0.0.0,0,0,,Reserved for the SensAI inference engine.
+2026-11-18T13:23:52.229159Z,sensai-cli,0.0.0,0,0,,Reserved for the SensAI inference engine.
+2026-11-18T13:24:33.657089Z,fmtguru,0.1.0,0,0,https://github.com/StarcevAlexander/fmtguru,"runtime string templates for Rust - named and positional placeholders like {name} rendered from key-value pairs, zero dependencies"
+2026-11-18T13:24:36.274563Z,richguru,0.1.0,0,0,https://github.com/StarcevAlexander/richguru,"rich-style terminal output for Rust - ANSI colors, styled text and aligned tables, zero dependencies"
+2026-11-18T13:24:58.002972Z,embassy-usb-driver-riscv,0.1.0,0,0,https://github.com/jorgeandrecastro/embassy-riscv,"Driver trait for `embassy-usb`, an async USB device stack for embedded devices."
+2026-11-18T13:25:18.168017Z,prime-steps,0.1.0,0,0,https://github.com/anton-avramchuk/prime-rs,prime-rs: Steps component (PrimeNG port)
+2026-11-18T13:25:44.77871Z,embassy-sync-riscv,0.1.0,0,0,https://github.com/jorgeandrecastro/embassy-riscv,"no-std, no-alloc synchronization primitives with async support"
+2026-11-18T13:26:27.404511Z,embassy-time-driver-riscv,0.1.0,0,0,https://github.com/jorgeandrecastro/embassy-riscv,Driver trait for embassy-time
+2026-11-18T13:26:53.281007Z,vowp-agent,0.4.0,0,0,https://github.com/syver777/vowp,"Mac-side v0.4 local agent: config, node key, transport and frame client."
+2026-11-18T13:27:08.084838Z,sqlive,0.0.0,0,0,https://github.com/bae-fm/coven,Live queries over SQLite: reruns a query when a write changes rows it reads.
+2026-11-18T13:27:13.087121Z,embassy-executor-macros-riscv,0.1.0,0,0,https://github.com/jorgeandrecastro/embassy-riscv,macros for creating the entry point and tasks for embassy-executor
+2026-11-18T13:27:52.58471Z,biome_jsdoc_comment,0.7.3,0,0,https://github.com/biomejs/biome,JSDoc comment handling helpers
+2026-11-18T13:28:59.696383Z,embassy-time-riscv,0.1.2,0,0,https://github.com/jorgeandrecastro/embassy-riscv,"Instant and Duration for embedded no-std systems, with async timer support"
+2026-11-18T13:30:17.867988Z,super-router-server,0.2.0,0,0,https://github.com/Super-Solution/super-router,HTTP API of the Super Router data plane as an axum router.
+2026-11-18T13:31:22.112426Z,nazo-passkey,0.2.0,0,0,https://github.com/nazozero/nazo-passkey,WebAuthn relying party verifier with a pure-Rust default and optional native AWS-LC ES256.
+2026-11-18T13:31:36.519879Z,embassy-embedded-hal-riscv,0.1.0,0,0,https://github.com/jorgeandrecastro/embassy-riscv,Collection of utilities to use `embedded-hal` and `embedded-storage` traits with Embassy.
+2026-11-18T13:31:43.300679Z,gadk-eval-monitor,0.3.0,0,0,https://github.com/sirhco/gadk-rust,Production eval monitors for gadk: grade logged agent runs with gadk-eval scorers
+2026-11-18T13:33:29.273422Z,kaya-vibes,0.1.0,0,0,https://github.com/charly-vibes/kaya,"A living record of exploration: compile the artifacts a project already produces into continuously generated, human-owned documentation"
+2026-11-18T13:35:37.527278Z,prime-table,0.1.0,0,0,https://github.com/anton-avramchuk/prime-rs,"prime-rs: Table component (port of PrimeNG DataTable), stage 2"
+2026-11-18T13:37:52.572123Z,biome_json_value,0.7.3,0,0,https://github.com/biomejs/biome,Mutable JSON values constructable from biome_json_syntax
+2026-11-18T13:38:23.306349Z,opengrid-sql,0.19.0,0,0,https://github.com/casoon/opengrid,"One SQL compiler for opengrid's query vocabulary, with a dialect per database"
+2026-11-18T13:38:32.959824Z,opengrid-serve,0.19.0,0,0,https://github.com/casoon/opengrid,"The opengrid-server command: read a database's schema, propose a configuration, serve it"
+2026-11-18T13:39:54.40859Z,unitrait-macros-riscv,0.1.0,0,0,https://github.com/jorgeandrecastro/embassy-riscv,Implementation detail of the `unitrait` crate
+2026-11-18T13:40:15.715267Z,super-router-store-memory,0.2.0,0,0,https://github.com/Super-Solution/super-router,"In-memory DataStore for Super Router: tests, demos and single-process self-hosting."
+2026-11-18T13:45:54.259763Z,prime-tabs,0.1.0,0,0,https://github.com/anton-avramchuk/prime-rs,prime-rs: Tabs component (PrimeNG port)
+2026-11-18T13:46:19.227762Z,copenode,0.0.1,0,0,https://github.com/copenode/copenode,copenode — node orchestration platform. Autonomy engineered around systemic stability. Name reservation; active code lives in the TypeScript monorepo (@copenode/core).
+2026-11-18T13:47:52.688438Z,biome_markdown_formatter,0.7.3,0,0,https://github.com/biomejs/biome,Biome's Markdown formatter
+2026-11-18T13:50:20.43628Z,super-router-store-postgres,0.2.0,0,0,https://github.com/Super-Solution/super-router,PostgreSQL DataStore for Super Router on the shared migrations.
+2026-11-18T13:51:20.282388Z,unitrait-riscv,0.1.0,0,0,https://github.com/jorgeandrecastro/embassy-riscv,"Traits with a single global implementation, resolved at link time"
+2026-11-18T13:53:11.659919Z,cargo-kinu,0.2.2,0,0,https://github.com/KinuUI/kinu,Install editable Kinu components and themes into Rust applications.
+2026-11-18T13:55:57.198078Z,prime-tag,0.1.0,0,0,https://github.com/anton-avramchuk/prime-rs,prime-rs: Tag component (PrimeNG port)
+2026-11-18T13:56:23.758202Z,koliseo-sys,0.0.0,0,0,https://github.com/jgabaut/koliseo-rs,Raw FFI bindings for koliseo
+2026-11-18T13:56:27.524024Z,api-gateway,0.1.0,0,0,https://github.com/hodfords-solutions/rust-api-gateway,"An API gateway for axum and Tokio that builds its routes from upstream OpenAPI documents, with middleware, Redis-backed rate limiting, WebSocket proxying and an optional MCP server. A Rust port of @h…"
+2026-11-18T13:56:38.269495Z,koliseo,0.0.0,0,0,https://github.com/jgabaut/koliseo-rs,Safe Rust bindings for koliseo
+2026-11-18T13:57:53.254883Z,biome_package,0.7.3,0,0,https://github.com/biomejs/biome,Workspace package handler
+2026-11-18T13:58:10.200248Z,shitsukan,0.1.0,0,0,,Placeholder
+2026-11-18T14:00:15.923717Z,embassy-executor-timer-queue-riscv,0.1.0,0,0,https://github.com/jorgeandrecastro/embassy-riscv,Timer queue item and interface between embassy-executor and timer queues
+2026-11-18T14:05:59.512044Z,prime-theme,0.1.0,0,0,https://github.com/anton-avramchuk/prime-rs,prime-rs: static CSS of the Aura theme
+2026-11-18T14:07:52.618191Z,biome_project_layout,0.7.3,0,0,https://github.com/biomejs/biome,Data structure for tracking projects and their packages
+2026-11-18T14:10:16.790106Z,embassy-time-queue-utils-riscv,0.1.0,0,0,https://github.com/jorgeandrecastro/embassy-riscv,Timer queue driver trait for embassy-time
+2026-11-18T14:11:16.33007Z,branded-index,0.1.0,0,0,https://github.com/dahankzter/branded-index,"Branded indices: pay the bounds check once, at validation, instead of on every access"
+2026-11-18T14:13:53.186026Z,said-core,0.0.1,0,0,,Reader and writer for the open .said memory format. Name reserved; the first release is coming.
+2026-11-18T14:14:07.426051Z,asksaid,0.0.1,0,0,,"Rust SDK for .said, the memory file any AI can use. Name reserved; the first release is coming."
+2026-11-18T14:15:49.034706Z,rand_mwcx,0.1.0,0,0,https://github.com/rust-random/rngs,Scrambled multiply-with-carry random number generators
+2026-11-18T14:16:02.555607Z,prime-timeline,0.1.0,0,0,https://github.com/anton-avramchuk/prime-rs,prime-rs: Timeline component (PrimeNG port)
+2026-11-18T14:16:32.87279Z,saidhome,0.0.1,0,0,,"SAIDHOME Inc., makers of .said, the memory file any AI can use. Name reserved; the first release is coming."
+2026-11-18T14:17:53.439806Z,biome_resolver,0.7.3,0,0,https://github.com/biomejs/biome,Responsible for resolving dependency path
+2026-11-18T14:18:18.519502Z,pandleanpcs,0.4.0,0,0,,Reference openings for sparse univariate polynomials over GF(2^128)

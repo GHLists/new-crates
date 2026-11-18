@@ -8,67 +8,63 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-18 13:21 UTC
+## Latest list — 2026-11-18 14:19 UTC
 
-New crates published between 2026-11-18 12:20 UTC and 2026-11-18 13:21 UTC.
+New crates published between 2026-11-18 13:21 UTC and 2026-11-18 14:19 UTC.
 
-[Full CSV](data/new-crates-2026-11-18T13-21-23-734974Z.csv)
+[Full CSV](data/new-crates-2026-11-18T14-19-02-840379Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-18 12:21:35 | [name-sayer](https://crates.io/crates/name-sayer) | 0.0.1 | 0 | authoritative DNS server with blocklist features |
-| 2026-11-18 12:23:07 | [blastr](https://crates.io/crates/blastr) | 0.1.1 | 0 | Shows what a Rust code change can affect |
-| 2026-11-18 12:27:52 | [biome_html_syntax](https://crates.io/crates/biome_html_syntax) | 0.7.3 | 0 | SyntaxKind and common rowan definitions for biome_html_parser |
-| 2026-11-18 12:29:41 | [datex2](https://crates.io/crates/datex2) | 0.0.1 | 0 | Unofficial DATEX II implementation in Rust for road traffic and travel informat… |
-| 2026-11-18 12:30:54 | [mrk-cli](https://crates.io/crates/mrk-cli) | 0.9.0 | 0 | Render Markdown beautifully in the terminal: syntax highlighting, tables, theme… |
-| 2026-11-18 12:33:27 | [frust-markdown-editor](https://crates.io/crates/frust-markdown-editor) | 0.3.1 | 0 | A Word-style WYSIWYG CommonMark editor widget for Frust |
-| 2026-11-18 12:34:18 | [termux-backup](https://crates.io/crates/termux-backup) | 1.0.0 | 0 | A Rust program to backup and restore your Termux home and sysroot directories. |
-| 2026-11-18 12:35:44 | [decklink-sys](https://crates.io/crates/decklink-sys) | 0.1.0 | 0 | Low-level C ABI bindings for Blackmagic DeckLink SDK 16.0 |
-| 2026-11-18 12:37:53 | [biome_html_factory](https://crates.io/crates/biome_html_factory) | 0.7.3 | 0 | Utilities to create HTML AST for biome_html_parser |
-| 2026-11-18 12:40:46 | [rust-decklink](https://crates.io/crates/rust-decklink) | 0.1.0 | 0 | Safe, cross-platform, runtime-agnostic DeckLink capture and playout |
-| 2026-11-18 12:42:48 | [brokk-mj-sessionwiki](https://crates.io/crates/brokk-mj-sessionwiki) | 0.0.0 | 0 | Mjolnir's session history index: keeping it in sync and answering searches over… |
-| 2026-11-18 12:47:53 | [biome_html_formatter](https://crates.io/crates/biome_html_formatter) | 0.7.3 | 0 | Biome's HTML formatter |
-| 2026-11-18 12:49:08 | [brokk-mj-build-cache](https://crates.io/crates/brokk-mj-build-cache) | 0.0.0 | 0 | The build, clone and tool caches Mjolnir keeps on a session's host (name reserv… |
-| 2026-11-18 12:52:42 | [adamo-zenoh-link-ws](https://crates.io/crates/adamo-zenoh-link-ws) | 1.9.0-adamo.1.0.28 | 0 | Internal crate for zenoh. |
-| 2026-11-18 12:52:59 | [adamo-zenoh-link](https://crates.io/crates/adamo-zenoh-link) | 1.9.0-adamo.1.0.28 | 0 | Internal crate for zenoh. |
-| 2026-11-18 12:53:17 | [adamo-zenoh-crypto](https://crates.io/crates/adamo-zenoh-crypto) | 1.9.0-adamo.1.0.28 | 0 | Internal crate for zenoh. |
-| 2026-11-18 12:53:34 | [adamo-zenoh-uring](https://crates.io/crates/adamo-zenoh-uring) | 1.9.0-adamo.1.0.28 | 0 | Internal crate for zenoh. |
-| 2026-11-18 12:53:38 | [brokk-mj-session-types](https://crates.io/crates/brokk-mj-session-types) | 0.0.0 | 0 | Plan and failure types shared by the parts of Mjolnir that run a session (name… |
-| 2026-11-18 12:53:53 | [adamo-zenoh-transport](https://crates.io/crates/adamo-zenoh-transport) | 1.9.0-adamo.1.0.28 | 0 | Internal crate for zenoh. |
-| 2026-11-18 12:54:14 | [nightwatch-ndr](https://crates.io/crates/nightwatch-ndr) | 0.1.0 | 0 | Passive network threat detection engine with offline PCAP analysis, declarative… |
-| 2026-11-18 12:56:12 | [adamo-zenoh-plugin-trait](https://crates.io/crates/adamo-zenoh-plugin-trait) | 1.9.0-adamo.1.0.28 | 0 | Zenoh: The Zero Overhead Pub/Sub/Query Protocol. |
-| 2026-11-18 12:56:34 | [openai-mock-server](https://crates.io/crates/openai-mock-server) | 0.1.0 | 0 | A scripted mock of the OpenAI API for tests, served by an axum server generated… |
-| 2026-11-18 12:57:53 | [biome_html_parser](https://crates.io/crates/biome_html_parser) | 0.7.3 | 0 | Biome's HTML/Astro/Svelte parser |
-| 2026-11-18 12:59:03 | [demongrep](https://crates.io/crates/demongrep) | 0.1.0 | 0 | Fast, local semantic code search powered by Rust |
-| 2026-11-18 12:59:55 | [super-router-pricing](https://crates.io/crates/super-router-pricing) | 0.2.0 | 0 | Exact big-integer pricing for Super Router: Charge, Bound and CompileCreditPric… |
-| 2026-11-18 12:59:55 | [super-router-sse](https://crates.io/crates/super-router-sse) | 0.2.0 | 0 | Bounded server-sent-events reader for provider adapters. |
-| 2026-11-18 12:59:58 | [super-router-contracts](https://crates.io/crates/super-router-contracts) | 0.2.0 | 0 | Wire types, strict parsing of untrusted JSON and canonical JSON for Super Route… |
-| 2026-11-18 12:59:59 | [super-router-provider-anthropic](https://crates.io/crates/super-router-provider-anthropic) | 0.2.0 | 0 | Anthropic Messages API adapter. |
-| 2026-11-18 13:00:00 | [super-router-provider-openai](https://crates.io/crates/super-router-provider-openai) | 0.2.0 | 0 | OpenAI Responses API adapter. |
-| 2026-11-18 13:00:39 | [lambdadx](https://crates.io/crates/lambdadx) | 0.1.0 | 0 | MaiMaiDX Chart Studio |
-| 2026-11-18 13:03:09 | [testifyguru](https://crates.io/crates/testifyguru) | 0.1.0 | 0 | testify-style fluent assertions for Rust - assert_that(value).is_equal_to(x).co… |
-| 2026-11-18 13:03:43 | [tablo-audit](https://crates.io/crates/tablo-audit) | 0.11.0 | 0 | The audit log for Tablo panels, built on Tablo's public API, re-exported as `ta… |
-| 2026-11-18 13:04:59 | [prime-splitter](https://crates.io/crates/prime-splitter) | 0.1.0 | 0 | prime-rs: Splitter component (PrimeNG port) |
-| 2026-11-18 13:05:05 | [argoshot](https://crates.io/crates/argoshot) | 0.1.0 | 0 | Official client for the Argoshot screenshot API: screenshots, PDFs and signed o… |
-| 2026-11-18 13:05:38 | [rp-pac-riscv](https://crates.io/crates/rp-pac-riscv) | 0.1.0 | 0 | Peripheral Access Crate (PAC) for Raspberry Pi Silicon chips (RP2040, RP235x).… |
-| 2026-11-18 13:07:54 | [biome_js_control_flow](https://crates.io/crates/biome_js_control_flow) | 0.7.3 | 0 | JavaScript control-flow graph construction and semantic service |
-| 2026-11-18 13:09:10 | [embassy-hal-internal-riscv](https://crates.io/crates/embassy-hal-internal-riscv) | 0.1.0 | 0 | Internal implementation details for Embassy HALs. DO NOT USE DIRECTLY. |
-| 2026-11-18 13:09:27 | [canic-management-protocol](https://crates.io/crates/canic-management-protocol) | 0.222.0 | 0 | Bounded child management authority and evidence |
-| 2026-11-18 13:09:32 | [canic-management](https://crates.io/crates/canic-management) | 0.222.0 | 0 | Reusable bounded child management engine |
-| 2026-11-18 13:09:35 | [canic-root](https://crates.io/crates/canic-root) | 0.222.0 | 0 | Root for bounded controller-approved application canisters |
-| 2026-11-18 13:10:15 | [super-router-routing](https://crates.io/crates/super-router-routing) | 0.2.0 | 0 | Offering selection for Super Router: hard limits, weighted scoring and ordering. |
-| 2026-11-18 13:12:12 | [brrrty-node](https://crates.io/crates/brrrty-node) | 0.0.22 | 0 | Runs an Eleventy site's JavaScript data files in the site's own Node, for Brrrt… |
-| 2026-11-18 13:13:48 | [zodguru](https://crates.io/crates/zodguru) | 0.1.0 | 0 | zod-style schema validation for Rust - composable builders that validate serde_… |
-| 2026-11-18 13:14:03 | [qxide](https://crates.io/crates/qxide) | 0.1.0 | 0 | Early experiment for Qxide, a Rust-like quantum/classical language: qubit owner… |
-| 2026-11-18 13:15:14 | [prime-stepper](https://crates.io/crates/prime-stepper) | 0.1.0 | 0 | prime-rs: Stepper component (PrimeNG port) |
-| 2026-11-18 13:15:35 | [brokk-mj-worker-staging](https://crates.io/crates/brokk-mj-worker-staging) | 0.0.0 | 0 | Putting the Mjolnir worker, its harness and its profile onto a session's target… |
-| 2026-11-18 13:15:59 | [osd](https://crates.io/crates/osd) | 0.1.0 | 0 | The reference reader of Open Synth Descriptors: descriptors read strictly into… |
-| 2026-11-18 13:16:05 | [osd-formats](https://crates.io/crates/osd-formats) | 0.1.0 | 0 | Open Synth Descriptors to and from the formats others use: MIDI CSV tables, Ele… |
-| 2026-11-18 13:16:10 | [osd-cli](https://crates.io/crates/osd-cli) | 0.1.0 | 0 | The osd command: validate, convert and start an Open Synth Descriptors file. |
-| 2026-11-18 13:16:29 | [atman-client](https://crates.io/crates/atman-client) | 1.23.0 | 0 | Typed native and HTTP clients for atman runtime hosts |
-| 2026-11-18 13:17:54 | [biome_grit_patterns](https://crates.io/crates/biome_grit_patterns) | 0.7.3 | 0 | Biome implementation for Grit Patterns |
-| 2026-11-18 13:18:00 | [pollyguru](https://crates.io/crates/pollyguru) | 0.1.0 | 0 | Polly-style resilience for Rust - retry with exponential backoff and jitter, ci… |
-| 2026-11-18 13:20:14 | [super-router-router](https://crates.io/crates/super-router-router) | 0.2.0 | 0 | The Super Router data plane: idempotent admission, reserve, execute and settle. |
+| 2026-11-18 13:23:47 | [sensai](https://crates.io/crates/sensai) | 0.0.0 | 0 | Reserved for the SensAI inference engine. |
+| 2026-11-18 13:23:50 | [sensai-core](https://crates.io/crates/sensai-core) | 0.0.0 | 0 | Reserved for the SensAI inference engine. |
+| 2026-11-18 13:23:52 | [sensai-cli](https://crates.io/crates/sensai-cli) | 0.0.0 | 0 | Reserved for the SensAI inference engine. |
+| 2026-11-18 13:24:33 | [fmtguru](https://crates.io/crates/fmtguru) | 0.1.0 | 0 | runtime string templates for Rust - named and positional placeholders like {nam… |
+| 2026-11-18 13:24:36 | [richguru](https://crates.io/crates/richguru) | 0.1.0 | 0 | rich-style terminal output for Rust - ANSI colors, styled text and aligned tabl… |
+| 2026-11-18 13:24:58 | [embassy-usb-driver-riscv](https://crates.io/crates/embassy-usb-driver-riscv) | 0.1.0 | 0 | Driver trait for `embassy-usb`, an async USB device stack for embedded devices. |
+| 2026-11-18 13:25:18 | [prime-steps](https://crates.io/crates/prime-steps) | 0.1.0 | 0 | prime-rs: Steps component (PrimeNG port) |
+| 2026-11-18 13:25:44 | [embassy-sync-riscv](https://crates.io/crates/embassy-sync-riscv) | 0.1.0 | 0 | no-std, no-alloc synchronization primitives with async support |
+| 2026-11-18 13:26:27 | [embassy-time-driver-riscv](https://crates.io/crates/embassy-time-driver-riscv) | 0.1.0 | 0 | Driver trait for embassy-time |
+| 2026-11-18 13:26:53 | [vowp-agent](https://crates.io/crates/vowp-agent) | 0.4.0 | 0 | Mac-side v0.4 local agent: config, node key, transport and frame client. |
+| 2026-11-18 13:27:08 | [sqlive](https://crates.io/crates/sqlive) | 0.0.0 | 0 | Live queries over SQLite: reruns a query when a write changes rows it reads. |
+| 2026-11-18 13:27:13 | [embassy-executor-macros-riscv](https://crates.io/crates/embassy-executor-macros-riscv) | 0.1.0 | 0 | macros for creating the entry point and tasks for embassy-executor |
+| 2026-11-18 13:27:52 | [biome_jsdoc_comment](https://crates.io/crates/biome_jsdoc_comment) | 0.7.3 | 0 | JSDoc comment handling helpers |
+| 2026-11-18 13:28:59 | [embassy-time-riscv](https://crates.io/crates/embassy-time-riscv) | 0.1.2 | 0 | Instant and Duration for embedded no-std systems, with async timer support |
+| 2026-11-18 13:30:17 | [super-router-server](https://crates.io/crates/super-router-server) | 0.2.0 | 0 | HTTP API of the Super Router data plane as an axum router. |
+| 2026-11-18 13:31:22 | [nazo-passkey](https://crates.io/crates/nazo-passkey) | 0.2.0 | 0 | WebAuthn relying party verifier with a pure-Rust default and optional native AW… |
+| 2026-11-18 13:31:36 | [embassy-embedded-hal-riscv](https://crates.io/crates/embassy-embedded-hal-riscv) | 0.1.0 | 0 | Collection of utilities to use `embedded-hal` and `embedded-storage` traits wit… |
+| 2026-11-18 13:31:43 | [gadk-eval-monitor](https://crates.io/crates/gadk-eval-monitor) | 0.3.0 | 0 | Production eval monitors for gadk: grade logged agent runs with gadk-eval score… |
+| 2026-11-18 13:33:29 | [kaya-vibes](https://crates.io/crates/kaya-vibes) | 0.1.0 | 0 | A living record of exploration: compile the artifacts a project already produce… |
+| 2026-11-18 13:35:37 | [prime-table](https://crates.io/crates/prime-table) | 0.1.0 | 0 | prime-rs: Table component (port of PrimeNG DataTable), stage 2 |
+| 2026-11-18 13:37:52 | [biome_json_value](https://crates.io/crates/biome_json_value) | 0.7.3 | 0 | Mutable JSON values constructable from biome_json_syntax |
+| 2026-11-18 13:38:23 | [opengrid-sql](https://crates.io/crates/opengrid-sql) | 0.19.0 | 0 | One SQL compiler for opengrid's query vocabulary, with a dialect per database |
+| 2026-11-18 13:38:32 | [opengrid-serve](https://crates.io/crates/opengrid-serve) | 0.19.0 | 0 | The opengrid-server command: read a database's schema, propose a configuration,… |
+| 2026-11-18 13:39:54 | [unitrait-macros-riscv](https://crates.io/crates/unitrait-macros-riscv) | 0.1.0 | 0 | Implementation detail of the `unitrait` crate |
+| 2026-11-18 13:40:15 | [super-router-store-memory](https://crates.io/crates/super-router-store-memory) | 0.2.0 | 0 | In-memory DataStore for Super Router: tests, demos and single-process self-host… |
+| 2026-11-18 13:45:54 | [prime-tabs](https://crates.io/crates/prime-tabs) | 0.1.0 | 0 | prime-rs: Tabs component (PrimeNG port) |
+| 2026-11-18 13:46:19 | [copenode](https://crates.io/crates/copenode) | 0.0.1 | 0 | copenode — node orchestration platform. Autonomy engineered around systemic sta… |
+| 2026-11-18 13:47:52 | [biome_markdown_formatter](https://crates.io/crates/biome_markdown_formatter) | 0.7.3 | 0 | Biome's Markdown formatter |
+| 2026-11-18 13:50:20 | [super-router-store-postgres](https://crates.io/crates/super-router-store-postgres) | 0.2.0 | 0 | PostgreSQL DataStore for Super Router on the shared migrations. |
+| 2026-11-18 13:51:20 | [unitrait-riscv](https://crates.io/crates/unitrait-riscv) | 0.1.0 | 0 | Traits with a single global implementation, resolved at link time |
+| 2026-11-18 13:53:11 | [cargo-kinu](https://crates.io/crates/cargo-kinu) | 0.2.2 | 0 | Install editable Kinu components and themes into Rust applications. |
+| 2026-11-18 13:55:57 | [prime-tag](https://crates.io/crates/prime-tag) | 0.1.0 | 0 | prime-rs: Tag component (PrimeNG port) |
+| 2026-11-18 13:56:23 | [koliseo-sys](https://crates.io/crates/koliseo-sys) | 0.0.0 | 0 | Raw FFI bindings for koliseo |
+| 2026-11-18 13:56:27 | [api-gateway](https://crates.io/crates/api-gateway) | 0.1.0 | 0 | An API gateway for axum and Tokio that builds its routes from upstream OpenAPI… |
+| 2026-11-18 13:56:38 | [koliseo](https://crates.io/crates/koliseo) | 0.0.0 | 0 | Safe Rust bindings for koliseo |
+| 2026-11-18 13:57:53 | [biome_package](https://crates.io/crates/biome_package) | 0.7.3 | 0 | Workspace package handler |
+| 2026-11-18 13:58:10 | [shitsukan](https://crates.io/crates/shitsukan) | 0.1.0 | 0 | Placeholder |
+| 2026-11-18 14:00:15 | [embassy-executor-timer-queue-riscv](https://crates.io/crates/embassy-executor-timer-queue-riscv) | 0.1.0 | 0 | Timer queue item and interface between embassy-executor and timer queues |
+| 2026-11-18 14:05:59 | [prime-theme](https://crates.io/crates/prime-theme) | 0.1.0 | 0 | prime-rs: static CSS of the Aura theme |
+| 2026-11-18 14:07:52 | [biome_project_layout](https://crates.io/crates/biome_project_layout) | 0.7.3 | 0 | Data structure for tracking projects and their packages |
+| 2026-11-18 14:10:16 | [embassy-time-queue-utils-riscv](https://crates.io/crates/embassy-time-queue-utils-riscv) | 0.1.0 | 0 | Timer queue driver trait for embassy-time |
+| 2026-11-18 14:11:16 | [branded-index](https://crates.io/crates/branded-index) | 0.1.0 | 0 | Branded indices: pay the bounds check once, at validation, instead of on every… |
+| 2026-11-18 14:13:53 | [said-core](https://crates.io/crates/said-core) | 0.0.1 | 0 | Reader and writer for the open .said memory format. Name reserved; the first re… |
+| 2026-11-18 14:14:07 | [asksaid](https://crates.io/crates/asksaid) | 0.0.1 | 0 | Rust SDK for .said, the memory file any AI can use. Name reserved; the first re… |
+| 2026-11-18 14:15:49 | [rand_mwcx](https://crates.io/crates/rand_mwcx) | 0.1.0 | 0 | Scrambled multiply-with-carry random number generators |
+| 2026-11-18 14:16:02 | [prime-timeline](https://crates.io/crates/prime-timeline) | 0.1.0 | 0 | prime-rs: Timeline component (PrimeNG port) |
+| 2026-11-18 14:16:32 | [saidhome](https://crates.io/crates/saidhome) | 0.0.1 | 0 | SAIDHOME Inc., makers of .said, the memory file any AI can use. Name reserved;… |
+| 2026-11-18 14:17:53 | [biome_resolver](https://crates.io/crates/biome_resolver) | 0.7.3 | 0 | Responsible for resolving dependency path |
+| 2026-11-18 14:18:18 | [pandleanpcs](https://crates.io/crates/pandleanpcs) | 0.4.0 | 0 | Reference openings for sparse univariate polynomials over GF(2^128) |
 
 ## Data source
 
