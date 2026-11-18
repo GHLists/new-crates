@@ -1,0 +1,32 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-18T03:21:54.858924Z,datasus-core,0.1.0,0,0,https://github.com/StrategicProjects/datasus-rs,Dependency-free reader for DATASUS DBC/DBF files (PKWare DCL decompression + dBase parsing)
+2026-11-18T03:22:01.920707Z,datasus-arrow,0.1.0,0,0,https://github.com/StrategicProjects/datasus-rs,Read DATASUS DBC/DBF files into Apache Arrow record batches
+2026-11-18T03:22:12.090555Z,datasus-cli,0.1.0,0,0,https://github.com/StrategicProjects/datasus-rs,"Command-line converter for DATASUS DBC/DBF files (Parquet, CSV, DBF)"
+2026-11-18T03:25:37.659934Z,rss-proxy,0.1.0,0,0,https://github.com/rust-rss-proxy/rss-proxy,"A high-performance, extensible RSS/Atom proxy and filtering server written in Rust"
+2026-11-18T03:28:55.465736Z,gadk-launcher,0.2.2,0,0,https://github.com/sirhco/gadk-rust,"Run a gadk agent from the command line: console, REST web server, A2A and web UI"
+2026-11-18T03:39:01.373169Z,gadk-prompts-cli,0.2.2,0,0,https://github.com/sirhco/gadk-rust,The gadk-prompts command-line tool
+2026-11-18T03:40:54.741254Z,sad-chrono,0.4.46,0,0,https://github.com/sadco-io/sad-chrono,"Date and time library for Rust: a maintained, API-compatible fork of chrono with security fixes"
+2026-11-18T03:49:07.139206Z,gadk,0.2.2,0,0,https://github.com/sirhco/gadk-rust,"Agent Development Kit for Rust: build, run and deploy LLM agents with Gemini, Claude and OpenAI models"
+2026-11-18T03:49:44.344968Z,kombuse-diagrams,0.1.0,0,0,,Generates structural Mermaid diagrams from Rust source and checks documentation against its code
+2026-11-18T03:50:44.439792Z,fleetreach-sinks,1.7.0,0,0,https://github.com/tess-fun/fleetreach,"Vulnerable-function (sink) data for fleetreach: curated sink records, a proposer that reads fix commits, and method-level jar diffs."
+2026-11-18T03:50:50.556362Z,fleetreach-jvm,1.7.0,0,0,https://github.com/tess-fun/fleetreach,JVM call graphs for fleetreach: reads class files and jars as data and answers which sink methods are reached.
+2026-11-18T03:50:55.063179Z,fleetreach-clr,1.7.0,0,0,https://github.com/tess-fun/fleetreach,".NET assemblies for fleetreach: reads ECMA-335 metadata and IL as data, for call graphs."
+2026-11-18T03:52:01.959928Z,morningstar-core,0.1.0,0,0,,Platform- and GPU-independent foundation types for Morningstar.
+2026-11-18T03:52:05.157368Z,morningstar-gpu,0.1.0,0,0,,"Morningstar's GPU backend: device, surface and frame submission on top of wgpu."
+2026-11-18T03:52:06.716104Z,morningstar-layout,0.1.0,0,0,,Morningstar's layout engine: turns a tree of boxes with constraints into rectangles.
+2026-11-18T03:52:07.609598Z,morningstar-text,0.1.0,0,0,,"Morningstar's text subsystem: font loading, shaping, layout and glyph rasterisation."
+2026-11-18T03:52:12.040493Z,morningstar-runtime,0.1.0,0,0,,Morningstar's application runtime: lifecycle coordination and frame production.
+2026-11-18T03:53:19.715448Z,ignit_input,1.6.0,0,0,https://forgejo.sakul-flee.de/SakulFlee/Ignit,"Keyboard, mouse, touch, and gamepad input for Ignit"
+2026-11-18T03:53:24.742674Z,ignit_macros,1.6.0,0,0,https://forgejo.sakul-flee.de/SakulFlee/Ignit,Procedural macros for Ignit applications
+2026-11-18T03:53:33.291452Z,ignit_shadow,1.6.0,0,0,https://forgejo.sakul-flee.de/SakulFlee/Ignit,"Shadow mapping, cascades, and shadow resources for Ignit"
+2026-11-18T03:53:39.160052Z,ignit_world_environment,1.6.0,0,0,https://forgejo.sakul-flee.de/SakulFlee/Ignit,HDR environments and image-based lighting for Ignit
+2026-11-18T03:54:15.821772Z,ignit_ecs_bridge,1.6.0,0,0,https://forgejo.sakul-flee.de/SakulFlee/Ignit,Engine ECS components and resources for Ignit
+2026-11-18T03:56:03.366001Z,ignit_render_graph,1.6.0,0,0,https://forgejo.sakul-flee.de/SakulFlee/Ignit,Render graph construction and pass scheduling for Ignit
+2026-11-18T03:58:28.823184Z,aria-agent-plugin,1.11.2,0,0,,"Capability-seam plugin kernel: manifests, roles, registry assembly with fail-closed validation."
+2026-11-18T03:58:39.746464Z,aria-agent-tools,1.11.2,0,0,,Built-in tool families (fs / shell / jobs / terminal / skills / web / ask / plan / todo) routed through the capability seams.
+2026-11-18T03:59:12.437837Z,gadk-console,0.2.2,0,0,https://github.com/sirhco/gadk-rust,A local web console for gadk traces and prompts
+2026-11-18T04:03:01.490599Z,morningstar-android,0.1.0,0,0,,Android host integration for Morningstar: JNI entry points and the render thread.
+2026-11-18T04:06:05.875498Z,ignit_text,1.6.0,0,0,https://forgejo.sakul-flee.de/SakulFlee/Ignit,SDF font atlases and text mesh generation for Ignit
+2026-11-18T04:08:17.45403Z,lilbox,0.1.0,0,0,https://github.com/lilco-dev/lilbox,A lil exe.dev you run on your own box
+2026-11-18T04:13:58.371442Z,morningstar-devtools,0.1.0,0,0,,"Development tooling for Morningstar apps: render an app to an image without a device, and compare it with a design."
+2026-11-18T04:16:07.773441Z,ignit_renderer,1.6.0,0,0,https://forgejo.sakul-flee.de/SakulFlee/Ignit,"Main, 2D, text, and UI renderers for Ignit"

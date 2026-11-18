@@ -8,45 +8,45 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-18 03:19 UTC
+## Latest list — 2026-11-18 04:19 UTC
 
-New crates published between 2026-11-18 02:21 UTC and 2026-11-18 03:19 UTC.
+New crates published between 2026-11-18 03:19 UTC and 2026-11-18 04:19 UTC.
 
-[Full CSV](data/new-crates-2026-11-18T03-19-31-579324Z.csv)
+[Full CSV](data/new-crates-2026-11-18T04-19-03-771449Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-18 02:26:03 | [ignit_shader_engine](https://crates.io/crates/ignit_shader_engine) | 1.6.0 | 0 | Reusable WGSL nodes for engine rendering in Ignit |
-| 2026-11-18 02:28:22 | [gadk-eval](https://crates.io/crates/gadk-eval) | 0.2.1 | 0 | Offline evaluation of gadk agents: eval sets, scorers and an LLM judge |
-| 2026-11-18 02:36:08 | [ignit_shader_pbr](https://crates.io/crates/ignit_shader_pbr) | 1.6.0 | 0 | Reusable WGSL PBR nodes for Ignit |
-| 2026-11-18 02:38:27 | [gadk-prompts-firestore](https://crates.io/crates/gadk-prompts-firestore) | 0.2.1 | 0 | Firestore store for gadk-prompts |
-| 2026-11-18 02:46:07 | [ignit_importer_gltf](https://crates.io/crates/ignit_importer_gltf) | 1.6.0 | 0 | Asynchronous glTF 2.0 importer for Ignit |
-| 2026-11-18 02:47:21 | [kombuse-describe](https://crates.io/crates/kombuse-describe) | 0.1.0 | 0 | A command-line tool says what its command line is: `<tool> describe --json` pri… |
-| 2026-11-18 02:48:32 | [gadk-telemetry](https://crates.io/crates/gadk-telemetry) | 0.2.1 | 0 | OpenTelemetry tracing, metrics and logs for gadk, with Google Cloud export |
-| 2026-11-18 02:52:52 | [kombuse-microvm-guest](https://crates.io/crates/kombuse-microvm-guest) | 0.1.0 | 0 | The guest side of microvm: the job and status a run passes to its init (microvm… |
-| 2026-11-18 02:52:58 | [kombuse-microvm-krun-worker](https://crates.io/crates/kombuse-microvm-krun-worker) | 0.1.0 | 0 | The process that runs one libkrun VM: it loads the pinned library, confines its… |
-| 2026-11-18 02:53:09 | [kombuse-microvm](https://crates.io/crates/kombuse-microvm) | 0.1.0 | 0 | One command in a fresh microVM, on Firecracker or libkrun, chosen explicitly be… |
-| 2026-11-18 02:53:18 | [kombuse-room](https://crates.io/crates/kombuse-room) | 0.1.0 | 0 | Environments for persistent microVM workspaces: definitions from devcontainer.j… |
-| 2026-11-18 02:53:53 | [meshdiet-core](https://crates.io/crates/meshdiet-core) | 0.1.0 | 0 | Engine behind meshdiet: reads GLB and glTF files and reports what makes them he… |
-| 2026-11-18 02:54:03 | [meshdiet](https://crates.io/crates/meshdiet) | 0.1.0 | 0 | Find the 3D models that make your website slow: audits GLB and glTF weight. |
-| 2026-11-18 02:55:06 | [meister](https://crates.io/crates/meister) | 0.5.0 | 0 | Qompass SFW game maker MCP: authoring and project state for SFW games, with a l… |
-| 2026-11-18 02:55:19 | [tackle-mcp](https://crates.io/crates/tackle-mcp) | 0.3.0 | 0 | Tackle - live game-editor broker as an MCP stdio server (U1 read core, U2 write… |
-| 2026-11-18 02:56:37 | [lumen-mcp](https://crates.io/crates/lumen-mcp) | 2.0.2 | 0 | Lux in motu - cross-platform, cross-media deterministic conversion engine: 2D a… |
-| 2026-11-18 02:57:15 | [phlow-mcp](https://crates.io/crates/phlow-mcp) | 1.0.1 | 0 | Newline-delimited JSON-RPC (MCP) server for the phlow agent runtime |
-| 2026-11-18 02:57:55 | [skills-mgr](https://crates.io/crates/skills-mgr) | 0.1.0 | 0 | Read the skills-mgr catalog and skill files from Rust without subprocesses |
-| 2026-11-18 02:58:38 | [gadk-vertexai](https://crates.io/crates/gadk-vertexai) | 0.2.1 | 0 | Vertex AI Agent Engine session, memory and Example Store services for gadk |
-| 2026-11-18 02:58:54 | [gradus](https://crates.io/crates/gradus) | 0.0.0 | 0 | A fast, native build tool for the JVM. |
-| 2026-11-18 02:59:03 | [osprey-core](https://crates.io/crates/osprey-core) | 0.1.0 | 0 | Core 64-byte aligned binary formats (.osi, .osv, .osr), FWHT, 1-Bit SuperKMeans… |
-| 2026-11-18 02:59:37 | [osprey-simd](https://crates.io/crates/osprey-simd) | 0.1.0 | 0 | Runtime-dispatched SIMD kernels (AVX-512 VPOPCNTDQ/BW, AVX2, ARM64 NEON, scalar… |
-| 2026-11-18 03:00:18 | [osprey-storage](https://crates.io/crates/osprey-storage) | 0.1.0 | 0 | Zero-copy memmap2 readers, TSP locality ordering, WaRP DP request coalescing, Z… |
-| 2026-11-18 03:00:51 | [osprey-cli](https://crates.io/crates/osprey-cli) | 0.1.0 | 0 | OspreyDB 100% CLI binary for deterministic Parquet/JSONL ingestion, S3Vec vecto… |
-| 2026-11-18 03:02:29 | [clauset](https://crates.io/crates/clauset) | 0.3.0 | 0 | Several Claude Code accounts on one Mac, sharing one ~/.claude |
-| 2026-11-18 03:05:37 | [sealwax-compose](https://crates.io/crates/sealwax-compose) | 0.4.0 | 0 | PDF documents written from laid-out pages: glyphs, paths, pictures and links. |
-| 2026-11-18 03:07:38 | [enigma-mcp](https://crates.io/crates/enigma-mcp) | 1.3.1 | 0 | Enigma MCP: memory server for an Obsidian vault |
-| 2026-11-18 03:08:43 | [gadk-agentregistry](https://crates.io/crates/gadk-agentregistry) | 0.2.1 | 0 | Client for the Google Cloud Agent Registry (A2A agents, MCP servers and models)… |
-| 2026-11-18 03:09:30 | [aws-s3-transfer](https://crates.io/crates/aws-s3-transfer) | 0.0.1 | 0 | Placeholder for Transfer Manager for Amazon S3 |
-| 2026-11-18 03:09:37 | [aws-s3-transfer-ext](https://crates.io/crates/aws-s3-transfer-ext) | 0.0.1 | 0 | Placeholder for extensions to Transfer Manager for Amazon S3 |
-| 2026-11-18 03:18:48 | [gadk-cli](https://crates.io/crates/gadk-cli) | 0.2.1 | 0 | The gadk deploy CLI: deploy gadk agents to Cloud Run and Vertex AI Agent Engine |
+| 2026-11-18 03:21:54 | [datasus-core](https://crates.io/crates/datasus-core) | 0.1.0 | 0 | Dependency-free reader for DATASUS DBC/DBF files (PKWare DCL decompression + dB… |
+| 2026-11-18 03:22:01 | [datasus-arrow](https://crates.io/crates/datasus-arrow) | 0.1.0 | 0 | Read DATASUS DBC/DBF files into Apache Arrow record batches |
+| 2026-11-18 03:22:12 | [datasus-cli](https://crates.io/crates/datasus-cli) | 0.1.0 | 0 | Command-line converter for DATASUS DBC/DBF files (Parquet, CSV, DBF) |
+| 2026-11-18 03:25:37 | [rss-proxy](https://crates.io/crates/rss-proxy) | 0.1.0 | 0 | A high-performance, extensible RSS/Atom proxy and filtering server written in R… |
+| 2026-11-18 03:28:55 | [gadk-launcher](https://crates.io/crates/gadk-launcher) | 0.2.2 | 0 | Run a gadk agent from the command line: console, REST web server, A2A and web UI |
+| 2026-11-18 03:39:01 | [gadk-prompts-cli](https://crates.io/crates/gadk-prompts-cli) | 0.2.2 | 0 | The gadk-prompts command-line tool |
+| 2026-11-18 03:40:54 | [sad-chrono](https://crates.io/crates/sad-chrono) | 0.4.46 | 0 | Date and time library for Rust: a maintained, API-compatible fork of chrono wit… |
+| 2026-11-18 03:49:07 | [gadk](https://crates.io/crates/gadk) | 0.2.2 | 0 | Agent Development Kit for Rust: build, run and deploy LLM agents with Gemini, C… |
+| 2026-11-18 03:49:44 | [kombuse-diagrams](https://crates.io/crates/kombuse-diagrams) | 0.1.0 | 0 | Generates structural Mermaid diagrams from Rust source and checks documentation… |
+| 2026-11-18 03:50:44 | [fleetreach-sinks](https://crates.io/crates/fleetreach-sinks) | 1.7.0 | 0 | Vulnerable-function (sink) data for fleetreach: curated sink records, a propose… |
+| 2026-11-18 03:50:50 | [fleetreach-jvm](https://crates.io/crates/fleetreach-jvm) | 1.7.0 | 0 | JVM call graphs for fleetreach: reads class files and jars as data and answers… |
+| 2026-11-18 03:50:55 | [fleetreach-clr](https://crates.io/crates/fleetreach-clr) | 1.7.0 | 0 | .NET assemblies for fleetreach: reads ECMA-335 metadata and IL as data, for cal… |
+| 2026-11-18 03:52:01 | [morningstar-core](https://crates.io/crates/morningstar-core) | 0.1.0 | 0 | Platform- and GPU-independent foundation types for Morningstar. |
+| 2026-11-18 03:52:05 | [morningstar-gpu](https://crates.io/crates/morningstar-gpu) | 0.1.0 | 0 | Morningstar's GPU backend: device, surface and frame submission on top of wgpu. |
+| 2026-11-18 03:52:06 | [morningstar-layout](https://crates.io/crates/morningstar-layout) | 0.1.0 | 0 | Morningstar's layout engine: turns a tree of boxes with constraints into rectan… |
+| 2026-11-18 03:52:07 | [morningstar-text](https://crates.io/crates/morningstar-text) | 0.1.0 | 0 | Morningstar's text subsystem: font loading, shaping, layout and glyph rasterisa… |
+| 2026-11-18 03:52:12 | [morningstar-runtime](https://crates.io/crates/morningstar-runtime) | 0.1.0 | 0 | Morningstar's application runtime: lifecycle coordination and frame production. |
+| 2026-11-18 03:53:19 | [ignit_input](https://crates.io/crates/ignit_input) | 1.6.0 | 0 | Keyboard, mouse, touch, and gamepad input for Ignit |
+| 2026-11-18 03:53:24 | [ignit_macros](https://crates.io/crates/ignit_macros) | 1.6.0 | 0 | Procedural macros for Ignit applications |
+| 2026-11-18 03:53:33 | [ignit_shadow](https://crates.io/crates/ignit_shadow) | 1.6.0 | 0 | Shadow mapping, cascades, and shadow resources for Ignit |
+| 2026-11-18 03:53:39 | [ignit_world_environment](https://crates.io/crates/ignit_world_environment) | 1.6.0 | 0 | HDR environments and image-based lighting for Ignit |
+| 2026-11-18 03:54:15 | [ignit_ecs_bridge](https://crates.io/crates/ignit_ecs_bridge) | 1.6.0 | 0 | Engine ECS components and resources for Ignit |
+| 2026-11-18 03:56:03 | [ignit_render_graph](https://crates.io/crates/ignit_render_graph) | 1.6.0 | 0 | Render graph construction and pass scheduling for Ignit |
+| 2026-11-18 03:58:28 | [aria-agent-plugin](https://crates.io/crates/aria-agent-plugin) | 1.11.2 | 0 | Capability-seam plugin kernel: manifests, roles, registry assembly with fail-cl… |
+| 2026-11-18 03:58:39 | [aria-agent-tools](https://crates.io/crates/aria-agent-tools) | 1.11.2 | 0 | Built-in tool families (fs / shell / jobs / terminal / skills / web / ask / pla… |
+| 2026-11-18 03:59:12 | [gadk-console](https://crates.io/crates/gadk-console) | 0.2.2 | 0 | A local web console for gadk traces and prompts |
+| 2026-11-18 04:03:01 | [morningstar-android](https://crates.io/crates/morningstar-android) | 0.1.0 | 0 | Android host integration for Morningstar: JNI entry points and the render threa… |
+| 2026-11-18 04:06:05 | [ignit_text](https://crates.io/crates/ignit_text) | 1.6.0 | 0 | SDF font atlases and text mesh generation for Ignit |
+| 2026-11-18 04:08:17 | [lilbox](https://crates.io/crates/lilbox) | 0.1.0 | 0 | A lil exe.dev you run on your own box |
+| 2026-11-18 04:13:58 | [morningstar-devtools](https://crates.io/crates/morningstar-devtools) | 0.1.0 | 0 | Development tooling for Morningstar apps: render an app to an image without a d… |
+| 2026-11-18 04:16:07 | [ignit_renderer](https://crates.io/crates/ignit_renderer) | 1.6.0 | 0 | Main, 2D, text, and UI renderers for Ignit |
 
 ## Data source
 
