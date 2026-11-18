@@ -1,0 +1,27 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-18T19:27:19.867412Z,borer-front,0.3.0,0,0,https://github.com/imjustprism/borer,What borer's front ends share outside the pure engine: where they look by default and how they write a project file.
+2026-11-18T19:28:48.663798Z,ztreamer-p2p,0.2.0,0,0,https://github.com/zcashlabs/ztreamer,The CompactTxStreamer service over the Zakura p2p network
+2026-11-18T19:31:46.860687Z,smolvm-smoltcp,0.13.1-smol.1,0,0,https://github.com/smol-machines/smolvm,smoltcp with the bounded IPv4 fragmentation fixes used by smolvm
+2026-11-18T19:32:07.313623Z,smolvm-paths,1.35.4,0,0,https://github.com/smol-machines/smolvm,Shared state directories for smolvm and its host libraries
+2026-11-18T19:34:00.529132Z,bastille-sim,0.0.1,0,0,,Reserved for bastille — open-source SPICE circuit simulator in Rust (github.com/bastille-sim/bastille).
+2026-11-18T19:36:36.077372Z,bastille,0.0.1,0,0,,Defensive name reservation for the bastille circuit simulator — see the bastille-sim crate.
+2026-11-18T19:37:44.181189Z,roundhouse-build,0.4.0,0,0,https://github.com/strawberyy-coconut/roundhouse,Build-time contract generation for roundhouse.
+2026-11-18T19:37:49.658696Z,roundhouse-cli,0.4.0,0,0,https://github.com/strawberyy-coconut/roundhouse,The `cargo roundhouse` command for build-time contract generation.
+2026-11-18T19:39:20.827767Z,ztreamer-import,0.2.0,0,0,https://github.com/zcashlabs/ztreamer,"The replica side of replication: fetch, verify and install sealed ranges"
+2026-11-18T19:40:00.602661Z,gsim-wasm,0.5.0,0,0,https://github.com/GLODI-Engineering/gsim-core,wasm-bindgen bindings exposing gsim-core to general-simulator-gui's frontend.
+2026-11-18T19:40:06.456907Z,gsim-py,0.5.0,0,0,https://github.com/GLODI-Engineering/gsim-core,PyO3 bindings exposing gsim-core to Python. Intended to become the implementation behind (and a drop-in successor for) general-simulator-gui's existing packages/gsim-model.
+2026-11-18T19:45:33.260141Z,mcp-serve-core,0.1.0,0,0,https://github.com/beantownbytes/mcp-serve-core,Shared native-MCP serving core for tool servers
+2026-11-18T19:48:55.435113Z,ztreamer-daemon,0.2.0,0,0,https://github.com/zcashlabs/ztreamer,"The ztreamer daemon: the node modes, the indexing, the head follower and the servers"
+2026-11-18T19:52:12.553665Z,confined,0.5.0-beta.1,0,0,https://github.com/rust-amplify/confined,Confined collections with compile-time size guarantees
+2026-11-18T19:53:33.825105Z,smithy-lang,0.0.1,0,0,https://github.com/smithy-lang/smithy-rs,Rust implementation of the Smithy IDL and model core (in development)
+2026-11-18T19:56:23.578912Z,gsim-rules,0.6.0,0,0,https://github.com/GLODI-Engineering/general-simulator,"Rules a simulation checks while it runs: a rule watches a quantity, a condition decides when it is violated, and the engine reports each violation as a pair of edge events -- one when it starts, one…"
+2026-11-18T19:58:13.052876Z,auto_morphic_core,0.1.0,0,0,https://github.com/alexdev/auto_morphic,"Core traits for auto_morphic: Morph, MorphResult, and MorphError"
+2026-11-18T19:59:21.034602Z,auto_morphic_macro,0.1.0,0,0,https://github.com/alexdev/auto_morphic,Procedural macro for auto_morphic — generates impl Morph<T> from #[derive(AutoMorph)]
+2026-11-18T20:00:26.52148Z,auto_morphic,0.1.0,0,0,https://github.com/alexdev/auto_morphic,"Zero-cost struct-to-struct mapping with derive macro — rename fields, transforms, skip, default, enums, and fallible morphing"
+2026-11-18T20:01:19.25082Z,snapfit-macros,0.1.0,0,0,https://github.com/marlon-sousa/snapfit-rs,"The procedural macro of snapfit, compile-time dependency injection"
+2026-11-18T20:01:21.822223Z,snapfit,0.1.0,0,0,https://github.com/marlon-sousa/snapfit-rs,"Compile-time verified, zero-cost dependency injection framework for Rust"
+2026-11-18T20:02:32.718666Z,ada-parse,1.1.0,0,0,https://github.com/junkdog/ada-md,"Syntax highlighting lexers for about 60 languages, with bat's scopes: ada-md's highlighter"
+2026-11-18T20:14:32.608927Z,oxpinyin,0.1.0-alpha.1,0,0,https://github.com/shenghaoc/oxpinyin,"Pinyin and Zhuyin parsing, decoding, and model storage. The Rust interface is unstable."
+2026-11-18T20:14:35.984399Z,oxpinyin-capi,0.1.0-alpha.1,0,0,https://github.com/shenghaoc/oxpinyin,"The libpinyin C ABI implementation, with libpinyin.so.15 release packages on Linux. The Rust interface is unstable."
+2026-11-18T20:14:37.092935Z,oxzhuyin-capi,0.1.0-alpha.1,0,0,https://github.com/shenghaoc/oxpinyin,"The libzhuyin C ABI implementation, with libzhuyin.so.15 release packages on Linux. The Rust interface is unstable."
+2026-11-18T20:16:24.546561Z,basemind-agents,0.1.0,0,0,https://github.com/Goldziher/basemind,"Launch a coding agent in another harness (Claude Code, Codex, ACP agents) with a brief, an identity and safety limits"
