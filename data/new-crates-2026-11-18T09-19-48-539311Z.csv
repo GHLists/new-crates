@@ -1,0 +1,31 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-18T08:24:37.046061Z,telegram-guru,0.1.0,0,0,https://github.com/StarcevAlexander/telegram-guru,"The complete Telegram Bot API client for Rust - all 193 methods and 425 types of Bot API 10.4, generated daily from the official spec. Async and sync, zero DSL, typed builders."
+2026-11-18T08:27:11.469905Z,graphrt-doc,0.1.0,0,0,https://github.com/BimaPangestu28/graphrt,"Document extraction node (PDF, Office, spreadsheets, HTML, e-mail, subtitles) for the graphrt workflow runtime."
+2026-11-18T08:28:01.574343Z,prime-orderlist,0.1.0,0,0,https://github.com/anton-avramchuk/prime-rs,prime-rs: OrderList component (PrimeNG port)
+2026-11-18T08:35:42.954547Z,taceo-oprf-store,0.1.0,0,0,https://github.com/TaceoLabs/oprf-service,Shared database storage layer for TACEO:OPRF
+2026-11-18T08:38:04.780189Z,prime-overlaybadge,0.1.0,0,0,https://github.com/anton-avramchuk/prime-rs,prime-rs: OverlayBadge component (port of PrimeNG)
+2026-11-18T08:40:06.263931Z,tauri-cordis-macros,0.2.0,0,0,https://github.com/TixXin/tauri-cordis,Procedural macro #[host_service] that exposes Rust functions to the tauri-cordis Node plugin host
+2026-11-18T08:40:18.387361Z,tauri-cordis,0.2.0,0,0,https://github.com/TixXin/tauri-cordis,Everything-is-a-plugin supervisor and JSON-RPC host bridge for Tauri applications
+2026-11-18T08:43:06.33331Z,graphrt-llm,0.1.0,0,0,https://github.com/BimaPangestu28/graphrt,"Model providers (OpenAI-compatible, Anthropic, Gemini, AWS Bedrock, TypeSafe Jev) and LLM, classifier, extractor and agent nodes for the graphrt workflow runtime."
+2026-11-18T08:43:47.86309Z,lodashguru,0.1.2,0,0,https://github.com/StarcevAlexander/lodashguru,"Lodash-style utility functions for Rust - chunk, group_by, uniq, shuffle, partition, intersection and 20+ more, zero dependencies"
+2026-11-18T08:48:08.642539Z,prime-panel,0.1.0,0,0,https://github.com/anton-avramchuk/prime-rs,prime-rs: Panel component (port of PrimeNG)
+2026-11-18T08:54:25.893449Z,graphrt-mcp,0.1.0,0,0,https://github.com/BimaPangestu28/graphrt,Model Context Protocol (MCP) tool provider for graphrt: exposes MCP server tools to tool and agent nodes.
+2026-11-18T08:56:39.327262Z,datefnguru,0.1.2,0,0,https://github.com/StarcevAlexander/datefnguru,"date-fns style date utilities for Rust - add, difference, start_of, end_of, days_in_month and 25 more helpers over chrono NaiveDateTime"
+2026-11-18T08:58:13.514449Z,prime-panelmenu,0.1.0,0,0,https://github.com/anton-avramchuk/prime-rs,prime-rs: PanelMenu component (PrimeNG port)
+2026-11-18T09:04:00.8905Z,brokk-mj-server,0.0.0,0,0,https://github.com/BrokkAi/mjolnir,HTTP API and web viewer server for the Mjolnir daemon (name reservation; released with Mjolnir)
+2026-11-18T09:05:08.90661Z,graphrt-otel,0.1.0,0,0,https://github.com/BimaPangestu28/graphrt,"OpenTelemetry (OTLP) export of graphrt run events: traces per run and node, token usage, latency."
+2026-11-18T09:08:17.309671Z,prime-password,0.1.0,0,0,https://github.com/anton-avramchuk/prime-rs,prime-rs: Password component (PrimeNG port)
+2026-11-18T09:10:57.003197Z,expressir,0.1.35,0,0,https://github.com/lutaml/expressir-rs,Rust core for Expressir: EXPRESS schema parsing and model building on parsanol
+2026-11-18T09:13:22.710163Z,fatherless,0.1.0,0,0,https://github.com/DanielTrejoBorjas/fatherless,A std::process::Command alternative that spawns fully detached child processes in their own session
+2026-11-18T09:15:31.301176Z,coordinode-openraft-macros,0.10.1,0,0,https://github.com/structured-world/coordinode,"openraft-macros from openraft's upstream main branch, as CoordiNode uses it"
+2026-11-18T09:15:34.091736Z,coordinode-openraft-rt,0.10.1,0,0,https://github.com/structured-world/coordinode,"openraft-rt (async runtime traits for Openraft) from openraft's upstream main branch, as CoordiNode uses it"
+2026-11-18T09:15:36.674043Z,coordinode-openraft-rt-tokio,0.10.1,0,0,https://github.com/structured-world/coordinode,"openraft-rt-tokio (Tokio runtime for Openraft) from openraft's upstream main branch, as CoordiNode uses it"
+2026-11-18T09:15:38.486716Z,coordinode-openraft,0.10.1,0,0,https://github.com/structured-world/coordinode,"openraft (Advanced Raft consensus) from its upstream main branch, as CoordiNode uses it"
+2026-11-18T09:16:20.825021Z,unidbg-api,0.1.1,0,0,https://github.com/2noScript/unidbg-rs,"Core ARM32/Thumb/ARM64 emulation framework traits, memory manager, SVC, hooks, and GDB server (unidbg-rs)"
+2026-11-18T09:16:41.617732Z,graphrt-plugin-sdk,0.1.0,0,0,https://github.com/BimaPangestu28/graphrt,SDK for writing graphrt plugins in Rust: expose node kinds and tools over the graphrt plugin protocol.
+2026-11-18T09:17:03.367542Z,unidbg-unicorn2,0.1.1,0,0,https://github.com/2noScript/unidbg-rs,"Unicorn Engine 2 CPU backend for unidbg-rs (ARM32, Thumb, ARM64)"
+2026-11-18T09:17:08.526877Z,unidbg-android,0.1.1,0,0,https://github.com/2noScript/unidbg-rs,"Android ELF loader, Linux ARM32/ARM64 syscalls, VFS, DalvikVM/JNI bridge, and XHook (unidbg-rs)"
+2026-11-18T09:17:10.636884Z,unidbg-ios,0.1.1,0,0,https://github.com/2noScript/unidbg-rs,"iOS Mach-O loader, Darwin syscalls, IPA loader, ObjC runtime, FishHook, and Substrate (unidbg-rs)"
+2026-11-18T09:17:12.251103Z,egui-pop-fit,0.1.1,0,0,https://github.com/quazardous/egui-pop,"A slot layout engine with no egui dependency: dense grid packing of plain boxes in standard slot sizes, with forms, orientations, growth and hysteresis (formerly egui_fit)"
+2026-11-18T09:17:34.293808Z,unidbg-cli,0.1.1,0,0,https://github.com/2noScript/unidbg-rs,"CLI runner (exec, jni, gdb) for the unidbg-rs ARM32/ARM64 emulator"
+2026-11-18T09:18:23.814594Z,prime-picklist,0.1.0,0,0,https://github.com/anton-avramchuk/prime-rs,prime-rs: PickList component (PrimeNG port)

@@ -8,42 +8,44 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-18 08:20 UTC
+## Latest list — 2026-11-18 09:19 UTC
 
-New crates published between 2026-11-18 07:23 UTC and 2026-11-18 08:20 UTC.
+New crates published between 2026-11-18 08:20 UTC and 2026-11-18 09:19 UTC.
 
-[Full CSV](data/new-crates-2026-11-18T08-20-15-213359Z.csv)
+[Full CSV](data/new-crates-2026-11-18T09-19-48-539311Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-18 07:24:06 | [smbcloud-ascapi-iap](https://crates.io/crates/smbcloud-ascapi-iap) | 0.6.0 | 0 | App Store Connect in-app purchases: the product, its localizations, price sched… |
-| 2026-11-18 07:26:13 | [rs-turbo-tasks-fs](https://crates.io/crates/rs-turbo-tasks-fs) | 0.1.0 | 0 | Turbo engine crate turbo-tasks-fs. Republished fork of `turbo-tasks-fs` from ve… |
-| 2026-11-18 07:26:47 | [prime-knob](https://crates.io/crates/prime-knob) | 0.1.0 | 0 | prime-rs: Knob component (PrimeNG port) |
-| 2026-11-18 07:32:05 | [scotoma](https://crates.io/crates/scotoma) | 0.0.1 | 0 | A blind spot for agents: store secrets, hand out opaque handles, substitute the… |
-| 2026-11-18 07:37:07 | [prime-listbox](https://crates.io/crates/prime-listbox) | 0.1.0 | 0 | prime-rs: Listbox component (PrimeNG port) |
-| 2026-11-18 07:46:32 | [bytesetscan](https://crates.io/crates/bytesetscan) | 0.0.1 | 0 | SIMD-accelerated byte-set matching with Shufti and Truffle |
-| 2026-11-18 07:47:26 | [prime-megamenu](https://crates.io/crates/prime-megamenu) | 0.1.0 | 0 | prime-rs: MegaMenu component (PrimeNG port) |
-| 2026-11-18 07:51:01 | [lichtung-plot](https://crates.io/crates/lichtung-plot) | 0.1.0 | 0 | Strongly typed scientific plotting with deterministic SVG and PNG output |
-| 2026-11-18 07:52:23 | [lichtung-plot-ndarray](https://crates.io/crates/lichtung-plot-ndarray) | 0.1.0 | 0 | Direct scientific plotting from logical ndarray views and columns |
-| 2026-11-18 07:53:22 | [lichtung-plot-polars](https://crates.io/crates/lichtung-plot-polars) | 0.1.0 | 0 | Direct scientific plotting from eager Polars fields and columns |
-| 2026-11-18 07:57:30 | [prime-menubar](https://crates.io/crates/prime-menubar) | 0.1.0 | 0 | prime-rs: Menubar component (PrimeNG port) |
-| 2026-11-18 07:58:20 | [rusuna](https://crates.io/crates/rusuna) | 0.1.0 | 0 | A Hasura-style GraphQL engine as a Rust library: compiles a query to one SQL st… |
-| 2026-11-18 07:58:31 | [rusuna-sqlx](https://crates.io/crates/rusuna-sqlx) | 0.1.0 | 0 | Execute rusuna statements on PostgreSQL with sqlx |
-| 2026-11-18 07:58:43 | [rusuna-async-graphql](https://crates.io/crates/rusuna-async-graphql) | 0.1.0 | 0 | Serve a rusuna schema from an async-graphql dynamic schema beside hand-written… |
-| 2026-11-18 07:58:54 | [rusuna-axum](https://crates.io/crates/rusuna-axum) | 0.1.0 | 0 | An axum route that serves rusuna async-graphql schemas per role |
-| 2026-11-18 07:58:56 | [sshtether](https://crates.io/crates/sshtether) | 0.1.3 | 0 | Remote command runner over SSH that stays tethered: PTY, colour, UTF-8, auto-re… |
-| 2026-11-18 07:59:50 | [rp2350-riscv-linker](https://crates.io/crates/rp2350-riscv-linker) | 0.1.0 | 0 | Zero-config linker riscv and boot support for RP2350 (Pico 2) in Rust. Pure no_… |
-| 2026-11-18 08:07:34 | [prime-metergroup](https://crates.io/crates/prime-metergroup) | 0.1.0 | 0 | prime-rs: MeterGroup component (PrimeNG port) |
-| 2026-11-18 08:13:09 | [contact-relationship-management-domain](https://crates.io/crates/contact-relationship-management-domain) | 0.2.0 | 0 | Contact Relationship Management (CRM): the domain rules, with no web routes or… |
-| 2026-11-18 08:14:12 | [graphrt-core](https://crates.io/crates/graphrt-core) | 0.1.0 | 0 | Executor-agnostic graph runtime for agentic AI workflows: graph model, variable… |
-| 2026-11-18 08:14:46 | [graphrt-wasm](https://crates.io/crates/graphrt-wasm) | 0.1.0 | 0 | Sandboxed WebAssembly plugins for graphrt: add node kinds from portable .wasm m… |
-| 2026-11-18 08:15:20 | [graphrt-bundle](https://crates.io/crates/graphrt-bundle) | 0.1.0 | 0 | Portable graphrt bundles: one signed file holding a workflow, its plugins and c… |
-| 2026-11-18 08:15:55 | [graphrt-http](https://crates.io/crates/graphrt-http) | 0.1.0 | 0 | HTTP request node with SSRF protection for the graphrt workflow runtime. |
-| 2026-11-18 08:16:17 | [j8bytecode](https://crates.io/crates/j8bytecode) | 0.4.0 | 0 | j8 virtual instruction set: bytecode definitions (generated from JSON), assembl… |
-| 2026-11-18 08:16:30 | [graphrt-code](https://crates.io/crates/graphrt-code) | 0.1.0 | 0 | Sandboxed code node (embedded JavaScript, optional remote sandbox) for the grap… |
-| 2026-11-18 08:16:40 | [j8napi](https://crates.io/crates/j8napi) | 0.4.0 | 0 | Node-API (napi) for j8: the C ABI that native addons (and napi-rs modules) link… |
-| 2026-11-18 08:17:55 | [prime-multiselect](https://crates.io/crates/prime-multiselect) | 0.1.0 | 0 | prime-rs: MultiSelect component (PrimeNG port) |
-| 2026-11-18 08:19:45 | [miblo](https://crates.io/crates/miblo) | 0.9.0 | 0 | Terminal workspace for Rust APIs with SQLite or MySQL and remote templates |
+| 2026-11-18 08:24:37 | [telegram-guru](https://crates.io/crates/telegram-guru) | 0.1.0 | 0 | The complete Telegram Bot API client for Rust - all 193 methods and 425 types o… |
+| 2026-11-18 08:27:11 | [graphrt-doc](https://crates.io/crates/graphrt-doc) | 0.1.0 | 0 | Document extraction node (PDF, Office, spreadsheets, HTML, e-mail, subtitles) f… |
+| 2026-11-18 08:28:01 | [prime-orderlist](https://crates.io/crates/prime-orderlist) | 0.1.0 | 0 | prime-rs: OrderList component (PrimeNG port) |
+| 2026-11-18 08:35:42 | [taceo-oprf-store](https://crates.io/crates/taceo-oprf-store) | 0.1.0 | 0 | Shared database storage layer for TACEO:OPRF |
+| 2026-11-18 08:38:04 | [prime-overlaybadge](https://crates.io/crates/prime-overlaybadge) | 0.1.0 | 0 | prime-rs: OverlayBadge component (port of PrimeNG) |
+| 2026-11-18 08:40:06 | [tauri-cordis-macros](https://crates.io/crates/tauri-cordis-macros) | 0.2.0 | 0 | Procedural macro #[host_service] that exposes Rust functions to the tauri-cordi… |
+| 2026-11-18 08:40:18 | [tauri-cordis](https://crates.io/crates/tauri-cordis) | 0.2.0 | 0 | Everything-is-a-plugin supervisor and JSON-RPC host bridge for Tauri applicatio… |
+| 2026-11-18 08:43:06 | [graphrt-llm](https://crates.io/crates/graphrt-llm) | 0.1.0 | 0 | Model providers (OpenAI-compatible, Anthropic, Gemini, AWS Bedrock, TypeSafe Je… |
+| 2026-11-18 08:43:47 | [lodashguru](https://crates.io/crates/lodashguru) | 0.1.2 | 0 | Lodash-style utility functions for Rust - chunk, group_by, uniq, shuffle, parti… |
+| 2026-11-18 08:48:08 | [prime-panel](https://crates.io/crates/prime-panel) | 0.1.0 | 0 | prime-rs: Panel component (port of PrimeNG) |
+| 2026-11-18 08:54:25 | [graphrt-mcp](https://crates.io/crates/graphrt-mcp) | 0.1.0 | 0 | Model Context Protocol (MCP) tool provider for graphrt: exposes MCP server tool… |
+| 2026-11-18 08:56:39 | [datefnguru](https://crates.io/crates/datefnguru) | 0.1.2 | 0 | date-fns style date utilities for Rust - add, difference, start_of, end_of, day… |
+| 2026-11-18 08:58:13 | [prime-panelmenu](https://crates.io/crates/prime-panelmenu) | 0.1.0 | 0 | prime-rs: PanelMenu component (PrimeNG port) |
+| 2026-11-18 09:04:00 | [brokk-mj-server](https://crates.io/crates/brokk-mj-server) | 0.0.0 | 0 | HTTP API and web viewer server for the Mjolnir daemon (name reservation; releas… |
+| 2026-11-18 09:05:08 | [graphrt-otel](https://crates.io/crates/graphrt-otel) | 0.1.0 | 0 | OpenTelemetry (OTLP) export of graphrt run events: traces per run and node, tok… |
+| 2026-11-18 09:08:17 | [prime-password](https://crates.io/crates/prime-password) | 0.1.0 | 0 | prime-rs: Password component (PrimeNG port) |
+| 2026-11-18 09:10:57 | [expressir](https://crates.io/crates/expressir) | 0.1.35 | 0 | Rust core for Expressir: EXPRESS schema parsing and model building on parsanol |
+| 2026-11-18 09:13:22 | [fatherless](https://crates.io/crates/fatherless) | 0.1.0 | 0 | A std::process::Command alternative that spawns fully detached child processes… |
+| 2026-11-18 09:15:31 | [coordinode-openraft-macros](https://crates.io/crates/coordinode-openraft-macros) | 0.10.1 | 0 | openraft-macros from openraft's upstream main branch, as CoordiNode uses it |
+| 2026-11-18 09:15:34 | [coordinode-openraft-rt](https://crates.io/crates/coordinode-openraft-rt) | 0.10.1 | 0 | openraft-rt (async runtime traits for Openraft) from openraft's upstream main b… |
+| 2026-11-18 09:15:36 | [coordinode-openraft-rt-tokio](https://crates.io/crates/coordinode-openraft-rt-tokio) | 0.10.1 | 0 | openraft-rt-tokio (Tokio runtime for Openraft) from openraft's upstream main br… |
+| 2026-11-18 09:15:38 | [coordinode-openraft](https://crates.io/crates/coordinode-openraft) | 0.10.1 | 0 | openraft (Advanced Raft consensus) from its upstream main branch, as CoordiNode… |
+| 2026-11-18 09:16:20 | [unidbg-api](https://crates.io/crates/unidbg-api) | 0.1.1 | 0 | Core ARM32/Thumb/ARM64 emulation framework traits, memory manager, SVC, hooks,… |
+| 2026-11-18 09:16:41 | [graphrt-plugin-sdk](https://crates.io/crates/graphrt-plugin-sdk) | 0.1.0 | 0 | SDK for writing graphrt plugins in Rust: expose node kinds and tools over the g… |
+| 2026-11-18 09:17:03 | [unidbg-unicorn2](https://crates.io/crates/unidbg-unicorn2) | 0.1.1 | 0 | Unicorn Engine 2 CPU backend for unidbg-rs (ARM32, Thumb, ARM64) |
+| 2026-11-18 09:17:08 | [unidbg-android](https://crates.io/crates/unidbg-android) | 0.1.1 | 0 | Android ELF loader, Linux ARM32/ARM64 syscalls, VFS, DalvikVM/JNI bridge, and X… |
+| 2026-11-18 09:17:10 | [unidbg-ios](https://crates.io/crates/unidbg-ios) | 0.1.1 | 0 | iOS Mach-O loader, Darwin syscalls, IPA loader, ObjC runtime, FishHook, and Sub… |
+| 2026-11-18 09:17:12 | [egui-pop-fit](https://crates.io/crates/egui-pop-fit) | 0.1.1 | 0 | A slot layout engine with no egui dependency: dense grid packing of plain boxes… |
+| 2026-11-18 09:17:34 | [unidbg-cli](https://crates.io/crates/unidbg-cli) | 0.1.1 | 0 | CLI runner (exec, jni, gdb) for the unidbg-rs ARM32/ARM64 emulator |
+| 2026-11-18 09:18:23 | [prime-picklist](https://crates.io/crates/prime-picklist) | 0.1.0 | 0 | prime-rs: PickList component (PrimeNG port) |
 
 ## Data source
 
