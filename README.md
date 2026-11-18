@@ -8,56 +8,34 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-18 15:21 UTC
+## Latest list — 2026-11-18 16:19 UTC
 
-New crates published between 2026-11-18 14:19 UTC and 2026-11-18 15:21 UTC.
+New crates published between 2026-11-18 15:21 UTC and 2026-11-18 16:19 UTC.
 
-[Full CSV](data/new-crates-2026-11-18T15-21-03-292526Z.csv)
+[Full CSV](data/new-crates-2026-11-18T16-19-07-247783Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-18 14:19:16 | [embassy-executor-riscv](https://crates.io/crates/embassy-executor-riscv) | 0.1.0 | 0 | async/await executor designed for embedded usage |
-| 2026-11-18 14:26:05 | [prime-toast](https://crates.io/crates/prime-toast) | 0.1.0 | 0 | prime-rs: Toast component and MessageService (PrimeNG port) |
-| 2026-11-18 14:26:28 | [tarot-cards](https://crates.io/crates/tarot-cards) | 0.1.0 | 0 | The 78 Rider-Waite tarot cards as static data: names, keywords, upright and rev… |
-| 2026-11-18 14:27:54 | [biome_js_runtime](https://crates.io/crates/biome_js_runtime) | 0.7.3 | 0 | ECMAScript runtime for JS plugins |
-| 2026-11-18 14:29:41 | [embassy-rp-riscv](https://crates.io/crates/embassy-rp-riscv) | 0.1.0 | 0 | Embassy Hardware Abstraction Layer (HAL) for the Raspberry Pi RP2040 or RP235x… |
-| 2026-11-18 14:34:43 | [libimgquant](https://crates.io/crates/libimgquant) | 3.0.0 | 0 | Pure-Rust, BSD-licensed color quantizer: converts RGBA images to 8-bit palette… |
-| 2026-11-18 14:34:44 | [sensai-engine](https://crates.io/crates/sensai-engine) | 0.0.0 | 0 | Reserved for the SensAI inference engine library. |
-| 2026-11-18 14:34:46 | [imgquant](https://crates.io/crates/imgquant) | 3.0.0 | 0 | pngquant-style command-line PNG quantizer (lossy PNG compression to 8-bit palet… |
-| 2026-11-18 14:34:46 | [sensaix](https://crates.io/crates/sensaix) | 0.0.0 | 0 | Reserved for the SensAI inference engine command. |
-| 2026-11-18 14:34:47 | [libimgquant-capi](https://crates.io/crates/libimgquant-capi) | 3.0.0 | 0 | C API of libimgquant (libimgquant.h, libimgquant.so/.a), compatible with the li… |
-| 2026-11-18 14:35:37 | [louis-cli](https://crates.io/crates/louis-cli) | 0.4.0 | 0 | Command line tool for louis-rs, a pure Rust re-implementation of the liblouis b… |
-| 2026-11-18 14:36:09 | [prime-toggleswitch](https://crates.io/crates/prime-toggleswitch) | 0.1.0 | 0 | prime-rs: ToggleSwitch component (port of PrimeNG) |
-| 2026-11-18 14:37:54 | [biome_js_type_info](https://crates.io/crates/biome_js_type_info) | 0.7.3 | 0 | Data structures for tracking type information |
-| 2026-11-18 14:38:32 | [orgize-ng](https://crates.io/crates/orgize-ng) | 0.10.0-alpha.10 | 0 | A Rust library for parsing org-mode files (maintained fork of orgize). |
-| 2026-11-18 14:39:18 | [la1010](https://crates.io/crates/la1010) | 0.1.0 | 0 | CLI and library for the Kingst LA1010 USB logic analyzer: capture, measure, dec… |
-| 2026-11-18 14:41:54 | [egui_mineral](https://crates.io/crates/egui_mineral) | 0.0.0 | 0 | Placeholder for egui_mineral, part of the egui_mineral UI framework; releases f… |
-| 2026-11-18 14:42:00 | [egui_mineral_macros](https://crates.io/crates/egui_mineral_macros) | 0.0.0 | 0 | Placeholder for egui_mineral_macros, part of the egui_mineral UI framework; rel… |
-| 2026-11-18 14:42:09 | [egui_mineral_material](https://crates.io/crates/egui_mineral_material) | 0.0.0 | 0 | Placeholder for egui_mineral_material, part of the egui_mineral UI framework; r… |
-| 2026-11-18 14:43:28 | [ontaria-macros](https://crates.io/crates/ontaria-macros) | 0.4.0 | 0 | Proc macro that turns an ontology into Rust constants |
-| 2026-11-18 14:46:08 | [ulana](https://crates.io/crates/ulana) | 0.1.0 | 0 | Luau scripts that draw native UI: a sandboxed runtime and a checked block tree. |
-| 2026-11-18 14:46:12 | [prime-toolbar](https://crates.io/crates/prime-toolbar) | 0.1.0 | 0 | prime-rs: Toolbar component (port of PrimeNG) |
-| 2026-11-18 14:46:22 | [ulana-cli](https://crates.io/crates/ulana-cli) | 0.1.0 | 0 | The ulana command: render Luau views, check trees, and serve a folder of views… |
-| 2026-11-18 14:46:45 | [bulky](https://crates.io/crates/bulky) | 0.1.0 | 0 | A command wrapper for sharing a workload limit across projects on one machine |
-| 2026-11-18 14:47:52 | [biome_manifest](https://crates.io/crates/biome_manifest) | 0.7.3 | 0 | Biome manifest model and loader |
-| 2026-11-18 14:49:33 | [xtce-pus](https://crates.io/crates/xtce-pus) | 0.1.2 | 0 | ECSS-E-ST-70-41C Packet Utilization Standard (PUS-C) no_std framing, CRC-16-CCI… |
-| 2026-11-18 14:49:53 | [xtce-model](https://crates.io/crates/xtce-model) | 0.1.2 | 0 | XTCE telemetry metadata: streaming XML parser and arena-backed intermediate rep… |
-| 2026-11-18 14:50:00 | [xtce-decode](https://crates.io/crates/xtce-decode) | 0.1.2 | 0 | Decode CCSDS telemetry packets against an XTCE definition |
-| 2026-11-18 14:50:12 | [xtce-codegen](https://crates.io/crates/xtce-codegen) | 0.1.2 | 0 | Compile an XTCE telemetry definition into a static Rust decoder |
-| 2026-11-18 14:50:27 | [xtce-cli](https://crates.io/crates/xtce-cli) | 0.1.2 | 0 | Command-line tools for inspecting and decoding CCSDS telemetry defined by XTCE |
-| 2026-11-18 14:56:29 | [prime-tree](https://crates.io/crates/prime-tree) | 0.1.0 | 0 | prime-rs: Tree component (PrimeNG port) |
-| 2026-11-18 14:57:54 | [biome_module_graph](https://crates.io/crates/biome_module_graph) | 0.7.3 | 0 | Data structure for tracking inferred information across modules |
-| 2026-11-18 15:01:46 | [exav-qr](https://crates.io/crates/exav-qr) | 0.0.3 | 0 | QR code detection and decoding: rqrr 0.11.0, a port of quirc, with its lru and… |
-| 2026-11-18 15:06:47 | [prime-treeselect](https://crates.io/crates/prime-treeselect) | 0.1.0 | 0 | prime-rs: TreeSelect component (PrimeNG port) |
-| 2026-11-18 15:07:12 | [efr32mg2x-pac](https://crates.io/crates/efr32mg2x-pac) | 0.1.0 | 0 | Peripheral Access Crate for EFR32MG24 microcontrollers |
-| 2026-11-18 15:07:54 | [biome_plugin_loader](https://crates.io/crates/biome_plugin_loader) | 0.7.3 | 0 | Functionality for loading plugins and caching them in memory |
-| 2026-11-18 15:08:32 | [yaaral-macros](https://crates.io/crates/yaaral-macros) | 0.5.4 | 0 | Procedural macros of yaaral |
-| 2026-11-18 15:16:52 | [prime-treetable](https://crates.io/crates/prime-treetable) | 0.1.0 | 0 | prime-rs: TreeTable component (PrimeNG port), stage 1 |
-| 2026-11-18 15:17:53 | [biome_rule_options](https://crates.io/crates/biome_rule_options) | 0.7.3 | 0 | This crate is internally used to share lint rule options across analyzers |
-| 2026-11-18 15:18:29 | [o1-contract](https://crates.io/crates/o1-contract) | 0.1.0 | 0 | Vocabulary for bounded execution: zero-sized execution-intent policies, executi… |
-| 2026-11-18 15:18:59 | [o1-core](https://crates.io/crates/o1-core) | 0.1.0 | 0 | OS-independent, allocation-free substrate: bit operations, strict-provenance ta… |
-| 2026-11-18 15:19:03 | [o1-sync](https://crates.io/crates/o1-sync) | 0.1.0 | 0 | Allocation-free bounded synchronisation: a fixed-capacity SPSC ring whose push… |
-| 2026-11-18 15:19:06 | [o1-predict](https://crates.io/crates/o1-predict) | 0.1.0 | 0 | Operation-class time prediction from calibration evidence: exact class matching… |
+| 2026-11-18 15:27:53 | [biome_css_analyze](https://crates.io/crates/biome_css_analyze) | 0.7.3 | 0 | Biome's CSS linter |
+| 2026-11-18 15:29:12 | [warded](https://crates.io/crates/warded) | 0.1.0-beta.3 | 0 | Ordered routing over complete HTTP request-head conditions |
+| 2026-11-18 15:30:12 | [rupple_frontend](https://crates.io/crates/rupple_frontend) | 0.1.0 | 0 | Frontend module of the rupple language |
+| 2026-11-18 15:31:31 | [oesdk](https://crates.io/crates/oesdk) | 0.0.0 | 0 | Mod SDK + CLI for FNF: Oxide Engine (WIT component mods) |
+| 2026-11-18 15:36:30 | [oxap](https://crates.io/crates/oxap) | 0.1.0-alpha.34 | 0 | OXAP for Rust: the oxap-sdk client for the oxap runtime, under the project's ow… |
+| 2026-11-18 15:37:28 | [rupple_interpreter](https://crates.io/crates/rupple_interpreter) | 0.1.0 | 0 | Interpreter of the rupple language |
+| 2026-11-18 15:39:42 | [flow-lattice](https://crates.io/crates/flow-lattice) | 0.1.0 | 0 | Rust policy compiler that turns domain, IP, and application rules into platform… |
+| 2026-11-18 15:39:52 | [sdk-lattice](https://crates.io/crates/sdk-lattice) | 0.1.0 | 0 | High-level Rust SDK that composes net-lattice, tunnel-lattice, dns-lattice, and… |
+| 2026-11-18 15:49:30 | [fileforge](https://crates.io/crates/fileforge) | 0.1.0 | 0 | Organize a messy folder by moving files into per-extension subfolders |
+| 2026-11-18 15:51:31 | [dsd-pcm](https://crates.io/crates/dsd-pcm) | 0.1.0 | 0 | DSD to PCM conversion with a linear-phase FIR cascade in 64-bit float |
+| 2026-11-18 15:53:35 | [trug](https://crates.io/crates/trug) | 0.1.0 | 0 | A trunk replacement for component bundling. |
+| 2026-11-18 15:53:57 | [lvm-tui](https://crates.io/crates/lvm-tui) | 0.4.0 | 0 | Terminal app for Gradle builds that use LVM's convention plugins |
+| 2026-11-18 16:00:48 | [tunnel-lattice-backend-linux](https://crates.io/crates/tunnel-lattice-backend-linux) | 0.1.0 | 0 | Native Linux TUN/TAP backend for Tunnel Lattice, built directly on /dev/net/tun… |
+| 2026-11-18 16:00:49 | [slint-term-core](https://crates.io/crates/slint-term-core) | 0.1.0-alpha.1 | 0 | UI-independent terminal state and input protocol for Slint applications |
+| 2026-11-18 16:00:53 | [slint-term](https://crates.io/crates/slint-term) | 0.1.0-alpha.1 | 0 | An embeddable Slint terminal widget |
+| 2026-11-18 16:00:54 | [slint-term-transport](https://crates.io/crates/slint-term-transport) | 0.1.0-alpha.1 | 0 | Local PTY, SSH and host-provided terminal channels |
+| 2026-11-18 16:04:43 | [drawland](https://crates.io/crates/drawland) | 0.2.0 | 0 | draw.land: a profile and a place in, the layered pen-plotter map SVG out (downl… |
+| 2026-11-18 16:11:01 | [rupple](https://crates.io/crates/rupple) | 0.1.0 | 0 | A minimal language with rust-like syntax that aims to make writing programs eas… |
+| 2026-11-18 16:15:58 | [misina-lab](https://crates.io/crates/misina-lab) | 0.1.0 | 0 | A Bevy framework for procedural scene generators, exported to USD for robotics… |
+| 2026-11-18 16:19:05 | [zapsend](https://crates.io/crates/zapsend) | 0.0.24 | 0 | Headless, LocalSend-compatible file transfer over your local network |
 
 ## Data source
 

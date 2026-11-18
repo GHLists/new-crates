@@ -1,0 +1,21 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-18T15:27:53.941231Z,biome_css_analyze,0.7.3,0,0,https://github.com/biomejs/biome,Biome's CSS linter
+2026-11-18T15:29:12.850815Z,warded,0.1.0-beta.3,0,0,https://github.com/viell-dev/slop-warded-router,Ordered routing over complete HTTP request-head conditions
+2026-11-18T15:30:12.384209Z,rupple_frontend,0.1.0,0,0,https://github.com/thecybro/Rupple,Frontend module of the rupple language
+2026-11-18T15:31:31.255829Z,oesdk,0.0.0,0,0,https://github.com/FunkinRustUp/FNF-Oxide-Engine,Mod SDK + CLI for FNF: Oxide Engine (WIT component mods)
+2026-11-18T15:36:30.592288Z,oxap,0.1.0-alpha.34,0,0,https://github.com/lsm/oxap,"OXAP for Rust: the oxap-sdk client for the oxap runtime, under the project's own name"
+2026-11-18T15:37:28.213096Z,rupple_interpreter,0.1.0,0,0,https://github.com/thecybro/Rupple,Interpreter of the rupple language
+2026-11-18T15:39:42.232695Z,flow-lattice,0.1.0,0,0,https://github.com/F000NKKK/flow-lattice,"Rust policy compiler that turns domain, IP, and application rules into platform-neutral network plans for the Lattice networking stack."
+2026-11-18T15:39:52.515853Z,sdk-lattice,0.1.0,0,0,https://github.com/F000NKKK/sdk-lattice,"High-level Rust SDK that composes net-lattice, tunnel-lattice, dns-lattice, and flow-lattice into one application-facing network programming interface."
+2026-11-18T15:49:30.433399Z,fileforge,0.1.0,0,0,https://github.com/marcus-beauregard/fileforge,Organize a messy folder by moving files into per-extension subfolders
+2026-11-18T15:51:31.140324Z,dsd-pcm,0.1.0,0,0,https://github.com/otoya-studio/dsd-pcm,DSD to PCM conversion with a linear-phase FIR cascade in 64-bit float
+2026-11-18T15:53:35.239069Z,trug,0.1.0,0,0,https://github.com/udoprog/trug,A trunk replacement for component bundling.
+2026-11-18T15:53:57.570652Z,lvm-tui,0.4.0,0,0,https://github.com/Lavmee/LVM-KMP,Terminal app for Gradle builds that use LVM's convention plugins
+2026-11-18T16:00:48.828955Z,tunnel-lattice-backend-linux,0.1.0,0,0,https://github.com/F000NKKK/tunnel-lattice,"Native Linux TUN/TAP backend for Tunnel Lattice, built directly on /dev/net/tun and a synchronous rtnetlink socket. Compiles to an empty crate on other targets."
+2026-11-18T16:00:49.809764Z,slint-term-core,0.1.0-alpha.1,0,0,https://github.com/359956085/slint_term,UI-independent terminal state and input protocol for Slint applications
+2026-11-18T16:00:53.503274Z,slint-term,0.1.0-alpha.1,0,0,https://github.com/359956085/slint_term,An embeddable Slint terminal widget
+2026-11-18T16:00:54.807731Z,slint-term-transport,0.1.0-alpha.1,0,0,https://github.com/359956085/slint_term,"Local PTY, SSH and host-provided terminal channels"
+2026-11-18T16:04:43.056641Z,drawland,0.2.0,0,0,https://github.com/piLeoni/drawland,"draw.land: a profile and a place in, the layered pen-plotter map SVG out (downloads and cache included)"
+2026-11-18T16:11:01.41744Z,rupple,0.1.0,0,0,https://github.com/thecybro/Rupple,A minimal language with rust-like syntax that aims to make writing programs easier for programmers without taking away security
+2026-11-18T16:15:58.421671Z,misina-lab,0.1.0,0,0,https://github.com/azazdeaz/misina-lab,"A Bevy framework for procedural scene generators, exported to USD for robotics simulation in Isaac Lab."
+2026-11-18T16:19:05.688881Z,zapsend,0.0.24,0,0,https://github.com/Urdemonlord/zapsend,"Headless, LocalSend-compatible file transfer over your local network"
