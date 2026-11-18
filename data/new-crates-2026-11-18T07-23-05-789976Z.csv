@@ -1,0 +1,39 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-18T06:23:47.143685Z,idenumbra-gtm,0.1.0-alpha.1,0,0,https://github.com/ailuracollective/idenumbra,"Guatemala identification validator (CUI/DPI, NIT)"
+2026-11-18T06:25:43.095434Z,a_bc,1.0.0,0,0,https://github.com/mnmun/a_bc,make simple lexers
+2026-11-18T06:25:56.842696Z,prime-image,0.1.0,0,0,https://github.com/anton-avramchuk/prime-rs,prime-rs: Image component (PrimeNG port)
+2026-11-18T06:26:06.066774Z,ignit_shader_2d,1.6.0,0,0,https://forgejo.sakul-flee.de/SakulFlee/Ignit,"Reusable WGSL nodes for 2D, UI, and text rendering in Ignit"
+2026-11-18T06:30:37.198335Z,gradus-model,0.1.1,0,0,https://github.com/duskine/gradus,Shared domain types for Gradus.
+2026-11-18T06:30:55.822138Z,rs-turbo-persistence,0.1.0,0,0,https://github.com/hardfist/rs-turbo,Turbo engine crate turbo-persistence. Republished fork of `turbo-persistence` from vercel/next.js turbopack (rev 81d6086) for turbobuild.
+2026-11-18T06:31:21.523256Z,gradus-config,0.1.1,0,0,https://github.com/duskine/gradus,Build and settings file discovery and parsing for Gradus.
+2026-11-18T06:31:28.536392Z,gradus-core,0.1.1,0,0,https://github.com/duskine/gradus,Task graph and execution engine for Gradus.
+2026-11-18T06:33:46.460832Z,idenumbra-hnd,0.1.0-alpha.1,0,0,https://github.com/ailuracollective/idenumbra,"Honduras identification validator (DNI, RTN)"
+2026-11-18T06:36:00.213039Z,prime-imagecompare,0.1.0,0,0,https://github.com/anton-avramchuk/prime-rs,prime-rs: ImageCompare component (port of PrimeNG)
+2026-11-18T06:41:40.446231Z,lazy_tree,1.0.0,0,0,https://github.com/mnmun/lazy_tree,tree of lazily-created nodes with asynchronous cursor-based traversal
+2026-11-18T06:42:17.81513Z,bread-format,0.4.0,0,0,https://github.com/breadslicer-app/bread-format,"Reads and writes .bread files: tiny, lossless meshes and scenes, with room for slicer data such as editable supports."
+2026-11-18T06:43:22.022263Z,rs-turbo-tasks-hash,0.1.0,0,0,https://github.com/hardfist/rs-turbo,Turbo engine crate turbo-tasks-hash. Republished fork of `turbo-tasks-hash` from vercel/next.js turbopack (rev 81d6086) for turbobuild.
+2026-11-18T06:43:45.560002Z,idenumbra-mex,0.1.0-alpha.1,0,0,https://github.com/ailuracollective/idenumbra,"Mexico identification validator (CURP, RFC)"
+2026-11-18T06:44:06.675952Z,parsanol-lsp,1.5.7,0,0,,"The PARG language server: parsanol parsing PARG with its own diagnostics, hover, go-to-definition, completion, symbols, and the parse-tree preview"
+2026-11-18T06:46:04.696552Z,prime-inplace,0.1.0,0,0,https://github.com/anton-avramchuk/prime-rs,prime-rs: Inplace component (port of PrimeNG)
+2026-11-18T06:46:06.180122Z,rs-turbo-bincode,0.1.0,0,0,https://github.com/hardfist/rs-turbo,Utilities for bincode used in turbo-tasks and turbopack. Republished fork of `turbo-bincode` from vercel/next.js turbopack (rev 81d6086) for turbobuild.
+2026-11-18T06:47:29.821146Z,code-reflex,0.1.0,0,0,https://github.com/ommaraziz/code-reflex,"A persistent brain for your codebase: symbols, issues and hardcoded values - indexed, searchable, refreshed on change."
+2026-11-18T06:53:46.389882Z,idenumbra-nic,0.1.0-alpha.1,0,0,https://github.com/ailuracollective/idenumbra,Nicaragua identification validator (ID card)
+2026-11-18T06:56:08.152983Z,prime-inputgroup,0.1.0,0,0,https://github.com/anton-avramchuk/prime-rs,prime-rs: InputGroup and InputGroupAddon components (PrimeNG port)
+2026-11-18T06:58:04.552628Z,rs-turbo-rcstr,0.1.0,0,0,https://github.com/hardfist/rs-turbo,Turbo engine crate turbo-rcstr. Republished fork of `turbo-rcstr` from vercel/next.js turbopack (rev 81d6086) for turbobuild.
+2026-11-18T07:00:07.548405Z,laia,0.1.0,0,0,https://github.com/rogervila/laia,Rust implementation for LAIA programming language.
+2026-11-18T07:03:45.790905Z,idenumbra-pan,0.1.0-alpha.1,0,0,https://github.com/ailuracollective/idenumbra,"Panama identification validator (ID card, RUC)"
+2026-11-18T07:05:49.084109Z,brokk-mj-store,0.0.0,0,0,https://github.com/BrokkAi/mjolnir,Storage layer of the Mjolnir daemon: database and target access (name reservation; released with Mjolnir)
+2026-11-18T07:05:57.475614Z,brokk-mj-daemon,0.0.0,0,0,https://github.com/BrokkAi/mjolnir,Mjolnir daemon runtime and HTTP server (name reservation; released with Mjolnir)
+2026-11-18T07:06:12.668351Z,prime-inputmask,0.1.0,0,0,https://github.com/anton-avramchuk/prime-rs,prime-rs: InputMask component (port of PrimeNG)
+2026-11-18T07:09:53.063614Z,rs-turbo-tasks,0.1.0,0,0,https://github.com/hardfist/rs-turbo,Turbo engine crate turbo-tasks. Republished fork of `turbo-tasks` from vercel/next.js turbopack (rev 81d6086) for turbobuild.
+2026-11-18T07:10:07.146534Z,sanera,0.0.0,0,0,,Arena Allocators in Rust
+2026-11-18T07:10:25.246686Z,eltdx-protocol,3.4.0-beta.1,0,0,https://github.com/electkismet/eltdx,TDX wire protocol codecs and source-native response models
+2026-11-18T07:10:36.542819Z,eltdx-runtime,3.4.0-beta.1,0,0,https://github.com/electkismet/eltdx,"TDX transport engine, bounded request dispatch and resource lifecycle"
+2026-11-18T07:10:47.769313Z,eltdx,3.4.0-beta.1,0,0,https://github.com/electkismet/eltdx,Independent synchronous Rust SDK for TDX market data and local formats
+2026-11-18T07:13:45.840037Z,idenumbra-per,0.1.0-alpha.1,0,0,https://github.com/ailuracollective/idenumbra,"Peru identification validator (DNI, RUC)"
+2026-11-18T07:16:30.668504Z,prime-inputotp,0.1.0,0,0,https://github.com/anton-avramchuk/prime-rs,prime-rs: InputOtp component (PrimeNG port)
+2026-11-18T07:20:05.863315Z,semgrep,0.1.0,0,0,,Placeholder held for security reasons. Not the Semgrep tool.
+2026-11-18T07:21:20.770073Z,rc-sort,0.1.0,0,0,https://github.com/miguel-elizalde/rc_sort,Keeps your shell rc files at distro defaults by sorting what installers add into ~/.bashrc.d and fish conf.d
+2026-11-18T07:21:21.953564Z,smbcloud-ascapi-admob,0.6.0,0,0,https://github.com/smbcloudXYZ/smbcloud-ascapi,"AdMob API: list accounts, apps and ad units, and create rewarded ad units where Google has granted write access. Authenticated with a user OAuth refresh token."
+2026-11-18T07:21:28.952211Z,smbcloud-ascapi-amazon,0.6.0,0,0,https://github.com/smbcloudXYZ/smbcloud-ascapi,"Amazon Appstore App Submission API: Login with Amazon client-credentials authentication, edits, APK upload and device targeting."
+2026-11-18T07:21:44.535699Z,rs-turbo-tasks-backend,0.1.0,0,0,https://github.com/hardfist/rs-turbo,Turbo engine crate turbo-tasks-backend. Republished fork of `turbo-tasks-backend` from vercel/next.js turbopack (rev 81d6086) for turbobuild.
