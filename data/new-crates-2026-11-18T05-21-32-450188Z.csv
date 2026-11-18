@@ -1,0 +1,42 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-18T04:24:46.835633Z,morningstar-ios,0.1.1,0,0,https://github.com/nassdaq/MorningStar,iOS host integration for Morningstar: the C ABI driven by the UIKit host.
+2026-11-18T04:26:05.712951Z,ignit_app,1.6.0,0,0,https://forgejo.sakul-flee.de/SakulFlee/Ignit,"Application builder, modules, schedules, and overlays for Ignit"
+2026-11-18T04:27:48.642357Z,titer,0.1.1,0,0,https://github.com/greerviau/titer,"Check whether a change's tests test the change: fail-on-base, diff-scoped mutation, weakened-test scan, and CRAP."
+2026-11-18T04:29:30.032353Z,flow_cache,0.1.0,0,0,https://github.com/pgavlin/flow,Shared transport primitives for flow engine cache artifacts
+2026-11-18T04:29:32.409205Z,flow_document,0.1.0,0,0,https://github.com/pgavlin/flow,"Portable semantic document, reflow, pagination, and rendering engine"
+2026-11-18T04:29:34.818779Z,flow_publication,0.1.0,0,0,https://github.com/pgavlin/flow,"Format-neutral publications, host-driven reading sessions, and EPUB import"
+2026-11-18T04:30:31.765853Z,glomar-pgp,0.4.0,0,0,,"Pure-Rust OpenPGP (RFC 9580) with rPGP's API, backed by glomar: post-quantum keys (RFC 9980), GnuPG and legacy PGP interop, no C"
+2026-11-18T04:30:34.795374Z,glomar-ssh,0.4.0,0,0,,"Pure-Rust SSH client and server with russh's API, backed by glomar: OpenSSH-compatible, post-quantum key exchange, no C"
+2026-11-18T04:35:34.010489Z,morningstar-preview,0.1.1,0,0,https://github.com/nassdaq/MorningStar,"Runs a Morningstar app in a window on the development machine, and reloads it when its source changes."
+2026-11-18T04:36:23.082362Z,ignit_billboard,1.6.0,0,0,https://forgejo.sakul-flee.de/SakulFlee/Ignit,Camera-facing textured billboards for Ignit
+2026-11-18T04:46:07.217823Z,ignit_debug_render,1.6.0,0,0,https://forgejo.sakul-flee.de/SakulFlee/Ignit,Debug line and shape rendering overlays for Ignit
+2026-11-18T04:46:21.963848Z,morningstar-cli,0.1.1,0,0,https://github.com/nassdaq/MorningStar,"The `morningstar` command: create a Morningstar app, run it live in a window, and build it for Android, from any directory."
+2026-11-18T04:49:15.841702Z,rs-include-dir-macros,0.7.4,0,0,https://github.com/hardfist/rs-turbo,The procedural macro used by include_dir. Republished fork of https://github.com/vercel-labs/include_dir (rev 0f23fcc) for turbobuild.
+2026-11-18T04:49:16.738813Z,rs-triomphe,0.1.12,0,0,https://github.com/hardfist/rs-turbo,A fork of std::sync::Arc with some extra functionality and without weak references (originally servo_arc). Republished fork of https://github.com/sokra/triomphe (rev 9c591ab) for turbobuild.
+2026-11-18T04:49:18.334127Z,rs-turbo-dyn-eq-hash,0.1.0,0,0,https://github.com/hardfist/rs-turbo,Turbo engine crate turbo-dyn-eq-hash. Republished fork of `turbo-dyn-eq-hash` from vercel/next.js turbopack (rev 81d6086) for turbobuild.
+2026-11-18T04:49:19.674817Z,rs-turbo-rcstr-macros,0.1.0,0,0,https://github.com/hardfist/rs-turbo,Turbo engine crate turbo-rcstr-macros. Republished fork of `turbo-rcstr-macros` from vercel/next.js turbopack (rev 81d6086) for turbobuild.
+2026-11-18T04:49:21.678581Z,rs-turbo-tasks-macros,0.1.0,0,0,https://github.com/hardfist/rs-turbo,Turbo engine crate turbo-tasks-macros. Republished fork of `turbo-tasks-macros` from vercel/next.js turbopack (rev 81d6086) for turbobuild.
+2026-11-18T04:50:16.803096Z,countersign-pki,0.1.0,0,0,https://github.com/zeroae/countersign,Certificate chain and revocation validation for Countersign
+2026-11-18T04:50:17.509225Z,countersign-protocol,0.1.0,0,0,https://github.com/zeroae/countersign,Wire messages and destination policies for Countersign
+2026-11-18T04:50:18.808173Z,countersign-broker,0.1.0,0,0,https://github.com/zeroae/countersign,Self-hosted approval and lease broker for Countersign
+2026-11-18T04:50:19.514344Z,countersign-gateway,0.1.0,0,0,https://github.com/zeroae/countersign,Forward proxy for user-approved client certificate authentication
+2026-11-18T04:50:20.023886Z,countersign-native,0.1.0,0,0,https://github.com/zeroae/countersign,Native certificate selection and signing for the Countersign desktop Companion
+2026-11-18T04:50:21.089862Z,aerosieve-serve,0.4.0,0,0,https://github.com/kunalgoesbyken/AeroSieve,Streaming speech-quality gate: a WebSocket server that judges each utterance as it ends
+2026-11-18T04:51:06.432753Z,dockerignore-audit,0.1.0,0,0,https://github.com/PrinceAdvant/dockerignore-audit,"Check a Docker build context against its .dockerignore: find secrets, Git history and dependency folders that would be sent to the daemon."
+2026-11-18T04:53:10.887268Z,reuben-a11y,0.1.1,0,0,https://github.com/reuben-ssg/reuben,Accessibility rules for the Reuben static site generator.
+2026-11-18T04:53:11.739165Z,reuben-core,0.1.1,0,0,https://github.com/reuben-ssg/reuben,Core build pipeline for the Reuben static site generator.
+2026-11-18T04:53:57.19377Z,rs-include-dir,0.7.4,0,0,https://github.com/hardfist/rs-turbo,Embed the contents of a directory in your binary. Republished fork of https://github.com/vercel-labs/include_dir (rev 0f23fcc) for turbobuild.
+2026-11-18T04:56:11.944854Z,ignit_iced,1.6.0,0,0,https://forgejo.sakul-flee.de/SakulFlee/Ignit,Iced UI integration for the Ignit game engine
+2026-11-18T04:57:11.84365Z,morningstar-ui,0.1.1,0,0,https://github.com/nassdaq/MorningStar,"Morningstar's declarative UI layer: widgets, state and events on top of layout, text and the display list."
+2026-11-18T04:58:13.883594Z,oxap-sdk,0.1.0-alpha.34,0,0,https://github.com/lsm/oxap,"Rust SDK for the Open Agent Protocol project's runtime, spoken as OAP to `oapx serve agent,provider --stdio`"
+2026-11-18T05:03:10.235569Z,http-kit-h2,0.0.0,0,0,https://github.com/zen-rs/http-kit,"Sans-IO HTTP/2 server and client with zero-copy bodies, driven over owned-buffer I/O"
+2026-11-18T05:04:51.492181Z,wackasm-opencomputers,0.1.0,0,0,https://github.com/DecDuck/wackasm,"Typed Rust bindings to OpenComputers components, for WASI programs running on the wackasm architecture"
+2026-11-18T05:06:02.864098Z,rs-turbo-tasks-malloc,0.1.0,0,0,https://github.com/hardfist/rs-turbo,A wrapper around mimalloc or the system allocator that tracks allocations. Republished fork of `turbo-tasks-malloc` from vercel/next.js turbopack (rev 81d6086) for turbobuild.
+2026-11-18T05:06:06.112771Z,ignit_debug_ui,1.6.0,0,0,https://forgejo.sakul-flee.de/SakulFlee/Ignit,"Debug overlay UI for the Ignit game engine (performance, ECS inspector, console)"
+2026-11-18T05:08:00.434958Z,morningstar-framework,0.1.1,0,0,https://github.com/nassdaq/MorningStar,"Morningstar: a Rust-native, GPU-first mobile application framework. Public developer API."
+2026-11-18T05:13:19.971104Z,cargo-solo,0.0.0,0,0,https://github.com/vladkens/cargo-solo,"Cross-compile Rust with the host's clang and rustup's lld: no Zig, no Docker. Name reserved; 0.1.0 is the first release."
+2026-11-18T05:13:33.46754Z,spacy-sys,0.1.0,0,0,https://github.com/lita-oss/lita-tokenizers,Typed Rust wrappers for spaCy through embedded CPython.
+2026-11-18T05:13:42.652114Z,lita-tokenizers-spacy,0.1.0,0,0,https://github.com/lita-oss/lita-tokenizers,The implementation of lita-tokenizers-core for spacy-sys.
+2026-11-18T05:16:06.612514Z,ignit_shader_debug,1.6.0,0,0,https://forgejo.sakul-flee.de/SakulFlee/Ignit,Reusable WGSL nodes for debug rendering in Ignit
+2026-11-18T05:16:44.393805Z,idenumbra-core,0.1.0-alpha.1,0,0,https://github.com/ailuracollective/idenumbra,"Country-agnostic identification validation: shared contract, registry helpers and error model"
+2026-11-18T05:18:18.860947Z,rs-turbo-unix-path,0.1.0,0,0,https://github.com/hardfist/rs-turbo,Turbo engine crate turbo-unix-path. Republished fork of `turbo-unix-path` from vercel/next.js turbopack (rev 81d6086) for turbobuild.

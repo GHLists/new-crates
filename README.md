@@ -8,45 +8,55 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-18 04:19 UTC
+## Latest list — 2026-11-18 05:21 UTC
 
-New crates published between 2026-11-18 03:19 UTC and 2026-11-18 04:19 UTC.
+New crates published between 2026-11-18 04:19 UTC and 2026-11-18 05:21 UTC.
 
-[Full CSV](data/new-crates-2026-11-18T04-19-03-771449Z.csv)
+[Full CSV](data/new-crates-2026-11-18T05-21-32-450188Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-18 03:21:54 | [datasus-core](https://crates.io/crates/datasus-core) | 0.1.0 | 0 | Dependency-free reader for DATASUS DBC/DBF files (PKWare DCL decompression + dB… |
-| 2026-11-18 03:22:01 | [datasus-arrow](https://crates.io/crates/datasus-arrow) | 0.1.0 | 0 | Read DATASUS DBC/DBF files into Apache Arrow record batches |
-| 2026-11-18 03:22:12 | [datasus-cli](https://crates.io/crates/datasus-cli) | 0.1.0 | 0 | Command-line converter for DATASUS DBC/DBF files (Parquet, CSV, DBF) |
-| 2026-11-18 03:25:37 | [rss-proxy](https://crates.io/crates/rss-proxy) | 0.1.0 | 0 | A high-performance, extensible RSS/Atom proxy and filtering server written in R… |
-| 2026-11-18 03:28:55 | [gadk-launcher](https://crates.io/crates/gadk-launcher) | 0.2.2 | 0 | Run a gadk agent from the command line: console, REST web server, A2A and web UI |
-| 2026-11-18 03:39:01 | [gadk-prompts-cli](https://crates.io/crates/gadk-prompts-cli) | 0.2.2 | 0 | The gadk-prompts command-line tool |
-| 2026-11-18 03:40:54 | [sad-chrono](https://crates.io/crates/sad-chrono) | 0.4.46 | 0 | Date and time library for Rust: a maintained, API-compatible fork of chrono wit… |
-| 2026-11-18 03:49:07 | [gadk](https://crates.io/crates/gadk) | 0.2.2 | 0 | Agent Development Kit for Rust: build, run and deploy LLM agents with Gemini, C… |
-| 2026-11-18 03:49:44 | [kombuse-diagrams](https://crates.io/crates/kombuse-diagrams) | 0.1.0 | 0 | Generates structural Mermaid diagrams from Rust source and checks documentation… |
-| 2026-11-18 03:50:44 | [fleetreach-sinks](https://crates.io/crates/fleetreach-sinks) | 1.7.0 | 0 | Vulnerable-function (sink) data for fleetreach: curated sink records, a propose… |
-| 2026-11-18 03:50:50 | [fleetreach-jvm](https://crates.io/crates/fleetreach-jvm) | 1.7.0 | 0 | JVM call graphs for fleetreach: reads class files and jars as data and answers… |
-| 2026-11-18 03:50:55 | [fleetreach-clr](https://crates.io/crates/fleetreach-clr) | 1.7.0 | 0 | .NET assemblies for fleetreach: reads ECMA-335 metadata and IL as data, for cal… |
-| 2026-11-18 03:52:01 | [morningstar-core](https://crates.io/crates/morningstar-core) | 0.1.0 | 0 | Platform- and GPU-independent foundation types for Morningstar. |
-| 2026-11-18 03:52:05 | [morningstar-gpu](https://crates.io/crates/morningstar-gpu) | 0.1.0 | 0 | Morningstar's GPU backend: device, surface and frame submission on top of wgpu. |
-| 2026-11-18 03:52:06 | [morningstar-layout](https://crates.io/crates/morningstar-layout) | 0.1.0 | 0 | Morningstar's layout engine: turns a tree of boxes with constraints into rectan… |
-| 2026-11-18 03:52:07 | [morningstar-text](https://crates.io/crates/morningstar-text) | 0.1.0 | 0 | Morningstar's text subsystem: font loading, shaping, layout and glyph rasterisa… |
-| 2026-11-18 03:52:12 | [morningstar-runtime](https://crates.io/crates/morningstar-runtime) | 0.1.0 | 0 | Morningstar's application runtime: lifecycle coordination and frame production. |
-| 2026-11-18 03:53:19 | [ignit_input](https://crates.io/crates/ignit_input) | 1.6.0 | 0 | Keyboard, mouse, touch, and gamepad input for Ignit |
-| 2026-11-18 03:53:24 | [ignit_macros](https://crates.io/crates/ignit_macros) | 1.6.0 | 0 | Procedural macros for Ignit applications |
-| 2026-11-18 03:53:33 | [ignit_shadow](https://crates.io/crates/ignit_shadow) | 1.6.0 | 0 | Shadow mapping, cascades, and shadow resources for Ignit |
-| 2026-11-18 03:53:39 | [ignit_world_environment](https://crates.io/crates/ignit_world_environment) | 1.6.0 | 0 | HDR environments and image-based lighting for Ignit |
-| 2026-11-18 03:54:15 | [ignit_ecs_bridge](https://crates.io/crates/ignit_ecs_bridge) | 1.6.0 | 0 | Engine ECS components and resources for Ignit |
-| 2026-11-18 03:56:03 | [ignit_render_graph](https://crates.io/crates/ignit_render_graph) | 1.6.0 | 0 | Render graph construction and pass scheduling for Ignit |
-| 2026-11-18 03:58:28 | [aria-agent-plugin](https://crates.io/crates/aria-agent-plugin) | 1.11.2 | 0 | Capability-seam plugin kernel: manifests, roles, registry assembly with fail-cl… |
-| 2026-11-18 03:58:39 | [aria-agent-tools](https://crates.io/crates/aria-agent-tools) | 1.11.2 | 0 | Built-in tool families (fs / shell / jobs / terminal / skills / web / ask / pla… |
-| 2026-11-18 03:59:12 | [gadk-console](https://crates.io/crates/gadk-console) | 0.2.2 | 0 | A local web console for gadk traces and prompts |
-| 2026-11-18 04:03:01 | [morningstar-android](https://crates.io/crates/morningstar-android) | 0.1.0 | 0 | Android host integration for Morningstar: JNI entry points and the render threa… |
-| 2026-11-18 04:06:05 | [ignit_text](https://crates.io/crates/ignit_text) | 1.6.0 | 0 | SDF font atlases and text mesh generation for Ignit |
-| 2026-11-18 04:08:17 | [lilbox](https://crates.io/crates/lilbox) | 0.1.0 | 0 | A lil exe.dev you run on your own box |
-| 2026-11-18 04:13:58 | [morningstar-devtools](https://crates.io/crates/morningstar-devtools) | 0.1.0 | 0 | Development tooling for Morningstar apps: render an app to an image without a d… |
-| 2026-11-18 04:16:07 | [ignit_renderer](https://crates.io/crates/ignit_renderer) | 1.6.0 | 0 | Main, 2D, text, and UI renderers for Ignit |
+| 2026-11-18 04:24:46 | [morningstar-ios](https://crates.io/crates/morningstar-ios) | 0.1.1 | 0 | iOS host integration for Morningstar: the C ABI driven by the UIKit host. |
+| 2026-11-18 04:26:05 | [ignit_app](https://crates.io/crates/ignit_app) | 1.6.0 | 0 | Application builder, modules, schedules, and overlays for Ignit |
+| 2026-11-18 04:27:48 | [titer](https://crates.io/crates/titer) | 0.1.1 | 0 | Check whether a change's tests test the change: fail-on-base, diff-scoped mutat… |
+| 2026-11-18 04:29:30 | [flow_cache](https://crates.io/crates/flow_cache) | 0.1.0 | 0 | Shared transport primitives for flow engine cache artifacts |
+| 2026-11-18 04:29:32 | [flow_document](https://crates.io/crates/flow_document) | 0.1.0 | 0 | Portable semantic document, reflow, pagination, and rendering engine |
+| 2026-11-18 04:29:34 | [flow_publication](https://crates.io/crates/flow_publication) | 0.1.0 | 0 | Format-neutral publications, host-driven reading sessions, and EPUB import |
+| 2026-11-18 04:30:31 | [glomar-pgp](https://crates.io/crates/glomar-pgp) | 0.4.0 | 0 | Pure-Rust OpenPGP (RFC 9580) with rPGP's API, backed by glomar: post-quantum ke… |
+| 2026-11-18 04:30:34 | [glomar-ssh](https://crates.io/crates/glomar-ssh) | 0.4.0 | 0 | Pure-Rust SSH client and server with russh's API, backed by glomar: OpenSSH-com… |
+| 2026-11-18 04:35:34 | [morningstar-preview](https://crates.io/crates/morningstar-preview) | 0.1.1 | 0 | Runs a Morningstar app in a window on the development machine, and reloads it w… |
+| 2026-11-18 04:36:23 | [ignit_billboard](https://crates.io/crates/ignit_billboard) | 1.6.0 | 0 | Camera-facing textured billboards for Ignit |
+| 2026-11-18 04:46:07 | [ignit_debug_render](https://crates.io/crates/ignit_debug_render) | 1.6.0 | 0 | Debug line and shape rendering overlays for Ignit |
+| 2026-11-18 04:46:21 | [morningstar-cli](https://crates.io/crates/morningstar-cli) | 0.1.1 | 0 | The `morningstar` command: create a Morningstar app, run it live in a window, a… |
+| 2026-11-18 04:49:15 | [rs-include-dir-macros](https://crates.io/crates/rs-include-dir-macros) | 0.7.4 | 0 | The procedural macro used by include_dir. Republished fork of https://github.co… |
+| 2026-11-18 04:49:16 | [rs-triomphe](https://crates.io/crates/rs-triomphe) | 0.1.12 | 0 | A fork of std::sync::Arc with some extra functionality and without weak referen… |
+| 2026-11-18 04:49:18 | [rs-turbo-dyn-eq-hash](https://crates.io/crates/rs-turbo-dyn-eq-hash) | 0.1.0 | 0 | Turbo engine crate turbo-dyn-eq-hash. Republished fork of `turbo-dyn-eq-hash` f… |
+| 2026-11-18 04:49:19 | [rs-turbo-rcstr-macros](https://crates.io/crates/rs-turbo-rcstr-macros) | 0.1.0 | 0 | Turbo engine crate turbo-rcstr-macros. Republished fork of `turbo-rcstr-macros`… |
+| 2026-11-18 04:49:21 | [rs-turbo-tasks-macros](https://crates.io/crates/rs-turbo-tasks-macros) | 0.1.0 | 0 | Turbo engine crate turbo-tasks-macros. Republished fork of `turbo-tasks-macros`… |
+| 2026-11-18 04:50:16 | [countersign-pki](https://crates.io/crates/countersign-pki) | 0.1.0 | 0 | Certificate chain and revocation validation for Countersign |
+| 2026-11-18 04:50:17 | [countersign-protocol](https://crates.io/crates/countersign-protocol) | 0.1.0 | 0 | Wire messages and destination policies for Countersign |
+| 2026-11-18 04:50:18 | [countersign-broker](https://crates.io/crates/countersign-broker) | 0.1.0 | 0 | Self-hosted approval and lease broker for Countersign |
+| 2026-11-18 04:50:19 | [countersign-gateway](https://crates.io/crates/countersign-gateway) | 0.1.0 | 0 | Forward proxy for user-approved client certificate authentication |
+| 2026-11-18 04:50:20 | [countersign-native](https://crates.io/crates/countersign-native) | 0.1.0 | 0 | Native certificate selection and signing for the Countersign desktop Companion |
+| 2026-11-18 04:50:21 | [aerosieve-serve](https://crates.io/crates/aerosieve-serve) | 0.4.0 | 0 | Streaming speech-quality gate: a WebSocket server that judges each utterance as… |
+| 2026-11-18 04:51:06 | [dockerignore-audit](https://crates.io/crates/dockerignore-audit) | 0.1.0 | 0 | Check a Docker build context against its .dockerignore: find secrets, Git histo… |
+| 2026-11-18 04:53:10 | [reuben-a11y](https://crates.io/crates/reuben-a11y) | 0.1.1 | 0 | Accessibility rules for the Reuben static site generator. |
+| 2026-11-18 04:53:11 | [reuben-core](https://crates.io/crates/reuben-core) | 0.1.1 | 0 | Core build pipeline for the Reuben static site generator. |
+| 2026-11-18 04:53:57 | [rs-include-dir](https://crates.io/crates/rs-include-dir) | 0.7.4 | 0 | Embed the contents of a directory in your binary. Republished fork of https://g… |
+| 2026-11-18 04:56:11 | [ignit_iced](https://crates.io/crates/ignit_iced) | 1.6.0 | 0 | Iced UI integration for the Ignit game engine |
+| 2026-11-18 04:57:11 | [morningstar-ui](https://crates.io/crates/morningstar-ui) | 0.1.1 | 0 | Morningstar's declarative UI layer: widgets, state and events on top of layout,… |
+| 2026-11-18 04:58:13 | [oxap-sdk](https://crates.io/crates/oxap-sdk) | 0.1.0-alpha.34 | 0 | Rust SDK for the Open Agent Protocol project's runtime, spoken as OAP to `oapx… |
+| 2026-11-18 05:03:10 | [http-kit-h2](https://crates.io/crates/http-kit-h2) | 0.0.0 | 0 | Sans-IO HTTP/2 server and client with zero-copy bodies, driven over owned-buffe… |
+| 2026-11-18 05:04:51 | [wackasm-opencomputers](https://crates.io/crates/wackasm-opencomputers) | 0.1.0 | 0 | Typed Rust bindings to OpenComputers components, for WASI programs running on t… |
+| 2026-11-18 05:06:02 | [rs-turbo-tasks-malloc](https://crates.io/crates/rs-turbo-tasks-malloc) | 0.1.0 | 0 | A wrapper around mimalloc or the system allocator that tracks allocations. Repu… |
+| 2026-11-18 05:06:06 | [ignit_debug_ui](https://crates.io/crates/ignit_debug_ui) | 1.6.0 | 0 | Debug overlay UI for the Ignit game engine (performance, ECS inspector, console) |
+| 2026-11-18 05:08:00 | [morningstar-framework](https://crates.io/crates/morningstar-framework) | 0.1.1 | 0 | Morningstar: a Rust-native, GPU-first mobile application framework. Public deve… |
+| 2026-11-18 05:13:19 | [cargo-solo](https://crates.io/crates/cargo-solo) | 0.0.0 | 0 | Cross-compile Rust with the host's clang and rustup's lld: no Zig, no Docker. N… |
+| 2026-11-18 05:13:33 | [spacy-sys](https://crates.io/crates/spacy-sys) | 0.1.0 | 0 | Typed Rust wrappers for spaCy through embedded CPython. |
+| 2026-11-18 05:13:42 | [lita-tokenizers-spacy](https://crates.io/crates/lita-tokenizers-spacy) | 0.1.0 | 0 | The implementation of lita-tokenizers-core for spacy-sys. |
+| 2026-11-18 05:16:06 | [ignit_shader_debug](https://crates.io/crates/ignit_shader_debug) | 1.6.0 | 0 | Reusable WGSL nodes for debug rendering in Ignit |
+| 2026-11-18 05:16:44 | [idenumbra-core](https://crates.io/crates/idenumbra-core) | 0.1.0-alpha.1 | 0 | Country-agnostic identification validation: shared contract, registry helpers a… |
+| 2026-11-18 05:18:18 | [rs-turbo-unix-path](https://crates.io/crates/rs-turbo-unix-path) | 0.1.0 | 0 | Turbo engine crate turbo-unix-path. Republished fork of `turbo-unix-path` from… |
 
 ## Data source
 
