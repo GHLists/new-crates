@@ -8,34 +8,34 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-18 16:19 UTC
+## Latest list — 2026-11-18 17:20 UTC
 
-New crates published between 2026-11-18 15:21 UTC and 2026-11-18 16:19 UTC.
+New crates published between 2026-11-18 16:19 UTC and 2026-11-18 17:20 UTC.
 
-[Full CSV](data/new-crates-2026-11-18T16-19-07-247783Z.csv)
+[Full CSV](data/new-crates-2026-11-18T17-20-17-670163Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-18 15:27:53 | [biome_css_analyze](https://crates.io/crates/biome_css_analyze) | 0.7.3 | 0 | Biome's CSS linter |
-| 2026-11-18 15:29:12 | [warded](https://crates.io/crates/warded) | 0.1.0-beta.3 | 0 | Ordered routing over complete HTTP request-head conditions |
-| 2026-11-18 15:30:12 | [rupple_frontend](https://crates.io/crates/rupple_frontend) | 0.1.0 | 0 | Frontend module of the rupple language |
-| 2026-11-18 15:31:31 | [oesdk](https://crates.io/crates/oesdk) | 0.0.0 | 0 | Mod SDK + CLI for FNF: Oxide Engine (WIT component mods) |
-| 2026-11-18 15:36:30 | [oxap](https://crates.io/crates/oxap) | 0.1.0-alpha.34 | 0 | OXAP for Rust: the oxap-sdk client for the oxap runtime, under the project's ow… |
-| 2026-11-18 15:37:28 | [rupple_interpreter](https://crates.io/crates/rupple_interpreter) | 0.1.0 | 0 | Interpreter of the rupple language |
-| 2026-11-18 15:39:42 | [flow-lattice](https://crates.io/crates/flow-lattice) | 0.1.0 | 0 | Rust policy compiler that turns domain, IP, and application rules into platform… |
-| 2026-11-18 15:39:52 | [sdk-lattice](https://crates.io/crates/sdk-lattice) | 0.1.0 | 0 | High-level Rust SDK that composes net-lattice, tunnel-lattice, dns-lattice, and… |
-| 2026-11-18 15:49:30 | [fileforge](https://crates.io/crates/fileforge) | 0.1.0 | 0 | Organize a messy folder by moving files into per-extension subfolders |
-| 2026-11-18 15:51:31 | [dsd-pcm](https://crates.io/crates/dsd-pcm) | 0.1.0 | 0 | DSD to PCM conversion with a linear-phase FIR cascade in 64-bit float |
-| 2026-11-18 15:53:35 | [trug](https://crates.io/crates/trug) | 0.1.0 | 0 | A trunk replacement for component bundling. |
-| 2026-11-18 15:53:57 | [lvm-tui](https://crates.io/crates/lvm-tui) | 0.4.0 | 0 | Terminal app for Gradle builds that use LVM's convention plugins |
-| 2026-11-18 16:00:48 | [tunnel-lattice-backend-linux](https://crates.io/crates/tunnel-lattice-backend-linux) | 0.1.0 | 0 | Native Linux TUN/TAP backend for Tunnel Lattice, built directly on /dev/net/tun… |
-| 2026-11-18 16:00:49 | [slint-term-core](https://crates.io/crates/slint-term-core) | 0.1.0-alpha.1 | 0 | UI-independent terminal state and input protocol for Slint applications |
-| 2026-11-18 16:00:53 | [slint-term](https://crates.io/crates/slint-term) | 0.1.0-alpha.1 | 0 | An embeddable Slint terminal widget |
-| 2026-11-18 16:00:54 | [slint-term-transport](https://crates.io/crates/slint-term-transport) | 0.1.0-alpha.1 | 0 | Local PTY, SSH and host-provided terminal channels |
-| 2026-11-18 16:04:43 | [drawland](https://crates.io/crates/drawland) | 0.2.0 | 0 | draw.land: a profile and a place in, the layered pen-plotter map SVG out (downl… |
-| 2026-11-18 16:11:01 | [rupple](https://crates.io/crates/rupple) | 0.1.0 | 0 | A minimal language with rust-like syntax that aims to make writing programs eas… |
-| 2026-11-18 16:15:58 | [misina-lab](https://crates.io/crates/misina-lab) | 0.1.0 | 0 | A Bevy framework for procedural scene generators, exported to USD for robotics… |
-| 2026-11-18 16:19:05 | [zapsend](https://crates.io/crates/zapsend) | 0.0.24 | 0 | Headless, LocalSend-compatible file transfer over your local network |
+| 2026-11-18 16:23:58 | [adamo-zenoh](https://crates.io/crates/adamo-zenoh) | 1.9.0-adamo.1.0.29 | 0 | Zenoh: The Zero Overhead Pub/Sub/Query Protocol. |
+| 2026-11-18 16:24:16 | [adamo-zenoh-plugin-ros2dds](https://crates.io/crates/adamo-zenoh-plugin-ros2dds) | 1.9.0-adamo.1.0.29 | 0 | Zenoh plugin for ROS 2 and DDS in general |
+| 2026-11-18 16:24:35 | [adamo](https://crates.io/crates/adamo) | 1.0.29 | 0 | Canonical Rust SDK for Adamo robot applications |
+| 2026-11-18 16:26:30 | [wizard](https://crates.io/crates/wizard) | 0.0.0 | 0 | Placeholder crate for an idea I'm working on. If this ends up stale and unused… |
+| 2026-11-18 16:31:14 | [ruask](https://crates.io/crates/ruask) | 0.1.0 | 0 | A command-line assistant for command lookup and command output explanation |
+| 2026-11-18 16:33:27 | [radixip_cache](https://crates.io/crates/radixip_cache) | 0.1.0 | 0 | Shared cache and Redis sync primitives for RadixIP |
+| 2026-11-18 16:37:06 | [lazy_json](https://crates.io/crates/lazy_json) | 1.0.0 | 0 | JSON lexer and parser |
+| 2026-11-18 16:41:13 | [radixip-policy](https://crates.io/crates/radixip-policy) | 0.1.0 | 0 | Policy engine for RadixIP: IP blocklists, rate limiting, and auto-ban logic |
+| 2026-11-18 16:41:16 | [radixip-tower](https://crates.io/crates/radixip-tower) | 0.1.0 | 0 | Tower middleware for RadixIP IP blocklists, rate limiting, and auto-banning |
+| 2026-11-18 16:41:18 | [radixip-axum](https://crates.io/crates/radixip-axum) | 0.1.0 | 0 | Axum middleware for RadixIP IP blocklists, rate limiting, and auto-banning |
+| 2026-11-18 16:41:20 | [radixip-actix](https://crates.io/crates/radixip-actix) | 0.1.0 | 0 | Actix Web middleware for RadixIP IP blocklists, rate limiting, and auto-banning |
+| 2026-11-18 16:41:24 | [radixip-grpc-interceptor](https://crates.io/crates/radixip-grpc-interceptor) | 0.1.0 | 0 | Tonic gRPC interceptor and Tower layer for RadixIP IP protection |
+| 2026-11-18 16:45:23 | [kuroko](https://crates.io/crates/kuroko) | 0.18.0 | 0 | Kuroko, the personal Microsoft Teams knowledge assistant: a host with a web int… |
+| 2026-11-18 16:47:49 | [ssqch-plugin](https://crates.io/crates/ssqch-plugin) | 0.8.0 | 0 | Write ssqch plugins in Rust: transforms, filters and template engines, built as… |
+| 2026-11-18 16:57:52 | [xetget](https://crates.io/crates/xetget) | 0.1.0 | 0 | A simple CLI tool for downloading files directly from Hugging Face using Xet |
+| 2026-11-18 17:06:59 | [open_table_core](https://crates.io/crates/open_table_core) | 1.0.0 | 0 | Core traits and types for turn-based board game engines |
+| 2026-11-18 17:07:37 | [open_table_macros](https://crates.io/crates/open_table_macros) | 1.0.0 | 0 | Proc-macros derive para reducir el boilerplate de open_table_core/open_table_en… |
+| 2026-11-18 17:08:22 | [open_table_engine](https://crates.io/crates/open_table_engine) | 1.0.0 | 0 | Motor de OpenTable Engine: bevy_ecs + scheduler + rule engine sobre los contrat… |
+| 2026-11-18 17:11:21 | [hushid](https://crates.io/crates/hushid) | 0.1.4 | 0 | Replace recognized direct identifiers with tokens. |
+| 2026-11-18 17:16:50 | [crystallib](https://crates.io/crates/crystallib) | 0.2.0 | 0 | Crystal structures (cell, atoms, values with standard uncertainties), space gro… |
 
 ## Data source
 

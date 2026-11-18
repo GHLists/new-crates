@@ -1,0 +1,21 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-18T16:23:58.721584Z,adamo-zenoh,1.9.0-adamo.1.0.29,0,0,https://github.com/adamo-tech/adamo,Zenoh: The Zero Overhead Pub/Sub/Query Protocol.
+2026-11-18T16:24:16.931122Z,adamo-zenoh-plugin-ros2dds,1.9.0-adamo.1.0.29,0,0,https://github.com/adamo-tech/adamo,Zenoh plugin for ROS 2 and DDS in general
+2026-11-18T16:24:35.172761Z,adamo,1.0.29,0,0,https://github.com/adamo-tech/adamo,Canonical Rust SDK for Adamo robot applications
+2026-11-18T16:26:30.089732Z,wizard,0.0.0,0,0,,Placeholder crate for an idea I'm working on. If this ends up stale and unused feel free to contact me for the name.
+2026-11-18T16:31:14.724386Z,ruask,0.1.0,0,0,https://github.com/KevinGuo1007/ruask,A command-line assistant for command lookup and command output explanation
+2026-11-18T16:33:27.988796Z,radixip_cache,0.1.0,0,0,https://github.com/Mwangi-Derrick/radixip,Shared cache and Redis sync primitives for RadixIP
+2026-11-18T16:37:06.88448Z,lazy_json,1.0.0,0,0,https://github.com/mnmun/json,JSON lexer and parser
+2026-11-18T16:41:13.931913Z,radixip-policy,0.1.0,0,0,https://github.com/Mwangi-Derrick/radixip,"Policy engine for RadixIP: IP blocklists, rate limiting, and auto-ban logic"
+2026-11-18T16:41:16.266831Z,radixip-tower,0.1.0,0,0,https://github.com/Mwangi-Derrick/radixip,"Tower middleware for RadixIP IP blocklists, rate limiting, and auto-banning"
+2026-11-18T16:41:18.39811Z,radixip-axum,0.1.0,0,0,https://github.com/Mwangi-Derrick/radixip,"Axum middleware for RadixIP IP blocklists, rate limiting, and auto-banning"
+2026-11-18T16:41:20.992922Z,radixip-actix,0.1.0,0,0,https://github.com/Mwangi-Derrick/radixip,"Actix Web middleware for RadixIP IP blocklists, rate limiting, and auto-banning"
+2026-11-18T16:41:24.554012Z,radixip-grpc-interceptor,0.1.0,0,0,https://github.com/Mwangi-Derrick/radixip,Tonic gRPC interceptor and Tower layer for RadixIP IP protection
+2026-11-18T16:45:23.736976Z,kuroko,0.18.0,0,0,https://github.com/elvisbrevi/kuroko,"Kuroko, the personal Microsoft Teams knowledge assistant: a host with a web interface, the `kuroko` CLI and an MCP server (formerly personal-teams-assistant)"
+2026-11-18T16:47:49.322935Z,ssqch-plugin,0.8.0,0,0,https://github.com/reverentgeek/sitesquatch,"Write ssqch plugins in Rust: transforms, filters and template engines, built as one .wasm file that runs everywhere"
+2026-11-18T16:57:52.105524Z,xetget,0.1.0,0,0,https://github.com/YDKK/XetGet,A simple CLI tool for downloading files directly from Hugging Face using Xet
+2026-11-18T17:06:59.034746Z,open_table_core,1.0.0,0,0,https://github.com/joduranvillan/games_tables_sdk,Core traits and types for turn-based board game engines
+2026-11-18T17:07:37.444518Z,open_table_macros,1.0.0,0,0,https://github.com/joduranvillan/games_tables_sdk,"Proc-macros derive para reducir el boilerplate de open_table_core/open_table_engine: GameCommand, GameEvent, GameResource, GameComponent."
+2026-11-18T17:08:22.451479Z,open_table_engine,1.0.0,0,0,https://github.com/joduranvillan/games_tables_sdk,Motor de OpenTable Engine: bevy_ecs + scheduler + rule engine sobre los contratos de open_table_core.
+2026-11-18T17:11:21.92866Z,hushid,0.1.4,0,0,https://github.com/hushid/hushid,Replace recognized direct identifiers with tokens.
+2026-11-18T17:16:50.344586Z,crystallib,0.2.0,0,0,https://github.com/tectin0/crystallib,"Crystal structures (cell, atoms, values with standard uncertainties), space group symmetry and element data (radii, electronegativities, oxidation states, bond valence parameters)"
