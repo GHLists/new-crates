@@ -1,0 +1,51 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-18T05:23:40.118391Z,idenumbra-arg,0.1.0-alpha.1,0,0,https://github.com/ailuracollective/idenumbra,"Argentina identification validator (DNI, CUIT/CUIL)"
+2026-11-18T05:23:42.05976Z,idenumbra-bol,0.1.0-alpha.1,0,0,https://github.com/ailuracollective/idenumbra,"Bolivia identification validator (CI, NIT)"
+2026-11-18T05:23:44.138837Z,idenumbra-bra,0.1.0-alpha.1,0,0,https://github.com/ailuracollective/idenumbra,"Brazil identification validator (CPF, CNPJ)"
+2026-11-18T05:23:46.016423Z,idenumbra-chl,0.1.0-alpha.1,0,0,https://github.com/ailuracollective/idenumbra,Chile identification validator (RUT/RUN)
+2026-11-18T05:23:58.461651Z,daos,0.1.0,0,0,https://github.com/potatogim/rust-daos,"Client for DAOS: DFS, objects, key-value and arrays, loading libdfs at run time"
+2026-11-18T05:24:24.386566Z,verbum-ecs,0.2.1,0,0,https://github.com/scriptura/verbum,"Core of the Verbum engine: strict ECS runtime, no_std and allocation-free."
+2026-11-18T05:26:07.965233Z,ignit_procgeo,1.6.0,0,0,https://forgejo.sakul-flee.de/SakulFlee/Ignit,Procedural geometry and RON scene descriptions for Ignit
+2026-11-18T05:26:31.333126Z,verbum-assets,0.2.1,0,0,https://github.com/scriptura/verbum,"Verbum assets: artifact layout and runtime readers, no_std and allocation-free."
+2026-11-18T05:28:10.052697Z,verbum-schedule,0.2.1,0,0,https://github.com/scriptura/verbum,"Scheduler of the Verbum engine: execution model built from system contracts, no_std and allocation-free."
+2026-11-18T05:28:34.110593Z,verbum-forge,0.2.1,0,0,https://github.com/scriptura/verbum,Verbum Forge: AOT compiler of human formats into runtime artifacts.
+2026-11-18T05:28:53.457146Z,verbum-script,0.2.1,0,0,https://github.com/scriptura/verbum,"Script runtime of the Verbum engine: execution state and pure interpreter step, no_std and allocation-free."
+2026-11-18T05:30:21.17361Z,rs-virtue,0.0.18,0,0,https://github.com/hardfist/rs-turbo,A sinless derive macro helper. Republished fork of https://github.com/vercel-labs/virtue-fork (rev 06e262d) for turbobuild.
+2026-11-18T05:31:54.167818Z,verbum-render,0.2.1,0,0,https://github.com/scriptura/verbum,"Renderer data model of the Verbum engine: render contributions and frame representation, no_std and allocation-free."
+2026-11-18T05:33:43.143884Z,msgport,0.0.0,0,0,https://github.com/talaagent/msgport,"Transports for messaging platforms: one Rust interface, with crates for Matrix, Slack, and more."
+2026-11-18T05:33:46.619803Z,idenumbra-col,0.1.0-alpha.1,0,0,https://github.com/ailuracollective/idenumbra,"Colombia identification validator (CC, NIT, passport)"
+2026-11-18T05:33:50.706941Z,msgport-matrix,0.0.0,0,0,https://github.com/talaagent/msgport,Matrix transport for msgport.
+2026-11-18T05:33:57.893344Z,msgport-slack,0.0.0,0,0,https://github.com/talaagent/msgport,Slack transport for msgport.
+2026-11-18T05:35:11.421254Z,prime-textarea,0.1.0,0,0,https://github.com/anton-avramchuk/prime-rs,prime-rs: Textarea component (port of PrimeNG)
+2026-11-18T05:36:10.1111Z,ignit_resources,1.6.0,0,0,https://forgejo.sakul-flee.de/SakulFlee/Ignit,Compatibility re-exports for Ignit resource crates
+2026-11-18T05:38:40.678466Z,roble-format,0.1.0,0,0,https://github.com/merlimat/roble,"Encodes and decodes Pebble's on-disk formats. No I/O, no async, no engine."
+2026-11-18T05:38:42.501304Z,roble,0.1.0,0,0,https://github.com/merlimat/roble,Embedded ordered key-value store whose on-disk files are Pebble's
+2026-11-18T05:38:44.382015Z,roble-cli,0.1.0,0,0,https://github.com/merlimat/roble,"Puts, gets, scans and deletes the entries of a roble database, and inspects Pebble's files"
+2026-11-18T05:42:29.415985Z,rs-bincode-derive,2.0.1,0,0,https://github.com/hardfist/rs-turbo,"Implementation of #[derive(Encode, Decode)] for bincode. Republished fork of https://github.com/vercel-labs/bincode-fork (rev 099bf4f) for turbobuild."
+2026-11-18T05:42:31.879852Z,rs-bincode,2.0.1,0,0,https://github.com/hardfist/rs-turbo,A binary serialization / deserialization strategy for transforming structs into bytes and vice versa. Republished fork of https://github.com/vercel-labs/bincode-fork (rev 099bf4f) for turbobuild.
+2026-11-18T05:43:46.249057Z,idenumbra-cri,0.1.0-alpha.1,0,0,https://github.com/ailuracollective/idenumbra,"Costa Rica identification validator (ID card, DIMEX)"
+2026-11-18T05:44:20.981015Z,verbum-shell,0.2.1,0,0,https://github.com/scriptura/verbum,"Shell of the Verbum engine: provisional fixed-step loop and event acquisition, driving the Scheduler through closures only."
+2026-11-18T05:45:14.856669Z,prime-fluid,0.1.0,0,0,https://github.com/anton-avramchuk/prime-rs,prime-rs: Fluid component (port of PrimeNG)
+2026-11-18T05:46:08.654978Z,ignit_touch_ui,1.6.0,0,0,https://forgejo.sakul-flee.de/SakulFlee/Ignit,Touch-control overlays for Ignit
+2026-11-18T05:51:31.021281Z,paged-kv,0.1.0,0,0,https://github.com/Mattral/paged-kv,"Paged KV blocks with stored f32 vectors, one GPT-2 forward, and FCFS batching"
+2026-11-18T05:53:46.965511Z,idenumbra-cub,0.1.0-alpha.1,0,0,https://github.com/ailuracollective/idenumbra,Cuba identification validator (identity card)
+2026-11-18T05:54:23.048204Z,apolline-scene,0.2.0,0,0,https://github.com/Pisosenie/apolline-scene,"A renderer for Wallpaper Engine scenes, in Rust on GLES, written clean-room"
+2026-11-18T05:54:41.035209Z,rs-auto-hash-map,0.1.0,0,0,https://github.com/hardfist/rs-turbo,Turbo engine crate auto-hash-map. Republished fork of `auto-hash-map` from vercel/next.js turbopack (rev 81d6086) for turbobuild.
+2026-11-18T05:55:31.690161Z,prime-galleria,0.1.0,0,0,https://github.com/anton-avramchuk/prime-rs,prime-rs: Galleria component (PrimeNG port)
+2026-11-18T05:56:06.854724Z,ignit_ui,1.6.0,0,0,https://forgejo.sakul-flee.de/SakulFlee/Ignit,"ECS UI components, layout, hit testing, and events for Ignit"
+2026-11-18T06:02:16.82669Z,solana-launch-alerts,0.1.0-alpha.1,0,0,https://github.com/Trenchwatch/solana-launch-alerts,"Verify and parse signed launch-risk alert webhooks for Solana launchpads (open standard, spec 2026-10)."
+2026-11-18T06:03:46.22446Z,idenumbra-dom,0.1.0-alpha.1,0,0,https://github.com/ailuracollective/idenumbra,Dominican Republic identification validator (ID card)
+2026-11-18T06:05:35.179116Z,prime-iconfield,0.1.0,0,0,https://github.com/anton-avramchuk/prime-rs,prime-rs: IconField and InputIcon components (port of PrimeNG)
+2026-11-18T06:06:11.309456Z,ignit,1.6.0,0,0,https://forgejo.sakul-flee.de/SakulFlee/Ignit,Cross-platform real-time 3D rendering engine and framework
+2026-11-18T06:06:56.6933Z,rs-turbo-bitset,0.1.0,0,0,https://github.com/hardfist/rs-turbo,"A fast bitset over a bounded, block-aligned bit range. Republished fork of `turbo-bitset` from vercel/next.js turbopack (rev 81d6086) for turbobuild."
+2026-11-18T06:10:41.573575Z,rivlet-topology,0.5.0,0,0,https://github.com/ririv/rivlet,Directed topology and DAG validation for Rivlet
+2026-11-18T06:12:07.063726Z,rivlet-action,0.5.0,0,0,https://github.com/ririv/rivlet,Typed Rust actions and workers for Rivlet
+2026-11-18T06:12:15.047221Z,rivlet-core,0.5.0,0,0,https://github.com/ririv/rivlet,Shared graph compiler and execution state machine for Rivlet
+2026-11-18T06:12:21.968193Z,rivlet-graph,0.5.0,0,0,https://github.com/ririv/rivlet,Composable Rust graph declarations for Rivlet
+2026-11-18T06:12:28.981547Z,rivlet-execution,0.5.0,0,0,https://github.com/ririv/rivlet,Rust execution driver and typed outcomes for Rivlet
+2026-11-18T06:13:46.206104Z,idenumbra-ecu,0.1.0-alpha.1,0,0,https://github.com/ailuracollective/idenumbra,"Ecuador identification validator (ID card, RUC, passport)"
+2026-11-18T06:15:38.853744Z,prime-iftalabel,0.1.0,0,0,https://github.com/anton-avramchuk/prime-rs,prime-rs: IftaLabel component (port of PrimeNG)
+2026-11-18T06:16:08.490956Z,ignit-cli,1.6.0,0,0,https://forgejo.sakul-flee.de/SakulFlee/Ignit,Command-line tool for creating and building Ignit projects
+2026-11-18T06:17:04.235873Z,rivlet,0.5.0,0,0,https://github.com/ririv/rivlet,Composable task graphs with typed Rust actions and explicit dependencies
+2026-11-18T06:18:51.499326Z,rs-turbo-frozenmap,0.1.0,0,0,https://github.com/hardfist/rs-turbo,Turbo engine crate turbo-frozenmap. Republished fork of `turbo-frozenmap` from vercel/next.js turbopack (rev 81d6086) for turbobuild.
+2026-11-18T06:19:19.0746Z,tauri-plugin-iphone-duo-layout,0.1.0,0,0,https://github.com/yy-works/tauri-plugin-iphone-duo-layout,"Tauri v2 plugin for iPhone Duo foldable layout metrics, safe areas and corner radii"
