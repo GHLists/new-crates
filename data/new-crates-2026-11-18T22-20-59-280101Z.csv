@@ -1,0 +1,59 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-18T21:22:52.982642Z,resumable,0.1.0,0,0,https://github.com/Natoandro/resumable,"Durable, resumable asynchronous operations composed of named steps"
+2026-11-18T21:24:05.04066Z,jspassgen,0.0.22,0,0,https://github.com/sebastienrousseau/jspassgen-sdk-rust,Native Rust port of the jspassgen password generator core (in progress: the OS CSPRNG random source only)
+2026-11-18T21:24:18.51669Z,system-of-a-one,0.1.0,0,0,https://github.com/hthug06/system-of-a-one,A Rust client for the System One decision models.
+2026-11-18T21:33:17.44184Z,thesis-sdk,0.0.3,0,0,https://github.com/thesis-pbc/sdks,"The Thesis SDK for Rust, from Thesis PBC."
+2026-11-18T21:34:14.953519Z,primitives-sdk,0.0.3,0,0,https://github.com/thesis-pbc/sdks,"The Primitives SDK for Rust, from Thesis PBC."
+2026-11-18T21:34:36.333439Z,htj2k,0.1.0,0,0,https://github.com/jedypod/htj2k,"High-Throughput JPEG 2000 (HTJ2K, ITU-T T.814) codestream codec in safe Rust, ported from OpenJPH"
+2026-11-18T21:34:54.317834Z,filecon-dioxus,0.1.0,0,0,https://github.com/dutobo/filecon,"Dioxus component for the Filecon file-type icons: 703 formats in three styles (web, desktop, mobile)."
+2026-11-18T21:35:03.697581Z,tauri-plugin-filecon,0.1.0,0,0,https://github.com/dutobo/filecon,"Tauri 2 plugin for the Filecon file-type icons: 703 formats in three styles, resolved by file name or magic bytes."
+2026-11-18T21:36:58.62372Z,ibridge-core,1.0.0,0,0,https://github.com/AlexanderTar/icloud-mcp,"Domain newtypes, provider traits and the core error type."
+2026-11-18T21:37:01.225287Z,ibridge-auth,1.0.0,0,0,https://github.com/AlexanderTar/icloud-mcp,"Credentials, credential sources and the iCloud host allowlist."
+2026-11-18T21:37:01.938499Z,ibridge-server,1.0.0,0,0,https://github.com/AlexanderTar/icloud-mcp,"MCP server, tool routers and error mapping."
+2026-11-18T21:37:04.151531Z,ibridge-dav,1.0.0,0,0,https://github.com/AlexanderTar/icloud-mcp,Shared CalDAV and CardDAV client.
+2026-11-18T21:37:04.813403Z,ibridge-mail,1.0.0,0,0,https://github.com/AlexanderTar/icloud-mcp,IMAP and SMTP mail provider.
+2026-11-18T21:37:25.995438Z,botwright,0.1.0,0,0,https://github.com/thesn10/botwright,"Framework for event-driven bots: collectors, strategies and executors with explicit delivery semantics"
+2026-11-18T21:41:40.060693Z,nuvem-domain,0.0.0,0,0,https://github.com/filipeaaoliveira/nuvem,Domain logic for nuvem. Placeholder: the first release is coming.
+2026-11-18T21:41:42.90231Z,nuvem,0.0.0,0,0,https://github.com/filipeaaoliveira/nuvem,"Terminal UI for Google Cloud, in the spirit of k9s. Placeholder: the first release is coming."
+2026-11-18T21:42:22.545978Z,qorral,0.0.1,0,0,https://github.com/rennerdo30/qorral,Qorral: a fast virtual machine manager (GUI and CLI). In development.
+2026-11-18T21:42:24.924949Z,qorral-core,0.0.1,0,0,https://github.com/rennerdo30/qorral,"Qorral's VM model, QEMU command line, QMP client and VM library. In development."
+2026-11-18T21:42:27.32761Z,qorral-display,0.0.1,0,0,https://github.com/rennerdo30/qorral,Qorral's client for QEMU's D-Bus display. In development.
+2026-11-18T21:42:30.095503Z,qorral-gpu,0.0.1,0,0,https://github.com/rennerdo30/qorral,Qorral's Vulkan compositor for guest displays. In development.
+2026-11-18T21:42:32.942799Z,qorral-render,0.0.1,0,0,https://github.com/rennerdo30/qorral,CPU canvas and text for the Qorral UI. In development.
+2026-11-18T21:43:19.502523Z,musubi-core,0.47.1,0,0,https://github.com/bos/jj-musubi,"Internal to jj-musubi (no stable API): the sync protocol, independent of transport and storage"
+2026-11-18T21:43:20.570606Z,musubi-jj,0.47.1,0,0,https://github.com/bos/jj-musubi,"Internal to jj-musubi (no stable API): jj-lib integration, canonical operations and objects"
+2026-11-18T21:43:21.432693Z,musubi-transport,0.47.1,0,0,https://github.com/bos/jj-musubi,"Internal to jj-musubi (no stable API): message transports, over byte streams or in memory"
+2026-11-18T21:43:22.359072Z,musubi-hub,0.47.1,0,0,https://github.com/bos/jj-musubi,Internal to jj-musubi (no stable API): the hub's storage and ordering of canonical operations
+2026-11-18T21:43:24.294518Z,musubi-sync,0.47.1,0,0,https://github.com/bos/jj-musubi,"Internal to jj-musubi (no stable API): the protocol core, bound to repositories and hub storage"
+2026-11-18T21:43:57.180555Z,clairlune-scene,0.1.0,0,0,https://github.com/yam333/clairlune,"Deterministic, seeded scene generation for the Clairlune ASCII-art wallpaper app"
+2026-11-18T21:43:59.926121Z,clairlune,0.1.0,0,0,https://github.com/yam333/clairlune,"Procedural, animated ASCII-art desktop wallpapers. Local, seeded and deterministic; no AI, no network."
+2026-11-18T21:44:01.138147Z,clairlune-render,0.1.0,0,0,https://github.com/yam333/clairlune,"Glyph atlas, palette-index compositor and PNG export for Clairlune ASCII-art wallpapers"
+2026-11-18T21:44:03.580217Z,clairlune-cli,0.1.0,0,0,https://github.com/yam333/clairlune,Developer CLI for Clairlune: render procedural ASCII-art wallpapers to PNG from a seed
+2026-11-18T21:48:09.712469Z,ibridge-calendar,1.0.0,0,0,https://github.com/AlexanderTar/icloud-mcp,Calendar and reminders providers.
+2026-11-18T21:48:13.203999Z,ffwd-render,0.1.0,0,0,https://github.com/rennerdo30/ffwd,"A small CPU canvas: solid fills, anti-aliased vector shapes and cached text, drawn into a 0x00RRGGBB pixel buffer. No windowing, no GPU."
+2026-11-18T21:53:27.55171Z,tauten-check,0.0.1,0,0,https://github.com/tauten-dev/tauten,"Pure analysis for the tauten Rust strictness profile: rules, lint flags and structural checks."
+2026-11-18T21:53:28.016112Z,tauten-macros,0.0.1,0,0,https://github.com/tauten-dev/tauten,Procedural macros for tauten: refinement types and runtime-checked contracts.
+2026-11-18T21:53:28.576337Z,cargo-tauten,0.0.1,0,0,https://github.com/tauten-dev/tauten,Run the tauten strictness profile over a Cargo workspace.
+2026-11-18T21:53:29.217408Z,tauten,0.0.1,0,0,https://github.com/tauten-dev/tauten,"Capability tokens, refinement types and checked contracts for the tauten Rust strictness profile."
+2026-11-18T21:53:38.821471Z,jj-musubi,0.47.1,0,0,https://github.com/bos/jj-musubi,Replicate jj repositories between machines
+2026-11-18T21:54:15.551967Z,egui_mineral_inspector,0.0.0,0,0,https://github.com/lajosbencz/egui-mineral,"Placeholder for egui_mineral_inspector, part of the egui_mineral UI framework; releases follow."
+2026-11-18T21:55:10.642788Z,egui_mineral_fluent,0.0.0,0,0,https://github.com/lajosbencz/egui-mineral,"Placeholder for egui_mineral_fluent, part of the egui_mineral UI framework; releases follow."
+2026-11-18T21:57:29.261099Z,ibridge-contacts,1.0.0,0,0,https://github.com/AlexanderTar/icloud-mcp,Contacts provider.
+2026-11-18T21:58:12.677195Z,ffwd,0.0.1,0,0,https://github.com/rennerdo30/ffwd,"Name placeholder for ffwd, part of the ffwd desktop Git client (https://github.com/rennerdo30/ffwd). The first real release follows shortly."
+2026-11-18T21:58:57.869335Z,encore-clickhouse,2.0.0-beta.10,0,0,https://github.com/encoredev/v2-encore,A ClickHouse client over the HTTP interface for the Encore runtime and daemon
+2026-11-18T22:04:46.550427Z,gitpoulpi-core,1.0.0,0,0,https://github.com/Poulpi-Lab/GitPoulpi,"GitPoulpi domain model, GitBackend and trait. No I/O-framework dependencies."
+2026-11-18T22:04:59.510503Z,gitpoulpi-i18n,1.0.0,0,0,https://github.com/Poulpi-Lab/GitPoulpi,"UI translations: per-language TOML compiled by build.rs into static tables. No runtime dependencies, usable from the TUI and the CLI."
+2026-11-18T22:05:04.057878Z,gitpoulpi-logo-build,1.0.0,0,0,https://github.com/Poulpi-Lab/GitPoulpi,"Build-script support of the GitPoulpi binaries: the logo colorway table, its build-time selection and the Windows executable icon."
+2026-11-18T22:05:07.91264Z,gitpoulpi-pty,1.0.0,0,0,https://github.com/Poulpi-Lab/GitPoulpi,"A child process on an emulated terminal: spawn on a pty (ConPTY on Windows), read back the screen. Shared by the AI terminal mode and the xtask test driver."
+2026-11-18T22:05:10.250668Z,gitpoulpi-secrets,1.0.0,0,0,https://github.com/Poulpi-Lab/GitPoulpi,"Credential resolution: git credential-helper adapter (default) (the only source). SSH relies on the system ssh-agent, not handled here."
+2026-11-18T22:07:12.050209Z,ibridge-hosted,1.0.0,0,0,https://github.com/AlexanderTar/icloud-mcp,Hosted OAuth server and token-sealed credential store.
+2026-11-18T22:08:09.502752Z,rdp-proto,0.1.0-beta.11,0,0,https://github.com/rennerdo30/rdp-rs,RDP client protocol implementation written from the Microsoft Open Specifications
+2026-11-18T22:08:12.77839Z,token-max,0.0.1,0,0,https://github.com/kixel-ai/token-max,Recommends cheaper agent settings from your Claude Code and Codex transcripts
+2026-11-18T22:12:19.569748Z,ticklet,0.1.0,0,0,https://github.com/Derekbenj/ticklet,Fixed-capacity embedded ECS with compile-time system ordering and checked schedule budgets
+2026-11-18T22:12:20.216394Z,ticklet-drivers,0.1.0,0,0,https://github.com/Derekbenj/ticklet,"Board-independent asynchronous driver traits, timestamped acquisition and deterministic test sources"
+2026-11-18T22:12:20.887312Z,ticklet-schedule,0.1.0,0,0,https://github.com/Derekbenj/ticklet,Build-time schedule compilation and admission for Ticklet ECS applications
+2026-11-18T22:12:21.532311Z,ticklet-twin,0.1.0,0,0,https://github.com/Derekbenj/ticklet,Deterministic host replay for a Ticklet application's event and timer schedule
+2026-11-18T22:15:21.651815Z,agent-attachment-protocol,0.1.0,0,0,https://github.com/ignition-is-go/agent-ssh,"Experimental agent attachment references, observations, and validation"
+2026-11-18T22:15:43.662552Z,agent-ssh,0.2.1,0,0,https://github.com/ignition-is-go/agent-ssh,Arrange agent terminal layouts and reconnect through provider attachment plans
+2026-11-18T22:18:12.598232Z,ffwd-core,0.0.1,0,0,https://github.com/rennerdo30/ffwd,"Name placeholder for ffwd-core, part of the ffwd desktop Git client (https://github.com/rennerdo30/ffwd). The first real release follows shortly."
+2026-11-18T22:18:25.196775Z,ibridge,1.0.0,0,0,https://github.com/AlexanderTar/icloud-mcp,"iCloud Mail, Calendar, Reminders and Contacts MCP server."
