@@ -1,0 +1,34 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-18T11:19:31.420541Z,puns-derive,0.1.0,0,0,https://github.com/uael/puns,The #[derive(Pun)] macro for the puns crate
+2026-11-18T11:19:36.316493Z,puns,0.1.0,0,0,https://github.com/uael/puns,Type punning proven at compile time: a safe alternative to transmute and to hand-written parsing of bytes
+2026-11-18T11:19:37.399289Z,prime-speeddial,0.1.0,0,0,https://github.com/anton-avramchuk/prime-rs,prime-rs: SpeedDial component (PrimeNG port)
+2026-11-18T11:20:22.062438Z,brei,0.1.0,0,0,https://github.com/entangled/brei.rs,"A small but versatile workflow system, with workflows in TOML, YAML or JSON"
+2026-11-18T11:21:48.871933Z,claude-agent-rust-sdk-macros,0.1.0-rc.2,0,0,https://github.com/arthjean/claude-agent-rust-sdk,"Procedural macros of claude-agent-rust-sdk, used through its `macros` feature"
+2026-11-18T11:21:56.294578Z,claude-agent-rust-sdk,0.1.0-rc.2,0,0,https://github.com/arthjean/claude-agent-rust-sdk,Rust SDK for building Claude Agent applications on top of the Claude CLI
+2026-11-18T11:27:53.076159Z,biome_yaml_factory,0.7.3,0,0,https://github.com/biomejs/biome,Utilities to create YAML AST for biome_yaml_parser
+2026-11-18T11:29:22.199957Z,egui-customplot,0.1.0,0,0,https://github.com/littepointR/egui-customplot,"An embeddable, high-performance scientific and engineering plotting library for egui"
+2026-11-18T11:29:42.322745Z,prime-splitbutton,0.1.0,0,0,https://github.com/anton-avramchuk/prime-rs,prime-rs: SplitButton component (PrimeNG port)
+2026-11-18T11:37:53.737095Z,biome_yaml_parser,0.7.3,0,0,https://github.com/biomejs/biome,Biome's YAML parser
+2026-11-18T11:47:52.58836Z,biome_css_semantic,0.7.3,0,0,https://github.com/biomejs/biome,Biome's semantic model for CSS
+2026-11-18T11:48:18.315362Z,mini-crdt,0.1.0,0,0,https://github.com/sagami121/mini-crdt,Zero-dependency CRDT implementations for Rust
+2026-11-18T11:48:42.987905Z,rialo-transaction-package-interface,0.26.0,0,0,,"Contract between protocol, which carries a user transaction as its Solana encoding without reading it, and the runtime, which parses it"
+2026-11-18T11:50:19.468283Z,agentai-video,0.7.0,0,0,https://github.com/AdamStrojek/rust-agentai,"Video generation for AgentAI: submit a job, follow it, download the video."
+2026-11-18T11:52:49.510599Z,rialo-compute-budget-bounds,0.26.0,0,0,,"Per-block, feature-resolved compute-budget ceilings beside the rialo-s-compute-budget copy"
+2026-11-18T11:54:40.560917Z,nvim-rpc-ui,0.1.0,0,0,https://github.com/naughie/nvim-rpc-rs,"Backend-independent Neovim UI state, frames, and input"
+2026-11-18T11:57:11.726835Z,basek,0.1.0,0,0,,Это учебный проект для тестирования кибербезопасности.
+2026-11-18T11:57:17.918531Z,mp305,0.1.1,0,0,https://github.com/mstaack/isdt-mp305-control,CLI and library to control the ISDT MP305 (MP305A/MP305B) bench power supply over USB-HID
+2026-11-18T11:57:52.567491Z,biome_glob,0.7.3,0,0,https://github.com/biomejs/biome,<DESCRIPTION>
+2026-11-18T12:02:43.461482Z,blastr-model,0.1.0,0,0,https://github.com/zix3r/blastr,Internal crate of Blastr (shared data types); not a stable API
+2026-11-18T12:02:44.072061Z,blastr-store,0.1.0,0,0,https://github.com/zix3r/blastr,Internal crate of Blastr (the SQLite cache); not a stable API
+2026-11-18T12:02:45.205069Z,blastr-git,0.1.0,0,0,https://github.com/zix3r/blastr,Internal crate of Blastr (Git access); not a stable API
+2026-11-18T12:02:45.570612Z,blastr-ra,0.1.0,0,0,https://github.com/zix3r/blastr,Internal crate of Blastr (the rust-analyzer adapter); not a stable API
+2026-11-18T12:02:46.682115Z,blastr-core,0.1.0,0,0,https://github.com/zix3r/blastr,Internal crate of Blastr (the analysis pipeline); not a stable API
+2026-11-18T12:04:52.686108Z,ssplayer-wgpu,7.0.0-beta.1,0,0,https://github.com/cri-middleware/SSPlayerForWgpu,SpriteStudio Player for wgpu: renders SpriteStudio animations (.ssab) with wgpu.
+2026-11-18T12:07:04.133234Z,markdown-editor-core,0.1.0,0,0,https://github.com/iocast/markdown-editor-core,UI-independent core of a Word-style WYSIWYG CommonMark editor
+2026-11-18T12:07:50.366846Z,runx-launcher,0.7.1,0,0,https://github.com/aryankahar31/runx,"Run any project with the exact runtime versions it declares — no global installs, no shell hooks"
+2026-11-18T12:07:53.487302Z,biome_graphql_formatter,0.7.3,0,0,https://github.com/biomejs/biome,Biome's GraphQL formatter
+2026-11-18T12:10:26.205672Z,ssplayer-bevy,7.0.0-beta.1,0,0,https://github.com/cri-middleware/SSPlayerForWgpu,Bevy adapter for SpriteStudio Player for wgpu: spawns a SpriteStudio animation (.ssab) as an entity in a Bevy app.
+2026-11-18T12:17:22.080125Z,docs4agent,0.1.0,0,0,https://github.com/HATCHERY-lab/docs4agent,"Frontmatter, templates, and the check for Hatchery documents"
+2026-11-18T12:17:53.177325Z,biome_grit_formatter,0.7.3,0,0,https://github.com/biomejs/biome,Biome's GritQL formatter
+2026-11-18T12:18:45.562458Z,blastr-gui,0.1.0,0,0,https://github.com/zix3r/blastr,Internal crate of Blastr (the desktop interface); not a stable API
+2026-11-18T12:19:25.266405Z,phanotate-rs,0.1.4,0,0,https://github.com/Yasas1994/PHANOTATE-rs,A fast Rust implementation of PHANOTATE with automatic genetic-code detection for phage genomes
