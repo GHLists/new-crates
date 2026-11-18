@@ -1,0 +1,24 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-18T17:30:31.658547Z,shaul-core,1.0.0,0,0,https://github.com/hushink/shaul,"Core domain, engine, task store, resume and finalizers for shaul"
+2026-11-18T17:31:35.367764Z,shaul-bt,1.0.0,0,0,https://github.com/hushink/shaul,BitTorrent parser and leech-only backend for shaul (via librqbit)
+2026-11-18T17:32:03.807983Z,shaul-http,1.0.0,0,0,https://github.com/hushink/shaul,Direct-link HTTP backend for shaul
+2026-11-18T17:32:13.104782Z,shaul-hub,1.0.0,0,0,https://github.com/hushink/shaul,Hugging Face and ModelScope parsers and backends for shaul
+2026-11-18T17:32:18.142367Z,shaul,1.0.0,0,0,https://github.com/hushink/shaul,Embeddable multi-protocol download engine
+2026-11-18T17:35:06.156838Z,mycena,0.1.0,0,0,https://codeberg.org/joshleeb/mycena,Fine-grained reactivity over a dependency graph
+2026-11-18T17:40:37.199605Z,prensa,0.1.0,0,0,https://github.com/eoSalinas/prensa,Optimize EPUBs for e-ink readers
+2026-11-18T17:40:39.939167Z,prensa-cli,0.1.0,0,0,https://github.com/eoSalinas/prensa,"Command-line interface for prensa, the EPUB optimizer for e-ink readers"
+2026-11-18T17:45:29.169956Z,shaul-cli,1.0.0,0,0,https://github.com/hushink/shaul,Command line interface for shaul
+2026-11-18T17:48:21.560166Z,texist,0.1.0,0,0,https://codeberg.org/umukka/Texist.git,Text anchors and ropes backed by a Boundary Subdivision Tree
+2026-11-18T17:50:32.014081Z,rjgrep,0.1.0,0,0,https://github.com/48-Labs/rjgrep,"Reverse JSON query: give it a string, get back the jq/JSONPath/JSON-Pointer queries that reach it"
+2026-11-18T17:54:25.899285Z,octoii-siphon-lib,0.0.1,0,0,https://github.com/octoii-works/octoii-siphon-lib,Safe Rust interface to Siphon's native execution library
+2026-11-18T17:54:48.895856Z,navree-ui-ext-macros,1.3.0,0,0,https://github.com/NavreeHQ/navree,"The file macros of navree-ui's extensions: a component's script and stylesheet read, scoped and hashed when a plugin compiles, used through navree-ui or navree."
+2026-11-18T17:58:51.74032Z,epistemologicant,0.0.0,0,0,https://github.com/ThinkersJournal/epistemologicant,"Placeholder: EpistemologicAnt, tool libraries for the field of epistemologic. Not yet released."
+2026-11-18T17:58:55.055037Z,ontologicant,0.0.0,0,0,https://github.com/ThinkersJournal/ontologicant,"Placeholder: OntologicAnt, tool libraries for the field of ontologic. Not yet released."
+2026-11-18T17:58:58.457992Z,semanticant,0.0.0,0,0,https://github.com/ThinkersJournal/semanticant,"Placeholder: SemanticAnt, tool libraries for the field of semantic. Not yet released."
+2026-11-18T18:02:13.653778Z,cargo-breaking-bump,0.1.0,0,0,https://github.com/hseeberger/breaking-bump,Detect semver-incompatible bumps of dependencies that appear in the public API of Rust crates
+2026-11-18T18:05:49.275284Z,doteml,0.2.3,0,0,https://github.com/cyberbanksy/.eml,"Convert .eml email files to PDF, PNG, JPG, or HTML"
+2026-11-18T18:08:10.316323Z,rusuna-http-client,0.2.0,0,0,https://github.com/conao3/rust-rusuna,The hyper and rustls HTTP client that rusuna uses for webhooks and remote schemas
+2026-11-18T18:14:36.647099Z,matscikit,0.1.0-beta.1,0,0,,"Fast Rust kernels for computational materials science, with Python and WebAssembly bindings"
+2026-11-18T18:17:12.898816Z,sensai-kernel-macro,0.1.0,0,0,https://github.com/kindlingai/tessera,#[kernel]: a Rust function body as a kernel tree
+2026-11-18T18:17:13.527134Z,sensai-trace-derive,0.1.0,0,0,https://github.com/kindlingai/tessera,#[derive(Weights)] for model descriptions
+2026-11-18T18:19:44.104186Z,herder,0.1.0,0,0,https://github.com/Shaance/herder,"Dispatch, track and verify agent workers (Claude, Vibe, Codex) from any coordinating agent"

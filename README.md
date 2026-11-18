@@ -8,34 +8,37 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-18 17:20 UTC
+## Latest list — 2026-11-18 18:20 UTC
 
-New crates published between 2026-11-18 16:19 UTC and 2026-11-18 17:20 UTC.
+New crates published between 2026-11-18 17:20 UTC and 2026-11-18 18:20 UTC.
 
-[Full CSV](data/new-crates-2026-11-18T17-20-17-670163Z.csv)
+[Full CSV](data/new-crates-2026-11-18T18-20-54-608895Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-18 16:23:58 | [adamo-zenoh](https://crates.io/crates/adamo-zenoh) | 1.9.0-adamo.1.0.29 | 0 | Zenoh: The Zero Overhead Pub/Sub/Query Protocol. |
-| 2026-11-18 16:24:16 | [adamo-zenoh-plugin-ros2dds](https://crates.io/crates/adamo-zenoh-plugin-ros2dds) | 1.9.0-adamo.1.0.29 | 0 | Zenoh plugin for ROS 2 and DDS in general |
-| 2026-11-18 16:24:35 | [adamo](https://crates.io/crates/adamo) | 1.0.29 | 0 | Canonical Rust SDK for Adamo robot applications |
-| 2026-11-18 16:26:30 | [wizard](https://crates.io/crates/wizard) | 0.0.0 | 0 | Placeholder crate for an idea I'm working on. If this ends up stale and unused… |
-| 2026-11-18 16:31:14 | [ruask](https://crates.io/crates/ruask) | 0.1.0 | 0 | A command-line assistant for command lookup and command output explanation |
-| 2026-11-18 16:33:27 | [radixip_cache](https://crates.io/crates/radixip_cache) | 0.1.0 | 0 | Shared cache and Redis sync primitives for RadixIP |
-| 2026-11-18 16:37:06 | [lazy_json](https://crates.io/crates/lazy_json) | 1.0.0 | 0 | JSON lexer and parser |
-| 2026-11-18 16:41:13 | [radixip-policy](https://crates.io/crates/radixip-policy) | 0.1.0 | 0 | Policy engine for RadixIP: IP blocklists, rate limiting, and auto-ban logic |
-| 2026-11-18 16:41:16 | [radixip-tower](https://crates.io/crates/radixip-tower) | 0.1.0 | 0 | Tower middleware for RadixIP IP blocklists, rate limiting, and auto-banning |
-| 2026-11-18 16:41:18 | [radixip-axum](https://crates.io/crates/radixip-axum) | 0.1.0 | 0 | Axum middleware for RadixIP IP blocklists, rate limiting, and auto-banning |
-| 2026-11-18 16:41:20 | [radixip-actix](https://crates.io/crates/radixip-actix) | 0.1.0 | 0 | Actix Web middleware for RadixIP IP blocklists, rate limiting, and auto-banning |
-| 2026-11-18 16:41:24 | [radixip-grpc-interceptor](https://crates.io/crates/radixip-grpc-interceptor) | 0.1.0 | 0 | Tonic gRPC interceptor and Tower layer for RadixIP IP protection |
-| 2026-11-18 16:45:23 | [kuroko](https://crates.io/crates/kuroko) | 0.18.0 | 0 | Kuroko, the personal Microsoft Teams knowledge assistant: a host with a web int… |
-| 2026-11-18 16:47:49 | [ssqch-plugin](https://crates.io/crates/ssqch-plugin) | 0.8.0 | 0 | Write ssqch plugins in Rust: transforms, filters and template engines, built as… |
-| 2026-11-18 16:57:52 | [xetget](https://crates.io/crates/xetget) | 0.1.0 | 0 | A simple CLI tool for downloading files directly from Hugging Face using Xet |
-| 2026-11-18 17:06:59 | [open_table_core](https://crates.io/crates/open_table_core) | 1.0.0 | 0 | Core traits and types for turn-based board game engines |
-| 2026-11-18 17:07:37 | [open_table_macros](https://crates.io/crates/open_table_macros) | 1.0.0 | 0 | Proc-macros derive para reducir el boilerplate de open_table_core/open_table_en… |
-| 2026-11-18 17:08:22 | [open_table_engine](https://crates.io/crates/open_table_engine) | 1.0.0 | 0 | Motor de OpenTable Engine: bevy_ecs + scheduler + rule engine sobre los contrat… |
-| 2026-11-18 17:11:21 | [hushid](https://crates.io/crates/hushid) | 0.1.4 | 0 | Replace recognized direct identifiers with tokens. |
-| 2026-11-18 17:16:50 | [crystallib](https://crates.io/crates/crystallib) | 0.2.0 | 0 | Crystal structures (cell, atoms, values with standard uncertainties), space gro… |
+| 2026-11-18 17:30:31 | [shaul-core](https://crates.io/crates/shaul-core) | 1.0.0 | 0 | Core domain, engine, task store, resume and finalizers for shaul |
+| 2026-11-18 17:31:35 | [shaul-bt](https://crates.io/crates/shaul-bt) | 1.0.0 | 0 | BitTorrent parser and leech-only backend for shaul (via librqbit) |
+| 2026-11-18 17:32:03 | [shaul-http](https://crates.io/crates/shaul-http) | 1.0.0 | 0 | Direct-link HTTP backend for shaul |
+| 2026-11-18 17:32:13 | [shaul-hub](https://crates.io/crates/shaul-hub) | 1.0.0 | 0 | Hugging Face and ModelScope parsers and backends for shaul |
+| 2026-11-18 17:32:18 | [shaul](https://crates.io/crates/shaul) | 1.0.0 | 0 | Embeddable multi-protocol download engine |
+| 2026-11-18 17:35:06 | [mycena](https://crates.io/crates/mycena) | 0.1.0 | 0 | Fine-grained reactivity over a dependency graph |
+| 2026-11-18 17:40:37 | [prensa](https://crates.io/crates/prensa) | 0.1.0 | 0 | Optimize EPUBs for e-ink readers |
+| 2026-11-18 17:40:39 | [prensa-cli](https://crates.io/crates/prensa-cli) | 0.1.0 | 0 | Command-line interface for prensa, the EPUB optimizer for e-ink readers |
+| 2026-11-18 17:45:29 | [shaul-cli](https://crates.io/crates/shaul-cli) | 1.0.0 | 0 | Command line interface for shaul |
+| 2026-11-18 17:48:21 | [texist](https://crates.io/crates/texist) | 0.1.0 | 0 | Text anchors and ropes backed by a Boundary Subdivision Tree |
+| 2026-11-18 17:50:32 | [rjgrep](https://crates.io/crates/rjgrep) | 0.1.0 | 0 | Reverse JSON query: give it a string, get back the jq/JSONPath/JSON-Pointer que… |
+| 2026-11-18 17:54:25 | [octoii-siphon-lib](https://crates.io/crates/octoii-siphon-lib) | 0.0.1 | 0 | Safe Rust interface to Siphon's native execution library |
+| 2026-11-18 17:54:48 | [navree-ui-ext-macros](https://crates.io/crates/navree-ui-ext-macros) | 1.3.0 | 0 | The file macros of navree-ui's extensions: a component's script and stylesheet… |
+| 2026-11-18 17:58:51 | [epistemologicant](https://crates.io/crates/epistemologicant) | 0.0.0 | 0 | Placeholder: EpistemologicAnt, tool libraries for the field of epistemologic. N… |
+| 2026-11-18 17:58:55 | [ontologicant](https://crates.io/crates/ontologicant) | 0.0.0 | 0 | Placeholder: OntologicAnt, tool libraries for the field of ontologic. Not yet r… |
+| 2026-11-18 17:58:58 | [semanticant](https://crates.io/crates/semanticant) | 0.0.0 | 0 | Placeholder: SemanticAnt, tool libraries for the field of semantic. Not yet rel… |
+| 2026-11-18 18:02:13 | [cargo-breaking-bump](https://crates.io/crates/cargo-breaking-bump) | 0.1.0 | 0 | Detect semver-incompatible bumps of dependencies that appear in the public API… |
+| 2026-11-18 18:05:49 | [doteml](https://crates.io/crates/doteml) | 0.2.3 | 0 | Convert .eml email files to PDF, PNG, JPG, or HTML |
+| 2026-11-18 18:08:10 | [rusuna-http-client](https://crates.io/crates/rusuna-http-client) | 0.2.0 | 0 | The hyper and rustls HTTP client that rusuna uses for webhooks and remote schem… |
+| 2026-11-18 18:14:36 | [matscikit](https://crates.io/crates/matscikit) | 0.1.0-beta.1 | 0 | Fast Rust kernels for computational materials science, with Python and WebAssem… |
+| 2026-11-18 18:17:12 | [sensai-kernel-macro](https://crates.io/crates/sensai-kernel-macro) | 0.1.0 | 0 | #[kernel]: a Rust function body as a kernel tree |
+| 2026-11-18 18:17:13 | [sensai-trace-derive](https://crates.io/crates/sensai-trace-derive) | 0.1.0 | 0 | #[derive(Weights)] for model descriptions |
+| 2026-11-18 18:19:44 | [herder](https://crates.io/crates/herder) | 0.1.0 | 0 | Dispatch, track and verify agent workers (Claude, Vibe, Codex) from any coordin… |
 
 ## Data source
 
