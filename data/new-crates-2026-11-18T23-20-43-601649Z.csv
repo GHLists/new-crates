@@ -1,0 +1,30 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-18T22:21:29.59164Z,gitpoulpi-cli-backend,1.0.0,0,0,https://github.com/Poulpi-Lab/GitPoulpi,"GitBackend implementation that shells out to the system `git` binary, parsing only machine-readable output (porcelain v2, NUL-delimited logs)."
+2026-11-18T22:24:54.093587Z,gitpoulpi-config,1.0.0,0,0,https://github.com/Poulpi-Lab/GitPoulpi,"GitPoulpi config schema, TOML load/save, defaults, and OS-correct path resolution."
+2026-11-18T22:28:09.922691Z,nitrate-mpv,0.1.0-beta.1,0,0,https://github.com/rennerdo30/nitrate,Loads libmpv at runtime and wraps the parts of its C API that Nitrate uses.
+2026-11-18T22:30:35.24633Z,recount,0.0.1,0,0,https://github.com/fearandesire/recount,"Recount tells you what changed in any git repository, in plain sentences with proof. Placeholder; the real release is coming."
+2026-11-18T22:33:59.918036Z,parsec-html,0.0.0,0,0,https://github.com/parsec-html/parsec,"A fast, spec-compliant HTML5 parser with CSS selectors. Name reserved; the first real release is 0.1.0."
+2026-11-18T22:38:13.524336Z,ffwd-ai,0.2.0-beta.11,0,0,https://github.com/rennerdo30/ffwd,"AI help for ffwd against an OpenAI-compatible endpoint the user configures (local servers first). Streaming, cancellable, no UI dependencies. Internal to ffwd: no stable API."
+2026-11-18T22:39:46.209253Z,gitpoulpi-git2-backend,1.0.0,0,0,https://github.com/Poulpi-Lab/GitPoulpi,"GitBackend implementation over libgit2 (git2 crate), decorating gitpoulpi-cli-backend for operations git2 doesn't support natively."
+2026-11-18T22:44:38.325076Z,shardheap,0.1.0,0,0,https://github.com/dahankzter/shardheap,Shared-nothing allocators for Rust's stable Allocator API: a mimalloc-style heap plus arenas and reaps that share its memory
+2026-11-18T22:44:57.820361Z,gitpoulpi-hosting,1.0.0,0,0,https://github.com/Poulpi-Lab/GitPoulpi,"Hosting and issue-tracker API clients (GitHub, GitLab, Gitea/Forgejo, Azure DevOps, Bitbucket, Gerrit, Jira, Trello, Linear, YouTrack, Redmine, local Markdown issues): project listing, clone helpers,…"
+2026-11-18T22:48:12.526831Z,ffwd-update,0.2.0-beta.11,0,0,https://github.com/rennerdo30/ffwd,"Update checks for ffwd: GitHub release discovery, version order, checksums, bounded HTTPS downloads. Internal to ffwd: no stable API."
+2026-11-18T22:49:48.16492Z,freenet-quinn-proto,0.11.13,0,0,https://github.com/quinn-rs/quinn,TEMPORARY FORK of quinn-proto carrying unreleased upstream fixes (quinn-rs/quinn#2987). Do not depend on it: use upstream quinn-proto.
+2026-11-18T22:50:09.782342Z,freenet-quinn,0.11.13,0,0,https://github.com/quinn-rs/quinn,TEMPORARY FORK of quinn carrying unreleased upstream fixes (quinn-rs/quinn#2987). Do not depend on it: use upstream quinn.
+2026-11-18T22:51:57.946476Z,rs-arrow-timestamps2pgcopy,0.1.0,0,0,https://github.com/takanoriyanagitani/rs-arrow-timestamps2pgcopy,Converts the timestamp values in the array to pgcopy bytes.
+2026-11-18T22:53:54.103893Z,momentary,0.1.0,0,0,https://codeberg.org/wreedb/momentary,Temporary file and directory management facilities
+2026-11-18T22:56:14.733946Z,weirdnet-agent,0.1.0,0,0,https://github.com/WeirdBrains/weirdnet-agent,"Weirdnet agent runtime: a model-agnostic agent loop with streaming events and cancellation, tool sources and registry, tiered approval policy with per-site grants and standing allows, research budget…"
+2026-11-18T22:58:13.023717Z,ffwd-agent,0.2.0-beta.11,0,0,https://github.com/rennerdo30/ffwd,Experimental agent workspaces for ffwd: runs a coding agent in its own worktree and sandbox. No UI dependencies. Internal to ffwd: no stable API.
+2026-11-18T22:59:12.242179Z,auro-macros,0.1.0-alpha.1,0,0,https://github.com/pdl-clay/auro,Procedural macros for Auro commands
+2026-11-18T22:59:21.570469Z,auro-ipc,0.1.0-alpha.1,0,0,https://github.com/pdl-clay/auro,Typed command transport for Auro
+2026-11-18T22:59:28.082128Z,auro-sign,0.1.0-alpha.1,0,0,https://github.com/pdl-clay/auro,Signing keys and artifact signatures for Auro
+2026-11-18T22:59:33.793357Z,auro-perms,0.1.0-alpha.1,0,0,https://github.com/pdl-clay/auro,Capability manifest and runtime enforcement for Auro boundaries
+2026-11-18T22:59:57.236896Z,auro-services,0.1.0-alpha.1,0,0,https://github.com/pdl-clay/auro,"Platform services for Auro: autostart, notifications, keychain, shortcuts, tray and deep links"
+2026-11-18T23:00:02.392843Z,gitpoulpi-ipc,1.0.0,0,0,https://github.com/Poulpi-Lab/GitPoulpi,"Client<->daemon IPC protocol shared by the TUI, CLI, and MCP frontends: request/response commands plus a live event-subscription stream."
+2026-11-18T23:08:38.291152Z,kwil,0.0.1,0,0,https://github.com/rennerdo30/kwil,"Kwil, a fast plain text editor for the desktop and the terminal. This early release holds the name; install Kwil from its GitHub releases until 0.1.0."
+2026-11-18T23:10:31.334365Z,auro-core,0.1.0-alpha.1,0,0,https://github.com/pdl-clay/auro,"Application model for Auro: config, state and the runtime bridge"
+2026-11-18T23:11:53.095059Z,evento-cluster,2.0.0-alpha.39,0,0,https://github.com/timayz/evento,"Clustered executor for evento — a leaderless, strictly-serializable, highly-available replicated event store on the Accord consensus protocol (CEP-15)"
+2026-11-18T23:12:51.516577Z,maximus,0.1.0,0,0,https://github.com/almanaculum/almanaculum,Vim input bindings for the Marcellus CLI and the native Luff editor.
+2026-11-18T23:14:16.447643Z,gitpoulpi-log,1.0.0,0,0,https://github.com/Poulpi-Lab/GitPoulpi,"GitPoulpi application log: a tracing sink with a level, daily files, retention and redaction."
+2026-11-18T23:15:09.654724Z,gitpoulpi-session,1.0.0,0,0,https://github.com/Poulpi-Lab/GitPoulpi,"Session/state persistence: named sessions (tabs, layout), per-repo state (ref filters, pending auto-stash), restore-on-restart."
+2026-11-18T23:18:20.014319Z,nitrate-ui,0.1.0-beta.1,0,0,https://github.com/rennerdo30/nitrate,"Nitrate's player controls: layout, hit testing and CPU drawing. No windowing, no GPU."
