@@ -1,0 +1,50 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-18T10:24:55.45734Z,snarkrs-gnark-solver,0.2.0,0,0,https://github.com/zemse/snarkrs,"A pure-Rust solver for gnark v0.14 BN254 R1CS files, bit-identical to gnark's own"
+2026-11-18T10:25:11.403244Z,snarkrs-gnark,0.2.0,0,0,https://github.com/zemse/snarkrs,"gnark Groth16 BN254 proving key, verifying key and witness parsing for snarkrs"
+2026-11-18T10:25:30.761318Z,snarkrs-gnark-convert,0.2.0,0,0,https://github.com/zemse/snarkrs,Convert Groth16 BN254 keys and proofs between gnark v0.14 and snarkjs
+2026-11-18T10:27:53.113966Z,biome_graphql_parser,0.7.3,0,0,https://github.com/biomejs/biome,Biome's GraphQL parser
+2026-11-18T10:28:11.691948Z,microsoft-webui-projection,3.1.2,0,0,https://github.com/microsoft/webui,Native build-time state projection analysis for WebUI
+2026-11-18T10:29:16.045253Z,cartone,0.1.0,0,0,,"Cartone - generation broker MCP: a job queue and per-job cost ledger over image, video, and TTS generation routes, with per-route lane-eligibility gating"
+2026-11-18T10:29:16.696159Z,prime-togglebutton,0.1.0,0,0,https://github.com/anton-avramchuk/prime-rs,prime-rs: ToggleButton component (PrimeNG port)
+2026-11-18T10:30:40.403189Z,brokk-mj-build-id,0.0.0,0,0,https://github.com/BrokkAi/mjolnir,The build identity compiled into the Mjolnir programs (name reservation; released with Mjolnir)
+2026-11-18T10:32:25.714618Z,rappin-rs-derive,0.2.0-dev.1,0,0,https://github.com/Lost1419/Rappin,Optional command argument derives for Rappin
+2026-11-18T10:32:30.737727Z,instant-feeds,0.1.0,0,0,https://github.com/djc/instant-feeds,Generate and parse Atom feeds
+2026-11-18T10:33:49.243939Z,rings-turn,1.0.0-pre.5,0,0,https://github.com/RingsNetwork/rings,Signature-authenticated TURN server for Rings Network using Delegation credentials
+2026-11-18T10:33:52.303366Z,ruscker-sso,0.1.0,0,0,https://github.com/StrategicProjects/ruscker,"Sign people in to a Rust backend through a Ruscker portal (OpenID Connect, code flow + PKCE)"
+2026-11-18T10:34:15.04119Z,riir-refine,0.6.0,0,0,https://github.com/riir-ai/riir-refine,Clippy-healing drafter+pruner pipeline: modelless ternary drafter x rust-analyzer validator x additive self-evolution loop (LoRA fallback deferred)
+2026-11-18T10:36:01.552483Z,vitrify-core,0.5.0,0,0,https://github.com/bitshock-src/vitrify,"Core library for vitrify: SDD instance model, trace hashing, journal, ledger, audit, claims"
+2026-11-18T10:36:02.917884Z,vitrify-cli,0.5.0,0,0,https://github.com/bitshock-src/vitrify,"vitrify: Rust CLI suite, orchestrator, and harness integration for spec-driven development (SDD)"
+2026-11-18T10:37:53.076168Z,biome_grit_parser,0.7.3,0,0,https://github.com/biomejs/biome,Biome's GritQL parser
+2026-11-18T10:38:12.871374Z,pamm,0.1.0,0,0,https://github.com/yldfi/yldfi-rs,"Unofficial Rust client for prop AMM (proprietary AMM) quotes, venues and price levels on Ethereum, as published by block builders (pamm)"
+2026-11-18T10:39:05.703292Z,rings-tui,1.0.0-pre.5,0,0,https://github.com/RingsNetwork/rings,"Interactive Terminal User Interface (TUI) for monitoring, inspecting, and controlling a Rings network node."
+2026-11-18T10:39:21.06575Z,prime-selectbutton,0.1.0,0,0,https://github.com/anton-avramchuk/prime-rs,prime-rs: SelectButton component (PrimeNG port)
+2026-11-18T10:39:27.919078Z,ct-ts,0.0.2,0,0,https://github.com/power-system/ct-ts,"Threshold Schnorr signatures (FROST, RFC 9591) — protocol core"
+2026-11-18T10:41:02.398173Z,pipecrab-ai,0.0.1,0,0,,Real-time voice and multimodal AI agents in Rust: a port of Pipecat (pipecat-ai). In development.
+2026-11-18T10:41:05.304216Z,pipecrab-ai-core,0.0.1,0,0,,"Core of pipecrab-ai (frames, pipeline, ports). Use the pipecrab-ai crate. In development."
+2026-11-18T10:41:07.965867Z,pipecrab-ai-services,0.0.1,0,0,,"AI service adapters (STT, LLM, TTS providers) of pipecrab-ai. Use the pipecrab-ai crate. In development."
+2026-11-18T10:41:10.612016Z,pipecrab-ai-audio,0.0.1,0,0,,"Audio adapters (VAD, turn detection, resampling) of pipecrab-ai. Use the pipecrab-ai crate. In development."
+2026-11-18T10:41:13.278711Z,pipecrab-ai-transports,0.0.1,0,0,,Transports and serializers of pipecrab-ai. Use the pipecrab-ai crate. In development.
+2026-11-18T10:47:52.528244Z,biome_languages,0.7.3,0,0,https://github.com/biomejs/biome,Shared language definitions for Biome
+2026-11-18T10:49:24.890896Z,prime-skeleton,0.1.0,0,0,https://github.com/anton-avramchuk/prime-rs,prime-rs: Skeleton component (PrimeNG port)
+2026-11-18T10:50:25.930858Z,flena,0.0.1,0,0,,"Flena: release, licensing and delivery infrastructure for desktop audio software. Early placeholder for the Flena SDK."
+2026-11-18T10:52:43.504555Z,jj-xp,0.1.0,0,0,https://github.com/Odonno/jj-xp,Home of the jj experience enhancer suite
+2026-11-18T10:53:01.863358Z,brokk-mj-accounts,0.0.0,0,0,https://github.com/BrokkAi/mjolnir,"Harness logins, quota and usage readers for Mjolnir profiles (name reservation; released with Mjolnir)"
+2026-11-18T10:53:09.115797Z,brokk-mj-github-relevance,0.0.0,0,0,https://github.com/BrokkAi/mjolnir,On-device classifier that decides which GitHub events matter to a Mjolnir session (name reservation; released with Mjolnir)
+2026-11-18T10:56:17.812096Z,ic-db-macros,0.23.1,0,0,https://github.com/dragginzgame/ic-db,Attribute authoring for experimental IC DB records
+2026-11-18T10:56:20.664192Z,ic-db,0.23.1,0,0,https://github.com/dragginzgame/ic-db,Experimental embedded Internet Computer database
+2026-11-18T10:57:04.467515Z,talahon-cve,3.2.0,0,0,https://github.com/Liohtml/talahon,"Offline CVE / EPSS / KEV database and its MCP server (stdio, no network) for the Talahon agent container"
+2026-11-18T10:57:53.103704Z,biome_markdown_parser,0.7.3,0,0,https://github.com/biomejs/biome,Biome's Markdown parser
+2026-11-18T10:58:07.552997Z,gutch,0.2.0,0,0,https://github.com/icauro/Gutch,"Provider-independent snapshot, artifact delivery, reconstruction, and verification engine"
+2026-11-18T10:59:12.075504Z,verif-arithmetic,0.1.0,0,0,https://github.com/cipansor/verif,"Integer primitives for safety-critical Rust whose central properties are proved inside the crate by exhaustive enumeration: checked and saturating arithmetic, overflow-free mul_div, Q16.16 fixed poin…"
+2026-11-18T10:59:15.372069Z,verif,0.1.0,0,0,https://github.com/cipansor/verif,"In-code formal verification for Rust: an embedded bit-blasting SMT decision procedure, a symbolic DSL, contracts and a machine-checked proof kernel. SPARK-inspired, no_std, no external dependencies."
+2026-11-18T10:59:28.911637Z,prime-slider,0.1.0,0,0,https://github.com/anton-avramchuk/prime-rs,prime-rs: Slider component (PrimeNG port)
+2026-11-18T10:59:38.491369Z,gutch-cli,0.2.0,0,0,https://github.com/icauro/Gutch,"Command-line tool for Gutch, a deduplicating content store and installer for folder trees"
+2026-11-18T10:59:38.515915Z,kombuse-tauron,0.2.0,0,0,,"Frontend packages for Tauri shells: serve a separately released web frontend from disk, fall back to the embedded one, and install newer packages from a package feed"
+2026-11-18T10:59:38.626292Z,stream-dlp,0.1.1,0,0,https://github.com/anencore94/stream-dlp,Scan byte streams for bounded regular expressions and nearby keywords
+2026-11-18T11:03:33.040549Z,brokk-mj-import,0.0.0,0,0,https://github.com/BrokkAi/mjolnir,"Session import, project catalog, transcript compaction and handoff for Mjolnir (name reservation; released with Mjolnir)"
+2026-11-18T11:05:37.252747Z,virtx-core,0.2.0,0,0,https://github.com/brekkylab/virtx,"The virtx client: the types every request takes and answers, the wire, and the C ABI of libvirtx_core."
+2026-11-18T11:07:52.60833Z,biome_tailwind_parser,0.7.3,0,0,https://github.com/biomejs/biome,Biome's Tailwind parser
+2026-11-18T11:09:32.657193Z,prime-tooltip,0.1.0,0,0,https://github.com/anton-avramchuk/prime-rs,prime-rs: Tooltip directive (PrimeNG port)
+2026-11-18T11:11:46.580649Z,brokk-mj-setup,0.0.0,0,0,https://github.com/BrokkAi/mjolnir,First-run discovery and the doctor's diagnostics for Mjolnir (name reservation; released with Mjolnir)
+2026-11-18T11:14:55.279154Z,neopane,0.2.0,0,0,https://github.com/spiritledsoftware/neopane,"One Neovim in the background, shown in every terminal attached to it: panes for Neovim"
+2026-11-18T11:17:52.490455Z,biome_yaml_syntax,0.7.3,0,0,https://github.com/biomejs/biome,SyntaxKind and common rowan definitions for biome_yaml_parser
