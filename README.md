@@ -8,58 +8,46 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-19 16:19 UTC
+## Latest list — 2026-11-19 17:22 UTC
 
-New crates published between 2026-11-19 15:18 UTC and 2026-11-19 16:19 UTC.
+New crates published between 2026-11-19 16:19 UTC and 2026-11-19 17:22 UTC.
 
-[Full CSV](data/new-crates-2026-11-19T16-19-38-139046Z.csv)
+[Full CSV](data/new-crates-2026-11-19T17-22-00-046756Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-19 15:19:24 | [oi-kit-agent](https://crates.io/crates/oi-kit-agent) | 0.1.0-alpha.15 | 0 | oi-kit's Agent Loop |
-| 2026-11-19 15:19:25 | [moldette-core](https://crates.io/crates/moldette-core) | 0.3.0 | 0 | Contract types shared by moldette layers |
-| 2026-11-19 15:19:27 | [moldette-mapper](https://crates.io/crates/moldette-mapper) | 0.3.0 | 0 | Maps parsed fields onto a declared output schema |
-| 2026-11-19 15:19:28 | [moldette-parser](https://crates.io/crates/moldette-parser) | 0.3.0 | 0 | Parses one raw record into named text fields |
-| 2026-11-19 15:19:29 | [moldette-resp](https://crates.io/crates/moldette-resp) | 0.3.0 | 0 | Turns mapped records into moldette responses |
-| 2026-11-19 15:19:32 | [moldette-config](https://crates.io/crates/moldette-config) | 0.3.0 | 0 | Builds moldette layer specs from configuration files written in YAML or JSON |
-| 2026-11-19 15:20:29 | [sail-dive](https://crates.io/crates/sail-dive) | 0.3.0 | 0 | Pinned native temporal jobs, isolated worker client and the runtime's temporal… |
-| 2026-11-19 15:26:22 | [lintel-wgpu-hal](https://crates.io/crates/lintel-wgpu-hal) | 28.0.1 | 0 | Hardware abstraction layer for wgpu, the cross-platform, safe, pure-rust graphi… |
-| 2026-11-19 15:26:55 | [openai-client-base-common](https://crates.io/crates/openai-client-base-common) | 0.37.0 | 0 | Internal part of openai-client-base: the models several feature groups use, the… |
-| 2026-11-19 15:27:02 | [openai-client-base-administration](https://crates.io/crates/openai-client-base-administration) | 0.37.0 | 0 | Internal part of openai-client-base: the models and API functions of the featur… |
-| 2026-11-19 15:27:06 | [openai-client-base-agents](https://crates.io/crates/openai-client-base-agents) | 0.37.0 | 0 | Internal part of openai-client-base: the models and API functions of the featur… |
-| 2026-11-19 15:27:10 | [openai-client-base-assistants](https://crates.io/crates/openai-client-base-assistants) | 0.37.0 | 0 | Internal part of openai-client-base: the models and API functions of the featur… |
-| 2026-11-19 15:27:15 | [openai-client-base-chat](https://crates.io/crates/openai-client-base-chat) | 0.37.0 | 0 | Internal part of openai-client-base: the models and API functions of the featur… |
-| 2026-11-19 15:28:47 | [oi-kit-bindings](https://crates.io/crates/oi-kit-bindings) | 0.1.0-alpha.15 | 0 | Python and Kotlin bindings for the Open Intelligence Kit (oi-kit) |
-| 2026-11-19 15:30:59 | [moldette](https://crates.io/crates/moldette) | 0.3.0 | 0 | Turns one raw record into one record of a declared output schema |
-| 2026-11-19 15:31:14 | [mgui-video](https://crates.io/crates/mgui-video) | 0.4.0 | 0 | 可选视频扩展：会话状态机、有背压的帧通道与可取消的解码 worker（默认构建不含原生依赖） |
-| 2026-11-19 15:31:24 | [openai-client-base-finetuning](https://crates.io/crates/openai-client-base-finetuning) | 0.37.0 | 0 | Internal part of openai-client-base: the models and API functions of the featur… |
-| 2026-11-19 15:31:26 | [mgui-mpv-video](https://crates.io/crates/mgui-mpv-video) | 0.4.0 | 0 | mgui 的第二条视频实现：libmpv 管解码与 A/V 同步，wgpu 管上屏；文件播放与直播监控两个独立组件 |
-| 2026-11-19 15:34:53 | [bus-contract-defer](https://crates.io/crates/bus-contract-defer) | 0.2.0 | 0 | The defer contract of bus-contract: requests asked now, whose listeners run at… |
-| 2026-11-19 15:34:56 | [bus-contract-timings](https://crates.io/crates/bus-contract-timings) | 0.2.0 | 0 | The timings contract of bus-contract: how long listeners take, per point and pe… |
-| 2026-11-19 15:34:58 | [bus-contract-journal](https://crates.io/crates/bus-contract-journal) | 0.2.0 | 0 | The journal contract of bus-contract: events of journaled points kept with a nu… |
-| 2026-11-19 15:35:02 | [bus-contract-crossing](https://crates.io/crates/bus-contract-crossing) | 0.2.0 | 0 | The crossing contract of bus-contract: what may cross a process boundary and wh… |
-| 2026-11-19 15:39:06 | [mgui-agent](https://crates.io/crates/mgui-agent) | 0.4.0 | 0 | mgui 0.4 Headless/Agent 工具链:命名 scene + 软件快照 PNG + 语义树 JSON + 脚本回放与 motion trace |
-| 2026-11-19 15:41:37 | [openai-client-base-platform](https://crates.io/crates/openai-client-base-platform) | 0.37.0 | 0 | Internal part of openai-client-base: the models and API functions of the featur… |
-| 2026-11-19 15:43:36 | [lintel-desktop](https://crates.io/crates/lintel-desktop) | 0.1.0 | 0 | Main-thread native desktop integrations for Lintel |
-| 2026-11-19 15:44:08 | [lintel-iced-debug](https://crates.io/crates/lintel-iced-debug) | 0.15.0-dev | 0 | A pluggable API for debugging iced applications |
-| 2026-11-19 15:44:43 | [nlptoolkit-propbank](https://crates.io/crates/nlptoolkit-propbank) | 0.0.2 | 0 | Simple PropBank library |
-| 2026-11-19 15:44:43 | [lintel-iced-graphics](https://crates.io/crates/lintel-iced-graphics) | 0.15.0-dev | 0 | A bunch of backend-agnostic types that can be leveraged to build a renderer for… |
-| 2026-11-19 15:44:52 | [lintel-iced-runtime](https://crates.io/crates/lintel-iced-runtime) | 0.15.0-dev | 0 | A renderer-agnostic runtime for iced |
-| 2026-11-19 15:47:18 | [stubb](https://crates.io/crates/stubb) | 0.1.0-rc.1 | 0 | Rust middleware for connecting applications to agent harnesses |
-| 2026-11-19 15:51:51 | [openai-client-base-realtime](https://crates.io/crates/openai-client-base-realtime) | 0.37.0 | 0 | Internal part of openai-client-base: the models and API functions of the featur… |
-| 2026-11-19 15:52:20 | [agent-hearth](https://crates.io/crates/agent-hearth) | 0.1.0 | 0 | Keeps Rust builds warm for coding agents working in many worktrees at once |
-| 2026-11-19 16:02:06 | [openai-client-base-responses](https://crates.io/crates/openai-client-base-responses) | 0.37.0 | 0 | Internal part of openai-client-base: the models and API functions of the featur… |
-| 2026-11-19 16:06:03 | [magine](https://crates.io/crates/magine) | 1.7.5 | 0 | The official Magine CLI: run your AI agents, quick tasks, Cattery files, Neuron… |
-| 2026-11-19 16:12:21 | [openai-client-base-tools](https://crates.io/crates/openai-client-base-tools) | 0.37.0 | 0 | Internal part of openai-client-base: the models and API functions of the featur… |
-| 2026-11-19 16:13:50 | [vda5050](https://crates.io/crates/vda5050) | 0.1.0 | 0 | Rust types for the VDA 5050 v3.0.1 AGV/AMR communication messages |
-| 2026-11-19 16:16:44 | [tcodec](https://crates.io/crates/tcodec) | 0.1.0 | 0 | A custom programming language toolchain featuring implicit borrowing and explic… |
-| 2026-11-19 16:18:05 | [aidaemon-core](https://crates.io/crates/aidaemon-core) | 0.21.0 | 0 | The aidaemon agent kernel: a small, hook-driven agent loop with tools, provider… |
-| 2026-11-19 16:18:07 | [aidaemon-agents](https://crates.io/crates/aidaemon-agents) | 0.21.0 | 0 | Agents as tools: let an aidaemon agent delegate to sub-agents; implementation c… |
-| 2026-11-19 16:18:09 | [aidaemon-policies](https://crates.io/crates/aidaemon-policies) | 0.21.0 | 0 | Hook-based policies for aidaemon agents: approvals, scope, egress, streak and c… |
-| 2026-11-19 16:18:12 | [aidaemon-secrets](https://crates.io/crates/aidaemon-secrets) | 0.21.0 | 0 | Secret storage for aidaemon agents: a SecretStore trait over the OS keychain, a… |
-| 2026-11-19 16:18:14 | [aidaemon-tools](https://crates.io/crates/aidaemon-tools) | 0.21.0 | 0 | Ready-made tools for aidaemon agents (files, search, sandboxed shell, web, chec… |
-| 2026-11-19 16:18:42 | [hirun-proc-macros](https://crates.io/crates/hirun-proc-macros) | 0.2.0 | 0 | Procedural macros for hirun |
-| 2026-11-19 16:19:31 | [lintel-wgpu-core-deps-apple](https://crates.io/crates/lintel-wgpu-core-deps-apple) | 28.0.1 | 0 | Feature unification helper crate for Apple platforms |
+| 2026-11-19 16:19:38 | [lintel-wgpu-core-deps-emscripten](https://crates.io/crates/lintel-wgpu-core-deps-emscripten) | 28.0.1 | 0 | Feature unification helper crate for the Emscripten platform |
+| 2026-11-19 16:19:43 | [lintel-wgpu-core-deps-wasm](https://crates.io/crates/lintel-wgpu-core-deps-wasm) | 28.0.1 | 0 | Feature unification helper crate for the WebAssembly platform |
+| 2026-11-19 16:21:34 | [sequoia-seq-macros](https://crates.io/crates/sequoia-seq-macros) | 0.1.6 | 0 | Sequoia GUI framework - compile-time typed bindings for .seq files |
+| 2026-11-19 16:22:42 | [openai-client-base-untagged](https://crates.io/crates/openai-client-base-untagged) | 0.37.0 | 0 | Internal part of openai-client-base: the models no operation uses, which the fe… |
+| 2026-11-19 16:25:52 | [epistat-survival](https://crates.io/crates/epistat-survival) | 0.1.0 | 0 | Cox regression, Fine-Gray, Aalen-Johansen, multi-state occupation and the Titma… |
+| 2026-11-19 16:25:57 | [epistat-sequences](https://crates.io/crates/epistat-sequences) | 0.1.0 | 0 | Optimal-matching, Hamming and dynamic Hamming distances between state sequences… |
+| 2026-11-19 16:26:01 | [epistat-register](https://crates.io/crates/epistat-register) | 0.1.0 | 0 | Calendar-year person-time, interval merging, connected components over shared k… |
+| 2026-11-19 16:28:19 | [aidaemon-events](https://crates.io/crates/aidaemon-events) | 0.21.0 | 0 | Immutable event store, payloads and run aggregate; internal to aidaemon, no sta… |
+| 2026-11-19 16:31:56 | [loopscale](https://crates.io/crates/loopscale) | 0.0.1 | 0 | Name reservation for the LoopScale CLI and SDK. No functionality yet. |
+| 2026-11-19 16:32:52 | [lenovo-laptop-control-core](https://crates.io/crates/lenovo-laptop-control-core) | 1.1.0 | 0 | Core domain types and error model for Vantage hardware control |
+| 2026-11-19 16:33:04 | [lenovo-laptop-control-hal](https://crates.io/crates/lenovo-laptop-control-hal) | 1.1.0 | 0 | Hardware abstraction traits for Vantage |
+| 2026-11-19 16:33:13 | [lenovo-laptop-control-hal-linux](https://crates.io/crates/lenovo-laptop-control-hal-linux) | 1.1.0 | 0 | Linux HAL backend for Vantage (ideapad/sysfs/RAPL) |
+| 2026-11-19 16:33:23 | [lenovo-laptop-control-hal-win](https://crates.io/crates/lenovo-laptop-control-hal-win) | 1.1.0 | 0 | Windows HAL backend for Vantage (WMI/IOCTL/RPC) |
+| 2026-11-19 16:33:32 | [lenovo-laptop-control-tune](https://crates.io/crates/lenovo-laptop-control-tune) | 1.1.0 | 0 | Panther Lake tuning engine for Vantage |
+| 2026-11-19 16:35:32 | [tag2digest](https://crates.io/crates/tag2digest) | 0.1.0 | 0 | Track container image tags and record their digests in a lockfile |
+| 2026-11-19 16:38:23 | [aidaemon-channels](https://crates.io/crates/aidaemon-channels) | 0.21.0 | 0 | Chat channel contract and the runner that connects channels to aidaemon agents |
+| 2026-11-19 16:39:35 | [lintel-wgpu-core-deps-windows-linux-android](https://crates.io/crates/lintel-wgpu-core-deps-windows-linux-android) | 28.0.1 | 0 | Feature unification helper crate for the Windows/Linux/Android platforms |
+| 2026-11-19 16:39:46 | [lintel-iced-program](https://crates.io/crates/lintel-iced-program) | 0.15.0-dev | 0 | The definition of an iced program |
+| 2026-11-19 16:46:07 | [vdma-lif](https://crates.io/crates/vdma-lif) | 0.1.0 | 0 | Rust types for the VDMA LIF 2.0.0 (Layout Interchange Format) JSON layouts |
+| 2026-11-19 16:48:27 | [aidaemon-channel-discord](https://crates.io/crates/aidaemon-channel-discord) | 0.21.0 | 0 | Discord adapter for aidaemon channels; implementation crate of the aidaemon SDK… |
+| 2026-11-19 16:48:50 | [earwig-core](https://crates.io/crates/earwig-core) | 2026.11.1 | 0 | Core of the earwig music recommender: track index and hybrid audio/text/BPM sco… |
+| 2026-11-19 16:48:52 | [earwig-analysis](https://crates.io/crates/earwig-analysis) | 2026.11.1 | 0 | Audio analysis for earwig: decoding, MIR (BPM/key), CLAP audio embeddings + zer… |
+| 2026-11-19 16:48:56 | [earwig](https://crates.io/crates/earwig) | 2026.11.1 | 0 | Content-based music recommendation engine: index a music folder, find similar t… |
+| 2026-11-19 16:52:36 | [zhuyin-converter](https://crates.io/crates/zhuyin-converter) | 0.1.0 | 0 | Pinyin <-> zhuyin (bopomofo) conversion, Taiwan conventions |
+| 2026-11-19 16:57:41 | [editant](https://crates.io/crates/editant) | 0.0.0 | 0 | Placeholder: EditAnt, safe section-addressed editing of structured documents (M… |
+| 2026-11-19 16:58:31 | [aidaemon-channel-slack](https://crates.io/crates/aidaemon-channel-slack) | 0.21.0 | 0 | Slack adapter for aidaemon channels; implementation crate of the aidaemon SDK,… |
+| 2026-11-19 17:03:52 | [lintel-iced-tiny-skia](https://crates.io/crates/lintel-iced-tiny-skia) | 0.15.0-dev | 0 | A software renderer for iced on top of tiny-skia |
+| 2026-11-19 17:08:35 | [aidaemon-channel-telegram](https://crates.io/crates/aidaemon-channel-telegram) | 0.21.0 | 0 | Telegram adapter for aidaemon channels; implementation crate of the aidaemon SD… |
+| 2026-11-19 17:09:24 | [lintel-wgpu-core](https://crates.io/crates/lintel-wgpu-core) | 28.0.1 | 0 | Core implementation logic of wgpu, the cross-platform, safe, pure-rust graphics… |
+| 2026-11-19 17:10:41 | [dither-slint](https://crates.io/crates/dither-slint) | 0.1.0 | 0 | Dithered Slint component library |
+| 2026-11-19 17:11:50 | [cloud](https://crates.io/crates/cloud) | 0.1.0 | 0 | Fetch Vercel's public service status from Rust |
+| 2026-11-19 17:18:38 | [aidaemon-client-protocol](https://crates.io/crates/aidaemon-client-protocol) | 0.21.0 | 0 | Wire types of the AIdaemon Client Protocol v1 (/client/v1): the frames a TUI, w… |
 
 ## Data source
 

@@ -1,0 +1,33 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-19T16:19:38.236579Z,lintel-wgpu-core-deps-emscripten,28.0.1,0,0,https://github.com/gfx-rs/wgpu,Feature unification helper crate for the Emscripten platform
+2026-11-19T16:19:43.562509Z,lintel-wgpu-core-deps-wasm,28.0.1,0,0,https://github.com/gfx-rs/wgpu,Feature unification helper crate for the WebAssembly platform
+2026-11-19T16:21:34.892137Z,sequoia-seq-macros,0.1.6,0,0,,Sequoia GUI framework - compile-time typed bindings for .seq files
+2026-11-19T16:22:42.166618Z,openai-client-base-untagged,0.37.0,0,0,https://github.com/genai-rs/openai-client-base,"Internal part of openai-client-base: the models no operation uses, which the feature `types` compiles. Depend on openai-client-base instead"
+2026-11-19T16:25:52.500951Z,epistat-survival,0.1.0,0,0,https://github.com/tkragholm/epistat,"Cox regression, Fine-Gray, Aalen-Johansen, multi-state occupation and the Titman-Putter test, with results that do not depend on the number of threads"
+2026-11-19T16:25:57.143522Z,epistat-sequences,0.1.0,0,0,https://github.com/tkragholm/epistat,"Optimal-matching, Hamming and dynamic Hamming distances between state sequences, weighted k-medoids, silhouettes and null-model validation"
+2026-11-19T16:26:01.013852Z,epistat-register,0.1.0,0,0,https://github.com/tkragholm/epistat,"Calendar-year person-time, interval merging, connected components over shared keys and constant-price deflation for register data"
+2026-11-19T16:28:19.083757Z,aidaemon-events,0.21.0,0,0,https://github.com/davo20019/aidaemon,"Immutable event store, payloads and run aggregate; internal to aidaemon, no stability promise"
+2026-11-19T16:31:56.48579Z,loopscale,0.0.1,0,0,,Name reservation for the LoopScale CLI and SDK. No functionality yet.
+2026-11-19T16:32:52.820531Z,lenovo-laptop-control-core,1.1.0,0,0,https://github.com/cyjin-yl/vantage-cli,Core domain types and error model for Vantage hardware control
+2026-11-19T16:33:04.529933Z,lenovo-laptop-control-hal,1.1.0,0,0,https://github.com/cyjin-yl/vantage-cli,Hardware abstraction traits for Vantage
+2026-11-19T16:33:13.371402Z,lenovo-laptop-control-hal-linux,1.1.0,0,0,https://github.com/cyjin-yl/vantage-cli,Linux HAL backend for Vantage (ideapad/sysfs/RAPL)
+2026-11-19T16:33:23.457961Z,lenovo-laptop-control-hal-win,1.1.0,0,0,https://github.com/cyjin-yl/vantage-cli,Windows HAL backend for Vantage (WMI/IOCTL/RPC)
+2026-11-19T16:33:32.203898Z,lenovo-laptop-control-tune,1.1.0,0,0,https://github.com/cyjin-yl/vantage-cli,Panther Lake tuning engine for Vantage
+2026-11-19T16:35:32.929049Z,tag2digest,0.1.0,0,0,https://codeberg.org/paul-hartwich/tag2digest,Track container image tags and record their digests in a lockfile
+2026-11-19T16:38:23.212846Z,aidaemon-channels,0.21.0,0,0,https://github.com/davo20019/aidaemon,Chat channel contract and the runner that connects channels to aidaemon agents
+2026-11-19T16:39:35.393236Z,lintel-wgpu-core-deps-windows-linux-android,28.0.1,0,0,https://github.com/gfx-rs/wgpu,Feature unification helper crate for the Windows/Linux/Android platforms
+2026-11-19T16:39:46.697433Z,lintel-iced-program,0.15.0-dev,0,0,https://github.com/iced-rs/iced,The definition of an iced program
+2026-11-19T16:46:07.656336Z,vdma-lif,0.1.0,0,0,https://github.com/radevgit/vdma-lif,Rust types for the VDMA LIF 2.0.0 (Layout Interchange Format) JSON layouts
+2026-11-19T16:48:27.327448Z,aidaemon-channel-discord,0.21.0,0,0,https://github.com/davo20019/aidaemon,"Discord adapter for aidaemon channels; implementation crate of the aidaemon SDK, no stability promise (use it through aidaemon-sdk)"
+2026-11-19T16:48:50.104632Z,earwig-core,2026.11.1,0,0,https://github.com/damien-mathieu1/earwig,Core of the earwig music recommender: track index and hybrid audio/text/BPM scoring
+2026-11-19T16:48:52.032942Z,earwig-analysis,2026.11.1,0,0,https://github.com/damien-mathieu1/earwig,"Audio analysis for earwig: decoding, MIR (BPM/key), CLAP audio embeddings + zero-shot tags, text embeddings"
+2026-11-19T16:48:56.340737Z,earwig,2026.11.1,0,0,https://github.com/damien-mathieu1/earwig,"Content-based music recommendation engine: index a music folder, find similar tracks, serve a web UI"
+2026-11-19T16:52:36.950582Z,zhuyin-converter,0.1.0,0,0,https://github.com/linlin56/zhuyin-converter,"Pinyin <-> zhuyin (bopomofo) conversion, Taiwan conventions"
+2026-11-19T16:57:41.758011Z,editant,0.0.0,0,0,https://github.com/ThinkersJournal/editant,"Placeholder: EditAnt, safe section-addressed editing of structured documents (Markdown first). Not yet released."
+2026-11-19T16:58:31.476015Z,aidaemon-channel-slack,0.21.0,0,0,https://github.com/davo20019/aidaemon,"Slack adapter for aidaemon channels; implementation crate of the aidaemon SDK, no stability promise (use it through aidaemon-sdk)"
+2026-11-19T17:03:52.953593Z,lintel-iced-tiny-skia,0.15.0-dev,0,0,https://github.com/iced-rs/iced,A software renderer for iced on top of tiny-skia
+2026-11-19T17:08:35.185133Z,aidaemon-channel-telegram,0.21.0,0,0,https://github.com/davo20019/aidaemon,"Telegram adapter for aidaemon channels; implementation crate of the aidaemon SDK, no stability promise (use it through aidaemon-sdk)"
+2026-11-19T17:09:24.155032Z,lintel-wgpu-core,28.0.1,0,0,https://github.com/gfx-rs/wgpu,"Core implementation logic of wgpu, the cross-platform, safe, pure-rust graphics API"
+2026-11-19T17:10:41.870495Z,dither-slint,0.1.0,0,0,https://github.com/LilaccFlowerr/dither-slint,Dithered Slint component library
+2026-11-19T17:11:50.600322Z,cloud,0.1.0,0,0,,Fetch Vercel's public service status from Rust
+2026-11-19T17:18:38.021637Z,aidaemon-client-protocol,0.21.0,0,0,https://github.com/davo20019/aidaemon,"Wire types of the AIdaemon Client Protocol v1 (/client/v1): the frames a TUI, web, desktop, mobile or watch client exchanges with the daemon's Client Gateway, with a generated JSON Schema"
