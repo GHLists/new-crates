@@ -1,0 +1,28 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-19T22:21:50.57264Z,hol-guard,0.0.1,0,0,https://github.com/hashgraph-online/hol-guard,Placeholder for the HOL Guard runtime. Install HOL Guard today with `pipx install hol-guard`.
+2026-11-19T22:24:20.600459Z,rhema-websearch-brave,0.4.0,0,0,https://github.com/vhaudiquet/rhema,Brave Search API adapter for the rhema WebSearchProvider seam
+2026-11-19T22:27:21.85526Z,codegen-1o,0.1.0,0,0,,"Ordered collect/pass/validate/emit pipeline from a core-1o DocumentIR to generated Rust, usable from proc macros and build.rs."
+2026-11-19T22:27:29.230769Z,pasture-codegen,0.1.0,0,0,,"Pasture's document collectors, validators and Rust emitters over codegen-1o, for the macros and build.rs."
+2026-11-19T22:27:32.601005Z,pasture-macros,0.1.0,0,0,,Compile-time vocabulary and relationship-schema generation for pasture.
+2026-11-19T22:27:36.47156Z,pasture,0.1.0,0,0,,A typed language for hierarchical multi-agent organizations and configurable vocabularies.
+2026-11-19T22:33:54.728883Z,rhema-websearch-tavily,0.4.0,0,0,https://github.com/vhaudiquet/rhema,Tavily search API adapter for the rhema WebSearchProvider seam
+2026-11-19T22:39:33.47351Z,vexyl,1.4.0,0,0,https://github.com/NaomiAmethyst/vexyl,"Reads, checks and renders Vexyl flag documents, a KDL format for flag designs."
+2026-11-19T22:45:53.817813Z,ntfs-rw,0.0.0,0,0,https://github.com/pamudusarasith/ntfs-rw,"An NTFS filesystem implementation in pure Rust, aiming for read and write support. Early development."
+2026-11-19T22:47:13.451674Z,woofstanding_rs,0.1.0,0,0,,Low level library for writing no libc rust (on linux)
+2026-11-19T22:47:47.995667Z,tiktoken-vocab-deepseek,1.0.0,0,0,https://github.com/goliajp/rust-tiktoken,DeepSeek tokenizer vocabularies (deepseek_v3) for the tiktoken crate
+2026-11-19T22:47:50.721921Z,tiktoken-vocab-meta,1.0.0,0,0,https://github.com/goliajp/rust-tiktoken,"Meta tokenizer vocabularies (llama3, llama4) for the tiktoken crate"
+2026-11-19T22:47:53.088527Z,tiktoken-vocab-minimax,1.0.0,0,0,https://github.com/goliajp/rust-tiktoken,MiniMax tokenizer vocabularies (minimax_m2) for the tiktoken crate
+2026-11-19T22:47:55.374706Z,tiktoken-vocab-mistral,1.0.0,0,0,https://github.com/goliajp/rust-tiktoken,"Mistral AI tokenizer vocabularies (mistral_v3, mistral_v15) for the tiktoken crate"
+2026-11-19T22:47:57.763661Z,tiktoken-vocab-moonshot,1.0.0,0,0,https://github.com/goliajp/rust-tiktoken,Moonshot AI Kimi tokenizer vocabularies (kimi_k2) for the tiktoken crate
+2026-11-19T22:52:30.884994Z,tiktoken-vocab-openai,1.0.0,0,0,https://github.com/goliajp/rust-tiktoken,"OpenAI tokenizer vocabularies (cl100k_base, o200k_base, r50k_base, p50k_base) for the tiktoken crate"
+2026-11-19T22:53:38.118328Z,tmux-session,0.1.0,0,0,https://github.com/ignition-is-go/agent-ssh,Bounded Unix tmux session mechanics with literal process arguments
+2026-11-19T23:01:43.449705Z,rhema-websearch-exa,0.4.0,0,0,https://github.com/vhaudiquet/rhema,Exa search API adapter for the rhema WebSearchProvider seam
+2026-11-19T23:02:04.627776Z,rhema-websearch-registry,0.4.0,0,0,https://github.com/vhaudiquet/rhema,The web search fleet's name-to-adapter wiring: one build call per websearch provider spelling
+2026-11-19T23:02:20.75982Z,tiktoken-vocab-qwen,1.0.0,0,0,https://github.com/goliajp/rust-tiktoken,"Alibaba Qwen tokenizer vocabularies (qwen2, qwen3_5) for the tiktoken crate"
+2026-11-19T23:05:01.074013Z,rhema-subagents,0.4.0,0,0,https://github.com/vhaudiquet/rhema,The subagent extension: markdown subagent definitions and the `subagent` tool that runs them as fresh agents
+2026-11-19T23:05:02.082935Z,defcmd-macros,0.1.0,0,0,https://github.com/mdaffin/defcmd,"Proc macros for defcmd. Use defcmd, not this crate."
+2026-11-19T23:05:04.964544Z,defcmd,0.1.0,0,0,https://github.com/mdaffin/defcmd,"A command is a plain function marked #[command]; its signature is the CLI, modelled on nushell."
+2026-11-19T23:12:32.826759Z,tiktoken-vocab-zhipu,1.0.0,0,0,https://github.com/goliajp/rust-tiktoken,"Zhipu AI GLM tokenizer vocabularies (glm4, glm5) for the tiktoken crate"
+2026-11-19T23:13:38.085901Z,bogovolution-core,3.0.0,0,0,https://github.com/ayaan-cs/bogovolution,"Engine for bogovolution: hash-chained lineage log, benchmark runs, verdicts and model providers"
+2026-11-19T23:14:05.149068Z,bogovolution-watch,3.0.0,0,0,https://github.com/ayaan-cs/bogovolution,Terminal view (ratatui) that follows a bogovolution lineage log live
+2026-11-19T23:14:30.815954Z,bogovolution,3.0.0,0,0,https://github.com/ayaan-cs/bogovolution,"Evolve a repo's agent rules file (AGENTS.md, CLAUDE.md) against the repo's own tasks, with a hash-chained lineage log. The command is `bogo`."
