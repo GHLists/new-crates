@@ -1,0 +1,52 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-19T21:18:53.055636Z,rustydiscord-voice,0.0.2,0,0,https://github.com/usslmuk/rustydiscord,"Discord voice for rustydiscord: calls, tracks and end-to-end encrypted audio"
+2026-11-19T21:19:56.574974Z,diverge-sdk,1.0.0,0,0,https://github.com/divergenetwork/Diverge,"The Diverge SDK: the wire, the provider protocol, the daemon protocol, and the container proxy inside and out — the normative artifact of the provider specification"
+2026-11-19T21:20:10.967432Z,epistat-glm,0.1.0,0,0,https://github.com/tkragholm/epistat,"Generalised linear models fitted by IRLS as R's glm.fit does, with results that do not depend on the number of threads"
+2026-11-19T21:20:14.095897Z,epistat-testkit,0.1.0,0,0,https://github.com/tkragholm/epistat,"Test helpers for numerical code: tolerances, bit fingerprints, thread-count checks and R reference files"
+2026-11-19T21:20:16.151274Z,superscalar-wasm,0.0.0,0,0,https://github.com/parable-work/superscalar,Placeholder: this name is reserved for the superscalar scalar types library. The first release is not out yet.
+2026-11-19T21:20:36.387573Z,rusty_image,0.1.0,0,0,https://github.com/Remade-With-Rust/remade_ffmpeg_rs,"Pure-Rust BMP (incl. CF_DIB/CF_DIBV5 clipboard DIBs), TGA, Radiance HDR, ICO/CUR, PNM/PAM and QOI decode + encode, plus header-only probing for 13 image formats. Pixel-exact against the image crate,…"
+2026-11-19T21:21:27.417928Z,rhema-bash,0.4.0,0,0,https://github.com/vhaudiquet/rhema,"The bash tool and the macros that ride it: the approval-gated shell, its executor seam, skills via cat, and the see, job, and search shell functions"
+2026-11-19T21:22:27.172908Z,weirdnet-alerts,0.1.0,0,0,https://github.com/WeirdBrains/weirdnet-alerts,"Node health alerts for Weirdnet: weirdnet-rules rule packs over observations, dedupe and recovery notices, SMTP, webhook and weirdnet-push sinks with dry runs, route, disk and GPU probes, and weirdne…"
+2026-11-19T21:22:44.486777Z,polyzonotope,0.1.0,0,0,https://github.com/sunsided/polyzonotope,"Sparse polynomial zonotopes, zonotopes and interval boxes for set-based reachability analysis"
+2026-11-19T21:23:07.842094Z,rhema-websearch,0.4.0,0,0,https://github.com/vhaudiquet/rhema,"Web search for rhema agents: the WebSearchProvider seam, the query and result vocabulary, the fallback chain"
+2026-11-19T21:24:50.329868Z,swagger-parser-rs,0.1.0,0,0,https://github.com/oxidestack/swagger-parser-rs,"Unofficial Rust port of swagger-parser 2.1.48: OpenAPI 3.x / Swagger 2.0 parsing, reference resolution and conversion"
+2026-11-19T21:27:56.824086Z,qnx-crate-atlas,0.2.0,0,0,https://github.com/Mattbusel/qnx-crate-atlas,"Fails CI when a crate claims no_std, embedded, QNX or portable support that does not build, with the exact error. Plus the QNX 8.0 atlas of the top 500 crates."
+2026-11-19T21:28:12.843569Z,merge-and-shrink,0.2.1,0,0,https://github.com/sunsided/merge-and-shrink,Merge-and-shrink abstraction heuristics for factored transition systems
+2026-11-19T21:28:17.929159Z,rusty_tiff,0.1.0,0,0,https://github.com/Remade-With-Rust/remade_ffmpeg_rs,"Pure-Rust TIFF and BigTIFF decoder and encoder: strips and tiles, LZW/Deflate/PackBits, CCITT G3/G4, JPEG-in-TIFF, float and predictors, multipage and SubIFDs (DNG's TIFF layer), ICC/EXIF/XMP tags. P…"
+2026-11-19T21:28:35.75395Z,bus-bridge,0.1.0,0,0,https://github.com/quazardous/bus-bridge,"Reference transports for bus-contract's crossing contract: a link that carries relayable events and requests between two buses, in one process or over a Unix socket, with reconnection from a cursor a…"
+2026-11-19T21:29:27.72133Z,rustydiscord-opcodes,0.0.2,0,0,https://github.com/usslmuk/rustydiscord,Discord gateway and voice opcode allowlists
+2026-11-19T21:29:59.091738Z,eraser,0.1.0,0,0,https://github.com/FortunatoZukunftdeuter/Eraser,Erase terminal screen
+2026-11-19T21:30:22.846628Z,superscalar-napi,0.0.0,0,0,https://github.com/parable-work/superscalar,Placeholder: this name is reserved for the superscalar scalar types library. The first release is not out yet.
+2026-11-19T21:30:58.319284Z,tetraloma,0.0.0,0,0,https://github.com/tetracl/tetraloma,GPU-resident unstructured mesh library built on CubeCL (name reservation; not yet released)
+2026-11-19T21:30:58.653912Z,ravyn,0.1.0,0,0,https://github.com/OneTrueJASH/ravyn,RAVYN (Racing Arms by Value: Ȳ over n): a crossword-game analysis engine
+2026-11-19T21:31:13.0844Z,ravyl,0.1.0,0,0,https://github.com/OneTrueJASH/ravyl,"A terminal UI for analyzing Crossplay positions, built on the RAVYN engine"
+2026-11-19T21:33:46.040607Z,lindhard,0.0.1,0,0,https://github.com/2AMLogic/lindhard,"Clean-room Monte Carlo transport of ions and electrons in matter: implantation ranges, damage, sputtering and electron energy deposition"
+2026-11-19T21:34:00.783863Z,lindhard-cli,0.0.1,0,0,https://github.com/2AMLogic/lindhard,Command-line front end for lindhard
+2026-11-19T21:34:14.616927Z,velocity-rs,0.1.0,0,0,https://github.com/oxidestack/velocity-rs,"Unofficial Rust implementation of the Velocity Template Language, a port of Apache Velocity Engine 2.4.1 and Velocity Tools 3.1"
+2026-11-19T21:36:19.443925Z,width-search,0.1.0,0,0,https://github.com/sunsided/width-search,"Width-based search: novelty tables, Iterated Width (IW), and Best-First Width Search (BFWS)"
+2026-11-19T21:36:49.830977Z,rhema-sandbox-ssh,0.4.0,0,0,https://github.com/vhaudiquet/rhema,"SSH sandbox backend for the rhema `Sandbox` seam: commands on a remote box over `ssh`, no daemon on the far end"
+2026-11-19T21:39:10.912532Z,rustydiscord-proxy,0.0.2,0,0,https://github.com/usslmuk/rustydiscord,Minimal HTTP proxy helper with optional authorization redaction
+2026-11-19T21:40:30.59729Z,superscalar-python,0.0.0,0,0,https://github.com/parable-work/superscalar,Placeholder: this name is reserved for the superscalar scalar types library. The first release is not out yet.
+2026-11-19T21:44:24.569086Z,jmustache,0.1.0,0,0,https://github.com/oxidestack/jmustache,"A port of JMustache 1.16, the Mustache engine for Java, faithful to its rendering output"
+2026-11-19T21:44:49.677866Z,ztuio,0.1.0,0,0,https://github.com/LIghtJUNction/ztuio,"Allocation-free text row, geometry, and ANSI frame-diff primitives for Project Z"
+2026-11-19T21:46:03.55344Z,rhema-sandbox-docker,0.4.0,0,0,https://github.com/vhaudiquet/rhema,Docker sandbox backend for the rhema `Sandbox` seam: a bind-mounted container driven through the `docker` CLI
+2026-11-19T21:48:59.168316Z,rustydiscord-brokers,0.0.2,0,0,https://github.com/usslmuk/rustydiscord,Pluggable event brokers for rustydiscord bots built on tokio broadcast channels
+2026-11-19T21:54:15.853248Z,datafaker,0.1.0,0,0,https://github.com/oxidestack/datafaker,"Unofficial Rust port of Datafaker 2.7.0 (Java): fake data from the same locale files, identical to Datafaker's for the same java.util.Random seed"
+2026-11-19T21:56:44.023229Z,zgpui,0.1.0,0,0,https://github.com/LIghtJUNction/zgpui,"Bounded, platform-independent no_std UI scenes, layout and renderer contracts"
+2026-11-19T21:56:53.271965Z,ccrumbs,0.1.0,0,0,https://github.com/nikostito/ccrumbs,"Find, understand and resume your Claude Code sessions, and see which PRs they created or reviewed"
+2026-11-19T21:58:19.24793Z,rusty_icc,0.1.0,0,0,https://github.com/Remade-With-Rust/remade_ffmpeg_rs,"Pure-Rust ICC colour management: v2/v4 profile parsing and writing, matrix-shaper and LUT (lut8/lut16/mAB/mBA) transforms for RGB, CMYK, grey and Lab, four rendering intents, black-point compensation…"
+2026-11-19T21:59:07.039349Z,lintel-lib-utils,0.1.0,0,0,https://github.com/looading/lintel,"Common resource, image, time and platform utilities for Lintel"
+2026-11-19T22:00:17.81598Z,rhema-sandbox-lxd,0.4.0,0,0,https://github.com/vhaudiquet/rhema,"LXD sandbox backend for the rhema `Sandbox` seam: one driver, two postures, a bind-mounted container and an instance taken as-is, both through the `lxc` CLI"
+2026-11-19T22:01:51.126876Z,semantic-versions,1.0.0,0,0,https://github.com/vltpkg/semantic-versions,"Reference implementation of Semantic Versions (semver.xyz): parse, compare and range-match versions, with builds that participate in precedence, pre-release and build channels, and contexts."
+2026-11-19T22:03:00.535218Z,infinispan-rs,0.1.0,0,0,https://github.com/oxidestack/infinispan-rs,"Unofficial Rust port of the parts of Infinispan 14.0.35.Final that a REPL_SYNC clustered cache reaches: marshalling, consistent hashing, topology, state transfer, listeners"
+2026-11-19T22:03:04.256866Z,aiagentblocklist,1.0.0,0,0,https://github.com/explainableaixai/aiagentblocklist-rust,"Feed client for the AI agent blocklist: download the daily files with ETag caching and match domains, extensions, processes and packages locally."
+2026-11-19T22:03:56.847155Z,rustydiscord,0.0.2,0,0,https://github.com/usslmuk/rustydiscord,A fast framework for building Discord bots in Rust
+2026-11-19T22:05:47.410899Z,rhema-sandbox-ecrou,0.4.0,0,0,https://github.com/vhaudiquet/rhema,"ecrou sandbox backend for the rhema `Sandbox` seam: one microVM per command through the `ecrou` CLI, the workspace as a virtiofs share"
+2026-11-19T22:08:11.353144Z,aoc-rust,0.1.0,0,0,https://github.com/zaperfish/aoc-rust,One sentence about what it does
+2026-11-19T22:08:51.090956Z,agent-tmux,0.1.0,0,0,https://github.com/ignition-is-go/agent-ssh,Bounded Unix tmux session mechanics with literal process arguments
+2026-11-19T22:13:00.770756Z,intelhexlib,0.4.0,0,0,https://github.com/iharhl/hexalyzer,"Intel HEX parser, editor and writer with sparse memory support"
+2026-11-19T22:14:07.929635Z,rhema-host-agent,0.4.0,0,0,https://github.com/vhaudiquet/rhema,"The host-agent driver on top of rhema-core: turn loop, session persistence, the SYSTEM.md template"
+2026-11-19T22:14:36.419908Z,avro-codec-rs,0.1.0,0,0,https://github.com/oxidestack/avro-codec-rs,"Unofficial Rust port of the parts of Apache Avro 1.12.2 (Java) that a JSON-to-binary codec reaches: the schema parser, JsonDecoder and JsonEncoder, the binary encoding, byte for byte"
+2026-11-19T22:14:46.672655Z,versolve,0.1.0,0,0,https://github.com/anttikivi/versolve,Resolve unique semantic version numbers for Git revisions
+2026-11-19T22:19:34.609445Z,glassbox,0.1.0,0,0,https://github.com/sirmmo/lilienstern,"The GlassBox rule language and resource-flow engine, on a graph of places"
+2026-11-19T22:19:36.989272Z,lilienstern,0.1.0,0,0,https://github.com/sirmmo/lilienstern,"A deeply configurable grand-strategy simulation engine, with GlassBox rules"
