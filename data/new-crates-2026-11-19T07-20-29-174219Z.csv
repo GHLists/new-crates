@@ -1,0 +1,26 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-19T06:23:35.222319Z,sakitam-sprite-core,0.1.0,0,0,https://github.com/sakitam-gis/font-cli,Core library for generating MapboxGL/MapLibre sprite sheets from SVG/PNG images
+2026-11-19T06:23:42.767504Z,sakitam-screenshot-core,0.1.0,0,0,https://github.com/sakitam-gis/font-cli,Core library for capturing map thumbnails using headless Chrome
+2026-11-19T06:23:48.066727Z,nauvim-core,0.1.0,0,0,https://github.com/nauvim/nauvim-core,UI-independent Nauvim session and plugin engine
+2026-11-19T06:23:49.374593Z,sakitam-font-core,0.1.0,0,0,https://github.com/sakitam-gis/font-cli,Core library for converting fonts to MapLibre GL glyph PBF format
+2026-11-19T06:30:42.766401Z,wgpu_conduit,0.1.2,0,0,https://github.com/coolmint859/wgpu_conduit,A mostly unopinionated wrapper over wgpu for real-time applications driven by the main thread.
+2026-11-19T06:33:46.366622Z,insurance,0.1.0,0,0,https://github.com/hupe1980/insurance,Placeholder for an open-source insurance operating stack.
+2026-11-19T06:40:23.881113Z,healthcare,0.1.0,0,0,https://github.com/hupe1980/healthcare,Healthcare domain models and workflows (placeholder crate; implementation coming soon).
+2026-11-19T06:44:50.368436Z,palletide-codegen,0.5.0,0,0,https://github.com/kunal171/palletide,"Schema-first codegen for palletide: turn a GraphQL @entity schema into Rust entities, migrations, and a GraphQL API."
+2026-11-19T06:44:51.127689Z,palletide-core,0.5.0,0,0,https://github.com/kunal171/palletide,Core traits and types for the palletide Substrate indexer framework.
+2026-11-19T06:44:54.254785Z,palletide-source,0.5.0,0,0,https://github.com/kunal171/palletide,subxt-based direct-RPC DataSource for the palletide framework.
+2026-11-19T06:44:55.561275Z,palletide-store,0.5.0,0,0,https://github.com/kunal171/palletide,Postgres-backed Store (cursor + reorg rollback) for the palletide framework.
+2026-11-19T06:44:58.697702Z,palletide,0.5.0,0,0,https://github.com/kunal171/palletide,"The palletide indexing engine: drives a DataSource through Handlers into a Store, with resumable progress and reorg handling."
+2026-11-19T06:48:14.39312Z,palletide-config,0.5.0,0,0,https://github.com/kunal171/palletide,"Typed, layered (TOML + env) configuration loader for palletide indexers."
+2026-11-19T06:50:26.107267Z,drawland-ts,0.3.0,0,0,https://github.com/piLeoni/drawland,"TypeScript to JavaScript for draw.land profiles, by taking the types out: every line and column kept"
+2026-11-19T06:50:26.522113Z,drawland-graph,0.3.0,0,0,https://github.com/piLeoni/drawland,"draw.land's library: build the graph of a pen-plotter map, from Rust, JavaScript or Python"
+2026-11-19T06:50:33.540869Z,ebtp-core,0.2.0,0,0,https://github.com/4thel00z/ebtp,"Content-defined chunking, hashing, compression and container encoding for the ebtp chunk store"
+2026-11-19T06:50:35.175778Z,ebtp-client,0.2.0,0,0,https://github.com/4thel00z/ebtp,"Async HTTP client for ebtp: chunks, deduplicates and packs files on upload, reads byte ranges on download"
+2026-11-19T06:55:37.97319Z,fastatomstruct-spglib,2.3.0,0,0,https://zivgitlab.uni-muenster.de/ag-salinga/fastatomstruct,"Safe bindings to the spglib space-group library for fastatomstruct (structure data in, symmetry data out)"
+2026-11-19T06:57:49.255518Z,palletide-graphql,0.5.0,0,0,https://github.com/kunal171/palletide,GraphQL serving toolkit (async-graphql + axum) for palletide indexers.
+2026-11-19T07:04:13.941492Z,novastack,0.1.0,0,0,https://github.com/cybercoretech/NovaStack,"Scaffold Axum backends that compile: REST, HTMX, gRPC, realtime and minimal templates, plugins (auth, metrics, Redis, workers) and a component generator"
+2026-11-19T07:08:29.47795Z,cantongrid-core,0.3.0-alpha.3,0,0,https://github.com/kunal171/cantongrid,"Exact values, authorized source scopes and Daml contract lifecycle primitives for CantonGrid."
+2026-11-19T07:12:26.338656Z,concrete-contractors-estimator,1.0.0,0,0,https://github.com/nbkdevs/concrete-contractors-phoenix,"Concrete contractors estimator: slab, footing, column and steps volume, bag counts, rebar, cost range and hot-weather pour advice"
+2026-11-19T07:13:34.598634Z,razorwire,0.1.0,0,0,https://github.com/razorwire-dev/razorwire,"A proxy that sits between an AI agent and its model provider, records every tool call, and blocks the ones a policy forbids."
+2026-11-19T07:14:30.457854Z,shakedown,0.1.0,0,0,https://github.com/goddtriffin/toddstack,"One local testing tool for every project: the check step runner, size budgets, pixel compare and reports, driven by a shakedown.toml."
+2026-11-19T07:16:51.241963Z,kitchen-remodeling-cost,1.0.0,0,0,https://github.com/nbkdevs/kitchen-remodeling-bellevue,"Kitchen remodeling cost planner: split a kitchen remodel budget by line item, add sales tax, a contingency reserve and permits. Library + CLI, no dependencies."
