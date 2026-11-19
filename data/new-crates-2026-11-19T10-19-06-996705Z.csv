@@ -1,0 +1,41 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-19T09:20:42.809549Z,aspose-tasks-cloud,26.11.0,0,0,https://github.com/aspose-tasks-cloud/aspose-tasks-cloud-rust,Aspose.Tasks Cloud SDK for Rust
+2026-11-19T09:23:54.681998Z,bus-kernel,0.1.0,0,0,https://github.com/quazardous/bus-kernel,"A hook bus kernel implementing bus-contract: typed hook points, listeners with ids ordered by after/before and priority, alter and collect emits, a per-listener error boundary with panics caught and…"
+2026-11-19T09:25:36.121322Z,model-core,0.3.0,0,0,https://github.com/badetitou/Model,Language-neutral source code metamodel
+2026-11-19T09:25:40.87922Z,model-detect,0.3.0,0,0,https://github.com/badetitou/Model,Detects the languages of a source tree and their project roots
+2026-11-19T09:25:45.754946Z,model-scip,0.3.0,0,0,https://github.com/badetitou/Model,"Reads SCIP indexes into a compact, language-neutral form"
+2026-11-19T09:25:49.751964Z,model-analysis,0.3.0,0,0,https://github.com/badetitou/Model,Generic MDE analyses over a language-neutral Model
+2026-11-19T09:26:00.616578Z,model-lang-pharo,0.3.0,0,0,https://github.com/badetitou/Model,"Pharo/Tonel frontend: entities, heritage, references and resolved sends"
+2026-11-19T09:26:13.117275Z,canvist_extension_markdown_reveal,0.0.0,0,0,https://github.com/canvist/canvist,canvist: show and edit the Markdown of the formatting at the caret
+2026-11-19T09:26:29.332764Z,open-sbsar,0.1.0,0,0,https://github.com/wtfmydarling/open-sbsar,A clean-room engine for compiled Substance archives (.sbsar)
+2026-11-19T09:29:01.009536Z,pnpm-guru,0.1.0,0,0,https://github.com/StarcevAlexander/pnpm-guru,"pnpm-style package manager core for Rust - package.json parsing, npm semver ranges and dependency resolution over an offline registry index"
+2026-11-19T09:29:50.85366Z,daos,0.1.0,0,0,https://github.com/potatogim/rust-daos,"Client for DAOS: DFS, objects, key-value and arrays, loading libdfs at run time"
+2026-11-19T09:35:08.57109Z,trilean-json-shape-pattern,3.0.0,0,0,https://github.com/ExaDev/trilean,"The pattern grammar of trilean-json-shape: the subset of ECMAScript regular expressions every JSON Schema validator reads alike, compiled to an automaton that matches in linear time."
+2026-11-19T09:35:09.009658Z,trilean-regex,2.0.5,0,0,https://github.com/ExaDev/trilean,"A portable regular-expression grammar over UTF-16 code units, with a Thompson-construction matcher that never backtracks."
+2026-11-19T09:35:10.756883Z,trilean-json-shape-derive,3.0.0,0,0,https://github.com/ExaDev/trilean,"The derive macro of trilean-json-shape, reading the serde attributes a type already carries."
+2026-11-19T09:35:12.949152Z,trilean-json-shape,3.0.0,0,0,https://github.com/ExaDev/trilean,"One Rust definition for validating JSON, a JSON Schema and TypeScript declarations."
+2026-11-19T09:35:15.127211Z,trilean-eval,3.0.0,0,0,https://github.com/ExaDev/trilean,"The values and trees of trilean: the one definition of a predicate or expression tree, a computed value and an indeterminate reason, with the validation, the JSON Schema and the TypeScript declaratio…"
+2026-11-19T09:37:07.502147Z,serenade-form,1.0.0,0,0,https://github.com/Interchouette-ITC/Serenade,HTML forms with CSRF by default and XSS-safe render helpers
+2026-11-19T09:37:28.327305Z,serenade-admin,1.0.0,0,0,https://github.com/Interchouette-ITC/Serenade,Optional EasyAdmin-shaped Admin CRUD bundle (HTML + Form/CSRF)
+2026-11-19T09:37:50.818743Z,serenade-translation,1.0.0,0,0,https://github.com/Interchouette-ITC/Serenade,"Translator, message catalogues, locale negotiation, and ICU format helpers"
+2026-11-19T09:37:56.286018Z,serenade-view,1.0.0,0,0,https://github.com/Interchouette-ITC/Serenade,"HTML view helpers: path, asset, partials (no template engine)"
+2026-11-19T09:37:58.986609Z,serenade-testing,1.0.0,0,0,https://github.com/Interchouette-ITC/Serenade,"Test harness helpers for Serenade kernel, HTTP, and events"
+2026-11-19T09:39:19.6258Z,serenade-cli,1.0.0,0,0,https://github.com/Interchouette-ITC/Serenade,Serenade CLI: Flex-like recipes and app scaffolding (Cargo remains the package manager)
+2026-11-19T09:48:13.622673Z,serenade-framework,1.0.0,0,0,https://github.com/Interchouette-ITC/Serenade,Serenade: Symfony-oriented Rust application framework (public facade over the serenade-* crates)
+2026-11-19T09:52:29.332065Z,synclabs-ui-tokens,0.0.0,0,0,https://github.com/Sync-Labs-team/Sync_Labs_UI,"Sync_Labs_UI design tokens (colour, type, spacing, radius, shadow, springs) as data, with generators for Rust and CSS/TypeScript."
+2026-11-19T09:52:35.220497Z,synclabs-ui-core,0.0.0,0,0,https://github.com/Sync-Labs-team/Sync_Labs_UI,"Sync_Labs_UI component behaviour in plain Rust, with no UI dependency, testable without a window."
+2026-11-19T09:52:39.018807Z,synclabs-ui-rune,0.0.0,0,0,https://github.com/Sync-Labs-team/Sync_Labs_UI,Sync_Labs_UI shell that draws the components with the Rune UI framework.
+2026-11-19T09:52:42.664412Z,synclabs-ui,0.0.0,0,0,https://github.com/Sync-Labs-team/Sync_Labs_UI,Sync_Labs_UI: the Sync_Labs component library for Rust apps (the crate apps import).
+2026-11-19T09:55:13.81975Z,korzen-bot-protection,2.3.0,0,0,,"Korzen Bot Protection: asks about a request before a protected action, fails open."
+2026-11-19T09:57:30.053638Z,hola-takumi,0.1.0,0,0,,"A minimal library exporting a single hello() function, used to check that Takumi Guard blocks crates as configured."
+2026-11-19T10:00:43.341689Z,shaul-ftp,1.1.0,0,0,https://github.com/hushink/shaul,FTP backend for shaul
+2026-11-19T10:01:36.623506Z,openfx-layer-low-examples-support,0.9.0,0,0,https://github.com/kreantio/openfx-rs,"Code shared across the example crates for `openfx::{low, low_plugin}`"
+2026-11-19T10:06:18.011289Z,rightkit-media-control,0.1.0,0,0,https://github.com/bogusyogi/rightkit,"Session-owned pause and resume of other media players while a recording runs: explicit pause only for players observed playing, explicit play only for players this session paused (GSMTC on Windows; o…"
+2026-11-19T10:09:23.744465Z,ctp-base,0.1.3,0,0,https://github.com/Cambridge1995/ctp-base,CTP 行情与交易 API 的安全 Rust 绑定：owned 回调、强类型字段与 request_id 语义
+2026-11-19T10:10:50.898703Z,quiet-factory,0.0.0,0,0,https://github.com/quiet-factory,"Name reserved for Quiet Factory, a lights-out software factory. Nothing is released here yet."
+2026-11-19T10:13:24.588053Z,opencrbasic,0.1.0,0,0,https://github.com/UtrechtUniversity/open-crbasic-rs,Rust implementation of the opencrbasic CRBasic compiler (reference verdict)
+2026-11-19T10:16:58.413339Z,model-link,0.3.0,0,0,https://github.com/badetitou/Model,Builds or enriches a model from a SCIP index
+2026-11-19T10:17:04.387873Z,model-treesitter,0.3.0,0,0,https://github.com/badetitou/Model,"Extracts a model from sources with tree-sitter, driven by query files"
+2026-11-19T10:17:08.598651Z,model-index,0.3.0,0,0,https://github.com/badetitou/Model,Runs SCIP indexers and caches their documents
+2026-11-19T10:17:13.807629Z,model-factory,0.3.0,0,0,https://github.com/badetitou/Model,"Builds a language-neutral model of a codebase: detection, SCIP indexing, tree-sitter extraction, direct frontends, linking"
+2026-11-19T10:17:28.108311Z,model-graphql,0.3.0,0,0,https://github.com/badetitou/Model,Serves a model over GraphQL
