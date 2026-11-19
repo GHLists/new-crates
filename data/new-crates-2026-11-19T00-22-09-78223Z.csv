@@ -1,0 +1,29 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-18T23:20:56.350931Z,auro-update,0.1.0-alpha.1,0,0,https://github.com/pdl-clay/auro,Signed release manifests for Auro updates
+2026-11-18T23:22:32.087243Z,glassmere-markup,0.1.7,0,0,https://github.com/glassmere/glassmere,"A markup language for glassmere views, read at run time so a view can be edited while the app runs."
+2026-11-18T23:22:35.409712Z,glassmere-embedded,0.1.7,0,0,https://github.com/glassmere/glassmere,"Software renderer for glassmere scenes on microcontrollers: no_std, a plain framebuffer, built-in bitmap fonts."
+2026-11-18T23:22:41.056934Z,glassmere-designer,0.1.7,0,0,https://github.com/glassmere/glassmere,Live preview and visual editor for glassmere markup files.
+2026-11-18T23:25:58.525206Z,rainlang_addresses,0.1.20,0,0,,Rainlang deployment addresses Rust crate.
+2026-11-18T23:28:20.459738Z,remora-link,0.1.0-beta.11,0,0,https://github.com/rennerdo30/rdp-rs,"Remora helper protocol: framing, Noise-encrypted sessions, pairing and file transfer (shared by the client and remora-agent)"
+2026-11-18T23:30:04.946874Z,gitpoulpi-update,1.0.0,0,0,https://github.com/Poulpi-Lab/GitPoulpi,"The self-updater's engine: download and verify a release archive, extract it, stage and swap the binaries (Unix rename / Windows move-aside), revert. No TUI dependencies; every file operation goes th…"
+2026-11-18T23:40:46.232658Z,componentized-build-cli,0.1.6-dev,0,0,https://github.com/componentized/build,Updates a componentized repository's dependencies on the interfaces and components of other repositories
+2026-11-18T23:45:12.001826Z,gitpoulpi-ai,1.0.0,0,0,https://github.com/Poulpi-Lab/GitPoulpi,"AI completion clients (OpenAI-compatible, Anthropic, local agent CLIs), per-action prompt builders and answer parsers. No TUI dependencies."
+2026-11-18T23:46:03.386324Z,gitpoulpi-daemon,1.0.0,0,0,https://github.com/Poulpi-Lab/GitPoulpi,Background per-session daemon: owns GitBackend/session state and the IPC endpoint every frontend (TUI/CLI/MCP) connects to.
+2026-11-18T23:50:04.795205Z,auro-ui,0.1.0-alpha.1,0,0,https://github.com/pdl-clay/auro,"GPUI re-exports, primitives and tokens for Auro"
+2026-11-18T23:50:33.000417Z,weirdnet-model,0.1.0,0,0,https://github.com/WeirdBrains/weirdnet-model,"Weirdnet local models: Hugging Face GGUF download with resume and checksum, a Gemma 4 catalog, streaming llama.cpp inference on a worker thread with cancel, and an optional weirdnet-agent ModelBacken…"
+2026-11-18T23:50:38.160454Z,glotzkiste-mpv,1.2.1,0,0,https://github.com/rennerdo30/glotzkiste,Loads libmpv at runtime and wraps the parts of its C API that Glotzkiste uses.
+2026-11-18T23:58:22.125857Z,orrery-viewer,0.1.1,0,0,https://github.com/rennerdo30/orrery,"A fast, tiny 3D model viewer for FBX, glTF and GLB on Windows: double-click a model and look at it. Offline, read-only, no network."
+2026-11-19T00:00:53.106594Z,auro-bundle,0.1.0-alpha.1,0,0,https://github.com/pdl-clay/auro,Platform packaging for Auro applications
+2026-11-19T00:08:10.699732Z,gitpoulpi-tui,1.0.0,0,0,https://github.com/Poulpi-Lab/GitPoulpi,"GitPoulpi terminal UI: a ratatui/crossterm client over gitpoulpi-ipc, subscribed to daemon events for live updates."
+2026-11-19T00:08:22.791174Z,nitrate-update,0.1.0-beta.1,0,0,https://github.com/rennerdo30/nitrate,"Update checks for Nitrate: GitHub release discovery, version order, checksums, bounded HTTPS downloads."
+2026-11-19T00:09:13.901749Z,gitpoulpi-commands,1.0.0,0,0,https://github.com/Poulpi-Lab/GitPoulpi,"Shared command layer: the `gitpoulpi` clap `Cli` tree, the IPC `Session` client, and `execute` -- one `GitBackend` mapping per subcommand, run by both the CLI and the MCP server so their tools can ne…"
+2026-11-19T00:11:15.104989Z,auro,0.1.0-alpha.1,0,0,https://github.com/pdl-clay/auro,"Tauri's app model, GPUI's renderer, zero webview"
+2026-11-19T00:12:09.082393Z,marcie,0.1.0,0,0,,Embeddable Vim input command interface for Marcellus and the native Luff editor.
+2026-11-19T00:12:20.461174Z,marcy,0.1.0,0,0,,Command-line Vim input binding for Marcellus and the native Luff editor.
+2026-11-19T00:13:08.842383Z,fluent-lazy-structures,0.2.0,0,0,https://github.com/codibre/fluent-iterable,"On-demand, concurrently populated lookup structures (LazyMap) for futures Streams: the Rust sibling of @fluent-iterable/lazy-structures"
+2026-11-19T00:18:21.215883Z,remora-update,0.1.0-beta.11,0,0,https://github.com/rennerdo30/rdp-rs,"Update checks for Remora: GitHub release discovery, version order, checksums, bounded HTTPS downloads."
+2026-11-19T00:18:54.110411Z,serenade-component-host,1.0.0,0,0,https://github.com/Interchouette-ITC/Serenade,"Wasmtime Component Model host helpers (Engine, load path, empty linker)"
+2026-11-19T00:18:57.842804Z,serenade-contracts,1.0.0,0,0,https://github.com/Interchouette-ITC/Serenade,"Stable traits for persistence, clock, and cross-cutting ports"
+2026-11-19T00:19:00.190582Z,serenade-di,1.0.0,0,0,https://github.com/Interchouette-ITC/Serenade,Dependency injection container and service resolution
+2026-11-19T00:19:02.532682Z,serenade-expression,1.0.0,0,0,https://github.com/Interchouette-ITC/Serenade,Tiny safe rule expressions for guards and access checks
+2026-11-19T00:19:06.059343Z,serenade-filesystem,1.0.0,0,0,https://github.com/Interchouette-ITC/Serenade,"Path helpers, dump/mirror, and temp file utilities"

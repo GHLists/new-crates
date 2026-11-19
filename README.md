@@ -8,43 +8,42 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-18 23:20 UTC
+## Latest list — 2026-11-19 00:22 UTC
 
-New crates published between 2026-11-18 22:20 UTC and 2026-11-18 23:20 UTC.
+New crates published between 2026-11-18 23:20 UTC and 2026-11-19 00:22 UTC.
 
-[Full CSV](data/new-crates-2026-11-18T23-20-43-601649Z.csv)
+[Full CSV](data/new-crates-2026-11-19T00-22-09-78223Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-18 22:21:29 | [gitpoulpi-cli-backend](https://crates.io/crates/gitpoulpi-cli-backend) | 1.0.0 | 0 | GitBackend implementation that shells out to the system `git` binary, parsing o… |
-| 2026-11-18 22:24:54 | [gitpoulpi-config](https://crates.io/crates/gitpoulpi-config) | 1.0.0 | 0 | GitPoulpi config schema, TOML load/save, defaults, and OS-correct path resoluti… |
-| 2026-11-18 22:28:09 | [nitrate-mpv](https://crates.io/crates/nitrate-mpv) | 0.1.0-beta.1 | 0 | Loads libmpv at runtime and wraps the parts of its C API that Nitrate uses. |
-| 2026-11-18 22:30:35 | [recount](https://crates.io/crates/recount) | 0.0.1 | 0 | Recount tells you what changed in any git repository, in plain sentences with p… |
-| 2026-11-18 22:33:59 | [parsec-html](https://crates.io/crates/parsec-html) | 0.0.0 | 0 | A fast, spec-compliant HTML5 parser with CSS selectors. Name reserved; the firs… |
-| 2026-11-18 22:38:13 | [ffwd-ai](https://crates.io/crates/ffwd-ai) | 0.2.0-beta.11 | 0 | AI help for ffwd against an OpenAI-compatible endpoint the user configures (loc… |
-| 2026-11-18 22:39:46 | [gitpoulpi-git2-backend](https://crates.io/crates/gitpoulpi-git2-backend) | 1.0.0 | 0 | GitBackend implementation over libgit2 (git2 crate), decorating gitpoulpi-cli-b… |
-| 2026-11-18 22:44:38 | [shardheap](https://crates.io/crates/shardheap) | 0.1.0 | 0 | Shared-nothing allocators for Rust's stable Allocator API: a mimalloc-style hea… |
-| 2026-11-18 22:44:57 | [gitpoulpi-hosting](https://crates.io/crates/gitpoulpi-hosting) | 1.0.0 | 0 | Hosting and issue-tracker API clients (GitHub, GitLab, Gitea/Forgejo, Azure Dev… |
-| 2026-11-18 22:48:12 | [ffwd-update](https://crates.io/crates/ffwd-update) | 0.2.0-beta.11 | 0 | Update checks for ffwd: GitHub release discovery, version order, checksums, bou… |
-| 2026-11-18 22:49:48 | [freenet-quinn-proto](https://crates.io/crates/freenet-quinn-proto) | 0.11.13 | 0 | TEMPORARY FORK of quinn-proto carrying unreleased upstream fixes (quinn-rs/quin… |
-| 2026-11-18 22:50:09 | [freenet-quinn](https://crates.io/crates/freenet-quinn) | 0.11.13 | 0 | TEMPORARY FORK of quinn carrying unreleased upstream fixes (quinn-rs/quinn#2987… |
-| 2026-11-18 22:51:57 | [rs-arrow-timestamps2pgcopy](https://crates.io/crates/rs-arrow-timestamps2pgcopy) | 0.1.0 | 0 | Converts the timestamp values in the array to pgcopy bytes. |
-| 2026-11-18 22:53:54 | [momentary](https://crates.io/crates/momentary) | 0.1.0 | 0 | Temporary file and directory management facilities |
-| 2026-11-18 22:56:14 | [weirdnet-agent](https://crates.io/crates/weirdnet-agent) | 0.1.0 | 0 | Weirdnet agent runtime: a model-agnostic agent loop with streaming events and c… |
-| 2026-11-18 22:58:13 | [ffwd-agent](https://crates.io/crates/ffwd-agent) | 0.2.0-beta.11 | 0 | Experimental agent workspaces for ffwd: runs a coding agent in its own worktree… |
-| 2026-11-18 22:59:12 | [auro-macros](https://crates.io/crates/auro-macros) | 0.1.0-alpha.1 | 0 | Procedural macros for Auro commands |
-| 2026-11-18 22:59:21 | [auro-ipc](https://crates.io/crates/auro-ipc) | 0.1.0-alpha.1 | 0 | Typed command transport for Auro |
-| 2026-11-18 22:59:28 | [auro-sign](https://crates.io/crates/auro-sign) | 0.1.0-alpha.1 | 0 | Signing keys and artifact signatures for Auro |
-| 2026-11-18 22:59:33 | [auro-perms](https://crates.io/crates/auro-perms) | 0.1.0-alpha.1 | 0 | Capability manifest and runtime enforcement for Auro boundaries |
-| 2026-11-18 22:59:57 | [auro-services](https://crates.io/crates/auro-services) | 0.1.0-alpha.1 | 0 | Platform services for Auro: autostart, notifications, keychain, shortcuts, tray… |
-| 2026-11-18 23:00:02 | [gitpoulpi-ipc](https://crates.io/crates/gitpoulpi-ipc) | 1.0.0 | 0 | Client<->daemon IPC protocol shared by the TUI, CLI, and MCP frontends: request… |
-| 2026-11-18 23:08:38 | [kwil](https://crates.io/crates/kwil) | 0.0.1 | 0 | Kwil, a fast plain text editor for the desktop and the terminal. This early rel… |
-| 2026-11-18 23:10:31 | [auro-core](https://crates.io/crates/auro-core) | 0.1.0-alpha.1 | 0 | Application model for Auro: config, state and the runtime bridge |
-| 2026-11-18 23:11:53 | [evento-cluster](https://crates.io/crates/evento-cluster) | 2.0.0-alpha.39 | 0 | Clustered executor for evento — a leaderless, strictly-serializable, highly-ava… |
-| 2026-11-18 23:12:51 | [maximus](https://crates.io/crates/maximus) | 0.1.0 | 0 | Vim input bindings for the Marcellus CLI and the native Luff editor. |
-| 2026-11-18 23:14:16 | [gitpoulpi-log](https://crates.io/crates/gitpoulpi-log) | 1.0.0 | 0 | GitPoulpi application log: a tracing sink with a level, daily files, retention… |
-| 2026-11-18 23:15:09 | [gitpoulpi-session](https://crates.io/crates/gitpoulpi-session) | 1.0.0 | 0 | Session/state persistence: named sessions (tabs, layout), per-repo state (ref f… |
-| 2026-11-18 23:18:20 | [nitrate-ui](https://crates.io/crates/nitrate-ui) | 0.1.0-beta.1 | 0 | Nitrate's player controls: layout, hit testing and CPU drawing. No windowing, n… |
+| 2026-11-18 23:20:56 | [auro-update](https://crates.io/crates/auro-update) | 0.1.0-alpha.1 | 0 | Signed release manifests for Auro updates |
+| 2026-11-18 23:22:32 | [glassmere-markup](https://crates.io/crates/glassmere-markup) | 0.1.7 | 0 | A markup language for glassmere views, read at run time so a view can be edited… |
+| 2026-11-18 23:22:35 | [glassmere-embedded](https://crates.io/crates/glassmere-embedded) | 0.1.7 | 0 | Software renderer for glassmere scenes on microcontrollers: no_std, a plain fra… |
+| 2026-11-18 23:22:41 | [glassmere-designer](https://crates.io/crates/glassmere-designer) | 0.1.7 | 0 | Live preview and visual editor for glassmere markup files. |
+| 2026-11-18 23:25:58 | [rainlang_addresses](https://crates.io/crates/rainlang_addresses) | 0.1.20 | 0 | Rainlang deployment addresses Rust crate. |
+| 2026-11-18 23:28:20 | [remora-link](https://crates.io/crates/remora-link) | 0.1.0-beta.11 | 0 | Remora helper protocol: framing, Noise-encrypted sessions, pairing and file tra… |
+| 2026-11-18 23:30:04 | [gitpoulpi-update](https://crates.io/crates/gitpoulpi-update) | 1.0.0 | 0 | The self-updater's engine: download and verify a release archive, extract it, s… |
+| 2026-11-18 23:40:46 | [componentized-build-cli](https://crates.io/crates/componentized-build-cli) | 0.1.6-dev | 0 | Updates a componentized repository's dependencies on the interfaces and compone… |
+| 2026-11-18 23:45:12 | [gitpoulpi-ai](https://crates.io/crates/gitpoulpi-ai) | 1.0.0 | 0 | AI completion clients (OpenAI-compatible, Anthropic, local agent CLIs), per-act… |
+| 2026-11-18 23:46:03 | [gitpoulpi-daemon](https://crates.io/crates/gitpoulpi-daemon) | 1.0.0 | 0 | Background per-session daemon: owns GitBackend/session state and the IPC endpoi… |
+| 2026-11-18 23:50:04 | [auro-ui](https://crates.io/crates/auro-ui) | 0.1.0-alpha.1 | 0 | GPUI re-exports, primitives and tokens for Auro |
+| 2026-11-18 23:50:33 | [weirdnet-model](https://crates.io/crates/weirdnet-model) | 0.1.0 | 0 | Weirdnet local models: Hugging Face GGUF download with resume and checksum, a G… |
+| 2026-11-18 23:50:38 | [glotzkiste-mpv](https://crates.io/crates/glotzkiste-mpv) | 1.2.1 | 0 | Loads libmpv at runtime and wraps the parts of its C API that Glotzkiste uses. |
+| 2026-11-18 23:58:22 | [orrery-viewer](https://crates.io/crates/orrery-viewer) | 0.1.1 | 0 | A fast, tiny 3D model viewer for FBX, glTF and GLB on Windows: double-click a m… |
+| 2026-11-19 00:00:53 | [auro-bundle](https://crates.io/crates/auro-bundle) | 0.1.0-alpha.1 | 0 | Platform packaging for Auro applications |
+| 2026-11-19 00:08:10 | [gitpoulpi-tui](https://crates.io/crates/gitpoulpi-tui) | 1.0.0 | 0 | GitPoulpi terminal UI: a ratatui/crossterm client over gitpoulpi-ipc, subscribe… |
+| 2026-11-19 00:08:22 | [nitrate-update](https://crates.io/crates/nitrate-update) | 0.1.0-beta.1 | 0 | Update checks for Nitrate: GitHub release discovery, version order, checksums,… |
+| 2026-11-19 00:09:13 | [gitpoulpi-commands](https://crates.io/crates/gitpoulpi-commands) | 1.0.0 | 0 | Shared command layer: the `gitpoulpi` clap `Cli` tree, the IPC `Session` client… |
+| 2026-11-19 00:11:15 | [auro](https://crates.io/crates/auro) | 0.1.0-alpha.1 | 0 | Tauri's app model, GPUI's renderer, zero webview |
+| 2026-11-19 00:12:09 | [marcie](https://crates.io/crates/marcie) | 0.1.0 | 0 | Embeddable Vim input command interface for Marcellus and the native Luff editor. |
+| 2026-11-19 00:12:20 | [marcy](https://crates.io/crates/marcy) | 0.1.0 | 0 | Command-line Vim input binding for Marcellus and the native Luff editor. |
+| 2026-11-19 00:13:08 | [fluent-lazy-structures](https://crates.io/crates/fluent-lazy-structures) | 0.2.0 | 0 | On-demand, concurrently populated lookup structures (LazyMap) for futures Strea… |
+| 2026-11-19 00:18:21 | [remora-update](https://crates.io/crates/remora-update) | 0.1.0-beta.11 | 0 | Update checks for Remora: GitHub release discovery, version order, checksums, b… |
+| 2026-11-19 00:18:54 | [serenade-component-host](https://crates.io/crates/serenade-component-host) | 1.0.0 | 0 | Wasmtime Component Model host helpers (Engine, load path, empty linker) |
+| 2026-11-19 00:18:57 | [serenade-contracts](https://crates.io/crates/serenade-contracts) | 1.0.0 | 0 | Stable traits for persistence, clock, and cross-cutting ports |
+| 2026-11-19 00:19:00 | [serenade-di](https://crates.io/crates/serenade-di) | 1.0.0 | 0 | Dependency injection container and service resolution |
+| 2026-11-19 00:19:02 | [serenade-expression](https://crates.io/crates/serenade-expression) | 1.0.0 | 0 | Tiny safe rule expressions for guards and access checks |
+| 2026-11-19 00:19:06 | [serenade-filesystem](https://crates.io/crates/serenade-filesystem) | 1.0.0 | 0 | Path helpers, dump/mirror, and temp file utilities |
 
 ## Data source
 
