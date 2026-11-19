@@ -1,0 +1,46 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-19T02:22:47.513365Z,dwi,0.1.0,0,0,https://github.com/cuviper/dwi,DWARF Inspector: an interactive DIE and attribute browser
+2026-11-19T02:23:47.434513Z,functora-egui-demo,0.2.1,0,0,https://github.com/functora/functora.github.io/tree/master/rust/functora-egui-demo,"Showcase app for functora-egui - all layouts, components, widgets and features"
+2026-11-19T02:24:27.879339Z,lumenui-commands,0.0.12,0,0,https://github.com/lumen-fx/lumen,"Lumen's commands module: named actions with keyboard shortcuts, menu items that run them, a command palette, and user key bindings. For Rust SDK (lumenui) apps, linked from the release's prebuilt eng…"
+2026-11-19T02:27:37.774027Z,kova-mysql,0.0.1,0,0,,"Core value types, identifier quoting, and connection options for MySQL."
+2026-11-19T02:28:14.452614Z,serenade-console,1.0.0,0,0,https://github.com/Interchouette-ITC/Serenade,Console Application: discoverable commands (bin/console analogue)
+2026-11-19T02:29:15.132368Z,gadk-cloudtrace,0.4.1,0,0,https://github.com/sirhco/gadk-rust,A Google Cloud Trace v1 read client for gadk: list and get traces
+2026-11-19T02:30:12.959245Z,refract-parley,0.12.0,0,0,https://github.com/refractrs/refract,Refract's temporary fork of Parley with externally supplied editor style ranges.
+2026-11-19T02:30:16.694882Z,crab-dads-traits,0.1.0,0,0,https://codeberg.org/ElectricCogs/crab-db,"Traits for a transactional storage system, used by crab-db"
+2026-11-19T02:30:18.21291Z,crab-dads,0.1.0,0,0,https://codeberg.org/ElectricCogs/crab-db,A page-oriented B-Tree implementation and its component parts.
+2026-11-19T02:30:19.976522Z,crab-dads-memmap,0.1.0,0,0,https://codeberg.org/ElectricCogs/crab-db,A memory-map backed transactional storage system.
+2026-11-19T02:30:21.744797Z,crab-db,0.1.0,0,0,https://codeberg.org/ElectricCogs/crab-db,A nestable B-Tree database supporting large storage.
+2026-11-19T02:30:38.771597Z,tvpipe-fairplay,0.2.0,0,0,https://github.com/mitsuhiko/tvpipe,"FairPlay SAP for AirPlay mirroring (the LGPL part of tvpipe; bytes in, bytes out)"
+2026-11-19T02:30:48.142329Z,tvpipe,0.2.0,0,0,https://github.com/mitsuhiko/tvpipe,"Stream a program's frames and sound, files, web pages or the screen to Apple TVs, Chromecasts and browser tabs with low latency, in process"
+2026-11-19T02:30:59.477577Z,tvpipe-cli,0.2.0,0,0,https://github.com/mitsuhiko/tvpipe,Low-latency mirroring of video and audio to AirPlay and Google Cast receivers (the tvpipe command)
+2026-11-19T02:31:12.144362Z,cryptonote,0.2.1,0,0,https://github.com/functora/functora.github.io/tree/master/rust/cryptonote,Cryptonote is a cross-platform app for encrypted notes.
+2026-11-19T02:37:07.038348Z,trustbelt,0.0.1,0,0,https://github.com/trustbelt/trustbelt,Command-line tool of the TrustBelt framework. Placeholder release: nothing is implemented yet.
+2026-11-19T02:38:13.709051Z,serenade-event,1.0.0,0,0,https://github.com/Interchouette-ITC/Serenade,Sync event dispatcher and subscriber registration
+2026-11-19T02:39:10.877439Z,atlas-lib,0.5.0,0,0,https://github.com/flowerornament/atlas,"Library behind cargo-atlas: read-only Rust workspace snapshots, qualified analysis, navigation, change review and architecture checks"
+2026-11-19T02:39:20.761919Z,scofflaw,0.0.0,0,0,,"Definitions with inheritance, mixins and stacking for Rust. Placeholder; the reader lands soon."
+2026-11-19T02:39:28.425981Z,cargo-atlas,0.13.0,0,0,https://github.com/flowerornament/atlas,"Answer questions about how a Rust codebase is put together: navigation, change review, diagrams and architecture checks"
+2026-11-19T02:39:57.543335Z,mermaid-renderer,0.1.1,0,0,https://github.com/launcher-rs/mermaid-renderer,纯 Rust 的 Mermaid 图表渲染库，直接输出 SVG，不依赖浏览器与 Node.js
+2026-11-19T02:41:29.529324Z,burn-onnx-image-inference,0.1.0,0,0,https://codeberg.org/AyanoKeiko/burn-onnx-image-inference,burn onnx toolkit for image inference (Classification)
+2026-11-19T02:44:25.532326Z,kova-cli,0.0.1,0,0,,Command-line utilities for schema naming checks and SQL identifier formatting.
+2026-11-19T02:44:35.169743Z,rsbse,0.12.1,0,0,,"Basis Set Exchange: 776 basis sets with 29 output formats, 18 input formats and the basis-set manipulations of the Python basis_set_exchange 0.12 library"
+2026-11-19T02:45:21.133184Z,hyve,0.0.1-alpha.0,0,0,https://github.com/hyperish/hyve,All-in-one Rust core development framework and toolchain foundation for the Hyperish family
+2026-11-19T02:45:22.767138Z,orbic,0.0.1-alpha.0,0,0,https://github.com/hyperish/orbic,Component-based Rust backend framework for the Hyperish family
+2026-11-19T02:45:25.713295Z,opale,0.0.1-alpha.0,0,0,https://github.com/hyperish/opale,High-performance cross-platform graphics framework for the Hyperish family
+2026-11-19T02:45:33.408442Z,serge,0.0.1-alpha.0,0,0,https://github.com/hyperish/serge,Unified cross-platform Web DOM and Native GPU/CPU UI framework for the Hyperish family
+2026-11-19T02:45:44.453782Z,kova-migrate,0.0.1,0,0,,"Schema migration versioning, checksum verification, and execution planning primitives."
+2026-11-19T02:48:13.858714Z,serenade-http-actix,1.0.0,0,0,https://github.com/Interchouette-ITC/Serenade,Actix-web adapter for serenade-http
+2026-11-19T02:50:36.735431Z,glotzkiste-update,1.2.1,0,0,https://github.com/rennerdo30/glotzkiste,"Update checks for Glotzkiste: GitHub release discovery, version order, checksums, bounded HTTPS downloads."
+2026-11-19T02:50:40.343581Z,gherkin-glass,1.0.0,0,0,https://github.com/marlon-sousa/gherkin-glass,An accessible static viewer for Gherkin feature files
+2026-11-19T02:58:12.985087Z,serenade-http-axum,1.0.0,0,0,https://github.com/Interchouette-ITC/Serenade,Axum adapter for serenade-http
+2026-11-19T02:59:39.563363Z,oxiview-base,0.0.0-pre-alpha-2fa768d,0,0,https://github.com/oxiview/oxiview,"Geometry, color and shared native surface types for oxiview"
+2026-11-19T02:59:41.274507Z,oxiview-reactive,0.0.0-pre-alpha-2fa768d,0,0,https://github.com/oxiview/oxiview,"Thread-local signals, reactive scopes and tasks for oxiview"
+2026-11-19T02:59:42.690322Z,oxiview-syntax,0.0.0-pre-alpha-2fa768d,0,0,https://github.com/oxiview/oxiview,"Shared .oxi grammar, Builder expansion and source analysis for oxiview"
+2026-11-19T02:59:44.524467Z,oxiview-testing,0.0.0-pre-alpha-2fa768d,0,0,https://github.com/oxiview/oxiview,"Pixel comparison, snapshot and benchmark support for oxiview"
+2026-11-19T02:59:47.123066Z,oxiview-layout,0.0.0-pre-alpha-2fa768d,0,0,https://github.com/oxiview/oxiview,Native layout protocol and Taffy adapter for oxiview
+2026-11-19T03:00:27.969579Z,trainhorn,1.0.0,0,0,https://github.com/train-horn/trainhorn,"Dependency-free calculators for train horn setups: sound level vs distance (inverse-square law), air tank runtime and compressor recovery, copper AWG voltage drop."
+2026-11-19T03:03:42.734281Z,oxiview-lsp,0.0.0-pre-alpha-2fa768d,0,0,https://github.com/oxiview/oxiview,"Language server for precompiled .oxi views, styles and Rust source navigation"
+2026-11-19T03:08:13.66085Z,serenade-http-client,1.0.0,0,0,https://github.com/Interchouette-ITC/Serenade,"Outbound HttpClient contract, MockHttpClient, and optional reqwest adapter"
+2026-11-19T03:13:44.727768Z,oxiview-macros,0.0.0-pre-alpha-2fa768d,0,0,https://github.com/oxiview/oxiview,"Procedural macros for oxiview components, props, and precompiled .oxi sources"
+2026-11-19T03:13:53.942055Z,prisma_macros,0.3.3,0,0,,Procedural macros for Prisma (prismae).
+2026-11-19T03:14:56.528303Z,opendeskphone-app-sdk,0.0.0,0,0,https://github.com/jackrosenthal/opendeskphone,"SDK for writing apps for Open Desk Phone, the open firmware for Digium D-series desk phones: WebAssembly components that draw on the phone's screen, read its keys, and talk to the PBX"
+2026-11-19T03:18:13.707619Z,serenade-lock,1.0.0,0,0,https://github.com/Interchouette-ITC/Serenade,"Symfony-shaped lock contracts, LockFactory, and lock stores"
