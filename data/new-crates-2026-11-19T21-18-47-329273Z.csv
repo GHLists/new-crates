@@ -1,0 +1,65 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-19T20:22:53.388047Z,ztd,0.1.0,0,0,https://github.com/FortunatoZukunftdeuter/ZtdRust,The FortunatoZukunftdeuter's Standard Library
+2026-11-19T20:23:53.561818Z,zuse-computer,0.1.0,0,0,https://github.com/LIghtJUNction/zuse,"Agent-native computer use shell, native desktop control and MCP server"
+2026-11-19T20:25:34.707905Z,rustydiscord-model,0.0.2,0,0,https://github.com/usslmuk/rustydiscord,"Discord API v10 types: users, guilds, channels, messages, interactions and gateway events"
+2026-11-19T20:25:40.671867Z,rustydiscord-macros,0.0.2,0,0,https://github.com/usslmuk/rustydiscord,Attribute macros for rustydiscord bots
+2026-11-19T20:25:54.846667Z,rustydiscord-util,0.0.2,0,0,https://github.com/usslmuk/rustydiscord,Shared utilities used across the rustydiscord crates
+2026-11-19T20:26:00.474415Z,rustydiscord-collection,0.0.2,0,0,https://github.com/usslmuk/rustydiscord,A feature-rich map type with folds and iteration helpers
+2026-11-19T20:29:00.943241Z,rustydiscord-formatters,0.0.2,0,0,https://github.com/usslmuk/rustydiscord,"Markdown, mention and timestamp formatting helpers for Discord messages"
+2026-11-19T20:29:49.87984Z,aidaemon-tool-browser,0.21.0,0,0,https://github.com/davo20019/aidaemon,"A Chrome browser tool for aidaemon agents (navigate, read, click, fill, screenshot, with owner approval for consequential actions); implementation crate of the aidaemon SDK, no stability promise (use…"
+2026-11-19T20:31:43.726238Z,paigasus-helikon-sessions-testkit,0.1.0,0,0,https://github.com/SMK1085/paigasus-helikon,"Session conformance suite for Paigasus Helikon backends, including your own."
+2026-11-19T20:31:56.204448Z,morainedb,0.1.0-beta.1,0,0,https://github.com/sayef/moraine,"A client-only, multi-writer database on object storage: Delta Lake tables, one conditional PUT per commit, no server."
+2026-11-19T20:36:27.044625Z,image-cli,0.0.5,0,0,https://github.com/gabrielfalcao/image-cli,"set of tools to perform operations on images: generate set of icons, resize, generate icns, change dimensions, hue, store and rertrieve alpha channels and deconstruct png files into a source file of…"
+2026-11-19T20:37:11.975962Z,nagelfluh,0.0.1,0,0,,"A task library: values as descriptions, one apply, a book of records, stores of bytes"
+2026-11-19T20:37:14.661761Z,speerblick,0.0.1,0,0,,"A graph editor and viewer for nagelfluh: values on cables, tasks as nodes"
+2026-11-19T20:39:22.109803Z,rustydiscord-builders,0.0.2,0,0,https://github.com/usslmuk/rustydiscord,"Validated builders for Discord embeds, application commands, components and modals"
+2026-11-19T20:39:27.358831Z,rust-platform-kit,0.2.0,0,0,https://github.com/MasonRhodesDev/rust-platform-kit,Session presence and macOS privacy permissions behind one API on Linux and macOS
+2026-11-19T20:40:13.500158Z,lc3,0.1.0,0,0,https://github.com/jj2218/lc3-rs,"Pure-Rust LC3 (Bluetooth LE Audio) codec: encoder, decoder, packet loss concealment; bit-exact with liblc3"
+2026-11-19T20:43:07.232059Z,nsh-ext,0.6.0,0,0,https://github.com/honsunrise/nsh-ext,Opt-in native WebView extensions for Native Shell
+2026-11-19T20:45:54.62717Z,java-compat-rs,0.1.0,0,0,https://github.com/oxidestack/java-compat-rs,"Unofficial port of the behaviour of the JDK (java.text, java.util, java.util.regex, charsets) as OpenJDK 21 and 26 record it"
+2026-11-19T20:47:00.537778Z,libphonenumber,0.1.0,0,0,https://github.com/oxidestack/libphonenumber,"Unofficial Rust port of the parts of Google's libphonenumber 9.0.41 (Java) that Datafaker reaches: region metadata, parse, validation, number types and formatting, with libphonenumber's own results.…"
+2026-11-19T20:47:03.798771Z,caffeine-rs,0.1.0,0,0,https://github.com/oxidestack/caffeine-rs,"Unofficial Rust port of the eviction policy of Caffeine 3.1.8: W-TinyLFU admission window, SLRU segments, frequency sketch and hill climber"
+2026-11-19T20:47:16.355087Z,jgroups,0.1.0,0,0,https://github.com/oxidestack/jgroups,"An unofficial Rust port of JGroups 5.2.28.Final, the Java toolkit for reliable cluster communication"
+2026-11-19T20:47:25.923995Z,atroot,0.1.0,0,0,https://github.com/FortunatoZukunftdeuter/AtRoot,Invoke Commands at the root project
+2026-11-19T20:47:37.226752Z,nsh-ext-linux,0.6.0,0,0,https://github.com/honsunrise/nsh-ext,"Linux (GTK 4, WebKitGTK 6.0) adapter for nsh-ext's extension-owned WebView"
+2026-11-19T20:48:13.046491Z,basic_math-number_theory,0.1.0,0,0,https://github.com/Poorna36/basic_crates,"GCD, LCM, prime numbers and their count for a list of numbers"
+2026-11-19T20:49:33.328782Z,opengrid-connector-mysql,0.20.0,0,0,https://github.com/casoon/opengrid,MySQL 8 as a connector for opengrid-server
+2026-11-19T20:50:53.615821Z,nsh-ext-apple,0.6.0,0,0,https://github.com/honsunrise/nsh-ext,"iOS, Mac Catalyst and macOS adapter for nsh-ext's loading-progress WebView"
+2026-11-19T20:51:54.829815Z,procwho-proc,0.1.0,0,0,https://github.com/buddyh/procwho,Read-only process to workload attribution for macOS
+2026-11-19T20:51:55.324784Z,procwho-wt,0.1.0,0,0,https://github.com/buddyh/procwho,Read-only git worktree inventory and review labels
+2026-11-19T20:51:56.455348Z,procwho-mcp,0.1.0,0,0,https://github.com/buddyh/procwho,Read-only procwho tools over MCP stdio
+2026-11-19T20:51:58.168825Z,procwho,0.1.0,0,0,https://github.com/buddyh/procwho,Read-only macOS workload and git worktree CLI
+2026-11-19T20:52:32.87223Z,nsh-ext-windows,0.6.0,0,0,https://github.com/honsunrise/nsh-ext,"Windows WebView2 adapter for nsh-ext, hosted as an NSH native component"
+2026-11-19T20:55:32.363099Z,ignit_shader_compute,1.6.3,0,0,https://forgejo.sakul-flee.de/SakulFlee/Ignit,Compute shader assembly and pipeline creation for Ignit
+2026-11-19T20:55:33.163015Z,rhema-session-store,0.4.0,0,0,https://github.com/vhaudiquet/rhema,"The session store seam: saved sessions behind one small synchronous trait, the reusable contract suite included"
+2026-11-19T20:55:43.644022Z,rhema-session-store-file,0.4.0,0,0,https://github.com/vhaudiquet/rhema,"The reference session store backend: one bare-JSON Session per file, atomically written and fsynced"
+2026-11-19T20:55:52.792819Z,rhema-session-store-sqlite,0.4.0,0,0,https://github.com/vhaudiquet/rhema,"The SQLite session store backend: one row per session, WAL, synchronous=FULL"
+2026-11-19T20:56:02.075367Z,rhema-submissions,0.4.0,0,0,https://github.com/vhaudiquet/rhema,"The lifecycle layer: every requested unit of work as a durable record with an id, a kind, a payload and a status"
+2026-11-19T20:56:22.468366Z,rhema-prompt,0.4.0,0,0,https://github.com/vhaudiquet/rhema,The system prompt: the Jinja template renderer and the markdown skill discovery that feeds its skills list
+2026-11-19T20:56:33.394672Z,loonfs-merge,0.6.0,0,0,https://github.com/loonfs/loonfs,"The loop that merges a LoonFS fork: merge, split, rebase, resolve, and merge again."
+2026-11-19T20:57:11.69211Z,consus-zip,0.5.0,0,0,https://github.com/ryancinsight/consus,Bounded pure-Rust ZIP container reader and writer for stored and deflated members
+2026-11-19T20:57:13.524208Z,polyfw,0.1.0,0,0,https://github.com/inaku-Gyan/polyfw,"Build, check, flash and debug registered embedded Rust firmware"
+2026-11-19T20:57:33.711281Z,rustydiscord-gateway,0.0.2,0,0,https://github.com/usslmuk/rustydiscord,Discord gateway client with sharding and transport compression
+2026-11-19T20:57:38.677983Z,java-rt-rs,0.1.0,0,0,https://github.com/oxidestack/swagger-parser-rs,"Java runtime behaviour shared by the swagger-parser crates: exceptions as values, java.net.URI / URL"
+2026-11-19T20:57:39.251042Z,snakeyaml-rs,0.1.0,0,0,https://github.com/oxidestack/swagger-parser-rs,"A port of SnakeYAML 2.6 (loading, resolving, SafeConstructor, emitting) as used by swagger-parser and Jackson YAML"
+2026-11-19T20:58:13.399668Z,arri_derive,0.86.0,0,0,https://github.com/modiimedia/arri,Derive macros for the arri crate. Use the `arri` crate instead of depending on this directly.
+2026-11-19T20:58:50.819538Z,rustydiscord-rest,0.0.2,0,0,https://github.com/usslmuk/rustydiscord,Rate-limit-aware Discord REST client with per-bucket rate limiting
+2026-11-19T20:59:53.971703Z,superscalar,0.0.0,0,0,https://github.com/parable-work/superscalar,Placeholder: this name is reserved for the superscalar scalar types library. The first release is not out yet.
+2026-11-19T20:59:55.623933Z,superschematic,0.0.0,0,0,https://github.com/parable-work/superschematic,Placeholder: this name is reserved for the superschematic schema compiler and its runtime libraries. The first release is not out yet.
+2026-11-19T20:59:57.606189Z,superschematic-schema-runtime,0.0.0,0,0,https://github.com/parable-work/superschematic,Placeholder: this name is reserved for the superschematic schema compiler and its runtime libraries. The first release is not out yet.
+2026-11-19T20:59:59.225409Z,superschematic-http-runtime,0.0.0,0,0,https://github.com/parable-work/superschematic,Placeholder: this name is reserved for the superschematic schema compiler and its runtime libraries. The first release is not out yet.
+2026-11-19T21:00:01.192832Z,superscalar-codegen,0.0.0,0,0,https://github.com/parable-work/superscalar,Placeholder: this name is reserved for the superscalar scalar types library. The first release is not out yet.
+2026-11-19T21:01:25.111555Z,lintel-lib-iced,0.1.0,0,0,https://github.com/looading/lintel,Public renderer exports and UI diagnostics for Lintel
+2026-11-19T21:03:38.244272Z,rhema-provider-mistral,0.4.0,0,0,https://github.com/vhaudiquet/rhema,Mistral API and Mistral Vibe provider for rhema
+2026-11-19T21:04:37.209484Z,weirdnet-semcache,0.1.0,0,0,https://github.com/WeirdBrains/weirdnet-semcache,"Weirdnet answer cache for inference nodes: the AnswerCache trait, a pluggable AnswerStore, and an exact-match cache for deterministic weirdnet-agent infer/2 requests."
+2026-11-19T21:05:03.727858Z,jackson-rs,0.1.0,0,0,https://github.com/oxidestack/swagger-parser-rs,"The parts of Jackson 2.22 (core, databind tree model, dataformat-yaml) that swagger-parser relies on, byte-for-byte"
+2026-11-19T21:05:27.913875Z,weirdnet-openai,0.1.0,0,0,https://github.com/WeirdBrains/weirdnet-openai,"Loopback-only OpenAI-compatible bridge over a weirdnet-agent inference pool: chat completions (streaming), models and embeddings, with a bearer token, a Host check and no CORS."
+2026-11-19T21:08:55.204623Z,weirdnet-backends,0.1.0,0,0,https://github.com/WeirdBrains/weirdnet-backends,"Weirdnet model-node wrapper: llama.cpp server and vLLM adapters, a local supervisor (swap groups, idle unload, crash backoff, drain), SSE decoding, raw infer/2 serving, and the /weirdnet-backends/nod…"
+2026-11-19T21:10:08.350263Z,superscalar-ffi,0.0.0,0,0,https://github.com/parable-work/superscalar,Placeholder: this name is reserved for the superscalar scalar types library. The first release is not out yet.
+2026-11-19T21:13:00.445619Z,rustydiscord-cache,0.0.2,0,0,https://github.com/usslmuk/rustydiscord,"Configurable, pluggable in-memory cache for Discord entities"
+2026-11-19T21:13:00.791654Z,ripcloc,1.0.0,0,0,https://github.com/alfredjeanlab/ripcloc,Quickly counts lines of code by language
+2026-11-19T21:13:21.244863Z,swagger-parser-safe-url-resolver-rs,0.1.0,0,0,https://github.com/oxidestack/swagger-parser-rs,A port of swagger-parser-safe-url-resolver 2.1.48
+2026-11-19T21:13:56.219715Z,nsh-ext-gpui,0.6.0,0,0,https://github.com/honsunrise/nsh-ext,nsh-ext WebView for Native Shell's GPUI backend: an owned wry web view as a native component.
+2026-11-19T21:14:16.266084Z,macro-scheme,0.1.0,0,0,https://github.com/sunsided/macro-scheme,"Bidirectional macro schemes: validation, decoding, encoders (LZ77, lex-parse) and exact minimization for tiny inputs"
+2026-11-19T21:15:05.458385Z,neotales-x509,0.0.0-alpha.0,0,0,https://github.com/neotales/rs-x509,"X.509 certificate identifiers, parsing and generation, and the SSH wire conversions for certificates and keys"
+2026-11-19T21:17:30.212483Z,sbo,0.1.0,0,0,https://github.com/mikwielgus/sbo,Small buffer optimization (SBO) for arbitrary collections.
