@@ -1,0 +1,29 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-19T18:22:09.969549Z,gitserve,1.0.1,0,0,https://github.com/corebreaker/gitserve-rs,A little HTTP server exposing local bare Git repositories over the smart HTTP protocol
+2026-11-19T18:24:30.721469Z,ironflowx-cell,0.0.1,0,0,https://github.com/ironflowx/foundation,The Ironflow X ledger: one environment's durable commit log and read store. Placeholder: the first real release is 0.1.0.
+2026-11-19T18:24:32.922364Z,ironflowx-events,0.0.1,0,0,https://github.com/ironflowx/foundation,Ironflow X event rules: what an event is and when an emit is refused. Placeholder: the first real release is 0.1.0.
+2026-11-19T18:24:34.993334Z,ironflowx-proto,0.0.1,0,0,https://github.com/ironflowx/foundation,The Ironflow X Operations interface and its request and answer types. Placeholder: the first real release is 0.1.0.
+2026-11-19T18:25:11.337975Z,usagi-core,0.3.0,0,0,https://github.com/DarklightGames/usagi,Parser and static analysis for Unreal Engine 2 UnrealScript
+2026-11-19T18:25:26.030733Z,usagi-cli,0.3.0,0,0,https://github.com/DarklightGames/usagi,"Command-line parser, linter and mod build tool for Unreal Engine 2 UnrealScript"
+2026-11-19T18:26:12.61345Z,pheon,0.3.0,0,0,https://mpxd.net/code/jan/pheon,"GDSII parsing, Arrow interchange, and structural layout review"
+2026-11-19T18:27:33.97498Z,lintel-cef,143.7.1+143.0.14,0,0,https://github.com/tauri-apps/cef-rs,Use cef in Rust
+2026-11-19T18:29:01.618857Z,aidaemon-eval,0.21.0,0,0,https://github.com/davo20019/aidaemon,"Scenario-based eval kit for aidaemon agents; implementation crate of the aidaemon SDK, no stability promise (use it through aidaemon-sdk)"
+2026-11-19T18:38:07.832189Z,incremental-client,0.1.0,0,0,https://github.com/frontal-labs/incremental,"Rust client for the Incremental build-cache engine (Protocol v1, spawns `incremental serve`)"
+2026-11-19T18:39:05.009642Z,aidaemon-exposure,0.21.0,0,0,https://github.com/davo20019/aidaemon,"Exposure adapters for aidaemon: publish a loopback gateway through a supervised tunnel (Cloudflare, Tailscale, a reverse proxy or a custom command) and feed its live HTTPS origin to the gateway; impl…"
+2026-11-19T18:40:38.75284Z,llm-costcheck,0.1.0,0,0,https://github.com/Mattbusel/llm-prices,"Your LLM cost tracking is wrong and nothing tells you. Finds hard-coded model prices, silent fallback prices for unknown models and missing cache pricing, diffs them against llm-prices, and fails CI…"
+2026-11-19T18:44:22.354242Z,secantus-compressors,0.5.3-beta.198,0,0,https://github.com/jdrumgoole/SecantusDB,"The snappy and zstd libraries mongod 8.2 links, built from mongo's own copies, for WiredTiger's builtin compressors. Internal to SecantusDB: no semver promise."
+2026-11-19T18:49:07.6731Z,aidaemon-macros,0.21.0,0,0,https://github.com/davo20019/aidaemon,"The #[tool] attribute macro for aidaemon agents; implementation crate of the aidaemon SDK, no stability promise (use it through aidaemon-sdk)"
+2026-11-19T18:53:28.403079Z,lintel-cryoglyph,0.1.0,0,0,https://github.com/iced-rs/cryoglyph,"Fast, simple 2D text rendering for wgpu. A fork of glyphon for iced."
+2026-11-19T18:58:46.197839Z,hn-reader,0.2.1,0,0,https://github.com/Shaance/hn,Read Hacker News stories and comment threads in your terminal
+2026-11-19T18:59:11.30151Z,aidaemon-mcp,0.21.0,0,0,https://github.com/davo20019/aidaemon,"Model Context Protocol client that exposes MCP server tools to aidaemon agents; implementation crate of the aidaemon SDK, no stability promise (use it through aidaemon-sdk)"
+2026-11-19T19:00:16.415595Z,libkyrka-sys,0.1.0,0,0,https://github.com/a-rvid/libkyrka-rs,"Raw bindings for the libkyrka C library created by jorisvink, which is a networking cryptography library."
+2026-11-19T19:01:51.484454Z,tovtg,0.1.2,0,0,https://github.com/YOUR_USERNAME/toxid,"Tiny async library for sending files to Telegram via the Bot API. No logging, no tracing."
+2026-11-19T19:02:36.828779Z,dwgpdf,1.0.1,0,0,,"Convert DXF, DWG, and DWF drawings to PDF"
+2026-11-19T19:05:42.847515Z,lintel-iced-wgpu,0.15.0-dev,0,0,https://github.com/iced-rs/iced,A renderer for iced on top of wgpu
+2026-11-19T19:05:53.905035Z,lintel-iced-renderer,0.15.0-dev,0,0,https://github.com/iced-rs/iced,The official renderer for iced
+2026-11-19T19:06:08.983751Z,lintel-iced-test,0.15.0-dev,0,0,https://github.com/iced-rs/iced,A library for testing iced applications in headless mode
+2026-11-19T19:06:19.39272Z,lintel-iced-widget,0.15.0-dev,0,0,https://github.com/iced-rs/iced,The built-in widgets for iced
+2026-11-19T19:09:04.887984Z,epistat-optim,0.1.0,0,0,https://github.com/tkragholm/epistat,"BFGS with a More-Thuente line search, Nelder-Mead and a dense simplex method for small statistical problems"
+2026-11-19T19:09:15.369645Z,aidaemon-memory,0.21.0,0,0,https://github.com/davo20019/aidaemon,Swappable long-term memory for aidaemon agents: the MemoryStore traits plus SQLite and embedding implementations
+2026-11-19T19:11:49.520562Z,smolvm-tar,0.4.46-smol.1,0,0,https://github.com/smol-machines/smolvm,"A Rust implementation of a TAR file reader and writer. This library does not currently handle compression, but it is abstract over all I/O readers and writers. Additionally, great lengths are taken t…"
+2026-11-19T19:14:07.579803Z,did_methods,0.1.0,0,0,https://github.com/tkragholm/did_methods,Reusable difference-in-differences primitives for event-study style analyses
