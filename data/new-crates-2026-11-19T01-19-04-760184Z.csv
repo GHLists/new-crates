@@ -1,0 +1,47 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-19T00:22:17.948957Z,tsurara-loader,0.1.0,0,0,https://github.com/tsurara-openapi/tsurara,Loads OpenAPI documents and resolves $ref for tsurara
+2026-11-19T00:22:19.654849Z,tsurara-naming,0.1.0,0,0,https://github.com/tsurara-openapi/tsurara,Name allocation shared by tsurara backends
+2026-11-19T00:22:21.406263Z,tsurara-pretty,0.1.0,0,0,https://github.com/tsurara-openapi/tsurara,Document printer shared by the tsurara backends' printers
+2026-11-19T00:22:23.102203Z,tsurara-sem,0.1.0,0,0,https://github.com/tsurara-openapi/tsurara,Analyzes OpenAPI definitions into the model that tsurara backends generate code from
+2026-11-19T00:22:25.121017Z,tsurara-lower,0.1.0,0,0,https://github.com/tsurara-openapi/tsurara,Shared lowering of the tsurara model to the type IR of each language's capabilities
+2026-11-19T00:26:16.802782Z,gitpoulpi-mcp,1.0.0,0,0,https://github.com/Poulpi-Lab/GitPoulpi,GitPoulpi MCP server: exposes GitBackend-mirroring tools to AI agents by talking to the background daemon over gitpoulpi-ipc (stdio transport by default).
+2026-11-19T00:28:04.41475Z,gitpoulpi-cli,1.0.0,0,0,https://github.com/Poulpi-Lab/GitPoulpi,"`gitpoulpi` scriptable CLI: an IPC client over gitpoulpi-ipc, auto-starting its target session's daemon on first use."
+2026-11-19T00:28:13.529211Z,serenade-finder,1.0.0,0,0,https://github.com/Interchouette-ITC/Serenade,Directory walking with name glob and type filters
+2026-11-19T00:28:27.098114Z,nitrate-player,0.1.0-beta.1,0,0,https://github.com/rennerdo30/nitrate,"Nitrate, a fast, modern media player built on libmpv: hardware decoding straight to the screen, fast over remote desktop."
+2026-11-19T00:32:37.875485Z,tsurara-sample,0.1.0,0,0,https://github.com/tsurara-openapi/tsurara,"Deterministic sample values from the tsurara model, for mocks in every language"
+2026-11-19T00:36:09.894629Z,auro-cli,0.1.0-alpha.1,0,0,https://github.com/pdl-clay/auro,"The Auro command line: new, dev, build, doctor"
+2026-11-19T00:36:10.039645Z,lucem-table,0.0.3,0,0,https://github.com/neuro-kitchen/lucem,Tables for lucem as Polars data frames: the one place that depends on Polars
+2026-11-19T00:37:47.227893Z,sj-adapters,0.3.1,0,0,https://github.com/nabour-labs/specjutsu,specjutsu agent adapter generators
+2026-11-19T00:37:47.707114Z,sj-runners,0.3.1,0,0,https://github.com/nabour-labs/specjutsu,specjutsu test-runner adapters
+2026-11-19T00:37:49.305967Z,sj-core,0.3.1,0,0,https://github.com/nabour-labs/specjutsu,"specjutsu core: spec parsing, trace engine, gate, ledger"
+2026-11-19T00:37:51.225336Z,specjutsu,0.3.1,0,0,https://github.com/nabour-labs/specjutsu,Master the art of the spec. Makes AI coding agents prove their work.
+2026-11-19T00:38:13.58365Z,serenade-http,1.0.0,0,0,https://github.com/Interchouette-ITC/Serenade,Framework-agnostic HTTP foundation types
+2026-11-19T00:38:23.006104Z,remora-client,0.1.0-beta.11,0,0,https://github.com/rennerdo30/rdp-rs,"Remora, a remote desktop (RDP) client for Windows: connection manager, tabs and session windows"
+2026-11-19T00:41:30.171193Z,gjallar,0.1.0,0,0,https://github.com/GustavoWidman/gjallar,"Web Push for servers: RFC 8291 encryption, VAPID, Declarative Web Push, with an optional blocking client"
+2026-11-19T00:41:43.773485Z,rekit,0.1.0,0,0,,"Reverse engineering primitives — byte pattern scanning, C++ demangling, and utilities"
+2026-11-19T00:42:13.129523Z,strand-core,0.1.0,0,0,https://github.com/Biggest-Bee/Strand,Memory-mapped CSR graph engine and dependency/impact analysis algorithms
+2026-11-19T00:42:22.807065Z,strand-import,0.1.0,0,0,https://github.com/Biggest-Bee/Strand,"Importers for strand graphs: cargo metadata, CSV/TSV, lockfiles (Cargo.lock, package-lock, poetry.lock, go.mod, pom.xml), and source scanners (Rust/Python/JS)"
+2026-11-19T00:42:29.686868Z,strand-store,0.2.0,0,0,https://github.com/Biggest-Bee/Strand,Embeddable read-write graph store: immutable CSR base + WAL delta + compaction
+2026-11-19T00:42:40.374721Z,strand-cli,0.1.0,0,0,https://github.com/Biggest-Bee/Strand,Dependency and impact analysis CLI for memory-mapped CSR graphs
+2026-11-19T00:42:50.92194Z,tsurara-backend,0.1.0,0,0,https://github.com/tsurara-openapi/tsurara,The interface between the tsurara model and the code generators for each language
+2026-11-19T00:43:02.325584Z,merci,0.1.0,0,0,https://github.com/OwlRoute/minerva,Formal methods for verification and validation of agent output
+2026-11-19T00:43:31.072749Z,strand-gui,0.2.0,0,0,https://github.com/Biggest-Bee/Strand,Desktop GUI for Strand dependency/impact analysis (eframe/egui)
+2026-11-19T00:48:14.020792Z,serenade-kernel,1.0.0,0,0,https://github.com/Interchouette-ITC/Serenade,"Kernel boot, lifecycle, and bundle orchestration"
+2026-11-19T00:48:19.793305Z,glotzkiste-chat,1.2.1,0,0,https://github.com/rennerdo30/glotzkiste,"Twitch chat for Glotzkiste: IRC over TLS on one background thread, message model and emote tokenizer."
+2026-11-19T00:49:39.770428Z,bindgen_helpers_cli,0.6.2,0,0,https://github.com/nyurik/bindgen_helpers,Command-line interface for bindgen_helpers
+2026-11-19T00:53:03.75481Z,tsurara-plugin,0.1.0,0,0,https://github.com/tsurara-openapi/tsurara,Write tsurara plugins in Rust
+2026-11-19T00:56:38.850084Z,degenbot-evm2-jit-backend,0.6.0-alpha.19,0,0,https://github.com/BowTiedDevil/degenbot,EVM bytecode compiler backend abstraction
+2026-11-19T00:56:39.103012Z,degenbot-evm2-jit-build,0.6.0-alpha.19,0,0,https://github.com/BowTiedDevil/degenbot,EVM bytecode compiler build script support
+2026-11-19T00:56:39.309506Z,degenbot-evm2-macros,0.6.0-alpha.19,0,0,https://github.com/BowTiedDevil/degenbot,Procedural macros for evm2.
+2026-11-19T00:56:40.043748Z,degenbot-primitives,0.6.0-alpha.19,0,0,https://github.com/BowTiedDevil/degenbot,Dense-index primitives: key interning + frozen key-to-id lookup (no alloy/pyo3/tokio).
+2026-11-19T00:56:43.728536Z,degenbot-evm2,0.6.0-alpha.19,0,0,https://github.com/BowTiedDevil/degenbot,"Fast, customizable EVM implementation"
+2026-11-19T00:58:13.99993Z,serenade-messenger,1.0.0,0,0,https://github.com/Interchouette-ITC/Serenade,"Sync message bus, middleware, and async transport adapters"
+2026-11-19T01:03:15.833698Z,tsurara-client,0.1.0,0,0,https://github.com/tsurara-openapi/tsurara,Runtime library for Rust code generated by tsurara
+2026-11-19T01:04:06.462689Z,activitylog-rs,0.1.0,0,0,https://github.com/abdasis/activitylog-rs,"Async activity log for Rust with SQLx storage, causer/subject tracking, and attribute change history"
+2026-11-19T01:05:58.751693Z,tenancy,0.1.0,0,0,https://github.com/abdasis/tenancy-rs,"Multi-tenant primitives for Rust services: resolution, lifecycle, bootstrappers, single-DB scoping and multi-DB support"
+2026-11-19T01:08:12.850124Z,serenade-openapi,1.0.0,0,0,https://github.com/Interchouette-ITC/Serenade,"OpenAPI helpers and feature-gated explorer UIs (Swagger, Redoc, RapiDoc, Scalar)"
+2026-11-19T01:09:10.268824Z,degenbot-evm2-jit-context,0.6.0-alpha.19,0,0,https://github.com/BowTiedDevil/degenbot,EVM bytecode compiler runtime context
+2026-11-19T01:12:57.296061Z,permission-rs,0.1.0,0,0,https://github.com/abdasis/permission-rs,"Async role-based access control (RBAC) for Rust: roles, permissions, guards, wildcard checks, and sqlx-backed storage"
+2026-11-19T01:18:12.890015Z,serenade-process,1.0.0,0,0,https://github.com/Interchouette-ITC/Serenade,"Child process spawn, timeout, and exit/output capture"
+2026-11-19T01:18:26.604833Z,degenbot-evm2-jit-builtins,0.6.0-alpha.19,0,0,https://github.com/BowTiedDevil/degenbot,EVM bytecode compiler builtins
+2026-11-19T01:18:35.458331Z,sqlitefuse,0.1.0,0,0,https://github.com/joaquin-rossi/sqlitefuse,Read-only FUSE filesystem that shows an SQLite database as a directory of JSONL files

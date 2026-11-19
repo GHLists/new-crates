@@ -8,42 +8,60 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-19 00:22 UTC
+## Latest list — 2026-11-19 01:19 UTC
 
-New crates published between 2026-11-18 23:20 UTC and 2026-11-19 00:22 UTC.
+New crates published between 2026-11-19 00:22 UTC and 2026-11-19 01:19 UTC.
 
-[Full CSV](data/new-crates-2026-11-19T00-22-09-78223Z.csv)
+[Full CSV](data/new-crates-2026-11-19T01-19-04-760184Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-18 23:20:56 | [auro-update](https://crates.io/crates/auro-update) | 0.1.0-alpha.1 | 0 | Signed release manifests for Auro updates |
-| 2026-11-18 23:22:32 | [glassmere-markup](https://crates.io/crates/glassmere-markup) | 0.1.7 | 0 | A markup language for glassmere views, read at run time so a view can be edited… |
-| 2026-11-18 23:22:35 | [glassmere-embedded](https://crates.io/crates/glassmere-embedded) | 0.1.7 | 0 | Software renderer for glassmere scenes on microcontrollers: no_std, a plain fra… |
-| 2026-11-18 23:22:41 | [glassmere-designer](https://crates.io/crates/glassmere-designer) | 0.1.7 | 0 | Live preview and visual editor for glassmere markup files. |
-| 2026-11-18 23:25:58 | [rainlang_addresses](https://crates.io/crates/rainlang_addresses) | 0.1.20 | 0 | Rainlang deployment addresses Rust crate. |
-| 2026-11-18 23:28:20 | [remora-link](https://crates.io/crates/remora-link) | 0.1.0-beta.11 | 0 | Remora helper protocol: framing, Noise-encrypted sessions, pairing and file tra… |
-| 2026-11-18 23:30:04 | [gitpoulpi-update](https://crates.io/crates/gitpoulpi-update) | 1.0.0 | 0 | The self-updater's engine: download and verify a release archive, extract it, s… |
-| 2026-11-18 23:40:46 | [componentized-build-cli](https://crates.io/crates/componentized-build-cli) | 0.1.6-dev | 0 | Updates a componentized repository's dependencies on the interfaces and compone… |
-| 2026-11-18 23:45:12 | [gitpoulpi-ai](https://crates.io/crates/gitpoulpi-ai) | 1.0.0 | 0 | AI completion clients (OpenAI-compatible, Anthropic, local agent CLIs), per-act… |
-| 2026-11-18 23:46:03 | [gitpoulpi-daemon](https://crates.io/crates/gitpoulpi-daemon) | 1.0.0 | 0 | Background per-session daemon: owns GitBackend/session state and the IPC endpoi… |
-| 2026-11-18 23:50:04 | [auro-ui](https://crates.io/crates/auro-ui) | 0.1.0-alpha.1 | 0 | GPUI re-exports, primitives and tokens for Auro |
-| 2026-11-18 23:50:33 | [weirdnet-model](https://crates.io/crates/weirdnet-model) | 0.1.0 | 0 | Weirdnet local models: Hugging Face GGUF download with resume and checksum, a G… |
-| 2026-11-18 23:50:38 | [glotzkiste-mpv](https://crates.io/crates/glotzkiste-mpv) | 1.2.1 | 0 | Loads libmpv at runtime and wraps the parts of its C API that Glotzkiste uses. |
-| 2026-11-18 23:58:22 | [orrery-viewer](https://crates.io/crates/orrery-viewer) | 0.1.1 | 0 | A fast, tiny 3D model viewer for FBX, glTF and GLB on Windows: double-click a m… |
-| 2026-11-19 00:00:53 | [auro-bundle](https://crates.io/crates/auro-bundle) | 0.1.0-alpha.1 | 0 | Platform packaging for Auro applications |
-| 2026-11-19 00:08:10 | [gitpoulpi-tui](https://crates.io/crates/gitpoulpi-tui) | 1.0.0 | 0 | GitPoulpi terminal UI: a ratatui/crossterm client over gitpoulpi-ipc, subscribe… |
-| 2026-11-19 00:08:22 | [nitrate-update](https://crates.io/crates/nitrate-update) | 0.1.0-beta.1 | 0 | Update checks for Nitrate: GitHub release discovery, version order, checksums,… |
-| 2026-11-19 00:09:13 | [gitpoulpi-commands](https://crates.io/crates/gitpoulpi-commands) | 1.0.0 | 0 | Shared command layer: the `gitpoulpi` clap `Cli` tree, the IPC `Session` client… |
-| 2026-11-19 00:11:15 | [auro](https://crates.io/crates/auro) | 0.1.0-alpha.1 | 0 | Tauri's app model, GPUI's renderer, zero webview |
-| 2026-11-19 00:12:09 | [marcie](https://crates.io/crates/marcie) | 0.1.0 | 0 | Embeddable Vim input command interface for Marcellus and the native Luff editor. |
-| 2026-11-19 00:12:20 | [marcy](https://crates.io/crates/marcy) | 0.1.0 | 0 | Command-line Vim input binding for Marcellus and the native Luff editor. |
-| 2026-11-19 00:13:08 | [fluent-lazy-structures](https://crates.io/crates/fluent-lazy-structures) | 0.2.0 | 0 | On-demand, concurrently populated lookup structures (LazyMap) for futures Strea… |
-| 2026-11-19 00:18:21 | [remora-update](https://crates.io/crates/remora-update) | 0.1.0-beta.11 | 0 | Update checks for Remora: GitHub release discovery, version order, checksums, b… |
-| 2026-11-19 00:18:54 | [serenade-component-host](https://crates.io/crates/serenade-component-host) | 1.0.0 | 0 | Wasmtime Component Model host helpers (Engine, load path, empty linker) |
-| 2026-11-19 00:18:57 | [serenade-contracts](https://crates.io/crates/serenade-contracts) | 1.0.0 | 0 | Stable traits for persistence, clock, and cross-cutting ports |
-| 2026-11-19 00:19:00 | [serenade-di](https://crates.io/crates/serenade-di) | 1.0.0 | 0 | Dependency injection container and service resolution |
-| 2026-11-19 00:19:02 | [serenade-expression](https://crates.io/crates/serenade-expression) | 1.0.0 | 0 | Tiny safe rule expressions for guards and access checks |
-| 2026-11-19 00:19:06 | [serenade-filesystem](https://crates.io/crates/serenade-filesystem) | 1.0.0 | 0 | Path helpers, dump/mirror, and temp file utilities |
+| 2026-11-19 00:22:17 | [tsurara-loader](https://crates.io/crates/tsurara-loader) | 0.1.0 | 0 | Loads OpenAPI documents and resolves $ref for tsurara |
+| 2026-11-19 00:22:19 | [tsurara-naming](https://crates.io/crates/tsurara-naming) | 0.1.0 | 0 | Name allocation shared by tsurara backends |
+| 2026-11-19 00:22:21 | [tsurara-pretty](https://crates.io/crates/tsurara-pretty) | 0.1.0 | 0 | Document printer shared by the tsurara backends' printers |
+| 2026-11-19 00:22:23 | [tsurara-sem](https://crates.io/crates/tsurara-sem) | 0.1.0 | 0 | Analyzes OpenAPI definitions into the model that tsurara backends generate code… |
+| 2026-11-19 00:22:25 | [tsurara-lower](https://crates.io/crates/tsurara-lower) | 0.1.0 | 0 | Shared lowering of the tsurara model to the type IR of each language's capabili… |
+| 2026-11-19 00:26:16 | [gitpoulpi-mcp](https://crates.io/crates/gitpoulpi-mcp) | 1.0.0 | 0 | GitPoulpi MCP server: exposes GitBackend-mirroring tools to AI agents by talkin… |
+| 2026-11-19 00:28:04 | [gitpoulpi-cli](https://crates.io/crates/gitpoulpi-cli) | 1.0.0 | 0 | `gitpoulpi` scriptable CLI: an IPC client over gitpoulpi-ipc, auto-starting its… |
+| 2026-11-19 00:28:13 | [serenade-finder](https://crates.io/crates/serenade-finder) | 1.0.0 | 0 | Directory walking with name glob and type filters |
+| 2026-11-19 00:28:27 | [nitrate-player](https://crates.io/crates/nitrate-player) | 0.1.0-beta.1 | 0 | Nitrate, a fast, modern media player built on libmpv: hardware decoding straigh… |
+| 2026-11-19 00:32:37 | [tsurara-sample](https://crates.io/crates/tsurara-sample) | 0.1.0 | 0 | Deterministic sample values from the tsurara model, for mocks in every language |
+| 2026-11-19 00:36:09 | [auro-cli](https://crates.io/crates/auro-cli) | 0.1.0-alpha.1 | 0 | The Auro command line: new, dev, build, doctor |
+| 2026-11-19 00:36:10 | [lucem-table](https://crates.io/crates/lucem-table) | 0.0.3 | 0 | Tables for lucem as Polars data frames: the one place that depends on Polars |
+| 2026-11-19 00:37:47 | [sj-adapters](https://crates.io/crates/sj-adapters) | 0.3.1 | 0 | specjutsu agent adapter generators |
+| 2026-11-19 00:37:47 | [sj-runners](https://crates.io/crates/sj-runners) | 0.3.1 | 0 | specjutsu test-runner adapters |
+| 2026-11-19 00:37:49 | [sj-core](https://crates.io/crates/sj-core) | 0.3.1 | 0 | specjutsu core: spec parsing, trace engine, gate, ledger |
+| 2026-11-19 00:37:51 | [specjutsu](https://crates.io/crates/specjutsu) | 0.3.1 | 0 | Master the art of the spec. Makes AI coding agents prove their work. |
+| 2026-11-19 00:38:13 | [serenade-http](https://crates.io/crates/serenade-http) | 1.0.0 | 0 | Framework-agnostic HTTP foundation types |
+| 2026-11-19 00:38:23 | [remora-client](https://crates.io/crates/remora-client) | 0.1.0-beta.11 | 0 | Remora, a remote desktop (RDP) client for Windows: connection manager, tabs and… |
+| 2026-11-19 00:41:30 | [gjallar](https://crates.io/crates/gjallar) | 0.1.0 | 0 | Web Push for servers: RFC 8291 encryption, VAPID, Declarative Web Push, with an… |
+| 2026-11-19 00:41:43 | [rekit](https://crates.io/crates/rekit) | 0.1.0 | 0 | Reverse engineering primitives — byte pattern scanning, C++ demangling, and uti… |
+| 2026-11-19 00:42:13 | [strand-core](https://crates.io/crates/strand-core) | 0.1.0 | 0 | Memory-mapped CSR graph engine and dependency/impact analysis algorithms |
+| 2026-11-19 00:42:22 | [strand-import](https://crates.io/crates/strand-import) | 0.1.0 | 0 | Importers for strand graphs: cargo metadata, CSV/TSV, lockfiles (Cargo.lock, pa… |
+| 2026-11-19 00:42:29 | [strand-store](https://crates.io/crates/strand-store) | 0.2.0 | 0 | Embeddable read-write graph store: immutable CSR base + WAL delta + compaction |
+| 2026-11-19 00:42:40 | [strand-cli](https://crates.io/crates/strand-cli) | 0.1.0 | 0 | Dependency and impact analysis CLI for memory-mapped CSR graphs |
+| 2026-11-19 00:42:50 | [tsurara-backend](https://crates.io/crates/tsurara-backend) | 0.1.0 | 0 | The interface between the tsurara model and the code generators for each langua… |
+| 2026-11-19 00:43:02 | [merci](https://crates.io/crates/merci) | 0.1.0 | 0 | Formal methods for verification and validation of agent output |
+| 2026-11-19 00:43:31 | [strand-gui](https://crates.io/crates/strand-gui) | 0.2.0 | 0 | Desktop GUI for Strand dependency/impact analysis (eframe/egui) |
+| 2026-11-19 00:48:14 | [serenade-kernel](https://crates.io/crates/serenade-kernel) | 1.0.0 | 0 | Kernel boot, lifecycle, and bundle orchestration |
+| 2026-11-19 00:48:19 | [glotzkiste-chat](https://crates.io/crates/glotzkiste-chat) | 1.2.1 | 0 | Twitch chat for Glotzkiste: IRC over TLS on one background thread, message mode… |
+| 2026-11-19 00:49:39 | [bindgen_helpers_cli](https://crates.io/crates/bindgen_helpers_cli) | 0.6.2 | 0 | Command-line interface for bindgen_helpers |
+| 2026-11-19 00:53:03 | [tsurara-plugin](https://crates.io/crates/tsurara-plugin) | 0.1.0 | 0 | Write tsurara plugins in Rust |
+| 2026-11-19 00:56:38 | [degenbot-evm2-jit-backend](https://crates.io/crates/degenbot-evm2-jit-backend) | 0.6.0-alpha.19 | 0 | EVM bytecode compiler backend abstraction |
+| 2026-11-19 00:56:39 | [degenbot-evm2-jit-build](https://crates.io/crates/degenbot-evm2-jit-build) | 0.6.0-alpha.19 | 0 | EVM bytecode compiler build script support |
+| 2026-11-19 00:56:39 | [degenbot-evm2-macros](https://crates.io/crates/degenbot-evm2-macros) | 0.6.0-alpha.19 | 0 | Procedural macros for evm2. |
+| 2026-11-19 00:56:40 | [degenbot-primitives](https://crates.io/crates/degenbot-primitives) | 0.6.0-alpha.19 | 0 | Dense-index primitives: key interning + frozen key-to-id lookup (no alloy/pyo3/… |
+| 2026-11-19 00:56:43 | [degenbot-evm2](https://crates.io/crates/degenbot-evm2) | 0.6.0-alpha.19 | 0 | Fast, customizable EVM implementation |
+| 2026-11-19 00:58:13 | [serenade-messenger](https://crates.io/crates/serenade-messenger) | 1.0.0 | 0 | Sync message bus, middleware, and async transport adapters |
+| 2026-11-19 01:03:15 | [tsurara-client](https://crates.io/crates/tsurara-client) | 0.1.0 | 0 | Runtime library for Rust code generated by tsurara |
+| 2026-11-19 01:04:06 | [activitylog-rs](https://crates.io/crates/activitylog-rs) | 0.1.0 | 0 | Async activity log for Rust with SQLx storage, causer/subject tracking, and att… |
+| 2026-11-19 01:05:58 | [tenancy](https://crates.io/crates/tenancy) | 0.1.0 | 0 | Multi-tenant primitives for Rust services: resolution, lifecycle, bootstrappers… |
+| 2026-11-19 01:08:12 | [serenade-openapi](https://crates.io/crates/serenade-openapi) | 1.0.0 | 0 | OpenAPI helpers and feature-gated explorer UIs (Swagger, Redoc, RapiDoc, Scalar) |
+| 2026-11-19 01:09:10 | [degenbot-evm2-jit-context](https://crates.io/crates/degenbot-evm2-jit-context) | 0.6.0-alpha.19 | 0 | EVM bytecode compiler runtime context |
+| 2026-11-19 01:12:57 | [permission-rs](https://crates.io/crates/permission-rs) | 0.1.0 | 0 | Async role-based access control (RBAC) for Rust: roles, permissions, guards, wi… |
+| 2026-11-19 01:18:12 | [serenade-process](https://crates.io/crates/serenade-process) | 1.0.0 | 0 | Child process spawn, timeout, and exit/output capture |
+| 2026-11-19 01:18:26 | [degenbot-evm2-jit-builtins](https://crates.io/crates/degenbot-evm2-jit-builtins) | 0.6.0-alpha.19 | 0 | EVM bytecode compiler builtins |
+| 2026-11-19 01:18:35 | [sqlitefuse](https://crates.io/crates/sqlitefuse) | 0.1.0 | 0 | Read-only FUSE filesystem that shows an SQLite database as a directory of JSONL… |
 
 ## Data source
 
