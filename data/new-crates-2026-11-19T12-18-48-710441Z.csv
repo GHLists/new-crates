@@ -1,0 +1,26 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-19T11:21:36.37291Z,tauri-hasgard-mcp,0.7.0,0,0,https://github.com/nyssance/tauri-hasgard,"MCP server for Tauri Hasgard automation, usable over stdio, in process, or over ACP"
+2026-11-19T11:35:29.268803Z,kernable-core,0.1.0,0,0,https://github.com/kernable/kernable,"The kernable protocol: messages, signing, hash chain and transport, shared by the kernel and the Rust SDK."
+2026-11-19T11:35:30.192962Z,kernable-sdk-macros,0.1.0,0,0,https://github.com/kernable/kernable,"The #[event], #[command] and #[query] attributes of kernable-sdk; use them through kernable-sdk."
+2026-11-19T11:35:32.316696Z,kernable-sdk,0.1.0,0,0,https://github.com/kernable/kernable,Write event-sourced business logic in Rust; the kernable kernel does the rest.
+2026-11-19T11:44:30.066245Z,agent-secrets-cli,0.3.2,0,0,https://github.com/pathscale/agent-secrets-cli,"Rotate, validate, sign, and inject secrets across Doppler, Fly.io, Tigris/S3, and GitHub Actions without ever printing a secret value, built for AI coding agents."
+2026-11-19T11:52:31.29377Z,plottery_runtime_macros,0.19.1,0,0,https://github.com/TobiasGrothmann/plottery,Derive macros of plottery_runtime for the parameters of a Plottery project.
+2026-11-19T11:52:46.315865Z,plottery_runtime,0.19.1,0,0,https://github.com/TobiasGrothmann/plottery,"What a Plottery project compiles against: param types, the PlotteryParams derive and the project's entry point. Plottery is a creative coding framework for generative vector graphics and pen plotting."
+2026-11-19T11:55:24.833105Z,htmx-schema,0.2.0,0,0,https://github.com/adrijshikhar/htmx-analyzer,Declarative schema definitions and documentation for HTMX 2.0
+2026-11-19T11:55:34.35743Z,htmx-vfs,0.2.0,0,0,https://github.com/adrijshikhar/htmx-analyzer,Virtual File System and rope-based text document management for HTMX
+2026-11-19T11:55:44.449458Z,htmx-parser,0.2.0,0,0,https://github.com/adrijshikhar/htmx-analyzer,HTML attribute lexer and micro-syntax parsers for HTMX 2.0
+2026-11-19T11:55:58.501435Z,htmx-service,0.2.0,0,0,https://github.com/adrijshikhar/htmx-analyzer,Decoupled language intelligence service for HTMX 2.0
+2026-11-19T11:56:09.822974Z,ruvm,1.2.0,0,0,https://github.com/ccc-claude-opus/ruvm,A tiny QEMU-like machine emulator written in Rust (RISC-V 64 / AArch64)
+2026-11-19T11:56:15.49277Z,htmx-analyzer,0.2.0,0,0,https://github.com/adrijshikhar/htmx-analyzer,"Fast, robust HTMX 2.0 Language Server (LSP) with autocompletion, hover docs, diagnostics, and quick-fixes"
+2026-11-19T11:57:48.224322Z,lintel-crash,0.1.0,0,0,https://github.com/looading/lintel,Local out-of-process native crash capture for Lintel applications
+2026-11-19T12:03:10.338389Z,grana-log,0.2.1,0,0,https://github.com/formetaohy/Grana,Next-generation microscopy image visualization and analysis platform
+2026-11-19T12:06:54.446484Z,dive-syntax,0.1.0,0,0,https://github.com/Chelis-Lang/dive,TLA+ lexer and parser producing a lossless concrete syntax tree
+2026-11-19T12:06:54.893265Z,dive-value,0.1.0,0,0,https://github.com/Chelis-Lang/dive,"TLA+ values with TLC's canonical ordering, printing and fingerprints"
+2026-11-19T12:06:55.946075Z,dive-config,0.1.0,0,0,https://github.com/Chelis-Lang/dive,Parser for TLC model configuration (.cfg) files
+2026-11-19T12:06:56.148975Z,dive-pluscal,0.1.0,0,0,https://github.com/Chelis-Lang/dive,PlusCal parser and translator to TLA+
+2026-11-19T12:06:56.474275Z,dive-sema,0.1.0,0,0,https://github.com/Chelis-Lang/dive,SANY-equivalent semantic analysis for TLA+
+2026-11-19T12:07:31.553562Z,dictator-coreboot,0.28.3,0,0,https://github.com/seuros/dictator,coreboot coding style enforcement decree for Dictator
+2026-11-19T12:11:54.471251Z,vitrea,0.1.0,0,0,https://github.com/oversluizen/vitrea,"UI-agnostic 2D/3D Signed Distance Field (SDF), Snellius 3D Vector Refraction, Chromatic Dispersion, Schlick-Fresnel, Closed-Polyline Contour SDF, Star-Convex Meniscus Tessellation, and Viscous Drople…"
+2026-11-19T12:11:58.169923Z,grana-ome,0.2.1,0,0,https://github.com/formetaohy/Grana,Next-generation microscopy image visualization and analysis platform
+2026-11-19T12:12:48.330813Z,brokk-mj-review-host,0.0.0,0,0,https://github.com/BrokkAi/mjolnir,Mjolnir's turn review host: runs each session's review and reports it to every surface (name reservation; released with Mjolnir)
+2026-11-19T12:17:18.842947Z,dive-ir,0.1.0,0,0,https://github.com/Chelis-Lang/dive,Resolved intermediate representation of TLA+ specifications
