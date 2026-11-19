@@ -1,0 +1,14 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-19T05:26:50.382804Z,trustone,0.0.1,0,0,https://github.com/kookyleo/trustone,Initial scaffold for a log-digest notarization and integrity-audit library. This early release does not implement security guarantees.
+2026-11-19T05:33:15.364114Z,clairlune-sprites,0.3.0,0,0,https://github.com/yam333/Clairlune,"Sprite sheets (Aseprite exports), anchors and the Character trait for Clairlune"
+2026-11-19T05:33:50.140679Z,rhue-lsp,1.0.0,0,0,https://github.com/rhuelang/rhue,"Language server for Rhue: diagnostics, completion, hover, navigation, refactors and inlay hints"
+2026-11-19T05:35:00.004989Z,termdisk,0.2.2,0,0,https://github.com/JonasAtelier/termdisk,"A disk usage analyzer with a treemap, in the terminal"
+2026-11-19T05:41:13.072671Z,rhue-dap,1.0.0,0,0,https://github.com/rhuelang/rhue,Debug Adapter Protocol server for Rhue scripts
+2026-11-19T05:41:19.741348Z,libcorrelation,0.1.0,0,0,https://github.com/charles71631-arch/libcorrelation,Cross-correlation of heterogeneous signals with adaptive calibration and continuous verdict
+2026-11-19T05:47:19.158994Z,willow-arb-exec,0.1.1,0,0,https://github.com/willow-network/willow-verify,"Arbitrum (Arbitrum One, Robinhood Chain) calls over proven state, for Willow's call proofs"
+2026-11-19T05:58:21.129411Z,acl-rust,0.0.1,0,0,https://github.com/hina-kura49/acl-rust,A Rust port of AtCoder Library (ACL). Unofficial.
+2026-11-19T05:58:22.77891Z,khive-subject,0.21.0,0,0,https://github.com/ohdearquant/khive,Source-blind declaration extraction with validated subject ontology contracts
+2026-11-19T06:03:21.252151Z,vidfomo_video_timing,0.1.0,0,0,,Rational frame-rate and timestamp calculations for video timelines
+2026-11-19T06:05:20.144566Z,toddstack-frontend-engine,0.1.0,0,0,https://github.com/goddtriffin/toddstack,"App-agnostic Elm-style frontend core: update(model, msg) -> effects, an NDJSON bridge, dirty-key views, introspection, and a headless test harness. Runs as wasm in a worker or through UniFFI."
+2026-11-19T06:10:19.006792Z,ztty-ui,0.1.0,0,0,https://github.com/LIghtJUNction/ztty,Bounded native declarative UI scenes for the ZUI/1 terminal protocol
+2026-11-19T06:13:25.393638Z,tauri-plugin-wse,3.2.0,0,0,https://github.com/silvermpx/wse,"One WSE connection for every window of a Tauri application: the Rust side holds it, each page's client (wse-client/tauri) talks to it"
