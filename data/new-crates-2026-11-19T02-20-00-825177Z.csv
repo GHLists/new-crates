@@ -1,0 +1,63 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-19T01:19:05.81463Z,grvt,0.1.0,0,0,,"Grvt SDK (preview): REST, WebSocket streams, WebSocket order entry, EIP-712 signing"
+2026-11-19T01:21:47.073202Z,interloper,0.1.2,0,0,https://github.com/bobisme/interloper,"Disposable-email backends behind one interface: generate an address, wait for mail, extract an OTP or link."
+2026-11-19T01:21:49.229229Z,interloper-server,0.1.2,0,0,https://github.com/bobisme/interloper,"HTTP API over interloper: issue inboxes, read mail, long-poll, SSE and webhooks."
+2026-11-19T01:21:51.051702Z,interloper-cli,0.1.2,0,0,https://github.com/bobisme/interloper,The interloper command: disposable inboxes from the shell.
+2026-11-19T01:26:24.25642Z,ngit-ci-artifacts,0.2.0,0,0,https://gitworkshop.dev/danconwaydev.com/ngit-ci,Grasp CI artifact manifests and deterministic packaging
+2026-11-19T01:26:25.136496Z,ngit-ci-macos-setup,0.2.0,0,0,,Receipt-backed macOS service account and home provisioning for ngit-ci
+2026-11-19T01:26:26.278233Z,ngit-ci-nar-cache,0.2.0,0,0,,Streamed NAR storage and signed Nix binary cache metadata
+2026-11-19T01:26:26.856061Z,ngit-ci-resource-pool,0.2.0,0,0,,Durable host resource reservations for trusted execution services
+2026-11-19T01:26:31.246478Z,ngit-ci-nix-provider-protocol,0.2.0,0,0,https://gitworkshop.dev/danconwaydev.com/ngit-ci,Strict Nostr event boundary for ngit-ci Nix providers
+2026-11-19T01:27:21.974363Z,onto-core,0.1.1,0,0,,"Claim, provenance and resolution model for the ontology layer"
+2026-11-19T01:27:25.40429Z,onto-store,0.1.1,0,0,,SQLite store with lexical search and bounded traversal for ontology records
+2026-11-19T01:27:27.407437Z,onto-ods,0.1.1,0,0,,"OpenDataSuite as an ontology source: dbt assets, columns, keys and relationships with ODS's evidence"
+2026-11-19T01:27:32.028987Z,onto-workspace,0.1.1,0,0,,"Configured sources, sync, lockfile and proposal review for an ontology workspace"
+2026-11-19T01:27:37.392999Z,degenbot-evm2-jit-llvm,0.6.0-alpha.19,0,0,https://github.com/BowTiedDevil/degenbot,EVM bytecode compiler LLVM backend
+2026-11-19T01:27:40.522647Z,onto-mcp,0.1.1,0,0,,"MCP server exposing a grounded, read-mostly view of an ontology workspace"
+2026-11-19T01:27:46.978942Z,onto-cli,0.1.1,0,0,,"The `onto` command: sync sources, inspect the ontology, review proposals, serve MCP"
+2026-11-19T01:28:13.937336Z,serenade-sandbox,1.0.0,0,0,https://github.com/Interchouette-ITC/Serenade,"Wasmer WASIX host helpers (package/module run, cache, GuestOutput)"
+2026-11-19T01:32:34.940789Z,burnervm,0.1.1,0,0,https://github.com/patrickhere/burner,"throwaway linux VMs on your own hardware: firecracker microVMs you get a shell in or run a command in, deleted when you're done"
+2026-11-19T01:32:48.090404Z,burnervm-tui,0.1.1,0,0,https://github.com/patrickhere/burner,"a terminal UI for burner: pick an image and settings, start a shell or run, watch and kill running VMs"
+2026-11-19T01:33:55.657438Z,backup-rs,0.1.0,0,0,https://github.com/abdasis/backup-rs,"Async backup library for Rust: file archives, database dumps, retention policies, health monitoring, and safe restore"
+2026-11-19T01:38:13.750937Z,serenade-search,1.0.0,0,0,https://github.com/Interchouette-ITC/Serenade,"Basic document search contracts, MemorySearchAdapter, and optional HTTP stub"
+2026-11-19T01:38:26.973274Z,degenbot-evm2-jit-codegen,0.6.0-alpha.19,0,0,https://github.com/BowTiedDevil/degenbot,EVM bytecode compiler code generation
+2026-11-19T01:39:55.772519Z,tauri-specta-pin,0.1.0,0,0,https://github.com/specta-rs/tauri-specta,Pins Tauri Specta to a Tauri major when nothing else selects one
+2026-11-19T01:40:52.063829Z,ferrika-core,0.1.0,0,0,https://github.com/Jangmyun/ferrika,"Ferrika engine: Kafka clients, record formats and domain model"
+2026-11-19T01:40:54.668211Z,ferrika-governance,0.1.0,0,0,https://github.com/Jangmyun/ferrika,"Ferrika governance: signed company policy, hash-chained audit log, audit anchors and SIEM forwarding"
+2026-11-19T01:40:57.88391Z,ferrika-ops,0.1.0,0,0,https://github.com/Jangmyun/ferrika,"Ferrika operations: backup, mirror, DLQ, diff, lint, health, reports and change history with undo"
+2026-11-19T01:41:00.071632Z,lucem-session,0.0.3,0,0,https://github.com/neuro-kitchen/lucem,"The project document of lucem: images, the processing graph, annotations and classes, and the commands that change them; what the app, the command line and an agent read and change"
+2026-11-19T01:41:00.849053Z,ferrika-mcp,0.1.0,0,0,https://github.com/Jangmyun/ferrika,"Ferrika MCP server: Kafka cluster tools for AI agents, read-only by default, policy-gated writes"
+2026-11-19T01:41:03.996861Z,ferrika-cli,0.1.0,0,0,https://github.com/Jangmyun/ferrika,"A fast, lightweight, native Kafka client and management tool built with Rust"
+2026-11-19T01:47:39.692783Z,onyx-core,0.1.0,0,0,https://github.com/4brewebs/OnYX,"Zero-dependency deterministic microkernel contracts (EAV graph, tick bus, DetRng, and system ports) for OnYX."
+2026-11-19T01:48:07.243517Z,degenbot-evm2-jit-runtime,0.6.0-alpha.19,0,0,https://github.com/BowTiedDevil/degenbot,Runtime JIT backend for evm2-jit
+2026-11-19T01:48:13.242725Z,serenade-serializer,1.0.0,0,0,https://github.com/Interchouette-ITC/Serenade,"DTO serialization with JSON codecs, optional TOON, and a normalizer registry"
+2026-11-19T01:48:36.117933Z,onyx-scent,0.1.0,0,0,https://github.com/4brewebs/OnYX,"Deterministic AST indexer, thermal impact distiller, and TOON serializer for OnYX harnesses."
+2026-11-19T01:48:56.501151Z,onyx-soul,0.1.0,0,0,https://github.com/4brewebs/OnYX,"Zero-dependency reference soul implementing the OnYX core ports (in-memory EAV graph, priority bus, supervisor, and snapshot store)."
+2026-11-19T01:49:13.489877Z,onyx-soul-agents,0.1.0,0,0,https://github.com/4brewebs/OnYX,Agent harness soul for OnYX. Implements the core ports with agent-oriented semantics.
+2026-11-19T01:49:49.414363Z,onyx-workspace,0.1.0,0,0,https://github.com/4brewebs/OnYX,"Workspace capabilities (filesystem, search, edit, shell) with sandbox policy for OnYX agent harnesses."
+2026-11-19T01:50:36.36264Z,glotzkiste-twitch,1.2.1,0,0,https://github.com/rennerdo30/glotzkiste,"Twitch access for Glotzkiste: login, channels, playback, emote sets, image fetch. Blocking; called from worker threads."
+2026-11-19T01:52:28.439429Z,zsars,0.1.1,0,0,,Connect to a ZSA keyboard and send & receive events
+2026-11-19T01:52:34.420229Z,kova-turso,0.0.3,0,0,,Core value types and connection options for Turso databases.
+2026-11-19T01:53:51.946568Z,cuprita-core,0.0.1,0,0,https://github.com/rafaelcapeloo/cuprita,"KiCad PCB files: parsing, board model, DRC, routing, zone fill, saving"
+2026-11-19T01:53:55.225745Z,cuprita-render,0.0.1,0,0,https://github.com/rafaelcapeloo/cuprita,wgpu renderer for Cuprita boards
+2026-11-19T01:53:58.850349Z,cuprita,0.0.1,0,0,https://github.com/rafaelcapeloo/cuprita,Cuprita: a fast PCB and schematic editor that opens and saves KiCad files
+2026-11-19T01:55:02.721108Z,waos-activity,0.3.0,0,0,https://github.com/waos-dev/waos,"What a program did over the days WaOS keeps of it, summed and said in plain words, for the inspector's Activity and a program's settings page alike."
+2026-11-19T01:55:06.874989Z,rtemis-r8-macros,0.1.0,0,0,https://github.com/rtemis-org/r8,"Procedural macros of the R8 type system: #[derive(R8)], which declares a Rust struct or enum as an R8 type"
+2026-11-19T01:55:07.714224Z,rtemis-r8,0.1.0,0,0,https://github.com/rtemis-org/r8,"Runtime of the R8 type system: type declarations, validation, rules, JSON encoding, and hashing"
+2026-11-19T01:55:10.700387Z,waos-wit-serialize,0.3.0,0,0,https://github.com/waos-dev/waos,"#[derive(WitSerialize)]: serde's Serialize for the types wasmtime's bindgen makes of a WIT package, by the WIT's own names."
+2026-11-19T01:56:05.220057Z,genera,0.0.0,0,0,,"Empty initial release of Genera, static storage for generic Rust code."
+2026-11-19T01:56:10.066042Z,prickle,0.0.0,0,0,,"Empty initial release of Prickle, intrusive pointers and data structures."
+2026-11-19T01:56:14.246606Z,prickle-derive,0.0.0,0,0,,Empty initial release of the procedural macro crate for Prickle.
+2026-11-19T01:56:42.342444Z,wasdk-adapter-waft,0.3.0,0,0,https://github.com/waos-dev/waos,"Waft over wasdk: Waft's embedder for a program, the platform it sees over the SDK's views, screens, system, windows, lifecycle, fonts, clipboard, menus, file dialogs, opener, notifications, media pla…"
+2026-11-19T01:58:01.70637Z,degenbot-evm2-jit,0.6.0-alpha.19,0,0,https://github.com/BowTiedDevil/degenbot,EVM bytecode compiler
+2026-11-19T01:58:12.97863Z,clickhouse-loom,0.1.0,0,0,https://github.com/ClickHouse/loom,"Rust SDK for ClickHouse Loom, a self-hosted service for shared long-term AI agent memory, document search and code indexing."
+2026-11-19T01:58:13.387441Z,serenade-string,1.0.0,0,0,https://github.com/Interchouette-ITC/Serenade,"Slug, case transforms, and English Inflector helpers"
+2026-11-19T01:58:34.728954Z,open-onyx,0.1.0,0,0,https://github.com/4brewebs/OnYX,openOnyx — Deterministic coding agent harness built on onyx-soul-agents and onyx-workspace.
+2026-11-19T01:59:50.976275Z,sinomo-ui-tabler,0.7.0,0,0,https://github.com/sinomo-lab/sui,Embedded Tabler SVG icon resources for SUI.
+2026-11-19T02:02:39.080695Z,sas-plus,0.1.0,0,0,https://github.com/sunsided/sas-plus,"Minimal SAS+ planning task representation, labeled transition systems and abstractions"
+2026-11-19T02:08:13.818577Z,serenade-cache,1.0.0,0,0,https://github.com/Interchouette-ITC/Serenade,"PSR-like cache contracts, ArrayAdapter, FilesystemAdapter, optional RedisAdapter"
+2026-11-19T02:10:06.754301Z,xgpui-curve,0.1.0,0,0,https://github.com/gpui-luma-dev/xgpui,"Curve and contour math for xgpui: geometry, arc length, plot series curves, functional curves, mesh lattices, curved field spines, node editing, strokes, and gpui paths"
+2026-11-19T02:14:09.176677Z,rux-ui,0.1.0,0,0,,"Rux UI, a Rust-native UI toolkit (work in progress)."
+2026-11-19T02:14:10.522497Z,ruxui,0.1.0,0,0,,"Rux UI, a Rust-native UI toolkit (work in progress)."
+2026-11-19T02:16:41.871174Z,sislog,0.0.0,0,0,https://github.com/synesissoftware/sislog,Severity-filtered logging to standard error (for Rust)
+2026-11-19T02:18:13.650641Z,serenade-config,1.0.0,0,0,https://github.com/Interchouette-ITC/Serenade,Layered configuration loading and merging
