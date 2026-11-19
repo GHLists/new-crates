@@ -8,59 +8,53 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-19 03:19 UTC
+## Latest list — 2026-11-19 04:21 UTC
 
-New crates published between 2026-11-19 02:20 UTC and 2026-11-19 03:19 UTC.
+New crates published between 2026-11-19 03:19 UTC and 2026-11-19 04:21 UTC.
 
-[Full CSV](data/new-crates-2026-11-19T03-19-44-030937Z.csv)
+[Full CSV](data/new-crates-2026-11-19T04-21-16-948699Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-19 02:22:47 | [dwi](https://crates.io/crates/dwi) | 0.1.0 | 0 | DWARF Inspector: an interactive DIE and attribute browser |
-| 2026-11-19 02:23:47 | [functora-egui-demo](https://crates.io/crates/functora-egui-demo) | 0.2.1 | 0 | Showcase app for functora-egui - all layouts, components, widgets and features |
-| 2026-11-19 02:24:27 | [lumenui-commands](https://crates.io/crates/lumenui-commands) | 0.0.12 | 0 | Lumen's commands module: named actions with keyboard shortcuts, menu items that… |
-| 2026-11-19 02:27:37 | [kova-mysql](https://crates.io/crates/kova-mysql) | 0.0.1 | 0 | Core value types, identifier quoting, and connection options for MySQL. |
-| 2026-11-19 02:28:14 | [serenade-console](https://crates.io/crates/serenade-console) | 1.0.0 | 0 | Console Application: discoverable commands (bin/console analogue) |
-| 2026-11-19 02:29:15 | [gadk-cloudtrace](https://crates.io/crates/gadk-cloudtrace) | 0.4.1 | 0 | A Google Cloud Trace v1 read client for gadk: list and get traces |
-| 2026-11-19 02:30:12 | [refract-parley](https://crates.io/crates/refract-parley) | 0.12.0 | 0 | Refract's temporary fork of Parley with externally supplied editor style ranges. |
-| 2026-11-19 02:30:16 | [crab-dads-traits](https://crates.io/crates/crab-dads-traits) | 0.1.0 | 0 | Traits for a transactional storage system, used by crab-db |
-| 2026-11-19 02:30:18 | [crab-dads](https://crates.io/crates/crab-dads) | 0.1.0 | 0 | A page-oriented B-Tree implementation and its component parts. |
-| 2026-11-19 02:30:19 | [crab-dads-memmap](https://crates.io/crates/crab-dads-memmap) | 0.1.0 | 0 | A memory-map backed transactional storage system. |
-| 2026-11-19 02:30:21 | [crab-db](https://crates.io/crates/crab-db) | 0.1.0 | 0 | A nestable B-Tree database supporting large storage. |
-| 2026-11-19 02:30:38 | [tvpipe-fairplay](https://crates.io/crates/tvpipe-fairplay) | 0.2.0 | 0 | FairPlay SAP for AirPlay mirroring (the LGPL part of tvpipe; bytes in, bytes ou… |
-| 2026-11-19 02:30:48 | [tvpipe](https://crates.io/crates/tvpipe) | 0.2.0 | 0 | Stream a program's frames and sound, files, web pages or the screen to Apple TV… |
-| 2026-11-19 02:30:59 | [tvpipe-cli](https://crates.io/crates/tvpipe-cli) | 0.2.0 | 0 | Low-latency mirroring of video and audio to AirPlay and Google Cast receivers (… |
-| 2026-11-19 02:31:12 | [cryptonote](https://crates.io/crates/cryptonote) | 0.2.1 | 0 | Cryptonote is a cross-platform app for encrypted notes. |
-| 2026-11-19 02:37:07 | [trustbelt](https://crates.io/crates/trustbelt) | 0.0.1 | 0 | Command-line tool of the TrustBelt framework. Placeholder release: nothing is i… |
-| 2026-11-19 02:38:13 | [serenade-event](https://crates.io/crates/serenade-event) | 1.0.0 | 0 | Sync event dispatcher and subscriber registration |
-| 2026-11-19 02:39:10 | [atlas-lib](https://crates.io/crates/atlas-lib) | 0.5.0 | 0 | Library behind cargo-atlas: read-only Rust workspace snapshots, qualified analy… |
-| 2026-11-19 02:39:20 | [scofflaw](https://crates.io/crates/scofflaw) | 0.0.0 | 0 | Definitions with inheritance, mixins and stacking for Rust. Placeholder; the re… |
-| 2026-11-19 02:39:28 | [cargo-atlas](https://crates.io/crates/cargo-atlas) | 0.13.0 | 0 | Answer questions about how a Rust codebase is put together: navigation, change… |
-| 2026-11-19 02:39:57 | [mermaid-renderer](https://crates.io/crates/mermaid-renderer) | 0.1.1 | 0 | 纯 Rust 的 Mermaid 图表渲染库，直接输出 SVG，不依赖浏览器与 Node.js |
-| 2026-11-19 02:41:29 | [burn-onnx-image-inference](https://crates.io/crates/burn-onnx-image-inference) | 0.1.0 | 0 | burn onnx toolkit for image inference (Classification) |
-| 2026-11-19 02:44:25 | [kova-cli](https://crates.io/crates/kova-cli) | 0.0.1 | 0 | Command-line utilities for schema naming checks and SQL identifier formatting. |
-| 2026-11-19 02:44:35 | [rsbse](https://crates.io/crates/rsbse) | 0.12.1 | 0 | Basis Set Exchange: 776 basis sets with 29 output formats, 18 input formats and… |
-| 2026-11-19 02:45:21 | [hyve](https://crates.io/crates/hyve) | 0.0.1-alpha.0 | 0 | All-in-one Rust core development framework and toolchain foundation for the Hyp… |
-| 2026-11-19 02:45:22 | [orbic](https://crates.io/crates/orbic) | 0.0.1-alpha.0 | 0 | Component-based Rust backend framework for the Hyperish family |
-| 2026-11-19 02:45:25 | [opale](https://crates.io/crates/opale) | 0.0.1-alpha.0 | 0 | High-performance cross-platform graphics framework for the Hyperish family |
-| 2026-11-19 02:45:33 | [serge](https://crates.io/crates/serge) | 0.0.1-alpha.0 | 0 | Unified cross-platform Web DOM and Native GPU/CPU UI framework for the Hyperish… |
-| 2026-11-19 02:45:44 | [kova-migrate](https://crates.io/crates/kova-migrate) | 0.0.1 | 0 | Schema migration versioning, checksum verification, and execution planning prim… |
-| 2026-11-19 02:48:13 | [serenade-http-actix](https://crates.io/crates/serenade-http-actix) | 1.0.0 | 0 | Actix-web adapter for serenade-http |
-| 2026-11-19 02:50:36 | [glotzkiste-update](https://crates.io/crates/glotzkiste-update) | 1.2.1 | 0 | Update checks for Glotzkiste: GitHub release discovery, version order, checksum… |
-| 2026-11-19 02:50:40 | [gherkin-glass](https://crates.io/crates/gherkin-glass) | 1.0.0 | 0 | An accessible static viewer for Gherkin feature files |
-| 2026-11-19 02:58:12 | [serenade-http-axum](https://crates.io/crates/serenade-http-axum) | 1.0.0 | 0 | Axum adapter for serenade-http |
-| 2026-11-19 02:59:39 | [oxiview-base](https://crates.io/crates/oxiview-base) | 0.0.0-pre-alpha-2fa… | 0 | Geometry, color and shared native surface types for oxiview |
-| 2026-11-19 02:59:41 | [oxiview-reactive](https://crates.io/crates/oxiview-reactive) | 0.0.0-pre-alpha-2fa… | 0 | Thread-local signals, reactive scopes and tasks for oxiview |
-| 2026-11-19 02:59:42 | [oxiview-syntax](https://crates.io/crates/oxiview-syntax) | 0.0.0-pre-alpha-2fa… | 0 | Shared .oxi grammar, Builder expansion and source analysis for oxiview |
-| 2026-11-19 02:59:44 | [oxiview-testing](https://crates.io/crates/oxiview-testing) | 0.0.0-pre-alpha-2fa… | 0 | Pixel comparison, snapshot and benchmark support for oxiview |
-| 2026-11-19 02:59:47 | [oxiview-layout](https://crates.io/crates/oxiview-layout) | 0.0.0-pre-alpha-2fa… | 0 | Native layout protocol and Taffy adapter for oxiview |
-| 2026-11-19 03:00:27 | [trainhorn](https://crates.io/crates/trainhorn) | 1.0.0 | 0 | Dependency-free calculators for train horn setups: sound level vs distance (inv… |
-| 2026-11-19 03:03:42 | [oxiview-lsp](https://crates.io/crates/oxiview-lsp) | 0.0.0-pre-alpha-2fa… | 0 | Language server for precompiled .oxi views, styles and Rust source navigation |
-| 2026-11-19 03:08:13 | [serenade-http-client](https://crates.io/crates/serenade-http-client) | 1.0.0 | 0 | Outbound HttpClient contract, MockHttpClient, and optional reqwest adapter |
-| 2026-11-19 03:13:44 | [oxiview-macros](https://crates.io/crates/oxiview-macros) | 0.0.0-pre-alpha-2fa… | 0 | Procedural macros for oxiview components, props, and precompiled .oxi sources |
-| 2026-11-19 03:13:53 | [prisma_macros](https://crates.io/crates/prisma_macros) | 0.3.3 | 0 | Procedural macros for Prisma (prismae). |
-| 2026-11-19 03:14:56 | [opendeskphone-app-sdk](https://crates.io/crates/opendeskphone-app-sdk) | 0.0.0 | 0 | SDK for writing apps for Open Desk Phone, the open firmware for Digium D-series… |
-| 2026-11-19 03:18:13 | [serenade-lock](https://crates.io/crates/serenade-lock) | 1.0.0 | 0 | Symfony-shaped lock contracts, LockFactory, and lock stores |
+| 2026-11-19 03:23:41 | [oxiview-platform](https://crates.io/crates/oxiview-platform) | 0.0.0-pre-alpha-2fa… | 0 | Native window, input and event loop interfaces for oxiview |
+| 2026-11-19 03:23:42 | [hakurei](https://crates.io/crates/hakurei) | 0.0.0 | 0 | Name reserved for a planned Open Gensokyo Network project. |
+| 2026-11-19 03:23:45 | [hatate](https://crates.io/crates/hatate) | 0.0.0 | 0 | Name reserved for a planned Open Gensokyo Network project. |
+| 2026-11-19 03:23:48 | [kosuzu](https://crates.io/crates/kosuzu) | 0.0.0 | 0 | Name reserved for a planned Open Gensokyo Network project. |
+| 2026-11-19 03:23:51 | [komachi](https://crates.io/crates/komachi) | 0.0.0 | 0 | Name reserved for a planned Open Gensokyo Network project. |
+| 2026-11-19 03:23:53 | [eiki](https://crates.io/crates/eiki) | 0.0.0 | 0 | Name reserved for a planned Open Gensokyo Network project. |
+| 2026-11-19 03:27:03 | [langchainrust-cli](https://crates.io/crates/langchainrust-cli) | 0.31.0 | 0 | Command-line interface for langchainrust: init, run, serve, eval. |
+| 2026-11-19 03:27:31 | [zerokms-keyset](https://crates.io/crates/zerokms-keyset) | 0.3.3 | 0 | CipherStash key generation library for ZeroKMS |
+| 2026-11-19 03:28:13 | [serenade-mailer](https://crates.io/crates/serenade-mailer) | 1.0.0 | 0 | Email message, Mime multipart tree, and Null/File/SMTP transports |
+| 2026-11-19 03:29:38 | [vl53l1x-driver](https://crates.io/crates/vl53l1x-driver) | 0.1.0 | 0 | Pure-Rust async and blocking embedded-hal driver for the STMicroelectronics VL5… |
+| 2026-11-19 03:32:24 | [termux-settings](https://crates.io/crates/termux-settings) | 1.4.0 | 0 | A keyboard-driven TUI for Termux terminal colours, app theme and fonts |
+| 2026-11-19 03:33:41 | [oxiview-scene](https://crates.io/crates/oxiview-scene) | 0.0.0-pre-alpha-2fa… | 0 | Retained drawing primitives and scene encoding for oxiview |
+| 2026-11-19 03:33:58 | [sumireko](https://crates.io/crates/sumireko) | 0.0.0 | 0 | Name reserved for a planned Open Gensokyo Network project. |
+| 2026-11-19 03:38:14 | [serenade-minify](https://crates.io/crates/serenade-minify) | 1.0.0 | 0 | HTML and inline JavaScript minification for Serenade |
+| 2026-11-19 03:43:40 | [oxiview-style](https://crates.io/crates/oxiview-style) | 0.0.0-pre-alpha-2fa… | 0 | Typed styles and layout properties for native oxiview UI nodes |
+| 2026-11-19 03:44:03 | [renko](https://crates.io/crates/renko) | 0.0.0 | 0 | Name reserved for a planned Open Gensokyo Network project. |
+| 2026-11-19 03:45:30 | [toddstack-accounts-server-sdk](https://crates.io/crates/toddstack-accounts-server-sdk) | 0.9.1 | 0 | Client for Todd Griffin's Projects accounts: OIDC sign-in, token checks, signed… |
+| 2026-11-19 03:46:59 | [cost-partition](https://crates.io/crates/cost-partition) | 0.1.0 | 0 | Cost partitioning (saturated, max-over-orders) over arbitrary planning abstract… |
+| 2026-11-19 03:48:14 | [serenade-notifier](https://crates.io/crates/serenade-notifier) | 1.0.0 | 0 | SMS and push notification channels with Null and in-memory transports |
+| 2026-11-19 03:50:37 | [glotzkiste-render](https://crates.io/crates/glotzkiste-render) | 1.2.1 | 0 | D3D11 renderer for Glotzkiste: stream textures, egui renderer, render workers,… |
+| 2026-11-19 03:53:43 | [oxiview-text](https://crates.io/crates/oxiview-text) | 0.0.0-pre-alpha-2fa… | 0 | Native text shaping, measurement and glyph rasterization for oxiview |
+| 2026-11-19 03:54:09 | [maribel](https://crates.io/crates/maribel) | 0.0.0 | 0 | Name reserved for a planned Open Gensokyo Network project. |
+| 2026-11-19 03:57:21 | [xwb](https://crates.io/crates/xwb) | 0.0.1 | 0 | xwb Module |
+| 2026-11-19 03:58:14 | [serenade-observability](https://crates.io/crates/serenade-observability) | 1.0.0 | 0 | Structured logging conventions: tracing init, channels, var/log file sinks |
+| 2026-11-19 04:03:45 | [oxiview-core](https://crates.io/crates/oxiview-core) | 0.0.0-pre-alpha-2fa… | 0 | Retained UI nodes, typed view builders and the oxiview window loop |
+| 2026-11-19 04:07:34 | [structured_digest](https://crates.io/crates/structured_digest) | 0.1.0 | 0 | Structured hashing of Rust values using SequenceHash |
+| 2026-11-19 04:07:39 | [osslag](https://crates.io/crates/osslag) | 0.1.0 | 0 | Technical Lag tools for Open Source Software Projects |
+| 2026-11-19 04:08:13 | [serenade-profiler](https://crates.io/crates/serenade-profiler) | 1.0.0 | 0 | Web debug toolbar and per-request profiler for Serenade HTML apps |
+| 2026-11-19 04:09:45 | [timebridge](https://crates.io/crates/timebridge) | 0.1.0 | 0 | Engine-neutral temporal vocabulary for Rust library boundaries: Timestamp, Exac… |
+| 2026-11-19 04:09:47 | [timebridge-chrono](https://crates.io/crates/timebridge-chrono) | 0.1.0 | 0 | Lossless conversions between timebridge and Chrono. |
+| 2026-11-19 04:09:48 | [timebridge-clock](https://crates.io/crates/timebridge-clock) | 0.1.0 | 0 | System, fixed and manually driven clocks implementing the timebridge clock trai… |
+| 2026-11-19 04:09:48 | [timebridge-jiff](https://crates.io/crates/timebridge-jiff) | 0.1.0 | 0 | Lossless conversions between timebridge and Jiff. |
+| 2026-11-19 04:09:57 | [timebridge-time](https://crates.io/crates/timebridge-time) | 0.1.0 | 0 | Lossless conversions between timebridge and the time crate. |
+| 2026-11-19 04:13:41 | [oxiview-platform-headless](https://crates.io/crates/oxiview-platform-headless) | 0.0.0-pre-alpha-2fa… | 0 | Deterministic headless window and input backend for oxiview |
+| 2026-11-19 04:18:13 | [serenade-rate-limiter](https://crates.io/crates/serenade-rate-limiter) | 1.0.0 | 0 | Symfony-shaped rate limiter policies, consume API, and storage adapters |
+| 2026-11-19 04:20:12 | [rhue-common](https://crates.io/crates/rhue-common) | 1.0.0 | 0 | Shared source files, spans and diagnostics for the Rhue scripting language |
+| 2026-11-19 04:20:36 | [rhue-lexer](https://crates.io/crates/rhue-lexer) | 1.0.0 | 0 | Lexer for the Rhue scripting language |
+| 2026-11-19 04:20:42 | [rhue-derive](https://crates.io/crates/rhue-derive) | 1.0.0 | 0 | #[derive(UserData)] for Rhue |
+| 2026-11-19 04:21:06 | [rhue-parser](https://crates.io/crates/rhue-parser) | 1.0.0 | 0 | Parser and syntax tree for the Rhue scripting language |
 
 ## Data source
 

@@ -1,0 +1,40 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-19T03:23:41.235405Z,oxiview-platform,0.0.0-pre-alpha-2fa768d,0,0,https://github.com/oxiview/oxiview,"Native window, input and event loop interfaces for oxiview"
+2026-11-19T03:23:42.905816Z,hakurei,0.0.0,0,0,,Name reserved for a planned Open Gensokyo Network project.
+2026-11-19T03:23:45.655471Z,hatate,0.0.0,0,0,,Name reserved for a planned Open Gensokyo Network project.
+2026-11-19T03:23:48.29255Z,kosuzu,0.0.0,0,0,,Name reserved for a planned Open Gensokyo Network project.
+2026-11-19T03:23:51.109559Z,komachi,0.0.0,0,0,,Name reserved for a planned Open Gensokyo Network project.
+2026-11-19T03:23:53.942463Z,eiki,0.0.0,0,0,,Name reserved for a planned Open Gensokyo Network project.
+2026-11-19T03:27:03.168827Z,langchainrust-cli,0.31.0,0,0,,"Command-line interface for langchainrust: init, run, serve, eval."
+2026-11-19T03:27:31.717568Z,zerokms-keyset,0.3.3,0,0,https://github.com/cipherstash/cipherstash-suite,CipherStash key generation library for ZeroKMS
+2026-11-19T03:28:13.667085Z,serenade-mailer,1.0.0,0,0,https://github.com/Interchouette-ITC/Serenade,"Email message, Mime multipart tree, and Null/File/SMTP transports"
+2026-11-19T03:29:38.06749Z,vl53l1x-driver,0.1.0,0,0,https://github.com/petegibson/vl53l1x-driver-rs,"Pure-Rust async and blocking embedded-hal driver for the STMicroelectronics VL53L1X Time-of-Flight sensor, a port of ST's Ultra Lite Driver (no C toolchain)."
+2026-11-19T03:32:24.645372Z,termux-settings,1.4.0,0,0,https://github.com/GeneralKaos666/termux-settings,"A keyboard-driven TUI for Termux terminal colours, app theme and fonts"
+2026-11-19T03:33:41.82232Z,oxiview-scene,0.0.0-pre-alpha-2fa768d,0,0,https://github.com/oxiview/oxiview,Retained drawing primitives and scene encoding for oxiview
+2026-11-19T03:33:58.893862Z,sumireko,0.0.0,0,0,,Name reserved for a planned Open Gensokyo Network project.
+2026-11-19T03:38:14.27795Z,serenade-minify,1.0.0,0,0,https://github.com/Interchouette-ITC/Serenade,HTML and inline JavaScript minification for Serenade
+2026-11-19T03:43:40.681668Z,oxiview-style,0.0.0-pre-alpha-2fa768d,0,0,https://github.com/oxiview/oxiview,Typed styles and layout properties for native oxiview UI nodes
+2026-11-19T03:44:03.882495Z,renko,0.0.0,0,0,,Name reserved for a planned Open Gensokyo Network project.
+2026-11-19T03:45:30.626976Z,toddstack-accounts-server-sdk,0.9.1,0,0,https://github.com/goddtriffin/toddstack,"Client for Todd Griffin's Projects accounts: OIDC sign-in, token checks, signed webhooks, friends, events, blocks, reports and notifications."
+2026-11-19T03:46:59.726217Z,cost-partition,0.1.0,0,0,https://github.com/sunsided/cost-partition,"Cost partitioning (saturated, max-over-orders) over arbitrary planning abstractions"
+2026-11-19T03:48:14.164642Z,serenade-notifier,1.0.0,0,0,https://github.com/Interchouette-ITC/Serenade,SMS and push notification channels with Null and in-memory transports
+2026-11-19T03:50:37.866725Z,glotzkiste-render,1.2.1,0,0,https://github.com/rennerdo30/glotzkiste,"D3D11 renderer for Glotzkiste: stream textures, egui renderer, render workers, one present per refresh."
+2026-11-19T03:53:43.581177Z,oxiview-text,0.0.0-pre-alpha-2fa768d,0,0,https://github.com/oxiview/oxiview,"Native text shaping, measurement and glyph rasterization for oxiview"
+2026-11-19T03:54:09.491226Z,maribel,0.0.0,0,0,,Name reserved for a planned Open Gensokyo Network project.
+2026-11-19T03:57:21.351372Z,xwb,0.0.1,0,0,https://cnb.cool/kamft/crate,xwb Module
+2026-11-19T03:58:14.209379Z,serenade-observability,1.0.0,0,0,https://github.com/Interchouette-ITC/Serenade,"Structured logging conventions: tracing init, channels, var/log file sinks"
+2026-11-19T04:03:45.712385Z,oxiview-core,0.0.0-pre-alpha-2fa768d,0,0,https://github.com/oxiview/oxiview,"Retained UI nodes, typed view builders and the oxiview window loop"
+2026-11-19T04:07:34.217051Z,structured_digest,0.1.0,0,0,https://github.com/acul009/structured_digest,Structured hashing of Rust values using SequenceHash
+2026-11-19T04:07:39.38201Z,osslag,0.1.0,0,0,https://github.com/shanep/osslag,Technical Lag tools for Open Source Software Projects
+2026-11-19T04:08:13.207017Z,serenade-profiler,1.0.0,0,0,https://github.com/Interchouette-ITC/Serenade,Web debug toolbar and per-request profiler for Serenade HTML apps
+2026-11-19T04:09:45.236638Z,timebridge,0.1.0,0,0,https://github.com/sunsided/timebridge,"Engine-neutral temporal vocabulary for Rust library boundaries: Timestamp, ExactDuration and clock traits."
+2026-11-19T04:09:47.76375Z,timebridge-chrono,0.1.0,0,0,https://github.com/sunsided/timebridge,Lossless conversions between timebridge and Chrono.
+2026-11-19T04:09:48.383937Z,timebridge-clock,0.1.0,0,0,https://github.com/sunsided/timebridge,"System, fixed and manually driven clocks implementing the timebridge clock traits."
+2026-11-19T04:09:48.976385Z,timebridge-jiff,0.1.0,0,0,https://github.com/sunsided/timebridge,Lossless conversions between timebridge and Jiff.
+2026-11-19T04:09:57.105092Z,timebridge-time,0.1.0,0,0,https://github.com/sunsided/timebridge,Lossless conversions between timebridge and the time crate.
+2026-11-19T04:13:41.342044Z,oxiview-platform-headless,0.0.0-pre-alpha-2fa768d,0,0,https://github.com/oxiview/oxiview,Deterministic headless window and input backend for oxiview
+2026-11-19T04:18:13.57911Z,serenade-rate-limiter,1.0.0,0,0,https://github.com/Interchouette-ITC/Serenade,"Symfony-shaped rate limiter policies, consume API, and storage adapters"
+2026-11-19T04:20:12.6707Z,rhue-common,1.0.0,0,0,https://github.com/rhuelang/rhue,"Shared source files, spans and diagnostics for the Rhue scripting language"
+2026-11-19T04:20:36.650662Z,rhue-lexer,1.0.0,0,0,https://github.com/rhuelang/rhue,Lexer for the Rhue scripting language
+2026-11-19T04:20:42.633683Z,rhue-derive,1.0.0,0,0,https://github.com/rhuelang/rhue,#[derive(UserData)] for Rhue
+2026-11-19T04:21:06.952333Z,rhue-parser,1.0.0,0,0,https://github.com/rhuelang/rhue,Parser and syntax tree for the Rhue scripting language
