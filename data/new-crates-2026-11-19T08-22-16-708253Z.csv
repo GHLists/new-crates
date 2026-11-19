@@ -1,0 +1,27 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-19T07:31:40.612586Z,rff-codec-alac,0.6.2,0,0,https://github.com/Remade-With-Rust/remade_ffmpeg_rs,"Remade FFmpeg (Rust): Apple Lossless (ALAC) audio decoder, 16/20/24/32-bit, 1-8 channels."
+2026-11-19T07:38:07.338007Z,rff-format-aiff,0.6.2,0,0,https://github.com/Remade-With-Rust/remade_ffmpeg_rs,"Remade FFmpeg (Rust): AIFF / AIFF-C audio container (demux): PCM, float, G.711 and ima4."
+2026-11-19T07:38:30.16737Z,rff-format-caf,0.6.2,0,0,https://github.com/Remade-With-Rust/remade_ffmpeg_rs,"Remade FFmpeg (Rust): Core Audio Format (CAF) container (demux): LPCM, ALAC, AAC, ima4 and G.711."
+2026-11-19T07:45:50.697383Z,visdom-cli,0.29.5,0,0,https://github.com/VirtusLab/visdom-ai-tracing-cli,Visdom developer CLI: checks a project's Visdom wiring and launches the coding agent
+2026-11-19T07:46:40.375266Z,nsh-omarchy,0.0.1,0,0,https://github.com/huacnlee/nsh-omarchy,An NSH component library designed for the Omarchy system and its UI and UX conventions
+2026-11-19T07:49:52.591641Z,ohos-hitrace-sys,0.1.0,0,0,,OpenHarmony's hitrace sys binding for rust
+2026-11-19T07:49:56.888953Z,ohos-hitrace-binding,0.1.0,0,0,,Scoped native OpenHarmony HiTrace events and counters
+2026-11-19T07:51:47.761637Z,fieldlink,0.0.1,0,0,https://github.com/hupe1980/fieldlink,"A B2B platform that connects enterprises with qualified service partners to manage and coordinate installations, maintenance, repairs, and other field operations."
+2026-11-19T08:00:37.806481Z,pigradient-tray,0.1.0,0,0,https://github.com/LeHuman/PiGradient-Tray,Read-only PiGradient Companion Windows System Tray App & Widget Flyout
+2026-11-19T08:02:27.301188Z,sockel-build,0.1.0,0,0,https://github.com/udoprog/sockel,"Builds sockel's stylesheet and an app's own Sass beside it, with a constant per class, from a build.rs."
+2026-11-19T08:02:49.249681Z,sockel,0.1.0,0,0,https://github.com/udoprog/sockel,Opinionated layout primitives and components for Yew apps that keep their size as their content changes.
+2026-11-19T08:04:01.393576Z,graticule-canvas,0.0.1,0,0,https://github.com/ming2k/graticule,"Retained-mode terminal cell canvas, Flexbox layout solver, and damage-tracked diff engine"
+2026-11-19T08:04:05.274368Z,graticule-tty,0.0.1,0,0,https://github.com/ming2k/graticule,"Physical TTY host transport: incremental VT parser, input stream, mouse modes, and terminal session lifecycle"
+2026-11-19T08:04:37.947331Z,graticule,0.0.1,0,0,https://github.com/ming2k/graticule,"Retained-mode terminal UI engine: damage-tracked cell canvas, Flexbox layout, retained scene graph, and physical TTY host transport"
+2026-11-19T08:06:37.525337Z,bm13xx-protocol,0.3.0,0,0,https://github.com/GPTechinno/bm13xx-rs,UART protocol of the Bitmain BM13xx Bitcoin mining ASICs: command frames and response parsing
+2026-11-19T08:06:40.281413Z,bm13xx-asic,0.3.0,0,0,https://github.com/GPTechinno/bm13xx-rs,"Registers, PLL, core topology and the Asic trait shared by the Bitmain BM13xx Bitcoin mining ASIC drivers"
+2026-11-19T08:06:41.701331Z,bm1362,0.3.0,0,0,https://github.com/GPTechinno/bm13xx-rs,Driver for the Bitmain BM1362 Bitcoin mining ASIC
+2026-11-19T08:06:42.018988Z,bm1366,0.3.0,0,0,https://github.com/GPTechinno/bm13xx-rs,Driver for the Bitmain BM1366 Bitcoin mining ASIC
+2026-11-19T08:06:42.44353Z,bm1368,0.3.0,0,0,https://github.com/GPTechinno/bm13xx-rs,Driver for the Bitmain BM1368 Bitcoin mining ASIC
+2026-11-19T08:11:32.884602Z,orca-mcp,0.3.2,0,0,https://github.com/mighty840/orca,"Model Context Protocol server for orca: read-only resources, tools and prompts over the orca API"
+2026-11-19T08:13:25.793166Z,ngit-ci-nix-provider,0.2.0,0,0,https://gitworkshop.dev/danconwaydev.com/ngit-ci,Native Nix execution provider for ngit-ci
+2026-11-19T08:16:40.483012Z,bm1370,0.3.0,0,0,https://github.com/GPTechinno/bm13xx-rs,Driver for the Bitmain BM1370 Bitcoin mining ASIC
+2026-11-19T08:18:53.805475Z,reikem-mail-client,1.0.0,0,0,https://github.com/rkstraessler/ReikemMailClient_RS,"Rust SDK for the REIKEM Mail API v2. Send email, submit personalized batches, query mail history, and download files."
+2026-11-19T08:19:00.585617Z,splice-girl,0.1.0,0,0,https://github.com/simransummermalik/TopologicalAnalysisofRNASplicinginEndometriosis,Graph and Hodge analysis of RNA splice-junction data
+2026-11-19T08:21:12.204517Z,strata_web_reader,0.1.0,0,0,https://github.com/strataui/strata,High-performance semantic web transpiler and offline article reader for Strata
+2026-11-19T08:21:14.910951Z,strata_editor,0.1.0,0,0,https://github.com/strataui/strata,Headless Rich Text & Block Document Editor and Code Editor Engine for Strata
