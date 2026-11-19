@@ -1,0 +1,24 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-19T08:26:16.68138Z,brokk-mj-session-runtime,0.0.0,0,0,https://github.com/BrokkAi/mjolnir,"Mjolnir's daemon-side ownership of running sessions: relay actors, worker recovery and credential sync (name reservation; released with Mjolnir)"
+2026-11-19T08:27:45.87227Z,bm1372,0.3.0,0,0,https://github.com/GPTechinno/bm13xx-rs,Driver for the Bitmain BM1372 Bitcoin mining ASIC
+2026-11-19T08:28:43.268686Z,htmx-rust,0.0.2,0,0,https://github.com/funkode-io/htmx-rust,"Server-rendered Rust web apps with htmx and maud: routing, URL as state, components"
+2026-11-19T08:28:56.392381Z,apitest,0.0.0,0,0,,Placeholder crate; reserved for future use.
+2026-11-19T08:30:29.889092Z,graticule-vt,0.0.2,0,0,https://github.com/ming2k/graticule,Pure-Rust VT/ECMA-48/DEC/Kitty wire protocol: zero-allocation escape encoding and incremental input parsing
+2026-11-19T08:33:39.769629Z,brokk-mj-profile-catalog,0.0.0,0,0,https://github.com/BrokkAi/mjolnir,"What each Mjolnir profile's harness offers: discovered models and options, cached and kept current (name reservation; released with Mjolnir)"
+2026-11-19T08:33:52.879147Z,apitest-cli,0.0.0,0,0,,Placeholder crate; reserved for future use.
+2026-11-19T08:34:19.786838Z,links-queue,0.3.0,0,0,https://github.com/link-foundation/links-queue,A Rust implementation of Links Queue - universal queue system using links
+2026-11-19T08:35:10.0423Z,rust-web-box,0.19.0,0,0,https://github.com/link-foundation/rust-web-box,Rust Web Box: browser-based Rust development with an example CLI
+2026-11-19T08:35:35.404819Z,vision-calibration-cli,1.0.0-rc.1,0,0,https://github.com/VitalyVorobyev/calibration-rs,vcal: calibrate cameras from a folder of images on the command line
+2026-11-19T08:37:51.559993Z,bm1397,0.3.0,0,0,https://github.com/GPTechinno/bm13xx-rs,Driver for the Bitmain BM1397 Bitcoin mining ASIC
+2026-11-19T08:42:05.274428Z,karyon_kademlia,0.1.0,0,0,https://github.com/karyontech/karyon,"Kademlia DHT discovery for karyon_p2p: finds peers with a routing table, lookups and liveness refreshes."
+2026-11-19T08:47:19.73036Z,icalkit,0.1.0,0,0,https://github.com/P4suta/icalkit,"A strict, lossless iCalendar, iTIP and CalDAV toolkit"
+2026-11-19T08:47:57.429477Z,bm13xx-chain,0.3.0,0,0,https://github.com/GPTechinno/bm13xx-rs,Async driver for a chain of Bitmain BM13xx Bitcoin mining ASICs
+2026-11-19T08:48:04.08797Z,idguru,0.1.0,0,0,https://github.com/StarcevAlexander/idguru,"Guru ID toolkit for Rust - UUID v4/v7, nanoid and ULID generators with a unified API"
+2026-11-19T08:49:20.163107Z,mediatrguru,0.1.0,0,0,https://github.com/StarcevAlexander/mediatrguru,"MediatR-style in-process mediator for Rust - typed request/response dispatch with a handler registry, zero dependencies"
+2026-11-19T08:55:51.195969Z,xtce-rs,0.1.0,0,0,https://github.com/xpromache/xtce-rs,"Load XTCE mission databases, decode telemetry packets and encode telecommands"
+2026-11-19T08:57:16.896731Z,lipservice,0.1.0,0,0,https://github.com/gileshall/lipservice,Fast CPU speech and singing synthesis
+2026-11-19T09:03:49.706857Z,kuri-api,0.1.0,0,0,https://github.com/kuriyen/kuri-api,"The contracts of a home's system plane as plain Rust types: grants and the checks a peer runs offline, signed requests, the home's clock, revocations, the registry and power. Bound to no transport."
+2026-11-19T09:12:47.119296Z,tauten-check-kernel,0.0.2,0,0,https://github.com/tauten-dev/tauten,"The decisions of the tauten checker (tier order, severity, lint exceptions, baseline ratchet, rule-table validation, proof subsumption) in plain no_std Rust, translated to Lean 4 by Charon/Aeneas and…"
+2026-11-19T09:14:06.071957Z,f_word,0.1.0,0,0,https://github.com/0xhappyboy/f_word,"A Rust Word (docx) document parsing engine, with FWord at its core, providing complete document structure decomposition and read/write capabilities."
+2026-11-19T09:17:25.339217Z,brokk-mj-worker-launch,0.0.0,0,0,https://github.com/BrokkAi/mjolnir,"What a Mjolnir session's worker is launched with, planned from the configuration and the session records (name reservation; released with Mjolnir)"
+2026-11-19T09:18:32.15366Z,arpwise,0.5.2,0,0,https://github.com/Qoats/ArpWise,"Fast, driver-free local network scanner with a clean GUI: devices, vendors, latency, history, Wake-on-LAN."

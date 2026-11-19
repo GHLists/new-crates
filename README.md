@@ -8,40 +8,37 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-19 08:22 UTC
+## Latest list — 2026-11-19 09:18 UTC
 
-New crates published between 2026-11-19 07:20 UTC and 2026-11-19 08:22 UTC.
+New crates published between 2026-11-19 08:22 UTC and 2026-11-19 09:18 UTC.
 
-[Full CSV](data/new-crates-2026-11-19T08-22-16-708253Z.csv)
+[Full CSV](data/new-crates-2026-11-19T09-18-47-990934Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-19 07:31:40 | [rff-codec-alac](https://crates.io/crates/rff-codec-alac) | 0.6.2 | 0 | Remade FFmpeg (Rust): Apple Lossless (ALAC) audio decoder, 16/20/24/32-bit, 1-8… |
-| 2026-11-19 07:38:07 | [rff-format-aiff](https://crates.io/crates/rff-format-aiff) | 0.6.2 | 0 | Remade FFmpeg (Rust): AIFF / AIFF-C audio container (demux): PCM, float, G.711… |
-| 2026-11-19 07:38:30 | [rff-format-caf](https://crates.io/crates/rff-format-caf) | 0.6.2 | 0 | Remade FFmpeg (Rust): Core Audio Format (CAF) container (demux): LPCM, ALAC, AA… |
-| 2026-11-19 07:45:50 | [visdom-cli](https://crates.io/crates/visdom-cli) | 0.29.5 | 0 | Visdom developer CLI: checks a project's Visdom wiring and launches the coding… |
-| 2026-11-19 07:46:40 | [nsh-omarchy](https://crates.io/crates/nsh-omarchy) | 0.0.1 | 0 | An NSH component library designed for the Omarchy system and its UI and UX conv… |
-| 2026-11-19 07:49:52 | [ohos-hitrace-sys](https://crates.io/crates/ohos-hitrace-sys) | 0.1.0 | 0 | OpenHarmony's hitrace sys binding for rust |
-| 2026-11-19 07:49:56 | [ohos-hitrace-binding](https://crates.io/crates/ohos-hitrace-binding) | 0.1.0 | 0 | Scoped native OpenHarmony HiTrace events and counters |
-| 2026-11-19 07:51:47 | [fieldlink](https://crates.io/crates/fieldlink) | 0.0.1 | 0 | A B2B platform that connects enterprises with qualified service partners to man… |
-| 2026-11-19 08:00:37 | [pigradient-tray](https://crates.io/crates/pigradient-tray) | 0.1.0 | 0 | Read-only PiGradient Companion Windows System Tray App & Widget Flyout |
-| 2026-11-19 08:02:27 | [sockel-build](https://crates.io/crates/sockel-build) | 0.1.0 | 0 | Builds sockel's stylesheet and an app's own Sass beside it, with a constant per… |
-| 2026-11-19 08:02:49 | [sockel](https://crates.io/crates/sockel) | 0.1.0 | 0 | Opinionated layout primitives and components for Yew apps that keep their size… |
-| 2026-11-19 08:04:01 | [graticule-canvas](https://crates.io/crates/graticule-canvas) | 0.0.1 | 0 | Retained-mode terminal cell canvas, Flexbox layout solver, and damage-tracked d… |
-| 2026-11-19 08:04:05 | [graticule-tty](https://crates.io/crates/graticule-tty) | 0.0.1 | 0 | Physical TTY host transport: incremental VT parser, input stream, mouse modes,… |
-| 2026-11-19 08:04:37 | [graticule](https://crates.io/crates/graticule) | 0.0.1 | 0 | Retained-mode terminal UI engine: damage-tracked cell canvas, Flexbox layout, r… |
-| 2026-11-19 08:06:37 | [bm13xx-protocol](https://crates.io/crates/bm13xx-protocol) | 0.3.0 | 0 | UART protocol of the Bitmain BM13xx Bitcoin mining ASICs: command frames and re… |
-| 2026-11-19 08:06:40 | [bm13xx-asic](https://crates.io/crates/bm13xx-asic) | 0.3.0 | 0 | Registers, PLL, core topology and the Asic trait shared by the Bitmain BM13xx B… |
-| 2026-11-19 08:06:41 | [bm1362](https://crates.io/crates/bm1362) | 0.3.0 | 0 | Driver for the Bitmain BM1362 Bitcoin mining ASIC |
-| 2026-11-19 08:06:42 | [bm1366](https://crates.io/crates/bm1366) | 0.3.0 | 0 | Driver for the Bitmain BM1366 Bitcoin mining ASIC |
-| 2026-11-19 08:06:42 | [bm1368](https://crates.io/crates/bm1368) | 0.3.0 | 0 | Driver for the Bitmain BM1368 Bitcoin mining ASIC |
-| 2026-11-19 08:11:32 | [orca-mcp](https://crates.io/crates/orca-mcp) | 0.3.2 | 0 | Model Context Protocol server for orca: read-only resources, tools and prompts… |
-| 2026-11-19 08:13:25 | [ngit-ci-nix-provider](https://crates.io/crates/ngit-ci-nix-provider) | 0.2.0 | 0 | Native Nix execution provider for ngit-ci |
-| 2026-11-19 08:16:40 | [bm1370](https://crates.io/crates/bm1370) | 0.3.0 | 0 | Driver for the Bitmain BM1370 Bitcoin mining ASIC |
-| 2026-11-19 08:18:53 | [reikem-mail-client](https://crates.io/crates/reikem-mail-client) | 1.0.0 | 0 | Rust SDK for the REIKEM Mail API v2. Send email, submit personalized batches, q… |
-| 2026-11-19 08:19:00 | [splice-girl](https://crates.io/crates/splice-girl) | 0.1.0 | 0 | Graph and Hodge analysis of RNA splice-junction data |
-| 2026-11-19 08:21:12 | [strata_web_reader](https://crates.io/crates/strata_web_reader) | 0.1.0 | 0 | High-performance semantic web transpiler and offline article reader for Strata |
-| 2026-11-19 08:21:14 | [strata_editor](https://crates.io/crates/strata_editor) | 0.1.0 | 0 | Headless Rich Text & Block Document Editor and Code Editor Engine for Strata |
+| 2026-11-19 08:26:16 | [brokk-mj-session-runtime](https://crates.io/crates/brokk-mj-session-runtime) | 0.0.0 | 0 | Mjolnir's daemon-side ownership of running sessions: relay actors, worker recov… |
+| 2026-11-19 08:27:45 | [bm1372](https://crates.io/crates/bm1372) | 0.3.0 | 0 | Driver for the Bitmain BM1372 Bitcoin mining ASIC |
+| 2026-11-19 08:28:43 | [htmx-rust](https://crates.io/crates/htmx-rust) | 0.0.2 | 0 | Server-rendered Rust web apps with htmx and maud: routing, URL as state, compon… |
+| 2026-11-19 08:28:56 | [apitest](https://crates.io/crates/apitest) | 0.0.0 | 0 | Placeholder crate; reserved for future use. |
+| 2026-11-19 08:30:29 | [graticule-vt](https://crates.io/crates/graticule-vt) | 0.0.2 | 0 | Pure-Rust VT/ECMA-48/DEC/Kitty wire protocol: zero-allocation escape encoding a… |
+| 2026-11-19 08:33:39 | [brokk-mj-profile-catalog](https://crates.io/crates/brokk-mj-profile-catalog) | 0.0.0 | 0 | What each Mjolnir profile's harness offers: discovered models and options, cach… |
+| 2026-11-19 08:33:52 | [apitest-cli](https://crates.io/crates/apitest-cli) | 0.0.0 | 0 | Placeholder crate; reserved for future use. |
+| 2026-11-19 08:34:19 | [links-queue](https://crates.io/crates/links-queue) | 0.3.0 | 0 | A Rust implementation of Links Queue - universal queue system using links |
+| 2026-11-19 08:35:10 | [rust-web-box](https://crates.io/crates/rust-web-box) | 0.19.0 | 0 | Rust Web Box: browser-based Rust development with an example CLI |
+| 2026-11-19 08:35:35 | [vision-calibration-cli](https://crates.io/crates/vision-calibration-cli) | 1.0.0-rc.1 | 0 | vcal: calibrate cameras from a folder of images on the command line |
+| 2026-11-19 08:37:51 | [bm1397](https://crates.io/crates/bm1397) | 0.3.0 | 0 | Driver for the Bitmain BM1397 Bitcoin mining ASIC |
+| 2026-11-19 08:42:05 | [karyon_kademlia](https://crates.io/crates/karyon_kademlia) | 0.1.0 | 0 | Kademlia DHT discovery for karyon_p2p: finds peers with a routing table, lookup… |
+| 2026-11-19 08:47:19 | [icalkit](https://crates.io/crates/icalkit) | 0.1.0 | 0 | A strict, lossless iCalendar, iTIP and CalDAV toolkit |
+| 2026-11-19 08:47:57 | [bm13xx-chain](https://crates.io/crates/bm13xx-chain) | 0.3.0 | 0 | Async driver for a chain of Bitmain BM13xx Bitcoin mining ASICs |
+| 2026-11-19 08:48:04 | [idguru](https://crates.io/crates/idguru) | 0.1.0 | 0 | Guru ID toolkit for Rust - UUID v4/v7, nanoid and ULID generators with a unifie… |
+| 2026-11-19 08:49:20 | [mediatrguru](https://crates.io/crates/mediatrguru) | 0.1.0 | 0 | MediatR-style in-process mediator for Rust - typed request/response dispatch wi… |
+| 2026-11-19 08:55:51 | [xtce-rs](https://crates.io/crates/xtce-rs) | 0.1.0 | 0 | Load XTCE mission databases, decode telemetry packets and encode telecommands |
+| 2026-11-19 08:57:16 | [lipservice](https://crates.io/crates/lipservice) | 0.1.0 | 0 | Fast CPU speech and singing synthesis |
+| 2026-11-19 09:03:49 | [kuri-api](https://crates.io/crates/kuri-api) | 0.1.0 | 0 | The contracts of a home's system plane as plain Rust types: grants and the chec… |
+| 2026-11-19 09:12:47 | [tauten-check-kernel](https://crates.io/crates/tauten-check-kernel) | 0.0.2 | 0 | The decisions of the tauten checker (tier order, severity, lint exceptions, bas… |
+| 2026-11-19 09:14:06 | [f_word](https://crates.io/crates/f_word) | 0.1.0 | 0 | A Rust Word (docx) document parsing engine, with FWord at its core, providing c… |
+| 2026-11-19 09:17:25 | [brokk-mj-worker-launch](https://crates.io/crates/brokk-mj-worker-launch) | 0.0.0 | 0 | What a Mjolnir session's worker is launched with, planned from the configuratio… |
+| 2026-11-19 09:18:32 | [arpwise](https://crates.io/crates/arpwise) | 0.5.2 | 0 | Fast, driver-free local network scanner with a clean GUI: devices, vendors, lat… |
 
 ## Data source
 
