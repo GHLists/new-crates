@@ -1,0 +1,31 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-19T19:19:19.96538Z,aidaemon-work,0.21.0,0,0,https://github.com/davo20019/aidaemon,"Goals, mandates, tasks and work coordination with a SQLite store; internal to aidaemon, no stability promise"
+2026-11-19T19:25:25.28186Z,dleam,0.0.0,0,0,,Dleam CLI (coming soon). https://dleam.io
+2026-11-19T19:25:27.860144Z,dleam-cli,0.0.0,0,0,,Dleam CLI (coming soon). https://dleam.io
+2026-11-19T19:29:24.316529Z,aidaemon-nodes,0.21.0,0,0,https://github.com/davo20019/aidaemon,"Nodes for aidaemon agents: enrolled hardware companions with server-issued identity, their HTTP Gateway, store, OTA releases, speech, monitoring and the tools that read and command them; implementati…"
+2026-11-19T19:30:13.799533Z,matchmaker-mlua-bindings,0.1.8,0,0,https://github.com/Squirreljetpack/matchmaker,Portable built-in Lua modules for host applications embedding matchmaker
+2026-11-19T19:34:00.118919Z,cortexkit-fed-core,0.1.0,0,0,,"CortexKit federation protocol core: Noise sessions, frame codec, pairing codes and rendezvous message types. Pure protocol logic; no network or storage."
+2026-11-19T19:34:03.169242Z,cortexkit-fed-client,0.1.0,0,0,,"Client side of the CortexKit federation protocol, for phones and desktop apps that dial a user's computers without serving requests."
+2026-11-19T19:38:59.600966Z,pollis-app,0.1.0,0,0,https://github.com/pollis-app/pollis,"Write a Pollis App in Rust: handlers, a typed context, the manifest and an offline test helper."
+2026-11-19T19:39:27.917501Z,aidaemon-providers,0.21.0,0,0,https://github.com/davo20019/aidaemon,"LLM providers for aidaemon agents (OpenAI-compatible and Anthropic, streaming); implementation crate of the aidaemon SDK, no stability promise (use it through aidaemon-sdk)"
+2026-11-19T19:45:45.593294Z,pasejo-protocol,2026.11.19,0,0,https://github.com/metio/pasejo,"Wire types, encodings, cryptography and membership-log verification shared by pasejo clients and pasejo-server"
+2026-11-19T19:45:47.589751Z,pasejo-client,2026.11.19,0,0,https://github.com/metio/pasejo,"Blocking client for pasejo-server: sessions, organizations, remote stores and audit verification"
+2026-11-19T19:45:47.86872Z,pasejo-match,2026.11.19,0,0,https://github.com/metio/pasejo,"Credential matching, look-alike domain detection and fill policies shared by pasejo's browser host and apps"
+2026-11-19T19:48:06.344494Z,feralin,0.1.0,0,0,https://github.com/feralincom/sdk,"Feralin UTP v1 istemcisi: izin kapılı olay, bellek içi kuyruk, üstel geri çekilme"
+2026-11-19T19:48:09.529913Z,lintel-iced-devtools,0.15.0-dev,0,0,https://github.com/iced-rs/iced,Attachable developer tools for any iced program
+2026-11-19T19:49:31.69925Z,aidaemon-skills,0.21.0,0,0,https://github.com/davo20019/aidaemon,"Skills for aidaemon agents: markdown instructions loaded from a directory, matched by trigger, promoted from proven procedures, and the tools that use and manage them; implementation crate of the aid…"
+2026-11-19T19:51:43.386072Z,mdkg-session,0.0.0,0,0,https://github.com/mdkg-dev/mdkg,"Reserved for mdkg's session crate, which ships with mdkg 0.7.5. Internal to mdkg, no stable API; depend on the mdkg binary."
+2026-11-19T19:53:42.075423Z,lintel-iced-tester,0.15.0-dev,0,0,https://github.com/iced-rs/iced,"A test recorder, editor, and runner for your iced applications"
+2026-11-19T19:59:37.138554Z,aidaemon-runtime,0.21.0,0,0,https://github.com/davo20019/aidaemon,"aidaemon's turn runtime: model routing and side calls, budgets, and the turn on top of the aidaemon-core kernel; internal to aidaemon, no stability promise"
+2026-11-19T20:01:47.132707Z,blue-lang-saturate,0.0.250,0,0,https://github.com/pleme-io/blue,Equality saturation over blue's erased trees: the one typed surface blue reaches egg through.
+2026-11-19T20:05:32.323522Z,moirai-quic,0.12.0,0,0,https://github.com/ryancinsight/Moirai,Bounded authenticated QUIC multiplexing over Moirai scheduling and socket readiness
+2026-11-19T20:08:56.27408Z,saltmill,0.1.0,0,0,https://github.com/ccashwell/saltmill,"Vanity address salt miner for CREATE2 and CREATE3 (CreateX) on the GPU and every CPU core, built for Apple silicon"
+2026-11-19T20:09:41.757664Z,aidaemon-sdk,0.21.0,0,0,https://github.com/davo20019/aidaemon,"Build agents in Rust on the aidaemon kernel: one crate, a feature per subsystem (providers, tools, policies, memory, channels)"
+2026-11-19T20:11:15.11849Z,verticopolis-engine,1.57.1,0,0,https://github.com/Verticopolis/engine,"The Verticopolis simulation engine: every rule, command, save format and gameplay event of the tower game"
+2026-11-19T20:11:26.703603Z,debuggatha-core,0.3.0,0,0,https://github.com/sxnnyside-project/debuggatha,Debuggatha core: a senior code reviewer that cites a real source for every finding.
+2026-11-19T20:11:46.292428Z,debuggatha-engine,0.3.0,0,0,https://github.com/sxnnyside-project/debuggatha,Debuggatha engine: a senior code reviewer that cites a real source for every finding.
+2026-11-19T20:11:59.785941Z,debuggatha-cli,0.3.0,0,0,https://github.com/sxnnyside-project/debuggatha,Debuggatha cli: a senior code reviewer that cites a real source for every finding.
+2026-11-19T20:12:42.41607Z,aws-sdk-partnercentralmarketing,1.0.0,0,0,https://github.com/awslabs/aws-sdk-rust,AWS SDK for Partner Central Marketing API
+2026-11-19T20:13:23.232602Z,neocogi-com-sdk,0.4.0-alpha.2,0,0,https://github.com/NeoCogi/neocogi-com,"Shared C-ABI COM SDK for interface callers, providers, and runtime API wrappers"
+2026-11-19T20:17:05.921358Z,lintel-iced,0.15.0-dev,0,0,https://github.com/iced-rs/iced,A cross-platform GUI library inspired by Elm
+2026-11-19T20:19:45.519556Z,aidaemon-terminal-bridge,0.21.0,0,0,https://github.com/davo20019/aidaemon,"The aidaemon terminal bridge: CLI coding agents in local PTYs, relayed end-to-end encrypted to the owner's chat sessions, plus the local attach, share and start commands; implementation crate of the…"

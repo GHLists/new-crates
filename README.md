@@ -8,42 +8,44 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-19 19:18 UTC
+## Latest list — 2026-11-19 20:20 UTC
 
-New crates published between 2026-11-19 18:20 UTC and 2026-11-19 19:18 UTC.
+New crates published between 2026-11-19 19:18 UTC and 2026-11-19 20:20 UTC.
 
-[Full CSV](data/new-crates-2026-11-19T19-18-47-852648Z.csv)
+[Full CSV](data/new-crates-2026-11-19T20-20-22-998647Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-19 18:22:09 | [gitserve](https://crates.io/crates/gitserve) | 1.0.1 | 0 | A little HTTP server exposing local bare Git repositories over the smart HTTP p… |
-| 2026-11-19 18:24:30 | [ironflowx-cell](https://crates.io/crates/ironflowx-cell) | 0.0.1 | 0 | The Ironflow X ledger: one environment's durable commit log and read store. Pla… |
-| 2026-11-19 18:24:32 | [ironflowx-events](https://crates.io/crates/ironflowx-events) | 0.0.1 | 0 | Ironflow X event rules: what an event is and when an emit is refused. Placehold… |
-| 2026-11-19 18:24:34 | [ironflowx-proto](https://crates.io/crates/ironflowx-proto) | 0.0.1 | 0 | The Ironflow X Operations interface and its request and answer types. Placehold… |
-| 2026-11-19 18:25:11 | [usagi-core](https://crates.io/crates/usagi-core) | 0.3.0 | 0 | Parser and static analysis for Unreal Engine 2 UnrealScript |
-| 2026-11-19 18:25:26 | [usagi-cli](https://crates.io/crates/usagi-cli) | 0.3.0 | 0 | Command-line parser, linter and mod build tool for Unreal Engine 2 UnrealScript |
-| 2026-11-19 18:26:12 | [pheon](https://crates.io/crates/pheon) | 0.3.0 | 0 | GDSII parsing, Arrow interchange, and structural layout review |
-| 2026-11-19 18:27:33 | [lintel-cef](https://crates.io/crates/lintel-cef) | 143.7.1+143.0.14 | 0 | Use cef in Rust |
-| 2026-11-19 18:29:01 | [aidaemon-eval](https://crates.io/crates/aidaemon-eval) | 0.21.0 | 0 | Scenario-based eval kit for aidaemon agents; implementation crate of the aidaem… |
-| 2026-11-19 18:38:07 | [incremental-client](https://crates.io/crates/incremental-client) | 0.1.0 | 0 | Rust client for the Incremental build-cache engine (Protocol v1, spawns `increm… |
-| 2026-11-19 18:39:05 | [aidaemon-exposure](https://crates.io/crates/aidaemon-exposure) | 0.21.0 | 0 | Exposure adapters for aidaemon: publish a loopback gateway through a supervised… |
-| 2026-11-19 18:40:38 | [llm-costcheck](https://crates.io/crates/llm-costcheck) | 0.1.0 | 0 | Your LLM cost tracking is wrong and nothing tells you. Finds hard-coded model p… |
-| 2026-11-19 18:44:22 | [secantus-compressors](https://crates.io/crates/secantus-compressors) | 0.5.3-beta.198 | 0 | The snappy and zstd libraries mongod 8.2 links, built from mongo's own copies,… |
-| 2026-11-19 18:49:07 | [aidaemon-macros](https://crates.io/crates/aidaemon-macros) | 0.21.0 | 0 | The #[tool] attribute macro for aidaemon agents; implementation crate of the ai… |
-| 2026-11-19 18:53:28 | [lintel-cryoglyph](https://crates.io/crates/lintel-cryoglyph) | 0.1.0 | 0 | Fast, simple 2D text rendering for wgpu. A fork of glyphon for iced. |
-| 2026-11-19 18:58:46 | [hn-reader](https://crates.io/crates/hn-reader) | 0.2.1 | 0 | Read Hacker News stories and comment threads in your terminal |
-| 2026-11-19 18:59:11 | [aidaemon-mcp](https://crates.io/crates/aidaemon-mcp) | 0.21.0 | 0 | Model Context Protocol client that exposes MCP server tools to aidaemon agents;… |
-| 2026-11-19 19:00:16 | [libkyrka-sys](https://crates.io/crates/libkyrka-sys) | 0.1.0 | 0 | Raw bindings for the libkyrka C library created by jorisvink, which is a networ… |
-| 2026-11-19 19:01:51 | [tovtg](https://crates.io/crates/tovtg) | 0.1.2 | 0 | Tiny async library for sending files to Telegram via the Bot API. No logging, n… |
-| 2026-11-19 19:02:36 | [dwgpdf](https://crates.io/crates/dwgpdf) | 1.0.1 | 0 | Convert DXF, DWG, and DWF drawings to PDF |
-| 2026-11-19 19:05:42 | [lintel-iced-wgpu](https://crates.io/crates/lintel-iced-wgpu) | 0.15.0-dev | 0 | A renderer for iced on top of wgpu |
-| 2026-11-19 19:05:53 | [lintel-iced-renderer](https://crates.io/crates/lintel-iced-renderer) | 0.15.0-dev | 0 | The official renderer for iced |
-| 2026-11-19 19:06:08 | [lintel-iced-test](https://crates.io/crates/lintel-iced-test) | 0.15.0-dev | 0 | A library for testing iced applications in headless mode |
-| 2026-11-19 19:06:19 | [lintel-iced-widget](https://crates.io/crates/lintel-iced-widget) | 0.15.0-dev | 0 | The built-in widgets for iced |
-| 2026-11-19 19:09:04 | [epistat-optim](https://crates.io/crates/epistat-optim) | 0.1.0 | 0 | BFGS with a More-Thuente line search, Nelder-Mead and a dense simplex method fo… |
-| 2026-11-19 19:09:15 | [aidaemon-memory](https://crates.io/crates/aidaemon-memory) | 0.21.0 | 0 | Swappable long-term memory for aidaemon agents: the MemoryStore traits plus SQL… |
-| 2026-11-19 19:11:49 | [smolvm-tar](https://crates.io/crates/smolvm-tar) | 0.4.46-smol.1 | 0 | A Rust implementation of a TAR file reader and writer. This library does not cu… |
-| 2026-11-19 19:14:07 | [did_methods](https://crates.io/crates/did_methods) | 0.1.0 | 0 | Reusable difference-in-differences primitives for event-study style analyses |
+| 2026-11-19 19:19:19 | [aidaemon-work](https://crates.io/crates/aidaemon-work) | 0.21.0 | 0 | Goals, mandates, tasks and work coordination with a SQLite store; internal to a… |
+| 2026-11-19 19:25:25 | [dleam](https://crates.io/crates/dleam) | 0.0.0 | 0 | Dleam CLI (coming soon). https://dleam.io |
+| 2026-11-19 19:25:27 | [dleam-cli](https://crates.io/crates/dleam-cli) | 0.0.0 | 0 | Dleam CLI (coming soon). https://dleam.io |
+| 2026-11-19 19:29:24 | [aidaemon-nodes](https://crates.io/crates/aidaemon-nodes) | 0.21.0 | 0 | Nodes for aidaemon agents: enrolled hardware companions with server-issued iden… |
+| 2026-11-19 19:30:13 | [matchmaker-mlua-bindings](https://crates.io/crates/matchmaker-mlua-bindings) | 0.1.8 | 0 | Portable built-in Lua modules for host applications embedding matchmaker |
+| 2026-11-19 19:34:00 | [cortexkit-fed-core](https://crates.io/crates/cortexkit-fed-core) | 0.1.0 | 0 | CortexKit federation protocol core: Noise sessions, frame codec, pairing codes… |
+| 2026-11-19 19:34:03 | [cortexkit-fed-client](https://crates.io/crates/cortexkit-fed-client) | 0.1.0 | 0 | Client side of the CortexKit federation protocol, for phones and desktop apps t… |
+| 2026-11-19 19:38:59 | [pollis-app](https://crates.io/crates/pollis-app) | 0.1.0 | 0 | Write a Pollis App in Rust: handlers, a typed context, the manifest and an offl… |
+| 2026-11-19 19:39:27 | [aidaemon-providers](https://crates.io/crates/aidaemon-providers) | 0.21.0 | 0 | LLM providers for aidaemon agents (OpenAI-compatible and Anthropic, streaming);… |
+| 2026-11-19 19:45:45 | [pasejo-protocol](https://crates.io/crates/pasejo-protocol) | 2026.11.19 | 0 | Wire types, encodings, cryptography and membership-log verification shared by p… |
+| 2026-11-19 19:45:47 | [pasejo-client](https://crates.io/crates/pasejo-client) | 2026.11.19 | 0 | Blocking client for pasejo-server: sessions, organizations, remote stores and a… |
+| 2026-11-19 19:45:47 | [pasejo-match](https://crates.io/crates/pasejo-match) | 2026.11.19 | 0 | Credential matching, look-alike domain detection and fill policies shared by pa… |
+| 2026-11-19 19:48:06 | [feralin](https://crates.io/crates/feralin) | 0.1.0 | 0 | Feralin UTP v1 istemcisi: izin kapılı olay, bellek içi kuyruk, üstel geri çekil… |
+| 2026-11-19 19:48:09 | [lintel-iced-devtools](https://crates.io/crates/lintel-iced-devtools) | 0.15.0-dev | 0 | Attachable developer tools for any iced program |
+| 2026-11-19 19:49:31 | [aidaemon-skills](https://crates.io/crates/aidaemon-skills) | 0.21.0 | 0 | Skills for aidaemon agents: markdown instructions loaded from a directory, matc… |
+| 2026-11-19 19:51:43 | [mdkg-session](https://crates.io/crates/mdkg-session) | 0.0.0 | 0 | Reserved for mdkg's session crate, which ships with mdkg 0.7.5. Internal to mdk… |
+| 2026-11-19 19:53:42 | [lintel-iced-tester](https://crates.io/crates/lintel-iced-tester) | 0.15.0-dev | 0 | A test recorder, editor, and runner for your iced applications |
+| 2026-11-19 19:59:37 | [aidaemon-runtime](https://crates.io/crates/aidaemon-runtime) | 0.21.0 | 0 | aidaemon's turn runtime: model routing and side calls, budgets, and the turn on… |
+| 2026-11-19 20:01:47 | [blue-lang-saturate](https://crates.io/crates/blue-lang-saturate) | 0.0.250 | 0 | Equality saturation over blue's erased trees: the one typed surface blue reache… |
+| 2026-11-19 20:05:32 | [moirai-quic](https://crates.io/crates/moirai-quic) | 0.12.0 | 0 | Bounded authenticated QUIC multiplexing over Moirai scheduling and socket readi… |
+| 2026-11-19 20:08:56 | [saltmill](https://crates.io/crates/saltmill) | 0.1.0 | 0 | Vanity address salt miner for CREATE2 and CREATE3 (CreateX) on the GPU and ever… |
+| 2026-11-19 20:09:41 | [aidaemon-sdk](https://crates.io/crates/aidaemon-sdk) | 0.21.0 | 0 | Build agents in Rust on the aidaemon kernel: one crate, a feature per subsystem… |
+| 2026-11-19 20:11:15 | [verticopolis-engine](https://crates.io/crates/verticopolis-engine) | 1.57.1 | 0 | The Verticopolis simulation engine: every rule, command, save format and gamepl… |
+| 2026-11-19 20:11:26 | [debuggatha-core](https://crates.io/crates/debuggatha-core) | 0.3.0 | 0 | Debuggatha core: a senior code reviewer that cites a real source for every find… |
+| 2026-11-19 20:11:46 | [debuggatha-engine](https://crates.io/crates/debuggatha-engine) | 0.3.0 | 0 | Debuggatha engine: a senior code reviewer that cites a real source for every fi… |
+| 2026-11-19 20:11:59 | [debuggatha-cli](https://crates.io/crates/debuggatha-cli) | 0.3.0 | 0 | Debuggatha cli: a senior code reviewer that cites a real source for every findi… |
+| 2026-11-19 20:12:42 | [aws-sdk-partnercentralmarketing](https://crates.io/crates/aws-sdk-partnercentralmarketing) | 1.0.0 | 0 | AWS SDK for Partner Central Marketing API |
+| 2026-11-19 20:13:23 | [neocogi-com-sdk](https://crates.io/crates/neocogi-com-sdk) | 0.4.0-alpha.2 | 0 | Shared C-ABI COM SDK for interface callers, providers, and runtime API wrappers |
+| 2026-11-19 20:17:05 | [lintel-iced](https://crates.io/crates/lintel-iced) | 0.15.0-dev | 0 | A cross-platform GUI library inspired by Elm |
+| 2026-11-19 20:19:45 | [aidaemon-terminal-bridge](https://crates.io/crates/aidaemon-terminal-bridge) | 0.21.0 | 0 | The aidaemon terminal bridge: CLI coding agents in local PTYs, relayed end-to-e… |
 
 ## Data source
 
