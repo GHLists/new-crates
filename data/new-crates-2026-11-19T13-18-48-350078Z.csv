@@ -1,0 +1,46 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-19T12:25:50.95367Z,ruwebos,0.1.0,0,0,https://github.com/ccc-claude-opus/ruwebos,"Launcher for ruwebos, a small OS whose user interface is the web browser: downloads the system image, boots it in ruvm and opens a browser"
+2026-11-19T12:26:05.451622Z,invisible-labs-frost-ed25519-hd,0.1.0,0,0,https://github.com/Invisible-Labs/frost-ed25519-hd,HD (non-hardened) key derivation for ZcashFoundation frost-ed25519
+2026-11-19T12:27:16.721868Z,mediawiki_upload,0.1.0,0,0,,Upload files to a MediaWiki wiki through its Action API
+2026-11-19T12:27:19.746339Z,dive-core,0.1.0,0,0,https://github.com/Chelis-Lang/dive,"The dive execution core for TLA+: value store, plan compiler, interpreter and successor generation"
+2026-11-19T12:32:18.040417Z,codewire-proto,0.1.0,0,0,https://github.com/codewiresh/codewire,Generated Connect-RPC contract types for the client-facing Codewire control-plane API.
+2026-11-19T12:32:20.592196Z,codewire,0.1.0,0,0,https://github.com/codewiresh/codewire,The Codewire Rust SDK: an ergonomic client for the public codewire.v1 API over Codewire's generated Connect-RPC stubs.
+2026-11-19T12:35:52.399962Z,fast-text-theme,0.5.0,0,0,https://github.com/Fast-Text-editor/Fast-text-editor,"The shared, TOML-based Fast Text theme schema used by every frontend."
+2026-11-19T12:37:24.456007Z,dive-eval,0.1.0,0,0,https://github.com/Chelis-Lang/dive,TLA+ expression and action evaluator with TLC's semantics
+2026-11-19T12:39:27.961586Z,publictransport,0.1.0,0,0,https://github.com/kiliankoe/publictransport,Client for public transport APIs that builds requests and parses responses without doing any I/O
+2026-11-19T12:39:52.682843Z,llvm-pass,0.1.1,0,0,https://github.com/AlbusPhos/llvm-pass,A framework for writing LLVM pass plugins in Rust via cxx FFI (LLVM 18-22)
+2026-11-19T12:40:02.17967Z,publictransport-client,0.1.0,0,0,https://github.com/kiliankoe/publictransport,"HTTP client for public transport APIs, built on publictransport and reqwest"
+2026-11-19T12:40:51.609695Z,sawe_macros,0.1.0,0,0,https://github.com/p1mo/sawe,marcos for sawe
+2026-11-19T12:43:31.655346Z,cubism-core,0.1.0,0,0,https://github.com/tsubaki39/cubism-rs,Safe FFI bindings and runtime loader for Live2D Cubism Core
+2026-11-19T12:44:09.43001Z,cubism-framework,0.1.0,0,0,https://github.com/tsubaki39/cubism-rs,"Live2D Cubism model assets, animation, physics, and effects runtime"
+2026-11-19T12:45:10.058847Z,cubism-wgpu,0.1.0,0,0,https://github.com/tsubaki39/cubism-rs,wgpu-based GPU renderer for Live2D Cubism models
+2026-11-19T12:45:43.154663Z,cubism-rs,0.1.0,0,0,https://github.com/tsubaki39/cubism-rs,"Load, animate, and render Live2D Cubism models using wgpu"
+2026-11-19T12:45:53.360824Z,tokstat,0.1.0,0,0,https://github.com/ltoddy/tokstat,统计目录下文本文件经 tokenizer 处理后的 token 量
+2026-11-19T12:46:19.771044Z,ztui-core,0.1.1,0,0,https://github.com/LIghtJUNction/ssmcp,"Allocation-free text row, geometry, and ANSI frame-diff primitives for Project Z"
+2026-11-19T12:47:22.061221Z,dive-model,0.1.0,0,0,https://github.com/Chelis-Lang/dive,Binding a TLA+ specification to its TLC model configuration
+2026-11-19T12:50:18.011118Z,grow-openbao,0.1.0,0,0,https://github.com/grow-codes-packages/openbao,Rust SDK for OpenBao by Grow Codes
+2026-11-19T12:51:05.038283Z,mde,0.1.0,0,0,https://github.com/pakeelz/mde,Builder and writer for Freedesktop Desktop Entry (.desktop) files on Linux
+2026-11-19T12:51:11.399126Z,anomalyco-opentui-sys,0.9.4,0,0,https://github.com/anomalyco/opentui,Raw FFI declarations for OpenTUI's checked C ABI (interim name of the opentui-sys crate)
+2026-11-19T12:51:14.415776Z,anomalyco-opentui,0.9.4,0,0,https://github.com/anomalyco/opentui,"OpenTUI's terminal UI framework for Rust, built on its native renderer (interim name of the opentui crate)"
+2026-11-19T12:51:17.365587Z,opentui-ssh,0.9.4,0,0,https://github.com/anomalyco/opentui,"Serve OpenTUI apps over SSH, one app per session"
+2026-11-19T12:55:23.437754Z,rightkit-dictation-pill,0.1.0,0,0,https://github.com/bogusyogi/rightkit,"The dictation pill: a recording capsule, a hint card and a clip card drawn as native layered overlays (Windows backend), plus the platform-neutral session logic around a pill (the full-screen and for…"
+2026-11-19T12:57:19.79909Z,dive-stdlib,0.1.0,0,0,https://github.com/Chelis-Lang/dive,TLA+ standard module support for model checking: TLC's randomness and the checker host
+2026-11-19T13:04:46.577603Z,lintel-build,0.1.0,0,0,https://github.com/looading/lintel,Build and package Lintel desktop applications
+2026-11-19T13:04:54.337442Z,lintel-lib-event,0.1.0,0,0,https://github.com/looading/lintel,Thread-safe event subscriptions and owned callback dispatch for Lintel applications
+2026-11-19T13:05:07.431253Z,lintel-lib-env,0.1.0,0,0,https://github.com/looading/lintel,Explicit process-wide application paths and environment settings for Lintel
+2026-11-19T13:05:13.892987Z,lintel-lib-crypto,0.1.0,0,0,https://github.com/looading/lintel,Low-level cryptographic primitives retained for Lintel storage compatibility
+2026-11-19T13:05:14.795798Z,grow-hashicorp-vault,0.1.0,0,0,https://github.com/grow-codes-packages/hashicorp-vault,Rust SDK for HashiCorp Vault by Grow Codes
+2026-11-19T13:05:21.60292Z,lintel-lib-jsb-macro,0.1.0,0,0,https://github.com/looading/lintel,Bridge registration macros for Lintel WebView integrations
+2026-11-19T13:07:16.107788Z,dive-sim,0.1.0,0,0,https://github.com/Chelis-Lang/dive,Seeded random simulation of TLA+ specifications
+2026-11-19T13:07:56.254297Z,openstack-vault,0.1.0,0,0,https://gitlab.com/alxgrk/openstack-vault,Securely store OpenStack credentials in the OS keystore and run commands with them
+2026-11-19T13:10:45.572027Z,turbo-dom-rav1d,1.1.0,0,0,https://github.com/miaskiewicz/turbo-dom,"turbo-dom fork of rav1d 1.1.0 (Rust port of the dav1d AV1 decoder): unwinding C ABI and the rav1d#1497 fix, so a decoder panic is catchable"
+2026-11-19T13:13:18.35215Z,renaissance-compiler-core,0.2.0,0,0,https://github.com/owlroute/renaissance,Internal compiler evidence and grammar construction for Renaissance
+2026-11-19T13:13:38.198067Z,renaissance-template-lexer,0.2.0,0,0,https://github.com/owlroute/renaissance,Internal bounded template lexer for Renaissance
+2026-11-19T13:14:07.097827Z,grow-infisical,0.1.0,0,0,https://github.com/grow-codes-packages/infisical,Rust SDK for Infisical by Grow Codes
+2026-11-19T13:14:54.970221Z,lintel-lib-config,0.1.0,0,0,https://github.com/looading/lintel,Generic runtime configuration and environment selection for Lintel applications
+2026-11-19T13:15:07.170588Z,lintel-lib-store,0.1.0,0,0,https://github.com/looading/lintel,Schema-aware persistent settings and migrations for Lintel applications
+2026-11-19T13:16:08.393624Z,luff-ignore,0.4.25,0,0,https://github.com/owlroute/luff,Luff's maintained fork of ignore for walking directories with gitignore rules
+2026-11-19T13:17:17.045081Z,dive-store,0.1.0,0,0,https://github.com/Chelis-Lang/dive,State fingerprints and disk-backed state storage for TLA+ model checking
+2026-11-19T13:17:43.79568Z,cuprite_wire_kicad_lib,0.1.0,0,0,https://github.com/hyranno/cuprite_wire,Reads KiCad symbol and footprint libraries and SPICE model libraries for cuprite_wire
+2026-11-19T13:17:46.371125Z,cuprite_wire_macros,0.1.0,0,0,https://github.com/hyranno/cuprite_wire,Procedural macros generating cuprite_wire parts from KiCad libraries
+2026-11-19T13:17:49.456116Z,cuprite_wire,0.1.0,0,0,https://github.com/hyranno/cuprite_wire,"Describe electronic circuits in Rust, test them with ERC and SPICE simulations, and hand them to the KiCad PCB editor (pcbnew) as a netlist"
