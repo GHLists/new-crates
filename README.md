@@ -8,63 +8,62 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-19 14:18 UTC
+## Latest list — 2026-11-19 15:18 UTC
 
-New crates published between 2026-11-19 13:18 UTC and 2026-11-19 14:18 UTC.
+New crates published between 2026-11-19 14:18 UTC and 2026-11-19 15:18 UTC.
 
-[Full CSV](data/new-crates-2026-11-19T14-18-51-557198Z.csv)
+[Full CSV](data/new-crates-2026-11-19T15-18-54-572853Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-19 13:19:07 | [job-limits](https://crates.io/crates/job-limits) | 0.1.0 | 0 | Memory limits for child processes, and a guard that cleans up the whole process… |
-| 2026-11-19 13:21:54 | [pawn-lib](https://crates.io/crates/pawn-lib) | 0.5.1 | 0 | egui widgets for two-dimensional (angular and wavelength dispersive) neutron po… |
-| 2026-11-19 13:25:48 | [reborn-formats](https://crates.io/crates/reborn-formats) | 0.1.0 | 0 | Parser and writer for Steam's text KeyValues files (VDF/ACF), with typed reader… |
-| 2026-11-19 13:25:53 | [grow-aws-secrets-manager](https://crates.io/crates/grow-aws-secrets-manager) | 0.1.0 | 0 | Rust SDK for AWS Secrets Manager by Grow Codes |
-| 2026-11-19 13:26:03 | [qso-graph-dxcluster](https://crates.io/crates/qso-graph-dxcluster) | 0.1.1 | 0 | Receive-only sans-I/O DX cluster and RBN session engine |
-| 2026-11-19 13:26:07 | [qso-graph-dxcluster-cli](https://crates.io/crates/qso-graph-dxcluster-cli) | 0.1.1 | 0 | Receive DX spots and replay recorded cluster sessions |
-| 2026-11-19 13:26:14 | [grow-openobserve](https://crates.io/crates/grow-openobserve) | 0.1.0 | 0 | Rust SDK for OpenObserve by Grow Codes |
-| 2026-11-19 13:26:29 | [grow-datadog-logs](https://crates.io/crates/grow-datadog-logs) | 0.1.0 | 0 | Rust SDK for Datadog Log Management by Grow Codes |
-| 2026-11-19 13:26:43 | [grow-graylog](https://crates.io/crates/grow-graylog) | 0.1.0 | 0 | Rust SDK for Graylog Open by Grow Codes |
-| 2026-11-19 13:26:46 | [grow-grafana-loki](https://crates.io/crates/grow-grafana-loki) | 0.1.0 | 0 | Rust SDK for Grafana Loki by Grow Codes |
-| 2026-11-19 13:27:37 | [dive-explore](https://crates.io/crates/dive-explore) | 0.1.0 | 0 | Breadth-first state-space exploration over compiled TLA+ plans |
-| 2026-11-19 13:30:52 | [emc2103](https://crates.io/crates/emc2103) | 0.1.0 | 0 | Platform-agnostic Rust driver for the EMC2103 RPM-based fan controller with tem… |
-| 2026-11-19 13:32:41 | [lintel-iced-core](https://crates.io/crates/lintel-iced-core) | 0.15.0-dev | 0 | The essential ideas of iced |
-| 2026-11-19 13:34:58 | [lintel-winit](https://crates.io/crates/lintel-winit) | 0.30.13 | 0 | Cross-platform window creation library. |
-| 2026-11-19 13:36:06 | [promptparse-rs](https://crates.io/crates/promptparse-rs) | 0.1.0 | 0 | Rust port of maythiwat/promptparse for parsing and generating PromptPay and EMV… |
-| 2026-11-19 13:37:15 | [dive-runtime](https://crates.io/crates/dive-runtime) | 0.1.0 | 0 | The run contract shared by dive's checking engines: options, budgets, results a… |
-| 2026-11-19 13:39:22 | [grow-signoz](https://crates.io/crates/grow-signoz) | 0.1.0 | 0 | Rust SDK for SigNoz by Grow Codes |
-| 2026-11-19 13:40:33 | [grow-aws-cloudwatch-logs](https://crates.io/crates/grow-aws-cloudwatch-logs) | 0.1.0 | 0 | Rust SDK for Amazon CloudWatch Logs by Grow Codes |
-| 2026-11-19 13:41:12 | [burrmill-parquet-source](https://crates.io/crates/burrmill-parquet-source) | 55.2.0 | 0 | DataFusion 55.2.0's Parquet data source with per-partition scan metrics, for bu… |
-| 2026-11-19 13:41:38 | [burrmill](https://crates.io/crates/burrmill) | 0.1.0 | 0 | SQL over sealed Parquet segments with exact integer arithmetic and refuse-on-ov… |
-| 2026-11-19 13:44:20 | [deps-precommit](https://crates.io/crates/deps-precommit) | 6.0.0 | 0 | pre-commit hook revision dependency support for deps-lsp |
-| 2026-11-19 13:44:59 | [lintel-accesskit-winit](https://crates.io/crates/lintel-accesskit-winit) | 0.34.0 | 0 | AccessKit UI accessibility infrastructure: winit adapter |
-| 2026-11-19 13:45:25 | [iq-files](https://crates.io/crates/iq-files) | 0.1.0 | 0 | High-performance reading and writing of I/Q complex signal files in various SDR… |
-| 2026-11-19 13:47:09 | [clearvisionnn-common](https://crates.io/crates/clearvisionnn-common) | 0.1.0 | 0 | Shared types: block grids, per-frame features, errors (part of clearvisionNN) |
-| 2026-11-19 13:47:12 | [clearvisionnn-preproc](https://crates.io/crates/clearvisionnn-preproc) | 0.1.0 | 0 | Pre-process: motion field and side planes from nanocodec's source analysis (par… |
-| 2026-11-19 13:47:15 | [clearvisionnn-runtime](https://crates.io/crates/clearvisionnn-runtime) | 0.1.0 | 0 | Runtime: per-stream state and everything around the network (upscale, warp, ble… |
-| 2026-11-19 13:47:18 | [clearvisionnn-models](https://crates.io/crates/clearvisionnn-models) | 0.1.0 | 0 | The released 8-bit models of clearvisionNN, for non-commercial use |
-| 2026-11-19 13:47:27 | [dive-liveness](https://crates.io/crates/dive-liveness) | 0.1.0 | 0 | Liveness and temporal property checking for TLA+ specifications |
-| 2026-11-19 13:47:45 | [clearvisionnn](https://crates.io/crates/clearvisionnn) | 0.1.0 | 0 | Fast causal 2x video super-resolution: the pre-process, the runtime and the 8-b… |
-| 2026-11-19 13:50:33 | [grow-better-stack-logs](https://crates.io/crates/grow-better-stack-logs) | 0.1.0 | 0 | Rust SDK for Better Stack Logs by Grow Codes |
-| 2026-11-19 13:53:05 | [cloudset](https://crates.io/crates/cloudset) | 0.2.0 | 0 | Sans-IO cloud storage client for WebDAV, Nextcloud, Dropbox, OneDrive and Googl… |
-| 2026-11-19 13:53:48 | [omni-sbe](https://crates.io/crates/omni-sbe) | 0.1.0 | 0 | Zero-copy SBE (Simple Binary Encoding) frame decoder for market-data ingestion… |
-| 2026-11-19 13:57:05 | [mhome-onboard-api](https://crates.io/crates/mhome-onboard-api) | 0.1.0 | 0 | Product onboarding wire contracts for Space Host, Pod and Wave devices |
-| 2026-11-19 13:57:10 | [lintel-desktop-platform](https://crates.io/crates/lintel-desktop-platform) | 0.1.0 | 0 | Audited native permission and window-menu boundary for lintel-desktop |
-| 2026-11-19 13:57:12 | [dive-trace](https://crates.io/crates/dive-trace) | 0.1.0 | 0 | TLA+ counterexample trace format and independent trace validation |
-| 2026-11-19 13:57:40 | [clearvisionnn-web](https://crates.io/crates/clearvisionnn-web) | 0.1.0 | 0 | Browser bindings: the runtime session as a WebAssembly module (part of clearvis… |
-| 2026-11-19 13:58:38 | [uncomfortable](https://crates.io/crates/uncomfortable) | 0.0.1 | 0 | Placeholder reserving the `uncomfortable` name for antimeme-ai |
-| 2026-11-19 14:00:33 | [grow-jaeger](https://crates.io/crates/grow-jaeger) | 0.1.0 | 0 | Rust SDK for Jaeger by Grow Codes |
-| 2026-11-19 14:04:56 | [lintel-iced-beacon](https://crates.io/crates/lintel-iced-beacon) | 0.15.0-dev | 0 | A client/server protocol to monitor and supervise iced applications |
-| 2026-11-19 14:05:22 | [gst-plugin-debugutils](https://crates.io/crates/gst-plugin-debugutils) | 0.0.0 | 0 | GStreamer debug utils plugin (placeholder) |
-| 2026-11-19 14:06:08 | [localca](https://crates.io/crates/localca) | 1.0.1 | 0 | Issue locally trusted TLS certificates |
-| 2026-11-19 14:07:09 | [dive-api](https://crates.io/crates/dive-api) | 0.1.0 | 0 | Embeddable Rust API of the dive TLA+ tools: parsing, semantic analysis, model c… |
-| 2026-11-19 14:10:33 | [grow-grafana-tempo](https://crates.io/crates/grow-grafana-tempo) | 0.1.0 | 0 | Rust SDK for Grafana Tempo by Grow Codes |
-| 2026-11-19 14:10:47 | [upland](https://crates.io/crates/upland) | 0.1.8 | 0 | HTTP API server with an embedded web UI |
-| 2026-11-19 14:12:29 | [gradus-cli](https://crates.io/crates/gradus-cli) | 0.1.2 | 0 | Command-line interface for Gradus. |
-| 2026-11-19 14:13:40 | [gst-plugin-audiomultimixer](https://crates.io/crates/gst-plugin-audiomultimixer) | 0.0.0 | 0 | GStreamer audio multi-mixer plugin (placeholder) |
-| 2026-11-19 14:15:14 | [lintel-iced-futures](https://crates.io/crates/lintel-iced-futures) | 0.15.0-dev | 0 | Commands, subscriptions, and future executors for iced |
-| 2026-11-19 14:15:26 | [overload-tui](https://crates.io/crates/overload-tui) | 0.5.0 | 0 | A macOS terminal tool to find and kill resource-hungry processes fast |
-| 2026-11-19 14:17:06 | [dive-cli](https://crates.io/crates/dive-cli) | 0.1.0 | 0 | The dive TLA+ model checker command-line tool, with a TLC-compatible `tlc` comm… |
+| 2026-11-19 14:20:33 | [grow-zipkin](https://crates.io/crates/grow-zipkin) | 0.1.1 | 0 | Rust SDK for Zipkin by Grow Codes |
+| 2026-11-19 14:20:58 | [epistat-rng](https://crates.io/crates/epistat-rng) | 0.1.0 | 0 | SplitMix64 streams and bootstrap draws that reproduce across threads, platforms… |
+| 2026-11-19 14:21:01 | [epistat-stats](https://crates.io/crates/epistat-stats) | 0.1.1 | 0 | Sample quantiles, the normal distribution and floating-point sums that agree wi… |
+| 2026-11-19 14:21:04 | [epistat-linalg](https://crates.io/crates/epistat-linalg) | 0.1.0 | 0 | Dense solves with fallbacks and row-blocked products on faer, with results that… |
+| 2026-11-19 14:21:15 | [toxtg](https://crates.io/crates/toxtg) | 0.1.2 | 0 | Tiny async library for sending files to Telegram via the Bot API. No logging, n… |
+| 2026-11-19 14:21:19 | [epistat-inference](https://crates.io/crates/epistat-inference) | 0.1.1 | 0 | Influence-function and sandwich variances, cluster-robust and bootstrap interva… |
+| 2026-11-19 14:25:20 | [lintel-iced-highlighter](https://crates.io/crates/lintel-iced-highlighter) | 0.15.0-dev | 0 | A syntax highlighter for iced |
+| 2026-11-19 14:26:06 | [besk](https://crates.io/crates/besk) | 0.1.1 | 0 | Это учебный проект для тестирования кибербезопасности. |
+| 2026-11-19 14:29:51 | [network-monitor-core](https://crates.io/crates/network-monitor-core) | 0.1.1 | 0 | Engine crate of network-monitor: packet capture, protocol decoders, flow tracki… |
+| 2026-11-19 14:29:55 | [database-monitor](https://crates.io/crates/database-monitor) | 0.1.0 | 0 | Zero-query passive terminal monitor for outbound database connections, traffic,… |
+| 2026-11-19 14:30:00 | [claude-monitor](https://crates.io/crates/claude-monitor) | 0.1.0 | 0 | Always-on localhost hub for Claude Code: OTLP intake, transcript index, hook sp… |
+| 2026-11-19 14:30:33 | [grow-datadog-apm](https://crates.io/crates/grow-datadog-apm) | 0.1.1 | 0 | Rust SDK for Datadog APM by Grow Codes |
+| 2026-11-19 14:30:36 | [rpi-office](https://crates.io/crates/rpi-office) | 0.1.1 | 0 | Drive Excel, Word and PowerPoint from rpi through the pi-for-office task-pane a… |
+| 2026-11-19 14:31:48 | [oxspec-core](https://crates.io/crates/oxspec-core) | 0.3.0-rc.1 | 0 | The engine behind OXspec, an independent Rust implementation of Xspec's spectra… |
+| 2026-11-19 14:33:14 | [oxspec](https://crates.io/crates/oxspec) | 0.3.0-rc.1 | 0 | The oxspec command: an independent Rust implementation of Xspec (developer inte… |
+| 2026-11-19 14:36:12 | [gst-rtmpx](https://crates.io/crates/gst-rtmpx) | 0.3.1 | 0 | GStreamer RTMP source and sink elements built on rtmpx |
+| 2026-11-19 14:36:26 | [wordsmith](https://crates.io/crates/wordsmith) | 0.1.0 | 0 | Screen reader friendly typing help for wxDragon text boxes, starting with @ment… |
+| 2026-11-19 14:37:06 | [neocogi-com-host-dylib](https://crates.io/crates/neocogi-com-host-dylib) | 0.4.0-alpha.1 | 0 | Native C bootstrap shim for the NeoCogi host runtime |
+| 2026-11-19 14:40:34 | [grow-opentelemetry-collector](https://crates.io/crates/grow-opentelemetry-collector) | 0.1.1 | 0 | Rust SDK for OpenTelemetry Collector by Grow Codes |
+| 2026-11-19 14:45:09 | [smbcloud-ascapi-xiaomi](https://crates.io/crates/smbcloud-ascapi-xiaomi) | 0.7.0 | 0 | Xiaomi GetApps developer interface: HMAC-SHA1 signed requests, order queries an… |
+| 2026-11-19 14:50:03 | [lintel-iced-selector](https://crates.io/crates/lintel-iced-selector) | 0.15.0-dev | 0 | A set of abstractions for selecting data from the widget tree |
+| 2026-11-19 14:50:14 | [lintel-process](https://crates.io/crates/lintel-process) | 0.1.0 | 0 | Lifecycle integration for application-owned Mojo service processes |
+| 2026-11-19 14:50:33 | [grow-apache-skywalking](https://crates.io/crates/grow-apache-skywalking) | 0.1.1 | 0 | Rust SDK for Apache SkyWalking by Grow Codes |
+| 2026-11-19 14:50:36 | [crossmap](https://crates.io/crates/crossmap) | 0.12.0 | 0 | A bidirectional crosswalk codec: one crosswalk document derives both directions… |
+| 2026-11-19 14:50:38 | [crossmap-cli](https://crates.io/crates/crossmap-cli) | 0.12.0 | 0 | The crossmap command: applies a crosswalk to JSON documents read from files, st… |
+| 2026-11-19 14:54:16 | [podras](https://crates.io/crates/podras) | 0.1.0 | 0 | Per-repository project status brief for humans and AI agents |
+| 2026-11-19 14:55:00 | [lintel-updater](https://crates.io/crates/lintel-updater) | 0.1.0 | 0 | Signed application updates for Lintel desktop apps |
+| 2026-11-19 14:56:18 | [gpui-kit-grid-macros](https://crates.io/crates/gpui-kit-grid-macros) | 2.0.0 | 0 | The derive macro of gpui-kit-grid. |
+| 2026-11-19 14:56:21 | [gpui-kit-grid](https://crates.io/crates/gpui-kit-grid) | 2.0.0 | 0 | A live data grid for GPUI applications built with gpui-kit: real-time rows by k… |
+| 2026-11-19 14:58:35 | [mgui-app-lifecycle](https://crates.io/crates/mgui-app-lifecycle) | 0.4.0 | 0 | 应用级功能生命周期事件与队列：Activated / Deactivated / Closed，零依赖 |
+| 2026-11-19 14:58:38 | [claude-session-selector](https://crates.io/crates/claude-session-selector) | 0.2.2 | 0 | TUI utilities for indexing, selecting, and replaying local Claude Code session… |
+| 2026-11-19 15:01:27 | [oi-kit-provider-types](https://crates.io/crates/oi-kit-provider-types) | 0.1.0-alpha.15 | 0 | An AI agent |
+| 2026-11-19 15:01:47 | [goose-acp-types](https://crates.io/crates/goose-acp-types) | 0.1.0-alpha.15 | 0 | Custom `_goose/*` ACP request and notification types for goose |
+| 2026-11-19 15:01:58 | [oi-kit-download-manager](https://crates.io/crates/oi-kit-download-manager) | 0.1.0-alpha.15 | 0 | An AI agent |
+| 2026-11-19 15:02:40 | [oi-kit-local-inference](https://crates.io/crates/oi-kit-local-inference) | 0.1.0-alpha.15 | 0 | An AI agent |
+| 2026-11-19 15:02:57 | [oi-kit-providers](https://crates.io/crates/oi-kit-providers) | 0.1.0-alpha.15 | 0 | An AI agent |
+| 2026-11-19 15:07:18 | [litz-core](https://crates.io/crates/litz-core) | 0.0.1 | 0 | Core traits and types for Litz, an open-source, modular firmware simulator that… |
+| 2026-11-19 15:07:37 | [litz-mcu](https://crates.io/crates/litz-mcu) | 0.0.1 | 0 | Generic microcontroller scaffolding for Litz: memory maps, interrupt controller… |
+| 2026-11-19 15:07:58 | [litz-esp](https://crates.io/crates/litz-esp) | 0.0.1 | 0 | ESP32-family chips for Litz: ESP32-C3/C6 RISC-V cores, memory maps, boot ROM lo… |
+| 2026-11-19 15:08:15 | [oi-kit-context-management](https://crates.io/crates/oi-kit-context-management) | 0.1.0-alpha.15 | 0 | Conversation compaction for Goose |
+| 2026-11-19 15:08:19 | [litz-wasm](https://crates.io/crates/litz-wasm) | 0.0.1 | 0 | WebAssembly bindings for Litz: run the same simulator in a browser, in Node, or… |
+| 2026-11-19 15:08:40 | [litz-cli](https://crates.io/crates/litz-cli) | 0.0.1 | 0 | Command-line runner for Litz firmware simulations, designed to work as a GitHub… |
+| 2026-11-19 15:09:22 | [strata_parallel](https://crates.io/crates/strata_parallel) | 0.1.0 | 0 | Multi-threaded parallel subtree reconciliation and layout engine for Strata |
+| 2026-11-19 15:09:22 | [strata_ui](https://crates.io/crates/strata_ui) | 0.1.0 | 0 | Comprehensive high-level component library and design system for Strata |
+| 2026-11-19 15:09:25 | [strata_mobile_test](https://crates.io/crates/strata_mobile_test) | 0.1.0 | 0 | Automated Mobile Testing, Pure-Rust ADB Client, Multi-Backend Emulator Orchestr… |
+| 2026-11-19 15:09:26 | [strata_sim](https://crates.io/crates/strata_sim) | 0.1.0 | 0 | Strata Native Mobile Device Simulator and Virtual Phone Operating System in Pur… |
+| 2026-11-19 15:09:27 | [strata_tui](https://crates.io/crates/strata_tui) | 0.1.0 | 0 | Terminal User Interface (TUI) target backend for Strata |
+| 2026-11-19 15:13:54 | [litz](https://crates.io/crates/litz) | 0.0.1 | 0 | Open-source, modular firmware simulator: one core, native and WebAssembly, no c… |
 
 ## Data source
 

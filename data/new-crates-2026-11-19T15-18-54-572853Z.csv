@@ -1,0 +1,49 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-19T14:20:33.947557Z,grow-zipkin,0.1.1,0,0,https://github.com/grow-codes-packages/zipkin,Rust SDK for Zipkin by Grow Codes
+2026-11-19T14:20:58.792273Z,epistat-rng,0.1.0,0,0,https://github.com/tkragholm/epistat,"SplitMix64 streams and bootstrap draws that reproduce across threads, platforms and languages"
+2026-11-19T14:21:01.580429Z,epistat-stats,0.1.1,0,0,https://github.com/tkragholm/epistat,"Sample quantiles, the normal distribution and floating-point sums that agree with R and Python to the bit"
+2026-11-19T14:21:04.027697Z,epistat-linalg,0.1.0,0,0,https://github.com/tkragholm/epistat,"Dense solves with fallbacks and row-blocked products on faer, with results that do not depend on the number of threads"
+2026-11-19T14:21:15.878256Z,toxtg,0.1.2,0,0,https://github.com/YOUR_USERNAME/toxid,"Tiny async library for sending files to Telegram via the Bot API. No logging, no tracing."
+2026-11-19T14:21:19.362023Z,epistat-inference,0.1.1,0,0,https://github.com/tkragholm/epistat,"Influence-function and sandwich variances, cluster-robust and bootstrap intervals that reproduce across thread counts"
+2026-11-19T14:25:20.885696Z,lintel-iced-highlighter,0.15.0-dev,0,0,https://github.com/iced-rs/iced,A syntax highlighter for iced
+2026-11-19T14:26:06.535499Z,besk,0.1.1,0,0,,Это учебный проект для тестирования кибербезопасности.
+2026-11-19T14:29:51.648601Z,network-monitor-core,0.1.1,0,0,https://github.com/jungho-dev/network-monitor,"Engine crate of network-monitor: packet capture, protocol decoders, flow tracking, display filters, process attribution, and the egress monitor core."
+2026-11-19T14:29:55.616033Z,database-monitor,0.1.0,0,0,https://github.com/jungho-dev/database-monitor,"Zero-query passive terminal monitor for outbound database connections, traffic, SQL payloads, and AI agent over-execution on Windows."
+2026-11-19T14:30:00.301755Z,claude-monitor,0.1.0,0,0,https://github.com/jungho-dev/claude-monitor,"Always-on localhost hub for Claude Code: OTLP intake, transcript index, hook speedups, API gateway, and a live TUI."
+2026-11-19T14:30:33.770484Z,grow-datadog-apm,0.1.1,0,0,https://github.com/grow-codes-packages/datadog-apm,Rust SDK for Datadog APM by Grow Codes
+2026-11-19T14:30:36.94603Z,rpi-office,0.1.1,0,0,https://github.com/pi-rust/rpi-package,"Drive Excel, Word and PowerPoint from rpi through the pi-for-office task-pane add-in (loopback WebSocket bridge + Office tool proxy)"
+2026-11-19T14:31:48.11549Z,oxspec-core,0.3.0-rc.1,0,0,https://gitlab.mpcdf.mpg.de/jgil/oxspec,"The engine behind OXspec, an independent Rust implementation of Xspec's spectral fitting"
+2026-11-19T14:33:14.039613Z,oxspec,0.3.0-rc.1,0,0,https://gitlab.mpcdf.mpg.de/jgil/oxspec,The oxspec command: an independent Rust implementation of Xspec (developer interface for now)
+2026-11-19T14:36:12.278625Z,gst-rtmpx,0.3.1,0,0,https://github.com/darfink/gst-rtmpx,GStreamer RTMP source and sink elements built on rtmpx
+2026-11-19T14:36:26.250133Z,wordsmith,0.1.0,0,0,https://github.com/accessware/wordsmith,"Screen reader friendly typing help for wxDragon text boxes, starting with @mention and #hashtag style completion"
+2026-11-19T14:37:06.727908Z,neocogi-com-host-dylib,0.4.0-alpha.1,0,0,https://github.com/NeoCogi/neocogi-com,Native C bootstrap shim for the NeoCogi host runtime
+2026-11-19T14:40:34.599665Z,grow-opentelemetry-collector,0.1.1,0,0,https://github.com/grow-codes-packages/opentelemetry-collector,Rust SDK for OpenTelemetry Collector by Grow Codes
+2026-11-19T14:45:09.280517Z,smbcloud-ascapi-xiaomi,0.7.0,0,0,https://github.com/smbcloudXYZ/smbcloud-ascapi,"Xiaomi GetApps developer interface: HMAC-SHA1 signed requests, order queries and the APK upload address."
+2026-11-19T14:50:03.556549Z,lintel-iced-selector,0.15.0-dev,0,0,https://github.com/iced-rs/iced,A set of abstractions for selecting data from the widget tree
+2026-11-19T14:50:14.309002Z,lintel-process,0.1.0,0,0,https://github.com/looading/lintel,Lifecycle integration for application-owned Mojo service processes
+2026-11-19T14:50:33.562934Z,grow-apache-skywalking,0.1.1,0,0,https://github.com/grow-codes-packages/apache-skywalking,Rust SDK for Apache SkyWalking by Grow Codes
+2026-11-19T14:50:36.061171Z,crossmap,0.12.0,0,0,https://github.com/ExaDev/crossmap,A bidirectional crosswalk codec: one crosswalk document derives both directions between a dataset's native JSON shape and a shared target shape.
+2026-11-19T14:50:38.576043Z,crossmap-cli,0.12.0,0,0,https://github.com/ExaDev/crossmap,"The crossmap command: applies a crosswalk to JSON documents read from files, standard input or URLs."
+2026-11-19T14:54:16.362202Z,podras,0.1.0,0,0,https://github.com/charly-vibes/podras,Per-repository project status brief for humans and AI agents
+2026-11-19T14:55:00.895176Z,lintel-updater,0.1.0,0,0,https://github.com/looading/lintel,Signed application updates for Lintel desktop apps
+2026-11-19T14:56:18.864409Z,gpui-kit-grid-macros,2.0.0,0,0,https://github.com/GigLaboCom/gpui-kit-grid,The derive macro of gpui-kit-grid.
+2026-11-19T14:56:21.969146Z,gpui-kit-grid,2.0.0,0,0,https://github.com/GigLaboCom/gpui-kit-grid,"A live data grid for GPUI applications built with gpui-kit: real-time rows by key from any thread, change highlight, and sorting, filtering, grouping and trees in the background."
+2026-11-19T14:58:35.417536Z,mgui-app-lifecycle,0.4.0,0,0,https://gitee.com/qianbai-studio/micagui,应用级功能生命周期事件与队列：Activated / Deactivated / Closed，零依赖
+2026-11-19T14:58:38.035358Z,claude-session-selector,0.2.2,0,0,https://github.com/widehyo1/claude-session-selector,"TUI utilities for indexing, selecting, and replaying local Claude Code session JSONL files."
+2026-11-19T15:01:27.666273Z,oi-kit-provider-types,0.1.0-alpha.15,0,0,https://github.com/aaif-goose/goose,An AI agent
+2026-11-19T15:01:47.923522Z,goose-acp-types,0.1.0-alpha.15,0,0,https://github.com/aaif-goose/goose,Custom `_goose/*` ACP request and notification types for goose
+2026-11-19T15:01:58.458927Z,oi-kit-download-manager,0.1.0-alpha.15,0,0,https://github.com/aaif-goose/goose,An AI agent
+2026-11-19T15:02:40.8261Z,oi-kit-local-inference,0.1.0-alpha.15,0,0,https://github.com/aaif-goose/goose,An AI agent
+2026-11-19T15:02:57.281757Z,oi-kit-providers,0.1.0-alpha.15,0,0,https://github.com/aaif-goose/goose,An AI agent
+2026-11-19T15:07:18.873177Z,litz-core,0.0.1,0,0,,"Core traits and types for Litz, an open-source, modular firmware simulator that runs natively and in WebAssembly."
+2026-11-19T15:07:37.095644Z,litz-mcu,0.0.1,0,0,,"Generic microcontroller scaffolding for Litz: memory maps, interrupt controllers, clock domains and CPU cores."
+2026-11-19T15:07:58.388486Z,litz-esp,0.0.1,0,0,,"ESP32-family chips for Litz: ESP32-C3/C6 RISC-V cores, memory maps, boot ROM loading and on-chip peripherals."
+2026-11-19T15:08:15.403121Z,oi-kit-context-management,0.1.0-alpha.15,0,0,https://github.com/aaif-goose/goose,Conversation compaction for Goose
+2026-11-19T15:08:19.527409Z,litz-wasm,0.0.1,0,0,,"WebAssembly bindings for Litz: run the same simulator in a browser, in Node, or under WASI."
+2026-11-19T15:08:40.608975Z,litz-cli,0.0.1,0,0,,"Command-line runner for Litz firmware simulations, designed to work as a GitHub Actions test step."
+2026-11-19T15:09:22.151217Z,strata_parallel,0.1.0,0,0,https://github.com/strataui/strata,Multi-threaded parallel subtree reconciliation and layout engine for Strata
+2026-11-19T15:09:22.73942Z,strata_ui,0.1.0,0,0,https://github.com/strataui/strata,Comprehensive high-level component library and design system for Strata
+2026-11-19T15:09:25.90606Z,strata_mobile_test,0.1.0,0,0,https://github.com/strataui/strata,"Automated Mobile Testing, Pure-Rust ADB Client, Multi-Backend Emulator Orchestration, and Foldable Posture Testing for Strata"
+2026-11-19T15:09:26.724847Z,strata_sim,0.1.0,0,0,https://github.com/strataui/strata,Strata Native Mobile Device Simulator and Virtual Phone Operating System in Pure Rust
+2026-11-19T15:09:27.637311Z,strata_tui,0.1.0,0,0,https://github.com/strataui/strata,Terminal User Interface (TUI) target backend for Strata
+2026-11-19T15:13:54.651714Z,litz,0.0.1,0,0,,"Open-source, modular firmware simulator: one core, native and WebAssembly, no cloud and no token."
