@@ -8,53 +8,43 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-19 04:21 UTC
+## Latest list — 2026-11-19 05:20 UTC
 
-New crates published between 2026-11-19 03:19 UTC and 2026-11-19 04:21 UTC.
+New crates published between 2026-11-19 04:21 UTC and 2026-11-19 05:20 UTC.
 
-[Full CSV](data/new-crates-2026-11-19T04-21-16-948699Z.csv)
+[Full CSV](data/new-crates-2026-11-19T05-20-54-45452Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-19 03:23:41 | [oxiview-platform](https://crates.io/crates/oxiview-platform) | 0.0.0-pre-alpha-2fa… | 0 | Native window, input and event loop interfaces for oxiview |
-| 2026-11-19 03:23:42 | [hakurei](https://crates.io/crates/hakurei) | 0.0.0 | 0 | Name reserved for a planned Open Gensokyo Network project. |
-| 2026-11-19 03:23:45 | [hatate](https://crates.io/crates/hatate) | 0.0.0 | 0 | Name reserved for a planned Open Gensokyo Network project. |
-| 2026-11-19 03:23:48 | [kosuzu](https://crates.io/crates/kosuzu) | 0.0.0 | 0 | Name reserved for a planned Open Gensokyo Network project. |
-| 2026-11-19 03:23:51 | [komachi](https://crates.io/crates/komachi) | 0.0.0 | 0 | Name reserved for a planned Open Gensokyo Network project. |
-| 2026-11-19 03:23:53 | [eiki](https://crates.io/crates/eiki) | 0.0.0 | 0 | Name reserved for a planned Open Gensokyo Network project. |
-| 2026-11-19 03:27:03 | [langchainrust-cli](https://crates.io/crates/langchainrust-cli) | 0.31.0 | 0 | Command-line interface for langchainrust: init, run, serve, eval. |
-| 2026-11-19 03:27:31 | [zerokms-keyset](https://crates.io/crates/zerokms-keyset) | 0.3.3 | 0 | CipherStash key generation library for ZeroKMS |
-| 2026-11-19 03:28:13 | [serenade-mailer](https://crates.io/crates/serenade-mailer) | 1.0.0 | 0 | Email message, Mime multipart tree, and Null/File/SMTP transports |
-| 2026-11-19 03:29:38 | [vl53l1x-driver](https://crates.io/crates/vl53l1x-driver) | 0.1.0 | 0 | Pure-Rust async and blocking embedded-hal driver for the STMicroelectronics VL5… |
-| 2026-11-19 03:32:24 | [termux-settings](https://crates.io/crates/termux-settings) | 1.4.0 | 0 | A keyboard-driven TUI for Termux terminal colours, app theme and fonts |
-| 2026-11-19 03:33:41 | [oxiview-scene](https://crates.io/crates/oxiview-scene) | 0.0.0-pre-alpha-2fa… | 0 | Retained drawing primitives and scene encoding for oxiview |
-| 2026-11-19 03:33:58 | [sumireko](https://crates.io/crates/sumireko) | 0.0.0 | 0 | Name reserved for a planned Open Gensokyo Network project. |
-| 2026-11-19 03:38:14 | [serenade-minify](https://crates.io/crates/serenade-minify) | 1.0.0 | 0 | HTML and inline JavaScript minification for Serenade |
-| 2026-11-19 03:43:40 | [oxiview-style](https://crates.io/crates/oxiview-style) | 0.0.0-pre-alpha-2fa… | 0 | Typed styles and layout properties for native oxiview UI nodes |
-| 2026-11-19 03:44:03 | [renko](https://crates.io/crates/renko) | 0.0.0 | 0 | Name reserved for a planned Open Gensokyo Network project. |
-| 2026-11-19 03:45:30 | [toddstack-accounts-server-sdk](https://crates.io/crates/toddstack-accounts-server-sdk) | 0.9.1 | 0 | Client for Todd Griffin's Projects accounts: OIDC sign-in, token checks, signed… |
-| 2026-11-19 03:46:59 | [cost-partition](https://crates.io/crates/cost-partition) | 0.1.0 | 0 | Cost partitioning (saturated, max-over-orders) over arbitrary planning abstract… |
-| 2026-11-19 03:48:14 | [serenade-notifier](https://crates.io/crates/serenade-notifier) | 1.0.0 | 0 | SMS and push notification channels with Null and in-memory transports |
-| 2026-11-19 03:50:37 | [glotzkiste-render](https://crates.io/crates/glotzkiste-render) | 1.2.1 | 0 | D3D11 renderer for Glotzkiste: stream textures, egui renderer, render workers,… |
-| 2026-11-19 03:53:43 | [oxiview-text](https://crates.io/crates/oxiview-text) | 0.0.0-pre-alpha-2fa… | 0 | Native text shaping, measurement and glyph rasterization for oxiview |
-| 2026-11-19 03:54:09 | [maribel](https://crates.io/crates/maribel) | 0.0.0 | 0 | Name reserved for a planned Open Gensokyo Network project. |
-| 2026-11-19 03:57:21 | [xwb](https://crates.io/crates/xwb) | 0.0.1 | 0 | xwb Module |
-| 2026-11-19 03:58:14 | [serenade-observability](https://crates.io/crates/serenade-observability) | 1.0.0 | 0 | Structured logging conventions: tracing init, channels, var/log file sinks |
-| 2026-11-19 04:03:45 | [oxiview-core](https://crates.io/crates/oxiview-core) | 0.0.0-pre-alpha-2fa… | 0 | Retained UI nodes, typed view builders and the oxiview window loop |
-| 2026-11-19 04:07:34 | [structured_digest](https://crates.io/crates/structured_digest) | 0.1.0 | 0 | Structured hashing of Rust values using SequenceHash |
-| 2026-11-19 04:07:39 | [osslag](https://crates.io/crates/osslag) | 0.1.0 | 0 | Technical Lag tools for Open Source Software Projects |
-| 2026-11-19 04:08:13 | [serenade-profiler](https://crates.io/crates/serenade-profiler) | 1.0.0 | 0 | Web debug toolbar and per-request profiler for Serenade HTML apps |
-| 2026-11-19 04:09:45 | [timebridge](https://crates.io/crates/timebridge) | 0.1.0 | 0 | Engine-neutral temporal vocabulary for Rust library boundaries: Timestamp, Exac… |
-| 2026-11-19 04:09:47 | [timebridge-chrono](https://crates.io/crates/timebridge-chrono) | 0.1.0 | 0 | Lossless conversions between timebridge and Chrono. |
-| 2026-11-19 04:09:48 | [timebridge-clock](https://crates.io/crates/timebridge-clock) | 0.1.0 | 0 | System, fixed and manually driven clocks implementing the timebridge clock trai… |
-| 2026-11-19 04:09:48 | [timebridge-jiff](https://crates.io/crates/timebridge-jiff) | 0.1.0 | 0 | Lossless conversions between timebridge and Jiff. |
-| 2026-11-19 04:09:57 | [timebridge-time](https://crates.io/crates/timebridge-time) | 0.1.0 | 0 | Lossless conversions between timebridge and the time crate. |
-| 2026-11-19 04:13:41 | [oxiview-platform-headless](https://crates.io/crates/oxiview-platform-headless) | 0.0.0-pre-alpha-2fa… | 0 | Deterministic headless window and input backend for oxiview |
-| 2026-11-19 04:18:13 | [serenade-rate-limiter](https://crates.io/crates/serenade-rate-limiter) | 1.0.0 | 0 | Symfony-shaped rate limiter policies, consume API, and storage adapters |
-| 2026-11-19 04:20:12 | [rhue-common](https://crates.io/crates/rhue-common) | 1.0.0 | 0 | Shared source files, spans and diagnostics for the Rhue scripting language |
-| 2026-11-19 04:20:36 | [rhue-lexer](https://crates.io/crates/rhue-lexer) | 1.0.0 | 0 | Lexer for the Rhue scripting language |
-| 2026-11-19 04:20:42 | [rhue-derive](https://crates.io/crates/rhue-derive) | 1.0.0 | 0 | #[derive(UserData)] for Rhue |
-| 2026-11-19 04:21:06 | [rhue-parser](https://crates.io/crates/rhue-parser) | 1.0.0 | 0 | Parser and syntax tree for the Rhue scripting language |
+| 2026-11-19 04:22:11 | [rhue-bytecode](https://crates.io/crates/rhue-bytecode) | 1.0.0 | 0 | Rhue bytecode: instructions, prototypes, the saved-chunk format and the verifier |
+| 2026-11-19 04:22:38 | [wow-patcher](https://crates.io/crates/wow-patcher) | 0.1.0 | 0 | World of Warcraft client patcher for TrinityCore private servers |
+| 2026-11-19 04:22:57 | [yach-rig-core](https://crates.io/crates/yach-rig-core) | 0.1.0 | 0 | rig-core 0.41.0 with yach's patches, published for yach. Not a general-purpose… |
+| 2026-11-19 04:23:41 | [oxiview-platform-macos](https://crates.io/crates/oxiview-platform-macos) | 0.0.0-pre-alpha-2fa… | 0 | AppKit and Metal window integration for oxiview on macOS |
+| 2026-11-19 04:28:13 | [serenade-session](https://crates.io/crates/serenade-session) | 1.0.0 | 0 | Session bag, flash bag, SessionStore, cookie session, and HTTP middleware |
+| 2026-11-19 04:28:18 | [cacheguru](https://crates.io/crates/cacheguru) | 0.1.0 | 0 | Go-style TTL cache for Rust - thread-safe in-memory cache with expiry, LRU-styl… |
+| 2026-11-19 04:29:40 | [trustbelt-domain](https://crates.io/crates/trustbelt-domain) | 0.0.0 | 0 | The domain layer of the TrustBelt framework. Placeholder release: nothing is pu… |
+| 2026-11-19 04:33:06 | [rally-cli](https://crates.io/crates/rally-cli) | 0.1.0-rc.1 | 0 | Command-line client for Rally's self-hosted missions, agents and conversations |
+| 2026-11-19 04:33:32 | [rhue-compiler](https://crates.io/crates/rhue-compiler) | 1.0.0 | 0 | Compiles Rhue syntax trees to register bytecode |
+| 2026-11-19 04:33:41 | [oxiview-render-cpu](https://crates.io/crates/oxiview-render-cpu) | 0.0.0-pre-alpha-2fa… | 0 | CPU rendering of oxiview scenes for headless applications and pixel tests |
+| 2026-11-19 04:35:21 | [kyouko](https://crates.io/crates/kyouko) | 0.0.0 | 0 | Name reserved for a planned Open Gensokyo Network project. |
+| 2026-11-19 04:36:26 | [driftr](https://crates.io/crates/driftr) | 0.2.0 | 0 | Automatic, recoverable working history for AI-assisted development, stored in p… |
+| 2026-11-19 04:38:13 | [serenade-validator](https://crates.io/crates/serenade-validator) | 1.0.0 | 0 | Constraint validation for DTOs and messenger commands |
+| 2026-11-19 04:43:42 | [oxiview-render-wgpu](https://crates.io/crates/oxiview-render-wgpu) | 0.0.0-pre-alpha-2fa… | 0 | GPU rendering and native surface presentation for oxiview scenes |
+| 2026-11-19 04:45:51 | [rhue-vm](https://crates.io/crates/rhue-vm) | 1.0.0 | 0 | The Rhue virtual machine: values, tables, the garbage collector, coroutines and… |
+| 2026-11-19 04:48:13 | [serenade-workflow](https://crates.io/crates/serenade-workflow) | 1.0.0 | 0 | State machine places, transitions, guards, and marking store |
+| 2026-11-19 04:50:53 | [glotzkiste](https://crates.io/crates/glotzkiste) | 1.2.1 | 0 | Glotzkiste: watch many Twitch streams and chats at once on Windows, in tabs and… |
+| 2026-11-19 04:51:54 | [resumable-worker](https://crates.io/crates/resumable-worker) | 0.1.1 | 0 | Portable polling worker runtime for resumable operations |
+| 2026-11-19 04:52:19 | [resumable-store-postgres-sqlx](https://crates.io/crates/resumable-store-postgres-sqlx) | 0.1.1 | 0 | PostgreSQL and SQLx store adapter for resumable operations |
+| 2026-11-19 04:53:44 | [oxiview-app](https://crates.io/crates/oxiview-app) | 0.0.0-pre-alpha-2fa… | 0 | Application composition for native macOS and headless oxiview windows |
+| 2026-11-19 04:58:00 | [meiling](https://crates.io/crates/meiling) | 0.0.0 | 0 | Name reserved for a planned Open Gensokyo Network project. |
+| 2026-11-19 04:58:14 | [serenade-scheduler](https://crates.io/crates/serenade-scheduler) | 1.0.0 | 0 | Symfony-shaped schedule definitions and a testable tick runner |
+| 2026-11-19 05:02:24 | [rhue-types](https://crates.io/crates/rhue-types) | 1.0.0 | 0 | Rhue's type checker (Luau-style gradual typing) |
+| 2026-11-19 05:02:39 | [rhue-fmt](https://crates.io/crates/rhue-fmt) | 1.0.0 | 0 | Formatter for Rhue source code |
+| 2026-11-19 05:08:13 | [serenade-security](https://crates.io/crates/serenade-security) | 1.0.0 | 0 | AuthN/Z hooks: users, tokens, voters, firewall, CSRF, and password hashing |
+| 2026-11-19 05:12:22 | [rhue](https://crates.io/crates/rhue) | 1.0.0 | 0 | An embeddable, Luau-flavoured scripting language for Rust: register functions,… |
+| 2026-11-19 05:18:13 | [serenade-bundle](https://crates.io/crates/serenade-bundle) | 1.0.0 | 0 | Bundle interface and composition helpers |
+| 2026-11-19 05:20:29 | [rhue-cli](https://crates.io/crates/rhue-cli) | 1.0.0 | 0 | The rhue command: run Rhue scripts, a REPL, a test runner, a formatter and byte… |
+| 2026-11-19 05:20:51 | [inkling-dev](https://crates.io/crates/inkling-dev) | 0.4.0 | 0 | Tells an agent when a pull request, Jira issue or Slack message it cares about… |
 
 ## Data source
 

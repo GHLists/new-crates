@@ -1,0 +1,30 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-19T04:22:11.377589Z,rhue-bytecode,1.0.0,0,0,https://github.com/rhuelang/rhue,"Rhue bytecode: instructions, prototypes, the saved-chunk format and the verifier"
+2026-11-19T04:22:38.458666Z,wow-patcher,0.1.0,0,0,https://github.com/wowemulation-dev/wow-patcher,World of Warcraft client patcher for TrinityCore private servers
+2026-11-19T04:22:57.174475Z,yach-rig-core,0.1.0,0,0,https://github.com/codyw912/yach,"rig-core 0.41.0 with yach's patches, published for yach. Not a general-purpose Rig release; use rig-core."
+2026-11-19T04:23:41.313122Z,oxiview-platform-macos,0.0.0-pre-alpha-2fa768d,0,0,https://github.com/oxiview/oxiview,AppKit and Metal window integration for oxiview on macOS
+2026-11-19T04:28:13.765244Z,serenade-session,1.0.0,0,0,https://github.com/Interchouette-ITC/Serenade,"Session bag, flash bag, SessionStore, cookie session, and HTTP middleware"
+2026-11-19T04:28:18.114902Z,cacheguru,0.1.0,0,0,https://github.com/StarcevAlexander/cacheguru,"Go-style TTL cache for Rust - thread-safe in-memory cache with expiry, LRU-style eviction and hit/miss stats, zero dependencies"
+2026-11-19T04:29:40.5484Z,trustbelt-domain,0.0.0,0,0,https://github.com/trustbelt/trustbelt,The domain layer of the TrustBelt framework. Placeholder release: nothing is published here yet.
+2026-11-19T04:33:06.226311Z,rally-cli,0.1.0-rc.1,0,0,https://github.com/arctic-hen7/rally,"Command-line client for Rally's self-hosted missions, agents and conversations"
+2026-11-19T04:33:32.771385Z,rhue-compiler,1.0.0,0,0,https://github.com/rhuelang/rhue,Compiles Rhue syntax trees to register bytecode
+2026-11-19T04:33:41.45246Z,oxiview-render-cpu,0.0.0-pre-alpha-2fa768d,0,0,https://github.com/oxiview/oxiview,CPU rendering of oxiview scenes for headless applications and pixel tests
+2026-11-19T04:35:21.318034Z,kyouko,0.0.0,0,0,,Name reserved for a planned Open Gensokyo Network project.
+2026-11-19T04:36:26.542404Z,driftr,0.2.0,0,0,https://github.com/dpep/driftr,"Automatic, recoverable working history for AI-assisted development, stored in plain git."
+2026-11-19T04:38:13.276332Z,serenade-validator,1.0.0,0,0,https://github.com/Interchouette-ITC/Serenade,Constraint validation for DTOs and messenger commands
+2026-11-19T04:43:42.870166Z,oxiview-render-wgpu,0.0.0-pre-alpha-2fa768d,0,0,https://github.com/oxiview/oxiview,GPU rendering and native surface presentation for oxiview scenes
+2026-11-19T04:45:51.623973Z,rhue-vm,1.0.0,0,0,https://github.com/rhuelang/rhue,"The Rhue virtual machine: values, tables, the garbage collector, coroutines and the standard library"
+2026-11-19T04:48:13.189958Z,serenade-workflow,1.0.0,0,0,https://github.com/Interchouette-ITC/Serenade,"State machine places, transitions, guards, and marking store"
+2026-11-19T04:50:53.937018Z,glotzkiste,1.2.1,0,0,https://github.com/rennerdo30/glotzkiste,"Glotzkiste: watch many Twitch streams and chats at once on Windows, in tabs and free tile layouts, hardware decoded on every GPU."
+2026-11-19T04:51:54.540112Z,resumable-worker,0.1.1,0,0,https://github.com/Natoandro/resumable,Portable polling worker runtime for resumable operations
+2026-11-19T04:52:19.584398Z,resumable-store-postgres-sqlx,0.1.1,0,0,https://github.com/Natoandro/resumable,PostgreSQL and SQLx store adapter for resumable operations
+2026-11-19T04:53:44.487035Z,oxiview-app,0.0.0-pre-alpha-2fa768d,0,0,https://github.com/oxiview/oxiview,Application composition for native macOS and headless oxiview windows
+2026-11-19T04:58:00.218715Z,meiling,0.0.0,0,0,,Name reserved for a planned Open Gensokyo Network project.
+2026-11-19T04:58:14.551111Z,serenade-scheduler,1.0.0,0,0,https://github.com/Interchouette-ITC/Serenade,Symfony-shaped schedule definitions and a testable tick runner
+2026-11-19T05:02:24.570882Z,rhue-types,1.0.0,0,0,https://github.com/rhuelang/rhue,Rhue's type checker (Luau-style gradual typing)
+2026-11-19T05:02:39.906996Z,rhue-fmt,1.0.0,0,0,https://github.com/rhuelang/rhue,Formatter for Rhue source code
+2026-11-19T05:08:13.338286Z,serenade-security,1.0.0,0,0,https://github.com/Interchouette-ITC/Serenade,"AuthN/Z hooks: users, tokens, voters, firewall, CSRF, and password hashing"
+2026-11-19T05:12:22.256266Z,rhue,1.0.0,0,0,https://github.com/rhuelang/rhue,"An embeddable, Luau-flavoured scripting language for Rust: register functions, run scripts, check types"
+2026-11-19T05:18:13.861073Z,serenade-bundle,1.0.0,0,0,https://github.com/Interchouette-ITC/Serenade,Bundle interface and composition helpers
+2026-11-19T05:20:29.849867Z,rhue-cli,1.0.0,0,0,https://github.com/rhuelang/rhue,"The rhue command: run Rhue scripts, a REPL, a test runner, a formatter and bytecode compilation"
+2026-11-19T05:20:51.556123Z,inkling-dev,0.4.0,0,0,https://github.com/dpep/inkling,"Tells an agent when a pull request, Jira issue or Slack message it cares about changes."
