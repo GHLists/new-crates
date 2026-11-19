@@ -8,46 +8,45 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-19 17:22 UTC
+## Latest list — 2026-11-19 18:20 UTC
 
-New crates published between 2026-11-19 16:19 UTC and 2026-11-19 17:22 UTC.
+New crates published between 2026-11-19 17:22 UTC and 2026-11-19 18:20 UTC.
 
-[Full CSV](data/new-crates-2026-11-19T17-22-00-046756Z.csv)
+[Full CSV](data/new-crates-2026-11-19T18-20-21-766431Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-19 16:19:38 | [lintel-wgpu-core-deps-emscripten](https://crates.io/crates/lintel-wgpu-core-deps-emscripten) | 28.0.1 | 0 | Feature unification helper crate for the Emscripten platform |
-| 2026-11-19 16:19:43 | [lintel-wgpu-core-deps-wasm](https://crates.io/crates/lintel-wgpu-core-deps-wasm) | 28.0.1 | 0 | Feature unification helper crate for the WebAssembly platform |
-| 2026-11-19 16:21:34 | [sequoia-seq-macros](https://crates.io/crates/sequoia-seq-macros) | 0.1.6 | 0 | Sequoia GUI framework - compile-time typed bindings for .seq files |
-| 2026-11-19 16:22:42 | [openai-client-base-untagged](https://crates.io/crates/openai-client-base-untagged) | 0.37.0 | 0 | Internal part of openai-client-base: the models no operation uses, which the fe… |
-| 2026-11-19 16:25:52 | [epistat-survival](https://crates.io/crates/epistat-survival) | 0.1.0 | 0 | Cox regression, Fine-Gray, Aalen-Johansen, multi-state occupation and the Titma… |
-| 2026-11-19 16:25:57 | [epistat-sequences](https://crates.io/crates/epistat-sequences) | 0.1.0 | 0 | Optimal-matching, Hamming and dynamic Hamming distances between state sequences… |
-| 2026-11-19 16:26:01 | [epistat-register](https://crates.io/crates/epistat-register) | 0.1.0 | 0 | Calendar-year person-time, interval merging, connected components over shared k… |
-| 2026-11-19 16:28:19 | [aidaemon-events](https://crates.io/crates/aidaemon-events) | 0.21.0 | 0 | Immutable event store, payloads and run aggregate; internal to aidaemon, no sta… |
-| 2026-11-19 16:31:56 | [loopscale](https://crates.io/crates/loopscale) | 0.0.1 | 0 | Name reservation for the LoopScale CLI and SDK. No functionality yet. |
-| 2026-11-19 16:32:52 | [lenovo-laptop-control-core](https://crates.io/crates/lenovo-laptop-control-core) | 1.1.0 | 0 | Core domain types and error model for Vantage hardware control |
-| 2026-11-19 16:33:04 | [lenovo-laptop-control-hal](https://crates.io/crates/lenovo-laptop-control-hal) | 1.1.0 | 0 | Hardware abstraction traits for Vantage |
-| 2026-11-19 16:33:13 | [lenovo-laptop-control-hal-linux](https://crates.io/crates/lenovo-laptop-control-hal-linux) | 1.1.0 | 0 | Linux HAL backend for Vantage (ideapad/sysfs/RAPL) |
-| 2026-11-19 16:33:23 | [lenovo-laptop-control-hal-win](https://crates.io/crates/lenovo-laptop-control-hal-win) | 1.1.0 | 0 | Windows HAL backend for Vantage (WMI/IOCTL/RPC) |
-| 2026-11-19 16:33:32 | [lenovo-laptop-control-tune](https://crates.io/crates/lenovo-laptop-control-tune) | 1.1.0 | 0 | Panther Lake tuning engine for Vantage |
-| 2026-11-19 16:35:32 | [tag2digest](https://crates.io/crates/tag2digest) | 0.1.0 | 0 | Track container image tags and record their digests in a lockfile |
-| 2026-11-19 16:38:23 | [aidaemon-channels](https://crates.io/crates/aidaemon-channels) | 0.21.0 | 0 | Chat channel contract and the runner that connects channels to aidaemon agents |
-| 2026-11-19 16:39:35 | [lintel-wgpu-core-deps-windows-linux-android](https://crates.io/crates/lintel-wgpu-core-deps-windows-linux-android) | 28.0.1 | 0 | Feature unification helper crate for the Windows/Linux/Android platforms |
-| 2026-11-19 16:39:46 | [lintel-iced-program](https://crates.io/crates/lintel-iced-program) | 0.15.0-dev | 0 | The definition of an iced program |
-| 2026-11-19 16:46:07 | [vdma-lif](https://crates.io/crates/vdma-lif) | 0.1.0 | 0 | Rust types for the VDMA LIF 2.0.0 (Layout Interchange Format) JSON layouts |
-| 2026-11-19 16:48:27 | [aidaemon-channel-discord](https://crates.io/crates/aidaemon-channel-discord) | 0.21.0 | 0 | Discord adapter for aidaemon channels; implementation crate of the aidaemon SDK… |
-| 2026-11-19 16:48:50 | [earwig-core](https://crates.io/crates/earwig-core) | 2026.11.1 | 0 | Core of the earwig music recommender: track index and hybrid audio/text/BPM sco… |
-| 2026-11-19 16:48:52 | [earwig-analysis](https://crates.io/crates/earwig-analysis) | 2026.11.1 | 0 | Audio analysis for earwig: decoding, MIR (BPM/key), CLAP audio embeddings + zer… |
-| 2026-11-19 16:48:56 | [earwig](https://crates.io/crates/earwig) | 2026.11.1 | 0 | Content-based music recommendation engine: index a music folder, find similar t… |
-| 2026-11-19 16:52:36 | [zhuyin-converter](https://crates.io/crates/zhuyin-converter) | 0.1.0 | 0 | Pinyin <-> zhuyin (bopomofo) conversion, Taiwan conventions |
-| 2026-11-19 16:57:41 | [editant](https://crates.io/crates/editant) | 0.0.0 | 0 | Placeholder: EditAnt, safe section-addressed editing of structured documents (M… |
-| 2026-11-19 16:58:31 | [aidaemon-channel-slack](https://crates.io/crates/aidaemon-channel-slack) | 0.21.0 | 0 | Slack adapter for aidaemon channels; implementation crate of the aidaemon SDK,… |
-| 2026-11-19 17:03:52 | [lintel-iced-tiny-skia](https://crates.io/crates/lintel-iced-tiny-skia) | 0.15.0-dev | 0 | A software renderer for iced on top of tiny-skia |
-| 2026-11-19 17:08:35 | [aidaemon-channel-telegram](https://crates.io/crates/aidaemon-channel-telegram) | 0.21.0 | 0 | Telegram adapter for aidaemon channels; implementation crate of the aidaemon SD… |
-| 2026-11-19 17:09:24 | [lintel-wgpu-core](https://crates.io/crates/lintel-wgpu-core) | 28.0.1 | 0 | Core implementation logic of wgpu, the cross-platform, safe, pure-rust graphics… |
-| 2026-11-19 17:10:41 | [dither-slint](https://crates.io/crates/dither-slint) | 0.1.0 | 0 | Dithered Slint component library |
-| 2026-11-19 17:11:50 | [cloud](https://crates.io/crates/cloud) | 0.1.0 | 0 | Fetch Vercel's public service status from Rust |
-| 2026-11-19 17:18:38 | [aidaemon-client-protocol](https://crates.io/crates/aidaemon-client-protocol) | 0.21.0 | 0 | Wire types of the AIdaemon Client Protocol v1 (/client/v1): the frames a TUI, w… |
+| 2026-11-19 17:23:39 | [cantongrid-postgres](https://crates.io/crates/cantongrid-postgres) | 0.3.0-alpha.4 | 0 | Restricted PostgreSQL connections and redacted database errors for CantonGrid. |
+| 2026-11-19 17:23:43 | [cantongrid-ledger](https://crates.io/crates/cantongrid-ledger) | 0.3.0-alpha.4 | 0 | Current Canton Ledger API user and party-grant verification for CantonGrid. |
+| 2026-11-19 17:23:45 | [cantongrid-models](https://crates.io/crates/cantongrid-models) | 0.3.0-alpha.4 | 0 | Declarative Daml contract projections, exact calculations, SQL and client type… |
+| 2026-11-19 17:23:46 | [cantongrid-pqs](https://crates.io/crates/cantongrid-pqs) | 0.3.0-alpha.4 | 0 | Read-only authorized Canton Participant Query Store snapshot and update paging. |
+| 2026-11-19 17:23:51 | [cantongrid-storage](https://crates.io/crates/cantongrid-storage) | 0.3.0-alpha.4 | 0 | Owned PostgreSQL lifecycle persistence, checkpoints and typed model projections… |
+| 2026-11-19 17:28:22 | [cantongrid-runtime](https://crates.io/crates/cantongrid-runtime) | 0.3.0-alpha.4 | 0 | Authenticated CantonGrid indexing workers and REST/GraphQL query services. |
+| 2026-11-19 17:28:41 | [aidaemon-client-core](https://crates.io/crates/aidaemon-client-core) | 0.21.0 | 0 | The shared core of AIdaemon's own clients: the Client Gateway link (reconnect,… |
+| 2026-11-19 17:32:34 | [cudo](https://crates.io/crates/cudo) | 0.1.0 | 0 | CUDO, the Consent and Use of Data Ontology, embedded with a small lookup API. |
+| 2026-11-19 17:33:22 | [lintel-iced-winit](https://crates.io/crates/lintel-iced-winit) | 0.15.0-dev | 0 | A runtime for iced on top of winit |
+| 2026-11-19 17:36:34 | [fluidattacks-observes-framework-domain](https://crates.io/crates/fluidattacks-observes-framework-domain) | 0.1.0 | 0 | Observes ETL framework functional core: pure types (no I/O) |
+| 2026-11-19 17:37:22 | [dlc_port](https://crates.io/crates/dlc_port) | 0.1.0 | 0 | Converts a console Mercenaries 2 DLC package (PS3 .pkg, Xbox 360 STFS/DOH) into… |
+| 2026-11-19 17:38:35 | [cantongrid-cli](https://crates.io/crates/cantongrid-cli) | 0.3.0-alpha.4 | 0 | CantonGrid CLI for authorized Daml contract indexing, model generation and quer… |
+| 2026-11-19 17:38:45 | [aidaemon-store-sqlite](https://crates.io/crates/aidaemon-store-sqlite) | 0.21.0 | 0 | SQLite run store for aidaemon agents (journal and checkpoints); implementation… |
+| 2026-11-19 17:42:13 | [fluidattacks-observes-framework](https://crates.io/crates/fluidattacks-observes-framework) | 0.1.0 | 0 | Observes ETL framework: land an ETL's tables in S3 as Parquet and publish them… |
+| 2026-11-19 17:44:28 | [pvlt-format](https://crates.io/crates/pvlt-format) | 0.1.0 | 0 | The pvlt v1 byte formats: sealed facts and blobs, wrapped keys, blind identifie… |
+| 2026-11-19 17:44:28 | [pvlt-mem](https://crates.io/crates/pvlt-mem) | 0.1.0 | 0 | Locked, guard-paged key memory and process hardening for pvlt. The only pvlt cr… |
+| 2026-11-19 17:44:29 | [pvlt-core](https://crates.io/crates/pvlt-core) | 0.1.0 | 0 | The pvlt engine: key hierarchy, Shamir seal and unseal, and the fact create, re… |
+| 2026-11-19 17:44:29 | [pvlt-policy](https://crates.io/crates/pvlt-policy) | 0.1.0 | 0 | The pvlt access policy: a strict default-deny JSON policy, its evaluator, and a… |
+| 2026-11-19 17:45:39 | [pvlt-server](https://crates.io/crates/pvlt-server) | 0.1.0 | 0 | The pvlt server and command: TLS 1.3 listeners, the /v2 and OPV-compatible APIs… |
+| 2026-11-19 17:48:48 | [aidaemon-surfaces](https://crates.io/crates/aidaemon-surfaces) | 0.21.0 | 0 | Live surfaces for aidaemon: screens the agent works on (a browser tab, a deskto… |
+| 2026-11-19 17:56:46 | [lintel-wgpu](https://crates.io/crates/lintel-wgpu) | 28.0.1 | 0 | Cross-platform, safe, pure-rust graphics API |
+| 2026-11-19 17:58:52 | [aidaemon-client-gateway](https://crates.io/crates/aidaemon-client-gateway) | 0.21.0 | 0 | The Client Gateway: serves the AIdaemon Client Protocol (/client/v1) over WebSo… |
+| 2026-11-19 18:08:40 | [sanctuary](https://crates.io/crates/sanctuary) | 0.1.0 | 0 | A single-user, versioned secrets vault. The Rust version of SafetyBox. |
+| 2026-11-19 18:08:55 | [aidaemon-coding-agents](https://crates.io/crates/aidaemon-coding-agents) | 0.21.0 | 0 | Coding agents an aidaemon agent hands work to (Claude Code, Codex, ...): the Co… |
+| 2026-11-19 18:10:01 | [t3d](https://crates.io/crates/t3d) | 0.1.0 | 0 | A parser for Unreal Engine T3D files |
+| 2026-11-19 18:15:24 | [podbag](https://crates.io/crates/podbag) | 0.1.0 | 0 | A container engine with no daemon, in one static binary, that stores images fil… |
+| 2026-11-19 18:15:36 | [x13](https://crates.io/crates/x13) | 0.1.0 | 0 | Pure-Rust X-13ARIMA-SEATS seasonal adjustment (X-11 and SEATS with regARIMA), c… |
+| 2026-11-19 18:15:36 | [agent86-core](https://crates.io/crates/agent86-core) | 1.1.0 | 0 | The agent behind agent86: a safe agent runtime you can embed |
+| 2026-11-19 18:17:53 | [rustomize-epub](https://crates.io/crates/rustomize-epub) | 1.0.2 | 0 | High-performance EPUB optimizer for e-ink devices |
+| 2026-11-19 18:17:59 | [xsvg-path-ops](https://crates.io/crates/xsvg-path-ops) | 0.3.0 | 0 | Boolean operations on SVG paths with the curves kept — the algebra behind xsvg'… |
+| 2026-11-19 18:18:58 | [aidaemon-decisions](https://crates.io/crates/aidaemon-decisions) | 0.21.0 | 0 | Decision backends that answer closed questions with a confidence; internal to a… |
 
 ## Data source
 
