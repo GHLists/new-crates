@@ -1,0 +1,50 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-19T13:19:07.552266Z,job-limits,0.1.0,0,0,https://github.com/lovelygenerator/job-limits,"Memory limits for child processes, and a guard that cleans up the whole process tree (same API on unix and Windows)"
+2026-11-19T13:21:54.460108Z,pawn-lib,0.5.1,0,0,https://codebase.helmholtz.cloud/DAPHNE4NFDI/aixtal-v2/pawn,"egui widgets for two-dimensional (angular and wavelength dispersive) neutron powder diffraction data over d and d⊥: heatmaps, cuts, patterns and 3D views, in tiles, drawn with three-d"
+2026-11-19T13:25:48.941997Z,reborn-formats,0.1.0,0,0,https://github.com/playreborn/reborn,"Parser and writer for Steam's text KeyValues files (VDF/ACF), with typed readers for app manifests and library folders. Part of Reborn."
+2026-11-19T13:25:53.193718Z,grow-aws-secrets-manager,0.1.0,0,0,https://github.com/grow-codes-packages/aws-secrets-manager,Rust SDK for AWS Secrets Manager by Grow Codes
+2026-11-19T13:26:03.131575Z,qso-graph-dxcluster,0.1.1,0,0,https://github.com/qso-graph/qso-graph-dxcluster,Receive-only sans-I/O DX cluster and RBN session engine
+2026-11-19T13:26:07.195227Z,qso-graph-dxcluster-cli,0.1.1,0,0,https://github.com/qso-graph/qso-graph-dxcluster,Receive DX spots and replay recorded cluster sessions
+2026-11-19T13:26:14.440299Z,grow-openobserve,0.1.0,0,0,https://github.com/grow-codes-packages/openobserve,Rust SDK for OpenObserve by Grow Codes
+2026-11-19T13:26:29.924533Z,grow-datadog-logs,0.1.0,0,0,https://github.com/grow-codes-packages/datadog-logs,Rust SDK for Datadog Log Management by Grow Codes
+2026-11-19T13:26:43.138921Z,grow-graylog,0.1.0,0,0,https://github.com/grow-codes-packages/graylog,Rust SDK for Graylog Open by Grow Codes
+2026-11-19T13:26:46.285172Z,grow-grafana-loki,0.1.0,0,0,https://github.com/grow-codes-packages/grafana-loki,Rust SDK for Grafana Loki by Grow Codes
+2026-11-19T13:27:37.764433Z,dive-explore,0.1.0,0,0,https://github.com/Chelis-Lang/dive,Breadth-first state-space exploration over compiled TLA+ plans
+2026-11-19T13:30:52.475597Z,emc2103,0.1.0,0,0,https://github.com/Georges760/emc2103-rs,Platform-agnostic Rust driver for the EMC2103 RPM-based fan controller with temperature sensors.
+2026-11-19T13:32:41.708764Z,lintel-iced-core,0.15.0-dev,0,0,https://github.com/iced-rs/iced,The essential ideas of iced
+2026-11-19T13:34:58.839303Z,lintel-winit,0.30.13,0,0,https://github.com/rust-windowing/winit,Cross-platform window creation library.
+2026-11-19T13:36:06.026921Z,promptparse-rs,0.1.0,0,0,https://github.com/arnonsang/promptparse-rs,Rust port of maythiwat/promptparse for parsing and generating PromptPay and EMVCo QR payloads
+2026-11-19T13:37:15.512277Z,dive-runtime,0.1.0,0,0,https://github.com/Chelis-Lang/dive,"The run contract shared by dive's checking engines: options, budgets, results and capture evidence"
+2026-11-19T13:39:22.506879Z,grow-signoz,0.1.0,0,0,https://github.com/grow-codes-packages/signoz,Rust SDK for SigNoz by Grow Codes
+2026-11-19T13:40:33.49898Z,grow-aws-cloudwatch-logs,0.1.0,0,0,https://github.com/grow-codes-packages/aws-cloudwatch-logs,Rust SDK for Amazon CloudWatch Logs by Grow Codes
+2026-11-19T13:41:12.652322Z,burrmill-parquet-source,55.2.0,0,0,https://github.com/nuthatch-org/burrmill,"DataFusion 55.2.0's Parquet data source with per-partition scan metrics, for burrmill. Not an Apache DataFusion release."
+2026-11-19T13:41:38.093922Z,burrmill,0.1.0,0,0,https://github.com/nuthatch-org/burrmill,SQL over sealed Parquet segments with exact integer arithmetic and refuse-on-overflow.
+2026-11-19T13:44:20.845403Z,deps-precommit,6.0.0,0,0,https://github.com/bug-ops/deps-lsp,pre-commit hook revision dependency support for deps-lsp
+2026-11-19T13:44:59.628775Z,lintel-accesskit-winit,0.34.0,0,0,https://github.com/AccessKit/accesskit,AccessKit UI accessibility infrastructure: winit adapter
+2026-11-19T13:45:25.00619Z,iq-files,0.1.0,0,0,https://github.com/tcasaniv/iq-files,"High-performance reading and writing of I/Q complex signal files in various SDR formats (SC16 Q11, SC16 Full, Float32, Int8, WAV, CSV)"
+2026-11-19T13:47:09.080055Z,clearvisionnn-common,0.1.0,0,0,https://github.com/cribbinsb/clearvisionNN,"Shared types: block grids, per-frame features, errors (part of clearvisionNN)"
+2026-11-19T13:47:12.146848Z,clearvisionnn-preproc,0.1.0,0,0,https://github.com/cribbinsb/clearvisionNN,Pre-process: motion field and side planes from nanocodec's source analysis (part of clearvisionNN)
+2026-11-19T13:47:15.254852Z,clearvisionnn-runtime,0.1.0,0,0,https://github.com/cribbinsb/clearvisionNN,"Runtime: per-stream state and everything around the network (upscale, warp, blend), and the 8-bit network itself (part of clearvisionNN)"
+2026-11-19T13:47:18.353345Z,clearvisionnn-models,0.1.0,0,0,https://github.com/cribbinsb/clearvisionNN,"The released 8-bit models of clearvisionNN, for non-commercial use"
+2026-11-19T13:47:27.216897Z,dive-liveness,0.1.0,0,0,https://github.com/Chelis-Lang/dive,Liveness and temporal property checking for TLA+ specifications
+2026-11-19T13:47:45.037854Z,clearvisionnn,0.1.0,0,0,https://github.com/cribbinsb/clearvisionNN,"Fast causal 2x video super-resolution: the pre-process, the runtime and the 8-bit network of clearvisionNN"
+2026-11-19T13:50:33.625007Z,grow-better-stack-logs,0.1.0,0,0,https://github.com/grow-codes-packages/better-stack-logs,Rust SDK for Better Stack Logs by Grow Codes
+2026-11-19T13:53:05.552312Z,cloudset,0.2.0,0,0,https://github.com/gicek/cloudset,"Sans-IO cloud storage client for WebDAV, Nextcloud, Dropbox, OneDrive and Google Drive"
+2026-11-19T13:53:48.013808Z,omni-sbe,0.1.0,0,0,https://github.com/WyattAu/os-core,"Zero-copy SBE (Simple Binary Encoding) frame decoder for market-data ingestion — no alloc, no panics, no unsafe (pillar 208 CPU-fallback baseline)."
+2026-11-19T13:57:05.063048Z,mhome-onboard-api,0.1.0,0,0,https://github.com/mhome-ai/foundation,"Product onboarding wire contracts for Space Host, Pod and Wave devices"
+2026-11-19T13:57:10.800331Z,lintel-desktop-platform,0.1.0,0,0,https://github.com/looading/lintel,Audited native permission and window-menu boundary for lintel-desktop
+2026-11-19T13:57:12.199843Z,dive-trace,0.1.0,0,0,https://github.com/Chelis-Lang/dive,TLA+ counterexample trace format and independent trace validation
+2026-11-19T13:57:40.876088Z,clearvisionnn-web,0.1.0,0,0,https://github.com/cribbinsb/clearvisionNN,Browser bindings: the runtime session as a WebAssembly module (part of clearvisionNN)
+2026-11-19T13:58:38.146252Z,uncomfortable,0.0.1,0,0,https://github.com/antimeme-ai/uncomfortable,Placeholder reserving the `uncomfortable` name for antimeme-ai
+2026-11-19T14:00:33.86579Z,grow-jaeger,0.1.0,0,0,https://github.com/grow-codes-packages/jaeger,Rust SDK for Jaeger by Grow Codes
+2026-11-19T14:04:56.820387Z,lintel-iced-beacon,0.15.0-dev,0,0,https://github.com/iced-rs/iced,A client/server protocol to monitor and supervise iced applications
+2026-11-19T14:05:22.165198Z,gst-plugin-debugutils,0.0.0,0,0,https://gitlab.freedesktop.org/gstreamer/gst-plugins-rs,GStreamer debug utils plugin (placeholder)
+2026-11-19T14:06:08.706227Z,localca,1.0.1,0,0,https://codeberg.org/Minding/localca,Issue locally trusted TLS certificates
+2026-11-19T14:07:09.996925Z,dive-api,0.1.0,0,0,https://github.com/Chelis-Lang/dive,"Embeddable Rust API of the dive TLA+ tools: parsing, semantic analysis, model checking, simulation and trace validation"
+2026-11-19T14:10:33.741023Z,grow-grafana-tempo,0.1.0,0,0,https://github.com/grow-codes-packages/grafana-tempo,Rust SDK for Grafana Tempo by Grow Codes
+2026-11-19T14:10:47.4343Z,upland,0.1.8,0,0,https://github.com/xminihub/upland,HTTP API server with an embedded web UI
+2026-11-19T14:12:29.156764Z,gradus-cli,0.1.2,0,0,https://github.com/duskine/gradus,Command-line interface for Gradus.
+2026-11-19T14:13:40.952949Z,gst-plugin-audiomultimixer,0.0.0,0,0,https://gitlab.freedesktop.org/gstreamer/gst-plugins-rs,GStreamer audio multi-mixer plugin (placeholder)
+2026-11-19T14:15:14.545936Z,lintel-iced-futures,0.15.0-dev,0,0,https://github.com/iced-rs/iced,"Commands, subscriptions, and future executors for iced"
+2026-11-19T14:15:26.379111Z,overload-tui,0.5.0,0,0,https://github.com/latreon/overload,A macOS terminal tool to find and kill resource-hungry processes fast
+2026-11-19T14:17:06.822285Z,dive-cli,0.1.0,0,0,https://github.com/Chelis-Lang/dive,"The dive TLA+ model checker command-line tool, with a TLC-compatible `tlc` command"

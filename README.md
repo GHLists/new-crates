@@ -8,59 +8,63 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-19 13:18 UTC
+## Latest list — 2026-11-19 14:18 UTC
 
-New crates published between 2026-11-19 12:18 UTC and 2026-11-19 13:18 UTC.
+New crates published between 2026-11-19 13:18 UTC and 2026-11-19 14:18 UTC.
 
-[Full CSV](data/new-crates-2026-11-19T13-18-48-350078Z.csv)
+[Full CSV](data/new-crates-2026-11-19T14-18-51-557198Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-19 12:25:50 | [ruwebos](https://crates.io/crates/ruwebos) | 0.1.0 | 0 | Launcher for ruwebos, a small OS whose user interface is the web browser: downl… |
-| 2026-11-19 12:26:05 | [invisible-labs-frost-ed25519-hd](https://crates.io/crates/invisible-labs-frost-ed25519-hd) | 0.1.0 | 0 | HD (non-hardened) key derivation for ZcashFoundation frost-ed25519 |
-| 2026-11-19 12:27:16 | [mediawiki_upload](https://crates.io/crates/mediawiki_upload) | 0.1.0 | 0 | Upload files to a MediaWiki wiki through its Action API |
-| 2026-11-19 12:27:19 | [dive-core](https://crates.io/crates/dive-core) | 0.1.0 | 0 | The dive execution core for TLA+: value store, plan compiler, interpreter and s… |
-| 2026-11-19 12:32:18 | [codewire-proto](https://crates.io/crates/codewire-proto) | 0.1.0 | 0 | Generated Connect-RPC contract types for the client-facing Codewire control-pla… |
-| 2026-11-19 12:32:20 | [codewire](https://crates.io/crates/codewire) | 0.1.0 | 0 | The Codewire Rust SDK: an ergonomic client for the public codewire.v1 API over… |
-| 2026-11-19 12:35:52 | [fast-text-theme](https://crates.io/crates/fast-text-theme) | 0.5.0 | 0 | The shared, TOML-based Fast Text theme schema used by every frontend. |
-| 2026-11-19 12:37:24 | [dive-eval](https://crates.io/crates/dive-eval) | 0.1.0 | 0 | TLA+ expression and action evaluator with TLC's semantics |
-| 2026-11-19 12:39:27 | [publictransport](https://crates.io/crates/publictransport) | 0.1.0 | 0 | Client for public transport APIs that builds requests and parses responses with… |
-| 2026-11-19 12:39:52 | [llvm-pass](https://crates.io/crates/llvm-pass) | 0.1.1 | 0 | A framework for writing LLVM pass plugins in Rust via cxx FFI (LLVM 18-22) |
-| 2026-11-19 12:40:02 | [publictransport-client](https://crates.io/crates/publictransport-client) | 0.1.0 | 0 | HTTP client for public transport APIs, built on publictransport and reqwest |
-| 2026-11-19 12:40:51 | [sawe_macros](https://crates.io/crates/sawe_macros) | 0.1.0 | 0 | marcos for sawe |
-| 2026-11-19 12:43:31 | [cubism-core](https://crates.io/crates/cubism-core) | 0.1.0 | 0 | Safe FFI bindings and runtime loader for Live2D Cubism Core |
-| 2026-11-19 12:44:09 | [cubism-framework](https://crates.io/crates/cubism-framework) | 0.1.0 | 0 | Live2D Cubism model assets, animation, physics, and effects runtime |
-| 2026-11-19 12:45:10 | [cubism-wgpu](https://crates.io/crates/cubism-wgpu) | 0.1.0 | 0 | wgpu-based GPU renderer for Live2D Cubism models |
-| 2026-11-19 12:45:43 | [cubism-rs](https://crates.io/crates/cubism-rs) | 0.1.0 | 0 | Load, animate, and render Live2D Cubism models using wgpu |
-| 2026-11-19 12:45:53 | [tokstat](https://crates.io/crates/tokstat) | 0.1.0 | 0 | 统计目录下文本文件经 tokenizer 处理后的 token 量 |
-| 2026-11-19 12:46:19 | [ztui-core](https://crates.io/crates/ztui-core) | 0.1.1 | 0 | Allocation-free text row, geometry, and ANSI frame-diff primitives for Project Z |
-| 2026-11-19 12:47:22 | [dive-model](https://crates.io/crates/dive-model) | 0.1.0 | 0 | Binding a TLA+ specification to its TLC model configuration |
-| 2026-11-19 12:50:18 | [grow-openbao](https://crates.io/crates/grow-openbao) | 0.1.0 | 0 | Rust SDK for OpenBao by Grow Codes |
-| 2026-11-19 12:51:05 | [mde](https://crates.io/crates/mde) | 0.1.0 | 0 | Builder and writer for Freedesktop Desktop Entry (.desktop) files on Linux |
-| 2026-11-19 12:51:11 | [anomalyco-opentui-sys](https://crates.io/crates/anomalyco-opentui-sys) | 0.9.4 | 0 | Raw FFI declarations for OpenTUI's checked C ABI (interim name of the opentui-s… |
-| 2026-11-19 12:51:14 | [anomalyco-opentui](https://crates.io/crates/anomalyco-opentui) | 0.9.4 | 0 | OpenTUI's terminal UI framework for Rust, built on its native renderer (interim… |
-| 2026-11-19 12:51:17 | [opentui-ssh](https://crates.io/crates/opentui-ssh) | 0.9.4 | 0 | Serve OpenTUI apps over SSH, one app per session |
-| 2026-11-19 12:55:23 | [rightkit-dictation-pill](https://crates.io/crates/rightkit-dictation-pill) | 0.1.0 | 0 | The dictation pill: a recording capsule, a hint card and a clip card drawn as n… |
-| 2026-11-19 12:57:19 | [dive-stdlib](https://crates.io/crates/dive-stdlib) | 0.1.0 | 0 | TLA+ standard module support for model checking: TLC's randomness and the check… |
-| 2026-11-19 13:04:46 | [lintel-build](https://crates.io/crates/lintel-build) | 0.1.0 | 0 | Build and package Lintel desktop applications |
-| 2026-11-19 13:04:54 | [lintel-lib-event](https://crates.io/crates/lintel-lib-event) | 0.1.0 | 0 | Thread-safe event subscriptions and owned callback dispatch for Lintel applicat… |
-| 2026-11-19 13:05:07 | [lintel-lib-env](https://crates.io/crates/lintel-lib-env) | 0.1.0 | 0 | Explicit process-wide application paths and environment settings for Lintel |
-| 2026-11-19 13:05:13 | [lintel-lib-crypto](https://crates.io/crates/lintel-lib-crypto) | 0.1.0 | 0 | Low-level cryptographic primitives retained for Lintel storage compatibility |
-| 2026-11-19 13:05:14 | [grow-hashicorp-vault](https://crates.io/crates/grow-hashicorp-vault) | 0.1.0 | 0 | Rust SDK for HashiCorp Vault by Grow Codes |
-| 2026-11-19 13:05:21 | [lintel-lib-jsb-macro](https://crates.io/crates/lintel-lib-jsb-macro) | 0.1.0 | 0 | Bridge registration macros for Lintel WebView integrations |
-| 2026-11-19 13:07:16 | [dive-sim](https://crates.io/crates/dive-sim) | 0.1.0 | 0 | Seeded random simulation of TLA+ specifications |
-| 2026-11-19 13:07:56 | [openstack-vault](https://crates.io/crates/openstack-vault) | 0.1.0 | 0 | Securely store OpenStack credentials in the OS keystore and run commands with t… |
-| 2026-11-19 13:10:45 | [turbo-dom-rav1d](https://crates.io/crates/turbo-dom-rav1d) | 1.1.0 | 0 | turbo-dom fork of rav1d 1.1.0 (Rust port of the dav1d AV1 decoder): unwinding C… |
-| 2026-11-19 13:13:18 | [renaissance-compiler-core](https://crates.io/crates/renaissance-compiler-core) | 0.2.0 | 0 | Internal compiler evidence and grammar construction for Renaissance |
-| 2026-11-19 13:13:38 | [renaissance-template-lexer](https://crates.io/crates/renaissance-template-lexer) | 0.2.0 | 0 | Internal bounded template lexer for Renaissance |
-| 2026-11-19 13:14:07 | [grow-infisical](https://crates.io/crates/grow-infisical) | 0.1.0 | 0 | Rust SDK for Infisical by Grow Codes |
-| 2026-11-19 13:14:54 | [lintel-lib-config](https://crates.io/crates/lintel-lib-config) | 0.1.0 | 0 | Generic runtime configuration and environment selection for Lintel applications |
-| 2026-11-19 13:15:07 | [lintel-lib-store](https://crates.io/crates/lintel-lib-store) | 0.1.0 | 0 | Schema-aware persistent settings and migrations for Lintel applications |
-| 2026-11-19 13:16:08 | [luff-ignore](https://crates.io/crates/luff-ignore) | 0.4.25 | 0 | Luff's maintained fork of ignore for walking directories with gitignore rules |
-| 2026-11-19 13:17:17 | [dive-store](https://crates.io/crates/dive-store) | 0.1.0 | 0 | State fingerprints and disk-backed state storage for TLA+ model checking |
-| 2026-11-19 13:17:43 | [cuprite_wire_kicad_lib](https://crates.io/crates/cuprite_wire_kicad_lib) | 0.1.0 | 0 | Reads KiCad symbol and footprint libraries and SPICE model libraries for cuprit… |
-| 2026-11-19 13:17:46 | [cuprite_wire_macros](https://crates.io/crates/cuprite_wire_macros) | 0.1.0 | 0 | Procedural macros generating cuprite_wire parts from KiCad libraries |
-| 2026-11-19 13:17:49 | [cuprite_wire](https://crates.io/crates/cuprite_wire) | 0.1.0 | 0 | Describe electronic circuits in Rust, test them with ERC and SPICE simulations,… |
+| 2026-11-19 13:19:07 | [job-limits](https://crates.io/crates/job-limits) | 0.1.0 | 0 | Memory limits for child processes, and a guard that cleans up the whole process… |
+| 2026-11-19 13:21:54 | [pawn-lib](https://crates.io/crates/pawn-lib) | 0.5.1 | 0 | egui widgets for two-dimensional (angular and wavelength dispersive) neutron po… |
+| 2026-11-19 13:25:48 | [reborn-formats](https://crates.io/crates/reborn-formats) | 0.1.0 | 0 | Parser and writer for Steam's text KeyValues files (VDF/ACF), with typed reader… |
+| 2026-11-19 13:25:53 | [grow-aws-secrets-manager](https://crates.io/crates/grow-aws-secrets-manager) | 0.1.0 | 0 | Rust SDK for AWS Secrets Manager by Grow Codes |
+| 2026-11-19 13:26:03 | [qso-graph-dxcluster](https://crates.io/crates/qso-graph-dxcluster) | 0.1.1 | 0 | Receive-only sans-I/O DX cluster and RBN session engine |
+| 2026-11-19 13:26:07 | [qso-graph-dxcluster-cli](https://crates.io/crates/qso-graph-dxcluster-cli) | 0.1.1 | 0 | Receive DX spots and replay recorded cluster sessions |
+| 2026-11-19 13:26:14 | [grow-openobserve](https://crates.io/crates/grow-openobserve) | 0.1.0 | 0 | Rust SDK for OpenObserve by Grow Codes |
+| 2026-11-19 13:26:29 | [grow-datadog-logs](https://crates.io/crates/grow-datadog-logs) | 0.1.0 | 0 | Rust SDK for Datadog Log Management by Grow Codes |
+| 2026-11-19 13:26:43 | [grow-graylog](https://crates.io/crates/grow-graylog) | 0.1.0 | 0 | Rust SDK for Graylog Open by Grow Codes |
+| 2026-11-19 13:26:46 | [grow-grafana-loki](https://crates.io/crates/grow-grafana-loki) | 0.1.0 | 0 | Rust SDK for Grafana Loki by Grow Codes |
+| 2026-11-19 13:27:37 | [dive-explore](https://crates.io/crates/dive-explore) | 0.1.0 | 0 | Breadth-first state-space exploration over compiled TLA+ plans |
+| 2026-11-19 13:30:52 | [emc2103](https://crates.io/crates/emc2103) | 0.1.0 | 0 | Platform-agnostic Rust driver for the EMC2103 RPM-based fan controller with tem… |
+| 2026-11-19 13:32:41 | [lintel-iced-core](https://crates.io/crates/lintel-iced-core) | 0.15.0-dev | 0 | The essential ideas of iced |
+| 2026-11-19 13:34:58 | [lintel-winit](https://crates.io/crates/lintel-winit) | 0.30.13 | 0 | Cross-platform window creation library. |
+| 2026-11-19 13:36:06 | [promptparse-rs](https://crates.io/crates/promptparse-rs) | 0.1.0 | 0 | Rust port of maythiwat/promptparse for parsing and generating PromptPay and EMV… |
+| 2026-11-19 13:37:15 | [dive-runtime](https://crates.io/crates/dive-runtime) | 0.1.0 | 0 | The run contract shared by dive's checking engines: options, budgets, results a… |
+| 2026-11-19 13:39:22 | [grow-signoz](https://crates.io/crates/grow-signoz) | 0.1.0 | 0 | Rust SDK for SigNoz by Grow Codes |
+| 2026-11-19 13:40:33 | [grow-aws-cloudwatch-logs](https://crates.io/crates/grow-aws-cloudwatch-logs) | 0.1.0 | 0 | Rust SDK for Amazon CloudWatch Logs by Grow Codes |
+| 2026-11-19 13:41:12 | [burrmill-parquet-source](https://crates.io/crates/burrmill-parquet-source) | 55.2.0 | 0 | DataFusion 55.2.0's Parquet data source with per-partition scan metrics, for bu… |
+| 2026-11-19 13:41:38 | [burrmill](https://crates.io/crates/burrmill) | 0.1.0 | 0 | SQL over sealed Parquet segments with exact integer arithmetic and refuse-on-ov… |
+| 2026-11-19 13:44:20 | [deps-precommit](https://crates.io/crates/deps-precommit) | 6.0.0 | 0 | pre-commit hook revision dependency support for deps-lsp |
+| 2026-11-19 13:44:59 | [lintel-accesskit-winit](https://crates.io/crates/lintel-accesskit-winit) | 0.34.0 | 0 | AccessKit UI accessibility infrastructure: winit adapter |
+| 2026-11-19 13:45:25 | [iq-files](https://crates.io/crates/iq-files) | 0.1.0 | 0 | High-performance reading and writing of I/Q complex signal files in various SDR… |
+| 2026-11-19 13:47:09 | [clearvisionnn-common](https://crates.io/crates/clearvisionnn-common) | 0.1.0 | 0 | Shared types: block grids, per-frame features, errors (part of clearvisionNN) |
+| 2026-11-19 13:47:12 | [clearvisionnn-preproc](https://crates.io/crates/clearvisionnn-preproc) | 0.1.0 | 0 | Pre-process: motion field and side planes from nanocodec's source analysis (par… |
+| 2026-11-19 13:47:15 | [clearvisionnn-runtime](https://crates.io/crates/clearvisionnn-runtime) | 0.1.0 | 0 | Runtime: per-stream state and everything around the network (upscale, warp, ble… |
+| 2026-11-19 13:47:18 | [clearvisionnn-models](https://crates.io/crates/clearvisionnn-models) | 0.1.0 | 0 | The released 8-bit models of clearvisionNN, for non-commercial use |
+| 2026-11-19 13:47:27 | [dive-liveness](https://crates.io/crates/dive-liveness) | 0.1.0 | 0 | Liveness and temporal property checking for TLA+ specifications |
+| 2026-11-19 13:47:45 | [clearvisionnn](https://crates.io/crates/clearvisionnn) | 0.1.0 | 0 | Fast causal 2x video super-resolution: the pre-process, the runtime and the 8-b… |
+| 2026-11-19 13:50:33 | [grow-better-stack-logs](https://crates.io/crates/grow-better-stack-logs) | 0.1.0 | 0 | Rust SDK for Better Stack Logs by Grow Codes |
+| 2026-11-19 13:53:05 | [cloudset](https://crates.io/crates/cloudset) | 0.2.0 | 0 | Sans-IO cloud storage client for WebDAV, Nextcloud, Dropbox, OneDrive and Googl… |
+| 2026-11-19 13:53:48 | [omni-sbe](https://crates.io/crates/omni-sbe) | 0.1.0 | 0 | Zero-copy SBE (Simple Binary Encoding) frame decoder for market-data ingestion… |
+| 2026-11-19 13:57:05 | [mhome-onboard-api](https://crates.io/crates/mhome-onboard-api) | 0.1.0 | 0 | Product onboarding wire contracts for Space Host, Pod and Wave devices |
+| 2026-11-19 13:57:10 | [lintel-desktop-platform](https://crates.io/crates/lintel-desktop-platform) | 0.1.0 | 0 | Audited native permission and window-menu boundary for lintel-desktop |
+| 2026-11-19 13:57:12 | [dive-trace](https://crates.io/crates/dive-trace) | 0.1.0 | 0 | TLA+ counterexample trace format and independent trace validation |
+| 2026-11-19 13:57:40 | [clearvisionnn-web](https://crates.io/crates/clearvisionnn-web) | 0.1.0 | 0 | Browser bindings: the runtime session as a WebAssembly module (part of clearvis… |
+| 2026-11-19 13:58:38 | [uncomfortable](https://crates.io/crates/uncomfortable) | 0.0.1 | 0 | Placeholder reserving the `uncomfortable` name for antimeme-ai |
+| 2026-11-19 14:00:33 | [grow-jaeger](https://crates.io/crates/grow-jaeger) | 0.1.0 | 0 | Rust SDK for Jaeger by Grow Codes |
+| 2026-11-19 14:04:56 | [lintel-iced-beacon](https://crates.io/crates/lintel-iced-beacon) | 0.15.0-dev | 0 | A client/server protocol to monitor and supervise iced applications |
+| 2026-11-19 14:05:22 | [gst-plugin-debugutils](https://crates.io/crates/gst-plugin-debugutils) | 0.0.0 | 0 | GStreamer debug utils plugin (placeholder) |
+| 2026-11-19 14:06:08 | [localca](https://crates.io/crates/localca) | 1.0.1 | 0 | Issue locally trusted TLS certificates |
+| 2026-11-19 14:07:09 | [dive-api](https://crates.io/crates/dive-api) | 0.1.0 | 0 | Embeddable Rust API of the dive TLA+ tools: parsing, semantic analysis, model c… |
+| 2026-11-19 14:10:33 | [grow-grafana-tempo](https://crates.io/crates/grow-grafana-tempo) | 0.1.0 | 0 | Rust SDK for Grafana Tempo by Grow Codes |
+| 2026-11-19 14:10:47 | [upland](https://crates.io/crates/upland) | 0.1.8 | 0 | HTTP API server with an embedded web UI |
+| 2026-11-19 14:12:29 | [gradus-cli](https://crates.io/crates/gradus-cli) | 0.1.2 | 0 | Command-line interface for Gradus. |
+| 2026-11-19 14:13:40 | [gst-plugin-audiomultimixer](https://crates.io/crates/gst-plugin-audiomultimixer) | 0.0.0 | 0 | GStreamer audio multi-mixer plugin (placeholder) |
+| 2026-11-19 14:15:14 | [lintel-iced-futures](https://crates.io/crates/lintel-iced-futures) | 0.15.0-dev | 0 | Commands, subscriptions, and future executors for iced |
+| 2026-11-19 14:15:26 | [overload-tui](https://crates.io/crates/overload-tui) | 0.5.0 | 0 | A macOS terminal tool to find and kill resource-hungry processes fast |
+| 2026-11-19 14:17:06 | [dive-cli](https://crates.io/crates/dive-cli) | 0.1.0 | 0 | The dive TLA+ model checker command-line tool, with a TLC-compatible `tlc` comm… |
 
 ## Data source
 
