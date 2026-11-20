@@ -1,0 +1,34 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-20T10:24:20.348Z,compio_ctrl_c,0.1.0,0,0,https://atomgit.com/i18n-site/rs,One-shot Ctrl+C interception for compio runtimes with a shareable interrupt flag
+2026-11-20T10:25:43.17986Z,open-agent-docs,0.3.0,0,0,https://github.com/kadaliao/open-agent-docs,"Rust client for Open Agent Docs: docs that people and AI agents write together (REST API, SSE events, webhooks, embedding helpers)"
+2026-11-20T10:25:54.919309Z,blut-operator,0.2.0-alpha.2,0,0,https://github.com/Quitetall/blut,Kubernetes operator for BLUT: runs BlutPlan resources as Jobs and keeps BlutWorkerPool StatefulSets alive.
+2026-11-20T10:26:50.272757Z,noonoo-markdown,0.20.0,0,0,https://github.com/nixpt/noonoo,Noonoo's Markdown parser: a CommonMark subset to HTML.
+2026-11-20T10:30:02.255098Z,targeted-mutation,0.1.0,0,0,https://github.com/t-k/targeted-mutation,Targeted mutation testing for Rust: find the wrong implementations your tests let through
+2026-11-20T10:31:50.443025Z,invisi-sdk-payment-router,1.3.2,0,0,https://github.com/invisi-labs/invisi-sdk-rust,"Detached native ETH Payment Router preparation, quoting and simulation for Invisi"
+2026-11-20T10:33:31.71594Z,rustomize-opds,1.0.0,0,0,https://github.com/rustomize/rustomize-opds,OPDS parser and generator library supporting OPDS 1.2 and OPDS 2.0
+2026-11-20T10:34:27.680696Z,zarrs_http_async,0.1.0,0,0,https://github.com/Tegon-McCloud/zarrs_http_async,A WASM-compatible and asynchronous HTTP store for zarrs
+2026-11-20T10:34:30.930693Z,okf-markdown,0.1.0,0,0,https://github.com/onemira-space/okf-markdown,"Zero-dependency Rust parser, validator, wiki-link graph builder, and transcript converter for Open Knowledge Format (OKF v0.2) Markdown vaults."
+2026-11-20T10:37:02.642539Z,noonoo-motion,0.20.0,0,0,https://github.com/nixpt/noonoo,Noonoo's motion: spring timing with velocity-preserving retarget.
+2026-11-20T10:47:14.971874Z,noonoo-net,0.20.0,0,0,https://github.com/nixpt/noonoo,"Noonoo's document loading: file:, data:, and (feature-gated) http(s)."
+2026-11-20T10:51:17.989366Z,viewshed,0.0.1,0,0,https://github.com/Yibbzz/viewshed,"Fast, exact line-of-sight viewsheds. 0.0.x is the reference implementation."
+2026-11-20T10:57:27.421353Z,noonoo-html,0.20.0,0,0,https://github.com/nixpt/noonoo,Noonoo's HTML parser: tokenizer and tree builder into noonoo-dom.
+2026-11-20T10:58:40.556334Z,kernoid-spaces,0.5.0,0,0,https://github.com/kernoid/kernoid,A device's end-to-end encrypted spaces: their store in SQLite and their synchronisation through a relay – part of kernoid's foundation
+2026-11-20T11:01:43.261573Z,xlsx-to-pdf,0.1.0,0,0,https://github.com/ironcalc/IronCalc,Convert Excel (.xlsx) workbooks to PDF. WebAssembly bindings for IronCalc's PDF export engine.
+2026-11-20T11:04:47.570165Z,proton-base-rs,0.1.0,0,0,https://github.com/narrrl/proton-rs,Plumbing shared by Proton Drive apps: a versioned SQLite migration runner and crash-safe atomic file writes
+2026-11-20T11:07:40.180035Z,noonoo-css,0.20.0,0,0,https://github.com/nixpt/noonoo,"Noonoo's CSS: tokenizer, selectors, and the value/property model."
+2026-11-20T11:11:46.437662Z,better-git-diff,0.1.0,0,0,https://github.com/HardBoss07/better-git-diff,"Token-minimized, human-readable Git diff CLI for terminals and AI workflows"
+2026-11-20T11:12:40.516295Z,ml-compression-core,0.1.0,0,0,https://github.com/gabrielvfonseca/ml-compression,Core compression engine for Compression
+2026-11-20T11:13:07.654033Z,ml-compression-models,0.1.0,0,0,https://github.com/gabrielvfonseca/ml-compression,ML models for Compression
+2026-11-20T11:13:44.343386Z,steamwire,0.1.0,0,0,https://github.com/ZoniBoy00/steamwire,"Async Rust library for the Steam network, based on SteamKit2: the CM client, CDN, Web API, plus Steam's web side (trading, confirmations) and CS2's game coordinator as features."
+2026-11-20T11:13:55.338532Z,ml-compression-streaming,0.1.0,0,0,https://github.com/gabrielvfonseca/ml-compression,Zero-copy async streaming compression for Compression
+2026-11-20T11:15:20.827135Z,ml-compression-registry,0.1.0,0,0,https://github.com/gabrielvfonseca/ml-compression,Model registry for Compression predictive compression
+2026-11-20T11:15:34.889096Z,oyta-device,0.1.0,0,0,https://github.com/oytaer/oyta_ai,Generic backend abstraction layer for oyta-ai — one blanket impl covers f32/f16/bf16/f64 across CPU/CUDA/WGPU/Metal
+2026-11-20T11:15:56.286268Z,ml-compression-observability,0.1.0,0,0,https://github.com/gabrielvfonseca/ml-compression,"Observability for Compression: metrics, tracing, profiling"
+2026-11-20T11:16:37.176212Z,oyta-core,0.1.0,0,0,https://github.com/oytaer/oyta_ai,"Tensor core data structures for oyta-ai — DynamicShape, Strides, Device markers, safetensors I/O"
+2026-11-20T11:17:41.086051Z,oyta-ops,0.1.0,0,0,https://github.com/oytaer/oyta_ai,"Operator engine for oyta-ai — matmul dispatch, FlashAttention, 4 fusion ops, pairwise_sum stability, profiling"
+2026-11-20T11:17:42.850536Z,magika-tract-runtime,0.0.1,0,0,https://github.com/google/magika,Internal tract inference runtime for Magika
+2026-11-20T11:17:49.112468Z,magika-rules,0.1.0,0,0,https://github.com/google/magika,Bounded format rules for Magika: a YARA subset evaluated in pure Rust
+2026-11-20T11:17:52.962037Z,noonoo-selectors,0.20.0,0,0,https://github.com/nixpt/noonoo,"Noonoo's CSS selectors: parsing, specificity, and matching."
+2026-11-20T11:18:08.72145Z,datarust-mcp,0.1.0,0,0,https://github.com/genc-murat/datarust,Model Context Protocol (MCP) server for datarust and datarust-profile
+2026-11-20T11:18:35.157222Z,oyta-tensor,0.1.0,0,0,https://github.com/oytaer/oyta_ai,"Public API entry point for oyta-ai — re-exports oyta-device + oyta-core + oyta-ops with ergonomic Tensor<f32, Cpu> etc."
+2026-11-20T11:18:37.494847Z,ml-compression-capi,0.1.0,0,0,https://github.com/gabrielvfonseca/ml-compression,C-ABI for Compression library
