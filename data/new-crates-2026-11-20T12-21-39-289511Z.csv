@@ -1,0 +1,33 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-20T11:24:19.06323Z,qtcloud-agent-cli,0.1.0-alpha.1,0,0,https://github.com/quanttide/qtcloud-agent,量潮智能体云命令行工具
+2026-11-20T11:28:05.732053Z,noonoo-query,0.20.0,0,0,https://github.com/nixpt/noonoo,"Noonoo's DOM queries: full CSS selectors over a document, and element-scoped queries."
+2026-11-20T11:31:30.708013Z,ultrafast,0.0.1,0,0,https://github.com/ultrafastmov/ultrafast,The GPU video engine for agents (not released yet; see https://ultrafast.mov)
+2026-11-20T11:31:33.88841Z,ultrafastmov,0.0.1,0,0,https://github.com/ultrafastmov/ultrafast,The GPU video engine for agents (not released yet; see https://ultrafast.mov)
+2026-11-20T11:31:57.074812Z,ml-compression-node,0.1.0,0,0,https://github.com/gabrielvfonseca/ml-compression,Node.js bindings for Compression
+2026-11-20T11:35:41.243593Z,cargo-remap,0.1.0,0,0,https://github.com/susitsm/cargo-remap,Map every git worktree to one fixed path so new worktrees reuse cargo's build cache
+2026-11-20T11:38:18.740717Z,noonoo-style,0.20.0,0,0,https://github.com/nixpt/noonoo,"Noonoo's style engine: the CSS cascade, inheritance, and computed values."
+2026-11-20T11:39:49.735209Z,ml-compression-bindings,0.1.0,0,0,https://github.com/gabrielvfonseca/ml-compression,Python bindings for Compression
+2026-11-20T11:41:47.320487Z,auric-inflector,0.8.2,0,0,https://gitlab.com/megalithic-llc/auric-spa/auric.git,"English inflections, ported from Rails for the Ember-inspired Auric SPA framework"
+2026-11-20T11:42:01.267731Z,auric-inflector-helpers,0.8.2,0,0,https://gitlab.com/megalithic-llc/auric-spa/auric.git,Inflector helpers addon for the Ember-inspired Auric SPA framework
+2026-11-20T11:42:05.901673Z,auric-inflector-helpers-build,0.8.2,0,0,https://gitlab.com/megalithic-llc/auric-spa/auric.git,Codegen for the Inflector Helpers addon for the Ember-inspired Auric SPA framework
+2026-11-20T11:44:01.366723Z,proton-media-rs,0.1.1,0,0,https://github.com/narrrl/proton-rs,"Media plumbing for Proton Drive apps: block range maps, single-flight fetches, crash-safe byte-budgeted disk caches for blocks and pictures, thumbnail rendering"
+2026-11-20T11:48:31.977967Z,noonoo-layout,0.20.0,0,0,https://github.com/nixpt/noonoo,Noonoo's box layout: computed style into a positioned box tree.
+2026-11-20T11:55:10.820558Z,popsub_protocol,0.1.0,0,0,https://github.com/soumyadepp/popsub,The PopSub WebSocket protocol: every frame clients and the server exchange
+2026-11-20T11:55:21.072555Z,popsub_sdk,0.1.0,0,0,https://github.com/soumyadepp/popsub,"Rust client for PopSub: reconnection, durable sessions, acknowledgements and deduplication"
+2026-11-20T11:58:37.494113Z,ml-compression-cli,0.1.0,0,0,https://github.com/gabrielvfonseca/ml-compression,CLI for Compression
+2026-11-20T11:58:44.904536Z,noonoo-a11y,0.20.0,0,0,https://github.com/nixpt/noonoo,Noonoo's accessibility tree: DOM + computed style + layout into an assistive model.
+2026-11-20T12:01:50.137049Z,ml-compression-s3,0.1.0,0,0,https://github.com/gabrielvfonseca/ml-compression,S3 compression layer for Compression
+2026-11-20T12:07:58.477192Z,cpp_toolchain,0.4.0,0,0,https://github.com/CppCXY/cpp_ls,"The toolchain and preprocessor layer of cpp_ls: how a translation unit is found, configured, walked and rendered."
+2026-11-20T12:08:05.84418Z,redactant-derive,0.1.14,0,0,https://github.com/ThinkersJournal/redactant,Derive macro for redactant's `Redact` trait: every field of a record states what it may reveal.
+2026-11-20T12:08:57.566797Z,noonoo-json,0.20.0,0,0,https://github.com/nixpt/noonoo,"Noonoo's JSON: a dependency-free parser, value model, and writer."
+2026-11-20T12:10:07.869771Z,vectoron,0.1.0,0,0,,"A minimal, modular machine-learning framework for inference."
+2026-11-20T12:10:47.417527Z,ml-compression-postgres,0.1.0,0,0,https://github.com/gabrielvfonseca/ml-compression,PostgreSQL extension for ml-compression
+2026-11-20T12:13:09.187709Z,clarity-data,0.1.0,0,0,https://github.com/petervdpas/Clarity,"Clarity.Data: the runtime data of the programs Clarity generates (records, their lists and their values), decided once for every stack"
+2026-11-20T12:15:55.361709Z,sisa-messaging-core,0.1.0,0,0,https://github.com/sisaio/sisa-messaging-rs,"The contracts of Sisa Messaging: messages, CloudEvents envelopes, codecs, and the transport and store traits"
+2026-11-20T12:16:01.877224Z,sisa-messaging-runtime,0.1.0,0,0,https://github.com/sisaio/sisa-messaging-rs,"The engine of Sisa Messaging: the bus, the receive pipeline, the outbox dispatcher and partition maintenance, for every transport and database"
+2026-11-20T12:16:36.527302Z,sisa-messaging-nats,0.1.0,0,0,https://github.com/sisaio/sisa-messaging-rs,The NATS JetStream transport of Sisa Messaging
+2026-11-20T12:17:33.201259Z,sisa-messaging-iggy,0.1.0,0,0,https://github.com/sisaio/sisa-messaging-rs,The Apache Iggy transport of Sisa Messaging
+2026-11-20T12:17:43.490212Z,sisa-messaging-redis,0.1.0,0,0,https://github.com/sisaio/sisa-messaging-rs,"The Redis Streams transport of Sisa Messaging, for Redis, Valkey and Dragonfly"
+2026-11-20T12:18:07.986372Z,ml-compression-kafka,0.1.0,0,0,https://github.com/gabrielvfonseca/ml-compression,Kafka serializer/deserializer for ml-compression lossless ML-predictive compression library
+2026-11-20T12:19:10.088444Z,noonoo-caison,0.20.0,0,0,https://github.com/nixpt/noonoo,Noonoo's CAISON parser: Crush AI-native Semantic Object Notation.
+2026-11-20T12:20:56.575486Z,clarity-pdf,0.1.0,0,0,https://github.com/petervdpas/Clarity,"Clarity.Pdf: Markdown and Clarity content laid out by Typst into PDF files, for the programs Clarity generates"
