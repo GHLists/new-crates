@@ -1,0 +1,35 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-20T18:20:38.717256Z,visado-extauthz,0.3.0,0,0,https://github.com/kanywst/visado,The visado decision pipeline and its Envoy ext_authz gRPC service.
+2026-11-20T18:22:33.779475Z,kernoid-sieve,0.0.0,0,0,https://github.com/kernoid/kernoid,Reserved for kernoid – the Sieve interpreter. The first release follows.
+2026-11-20T18:22:58.57086Z,vihaco-sst,0.0.1,0,0,https://github.com/QuEraComputing/vihaco,SST tooling for vihaco (name reservation; the real crate ships with the vihaco 0.9 release).
+2026-11-20T18:28:03.765547Z,strata-router,0.1.0,0,0,https://github.com/strataui/strata,Universal type-safe declarative routing engine for Strata applications
+2026-11-20T18:28:55.135772Z,knf-convert,0.8.1,0,0,https://github.com/binado/knf,Convert native JSON and TOML configuration values
+2026-11-20T18:30:36.17195Z,visado,0.3.0,0,0,https://github.com/kanywst/visado,"visado server: Envoy ext_authz service that verifies agent callers, asks an AuthZEN PDP and mints Transaction Tokens."
+2026-11-20T18:31:39.87378Z,kernoid-imap,0.0.0,0,0,https://github.com/kernoid/kernoid,Reserved for kernoid – IMAP and POP3. The first release follows.
+2026-11-20T18:38:23.182835Z,strata-style,0.1.0,0,0,https://github.com/strataui/strata,"Pure Rust CSS engine, cascade solver, and Tailwind CSS JIT compiler"
+2026-11-20T18:43:08.175041Z,nym-contract-anchor,3.0.0,0,0,https://github.com/nymtech/nym,Trust anchors and ICS23 proof verification for Nym contract state
+2026-11-20T18:43:47.308901Z,kernoid-ldap,0.0.0,0,0,https://github.com/kernoid/kernoid,Reserved for kernoid – the LDAP directory. The first release follows.
+2026-11-20T18:43:59.175917Z,jevbrev,0.1.1,0,0,https://github.com/parker-brown-family/jevbrev,"Short API definitions that code turns into Jev (TypeSafe System One) questions, answer readers and HTTP calls"
+2026-11-20T18:44:18.209157Z,neotales-dotenv,0.0.0-alpha.1,0,0,https://github.com/neotales/rs-dotenv,"Parse, edit and write dotenv documents with no I/O, no interpolation and no key policy"
+2026-11-20T18:44:24.442637Z,neotales-env,0.0.0-alpha.1,0,0,https://github.com/neotales/rs-env,"Environment interpolation, PATH composition, reversible shell diffs, and explicit process-environment access"
+2026-11-20T18:44:32.254987Z,neotales-args,0.0.0-alpha.1,0,0,https://github.com/neotales/rs-args,"Split, join, parse, and build command-line arguments, with no shell evaluation"
+2026-11-20T18:45:29.19335Z,nym-geolocation-client,3.0.0,0,0,https://github.com/nymtech/nym,Library for verifiable retrieval of Nym geolocation data
+2026-11-20T18:46:38.979255Z,nym-performance-client,3.0.0,0,0,https://github.com/nymtech/nym,Library for verifiable retrieval of Nym performance data
+2026-11-20T18:48:14.513835Z,strata-codegen-js,0.1.0,0,0,https://github.com/strataui/strata,Pure JavaScript ESM code generator and AST transpiler for Strata
+2026-11-20T18:51:29.59005Z,dstack-compose,2.0.0,0,0,https://github.com/kyanjeuring/dstack,Docker Compose stack management from anywhere
+2026-11-20T18:52:52.586506Z,kernoid-jitsi,0.0.0,0,0,https://github.com/kernoid/kernoid,Reserved for kernoid – the Jitsi module. The first release follows.
+2026-11-20T18:59:27.448416Z,strata-layout,0.1.0,0,0,https://github.com/strataui/strata,"Chromium-parity Box Model, Flexbox (L1), and CSS Grid (L2) layout engine in pure Rust"
+2026-11-20T18:59:30.445061Z,git-pack-delta,0.0.3,0,0,https://github.com/PhilippNaused/git-pack-delta,Pure rust implementation of Git's delta compression algorithm. (Not to be confused with it's diff algorithm!)
+2026-11-20T19:01:57.612057Z,kernoid-clamav,0.0.0,0,0,https://github.com/kernoid/kernoid,Reserved for kernoid – the ClamAV module. The first release follows.
+2026-11-20T19:07:30.235024Z,rune-gemm,0.1.0,0,0,https://github.com/alexile/runes,"Packed, cache-blocked, SIMD, multithreaded CPU matrix multiply: strided/transposed f32/f64 GEMM, batched and grouped (ragged MoE)"
+2026-11-20T19:09:04.075174Z,strata-a11y,0.1.0,0,0,https://github.com/strataui/strata,Native screen-reader accessibility bridge and WCAG 2.1 AAA auditor for Project Strata
+2026-11-20T19:12:03.339005Z,pandrealpcs,0.18.1,0,0,,"Polynomial commitments in characteristic zero, with exact complex arithmetic, certified root counts, class-group openings and optional STARK verification"
+2026-11-20T19:14:04.658029Z,kernoid-web,0.0.0,0,0,https://github.com/kernoid/kernoid,"Reserved for kernoid – the web app and login UI, built. The first release follows."
+2026-11-20T19:16:42.332765Z,rune-lowp,0.1.0,0,0,https://github.com/alexile/runes,"Low-precision numerics for mixed-precision training: bf16, f16, fp8, MX block formats, stochastic rounding and FP8 scaling recipes"
+2026-11-20T19:17:37.645561Z,neotales-age,0.0.0-alpha.0,0,0,https://github.com/neotales/rs-age,"age v1 file encryption: recipients, identities, plugins, and encrypted containers"
+2026-11-20T19:17:45.445145Z,neotales-gotmpl,0.0.0-alpha.0,0,0,https://github.com/neotales/rs-gotmpl,"Pure, safe Go text/template parsing and rendering, with the function map supplied by the caller"
+2026-11-20T19:17:50.550149Z,neotales-sprig,0.0.0-alpha.0,0,0,https://github.com/neotales/rs-gotmpl,"Safe, deterministic Sprig-compatible template helper functions, with no clock, randomness or filesystem access"
+2026-11-20T19:17:57.027387Z,neotales-keepass,0.0.0-alpha.0,0,0,https://github.com/neotales/rs-keepass,"Headless, bounded KeePass KDBX document and wire codec"
+2026-11-20T19:18:04.573634Z,neotales-keepass-platform,0.0.0-alpha.0,0,0,https://github.com/neotales/rs-keepass,Optional platform-specific memory protection adapters for neotales-keepass
+2026-11-20T19:18:49.376675Z,j8dune,0.3.0,0,0,https://github.com/0x00-Community/j8,"dune and dunx: a JavaScript runtime on j8 with a Node-compatible layer and a Web-standard layer, and a runner for npm packages' executables"
+2026-11-20T19:19:00.683196Z,strata-render,0.1.0,0,0,https://github.com/strataui/strata,"High-performance Display List, Stacking Context Compositor, and GPU rasterization pipeline"
