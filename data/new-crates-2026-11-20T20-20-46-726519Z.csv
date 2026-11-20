@@ -1,0 +1,61 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-20T19:20:37.058972Z,webscour,0.2.0,0,0,https://github.com/FurBlood344324/webscour,"Keyless search from the command line: a local SearXNG first, then the scrapers, plus one free API per kind of question."
+2026-11-20T19:22:58.305364Z,octo-work,1.0.2,0,0,https://github.com/octopus-harness/octo-work,"A fast, keyboard-driven CLI and TUI workspace manager for Octopus AI agent harnesses"
+2026-11-20T19:23:09.865347Z,kernoid,0.0.0,0,0,https://github.com/kernoid/kernoid,Reserved for kernoid – the server and command-line program. The first release follows.
+2026-11-20T19:23:48.578968Z,rune-attn,0.1.0,0,0,https://github.com/alexile/runes,"Tiled online-softmax attention forward and backward in O(N) memory: causal, sliding window, GQA/MQA, softcap, ALiBi/bias, varlen packing, LSE merging"
+2026-11-20T19:25:21.268199Z,neotales-retry,0.0.0-alpha.0,0,0,https://github.com/neotales/rs-retry,"An immutable retry policy with fixed, exponential, and jittered backoff, and no runtime"
+2026-11-20T19:25:28.290855Z,ecies-post-quantum,0.1.0,0,0,https://github.com/ecies/rs-post-quantum,Post-quantum Cryptography Integrated Encryption Scheme in Rust
+2026-11-20T19:29:05.529132Z,strata-components,0.1.0,0,0,https://github.com/strataui/strata,Comprehensive high-level component library and design system for Strata
+2026-11-20T19:32:15.465498Z,kernoid-tui,0.0.0,0,0,https://github.com/kernoid/kernoid,Reserved for kernoid – the terminal app. The first release follows.
+2026-11-20T19:33:54.680819Z,jmap-quotas-types,0.6.0,0,0,https://github.com/MarkAtwood/crate-jmap,"JMAP Quotas data types — Quota, Scope, ResourceType (RFC 9425)"
+2026-11-20T19:34:29.565275Z,oxidi_axum,0.7.0,0,0,https://github.com/AlexPG03/oxidi,Axum integration for the Oxidi zero-cost dependency injection framework
+2026-11-20T19:34:52.643803Z,oxidi_actix,0.7.0,0,0,https://github.com/AlexPG03/oxidi,Actix-web integration for the Oxidi zero-cost dependency injection framework
+2026-11-20T19:35:20.26041Z,oxidi_rocket,0.7.0,0,0,https://github.com/AlexPG03/oxidi,Rocket integration for the Oxidi zero-cost dependency injection framework
+2026-11-20T19:35:21.525517Z,neotales-resilience,0.0.0-alpha.0,0,0,https://github.com/neotales/rs-retry,"A policy pipeline for timeouts, retries, circuit breakers, and load shedding, with no runtime"
+2026-11-20T19:37:00.838258Z,rune-fused,0.1.0,0,0,https://github.com/alexile/runes,"Fused transformer training ops with backward on f32 slices: RMSNorm, LayerNorm, gated MLP activations, rotary embeddings with long-context scaling, chunked linear + cross-entropy"
+2026-11-20T19:38:57.881803Z,strata-parallel,0.1.0,0,0,https://github.com/strataui/strata,Multi-threaded parallel subtree reconciliation and layout engine for Strata
+2026-11-20T19:41:21.568886Z,kernoid-operator,0.0.0,0,0,https://github.com/kernoid/kernoid,Reserved for kernoid – the Kubernetes operator. The first release follows.
+2026-11-20T19:41:29.021053Z,add_one_pp,0.1.0,0,0,,a crate to practice crate publishing
+2026-11-20T19:42:52.878737Z,lrsqueeze,0.9.1,0,0,https://github.com/DylanCosto/lrsqueeze,Lossy archives for Oxford Nanopore and PacBio long reads that pipelines read like the original
+2026-11-20T19:43:17.957577Z,rune-optim,0.1.0,0,0,https://github.com/alexile/runes,"Optimizers and schedules for large-model training: AdamW, Lion, Adafactor, Muon, warmup-cosine and WSD schedules, global-norm clipping, loss scaling, EMA"
+2026-11-20T19:47:48.719641Z,lrqc,0.9.1,0,0,https://github.com/DylanCosto/lrQC,Per-barcode QC reports for Oxford Nanopore and PacBio long reads
+2026-11-20T19:48:46.936098Z,strata-table,0.1.0,0,0,https://github.com/strataui/strata,Headless Data Grid & Table Engine for Strata
+2026-11-20T19:48:54.248827Z,dns-net,0.3.0,0,0,https://github.com/jamesgober/dns-net,"DNS resolver for Rust: sans-IO message encoding and decoding, a cache, UDP and TCP transport over net-io, and DNSSEC awareness."
+2026-11-20T19:49:23.459773Z,light-reactivity,0.20.0,0,0,https://github.com/gifoff/light,"Light Reactivity: сигналы, реактивные свойства и обозреватели (из light-fw-core)"
+2026-11-20T19:49:29.260131Z,light-vdom,0.20.0,0,0,https://github.com/your-org/light-rs,"VDOM, layout, DOM tree and runtime for the Light UI framework (stage 3 of the light-fw-core decomposition)"
+2026-11-20T19:49:35.188021Z,light-gui,0.20.0,0,0,https://github.com/gifoff/light,"Light GUI: окно winit, события ввода, a11y-мост, рендер-бэкенды и асинхронный рантайм (вынесено из light-fw-core в 0.20.0, Этап 4)"
+2026-11-20T19:49:40.349267Z,light-render-cpu,0.20.0,0,0,https://github.com/gifoff/light,"Light Render (CPU): программная отрисовка через softbuffer (вынесено из light-gui, 0.20.0 этап 5)"
+2026-11-20T19:49:47.361156Z,light-render-gpu,0.20.0,0,0,https://github.com/gifoff/light,"Light Render (GPU): показ кадра через pixels/wgpu (вынесено из light-gui, 0.20.0 этап 5)"
+2026-11-20T19:51:54.393963Z,tensix-insn,0.1.0,0,0,https://github.com/zinedinp/tensix-isa,"Tenstorrent Blackhole Tensix instruction encoders (generated from the ISA specification), address counters and the frontend MOP expander. no_std, no dependencies."
+2026-11-20T19:51:55.218183Z,tensix-noc,0.1.0,0,0,https://github.com/zinedinp/tensix-isa,"Tenstorrent Blackhole NoC coordinate spaces, NIU registers, GDDR channels, ARC telemetry tags and the Ethernet tile map. no_std, no dependencies."
+2026-11-20T19:51:55.620104Z,tensix-numerics,0.1.0,0,0,https://github.com/zinedinp/tensix-isa,"Bit-exact models of Tenstorrent Blackhole arithmetic: FMA, SFPU and stochastic rounding. no_std, no dependencies."
+2026-11-20T19:51:56.083194Z,tensix-regs,0.1.0,0,0,https://github.com/zinedinp/tensix-isa,"Tenstorrent Blackhole Tensix tile memory map, baby RISC-V cores and the backend configuration-register map. no_std, no dependencies."
+2026-11-20T19:51:56.505924Z,tensix-tile,0.1.0,0,0,https://github.com/zinedinp/tensix-isa,"Tenstorrent Blackhole tile layout in L1 and data formats, including block-float (BFP8/4/2) sizing and decoding. no_std, no dependencies."
+2026-11-20T19:53:21.185617Z,ratelab,0.1.0,0,0,https://github.com/azzs11/distributed-rate-limiter,"Rate limiting with measured trade-offs: token bucket, leaky bucket, fixed and sliding window, GCRA, cluster coordination strategies, adaptive concurrency limits and token budgets for LLM traffic. No…"
+2026-11-20T19:53:49.100054Z,kernoid-mime,0.0.0,0,0,https://github.com/kernoid/kernoid,Reserved for kernoid – reading and writing mail messages (MIME). The first release follows.
+2026-11-20T19:55:04.557535Z,taim-motion,0.15.0-rc.1,0,0,https://github.com/theaimartco/taim,"Frame-clock-driven, interruptible motion primitives for Taim"
+2026-11-20T19:55:05.891672Z,taim-raster,0.15.0-rc.1,0,0,https://github.com/theaimartco/taim,Flat scene encoding and tiled compute-raster contracts for Taim
+2026-11-20T19:55:06.454079Z,taim-signal,0.15.0-rc.1,0,0,https://github.com/theaimartco/taim,"Fine-grained, thread-safe reactive state for Taim"
+2026-11-20T19:55:07.391071Z,taim_atlas,0.15.0-rc.1,0,0,https://github.com/theaimartco/taim,TAIM's generational skyline and free-rectangle atlas allocator
+2026-11-20T19:55:13.300385Z,taim_core,0.15.0-rc.1,0,0,https://github.com/theaimartco/taim,The essential ideas of taim
+2026-11-20T19:56:06.997341Z,node-device-session,7.6.210,0,0,https://github.com/econ-v1/node,Shared server for /econ-v1/device-session/1 behind transport-neutral traits (C-5)
+2026-11-20T19:58:48.207927Z,strata-toast,0.1.0,0,0,https://github.com/strataui/strata,Stacked Toast Notification Engine for Strata
+2026-11-20T20:02:07.139547Z,taim-gesture,0.15.0-rc.1,0,0,https://github.com/theaimartco/taim,"A unified pointer gesture arena for taim: competition, capture, cancellation, and recognizers"
+2026-11-20T20:07:25.025863Z,tensix-fw-abi,0.1.0,0,0,https://github.com/zinedinp/tensix-isa,"The host/firmware protocol of the tensix stack on Tenstorrent Blackhole: L1 region map, mailboxes, data-mover descriptors and records, dataflow, ttinsn blocks. no_std."
+2026-11-20T20:07:26.033127Z,tensix-layout,0.1.0,0,0,https://github.com/zinedinp/tensix-isa,"Host-side tilization for Tenstorrent Blackhole: strided row-major tensors to the L1 tile image the unpacker reads, and back."
+2026-11-20T20:08:32.927721Z,octo-com,1.0.0,0,0,https://github.com/octopus-harness/octo-com,A fast CLI and keyboard-driven TUI for managing Octopus $$ command definitions
+2026-11-20T20:08:41.181922Z,strata-ui-platform,0.1.0,0,0,https://github.com/strataui/strata,"Native Hardware Abstraction Layer for Android, iOS, macOS, Windows, Linux, and Web"
+2026-11-20T20:10:39.078769Z,frogquad,0.5.0,0,0,,Simple and easy to use graphics library
+2026-11-20T20:11:45.920823Z,taim-highlighter,0.15.0-rc.1,0,0,https://github.com/theaimartco/taim,Dependency-free incremental syntax highlighting for Taim
+2026-11-20T20:13:11.724053Z,jmap-quotas-client,0.6.0,0,0,https://github.com/MarkAtwood/crate-jmap,JMAP Quotas HTTP client — extension trait over jmap-base-client (RFC 9425)
+2026-11-20T20:13:12.170392Z,jmap-quotas-server,0.6.0,0,0,https://github.com/MarkAtwood/crate-jmap,"JMAP Quotas method handlers (RFC 9425 Quota/get, /changes, /query, /queryChanges) — backend-agnostic, plugs into jmap-server Dispatcher"
+2026-11-20T20:17:19.667135Z,h2-net,0.3.1,0,0,https://github.com/jamesgober/h2-net,"Sans-IO HTTP/2 engine for Rust: frames, HPACK, streams and flow control, with the same strictness and budgets as http-net."
+2026-11-20T20:17:29.816523Z,ultra-instinct-chrome,0.1.1,0,0,https://github.com/hexuria/ultra-instinct,Find and start a local Chrome / Chromium with a DevTools port for ultra-instinct (std only).
+2026-11-20T20:18:30.773905Z,ultra-instinct-browser-tools,0.1.1,0,0,https://github.com/hexuria/ultra-instinct,browser_* MCP tool families (browser-use-compatible host surface) for ultra-instinct
+2026-11-20T20:18:51.806143Z,ultra-instinct-verbs,0.1.1,0,0,https://github.com/hexuria/ultra-instinct,ultra-instinct shell verbs and the session daemon
+2026-11-20T20:19:54.58672Z,taim-profiler,0.15.0-rc.1,0,0,https://github.com/theaimartco/taim,"Low-overhead, privacy-preserving instrumentation for Taim"
+2026-11-20T20:20:07.604464Z,frenz-proto,0.1.0,0,0,https://github.com/ljchang/openfrenz,"Wire-protocol decoders and command encoders for the FRENZ brainband (no I/O, no_std)"
+2026-11-20T20:20:10.320864Z,tensix-units,0.1.0,0,0,https://github.com/zinedinp/tensix-isa,"Checked builders for the Tenstorrent Blackhole Tensix units: SFPU, backend config, matrix unit, packer, unpacker, semaphores, scalar unit, hazards, tag search. no_std."
+2026-11-20T20:20:10.807634Z,frenz,0.1.0,0,0,https://github.com/ljchang/openfrenz,"Async client for the FRENZ brainband over Bluetooth LE: streams, commands, lossless recording"
+2026-11-20T20:20:14.222493Z,frenz-export,0.1.0,0,0,https://github.com/ljchang/openfrenz,Turn openfrenz recordings of the FRENZ brainband into time-aligned Parquet session datasets
+2026-11-20T20:20:19.814269Z,frenz-cli,0.1.0,0,0,https://github.com/ljchang/openfrenz,"Command-line tool for the FRENZ brainband: scan, record, summarize"
