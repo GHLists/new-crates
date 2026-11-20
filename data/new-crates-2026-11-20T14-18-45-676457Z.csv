@@ -1,0 +1,36 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-20T13:20:36.030841Z,noonoo-hx,0.20.0,0,0,https://github.com/nixpt/noonoo,Noonoo's htmx-like layer: declarative attributes driving fetch + DOM swaps.
+2026-11-20T13:21:15.438501Z,rectiling,1.0.0,0,0,https://github.com/sg495/rectiling,Exact enumeration of tilings of a rectangle by similar rectangles.
+2026-11-20T13:21:59.988296Z,sidenote,0.2.1,0,0,https://github.com/gaspb/sidenote,"Per-repo scratch notes in your terminal, stored outside the repo"
+2026-11-20T13:25:29.290921Z,hol-cigar,0.14.2,0,0,https://github.com/hashgraph-online/hol-cigar,"Open-source context engineering protocol for AI agents: governed retrieval, bounded multi-agent handoffs, MCP, provenance, recoverable effects, and replay."
+2026-11-20T13:26:31.539317Z,iquji-community-agent-wire,0.2.0,0,0,https://github.com/haydardsx/iquji-community-agent,"Rust types and validation for agent requests, events and process supervision."
+2026-11-20T13:26:41.355174Z,iquji-community-agent,0.2.0,0,0,https://github.com/haydardsx/iquji-community-agent,Rust library and CLI for connecting to locally configured coding agents.
+2026-11-20T13:30:49.082302Z,noonoo-ini,0.20.0,0,0,https://github.com/nixpt/noonoo,Noonoo's INI parser: sections and key/value pairs to a value model.
+2026-11-20T13:31:50.525097Z,whotop,0.1.1,0,0,https://github.com/ivedmohan/whotop,"Who is your computer talking to? A btop-style terminal monitor focused on network connections, explained in plain English."
+2026-11-20T13:34:23.677691Z,summa-propisyu,0.1.0,0,0,,"Money amounts in words for invoices and contracts: Russian, Ukrainian, Lithuanian, English, French. Сумма прописью."
+2026-11-20T13:40:04.586033Z,y901-backend-x11,0.2.5,0,0,https://github.com/901548/y901,X11 backend for Y901.
+2026-11-20T13:41:02.159247Z,noonoo-shell,0.20.0,0,0,https://github.com/nixpt/noonoo,"Noonoo's document host: multiple documents in one window, routed and composited."
+2026-11-20T13:43:37.28647Z,nespra_admin,0.1.0,0,0,https://github.com/kriogenia/nespra,"Unofficial async Rust client for the Vespa operational APIs: health, status and more"
+2026-11-20T13:47:28.254113Z,werker,0.1.0,0,0,,A stdio MCP server that uses a Forgejo repository as an issue tracker for coding agents
+2026-11-20T13:50:41.824245Z,tuigv-core,0.1.1,0,0,https://github.com/zhanxw/tuigv,"Pure async genomics data layer for tuigv: regions, remote range I/O, alignment analytics, coverage, pedigrees, Sashimi junctions, and multi-format readers. UI-free."
+2026-11-20T13:51:08.1368Z,tuigv-render,0.1.1,0,0,https://github.com/zhanxw/tuigv,"Graphical SVG, PNG, circular Circos chord, and Kitty/iTerm2/Sixel terminal pixel renderer for tuigv."
+2026-11-20T13:51:08.292327Z,rigv,0.1.0,0,0,,Rust port of the Integrative Genomics Viewer (IGV) with desktop GUI and headless batch rendering
+2026-11-20T13:51:14.953171Z,noonoo-xml,0.20.0,0,0,https://github.com/nixpt/noonoo,Noonoo's XML parser: documents into the noonoo-dom tree.
+2026-11-20T13:51:25.189425Z,tuigv-serve,0.1.1,0,0,https://github.com/zhanxw/tuigv,Local HTTP server that bidirectionally mirrors the tuigv TUI view in igv.js.
+2026-11-20T13:52:06.740344Z,tuigv,0.1.0,0,0,https://github.com/zhanxw/tuigv,"Interactive terminal & headless genome viewer supporting BAM/CRAM/SAM/PAF, VCF/BCF/PED, GFF/GTF/BED/bigBed, bigWig/WIG/bedGraph, BEDPE/bigInteract, SEG CNV, GWAS Manhattan plots, Sashimi junctions, a…"
+2026-11-20T13:55:00.235585Z,rigvtools,0.1.0,0,0,,"Companion CLI genomic utilities (faidx, sort, count, info) for rigv"
+2026-11-20T13:56:21.241953Z,rune-cloud-ranges,0.1.0,0,0,https://github.com/alexile/runes,"Cloud and CDN IP-range datasets (AWS, Google, Azure, Cloudflare, Fastly, Oracle, DigitalOcean) with provider, service and CDN lookup"
+2026-11-20T13:56:24.676678Z,rune-cookie,0.1.0,0,0,https://github.com/alexile/runes,"RFC 6265 cookies: Set-Cookie/Cookie parsing and serialization, cookie dates, and a sans-I/O cookie jar with PSL scoping and SameSite"
+2026-11-20T13:56:28.316098Z,rune-cookie-sec,0.1.0,0,0,https://github.com/alexile/runes,"Analyze Set-Cookie headers for weak security attributes, reporting rune-finding findings"
+2026-11-20T13:56:31.896988Z,rune-cors,0.1.0,0,0,https://github.com/alexile/runes,"Analyze CORS response headers for dangerous origin, credential and allowlist combinations, reporting rune-finding findings"
+2026-11-20T13:56:35.102602Z,rune-csp,0.1.1,0,0,https://github.com/alexile/runes,"Parse, analyze and canonicalize Content-Security-Policy headers, reporting weaknesses as rune-finding findings"
+2026-11-20T13:58:51.267765Z,arcadia-macros,0.1.1,0,0,https://github.com/azomura/arcadia-framework,Procedural macros for the Arcadia Rust backend framework
+2026-11-20T13:58:55.43179Z,arcadia-framework,0.1.1,0,0,https://github.com/azomura/arcadia-framework,A NestJS-inspired modular backend framework for Rust
+2026-11-20T14:01:11.234368Z,y901-backend-win32,0.2.5,0,0,https://github.com/901548/y901,Win32 / D3D11 backend for Y901.
+2026-11-20T14:01:28.254686Z,noonoo-svg,0.20.0,0,0,https://github.com/nixpt/noonoo,Noonoo's SVG parser: an SVG subset rendered to paint commands.
+2026-11-20T14:02:54.125545Z,egui_mineral_eframe,0.0.0,0,0,https://github.com/lajosbencz/egui_mineral,"Placeholder for egui_mineral_eframe, part of the egui_mineral UI framework; releases follow."
+2026-11-20T14:04:14.335838Z,coinolive,1.0.0,0,0,https://github.com/coino-live/rust-crypto-payments,"Coino Live API v2 client: accept crypto payments, custody users, withdrawals and webhook verification."
+2026-11-20T14:05:13.171978Z,rune-cve,0.1.0,0,0,https://github.com/alexile/runes,CVE and NVD 2.0 record model with CPE 2.3 parsing and version-range matching
+2026-11-20T14:11:10.185915Z,y901-backend-web,0.2.5,0,0,https://github.com/901548/y901,"Y901 browser (wasm32) backend: canvas presentation, DOM input, rAF pacing"
+2026-11-20T14:11:41.011406Z,noonoo-toml,0.20.0,0,0,https://github.com/nixpt/noonoo,Noonoo's TOML parser: a documented subset into the JSON value model.
+2026-11-20T14:14:58.124684Z,rune-ml-metrics,0.1.0,0,0,https://github.com/alexile/runes,"Model evaluation metrics — classification, ranking (ROC/PR), regression and clustering scores matching scikit-learn"
