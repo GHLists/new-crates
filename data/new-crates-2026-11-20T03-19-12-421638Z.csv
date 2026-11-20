@@ -1,0 +1,27 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-20T02:19:30.584199Z,rust-webx-ai-gateway,1.5.0,0,0,https://github.com/Rust-Framework/rust-webx,OpenAI-compatible HTTP surface for rust-webx-ai model gateways
+2026-11-20T02:20:07.342635Z,patina_mm_cpu,24.5.0,0,0,https://github.com/OpenDevicePartnership/patina,MM CPU component producing the EFI_MM_CPU_PROTOCOL (save-state access) in the MM User Core.
+2026-11-20T02:20:15.188309Z,patina_mm_supervisor,24.5.0,0,0,https://github.com/OpenDevicePartnership/patina,A pure Rust implementation of the MM Supervisor Core for standalone MM mode environments.
+2026-11-20T02:20:20.580862Z,patina_mm_user_core,24.5.0,0,0,https://github.com/OpenDevicePartnership/patina,A pure Rust implementation of the MM User Core for standalone MM mode environments.
+2026-11-20T02:25:45.055231Z,demarcate,0.2.2,0,0,https://github.com/HarryJhin/demarcate,"Declarative transactions for Rust, ported from Spring: #[transactional], propagation, rollback rules and transaction synchronization"
+2026-11-20T02:25:51.285596Z,swc_fork_react_compiler_ssa,0.1.0,0,0,https://github.com/swc-project/react,SSA transformations for the React Compiler
+2026-11-20T02:29:51.391947Z,effector,0.0.1,0,0,https://github.com/nomissbowling/effector-rs,effector
+2026-11-20T02:35:36.842597Z,mwrev,0.1.0,0,0,https://github.com/internetarchive/RevisionChest,"The .mwrev.zst revision bundle format: a zstd stream of '# page_id=… rev_id=…' header lines followed by space-prefixed text lines; writer with byte offsets, streaming reader"
+2026-11-20T02:36:01.754408Z,swc_fork_react_compiler_optimization,0.1.0,0,0,https://github.com/swc-project/react,Optimization passes for the React Compiler
+2026-11-20T02:40:53.404911Z,against,0.1.0,0,0,https://github.com/jason-darcy/against,The Against framework for Rust (name reserved; work in progress).
+2026-11-20T02:46:11.230527Z,swc_fork_react_compiler_inference,0.1.0,0,0,https://github.com/swc-project/react,Inference passes for the React Compiler
+2026-11-20T02:46:27.668615Z,fist-copy,0.0.5,0,0,https://github.com/Squirreljetpack/fist,"Background copy/move/extract engine for fist: worker pool, reflink, cancellation, progress"
+2026-11-20T02:49:30.740873Z,rxwpe-scene,0.1.0,0,0,https://github.com/NikoPit/rxwpe,Scene playback for Wallpaper Engine projects
+2026-11-20T02:49:32.349531Z,rxwpe-video,0.1.0,0,0,https://github.com/NikoPit/rxwpe,Video wallpaper playback for rxwpe
+2026-11-20T02:49:34.100808Z,rxwpe-web,0.1.0,0,0,https://github.com/NikoPit/rxwpe,Web wallpaper support for rxwpe
+2026-11-20T02:49:38.483656Z,rxwpe,0.1.0,0,0,https://github.com/NikoPit/rxwpe,Play Wallpaper Engine wallpapers on Linux and macOS
+2026-11-20T02:52:04.573904Z,rxwpe-shader,0.1.0,0,0,https://github.com/NikoPit/rxwpe,Shader preprocessing for Wallpaper Engine projects
+2026-11-20T02:52:49.373675Z,asclepius-coeus,0.4.0,0,0,https://github.com/ryancinsight/asclepius,Coeus autodiff integration for Asclepius biological-response laws
+2026-11-20T02:56:21.643128Z,swc_fork_react_compiler_typeinference,0.1.0,0,0,https://github.com/swc-project/react,Type inference passes for the React Compiler
+2026-11-20T03:03:59.737237Z,tree-sitter-ruby-magikdidi24,0.25.0,0,0,https://github.com/Magikdidi24/tree-sitter-ruby,Ruby grammar for tree-sitter
+2026-11-20T03:06:26.90169Z,swc_fork_react_compiler_validation,0.1.0,0,0,https://github.com/swc-project/react,Validation passes for the React Compiler
+2026-11-20T03:07:26.784396Z,ordet-format,0.1.0,0,0,https://github.com/LeonardoAmadeo/ordet,Shared .ord document load/save format for Ordet
+2026-11-20T03:07:34.397708Z,ordet-tui-framework,0.1.0,0,0,https://github.com/LeonardoAmadeo/ordet,"Low-level TUI primitives, component trait, keymap, focus, task pool, and renderer for Ordet"
+2026-11-20T03:07:52.038449Z,ordet,0.1.0,0,0,https://github.com/LeonardoAmadeo/ordet,Terminal-first Ordet word processor binary
+2026-11-20T03:16:00.351283Z,jsonbit,1.1.1,0,0,https://github.com/prathikmurugan/jsonbit,jsonbit — Pure-Rust Auto-3NF Columnar Bit-Packed & BitVec64 Analytical Engine for LLMs
+2026-11-20T03:16:33.430958Z,swc_fork_react_compiler,0.1.0,0,0,https://github.com/swc-project/react,Rust implementation of the React Compiler
