@@ -1,0 +1,18 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-20T04:22:28.851421Z,jmap-vtc-sip,0.0.1,0,0,https://github.com/MarkAtwood/crate-jmap,SIP/PSTN gateway adapter for JMAP VTC calls (early placeholder)
+2026-11-20T04:32:29.042708Z,mimid,0.0.1,0,0,https://github.com/MarkAtwood/mimid,"MIMI reference implementation over MLS: provider server, agent and protocol crates (early placeholder)"
+2026-11-20T04:42:29.594871Z,mimi-content,0.0.1,0,0,https://github.com/MarkAtwood/mimid,draft-ietf-mimi-content message format for the mimid MIMI reference implementation (early placeholder)
+2026-11-20T04:43:31.210045Z,sidescope,0.1.0,0,0,https://github.com/mschulkind-oss/sidescope,"Native Wayland status column for AI usage, system telemetry, and weather"
+2026-11-20T04:46:22.898679Z,gadk-bigquery,0.4.5,0,0,https://github.com/sirhco/gadk-rust,"A BigQuery toolset for gadk agents: list datasets and tables, read their metadata and run SQL"
+2026-11-20T04:49:01.188278Z,viewer,0.0.1,0,0,https://github.com/nomissbowling/viewer-rs,viewer
+2026-11-20T04:51:23.76852Z,gitforge-mcp,0.2.1,0,0,https://github.com/paceydev/gitforge-mcp,"An MCP server for CI, pull requests and repository settings on Gitea, Forgejo and GitHub"
+2026-11-20T04:51:29.118433Z,ssf-evidence,0.1.0,0,0,https://github.com/probityai/probity,"Security Event Tokens for the OpenID Shared Signals Framework whose CAEP events carry a DSSE evidence reference, and a verifier that refuses any event whose evidence does not resolve and verify."
+2026-11-20T04:52:29.412036Z,mimi-protocol,0.0.1,0,0,https://github.com/MarkAtwood/mimid,draft-ietf-mimi-protocol wire types for the mimid MIMI reference implementation (early placeholder)
+2026-11-20T04:56:50.228755Z,ditch,0.1.0,0,0,https://github.com/baoulo/ditch.git,Delete regenerable build output from development projects.
+2026-11-20T05:00:34.127562Z,nine_dev_site_build,0.1.0,0,0,,Build-time asset fingerprinting for 9 Developers websites
+2026-11-20T05:02:20.043875Z,rust-webx-engine,2.0.0,0,0,https://github.com/Rust-Framework/rust-webx,"rust-webx 2.0 execution engine: per-worker runtimes, zero-copy request context, direct dispatch"
+2026-11-20T05:02:28.705357Z,mimi-mls,0.0.1,0,0,https://github.com/MarkAtwood/mimid,MLS layer for the mimid MIMI reference implementation (early placeholder)
+2026-11-20T05:03:04.058017Z,rutis-abi,0.23.0,0,0,https://github.com/arcships/rutis,"The const ABI of the rutis plugin boot blob: its layout, the SDK's metadata, and the SHA-256 text check"
+2026-11-20T05:04:58.076714Z,secret-sense,0.0.0-alpha.0,0,0,https://github.com/convex/secret-sense,"Guess whether a string is a secret (API key, token, credential) or plain configuration"
+2026-11-20T05:12:29.338877Z,mimi-room-policy,0.0.1,0,0,https://github.com/MarkAtwood/mimid,draft-ietf-mimi-room-policy codecs and policy evaluation for mimid (early placeholder)
+2026-11-20T05:13:53.758412Z,power-rs,0.1.0,0,0,https://github.com/MaksUnweb/power-rs,"Power manager TUI for Linux, OpenBSD and macOS"
