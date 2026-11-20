@@ -1,0 +1,41 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-20T12:29:04.901976Z,ml-compression-operator,0.1.0,0,0,https://github.com/gabrielvfonseca/ml-compression,Kubernetes operator for Compression compression jobs
+2026-11-20T12:29:22.841819Z,noonoo-caps,0.20.0,0,0,https://github.com/nixpt/noonoo,"Noonoo's capability gating: the policy seam, scopes, and a gated DOM."
+2026-11-20T12:38:48.002742Z,ml-compression-models-zoo,0.1.0,0,0,https://github.com/gabrielvfonseca/ml-compression,Model manifests (metadata contracts) for the compression model zoo; real weights are fetched from S3 at runtime
+2026-11-20T12:38:59.003175Z,pi_ffi_abi,0.1.0,0,0,https://github.com/GaiaWorld/pi-ffi,Rust 插件管理协议的 C 应用二进制接口（C ABI）类型与常量
+2026-11-20T12:39:35.90514Z,noonoo-paint,0.20.0,0,0,https://github.com/nixpt/noonoo,Noonoo's paint: a layout tree into a backend-neutral render command stream.
+2026-11-20T12:39:35.90664Z,pi_ffi_macros,0.1.0,0,0,https://github.com/GaiaWorld/pi-ffi,生成 Rust 插件标准外部函数接口（FFI）入口的过程宏（procedural macros）
+2026-11-20T12:39:44.51757Z,rollog,0.2.125,0,0,https://atomgit.com/i18n-site/rs,Initialize rolling file logging by project name with RUST_LOG filtering
+2026-11-20T12:39:56.757942Z,sisa-messaging-postgres,0.1.0,0,0,https://github.com/sisaio/sisa-messaging-rs,"The PostgreSQL outbox and inbox of Sisa Messaging, on sqlx"
+2026-11-20T12:40:05.390244Z,sisa-messaging,0.1.0,0,0,https://github.com/sisaio/sisa-messaging-rs,"Messaging for Rust services with an optional transactional outbox and inbox: pick a transport, a database and a codec"
+2026-11-20T12:40:47.289005Z,pi_ffi_core,0.1.0,0,0,https://github.com/GaiaWorld/pi-ffi,Rust 插件外部函数接口（FFI）的受控对象交接、调用保护与错误诊断
+2026-11-20T12:42:35.985641Z,pi_ffi_adapters,0.1.0,0,0,https://github.com/GaiaWorld/pi-ffi,Rust 插件外部函数接口（FFI）的运行时（runtime）、配置（configuration）和服务终端（service terminal）适配
+2026-11-20T12:43:31.436098Z,pi_ffi,0.1.0,0,0,https://github.com/GaiaWorld/pi-ffi,Rust 插件动态库（dynamic library）的加载、初始化（initialization）、关闭与宿主管理接口（host API）
+2026-11-20T12:46:48.364053Z,cargo-tparse,0.1.0,0,0,https://github.com/mfridman/cargo-tparse,Summarize cargo test JSON output in tables
+2026-11-20T12:48:20.531334Z,hol-cigar-windows-ipc,0.9.4,0,0,https://github.com/CIGAR/cigar,Audited Windows local IPC and credential ACL adapter for CIGAR
+2026-11-20T12:48:32.905377Z,hol-cigar-context,0.14.2,0,0,https://github.com/hashgraph-online/hol-cigar,"Incremental, token-budgeted local context graphs with citations and verified deltas"
+2026-11-20T12:48:56.896834Z,ml-compression-csharp,0.1.0,0,0,https://github.com/gabrielvfonseca/ml-compression,C# bindings for ml-compression lossless ML-predictive compression library
+2026-11-20T12:49:48.923003Z,noonoo-engine,0.20.0,0,0,https://github.com/nixpt/noonoo,"Noonoo's orchestration: a parsed, styled, laid-out engine over a DOM document."
+2026-11-20T12:50:39.680405Z,sv-yosys,0.2.0,0,0,https://github.com/mayurkubavat/svlang,"Yosys JSON writer for the svlang RTL netlist: SystemVerilog designs as Yosys word-level cells, for synthesis, equivalence and formal flows"
+2026-11-20T12:50:42.109977Z,sv-aiger,0.2.0,0,0,https://github.com/mayurkubavat/svlang,AIGER writer for the svlang RTL netlist: SystemVerilog designs bit-blasted to and-inverter graphs for model checkers and logic tools
+2026-11-20T12:50:47.210903Z,svlang-cli,0.2.0,0,0,https://github.com/mayurkubavat/svlang,"The svlang command line: check SystemVerilog, print the hierarchy and syntax tree, and write the design as a netlist, Btor2 or AIGER"
+2026-11-20T12:51:16.458036Z,stingy4rust-core,0.0.1,0,0,https://github.com/umbgtt10/stingy4rust,"The measuring behind cargo-stingy4rust: a Rust codebase's heap, peak heap, storage and wire bytes under fixed load profiles. In development: this release reserves the name."
+2026-11-20T12:51:19.929391Z,cargo-stingy4rust,0.0.1,0,0,https://github.com/umbgtt10/stingy4rust,"A cargo subcommand that holds a Rust codebase to budgets of heap, peak heap, storage and wire bytes under fixed load profiles. In development: this release reserves the name."
+2026-11-20T13:00:02.170537Z,noonoo-events,0.20.0,0,0,https://github.com/nixpt/noonoo,Noonoo's input event model and DOM event dispatch.
+2026-11-20T13:00:04.346473Z,y901-core,0.2.5,0,0,https://github.com/901548/y901,"Terminal grid, reflow and cell width primitives for Y901."
+2026-11-20T13:00:59.355065Z,voyager-ogm,0.4.0-alpha.8,0,0,https://github.com/tanishq-kumar/voyager,"Core AST compiler, optimizer, and multi-dialect emitters for Voyager OGM"
+2026-11-20T13:01:28.616835Z,y901-ui,0.2.5,0,0,https://github.com/901548/y901,"Widget tree, layout, events and theming for Y901."
+2026-11-20T13:02:12.217173Z,voyager-drivers,0.4.0-alpha.8,0,0,https://github.com/tanishq-kumar/voyager,"Client driver layer for Bolt (Neo4j, Memgraph), PostgreSQL wire (Apache AGE), and Redis/RESP (FalkorDB), with connection pooling and transactions"
+2026-11-20T13:02:17.838733Z,voyager-cli,0.4.0-alpha.8,0,0,https://github.com/tanishq-kumar/voyager,"Command-line interface, benchmarking runner, and schema tools for Voyager OGM"
+2026-11-20T13:02:55.480133Z,y901-render,0.2.5,0,0,https://github.com/901548/y901,"Platform-independent rendering for Y901 (soft backend, font engine, atlas, mip)."
+2026-11-20T13:04:13.75134Z,y901-widgets,0.2.5,0,0,https://github.com/901548/y901,"Reusable widgets (Button, TextInput, Table, Dialog, Alert, ...) for Y901."
+2026-11-20T13:05:29.792537Z,y901-runtime,0.2.5,0,0,https://github.com/901548/y901,"Platform contracts (Host, PlatformRuntime, RawEvent) for Y901."
+2026-11-20T13:07:56.620663Z,duet-bus,0.4.0,0,0,https://github.com/tasker-systems/duet,"duet's event bus: the project's journal, appended under one lock, read from a cursor, replayed and checked."
+2026-11-20T13:08:16.321776Z,duet-actions,0.4.0,0,0,https://github.com/tasker-systems/duet,"duet's actions: every command's work, each with a typed input, run the same from every face, recording each document it writes."
+2026-11-20T13:10:22.106542Z,noonoo-headless,0.20.0,0,0,https://github.com/nixpt/noonoo,"Noonoo's headless tooling: tree dump, virtual clock, and synthetic input."
+2026-11-20T13:10:57.238532Z,y901-extras,0.2.5,0,0,https://github.com/901548/y901,"Terminal widget, VT parsing and PTY integration for Y901."
+2026-11-20T13:11:27.59881Z,fspath,0.2.125,0,0,https://atomgit.com/i18n-site/rs,"Cross-platform path normalization, relative path resolution, and parent directory sync"
+2026-11-20T13:13:53.436944Z,auto_conc,0.1.0,0,0,https://atomgit.com/i18n-site/rs,Adaptive per-slot concurrency scheduler with demand-gated probing and in-stream backoff
+2026-11-20T13:16:31.236816Z,lazywalk,0.2.125,0,0,https://atomgit.com/i18n-site/rs,Lazily enumerate directories by glob-like path patterns with default ignore rules
+2026-11-20T13:16:38.291612Z,progbar,0.2.125,0,0,https://atomgit.com/i18n-site/rs,Task-count progress tracker and sliding-window ETA estimator for concurrent workloads
+2026-11-20T13:16:45.795567Z,tui_matrix,0.1.0,0,0,https://atomgit.com/i18n-site/rs,"Stateless Matrix digital rain, twinkling phosphor pulse, and CRT palette for ratatui"

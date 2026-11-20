@@ -8,46 +8,54 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-20 12:21 UTC
+## Latest list — 2026-11-20 13:19 UTC
 
-New crates published between 2026-11-20 11:19 UTC and 2026-11-20 12:21 UTC.
+New crates published between 2026-11-20 12:21 UTC and 2026-11-20 13:19 UTC.
 
-[Full CSV](data/new-crates-2026-11-20T12-21-39-289511Z.csv)
+[Full CSV](data/new-crates-2026-11-20T13-19-27-060652Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-20 11:24:19 | [qtcloud-agent-cli](https://crates.io/crates/qtcloud-agent-cli) | 0.1.0-alpha.1 | 0 | 量潮智能体云命令行工具 |
-| 2026-11-20 11:28:05 | [noonoo-query](https://crates.io/crates/noonoo-query) | 0.20.0 | 0 | Noonoo's DOM queries: full CSS selectors over a document, and element-scoped qu… |
-| 2026-11-20 11:31:30 | [ultrafast](https://crates.io/crates/ultrafast) | 0.0.1 | 0 | The GPU video engine for agents (not released yet; see https://ultrafast.mov) |
-| 2026-11-20 11:31:33 | [ultrafastmov](https://crates.io/crates/ultrafastmov) | 0.0.1 | 0 | The GPU video engine for agents (not released yet; see https://ultrafast.mov) |
-| 2026-11-20 11:31:57 | [ml-compression-node](https://crates.io/crates/ml-compression-node) | 0.1.0 | 0 | Node.js bindings for Compression |
-| 2026-11-20 11:35:41 | [cargo-remap](https://crates.io/crates/cargo-remap) | 0.1.0 | 0 | Map every git worktree to one fixed path so new worktrees reuse cargo's build c… |
-| 2026-11-20 11:38:18 | [noonoo-style](https://crates.io/crates/noonoo-style) | 0.20.0 | 0 | Noonoo's style engine: the CSS cascade, inheritance, and computed values. |
-| 2026-11-20 11:39:49 | [ml-compression-bindings](https://crates.io/crates/ml-compression-bindings) | 0.1.0 | 0 | Python bindings for Compression |
-| 2026-11-20 11:41:47 | [auric-inflector](https://crates.io/crates/auric-inflector) | 0.8.2 | 0 | English inflections, ported from Rails for the Ember-inspired Auric SPA framewo… |
-| 2026-11-20 11:42:01 | [auric-inflector-helpers](https://crates.io/crates/auric-inflector-helpers) | 0.8.2 | 0 | Inflector helpers addon for the Ember-inspired Auric SPA framework |
-| 2026-11-20 11:42:05 | [auric-inflector-helpers-build](https://crates.io/crates/auric-inflector-helpers-build) | 0.8.2 | 0 | Codegen for the Inflector Helpers addon for the Ember-inspired Auric SPA framew… |
-| 2026-11-20 11:44:01 | [proton-media-rs](https://crates.io/crates/proton-media-rs) | 0.1.1 | 0 | Media plumbing for Proton Drive apps: block range maps, single-flight fetches,… |
-| 2026-11-20 11:48:31 | [noonoo-layout](https://crates.io/crates/noonoo-layout) | 0.20.0 | 0 | Noonoo's box layout: computed style into a positioned box tree. |
-| 2026-11-20 11:55:10 | [popsub_protocol](https://crates.io/crates/popsub_protocol) | 0.1.0 | 0 | The PopSub WebSocket protocol: every frame clients and the server exchange |
-| 2026-11-20 11:55:21 | [popsub_sdk](https://crates.io/crates/popsub_sdk) | 0.1.0 | 0 | Rust client for PopSub: reconnection, durable sessions, acknowledgements and de… |
-| 2026-11-20 11:58:37 | [ml-compression-cli](https://crates.io/crates/ml-compression-cli) | 0.1.0 | 0 | CLI for Compression |
-| 2026-11-20 11:58:44 | [noonoo-a11y](https://crates.io/crates/noonoo-a11y) | 0.20.0 | 0 | Noonoo's accessibility tree: DOM + computed style + layout into an assistive mo… |
-| 2026-11-20 12:01:50 | [ml-compression-s3](https://crates.io/crates/ml-compression-s3) | 0.1.0 | 0 | S3 compression layer for Compression |
-| 2026-11-20 12:07:58 | [cpp_toolchain](https://crates.io/crates/cpp_toolchain) | 0.4.0 | 0 | The toolchain and preprocessor layer of cpp_ls: how a translation unit is found… |
-| 2026-11-20 12:08:05 | [redactant-derive](https://crates.io/crates/redactant-derive) | 0.1.14 | 0 | Derive macro for redactant's `Redact` trait: every field of a record states wha… |
-| 2026-11-20 12:08:57 | [noonoo-json](https://crates.io/crates/noonoo-json) | 0.20.0 | 0 | Noonoo's JSON: a dependency-free parser, value model, and writer. |
-| 2026-11-20 12:10:07 | [vectoron](https://crates.io/crates/vectoron) | 0.1.0 | 0 | A minimal, modular machine-learning framework for inference. |
-| 2026-11-20 12:10:47 | [ml-compression-postgres](https://crates.io/crates/ml-compression-postgres) | 0.1.0 | 0 | PostgreSQL extension for ml-compression |
-| 2026-11-20 12:13:09 | [clarity-data](https://crates.io/crates/clarity-data) | 0.1.0 | 0 | Clarity.Data: the runtime data of the programs Clarity generates (records, thei… |
-| 2026-11-20 12:15:55 | [sisa-messaging-core](https://crates.io/crates/sisa-messaging-core) | 0.1.0 | 0 | The contracts of Sisa Messaging: messages, CloudEvents envelopes, codecs, and t… |
-| 2026-11-20 12:16:01 | [sisa-messaging-runtime](https://crates.io/crates/sisa-messaging-runtime) | 0.1.0 | 0 | The engine of Sisa Messaging: the bus, the receive pipeline, the outbox dispatc… |
-| 2026-11-20 12:16:36 | [sisa-messaging-nats](https://crates.io/crates/sisa-messaging-nats) | 0.1.0 | 0 | The NATS JetStream transport of Sisa Messaging |
-| 2026-11-20 12:17:33 | [sisa-messaging-iggy](https://crates.io/crates/sisa-messaging-iggy) | 0.1.0 | 0 | The Apache Iggy transport of Sisa Messaging |
-| 2026-11-20 12:17:43 | [sisa-messaging-redis](https://crates.io/crates/sisa-messaging-redis) | 0.1.0 | 0 | The Redis Streams transport of Sisa Messaging, for Redis, Valkey and Dragonfly |
-| 2026-11-20 12:18:07 | [ml-compression-kafka](https://crates.io/crates/ml-compression-kafka) | 0.1.0 | 0 | Kafka serializer/deserializer for ml-compression lossless ML-predictive compres… |
-| 2026-11-20 12:19:10 | [noonoo-caison](https://crates.io/crates/noonoo-caison) | 0.20.0 | 0 | Noonoo's CAISON parser: Crush AI-native Semantic Object Notation. |
-| 2026-11-20 12:20:56 | [clarity-pdf](https://crates.io/crates/clarity-pdf) | 0.1.0 | 0 | Clarity.Pdf: Markdown and Clarity content laid out by Typst into PDF files, for… |
+| 2026-11-20 12:29:04 | [ml-compression-operator](https://crates.io/crates/ml-compression-operator) | 0.1.0 | 0 | Kubernetes operator for Compression compression jobs |
+| 2026-11-20 12:29:22 | [noonoo-caps](https://crates.io/crates/noonoo-caps) | 0.20.0 | 0 | Noonoo's capability gating: the policy seam, scopes, and a gated DOM. |
+| 2026-11-20 12:38:48 | [ml-compression-models-zoo](https://crates.io/crates/ml-compression-models-zoo) | 0.1.0 | 0 | Model manifests (metadata contracts) for the compression model zoo; real weight… |
+| 2026-11-20 12:38:59 | [pi_ffi_abi](https://crates.io/crates/pi_ffi_abi) | 0.1.0 | 0 | Rust 插件管理协议的 C 应用二进制接口（C ABI）类型与常量 |
+| 2026-11-20 12:39:35 | [noonoo-paint](https://crates.io/crates/noonoo-paint) | 0.20.0 | 0 | Noonoo's paint: a layout tree into a backend-neutral render command stream. |
+| 2026-11-20 12:39:35 | [pi_ffi_macros](https://crates.io/crates/pi_ffi_macros) | 0.1.0 | 0 | 生成 Rust 插件标准外部函数接口（FFI）入口的过程宏（procedural macros） |
+| 2026-11-20 12:39:44 | [rollog](https://crates.io/crates/rollog) | 0.2.125 | 0 | Initialize rolling file logging by project name with RUST_LOG filtering |
+| 2026-11-20 12:39:56 | [sisa-messaging-postgres](https://crates.io/crates/sisa-messaging-postgres) | 0.1.0 | 0 | The PostgreSQL outbox and inbox of Sisa Messaging, on sqlx |
+| 2026-11-20 12:40:05 | [sisa-messaging](https://crates.io/crates/sisa-messaging) | 0.1.0 | 0 | Messaging for Rust services with an optional transactional outbox and inbox: pi… |
+| 2026-11-20 12:40:47 | [pi_ffi_core](https://crates.io/crates/pi_ffi_core) | 0.1.0 | 0 | Rust 插件外部函数接口（FFI）的受控对象交接、调用保护与错误诊断 |
+| 2026-11-20 12:42:35 | [pi_ffi_adapters](https://crates.io/crates/pi_ffi_adapters) | 0.1.0 | 0 | Rust 插件外部函数接口（FFI）的运行时（runtime）、配置（configuration）和服务终端（service terminal）适配 |
+| 2026-11-20 12:43:31 | [pi_ffi](https://crates.io/crates/pi_ffi) | 0.1.0 | 0 | Rust 插件动态库（dynamic library）的加载、初始化（initialization）、关闭与宿主管理接口（host API） |
+| 2026-11-20 12:46:48 | [cargo-tparse](https://crates.io/crates/cargo-tparse) | 0.1.0 | 0 | Summarize cargo test JSON output in tables |
+| 2026-11-20 12:48:20 | [hol-cigar-windows-ipc](https://crates.io/crates/hol-cigar-windows-ipc) | 0.9.4 | 0 | Audited Windows local IPC and credential ACL adapter for CIGAR |
+| 2026-11-20 12:48:32 | [hol-cigar-context](https://crates.io/crates/hol-cigar-context) | 0.14.2 | 0 | Incremental, token-budgeted local context graphs with citations and verified de… |
+| 2026-11-20 12:48:56 | [ml-compression-csharp](https://crates.io/crates/ml-compression-csharp) | 0.1.0 | 0 | C# bindings for ml-compression lossless ML-predictive compression library |
+| 2026-11-20 12:49:48 | [noonoo-engine](https://crates.io/crates/noonoo-engine) | 0.20.0 | 0 | Noonoo's orchestration: a parsed, styled, laid-out engine over a DOM document. |
+| 2026-11-20 12:50:39 | [sv-yosys](https://crates.io/crates/sv-yosys) | 0.2.0 | 0 | Yosys JSON writer for the svlang RTL netlist: SystemVerilog designs as Yosys wo… |
+| 2026-11-20 12:50:42 | [sv-aiger](https://crates.io/crates/sv-aiger) | 0.2.0 | 0 | AIGER writer for the svlang RTL netlist: SystemVerilog designs bit-blasted to a… |
+| 2026-11-20 12:50:47 | [svlang-cli](https://crates.io/crates/svlang-cli) | 0.2.0 | 0 | The svlang command line: check SystemVerilog, print the hierarchy and syntax tr… |
+| 2026-11-20 12:51:16 | [stingy4rust-core](https://crates.io/crates/stingy4rust-core) | 0.0.1 | 0 | The measuring behind cargo-stingy4rust: a Rust codebase's heap, peak heap, stor… |
+| 2026-11-20 12:51:19 | [cargo-stingy4rust](https://crates.io/crates/cargo-stingy4rust) | 0.0.1 | 0 | A cargo subcommand that holds a Rust codebase to budgets of heap, peak heap, st… |
+| 2026-11-20 13:00:02 | [noonoo-events](https://crates.io/crates/noonoo-events) | 0.20.0 | 0 | Noonoo's input event model and DOM event dispatch. |
+| 2026-11-20 13:00:04 | [y901-core](https://crates.io/crates/y901-core) | 0.2.5 | 0 | Terminal grid, reflow and cell width primitives for Y901. |
+| 2026-11-20 13:00:59 | [voyager-ogm](https://crates.io/crates/voyager-ogm) | 0.4.0-alpha.8 | 0 | Core AST compiler, optimizer, and multi-dialect emitters for Voyager OGM |
+| 2026-11-20 13:01:28 | [y901-ui](https://crates.io/crates/y901-ui) | 0.2.5 | 0 | Widget tree, layout, events and theming for Y901. |
+| 2026-11-20 13:02:12 | [voyager-drivers](https://crates.io/crates/voyager-drivers) | 0.4.0-alpha.8 | 0 | Client driver layer for Bolt (Neo4j, Memgraph), PostgreSQL wire (Apache AGE), a… |
+| 2026-11-20 13:02:17 | [voyager-cli](https://crates.io/crates/voyager-cli) | 0.4.0-alpha.8 | 0 | Command-line interface, benchmarking runner, and schema tools for Voyager OGM |
+| 2026-11-20 13:02:55 | [y901-render](https://crates.io/crates/y901-render) | 0.2.5 | 0 | Platform-independent rendering for Y901 (soft backend, font engine, atlas, mip). |
+| 2026-11-20 13:04:13 | [y901-widgets](https://crates.io/crates/y901-widgets) | 0.2.5 | 0 | Reusable widgets (Button, TextInput, Table, Dialog, Alert, ...) for Y901. |
+| 2026-11-20 13:05:29 | [y901-runtime](https://crates.io/crates/y901-runtime) | 0.2.5 | 0 | Platform contracts (Host, PlatformRuntime, RawEvent) for Y901. |
+| 2026-11-20 13:07:56 | [duet-bus](https://crates.io/crates/duet-bus) | 0.4.0 | 0 | duet's event bus: the project's journal, appended under one lock, read from a c… |
+| 2026-11-20 13:08:16 | [duet-actions](https://crates.io/crates/duet-actions) | 0.4.0 | 0 | duet's actions: every command's work, each with a typed input, run the same fro… |
+| 2026-11-20 13:10:22 | [noonoo-headless](https://crates.io/crates/noonoo-headless) | 0.20.0 | 0 | Noonoo's headless tooling: tree dump, virtual clock, and synthetic input. |
+| 2026-11-20 13:10:57 | [y901-extras](https://crates.io/crates/y901-extras) | 0.2.5 | 0 | Terminal widget, VT parsing and PTY integration for Y901. |
+| 2026-11-20 13:11:27 | [fspath](https://crates.io/crates/fspath) | 0.2.125 | 0 | Cross-platform path normalization, relative path resolution, and parent directo… |
+| 2026-11-20 13:13:53 | [auto_conc](https://crates.io/crates/auto_conc) | 0.1.0 | 0 | Adaptive per-slot concurrency scheduler with demand-gated probing and in-stream… |
+| 2026-11-20 13:16:31 | [lazywalk](https://crates.io/crates/lazywalk) | 0.2.125 | 0 | Lazily enumerate directories by glob-like path patterns with default ignore rul… |
+| 2026-11-20 13:16:38 | [progbar](https://crates.io/crates/progbar) | 0.2.125 | 0 | Task-count progress tracker and sliding-window ETA estimator for concurrent wor… |
+| 2026-11-20 13:16:45 | [tui_matrix](https://crates.io/crates/tui_matrix) | 0.1.0 | 0 | Stateless Matrix digital rain, twinkling phosphor pulse, and CRT palette for ra… |
 
 ## Data source
 
