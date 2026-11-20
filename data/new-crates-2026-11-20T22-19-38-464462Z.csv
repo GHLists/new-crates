@@ -1,0 +1,69 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-20T21:22:22.498111Z,rustorb-dds-security,0.2.0,0,0,https://github.com/rustorb/rustorb-dds,"The builtin plugins of DDS Security 1.2 (PKI-DH, Permissions, AES-GCM-GMAC) for rustorb-dds."
+2026-11-20T21:22:27.008215Z,rustorb-xtypes,0.2.0,0,0,https://github.com/rustorb/rustorb-dds,"DDS-XTypes type system (TypeObject, type assignability, DynamicData) for rustorb-dds"
+2026-11-20T21:22:32.093321Z,metis-platform,0.5.0,0,0,https://github.com/ryancinsight/metis,Bounded software framebuffer and Windows native event/presentation adapter
+2026-11-20T21:22:32.197683Z,rustorb-rtps,0.2.0,0,0,https://github.com/rustorb/rustorb-dds,"DDSI-RTPS wire protocol (messages, discovery, writers and readers) for rustorb-dds"
+2026-11-20T21:22:37.085358Z,rustorb-dds,0.2.0,0,0,https://github.com/rustorb/rustorb-dds,DDS (Data Distribution Service) DCPS API in Rust
+2026-11-20T21:22:39.183873Z,shish,0.2.0,0,0,,A small command-line tool that that automates boilerplate for Cargo scripts that use shish-lib.
+2026-11-20T21:22:49.647365Z,rustorb-dds-corba,0.2.0,0,0,https://github.com/rustorb/rustorb-dds,TypeCode <-> DDS-XTypes TypeObject and Any <-> DynamicData for rustorb (CORBA) and rustorb-dds
+2026-11-20T21:25:12.688829Z,shish-lib,0.1.2,0,0,,A small library that re-exports common utilities for Cargo scripts.
+2026-11-20T21:25:54.070837Z,oai-statsig-rust-client,0.1.0,0,0,,"OAI Statsig client SDK for feature gates, dynamic configs, and experiments in Rust applications."
+2026-11-20T21:26:11.305024Z,swagger-rust,0.1.1,0,0,https://github.com/fardad-dev/swagger-rust,"Generate typed Rust API clients from OpenAPI 3 / Swagger 2: serde models, async endpoint functions and optional GPUI queries"
+2026-11-20T21:27:35.65639Z,rig-cli,0.47.0,0,0,https://github.com/0xPlaygrounds/rig,"The `rig` command's library, which the `rig` crate's binary runs: builds the rig-harness coding agent with the plugins settings.toml turns on, and runs it."
+2026-11-20T21:28:47.566319Z,strata-ui-store,0.1.0,0,0,https://github.com/strataui/strata,Lightweight Signal-Driven Global State Store for Strata
+2026-11-20T21:30:43.964482Z,benodb-gpu-ann,0.2.0,0,0,https://github.com/benolabsai/benodb,"Universal GPU-accelerated vector indexing & ANN search for Rust (CUDA, Apple Metal, WGPU/Vulkan)"
+2026-11-20T21:32:30.708443Z,metis-backend,0.5.0,0,0,https://github.com/ryancinsight/metis,"Privileged clinical logic, safety interlocks, capability authorization, audit ledger, and supervisor for Metis"
+2026-11-20T21:32:40.424757Z,rig-markdown,0.47.0,0,0,https://github.com/0xPlaygrounds/rig,"Markdown drawn as styled lines and word wrapping to a width, shared by the rig coding agent's terminal view and its print mode."
+2026-11-20T21:34:12.455501Z,zorch,0.0.0,0,0,https://github.com/ZAL-Analytics/zorch,"AI agent orchestration framework for privacy-first, human-in-the-loop automation"
+2026-11-20T21:34:19.943522Z,zorch-acp,0.0.0,0,0,https://github.com/ZAL-Analytics/zorch,Agent Client Protocol client for zorch
+2026-11-20T21:34:27.520022Z,zorch-agentctl,0.0.0,0,0,https://github.com/ZAL-Analytics/zorch,Kubernetes agent sandbox controller for zorch
+2026-11-20T21:34:35.269596Z,zorch-api,0.0.0,0,0,https://github.com/ZAL-Analytics/zorch,HTTP and WebSocket API gateway for zorch
+2026-11-20T21:34:42.62589Z,zorch-audit,0.0.0,0,0,https://github.com/ZAL-Analytics/zorch,Audit log for zorch
+2026-11-20T21:38:03.019264Z,rig-fold,0.47.0,0,0,https://github.com/0xPlaygrounds/rig,"An optional rig-harness plugin: the terminal view shows a finished tool call's result as its first and last lines, with a key that shows all of it."
+2026-11-20T21:38:05.101605Z,rnacli,2.1.1,0,0,https://github.com/tahoe/rnaapi,NetActuate API client library and cli program
+2026-11-20T21:38:27.294354Z,strata-virtual,0.1.0,0,0,https://github.com/strataui/strata,Pure-Rust high-scale 1M+ list and grid windowed virtualization engine for Strata
+2026-11-20T21:39:02.261417Z,benodb,0.17.0,0,0,https://github.com/benolabsai/benodb,"BenoDB - Embedded Apache Iceberg Database with Out-of-Core Vector, BM25, and Graph Indexing"
+2026-11-20T21:42:31.240062Z,metis-ui-lang,0.5.0,0,0,https://github.com/ryancinsight/metis,Bounded XML-like markup parsing and sequential software presentation layout
+2026-11-20T21:43:14.401327Z,benodb-search,0.17.0,0,0,https://github.com/benolabsai/benodb,BenoDB Search - OpenSearch/ES 7.10-compatible REST API over BenoDB
+2026-11-20T21:43:26.535521Z,avectes-dioxus-core,0.7.10,0,0,https://github.com/DioxusLabs/dioxus/,"Build fullstack web, desktop, and mobile apps with a single codebase."
+2026-11-20T21:44:50.861528Z,zorch-cli,0.0.0,0,0,https://github.com/ZAL-Analytics/zorch,Command-line interface for zorch
+2026-11-20T21:48:41.556814Z,strata-web-reader,0.1.0,0,0,https://github.com/strataui/strata,High-performance semantic web transpiler and offline article reader for Strata
+2026-11-20T21:50:21.588964Z,fountain-syntax,0.1.0,0,0,https://github.com/twopopfilm/fountain-syntax,"A lossless, spec-complete parser and writer for Fountain screenplays"
+2026-11-20T21:52:30.811055Z,metis-frontend,0.5.0,0,0,https://github.com/ryancinsight/metis,"Unprivileged presentation process, UI state manager, and IPC client for Metis"
+2026-11-20T21:53:36.978017Z,avectes-dioxus-router-macro,0.7.3,0,0,https://github.com/DioxusLabs/dioxus/,Macro for Dioxus Router
+2026-11-20T21:53:59.636759Z,tgexport,0.0.0,0,0,,Telegram Desktop style data export (JSON + HTML) built on ferogram MTProto
+2026-11-20T21:56:58.044169Z,zorch-config,0.0.0,0,0,https://github.com/ZAL-Analytics/zorch,Git-backed YAML configuration for zorch
+2026-11-20T21:58:24.750202Z,strata-editor,0.1.0,0,0,https://github.com/strataui/strata,Headless Rich Text & Block Document Editor and Code Editor Engine for Strata
+2026-11-20T21:59:11.57799Z,degenview-eframe,0.36.2,0,0,https://github.com/degenview/eframe,eframe 0.36.2 (the egui framework) plus a Wayland fix: a viewport the app hid is no longer presented. Maintained for DegenView.
+2026-11-20T21:59:52.18751Z,cta,0.1.0,0,0,https://github.com/SophSpot/cta-rs,"Client for the CTA Train Tracker API: arrivals, train locations, and runs for the Chicago 'L'"
+2026-11-20T22:00:27.907045Z,t4a-cost,0.1.0,0,0,,"Neutral cost-model types for the tensor4all stack: the host CPU class of offline-fitted rows, a provider's item time at a width, and the generic fitted row behind it"
+2026-11-20T22:00:42.104356Z,monas-dsp,0.8.0,0,0,https://github.com/musithang/sdrtop,"sdrtop's DSP building blocks: filters, the sample vocabulary, GFSK. Internal; no stability promise."
+2026-11-20T22:01:06.050117Z,monas-spectrum,0.8.0,0,0,https://github.com/musithang/sdrtop,"sdrtop's spectrum measurements: the frame, carrier, ACPR. Internal; no stability promise."
+2026-11-20T22:01:13.677193Z,monas-demod,0.8.0,0,0,https://github.com/musithang/sdrtop,"sdrtop's AM, FM, CTCSS and pilot measurements. Internal; no stability promise."
+2026-11-20T22:01:25.266951Z,monas-rds,0.8.0,0,0,https://github.com/musithang/sdrtop,sdrtop's RDS decoder. Internal; no stability promise.
+2026-11-20T22:01:37.525534Z,monas-wifi,0.8.0,0,0,https://github.com/musithang/sdrtop,sdrtop's 802.11 receive chain. Internal; no stability promise.
+2026-11-20T22:02:32.43343Z,metis-app,0.5.0,0,0,https://github.com/ryancinsight/metis,Single executable Metis application with supervised process roles
+2026-11-20T22:03:47.404999Z,avectes-sqlx-adapter,1.8.0-avectes.1,0,0,,Casbin SQLx adapter for AvectesAuth
+2026-11-20T22:06:20.945481Z,banned-vendor-screen,0.1.0,0,0,https://github.com/Mattbusel/banned-vendor-screen,"Federal research money already pays vendors the US has banned. Screen payment lines, subawards or award text against DoD 1260H, Section 889, FCC Covered List, UFLPA and BIOSECURE, with owners, subsid…"
+2026-11-20T22:07:01.88802Z,zorch-context,0.0.0,0,0,https://github.com/ZAL-Analytics/zorch,Codebase intelligence and semantic search for zorch
+2026-11-20T22:07:37.477583Z,koanf-core,0.1.0,0,0,https://github.com/hushink/koanf-rs,"Core engine for koanf-rs: values, paths, layered merging, snapshots, and watch primitives"
+2026-11-20T22:07:44.173986Z,koanf-derive,0.1.0,0,0,https://github.com/hushink/koanf-rs,Derive macros for koanf-rs configuration schemas
+2026-11-20T22:07:54.886506Z,koanf-rs,0.1.0,0,0,https://github.com/hushink/koanf-rs,"Rust configuration library with layered sources, multiple formats, typed serde access, and file watching"
+2026-11-20T22:08:02.443783Z,monas-ble,0.8.0,0,0,https://github.com/musithang/sdrtop,sdrtop's Bluetooth LE receiver and measurements. Internal; no stability promise.
+2026-11-20T22:08:26.096283Z,strata-ui,0.1.0,0,0,https://github.com/strataui/strata,Universal frontend framework in pure Rust with pixel-perfect CSS emulation and React/TSX ergonomics
+2026-11-20T22:08:32.405101Z,xinput-device,0.1.0,0,0,https://github.com/9names/xinput-device,USB XInput device driver for embassy-usb
+2026-11-20T22:12:32.558231Z,metis-ui,0.5.0,0,0,https://github.com/ryancinsight/metis,Rust presentation and isolated backend process contract
+2026-11-20T22:12:59.307616Z,download-truth,0.1.0,0,0,https://github.com/Mattbusel/download-truth,"Download counts mostly measure CI and publishing, not users. Splits a crates.io or npm package's downloads into lockfile replays, pinned old lines nobody publishes against, release-time fetches, flat…"
+2026-11-20T22:13:57.495315Z,avectes-auth,0.1.0-rc.1,0,0,,Native authentication and authorization for Avectes.rs
+2026-11-20T22:15:26.210504Z,anybuild,0.34.0,0,0,https://github.com/wasmerio/anybuild,"Rust SDK for detecting, building, running, and deploying projects"
+2026-11-20T22:15:50.603928Z,anybuild-cli,0.34.0,0,0,https://github.com/wasmerio/anybuild,"Anybuild: detect, build, and serve projects"
+2026-11-20T22:16:31.741169Z,picoasm-consensus,0.6.1,0,0,https://github.com/DylanCosto/picoASM,Per-window base-level consensus for the picoasm bacterial assembler
+2026-11-20T22:16:32.104528Z,picoasm-seq,0.6.1,0,0,https://github.com/DylanCosto/picoASM,"Bases, homopolymer compression, anchors and k-min-mers for the picoasm bacterial assembler"
+2026-11-20T22:16:33.354004Z,picoasm-io,0.6.1,0,0,https://github.com/DylanCosto/picoASM,Read input and assembly output for the picoasm bacterial assembler
+2026-11-20T22:16:33.803374Z,picoasm-overlap,0.6.1,0,0,https://github.com/DylanCosto/picoASM,Base-level overlap assembly of a read subset for the picoasm bacterial assembler
+2026-11-20T22:16:34.885796Z,picoasm,0.6.1,0,0,https://github.com/DylanCosto/picoASM,Bacterial genome assembly from Oxford Nanopore or PacBio HiFi reads
+2026-11-20T22:17:05.597346Z,zorch-core,0.0.0,0,0,https://github.com/ZAL-Analytics/zorch,"Shared zorch types, exported to TypeScript"
+2026-11-20T22:18:09.1305Z,strata-benchmark,0.1.0,0,0,https://github.com/strataui/strata,Automated universal performance benchmark and profiling suite for Project Strata
+2026-11-20T22:19:12.666239Z,monas-bt,0.8.0,0,0,https://github.com/musithang/sdrtop,sdrtop's classic Bluetooth receiver. Internal; no stability promise.
+2026-11-20T22:19:33.575574Z,odhive-core,0.0.1,0,0,https://github.com/sidc11/odhive,OdHive core library
+2026-11-20T22:19:37.41054Z,odhive-server,0.0.1,0,0,https://github.com/sidc11/odhive,OdHive server library
