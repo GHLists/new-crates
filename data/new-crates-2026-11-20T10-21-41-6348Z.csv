@@ -1,0 +1,27 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-20T09:21:24.911844Z,dbmr,0.0.1,0,0,https://github.com/AvinashSKaranth/db-model-router-rs,Database-agnostic data modeling and custom routers for Rust web services
+2026-11-20T09:22:02.928442Z,zwave-host,0.2.1,0,0,https://github.com/pulzar-net/zwave-bridge,"Z-Wave controller host stack: inclusion with S2 and SmartStart, interview, node store, wake-up queues, routing and NVM backup"
+2026-11-20T09:22:37.386845Z,dyn-rt-manipulation,1.0.0,0,0,https://github.com/rogonion/dyn-rt,"dyn-rt manipulation module: get/set/delete over reflected data via JSONPath (application use cases over reflect; adapters parse string paths). Depends on shared, reflect, path, schema."
+2026-11-20T09:22:41.577897Z,spatie-crawler,0.1.0,0,0,https://github.com/spatie/rust-crawler,"A customizable, streaming web crawler with durable checkpoints"
+2026-11-20T09:23:20.107275Z,ops-ecc,0.1.0,0,0,https://github.com/bilal-talha-dev/ops-ecc,"Blazing-fast Full-Stack + Heavy DevOps & DevSecOps Agent Harness CLI for Claude Code (.claude/), Gemini CLI (.gemini/), Cursor (.cursorrules), and Universal AGENTS.md"
+2026-11-20T09:24:43.824059Z,hd_doc,0.0.1,0,0,https://github.com/HerringtonDarkholme/hd-lang,"Documentation extraction and rendering, behind `hd doc` (hd compiler internals, no stable API; install `hd-lang`)"
+2026-11-20T09:31:09.019112Z,grow-oidc,0.1.0,0,0,https://github.com/grow-codes-packages/oidc,Rust SDK for OIDC by Grow Codes
+2026-11-20T09:32:02.597897Z,zwave-bridge,0.2.1,0,0,https://github.com/pulzar-net/zwave-bridge,"Z-Wave to MQTT bridge: a Z-Wave controller on a serial port, Home Assistant discovery and a plain JSON topic scheme"
+2026-11-20T09:33:06.96175Z,dyn-rt-metadatamodel,1.0.0,0,0,https://github.com/rogonion/dyn-rt,"dyn-rt metadatamodel: metadata model (JSON-like Value) + field/group traversal, flattening, filtering, field columns, database mapping."
+2026-11-20T09:34:50.895325Z,hd_command,0.0.1,0,0,https://github.com/HerringtonDarkholme/hd-lang,"The `hd` command as a library: commands, disk sources and cache, the Node engine and the REPL (hd compiler internals, no stable API; install `hd-lang`)"
+2026-11-20T09:35:29.66334Z,senate,0.1.1,0,0,https://github.com/oops-rs/senate,The `senate` command: reach your coding agents through Senate. Installs the same command as the `senate-bridge` package.
+2026-11-20T09:39:17.029361Z,zi18n,0.1.0,0,0,https://github.com/LIghtJUNction/zi18n,"Borrowed no_std localization catalogs, explicit fallback, and named formatting"
+2026-11-20T09:41:22.406145Z,rosetta-time,0.1.1,0,0,https://github.com/connetto-rs/rosetta-time,Wrappers of jiff's civil Date and Time and of Span providing serde and binary diesel bindings for SQLite and PostgreSQL.
+2026-11-20T09:43:12.59688Z,zigbee-bridge,0.3.0,0,0,https://github.com/pulzar-net/zigbee-bridge,"A standalone Zigbee to MQTT bridge with Home Assistant discovery, on the zigbee-host stack"
+2026-11-20T09:44:56.698048Z,hd-lang,0.0.1,0,0,https://github.com/HerringtonDarkholme/hd-lang,"The hd programming language: the `hd` command, with its compiler, test runner, formatter and REPL"
+2026-11-20T09:45:37.998624Z,udp2tcp,0.5.0,0,0,https://github.com/mullvad/udp-over-tcp,Tunnel UDP traffic inside a TCP stream
+2026-11-20T09:48:54.286169Z,dyn-rt,1.0.0,0,0,,"dyn-rt dynamic runtime: one crate, per-module features (ADR 0003/0007/0010). Modules: path, schema, manipulation, reflect, json (JSON value model only), metadatamodel."
+2026-11-20T09:49:12.966909Z,zguard,0.1.0,0,0,https://github.com/LIghtJUNction/zguard,Lightweight Security Guardrails for AI Agents
+2026-11-20T09:50:33.146952Z,wullie,0.1.1,0,0,https://github.com/MikeCoats/wullie,A local project dependency and update finder
+2026-11-20T10:16:30.165253Z,noonoo-dom,0.20.0,0,0,https://github.com/nixpt/noonoo,"Noonoo's document tree: stable node identity, mutation, and queries."
+2026-11-20T10:16:32.35954Z,noonoo-geometry,0.20.0,0,0,https://github.com/nixpt/noonoo,"Noonoo's geometry primitives: points, sizes, and rectangles."
+2026-11-20T10:16:34.446309Z,noonoo-parse,0.20.0,0,0,https://github.com/nixpt/noonoo,"Noonoo's shared parsing primitives: spans, positions, errors, and a char cursor."
+2026-11-20T10:16:36.458003Z,noonoo-text,0.20.0,0,0,https://github.com/nixpt/noonoo,"Noonoo's text layer: shaping, font fallback, and line breaking."
+2026-11-20T10:16:38.327038Z,noonoo-csv,0.20.0,0,0,https://github.com/nixpt/noonoo,Noonoo's CSV/TSV parser: delimited data into an HTML table.
+2026-11-20T10:18:17.209138Z,apitest-macros,0.1.0,0,0,https://github.com/sunsided/apitest,"Attribute macros for apitest: #[apitest::test], #[apitest::fixture], #[apitest::suite]"
+2026-11-20T10:19:47.085594Z,rightkit-ai-keys,0.1.0,0,0,https://github.com/bogusyogi/rightkit,"Bring-your-own AI provider keys in the OS credential store: slot storage, save-time validation, live key check and read-state vocabulary."
