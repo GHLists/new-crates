@@ -8,52 +8,81 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-20 06:18 UTC
+## Latest list — 2026-11-20 07:19 UTC
 
-New crates published between 2026-11-20 05:19 UTC and 2026-11-20 06:18 UTC.
+New crates published between 2026-11-20 06:18 UTC and 2026-11-20 07:19 UTC.
 
-[Full CSV](data/new-crates-2026-11-20T06-18-52-830387Z.csv)
+[Full CSV](data/new-crates-2026-11-20T07-19-58-411292Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-20 05:21:48 | [process-terminator](https://crates.io/crates/process-terminator) | 2.0.0 | 0 | Stop processes gracefully, even on Windows, without a kamikaze proxy binary. |
-| 2026-11-20 05:22:28 | [mls-didwebvh](https://crates.io/crates/mls-didwebvh) | 0.0.1 | 0 | draft-atwood-mls-didwebvh-credential: the did_webvh MLS credential, its log ver… |
-| 2026-11-20 05:25:14 | [ndsl-diag](https://crates.io/crates/ndsl-diag) | 0.1.0 | 0 | Shared diagnostics for protocol N-FDL and diagnosis NFDL. |
-| 2026-11-20 05:25:33 | [nfdl-dx-types](https://crates.io/crates/nfdl-dx-types) | 0.1.0 | 0 | Foundational types for the NFDL diagnostic graph language. |
-| 2026-11-20 05:25:52 | [nfdl-bytecode](https://crates.io/crates/nfdl-bytecode) | 0.1.0 | 0 | Bytecode for the protocol N-FDL virtual machine. |
-| 2026-11-20 05:26:11 | [nfdl-plugin](https://crates.io/crates/nfdl-plugin) | 0.1.0 | 0 | N-FDL Plugin ABI v1 stub (pure Rust; no C FFI yet) |
-| 2026-11-20 05:26:31 | [nfdl-types](https://crates.io/crates/nfdl-types) | 0.1.0 | 0 | Coverage types for protocol N-FDL. |
-| 2026-11-20 05:32:29 | [mimid-server](https://crates.io/crates/mimid-server) | 0.0.1 | 0 | MIMI provider server (hub and follower roles) for the mimid reference implement… |
-| 2026-11-20 05:32:37 | [yesense-imu](https://crates.io/crates/yesense-imu) | 0.1.0 | 0 | Driver for Yesense IMUs (YIS series) over a serial port: the standard binary ou… |
-| 2026-11-20 05:35:25 | [ndsl-trivia](https://crates.io/crates/ndsl-trivia) | 0.1.0 | 0 | Comment and trivia preservation for N-FDL and NFDL formatters. |
-| 2026-11-20 05:39:46 | [robosense-airy](https://crates.io/crates/robosense-airy) | 0.1.1 | 0 | RoboSense Airy (RSAIRY) lidar driver: MSOP/DIFOP/IMU decoding ported from RoboS… |
-| 2026-11-20 05:42:28 | [mimid-agent](https://crates.io/crates/mimid-agent) | 0.0.1 | 0 | The mimid-agent daemon: a user's MIMI rooms as a local JMAP Chat endpoint (earl… |
-| 2026-11-20 05:44:02 | [m20-ecan](https://crates.io/crates/m20-ecan) | 0.1.1 | 0 | Deep Robotics M20 (Lynx) motor-bus (ECAN, ethertype 0x4452) protocol: frame cod… |
-| 2026-11-20 05:45:10 | [gpui-widgets](https://crates.io/crates/gpui-widgets) | 0.1.0 | 0 | General-purpose widgets built on GPUI (Zed's GPU-accelerated UI framework) |
-| 2026-11-20 05:46:17 | [usb-stack](https://crates.io/crates/usb-stack) | 0.1.0 | 0 | MCU-independent USB device stack core: bus trait, control pipe and classes (CDC… |
-| 2026-11-20 05:50:35 | [imgpipe](https://crates.io/crates/imgpipe) | 0.1.0 | 0 | Image processing pipeline |
-| 2026-11-20 05:50:38 | [imgpipe-cli](https://crates.io/crates/imgpipe-cli) | 0.1.0 | 0 | Command-line tool for imgpipe: run, validate and explain image pipeline files |
-| 2026-11-20 05:52:28 | [mimid-agent-core](https://crates.io/crates/mimid-agent-core) | 0.0.1 | 0 | The client engine of mimid-agent: MIMI rooms through a mimid server's JMAP API… |
-| 2026-11-20 05:52:51 | [mwdump](https://crates.io/crates/mwdump) | 0.1.0 | 0 | Streaming reader and writer for MediaWiki XML dumps (pages-meta-history and fri… |
-| 2026-11-20 05:53:00 | [mwrecent](https://crates.io/crates/mwrecent) | 0.1.0 | 0 | Following a MediaWiki wiki by list=recentchanges: the next query, and each batc… |
-| 2026-11-20 05:53:04 | [m20-battery](https://crates.io/crates/m20-battery) | 0.1.0 | 0 | Deep Robotics M20 (Lynx) battery packs off the ECAN motor bus: voltage, current… |
-| 2026-11-20 05:59:27 | [ch32x035-rt](https://crates.io/crates/ch32x035-rt) | 0.1.0 | 0 | Runtime support for CH32X035 RISC-V microcontrollers (WCH QingKe V4C) |
-| 2026-11-20 05:59:33 | [ch32x035-macro](https://crates.io/crates/ch32x035-macro) | 0.1.0 | 0 | Procedural macros for ch32x035 |
-| 2026-11-20 05:59:33 | [longshore_mailbox](https://crates.io/crates/longshore_mailbox) | 0.2.0 | 0 | Bounded lock-free mailboxes between I/O cores and caller waiter slots |
-| 2026-11-20 05:59:35 | [longshore_stream](https://crates.io/crates/longshore_stream) | 0.2.0 | 0 | Plain or TLS byte stream over longshore I/O, for clients and servers |
-| 2026-11-20 05:59:46 | [ch32x035-pac](https://crates.io/crates/ch32x035-pac) | 0.1.0 | 0 | Peripheral Access Crate for CH32X035 (WCH RISC-V) |
-| 2026-11-20 06:00:04 | [ch32x035](https://crates.io/crates/ch32x035) | 0.1.0 | 0 | Hardware Abstraction Layer for the CH32X035 (WCH RISC-V QingKe V4C) |
-| 2026-11-20 06:02:29 | [mimid-agent-jmap](https://crates.io/crates/mimid-agent-jmap) | 0.0.1 | 0 | JMAP Chat over mimid-agent-core: a user's MIMI rooms as Chats and Messages (ear… |
-| 2026-11-20 06:04:10 | [ch32x035-usb](https://crates.io/crates/ch32x035-usb) | 0.1.0 | 0 | USB device stack for the CH32X035 (WCH USBFS full-speed device) |
-| 2026-11-20 06:10:33 | [smysl-series](https://crates.io/crates/smysl-series) | 1.17.0 | 0 | smysl's series substrate (RFC SMYSL-3 §19): samples, window digests, chunks and… |
-| 2026-11-20 06:10:41 | [smysl-tel](https://crates.io/crates/smysl-tel) | 1.17.0 | 0 | smysl for telemetry (RFC SMYSL-3): readers, profiles, the canonical diff, windo… |
-| 2026-11-20 06:12:28 | [mimid-agent-store](https://crates.io/crates/mimid-agent-store) | 0.0.1 | 0 | The plaintext layer of mimid-agent, shared by its front ends: blobs, messages,… |
-| 2026-11-20 06:13:07 | [hd_base](https://crates.io/crates/hd_base) | 0.0.1 | 0 | IDs, spans, hashes, fuel, the build profile and the engine target; the leaf cra… |
-| 2026-11-20 06:13:09 | [hd_intern](https://crates.io/crates/hd_intern) | 0.0.1 | 0 | Interned strings and stable paths (hd compiler internals, no stable API; instal… |
-| 2026-11-20 06:13:11 | [hd_diag](https://crates.io/crates/hd_diag) | 0.0.1 | 0 | Diagnostic codes and records (hd compiler internals, no stable API; install `hd… |
-| 2026-11-20 06:13:13 | [hd_syntax](https://crates.io/crates/hd_syntax) | 0.0.1 | 0 | The lexer, layout, parser, green tree and skeletons (hd compiler internals, no… |
-| 2026-11-20 06:13:15 | [hd_cache](https://crates.io/crates/hd_cache) | 0.0.1 | 0 | The cache store interface, its memory and disk stores, entry framing and the ca… |
-| 2026-11-20 06:15:42 | [zclick-core](https://crates.io/crates/zclick-core) | 0.1.1-alpha.3 | 0 | Borrowed Click-compatible argument semantics over zclap |
+| 2026-11-20 06:19:50 | [marshal-launch](https://crates.io/crates/marshal-launch) | 0.61.0 | 0 | Start a coding agent anywhere through a pluggable adapter, and wait for it to j… |
+| 2026-11-20 06:20:54 | [marshal-launch-ssh](https://crates.io/crates/marshal-launch-ssh) | 0.61.0 | 0 | Reference marshal-launch adapter: start a coding agent in tmux on another machi… |
+| 2026-11-20 06:22:29 | [mimid-agent-irc](https://crates.io/crates/mimid-agent-irc) | 0.0.1 | 0 | IRC front end of mimid-agent: a user's MIMI rooms over IRC (early placeholder) |
+| 2026-11-20 06:23:19 | [hd_project](https://crates.io/crates/hd_project) | 0.0.1 | 0 | Manifests, source discovery, modules, folders and the package graph (hd compile… |
+| 2026-11-20 06:24:04 | [ridx-format](https://crates.io/crates/ridx-format) | 0.3.8 | 0 | Fast, compact, zero-copy binary index format for Rust Intelligence |
+| 2026-11-20 06:24:09 | [ridx-syntax](https://crates.io/crates/ridx-syntax) | 0.3.8 | 0 | Zero-dependency lossless Rust lexer and syntax tree for Rust Intelligence |
+| 2026-11-20 06:24:12 | [ridx-driver](https://crates.io/crates/ridx-driver) | 0.3.8 | 0 | Compiler-backed rustc_driver extractor for Rust Intelligence (ridx) |
+| 2026-11-20 06:24:14 | [ridx](https://crates.io/crates/ridx) | 0.3.8 | 0 | Compiler-backed, mmap-indexed CLI and LSP code intelligence tool for Rust |
+| 2026-11-20 06:28:13 | [nlptoolkit-sentinet](https://crates.io/crates/nlptoolkit-sentinet) | 0.0.1 | 0 | Turkish SentiNet HisNet |
+| 2026-11-20 06:30:25 | [uncantorable](https://crates.io/crates/uncantorable) | 0.1.1 | 0 | Total-domain number theory over arbitrary precision: fast-doubling Fibonacci at… |
+| 2026-11-20 06:33:23 | [hd_deps](https://crates.io/crates/hd_deps) | 0.0.1 | 0 | Dependency fetching: version selection, git, the version cache, tree hashes and… |
+| 2026-11-20 06:35:26 | [portradar](https://crates.io/crates/portradar) | 0.1.1 | 0 | Interactive terminal dashboard to monitor and manage network ports on Linux |
+| 2026-11-20 06:35:36 | [nfdl-diag](https://crates.io/crates/nfdl-diag) | 0.1.0 | 0 | Diagnostics adapter for protocol N-FDL. |
+| 2026-11-20 06:37:03 | [zrc](https://crates.io/crates/zrc) | 0.1.2 | 0 | Embedded native application profiles for one reviewable zdot deployment |
+| 2026-11-20 06:38:38 | [nfdl-dx-ir](https://crates.io/crates/nfdl-dx-ir) | 0.1.0 | 0 | IR for NFDL diagnostic programs. |
+| 2026-11-20 06:42:15 | [nfdl-syntax](https://crates.io/crates/nfdl-syntax) | 0.1.0 | 0 | Parser for protocol N-FDL sources (.nfdl). |
+| 2026-11-20 06:43:27 | [hd_types](https://crates.io/crates/hd_types) | 0.0.1 | 0 | Type storage, inference primitives, rows and solver data (hd compiler internals… |
+| 2026-11-20 06:44:40 | [iktinos-web](https://crates.io/crates/iktinos-web) | 0.1.0 | 0 | The Claude Code sessions on this machine in a browser: the page and the local s… |
+| 2026-11-20 06:45:03 | [quail-planner](https://crates.io/crates/quail-planner) | 0.2.0 | 0 | Quail's planner of one model region: its operators, cost model, search, and phy… |
+| 2026-11-20 06:45:05 | [quail-datafusion](https://crates.io/crates/quail-datafusion) | 0.2.0 | 0 | Quail's AI functions and model region planning as a DataFusion extension |
+| 2026-11-20 06:45:07 | [quail-engine](https://crates.io/crates/quail-engine) | 0.2.0 | 0 | Quail: AI functions in SQL on DataFusion, with the model's work on GPU workers |
+| 2026-11-20 06:45:12 | [lintel-core](https://crates.io/crates/lintel-core) | 0.1.0 | 0 | Application context, plugin lifecycle and owned tasks for Lintel |
+| 2026-11-20 06:45:37 | [lintel-shared-data](https://crates.io/crates/lintel-shared-data) | 0.1.0 | 0 | Typed transfer envelopes and common bridge messages for Lintel |
+| 2026-11-20 06:45:44 | [haest-wire](https://crates.io/crates/haest-wire) | 0.3.0 | 0 | haest's wire format: the envelope around a conversation's events, the frames a… |
+| 2026-11-20 06:46:07 | [rar-rs](https://crates.io/crates/rar-rs) | 0.15.2 | 0 | Pure-Rust library and tools for RAR 1.5-4.x, RAR5, and RAR7 archives |
+| 2026-11-20 06:46:13 | [haest-session](https://crates.io/crates/haest-session) | 0.3.0 | 0 | A haest conversation another program can watch and drive while it runs: the ses… |
+| 2026-11-20 06:46:18 | [lintel-iced-widgets](https://crates.io/crates/lintel-iced-widgets) | 0.1.0 | 0 | Native and embedded WebView widgets for Lintel |
+| 2026-11-20 06:46:22 | [haest-transport](https://crates.io/crates/haest-transport) | 0.3.0 | 0 | Transports for a haest session: the same wire frames over stdio, a Unix control… |
+| 2026-11-20 06:46:33 | [lintel-plugin-iced](https://crates.io/crates/lintel-plugin-iced) | 0.1.0 | 0 | Owned iced program routing and renderer integration for Lintel |
+| 2026-11-20 06:46:49 | [rar-cli](https://crates.io/crates/rar-cli) | 0.15.2 | 0 | WinRAR-compatible command-line tools (rar, unrar) |
+| 2026-11-20 06:47:14 | [rar-rs-napi](https://crates.io/crates/rar-rs-napi) | 0.15.2 | 0 | RAR archive toolkit — napi-rs bindings for creating, reading, extracting, modif… |
+| 2026-11-20 06:47:21 | [lintel-framework](https://crates.io/crates/lintel-framework) | 0.1.1 | 0 | A modular Rust desktop framework with native UI, WebView, plugins and supervise… |
+| 2026-11-20 06:47:31 | [nfdl-dx-syntax](https://crates.io/crates/nfdl-dx-syntax) | 0.1.0 | 0 | Parser for NFDL diagnosis sources (.ndx). |
+| 2026-11-20 06:47:45 | [corvid-core](https://crates.io/crates/corvid-core) | 0.3.6 | 0 | Domain types for the Corvid terminal multiplexer |
+| 2026-11-20 06:47:46 | [corvid-protocol](https://crates.io/crates/corvid-protocol) | 0.3.6 | 0 | Local transport and wire protocol for Corvid |
+| 2026-11-20 06:47:47 | [corvid-update](https://crates.io/crates/corvid-update) | 0.3.6 | 0 | Release installation and update support for Corvid |
+| 2026-11-20 06:47:47 | [corvid-client](https://crates.io/crates/corvid-client) | 0.3.6 | 0 | Client for the Corvid terminal multiplexer daemon |
+| 2026-11-20 06:47:48 | [corvid-daemon](https://crates.io/crates/corvid-daemon) | 0.3.6 | 0 | PTY and session daemon for the Corvid terminal multiplexer |
+| 2026-11-20 06:51:37 | [eggpass-auth](https://crates.io/crates/eggpass-auth) | 0.1.0 | 0 | Async OAuth authentication flows for applications using Eggfetch |
+| 2026-11-20 06:51:45 | [pulzr-package](https://crates.io/crates/pulzr-package) | 0.1.0 | 0 | Write Pulzr extension modules (gateway support packages, carrier drivers) in Ru… |
+| 2026-11-20 06:51:54 | [nfdl-vm](https://crates.io/crates/nfdl-vm) | 0.1.0 | 0 | Virtual machine for protocol N-FDL bytecode. |
+| 2026-11-20 06:53:17 | [corvid-companion](https://crates.io/crates/corvid-companion) | 0.3.6 | 0 | Controller state and host connections for Corvid |
+| 2026-11-20 06:53:31 | [hd_resolve](https://crates.io/crates/hd_resolve) | 0.0.1 | 0 | Name resolution, folder interfaces, hashes, ownership and visibility (hd compil… |
+| 2026-11-20 06:54:19 | [uutests_procs](https://crates.io/crates/uutests_procs) | 0.13.0 | 0 | uutils ~ 'uutests' proc-macros |
+| 2026-11-20 06:55:06 | [pocket-render](https://crates.io/crates/pocket-render) | 0.17.0 | 0 | DrawList decoding, vertex building, texture and glyph page retention, and damag… |
+| 2026-11-20 06:56:22 | [lintel-cli](https://crates.io/crates/lintel-cli) | 0.1.0 | 0 | Command-line tools for Lintel desktop applications |
+| 2026-11-20 07:02:57 | [corvid-presentation](https://crates.io/crates/corvid-presentation) | 0.3.6 | 0 | Shared presentation logic for Corvid clients |
+| 2026-11-20 07:02:58 | [bluetooth-numbers](https://crates.io/crates/bluetooth-numbers) | 0.2.0 | 0 | The Bluetooth SIG's Assigned Numbers (company identifiers, UUIDs, appearance, A… |
+| 2026-11-20 07:03:07 | [bluetooth-adv](https://crates.io/crates/bluetooth-adv) | 0.2.0 | 0 | Bluetooth LE advertising data: every AD type parsed, and beacon formats (iBeaco… |
+| 2026-11-20 07:03:31 | [bluetooth-host](https://crates.io/crates/bluetooth-host) | 0.2.0 | 0 | A Bluetooth host stack over raw HCI: observer, broadcaster, central and periphe… |
+| 2026-11-20 07:03:36 | [hd_tir](https://crates.io/crates/hd_tir) | 0.0.1 | 0 | TIR: the typed IR in columns, its builder, verifier, printer and wire form (hd… |
+| 2026-11-20 07:03:37 | [bluetooth-mesh-stack](https://crates.io/crates/bluetooth-mesh-stack) | 0.2.0 | 0 | Bluetooth Mesh on the bluetooth-host stack: the security toolbox, network and t… |
+| 2026-11-20 07:03:52 | [bluetooth-bridge](https://crates.io/crates/bluetooth-bridge) | 0.2.0 | 0 | A standalone Bluetooth LE to MQTT bridge with Home Assistant discovery, on the… |
+| 2026-11-20 07:03:52 | [docboss-output](https://crates.io/crates/docboss-output) | 0.3.0 | 0 | Text, Markdown, HTML and JSON output from the docboss document model |
+| 2026-11-20 07:03:52 | [docboss-zip](https://crates.io/crates/docboss-zip) | 0.3.0 | 0 | ZIP container reader and deterministic writer in pure Rust for docboss: central… |
+| 2026-11-20 07:03:53 | [docboss-crypt](https://crates.io/crates/docboss-crypt) | 0.3.0 | 0 | Decryption of password-protected Office Open XML packages ([MS-OFFCRYPTO] Agile… |
+| 2026-11-20 07:03:54 | [docboss-mtef](https://crates.io/crates/docboss-mtef) | 0.3.0 | 0 | Equation Editor 3 equations for docboss: the MTEF data of an Equation Native st… |
+| 2026-11-20 07:03:55 | [docboss-doc](https://crates.io/crates/docboss-doc) | 0.3.0 | 0 | Word 97-2003 binary document ([MS-DOC]) reader in pure Rust: text, formatting,… |
+| 2026-11-20 07:05:06 | [caprs](https://crates.io/crates/caprs) | 0.1.1 | 0 | Image-based click, slide, drag and rotate CAPTCHA generation and verification |
+| 2026-11-20 07:06:40 | [zeitlupius](https://crates.io/crates/zeitlupius) | 0.1.0 | 0 | Terminal time tracker - Ratatui TUI plus a feature-equivalent CLI |
+| 2026-11-20 07:12:58 | [corvid-agent-deck-core](https://crates.io/crates/corvid-agent-deck-core) | 0.3.6 | 0 | Shared state and behavior for Corvid Agent Deck |
+| 2026-11-20 07:13:41 | [hd_structure](https://crates.io/crates/hd_structure) | 0.0.1 | 0 | The compiler-supplied Structure generator: TIR bodies of a target's facts, name… |
+| 2026-11-20 07:16:04 | [libtea-cli](https://crates.io/crates/libtea-cli) | 0.2.0 | 0 | The libtea command: discover, inspect and download CycloneDX Transparency Excha… |
+| 2026-11-20 07:17:01 | [lodash-guru](https://crates.io/crates/lodash-guru) | 0.1.0 | 0 | Lodash-style utility functions for Rust - chunk, group_by, uniq, shuffle, parti… |
+| 2026-11-20 07:17:46 | [datefn-guru](https://crates.io/crates/datefn-guru) | 0.1.0 | 0 | date-fns style date utilities for Rust - add, difference, start_of, end_of, day… |
+| 2026-11-20 07:18:39 | [linq-guru](https://crates.io/crates/linq-guru) | 0.1.0 | 0 | LINQ-style query methods for Rust iterators - where, select, order_by, group_by… |
+| 2026-11-20 07:19:24 | [testify-guru](https://crates.io/crates/testify-guru) | 0.1.0 | 0 | testify-style fluent assertions for Rust - assert_that(value).is_equal_to(x).co… |
 
 ## Data source
 

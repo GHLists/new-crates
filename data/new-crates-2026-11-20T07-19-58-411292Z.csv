@@ -1,0 +1,68 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-20T06:19:50.88167Z,marshal-launch,0.61.0,0,0,https://github.com/ignition-is-go/marshal,"Start a coding agent anywhere through a pluggable adapter, and wait for it to join the marshal roster."
+2026-11-20T06:20:54.030333Z,marshal-launch-ssh,0.61.0,0,0,https://github.com/ignition-is-go/marshal,Reference marshal-launch adapter: start a coding agent in tmux on another machine over ssh.
+2026-11-20T06:22:29.12306Z,mimid-agent-irc,0.0.1,0,0,https://github.com/MarkAtwood/mimid,IRC front end of mimid-agent: a user's MIMI rooms over IRC (early placeholder)
+2026-11-20T06:23:19.973656Z,hd_project,0.0.1,0,0,https://github.com/HerringtonDarkholme/hd-lang,"Manifests, source discovery, modules, folders and the package graph (hd compiler internals, no stable API; install `hd-lang`)"
+2026-11-20T06:24:04.521149Z,ridx-format,0.3.8,0,0,https://github.com/alex09x/rust-intelligence,"Fast, compact, zero-copy binary index format for Rust Intelligence"
+2026-11-20T06:24:09.917058Z,ridx-syntax,0.3.8,0,0,https://github.com/alex09x/rust-intelligence,Zero-dependency lossless Rust lexer and syntax tree for Rust Intelligence
+2026-11-20T06:24:12.261671Z,ridx-driver,0.3.8,0,0,https://github.com/alex09x/rust-intelligence,Compiler-backed rustc_driver extractor for Rust Intelligence (ridx)
+2026-11-20T06:24:14.632893Z,ridx,0.3.8,0,0,https://github.com/alex09x/rust-intelligence,"Compiler-backed, mmap-indexed CLI and LSP code intelligence tool for Rust"
+2026-11-20T06:28:13.100474Z,nlptoolkit-sentinet,0.0.1,0,0,https://github.com/StarlangSoftware/TurkishSentiNet-Rust,Turkish SentiNet HisNet
+2026-11-20T06:30:25.268573Z,uncantorable,0.1.1,0,0,,"Total-domain number theory over arbitrary precision: fast-doubling Fibonacci at any index, Bunder negafibonacci (signed Zeckendorf) decomposition, and combinadic rank/unrank. No machine word defines…"
+2026-11-20T06:33:23.950737Z,hd_deps,0.0.1,0,0,https://github.com/HerringtonDarkholme/hd-lang,"Dependency fetching: version selection, git, the version cache, tree hashes and hd.sum (hd compiler internals, no stable API; install `hd-lang`)"
+2026-11-20T06:35:26.826947Z,portradar,0.1.1,0,0,https://github.com/abdulmoiz02/portradar,Interactive terminal dashboard to monitor and manage network ports on Linux
+2026-11-20T06:35:36.872393Z,nfdl-diag,0.1.0,0,0,https://gitverse.ru/aloshkarev/nfdl,Diagnostics adapter for protocol N-FDL.
+2026-11-20T06:37:03.422875Z,zrc,0.1.2,0,0,https://github.com/LIghtJUNction/zrc,Embedded native application profiles for one reviewable zdot deployment
+2026-11-20T06:38:38.502362Z,nfdl-dx-ir,0.1.0,0,0,https://gitverse.ru/aloshkarev/nfdl,IR for NFDL diagnostic programs.
+2026-11-20T06:42:15.241902Z,nfdl-syntax,0.1.0,0,0,https://gitverse.ru/aloshkarev/nfdl,Parser for protocol N-FDL sources (.nfdl).
+2026-11-20T06:43:27.363114Z,hd_types,0.0.1,0,0,https://github.com/HerringtonDarkholme/hd-lang,"Type storage, inference primitives, rows and solver data (hd compiler internals, no stable API; install `hd-lang`)"
+2026-11-20T06:44:40.194117Z,iktinos-web,0.1.0,0,0,https://github.com/td72/iktinos,"The Claude Code sessions on this machine in a browser: the page and the local server behind `iktinos serve`, as a library"
+2026-11-20T06:45:03.959792Z,quail-planner,0.2.0,0,0,https://github.com/fsdatalab/quail,"Quail's planner of one model region: its operators, cost model, search, and physical plan"
+2026-11-20T06:45:05.905059Z,quail-datafusion,0.2.0,0,0,https://github.com/fsdatalab/quail,Quail's AI functions and model region planning as a DataFusion extension
+2026-11-20T06:45:07.712198Z,quail-engine,0.2.0,0,0,https://github.com/fsdatalab/quail,"Quail: AI functions in SQL on DataFusion, with the model's work on GPU workers"
+2026-11-20T06:45:12.988097Z,lintel-core,0.1.0,0,0,https://github.com/looading/lintel,"Application context, plugin lifecycle and owned tasks for Lintel"
+2026-11-20T06:45:37.469634Z,lintel-shared-data,0.1.0,0,0,https://github.com/looading/lintel,Typed transfer envelopes and common bridge messages for Lintel
+2026-11-20T06:45:44.525377Z,haest-wire,0.3.0,0,0,https://github.com/haest-werk/haest,"haest's wire format: the envelope around a conversation's events, the frames a peer sends in, a framer, a replay ring with gaps, an NDJSON line codec. serde only: no I/O, no async runtime"
+2026-11-20T06:46:07.549933Z,rar-rs,0.15.2,0,0,https://github.com/yjdyamv/rar-rs,"Pure-Rust library and tools for RAR 1.5-4.x, RAR5, and RAR7 archives"
+2026-11-20T06:46:13.700124Z,haest-session,0.3.0,0,0,https://github.com/haest-werk/haest,"A haest conversation another program can watch and drive while it runs: the session driver, its event hub (numbered frames, a replay ring, a bounded broadcast), the Backend seam transports attach to"
+2026-11-20T06:46:18.063806Z,lintel-iced-widgets,0.1.0,0,0,https://github.com/looading/lintel,Native and embedded WebView widgets for Lintel
+2026-11-20T06:46:22.549472Z,haest-transport,0.3.0,0,0,https://github.com/haest-werk/haest,"Transports for a haest session: the same wire frames over stdio, a Unix control socket or a broker link, each a dumb pipe in front of the session's Backend, with an access check per connection"
+2026-11-20T06:46:33.915828Z,lintel-plugin-iced,0.1.0,0,0,https://github.com/looading/lintel,Owned iced program routing and renderer integration for Lintel
+2026-11-20T06:46:49.371875Z,rar-cli,0.15.2,0,0,https://github.com/yjdyamv/rar-rs,"WinRAR-compatible command-line tools (rar, unrar)"
+2026-11-20T06:47:14.468481Z,rar-rs-napi,0.15.2,0,0,https://github.com/yjdyamv/rar-rs,"RAR archive toolkit — napi-rs bindings for creating, reading, extracting, modifying, and repairing archives"
+2026-11-20T06:47:21.208844Z,lintel-framework,0.1.1,0,0,https://github.com/looading/lintel,"A modular Rust desktop framework with native UI, WebView, plugins and supervised services"
+2026-11-20T06:47:31.722369Z,nfdl-dx-syntax,0.1.0,0,0,https://gitverse.ru/aloshkarev/nfdl,Parser for NFDL diagnosis sources (.ndx).
+2026-11-20T06:47:45.665293Z,corvid-core,0.3.6,0,0,https://github.com/DosangGu/corvid,Domain types for the Corvid terminal multiplexer
+2026-11-20T06:47:46.417714Z,corvid-protocol,0.3.6,0,0,https://github.com/DosangGu/corvid,Local transport and wire protocol for Corvid
+2026-11-20T06:47:47.071906Z,corvid-update,0.3.6,0,0,https://github.com/DosangGu/corvid,Release installation and update support for Corvid
+2026-11-20T06:47:47.731158Z,corvid-client,0.3.6,0,0,https://github.com/DosangGu/corvid,Client for the Corvid terminal multiplexer daemon
+2026-11-20T06:47:48.238861Z,corvid-daemon,0.3.6,0,0,https://github.com/DosangGu/corvid,PTY and session daemon for the Corvid terminal multiplexer
+2026-11-20T06:51:37.406063Z,eggpass-auth,0.1.0,0,0,https://github.com/eggstack/eggpass,Async OAuth authentication flows for applications using Eggfetch
+2026-11-20T06:51:45.991144Z,pulzr-package,0.1.0,0,0,https://github.com/pulzar-net/pulzr-package-sdk,"Write Pulzr extension modules (gateway support packages, carrier drivers) in Rust: the ABI, typed events and answers, host calls and helpers"
+2026-11-20T06:51:54.193767Z,nfdl-vm,0.1.0,0,0,https://gitverse.ru/aloshkarev/nfdl,Virtual machine for protocol N-FDL bytecode.
+2026-11-20T06:53:17.624878Z,corvid-companion,0.3.6,0,0,https://github.com/DosangGu/corvid,Controller state and host connections for Corvid
+2026-11-20T06:53:31.637473Z,hd_resolve,0.0.1,0,0,https://github.com/HerringtonDarkholme/hd-lang,"Name resolution, folder interfaces, hashes, ownership and visibility (hd compiler internals, no stable API; install `hd-lang`)"
+2026-11-20T06:54:19.483646Z,uutests_procs,0.13.0,0,0,https://github.com/uutils/coreutils/tree/main/tests/uutests_procs,uutils ~ 'uutests' proc-macros
+2026-11-20T06:55:06.325381Z,pocket-render,0.17.0,0,0,https://github.com/pocket-nexus/pocketjs,"DrawList decoding, vertex building, texture and glyph page retention, and damage tracking for PocketJS renderers"
+2026-11-20T06:56:22.775787Z,lintel-cli,0.1.0,0,0,https://github.com/looading/lintel,Command-line tools for Lintel desktop applications
+2026-11-20T07:02:57.68025Z,corvid-presentation,0.3.6,0,0,https://github.com/DosangGu/corvid,Shared presentation logic for Corvid clients
+2026-11-20T07:02:58.122506Z,bluetooth-numbers,0.2.0,0,0,https://github.com/pulzar-net/bluetooth-bridge,"The Bluetooth SIG's Assigned Numbers (company identifiers, UUIDs, appearance, AD types, units), generated at build time from the SIG's public repository"
+2026-11-20T07:03:07.257596Z,bluetooth-adv,0.2.0,0,0,https://github.com/pulzar-net/bluetooth-bridge,"Bluetooth LE advertising data: every AD type parsed, and beacon formats (iBeacon, Eddystone, AltBeacon, BTHome v2 with encryption, KKM, Ruuvi) decoded"
+2026-11-20T07:03:31.479333Z,bluetooth-host,0.2.0,0,0,https://github.com/pulzar-net/bluetooth-bridge,"A Bluetooth host stack over raw HCI: observer, broadcaster, central and peripheral, L2CAP, ATT and GATT, SMP pairing and bonding, privacy"
+2026-11-20T07:03:36.576107Z,hd_tir,0.0.1,0,0,https://github.com/HerringtonDarkholme/hd-lang,"TIR: the typed IR in columns, its builder, verifier, printer and wire form (hd compiler internals, no stable API; install `hd-lang`)"
+2026-11-20T07:03:37.520447Z,bluetooth-mesh-stack,0.2.0,0,0,https://github.com/pulzar-net/bluetooth-bridge,"Bluetooth Mesh on the bluetooth-host stack: the security toolbox, network and transport layers, provisioning, proxy, and the foundation and generic models"
+2026-11-20T07:03:52.079851Z,bluetooth-bridge,0.2.0,0,0,https://github.com/pulzar-net/bluetooth-bridge,"A standalone Bluetooth LE to MQTT bridge with Home Assistant discovery, on the bluetooth-host stack"
+2026-11-20T07:03:52.361151Z,docboss-output,0.3.0,0,0,https://github.com/4thel00z/docboss,"Text, Markdown, HTML and JSON output from the docboss document model"
+2026-11-20T07:03:52.569455Z,docboss-zip,0.3.0,0,0,https://github.com/4thel00z/docboss,"ZIP container reader and deterministic writer in pure Rust for docboss: central directory, ZIP64, stored and deflate entries, recovery from local headers"
+2026-11-20T07:03:53.995984Z,docboss-crypt,0.3.0,0,0,https://github.com/4thel00z/docboss,Decryption of password-protected Office Open XML packages ([MS-OFFCRYPTO] Agile and Standard encryption) in pure Rust
+2026-11-20T07:03:54.378808Z,docboss-mtef,0.3.0,0,0,https://github.com/4thel00z/docboss,Equation Editor 3 equations for docboss: the MTEF data of an Equation Native stream read into the docboss math model
+2026-11-20T07:03:55.271702Z,docboss-doc,0.3.0,0,0,https://github.com/4thel00z/docboss,"Word 97-2003 binary document ([MS-DOC]) reader in pure Rust: text, formatting, styles, lists, tables, notes, comments and pictures"
+2026-11-20T07:05:06.685346Z,caprs,0.1.1,0,0,https://github.com/lib-x/caprs,"Image-based click, slide, drag and rotate CAPTCHA generation and verification"
+2026-11-20T07:06:40.641323Z,zeitlupius,0.1.0,0,0,https://github.com/dennishenle/zeitlupius,Terminal time tracker - Ratatui TUI plus a feature-equivalent CLI
+2026-11-20T07:12:58.142212Z,corvid-agent-deck-core,0.3.6,0,0,https://github.com/DosangGu/corvid,Shared state and behavior for Corvid Agent Deck
+2026-11-20T07:13:41.125309Z,hd_structure,0.0.1,0,0,https://github.com/HerringtonDarkholme/hd-lang,"The compiler-supplied Structure generator: TIR bodies of a target's facts, name, walk, describe, build and handles (hd compiler internals, no stable API; install `hd-lang`)"
+2026-11-20T07:16:04.44497Z,libtea-cli,0.2.0,0,0,https://github.com/Mehrn0ush/libtea-rs,"The libtea command: discover, inspect and download CycloneDX Transparency Exchange API (TEA) artifacts with checksum checks"
+2026-11-20T07:17:01.175794Z,lodash-guru,0.1.0,0,0,https://github.com/StarcevAlexander/lodash-guru,"Lodash-style utility functions for Rust - chunk, group_by, uniq, shuffle, partition, intersection and 20+ more, zero dependencies"
+2026-11-20T07:17:46.027123Z,datefn-guru,0.1.0,0,0,https://github.com/StarcevAlexander/datefn-guru,"date-fns style date utilities for Rust - add, difference, start_of, end_of, days_in_month and 25 more helpers over chrono NaiveDateTime"
+2026-11-20T07:18:39.861273Z,linq-guru,0.1.0,0,0,https://github.com/StarcevAlexander/linq-guru,"LINQ-style query methods for Rust iterators - where, select, order_by, group_by, aggregate and 20 more C#-named extension methods"
+2026-11-20T07:19:24.757323Z,testify-guru,0.1.0,0,0,https://github.com/StarcevAlexander/testify-guru,"testify-style fluent assertions for Rust - assert_that(value).is_equal_to(x).contains(y), zero dependencies"
