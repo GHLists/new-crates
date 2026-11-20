@@ -1,0 +1,39 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-20T05:21:48.139371Z,process-terminator,2.0.0,0,0,https://github.com/SCP002/terminator,"Stop processes gracefully, even on Windows, without a kamikaze proxy binary."
+2026-11-20T05:22:28.603551Z,mls-didwebvh,0.0.1,0,0,https://github.com/MarkAtwood/mimid,"draft-atwood-mls-didwebvh-credential: the did_webvh MLS credential, its log verification and group rules, for mimid (early placeholder)"
+2026-11-20T05:25:14.416485Z,ndsl-diag,0.1.0,0,0,https://gitverse.ru/aloshkarev/nfdl,Shared diagnostics for protocol N-FDL and diagnosis NFDL.
+2026-11-20T05:25:33.303915Z,nfdl-dx-types,0.1.0,0,0,https://gitverse.ru/aloshkarev/nfdl,Foundational types for the NFDL diagnostic graph language.
+2026-11-20T05:25:52.819061Z,nfdl-bytecode,0.1.0,0,0,https://gitverse.ru/aloshkarev/nfdl,Bytecode for the protocol N-FDL virtual machine.
+2026-11-20T05:26:11.310829Z,nfdl-plugin,0.1.0,0,0,https://gitverse.ru/aloshkarev/nfdl,N-FDL Plugin ABI v1 stub (pure Rust; no C FFI yet)
+2026-11-20T05:26:31.041944Z,nfdl-types,0.1.0,0,0,https://gitverse.ru/aloshkarev/nfdl,Coverage types for protocol N-FDL.
+2026-11-20T05:32:29.805409Z,mimid-server,0.0.1,0,0,https://github.com/MarkAtwood/mimid,MIMI provider server (hub and follower roles) for the mimid reference implementation (early placeholder)
+2026-11-20T05:32:37.745456Z,yesense-imu,0.1.0,0,0,https://github.com/jeff-hykin/yesense-imu-rust,"Driver for Yesense IMUs (YIS series) over a serial port: the standard binary output protocol decoded into accel, gyro, orientation, temperature and timestamps"
+2026-11-20T05:35:25.10646Z,ndsl-trivia,0.1.0,0,0,https://gitverse.ru/aloshkarev/nfdl,Comment and trivia preservation for N-FDL and NFDL formatters.
+2026-11-20T05:39:46.137785Z,robosense-airy,0.1.1,0,0,https://github.com/jeff-hykin/robosense-airy-rust,"RoboSense Airy (RSAIRY) lidar driver: MSOP/DIFOP/IMU decoding ported from RoboSense's rs_driver, multicast receiver, voxel/decimation filters"
+2026-11-20T05:42:28.973292Z,mimid-agent,0.0.1,0,0,https://github.com/MarkAtwood/mimid,The mimid-agent daemon: a user's MIMI rooms as a local JMAP Chat endpoint (early placeholder)
+2026-11-20T05:44:02.429096Z,m20-ecan,0.1.1,0,0,https://github.com/jeff-hykin/m20-ecan-rust,"Deep Robotics M20 (Lynx) motor-bus (ECAN, ethertype 0x4452) protocol: frame codec, joint command/state records, the vendor raw-socket transport and a pcapng/live tap reader"
+2026-11-20T05:45:10.391889Z,gpui-widgets,0.1.0,0,0,,General-purpose widgets built on GPUI (Zed's GPU-accelerated UI framework)
+2026-11-20T05:46:17.943043Z,usb-stack,0.1.0,0,0,https://github.com/snple/usb-stack,"MCU-independent USB device stack core: bus trait, control pipe and classes (CDC-ACM, HID, GS_USB, i2c-tiny-usb, UAC 1.0)"
+2026-11-20T05:50:35.994797Z,imgpipe,0.1.0,0,0,https://github.com/sagikazarmark/imgpipe,Image processing pipeline
+2026-11-20T05:50:38.40431Z,imgpipe-cli,0.1.0,0,0,https://github.com/sagikazarmark/imgpipe,"Command-line tool for imgpipe: run, validate and explain image pipeline files"
+2026-11-20T05:52:28.686863Z,mimid-agent-core,0.0.1,0,0,https://github.com/MarkAtwood/mimid,The client engine of mimid-agent: MIMI rooms through a mimid server's JMAP API (early placeholder)
+2026-11-20T05:52:51.903564Z,mwdump,0.1.0,0,0,https://github.com/internetarchive/RevisionChest,"Streaming reader and writer for MediaWiki XML dumps (pages-meta-history and friends): one event per page start, revision and page end, from .xml, .bz2, .gz or .7z, with hidden parts and content slots"
+2026-11-20T05:53:00.072662Z,mwrecent,0.1.0,0,0,https://github.com/internetarchive/RevisionChest,"Following a MediaWiki wiki by list=recentchanges: the next query, and each batch read with a settle window, a tail pass, deduplication by rcid and log rows; coalescing by title optional"
+2026-11-20T05:53:04.376659Z,m20-battery,0.1.0,0,0,https://github.com/jeff-hykin/m20-battery-rust,"Deep Robotics M20 (Lynx) battery packs off the ECAN motor bus: voltage, current, charge, cycles, temperatures, cells, protection and MOS state"
+2026-11-20T05:59:27.342266Z,ch32x035-rt,0.1.0,0,0,https://github.com/snple/ch32x035.git,Runtime support for CH32X035 RISC-V microcontrollers (WCH QingKe V4C)
+2026-11-20T05:59:33.042613Z,ch32x035-macro,0.1.0,0,0,https://github.com/snple/ch32x035.git,Procedural macros for ch32x035
+2026-11-20T05:59:33.35484Z,longshore_mailbox,0.2.0,0,0,https://github.com/carverauto/longshore,Bounded lock-free mailboxes between I/O cores and caller waiter slots
+2026-11-20T05:59:35.062668Z,longshore_stream,0.2.0,0,0,https://github.com/carverauto/longshore,"Plain or TLS byte stream over longshore I/O, for clients and servers"
+2026-11-20T05:59:46.583438Z,ch32x035-pac,0.1.0,0,0,https://github.com/snple/ch32x035.git,Peripheral Access Crate for CH32X035 (WCH RISC-V)
+2026-11-20T06:00:04.576293Z,ch32x035,0.1.0,0,0,https://github.com/snple/ch32x035.git,Hardware Abstraction Layer for the CH32X035 (WCH RISC-V QingKe V4C)
+2026-11-20T06:02:29.492433Z,mimid-agent-jmap,0.0.1,0,0,https://github.com/MarkAtwood/mimid,JMAP Chat over mimid-agent-core: a user's MIMI rooms as Chats and Messages (early placeholder)
+2026-11-20T06:04:10.466689Z,ch32x035-usb,0.1.0,0,0,https://github.com/snple/ch32x035.git,USB device stack for the CH32X035 (WCH USBFS full-speed device)
+2026-11-20T06:10:33.422222Z,smysl-series,1.17.0,0,0,https://github.com/vulogov/smysl,"smysl's series substrate (RFC SMYSL-3 §19): samples, window digests, chunks and the series store"
+2026-11-20T06:10:41.238769Z,smysl-tel,1.17.0,0,0,https://github.com/vulogov/smysl,"smysl for telemetry (RFC SMYSL-3): readers, profiles, the canonical diff, window evidence, detectors and investigations"
+2026-11-20T06:12:28.73802Z,mimid-agent-store,0.0.1,0,0,https://github.com/MarkAtwood/mimid,"The plaintext layer of mimid-agent, shared by its front ends: blobs, messages, notices (early placeholder)"
+2026-11-20T06:13:07.721256Z,hd_base,0.0.1,0,0,https://github.com/HerringtonDarkholme/hd-lang,"IDs, spans, hashes, fuel, the build profile and the engine target; the leaf crate (hd compiler internals, no stable API; install `hd-lang`)"
+2026-11-20T06:13:09.852958Z,hd_intern,0.0.1,0,0,https://github.com/HerringtonDarkholme/hd-lang,"Interned strings and stable paths (hd compiler internals, no stable API; install `hd-lang`)"
+2026-11-20T06:13:11.797856Z,hd_diag,0.0.1,0,0,https://github.com/HerringtonDarkholme/hd-lang,"Diagnostic codes and records (hd compiler internals, no stable API; install `hd-lang`)"
+2026-11-20T06:13:13.878667Z,hd_syntax,0.0.1,0,0,https://github.com/HerringtonDarkholme/hd-lang,"The lexer, layout, parser, green tree and skeletons (hd compiler internals, no stable API; install `hd-lang`)"
+2026-11-20T06:13:15.973442Z,hd_cache,0.0.1,0,0,https://github.com/HerringtonDarkholme/hd-lang,"The cache store interface, its memory and disk stores, entry framing and the cache key rules (hd compiler internals, no stable API; install `hd-lang`)"
+2026-11-20T06:15:42.412904Z,zclick-core,0.1.1-alpha.3,0,0,https://github.com/LIghtJUNction/zclick,Borrowed Click-compatible argument semantics over zclap
