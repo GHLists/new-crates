@@ -1,0 +1,36 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-20T07:20:10.316744Z,zod-guru,0.1.0,0,0,https://github.com/StarcevAlexander/zod-guru,"zod-style schema validation for Rust - composable builders that validate serde_json::Value and report every issue with its path, zero dependencies"
+2026-11-20T07:22:46.848511Z,corvid-agent-deck,0.3.6,0,0,https://github.com/DosangGu/corvid,Agent activity and focus controls for Corvid
+2026-11-20T07:23:45.151892Z,hd_check,0.0.1,0,0,https://github.com/HerringtonDarkholme/hd-lang,"Body checking, trait solving, exhaustiveness, facts, coherence and initialization (hd compiler internals, no stable API; install `hd-lang`)"
+2026-11-20T07:25:49.967873Z,ctfgarden-challenge,0.1.0,0,0,https://gitlab.com/nirvati-ug/ctf-garden/jeopardy/backend,"Challenge handling of CTFGarden: loading, preprocessing, flag checking and Kubernetes conversion of CTF challenges"
+2026-11-20T07:26:15.198596Z,zigbee-ash,0.3.0,0,0,https://github.com/pulzar-net/zigbee-bridge,Silicon Labs ASHv2 (Asynchronous Serial Host) framing and link layer for EZSP
+2026-11-20T07:26:19.744032Z,zigbee-primitives,0.3.0,0,0,https://github.com/pulzar-net/zigbee-bridge,"Zigbee address, key and wire-format types shared by the zigbee-bridge crates"
+2026-11-20T07:26:25.260838Z,ctfgarden-cli,0.1.0,0,0,https://gitlab.com/nirvati-ug/ctf-garden/jeopardy/backend,"Develop CTFGarden challenges locally: lint them, render templates and run them with Docker Compose"
+2026-11-20T07:26:42.654488Z,pathwaykit,0.3.0,0,0,,"Reading, writing, converting, editing, and analyzing biological pathways: KGML, SBML, BioPAX, GPML und COBRA JSON"
+2026-11-20T07:31:45.985575Z,zfetch,0.1.1,0,0,https://github.com/LIghtJUNction/zfetch,"A small, private-by-default native Linux system summary"
+2026-11-20T07:31:57.160549Z,laburnum-macro,0.2.0,0,0,https://github.com/gold-build/laburnum,"Proc-macros for language frontends built with the laburnum LSP framework: CST and AST node types, and diagnostic catalogues."
+2026-11-20T07:32:09.888808Z,pyrite-fs,0.1.0,0,0,https://github.com/gold-build/laburnum,Capability-scoped physical and in-memory filesystems
+2026-11-20T07:32:45.116741Z,corvid-tui,0.3.6,0,0,https://github.com/DosangGu/corvid,Terminal multiplexer for coding agents
+2026-11-20T07:32:52.215074Z,polly-guru,0.1.0,0,0,https://github.com/StarcevAlexander/polly-guru,"Polly-style resilience for Rust - retry with exponential backoff and jitter, circuit breaker, zero dependencies"
+2026-11-20T07:33:49.173688Z,hd_host_abi,0.0.1,0,0,https://github.com/HerringtonDarkholme/hd-lang,"Host import and ABI descriptions (hd compiler internals, no stable API; install `hd-lang`)"
+2026-11-20T07:37:11.38751Z,qubrics,1.0.0,0,0,https://github.com/qubrics/qubrics-sdk,"Official async Rust SDK for the Qubrics Sending, Mailbox, and Management APIs."
+2026-11-20T07:37:46.872931Z,rich-guru,0.1.0,0,0,https://github.com/StarcevAlexander/rich-guru,"rich-style terminal output for Rust - ANSI colors, styled text and aligned tables, zero dependencies"
+2026-11-20T07:41:56.005762Z,modelith-plugin-protocol,0.1.0,0,0,https://github.com/modelith/plugin-sdk,"Contract between Modelith and its plugins: manifest, registry entry, rule set, edit and message types"
+2026-11-20T07:43:53.702723Z,hd_mono,0.0.1,0,0,https://github.com/HerringtonDarkholme/hd-lang,"Monomorphizing collection over TIR (hd compiler internals, no stable API; install `hd-lang`)"
+2026-11-20T07:46:27.372493Z,zigbee-deconz,0.3.0,0,0,https://github.com/pulzar-net/zigbee-bridge,"dresden elektronik deCONZ serial protocol (ConBee, RaspBee) frames and an async client"
+2026-11-20T07:46:30.120645Z,zigbee-ezsp,0.3.0,0,0,https://github.com/pulzar-net/zigbee-bridge,"Silicon Labs EZSP (EmberZNet Serial Protocol) frames and an async client, EmberZNet 7.4 to 8.x"
+2026-11-20T07:46:30.672221Z,airust-pdf-backend,0.3.4,0,0,https://github.com/LEVOGNE/airust,Optional AIRust PDF backend with bounded small-object loading; derived from pdf_oxide 0.3.78
+2026-11-20T07:46:59.908302Z,fmt-guru,0.1.0,0,0,https://github.com/StarcevAlexander/fmt-guru,"runtime string templates for Rust - named and positional placeholders like {name} rendered from key-value pairs, zero dependencies"
+2026-11-20T07:52:46.445707Z,zigbee-zcl,0.3.0,0,0,https://github.com/pulzar-net/zigbee-bridge,"The Zigbee Cluster Library: data types, frames, global commands and cluster definitions generated from data files"
+2026-11-20T07:53:58.192359Z,hd_layout,0.0.1,0,0,https://github.com/HerringtonDarkholme/hd-lang,"Target-independent type layout: sizes, offsets, niches, enum encodings and the type facts the ownership passes and every backend read (hd compiler internals, no stable API; install `hd-lang`)"
+2026-11-20T07:57:38.122768Z,cache-guru,0.1.0,0,0,https://github.com/StarcevAlexander/cache-guru,"Go-style TTL cache for Rust - thread-safe in-memory cache with expiry, LRU-style eviction and hit/miss stats, zero dependencies"
+2026-11-20T08:02:34.435432Z,zigbee-zdo,0.3.0,0,0,https://github.com/pulzar-net/zigbee-bridge,"Zigbee Device Object frames: discovery, binding and network management"
+2026-11-20T08:04:02.213668Z,hd_opt,0.0.1,0,0,https://github.com/HerringtonDarkholme/hd-lang,"The pass manager: pass declarations, body-unit passes, pipelines as data, and the pipeline hash (hd compiler internals, no stable API; install `hd-lang`)"
+2026-11-20T08:06:11.705243Z,nine_dev_site_lib,0.1.0,0,0,https://git.9dev.tech/9-Developers/9dev-site-lib,Embedded theme icons and fingerprinted asset lookup for 9 Developers websites
+2026-11-20T08:06:34.540586Z,speech-timeline,0.1.0,0,0,https://github.com/kosumic/whip,"Whip's playback-driven speech pacing, text positions and source clock mapping"
+2026-11-20T08:06:40.549892Z,voice-call-controls,0.1.0,0,0,https://github.com/kosumic/whip,Portable microphone tool contract and logical-call timed-mute policy
+2026-11-20T08:07:41.1437Z,id-guru,0.1.0,0,0,https://github.com/StarcevAlexander/id-guru,"Guru ID toolkit for Rust - UUID v4/v7, nanoid and ULID generators with a unified API"
+2026-11-20T08:12:36.136981Z,zigbee-znp,0.3.0,0,0,https://github.com/pulzar-net/zigbee-bridge,"Texas Instruments Z-Stack ZNP (Monitor and Test API) frames and an async client, Z-Stack 3.x"
+2026-11-20T08:14:06.285433Z,hd_run,0.0.1,0,0,https://github.com/HerringtonDarkholme/hd-lang,"Engine-neutral program loading and run outcomes (hd compiler internals, no stable API; install `hd-lang`)"
+2026-11-20T08:14:52.956765Z,modbus-connect,0.1.0,0,0,https://github.com/phk-mvn/modbus-connect-rs,"A robust, high-performance Modbus RTU/TCP framework with port serialization, declarative schemas, polling manager, and auto-discovery"
+2026-11-20T08:16:08.045632Z,es-locksmith,0.2.1,0,0,https://github.com/Sec-ant/locksmith,Merge and converge pnpm lockfiles
