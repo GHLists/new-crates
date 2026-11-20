@@ -1,0 +1,76 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-20T01:19:50.504036Z,snapshot_experiment,0.1.0,0,0,,"A controlled comparison of two exact Cargo composition snapshots: the typed cargo_composition diff, the composites it affects, declared structural observations, and scientific-method's evaluation of…"
+2026-11-20T01:20:06.957434Z,evidence_probe,0.1.0,0,0,,"Small typed probes over an exact specimen, each giving one evidence record: what was observed, by which mechanism, about which tree, with which verdict; observation, structural check, behavioural tes…"
+2026-11-20T01:20:15.93177Z,release_contract,0.1.0,0,0,,"A release as an accepted baseline of contracts: each contract's state observed by an evidence recipe, a candidate's deltas classified against the evidence, a production contract that changed without…"
+2026-11-20T01:21:53.678984Z,sad-parse-zoneinfo,0.6.0,0,0,https://github.com/sadco-io/sad-chrono-tz,Parse zoneinfo files from the IANA database
+2026-11-20T01:22:09.073761Z,heavenly-core,0.5.0,0,0,https://github.com/sevki/heavenly,"Frames, epochs, state vectors and transforms for the heavenly coordinate library"
+2026-11-20T01:22:11.889047Z,heavenly-geo,0.5.0,0,0,https://github.com/sevki/heavenly,"Ellipsoids, geodetic coordinates and body orientation models for heavenly"
+2026-11-20T01:22:13.374374Z,heavenly-spice,0.5.0,0,0,https://github.com/sevki/heavenly,Reader for SPICE SPK and binary PCK kernels (JPL DE ephemerides) for heavenly
+2026-11-20T01:22:36.000164Z,ztty-plugin-api,0.1.0,0,0,https://github.com/LIghtJUNction/ztty,Versioned no_std text action interface for ztty extensions
+2026-11-20T01:22:41.467234Z,sad-chrono-tz-build,0.6.0,0,0,https://github.com/sadco-io/sad-chrono-tz,Internal build script for sad-chrono-tz
+2026-11-20T01:23:32.397241Z,sad-chrono-tz,0.11.0,0,0,https://github.com/sadco-io/sad-chrono-tz,TimeZone implementations for sad-chrono from the IANA database
+2026-11-20T01:27:48.445309Z,mzizi-api-types,0.1.0,0,0,https://github.com/mzizi-dev/mzizi-api,Serde types for every response body of the Mzizi registry API (api.mzizi.dev) and the registry data it serves.
+2026-11-20T01:28:10.735895Z,mlmf-lora,0.11.49,0,0,https://github.com/CireSnave/mlmf,"LoRA adapter files, as declared: PEFT adapter_config.json fields and lora_A/lora_B tensor pairing. Every field Option; no merge, no scale. No I/O."
+2026-11-20T01:28:32.418328Z,ferroxygen_explicit,0.1.0,0,0,https://github.com/facebookincubator/roxygen,An experimental HTTP/1.1 client for connections the application dials
+2026-11-20T01:29:14.228528Z,metarm,0.1.0,0,0,https://github.com/krissemicolon/metarm,"Strip metadata (EXIF, GPS, XMP, comments) from JPEG, PNG and WebP images, invoked like rm"
+2026-11-20T01:29:17.891271Z,proton-gallery-rs,0.1.0,0,0,https://github.com/narrrl/proton-rs,"SDK-free photo library core for Proton apps: SQLite catalog, timeline, albums, justified grid, places"
+2026-11-20T01:31:05.047798Z,proton-gallery-drive-rs,0.1.0,0,0,https://github.com/narrrl/proton-rs,Proton Drive adapter for proton-gallery-rs
+2026-11-20T01:31:08.489074Z,xccute_route,0.1.0,0,0,,"A typed route from one command surface into another: a parent's context and command projected into a child's declared xccute line, resolved and inspectable before anything runs, executed through a ru…"
+2026-11-20T01:31:45.361361Z,proton-gallery-app-rs,0.1.0,0,0,https://github.com/narrrl/proton-rs,"Gallery application services (sync, media, video, albums, sharing) shared by Proton desktop and mobile apps"
+2026-11-20T01:31:50.163543Z,proton-rs,0.1.0,0,0,https://github.com/narrrl/proton-rs,"Shared building blocks for Proton Drive apps (gallery core, Drive adapters), re-exported behind features"
+2026-11-20T01:34:20.577171Z,kernoid-base,0.5.0,0,0,https://github.com/kernoid/kernoid,"The base of kernoid's foundation: canonical JSON, hashes, identities of spaces"
+2026-11-20T01:34:25.912956Z,kernoid-blob,0.5.0,0,0,https://github.com/kernoid/kernoid,"Originals stored by their hash, in memory, in a folder or in S3 – part of kernoid's foundation"
+2026-11-20T01:34:30.144924Z,kernoid-log,0.5.0,0,0,https://github.com/kernoid/kernoid,"The event log of a space: events of any kind, hybrid logical clocks, chains per device – part of kernoid's foundation"
+2026-11-20T01:34:42.172063Z,kernoid-crypt,0.5.0,0,0,https://github.com/kernoid/kernoid,"End-to-end encryption of a space: members, keys, the member list, envelopes – part of kernoid's foundation"
+2026-11-20T01:34:51.807528Z,kernoid-space-store,0.5.0,0,0,https://github.com/kernoid/kernoid,"A device's spaces in SQLite – events, member records, settings, what was sent – part of kernoid's foundation"
+2026-11-20T01:37:01.53427Z,robroz,0.0.1,0,0,https://github.com/PandaQuQ/robroz,robroz: an open-source agent bot platform written in Rust (early development).
+2026-11-20T01:38:36.643982Z,ferroxygen_server,0.1.0,0,0,https://github.com/facebookincubator/roxygen,A multi-worker HTTP/1.1 and HTTP/2 server built on Roxygen
+2026-11-20T01:38:57.231507Z,snova,0.1.0,0,0,https://atomgit.com/i18n-site/rs,"SNOVA post-quantum multivariate signature, byte-exact with the reference, SIMD optimized, pluggable SHAKE / BLAKE3 hash"
+2026-11-20T01:41:26.992061Z,kernoid-replica,0.5.0,0,0,https://github.com/kernoid/kernoid,"A device's replica of its spaces, synchronised through a relay, end to end encrypted – part of kernoid's foundation"
+2026-11-20T01:44:56.02458Z,demarcate-core,0.2.2,0,0,https://github.com/HarryJhin/demarcate,"Transaction abstraction for declarative transactions: propagation, synchronization and the transaction manager core"
+2026-11-20T01:44:57.255039Z,demarcate-macros,0.2.2,0,0,https://github.com/HarryJhin/demarcate,The #[transactional] attribute macro of demarcate
+2026-11-20T01:44:59.640281Z,demarcate-connection,0.2.2,0,0,https://github.com/HarryJhin/demarcate,Connection-bound transaction driver for demarcate: one implementation of the transaction logic for every connection library
+2026-11-20T01:45:00.724917Z,demarcate-interceptor,0.2.2,0,0,https://github.com/HarryJhin/demarcate,"Transaction attributes, rollback rules and the invocation flow behind #[transactional]"
+2026-11-20T01:45:03.175314Z,demarcate-diesel-async,0.2.2,0,0,https://github.com/HarryJhin/demarcate,"diesel-async transaction manager for demarcate, on a deadpool pool, for PostgreSQL and MySQL"
+2026-11-20T01:47:36.752908Z,commonware-clearing,2026.11.0,0,0,https://github.com/commonwarexyz/monorepo/tree/main/clearing,Settle actions at scale.
+2026-11-20T01:47:46.392874Z,privacy-hygiene,0.0.3,0,0,https://github.com/thoriqakbar0/privacy-hygiene,Native compiled ternary-gated PII rules detector
+2026-11-20T01:48:43.266515Z,ferroxygen_tower_adapter,0.1.0,0,0,https://github.com/facebookincubator/roxygen,"Serve Tower services on Roxygen, and use Roxygen as a Tower client"
+2026-11-20T01:51:28.426804Z,kernoid-vault,0.5.0,0,0,https://github.com/kernoid/kernoid,"kernoid's end-to-end encrypted vaults on the foundation's streams: directories, files, names, versions, members"
+2026-11-20T01:53:49.586371Z,esp32p4-pac,0.1.0,0,0,https://github.com/snple/esp32p4.git,Peripheral Access Crate for ESP32-P4
+2026-11-20T01:54:22.158823Z,esp32p4-rt,0.1.0,0,0,https://github.com/snple/esp32p4.git,Runtime support for ESP32-P4 RISC-V microcontrollers
+2026-11-20T01:54:32.735925Z,coeus-cpu,0.13.0,0,0,https://github.com/ryancinsight/Coeus.git,Const-rank dispatch shim adapting coeus dynamic-rank layouts onto leto array kernels (leto ADR 0002).
+2026-11-20T01:54:59.395092Z,esp32p4-macro,0.1.0,0,0,https://github.com/snple/esp32p4.git,Procedural macros for esp32p4
+2026-11-20T01:55:11.494738Z,esp32p4-hal,0.1.0,0,0,https://github.com/snple/esp32p4.git,Hardware Abstraction Layer for ESP32-P4
+2026-11-20T01:55:23.330952Z,esp32p4-usb,0.1.0,0,0,https://github.com/snple/esp32p4.git,USB device stack for the ESP32-P4 on-chip OTG controllers
+2026-11-20T01:56:02.381514Z,demarcate-sea-orm,0.2.2,0,0,https://github.com/HarryJhin/demarcate,SeaORM transaction manager for demarcate: a connection that runs every query in the current transaction
+2026-11-20T01:57:27.55776Z,rgba_cutout_bounds,0.1.0,0,0,,Measure visible bounds and transparent margins in decoded RGBA8 cutouts
+2026-11-20T01:57:42.220731Z,maplibre-ferroui,0.3.0,0,0,https://github.com/birkskyum/maplibre-rust-ui,"MapLibre maps in FerroUI apps, drawn by mln-rs into IOSurfaces that FerroUI's compositor draws as they are"
+2026-11-20T02:01:26.23064Z,kernoid-auth,0.5.0,0,0,https://github.com/kernoid/kernoid,"Logging in with kernoid, or any OpenID provider, for the servers of other programs"
+2026-11-20T02:02:48.018157Z,mimikyu-core,0.1.0,0,0,https://github.com/YXZYSME/mimikyu,"Core dual-engine (CDP & WebDriver BiDi) browser runtime, isolation layer, environment profiles, and MCP server for mimikyu"
+2026-11-20T02:03:16.389073Z,mimikyu-cli,0.1.0,0,0,https://github.com/YXZYSME/mimikyu,"Fast browser automation, session/profile isolation, and environment consistency CLI, daemon, and MCP server for AI agents"
+2026-11-20T02:05:17.763069Z,swc_fork_react_compiler_diagnostics,0.1.0,0,0,https://github.com/swc-project/react,Diagnostics infrastructure for the React Compiler
+2026-11-20T02:05:18.954671Z,swc_fork_react_compiler_utils,0.1.0,0,0,https://github.com/swc-project/react,Shared utilities for the React Compiler
+2026-11-20T02:05:21.401733Z,swc_fork_react_compiler_ast,0.1.0,0,0,https://github.com/swc-project/react,JavaScript AST types and transforms for the React Compiler
+2026-11-20T02:05:22.071379Z,swc_fork_react_compiler_hir,0.1.0,0,0,https://github.com/swc-project/react,High-level intermediate representation for the React Compiler
+2026-11-20T02:05:24.503841Z,swc_fork_react_compiler_lowering,0.1.0,0,0,https://github.com/swc-project/react,AST to HIR lowering for the React Compiler
+2026-11-20T02:05:34.342838Z,demarcate-sqlx,0.2.2,0,0,https://github.com/HarryJhin/demarcate,"sqlx transaction managers for demarcate: PostgreSQL, MySQL, MariaDB and SQLite drivers and a transaction-aware pool"
+2026-11-20T02:06:32.866087Z,lintel-plugin-iced-api,0.1.0,0,0,https://github.com/looading/lintel,Program and renderer service contracts for Lintel
+2026-11-20T02:09:03.731828Z,rxwpe-assets,0.1.0,0,0,https://github.com/NikoPit/rxwpe,Asset loading for Wallpaper Engine projects
+2026-11-20T02:09:06.129679Z,rxwpe-gpu,0.1.0,0,0,https://github.com/NikoPit/rxwpe,GPU rendering for rxwpe wallpapers
+2026-11-20T02:09:07.824976Z,rxwpe-media,0.1.0,0,0,https://github.com/NikoPit/rxwpe,FFmpeg media decoding and audio playback for rxwpe
+2026-11-20T02:09:11.063665Z,rxwpe-output,0.1.0,0,0,https://github.com/NikoPit/rxwpe,Wayland and macOS wallpaper output for rxwpe
+2026-11-20T02:09:12.110097Z,rxwpe-parser,0.1.0,0,0,https://github.com/NikoPit/rxwpe,Parsers for Wallpaper Engine project and scene formats
+2026-11-20T02:13:01.876277Z,frust-rs-core,0.5.0,0,0,https://github.com/Seggys116/frust,"Path resolution, progress frames, whole-program reuse decisions, and release-gate arithmetic for fRust."
+2026-11-20T02:14:52.859915Z,osdlc-file-lock,0.4.0,0,0,https://github.com/osdlc/osdlc,"Cross-process exclusive file locks that interoperate with the npm package @osdlc/file-lock: a JSON lock hard-linked into place, race-safe takeover of a stale lock through a hash-named marker, and tok…"
+2026-11-20T02:15:05.275142Z,heavenly-orbit,0.5.0,0,0,https://github.com/sevki/heavenly,"Two-body propagation, orbital elements and sampled trajectories for heavenly"
+2026-11-20T02:15:06.214156Z,heavenly-query,0.5.0,0,0,https://github.com/sevki/heavenly,"Light time, look angles, line of sight and visibility windows for heavenly"
+2026-11-20T02:15:07.992702Z,heavenly-topology,0.5.0,0,0,https://github.com/sevki/heavenly,"Failure domains, jurisdictions and placement policy for heavenly locations"
+2026-11-20T02:15:12.145854Z,heavenly-id,0.5.0,0,0,https://github.com/sevki/heavenly,"Stable location identities, aliases and a frame-building registry for heavenly"
+2026-11-20T02:15:14.476459Z,heavenly,0.5.0,0,0,https://github.com/sevki/heavenly,"Positions, frames, ephemerides, orbits, identities and visibility across the Earth, Moon, planets and spacecraft"
+2026-11-20T02:15:41.277027Z,swc_fork_react_compiler_reactive_scopes,0.1.0,0,0,https://github.com/swc-project/react,Reactive scope inference for the React Compiler
+2026-11-20T02:16:23.261871Z,demarcate-tokio-postgres,0.2.2,0,0,https://github.com/HarryJhin/demarcate,"tokio-postgres transaction manager for demarcate, on a deadpool-postgres pool"
+2026-11-20T02:17:27.2025Z,mimikyu,0.1.0,0,0,https://github.com/YXZYSME/mimikyu,"Fast dual-engine (CDP & WebDriver BiDi) browser automation, session/profile isolation, and MCP runtime for AI agents"
+2026-11-20T02:18:01.619437Z,dcm4rs-cli,0.4.0,0,0,https://github.com/xbmlz/dcm4rs,"Command-line tools built on dcm4rs: inspect, dump and decompress DICOM files"
+2026-11-20T02:18:19.005114Z,rust-webx-client,1.5.0,0,0,https://github.com/Rust-Framework/rust-webx,"Outbound HTTP client for rust-webx: pooled connections, streaming responses and SSE decoding"
+2026-11-20T02:18:25.471695Z,rust-webx-ai,1.5.0,0,0,https://github.com/Rust-Framework/rust-webx,"AI gateway domain kit for rust-webx: usage metering, token accounting and provider ports"
+2026-11-20T02:18:33.929392Z,rust-webx-ai-ef,1.5.0,0,0,https://github.com/Rust-Framework/rust-webx,rust-ef-backed durable usage ledger for rust-webx-ai gateways
