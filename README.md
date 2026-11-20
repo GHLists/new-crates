@@ -8,82 +8,81 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-20 22:19 UTC
+## Latest list — 2026-11-20 23:19 UTC
 
-New crates published between 2026-11-20 21:22 UTC and 2026-11-20 22:19 UTC.
+New crates published between 2026-11-20 22:19 UTC and 2026-11-20 23:19 UTC.
 
-[Full CSV](data/new-crates-2026-11-20T22-19-38-464462Z.csv)
+[Full CSV](data/new-crates-2026-11-20T23-19-04-146244Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-20 21:22:22 | [rustorb-dds-security](https://crates.io/crates/rustorb-dds-security) | 0.2.0 | 0 | The builtin plugins of DDS Security 1.2 (PKI-DH, Permissions, AES-GCM-GMAC) for… |
-| 2026-11-20 21:22:27 | [rustorb-xtypes](https://crates.io/crates/rustorb-xtypes) | 0.2.0 | 0 | DDS-XTypes type system (TypeObject, type assignability, DynamicData) for rustor… |
-| 2026-11-20 21:22:32 | [metis-platform](https://crates.io/crates/metis-platform) | 0.5.0 | 0 | Bounded software framebuffer and Windows native event/presentation adapter |
-| 2026-11-20 21:22:32 | [rustorb-rtps](https://crates.io/crates/rustorb-rtps) | 0.2.0 | 0 | DDSI-RTPS wire protocol (messages, discovery, writers and readers) for rustorb-… |
-| 2026-11-20 21:22:37 | [rustorb-dds](https://crates.io/crates/rustorb-dds) | 0.2.0 | 0 | DDS (Data Distribution Service) DCPS API in Rust |
-| 2026-11-20 21:22:39 | [shish](https://crates.io/crates/shish) | 0.2.0 | 0 | A small command-line tool that that automates boilerplate for Cargo scripts tha… |
-| 2026-11-20 21:22:49 | [rustorb-dds-corba](https://crates.io/crates/rustorb-dds-corba) | 0.2.0 | 0 | TypeCode <-> DDS-XTypes TypeObject and Any <-> DynamicData for rustorb (CORBA)… |
-| 2026-11-20 21:25:12 | [shish-lib](https://crates.io/crates/shish-lib) | 0.1.2 | 0 | A small library that re-exports common utilities for Cargo scripts. |
-| 2026-11-20 21:25:54 | [oai-statsig-rust-client](https://crates.io/crates/oai-statsig-rust-client) | 0.1.0 | 0 | OAI Statsig client SDK for feature gates, dynamic configs, and experiments in R… |
-| 2026-11-20 21:26:11 | [swagger-rust](https://crates.io/crates/swagger-rust) | 0.1.1 | 0 | Generate typed Rust API clients from OpenAPI 3 / Swagger 2: serde models, async… |
-| 2026-11-20 21:27:35 | [rig-cli](https://crates.io/crates/rig-cli) | 0.47.0 | 0 | The `rig` command's library, which the `rig` crate's binary runs: builds the ri… |
-| 2026-11-20 21:28:47 | [strata-ui-store](https://crates.io/crates/strata-ui-store) | 0.1.0 | 0 | Lightweight Signal-Driven Global State Store for Strata |
-| 2026-11-20 21:30:43 | [benodb-gpu-ann](https://crates.io/crates/benodb-gpu-ann) | 0.2.0 | 0 | Universal GPU-accelerated vector indexing & ANN search for Rust (CUDA, Apple Me… |
-| 2026-11-20 21:32:30 | [metis-backend](https://crates.io/crates/metis-backend) | 0.5.0 | 0 | Privileged clinical logic, safety interlocks, capability authorization, audit l… |
-| 2026-11-20 21:32:40 | [rig-markdown](https://crates.io/crates/rig-markdown) | 0.47.0 | 0 | Markdown drawn as styled lines and word wrapping to a width, shared by the rig… |
-| 2026-11-20 21:34:12 | [zorch](https://crates.io/crates/zorch) | 0.0.0 | 0 | AI agent orchestration framework for privacy-first, human-in-the-loop automation |
-| 2026-11-20 21:34:19 | [zorch-acp](https://crates.io/crates/zorch-acp) | 0.0.0 | 0 | Agent Client Protocol client for zorch |
-| 2026-11-20 21:34:27 | [zorch-agentctl](https://crates.io/crates/zorch-agentctl) | 0.0.0 | 0 | Kubernetes agent sandbox controller for zorch |
-| 2026-11-20 21:34:35 | [zorch-api](https://crates.io/crates/zorch-api) | 0.0.0 | 0 | HTTP and WebSocket API gateway for zorch |
-| 2026-11-20 21:34:42 | [zorch-audit](https://crates.io/crates/zorch-audit) | 0.0.0 | 0 | Audit log for zorch |
-| 2026-11-20 21:38:03 | [rig-fold](https://crates.io/crates/rig-fold) | 0.47.0 | 0 | An optional rig-harness plugin: the terminal view shows a finished tool call's… |
-| 2026-11-20 21:38:05 | [rnacli](https://crates.io/crates/rnacli) | 2.1.1 | 0 | NetActuate API client library and cli program |
-| 2026-11-20 21:38:27 | [strata-virtual](https://crates.io/crates/strata-virtual) | 0.1.0 | 0 | Pure-Rust high-scale 1M+ list and grid windowed virtualization engine for Strata |
-| 2026-11-20 21:39:02 | [benodb](https://crates.io/crates/benodb) | 0.17.0 | 0 | BenoDB - Embedded Apache Iceberg Database with Out-of-Core Vector, BM25, and Gr… |
-| 2026-11-20 21:42:31 | [metis-ui-lang](https://crates.io/crates/metis-ui-lang) | 0.5.0 | 0 | Bounded XML-like markup parsing and sequential software presentation layout |
-| 2026-11-20 21:43:14 | [benodb-search](https://crates.io/crates/benodb-search) | 0.17.0 | 0 | BenoDB Search - OpenSearch/ES 7.10-compatible REST API over BenoDB |
-| 2026-11-20 21:43:26 | [avectes-dioxus-core](https://crates.io/crates/avectes-dioxus-core) | 0.7.10 | 0 | Build fullstack web, desktop, and mobile apps with a single codebase. |
-| 2026-11-20 21:44:50 | [zorch-cli](https://crates.io/crates/zorch-cli) | 0.0.0 | 0 | Command-line interface for zorch |
-| 2026-11-20 21:48:41 | [strata-web-reader](https://crates.io/crates/strata-web-reader) | 0.1.0 | 0 | High-performance semantic web transpiler and offline article reader for Strata |
-| 2026-11-20 21:50:21 | [fountain-syntax](https://crates.io/crates/fountain-syntax) | 0.1.0 | 0 | A lossless, spec-complete parser and writer for Fountain screenplays |
-| 2026-11-20 21:52:30 | [metis-frontend](https://crates.io/crates/metis-frontend) | 0.5.0 | 0 | Unprivileged presentation process, UI state manager, and IPC client for Metis |
-| 2026-11-20 21:53:36 | [avectes-dioxus-router-macro](https://crates.io/crates/avectes-dioxus-router-macro) | 0.7.3 | 0 | Macro for Dioxus Router |
-| 2026-11-20 21:53:59 | [tgexport](https://crates.io/crates/tgexport) | 0.0.0 | 0 | Telegram Desktop style data export (JSON + HTML) built on ferogram MTProto |
-| 2026-11-20 21:56:58 | [zorch-config](https://crates.io/crates/zorch-config) | 0.0.0 | 0 | Git-backed YAML configuration for zorch |
-| 2026-11-20 21:58:24 | [strata-editor](https://crates.io/crates/strata-editor) | 0.1.0 | 0 | Headless Rich Text & Block Document Editor and Code Editor Engine for Strata |
-| 2026-11-20 21:59:11 | [degenview-eframe](https://crates.io/crates/degenview-eframe) | 0.36.2 | 0 | eframe 0.36.2 (the egui framework) plus a Wayland fix: a viewport the app hid i… |
-| 2026-11-20 21:59:52 | [cta](https://crates.io/crates/cta) | 0.1.0 | 0 | Client for the CTA Train Tracker API: arrivals, train locations, and runs for t… |
-| 2026-11-20 22:00:27 | [t4a-cost](https://crates.io/crates/t4a-cost) | 0.1.0 | 0 | Neutral cost-model types for the tensor4all stack: the host CPU class of offlin… |
-| 2026-11-20 22:00:42 | [monas-dsp](https://crates.io/crates/monas-dsp) | 0.8.0 | 0 | sdrtop's DSP building blocks: filters, the sample vocabulary, GFSK. Internal; n… |
-| 2026-11-20 22:01:06 | [monas-spectrum](https://crates.io/crates/monas-spectrum) | 0.8.0 | 0 | sdrtop's spectrum measurements: the frame, carrier, ACPR. Internal; no stabilit… |
-| 2026-11-20 22:01:13 | [monas-demod](https://crates.io/crates/monas-demod) | 0.8.0 | 0 | sdrtop's AM, FM, CTCSS and pilot measurements. Internal; no stability promise. |
-| 2026-11-20 22:01:25 | [monas-rds](https://crates.io/crates/monas-rds) | 0.8.0 | 0 | sdrtop's RDS decoder. Internal; no stability promise. |
-| 2026-11-20 22:01:37 | [monas-wifi](https://crates.io/crates/monas-wifi) | 0.8.0 | 0 | sdrtop's 802.11 receive chain. Internal; no stability promise. |
-| 2026-11-20 22:02:32 | [metis-app](https://crates.io/crates/metis-app) | 0.5.0 | 0 | Single executable Metis application with supervised process roles |
-| 2026-11-20 22:03:47 | [avectes-sqlx-adapter](https://crates.io/crates/avectes-sqlx-adapter) | 1.8.0-avectes.1 | 0 | Casbin SQLx adapter for AvectesAuth |
-| 2026-11-20 22:06:20 | [banned-vendor-screen](https://crates.io/crates/banned-vendor-screen) | 0.1.0 | 0 | Federal research money already pays vendors the US has banned. Screen payment l… |
-| 2026-11-20 22:07:01 | [zorch-context](https://crates.io/crates/zorch-context) | 0.0.0 | 0 | Codebase intelligence and semantic search for zorch |
-| 2026-11-20 22:07:37 | [koanf-core](https://crates.io/crates/koanf-core) | 0.1.0 | 0 | Core engine for koanf-rs: values, paths, layered merging, snapshots, and watch… |
-| 2026-11-20 22:07:44 | [koanf-derive](https://crates.io/crates/koanf-derive) | 0.1.0 | 0 | Derive macros for koanf-rs configuration schemas |
-| 2026-11-20 22:07:54 | [koanf-rs](https://crates.io/crates/koanf-rs) | 0.1.0 | 0 | Rust configuration library with layered sources, multiple formats, typed serde… |
-| 2026-11-20 22:08:02 | [monas-ble](https://crates.io/crates/monas-ble) | 0.8.0 | 0 | sdrtop's Bluetooth LE receiver and measurements. Internal; no stability promise. |
-| 2026-11-20 22:08:26 | [strata-ui](https://crates.io/crates/strata-ui) | 0.1.0 | 0 | Universal frontend framework in pure Rust with pixel-perfect CSS emulation and… |
-| 2026-11-20 22:08:32 | [xinput-device](https://crates.io/crates/xinput-device) | 0.1.0 | 0 | USB XInput device driver for embassy-usb |
-| 2026-11-20 22:12:32 | [metis-ui](https://crates.io/crates/metis-ui) | 0.5.0 | 0 | Rust presentation and isolated backend process contract |
-| 2026-11-20 22:12:59 | [download-truth](https://crates.io/crates/download-truth) | 0.1.0 | 0 | Download counts mostly measure CI and publishing, not users. Splits a crates.io… |
-| 2026-11-20 22:13:57 | [avectes-auth](https://crates.io/crates/avectes-auth) | 0.1.0-rc.1 | 0 | Native authentication and authorization for Avectes.rs |
-| 2026-11-20 22:15:26 | [anybuild](https://crates.io/crates/anybuild) | 0.34.0 | 0 | Rust SDK for detecting, building, running, and deploying projects |
-| 2026-11-20 22:15:50 | [anybuild-cli](https://crates.io/crates/anybuild-cli) | 0.34.0 | 0 | Anybuild: detect, build, and serve projects |
-| 2026-11-20 22:16:31 | [picoasm-consensus](https://crates.io/crates/picoasm-consensus) | 0.6.1 | 0 | Per-window base-level consensus for the picoasm bacterial assembler |
-| 2026-11-20 22:16:32 | [picoasm-seq](https://crates.io/crates/picoasm-seq) | 0.6.1 | 0 | Bases, homopolymer compression, anchors and k-min-mers for the picoasm bacteria… |
-| 2026-11-20 22:16:33 | [picoasm-io](https://crates.io/crates/picoasm-io) | 0.6.1 | 0 | Read input and assembly output for the picoasm bacterial assembler |
-| 2026-11-20 22:16:33 | [picoasm-overlap](https://crates.io/crates/picoasm-overlap) | 0.6.1 | 0 | Base-level overlap assembly of a read subset for the picoasm bacterial assembler |
-| 2026-11-20 22:16:34 | [picoasm](https://crates.io/crates/picoasm) | 0.6.1 | 0 | Bacterial genome assembly from Oxford Nanopore or PacBio HiFi reads |
-| 2026-11-20 22:17:05 | [zorch-core](https://crates.io/crates/zorch-core) | 0.0.0 | 0 | Shared zorch types, exported to TypeScript |
-| 2026-11-20 22:18:09 | [strata-benchmark](https://crates.io/crates/strata-benchmark) | 0.1.0 | 0 | Automated universal performance benchmark and profiling suite for Project Strata |
-| 2026-11-20 22:19:12 | [monas-bt](https://crates.io/crates/monas-bt) | 0.8.0 | 0 | sdrtop's classic Bluetooth receiver. Internal; no stability promise. |
-| 2026-11-20 22:19:33 | [odhive-core](https://crates.io/crates/odhive-core) | 0.0.1 | 0 | OdHive core library |
-| 2026-11-20 22:19:37 | [odhive-server](https://crates.io/crates/odhive-server) | 0.0.1 | 0 | OdHive server library |
+| 2026-11-20 22:19:41 | [odhive](https://crates.io/crates/odhive) | 0.0.1 | 0 | The daily driver for Odoo developers. Your Odoo servers, one hive. |
+| 2026-11-20 22:19:51 | [tessera-engine](https://crates.io/crates/tessera-engine) | 0.4.0 | 0 | Runs graphs: a decode loop over a stepper, or one forward launch |
+| 2026-11-20 22:20:33 | [dfui](https://crates.io/crates/dfui) | 0.1.0 | 0 | Declarative UI framework that draws shapes, text and icons analytically in one… |
+| 2026-11-20 22:21:03 | [xarxa-driver-riscv](https://crates.io/crates/xarxa-driver-riscv) | 0.1.0 | 0 | Driver trait for the `xarxa` network stack. |
+| 2026-11-20 22:22:31 | [metis-web](https://crates.io/crates/metis-web) | 0.5.0 | 0 | HTML5/CSS browser host for Metis WASM applications |
+| 2026-11-20 22:23:16 | [graphrt-eval](https://crates.io/crates/graphrt-eval) | 0.4.0 | 0 | Evaluation harness for graphrt workflows: datasets, deterministic, trajectory,… |
+| 2026-11-20 22:24:07 | [avectes-dioxus-devtools-types](https://crates.io/crates/avectes-dioxus-devtools-types) | 0.7.10 | 0 | CLI Configuration for dioxus-cli |
+| 2026-11-20 22:26:01 | [xarxa-riscv](https://crates.io/crates/xarxa-riscv) | 0.1.1 | 0 | Network stack designed for embedded, real-time systems without a heap. |
+| 2026-11-20 22:26:31 | [loki-vcs-core](https://crates.io/crates/loki-vcs-core) | 0.1.0 | 0 | Object format and storage engine for Loki VCS |
+| 2026-11-20 22:26:32 | [loki-vcs-client](https://crates.io/crates/loki-vcs-client) | 0.1.0 | 0 | Offline working copies and synchronization for Loki VCS |
+| 2026-11-20 22:26:33 | [loki-vcs-server](https://crates.io/crates/loki-vcs-server) | 0.1.0 | 0 | Repository hosting and synchronization primitives for Loki VCS |
+| 2026-11-20 22:26:34 | [loki-vcs-cli](https://crates.io/crates/loki-vcs-cli) | 0.1.0 | 0 | Loki VCS command-line client |
+| 2026-11-20 22:26:34 | [loki-vcs-ffi](https://crates.io/crates/loki-vcs-ffi) | 0.1.0 | 0 | Stable native client ABI for Loki VCS |
+| 2026-11-20 22:27:09 | [zorch-db](https://crates.io/crates/zorch-db) | 0.0.0 | 0 | SurrealDB repositories for zorch |
+| 2026-11-20 22:27:54 | [rticx-pi32v2-macro](https://crates.io/crates/rticx-pi32v2-macro) | 0.1.0 | 0 | RTICX application macro for pi32v2 |
+| 2026-11-20 22:28:08 | [strata-ffi](https://crates.io/crates/strata-ffi) | 0.1.0 | 0 | Universal C-compatible Foreign Function Interface (FFI) and embeddable dynamic… |
+| 2026-11-20 22:28:10 | [rticx-pi32v2](https://crates.io/crates/rticx-pi32v2) | 0.1.0 | 0 | RTICX for CPU0 of the JieLi AC791N |
+| 2026-11-20 22:28:17 | [monas-ft8](https://crates.io/crates/monas-ft8) | 0.8.0 | 0 | sdrtop's FT8 decoder. Internal; no stability promise. |
+| 2026-11-20 22:29:40 | [tessera-cli](https://crates.io/crates/tessera-cli) | 0.4.0 | 0 | The tesserax command: opens a recipe, then serves, fetches or runs tasks |
+| 2026-11-20 22:32:43 | [kwavers-core](https://crates.io/crates/kwavers-core) | 3.0.0 | 0 | Foundation layer for kwavers: constants, error types, arena allocation, time an… |
+| 2026-11-20 22:35:10 | [catchlight-core](https://crates.io/crates/catchlight-core) | 0.1.0 | 0 | Core library for catchlight 2.5D character animation |
+| 2026-11-20 22:35:13 | [catchlight-editor-core](https://crates.io/crates/catchlight-editor-core) | 0.1.0 | 0 | Authoring tools over a catchlight Model: working meshes and manifests |
+| 2026-11-20 22:35:13 | [catchlight-editor-protocol](https://crates.io/crates/catchlight-editor-protocol) | 0.1.0 | 0 | Wire types for the catchlight editor: transport-agnostic request/reply/event ov… |
+| 2026-11-20 22:35:14 | [catchlight-wgpu](https://crates.io/crates/catchlight-wgpu) | 0.1.0 | 0 | wgpu rendering backend for catchlight |
+| 2026-11-20 22:35:15 | [catchlight-bevy](https://crates.io/crates/catchlight-bevy) | 0.1.0 | 0 | Bevy integration for catchlight: components, systems, and a render-graph node |
+| 2026-11-20 22:37:13 | [zorch-events](https://crates.io/crates/zorch-events) | 0.0.0 | 0 | NATS publish/subscribe helpers for zorch |
+| 2026-11-20 22:37:57 | [strata-mcp](https://crates.io/crates/strata-mcp) | 0.1.0 | 0 | Professional Model Context Protocol (MCP) Server for Strata development sessions |
+| 2026-11-20 22:38:29 | [monas-pocsag](https://crates.io/crates/monas-pocsag) | 0.8.0 | 0 | sdrtop's POCSAG pager decoder. Internal; no stability promise. |
+| 2026-11-20 22:42:31 | [metis-python](https://crates.io/crates/metis-python) | 0.5.0 | 0 | Thin PyO3 bindings for the Metis Rust application framework |
+| 2026-11-20 22:44:40 | [agentos-rivetkit-ars-client](https://crates.io/crates/agentos-rivetkit-ars-client) | 0.5.0-rc.1 | 0 | Internal agentOS client for RivetKit Actor Runtime Socket services |
+| 2026-11-20 22:44:45 | [agentos-vm-host-interface](https://crates.io/crates/agentos-vm-host-interface) | 0.5.0-rc.1 | 0 | Runtime-neutral trusted host interface used by agentOS VMs |
+| 2026-11-20 22:44:49 | [agentos-executor-contract](https://crates.io/crates/agentos-executor-contract) | 0.5.0-rc.1 | 0 | Runtime-neutral executor and host-capability contracts for agentOS |
+| 2026-11-20 22:44:54 | [agentos-resource-accounting](https://crates.io/crates/agentos-resource-accounting) | 0.5.0-rc.1 | 0 | Runtime-neutral bounded resource accounting, limits, and queue telemetry for ag… |
+| 2026-11-20 22:45:03 | [agentos-executor-wasm-abi](https://crates.io/crates/agentos-executor-wasm-abi) | 0.5.0-rc.1 | 0 | Engine-neutral WebAssembly ABI and feature profile for agentOS |
+| 2026-11-20 22:47:18 | [zorch-flow](https://crates.io/crates/zorch-flow) | 0.0.0 | 0 | Durable workflow orchestration for zorch |
+| 2026-11-20 22:47:58 | [strata-parity-tauri](https://crates.io/crates/strata-parity-tauri) | 0.1.0 | 0 | Parity Verification Harness between Strata Pure Rust Engine and Tauri WebKitGTK |
+| 2026-11-20 22:48:19 | [bumpus](https://crates.io/crates/bumpus) | 0.1.1 | 0 | A formally verified (Verus) bump allocator with typed and slice arenas |
+| 2026-11-20 22:48:27 | [monas](https://crates.io/crates/monas) | 0.8.0 | 0 | The engine inside sdrtop and monasd: the radio, its workers and their state. In… |
+| 2026-11-20 22:48:32 | [libkyrka](https://crates.io/crates/libkyrka) | 0.1.1 | 0 | Safe Rust bindings for the libkyrka C library created by jorisvink, which is a… |
+| 2026-11-20 22:49:06 | [agentos-driver-tokio](https://crates.io/crates/agentos-driver-tokio) | 0.5.0-rc.1 | 0 | Process-owned agentOS Tokio driver and bounded blocking executor |
+| 2026-11-20 22:52:31 | [metis-starter](https://crates.io/crates/metis-starter) | 0.5.0 | 0 | Starter application: a Rust-owned HTML page with the create-tauri-app layout |
+| 2026-11-20 22:53:28 | [adfontes](https://crates.io/crates/adfontes) | 0.1.0 | 0 | Full-text academic and technical literature reader CLI and stdio MCP server for… |
+| 2026-11-20 22:56:54 | [catchlight](https://crates.io/crates/catchlight) | 0.1.0 | 0 | 2.5D character animation through mesh deformation, with optional wgpu and Bevy… |
+| 2026-11-20 22:56:55 | [catchlight-cli](https://crates.io/crates/catchlight-cli) | 0.1.0 | 0 | The catchlight command line over a .clm model file: patch, replace-texture, ext… |
+| 2026-11-20 22:57:03 | [embassy-net-riscv](https://crates.io/crates/embassy-net-riscv) | 0.1.0 | 0 | Async TCP/IP network stack for embedded systems |
+| 2026-11-20 22:57:13 | [strata-earth](https://crates.io/crates/strata-earth) | 0.1.0 | 0 | Earth scene plugin: f64 geodesy, tile resolution, and scene assembly over strat… |
+| 2026-11-20 22:57:22 | [zorch-guard](https://crates.io/crates/zorch-guard) | 0.0.0 | 0 | Privacy guard and PII redaction for zorch |
+| 2026-11-20 22:58:00 | [monasd](https://crates.io/crates/monasd) | 0.8.0 | 0 | sdrtop's engine with no screen: an HTTP and WebSocket API to the radio and its… |
+| 2026-11-20 22:59:07 | [agentos-vfs-storage](https://crates.io/crates/agentos-vfs-storage) | 0.5.0-rc.1 | 0 | agentOS virtual filesystem storage backends |
+| 2026-11-20 23:02:29 | [metis-webview-page](https://crates.io/crates/metis-webview-page) | 0.5.0 | 0 | Rust presentation and typed bridge for the packaged WebView2 pages |
+| 2026-11-20 23:03:56 | [tessera-kernel-macro](https://crates.io/crates/tessera-kernel-macro) | 0.4.0 | 0 | #[kernel]: a Rust function body as a kernel tree |
+| 2026-11-20 23:03:56 | [tessera-trace-derive](https://crates.io/crates/tessera-trace-derive) | 0.4.0 | 0 | #[derive(Weights)] for model descriptions |
+| 2026-11-20 23:03:59 | [tessera-frontend](https://crates.io/crates/tessera-frontend) | 0.4.0 | 0 | Model files, tasks and serving over tessera-engine |
+| 2026-11-20 23:04:18 | [slogging](https://crates.io/crates/slogging) | 0.1.0 | 0 | Opinionated default logger implementation of `env_logger` |
+| 2026-11-20 23:07:27 | [zorch-mcp](https://crates.io/crates/zorch-mcp) | 0.0.0 | 0 | MCP hub for zorch |
+| 2026-11-20 23:08:14 | [canic-dormant](https://crates.io/crates/canic-dormant) | 0.245.0 | 0 | Dormant Canic canister that retains one retirement receipt |
+| 2026-11-20 23:12:32 | [kwavers-math](https://crates.io/crates/kwavers-math) | 3.0.0 | 0 | Mathematical primitives for kwavers: FFT, linear algebra, numerics, geometry, s… |
+| 2026-11-20 23:15:14 | [weiqi](https://crates.io/crates/weiqi) | 0.1.0 | 0 | A pure rust implemenation of a Go (Weiqi/Baduk) game engine. |
+| 2026-11-20 23:16:02 | [bitcoinleveldb-compactionstats](https://crates.io/crates/bitcoinleveldb-compactionstats) | 0.2.0 | 0 | Per-level counters for LevelDB compaction work. |
+| 2026-11-20 23:16:37 | [nanoodle](https://crates.io/crates/nanoodle) | 0.1.0 | 0 | Rust executor for nanoodle graphs — same frozen format, conformance-suite proven |
+| 2026-11-20 23:17:32 | [zorch-notify](https://crates.io/crates/zorch-notify) | 0.0.0 | 0 | Push notifications for zorch |
+| 2026-11-20 23:17:52 | [bitcoinleveldb-blockcontents](https://crates.io/crates/bitcoinleveldb-blockcontents) | 0.2.0 | 0 | The byte view and ownership metadata passed between LevelDB block readers and b… |
+| 2026-11-20 23:18:55 | [scratchy-core-common](https://crates.io/crates/scratchy-core-common) | 0.1.0 | 0 | Shared types, errors, logging, and metrics for scratchy |
+| 2026-11-20 23:18:56 | [scratchy-hf-hub-downloader](https://crates.io/crates/scratchy-hf-hub-downloader) | 0.1.0 | 0 | Minimal HuggingFace Hub downloader: parallel ranged fetch into the standard HF… |
+| 2026-11-20 23:18:56 | [scratchy-tensors](https://crates.io/crates/scratchy-tensors) | 0.1.0 | 0 | Backend-neutral GPU tensor core for scratchy: GpuTensor descriptor, DType, the… |
+| 2026-11-20 23:18:56 | [scratchy-tp-world](https://crates.io/crates/scratchy-tp-world) | 0.1.0 | 0 | The tensor-parallel world as a type: `TpWorld<N>` and its ranks. No dependencie… |
+| 2026-11-20 23:18:58 | [scratchy-core-config](https://crates.io/crates/scratchy-core-config) | 0.1.0 | 0 | Configuration types and parsing for scratchy |
 
 ## Data source
 

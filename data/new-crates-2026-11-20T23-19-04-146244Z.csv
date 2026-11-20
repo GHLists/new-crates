@@ -1,0 +1,68 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-20T22:19:41.047719Z,odhive,0.0.1,0,0,https://github.com/sidc11/odhive,"The daily driver for Odoo developers. Your Odoo servers, one hive."
+2026-11-20T22:19:51.379558Z,tessera-engine,0.4.0,0,0,https://github.com/kindlingai/tessera,"Runs graphs: a decode loop over a stepper, or one forward launch"
+2026-11-20T22:20:33.831403Z,dfui,0.1.0,0,0,https://github.com/LuisAyuso/dfui,"Declarative UI framework that draws shapes, text and icons analytically in one wgpu shader"
+2026-11-20T22:21:03.127747Z,xarxa-driver-riscv,0.1.0,0,0,https://github.com/jorgeandrecastro/embassy-riscv,Driver trait for the `xarxa` network stack.
+2026-11-20T22:22:31.364114Z,metis-web,0.5.0,0,0,https://github.com/ryancinsight/metis,HTML5/CSS browser host for Metis WASM applications
+2026-11-20T22:23:16.736149Z,graphrt-eval,0.4.0,0,0,https://github.com/BimaPangestu28/graphrt,"Evaluation harness for graphrt workflows: datasets, deterministic, trajectory, retrieval and LLM-judge assertions, trials, baselines, CI gates, JSON and JUnit reports."
+2026-11-20T22:24:07.90875Z,avectes-dioxus-devtools-types,0.7.10,0,0,https://github.com/DioxusLabs/dioxus/,CLI Configuration for dioxus-cli
+2026-11-20T22:26:01.009359Z,xarxa-riscv,0.1.1,0,0,https://github.com/jorgeandrecastro/embassy-riscv,"Network stack designed for embedded, real-time systems without a heap."
+2026-11-20T22:26:31.169566Z,loki-vcs-core,0.1.0,0,0,https://github.com/LOKI-Server/loki-vcs,Object format and storage engine for Loki VCS
+2026-11-20T22:26:32.91968Z,loki-vcs-client,0.1.0,0,0,https://github.com/LOKI-Server/loki-vcs,Offline working copies and synchronization for Loki VCS
+2026-11-20T22:26:33.231339Z,loki-vcs-server,0.1.0,0,0,https://github.com/LOKI-Server/loki-vcs,Repository hosting and synchronization primitives for Loki VCS
+2026-11-20T22:26:34.261545Z,loki-vcs-cli,0.1.0,0,0,https://github.com/LOKI-Server/loki-vcs,Loki VCS command-line client
+2026-11-20T22:26:34.646768Z,loki-vcs-ffi,0.1.0,0,0,https://github.com/LOKI-Server/loki-vcs,Stable native client ABI for Loki VCS
+2026-11-20T22:27:09.744939Z,zorch-db,0.0.0,0,0,https://github.com/ZAL-Analytics/zorch,SurrealDB repositories for zorch
+2026-11-20T22:27:54.404648Z,rticx-pi32v2-macro,0.1.0,0,0,https://github.com/fm1-rust/fm1-rust,RTICX application macro for pi32v2
+2026-11-20T22:28:08.880162Z,strata-ffi,0.1.0,0,0,https://github.com/strataui/strata,Universal C-compatible Foreign Function Interface (FFI) and embeddable dynamic library for Strata
+2026-11-20T22:28:10.644422Z,rticx-pi32v2,0.1.0,0,0,https://github.com/fm1-rust/fm1-rust,RTICX for CPU0 of the JieLi AC791N
+2026-11-20T22:28:17.823328Z,monas-ft8,0.8.0,0,0,https://github.com/musithang/sdrtop,sdrtop's FT8 decoder. Internal; no stability promise.
+2026-11-20T22:29:40.255491Z,tessera-cli,0.4.0,0,0,https://github.com/kindlingai/tessera,"The tesserax command: opens a recipe, then serves, fetches or runs tasks"
+2026-11-20T22:32:43.23563Z,kwavers-core,3.0.0,0,0,https://github.com/ryancinsight/kwavers,"Foundation layer for kwavers: constants, error types, arena allocation, time and logging utilities"
+2026-11-20T22:35:10.794223Z,catchlight-core,0.1.0,0,0,https://github.com/hyperlogue/catchlight,Core library for catchlight 2.5D character animation
+2026-11-20T22:35:13.058281Z,catchlight-editor-core,0.1.0,0,0,https://github.com/hyperlogue/catchlight,Authoring tools over a catchlight Model: working meshes and manifests
+2026-11-20T22:35:13.615218Z,catchlight-editor-protocol,0.1.0,0,0,https://github.com/hyperlogue/catchlight,Wire types for the catchlight editor: transport-agnostic request/reply/event over newline-delimited JSON
+2026-11-20T22:35:14.293339Z,catchlight-wgpu,0.1.0,0,0,https://github.com/hyperlogue/catchlight,wgpu rendering backend for catchlight
+2026-11-20T22:35:15.248009Z,catchlight-bevy,0.1.0,0,0,https://github.com/hyperlogue/catchlight,"Bevy integration for catchlight: components, systems, and a render-graph node"
+2026-11-20T22:37:13.569914Z,zorch-events,0.0.0,0,0,https://github.com/ZAL-Analytics/zorch,NATS publish/subscribe helpers for zorch
+2026-11-20T22:37:57.564112Z,strata-mcp,0.1.0,0,0,https://github.com/strataui/strata,Professional Model Context Protocol (MCP) Server for Strata development sessions
+2026-11-20T22:38:29.4955Z,monas-pocsag,0.8.0,0,0,https://github.com/musithang/sdrtop,sdrtop's POCSAG pager decoder. Internal; no stability promise.
+2026-11-20T22:42:31.770013Z,metis-python,0.5.0,0,0,https://github.com/ryancinsight/metis,Thin PyO3 bindings for the Metis Rust application framework
+2026-11-20T22:44:40.579677Z,agentos-rivetkit-ars-client,0.5.0-rc.1,0,0,https://github.com/rivet-dev/agent-os,Internal agentOS client for RivetKit Actor Runtime Socket services
+2026-11-20T22:44:45.980786Z,agentos-vm-host-interface,0.5.0-rc.1,0,0,https://github.com/rivet-dev/agent-os,Runtime-neutral trusted host interface used by agentOS VMs
+2026-11-20T22:44:49.453439Z,agentos-executor-contract,0.5.0-rc.1,0,0,https://github.com/rivet-dev/agent-os,Runtime-neutral executor and host-capability contracts for agentOS
+2026-11-20T22:44:54.47677Z,agentos-resource-accounting,0.5.0-rc.1,0,0,https://github.com/rivet-dev/agent-os,"Runtime-neutral bounded resource accounting, limits, and queue telemetry for agentOS"
+2026-11-20T22:45:03.062498Z,agentos-executor-wasm-abi,0.5.0-rc.1,0,0,https://github.com/rivet-dev/agent-os,Engine-neutral WebAssembly ABI and feature profile for agentOS
+2026-11-20T22:47:18.158433Z,zorch-flow,0.0.0,0,0,https://github.com/ZAL-Analytics/zorch,Durable workflow orchestration for zorch
+2026-11-20T22:47:58.824632Z,strata-parity-tauri,0.1.0,0,0,https://github.com/strataui/strata,Parity Verification Harness between Strata Pure Rust Engine and Tauri WebKitGTK
+2026-11-20T22:48:19.372453Z,bumpus,0.1.1,0,0,https://github.com/elefthei/bumpus,A formally verified (Verus) bump allocator with typed and slice arenas
+2026-11-20T22:48:27.430215Z,monas,0.8.0,0,0,https://github.com/musithang/sdrtop,"The engine inside sdrtop and monasd: the radio, its workers and their state. Internal; no stability promise."
+2026-11-20T22:48:32.469321Z,libkyrka,0.1.1,0,0,https://github.com/a-rvid/libkyrka-rs,"Safe Rust bindings for the libkyrka C library created by jorisvink, which is a networking cryptography library."
+2026-11-20T22:49:06.520471Z,agentos-driver-tokio,0.5.0-rc.1,0,0,https://github.com/rivet-dev/agent-os,Process-owned agentOS Tokio driver and bounded blocking executor
+2026-11-20T22:52:31.319585Z,metis-starter,0.5.0,0,0,https://github.com/ryancinsight/metis,Starter application: a Rust-owned HTML page with the create-tauri-app layout
+2026-11-20T22:53:28.985912Z,adfontes,0.1.0,0,0,https://github.com/Kajiih/adfontes,Full-text academic and technical literature reader CLI and stdio MCP server for coding agents
+2026-11-20T22:56:54.767661Z,catchlight,0.1.0,0,0,https://github.com/hyperlogue/catchlight,"2.5D character animation through mesh deformation, with optional wgpu and Bevy integration"
+2026-11-20T22:56:55.581947Z,catchlight-cli,0.1.0,0,0,https://github.com/hyperlogue/catchlight,"The catchlight command line over a .clm model file: patch, replace-texture, extract, merge, requirements, diff"
+2026-11-20T22:57:03.350919Z,embassy-net-riscv,0.1.0,0,0,https://github.com/jorgeandrecastro/embassy-riscv,Async TCP/IP network stack for embedded systems
+2026-11-20T22:57:13.786094Z,strata-earth,0.1.0,0,0,https://github.com/strataui/earth,"Earth scene plugin: f64 geodesy, tile resolution, and scene assembly over strata_render"
+2026-11-20T22:57:22.845702Z,zorch-guard,0.0.0,0,0,https://github.com/ZAL-Analytics/zorch,Privacy guard and PII redaction for zorch
+2026-11-20T22:58:00.565415Z,monasd,0.8.0,0,0,https://github.com/musithang/sdrtop,sdrtop's engine with no screen: an HTTP and WebSocket API to the radio and its measurements.
+2026-11-20T22:59:07.153169Z,agentos-vfs-storage,0.5.0-rc.1,0,0,https://github.com/rivet-dev/agent-os,agentOS virtual filesystem storage backends
+2026-11-20T23:02:29.543157Z,metis-webview-page,0.5.0,0,0,https://github.com/ryancinsight/metis,Rust presentation and typed bridge for the packaged WebView2 pages
+2026-11-20T23:03:56.135345Z,tessera-kernel-macro,0.4.0,0,0,https://github.com/kindlingai/tessera,#[kernel]: a Rust function body as a kernel tree
+2026-11-20T23:03:56.423887Z,tessera-trace-derive,0.4.0,0,0,https://github.com/kindlingai/tessera,#[derive(Weights)] for model descriptions
+2026-11-20T23:03:59.274289Z,tessera-frontend,0.4.0,0,0,https://github.com/kindlingai/tessera,"Model files, tasks and serving over tessera-engine"
+2026-11-20T23:04:18.089804Z,slogging,0.1.0,0,0,https://codeberg.org/ParmaGianni/slogging,Opinionated default logger implementation of `env_logger`
+2026-11-20T23:07:27.715969Z,zorch-mcp,0.0.0,0,0,https://github.com/ZAL-Analytics/zorch,MCP hub for zorch
+2026-11-20T23:08:14.355554Z,canic-dormant,0.245.0,0,0,https://github.com/dragginzgame/canic,Dormant Canic canister that retains one retirement receipt
+2026-11-20T23:12:32.215823Z,kwavers-math,3.0.0,0,0,https://github.com/ryancinsight/kwavers,"Mathematical primitives for kwavers: FFT, linear algebra, numerics, geometry, statistics, SIMD"
+2026-11-20T23:15:14.086546Z,weiqi,0.1.0,0,0,https://github.com/Q4REAL/weiqi,A pure rust implemenation of a Go (Weiqi/Baduk) game engine.
+2026-11-20T23:16:02.732812Z,bitcoinleveldb-compactionstats,0.2.0,0,0,https://github.com/klebs6/bitcoin-rs,Per-level counters for LevelDB compaction work.
+2026-11-20T23:16:37.070024Z,nanoodle,0.1.0,0,0,https://github.com/nanoodlecom/nanoodle-rs,"Rust executor for nanoodle graphs — same frozen format, conformance-suite proven"
+2026-11-20T23:17:32.336412Z,zorch-notify,0.0.0,0,0,https://github.com/ZAL-Analytics/zorch,Push notifications for zorch
+2026-11-20T23:17:52.197318Z,bitcoinleveldb-blockcontents,0.2.0,0,0,https://github.com/klebs6/bitcoin-rs,The byte view and ownership metadata passed between LevelDB block readers and block objects.
+2026-11-20T23:18:55.686056Z,scratchy-core-common,0.1.0,0,0,https://github.com/AI-native-Systems-Research/scratchy,"Shared types, errors, logging, and metrics for scratchy"
+2026-11-20T23:18:56.202869Z,scratchy-hf-hub-downloader,0.1.0,0,0,https://github.com/AI-native-Systems-Research/scratchy,Minimal HuggingFace Hub downloader: parallel ranged fetch into the standard HF cache layout
+2026-11-20T23:18:56.449809Z,scratchy-tensors,0.1.0,0,0,https://github.com/AI-native-Systems-Research/scratchy,"Backend-neutral GPU tensor core for scratchy: GpuTensor descriptor, DType, the DeviceAllocator transfer trait, and GGML quant metadata. No backend — every backend sits on top of this."
+2026-11-20T23:18:56.732998Z,scratchy-tp-world,0.1.0,0,0,https://github.com/AI-native-Systems-Research/scratchy,"The tensor-parallel world as a type: `TpWorld<N>` and its ranks. No dependencies, no features."
+2026-11-20T23:18:58.137841Z,scratchy-core-config,0.1.0,0,0,https://github.com/AI-native-Systems-Research/scratchy,Configuration types and parsing for scratchy
