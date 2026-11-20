@@ -8,46 +8,61 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-20 00:18 UTC
+## Latest list — 2026-11-20 01:18 UTC
 
-New crates published between 2026-11-19 23:18 UTC and 2026-11-20 00:18 UTC.
+New crates published between 2026-11-20 00:18 UTC and 2026-11-20 01:18 UTC.
 
-[Full CSV](data/new-crates-2026-11-20T00-18-50-475546Z.csv)
+[Full CSV](data/new-crates-2026-11-20T01-18-57-678787Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-19 23:20:12 | [temporal-control](https://crates.io/crates/temporal-control) | 0.0.0 | 0 | Simple temporal networks with uncertainty: dynamic controllability checking and… |
-| 2026-11-19 23:20:14 | [heuristic-search](https://crates.io/crates/heuristic-search) | 0.0.0 | 0 | Explicit-state heuristic graph search: A*, weighted and anytime, bounded-subopt… |
-| 2026-11-19 23:20:17 | [sampling-planning](https://crates.io/crates/sampling-planning) | 0.0.0 | 0 | Motion planning with sampling-based planners: RRT, RRT*, PRM, FMT* and SST |
-| 2026-11-19 23:20:19 | [search-core](https://crates.io/crates/search-core) | 0.0.0 | 0 | Small shared traits for planning and search crates |
-| 2026-11-19 23:20:22 | [resource-timeline](https://crates.io/crates/resource-timeline) | 0.0.0 | 0 | Resource timelines for onboard scheduling: energy, memory, thermal and communic… |
-| 2026-11-19 23:24:19 | [zui-native](https://crates.io/crates/zui-native) | 0.1.0 | 0 | Small native GPU UI primitives for Project Z |
-| 2026-11-19 23:25:44 | [multiobjective-search](https://crates.io/crates/multiobjective-search) | 0.0.0 | 0 | Multi-objective shortest paths: BOA*, BOBA*, EMOA* and NAMOA* over Pareto front… |
-| 2026-11-19 23:35:39 | [xingo-statla](https://crates.io/crates/xingo-statla) | 0.1.0 | 0 | Updatable and matrix-free linear algebra for statistics: QR and Cholesky with r… |
-| 2026-11-19 23:35:44 | [decoupled-search](https://crates.io/crates/decoupled-search) | 0.0.0 | 0 | Decoupled search for factored SAS+ planning: center and leaf factoring, leaf re… |
-| 2026-11-19 23:43:49 | [cp-anywhere](https://crates.io/crates/cp-anywhere) | 0.0.1 | 0 | CellProfiler-compatible segmentation, measurements, and pipeline execution. |
-| 2026-11-19 23:45:43 | [symbolic-search](https://crates.io/crates/symbolic-search) | 0.0.0 | 0 | Symbolic state-space search with decision diagrams: symbolic BFS, bidirectional… |
-| 2026-11-19 23:45:53 | [regqry](https://crates.io/crates/regqry) | 0.1.3 | 0 | Search and inspect the Windows Registry from the command line |
-| 2026-11-19 23:55:43 | [planning-heuristics](https://crates.io/crates/planning-heuristics) | 0.0.0 | 0 | Heuristics for classical planning: red-black, FF, landmark and abstraction heur… |
-| 2026-11-19 23:56:11 | [spacewasm_tools](https://crates.io/crates/spacewasm_tools) | 0.8.0-rc.1 | 0 | Ground tooling for the spacewasm interpreter: link with wasm-opt held to its fe… |
-| 2026-11-19 23:57:24 | [ferroxygen_runtime](https://crates.io/crates/ferroxygen_runtime) | 0.1.0 | 0 | Worker threads, timers, cancellation and task groups for Roxygen |
-| 2026-11-19 23:57:26 | [ferroxygen_core](https://crates.io/crates/ferroxygen_core) | 0.1.0 | 0 | HTTP messages, body buffers and handler traits shared by the Roxygen crates |
-| 2026-11-19 23:57:28 | [ferroxygen_codec](https://crates.io/crates/ferroxygen_codec) | 0.1.0 | 0 | The codec interface shared by Roxygen's HTTP/1 and HTTP/2 codecs |
-| 2026-11-19 23:57:29 | [ferroxygen_http_adapter](https://crates.io/crates/ferroxygen_http_adapter) | 0.1.0 | 0 | Conversions between the http crate's types and Roxygen's |
-| 2026-11-19 23:57:34 | [ferroxygen_hyper_adapter](https://crates.io/crates/ferroxygen_hyper_adapter) | 0.1.0 | 0 | http-body implementations over Roxygen bodies, and the reverse |
-| 2026-11-19 23:57:48 | [horae-civil-time](https://crates.io/crates/horae-civil-time) | 0.1.0 | 0 | Gregorian dates and UTC timestamps for Atlas |
-| 2026-11-19 23:59:11 | [iris-plot-html](https://crates.io/crates/iris-plot-html) | 0.1.0 | 0 | Interactive standalone HTML plots rendered from Iris views |
-| 2026-11-20 00:04:17 | [cargo-ext-resolver](https://crates.io/crates/cargo-ext-resolver) | 0.101.0 | 0 | Cargo's dependency resolver |
-| 2026-11-20 00:05:03 | [bip377](https://crates.io/crates/bip377) | 0.0.0 | 0 | BIP377 Signing message encoding |
-| 2026-11-20 00:05:31 | [coordinode-session](https://crates.io/crates/coordinode-session) | 0.10.0 | 0 | Transport- and dialect-agnostic multiplexed session core: concurrent dispatch,… |
-| 2026-11-20 00:05:44 | [mapf-search](https://crates.io/crates/mapf-search) | 0.0.0 | 0 | Multi-agent pathfinding: CBS, ECBS, CBS-TA, ICTS, PBS, M* and MAPF-LNS2 |
-| 2026-11-20 00:07:40 | [ferroxygen_http1](https://crates.io/crates/ferroxygen_http1) | 0.1.0 | 0 | Roxygen's HTTP/1.x codec, with a parser generated from llhttp |
-| 2026-11-20 00:15:43 | [stochastic-search](https://crates.io/crates/stochastic-search) | 0.0.0 | 0 | Planning under probabilistic outcomes: LAO*, iLAO*, RTDP, LRTDP, POMCP and DESP… |
-| 2026-11-20 00:17:47 | [ferroxygen_http2](https://crates.io/crates/ferroxygen_http2) | 0.1.0 | 0 | Roxygen's HTTP/2 codec, with HPACK and flow control |
-| 2026-11-20 00:18:42 | [aurelin-cli](https://crates.io/crates/aurelin-cli) | 0.1.0 | 0 | Aurelin is a Rust translation of Laravel |
-| 2026-11-20 00:18:43 | [aurelin-framework](https://crates.io/crates/aurelin-framework) | 0.1.0 | 0 | Aurelin is a Rust translation of Laravel |
-| 2026-11-20 00:18:44 | [aurelin-passkeys](https://crates.io/crates/aurelin-passkeys) | 0.1.0 | 0 | Aurelin is a Rust translation of Laravel |
-| 2026-11-20 00:18:45 | [aurelin-fortify](https://crates.io/crates/aurelin-fortify) | 0.1.0 | 0 | Aurelin is a Rust translation of Laravel |
+| 2026-11-20 00:20:26 | [ftled-core](https://crates.io/crates/ftled-core) | 0.2.0 | 0 | Domain model, edit use cases and ports of the FTL editor. No IO, no file format. |
+| 2026-11-20 00:20:33 | [ftled-sav](https://crates.io/crates/ftled-sav) | 0.2.0 | 0 | Binary codecs of FTL continue.sav (formats 2, 7, 8, 9, 11) and ae_prof.sav/prof… |
+| 2026-11-20 00:20:37 | [ftled-assets](https://crates.io/crates/ftled-assets) | 0.2.0 | 0 | Reads FTL's ftl.dat: blueprints, display names, ship layouts and sprites, as pl… |
+| 2026-11-20 00:20:42 | [ftled-app](https://crates.io/crates/ftled-app) | 0.2.0 | 0 | Application layer of the FTL editor: open, edit, verify, back up and save files… |
+| 2026-11-20 00:20:51 | [ftled](https://crates.io/crates/ftled) | 0.2.0 | 0 | ftled: command line for reading and editing FTL saved games. |
+| 2026-11-20 00:21:05 | [rustinfra](https://crates.io/crates/rustinfra) | 0.1.0 | 0 | Rustinfra is a Rust translation of PyInfra with a focus on speed and parallelism |
+| 2026-11-20 00:22:54 | [erhi](https://crates.io/crates/erhi) | 0.1.0 | 0 | A rendering hardware interface over Vulkan and Direct3D 12, with hardware ray t… |
+| 2026-11-20 00:24:05 | [clairlune-platform](https://crates.io/crates/clairlune-platform) | 0.7.0 | 0 | Clairlune's platform layer: monitor enumeration and setting the desktop wallpap… |
+| 2026-11-20 00:25:45 | [polyzonotope-reach](https://crates.io/crates/polyzonotope-reach) | 0.0.0 | 0 | Validated reachable-set over-approximation of nonlinear dynamics with polynomia… |
+| 2026-11-20 00:27:52 | [ferroxygen_transport](https://crates.io/crates/ferroxygen_transport) | 0.1.0 | 0 | TCP and TLS byte streams for Roxygen |
+| 2026-11-20 00:29:10 | [quillmark-docx](https://crates.io/crates/quillmark-docx) | 0.139.0 | 0 | Typst-free Word writer for Quillmark: a layout tree lowered to a typed Word doc… |
+| 2026-11-20 00:30:22 | [toddstack-heavy](https://crates.io/crates/toddstack-heavy) | 0.2.0 | 0 | heavy: a machine-wide admission queue for heavy jobs (builds, tests, GPU work).… |
+| 2026-11-20 00:35:43 | [robust-planning](https://crates.io/crates/robust-planning) | 0.0.0 | 0 | Planning over reachable sets under uncertainty: Robust-RRT and reachability-gui… |
+| 2026-11-20 00:36:53 | [semanticant-pack](https://crates.io/crates/semanticant-pack) | 0.1.2 | 0 | Loader for SemanticAnt data packs: parses pack.toml, verifies every file's SHA-… |
+| 2026-11-20 00:36:54 | [semanticant-text](https://crates.io/crates/semanticant-text) | 0.1.2 | 0 | Text normalisation, case folding, tokenisation and sentence segmentation for Se… |
+| 2026-11-20 00:36:55 | [semanticant-cues](https://crates.io/crates/semanticant-cues) | 0.1.2 | 0 | Negation, modality and hedge cue detection with scope for SemanticAnt: cue list… |
+| 2026-11-20 00:36:56 | [semanticant-lexicon](https://crates.io/crates/semanticant-lexicon) | 0.1.2 | 0 | Sense-inventory interface and deterministic similarity/relatedness measures (st… |
+| 2026-11-20 00:36:57 | [semanticant-value](https://crates.io/crates/semanticant-value) | 0.1.2 | 0 | Numbers (digits and spelled-out), units and quantities, dates and times parsed… |
+| 2026-11-20 00:38:01 | [ferroxygen_session](https://crates.io/crates/ferroxygen_session) | 0.1.0 | 0 | HTTP/1.1 and HTTP/2 connection state machines for Roxygen |
+| 2026-11-20 00:44:09 | [b3_tree](https://crates.io/crates/b3_tree) | 0.1.0 | 0 | BLAKE3 tree hasher with compile-time block callback and subtree root aggregation |
+| 2026-11-20 00:44:15 | [ihash](https://crates.io/crates/ihash) | 0.1.0 | 0 | World's fastest high-quality non-cryptographic hash, deterministic cross-platfo… |
+| 2026-11-20 00:44:20 | [smhasher3](https://crates.io/crates/smhasher3) | 0.1.0 | 0 | Pure Rust port of the SMHasher3 hash function quality and throughput test suite… |
+| 2026-11-20 00:45:44 | [pddl-validate](https://crates.io/crates/pddl-validate) | 0.0.0 | 0 | Independent PDDL plan validator: classical, numeric and temporal plans with pre… |
+| 2026-11-20 00:47:07 | [idenumbra-pry](https://crates.io/crates/idenumbra-pry) | 0.1.0-alpha.3 | 0 | Paraguay identification validator (CI, RUC) |
+| 2026-11-20 00:47:23 | [idenumbra-slv](https://crates.io/crates/idenumbra-slv) | 0.1.0-alpha.3 | 0 | El Salvador identification validator (DUI, NIT) |
+| 2026-11-20 00:47:27 | [idenumbra-ury](https://crates.io/crates/idenumbra-ury) | 0.1.0-alpha.3 | 0 | Uruguay identification validator (CI, RUT) |
+| 2026-11-20 00:47:31 | [idenumbra-ven](https://crates.io/crates/idenumbra-ven) | 0.1.0-alpha.3 | 0 | Venezuela identification validator (CI, RIF) |
+| 2026-11-20 00:47:36 | [idenumbra](https://crates.io/crates/idenumbra) | 0.1.0-alpha.3 | 0 | Orchestrator for country identification validators |
+| 2026-11-20 00:48:10 | [ferroxygen_connect](https://crates.io/crates/ferroxygen_connect) | 0.1.0 | 0 | HTTP CONNECT tunnels over Roxygen client sessions |
+| 2026-11-20 00:52:37 | [btel-core](https://crates.io/crates/btel-core) | 0.1.0 | 0 | The formats BAML programs store in BCS: recording files, upload envelopes, the… |
+| 2026-11-20 00:52:40 | [bcs-sdk](https://crates.io/crates/bcs-sdk) | 0.1.0 | 0 | The BCS client: device login and the saved-login store, queries, and telemetry… |
+| 2026-11-20 00:54:47 | [swarm-rider](https://crates.io/crates/swarm-rider) | 0.1.0 | 0 | Ride a swarm of coding agents on your own machine |
+| 2026-11-20 00:55:08 | [swarmrider](https://crates.io/crates/swarmrider) | 0.0.1 | 0 | Placeholder: Rider is published as swarm-rider |
+| 2026-11-20 00:58:15 | [ferroxygen_client](https://crates.io/crates/ferroxygen_client) | 0.1.0 | 0 | An HTTP/1.1 and HTTP/2 client built on Roxygen |
+| 2026-11-20 01:02:23 | [standardizer-common](https://crates.io/crates/standardizer-common) | 1.0.0 | 0 | Shared routing types for the Standardizer tools |
+| 2026-11-20 01:02:33 | [standardizer](https://crates.io/crates/standardizer) | 1.0.0 | 0 | Check or fix the conformance of files in a Git repository by dispatching them t… |
+| 2026-11-20 01:08:20 | [ferroxygen_connect_client](https://crates.io/crates/ferroxygen_connect_client) | 0.1.0 | 0 | An experimental pool of HTTP/2 CONNECT tunnels for Tokio applications |
+| 2026-11-20 01:15:41 | [connect2axum-mcp](https://crates.io/crates/connect2axum-mcp) | 0.1.0 | 0 | Runtime for generated MCP (Model Context Protocol) tool wrappers over ConnectRP… |
+| 2026-11-20 01:15:49 | [chromey_types](https://crates.io/crates/chromey_types) | 3.0.0 | 0 | Core command, event and message types for chromey, the Chrome DevTools Protocol… |
+| 2026-11-20 01:15:59 | [chromey_pdl](https://crates.io/crates/chromey_pdl) | 3.0.0 | 0 | PDL parser and Rust code generator for chromey, the Chrome DevTools Protocol li… |
+| 2026-11-20 01:16:14 | [rusyntax](https://crates.io/crates/rusyntax) | 0.1.0-dev.5 | 0 | Fast Russian dependency parser: heads and Universal Dependencies relations |
+| 2026-11-20 01:16:36 | [chromey_cdp](https://crates.io/crates/chromey_cdp) | 3.0.0 | 0 | Generated Chrome DevTools Protocol types for chromey |
+| 2026-11-20 01:17:08 | [chromey_fetcher](https://crates.io/crates/chromey_fetcher) | 3.0.0 | 0 | Chrome for Testing and Chromium downloader for chromey |
+| 2026-11-20 01:18:26 | [ferroxygen_curl](https://crates.io/crates/ferroxygen_curl) | 0.1.0 | 0 | A curl-like command-line client built on Roxygen |
+| 2026-11-20 01:18:27 | [artifact_provenance](https://crates.io/crates/artifact_provenance) | 0.1.0 | 0 | Versioned artifacts and their provenance: which immutable version, where it cam… |
+| 2026-11-20 01:18:35 | [exact_checkout](https://crates.io/crates/exact_checkout) | 0.1.0 | 0 | A repository pinned at an exact commit, materialised at its pathgen route: plan… |
+| 2026-11-20 01:18:43 | [cargo_composition](https://crates.io/crates/cargo_composition) | 0.1.0 | 0 | Rust structure as data from exactly pinned repositories: Cargo discovery throug… |
 
 ## Data source
 

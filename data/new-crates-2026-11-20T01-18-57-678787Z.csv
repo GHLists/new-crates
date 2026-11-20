@@ -1,0 +1,48 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-20T00:20:26.273276Z,ftled-core,0.2.0,0,0,https://github.com/enoy19/ftl-editor,"Domain model, edit use cases and ports of the FTL editor. No IO, no file format."
+2026-11-20T00:20:33.5099Z,ftled-sav,0.2.0,0,0,https://github.com/enoy19/ftl-editor,"Binary codecs of FTL continue.sav (formats 2, 7, 8, 9, 11) and ae_prof.sav/prof.sav (formats 9, 4), adapters for the ftl-core SaveCodec and ProfileCodec ports."
+2026-11-20T00:20:37.399443Z,ftled-assets,0.2.0,0,0,https://github.com/enoy19/ftl-editor,"Reads FTL's ftl.dat: blueprints, display names, ship layouts and sprites, as plain values."
+2026-11-20T00:20:42.924072Z,ftled-app,0.2.0,0,0,https://github.com/enoy19/ftl-editor,"Application layer of the FTL editor: open, edit, verify, back up and save files. The one API for the CLI and the Flutter bridge."
+2026-11-20T00:20:51.704821Z,ftled,0.2.0,0,0,https://github.com/enoy19/ftl-editor,ftled: command line for reading and editing FTL saved games.
+2026-11-20T00:21:05.936949Z,rustinfra,0.1.0,0,0,https://github.com/AlextheYounga/rustinfra,Rustinfra is a Rust translation of PyInfra with a focus on speed and parallelism
+2026-11-20T00:22:54.156023Z,erhi,0.1.0,0,0,https://github.com/echo000/erhi,"A rendering hardware interface over Vulkan and Direct3D 12, with hardware ray tracing"
+2026-11-20T00:24:05.636214Z,clairlune-platform,0.7.0,0,0,https://github.com/yam333/Clairlune,Clairlune's platform layer: monitor enumeration and setting the desktop wallpaper
+2026-11-20T00:25:45.08822Z,polyzonotope-reach,0.0.0,0,0,https://github.com/sunsided/polyzonotope-reach,Validated reachable-set over-approximation of nonlinear dynamics with polynomial zonotopes
+2026-11-20T00:27:52.414062Z,ferroxygen_transport,0.1.0,0,0,https://github.com/facebookincubator/roxygen,TCP and TLS byte streams for Roxygen
+2026-11-20T00:29:10.336655Z,quillmark-docx,0.139.0,0,0,https://github.com/borb-sh/quillmark,Typst-free Word writer for Quillmark: a layout tree lowered to a typed Word document and written as .docx
+2026-11-20T00:30:22.13168Z,toddstack-heavy,0.2.0,0,0,https://github.com/goddtriffin/toddstack,"heavy: a machine-wide admission queue for heavy jobs (builds, tests, GPU work). Reserves cores, RAM, VRAM and disk, runs jobs when they fit, and prints what each one used."
+2026-11-20T00:35:43.850175Z,robust-planning,0.0.0,0,0,https://github.com/sunsided/robust-planning,Planning over reachable sets under uncertainty: Robust-RRT and reachability-guided search
+2026-11-20T00:36:53.413867Z,semanticant-pack,0.1.2,0,0,https://github.com/ThinkersJournal/semanticant,"Loader for SemanticAnt data packs: parses pack.toml, verifies every file's SHA-256, refuses packs without a licence and source."
+2026-11-20T00:36:54.440857Z,semanticant-text,0.1.2,0,0,https://github.com/ThinkersJournal/semanticant,"Text normalisation, case folding, tokenisation and sentence segmentation for SemanticAnt: language-tagged, rule-data driven, offsets always point into the original text."
+2026-11-20T00:36:55.839852Z,semanticant-cues,0.1.2,0,0,https://github.com/ThinkersJournal/semanticant,"Negation, modality and hedge cue detection with scope for SemanticAnt: cue lists, scope windows and terminators are data packs, every cue carries the reason its scope ended."
+2026-11-20T00:36:56.491573Z,semanticant-lexicon,0.1.2,0,0,https://github.com/ThinkersJournal/semanticant,"Sense-inventory interface and deterministic similarity/relatedness measures (string, token-set, taxonomy, caller-supplied embeddings) for SemanticAnt. Every score carries its reasons."
+2026-11-20T00:36:57.162697Z,semanticant-value,0.1.2,0,0,https://github.com/ThinkersJournal/semanticant,"Numbers (digits and spelled-out), units and quantities, dates and times parsed from text into canonical values, driven by data packs. Ambiguity returns every reading with its reasons."
+2026-11-20T00:38:01.742824Z,ferroxygen_session,0.1.0,0,0,https://github.com/facebookincubator/roxygen,HTTP/1.1 and HTTP/2 connection state machines for Roxygen
+2026-11-20T00:44:09.81255Z,b3_tree,0.1.0,0,0,https://atomgit.com/i18n-site/rs,BLAKE3 tree hasher with compile-time block callback and subtree root aggregation
+2026-11-20T00:44:15.087385Z,ihash,0.1.0,0,0,https://atomgit.com/i18n-site/rs,"World's fastest high-quality non-cryptographic hash, deterministic cross-platform XOF, and seekable stream cipher"
+2026-11-20T00:44:20.291022Z,smhasher3,0.1.0,0,0,https://atomgit.com/i18n-site/rs,Pure Rust port of the SMHasher3 hash function quality and throughput test suite with downstream trait integration
+2026-11-20T00:45:44.151815Z,pddl-validate,0.0.0,0,0,https://github.com/sunsided/pddl-rs,"Independent PDDL plan validator: classical, numeric and temporal plans with precise diagnostics"
+2026-11-20T00:47:07.997928Z,idenumbra-pry,0.1.0-alpha.3,0,0,https://github.com/ailuracollective/idenumbra,"Paraguay identification validator (CI, RUC)"
+2026-11-20T00:47:23.867726Z,idenumbra-slv,0.1.0-alpha.3,0,0,https://github.com/ailuracollective/idenumbra,"El Salvador identification validator (DUI, NIT)"
+2026-11-20T00:47:27.602307Z,idenumbra-ury,0.1.0-alpha.3,0,0,https://github.com/ailuracollective/idenumbra,"Uruguay identification validator (CI, RUT)"
+2026-11-20T00:47:31.00682Z,idenumbra-ven,0.1.0-alpha.3,0,0,https://github.com/ailuracollective/idenumbra,"Venezuela identification validator (CI, RIF)"
+2026-11-20T00:47:36.943532Z,idenumbra,0.1.0-alpha.3,0,0,https://github.com/ailuracollective/idenumbra,Orchestrator for country identification validators
+2026-11-20T00:48:10.629341Z,ferroxygen_connect,0.1.0,0,0,https://github.com/facebookincubator/roxygen,HTTP CONNECT tunnels over Roxygen client sessions
+2026-11-20T00:52:37.025408Z,btel-core,0.1.0,0,0,,"The formats BAML programs store in BCS: recording files, upload envelopes, the prepare contract and CAS blobs"
+2026-11-20T00:52:40.511934Z,bcs-sdk,0.1.0,0,0,,"The BCS client: device login and the saved-login store, queries, and telemetry upload preparation"
+2026-11-20T00:54:47.851007Z,swarm-rider,0.1.0,0,0,https://github.com/emostov/rider,Ride a swarm of coding agents on your own machine
+2026-11-20T00:55:08.025979Z,swarmrider,0.0.1,0,0,https://github.com/emostov/rider,Placeholder: Rider is published as swarm-rider
+2026-11-20T00:58:15.725612Z,ferroxygen_client,0.1.0,0,0,https://github.com/facebookincubator/roxygen,An HTTP/1.1 and HTTP/2 client built on Roxygen
+2026-11-20T01:02:23.112192Z,standardizer-common,1.0.0,0,0,https://github.com/BezotCorp/standardizer,Shared routing types for the Standardizer tools
+2026-11-20T01:02:33.627Z,standardizer,1.0.0,0,0,https://github.com/BezotCorp/standardizer,Check or fix the conformance of files in a Git repository by dispatching them to rustfmt or Biome
+2026-11-20T01:08:20.99185Z,ferroxygen_connect_client,0.1.0,0,0,https://github.com/facebookincubator/roxygen,An experimental pool of HTTP/2 CONNECT tunnels for Tokio applications
+2026-11-20T01:15:41.115802Z,connect2axum-mcp,0.1.0,0,0,https://github.com/nu11ptr/connect2axum,Runtime for generated MCP (Model Context Protocol) tool wrappers over ConnectRPC services
+2026-11-20T01:15:49.751334Z,chromey_types,3.0.0,0,0,https://github.com/spider-rs/chromey,"Core command, event and message types for chromey, the Chrome DevTools Protocol library"
+2026-11-20T01:15:59.893414Z,chromey_pdl,3.0.0,0,0,https://github.com/spider-rs/chromey,"PDL parser and Rust code generator for chromey, the Chrome DevTools Protocol library"
+2026-11-20T01:16:14.943418Z,rusyntax,0.1.0-dev.5,0,0,https://github.com/SergeyShk/ruSyntax,Fast Russian dependency parser: heads and Universal Dependencies relations
+2026-11-20T01:16:36.503083Z,chromey_cdp,3.0.0,0,0,https://github.com/spider-rs/chromey,Generated Chrome DevTools Protocol types for chromey
+2026-11-20T01:17:08.85377Z,chromey_fetcher,3.0.0,0,0,https://github.com/spider-rs/chromey,Chrome for Testing and Chromium downloader for chromey
+2026-11-20T01:18:26.797709Z,ferroxygen_curl,0.1.0,0,0,https://github.com/facebookincubator/roxygen,A curl-like command-line client built on Roxygen
+2026-11-20T01:18:27.797964Z,artifact_provenance,0.1.0,0,0,,"Versioned artifacts and their provenance: which immutable version, where it came from, the digest of its bytes, and the pathgen workspace route it belongs at. Model and planning only; no fetching."
+2026-11-20T01:18:35.370315Z,exact_checkout,0.1.0,0,0,,"A repository pinned at an exact commit, materialised at its pathgen route: planned first (the destination and the exact git lines), then obtained through declared argv-only git lines, checked out det…"
+2026-11-20T01:18:43.369341Z,cargo_composition,0.1.0,0,0,,"Rust structure as data from exactly pinned repositories: Cargo discovery through declared argv-only lines (cargo metadata --no-deps --frozen), normalised packages, targets, features and dependencies,…"
