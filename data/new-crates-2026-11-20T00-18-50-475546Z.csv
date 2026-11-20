@@ -1,0 +1,33 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-19T23:20:12.141878Z,temporal-control,0.0.0,0,0,https://github.com/sunsided/temporal-control,Simple temporal networks with uncertainty: dynamic controllability checking and dispatchable execution for no_std targets
+2026-11-19T23:20:14.63947Z,heuristic-search,0.0.0,0,0,https://github.com/sunsided/heuristic-search,"Explicit-state heuristic graph search: A*, weighted and anytime, bounded-suboptimal, bidirectional and incremental search"
+2026-11-19T23:20:17.318741Z,sampling-planning,0.0.0,0,0,https://github.com/sunsided/sampling-planning,"Motion planning with sampling-based planners: RRT, RRT*, PRM, FMT* and SST"
+2026-11-19T23:20:19.833929Z,search-core,0.0.0,0,0,https://github.com/sunsided/search-core,Small shared traits for planning and search crates
+2026-11-19T23:20:22.069071Z,resource-timeline,0.0.0,0,0,https://github.com/sunsided/resource-timeline,"Resource timelines for onboard scheduling: energy, memory, thermal and communication budgets"
+2026-11-19T23:24:19.195355Z,zui-native,0.1.0,0,0,https://github.com/LIghtJUNction/zui,Small native GPU UI primitives for Project Z
+2026-11-19T23:25:44.453976Z,multiobjective-search,0.0.0,0,0,https://github.com/sunsided/multiobjective-search,"Multi-objective shortest paths: BOA*, BOBA*, EMOA* and NAMOA* over Pareto frontiers"
+2026-11-19T23:35:39.608832Z,xingo-statla,0.1.0,0,0,https://github.com/StrategicProjects/xingo-statla,"Updatable and matrix-free linear algebra for statistics: QR and Cholesky with rank-1 updates and downdates, randomized and truncated SVD, and ARPACK-style eigs/eigsh by Krylov-Schur restarted Lanczos…"
+2026-11-19T23:35:44.544296Z,decoupled-search,0.0.0,0,0,https://github.com/sunsided/decoupled-search,"Decoupled search for factored SAS+ planning: center and leaf factoring, leaf reachability and leaf-state dominance"
+2026-11-19T23:43:49.856146Z,cp-anywhere,0.0.1,0,0,https://github.com/wayscience/cp-anywhere,"CellProfiler-compatible segmentation, measurements, and pipeline execution."
+2026-11-19T23:45:43.791428Z,symbolic-search,0.0.0,0,0,https://github.com/sunsided/symbolic-search,"Symbolic state-space search with decision diagrams: symbolic BFS, bidirectional search, BDDA* and SymBA*"
+2026-11-19T23:45:53.274335Z,regqry,0.1.3,0,0,https://github.com/inaku-Gyan/RegQry,Search and inspect the Windows Registry from the command line
+2026-11-19T23:55:43.903321Z,planning-heuristics,0.0.0,0,0,https://github.com/sunsided/planning-heuristics,"Heuristics for classical planning: red-black, FF, landmark and abstraction heuristic adapters"
+2026-11-19T23:56:11.207376Z,spacewasm_tools,0.8.0-rc.1,0,0,https://github.com/nasa/spacewasm,"Ground tooling for the spacewasm interpreter: link with wasm-opt held to its features, validate, run WASI modules, trace execution, split debug info into a symbol file, and resolve backtraces"
+2026-11-19T23:57:24.895056Z,ferroxygen_runtime,0.1.0,0,0,https://github.com/facebookincubator/roxygen,"Worker threads, timers, cancellation and task groups for Roxygen"
+2026-11-19T23:57:26.87215Z,ferroxygen_core,0.1.0,0,0,https://github.com/facebookincubator/roxygen,"HTTP messages, body buffers and handler traits shared by the Roxygen crates"
+2026-11-19T23:57:28.793422Z,ferroxygen_codec,0.1.0,0,0,https://github.com/facebookincubator/roxygen,The codec interface shared by Roxygen's HTTP/1 and HTTP/2 codecs
+2026-11-19T23:57:29.402345Z,ferroxygen_http_adapter,0.1.0,0,0,https://github.com/facebookincubator/roxygen,Conversions between the http crate's types and Roxygen's
+2026-11-19T23:57:34.514293Z,ferroxygen_hyper_adapter,0.1.0,0,0,https://github.com/facebookincubator/roxygen,"http-body implementations over Roxygen bodies, and the reverse"
+2026-11-19T23:57:48.278054Z,horae-civil-time,0.1.0,0,0,https://github.com/ryancinsight/horae,Gregorian dates and UTC timestamps for Atlas
+2026-11-19T23:59:11.502897Z,iris-plot-html,0.1.0,0,0,https://github.com/ryancinsight/iris,Interactive standalone HTML plots rendered from Iris views
+2026-11-20T00:04:17.150511Z,cargo-ext-resolver,0.101.0,0,0,https://github.com/cargo-extracted/cargo-extracted,Cargo's dependency resolver
+2026-11-20T00:05:03.412008Z,bip377,0.0.0,0,0,https://github.com/pythcoiner/bip377,BIP377 Signing message encoding
+2026-11-20T00:05:31.666259Z,coordinode-session,0.10.0,0,0,https://github.com/structured-world/coordinode,"Transport- and dialect-agnostic multiplexed session core: concurrent dispatch, single outbound writer, request-id correlation, cursors and an interactive-transaction sub-thread. Driven by the gRPC an…"
+2026-11-20T00:05:44.206387Z,mapf-search,0.0.0,0,0,https://github.com/sunsided/mapf-search,"Multi-agent pathfinding: CBS, ECBS, CBS-TA, ICTS, PBS, M* and MAPF-LNS2"
+2026-11-20T00:07:40.990549Z,ferroxygen_http1,0.1.0,0,0,https://github.com/facebookincubator/roxygen,"Roxygen's HTTP/1.x codec, with a parser generated from llhttp"
+2026-11-20T00:15:43.597764Z,stochastic-search,0.0.0,0,0,https://github.com/sunsided/stochastic-search,"Planning under probabilistic outcomes: LAO*, iLAO*, RTDP, LRTDP, POMCP and DESPOT"
+2026-11-20T00:17:47.303375Z,ferroxygen_http2,0.1.0,0,0,https://github.com/facebookincubator/roxygen,"Roxygen's HTTP/2 codec, with HPACK and flow control"
+2026-11-20T00:18:42.994131Z,aurelin-cli,0.1.0,0,0,https://github.com/AlextheYounga/aurelin.git,Aurelin is a Rust translation of Laravel
+2026-11-20T00:18:43.657577Z,aurelin-framework,0.1.0,0,0,https://github.com/AlextheYounga/aurelin.git,Aurelin is a Rust translation of Laravel
+2026-11-20T00:18:44.079857Z,aurelin-passkeys,0.1.0,0,0,https://github.com/AlextheYounga/aurelin.git,Aurelin is a Rust translation of Laravel
+2026-11-20T00:18:45.237701Z,aurelin-fortify,0.1.0,0,0,https://github.com/AlextheYounga/aurelin.git,Aurelin is a Rust translation of Laravel

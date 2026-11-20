@@ -8,41 +8,46 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-19 23:18 UTC
+## Latest list — 2026-11-20 00:18 UTC
 
-New crates published between 2026-11-19 22:20 UTC and 2026-11-19 23:18 UTC.
+New crates published between 2026-11-19 23:18 UTC and 2026-11-20 00:18 UTC.
 
-[Full CSV](data/new-crates-2026-11-19T23-18-46-368309Z.csv)
+[Full CSV](data/new-crates-2026-11-20T00-18-50-475546Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-19 22:21:50 | [hol-guard](https://crates.io/crates/hol-guard) | 0.0.1 | 0 | Placeholder for the HOL Guard runtime. Install HOL Guard today with `pipx insta… |
-| 2026-11-19 22:24:20 | [rhema-websearch-brave](https://crates.io/crates/rhema-websearch-brave) | 0.4.0 | 0 | Brave Search API adapter for the rhema WebSearchProvider seam |
-| 2026-11-19 22:27:21 | [codegen-1o](https://crates.io/crates/codegen-1o) | 0.1.0 | 0 | Ordered collect/pass/validate/emit pipeline from a core-1o DocumentIR to genera… |
-| 2026-11-19 22:27:29 | [pasture-codegen](https://crates.io/crates/pasture-codegen) | 0.1.0 | 0 | Pasture's document collectors, validators and Rust emitters over codegen-1o, fo… |
-| 2026-11-19 22:27:32 | [pasture-macros](https://crates.io/crates/pasture-macros) | 0.1.0 | 0 | Compile-time vocabulary and relationship-schema generation for pasture. |
-| 2026-11-19 22:27:36 | [pasture](https://crates.io/crates/pasture) | 0.1.0 | 0 | A typed language for hierarchical multi-agent organizations and configurable vo… |
-| 2026-11-19 22:33:54 | [rhema-websearch-tavily](https://crates.io/crates/rhema-websearch-tavily) | 0.4.0 | 0 | Tavily search API adapter for the rhema WebSearchProvider seam |
-| 2026-11-19 22:39:33 | [vexyl](https://crates.io/crates/vexyl) | 1.4.0 | 0 | Reads, checks and renders Vexyl flag documents, a KDL format for flag designs. |
-| 2026-11-19 22:45:53 | [ntfs-rw](https://crates.io/crates/ntfs-rw) | 0.0.0 | 0 | An NTFS filesystem implementation in pure Rust, aiming for read and write suppo… |
-| 2026-11-19 22:47:13 | [woofstanding_rs](https://crates.io/crates/woofstanding_rs) | 0.1.0 | 0 | Low level library for writing no libc rust (on linux) |
-| 2026-11-19 22:47:47 | [tiktoken-vocab-deepseek](https://crates.io/crates/tiktoken-vocab-deepseek) | 1.0.0 | 0 | DeepSeek tokenizer vocabularies (deepseek_v3) for the tiktoken crate |
-| 2026-11-19 22:47:50 | [tiktoken-vocab-meta](https://crates.io/crates/tiktoken-vocab-meta) | 1.0.0 | 0 | Meta tokenizer vocabularies (llama3, llama4) for the tiktoken crate |
-| 2026-11-19 22:47:53 | [tiktoken-vocab-minimax](https://crates.io/crates/tiktoken-vocab-minimax) | 1.0.0 | 0 | MiniMax tokenizer vocabularies (minimax_m2) for the tiktoken crate |
-| 2026-11-19 22:47:55 | [tiktoken-vocab-mistral](https://crates.io/crates/tiktoken-vocab-mistral) | 1.0.0 | 0 | Mistral AI tokenizer vocabularies (mistral_v3, mistral_v15) for the tiktoken cr… |
-| 2026-11-19 22:47:57 | [tiktoken-vocab-moonshot](https://crates.io/crates/tiktoken-vocab-moonshot) | 1.0.0 | 0 | Moonshot AI Kimi tokenizer vocabularies (kimi_k2) for the tiktoken crate |
-| 2026-11-19 22:52:30 | [tiktoken-vocab-openai](https://crates.io/crates/tiktoken-vocab-openai) | 1.0.0 | 0 | OpenAI tokenizer vocabularies (cl100k_base, o200k_base, r50k_base, p50k_base) f… |
-| 2026-11-19 22:53:38 | [tmux-session](https://crates.io/crates/tmux-session) | 0.1.0 | 0 | Bounded Unix tmux session mechanics with literal process arguments |
-| 2026-11-19 23:01:43 | [rhema-websearch-exa](https://crates.io/crates/rhema-websearch-exa) | 0.4.0 | 0 | Exa search API adapter for the rhema WebSearchProvider seam |
-| 2026-11-19 23:02:04 | [rhema-websearch-registry](https://crates.io/crates/rhema-websearch-registry) | 0.4.0 | 0 | The web search fleet's name-to-adapter wiring: one build call per websearch pro… |
-| 2026-11-19 23:02:20 | [tiktoken-vocab-qwen](https://crates.io/crates/tiktoken-vocab-qwen) | 1.0.0 | 0 | Alibaba Qwen tokenizer vocabularies (qwen2, qwen3_5) for the tiktoken crate |
-| 2026-11-19 23:05:01 | [rhema-subagents](https://crates.io/crates/rhema-subagents) | 0.4.0 | 0 | The subagent extension: markdown subagent definitions and the `subagent` tool t… |
-| 2026-11-19 23:05:02 | [defcmd-macros](https://crates.io/crates/defcmd-macros) | 0.1.0 | 0 | Proc macros for defcmd. Use defcmd, not this crate. |
-| 2026-11-19 23:05:04 | [defcmd](https://crates.io/crates/defcmd) | 0.1.0 | 0 | A command is a plain function marked #[command]; its signature is the CLI, mode… |
-| 2026-11-19 23:12:32 | [tiktoken-vocab-zhipu](https://crates.io/crates/tiktoken-vocab-zhipu) | 1.0.0 | 0 | Zhipu AI GLM tokenizer vocabularies (glm4, glm5) for the tiktoken crate |
-| 2026-11-19 23:13:38 | [bogovolution-core](https://crates.io/crates/bogovolution-core) | 3.0.0 | 0 | Engine for bogovolution: hash-chained lineage log, benchmark runs, verdicts and… |
-| 2026-11-19 23:14:05 | [bogovolution-watch](https://crates.io/crates/bogovolution-watch) | 3.0.0 | 0 | Terminal view (ratatui) that follows a bogovolution lineage log live |
-| 2026-11-19 23:14:30 | [bogovolution](https://crates.io/crates/bogovolution) | 3.0.0 | 0 | Evolve a repo's agent rules file (AGENTS.md, CLAUDE.md) against the repo's own… |
+| 2026-11-19 23:20:12 | [temporal-control](https://crates.io/crates/temporal-control) | 0.0.0 | 0 | Simple temporal networks with uncertainty: dynamic controllability checking and… |
+| 2026-11-19 23:20:14 | [heuristic-search](https://crates.io/crates/heuristic-search) | 0.0.0 | 0 | Explicit-state heuristic graph search: A*, weighted and anytime, bounded-subopt… |
+| 2026-11-19 23:20:17 | [sampling-planning](https://crates.io/crates/sampling-planning) | 0.0.0 | 0 | Motion planning with sampling-based planners: RRT, RRT*, PRM, FMT* and SST |
+| 2026-11-19 23:20:19 | [search-core](https://crates.io/crates/search-core) | 0.0.0 | 0 | Small shared traits for planning and search crates |
+| 2026-11-19 23:20:22 | [resource-timeline](https://crates.io/crates/resource-timeline) | 0.0.0 | 0 | Resource timelines for onboard scheduling: energy, memory, thermal and communic… |
+| 2026-11-19 23:24:19 | [zui-native](https://crates.io/crates/zui-native) | 0.1.0 | 0 | Small native GPU UI primitives for Project Z |
+| 2026-11-19 23:25:44 | [multiobjective-search](https://crates.io/crates/multiobjective-search) | 0.0.0 | 0 | Multi-objective shortest paths: BOA*, BOBA*, EMOA* and NAMOA* over Pareto front… |
+| 2026-11-19 23:35:39 | [xingo-statla](https://crates.io/crates/xingo-statla) | 0.1.0 | 0 | Updatable and matrix-free linear algebra for statistics: QR and Cholesky with r… |
+| 2026-11-19 23:35:44 | [decoupled-search](https://crates.io/crates/decoupled-search) | 0.0.0 | 0 | Decoupled search for factored SAS+ planning: center and leaf factoring, leaf re… |
+| 2026-11-19 23:43:49 | [cp-anywhere](https://crates.io/crates/cp-anywhere) | 0.0.1 | 0 | CellProfiler-compatible segmentation, measurements, and pipeline execution. |
+| 2026-11-19 23:45:43 | [symbolic-search](https://crates.io/crates/symbolic-search) | 0.0.0 | 0 | Symbolic state-space search with decision diagrams: symbolic BFS, bidirectional… |
+| 2026-11-19 23:45:53 | [regqry](https://crates.io/crates/regqry) | 0.1.3 | 0 | Search and inspect the Windows Registry from the command line |
+| 2026-11-19 23:55:43 | [planning-heuristics](https://crates.io/crates/planning-heuristics) | 0.0.0 | 0 | Heuristics for classical planning: red-black, FF, landmark and abstraction heur… |
+| 2026-11-19 23:56:11 | [spacewasm_tools](https://crates.io/crates/spacewasm_tools) | 0.8.0-rc.1 | 0 | Ground tooling for the spacewasm interpreter: link with wasm-opt held to its fe… |
+| 2026-11-19 23:57:24 | [ferroxygen_runtime](https://crates.io/crates/ferroxygen_runtime) | 0.1.0 | 0 | Worker threads, timers, cancellation and task groups for Roxygen |
+| 2026-11-19 23:57:26 | [ferroxygen_core](https://crates.io/crates/ferroxygen_core) | 0.1.0 | 0 | HTTP messages, body buffers and handler traits shared by the Roxygen crates |
+| 2026-11-19 23:57:28 | [ferroxygen_codec](https://crates.io/crates/ferroxygen_codec) | 0.1.0 | 0 | The codec interface shared by Roxygen's HTTP/1 and HTTP/2 codecs |
+| 2026-11-19 23:57:29 | [ferroxygen_http_adapter](https://crates.io/crates/ferroxygen_http_adapter) | 0.1.0 | 0 | Conversions between the http crate's types and Roxygen's |
+| 2026-11-19 23:57:34 | [ferroxygen_hyper_adapter](https://crates.io/crates/ferroxygen_hyper_adapter) | 0.1.0 | 0 | http-body implementations over Roxygen bodies, and the reverse |
+| 2026-11-19 23:57:48 | [horae-civil-time](https://crates.io/crates/horae-civil-time) | 0.1.0 | 0 | Gregorian dates and UTC timestamps for Atlas |
+| 2026-11-19 23:59:11 | [iris-plot-html](https://crates.io/crates/iris-plot-html) | 0.1.0 | 0 | Interactive standalone HTML plots rendered from Iris views |
+| 2026-11-20 00:04:17 | [cargo-ext-resolver](https://crates.io/crates/cargo-ext-resolver) | 0.101.0 | 0 | Cargo's dependency resolver |
+| 2026-11-20 00:05:03 | [bip377](https://crates.io/crates/bip377) | 0.0.0 | 0 | BIP377 Signing message encoding |
+| 2026-11-20 00:05:31 | [coordinode-session](https://crates.io/crates/coordinode-session) | 0.10.0 | 0 | Transport- and dialect-agnostic multiplexed session core: concurrent dispatch,… |
+| 2026-11-20 00:05:44 | [mapf-search](https://crates.io/crates/mapf-search) | 0.0.0 | 0 | Multi-agent pathfinding: CBS, ECBS, CBS-TA, ICTS, PBS, M* and MAPF-LNS2 |
+| 2026-11-20 00:07:40 | [ferroxygen_http1](https://crates.io/crates/ferroxygen_http1) | 0.1.0 | 0 | Roxygen's HTTP/1.x codec, with a parser generated from llhttp |
+| 2026-11-20 00:15:43 | [stochastic-search](https://crates.io/crates/stochastic-search) | 0.0.0 | 0 | Planning under probabilistic outcomes: LAO*, iLAO*, RTDP, LRTDP, POMCP and DESP… |
+| 2026-11-20 00:17:47 | [ferroxygen_http2](https://crates.io/crates/ferroxygen_http2) | 0.1.0 | 0 | Roxygen's HTTP/2 codec, with HPACK and flow control |
+| 2026-11-20 00:18:42 | [aurelin-cli](https://crates.io/crates/aurelin-cli) | 0.1.0 | 0 | Aurelin is a Rust translation of Laravel |
+| 2026-11-20 00:18:43 | [aurelin-framework](https://crates.io/crates/aurelin-framework) | 0.1.0 | 0 | Aurelin is a Rust translation of Laravel |
+| 2026-11-20 00:18:44 | [aurelin-passkeys](https://crates.io/crates/aurelin-passkeys) | 0.1.0 | 0 | Aurelin is a Rust translation of Laravel |
+| 2026-11-20 00:18:45 | [aurelin-fortify](https://crates.io/crates/aurelin-fortify) | 0.1.0 | 0 | Aurelin is a Rust translation of Laravel |
 
 ## Data source
 
