@@ -1,0 +1,54 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-20T15:22:14.592711Z,subnetctl,0.1.0,0,0,https://github.com/ELAyari/subnetctl,A small IPv4 CIDR subnet calculator (library + CLI) with RFC 3021 support
+2026-11-20T15:22:30.941301Z,m20-ctrlmcu,0.1.0,0,0,https://github.com/jeff-hykin/m20-ctrlmcu-rust,"Deep Robotics M20 (Lynx) body control MCU on the AOS board's /dev/ttyS3: frame codec, LED / fill-light / fan / power commands, fan-speed and load-current replies, and a serial client that refuses pow…"
+2026-11-20T15:24:56.688473Z,rune-vectorstore-sqlite,0.1.0,0,0,https://github.com/alexile/runes,"Embedded single-file SQLite vector store for rune-vectorstore: exact search with a bounded top-k scan, WAL, bound JSON metadata filters"
+2026-11-20T15:27:09.37814Z,embedded-maths,0.1.0,0,0,https://github.com/jorgeandrecastro/embedded-maths,No_std math functions for embedded Rust
+2026-11-20T15:29:01.119632Z,bonefish-core,0.5.0,0,0,https://github.com/DylanCosto/bonefish,Core alignment library for bonefish
+2026-11-20T15:29:03.445731Z,bonefish-aligner,0.5.0,0,0,https://github.com/DylanCosto/bonefish,"Fast aligner for Oxford Nanopore DNA, RNA and cDNA reads and PacBio HiFi DNA (a fork of rammap, the Rust port of minimap2)"
+2026-11-20T15:29:32.88684Z,strata-build,0.1.0,0,0,https://github.com/strataui/strata,"Universal configuration loader, multi-format YAML/TOML engine, and dynamic build plugin pipeline for Strata"
+2026-11-20T15:34:51.131932Z,rune-chain-gemini,0.1.2,0,0,https://github.com/alexile/runes,"Google Gemini LLM provider for rune-chain: Gemini API and Vertex AI, streaming, tools, structured output, thinking, safety settings and embeddings"
+2026-11-20T15:36:16.828463Z,strata-web-api,0.1.0,0,0,https://github.com/strataui/strata,W3C Web Platform APIs in pure idiomatic Rust for Strata
+2026-11-20T15:36:19.75941Z,strata-js,0.1.0,0,0,https://github.com/strataui/strata,JavaScript runtime and dynamic type emulation in pure Rust for Strata
+2026-11-20T15:36:26.030933Z,strata-vfs,0.1.0,0,0,https://github.com/strataui/strata,"Universal, sandboxed asynchronous Virtual File System with zero #[cfg] in user code for Strata"
+2026-11-20T15:36:28.56808Z,strata-storage,0.1.0,0,0,https://github.com/strataui/strata,"Pure-Rust Bitcask WAL engine, synchronous in-memory storage, and secure keystore for Strata"
+2026-11-20T15:37:02.760108Z,strata-primitives,0.1.0,0,0,https://github.com/strataui/strata,"Zero-dependency mathematical, geometric, color, atom, and memory primitives for Project Strata"
+2026-11-20T15:44:16.090045Z,paintrs,0.1.1,0,0,https://github.com/bitplane/paintrs,A native Rust bitmap editor with a Windows 98-inspired interface
+2026-11-20T15:44:24.096028Z,storecfg,0.1.0,0,0,https://github.com/clbarnes/storecfg,Helper for configuring OpenDAL operators or object_store object stores for applications
+2026-11-20T15:45:01.01625Z,rune-vectorstore-pgvector,0.1.0,0,0,https://github.com/alexile/runes,"PostgreSQL + pgvector backend for rune-vectorstore: HNSW or IVFFlat indexes, batched upserts, metadata filters as bound jsonb conditions"
+2026-11-20T15:47:49.728206Z,secretguard,0.1.2,0,0,https://github.com/hemanathk636/secretguard,Sub-millisecond terminal secret interceptor and privacy guard for developers and AI agents
+2026-11-20T15:48:18.773201Z,strata-audio,0.1.0,0,0,https://github.com/strataui/strata,Pure-Rust spatial 3D audio synthesizer and DSP engine for Project Strata
+2026-11-20T15:48:30.34332Z,pultr-platform,0.0.6,0,0,https://github.com/the-cons/pultr,Ports of pultr: traits describing what it needs from the operating system
+2026-11-20T15:48:33.207365Z,pultr-mock,0.0.6,0,0,https://github.com/the-cons/pultr,"Fake adapter for pultr: scripted data for tests, demos and screenshots"
+2026-11-20T15:48:36.233704Z,pultr-cards,0.0.6,0,0,https://github.com/the-cons/pultr,"Built-in cards of pultr: battery, bluetooth, media…"
+2026-11-20T15:49:58.274366Z,lp-sparse-rs,0.1.0,0,0,https://github.com/QAQTam/lp-rs,Pure Rust Android sparse image format reader and streaming builder (no C dependencies)
+2026-11-20T15:50:30.467363Z,liblp-rs,0.1.0,0,0,https://github.com/QAQTam/lp-rs,Pure Rust implementation of Android Logical Partition library (liblp) for super.img
+2026-11-20T15:51:00.758862Z,mirror-displays,1.0.0,0,0,https://github.com/89jobrien/mirror-displays,macOS display mirroring via displayplacer
+2026-11-20T15:51:04.790472Z,lp-tools-rs,0.1.0,0,0,https://github.com/QAQTam/lp-rs,"Pure Rust Android dynamic partition CLI suite (lpmake, lpunpack, lpdump, lpadd, lpflash)"
+2026-11-20T15:54:58.732774Z,rune-chain-graph,0.1.0,0,0,https://github.com/alexile/runes,"Stateful graph orchestration for LLM workflows and agents: typed state with reducers, parallel supersteps, checkpoints, time travel, human-in-the-loop interrupts and a prebuilt ReAct agent"
+2026-11-20T15:55:13.657029Z,gabion-macros,0.1.0,0,0,https://github.com/d-buckner/gabion,#[service] macro: one trait -> typed client + axum router + clap + (v2) mcp.
+2026-11-20T15:55:21.439429Z,gabion-cli,0.1.0,0,0,https://github.com/d-buckner/gabion,"gabion check: one command, one exit code. Orchestrates clippy + fmt + cargo-shear + cargo-deny + wasm builds, and adds the three rules no existing linter can express."
+2026-11-20T15:56:25.540851Z,sisa-health-checks-core,0.0.1,0,0,https://github.com/sisaio/sisa-health-checks-rs,"Health check contract, registry, probes and reports of Sisa Health Checks"
+2026-11-20T15:56:28.648671Z,sisa-health-checks-http,0.0.1,0,0,https://github.com/sisaio/sisa-health-checks-rs,"The /livez, /readyz and /health answers of Sisa Health Checks as plain data, for any web framework"
+2026-11-20T15:56:51.520793Z,sisa-health-checks-grpc,0.0.1,0,0,https://github.com/sisaio/sisa-health-checks-rs,"The grpc.health.v1.Health service of Sisa Health Checks, for gRPC and Connect clients, on connectrpc"
+2026-11-20T15:57:09.810313Z,sisa-health-checks-postgres,0.0.1,0,0,https://github.com/sisaio/sisa-health-checks-rs,"A PostgreSQL health check for Sisa Health Checks, on an sqlx pool"
+2026-11-20T15:57:21.764947Z,sisa-health-checks-redis,0.0.1,0,0,https://github.com/sisaio/sisa-health-checks-rs,"A Redis health check for Sisa Health Checks, on any redis-rs async connection"
+2026-11-20T15:57:38.732839Z,gabion,0.1.0,0,0,https://github.com/d-buckner/gabion,"Runtime-free core: capability traits, error model, client contracts for gabion apps."
+2026-11-20T15:57:46.110444Z,gabion-native,0.1.0,0,0,https://github.com/d-buckner/gabion,Native capability impls (SystemClock). Host-side only — never imported by *-core.
+2026-11-20T15:58:06.770791Z,strata-dom,0.1.0,0,0,https://github.com/strataui/strata,"Core DOM, reactive signals, and synthetic event routing for Strata"
+2026-11-20T16:02:51.728602Z,pasta-hts,0.9.1,0,0,https://github.com/DylanCosto/pasta,"Readers, writers, and algorithms for SAM, BAM, CRAM, VCF, BCF, BGZF, CSI, tabix, and FASTA"
+2026-11-20T16:02:53.971583Z,ntools,0.9.1,0,0,https://github.com/DylanCosto/pasta,A samtools-compatible command-line toolkit built on pasta
+2026-11-20T16:02:54.835361Z,vtools,0.9.1,0,0,https://github.com/DylanCosto/pasta,A bcftools-compatible command-line toolkit built on pasta
+2026-11-20T16:03:20.54104Z,trashrm,0.1.0,0,0,https://github.com/zczqas/trashrm,"A tiny, dependency-free rm alternative that moves files to the freedesktop Trash instead of deleting them"
+2026-11-20T16:05:06.588284Z,rune-chain-eval,0.1.0,0,0,https://github.com/alexile/runes,"Evaluation harness for rune-chain LLM apps: datasets, bounded concurrent runs, heuristic, LLM-as-judge, RAG and trajectory metrics, bootstrap CIs, run comparison for CI gates"
+2026-11-20T16:06:40.919218Z,whisplay-driver,0.1.1,0,0,https://github.com/rohnyn/whisplay-rs,A Whisplay display client and Linux hardware daemon with image and GIF playback
+2026-11-20T16:07:37.512149Z,whisplay,0.1.1,0,0,https://github.com/rohnyn/whisplay-rs,"A CLI and Rust library for displaying text, emoji, images and GIFs on Whisplay"
+2026-11-20T16:07:49.599298Z,tim2-rs,0.1.0,0,0,https://github.com/LeadRDRK/tim2-rs,TIM2 image decoding and encoding library
+2026-11-20T16:07:55.441341Z,sisa-health-checks-nats,0.0.1,0,0,https://github.com/sisaio/sisa-health-checks-rs,"A NATS health check for Sisa Health Checks, on an async-nats client"
+2026-11-20T16:08:09.209199Z,strata-agent-ui,0.1.0,0,0,https://github.com/strataui/strata,"Streaming, sandboxed generative UI protocol for LLM and autonomous agents in Project Strata"
+2026-11-20T16:10:49.7639Z,tim2view,0.1.0,0,0,https://github.com/LeadRDRK/tim2-rs,Simple TIM2 image viewer
+2026-11-20T16:15:13.311477Z,rune-chain,0.1.6,0,0,https://github.com/alexile/runes,"One-dependency LLM toolkit: OpenAI/Anthropic/Gemini/Ollama clients, agents with tools, RAG and memory, typed extraction, streaming. Re-exports the rune-chain stack behind features"
+2026-11-20T16:15:39.072855Z,carat-core,0.1.0,0,0,https://github.com/steph4n-gh/carat,Deterministic core for Carat npm dependency balance sheets
+2026-11-20T16:15:44.586892Z,carat,0.1.0,0,0,https://github.com/steph4n-gh/carat,A balance sheet for npm dependency changes — verify every changed byte before install
+2026-11-20T16:17:44.943648Z,fm1,0.1.0,0,0,https://github.com/fm1-rust/fm1-rust,Board support for the M-VAVE FM-1 using embedded-hal
+2026-11-20T16:18:03.023176Z,strata-aria,0.1.0,0,0,https://github.com/strataui/strata,Accessible Headless UI Primitives & Floating Collision Engine for Strata
+2026-11-20T16:19:34.624697Z,catacomb,0.0.1,0,0,,"A Windows power-user file manager: multi-pane listers, instant indexed search and an integrated command bar. In development; this release holds the name."
