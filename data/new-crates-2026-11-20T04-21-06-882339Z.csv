@@ -1,0 +1,22 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-20T03:20:32.290062Z,weirdnet-text,0.1.0,0,0,https://github.com/WeirdBrains/weirdnet-text,"Toolkit-independent editing rules for one-line and multiline text fields: grapheme-aware caret movement, selection, deletion, inline completions, input-method composition and UTF-16 offsets."
+2026-11-20T03:22:21.49269Z,unvise,0.2.1,0,0,https://github.com/jpt/unvise,"Extractor for Installer VISE archives (MindVision, 1990s-2000s Mac and Windows)"
+2026-11-20T03:23:21.49254Z,xdsd-proto,0.1.0,0,0,https://github.com/cuipeiyu/xdsd,xdsd 的协议定义与生成代码
+2026-11-20T03:23:28.741046Z,xdsd,0.1.0,0,0,https://github.com/cuipeiyu/xdsd,xdsd 客户端 SDK：gRPC 客户端经 xDS 做服务发现与配置获取
+2026-11-20T03:24:37.343124Z,ritk-block-matching,0.1.0,0,0,https://github.com/ryancinsight/ritk,Block-matching displacement estimation for speckle tracking
+2026-11-20T03:24:43.240216Z,ritk-image-io,0.1.0,0,0,https://github.com/ryancinsight/ritk,Typed stored-volume contracts for RITK image formats
+2026-11-20T03:31:31.148072Z,choon,0.1.0,0,0,https://github.com/tetra-fox/choon,Check that lossless audio is actually lossless
+2026-11-20T03:31:39.238236Z,rockchip-h264,0.1.0,0,0,https://github.com/jeff-hykin/rockchip-h264-rust,"Pure-Rust MJPEG -> H.264 on the Rockchip RK3588: the hardware JPEG decoder and VEPU580 H.264 encoder driven straight through /dev/mpp_service, no MPP library"
+2026-11-20T03:38:27.480523Z,buoyant-oxbow,2.0.0,0,0,https://github.com/buoyant-data/oxbow,Core Delta Lake table operations for the oxbow toolbox: converting and loading data into Delta tables
+2026-11-20T03:39:36.093734Z,buoyant-oxbow-sqs,2.0.0,0,0,https://github.com/buoyant-data/oxbow,Use Amazon SQS as a signaling mechanism for oxbow Lambda functions and Delta Lake processing
+2026-11-20T03:42:05.300409Z,ritk-parcellation,0.2.0,0,0,https://github.com/ryancinsight/ritk,"Anatomical parcellation volumes, region statistics, and label-map formats"
+2026-11-20T03:42:31.090705Z,ascii-digit,1.0.0,0,0,https://github.com/Lucretiel/globalize,"A str-compatible AsciiDigit type, intended as a parsing aid"
+2026-11-20T03:46:11.524108Z,buoyant-oxbow-lambda,2.0.0,0,0,https://github.com/buoyant-data/oxbow,Shared helpers for oxbow Lambda functions: S3 and SQS event parsing and Delta table info extraction
+2026-11-20T04:00:52.504332Z,jmap-chat-slack,0.0.1,0,0,https://github.com/MarkAtwood/crate-jmap,Slack workspace as a JMAP Chat Space: ChatBackend bridge over the Slack Web and Events APIs (early placeholder)
+2026-11-20T04:00:54.932603Z,jmap-platform-push,0.0.1,0,0,https://github.com/MarkAtwood/crate-jmap,"Platform push delivery (FCM, APNs, ADM, Huawei Push Kit, MiPush, WNS) for JMAP push subscriptions (early placeholder)"
+2026-11-20T04:00:57.406712Z,jmap-vtc-aws,0.0.1,0,0,https://github.com/MarkAtwood/crate-jmap,AWS media backend (Amazon IVS) for jmap-vtc-server livestreams and recordings (early placeholder)
+2026-11-20T04:01:00.334643Z,jmap-vtc-livekit,0.0.1,0,0,https://github.com/MarkAtwood/crate-jmap,LiveKit SFU and Egress media backend for jmap-vtc-server (early placeholder)
+2026-11-20T04:01:02.764974Z,jmap-vtc-ffmpeg,0.0.1,0,0,https://github.com/MarkAtwood/crate-jmap,ffmpeg/GStreamer reference media backend for jmap-vtc-server (livestreams to static HLS) (early placeholder)
+2026-11-20T04:02:28.899948Z,jmap-vtc-gstreamer,0.0.1,0,0,https://github.com/MarkAtwood/crate-jmap,GStreamer media backend for jmap-vtc-server (early placeholder)
+2026-11-20T04:12:29.490629Z,jmap-vtc-cloudflare,0.0.1,0,0,https://github.com/MarkAtwood/crate-jmap,"Cloudflare Stream (WHIP ingest, WHEP playback) media backend for jmap-vtc-server (early placeholder)"
+2026-11-20T04:15:20.883682Z,taskflowtui,0.1.0,0,0,https://github.com/kakzctl/taskflowtui,"A local-first, keyboard-driven terminal task manager"
