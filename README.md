@@ -8,49 +8,46 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-20 14:18 UTC
+## Latest list — 2026-11-20 15:20 UTC
 
-New crates published between 2026-11-20 13:19 UTC and 2026-11-20 14:18 UTC.
+New crates published between 2026-11-20 14:18 UTC and 2026-11-20 15:20 UTC.
 
-[Full CSV](data/new-crates-2026-11-20T14-18-45-676457Z.csv)
+[Full CSV](data/new-crates-2026-11-20T15-20-44-182404Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-20 13:20:36 | [noonoo-hx](https://crates.io/crates/noonoo-hx) | 0.20.0 | 0 | Noonoo's htmx-like layer: declarative attributes driving fetch + DOM swaps. |
-| 2026-11-20 13:21:15 | [rectiling](https://crates.io/crates/rectiling) | 1.0.0 | 0 | Exact enumeration of tilings of a rectangle by similar rectangles. |
-| 2026-11-20 13:21:59 | [sidenote](https://crates.io/crates/sidenote) | 0.2.1 | 0 | Per-repo scratch notes in your terminal, stored outside the repo |
-| 2026-11-20 13:25:29 | [hol-cigar](https://crates.io/crates/hol-cigar) | 0.14.2 | 0 | Open-source context engineering protocol for AI agents: governed retrieval, bou… |
-| 2026-11-20 13:26:31 | [iquji-community-agent-wire](https://crates.io/crates/iquji-community-agent-wire) | 0.2.0 | 0 | Rust types and validation for agent requests, events and process supervision. |
-| 2026-11-20 13:26:41 | [iquji-community-agent](https://crates.io/crates/iquji-community-agent) | 0.2.0 | 0 | Rust library and CLI for connecting to locally configured coding agents. |
-| 2026-11-20 13:30:49 | [noonoo-ini](https://crates.io/crates/noonoo-ini) | 0.20.0 | 0 | Noonoo's INI parser: sections and key/value pairs to a value model. |
-| 2026-11-20 13:31:50 | [whotop](https://crates.io/crates/whotop) | 0.1.1 | 0 | Who is your computer talking to? A btop-style terminal monitor focused on netwo… |
-| 2026-11-20 13:34:23 | [summa-propisyu](https://crates.io/crates/summa-propisyu) | 0.1.0 | 0 | Money amounts in words for invoices and contracts: Russian, Ukrainian, Lithuani… |
-| 2026-11-20 13:40:04 | [y901-backend-x11](https://crates.io/crates/y901-backend-x11) | 0.2.5 | 0 | X11 backend for Y901. |
-| 2026-11-20 13:41:02 | [noonoo-shell](https://crates.io/crates/noonoo-shell) | 0.20.0 | 0 | Noonoo's document host: multiple documents in one window, routed and composited. |
-| 2026-11-20 13:43:37 | [nespra_admin](https://crates.io/crates/nespra_admin) | 0.1.0 | 0 | Unofficial async Rust client for the Vespa operational APIs: health, status and… |
-| 2026-11-20 13:47:28 | [werker](https://crates.io/crates/werker) | 0.1.0 | 0 | A stdio MCP server that uses a Forgejo repository as an issue tracker for codin… |
-| 2026-11-20 13:50:41 | [tuigv-core](https://crates.io/crates/tuigv-core) | 0.1.1 | 0 | Pure async genomics data layer for tuigv: regions, remote range I/O, alignment… |
-| 2026-11-20 13:51:08 | [tuigv-render](https://crates.io/crates/tuigv-render) | 0.1.1 | 0 | Graphical SVG, PNG, circular Circos chord, and Kitty/iTerm2/Sixel terminal pixe… |
-| 2026-11-20 13:51:08 | [rigv](https://crates.io/crates/rigv) | 0.1.0 | 0 | Rust port of the Integrative Genomics Viewer (IGV) with desktop GUI and headles… |
-| 2026-11-20 13:51:14 | [noonoo-xml](https://crates.io/crates/noonoo-xml) | 0.20.0 | 0 | Noonoo's XML parser: documents into the noonoo-dom tree. |
-| 2026-11-20 13:51:25 | [tuigv-serve](https://crates.io/crates/tuigv-serve) | 0.1.1 | 0 | Local HTTP server that bidirectionally mirrors the tuigv TUI view in igv.js. |
-| 2026-11-20 13:52:06 | [tuigv](https://crates.io/crates/tuigv) | 0.1.0 | 0 | Interactive terminal & headless genome viewer supporting BAM/CRAM/SAM/PAF, VCF/… |
-| 2026-11-20 13:55:00 | [rigvtools](https://crates.io/crates/rigvtools) | 0.1.0 | 0 | Companion CLI genomic utilities (faidx, sort, count, info) for rigv |
-| 2026-11-20 13:56:21 | [rune-cloud-ranges](https://crates.io/crates/rune-cloud-ranges) | 0.1.0 | 0 | Cloud and CDN IP-range datasets (AWS, Google, Azure, Cloudflare, Fastly, Oracle… |
-| 2026-11-20 13:56:24 | [rune-cookie](https://crates.io/crates/rune-cookie) | 0.1.0 | 0 | RFC 6265 cookies: Set-Cookie/Cookie parsing and serialization, cookie dates, an… |
-| 2026-11-20 13:56:28 | [rune-cookie-sec](https://crates.io/crates/rune-cookie-sec) | 0.1.0 | 0 | Analyze Set-Cookie headers for weak security attributes, reporting rune-finding… |
-| 2026-11-20 13:56:31 | [rune-cors](https://crates.io/crates/rune-cors) | 0.1.0 | 0 | Analyze CORS response headers for dangerous origin, credential and allowlist co… |
-| 2026-11-20 13:56:35 | [rune-csp](https://crates.io/crates/rune-csp) | 0.1.1 | 0 | Parse, analyze and canonicalize Content-Security-Policy headers, reporting weak… |
-| 2026-11-20 13:58:51 | [arcadia-macros](https://crates.io/crates/arcadia-macros) | 0.1.1 | 0 | Procedural macros for the Arcadia Rust backend framework |
-| 2026-11-20 13:58:55 | [arcadia-framework](https://crates.io/crates/arcadia-framework) | 0.1.1 | 0 | A NestJS-inspired modular backend framework for Rust |
-| 2026-11-20 14:01:11 | [y901-backend-win32](https://crates.io/crates/y901-backend-win32) | 0.2.5 | 0 | Win32 / D3D11 backend for Y901. |
-| 2026-11-20 14:01:28 | [noonoo-svg](https://crates.io/crates/noonoo-svg) | 0.20.0 | 0 | Noonoo's SVG parser: an SVG subset rendered to paint commands. |
-| 2026-11-20 14:02:54 | [egui_mineral_eframe](https://crates.io/crates/egui_mineral_eframe) | 0.0.0 | 0 | Placeholder for egui_mineral_eframe, part of the egui_mineral UI framework; rel… |
-| 2026-11-20 14:04:14 | [coinolive](https://crates.io/crates/coinolive) | 1.0.0 | 0 | Coino Live API v2 client: accept crypto payments, custody users, withdrawals an… |
-| 2026-11-20 14:05:13 | [rune-cve](https://crates.io/crates/rune-cve) | 0.1.0 | 0 | CVE and NVD 2.0 record model with CPE 2.3 parsing and version-range matching |
-| 2026-11-20 14:11:10 | [y901-backend-web](https://crates.io/crates/y901-backend-web) | 0.2.5 | 0 | Y901 browser (wasm32) backend: canvas presentation, DOM input, rAF pacing |
-| 2026-11-20 14:11:41 | [noonoo-toml](https://crates.io/crates/noonoo-toml) | 0.20.0 | 0 | Noonoo's TOML parser: a documented subset into the JSON value model. |
-| 2026-11-20 14:14:58 | [rune-ml-metrics](https://crates.io/crates/rune-ml-metrics) | 0.1.0 | 0 | Model evaluation metrics — classification, ranking (ROC/PR), regression and clu… |
+| 2026-11-20 14:20:15 | [payswitch](https://crates.io/crates/payswitch) | 0.1.0 | 0 | Deterministic, sub-millisecond cross-border financial switching and double-entr… |
+| 2026-11-20 14:20:45 | [sdelete-gui](https://crates.io/crates/sdelete-gui) | 2.0.0 | 0 | Windows Explorer context-menu manager and sequential batch runner for Microsoft… |
+| 2026-11-20 14:21:07 | [y901-shell](https://crates.io/crates/y901-shell) | 0.2.5 | 0 | Platform selection and OS adapters (clipboard, secrets) for Y901. |
+| 2026-11-20 14:21:54 | [noonoo-ttf](https://crates.io/crates/noonoo-ttf) | 0.20.0 | 0 | Noonoo's TrueType/OpenType parser: font metrics, cmap, and a Shaper. |
+| 2026-11-20 14:24:22 | [wsdp](https://crates.io/crates/wsdp) | 0.1.0 | 0 | Async high-level client for ČÚZK WSDP real-estate cadastre services |
+| 2026-11-20 14:25:13 | [rune-diff](https://crates.io/crates/rune-diff) | 0.1.0 | 0 | Myers line/word diff with unified output, volatile-field masking and structural… |
+| 2026-11-20 14:32:07 | [noonoo](https://crates.io/crates/noonoo) | 0.20.0 | 0 | Noonoo: a modular HTML/CSS rendering engine, and the `noonoo` command line. |
+| 2026-11-20 14:34:53 | [y901](https://crates.io/crates/y901) | 0.2.5 | 0 | Y901 —— 纯 Rust 桌面 UI 框架的单一入口（re-export 全部子 crate + prelude）。 |
+| 2026-11-20 14:35:11 | [rune-egress-proxy](https://crates.io/crates/rune-egress-proxy) | 0.1.0 | 0 | Allowlisted, default-deny HTTP CONNECT egress proxy: host/CIDR allowlists, SSRF… |
+| 2026-11-20 14:37:33 | [parsec-html-core](https://crates.io/crates/parsec-html-core) | 0.1.0 | 0 | The core of parsec-html: an HTML parser that follows the WHATWG spec, with CSS… |
+| 2026-11-20 14:37:35 | [parsec-html-encoding](https://crates.io/crates/parsec-html-encoding) | 0.1.0 | 0 | Bytes into Parsec: the HTML Standard's encoding sniffing over the WHATWG Encodi… |
+| 2026-11-20 14:37:37 | [parsec-url](https://crates.io/crates/parsec-url) | 0.1.0 | 0 | WHATWG URL, URLSearchParams and IDNA for Parsec, tested against the web-platfor… |
+| 2026-11-20 14:37:39 | [parsec-xpath](https://crates.io/crates/parsec-xpath) | 0.1.0 | 0 | XPath 1.0 over Parsec's HTML document tree. |
+| 2026-11-20 14:37:41 | [parsec-html-css](https://crates.io/crates/parsec-html-css) | 0.1.0 | 0 | CSS Syntax Level 3 for Parsec: tokenizer, parser, An+B and serialization, teste… |
+| 2026-11-20 14:42:20 | [noonoo-vello](https://crates.io/crates/noonoo-vello) | 0.20.0 | 0 | Opt-in: render a Noonoo command stream with Vello (GPU). |
+| 2026-11-20 14:45:13 | [rune-epss](https://crates.io/crates/rune-epss) | 0.1.0 | 0 | EPSS exploit-probability scores and the CISA KEV catalog, parsed from their fee… |
+| 2026-11-20 14:46:24 | [tr064](https://crates.io/crates/tr064) | 0.1.0 | 0 | Vendor-neutral client for the TR-064 (UPnP/SOAP) device management protocol |
+| 2026-11-20 14:46:27 | [model-fm3](https://crates.io/crates/model-fm3) | 0.4.0 | 0 | Reads FM3 metamodels (Moose/Famix) exported as JSON into typed structs |
+| 2026-11-20 14:46:30 | [model-traits](https://crates.io/crates/model-traits) | 0.4.0 | 0 | Composable trait schema (name, props, relations, containment) generated from th… |
+| 2026-11-20 14:47:10 | [model-moose](https://crates.io/crates/model-moose) | 0.4.0 | 0 | Imports and exports Moose/Famix JSON models, with a diff report against a Model… |
+| 2026-11-20 14:47:22 | [model-session](https://crates.io/crates/model-session) | 0.4.0 | 0 | Demand-driven model import: require(scope, traits) runs only the layers (struct… |
+| 2026-11-20 14:50:08 | [textarea-cli](https://crates.io/crates/textarea-cli) | 0.1.0 | 0 | Command line client for reading, writing and editing plaintext Textarea notes |
+| 2026-11-20 14:50:54 | [positorium](https://crates.io/crates/positorium) | 0.3.1-beta.6 | 0 | Embedded evidence database for conflicting and evolving information, with the T… |
+| 2026-11-20 14:55:13 | [rune-favicon-hash](https://crates.io/crates/rune-favicon-hash) | 0.1.0 | 0 | Shodan-style favicon hash: signed MurmurHash3-32 over the MIME-wrapped base64 o… |
+| 2026-11-20 14:59:48 | [df-pascal-core](https://crates.io/crates/df-pascal-core) | 0.0.1-beta | 0 | Pascal SDK for Rust: markets, books, trades, candles, accounts, orders, trading… |
+| 2026-11-20 15:03:12 | [rustic-rails](https://crates.io/crates/rustic-rails) | 0.0.1 | 0 | Self-contained `rustic` CLI for Rails db:create (MySQL 8.x). Library API is not… |
+| 2026-11-20 15:04:04 | [blochs-derive](https://crates.io/crates/blochs-derive) | 0.1.0 | 0 | Compile-time MCP tool declarations and refusal codes |
+| 2026-11-20 15:04:55 | [rune-chain-macros](https://crates.io/crates/rune-chain-macros) | 0.1.0 | 0 | Proc macros for rune-chain: #[tool] turns a function into an LLM tool with a ge… |
+| 2026-11-20 15:12:14 | [whippyflight-control](https://crates.io/crates/whippyflight-control) | 0.1.0 | 0 | Gain-scheduled LQR attitude-rate controller for multirotors, firmware-agnostic… |
+| 2026-11-20 15:12:16 | [whippyflight-sim](https://crates.io/crates/whippyflight-sim) | 0.1.0 | 0 | Nonlinear multirotor plant and stick-flick evaluation for whippyflight-control |
+| 2026-11-20 15:12:34 | [hearandspeak](https://crates.io/crates/hearandspeak) | 0.1.0 | 0 | CPU streaming speech recognition (Parakeet TDT) and text to speech (Kokoro), pu… |
+| 2026-11-20 15:15:03 | [rune-vectorstore-qdrant](https://crates.io/crates/rune-vectorstore-qdrant) | 0.1.0 | 0 | Qdrant backend for rune-vectorstore over the REST API: collections, batched ups… |
 
 ## Data source
 

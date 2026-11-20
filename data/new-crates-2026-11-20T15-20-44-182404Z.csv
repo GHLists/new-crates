@@ -1,0 +1,33 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-20T14:20:15.59154Z,payswitch,0.1.0,0,0,https://github.com/Exploidus/payswitch,"Deterministic, sub-millisecond cross-border financial switching and double-entry settlement engine in Rust"
+2026-11-20T14:20:45.582497Z,sdelete-gui,2.0.0,0,0,https://github.com/aaron-c-s-ramos/SDelete-Gui,Windows Explorer context-menu manager and sequential batch runner for Microsoft Sysinternals SDelete
+2026-11-20T14:21:07.814775Z,y901-shell,0.2.5,0,0,https://github.com/901548/y901,"Platform selection and OS adapters (clipboard, secrets) for Y901."
+2026-11-20T14:21:54.157846Z,noonoo-ttf,0.20.0,0,0,https://github.com/nixpt/noonoo,"Noonoo's TrueType/OpenType parser: font metrics, cmap, and a Shaper."
+2026-11-20T14:24:22.151083Z,wsdp,0.1.0,0,0,https://github.com/interaso/wsdp,Async high-level client for ČÚZK WSDP real-estate cadastre services
+2026-11-20T14:25:13.268174Z,rune-diff,0.1.0,0,0,https://github.com/alexile/runes,"Myers line/word diff with unified output, volatile-field masking and structural HTTP response diff (status, headers, JSON and text bodies)"
+2026-11-20T14:32:07.21276Z,noonoo,0.20.0,0,0,https://github.com/nixpt/noonoo,"Noonoo: a modular HTML/CSS rendering engine, and the `noonoo` command line."
+2026-11-20T14:34:53.181891Z,y901,0.2.5,0,0,https://github.com/901548/y901,Y901 —— 纯 Rust 桌面 UI 框架的单一入口（re-export 全部子 crate + prelude）。
+2026-11-20T14:35:11.48142Z,rune-egress-proxy,0.1.0,0,0,https://github.com/alexile/runes,"Allowlisted, default-deny HTTP CONNECT egress proxy: host/CIDR allowlists, SSRF guard against non-global addresses, and DNS pinning"
+2026-11-20T14:37:33.130759Z,parsec-html-core,0.1.0,0,0,https://github.com/parsec-html/parsec,"The core of parsec-html: an HTML parser that follows the WHATWG spec, with CSS selectors and a mutable DOM. Depend on parsec-html."
+2026-11-20T14:37:35.177531Z,parsec-html-encoding,0.1.0,0,0,https://github.com/parsec-html/parsec,Bytes into Parsec: the HTML Standard's encoding sniffing over the WHATWG Encoding Standard's encodings.
+2026-11-20T14:37:37.217453Z,parsec-url,0.1.0,0,0,https://github.com/parsec-html/parsec,"WHATWG URL, URLSearchParams and IDNA for Parsec, tested against the web-platform-tests URL suite."
+2026-11-20T14:37:39.38595Z,parsec-xpath,0.1.0,0,0,https://github.com/parsec-html/parsec,XPath 1.0 over Parsec's HTML document tree.
+2026-11-20T14:37:41.478909Z,parsec-html-css,0.1.0,0,0,https://github.com/parsec-html/parsec,"CSS Syntax Level 3 for Parsec: tokenizer, parser, An+B and serialization, tested against css-parsing-tests."
+2026-11-20T14:42:20.844381Z,noonoo-vello,0.20.0,0,0,https://github.com/nixpt/noonoo,Opt-in: render a Noonoo command stream with Vello (GPU).
+2026-11-20T14:45:13.695021Z,rune-epss,0.1.0,0,0,https://github.com/alexile/runes,"EPSS exploit-probability scores and the CISA KEV catalog, parsed from their feeds and joined by CVE id"
+2026-11-20T14:46:24.09589Z,tr064,0.1.0,0,0,https://github.com/udondan/fritz,Vendor-neutral client for the TR-064 (UPnP/SOAP) device management protocol
+2026-11-20T14:46:27.63989Z,model-fm3,0.4.0,0,0,https://github.com/badetitou/Model,Reads FM3 metamodels (Moose/Famix) exported as JSON into typed structs
+2026-11-20T14:46:30.515341Z,model-traits,0.4.0,0,0,https://github.com/badetitou/Model,"Composable trait schema (name, props, relations, containment) generated from the FM3 description of FamixJava"
+2026-11-20T14:47:10.487589Z,model-moose,0.4.0,0,0,https://github.com/badetitou/Model,"Imports and exports Moose/Famix JSON models, with a diff report against a Model built from sources"
+2026-11-20T14:47:22.634195Z,model-session,0.4.0,0,0,https://github.com/badetitou/Model,"Demand-driven model import: require(scope, traits) runs only the layers (structure, resolution, derived) the traits need"
+2026-11-20T14:50:08.045288Z,textarea-cli,0.1.0,0,0,,"Command line client for reading, writing and editing plaintext Textarea notes"
+2026-11-20T14:50:54.948146Z,positorium,0.3.1-beta.6,0,0,https://github.com/Roenbaeck/positorium,"Embedded evidence database for conflicting and evolving information, with the Traqula query language"
+2026-11-20T14:55:13.048932Z,rune-favicon-hash,0.1.0,0,0,https://github.com/alexile/runes,Shodan-style favicon hash: signed MurmurHash3-32 over the MIME-wrapped base64 of the icon bytes
+2026-11-20T14:59:48.578076Z,df-pascal-core,0.0.1-beta,0,0,https://github.com/dennisfurrer/df-pascal-core,"Pascal SDK for Rust: markets, books, trades, candles, accounts, orders, trading keys, withdrawals, deposits, referrals and websocket streams, with exact decimals and Ed25519 permits signed in Rust. N…"
+2026-11-20T15:03:12.919152Z,rustic-rails,0.0.1,0,0,https://github.com/ichylinux/rustic-rails,Self-contained `rustic` CLI for Rails db:create (MySQL 8.x). Library API is not stable in 0.x.
+2026-11-20T15:04:04.791559Z,blochs-derive,0.1.0,0,0,,Compile-time MCP tool declarations and refusal codes
+2026-11-20T15:04:55.430346Z,rune-chain-macros,0.1.0,0,0,https://github.com/alexile/runes,"Proc macros for rune-chain: #[tool] turns a function into an LLM tool with a generated JSON Schema, #[derive(Embed)] marks the text fields to embed"
+2026-11-20T15:12:14.921846Z,whippyflight-control,0.1.0,0,0,https://github.com/Oblarg/whippyflight,"Gain-scheduled LQR attitude-rate controller for multirotors, firmware-agnostic and no_std"
+2026-11-20T15:12:16.767736Z,whippyflight-sim,0.1.0,0,0,https://github.com/Oblarg/whippyflight,Nonlinear multirotor plant and stick-flick evaluation for whippyflight-control
+2026-11-20T15:12:34.646988Z,hearandspeak,0.1.0,0,0,https://github.com/RobViren/hearandspeak,"CPU streaming speech recognition (Parakeet TDT) and text to speech (Kokoro), pure Rust, AVX2"
+2026-11-20T15:15:03.359342Z,rune-vectorstore-qdrant,0.1.0,0,0,https://github.com/alexile/runes,"Qdrant backend for rune-vectorstore over the REST API: collections, batched upserts, filtered search, delete by id or filter, bounded responses"
