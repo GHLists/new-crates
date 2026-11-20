@@ -1,0 +1,59 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-20T20:22:25.368592Z,neotales-resilience-http,0.0.0-alpha.1,0,0,https://github.com/neotales/rs-retry,HTTP classification and replay checks for neotales-resilience
+2026-11-20T20:22:43.695342Z,neotales-ssh,0.0.0-alpha.1,0,0,https://github.com/neotales/rs-ssh,"SSH-2 wire codec, key exchange, authentication and transport"
+2026-11-20T20:23:52.240116Z,build-time-macros,1.0.0,0,0,https://github.com/lordmulder/build-time-macros,Provides simple proc-macros for getting the build date and time.
+2026-11-20T20:25:24.159367Z,rustmake,0.1.0,0,0,https://github.com/zhanxw/rustmake,"A fast, faithful Rust port of the Snakemake workflow management system"
+2026-11-20T20:29:39.976908Z,lib-conf-traits,0.0.1,0,0,https://github.com/kylekingcdn/lib-conf-rs,`lib-conf` core traits
+2026-11-20T20:30:21.580809Z,tensix-isa,0.1.1,0,0,https://github.com/zinedinp/tensix-isa,"Tenstorrent Blackhole hardware description: instruction encoders, register and memory maps, NoC coordinate spaces, tile formats, numerics models and the host/firmware protocol. no_std, re-exports the…"
+2026-11-20T20:30:32.993755Z,taim_futures,0.15.0-rc.1,0,0,https://github.com/theaimartco/taim,"Commands, subscriptions, and future executors for taim"
+2026-11-20T20:32:31.470246Z,tpt-math-splat,0.1.0,0,0,https://github.com/tpt-solutions/tpt-math,"no_std math primitives for 3D/4D Gaussian splatting: symmetric covariance matrices, 4D time-conditioning, spherical harmonics, Morton/Hilbert ordering. No allocator."
+2026-11-20T20:33:27.348068Z,gloci-core,0.1.0,0,0,https://github.com/duartemolha/gloci,"Core types for gloci: intervals, genomes, errors and sort orders (internal crate, no stable API)."
+2026-11-20T20:33:29.774223Z,gloci-chains,0.1.0,0,0,https://github.com/duartemolha/gloci,"Built-in human chain files for gloci liftover: GRCh37 and GRCh38 from Ensembl (no restrictions). Internal crate, no stable API."
+2026-11-20T20:33:33.565402Z,gloci-chains-t2t,0.1.0,0,0,https://github.com/duartemolha/gloci,"Built-in T2T-CHM13v2 chain files for gloci liftover, from the T2T consortium (CC0). Internal crate, no stable API."
+2026-11-20T20:34:07.028706Z,gloci-io,0.1.0,0,0,https://github.com/duartemolha/gloci,"Readers and writers for gloci: BED, GFF, VCF, BCF, BGZF, tabix and the built-in genome tables (internal crate, no stable API)."
+2026-11-20T20:34:17.724028Z,gloci-engine,0.1.0,0,0,https://github.com/duartemolha/gloci,"Interval index, sweep and external-sort engines for gloci (internal crate, no stable API)."
+2026-11-20T20:34:45.664992Z,distlock-proto,0.2.0,0,0,https://github.com/loggerheads-with-binary/distlock,Protobuf wire types for distlock
+2026-11-20T20:34:49.333314Z,distlock-core,0.2.0,0,0,https://github.com/loggerheads-with-binary/distlock,"Pure, synchronous lock-table state machine for distlock"
+2026-11-20T20:35:00.120384Z,distlock-client,0.2.0,0,0,https://github.com/loggerheads-with-binary/distlock,Async and blocking client for the distlock server
+2026-11-20T20:35:13.963946Z,distlock-server,0.2.0,0,0,https://github.com/loggerheads-with-binary/distlock,TCP lock server for distlock
+2026-11-20T20:35:43.326327Z,spri,0.0.1,0,0,https://github.com/hupe1980/telco-interop,"S/PRI (AK S&P) open-access carrier interface for German fibre: typed, sans-I/O orders, provider switches and faults between network owner and service provider. Placeholder; work in progress."
+2026-11-20T20:35:46.610169Z,wbci,0.0.1,0,0,https://github.com/hupe1980/telco-interop,"WBCI (WITA Based Carrier Interface, AK S&P): typed, sans-I/O messages for the German § 59 TKG provider switch and number porting between carriers. Placeholder; work in progress."
+2026-11-20T20:36:49.400527Z,sandogasa-depcheck,0.29.0,0,0,https://github.com/slopfest/sandogasa,Check what an RPM update does to the packages that depend on it
+2026-11-20T20:36:55.97362Z,wita-kit,0.0.1,0,0,https://github.com/hupe1980/telco-interop,"WITA (Deutsche Telekom wholesale ordering interface): typed, sans-I/O orders and reports for service providers on Telekom lines. Unofficial. Placeholder; work in progress."
+2026-11-20T20:38:51.341141Z,onboardapi-sys,9.10.0,0,0,https://github.com/DoctorApparatus/onboardapi-rs,"Raw FFI to the Rheinmetall onboardapi C++ SDK through a generated extern ""C"" shim"
+2026-11-20T20:40:16.358479Z,onboardapi,9.10.0,0,0,https://github.com/DoctorApparatus/onboardapi-rs,"Safe, async Rust wrapper for the Rheinmetall onboardapi (DDS based service/client middleware)"
+2026-11-20T20:40:19.873581Z,taim_debug,0.15.0-rc.1,0,0,https://github.com/theaimartco/taim,A pluggable API for debugging taim applications
+2026-11-20T20:41:56.802972Z,lidar-cli,0.2.0,0,0,https://github.com/opengeos/lidar-rs,"Command-line interface for lidar-rs: DEM filtering, sink extraction, nested depression/mount delineation, and LiDAR point cloud tools in pure Rust"
+2026-11-20T20:42:57.523969Z,sandogasa-fedocal,0.29.0,0,0,https://github.com/slopfest/sandogasa,"Fedora Calendar (fedocal) client: read entries, add them with Kerberos"
+2026-11-20T20:44:31.395909Z,kbctl,0.1.0,0,0,https://github.com/noirbizarre/kbctl,A unified control plane for programmable keyboards
+2026-11-20T20:45:07.697176Z,gloci-vcf,0.1.0,0,0,https://github.com/duartemolha/gloci,"VCF and BCF record operations for gloci (internal crate, no stable API)."
+2026-11-20T20:45:54.727346Z,aws-sdk-agentdiscovery,1.0.0,0,0,https://github.com/awslabs/aws-sdk-rust,AWS SDK for Agent Discovery
+2026-11-20T20:46:10.388019Z,aws-sdk-apiportal,1.0.0,0,0,https://github.com/awslabs/aws-sdk-rust,AWS SDK for APIPortal
+2026-11-20T20:47:57.980652Z,desiccant-props,0.1.0,0,0,https://github.com/NatLabRockies/DesiccantProps,Thermophysical properties of aqueous liquid desiccants for HVAC simulation
+2026-11-20T20:50:34.85139Z,aws-sdk-payments,1.0.0,0,0,https://github.com/awslabs/aws-sdk-rust,AWS SDK for AWS Payments
+2026-11-20T20:51:08.323062Z,aws-sdk-sagemakergatewayruntime,1.0.0,0,0,https://github.com/awslabs/aws-sdk-rust,AWS SDK for Amazon SageMaker Gateway Runtime
+2026-11-20T20:53:03.249876Z,helios-python,0.1.0,0,0,https://github.com/ryancinsight/helios,"Thin PyO3 binding surface for Helios radiotherapy planning, imaging, and dosimetry"
+2026-11-20T20:53:03.909918Z,helios-solver,0.1.0,0,0,https://github.com/ryancinsight/helios,Helios computational engines: deterministic material-property and dose/imaging kernels over voxel volumes (CPU reference; GPU backend via helios-gpu).
+2026-11-20T20:53:05.107019Z,helios-gpu,0.1.0,0,0,https://github.com/ryancinsight/helios,Helios GPU compute layer: dispatch over the hephaestus ComputeDevice/wgpu backend for imaging and dose kernels.
+2026-11-20T20:53:05.725294Z,helios-imaging,0.1.0,0,0,https://github.com/ryancinsight/helios,Helios radiation-imaging: MVCT forward projection (parallel-beam Radon) and reconstruction.
+2026-11-20T20:53:06.819Z,helios-simulation,0.1.0,0,0,https://github.com/ryancinsight/helios,Helios time-dependent helical TomoTherapy delivery/acquisition simulation: gantry rotation + couch translation driving forward projection over time.
+2026-11-20T20:55:15.250718Z,gloci-ops,0.1.0,0,0,https://github.com/duartemolha/gloci,"The interval and VCF operations behind the gloci subcommands (internal crate, no stable API)."
+2026-11-20T21:00:02.343351Z,specport,0.29.0,0,0,https://github.com/slopfest/sandogasa,"Port RPM specs between build systems, starting with autotools to Meson"
+2026-11-20T21:00:41.803465Z,timebook,0.29.0,0,0,https://github.com/slopfest/sandogasa,Find free Fedora meeting rooms and check bookings in Fedora Calendar
+2026-11-20T21:00:54.178296Z,epistat-matching,0.1.0,0,0,https://github.com/tkragholm/epistat,"Cohort matching for register studies: nearest-neighbour matching under calipers and constraints, and risk-set matching, with results that do not depend on the number of threads"
+2026-11-20T21:02:33.431913Z,metis-core,0.5.0,0,0,https://github.com/ryancinsight/metis,"Shared wire types, integrity primitives, capability tokens, and errors for Metis"
+2026-11-20T21:05:23.19236Z,gloci,0.1.0,0,0,https://github.com/duartemolha/gloci,"Fast genomic interval and VCF toolkit: a single binary that replaces bedtools, bedops and vcftools."
+2026-11-20T21:10:37.995575Z,usesmileid,13.1.0,0,0,https://github.com/smileidentity/smileid-sdk-rust,Smile ID V3 server-side SDK for Rust
+2026-11-20T21:12:31.615315Z,metis-ipc,0.5.0,0,0,https://github.com/ryancinsight/metis,"Length-prefixed binary IPC transport, channel abstractions, framing, and fault injection for Metis"
+2026-11-20T21:17:46.663057Z,filtra,0.0.0,0,0,https://github.com/LaurenzV/filtra,Applies SVG and CSS filter effects to pixmaps.
+2026-11-20T21:17:47.022534Z,filtra_kernels,0.0.0,0,0,https://github.com/LaurenzV/filtra,Filter effect kernels on premultiplied RGBA8 pixmaps.
+2026-11-20T21:17:47.795728Z,filtra_plan,0.0.0,0,0,https://github.com/LaurenzV/filtra,Plans the evaluation of SVG and CSS filter effects.
+2026-11-20T21:17:48.422253Z,filtra_types,0.0.0,0,0,https://github.com/LaurenzV/filtra,Types describing SVG and CSS filter effects.
+2026-11-20T21:18:24.103692Z,strata-chromium-surface,0.1.0,0,0,https://github.com/strataui/strata,"Isolated on-demand Chromium subprocess harness, OSR shared memory compositor, and native WebView bridge"
+2026-11-20T21:18:25.435237Z,strata-devtools,0.1.0,0,0,https://github.com/strataui/strata,"In-Process Overlay HUD, Frame Profiler, Reactive DAG Inspector, and Time-Travel Debugger for Strata"
+2026-11-20T21:18:26.546868Z,strata-mobile-test,0.1.0,0,0,https://github.com/strataui/strata,"Automated Mobile Testing, Pure-Rust ADB Client, Multi-Backend Emulator Orchestration, and Foldable Posture Testing for Strata"
+2026-11-20T21:18:27.70462Z,strata-sim,0.1.0,0,0,https://github.com/strataui/strata,Strata Native Mobile Device Simulator and Virtual Phone Operating System in Pure Rust
+2026-11-20T21:18:29.21419Z,strata-tui,0.1.0,0,0,https://github.com/strataui/strata,Terminal User Interface (TUI) target backend for Strata
+2026-11-20T21:19:40.387325Z,fibrs,0.4.0,0,0,https://github.com/praveenperera/fibrs,Native drop-in for Qual's AVF_SPLINE_GENERATOR 0.2.0: traces AFV V/H fibre predictions into the same .afv
+2026-11-20T21:21:19.784353Z,interpreter,1.0.0,0,0,https://github.com/dylan-sutton-chavez/interpreter,"Build language runtimes in Rust on a register VM with op budgets, exact memory metering, a GC and snapshots, plus kernels, a WebAssembly plugin kit and a CLI kit."
+2026-11-20T21:21:34.905523Z,symsync,0.1.0,0,0,https://github.com/palani-johnson/symsync,A stateful symlink farm manager for dotfiles

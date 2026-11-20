@@ -8,74 +8,72 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-20 20:20 UTC
+## Latest list — 2026-11-20 21:22 UTC
 
-New crates published between 2026-11-20 19:19 UTC and 2026-11-20 20:20 UTC.
+New crates published between 2026-11-20 20:20 UTC and 2026-11-20 21:22 UTC.
 
-[Full CSV](data/new-crates-2026-11-20T20-20-46-726519Z.csv)
+[Full CSV](data/new-crates-2026-11-20T21-22-07-438558Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-20 19:20:37 | [webscour](https://crates.io/crates/webscour) | 0.2.0 | 0 | Keyless search from the command line: a local SearXNG first, then the scrapers,… |
-| 2026-11-20 19:22:58 | [octo-work](https://crates.io/crates/octo-work) | 1.0.2 | 0 | A fast, keyboard-driven CLI and TUI workspace manager for Octopus AI agent harn… |
-| 2026-11-20 19:23:09 | [kernoid](https://crates.io/crates/kernoid) | 0.0.0 | 0 | Reserved for kernoid – the server and command-line program. The first release f… |
-| 2026-11-20 19:23:48 | [rune-attn](https://crates.io/crates/rune-attn) | 0.1.0 | 0 | Tiled online-softmax attention forward and backward in O(N) memory: causal, sli… |
-| 2026-11-20 19:25:21 | [neotales-retry](https://crates.io/crates/neotales-retry) | 0.0.0-alpha.0 | 0 | An immutable retry policy with fixed, exponential, and jittered backoff, and no… |
-| 2026-11-20 19:25:28 | [ecies-post-quantum](https://crates.io/crates/ecies-post-quantum) | 0.1.0 | 0 | Post-quantum Cryptography Integrated Encryption Scheme in Rust |
-| 2026-11-20 19:29:05 | [strata-components](https://crates.io/crates/strata-components) | 0.1.0 | 0 | Comprehensive high-level component library and design system for Strata |
-| 2026-11-20 19:32:15 | [kernoid-tui](https://crates.io/crates/kernoid-tui) | 0.0.0 | 0 | Reserved for kernoid – the terminal app. The first release follows. |
-| 2026-11-20 19:33:54 | [jmap-quotas-types](https://crates.io/crates/jmap-quotas-types) | 0.6.0 | 0 | JMAP Quotas data types — Quota, Scope, ResourceType (RFC 9425) |
-| 2026-11-20 19:34:29 | [oxidi_axum](https://crates.io/crates/oxidi_axum) | 0.7.0 | 0 | Axum integration for the Oxidi zero-cost dependency injection framework |
-| 2026-11-20 19:34:52 | [oxidi_actix](https://crates.io/crates/oxidi_actix) | 0.7.0 | 0 | Actix-web integration for the Oxidi zero-cost dependency injection framework |
-| 2026-11-20 19:35:20 | [oxidi_rocket](https://crates.io/crates/oxidi_rocket) | 0.7.0 | 0 | Rocket integration for the Oxidi zero-cost dependency injection framework |
-| 2026-11-20 19:35:21 | [neotales-resilience](https://crates.io/crates/neotales-resilience) | 0.0.0-alpha.0 | 0 | A policy pipeline for timeouts, retries, circuit breakers, and load shedding, w… |
-| 2026-11-20 19:37:00 | [rune-fused](https://crates.io/crates/rune-fused) | 0.1.0 | 0 | Fused transformer training ops with backward on f32 slices: RMSNorm, LayerNorm,… |
-| 2026-11-20 19:38:57 | [strata-parallel](https://crates.io/crates/strata-parallel) | 0.1.0 | 0 | Multi-threaded parallel subtree reconciliation and layout engine for Strata |
-| 2026-11-20 19:41:21 | [kernoid-operator](https://crates.io/crates/kernoid-operator) | 0.0.0 | 0 | Reserved for kernoid – the Kubernetes operator. The first release follows. |
-| 2026-11-20 19:41:29 | [add_one_pp](https://crates.io/crates/add_one_pp) | 0.1.0 | 0 | a crate to practice crate publishing |
-| 2026-11-20 19:42:52 | [lrsqueeze](https://crates.io/crates/lrsqueeze) | 0.9.1 | 0 | Lossy archives for Oxford Nanopore and PacBio long reads that pipelines read li… |
-| 2026-11-20 19:43:17 | [rune-optim](https://crates.io/crates/rune-optim) | 0.1.0 | 0 | Optimizers and schedules for large-model training: AdamW, Lion, Adafactor, Muon… |
-| 2026-11-20 19:47:48 | [lrqc](https://crates.io/crates/lrqc) | 0.9.1 | 0 | Per-barcode QC reports for Oxford Nanopore and PacBio long reads |
-| 2026-11-20 19:48:46 | [strata-table](https://crates.io/crates/strata-table) | 0.1.0 | 0 | Headless Data Grid & Table Engine for Strata |
-| 2026-11-20 19:48:54 | [dns-net](https://crates.io/crates/dns-net) | 0.3.0 | 0 | DNS resolver for Rust: sans-IO message encoding and decoding, a cache, UDP and… |
-| 2026-11-20 19:49:23 | [light-reactivity](https://crates.io/crates/light-reactivity) | 0.20.0 | 0 | Light Reactivity: сигналы, реактивные свойства и обозреватели (из light-fw-core) |
-| 2026-11-20 19:49:29 | [light-vdom](https://crates.io/crates/light-vdom) | 0.20.0 | 0 | VDOM, layout, DOM tree and runtime for the Light UI framework (stage 3 of the l… |
-| 2026-11-20 19:49:35 | [light-gui](https://crates.io/crates/light-gui) | 0.20.0 | 0 | Light GUI: окно winit, события ввода, a11y-мост, рендер-бэкенды и асинхронный р… |
-| 2026-11-20 19:49:40 | [light-render-cpu](https://crates.io/crates/light-render-cpu) | 0.20.0 | 0 | Light Render (CPU): программная отрисовка через softbuffer (вынесено из light-g… |
-| 2026-11-20 19:49:47 | [light-render-gpu](https://crates.io/crates/light-render-gpu) | 0.20.0 | 0 | Light Render (GPU): показ кадра через pixels/wgpu (вынесено из light-gui, 0.20.… |
-| 2026-11-20 19:51:54 | [tensix-insn](https://crates.io/crates/tensix-insn) | 0.1.0 | 0 | Tenstorrent Blackhole Tensix instruction encoders (generated from the ISA speci… |
-| 2026-11-20 19:51:55 | [tensix-noc](https://crates.io/crates/tensix-noc) | 0.1.0 | 0 | Tenstorrent Blackhole NoC coordinate spaces, NIU registers, GDDR channels, ARC… |
-| 2026-11-20 19:51:55 | [tensix-numerics](https://crates.io/crates/tensix-numerics) | 0.1.0 | 0 | Bit-exact models of Tenstorrent Blackhole arithmetic: FMA, SFPU and stochastic… |
-| 2026-11-20 19:51:56 | [tensix-regs](https://crates.io/crates/tensix-regs) | 0.1.0 | 0 | Tenstorrent Blackhole Tensix tile memory map, baby RISC-V cores and the backend… |
-| 2026-11-20 19:51:56 | [tensix-tile](https://crates.io/crates/tensix-tile) | 0.1.0 | 0 | Tenstorrent Blackhole tile layout in L1 and data formats, including block-float… |
-| 2026-11-20 19:53:21 | [ratelab](https://crates.io/crates/ratelab) | 0.1.0 | 0 | Rate limiting with measured trade-offs: token bucket, leaky bucket, fixed and s… |
-| 2026-11-20 19:53:49 | [kernoid-mime](https://crates.io/crates/kernoid-mime) | 0.0.0 | 0 | Reserved for kernoid – reading and writing mail messages (MIME). The first rele… |
-| 2026-11-20 19:55:04 | [taim-motion](https://crates.io/crates/taim-motion) | 0.15.0-rc.1 | 0 | Frame-clock-driven, interruptible motion primitives for Taim |
-| 2026-11-20 19:55:05 | [taim-raster](https://crates.io/crates/taim-raster) | 0.15.0-rc.1 | 0 | Flat scene encoding and tiled compute-raster contracts for Taim |
-| 2026-11-20 19:55:06 | [taim-signal](https://crates.io/crates/taim-signal) | 0.15.0-rc.1 | 0 | Fine-grained, thread-safe reactive state for Taim |
-| 2026-11-20 19:55:07 | [taim_atlas](https://crates.io/crates/taim_atlas) | 0.15.0-rc.1 | 0 | TAIM's generational skyline and free-rectangle atlas allocator |
-| 2026-11-20 19:55:13 | [taim_core](https://crates.io/crates/taim_core) | 0.15.0-rc.1 | 0 | The essential ideas of taim |
-| 2026-11-20 19:56:06 | [node-device-session](https://crates.io/crates/node-device-session) | 7.6.210 | 0 | Shared server for /econ-v1/device-session/1 behind transport-neutral traits (C-… |
-| 2026-11-20 19:58:48 | [strata-toast](https://crates.io/crates/strata-toast) | 0.1.0 | 0 | Stacked Toast Notification Engine for Strata |
-| 2026-11-20 20:02:07 | [taim-gesture](https://crates.io/crates/taim-gesture) | 0.15.0-rc.1 | 0 | A unified pointer gesture arena for taim: competition, capture, cancellation, a… |
-| 2026-11-20 20:07:25 | [tensix-fw-abi](https://crates.io/crates/tensix-fw-abi) | 0.1.0 | 0 | The host/firmware protocol of the tensix stack on Tenstorrent Blackhole: L1 reg… |
-| 2026-11-20 20:07:26 | [tensix-layout](https://crates.io/crates/tensix-layout) | 0.1.0 | 0 | Host-side tilization for Tenstorrent Blackhole: strided row-major tensors to th… |
-| 2026-11-20 20:08:32 | [octo-com](https://crates.io/crates/octo-com) | 1.0.0 | 0 | A fast CLI and keyboard-driven TUI for managing Octopus $$ command definitions |
-| 2026-11-20 20:08:41 | [strata-ui-platform](https://crates.io/crates/strata-ui-platform) | 0.1.0 | 0 | Native Hardware Abstraction Layer for Android, iOS, macOS, Windows, Linux, and… |
-| 2026-11-20 20:10:39 | [frogquad](https://crates.io/crates/frogquad) | 0.5.0 | 0 | Simple and easy to use graphics library |
-| 2026-11-20 20:11:45 | [taim-highlighter](https://crates.io/crates/taim-highlighter) | 0.15.0-rc.1 | 0 | Dependency-free incremental syntax highlighting for Taim |
-| 2026-11-20 20:13:11 | [jmap-quotas-client](https://crates.io/crates/jmap-quotas-client) | 0.6.0 | 0 | JMAP Quotas HTTP client — extension trait over jmap-base-client (RFC 9425) |
-| 2026-11-20 20:13:12 | [jmap-quotas-server](https://crates.io/crates/jmap-quotas-server) | 0.6.0 | 0 | JMAP Quotas method handlers (RFC 9425 Quota/get, /changes, /query, /queryChange… |
-| 2026-11-20 20:17:19 | [h2-net](https://crates.io/crates/h2-net) | 0.3.1 | 0 | Sans-IO HTTP/2 engine for Rust: frames, HPACK, streams and flow control, with t… |
-| 2026-11-20 20:17:29 | [ultra-instinct-chrome](https://crates.io/crates/ultra-instinct-chrome) | 0.1.1 | 0 | Find and start a local Chrome / Chromium with a DevTools port for ultra-instinc… |
-| 2026-11-20 20:18:30 | [ultra-instinct-browser-tools](https://crates.io/crates/ultra-instinct-browser-tools) | 0.1.1 | 0 | browser_* MCP tool families (browser-use-compatible host surface) for ultra-ins… |
-| 2026-11-20 20:18:51 | [ultra-instinct-verbs](https://crates.io/crates/ultra-instinct-verbs) | 0.1.1 | 0 | ultra-instinct shell verbs and the session daemon |
-| 2026-11-20 20:19:54 | [taim-profiler](https://crates.io/crates/taim-profiler) | 0.15.0-rc.1 | 0 | Low-overhead, privacy-preserving instrumentation for Taim |
-| 2026-11-20 20:20:07 | [frenz-proto](https://crates.io/crates/frenz-proto) | 0.1.0 | 0 | Wire-protocol decoders and command encoders for the FRENZ brainband (no I/O, no… |
-| 2026-11-20 20:20:10 | [tensix-units](https://crates.io/crates/tensix-units) | 0.1.0 | 0 | Checked builders for the Tenstorrent Blackhole Tensix units: SFPU, backend conf… |
-| 2026-11-20 20:20:10 | [frenz](https://crates.io/crates/frenz) | 0.1.0 | 0 | Async client for the FRENZ brainband over Bluetooth LE: streams, commands, loss… |
-| 2026-11-20 20:20:14 | [frenz-export](https://crates.io/crates/frenz-export) | 0.1.0 | 0 | Turn openfrenz recordings of the FRENZ brainband into time-aligned Parquet sess… |
-| 2026-11-20 20:20:19 | [frenz-cli](https://crates.io/crates/frenz-cli) | 0.1.0 | 0 | Command-line tool for the FRENZ brainband: scan, record, summarize |
+| 2026-11-20 20:22:25 | [neotales-resilience-http](https://crates.io/crates/neotales-resilience-http) | 0.0.0-alpha.1 | 0 | HTTP classification and replay checks for neotales-resilience |
+| 2026-11-20 20:22:43 | [neotales-ssh](https://crates.io/crates/neotales-ssh) | 0.0.0-alpha.1 | 0 | SSH-2 wire codec, key exchange, authentication and transport |
+| 2026-11-20 20:23:52 | [build-time-macros](https://crates.io/crates/build-time-macros) | 1.0.0 | 0 | Provides simple proc-macros for getting the build date and time. |
+| 2026-11-20 20:25:24 | [rustmake](https://crates.io/crates/rustmake) | 0.1.0 | 0 | A fast, faithful Rust port of the Snakemake workflow management system |
+| 2026-11-20 20:29:39 | [lib-conf-traits](https://crates.io/crates/lib-conf-traits) | 0.0.1 | 0 | `lib-conf` core traits |
+| 2026-11-20 20:30:21 | [tensix-isa](https://crates.io/crates/tensix-isa) | 0.1.1 | 0 | Tenstorrent Blackhole hardware description: instruction encoders, register and… |
+| 2026-11-20 20:30:32 | [taim_futures](https://crates.io/crates/taim_futures) | 0.15.0-rc.1 | 0 | Commands, subscriptions, and future executors for taim |
+| 2026-11-20 20:32:31 | [tpt-math-splat](https://crates.io/crates/tpt-math-splat) | 0.1.0 | 0 | no_std math primitives for 3D/4D Gaussian splatting: symmetric covariance matri… |
+| 2026-11-20 20:33:27 | [gloci-core](https://crates.io/crates/gloci-core) | 0.1.0 | 0 | Core types for gloci: intervals, genomes, errors and sort orders (internal crat… |
+| 2026-11-20 20:33:29 | [gloci-chains](https://crates.io/crates/gloci-chains) | 0.1.0 | 0 | Built-in human chain files for gloci liftover: GRCh37 and GRCh38 from Ensembl (… |
+| 2026-11-20 20:33:33 | [gloci-chains-t2t](https://crates.io/crates/gloci-chains-t2t) | 0.1.0 | 0 | Built-in T2T-CHM13v2 chain files for gloci liftover, from the T2T consortium (C… |
+| 2026-11-20 20:34:07 | [gloci-io](https://crates.io/crates/gloci-io) | 0.1.0 | 0 | Readers and writers for gloci: BED, GFF, VCF, BCF, BGZF, tabix and the built-in… |
+| 2026-11-20 20:34:17 | [gloci-engine](https://crates.io/crates/gloci-engine) | 0.1.0 | 0 | Interval index, sweep and external-sort engines for gloci (internal crate, no s… |
+| 2026-11-20 20:34:45 | [distlock-proto](https://crates.io/crates/distlock-proto) | 0.2.0 | 0 | Protobuf wire types for distlock |
+| 2026-11-20 20:34:49 | [distlock-core](https://crates.io/crates/distlock-core) | 0.2.0 | 0 | Pure, synchronous lock-table state machine for distlock |
+| 2026-11-20 20:35:00 | [distlock-client](https://crates.io/crates/distlock-client) | 0.2.0 | 0 | Async and blocking client for the distlock server |
+| 2026-11-20 20:35:13 | [distlock-server](https://crates.io/crates/distlock-server) | 0.2.0 | 0 | TCP lock server for distlock |
+| 2026-11-20 20:35:43 | [spri](https://crates.io/crates/spri) | 0.0.1 | 0 | S/PRI (AK S&P) open-access carrier interface for German fibre: typed, sans-I/O… |
+| 2026-11-20 20:35:46 | [wbci](https://crates.io/crates/wbci) | 0.0.1 | 0 | WBCI (WITA Based Carrier Interface, AK S&P): typed, sans-I/O messages for the G… |
+| 2026-11-20 20:36:49 | [sandogasa-depcheck](https://crates.io/crates/sandogasa-depcheck) | 0.29.0 | 0 | Check what an RPM update does to the packages that depend on it |
+| 2026-11-20 20:36:55 | [wita-kit](https://crates.io/crates/wita-kit) | 0.0.1 | 0 | WITA (Deutsche Telekom wholesale ordering interface): typed, sans-I/O orders an… |
+| 2026-11-20 20:38:51 | [onboardapi-sys](https://crates.io/crates/onboardapi-sys) | 9.10.0 | 0 | Raw FFI to the Rheinmetall onboardapi C++ SDK through a generated extern "C" sh… |
+| 2026-11-20 20:40:16 | [onboardapi](https://crates.io/crates/onboardapi) | 9.10.0 | 0 | Safe, async Rust wrapper for the Rheinmetall onboardapi (DDS based service/clie… |
+| 2026-11-20 20:40:19 | [taim_debug](https://crates.io/crates/taim_debug) | 0.15.0-rc.1 | 0 | A pluggable API for debugging taim applications |
+| 2026-11-20 20:41:56 | [lidar-cli](https://crates.io/crates/lidar-cli) | 0.2.0 | 0 | Command-line interface for lidar-rs: DEM filtering, sink extraction, nested dep… |
+| 2026-11-20 20:42:57 | [sandogasa-fedocal](https://crates.io/crates/sandogasa-fedocal) | 0.29.0 | 0 | Fedora Calendar (fedocal) client: read entries, add them with Kerberos |
+| 2026-11-20 20:44:31 | [kbctl](https://crates.io/crates/kbctl) | 0.1.0 | 0 | A unified control plane for programmable keyboards |
+| 2026-11-20 20:45:07 | [gloci-vcf](https://crates.io/crates/gloci-vcf) | 0.1.0 | 0 | VCF and BCF record operations for gloci (internal crate, no stable API). |
+| 2026-11-20 20:45:54 | [aws-sdk-agentdiscovery](https://crates.io/crates/aws-sdk-agentdiscovery) | 1.0.0 | 0 | AWS SDK for Agent Discovery |
+| 2026-11-20 20:46:10 | [aws-sdk-apiportal](https://crates.io/crates/aws-sdk-apiportal) | 1.0.0 | 0 | AWS SDK for APIPortal |
+| 2026-11-20 20:47:57 | [desiccant-props](https://crates.io/crates/desiccant-props) | 0.1.0 | 0 | Thermophysical properties of aqueous liquid desiccants for HVAC simulation |
+| 2026-11-20 20:50:34 | [aws-sdk-payments](https://crates.io/crates/aws-sdk-payments) | 1.0.0 | 0 | AWS SDK for AWS Payments |
+| 2026-11-20 20:51:08 | [aws-sdk-sagemakergatewayruntime](https://crates.io/crates/aws-sdk-sagemakergatewayruntime) | 1.0.0 | 0 | AWS SDK for Amazon SageMaker Gateway Runtime |
+| 2026-11-20 20:53:03 | [helios-python](https://crates.io/crates/helios-python) | 0.1.0 | 0 | Thin PyO3 binding surface for Helios radiotherapy planning, imaging, and dosime… |
+| 2026-11-20 20:53:03 | [helios-solver](https://crates.io/crates/helios-solver) | 0.1.0 | 0 | Helios computational engines: deterministic material-property and dose/imaging… |
+| 2026-11-20 20:53:05 | [helios-gpu](https://crates.io/crates/helios-gpu) | 0.1.0 | 0 | Helios GPU compute layer: dispatch over the hephaestus ComputeDevice/wgpu backe… |
+| 2026-11-20 20:53:05 | [helios-imaging](https://crates.io/crates/helios-imaging) | 0.1.0 | 0 | Helios radiation-imaging: MVCT forward projection (parallel-beam Radon) and rec… |
+| 2026-11-20 20:53:06 | [helios-simulation](https://crates.io/crates/helios-simulation) | 0.1.0 | 0 | Helios time-dependent helical TomoTherapy delivery/acquisition simulation: gant… |
+| 2026-11-20 20:55:15 | [gloci-ops](https://crates.io/crates/gloci-ops) | 0.1.0 | 0 | The interval and VCF operations behind the gloci subcommands (internal crate, n… |
+| 2026-11-20 21:00:02 | [specport](https://crates.io/crates/specport) | 0.29.0 | 0 | Port RPM specs between build systems, starting with autotools to Meson |
+| 2026-11-20 21:00:41 | [timebook](https://crates.io/crates/timebook) | 0.29.0 | 0 | Find free Fedora meeting rooms and check bookings in Fedora Calendar |
+| 2026-11-20 21:00:54 | [epistat-matching](https://crates.io/crates/epistat-matching) | 0.1.0 | 0 | Cohort matching for register studies: nearest-neighbour matching under calipers… |
+| 2026-11-20 21:02:33 | [metis-core](https://crates.io/crates/metis-core) | 0.5.0 | 0 | Shared wire types, integrity primitives, capability tokens, and errors for Metis |
+| 2026-11-20 21:05:23 | [gloci](https://crates.io/crates/gloci) | 0.1.0 | 0 | Fast genomic interval and VCF toolkit: a single binary that replaces bedtools,… |
+| 2026-11-20 21:10:37 | [usesmileid](https://crates.io/crates/usesmileid) | 13.1.0 | 0 | Smile ID V3 server-side SDK for Rust |
+| 2026-11-20 21:12:31 | [metis-ipc](https://crates.io/crates/metis-ipc) | 0.5.0 | 0 | Length-prefixed binary IPC transport, channel abstractions, framing, and fault… |
+| 2026-11-20 21:17:46 | [filtra](https://crates.io/crates/filtra) | 0.0.0 | 0 | Applies SVG and CSS filter effects to pixmaps. |
+| 2026-11-20 21:17:47 | [filtra_kernels](https://crates.io/crates/filtra_kernels) | 0.0.0 | 0 | Filter effect kernels on premultiplied RGBA8 pixmaps. |
+| 2026-11-20 21:17:47 | [filtra_plan](https://crates.io/crates/filtra_plan) | 0.0.0 | 0 | Plans the evaluation of SVG and CSS filter effects. |
+| 2026-11-20 21:17:48 | [filtra_types](https://crates.io/crates/filtra_types) | 0.0.0 | 0 | Types describing SVG and CSS filter effects. |
+| 2026-11-20 21:18:24 | [strata-chromium-surface](https://crates.io/crates/strata-chromium-surface) | 0.1.0 | 0 | Isolated on-demand Chromium subprocess harness, OSR shared memory compositor, a… |
+| 2026-11-20 21:18:25 | [strata-devtools](https://crates.io/crates/strata-devtools) | 0.1.0 | 0 | In-Process Overlay HUD, Frame Profiler, Reactive DAG Inspector, and Time-Travel… |
+| 2026-11-20 21:18:26 | [strata-mobile-test](https://crates.io/crates/strata-mobile-test) | 0.1.0 | 0 | Automated Mobile Testing, Pure-Rust ADB Client, Multi-Backend Emulator Orchestr… |
+| 2026-11-20 21:18:27 | [strata-sim](https://crates.io/crates/strata-sim) | 0.1.0 | 0 | Strata Native Mobile Device Simulator and Virtual Phone Operating System in Pur… |
+| 2026-11-20 21:18:29 | [strata-tui](https://crates.io/crates/strata-tui) | 0.1.0 | 0 | Terminal User Interface (TUI) target backend for Strata |
+| 2026-11-20 21:19:40 | [fibrs](https://crates.io/crates/fibrs) | 0.4.0 | 0 | Native drop-in for Qual's AVF_SPLINE_GENERATOR 0.2.0: traces AFV V/H fibre pred… |
+| 2026-11-20 21:21:19 | [interpreter](https://crates.io/crates/interpreter) | 1.0.0 | 0 | Build language runtimes in Rust on a register VM with op budgets, exact memory… |
+| 2026-11-20 21:21:34 | [symsync](https://crates.io/crates/symsync) | 0.1.0 | 0 | A stateful symlink farm manager for dotfiles |
 
 ## Data source
 
