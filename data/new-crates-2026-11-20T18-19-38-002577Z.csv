@@ -1,0 +1,67 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-20T17:21:59.368426Z,kernoid-files,0.0.0,0,0,https://github.com/kernoid/kernoid,Reserved for kernoid – the file store. The first release follows.
+2026-11-20T17:26:41.842588Z,vep-builtins,0.6.0,0,0,https://github.com/natera-open-source/vep-rs,"Built-in plugins and custom annotation sources of vep-rs, a Rust reimplementation of Ensembl VEP"
+2026-11-20T17:27:09.344265Z,strata-i18n,0.1.0,0,0,https://github.com/strataui/strata,"Pure-Rust reactive internationalization (i18n), ICU MessageFormat, and localization engine for Strata"
+2026-11-20T17:29:44.449151Z,rusty_raster,0.1.0,0,0,https://github.com/Remade-With-Rust/remade_ffmpeg_rs,"Pure-Rust 2D rasteriser with a tiny-skia-shaped API: anti-aliased fill and stroke (joins, caps, dashes, hairlines), gradients, blend modes, masks and pixmap drawing. A hardened, forbid(unsafe_code),…"
+2026-11-20T17:29:54.00345Z,rusty_svgtree,0.1.0,0,0,https://github.com/Remade-With-Rust/remade_ffmpeg_rs,"Pure-Rust SVG parser and renderer: parses SVG into a simplified render tree (usvg-style: paths, shapes, transforms, viewBox, CSS, gradients, use/symbol, clip paths, masks, group opacity, embedded PNG…"
+2026-11-20T17:30:30.087733Z,skarmory_python,0.0.1,0,0,https://github.com/eddiethedean/skarmory,Python language frontend for Skarmory
+2026-11-20T17:30:31.641782Z,skarmory_core,0.0.1,0,0,https://github.com/eddiethedean/skarmory,Shared native analysis engine for Skarmory
+2026-11-20T17:30:33.25311Z,skarmory_bindings,0.0.1,0,0,https://github.com/eddiethedean/skarmory,PyO3 bindings for the Skarmory engine
+2026-11-20T17:30:33.504992Z,skarmory_cli,0.0.1,0,0,https://github.com/eddiethedean/skarmory,Native command-line interface for Skarmory
+2026-11-20T17:34:05.957621Z,kernoid-groupware,0.0.0,0,0,https://github.com/kernoid/kernoid,Reserved for kernoid – calendars and contacts. The first release follows.
+2026-11-20T17:36:58.51487Z,vep-cli,0.6.0,0,0,https://github.com/natera-open-source/vep-rs,"The vep command: a fast Rust reimplementation of the Ensembl Variant Effect Predictor (VEP) for VCF variant annotation, with VEP's flags and output formats"
+2026-11-20T17:38:23.428184Z,strata-macro,0.1.0,0,0,https://github.com/strataui/strata,"Procedural macros for Strata: rsx! declarative syntax, #[component], and dynamic! macro"
+2026-11-20T17:43:12.219752Z,kernoid-pim,0.0.0,0,0,https://github.com/kernoid/kernoid,"Reserved for kernoid – iCalendar, vCard, JSCalendar and JSContact. The first release follows."
+2026-11-20T17:44:22.278162Z,kernodb-core,1.0.0-alpha.1,0,0,https://github.com/Rixmerz/kernodb,"Contract, error model, write batches and VFS of the Kerno storage engine"
+2026-11-20T17:44:35.402298Z,kernodb-storage,1.0.0-alpha.1,0,0,https://github.com/Rixmerz/kernodb,Kerno storage engine: leveled LSM tree on the frozen on-disk format v1
+2026-11-20T17:44:49.728976Z,kernodb-units,1.0.0-alpha.1,0,0,https://github.com/Rixmerz/kernodb,"Kerno units layer: typed units, revisions, relations, indexes and derived data over the storage engine"
+2026-11-20T17:45:01.194295Z,kernodb,1.0.0-alpha.1,0,0,https://github.com/Rixmerz/kernodb,"Kerno: an embedded database of units, revisions and relations, behind one entry point"
+2026-11-20T17:45:08.372851Z,nym-lp-gateway-client,3.0.0,0,0,https://github.com/nymtech/nym,"How a client talks the Lewes Protocol to a gateway, directly or telescoped through another"
+2026-11-20T17:47:08.086418Z,vep-cache-builder,0.6.0,0,0,https://github.com/natera-open-source/vep-rs,"Builds the transcript cache of vep-rs, a Rust reimplementation of Ensembl VEP, from Ensembl GFF3, protein FASTA and variation VCF release files"
+2026-11-20T17:47:30.514471Z,veyterm,0.1.0,0,0,https://github.com/velortechnologies/veyterm,A terminal for autonomous agents (OpenClaw-compatible)
+2026-11-20T17:48:00.896072Z,rstun,26.410.100,0,0,https://github.com/exvlan/rstun,"Standalone STUN/TURN server (RFC 5389 Binding with optional short/long-term authentication; RFC 5780 NAT behaviour discovery with `--alt-listen`; RFC 8656 relay with `--turn`: UDP/TCP, `turns:` (TLS)…"
+2026-11-20T17:48:13.725651Z,richdem,0.1.0,0,0,https://github.com/opengeos/richdem-rs,"High-performance DEM hydrologic and terrain analysis in pure Rust (port of Richard Barnes's RichDEM), using terrio for GDAL-free raster I/O"
+2026-11-20T17:48:15.276249Z,strata-icons,0.1.0,0,0,https://github.com/strataui/strata,"Built-in vector icon system with over 1,000+ icons and subpixel GPU rendering for Strata"
+2026-11-20T17:48:20.092132Z,richdem-cli,0.1.0,0,0,https://github.com/opengeos/richdem-rs,Command-line tools for richdem-rs (pure-Rust port of RichDEM's rd_* utilities)
+2026-11-20T17:52:18.02585Z,kernoid-jmap,0.0.0,0,0,https://github.com/kernoid/kernoid,Reserved for kernoid – JMAP. The first release follows.
+2026-11-20T17:53:13.606428Z,visado-authzen,0.3.0,0,0,https://github.com/kanywst/visado,"OpenID AuthZEN 1.0 evaluation client, with a profile for agents acting for a principal."
+2026-11-20T17:53:13.996694Z,visado-chain,0.3.0,0,0,https://github.com/kanywst/visado,Format-neutral model of a verified delegation chain.
+2026-11-20T17:53:14.204296Z,visado-txn-token,0.3.0,0,0,https://github.com/kanywst/visado,"Mint, verify and replace OAuth Transaction Tokens (draft-ietf-oauth-transaction-tokens)."
+2026-11-20T17:53:15.328572Z,visado-chain-aat,0.3.0,0,0,https://github.com/kanywst/visado,Verify Attenuating Agent Token chains (draft-niyikiza-oauth-attenuating-agent-tokens).
+2026-11-20T17:53:15.638916Z,visado-chain-act,0.3.0,0,0,https://github.com/kanywst/visado,Read RFC 8693 act (actor) claims as delegation chains.
+2026-11-20T17:54:08.409081Z,seminer,0.1.0,0,0,,Automated software testing tool
+2026-11-20T17:55:02.987093Z,sn-tui,0.1.0,0,0,https://github.com/HoldenStill/sn-tui,"Lean terminal-native Supernote .note/.mark/PDF viewer, exporter, and Cloud/Private Cloud sync manager"
+2026-11-20T17:55:20.508836Z,opentide-parse,1.0.0-rc.1,0,0,https://github.com/opentidehq/opentide,"opentide engine component: the language-agnostic parsing toolkit of the pure-Rust parsers (logos token source, event parser, lossless rowan trees). Internal: depend on the opentide crate."
+2026-11-20T17:55:48.826096Z,opentide-schema-derive,1.0.0-rc.1,0,0,https://github.com/opentidehq/opentide,"opentide engine component: #[derive(FromNode)], the structural conversion of opentide-schema's models from the YAML node tree. Internal: depend on the opentide facade."
+2026-11-20T17:55:51.680358Z,opentide-schema,1.0.0-rc.1,0,0,https://github.com/opentidehq/opentide,"opentide engine component: the Tide model as Rust code (serde, garde, schemars, PyO3). Internal: depend on the opentide facade."
+2026-11-20T17:55:57.156972Z,opentide-workspace,1.0.0-rc.1,0,0,https://github.com/opentidehq/opentide,"opentide engine component: loading a Tide workspace into one shared index (discovery, configuration, parallel parse, invalidation). Internal: depend on the opentide facade."
+2026-11-20T17:55:59.986854Z,opentide-compile,1.0.0-rc.1,0,0,https://github.com/opentidehq/opentide,"opentide engine component: deploy compile and plan (request bodies per platform, status strategies, rule selection). Internal: depend on the opentide facade."
+2026-11-20T17:57:19.602419Z,vep-cache-converter,0.6.0,0,0,https://github.com/natera-open-source/vep-rs,Validates JSON caches for vep-cli runtime use and converts tabix plugin data to the binary annotation-store format
+2026-11-20T17:57:58.426697Z,helios-allocator,0.1.0,0,0,https://github.com/ryancinsight/helios,"Helios program allocator: installs the Mnemosyne global allocator in a binary, example, or benchmark."
+2026-11-20T17:57:58.554246Z,strata-motion,0.1.0,0,0,https://github.com/strataui/strata,"Spring Physics, Layout Transitions & Morphing Animation Engine for Strata"
+2026-11-20T17:58:00.464904Z,helios-quantities,0.1.0,0,0,https://github.com/ryancinsight/helios,"Helios foundation layer: typed errors, physical constants, and validating domain newtypes for radiation therapy and imaging."
+2026-11-20T17:58:02.439752Z,helios-math,0.1.0,0,0,https://github.com/ryancinsight/helios,Helios numeric seam (Scalar = eunomia::RealField) and geometry: leto primitives plus ray/AABB traversal.
+2026-11-20T17:58:03.851462Z,helios-domain,0.1.0,0,0,https://github.com/ryancinsight/helios,Helios domain layer: patient/imaging voxel-grid geometry and dense scalar volumes (CT/MVCT) with trilinear sampling.
+2026-11-20T17:58:04.373646Z,helios-physics,0.1.0,0,0,https://github.com/ryancinsight/helios,"Helios radiation-interaction physics: photon attenuation (Beer–Lambert), mass/linear attenuation, and CT-number-to-density calibration."
+2026-11-20T17:59:05.159922Z,nyxel-relay,0.1.0,0,0,https://github.com/elawbek/nyxel,The relay of nyxel games: players behind routers join each other through it
+2026-11-20T17:59:09.777537Z,nyxel,0.1.0,0,0,https://github.com/elawbek/nyxel,A 2D game engine in Rust (work in progress)
+2026-11-20T17:59:13.72957Z,nyxel-cli,0.1.0,0,0,https://github.com/elawbek/nyxel,"The nyxel command: makes, runs, checks, edits and releases games"
+2026-11-20T17:59:15.695785Z,nyxel-mcp,0.1.0,0,0,https://github.com/elawbek/nyxel,MCP server for agents working on nyxel games: drives a running game and checks a project's files
+2026-11-20T18:01:23.484401Z,kernoid-dav,0.0.0,0,0,https://github.com/kernoid/kernoid,Reserved for kernoid – CalDAV and CardDAV. The first release follows.
+2026-11-20T18:02:20.595158Z,mdview-cli,0.1.0,0,0,https://github.com/praveenjadhav1510/mdview,A feature-rich interactive terminal Markdown viewer (TUI)
+2026-11-20T18:02:29.678175Z,helios-planning,0.1.0,0,0,https://github.com/ryancinsight/helios,Helios inverse treatment planning: fluence-map / beam-weight optimization against dosimetric objectives.
+2026-11-20T18:05:00.841843Z,anits,0.1.0,0,0,https://github.com/arprge/anits,Fast terminal UI for managing your AniList anime library
+2026-11-20T18:06:29.112558Z,pida-tray,0.1.1,0,0,https://github.com/LeHuman/PiDA-Tray,Lightweight Windows system tray controller for a PiDA server
+2026-11-20T18:07:09.091853Z,opentide-connectors,1.0.0-rc.1,0,0,https://github.com/opentidehq/opentide,"opentide engine component: the tenant connectors (one HTTP client per tenant: TLS, CA, proxy, timeouts, retries; credentials, cancellation, progress). Internal: depend on the opentide facade (its `co…"
+2026-11-20T18:07:58.632886Z,rooste-tmux,0.6.0,0,0,https://github.com/rooste-ssh/rooste-ssh,Internal crate of Rooste SSH: parser and state machine for tmux control mode (tmux -CC). Not a stable API.
+2026-11-20T18:08:21.335604Z,strata-plugin-runtime,0.1.0,0,0,https://github.com/strataui/strata,Sandboxed dynamic plugin loader and runtime extension host for Project Strata
+2026-11-20T18:08:45.36414Z,stokehold,0.4.0,0,0,https://github.com/goddtriffin/toddstack,"stokehold (formerly heavy): a machine-wide admission queue for heavy jobs (builds, tests, GPU work). Reserves cores, RAM, VRAM and disk, runs jobs when they fit, and prints what each one used."
+2026-11-20T18:12:18.391859Z,visado-chain-asor,0.3.0,0,0,https://github.com/kanywst/visado,Verify Agent Delegation Chains (draft-asor-wimse-agent-delegation-chain).
+2026-11-20T18:12:18.807626Z,visado-credentials,0.3.0,0,0,https://github.com/kanywst/visado,"Caller authentication for visado: WIMSE WIT with WPT or HTTP signatures, mTLS, JWT-SVIDs and OAuth access tokens, bearer or DPoP-bound."
+2026-11-20T18:12:31.209462Z,helios-analysis,0.1.0,0,0,https://github.com/ryancinsight/helios,Helios dosimetric analysis: dose-volume histograms and the gamma index (dose-difference / distance-to-agreement) for plan/measurement comparison.
+2026-11-20T18:13:28.176418Z,kernoid-smtp,0.0.0,0,0,https://github.com/kernoid/kernoid,Reserved for kernoid – SMTP: receiving and sending. The first release follows.
+2026-11-20T18:16:04.065247Z,cmcr,0.1.0,0,0,,Legal chess move generator using ray-masking and pin-constrained bitboards
+2026-11-20T18:16:32.395922Z,skywire-protocol,1.0.0,0,0,,"SkyWire control messages, QUIC framing, and audio datagram codecs"
+2026-11-20T18:18:09.33389Z,strata-query,0.1.0,0,0,https://github.com/strataui/strata,"Pure-Rust asynchronous query caching, deduplication, and mutation engine for Strata"
+2026-11-20T18:18:14.336716Z,opentide-cli,1.0.0-rc.1,0,0,https://github.com/opentidehq/opentide,"opentide engine component: the command line (command tree, output modes, JSON envelope, exit codes, crash handler). Internal: depend on the opentide facade (its `cli` feature)."
+2026-11-20T18:18:17.246574Z,opentide,1.0.0-rc.1,0,0,https://github.com/opentidehq/opentide,"The opentide Rust SDK: open a Tide workspace, validate and lint it, read its catalogue and coverage, plan a deploy, run the command line. The only opentide crate with a stability promise."
