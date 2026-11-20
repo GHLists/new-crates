@@ -8,49 +8,68 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-20 08:18 UTC
+## Latest list — 2026-11-20 09:20 UTC
 
-New crates published between 2026-11-20 07:19 UTC and 2026-11-20 08:18 UTC.
+New crates published between 2026-11-20 08:18 UTC and 2026-11-20 09:20 UTC.
 
-[Full CSV](data/new-crates-2026-11-20T08-18-50-461528Z.csv)
+[Full CSV](data/new-crates-2026-11-20T09-20-36-245344Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-20 07:20:10 | [zod-guru](https://crates.io/crates/zod-guru) | 0.1.0 | 0 | zod-style schema validation for Rust - composable builders that validate serde_… |
-| 2026-11-20 07:22:46 | [corvid-agent-deck](https://crates.io/crates/corvid-agent-deck) | 0.3.6 | 0 | Agent activity and focus controls for Corvid |
-| 2026-11-20 07:23:45 | [hd_check](https://crates.io/crates/hd_check) | 0.0.1 | 0 | Body checking, trait solving, exhaustiveness, facts, coherence and initializati… |
-| 2026-11-20 07:25:49 | [ctfgarden-challenge](https://crates.io/crates/ctfgarden-challenge) | 0.1.0 | 0 | Challenge handling of CTFGarden: loading, preprocessing, flag checking and Kube… |
-| 2026-11-20 07:26:15 | [zigbee-ash](https://crates.io/crates/zigbee-ash) | 0.3.0 | 0 | Silicon Labs ASHv2 (Asynchronous Serial Host) framing and link layer for EZSP |
-| 2026-11-20 07:26:19 | [zigbee-primitives](https://crates.io/crates/zigbee-primitives) | 0.3.0 | 0 | Zigbee address, key and wire-format types shared by the zigbee-bridge crates |
-| 2026-11-20 07:26:25 | [ctfgarden-cli](https://crates.io/crates/ctfgarden-cli) | 0.1.0 | 0 | Develop CTFGarden challenges locally: lint them, render templates and run them… |
-| 2026-11-20 07:26:42 | [pathwaykit](https://crates.io/crates/pathwaykit) | 0.3.0 | 0 | Reading, writing, converting, editing, and analyzing biological pathways: KGML,… |
-| 2026-11-20 07:31:45 | [zfetch](https://crates.io/crates/zfetch) | 0.1.1 | 0 | A small, private-by-default native Linux system summary |
-| 2026-11-20 07:31:57 | [laburnum-macro](https://crates.io/crates/laburnum-macro) | 0.2.0 | 0 | Proc-macros for language frontends built with the laburnum LSP framework: CST a… |
-| 2026-11-20 07:32:09 | [pyrite-fs](https://crates.io/crates/pyrite-fs) | 0.1.0 | 0 | Capability-scoped physical and in-memory filesystems |
-| 2026-11-20 07:32:45 | [corvid-tui](https://crates.io/crates/corvid-tui) | 0.3.6 | 0 | Terminal multiplexer for coding agents |
-| 2026-11-20 07:32:52 | [polly-guru](https://crates.io/crates/polly-guru) | 0.1.0 | 0 | Polly-style resilience for Rust - retry with exponential backoff and jitter, ci… |
-| 2026-11-20 07:33:49 | [hd_host_abi](https://crates.io/crates/hd_host_abi) | 0.0.1 | 0 | Host import and ABI descriptions (hd compiler internals, no stable API; install… |
-| 2026-11-20 07:37:11 | [qubrics](https://crates.io/crates/qubrics) | 1.0.0 | 0 | Official async Rust SDK for the Qubrics Sending, Mailbox, and Management APIs. |
-| 2026-11-20 07:37:46 | [rich-guru](https://crates.io/crates/rich-guru) | 0.1.0 | 0 | rich-style terminal output for Rust - ANSI colors, styled text and aligned tabl… |
-| 2026-11-20 07:41:56 | [modelith-plugin-protocol](https://crates.io/crates/modelith-plugin-protocol) | 0.1.0 | 0 | Contract between Modelith and its plugins: manifest, registry entry, rule set,… |
-| 2026-11-20 07:43:53 | [hd_mono](https://crates.io/crates/hd_mono) | 0.0.1 | 0 | Monomorphizing collection over TIR (hd compiler internals, no stable API; insta… |
-| 2026-11-20 07:46:27 | [zigbee-deconz](https://crates.io/crates/zigbee-deconz) | 0.3.0 | 0 | dresden elektronik deCONZ serial protocol (ConBee, RaspBee) frames and an async… |
-| 2026-11-20 07:46:30 | [zigbee-ezsp](https://crates.io/crates/zigbee-ezsp) | 0.3.0 | 0 | Silicon Labs EZSP (EmberZNet Serial Protocol) frames and an async client, Ember… |
-| 2026-11-20 07:46:30 | [airust-pdf-backend](https://crates.io/crates/airust-pdf-backend) | 0.3.4 | 0 | Optional AIRust PDF backend with bounded small-object loading; derived from pdf… |
-| 2026-11-20 07:46:59 | [fmt-guru](https://crates.io/crates/fmt-guru) | 0.1.0 | 0 | runtime string templates for Rust - named and positional placeholders like {nam… |
-| 2026-11-20 07:52:46 | [zigbee-zcl](https://crates.io/crates/zigbee-zcl) | 0.3.0 | 0 | The Zigbee Cluster Library: data types, frames, global commands and cluster def… |
-| 2026-11-20 07:53:58 | [hd_layout](https://crates.io/crates/hd_layout) | 0.0.1 | 0 | Target-independent type layout: sizes, offsets, niches, enum encodings and the… |
-| 2026-11-20 07:57:38 | [cache-guru](https://crates.io/crates/cache-guru) | 0.1.0 | 0 | Go-style TTL cache for Rust - thread-safe in-memory cache with expiry, LRU-styl… |
-| 2026-11-20 08:02:34 | [zigbee-zdo](https://crates.io/crates/zigbee-zdo) | 0.3.0 | 0 | Zigbee Device Object frames: discovery, binding and network management |
-| 2026-11-20 08:04:02 | [hd_opt](https://crates.io/crates/hd_opt) | 0.0.1 | 0 | The pass manager: pass declarations, body-unit passes, pipelines as data, and t… |
-| 2026-11-20 08:06:11 | [nine_dev_site_lib](https://crates.io/crates/nine_dev_site_lib) | 0.1.0 | 0 | Embedded theme icons and fingerprinted asset lookup for 9 Developers websites |
-| 2026-11-20 08:06:34 | [speech-timeline](https://crates.io/crates/speech-timeline) | 0.1.0 | 0 | Whip's playback-driven speech pacing, text positions and source clock mapping |
-| 2026-11-20 08:06:40 | [voice-call-controls](https://crates.io/crates/voice-call-controls) | 0.1.0 | 0 | Portable microphone tool contract and logical-call timed-mute policy |
-| 2026-11-20 08:07:41 | [id-guru](https://crates.io/crates/id-guru) | 0.1.0 | 0 | Guru ID toolkit for Rust - UUID v4/v7, nanoid and ULID generators with a unifie… |
-| 2026-11-20 08:12:36 | [zigbee-znp](https://crates.io/crates/zigbee-znp) | 0.3.0 | 0 | Texas Instruments Z-Stack ZNP (Monitor and Test API) frames and an async client… |
-| 2026-11-20 08:14:06 | [hd_run](https://crates.io/crates/hd_run) | 0.0.1 | 0 | Engine-neutral program loading and run outcomes (hd compiler internals, no stab… |
-| 2026-11-20 08:14:52 | [modbus-connect](https://crates.io/crates/modbus-connect) | 0.1.0 | 0 | A robust, high-performance Modbus RTU/TCP framework with port serialization, de… |
-| 2026-11-20 08:16:08 | [es-locksmith](https://crates.io/crates/es-locksmith) | 0.2.1 | 0 | Merge and converge pnpm lockfiles |
+| 2026-11-20 08:19:17 | [mediatr-guru](https://crates.io/crates/mediatr-guru) | 0.1.0 | 0 | MediatR-style in-process mediator for Rust - typed request/response dispatch wi… |
+| 2026-11-20 08:19:42 | [ozzyyaml-parser](https://crates.io/crates/ozzyyaml-parser) | 0.1.0 | 0 | YAML 1.2.2 event parser with Unicode anchor support |
+| 2026-11-20 08:21:29 | [ozzyyaml](https://crates.io/crates/ozzyyaml) | 0.1.0 | 0 | YAML 1.2.2 Core-schema documents with shared aliases and cycles |
+| 2026-11-20 08:21:47 | [ozzyyaml-emit](https://crates.io/crates/ozzyyaml-emit) | 0.1.0 | 0 | Emit ozzyyaml Value graphs as YAML 1.2.2 text |
+| 2026-11-20 08:22:44 | [zigbee-sim](https://crates.io/crates/zigbee-sim) | 0.3.0 | 0 | A Zigbee network co-processor simulator (EZSP, ZNP, deCONZ) with simulated devi… |
+| 2026-11-20 08:24:12 | [hd_run_wasmtime](https://crates.io/crates/hd_run_wasmtime) | 0.0.1 | 0 | The in-process wasmtime engine and its host providers (hd compiler internals, n… |
+| 2026-11-20 08:29:37 | [devup-access-checker](https://crates.io/crates/devup-access-checker) | 0.1.1 | 0 | Collects SEO, GEO and web accessibility signals of a web page and reports what… |
+| 2026-11-20 08:29:46 | [devup-access-checker-cli](https://crates.io/crates/devup-access-checker-cli) | 0.1.1 | 0 | CLI that checks SEO, GEO and web accessibility signals of a URL |
+| 2026-11-20 08:32:44 | [zigbee-host](https://crates.io/crates/zigbee-host) | 0.3.0 | 0 | A Zigbee coordinator host: network formation, trust center, interview, reportin… |
+| 2026-11-20 08:34:16 | [hd_sched](https://crates.io/crates/hd_sched) | 0.0.1 | 0 | The task graph and its serial, stepping and pool executors (hd compiler interna… |
+| 2026-11-20 08:34:36 | [flare-redact](https://crates.io/crates/flare-redact) | 1.10.2 | 0 | Secret and PII redaction for logs, prompts and any JSON value, implementing the… |
+| 2026-11-20 08:35:24 | [senate-core](https://crates.io/crates/senate-core) | 0.1.0 | 0 | Senate contracts: ids, senator paths, addresses, mentions, the roster, locales,… |
+| 2026-11-20 08:35:27 | [senate-bridge](https://crates.io/crates/senate-bridge) | 0.1.0 | 0 | The developer-machine side of Senate: sessions, delivery, MCP tools and hooks f… |
+| 2026-11-20 08:35:28 | [senate-log](https://crates.io/crates/senate-log) | 0.1.0 | 0 | The committee log: one append-only log per committee, kept in memory, in Postgr… |
+| 2026-11-20 08:35:29 | [senate-work](https://crates.io/crates/senate-work) | 0.1.0 | 0 | The Speaker's hands: a Runner that does coding work on a Speaker branch (Claude… |
+| 2026-11-20 08:35:32 | [senate-server](https://crates.io/crates/senate-server) | 0.1.0 | 0 | The Senate server: supervision tree over the log, HTTP/SSE API for bridges, aut… |
+| 2026-11-20 08:37:57 | [haest-prompt](https://crates.io/crates/haest-prompt) | 0.4.0 | 0 | haest's opt-in system prompt templates: Jinja on MiniJinja, set up like Hugging… |
+| 2026-11-20 08:39:22 | [senate-speaker](https://crates.io/crates/senate-speaker) | 0.1.0 | 0 | The built-in Speaker: presides over the top Senate on basis. Understands what p… |
+| 2026-11-20 08:39:23 | [clairlune-live](https://crates.io/crates/clairlune-live) | 0.9.0 | 0 | Clairlune's live wallpaper: plays a scene behind the desktop icons, drawing onl… |
+| 2026-11-20 08:42:00 | [zwave-serial](https://crates.io/crates/zwave-serial) | 0.2.1 | 0 | Z-Wave Serial API host side: frames, ACK/NAK/CAN, retransmits, callbacks, typed… |
+| 2026-11-20 08:43:09 | [claude-code-agent-macros](https://crates.io/crates/claude-code-agent-macros) | 0.6.1 | 0 | Proc macros for claude-code-agent — #[claude_tool] generates ToolDef from async… |
+| 2026-11-20 08:43:12 | [claude-code-agent](https://crates.io/crates/claude-code-agent) | 0.6.1 | 0 | Rust SDK for Claude Code — persistent subprocess, hook callbacks, in-process to… |
+| 2026-11-20 08:43:36 | [gpui-pages-codegen](https://crates.io/crates/gpui-pages-codegen) | 0.1.0 | 0 | Filesystem route discovery and code generation for gpui-pages |
+| 2026-11-20 08:43:39 | [gpui-pages-macros](https://crates.io/crates/gpui-pages-macros) | 0.1.0 | 0 | Procedural macros for gpui-pages |
+| 2026-11-20 08:44:24 | [hd_wasm](https://crates.io/crates/hd_wasm) | 0.0.1 | 0 | The linear-memory backend: reference-counted values in Wasm linear memory, emit… |
+| 2026-11-20 08:44:38 | [gpui-pages](https://crates.io/crates/gpui-pages) | 0.1.0 | 0 | Directory-based routing library for GPUI |
+| 2026-11-20 08:48:57 | [paloverde-core](https://crates.io/crates/paloverde-core) | 0.0.1 | 0 | Principle data structures and orchestration for paloverde |
+| 2026-11-20 08:48:58 | [paloverde-gpu](https://crates.io/crates/paloverde-gpu) | 0.0.1 | 0 | GPU compilation library for paloverde |
+| 2026-11-20 08:48:59 | [paloverde](https://crates.io/crates/paloverde) | 0.0.1 | 0 | Core Rust library for paloverde |
+| 2026-11-20 08:49:25 | [senated](https://crates.io/crates/senated) | 0.1.0 | 0 | The Senate daemon, and the assembly library a private layer builds its own daem… |
+| 2026-11-20 08:49:25 | [ssi-fc-trading](https://crates.io/crates/ssi-fc-trading) | 2.0.0 | 0 | Typed async Rust client for SSI FastConnect V3 Trading: OTP/Smart OTP auth, sig… |
+| 2026-11-20 08:49:48 | [souple](https://crates.io/crates/souple) | 0.1.0 | 0 | An incremental CSS flexbox layout engine: a tree of boxes, lengths kept live ov… |
+| 2026-11-20 08:50:30 | [souple-syntax](https://crates.io/crates/souple-syntax) | 0.1.0 | 0 | CSS value text for the souple layout engine: lengths, calc(), min(), max(), cla… |
+| 2026-11-20 08:52:01 | [zwave-security](https://crates.io/crates/zwave-security) | 0.2.1 | 0 | Z-Wave S0 and S2 security for host stacks: key exchange, SPAN/MPAN nonces, enca… |
+| 2026-11-20 08:53:11 | [rtemis-r8-api](https://crates.io/crates/rtemis-r8-api) | 0.3.0 | 0 | R8's C services for an R package's Rust code: Rust-native types, their codecs,… |
+| 2026-11-20 08:53:55 | [moldette-cli](https://crates.io/crates/moldette-cli) | 0.4.0 | 0 | Command-line tool that checks moldette configurations and runs them over records |
+| 2026-11-20 08:54:30 | [hd_driver](https://crates.io/crates/hd_driver) | 0.0.1 | 0 | The one driver: the task graph of one compile run over the caller's sources, ca… |
+| 2026-11-20 08:55:43 | [simlink-source-sdk-macros](https://crates.io/crates/simlink-source-sdk-macros) | 1.0.0-rc.3 | 0 | The protocol! macro internal to simlink-source-sdk, not for use on its own |
+| 2026-11-20 08:55:45 | [simlink-source-sdk](https://crates.io/crates/simlink-source-sdk) | 1.0.0-rc.3 | 0 | Connects a flight simulator data source to Navigraph Simlink |
+| 2026-11-20 08:58:14 | [duolane](https://crates.io/crates/duolane) | 0.1.0 | 0 | Run Claude Code on your Claude and ChatGPT subscriptions at once, routed per mo… |
+| 2026-11-20 09:02:01 | [zwave-cc](https://crates.io/crates/zwave-cc) | 0.2.1 | 0 | Z-Wave command classes generated from data definitions: typed, bounded parsers… |
+| 2026-11-20 09:04:35 | [hd_fmt](https://crates.io/crates/hd_fmt) | 0.0.1 | 0 | The green-tree formatter behind `hd fmt` (hd compiler internals, no stable API;… |
+| 2026-11-20 09:06:37 | [urdf-body-filter](https://crates.io/crates/urdf-body-filter) | 0.1.0 | 0 | Cut a robot's own body out of a point cloud: the URDF's collision primitives po… |
+| 2026-11-20 09:10:46 | [proton-auth-rs](https://crates.io/crates/proton-auth-rs) | 0.1.0 | 0 | Credential storage for Proton apps: one secret-store trait, chunking for small… |
+| 2026-11-20 09:11:23 | [dyn-rt-shared](https://crates.io/crates/dyn-rt-shared) | 1.0.0 | 0 | Shared substrate for dyn-rt modules: the pure Value/Number model and the json e… |
+| 2026-11-20 09:11:30 | [dyn-rt-path](https://crates.io/crates/dyn-rt-path) | 1.0.0 | 0 | dyn-rt path module: JSONPath AST (domain), parse use cases (application), regex… |
+| 2026-11-20 09:12:00 | [ndfiltrs](https://crates.io/crates/ndfiltrs) | 0.2.0 | 0 | Fast NaN-aware N-dimensional filters for NumPy, implemented in Rust |
+| 2026-11-20 09:12:01 | [zwave-sim](https://crates.io/crates/zwave-sim) | 0.2.1 | 0 | A Z-Wave Serial API controller simulator with simulated nodes (S0, S2, sleeping… |
+| 2026-11-20 09:14:31 | [grow-casdoor](https://crates.io/crates/grow-casdoor) | 0.1.0 | 0 | Rust SDK for Casdoor by Grow Codes |
+| 2026-11-20 09:14:40 | [hd_lint](https://crates.io/crates/hd_lint) | 0.0.1 | 0 | Read-only advice over checked source facts, behind `hd lint` (hd compiler inter… |
+| 2026-11-20 09:15:34 | [dyn-rt-reflect-derive](https://crates.io/crates/dyn-rt-reflect-derive) | 1.0.0 | 0 | Derive macros for dyn-rt-reflect (ADR 0008): Reflect (base, Unknown), ReflectSt… |
+| 2026-11-20 09:15:44 | [dyn-rt-reflect](https://crates.io/crates/dyn-rt-reflect) | 1.0.0 | 0 | dyn-rt reflect module: general-purpose runtime reflection for Rust (go-reflect… |
+| 2026-11-20 09:15:52 | [dyn-rt-schema](https://crates.io/crates/dyn-rt-schema) | 1.0.0 | 0 | dyn-rt schema module: schema model (domain), validation + schema-path use cases… |
+| 2026-11-20 09:17:26 | [isds](https://crates.io/crates/isds) | 0.1.0 | 0 | Async high-level client for Czech ISDS data boxes |
 
 ## Data source
 
