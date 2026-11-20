@@ -8,67 +8,61 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-20 16:20 UTC
+## Latest list — 2026-11-20 17:19 UTC
 
-New crates published between 2026-11-20 15:20 UTC and 2026-11-20 16:20 UTC.
+New crates published between 2026-11-20 16:20 UTC and 2026-11-20 17:19 UTC.
 
-[Full CSV](data/new-crates-2026-11-20T16-20-10-925659Z.csv)
+[Full CSV](data/new-crates-2026-11-20T17-19-04-470298Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-20 15:22:14 | [subnetctl](https://crates.io/crates/subnetctl) | 0.1.0 | 0 | A small IPv4 CIDR subnet calculator (library + CLI) with RFC 3021 support |
-| 2026-11-20 15:22:30 | [m20-ctrlmcu](https://crates.io/crates/m20-ctrlmcu) | 0.1.0 | 0 | Deep Robotics M20 (Lynx) body control MCU on the AOS board's /dev/ttyS3: frame… |
-| 2026-11-20 15:24:56 | [rune-vectorstore-sqlite](https://crates.io/crates/rune-vectorstore-sqlite) | 0.1.0 | 0 | Embedded single-file SQLite vector store for rune-vectorstore: exact search wit… |
-| 2026-11-20 15:27:09 | [embedded-maths](https://crates.io/crates/embedded-maths) | 0.1.0 | 0 | No_std math functions for embedded Rust |
-| 2026-11-20 15:29:01 | [bonefish-core](https://crates.io/crates/bonefish-core) | 0.5.0 | 0 | Core alignment library for bonefish |
-| 2026-11-20 15:29:03 | [bonefish-aligner](https://crates.io/crates/bonefish-aligner) | 0.5.0 | 0 | Fast aligner for Oxford Nanopore DNA, RNA and cDNA reads and PacBio HiFi DNA (a… |
-| 2026-11-20 15:29:32 | [strata-build](https://crates.io/crates/strata-build) | 0.1.0 | 0 | Universal configuration loader, multi-format YAML/TOML engine, and dynamic buil… |
-| 2026-11-20 15:34:51 | [rune-chain-gemini](https://crates.io/crates/rune-chain-gemini) | 0.1.2 | 0 | Google Gemini LLM provider for rune-chain: Gemini API and Vertex AI, streaming,… |
-| 2026-11-20 15:36:16 | [strata-web-api](https://crates.io/crates/strata-web-api) | 0.1.0 | 0 | W3C Web Platform APIs in pure idiomatic Rust for Strata |
-| 2026-11-20 15:36:19 | [strata-js](https://crates.io/crates/strata-js) | 0.1.0 | 0 | JavaScript runtime and dynamic type emulation in pure Rust for Strata |
-| 2026-11-20 15:36:26 | [strata-vfs](https://crates.io/crates/strata-vfs) | 0.1.0 | 0 | Universal, sandboxed asynchronous Virtual File System with zero #[cfg] in user… |
-| 2026-11-20 15:36:28 | [strata-storage](https://crates.io/crates/strata-storage) | 0.1.0 | 0 | Pure-Rust Bitcask WAL engine, synchronous in-memory storage, and secure keystor… |
-| 2026-11-20 15:37:02 | [strata-primitives](https://crates.io/crates/strata-primitives) | 0.1.0 | 0 | Zero-dependency mathematical, geometric, color, atom, and memory primitives for… |
-| 2026-11-20 15:44:16 | [paintrs](https://crates.io/crates/paintrs) | 0.1.1 | 0 | A native Rust bitmap editor with a Windows 98-inspired interface |
-| 2026-11-20 15:44:24 | [storecfg](https://crates.io/crates/storecfg) | 0.1.0 | 0 | Helper for configuring OpenDAL operators or object_store object stores for appl… |
-| 2026-11-20 15:45:01 | [rune-vectorstore-pgvector](https://crates.io/crates/rune-vectorstore-pgvector) | 0.1.0 | 0 | PostgreSQL + pgvector backend for rune-vectorstore: HNSW or IVFFlat indexes, ba… |
-| 2026-11-20 15:47:49 | [secretguard](https://crates.io/crates/secretguard) | 0.1.2 | 0 | Sub-millisecond terminal secret interceptor and privacy guard for developers an… |
-| 2026-11-20 15:48:18 | [strata-audio](https://crates.io/crates/strata-audio) | 0.1.0 | 0 | Pure-Rust spatial 3D audio synthesizer and DSP engine for Project Strata |
-| 2026-11-20 15:48:30 | [pultr-platform](https://crates.io/crates/pultr-platform) | 0.0.6 | 0 | Ports of pultr: traits describing what it needs from the operating system |
-| 2026-11-20 15:48:33 | [pultr-mock](https://crates.io/crates/pultr-mock) | 0.0.6 | 0 | Fake adapter for pultr: scripted data for tests, demos and screenshots |
-| 2026-11-20 15:48:36 | [pultr-cards](https://crates.io/crates/pultr-cards) | 0.0.6 | 0 | Built-in cards of pultr: battery, bluetooth, media… |
-| 2026-11-20 15:49:58 | [lp-sparse-rs](https://crates.io/crates/lp-sparse-rs) | 0.1.0 | 0 | Pure Rust Android sparse image format reader and streaming builder (no C depend… |
-| 2026-11-20 15:50:30 | [liblp-rs](https://crates.io/crates/liblp-rs) | 0.1.0 | 0 | Pure Rust implementation of Android Logical Partition library (liblp) for super… |
-| 2026-11-20 15:51:00 | [mirror-displays](https://crates.io/crates/mirror-displays) | 1.0.0 | 0 | macOS display mirroring via displayplacer |
-| 2026-11-20 15:51:04 | [lp-tools-rs](https://crates.io/crates/lp-tools-rs) | 0.1.0 | 0 | Pure Rust Android dynamic partition CLI suite (lpmake, lpunpack, lpdump, lpadd,… |
-| 2026-11-20 15:54:58 | [rune-chain-graph](https://crates.io/crates/rune-chain-graph) | 0.1.0 | 0 | Stateful graph orchestration for LLM workflows and agents: typed state with red… |
-| 2026-11-20 15:55:13 | [gabion-macros](https://crates.io/crates/gabion-macros) | 0.1.0 | 0 | #[service] macro: one trait -> typed client + axum router + clap + (v2) mcp. |
-| 2026-11-20 15:55:21 | [gabion-cli](https://crates.io/crates/gabion-cli) | 0.1.0 | 0 | gabion check: one command, one exit code. Orchestrates clippy + fmt + cargo-she… |
-| 2026-11-20 15:56:25 | [sisa-health-checks-core](https://crates.io/crates/sisa-health-checks-core) | 0.0.1 | 0 | Health check contract, registry, probes and reports of Sisa Health Checks |
-| 2026-11-20 15:56:28 | [sisa-health-checks-http](https://crates.io/crates/sisa-health-checks-http) | 0.0.1 | 0 | The /livez, /readyz and /health answers of Sisa Health Checks as plain data, fo… |
-| 2026-11-20 15:56:51 | [sisa-health-checks-grpc](https://crates.io/crates/sisa-health-checks-grpc) | 0.0.1 | 0 | The grpc.health.v1.Health service of Sisa Health Checks, for gRPC and Connect c… |
-| 2026-11-20 15:57:09 | [sisa-health-checks-postgres](https://crates.io/crates/sisa-health-checks-postgres) | 0.0.1 | 0 | A PostgreSQL health check for Sisa Health Checks, on an sqlx pool |
-| 2026-11-20 15:57:21 | [sisa-health-checks-redis](https://crates.io/crates/sisa-health-checks-redis) | 0.0.1 | 0 | A Redis health check for Sisa Health Checks, on any redis-rs async connection |
-| 2026-11-20 15:57:38 | [gabion](https://crates.io/crates/gabion) | 0.1.0 | 0 | Runtime-free core: capability traits, error model, client contracts for gabion… |
-| 2026-11-20 15:57:46 | [gabion-native](https://crates.io/crates/gabion-native) | 0.1.0 | 0 | Native capability impls (SystemClock). Host-side only — never imported by *-cor… |
-| 2026-11-20 15:58:06 | [strata-dom](https://crates.io/crates/strata-dom) | 0.1.0 | 0 | Core DOM, reactive signals, and synthetic event routing for Strata |
-| 2026-11-20 16:02:51 | [pasta-hts](https://crates.io/crates/pasta-hts) | 0.9.1 | 0 | Readers, writers, and algorithms for SAM, BAM, CRAM, VCF, BCF, BGZF, CSI, tabix… |
-| 2026-11-20 16:02:53 | [ntools](https://crates.io/crates/ntools) | 0.9.1 | 0 | A samtools-compatible command-line toolkit built on pasta |
-| 2026-11-20 16:02:54 | [vtools](https://crates.io/crates/vtools) | 0.9.1 | 0 | A bcftools-compatible command-line toolkit built on pasta |
-| 2026-11-20 16:03:20 | [trashrm](https://crates.io/crates/trashrm) | 0.1.0 | 0 | A tiny, dependency-free rm alternative that moves files to the freedesktop Tras… |
-| 2026-11-20 16:05:06 | [rune-chain-eval](https://crates.io/crates/rune-chain-eval) | 0.1.0 | 0 | Evaluation harness for rune-chain LLM apps: datasets, bounded concurrent runs,… |
-| 2026-11-20 16:06:40 | [whisplay-driver](https://crates.io/crates/whisplay-driver) | 0.1.1 | 0 | A Whisplay display client and Linux hardware daemon with image and GIF playback |
-| 2026-11-20 16:07:37 | [whisplay](https://crates.io/crates/whisplay) | 0.1.1 | 0 | A CLI and Rust library for displaying text, emoji, images and GIFs on Whisplay |
-| 2026-11-20 16:07:49 | [tim2-rs](https://crates.io/crates/tim2-rs) | 0.1.0 | 0 | TIM2 image decoding and encoding library |
-| 2026-11-20 16:07:55 | [sisa-health-checks-nats](https://crates.io/crates/sisa-health-checks-nats) | 0.0.1 | 0 | A NATS health check for Sisa Health Checks, on an async-nats client |
-| 2026-11-20 16:08:09 | [strata-agent-ui](https://crates.io/crates/strata-agent-ui) | 0.1.0 | 0 | Streaming, sandboxed generative UI protocol for LLM and autonomous agents in Pr… |
-| 2026-11-20 16:10:49 | [tim2view](https://crates.io/crates/tim2view) | 0.1.0 | 0 | Simple TIM2 image viewer |
-| 2026-11-20 16:15:13 | [rune-chain](https://crates.io/crates/rune-chain) | 0.1.6 | 0 | One-dependency LLM toolkit: OpenAI/Anthropic/Gemini/Ollama clients, agents with… |
-| 2026-11-20 16:15:39 | [carat-core](https://crates.io/crates/carat-core) | 0.1.0 | 0 | Deterministic core for Carat npm dependency balance sheets |
-| 2026-11-20 16:15:44 | [carat](https://crates.io/crates/carat) | 0.1.0 | 0 | A balance sheet for npm dependency changes — verify every changed byte before i… |
-| 2026-11-20 16:17:44 | [fm1](https://crates.io/crates/fm1) | 0.1.0 | 0 | Board support for the M-VAVE FM-1 using embedded-hal |
-| 2026-11-20 16:18:03 | [strata-aria](https://crates.io/crates/strata-aria) | 0.1.0 | 0 | Accessible Headless UI Primitives & Floating Collision Engine for Strata |
-| 2026-11-20 16:19:34 | [catacomb](https://crates.io/crates/catacomb) | 0.0.1 | 0 | A Windows power-user file manager: multi-pane listers, instant indexed search a… |
+| 2026-11-20 16:20:36 | [pubtest](https://crates.io/crates/pubtest) | 0.0.0 | 0 | test crate |
+| 2026-11-20 16:25:14 | [rune-axum-cors](https://crates.io/crates/rune-axum-cors) | 0.1.0 | 0 | CORS middleware for Axum — exact origin allowlists, explicit subdomain wildcard… |
+| 2026-11-20 16:28:09 | [strata-charts](https://crates.io/crates/strata-charts) | 0.1.0 | 0 | Declarative SVG & GPU Data Visualization Charts for Strata |
+| 2026-11-20 16:28:35 | [sisa-health-checks](https://crates.io/crates/sisa-health-checks) | 0.0.1 | 0 | Kubernetes-style health checks for Rust services: /livez and /readyz probes, a… |
+| 2026-11-20 16:30:09 | [tellio](https://crates.io/crates/tellio) | 0.1.0 | 0 | Tellio: owner-controlled peer-to-peer folder sync for the command line |
+| 2026-11-20 16:33:18 | [kernoid-server](https://crates.io/crates/kernoid-server) | 0.0.0 | 0 | Reserved for kernoid – the HTTP server, embeddable. The first release follows. |
+| 2026-11-20 16:33:22 | [kernoid-config](https://crates.io/crates/kernoid-config) | 0.0.0 | 0 | Reserved for kernoid – configuration. The first release follows. |
+| 2026-11-20 16:33:25 | [kernoid-store](https://crates.io/crates/kernoid-store) | 0.0.0 | 0 | Reserved for kernoid – PostgreSQL and object storage. The first release follows. |
+| 2026-11-20 16:33:28 | [kernoid-events](https://crates.io/crates/kernoid-events) | 0.0.0 | 0 | Reserved for kernoid – the event store. The first release follows. |
+| 2026-11-20 16:33:31 | [kernoid-identity](https://crates.io/crates/kernoid-identity) | 0.0.0 | 0 | Reserved for kernoid – identity: instances, tenants, accounts, logins. The firs… |
+| 2026-11-20 16:34:19 | [mcpb](https://crates.io/crates/mcpb) | 0.1.0 | 0 | Pack a local MCP server as an MCPB bundle (.mcpb) |
+| 2026-11-20 16:34:49 | [dots-cli](https://crates.io/crates/dots-cli) | 0.5.2 | 0 | A dotfiles and machine setup manager for mise |
+| 2026-11-20 16:35:08 | [rune-linear-model](https://crates.io/crates/rune-linear-model) | 0.1.0 | 0 | Linear models — OLS, ridge, lasso, elastic net, logistic regression and SGD, ma… |
+| 2026-11-20 16:38:22 | [strata-crdt](https://crates.io/crates/strata-crdt) | 0.1.0 | 0 | Local-first conflict-free replicated data types and collaborative reactive sign… |
+| 2026-11-20 16:39:11 | [winio-layer-shell](https://crates.io/crates/winio-layer-shell) | 0.1.0-beta.1 | 0 | Wayland layer shell support for winio. |
+| 2026-11-20 16:39:31 | [loci-search](https://crates.io/crates/loci-search) | 0.1.0 | 0 | SQLite-backed hybrid retrieval with semantic region routing and per-hit explana… |
+| 2026-11-20 16:42:36 | [kernoid-relay](https://crates.io/crates/kernoid-relay) | 0.0.0 | 0 | Reserved for kernoid – the relay of end-to-end encrypted spaces. The first rele… |
+| 2026-11-20 16:45:12 | [rune-geoip](https://crates.io/crates/rune-geoip) | 0.1.0 | 0 | Pure-Rust MaxMind DB (MMDB) reader for GeoLite2/GeoIP2 and DB-IP databases: sea… |
+| 2026-11-20 16:46:48 | [mica-sdk](https://crates.io/crates/mica-sdk) | 2.0.0-pre0 | 0 | Client library for the Mica network (gRPC over mutual TLS), generated from the… |
+| 2026-11-20 16:47:48 | [error-kind-macros](https://crates.io/crates/error-kind-macros) | 0.0.2 | 0 | Procedural macros for the `error-kind` crate |
+| 2026-11-20 16:47:49 | [error-kind](https://crates.io/crates/error-kind) | 0.0.2 | 0 | Separate `Error` from `ErrorKind` with convenient derive macros! |
+| 2026-11-20 16:48:08 | [strata-device](https://crates.io/crates/strata-device) | 0.1.0 | 0 | Native hardware introspection, device telemetry, and reactive hardware signals… |
+| 2026-11-20 16:51:42 | [kernoid-oidc](https://crates.io/crates/kernoid-oidc) | 0.0.0 | 0 | Reserved for kernoid – OpenID Connect and SAML. The first release follows. |
+| 2026-11-20 16:51:56 | [rs2elm_derive](https://crates.io/crates/rs2elm_derive) | 0.1.0 | 0 | Derive macros for rs2elm |
+| 2026-11-20 16:52:04 | [rs2elm](https://crates.io/crates/rs2elm) | 0.1.0 | 0 | Generate Elm bindings for your Rust types |
+| 2026-11-20 16:54:33 | [aeon-core](https://crates.io/crates/aeon-core) | 0.1.0 | 0 | Statechart-first UI contract: all 46 anatomy scopes, data-aeon-* attributes, pa… |
+| 2026-11-20 16:54:34 | [aeon-primitives](https://crates.io/crates/aeon-primitives) | 0.1.0 | 0 | Zero-dependency closed Rust statecharts for Aeon UI primitives (19 machines inc… |
+| 2026-11-20 16:54:36 | [aeon-dioxus](https://crates.io/crates/aeon-dioxus) | 0.1.0 | 0 | Headless statechart-driven Dioxus components for Aeon UI (UI = f(snapshot)) |
+| 2026-11-20 16:54:38 | [aeon-ui](https://crates.io/crates/aeon-ui) | 0.1.0 | 0 | Styled Aeon UI Dioxus components and pure [data-aeon-*] CSS themes (zero Node/T… |
+| 2026-11-20 16:55:13 | [rune-graphql](https://crates.io/crates/rune-graphql) | 0.1.0 | 0 | GraphQL SDL and introspection import: type model, bounded query and mutation ge… |
+| 2026-11-20 16:55:25 | [pacer-plugin-assistant-protocol](https://crates.io/crates/pacer-plugin-assistant-protocol) | 0.3.0 | 0 | Generated assistant turn and assistant tool wire types for the pacer plugin pro… |
+| 2026-11-20 16:58:18 | [strata-form](https://crates.io/crates/strata-form) | 0.1.0 | 0 | Pure-Rust signal-driven form state management and schema validation engine for… |
+| 2026-11-20 17:02:54 | [nym-sqlcipher](https://crates.io/crates/nym-sqlcipher) | 3.0.0 | 0 | SQLCipher support for Nym's SQLite storages: key handling and migration of plai… |
+| 2026-11-20 17:03:48 | [kernoid-module](https://crates.io/crates/kernoid-module) | 0.0.0 | 0 | Reserved for kernoid – modules. The first release follows. |
+| 2026-11-20 17:08:13 | [strata-gpu-path](https://crates.io/crates/strata-gpu-path) | 0.1.0 | 0 | Slug and Vello-tier analytical GPU Bézier curve and vector path engine for Proj… |
+| 2026-11-20 17:12:54 | [kernoid-mail](https://crates.io/crates/kernoid-mail) | 0.0.0 | 0 | Reserved for kernoid – the mail store. The first release follows. |
+| 2026-11-20 17:14:44 | [kerno-core](https://crates.io/crates/kerno-core) | 1.0.0-alpha.1 | 0 | Contract, error model, write batches and VFS of the Kerno storage engine |
+| 2026-11-20 17:14:59 | [kerno-storage](https://crates.io/crates/kerno-storage) | 1.0.0-alpha.1 | 0 | Kerno storage engine: leveled LSM tree on the frozen on-disk format v1 |
+| 2026-11-20 17:15:10 | [kerno-units](https://crates.io/crates/kerno-units) | 1.0.0-alpha.1 | 0 | Kerno units layer: typed units, revisions, relations, indexes and derived data… |
+| 2026-11-20 17:15:25 | [vep-core](https://crates.io/crates/vep-core) | 0.6.0 | 0 | Data model of vep-rs, a Rust reimplementation of Ensembl VEP: variant, transcri… |
+| 2026-11-20 17:15:29 | [vep-fasta](https://crates.io/crates/vep-fasta) | 0.6.0 | 0 | Indexed reference FASTA access for vep-rs, a Rust reimplementation of Ensembl V… |
+| 2026-11-20 17:15:34 | [vep-io](https://crates.io/crates/vep-io) | 0.6.0 | 0 | Input parsers (Ensembl, HGVS, SPDI, region, identifier) and output formatters (… |
+| 2026-11-20 17:15:37 | [vep-plugin](https://crates.io/crates/vep-plugin) | 0.6.0 | 0 | Plugin interface, dynamic-library loader and registry of vep-rs, a Rust reimple… |
+| 2026-11-20 17:15:42 | [vep-effects](https://crates.io/crates/vep-effects) | 0.6.0 | 0 | Consequence-calling engine of vep-rs, a Rust reimplementation of Ensembl VEP: S… |
+| 2026-11-20 17:17:21 | [hyperion-transport](https://crates.io/crates/hyperion-transport) | 0.2.0 | 0 | Atlas photon and optical interaction-law foundation |
+| 2026-11-20 17:18:16 | [strata-hot-reload](https://crates.io/crates/strata-hot-reload) | 0.1.0 | 0 | State-preserving native code hot-reloading orchestrator for Project Strata |
+| 2026-11-20 17:18:50 | [ziyuan-sandbox-windows](https://crates.io/crates/ziyuan-sandbox-windows) | 1.30.0 | 0 | Windows 原生号舍（AppContainer/LPAC 与 Job Object）：紫垣（ZiYuan）的内部组件，供 ziyuan-runtime 使… |
 
 ## Data source
 

@@ -1,0 +1,48 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-20T16:20:36.867565Z,pubtest,0.0.0,0,0,,test crate
+2026-11-20T16:25:14.701508Z,rune-axum-cors,0.1.0,0,0,https://github.com/alexile/runes,"CORS middleware for Axum — exact origin allowlists, explicit subdomain wildcards, per-route policies, configs vetted by rune-cors at build time"
+2026-11-20T16:28:09.042751Z,strata-charts,0.1.0,0,0,https://github.com/strataui/strata,Declarative SVG & GPU Data Visualization Charts for Strata
+2026-11-20T16:28:35.811752Z,sisa-health-checks,0.0.1,0,0,https://github.com/sisaio/sisa-health-checks-rs,"Kubernetes-style health checks for Rust services: /livez and /readyz probes, a health+json report, a gRPC health service, and checks for PostgreSQL, Redis and NATS"
+2026-11-20T16:30:09.618948Z,tellio,0.1.0,0,0,https://tellio.dev,Tellio: owner-controlled peer-to-peer folder sync for the command line
+2026-11-20T16:33:18.844889Z,kernoid-server,0.0.0,0,0,https://github.com/kernoid/kernoid,"Reserved for kernoid – the HTTP server, embeddable. The first release follows."
+2026-11-20T16:33:22.139782Z,kernoid-config,0.0.0,0,0,https://github.com/kernoid/kernoid,Reserved for kernoid – configuration. The first release follows.
+2026-11-20T16:33:25.608907Z,kernoid-store,0.0.0,0,0,https://github.com/kernoid/kernoid,Reserved for kernoid – PostgreSQL and object storage. The first release follows.
+2026-11-20T16:33:28.817308Z,kernoid-events,0.0.0,0,0,https://github.com/kernoid/kernoid,Reserved for kernoid – the event store. The first release follows.
+2026-11-20T16:33:31.421304Z,kernoid-identity,0.0.0,0,0,https://github.com/kernoid/kernoid,"Reserved for kernoid – identity: instances, tenants, accounts, logins. The first release follows."
+2026-11-20T16:34:19.652273Z,mcpb,0.1.0,0,0,https://github.com/Synphonyte/mcpb,Pack a local MCP server as an MCPB bundle (.mcpb)
+2026-11-20T16:34:49.943455Z,dots-cli,0.5.2,0,0,https://github.com/EzraCerpac/dots,A dotfiles and machine setup manager for mise
+2026-11-20T16:35:08.971427Z,rune-linear-model,0.1.0,0,0,https://github.com/alexile/runes,"Linear models — OLS, ridge, lasso, elastic net, logistic regression and SGD, matching scikit-learn"
+2026-11-20T16:38:22.973268Z,strata-crdt,0.1.0,0,0,https://github.com/strataui/strata,Local-first conflict-free replicated data types and collaborative reactive signals for Project Strata
+2026-11-20T16:39:11.910018Z,winio-layer-shell,0.1.0-beta.1,0,0,https://github.com/compio-rs/winio,Wayland layer shell support for winio.
+2026-11-20T16:39:31.75305Z,loci-search,0.1.0,0,0,https://github.com/AncientiCe/loci-search,SQLite-backed hybrid retrieval with semantic region routing and per-hit explanations
+2026-11-20T16:42:36.737999Z,kernoid-relay,0.0.0,0,0,https://github.com/kernoid/kernoid,Reserved for kernoid – the relay of end-to-end encrypted spaces. The first release follows.
+2026-11-20T16:45:12.099687Z,rune-geoip,0.1.0,0,0,https://github.com/alexile/runes,"Pure-Rust MaxMind DB (MMDB) reader for GeoLite2/GeoIP2 and DB-IP databases: search tree, data decoder, typed city/country/ASN records"
+2026-11-20T16:46:48.137181Z,mica-sdk,2.0.0-pre0,0,0,https://github.com/1080network/rust,"Client library for the Mica network (gRPC over mutual TLS), generated from the public protos"
+2026-11-20T16:47:48.14024Z,error-kind-macros,0.0.2,0,0,https://github.com/sigseis/error-kind,Procedural macros for the `error-kind` crate
+2026-11-20T16:47:49.864837Z,error-kind,0.0.2,0,0,https://github.com/sigseis/error-kind,Separate `Error` from `ErrorKind` with convenient derive macros!
+2026-11-20T16:48:08.411524Z,strata-device,0.1.0,0,0,https://github.com/strataui/strata,"Native hardware introspection, device telemetry, and reactive hardware signals for Strata"
+2026-11-20T16:51:42.038969Z,kernoid-oidc,0.0.0,0,0,https://github.com/kernoid/kernoid,Reserved for kernoid – OpenID Connect and SAML. The first release follows.
+2026-11-20T16:51:56.933798Z,rs2elm_derive,0.1.0,0,0,https://github.com/the-man-with-a-golden-mind/rs2elm,Derive macros for rs2elm
+2026-11-20T16:52:04.540081Z,rs2elm,0.1.0,0,0,https://github.com/the-man-with-a-golden-mind/rs2elm,Generate Elm bindings for your Rust types
+2026-11-20T16:54:33.533486Z,aeon-core,0.1.0,0,0,https://github.com/genericcpu/aeon-ui,"Statechart-first UI contract: all 46 anatomy scopes, data-aeon-* attributes, parallel-state projection, scroll/layout/list-window geometry"
+2026-11-20T16:54:34.611517Z,aeon-primitives,0.1.0,0,0,https://github.com/genericcpu/aeon-ui,Zero-dependency closed Rust statecharts for Aeon UI primitives (19 machines including parallel Region charts)
+2026-11-20T16:54:36.821601Z,aeon-dioxus,0.1.0,0,0,https://github.com/genericcpu/aeon-ui,Headless statechart-driven Dioxus components for Aeon UI (UI = f(snapshot))
+2026-11-20T16:54:38.811659Z,aeon-ui,0.1.0,0,0,https://github.com/genericcpu/aeon-ui,Styled Aeon UI Dioxus components and pure [data-aeon-*] CSS themes (zero Node/TS build)
+2026-11-20T16:55:13.341275Z,rune-graphql,0.1.0,0,0,https://github.com/alexile/runes,"GraphQL SDL and introspection import: type model, bounded query and mutation generation, insertion points and operation validation"
+2026-11-20T16:55:25.203492Z,pacer-plugin-assistant-protocol,0.3.0,0,0,https://github.com/lamtuanvu/pacer,Generated assistant turn and assistant tool wire types for the pacer plugin protocol.
+2026-11-20T16:58:18.88606Z,strata-form,0.1.0,0,0,https://github.com/strataui/strata,Pure-Rust signal-driven form state management and schema validation engine for Strata
+2026-11-20T17:02:54.069704Z,nym-sqlcipher,3.0.0,0,0,https://github.com/nymtech/nym,SQLCipher support for Nym's SQLite storages: key handling and migration of plaintext databases
+2026-11-20T17:03:48.794704Z,kernoid-module,0.0.0,0,0,https://github.com/kernoid/kernoid,Reserved for kernoid – modules. The first release follows.
+2026-11-20T17:08:13.067196Z,strata-gpu-path,0.1.0,0,0,https://github.com/strataui/strata,Slug and Vello-tier analytical GPU Bézier curve and vector path engine for Project Strata
+2026-11-20T17:12:54.30518Z,kernoid-mail,0.0.0,0,0,https://github.com/kernoid/kernoid,Reserved for kernoid – the mail store. The first release follows.
+2026-11-20T17:14:44.923949Z,kerno-core,1.0.0-alpha.1,0,0,https://github.com/Rixmerz/kernodb,"Contract, error model, write batches and VFS of the Kerno storage engine"
+2026-11-20T17:14:59.331315Z,kerno-storage,1.0.0-alpha.1,0,0,https://github.com/Rixmerz/kernodb,Kerno storage engine: leveled LSM tree on the frozen on-disk format v1
+2026-11-20T17:15:10.520646Z,kerno-units,1.0.0-alpha.1,0,0,https://github.com/Rixmerz/kernodb,"Kerno units layer: typed units, revisions, relations, indexes and derived data over the storage engine"
+2026-11-20T17:15:25.096223Z,vep-core,0.6.0,0,0,https://github.com/natera-open-source/vep-rs,"Data model of vep-rs, a Rust reimplementation of Ensembl VEP: variant, transcript, consequence and coordinate types"
+2026-11-20T17:15:29.594758Z,vep-fasta,0.6.0,0,0,https://github.com/natera-open-source/vep-rs,"Indexed reference FASTA access for vep-rs, a Rust reimplementation of Ensembl VEP"
+2026-11-20T17:15:34.650707Z,vep-io,0.6.0,0,0,https://github.com/natera-open-source/vep-rs,"Input parsers (Ensembl, HGVS, SPDI, region, identifier) and output formatters (VEP, VCF, JSON, tab, Parquet) of vep-rs, a Rust reimplementation of Ensembl VEP"
+2026-11-20T17:15:37.892916Z,vep-plugin,0.6.0,0,0,https://github.com/natera-open-source/vep-rs,"Plugin interface, dynamic-library loader and registry of vep-rs, a Rust reimplementation of Ensembl VEP"
+2026-11-20T17:15:42.046887Z,vep-effects,0.6.0,0,0,https://github.com/natera-open-source/vep-rs,"Consequence-calling engine of vep-rs, a Rust reimplementation of Ensembl VEP: Sequence Ontology terms, impact and HGVS per transcript"
+2026-11-20T17:17:21.72548Z,hyperion-transport,0.2.0,0,0,https://github.com/ryancinsight/hyperion,Atlas photon and optical interaction-law foundation
+2026-11-20T17:18:16.097563Z,strata-hot-reload,0.1.0,0,0,https://github.com/strataui/strata,State-preserving native code hot-reloading orchestrator for Project Strata
+2026-11-20T17:18:50.963841Z,ziyuan-sandbox-windows,1.30.0,0,0,https://github.com/YuuUehara/Ziyuan,Windows 原生号舍（AppContainer/LPAC 与 Job Object）：紫垣（ZiYuan）的内部组件，供 ziyuan-runtime 使用；Rust API 不保证稳定。
