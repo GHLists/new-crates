@@ -1,0 +1,48 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-21T18:24:03.065355Z,pkcs11-locator,0.1.0,0,0,https://github.com/Juanbanpar/pkcs11-stack,"Parse, build, and match RFC 7512 PKCS#11 URIs without loading a module"
+2026-11-21T18:24:11.491099Z,pkcs11-runtime,0.1.0,0,0,https://github.com/Juanbanpar/pkcs11-stack,Manage PKCS#11 modules and sessions and execute typed token operations
+2026-11-21T18:24:19.442157Z,pkcs11-client,0.1.0,0,0,https://github.com/Juanbanpar/pkcs11-stack,"Token-backed cryptography, certificate binding, and object management for Rust applications"
+2026-11-21T18:24:27.631708Z,pkcs11-rustls-adapter,0.1.0,0,0,https://github.com/Juanbanpar/pkcs11-stack,PKCS#11-backed TLS server and client authentication for rustls
+2026-11-21T18:24:38.856636Z,pkcs11ctl,0.1.0,0,0,https://github.com/Juanbanpar/pkcs11-stack,Inspect and administer PKCS#11 tokens and run cryptographic operations from the command line
+2026-11-21T18:28:27.929435Z,kettlecorn,0.2.0,0,0,https://github.com/mjrusso/kettlecorn,Run Erlang and Elixir in a WebAssembly sandbox from Rust
+2026-11-21T18:29:13.785982Z,digua_common_error,1.6.0,0,0,,Common error types and axum error response integration for KudiCoder services
+2026-11-21T18:29:56.57045Z,digua_common_jwt,1.7.0,0,0,,JWT signing and verification utilities for KudiCoder services
+2026-11-21T18:30:38.720395Z,digua_common_telemetry,1.6.0,0,0,,OpenTelemetry tracing setup for KudiCoder services
+2026-11-21T18:31:04.014705Z,digua_common_health,1.6.0,0,0,,Health check endpoint types for KudiCoder services
+2026-11-21T18:31:34.571269Z,lacrymira-macros,0.1.0,0,0,https://github.com/celestia-island/lacrymira,"#[derive(Entity)] — table metadata, Column enum, ActiveModel, FromRow"
+2026-11-21T18:31:36.976097Z,digua_common_ratelimit,1.6.0,0,0,,Rate limiting utilities for KudiCoder services
+2026-11-21T18:31:55.217072Z,lacrymira,0.1.0,0,0,https://github.com/celestia-island/lacrymira,Typed multi-model data access layer — SQL and KV under one command surface
+2026-11-21T18:32:17.223775Z,lacrymira-redb,0.1.0,0,0,https://github.com/celestia-island/lacrymira,redb KV driver for lacrymira — runs natively and in WASI
+2026-11-21T18:32:24.102942Z,nickel-util,0.1.0,0,0,https://github.com/f1b0-gh/nickeling,"Shared primitives for bounded files, JSON, processes and confined Nickel evaluation"
+2026-11-21T18:32:56.704442Z,nickel-k8s,0.1.0,0,0,https://github.com/f1b0-gh/nickeling,Compile Nickel configurations into validated Kubernetes and k3s manifests
+2026-11-21T18:33:19.658487Z,nickel-tf,0.1.0,0,0,https://github.com/f1b0-gh/nickeling,Compile Nickel configurations into OpenTofu JSON using frozen provider schemas
+2026-11-21T18:33:54.527764Z,digua_http_client,1.7.0,0,0,,Shared HTTP client with token cache for KudiCoder Rust SDKs
+2026-11-21T18:34:00.529098Z,nickel-plane,0.1.0,0,0,https://github.com/f1b0-gh/nickeling,Coordinate Kubernetes and OpenTofu units described in Nickel
+2026-11-21T18:34:25.785361Z,pkcs11-desktop,0.1.0,0,0,https://github.com/Juanbanpar/pkcs11-stack,Inspect and administer PKCS#11 tokens and use token-held keys from a desktop app
+2026-11-21T18:37:34.394312Z,lacrymira-pg,0.1.0,0,0,https://github.com/celestia-island/lacrymira,"PostgreSQL driver for lacrymira (sqlx 0.9, pgvector, jiff-sqlx 1.0)"
+2026-11-21T18:38:38.662011Z,mahrem-core,0.0.1,0,0,https://github.com/thebozturk/mahrem,"Core of Mahrem: detects personal data in Turkish text (TCKN, VKN, IBAN, cards, phones, e-mail) for masking before it reaches an LLM"
+2026-11-21T18:44:38.46661Z,digua_common_consul,1.7.0,0,0,,Consul self-registration for KudiCoder services (replaces gliderlabs/registrator)
+2026-11-21T18:45:05.965433Z,camshaft,1.0.0,0,0,https://github.com/simplysabir/camshaft,"A Solana sBPF virtual machine you can see inside: run, trace and profile programs, with the same results as Agave"
+2026-11-21T18:45:13.790809Z,socketio-next-testing,0.2.1,0,0,https://github.com/s00d/rust-socketio,"Test support for socket.io clients: in-process Socket.IO v4 / Engine.IO v4 fake servers, fault-injecting TCP and HTTP proxies"
+2026-11-21T18:48:52.992419Z,danmaku-renderer,0.1.0,0,0,https://github.com/Joey-Project/danmaku-renderer,Render Bilibili XML danmaku as Advanced SubStation Alpha subtitles
+2026-11-21T18:50:03.530762Z,lacrymira-wasi,0.1.0,0,0,https://github.com/celestia-island/lacrymira,WASI component bindings for lacrymira — wit world + import glue
+2026-11-21T18:54:32.136651Z,digua_jwt_ctx,1.6.0,0,0,,Axum extractor for JWT principal context in KudiCoder services
+2026-11-21T19:00:39.487817Z,cybersource,0.1.0,0,0,https://github.com/lendsimple/cybersource-rs,"Idiomatic Rust client for the Cybersource REST API (async, blocking and WebAssembly)"
+2026-11-21T19:03:11.674714Z,ultrafast-gpu,0.1.0,0,0,https://github.com/ultrafastmov/ultrafast,"Thin native GPU layer for ultrafast (Metal today, Vulkan next)"
+2026-11-21T19:03:16.91903Z,ultrafast-graph,0.1.0,0,0,https://github.com/ultrafastmov/ultrafast,"ultrafast document model: nodes, params, edits"
+2026-11-21T19:03:23.180733Z,ultrafast-media,0.1.0,0,0,https://github.com/ultrafastmov/ultrafast,ultrafast media I/O: hardware video decode and encode with zero-copy GPU interop
+2026-11-21T19:03:28.042887Z,ultrafast-framing,0.1.0,0,0,https://github.com/ultrafastmov/ultrafast,Face-following clip camera: turns face tracks and shot boundaries into a per-frame crop
+2026-11-21T19:03:39.865582Z,ultrafast-geom,0.1.0,0,0,https://github.com/ultrafastmov/ultrafast,"Vector geometry and text: paths, fonts, shaping, layout, measuring (CPU only)"
+2026-11-21T19:04:40.429333Z,digua_common_cache,1.6.0,0,0,,Cache abstraction with Memory (Moka) and Redis backends for KudiCoder services
+2026-11-21T19:06:31.181256Z,open_table_chinese_checkers_game,1.1.0,0,0,https://github.com/joduranvillan/games_tables_sdk,Juego de referencia del OpenTable SDK: damas chinas (Chinese Checkers).
+2026-11-21T19:06:36.151264Z,open_table_backgammon_game,1.1.0,0,0,https://github.com/joduranvillan/games_tables_sdk,Juego de referencia del OpenTable SDK: Backgammon.
+2026-11-21T19:06:41.950207Z,open_table_ludo_game,1.1.0,0,0,https://github.com/joduranvillan/games_tables_sdk,Juego de referencia del OpenTable SDK: Ludo / Parchis.
+2026-11-21T19:06:48.246651Z,open_table_battleship_game,1.1.0,0,0,https://github.com/joduranvillan/games_tables_sdk,Juego de referencia del OpenTable SDK: batalla naval (Battleship).
+2026-11-21T19:06:57.507075Z,open_table_mille_bornes_game,1.1.0,0,0,https://github.com/joduranvillan/games_tables_sdk,Juego de referencia del OpenTable SDK: Mil Millas (Mille Bornes).
+2026-11-21T19:07:05.167749Z,open_table_monopoly_game,1.1.0,0,0,https://github.com/joduranvillan/games_tables_sdk,Juego de referencia del OpenTable SDK: Monopoly.
+2026-11-21T19:08:40.400049Z,jpeg-xr,0.1.0,0,0,https://github.com/jaxcksn/jpeg-xr,A pure-Rust JPEG XR (ITU-T T.832) decoder with no unsafe code and no dependencies
+2026-11-21T19:09:27.30837Z,zobs,0.1.0,0,0,https://github.com/LIghtJUNction/zobs,"A lightweight recording studio with native zgpui, bounded media jobs, CLI and MCP"
+2026-11-21T19:14:42.351215Z,digua_common_crypto,1.6.0,0,0,,"Crypto utilities (Argon2 password hashing, AES-256-GCM encryption) for KudiCoder services"
+2026-11-21T19:14:45.491706Z,ultrafast-ops,0.1.0,0,0,https://github.com/ultrafastmov/ultrafast,"ultrafast's op vocabulary: the op registry and param packing, built-in components, the machine-readable schema and the document check (CPU only)"
+2026-11-21T19:17:31.682239Z,open_table_uno_game,1.1.0,0,0,https://github.com/joduranvillan/games_tables_sdk,Juego de referencia del OpenTable SDK: UNO.
+2026-11-21T19:17:58.307365Z,pakem-framework,1.0.0,0,0,https://github.com/pakem-rs/framework,"A beautiful, fast, and elegant web framework for Rust — Look like Laravel, Run at Rust Speed (Official alias for pakem)"

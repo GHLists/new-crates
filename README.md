@@ -8,51 +8,61 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-21 18:18 UTC
+## Latest list — 2026-11-21 19:19 UTC
 
-New crates published between 2026-11-21 17:19 UTC and 2026-11-21 18:18 UTC.
+New crates published between 2026-11-21 18:18 UTC and 2026-11-21 19:19 UTC.
 
-[Full CSV](data/new-crates-2026-11-21T18-18-54-275313Z.csv)
+[Full CSV](data/new-crates-2026-11-21T19-19-36-526011Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-21 17:23:26 | [cantongrid-metadata](https://crates.io/crates/cantongrid-metadata) | 0.4.0-alpha.3 | 0 | Bounded offline DAR metadata extraction and versioned Daml-LF contract signatur… |
-| 2026-11-21 17:23:40 | [cantongrid-sync](https://crates.io/crates/cantongrid-sync) | 0.4.0-alpha.3 | 0 | Offline Daml contract schema synchronization and reviewed model artifact genera… |
-| 2026-11-21 17:24:54 | [gitnext-tui](https://crates.io/crates/gitnext-tui) | 0.3.2 | 0 | Terminal UI for gitnext |
-| 2026-11-21 17:26:17 | [mesh-identity](https://crates.io/crates/mesh-identity) | 0.1.0 | 0 | Peer identity, offline encounters, and Byzantine group admission governance. |
-| 2026-11-21 17:28:06 | [open_table_qr](https://crates.io/crates/open_table_qr) | 1.1.0 | 0 | Generación de código QR de invitación a una sala de juego en OpenTable SDK. |
-| 2026-11-21 17:28:13 | [open_table_transport_tcp](https://crates.io/crates/open_table_transport_tcp) | 1.1.0 | 0 | Implementación de Transport sobre TCP para desktop en OpenTable SDK. |
-| 2026-11-21 17:28:19 | [open_table_transport_websocket](https://crates.io/crates/open_table_transport_websocket) | 1.1.0 | 0 | Implementación de Transport sobre WebSocket usando tokio-tungstenite para OpenT… |
-| 2026-11-21 17:28:27 | [open_table_transport_native_bridge](https://crates.io/crates/open_table_transport_native_bridge) | 1.1.0 | 0 | Capa de protocolo (handshake, identidad, reconexión, timeout) para transportes… |
-| 2026-11-21 17:32:21 | [htj2k-rs](https://crates.io/crates/htj2k-rs) | 0.1.1 | 0 | A Rust library for converting DICOM images to HTJ2K lossless encoding. |
-| 2026-11-21 17:32:37 | [golf-cart-wrap-models](https://crates.io/crates/golf-cart-wrap-models) | 1.0.0 | 0 | Open reference catalog of 34 golf cart models, body configurations, wrap panels… |
-| 2026-11-21 17:34:05 | [sitroom-contract](https://crates.io/crates/sitroom-contract) | 0.9.0 | 0 | Types shared by sitroom host, its modules, stdio plugins and renderers |
-| 2026-11-21 17:34:07 | [sitroom-core](https://crates.io/crates/sitroom-core) | 0.9.0 | 0 | Sitroom's core: the config file, the host that runs modules and feeds renderers… |
-| 2026-11-21 17:34:09 | [sitroom-modules](https://crates.io/crates/sitroom-modules) | 0.9.0 | 0 | Sitroom's built-in modules, in bundles chosen with features, and the runtime th… |
-| 2026-11-21 17:34:10 | [sitroom-tui](https://crates.io/crates/sitroom-tui) | 0.9.0 | 0 | Sitroom's terminal renderer, built on ratatui |
-| 2026-11-21 17:34:10 | [sitroom-web](https://crates.io/crates/sitroom-web) | 0.9.0 | 0 | Sitroom's web renderer: serves tile updates to the browser over a WebSocket |
-| 2026-11-21 17:39:37 | [olaya-core](https://crates.io/crates/olaya-core) | 0.1.0 | 0 | Engine-agnostic System One protocol, primitives, decision layer, and manifests. |
-| 2026-11-21 17:40:21 | [olaya-candle](https://crates.io/crates/olaya-candle) | 0.1.0 | 0 | candle family SDK for olaya: encoders, tokenizers, built-in families, and the t… |
-| 2026-11-21 17:41:13 | [olaya](https://crates.io/crates/olaya) | 0.1.0 | 0 | A candle-based System One decision-model runtime: embeddable library and engine. |
-| 2026-11-21 17:41:47 | [olaya-cli](https://crates.io/crates/olaya-cli) | 0.1.0 | 0 | The olaya command-line interface and server binary. |
-| 2026-11-21 17:41:59 | [olaya-sdk](https://crates.io/crates/olaya-sdk) | 0.1.0 | 0 | A typed Rust client SDK for the TypeSafe/Jev System One API. |
-| 2026-11-21 17:43:43 | [sitroom](https://crates.io/crates/sitroom) | 0.9.0 | 0 | Sitroom command: the TUI, the web view, config, packages and the plugin tools |
-| 2026-11-21 17:44:34 | [gitnext](https://crates.io/crates/gitnext) | 0.3.2 | 0 | Git that understands your code: a symbol graph, semantic diffs and an MCP serve… |
-| 2026-11-21 17:57:21 | [rtbgen-cli](https://crates.io/crates/rtbgen-cli) | 0.1.1 | 0 | Command-line interface for the rtbgen fixture generator |
-| 2026-11-21 18:10:40 | [iletki-slint](https://crates.io/crates/iletki-slint) | 0.1.0 | 0 | GPU texture import, viewport sizing and picking for Slint applications using il… |
-| 2026-11-21 18:10:51 | [gpui-deck](https://crates.io/crates/gpui-deck) | 0.0.1 | 0 | Headless GPUI primitives with application-owned presentation. |
-| 2026-11-21 18:10:55 | [gpui-deck-cli](https://crates.io/crates/gpui-deck-cli) | 0.0.1 | 0 | Copy application-owned GPUI Deck recipes and their dependencies. |
-| 2026-11-21 18:11:00 | [pic32c-hal](https://crates.io/crates/pic32c-hal) | 0.0.0 | 0 | Placeholder for a HAL for Microchip's PIC32C microcontrollers, in development |
-| 2026-11-21 18:11:01 | [pic32ck-gc01-pac](https://crates.io/crates/pic32ck-gc01-pac) | 0.0.0 | 0 | Placeholder for a peripheral access crate for the Microchip PIC32CK GC01, in de… |
-| 2026-11-21 18:11:01 | [pic32ck-sg01-pac](https://crates.io/crates/pic32ck-sg01-pac) | 0.0.0 | 0 | Placeholder for a peripheral access crate for the Microchip PIC32CK SG01, in de… |
-| 2026-11-21 18:11:02 | [pic32cm-pl10-pac](https://crates.io/crates/pic32cm-pl10-pac) | 0.0.0 | 0 | Placeholder for a peripheral access crate for the Microchip PIC32CM PL10, in de… |
-| 2026-11-21 18:14:48 | [rproj-core](https://crates.io/crates/rproj-core) | 0.23.0 | 0 | Shared project inspection and operations for rproj |
-| 2026-11-21 18:15:50 | [open_table_chess_game](https://crates.io/crates/open_table_chess_game) | 1.1.0 | 0 | Juego de referencia del OpenTable SDK: ajedrez (chess). |
-| 2026-11-21 18:15:59 | [open_table_checkers_game](https://crates.io/crates/open_table_checkers_game) | 1.1.0 | 0 | Juego de referencia del OpenTable SDK: damas (checkers / draughts). |
-| 2026-11-21 18:16:05 | [open_table_shogi_game](https://crates.io/crates/open_table_shogi_game) | 1.1.0 | 0 | Juego de referencia del OpenTable SDK: Shogi (Ajedrez Japones). |
-| 2026-11-21 18:16:14 | [open_table_xiangqi_game](https://crates.io/crates/open_table_xiangqi_game) | 1.1.0 | 0 | Juego de referencia del OpenTable SDK: Xiangqi (Ajedrez Chino). |
-| 2026-11-21 18:16:21 | [open_table_go_game](https://crates.io/crates/open_table_go_game) | 1.1.0 | 0 | Juego de referencia del OpenTable SDK: Go (Weiqi / Baduk). |
-| 2026-11-21 18:17:19 | [autosolve](https://crates.io/crates/autosolve) | 0.1.0 | 0 | This is a stub. More will be here later |
+| 2026-11-21 18:24:03 | [pkcs11-locator](https://crates.io/crates/pkcs11-locator) | 0.1.0 | 0 | Parse, build, and match RFC 7512 PKCS#11 URIs without loading a module |
+| 2026-11-21 18:24:11 | [pkcs11-runtime](https://crates.io/crates/pkcs11-runtime) | 0.1.0 | 0 | Manage PKCS#11 modules and sessions and execute typed token operations |
+| 2026-11-21 18:24:19 | [pkcs11-client](https://crates.io/crates/pkcs11-client) | 0.1.0 | 0 | Token-backed cryptography, certificate binding, and object management for Rust… |
+| 2026-11-21 18:24:27 | [pkcs11-rustls-adapter](https://crates.io/crates/pkcs11-rustls-adapter) | 0.1.0 | 0 | PKCS#11-backed TLS server and client authentication for rustls |
+| 2026-11-21 18:24:38 | [pkcs11ctl](https://crates.io/crates/pkcs11ctl) | 0.1.0 | 0 | Inspect and administer PKCS#11 tokens and run cryptographic operations from the… |
+| 2026-11-21 18:28:27 | [kettlecorn](https://crates.io/crates/kettlecorn) | 0.2.0 | 0 | Run Erlang and Elixir in a WebAssembly sandbox from Rust |
+| 2026-11-21 18:29:13 | [digua_common_error](https://crates.io/crates/digua_common_error) | 1.6.0 | 0 | Common error types and axum error response integration for KudiCoder services |
+| 2026-11-21 18:29:56 | [digua_common_jwt](https://crates.io/crates/digua_common_jwt) | 1.7.0 | 0 | JWT signing and verification utilities for KudiCoder services |
+| 2026-11-21 18:30:38 | [digua_common_telemetry](https://crates.io/crates/digua_common_telemetry) | 1.6.0 | 0 | OpenTelemetry tracing setup for KudiCoder services |
+| 2026-11-21 18:31:04 | [digua_common_health](https://crates.io/crates/digua_common_health) | 1.6.0 | 0 | Health check endpoint types for KudiCoder services |
+| 2026-11-21 18:31:34 | [lacrymira-macros](https://crates.io/crates/lacrymira-macros) | 0.1.0 | 0 | #[derive(Entity)] — table metadata, Column enum, ActiveModel, FromRow |
+| 2026-11-21 18:31:36 | [digua_common_ratelimit](https://crates.io/crates/digua_common_ratelimit) | 1.6.0 | 0 | Rate limiting utilities for KudiCoder services |
+| 2026-11-21 18:31:55 | [lacrymira](https://crates.io/crates/lacrymira) | 0.1.0 | 0 | Typed multi-model data access layer — SQL and KV under one command surface |
+| 2026-11-21 18:32:17 | [lacrymira-redb](https://crates.io/crates/lacrymira-redb) | 0.1.0 | 0 | redb KV driver for lacrymira — runs natively and in WASI |
+| 2026-11-21 18:32:24 | [nickel-util](https://crates.io/crates/nickel-util) | 0.1.0 | 0 | Shared primitives for bounded files, JSON, processes and confined Nickel evalua… |
+| 2026-11-21 18:32:56 | [nickel-k8s](https://crates.io/crates/nickel-k8s) | 0.1.0 | 0 | Compile Nickel configurations into validated Kubernetes and k3s manifests |
+| 2026-11-21 18:33:19 | [nickel-tf](https://crates.io/crates/nickel-tf) | 0.1.0 | 0 | Compile Nickel configurations into OpenTofu JSON using frozen provider schemas |
+| 2026-11-21 18:33:54 | [digua_http_client](https://crates.io/crates/digua_http_client) | 1.7.0 | 0 | Shared HTTP client with token cache for KudiCoder Rust SDKs |
+| 2026-11-21 18:34:00 | [nickel-plane](https://crates.io/crates/nickel-plane) | 0.1.0 | 0 | Coordinate Kubernetes and OpenTofu units described in Nickel |
+| 2026-11-21 18:34:25 | [pkcs11-desktop](https://crates.io/crates/pkcs11-desktop) | 0.1.0 | 0 | Inspect and administer PKCS#11 tokens and use token-held keys from a desktop app |
+| 2026-11-21 18:37:34 | [lacrymira-pg](https://crates.io/crates/lacrymira-pg) | 0.1.0 | 0 | PostgreSQL driver for lacrymira (sqlx 0.9, pgvector, jiff-sqlx 1.0) |
+| 2026-11-21 18:38:38 | [mahrem-core](https://crates.io/crates/mahrem-core) | 0.0.1 | 0 | Core of Mahrem: detects personal data in Turkish text (TCKN, VKN, IBAN, cards,… |
+| 2026-11-21 18:44:38 | [digua_common_consul](https://crates.io/crates/digua_common_consul) | 1.7.0 | 0 | Consul self-registration for KudiCoder services (replaces gliderlabs/registrato… |
+| 2026-11-21 18:45:05 | [camshaft](https://crates.io/crates/camshaft) | 1.0.0 | 0 | A Solana sBPF virtual machine you can see inside: run, trace and profile progra… |
+| 2026-11-21 18:45:13 | [socketio-next-testing](https://crates.io/crates/socketio-next-testing) | 0.2.1 | 0 | Test support for socket.io clients: in-process Socket.IO v4 / Engine.IO v4 fake… |
+| 2026-11-21 18:48:52 | [danmaku-renderer](https://crates.io/crates/danmaku-renderer) | 0.1.0 | 0 | Render Bilibili XML danmaku as Advanced SubStation Alpha subtitles |
+| 2026-11-21 18:50:03 | [lacrymira-wasi](https://crates.io/crates/lacrymira-wasi) | 0.1.0 | 0 | WASI component bindings for lacrymira — wit world + import glue |
+| 2026-11-21 18:54:32 | [digua_jwt_ctx](https://crates.io/crates/digua_jwt_ctx) | 1.6.0 | 0 | Axum extractor for JWT principal context in KudiCoder services |
+| 2026-11-21 19:00:39 | [cybersource](https://crates.io/crates/cybersource) | 0.1.0 | 0 | Idiomatic Rust client for the Cybersource REST API (async, blocking and WebAsse… |
+| 2026-11-21 19:03:11 | [ultrafast-gpu](https://crates.io/crates/ultrafast-gpu) | 0.1.0 | 0 | Thin native GPU layer for ultrafast (Metal today, Vulkan next) |
+| 2026-11-21 19:03:16 | [ultrafast-graph](https://crates.io/crates/ultrafast-graph) | 0.1.0 | 0 | ultrafast document model: nodes, params, edits |
+| 2026-11-21 19:03:23 | [ultrafast-media](https://crates.io/crates/ultrafast-media) | 0.1.0 | 0 | ultrafast media I/O: hardware video decode and encode with zero-copy GPU interop |
+| 2026-11-21 19:03:28 | [ultrafast-framing](https://crates.io/crates/ultrafast-framing) | 0.1.0 | 0 | Face-following clip camera: turns face tracks and shot boundaries into a per-fr… |
+| 2026-11-21 19:03:39 | [ultrafast-geom](https://crates.io/crates/ultrafast-geom) | 0.1.0 | 0 | Vector geometry and text: paths, fonts, shaping, layout, measuring (CPU only) |
+| 2026-11-21 19:04:40 | [digua_common_cache](https://crates.io/crates/digua_common_cache) | 1.6.0 | 0 | Cache abstraction with Memory (Moka) and Redis backends for KudiCoder services |
+| 2026-11-21 19:06:31 | [open_table_chinese_checkers_game](https://crates.io/crates/open_table_chinese_checkers_game) | 1.1.0 | 0 | Juego de referencia del OpenTable SDK: damas chinas (Chinese Checkers). |
+| 2026-11-21 19:06:36 | [open_table_backgammon_game](https://crates.io/crates/open_table_backgammon_game) | 1.1.0 | 0 | Juego de referencia del OpenTable SDK: Backgammon. |
+| 2026-11-21 19:06:41 | [open_table_ludo_game](https://crates.io/crates/open_table_ludo_game) | 1.1.0 | 0 | Juego de referencia del OpenTable SDK: Ludo / Parchis. |
+| 2026-11-21 19:06:48 | [open_table_battleship_game](https://crates.io/crates/open_table_battleship_game) | 1.1.0 | 0 | Juego de referencia del OpenTable SDK: batalla naval (Battleship). |
+| 2026-11-21 19:06:57 | [open_table_mille_bornes_game](https://crates.io/crates/open_table_mille_bornes_game) | 1.1.0 | 0 | Juego de referencia del OpenTable SDK: Mil Millas (Mille Bornes). |
+| 2026-11-21 19:07:05 | [open_table_monopoly_game](https://crates.io/crates/open_table_monopoly_game) | 1.1.0 | 0 | Juego de referencia del OpenTable SDK: Monopoly. |
+| 2026-11-21 19:08:40 | [jpeg-xr](https://crates.io/crates/jpeg-xr) | 0.1.0 | 0 | A pure-Rust JPEG XR (ITU-T T.832) decoder with no unsafe code and no dependenci… |
+| 2026-11-21 19:09:27 | [zobs](https://crates.io/crates/zobs) | 0.1.0 | 0 | A lightweight recording studio with native zgpui, bounded media jobs, CLI and M… |
+| 2026-11-21 19:14:42 | [digua_common_crypto](https://crates.io/crates/digua_common_crypto) | 1.6.0 | 0 | Crypto utilities (Argon2 password hashing, AES-256-GCM encryption) for KudiCode… |
+| 2026-11-21 19:14:45 | [ultrafast-ops](https://crates.io/crates/ultrafast-ops) | 0.1.0 | 0 | ultrafast's op vocabulary: the op registry and param packing, built-in componen… |
+| 2026-11-21 19:17:31 | [open_table_uno_game](https://crates.io/crates/open_table_uno_game) | 1.1.0 | 0 | Juego de referencia del OpenTable SDK: UNO. |
+| 2026-11-21 19:17:58 | [pakem-framework](https://crates.io/crates/pakem-framework) | 1.0.0 | 0 | A beautiful, fast, and elegant web framework for Rust — Look like Laravel, Run… |
 
 ## Data source
 
