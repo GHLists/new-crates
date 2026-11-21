@@ -1,0 +1,37 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-21T01:20:15.163078Z,sesmesh-gpu,1.2.0,0,0,https://github.com/uvar-apps/sesmesh,GPU back ends of sesmesh (implementation crate; use sesmesh's features instead)
+2026-11-21T01:20:53.999226Z,nocomponents-core,0.1.0,0,0,https://github.com/notreallyuri/nocomponents,"Renderer-agnostic math, data structures and state machines for nocomponents"
+2026-11-21T01:21:47.720965Z,byteweave-cli,0.1.0-dev,0,0,,"CLI Byteweave: scan, bench, policy check"
+2026-11-21T01:22:06.217019Z,avectes-dioxus-history,0.7.10,0,0,https://github.com/DioxusLabs/dioxus/,History provider for dioxus
+2026-11-21T01:22:52.940792Z,kwavers-driver,0.3.13,0,0,https://github.com/ryancinsight/kwavers,"Physics-guided, manufacturing-aware driver electronics design for kwavers"
+2026-11-21T01:22:57.332847Z,bitcoinleveldb-erroriterator,0.2.0,0,0,https://github.com/klebs6/bitcoin-rs,"Constructs an empty iterator carrying a supplied Status, for paths where a table or other iterator source could not be opened."
+2026-11-21T01:27:09.408061Z,scratchy-serving-api,0.1.0,0,0,https://github.com/AI-native-Systems-Research/scratchy,"scratchy's serving front end: OpenAI- and Anthropic-compatible HTTP API (axum), chat templates, tokenization, and tool-call and reasoning parsing"
+2026-11-21T01:31:32.427073Z,byteweave-gateway,0.1.0-dev,0,0,,Шлюз Byteweave: LLM-прокси и MCP-прокси
+2026-11-21T01:32:16.378873Z,avectes-dioxus-signals,0.7.10,0,0,https://github.com/DioxusLabs/dioxus/,"Reactivie signals for Dioxus: Build fullstack web, desktop, and mobile apps with a single codebase."
+2026-11-21T01:32:57.10977Z,bitcoinleveldb-footer,0.2.0,0,0,https://github.com/klebs6/bitcoin-rs,Encoding and decoding of the fixed-size footer at the end of a LevelDB SSTable. Footer contains the metaindex and index BlockHandle values; the serialized footer includes padding and the table magic…
+2026-11-21T01:33:21.682507Z,kwavers-physics,3.0.0,0,0,https://github.com/ryancinsight/kwavers,"Physics for kwavers: nonlinear acoustics, bubble dynamics, thermal, optics, chemistry, elastic waves"
+2026-11-21T01:33:53.61474Z,wccs,1.0.0,0,0,https://github.com/Yuanyuan5510/WCCS,Rust binding for WCCS (Weighted Credit-Cooldown Sampler) C ABI
+2026-11-21T01:42:26.417571Z,avectes-dioxus-ssr,0.7.3,0,0,https://github.com/DioxusLabs/dioxus/,Dioxus render-to-string
+2026-11-21T01:42:57.613415Z,bitcoinleveldb-block,0.2.0,0,0,https://github.com/klebs6/bitcoin-rs,Read-only LevelDB table data blocks and their iterators.
+2026-11-21T01:43:20.085171Z,kwavers-solver,3.0.0,0,0,https://github.com/ryancinsight/kwavers,"Forward and inverse solvers for kwavers: FDTD/PSTD/k-space/Helmholtz, BEM, FWI/RTM/CBS, PINN"
+2026-11-21T01:52:36.573013Z,avectes-dioxus-devtools,0.7.10,0,0,https://github.com/DioxusLabs/dioxus/,Hot reloading utilities for Dioxus
+2026-11-21T01:52:53.226775Z,kwavers-analysis,4.0.0,0,0,https://github.com/ryancinsight/kwavers,"Analysis layer for kwavers: signal processing, beamforming, validation, ML/uncertainty, performance, plotting/visualization"
+2026-11-21T01:52:57.312944Z,bitcoinleveldb-tablebuilder,0.2.0,0,0,https://github.com/klebs6/bitcoin-rs,"Writes immutable sorted LevelDB SSTable files. TableBuilder assembles data, index, filter, metaindex, and footer blocks, with checksums and the configured compression policy."
+2026-11-21T02:02:35.898696Z,sandhi-dialect,0.23.0,0,0,https://github.com/anvai-labs/sandhi,"SDK request, response and stream codecs for the Sandhi chat contract"
+2026-11-21T02:02:57.45018Z,bitcoinleveldb-blockconstructor,0.2.0,0,0,https://github.com/klebs6/bitcoin-rs,Block-construction fixtures for LevelDB iterator and table tests.
+2026-11-21T02:02:57.633162Z,kwavers-gpu,5.0.0,0,0,https://github.com/ryancinsight/kwavers,Hephaestus-backed provider-generic GPU compute backend for kwavers
+2026-11-21T02:10:53.18944Z,avectes-dioxus-hooks,0.7.10,0,0,https://github.com/DioxusLabs/dioxus/,Basic useful hooks for Dioxus.
+2026-11-21T02:12:57.20971Z,bitcoinleveldb-tablerep,0.2.0,0,0,https://github.com/klebs6/bitcoin-rs,"Shared representation of an opened LevelDB SSTable, used by bitcoinleveldb-table. TableRep holds table-read options and status, a shared random-access file handle, cache identity, the metaindex handl…"
+2026-11-21T02:13:31.299254Z,kwavers-diagnostics,4.0.0,0,0,https://github.com/ryancinsight/kwavers,"Clinical diagnostic imaging workflows for kwavers: reconstruction pipelines, multi-modal fusion, Doppler, spectroscopy, functional ultrasound, decision support"
+2026-11-21T02:16:06.002033Z,neotales-oci-distribution,0.0.0-alpha.0,0,0,https://github.com/neotales/rs-docker,"Transport-neutral OCI Distribution reference parsing, content digests, media-type negotiation and registry credential policy"
+2026-11-21T02:16:14.668313Z,neotales-docker-buildkit,0.0.0-alpha.0,0,0,https://github.com/neotales/rs-docker,Explicit BuildKit builder and solve contracts with a fixture adapter
+2026-11-21T02:16:20.860786Z,neotales-docker-bake,0.0.0-alpha.0,0,0,https://github.com/neotales/rs-docker,Normalized Docker Bake document parsing and target planning
+2026-11-21T02:16:29.057Z,neotales-docker-compose,0.0.0-alpha.0,0,0,https://github.com/neotales/rs-docker,"Explicit, daemon-free Compose document and resolution primitives"
+2026-11-21T02:17:02.559936Z,neotales-docker,0.0.0-alpha.0,0,0,https://github.com/neotales/rs-docker,Repository-native Docker Engine API client
+2026-11-21T02:17:38.542776Z,shader-slang-src-core-001,1.0.0,0,0,https://github.com/amejia1/shader-slang-dev,Shader Slang source partition core-001
+2026-11-21T02:17:42.553792Z,shader-slang-src-core-002,1.0.0,0,0,https://github.com/amejia1/shader-slang-dev,Shader Slang source partition core-002
+2026-11-21T02:17:43.656385Z,libbitwuzla-sys,0.11.0,0,0,https://github.com/bitwuzla/bitwuzla,Low-level FFI bindings for the Bitwuzla SMT solver
+2026-11-21T02:17:45.317442Z,bitwuzla,0.11.0,0,0,https://github.com/bitwuzla/bitwuzla,High-level Rust bindings for the Bitwuzla SMT solver
+2026-11-21T02:17:45.443064Z,shader-slang-src-external-001,1.0.0,0,0,https://github.com/amejia1/shader-slang-dev,Shader Slang source partition external-001
+2026-11-21T02:17:48.966924Z,shader-slang-src-external-002,1.0.0,0,0,https://github.com/amejia1/shader-slang-dev,Shader Slang source partition external-002
+2026-11-21T02:17:53.691215Z,shader-slang-src-external-003,1.0.0,0,0,https://github.com/amejia1/shader-slang-dev,Shader Slang source partition external-003
