@@ -8,35 +8,33 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-21 11:18 UTC
+## Latest list — 2026-11-21 12:19 UTC
 
-New crates published between 2026-11-21 10:18 UTC and 2026-11-21 11:18 UTC.
+New crates published between 2026-11-21 11:18 UTC and 2026-11-21 12:19 UTC.
 
-[Full CSV](data/new-crates-2026-11-21T11-18-45-238976Z.csv)
+[Full CSV](data/new-crates-2026-11-21T12-19-28-279856Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-21 10:21:04 | [binaryen-sys-next](https://crates.io/crates/binaryen-sys-next) | 133.2.1 | 0 | Raw bindings to the C API of Binaryen, the WebAssembly compiler and optimizer l… |
-| 2026-11-21 10:28:58 | [aemulus-proto](https://crates.io/crates/aemulus-proto) | 0.0.2 | 0 | Generated Protobuf and gRPC code for aemulus |
-| 2026-11-21 10:29:01 | [aemulus-sila](https://crates.io/crates/aemulus-sila) | 0.0.2 | 0 | SiLA 2 core for aemulus (early work in progress) |
-| 2026-11-21 10:29:04 | [aemulus-devices](https://crates.io/crates/aemulus-devices) | 0.0.2 | 0 | Device logic for aemulus (early work in progress) |
-| 2026-11-21 10:29:08 | [aemulus-servers](https://crates.io/crates/aemulus-servers) | 0.0.2 | 0 | Device servers for aemulus (early work in progress) |
-| 2026-11-21 10:29:10 | [aemulus](https://crates.io/crates/aemulus) | 0.0.2 | 0 | A digital twin for lab automation (early work in progress) |
-| 2026-11-21 10:29:57 | [det-prime](https://crates.io/crates/det-prime) | 0.1.1 | 0 | Deterministic, zero-entropy primality testing, prime hashing, and modular squar… |
-| 2026-11-21 10:30:19 | [seam-atlas](https://crates.io/crates/seam-atlas) | 0.1.1 | 0 | Spec-free exhaustive behavioral diff and cliff-edge boundary compiler for deter… |
-| 2026-11-21 10:30:21 | [comparator-opt](https://crates.io/crates/comparator-opt) | 0.1.1 | 0 | Zero-trust superoptimization harness and cryptographic challenge lock pairing s… |
-| 2026-11-21 10:30:56 | [leptos-config-editor](https://crates.io/crates/leptos-config-editor) | 0.1.1 | 0 | A fast, VS Code-style Leptos editor for YAML, JSON, TOML, HCL, and XML configs,… |
-| 2026-11-21 10:38:26 | [laburnum-lsp-macro](https://crates.io/crates/laburnum-lsp-macro) | 0.2.0 | 0 | Proc-macros for language frontends built with the laburnum-lsp framework: CST a… |
-| 2026-11-21 10:38:54 | [laburnum-lsp](https://crates.io/crates/laburnum-lsp) | 2.0.0 | 0 | An LSP framework for building language servers and compilers, powered by an inc… |
-| 2026-11-21 10:42:16 | [adaliszkfmt](https://crates.io/crates/adaliszkfmt) | 0.1.5 | 0 | Drop-in rustfmt shim that bundles a personal style with nightly provisioning. |
-| 2026-11-21 10:44:59 | [timetools](https://crates.io/crates/timetools) | 0.1.0 | 0 | Financial date handling. |
-| 2026-11-21 10:48:12 | [fcb_api](https://crates.io/crates/fcb_api) | 0.9.1 | 0 | An OGC API - Features server over a FlatCityBuf dataset, read from a local file… |
-| 2026-11-21 10:55:09 | [sunbeams](https://crates.io/crates/sunbeams) | 0.7.0 | 0 | The library behind the sunbeams command. |
-| 2026-11-21 10:55:11 | [sunbeams-cli](https://crates.io/crates/sunbeams-cli) | 0.7.0 | 0 | The sunbeams command: a little something to brighten your day. |
-| 2026-11-21 11:07:09 | [boytacean-cartridge](https://crates.io/crates/boytacean-cartridge) | 0.14.0 | 0 | Cartridge dumping library for Boytacen. |
-| 2026-11-21 11:14:17 | [voe](https://crates.io/crates/voe) | 0.0.1 | 0 | A heavyweight, semi-centralized version control system. This release reserves t… |
-| 2026-11-21 11:14:20 | [libvoe](https://crates.io/crates/libvoe) | 0.0.1 | 0 | Library crate for the Voe version control system. This release reserves the cra… |
-| 2026-11-21 11:15:35 | [nass](https://crates.io/crates/nass) | 0.3.1 | 0 | Arabic text normalization and diacritic-insensitive search for Quran, hadith an… |
+| 2026-11-21 11:32:02 | [drawnui-audio](https://crates.io/crates/drawnui-audio) | 0.1.0 | 0 | An add-on for DrawnUI for Rust: sound output on desktop, phones and the browser… |
+| 2026-11-21 11:35:05 | [lean-audit](https://crates.io/crates/lean-audit) | 0.1.2 | 0 | Fast DAG deduplicator and proof mutation testing CLI for Lean 4 |
+| 2026-11-21 11:37:50 | [redakt](https://crates.io/crates/redakt) | 0.0.5 | 0 | Native compiled ternary-gated PII rules detector |
+| 2026-11-21 11:47:18 | [exterra](https://crates.io/crates/exterra) | 0.1.1 | 0 | Run Terraform/OpenTofu providers directly, without Terraform |
+| 2026-11-21 11:49:12 | [grammaria](https://crates.io/crates/grammaria) | 0.1.0 | 0 | A French grammar and spelling checker in Rust: LanguageTool's French rules repr… |
+| 2026-11-21 11:55:10 | [afg-core](https://crates.io/crates/afg-core) | 1.0.0-rc.1 | 0 | AgentForge Guard policy engine: fail-closed command normalization, protected pa… |
+| 2026-11-21 11:55:12 | [afg-detect](https://crates.io/crates/afg-detect) | 1.0.0-rc.1 | 0 | AgentForge Guard technology-stack, coding-agent and risk detection (read-only) |
+| 2026-11-21 11:55:12 | [afg-executor](https://crates.io/crates/afg-executor) | 1.0.0-rc.1 | 0 | AgentForge Guard execution backends: local, hardened Docker and Cloudflare |
+| 2026-11-21 11:55:12 | [afg-report](https://crates.io/crates/afg-report) | 1.0.0-rc.1 | 0 | AgentForge Guard audit log, secret redaction and SARIF reports |
+| 2026-11-21 11:55:13 | [agentforge-guard](https://crates.io/crates/agentforge-guard) | 1.0.0-rc.1 | 0 | AgentForge Guard (afg): a policy-driven execution guard for AI coding agents |
+| 2026-11-21 12:04:23 | [scribe-tui](https://crates.io/crates/scribe-tui) | 0.1.0 | 0 | local, offline, cpu-only speech to text in the terminal |
+| 2026-11-21 12:04:53 | [rustweave-core](https://crates.io/crates/rustweave-core) | 0.3.0 | 0 | A DataWeave-compatible expression engine |
+| 2026-11-21 12:05:26 | [rustweave](https://crates.io/crates/rustweave) | 0.3.0 | 0 | Command-line interface for the rustweave expression engine |
+| 2026-11-21 12:06:02 | [vld-web](https://crates.io/crates/vld-web) | 0.0.0 | 0 | Placeholder: vld-web is published from https://github.com/s00d/vld starting wit… |
+| 2026-11-21 12:06:08 | [vld-openapi](https://crates.io/crates/vld-openapi) | 0.0.0 | 0 | Placeholder: vld-openapi is published from https://github.com/s00d/vld starting… |
+| 2026-11-21 12:06:15 | [vld-data](https://crates.io/crates/vld-data) | 0.0.0 | 0 | Placeholder: vld-data is published from https://github.com/s00d/vld starting wi… |
+| 2026-11-21 12:06:22 | [vld-app](https://crates.io/crates/vld-app) | 0.0.0 | 0 | Placeholder: vld-app is published from https://github.com/s00d/vld starting wit… |
+| 2026-11-21 12:06:48 | [evorule-law-schema](https://crates.io/crates/evorule-law-schema) | 0.1.0 | 0 | EvoRule Law Set Schema gate — embedded anchors, serde types, and deterministic… |
+| 2026-11-21 12:06:52 | [evorule-criticality](https://crates.io/crates/evorule-criticality) | 0.1.0 | 0 | EvoRule verification criticality pipeline — pure-function pipeline injecting pr… |
 
 ## Data source
 

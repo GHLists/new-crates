@@ -1,0 +1,20 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-21T11:32:02.218366Z,drawnui-audio,0.1.0,0,0,https://github.com/DrawnUi/DrawnUi.Rust,"An add-on for DrawnUI for Rust: sound output on desktop, phones and the browser, streams the app pushes, generators and a mixer."
+2026-11-21T11:35:05.99359Z,lean-audit,0.1.2,0,0,https://github.com,Fast DAG deduplicator and proof mutation testing CLI for Lean 4
+2026-11-21T11:37:50.000951Z,redakt,0.0.5,0,0,https://github.com/thoriqakbar0/redakt,Native compiled ternary-gated PII rules detector
+2026-11-21T11:47:18.921989Z,exterra,0.1.1,0,0,https://github.com/andrewbaxter/exterra,"Run Terraform/OpenTofu providers directly, without Terraform"
+2026-11-21T11:49:12.113979Z,grammaria,0.1.0,0,0,https://github.com/WillIsback/grammaria-rc,"A French grammar and spelling checker in Rust: LanguageTool's French rules reproduced match for match, plus its own"
+2026-11-21T11:55:10.47208Z,afg-core,1.0.0-rc.1,0,0,https://github.com/dennislee928/AgentForge-Guard,"AgentForge Guard policy engine: fail-closed command normalization, protected paths and decisions"
+2026-11-21T11:55:12.014486Z,afg-detect,1.0.0-rc.1,0,0,https://github.com/dennislee928/AgentForge-Guard,"AgentForge Guard technology-stack, coding-agent and risk detection (read-only)"
+2026-11-21T11:55:12.373798Z,afg-executor,1.0.0-rc.1,0,0,https://github.com/dennislee928/AgentForge-Guard,"AgentForge Guard execution backends: local, hardened Docker and Cloudflare"
+2026-11-21T11:55:12.614076Z,afg-report,1.0.0-rc.1,0,0,https://github.com/dennislee928/AgentForge-Guard,"AgentForge Guard audit log, secret redaction and SARIF reports"
+2026-11-21T11:55:13.721145Z,agentforge-guard,1.0.0-rc.1,0,0,https://github.com/dennislee928/AgentForge-Guard,AgentForge Guard (afg): a policy-driven execution guard for AI coding agents
+2026-11-21T12:04:23.609883Z,scribe-tui,0.1.0,0,0,https://github.com/programmersd21/scribe,"local, offline, cpu-only speech to text in the terminal"
+2026-11-21T12:04:53.204395Z,rustweave-core,0.3.0,0,0,https://github.com/omkarium/rustweave,A DataWeave-compatible expression engine
+2026-11-21T12:05:26.940327Z,rustweave,0.3.0,0,0,https://github.com/omkarium/rustweave,Command-line interface for the rustweave expression engine
+2026-11-21T12:06:02.261242Z,vld-web,0.0.0,0,0,https://github.com/s00d/vld,Placeholder: vld-web is published from https://github.com/s00d/vld starting with 0.8.0
+2026-11-21T12:06:08.370132Z,vld-openapi,0.0.0,0,0,https://github.com/s00d/vld,Placeholder: vld-openapi is published from https://github.com/s00d/vld starting with 0.8.0
+2026-11-21T12:06:15.192429Z,vld-data,0.0.0,0,0,https://github.com/s00d/vld,Placeholder: vld-data is published from https://github.com/s00d/vld starting with 0.8.0
+2026-11-21T12:06:22.092043Z,vld-app,0.0.0,0,0,https://github.com/s00d/vld,Placeholder: vld-app is published from https://github.com/s00d/vld starting with 0.8.0
+2026-11-21T12:06:48.918725Z,evorule-law-schema,0.1.0,0,0,https://github.com/evorule/evorule-criticality,"EvoRule Law Set Schema gate — embedded anchors, serde types, and deterministic structural validation for the law_set v1.0 finalized schema"
+2026-11-21T12:06:52.702327Z,evorule-criticality,0.1.0,0,0,https://github.com/evorule/evorule-criticality,EvoRule verification criticality pipeline — pure-function pipeline injecting proposition verification (dimensional alignment / law substitution / constant comparison / three-state aggregation) with e…
