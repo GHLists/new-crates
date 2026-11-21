@@ -8,46 +8,54 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-21 08:20 UTC
+## Latest list — 2026-11-21 09:19 UTC
 
-New crates published between 2026-11-21 07:19 UTC and 2026-11-21 08:20 UTC.
+New crates published between 2026-11-21 08:20 UTC and 2026-11-21 09:19 UTC.
 
-[Full CSV](data/new-crates-2026-11-21T08-20-50-875239Z.csv)
+[Full CSV](data/new-crates-2026-11-21T09-19-02-111701Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-21 07:19:53 | [mc683xx-bdm-proto](https://crates.io/crates/mc683xx-bdm-proto) | 0.1.0 | 0 | The mc683xx BDM pod's protocol: CPU32 BDM command sequences and the pod's USB r… |
-| 2026-11-21 07:20:05 | [mc683xx-bdm](https://crates.io/crates/mc683xx-bdm) | 0.1.0 | 0 | The host side of the mc683xx BDM pod, a USB debugger for CPU32 (683xx) microcon… |
-| 2026-11-21 07:22:56 | [bitcoinleveldbt-issue44](https://crates.io/crates/bitcoinleveldbt-issue44) | 0.2.0 | 0 | Level-zero compaction regressions for upstream LevelDB issue 44. |
-| 2026-11-21 07:29:04 | [rust-webx-auth-ef](https://crates.io/crates/rust-webx-auth-ef) | 2.5.0 | 0 | rust-ef-backed durable refresh-token and browser-session stores for rust-webx |
-| 2026-11-21 07:30:06 | [rust-webx-mfa](https://crates.io/crates/rust-webx-mfa) | 2.5.0 | 0 | TOTP and recovery-code multi-factor authentication for rust-webx |
-| 2026-11-21 07:30:23 | [rust-webx-webauthn](https://crates.io/crates/rust-webx-webauthn) | 2.5.0 | 0 | WebAuthn/Passkey relying-party verification for rust-webx services |
-| 2026-11-21 07:32:57 | [bitcoinleveldbt-issue474](https://crates.io/crates/bitcoinleveldbt-issue474) | 0.2.0 | 0 | Logging/flush regression for upstream LevelDB issue 474. |
-| 2026-11-21 07:34:58 | [rust-webx-oauth2](https://crates.io/crates/rust-webx-oauth2) | 2.5.0 | 0 | OAuth 2.0 social-login client for rust-webx with provider presets (GitHub, Goog… |
-| 2026-11-21 07:35:23 | [vusl-coverage](https://crates.io/crates/vusl-coverage) | 0.1.0-dev.1 | 0 | Caller-selected required term coverage for checked VUSL mapping reviews |
-| 2026-11-21 07:35:32 | [rust-webx-oidc](https://crates.io/crates/rust-webx-oidc) | 2.5.0 | 0 | OpenID Connect client for rust-webx: discovery, PKCE, id_token validation and s… |
-| 2026-11-21 07:39:09 | [kelir](https://crates.io/crates/kelir) | 0.1.0 | 0 | A small, steerable coding-agent harness |
-| 2026-11-21 07:39:27 | [rust-webx-redis](https://crates.io/crates/rust-webx-redis) | 2.5.0 | 0 | Redis distributed cache and event transport for rust-webx (ASP.NET Core style a… |
-| 2026-11-21 07:42:57 | [bitcoinleveldbt-mt](https://crates.io/crates/bitcoinleveldbt-mt) | 0.2.0 | 0 | Multithreaded database read/write regression across fixture option configuratio… |
-| 2026-11-21 07:46:59 | [rust-webx-nats](https://crates.io/crates/rust-webx-nats) | 2.5.0 | 0 | NATS event transport for rust-webx (ASP.NET Core style add_nats) |
-| 2026-11-21 07:48:41 | [oyta-content](https://crates.io/crates/oyta-content) | 0.1.0 | 0 | oyta-frame 内容分析层：原始输入 → 领域权重分布。内置 RuleBased / TFIDF / Hybrid 三种分析器，支持自定义 Domain… |
-| 2026-11-21 07:48:45 | [oyta-autograd](https://crates.io/crates/oyta-autograd) | 0.1.0 | 0 | oyta-frame 自动微分引擎：Node 带 domain_id 的稀疏计算图，Op 17+ 变体（含 Conv1dMasked / BatchNorm1… |
-| 2026-11-21 07:48:51 | [oyta-loss](https://crates.io/crates/oyta-loss) | 0.1.0 | 0 | oyta-frame 损失函数层：CrossEntropyLoss（label_smoothing）、MSELoss、MultiDomainLoss 按 ac… |
-| 2026-11-21 07:49:12 | [oyta-router](https://crates.io/crates/oyta-router) | 0.1.0 | 0 | oyta-frame 稀疏路由 + 参数池层：TopK / Threshold 路由策略，SparseParameterPool 按领域独立维护参数，三层稀疏… |
-| 2026-11-21 07:52:40 | [oyta-optim](https://crates.io/crates/oyta-optim) | 0.1.0 | 0 | oyta-frame 优化器 + 调度器层：SparseAdam / SparseSGD 按领域独立维护 HashMap<u32, DomainState>（… |
-| 2026-11-21 07:52:57 | [bitcoinleveldbt-snapshot](https://crates.io/crates/bitcoinleveldbt-snapshot) | 0.2.0 | 0 | Snapshot behavior, lifetime and dispatch regressions for the LevelDB port. |
-| 2026-11-21 07:56:54 | [condo-quote-units](https://crates.io/crates/condo-quote-units) | 1.0.0 | 0 | Exact numeric and evidence boundaries for condominium sale and rental quotes. |
-| 2026-11-21 07:58:24 | [oyta-serialize](https://crates.io/crates/oyta-serialize) | 0.1.0 | 0 | oyta-frame safetensors v0 格式稀疏序列化：手写完整二进制格式（8 bytes header_len + JSON 8 字节对齐 +… |
-| 2026-11-21 07:59:28 | [rust-webx-rabbitmq](https://crates.io/crates/rust-webx-rabbitmq) | 2.5.0 | 0 | RabbitMQ (AMQP) event transport for rust-webx (ASP.NET Core style add_rabbitmq) |
-| 2026-11-21 08:00:18 | [backout](https://crates.io/crates/backout) | 0.1.0 | 0 | Run async steps with retries and exponential backoff, undoing completed steps i… |
-| 2026-11-21 08:01:23 | [razer-headset](https://crates.io/crates/razer-headset) | 0.1.0 | 0 | Command-line control for the Razer BlackShark V2 HyperSpeed headset on Linux |
-| 2026-11-21 08:02:57 | [bitcoinleveldbt-sparsemerge](https://crates.io/crates/bitcoinleveldbt-sparsemerge) | 0.2.0 | 0 | Sparse-merge compaction and environment-borrow regressions. |
-| 2026-11-21 08:08:05 | [oyta-expert](https://crates.io/crates/oyta-expert) | 0.1.0 | 0 | oyta-frame 专家模块层：MLP / CNN1D / RNN / Transformer 四种专家，ExpertExecutor 框架层 contin… |
-| 2026-11-21 08:10:47 | [rust-webx-kafka](https://crates.io/crates/rust-webx-kafka) | 2.5.0 | 0 | Kafka event transport for rust-webx (ASP.NET Core style add_kafka) |
-| 2026-11-21 08:15:57 | [bitcoinleveldbt-randomized](https://crates.io/crates/bitcoinleveldbt-randomized) | 0.2.0 | 0 | Deterministic randomized, replay and failure-prefix regressions for the LevelDB… |
-| 2026-11-21 08:16:03 | [repose-ui-test](https://crates.io/crates/repose-ui-test) | 0.35.0 | 0 | Deterministic UI testing harness for Repose |
-| 2026-11-21 08:19:40 | [nifly-sys](https://crates.io/crates/nifly-sys) | 0.1.0 | 0 | Raw cxx bindings to the nifly C++ NIF library, built from source |
-| 2026-11-21 08:19:43 | [nifly](https://crates.io/crates/nifly) | 0.1.0 | 0 | Read, edit and write NIF files from Bethesda's games, Morrowind to Starfield |
+| 2026-11-21 08:20:51 | [batonly](https://crates.io/crates/batonly) | 0.0.1 | 0 | Name reserved for the Batonly project |
+| 2026-11-21 08:21:10 | [reylo-pg-query](https://crates.io/crates/reylo-pg-query) | 18.0.0 | 0 | The PostgreSQL 18 parser of pg_query 18.0.0 and libpg_query 18.1.0, with the fi… |
+| 2026-11-21 08:21:12 | [batonly-cli](https://crates.io/crates/batonly-cli) | 0.0.1 | 0 | Name reserved for the Batonly project |
+| 2026-11-21 08:21:16 | [reylo-sqlparser](https://crates.io/crates/reylo-sqlparser) | 0.63.0 | 0 | The MySQL analysis engine's copy of sqlparser 0.63.0, cut to queries and DML an… |
+| 2026-11-21 08:21:20 | [reylo-engine-build](https://crates.io/crates/reylo-engine-build) | 0.8.0 | 0 | What the engine crates' build scripts share: the hash of a crate's sources that… |
+| 2026-11-21 08:21:24 | [reylo-engine-core](https://crates.io/crates/reylo-engine-core) | 0.8.0 | 0 | What every database's analysis engine shares: the request protocol and its host… |
+| 2026-11-21 08:21:30 | [reylo-engine-postgres](https://crates.io/crates/reylo-engine-postgres) | 0.8.0 | 0 | Reylo's analysis engine for Postgres: libpg_query's parse tree, the type regist… |
+| 2026-11-21 08:21:31 | [batonly-core](https://crates.io/crates/batonly-core) | 0.0.1 | 0 | Name reserved for the Batonly project |
+| 2026-11-21 08:21:44 | [axross-amp](https://crates.io/crates/axross-amp) | 0.15.1 | 0 | axross's Media Player as a program of its own, in Rust: playlists, a ten-band e… |
+| 2026-11-21 08:21:51 | [batonly-client](https://crates.io/crates/batonly-client) | 0.0.1 | 0 | Name reserved for the Batonly project |
+| 2026-11-21 08:22:11 | [batonly-connector](https://crates.io/crates/batonly-connector) | 0.0.1 | 0 | Name reserved for the Batonly project |
+| 2026-11-21 08:22:20 | [oyta-fusion](https://crates.io/crates/oyta-fusion) | 0.1.0 | 0 | oyta-frame 特征融合层：WeightedSum / ConcatLinear / CrossAttention（真实 FlashAttention… |
+| 2026-11-21 08:31:49 | [reylo-engine-sqlite](https://crates.io/crates/reylo-engine-sqlite) | 0.8.0 | 0 | Reylo's analysis engine for SQLite: SQLite's own resolved tree, from an amalgam… |
+| 2026-11-21 08:31:51 | [oyta-trainer](https://crates.io/crates/oyta-trainer) | 0.1.0 | 0 | oyta-frame 端到端训练主循环：SparseTrainer 11 步完整稀疏训练时序（ContentAnalyzer → Router → Exper… |
+| 2026-11-21 08:32:35 | [batonly-relay](https://crates.io/crates/batonly-relay) | 0.0.1 | 0 | Name reserved for the Batonly project |
+| 2026-11-21 08:37:58 | [config-editor-leptos](https://crates.io/crates/config-editor-leptos) | 0.1.0 | 0 | A fast, VS Code-style Leptos editor for YAML, JSON, TOML, HCL, and XML configs,… |
+| 2026-11-21 08:39:20 | [nunc-mens](https://crates.io/crates/nunc-mens) | 0.1.0 | 0 | Repository-local semantic memory |
+| 2026-11-21 08:39:42 | [wallclock](https://crates.io/crates/wallclock) | 0.1.0 | 0 | Datetimes in time zones with arithmetic on the wall clock, as Python's datetime… |
+| 2026-11-21 08:41:11 | [cuprite_wire_embedded_hal](https://crates.io/crates/cuprite_wire_embedded_hal) | 0.2.0 | 0 | embedded-hal implementations that run firmware against a cuprite_wire circuit s… |
+| 2026-11-21 08:42:02 | [reylo-engine-mysql](https://crates.io/crates/reylo-engine-mysql) | 0.8.0 | 0 | Reylo's analysis engine for MySQL: the server's prepare metadata and a sqlparse… |
+| 2026-11-21 08:42:57 | [batonly-relay-client](https://crates.io/crates/batonly-relay-client) | 0.0.1 | 0 | Name reserved for the Batonly project |
+| 2026-11-21 08:44:12 | [vorbis-enc](https://crates.io/crates/vorbis-enc) | 0.1.0 | 0 | A Vorbis encoder in pure Rust: a port of aoTuV, producing exactly the same file… |
+| 2026-11-21 08:45:56 | [sigmask](https://crates.io/crates/sigmask) | 0.1.0 | 0 | Decode Linux process signal masks (SigPnd, ShdPnd, SigBlk, SigIgn, SigCgt) from… |
+| 2026-11-21 08:52:17 | [reylo-engine](https://crates.io/crates/reylo-engine) | 0.8.0 | 0 | Reylo's analysis engine for a Rust host: each database's engine behind a featur… |
+| 2026-11-21 08:53:23 | [batonly-proxy](https://crates.io/crates/batonly-proxy) | 0.0.1 | 0 | Name reserved for the Batonly project |
+| 2026-11-21 09:02:17 | [plexus-axon](https://crates.io/crates/plexus-axon) | 0.1.0 | 0 | Signed distribution of the Axon command line for Plexus RPC |
+| 2026-11-21 09:02:40 | [reylo-migrate](https://crates.io/crates/reylo-migrate) | 0.8.0 | 0 | Reylo's migrations: hand-written SQL migrations checked against the declared sc… |
+| 2026-11-21 09:03:47 | [batonly-sandbox](https://crates.io/crates/batonly-sandbox) | 0.0.1 | 0 | Name reserved for the Batonly project |
+| 2026-11-21 09:04:09 | [oyta_frame](https://crates.io/crates/oyta_frame) | 0.1.0 | 0 | 生产环境稀疏 MoE 训练框架 — 一行 prelude 导入全部 9 个子 crate 的公共 API。agpl-3.0-or-later 开源，商用需单独… |
+| 2026-11-21 09:11:00 | [xtmd-ir](https://crates.io/crates/xtmd-ir) | 0.3.1 | 0 | The IR's types and the check protocol's, generated from schemas/ |
+| 2026-11-21 09:11:00 | [xtmd-syntax](https://crates.io/crates/xtmd-syntax) | 0.3.1 | 0 | Extended Mark's reader: the lexer, the lossless syntax tree, the parser for cod… |
+| 2026-11-21 09:11:01 | [xtmd-eval](https://crates.io/crates/xtmd-eval) | 0.3.1 | 0 | Extended Mark's evaluator: exact decimal128 numbers, values, the native fns and… |
+| 2026-11-21 09:11:02 | [xtmd-lower](https://crates.io/crates/xtmd-lower) | 0.3.1 | 0 | Lowering: every prop that isn't constant becomes a binding with everything it r… |
+| 2026-11-21 09:11:03 | [xtmd-check](https://crates.io/crates/xtmd-check) | 0.3.1 | 0 | The checker: names and types, constants worked out at compile time, and the IR |
+| 2026-11-21 09:12:52 | [porin](https://crates.io/crates/porin) | 0.1.0-alpha.1 | 0 | Rate limiting for Rust services: several algorithms, shared storage, any framew… |
+| 2026-11-21 09:12:54 | [reylo-build](https://crates.io/crates/reylo-build) | 0.8.0 | 0 | Reylo's Rust modules: a statement's analysis as Query, Row and run on sqlx, whi… |
+| 2026-11-21 09:14:09 | [batonly-update](https://crates.io/crates/batonly-update) | 0.0.1 | 0 | Name reserved for the Batonly project |
+| 2026-11-21 09:16:32 | [auth-ai](https://crates.io/crates/auth-ai) | 0.1.0-dev.202611210… | 0 | Rust SDK for applications relying on a CIRCLE auth-service identity provider: O… |
+| 2026-11-21 09:17:21 | [dataframes](https://crates.io/crates/dataframes) | 0.1.0 | 0 | Zero-copy columnar dataframes: allocator-backed cache-aligned columns, SIMD-acc… |
+| 2026-11-21 09:18:35 | [rover-align](https://crates.io/crates/rover-align) | 0.1.0 | 0 | ROVER's alignment step: a token-level Levenshtein edit script, generic over the… |
 
 ## Data source
 
