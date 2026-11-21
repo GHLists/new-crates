@@ -8,44 +8,70 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-21 15:18 UTC
+## Latest list — 2026-11-21 16:21 UTC
 
-New crates published between 2026-11-21 14:18 UTC and 2026-11-21 15:18 UTC.
+New crates published between 2026-11-21 15:18 UTC and 2026-11-21 16:21 UTC.
 
-[Full CSV](data/new-crates-2026-11-21T15-18-47-861048Z.csv)
+[Full CSV](data/new-crates-2026-11-21T16-21-26-049587Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-21 14:19:42 | [nesh](https://crates.io/crates/nesh) | 0.0.1 | 0 | [WIP] A fast, cross-platform network configuration and diagnostics CLI. |
-| 2026-11-21 14:19:44 | [gif2ascii](https://crates.io/crates/gif2ascii) | 0.1.0 | 0 | GIFs, but make them text. Turn any GIF into animated ASCII art in the terminal. |
-| 2026-11-21 14:23:22 | [sio2box-tools](https://crates.io/crates/sio2box-tools) | 0.1.0 | 0 | Utility crate shared by the sio2box sandbox and its tooling |
-| 2026-11-21 14:23:25 | [sio2box](https://crates.io/crates/sio2box) | 0.1.0 | 0 | A sandbox for Linux systems |
-| 2026-11-21 14:24:56 | [cosmosearch-format](https://crates.io/crates/cosmosearch-format) | 0.1.0 | 0 | The file table and chunk records of the cosmosearch index. |
-| 2026-11-21 14:28:01 | [f_tex](https://crates.io/crates/f_tex) | 0.1.0 | 0 | A Rust LaTeX document parsing engine, with f_tex at its core, providing complet… |
-| 2026-11-21 14:34:58 | [f_md](https://crates.io/crates/f_md) | 0.1.0 | 0 | A Rust Markdown document parsing engine, with f_md at its core, providing compl… |
-| 2026-11-21 14:35:15 | [cosmosearch-http](https://crates.io/crates/cosmosearch-http) | 0.1.0 | 0 | Embeddings and reranking over HTTP APIs for cosmosearch. |
-| 2026-11-21 14:39:01 | [rustydiscord](https://crates.io/crates/rustydiscord) | 0.0.4 | 0 | The fastest and most complete Rust library for the Discord API |
-| 2026-11-21 14:39:04 | [leptos_static](https://crates.io/crates/leptos_static) | 0.9.0-rc2 | 0 | Render a statically hostable website using leptos |
-| 2026-11-21 14:43:36 | [cosmosearch-lexical](https://crates.io/crates/cosmosearch-lexical) | 0.1.0 | 0 | BM25 keyword search for cosmosearch, over tantivy. |
-| 2026-11-21 14:43:56 | [cascivo-web](https://crates.io/crates/cascivo-web) | 0.1.0 | 0 | Static sites from Markdown and content collections, with cascivo-html component… |
-| 2026-11-21 14:46:15 | [kargui](https://crates.io/crates/kargui) | 0.1.0 | 0 | A light native GUI framework for Rust on Windows: immediate-mode code, CPU rend… |
-| 2026-11-21 14:53:56 | [cosmosearch-rerank-local](https://crates.io/crates/cosmosearch-rerank-local) | 0.1.0 | 0 | Local CPU reranking for cosmosearch, using candle. |
-| 2026-11-21 14:56:57 | [iletki-core](https://crates.io/crates/iletki-core) | 0.1.0 | 0 | Framework-agnostic 2D/3D viewport math, cameras, rigs and rendering contracts |
-| 2026-11-21 14:57:07 | [iletki-wgpu](https://crates.io/crates/iletki-wgpu) | 0.1.0 | 0 | Framework-agnostic wgpu viewport host, cached targets, draw phases and GPU pick… |
-| 2026-11-21 14:57:15 | [iletki-2d](https://crates.io/crates/iletki-2d) | 0.1.0 | 0 | High-precision 2D CAD and vector layer kit for iletki with split hi/lo precisio… |
-| 2026-11-21 14:57:21 | [iletki-3d](https://crates.io/crates/iletki-3d) | 0.1.0 | 0 | Camera-relative Reversed-Z 3D scene, infinite ground grid, section clip planes… |
-| 2026-11-21 14:57:31 | [iletki-egui](https://crates.io/crates/iletki-egui) | 0.1.0 | 0 | Thin egui / eframe adapter for the iletki GPU viewport |
-| 2026-11-21 15:00:55 | [humany](https://crates.io/crates/humany) | 0.1.0 | 0 | Human-readable formatting for Rust |
-| 2026-11-21 15:04:16 | [cosmosearch-store](https://crates.io/crates/cosmosearch-store) | 0.1.0 | 0 | Storage for cosmosearch: backends, index lifecycle and atomic commits. |
-| 2026-11-21 15:07:28 | [iletki](https://crates.io/crates/iletki) | 0.1.0 | 0 | Embeddable wgpu viewport for 2D and 3D CAD, GIS, and Rust editors |
-| 2026-11-21 15:12:34 | [pirin-core](https://crates.io/crates/pirin-core) | 0.1.0 | 0 | The model of a pirin pipeline, and the rules that check it |
-| 2026-11-21 15:12:43 | [pirin-extension](https://crates.io/crates/pirin-extension) | 0.1.0 | 0 | What the renderer of a pirin extension is written against (docs/adr/0024-extens… |
-| 2026-11-21 15:13:47 | [mt-docx-layout](https://crates.io/crates/mt-docx-layout) | 0.2.1 | 0 | Thesis layout presets applied to a generated .docx. |
-| 2026-11-21 15:14:34 | [cosmosearch-heat](https://crates.io/crates/cosmosearch-heat) | 0.1.0 | 0 | Usage tracking for cosmosearch, which decides where vectors pay off. |
-| 2026-11-21 15:16:30 | [graphlink-anthropic](https://crates.io/crates/graphlink-anthropic) | 0.1.4 | 0 | graphlink-anthropic: the Anthropic Messages API as a model backend for a GraphL… |
-| 2026-11-21 15:16:31 | [graphlink-claude](https://crates.io/crates/graphlink-claude) | 0.1.4 | 0 | graphlink-claude: Claude Code (the claude CLI in print mode) as a model backend… |
-| 2026-11-21 15:16:31 | [graphlink-openai](https://crates.io/crates/graphlink-openai) | 0.1.4 | 0 | graphlink-openai: any OpenAI-compatible chat completions server as a model back… |
-| 2026-11-21 15:18:03 | [bilibilive](https://crates.io/crates/bilibilive) | 0.1.1 | 0 | A native Bilibili streaming studio with CLI, MCP, zuse automation and zgpui |
+| 2026-11-21 15:19:23 | [swarmed-core](https://crates.io/crates/swarmed-core) | 0.1.0 | 0 | Headless core of Swarmed: projects, tasks, worktrees and agent sessions |
+| 2026-11-21 15:19:25 | [swarmed](https://crates.io/crates/swarmed) | 0.1.0 | 0 | Run coding agents side by side, each in its own git worktree: the swarmed comma… |
+| 2026-11-21 15:24:52 | [cosmosearch-indexer](https://crates.io/crates/cosmosearch-indexer) | 0.1.0 | 0 | Indexing for cosmosearch: file changes, indexing jobs and promotion. |
+| 2026-11-21 15:26:19 | [libev](https://crates.io/crates/libev) | 0.2.6 | 0 | A Rust I/O library for the event-driven asynchronous network applications |
+| 2026-11-21 15:26:22 | [fm1-audio](https://crates.io/crates/fm1-audio) | 0.1.0 | 0 | Allocation-free stereo output and mixing for the M-VAVE FM-1 |
+| 2026-11-21 15:27:41 | [xtime](https://crates.io/crates/xtime) | 2026.11.0 | 0 | Dates, times, durations and intervals with time zones, locales and the Islamic,… |
+| 2026-11-21 15:27:44 | [xbase](https://crates.io/crates/xbase) | 0.0.0 | 0 | Errors, logging, OS random numbers, UUID and ULID IDs, and base64, hex and base… |
+| 2026-11-21 15:27:47 | [xdata](https://crates.io/crates/xdata) | 0.0.0 | 0 | JSON, streaming JSON, JSON Schema, TOML, .env and CSV for Rust, with type mappi… |
+| 2026-11-21 15:27:50 | [xtext](https://crates.io/crates/xtext) | 0.0.0 | 0 | CommonMark Markdown with safe HTML output and streaming, diff and patch, templa… |
+| 2026-11-21 15:27:53 | [xwire](https://crates.io/crates/xwire) | 0.0.0 | 0 | URLs, HTTP messages, cookies, server-sent events, JSON-RPC and form bodies for… |
+| 2026-11-21 15:28:39 | [marmo-net](https://crates.io/crates/marmo-net) | 0.0.3 | 0 | Endpoints, CIDR, and network types for marmo |
+| 2026-11-21 15:28:41 | [marmo-transport](https://crates.io/crates/marmo-transport) | 0.0.3 | 0 | Stream adapters, TLS/WS/H2 layers, and relay for marmo |
+| 2026-11-21 15:28:44 | [marmo-proto](https://crates.io/crates/marmo-proto) | 0.0.3 | 0 | Wire codecs for marmo proxy protocols |
+| 2026-11-21 15:28:46 | [marmo](https://crates.io/crates/marmo) | 0.0.3 | 0 | Embeddable TCP/UDP proxy library |
+| 2026-11-21 15:30:27 | [varstat](https://crates.io/crates/varstat) | 1.3.0 | 0 | 一个简单的计算方差的工具。由Rust编写而成。是LKHSSS学习Rust语言的练手之作。 |
+| 2026-11-21 15:32:14 | [lp-highs](https://crates.io/crates/lp-highs) | 0.1.0 | 0 | HiGHS solver integration for LP/MPS models: solve, infeasibility diagnosis, IIS… |
+| 2026-11-21 15:35:12 | [cosmosearch-query](https://crates.io/crates/cosmosearch-query) | 0.1.0 | 0 | Search, read and refresh for cosmosearch. |
+| 2026-11-21 15:36:28 | [fm1-controls](https://crates.io/crates/fm1-controls) | 0.1.0 | 0 | Asynchronous front-panel input for the M-VAVE FM-1 |
+| 2026-11-21 15:38:10 | [xnum](https://crates.io/crates/xnum) | 0.0.0 | 0 | Exact decimals, money, locale-aware number formatting, big integers, units and… |
+| 2026-11-21 15:41:05 | [bruno-tui](https://crates.io/crates/bruno-tui) | 0.1.0 | 0 | TUI pour explorer et exécuter des collections Bruno (.bru) via le CLI bru |
+| 2026-11-21 15:43:27 | [cosmosearch-vector](https://crates.io/crates/cosmosearch-vector) | 0.1.0 | 0 | Vector search for cosmosearch: an IVF index and an embedding store. |
+| 2026-11-21 15:44:32 | [probatio](https://crates.io/crates/probatio) | 0.0.1 | 0 | Issue and verify offline software licenses with COSE and Ed25519. |
+| 2026-11-21 15:45:13 | [rerun_on_panic](https://crates.io/crates/rerun_on_panic) | 0.1.0 | 0 | Closure run helper to restart on panic. |
+| 2026-11-21 15:45:59 | [pakem_macros](https://crates.io/crates/pakem_macros) | 1.0.0 | 0 | Procedural macros for Pakem Framework (PakemModel ORM derive, declarative form… |
+| 2026-11-21 15:47:35 | [quickjs-gc](https://crates.io/crates/quickjs-gc) | 0.2.0 | 0 | Reference counting with cycle collection for the pure-Rust QuickJS port |
+| 2026-11-21 15:47:40 | [xcp_registry_derive](https://crates.io/crates/xcp_registry_derive) | 0.1.0 | 0 | Derive macro McRegisterType: generates direct xcp_registry registration code |
+| 2026-11-21 15:47:57 | [quickjs-parse](https://crates.io/crates/quickjs-parse) | 0.2.0 | 0 | ECMAScript 2025 lexer, AST and parser for the pure-Rust QuickJS port |
+| 2026-11-21 15:48:04 | [xcp_registry](https://crates.io/crates/xcp_registry) | 0.1.0 | 0 | Measurement and Calibration registry for XCP - pure Rust, no C dependency |
+| 2026-11-21 15:48:18 | [xterminal](https://crates.io/crates/xterminal) | 0.0.0 | 0 | Argument parsing, layered settings, terminal output, glob and ignore-file match… |
+| 2026-11-21 15:48:28 | [quickjs-compile](https://crates.io/crates/quickjs-compile) | 0.2.0 | 0 | Bytecode compiler for the pure-Rust QuickJS port |
+| 2026-11-21 15:48:57 | [quickjs-pure](https://crates.io/crates/quickjs-pure) | 0.2.0 | 0 | Embeddable JavaScript engine written in pure Rust (QuickJS-compatible) |
+| 2026-11-21 15:49:09 | [rsclankauth](https://crates.io/crates/rsclankauth) | 0.1.0 | 0 | Embedded OAuth authorization server for MCP applications |
+| 2026-11-21 15:49:27 | [pakem](https://crates.io/crates/pakem) | 1.0.0 | 0 | A beautiful, fast, and elegant web framework for Rust — Look like Laravel, Run… |
+| 2026-11-21 15:51:25 | [cargo-nuspec](https://crates.io/crates/cargo-nuspec) | 0.3.0 | 0 | Cargo subcommand that builds a crate and packages it as NuGet packages (.nuspec… |
+| 2026-11-21 15:53:08 | [canting](https://crates.io/crates/canting) | 1.0.0 | 0 | The official Artisan-like CLI toolchain for Pakem Framework |
+| 2026-11-21 15:53:28 | [fm1-graphics](https://crates.io/crates/fm1-graphics) | 0.1.0 | 0 | Allocation-free text and waveform rendering for the M-VAVE FM-1 |
+| 2026-11-21 15:53:55 | [cosmosearch](https://crates.io/crates/cosmosearch) | 0.1.0 | 0 | Rust library for hybrid keyword and semantic search over large collections of f… |
+| 2026-11-21 15:57:19 | [gpui-empty-states](https://crates.io/crates/gpui-empty-states) | 0.1.0 | 0 | Empty states with animated isometric illustrations for GPUI apps |
+| 2026-11-21 15:58:28 | [xartificial](https://crates.io/crates/xartificial) | 0.0.0 | 0 | Model API types, a pluggable-transport client, tool calling, Model Context Prot… |
+| 2026-11-21 16:00:28 | [adaptif-gatotkaca-logsquash](https://crates.io/crates/adaptif-gatotkaca-logsquash) | 0.1.0 | 0 | Log squasher: stores logs in compact binary dataframes (word-level string dedup… |
+| 2026-11-21 16:05:24 | [fm1-rticx](https://crates.io/crates/fm1-rticx) | 0.1.0 | 0 | RTICX application support for the M-VAVE FM-1 |
+| 2026-11-21 16:05:45 | [traces](https://crates.io/crates/traces) | 0.1.0 | 0 | Lightweight local HTTPS MITM proxy to generate local LLM traces and streams the… |
+| 2026-11-21 16:10:42 | [filtra_core](https://crates.io/crates/filtra_core) | 0.0.0 | 0 | Pixel-level types and algorithms shared by the crates of filtra. |
+| 2026-11-21 16:12:44 | [tessariql-lsp-constants](https://crates.io/crates/tessariql-lsp-constants) | 0.1.0 | 0 | Constants for the TessariQL language server |
+| 2026-11-21 16:13:11 | [tessariql-lsp-types](https://crates.io/crates/tessariql-lsp-types) | 0.1.0 | 0 | Shared types for the TessariQL language server |
+| 2026-11-21 16:13:17 | [tessariql-lsp-observability](https://crates.io/crates/tessariql-lsp-observability) | 0.1.0 | 0 | Tracing setup for the TessariQL language server binary |
+| 2026-11-21 16:14:46 | [tessariql-lsp-core](https://crates.io/crates/tessariql-lsp-core) | 0.1.0 | 0 | Domain logic of the TessariQL language server: open documents, analysis inputs |
+| 2026-11-21 16:14:54 | [tessariql-lsp-infrastructure](https://crates.io/crates/tessariql-lsp-infrastructure) | 0.1.0 | 0 | Node connection for the TessariQL language server: catalog cache and statement… |
+| 2026-11-21 16:17:02 | [blubber-core](https://crates.io/crates/blubber-core) | 0.1.0 | 0 | Low-level byte encoding and validation under blubber (most programs use blubber… |
+| 2026-11-21 16:17:07 | [blubber-derive](https://crates.io/crates/blubber-derive) | 0.1.0 | 0 | Procedural macros #[blubber::schema] and #[derive(Fixed)], re-exported by blubb… |
+| 2026-11-21 16:17:21 | [blubber](https://crates.io/crates/blubber) | 0.1.0 | 0 | Growable lists, strings and maps inside a Solana account, edited in place. |
+| 2026-11-21 16:20:46 | [zthaw-core](https://crates.io/crates/zthaw-core) | 0.1.0 | 0 | Shared stream models and helpers for zthaw |
+| 2026-11-21 16:20:47 | [zthaw-ffi](https://crates.io/crates/zthaw-ffi) | 0.1.0 | 0 | zlib FFI bindings used by zthaw |
+| 2026-11-21 16:20:49 | [zthaw-codec](https://crates.io/crates/zthaw-codec) | 0.1.0 | 0 | Stream scanners, validators and parameter recovery for zthaw |
+| 2026-11-21 16:20:51 | [zthaw-pipeline](https://crates.io/crates/zthaw-pipeline) | 0.1.0 | 0 | End-to-end preprocessing pipeline for zthaw |
+| 2026-11-21 16:20:53 | [zthaw-cli](https://crates.io/crates/zthaw-cli) | 0.1.0 | 0 | Repacking tool: expands zlib streams and stores them deduplicated with zstash |
 
 ## Data source
 
