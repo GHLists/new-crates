@@ -1,0 +1,57 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-21T02:19:15.567503Z,omni-io,0.1.0,0,0,https://github.com/WyattAu/os-core,Linux io_uring seam over raw syscalls — the K2 doorbell I/O surface (REQ-OS-004 follow-up).
+2026-11-21T02:19:22.253375Z,omni-tick,0.1.0,0,0,https://github.com/WyattAu/os-core,Fixed-width tick record + append-only segment store — the HFT data plane's database first design (ADR-0017).
+2026-11-21T02:19:33.135813Z,factomic-derive,0.1.0,0,0,https://github.com/Monitor221hz/factomic,Derive macros for factomic's typed entity schemas and handles
+2026-11-21T02:19:40.380591Z,omni-md,0.1.0,0,0,https://github.com/WyattAu/os-core,"Market-data pipeline: ingest -> decode -> fan-out -> persist seams (ADR-0017, the HFT data plane's server half)."
+2026-11-21T02:19:53.307824Z,factomic,0.1.0,0,0,https://github.com/Monitor221hz/factomic,"Unitemporal, embedded fact database backed by fjall with typed entity handles and ordered list operations."
+2026-11-21T02:21:03.046921Z,avectes-dioxus-stores,0.7.10,0,0,https://github.com/DioxusLabs/dioxus/,Server function macros for Dioxus
+2026-11-21T02:21:50.043671Z,omni-md-server,0.1.0,0,0,https://github.com/WyattAu/os-core,"The HFT data plane's HTTP surface: tick query endpoints over the omni-md pipeline (ADR-0017), on the omni-service posture."
+2026-11-21T02:22:57.323638Z,bitcoinleveldb-tablecache,0.2.0,0,0,https://github.com/klebs6/bitcoin-rs,Cache of opened LevelDB table files and their readers.
+2026-11-21T02:23:09.652838Z,kwavers-simulation,3.0.0,0,0,https://github.com/ryancinsight/kwavers,"Simulation orchestration for kwavers: builders, runners, multi-physics coupling, modality pipelines, backends"
+2026-11-21T02:28:32.360704Z,shader-slang-src-external-004,1.0.0,0,0,https://github.com/amejia1/shader-slang-dev,Shader Slang source partition external-004
+2026-11-21T02:29:50.749594Z,jubarte,0.0.0,0,0,https://github.com/jandira-tech/jubarte,Name reserved for the jubarte Word document engine; the first release is 0.19.0
+2026-11-21T02:29:52.425847Z,jubarte-dom,0.0.0,0,0,https://github.com/jandira-tech/jubarte,Name reserved for the jubarte Word document engine; the first release is 0.19.0
+2026-11-21T02:29:54.517868Z,jubarte-opc,0.0.0,0,0,https://github.com/jandira-tech/jubarte,Name reserved for the jubarte Word document engine; the first release is 0.19.0
+2026-11-21T02:29:56.261173Z,jubarte-render,0.0.0,0,0,https://github.com/jandira-tech/jubarte,Name reserved for the jubarte Word document engine; the first release is 0.19.0
+2026-11-21T02:29:58.290016Z,jubarte-doc,0.0.0,0,0,https://github.com/jandira-tech/jubarte,Name reserved for the jubarte Word document engine; the first release is 0.19.0
+2026-11-21T02:30:46.460896Z,agentos-executor-wasm-v8,0.5.0-rc.3,0,0,https://github.com/rivet-dev/agent-os,WebAssembly executor hosted by the agentOS V8 runtime
+2026-11-21T02:31:13.310398Z,avectes-dioxus-html,0.7.10,0,0,https://github.com/DioxusLabs/dioxus/,HTML Element pack for Dioxus - a concurrent renderer-agnostic Virtual DOM for interactive user experiences
+2026-11-21T02:31:35.531782Z,agentos-executor-wasm-wasmtime,0.5.0-rc.3,0,0,https://github.com/rivet-dev/agent-os,Wasmtime standalone WebAssembly executor for agentOS
+2026-11-21T02:32:56.904193Z,bitcoinleveldb-tableconstructor,0.2.0,0,0,https://github.com/klebs6/bitcoin-rs,An in-memory table-construction fixture for LevelDB iterator tests.
+2026-11-21T02:33:18.549359Z,kwavers-therapy,3.0.0,0,0,https://github.com/ryancinsight/kwavers,"Clinical therapy + care-delivery for kwavers: HIFU/histotripsy/lithotripsy planning, theranostic guidance, dose & safety monitoring, regulatory, patient management"
+2026-11-21T02:38:08.464702Z,netrender-sparse,0.3.0,0,0,https://github.com/mark-ik/vello,"Netrender's Vello sparse strips 0.3 core: geometry processing and tiling shared by the sparse renderers, with exact curve refusal (`FlattenError`) and a 1/16 px flattening tolerance. Library name `ve…"
+2026-11-21T02:38:09.114805Z,netrender-wesl,0.3.0,0,0,https://github.com/mark-ik/vello,"Netrender's Vello sparse strips 0.3 WESL shaders, linked to WGSL and GLSL for the `vello_gpu` backends. Library name `vello_gpu_shaders`."
+2026-11-21T02:38:10.408635Z,netrender-glifo,0.4.0,0,0,https://github.com/mark-ik/vello,"Netrender's Glifo 0.4 text rendering APIs for the Vello sparse strips renderers, built on netrender-sparse. Library name `glifo`."
+2026-11-21T02:38:12.417646Z,netrender-cpu,0.3.0,0,0,https://github.com/mark-ik/vello,"Netrender's Vello sparse strips 0.3 CPU renderer, optimized for SIMD and multithreaded execution, built on netrender-sparse. Library name `vello_cpu`."
+2026-11-21T02:38:13.142047Z,netrender-gpu,0.3.0,0,0,https://github.com/mark-ik/vello,"Netrender's Vello sparse strips 0.3 GPU renderer with CPU-side preprocessing, built on netrender-sparse. Library name `vello_gpu`."
+2026-11-21T02:38:31.176947Z,shader-slang-src,1.0.0,0,0,https://github.com/amejia1/shader-slang-dev,Vendored shader-slang source and build artifacts
+2026-11-21T02:40:20.58155Z,jubarte-markdown,0.0.0,0,0,https://github.com/jandira-tech/jubarte,Name reserved for the jubarte Word document engine; the first release is 0.19.0
+2026-11-21T02:41:23.648929Z,avectes-dioxus-document,0.7.10,0,0,https://github.com/DioxusLabs/dioxus/,CLI Configuration for dioxus-cli
+2026-11-21T02:42:57.399292Z,bitcoinleveldb-versionsetinterface,0.2.0,0,0,https://github.com/klebs6/bitcoin-rs,"Traits connecting LevelDB versions, compaction, and file-number allocation."
+2026-11-21T02:43:16.84839Z,kwavers,3.0.0,0,0,https://github.com/ryancinsight/kwavers,Ultrasound Simulation Toolbox with Cavitation and Light Physics
+2026-11-21T02:49:24.556952Z,egui_mineral_mcp,0.0.0,0,0,https://github.com/lajosbencz/egui_mineral,"Placeholder for egui_mineral_mcp, part of the egui_mineral UI framework; releases follow."
+2026-11-21T02:49:33.492513Z,shader-slang-dev,1.0.0,0,0,https://github.com/amejia1/shader-slang-dev,"Locate an installed shader-slang toolchain, or build the vendored source with the `vendored` feature"
+2026-11-21T02:50:43.177713Z,jubarte-edit,0.0.0,0,0,https://github.com/jandira-tech/jubarte,Name reserved for the jubarte Word document engine; the first release is 0.19.0
+2026-11-21T02:52:20.178418Z,candle-kernels-fathomdb,0.13.0,0,0,https://github.com/coreyt/candle-fathomdb,FathomDB fork of Candle CUDA kernels with static runtime linkage and qualified images.
+2026-11-21T02:52:57.20612Z,bitcoinleveldb-versionsetutil,0.2.0,0,0,https://github.com/klebs6/bitcoin-rs,Helpers used by LevelDB version management and compaction selection.
+2026-11-21T02:55:54.530046Z,libarchive-rs,0.1.0,0,0,https://gitlab.com/arcturus8081/minipro-rs,"Pure-Rust decoder for RAR4 archives, derived from libarchive's BSD-2-Clause RAR reader"
+2026-11-21T02:57:23.806948Z,minipro-core,0.13.0,0,0,https://gitlab.com/arcturus8081/minipro-rs,"Core library for talking to XGecu/MiniPro TL866-family USB chip programmers — device database, protocols, and read/write/verify operations"
+2026-11-21T02:58:19.670506Z,solascope-core,0.1.0,0,0,https://github.com/wchiway/SolaScope,"Shared types, provider traits, and index interfaces for SolaScope code search"
+2026-11-21T02:58:23.508123Z,solascope-config,0.1.0,0,0,https://github.com/wchiway/SolaScope,Layered configuration and isolated credentials for SolaScope code search
+2026-11-21T02:58:25.045359Z,solascope-parser,0.1.0,0,0,https://github.com/wchiway/SolaScope,Tree-sitter code definitions and source chunking for SolaScope code search
+2026-11-21T02:58:27.210086Z,solascope-storage,0.1.0,0,0,https://github.com/wchiway/SolaScope,"SQLite generations, full-text search, and vector storage for SolaScope code search"
+2026-11-21T02:58:34.205148Z,solascope-models,0.1.0,0,0,https://github.com/wchiway/SolaScope,Embedding and reranking provider adapters for SolaScope code search
+2026-11-21T03:00:17.3198Z,avectes-dioxus-fullstack-core,0.7.10,0,0,https://github.com/DioxusLabs/dioxus/,"Hooks for serializing futures, values in dioxus-fullstack and other utilities"
+2026-11-21T03:00:55.238677Z,tape-peer,0.5.7,0,0,https://github.com/spool-labs/tape,A decentralized object store using Solana.
+2026-11-21T03:01:05.889291Z,jubarte-cli,0.0.0,0,0,https://github.com/jandira-tech/jubarte,Name reserved for the jubarte Word document engine; the first release is 0.19.0
+2026-11-21T03:02:57.501968Z,bitcoinleveldb-writebatch,0.2.0,0,0,https://github.com/klebs6/bitcoin-rs,C-API-style write-batch handles for the bitcoin-rs LevelDB port. LevelDBWriteBatch wraps the binary WriteBatch implementation in bitcoinleveldb-batch.
+2026-11-21T03:07:44.748911Z,agentos-vm,0.5.0-rc.3,0,0,https://github.com/rivet-dev/agent-os,"agentOS VM orchestration, kernel composition, and execution coordination"
+2026-11-21T03:09:26.20613Z,agentos-actor-contract,0.5.0-rc.3,0,0,https://github.com/rivet-dev/agent-os,Generated-contract transport support for the static agentOS actor
+2026-11-21T03:09:38.197792Z,agentos-preload,0.5.0-rc.3,0,0,https://github.com/rivet-dev/agent-os,Process-level package preload service and coordinator actor for agentOS
+2026-11-21T03:09:49.860882Z,agentos-actor,0.5.0-rc.3,0,0,https://github.com/rivet-dev/agent-os,Static Rust RivetKit actor for the hosted agentOS API
+2026-11-21T03:10:28.201648Z,avectes-dioxus-fullstack,0.7.10,0,0,https://github.com/DioxusLabs/dioxus/,Library for fetching resources from servers in Dioxus apps.
+2026-11-21T03:12:57.318213Z,bitcoinleveldbt-mockversionset,0.2.0,0,0,https://github.com/klebs6/bitcoin-rs,Mock version-set support used by the LevelDB port's fixtures.
+2026-11-21T03:18:21.078281Z,skald-vcs-core,0.1.0,0,0,https://github.com/LOKI-Server/skald-vcs,Object format and storage engine for Skald
+2026-11-21T03:18:25.938292Z,skald-vcs-client,0.1.0,0,0,https://github.com/LOKI-Server/skald-vcs,Offline working copies and synchronization for Skald
+2026-11-21T03:18:29.050426Z,skald-vcs-server,0.1.0,0,0,https://github.com/LOKI-Server/skald-vcs,Repository hosting and synchronization primitives for Skald
+2026-11-21T03:18:35.590388Z,skald-vcs-cli,0.1.0,0,0,https://github.com/LOKI-Server/skald-vcs,Skald command-line client
