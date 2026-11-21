@@ -1,0 +1,19 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-21T12:23:34.923307Z,aster_yggdrasil_render,0.1.0-alpha.1,0,0,https://github.com/AsterCommunity/AsterYggdrasil,Minecraft skin and cape rendering helpers.
+2026-11-21T12:30:30.900835Z,varpage,0.1.0,0,0,https://github.com/LucaCiucci/varpage,Compact storage for variable-size records on seekable streams.
+2026-11-21T12:31:39.465602Z,rustier_runtime,0.0.1,0,0,https://github.com/helporme/rustier,Rustier macro runtime and transport support.
+2026-11-21T12:34:24.196168Z,pltrs-core,0.1.0,0,0,https://github.com/Lorisk1210/plt-rs,"Geometry, paths, affine transforms, colours and numpy's float semantics shared by every pltrs crate"
+2026-11-21T12:34:32.679466Z,pltrs-codec,0.1.0,0,0,https://github.com/Lorisk1210/plt-rs,"Self-contained compression and image codecs: DEFLATE/zlib, PNG/APNG, JPEG, TIFF, GIF and WebP, and an AVIF encoder"
+2026-11-21T12:34:40.780509Z,pltrs-font,0.1.0,0,0,https://github.com/Lorisk1210/plt-rs,"TrueType/OpenType parsing, glyph outlines, shaping and font management with bundled fonts"
+2026-11-21T12:34:45.629903Z,pltrs-raster,0.1.0,0,0,https://github.com/Lorisk1210/plt-rs,"Anti-aliased scanline rasterizer, stroker and compositor"
+2026-11-21T12:34:50.883332Z,pltrs-platform,0.1.0,0,0,https://github.com/Lorisk1210/plt-rs,"Native windowing and input abstraction (Wayland, X11, macOS and Windows)"
+2026-11-21T12:36:31.149481Z,proton-map-rs,0.1.0,0,0,https://github.com/narrrl/proton-rs,"Offline vector basemap for Proton apps: PMTiles reader, MVT decoder and an anti-aliased raster tile renderer"
+2026-11-21T12:39:12.820263Z,tauri-plugin-content-update,0.1.0,0,0,https://github.com/shiro/tauri-content-update,"Over-the-air web content updates for Tauri 2 apps: per-file delta downloads, automatic rollback and native compatibility checks"
+2026-11-21T12:39:13.63143Z,tauri-plugin-content-update-build,0.1.0,0,0,https://github.com/shiro/tauri-content-update,Build-time helper of tauri-plugin-content-update: hashes the native API an app provides and generates typed TypeScript bindings of its commands
+2026-11-21T12:44:36.532029Z,pltrs-text,0.1.0,0,0,https://github.com/Lorisk1210/plt-rs,"Text layout, mathtext typesetting and usetex (DVI, virtual fonts, TFM, font maps) as matplotlib does them"
+2026-11-21T12:45:26.064982Z,oxyboy,0.0.0,0,0,https://github.com/QaidVoid/oxyboy,"Name reserved for oxyboy, a Game Boy Advance analyzer, decompiler, and static recompiler. Releases ship on GitHub, not here."
+2026-11-21T12:45:31.222402Z,kavachkit,0.6.0,0,0,https://github.com/sachinvikas51/kavachkit,"Rules, skills, hooks, memory and security checks for Claude Code, in one small CLI"
+2026-11-21T12:54:55.02248Z,pltrs-render,0.1.0,0,0,https://github.com/Lorisk1210/plt-rs,"Renderer abstraction with raster (PNG), SVG, PDF, PostScript and PGF backends"
+2026-11-21T13:05:12.558651Z,pltrs-ui,0.1.0,0,0,https://github.com/Lorisk1210/plt-rs,A small retained-mode UI engine used for pltrs figure windows
+2026-11-21T13:10:41.036191Z,borrowed,0.1.0,0,0,https://github.com/nekitdev/borrowed,Postfix borrowing.
+2026-11-21T13:16:14.576108Z,pltrs,0.1.0,0,0,https://github.com/Lorisk1210/plt-rs,"matplotlib rebuilt in Rust: figures, axes, artists, every output format, interactive windows and a pyplot-style API"

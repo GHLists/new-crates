@@ -8,33 +8,32 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-21 12:19 UTC
+## Latest list — 2026-11-21 13:20 UTC
 
-New crates published between 2026-11-21 11:18 UTC and 2026-11-21 12:19 UTC.
+New crates published between 2026-11-21 12:19 UTC and 2026-11-21 13:20 UTC.
 
-[Full CSV](data/new-crates-2026-11-21T12-19-28-279856Z.csv)
+[Full CSV](data/new-crates-2026-11-21T13-20-23-017509Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-21 11:32:02 | [drawnui-audio](https://crates.io/crates/drawnui-audio) | 0.1.0 | 0 | An add-on for DrawnUI for Rust: sound output on desktop, phones and the browser… |
-| 2026-11-21 11:35:05 | [lean-audit](https://crates.io/crates/lean-audit) | 0.1.2 | 0 | Fast DAG deduplicator and proof mutation testing CLI for Lean 4 |
-| 2026-11-21 11:37:50 | [redakt](https://crates.io/crates/redakt) | 0.0.5 | 0 | Native compiled ternary-gated PII rules detector |
-| 2026-11-21 11:47:18 | [exterra](https://crates.io/crates/exterra) | 0.1.1 | 0 | Run Terraform/OpenTofu providers directly, without Terraform |
-| 2026-11-21 11:49:12 | [grammaria](https://crates.io/crates/grammaria) | 0.1.0 | 0 | A French grammar and spelling checker in Rust: LanguageTool's French rules repr… |
-| 2026-11-21 11:55:10 | [afg-core](https://crates.io/crates/afg-core) | 1.0.0-rc.1 | 0 | AgentForge Guard policy engine: fail-closed command normalization, protected pa… |
-| 2026-11-21 11:55:12 | [afg-detect](https://crates.io/crates/afg-detect) | 1.0.0-rc.1 | 0 | AgentForge Guard technology-stack, coding-agent and risk detection (read-only) |
-| 2026-11-21 11:55:12 | [afg-executor](https://crates.io/crates/afg-executor) | 1.0.0-rc.1 | 0 | AgentForge Guard execution backends: local, hardened Docker and Cloudflare |
-| 2026-11-21 11:55:12 | [afg-report](https://crates.io/crates/afg-report) | 1.0.0-rc.1 | 0 | AgentForge Guard audit log, secret redaction and SARIF reports |
-| 2026-11-21 11:55:13 | [agentforge-guard](https://crates.io/crates/agentforge-guard) | 1.0.0-rc.1 | 0 | AgentForge Guard (afg): a policy-driven execution guard for AI coding agents |
-| 2026-11-21 12:04:23 | [scribe-tui](https://crates.io/crates/scribe-tui) | 0.1.0 | 0 | local, offline, cpu-only speech to text in the terminal |
-| 2026-11-21 12:04:53 | [rustweave-core](https://crates.io/crates/rustweave-core) | 0.3.0 | 0 | A DataWeave-compatible expression engine |
-| 2026-11-21 12:05:26 | [rustweave](https://crates.io/crates/rustweave) | 0.3.0 | 0 | Command-line interface for the rustweave expression engine |
-| 2026-11-21 12:06:02 | [vld-web](https://crates.io/crates/vld-web) | 0.0.0 | 0 | Placeholder: vld-web is published from https://github.com/s00d/vld starting wit… |
-| 2026-11-21 12:06:08 | [vld-openapi](https://crates.io/crates/vld-openapi) | 0.0.0 | 0 | Placeholder: vld-openapi is published from https://github.com/s00d/vld starting… |
-| 2026-11-21 12:06:15 | [vld-data](https://crates.io/crates/vld-data) | 0.0.0 | 0 | Placeholder: vld-data is published from https://github.com/s00d/vld starting wi… |
-| 2026-11-21 12:06:22 | [vld-app](https://crates.io/crates/vld-app) | 0.0.0 | 0 | Placeholder: vld-app is published from https://github.com/s00d/vld starting wit… |
-| 2026-11-21 12:06:48 | [evorule-law-schema](https://crates.io/crates/evorule-law-schema) | 0.1.0 | 0 | EvoRule Law Set Schema gate — embedded anchors, serde types, and deterministic… |
-| 2026-11-21 12:06:52 | [evorule-criticality](https://crates.io/crates/evorule-criticality) | 0.1.0 | 0 | EvoRule verification criticality pipeline — pure-function pipeline injecting pr… |
+| 2026-11-21 12:23:34 | [aster_yggdrasil_render](https://crates.io/crates/aster_yggdrasil_render) | 0.1.0-alpha.1 | 0 | Minecraft skin and cape rendering helpers. |
+| 2026-11-21 12:30:30 | [varpage](https://crates.io/crates/varpage) | 0.1.0 | 0 | Compact storage for variable-size records on seekable streams. |
+| 2026-11-21 12:31:39 | [rustier_runtime](https://crates.io/crates/rustier_runtime) | 0.0.1 | 0 | Rustier macro runtime and transport support. |
+| 2026-11-21 12:34:24 | [pltrs-core](https://crates.io/crates/pltrs-core) | 0.1.0 | 0 | Geometry, paths, affine transforms, colours and numpy's float semantics shared… |
+| 2026-11-21 12:34:32 | [pltrs-codec](https://crates.io/crates/pltrs-codec) | 0.1.0 | 0 | Self-contained compression and image codecs: DEFLATE/zlib, PNG/APNG, JPEG, TIFF… |
+| 2026-11-21 12:34:40 | [pltrs-font](https://crates.io/crates/pltrs-font) | 0.1.0 | 0 | TrueType/OpenType parsing, glyph outlines, shaping and font management with bun… |
+| 2026-11-21 12:34:45 | [pltrs-raster](https://crates.io/crates/pltrs-raster) | 0.1.0 | 0 | Anti-aliased scanline rasterizer, stroker and compositor |
+| 2026-11-21 12:34:50 | [pltrs-platform](https://crates.io/crates/pltrs-platform) | 0.1.0 | 0 | Native windowing and input abstraction (Wayland, X11, macOS and Windows) |
+| 2026-11-21 12:36:31 | [proton-map-rs](https://crates.io/crates/proton-map-rs) | 0.1.0 | 0 | Offline vector basemap for Proton apps: PMTiles reader, MVT decoder and an anti… |
+| 2026-11-21 12:39:12 | [tauri-plugin-content-update](https://crates.io/crates/tauri-plugin-content-update) | 0.1.0 | 0 | Over-the-air web content updates for Tauri 2 apps: per-file delta downloads, au… |
+| 2026-11-21 12:39:13 | [tauri-plugin-content-update-build](https://crates.io/crates/tauri-plugin-content-update-build) | 0.1.0 | 0 | Build-time helper of tauri-plugin-content-update: hashes the native API an app… |
+| 2026-11-21 12:44:36 | [pltrs-text](https://crates.io/crates/pltrs-text) | 0.1.0 | 0 | Text layout, mathtext typesetting and usetex (DVI, virtual fonts, TFM, font map… |
+| 2026-11-21 12:45:26 | [oxyboy](https://crates.io/crates/oxyboy) | 0.0.0 | 0 | Name reserved for oxyboy, a Game Boy Advance analyzer, decompiler, and static r… |
+| 2026-11-21 12:45:31 | [kavachkit](https://crates.io/crates/kavachkit) | 0.6.0 | 0 | Rules, skills, hooks, memory and security checks for Claude Code, in one small… |
+| 2026-11-21 12:54:55 | [pltrs-render](https://crates.io/crates/pltrs-render) | 0.1.0 | 0 | Renderer abstraction with raster (PNG), SVG, PDF, PostScript and PGF backends |
+| 2026-11-21 13:05:12 | [pltrs-ui](https://crates.io/crates/pltrs-ui) | 0.1.0 | 0 | A small retained-mode UI engine used for pltrs figure windows |
+| 2026-11-21 13:10:41 | [borrowed](https://crates.io/crates/borrowed) | 0.1.0 | 0 | Postfix borrowing. |
+| 2026-11-21 13:16:14 | [pltrs](https://crates.io/crates/pltrs) | 0.1.0 | 0 | matplotlib rebuilt in Rust: figures, axes, artists, every output format, intera… |
 
 ## Data source
 
