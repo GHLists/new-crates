@@ -1,0 +1,38 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-21T17:23:26.951723Z,cantongrid-metadata,0.4.0-alpha.3,0,0,https://github.com/kunal171/cantongrid,Bounded offline DAR metadata extraction and versioned Daml-LF contract signatures.
+2026-11-21T17:23:40.657597Z,cantongrid-sync,0.4.0-alpha.3,0,0,https://github.com/kunal171/cantongrid,Offline Daml contract schema synchronization and reviewed model artifact generation.
+2026-11-21T17:24:54.325637Z,gitnext-tui,0.3.2,0,0,https://github.com/pnnnx/gitnext,Terminal UI for gitnext
+2026-11-21T17:26:17.183813Z,mesh-identity,0.1.0,0,0,https://github.com/afstanton/mesh-identity,"Peer identity, offline encounters, and Byzantine group admission governance."
+2026-11-21T17:28:06.842422Z,open_table_qr,1.1.0,0,0,https://github.com/joduranvillan/games_tables_sdk,Generación de código QR de invitación a una sala de juego en OpenTable SDK.
+2026-11-21T17:28:13.748145Z,open_table_transport_tcp,1.1.0,0,0,https://github.com/joduranvillan/games_tables_sdk,Implementación de Transport sobre TCP para desktop en OpenTable SDK.
+2026-11-21T17:28:19.177574Z,open_table_transport_websocket,1.1.0,0,0,https://github.com/joduranvillan/games_tables_sdk,Implementación de Transport sobre WebSocket usando tokio-tungstenite para OpenTable SDK.
+2026-11-21T17:28:27.141872Z,open_table_transport_native_bridge,1.1.0,0,0,https://github.com/joduranvillan/games_tables_sdk,"Capa de protocolo (handshake, identidad, reconexión, timeout) para transportes móviles nativos de OpenTable SDK."
+2026-11-21T17:32:21.750336Z,htj2k-rs,0.1.1,0,0,https://github.com/KiyarashJ/htj2k-rs,A Rust library for converting DICOM images to HTJ2K lossless encoding.
+2026-11-21T17:32:37.284091Z,golf-cart-wrap-models,1.0.0,0,0,https://github.com/dirt-bike-graphics/golf-cart-wraps,"Open reference catalog of 34 golf cart models, body configurations, wrap panels, and vinyl finishes across 7 brands."
+2026-11-21T17:34:05.691018Z,sitroom-contract,0.9.0,0,0,https://github.com/osdlc/sitroom,"Types shared by sitroom host, its modules, stdio plugins and renderers"
+2026-11-21T17:34:07.657364Z,sitroom-core,0.9.0,0,0,https://github.com/osdlc/sitroom,"Sitroom's core: the config file, the host that runs modules and feeds renderers, and the osdlc CLI conventions"
+2026-11-21T17:34:09.995507Z,sitroom-modules,0.9.0,0,0,https://github.com/osdlc/sitroom,"Sitroom's built-in modules, in bundles chosen with features, and the runtime that runs them from the config"
+2026-11-21T17:34:10.599763Z,sitroom-tui,0.9.0,0,0,https://github.com/osdlc/sitroom,"Sitroom's terminal renderer, built on ratatui"
+2026-11-21T17:34:10.793034Z,sitroom-web,0.9.0,0,0,https://github.com/osdlc/sitroom,Sitroom's web renderer: serves tile updates to the browser over a WebSocket
+2026-11-21T17:39:37.908117Z,olaya-core,0.1.0,0,0,https://github.com/hushink/olaya,"Engine-agnostic System One protocol, primitives, decision layer, and manifests."
+2026-11-21T17:40:21.712431Z,olaya-candle,0.1.0,0,0,https://github.com/hushink/olaya,"candle family SDK for olaya: encoders, tokenizers, built-in families, and the third-party family traits."
+2026-11-21T17:41:13.461324Z,olaya,0.1.0,0,0,https://github.com/hushink/olaya,A candle-based System One decision-model runtime: embeddable library and engine.
+2026-11-21T17:41:47.080882Z,olaya-cli,0.1.0,0,0,https://github.com/hushink/olaya,The olaya command-line interface and server binary.
+2026-11-21T17:41:59.514805Z,olaya-sdk,0.1.0,0,0,https://github.com/hushink/olaya,A typed Rust client SDK for the TypeSafe/Jev System One API.
+2026-11-21T17:43:43.90672Z,sitroom,0.9.0,0,0,https://github.com/osdlc/sitroom,"Sitroom command: the TUI, the web view, config, packages and the plugin tools"
+2026-11-21T17:44:34.716813Z,gitnext,0.3.2,0,0,https://github.com/pnnnx/gitnext,"Git that understands your code: a symbol graph, semantic diffs and an MCP server for AI agents and the people who review them"
+2026-11-21T17:57:21.725464Z,rtbgen-cli,0.1.1,0,0,https://github.com/rsbid/rtbgen,Command-line interface for the rtbgen fixture generator
+2026-11-21T18:10:40.931602Z,iletki-slint,0.1.0,0,0,https://github.com/furkankarli/iletki,"GPU texture import, viewport sizing and picking for Slint applications using iletki"
+2026-11-21T18:10:51.63157Z,gpui-deck,0.0.1,0,0,https://github.com/andongmin94/gpui-deck,Headless GPUI primitives with application-owned presentation.
+2026-11-21T18:10:55.869061Z,gpui-deck-cli,0.0.1,0,0,https://github.com/andongmin94/gpui-deck,Copy application-owned GPUI Deck recipes and their dependencies.
+2026-11-21T18:11:00.555258Z,pic32c-hal,0.0.0,0,0,https://github.com/aeolionics-rs/pic32c-hal,"Placeholder for a HAL for Microchip's PIC32C microcontrollers, in development"
+2026-11-21T18:11:01.202908Z,pic32ck-gc01-pac,0.0.0,0,0,https://github.com/aeolionics-rs/pic32c-hal,"Placeholder for a peripheral access crate for the Microchip PIC32CK GC01, in development"
+2026-11-21T18:11:01.700171Z,pic32ck-sg01-pac,0.0.0,0,0,https://github.com/aeolionics-rs/pic32c-hal,"Placeholder for a peripheral access crate for the Microchip PIC32CK SG01, in development"
+2026-11-21T18:11:02.196518Z,pic32cm-pl10-pac,0.0.0,0,0,https://github.com/aeolionics-rs/pic32c-hal,"Placeholder for a peripheral access crate for the Microchip PIC32CM PL10, in development"
+2026-11-21T18:14:48.666491Z,rproj-core,0.23.0,0,0,https://github.com/chatarabdelilah/rproj,Shared project inspection and operations for rproj
+2026-11-21T18:15:50.518935Z,open_table_chess_game,1.1.0,0,0,https://github.com/joduranvillan/games_tables_sdk,Juego de referencia del OpenTable SDK: ajedrez (chess).
+2026-11-21T18:15:59.097471Z,open_table_checkers_game,1.1.0,0,0,https://github.com/joduranvillan/games_tables_sdk,Juego de referencia del OpenTable SDK: damas (checkers / draughts).
+2026-11-21T18:16:05.465352Z,open_table_shogi_game,1.1.0,0,0,https://github.com/joduranvillan/games_tables_sdk,Juego de referencia del OpenTable SDK: Shogi (Ajedrez Japones).
+2026-11-21T18:16:14.159525Z,open_table_xiangqi_game,1.1.0,0,0,https://github.com/joduranvillan/games_tables_sdk,Juego de referencia del OpenTable SDK: Xiangqi (Ajedrez Chino).
+2026-11-21T18:16:21.958215Z,open_table_go_game,1.1.0,0,0,https://github.com/joduranvillan/games_tables_sdk,Juego de referencia del OpenTable SDK: Go (Weiqi / Baduk).
+2026-11-21T18:17:19.217127Z,autosolve,0.1.0,0,0,,This is a stub. More will be here later

@@ -8,48 +8,51 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-21 17:19 UTC
+## Latest list — 2026-11-21 18:18 UTC
 
-New crates published between 2026-11-21 16:21 UTC and 2026-11-21 17:19 UTC.
+New crates published between 2026-11-21 17:19 UTC and 2026-11-21 18:18 UTC.
 
-[Full CSV](data/new-crates-2026-11-21T17-19-57-013386Z.csv)
+[Full CSV](data/new-crates-2026-11-21T18-18-54-275313Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-21 16:24:28 | [horsies-core-derive](https://crates.io/crates/horsies-core-derive) | 0.8.0 | 0 | Derives of horsies-core for its code catalogs and manifest types |
-| 2026-11-21 16:25:54 | [horsies-core](https://crates.io/crates/horsies-core) | 0.8.0 | 0 | Shared core of the horsies task queue and workflow engine, used by the horsies… |
-| 2026-11-21 16:27:06 | [bpmnkit-profiles](https://crates.io/crates/bpmnkit-profiles) | 0.6.1 | 0 | Profile store paths and casen-to-bpmnkit copy migration for the BPMN Kit CLI (R… |
-| 2026-11-21 16:27:40 | [bpmnkit-worker](https://crates.io/crates/bpmnkit-worker) | 0.6.1 | 0 | Camunda 8 job worker runtime over the REST /v2 API: activate/complete/fail/erro… |
-| 2026-11-21 16:28:07 | [bpmnkit-connector-runtime](https://crates.io/crates/bpmnkit-connector-runtime) | 0.6.1 | 0 | Local runner for Camunda 8 REST connector jobs (io.camunda:http-json:1): secret… |
-| 2026-11-21 16:28:33 | [bpmnkit-jobspec](https://crates.io/crates/bpmnkit-jobspec) | 0.6.1 | 0 | Job worker IR for BPMN Kit: extracts job types from BPMN, binds OpenAPI operati… |
-| 2026-11-21 16:28:59 | [bpmnkit-codegen](https://crates.io/crates/bpmnkit-codegen) | 0.6.1 | 0 | Deterministic job worker code generation for BPMN Kit: target-agnostic emitters… |
-| 2026-11-21 16:29:51 | [tree-sitter-tessariql](https://crates.io/crates/tree-sitter-tessariql) | 0.1.0 | 0 | Tree-sitter TessariQL grammar — error-tolerant parsing for the TessariQL langua… |
-| 2026-11-21 16:29:59 | [mustache-ng](https://crates.io/crates/mustache-ng) | 0.10.0 | 0 | Rust implementation of Mustache (maintained fork of the mustache crate) |
-| 2026-11-21 16:30:25 | [git-graft](https://crates.io/crates/git-graft) | 0.1.0 | 0 | Faster, lighter replacement for git worktree, built for coding agents |
-| 2026-11-21 16:32:08 | [bpmnkit-connectors](https://crates.io/crates/bpmnkit-connectors) | 0.6.1 | 0 | Connector element templates for BPMN Kit: generate them from OpenAPI/Swagger sp… |
-| 2026-11-21 16:39:50 | [tessariql-lsp](https://crates.io/crates/tessariql-lsp) | 0.1.0 | 0 | Binary of the TessariQL language server: the LSP adapter and composition root |
-| 2026-11-21 16:42:10 | [bpmnkit-cli](https://crates.io/crates/bpmnkit-cli) | 0.6.1 | 0 | The bpmnkit command line (alias casen): native commands, subprocess plugins, le… |
-| 2026-11-21 16:48:34 | [parsec-js](https://crates.io/crates/parsec-js) | 0.0.0 | 0 | Reserved for Parsec (github.com/parsec-html/parsec). The first release comes wi… |
-| 2026-11-21 16:48:36 | [parsec-xml](https://crates.io/crates/parsec-xml) | 0.0.0 | 0 | Reserved for Parsec (github.com/parsec-html/parsec). The first release comes wi… |
-| 2026-11-21 16:48:38 | [parsec-base](https://crates.io/crates/parsec-base) | 0.0.0 | 0 | Reserved for Parsec (github.com/parsec-html/parsec). The first release comes wi… |
-| 2026-11-21 16:49:25 | [embedded-bitcoin-rpc](https://crates.io/crates/embedded-bitcoin-rpc) | 0.1.0 | 0 | no_std client of a Bitcoin node's JSON-RPC interface: streamed getblocktemplate… |
-| 2026-11-21 16:50:48 | [redpoint](https://crates.io/crates/redpoint) | 0.1.0 | 0 | A formal verification tool |
-| 2026-11-21 17:01:25 | [rtbgen](https://crates.io/crates/rtbgen) | 0.1.0 | 0 | Deterministic OpenRTB 2.5/2.6 bid request generator for tests, fuzzing and load… |
-| 2026-11-21 17:02:01 | [sad-vibes](https://crates.io/crates/sad-vibes) | 0.2.0 | 0 | Documentation gate — code should speak for itself; prose means refactor |
-| 2026-11-21 17:02:29 | [fe11-tests](https://crates.io/crates/fe11-tests) | 0.1.1 | 0 | Public API and SoftHSM interoperability tests for Fe11 |
-| 2026-11-21 17:07:31 | [jpcl](https://crates.io/crates/jpcl) | 2.0.0 | 0 | A hybrid JSON/TOML configuration language (.jp files) |
-| 2026-11-21 17:08:14 | [datum-client](https://crates.io/crates/datum-client) | 0.1.0 | 0 | no_std client of the DATUM protocol, the encrypted link between a DATUM gateway… |
-| 2026-11-21 17:09:30 | [ruml-parser](https://crates.io/crates/ruml-parser) | 0.3.0 | 0 | Parser, validator and rule engine for RUML (Rulemapping Logic Format) files |
-| 2026-11-21 17:12:46 | [gitnext-core](https://crates.io/crates/gitnext-core) | 0.3.2 | 0 | Git repository access layer for gitnext |
-| 2026-11-21 17:12:47 | [gitnext-parse](https://crates.io/crates/gitnext-parse) | 0.3.2 | 0 | Tree-sitter parsers that extract functions, types and calls for gitnext |
-| 2026-11-21 17:12:49 | [gitnext-index](https://crates.io/crates/gitnext-index) | 0.3.2 | 0 | Incremental SQLite index of symbols and the call graph for gitnext |
-| 2026-11-21 17:12:52 | [gitnext-docs](https://crates.io/crates/gitnext-docs) | 0.3.2 | 0 | Code map generation for gitnext |
-| 2026-11-21 17:12:55 | [gitnext-ops](https://crates.io/crates/gitnext-ops) | 0.3.2 | 0 | Symbol-level operations for gitnext: look, rename, impact, tests-for |
-| 2026-11-21 17:16:04 | [cli_contracts_runtime](https://crates.io/crates/cli_contracts_runtime) | 0.36.0 | 0 | Rust runtime for the programs and command wrappers cli-contracts generates from… |
-| 2026-11-21 17:16:11 | [ikigai-classify](https://crates.io/crates/ikigai-classify) | 0.2.0 | 0 | Classifiers as resources for ikigai: one contract, urn:iki:classify:{c}:answer,… |
-| 2026-11-21 17:18:36 | [giong-grpc-build](https://crates.io/crates/giong-grpc-build) | 1.1.0 | 0 | Generates giong-proto views and gRPC service descriptions from .proto files at… |
-| 2026-11-21 17:18:38 | [giong-proto](https://crates.io/crates/giong-proto) | 1.1.0 | 0 | Protocol Buffers for giong: messages decoded as views over the receive buffer,… |
-| 2026-11-21 17:18:49 | [giong-grpc](https://crates.io/crates/giong-grpc) | 1.1.0 | 0 | gRPC for the giong thread-per-core runtime: servers and clients over giong-http… |
+| 2026-11-21 17:23:26 | [cantongrid-metadata](https://crates.io/crates/cantongrid-metadata) | 0.4.0-alpha.3 | 0 | Bounded offline DAR metadata extraction and versioned Daml-LF contract signatur… |
+| 2026-11-21 17:23:40 | [cantongrid-sync](https://crates.io/crates/cantongrid-sync) | 0.4.0-alpha.3 | 0 | Offline Daml contract schema synchronization and reviewed model artifact genera… |
+| 2026-11-21 17:24:54 | [gitnext-tui](https://crates.io/crates/gitnext-tui) | 0.3.2 | 0 | Terminal UI for gitnext |
+| 2026-11-21 17:26:17 | [mesh-identity](https://crates.io/crates/mesh-identity) | 0.1.0 | 0 | Peer identity, offline encounters, and Byzantine group admission governance. |
+| 2026-11-21 17:28:06 | [open_table_qr](https://crates.io/crates/open_table_qr) | 1.1.0 | 0 | Generación de código QR de invitación a una sala de juego en OpenTable SDK. |
+| 2026-11-21 17:28:13 | [open_table_transport_tcp](https://crates.io/crates/open_table_transport_tcp) | 1.1.0 | 0 | Implementación de Transport sobre TCP para desktop en OpenTable SDK. |
+| 2026-11-21 17:28:19 | [open_table_transport_websocket](https://crates.io/crates/open_table_transport_websocket) | 1.1.0 | 0 | Implementación de Transport sobre WebSocket usando tokio-tungstenite para OpenT… |
+| 2026-11-21 17:28:27 | [open_table_transport_native_bridge](https://crates.io/crates/open_table_transport_native_bridge) | 1.1.0 | 0 | Capa de protocolo (handshake, identidad, reconexión, timeout) para transportes… |
+| 2026-11-21 17:32:21 | [htj2k-rs](https://crates.io/crates/htj2k-rs) | 0.1.1 | 0 | A Rust library for converting DICOM images to HTJ2K lossless encoding. |
+| 2026-11-21 17:32:37 | [golf-cart-wrap-models](https://crates.io/crates/golf-cart-wrap-models) | 1.0.0 | 0 | Open reference catalog of 34 golf cart models, body configurations, wrap panels… |
+| 2026-11-21 17:34:05 | [sitroom-contract](https://crates.io/crates/sitroom-contract) | 0.9.0 | 0 | Types shared by sitroom host, its modules, stdio plugins and renderers |
+| 2026-11-21 17:34:07 | [sitroom-core](https://crates.io/crates/sitroom-core) | 0.9.0 | 0 | Sitroom's core: the config file, the host that runs modules and feeds renderers… |
+| 2026-11-21 17:34:09 | [sitroom-modules](https://crates.io/crates/sitroom-modules) | 0.9.0 | 0 | Sitroom's built-in modules, in bundles chosen with features, and the runtime th… |
+| 2026-11-21 17:34:10 | [sitroom-tui](https://crates.io/crates/sitroom-tui) | 0.9.0 | 0 | Sitroom's terminal renderer, built on ratatui |
+| 2026-11-21 17:34:10 | [sitroom-web](https://crates.io/crates/sitroom-web) | 0.9.0 | 0 | Sitroom's web renderer: serves tile updates to the browser over a WebSocket |
+| 2026-11-21 17:39:37 | [olaya-core](https://crates.io/crates/olaya-core) | 0.1.0 | 0 | Engine-agnostic System One protocol, primitives, decision layer, and manifests. |
+| 2026-11-21 17:40:21 | [olaya-candle](https://crates.io/crates/olaya-candle) | 0.1.0 | 0 | candle family SDK for olaya: encoders, tokenizers, built-in families, and the t… |
+| 2026-11-21 17:41:13 | [olaya](https://crates.io/crates/olaya) | 0.1.0 | 0 | A candle-based System One decision-model runtime: embeddable library and engine. |
+| 2026-11-21 17:41:47 | [olaya-cli](https://crates.io/crates/olaya-cli) | 0.1.0 | 0 | The olaya command-line interface and server binary. |
+| 2026-11-21 17:41:59 | [olaya-sdk](https://crates.io/crates/olaya-sdk) | 0.1.0 | 0 | A typed Rust client SDK for the TypeSafe/Jev System One API. |
+| 2026-11-21 17:43:43 | [sitroom](https://crates.io/crates/sitroom) | 0.9.0 | 0 | Sitroom command: the TUI, the web view, config, packages and the plugin tools |
+| 2026-11-21 17:44:34 | [gitnext](https://crates.io/crates/gitnext) | 0.3.2 | 0 | Git that understands your code: a symbol graph, semantic diffs and an MCP serve… |
+| 2026-11-21 17:57:21 | [rtbgen-cli](https://crates.io/crates/rtbgen-cli) | 0.1.1 | 0 | Command-line interface for the rtbgen fixture generator |
+| 2026-11-21 18:10:40 | [iletki-slint](https://crates.io/crates/iletki-slint) | 0.1.0 | 0 | GPU texture import, viewport sizing and picking for Slint applications using il… |
+| 2026-11-21 18:10:51 | [gpui-deck](https://crates.io/crates/gpui-deck) | 0.0.1 | 0 | Headless GPUI primitives with application-owned presentation. |
+| 2026-11-21 18:10:55 | [gpui-deck-cli](https://crates.io/crates/gpui-deck-cli) | 0.0.1 | 0 | Copy application-owned GPUI Deck recipes and their dependencies. |
+| 2026-11-21 18:11:00 | [pic32c-hal](https://crates.io/crates/pic32c-hal) | 0.0.0 | 0 | Placeholder for a HAL for Microchip's PIC32C microcontrollers, in development |
+| 2026-11-21 18:11:01 | [pic32ck-gc01-pac](https://crates.io/crates/pic32ck-gc01-pac) | 0.0.0 | 0 | Placeholder for a peripheral access crate for the Microchip PIC32CK GC01, in de… |
+| 2026-11-21 18:11:01 | [pic32ck-sg01-pac](https://crates.io/crates/pic32ck-sg01-pac) | 0.0.0 | 0 | Placeholder for a peripheral access crate for the Microchip PIC32CK SG01, in de… |
+| 2026-11-21 18:11:02 | [pic32cm-pl10-pac](https://crates.io/crates/pic32cm-pl10-pac) | 0.0.0 | 0 | Placeholder for a peripheral access crate for the Microchip PIC32CM PL10, in de… |
+| 2026-11-21 18:14:48 | [rproj-core](https://crates.io/crates/rproj-core) | 0.23.0 | 0 | Shared project inspection and operations for rproj |
+| 2026-11-21 18:15:50 | [open_table_chess_game](https://crates.io/crates/open_table_chess_game) | 1.1.0 | 0 | Juego de referencia del OpenTable SDK: ajedrez (chess). |
+| 2026-11-21 18:15:59 | [open_table_checkers_game](https://crates.io/crates/open_table_checkers_game) | 1.1.0 | 0 | Juego de referencia del OpenTable SDK: damas (checkers / draughts). |
+| 2026-11-21 18:16:05 | [open_table_shogi_game](https://crates.io/crates/open_table_shogi_game) | 1.1.0 | 0 | Juego de referencia del OpenTable SDK: Shogi (Ajedrez Japones). |
+| 2026-11-21 18:16:14 | [open_table_xiangqi_game](https://crates.io/crates/open_table_xiangqi_game) | 1.1.0 | 0 | Juego de referencia del OpenTable SDK: Xiangqi (Ajedrez Chino). |
+| 2026-11-21 18:16:21 | [open_table_go_game](https://crates.io/crates/open_table_go_game) | 1.1.0 | 0 | Juego de referencia del OpenTable SDK: Go (Weiqi / Baduk). |
+| 2026-11-21 18:17:19 | [autosolve](https://crates.io/crates/autosolve) | 0.1.0 | 0 | This is a stub. More will be here later |
 
 ## Data source
 
