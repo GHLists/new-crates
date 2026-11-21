@@ -8,70 +8,52 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-21 00:20 UTC
+## Latest list — 2026-11-21 01:19 UTC
 
-New crates published between 2026-11-20 23:19 UTC and 2026-11-21 00:20 UTC.
+New crates published between 2026-11-21 00:20 UTC and 2026-11-21 01:19 UTC.
 
-[Full CSV](data/new-crates-2026-11-21T00-20-55-407832Z.csv)
+[Full CSV](data/new-crates-2026-11-21T01-19-21-553006Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-20 23:19:16 | [cftool-core](https://crates.io/crates/cftool-core) | 0.1.0-beta.1 | 0 | Cloudflare WARP and CDN endpoint scanner toolkit |
-| 2026-11-20 23:19:24 | [bitcoinleveldb-reversekeycomparator](https://crates.io/crates/bitcoinleveldb-reversekeycomparator) | 0.2.0 | 0 | A comparator used to exercise non-default key ordering in LevelDB tests. |
-| 2026-11-20 23:19:50 | [bitcoinleveldb-blockutil](https://crates.io/crates/bitcoinleveldb-blockutil) | 0.2.0 | 0 | Low-level decoding of a LevelDB table-block entry header. |
-| 2026-11-20 23:19:55 | [cftool-warp](https://crates.io/crates/cftool-warp) | 0.1.0-beta.1 | 0 | Cloudflare WARP and CDN endpoint scanner toolkit |
-| 2026-11-20 23:20:06 | [bitcoinleveldb-stringsink](https://crates.io/crates/bitcoinleveldb-stringsink) | 0.2.0 | 0 | An in-memory WritableFile used by LevelDB table construction and tests. |
-| 2026-11-20 23:20:20 | [cftool-cdn](https://crates.io/crates/cftool-cdn) | 0.1.0-beta.1 | 0 | Cloudflare WARP and CDN endpoint scanner toolkit |
-| 2026-11-20 23:20:28 | [cftool](https://crates.io/crates/cftool) | 0.1.0-beta.1 | 0 | Cloudflare WARP and CDN endpoint scanner toolkit |
-| 2026-11-20 23:22:33 | [kwavers-grid](https://crates.io/crates/kwavers-grid) | 3.0.0 | 0 | Spatial discretization for kwavers: Cartesian/cylindrical grids, coordinates, t… |
-| 2026-11-20 23:22:56 | [bitcoinleveldb-stringsource](https://crates.io/crates/bitcoinleveldb-stringsource) | 0.2.0 | 0 | In-memory RandomAccessFile implementation used by the LevelDB table and block t… |
-| 2026-11-20 23:23:15 | [cftool-gui](https://crates.io/crates/cftool-gui) | 0.1.0-beta.1 | 0 | Cloudflare WARP and CDN endpoint scanner toolkit |
-| 2026-11-20 23:26:54 | [rsrng](https://crates.io/crates/rsrng) | 2.3.0 | 0 | Portable, fast, secure CSPRNG backed by ChaCha20 with adaptive parallel fill |
-| 2026-11-20 23:27:36 | [zorch-review](https://crates.io/crates/zorch-review) | 0.0.0 | 0 | Review and trust gates for zorch |
-| 2026-11-20 23:32:32 | [kwavers-signal](https://crates.io/crates/kwavers-signal) | 3.0.0 | 0 | Excitation signal generation and processing for kwavers: waveforms, pulses, fre… |
-| 2026-11-20 23:32:57 | [bitcoinleveldb-specialenv](https://crates.io/crates/bitcoinleveldb-specialenv) | 0.2.0 | 0 | Controllable environment wrapper for LevelDB tests. SpecialEnv wraps a shared E… |
-| 2026-11-20 23:33:12 | [scratchy-core-model](https://crates.io/crates/scratchy-core-model) | 0.1.0 | 0 | Model loading, weight management, and tensor abstractions for scratchy |
-| 2026-11-20 23:33:52 | [gpui-mobile-devtools](https://crates.io/crates/gpui-mobile-devtools) | 0.1.0 | 0 | Console and Network devtools for GPUI apps on Android and iOS: stream logs and… |
-| 2026-11-20 23:37:40 | [zorch-router](https://crates.io/crates/zorch-router) | 0.0.0 | 0 | Model router for zorch |
-| 2026-11-20 23:41:22 | [evolutionary-planning](https://crates.io/crates/evolutionary-planning) | 0.0.0 | 0 | Evolutionary planning: genetic algorithms, evolution strategies and multi-objec… |
-| 2026-11-20 23:42:11 | [magemath](https://crates.io/crates/magemath) | 0.1.0 | 0 | Configurable scalar and SIMD transcendental approximations with explicit numeri… |
-| 2026-11-20 23:42:32 | [kwavers-field](https://crates.io/crates/kwavers-field) | 3.0.0 | 0 | Numerical field definitions for kwavers: component indices (SSOT), field-type m… |
-| 2026-11-20 23:42:57 | [bitcoinleveldbt-env](https://crates.io/crates/bitcoinleveldbt-env) | 0.2.0 | 0 | An environment adapter used by LevelDB tests. |
-| 2026-11-20 23:43:33 | [scratchy-quantizations](https://crates.io/crates/scratchy-quantizations) | 0.1.0 | 0 | Shared quantization preset definitions + GGUF (llama.cpp) format support. Prese… |
-| 2026-11-20 23:47:45 | [zorch-runner](https://crates.io/crates/zorch-runner) | 0.0.0 | 0 | ACP runner sidecar for zorch agent pods |
-| 2026-11-20 23:52:33 | [kwavers-medium](https://crates.io/crates/kwavers-medium) | 4.0.0 | 0 | Material and tissue models for kwavers: homogeneous/heterogeneous media, acoust… |
-| 2026-11-20 23:52:57 | [bitcoinleveldb-posixenv](https://crates.io/crates/bitcoinleveldb-posixenv) | 0.2.0 | 0 | POSIX-backed operating-system services for the LevelDB storage engine. |
-| 2026-11-20 23:53:52 | [scratchy-layers](https://crates.io/crates/scratchy-layers) | 0.1.0 | 0 | Backend-neutral neural-network layer types (LinearLayer, norms, embeddings) for… |
-| 2026-11-20 23:54:31 | [vitrek](https://crates.io/crates/vitrek) | 0.1.3 | 0 | Nonblocking Rust application monitoring through the local Vitrek agent |
-| 2026-11-20 23:54:41 | [connector-routing](https://crates.io/crates/connector-routing) | 0.0.0 | 0 | Global connector routing: many orthogonal connectors at once with bend, length… |
-| 2026-11-20 23:57:50 | [zorch-triggers](https://crates.io/crates/zorch-triggers) | 0.0.0 | 0 | Automation triggers for zorch |
-| 2026-11-20 23:58:19 | [pirin](https://crates.io/crates/pirin) | 0.0.1 | 0 | Strongly-typed CI/CD pipelines in TypeScript that run locally and render to CI… |
-| 2026-11-20 23:58:29 | [tembra-contracts](https://crates.io/crates/tembra-contracts) | 0.3.0 | 0 | WIT contracts and prepared Orb declarations for Tembra |
-| 2026-11-20 23:58:30 | [tembra-orb-macro](https://crates.io/crates/tembra-orb-macro) | 0.3.0 | 0 | Derives the WIT contract and the component bindings of a compiled Orb from a Ru… |
-| 2026-11-20 23:58:30 | [tembra-runtime](https://crates.io/crates/tembra-runtime) | 0.3.0 | 0 | Shared Rust host implementation for Tembra |
-| 2026-11-20 23:58:33 | [tembra-executor-wasm](https://crates.io/crates/tembra-executor-wasm) | 0.3.0 | 0 | Isolated WebAssembly execution over the Tembra host |
-| 2026-11-20 23:58:47 | [lean-rs-writer](https://crates.io/crates/lean-rs-writer) | 0.10.1 | 0 | Process-owned shared Lake artifact writer and read-custody helper |
-| 2026-11-21 00:02:05 | [hashconsius](https://crates.io/crates/hashconsius) | 0.1.2 | 0 | Formally verified (Verus) hash consing with heap and fixed-capacity arena consi… |
-| 2026-11-21 00:02:33 | [kwavers-mesh](https://crates.io/crates/kwavers-mesh) | 3.0.0 | 0 | Tetrahedral mesh infrastructure for kwavers FEM: nodes, connectivity, statistic… |
-| 2026-11-21 00:02:56 | [bitcoinleveldb-iteratorinner](https://crates.io/crates/bitcoinleveldb-iteratorinner) | 0.2.0 | 0 | The operation traits and cleanup nodes used by LevelDB iterators. |
-| 2026-11-21 00:03:29 | [yah-shmipc](https://crates.io/crates/yah-shmipc) | 0.9.0 | 0 | Position-independent shared-memory IPC: sealed regions, futex wake, last-value… |
-| 2026-11-21 00:04:10 | [scratchy-ir](https://crates.io/crates/scratchy-ir) | 0.1.0 | 0 | Backend-neutral universal interpreter instruction set for scratchy: the closed… |
-| 2026-11-21 00:09:45 | [byteweave](https://crates.io/crates/byteweave) | 0.1.0-dev | 0 | Byteweave — шлюз безопасности и политик для ИИ-агентов (мета-крейт; реализация… |
-| 2026-11-21 00:09:59 | [byteweave-core](https://crates.io/crates/byteweave-core) | 0.1.0-dev | 0 | Общие типы и трейты Byteweave: Detector, Stage, ProviderAdapter |
-| 2026-11-21 00:10:12 | [byteweave-audit](https://crates.io/crates/byteweave-audit) | 0.1.0-dev | 0 | События аудита Byteweave и их экспорт |
-| 2026-11-21 00:10:25 | [byteweave-detectors](https://crates.io/crates/byteweave-detectors) | 0.1.0-dev | 0 | Детекторы уровня 1: правила, контрольные суммы, секреты, словари |
-| 2026-11-21 00:10:37 | [byteweave-masking](https://crates.io/crates/byteweave-masking) | 0.1.0-dev | 0 | Обратимое маскирование: обозначения, таблица соответствий, потоковое восстановл… |
-| 2026-11-21 00:10:51 | [egui_xterm_core](https://crates.io/crates/egui_xterm_core) | 0.1.1 | 0 | Pure-Rust, WASM-safe VT500 terminal emulator engine, grid, reflow, and input ab… |
-| 2026-11-21 00:11:37 | [egui_xterm_pty](https://crates.io/crates/egui_xterm_pty) | 0.1.1 | 0 | Desktop PTY backend for egui_xterm implementing TerminalInput via portable-pty |
-| 2026-11-21 00:11:59 | [egui_xterm](https://crates.io/crates/egui_xterm) | 0.1.1 | 0 | High-performance, auto-layout terminal widget and runtime for egui |
-| 2026-11-21 00:12:29 | [eon-numerology](https://crates.io/crates/eon-numerology) | 1.0.0 | 0 | Eon: Pythagorean Numerology Engine |
-| 2026-11-21 00:12:32 | [eon-qimen](https://crates.io/crates/eon-qimen) | 1.0.0 | 0 | Qimen Dunjia Engine for Eon |
-| 2026-11-21 00:12:33 | [kwavers-boundary](https://crates.io/crates/kwavers-boundary) | 3.0.0 | 0 | Boundary conditions for kwavers: CPML/PML absorbing layers, FEM/BEM, multiphysi… |
-| 2026-11-21 00:12:56 | [bitcoinleveldb-iterator](https://crates.io/crates/bitcoinleveldb-iterator) | 0.2.0 | 0 | Owning wrapper for the LevelDB iterator trait interface. |
-| 2026-11-21 00:13:05 | [eon-cli](https://crates.io/crates/eon-cli) | 1.0.0 | 0 | Eon: High-Performance CLI & AI Agent Interface for the 8-Engine Destiny Platform |
-| 2026-11-21 00:14:42 | [scratchy-vision](https://crates.io/crates/scratchy-vision) | 0.1.0 | 0 | Scratchy vision-tower host glue (rope tables, varlen cu_seqlens, patch flatten,… |
-| 2026-11-21 00:18:03 | [catchlight-editor-cli](https://crates.io/crates/catchlight-editor-cli) | 0.1.0 | 0 | Thin client for the catchlight editor server: drives an editing session over th… |
-| 2026-11-21 00:18:04 | [catchlight-editor-server](https://crates.io/crates/catchlight-editor-server) | 0.1.0 | 0 | Multi-session editor server for catchlight: a Model per session plus a warm hea… |
+| 2026-11-21 00:21:46 | [byteweave-ml](https://crates.io/crates/byteweave-ml) | 0.1.0-dev | 0 | Инференс моделей Byteweave на CPU: NER и классификатор инъекций |
+| 2026-11-21 00:21:51 | [sisa-telemetry-core](https://crates.io/crates/sisa-telemetry-core) | 0.1.0 | 0 | The API-only part of Sisa Telemetry for library crates: trace headers across me… |
+| 2026-11-21 00:22:16 | [sisa-telemetry](https://crates.io/crates/sisa-telemetry) | 0.1.0 | 0 | OpenTelemetry for Rust services: one init() for traces, metrics and logs over O… |
+| 2026-11-21 00:22:35 | [kwavers-imaging](https://crates.io/crates/kwavers-imaging) | 3.0.0 | 0 | Medical-imaging domain workflows for kwavers: DICOM/CT/NIfTI loaders, ultrasoun… |
+| 2026-11-21 00:22:56 | [bitcoinleveldb-blockbuilder](https://crates.io/crates/bitcoinleveldb-blockbuilder) | 0.2.0 | 0 | Builds the prefix-compressed data and index blocks used in LevelDB SSTables. Bl… |
+| 2026-11-21 00:24:06 | [wpantry-cli](https://crates.io/crates/wpantry-cli) | 0.5.0 | 0 | The wpantry binary |
+| 2026-11-21 00:24:59 | [scratchy-forward-compiler](https://crates.io/crates/scratchy-forward-compiler) | 0.1.0 | 0 | Runtime support for the code scratchy's #[forward] compiler emits: the ForwardC… |
+| 2026-11-21 00:32:32 | [kwavers-phantom](https://crates.io/crates/kwavers-phantom) | 3.0.0 | 0 | Clinical tissue-phantom builders for kwavers: blood-oxygenation, layered tissue… |
+| 2026-11-21 00:32:39 | [byteweave-policy](https://crates.io/crates/byteweave-policy) | 0.1.0-dev | 0 | Загрузка, валидация и применение YAML-политик Byteweave |
+| 2026-11-21 00:32:56 | [bitcoinleveldb-blockhandle](https://crates.io/crates/bitcoinleveldb-blockhandle) | 0.2.0 | 0 | Block locations and block-reading helpers for LevelDB SSTable files. BlockHandl… |
+| 2026-11-21 00:34:16 | [arvumi-cli](https://crates.io/crates/arvumi-cli) | 0.1.1 | 0 | Command-line client for the Arvumi deployment platform |
+| 2026-11-21 00:35:15 | [scratchy-forward-compiler-frontend](https://crates.io/crates/scratchy-forward-compiler-frontend) | 0.1.0 | 0 | The front end of scratchy's forward compiler: parses a model's Python forward s… |
+| 2026-11-21 00:40:29 | [byteweave-mcp](https://crates.io/crates/byteweave-mcp) | 0.1.0-dev | 0 | MCP-шлюз Byteweave: реестр инструментов, правила вызовов, прокси |
+| 2026-11-21 00:41:31 | [bydev](https://crates.io/crates/bydev) | 0.1.0 | 0 | 데브 라이선스 API 공식 Rust SDK — 디바이스 로그인 · 토큰 회전 · 세션 리스 · licenseToken 검증 · 업데이트 확인 |
+| 2026-11-21 00:42:01 | [rust2go-ipc](https://crates.io/crates/rust2go-ipc) | 0.1.0 | 0 | Drop-in rust2go replacement: Rust in main process, Go in child process over IPC |
+| 2026-11-21 00:42:32 | [kwavers-receiver](https://crates.io/crates/kwavers-receiver) | 3.0.0 | 0 | Low-level acoustic recording primitives for kwavers: sensor-array geometry, fie… |
+| 2026-11-21 00:42:57 | [bitcoinleveldb-emptyiterator](https://crates.io/crates/bitcoinleveldb-emptyiterator) | 0.2.0 | 0 | An always-invalid LevelDB iterator with a stored status. |
+| 2026-11-21 00:43:46 | [pddl-runtime](https://crates.io/crates/pddl-runtime) | 0.1.0 | 0 | The planning-task trait, fact storage and reference searches that code generate… |
+| 2026-11-21 00:43:58 | [pddl-core](https://crates.io/crates/pddl-core) | 0.5.0 | 0 | The types and the parser behind the pddl crate; depend on pddl instead |
+| 2026-11-21 00:44:02 | [pddl-codegen](https://crates.io/crates/pddl-codegen) | 0.1.0 | 0 | Generates typed Rust planning code from PDDL domains, for pddl's #[task] attrib… |
+| 2026-11-21 00:45:01 | [pddl-macros](https://crates.io/crates/pddl-macros) | 0.1.0 | 0 | Compile-time checked PDDL: domain!, problem! and pddl! macros for the pddl crate |
+| 2026-11-21 00:45:33 | [scratchy-serving-scheduler](https://crates.io/crates/scratchy-serving-scheduler) | 0.1.0 | 0 | Scheduler, KV cache management, and block allocation for scratchy |
+| 2026-11-21 00:51:46 | [byteweave-providers](https://crates.io/crates/byteweave-providers) | 0.1.0-dev | 0 | Адаптеры провайдеров LLM для Byteweave |
+| 2026-11-21 00:52:34 | [kwavers-source](https://crates.io/crates/kwavers-source) | 3.0.0 | 0 | Low-level acoustic/optical/EM excitation primitives for kwavers: source trait,… |
+| 2026-11-21 00:52:56 | [bitcoinleveldb-keyconvertingiterator](https://crates.io/crates/bitcoinleveldb-keyconvertingiterator) | 0.2.0 | 0 | Iterator adapter that exposes user keys from LevelDB internal keys. |
+| 2026-11-21 00:53:56 | [msmn](https://crates.io/crates/msmn) | 0.0.1 | 0 | Minimal SSA Machine Notation: compiler infrastructure (work in progress, name r… |
+| 2026-11-21 00:56:07 | [scratchy-serving-transport](https://crates.io/crates/scratchy-serving-transport) | 0.1.0 | 0 | Wire formats: msgpack serialization and the TCP rank control channel |
+| 2026-11-21 00:59:19 | [agentos-vm-kernel](https://crates.io/crates/agentos-vm-kernel) | 0.5.0-rc.1 | 0 | Authoritative Linux/POSIX kernel plane for agentOS VMs |
+| 2026-11-21 01:00:02 | [agentos-executor-v8-runtime](https://crates.io/crates/agentos-executor-v8-runtime) | 0.5.0-rc.1 | 0 | V8 isolate runtime for agentOS guest JavaScript execution |
+| 2026-11-21 01:00:14 | [agentos-executor-node-v8](https://crates.io/crates/agentos-executor-node-v8) | 0.5.0-rc.1 | 0 | Node.js-compatible JavaScript executor hosted by the agentOS V8 runtime |
+| 2026-11-21 01:00:45 | [agentos-executor-python-v8-pyodide](https://crates.io/crates/agentos-executor-python-v8-pyodide) | 0.5.0-rc.1 | 0 | Pyodide Python executor hosted by the agentOS V8 runtime |
+| 2026-11-21 01:02:33 | [kwavers-transducer](https://crates.io/crates/kwavers-transducer) | 4.1.0 | 0 | High-level transducer devices for kwavers: focused bowls, phased/linear/matrix/… |
+| 2026-11-21 01:02:41 | [byteweave-storage](https://crates.io/crates/byteweave-storage) | 0.1.0-dev | 0 | Хранилище Byteweave в PostgreSQL |
+| 2026-11-21 01:02:56 | [bitcoinleveldb-versioniterator](https://crates.io/crates/bitcoinleveldb-versioniterator) | 0.2.0 | 0 | An internal iterator over the files in one LevelDB version level. |
+| 2026-11-21 01:06:24 | [scratchy-serving-engine](https://crates.io/crates/scratchy-serving-engine) | 0.1.0 | 0 | Engine core loop and request lifecycle for scratchy |
+| 2026-11-21 01:10:33 | [byteweave-admin](https://crates.io/crates/byteweave-admin) | 0.1.0-dev | 0 | Admin API Byteweave для веб-консоли |
+| 2026-11-21 01:12:56 | [bitcoinleveldb-blockiter](https://crates.io/crates/bitcoinleveldb-blockiter) | 0.2.0 | 0 | Iteration over the prefix-compressed entries of a LevelDB block. |
+| 2026-11-21 01:16:42 | [scratchy-serving-worker](https://crates.io/crates/scratchy-serving-worker) | 0.1.0 | 0 | Worker/process management and distributed coordination for scratchy |
 
 ## Data source
 
