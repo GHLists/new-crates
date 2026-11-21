@@ -1,0 +1,33 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-21T04:19:30.267135Z,taim_renderer,0.15.0-rc.1,0,0,https://github.com/theaimartco/taim,The official renderer for taim
+2026-11-21T04:19:59.131599Z,avectes-dioxus-sdk-time,0.7.0,0,0,https://github.com/DioxusLabs/sdk/,Timing utilities and hooks for Dioxus.
+2026-11-21T04:20:45.974699Z,eoka-solvers,0.1.0,0,0,https://github.com/shrimp-software/eoka-tools,"Optional CAPTCHA solvers for eoka: Anti-Captcha provider, local DataDome slider and token injection"
+2026-11-21T04:22:57.025398Z,bitcoinleveldbt-versionsettestutil,0.2.0,0,0,https://github.com/klebs6/bitcoin-rs,"Reusable version-set fixtures and observations for compaction, recovery and lifecycle tests."
+2026-11-21T04:25:27.766413Z,markliers-core,0.0.0,0,0,,"Placeholder for markliers-core (foundation: SyntaxKind, hash, ParseError, EditInfo) of the markliers Markdown toolkit. Under active development; the first release will replace this version."
+2026-11-21T04:25:57.425754Z,markliers-parser,0.0.0,0,0,,Placeholder for markliers-parser (Markdown parser) of the markliers Markdown toolkit. Under active development; the first release will replace this version.
+2026-11-21T04:26:12.991869Z,markliers-cst,0.0.0,0,0,,Placeholder for markliers-cst (CST construction and incremental parsing) of the markliers Markdown toolkit. Under active development; the first release will replace this version.
+2026-11-21T04:26:18.439711Z,markliers-html,0.0.0,0,0,,Placeholder for markliers-html (HTML renderer) of the markliers Markdown toolkit. Under active development; the first release will replace this version.
+2026-11-21T04:26:27.457357Z,markliers-fmt,0.0.0,0,0,,Placeholder for markliers-fmt (Markdown formatter) of the markliers Markdown toolkit. Under active development; the first release will replace this version.
+2026-11-21T04:28:51.640386Z,openapi-axum-scopes,0.1.0,0,0,https://tangled.org/straiforos.tngl.sh/substratum.cloud,Enforce OpenAPI OAuth2 security scopes via Axum middleware / path registry
+2026-11-21T04:29:10.459753Z,taim-view,0.15.0-rc.1,0,0,https://github.com/theaimartco/taim,The TAIM view contract: signal-driven views without message types
+2026-11-21T04:32:57.054137Z,bitcoinleveldb-versionset,0.2.0,0,0,https://github.com/klebs6/bitcoin-rs,"Manages LevelDB's current and retained SSTable versions, MANIFEST edits, file-number/sequence bookkeeping, and compaction selection. VersionSet owns the linked version list and connects it to the tab…"
+2026-11-21T04:38:44.762597Z,avectes-toolbox,0.1.0-rc.1,0,0,,Public UI and authentication presentation types used by Avectes.rs
+2026-11-21T04:39:36.032084Z,rembro,0.1.0,0,0,https://github.com/ScriptSmith/rembro,"Open a browser that uses the network of an SSH host, container, sandbox or Kubernetes pod"
+2026-11-21T04:39:39.136186Z,taim-accessibility,0.15.0-rc.1,0,0,https://github.com/theaimartco/taim,"Retained, incremental semantic engine and platform adapters for Taim"
+2026-11-21T04:42:56.723679Z,bitcoinleveldb-dbimplinner,0.2.0,0,0,https://github.com/klebs6/bitcoin-rs,"Internal background-compaction and coordination helpers for the bitcoin-rs LevelDB database implementation. This crate separates scheduling predicates, background-error recording, waiter notification…"
+2026-11-21T04:43:44.561417Z,carrier-core,0.0.1,0,0,https://github.com/hupe1980/telco-interop,"Shared foundation of the wbci and spri crates (German carrier interfaces): carrier ids, working-day calendar, hardened XML. Placeholder; work in progress."
+2026-11-21T04:46:12.699034Z,favicons,1.0.0,0,0,https://github.com/peleda-app/favicons,"Privacy-first favicon and logo API: any site's icon as a clean, sandboxed SVG with light and dark theme colours"
+2026-11-21T04:48:23.635282Z,keep-ram-clean,2.2.0,0,0,https://github.com/Andrew-Smith-93/keep-ram-clean,"Configurable Linux RAM, tmpfs, swap, and memory-pressure management daemon and CLI"
+2026-11-21T04:48:48.791113Z,taim-platform-vyom,0.15.0-rc.1,0,0,https://github.com/theaimartco/taim,Native Wayland platform backend for the VYOM compositor
+2026-11-21T04:48:55.242962Z,avectes,0.1.0-rc.1,0,0,,Avectes.rs: a small Dioxus-based application framework
+2026-11-21T04:52:56.641239Z,bitcoinleveldb-dbimpl,0.2.0,0,0,https://github.com/klebs6/bitcoin-rs,The persistent LevelDB database implementation behind the DB operation traits.
+2026-11-21T04:58:28.096498Z,taim_runtime,0.15.0-rc.1,0,0,https://github.com/theaimartco/taim,A renderer-agnostic runtime for taim
+2026-11-21T05:01:13.862662Z,formalmethods,0.1.0,0,0,,"Formal methods for software testing: LTL evaluation on traces, Kripke model checking, property-based falsification, and coverage analysis."
+2026-11-21T05:02:47.121446Z,orecchiette-fpv-drone-analog-rs,0.9.1,0,0,https://github.com/isaacbentley/orecchiette-fpv-drone-analog-rs,Analog FPV drone video signal detection via FM demodulation and spectral sync-pulse analysis.
+2026-11-21T05:02:57.370331Z,bitcoinleveldb-dbconstructor,0.2.0,0,0,https://github.com/klebs6/bitcoin-rs,Database-backed construction fixtures for the LevelDB comparison harness.
+2026-11-21T05:04:23.037902Z,outofmemory,0.1.0,0,0,,"Context engineering toolkit for LLM agents backed by a Palantir-style ontology (object types, link types, action types, instances) with JSON-LD/Turtle/OWL interchange, MCP tools, and token-budget con…"
+2026-11-21T05:08:32.144299Z,taim_widget,0.15.0-rc.1,0,0,https://github.com/theaimartco/taim,The built-in widgets for taim
+2026-11-21T05:11:12.270283Z,femacs,0.0.1,0,0,https://github.com/liuchong/femacs,Command-line launcher for the Fe editor on macOS
+2026-11-21T05:11:37.862957Z,openfrp-cli,0.1.0,0,0,,Community-developed command-line client for OpenFRP
+2026-11-21T05:12:57.065664Z,bitcoinleveldbt-bench,0.2.0,0,0,https://github.com/klebs6/bitcoin-rs,"Benchmark workloads for the LevelDB port, with a separate SQLite comparison implementation."
+2026-11-21T05:18:26.436514Z,taim_winit,0.15.0-rc.1,0,0,https://github.com/theaimartco/taim,"The TAIM desktop shell, on top of winit"
