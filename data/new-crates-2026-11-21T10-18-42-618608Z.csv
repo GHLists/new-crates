@@ -1,0 +1,26 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-21T09:23:05.280047Z,reylo-macros,0.8.0,0,0,https://github.com/reylosql/reylo,"The attribute #[reylo::query(""…"")] mod name {}: the statement typed by Reylo's engine at compile time, against the project's database or reylo/.cache/ where it cannot be reached, and expanded to Quer…"
+2026-11-21T09:24:32.465757Z,batonly-desktop,0.0.1,0,0,,Name reserved for the Batonly project
+2026-11-21T09:28:41.786986Z,equate-sequence-core,0.1.0,0,0,https://github.com/thorwhalen/equate,"Sequence-alignment kernels of equate (banded DTW, subsequence DTW, Needleman-Wunsch / Smith-Waterman) with Python's tie-breaking; no Python types"
+2026-11-21T09:29:08.736611Z,fleetmesh,0.0.0,0,0,https://gitlab.com/fleetmesh/meshctl,"Protocol library for Fleetmesh: wire types, manifests, relay client and the conformance suite"
+2026-11-21T09:29:43.603259Z,meshctl,0.0.0,0,0,https://gitlab.com/fleetmesh/meshctl,Declarative fleet management CLI for Fleetmesh (fleetmesh.org)
+2026-11-21T09:31:02.058151Z,f_ppt,0.1.0,0,0,https://github.com/0xhappyboy/f_ppt,"A Rust PPT document parsing engine, with f_ppt at its core, providing complete document structure decomposition and read/write capabilities."
+2026-11-21T09:31:16.273882Z,reylo,0.8.0,0,0,https://github.com/reylosql/reylo,"SQL typed by Reylo's engine at compile time, run on sqlx: #[reylo::query(""…"")] mod name {} on Postgres, MySQL and SQLite."
+2026-11-21T09:33:31.427426Z,astro96-api,0.3.0,0,0,https://github.com/96astro/96astro_api_website,"96Astro API client: kundli, panchang, horoscopes, matching, numerology and reports. Async, retries with idempotency keys."
+2026-11-21T09:34:54.728441Z,batonly-winjob,0.0.1,0,0,,Name reserved for the Batonly project
+2026-11-21T09:41:28.380384Z,reylo-cli,0.8.0,0,0,https://github.com/reylosql/reylo,"One program for every database Reylo reads: the analysis engine each language's frontend talks to over standard input and output (reylo engine <database>), each statement's type descriptor on the com…"
+2026-11-21T09:45:16.757046Z,batonly-winpipe,0.0.1,0,0,,Name reserved for the Batonly project
+2026-11-21T09:46:44.026715Z,streepjes,0.0.0,0,0,https://github.com/streepjes/streepjes,"Placeholder for the Streepjes barcode reader, a robust, memory-safe reader in Rust. The first release is in preparation."
+2026-11-21T09:46:47.849053Z,streepjes-core,0.0.0,0,0,https://github.com/streepjes/streepjes,"Placeholder for the Streepjes barcode reader, a robust, memory-safe reader in Rust. The first release is in preparation."
+2026-11-21T09:46:51.529055Z,streepjes-ecc,0.0.0,0,0,https://github.com/streepjes/streepjes,"Placeholder for the Streepjes barcode reader, a robust, memory-safe reader in Rust. The first release is in preparation."
+2026-11-21T09:46:55.61389Z,streepjes-linear,0.0.0,0,0,https://github.com/streepjes/streepjes,"Placeholder for the Streepjes barcode reader, a robust, memory-safe reader in Rust. The first release is in preparation."
+2026-11-21T09:46:59.373921Z,streepjes-qr,0.0.0,0,0,https://github.com/streepjes/streepjes,"Placeholder for the Streepjes barcode reader, a robust, memory-safe reader in Rust. The first release is in preparation."
+2026-11-21T09:51:21.007927Z,xformat,0.0.0,0,0,,An empty placeholder for the xformat project.
+2026-11-21T09:57:16.453701Z,streepjes-cli,0.0.0,0,0,https://github.com/streepjes/streepjes,"Placeholder for the Streepjes barcode reader, a robust, memory-safe reader in Rust. The first release is in preparation."
+2026-11-21T10:05:25.621279Z,rs-auto-alloc,0.1.0,0,0,https://github.com/codixor/rs-alloc,Compile-time global allocator selection for hosted Rust programs and bare-metal firmware
+2026-11-21T10:11:58.48407Z,anet-client,0.0.1,0,0,https://github.com/antinet-ai/anet,"The Rust SDK of the local anet service: chat, embeddings, the decision loop and typed decisions over its socket or pipe"
+2026-11-21T10:13:17.227006Z,xtmd-live,0.3.1,0,0,https://github.com/extended-mark/extended-mark,"What a real-time Extended Mark target embeds: the compiler, with core compiled once, building a document's text into the IR xtmd build writes; and a text followed as it is edited, the last IR that co…"
+2026-11-21T10:13:17.769924Z,xtmd-markdown,0.3.1,0,0,https://github.com/extended-mark/extended-mark,"Markdown out: a page written as Markdown, with the values it has"
+2026-11-21T10:13:18.007426Z,xtmd-migrate,0.3.1,0,0,https://github.com/extended-mark/extended-mark,"What xtmd migrate does, on texts: documents and packs brought up to the packs they are built with, through each pack's migrations and each release's steps; for the xtmd command and for an editor"
+2026-11-21T10:13:19.08556Z,xtmd-lsp,0.3.1,0,0,https://github.com/extended-mark/extended-mark,"Extended Mark's editor features and its language server: diagnostics, hover, definition, outline, completion and formatting, over the Language Server Protocol"
+2026-11-21T10:13:20.843225Z,xtmd,0.3.1,0,0,https://github.com/extended-mark/extended-mark,"The xtmd command: check, fmt, build and md"
