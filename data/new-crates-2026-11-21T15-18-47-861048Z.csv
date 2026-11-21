@@ -1,0 +1,31 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-21T14:19:42.899078Z,nesh,0.0.1,0,0,https://github.com/shellrow/nesh,"[WIP] A fast, cross-platform network configuration and diagnostics CLI."
+2026-11-21T14:19:44.404688Z,gif2ascii,0.1.0,0,0,https://github.com/tanaymetry/gif2ascii,"GIFs, but make them text. Turn any GIF into animated ASCII art in the terminal."
+2026-11-21T14:23:22.973547Z,sio2box-tools,0.1.0,0,0,https://codeberg.org/nkoq/sio2box,Utility crate shared by the sio2box sandbox and its tooling
+2026-11-21T14:23:25.625928Z,sio2box,0.1.0,0,0,https://codeberg.org/nkoq/sio2box,A sandbox for Linux systems
+2026-11-21T14:24:56.852989Z,cosmosearch-format,0.1.0,0,0,https://github.com/cosmobuild/cosmosearch,The file table and chunk records of the cosmosearch index.
+2026-11-21T14:28:01.204265Z,f_tex,0.1.0,0,0,https://github.com/0xhappyboy/f_tex,"A Rust LaTeX document parsing engine, with f_tex at its core, providing complete document structure decomposition and read/write capabilities."
+2026-11-21T14:34:58.196734Z,f_md,0.1.0,0,0,https://github.com/0xhappyboy/f_md,"A Rust Markdown document parsing engine, with f_md at its core, providing complete document structure decomposition and read/write capabilities."
+2026-11-21T14:35:15.011261Z,cosmosearch-http,0.1.0,0,0,https://github.com/cosmobuild/cosmosearch,Embeddings and reranking over HTTP APIs for cosmosearch.
+2026-11-21T14:39:01.193559Z,rustydiscord,0.0.4,0,0,https://github.com/usslmuk/rustydiscord,The fastest and most complete Rust library for the Discord API
+2026-11-21T14:39:04.831986Z,leptos_static,0.9.0-rc2,0,0,,Render a statically hostable website using leptos
+2026-11-21T14:43:36.437586Z,cosmosearch-lexical,0.1.0,0,0,https://github.com/cosmobuild/cosmosearch,"BM25 keyword search for cosmosearch, over tantivy."
+2026-11-21T14:43:56.043875Z,cascivo-web,0.1.0,0,0,https://github.com/cascivo/cascivo,"Static sites from Markdown and content collections, with cascivo-html components, i18n and RSS"
+2026-11-21T14:46:15.495871Z,kargui,0.1.0,0,0,https://github.com/dikmri/kargui,"A light native GUI framework for Rust on Windows: immediate-mode code, CPU rendering that redraws only what changed, input methods and screen readers built in"
+2026-11-21T14:53:56.003957Z,cosmosearch-rerank-local,0.1.0,0,0,https://github.com/cosmobuild/cosmosearch,"Local CPU reranking for cosmosearch, using candle."
+2026-11-21T14:56:57.932333Z,iletki-core,0.1.0,0,0,https://github.com/furkankarli/iletki,"Framework-agnostic 2D/3D viewport math, cameras, rigs and rendering contracts"
+2026-11-21T14:57:07.617964Z,iletki-wgpu,0.1.0,0,0,https://github.com/furkankarli/iletki,"Framework-agnostic wgpu viewport host, cached targets, draw phases and GPU picking"
+2026-11-21T14:57:15.783746Z,iletki-2d,0.1.0,0,0,https://github.com/furkankarli/iletki,High-precision 2D CAD and vector layer kit for iletki with split hi/lo precision and paged incremental GPU buffers
+2026-11-21T14:57:21.648739Z,iletki-3d,0.1.0,0,0,https://github.com/furkankarli/iletki,"Camera-relative Reversed-Z 3D scene, infinite ground grid, section clip planes and transform gizmos for iletki"
+2026-11-21T14:57:31.088778Z,iletki-egui,0.1.0,0,0,https://github.com/furkankarli/iletki,Thin egui / eframe adapter for the iletki GPU viewport
+2026-11-21T15:00:55.974226Z,humany,0.1.0,0,0,https://github.com/munafio/humany,Human-readable formatting for Rust
+2026-11-21T15:04:16.3177Z,cosmosearch-store,0.1.0,0,0,https://github.com/cosmobuild/cosmosearch,"Storage for cosmosearch: backends, index lifecycle and atomic commits."
+2026-11-21T15:07:28.70893Z,iletki,0.1.0,0,0,https://github.com/furkankarli/iletki,"Embeddable wgpu viewport for 2D and 3D CAD, GIS, and Rust editors"
+2026-11-21T15:12:34.691125Z,pirin-core,0.1.0,0,0,https://github.com/pshomov/pirin,"The model of a pirin pipeline, and the rules that check it"
+2026-11-21T15:12:43.942173Z,pirin-extension,0.1.0,0,0,https://github.com/pshomov/pirin,What the renderer of a pirin extension is written against (docs/adr/0024-extensions.md)
+2026-11-21T15:13:47.239531Z,mt-docx-layout,0.2.1,0,0,https://jihulab.com/cislunarspace/mathtype-rs,Thesis layout presets applied to a generated .docx.
+2026-11-21T15:14:34.072695Z,cosmosearch-heat,0.1.0,0,0,https://github.com/cosmobuild/cosmosearch,"Usage tracking for cosmosearch, which decides where vectors pay off."
+2026-11-21T15:16:30.562692Z,graphlink-anthropic,0.1.4,0,0,https://github.com/chedim/graphlink,"graphlink-anthropic: the Anthropic Messages API as a model backend for a GraphLink seat, joined over shared memory"
+2026-11-21T15:16:31.058933Z,graphlink-claude,0.1.4,0,0,https://github.com/chedim/graphlink,"graphlink-claude: Claude Code (the claude CLI in print mode) as a model backend for a GraphLink seat, joined over shared memory"
+2026-11-21T15:16:31.321363Z,graphlink-openai,0.1.4,0,0,https://github.com/chedim/graphlink,"graphlink-openai: any OpenAI-compatible chat completions server as a model backend for a GraphLink seat, joined over shared memory"
+2026-11-21T15:18:03.12535Z,bilibilive,0.1.1,0,0,https://github.com/LIghtJUNction/bilibilive,"A native Bilibili streaming studio with CLI, MCP, zuse automation and zgpui"

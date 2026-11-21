@@ -8,37 +8,44 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-21 14:18 UTC
+## Latest list — 2026-11-21 15:18 UTC
 
-New crates published between 2026-11-21 13:20 UTC and 2026-11-21 14:18 UTC.
+New crates published between 2026-11-21 14:18 UTC and 2026-11-21 15:18 UTC.
 
-[Full CSV](data/new-crates-2026-11-21T14-18-47-81491Z.csv)
+[Full CSV](data/new-crates-2026-11-21T15-18-47-861048Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-21 13:22:52 | [custody-machines](https://crates.io/crates/custody-machines) | 0.1.0 | 0 | Decides where a vault key lives, so the only copy is never one that dies on reb… |
-| 2026-11-21 13:27:12 | [meeng-sdk](https://crates.io/crates/meeng-sdk) | 0.1.0 | 0 | Meeng.dev's SDK for Rust: emails, domains, contacts, contact books, campaigns,… |
-| 2026-11-21 13:27:43 | [vtcode-computer-use](https://crates.io/crates/vtcode-computer-use) | 0.185.0 | 0 | Turn-local computer-use actions and driver lifecycle for VT Code |
-| 2026-11-21 13:31:52 | [rsargv](https://crates.io/crates/rsargv) | 1.1.0 | 0 | Zero-dependency command-line argument parser with direct variable binding, envi… |
-| 2026-11-21 13:32:38 | [cruma-tron-runner](https://crates.io/crates/cruma-tron-runner) | 0.1.0 | 0 | Connect a worker to Tron, receive scheduled jobs over the runner protocol, and… |
-| 2026-11-21 13:33:18 | [rusterisk-cli](https://crates.io/crates/rusterisk-cli) | 0.1.0 | 0 | Inspect call routing, diagnose media, and verify test calls on a running Ruster… |
-| 2026-11-21 13:33:24 | [cosmosearch-core](https://crates.io/crates/cosmosearch-core) | 0.1.0 | 0 | Shared types and plug-in contracts for cosmosearch. |
-| 2026-11-21 13:33:26 | [cosmosearch-cache](https://crates.io/crates/cosmosearch-cache) | 0.1.0 | 0 | Memory and disk caches for cosmosearch. |
-| 2026-11-21 13:33:27 | [cosmosearch-chunk](https://crates.io/crates/cosmosearch-chunk) | 0.1.0 | 0 | Runs cosmosearch extractors safely and turns their output into chunks. |
-| 2026-11-21 13:33:28 | [cosmosearch-embed-local](https://crates.io/crates/cosmosearch-embed-local) | 0.1.0 | 0 | Local CPU embeddings for cosmosearch, using candle. |
-| 2026-11-21 13:33:28 | [cosmosearch-extract-csv](https://crates.io/crates/cosmosearch-extract-csv) | 0.1.0 | 0 | CSV extractor for cosmosearch. |
-| 2026-11-21 13:40:52 | [cargo-cache-ng](https://crates.io/crates/cargo-cache-ng) | 0.1.0 | 0 | Manage the Cargo cache ($CARGO_HOME or ~/.cargo/), show sizes, and remove direc… |
-| 2026-11-21 13:43:58 | [cosmosearch-extract-docx](https://crates.io/crates/cosmosearch-extract-docx) | 0.1.0 | 0 | Word (.docx) extractor for cosmosearch. |
-| 2026-11-21 13:48:39 | [simdvte](https://crates.io/crates/simdvte) | 0.15.1 | 0 | SIMD-accelerated parser for implementing terminal emulators |
-| 2026-11-21 13:54:11 | [cosmosearch-extract-html](https://crates.io/crates/cosmosearch-extract-html) | 0.1.0 | 0 | HTML extractor for cosmosearch. |
-| 2026-11-21 13:57:30 | [linden](https://crates.io/crates/linden) | 0.0.0 | 0 | An answer-set solver in Rust, under development. This release holds the name an… |
-| 2026-11-21 14:04:22 | [cosmosearch-extract-json](https://crates.io/crates/cosmosearch-extract-json) | 0.1.0 | 0 | JSON extractor for cosmosearch. |
-| 2026-11-21 14:04:45 | [yupp](https://crates.io/crates/yupp) | 0.1.1 | 0 | 0-LLM Rust CLI that catches AI test theater, silent slop, and PR blast radius i… |
-| 2026-11-21 14:05:23 | [egui-pop-inspection-tools](https://crates.io/crates/egui-pop-inspection-tools) | 0.1.0 | 0 | Agent tools that drive a live egui app over the egui_inspection protocol: a tem… |
-| 2026-11-21 14:09:54 | [cim-kit](https://crates.io/crates/cim-kit) | 0.4.0 | 0 | IEC CIM/CGMES for power systems: CIM/XML I/O that reproduces the file set, prof… |
-| 2026-11-21 14:10:52 | [corvid-async](https://crates.io/crates/corvid-async) | 0.4.3 | 0 | Shared async runtime and synchronization for Corvid |
-| 2026-11-21 14:14:37 | [cosmosearch-extract-pdf](https://crates.io/crates/cosmosearch-extract-pdf) | 0.1.0 | 0 | PDF extractor for cosmosearch. |
-| 2026-11-21 14:17:52 | [opensourceheadlesscms](https://crates.io/crates/opensourceheadlesscms) | 0.1.0 | 0 | A headless CMS server in Rust: REST + GraphQL APIs, SQLite/PostgreSQL storage,… |
+| 2026-11-21 14:19:42 | [nesh](https://crates.io/crates/nesh) | 0.0.1 | 0 | [WIP] A fast, cross-platform network configuration and diagnostics CLI. |
+| 2026-11-21 14:19:44 | [gif2ascii](https://crates.io/crates/gif2ascii) | 0.1.0 | 0 | GIFs, but make them text. Turn any GIF into animated ASCII art in the terminal. |
+| 2026-11-21 14:23:22 | [sio2box-tools](https://crates.io/crates/sio2box-tools) | 0.1.0 | 0 | Utility crate shared by the sio2box sandbox and its tooling |
+| 2026-11-21 14:23:25 | [sio2box](https://crates.io/crates/sio2box) | 0.1.0 | 0 | A sandbox for Linux systems |
+| 2026-11-21 14:24:56 | [cosmosearch-format](https://crates.io/crates/cosmosearch-format) | 0.1.0 | 0 | The file table and chunk records of the cosmosearch index. |
+| 2026-11-21 14:28:01 | [f_tex](https://crates.io/crates/f_tex) | 0.1.0 | 0 | A Rust LaTeX document parsing engine, with f_tex at its core, providing complet… |
+| 2026-11-21 14:34:58 | [f_md](https://crates.io/crates/f_md) | 0.1.0 | 0 | A Rust Markdown document parsing engine, with f_md at its core, providing compl… |
+| 2026-11-21 14:35:15 | [cosmosearch-http](https://crates.io/crates/cosmosearch-http) | 0.1.0 | 0 | Embeddings and reranking over HTTP APIs for cosmosearch. |
+| 2026-11-21 14:39:01 | [rustydiscord](https://crates.io/crates/rustydiscord) | 0.0.4 | 0 | The fastest and most complete Rust library for the Discord API |
+| 2026-11-21 14:39:04 | [leptos_static](https://crates.io/crates/leptos_static) | 0.9.0-rc2 | 0 | Render a statically hostable website using leptos |
+| 2026-11-21 14:43:36 | [cosmosearch-lexical](https://crates.io/crates/cosmosearch-lexical) | 0.1.0 | 0 | BM25 keyword search for cosmosearch, over tantivy. |
+| 2026-11-21 14:43:56 | [cascivo-web](https://crates.io/crates/cascivo-web) | 0.1.0 | 0 | Static sites from Markdown and content collections, with cascivo-html component… |
+| 2026-11-21 14:46:15 | [kargui](https://crates.io/crates/kargui) | 0.1.0 | 0 | A light native GUI framework for Rust on Windows: immediate-mode code, CPU rend… |
+| 2026-11-21 14:53:56 | [cosmosearch-rerank-local](https://crates.io/crates/cosmosearch-rerank-local) | 0.1.0 | 0 | Local CPU reranking for cosmosearch, using candle. |
+| 2026-11-21 14:56:57 | [iletki-core](https://crates.io/crates/iletki-core) | 0.1.0 | 0 | Framework-agnostic 2D/3D viewport math, cameras, rigs and rendering contracts |
+| 2026-11-21 14:57:07 | [iletki-wgpu](https://crates.io/crates/iletki-wgpu) | 0.1.0 | 0 | Framework-agnostic wgpu viewport host, cached targets, draw phases and GPU pick… |
+| 2026-11-21 14:57:15 | [iletki-2d](https://crates.io/crates/iletki-2d) | 0.1.0 | 0 | High-precision 2D CAD and vector layer kit for iletki with split hi/lo precisio… |
+| 2026-11-21 14:57:21 | [iletki-3d](https://crates.io/crates/iletki-3d) | 0.1.0 | 0 | Camera-relative Reversed-Z 3D scene, infinite ground grid, section clip planes… |
+| 2026-11-21 14:57:31 | [iletki-egui](https://crates.io/crates/iletki-egui) | 0.1.0 | 0 | Thin egui / eframe adapter for the iletki GPU viewport |
+| 2026-11-21 15:00:55 | [humany](https://crates.io/crates/humany) | 0.1.0 | 0 | Human-readable formatting for Rust |
+| 2026-11-21 15:04:16 | [cosmosearch-store](https://crates.io/crates/cosmosearch-store) | 0.1.0 | 0 | Storage for cosmosearch: backends, index lifecycle and atomic commits. |
+| 2026-11-21 15:07:28 | [iletki](https://crates.io/crates/iletki) | 0.1.0 | 0 | Embeddable wgpu viewport for 2D and 3D CAD, GIS, and Rust editors |
+| 2026-11-21 15:12:34 | [pirin-core](https://crates.io/crates/pirin-core) | 0.1.0 | 0 | The model of a pirin pipeline, and the rules that check it |
+| 2026-11-21 15:12:43 | [pirin-extension](https://crates.io/crates/pirin-extension) | 0.1.0 | 0 | What the renderer of a pirin extension is written against (docs/adr/0024-extens… |
+| 2026-11-21 15:13:47 | [mt-docx-layout](https://crates.io/crates/mt-docx-layout) | 0.2.1 | 0 | Thesis layout presets applied to a generated .docx. |
+| 2026-11-21 15:14:34 | [cosmosearch-heat](https://crates.io/crates/cosmosearch-heat) | 0.1.0 | 0 | Usage tracking for cosmosearch, which decides where vectors pay off. |
+| 2026-11-21 15:16:30 | [graphlink-anthropic](https://crates.io/crates/graphlink-anthropic) | 0.1.4 | 0 | graphlink-anthropic: the Anthropic Messages API as a model backend for a GraphL… |
+| 2026-11-21 15:16:31 | [graphlink-claude](https://crates.io/crates/graphlink-claude) | 0.1.4 | 0 | graphlink-claude: Claude Code (the claude CLI in print mode) as a model backend… |
+| 2026-11-21 15:16:31 | [graphlink-openai](https://crates.io/crates/graphlink-openai) | 0.1.4 | 0 | graphlink-openai: any OpenAI-compatible chat completions server as a model back… |
+| 2026-11-21 15:18:03 | [bilibilive](https://crates.io/crates/bilibilive) | 0.1.1 | 0 | A native Bilibili streaming studio with CLI, MCP, zuse automation and zgpui |
 
 ## Data source
 
