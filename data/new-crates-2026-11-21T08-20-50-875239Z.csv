@@ -1,0 +1,33 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-21T07:19:53.129745Z,mc683xx-bdm-proto,0.1.0,0,0,https://github.com/charlieh0tel/mc683xx-bdm,"The mc683xx BDM pod's protocol: CPU32 BDM command sequences and the pod's USB requests, shared by its firmware and host; no_std"
+2026-11-21T07:20:05.416811Z,mc683xx-bdm,0.1.0,0,0,https://github.com/charlieh0tel/mc683xx-bdm,"The host side of the mc683xx BDM pod, a USB debugger for CPU32 (683xx) microcontrollers: a library and the `bdm` command line, with a gdb server"
+2026-11-21T07:22:56.822688Z,bitcoinleveldbt-issue44,0.2.0,0,0,https://github.com/klebs6/bitcoin-rs,Level-zero compaction regressions for upstream LevelDB issue 44.
+2026-11-21T07:29:04.822889Z,rust-webx-auth-ef,2.5.0,0,0,https://github.com/Rust-Framework/rust-webx,rust-ef-backed durable refresh-token and browser-session stores for rust-webx
+2026-11-21T07:30:06.191426Z,rust-webx-mfa,2.5.0,0,0,https://github.com/Rust-Framework/rust-webx,TOTP and recovery-code multi-factor authentication for rust-webx
+2026-11-21T07:30:23.856102Z,rust-webx-webauthn,2.5.0,0,0,https://github.com/Rust-Framework/rust-webx,WebAuthn/Passkey relying-party verification for rust-webx services
+2026-11-21T07:32:57.297134Z,bitcoinleveldbt-issue474,0.2.0,0,0,https://github.com/klebs6/bitcoin-rs,Logging/flush regression for upstream LevelDB issue 474.
+2026-11-21T07:34:58.513952Z,rust-webx-oauth2,2.5.0,0,0,https://github.com/Rust-Framework/rust-webx,"OAuth 2.0 social-login client for rust-webx with provider presets (GitHub, Google, Microsoft, GitLab, Gitee, DingTalk, Feishu)"
+2026-11-21T07:35:23.415852Z,vusl-coverage,0.1.0-dev.1,0,0,https://github.com/hypler-dev/vusl,Caller-selected required term coverage for checked VUSL mapping reviews
+2026-11-21T07:35:32.579619Z,rust-webx-oidc,2.5.0,0,0,https://github.com/Rust-Framework/rust-webx,"OpenID Connect client for rust-webx: discovery, PKCE, id_token validation and session bridge"
+2026-11-21T07:39:09.772593Z,kelir,0.1.0,0,0,https://github.com/adhikasp/kelir,"A small, steerable coding-agent harness"
+2026-11-21T07:39:27.204798Z,rust-webx-redis,2.5.0,0,0,https://github.com/Rust-Framework/rust-webx,Redis distributed cache and event transport for rust-webx (ASP.NET Core style add_redis)
+2026-11-21T07:42:57.119374Z,bitcoinleveldbt-mt,0.2.0,0,0,https://github.com/klebs6/bitcoin-rs,Multithreaded database read/write regression across fixture option configurations.
+2026-11-21T07:46:59.425812Z,rust-webx-nats,2.5.0,0,0,https://github.com/Rust-Framework/rust-webx,NATS event transport for rust-webx (ASP.NET Core style add_nats)
+2026-11-21T07:48:41.015295Z,oyta-content,0.1.0,0,0,https://github.com/oytaer/oyta_frame,oyta-frame 内容分析层：原始输入 → 领域权重分布。内置 RuleBased / TFIDF / Hybrid 三种分析器，支持自定义 Domain 词典。
+2026-11-21T07:48:45.568773Z,oyta-autograd,0.1.0,0,0,https://github.com/oytaer/oyta_frame,oyta-frame 自动微分引擎：Node 带 domain_id 的稀疏计算图，Op 17+ 变体（含 Conv1dMasked / BatchNorm1dMasked / Conv1dWithSequenceMask 三个掩码 backward），sparse_backward 三层过滤未激活领域子图。
+2026-11-21T07:48:51.793479Z,oyta-loss,0.1.0,0,0,https://github.com/oytaer/oyta_frame,oyta-frame 损失函数层：CrossEntropyLoss（label_smoothing）、MSELoss、MultiDomainLoss 按 active_ids 过滤辅助损失。
+2026-11-21T07:49:12.970075Z,oyta-router,0.1.0,0,0,https://github.com/oytaer/oyta_frame,oyta-frame 稀疏路由 + 参数池层：TopK / Threshold 路由策略，SparseParameterPool 按领域独立维护参数，三层稀疏掩码（domain / channel / sequence）。
+2026-11-21T07:52:40.47993Z,oyta-optim,0.1.0,0,0,https://github.com/oytaer/oyta_frame,"oyta-frame 优化器 + 调度器层：SparseAdam / SparseSGD 按领域独立维护 HashMap<u32, DomainState>（m / v / t 每个领域独立），三个 Scheduler（WarmupCosineAnneal / CosineAnneal / StepLR），zero_grad_sparse / step_sparse / clip_grad_no…"
+2026-11-21T07:52:57.019009Z,bitcoinleveldbt-snapshot,0.2.0,0,0,https://github.com/klebs6/bitcoin-rs,"Snapshot behavior, lifetime and dispatch regressions for the LevelDB port."
+2026-11-21T07:56:54.178307Z,condo-quote-units,1.0.0,0,0,,Exact numeric and evidence boundaries for condominium sale and rental quotes.
+2026-11-21T07:58:24.885748Z,oyta-serialize,0.1.0,0,0,https://github.com/oytaer/oyta_frame,oyta-frame safetensors v0 格式稀疏序列化：手写完整二进制格式（8 bytes header_len + JSON 8 字节对齐 + LE f32），save_sparse_safetensors / load_sparse_safetensors（active_only 过滤 + allow_partial 容错），key 命名 domain_{did}.{module…
+2026-11-21T07:59:28.859968Z,rust-webx-rabbitmq,2.5.0,0,0,https://github.com/Rust-Framework/rust-webx,RabbitMQ (AMQP) event transport for rust-webx (ASP.NET Core style add_rabbitmq)
+2026-11-21T08:00:18.370164Z,backout,0.1.0,0,0,https://github.com/vrindisbacher/backout,"Run async steps with retries and exponential backoff, undoing completed steps if later steps fail"
+2026-11-21T08:01:23.740496Z,razer-headset,0.1.0,0,0,https://github.com/aamirsahmad/razer-headset,Command-line control for the Razer BlackShark V2 HyperSpeed headset on Linux
+2026-11-21T08:02:57.074755Z,bitcoinleveldbt-sparsemerge,0.2.0,0,0,https://github.com/klebs6/bitcoin-rs,Sparse-merge compaction and environment-borrow regressions.
+2026-11-21T08:08:05.958027Z,oyta-expert,0.1.0,0,0,https://github.com/oytaer/oyta_frame,oyta-frame 专家模块层：MLP / CNN1D / RNN / Transformer 四种专家，ExpertExecutor 框架层 continue 跳过未激活专家实现 Layer 1 稀疏。
+2026-11-21T08:10:47.76236Z,rust-webx-kafka,2.5.0,0,0,https://github.com/Rust-Framework/rust-webx,Kafka event transport for rust-webx (ASP.NET Core style add_kafka)
+2026-11-21T08:15:57.848899Z,bitcoinleveldbt-randomized,0.2.0,0,0,https://github.com/klebs6/bitcoin-rs,"Deterministic randomized, replay and failure-prefix regressions for the LevelDB port."
+2026-11-21T08:16:03.85095Z,repose-ui-test,0.35.0,0,0,https://github.com/mlm-games/repose,Deterministic UI testing harness for Repose
+2026-11-21T08:19:40.769107Z,nifly-sys,0.1.0,0,0,https://github.com/SquireWyrm/nifly-rs,"Raw cxx bindings to the nifly C++ NIF library, built from source"
+2026-11-21T08:19:43.132015Z,nifly,0.1.0,0,0,https://github.com/SquireWyrm/nifly-rs,"Read, edit and write NIF files from Bethesda's games, Morrowind to Starfield"
