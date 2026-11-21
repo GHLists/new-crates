@@ -1,0 +1,57 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-20T23:19:16.718646Z,cftool-core,0.1.0-beta.1,0,0,https://github.com/mahyartdb/cloudflare-tool,Cloudflare WARP and CDN endpoint scanner toolkit
+2026-11-20T23:19:24.759439Z,bitcoinleveldb-reversekeycomparator,0.2.0,0,0,https://github.com/klebs6/bitcoin-rs,A comparator used to exercise non-default key ordering in LevelDB tests.
+2026-11-20T23:19:50.060769Z,bitcoinleveldb-blockutil,0.2.0,0,0,https://github.com/klebs6/bitcoin-rs,Low-level decoding of a LevelDB table-block entry header.
+2026-11-20T23:19:55.243274Z,cftool-warp,0.1.0-beta.1,0,0,https://github.com/mahyartdb/cloudflare-tool,Cloudflare WARP and CDN endpoint scanner toolkit
+2026-11-20T23:20:06.869151Z,bitcoinleveldb-stringsink,0.2.0,0,0,https://github.com/klebs6/bitcoin-rs,An in-memory WritableFile used by LevelDB table construction and tests.
+2026-11-20T23:20:20.397485Z,cftool-cdn,0.1.0-beta.1,0,0,https://github.com/mahyartdb/cloudflare-tool,Cloudflare WARP and CDN endpoint scanner toolkit
+2026-11-20T23:20:28.394298Z,cftool,0.1.0-beta.1,0,0,https://github.com/mahyartdb/cloudflare-tool,Cloudflare WARP and CDN endpoint scanner toolkit
+2026-11-20T23:22:33.821665Z,kwavers-grid,3.0.0,0,0,https://github.com/ryancinsight/kwavers,"Spatial discretization for kwavers: Cartesian/cylindrical grids, coordinates, topology, operators, k-space FFT utilities, and geometric domains"
+2026-11-20T23:22:56.663014Z,bitcoinleveldb-stringsource,0.2.0,0,0,https://github.com/klebs6/bitcoin-rs,In-memory RandomAccessFile implementation used by the LevelDB table and block tests. StringSource::new(&Slice) copies the supplied bytes into owned storage; the original input only needs to remain va…
+2026-11-20T23:23:15.691709Z,cftool-gui,0.1.0-beta.1,0,0,https://github.com/mahyartdb/cloudflare-tool,Cloudflare WARP and CDN endpoint scanner toolkit
+2026-11-20T23:26:54.670803Z,rsrng,2.3.0,0,0,https://codeberg.org/AUL1FJ6I/rsrng.git,"Portable, fast, secure CSPRNG backed by ChaCha20 with adaptive parallel fill"
+2026-11-20T23:27:36.944318Z,zorch-review,0.0.0,0,0,https://github.com/ZAL-Analytics/zorch,Review and trust gates for zorch
+2026-11-20T23:32:32.179312Z,kwavers-signal,3.0.0,0,0,https://github.com/ryancinsight/kwavers,"Excitation signal generation and processing for kwavers: waveforms, pulses, frequency sweeps, modulation, windowing, filters"
+2026-11-20T23:32:57.360918Z,bitcoinleveldb-specialenv,0.2.0,0,0,https://github.com/klebs6/bitcoin-rs,Controllable environment wrapper for LevelDB tests. SpecialEnv wraps a shared Env and creates file wrappers that inject selected I/O behavior.
+2026-11-20T23:33:12.787982Z,scratchy-core-model,0.1.0,0,0,https://github.com/AI-native-Systems-Research/scratchy,"Model loading, weight management, and tensor abstractions for scratchy"
+2026-11-20T23:33:52.023813Z,gpui-mobile-devtools,0.1.0,0,0,https://github.com/fardad-dev/gpui-mobile-devtools,Console and Network devtools for GPUI apps on Android and iOS: stream logs and HTTP traffic to a browser viewer over adb or Wi-Fi
+2026-11-20T23:37:40.998516Z,zorch-router,0.0.0,0,0,https://github.com/ZAL-Analytics/zorch,Model router for zorch
+2026-11-20T23:41:22.046391Z,evolutionary-planning,0.0.0,0,0,https://github.com/sunsided/evolutionary-planning,"Evolutionary planning: genetic algorithms, evolution strategies and multi-objective evolutionary search over plans, paths and trajectories"
+2026-11-20T23:42:11.87954Z,magemath,0.1.0,0,0,https://github.com/imazen/archmage,Configurable scalar and SIMD transcendental approximations with explicit numerical contracts.
+2026-11-20T23:42:32.095826Z,kwavers-field,3.0.0,0,0,https://github.com/ryancinsight/kwavers,"Numerical field definitions for kwavers: component indices (SSOT), field-type mapping, operations/statistics, and bubble/electromagnetic field states"
+2026-11-20T23:42:57.111048Z,bitcoinleveldbt-env,0.2.0,0,0,https://github.com/klebs6/bitcoin-rs,An environment adapter used by LevelDB tests.
+2026-11-20T23:43:33.907528Z,scratchy-quantizations,0.1.0,0,0,https://github.com/AI-native-Systems-Research/scratchy,Shared quantization preset definitions + GGUF (llama.cpp) format support. Presets live in `presets/`; GGUF format-level code in the `gguf` module.
+2026-11-20T23:47:45.651099Z,zorch-runner,0.0.0,0,0,https://github.com/ZAL-Analytics/zorch,ACP runner sidecar for zorch agent pods
+2026-11-20T23:52:33.293948Z,kwavers-medium,4.0.0,0,0,https://github.com/ryancinsight/kwavers,"Material and tissue models for kwavers: homogeneous/heterogeneous media, acoustic/elastic/optical/thermal/viscous properties, absorption models, anisotropy"
+2026-11-20T23:52:57.258262Z,bitcoinleveldb-posixenv,0.2.0,0,0,https://github.com/klebs6/bitcoin-rs,POSIX-backed operating-system services for the LevelDB storage engine.
+2026-11-20T23:53:52.425737Z,scratchy-layers,0.1.0,0,0,https://github.com/AI-native-Systems-Research/scratchy,"Backend-neutral neural-network layer types (LinearLayer, norms, embeddings) for scratchy. Type defs + pure accessors only — no backend; backend-runtime methods (kernel-calling forward, GpuWeights-bou…"
+2026-11-20T23:54:31.733358Z,vitrek,0.1.3,0,0,,Nonblocking Rust application monitoring through the local Vitrek agent
+2026-11-20T23:54:41.973704Z,connector-routing,0.0.0,0,0,https://github.com/sunsided/connector-routing,"Global connector routing: many orthogonal connectors at once with bend, length and crossing costs, negotiated congestion and rip-up and reroute"
+2026-11-20T23:57:50.49707Z,zorch-triggers,0.0.0,0,0,https://github.com/ZAL-Analytics/zorch,Automation triggers for zorch
+2026-11-20T23:58:19.628879Z,pirin,0.0.1,0,0,https://github.com/pshomov/pipeline-dsl,Strongly-typed CI/CD pipelines in TypeScript that run locally and render to CI platforms. Placeholder release; see https://pirin.dev
+2026-11-20T23:58:29.206665Z,tembra-contracts,0.3.0,0,0,https://github.com/syntropika/tembra,WIT contracts and prepared Orb declarations for Tembra
+2026-11-20T23:58:30.240936Z,tembra-orb-macro,0.3.0,0,0,https://github.com/syntropika/tembra,Derives the WIT contract and the component bindings of a compiled Orb from a Rust module
+2026-11-20T23:58:30.963154Z,tembra-runtime,0.3.0,0,0,https://github.com/syntropika/tembra,Shared Rust host implementation for Tembra
+2026-11-20T23:58:33.258531Z,tembra-executor-wasm,0.3.0,0,0,https://github.com/syntropika/tembra,Isolated WebAssembly execution over the Tembra host
+2026-11-20T23:58:47.690732Z,lean-rs-writer,0.10.1,0,0,https://github.com/jcreinhold/lean-rs,Process-owned shared Lake artifact writer and read-custody helper
+2026-11-21T00:02:05.285327Z,hashconsius,0.1.2,0,0,https://github.com/elefthei/hashconsius,Formally verified (Verus) hash consing with heap and fixed-capacity arena consigns
+2026-11-21T00:02:33.395189Z,kwavers-mesh,3.0.0,0,0,https://github.com/ryancinsight/kwavers,"Tetrahedral mesh infrastructure for kwavers FEM: nodes, connectivity, statistics, quality metrics, gaia bridge"
+2026-11-21T00:02:56.937574Z,bitcoinleveldb-iteratorinner,0.2.0,0,0,https://github.com/klebs6/bitcoin-rs,The operation traits and cleanup nodes used by LevelDB iterators.
+2026-11-21T00:03:29.187746Z,yah-shmipc,0.9.0,0,0,https://github.com/yah-ai/shmipc,"Position-independent shared-memory IPC: sealed regions, futex wake, last-value slot arena, and JACK-style cycle participation across a process boundary"
+2026-11-21T00:04:10.061433Z,scratchy-ir,0.1.0,0,0,https://github.com/AI-native-Systems-Research/scratchy,Backend-neutral universal interpreter instruction set for scratchy: the closed `Instruction` enum + the per-arch `WeightAccessors` dispatch trait. No backend — names only the neutral tensor/layer typ…
+2026-11-21T00:09:45.398423Z,byteweave,0.1.0-dev,0,0,https://github.com/byteweave-ai/byteweave,Byteweave — шлюз безопасности и политик для ИИ-агентов (мета-крейт; реализация — в крейтах byteweave-*)
+2026-11-21T00:09:59.842715Z,byteweave-core,0.1.0-dev,0,0,,"Общие типы и трейты Byteweave: Detector, Stage, ProviderAdapter"
+2026-11-21T00:10:12.088166Z,byteweave-audit,0.1.0-dev,0,0,,События аудита Byteweave и их экспорт
+2026-11-21T00:10:25.652934Z,byteweave-detectors,0.1.0-dev,0,0,,"Детекторы уровня 1: правила, контрольные суммы, секреты, словари"
+2026-11-21T00:10:37.846596Z,byteweave-masking,0.1.0-dev,0,0,,"Обратимое маскирование: обозначения, таблица соответствий, потоковое восстановление"
+2026-11-21T00:10:51.58462Z,egui_xterm_core,0.1.1,0,0,https://github.com/AnlangA/egui_xterm,"Pure-Rust, WASM-safe VT500 terminal emulator engine, grid, reflow, and input abstraction"
+2026-11-21T00:11:37.878151Z,egui_xterm_pty,0.1.1,0,0,https://github.com/AnlangA/egui_xterm,Desktop PTY backend for egui_xterm implementing TerminalInput via portable-pty
+2026-11-21T00:11:59.995815Z,egui_xterm,0.1.1,0,0,https://github.com/AnlangA/egui_xterm,"High-performance, auto-layout terminal widget and runtime for egui"
+2026-11-21T00:12:29.370982Z,eon-numerology,1.0.0,0,0,https://github.com/sjkim1127/Eon,Eon: Pythagorean Numerology Engine
+2026-11-21T00:12:32.268113Z,eon-qimen,1.0.0,0,0,https://github.com/sjkim1127/Eon,Qimen Dunjia Engine for Eon
+2026-11-21T00:12:33.789245Z,kwavers-boundary,3.0.0,0,0,https://github.com/ryancinsight/kwavers,"Boundary conditions for kwavers: CPML/PML absorbing layers, FEM/BEM, multiphysics coupling, periodic boundaries, smoothing"
+2026-11-21T00:12:56.877204Z,bitcoinleveldb-iterator,0.2.0,0,0,https://github.com/klebs6/bitcoin-rs,Owning wrapper for the LevelDB iterator trait interface.
+2026-11-21T00:13:05.469311Z,eon-cli,1.0.0,0,0,https://github.com/sjkim1127/Eon,Eon: High-Performance CLI & AI Agent Interface for the 8-Engine Destiny Platform
+2026-11-21T00:14:42.633572Z,scratchy-vision,0.1.0,0,0,https://github.com/AI-native-Systems-Research/scratchy,"Scratchy vision-tower host glue (rope tables, varlen cu_seqlens, patch flatten, K-pad, trace dump)."
+2026-11-21T00:18:03.387138Z,catchlight-editor-cli,0.1.0,0,0,https://github.com/hyperlogue/catchlight,Thin client for the catchlight editor server: drives an editing session over the Unix socket
+2026-11-21T00:18:04.247719Z,catchlight-editor-server,0.1.0,0,0,https://github.com/hyperlogue/catchlight,"Multi-session editor server for catchlight: a Model per session plus a warm headless renderer, driven in-process or over a Unix socket"
