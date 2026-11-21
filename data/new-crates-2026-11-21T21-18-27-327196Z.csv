@@ -1,0 +1,63 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-21T20:22:33.100618Z,unityrs-mesh,1.0.0,0,0,https://github.com/scobenes/unityrs,"Owned, metered Unity mesh geometry and metadata."
+2026-11-21T20:24:18.346688Z,term-font,0.1.0,0,0,,System font discovery and colour glyph rasterization for rune-term's grid. No Rune and no librio.
+2026-11-21T20:24:22.706841Z,term-control,0.1.0,0,0,,Control protocol types and helpers for rune-term IPC/CLI.
+2026-11-21T20:24:25.552956Z,term-mux,0.1.0,0,0,,"What a terminal multiplexer reports, in cells: tmux control mode."
+2026-11-21T20:24:28.679244Z,term-roam,0.1.0,0,0,,The roaming link between rune-term and rune-term-agent: a byte stream over QUIC.
+2026-11-21T20:24:42.084163Z,digua_authz,1.6.0,0,0,,RBAC authorization primitives and axum middleware for KudiCoder services
+2026-11-21T20:25:51.754109Z,neotales-dbapi-sqlite-direct,0.0.0-alpha.0,0,0,https://github.com/neotales/rs-db,SQLite provider for neotales-dbapi built directly on rusqlite
+2026-11-21T20:26:12.135838Z,term-cell-grid,0.0.1,0,0,https://github.com/lu-zero/rune-term,Placeholder for term-grid (its crates.io name is taken). See https://github.com/lu-zero/rune-term
+2026-11-21T20:26:55.371589Z,zchat-core,0.1.4,0,0,https://github.com/LIghtJUNction/zchat,"Bounded, no_std unified messaging contracts and event journals for zchat"
+2026-11-21T20:27:00.123191Z,zchat-plugin-api,0.1.4,0,0,https://github.com/LIghtJUNction/zchat,Versioned zplugin C ABI for zchat messaging provider plugins
+2026-11-21T20:27:06.86266Z,zchat-providers,0.1.4,0,0,https://github.com/LIghtJUNction/zchat,Native protocol adapters for the zchat unified messaging platform
+2026-11-21T20:27:23.92999Z,zchat,0.1.4,0,0,https://github.com/LIghtJUNction/zchat,"A native, plugin-based messaging workspace with a unified AI interface"
+2026-11-21T20:27:32.455498Z,term-input-rs,0.0.1,0,0,https://github.com/lu-zero/rune-term,Placeholder for term-input (its crates.io name is taken). See https://github.com/lu-zero/rune-term
+2026-11-21T20:32:33.223657Z,unityrs-gltf,1.0.0,0,0,https://github.com/scobenes/unityrs,Metered glTF scene model and deterministic streaming GLB writer.
+2026-11-21T20:34:24.464879Z,adaliszk-prelude-macros,0.1.1,0,0,https://codeberg.org/adaliszk/rust-toolbox,Procedural-macro companion for adaliszk-prelude.
+2026-11-21T20:34:44.001288Z,digua_common_event,1.6.0,0,0,,Transactional outbox and event envelope types for KudiCoder services
+2026-11-21T20:35:53.014791Z,neotales-dbapi-libsql,0.0.0-alpha.0,0,0,https://github.com/neotales/rs-db,Remote libSQL/Turso provider for neotales-dbapi
+2026-11-21T20:40:28.05153Z,term-color-picker,0.0.1,0,0,https://github.com/lu-zero/rune-term,Placeholder for color-picker (its crates.io name is taken). See https://github.com/lu-zero/rune-term
+2026-11-21T20:41:43.047607Z,eggpack-contract,0.1.2,0,0,https://github.com/eggstack/eggpack,Versioned portable distribution contract schema for release tooling
+2026-11-21T20:42:33.904661Z,unityrs-export,1.0.0,0,0,https://github.com/scobenes/unityrs,"Unity asset exports beside the textures: sprites, the NGUI atlas cutter and its crops, and the UnityPy extractor tree."
+2026-11-21T20:42:37.999166Z,eggpack-core,0.1.2,0,0,https://github.com/eggstack/eggpack,"Producer-side planning, qualification, local finalization, and manifest aggregation for Eggpack"
+2026-11-21T20:43:09.236421Z,eggpack-bootstrap,0.1.2,0,0,https://github.com/eggstack/eggpack,Deterministic first-install shell and PowerShell generator
+2026-11-21T20:43:39.284753Z,eggpack-github,0.1.2,0,0,https://github.com/eggstack/eggpack,GitHub draft release staging adapter and local staging payload materializer
+2026-11-21T20:43:51.663986Z,ultrafastmov-mcp,0.1.1,0,0,https://github.com/ultrafastmov/ultrafast,ultrafast as Model Context Protocol tools: the stdio server behind `uf mcp` and the Streamable HTTP server that `uf serve` mounts at /mcp
+2026-11-21T20:44:41.680918Z,digua_common,1.6.0,0,0,,Facade crate re-exporting digua_common-error/digua_common-db/digua_common-crypto for KudiCoder services
+2026-11-21T20:46:04.824428Z,eggpack-ci,0.1.2,0,0,https://github.com/eggstack/eggpack,Provider-neutral release CI planning and deterministic GitHub Actions rendering
+2026-11-21T20:46:39.514018Z,eggpack-cli,0.1.2,0,0,https://github.com/eggstack/eggpack,Deterministic Eggpack CLI for CI generation and release orchestration
+2026-11-21T20:47:58.46427Z,nec2,0.2.0,0,0,https://github.com/CyberDev-space/nec2-rs,NEC-2 antenna modeling engine (method of moments for thin wires)
+2026-11-21T20:48:09.02816Z,nec2-deck,0.2.0,0,0,https://github.com/CyberDev-space/nec2-rs,Reader and interpreter for NEC-2 input decks
+2026-11-21T20:48:13.600709Z,nec2-cli,0.2.0,0,0,https://github.com/CyberDev-space/nec2-rs,Command-line NEC-2 solver that prints nec2c-style reports
+2026-11-21T20:48:30.07203Z,neotales-dbapi-mysql,0.0.0-alpha.0,0,0,https://github.com/neotales/rs-db,MySQL provider for neotales-dbapi
+2026-11-21T20:51:31.852572Z,font-picker,0.0.1,0,0,https://github.com/lu-zero/rune-term,Placeholder for font-picker (blocked on Rune). See https://github.com/lu-zero/rune-term
+2026-11-21T20:52:36.933292Z,unityrs-batch,1.0.0,0,0,https://github.com/scobenes/unityrs,"The batch engine behind `unityrs batch`: the job spec and its validation, views, exit codes and reasons, the memory bound, the exit line and the counting allocator."
+2026-11-21T20:54:14.489582Z,lp-llvm,0.2.0,0,0,,Really terrible and pretty opinionated LLVM bindings.
+2026-11-21T20:54:41.408587Z,digua_audit_sdk,1.6.0,0,0,,Rust client SDK for the KudiCoder audit-service
+2026-11-21T20:55:38.666242Z,weavetab-gate,0.1.0,0,0,https://github.com/Weavetab/gate,"Local-first multimodal zero-shot decision engine (text & image -> choices, yes/no, score) powered by Rust + INT8 ONNX."
+2026-11-21T20:55:53.092355Z,markliers-wasm,0.0.0,0,0,,Placeholder for markliers-wasm (WASM facade) of the markliers Markdown toolkit. Under active development; the first release will replace this version.
+2026-11-21T20:55:56.263241Z,sattleme-checkout,1.0.0,0,0,https://github.com/sattleme/checkout-rust,"Take Lightning and on-chain payments for a sattle.me merchant from an online shop's server: invoices, deposit addresses, registry declarations, payment checks."
+2026-11-21T20:56:06.211502Z,markliers-cli,0.0.0,0,0,,Placeholder for markliers-cli (command-line interface) of the markliers Markdown toolkit. Under active development; the first release will replace this version.
+2026-11-21T20:56:26.538352Z,markliers-lsp,0.0.0,0,0,,Placeholder for markliers-lsp (language server) of the markliers Markdown toolkit. Under active development; the first release will replace this version.
+2026-11-21T20:59:25.39657Z,neotales-dbapi-mariadb,0.0.0-alpha.0,0,0,https://github.com/neotales/rs-db,MariaDB provider for neotales-dbapi
+2026-11-21T21:02:33.029888Z,unityrs-tpk,1.0.0,0,0,https://github.com/scobenes/unityrs,"A TPK (type-tree package) loaded from a path, as a unityrs-core typetree provider."
+2026-11-21T21:02:35.202051Z,rune-term-core,0.0.1,0,0,https://github.com/lu-zero/rune-term,Placeholder for rune-term-core (blocked on Rune and librio). See https://github.com/lu-zero/rune-term
+2026-11-21T21:02:37.151131Z,adaliszk-prelude,0.1.1,0,0,https://codeberg.org/adaliszk/rust-toolbox,"Shared configuration types, YAML config parsing, and an opinionated tracing setup."
+2026-11-21T21:04:39.880122Z,digua_iam_sdk,1.6.0,0,0,,Rust client SDK for the KudiCoder iam-service
+2026-11-21T21:07:06.872221Z,ruscord,0.1.0,0,0,,설명
+2026-11-21T21:08:51.282228Z,lindera-unidic-cwj,7.0.0,0,0,https://github.com/lindera/lindera,A Japanese morphological dictionary for UniDic for contemporary written Japanese (UniDic CWJ).
+2026-11-21T21:09:00.477901Z,govee-toolkit-server,0.0.0,0,0,https://github.com/damient/govee-toolkit,Placeholder. The local server of the govee-toolkit dashboard: control Govee devices from a browser. This version carries no code. Unofficial.
+2026-11-21T21:09:13.819482Z,lindera-unidic-csj,7.0.0,0,0,https://github.com/lindera/lindera,A Japanese morphological dictionary for UniDic for contemporary spoken Japanese (UniDic CSJ).
+2026-11-21T21:10:11.250074Z,lindera-segmenter,7.0.0,0,0,https://github.com/lindera/lindera,Morphological segmenter and dictionary loading API for Lindera.
+2026-11-21T21:10:18.375724Z,neotales-dbapi-mssql,0.0.0-alpha.0,0,0,https://github.com/neotales/rs-db,SQL Server provider for neotales-dbapi
+2026-11-21T21:11:27.604892Z,lindera-binding,7.0.0,0,0,https://github.com/lindera/lindera,Shared FFI-independent helpers for the Lindera language bindings.
+2026-11-21T21:12:33.205397Z,unityrs,1.0.0,0,0,https://github.com/scobenes/unityrs,"Fast Unity asset extraction, compatible with UnityPy: bundles, serialized files, typetrees, textures, meshes, audio, animation and glTF export."
+2026-11-21T21:13:38.445402Z,rune-term,0.0.1,0,0,https://github.com/lu-zero/rune-term,Placeholder for rune-term (the app; blocked on Rune and librio). See https://github.com/lu-zero/rune-term
+2026-11-21T21:14:13.568191Z,gabion-web,0.1.1,0,0,https://github.com/d-buckner/gabion,Browser capability impls for wasm hosts: the WebSocket stream transport. Host-side only — never imported by *-core.
+2026-11-21T21:14:42.310506Z,digua_notification_sdk,1.6.0,0,0,,Rust client SDK for the KudiCoder notification-service
+2026-11-21T21:14:55.57968Z,haqor-review,0.9.23,0,0,https://github.com/machshev/haqor-core,Resumable word and verse review for Haqor
+2026-11-21T21:15:15.903293Z,rustaco-core,0.1.0,0,0,https://github.com/theObjectCo/rustaco,"Text model for the Rustaco editor: rope buffer, multi-cursor selections, change sets, undo history"
+2026-11-21T21:15:25.39592Z,rustaco-view,0.1.0,0,0,https://github.com/theObjectCo/rustaco,"Renderer-agnostic layout for the Rustaco editor: viewport, visual columns, hit testing, display list"
+2026-11-21T21:15:40.337299Z,rustaco-syntax,0.1.0,0,0,https://github.com/theObjectCo/rustaco,Syntax highlighting for the Rustaco editor: incremental tree-sitter parsing and themes
+2026-11-21T21:15:46.548609Z,rustaco-lsp,0.1.0,0,0,https://github.com/theObjectCo/rustaco,"Language Server Protocol client for the Rustaco editor: JSON-RPC over any byte stream, document sync from edit events, requests mapped to char offsets"
+2026-11-21T21:16:02.003466Z,rustaco-desktop,0.1.0,0,0,https://github.com/theObjectCo/rustaco,"Native frontend for the Rustaco editor: winit window, software rendering of the view's frames, system fonts, clipboard and IME"

@@ -8,51 +8,76 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-21 20:18 UTC
+## Latest list — 2026-11-21 21:18 UTC
 
-New crates published between 2026-11-21 19:19 UTC and 2026-11-21 20:18 UTC.
+New crates published between 2026-11-21 20:18 UTC and 2026-11-21 21:18 UTC.
 
-[Full CSV](data/new-crates-2026-11-21T20-18-41-912544Z.csv)
+[Full CSV](data/new-crates-2026-11-21T21-18-27-327196Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-21 19:24:41 | [digua_common_validator](https://crates.io/crates/digua_common_validator) | 1.6.0 | 0 | Validation rules (Chinese phone, strong password) for KudiCoder services |
-| 2026-11-21 19:26:05 | [ultrafast-shaderc](https://crates.io/crates/ultrafast-shaderc) | 0.1.0 | 0 | Runtime Slang compiler for ultrafast (Slang -> MSL / SPIR-V), with a disk cache |
-| 2026-11-21 19:27:24 | [open_table_crisis_game](https://crates.io/crates/open_table_crisis_game) | 1.1.0 | 0 | Juego de referencia del OpenTable SDK: Crisis. |
-| 2026-11-21 19:29:55 | [slint-webos](https://crates.io/crates/slint-webos) | 0.1.0 | 0 | Native Slint platform for LG webOS TV using SDL-webOS and OpenGL ES |
-| 2026-11-21 19:32:01 | [unityrs-compress-sys](https://crates.io/crates/unityrs-compress-sys) | 1.0.0 | 0 | Safe fallible bridges for Unity bundle compression over pinned LZ4HC and liblzm… |
-| 2026-11-21 19:32:02 | [unityrs-imageio](https://crates.io/crates/unityrs-imageio) | 1.0.0 | 0 | Default image writers and lossy WebP byte-identical to Pillow 9.5.0's, metered… |
-| 2026-11-21 19:32:02 | [unityrs-pysum](https://crates.io/crates/unityrs-pysum) | 1.0.0 | 0 | CPython 3.12+'s compensated float sum, bit for bit, for the humanoid body model. |
-| 2026-11-21 19:32:03 | [unityrs-core](https://crates.io/crates/unityrs-core) | 1.0.0 | 0 | Read and write Unity asset bundles, serialized files and typetrees. |
-| 2026-11-21 19:32:05 | [unityrs-audio](https://crates.io/crates/unityrs-audio) | 1.0.0 | 0 | AudioClip dispatch, FSB5 parsing and PCM/ADPCM/Vorbis WAV export. |
-| 2026-11-21 19:34:41 | [digua_common_config](https://crates.io/crates/digua_common_config) | 1.6.0 | 0 | Configuration loading from env and files for KudiCoder services |
-| 2026-11-21 19:37:40 | [ultrafast-render](https://crates.io/crates/ultrafast-render) | 0.1.0 | 0 | ultrafast graph compiler, kernel fusion and frame executor |
-| 2026-11-21 19:37:55 | [open_table_goose_game](https://crates.io/crates/open_table_goose_game) | 1.1.0 | 0 | Canonical 63-square Game of the Goose (El Juego de la Oca) engine for OpenTable… |
-| 2026-11-21 19:42:33 | [unityrs-scene](https://crates.io/crates/unityrs-scene) | 1.0.0 | 0 | Metered Unity GameObject and Transform graphs and component accessors. |
-| 2026-11-21 19:44:39 | [digua_common_http](https://crates.io/crates/digua_common_http) | 1.6.0 | 0 | Resilient reqwest HTTP client wrapper with request ID propagation for KudiCoder… |
-| 2026-11-21 19:45:40 | [neotales-klickhouse](https://crates.io/crates/neotales-klickhouse) | 0.0.0-alpha.0 | 0 | Fork of klickhouse 0.16.0 used as the native ClickHouse transport for neotales-… |
-| 2026-11-21 19:46:10 | [neotales-libsql](https://crates.io/crates/neotales-libsql) | 0.0.0-alpha.0 | 0 | Remote-only libSQL transport fork used by neotales-dbapi-libsql |
-| 2026-11-21 19:46:20 | [neotales-tokio-postgres](https://crates.io/crates/neotales-tokio-postgres) | 0.0.0-alpha.0 | 0 | A native, asynchronous PostgreSQL client |
-| 2026-11-21 19:46:25 | [neotales-dbapi](https://crates.io/crates/neotales-dbapi) | 0.0.0-alpha.0 | 0 | Driver-neutral SQL execution with asynchronous and synchronous row access |
-| 2026-11-21 19:46:29 | [neotales-migration](https://crates.io/crates/neotales-migration) | 0.0.0-alpha.0 | 0 | Driver-free validated SQL migration planning and orchestration |
-| 2026-11-21 19:49:12 | [ultrafast-live](https://crates.io/crates/ultrafast-live) | 0.1.0 | 0 | Live ultrafast sessions: realtime preview window and a JSON-lines edit server f… |
-| 2026-11-21 19:50:08 | [open_table_relay](https://crates.io/crates/open_table_relay) | 1.1.0 | 0 | Servidor de salas y retransmisión WebSocket standalone para OpenTable SDK. |
-| 2026-11-21 19:52:33 | [unityrs-anim](https://crates.io/crates/unityrs-anim) | 1.0.0 | 0 | Metered Unity animation discovery, binding and sampling. |
-| 2026-11-21 19:53:51 | [zarmount](https://crates.io/crates/zarmount) | 0.16.0 | 0 | Read-only FUSE filesystem for ZAR archives |
-| 2026-11-21 19:54:41 | [digua_common_log](https://crates.io/crates/digua_common_log) | 1.6.0 | 0 | Structured JSON logging with request_id middleware for KudiCoder services |
-| 2026-11-21 19:58:12 | [neotales-sqlx-mssql](https://crates.io/crates/neotales-sqlx-mssql) | 0.0.0-alpha.0 | 0 | Core MSSQL driver for SQLx built on Microsoft's mssql-tds TDS implementation. |
-| 2026-11-21 20:00:22 | [ultrafast-recon](https://crates.io/crates/ultrafast-recon) | 0.1.0 | 0 | Reconstruction tooling: probe reference videos, compare renders, fit parameters |
-| 2026-11-21 20:02:35 | [unityrs-meshdecode](https://crates.io/crates/unityrs-meshdecode) | 1.0.0 | 0 | UnityPy 1.25.2's MeshHandler vertex-data unpack, index formats and get_triangle… |
-| 2026-11-21 20:04:39 | [digua_common_telemetry_axum](https://crates.io/crates/digua_common_telemetry_axum) | 1.6.0 | 0 | Axum middleware for OpenTelemetry tracing in KudiCoder services |
-| 2026-11-21 20:05:52 | [neotales-dbapi-d1](https://crates.io/crates/neotales-dbapi-d1) | 0.0.0-alpha.0 | 0 | Experimental uncertain writes and requery paging over Cloudflare D1; DBAPI oper… |
-| 2026-11-21 20:09:33 | [marketfeed](https://crates.io/crates/marketfeed) | 0.2.0 | 0 | Typed Rust client library and CLI for financial market and currency data sources |
-| 2026-11-21 20:11:50 | [ultrafast-service](https://crates.io/crates/ultrafast-service) | 0.1.0 | 0 | ultrafast's render service: the v1 HTTP API behind `ultrafast serve` on one mac… |
-| 2026-11-21 20:11:57 | [gaga](https://crates.io/crates/gaga) | 0.1.0 | 0 | git shortcuts for the shell, with numbered files |
-| 2026-11-21 20:12:34 | [unityrs-texture](https://crates.io/crates/unityrs-texture) | 1.0.0 | 0 | Texture2D decoders with UnityPy 1.25.2's output: the formats it decodes with Pi… |
-| 2026-11-21 20:14:40 | [digua_common_db](https://crates.io/crates/digua_common_db) | 1.6.0 | 0 | Multi-dialect sqlx wrapper (MySQL/SQLite/Dameng/MSSQL) with test fixtures for K… |
-| 2026-11-21 20:15:51 | [neotales-dbapi-sqlite](https://crates.io/crates/neotales-dbapi-sqlite) | 0.0.0-alpha.0 | 0 | SQLite provider for neotales-dbapi |
-| 2026-11-21 20:16:10 | [graphlink-store-bridge](https://crates.io/crates/graphlink-store-bridge) | 0.1.5 | 0 | graphlink-store-bridge: a read-only window of a store made with the `graphlink`… |
-| 2026-11-21 20:17:11 | [codync-agent](https://crates.io/crates/codync-agent) | 0.1.0 | 0 | Coding agents on one computer: find, install and start each, drive it over ACP,… |
+| 2026-11-21 20:22:33 | [unityrs-mesh](https://crates.io/crates/unityrs-mesh) | 1.0.0 | 0 | Owned, metered Unity mesh geometry and metadata. |
+| 2026-11-21 20:24:18 | [term-font](https://crates.io/crates/term-font) | 0.1.0 | 0 | System font discovery and colour glyph rasterization for rune-term's grid. No R… |
+| 2026-11-21 20:24:22 | [term-control](https://crates.io/crates/term-control) | 0.1.0 | 0 | Control protocol types and helpers for rune-term IPC/CLI. |
+| 2026-11-21 20:24:25 | [term-mux](https://crates.io/crates/term-mux) | 0.1.0 | 0 | What a terminal multiplexer reports, in cells: tmux control mode. |
+| 2026-11-21 20:24:28 | [term-roam](https://crates.io/crates/term-roam) | 0.1.0 | 0 | The roaming link between rune-term and rune-term-agent: a byte stream over QUIC. |
+| 2026-11-21 20:24:42 | [digua_authz](https://crates.io/crates/digua_authz) | 1.6.0 | 0 | RBAC authorization primitives and axum middleware for KudiCoder services |
+| 2026-11-21 20:25:51 | [neotales-dbapi-sqlite-direct](https://crates.io/crates/neotales-dbapi-sqlite-direct) | 0.0.0-alpha.0 | 0 | SQLite provider for neotales-dbapi built directly on rusqlite |
+| 2026-11-21 20:26:12 | [term-cell-grid](https://crates.io/crates/term-cell-grid) | 0.0.1 | 0 | Placeholder for term-grid (its crates.io name is taken). See https://github.com… |
+| 2026-11-21 20:26:55 | [zchat-core](https://crates.io/crates/zchat-core) | 0.1.4 | 0 | Bounded, no_std unified messaging contracts and event journals for zchat |
+| 2026-11-21 20:27:00 | [zchat-plugin-api](https://crates.io/crates/zchat-plugin-api) | 0.1.4 | 0 | Versioned zplugin C ABI for zchat messaging provider plugins |
+| 2026-11-21 20:27:06 | [zchat-providers](https://crates.io/crates/zchat-providers) | 0.1.4 | 0 | Native protocol adapters for the zchat unified messaging platform |
+| 2026-11-21 20:27:23 | [zchat](https://crates.io/crates/zchat) | 0.1.4 | 0 | A native, plugin-based messaging workspace with a unified AI interface |
+| 2026-11-21 20:27:32 | [term-input-rs](https://crates.io/crates/term-input-rs) | 0.0.1 | 0 | Placeholder for term-input (its crates.io name is taken). See https://github.co… |
+| 2026-11-21 20:32:33 | [unityrs-gltf](https://crates.io/crates/unityrs-gltf) | 1.0.0 | 0 | Metered glTF scene model and deterministic streaming GLB writer. |
+| 2026-11-21 20:34:24 | [adaliszk-prelude-macros](https://crates.io/crates/adaliszk-prelude-macros) | 0.1.1 | 0 | Procedural-macro companion for adaliszk-prelude. |
+| 2026-11-21 20:34:44 | [digua_common_event](https://crates.io/crates/digua_common_event) | 1.6.0 | 0 | Transactional outbox and event envelope types for KudiCoder services |
+| 2026-11-21 20:35:53 | [neotales-dbapi-libsql](https://crates.io/crates/neotales-dbapi-libsql) | 0.0.0-alpha.0 | 0 | Remote libSQL/Turso provider for neotales-dbapi |
+| 2026-11-21 20:40:28 | [term-color-picker](https://crates.io/crates/term-color-picker) | 0.0.1 | 0 | Placeholder for color-picker (its crates.io name is taken). See https://github.… |
+| 2026-11-21 20:41:43 | [eggpack-contract](https://crates.io/crates/eggpack-contract) | 0.1.2 | 0 | Versioned portable distribution contract schema for release tooling |
+| 2026-11-21 20:42:33 | [unityrs-export](https://crates.io/crates/unityrs-export) | 1.0.0 | 0 | Unity asset exports beside the textures: sprites, the NGUI atlas cutter and its… |
+| 2026-11-21 20:42:37 | [eggpack-core](https://crates.io/crates/eggpack-core) | 0.1.2 | 0 | Producer-side planning, qualification, local finalization, and manifest aggrega… |
+| 2026-11-21 20:43:09 | [eggpack-bootstrap](https://crates.io/crates/eggpack-bootstrap) | 0.1.2 | 0 | Deterministic first-install shell and PowerShell generator |
+| 2026-11-21 20:43:39 | [eggpack-github](https://crates.io/crates/eggpack-github) | 0.1.2 | 0 | GitHub draft release staging adapter and local staging payload materializer |
+| 2026-11-21 20:43:51 | [ultrafastmov-mcp](https://crates.io/crates/ultrafastmov-mcp) | 0.1.1 | 0 | ultrafast as Model Context Protocol tools: the stdio server behind `uf mcp` and… |
+| 2026-11-21 20:44:41 | [digua_common](https://crates.io/crates/digua_common) | 1.6.0 | 0 | Facade crate re-exporting digua_common-error/digua_common-db/digua_common-crypt… |
+| 2026-11-21 20:46:04 | [eggpack-ci](https://crates.io/crates/eggpack-ci) | 0.1.2 | 0 | Provider-neutral release CI planning and deterministic GitHub Actions rendering |
+| 2026-11-21 20:46:39 | [eggpack-cli](https://crates.io/crates/eggpack-cli) | 0.1.2 | 0 | Deterministic Eggpack CLI for CI generation and release orchestration |
+| 2026-11-21 20:47:58 | [nec2](https://crates.io/crates/nec2) | 0.2.0 | 0 | NEC-2 antenna modeling engine (method of moments for thin wires) |
+| 2026-11-21 20:48:09 | [nec2-deck](https://crates.io/crates/nec2-deck) | 0.2.0 | 0 | Reader and interpreter for NEC-2 input decks |
+| 2026-11-21 20:48:13 | [nec2-cli](https://crates.io/crates/nec2-cli) | 0.2.0 | 0 | Command-line NEC-2 solver that prints nec2c-style reports |
+| 2026-11-21 20:48:30 | [neotales-dbapi-mysql](https://crates.io/crates/neotales-dbapi-mysql) | 0.0.0-alpha.0 | 0 | MySQL provider for neotales-dbapi |
+| 2026-11-21 20:51:31 | [font-picker](https://crates.io/crates/font-picker) | 0.0.1 | 0 | Placeholder for font-picker (blocked on Rune). See https://github.com/lu-zero/r… |
+| 2026-11-21 20:52:36 | [unityrs-batch](https://crates.io/crates/unityrs-batch) | 1.0.0 | 0 | The batch engine behind `unityrs batch`: the job spec and its validation, views… |
+| 2026-11-21 20:54:14 | [lp-llvm](https://crates.io/crates/lp-llvm) | 0.2.0 | 0 | Really terrible and pretty opinionated LLVM bindings. |
+| 2026-11-21 20:54:41 | [digua_audit_sdk](https://crates.io/crates/digua_audit_sdk) | 1.6.0 | 0 | Rust client SDK for the KudiCoder audit-service |
+| 2026-11-21 20:55:38 | [weavetab-gate](https://crates.io/crates/weavetab-gate) | 0.1.0 | 0 | Local-first multimodal zero-shot decision engine (text & image -> choices, yes/… |
+| 2026-11-21 20:55:53 | [markliers-wasm](https://crates.io/crates/markliers-wasm) | 0.0.0 | 0 | Placeholder for markliers-wasm (WASM facade) of the markliers Markdown toolkit.… |
+| 2026-11-21 20:55:56 | [sattleme-checkout](https://crates.io/crates/sattleme-checkout) | 1.0.0 | 0 | Take Lightning and on-chain payments for a sattle.me merchant from an online sh… |
+| 2026-11-21 20:56:06 | [markliers-cli](https://crates.io/crates/markliers-cli) | 0.0.0 | 0 | Placeholder for markliers-cli (command-line interface) of the markliers Markdow… |
+| 2026-11-21 20:56:26 | [markliers-lsp](https://crates.io/crates/markliers-lsp) | 0.0.0 | 0 | Placeholder for markliers-lsp (language server) of the markliers Markdown toolk… |
+| 2026-11-21 20:59:25 | [neotales-dbapi-mariadb](https://crates.io/crates/neotales-dbapi-mariadb) | 0.0.0-alpha.0 | 0 | MariaDB provider for neotales-dbapi |
+| 2026-11-21 21:02:33 | [unityrs-tpk](https://crates.io/crates/unityrs-tpk) | 1.0.0 | 0 | A TPK (type-tree package) loaded from a path, as a unityrs-core typetree provid… |
+| 2026-11-21 21:02:35 | [rune-term-core](https://crates.io/crates/rune-term-core) | 0.0.1 | 0 | Placeholder for rune-term-core (blocked on Rune and librio). See https://github… |
+| 2026-11-21 21:02:37 | [adaliszk-prelude](https://crates.io/crates/adaliszk-prelude) | 0.1.1 | 0 | Shared configuration types, YAML config parsing, and an opinionated tracing set… |
+| 2026-11-21 21:04:39 | [digua_iam_sdk](https://crates.io/crates/digua_iam_sdk) | 1.6.0 | 0 | Rust client SDK for the KudiCoder iam-service |
+| 2026-11-21 21:07:06 | [ruscord](https://crates.io/crates/ruscord) | 0.1.0 | 0 | 설명 |
+| 2026-11-21 21:08:51 | [lindera-unidic-cwj](https://crates.io/crates/lindera-unidic-cwj) | 7.0.0 | 0 | A Japanese morphological dictionary for UniDic for contemporary written Japanes… |
+| 2026-11-21 21:09:00 | [govee-toolkit-server](https://crates.io/crates/govee-toolkit-server) | 0.0.0 | 0 | Placeholder. The local server of the govee-toolkit dashboard: control Govee dev… |
+| 2026-11-21 21:09:13 | [lindera-unidic-csj](https://crates.io/crates/lindera-unidic-csj) | 7.0.0 | 0 | A Japanese morphological dictionary for UniDic for contemporary spoken Japanese… |
+| 2026-11-21 21:10:11 | [lindera-segmenter](https://crates.io/crates/lindera-segmenter) | 7.0.0 | 0 | Morphological segmenter and dictionary loading API for Lindera. |
+| 2026-11-21 21:10:18 | [neotales-dbapi-mssql](https://crates.io/crates/neotales-dbapi-mssql) | 0.0.0-alpha.0 | 0 | SQL Server provider for neotales-dbapi |
+| 2026-11-21 21:11:27 | [lindera-binding](https://crates.io/crates/lindera-binding) | 7.0.0 | 0 | Shared FFI-independent helpers for the Lindera language bindings. |
+| 2026-11-21 21:12:33 | [unityrs](https://crates.io/crates/unityrs) | 1.0.0 | 0 | Fast Unity asset extraction, compatible with UnityPy: bundles, serialized files… |
+| 2026-11-21 21:13:38 | [rune-term](https://crates.io/crates/rune-term) | 0.0.1 | 0 | Placeholder for rune-term (the app; blocked on Rune and librio). See https://gi… |
+| 2026-11-21 21:14:13 | [gabion-web](https://crates.io/crates/gabion-web) | 0.1.1 | 0 | Browser capability impls for wasm hosts: the WebSocket stream transport. Host-s… |
+| 2026-11-21 21:14:42 | [digua_notification_sdk](https://crates.io/crates/digua_notification_sdk) | 1.6.0 | 0 | Rust client SDK for the KudiCoder notification-service |
+| 2026-11-21 21:14:55 | [haqor-review](https://crates.io/crates/haqor-review) | 0.9.23 | 0 | Resumable word and verse review for Haqor |
+| 2026-11-21 21:15:15 | [rustaco-core](https://crates.io/crates/rustaco-core) | 0.1.0 | 0 | Text model for the Rustaco editor: rope buffer, multi-cursor selections, change… |
+| 2026-11-21 21:15:25 | [rustaco-view](https://crates.io/crates/rustaco-view) | 0.1.0 | 0 | Renderer-agnostic layout for the Rustaco editor: viewport, visual columns, hit… |
+| 2026-11-21 21:15:40 | [rustaco-syntax](https://crates.io/crates/rustaco-syntax) | 0.1.0 | 0 | Syntax highlighting for the Rustaco editor: incremental tree-sitter parsing and… |
+| 2026-11-21 21:15:46 | [rustaco-lsp](https://crates.io/crates/rustaco-lsp) | 0.1.0 | 0 | Language Server Protocol client for the Rustaco editor: JSON-RPC over any byte… |
+| 2026-11-21 21:16:02 | [rustaco-desktop](https://crates.io/crates/rustaco-desktop) | 0.1.0 | 0 | Native frontend for the Rustaco editor: winit window, software rendering of the… |
 
 ## Data source
 
