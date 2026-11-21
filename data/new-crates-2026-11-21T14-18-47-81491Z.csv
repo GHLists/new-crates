@@ -1,0 +1,24 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-21T13:22:52.259178Z,custody-machines,0.1.0,0,0,https://github.com/seuros/custody_machines,"Decides where a vault key lives, so the only copy is never one that dies on reboot"
+2026-11-21T13:27:12.888204Z,meeng-sdk,0.1.0,0,0,https://github.com/meeng-dev/sdk,"Meeng.dev's SDK for Rust: emails, domains, contacts, contact books, campaigns, analytics and webhooks."
+2026-11-21T13:27:43.701528Z,vtcode-computer-use,0.185.0,0,0,https://github.com/vinhnx/vtcode,Turn-local computer-use actions and driver lifecycle for VT Code
+2026-11-21T13:31:52.02477Z,rsargv,1.1.0,0,0,https://github.com/Mukumbaa/rsargv,"Zero-dependency command-line argument parser with direct variable binding, environment variable resolution, and validation rules."
+2026-11-21T13:32:38.967221Z,cruma-tron-runner,0.1.0,0,0,https://github.com/umbra-yurei/tron-runner-sdk,"Connect a worker to Tron, receive scheduled jobs over the runner protocol, and report their results."
+2026-11-21T13:33:18.033359Z,rusterisk-cli,0.1.0,0,0,https://github.com/P4suta/Rusterisk,"Inspect call routing, diagnose media, and verify test calls on a running Rusterisk server"
+2026-11-21T13:33:24.648762Z,cosmosearch-core,0.1.0,0,0,https://github.com/cosmobuild/cosmosearch,Shared types and plug-in contracts for cosmosearch.
+2026-11-21T13:33:26.562995Z,cosmosearch-cache,0.1.0,0,0,https://github.com/cosmobuild/cosmosearch,Memory and disk caches for cosmosearch.
+2026-11-21T13:33:27.399786Z,cosmosearch-chunk,0.1.0,0,0,https://github.com/cosmobuild/cosmosearch,Runs cosmosearch extractors safely and turns their output into chunks.
+2026-11-21T13:33:28.316114Z,cosmosearch-embed-local,0.1.0,0,0,https://github.com/cosmobuild/cosmosearch,"Local CPU embeddings for cosmosearch, using candle."
+2026-11-21T13:33:28.80809Z,cosmosearch-extract-csv,0.1.0,0,0,https://github.com/cosmobuild/cosmosearch,CSV extractor for cosmosearch.
+2026-11-21T13:40:52.949278Z,cargo-cache-ng,0.1.0,0,0,https://github.com/jorgeandrecastro/cargo-cache-ng,"Manage the Cargo cache ($CARGO_HOME or ~/.cargo/), show sizes, and remove directories selectively"
+2026-11-21T13:43:58.131587Z,cosmosearch-extract-docx,0.1.0,0,0,https://github.com/cosmobuild/cosmosearch,Word (.docx) extractor for cosmosearch.
+2026-11-21T13:48:39.94024Z,simdvte,0.15.1,0,0,,SIMD-accelerated parser for implementing terminal emulators
+2026-11-21T13:54:11.690602Z,cosmosearch-extract-html,0.1.0,0,0,https://github.com/cosmobuild/cosmosearch,HTML extractor for cosmosearch.
+2026-11-21T13:57:30.962489Z,linden,0.0.0,0,0,,"An answer-set solver in Rust, under development. This release holds the name and has no functionality yet."
+2026-11-21T14:04:22.535549Z,cosmosearch-extract-json,0.1.0,0,0,https://github.com/cosmobuild/cosmosearch,JSON extractor for cosmosearch.
+2026-11-21T14:04:45.460782Z,yupp,0.1.1,0,0,https://github.com/daffa2555/yupppp,"0-LLM Rust CLI that catches AI test theater, silent slop, and PR blast radius in milliseconds"
+2026-11-21T14:05:23.423249Z,egui-pop-inspection-tools,0.1.0,0,0,https://github.com/quazardous/egui-pop-inspection-tools,"Agent tools that drive a live egui app over the egui_inspection protocol: a temporary, unchanged fork of Rerun's egui_inspection_tools, until upstream publishes it"
+2026-11-21T14:09:54.872627Z,cim-kit,0.4.0,0,0,https://github.com/hupe1980/cim-kit,"IEC CIM/CGMES for power systems: CIM/XML I/O that reproduces the file set, profile-aware validation, typed RDF export"
+2026-11-21T14:10:52.838452Z,corvid-async,0.4.3,0,0,https://github.com/DosangGu/corvid,Shared async runtime and synchronization for Corvid
+2026-11-21T14:14:37.363981Z,cosmosearch-extract-pdf,0.1.0,0,0,https://github.com/cosmobuild/cosmosearch,PDF extractor for cosmosearch.
+2026-11-21T14:17:52.729967Z,opensourceheadlesscms,0.1.0,0,0,https://github.com/CarterCole/opensourceheadlesscms,"A headless CMS server in Rust: REST + GraphQL APIs, SQLite/PostgreSQL storage, RBAC, flat-file content, and a React admin UI."
