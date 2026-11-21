@@ -1,0 +1,38 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-21T19:24:41.01546Z,digua_common_validator,1.6.0,0,0,,"Validation rules (Chinese phone, strong password) for KudiCoder services"
+2026-11-21T19:26:05.619596Z,ultrafast-shaderc,0.1.0,0,0,https://github.com/ultrafastmov/ultrafast,"Runtime Slang compiler for ultrafast (Slang -> MSL / SPIR-V), with a disk cache"
+2026-11-21T19:27:24.637413Z,open_table_crisis_game,1.1.0,0,0,https://github.com/joduranvillan/games_tables_sdk,Juego de referencia del OpenTable SDK: Crisis.
+2026-11-21T19:29:55.971987Z,slint-webos,0.1.0,0,0,https://github.com/sundermann/slint-webos,Native Slint platform for LG webOS TV using SDL-webOS and OpenGL ES
+2026-11-21T19:32:01.609935Z,unityrs-compress-sys,1.0.0,0,0,https://github.com/scobenes/unityrs,Safe fallible bridges for Unity bundle compression over pinned LZ4HC and liblzma.
+2026-11-21T19:32:02.193411Z,unityrs-imageio,1.0.0,0,0,https://github.com/scobenes/unityrs,"Default image writers and lossy WebP byte-identical to Pillow 9.5.0's, metered PNG over zlib 1.2.13, and the visible-pixel hash."
+2026-11-21T19:32:02.662298Z,unityrs-pysum,1.0.0,0,0,https://github.com/scobenes/unityrs,"CPython 3.12+'s compensated float sum, bit for bit, for the humanoid body model."
+2026-11-21T19:32:03.888375Z,unityrs-core,1.0.0,0,0,https://github.com/scobenes/unityrs,"Read and write Unity asset bundles, serialized files and typetrees."
+2026-11-21T19:32:05.826889Z,unityrs-audio,1.0.0,0,0,https://github.com/scobenes/unityrs,"AudioClip dispatch, FSB5 parsing and PCM/ADPCM/Vorbis WAV export."
+2026-11-21T19:34:41.526661Z,digua_common_config,1.6.0,0,0,,Configuration loading from env and files for KudiCoder services
+2026-11-21T19:37:40.728565Z,ultrafast-render,0.1.0,0,0,https://github.com/ultrafastmov/ultrafast,"ultrafast graph compiler, kernel fusion and frame executor"
+2026-11-21T19:37:55.151191Z,open_table_goose_game,1.1.0,0,0,https://github.com/joduranvillan/games_tables_sdk,Canonical 63-square Game of the Goose (El Juego de la Oca) engine for OpenTable SDK.
+2026-11-21T19:42:33.79246Z,unityrs-scene,1.0.0,0,0,https://github.com/scobenes/unityrs,Metered Unity GameObject and Transform graphs and component accessors.
+2026-11-21T19:44:39.417933Z,digua_common_http,1.6.0,0,0,,Resilient reqwest HTTP client wrapper with request ID propagation for KudiCoder services
+2026-11-21T19:45:40.494512Z,neotales-klickhouse,0.0.0-alpha.0,0,0,https://github.com/neotales/rs-db,Fork of klickhouse 0.16.0 used as the native ClickHouse transport for neotales-dbapi-clickhouse
+2026-11-21T19:46:10.565511Z,neotales-libsql,0.0.0-alpha.0,0,0,https://github.com/neotales/rs-db,Remote-only libSQL transport fork used by neotales-dbapi-libsql
+2026-11-21T19:46:20.901718Z,neotales-tokio-postgres,0.0.0-alpha.0,0,0,https://github.com/neotales/rs-db,"A native, asynchronous PostgreSQL client"
+2026-11-21T19:46:25.372922Z,neotales-dbapi,0.0.0-alpha.0,0,0,https://github.com/neotales/rs-db,Driver-neutral SQL execution with asynchronous and synchronous row access
+2026-11-21T19:46:29.976075Z,neotales-migration,0.0.0-alpha.0,0,0,https://github.com/neotales/rs-db,Driver-free validated SQL migration planning and orchestration
+2026-11-21T19:49:12.37294Z,ultrafast-live,0.1.0,0,0,https://github.com/ultrafastmov/ultrafast,Live ultrafast sessions: realtime preview window and a JSON-lines edit server for agents
+2026-11-21T19:50:08.19892Z,open_table_relay,1.1.0,0,0,https://github.com/joduranvillan/games_tables_sdk,Servidor de salas y retransmisión WebSocket standalone para OpenTable SDK.
+2026-11-21T19:52:33.441417Z,unityrs-anim,1.0.0,0,0,https://github.com/scobenes/unityrs,"Metered Unity animation discovery, binding and sampling."
+2026-11-21T19:53:51.357145Z,zarmount,0.16.0,0,0,https://github.com/brmmm3/zar-rs,Read-only FUSE filesystem for ZAR archives
+2026-11-21T19:54:41.776919Z,digua_common_log,1.6.0,0,0,,Structured JSON logging with request_id middleware for KudiCoder services
+2026-11-21T19:58:12.519706Z,neotales-sqlx-mssql,0.0.0-alpha.0,0,0,https://github.com/neotales/rs-db,Core MSSQL driver for SQLx built on Microsoft's mssql-tds TDS implementation.
+2026-11-21T20:00:22.446562Z,ultrafast-recon,0.1.0,0,0,https://github.com/ultrafastmov/ultrafast,"Reconstruction tooling: probe reference videos, compare renders, fit parameters"
+2026-11-21T20:02:35.294573Z,unityrs-meshdecode,1.0.0,0,0,https://github.com/scobenes/unityrs,"UnityPy 1.25.2's MeshHandler vertex-data unpack, index formats and get_triangles, for meshes and sprites."
+2026-11-21T20:04:39.497099Z,digua_common_telemetry_axum,1.6.0,0,0,,Axum middleware for OpenTelemetry tracing in KudiCoder services
+2026-11-21T20:05:52.125658Z,neotales-dbapi-d1,0.0.0-alpha.0,0,0,https://github.com/neotales/rs-db,Experimental uncertain writes and requery paging over Cloudflare D1; DBAPI operations fail closed
+2026-11-21T20:09:33.081911Z,marketfeed,0.2.0,0,0,https://github.com/drmartinwimmer/marketfeed,Typed Rust client library and CLI for financial market and currency data sources
+2026-11-21T20:11:50.0065Z,ultrafast-service,0.1.0,0,0,https://github.com/ultrafastmov/ultrafast,"ultrafast's render service: the v1 HTTP API behind `ultrafast serve` on one machine (render, frame, sheet, check, review, estimate and uploads; one API key; local storage)"
+2026-11-21T20:11:57.422943Z,gaga,0.1.0,0,0,https://github.com/Canop/gaga,"git shortcuts for the shell, with numbered files"
+2026-11-21T20:12:34.504545Z,unityrs-texture,1.0.0,0,0,https://github.com/scobenes/unityrs,"Texture2D decoders with UnityPy 1.25.2's output: the formats it decodes with Pillow's raw and bcn decoders, the ETC and EAC formats, and the ASTC LDR formats."
+2026-11-21T20:14:40.6268Z,digua_common_db,1.6.0,0,0,,Multi-dialect sqlx wrapper (MySQL/SQLite/Dameng/MSSQL) with test fixtures for KudiCoder services
+2026-11-21T20:15:51.948337Z,neotales-dbapi-sqlite,0.0.0-alpha.0,0,0,https://github.com/neotales/rs-db,SQLite provider for neotales-dbapi
+2026-11-21T20:16:10.078693Z,graphlink-store-bridge,0.1.5,0,0,https://github.com/chedim/graphlink,"graphlink-store-bridge: a read-only window of a store made with the `graphlink` crate (Rylan12's in-memory typed store, NOT this project) onto a GraphLink seat, joined over shared memory"
+2026-11-21T20:17:11.748914Z,codync-agent,0.1.0,0,0,https://github.com/leepokai/Codync,"Coding agents on one computer: find, install and start each, drive it over ACP, and give it more than one login"
