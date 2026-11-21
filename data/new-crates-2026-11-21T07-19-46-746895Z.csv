@@ -1,0 +1,23 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-21T06:20:25.860876Z,rotameter-tui,0.1.0-alpha.1,0,0,https://github.com/colinwolff/rotameter,Namespace reservation placeholder for `rotameter-tui`; superseded by the first real release.
+2026-11-21T06:21:43.132434Z,ezthumb,4.0.0,0,0,https://github.com/aaron-c-s-ramos/ezthumb,Video thumbnail contact-sheet generator with CLI and eframe/egui GUI powered by FFmpeg
+2026-11-21T06:22:56.63914Z,bitcoinleveldbt-issue178,0.2.0,0,0,https://github.com/klebs6/bitcoin-rs,Regression for deleted data reappearing after manual compaction (upstream LevelDB issue 178).
+2026-11-21T06:24:18.472148Z,rustorb-dds-ffi,0.2.0,0,0,https://github.com/rustorb/rustorb-dds,"Stable C ABI of rustorb-dds, used by its C++ and Java bindings"
+2026-11-21T06:25:52.670249Z,fritz-sim,0.1.0,0,0,https://github.com/udondan/fritz,"Stateful fake TR-064 server built from recorded FRITZ!Box fixtures, for tests (unofficial, not affiliated with FRITZ! GmbH)"
+2026-11-21T06:29:37.546857Z,vusl-core,0.1.0-dev.1,0,0,https://github.com/hypler-dev/vusl,Offline inspection and canonicalization of experimental VUSL mapping reviews
+2026-11-21T06:30:26.917974Z,rotameter-cli,0.1.0-alpha.1,0,0,https://github.com/colinwolff/rotameter,Namespace reservation placeholder for `rotameter-cli`; superseded by the first real release.
+2026-11-21T06:32:57.469765Z,bitcoinleveldbt-issue200,0.2.0,0,0,https://github.com/klebs6/bitcoin-rs,Iterator direction-change regression for upstream LevelDB issue 200.
+2026-11-21T06:36:57.306871Z,f_pdf,0.1.0,0,0,https://github.com/0xhappyboy/f_pdf,"A Rust PDF document parsing engine, with FPDF at its core, providing complete document structure decomposition and read/write capabilities."
+2026-11-21T06:40:25.982112Z,rotameter-ui,0.1.0-alpha.1,0,0,https://github.com/colinwolff/rotameter,Namespace reservation placeholder for `rotameter-ui`; superseded by the first real release.
+2026-11-21T06:42:57.23615Z,bitcoinleveldbt-issue320,0.2.0,0,0,https://github.com/klebs6/bitcoin-rs,Bounded and original-workload regressions for upstream LevelDB issue 320.
+2026-11-21T06:43:10.611424Z,fritz-core,0.1.0,0,0,https://github.com/udondan/fritz,"FRITZ!Box specific logic for the fritz CLI and MCP server (unofficial, not affiliated with FRITZ! GmbH)"
+2026-11-21T06:43:23.579235Z,fritz,0.1.0,0,0,https://github.com/udondan/fritz,"CLI and MCP server for FRITZ!Box routers (unofficial, not affiliated with FRITZ! GmbH)"
+2026-11-21T06:45:53.104493Z,aequitas-python,0.1.0,0,0,https://github.com/ryancinsight/aequitas,Python bindings for the Aequitas physical-quantity surface
+2026-11-21T06:48:17.913238Z,roas-codegen,0.1.0,0,0,https://github.com/sv-tools/roas,Generate Rust and Go types from OpenAPI 2.0 / 3.0 / 3.1 / 3.2 descriptions
+2026-11-21T06:50:07.81736Z,rgba_matte_preview,0.1.0,0,0,,Composite straight-alpha RGBA pixels onto an opaque RGB matte.
+2026-11-21T06:52:57.083596Z,bitcoinleveldbt-recovery,0.2.0,0,0,https://github.com/klebs6/bitcoin-rs,Log and manifest recovery regressions for the LevelDB port.
+2026-11-21T07:00:08.473466Z,letsdecide,0.3.0,0,0,https://github.com/azoies1/letsdecide,"One request shape for every decision API (Jev, Clef, OpenAI, Gemini). Sans-IO core."
+2026-11-21T07:02:56.881861Z,bitcoinleveldbt-table,0.2.0,0,0,https://github.com/klebs6/bitcoin-rs,Table-construction and approximate-offset regressions for the LevelDB port.
+2026-11-21T07:11:47.634107Z,hantek6xx4-lib,0.1.0,0,0,https://github.com/DKrepsky/hantek6xx4-lib,"Driver library for Hantek 6xx4-series USB oscilloscopes (6254BC), reverse engineered, with a mock transport for tests"
+2026-11-21T07:12:00.587814Z,hantek6xx4-cli,0.1.0,0,0,https://github.com/DKrepsky/hantek6xx4-lib,"Command line tool for Hantek 6xx4-series USB oscilloscopes: capture, roll streaming, calibration backup"
+2026-11-21T07:12:57.047352Z,bitcoinleveldb-harness,0.2.0,0,0,https://github.com/klebs6/bitcoin-rs,"Shared comparison harness for LevelDB blocks, tables, and databases."
