@@ -1,0 +1,38 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-21T22:24:55.480776Z,term-font-data-maple,0.1.0,0,0,https://github.com/lu-zero/rune-term,zstd-compressed font bytes for rune-term: Default bundled Maple Mono NF face.
+2026-11-21T22:25:19.245595Z,term-font-data-cascadia,0.1.0,0,0,https://github.com/lu-zero/rune-term,zstd-compressed font bytes for rune-term: Optional Cascadia Code NF face.
+2026-11-21T22:27:02.565264Z,rusty-haystack-app,0.10.1,0,0,https://github.com/jscott3201/rusty-haystack,Authorized bounded application reads for embedded and HTTP Haystack consumers
+2026-11-21T22:27:35.480985Z,rusty-haystack-mcp,0.10.1,0,0,https://github.com/jscott3201/rusty-haystack,Bounded read-only Haystack tools over MCP stdio and Streamable HTTP
+2026-11-21T22:28:25.634581Z,rusty-haystack-analytics,0.10.1,0,0,https://github.com/jscott3201/rusty-haystack,Bounded immutable Parquet captures of remote Haystack history
+2026-11-21T22:29:22.090691Z,neotales-migration-mariadb,0.0.0-alpha.0,0,0,https://github.com/neotales/rs-db,Explicit-recovery MariaDB migrations over neotales-dbapi
+2026-11-21T22:31:32.379342Z,seqcache,0.1.0,0,0,https://github.com/rdaum/seqcache,Reusable page management for KV caches and other autoregressive inference state
+2026-11-21T22:31:41.738913Z,genet-browsing,0.1.0,0,0,https://github.com/merely-made/genet,"Browsing-context identity, origins, sandbox flags and session history shared by Genet hosts and script agents."
+2026-11-21T22:31:46.680115Z,genet-compositor,0.2.0,0,0,https://github.com/merely-made/genet,"Genet's platform presentation layer: per-OS compositor backends that present a netrender frame, same-device wgpu interop with a host, and the rendering-context contract WebGL binds against."
+2026-11-21T22:31:49.787107Z,genet-essl,0.2.0,0,0,https://github.com/merely-made/genet,"Pure-Rust ESSL frontend for Genet's WebGL: lexer, parser, checker and an ESSL to WGSL pipeline."
+2026-11-21T22:31:52.833709Z,genet-flow,0.1.0,0,0,https://github.com/merely-made/genet,CSS logical axes and physical side mapping for Genet.
+2026-11-21T22:31:59.895906Z,castra-compiler,0.1.0-alpha.1,0,0,https://github.com/castra-build/castra,"Castra build orchestration: route discovery, validation, and code generation."
+2026-11-21T22:32:09.290125Z,genet-render,0.2.0,0,0,https://github.com/merely-made/genet,"Genet host render driver: neutral DOM -> owned Livery/Buckram paint list -> netrender scene, plus host spatial, caret, selection, and accessibility queries."
+2026-11-21T22:32:19.345332Z,paperscope,0.2.2,0,0,https://github.com/arrowassassin/paperscope,Paper: local-first document search with exact page and line citations. CLI + MCP server in one binary.
+2026-11-21T22:36:20.97283Z,genet-webgl,0.2.0,0,0,https://github.com/merely-made/genet,"WebGL over wgpu for Genet: canvas textures on the compositor's device, WebGL state and the shader translation seam."
+2026-11-21T22:40:25.914519Z,repay-gateway-derive,0.1.0,0,0,https://github.com/lendsimple/repay-rs,Derive macros for the repay-gateway crate (validation and redacted Debug).
+2026-11-21T22:40:27.661328Z,repay-gateway,0.1.0,0,0,https://github.com/lendsimple/repay-rs,"A typed client for the Repay Gateway API (Repay Online), for native and WebAssembly targets."
+2026-11-21T22:40:55.37314Z,neotales-migration-mssql,0.0.0-alpha.0,0,0,https://github.com/neotales/rs-db,Transactional SQL Server migrations over quiet dbapi and transaction-owned application locks
+2026-11-21T22:44:27.8777Z,term-font-data-common,0.1.0,0,0,https://github.com/lu-zero/rune-term,zstd-compressed font bytes for rune-term: Common Han/kana/Hangul fallback subset.
+2026-11-21T22:45:34.454906Z,castra-component,0.1.0-alpha.1,0,0,https://github.com/castra-build/castra,Castra component model: the typed node tree components produce.
+2026-11-21T22:48:32.612348Z,genet-xpath,0.2.0,0,0,https://github.com/merely-made/genet,"XPath 1.0 parsing and evaluation over a caller-supplied DOM trait, for Genet. Derived from Servo's xpath component."
+2026-11-21T22:51:04.935344Z,castra-renderer,0.1.0-alpha.1,0,0,https://github.com/castra-build/castra,"Castra HTML renderer: deterministic, escaped-by-default output."
+2026-11-21T22:51:51.855685Z,neotales-migration-clickhouse,0.0.0-alpha.0,0,0,https://github.com/neotales/rs-db,Explicit-recovery ClickHouse migrations over neotales-dbapi
+2026-11-21T22:54:54.691647Z,impulse-graph,0.10.0,0,0,https://github.com/impulse-graph/impulse-graph-core,Impulse Graph Engine Core Crate (Spec v0.10.0)
+2026-11-21T22:55:32.336672Z,term-font-data-ja,0.1.0,0,0,https://github.com/lu-zero/rune-term,zstd-compressed font bytes for rune-term: JIS X 0208 Japanese fallback subset.
+2026-11-21T22:57:50.989478Z,genet-runtime,0.1.0,0,0,https://github.com/merely-made/genet,"Browser host surface for Genet's scripted tier: global scope, console, the event loop, EventTarget and document bindings, built on script-engine-api and generic over the JavaScript engine."
+2026-11-21T22:59:54.587133Z,regol,0.2.0,0,0,https://github.com/regol-gis/regol,Independent GeoDesk GOL 2.0 reader and OSM PBF builder
+2026-11-21T23:01:11.67302Z,castra-server,0.1.0-alpha.1,0,0,https://github.com/castra-build/castra,"Castra native server: Tokio + Hyper, routing, server-side rendering."
+2026-11-21T23:01:45.812335Z,regol-cli,0.2.0,0,0,https://github.com/regol-gis/regol,"Build, query, inspect, and export GeoDesk GOL 2.0 files"
+2026-11-21T23:02:42.494432Z,neotales-migration-postgres,0.0.0-alpha.0,0,0,https://github.com/neotales/rs-db,Locked transactional PostgreSQL migrations over quiet dbapi
+2026-11-21T23:07:07.778463Z,genet-presenter,0.2.0,0,0,https://github.com/merely-made/genet,"Target-neutral Genet present core: boot wgpu + a netrender Renderer, configure a surface on any wgpu target, and rasterize scenes into composable textures."
+2026-11-21T23:08:10.753594Z,mako-messkonzept,0.0.0,0,0,https://github.com/hupe1980/mako,"Name reservation for mako-messkonzept, the Messkonzept of a Netzanschluss in the mako workspace; use 0.45 or later."
+2026-11-21T23:11:13.733529Z,castra-client,0.1.0-alpha.1,0,0,https://github.com/castra-build/castra,Castra browser runtime: mounts component trees into the DOM with fine-grained updates.
+2026-11-21T23:11:49.668731Z,bouquet,0.1.0,0,0,https://github.com/klobucar/bouquet,"Pluggable Bloom filters: pick your blooms (classical, atomic, more to come)."
+2026-11-21T23:15:05.341768Z,term-font-data-zh-full,0.1.0,0,0,https://github.com/lu-zero/rune-term,zstd-compressed font bytes for rune-term: Full GBK Chinese fallback subset.
+2026-11-21T23:15:38.240627Z,term-atlas,0.1.0,0,0,https://github.com/lu-zero/rune-term,"CPU glyph atlas with font fallback and cell sprites. No rendering backend, no Rune and no librio."
+2026-11-21T23:16:22.520111Z,genet-winit,0.2.0,0,0,https://github.com/merely-made/genet,"Shared Genet-on-winit presentation plumbing: a wgpu surface, netrender Renderer, wheel translation, and AccessKit bridge."

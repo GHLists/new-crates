@@ -8,43 +8,51 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-21 22:20 UTC
+## Latest list — 2026-11-21 23:18 UTC
 
-New crates published between 2026-11-21 21:18 UTC and 2026-11-21 22:20 UTC.
+New crates published between 2026-11-21 22:20 UTC and 2026-11-21 23:18 UTC.
 
-[Full CSV](data/new-crates-2026-11-21T22-20-59-925509Z.csv)
+[Full CSV](data/new-crates-2026-11-21T23-18-22-752934Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-21 21:19:27 | [kittybrowser](https://crates.io/crates/kittybrowser) | 0.2.0 | 0 | A fast web browser that runs in a terminal pane, drawn with the kitty graphics… |
-| 2026-11-21 21:21:37 | [neotales-dbapi-clickhouse](https://crates.io/crates/neotales-dbapi-clickhouse) | 0.0.0-alpha.0 | 0 | Native-protocol ClickHouse provider for neotales-dbapi |
-| 2026-11-21 21:21:45 | [zmem-manager](https://crates.io/crates/zmem-manager) | 0.1.2 | 0 | A lightweight, pressure-aware Linux memory and swap manager with a no_std polic… |
-| 2026-11-21 21:22:33 | [unityrs-dump](https://crates.io/crates/unityrs-dump) | 1.0.0 | 0 | The canonical dump of Unity files: unityrs's L0-L3 records, for comparison with… |
-| 2026-11-21 21:22:57 | [substantial-wasm-sdk](https://crates.io/crates/substantial-wasm-sdk) | 0.3.0 | 0 | The API of Substantial's Wasm workflows, which the crate `substantial` re-expor… |
-| 2026-11-21 21:24:41 | [rune-term-ctl](https://crates.io/crates/rune-term-ctl) | 0.0.1 | 0 | Placeholder for rune-term-ctl (blocked on rune-term-core). See https://github.c… |
-| 2026-11-21 21:24:41 | [digua_token_sdk](https://crates.io/crates/digua_token_sdk) | 1.6.0 | 0 | Rust client SDK for the KudiCoder token-service |
-| 2026-11-21 21:28:19 | [trucker](https://crates.io/crates/trucker) | 1.0.0 | 0 | A rustc wrapper that shares compiled crates between worktrees on a machine |
-| 2026-11-21 21:32:33 | [unityrs-testkit](https://crates.io/crates/unityrs-testkit) | 1.0.0 | 0 | Synthetic Unity files built in code, for unityrs's own tests and the CLI's test… |
-| 2026-11-21 21:32:35 | [neotales-dbapi-postgres-tls](https://crates.io/crates/neotales-dbapi-postgres-tls) | 0.0.0-alpha.0 | 0 | Experimental verified TLS adapter for the isolated PostgreSQL driver |
-| 2026-11-21 21:34:42 | [digua_file_sdk](https://crates.io/crates/digua_file_sdk) | 1.7.0 | 0 | Rust client SDK for the KudiCoder file-service |
-| 2026-11-21 21:35:05 | [rustx-webview](https://crates.io/crates/rustx-webview) | 0.5.0 | 0 | The system-webview host of a rustx window: the wire protocol between the Rust t… |
-| 2026-11-21 21:35:45 | [rune-term-agent](https://crates.io/crates/rune-term-agent) | 0.0.1 | 0 | Placeholder for rune-term-agent (blocked on rune-term-core). See https://github… |
-| 2026-11-21 21:42:35 | [unityrs-cli](https://crates.io/crates/unityrs-cli) | 1.0.0 | 0 | Command-line Unity asset extraction. |
-| 2026-11-21 21:44:46 | [authr](https://crates.io/crates/authr) | 0.1.0 | 0 | A flexible authentication library for Rust applications, with OAuth 2.0, OpenID… |
-| 2026-11-21 21:45:35 | [neotales-dbapi-postgres](https://crates.io/crates/neotales-dbapi-postgres) | 0.0.0-alpha.0 | 0 | PostgreSQL provider for neotales-dbapi |
-| 2026-11-21 21:46:49 | [rune-term-keeper](https://crates.io/crates/rune-term-keeper) | 0.0.1 | 0 | Placeholder for rune-term-keeper (blocked on rune-term-core). See https://githu… |
-| 2026-11-21 21:54:42 | [maquette](https://crates.io/crates/maquette) | 0.1.0 | 0 | A simulated HDMI sink for tests: SCDC and EDID registers, a DDC bus, a PHY and… |
-| 2026-11-21 21:56:28 | [neotales-migration-sqlite](https://crates.io/crates/neotales-migration-sqlite) | 0.0.0-alpha.0 | 0 | Transactional SQLite backend for neotales-migration |
-| 2026-11-21 21:58:03 | [laminapdf-interchange](https://crates.io/crates/laminapdf-interchange) | 0.7.0 | 0 | Import and export PDF comments as XFDF (ISO 19444-1), FDF and Markdown, with im… |
-| 2026-11-21 22:06:11 | [adoctra-wasm-preview](https://crates.io/crates/adoctra-wasm-preview) | 0.0.5 | 0 | WASM bindings for an adoctra editor with a live HTML preview |
-| 2026-11-21 22:07:37 | [neotales-migration-libsql](https://crates.io/crates/neotales-migration-libsql) | 0.0.0-alpha.0 | 0 | Transactional remote libSQL/Turso backend for neotales-migration |
-| 2026-11-21 22:17:38 | [swarm-board](https://crates.io/crates/swarm-board) | 0.0.1 | 0 | Placeholder for a local task board for swarms of coding agents, planned as part… |
-| 2026-11-21 22:18:30 | [neotales-migration-mysql](https://crates.io/crates/neotales-migration-mysql) | 0.0.0-alpha.0 | 0 | Explicit-recovery MySQL migrations over neotales-dbapi |
-| 2026-11-21 22:20:40 | [castra-macros](https://crates.io/crates/castra-macros) | 0.1.0-alpha.1 | 0 | Procedural macros for Castra (`view!`, `#[component]`). Use them through the `c… |
-| 2026-11-21 22:20:40 | [castra-manifest](https://crates.io/crates/castra-manifest) | 0.1.0-alpha.1 | 0 | Castra application manifest: the versioned contract between the compiler and ru… |
-| 2026-11-21 22:20:41 | [castra-reactive](https://crates.io/crates/castra-reactive) | 0.1.0-alpha.1 | 0 | Castra fine-grained reactivity: signals, memos, effects, and ownership. |
-| 2026-11-21 22:20:41 | [castra-router](https://crates.io/crates/castra-router) | 0.1.0-alpha.1 | 0 | Castra route matching: file-system style patterns, deterministic precedence, co… |
-| 2026-11-21 22:20:41 | [castra-server-functions](https://crates.io/crates/castra-server-functions) | 0.1.0-alpha.1 | 0 | Castra server functions: the shared contract and the browser-side caller. |
+| 2026-11-21 22:24:55 | [term-font-data-maple](https://crates.io/crates/term-font-data-maple) | 0.1.0 | 0 | zstd-compressed font bytes for rune-term: Default bundled Maple Mono NF face. |
+| 2026-11-21 22:25:19 | [term-font-data-cascadia](https://crates.io/crates/term-font-data-cascadia) | 0.1.0 | 0 | zstd-compressed font bytes for rune-term: Optional Cascadia Code NF face. |
+| 2026-11-21 22:27:02 | [rusty-haystack-app](https://crates.io/crates/rusty-haystack-app) | 0.10.1 | 0 | Authorized bounded application reads for embedded and HTTP Haystack consumers |
+| 2026-11-21 22:27:35 | [rusty-haystack-mcp](https://crates.io/crates/rusty-haystack-mcp) | 0.10.1 | 0 | Bounded read-only Haystack tools over MCP stdio and Streamable HTTP |
+| 2026-11-21 22:28:25 | [rusty-haystack-analytics](https://crates.io/crates/rusty-haystack-analytics) | 0.10.1 | 0 | Bounded immutable Parquet captures of remote Haystack history |
+| 2026-11-21 22:29:22 | [neotales-migration-mariadb](https://crates.io/crates/neotales-migration-mariadb) | 0.0.0-alpha.0 | 0 | Explicit-recovery MariaDB migrations over neotales-dbapi |
+| 2026-11-21 22:31:32 | [seqcache](https://crates.io/crates/seqcache) | 0.1.0 | 0 | Reusable page management for KV caches and other autoregressive inference state |
+| 2026-11-21 22:31:41 | [genet-browsing](https://crates.io/crates/genet-browsing) | 0.1.0 | 0 | Browsing-context identity, origins, sandbox flags and session history shared by… |
+| 2026-11-21 22:31:46 | [genet-compositor](https://crates.io/crates/genet-compositor) | 0.2.0 | 0 | Genet's platform presentation layer: per-OS compositor backends that present a… |
+| 2026-11-21 22:31:49 | [genet-essl](https://crates.io/crates/genet-essl) | 0.2.0 | 0 | Pure-Rust ESSL frontend for Genet's WebGL: lexer, parser, checker and an ESSL t… |
+| 2026-11-21 22:31:52 | [genet-flow](https://crates.io/crates/genet-flow) | 0.1.0 | 0 | CSS logical axes and physical side mapping for Genet. |
+| 2026-11-21 22:31:59 | [castra-compiler](https://crates.io/crates/castra-compiler) | 0.1.0-alpha.1 | 0 | Castra build orchestration: route discovery, validation, and code generation. |
+| 2026-11-21 22:32:09 | [genet-render](https://crates.io/crates/genet-render) | 0.2.0 | 0 | Genet host render driver: neutral DOM -> owned Livery/Buckram paint list -> net… |
+| 2026-11-21 22:32:19 | [paperscope](https://crates.io/crates/paperscope) | 0.2.2 | 0 | Paper: local-first document search with exact page and line citations. CLI + MC… |
+| 2026-11-21 22:36:20 | [genet-webgl](https://crates.io/crates/genet-webgl) | 0.2.0 | 0 | WebGL over wgpu for Genet: canvas textures on the compositor's device, WebGL st… |
+| 2026-11-21 22:40:25 | [repay-gateway-derive](https://crates.io/crates/repay-gateway-derive) | 0.1.0 | 0 | Derive macros for the repay-gateway crate (validation and redacted Debug). |
+| 2026-11-21 22:40:27 | [repay-gateway](https://crates.io/crates/repay-gateway) | 0.1.0 | 0 | A typed client for the Repay Gateway API (Repay Online), for native and WebAsse… |
+| 2026-11-21 22:40:55 | [neotales-migration-mssql](https://crates.io/crates/neotales-migration-mssql) | 0.0.0-alpha.0 | 0 | Transactional SQL Server migrations over quiet dbapi and transaction-owned appl… |
+| 2026-11-21 22:44:27 | [term-font-data-common](https://crates.io/crates/term-font-data-common) | 0.1.0 | 0 | zstd-compressed font bytes for rune-term: Common Han/kana/Hangul fallback subse… |
+| 2026-11-21 22:45:34 | [castra-component](https://crates.io/crates/castra-component) | 0.1.0-alpha.1 | 0 | Castra component model: the typed node tree components produce. |
+| 2026-11-21 22:48:32 | [genet-xpath](https://crates.io/crates/genet-xpath) | 0.2.0 | 0 | XPath 1.0 parsing and evaluation over a caller-supplied DOM trait, for Genet. D… |
+| 2026-11-21 22:51:04 | [castra-renderer](https://crates.io/crates/castra-renderer) | 0.1.0-alpha.1 | 0 | Castra HTML renderer: deterministic, escaped-by-default output. |
+| 2026-11-21 22:51:51 | [neotales-migration-clickhouse](https://crates.io/crates/neotales-migration-clickhouse) | 0.0.0-alpha.0 | 0 | Explicit-recovery ClickHouse migrations over neotales-dbapi |
+| 2026-11-21 22:54:54 | [impulse-graph](https://crates.io/crates/impulse-graph) | 0.10.0 | 0 | Impulse Graph Engine Core Crate (Spec v0.10.0) |
+| 2026-11-21 22:55:32 | [term-font-data-ja](https://crates.io/crates/term-font-data-ja) | 0.1.0 | 0 | zstd-compressed font bytes for rune-term: JIS X 0208 Japanese fallback subset. |
+| 2026-11-21 22:57:50 | [genet-runtime](https://crates.io/crates/genet-runtime) | 0.1.0 | 0 | Browser host surface for Genet's scripted tier: global scope, console, the even… |
+| 2026-11-21 22:59:54 | [regol](https://crates.io/crates/regol) | 0.2.0 | 0 | Independent GeoDesk GOL 2.0 reader and OSM PBF builder |
+| 2026-11-21 23:01:11 | [castra-server](https://crates.io/crates/castra-server) | 0.1.0-alpha.1 | 0 | Castra native server: Tokio + Hyper, routing, server-side rendering. |
+| 2026-11-21 23:01:45 | [regol-cli](https://crates.io/crates/regol-cli) | 0.2.0 | 0 | Build, query, inspect, and export GeoDesk GOL 2.0 files |
+| 2026-11-21 23:02:42 | [neotales-migration-postgres](https://crates.io/crates/neotales-migration-postgres) | 0.0.0-alpha.0 | 0 | Locked transactional PostgreSQL migrations over quiet dbapi |
+| 2026-11-21 23:07:07 | [genet-presenter](https://crates.io/crates/genet-presenter) | 0.2.0 | 0 | Target-neutral Genet present core: boot wgpu + a netrender Renderer, configure… |
+| 2026-11-21 23:08:10 | [mako-messkonzept](https://crates.io/crates/mako-messkonzept) | 0.0.0 | 0 | Name reservation for mako-messkonzept, the Messkonzept of a Netzanschluss in th… |
+| 2026-11-21 23:11:13 | [castra-client](https://crates.io/crates/castra-client) | 0.1.0-alpha.1 | 0 | Castra browser runtime: mounts component trees into the DOM with fine-grained u… |
+| 2026-11-21 23:11:49 | [bouquet](https://crates.io/crates/bouquet) | 0.1.0 | 0 | Pluggable Bloom filters: pick your blooms (classical, atomic, more to come). |
+| 2026-11-21 23:15:05 | [term-font-data-zh-full](https://crates.io/crates/term-font-data-zh-full) | 0.1.0 | 0 | zstd-compressed font bytes for rune-term: Full GBK Chinese fallback subset. |
+| 2026-11-21 23:15:38 | [term-atlas](https://crates.io/crates/term-atlas) | 0.1.0 | 0 | CPU glyph atlas with font fallback and cell sprites. No rendering backend, no R… |
+| 2026-11-21 23:16:22 | [genet-winit](https://crates.io/crates/genet-winit) | 0.2.0 | 0 | Shared Genet-on-winit presentation plumbing: a wgpu surface, netrender Renderer… |
 
 ## Data source
 
