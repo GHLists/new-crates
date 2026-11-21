@@ -1,0 +1,22 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-21T10:21:04.161679Z,binaryen-sys-next,133.2.1,0,0,https://github.com/play-horizon/binaryen-sys-next,"Raw bindings to the C API of Binaryen, the WebAssembly compiler and optimizer library"
+2026-11-21T10:28:58.714202Z,aemulus-proto,0.0.2,0,0,https://github.com/Artur-Galstyan/aemulus,Generated Protobuf and gRPC code for aemulus
+2026-11-21T10:29:01.453703Z,aemulus-sila,0.0.2,0,0,https://github.com/Artur-Galstyan/aemulus,SiLA 2 core for aemulus (early work in progress)
+2026-11-21T10:29:04.05983Z,aemulus-devices,0.0.2,0,0,https://github.com/Artur-Galstyan/aemulus,Device logic for aemulus (early work in progress)
+2026-11-21T10:29:08.448961Z,aemulus-servers,0.0.2,0,0,https://github.com/Artur-Galstyan/aemulus,Device servers for aemulus (early work in progress)
+2026-11-21T10:29:10.760478Z,aemulus,0.0.2,0,0,https://github.com/Artur-Galstyan/aemulus,A digital twin for lab automation (early work in progress)
+2026-11-21T10:29:57.904817Z,det-prime,0.1.1,0,0,https://github.com/san-digital/det-prime,"Deterministic, zero-entropy primality testing, prime hashing, and modular square roots backed by Dirichlet-GRH witness bounds."
+2026-11-21T10:30:19.571832Z,seam-atlas,0.1.1,0,0,https://github.com/san-digital/seam-atlas,Spec-free exhaustive behavioral diff and cliff-edge boundary compiler for deterministic rule engines and guardrails.
+2026-11-21T10:30:21.979136Z,comparator-opt,0.1.1,0,0,https://github.com/san-digital/comparator-opt,Zero-trust superoptimization harness and cryptographic challenge lock pairing simple reference specs with verified fast paths.
+2026-11-21T10:30:56.264655Z,leptos-config-editor,0.1.1,0,0,https://github.com/paradoxe35/config-editor,"A fast, VS Code-style Leptos editor for YAML, JSON, TOML, HCL, and XML configs, with JSON Schema completion, diagnostics, and conversion"
+2026-11-21T10:38:26.685998Z,laburnum-lsp-macro,0.2.0,0,0,https://github.com/gold-build/laburnum,"Proc-macros for language frontends built with the laburnum-lsp framework: CST and AST node types, and diagnostic catalogues."
+2026-11-21T10:38:54.076787Z,laburnum-lsp,2.0.0,0,0,https://github.com/gold-build/laburnum,"An LSP framework for building language servers and compilers, powered by an incremental query tree with content-addressed storage, task-based dataflow, and parallel queries."
+2026-11-21T10:42:16.658913Z,adaliszkfmt,0.1.5,0,0,,Drop-in rustfmt shim that bundles a personal style with nightly provisioning.
+2026-11-21T10:44:59.507646Z,timetools,0.1.0,0,0,,Financial date handling.
+2026-11-21T10:48:12.510368Z,fcb_api,0.9.1,0,0,https://github.com/cityjson/flatcitybuf,"An OGC API - Features server over a FlatCityBuf dataset, read from a local file or over HTTP range requests."
+2026-11-21T10:55:09.799578Z,sunbeams,0.7.0,0,0,https://tangled.org/sunbeams.dev/sunbeams-cli,The library behind the sunbeams command.
+2026-11-21T10:55:11.676599Z,sunbeams-cli,0.7.0,0,0,https://tangled.org/sunbeams.dev/sunbeams-cli,The sunbeams command: a little something to brighten your day.
+2026-11-21T11:07:09.020048Z,boytacean-cartridge,0.14.0,0,0,,Cartridge dumping library for Boytacen.
+2026-11-21T11:14:17.06929Z,voe,0.0.1,0,0,,"A heavyweight, semi-centralized version control system. This release reserves the crate name; functional releases follow."
+2026-11-21T11:14:20.316523Z,libvoe,0.0.1,0,0,,Library crate for the Voe version control system. This release reserves the crate name; functional releases follow.
+2026-11-21T11:15:35.284459Z,nass,0.3.1,0,0,https://github.com/samt-qa/nass,"Arabic text normalization and diacritic-insensitive search for Quran, hadith and heritage texts, with offsets in the original text."

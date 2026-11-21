@@ -8,39 +8,35 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-21 10:18 UTC
+## Latest list — 2026-11-21 11:18 UTC
 
-New crates published between 2026-11-21 09:19 UTC and 2026-11-21 10:18 UTC.
+New crates published between 2026-11-21 10:18 UTC and 2026-11-21 11:18 UTC.
 
-[Full CSV](data/new-crates-2026-11-21T10-18-42-618608Z.csv)
+[Full CSV](data/new-crates-2026-11-21T11-18-45-238976Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-21 09:23:05 | [reylo-macros](https://crates.io/crates/reylo-macros) | 0.8.0 | 0 | The attribute #[reylo::query("…")] mod name {}: the statement typed by Reylo's… |
-| 2026-11-21 09:24:32 | [batonly-desktop](https://crates.io/crates/batonly-desktop) | 0.0.1 | 0 | Name reserved for the Batonly project |
-| 2026-11-21 09:28:41 | [equate-sequence-core](https://crates.io/crates/equate-sequence-core) | 0.1.0 | 0 | Sequence-alignment kernels of equate (banded DTW, subsequence DTW, Needleman-Wu… |
-| 2026-11-21 09:29:08 | [fleetmesh](https://crates.io/crates/fleetmesh) | 0.0.0 | 0 | Protocol library for Fleetmesh: wire types, manifests, relay client and the con… |
-| 2026-11-21 09:29:43 | [meshctl](https://crates.io/crates/meshctl) | 0.0.0 | 0 | Declarative fleet management CLI for Fleetmesh (fleetmesh.org) |
-| 2026-11-21 09:31:02 | [f_ppt](https://crates.io/crates/f_ppt) | 0.1.0 | 0 | A Rust PPT document parsing engine, with f_ppt at its core, providing complete… |
-| 2026-11-21 09:31:16 | [reylo](https://crates.io/crates/reylo) | 0.8.0 | 0 | SQL typed by Reylo's engine at compile time, run on sqlx: #[reylo::query("…")]… |
-| 2026-11-21 09:33:31 | [astro96-api](https://crates.io/crates/astro96-api) | 0.3.0 | 0 | 96Astro API client: kundli, panchang, horoscopes, matching, numerology and repo… |
-| 2026-11-21 09:34:54 | [batonly-winjob](https://crates.io/crates/batonly-winjob) | 0.0.1 | 0 | Name reserved for the Batonly project |
-| 2026-11-21 09:41:28 | [reylo-cli](https://crates.io/crates/reylo-cli) | 0.8.0 | 0 | One program for every database Reylo reads: the analysis engine each language's… |
-| 2026-11-21 09:45:16 | [batonly-winpipe](https://crates.io/crates/batonly-winpipe) | 0.0.1 | 0 | Name reserved for the Batonly project |
-| 2026-11-21 09:46:44 | [streepjes](https://crates.io/crates/streepjes) | 0.0.0 | 0 | Placeholder for the Streepjes barcode reader, a robust, memory-safe reader in R… |
-| 2026-11-21 09:46:47 | [streepjes-core](https://crates.io/crates/streepjes-core) | 0.0.0 | 0 | Placeholder for the Streepjes barcode reader, a robust, memory-safe reader in R… |
-| 2026-11-21 09:46:51 | [streepjes-ecc](https://crates.io/crates/streepjes-ecc) | 0.0.0 | 0 | Placeholder for the Streepjes barcode reader, a robust, memory-safe reader in R… |
-| 2026-11-21 09:46:55 | [streepjes-linear](https://crates.io/crates/streepjes-linear) | 0.0.0 | 0 | Placeholder for the Streepjes barcode reader, a robust, memory-safe reader in R… |
-| 2026-11-21 09:46:59 | [streepjes-qr](https://crates.io/crates/streepjes-qr) | 0.0.0 | 0 | Placeholder for the Streepjes barcode reader, a robust, memory-safe reader in R… |
-| 2026-11-21 09:51:21 | [xformat](https://crates.io/crates/xformat) | 0.0.0 | 0 | An empty placeholder for the xformat project. |
-| 2026-11-21 09:57:16 | [streepjes-cli](https://crates.io/crates/streepjes-cli) | 0.0.0 | 0 | Placeholder for the Streepjes barcode reader, a robust, memory-safe reader in R… |
-| 2026-11-21 10:05:25 | [rs-auto-alloc](https://crates.io/crates/rs-auto-alloc) | 0.1.0 | 0 | Compile-time global allocator selection for hosted Rust programs and bare-metal… |
-| 2026-11-21 10:11:58 | [anet-client](https://crates.io/crates/anet-client) | 0.0.1 | 0 | The Rust SDK of the local anet service: chat, embeddings, the decision loop and… |
-| 2026-11-21 10:13:17 | [xtmd-live](https://crates.io/crates/xtmd-live) | 0.3.1 | 0 | What a real-time Extended Mark target embeds: the compiler, with core compiled… |
-| 2026-11-21 10:13:17 | [xtmd-markdown](https://crates.io/crates/xtmd-markdown) | 0.3.1 | 0 | Markdown out: a page written as Markdown, with the values it has |
-| 2026-11-21 10:13:18 | [xtmd-migrate](https://crates.io/crates/xtmd-migrate) | 0.3.1 | 0 | What xtmd migrate does, on texts: documents and packs brought up to the packs t… |
-| 2026-11-21 10:13:19 | [xtmd-lsp](https://crates.io/crates/xtmd-lsp) | 0.3.1 | 0 | Extended Mark's editor features and its language server: diagnostics, hover, de… |
-| 2026-11-21 10:13:20 | [xtmd](https://crates.io/crates/xtmd) | 0.3.1 | 0 | The xtmd command: check, fmt, build and md |
+| 2026-11-21 10:21:04 | [binaryen-sys-next](https://crates.io/crates/binaryen-sys-next) | 133.2.1 | 0 | Raw bindings to the C API of Binaryen, the WebAssembly compiler and optimizer l… |
+| 2026-11-21 10:28:58 | [aemulus-proto](https://crates.io/crates/aemulus-proto) | 0.0.2 | 0 | Generated Protobuf and gRPC code for aemulus |
+| 2026-11-21 10:29:01 | [aemulus-sila](https://crates.io/crates/aemulus-sila) | 0.0.2 | 0 | SiLA 2 core for aemulus (early work in progress) |
+| 2026-11-21 10:29:04 | [aemulus-devices](https://crates.io/crates/aemulus-devices) | 0.0.2 | 0 | Device logic for aemulus (early work in progress) |
+| 2026-11-21 10:29:08 | [aemulus-servers](https://crates.io/crates/aemulus-servers) | 0.0.2 | 0 | Device servers for aemulus (early work in progress) |
+| 2026-11-21 10:29:10 | [aemulus](https://crates.io/crates/aemulus) | 0.0.2 | 0 | A digital twin for lab automation (early work in progress) |
+| 2026-11-21 10:29:57 | [det-prime](https://crates.io/crates/det-prime) | 0.1.1 | 0 | Deterministic, zero-entropy primality testing, prime hashing, and modular squar… |
+| 2026-11-21 10:30:19 | [seam-atlas](https://crates.io/crates/seam-atlas) | 0.1.1 | 0 | Spec-free exhaustive behavioral diff and cliff-edge boundary compiler for deter… |
+| 2026-11-21 10:30:21 | [comparator-opt](https://crates.io/crates/comparator-opt) | 0.1.1 | 0 | Zero-trust superoptimization harness and cryptographic challenge lock pairing s… |
+| 2026-11-21 10:30:56 | [leptos-config-editor](https://crates.io/crates/leptos-config-editor) | 0.1.1 | 0 | A fast, VS Code-style Leptos editor for YAML, JSON, TOML, HCL, and XML configs,… |
+| 2026-11-21 10:38:26 | [laburnum-lsp-macro](https://crates.io/crates/laburnum-lsp-macro) | 0.2.0 | 0 | Proc-macros for language frontends built with the laburnum-lsp framework: CST a… |
+| 2026-11-21 10:38:54 | [laburnum-lsp](https://crates.io/crates/laburnum-lsp) | 2.0.0 | 0 | An LSP framework for building language servers and compilers, powered by an inc… |
+| 2026-11-21 10:42:16 | [adaliszkfmt](https://crates.io/crates/adaliszkfmt) | 0.1.5 | 0 | Drop-in rustfmt shim that bundles a personal style with nightly provisioning. |
+| 2026-11-21 10:44:59 | [timetools](https://crates.io/crates/timetools) | 0.1.0 | 0 | Financial date handling. |
+| 2026-11-21 10:48:12 | [fcb_api](https://crates.io/crates/fcb_api) | 0.9.1 | 0 | An OGC API - Features server over a FlatCityBuf dataset, read from a local file… |
+| 2026-11-21 10:55:09 | [sunbeams](https://crates.io/crates/sunbeams) | 0.7.0 | 0 | The library behind the sunbeams command. |
+| 2026-11-21 10:55:11 | [sunbeams-cli](https://crates.io/crates/sunbeams-cli) | 0.7.0 | 0 | The sunbeams command: a little something to brighten your day. |
+| 2026-11-21 11:07:09 | [boytacean-cartridge](https://crates.io/crates/boytacean-cartridge) | 0.14.0 | 0 | Cartridge dumping library for Boytacen. |
+| 2026-11-21 11:14:17 | [voe](https://crates.io/crates/voe) | 0.0.1 | 0 | A heavyweight, semi-centralized version control system. This release reserves t… |
+| 2026-11-21 11:14:20 | [libvoe](https://crates.io/crates/libvoe) | 0.0.1 | 0 | Library crate for the Voe version control system. This release reserves the cra… |
+| 2026-11-21 11:15:35 | [nass](https://crates.io/crates/nass) | 0.3.1 | 0 | Arabic text normalization and diacritic-insensitive search for Quran, hadith an… |
 
 ## Data source
 
