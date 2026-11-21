@@ -1,0 +1,41 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-21T03:20:38.807041Z,avectes-dioxus-router,0.7.3,0,0,https://github.com/DioxusLabs/dioxus/,Cross-platform router for Dioxus apps
+2026-11-21T03:21:48.533439Z,zeno-adp,0.1.0,0,0,https://github.com/TheDarkLightX/Zeno-ADP,Algebraic dynamic programming over ranked tree grammars
+2026-11-21T03:22:57.020938Z,bitcoinleveldb-dbimplwriter,0.2.0,0,0,https://github.com/klebs6/bitcoin-rs,Per-writer queue state for LevelDB's database write path.
+2026-11-21T03:26:28.769529Z,fx-logger,1.0.0,0,0,https://github.com/cppHusky/fx-logger,A PostgreSQL-backed cash rate logger
+2026-11-21T03:30:49.145136Z,avectes-dioxus-web,0.7.10,0,0,https://github.com/DioxusLabs/dioxus/,"Web-sys renderer for Dioxus: Build fullstack web, desktop, and mobile apps with a single codebase."
+2026-11-21T03:32:44.861231Z,solascope-scanner,0.1.0,0,0,https://github.com/wchiway/SolaScope,"Root-confined source discovery, ignore rules, and file watching for SolaScope"
+2026-11-21T03:32:48.301536Z,solascope-engine,0.1.0,0,0,https://github.com/wchiway/SolaScope,"Shared indexing and lexical, symbol, and semantic retrieval engine for SolaScope"
+2026-11-21T03:32:52.39624Z,solascope-cli,0.1.0,0,0,https://github.com/wchiway/SolaScope,"Local-first code search CLI and MCP server with lexical, symbol, and semantic retrieval"
+2026-11-21T03:32:56.836426Z,bitcoinleveldb-dbinterface,0.2.0,0,0,https://github.com/klebs6/bitcoin-rs,Operation traits for LevelDB-style databases.
+2026-11-21T03:33:18.540249Z,wavegraph-sample,0.1.0,0,0,https://github.com/fm1-rust/wavegraph,"PCM audio sample types, traits and conversions, forked from `dasp_sample` with added `no_std` and `no_alloc` support."
+2026-11-21T03:37:45.886387Z,wavegraph,0.1.0,0,0,https://github.com/fm1-rust/wavegraph,Pure Data-like embedded-oriented graph-based synthesis engine
+2026-11-21T03:39:09.40203Z,tygr-uri,0.1.0,0,0,https://github.com/LuKuangChen/tygr-uri,"The URI generic syntax of RFC 3986, written as tygr types: a parser, a printer, and the grammar in EBNF."
+2026-11-21T03:42:56.490823Z,bitcoinleveldb-compaction,0.2.0,0,0,https://github.com/klebs6/bitcoin-rs,Compaction plans and bookkeeping for the LevelDB storage engine.
+2026-11-21T03:45:28.081941Z,partition-graph,0.1.0,0,0,https://github.com/yezune/partition-graph,"Partition graphs: the distinction graph of a partition, and directed acyclic graphs constrained by one"
+2026-11-21T03:45:35.717976Z,vtty_core,0.2.0,0,0,https://github.com/pindash-io/vtty,"The irreducible core of vtty: the Perform contract, model types, and the State sink."
+2026-11-21T03:47:02.679204Z,imgio,0.0.0,0,0,https://github.com/qbart/imgio,"Pure Rust image and GPU texture codecs: BC1-BC7, ASTC, UASTC, Basis Universal transcoding, RGBA/HDR."
+2026-11-21T03:47:32.757796Z,iced-squircle,1.0.0,0,0,https://github.com/potistudio/iced-squircle,Squircle (superellipse-cornered) surfaces for iced.
+2026-11-21T03:49:28.784116Z,avectes-dioxus-server,0.7.3,0,0,https://github.com/DioxusLabs/dioxus/,"Fullstack utilities for Dioxus: Build fullstack web, desktop, and mobile apps with a single codebase."
+2026-11-21T03:50:31.939267Z,vtty_status,0.2.0,0,0,https://github.com/pindash-io/vtty,OSC 7501 Program Status Protocol for vtty: the ProgramStatus codec and the PerformProgramStatus hook.
+2026-11-21T03:51:31.495687Z,vtty_width,0.2.0,0,0,https://github.com/pindash-io/vtty,"Zero-allocation, panic-free DEC VT500 terminal parser with UTF-8 decoding and no_std support."
+2026-11-21T03:52:57.315629Z,bitcoinleveldb-dbiter,0.2.0,0,0,https://github.com/klebs6/bitcoin-rs,"User-visible database iteration over LevelDB internal keys. DBIter filters entries by a snapshot sequence number, hides deletion records and older values, and supports forward and reverse traversal a…"
+2026-11-21T03:54:07.927118Z,vtty_grapheme,0.2.0,0,0,https://github.com/pindash-io/vtty,"Zero-allocation, panic-free DEC VT500 terminal parser with UTF-8 decoding and no_std support."
+2026-11-21T03:54:41.88297Z,vex-hal-macros,0.1.0,0,0,https://github.com/2wiceUponATime/vex-hal,proc macros for vex-hal
+2026-11-21T03:54:43.288112Z,remote-pbcopy,1.0.1,0,0,https://github.com/tessus/remote-pbcopy,"pbcopy for remote sessions: copies stdin to your local clipboard via OSC 52, over ssh and inside tmux/screen"
+2026-11-21T03:55:13.546273Z,vtty_codec,0.2.0,0,0,https://github.com/pindash-io/vtty,"Compact, `no_std`, panic-free binary serialization."
+2026-11-21T03:55:26.844825Z,vtty_screen,0.2.0,0,0,https://github.com/pindash-io/vtty,"A minimal cell-grid terminal screen for vtty: grid, cursor, SGR, scrolling and render."
+2026-11-21T03:56:40.187063Z,vex-hal,0.2.1,0,0,https://github.com/2wiceUponATime/vex-hal,Rust runtime for VEX V5 and EXP robots
+2026-11-21T03:57:18.304794Z,apparatus-core,0.1.0,0,0,https://github.com/merely-made/armillary,"Runtime-independent bounded observations, loss accounting, and read-only inspection data."
+2026-11-21T03:59:38.82235Z,avectes-dioxus,0.7.3,0,0,https://github.com/DioxusLabs/dioxus/,"Build fullstack web, desktop, and mobile apps with a single codebase."
+2026-11-21T03:59:49.328038Z,gpui-material-design-symbols,0.1.2,0,0,https://github.com/wangdiandao/gpui-material,Complete Material Symbols catalog and variable icon outlines for GPUI applications
+2026-11-21T04:02:57.165731Z,bitcoinleveldb-dbiterstate,0.2.0,0,0,https://github.com/klebs6/bitcoin-rs,Iterator cleanup state for retained LevelDB memtables and versions.
+2026-11-21T04:07:32.565239Z,taim_graphics,0.15.0-rc.1,0,0,https://github.com/theaimartco/taim,A bunch of backend-agnostic types that can be leveraged to build a renderer for taim
+2026-11-21T04:07:33.592937Z,taim_text_gpu,0.15.0-rc.1,0,0,https://github.com/theaimartco/taim,"TAIM's bounded, allocation-conscious GPU glyph engine"
+2026-11-21T04:07:36.982006Z,taim-design,0.15.0-rc.1,0,0,https://github.com/theaimartco/taim,Token-driven production design contracts for Taim
+2026-11-21T04:07:38.67913Z,taim_tiny_skia,0.15.0-rc.1,0,0,https://github.com/theaimartco/taim,A software renderer for taim on top of tiny-skia
+2026-11-21T04:07:40.777678Z,taim_wgpu,0.15.0-rc.1,0,0,https://github.com/theaimartco/taim,A renderer for taim on top of wgpu
+2026-11-21T04:09:48.948144Z,avectes-dioxus-i18n,0.6.0,0,0,https://github.com/dioxus-community/dioxus-i18n,i18n integration for Dioxus apps based on Fluent Project.
+2026-11-21T04:12:57.234887Z,bitcoinleveldb-modeldb,0.2.0,0,0,https://github.com/klebs6/bitcoin-rs,An in-memory reference database used by LevelDB comparison tests.
+2026-11-21T04:16:49.46273Z,sad-web-push,0.12.0,0,0,https://github.com/sadco-io/sad-web-push,"Web push notification client with pure-Rust HTTP-ECE encryption, VAPID authentication, and modern HTTP/TLS transports: a maintained fork of web-push."
+2026-11-21T04:16:53.84875Z,rar4,0.1.1,0,0,https://gitlab.com/arcturus8081/minipro-rs,"Pure-Rust decoder for RAR4 archives, derived from libarchive's BSD-2-Clause RAR reader"

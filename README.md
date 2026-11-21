@@ -8,70 +8,54 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-21 03:20 UTC
+## Latest list — 2026-11-21 04:18 UTC
 
-New crates published between 2026-11-21 02:19 UTC and 2026-11-21 03:20 UTC.
+New crates published between 2026-11-21 03:20 UTC and 2026-11-21 04:18 UTC.
 
-[Full CSV](data/new-crates-2026-11-21T03-20-34-068591Z.csv)
+[Full CSV](data/new-crates-2026-11-21T04-18-41-287142Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-21 02:19:15 | [omni-io](https://crates.io/crates/omni-io) | 0.1.0 | 0 | Linux io_uring seam over raw syscalls — the K2 doorbell I/O surface (REQ-OS-004… |
-| 2026-11-21 02:19:22 | [omni-tick](https://crates.io/crates/omni-tick) | 0.1.0 | 0 | Fixed-width tick record + append-only segment store — the HFT data plane's data… |
-| 2026-11-21 02:19:33 | [factomic-derive](https://crates.io/crates/factomic-derive) | 0.1.0 | 0 | Derive macros for factomic's typed entity schemas and handles |
-| 2026-11-21 02:19:40 | [omni-md](https://crates.io/crates/omni-md) | 0.1.0 | 0 | Market-data pipeline: ingest -> decode -> fan-out -> persist seams (ADR-0017, t… |
-| 2026-11-21 02:19:53 | [factomic](https://crates.io/crates/factomic) | 0.1.0 | 0 | Unitemporal, embedded fact database backed by fjall with typed entity handles a… |
-| 2026-11-21 02:21:03 | [avectes-dioxus-stores](https://crates.io/crates/avectes-dioxus-stores) | 0.7.10 | 0 | Server function macros for Dioxus |
-| 2026-11-21 02:21:50 | [omni-md-server](https://crates.io/crates/omni-md-server) | 0.1.0 | 0 | The HFT data plane's HTTP surface: tick query endpoints over the omni-md pipeli… |
-| 2026-11-21 02:22:57 | [bitcoinleveldb-tablecache](https://crates.io/crates/bitcoinleveldb-tablecache) | 0.2.0 | 0 | Cache of opened LevelDB table files and their readers. |
-| 2026-11-21 02:23:09 | [kwavers-simulation](https://crates.io/crates/kwavers-simulation) | 3.0.0 | 0 | Simulation orchestration for kwavers: builders, runners, multi-physics coupling… |
-| 2026-11-21 02:28:32 | [shader-slang-src-external-004](https://crates.io/crates/shader-slang-src-external-004) | 1.0.0 | 0 | Shader Slang source partition external-004 |
-| 2026-11-21 02:29:50 | [jubarte](https://crates.io/crates/jubarte) | 0.0.0 | 0 | Name reserved for the jubarte Word document engine; the first release is 0.19.0 |
-| 2026-11-21 02:29:52 | [jubarte-dom](https://crates.io/crates/jubarte-dom) | 0.0.0 | 0 | Name reserved for the jubarte Word document engine; the first release is 0.19.0 |
-| 2026-11-21 02:29:54 | [jubarte-opc](https://crates.io/crates/jubarte-opc) | 0.0.0 | 0 | Name reserved for the jubarte Word document engine; the first release is 0.19.0 |
-| 2026-11-21 02:29:56 | [jubarte-render](https://crates.io/crates/jubarte-render) | 0.0.0 | 0 | Name reserved for the jubarte Word document engine; the first release is 0.19.0 |
-| 2026-11-21 02:29:58 | [jubarte-doc](https://crates.io/crates/jubarte-doc) | 0.0.0 | 0 | Name reserved for the jubarte Word document engine; the first release is 0.19.0 |
-| 2026-11-21 02:30:46 | [agentos-executor-wasm-v8](https://crates.io/crates/agentos-executor-wasm-v8) | 0.5.0-rc.3 | 0 | WebAssembly executor hosted by the agentOS V8 runtime |
-| 2026-11-21 02:31:13 | [avectes-dioxus-html](https://crates.io/crates/avectes-dioxus-html) | 0.7.10 | 0 | HTML Element pack for Dioxus - a concurrent renderer-agnostic Virtual DOM for i… |
-| 2026-11-21 02:31:35 | [agentos-executor-wasm-wasmtime](https://crates.io/crates/agentos-executor-wasm-wasmtime) | 0.5.0-rc.3 | 0 | Wasmtime standalone WebAssembly executor for agentOS |
-| 2026-11-21 02:32:56 | [bitcoinleveldb-tableconstructor](https://crates.io/crates/bitcoinleveldb-tableconstructor) | 0.2.0 | 0 | An in-memory table-construction fixture for LevelDB iterator tests. |
-| 2026-11-21 02:33:18 | [kwavers-therapy](https://crates.io/crates/kwavers-therapy) | 3.0.0 | 0 | Clinical therapy + care-delivery for kwavers: HIFU/histotripsy/lithotripsy plan… |
-| 2026-11-21 02:38:08 | [netrender-sparse](https://crates.io/crates/netrender-sparse) | 0.3.0 | 0 | Netrender's Vello sparse strips 0.3 core: geometry processing and tiling shared… |
-| 2026-11-21 02:38:09 | [netrender-wesl](https://crates.io/crates/netrender-wesl) | 0.3.0 | 0 | Netrender's Vello sparse strips 0.3 WESL shaders, linked to WGSL and GLSL for t… |
-| 2026-11-21 02:38:10 | [netrender-glifo](https://crates.io/crates/netrender-glifo) | 0.4.0 | 0 | Netrender's Glifo 0.4 text rendering APIs for the Vello sparse strips renderers… |
-| 2026-11-21 02:38:12 | [netrender-cpu](https://crates.io/crates/netrender-cpu) | 0.3.0 | 0 | Netrender's Vello sparse strips 0.3 CPU renderer, optimized for SIMD and multit… |
-| 2026-11-21 02:38:13 | [netrender-gpu](https://crates.io/crates/netrender-gpu) | 0.3.0 | 0 | Netrender's Vello sparse strips 0.3 GPU renderer with CPU-side preprocessing, b… |
-| 2026-11-21 02:38:31 | [shader-slang-src](https://crates.io/crates/shader-slang-src) | 1.0.0 | 0 | Vendored shader-slang source and build artifacts |
-| 2026-11-21 02:40:20 | [jubarte-markdown](https://crates.io/crates/jubarte-markdown) | 0.0.0 | 0 | Name reserved for the jubarte Word document engine; the first release is 0.19.0 |
-| 2026-11-21 02:41:23 | [avectes-dioxus-document](https://crates.io/crates/avectes-dioxus-document) | 0.7.10 | 0 | CLI Configuration for dioxus-cli |
-| 2026-11-21 02:42:57 | [bitcoinleveldb-versionsetinterface](https://crates.io/crates/bitcoinleveldb-versionsetinterface) | 0.2.0 | 0 | Traits connecting LevelDB versions, compaction, and file-number allocation. |
-| 2026-11-21 02:43:16 | [kwavers](https://crates.io/crates/kwavers) | 3.0.0 | 0 | Ultrasound Simulation Toolbox with Cavitation and Light Physics |
-| 2026-11-21 02:49:24 | [egui_mineral_mcp](https://crates.io/crates/egui_mineral_mcp) | 0.0.0 | 0 | Placeholder for egui_mineral_mcp, part of the egui_mineral UI framework; releas… |
-| 2026-11-21 02:49:33 | [shader-slang-dev](https://crates.io/crates/shader-slang-dev) | 1.0.0 | 0 | Locate an installed shader-slang toolchain, or build the vendored source with t… |
-| 2026-11-21 02:50:43 | [jubarte-edit](https://crates.io/crates/jubarte-edit) | 0.0.0 | 0 | Name reserved for the jubarte Word document engine; the first release is 0.19.0 |
-| 2026-11-21 02:52:20 | [candle-kernels-fathomdb](https://crates.io/crates/candle-kernels-fathomdb) | 0.13.0 | 0 | FathomDB fork of Candle CUDA kernels with static runtime linkage and qualified… |
-| 2026-11-21 02:52:57 | [bitcoinleveldb-versionsetutil](https://crates.io/crates/bitcoinleveldb-versionsetutil) | 0.2.0 | 0 | Helpers used by LevelDB version management and compaction selection. |
-| 2026-11-21 02:55:54 | [libarchive-rs](https://crates.io/crates/libarchive-rs) | 0.1.0 | 0 | Pure-Rust decoder for RAR4 archives, derived from libarchive's BSD-2-Clause RAR… |
-| 2026-11-21 02:57:23 | [minipro-core](https://crates.io/crates/minipro-core) | 0.13.0 | 0 | Core library for talking to XGecu/MiniPro TL866-family USB chip programmers — d… |
-| 2026-11-21 02:58:19 | [solascope-core](https://crates.io/crates/solascope-core) | 0.1.0 | 0 | Shared types, provider traits, and index interfaces for SolaScope code search |
-| 2026-11-21 02:58:23 | [solascope-config](https://crates.io/crates/solascope-config) | 0.1.0 | 0 | Layered configuration and isolated credentials for SolaScope code search |
-| 2026-11-21 02:58:25 | [solascope-parser](https://crates.io/crates/solascope-parser) | 0.1.0 | 0 | Tree-sitter code definitions and source chunking for SolaScope code search |
-| 2026-11-21 02:58:27 | [solascope-storage](https://crates.io/crates/solascope-storage) | 0.1.0 | 0 | SQLite generations, full-text search, and vector storage for SolaScope code sea… |
-| 2026-11-21 02:58:34 | [solascope-models](https://crates.io/crates/solascope-models) | 0.1.0 | 0 | Embedding and reranking provider adapters for SolaScope code search |
-| 2026-11-21 03:00:17 | [avectes-dioxus-fullstack-core](https://crates.io/crates/avectes-dioxus-fullstack-core) | 0.7.10 | 0 | Hooks for serializing futures, values in dioxus-fullstack and other utilities |
-| 2026-11-21 03:00:55 | [tape-peer](https://crates.io/crates/tape-peer) | 0.5.7 | 0 | A decentralized object store using Solana. |
-| 2026-11-21 03:01:05 | [jubarte-cli](https://crates.io/crates/jubarte-cli) | 0.0.0 | 0 | Name reserved for the jubarte Word document engine; the first release is 0.19.0 |
-| 2026-11-21 03:02:57 | [bitcoinleveldb-writebatch](https://crates.io/crates/bitcoinleveldb-writebatch) | 0.2.0 | 0 | C-API-style write-batch handles for the bitcoin-rs LevelDB port. LevelDBWriteBa… |
-| 2026-11-21 03:07:44 | [agentos-vm](https://crates.io/crates/agentos-vm) | 0.5.0-rc.3 | 0 | agentOS VM orchestration, kernel composition, and execution coordination |
-| 2026-11-21 03:09:26 | [agentos-actor-contract](https://crates.io/crates/agentos-actor-contract) | 0.5.0-rc.3 | 0 | Generated-contract transport support for the static agentOS actor |
-| 2026-11-21 03:09:38 | [agentos-preload](https://crates.io/crates/agentos-preload) | 0.5.0-rc.3 | 0 | Process-level package preload service and coordinator actor for agentOS |
-| 2026-11-21 03:09:49 | [agentos-actor](https://crates.io/crates/agentos-actor) | 0.5.0-rc.3 | 0 | Static Rust RivetKit actor for the hosted agentOS API |
-| 2026-11-21 03:10:28 | [avectes-dioxus-fullstack](https://crates.io/crates/avectes-dioxus-fullstack) | 0.7.10 | 0 | Library for fetching resources from servers in Dioxus apps. |
-| 2026-11-21 03:12:57 | [bitcoinleveldbt-mockversionset](https://crates.io/crates/bitcoinleveldbt-mockversionset) | 0.2.0 | 0 | Mock version-set support used by the LevelDB port's fixtures. |
-| 2026-11-21 03:18:21 | [skald-vcs-core](https://crates.io/crates/skald-vcs-core) | 0.1.0 | 0 | Object format and storage engine for Skald |
-| 2026-11-21 03:18:25 | [skald-vcs-client](https://crates.io/crates/skald-vcs-client) | 0.1.0 | 0 | Offline working copies and synchronization for Skald |
-| 2026-11-21 03:18:29 | [skald-vcs-server](https://crates.io/crates/skald-vcs-server) | 0.1.0 | 0 | Repository hosting and synchronization primitives for Skald |
-| 2026-11-21 03:18:35 | [skald-vcs-cli](https://crates.io/crates/skald-vcs-cli) | 0.1.0 | 0 | Skald command-line client |
+| 2026-11-21 03:20:38 | [avectes-dioxus-router](https://crates.io/crates/avectes-dioxus-router) | 0.7.3 | 0 | Cross-platform router for Dioxus apps |
+| 2026-11-21 03:21:48 | [zeno-adp](https://crates.io/crates/zeno-adp) | 0.1.0 | 0 | Algebraic dynamic programming over ranked tree grammars |
+| 2026-11-21 03:22:57 | [bitcoinleveldb-dbimplwriter](https://crates.io/crates/bitcoinleveldb-dbimplwriter) | 0.2.0 | 0 | Per-writer queue state for LevelDB's database write path. |
+| 2026-11-21 03:26:28 | [fx-logger](https://crates.io/crates/fx-logger) | 1.0.0 | 0 | A PostgreSQL-backed cash rate logger |
+| 2026-11-21 03:30:49 | [avectes-dioxus-web](https://crates.io/crates/avectes-dioxus-web) | 0.7.10 | 0 | Web-sys renderer for Dioxus: Build fullstack web, desktop, and mobile apps with… |
+| 2026-11-21 03:32:44 | [solascope-scanner](https://crates.io/crates/solascope-scanner) | 0.1.0 | 0 | Root-confined source discovery, ignore rules, and file watching for SolaScope |
+| 2026-11-21 03:32:48 | [solascope-engine](https://crates.io/crates/solascope-engine) | 0.1.0 | 0 | Shared indexing and lexical, symbol, and semantic retrieval engine for SolaScope |
+| 2026-11-21 03:32:52 | [solascope-cli](https://crates.io/crates/solascope-cli) | 0.1.0 | 0 | Local-first code search CLI and MCP server with lexical, symbol, and semantic r… |
+| 2026-11-21 03:32:56 | [bitcoinleveldb-dbinterface](https://crates.io/crates/bitcoinleveldb-dbinterface) | 0.2.0 | 0 | Operation traits for LevelDB-style databases. |
+| 2026-11-21 03:33:18 | [wavegraph-sample](https://crates.io/crates/wavegraph-sample) | 0.1.0 | 0 | PCM audio sample types, traits and conversions, forked from `dasp_sample` with… |
+| 2026-11-21 03:37:45 | [wavegraph](https://crates.io/crates/wavegraph) | 0.1.0 | 0 | Pure Data-like embedded-oriented graph-based synthesis engine |
+| 2026-11-21 03:39:09 | [tygr-uri](https://crates.io/crates/tygr-uri) | 0.1.0 | 0 | The URI generic syntax of RFC 3986, written as tygr types: a parser, a printer,… |
+| 2026-11-21 03:42:56 | [bitcoinleveldb-compaction](https://crates.io/crates/bitcoinleveldb-compaction) | 0.2.0 | 0 | Compaction plans and bookkeeping for the LevelDB storage engine. |
+| 2026-11-21 03:45:28 | [partition-graph](https://crates.io/crates/partition-graph) | 0.1.0 | 0 | Partition graphs: the distinction graph of a partition, and directed acyclic gr… |
+| 2026-11-21 03:45:35 | [vtty_core](https://crates.io/crates/vtty_core) | 0.2.0 | 0 | The irreducible core of vtty: the Perform contract, model types, and the State… |
+| 2026-11-21 03:47:02 | [imgio](https://crates.io/crates/imgio) | 0.0.0 | 0 | Pure Rust image and GPU texture codecs: BC1-BC7, ASTC, UASTC, Basis Universal t… |
+| 2026-11-21 03:47:32 | [iced-squircle](https://crates.io/crates/iced-squircle) | 1.0.0 | 0 | Squircle (superellipse-cornered) surfaces for iced. |
+| 2026-11-21 03:49:28 | [avectes-dioxus-server](https://crates.io/crates/avectes-dioxus-server) | 0.7.3 | 0 | Fullstack utilities for Dioxus: Build fullstack web, desktop, and mobile apps w… |
+| 2026-11-21 03:50:31 | [vtty_status](https://crates.io/crates/vtty_status) | 0.2.0 | 0 | OSC 7501 Program Status Protocol for vtty: the ProgramStatus codec and the Perf… |
+| 2026-11-21 03:51:31 | [vtty_width](https://crates.io/crates/vtty_width) | 0.2.0 | 0 | Zero-allocation, panic-free DEC VT500 terminal parser with UTF-8 decoding and n… |
+| 2026-11-21 03:52:57 | [bitcoinleveldb-dbiter](https://crates.io/crates/bitcoinleveldb-dbiter) | 0.2.0 | 0 | User-visible database iteration over LevelDB internal keys. DBIter filters entr… |
+| 2026-11-21 03:54:07 | [vtty_grapheme](https://crates.io/crates/vtty_grapheme) | 0.2.0 | 0 | Zero-allocation, panic-free DEC VT500 terminal parser with UTF-8 decoding and n… |
+| 2026-11-21 03:54:41 | [vex-hal-macros](https://crates.io/crates/vex-hal-macros) | 0.1.0 | 0 | proc macros for vex-hal |
+| 2026-11-21 03:54:43 | [remote-pbcopy](https://crates.io/crates/remote-pbcopy) | 1.0.1 | 0 | pbcopy for remote sessions: copies stdin to your local clipboard via OSC 52, ov… |
+| 2026-11-21 03:55:13 | [vtty_codec](https://crates.io/crates/vtty_codec) | 0.2.0 | 0 | Compact, `no_std`, panic-free binary serialization. |
+| 2026-11-21 03:55:26 | [vtty_screen](https://crates.io/crates/vtty_screen) | 0.2.0 | 0 | A minimal cell-grid terminal screen for vtty: grid, cursor, SGR, scrolling and… |
+| 2026-11-21 03:56:40 | [vex-hal](https://crates.io/crates/vex-hal) | 0.2.1 | 0 | Rust runtime for VEX V5 and EXP robots |
+| 2026-11-21 03:57:18 | [apparatus-core](https://crates.io/crates/apparatus-core) | 0.1.0 | 0 | Runtime-independent bounded observations, loss accounting, and read-only inspec… |
+| 2026-11-21 03:59:38 | [avectes-dioxus](https://crates.io/crates/avectes-dioxus) | 0.7.3 | 0 | Build fullstack web, desktop, and mobile apps with a single codebase. |
+| 2026-11-21 03:59:49 | [gpui-material-design-symbols](https://crates.io/crates/gpui-material-design-symbols) | 0.1.2 | 0 | Complete Material Symbols catalog and variable icon outlines for GPUI applicati… |
+| 2026-11-21 04:02:57 | [bitcoinleveldb-dbiterstate](https://crates.io/crates/bitcoinleveldb-dbiterstate) | 0.2.0 | 0 | Iterator cleanup state for retained LevelDB memtables and versions. |
+| 2026-11-21 04:07:32 | [taim_graphics](https://crates.io/crates/taim_graphics) | 0.15.0-rc.1 | 0 | A bunch of backend-agnostic types that can be leveraged to build a renderer for… |
+| 2026-11-21 04:07:33 | [taim_text_gpu](https://crates.io/crates/taim_text_gpu) | 0.15.0-rc.1 | 0 | TAIM's bounded, allocation-conscious GPU glyph engine |
+| 2026-11-21 04:07:36 | [taim-design](https://crates.io/crates/taim-design) | 0.15.0-rc.1 | 0 | Token-driven production design contracts for Taim |
+| 2026-11-21 04:07:38 | [taim_tiny_skia](https://crates.io/crates/taim_tiny_skia) | 0.15.0-rc.1 | 0 | A software renderer for taim on top of tiny-skia |
+| 2026-11-21 04:07:40 | [taim_wgpu](https://crates.io/crates/taim_wgpu) | 0.15.0-rc.1 | 0 | A renderer for taim on top of wgpu |
+| 2026-11-21 04:09:48 | [avectes-dioxus-i18n](https://crates.io/crates/avectes-dioxus-i18n) | 0.6.0 | 0 | i18n integration for Dioxus apps based on Fluent Project. |
+| 2026-11-21 04:12:57 | [bitcoinleveldb-modeldb](https://crates.io/crates/bitcoinleveldb-modeldb) | 0.2.0 | 0 | An in-memory reference database used by LevelDB comparison tests. |
+| 2026-11-21 04:16:49 | [sad-web-push](https://crates.io/crates/sad-web-push) | 0.12.0 | 0 | Web push notification client with pure-Rust HTTP-ECE encryption, VAPID authenti… |
+| 2026-11-21 04:16:53 | [rar4](https://crates.io/crates/rar4) | 0.1.1 | 0 | Pure-Rust decoder for RAR4 archives, derived from libarchive's BSD-2-Clause RAR… |
 
 ## Data source
 
