@@ -1,0 +1,35 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-21T16:24:28.075472Z,horsies-core-derive,0.8.0,0,0,https://github.com/suleymanozkeskin/horsies,Derives of horsies-core for its code catalogs and manifest types
+2026-11-21T16:25:54.781381Z,horsies-core,0.8.0,0,0,https://github.com/suleymanozkeskin/horsies,"Shared core of the horsies task queue and workflow engine, used by the horsies clients"
+2026-11-21T16:27:06.668427Z,bpmnkit-profiles,0.6.1,0,0,https://github.com/bpmnkit/bpmnkit,Profile store paths and casen-to-bpmnkit copy migration for the BPMN Kit CLI (Rust twin of @bpmnkit/profiles' config lookup)
+2026-11-21T16:27:40.658876Z,bpmnkit-worker,0.6.1,0,0,https://github.com/bpmnkit/bpmnkit,"Camunda 8 job worker runtime over the REST /v2 API: activate/complete/fail/error/update client, OAuth2, a bounded polling loop with backoff, graceful drain, metrics and test doubles"
+2026-11-21T16:28:07.223583Z,bpmnkit-connector-runtime,0.6.1,0,0,https://github.com/bpmnkit/bpmnkit,"Local runner for Camunda 8 REST connector jobs (io.camunda:http-json:1): secrets, FEEL result/error expressions, auth, on top of bpmnkit-worker"
+2026-11-21T16:28:33.528216Z,bpmnkit-jobspec,0.6.1,0,0,https://github.com/bpmnkit/bpmnkit,"Job worker IR for BPMN Kit: extracts job types from BPMN, binds OpenAPI operations, classifies each job as connector, REST or worker"
+2026-11-21T16:28:59.146019Z,bpmnkit-codegen,0.6.1,0,0,https://github.com/bpmnkit/bpmnkit,"Deterministic job worker code generation for BPMN Kit: target-agnostic emitters, write/check helpers, Java (Maven) target"
+2026-11-21T16:29:51.653318Z,tree-sitter-tessariql,0.1.0,0,0,https://github.com/tessaridb/tessariql-lsp,"Tree-sitter TessariQL grammar — error-tolerant parsing for the TessariQL language server, validated against an engine statement corpus"
+2026-11-21T16:29:59.157427Z,mustache-ng,0.10.0,0,0,https://github.com/dmealing/rust-mustache,Rust implementation of Mustache (maintained fork of the mustache crate)
+2026-11-21T16:30:25.272536Z,git-graft,0.1.0,0,0,https://github.com/mprync/git-graft,"Faster, lighter replacement for git worktree, built for coding agents"
+2026-11-21T16:32:08.751002Z,bpmnkit-connectors,0.6.1,0,0,https://github.com/bpmnkit/bpmnkit,Connector element templates for BPMN Kit: generate them from OpenAPI/Swagger specs and bind them onto BPMN elements (Rust twin of @bpmnkit/connector-gen and core's applyTemplateToElement)
+2026-11-21T16:39:50.424632Z,tessariql-lsp,0.1.0,0,0,https://github.com/tessaridb/tessariql-lsp,Binary of the TessariQL language server: the LSP adapter and composition root
+2026-11-21T16:42:10.031038Z,bpmnkit-cli,0.6.1,0,0,https://github.com/bpmnkit/bpmnkit,"The bpmnkit command line (alias casen): native commands, subprocess plugins, legacy Node fallback"
+2026-11-21T16:48:34.998237Z,parsec-js,0.0.0,0,0,https://github.com/parsec-html/parsec,Reserved for Parsec (github.com/parsec-html/parsec). The first release comes with Parsec 0.3.0.
+2026-11-21T16:48:36.887688Z,parsec-xml,0.0.0,0,0,https://github.com/parsec-html/parsec,Reserved for Parsec (github.com/parsec-html/parsec). The first release comes with Parsec 0.3.0.
+2026-11-21T16:48:38.644164Z,parsec-base,0.0.0,0,0,https://github.com/parsec-html/parsec,Reserved for Parsec (github.com/parsec-html/parsec). The first release comes with Parsec 0.3.0.
+2026-11-21T16:49:25.678212Z,embedded-bitcoin-rpc,0.1.0,0,0,https://github.com/GPTechinno/embedded-bitcoin-rpc,no_std client of a Bitcoin node's JSON-RPC interface: streamed getblocktemplate and submitblock
+2026-11-21T16:50:48.44606Z,redpoint,0.1.0,0,0,,A formal verification tool
+2026-11-21T17:01:25.791879Z,rtbgen,0.1.0,0,0,https://github.com/rsbid/rtbgen,"Deterministic OpenRTB 2.5/2.6 bid request generator for tests, fuzzing and load tests"
+2026-11-21T17:02:01.831172Z,sad-vibes,0.2.0,0,0,https://github.com/charly-vibes/sad,Documentation gate — code should speak for itself; prose means refactor
+2026-11-21T17:02:29.444648Z,fe11-tests,0.1.1,0,0,https://github.com/BorealCryptosystems/fe11,Public API and SoftHSM interoperability tests for Fe11
+2026-11-21T17:07:31.291827Z,jpcl,2.0.0,0,0,https://github.com/jpcl-lang/jpcl,A hybrid JSON/TOML configuration language (.jp files)
+2026-11-21T17:08:14.430864Z,datum-client,0.1.0,0,0,https://github.com/GPTechinno/datum-client-rs,"no_std client of the DATUM protocol, the encrypted link between a DATUM gateway and its pool"
+2026-11-21T17:09:30.417877Z,ruml-parser,0.3.0,0,0,,"Parser, validator and rule engine for RUML (Rulemapping Logic Format) files"
+2026-11-21T17:12:46.03138Z,gitnext-core,0.3.2,0,0,https://github.com/pnnnx/gitnext,Git repository access layer for gitnext
+2026-11-21T17:12:47.124186Z,gitnext-parse,0.3.2,0,0,https://github.com/pnnnx/gitnext,"Tree-sitter parsers that extract functions, types and calls for gitnext"
+2026-11-21T17:12:49.629633Z,gitnext-index,0.3.2,0,0,https://github.com/pnnnx/gitnext,Incremental SQLite index of symbols and the call graph for gitnext
+2026-11-21T17:12:52.016523Z,gitnext-docs,0.3.2,0,0,https://github.com/pnnnx/gitnext,Code map generation for gitnext
+2026-11-21T17:12:55.178485Z,gitnext-ops,0.3.2,0,0,https://github.com/pnnnx/gitnext,"Symbol-level operations for gitnext: look, rename, impact, tests-for"
+2026-11-21T17:16:04.978298Z,cli_contracts_runtime,0.36.0,0,0,https://github.com/foo-log-inc/cli-contracts,"Rust runtime for the programs and command wrappers cli-contracts generates from a CLI contract: commander-compatible argument parsing, help, policy derivation and the built-in extract command."
+2026-11-21T17:16:11.596641Z,ikigai-classify,0.2.0,0,0,https://github.com/ikigai-rs/ikigai-classify,"Classifiers as resources for ikigai: one contract, urn:iki:classify:{c}:answer, over interchangeable backends chosen by configuration."
+2026-11-21T17:18:36.933Z,giong-grpc-build,1.1.0,0,0,https://github.com/giong-run/Giong,"Generates giong-proto views and gRPC service descriptions from .proto files at build time, with no protoc to install"
+2026-11-21T17:18:38.181756Z,giong-proto,1.1.0,0,0,https://github.com/giong-run/Giong,"Protocol Buffers for giong: messages decoded as views over the receive buffer, with no copies and no allocation per field"
+2026-11-21T17:18:49.896289Z,giong-grpc,1.1.0,0,0,https://github.com/giong-run/Giong,"gRPC for the giong thread-per-core runtime: servers and clients over giong-http's HTTP/2, messages read as giong-proto views without copies"
