@@ -8,46 +8,50 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-21 05:19 UTC
+## Latest list — 2026-11-21 06:18 UTC
 
-New crates published between 2026-11-21 04:18 UTC and 2026-11-21 05:19 UTC.
+New crates published between 2026-11-21 05:19 UTC and 2026-11-21 06:18 UTC.
 
-[Full CSV](data/new-crates-2026-11-21T05-19-32-937586Z.csv)
+[Full CSV](data/new-crates-2026-11-21T06-18-46-68909Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-21 04:19:30 | [taim_renderer](https://crates.io/crates/taim_renderer) | 0.15.0-rc.1 | 0 | The official renderer for taim |
-| 2026-11-21 04:19:59 | [avectes-dioxus-sdk-time](https://crates.io/crates/avectes-dioxus-sdk-time) | 0.7.0 | 0 | Timing utilities and hooks for Dioxus. |
-| 2026-11-21 04:20:45 | [eoka-solvers](https://crates.io/crates/eoka-solvers) | 0.1.0 | 0 | Optional CAPTCHA solvers for eoka: Anti-Captcha provider, local DataDome slider… |
-| 2026-11-21 04:22:57 | [bitcoinleveldbt-versionsettestutil](https://crates.io/crates/bitcoinleveldbt-versionsettestutil) | 0.2.0 | 0 | Reusable version-set fixtures and observations for compaction, recovery and lif… |
-| 2026-11-21 04:25:27 | [markliers-core](https://crates.io/crates/markliers-core) | 0.0.0 | 0 | Placeholder for markliers-core (foundation: SyntaxKind, hash, ParseError, EditI… |
-| 2026-11-21 04:25:57 | [markliers-parser](https://crates.io/crates/markliers-parser) | 0.0.0 | 0 | Placeholder for markliers-parser (Markdown parser) of the markliers Markdown to… |
-| 2026-11-21 04:26:12 | [markliers-cst](https://crates.io/crates/markliers-cst) | 0.0.0 | 0 | Placeholder for markliers-cst (CST construction and incremental parsing) of the… |
-| 2026-11-21 04:26:18 | [markliers-html](https://crates.io/crates/markliers-html) | 0.0.0 | 0 | Placeholder for markliers-html (HTML renderer) of the markliers Markdown toolki… |
-| 2026-11-21 04:26:27 | [markliers-fmt](https://crates.io/crates/markliers-fmt) | 0.0.0 | 0 | Placeholder for markliers-fmt (Markdown formatter) of the markliers Markdown to… |
-| 2026-11-21 04:28:51 | [openapi-axum-scopes](https://crates.io/crates/openapi-axum-scopes) | 0.1.0 | 0 | Enforce OpenAPI OAuth2 security scopes via Axum middleware / path registry |
-| 2026-11-21 04:29:10 | [taim-view](https://crates.io/crates/taim-view) | 0.15.0-rc.1 | 0 | The TAIM view contract: signal-driven views without message types |
-| 2026-11-21 04:32:57 | [bitcoinleveldb-versionset](https://crates.io/crates/bitcoinleveldb-versionset) | 0.2.0 | 0 | Manages LevelDB's current and retained SSTable versions, MANIFEST edits, file-n… |
-| 2026-11-21 04:38:44 | [avectes-toolbox](https://crates.io/crates/avectes-toolbox) | 0.1.0-rc.1 | 0 | Public UI and authentication presentation types used by Avectes.rs |
-| 2026-11-21 04:39:36 | [rembro](https://crates.io/crates/rembro) | 0.1.0 | 0 | Open a browser that uses the network of an SSH host, container, sandbox or Kube… |
-| 2026-11-21 04:39:39 | [taim-accessibility](https://crates.io/crates/taim-accessibility) | 0.15.0-rc.1 | 0 | Retained, incremental semantic engine and platform adapters for Taim |
-| 2026-11-21 04:42:56 | [bitcoinleveldb-dbimplinner](https://crates.io/crates/bitcoinleveldb-dbimplinner) | 0.2.0 | 0 | Internal background-compaction and coordination helpers for the bitcoin-rs Leve… |
-| 2026-11-21 04:43:44 | [carrier-core](https://crates.io/crates/carrier-core) | 0.0.1 | 0 | Shared foundation of the wbci and spri crates (German carrier interfaces): carr… |
-| 2026-11-21 04:46:12 | [favicons](https://crates.io/crates/favicons) | 1.0.0 | 0 | Privacy-first favicon and logo API: any site's icon as a clean, sandboxed SVG w… |
-| 2026-11-21 04:48:23 | [keep-ram-clean](https://crates.io/crates/keep-ram-clean) | 2.2.0 | 0 | Configurable Linux RAM, tmpfs, swap, and memory-pressure management daemon and… |
-| 2026-11-21 04:48:48 | [taim-platform-vyom](https://crates.io/crates/taim-platform-vyom) | 0.15.0-rc.1 | 0 | Native Wayland platform backend for the VYOM compositor |
-| 2026-11-21 04:48:55 | [avectes](https://crates.io/crates/avectes) | 0.1.0-rc.1 | 0 | Avectes.rs: a small Dioxus-based application framework |
-| 2026-11-21 04:52:56 | [bitcoinleveldb-dbimpl](https://crates.io/crates/bitcoinleveldb-dbimpl) | 0.2.0 | 0 | The persistent LevelDB database implementation behind the DB operation traits. |
-| 2026-11-21 04:58:28 | [taim_runtime](https://crates.io/crates/taim_runtime) | 0.15.0-rc.1 | 0 | A renderer-agnostic runtime for taim |
-| 2026-11-21 05:01:13 | [formalmethods](https://crates.io/crates/formalmethods) | 0.1.0 | 0 | Formal methods for software testing: LTL evaluation on traces, Kripke model che… |
-| 2026-11-21 05:02:47 | [orecchiette-fpv-drone-analog-rs](https://crates.io/crates/orecchiette-fpv-drone-analog-rs) | 0.9.1 | 0 | Analog FPV drone video signal detection via FM demodulation and spectral sync-p… |
-| 2026-11-21 05:02:57 | [bitcoinleveldb-dbconstructor](https://crates.io/crates/bitcoinleveldb-dbconstructor) | 0.2.0 | 0 | Database-backed construction fixtures for the LevelDB comparison harness. |
-| 2026-11-21 05:04:23 | [outofmemory](https://crates.io/crates/outofmemory) | 0.1.0 | 0 | Context engineering toolkit for LLM agents backed by a Palantir-style ontology… |
-| 2026-11-21 05:08:32 | [taim_widget](https://crates.io/crates/taim_widget) | 0.15.0-rc.1 | 0 | The built-in widgets for taim |
-| 2026-11-21 05:11:12 | [femacs](https://crates.io/crates/femacs) | 0.0.1 | 0 | Command-line launcher for the Fe editor on macOS |
-| 2026-11-21 05:11:37 | [openfrp-cli](https://crates.io/crates/openfrp-cli) | 0.1.0 | 0 | Community-developed command-line client for OpenFRP |
-| 2026-11-21 05:12:57 | [bitcoinleveldbt-bench](https://crates.io/crates/bitcoinleveldbt-bench) | 0.2.0 | 0 | Benchmark workloads for the LevelDB port, with a separate SQLite comparison imp… |
-| 2026-11-21 05:18:26 | [taim_winit](https://crates.io/crates/taim_winit) | 0.15.0-rc.1 | 0 | The TAIM desktop shell, on top of winit |
+| 2026-11-21 05:22:56 | [bitcoinleveldbt-util](https://crates.io/crates/bitcoinleveldbt-util) | 0.2.0 | 0 | Shared test helpers for the LevelDB regression crates. |
+| 2026-11-21 05:28:13 | [taim](https://crates.io/crates/taim) | 0.15.0-rc.1 | 0 | Taim.rs: a GPU-native, fine-grained reactive GUI framework for Rust, for deskto… |
+| 2026-11-21 05:28:38 | [telco-interop](https://crates.io/crates/telco-interop) | 0.0.1 | 0 | The German telecom carrier interfaces in one dependency: WBCI (provider switch)… |
+| 2026-11-21 05:32:56 | [bitcoinleveldbt-autocompaction](https://crates.io/crates/bitcoinleveldbt-autocompaction) | 0.2.0 | 0 | Read-driven compaction regression tests and deterministic progress observations. |
+| 2026-11-21 05:33:48 | [typecase-llm](https://crates.io/crates/typecase-llm) | 0.0.1 | 0 | Codecs for common LLM provider protocols |
+| 2026-11-21 05:33:49 | [typecase](https://crates.io/crates/typecase) | 0.0.1 | 0 | An ACP agent harness for testing LLM provider protocols and codecs |
+| 2026-11-21 05:42:53 | [rehue](https://crates.io/crates/rehue) | 0.1.0 | 0 | Map base16 color schemes and wallpapers onto each other, deterministically |
+| 2026-11-21 05:42:57 | [bitcoinleveldbt-capi](https://crates.io/crates/bitcoinleveldbt-capi) | 0.2.0 | 0 | Integration regression for the LevelDB port's C-API-style Rust functions. |
+| 2026-11-21 05:44:44 | [gliclass-candle](https://crates.io/crates/gliclass-candle) | 0.1.0 | 0 | GLiClass zero-shot text classification in pure Rust with candle, no Python or O… |
+| 2026-11-21 05:52:57 | [bitcoinleveldbt-corruption](https://crates.io/crates/bitcoinleveldbt-corruption) | 0.2.0 | 0 | Database corruption, repair and recovery regressions. |
+| 2026-11-21 05:54:07 | [vigilo](https://crates.io/crates/vigilo) | 0.1.0 | 0 | Distributed evaluation and deployment gating for Generative AI systems. |
+| 2026-11-21 05:54:39 | [chronostack-core](https://crates.io/crates/chronostack-core) | 0.1.0-alpha.8 | 0 | Shared types for ChronoStack: clock page layout, controller API, Compose model… |
+| 2026-11-21 05:54:41 | [chronostack-users](https://crates.io/crates/chronostack-users) | 0.1.0-alpha.8 | 0 | Seeded user journeys for ChronoStack: journey files, arrivals, templating and l… |
+| 2026-11-21 05:54:43 | [chronostack](https://crates.io/crates/chronostack) | 0.1.0-alpha.8 | 0 | Stripe Test Clocks for your Docker Compose stack |
+| 2026-11-21 05:57:48 | [luma-hal-core](https://crates.io/crates/luma-hal-core) | 0.5.0 | 0 | Kernel IR and backend interface of the Luma GPU array library |
+| 2026-11-21 05:57:50 | [luma-hal-cpu](https://crates.io/crates/luma-hal-cpu) | 0.5.0 | 0 | Native SIMD CPU backend of the Luma GPU array library (Cranelift) |
+| 2026-11-21 05:57:51 | [luma-hal-cuda](https://crates.io/crates/luma-hal-cuda) | 0.5.0 | 0 | Native CUDA backend of the Luma GPU array library, compiled through the NVIDIA… |
+| 2026-11-21 05:57:52 | [luma-hal-metal](https://crates.io/crates/luma-hal-metal) | 0.5.0 | 0 | Native Metal backend of the Luma GPU array library |
+| 2026-11-21 05:57:53 | [luma-hal-wgpu](https://crates.io/crates/luma-hal-wgpu) | 0.5.0 | 0 | wgpu (Vulkan, Metal, DX12) backend of the Luma GPU array library |
+| 2026-11-21 05:59:26 | [shotglass](https://crates.io/crates/shotglass) | 0.1.0 | 0 | Compose short films and cartoons from GLSL shaders: shots, transitions and GPU-… |
+| 2026-11-21 06:01:08 | [kasen](https://crates.io/crates/kasen) | 0.0.0 | 0 | Name reserved for a planned Open Gensokyo Network project. |
+| 2026-11-21 06:01:11 | [iku](https://crates.io/crates/iku) | 0.0.0 | 0 | Name reserved for a planned Open Gensokyo Network project. |
+| 2026-11-21 06:02:57 | [bitcoinleveldbt-dbtest](https://crates.io/crates/bitcoinleveldbt-dbtest) | 0.2.0 | 0 | Shared database fixture and core database regressions for the LevelDB port. |
+| 2026-11-21 06:06:38 | [rotameter](https://crates.io/crates/rotameter) | 0.1.0-alpha.1 | 0 | Namespace reservation placeholder for `rotameter`; superseded by the first real… |
+| 2026-11-21 06:06:40 | [rotameter-core](https://crates.io/crates/rotameter-core) | 0.1.0-alpha.1 | 0 | Namespace reservation placeholder for `rotameter-core`; superseded by the first… |
+| 2026-11-21 06:06:42 | [rotameter-store-sqlite](https://crates.io/crates/rotameter-store-sqlite) | 0.1.0-alpha.1 | 0 | Namespace reservation placeholder for `rotameter-store-sqlite`; superseded by t… |
+| 2026-11-21 06:06:44 | [rotameter-server](https://crates.io/crates/rotameter-server) | 0.1.0-alpha.1 | 0 | Namespace reservation placeholder for `rotameter-server`; superseded by the fir… |
+| 2026-11-21 06:06:45 | [rotameter-client](https://crates.io/crates/rotameter-client) | 0.1.0-alpha.1 | 0 | Namespace reservation placeholder for `rotameter-client`; superseded by the fir… |
+| 2026-11-21 06:10:18 | [svlang-model](https://crates.io/crates/svlang-model) | 0.3.0 | 0 | Safe, owned SystemVerilog/UVM/RAL design model on the pure-Rust svlang front end |
+| 2026-11-21 06:10:25 | [rotameter-mcp](https://crates.io/crates/rotameter-mcp) | 0.1.0-alpha.1 | 0 | Namespace reservation placeholder for `rotameter-mcp`; superseded by the first… |
+| 2026-11-21 06:10:29 | [svlang-lint](https://crates.io/crates/svlang-lint) | 0.3.0 | 0 | Static analysis and auto-fix engine for IEEE 1800-2023 SystemVerilog, UVM, and… |
+| 2026-11-21 06:10:38 | [svlang-lsp](https://crates.io/crates/svlang-lsp) | 0.3.0 | 0 | SystemVerilog/UVM language server on the pure-Rust svlang front end: live lint… |
+| 2026-11-21 06:12:14 | [anamnesis-diary](https://crates.io/crates/anamnesis-diary) | 0.6.1 | 0 | A local-first instrument against self-deception: log what you believe and how s… |
+| 2026-11-21 06:12:56 | [bitcoinleveldbt-faultinjection](https://crates.io/crates/bitcoinleveldbt-faultinjection) | 0.2.0 | 0 | Filesystem fault-injection and recovery tests for the LevelDB port. |
+| 2026-11-21 06:12:57 | [ferroreport](https://crates.io/crates/ferroreport) | 0.2.0 | 0 | The fastest JasperReports engine: render JRXML templates to PDF without a JVM,… |
+| 2026-11-21 06:13:04 | [ferroreport-cli](https://crates.io/crates/ferroreport-cli) | 0.2.0 | 0 | Command-line renderer for JasperReports JRXML templates |
 
 ## Data source
 
