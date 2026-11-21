@@ -8,76 +8,43 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-21 21:18 UTC
+## Latest list — 2026-11-21 22:20 UTC
 
-New crates published between 2026-11-21 20:18 UTC and 2026-11-21 21:18 UTC.
+New crates published between 2026-11-21 21:18 UTC and 2026-11-21 22:20 UTC.
 
-[Full CSV](data/new-crates-2026-11-21T21-18-27-327196Z.csv)
+[Full CSV](data/new-crates-2026-11-21T22-20-59-925509Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-21 20:22:33 | [unityrs-mesh](https://crates.io/crates/unityrs-mesh) | 1.0.0 | 0 | Owned, metered Unity mesh geometry and metadata. |
-| 2026-11-21 20:24:18 | [term-font](https://crates.io/crates/term-font) | 0.1.0 | 0 | System font discovery and colour glyph rasterization for rune-term's grid. No R… |
-| 2026-11-21 20:24:22 | [term-control](https://crates.io/crates/term-control) | 0.1.0 | 0 | Control protocol types and helpers for rune-term IPC/CLI. |
-| 2026-11-21 20:24:25 | [term-mux](https://crates.io/crates/term-mux) | 0.1.0 | 0 | What a terminal multiplexer reports, in cells: tmux control mode. |
-| 2026-11-21 20:24:28 | [term-roam](https://crates.io/crates/term-roam) | 0.1.0 | 0 | The roaming link between rune-term and rune-term-agent: a byte stream over QUIC. |
-| 2026-11-21 20:24:42 | [digua_authz](https://crates.io/crates/digua_authz) | 1.6.0 | 0 | RBAC authorization primitives and axum middleware for KudiCoder services |
-| 2026-11-21 20:25:51 | [neotales-dbapi-sqlite-direct](https://crates.io/crates/neotales-dbapi-sqlite-direct) | 0.0.0-alpha.0 | 0 | SQLite provider for neotales-dbapi built directly on rusqlite |
-| 2026-11-21 20:26:12 | [term-cell-grid](https://crates.io/crates/term-cell-grid) | 0.0.1 | 0 | Placeholder for term-grid (its crates.io name is taken). See https://github.com… |
-| 2026-11-21 20:26:55 | [zchat-core](https://crates.io/crates/zchat-core) | 0.1.4 | 0 | Bounded, no_std unified messaging contracts and event journals for zchat |
-| 2026-11-21 20:27:00 | [zchat-plugin-api](https://crates.io/crates/zchat-plugin-api) | 0.1.4 | 0 | Versioned zplugin C ABI for zchat messaging provider plugins |
-| 2026-11-21 20:27:06 | [zchat-providers](https://crates.io/crates/zchat-providers) | 0.1.4 | 0 | Native protocol adapters for the zchat unified messaging platform |
-| 2026-11-21 20:27:23 | [zchat](https://crates.io/crates/zchat) | 0.1.4 | 0 | A native, plugin-based messaging workspace with a unified AI interface |
-| 2026-11-21 20:27:32 | [term-input-rs](https://crates.io/crates/term-input-rs) | 0.0.1 | 0 | Placeholder for term-input (its crates.io name is taken). See https://github.co… |
-| 2026-11-21 20:32:33 | [unityrs-gltf](https://crates.io/crates/unityrs-gltf) | 1.0.0 | 0 | Metered glTF scene model and deterministic streaming GLB writer. |
-| 2026-11-21 20:34:24 | [adaliszk-prelude-macros](https://crates.io/crates/adaliszk-prelude-macros) | 0.1.1 | 0 | Procedural-macro companion for adaliszk-prelude. |
-| 2026-11-21 20:34:44 | [digua_common_event](https://crates.io/crates/digua_common_event) | 1.6.0 | 0 | Transactional outbox and event envelope types for KudiCoder services |
-| 2026-11-21 20:35:53 | [neotales-dbapi-libsql](https://crates.io/crates/neotales-dbapi-libsql) | 0.0.0-alpha.0 | 0 | Remote libSQL/Turso provider for neotales-dbapi |
-| 2026-11-21 20:40:28 | [term-color-picker](https://crates.io/crates/term-color-picker) | 0.0.1 | 0 | Placeholder for color-picker (its crates.io name is taken). See https://github.… |
-| 2026-11-21 20:41:43 | [eggpack-contract](https://crates.io/crates/eggpack-contract) | 0.1.2 | 0 | Versioned portable distribution contract schema for release tooling |
-| 2026-11-21 20:42:33 | [unityrs-export](https://crates.io/crates/unityrs-export) | 1.0.0 | 0 | Unity asset exports beside the textures: sprites, the NGUI atlas cutter and its… |
-| 2026-11-21 20:42:37 | [eggpack-core](https://crates.io/crates/eggpack-core) | 0.1.2 | 0 | Producer-side planning, qualification, local finalization, and manifest aggrega… |
-| 2026-11-21 20:43:09 | [eggpack-bootstrap](https://crates.io/crates/eggpack-bootstrap) | 0.1.2 | 0 | Deterministic first-install shell and PowerShell generator |
-| 2026-11-21 20:43:39 | [eggpack-github](https://crates.io/crates/eggpack-github) | 0.1.2 | 0 | GitHub draft release staging adapter and local staging payload materializer |
-| 2026-11-21 20:43:51 | [ultrafastmov-mcp](https://crates.io/crates/ultrafastmov-mcp) | 0.1.1 | 0 | ultrafast as Model Context Protocol tools: the stdio server behind `uf mcp` and… |
-| 2026-11-21 20:44:41 | [digua_common](https://crates.io/crates/digua_common) | 1.6.0 | 0 | Facade crate re-exporting digua_common-error/digua_common-db/digua_common-crypt… |
-| 2026-11-21 20:46:04 | [eggpack-ci](https://crates.io/crates/eggpack-ci) | 0.1.2 | 0 | Provider-neutral release CI planning and deterministic GitHub Actions rendering |
-| 2026-11-21 20:46:39 | [eggpack-cli](https://crates.io/crates/eggpack-cli) | 0.1.2 | 0 | Deterministic Eggpack CLI for CI generation and release orchestration |
-| 2026-11-21 20:47:58 | [nec2](https://crates.io/crates/nec2) | 0.2.0 | 0 | NEC-2 antenna modeling engine (method of moments for thin wires) |
-| 2026-11-21 20:48:09 | [nec2-deck](https://crates.io/crates/nec2-deck) | 0.2.0 | 0 | Reader and interpreter for NEC-2 input decks |
-| 2026-11-21 20:48:13 | [nec2-cli](https://crates.io/crates/nec2-cli) | 0.2.0 | 0 | Command-line NEC-2 solver that prints nec2c-style reports |
-| 2026-11-21 20:48:30 | [neotales-dbapi-mysql](https://crates.io/crates/neotales-dbapi-mysql) | 0.0.0-alpha.0 | 0 | MySQL provider for neotales-dbapi |
-| 2026-11-21 20:51:31 | [font-picker](https://crates.io/crates/font-picker) | 0.0.1 | 0 | Placeholder for font-picker (blocked on Rune). See https://github.com/lu-zero/r… |
-| 2026-11-21 20:52:36 | [unityrs-batch](https://crates.io/crates/unityrs-batch) | 1.0.0 | 0 | The batch engine behind `unityrs batch`: the job spec and its validation, views… |
-| 2026-11-21 20:54:14 | [lp-llvm](https://crates.io/crates/lp-llvm) | 0.2.0 | 0 | Really terrible and pretty opinionated LLVM bindings. |
-| 2026-11-21 20:54:41 | [digua_audit_sdk](https://crates.io/crates/digua_audit_sdk) | 1.6.0 | 0 | Rust client SDK for the KudiCoder audit-service |
-| 2026-11-21 20:55:38 | [weavetab-gate](https://crates.io/crates/weavetab-gate) | 0.1.0 | 0 | Local-first multimodal zero-shot decision engine (text & image -> choices, yes/… |
-| 2026-11-21 20:55:53 | [markliers-wasm](https://crates.io/crates/markliers-wasm) | 0.0.0 | 0 | Placeholder for markliers-wasm (WASM facade) of the markliers Markdown toolkit.… |
-| 2026-11-21 20:55:56 | [sattleme-checkout](https://crates.io/crates/sattleme-checkout) | 1.0.0 | 0 | Take Lightning and on-chain payments for a sattle.me merchant from an online sh… |
-| 2026-11-21 20:56:06 | [markliers-cli](https://crates.io/crates/markliers-cli) | 0.0.0 | 0 | Placeholder for markliers-cli (command-line interface) of the markliers Markdow… |
-| 2026-11-21 20:56:26 | [markliers-lsp](https://crates.io/crates/markliers-lsp) | 0.0.0 | 0 | Placeholder for markliers-lsp (language server) of the markliers Markdown toolk… |
-| 2026-11-21 20:59:25 | [neotales-dbapi-mariadb](https://crates.io/crates/neotales-dbapi-mariadb) | 0.0.0-alpha.0 | 0 | MariaDB provider for neotales-dbapi |
-| 2026-11-21 21:02:33 | [unityrs-tpk](https://crates.io/crates/unityrs-tpk) | 1.0.0 | 0 | A TPK (type-tree package) loaded from a path, as a unityrs-core typetree provid… |
-| 2026-11-21 21:02:35 | [rune-term-core](https://crates.io/crates/rune-term-core) | 0.0.1 | 0 | Placeholder for rune-term-core (blocked on Rune and librio). See https://github… |
-| 2026-11-21 21:02:37 | [adaliszk-prelude](https://crates.io/crates/adaliszk-prelude) | 0.1.1 | 0 | Shared configuration types, YAML config parsing, and an opinionated tracing set… |
-| 2026-11-21 21:04:39 | [digua_iam_sdk](https://crates.io/crates/digua_iam_sdk) | 1.6.0 | 0 | Rust client SDK for the KudiCoder iam-service |
-| 2026-11-21 21:07:06 | [ruscord](https://crates.io/crates/ruscord) | 0.1.0 | 0 | 설명 |
-| 2026-11-21 21:08:51 | [lindera-unidic-cwj](https://crates.io/crates/lindera-unidic-cwj) | 7.0.0 | 0 | A Japanese morphological dictionary for UniDic for contemporary written Japanes… |
-| 2026-11-21 21:09:00 | [govee-toolkit-server](https://crates.io/crates/govee-toolkit-server) | 0.0.0 | 0 | Placeholder. The local server of the govee-toolkit dashboard: control Govee dev… |
-| 2026-11-21 21:09:13 | [lindera-unidic-csj](https://crates.io/crates/lindera-unidic-csj) | 7.0.0 | 0 | A Japanese morphological dictionary for UniDic for contemporary spoken Japanese… |
-| 2026-11-21 21:10:11 | [lindera-segmenter](https://crates.io/crates/lindera-segmenter) | 7.0.0 | 0 | Morphological segmenter and dictionary loading API for Lindera. |
-| 2026-11-21 21:10:18 | [neotales-dbapi-mssql](https://crates.io/crates/neotales-dbapi-mssql) | 0.0.0-alpha.0 | 0 | SQL Server provider for neotales-dbapi |
-| 2026-11-21 21:11:27 | [lindera-binding](https://crates.io/crates/lindera-binding) | 7.0.0 | 0 | Shared FFI-independent helpers for the Lindera language bindings. |
-| 2026-11-21 21:12:33 | [unityrs](https://crates.io/crates/unityrs) | 1.0.0 | 0 | Fast Unity asset extraction, compatible with UnityPy: bundles, serialized files… |
-| 2026-11-21 21:13:38 | [rune-term](https://crates.io/crates/rune-term) | 0.0.1 | 0 | Placeholder for rune-term (the app; blocked on Rune and librio). See https://gi… |
-| 2026-11-21 21:14:13 | [gabion-web](https://crates.io/crates/gabion-web) | 0.1.1 | 0 | Browser capability impls for wasm hosts: the WebSocket stream transport. Host-s… |
-| 2026-11-21 21:14:42 | [digua_notification_sdk](https://crates.io/crates/digua_notification_sdk) | 1.6.0 | 0 | Rust client SDK for the KudiCoder notification-service |
-| 2026-11-21 21:14:55 | [haqor-review](https://crates.io/crates/haqor-review) | 0.9.23 | 0 | Resumable word and verse review for Haqor |
-| 2026-11-21 21:15:15 | [rustaco-core](https://crates.io/crates/rustaco-core) | 0.1.0 | 0 | Text model for the Rustaco editor: rope buffer, multi-cursor selections, change… |
-| 2026-11-21 21:15:25 | [rustaco-view](https://crates.io/crates/rustaco-view) | 0.1.0 | 0 | Renderer-agnostic layout for the Rustaco editor: viewport, visual columns, hit… |
-| 2026-11-21 21:15:40 | [rustaco-syntax](https://crates.io/crates/rustaco-syntax) | 0.1.0 | 0 | Syntax highlighting for the Rustaco editor: incremental tree-sitter parsing and… |
-| 2026-11-21 21:15:46 | [rustaco-lsp](https://crates.io/crates/rustaco-lsp) | 0.1.0 | 0 | Language Server Protocol client for the Rustaco editor: JSON-RPC over any byte… |
-| 2026-11-21 21:16:02 | [rustaco-desktop](https://crates.io/crates/rustaco-desktop) | 0.1.0 | 0 | Native frontend for the Rustaco editor: winit window, software rendering of the… |
+| 2026-11-21 21:19:27 | [kittybrowser](https://crates.io/crates/kittybrowser) | 0.2.0 | 0 | A fast web browser that runs in a terminal pane, drawn with the kitty graphics… |
+| 2026-11-21 21:21:37 | [neotales-dbapi-clickhouse](https://crates.io/crates/neotales-dbapi-clickhouse) | 0.0.0-alpha.0 | 0 | Native-protocol ClickHouse provider for neotales-dbapi |
+| 2026-11-21 21:21:45 | [zmem-manager](https://crates.io/crates/zmem-manager) | 0.1.2 | 0 | A lightweight, pressure-aware Linux memory and swap manager with a no_std polic… |
+| 2026-11-21 21:22:33 | [unityrs-dump](https://crates.io/crates/unityrs-dump) | 1.0.0 | 0 | The canonical dump of Unity files: unityrs's L0-L3 records, for comparison with… |
+| 2026-11-21 21:22:57 | [substantial-wasm-sdk](https://crates.io/crates/substantial-wasm-sdk) | 0.3.0 | 0 | The API of Substantial's Wasm workflows, which the crate `substantial` re-expor… |
+| 2026-11-21 21:24:41 | [rune-term-ctl](https://crates.io/crates/rune-term-ctl) | 0.0.1 | 0 | Placeholder for rune-term-ctl (blocked on rune-term-core). See https://github.c… |
+| 2026-11-21 21:24:41 | [digua_token_sdk](https://crates.io/crates/digua_token_sdk) | 1.6.0 | 0 | Rust client SDK for the KudiCoder token-service |
+| 2026-11-21 21:28:19 | [trucker](https://crates.io/crates/trucker) | 1.0.0 | 0 | A rustc wrapper that shares compiled crates between worktrees on a machine |
+| 2026-11-21 21:32:33 | [unityrs-testkit](https://crates.io/crates/unityrs-testkit) | 1.0.0 | 0 | Synthetic Unity files built in code, for unityrs's own tests and the CLI's test… |
+| 2026-11-21 21:32:35 | [neotales-dbapi-postgres-tls](https://crates.io/crates/neotales-dbapi-postgres-tls) | 0.0.0-alpha.0 | 0 | Experimental verified TLS adapter for the isolated PostgreSQL driver |
+| 2026-11-21 21:34:42 | [digua_file_sdk](https://crates.io/crates/digua_file_sdk) | 1.7.0 | 0 | Rust client SDK for the KudiCoder file-service |
+| 2026-11-21 21:35:05 | [rustx-webview](https://crates.io/crates/rustx-webview) | 0.5.0 | 0 | The system-webview host of a rustx window: the wire protocol between the Rust t… |
+| 2026-11-21 21:35:45 | [rune-term-agent](https://crates.io/crates/rune-term-agent) | 0.0.1 | 0 | Placeholder for rune-term-agent (blocked on rune-term-core). See https://github… |
+| 2026-11-21 21:42:35 | [unityrs-cli](https://crates.io/crates/unityrs-cli) | 1.0.0 | 0 | Command-line Unity asset extraction. |
+| 2026-11-21 21:44:46 | [authr](https://crates.io/crates/authr) | 0.1.0 | 0 | A flexible authentication library for Rust applications, with OAuth 2.0, OpenID… |
+| 2026-11-21 21:45:35 | [neotales-dbapi-postgres](https://crates.io/crates/neotales-dbapi-postgres) | 0.0.0-alpha.0 | 0 | PostgreSQL provider for neotales-dbapi |
+| 2026-11-21 21:46:49 | [rune-term-keeper](https://crates.io/crates/rune-term-keeper) | 0.0.1 | 0 | Placeholder for rune-term-keeper (blocked on rune-term-core). See https://githu… |
+| 2026-11-21 21:54:42 | [maquette](https://crates.io/crates/maquette) | 0.1.0 | 0 | A simulated HDMI sink for tests: SCDC and EDID registers, a DDC bus, a PHY and… |
+| 2026-11-21 21:56:28 | [neotales-migration-sqlite](https://crates.io/crates/neotales-migration-sqlite) | 0.0.0-alpha.0 | 0 | Transactional SQLite backend for neotales-migration |
+| 2026-11-21 21:58:03 | [laminapdf-interchange](https://crates.io/crates/laminapdf-interchange) | 0.7.0 | 0 | Import and export PDF comments as XFDF (ISO 19444-1), FDF and Markdown, with im… |
+| 2026-11-21 22:06:11 | [adoctra-wasm-preview](https://crates.io/crates/adoctra-wasm-preview) | 0.0.5 | 0 | WASM bindings for an adoctra editor with a live HTML preview |
+| 2026-11-21 22:07:37 | [neotales-migration-libsql](https://crates.io/crates/neotales-migration-libsql) | 0.0.0-alpha.0 | 0 | Transactional remote libSQL/Turso backend for neotales-migration |
+| 2026-11-21 22:17:38 | [swarm-board](https://crates.io/crates/swarm-board) | 0.0.1 | 0 | Placeholder for a local task board for swarms of coding agents, planned as part… |
+| 2026-11-21 22:18:30 | [neotales-migration-mysql](https://crates.io/crates/neotales-migration-mysql) | 0.0.0-alpha.0 | 0 | Explicit-recovery MySQL migrations over neotales-dbapi |
+| 2026-11-21 22:20:40 | [castra-macros](https://crates.io/crates/castra-macros) | 0.1.0-alpha.1 | 0 | Procedural macros for Castra (`view!`, `#[component]`). Use them through the `c… |
+| 2026-11-21 22:20:40 | [castra-manifest](https://crates.io/crates/castra-manifest) | 0.1.0-alpha.1 | 0 | Castra application manifest: the versioned contract between the compiler and ru… |
+| 2026-11-21 22:20:41 | [castra-reactive](https://crates.io/crates/castra-reactive) | 0.1.0-alpha.1 | 0 | Castra fine-grained reactivity: signals, memos, effects, and ownership. |
+| 2026-11-21 22:20:41 | [castra-router](https://crates.io/crates/castra-router) | 0.1.0-alpha.1 | 0 | Castra route matching: file-system style patterns, deterministic precedence, co… |
+| 2026-11-21 22:20:41 | [castra-server-functions](https://crates.io/crates/castra-server-functions) | 0.1.0-alpha.1 | 0 | Castra server functions: the shared contract and the browser-side caller. |
 
 ## Data source
 

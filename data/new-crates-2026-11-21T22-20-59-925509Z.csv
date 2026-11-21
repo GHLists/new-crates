@@ -1,0 +1,30 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-21T21:19:27.196786Z,kittybrowser,0.2.0,0,0,https://github.com/graiz/kittybrowser,"A fast web browser that runs in a terminal pane, drawn with the kitty graphics protocol"
+2026-11-21T21:21:37.776337Z,neotales-dbapi-clickhouse,0.0.0-alpha.0,0,0,https://github.com/neotales/rs-db,Native-protocol ClickHouse provider for neotales-dbapi
+2026-11-21T21:21:45.960995Z,zmem-manager,0.1.2,0,0,https://github.com/LIghtJUNction/zmem,"A lightweight, pressure-aware Linux memory and swap manager with a no_std policy core"
+2026-11-21T21:22:33.468281Z,unityrs-dump,1.0.0,0,0,https://github.com/scobenes/unityrs,"The canonical dump of Unity files: unityrs's L0-L3 records, for comparison with UnityPy. Behind `unityrs dump`."
+2026-11-21T21:22:57.565942Z,substantial-wasm-sdk,0.3.0,0,0,https://github.com/zifeo/substantial,"The API of Substantial's Wasm workflows, which the crate `substantial` re-exports for wasm32: depend on it"
+2026-11-21T21:24:41.600071Z,rune-term-ctl,0.0.1,0,0,https://github.com/lu-zero/rune-term,Placeholder for rune-term-ctl (blocked on rune-term-core). See https://github.com/lu-zero/rune-term
+2026-11-21T21:24:41.909575Z,digua_token_sdk,1.6.0,0,0,,Rust client SDK for the KudiCoder token-service
+2026-11-21T21:28:19.499415Z,trucker,1.0.0,0,0,https://github.com/alfredjeanlab/trucker,A rustc wrapper that shares compiled crates between worktrees on a machine
+2026-11-21T21:32:33.792406Z,unityrs-testkit,1.0.0,0,0,https://github.com/scobenes/unityrs,"Synthetic Unity files built in code, for unityrs's own tests and the CLI's test hooks; not a stable API. Never game data."
+2026-11-21T21:32:35.175977Z,neotales-dbapi-postgres-tls,0.0.0-alpha.0,0,0,https://github.com/neotales/rs-db,Experimental verified TLS adapter for the isolated PostgreSQL driver
+2026-11-21T21:34:42.334172Z,digua_file_sdk,1.7.0,0,0,,Rust client SDK for the KudiCoder file-service
+2026-11-21T21:35:05.724651Z,rustx-webview,0.5.0,0,0,https://github.com/AZTRA2022/rustx,The system-webview host of a rustx window: the wire protocol between the Rust tree and the page.
+2026-11-21T21:35:45.277513Z,rune-term-agent,0.0.1,0,0,https://github.com/lu-zero/rune-term,Placeholder for rune-term-agent (blocked on rune-term-core). See https://github.com/lu-zero/rune-term
+2026-11-21T21:42:35.338589Z,unityrs-cli,1.0.0,0,0,https://github.com/scobenes/unityrs,Command-line Unity asset extraction.
+2026-11-21T21:44:46.399573Z,authr,0.1.0,0,0,https://github.com/joatloa/authr,"A flexible authentication library for Rust applications, with OAuth 2.0, OpenID Connect, and database integrations."
+2026-11-21T21:45:35.523293Z,neotales-dbapi-postgres,0.0.0-alpha.0,0,0,https://github.com/neotales/rs-db,PostgreSQL provider for neotales-dbapi
+2026-11-21T21:46:49.03908Z,rune-term-keeper,0.0.1,0,0,https://github.com/lu-zero/rune-term,Placeholder for rune-term-keeper (blocked on rune-term-core). See https://github.com/lu-zero/rune-term
+2026-11-21T21:54:42.902581Z,maquette,0.1.0,0,0,https://github.com/ashlar-display/maquette,"A simulated HDMI sink for tests: SCDC and EDID registers, a DDC bus, a PHY and a clock under deterministic time, with faults and conformance checks for hdmi-hal's traits"
+2026-11-21T21:56:28.983774Z,neotales-migration-sqlite,0.0.0-alpha.0,0,0,https://github.com/neotales/rs-db,Transactional SQLite backend for neotales-migration
+2026-11-21T21:58:03.276841Z,laminapdf-interchange,0.7.0,0,0,https://github.com/laudebugs/laminapdf,"Import and export PDF comments as XFDF (ISO 19444-1), FDF and Markdown, with imports applied as one undoable step."
+2026-11-21T22:06:11.226828Z,adoctra-wasm-preview,0.0.5,0,0,https://github.com/avskor/adoctra,WASM bindings for an adoctra editor with a live HTML preview
+2026-11-21T22:07:37.584763Z,neotales-migration-libsql,0.0.0-alpha.0,0,0,https://github.com/neotales/rs-db,Transactional remote libSQL/Turso backend for neotales-migration
+2026-11-21T22:17:38.575782Z,swarm-board,0.0.1,0,0,https://github.com/emostov/rider,"Placeholder for a local task board for swarms of coding agents, planned as part of Rider"
+2026-11-21T22:18:30.970082Z,neotales-migration-mysql,0.0.0-alpha.0,0,0,https://github.com/neotales/rs-db,Explicit-recovery MySQL migrations over neotales-dbapi
+2026-11-21T22:20:40.256015Z,castra-macros,0.1.0-alpha.1,0,0,https://github.com/castra-build/castra,"Procedural macros for Castra (`view!`, `#[component]`). Use them through the `castra` crate."
+2026-11-21T22:20:40.751989Z,castra-manifest,0.1.0-alpha.1,0,0,https://github.com/castra-build/castra,Castra application manifest: the versioned contract between the compiler and runtimes.
+2026-11-21T22:20:41.069934Z,castra-reactive,0.1.0-alpha.1,0,0,https://github.com/castra-build/castra,"Castra fine-grained reactivity: signals, memos, effects, and ownership."
+2026-11-21T22:20:41.432309Z,castra-router,0.1.0-alpha.1,0,0,https://github.com/castra-build/castra,"Castra route matching: file-system style patterns, deterministic precedence, conflict detection."
+2026-11-21T22:20:41.980713Z,castra-server-functions,0.1.0-alpha.1,0,0,https://github.com/castra-build/castra,Castra server functions: the shared contract and the browser-side caller.
