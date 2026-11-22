@@ -8,48 +8,52 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-22 07:19 UTC
+## Latest list — 2026-11-22 08:18 UTC
 
-New crates published between 2026-11-22 06:19 UTC and 2026-11-22 07:19 UTC.
+New crates published between 2026-11-22 07:19 UTC and 2026-11-22 08:18 UTC.
 
-[Full CSV](data/new-crates-2026-11-22T07-19-29-179612Z.csv)
+[Full CSV](data/new-crates-2026-11-22T08-18-22-815949Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-22 06:22:48 | [bicdb-sql](https://crates.io/crates/bicdb-sql) | 1.0.525 | 0 | SQL engine of the BicDB database. Part of BicDB, one database for SQL (PostgreS… |
-| 2026-11-22 06:23:04 | [ladybom-cli](https://crates.io/crates/ladybom-cli) | 0.1.0 | 0 | Inventory source dependencies, export SBOMs, and inspect dependency graphs |
-| 2026-11-22 06:27:19 | [litz-mcp](https://crates.io/crates/litz-mcp) | 0.1.0 | 0 | Rust-native Model Context Protocol server for Litz: stdio JSON-RPC over the exi… |
-| 2026-11-22 06:29:02 | [ladyshell-cli](https://crates.io/crates/ladyshell-cli) | 0.1.0 | 0 | Run authorized OpenShell tasks and retain their execution evidence |
-| 2026-11-22 06:29:58 | [qx-core](https://crates.io/crates/qx-core) | 0.4.1 | 0 | 牵星内核：时间戳口径、事件溯源、重放校验与定点数值 |
-| 2026-11-22 06:29:58 | [cargo-raf-workplan](https://crates.io/crates/cargo-raf-workplan) | 0.0.0 | 0 | The cargo raf-workplan subcommand: check, status, the generated documents, the… |
-| 2026-11-22 06:30:03 | [qx-control](https://crates.io/crates/qx-control) | 0.4.1 | 0 | 查询、事件订阅与带审计的控制命令契约 |
-| 2026-11-22 06:32:54 | [bicdb-workflow](https://crates.io/crates/bicdb-workflow) | 1.0.525 | 0 | Stored script versions and transactional workflow jobs for BicDB. Part of BicDB… |
-| 2026-11-22 06:39:08 | [litz-editor](https://crates.io/crates/litz-editor) | 0.1.0 | 0 | Editing model for Litz schematics: the document, validated transactions, undo h… |
-| 2026-11-22 06:46:05 | [pds2-core](https://crates.io/crates/pds2-core) | 0.1.1 | 0 | PDS2 compiler |
-| 2026-11-22 06:46:07 | [pds-bits-runtime](https://crates.io/crates/pds-bits-runtime) | 0.1.1 | 0 | Bit-oriented runtime for pds2 generated Rust codecs |
-| 2026-11-22 06:46:08 | [pds2-cli](https://crates.io/crates/pds2-cli) | 0.1.1 | 0 | Library for building CLIs for PDS compilers |
-| 2026-11-22 06:46:08 | [pds2-specializer-bytes](https://crates.io/crates/pds2-specializer-bytes) | 0.1.1 | 0 | PDS2 specializer for byte-based codecs |
-| 2026-11-22 06:46:09 | [protobuf-descriptor](https://crates.io/crates/protobuf-descriptor) | 0.1.1 | 0 | Protobuf descriptor decoder |
-| 2026-11-22 06:48:23 | [vspomni-rs](https://crates.io/crates/vspomni-rs) | 0.0.1 | 0 | Universal memory search across local agent harness sessions (OpenCode, Codex, C… |
-| 2026-11-22 06:49:38 | [litz-part-74hc595](https://crates.io/crates/litz-part-74hc595) | 0.1.0 | 0 | Reference Litz part: a 74HC595 serial-in/parallel-out shift register as a WebAs… |
-| 2026-11-22 06:49:47 | [bicdb-app-runtime](https://crates.io/crates/bicdb-app-runtime) | 1.0.525 | 0 | Capability-mediated application runtime of the BicDB database. Part of BicDB, o… |
-| 2026-11-22 06:51:06 | [scrip-miner](https://crates.io/crates/scrip-miner) | 0.0.2 | 0 | Reference Scrip miner: create a config, fund a wallet, mine. |
-| 2026-11-22 06:53:04 | [pds2-specializer-protodef](https://crates.io/crates/pds2-specializer-protodef) | 0.1.1 | 0 | PDS2 specializer for protodef |
-| 2026-11-22 06:57:30 | [speedyspec-container](https://crates.io/crates/speedyspec-container) | 0.1.1 | 0 | A service container with the functionality of Laravel's: bindings, singletons,… |
-| 2026-11-22 06:57:31 | [speedyspec-hooks](https://crates.io/crates/speedyspec-hooks) | 0.1.1 | 0 | Hook contract for speedyspec: the Hooks trait, the Value type and a backend con… |
-| 2026-11-22 06:57:31 | [speedyspec-php-port-macros](https://crates.io/crates/speedyspec-php-port-macros) | 0.1.1 | 0 | #[php_port]: generates a Rust port trait's PHP twin interface and its PHP adapt… |
-| 2026-11-22 06:57:32 | [speedyspec-cqrs](https://crates.io/crates/speedyspec-cqrs) | 0.1.1 | 0 | Command and query buses: handlers resolved from the service container by key, m… |
-| 2026-11-22 06:57:32 | [speedyspec-hooks-memory](https://crates.io/crates/speedyspec-hooks-memory) | 0.1.1 | 0 | In-memory backend for the speedyspec hook contract. |
-| 2026-11-22 06:59:56 | [bicdb-pgwire](https://crates.io/crates/bicdb-pgwire) | 1.0.525 | 0 | PostgreSQL wire-protocol server of the BicDB database. Part of BicDB, one datab… |
-| 2026-11-22 07:00:09 | [litz-part-sdk](https://crates.io/crates/litz-part-sdk) | 0.1.0 | 0 | Guest SDK for Litz parts: the litz:part@0.2.0 bindings and the helpers a compon… |
-| 2026-11-22 07:07:56 | [auro-plugins](https://crates.io/crates/auro-plugins) | 0.1.0-alpha.11 | 0 | Signed static plugin discovery and verified plugin subjects for Auro |
-| 2026-11-22 07:07:59 | [gistral](https://crates.io/crates/gistral) | 0.1.0 | 0 | gistral for .gitignore |
-| 2026-11-22 07:10:03 | [bicdb-bench](https://crates.io/crates/bicdb-bench) | 1.0.525 | 0 | Benchmark and PostgreSQL compatibility harnesses for the BicDB database. Part o… |
-| 2026-11-22 07:10:34 | [litz-part-display](https://crates.io/crates/litz-part-display) | 0.1.0 | 0 | Reference Litz part: a small RGBA framebuffer display as a WebAssembly componen… |
-| 2026-11-22 07:13:33 | [sigil-filter](https://crates.io/crates/sigil-filter) | 0.1.0 | 0 | Zero-dependency, near-zero-overhead heuristic string attack recognizer for Rust… |
-| 2026-11-22 07:14:53 | [codeindex](https://crates.io/crates/codeindex) | 0.1.0 | 0 | Local code and Markdown search for coding agents, with a zero-setup cx CLI |
-| 2026-11-22 07:16:01 | [meshrepair](https://crates.io/crates/meshrepair) | 0.1.0 | 0 | Robust STL mesh repair for 3D printing: welding, cleanup, non-manifold resoluti… |
-| 2026-11-22 07:16:09 | [engram-gate](https://crates.io/crates/engram-gate) | 0.1.0 | 0 | A low-power, self-consolidating memory gate: the hippocampus in front of your v… |
+| 2026-11-22 07:20:10 | [bicdb-blob-s3](https://crates.io/crates/bicdb-blob-s3) | 1.0.525 | 0 | S3-compatible blob provider for the BicDB application host. Part of BicDB, one… |
+| 2026-11-22 07:20:52 | [litz-part-eeprom](https://crates.io/crates/litz-part-eeprom) | 0.1.0 | 0 | Reference Litz part: a 24C02 I2C serial EEPROM as a WebAssembly component. |
+| 2026-11-22 07:21:30 | [xpoa-cli](https://crates.io/crates/xpoa-cli) | 0.6.0 | 0 | POA consensus per group from a grouped FASTA |
+| 2026-11-22 07:21:37 | [account-management](https://crates.io/crates/account-management) | 2.0.0 | 0 | Windows Local User and Group Management (lusrmgr) desktop GUI and CLI written i… |
+| 2026-11-22 07:24:46 | [kctl](https://crates.io/crates/kctl) | 0.1.1 | 0 | A Linux kernel manager |
+| 2026-11-22 07:27:56 | [giong-quic](https://crates.io/crates/giong-quic) | 1.3.0 | 0 | QUIC for the giong thread-per-core runtime: endpoints, streams and 0-RTT on rus… |
+| 2026-11-22 07:29:25 | [nodewipe-core](https://crates.io/crates/nodewipe-core) | 0.9.9 | 0 | Core engine for nodewipe — High-speed parallel scanner and safe excision engine… |
+| 2026-11-22 07:30:13 | [bicdb-cell-admission](https://crates.io/crates/bicdb-cell-admission) | 1.0.525 | 0 | Fleet admission evidence checks for BicDB cells. Part of BicDB, one database fo… |
+| 2026-11-22 07:30:20 | [nodewipe](https://crates.io/crates/nodewipe) | 0.9.9 | 0 | The surgical, blazing-fast dev-environment cleaner written in Rust |
+| 2026-11-22 07:30:23 | [dcmnorm-core](https://crates.io/crates/dcmnorm-core) | 0.20.0 | 0 | DICOM core value/VR/tag types for dcmnorm, forked from dicom-core 0.9.1. See RE… |
+| 2026-11-22 07:30:24 | [dcmnorm-jpeg](https://crates.io/crates/dcmnorm-jpeg) | 0.20.0 | 0 | JPEG baseline/extended/lossless decoder for dcmnorm, forked from jpeg-decoder 0… |
+| 2026-11-22 07:30:24 | [dcmnorm-jpeg2000](https://crates.io/crates/dcmnorm-jpeg2000) | 0.20.0 | 0 | JPEG 2000 codecs for dcmnorm: OpenHTJ2K (HTJ2K, vendored) and OpenJPEG (classic… |
+| 2026-11-22 07:30:26 | [dcmnorm-dictionary](https://crates.io/crates/dcmnorm-dictionary) | 0.20.0 | 0 | Standard DICOM data dictionary for dcmnorm, forked from dicom-dictionary-std 0.… |
+| 2026-11-22 07:30:28 | [dcmnorm-encoding](https://crates.io/crates/dcmnorm-encoding) | 0.20.0 | 0 | DICOM encoding/decoding primitives for dcmnorm, forked from dicom-encoding 0.9.… |
+| 2026-11-22 07:31:17 | [oss-c2rs](https://crates.io/crates/oss-c2rs) | 0.1.0 | 0 | Pure-Rust, cross-platform SDK for Alibaba Cloud OSS (port of aliyun-oss-c-sdk 3… |
+| 2026-11-22 07:31:35 | [litz-project](https://crates.io/crates/litz-project) | 0.1.0 | 0 | Portable Litz project documents: the circuit, its source files and runner optio… |
+| 2026-11-22 07:33:08 | [tsint](https://crates.io/crates/tsint) | 0.1.0 | 0 | 完全自作 TypeScript インタプリタ（Noiria エンジン用）。T2: バイトコードコンパイラ + 明示スタック VM。T3: Promise /… |
+| 2026-11-22 07:37:35 | [fms](https://crates.io/crates/fms) | 0.1.0 | 0 | Placeholder for a Flexibilitätsmanagementsystem (DSO flexibility management, §… |
+| 2026-11-22 07:40:17 | [bicdb-cell-device](https://crates.io/crates/bicdb-cell-device) | 1.0.525 | 0 | Filtered offline device replicas for BicDB cells. Part of BicDB, one database f… |
+| 2026-11-22 07:42:58 | [dcmnorm-parser](https://crates.io/crates/dcmnorm-parser) | 0.20.0 | 0 | DICOM dataset streaming reader/writer for dcmnorm, forked from dicom-parser 0.9… |
+| 2026-11-22 07:43:36 | [litz-chip-conformance](https://crates.io/crates/litz-chip-conformance) | 0.1.0 | 0 | The contract checks every Litz chip backend has to pass. |
+| 2026-11-22 07:43:40 | [tc_cts_modes](https://crates.io/crates/tc_cts_modes) | 0.1.0 | 0 | Cipher text stealing over ECB and CBC, after Bouncy Castle's CtsBlockCipher, be… |
+| 2026-11-22 07:46:16 | [revkit](https://crates.io/crates/revkit) | 0.1.0 | 0 | Pre-push review of committed changes |
+| 2026-11-22 07:48:12 | [speedyspec-php](https://crates.io/crates/speedyspec-php) | 0.4.0 | 0 | Embedded, statically linked PHP interpreter for speedyspec. |
+| 2026-11-22 07:48:13 | [speedyspec-wp-hooks](https://crates.io/crates/speedyspec-wp-hooks) | 0.1.1 | 0 | WordPress's Hook API (plugin.php and WP_Hook) as commands and queries over a ho… |
+| 2026-11-22 07:48:13 | [speedyspec-compat](https://crates.io/crates/speedyspec-compat) | 0.5.1 | 0 | Recorded compatibility: run a catalogue of scenarios against WordPress's origin… |
+| 2026-11-22 07:48:14 | [speedyspec-php-ext](https://crates.io/crates/speedyspec-php-ext) | 0.1.3 | 0 | The speedyspec_wordpress PHP extension's shared parts: PHP twins of Rust ports,… |
+| 2026-11-22 07:48:14 | [speedyspec-wp-hooks-memory](https://crates.io/crates/speedyspec-wp-hooks-memory) | 0.1.1 | 0 | The in-memory hook store, with worker-lifetime and request-lifetime partitions. |
+| 2026-11-22 07:50:21 | [bicdb-cell-grant](https://crates.io/crates/bicdb-cell-grant) | 1.0.525 | 0 | Encrypted object grants between BicDB cells. Part of BicDB, one database for SQ… |
+| 2026-11-22 07:52:56 | [dcmnorm-transcode](https://crates.io/crates/dcmnorm-transcode) | 0.20.0 | 0 | DICOM transfer-syntax registry and pixel codecs for dcmnorm, forked from dicom-… |
+| 2026-11-22 08:00:27 | [bicdb-cell-ha](https://crates.io/crates/bicdb-cell-ha) | 1.0.525 | 0 | High-availability control and fencing primitives for BicDB cells. Part of BicDB… |
+| 2026-11-22 08:02:52 | [dcmnorm-dimse](https://crates.io/crates/dcmnorm-dimse) | 0.20.0 | 0 | In-house DICOM Upper Layer Protocol (PS3.8) implementation, replacing dicom-ul.… |
+| 2026-11-22 08:08:29 | [rusty-bot-messages](https://crates.io/crates/rusty-bot-messages) | 0.1.0 | 0 | Provider-neutral LLM messages, multimodal history, streaming events, and prompt… |
+| 2026-11-22 08:08:33 | [rusty-bot-providers](https://crates.io/crates/rusty-bot-providers) | 0.1.0 | 0 | Unified streaming LLM providers for OpenAI, Anthropic, and DeepSeek |
+| 2026-11-22 08:10:30 | [bicdb-fleet](https://crates.io/crates/bicdb-fleet) | 1.0.525 | 0 | App root and fleet authorization primitives for BicDB. Part of BicDB, one datab… |
+| 2026-11-22 08:12:26 | [dcmnorm-object](https://crates.io/crates/dcmnorm-object) | 0.20.0 | 0 | In-house DICOM in-memory object model and Part 10 file I/O, replacing dicom-obj… |
+| 2026-11-22 08:15:57 | [speedyspec-container-php](https://crates.io/crates/speedyspec-container-php) | 0.1.3 | 0 | The service container from PHP: SpeedySpec\Container\Container, PHP bindings as… |
+| 2026-11-22 08:15:58 | [speedyspec-wp-hooks-php](https://crates.io/crates/speedyspec-wp-hooks-php) | 0.1.5 | 0 | WordPress's hook functions, WP_Hook and the hook globals in PHP, native over th… |
 
 ## Data source
 

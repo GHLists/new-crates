@@ -1,0 +1,39 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-22T07:20:10.210994Z,bicdb-blob-s3,1.0.525,0,0,https://github.com/nikoma/bicdb,"S3-compatible blob provider for the BicDB application host. Part of BicDB, one database for SQL (PostgreSQL protocol), a Redis-compatible cache, search and vectors; install `bicdb`"
+2026-11-22T07:20:52.923874Z,litz-part-eeprom,0.1.0,0,0,https://github.com/Litz-Sim/litz,Reference Litz part: a 24C02 I2C serial EEPROM as a WebAssembly component.
+2026-11-22T07:21:30.624385Z,xpoa-cli,0.6.0,0,0,https://github.com/keithyin/xpoa,POA consensus per group from a grouped FASTA
+2026-11-22T07:21:37.489833Z,account-management,2.0.0,0,0,https://github.com/aaron-c-s-ramos/AccountManagement,Windows Local User and Group Management (lusrmgr) desktop GUI and CLI written in Rust
+2026-11-22T07:24:46.710113Z,kctl,0.1.1,0,0,https://github.com/ax-x2/kctl,A Linux kernel manager
+2026-11-22T07:27:56.307486Z,giong-quic,1.3.0,0,0,https://github.com/giong-run/Giong,"QUIC for the giong thread-per-core runtime: endpoints, streams and 0-RTT on rustls"
+2026-11-22T07:29:25.817563Z,nodewipe-core,0.9.9,0,0,https://github.com/KADHIRAVANEG/nodewipe,Core engine for nodewipe — High-speed parallel scanner and safe excision engine across 39+ dev ecosystems
+2026-11-22T07:30:13.121379Z,bicdb-cell-admission,1.0.525,0,0,https://github.com/nikoma/bicdb,"Fleet admission evidence checks for BicDB cells. Part of BicDB, one database for SQL (PostgreSQL protocol), a Redis-compatible cache, search and vectors; install `bicdb`"
+2026-11-22T07:30:20.454752Z,nodewipe,0.9.9,0,0,https://github.com/KADHIRAVANEG/nodewipe,"The surgical, blazing-fast dev-environment cleaner written in Rust"
+2026-11-22T07:30:23.651154Z,dcmnorm-core,0.20.0,0,0,https://github.com/pohcee/dcmnorm,"DICOM core value/VR/tag types for dcmnorm, forked from dicom-core 0.9.1. See README.md."
+2026-11-22T07:30:24.121197Z,dcmnorm-jpeg,0.20.0,0,0,https://github.com/pohcee/dcmnorm,"JPEG baseline/extended/lossless decoder for dcmnorm, forked from jpeg-decoder 0.3.2. See README.md."
+2026-11-22T07:30:24.909415Z,dcmnorm-jpeg2000,0.20.0,0,0,https://github.com/pohcee/dcmnorm,"JPEG 2000 codecs for dcmnorm: OpenHTJ2K (HTJ2K, vendored) and OpenJPEG (classic), with an explicit threading policy."
+2026-11-22T07:30:26.191708Z,dcmnorm-dictionary,0.20.0,0,0,https://github.com/pohcee/dcmnorm,"Standard DICOM data dictionary for dcmnorm, forked from dicom-dictionary-std 0.9.0. See README.md."
+2026-11-22T07:30:28.105292Z,dcmnorm-encoding,0.20.0,0,0,https://github.com/pohcee/dcmnorm,"DICOM encoding/decoding primitives for dcmnorm, forked from dicom-encoding 0.9.1. See README.md."
+2026-11-22T07:31:17.827493Z,oss-c2rs,0.1.0,0,0,,"Pure-Rust, cross-platform SDK for Alibaba Cloud OSS (port of aliyun-oss-c-sdk 3.10.0)"
+2026-11-22T07:31:35.844268Z,litz-project,0.1.0,0,0,https://github.com/Litz-Sim/litz,"Portable Litz project documents: the circuit, its source files and runner options in one versioned JSON file."
+2026-11-22T07:33:08.544514Z,tsint,0.1.0,0,0,https://github.com/ChanyaVRC/tsint,完全自作 TypeScript インタプリタ（Noiria エンジン用）。T2: バイトコードコンパイラ + 明示スタック VM。T3: Promise / async・await / イベントループ。T4: 正規表現エンジン本実装。
+2026-11-22T07:37:35.175551Z,fms,0.1.0,0,0,https://github.com/hupe1980/fms,"Placeholder for a Flexibilitätsmanagementsystem (DSO flexibility management, § 14a EnWG) in Rust"
+2026-11-22T07:40:17.894396Z,bicdb-cell-device,1.0.525,0,0,https://github.com/nikoma/bicdb,"Filtered offline device replicas for BicDB cells. Part of BicDB, one database for SQL (PostgreSQL protocol), a Redis-compatible cache, search and vectors; install `bicdb`"
+2026-11-22T07:42:58.777256Z,dcmnorm-parser,0.20.0,0,0,https://github.com/pohcee/dcmnorm,"DICOM dataset streaming reader/writer for dcmnorm, forked from dicom-parser 0.9.1. See README.md."
+2026-11-22T07:43:36.569067Z,litz-chip-conformance,0.1.0,0,0,https://github.com/Litz-Sim/litz,The contract checks every Litz chip backend has to pass.
+2026-11-22T07:43:40.327848Z,tc_cts_modes,0.1.0,0,0,https://github.com/TomiCheng/tc_crypto,"Cipher text stealing over ECB and CBC, after Bouncy Castle's CtsBlockCipher, behind the BufferedCipher interface."
+2026-11-22T07:46:16.935988Z,revkit,0.1.0,0,0,https://github.com/Mathews-Tom/revkit,Pre-push review of committed changes
+2026-11-22T07:48:12.380351Z,speedyspec-php,0.4.0,0,0,https://github.com/SpeedySpec/speedyspec-server,"Embedded, statically linked PHP interpreter for speedyspec."
+2026-11-22T07:48:13.038555Z,speedyspec-wp-hooks,0.1.1,0,0,https://github.com/SpeedySpec/speedyspec-server,WordPress's Hook API (plugin.php and WP_Hook) as commands and queries over a hook store port.
+2026-11-22T07:48:13.657424Z,speedyspec-compat,0.5.1,0,0,https://github.com/SpeedySpec/speedyspec-server,"Recorded compatibility: run a catalogue of scenarios against WordPress's original code, record the results, and replay them against the Rust ports."
+2026-11-22T07:48:14.136591Z,speedyspec-php-ext,0.1.3,0,0,https://github.com/SpeedySpec/speedyspec-server,"The speedyspec_wordpress PHP extension's shared parts: PHP twins of Rust ports, their PHP adapters, value conversion and the boundary counter."
+2026-11-22T07:48:14.701367Z,speedyspec-wp-hooks-memory,0.1.1,0,0,https://github.com/SpeedySpec/speedyspec-server,"The in-memory hook store, with worker-lifetime and request-lifetime partitions."
+2026-11-22T07:50:21.84521Z,bicdb-cell-grant,1.0.525,0,0,https://github.com/nikoma/bicdb,"Encrypted object grants between BicDB cells. Part of BicDB, one database for SQL (PostgreSQL protocol), a Redis-compatible cache, search and vectors; install `bicdb`"
+2026-11-22T07:52:56.869172Z,dcmnorm-transcode,0.20.0,0,0,https://github.com/pohcee/dcmnorm,"DICOM transfer-syntax registry and pixel codecs for dcmnorm, forked from dicom-transfer-syntax-registry 0.9.1. See README.md."
+2026-11-22T08:00:27.3183Z,bicdb-cell-ha,1.0.525,0,0,https://github.com/nikoma/bicdb,"High-availability control and fencing primitives for BicDB cells. Part of BicDB, one database for SQL (PostgreSQL protocol), a Redis-compatible cache, search and vectors; install `bicdb`"
+2026-11-22T08:02:52.03216Z,dcmnorm-dimse,0.20.0,0,0,https://github.com/pohcee/dcmnorm,"In-house DICOM Upper Layer Protocol (PS3.8) implementation, replacing dicom-ul. See lib.rs."
+2026-11-22T08:08:29.142708Z,rusty-bot-messages,0.1.0,0,0,,"Provider-neutral LLM messages, multimodal history, streaming events, and prompt templates"
+2026-11-22T08:08:33.432129Z,rusty-bot-providers,0.1.0,0,0,,"Unified streaming LLM providers for OpenAI, Anthropic, and DeepSeek"
+2026-11-22T08:10:30.348775Z,bicdb-fleet,1.0.525,0,0,https://github.com/nikoma/bicdb,"App root and fleet authorization primitives for BicDB. Part of BicDB, one database for SQL (PostgreSQL protocol), a Redis-compatible cache, search and vectors; install `bicdb`"
+2026-11-22T08:12:26.318384Z,dcmnorm-object,0.20.0,0,0,https://github.com/pohcee/dcmnorm,"In-house DICOM in-memory object model and Part 10 file I/O, replacing dicom-object. See README.md."
+2026-11-22T08:15:57.781427Z,speedyspec-container-php,0.1.3,0,0,https://github.com/SpeedySpec/speedyspec-server,"The service container from PHP: SpeedySpec\Container\Container, PHP bindings as request-long overrides of Rust ports, and PHP autowiring."
+2026-11-22T08:15:58.210605Z,speedyspec-wp-hooks-php,0.1.5,0,0,https://github.com/SpeedySpec/speedyspec-server,"WordPress's hook functions, WP_Hook and the hook globals in PHP, native over the Rust Hook API."
