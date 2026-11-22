@@ -8,52 +8,71 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-22 20:18 UTC
+## Latest list — 2026-11-22 21:18 UTC
 
-New crates published between 2026-11-22 19:19 UTC and 2026-11-22 20:18 UTC.
+New crates published between 2026-11-22 20:18 UTC and 2026-11-22 21:18 UTC.
 
-[Full CSV](data/new-crates-2026-11-22T20-18-23-744657Z.csv)
+[Full CSV](data/new-crates-2026-11-22T21-18-35-975502Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-22 19:21:56 | [nai-lattice-supervisor](https://crates.io/crates/nai-lattice-supervisor) | 0.1.0 | 0 | Process supervision and lifecycle management for NAI Lattice services. |
-| 2026-11-22 19:26:19 | [neo-snn](https://crates.io/crates/neo-snn) | 0.1.0 | 0 | Spiking neural network layer for NeuroLib, built on Burn |
-| 2026-11-22 19:27:01 | [mavmission](https://crates.io/crates/mavmission) | 0.1.0 | 0 | Read, write and convert ArduPilot and PX4 mission files: QGroundControl .plan (… |
-| 2026-11-22 19:27:46 | [lib_jsl](https://crates.io/crates/lib_jsl) | 2.21.1 | 0 | Jake's Scientific Library: pure-Rust algorithms for scientific computing, re-ex… |
-| 2026-11-22 19:28:28 | [wpml](https://crates.io/crates/wpml) | 0.1.0 | 0 | DJI WPML waypoint missions in Rust: read and write the .kmz (wpmz/template.kml… |
-| 2026-11-22 19:28:39 | [gpdoc-plugin-suggestion](https://crates.io/crates/gpdoc-plugin-suggestion) | 0.1.0 | 0 | Suggestion trigger matching and completion for the gpdoc rich-text editor |
-| 2026-11-22 19:31:59 | [nai-lattice-protocol](https://crates.io/crates/nai-lattice-protocol) | 0.1.0 | 0 | NAF/1 protocol: handshake, frames, events, artifacts, queries (prost pb). |
-| 2026-11-22 19:37:38 | [neo-gui](https://crates.io/crates/neo-gui) | 0.1.0 | 0 | NeuroLib workbench (GPUI + gpui-kit): traces, heatmap, channels and a timeline… |
-| 2026-11-22 19:37:46 | [lib_jsl_ffts_reference](https://crates.io/crates/lib_jsl_ffts_reference) | 2.21.1 | 0 | Readable reference FFT implementations for study, plus a benchmark comparing th… |
-| 2026-11-22 19:38:38 | [gpdoc-plugin-mention](https://crates.io/crates/gpdoc-plugin-mention) | 0.1.0 | 0 | Mention plugin for the gpdoc rich-text editor |
-| 2026-11-22 19:39:04 | [fov](https://crates.io/crates/fov) | 0.2.0 | 0 | Turn plain-language requests into reusable shell pipelines, previewed on your d… |
-| 2026-11-22 19:42:06 | [hep-rs](https://crates.io/crates/hep-rs) | 0.1.1 | 0 | HEP3 (Homer Encapsulation Protocol v3) codec and transport. |
-| 2026-11-22 19:46:16 | [siphon-core](https://crates.io/crates/siphon-core) | 0.7.8 | 0 | Core SIP types, headers, URIs, and message primitives. |
-| 2026-11-22 19:46:18 | [siphon-hep](https://crates.io/crates/siphon-hep) | 0.1.0 | 0 | HEP3 (Homer) emission glue for siphon-rs — ships parsed/serialized SIP messages… |
-| 2026-11-22 19:46:19 | [siphon-identity](https://crates.io/crates/siphon-identity) | 0.3.0 | 0 | STIR/SHAKEN caller identity: RFC 8224 Identity header + RFC 8225 PASSporT parsi… |
-| 2026-11-22 19:46:20 | [siphon-observe](https://crates.io/crates/siphon-observe) | 0.3.0 | 0 | Observability, tracing, and metrics for SIP. |
-| 2026-11-22 19:47:45 | [lib_jsl_linalg_reference](https://crates.io/crates/lib_jsl_linalg_reference) | 2.21.1 | 0 | Readable textbook linear algebra algorithms for study, plus a benchmark compari… |
-| 2026-11-22 19:48:25 | [neurolib](https://crates.io/crates/neurolib) | 0.1.0 | 0 | NeuroLib: single entry point to the workspace - spike networks, layers, quantiz… |
-| 2026-11-22 19:48:39 | [gpdoc-plugin-node-range](https://crates.io/crates/gpdoc-plugin-node-range) | 0.1.0 | 0 | Node range plugin for gpdoc |
-| 2026-11-22 19:50:26 | [palantir-derive](https://crates.io/crates/palantir-derive) | 1.0.0 | 0 | Derive macros for palantir's traits |
-| 2026-11-22 19:51:22 | [ctu-quiz-common](https://crates.io/crates/ctu-quiz-common) | 0.4.0 | 0 | Markdown question parser and API types shared by the ctu-quiz CLI and server |
-| 2026-11-22 19:51:24 | [ctu-quiz](https://crates.io/crates/ctu-quiz) | 0.4.0 | 0 | Teacher's command line tool for asking students questions in class with the ctu… |
-| 2026-11-22 19:52:01 | [cpdir-cli](https://crates.io/crates/cpdir-cli) | 1.0.0 | 0 | Interactive Windows 11 TUI to inspect a directory tree and copy strict XML cont… |
-| 2026-11-22 19:54:02 | [siphon-ratelimit](https://crates.io/crates/siphon-ratelimit) | 0.3.0 | 0 | Configurable rate limiting for SIP applications |
-| 2026-11-22 19:56:04 | [tastr-engine](https://crates.io/crates/tastr-engine) | 0.6.0 | 0 | Tastr's music analysis engine: BPM, beats, downbeats, meter, key, sections and… |
-| 2026-11-22 19:56:10 | [user-agent-classifier](https://crates.io/crates/user-agent-classifier) | 0.1.1 | 0 | Zero-allocation, regex-free Rust User-Agent classifier for observability — extr… |
-| 2026-11-22 19:57:47 | [hardroxide-ip](https://crates.io/crates/hardroxide-ip) | 2.7.0 | 0 | Curated drivers for Xilinx IP, keyed by VLNV |
-| 2026-11-22 19:58:39 | [gpdoc-plugin-placeholder](https://crates.io/crates/gpdoc-plugin-placeholder) | 0.1.0 | 0 | Show a writing hint inside empty text blocks in GPUI |
-| 2026-11-22 19:58:46 | [okfgraph](https://crates.io/crates/okfgraph) | 0.16.0 | 0 | Rust core for OKFgraph: Ladybug-backed knowledge graph with ONNX embeddings |
-| 2026-11-22 20:04:10 | [siphon-sdp](https://crates.io/crates/siphon-sdp) | 0.3.2 | 0 | SDP models and helpers for SIP. |
-| 2026-11-22 20:06:43 | [nai-lattice-cas](https://crates.io/crates/nai-lattice-cas) | 0.1.0 | 0 | Content-addressed artifact store (CAS) with owned + external AAF locations, man… |
-| 2026-11-22 20:07:20 | [nai-lattice-vector](https://crates.io/crates/nai-lattice-vector) | 0.1.0 | 0 | Embedded semantic vector store (HNSW kNN) — the Qdrant replacement for nai-latt… |
-| 2026-11-22 20:07:42 | [hardroxide-rt](https://crates.io/crates/hardroxide-rt) | 2.7.0 | 0 | A FreeRTOS-style real-time kernel for the Zynq-7000 Cortex-A9: priority-preempt… |
-| 2026-11-22 20:08:16 | [nai-lattice-search](https://crates.io/crates/nai-lattice-search) | 0.1.0 | 0 | Embedded fuzzy full-text search index (Tantivy) — supports query.search over in… |
-| 2026-11-22 20:08:39 | [gpdoc-plugin-ruby-text](https://crates.io/crates/gpdoc-plugin-ruby-text) | 0.1.0 | 0 | Ruby-Text plugin for the gpdoc rich-text editor |
-| 2026-11-22 20:12:03 | [nai-lattice-graph](https://crates.io/crates/nai-lattice-graph) | 0.1.0 | 0 | NAI Lattice lattice-graph. |
-| 2026-11-22 20:14:27 | [siphon-dns](https://crates.io/crates/siphon-dns) | 0.3.0 | 0 | RFC 3263 DNS resolution for SIP. |
-| 2026-11-22 20:17:44 | [hardroxide-audio](https://crates.io/crates/hardroxide-audio) | 2.7.0 | 0 | Audio for the PYNQ base overlay: the ADAU1761 codec over I2C, WAV files, tone s… |
+| 2026-11-22 20:18:32 | [matter-data-model](https://crates.io/crates/matter-data-model) | 0.1.0 | 0 | Official Matter Data Model wire representations, identifiers, and interaction s… |
+| 2026-11-22 20:18:40 | [gpdoc-plugin-slash-command](https://crates.io/crates/gpdoc-plugin-slash-command) | 0.1.0 | 0 | Search and apply block commands from a slash menu in gpdoc |
+| 2026-11-22 20:18:44 | [matter-spec](https://crates.io/crates/matter-spec) | 0.1.0 | 0 | Autogenerated Matter specification domain models, exhaustive enums, and typed c… |
+| 2026-11-22 20:21:02 | [smysl-bund](https://crates.io/crates/smysl-bund) | 1.18.0 | 0 | smysl's Bund2 bridge (RFC SMYSL-4): programmable queries and logic over a libra… |
+| 2026-11-22 20:22:00 | [nai-lattice-hotstore-fjall](https://crates.io/crates/nai-lattice-hotstore-fjall) | 0.1.0 | 0 | Fjall-backed HotStore adapter (behind feature; API lock-in prevention). |
+| 2026-11-22 20:24:39 | [mecab_dict_ipadic](https://crates.io/crates/mecab_dict_ipadic) | 0.1.1 | 0 | Prebuilt IPAdic 2.7.0-20070801 dictionary in mecab_rs format (.mrd.xz), data on… |
+| 2026-11-22 20:24:46 | [siphon-parse](https://crates.io/crates/siphon-parse) | 0.4.0 | 0 | SIP message parser and serializer. |
+| 2026-11-22 20:24:50 | [mecab_dict_unidic](https://crates.io/crates/mecab_dict_unidic) | 0.1.1 | 0 | Prebuilt UniDic-CWJ 2025.12 dictionary in mecab_rs format (.mrd.xz), data only |
+| 2026-11-22 20:24:52 | [aspero-pmc](https://crates.io/crates/aspero-pmc) | 0.42.1 | 0 | PubMed Central open data (free-copy PDFs) provider for aspero |
+| 2026-11-22 20:27:01 | [codewhale-app-server-protocol](https://crates.io/crates/codewhale-app-server-protocol) | 0.10.3 | 0 | Client wire contracts and schema exports for Codewhale App Server |
+| 2026-11-22 20:27:43 | [hardroxide-video](https://crates.io/crates/hardroxide-video) | 2.7.0 | 0 | HDMI output for the PYNQ base overlay: display modes and the bring-up of the pi… |
+| 2026-11-22 20:27:55 | [fusuma-anim](https://crates.io/crates/fusuma-anim) | 0.2.0 | 0 | Animation for Fusuma: easing, tweens, keyframes, springs and fling decay in fix… |
+| 2026-11-22 20:28:14 | [fusuma-render-vello-common](https://crates.io/crates/fusuma-render-vello-common) | 0.2.0 | 0 | Shared code of the Fusuma Vello backends: the Renderer implementation, generic… |
+| 2026-11-22 20:28:17 | [codewhale-error-taxonomy](https://crates.io/crates/codewhale-error-taxonomy) | 0.10.3 | 0 | Shared error categories, severities, and envelopes for Codewhale |
+| 2026-11-22 20:28:19 | [swirlseed](https://crates.io/crates/swirlseed) | 0.1.0 | 0 | Deterministic fluid, glassy marbling patterns generated from a string seed. Byt… |
+| 2026-11-22 20:28:22 | [fusuma-render-vello-cpu](https://crates.io/crates/fusuma-render-vello-cpu) | 0.2.0 | 0 | Fusuma renderer backend for desktops, phones and watches without a GPU: anti-al… |
+| 2026-11-22 20:28:25 | [swirlseed-cli](https://crates.io/crates/swirlseed-cli) | 0.1.0 | 0 | Command-line generator of fluid, glassy marbling patterns from a string seed (t… |
+| 2026-11-22 20:28:33 | [codewhale-agent-contract](https://crates.io/crates/codewhale-agent-contract) | 0.10.3 | 0 | Fleet role, child authority and worker runtime profile contract shared by the e… |
+| 2026-11-22 20:28:38 | [splinterpol](https://crates.io/crates/splinterpol) | 0.1.0 | 0 | Native 1D and 2D spline interpolation up to degree 12. Fast, accurate, no-std,… |
+| 2026-11-22 20:28:38 | [gpdoc-plugin-subscript](https://crates.io/crates/gpdoc-plugin-subscript) | 0.1.0 | 0 | Subscript plugin for the gpdoc rich-text editor |
+| 2026-11-22 20:29:04 | [lsdocs-rpc](https://crates.io/crates/lsdocs-rpc) | 0.1.0 | 0 | MessagePack RPC envelope, framing, codec, peer and transports. |
+| 2026-11-22 20:29:12 | [lsdocs-plugin-sdk](https://crates.io/crates/lsdocs-plugin-sdk) | 0.1.0 | 0 | Traits and serve() entry point for writing lsdocs plugins in Rust. |
+| 2026-11-22 20:29:24 | [fusuma-render-vello](https://crates.io/crates/fusuma-render-vello) | 0.2.0 | 0 | Fusuma renderer backend for desktops and phones with a GPU: anti-aliased drawin… |
+| 2026-11-22 20:30:09 | [codewhale-util](https://crates.io/crates/codewhale-util) | 0.10.3 | 0 | Codewhale shared utilities, confined workspace files, path identity and file lo… |
+| 2026-11-22 20:30:34 | [codewhale-net](https://crates.io/crates/codewhale-net) | 0.10.3 | 0 | Codewhale outbound network policy, guarded destinations and proxy resolution |
+| 2026-11-22 20:30:37 | [codewhale-notify](https://crates.io/crates/codewhale-notify) | 0.10.3 | 0 | Shared Codewhale notification policy and local audio dispatch |
+| 2026-11-22 20:30:57 | [forager-balance](https://crates.io/crates/forager-balance) | 0.1.0 | 0 | Read the on-chain balance of a payout address through public explorers. Sends e… |
+| 2026-11-22 20:32:07 | [nai-lattice-hotstore-surrealkv](https://crates.io/crates/nai-lattice-hotstore-surrealkv) | 0.1.0 | 0 | SurrealKV-backed HotStore adapter (production hot store). |
+| 2026-11-22 20:32:45 | [mecab_rs](https://crates.io/crates/mecab_rs) | 0.1.0 | 0 | A native Rust port of the MeCab analyzer: reads MeCab binary dictionaries, best… |
+| 2026-11-22 20:33:18 | [cortenforge-sim-qhull](https://crates.io/crates/cortenforge-sim-qhull) | 0.9.0 | 0 | Qhull's 3-d convex hull, ported to Rust as MuJoCo 3.5.0 runs it, giving MuJoCo'… |
+| 2026-11-22 20:33:49 | [keyvec](https://crates.io/crates/keyvec) | 0.6.0 | 0 | append-only datastructures associating an integer-like-key with an entry |
+| 2026-11-22 20:35:03 | [siphon-transport](https://crates.io/crates/siphon-transport) | 0.7.2 | 0 | SIP transport layer for UDP, TCP, and TLS. |
+| 2026-11-22 20:36:04 | [safe-anything](https://crates.io/crates/safe-anything) | 1.0.0 | 0 | Find vulnerabilities in any app, and in the AI agent setup that builds it. One… |
+| 2026-11-22 20:37:39 | [isabelle](https://crates.io/crates/isabelle) | 0.0.1 | 0 | An Isabelle backend for issy |
+| 2026-11-22 20:37:44 | [hardroxide-cli](https://crates.io/crates/hardroxide-cli) | 2.7.0 | 0 | The `hardroxide` command-line tool |
+| 2026-11-22 20:38:40 | [gpdoc-plugin-superscript](https://crates.io/crates/gpdoc-plugin-superscript) | 0.1.0 | 0 | Superscript plugin for the gpdoc rich-text editor |
+| 2026-11-22 20:39:32 | [brokk-mj-github-watch](https://crates.io/crates/brokk-mj-github-watch) | 0.0.0 | 0 | Durable GitHub activity polling for Mjolnir sessions (name reservation; release… |
+| 2026-11-22 20:42:03 | [nai-lattice-client](https://crates.io/crates/nai-lattice-client) | 0.1.0 | 0 | NAF/1 IPC client: connect to the per-user runtime, handshake, dispatch requests. |
+| 2026-11-22 20:45:15 | [siphon-auth](https://crates.io/crates/siphon-auth) | 0.4.0 | 0 | Digest authentication for SIP (RFC 7616/7617). |
+| 2026-11-22 20:48:37 | [gpdoc-plugin-table-of-contents](https://crates.io/crates/gpdoc-plugin-table-of-contents) | 0.1.0 | 0 | Table Of Contents plugin for the gpdoc editor |
+| 2026-11-22 20:49:21 | [videocall-rate-control](https://crates.io/crates/videocall-rate-control) | 0.1.0 | 0 | Viewer-driven video rate control for videocall-rs: capacity and backlog measure… |
+| 2026-11-22 20:51:03 | [scatter-wikitext-parse](https://crates.io/crates/scatter-wikitext-parse) | 0.1.0 | 0 | Parse MediaWiki wikitext into a tree of elements with source positions: a fork… |
+| 2026-11-22 20:52:01 | [nai-lattice-embeddings](https://crates.io/crates/nai-lattice-embeddings) | 0.1.0 | 0 | AAF-federated embeddings + rerank provider: calls the LUSI NPU Qwen3 gateway (n… |
+| 2026-11-22 20:52:59 | [remoteid-scenario](https://crates.io/crates/remoteid-scenario) | 0.1.0 | 0 | Test-vector generator for counter-UAS detectors: writes spec-compliant Remote I… |
+| 2026-11-22 20:55:25 | [siphon-dialog](https://crates.io/crates/siphon-dialog) | 0.4.0 | 0 | SIP dialog and subscription management. |
+| 2026-11-22 20:56:45 | [remoteid-sentinel](https://crates.io/crates/remoteid-sentinel) | 0.1.0 | 0 | Receive-only flood and spoof analyzer for counter-UAS sensors: over Remote ID b… |
+| 2026-11-22 20:58:26 | [aroma-rs](https://crates.io/crates/aroma-rs) | 0.1.0 | 0 | Fast structural code search, clone detection, and recommendation engine for Rus… |
+| 2026-11-22 20:58:41 | [gpdoc-plugin-text-align](https://crates.io/crates/gpdoc-plugin-text-align) | 0.1.0 | 0 | Block text alignment for the gpdoc rich-text editor |
+| 2026-11-22 21:02:04 | [nai-lattice-ledger](https://crates.io/crates/nai-lattice-ledger) | 0.1.0 | 0 | Durable, replayable canonical event ledger: segments, BLAKE3 chains, crash reco… |
+| 2026-11-22 21:02:25 | [velocyto-rs-lite](https://crates.io/crates/velocyto-rs-lite) | 0.1.1 | 0 | Faithful Rust translation of velocyto.py v0.17.16 — RNA velocity analysis for s… |
+| 2026-11-22 21:05:35 | [siphon-testkit](https://crates.io/crates/siphon-testkit) | 0.1.1 | 0 | Testing utilities and fixtures for SIP components. |
+| 2026-11-22 21:06:07 | [gix-encoding](https://crates.io/crates/gix-encoding) | 0.1.0 | 0 | Strict, streaming character encodings for Git |
+| 2026-11-22 21:08:05 | [gix-notify](https://crates.io/crates/gix-notify) | 0.1.0 | 0 | Bounded filesystem notifications for long-running applications |
+| 2026-11-22 21:08:11 | [gix-fsmonitor](https://crates.io/crates/gix-fsmonitor) | 0.1.0 | 0 | Git filesystem monitor clients and an embeddable server |
+| 2026-11-22 21:08:53 | [gpdoc-plugin-text-style](https://crates.io/crates/gpdoc-plugin-text-style) | 0.1.0 | 0 | Text styles, colors, fonts and line heights for the gpdoc rich-text editor |
+| 2026-11-22 21:11:58 | [nai-lattice-aaf](https://crates.io/crates/nai-lattice-aaf) | 0.1.0 | 0 | Ambient Asset Federation resolver: reuse existing compatible bytes instead of c… |
+| 2026-11-22 21:15:49 | [siphon-transaction](https://crates.io/crates/siphon-transaction) | 0.9.1 | 0 | RFC 3261 transaction state machines and timers. |
 
 ## Data source
 
