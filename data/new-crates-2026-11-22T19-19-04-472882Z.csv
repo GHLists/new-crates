@@ -1,0 +1,54 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-22T18:18:35.612512Z,gpdoc-plugin-list-keymap,0.1.0,0,0,https://github.com/hhhjin/gpdoc,gpdoc support for list keyboard commands
+2026-11-22T18:19:00.334576Z,goat-hooker,0.1.0,0,0,https://github.com/zuygui/goat-hooker,"An open-source Git hooks manager, with mono-repos support"
+2026-11-22T18:27:45.842236Z,lib_jsl_integration,2.21.1,0,0,https://github.com/jwkunz/lib_jsl,"Numerical integration: quadrature (including vector-valued and weighted), cubature, quasi-Monte Carlo, ODE solvers, boundary value problems and PDEs."
+2026-11-22T18:28:04.056699Z,irender-map-kit,0.7.0,0,0,https://github.com/kaushik-xs/iRender,"Maps for iRender documents, on OpenStreetMap or Google Maps: markers, popups, shapes, clustering and picking a place"
+2026-11-22T18:28:40.280608Z,gpdoc-plugin-ordered-list,0.1.0,0,0,https://github.com/hhhjin/gpdoc,Ordered list plugin for the gpdoc rich-text editor
+2026-11-22T18:31:57.084513Z,toddstack-renderer,0.1.0,0,0,https://github.com/goddtriffin/toddstack,"One GPU renderer on wgpu for 2D scenes, custom instanced batches and compute kernels, with a tiny-skia CPU fallback that is also the pixel reference. Web (wasm), Apple, Android and Windows."
+2026-11-22T18:33:41.101312Z,neonhive,0.1.0,0,0,https://github.com/juanpalopez/neonhive,"Cyberpunk terminal UI that visualizes Claude Code agents and subagents, live or as a replay"
+2026-11-22T18:37:46.0381Z,lib_jsl_interpolation,2.21.1,0,0,https://github.com/jwkunz/lib_jsl,"Interpolation in one to N dimensions: splines and B-splines of any degree, smoothing splines, piecewise polynomials, rational, Chebyshev, Fourier, scattered data and radial basis functions."
+2026-11-22T18:37:58.428976Z,seatwise,0.1.0,0,0,https://github.com/b070nd/seatwise,"Agentic development seats manager: keep Claude Code and Codex accounts out of each other's work, with per-seat config, org, folders and optional guard hooks"
+2026-11-22T18:38:39.070894Z,gpdoc-plugin-task-list,0.1.0,0,0,https://github.com/hhhjin/gpdoc,gpdoc support for task lists and task items
+2026-11-22T18:44:03.908591Z,neo-core,0.1.0,0,0,https://github.com/Kostyanikov/NeuroLib,"Foundational primitives for signal recordings: exact time and sample rates, buffers, errors, the RecordingSource contract, out-of-core window streaming"
+2026-11-22T18:44:17.27924Z,neo-quantization,0.1.0,0,0,https://github.com/Kostyanikov/NeuroLib,"Quantization formats for NeuroLib: GGUF Q4_0..Q8_1, K-quants Q2_K..Q8_K, the IQ series, NF4, ternary/TQ and INT1..INT8"
+2026-11-22T18:44:27.471051Z,neo-io,0.1.0,0,0,https://github.com/Kostyanikov/NeuroLib,"Recording formats and containers: .npy, .npz, Zarr; with `neuro`: NWB, SpikeGLX, mtscomp, probe geometry, sorting files"
+2026-11-22T18:44:39.601496Z,neo-store,0.1.0,0,0,https://github.com/Kostyanikov/NeuroLib,"syn format - storage of NeuroLib weights: binary container with a network graph (analogous to NIR), checksums, mmap reading, quantized and sparse tensors, sharding"
+2026-11-22T18:44:50.081369Z,neo-synk,0.1.0,0,0,https://github.com/Kostyanikov/NeuroLib,"Fused CubeCL kernels for NeuroLib: quantized GEMM, leaky scan, spike and surrogate operations"
+2026-11-22T18:47:46.32192Z,lib_jsl_machine_learning,2.21.1,0,0,https://github.com/jwkunz/lib_jsl,"Machine learning: regression, classification, clustering, dimensionality reduction, neural networks and boosting."
+2026-11-22T18:48:35.652704Z,gpdoc-plugin-list-kit,0.1.0,0,0,https://github.com/hhhjin/gpdoc,gpdoc support for the list plugin bundle
+2026-11-22T18:50:32.972353Z,asciiflake,0.1.0,0,0,https://github.com/nixpulvis/asciiflake,Draw random snowflakes in the terminal
+2026-11-22T18:51:31.10965Z,lsdocs-doctree,0.1.0,0,0,https://github.com/lsdocs/lsdocs-doctree,"Document tree (AST) types: nodes, spans and metadata."
+2026-11-22T18:51:32.084795Z,sengi,0.1.0,0,0,https://github.com/ilikepi63/sengi,"Generator for testing inputs, maximizing user defined differences"
+2026-11-22T18:57:20.154453Z,lsdocs-config,0.1.0,0,0,https://github.com/lsdocs/lsdocs-protocol,lsdocs configuration and plugin manifest types.
+2026-11-22T18:57:25.552004Z,lsdocs-protocol,0.1.0,0,0,https://github.com/lsdocs/lsdocs-protocol,Message and capability types for the lsdocs plugin protocol.
+2026-11-22T18:57:46.482435Z,lib_jsl_optimization,2.21.1,0,0,https://github.com/jwkunz/lib_jsl,"Optimization algorithms including gradient-based, gradient-free, and stochastic methods."
+2026-11-22T18:58:30.203423Z,capture-system-or-process-audio-core,1.3.1,0,0,https://github.com/s0d3s/capture-system-or-process-audio,"Safe-Rust portable PCM stream contracts, software mixer, resampler, and core backend traits for capture-system-or-process-audio"
+2026-11-22T18:58:40.404513Z,gpdoc-plugin-mathematics,0.1.0,0,0,https://github.com/hhhjin/gpdoc,Mathematics plugin for the gpdoc rich-text editor
+2026-11-22T18:58:53.852611Z,capture-system-or-process-audio-windows,1.3.1,0,0,https://github.com/s0d3s/capture-system-or-process-audio,"Windows WASAPI speaker loopback, process-tree, and microphone backend for capture-system-or-process-audio"
+2026-11-22T18:59:04.639005Z,capture-system-or-process-audio-linux,1.3.1,0,0,https://github.com/s0d3s/capture-system-or-process-audio,Runtime-loaded PipeWire and PulseAudio backend for capture-system-or-process-audio
+2026-11-22T18:59:16.151443Z,capture-system-or-process-audio-macos,1.3.1,0,0,https://github.com/s0d3s/capture-system-or-process-audio,"Apple Silicon macOS Core Audio process tap, HAL input, and ScreenCaptureKit backend for capture-system-or-process-audio"
+2026-11-22T18:59:43.870798Z,capture-system-or-process-audio,1.3.1,0,0,https://github.com/s0d3s/capture-system-or-process-audio,"Unified safe-Rust cross-platform system, process, application, and microphone PCM audio capture facade"
+2026-11-22T19:01:45.124121Z,nai-lattice-core,0.1.0,0,0,https://github.com/cyberluke/NAI-Lattice,"NAI Lattice core domain types: events, global identity, durability classes."
+2026-11-22T19:04:02.959271Z,oidc-mock,0.1.0,0,0,,Mock OpenID Connect / OAuth 2.0 authorization server for testing
+2026-11-22T19:05:21.811532Z,nai-lattice-git,0.1.0,0,0,https://github.com/cyberluke/NAI-Lattice,Git repository reader and provenance helpers for NAI Lattice.
+2026-11-22T19:07:45.554693Z,lib_jsl_sorting,2.21.1,0,0,https://github.com/jwkunz/lib_jsl,Sorting and selection algorithms.
+2026-11-22T19:08:39.302352Z,gpdoc-plugin-strike,0.1.0,0,0,https://github.com/hhhjin/gpdoc,Strike plugin for the gpdoc rich-text editor
+2026-11-22T19:08:59.306482Z,ampack-core,0.1.0,0,0,https://github.com/joslat/agent-memory-dotnet,"Verify and read ampack memory packs for AI agents: an independent, strict verifier of the format, no_std with alloc."
+2026-11-22T19:09:01.825335Z,ampack,0.1.0,0,0,https://github.com/joslat/agent-memory-dotnet,The ampack-rs command: verify and inspect ampack memory packs for AI agents against a trust policy.
+2026-11-22T19:09:41.200913Z,telorama-scene,0.1.0,0,0,https://github.com/david-engelmann/telorama,"Scene spec, honesty validator, and telemetry derivations for the telorama visualization engine"
+2026-11-22T19:09:45.480801Z,agent-canvas,0.1.0,0,0,https://github.com/DarmaCahya/agent-toolkit,"Pure-Rust visual computing & calculation artifacts for AI agents: flowcharts, business charts, math typesetting, and Excel logic."
+2026-11-22T19:10:52.86752Z,telorama-ingest,0.1.0,0,0,https://github.com/david-engelmann/telorama,OpenTelemetry file ingest for the telorama visualization engine
+2026-11-22T19:11:49.027806Z,libspu2,0.1.0,0,0,https://github.com/JidouGhost-TL/libspu2-rs,Standalone pure-Rust PlayStation 2 SPU2 (and PS1 SPU) audio synthesis library
+2026-11-22T19:11:57.17699Z,nai-lattice-hotstore,0.1.0,0,0,https://github.com/cyberluke/NAI-Lattice,HotStore trait: immutable-by-construction KV keyspace abstraction over production hot stores (SurrealKV/Fjall).
+2026-11-22T19:12:50.604102Z,lshorter-api,1.0.0,0,0,https://github.com/Konvelbo/LShorter-api,"Official Rust SDK for LShorter — Ultra-fast Edge URL Shortener, Dynamic Routing, PathLock™, and Conversion Tracking."
+2026-11-22T19:13:15.321646Z,telorama-svg,0.1.0,0,0,https://github.com/david-engelmann/telorama,Deterministic DisplayList and SVG rendering for the telorama visualization engine
+2026-11-22T19:14:14.637298Z,telorama,0.1.0,0,0,https://github.com/david-engelmann/telorama,Command line front end for the telorama visualization engine
+2026-11-22T19:14:52.596445Z,neo-view,0.1.0,0,0,https://github.com/Kostyanikov/NeuroLib,Preparing multi-channel signals for viewing: min/max envelopes and pyramids
+2026-11-22T19:15:07.28153Z,telorama-mcp,0.1.0,0,0,https://github.com/david-engelmann/telorama,MCP server for the telorama visualization engine
+2026-11-22T19:15:08.599737Z,neo-synapse,0.1.0,0,0,https://github.com/Kostyanikov/NeuroLib,"Spike-train metrics and sorting-file loading for curation: correlograms, ISI, firing rate, snippets, PCA"
+2026-11-22T19:15:31.715244Z,neo-nn,0.1.0,0,0,https://github.com/Kostyanikov/NeuroLib,"Generic neural network layers for NeuroLib: quantized linear, MoE, transformer blocks, embeddings"
+2026-11-22T19:15:34.728367Z,mavparam,0.1.0,0,0,https://github.com/Mattbusel/mavparam,"Drone parameter files in Rust: read, write and diff ArduPilot / Mission Planner .param, MAVProxy .parm and QGroundControl .params, compared as float32 the way the autopilot stores them, with optional…"
+2026-11-22T19:17:46.689793Z,lib_jsl_statistics,2.21.1,0,0,https://github.com/jwkunz/lib_jsl,"Descriptive statistics, univariate and multivariate distributions, correlation, hypothesis tests, effect sizes, density estimation and resampling."
+2026-11-22T19:18:23.635175Z,gv-viewer,0.5.0,0,0,https://github.com/zeqianli/tgv,The viewer logic that TGV's terminal and graphical front ends share.
+2026-11-22T19:18:25.887307Z,tgv-gui,0.5.0,0,0,https://github.com/zeqianli/tgv,A graphical genome viewer with TGV's keys and layout.
+2026-11-22T19:18:37.437487Z,gpdoc-plugin-markdown,0.1.0,0,0,https://github.com/hhhjin/gpdoc,CommonMark import and export for gpdoc editors
