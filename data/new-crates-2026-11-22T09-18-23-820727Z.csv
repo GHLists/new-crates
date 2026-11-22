@@ -1,0 +1,39 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-22T08:19:23.087778Z,r-mapserver,0.8.2,0,0,,HTTP map server: WMS / WMTS / TMS / MVT / PMTiles / ArcGIS tile cache / COG tile services (axum + tokio).
+2026-11-22T08:20:37.998783Z,bicdb-cell,1.0.525,0,0,https://github.com/nikoma/bicdb,"Cell construction boundary of the BicDB database. Part of BicDB, one database for SQL (PostgreSQL protocol), a Redis-compatible cache, search and vectors; install `bicdb`"
+2026-11-22T08:22:35.446825Z,dcmnorm,0.20.0,0,0,https://github.com/pohcee/dcmnorm,"Fast DICOM toolkit: parse, render, transcode, reformat, de-identify and network (DIMSE) DICOM medical images."
+2026-11-22T08:27:22.952443Z,rxtop,0.1.1,0,0,https://github.com/NikoPit/rxtop,A minimal process resource manager for the terminal
+2026-11-22T08:28:21.194393Z,rinui-platform,0.1.0-alpha.2,0,0,https://github.com/unDefFtr/rinui-rs,Platform capabilities and configuration persistence for rinui-rs
+2026-11-22T08:28:37.131722Z,rinui-host,0.1.0-alpha.2,0,0,https://github.com/unDefFtr/rinui-rs,Rust-native host and bindings for RinUI (Qt Quick/QML)
+2026-11-22T08:30:43.071177Z,bicdb-provider-email,1.0.525,0,0,https://github.com/nikoma/bicdb,"SMTP provider for the BicDB application host. Part of BicDB, one database for SQL (PostgreSQL protocol), a Redis-compatible cache, search and vectors; install `bicdb`"
+2026-11-22T08:31:43.760793Z,pds2-specializer-generic,0.1.1,0,0,,PDS2 specializer for basic types
+2026-11-22T08:31:57.191964Z,pds2-specializer-bifrostlink,0.1.1,0,0,,PDS2 specializer for bifrostlink
+2026-11-22T08:32:06.843359Z,pds2-specializer-protobuf,0.1.1,0,0,,PDS2 specializer for protobuf
+2026-11-22T08:32:13.179187Z,pds2-specializer-minecraft-data,0.1.1,0,0,,PDS2 specializer for minecraft-data protocols
+2026-11-22T08:32:21.458699Z,pds2-specializer-csn1,0.1.1,0,0,,PDS2 specializer for CSN.1
+2026-11-22T08:32:49.029868Z,dcmnorm-cli,0.20.0,0,0,https://github.com/pohcee/dcmnorm,DICOM read/write/transcode/render CLI
+2026-11-22T08:36:12.095932Z,vmnl_vulkano,0.35.2-vmnl.1,0,0,https://github.com/HugoDuda/vulkano,Vulkano 0.35.2 with a device-loss cleanup backport for VMNL Graphics
+2026-11-22T08:40:47.908394Z,bicdb-provider-embeddings,1.0.525,0,0,https://github.com/nikoma/bicdb,"Local embedding provider for the BicDB application host. Part of BicDB, one database for SQL (PostgreSQL protocol), a Redis-compatible cache, search and vectors; install `bicdb`"
+2026-11-22T08:42:37.189686Z,dcmtalk,0.20.0,0,0,https://github.com/pohcee/dcmnorm,DICOM network (DIMSE) CLI: echoscu/storescu/findscu/movescu/storescp
+2026-11-22T08:45:02.393545Z,at32-pac,0.1.0,0,0,,Peripheral access crate for Artery AT32 Cortex-M microcontrollers
+2026-11-22T08:46:25.241846Z,sigillr,0.1.0,0,0,https://github.com/startr-trade/sigillr,"A public identity registry: register your certificate's key under a pseudonym, and let anyone check it"
+2026-11-22T08:47:37.493564Z,subspace-auth-return,0.2.0,0,0,,Subspace Framework: the browser page a loopback sign-in returns to. Internal crate; apps depend on `subspace-framework`.
+2026-11-22T08:47:45.366369Z,subspace-account,0.2.0,0,0,,"Subspace Framework: provider-neutral native account sessions, credential storage and the loopback sign-in callback. Internal crate; apps depend on `subspace-framework`."
+2026-11-22T08:47:49.160686Z,subspace-entra-auth,0.2.0,0,0,,Subspace Framework: native public-client Microsoft Entra sign-in and its protected session lifecycle. Internal crate; apps depend on `subspace-framework`.
+2026-11-22T08:47:52.359249Z,subspace-workos-auth,0.2.0,0,0,,"Subspace Framework: native WorkOS AuthKit sign-in through the system browser, with PKCE and a loopback callback or with device authorisation. Internal crate; apps depend on `subspace-framework`."
+2026-11-22T08:51:12.272467Z,bicdb-provider-grpc,1.0.525,0,0,https://github.com/nikoma/bicdb,"Unary gRPC provider for the BicDB application host. Part of BicDB, one database for SQL (PostgreSQL protocol), a Redis-compatible cache, search and vectors; install `bicdb`"
+2026-11-22T08:54:47.579085Z,incular-cli,0.1.5,0,0,https://github.com/FabortLabs/incular,"Builds, installs and screenshots Incular apps on Android and iOS"
+2026-11-22T08:54:53.564306Z,djangors-contrib-gis,1.0.0,0,0,https://github.com/QUANTORA-ltd/djangors,"GeoDjango-equivalent spatial types, WKT parsing, Haversine distance, and PostGIS SQL helpers for Djangors"
+2026-11-22T08:55:43.846294Z,incular-host,0.1.5,0,0,https://github.com/FabortLabs/incular,"Shell-independent host core shared by Incular's desktop, web and mobile shells"
+2026-11-22T08:55:51.610106Z,incular-mobile,0.1.5,0,0,https://github.com/FabortLabs/incular,Mobile embedder engine shared by Incular's Android and iOS shells
+2026-11-22T08:56:05.283603Z,djangors-contrib-sites,1.0.0,0,0,https://github.com/QUANTORA-ltd/djangors,Multi-site domain resolution and Site model for Djangors
+2026-11-22T08:58:47.518694Z,eldiron-parley,0.9.0,0,0,https://github.com/markusmoenig/Eldiron,Parley rich text layout with Eldiron's editor and segmentation patches
+2026-11-22T09:01:17.066114Z,bicdb-provider-llm,1.0.525,0,0,https://github.com/nikoma/bicdb,"Structured LLM provider for the BicDB application host. Part of BicDB, one database for SQL (PostgreSQL protocol), a Redis-compatible cache, search and vectors; install `bicdb`"
+2026-11-22T09:07:45.783778Z,theframework-core,0.96.0,0,0,https://github.com/markusmoenig/Eldiron,Shared data types and platform-independent utilities for TheFramework
+2026-11-22T09:07:49.287549Z,eldiron-renderkit,0.96.0,0,0,https://github.com/markusmoenig/Eldiron,Shared WebGPU rendering and resource management for Eldiron
+2026-11-22T09:07:55.989816Z,denrim-materials,0.96.0,0,0,https://github.com/markusmoenig/Eldiron,"Shared procedural material IR, text format, CPU evaluator and Metal generator"
+2026-11-22T09:11:21.894227Z,bicdb-provider-redis,1.0.525,0,0,https://github.com/nikoma/bicdb,"Redis-compatible provider for the BicDB application host. Part of BicDB, one database for SQL (PostgreSQL protocol), a Redis-compatible cache, search and vectors; install `bicdb`"
+2026-11-22T09:12:34.944813Z,eldiron-cjk-font-data,0.96.0,0,0,https://github.com/markusmoenig/Eldiron,Noto Sans CJK browser fallback font data for TheFramework
+2026-11-22T09:12:59.894781Z,eldiron-runtime,0.96.0,0,0,https://github.com/markusmoenig/Eldiron,Renderer-independent local game sessions for Eldiron hosts.
+2026-11-22T09:14:17.623521Z,eldiron-network,0.96.0,0,0,https://github.com/markusmoenig/Eldiron,Networking and public client asset delivery for Eldiron RPGs
+2026-11-22T09:15:45.957076Z,test_cargo_my_BubuahihiXC,0.1.0,0,0,,"not a a product, just a test"

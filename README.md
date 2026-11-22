@@ -8,52 +8,52 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-22 08:18 UTC
+## Latest list — 2026-11-22 09:18 UTC
 
-New crates published between 2026-11-22 07:19 UTC and 2026-11-22 08:18 UTC.
+New crates published between 2026-11-22 08:18 UTC and 2026-11-22 09:18 UTC.
 
-[Full CSV](data/new-crates-2026-11-22T08-18-22-815949Z.csv)
+[Full CSV](data/new-crates-2026-11-22T09-18-23-820727Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-22 07:20:10 | [bicdb-blob-s3](https://crates.io/crates/bicdb-blob-s3) | 1.0.525 | 0 | S3-compatible blob provider for the BicDB application host. Part of BicDB, one… |
-| 2026-11-22 07:20:52 | [litz-part-eeprom](https://crates.io/crates/litz-part-eeprom) | 0.1.0 | 0 | Reference Litz part: a 24C02 I2C serial EEPROM as a WebAssembly component. |
-| 2026-11-22 07:21:30 | [xpoa-cli](https://crates.io/crates/xpoa-cli) | 0.6.0 | 0 | POA consensus per group from a grouped FASTA |
-| 2026-11-22 07:21:37 | [account-management](https://crates.io/crates/account-management) | 2.0.0 | 0 | Windows Local User and Group Management (lusrmgr) desktop GUI and CLI written i… |
-| 2026-11-22 07:24:46 | [kctl](https://crates.io/crates/kctl) | 0.1.1 | 0 | A Linux kernel manager |
-| 2026-11-22 07:27:56 | [giong-quic](https://crates.io/crates/giong-quic) | 1.3.0 | 0 | QUIC for the giong thread-per-core runtime: endpoints, streams and 0-RTT on rus… |
-| 2026-11-22 07:29:25 | [nodewipe-core](https://crates.io/crates/nodewipe-core) | 0.9.9 | 0 | Core engine for nodewipe — High-speed parallel scanner and safe excision engine… |
-| 2026-11-22 07:30:13 | [bicdb-cell-admission](https://crates.io/crates/bicdb-cell-admission) | 1.0.525 | 0 | Fleet admission evidence checks for BicDB cells. Part of BicDB, one database fo… |
-| 2026-11-22 07:30:20 | [nodewipe](https://crates.io/crates/nodewipe) | 0.9.9 | 0 | The surgical, blazing-fast dev-environment cleaner written in Rust |
-| 2026-11-22 07:30:23 | [dcmnorm-core](https://crates.io/crates/dcmnorm-core) | 0.20.0 | 0 | DICOM core value/VR/tag types for dcmnorm, forked from dicom-core 0.9.1. See RE… |
-| 2026-11-22 07:30:24 | [dcmnorm-jpeg](https://crates.io/crates/dcmnorm-jpeg) | 0.20.0 | 0 | JPEG baseline/extended/lossless decoder for dcmnorm, forked from jpeg-decoder 0… |
-| 2026-11-22 07:30:24 | [dcmnorm-jpeg2000](https://crates.io/crates/dcmnorm-jpeg2000) | 0.20.0 | 0 | JPEG 2000 codecs for dcmnorm: OpenHTJ2K (HTJ2K, vendored) and OpenJPEG (classic… |
-| 2026-11-22 07:30:26 | [dcmnorm-dictionary](https://crates.io/crates/dcmnorm-dictionary) | 0.20.0 | 0 | Standard DICOM data dictionary for dcmnorm, forked from dicom-dictionary-std 0.… |
-| 2026-11-22 07:30:28 | [dcmnorm-encoding](https://crates.io/crates/dcmnorm-encoding) | 0.20.0 | 0 | DICOM encoding/decoding primitives for dcmnorm, forked from dicom-encoding 0.9.… |
-| 2026-11-22 07:31:17 | [oss-c2rs](https://crates.io/crates/oss-c2rs) | 0.1.0 | 0 | Pure-Rust, cross-platform SDK for Alibaba Cloud OSS (port of aliyun-oss-c-sdk 3… |
-| 2026-11-22 07:31:35 | [litz-project](https://crates.io/crates/litz-project) | 0.1.0 | 0 | Portable Litz project documents: the circuit, its source files and runner optio… |
-| 2026-11-22 07:33:08 | [tsint](https://crates.io/crates/tsint) | 0.1.0 | 0 | 完全自作 TypeScript インタプリタ（Noiria エンジン用）。T2: バイトコードコンパイラ + 明示スタック VM。T3: Promise /… |
-| 2026-11-22 07:37:35 | [fms](https://crates.io/crates/fms) | 0.1.0 | 0 | Placeholder for a Flexibilitätsmanagementsystem (DSO flexibility management, §… |
-| 2026-11-22 07:40:17 | [bicdb-cell-device](https://crates.io/crates/bicdb-cell-device) | 1.0.525 | 0 | Filtered offline device replicas for BicDB cells. Part of BicDB, one database f… |
-| 2026-11-22 07:42:58 | [dcmnorm-parser](https://crates.io/crates/dcmnorm-parser) | 0.20.0 | 0 | DICOM dataset streaming reader/writer for dcmnorm, forked from dicom-parser 0.9… |
-| 2026-11-22 07:43:36 | [litz-chip-conformance](https://crates.io/crates/litz-chip-conformance) | 0.1.0 | 0 | The contract checks every Litz chip backend has to pass. |
-| 2026-11-22 07:43:40 | [tc_cts_modes](https://crates.io/crates/tc_cts_modes) | 0.1.0 | 0 | Cipher text stealing over ECB and CBC, after Bouncy Castle's CtsBlockCipher, be… |
-| 2026-11-22 07:46:16 | [revkit](https://crates.io/crates/revkit) | 0.1.0 | 0 | Pre-push review of committed changes |
-| 2026-11-22 07:48:12 | [speedyspec-php](https://crates.io/crates/speedyspec-php) | 0.4.0 | 0 | Embedded, statically linked PHP interpreter for speedyspec. |
-| 2026-11-22 07:48:13 | [speedyspec-wp-hooks](https://crates.io/crates/speedyspec-wp-hooks) | 0.1.1 | 0 | WordPress's Hook API (plugin.php and WP_Hook) as commands and queries over a ho… |
-| 2026-11-22 07:48:13 | [speedyspec-compat](https://crates.io/crates/speedyspec-compat) | 0.5.1 | 0 | Recorded compatibility: run a catalogue of scenarios against WordPress's origin… |
-| 2026-11-22 07:48:14 | [speedyspec-php-ext](https://crates.io/crates/speedyspec-php-ext) | 0.1.3 | 0 | The speedyspec_wordpress PHP extension's shared parts: PHP twins of Rust ports,… |
-| 2026-11-22 07:48:14 | [speedyspec-wp-hooks-memory](https://crates.io/crates/speedyspec-wp-hooks-memory) | 0.1.1 | 0 | The in-memory hook store, with worker-lifetime and request-lifetime partitions. |
-| 2026-11-22 07:50:21 | [bicdb-cell-grant](https://crates.io/crates/bicdb-cell-grant) | 1.0.525 | 0 | Encrypted object grants between BicDB cells. Part of BicDB, one database for SQ… |
-| 2026-11-22 07:52:56 | [dcmnorm-transcode](https://crates.io/crates/dcmnorm-transcode) | 0.20.0 | 0 | DICOM transfer-syntax registry and pixel codecs for dcmnorm, forked from dicom-… |
-| 2026-11-22 08:00:27 | [bicdb-cell-ha](https://crates.io/crates/bicdb-cell-ha) | 1.0.525 | 0 | High-availability control and fencing primitives for BicDB cells. Part of BicDB… |
-| 2026-11-22 08:02:52 | [dcmnorm-dimse](https://crates.io/crates/dcmnorm-dimse) | 0.20.0 | 0 | In-house DICOM Upper Layer Protocol (PS3.8) implementation, replacing dicom-ul.… |
-| 2026-11-22 08:08:29 | [rusty-bot-messages](https://crates.io/crates/rusty-bot-messages) | 0.1.0 | 0 | Provider-neutral LLM messages, multimodal history, streaming events, and prompt… |
-| 2026-11-22 08:08:33 | [rusty-bot-providers](https://crates.io/crates/rusty-bot-providers) | 0.1.0 | 0 | Unified streaming LLM providers for OpenAI, Anthropic, and DeepSeek |
-| 2026-11-22 08:10:30 | [bicdb-fleet](https://crates.io/crates/bicdb-fleet) | 1.0.525 | 0 | App root and fleet authorization primitives for BicDB. Part of BicDB, one datab… |
-| 2026-11-22 08:12:26 | [dcmnorm-object](https://crates.io/crates/dcmnorm-object) | 0.20.0 | 0 | In-house DICOM in-memory object model and Part 10 file I/O, replacing dicom-obj… |
-| 2026-11-22 08:15:57 | [speedyspec-container-php](https://crates.io/crates/speedyspec-container-php) | 0.1.3 | 0 | The service container from PHP: SpeedySpec\Container\Container, PHP bindings as… |
-| 2026-11-22 08:15:58 | [speedyspec-wp-hooks-php](https://crates.io/crates/speedyspec-wp-hooks-php) | 0.1.5 | 0 | WordPress's hook functions, WP_Hook and the hook globals in PHP, native over th… |
+| 2026-11-22 08:19:23 | [r-mapserver](https://crates.io/crates/r-mapserver) | 0.8.2 | 0 | HTTP map server: WMS / WMTS / TMS / MVT / PMTiles / ArcGIS tile cache / COG til… |
+| 2026-11-22 08:20:37 | [bicdb-cell](https://crates.io/crates/bicdb-cell) | 1.0.525 | 0 | Cell construction boundary of the BicDB database. Part of BicDB, one database f… |
+| 2026-11-22 08:22:35 | [dcmnorm](https://crates.io/crates/dcmnorm) | 0.20.0 | 0 | Fast DICOM toolkit: parse, render, transcode, reformat, de-identify and network… |
+| 2026-11-22 08:27:22 | [rxtop](https://crates.io/crates/rxtop) | 0.1.1 | 0 | A minimal process resource manager for the terminal |
+| 2026-11-22 08:28:21 | [rinui-platform](https://crates.io/crates/rinui-platform) | 0.1.0-alpha.2 | 0 | Platform capabilities and configuration persistence for rinui-rs |
+| 2026-11-22 08:28:37 | [rinui-host](https://crates.io/crates/rinui-host) | 0.1.0-alpha.2 | 0 | Rust-native host and bindings for RinUI (Qt Quick/QML) |
+| 2026-11-22 08:30:43 | [bicdb-provider-email](https://crates.io/crates/bicdb-provider-email) | 1.0.525 | 0 | SMTP provider for the BicDB application host. Part of BicDB, one database for S… |
+| 2026-11-22 08:31:43 | [pds2-specializer-generic](https://crates.io/crates/pds2-specializer-generic) | 0.1.1 | 0 | PDS2 specializer for basic types |
+| 2026-11-22 08:31:57 | [pds2-specializer-bifrostlink](https://crates.io/crates/pds2-specializer-bifrostlink) | 0.1.1 | 0 | PDS2 specializer for bifrostlink |
+| 2026-11-22 08:32:06 | [pds2-specializer-protobuf](https://crates.io/crates/pds2-specializer-protobuf) | 0.1.1 | 0 | PDS2 specializer for protobuf |
+| 2026-11-22 08:32:13 | [pds2-specializer-minecraft-data](https://crates.io/crates/pds2-specializer-minecraft-data) | 0.1.1 | 0 | PDS2 specializer for minecraft-data protocols |
+| 2026-11-22 08:32:21 | [pds2-specializer-csn1](https://crates.io/crates/pds2-specializer-csn1) | 0.1.1 | 0 | PDS2 specializer for CSN.1 |
+| 2026-11-22 08:32:49 | [dcmnorm-cli](https://crates.io/crates/dcmnorm-cli) | 0.20.0 | 0 | DICOM read/write/transcode/render CLI |
+| 2026-11-22 08:36:12 | [vmnl_vulkano](https://crates.io/crates/vmnl_vulkano) | 0.35.2-vmnl.1 | 0 | Vulkano 0.35.2 with a device-loss cleanup backport for VMNL Graphics |
+| 2026-11-22 08:40:47 | [bicdb-provider-embeddings](https://crates.io/crates/bicdb-provider-embeddings) | 1.0.525 | 0 | Local embedding provider for the BicDB application host. Part of BicDB, one dat… |
+| 2026-11-22 08:42:37 | [dcmtalk](https://crates.io/crates/dcmtalk) | 0.20.0 | 0 | DICOM network (DIMSE) CLI: echoscu/storescu/findscu/movescu/storescp |
+| 2026-11-22 08:45:02 | [at32-pac](https://crates.io/crates/at32-pac) | 0.1.0 | 0 | Peripheral access crate for Artery AT32 Cortex-M microcontrollers |
+| 2026-11-22 08:46:25 | [sigillr](https://crates.io/crates/sigillr) | 0.1.0 | 0 | A public identity registry: register your certificate's key under a pseudonym,… |
+| 2026-11-22 08:47:37 | [subspace-auth-return](https://crates.io/crates/subspace-auth-return) | 0.2.0 | 0 | Subspace Framework: the browser page a loopback sign-in returns to. Internal cr… |
+| 2026-11-22 08:47:45 | [subspace-account](https://crates.io/crates/subspace-account) | 0.2.0 | 0 | Subspace Framework: provider-neutral native account sessions, credential storag… |
+| 2026-11-22 08:47:49 | [subspace-entra-auth](https://crates.io/crates/subspace-entra-auth) | 0.2.0 | 0 | Subspace Framework: native public-client Microsoft Entra sign-in and its protec… |
+| 2026-11-22 08:47:52 | [subspace-workos-auth](https://crates.io/crates/subspace-workos-auth) | 0.2.0 | 0 | Subspace Framework: native WorkOS AuthKit sign-in through the system browser, w… |
+| 2026-11-22 08:51:12 | [bicdb-provider-grpc](https://crates.io/crates/bicdb-provider-grpc) | 1.0.525 | 0 | Unary gRPC provider for the BicDB application host. Part of BicDB, one database… |
+| 2026-11-22 08:54:47 | [incular-cli](https://crates.io/crates/incular-cli) | 0.1.5 | 0 | Builds, installs and screenshots Incular apps on Android and iOS |
+| 2026-11-22 08:54:53 | [djangors-contrib-gis](https://crates.io/crates/djangors-contrib-gis) | 1.0.0 | 0 | GeoDjango-equivalent spatial types, WKT parsing, Haversine distance, and PostGI… |
+| 2026-11-22 08:55:43 | [incular-host](https://crates.io/crates/incular-host) | 0.1.5 | 0 | Shell-independent host core shared by Incular's desktop, web and mobile shells |
+| 2026-11-22 08:55:51 | [incular-mobile](https://crates.io/crates/incular-mobile) | 0.1.5 | 0 | Mobile embedder engine shared by Incular's Android and iOS shells |
+| 2026-11-22 08:56:05 | [djangors-contrib-sites](https://crates.io/crates/djangors-contrib-sites) | 1.0.0 | 0 | Multi-site domain resolution and Site model for Djangors |
+| 2026-11-22 08:58:47 | [eldiron-parley](https://crates.io/crates/eldiron-parley) | 0.9.0 | 0 | Parley rich text layout with Eldiron's editor and segmentation patches |
+| 2026-11-22 09:01:17 | [bicdb-provider-llm](https://crates.io/crates/bicdb-provider-llm) | 1.0.525 | 0 | Structured LLM provider for the BicDB application host. Part of BicDB, one data… |
+| 2026-11-22 09:07:45 | [theframework-core](https://crates.io/crates/theframework-core) | 0.96.0 | 0 | Shared data types and platform-independent utilities for TheFramework |
+| 2026-11-22 09:07:49 | [eldiron-renderkit](https://crates.io/crates/eldiron-renderkit) | 0.96.0 | 0 | Shared WebGPU rendering and resource management for Eldiron |
+| 2026-11-22 09:07:55 | [denrim-materials](https://crates.io/crates/denrim-materials) | 0.96.0 | 0 | Shared procedural material IR, text format, CPU evaluator and Metal generator |
+| 2026-11-22 09:11:21 | [bicdb-provider-redis](https://crates.io/crates/bicdb-provider-redis) | 1.0.525 | 0 | Redis-compatible provider for the BicDB application host. Part of BicDB, one da… |
+| 2026-11-22 09:12:34 | [eldiron-cjk-font-data](https://crates.io/crates/eldiron-cjk-font-data) | 0.96.0 | 0 | Noto Sans CJK browser fallback font data for TheFramework |
+| 2026-11-22 09:12:59 | [eldiron-runtime](https://crates.io/crates/eldiron-runtime) | 0.96.0 | 0 | Renderer-independent local game sessions for Eldiron hosts. |
+| 2026-11-22 09:14:17 | [eldiron-network](https://crates.io/crates/eldiron-network) | 0.96.0 | 0 | Networking and public client asset delivery for Eldiron RPGs |
+| 2026-11-22 09:15:45 | [test_cargo_my_BubuahihiXC](https://crates.io/crates/test_cargo_my_BubuahihiXC) | 0.1.0 | 0 | not a a product, just a test |
 
 ## Data source
 
