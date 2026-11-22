@@ -1,0 +1,25 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-22T03:23:05.945741Z,litz-diagram,0.1.0,0,0,https://github.com/Litz-Sim/litz,Circuit and netlist model for Litz: reads diagram.json and resolves wires into nets.
+2026-11-22T03:25:28.257145Z,backshift,0.1.0,0,0,https://github.com/sunsided/arima-rs,"ARIMA models fitted by exact maximum likelihood, with a streaming filter that runs without a heap"
+2026-11-22T03:26:15.74674Z,tsq1-cli,0.1.0,0,0,https://github.com/Nagitch/TSQ1,Command-line converter for Standard MIDI Files and TSQ1 sequences
+2026-11-22T03:28:23.573347Z,litz-catalog,0.1.0,0,0,https://github.com/Litz-Sim/litz,Part and dev-board manifests for Litz: the catalog a circuit's part types resolve against.
+2026-11-22T03:29:54.861866Z,auto-paint,0.1.2,0,0,https://github.com/bitplane/auto-paint,Watch Codex draw in Paintrs and record the result
+2026-11-22T03:34:55.809568Z,pomotimer,0.0.5,0,0,https://github.com/pakeelz/pomotimer,Pomodoro Timer on CLI
+2026-11-22T03:36:15.567961Z,kitu-core,0.1.0,0,0,https://github.com/Nagitch/kitu-logic-processor,"Foundational Kitu runtime types, errors, and timing primitives."
+2026-11-22T03:36:21.304702Z,y901-a11y,0.3.0,0,0,https://github.com/901548/y901,Accessibility bridge for Y901:语义树 → AccessKit（Windows UIA / Linux AT-SPI / Web ARIA 的共同底座）。
+2026-11-22T03:38:42.233096Z,litz-ble,0.1.0,0,0,https://github.com/Litz-Sim/litz,"The Bluetooth LE advertisers a circuit places: deterministic advertising data, scan responses and beacon addresses."
+2026-11-22T03:39:07.823692Z,dapane-core,0.1.0,0,0,https://github.com/edithatogo/dapane,"Exact, independent microcosting and valuation kernel"
+2026-11-22T03:42:51.588817Z,binrel,0.0.0,0,0,,Name held for the BinRel project. This package has no code.
+2026-11-22T03:46:18.748541Z,kitu-data-sqlite,0.1.0,0,0,https://github.com/Nagitch/kitu-logic-processor,SQLite-backed data utilities and schema helpers for Kitu tooling.
+2026-11-22T03:49:15.442608Z,litz-analog,0.1.0,0,0,https://github.com/Litz-Sim/litz,Deterministic modified-nodal-analysis solver for Litz: DC operating point and backward-Euler transient in pure Rust.
+2026-11-22T03:51:57.752918Z,hyperserve,0.1.0,0,0,https://github.com/hypereffect/hyperserve,"Serve hyperb apps at hyperb:// addresses, over HTTP(S) with Server-Sent Events and over iroh"
+2026-11-22T03:53:38.623464Z,degibbs,0.4.1,0,0,https://github.com/srikash/degibbs.rs,"Gibbs-ringing removal for MRI NIfTI images by local subvoxel shifts, with partial Fourier support"
+2026-11-22T03:55:09.024804Z,litz-ieee802154,0.1.0,0,0,https://github.com/Litz-Sim/litz,"IEEE 802.15.4 MAC data frames and 2.4 GHz airtime for Litz: FCF, addressing, FCS and channels."
+2026-11-22T03:56:21.455091Z,kitu-scripting-rhai,0.1.0,0,0,https://github.com/Nagitch/kitu-logic-processor,Rhai scripting bindings and helpers for the Kitu runtime.
+2026-11-22T03:59:22.264491Z,rtidy,1.0.0,0,0,https://github.com/thirawat27/Rtidy,"Find, clean and prevent scattered Rust target/ directories"
+2026-11-22T04:02:08.567504Z,zumen-stbridge,0.4.0,0,0,https://github.com/zumen-jp/zumen,zumen の ST-Bridge（構造の XML）の読み取りと、建物モデルへの移し（#400）
+2026-11-22T04:05:28.046145Z,litz-net,0.1.0,0,0,https://github.com/Litz-Sim/litz,"A deterministic IP network behind a simulated access point: DNS names and TCP/UDP services, no host sockets."
+2026-11-22T04:06:15.157681Z,kitu-calculation,0.1.0,0,0,https://github.com/Nagitch/kitu-logic-processor,Kitu adapter and namespaced extensions for the shared OpenFormula calculation kernel.
+2026-11-22T04:15:50.034937Z,litz-part-wit,0.1.0,0,0,https://github.com/Litz-Sim/litz,The WIT contract between Litz and a schematic part implemented as a WebAssembly component.
+2026-11-22T04:16:15.434362Z,kitu-ecs,0.1.0,0,0,https://github.com/Nagitch/kitu-logic-processor,Lightweight ECS world and scheduler used by the Kitu runtime loop.
+2026-11-22T04:19:01.391034Z,grana-update,0.2.3,0,0,https://github.com/formetaohy/Grana,Next-generation microscopy image visualization and analysis platform
