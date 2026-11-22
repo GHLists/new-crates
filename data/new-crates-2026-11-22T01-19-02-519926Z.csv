@@ -1,0 +1,35 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-22T00:20:02.431561Z,iec60870,0.1.0,0,0,https://github.com/hupe1980/iec60870,Placeholder for an IEC 60870 protocol implementation in Rust
+2026-11-22T00:25:53.454687Z,dlms-cosem-kit,0.1.0,0,0,https://github.com/hupe1980/dlms-cosem-kit,"DLMS/COSEM (IEC 62056) in Rust: sans-I/O, no_std, client and server, security suites 0-2"
+2026-11-22T00:26:58.252609Z,frus-cosmic-text,0.6.0,0,0,https://github.com/frus-rs/frus,"frus's copy of cosmic-text (multi-line text shaping and layout), with variable font axes, per-span language and dictionary line breaking"
+2026-11-22T00:26:59.344475Z,frus-macros,0.6.0,0,0,https://github.com/frus-rs/frus,"frus — compile-time macros: fonts embedded to be cut down, typed translations, typed routes"
+2026-11-22T00:28:53.668768Z,ogg_nrp,0.1.0,0,0,https://github.com/OctoKeights/ogg_nrp,"The Ogg container in pure, safe Rust: a native port of Xiph.Org's libogg, byte for byte, with pages and packets in both directions and its bit packers."
+2026-11-22T00:28:59.813753Z,theora_nrp,0.1.0,0,0,https://github.com/OctoKeights/theora_nrp,"A Theora video decoder in pure, safe Rust: a native port of Xiph.Org's libtheora decoder, picture for picture, with its post-processing filters."
+2026-11-22T00:31:51.8065Z,rocky-tcp,0.1.0-alpha.14,0,0,https://github.com/BierDav/rocky,"Rocky's network port on plain TCP for networks that already route and encrypt between peers, such as a WireGuard mesh"
+2026-11-22T00:31:54.304309Z,themis-auth,0.3.1,0,0,https://github.com/The-Hades-Organization/Themis,"Extensible authorization engine: permission catalog, RBAC, ABAC and ReBAC in one decision, with governance and auditing of changes."
+2026-11-22T00:32:33.33957Z,themis-sync,0.3.1,0,0,https://github.com/The-Hades-Organization/Themis,"Real time for Themis: permission change hub, transport trait, SSE/WebSocket sessions and capability cache."
+2026-11-22T00:33:23.671383Z,themis-redis,0.3.1,0,0,https://github.com/The-Hades-Organization/Themis,Redis pub/sub transport for the Themis change hub.
+2026-11-22T00:34:04.108122Z,themis-postgres,0.3.1,0,0,https://github.com/The-Hades-Organization/Themis,Postgres LISTEN/NOTIFY transport for the Themis change hub.
+2026-11-22T00:34:45.061166Z,themis-axum,0.3.1,0,0,https://github.com/The-Hades-Organization/Themis,axum SSE and WebSocket routes for the Themis real-time sessions.
+2026-11-22T00:35:45.705718Z,asx,0.20.0,0,0,https://github.com/hupe1980/asx,"AS2 and AS4 (ebMS3) B2B messaging: BDEW, Peppol, eDelivery and ENTSOG profiles, signed receipts and MDNs, one tower Service to receive"
+2026-11-22T00:35:58.660639Z,ws-rom,0.1.0,0,0,,"Checked WonderSwan cartridge headers, facts and address mapping"
+2026-11-22T00:36:46.560294Z,ws-compress,0.1.0,0,0,,Bounded WonderSwan compression grammars and deterministic encoders
+2026-11-22T00:36:51.069418Z,ws-gfx,0.1.0,0,0,,"Checked WonderSwan tiles, palettes, maps and snapshot rendering"
+2026-11-22T00:37:54.254751Z,ws-patch,0.1.0,0,0,,"Checked IPS patch parsing, validation, application and creation"
+2026-11-22T00:37:57.416672Z,ws-save,0.1.0,0,0,,"Checked WonderSwan save media, owner profiles and checksum rules"
+2026-11-22T00:45:57.859094Z,ws-text,0.1.0,0,0,,"Data-defined WonderSwan character maps, text tables and font extraction"
+2026-11-22T00:50:01.586095Z,asm-kit,0.2.0,0,0,https://github.com/hupe1980/asm-kit,Pure Rust multi-architecture runtime assembly engine
+2026-11-22T00:50:07.610071Z,asm-kit-macros,0.2.0,0,0,https://github.com/hupe1980/asm-kit,Compile-time assembly proc-macros for asm-kit
+2026-11-22T00:55:57.914389Z,ws-sound,0.1.0,0,0,,"Checked WonderSwan waves, sound driver records and bounded PCM previews"
+2026-11-22T01:01:32.891291Z,mitik-net,0.1.0,0,0,https://github.com/apatrushev/mitik,"Network plumbing for the mitik MikroTik tools: interfaces, raw Ethernet frames, UDP broadcast"
+2026-11-22T01:01:34.599976Z,mitik-mndp,0.1.0,0,0,https://github.com/apatrushev/mitik,MikroTik Neighbor Discovery Protocol (MNDP): find RouterOS devices on the local network
+2026-11-22T01:01:36.139227Z,mitik-mactelnet,0.1.0,0,0,https://github.com/apatrushev/mitik,"MikroTik MAC-Telnet: protocol, EC-SRP authentication, client, server and MAC-Ping"
+2026-11-22T01:01:37.737036Z,mitik,0.1.0,0,0,https://github.com/apatrushev/mitik,"Tools for MikroTik RouterOS devices: MAC-Telnet client and server, MAC-Ping, MNDP discovery"
+2026-11-22T01:05:58.484279Z,ws-saves,0.1.0,0,0,,Generated game save layouts and checked semantic decoding
+2026-11-22T01:15:50.684198Z,antalya-rs,0.1.0,0,0,https://github.com/f1b0-gh/antalya-rs,Community client for Antalya database
+2026-11-22T01:15:57.973099Z,ws-assets,0.1.0,0,0,,"Per-ROM asset maps: checked extraction, replacement and relocation of located assets"
+2026-11-22T01:16:27.844518Z,parsec-web,0.0.0,0,0,https://github.com/parsec-html/parsec,"Reserved for Parsec, the parsing foundation for the web (github.com/parsec-html/parsec). The first release comes with Parsec 0.3.0."
+2026-11-22T01:16:29.813485Z,parsec-web-core,0.0.0,0,0,https://github.com/parsec-html/parsec,"Reserved for Parsec, the parsing foundation for the web (github.com/parsec-html/parsec). The first release comes with Parsec 0.3.0."
+2026-11-22T01:16:31.639375Z,parsec-web-css,0.0.0,0,0,https://github.com/parsec-html/parsec,"Reserved for Parsec, the parsing foundation for the web (github.com/parsec-html/parsec). The first release comes with Parsec 0.3.0."
+2026-11-22T01:16:33.435186Z,parsec-web-encoding,0.0.0,0,0,https://github.com/parsec-html/parsec,"Reserved for Parsec, the parsing foundation for the web (github.com/parsec-html/parsec). The first release comes with Parsec 0.3.0."
+2026-11-22T01:18:21.913903Z,rgpui-font-kit,0.14.2,0,0,https://github.com/launcher-rs/rgpui-font-kit,A cross-platform font loading library
