@@ -1,0 +1,35 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-22T06:22:48.318593Z,bicdb-sql,1.0.525,0,0,https://github.com/nikoma/bicdb,"SQL engine of the BicDB database. Part of BicDB, one database for SQL (PostgreSQL protocol), a Redis-compatible cache, search and vectors; install `bicdb`"
+2026-11-22T06:23:04.980855Z,ladybom-cli,0.1.0,0,0,https://github.com/f1b0-gh/lady,"Inventory source dependencies, export SBOMs, and inspect dependency graphs"
+2026-11-22T06:27:19.453979Z,litz-mcp,0.1.0,0,0,https://github.com/Litz-Sim/litz,Rust-native Model Context Protocol server for Litz: stdio JSON-RPC over the existing simulator.
+2026-11-22T06:29:02.434408Z,ladyshell-cli,0.1.0,0,0,https://github.com/f1b0-gh/lady,Run authorized OpenShell tasks and retain their execution evidence
+2026-11-22T06:29:58.003212Z,qx-core,0.4.1,0,0,https://github.com/coeasy/qianxing,牵星内核：时间戳口径、事件溯源、重放校验与定点数值
+2026-11-22T06:29:58.499195Z,cargo-raf-workplan,0.0.0,0,0,https://github.com/Blackcat-Informatics/rust-agentic-foundations,"The cargo raf-workplan subcommand: check, status, the generated documents, the change lifecycle, history, evidence, assessments and coverage of a repository's capability documents."
+2026-11-22T06:30:03.527732Z,qx-control,0.4.1,0,0,https://github.com/coeasy/qianxing,查询、事件订阅与带审计的控制命令契约
+2026-11-22T06:32:54.450433Z,bicdb-workflow,1.0.525,0,0,https://github.com/nikoma/bicdb,"Stored script versions and transactional workflow jobs for BicDB. Part of BicDB, one database for SQL (PostgreSQL protocol), a Redis-compatible cache, search and vectors; install `bicdb`"
+2026-11-22T06:39:08.989919Z,litz-editor,0.1.0,0,0,https://github.com/Litz-Sim/litz,"Editing model for Litz schematics: the document, validated transactions, undo history and orthogonal wire geometry, with no UI toolkit."
+2026-11-22T06:46:05.033403Z,pds2-core,0.1.1,0,0,,PDS2 compiler
+2026-11-22T06:46:07.424954Z,pds-bits-runtime,0.1.1,0,0,,Bit-oriented runtime for pds2 generated Rust codecs
+2026-11-22T06:46:08.041888Z,pds2-cli,0.1.1,0,0,,Library for building CLIs for PDS compilers
+2026-11-22T06:46:08.657128Z,pds2-specializer-bytes,0.1.1,0,0,,PDS2 specializer for byte-based codecs
+2026-11-22T06:46:09.242477Z,protobuf-descriptor,0.1.1,0,0,,Protobuf descriptor decoder
+2026-11-22T06:48:23.657639Z,vspomni-rs,0.0.1,0,0,https://github.com/qqrm/vspomni-rs,"Universal memory search across local agent harness sessions (OpenCode, Codex, Claude, and configurable sources)"
+2026-11-22T06:49:38.810399Z,litz-part-74hc595,0.1.0,0,0,https://github.com/Litz-Sim/litz,Reference Litz part: a 74HC595 serial-in/parallel-out shift register as a WebAssembly component.
+2026-11-22T06:49:47.871019Z,bicdb-app-runtime,1.0.525,0,0,https://github.com/nikoma/bicdb,"Capability-mediated application runtime of the BicDB database. Part of BicDB, one database for SQL (PostgreSQL protocol), a Redis-compatible cache, search and vectors; install `bicdb`"
+2026-11-22T06:51:06.428888Z,scrip-miner,0.0.2,0,0,https://github.com/ohmictech/scrip,"Reference Scrip miner: create a config, fund a wallet, mine."
+2026-11-22T06:53:04.565574Z,pds2-specializer-protodef,0.1.1,0,0,,PDS2 specializer for protodef
+2026-11-22T06:57:30.664338Z,speedyspec-container,0.1.1,0,0,https://github.com/SpeedySpec/speedyspec-server,"A service container with the functionality of Laravel's: bindings, singletons, scoped instances, aliases, extenders, contextual bindings, tags and resolving callbacks, with worker and request lifetim…"
+2026-11-22T06:57:31.008598Z,speedyspec-hooks,0.1.1,0,0,https://github.com/SpeedySpec/speedyspec-server,"Hook contract for speedyspec: the Hooks trait, the Value type and a backend conformance suite. No storage."
+2026-11-22T06:57:31.535799Z,speedyspec-php-port-macros,0.1.1,0,0,https://github.com/SpeedySpec/speedyspec-server,#[php_port]: generates a Rust port trait's PHP twin interface and its PHP adapter.
+2026-11-22T06:57:32.118206Z,speedyspec-cqrs,0.1.1,0,0,https://github.com/SpeedySpec/speedyspec-server,"Command and query buses: handlers resolved from the service container by key, middleware, and direct dispatch."
+2026-11-22T06:57:32.534929Z,speedyspec-hooks-memory,0.1.1,0,0,https://github.com/SpeedySpec/speedyspec-server,In-memory backend for the speedyspec hook contract.
+2026-11-22T06:59:56.213971Z,bicdb-pgwire,1.0.525,0,0,https://github.com/nikoma/bicdb,"PostgreSQL wire-protocol server of the BicDB database. Part of BicDB, one database for SQL (PostgreSQL protocol), a Redis-compatible cache, search and vectors; install `bicdb`"
+2026-11-22T07:00:09.810554Z,litz-part-sdk,0.1.0,0,0,https://github.com/Litz-Sim/litz,Guest SDK for Litz parts: the litz:part@0.2.0 bindings and the helpers a component needs.
+2026-11-22T07:07:56.120094Z,auro-plugins,0.1.0-alpha.11,0,0,https://github.com/pdl-clay/auro,Signed static plugin discovery and verified plugin subjects for Auro
+2026-11-22T07:07:59.496101Z,gistral,0.1.0,0,0,https://github.com/jbene445/gistral,gistral for .gitignore
+2026-11-22T07:10:03.447893Z,bicdb-bench,1.0.525,0,0,https://github.com/nikoma/bicdb,"Benchmark and PostgreSQL compatibility harnesses for the BicDB database. Part of BicDB, one database for SQL (PostgreSQL protocol), a Redis-compatible cache, search and vectors; install `bicdb`"
+2026-11-22T07:10:34.231701Z,litz-part-display,0.1.0,0,0,https://github.com/Litz-Sim/litz,Reference Litz part: a small RGBA framebuffer display as a WebAssembly component.
+2026-11-22T07:13:33.640032Z,sigil-filter,0.1.0,0,0,https://github.com/ProjectRalyn/sigil,"Zero-dependency, near-zero-overhead heuristic string attack recognizer for Rust (SQLi, XSS, Path Traversal, Buffer Overflow, Command Injection, SSRF, SSTI, XXE, Deserialization, and more)"
+2026-11-22T07:14:53.041316Z,codeindex,0.1.0,0,0,https://github.com/andrei512/codeindex,"Local code and Markdown search for coding agents, with a zero-setup cx CLI"
+2026-11-22T07:16:01.470919Z,meshrepair,0.1.0,0,0,https://github.com/sinkingsugar/meshrepair,"Robust STL mesh repair for 3D printing: welding, cleanup, non-manifold resolution, orientation, hole filling; native and WebAssembly, no dependencies"
+2026-11-22T07:16:09.970651Z,engram-gate,0.1.0,0,0,https://github.com/sinkingsugar/engram,"A low-power, self-consolidating memory gate: the hippocampus in front of your vector store."
