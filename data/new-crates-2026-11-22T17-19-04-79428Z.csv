@@ -1,0 +1,69 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-22T16:18:23.840442Z,bletchmame,3.1.0,0,0,,A point and click front end for MAME
+2026-11-22T16:18:42.077108Z,gpdoc-plugin-floating-menu,0.1.0,0,0,https://github.com/hhhjin/gpdoc,Floating menu plugin for the gpdoc GPUI editor
+2026-11-22T16:20:00.146851Z,kiand,0.1.0,0,0,https://github.com/flyer103/kian-runtime,"Endpoint daemon: kian-endpoint's Endpoint + LocalExecutor behind a thin, fail-closed main"
+2026-11-22T16:20:48.573441Z,prismsdk-android,0.1.1,0,0,https://github.com/0xtlt/prismsdk,"Prism backend for Android: the app runs in Rust, a small Java host shows native Android views."
+2026-11-22T16:27:47.507395Z,lib_jsl_linalg,2.21.1,0,0,https://github.com/jwkunz/lib_jsl,"Dense linear algebra in pure Rust: LU, Cholesky, QR, LDLᵀ, Hessenberg and Schur forms, eigensolvers (also generalised, by QZ), structured and banded solvers, the SVD, least squares, the matrix expone…"
+2026-11-22T16:28:41.382591Z,gpdoc-plugin-focus,0.1.0,0,0,https://github.com/hhhjin/gpdoc,Paint the block around the selection anchor while the editor has focus in GPUI
+2026-11-22T16:29:58.877793Z,kian-claude,0.1.0,0,0,https://github.com/flyer103/kian-runtime,Claude Code bridge adapter: stream-json child behind the shared bridge skeleton (phase 1)
+2026-11-22T16:30:42.16704Z,tgsendfile,0.1.0,0,0,,"Tiny async library for sending files to Telegram via the Bot API. No logging, no tracing."
+2026-11-22T16:31:01.823886Z,prismsdk-windows,0.1.1,0,0,https://github.com/0xtlt/prismsdk,"Prism backend for Windows (WinUI 3, Windows App SDK)."
+2026-11-22T16:31:54.392912Z,prismsdk,0.1.1,0,0,https://github.com/0xtlt/prismsdk,Write a UI once in Rust; ship it as a web server (HTML/CSS/JS) or a native app.
+2026-11-22T16:32:15.203813Z,constraint-search,0.0.0,0,0,https://github.com/sunsided/constraint-search,"Finite-domain constraint satisfaction: propagation to a fixpoint, all-different reasoning, cost-ordered inference rules, backtracking with a trail and solution counting"
+2026-11-22T16:33:06.580731Z,pova,1.0.1,0,0,https://github.com/P0r0ro/pova,btop-style YouTube Music player with a built-in cava visualizer
+2026-11-22T16:37:46.433544Z,lib_jsl_number_theory,2.21.1,0,0,https://github.com/jwkunz/lib_jsl,"Number theory: modular arithmetic, primes, factorisation, the Chinese remainder theorem and polynomials."
+2026-11-22T16:38:42.139936Z,gpdoc-plugin-gap-cursor,0.1.0,0,0,https://github.com/hhhjin/gpdoc,Gap cursor plugin for gpdoc
+2026-11-22T16:39:16.512334Z,recalla,0.1.0,0,0,https://github.com/damndeepesh/recalla,"Local-first memory engine for coding agents: backfilled, provenance-linked, code-anchored memories."
+2026-11-22T16:39:19.273244Z,xact,0.0.0,0,0,,Reserved.
+2026-11-22T16:39:21.610771Z,stead,0.0.0,0,0,,Reserved.
+2026-11-22T16:39:33.085934Z,celobus-proto,0.1.0,0,0,https://github.com/celobus/sdk,"The Celobus plugin contract: protobuf messages and gRPC services of plugin.proto, generated with tonic"
+2026-11-22T16:39:39.859129Z,celobus-manifest,0.1.0,0,0,https://github.com/celobus/sdk,"The Celobus plugin manifest: roles, scopes, agents, requirements and its digest"
+2026-11-22T16:39:55.422806Z,celobus-descriptor,0.1.0,0,0,https://github.com/celobus/sdk,"The Celobus plugin descriptor: schema, canonical JSON, validation and the derived manifest"
+2026-11-22T16:39:57.179197Z,kian-codex,0.1.0,0,0,https://github.com/flyer103/kian-runtime,Codex bridge adapter: codex app-server JSON-RPC child behind the shared bridge skeleton (phase 1)
+2026-11-22T16:39:59.064765Z,celobus-sdk-derive,0.1.0,0,0,https://github.com/celobus/sdk,Derive macros of the Celobus plugin SDK: Message and Entity
+2026-11-22T16:40:22.733439Z,celobus-sdk,0.1.0,0,0,https://github.com/celobus/sdk,"The Celobus plugin SDK for Rust: declarations, the JSON codec, the platform session and --describe"
+2026-11-22T16:42:05.879751Z,prismsdk-cli,0.1.1,0,0,https://github.com/0xtlt/prismsdk,"The `prism` command: create, run, build and live-restart Prism apps."
+2026-11-22T16:42:11.3463Z,netscope-cli,0.3.2,0,0,https://github.com/Qiiks/netscope,Unprivileged netscope command line
+2026-11-22T16:42:23.32856Z,netscope-daemon,0.3.2,0,0,https://github.com/Qiiks/netscope,Privileged netscope daemon
+2026-11-22T16:47:46.425996Z,lib_jsl_random,2.21.1,0,0,https://github.com/jwkunz/lib_jsl,"Random number generators, quasi-random sequences and QMC sampling, distributions and MCMC."
+2026-11-22T16:48:34.854691Z,gpdoc-plugin-hard-break,0.1.0,0,0,https://github.com/hhhjin/gpdoc,Hard break plugin for the gpdoc rich-text editor
+2026-11-22T16:49:47.133768Z,splice-target,0.1.0,0,0,https://github.com/fexolm/lancy3,Shared host SIMD capabilities for Splice and Lancy
+2026-11-22T16:49:59.52584Z,kian-orchestrator,0.1.0,0,0,https://github.com/flyer103/kian-runtime,"Execution model, recovery subsystem (classification + policy + budget), control-plane implementation"
+2026-11-22T16:50:05.697Z,splice-macros,0.1.0,0,0,https://github.com/fexolm/lancy3,Procedural macros for the Splice kernel language
+2026-11-22T16:50:23.316446Z,lancy,0.1.0,0,0,https://github.com/fexolm/lancy3,A CPU JIT with SSA HIR and x86-64 and AArch64 code generation
+2026-11-22T16:50:27.23181Z,task-allocation,0.0.0,0,0,https://github.com/sunsided/task-allocation,"Decentralized multi-agent task allocation: consensus-based bundle algorithm (CBBA) and auctions that converge to conflict-free assignments over delayed, intermittent communication"
+2026-11-22T16:50:35.66121Z,splice-core,0.1.0,0,0,https://github.com/fexolm/lancy3,Core types and frontend for the Splice kernel language
+2026-11-22T16:50:45.354286Z,splice-jit,0.1.0,0,0,https://github.com/fexolm/lancy3,Native debug symbol registration for the Splice JIT backends
+2026-11-22T16:51:17.438382Z,ybus_sparse,0.1.0,0,0,https://github.com/slitchfield/ybus,"Sparse matrices: assembly, products, LU, Cholesky and LDLT factorizations, conjugate gradient and Matrix Market I/O"
+2026-11-22T16:51:19.47752Z,ybus_cuda,0.1.0,0,0,https://github.com/slitchfield/ybus,"Experimental GPU path for ybus_powerflow: sparse triangular solves with many right-hand sides on CUDA through cuSPARSE, behind a safe API"
+2026-11-22T16:51:19.88672Z,ybus_ipm,0.1.0,0,0,https://github.com/slitchfield/ybus,"Interior-point solvers for nonlinear programs: a port of MATPOWER's MIPS, and Mehrotra's predictor-corrector"
+2026-11-22T16:51:21.127503Z,ybus_powerflow,0.1.0,0,0,https://github.com/slitchfield/ybus,"Power flow for electrical grids: DC and AC power flow, optimal power flow, PTDF and LODF sensitivities and outages, validated against MATPOWER"
+2026-11-22T16:51:34.525521Z,zbridge,0.1.0,0,0,https://github.com/LIghtJUNction/zbridge,"Bounded, versioned CLI frontend protocol for Project Z"
+2026-11-22T16:52:11.92218Z,prismsdk-island,0.1.1,0,0,https://github.com/0xtlt/prismsdk,Write client-side islands for Prism web apps in Rust: small WASM Web Components with props from the server and events back.
+2026-11-22T16:52:14.512155Z,ranon,0.1.0,0,0,https://github.com/ludovicl/ranon,Masks personal data in command output before it reaches an LLM agent
+2026-11-22T16:55:06.25497Z,babelqueue,0.0.0,0,0,,"Rust SDK for BabelQueue, a broker-agnostic, language-agnostic queue message envelope standard. Placeholder: the SDK is in design; first functional release will be 0.1.0."
+2026-11-22T16:57:45.69497Z,lib_jsl_root_finding,2.21.1,0,0,https://github.com/jwkunz/lib_jsl,"Root finding: bracketing methods, Brent, Newton, polynomial roots, nonlinear systems and Jacobian-free Newton-Krylov."
+2026-11-22T16:57:54.659238Z,readkit-batch,0.1.1,0,0,https://github.com/drbh/readkit,"Columnar, pooled, Arrow-compatible batches of sequencing reads"
+2026-11-22T16:57:55.132428Z,readkit-fetch,0.1.1,0,0,https://github.com/drbh/readkit,"Ranged, verified, resumable HTTP downloads with file, memory and in-order stream sinks"
+2026-11-22T16:57:55.502241Z,readkit-gz,0.1.1,0,0,https://github.com/drbh/readkit,"gzip decoding (parallel for positioned input, sequential for streams) and a FASTQ-aware parallel gzip encoder"
+2026-11-22T16:57:56.767571Z,readkit-io,0.1.1,0,0,https://github.com/drbh/readkit,Batch source and sink traits and a read-ahead helper for readkit stages
+2026-11-22T16:57:58.534382Z,readkit-fastq,0.1.1,0,0,https://github.com/drbh/readkit,Strict FASTQ parsing into readkit batches and FASTQ writing out of them
+2026-11-22T16:58:40.28914Z,gpdoc-plugin-heading,0.1.0,0,0,https://github.com/hhhjin/gpdoc,Heading plugin for the gpdoc rich-text editor
+2026-11-22T16:59:46.522682Z,readkit-sra,0.1.1,0,0,https://github.com/drbh/readkit,".sra decoding into readkit batches with typed SRA Lite detection, and optional accession resolution"
+2026-11-22T16:59:59.113776Z,kian-loop,0.1.0,0,0,https://github.com/flyer103/kian-runtime,"LoopDriver seam, built-in ReAct loop"
+2026-11-22T17:03:08.049469Z,blive-proto,0.1.0,0,0,https://github.com/your-org/blive-proto,"Bilibili live room danmaku WebSocket, Protobuf, command, and authentication protocol library"
+2026-11-22T17:07:46.22982Z,lib_jsl_special_functions,2.21.1,0,0,https://github.com/jwkunz/lib_jsl,"Special functions: gamma, beta, error, Bessel, Airy, elliptic, hypergeometric and zeta functions, orthogonal polynomials."
+2026-11-22T17:08:38.551787Z,gpdoc-plugin-highlight,0.1.0,0,0,https://github.com/hhhjin/gpdoc,Highlight plugin for the gpdoc rich-text editor
+2026-11-22T17:09:28.942128Z,morpheus-sdk,0.1.6,0,0,https://github.com/aidreamy/morpheus,SDK crate for Morpheus - coding agent for the terminal
+2026-11-22T17:09:35.161303Z,morpheus-recall,0.1.5,0,0,https://github.com/aidreamy/morpheus,Memory/recall crate for Morpheus - coding agent for the terminal
+2026-11-22T17:09:46.147022Z,readkit,0.1.1,0,0,https://github.com/drbh/readkit,Zero-copy sequencing read batches and the stages that produce and consume them
+2026-11-22T17:09:59.291445Z,kian-memory,0.1.0,0,0,https://github.com/flyer103/kian-runtime,"Memory bundle (MEMORY-MODEL Phase 1): the dreaming drain — dream prompt, fail-closed note parser, DreamDriver"
+2026-11-22T17:13:05.86813Z,morpheus-tools,0.1.6,0,0,https://github.com/aidreamy/morpheus,Tools crate for Morpheus - coding agent for the terminal
+2026-11-22T17:13:21.280465Z,phdoc,0.1.0,0,0,https://github.com/wbic16/phdoc,"Project scanner for shipped artifacts: inventories dependencies, authors, complexity, code quality, declared RFCs, and the upstream repo, and keeps plain-English documentation in a multiversal phext…"
+2026-11-22T17:13:28.499537Z,morpheus-tui,0.1.6,0,0,https://github.com/aidreamy/morpheus,TUI crate for Morpheus - coding agent for the terminal
+2026-11-22T17:15:38.88739Z,morpheus-whatsapp,0.1.0,0,0,https://github.com/DiegoZaluski/morpheus,"WhatsApp Web (multi-device) integration for Morpheus — pair by QR code, send and receive messages"
+2026-11-22T17:16:14.593815Z,orochi-macros,0.1.0,0,0,https://github.com/aisk/orochi,The `#[orochi::module]` attribute macro (use it through the `orochi` crate)
+2026-11-22T17:16:50.094265Z,orochi,0.1.0,0,0,https://github.com/aisk/orochi,An ease-of-use-first layer over pyo3 for writing Python extensions in Rust
+2026-11-22T17:17:47.619395Z,lib_jsl_dsp,2.21.1,0,0,https://github.com/jwkunz/lib_jsl,"Digital signal processing routines including filters, transforms, resampling, and controls."
+2026-11-22T17:17:52.034983Z,claude-cx,0.4.0,0,0,https://github.com/protoworks-dev/claude-cx,"Several Claude accounts behind one Claude Code: a dashboard that shows each account's limits and what used them, and switches to the one with the most room"
+2026-11-22T17:18:38.178775Z,gpdoc-plugin-horizontal-rule,0.1.0,0,0,https://github.com/hhhjin/gpdoc,Horizontal rule plugin for the gpdoc rich-text editor
