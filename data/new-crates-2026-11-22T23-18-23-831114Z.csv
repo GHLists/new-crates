@@ -1,0 +1,40 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-22T22:21:07.890268Z,sendoff,0.0.1,0,0,https://github.com/mgeisler/sendoff,GitHub-native release tool
+2026-11-22T22:22:01.198046Z,nai-lattice-lakehouse,0.1.0,0,0,https://github.com/cyberluke/NAI-Lattice,"NAI Lattice lakehouse: Parquet/Arrow ingest, immutable snapshot manifests, and streaming delta synchronization for federated datasets of tutty-studio / nai-fabric-host."
+2026-11-22T22:28:39.570815Z,nousdb,0.1.0,0,0,https://github.com/Ctsap/nousdb,A semantic query engine: LLM-powered operators on Apache DataFusion
+2026-11-22T22:32:03.960454Z,nai-lattice-query,0.1.0,0,0,https://github.com/cyberluke/NAI-Lattice,"NAI Lattice lattice-query: structural SQL-over-Parquet, hybrid recall (lexical+vector+rerank), and reproducible 512K knowledge packs for federated datasets."
+2026-11-22T22:35:29.370363Z,bevy_framegen,0.1.0,0,0,https://git.connected-rails.org/Connected-Rails/bevy_framegen,Frame generation and temporal upscaling for Bevy: NVIDIA DLSS and AMD FSR 3 on Vulkan and DirectX 12
+2026-11-22T22:37:26.737472Z,logorrhea,0.1.0,0,0,https://codeberg.org/zwol/logorrhea,"Fast, cheap generation of asemic text using Markov chains."
+2026-11-22T22:41:29.343676Z,noscat-core,0.1.2,0,0,https://github.com/Letdown2491/noscat,Core library for noscat: a Nostr-native userspace tunnel and mesh tool
+2026-11-22T22:42:00.420121Z,noscat,0.1.2,0,0,https://github.com/Letdown2491/noscat,"like netcat, but over a Nostr-native mesh: npub-addressed tunnels, no root, no accounts"
+2026-11-22T22:42:01.007678Z,nai-lattice-gastown,0.1.0,0,0,https://github.com/cyberluke/NAI-Lattice,"Gas Town domain module inside NAI-Lattice (host/session registry, task epochs, review graph)."
+2026-11-22T22:46:58.711304Z,sendproof-core,0.1.0-alpha.1,0,0,https://github.com/mprync/sendproof,"Framework-neutral core of the Sendproof protocol: capture, limits, traces, capabilities and the embedded workbench UI."
+2026-11-22T22:47:20.538723Z,ferrijs-intl,0.10.0,0,0,https://github.com/salamaashoush/ferrijs,"ECMA-402 Intl for the ferrijs QuickJS runtime, on ICU4X with compiled data: Intl.* and the locale-sensitive String, Number, BigInt and Date methods."
+2026-11-22T22:48:17.803167Z,sendproof-axum,0.1.0-alpha.1,0,0,https://github.com/mprync/sendproof,Axum integration for Sendproof: an embedded API workbench with rollback previews and observed sends.
+2026-11-22T22:48:30.083951Z,sendproof-sqlx,0.1.0-alpha.1,0,0,https://github.com/mprync/sendproof,"SQLx data layer for Sendproof (SQLite, PostgreSQL, MySQL): real transaction rollback previews with row-level change capture."
+2026-11-22T22:48:37.840365Z,sendproof-actix,0.1.0-alpha.1,0,0,https://github.com/mprync/sendproof,Actix Web integration for Sendproof: an embedded API workbench with rollback previews and observed sends.
+2026-11-22T22:48:45.24674Z,sendproof-redis,0.1.0-alpha.1,0,0,https://github.com/mprync/sendproof,Redis write guard for Sendproof: a Preview reads Redis normally and is stopped before the first write is sent.
+2026-11-22T22:51:47.68624Z,sendproof-dynamodb,0.1.0-alpha.1,0,0,https://github.com/mprync/sendproof,DynamoDB write guard for Sendproof: an AWS SDK interceptor that stops a Preview before the first write is sent.
+2026-11-22T22:52:01.494877Z,nai-lattice-runtime,0.1.0,0,0,https://github.com/cyberluke/NAI-Lattice,NAI Lattice runtime: wires ledger + hotstore + CAS + AAF and dispatches NAF/1 capabilities.
+2026-11-22T22:58:48.991395Z,simd-string-from-utf8,0.1.0,0,0,https://github.com/cero/simd-string-from-utf8,"SIMD-accelerated drop-in replacement for String::from_utf8, built on simdutf8 with a std fallback"
+2026-11-22T23:02:22.613389Z,scatter-normalize,0.1.0,0,0,https://github.com/scatterbase/triplespace,"Normalizers and comparison keys for Wikibase values: URLs, hosts (UTS 46), value keys by data type, and resolver keys such as DOIs"
+2026-11-22T23:02:23.705621Z,testguard,0.1.0,0,0,https://gitlab.com/mateuszkj/testguard,Sandbox test processes to enforce size constraints (small/medium/large)
+2026-11-22T23:02:40.659516Z,sendproof-mongodb,0.1.0-alpha.1,0,0,https://github.com/mprync/sendproof,"MongoDB Preview and write guard for Sendproof: a Preview runs in a transaction that is aborted, and reports document changes."
+2026-11-22T23:02:45.397704Z,scatter-keyed,0.1.0,0,0,https://github.com/scatterbase/triplespace,"Keyed entity types for Wikibase: entities identified by a normalized natural key (domains, keywords, notations), with their registry, grammars and normalizers"
+2026-11-22T23:04:09.408695Z,qk-state,0.0.0,0,0,https://github.com/Pajn/qk,"Name reservation for qk-state, a component of the qk task runner"
+2026-11-22T23:10:15.750977Z,pinel-code-editor,0.1.0,0,0,https://github.com/kashsuks/Pinel,"Pinel's fork of iced-code-editor: a code editor widget for the Iced GUI framework with syntax highlighting, line numbers, and scrolling support."
+2026-11-22T23:10:43.667719Z,sendproof-cassandra,0.1.0-alpha.1,0,0,https://github.com/mprync/sendproof,Cassandra write guard for Sendproof: a Preview reads Cassandra normally and is stopped before the first write is sent.
+2026-11-22T23:11:09.210979Z,cordex-cache,0.1.0-beta.2,0,0,https://github.com/lejylabs/cordex,Optional in-memory cache fed by gateway events.
+2026-11-22T23:11:13.825728Z,punggol,0.0.1,0,0,https://github.com/theodoreOnzGit/outram-park-backend,"PUNGGOL (Particle transport, UNcertainty, Geometry, Gamma transport, Optimization Library) — radiation transport beyond neutrons: photons, electrons and positrons. First code (2026-11-20): decay-phot…"
+2026-11-22T23:11:16.744349Z,kembangan,0.0.1,0,0,https://github.com/theodoreOnzGit/outram-park-backend,"KEMBANGAN (Kinetics, Elasticity and Materials Behaviour for Aging in Nuclear Environments through Generative AI and Numerical Modelling) — materials damage under irradiation. First code (2026-11-22):…"
+2026-11-22T23:11:22.957277Z,sv-bigint,0.5.1,0,0,https://github.com/mayurkubavat/svlang,Arbitrary-width two's complement integer for SystemVerilog constant evaluation (svlang)
+2026-11-22T23:11:23.285531Z,sv-fxhash,0.5.1,0,0,https://github.com/mayurkubavat/svlang,The fast non-cryptographic Fx hasher and FxMap/FxSet aliases that the svlang crates use for internal maps
+2026-11-22T23:11:28.817698Z,sv-ir,0.5.1,0,0,https://github.com/mayurkubavat/svlang,Elaborated-design and constant-value data types shared by the svlang semantic passes
+2026-11-22T23:11:29.31014Z,sv-scopes,0.5.1,0,0,https://github.com/mayurkubavat/svlang,"Scopes and symbols of every SystemVerilog design unit, and the IEEE 1800-2023 name checks on them (svlang)"
+2026-11-22T23:11:30.087869Z,sv-checks,0.5.1,0,0,https://github.com/mayurkubavat/svlang,"IEEE 1800-2023 semantic checks found from SystemVerilog syntax trees and their scopes: types, binding, classes, calls, declaration order, SVA, UDPs and hierarchical names (svlang)"
+2026-11-22T23:11:49.079167Z,sv-expr,0.5.1,0,0,https://github.com/mayurkubavat/svlang,IEEE 1800-2023 typed RTL expression binding against an elaborated SystemVerilog design (svlang)
+2026-11-22T23:12:57.175237Z,lsdocs-rst,0.1.0,0,0,https://github.com/lsdocs/lsdocs-rst,A reStructuredText parser producing a docutils-style document tree with source spans.
+2026-11-22T23:13:00.323962Z,sentinel-scan,1.0.0,0,0,https://github.com/sebastianjnuwu/sentinel,"Fast, cross-platform Rust CLI for multi-ecosystem dependency, license, and OSV vulnerability scanning."
+2026-11-22T23:13:15.593913Z,lsdocs-parser-rst,0.1.0,0,0,https://github.com/lsdocs/lsdocs-rst,First-party reStructuredText parser plugin.
+2026-11-22T23:16:43.400752Z,romux,0.1.0,0,0,https://github.com/Aspenini/romux,"Romux: inspect, extract, verify, bundle, convert and compress console game packages"
+2026-11-22T23:16:45.59687Z,romux-cli,0.1.0,0,0,https://github.com/Aspenini/romux,The romux command-line tool
