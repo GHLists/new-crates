@@ -1,0 +1,75 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-22T14:19:42.658188Z,multicast-app-model,1.0.0,0,0,https://github.com/douglance/multicast,Toolkit-neutral interaction model for interactive multicast surfaces
+2026-11-22T14:21:13.194708Z,oadsrust,0.1.0,0,0,https://github.com/realminc/oads,Content-addressed dataset packs and loaders for OA
+2026-11-22T14:23:33.678984Z,rust-webx-ef,2.7.0,0,0,https://github.com/Rust-Framework/rust-webx,rust-webx boundary for rust-ef: sanitized EFError -> webx::Error mapping
+2026-11-22T14:24:03.401905Z,tempit,2.0.0,0,0,https://github.com/idirxv/tempit,Manage and jump into temporary working directories
+2026-11-22T14:25:47.116211Z,evorule-export-services,0.1.1,0,0,https://github.com/evorule/evorule-services,"Deliverable-export native services (report PDF rendering + content-addressed persistence) - pure-Rust text rendering engine, mounted on the evorule-server service chain via declaration tables"
+2026-11-22T14:26:40.988388Z,rust-webx-outbox-ef,2.7.0,0,0,https://github.com/Rust-Framework/rust-webx,"Transactional outbox for rust-webx events: same-transaction enqueue, lease-based dispatch, retry/backoff and dead-letter with rust-ef"
+2026-11-22T14:26:58.977154Z,pakem-live,1.0.2,0,0,https://github.com/pakem-rs/framework,Server-Driven Reactive UI for Pakem Framework (inspired by Laravel Livewire & Phoenix LiveView)
+2026-11-22T14:27:35.375323Z,docforge,0.1.2,0,0,https://github.com/dwdcth/docforge,通用文档解析：统一块级 IR + 格式路由 + PDF 页级混合路由（文字层直提 / OCR），OCR 与翻译友好输出
+2026-11-22T14:28:34.491109Z,gpdoc-plugin-character-count,0.1.0,0,0,https://github.com/hhhjin/gpdoc,Character Count plugin for the gpdoc editor
+2026-11-22T14:29:14.353943Z,multicast-app-ratatui,1.0.0,0,0,https://github.com/douglance/multicast,"Terminal application surface for multicast command graphs, built on ratatui"
+2026-11-22T14:30:46.587545Z,rust-webx-pay,2.7.0,0,0,https://github.com/Rust-Framework/rust-webx,"Provider-neutral payment ports, models and webhook ingress for rust-webx (Stripe, Alipay, WeChat Pay, PayPal, Adyen, Square)"
+2026-11-22T14:30:59.074901Z,rust-webx-pay-stripe,2.7.0,0,0,https://github.com/Rust-Framework/rust-webx,"Stripe adapter for rust-webx-pay: PaymentIntents, refunds and webhook signature verification"
+2026-11-22T14:31:10.714502Z,neyuki-ext,0.1.0,0,0,https://github.com/neyuki-lang/neyuki,Write Neyuki native extensions and native packages in safe Rust
+2026-11-22T14:31:18.018326Z,rust-webx-pay-alipay,2.7.0,0,0,https://github.com/Rust-Framework/rust-webx,"Alipay adapter for rust-webx-pay: page/wap/app/precreate, RSA2 signing, notification verification (public-key and certificate mode)"
+2026-11-22T14:31:27.917143Z,rust-webx-pay-wechatpay,2.7.0,0,0,https://github.com/Rust-Framework/rust-webx,"WeChat Pay APIv3 adapter for rust-webx-pay: Native/JSAPI/App/H5, request signing, platform-certificate verification and AEAD resource decryption"
+2026-11-22T14:35:36.53596Z,monako-libghostty-vt-sys,0.2.1,0,0,https://github.com/lingosandi/monako-terminal-core,"Monako fork of libghostty-rs: Raw FFI bindings for libghostty-vt, the Ghostty terminal emulation library"
+2026-11-22T14:35:45.488825Z,monako-libghostty-vt,0.2.1,0,0,https://github.com/lingosandi/monako-terminal-core,"Monako fork of libghostty-rs (uzaaft) at Ghostty 0b8b9984: Safe Rust API for libghostty-vt, the Ghostty terminal emulation library"
+2026-11-22T14:35:54.482699Z,monako-terminal-renderer,0.2.0,0,0,https://github.com/lingosandi/monako-terminal-core,"Pure Rust terminal renderer: font/shaping (cosmic-text), glyph atlas, quad building, wgpu render loop. No Electron dependency. Bundled font matrix fixtures live in assets/ (test-only; excluded from t…"
+2026-11-22T14:36:03.933261Z,monako-terminal-core,0.2.0,0,0,https://github.com/lingosandi/monako-terminal-core,"Shared terminal engine: libghostty-vt driver core (host loop, frame mapping, keyboard encoder, PTY byte sources, kitty graphics). No embedder bindings — Electron napi and the glasses' mono3d host con…"
+2026-11-22T14:36:48.229631Z,rust-webx-pay-square,2.7.0,0,0,https://github.com/Rust-Framework/rust-webx,Square Payments adapter for rust-webx-pay: payments/refunds and HMAC webhook verification
+2026-11-22T14:37:39.395155Z,hardroxide-mmio,2.7.0,0,0,https://github.com/jwkunz/Hardroxide,"MMIO backend trait with /dev/mem, UIO and mock backends"
+2026-11-22T14:37:54.48186Z,hardroxide-hwh,2.7.0,0,0,https://github.com/jwkunz/Hardroxide,Parse Vivado XSA / HWH hardware handoff into a typed design model
+2026-11-22T14:37:55.435536Z,hardroxide-irq,2.7.0,0,0,https://github.com/jwkunz/Hardroxide,"PL interrupt waiting over Linux UIO, blocking and (feature `async`) async"
+2026-11-22T14:37:56.364411Z,hardroxide-crypto,2.7.0,0,0,https://github.com/jwkunz/Hardroxide,"Cryptographic primitives written for Hardroxide: SHA-256, SHA-512, HMAC, HKDF, ChaCha20-Poly1305, X25519, Ed25519; no_std, no allocation, no dependencies. Educational: not audited."
+2026-11-22T14:37:58.531022Z,hardroxide-net,2.7.0,0,0,https://github.com/jwkunz/Hardroxide,"A small IPv4 stack written for Hardroxide: Ethernet, ARP, ICMP echo, UDP, DHCP, TCP and an HTTP/1.1 server; no_std, no allocation, no dependencies"
+2026-11-22T14:38:07.998972Z,urlmenu,0.1.0,0,0,https://github.com/sortzaile/urlmenu,Pick a browser for each link through your dmenu-style launcher
+2026-11-22T14:39:45.551605Z,gpdoc-plugin-code-block,0.1.0,0,0,https://github.com/hhhjin/gpdoc,Code block plugin for the gpdoc rich-text editor
+2026-11-22T14:40:18.909113Z,evorule-verification-services,0.1.1,0,0,https://github.com/evorule/evorule-services,"Logic-verification native services (propositional SAT deterministic DPLL/finite-state-machine reachability/two-machine complete DFA equivalence) - pure computation, mounted on the evorule-server IoDi…"
+2026-11-22T14:43:23.690579Z,pace27io,0.1.0,0,0,https://codeberg.org/pace-stride/pace27io,Rust crate to read PACE2027 instances and solutions
+2026-11-22T14:43:42.573144Z,dealbreaker,1.0.0,0,0,https://github.com/samdobson/dealbreaker,"A data-driven solver for patience / solitaire card games: describe a game's rules as data, get solutions or proofs of unsolvability."
+2026-11-22T14:43:49.743889Z,dealbreaker-cli,1.0.0,0,0,https://github.com/samdobson/dealbreaker,Command-line front end for the dealbreaker crate.
+2026-11-22T14:44:08.231491Z,prismsdk-core,0.1.0,0,0,https://github.com/0xtlt/prismsdk,"Platform-agnostic core of Prism: elements, styles, entities and the reconciler."
+2026-11-22T14:44:12.455002Z,prismsdk-push,0.1.0,0,0,https://github.com/0xtlt/prismsdk,"Send push notifications from your server: APNs (token-based, HTTP/2), FCM HTTP v1 and Web Push (RFC 8291 + VAPID). Also decrypts Web Push messages for UnifiedPush receivers."
+2026-11-22T14:44:15.663335Z,prismsdk-apple-build,0.1.0,0,0,https://github.com/0xtlt/prismsdk,"Build-script helper: compiles Prism's Swift bridge (WidgetKit, ActivityKit, UserNotifications) and links it."
+2026-11-22T14:44:19.941248Z,prismsdk-build,0.1.0,0,0,https://github.com/0xtlt/prismsdk,"Build-time helpers for Prism apps: checked, typed translations from locales/*.json, and the app binary's link settings (Apple SDK settings; on Windows the Windows App SDK runtime, manifest, icon and…"
+2026-11-22T14:44:27.784249Z,prismsdk-http,0.1.0,0,0,https://github.com/0xtlt/prismsdk,"HTTP for Prism apps: `cx.fetch(Request::get(url)).await`, off the UI thread, same code on every platform."
+2026-11-22T14:47:38.935267Z,rust-webx-pay-paypal,2.7.0,0,0,https://github.com/Rust-Framework/rust-webx,"PayPal Orders v2 adapter for rust-webx-pay: OAuth2 token cache, orders/capture/refund and verify-webhook-signature"
+2026-11-22T14:47:54.408737Z,evorule-video-services,0.1.1,0,0,https://github.com/evorule/evorule-services,"Deterministic video-domain predicate native services (contrast/frame-sequence events/trajectory conservation/subtitle timeline) - pure-computation static predicates, mounted on the evorule-server IoD…"
+2026-11-22T14:47:59.887107Z,hardroxide-gfx,2.7.0,0,0,https://github.com/jwkunz/Hardroxide,"A small 2D graphics library over a pixel buffer: lines, shapes, blits and text; no_std, no allocation"
+2026-11-22T14:48:38.191729Z,gpdoc-plugin-code-block-lowlight,0.1.0,0,0,https://github.com/hhhjin/gpdoc,Code block lowlight plugin for the gpdoc rich-text editor
+2026-11-22T14:48:54.61539Z,multicast-cli,1.0.0,0,0,https://github.com/douglance/multicast,Code generation and Agent Plugins client tools for multicast-based Rust CLIs
+2026-11-22T14:50:21.8094Z,sgi-disk,0.1.0,0,0,https://github.com/danifunker/rusty-backup,"Build SGI/IRIX disk images (volume header + EFS, XFS or label only) and open their partitions as disk-core filesystems"
+2026-11-22T14:50:23.017276Z,rb-fsimporter,0.1.0,0,0,https://github.com/danifunker/rusty-backup,"Import a host folder into any editable disk-core filesystem, with progress, cancellation and archive expansion"
+2026-11-22T14:54:34.782658Z,prismsdk-ui,0.1.0,0,0,https://github.com/0xtlt/prismsdk,"Prism's customizable component library: themed, accessible, overridable, with a native escape hatch."
+2026-11-22T14:56:54.68715Z,comma-common,0.1.0,0,0,https://github.com/fleetingbytes/comma-rs,Shared helpers for comma CLI and TUI
+2026-11-22T14:57:05.32288Z,comma-cli,0.1.1,0,0,https://github.com/fleetingbytes/comma-rs,Command line apps for Comma devices
+2026-11-22T14:57:18.430445Z,comma-tui,0.1.0,0,0,https://github.com/fleetingbytes/comma-rs,Terminal user interface for comma devices
+2026-11-22T14:57:41.298183Z,rust-webx-pay-adyen,2.7.0,0,0,https://github.com/Rust-Framework/rust-webx,Adyen Checkout adapter for rust-webx-pay: payments/captures/refunds and HMAC webhook verification
+2026-11-22T14:58:00.054171Z,hardroxide-dma,2.7.0,0,0,https://github.com/jwkunz/Hardroxide,DMA buffer abstraction with ownership tracking and a udmabuf backend
+2026-11-22T14:58:39.701511Z,gpdoc-plugin-table,0.1.0,0,0,https://github.com/hhhjin/gpdoc,"gpdoc support for tables, rows, and cells"
+2026-11-22T15:01:59.525553Z,evorule-trace-audit-services,0.1.1,0,0,https://github.com/evorule/evorule-services,"Event-stream audit native services (behavioral-entropy window sequences/approval density and frame reconciliation/generation-split indexing/epoch-mixing sentinel) - pure computation, mounted on the e…"
+2026-11-22T15:03:07.165185Z,astatine-derive,0.1.0,0,0,https://github.com/Neovimproved/astatine,Derive crate for astatine
+2026-11-22T15:04:14.276229Z,astatine,0.1.0,0,0,https://github.com/Neovimproved/astatine,WIP Compiler
+2026-11-22T15:04:43.025986Z,stringcue,0.1.0,0,0,https://codefloe.com/Freddy404/stringcue,String Compressed Unicode Encoding - encode unicode more space efficient than utf-8 by sacrificing robustness like byte-boundaries.
+2026-11-22T15:05:14.933576Z,evl,0.1.0,0,0,https://github.com/Fasamii/muxw,Event triggered event loop
+2026-11-22T15:06:08.851717Z,adaliszk-console-macros,0.1.0,0,0,https://codeberg.org/adaliszk/rust-toolbox,Procedural-macro companion for adaliszk-console.
+2026-11-22T15:06:11.466121Z,adaliszk-console,0.1.0,0,0,https://codeberg.org/adaliszk/rust-toolbox,A small command framework over clap and inventory with compile-time registration.
+2026-11-22T15:06:18.205192Z,multicast-app-gpui,1.0.0,0,0,https://github.com/douglance/multicast,"Native desktop application surface for multicast command graphs, built on GPUI"
+2026-11-22T15:07:38.142299Z,rust-webx-pay-ef,2.7.0,0,0,https://github.com/Rust-Framework/rust-webx,"Durable payment webhook inbox for rust-webx-pay: unique dedupe key, retry/backoff and dead-letter with rust-ef"
+2026-11-22T15:07:59.917566Z,hardroxide-fat,2.7.0,0,0,https://github.com/jwkunz/Hardroxide,"A FAT32 file system over a block device: read, write, directories, long names, format; no_std, no allocation"
+2026-11-22T15:08:05.974616Z,prismsdk-native,0.1.0,0,0,https://github.com/0xtlt/prismsdk,Shared machinery for native Prism backends: patch handling and flexbox layout (taffy).
+2026-11-22T15:08:37.998565Z,tekmerion,0.1.0,0,0,https://github.com/infinityabundance/tekmerion,"Typed, content-addressed revocation for kernel-checked proof evidence"
+2026-11-22T15:08:42.416919Z,gpdoc-plugin-collaboration,0.1.0,0,0,https://github.com/hhhjin/gpdoc,Yrs document synchronization and local collaborative undo for gpdoc
+2026-11-22T15:09:39.819203Z,kian-core,0.1.0,0,0,https://github.com/flyer103/kian-runtime,"Concept model, session state machine, six-invariant assertions"
+2026-11-22T15:09:41.479361Z,kian-cron,0.1.0,0,0,https://github.com/flyer103/kian-runtime,"Cron scheduling core: expression grammar, DST-correct next-fire math, misfire policy (CRON-MODEL §2, §5)"
+2026-11-22T15:09:42.488031Z,kian-imessage-bridge,0.1.0,0,0,https://github.com/flyer103/kian-runtime,macOS-side iMessage bridge: a loopback HTTP ABI over `imsg rpc` for the kian imessage channel
+2026-11-22T15:09:43.715323Z,kian-sdk,0.1.0,0,0,https://github.com/flyer103/kian-runtime,Wire-only embedded SDK for the kian control/ops planes (JSON-RPC + SSE)
+2026-11-22T15:09:46.345723Z,kian-dsh,0.1.0,0,0,https://github.com/flyer103/kian-runtime,dsh bridge: the LoopDriver that drives a dsh --profile sdk child process over stdio JSON-lines (ADR-010)
+2026-11-22T15:09:47.177398Z,evorule-dimensional-check,0.1.1,0,0,https://github.com/evorule/evorule-services,"Dimensional-consistency native services (unit-expression lhs/rhs comparison, SI seven base dimensions plus currency dimension) - pure computation, mounted on the evorule-server IoDispatcher as an IoH…"
+2026-11-22T15:16:38.188008Z,diypets,0.1.0,0,0,https://github.com/smresponsibilities/diypets,Make your own desktop pet - lightweight cross-platform Rust mascot engine with a built-in 2-bone IK creator studio and eSheep XML support.
+2026-11-22T15:17:59.768888Z,hardroxide-fpga,2.7.0,0,0,https://github.com/jwkunz/Hardroxide,Bitstream loading and PL clock control via Linux fpga_manager
+2026-11-22T15:18:38.611009Z,gpdoc-plugin-collaboration-caret,0.1.0,0,0,https://github.com/hhhjin/gpdoc,Yrs awareness and remote selections for gpdoc
+2026-11-22T15:18:45.26989Z,multicast-codemode,1.0.0,0,0,https://github.com/douglance/multicast,Portable durable Code Mode runtime for multicast tools
+2026-11-22T15:19:14.850629Z,prismsdk-web,0.1.0,0,0,https://github.com/0xtlt/prismsdk,Prism web backend: server-side rendering + DOM patches over a WebSocket. No WASM. Embeddable in Axum or any HTTP server.
