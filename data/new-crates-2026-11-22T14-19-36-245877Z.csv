@@ -1,0 +1,46 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-22T13:19:46.055691Z,keywork-css,0.2.0,0,0,https://tangled.org/rockorager.dev/keywork,"CSS for documents without a document tree: tokenizing, style sheets, selectors as data, media queries, values with calc(), colors, typed declarations, and interned computed styles"
+2026-11-22T13:19:46.638119Z,keywork-html,0.2.0,0,0,https://tangled.org/rockorager.dev/keywork,"A WHATWG HTML tokenizer and tree builder without dependencies that recovers from broken markup as browsers do, into a compact DOM with interned names"
+2026-11-22T13:19:56.303978Z,keywork-net,0.2.0,0,0,https://tangled.org/rockorager.dev/keywork,"HTTP/1.1 and HTTPS for Keywork apps, on the event loop's own sockets and tasks"
+2026-11-22T13:19:59.571052Z,keywork-doc,0.2.0,0,0,https://tangled.org/rockorager.dev/keywork,"A document engine for static HTML and CSS: the cascade, box tree, layout, and painting into Keywork's display list, without scripts or networking"
+2026-11-22T13:20:00.026775Z,keywork-docview,0.2.0,0,0,https://tangled.org/rockorager.dev/keywork,"A Keywork widget that shows a static HTML document: scrolling, text selection with copy, and links, on the keywork-doc engine"
+2026-11-22T13:23:39.00121Z,mihari,0.1.2,0,0,https://github.com/yukimemi/mihari,Keyboard-driven image viewer and sorter
+2026-11-22T13:26:00.764236Z,evorule-indicator-services,0.1.1,0,0,https://github.com/evorule/evorule-services,"Deterministic financial technical-indicator native services - Rust rewrite bit-exact aligned with the Python reference implementation, mounted on the evorule-server IoDispatcher as an IoHandler"
+2026-11-22T13:28:43.993747Z,gpdoc-plugin-paragraph,0.1.0,0,0,https://github.com/hhhjin/gpdoc,Paragraph plugin for the gpdoc rich-text editor
+2026-11-22T13:33:24.300695Z,embassy-net-driver-channel-riscv,0.1.0,0,0,https://github.com/jorgeandrecastro/embassy-riscv,High-level channel-based driver for the `embassy-net` async TCP/IP network stack.
+2026-11-22T13:36:16.406208Z,vegam,0.0.1,0,0,https://github.com/hashb/vegam,Jerk-limited time-optimal path parameterization (TOPP)
+2026-11-22T13:37:09.35492Z,evorule-demo-services,0.5.2,0,0,https://github.com/evorule/evorule-rule,Native Rust implementation of the yuanze-demos business services - mounted on the evorule-server IoDispatcher as an IoHandler
+2026-11-22T13:38:36.826919Z,gpdoc-plugin-bold,0.1.0,0,0,https://github.com/hhhjin/gpdoc,Bold plugin for the gpdoc rich-text editor
+2026-11-22T13:40:15.664855Z,ls2,0.1.0,0,0,,Async Luna Service 2 IPC for webOS TV
+2026-11-22T13:40:49.53118Z,p14g,0.0.1,0,0,https://github.com/samuelcolvin/p14g/,Check untrusted SQL against an allowlist and rewrite it so it is safe to run on Postgres
+2026-11-22T13:41:50.508109Z,trading-charts-yew,1.1.0,0,0,https://github.com/corebreaker/trading-charts-rs,"Rust bindings of Lightweight Charts with Leptos, Dioxus and Yew adapters"
+2026-11-22T13:45:52.553843Z,evorule-graph-dispatch-services,0.5.2,0,0,https://github.com/evorule/evorule-rule,"Deterministic graph-dispatch native services (constant-revision impact propagation) - pure-computation static analysis, mounted on the evorule-server IoDispatcher as an IoHandler"
+2026-11-22T13:48:37.861442Z,gpdoc-plugin-box-selection,0.1.0,0,0,https://github.com/hhhjin/gpdoc,Rectangle selection of editor blocks for gpdoc
+2026-11-22T13:50:25.530337Z,cyw43-riscv,0.1.0,0,0,https://github.com/jorgeandrecastro/embassy-riscv,"Rust driver for the CYW43439 WiFi chip, used in the Raspberry Pi Pico W."
+2026-11-22T13:53:20.34198Z,cyw43-pio-riscv,0.1.0,0,0,https://github.com/jorgeandrecastro/embassy-riscv,RP2350 RISC-V PIO SPI implementation for cyw43
+2026-11-22T13:58:36.171844Z,gpdoc-plugin-bubble-menu,0.1.0,0,0,https://github.com/hhhjin/gpdoc,Bubble menu plugin for the gpdoc GPUI editor
+2026-11-22T13:58:38.053588Z,mbook,0.1.0,0,0,https://github.com/M-Compressors/mbook,"Read, edit and create mbook files: Markdown chapters and AVIF pictures in one indexed container"
+2026-11-22T13:58:38.082924Z,torori-derive,0.1.0,0,0,,Compile-time MCP tool declarations and refusal codes
+2026-11-22T13:58:40.472461Z,loki-guardrails,0.2.0,0,0,https://github.com/alfredosdpiii/loki,Deterministic guardrails for AI coding agents: standalone Rust CLI
+2026-11-22T13:58:40.734672Z,mbook-converter,0.1.0,0,0,https://github.com/M-Compressors/mbook,"Convert EPUB, FB2, PDF and other book formats into mbook files"
+2026-11-22T14:01:28.670287Z,evorule-template-services,0.1.1,0,0,https://github.com/evorule/evorule-services,"Deterministic template-rendering native services - rendering engine for the {{}} syntax family (variable substitution plus a minimal if/for control-flow set), context+template to JSON/Markdown/plain…"
+2026-11-22T14:05:23.203306Z,xray-rs-window,0.1.0,0,0,https://github.com/abc15018045126/xray-rs-window,"Windows FFI wrappers for xray-rs (WinSock, IpHelper, Process/Thread telemetry)."
+2026-11-22T14:05:36.55731Z,rustier_js_syntax,0.0.2,0,0,https://github.com/helporme/rustier,Shared interpolation syntax and symbol names for Rustier JavaScript macros.
+2026-11-22T14:05:40.651986Z,rustier_js_proc,0.0.2,0,0,https://github.com/helporme/rustier,Procedural macro expansion for Rustier JavaScript calls.
+2026-11-22T14:07:52.362658Z,multicast-macros,1.0.0,0,0,https://github.com/douglance/multicast,Derive macros for the multicast CLI framework
+2026-11-22T14:08:37.686392Z,gpdoc-plugin-list-item,0.1.0,0,0,https://github.com/hhhjin/gpdoc,List item plugin for the gpdoc rich-text editor
+2026-11-22T14:10:11.688459Z,multicast-mcp-events,1.0.0,0,0,https://github.com/douglance/multicast,"Platform-neutral MCP Events webhook delivery: subscribe, verify, sign, deliver, and receive"
+2026-11-22T14:10:14.085241Z,multicast-openai-mcp-protocol,1.0.0,0,0,https://github.com/douglance/multicast,Portable OpenAI MCP extension wire models and validators
+2026-11-22T14:10:17.043431Z,evorule-browser-services,0.1.1,0,0,https://github.com/evorule/evorule-services,"Browser automation native service driven by zendriver-rs, mounted on the evorule-server IoDispatcher as an IoHandler"
+2026-11-22T14:11:46.940919Z,deep-diff-forge-review,0.9.0,0,0,https://github.com/Louranicas/deep-diff-forge,"Revision-bound multi-provider review rosters, adversarial councils and measured quality gates."
+2026-11-22T14:11:54.424485Z,ppc_gauge_triad_rs,0.7.0,0,0,https://github.com/Imlevion/ppc-gauge-triad,"Deterministic #![no_std] f32 zero-heap streaming anomaly engine with Sim+(d) Givens-QR canonicalization, Huber-clamped EMA, and on-chip AutoCalBufF32 auto-warmup (<16 KB SRAM)"
+2026-11-22T14:12:05.05153Z,deep-diff-forge-sdk,0.9.0,0,0,https://github.com/Louranicas/deep-diff-forge,"The stable Rust facade over Deep-Diff-Forge: review a patch, rank it, read the exit-code registry, or call the daemon."
+2026-11-22T14:12:51.951459Z,multicast-mcp-events-cloudflare,1.0.0,0,0,https://github.com/douglance/multicast,"Cloudflare Durable Object storage, alarms, and fetch for multicast MCP Events webhooks"
+2026-11-22T14:15:12.585614Z,cargo-plane-provider-container,0.4.0,0,0,,"cargo-plane provider: a Docker or Podman container on an SSH host, with its own userland"
+2026-11-22T14:15:53.836254Z,macfly-core,0.1.0,0,0,https://github.com/casoon/macfly,"Core data model, config, DLP redaction, HTML fidelity analysis, and plan engine for MacFly"
+2026-11-22T14:16:05.801127Z,macfly-adapters,0.1.0,0,0,https://github.com/casoon/macfly,"Safe stdin-only JXA/AppleScript adapters for macOS apps (Notes, Mail, Calendar, Reminders) in pure Rust"
+2026-11-22T14:16:21.156719Z,macfly,0.1.0,0,0,https://github.com/casoon/macfly,"Safe, deterministic macOS automation CLI & stdio MCP server with DLP firewall and SHA-256 plan approval"
+2026-11-22T14:16:46.649223Z,multicast-mcp-protocol,1.0.0,0,0,https://github.com/douglance/multicast,Provider-neutral MCP standard profiles and negotiation for multicast
+2026-11-22T14:18:11.018517Z,evorule-geometry-services,0.1.1,0,0,https://github.com/evorule/evorule-services,"Deterministic geometry-check native services (collision/clearance/occlusion ordering) - pure-computation static predicates, mounted on the evorule-server IoDispatcher as an IoHandler"
+2026-11-22T14:18:23.228589Z,multicast,1.0.0,0,0,https://github.com/douglance/multicast,"A declarative CLI framework for Rust with typed commands, agent discovery, HTTP, and MCP"
+2026-11-22T14:18:39.130292Z,gpdoc-plugin-bullet-list,0.1.0,0,0,https://github.com/hhhjin/gpdoc,Bullet list plugin for the gpdoc rich-text editor

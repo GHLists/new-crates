@@ -8,44 +8,59 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-22 13:19 UTC
+## Latest list — 2026-11-22 14:19 UTC
 
-New crates published between 2026-11-22 12:18 UTC and 2026-11-22 13:19 UTC.
+New crates published between 2026-11-22 13:19 UTC and 2026-11-22 14:19 UTC.
 
-[Full CSV](data/new-crates-2026-11-22T13-19-23-288717Z.csv)
+[Full CSV](data/new-crates-2026-11-22T14-19-36-245877Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-22 12:21:21 | [ems-flex](https://crates.io/crates/ems-flex) | 0.7.0 | 0 | Expressing a household's flexibility in S2 (EN 50491-12-2) — which control type… |
-| 2026-11-22 12:23:18 | [qx-execution](https://crates.io/crates/qx-execution) | 0.4.1 | 0 | 牵星统一执行事实归约边界 |
-| 2026-11-22 12:26:09 | [evorule-metrology-services](https://crates.io/crates/evorule-metrology-services) | 0.1.1 | 0 | Metrology native services (GUM multiplicative power-model uncertainty propagati… |
-| 2026-11-22 12:29:40 | [ems-realtime](https://crates.io/crates/ems-realtime) | 0.7.0 | 0 | The one-second control loop of a home energy system — a guard plane that grid l… |
-| 2026-11-22 12:33:11 | [qx-sdk](https://crates.io/crates/qx-sdk) | 0.4.1 | 0 | 牵星面向第三方的稳定 Rust 门面（方案 §6.1）：单一 qx-app 内核之上的 semver 边界 |
-| 2026-11-22 12:37:06 | [asmc](https://crates.io/crates/asmc) | 0.1.0 | 0 | A toolkit for communicating with the Apple System Management Controller (SMC). |
-| 2026-11-22 12:37:32 | [evorule-quantum-services](https://crates.io/crates/evorule-quantum-services) | 0.1.1 | 0 | Quantum-mechanics analytic native services (infinite potential well energy leve… |
-| 2026-11-22 12:39:59 | [ems-tariff](https://crates.io/crates/ems-tariff) | 0.7.0 | 0 | What a kilowatt-hour costs a German household in a given quarter hour — dynamic… |
-| 2026-11-22 12:41:29 | [gridapi-sdk](https://crates.io/crates/gridapi-sdk) | 1.0.0 | 0 | Official Rust SDK for the GridAPI public REST API |
-| 2026-11-22 12:41:50 | [sessionly](https://crates.io/crates/sessionly) | 0.7.0 | 0 | Local collector and ledger for AI coding agent sessions |
-| 2026-11-22 12:42:51 | [evilpot](https://crates.io/crates/evilpot) | 0.1.0 | 0 | Embeddable zero-copy HTTP deception, exploit verification & tarpit honeypot cra… |
-| 2026-11-22 12:46:13 | [evorule-stats-services](https://crates.io/crates/evorule-stats-services) | 0.1.1 | 0 | Statistical distribution native services (exact-rational binomial PMF, normal C… |
-| 2026-11-22 12:49:11 | [symrust](https://crates.io/crates/symrust) | 0.1.2 | 0 | A symbolic mathematics library: exact calculus, algebra and linear algebra with… |
-| 2026-11-22 12:50:34 | [ems-optimizer](https://crates.io/crates/ems-optimizer) | 0.7.0 | 0 | The planner of a home energy system — a receding-horizon mixed-integer linear p… |
-| 2026-11-22 12:52:01 | [svggod](https://crates.io/crates/svggod) | 1.1.1 | 0 | Compile declarative diagram descriptions to SVG and check any SVG for correctne… |
-| 2026-11-22 12:52:19 | [monoxus-core](https://crates.io/crates/monoxus-core) | 0.1.0 | 0 | Pure Rust headless UI state machines, relationships, attribute publishers, and… |
-| 2026-11-22 12:57:00 | [evorule-rule-schema](https://crates.io/crates/evorule-rule-schema) | 0.5.2 | 0 | Rule-schema gate for EvoRule - deterministic validation against the frozen evor… |
-| 2026-11-22 13:04:03 | [konectl](https://crates.io/crates/konectl) | 0.1.0 | 0 | Unofficial library to configure the ROCCAT Kone Pro Air mouse on Linux |
-| 2026-11-22 13:04:05 | [konectl-cli](https://crates.io/crates/konectl-cli) | 0.1.0 | 0 | Command-line tool to configure the ROCCAT Kone Pro Air mouse on Linux (unoffici… |
-| 2026-11-22 13:06:14 | [evorule-physics-services](https://crates.io/crates/evorule-physics-services) | 0.1.1 | 0 | Deterministic physics-simulation native services (vendored rpsm-core kernel) -… |
-| 2026-11-22 13:08:39 | [marceline](https://crates.io/crates/marceline) | 0.1.0 | 0 | Plugin interfaces and packaging tools for Marcellus. |
-| 2026-11-22 13:10:40 | [marcelene](https://crates.io/crates/marcelene) | 0.1.0 | 0 | Executes installed Marceline plugins for Marcellus using Wasmtime. |
-| 2026-11-22 13:15:00 | [sockat-cli](https://crates.io/crates/sockat-cli) | 0.6.1 | 0 | The command sockat: print a path for a Unix domain socket that fits the socket… |
-| 2026-11-22 13:16:35 | [score-centering](https://crates.io/crates/score-centering) | 0.1.1 | 0 | Differentiable per-token score-centering correction for policy-gradient trainers |
-| 2026-11-22 13:17:57 | [evorule-rule-dep-graph](https://crates.io/crates/evorule-rule-dep-graph) | 0.5.2 | 0 | Deterministic constant dependency graph materialization from rule-set metadata… |
-| 2026-11-22 13:18:30 | [gpdoc-core](https://crates.io/crates/gpdoc-core) | 0.1.0 | 0 | Document model, transforms, transactions, and headless editing for the gpdoc ri… |
-| 2026-11-22 13:18:33 | [gpdoc](https://crates.io/crates/gpdoc) | 0.1.0 | 0 | A rich-text editor framework for GPUI |
-| 2026-11-22 13:18:34 | [gpdoc-plugin](https://crates.io/crates/gpdoc-plugin) | 0.1.0 | 0 | Plugin declarations, composition, and editing helpers for gpdoc |
-| 2026-11-22 13:18:37 | [gpdoc-plugin-audio](https://crates.io/crates/gpdoc-plugin-audio) | 0.1.0 | 0 | Audio plugin for the gpdoc rich-text editor |
-| 2026-11-22 13:18:38 | [gpdoc-plugin-blockquote](https://crates.io/crates/gpdoc-plugin-blockquote) | 0.1.0 | 0 | Blockquote plugin for the gpdoc rich-text editor |
+| 2026-11-22 13:19:46 | [keywork-css](https://crates.io/crates/keywork-css) | 0.2.0 | 0 | CSS for documents without a document tree: tokenizing, style sheets, selectors… |
+| 2026-11-22 13:19:46 | [keywork-html](https://crates.io/crates/keywork-html) | 0.2.0 | 0 | A WHATWG HTML tokenizer and tree builder without dependencies that recovers fro… |
+| 2026-11-22 13:19:56 | [keywork-net](https://crates.io/crates/keywork-net) | 0.2.0 | 0 | HTTP/1.1 and HTTPS for Keywork apps, on the event loop's own sockets and tasks |
+| 2026-11-22 13:19:59 | [keywork-doc](https://crates.io/crates/keywork-doc) | 0.2.0 | 0 | A document engine for static HTML and CSS: the cascade, box tree, layout, and p… |
+| 2026-11-22 13:20:00 | [keywork-docview](https://crates.io/crates/keywork-docview) | 0.2.0 | 0 | A Keywork widget that shows a static HTML document: scrolling, text selection w… |
+| 2026-11-22 13:23:39 | [mihari](https://crates.io/crates/mihari) | 0.1.2 | 0 | Keyboard-driven image viewer and sorter |
+| 2026-11-22 13:26:00 | [evorule-indicator-services](https://crates.io/crates/evorule-indicator-services) | 0.1.1 | 0 | Deterministic financial technical-indicator native services - Rust rewrite bit-… |
+| 2026-11-22 13:28:43 | [gpdoc-plugin-paragraph](https://crates.io/crates/gpdoc-plugin-paragraph) | 0.1.0 | 0 | Paragraph plugin for the gpdoc rich-text editor |
+| 2026-11-22 13:33:24 | [embassy-net-driver-channel-riscv](https://crates.io/crates/embassy-net-driver-channel-riscv) | 0.1.0 | 0 | High-level channel-based driver for the `embassy-net` async TCP/IP network stac… |
+| 2026-11-22 13:36:16 | [vegam](https://crates.io/crates/vegam) | 0.0.1 | 0 | Jerk-limited time-optimal path parameterization (TOPP) |
+| 2026-11-22 13:37:09 | [evorule-demo-services](https://crates.io/crates/evorule-demo-services) | 0.5.2 | 0 | Native Rust implementation of the yuanze-demos business services - mounted on t… |
+| 2026-11-22 13:38:36 | [gpdoc-plugin-bold](https://crates.io/crates/gpdoc-plugin-bold) | 0.1.0 | 0 | Bold plugin for the gpdoc rich-text editor |
+| 2026-11-22 13:40:15 | [ls2](https://crates.io/crates/ls2) | 0.1.0 | 0 | Async Luna Service 2 IPC for webOS TV |
+| 2026-11-22 13:40:49 | [p14g](https://crates.io/crates/p14g) | 0.0.1 | 0 | Check untrusted SQL against an allowlist and rewrite it so it is safe to run on… |
+| 2026-11-22 13:41:50 | [trading-charts-yew](https://crates.io/crates/trading-charts-yew) | 1.1.0 | 0 | Rust bindings of Lightweight Charts with Leptos, Dioxus and Yew adapters |
+| 2026-11-22 13:45:52 | [evorule-graph-dispatch-services](https://crates.io/crates/evorule-graph-dispatch-services) | 0.5.2 | 0 | Deterministic graph-dispatch native services (constant-revision impact propagat… |
+| 2026-11-22 13:48:37 | [gpdoc-plugin-box-selection](https://crates.io/crates/gpdoc-plugin-box-selection) | 0.1.0 | 0 | Rectangle selection of editor blocks for gpdoc |
+| 2026-11-22 13:50:25 | [cyw43-riscv](https://crates.io/crates/cyw43-riscv) | 0.1.0 | 0 | Rust driver for the CYW43439 WiFi chip, used in the Raspberry Pi Pico W. |
+| 2026-11-22 13:53:20 | [cyw43-pio-riscv](https://crates.io/crates/cyw43-pio-riscv) | 0.1.0 | 0 | RP2350 RISC-V PIO SPI implementation for cyw43 |
+| 2026-11-22 13:58:36 | [gpdoc-plugin-bubble-menu](https://crates.io/crates/gpdoc-plugin-bubble-menu) | 0.1.0 | 0 | Bubble menu plugin for the gpdoc GPUI editor |
+| 2026-11-22 13:58:38 | [mbook](https://crates.io/crates/mbook) | 0.1.0 | 0 | Read, edit and create mbook files: Markdown chapters and AVIF pictures in one i… |
+| 2026-11-22 13:58:38 | [torori-derive](https://crates.io/crates/torori-derive) | 0.1.0 | 0 | Compile-time MCP tool declarations and refusal codes |
+| 2026-11-22 13:58:40 | [loki-guardrails](https://crates.io/crates/loki-guardrails) | 0.2.0 | 0 | Deterministic guardrails for AI coding agents: standalone Rust CLI |
+| 2026-11-22 13:58:40 | [mbook-converter](https://crates.io/crates/mbook-converter) | 0.1.0 | 0 | Convert EPUB, FB2, PDF and other book formats into mbook files |
+| 2026-11-22 14:01:28 | [evorule-template-services](https://crates.io/crates/evorule-template-services) | 0.1.1 | 0 | Deterministic template-rendering native services - rendering engine for the {{}… |
+| 2026-11-22 14:05:23 | [xray-rs-window](https://crates.io/crates/xray-rs-window) | 0.1.0 | 0 | Windows FFI wrappers for xray-rs (WinSock, IpHelper, Process/Thread telemetry). |
+| 2026-11-22 14:05:36 | [rustier_js_syntax](https://crates.io/crates/rustier_js_syntax) | 0.0.2 | 0 | Shared interpolation syntax and symbol names for Rustier JavaScript macros. |
+| 2026-11-22 14:05:40 | [rustier_js_proc](https://crates.io/crates/rustier_js_proc) | 0.0.2 | 0 | Procedural macro expansion for Rustier JavaScript calls. |
+| 2026-11-22 14:07:52 | [multicast-macros](https://crates.io/crates/multicast-macros) | 1.0.0 | 0 | Derive macros for the multicast CLI framework |
+| 2026-11-22 14:08:37 | [gpdoc-plugin-list-item](https://crates.io/crates/gpdoc-plugin-list-item) | 0.1.0 | 0 | List item plugin for the gpdoc rich-text editor |
+| 2026-11-22 14:10:11 | [multicast-mcp-events](https://crates.io/crates/multicast-mcp-events) | 1.0.0 | 0 | Platform-neutral MCP Events webhook delivery: subscribe, verify, sign, deliver,… |
+| 2026-11-22 14:10:14 | [multicast-openai-mcp-protocol](https://crates.io/crates/multicast-openai-mcp-protocol) | 1.0.0 | 0 | Portable OpenAI MCP extension wire models and validators |
+| 2026-11-22 14:10:17 | [evorule-browser-services](https://crates.io/crates/evorule-browser-services) | 0.1.1 | 0 | Browser automation native service driven by zendriver-rs, mounted on the evorul… |
+| 2026-11-22 14:11:46 | [deep-diff-forge-review](https://crates.io/crates/deep-diff-forge-review) | 0.9.0 | 0 | Revision-bound multi-provider review rosters, adversarial councils and measured… |
+| 2026-11-22 14:11:54 | [ppc_gauge_triad_rs](https://crates.io/crates/ppc_gauge_triad_rs) | 0.7.0 | 0 | Deterministic #![no_std] f32 zero-heap streaming anomaly engine with Sim+(d) Gi… |
+| 2026-11-22 14:12:05 | [deep-diff-forge-sdk](https://crates.io/crates/deep-diff-forge-sdk) | 0.9.0 | 0 | The stable Rust facade over Deep-Diff-Forge: review a patch, rank it, read the… |
+| 2026-11-22 14:12:51 | [multicast-mcp-events-cloudflare](https://crates.io/crates/multicast-mcp-events-cloudflare) | 1.0.0 | 0 | Cloudflare Durable Object storage, alarms, and fetch for multicast MCP Events w… |
+| 2026-11-22 14:15:12 | [cargo-plane-provider-container](https://crates.io/crates/cargo-plane-provider-container) | 0.4.0 | 0 | cargo-plane provider: a Docker or Podman container on an SSH host, with its own… |
+| 2026-11-22 14:15:53 | [macfly-core](https://crates.io/crates/macfly-core) | 0.1.0 | 0 | Core data model, config, DLP redaction, HTML fidelity analysis, and plan engine… |
+| 2026-11-22 14:16:05 | [macfly-adapters](https://crates.io/crates/macfly-adapters) | 0.1.0 | 0 | Safe stdin-only JXA/AppleScript adapters for macOS apps (Notes, Mail, Calendar,… |
+| 2026-11-22 14:16:21 | [macfly](https://crates.io/crates/macfly) | 0.1.0 | 0 | Safe, deterministic macOS automation CLI & stdio MCP server with DLP firewall a… |
+| 2026-11-22 14:16:46 | [multicast-mcp-protocol](https://crates.io/crates/multicast-mcp-protocol) | 1.0.0 | 0 | Provider-neutral MCP standard profiles and negotiation for multicast |
+| 2026-11-22 14:18:11 | [evorule-geometry-services](https://crates.io/crates/evorule-geometry-services) | 0.1.1 | 0 | Deterministic geometry-check native services (collision/clearance/occlusion ord… |
+| 2026-11-22 14:18:23 | [multicast](https://crates.io/crates/multicast) | 1.0.0 | 0 | A declarative CLI framework for Rust with typed commands, agent discovery, HTTP… |
+| 2026-11-22 14:18:39 | [gpdoc-plugin-bullet-list](https://crates.io/crates/gpdoc-plugin-bullet-list) | 0.1.0 | 0 | Bullet list plugin for the gpdoc rich-text editor |
 
 ## Data source
 
