@@ -1,0 +1,39 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-22T19:21:56.796195Z,nai-lattice-supervisor,0.1.0,0,0,https://github.com/cyberluke/NAI-Lattice,Process supervision and lifecycle management for NAI Lattice services.
+2026-11-22T19:26:19.356262Z,neo-snn,0.1.0,0,0,https://github.com/Kostyanikov/NeuroLib,"Spiking neural network layer for NeuroLib, built on Burn"
+2026-11-22T19:27:01.807654Z,mavmission,0.1.0,0,0,https://github.com/Mattbusel/mavmission,"Read, write and convert ArduPilot and PX4 mission files: QGroundControl .plan (mission, complex items kept, geofence, rally) and QGC WPL 110 .waypoints from Mission Planner and MAVProxy. One MissionI…"
+2026-11-22T19:27:46.319247Z,lib_jsl,2.21.1,0,0,https://github.com/jwkunz/lib_jsl,"Jake's Scientific Library: pure-Rust algorithms for scientific computing, re-exporting the lib_jsl domain crates."
+2026-11-22T19:28:28.888974Z,wpml,0.1.0,0,0,https://github.com/Mattbusel/wpml,"DJI WPML waypoint missions in Rust: read and write the .kmz (wpmz/template.kml + wpmz/waylines.wpml) used by DJI Pilot 2, FlightHub 2, the Cloud API and MSDK v5, with typed mission config, waypoints…"
+2026-11-22T19:28:39.642945Z,gpdoc-plugin-suggestion,0.1.0,0,0,https://github.com/hhhjin/gpdoc,Suggestion trigger matching and completion for the gpdoc rich-text editor
+2026-11-22T19:31:59.272687Z,nai-lattice-protocol,0.1.0,0,0,https://github.com/cyberluke/NAI-Lattice,"NAF/1 protocol: handshake, frames, events, artifacts, queries (prost pb)."
+2026-11-22T19:37:38.017024Z,neo-gui,0.1.0,0,0,https://github.com/Kostyanikov/NeuroLib,"NeuroLib workbench (GPUI + gpui-kit): traces, heatmap, channels and a timeline over multi-channel activity; Explore, Curation and Training workspaces"
+2026-11-22T19:37:46.139815Z,lib_jsl_ffts_reference,2.21.1,0,0,https://github.com/jwkunz/lib_jsl,"Readable reference FFT implementations for study, plus a benchmark comparing them with the production engines."
+2026-11-22T19:38:38.54266Z,gpdoc-plugin-mention,0.1.0,0,0,https://github.com/hhhjin/gpdoc,Mention plugin for the gpdoc rich-text editor
+2026-11-22T19:39:04.234622Z,fov,0.2.0,0,0,https://github.com/svent/fov,"Turn plain-language requests into reusable shell pipelines, previewed on your data in a sandbox"
+2026-11-22T19:42:06.112207Z,hep-rs,0.1.1,0,0,https://github.com/feryx-io/hep-rs,HEP3 (Homer Encapsulation Protocol v3) codec and transport.
+2026-11-22T19:46:16.95099Z,siphon-core,0.7.8,0,0,https://github.com/feryx-io/siphon-rs,"Core SIP types, headers, URIs, and message primitives."
+2026-11-22T19:46:18.093944Z,siphon-hep,0.1.0,0,0,https://github.com/feryx-io/siphon-rs,HEP3 (Homer) emission glue for siphon-rs — ships parsed/serialized SIP messages to a HepSink.
+2026-11-22T19:46:19.442001Z,siphon-identity,0.3.0,0,0,https://github.com/feryx-io/siphon-rs,"STIR/SHAKEN caller identity: RFC 8224 Identity header + RFC 8225 PASSporT parsing, ES256 verification, and X.509 chain validation."
+2026-11-22T19:46:20.631796Z,siphon-observe,0.3.0,0,0,https://github.com/feryx-io/siphon-rs,"Observability, tracing, and metrics for SIP."
+2026-11-22T19:47:45.837821Z,lib_jsl_linalg_reference,2.21.1,0,0,https://github.com/jwkunz/lib_jsl,"Readable textbook linear algebra algorithms for study, plus a benchmark comparing them with lib_jsl_linalg."
+2026-11-22T19:48:25.639872Z,neurolib,0.1.0,0,0,https://github.com/Kostyanikov/NeuroLib,"NeuroLib: single entry point to the workspace - spike networks, layers, quantization, kernels, weight format and work with records; everything is enabled via features (analogue of the `burn` crate)"
+2026-11-22T19:48:39.19385Z,gpdoc-plugin-node-range,0.1.0,0,0,https://github.com/hhhjin/gpdoc,Node range plugin for gpdoc
+2026-11-22T19:50:26.458355Z,palantir-derive,1.0.0,0,0,https://github.com/xorza/palantir,Derive macros for palantir's traits
+2026-11-22T19:51:22.461244Z,ctu-quiz-common,0.4.0,0,0,https://github.com/wentasah/ctu-quiz,Markdown question parser and API types shared by the ctu-quiz CLI and server
+2026-11-22T19:51:24.903581Z,ctu-quiz,0.4.0,0,0,https://github.com/wentasah/ctu-quiz,Teacher's command line tool for asking students questions in class with the ctu-quiz server
+2026-11-22T19:52:01.993295Z,cpdir-cli,1.0.0,0,0,https://github.com/raulcv7-hub/cpdir,Interactive Windows 11 TUI to inspect a directory tree and copy strict XML context to the clipboard
+2026-11-22T19:54:02.117327Z,siphon-ratelimit,0.3.0,0,0,https://github.com/feryx-io/siphon-rs,Configurable rate limiting for SIP applications
+2026-11-22T19:56:04.225719Z,tastr-engine,0.6.0,0,0,https://github.com/pocketIlmatto/tastr-engine,"Tastr's music analysis engine: BPM, beats, downbeats, meter, key, sections and more, in pure Rust (native and WebAssembly)."
+2026-11-22T19:56:10.698943Z,user-agent-classifier,0.1.1,0,0,https://github.com/ccouzens/user-agent-classifier,"Zero-allocation, regex-free Rust User-Agent classifier for observability — extracts rendering engine, platform, mobile, WebView, bot, and browser."
+2026-11-22T19:57:47.157489Z,hardroxide-ip,2.7.0,0,0,https://github.com/jwkunz/Hardroxide,"Curated drivers for Xilinx IP, keyed by VLNV"
+2026-11-22T19:58:39.820525Z,gpdoc-plugin-placeholder,0.1.0,0,0,https://github.com/hhhjin/gpdoc,Show a writing hint inside empty text blocks in GPUI
+2026-11-22T19:58:46.329917Z,okfgraph,0.16.0,0,0,https://github.com/opticsWolf/OKFgraph,Rust core for OKFgraph: Ladybug-backed knowledge graph with ONNX embeddings
+2026-11-22T20:04:10.971223Z,siphon-sdp,0.3.2,0,0,https://github.com/feryx-io/siphon-rs,SDP models and helpers for SIP.
+2026-11-22T20:06:43.686031Z,nai-lattice-cas,0.1.0,0,0,https://github.com/cyberluke/NAI-Lattice,"Content-addressed artifact store (CAS) with owned + external AAF locations, manifests, verification."
+2026-11-22T20:07:20.447824Z,nai-lattice-vector,0.1.0,0,0,https://github.com/cyberluke/NAI-Lattice,Embedded semantic vector store (HNSW kNN) — the Qdrant replacement for nai-lattice semantic recall.
+2026-11-22T20:07:42.772311Z,hardroxide-rt,2.7.0,0,0,https://github.com/jwkunz/Hardroxide,"A FreeRTOS-style real-time kernel for the Zynq-7000 Cortex-A9: priority-preemptive tasks, semaphores, mutexes with priority inheritance, queues"
+2026-11-22T20:08:16.20068Z,nai-lattice-search,0.1.0,0,0,https://github.com/cyberluke/NAI-Lattice,Embedded fuzzy full-text search index (Tantivy) — supports query.search over indexed documents.
+2026-11-22T20:08:39.026168Z,gpdoc-plugin-ruby-text,0.1.0,0,0,https://github.com/hhhjin/gpdoc,Ruby-Text plugin for the gpdoc rich-text editor
+2026-11-22T20:12:03.844653Z,nai-lattice-graph,0.1.0,0,0,https://github.com/cyberluke/NAI-Lattice,NAI Lattice lattice-graph.
+2026-11-22T20:14:27.312924Z,siphon-dns,0.3.0,0,0,https://github.com/feryx-io/siphon-rs,RFC 3263 DNS resolution for SIP.
+2026-11-22T20:17:44.262624Z,hardroxide-audio,2.7.0,0,0,https://github.com/jwkunz/Hardroxide,"Audio for the PYNQ base overlay: the ADAU1761 codec over I2C, WAV files, tone synthesis, resampling and sample-by-sample playback and recording"
