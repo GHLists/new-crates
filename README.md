@@ -8,38 +8,40 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-22 04:19 UTC
+## Latest list — 2026-11-22 05:20 UTC
 
-New crates published between 2026-11-22 03:18 UTC and 2026-11-22 04:19 UTC.
+New crates published between 2026-11-22 04:19 UTC and 2026-11-22 05:20 UTC.
 
-[Full CSV](data/new-crates-2026-11-22T04-19-15-844906Z.csv)
+[Full CSV](data/new-crates-2026-11-22T05-20-30-741103Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-22 03:23:05 | [litz-diagram](https://crates.io/crates/litz-diagram) | 0.1.0 | 0 | Circuit and netlist model for Litz: reads diagram.json and resolves wires into… |
-| 2026-11-22 03:25:28 | [backshift](https://crates.io/crates/backshift) | 0.1.0 | 0 | ARIMA models fitted by exact maximum likelihood, with a streaming filter that r… |
-| 2026-11-22 03:26:15 | [tsq1-cli](https://crates.io/crates/tsq1-cli) | 0.1.0 | 0 | Command-line converter for Standard MIDI Files and TSQ1 sequences |
-| 2026-11-22 03:28:23 | [litz-catalog](https://crates.io/crates/litz-catalog) | 0.1.0 | 0 | Part and dev-board manifests for Litz: the catalog a circuit's part types resol… |
-| 2026-11-22 03:29:54 | [auto-paint](https://crates.io/crates/auto-paint) | 0.1.2 | 0 | Watch Codex draw in Paintrs and record the result |
-| 2026-11-22 03:34:55 | [pomotimer](https://crates.io/crates/pomotimer) | 0.0.5 | 0 | Pomodoro Timer on CLI |
-| 2026-11-22 03:36:15 | [kitu-core](https://crates.io/crates/kitu-core) | 0.1.0 | 0 | Foundational Kitu runtime types, errors, and timing primitives. |
-| 2026-11-22 03:36:21 | [y901-a11y](https://crates.io/crates/y901-a11y) | 0.3.0 | 0 | Accessibility bridge for Y901:语义树 → AccessKit（Windows UIA / Linux AT-SPI / Web… |
-| 2026-11-22 03:38:42 | [litz-ble](https://crates.io/crates/litz-ble) | 0.1.0 | 0 | The Bluetooth LE advertisers a circuit places: deterministic advertising data,… |
-| 2026-11-22 03:39:07 | [dapane-core](https://crates.io/crates/dapane-core) | 0.1.0 | 0 | Exact, independent microcosting and valuation kernel |
-| 2026-11-22 03:42:51 | [binrel](https://crates.io/crates/binrel) | 0.0.0 | 0 | Name held for the BinRel project. This package has no code. |
-| 2026-11-22 03:46:18 | [kitu-data-sqlite](https://crates.io/crates/kitu-data-sqlite) | 0.1.0 | 0 | SQLite-backed data utilities and schema helpers for Kitu tooling. |
-| 2026-11-22 03:49:15 | [litz-analog](https://crates.io/crates/litz-analog) | 0.1.0 | 0 | Deterministic modified-nodal-analysis solver for Litz: DC operating point and b… |
-| 2026-11-22 03:51:57 | [hyperserve](https://crates.io/crates/hyperserve) | 0.1.0 | 0 | Serve hyperb apps at hyperb:// addresses, over HTTP(S) with Server-Sent Events… |
-| 2026-11-22 03:53:38 | [degibbs](https://crates.io/crates/degibbs) | 0.4.1 | 0 | Gibbs-ringing removal for MRI NIfTI images by local subvoxel shifts, with parti… |
-| 2026-11-22 03:55:09 | [litz-ieee802154](https://crates.io/crates/litz-ieee802154) | 0.1.0 | 0 | IEEE 802.15.4 MAC data frames and 2.4 GHz airtime for Litz: FCF, addressing, FC… |
-| 2026-11-22 03:56:21 | [kitu-scripting-rhai](https://crates.io/crates/kitu-scripting-rhai) | 0.1.0 | 0 | Rhai scripting bindings and helpers for the Kitu runtime. |
-| 2026-11-22 03:59:22 | [rtidy](https://crates.io/crates/rtidy) | 1.0.0 | 0 | Find, clean and prevent scattered Rust target/ directories |
-| 2026-11-22 04:02:08 | [zumen-stbridge](https://crates.io/crates/zumen-stbridge) | 0.4.0 | 0 | zumen の ST-Bridge（構造の XML）の読み取りと、建物モデルへの移し（#400） |
-| 2026-11-22 04:05:28 | [litz-net](https://crates.io/crates/litz-net) | 0.1.0 | 0 | A deterministic IP network behind a simulated access point: DNS names and TCP/U… |
-| 2026-11-22 04:06:15 | [kitu-calculation](https://crates.io/crates/kitu-calculation) | 0.1.0 | 0 | Kitu adapter and namespaced extensions for the shared OpenFormula calculation k… |
-| 2026-11-22 04:15:50 | [litz-part-wit](https://crates.io/crates/litz-part-wit) | 0.1.0 | 0 | The WIT contract between Litz and a schematic part implemented as a WebAssembly… |
-| 2026-11-22 04:16:15 | [kitu-ecs](https://crates.io/crates/kitu-ecs) | 0.1.0 | 0 | Lightweight ECS world and scheduler used by the Kitu runtime loop. |
-| 2026-11-22 04:19:01 | [grana-update](https://crates.io/crates/grana-update) | 0.2.3 | 0 | Next-generation microscopy image visualization and analysis platform |
+| 2026-11-22 04:24:11 | [rouge-framer](https://crates.io/crates/rouge-framer) | 0.3.0 | 0 | Framer preset for packaging and publishing Rouge apps |
+| 2026-11-22 04:26:13 | [litz-part-wasm](https://crates.io/crates/litz-part-wasm) | 0.1.1 | 0 | Runs a schematic part provided as a WebAssembly component. |
+| 2026-11-22 04:26:16 | [kitu-osc-ir](https://crates.io/crates/kitu-osc-ir) | 0.1.0 | 0 | OSC-inspired intermediate representation for Kitu runtime messaging. |
+| 2026-11-22 04:32:23 | [localhop-protocol](https://crates.io/crates/localhop-protocol) | 0.1.0 | 0 | Zero-copy binary framing protocol for localhop multiplexed tunnels |
+| 2026-11-22 04:32:53 | [localhop](https://crates.io/crates/localhop) | 0.1.0 | 0 | Seamless low-latency Rust localhost tunnel CLI with live HTTP/webhook inspector… |
+| 2026-11-22 04:33:02 | [localhop-server](https://crates.io/crates/localhop-server) | 0.1.0 | 0 | Public low-latency Axum relay server for localhop |
+| 2026-11-22 04:36:16 | [kitu-web-admin-backend](https://crates.io/crates/kitu-web-admin-backend) | 0.1.0 | 0 | Backend glue (HTTP/WS) for the Kitu web admin experience. |
+| 2026-11-22 04:36:30 | [litz-radio](https://crates.io/crates/litz-radio) | 0.1.0 | 0 | Deterministic shared radio medium for Litz: packets, airtime, channels and coll… |
+| 2026-11-22 04:42:26 | [oxcord-macros](https://crates.io/crates/oxcord-macros) | 0.1.0 | 0 | Proc-macro helpers for oxcord-framework: #[command], #[check], and autocomplete… |
+| 2026-11-22 04:46:16 | [kitu-app-actions](https://crates.io/crates/kitu-app-actions) | 0.1.0 | 0 | Shared application action catalog definitions for Kitu runtimes and tools. |
+| 2026-11-22 04:47:02 | [litz-board](https://crates.io/crates/litz-board) | 0.1.0 | 0 | Board runtime for Litz: flatten a diagram, resolve nets, and drive parts from p… |
+| 2026-11-22 04:47:50 | [oxcord-framework](https://crates.io/crates/oxcord-framework) | 0.1.0 | 0 | A high-level, poise-style command framework for Oxcord: unified slash + prefix… |
+| 2026-11-22 04:49:23 | [fidetype](https://crates.io/crates/fidetype) | 0.1.0 | 0 | Rust SDK for NeuralTextStream (NTS): writer, readers (JSON Lines + NPZ), v0.1 c… |
+| 2026-11-22 04:56:20 | [kitu-osc-ir-wasm](https://crates.io/crates/kitu-osc-ir-wasm) | 0.1.0 | 0 | WebAssembly bindings for Kitu OSC intermediate representations. |
+| 2026-11-22 04:57:02 | [catchlight-editor](https://crates.io/crates/catchlight-editor) | 0.0.0 | 0 | Placeholder for the Catchlight editor app; the first release is 0.2.0 |
+| 2026-11-22 04:58:49 | [litz-fixture](https://crates.io/crates/litz-fixture) | 0.1.0 | 0 | Dependency-free ESP32-C3 firmware fixtures: hand-assembled blinky and hello ima… |
+| 2026-11-22 04:59:03 | [hiruzen-cli](https://crates.io/crates/hiruzen-cli) | 0.2.1 | 0 | Your terminal assistant: suggests the next word as you type and learns how you… |
+| 2026-11-22 05:00:20 | [hideo](https://crates.io/crates/hideo) | 0.1.0 | 0 | A standalone Rust CLI for building PDF books from Markdown |
+| 2026-11-22 05:02:53 | [wabot-addon-auth-passkey](https://crates.io/crates/wabot-addon-auth-passkey) | 0.2.0 | 0 | Passkeys (WebAuthn) for a relying party: options, and verifying registrations a… |
+| 2026-11-22 05:06:16 | [kitu-shell](https://crates.io/crates/kitu-shell) | 0.1.0 | 0 | CLI shell primitives for driving and inspecting the Kitu runtime. |
+| 2026-11-22 05:08:54 | [scatter-wikitext-expand](https://crates.io/crates/scatter-wikitext-expand) | 0.1.0 | 0 | MediaWiki's preprocessor and frame expansion for wikitext, with no I/O: the fac… |
+| 2026-11-22 05:11:17 | [supercargo-core](https://crates.io/crates/supercargo-core) | 0.1.0 | 0 | Core library for supercargo: change detection and build-plan computation for Do… |
+| 2026-11-22 05:11:31 | [litz-avr](https://crates.io/crates/litz-avr) | 0.1.0 | 0 | A pure-Rust ATmega328P interpreter for Litz: AVR8 core, interrupts, GPIO, timer… |
+| 2026-11-22 05:16:17 | [kitu-transport](https://crates.io/crates/kitu-transport) | 0.1.0 | 0 | Transport abstraction and adapters for moving OSC/IR messages. |
+| 2026-11-22 05:18:24 | [sparrow-limits](https://crates.io/crates/sparrow-limits) | 0.1.0 | 0 | Shared admission limits for Sparrow producers and storage |
+| 2026-11-22 05:18:26 | [sparrow-client](https://crates.io/crates/sparrow-client) | 0.1.0 | 0 | Async Sparrow producer SDK for structured logs, terminal output and bulk imports |
 
 ## Data source
 

@@ -1,0 +1,27 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-22T04:24:11.461597Z,rouge-framer,0.3.0,0,0,https://github.com/jcarver989/rouge,Framer preset for packaging and publishing Rouge apps
+2026-11-22T04:26:13.859537Z,litz-part-wasm,0.1.1,0,0,https://github.com/Litz-Sim/litz,Runs a schematic part provided as a WebAssembly component.
+2026-11-22T04:26:16.289075Z,kitu-osc-ir,0.1.0,0,0,https://github.com/Nagitch/kitu-logic-processor,OSC-inspired intermediate representation for Kitu runtime messaging.
+2026-11-22T04:32:23.823846Z,localhop-protocol,0.1.0,0,0,https://github.com/Leon24k/localhop,Zero-copy binary framing protocol for localhop multiplexed tunnels
+2026-11-22T04:32:53.260967Z,localhop,0.1.0,0,0,https://github.com/Leon24k/localhop,Seamless low-latency Rust localhost tunnel CLI with live HTTP/webhook inspector & replay
+2026-11-22T04:33:02.103972Z,localhop-server,0.1.0,0,0,https://github.com/Leon24k/localhop,Public low-latency Axum relay server for localhop
+2026-11-22T04:36:16.402503Z,kitu-web-admin-backend,0.1.0,0,0,https://github.com/Nagitch/kitu-logic-processor,Backend glue (HTTP/WS) for the Kitu web admin experience.
+2026-11-22T04:36:30.606658Z,litz-radio,0.1.0,0,0,https://github.com/Litz-Sim/litz,"Deterministic shared radio medium for Litz: packets, airtime, channels and collisions."
+2026-11-22T04:42:26.779808Z,oxcord-macros,0.1.0,0,0,https://github.com/wumx-labs/oxcord.git,"Proc-macro helpers for oxcord-framework: #[command], #[check], and autocomplete attributes."
+2026-11-22T04:46:16.207991Z,kitu-app-actions,0.1.0,0,0,https://github.com/Nagitch/kitu-logic-processor,Shared application action catalog definitions for Kitu runtimes and tools.
+2026-11-22T04:47:02.423929Z,litz-board,0.1.0,0,0,https://github.com/Litz-Sim/litz,"Board runtime for Litz: flatten a diagram, resolve nets, and drive parts from pin levels."
+2026-11-22T04:47:50.526618Z,oxcord-framework,0.1.0,0,0,https://github.com/wumx-labs/oxcord.git,"A high-level, poise-style command framework for Oxcord: unified slash + prefix commands, argument extraction, cooldowns, and autocomplete."
+2026-11-22T04:49:23.623166Z,fidetype,0.1.0,0,0,https://github.com/zhangzibo/fidetype,"Rust SDK for NeuralTextStream (NTS): writer, readers (JSON Lines + NPZ), v0.1 checks, FEP-0001/0003/0005 trust_decision rules and the conformance runner. no_std + alloc core."
+2026-11-22T04:56:20.193745Z,kitu-osc-ir-wasm,0.1.0,0,0,https://github.com/Nagitch/kitu-logic-processor,WebAssembly bindings for Kitu OSC intermediate representations.
+2026-11-22T04:57:02.820603Z,catchlight-editor,0.0.0,0,0,https://github.com/hyperlogue/catchlight,Placeholder for the Catchlight editor app; the first release is 0.2.0
+2026-11-22T04:58:49.698276Z,litz-fixture,0.1.0,0,0,https://github.com/Litz-Sim/litz,Dependency-free ESP32-C3 firmware fixtures: hand-assembled blinky and hello images for Litz.
+2026-11-22T04:59:03.706547Z,hiruzen-cli,0.2.1,0,0,https://github.com/farhanmalhi/hiruzen-cli,"Your terminal assistant: suggests the next word as you type and learns how you work, on Windows, Linux and macOS"
+2026-11-22T05:00:20.498644Z,hideo,0.1.0,0,0,https://github.com/paazmaya/hideo,A standalone Rust CLI for building PDF books from Markdown
+2026-11-22T05:02:53.763488Z,wabot-addon-auth-passkey,0.2.0,0,0,https://github.com/wabot-dev/wabot-rust,"Passkeys (WebAuthn) for a relying party: options, and verifying registrations and assertions on ring, with no OpenSSL."
+2026-11-22T05:06:16.119141Z,kitu-shell,0.1.0,0,0,https://github.com/Nagitch/kitu-logic-processor,CLI shell primitives for driving and inspecting the Kitu runtime.
+2026-11-22T05:08:54.094354Z,scatter-wikitext-expand,0.1.0,0,0,https://github.com/scatterbase/triplespace,"MediaWiki's preprocessor and frame expansion for wikitext, with no I/O: the facts it needs come through the ExpandHost trait"
+2026-11-22T05:11:17.648157Z,supercargo-core,0.1.0,0,0,https://github.com/rolandjitsu/supercargo,Core library for supercargo: change detection and build-plan computation for Docker images built from Rust workspace binaries
+2026-11-22T05:11:31.019954Z,litz-avr,0.1.0,0,0,https://github.com/Litz-Sim/litz,"A pure-Rust ATmega328P interpreter for Litz: AVR8 core, interrupts, GPIO, timers and PWM, ADC, USART, SPI, TWI and EEPROM."
+2026-11-22T05:16:17.993141Z,kitu-transport,0.1.0,0,0,https://github.com/Nagitch/kitu-logic-processor,Transport abstraction and adapters for moving OSC/IR messages.
+2026-11-22T05:18:24.075343Z,sparrow-limits,0.1.0,0,0,,Shared admission limits for Sparrow producers and storage
+2026-11-22T05:18:26.230732Z,sparrow-client,0.1.0,0,0,,"Async Sparrow producer SDK for structured logs, terminal output and bulk imports"
