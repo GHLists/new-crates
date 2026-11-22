@@ -1,0 +1,53 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-22T21:18:36.066973Z,gpdoc-plugin-trailing-node,0.1.0,0,0,https://github.com/hhhjin/gpdoc,Trailing Node plugin for the gpdoc editor
+2026-11-22T21:20:01.320737Z,klause,0.1.0,0,0,https://github.com/aridinstitute/klause,"Store, render, and query annotated text in memory."
+2026-11-22T21:21:55.602901Z,calibre,0.1.0,0,0,https://github.com/kteal/calibre,Native Rust creation of and access to Calibre libraries
+2026-11-22T21:22:02.976506Z,nai-lattice-observability,0.1.0,0,0,https://github.com/cyberluke/NAI-Lattice,NAI Lattice canonical observability ledger: structured log stream (namespace observability.log.v1) produced by all NAI components and queried like Kibana.
+2026-11-22T21:23:55.629424Z,scatter-wikitext,0.1.0,0,0,https://github.com/scatterbase/triplespace,"Render MediaWiki wikitext to sanitized HTML, and extract its links, categories and sections, with source positions and no I/O"
+2026-11-22T21:26:00.889824Z,bonsai-lib,1.0.0,0,0,https://github.com/aymericbeaumet/bonsai,Git worktree manager used by the bonsai CLI
+2026-11-22T21:26:03.342991Z,siphon-proxy,0.3.0,0,0,https://github.com/feryx-io/siphon-rs,SIP proxy primitives and routing helpers.
+2026-11-22T21:28:34.954582Z,gpdoc-plugin-typography,0.1.0,0,0,https://github.com/hhhjin/gpdoc,Typography plugin for the gpdoc editor
+2026-11-22T21:29:27.129414Z,whisker-dev-protocol,0.19.0,0,0,https://github.com/whiskerrs/whisker,Authenticated wire protocol shared by the `whisker run` dev server and the on-device dev runtime.
+2026-11-22T21:31:57.607645Z,nai-lattice-provider-appcontent,0.1.0,0,0,https://github.com/cyberluke/NAI-Lattice,NAI Lattice lattice-provider-appcontent.
+2026-11-22T21:33:49.715246Z,objshelf,0.1.0,0,0,https://github.com/MF-Room/objshelf,"A portable object store that caches plain Rust values on the heap, over pluggable backends from bare-metal to hosted systems."
+2026-11-22T21:34:09.993741Z,remoteid-demo,0.1.0,0,0,https://github.com/Mattbusel/remoteid-demo,"Runnable demo for the Remote ID counter-UAS stack: generate a drone-flood scenario (one source, hundreds of fake identities, one genuine track), run the receive-only sentinel over it, and get a plain…"
+2026-11-22T21:35:04.731587Z,reedapt,0.2.0,0,0,https://github.com/Reedapt/reedapt-rust,The official Rust library for the Reedapt API: dub video and audio into other languages in each speaker's own voice.
+2026-11-22T21:36:15.281018Z,siphon-registrar,0.3.2,0,0,https://github.com/feryx-io/siphon-rs,REGISTER handling and location service for SIP.
+2026-11-22T21:36:54.638188Z,token-manager,20261122.0.0,0,0,https://github.com/ducks/token-manager,Read-only AI account balances and quotas in your terminal
+2026-11-22T21:38:39.884244Z,gpdoc-plugin-underline,0.1.0,0,0,https://github.com/hhhjin/gpdoc,Underline plugin for the gpdoc rich-text editor
+2026-11-22T21:39:32.120586Z,olai-pdp,0.0.1,0,0,https://github.com/open-lakehouse/breakwater,"A Cedar policy decision point serving olai-auth's PDP wire API, with entities from Postgres"
+2026-11-22T21:40:39.464637Z,fincal,0.21.0,0,0,https://github.com/theHausdorffMetric/fincal,"A rule-based financial holiday calendar framework: business-day queries, ISDA date adjustment, calendar comparison, and rule fitting, with built-in market calendars."
+2026-11-22T21:41:47.688743Z,brokk-mj-microvm,0.0.0,0,0,https://github.com/BrokkAi/mjolnir,Linux Nitro Sandbox microVM engine and guest agent for Mjolnir (name reservation; released with Mjolnir)
+2026-11-22T21:41:53.547949Z,brokk-mj-worker-mcp,0.0.0,0,0,https://github.com/BrokkAi/mjolnir,Worker-side MCP servers for Mjolnir (name reservation; released with Mjolnir)
+2026-11-22T21:41:59.106625Z,brokk-mj-worker-review,0.0.0,0,0,https://github.com/BrokkAi/mjolnir,Worker-side Git review capture and hooks for Mjolnir (name reservation; released with Mjolnir)
+2026-11-22T21:41:59.45434Z,nai-lattice-provider-filesystem,0.1.0,0,0,https://github.com/cyberluke/NAI-Lattice,NAI Lattice lattice-provider-filesystem.
+2026-11-22T21:42:04.807498Z,brokk-mj-harness-install,0.0.0,0,0,https://github.com/BrokkAi/mjolnir,Managed harness installation and target login environments for Mjolnir (name reservation; released with Mjolnir)
+2026-11-22T21:46:36.606044Z,siphon-uac,0.9.6,0,0,https://github.com/feryx-io/siphon-rs,User Agent Client helpers for SIP.
+2026-11-22T21:47:10.822973Z,scatter-talk,0.1.0,0,0,https://github.com/scatterbase/triplespace,"Split MediaWiki talk pages into threads and comments: authors, times, replies and DiscussionTools IDs, with no I/O"
+2026-11-22T21:48:36.234497Z,gpdoc-plugin-unique-id,0.1.0,0,0,https://github.com/hhhjin/gpdoc,Unique Id plugin for the gpdoc editor
+2026-11-22T21:51:10.456519Z,cococheck-core,0.1.0,0,0,https://github.com/coco-tools/cococheck,"The parser, configuration, and rules of CoCoCheck, a checker for Conventional Commits messages"
+2026-11-22T21:51:23.597787Z,cococheck,0.1.0,0,0,https://github.com/coco-tools/cococheck,"A fast checker for Conventional Commits messages, distributed as a single binary"
+2026-11-22T21:51:58.680647Z,nai-lattice-provider-opfs,0.1.0,0,0,https://github.com/cyberluke/NAI-Lattice,NAI Lattice lattice-provider-opfs.
+2026-11-22T21:56:48.828157Z,siphon-uas,0.5.2,0,0,https://github.com/feryx-io/siphon-rs,User Agent Server helpers for SIP.
+2026-11-22T22:00:19.547078Z,refimage-pyo3,1.0.0-pre7,0,0,https://github.com/sunipkm/refimage,Exchange refimage images and pipelines with the refimage Python package from other PyO3 extension modules
+2026-11-22T22:01:58.497841Z,nai-lattice-provider-windows-search,0.1.0,0,0,https://github.com/cyberluke/NAI-Lattice,NAI Lattice lattice-provider-windows-search.
+2026-11-22T22:02:10.883376Z,siphond,0.7.3,0,0,https://github.com/feryx-io/siphon-rs,Multi-mode SIP testing daemon.
+2026-11-22T22:03:41.506144Z,lotel,0.1.0,0,0,https://github.com/hamin/lotel,"See what your coding agents did: one binary that takes OpenTelemetry, stores it in DuckDB and forgets it on schedule"
+2026-11-22T22:04:08.382888Z,samudo-api,0.1.63,0,0,https://github.com/clarknovalis/samudo,"Wire types of the samu API. serde only, no logic, no I/O."
+2026-11-22T22:06:57.43915Z,remedy-lua,0.1.0,0,0,https://github.com/AhmiDarrow/RemedyLua,"A Lua 5.4 superset in safe Rust for running untrusted scripts: exact fuel, memory and depth limits, an incremental collector, an optional typed dialect and a capability-based host API."
+2026-11-22T22:11:59.542851Z,nai-lattice-testkit,0.1.0,0,0,https://github.com/cyberluke/NAI-Lattice,NAI Lattice lattice-testkit.
+2026-11-22T22:16:00.610523Z,deslop-please,0.1.0,0,0,https://github.com/deterministic-machines/deslop-please,"An opinionated linter to remove sloppy code: deep modules, narrow interfaces."
+2026-11-22T22:16:49.961772Z,nousdb-core,0.1.0,0,0,https://github.com/Ctsap/nousdb,"Model providers, prompt templates, token estimation and certification statistics for NousDB"
+2026-11-22T22:16:53.208094Z,nousdb-operators,0.1.0,0,0,https://github.com/Ctsap/nousdb,"Logical and physical semantic operators (extend, selection, join, generate) for NousDB"
+2026-11-22T22:16:56.182986Z,nousdb-optimizer,0.1.0,0,0,https://github.com/Ctsap/nousdb,Logical and physical optimizer rules for NousDB semantic query plans
+2026-11-22T22:16:56.681801Z,nousdb-planner,0.1.0,0,0,https://github.com/Ctsap/nousdb,Physical planner that turns NousDB semantic plan nodes into executable operators
+2026-11-22T22:16:57.66045Z,nousdb-sql,0.1.0,0,0,https://github.com/Ctsap/nousdb,"SQL functions for NousDB's semantic operators: EXTEND, SEM_FILTER, SEM_JOIN and GENERATE"
+2026-11-22T22:17:09.710414Z,sitecheck,0.1.0,0,0,https://github.com/TheGreatAxios/sitecheck,"Fast, config-driven web health checks for HTTP, structured data, PageSpeed Insights, Lighthouse, and Google Search Console."
+2026-11-22T22:17:10.306383Z,clearway,0.1.0,0,0,https://github.com/TheGreatAxios/clearway,"Fast, browser-agnostic, pure-Rust accessibility engine for HTML5 and DOM IR snapshots."
+2026-11-22T22:17:43.360615Z,rakomi,0.1.0,0,0,https://github.com/rakomidev/rakomi-rust,OpenID Connect discovery and JWKS retrieval for Rakomi and other OpenID providers
+2026-11-22T22:17:45.398988Z,rakomi-sdk,0.1.0,0,0,https://github.com/rakomidev/rakomi-rust,Rakomi SDK for Rust; currently re-exports the rakomi crate
+2026-11-22T22:18:11.043719Z,cordex-model,0.1.0-beta.1,0,0,https://github.com/lejylabs/cordex,"Discord API models, snowflakes, flags and gateway payloads."
+2026-11-22T22:18:13.865688Z,cordex-http,0.1.0-beta.1,0,0,https://github.com/lejylabs/cordex,Discord REST client with rate limiting.
+2026-11-22T22:18:16.245463Z,cordex-gateway,0.1.0-beta.1,0,0,https://github.com/lejylabs/cordex,Discord gateway shards and shard manager.
+2026-11-22T22:18:16.966801Z,cordex-interactions,0.1.0-beta.1,0,0,https://github.com/lejylabs/cordex,"Discord interaction builders, responses and HTTP endpoint."
+2026-11-22T22:18:18.74557Z,cordex,0.1.0-beta.1,0,0,https://github.com/lejylabs/cordex,Independent Discord bot API library (facade crate).
