@@ -1,0 +1,46 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-22T15:19:58.547892Z,kian-endpoint,0.1.0,0,0,https://github.com/flyer103/kian-runtime,"Endpoint SDK library: KiandProto's endpoint-side implementation, embeddable in any process"
+2026-11-22T15:21:49.552395Z,birta-core,0.1.0,0,0,https://github.com/hugvit/birta,"Markdown rendering, syntax highlighting, themes and stylesheets behind birta"
+2026-11-22T15:22:47.80356Z,aequitas-runtime,0.1.0,0,0,https://github.com/ryancinsight/aequitas,Exact runtime SI dimensions for Aequitas quantities and buffers
+2026-11-22T15:24:16.22298Z,metro-core,0.1.0,0,0,https://github.com/blackpantech/metro-feed,"Core library of the Metro feed reader: storage, fetching, parsing and refresh"
+2026-11-22T15:24:18.089258Z,metro-cli,0.1.0,0,0,https://github.com/blackpantech/metro-feed,Command-line frontend of the Metro feed reader
+2026-11-22T15:24:18.603488Z,metro-tui,0.1.0,0,0,https://github.com/blackpantech/metro-feed,Terminal UI frontend of the Metro feed reader
+2026-11-22T15:24:19.182584Z,metro-feed,0.1.0,0,0,https://github.com/blackpantech/metro-feed,"Metro, a terminal RSS / Atom / JSON Feed reader (installs the `metro` command)"
+2026-11-22T15:26:26.651969Z,gasket-otel,0.12.0,0,0,https://github.com/construkts/gasket-rs,OpenTelemetry metrics bridge for the Gasket framework
+2026-11-22T15:28:00.411254Z,hardroxide-ps7,2.7.0,0,0,https://github.com/jwkunz/Hardroxide,"Zynq-7000 processing-system support for bare metal: startup, exceptions, GIC, timers, UART console"
+2026-11-22T15:28:39.8811Z,gpdoc-plugin-details,0.1.0,0,0,https://github.com/hhhjin/gpdoc,Details plugin for the gpdoc rich-text editor
+2026-11-22T15:29:26.3626Z,prismsdk-db,0.1.0,0,0,https://github.com/0xtlt/prismsdk,"SQL for Prism apps (sqlx): SQLite on the device, the server's database on the web."
+2026-11-22T15:30:00.22555Z,kian-exec,0.1.0,0,0,https://github.com/flyer103/kian-runtime,KiandProto server half: ConnectionManager that dials execution endpoints (durable queue + RemoteExecBackend land in the next slice)
+2026-11-22T15:30:26.496927Z,retex-synctex,2.1.0,0,0,https://gitlab.com/severin-lemaignan/retex,"Reads SyncTeX data: from a source line to its place in the PDF, and from a point of the PDF to its source line"
+2026-11-22T15:30:37.368623Z,multicast-codemode-local,1.0.0,0,0,https://github.com/douglance/multicast,Local QuickJS executor for multicast Code Mode
+2026-11-22T15:36:00.045215Z,cargo-c4doc,0.1.0,0,0,https://github.com/nwiizo/cargo-c4doc,Evidence-backed C4 documentation tools for coding agents
+2026-11-22T15:37:46.213731Z,lib_jsl_core,2.21.1,0,0,https://github.com/jwkunz/lib_jsl,"Shared foundation types, aliases, and traits for the lib_jsl workspace."
+2026-11-22T15:38:13.648202Z,ctrl-click,1.0.0,0,0,https://gitlab.com/mordred/ctrl-click,Linux evdev daemon that remaps Ctrl+Click on a touchpad to right-click without losing multitouch
+2026-11-22T15:38:38.449394Z,gpdoc-plugin-drag-handle,0.1.0,0,0,https://github.com/hhhjin/gpdoc,Drag handle plugin for the gpdoc GPUI editor
+2026-11-22T15:39:58.008086Z,kian-harness,0.1.0,0,0,https://github.com/flyer103/kian-runtime,"Shared skeleton for external-harness bridges (LoopDriver state machine, approvals, fixtures)"
+2026-11-22T15:40:00.245312Z,prismsdk-macos,0.1.0,0,0,https://github.com/0xtlt/prismsdk,Prism backend for macOS (AppKit native views).
+2026-11-22T15:41:43.928109Z,nekomoji,0.1.0,0,0,https://github.com/lovelygenerator/nekomoji,"Japanese text layout and reveal effects for games (ruby, kinsoku, typewriter)"
+2026-11-22T15:46:28.349676Z,lotus-matrix-l-config,0.1.0-alpha,0,0,https://github.com/teneberus/lotus-matrix-l-config,Configuration structure including a few helper functions for LOTUS Matrix L.
+2026-11-22T15:47:45.788177Z,lib_jsl_derivatives,2.21.1,0,0,https://github.com/jwkunz/lib_jsl,Numerical differentiation routines for scalar and vector-valued functions.
+2026-11-22T15:48:39.432745Z,gpdoc-plugin-drop-cursor,0.1.0,0,0,https://github.com/hhhjin/gpdoc,Drop cursor plugin for gpdoc
+2026-11-22T15:49:59.669729Z,kian-llm,0.1.0,0,0,https://github.com/flyer103/kian-runtime,"ModelProvider seam, slot resolution, sent-bytes persistence hooks"
+2026-11-22T15:50:14.181975Z,game-tree-search,0.0.0,0,0,https://github.com/sunsided/game-tree-search,"Adversarial game-tree search: minimax, negamax, alpha-beta, principal variation search, MTD(f), iterative deepening with transposition tables, expectimax and Monte Carlo tree search"
+2026-11-22T15:50:25.376003Z,prismsdk-ios,0.1.0,0,0,https://github.com/0xtlt/prismsdk,Prism backend for iOS (UIKit native views).
+2026-11-22T15:52:33.028286Z,olai-secret-server,0.0.1,0,0,https://github.com/open-lakehouse/trestle,A secret discovery service (SDS) server that hands generic secrets to Envoy and other consumers over per-consumer Unix sockets
+2026-11-22T15:54:16.43275Z,multicast-codemode-mcp,1.0.0,0,0,https://github.com/douglance/multicast,Provider-neutral MCP lifecycle facade for multicast Code Mode
+2026-11-22T15:57:59.514652Z,hardroxide-tls,2.7.0,0,0,https://github.com/jwkunz/Hardroxide,"A TLS 1.3 server written for Hardroxide: one cipher suite (ChaCha20-Poly1305), X25519, Ed25519 certificates; no_std, no allocation. Educational: not audited."
+2026-11-22T15:58:39.211193Z,gpdoc-plugin-file-handler,0.1.0,0,0,https://github.com/hhhjin/gpdoc,File handler plugin for gpdoc
+2026-11-22T15:59:58.917717Z,kian-plugin,0.1.0,0,0,https://github.com/flyer103/kian-runtime,"Ctx registry, Plugin trait, five-mode dispatch, Disposer"
+2026-11-22T16:00:12.859054Z,tomoyo-protocol,2.3.0,0,0,https://github.com/q871958549/Tomoyo,"Open plugin protocol, manifest schema, JSON-RPC 2.0 wire types, and declarative UI primitives for Tomoyo Launcher"
+2026-11-22T16:00:18.306862Z,tomoyo-everything,2.3.0,0,0,https://github.com/q871958549/Tomoyo,"Pure-Rust native WM_COPYDATA IPC client for Voidtools Everything 1.4 & 1.5a (zero external DLLs, built for Tomoyo Launcher)"
+2026-11-22T16:00:32.23816Z,prismsdk-watchos,0.1.0,0,0,https://github.com/0xtlt/prismsdk,"Prism backend for watchOS: the app runs in Rust, a SwiftUI host draws it."
+2026-11-22T16:00:44.932247Z,tomoyo-sdk,2.3.0,0,0,https://github.com/q871958549/Tomoyo,Ergonomic Rust SDK for authoring ultra-fast Tomoyo Launcher STDIO JSON-RPC 2.0 plugins
+2026-11-22T16:00:49.091Z,tomoyo-wasm-sdk,2.3.0,0,0,https://github.com/q871958549/Tomoyo,Zero-bloat Rust SDK for authoring capability-sandboxed Tomoyo Launcher WebAssembly plugins (wasm32-unknown-unknown)
+2026-11-22T16:06:22.307685Z,hopf-redis,0.8.0,0,0,https://github.com/cpkb-bluezoo/hopf,"Async RESP2/RESP3 Redis and Valkey client for Hopf, with cluster support"
+2026-11-22T16:08:00.048231Z,hardroxide-gen,2.7.0,0,0,https://github.com/jwkunz/Hardroxide,Generate a Rust HAL crate from a parsed XSA
+2026-11-22T16:08:39.163548Z,gpdoc-plugin-find-and-replace,0.1.0,0,0,https://github.com/hhhjin/gpdoc,Find And Replace plugin for the gpdoc editor
+2026-11-22T16:10:00.860309Z,kian-store,0.1.0,0,0,https://github.com/flyer103/kian-runtime,"EventStore (sqlite v0 → postgres), Inbox, expectedSeq CAS, epoch fencing, projection rebuild"
+2026-11-22T16:10:41.389315Z,prismsdk-linux,0.1.0,0,0,https://github.com/0xtlt/prismsdk,Prism backend for Linux desktops (GTK 4 native widgets).
+2026-11-22T16:11:41.23895Z,fidelidade,0.1.0,0,0,https://github.com/samuelbarata/fidelidade,Unofficial read-only client for the Fidelidade (Portuguese insurer) customer area: policies and downloadable documents
+2026-11-22T16:13:20.415822Z,arto-markdown-uniffi,0.49.0,0,0,https://github.com/arto-app/arto-markdown,"arto-markdown's renderer as a UniFFI interface, for Swift and Kotlin bindings"
+2026-11-22T16:17:45.587952Z,lib_jsl_ffts,2.21.1,0,0,https://github.com/jwkunz/lib_jsl,Fast Fourier transform engines and related spectral transforms.
