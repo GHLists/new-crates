@@ -1,0 +1,62 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-22T17:20:01.024385Z,kian-superagent,0.1.1,0,0,https://github.com/flyer103/kian-runtime,"Super-agent bundle: Router/Worker, subscriptions, channels and the declarative job conductor"
+2026-11-22T17:20:26.017954Z,jstagefolio,0.1.0,0,0,https://github.com/rice8y/jstagefolio,Unofficial offline Rust SDK for J-STAGE bibliographic metadata from JaLC
+2026-11-22T17:22:31.278136Z,veloce-core,0.1.0,0,0,https://github.com/RavaniRoshan/veloce,Veloce terminal-UI framework (veloce-core)
+2026-11-22T17:22:42.234481Z,veloce-layout,0.1.0,0,0,https://github.com/RavaniRoshan/veloce,Veloce terminal-UI framework (veloce-layout)
+2026-11-22T17:22:52.136005Z,veloce-render,0.1.0,0,0,https://github.com/RavaniRoshan/veloce,Veloce terminal-UI framework (veloce-render)
+2026-11-22T17:22:58.160774Z,veloce-router,0.1.0,0,0,https://github.com/RavaniRoshan/veloce,Veloce terminal-UI framework (veloce-router)
+2026-11-22T17:23:11.08049Z,veloce-runtime,0.1.0,0,0,https://github.com/RavaniRoshan/veloce,Veloce terminal-UI framework (veloce-runtime)
+2026-11-22T17:23:36.656122Z,seriation,0.0.0,0,0,https://github.com/douzebis/prototools,Order undated snapshots of files by how the files in them evolve. Reserved for the prototools project; its first release comes with prototools' next version.
+2026-11-22T17:23:39.575077Z,nucleo-picker-core,0.1.0-beta.10,0,0,https://github.com/autobib/nucleo-picker,A performant and Unicode-aware fuzzy picker tui library
+2026-11-22T17:23:40.156355Z,git-seriate,0.0.0,0,0,https://github.com/douzebis/prototools,"Store undated snapshots of files in git, and rebuild one linear history from them. Reserved for the prototools project; its first release comes with prototools' next version."
+2026-11-22T17:23:40.546355Z,proton-drive-tree-rs,0.1.0,0,0,https://github.com/narrrl/proton-rs,"Walking and watching Proton Drive folder trees: a parallel, retrying, cycle-safe crawl, one surface over public links and account folders, and a change feed that says when a crawled tree went stale"
+2026-11-22T17:23:41.604182Z,nucleo-picker-interface,0.1.0-beta.10,0,0,https://github.com/autobib/nucleo-picker,A performant and Unicode-aware fuzzy picker tui library
+2026-11-22T17:23:43.511765Z,git-seriate-fdp,0.0.0,0,0,https://github.com/douzebis/prototools,git-seriate for the protobuf descriptors embedded in executables. Reserved for the prototools project; its first release comes with prototools' next version.
+2026-11-22T17:24:39.995496Z,topco,0.1.1,0,0,,launch custom program
+2026-11-22T17:25:19.336251Z,planning-qubo,0.0.0,0,0,https://github.com/sunsided/planning-qubo,"Planning, scheduling and constraint problems as QUBO and Ising models: encoders, decoders, penalty tuning, classical samplers and export for quantum annealers and QAOA"
+2026-11-22T17:25:30.612826Z,quantum-planning,0.0.0,0,0,https://github.com/sunsided/quantum-planning,"Quantum algorithms for planning and search, on simulators: Grover search, quantum backtracking, amplitude estimation, quantum walks on game trees and QAOA"
+2026-11-22T17:27:46.997912Z,lib_jsl_geometry,2.21.1,0,0,https://github.com/jwkunz/lib_jsl,"Geometry: 1D to 4D types, Delaunay and Voronoi, convex hulls, spatial trees, intersections and mesh processing."
+2026-11-22T17:28:39.491993Z,gpdoc-plugin-image,0.1.0,0,0,https://github.com/hhhjin/gpdoc,Image plugin for the gpdoc rich-text editor
+2026-11-22T17:30:02.099051Z,kian-cli,0.1.1,0,0,https://github.com/flyer103/kian-runtime,CLI and embedded SDK: serve/run/inspect/replay/export
+2026-11-22T17:31:41.421489Z,splice-lancy,0.1.0,0,0,https://github.com/fexolm/lancy3,Lancy native code generation for Splice kernels
+2026-11-22T17:31:58.53671Z,splice-cranelift,0.1.0,0,0,https://github.com/fexolm/lancy3,Cranelift JIT code generator for Splice kernels
+2026-11-22T17:32:10.140918Z,splice-llvm,0.1.0,0,0,https://github.com/fexolm/lancy3,LLVM ORC JIT code generator for Splice kernels
+2026-11-22T17:32:15.652902Z,prototools-affinity,0.0.0,0,0,https://github.com/douzebis/prototools,"Which CPUs the kernel calls fast, and threads confined to them; shared by the prototools CLIs. Reserved for the prototools project; its first release comes with prototools' next version."
+2026-11-22T17:32:17.607928Z,splice-text,0.1.0,0,0,https://github.com/fexolm/lancy3,Print specialized Splice kernels as readable code
+2026-11-22T17:32:50.640963Z,veloce-tui,0.1.0,0,0,https://github.com/RavaniRoshan/veloce,Veloce terminal-UI framework (veloce)
+2026-11-22T17:33:11.470504Z,reylo-sql,0.8.2,0,0,https://github.com/reylosql/reylo,"Lossless SQL syntax trees for every database Reylo reads, generated from a database's own grammar where its license allows."
+2026-11-22T17:37:04.956673Z,aemulus-clients,0.0.3,0,0,https://github.com/Artur-Galstyan/aemulus,Device clients for aemulus (early work in progress)
+2026-11-22T17:37:45.856125Z,lib_jsl_utils,2.21.1,0,0,https://github.com/jwkunz/lib_jsl,"Terminal plots, unit conversion and numerical helpers."
+2026-11-22T17:38:39.260277Z,gpdoc-plugin-inline-code,0.1.0,0,0,https://github.com/hhhjin/gpdoc,Inline code plugin for the gpdoc rich-text editor
+2026-11-22T17:41:56.324324Z,opentide-dataset,1.0.0-rc.3,0,0,https://github.com/opentidehq/opentide,"opentide engine component: the embedded datasets, compressed at build time and decoded once per process (I/O-free, pure Rust). Internal: depend on the opentide crate."
+2026-11-22T17:43:34.148807Z,splice-kernel,0.1.0,0,0,https://github.com/fexolm/lancy3,A staged Rust kernel language with a portable code generation interface
+2026-11-22T17:45:36.478277Z,ferrochart-core,0.3.0,0,0,https://github.com/0x0077/ferrochart,Platform-independent core of the FerroChart financial charting engine
+2026-11-22T17:45:37.560488Z,ferrochart-text,0.3.0,0,0,https://github.com/0x0077/ferrochart,"Font loading, text measurement and glyph atlas for FerroChart backends"
+2026-11-22T17:45:40.697519Z,ferrochart-indicators,0.3.0,0,0,https://github.com/0x0077/ferrochart,Incremental technical indicators for FerroChart
+2026-11-22T17:45:42.646401Z,ferrochart-render-cpu,0.3.0,0,0,https://github.com/0x0077/ferrochart,CPU (tiny-skia) rendering backend for FerroChart
+2026-11-22T17:45:43.514546Z,ferrochart-render-wgpu,0.3.0,0,0,https://github.com/0x0077/ferrochart,wgpu rendering backend for FerroChart
+2026-11-22T17:46:08.160445Z,bamboo-litellm-llms-types,2026.11.37,0,0,https://github.com/bigduu/Bamboo-agent,Pinned LiteLLM Rust wire types used by Bamboo
+2026-11-22T17:47:46.431909Z,lib_jsl_electromagnetics,2.21.1,0,0,https://github.com/jwkunz/lib_jsl,"Electromagnetics: fields, antennas, arrays, beamforming, direction finding, transmission lines, propagation, MoM and FDTD."
+2026-11-22T17:48:39.118296Z,gpdoc-plugin-invisible-characters,0.1.0,0,0,https://github.com/hhhjin/gpdoc,"Mark spaces, line breaks, and paragraph ends without adding document content in GPUI"
+2026-11-22T17:51:24.575193Z,playact-macros,0.1.2,0,0,https://github.com/hushink/playact,Proc-macro DSL for the playact behavior tree engine
+2026-11-22T17:51:28.552546Z,playact,0.1.2,0,0,https://github.com/hushink/playact,"A type-safe, extensible behavior tree engine for game automation"
+2026-11-22T17:51:49.554957Z,snmpify,0.1.0,0,0,https://github.com/snmp-rs/snmpify,"Fast SNMP for Rust: BER codec, v1/v2c/v3 messages, async client and trap receiver, with Python and C/C++ bindings."
+2026-11-22T17:53:23.100298Z,netleash-common,0.1.0,0,0,https://github.com/sigmaSd/netleash,Map types shared by netleash's eBPF programs and its userspace
+2026-11-22T17:53:25.595973Z,netleash,0.1.0,0,0,https://github.com/sigmaSd/netleash,"See and limit network traffic per app on Linux, with eBPF"
+2026-11-22T17:55:44.314152Z,ferrochart-orderflow,0.3.0,0,0,https://github.com/0x0077/ferrochart,"Order flow series for FerroChart: footprint, heatmap and TPO"
+2026-11-22T17:57:46.103735Z,lib_jsl_information,2.21.1,0,0,https://github.com/jwkunz/lib_jsl,"Information theory and coding: source coding, LFSRs, CRC and SHA-256, error-correcting codes."
+2026-11-22T17:58:40.283607Z,gpdoc-plugin-italic,0.1.0,0,0,https://github.com/hhhjin/gpdoc,Italic plugin for the gpdoc rich-text editor
+2026-11-22T17:59:35.658954Z,pds2,0.1.1,0,0,,PDS2 CLI
+2026-11-22T18:01:13.12649Z,orqx,0.0.1,0,0,https://github.com/ntl4u/orqx,An agentic orchestration layer for AI-first applications
+2026-11-22T18:07:45.801845Z,lib_jsl_file_io,2.21.1,0,0,https://github.com/jwkunz/lib_jsl,"Readers and writers for WAV, JPEG, PNG, Netpbm, CSV, NumPy .npy, Matrix Market, MATLAB, Harwell-Boeing, NetCDF-3, Fortran unformatted and ARFF files."
+2026-11-22T18:08:27.896963Z,ferrochart-plot,0.3.0,0,0,https://github.com/0x0077/ferrochart,"Non-time charts for FerroChart: numeric, category and date axes, lines, scatter, bars, waterfalls and heatmaps"
+2026-11-22T18:08:41.209845Z,gpdoc-plugin-link,0.1.0,0,0,https://github.com/hhhjin/gpdoc,Link plugin for the gpdoc rich-text editor
+2026-11-22T18:11:12.007285Z,obfus-rs,0.1.0,0,0,https://github.com/lagcompensation/obfus-rs,Compile-time and runtime obfuscation library
+2026-11-22T18:12:40.575349Z,fusuma-render,0.1.0,0,0,https://github.com/Dodai-Tech/fusuma,"A small, no_std renderer abstraction: shapes, paths, text, images, clip and translate behind one trait"
+2026-11-22T18:12:47.571987Z,fusuma-render-embedded,0.1.0,0,0,https://github.com/Dodai-Tech/fusuma,"Fusuma renderer backend for microcontroller displays: integer drawing on any embedded-graphics RGB565 target (no_std, no allocator)"
+2026-11-22T18:12:51.683392Z,fusuma-render-skia,0.1.0,0,0,https://github.com/Dodai-Tech/fusuma,"Fusuma renderer backend for desktops, phones and watches: anti-aliased CPU drawing on tiny-skia"
+2026-11-22T18:15:05.365026Z,jvm-ti-macros,0.0.1,0,0,https://codeberg.org/jvmti-rs/jvmti/,Procedural macros for JVMTI crates
+2026-11-22T18:16:25.054753Z,waveduderust_macros,0.0.0,0,0,https://github.com/lajosbencz/WaveDudeRust,Derives of the model's typed fields (Fields) and enum members (Word)
+2026-11-22T18:16:57.133551Z,waveduderust,0.0.0,0,0,https://github.com/lajosbencz/WaveDudeRust,"2D wave simulation: model, file formats, scene painter, CPU and wgpu engines, runs, renderer, overlays, exports"
+2026-11-22T18:17:45.350735Z,lib_jsl_graph,2.21.1,0,0,https://github.com/jwkunz/lib_jsl,"Graph representations and algorithms: shortest paths, spanning trees, flows and orderings."
+2026-11-22T18:18:02.085198Z,ferrochart-winit,0.3.0,0,0,https://github.com/0x0077/ferrochart,Desktop host helpers (winit) for FerroChart

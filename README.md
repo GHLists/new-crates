@@ -8,82 +8,75 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-22 17:19 UTC
+## Latest list — 2026-11-22 18:18 UTC
 
-New crates published between 2026-11-22 16:18 UTC and 2026-11-22 17:19 UTC.
+New crates published between 2026-11-22 17:19 UTC and 2026-11-22 18:18 UTC.
 
-[Full CSV](data/new-crates-2026-11-22T17-19-04-79428Z.csv)
+[Full CSV](data/new-crates-2026-11-22T18-18-23-144192Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-22 16:18:23 | [bletchmame](https://crates.io/crates/bletchmame) | 3.1.0 | 0 | A point and click front end for MAME |
-| 2026-11-22 16:18:42 | [gpdoc-plugin-floating-menu](https://crates.io/crates/gpdoc-plugin-floating-menu) | 0.1.0 | 0 | Floating menu plugin for the gpdoc GPUI editor |
-| 2026-11-22 16:20:00 | [kiand](https://crates.io/crates/kiand) | 0.1.0 | 0 | Endpoint daemon: kian-endpoint's Endpoint + LocalExecutor behind a thin, fail-c… |
-| 2026-11-22 16:20:48 | [prismsdk-android](https://crates.io/crates/prismsdk-android) | 0.1.1 | 0 | Prism backend for Android: the app runs in Rust, a small Java host shows native… |
-| 2026-11-22 16:27:47 | [lib_jsl_linalg](https://crates.io/crates/lib_jsl_linalg) | 2.21.1 | 0 | Dense linear algebra in pure Rust: LU, Cholesky, QR, LDLᵀ, Hessenberg and Schur… |
-| 2026-11-22 16:28:41 | [gpdoc-plugin-focus](https://crates.io/crates/gpdoc-plugin-focus) | 0.1.0 | 0 | Paint the block around the selection anchor while the editor has focus in GPUI |
-| 2026-11-22 16:29:58 | [kian-claude](https://crates.io/crates/kian-claude) | 0.1.0 | 0 | Claude Code bridge adapter: stream-json child behind the shared bridge skeleton… |
-| 2026-11-22 16:30:42 | [tgsendfile](https://crates.io/crates/tgsendfile) | 0.1.0 | 0 | Tiny async library for sending files to Telegram via the Bot API. No logging, n… |
-| 2026-11-22 16:31:01 | [prismsdk-windows](https://crates.io/crates/prismsdk-windows) | 0.1.1 | 0 | Prism backend for Windows (WinUI 3, Windows App SDK). |
-| 2026-11-22 16:31:54 | [prismsdk](https://crates.io/crates/prismsdk) | 0.1.1 | 0 | Write a UI once in Rust; ship it as a web server (HTML/CSS/JS) or a native app. |
-| 2026-11-22 16:32:15 | [constraint-search](https://crates.io/crates/constraint-search) | 0.0.0 | 0 | Finite-domain constraint satisfaction: propagation to a fixpoint, all-different… |
-| 2026-11-22 16:33:06 | [pova](https://crates.io/crates/pova) | 1.0.1 | 0 | btop-style YouTube Music player with a built-in cava visualizer |
-| 2026-11-22 16:37:46 | [lib_jsl_number_theory](https://crates.io/crates/lib_jsl_number_theory) | 2.21.1 | 0 | Number theory: modular arithmetic, primes, factorisation, the Chinese remainder… |
-| 2026-11-22 16:38:42 | [gpdoc-plugin-gap-cursor](https://crates.io/crates/gpdoc-plugin-gap-cursor) | 0.1.0 | 0 | Gap cursor plugin for gpdoc |
-| 2026-11-22 16:39:16 | [recalla](https://crates.io/crates/recalla) | 0.1.0 | 0 | Local-first memory engine for coding agents: backfilled, provenance-linked, cod… |
-| 2026-11-22 16:39:19 | [xact](https://crates.io/crates/xact) | 0.0.0 | 0 | Reserved. |
-| 2026-11-22 16:39:21 | [stead](https://crates.io/crates/stead) | 0.0.0 | 0 | Reserved. |
-| 2026-11-22 16:39:33 | [celobus-proto](https://crates.io/crates/celobus-proto) | 0.1.0 | 0 | The Celobus plugin contract: protobuf messages and gRPC services of plugin.prot… |
-| 2026-11-22 16:39:39 | [celobus-manifest](https://crates.io/crates/celobus-manifest) | 0.1.0 | 0 | The Celobus plugin manifest: roles, scopes, agents, requirements and its digest |
-| 2026-11-22 16:39:55 | [celobus-descriptor](https://crates.io/crates/celobus-descriptor) | 0.1.0 | 0 | The Celobus plugin descriptor: schema, canonical JSON, validation and the deriv… |
-| 2026-11-22 16:39:57 | [kian-codex](https://crates.io/crates/kian-codex) | 0.1.0 | 0 | Codex bridge adapter: codex app-server JSON-RPC child behind the shared bridge… |
-| 2026-11-22 16:39:59 | [celobus-sdk-derive](https://crates.io/crates/celobus-sdk-derive) | 0.1.0 | 0 | Derive macros of the Celobus plugin SDK: Message and Entity |
-| 2026-11-22 16:40:22 | [celobus-sdk](https://crates.io/crates/celobus-sdk) | 0.1.0 | 0 | The Celobus plugin SDK for Rust: declarations, the JSON codec, the platform ses… |
-| 2026-11-22 16:42:05 | [prismsdk-cli](https://crates.io/crates/prismsdk-cli) | 0.1.1 | 0 | The `prism` command: create, run, build and live-restart Prism apps. |
-| 2026-11-22 16:42:11 | [netscope-cli](https://crates.io/crates/netscope-cli) | 0.3.2 | 0 | Unprivileged netscope command line |
-| 2026-11-22 16:42:23 | [netscope-daemon](https://crates.io/crates/netscope-daemon) | 0.3.2 | 0 | Privileged netscope daemon |
-| 2026-11-22 16:47:46 | [lib_jsl_random](https://crates.io/crates/lib_jsl_random) | 2.21.1 | 0 | Random number generators, quasi-random sequences and QMC sampling, distribution… |
-| 2026-11-22 16:48:34 | [gpdoc-plugin-hard-break](https://crates.io/crates/gpdoc-plugin-hard-break) | 0.1.0 | 0 | Hard break plugin for the gpdoc rich-text editor |
-| 2026-11-22 16:49:47 | [splice-target](https://crates.io/crates/splice-target) | 0.1.0 | 0 | Shared host SIMD capabilities for Splice and Lancy |
-| 2026-11-22 16:49:59 | [kian-orchestrator](https://crates.io/crates/kian-orchestrator) | 0.1.0 | 0 | Execution model, recovery subsystem (classification + policy + budget), control… |
-| 2026-11-22 16:50:05 | [splice-macros](https://crates.io/crates/splice-macros) | 0.1.0 | 0 | Procedural macros for the Splice kernel language |
-| 2026-11-22 16:50:23 | [lancy](https://crates.io/crates/lancy) | 0.1.0 | 0 | A CPU JIT with SSA HIR and x86-64 and AArch64 code generation |
-| 2026-11-22 16:50:27 | [task-allocation](https://crates.io/crates/task-allocation) | 0.0.0 | 0 | Decentralized multi-agent task allocation: consensus-based bundle algorithm (CB… |
-| 2026-11-22 16:50:35 | [splice-core](https://crates.io/crates/splice-core) | 0.1.0 | 0 | Core types and frontend for the Splice kernel language |
-| 2026-11-22 16:50:45 | [splice-jit](https://crates.io/crates/splice-jit) | 0.1.0 | 0 | Native debug symbol registration for the Splice JIT backends |
-| 2026-11-22 16:51:17 | [ybus_sparse](https://crates.io/crates/ybus_sparse) | 0.1.0 | 0 | Sparse matrices: assembly, products, LU, Cholesky and LDLT factorizations, conj… |
-| 2026-11-22 16:51:19 | [ybus_cuda](https://crates.io/crates/ybus_cuda) | 0.1.0 | 0 | Experimental GPU path for ybus_powerflow: sparse triangular solves with many ri… |
-| 2026-11-22 16:51:19 | [ybus_ipm](https://crates.io/crates/ybus_ipm) | 0.1.0 | 0 | Interior-point solvers for nonlinear programs: a port of MATPOWER's MIPS, and M… |
-| 2026-11-22 16:51:21 | [ybus_powerflow](https://crates.io/crates/ybus_powerflow) | 0.1.0 | 0 | Power flow for electrical grids: DC and AC power flow, optimal power flow, PTDF… |
-| 2026-11-22 16:51:34 | [zbridge](https://crates.io/crates/zbridge) | 0.1.0 | 0 | Bounded, versioned CLI frontend protocol for Project Z |
-| 2026-11-22 16:52:11 | [prismsdk-island](https://crates.io/crates/prismsdk-island) | 0.1.1 | 0 | Write client-side islands for Prism web apps in Rust: small WASM Web Components… |
-| 2026-11-22 16:52:14 | [ranon](https://crates.io/crates/ranon) | 0.1.0 | 0 | Masks personal data in command output before it reaches an LLM agent |
-| 2026-11-22 16:55:06 | [babelqueue](https://crates.io/crates/babelqueue) | 0.0.0 | 0 | Rust SDK for BabelQueue, a broker-agnostic, language-agnostic queue message env… |
-| 2026-11-22 16:57:45 | [lib_jsl_root_finding](https://crates.io/crates/lib_jsl_root_finding) | 2.21.1 | 0 | Root finding: bracketing methods, Brent, Newton, polynomial roots, nonlinear sy… |
-| 2026-11-22 16:57:54 | [readkit-batch](https://crates.io/crates/readkit-batch) | 0.1.1 | 0 | Columnar, pooled, Arrow-compatible batches of sequencing reads |
-| 2026-11-22 16:57:55 | [readkit-fetch](https://crates.io/crates/readkit-fetch) | 0.1.1 | 0 | Ranged, verified, resumable HTTP downloads with file, memory and in-order strea… |
-| 2026-11-22 16:57:55 | [readkit-gz](https://crates.io/crates/readkit-gz) | 0.1.1 | 0 | gzip decoding (parallel for positioned input, sequential for streams) and a FAS… |
-| 2026-11-22 16:57:56 | [readkit-io](https://crates.io/crates/readkit-io) | 0.1.1 | 0 | Batch source and sink traits and a read-ahead helper for readkit stages |
-| 2026-11-22 16:57:58 | [readkit-fastq](https://crates.io/crates/readkit-fastq) | 0.1.1 | 0 | Strict FASTQ parsing into readkit batches and FASTQ writing out of them |
-| 2026-11-22 16:58:40 | [gpdoc-plugin-heading](https://crates.io/crates/gpdoc-plugin-heading) | 0.1.0 | 0 | Heading plugin for the gpdoc rich-text editor |
-| 2026-11-22 16:59:46 | [readkit-sra](https://crates.io/crates/readkit-sra) | 0.1.1 | 0 | .sra decoding into readkit batches with typed SRA Lite detection, and optional… |
-| 2026-11-22 16:59:59 | [kian-loop](https://crates.io/crates/kian-loop) | 0.1.0 | 0 | LoopDriver seam, built-in ReAct loop |
-| 2026-11-22 17:03:08 | [blive-proto](https://crates.io/crates/blive-proto) | 0.1.0 | 0 | Bilibili live room danmaku WebSocket, Protobuf, command, and authentication pro… |
-| 2026-11-22 17:07:46 | [lib_jsl_special_functions](https://crates.io/crates/lib_jsl_special_functions) | 2.21.1 | 0 | Special functions: gamma, beta, error, Bessel, Airy, elliptic, hypergeometric a… |
-| 2026-11-22 17:08:38 | [gpdoc-plugin-highlight](https://crates.io/crates/gpdoc-plugin-highlight) | 0.1.0 | 0 | Highlight plugin for the gpdoc rich-text editor |
-| 2026-11-22 17:09:28 | [morpheus-sdk](https://crates.io/crates/morpheus-sdk) | 0.1.6 | 0 | SDK crate for Morpheus - coding agent for the terminal |
-| 2026-11-22 17:09:35 | [morpheus-recall](https://crates.io/crates/morpheus-recall) | 0.1.5 | 0 | Memory/recall crate for Morpheus - coding agent for the terminal |
-| 2026-11-22 17:09:46 | [readkit](https://crates.io/crates/readkit) | 0.1.1 | 0 | Zero-copy sequencing read batches and the stages that produce and consume them |
-| 2026-11-22 17:09:59 | [kian-memory](https://crates.io/crates/kian-memory) | 0.1.0 | 0 | Memory bundle (MEMORY-MODEL Phase 1): the dreaming drain — dream prompt, fail-c… |
-| 2026-11-22 17:13:05 | [morpheus-tools](https://crates.io/crates/morpheus-tools) | 0.1.6 | 0 | Tools crate for Morpheus - coding agent for the terminal |
-| 2026-11-22 17:13:21 | [phdoc](https://crates.io/crates/phdoc) | 0.1.0 | 0 | Project scanner for shipped artifacts: inventories dependencies, authors, compl… |
-| 2026-11-22 17:13:28 | [morpheus-tui](https://crates.io/crates/morpheus-tui) | 0.1.6 | 0 | TUI crate for Morpheus - coding agent for the terminal |
-| 2026-11-22 17:15:38 | [morpheus-whatsapp](https://crates.io/crates/morpheus-whatsapp) | 0.1.0 | 0 | WhatsApp Web (multi-device) integration for Morpheus — pair by QR code, send an… |
-| 2026-11-22 17:16:14 | [orochi-macros](https://crates.io/crates/orochi-macros) | 0.1.0 | 0 | The `#[orochi::module]` attribute macro (use it through the `orochi` crate) |
-| 2026-11-22 17:16:50 | [orochi](https://crates.io/crates/orochi) | 0.1.0 | 0 | An ease-of-use-first layer over pyo3 for writing Python extensions in Rust |
-| 2026-11-22 17:17:47 | [lib_jsl_dsp](https://crates.io/crates/lib_jsl_dsp) | 2.21.1 | 0 | Digital signal processing routines including filters, transforms, resampling, a… |
-| 2026-11-22 17:17:52 | [claude-cx](https://crates.io/crates/claude-cx) | 0.4.0 | 0 | Several Claude accounts behind one Claude Code: a dashboard that shows each acc… |
-| 2026-11-22 17:18:38 | [gpdoc-plugin-horizontal-rule](https://crates.io/crates/gpdoc-plugin-horizontal-rule) | 0.1.0 | 0 | Horizontal rule plugin for the gpdoc rich-text editor |
+| 2026-11-22 17:20:01 | [kian-superagent](https://crates.io/crates/kian-superagent) | 0.1.1 | 0 | Super-agent bundle: Router/Worker, subscriptions, channels and the declarative… |
+| 2026-11-22 17:20:26 | [jstagefolio](https://crates.io/crates/jstagefolio) | 0.1.0 | 0 | Unofficial offline Rust SDK for J-STAGE bibliographic metadata from JaLC |
+| 2026-11-22 17:22:31 | [veloce-core](https://crates.io/crates/veloce-core) | 0.1.0 | 0 | Veloce terminal-UI framework (veloce-core) |
+| 2026-11-22 17:22:42 | [veloce-layout](https://crates.io/crates/veloce-layout) | 0.1.0 | 0 | Veloce terminal-UI framework (veloce-layout) |
+| 2026-11-22 17:22:52 | [veloce-render](https://crates.io/crates/veloce-render) | 0.1.0 | 0 | Veloce terminal-UI framework (veloce-render) |
+| 2026-11-22 17:22:58 | [veloce-router](https://crates.io/crates/veloce-router) | 0.1.0 | 0 | Veloce terminal-UI framework (veloce-router) |
+| 2026-11-22 17:23:11 | [veloce-runtime](https://crates.io/crates/veloce-runtime) | 0.1.0 | 0 | Veloce terminal-UI framework (veloce-runtime) |
+| 2026-11-22 17:23:36 | [seriation](https://crates.io/crates/seriation) | 0.0.0 | 0 | Order undated snapshots of files by how the files in them evolve. Reserved for… |
+| 2026-11-22 17:23:39 | [nucleo-picker-core](https://crates.io/crates/nucleo-picker-core) | 0.1.0-beta.10 | 0 | A performant and Unicode-aware fuzzy picker tui library |
+| 2026-11-22 17:23:40 | [git-seriate](https://crates.io/crates/git-seriate) | 0.0.0 | 0 | Store undated snapshots of files in git, and rebuild one linear history from th… |
+| 2026-11-22 17:23:40 | [proton-drive-tree-rs](https://crates.io/crates/proton-drive-tree-rs) | 0.1.0 | 0 | Walking and watching Proton Drive folder trees: a parallel, retrying, cycle-saf… |
+| 2026-11-22 17:23:41 | [nucleo-picker-interface](https://crates.io/crates/nucleo-picker-interface) | 0.1.0-beta.10 | 0 | A performant and Unicode-aware fuzzy picker tui library |
+| 2026-11-22 17:23:43 | [git-seriate-fdp](https://crates.io/crates/git-seriate-fdp) | 0.0.0 | 0 | git-seriate for the protobuf descriptors embedded in executables. Reserved for… |
+| 2026-11-22 17:24:39 | [topco](https://crates.io/crates/topco) | 0.1.1 | 0 | launch custom program |
+| 2026-11-22 17:25:19 | [planning-qubo](https://crates.io/crates/planning-qubo) | 0.0.0 | 0 | Planning, scheduling and constraint problems as QUBO and Ising models: encoders… |
+| 2026-11-22 17:25:30 | [quantum-planning](https://crates.io/crates/quantum-planning) | 0.0.0 | 0 | Quantum algorithms for planning and search, on simulators: Grover search, quant… |
+| 2026-11-22 17:27:46 | [lib_jsl_geometry](https://crates.io/crates/lib_jsl_geometry) | 2.21.1 | 0 | Geometry: 1D to 4D types, Delaunay and Voronoi, convex hulls, spatial trees, in… |
+| 2026-11-22 17:28:39 | [gpdoc-plugin-image](https://crates.io/crates/gpdoc-plugin-image) | 0.1.0 | 0 | Image plugin for the gpdoc rich-text editor |
+| 2026-11-22 17:30:02 | [kian-cli](https://crates.io/crates/kian-cli) | 0.1.1 | 0 | CLI and embedded SDK: serve/run/inspect/replay/export |
+| 2026-11-22 17:31:41 | [splice-lancy](https://crates.io/crates/splice-lancy) | 0.1.0 | 0 | Lancy native code generation for Splice kernels |
+| 2026-11-22 17:31:58 | [splice-cranelift](https://crates.io/crates/splice-cranelift) | 0.1.0 | 0 | Cranelift JIT code generator for Splice kernels |
+| 2026-11-22 17:32:10 | [splice-llvm](https://crates.io/crates/splice-llvm) | 0.1.0 | 0 | LLVM ORC JIT code generator for Splice kernels |
+| 2026-11-22 17:32:15 | [prototools-affinity](https://crates.io/crates/prototools-affinity) | 0.0.0 | 0 | Which CPUs the kernel calls fast, and threads confined to them; shared by the p… |
+| 2026-11-22 17:32:17 | [splice-text](https://crates.io/crates/splice-text) | 0.1.0 | 0 | Print specialized Splice kernels as readable code |
+| 2026-11-22 17:32:50 | [veloce-tui](https://crates.io/crates/veloce-tui) | 0.1.0 | 0 | Veloce terminal-UI framework (veloce) |
+| 2026-11-22 17:33:11 | [reylo-sql](https://crates.io/crates/reylo-sql) | 0.8.2 | 0 | Lossless SQL syntax trees for every database Reylo reads, generated from a data… |
+| 2026-11-22 17:37:04 | [aemulus-clients](https://crates.io/crates/aemulus-clients) | 0.0.3 | 0 | Device clients for aemulus (early work in progress) |
+| 2026-11-22 17:37:45 | [lib_jsl_utils](https://crates.io/crates/lib_jsl_utils) | 2.21.1 | 0 | Terminal plots, unit conversion and numerical helpers. |
+| 2026-11-22 17:38:39 | [gpdoc-plugin-inline-code](https://crates.io/crates/gpdoc-plugin-inline-code) | 0.1.0 | 0 | Inline code plugin for the gpdoc rich-text editor |
+| 2026-11-22 17:41:56 | [opentide-dataset](https://crates.io/crates/opentide-dataset) | 1.0.0-rc.3 | 0 | opentide engine component: the embedded datasets, compressed at build time and… |
+| 2026-11-22 17:43:34 | [splice-kernel](https://crates.io/crates/splice-kernel) | 0.1.0 | 0 | A staged Rust kernel language with a portable code generation interface |
+| 2026-11-22 17:45:36 | [ferrochart-core](https://crates.io/crates/ferrochart-core) | 0.3.0 | 0 | Platform-independent core of the FerroChart financial charting engine |
+| 2026-11-22 17:45:37 | [ferrochart-text](https://crates.io/crates/ferrochart-text) | 0.3.0 | 0 | Font loading, text measurement and glyph atlas for FerroChart backends |
+| 2026-11-22 17:45:40 | [ferrochart-indicators](https://crates.io/crates/ferrochart-indicators) | 0.3.0 | 0 | Incremental technical indicators for FerroChart |
+| 2026-11-22 17:45:42 | [ferrochart-render-cpu](https://crates.io/crates/ferrochart-render-cpu) | 0.3.0 | 0 | CPU (tiny-skia) rendering backend for FerroChart |
+| 2026-11-22 17:45:43 | [ferrochart-render-wgpu](https://crates.io/crates/ferrochart-render-wgpu) | 0.3.0 | 0 | wgpu rendering backend for FerroChart |
+| 2026-11-22 17:46:08 | [bamboo-litellm-llms-types](https://crates.io/crates/bamboo-litellm-llms-types) | 2026.11.37 | 0 | Pinned LiteLLM Rust wire types used by Bamboo |
+| 2026-11-22 17:47:46 | [lib_jsl_electromagnetics](https://crates.io/crates/lib_jsl_electromagnetics) | 2.21.1 | 0 | Electromagnetics: fields, antennas, arrays, beamforming, direction finding, tra… |
+| 2026-11-22 17:48:39 | [gpdoc-plugin-invisible-characters](https://crates.io/crates/gpdoc-plugin-invisible-characters) | 0.1.0 | 0 | Mark spaces, line breaks, and paragraph ends without adding document content in… |
+| 2026-11-22 17:51:24 | [playact-macros](https://crates.io/crates/playact-macros) | 0.1.2 | 0 | Proc-macro DSL for the playact behavior tree engine |
+| 2026-11-22 17:51:28 | [playact](https://crates.io/crates/playact) | 0.1.2 | 0 | A type-safe, extensible behavior tree engine for game automation |
+| 2026-11-22 17:51:49 | [snmpify](https://crates.io/crates/snmpify) | 0.1.0 | 0 | Fast SNMP for Rust: BER codec, v1/v2c/v3 messages, async client and trap receiv… |
+| 2026-11-22 17:53:23 | [netleash-common](https://crates.io/crates/netleash-common) | 0.1.0 | 0 | Map types shared by netleash's eBPF programs and its userspace |
+| 2026-11-22 17:53:25 | [netleash](https://crates.io/crates/netleash) | 0.1.0 | 0 | See and limit network traffic per app on Linux, with eBPF |
+| 2026-11-22 17:55:44 | [ferrochart-orderflow](https://crates.io/crates/ferrochart-orderflow) | 0.3.0 | 0 | Order flow series for FerroChart: footprint, heatmap and TPO |
+| 2026-11-22 17:57:46 | [lib_jsl_information](https://crates.io/crates/lib_jsl_information) | 2.21.1 | 0 | Information theory and coding: source coding, LFSRs, CRC and SHA-256, error-cor… |
+| 2026-11-22 17:58:40 | [gpdoc-plugin-italic](https://crates.io/crates/gpdoc-plugin-italic) | 0.1.0 | 0 | Italic plugin for the gpdoc rich-text editor |
+| 2026-11-22 17:59:35 | [pds2](https://crates.io/crates/pds2) | 0.1.1 | 0 | PDS2 CLI |
+| 2026-11-22 18:01:13 | [orqx](https://crates.io/crates/orqx) | 0.0.1 | 0 | An agentic orchestration layer for AI-first applications |
+| 2026-11-22 18:07:45 | [lib_jsl_file_io](https://crates.io/crates/lib_jsl_file_io) | 2.21.1 | 0 | Readers and writers for WAV, JPEG, PNG, Netpbm, CSV, NumPy .npy, Matrix Market,… |
+| 2026-11-22 18:08:27 | [ferrochart-plot](https://crates.io/crates/ferrochart-plot) | 0.3.0 | 0 | Non-time charts for FerroChart: numeric, category and date axes, lines, scatter… |
+| 2026-11-22 18:08:41 | [gpdoc-plugin-link](https://crates.io/crates/gpdoc-plugin-link) | 0.1.0 | 0 | Link plugin for the gpdoc rich-text editor |
+| 2026-11-22 18:11:12 | [obfus-rs](https://crates.io/crates/obfus-rs) | 0.1.0 | 0 | Compile-time and runtime obfuscation library |
+| 2026-11-22 18:12:40 | [fusuma-render](https://crates.io/crates/fusuma-render) | 0.1.0 | 0 | A small, no_std renderer abstraction: shapes, paths, text, images, clip and tra… |
+| 2026-11-22 18:12:47 | [fusuma-render-embedded](https://crates.io/crates/fusuma-render-embedded) | 0.1.0 | 0 | Fusuma renderer backend for microcontroller displays: integer drawing on any em… |
+| 2026-11-22 18:12:51 | [fusuma-render-skia](https://crates.io/crates/fusuma-render-skia) | 0.1.0 | 0 | Fusuma renderer backend for desktops, phones and watches: anti-aliased CPU draw… |
+| 2026-11-22 18:15:05 | [jvm-ti-macros](https://crates.io/crates/jvm-ti-macros) | 0.0.1 | 0 | Procedural macros for JVMTI crates |
+| 2026-11-22 18:16:25 | [waveduderust_macros](https://crates.io/crates/waveduderust_macros) | 0.0.0 | 0 | Derives of the model's typed fields (Fields) and enum members (Word) |
+| 2026-11-22 18:16:57 | [waveduderust](https://crates.io/crates/waveduderust) | 0.0.0 | 0 | 2D wave simulation: model, file formats, scene painter, CPU and wgpu engines, r… |
+| 2026-11-22 18:17:45 | [lib_jsl_graph](https://crates.io/crates/lib_jsl_graph) | 2.21.1 | 0 | Graph representations and algorithms: shortest paths, spanning trees, flows and… |
+| 2026-11-22 18:18:02 | [ferrochart-winit](https://crates.io/crates/ferrochart-winit) | 0.3.0 | 0 | Desktop host helpers (winit) for FerroChart |
 
 ## Data source
 
