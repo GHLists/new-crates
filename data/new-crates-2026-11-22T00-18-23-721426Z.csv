@@ -1,0 +1,16 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-21T23:21:11.073051Z,castra,0.1.0-alpha.1,0,0,https://github.com/castra-build/castra,Castra: a full-stack Rust web framework.
+2026-11-21T23:23:00.220155Z,rqcode,0.1.0,0,0,https://github.com/dejang/rqcode,Language-agnostic static analysis and quality gate for coding agents
+2026-11-21T23:33:13.039668Z,rylv-metrics-derive,0.6.0,0,0,https://github.com/rylv/rylv-metrics,Derive macro for compile-time ordered rylv-metrics tags
+2026-11-21T23:36:44.911978Z,formatkit-patch,0.1.1,0,0,https://github.com/JidouGhost-TL/formatkit,"Bounded, platform-neutral binary patch parsing and application"
+2026-11-21T23:36:46.221229Z,formatkit-archive,0.1.1,0,0,https://github.com/JidouGhost-TL/formatkit,"Format-neutral mounted namespace selection, extraction, and traversal"
+2026-11-21T23:52:32.990924Z,castra-cli,0.1.0-alpha.1,0,0,https://github.com/castra-build/castra,"The `castra` command-line tool: create, check, format, develop, build, and run Castra apps."
+2026-11-21T23:54:05.6547Z,rs-zstd-sk-fmt,0.1.0,0,0,https://github.com/takanoriyanagitani/rs-zstd-sk-fmt,Helper for Zstd seekable format
+2026-11-21T23:54:34.190337Z,printobserver-panels,0.14.0,0,0,https://github.com/nickderobertis/printobserver,"Camera calibration, drift and alignment checks, and the check image's panels, for printobserver."
+2026-11-22T00:08:13.704648Z,sandbox-types,0.1.0,0,0,https://github.com/frontal-labs/sandbox,Shared types for the sandbox system
+2026-11-22T00:08:42.753402Z,frontal-sandbox-sdk,0.0.0,0,0,https://github.com/frontal-labs/sandbox,Rust SDK for the sandbox system
+2026-11-22T00:10:15.375917Z,sandbox-sdk,0.1.0,0,0,https://github.com/frontal-labs/sandbox,Rust SDK for the sandbox system
+2026-11-22T00:10:35.418716Z,iec61850-kit,0.5.0,0,0,https://github.com/hupe1980/iec61850-kit,"IEC 61850 in Rust: GOOSE and Sampled Values on capture files and live interfaces, an MMS client and server over the full OSI stack, and SCL loading and editing. Panic-free, sans-IO, no_std-capable."
+2026-11-22T00:11:37.627121Z,tpt-kinetix-splat,0.3.0,0,0,https://github.com/tpt-solutions/tpt-kinetix,"4D Gaussian splat I/O and codec (PLY/SPZ interop, SPLT sequence format) for the TPT Kinetix media processing engine"
+2026-11-22T00:13:10.170801Z,ag-remote,0.19.7,0,0,https://github.com/agentty-xyz/agentty,"Agentty is an ADE (Agentic Development Environment) for structured, controllable AI-assisted software development."
+2026-11-22T00:15:13.054383Z,tetraglass,0.3.0,0,0,https://github.com/Tetraglass/tetraglass,Rust-native scientific visualization toolkit for FEM/CFD results on unstructured meshes.
