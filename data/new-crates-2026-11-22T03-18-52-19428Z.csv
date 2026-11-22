@@ -1,0 +1,38 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-22T02:25:38.072361Z,litz-esp32c6,0.1.0,0,0,https://github.com/Litz-Sim/litz,"Litz fork of esp32sim: ESP32-C6 SoC model: memory map, peripherals, machine"
+2026-11-22T02:26:21.059305Z,oxcord,0.0.1,0,0,https://github.com/wumx-labs/oxcord.git,"A modern, scalable Rust library for the Discord API (from small bots to very large ones)."
+2026-11-22T02:33:41.858829Z,inifra-assistant,0.8.0,0,0,https://github.com/Slyverr/inifra,Assistant workflows and provider integrations for Inifra
+2026-11-22T02:33:42.391218Z,inifra-core,0.8.0,0,0,https://github.com/Slyverr/inifra,Template and project services for Inifra
+2026-11-22T02:33:43.035231Z,inifra-tui,0.8.0,0,0,https://github.com/Slyverr/inifra,Terminal presentation for Inifra's interactive workflows
+2026-11-22T02:33:44.460342Z,inifra,0.8.0,0,0,https://github.com/Slyverr/inifra,A CLI for bootstrapping reusable project files from templates
+2026-11-22T02:35:56.707598Z,oxcord-gateway-daemon,0.1.0,0,0,https://github.com/wumx-labs/oxcord.git,Standalone Discord Gateway Daemon for enterprise-scale distributed sharding
+2026-11-22T02:36:24.435624Z,litz-esp32p4,0.1.0,0,0,https://github.com/Litz-Sim/litz,"Litz fork of esp32sim: ESP32-P4 SoC model: memory map, peripherals, machine"
+2026-11-22T02:36:36.826772Z,configurant-secretant,0.8.6,0,0,https://github.com/ThinkersJournal/configurant,"SecretAnt as a ConfigurAnt secret source: source = ""secretant:<name>"" reads a secret from a SecretAnt store at load time."
+2026-11-22T02:40:47.838114Z,gfni,0.0.0,0,0,,[WIP] Portable interface for GFNI-like functionality
+2026-11-22T02:41:02.47168Z,openformula-kernel,0.1.0,0,0,https://github.com/Nagitch/openformula-kernel,Deterministic typed calculation kernel for an OpenFormula 1.4 function-semantics subset
+2026-11-22T02:43:33.146771Z,litz-esp32,0.1.0,0,0,https://github.com/Litz-Sim/litz,"Litz fork of esp32sim: Classic ESP32 SoC model: memory map, peripherals, machine"
+2026-11-22T02:45:16.229512Z,tsq1,0.1.0,0,0,https://github.com/Nagitch/TSQ1,Convert Standard MIDI Files to and from the TSQ1 timeline format
+2026-11-22T02:45:37.791559Z,tsq1-osc,0.1.0,0,0,https://github.com/Nagitch/TSQ1,OSC intermediate-representation integration for TSQ1
+2026-11-22T02:46:20.482528Z,tsq1-ffi,0.1.0,0,0,https://github.com/Nagitch/TSQ1,C-compatible dynamic library for TSQ1 conversion
+2026-11-22T02:47:11.629487Z,tmd-data,0.1.0,0,0,https://github.com/Nagitch/tanu-markdown,Shared typed scalar and table values for Tanu Markdown data sources
+2026-11-22T02:47:46.451017Z,tmd-formula,0.1.0,0,0,https://github.com/Nagitch/tanu-markdown,Bounded spreadsheet-style Formula parser and evaluator for Tanu Markdown
+2026-11-22T02:53:18.44331Z,trine,0.0.1,0,0,https://github.com/Swivelgames/Trine,"Typed actions and views for CLI, JSON-RPC and MCP applications"
+2026-11-22T02:53:55.183415Z,litz-esp32c3,0.1.0,0,0,https://github.com/Litz-Sim/litz,"Litz fork of esp32sim: ESP32-C3 SoC model: memory map, peripherals, machine"
+2026-11-22T02:54:08.533418Z,tagonomy,0.0.1,0,0,https://github.com/Kajiih/omnicoach,"Compile-time tag vocabularies, faceted tag sets, boolean queries, and specificity-ordered selection"
+2026-11-22T02:54:50.067582Z,cambium-dialog,3.21.3,0,0,https://github.com/merely-made/graphshell,"Cross-platform native dialogs: message box, file picker, color chooser, password input, notifications. A fork of light-file-dialog 3.21.3 that reuses the Windows password window class across prompts…"
+2026-11-22T02:54:53.92624Z,cambium-rootstock,0.1.0,0,0,https://github.com/merely-made/graphshell,"The stock a Cambium application host is grafted onto: input vocabulary, routing, layout, paint, and accessibility, with no event source of its own"
+2026-11-22T02:55:00.437802Z,cambium-a11y,0.3.0,0,0,https://github.com/merely-made/graphshell,AccessKit hosting for genet-backed Cambium applications on winit
+2026-11-22T02:55:05.683559Z,ladybom,0.1.0,0,0,https://github.com/f1b0-gh/lady,Build static dependency inventories and CycloneDX SBOMs from source metadata
+2026-11-22T02:55:27.589207Z,ladyboot,0.1.0,0,0,https://github.com/f1b0-gh/lady,Build and inspect bootc operating-system artifacts from explicit profiles and pinned recipes
+2026-11-22T02:55:58.030562Z,ladyhost,0.1.0,0,0,https://github.com/f1b0-gh/lady,"Host-owned GitHub setup, signed jj publication and reviewed integration"
+2026-11-22T02:56:10.970094Z,mandrake,0.1.0,0,0,https://github.com/merely-made/graphshell,"The scenario lane for a Cambium document host: ticks a taproot scenario per presented frame, arms captures, writes PNGs and one JSON receipt, checks pixels, accounts cost, and sets the exit code, beh…"
+2026-11-22T02:56:16.800121Z,cambium-desktop,0.1.0,0,0,https://github.com/merely-made/graphshell,"The single-root Cambium desktop host: winit lifecycle, Livery/Buckram layout and paint, input routing, and AccessKit sync over one GenetAppRunner"
+2026-11-22T02:56:21.276828Z,tmd-core,0.1.0,0,0,https://github.com/Nagitch/tanu-markdown,Core document model and I/O implementation for Tanu Markdown containers
+2026-11-22T02:57:12.132114Z,ladybom-graph,0.1.0,0,0,https://github.com/f1b0-gh/lady,Persist and analyze static dependency graphs from Ladybom inventories
+2026-11-22T02:57:45.784217Z,concurtui,0.0.1,0,0,https://github.com/protibimbok/concurtui,Placeholder reserving the name for concurtui; install a newer version
+2026-11-22T02:58:12.36139Z,ladyshell,0.1.0,0,0,https://github.com/f1b0-gh/lady,Authorize and execute controlled OpenShell environments with retained audit evidence
+2026-11-22T03:06:21.153256Z,tmd-core-ffi,0.1.0,0,0,https://github.com/Nagitch/tanu-markdown,C-compatible dynamic library wrapper for tmd-core
+2026-11-22T03:06:48.817176Z,ag-noise,0.19.7,0,0,https://github.com/agentty-xyz/agentty,"Agentty is an ADE (Agentic Development Environment) for structured, controllable AI-assisted software development."
+2026-11-22T03:11:29.242311Z,sk-ffi,0.7.0,0,0,https://github.com/argon-chat/skathi,"Calling C functions by signature for Skathi's skathi:ffi: build-time invoke stubs, library loading"
+2026-11-22T03:12:35.347327Z,litz-esp32s31,0.1.0,0,0,https://github.com/Litz-Sim/litz,"Litz fork of esp32sim: ESP32-S31 on esp_soc::Machine: dual-hart, DeviceSet peripherals, ROM and Flash-MMU app boot"
+2026-11-22T03:16:23.581873Z,tmd-cli,0.1.0,0,0,https://github.com/Nagitch/tanu-markdown,"Command-line interface for creating, validating, and converting Tanu Markdown documents"
