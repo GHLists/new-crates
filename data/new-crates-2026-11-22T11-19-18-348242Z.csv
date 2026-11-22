@@ -1,0 +1,11 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-22T10:41:04.020048Z,uterm,0.1.0,0,0,https://github.com/lu-zero/uterm,A tiny terminal emulator built on Rio's VT/PTY underpinnings
+2026-11-22T10:42:25.275194Z,tamil-translit,0.1.0-alpha.9,0,0,https://github.com/abishtakan/tamil-toolkit,"Tamil transliteration and input profiles for ISO 15919, Tamil99, Anjal, and Tanglish"
+2026-11-22T10:47:29.746878Z,term-font-data-emoji,0.1.0,0,0,https://github.com/lu-zero/rune-term,zstd-compressed font bytes for rune-term: monochrome Noto Emoji fallback.
+2026-11-22T10:52:40.593382Z,tetraleaf,0.0.0,0,0,https://github.com/tetracl/tetraleaf,Fast multipole methods in Rust (name reserved; the library is in development)
+2026-11-22T10:54:28.942549Z,stingy4rust-host,0.0.1,0,0,https://github.com/umbgtt10/stingy4rust,The host's counting allocator behind cargo-stingy4rust: a Rust codebase's heap and peak heap under fixed load profiles. In development: this release reserves the name.
+2026-11-22T10:56:45.133946Z,stingy4rust-board,0.0.1,0,0,https://github.com/umbgtt10/stingy4rust,"A board's counting allocator behind cargo-stingy4rust: a Rust codebase's heap and peak heap under fixed load profiles, on a microcontroller. In development: this release reserves the name."
+2026-11-22T11:01:01.220463Z,qx-datastruct,0.4.1,0,0,https://github.com/coeasy/qianxing,确定性 Bar/Quote 列式数据边界与 DataView facade
+2026-11-22T11:04:11.920339Z,hf2lms,0.1.0,0,0,https://github.com/valsaven/hf2lms,Link Hugging Face GGUF models into LM Studio without copying weights
+2026-11-22T11:05:32.702609Z,condaro,0.1.0,0,0,https://github.com/nonelop/condaro,Simple collision library
+2026-11-22T11:16:40.889361Z,oukraina,0.0.1,0,0,https://github.com,Official Oukraina CLI (reserved namespace)
