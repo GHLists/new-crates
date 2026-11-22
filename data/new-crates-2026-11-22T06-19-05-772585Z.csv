@@ -1,0 +1,40 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-22T05:21:26.93442Z,libgameprofiles,0.1.1,0,0,https://github.com/Gigas002/libgameprofiles,"Game profiles shared by lootrs, gaki and sruman: the profile file format, its validation, and loading and saving profile directories"
+2026-11-22T05:21:50.44291Z,litz-chip-rv32,0.1.0,0,0,https://github.com/Litz-Sim/litz,"A reference Litz chip: RV32IMC as a WebAssembly component, enough of the ESP32-C3 memory map to run the repository's own firmware."
+2026-11-22T05:26:16.918502Z,kitu-tsq1,0.1.0,0,0,https://github.com/Nagitch/kitu-logic-processor,TSQ1 timeline AST and playback helpers for Kitu.
+2026-11-22T05:30:44.353775Z,watchtower-sdk,0.1.1,0,0,https://github.com/watchtowerobservability/watchtower-rust,Thin Watchtower distribution over the OpenTelemetry Rust SDK
+2026-11-22T05:31:06.2514Z,lody,0.0.1,0,0,https://github.com/LodyAI/Lody,Official Lody command-line interface and local execution runtime.
+2026-11-22T05:31:09.71483Z,lody-cli,0.0.1,0,0,https://github.com/LodyAI/Lody,Command-line client for Lody workspaces and agent sessions.
+2026-11-22T05:31:12.139964Z,lodyd,0.0.1,0,0,https://github.com/LodyAI/Lody,Local execution daemon for Lody agent sessions and workspaces.
+2026-11-22T05:32:11.20911Z,litz-decode,0.1.0,0,0,https://github.com/Litz-Sim/litz,"UART, I2C and SPI decoders for Litz probe waveforms."
+2026-11-22T05:33:33.612465Z,supercargo,0.1.2,0,0,https://github.com/rolandjitsu/supercargo,Build only the Docker images that changed in a Rust monorepo: dependency-graph change detection and CI pipeline generation
+2026-11-22T05:34:47.907253Z,effect-tracer,0.1.2,0,0,https://github.com/YusefSyed/effect-tracer,"Records every file write, socket connect, DNS query and exec of a Linux process tree into a hash-chained, Ed25519-signed ledger (ptrace)."
+2026-11-22T05:36:22.68429Z,kitu-data-tmd,0.1.0,0,0,https://github.com/Nagitch/kitu-logic-processor,Parser and loader utilities for Tanu Markdown (TMD) data.
+2026-11-22T05:41:29.189133Z,xynolog,0.8.0,0,0,https://github.com/xynolog/sdk,"Xynolog's Rust SDK: the protocol's types, the transport contract and a client of the bus over it, and what a client needs to name its principals and hold its roles, as protocol/specs/ states it."
+2026-11-22T05:41:31.817782Z,xynolog-telemetry,0.8.0,0,0,https://github.com/xynolog/sdk,"The telemetry a Xynolog transport and a Xynolog service share: the spans and the count of the SDK telemetry table, and the trace context they travel in, reported to whatever OpenTelemetry the process…"
+2026-11-22T05:41:34.023779Z,xynolog-http-transport,0.8.0,0,0,https://github.com/xynolog/sdk,"Xynolog's HTTP transport, in Rust: a knowledge base's bus over its gateway, as xynolog's Transport, and the sign-in that reaches it."
+2026-11-22T05:42:28.715339Z,litz-mcu-wit,0.1.0,0,0,https://github.com/Litz-Sim/litz,The WIT contract between Litz and a microcontroller implemented as a WebAssembly component.
+2026-11-22T05:46:16.868329Z,kitu-cli,0.1.0,0,0,https://github.com/Nagitch/kitu-logic-processor,Command-line client for a running Kitu development host.
+2026-11-22T05:52:59.525406Z,litz-mcu-wasm,0.1.0,0,0,https://github.com/Litz-Sim/litz,"Runs a microcontroller provided as a WebAssembly component, and componentizes the core module a guest crate builds."
+2026-11-22T05:56:17.881735Z,kitu-runtime,0.1.0,0,0,https://github.com/Nagitch/kitu-logic-processor,"Tick-based orchestrator that wires ECS, transports, and scripting layers."
+2026-11-22T05:58:24.930666Z,serialplugin-testing,0.0.0,0,0,https://github.com/s00d/tauri-plugin-serialplugin,Fake serial devices for tests. Placeholder: the first release is 0.1.0.
+2026-11-22T05:58:40.97928Z,weft-wire,0.1.0,0,0,https://github.com/vaibhav-gopal/weft,"WBF (Weft Binary Format) engine: builder, zero-copy reader, version chain, reflection"
+2026-11-22T05:58:43.026219Z,weft-runtime,0.1.0,0,0,https://github.com/vaibhav-gopal/weft,"Runtime for Weft-generated service code: envelopes, errors, cache trait, transports"
+2026-11-22T06:02:24.764607Z,bicdb-lua,1.0.524,0,0,https://github.com/nikoma/bicdb,Bounded Lua 5.1 execution for the BicDB database (internal crate; install `bicdb`)
+2026-11-22T06:02:27.027939Z,bicdb-page,1.0.524,0,0,https://github.com/nikoma/bicdb,"Page store, page WAL and buffer pool of the BicDB database (internal crate; install `bicdb`)"
+2026-11-22T06:02:31.772901Z,bicdb-core,1.0.524,0,0,https://github.com/nikoma/bicdb,Storage engine of the BicDB database (internal crate; install `bicdb`)
+2026-11-22T06:02:35.754002Z,bicdb-analytics,1.0.524,0,0,https://github.com/nikoma/bicdb,Arrow export and DataFusion queries over BicDB collections (internal crate; install `bicdb`)
+2026-11-22T06:02:38.015459Z,bicdb-extension,1.0.524,0,0,https://github.com/nikoma/bicdb,"Versioned extension ABI, author SDK and sandboxed host runtime for BicDB (internal crate; install `bicdb`)"
+2026-11-22T06:05:05.310859Z,vikshep-qcore,0.1.0,0,0,https://github.com/samvardhan03/vikshep-quantum,"VQS-1 core: Tier-1 complex arithmetic, gate matrices, circuits, reference kernels and the backend trait"
+2026-11-22T06:05:07.865632Z,vikshep-statevec,0.1.0,0,0,https://github.com/samvardhan03/vikshep-quantum,VQS-1 CPU reference state-vector simulator
+2026-11-22T06:06:06.020721Z,litz-rp,0.1.0,0,0,https://github.com/Litz-Sim/litz,RP2040 (Raspberry Pi Pico) chip backend: an ARMv6-M Cortex-M0+ core and the peripherals a Pico firmware drives.
+2026-11-22T06:06:16.892007Z,kitu-unity-ffi,0.1.0,0,0,https://github.com/Nagitch/kitu-logic-processor,C ABI bindings that expose the Kitu runtime to Unity hosts.
+2026-11-22T06:12:41.69485Z,bicdb-script,1.0.524,0,0,https://github.com/nikoma/bicdb,Bounded JavaScript execution and TypeScript compilation for BicDB workflows (internal crate; install `bicdb`)
+2026-11-22T06:13:44.500785Z,raf-okf,0.0.0,0,0,https://github.com/Blackcat-Informatics/rust-agentic-foundations,Reader and deterministic writer for Markdown documents with a restricted YAML frontmatter.
+2026-11-22T06:13:45.433814Z,raf-rdf,0.0.0,0,0,https://github.com/Blackcat-Informatics/rust-agentic-foundations,"Closed canonical ground RDF 1.2 report terms, snapshot identities and text profiles."
+2026-11-22T06:13:46.374221Z,raf-source,0.0.0,0,0,https://github.com/Blackcat-Informatics/rust-agentic-foundations,Workspace source index: a Tree file seam with disk and memory backends under canonical path containment.
+2026-11-22T06:13:48.617717Z,raf-census,0.0.0,0,0,https://github.com/Blackcat-Informatics/rust-agentic-foundations,"The RAF census: normal form 1, BLAKE3 fingerprints, grouping and the RDF 1.2 baseline and index reports."
+2026-11-22T06:13:49.93239Z,raf-workplan,0.0.0,0,0,https://github.com/Blackcat-Informatics/rust-agentic-foundations,"Loads capability, change and architecture documents into a typed model and reports findings."
+2026-11-22T06:15:19.356829Z,mail-reports,0.2.0,0,0,https://github.com/tissue-systems/mail-reports,"Parse DMARC aggregate, DMARC failure and SMTP TLS reports out of raw email, with caps on size, depth, count and time"
+2026-11-22T06:16:28.460961Z,cargo-raf-census,0.0.0,0,0,https://github.com/Blackcat-Informatics/rust-agentic-foundations,"Repository-owned Census checks, ledger migration and exact debt recording."
+2026-11-22T06:16:38.54037Z,litz-engine,0.1.0,0,0,https://github.com/Litz-Sim/litz,"The embeddable Litz engine: project loading, boot, the run loop, assertions, probes and protocol decoding."
