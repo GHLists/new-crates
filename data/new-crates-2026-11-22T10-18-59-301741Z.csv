@@ -1,0 +1,22 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-22T09:20:15.181794Z,foundation_vfs,0.0.1,0,0,https://github.com/ewe-studios/ewe_platform,Virtual file system (VFS) traits and shared types. `foundation_nativeapis` re-exports them and adds the implementations.
+2026-11-22T09:21:29.842319Z,bicdb-provider-tokenizer,1.0.525,0,0,https://github.com/nikoma/bicdb,"Local tokenizer provider for the BicDB application host. Part of BicDB, one database for SQL (PostgreSQL protocol), a Redis-compatible cache, search and vectors; install `bicdb`"
+2026-11-22T09:24:34.24543Z,eldiron-presentation,0.96.0,0,0,https://github.com/markusmoenig/Eldiron,Shared scene views and graphical game presentation for Eldiron hosts.
+2026-11-22T09:31:34.499206Z,bicdb-resp,1.0.525,0,0,https://github.com/nikoma/bicdb,"Redis-compatible (RESP2) cache server of the BicDB database. Part of BicDB, one database for SQL (PostgreSQL protocol), a Redis-compatible cache, search and vectors; install `bicdb`"
+2026-11-22T09:40:16.748816Z,agentgloss,0.1.0,0,0,https://github.com/AgingChan/agentgloss,A terminal reviewer for long Markdown specs and agent-generated plans
+2026-11-22T09:41:39.205786Z,bicdb-sync,1.0.525,0,0,https://github.com/nikoma/bicdb,"Client sync coordination for the BicDB database. Part of BicDB, one database for SQL (PostgreSQL protocol), a Redis-compatible cache, search and vectors; install `bicdb`"
+2026-11-22T09:45:11.456273Z,hebbian-rua-contracts,0.1.3,0,0,https://github.com/Hebbian-Robotics/rua,Shared wire types for the Hebbian robot-use station API.
+2026-11-22T09:45:15.262915Z,carbium,0.1.0,0,0,https://github.com/carbium-sh/carbium-rs,"Async client for Carbium: Solana RPC, DAS, quote and swap, WebSocket subscriptions, Carbon Stream, webhook checks, and the account, DCA and token APIs"
+2026-11-22T09:45:55.216525Z,hebbian-rua,0.1.3,0,0,https://github.com/Hebbian-Robotics/rua,"Async Rust client for a Hebbian robot-use station: control, commands, sequences, state, cameras and recordings."
+2026-11-22T09:47:21.703457Z,nserver,1.0.0,0,0,,"NSERVER: a terminal server management panel for nginx, Docker, files, FTP, SSL and monitoring"
+2026-11-22T09:49:02.065386Z,hypaxel,0.4.0,0,0,https://github.com/vensas/hypaxel,"High-performance, constant-memory XLSX (Excel) writer that streams to any io::Write or tokio AsyncWrite, and streaming XLSX reader."
+2026-11-22T09:49:12.992943Z,hypaxel-axum,0.4.0,0,0,https://github.com/vensas/hypaxel,"Stream XLSX (Excel) files from axum handlers with constant memory, powered by hypaxel."
+2026-11-22T09:51:47.02138Z,bicdb,1.0.525,0,0,https://github.com/nikoma/bicdb,"One database for SQL over the PostgreSQL wire protocol, a Redis-compatible cache, full-text, vector and geospatial search, time travel and live queries"
+2026-11-22T09:52:13.363054Z,tauri-plugin-window-decorations,0.1.0,0,0,https://github.com/nyssance/tauri-plugin-window-decorations,"Native window controls, custom decorations, and Windows 11 Snap Layout for Tauri 3 desktop apps."
+2026-11-22T09:55:28.993348Z,rgpui-wasm-thread,0.3.3,0,0,https://github.com/launcher-rs/wasm_thread,An std thread replacement for wasm32 target (rgpui maintained fork)
+2026-11-22T09:56:55.507961Z,eldiron-player,0.96.0,0,0,https://github.com/markusmoenig/Eldiron,"Shared Eldiron player application and desktop, browser and Apple host adapters."
+2026-11-22T09:57:02.380506Z,mommy,0.1.0,0,0,,"A tiny, pure-Rust embedded language model for shell prompt encouragement and compliments"
+2026-11-22T10:00:18.625545Z,rgpui-xim,0.4.1,0,0,https://github.com/launcher-rs/xim-rs,"XIM protocol parser, handler (rgpui maintained fork, x11rb 0.14)"
+2026-11-22T10:07:56.753276Z,qx-guanxing,0.4.1,0,0,https://github.com/coeasy/qianxing,观星：数据平面，质量门与 point-in-time 可见性
+2026-11-22T10:13:51.780446Z,translate-kun-core,0.1.0,0,0,https://github.com/machngai/translate-kun,"Core logic for kun, the translate-kun CLI translator: Providers, Secret Guard, Protected Terms and config loading"
+2026-11-22T10:14:23.389658Z,translate-kun,0.1.0,0,0,https://github.com/machngai/translate-kun,"kun: a command-line translator for developers, with a Secret Guard that keeps credentials out of translation requests"
