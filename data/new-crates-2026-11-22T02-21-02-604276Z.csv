@@ -1,0 +1,40 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-22T01:21:25.778629Z,ct-ts-ed25519,0.0.1,0,0,https://github.com/power-system/ct-ts-ed25519,"FROST(Ed25519, SHA-512) ciphersuite for ct-ts"
+2026-11-22T01:25:01.386556Z,utokyo-wifi,0.1.0,0,0,https://github.com/conjikidow/utokyo-wifi-connector,An unofficial command-line tool to manage connections to the UTokyo Wi-Fi and eduroam networks
+2026-11-22T01:25:58.572831Z,ws-discover,0.1.0,0,0,,Evidence-driven discovery of WonderSwan asset layouts
+2026-11-22T01:26:47.134433Z,oxcord-voice-model,0.2.1,0,0,https://github.com/wumx-labs/oxcord.git,A Rust library for (de)serializing Discord Voice API gateway messages.
+2026-11-22T01:26:57.946156Z,oxcord-command-attr,0.5.4,0,0,https://github.com/wumx-labs/oxcord.git,Procedural macros for command creation for the Oxcord library.
+2026-11-22T01:27:07.999442Z,oxcord-broker,0.1.0,0,0,https://github.com/wumx-labs/oxcord.git,"Message broker abstraction and drivers (In-Process, Redis, NATS) for large-scale distributed Discord bots"
+2026-11-22T01:27:33.049793Z,oxcord-model,0.0.1,0,0,https://github.com/wumx-labs/oxcord.git,Discord API data models and types for the Oxcord library.
+2026-11-22T01:31:52.27144Z,egui-workbench,0.1.1,0,0,https://github.com/jigonzalez930209/egui-workbench,"A desktop workbench shell for egui: themes, custom title bar, menus, tabs, explorer tree, dialogs, command palette, toasts, interactive plots, and a shadcn-style component layer."
+2026-11-22T01:31:52.698845Z,oxcord-cache,0.0.1,0,0,https://github.com/wumx-labs/oxcord.git,In-memory Discord state cache for oxcord
+2026-11-22T01:33:14.888828Z,oxcord-rest,0.0.1,0,0,https://github.com/wumx-labs/oxcord.git,Discord REST API client and rate limiter for the Oxcord library.
+2026-11-22T01:34:16.305116Z,gyrase-io,0.2.0,0,0,https://github.com/Z1xus/gyrase,"Parallel BGZF, gzip and stream I/O primitives for genomics"
+2026-11-22T01:34:19.90129Z,gyrase-genome,0.2.0,0,0,https://github.com/Z1xus/gyrase,"Core genomics types, contig aliases and indexed FASTA reference access"
+2026-11-22T01:34:23.617023Z,gyrase-index,0.2.0,0,0,https://github.com/Z1xus/gyrase,"BAI, CSI, TBI and CRAI genomics index reader, writer and query planner"
+2026-11-22T01:34:29.06445Z,gyrase-reads,0.2.0,0,0,https://github.com/Z1xus/gyrase,"Parallel SAM, BAM, CRAM and FASTQ readers, writers, sorting and duplicate marking"
+2026-11-22T01:34:32.994566Z,gyrase-variants,0.2.0,0,0,https://github.com/Z1xus/gyrase,"VCF and BCF readers, writers, normalization, merging, querying and filtering"
+2026-11-22T01:34:36.587415Z,gyrase-pileup,0.2.0,0,0,https://github.com/Z1xus/gyrase,Region-sharded read pileup columns and indel observations for variant calling
+2026-11-22T01:35:58.097766Z,swankit,0.1.0,0,0,,"WonderSwan cartridge, graphics, compression, audio, and save format toolkit"
+2026-11-22T01:38:08.179732Z,rh-unlocked,0.1.0,0,0,https://github.com/NetBr3ak/riemann-hypothesis-unlocked,"Explicit consequences of the Riemann Hypothesis as code: prime counting bounds, prime gaps, the n-th prime, Robin's inequality and zeta zeros."
+2026-11-22T01:39:41.86902Z,storage-analyzer,0.1.0,0,0,https://github.com/tnessy/storage-analyzer,"Disk-usage TUI for Linux: directory tree plus treemap, live while it scans"
+2026-11-22T01:39:50.007266Z,oxcord-gateway,0.0.1,0,0,https://github.com/wumx-labs/oxcord.git,Discord WebSocket gateway client and sharding implementation for the Oxcord library.
+2026-11-22T01:39:50.844046Z,hansho,0.1.0,0,0,https://github.com/Recodive/hansho,"Official Rust client for a Hansho hub: pair users, send notifications, pages, Live Activities and widget feeds, verify webhooks."
+2026-11-22T01:43:13.654085Z,analysant-rust,0.3.1,0,0,https://github.com/ThinkersJournal/analysant,"AnalysAnt: the Rust language pack; code items, uses and comment mentions as ground truth for doc-vs-code relations"
+2026-11-22T01:44:43.27545Z,synapton,0.2.0,0,0,https://github.com/Z1xus/gyrase,Fast safe-Rust short-read DNA aligner using syncmer randstrobes
+2026-11-22T01:48:24.749086Z,san-mateo-server,0.1.0,0,0,https://github.com/autumn-foundation/san-mateo,"The San Mateo server: the REST API with Postgres, SQLite or memory storage"
+2026-11-22T01:52:42.544949Z,evorule-plugin-kit,0.1.0,0,0,https://github.com/evorule/evorule-services,"In-process native plugin mechanism common crate: NativeService trait, service declaration entries, and a generic filter router shared by all evorule-services plugin families"
+2026-11-22T01:53:11.359116Z,oxcord-voice,0.0.1,0,0,https://github.com/wumx-labs/oxcord.git,"Voice Gateway client, RTP audio pipeline, and voice driver for the OXCORD library."
+2026-11-22T01:54:51.229472Z,gyrase-call,0.2.0,0,0,https://github.com/Z1xus/gyrase,SNP and indel variant caller over genomic read pileups
+2026-11-22T01:59:38.692494Z,oxcord-builders,0.0.1,0,0,https://github.com/wumx-labs/oxcord.git,Type-safe builder patterns for Discord API objects in the Oxcord library.
+2026-11-22T02:07:04.578489Z,pixel_grid_resample,0.1.0,0,0,,Resize decoded RGBA buffers using center-sampled nearest neighbors.
+2026-11-22T02:10:17.079105Z,oxcord-proxy,0.1.0,0,0,https://github.com/wumx-labs/oxcord.git,Centralized Discord REST API Rate Limiting Proxy
+2026-11-22T02:11:44.863071Z,litz-emu-core,0.1.0,0,0,https://github.com/Litz-Sim/litz,"Litz fork of esp32sim: What every emulated CPU shares: the bus contract, the Core trait, traps, clocks, and the AArch64 encoder"
+2026-11-22T02:12:09.55152Z,litz-riscv-rv32,0.1.0,0,0,https://github.com/Litz-Sim/litz,"Litz fork of esp32sim: RV32IMC(A)(F)(Zb*, Zcb, Zcmp) interpreter for the ESP32-C3, C6 and P4 RISC-V cores"
+2026-11-22T02:12:16.406239Z,litz-xtensa-lx7,0.1.0,0,0,https://github.com/Litz-Sim/litz,Litz fork of esp32sim: Xtensa LX7 (ESP32-S3 configuration) instruction-level emulator core
+2026-11-22T02:12:23.103186Z,litz-esp-periph,0.1.0,0,0,https://github.com/Litz-Sim/litz,"Litz fork of esp32sim: Register-level models of the peripheral IP Espressif chips share, and the Device/MMIO plumbing that mounts them"
+2026-11-22T02:12:49.835653Z,litz-esp-soc,0.1.0,0,0,https://github.com/Litz-Sim/litz,"Litz fork of esp32sim: The machine around an Espressif SoC: scheduler, device time, console, scripts, web push, loaders, boards — generic over the chip"
+2026-11-22T02:13:24.180883Z,litz-esp32s3,0.1.0,0,0,https://github.com/Litz-Sim/litz,"Litz fork of esp32sim: ESP32-S3 SoC emulation (memory map, cache MMU, peripherals) on the xtensa-lx7 core"
+2026-11-22T02:13:58.929531Z,slang-rhi-sys,0.2.0-alpha.1,0,0,https://github.com/g-whiz/slang-rust,"slang-rhi, the render hardware interface of Slang, built statically from the Slang source tree with the vendored Slang."
+2026-11-22T02:14:01.229824Z,slang-rhi,0.2.0-alpha.1,0,0,https://github.com/g-whiz/slang-rust,"Safe Rust wrappers over slang-rhi, the render hardware interface of Slang, for compute dispatches and draws."
+2026-11-22T02:14:13.065984Z,slang-slint,0.2.0-alpha.1,0,0,https://github.com/g-whiz/slang-rust,Show what a Slang render pipeline of slango draws inside a Slint user interface.
