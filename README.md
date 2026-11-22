@@ -8,53 +8,44 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-22 12:18 UTC
+## Latest list — 2026-11-22 13:19 UTC
 
-New crates published between 2026-11-22 11:19 UTC and 2026-11-22 12:18 UTC.
+New crates published between 2026-11-22 12:18 UTC and 2026-11-22 13:19 UTC.
 
-[Full CSV](data/new-crates-2026-11-22T12-18-47-06364Z.csv)
+[Full CSV](data/new-crates-2026-11-22T13-19-23-288717Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-22 11:29:15 | [evorule-inference-services](https://crates.io/crates/evorule-inference-services) | 0.1.1 | 0 | Deterministic inference-analysis native services (dimensional checking first) -… |
-| 2026-11-22 11:29:20 | [evorule-numeric-services](https://crates.io/crates/evorule-numeric-services) | 0.1.1 | 0 | Exact-arithmetic native services (rationals/fixed-point decimal/number-theory a… |
-| 2026-11-22 11:29:22 | [evorule-checksum-services](https://crates.io/crates/evorule-checksum-services) | 0.1.1 | 0 | Checksum native services (Luhn/ISBN-10/ISBN-13/IBAN mod-97) - pure computation,… |
-| 2026-11-22 11:29:24 | [evorule-cny-services](https://crates.io/crates/evorule-cny-services) | 0.1.1 | 0 | Chinese RMB uppercase-amount native services (invoice-spec zero rules/whole-cha… |
-| 2026-11-22 11:29:26 | [evorule-fluid-services](https://crates.io/crates/evorule-fluid-services) | 0.1.1 | 0 | Fluid-mechanics analytic native services (Bernoulli solver/continuity equation/… |
-| 2026-11-22 11:32:45 | [zenith-fonts-fallback](https://crates.io/crates/zenith-fonts-fallback) | 0.0.15 | 0 | Zenith fallback fonts: Noto Sans Arabic, Hebrew, CJK SC (subset), and monochrom… |
-| 2026-11-22 11:39:22 | [evorule-gnss-services](https://crates.io/crates/evorule-gnss-services) | 0.1.1 | 0 | GNSS/timekeeping native services (factory frequency-offset conversion/time and… |
-| 2026-11-22 11:41:32 | [ems-core](https://crates.io/crates/ems-core) | 0.7.0 | 0 | Domain model of a home energy system — sign-consistent power/energy units, thre… |
-| 2026-11-22 11:41:32 | [ems-events](https://crates.io/crates/ems-events) | 0.7.0 | 0 | Every CloudEvents type the hems workspace emits, the envelope they travel in, a… |
-| 2026-11-22 11:41:33 | [ems-service](https://crates.io/crates/ems-service) | 0.7.0 | 0 | The shell every hems daemon shares — configuration from a file and the environm… |
-| 2026-11-22 11:41:35 | [ems-device](https://crates.io/crates/ems-device) | 0.7.0 | 0 | How a decision becomes a command a device will actually accept — amperes for a… |
-| 2026-11-22 11:41:36 | [ems-forecast](https://crates.io/crates/ems-forecast) | 0.7.0 | 0 | Quantile forecasts for a home energy system — a physical photovoltaic model fro… |
-| 2026-11-22 11:41:53 | [udlex-rs](https://crates.io/crates/udlex-rs) | 1.0.1 | 0 | High-throughput multilingual lookup-and-suffix-rule lemmatizer |
-| 2026-11-22 11:49:30 | [evorule-gov-services](https://crates.io/crates/evorule-gov-services) | 0.1.1 | 0 | Governance-math native services (proportional allocation largest-remainder meth… |
-| 2026-11-22 11:50:02 | [qx-data](https://crates.io/crates/qx-data) | 0.4.1 | 0 | 牵星数据基础设施：统一市场数据契约、目录与校验 |
-| 2026-11-22 11:50:07 | [qx-provider](https://crates.io/crates/qx-provider) | 0.4.1 | 0 | 多源数据 ProviderRegistry 与确定性选择策略 |
-| 2026-11-22 11:50:09 | [qx-risk](https://crates.io/crates/qx-risk) | 0.4.1 | 0 | 风控规则与决策原语：RuleSet、RiskEngine 对订单/仓位的判定 |
-| 2026-11-22 11:50:13 | [qx-spec](https://crates.io/crates/qx-spec) | 0.4.1 | 0 | 牵星声明式规格对象：项目/实验/运行/能力/证据/模式登记册的地基契约 |
-| 2026-11-22 11:50:14 | [ems-grid](https://crates.io/crates/ems-grid) | 0.7.0 | 0 | The German grid rules for a home energy system, executable and cited — § 14a En… |
-| 2026-11-22 11:50:19 | [qx-strategy](https://crates.io/crates/qx-strategy) | 0.4.1 | 0 | 牵星跨语言策略 SDK 与统一 Strategy API |
-| 2026-11-22 11:51:22 | [orderbook-l2](https://crates.io/crates/orderbook-l2) | 0.1.0 | 0 | A generic, exchange-agnostic L2 limit order book |
-| 2026-11-22 11:53:45 | [qx-zhenlu](https://crates.io/crates/qx-zhenlu) | 0.4.1 | 0 | 针路：执行与路由，风控门禁、订单管理、路由决策 |
-| 2026-11-22 11:55:07 | [backstop](https://crates.io/crates/backstop) | 0.0.0 | 0 | Placeholder for backstop, a backup tool that writes restic-format repositories… |
-| 2026-11-22 11:55:21 | [backstop-core](https://crates.io/crates/backstop-core) | 0.0.0 | 0 | Placeholder for the core of backstop, a backup tool that writes restic-format r… |
-| 2026-11-22 11:56:23 | [arqlet-query](https://crates.io/crates/arqlet-query) | 0.8.0 | 0 | Provisional: the neutral part of the Arqlet Cypher query layer (ADR 0021): erro… |
-| 2026-11-22 11:56:27 | [arqlet-query-cypher](https://crates.io/crates/arqlet-query-cypher) | 0.8.0 | 0 | Provisional: the openCypher front end of the Arqlet query layer (ADR 0021): dec… |
-| 2026-11-22 11:56:35 | [arqlet-query-model](https://crates.io/crates/arqlet-query-model) | 0.8.0 | 0 | Provisional: the adapter that lets the Arqlet query layer (ADR 0021) read an ar… |
-| 2026-11-22 11:56:39 | [arqlet-query-json](https://crates.io/crates/arqlet-query-json) | 0.8.0 | 0 | Provisional: the JSON request and answer of the Arqlet query operation (ADR 002… |
-| 2026-11-22 11:56:43 | [evorule-grav-services](https://crates.io/crates/evorule-grav-services) | 0.1.1 | 0 | General-relativity analytic native services (Schwarzschild radius/perihelion pr… |
-| 2026-11-22 12:00:31 | [ems-sim](https://crates.io/crates/ems-sim) | 0.7.0 | 0 | Deterministic simulators for a home energy system — photovoltaics, battery, ele… |
-| 2026-11-22 12:01:22 | [lidlesseye-core](https://crates.io/crates/lidlesseye-core) | 0.1.2 | 0 | Profile data model, DuckDB-backed storage and query engine for LidlessEye |
-| 2026-11-22 12:01:43 | [lidlesseye-ebpf](https://crates.io/crates/lidlesseye-ebpf) | 0.1.2 | 0 | eBPF CPU and off-CPU profiler for LidlessEye, built on aya |
-| 2026-11-22 12:01:56 | [lidlesseye-server](https://crates.io/crates/lidlesseye-server) | 0.1.2 | 0 | HTTP API, query engine service and embedded UI for LidlessEye |
-| 2026-11-22 12:02:37 | [lidlesseye](https://crates.io/crates/lidlesseye) | 0.1.2 | 0 | LidlessEye: continuous eBPF profiling, embeddable as a library |
-| 2026-11-22 12:02:58 | [qx-xingban](https://crates.io/crates/qx-xingban) | 0.4.1 | 0 | 星板：撮合与仿真，FillModel × 数据档位矩阵、成本、延迟、保证金 |
-| 2026-11-22 12:10:19 | [evorule-legal-services](https://crates.io/crates/evorule-legal-services) | 0.1.1 | 0 | Legal-deadline native services (period expiry-date calculation: day counting ex… |
-| 2026-11-22 12:10:57 | [ems-drv](https://crates.io/crates/ems-drv) | 0.7.0 | 0 | Drivers for a home energy system — the sans-I/O contract, plus EEBUS (§ 14a) an… |
-| 2026-11-22 12:12:49 | [qx-app](https://crates.io/crates/qx-app) | 0.4.1 | 0 | 牵星应用层：用例、稳定输入/输出类型、授权与错误边界（facade → application → domain） |
-| 2026-11-22 12:17:14 | [evorule-mechanics-services](https://crates.io/crates/evorule-mechanics-services) | 0.1.1 | 0 | Classical-mechanics and basic-circuit formula native services (Newton's second… |
+| 2026-11-22 12:21:21 | [ems-flex](https://crates.io/crates/ems-flex) | 0.7.0 | 0 | Expressing a household's flexibility in S2 (EN 50491-12-2) — which control type… |
+| 2026-11-22 12:23:18 | [qx-execution](https://crates.io/crates/qx-execution) | 0.4.1 | 0 | 牵星统一执行事实归约边界 |
+| 2026-11-22 12:26:09 | [evorule-metrology-services](https://crates.io/crates/evorule-metrology-services) | 0.1.1 | 0 | Metrology native services (GUM multiplicative power-model uncertainty propagati… |
+| 2026-11-22 12:29:40 | [ems-realtime](https://crates.io/crates/ems-realtime) | 0.7.0 | 0 | The one-second control loop of a home energy system — a guard plane that grid l… |
+| 2026-11-22 12:33:11 | [qx-sdk](https://crates.io/crates/qx-sdk) | 0.4.1 | 0 | 牵星面向第三方的稳定 Rust 门面（方案 §6.1）：单一 qx-app 内核之上的 semver 边界 |
+| 2026-11-22 12:37:06 | [asmc](https://crates.io/crates/asmc) | 0.1.0 | 0 | A toolkit for communicating with the Apple System Management Controller (SMC). |
+| 2026-11-22 12:37:32 | [evorule-quantum-services](https://crates.io/crates/evorule-quantum-services) | 0.1.1 | 0 | Quantum-mechanics analytic native services (infinite potential well energy leve… |
+| 2026-11-22 12:39:59 | [ems-tariff](https://crates.io/crates/ems-tariff) | 0.7.0 | 0 | What a kilowatt-hour costs a German household in a given quarter hour — dynamic… |
+| 2026-11-22 12:41:29 | [gridapi-sdk](https://crates.io/crates/gridapi-sdk) | 1.0.0 | 0 | Official Rust SDK for the GridAPI public REST API |
+| 2026-11-22 12:41:50 | [sessionly](https://crates.io/crates/sessionly) | 0.7.0 | 0 | Local collector and ledger for AI coding agent sessions |
+| 2026-11-22 12:42:51 | [evilpot](https://crates.io/crates/evilpot) | 0.1.0 | 0 | Embeddable zero-copy HTTP deception, exploit verification & tarpit honeypot cra… |
+| 2026-11-22 12:46:13 | [evorule-stats-services](https://crates.io/crates/evorule-stats-services) | 0.1.1 | 0 | Statistical distribution native services (exact-rational binomial PMF, normal C… |
+| 2026-11-22 12:49:11 | [symrust](https://crates.io/crates/symrust) | 0.1.2 | 0 | A symbolic mathematics library: exact calculus, algebra and linear algebra with… |
+| 2026-11-22 12:50:34 | [ems-optimizer](https://crates.io/crates/ems-optimizer) | 0.7.0 | 0 | The planner of a home energy system — a receding-horizon mixed-integer linear p… |
+| 2026-11-22 12:52:01 | [svggod](https://crates.io/crates/svggod) | 1.1.1 | 0 | Compile declarative diagram descriptions to SVG and check any SVG for correctne… |
+| 2026-11-22 12:52:19 | [monoxus-core](https://crates.io/crates/monoxus-core) | 0.1.0 | 0 | Pure Rust headless UI state machines, relationships, attribute publishers, and… |
+| 2026-11-22 12:57:00 | [evorule-rule-schema](https://crates.io/crates/evorule-rule-schema) | 0.5.2 | 0 | Rule-schema gate for EvoRule - deterministic validation against the frozen evor… |
+| 2026-11-22 13:04:03 | [konectl](https://crates.io/crates/konectl) | 0.1.0 | 0 | Unofficial library to configure the ROCCAT Kone Pro Air mouse on Linux |
+| 2026-11-22 13:04:05 | [konectl-cli](https://crates.io/crates/konectl-cli) | 0.1.0 | 0 | Command-line tool to configure the ROCCAT Kone Pro Air mouse on Linux (unoffici… |
+| 2026-11-22 13:06:14 | [evorule-physics-services](https://crates.io/crates/evorule-physics-services) | 0.1.1 | 0 | Deterministic physics-simulation native services (vendored rpsm-core kernel) -… |
+| 2026-11-22 13:08:39 | [marceline](https://crates.io/crates/marceline) | 0.1.0 | 0 | Plugin interfaces and packaging tools for Marcellus. |
+| 2026-11-22 13:10:40 | [marcelene](https://crates.io/crates/marcelene) | 0.1.0 | 0 | Executes installed Marceline plugins for Marcellus using Wasmtime. |
+| 2026-11-22 13:15:00 | [sockat-cli](https://crates.io/crates/sockat-cli) | 0.6.1 | 0 | The command sockat: print a path for a Unix domain socket that fits the socket… |
+| 2026-11-22 13:16:35 | [score-centering](https://crates.io/crates/score-centering) | 0.1.1 | 0 | Differentiable per-token score-centering correction for policy-gradient trainers |
+| 2026-11-22 13:17:57 | [evorule-rule-dep-graph](https://crates.io/crates/evorule-rule-dep-graph) | 0.5.2 | 0 | Deterministic constant dependency graph materialization from rule-set metadata… |
+| 2026-11-22 13:18:30 | [gpdoc-core](https://crates.io/crates/gpdoc-core) | 0.1.0 | 0 | Document model, transforms, transactions, and headless editing for the gpdoc ri… |
+| 2026-11-22 13:18:33 | [gpdoc](https://crates.io/crates/gpdoc) | 0.1.0 | 0 | A rich-text editor framework for GPUI |
+| 2026-11-22 13:18:34 | [gpdoc-plugin](https://crates.io/crates/gpdoc-plugin) | 0.1.0 | 0 | Plugin declarations, composition, and editing helpers for gpdoc |
+| 2026-11-22 13:18:37 | [gpdoc-plugin-audio](https://crates.io/crates/gpdoc-plugin-audio) | 0.1.0 | 0 | Audio plugin for the gpdoc rich-text editor |
+| 2026-11-22 13:18:38 | [gpdoc-plugin-blockquote](https://crates.io/crates/gpdoc-plugin-blockquote) | 0.1.0 | 0 | Blockquote plugin for the gpdoc rich-text editor |
 
 ## Data source
 

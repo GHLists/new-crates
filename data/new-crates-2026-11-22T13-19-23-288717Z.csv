@@ -1,0 +1,31 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-22T12:21:21.387704Z,ems-flex,0.7.0,0,0,https://github.com/hupe1980/ems,"Expressing a household's flexibility in S2 (EN 50491-12-2) — which control type each asset belongs to, the descriptions a Customer Energy Manager exchanges, and the translation of an S2 instruction b…"
+2026-11-22T12:23:18.118642Z,qx-execution,0.4.1,0,0,https://github.com/coeasy/qianxing,牵星统一执行事实归约边界
+2026-11-22T12:26:09.795516Z,evorule-metrology-services,0.1.1,0,0,https://github.com/evorule/evorule-services,"Metrology native services (GUM multiplicative power-model uncertainty propagation) - pure computation, mounted on the evorule-server IoDispatcher as an IoHandler"
+2026-11-22T12:29:40.76917Z,ems-realtime,0.7.0,0,0,https://github.com/hupe1980/ems,"The one-second control loop of a home energy system — a guard plane that grid limits can never be argued out of, fair allocation of a limited budget across devices, and an arbiter that turns a plan p…"
+2026-11-22T12:33:11.850373Z,qx-sdk,0.4.1,0,0,https://github.com/coeasy/qianxing,牵星面向第三方的稳定 Rust 门面（方案 §6.1）：单一 qx-app 内核之上的 semver 边界
+2026-11-22T12:37:06.920486Z,asmc,0.1.0,0,0,https://github.com/stefanlight8/asmc,A toolkit for communicating with the Apple System Management Controller (SMC).
+2026-11-22T12:37:32.766201Z,evorule-quantum-services,0.1.1,0,0,https://github.com/evorule/evorule-services,"Quantum-mechanics analytic native services (infinite potential well energy levels/quantum harmonic oscillator levels) - pure computation, mounted on the evorule-server IoDispatcher as an IoHandler"
+2026-11-22T12:39:59.952128Z,ems-tariff,0.7.0,0,0,https://github.com/hupe1980/ems,"What a kilowatt-hour costs a German household in a given quarter hour — dynamic energy prices, § 14a Modul 1/2/3 network charges, levies and taxes, feed-in remuneration with the § 51 EEG negative-pri…"
+2026-11-22T12:41:29.307736Z,gridapi-sdk,1.0.0,0,0,https://github.com/bugylabs/gridapi_sdk,Official Rust SDK for the GridAPI public REST API
+2026-11-22T12:41:50.894911Z,sessionly,0.7.0,0,0,https://github.com/KIvanow/sessionly,Local collector and ledger for AI coding agent sessions
+2026-11-22T12:42:51.903977Z,evilpot,0.1.0,0,0,,"Embeddable zero-copy HTTP deception, exploit verification & tarpit honeypot crate for Rust WAFs and reverse proxies."
+2026-11-22T12:46:13.402138Z,evorule-stats-services,0.1.1,0,0,https://github.com/evorule/evorule-services,"Statistical distribution native services (exact-rational binomial PMF, normal CDF via the erf series, exact-rational descriptive statistics) - pure computation, mounted on the evorule-server IoDispat…"
+2026-11-22T12:49:11.497067Z,symrust,0.1.2,0,0,https://github.com/kommade/symrust,"A symbolic mathematics library: exact calculus, algebra and linear algebra with narrated solutions, plus the symr REPL"
+2026-11-22T12:50:34.195608Z,ems-optimizer,0.7.0,0,0,https://github.com/hupe1980/ems,"The planner of a home energy system — a receding-horizon mixed-integer linear program over quarter-hour slots that prices battery wear instead of hiding it, respects § 14a and § 9 EEG limits as hard…"
+2026-11-22T12:52:01.297549Z,svggod,1.1.1,0,0,https://github.com/kKEo/svggod,"Compile declarative diagram descriptions to SVG and check any SVG for correctness, legibility and portability"
+2026-11-22T12:52:19.341526Z,monoxus-core,0.1.0,0,0,https://github.com/techton7/monoxus,"Pure Rust headless UI state machines, relationships, attribute publishers, and overlay geometry for Monoxus."
+2026-11-22T12:57:00.860937Z,evorule-rule-schema,0.5.2,0,0,https://github.com/evorule/evorule-rule,Rule-schema gate for EvoRule - deterministic validation against the frozen evorule-system-rules v1.0 schemas
+2026-11-22T13:04:03.252574Z,konectl,0.1.0,0,0,https://github.com/Bl4ckspell7/konectl,Unofficial library to configure the ROCCAT Kone Pro Air mouse on Linux
+2026-11-22T13:04:05.656343Z,konectl-cli,0.1.0,0,0,https://github.com/Bl4ckspell7/konectl,Command-line tool to configure the ROCCAT Kone Pro Air mouse on Linux (unofficial)
+2026-11-22T13:06:14.197035Z,evorule-physics-services,0.1.1,0,0,https://github.com/evorule/evorule-services,Deterministic physics-simulation native services (vendored rpsm-core kernel) - mounted on the evorule-server IoDispatcher as an IoHandler
+2026-11-22T13:08:39.981893Z,marceline,0.1.0,0,0,https://github.com/almanaculum/marcellus,Plugin interfaces and packaging tools for Marcellus.
+2026-11-22T13:10:40.619505Z,marcelene,0.1.0,0,0,https://github.com/almanaculum/marcellus,Executes installed Marceline plugins for Marcellus using Wasmtime.
+2026-11-22T13:15:00.237123Z,sockat-cli,0.6.1,0,0,https://github.com/kawaz/sockat-rs,"The command sockat: print a path for a Unix domain socket that fits the socket address limit, for a path longer than sun_path allows"
+2026-11-22T13:16:35.941513Z,score-centering,0.1.1,0,0,,Differentiable per-token score-centering correction for policy-gradient trainers
+2026-11-22T13:17:57.032733Z,evorule-rule-dep-graph,0.5.2,0,0,https://github.com/evorule/evorule-rule,"Deterministic constant dependency graph materialization from rule-set metadata (instruction-constant reference edges, dimensional coupling edges, explicit cross-domain edges)"
+2026-11-22T13:18:30.071162Z,gpdoc-core,0.1.0,0,0,https://github.com/hhhjin/gpdoc,"Document model, transforms, transactions, and headless editing for the gpdoc rich-text editor"
+2026-11-22T13:18:33.349087Z,gpdoc,0.1.0,0,0,https://github.com/hhhjin/gpdoc,A rich-text editor framework for GPUI
+2026-11-22T13:18:34.5527Z,gpdoc-plugin,0.1.0,0,0,https://github.com/hhhjin/gpdoc,"Plugin declarations, composition, and editing helpers for gpdoc"
+2026-11-22T13:18:37.38338Z,gpdoc-plugin-audio,0.1.0,0,0,https://github.com/hhhjin/gpdoc,Audio plugin for the gpdoc rich-text editor
+2026-11-22T13:18:38.795063Z,gpdoc-plugin-blockquote,0.1.0,0,0,https://github.com/hhhjin/gpdoc,Blockquote plugin for the gpdoc rich-text editor
