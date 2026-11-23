@@ -8,47 +8,51 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-23 05:19 UTC
+## Latest list — 2026-11-23 06:18 UTC
 
-New crates published between 2026-11-23 04:19 UTC and 2026-11-23 05:19 UTC.
+New crates published between 2026-11-23 05:19 UTC and 2026-11-23 06:18 UTC.
 
-[Full CSV](data/new-crates-2026-11-23T05-19-16-746627Z.csv)
+[Full CSV](data/new-crates-2026-11-23T06-18-46-390052Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-23 04:19:51 | [suci](https://crates.io/crates/suci) | 0.1.0 | 0 | SUCI: Simple UCI |
-| 2026-11-23 04:21:03 | [mcbtodo-platform](https://crates.io/crates/mcbtodo-platform) | 0.1.0 | 0 | Operating-system, workspace-path, and agent-policy support for mcbtodo. |
-| 2026-11-23 04:21:40 | [mcbtodo-protocol](https://crates.io/crates/mcbtodo-protocol) | 0.1.0 | 0 | Typed IPC and worker protocol contracts for mcbtodo. |
-| 2026-11-23 04:21:47 | [interleaf](https://crates.io/crates/interleaf) | 0.4.0 | 0 | MCP server for LaTeX papers written by people and agents together, on Overleaf… |
-| 2026-11-23 04:23:38 | [pele](https://crates.io/crates/pele) | 1.0.2 | 0 | Re-exports mermaid-rust for native Mermaid parsing, layout, and rendering |
-| 2026-11-23 04:24:53 | [singe-nvimagecodec](https://crates.io/crates/singe-nvimagecodec) | 0.1.0 | 0 | Safe Rust wrappers for NVIDIA nvImageCodec, for decoding and encoding images on… |
-| 2026-11-23 04:24:54 | [singe-nvjpeg](https://crates.io/crates/singe-nvjpeg) | 0.1.0 | 0 | Safe Rust wrappers for the NVIDIA nvJPEG and nvJPEG 2000 libraries. |
-| 2026-11-23 04:24:55 | [singe-nvtiff](https://crates.io/crates/singe-nvtiff) | 0.1.0 | 0 | Safe Rust wrappers for NVIDIA nvTIFF, for decoding and encoding TIFF images on… |
-| 2026-11-23 04:27:05 | [mcbtodo-agent-codex](https://crates.io/crates/mcbtodo-agent-codex) | 0.1.0 | 0 | Bounded Codex app-server protocol client for mcbtodo. |
-| 2026-11-23 04:27:30 | [thirtyssh-pageant](https://crates.io/crates/thirtyssh-pageant) | 0.2.0 | 0 | Client for the PuTTY Pageant SSH agent on Windows |
-| 2026-11-23 04:27:31 | [thirtyssh-secretbuf](https://crates.io/crates/thirtyssh-secretbuf) | 0.2.0 | 0 | Page-locked byte buffer for secret material, erased when released |
-| 2026-11-23 04:27:31 | [thirtyssh](https://crates.io/crates/thirtyssh) | 0.2.0 | 0 | Asynchronous SSH-2 client and server library for Tokio |
-| 2026-11-23 04:27:40 | [codewhale-engine](https://crates.io/crates/codewhale-engine) | 0.10.3 | 0 | Codewhale engine: turn loop, tools, agents, context, sessions and model clients |
-| 2026-11-23 04:33:52 | [ctl-bundle](https://crates.io/crates/ctl-bundle) | 0.1.5 | 0 | Bundle verification and installation storage for ctl tools |
-| 2026-11-23 04:36:58 | [mcbtodo-storage-sqlite](https://crates.io/crates/mcbtodo-storage-sqlite) | 0.1.0 | 0 | SQLite persistence adapters for mcbtodo workflows, focus, notifications, and co… |
-| 2026-11-23 04:46:51 | [mcbtodo-vault](https://crates.io/crates/mcbtodo-vault) | 0.1.0 | 0 | Markdown Vault persistence, validation, and durable event storage for mcbtodo. |
-| 2026-11-23 04:47:10 | [graphrt-provider-api](https://crates.io/crates/graphrt-provider-api) | 0.5.0 | 0 | Provider abstraction of the graphrt gateway: the Provider / DeployDriver traits… |
-| 2026-11-23 04:47:35 | [graphrt-gcp](https://crates.io/crates/graphrt-gcp) | 0.5.0 | 0 | Google Cloud for the graphrt gateway: hand-rolled GCP auth (metadata server, se… |
-| 2026-11-23 04:48:01 | [graphrt-provider-aws](https://crates.io/crates/graphrt-provider-aws) | 0.5.0 | 0 | AWS providers for the graphrt gateway: ECS Fargate (gateway-scheduled tasks) an… |
-| 2026-11-23 04:48:12 | [rs-mmap](https://crates.io/crates/rs-mmap) | 0.2.3 | 0 | Typed memory-mapped files and reusable read-only mapping windows |
-| 2026-11-23 04:48:27 | [graphrt-provider-azure](https://crates.io/crates/graphrt-provider-azure) | 0.5.0 | 0 | Azure provider family for the graphrt gateway: Entra ID / managed identity auth… |
-| 2026-11-23 04:48:39 | [procfile2compose](https://crates.io/crates/procfile2compose) | 0.1.0 | 0 | Convert a Heroku style Procfile into Docker Compose services, with the release… |
-| 2026-11-23 04:48:53 | [graphrt-provider-fly](https://crates.io/crates/graphrt-provider-fly) | 0.5.0 | 0 | Fly Machines provider of the graphrt gateway: a pool of pre-created Machines wo… |
-| 2026-11-23 04:49:11 | [amanatsu](https://crates.io/crates/amanatsu) | 0.1.0 | 0 | Render OpenAPI 3.x, Swagger 2.0 and JSON Schema documents (YAML or JSON) to sta… |
-| 2026-11-23 04:54:18 | [smp-rs](https://crates.io/crates/smp-rs) | 0.99.2 | 0 | Rust implementation of the SimpleX Messaging Protocol stack (SMP relay, XFTP fi… |
-| 2026-11-23 04:56:54 | [mcbtodo-application](https://crates.io/crates/mcbtodo-application) | 0.1.0 | 0 | Shared application use cases and query projections for mcbtodo. |
-| 2026-11-23 04:59:24 | [graphrt-provider-k8s](https://crates.io/crates/graphrt-provider-k8s) | 0.5.0 | 0 | Kubernetes provider of the graphrt gateway: scale agent Deployments 0<->N over… |
-| 2026-11-23 05:00:45 | [cscandir](https://crates.io/crates/cscandir) | 4.0.0 | 0 | C wrapper for scandir-rs |
-| 2026-11-23 05:00:46 | [cxxscandir](https://crates.io/crates/cxxscandir) | 4.0.0 | 0 | C++ wrapper for scandir-rs using the cxx bridge |
-| 2026-11-23 05:06:53 | [mcbtodo-execution](https://crates.io/crates/mcbtodo-execution) | 0.1.0 | 0 | Sandbox and Agent execution adapters for mcbtodo workflows. |
-| 2026-11-23 05:09:58 | [graphrt-gateway](https://crates.io/crates/graphrt-gateway) | 0.5.0 | 0 | The graphrt gateway: always-on front of scale-to-zero agents, sole writer of th… |
-| 2026-11-23 05:17:01 | [mcbtodo-worker](https://crates.io/crates/mcbtodo-worker) | 0.1.0 | 0 | Restricted local worker process for mcbtodo workflow execution. |
-| 2026-11-23 05:17:56 | [scatter-vocab](https://crates.io/crates/scatter-vocab) | 0.1.0 | 0 | IRI constants for the scatter: vocabulary and the external vocabularies Triples… |
+| 2026-11-23 05:26:57 | [character_sheet_panels](https://crates.io/crates/character_sheet_panels) | 0.1.0 | 0 | Split decoded RGBA character sheets into three views or a four-expression grid. |
+| 2026-11-23 05:27:16 | [cookiejar](https://crates.io/crates/cookiejar) | 0.1.1 | 0 | Cross-platform Cookie jar. |
+| 2026-11-23 05:27:23 | [mcbtodo-daemon](https://crates.io/crates/mcbtodo-daemon) | 0.1.0 | 0 | Background daemon for mcbtodo scheduling, reminders, and workflow execution. |
+| 2026-11-23 05:27:35 | [fy-refine-core](https://crates.io/crates/fy-refine-core) | 0.1.0 | 0 | Core refinement types, safety contracts, and pure predicate combinators for fy-… |
+| 2026-11-23 05:27:39 | [fy-refine-macro](https://crates.io/crates/fy-refine-macro) | 0.1.0 | 0 | Zero-dependency procedural derive macros for fy-refine (SafeValue, SafeDrop, Sa… |
+| 2026-11-23 05:27:48 | [fy-refine](https://crates.io/crates/fy-refine) | 0.1.0 | 0 | Type-level refinement types, safety contracts, and composable predicate buildin… |
+| 2026-11-23 05:28:24 | [fledgling](https://crates.io/crates/fledgling) | 0.1.0 | 0 | An early-stage CLI for managing database schemas as code. |
+| 2026-11-23 05:29:22 | [hebesu](https://crates.io/crates/hebesu) | 0.1.0 | 0 | Detect Japanese orthographic variants in text: full-width alphanumerics, half-w… |
+| 2026-11-23 05:31:29 | [shunt-plugin-sdk](https://crates.io/crates/shunt-plugin-sdk) | 0.1.2 | 0 | Public plugin SDK for the Shunt HTTP gateway |
+| 2026-11-23 05:31:49 | [checksome](https://crates.io/crates/checksome) | 0.1.0 | 0 | Checksum/hash computation library |
+| 2026-11-23 05:34:19 | [scatter-wikibase-rdf](https://crates.io/crates/scatter-wikibase-rdf) | 0.1.0 | 0 | Wikibase RDF format 1.0.0: an entity's triples in the full and truthy flavors,… |
+| 2026-11-23 05:36:25 | [dbmcp-truncate](https://crates.io/crates/dbmcp-truncate) | 0.20.0 | 0 | Character caps that fit a list of JSON values into a char budget |
+| 2026-11-23 05:36:37 | [dbmcp-privacy](https://crates.io/crates/dbmcp-privacy) | 0.20.0 | 0 | PII analyzer and anonymizer for dbmcp |
+| 2026-11-23 05:36:40 | [dbmcp-policy](https://crates.io/crates/dbmcp-policy) | 0.20.0 | 0 | Column-rules policy planner for dbmcp |
+| 2026-11-23 05:36:54 | [mcbtodo](https://crates.io/crates/mcbtodo) | 0.1.0 | 0 | A local-first task manager with a calendar TUI and workflow automation. |
+| 2026-11-23 05:39:45 | [essyntax](https://crates.io/crates/essyntax) | 0.1.0-dev.3 | 0 | Fast Spanish dependency parser: heads and Universal Dependencies relations |
+| 2026-11-23 05:44:58 | [isolith](https://crates.io/crates/isolith) | 0.0.0 | 0 | Name reservation for the Isolith open engineering platform. This crate contains… |
+| 2026-11-23 05:46:55 | [nots](https://crates.io/crates/nots) | 0.1.1 | 0 | An async Rust client for Nepal Stock Exchange (NEPSE) market data and reports |
+| 2026-11-23 05:53:45 | [ecc-hypercube](https://crates.io/crates/ecc-hypercube) | 0.5.1 | 0 | Reed-Muller and generalized LDPC error-correcting codes on the hypercube: major… |
+| 2026-11-23 05:56:40 | [lns-tar](https://crates.io/crates/lns-tar) | 0.4.46 | 0 | The tar crate with the PAX length-prefix fix, until upstream tar has it. A Rust… |
+| 2026-11-23 06:01:46 | [noscat-ffi](https://crates.io/crates/noscat-ffi) | 0.2.0 | 0 | UniFFI bindings over the noscat client stack for mobile apps (Kotlin, Swift) |
+| 2026-11-23 06:06:35 | [swc_next](https://crates.io/crates/swc_next) | 0.0.0 | 0 | Reserved crate name for SWC Next |
+| 2026-11-23 06:06:43 | [swc_next_formatter](https://crates.io/crates/swc_next_formatter) | 0.0.0 | 0 | Reserved crate name for SWC Next formatter |
+| 2026-11-23 06:06:52 | [swc_next_helpers](https://crates.io/crates/swc_next_helpers) | 0.0.0 | 0 | Reserved crate name for SWC Next helpers |
+| 2026-11-23 06:08:14 | [shunt-engine](https://crates.io/crates/shunt-engine) | 0.1.2 | 0 | Ultra-lean pluggable Rust HTTP gateway core engine |
+| 2026-11-23 06:08:22 | [shunt-plugins](https://crates.io/crates/shunt-plugins) | 0.1.2 | 0 | First-party general HTTP plugins for Shunt built strictly on shunt-plugin-sdk |
+| 2026-11-23 06:08:34 | [shunt-config](https://crates.io/crates/shunt-config) | 0.1.2 | 0 | Canonical IR, shunt.toml loader/watcher, SnapshotCompiler, and Admin API for Sh… |
+| 2026-11-23 06:08:43 | [shunt-ai](https://crates.io/crates/shunt-ai) | 0.1.2 | 0 | Generalized multi-provider AI router & gateway plugin pack for Shunt (OpenAI-co… |
+| 2026-11-23 06:08:47 | [shunt-mcp](https://crates.io/crates/shunt-mcp) | 0.1.2 | 0 | Model Context Protocol (MCP) & Agentic Governance gateway plugin pack for Shunt… |
+| 2026-11-23 06:09:51 | [qso-graph-http](https://crates.io/crates/qso-graph-http) | 0.7.0 | 0 | Synchronous HTTPS and request scheduling for QSO Graph applications |
+| 2026-11-23 06:09:53 | [qso-graph-pota](https://crates.io/crates/qso-graph-pota) | 0.7.0 | 0 | Sans-I/O parser for Parks on the Air activator spots |
+| 2026-11-23 06:09:56 | [qso-graph-grid](https://crates.io/crates/qso-graph-grid) | 0.7.0 | 0 | Maidenhead locators and geographic positions |
+| 2026-11-23 06:09:58 | [qso-graph-astro](https://crates.io/crates/qso-graph-astro) | 0.7.0 | 0 | Sun, Moon, and grey-line calculations for radio operators |
+| 2026-11-23 06:15:40 | [bounc3r](https://crates.io/crates/bounc3r) | 0.0.0 | 0 | Placeholder for bounc3r, a self-hosted firewall from FactNexus. Not yet release… |
+| 2026-11-23 06:15:48 | [jabara](https://crates.io/crates/jabara) | 0.1.0 | 0 | Development server for static sites: serves a build directory, WebSocket live r… |
+| 2026-11-23 06:16:08 | [shunt-test](https://crates.io/crates/shunt-test) | 0.1.2 | 0 | Declarative TOML contract test engine and fault-injecting mock upstreams for `s… |
+| 2026-11-23 06:17:37 | [malt-index](https://crates.io/crates/malt-index) | 0.2.0 | 0 | Native index of the MATLAB path (functions, classes, packages, class folders):… |
 
 ## Data source
 

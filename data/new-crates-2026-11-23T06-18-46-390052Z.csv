@@ -1,0 +1,38 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-23T05:26:57.203871Z,character_sheet_panels,0.1.0,0,0,,Split decoded RGBA character sheets into three views or a four-expression grid.
+2026-11-23T05:27:16.976299Z,cookiejar,0.1.1,0,0,,Cross-platform Cookie jar.
+2026-11-23T05:27:23.841519Z,mcbtodo-daemon,0.1.0,0,0,https://github.com/MCB-SMART-BOY/mcbtodo,"Background daemon for mcbtodo scheduling, reminders, and workflow execution."
+2026-11-23T05:27:35.770222Z,fy-refine-core,0.1.0,0,0,https://github.com/Fengyang-Conglomerate/fy-refine-code,"Core refinement types, safety contracts, and pure predicate combinators for fy-refine"
+2026-11-23T05:27:39.676017Z,fy-refine-macro,0.1.0,0,0,https://github.com/Fengyang-Conglomerate/fy-refine-code,"Zero-dependency procedural derive macros for fy-refine (SafeValue, SafeDrop, SafeClone, Projectors)"
+2026-11-23T05:27:48.115959Z,fy-refine,0.1.0,0,0,https://github.com/Fengyang-Conglomerate/fy-refine-code,"Type-level refinement types, safety contracts, and composable predicate building blocks (no_std)"
+2026-11-23T05:28:24.023588Z,fledgling,0.1.0,0,0,https://github.com/kmiller96/fledgling,An early-stage CLI for managing database schemas as code.
+2026-11-23T05:29:22.972993Z,hebesu,0.1.0,0,0,https://github.com/ai-implementer/setoka,"Detect Japanese orthographic variants in text: full-width alphanumerics, half-width katakana, katakana long-vowel mark variants across documents, and term dictionary"
+2026-11-23T05:31:29.933028Z,shunt-plugin-sdk,0.1.2,0,0,https://github.com/shettyh/shunt,Public plugin SDK for the Shunt HTTP gateway
+2026-11-23T05:31:49.828705Z,checksome,0.1.0,0,0,https://codeberg.org/wreedb/checksome,Checksum/hash computation library
+2026-11-23T05:34:19.248974Z,scatter-wikibase-rdf,0.1.0,0,0,https://github.com/scatterbase/triplespace,"Wikibase RDF format 1.0.0: an entity's triples in the full and truthy flavors, the dump header, and N-Triples and Turtle"
+2026-11-23T05:36:25.863782Z,dbmcp-truncate,0.20.0,0,0,https://github.com/haymon-ai/dbmcp,Character caps that fit a list of JSON values into a char budget
+2026-11-23T05:36:37.683528Z,dbmcp-privacy,0.20.0,0,0,https://github.com/haymon-ai/dbmcp,PII analyzer and anonymizer for dbmcp
+2026-11-23T05:36:40.05905Z,dbmcp-policy,0.20.0,0,0,https://github.com/haymon-ai/dbmcp,Column-rules policy planner for dbmcp
+2026-11-23T05:36:54.255875Z,mcbtodo,0.1.0,0,0,https://github.com/MCB-SMART-BOY/mcbtodo,A local-first task manager with a calendar TUI and workflow automation.
+2026-11-23T05:39:45.67234Z,essyntax,0.1.0-dev.3,0,0,https://github.com/SergeyShk/esSyntax,Fast Spanish dependency parser: heads and Universal Dependencies relations
+2026-11-23T05:44:58.383692Z,isolith,0.0.0,0,0,https://github.com/isolith-project/isolith,Name reservation for the Isolith open engineering platform. This crate contains no functional code.
+2026-11-23T05:46:55.386368Z,nots,0.1.1,0,0,,An async Rust client for Nepal Stock Exchange (NEPSE) market data and reports
+2026-11-23T05:53:45.474671Z,ecc-hypercube,0.5.1,0,0,https://github.com/btue113/ECC-HyperCube,"Reed-Muller and generalized LDPC error-correcting codes on the hypercube: majority-logic, soft list and automorphism-ensemble decoding, and GLDPC with exact component APP"
+2026-11-23T05:56:40.641603Z,lns-tar,0.4.46,0,0,https://github.com/lensapp/tar-rs,"The tar crate with the PAX length-prefix fix, until upstream tar has it. A Rust implementation of a TAR file reader and writer. This library does not currently handle compression, but it is abstract…"
+2026-11-23T06:01:46.284547Z,noscat-ffi,0.2.0,0,0,https://github.com/Letdown2491/noscat,"UniFFI bindings over the noscat client stack for mobile apps (Kotlin, Swift)"
+2026-11-23T06:06:35.842085Z,swc_next,0.0.0,0,0,https://github.com/swc-project/swc-next,Reserved crate name for SWC Next
+2026-11-23T06:06:43.970903Z,swc_next_formatter,0.0.0,0,0,https://github.com/swc-project/swc-next,Reserved crate name for SWC Next formatter
+2026-11-23T06:06:52.044406Z,swc_next_helpers,0.0.0,0,0,https://github.com/swc-project/swc-next,Reserved crate name for SWC Next helpers
+2026-11-23T06:08:14.955338Z,shunt-engine,0.1.2,0,0,https://github.com/shettyh/shunt,Ultra-lean pluggable Rust HTTP gateway core engine
+2026-11-23T06:08:22.885639Z,shunt-plugins,0.1.2,0,0,https://github.com/shettyh/shunt,First-party general HTTP plugins for Shunt built strictly on shunt-plugin-sdk
+2026-11-23T06:08:34.416569Z,shunt-config,0.1.2,0,0,https://github.com/shettyh/shunt,"Canonical IR, shunt.toml loader/watcher, SnapshotCompiler, and Admin API for Shunt"
+2026-11-23T06:08:43.874556Z,shunt-ai,0.1.2,0,0,https://github.com/shettyh/shunt,"Generalized multi-provider AI router & gateway plugin pack for Shunt (OpenAI-compatible, Anthropic, Azure OpenAI, Gemini, Bedrock), built 100% on shunt-plugin-sdk"
+2026-11-23T06:08:47.312539Z,shunt-mcp,0.1.2,0,0,https://github.com/shettyh/shunt,"Model Context Protocol (MCP) & Agentic Governance gateway plugin pack for Shunt, built 100% on shunt-plugin-sdk"
+2026-11-23T06:09:51.942636Z,qso-graph-http,0.7.0,0,0,https://github.com/qso-graph/qso-graph-dxcluster,Synchronous HTTPS and request scheduling for QSO Graph applications
+2026-11-23T06:09:53.982301Z,qso-graph-pota,0.7.0,0,0,https://github.com/qso-graph/qso-graph-dxcluster,Sans-I/O parser for Parks on the Air activator spots
+2026-11-23T06:09:56.005263Z,qso-graph-grid,0.7.0,0,0,https://github.com/qso-graph/qso-graph-dxcluster,Maidenhead locators and geographic positions
+2026-11-23T06:09:58.231921Z,qso-graph-astro,0.7.0,0,0,https://github.com/qso-graph/qso-graph-dxcluster,"Sun, Moon, and grey-line calculations for radio operators"
+2026-11-23T06:15:40.88917Z,bounc3r,0.0.0,0,0,https://github.com/FactNexus/bounc3r,"Placeholder for bounc3r, a self-hosted firewall from FactNexus. Not yet released."
+2026-11-23T06:15:48.342339Z,jabara,0.1.0,0,0,https://github.com/ai-implementer/setoka,"Development server for static sites: serves a build directory, WebSocket live reload, file watching with event filtering, Host/Origin checks and symlink blocking"
+2026-11-23T06:16:08.268043Z,shunt-test,0.1.2,0,0,https://github.com/shettyh/shunt,Declarative TOML contract test engine and fault-injecting mock upstreams for `shunt test`
+2026-11-23T06:17:37.483541Z,malt-index,0.2.0,0,0,https://github.com/watermarkhu/malt,"Native index of the MATLAB path (functions, classes, packages, class folders): the Rust core that replaces maxx"
