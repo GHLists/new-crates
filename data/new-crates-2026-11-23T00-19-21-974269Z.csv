@@ -1,0 +1,52 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-22T23:19:47.518731Z,mzizi-lang-compiler,0.18.0,0,0,https://github.com/mzizi-dev/mzizi,"The Mzizi compiler, `mz` (Phase 0 prototype): lexer, recovering parser, name and type resolver, the agent NDJSON diagnostic protocol with exact fixes, contract evaluation, the content-addressed IR, l…"
+2026-11-22T23:21:19.025012Z,sendproof-elasticsearch,0.1.0-alpha.1,0,0,https://github.com/mprync/sendproof,Elasticsearch and OpenSearch write guard for Sendproof: a Preview reads the cluster normally and is stopped before the first write is sent.
+2026-11-22T23:21:59.287869Z,sv-sva,0.5.1,0,0,https://github.com/mayurkubavat/svlang,IEEE 1800-2023 SVA sequence and property binding into typed temporal IR (svlang)
+2026-11-22T23:22:50.932706Z,neco-quotient-application,0.1.0,0,0,https://github.com/barineco/neco-quotient,鍵による有限の表で商上の適用を行い、範囲の外の入力には residual を返す
+2026-11-22T23:25:27.935016Z,nya_filez,0.1.0,0,0,,Hello :3
+2026-11-22T23:27:06.494184Z,agent86-ui,1.2.0,0,0,https://github.com/Maetek-Technologies/agent86,"A2UI 1.0 for Rust: message types, catalogs, and validation of agent-generated UI"
+2026-11-22T23:29:47.465648Z,nibkeep-base,0.1.0,0,0,https://github.com/nibkeep/nibkeep,"Identifiers, hashes and the canonical CBOR encoding of NibKeep"
+2026-11-22T23:29:53.111913Z,nibkeep-crypto,0.1.0,0,0,https://github.com/nibkeep/nibkeep,"Keys, encrypted envelopes, passphrases, signatures and post-quantum key exchange for NibKeep"
+2026-11-22T23:29:56.631331Z,nibkeep-time,0.1.0,0,0,https://github.com/nibkeep/nibkeep,"Fuzzy dates, time travel and hybrid logical clocks for NibKeep"
+2026-11-22T23:30:03.114523Z,nibkeep-model,0.1.0,0,0,https://github.com/nibkeep/nibkeep,"Entities, statements, qualifiers and types for NibKeep"
+2026-11-22T23:30:06.580709Z,nibkeep-drives,0.1.0,0,0,https://github.com/nibkeep/nibkeep,"The physical drives under a volume, named by their partition tables, as Windows reads them, with unsafe code for its calls"
+2026-11-22T23:31:47.714844Z,svcc-ir,0.1.0,0,0,https://github.com/mayurkubavat/svcc,Core 6-dialect arena IR and extension traits for bidirectional SV/UVM <-> SystemC/UVM compilation
+2026-11-22T23:33:52.546543Z,rs-lines2zstd-seekable,0.1.0,0,0,https://github.com/takanoriyanagitani/rs-lines2zstd-seekable,Seekable zstd compression for line-delimited text
+2026-11-22T23:37:46.924183Z,munus,0.0.0,0,0,,An agent network. This version holds the name while the first release is prepared.
+2026-11-22T23:37:50.815922Z,munus-wire,0.0.0,0,0,,"The published language of munus, an agent network. This version holds the name while the first release is prepared."
+2026-11-22T23:40:19.00167Z,nibkeep-governance,0.1.0,0,0,https://github.com/nibkeep/nibkeep,"Who a NibKeep library and its spaces belong to, and whose changes count in each space"
+2026-11-22T23:41:55.969167Z,svcc-svlang,0.1.0,0,0,https://github.com/mayurkubavat/svcc,"Single svlang adapter for svcc: the only crate that depends on svlang, svlang-model and svlang-lint"
+2026-11-22T23:46:43.434233Z,yomi-derive,0.1.0,0,0,https://github.com/lovelygenerator/yomi-lang,Derive macro for yomi command argument and return types
+2026-11-22T23:46:48.893343Z,yomi-core,0.1.0,0,0,https://github.com/lovelygenerator/yomi-lang,"Core of the yomi scripting language: parser, type checker, VM and resumable saves"
+2026-11-22T23:46:58.678349Z,yomi-std,0.1.0,0,0,https://github.com/lovelygenerator/yomi-lang,"Standard packages for the yomi scripting language: flow, math, text, json, audio, image, screen, input, event"
+2026-11-22T23:47:12.975615Z,yomi-cli,0.1.0,0,0,https://github.com/lovelygenerator/yomi-lang,"Command-line tool for the yomi scripting language (check, run, REPL, LSP, MCP)"
+2026-11-22T23:50:15.291026Z,lsdocs-parser-markdown,0.1.0,0,0,https://github.com/lsdocs/lsdocs-markdown,First-party Markdown parser plugin.
+2026-11-22T23:50:19.189244Z,nibkeep-keys,0.1.0,0,0,https://github.com/nibkeep/nibkeep,"The keys of a NibKeep replica at rest: a key file, unlocked by a passphrase or the platform's keystore"
+2026-11-22T23:50:51.36993Z,qso-graph-spaceweather,0.6.0,0,0,https://github.com/qso-graph/qso-graph-dxcluster,Sans-I/O parsers for NOAA SWPC space-weather products
+2026-11-22T23:52:06.511385Z,svcc-passes,0.1.0,0,0,https://github.com/mayurkubavat/svcc,Middle-end normalization and target-capability legalization passes for svcc-ir
+2026-11-22T23:53:20.615557Z,familiar-ansi,0.2.0,0,0,https://github.com/SpiraMirabilis/familiar,"ANSI and OSC escape parser that turns MU* output into styled lines, with OSC 8 links"
+2026-11-22T23:53:21.148072Z,familiar-code,0.2.0,0,0,https://github.com/SpiraMirabilis/familiar,"Auto-indentation for MOO, MUF and Lua code, used by the Familiar MU* client"
+2026-11-22T23:53:21.540895Z,familiar-config,0.2.0,0,0,https://github.com/SpiraMirabilis/familiar,"Configuration model for the Familiar MU* client: worlds, characters, triggers, aliases and macros"
+2026-11-22T23:53:22.115994Z,familiar-platform,0.2.0,0,0,https://github.com/SpiraMirabilis/familiar,"The few things Familiar asks of the desktop: play a sound, show a notification, open a link"
+2026-11-22T23:53:22.476214Z,familiar-speech,0.2.0,0,0,https://github.com/SpiraMirabilis/familiar,"Text to speech on a background thread: speech-dispatcher on Linux, SAPI on Windows"
+2026-11-22T23:57:40.176379Z,drawland-grid,0.4.0,0,0,https://github.com/piLeoni/drawland,"draw.land on a screen (experimental): a map's layers painted into a 1-bit bitmap or a grid of text cells (ANSI, HTML)"
+2026-11-22T23:57:47.546637Z,noscat-client,0.1.3,0,0,https://github.com/Letdown2491/noscat,"Client layer for noscat: event-driven tunnel sessions on top of noscat-core, for UIs"
+2026-11-22T23:57:57.442056Z,rotar,0.1.0,0,0,https://github.com/Allvvar/rotar,Cache-aligned block-paged DFA router for high-throughput byte and URL dispatch
+2026-11-23T00:00:21.97778Z,nibkeep-log,0.1.0,0,0,https://github.com/nibkeep/nibkeep,"The signed, encrypted log of changes of a NibKeep space, its history and ordered lists"
+2026-11-23T00:00:51.489964Z,shrug-core,0.1.0,0,0,https://github.com/infinitybricks/shrug-ai,The draw engine behind shrug.ai — random answers shaped to the System One / decisions protocol.
+2026-11-23T00:01:06.945007Z,shrug-ai,0.1.0,0,0,https://github.com/infinitybricks/shrug-ai,"shrug.ai — a System One / decisions-compatible HTTP API that answers with a random draw. No model, no inference, sub-millisecond. Run it locally as a mock or a chance-level baseline."
+2026-11-23T00:02:00.961014Z,lsdocs-sphinx-addons,0.1.0,0,0,https://github.com/lsdocs/lsdocs-sphinx-addons,"First-party plugin for the directives and roles Sphinx adds to docutils, in reStructuredText and Markdown alike."
+2026-11-23T00:02:13.18715Z,lsdocs-transform-toc,0.1.0,0,0,https://github.com/lsdocs/lsdocs-transform-toc,First-party table-of-contents transformer plugin.
+2026-11-23T00:02:15.307926Z,svcc-front-sc,0.1.0,0,0,https://github.com/mayurkubavat/svcc,IEEE 1666-2023 SystemC / UVM-SystemC / CRAVE / FC4SC front-end lowering C++17 verification classes into svcc-ir
+2026-11-23T00:02:38.605735Z,lsdocs-transform-highlight,0.1.0,0,0,https://github.com/lsdocs/lsdocs-transform-highlight,First-party syntax highlighting transformer plugin.
+2026-11-23T00:02:58.534703Z,conjure-dsp-lib,0.1.0,0,0,https://github.com/michaeljancsy/ConjureDSPLib,Audio DSP building blocks with Lean proofs about the code.
+2026-11-23T00:03:58.820852Z,familiar-telnet,0.2.0,0,0,https://github.com/SpiraMirabilis/familiar,"Telnet state machine for MU* clients: option negotiation, GMCP, MSSP, MCCP2, NAWS, MTTS and CHARSET"
+2026-11-23T00:04:14.964187Z,uf-msp,0.1.0,0,0,https://github.com/jettify/uf-msp,Allocation-free MultiWii Serial Protocol framing and typed packets for embedded Rust
+2026-11-23T00:06:06.627292Z,lsdocs-transform-links,0.1.0,0,0,https://github.com/lsdocs/lsdocs-transform-links,"First-party link checking, cross-reference and backlinks transformer plugin."
+2026-11-23T00:06:41.58682Z,lsdocs-transform-nav,0.1.0,0,0,https://github.com/lsdocs/lsdocs-transform-nav,First-party site navigation transformer plugin.
+2026-11-23T00:07:07.296133Z,lsdocs-extras-plugin,0.1.0,0,0,https://github.com/lsdocs/lsdocs-extras,"First-party plugin for content features lsdocs adds of its own (not from docutils or Sphinx): content tabs, in reStructuredText and Markdown alike."
+2026-11-23T00:09:12.691647Z,calmrun,0.1.0,0,0,https://github.com/vannt-dev/calmrun,"A machine-wide queue for heavy commands, so parallel coding agents and terminals don't freeze the computer"
+2026-11-23T00:10:14.23051Z,nibkeep-bonjour,0.1.0,0,0,https://github.com/nibkeep/nibkeep,"Apple's DNS-SD, Bonjour, by which replicas find each other on macOS and iOS"
+2026-11-23T00:12:24.010873Z,svcc-emit-sc,0.1.0,0,0,https://github.com/mayurkubavat/svcc,C++17 SystemC 3.0.3 + UVM-SystemC + CRAVE + FC4SC backend emitter for svcc-ir
+2026-11-23T00:14:24.594227Z,familiar-map,0.2.0,0,0,https://github.com/SpiraMirabilis/familiar,"World maps for MU* clients: rooms and exits, an automapper for GMCP Room.Info, and pathfinding"
+2026-11-23T00:18:10.918243Z,idenumbra-core,0.1.0-beta.1,0,0,https://github.com/ailuracollective/idenumbra,Country-agnostic identification validation: shared contract and error model
