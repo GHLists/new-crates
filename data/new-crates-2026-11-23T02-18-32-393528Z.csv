@@ -1,0 +1,20 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-23T01:19:53.034183Z,nibkeep-node,0.1.0,0,0,https://github.com/nibkeep/nibkeep,The NibKeep engine: everything an app needs to work with a library
+2026-11-23T01:25:37.289682Z,snekot-events,0.3.1,0,0,https://github.com/snekot-co/snekot-rust,"Post product events, identify users and set insights with Snekot."
+2026-11-23T01:26:22.520814Z,rustyphoenixmandelbrot,3.0.0,0,0,https://gitlab.in2p3.fr/CTA-LAPP/PHOENIX_LIBS2/example/RustyPhoenixMandelbrot,Mandelbrot set solver in Rust as an example of an interface package in Rust.
+2026-11-23T01:28:04.128919Z,ag-core,0.0.1,0,0,https://github.com/Ag-act/Ag-core,A library to be used to make unified todo managers
+2026-11-23T01:29:36.593811Z,bantam-audio-codec,0.1.1,0,0,https://github.com/Theoistic/BantamAudioCodec,"BAC, the Bantam Audio Codec: a voice codec and labelled audio format (transcript, speakers, range tags). No dependencies."
+2026-11-23T01:29:49.802845Z,nibkeep,0.1.0,0,0,https://github.com/nibkeep/nibkeep,"NibKeep under one name: the engine, and the crates whose types its API speaks in"
+2026-11-23T01:36:32.403943Z,lowp,0.1.0,0,0,https://github.com/bobbothe2nd/lowp,Lightweight software floats for low-precision formats
+2026-11-23T01:39:47.752274Z,nibkeep-git,0.1.0,0,0,https://github.com/nibkeep/nibkeep,"The person's own Git, run for the repositories in NibKeep's trees, which the engine knows nothing of"
+2026-11-23T01:46:12.640437Z,tc_ec_key,0.1.0,0,0,https://github.com/TomiCheng/tc_ec,"Elliptic-curve keys after Bouncy Castle: private and public keys and the key-pair generator, over any tc_ec_core curve."
+2026-11-23T01:49:48.838173Z,nibkeep-import,0.1.0,0,0,https://github.com/nibkeep/nibkeep,"Importers for NibKeep, such as of Google Takeout's archives, on the engine's public API"
+2026-11-23T02:00:15.464977Z,nibkeep-passwords,0.1.0,0,0,https://github.com/nibkeep/nibkeep,"Handling passwords: the password generator, one-time codes, and copying secrets to the clipboard"
+2026-11-23T02:00:47.527812Z,prometheus-scrape-parser-rs,0.1.0,0,0,https://github.com/angrybird3306/prometheus-scrape-parser-rs,A parser for the two Prometheus exposition formats — classic text and delimited protobuf — ported from Go's expfmt
+2026-11-23T02:01:15.526071Z,sellaite,0.1.0,0,0,https://github.com/conao3/rust-sellaite,A desktop and an input seat of its own for an AI computer-use agent
+2026-11-23T02:04:49.858233Z,tc_signer,0.1.0,0,0,https://github.com/TomiCheng/tc_signer,"Shared contracts for digital signatures, after Bouncy Castle's ISigner and ISignerWithRecovery."
+2026-11-23T02:08:44.101146Z,wholeshebang,0.0.1,0,0,https://github.com/wholeshebang/wholeshebang,Everything your CLI needs: the umbrella crate for the Whole Shebang terminal libraries.
+2026-11-23T02:09:57.465941Z,nibkeep-cli,0.1.0,0,0,https://github.com/nibkeep/nibkeep,"nib, the generic command-line tool for NibKeep"
+2026-11-23T02:10:42.315937Z,svcc-equiv,0.1.0,0,0,https://github.com/mayurkubavat/svcc,"Formal SMT-LIB2 (Z3 QF_BV) CRV, SVA BMC, Btor2 Sequential Equivalence (SEC/C2RTL), and UCIS verifier for svcc"
+2026-11-23T02:10:53.775562Z,svcc,0.1.0,0,0,https://github.com/mayurkubavat/svcc,"Bidirectional IEEE 1800-2023 SystemVerilog <-> C++17 SystemC/UVM compiler, SDK, and Z3 equivalence verifier"
+2026-11-23T02:16:50.267945Z,muscx,0.1.0,0,0,https://github.com/Manicharan01/muscx,A Vim-inspired OpenSubsonic music terminal
