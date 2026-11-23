@@ -1,0 +1,39 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-23T16:19:43.306696Z,rc-szx-snapshot,0.1.0,0,0,https://github.com/elpapimango/retroclawd-core,ZX Spectrum .szx (Spectaculator) snapshot reader and writer
+2026-11-23T16:23:04.526111Z,sip-header-diagnostics,1.0.0,0,0,https://github.com/voip-rs/sip-header,"Stable warning codes for SIP header field value parsing, as sip-header reports them"
+2026-11-23T16:24:21.742301Z,imbuf-image,0.1.0,0,0,https://github.com/mineichen/imbuf,"Conversions between imbuf image buffers and the `image` crate, with zero-copy borrows and moves where possible."
+2026-11-23T16:24:42.390849Z,picoboot-nusb,0.1.0,0,0,https://github.com/piersfinlayson/picoboot.git,"USB transport for picoboot, using nusb"
+2026-11-23T16:25:45.245691Z,quat_embedded,0.1.0,0,0,https://github.com/strahinjastojanovic826-code/quat_embedded,"Separated quaternary logic, precision, and compact storage library for bare-metal STM32 and ESP32"
+2026-11-23T16:26:47.509483Z,imbuf-opencv,0.1.0,0,0,https://github.com/mineichen/imbuf,Zero-copy conversions between imbuf image buffers and OpenCV Mats.
+2026-11-23T16:26:49.88439Z,rake-shortcuts,0.1.0-alpha.5,0,0,https://github.com/1bye/rake,Owned native global shortcut registrations for Rake
+2026-11-23T16:27:00.540546Z,abap-origami,0.2.1,0,0,https://github.com/nimble-123/origami,"origami: a layout-only formatter for ABAP and the CDS family (CDS, DDLX, DCL, BDEF, SRVD)"
+2026-11-23T16:29:19.865509Z,eryx-build,0.16.1,0,0,https://github.com/eryx-org/eryx,Manifest-driven build driver for the CLI components eryx runs as child commands
+2026-11-23T16:29:57.581881Z,nosfry-blossom,0.4.0,0,0,https://github.com/qntx/nosfry,Blossom blob server (BUD-01/02/06/11/12/13) for the nosfry Nostr relay
+2026-11-23T16:30:11.859013Z,rc-z80-snapshot,0.1.0,0,0,https://github.com/elpapimango/retroclawd-core,ZX Spectrum .z80 snapshot reader and writer
+2026-11-23T16:33:57.765115Z,rustellar-core,0.1.0,0,0,https://github.com/khaelemw/rustellar,Light-curve container and shared types for the rustellar astronomy time-series toolkit
+2026-11-23T16:34:00.269454Z,rustellar-ls,0.1.0,0,0,https://github.com/khaelemw/rustellar,"The Lomb-Scargle periodogram for unevenly sampled series in pure Rust: exact and fast, with false-alarm probabilities"
+2026-11-23T16:34:00.872106Z,rustellar-model,0.1.0,0,0,https://github.com/khaelemw/rustellar,"Analytic transit light-curve model (Mandel & Agol, quadratic limb darkening) in pure Rust"
+2026-11-23T16:34:03.221501Z,rustellar-bls,0.1.0,0,0,https://github.com/khaelemw/rustellar,"Box least squares transit search (Kovacs, Zucker & Mazeh 2002) in pure Rust"
+2026-11-23T16:34:04.012524Z,rustellar-fit,0.1.0,0,0,https://github.com/khaelemw/rustellar,"Least-squares transit fits in pure Rust: Levenberg-Marquardt to the best parameters, with standard errors and derived quantities"
+2026-11-23T16:35:21.788911Z,tisqlx-core,0.1.0,0,0,,"Core of tisqlx: a pure-Rust async TiDB driver (protocol, types, pool, transactions, migrations)."
+2026-11-23T16:35:24.203483Z,tisqlx-cli,0.1.0,0,0,,"Command-line utility for tisqlx: database management, migrations, offline query data."
+2026-11-23T16:35:24.836643Z,tisqlx-macros,0.1.0,0,0,,Procedural macros for tisqlx (not for direct use).
+2026-11-23T16:35:26.39355Z,tisqlx,0.1.0,0,0,,"Async, pure-Rust SQL toolkit built specifically for TiDB (tokio + rustls), with compile-time checked queries."
+2026-11-23T16:36:30.481161Z,quat_iot,0.1.0,0,0,https://github.com/strahinjastojanovic826-code/quat_iot,"Advanced no_std quaternary (2-bit per quat) storage, ring buffer, RLE, and framing library for IoT devices"
+2026-11-23T16:37:51.054399Z,bentrix,0.1.382,0,0,https://github.com/bentrixhq/bentrix-rust,"The Rust client of Bentrix: every capability of a running Bentrix over its MCP endpoint, over loopback HTTP on std::net, serde_json its one dependency."
+2026-11-23T16:40:39.837245Z,rc-zx-tape,0.1.0,0,0,https://github.com/elpapimango/retroclawd-core,"ZX Spectrum / ZX81 tape: TAP, TZX-flattened pulses, .p and WAV rendering"
+2026-11-23T16:41:42.515012Z,quat_log,0.1.0,0,0,https://github.com/strahinjastojanovic826-code/quat_log,"A no_std quaternary (2-bit) state logger and ring buffer library saving 75% memory for black-box devices and long-running data loggers, with precision separated from storage logic."
+2026-11-23T16:45:01.775423Z,rustellar-tls,0.1.0,0,0,https://github.com/khaelemw/rustellar,"Transit least squares in pure Rust: a limb-darkened transit template fitted by weighted least squares at every period, duration and mid-transit time (Hippke & Heller 2019)"
+2026-11-23T16:45:23.198898Z,quat_robotics,0.1.1,0,0,https://github.com/strahinjastojanovic826-code/quat_robotics,"Zero-allocation no_std quaternary logic (00, 01, 10, 11) and sub-millisecond hard-real-time stepper and actuator control library"
+2026-11-23T16:51:07.386306Z,rc-zx81-snapshot,0.1.0,0,0,https://github.com/elpapimango/retroclawd-core,ZX81 .p program file reader and writer
+2026-11-23T16:51:59.415535Z,pg-session-lock,0.1.0,0,0,https://github.com/hardbyte/awa,PostgreSQL session advisory locks on pooled sqlx connections that are never returned to the pool still held
+2026-11-23T16:53:33.658296Z,quat_smartcard,0.1.0,0,0,https://github.com/strahinjastojanovic826-code/quat_smartcard,"Precision no_std quaternary (00, 01, 10, 11) packed storage primitives for constrained smartcards, eSIM, RFID, SIM, and security tokens."
+2026-11-23T16:55:04.049241Z,rustellar-detrend,0.1.0,0,0,https://github.com/khaelemw/rustellar,"Detrending light curves in pure Rust: time-windowed robust estimators such as the biweight (Hippke et al. 2019), solved to full precision, and splines"
+2026-11-23T16:55:59.583788Z,sinden-driver,0.1.0,0,0,https://github.com/trois-six/sinden-driver,Driver for the Sinden light gun: a library and a command-line driver
+2026-11-23T17:02:55.25541Z,imbuf-tiff,0.1.0,0,0,https://github.com/mineichen/imbuf,"Decodes TIFFs with their raw samples (any integer/float type, any sample count, one channel per page) into imbuf image buffers."
+2026-11-23T17:03:04.427971Z,epic_utils,0.1.0,0,0,https://github.com/Epic099/rust_epic_utils,"A simple package that I am creating overtime. It includes tools for Vectors, mathematics, etc."
+2026-11-23T17:04:59.376016Z,rustellar-mcmc,0.1.0,0,0,https://github.com/khaelemw/rustellar,"Ensemble Markov chain Monte Carlo in pure Rust: affine-invariant sampling, convergence diagnostics and transit posteriors"
+2026-11-23T17:12:20.133261Z,rc-huc6280,0.1.0,0,0,https://github.com/elpapimango/retroclawd-core,"Hudson HuC6280 CPU core (65C02 superset with a 21-bit bank mapper), the PC Engine's processor"
+2026-11-23T17:13:46.671583Z,quat_sensor,0.1.0,0,0,https://github.com/strahinjastojanovic826-code/quat_sensor,A no_std Rust library for packing and framing sensor readings with 2-bit quaternary logic while separating logic from precision measurements.
+2026-11-23T17:14:02.027986Z,bitpick-cli,0.1.0,0,0,https://github.com/aesy/bitpick,Fast terminal picker for Bitwarden credentials using rbw and fzf
+2026-11-23T17:14:58.988783Z,rustellar-vet,0.1.0,0,0,https://github.com/khaelemw/rustellar,"Vetting transit candidates in pure Rust: period aliases, odd and even depths, coverage and per-transit evidence"
