@@ -1,0 +1,32 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-23T19:20:26.275861Z,dma-cancel-guard,0.2.0,0,0,https://github.com/jorgeandrecastro/dma-cancel-guard,"no_std, heap-free lifecycle guard for DMA transfers: explicit Idle/Armed/Active/Draining state machine for safe async cancellation."
+2026-11-23T19:27:11.155584Z,keyscan,0.1.0,0,0,https://github.com/Mirinae-1220/keyscan,git 레포에서 비밀값을 찾아 커밋 전에 막고 재발급 방법을 알려 주는 CLI
+2026-11-23T19:27:48.67455Z,rc-amiga,0.1.0,0,0,https://github.com/elpapimango/retroclawd-core,"Amiga executable (hunk) files and ADF disk images (OFS and FFS): parse, build, list, extract"
+2026-11-23T19:28:02.232805Z,rc-ines,0.1.0,0,0,https://github.com/elpapimango/retroclawd-core,NES cartridge image (iNES and NES 2.0 .nes) parser and builder
+2026-11-23T19:28:25.694146Z,rc-sfc,0.1.0,0,0,https://github.com/elpapimango/retroclawd-core,"Super Nintendo / Super Famicom cartridge image (.sfc/.smc) parser and builder: mapping detection, internal header, checksum"
+2026-11-23T19:28:36.7397Z,rc-spc700,0.1.0,0,0,https://github.com/elpapimango/retroclawd-core,"Sony SPC700 CPU core (the SNES sound processor), with a disassembler"
+2026-11-23T19:28:47.890143Z,rc-w65c816,0.1.0,0,0,https://github.com/elpapimango/retroclawd-core,"WDC 65C816 CPU core (16-bit 65xx with 24-bit addressing), the SNES processor, with a disassembler"
+2026-11-23T19:37:00.177275Z,hazard3-unitrait-macros,0.1.0,0,0,https://github.com/jorgeandrecastro/embassy-riscv,Implementation detail of the `unitrait` crate
+2026-11-23T19:37:07.156873Z,hazard3-unitrait,0.1.0,0,0,https://github.com/jorgeandrecastro/embassy-riscv,"Traits with a single global implementation, resolved at link time"
+2026-11-23T19:37:14.357039Z,hazard3-executor-timer-queue,0.1.0,0,0,https://github.com/jorgeandrecastro/embassy-riscv,Timer queue item and interface between embassy-executor and timer queues
+2026-11-23T19:37:17.540141Z,hazard3-time-driver,0.1.1,0,0,https://github.com/jorgeandrecastro/embassy-riscv,Driver trait for embassy-time
+2026-11-23T19:37:24.634018Z,hazard3-time-queue-utils,0.1.0,0,0,https://github.com/jorgeandrecastro/embassy-riscv,Timer queue driver trait for embassy-time
+2026-11-23T19:39:03.300669Z,hazard3-sync,0.1.0,0,0,https://github.com/jorgeandrecastro/embassy-riscv,"no-std, no-alloc synchronization primitives with async support"
+2026-11-23T19:39:15.650614Z,rc-x68k,0.1.0,0,0,https://github.com/elpapimango/retroclawd-core,Sharp X68000 files: Human68k .X executables and XDF/DIM floppy images
+2026-11-23T19:48:44.457594Z,hazard3-executor-macros,0.1.0,0,0,https://github.com/jorgeandrecastro/embassy-riscv,macros for creating the entry point and tasks for embassy-executor
+2026-11-23T19:54:08.171038Z,compact-parquet-thrift,0.3.0,0,0,https://github.com/davidgtonge/compact-parquet-thrift,Allocation-free Thrift Compact codec and bounded-memory Parquet page streaming
+2026-11-23T19:54:10.445246Z,rcar,0.3.0,0,0,https://github.com/elpapimango/retroclawd-tools,"Create, list, extract and edit rcasm object libraries (.rca) (retroclawd tools)"
+2026-11-23T20:00:17.386647Z,knx,0.1.1,0,0,https://github.com/hupe1980/knx,"KNX datapoint codecs, cEMI group telegrams and KNXnet/IP for Rust applications"
+2026-11-23T20:01:00.871456Z,hazard3-executor,0.1.1,0,0,https://github.com/jorgeandrecastro/embassy-riscv,async/await executor designed for embedded usage
+2026-11-23T20:03:17.499513Z,onepw,0.1.0,0,0,https://github.com/twitzelbos/onepw-rs,"Unofficial pure-Rust client for 1Password accounts (SRP sign-in, vault and item decryption). Not affiliated with 1Password."
+2026-11-23T20:03:40.792713Z,qdl,0.1.1,0,0,https://github.com/qualcomm/qdlrs,Qualcomm Sahara / Firehose library
+2026-11-23T20:04:38.964646Z,parlando-game-derive,0.7.0,0,0,https://github.com/coli-saar/parlando,GameValue derive for the Parlando Game SDK
+2026-11-23T20:04:45.160919Z,parlando-game-sdk,0.7.0,0,0,https://github.com/coli-saar/parlando,Rust SDK for authoring Parlando games and agents
+2026-11-23T20:12:34.156944Z,cam-cli,0.1.0,0,0,https://github.com/brunorodmoreira/cam,Pick the Claude Code account per folder via .claude-account files
+2026-11-23T20:12:42.101553Z,hazard3-hal-internal,0.1.0,0,0,https://github.com/jorgeandrecastro/embassy-riscv,Internal implementation details for Embassy HALs. DO NOT USE DIRECTLY.
+2026-11-23T20:16:59.74992Z,bixverse-atac,0.11.0,0,0,https://github.com/GregorLueg/bixverse-rs,"Single cell ATAC-seq for bixverse: fragment and 10x peak ingest, QC, AMULET multiplets, peak calling, peak and tile counting, gene activity, TF-IDF, LSI and rLSI integration."
+2026-11-23T20:17:23.308379Z,binbun-bounded,0.1.0,0,0,https://github.com/dmaivel/binbun,"Bounded postcard decoding of bytes another party wrote: collections with declared maxima, encoding within a limit, pages."
+2026-11-23T20:17:23.822565Z,binbun-demangle,0.1.0,0,0,https://github.com/dmaivel/binbun,Partial Itanium C++ demangler that parses manglings into syntax trees.
+2026-11-23T20:17:24.155831Z,binbun-isa,0.1.0,0,0,https://github.com/dmaivel/binbun,The instruction model and decoder trait shared by binbun's architectures.
+2026-11-23T20:17:24.409124Z,binbun-macros,0.1.0,0,0,https://github.com/dmaivel/binbun,"Procedural macros for binbun-semantics, which re-exports them."
+2026-11-23T20:17:24.673369Z,binbun-paths,0.1.0,0,0,https://github.com/dmaivel/binbun,"Where binbun keeps its configuration, data and cache on each platform."
