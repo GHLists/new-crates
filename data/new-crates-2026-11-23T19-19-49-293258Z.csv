@@ -1,0 +1,28 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-23T18:24:46.518578Z,ddsify,0.1.1,0,0,https://github.com/CryoTheRenegade/ddsify,"Batch PNG to DDS converter (BC1/BC7 with mipmaps), a todds replacement"
+2026-11-23T18:26:50.011872Z,pround,0.0.1,0,0,,"A transparent, click-through overlay that draws rounded corners on every connected monitor."
+2026-11-23T18:27:23.71832Z,runik,0.0.0-alpha0,0,0,https://github.com/runik-os/runik,The Runik Operating System
+2026-11-23T18:28:39.516099Z,rcld,0.2.0,0,0,https://github.com/elpapimango/retroclawd-tools,Place assembled programs and emit a runnable image (retroclawd tools)
+2026-11-23T18:29:27.696071Z,rustmix,2.0.0,0,0,https://github.com/ollezetterstrom/Rustmix,"Ultra-fast, high-density codebase packer for frontier reasoning models, written in Rust"
+2026-11-23T18:29:51.634364Z,ctap-ask,0.2.0,0,0,https://github.com/mdegans/ctap-ask,"Ask a FIDO2 security key to sign over USB HID: getAssertion, getInfo and reading a PIN token. No code to create or delete credentials, change a PIN or reset a key."
+2026-11-23T18:31:16.285086Z,stverify,0.2.1,0,0,https://github.com/foxhackerzdevs/stverify,Zero-bloat parallel cryptographic signer and verifier for safetensors model shards
+2026-11-23T18:31:42.504465Z,lidlesseye-servicemap,0.1.10,0,0,https://github.com/xsj321/LidlessEye,"Service map model, protocol constants and query composition for LidlessEye."
+2026-11-23T18:34:34.951998Z,lidlesseye-mcp,0.1.10,0,0,https://github.com/xsj321/LidlessEye,AI-friendly MCP server for LidlessEye service maps and profiles.
+2026-11-23T18:35:20.022289Z,fipsnet-core,0.0.0,0,0,,"The I/O-free core of fipsnet: its documents, signatures and role state machines. Under development."
+2026-11-23T18:35:21.834736Z,fipsnet,0.0.0,0,0,,"fipsnet: private IP networks over the FIPS mesh, with the fpn command and its daemon. Under development."
+2026-11-23T18:41:24.619318Z,fmb-puller,0.1.0,0,0,https://github.com/pengubco/fmb-puller,"Fast, memory-budgeted image puller for containerd that pulls entirely client side"
+2026-11-23T18:43:40.111118Z,strew,0.1.0,0,0,https://github.com/terror/strew,A tool to manage your dotfiles
+2026-11-23T18:45:25.484446Z,ieee2030-5,0.1.1,0,0,https://github.com/hupe1980/ieee2030-5,IEEE 2030.5 (Smart Energy Profile 2.0) for Rust
+2026-11-23T18:53:41.371857Z,shallot,0.0.0,0,0,,Temporary reservation for this crate name.
+2026-11-23T18:53:45.262031Z,susz-olean,0.1.0,0,0,https://github.com/jasisz/susz-olean,"Lean 4 .olean files straight to Susz, with no ndjson in between"
+2026-11-23T18:55:45.270084Z,ironrdp-rdpadrv,0.1.0,0,0,https://github.com/Devolutions/IronRDP,Audio level and drive letter persistence dynamic channels as described in MS-RDPADRV
+2026-11-23T18:55:45.808493Z,ironrdp-rdpeci,0.1.0,0,0,https://github.com/Devolutions/IronRDP,Core input dynamic channel as described in MS-RDPECI
+2026-11-23T18:55:46.124473Z,ironrdp-rdpemsc,0.1.0,0,0,https://github.com/Devolutions/IronRDP,Mouse cursor dynamic channel as described in MS-RDPEMSC
+2026-11-23T18:55:47.081832Z,ironrdp-rdpet,0.1.0,0,0,https://github.com/Devolutions/IronRDP,Telemetry dynamic channel client and server as described in MS-RDPET
+2026-11-23T18:55:47.567643Z,ironrdp-rdpeusb-native,0.1.0,0,0,https://github.com/Devolutions/IronRDP,Native MS-RDPEUSB (URBDRC) USB device backend for IronRDP clients
+2026-11-23T18:59:09.928413Z,gax,0.1.0,0,0,https://github.com/jidoughost-tl/gax-rs,"Pure Rust, zero-dependency parser, software synthesizer, and golden-tested emulator for Shin'en GAX Sound Engine (Game Boy Advance)"
+2026-11-23T18:59:14.90217Z,musyx,0.1.0,0,0,https://github.com/jidoughost-tl/musyx-rs,"Pure Rust, zero-dependency parser, ADPCM decoder, software synthesizer, and golden-tested emulator for Factor 5 MusyX Sound System (Game Boy Advance)"
+2026-11-23T19:06:48.897703Z,ironrdp-w365,0.1.0,0,0,https://github.com/Devolutions/IronRDP,"Windows 365 battery status, power request, screen capture, and virtual desktop control dynamic channel clients"
+2026-11-23T19:13:29.995019Z,halcyon-rs,0.0.0,0,0,https://github.com/halcyon-framework/halcyon,Official Halcyon UI framework package; public source release in preparation.
+2026-11-23T19:14:21.884093Z,cnv-sc-rs,0.1.0,0,0,https://github.com/GregorLueg/cnv-sc-rs,"Copy number inference from single cell expression. A Rust port of the expression path of numbat and hahmmr: inferCNV-style smoothing, Poisson-lognormal HMM, per-cell segment posteriors."
+2026-11-23T19:17:56.571982Z,kvault,0.2.0,0,0,https://github.com/rabrooks/kvault,"Shared memory for coding agents. kvault indexes the markdown notes you already keep and gives Claude Code a session-start brief and token-budgeted search across every project. One Rust binary, no dae…"
