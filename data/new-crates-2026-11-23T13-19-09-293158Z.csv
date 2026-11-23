@@ -1,0 +1,46 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-23T12:19:41.941735Z,brz-replay,0.1.0,0,0,https://github.com/we-breeze/replay,Replay-controlled Tokio waits for Target applications
+2026-11-23T12:21:16.428689Z,naui-charts,0.19.0,0,0,https://github.com/mokuichi147/naui,"Line, bar and scatter charts for naui, drawn on its Canvas with each platform's 2D API and colored to follow light and dark"
+2026-11-23T12:22:53.125973Z,siili,0.0.1,0,0,,"Unofficial, experimental CLI proxy for the PostHog API"
+2026-11-23T12:23:55.631788Z,pq-core,0.8.1,0,0,https://github.com/post-q/pq-intel,Shared discovery/probing core for the pq-intel tools: the evidence store and its collectors
+2026-11-23T12:27:24.250968Z,rust-motion-inpaint,1.1.0,0,0,https://github.com/sjkim1127/rust-motion,Content-aware hole filling: PatchMatch-based patch completion and membrane fill
+2026-11-23T12:32:05.863996Z,sync_labs_ui,0.0.0,0,0,https://github.com/Sync-Labs-team/sync_labs_ui,sync_labs_ui: the sync_labs component library for Rust apps (the crate apps import).
+2026-11-23T12:32:31.847672Z,sync_labs_ui_core,0.0.0,0,0,https://github.com/Sync-Labs-team/sync_labs_ui,"sync_labs_ui component behaviour in plain Rust, with no UI dependency, testable without a window."
+2026-11-23T12:32:39.180294Z,sync_labs_ui_rune,0.0.0,0,0,https://github.com/Sync-Labs-team/sync_labs_ui,sync_labs_ui shell that draws the components with the Rune UI framework.
+2026-11-23T12:32:47.499666Z,sync_labs_ui_tokens,0.0.0,0,0,https://github.com/Sync-Labs-team/sync_labs_ui,"sync_labs_ui design tokens (colour, type, spacing, radius, shadow, springs) as data, with generators for Rust and CSS/TypeScript."
+2026-11-23T12:34:03.081277Z,funga,0.0.1,0,0,,"Funga: a family of crates for building applications from actors, native plugins and WASM modules. Early development; no functionality yet."
+2026-11-23T12:34:12.360355Z,funga-stroma,0.0.1,0,0,,Stroma: a runtime and actor system you shape from native plugins and load WASM modules onto while it runs. Early development; no functionality yet.
+2026-11-23T12:34:14.274982Z,funga-mycena,0.0.1,0,0,,Mycena: a UI framework built on the Stroma runtime (funga-stroma). Early development; no functionality yet.
+2026-11-23T12:37:18.180451Z,rust-motion-lensdb,1.1.0,0,0,https://github.com/sjkim1127/rust-motion,"Lens correction profiles: distortion, TCA and vignetting models, lensfun-format database loader"
+2026-11-23T12:40:31.96552Z,haiyaku,0.1.0,0,0,https://github.com/Davey-Hughes/haiyaku,"Spoiler-safe character events from books, stored in the caller's SQLite database"
+2026-11-23T12:46:22.323339Z,silent-protocol-macros,0.14.0,0,0,https://github.com/ivlev-dev/silent-framework,Derive macro implementing the Silent binary protocol for Rust structs and enums
+2026-11-23T12:46:33.333112Z,silent-protocol,0.14.0,0,0,https://github.com/ivlev-dev/silent-framework,"Binary Silent protocol for Rust: derive-based schema, compact wire format, bitmap optionals, collections and oneof"
+2026-11-23T12:47:25.79964Z,rust-motion-psd,1.1.0,0,0,https://github.com/sjkim1127/rust-motion,"Faithful, lossless reader and writer for Adobe Photoshop PSD (v1) and PSB (v2) files"
+2026-11-23T12:48:03.276926Z,sextant-machines,0.1.0,0,0,https://github.com/seuros/sextant_machines,Bounded desired-state reconciliation with conditional writes
+2026-11-23T12:48:06.537162Z,rigging-machines,0.1.0,0,0,https://github.com/seuros/rigging_machines,Bounded dependency readiness and incremental invalidation
+2026-11-23T12:48:09.815819Z,sluice-machines,0.1.0,0,0,https://github.com/seuros/sluice_machines,Bounded checkpoint barrier alignment
+2026-11-23T12:48:18.98267Z,splice-machines,0.1.0,0,0,https://github.com/seuros/splice_machines,Evidence-gated staged replacement
+2026-11-23T12:51:27.311567Z,urchin-player,0.1.0,0,0,https://github.com/xgabrielmartin/urchin-player,"A cross-platform, folder-first music player for the terminal, built in Rust"
+2026-11-23T12:52:44.379386Z,lang-translator,0.1.0,0,0,,Offline zero-dependency multi-language translator engine for lang (no_std compatible).
+2026-11-23T12:53:35.589608Z,lang-macros,0.1.0,0,0,,Compile-time AST rewriter and project source scanner for lang (zero external dependencies).
+2026-11-23T12:53:40.756852Z,lang-build,0.1.0,0,0,,Build-script helper for lang that scans project sources at build time and pre-generates a static no_std LangCatalog.
+2026-11-23T12:55:26.413277Z,ontaria-cli,0.9.2,0,0,https://github.com/vbasky/ontaria,"Look up, validate, diff, and generate from an RDF Schema or OWL ontology"
+2026-11-23T12:56:57.498707Z,langes,0.1.0,0,0,,Bare-metal #![no_std] crate that mounts a language-switcher button into any project and offline pre-translates all app text.
+2026-11-23T12:57:20.77106Z,rust-motion-raster,1.1.0,0,0,https://github.com/sjkim1127/rust-motion,"Sparse, copy-on-write tiled raster surfaces"
+2026-11-23T12:58:53.891363Z,motion-imagery-metadata,0.1.0,0,0,https://github.com/fishloa/motion-imagery-metadata,"Typed MISB ST 0601 UAS Datalink Local Set item values, decoded by the `misb` crate: typed ST 0102 Security and ST 0903 VMTI nested sets, raw packs and lists."
+2026-11-23T13:02:14.30799Z,aatxe-ast,0.2.0,0,0,https://github.com/enekos/aatxe,"Tree-sitter import and symbol extraction for TS/Go/Rust, feeding the aatxe affected-set resolver. Pure: no IO."
+2026-11-23T13:02:15.894039Z,aatxe-evals,0.2.0,0,0,https://github.com/enekos/aatxe,Eval harness for aatxe — scores the stats engine against synthetic ground-truth benchmark pairs.
+2026-11-23T13:02:16.705014Z,aatxe-ui,0.2.0,0,0,https://github.com/enekos/aatxe,Local realtime dashboard for aatxe: spawn coding agents in isolated worktrees and watch their benchmark trajectories live
+2026-11-23T13:02:19.681698Z,aatxe,0.2.0,0,0,https://github.com/enekos/aatxe,"Statistical microbenchmark + regression-gate CLI for TypeScript, Go, and Rust"
+2026-11-23T13:04:45.021913Z,glidex-auth,0.1.1,0,0,https://github.com/CMKL-APEX/glidex-commons,"Core authentication for glidex and hyperstor: secrets, session and token rules, a Cedar policy engine and OIDC login (spec/11-security.md §5, §7)"
+2026-11-23T13:04:46.760841Z,glidex-raftstore,0.1.1,0,0,https://github.com/CMKL-APEX/glidex-commons,"A replicated ReDB store on openraft: write sets recorded from transactions, applied as bytes on every member (spec/14-clustering.md §6)"
+2026-11-23T13:04:47.518504Z,glidex-tls,0.1.1,0,0,https://github.com/CMKL-APEX/glidex-commons,"HTTPS for glidex: listeners on every address, self-signed certificates and the client trust shared by gxctl and the UI (spec/11-security.md §5.1)"
+2026-11-23T13:04:48.782279Z,glidex-topology,0.1.1,0,0,https://github.com/CMKL-APEX/glidex-commons,"A host's topology from sysfs: NUMA nodes and sockets, the PCIe tree with root ports and switches, and network ports with their RDMA devices (spec/22-host-topology.md §3)"
+2026-11-23T13:04:52.239617Z,glidex-trust,0.1.1,0,0,https://github.com/CMKL-APEX/glidex-commons,"The cluster side of trust between a cluster and a glidex directory of another organization: offers, peer assertions, the feed, reports and directory tokens, with a fake directory for tests (spec/19-t…"
+2026-11-23T13:07:17.099482Z,rust-motion-algo,1.1.0,0,0,https://github.com/sjkim1127/rust-motion,"Depth-agnostic, tile-aware CPU image filters (blur, sharpen, noise, distort, stylize)"
+2026-11-23T13:10:12.514463Z,hooks-guru,0.1.0,0,0,https://github.com/StarcevAlexander/hooks-guru,"husky + lint-staged for Rust - install git hooks and run commands on staged files from a TOML config, with picomatch-compatible globs and a backup stash around partially staged files"
+2026-11-23T13:14:20.888124Z,hkconnect,0.1.0,0,0,https://github.com/swapsha96/hkconnect,Async client for Hyundai Bluelink India and Kia Connect India
+2026-11-23T13:14:41.826078Z,hkc,0.1.0,0,0,https://github.com/swapsha96/hkconnect,Command-line control for Hyundai/Kia connected cars in India
+2026-11-23T13:15:07.819672Z,hkc-mcp,0.1.0,0,0,https://github.com/swapsha96/hkconnect,MCP server that lets Claude read and control a Hyundai/Kia (India) connected car
+2026-11-23T13:17:23.155666Z,easyfs-inspect,0.4.0,0,0,https://github.com/MagicBeards/easyfs,"Inspect easy-fs filesystem images from the rCore tutorial, without booting the kernel"
+2026-11-23T13:17:28.873719Z,rust-motion-doc,1.1.0,0,0,https://github.com/sjkim1127/rust-motion,"Pure-Rust document model: paths, vector shapes, layers, blend modes"
