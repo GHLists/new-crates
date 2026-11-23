@@ -1,0 +1,30 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-23T17:18:55.693146Z,quat_time,0.3.0,0,0,https://github.com/strahinjastojanovic826-code/quat_time,A memory-efficient Rust library for quaternary time representation using 2-bit packed logic (75% space reduction).
+2026-11-23T17:19:08.030177Z,scyvera-rs,0.1.0,0,0,https://github.com/Skull-boy/scyvera,"Native Rust runtime for Agent Contracts: the RFC 0005 provisional-contract model, default-deny gate, trace JSONL, and conformance vector runner."
+2026-11-23T17:23:09.247303Z,datacraft-xlsx,0.2.2,0,0,https://github.com/RealRauch/datacraft,"Excel workbook read driver for the DataCraft engine (ADR-7, xlsx/xlsm/xls/xlsb)"
+2026-11-23T17:23:19.071314Z,oxideon-core,0.1.0,0,0,https://github.com/voidstackloop/oxideon,"Oxideon core: multi-dtype strided-view tensors, higher-order autograd, neural-network layers, optimizers and quantization"
+2026-11-23T17:24:20.541814Z,oxideon-engines,0.1.0,0,0,https://github.com/voidstackloop/oxideon,"Oxideon engines: science, physics, crypto-demo and synthesis-chain engine catalog built on oxideon-core"
+2026-11-23T17:24:37.072203Z,oxishot,0.1.0,0,0,https://github.com/lostinmyth/oxishot,"A fast, minimal screenshot annotation editor: arrows, boxes, text, blur"
+2026-11-23T17:24:59.488026Z,rustellar,0.1.0,0,0,https://github.com/khaelemw/rustellar,Exoplanet and astronomy time-series tools in pure Rust; enable the parts you need as features
+2026-11-23T17:25:00.339893Z,rc-common,0.2.0,0,0,https://github.com/elpapimango/retroclawd-tools,"Shared helpers of the retroclawd tools: JSON output, number parsing, the GEMDOS .prg format"
+2026-11-23T17:25:50.610394Z,oxideon,0.1.0,0,0,https://github.com/voidstackloop/oxideon,"An advanced, multi-dtype, strided-view deep learning and tensor library in Rust"
+2026-11-23T17:30:19.481097Z,to11y,0.1.0-rc.1,0,0,https://github.com/jgabor/to11y,"Subscription usage limits, pacing, and reset times for coding agents, over MCP"
+2026-11-23T17:35:32.712785Z,rcasm,0.2.0,0,0,https://github.com/elpapimango/retroclawd-tools,"Two-pass assembler for the 6502, Z80, HuC6280 and 68000 (retroclawd tools)"
+2026-11-23T17:46:05.224371Z,rcchd,0.2.0,0,0,https://github.com/elpapimango/retroclawd-tools,"Create, extract, inspect, verify and edit CHD files, the way chdman does (retroclawd tools)"
+2026-11-23T17:46:23.6204Z,compio-postgres,0.1.0,0,0,https://github.com/AhMisty/compio-postgres,PostgreSQL 19 client for Compio with worker-local connections and pipelining
+2026-11-23T17:49:04.409294Z,fprime-wasm-opt-x86_64-linux,133.0.0,0,0,https://github.com/fprime-community/fprime-wasm,"binaryen version_133's wasm-opt for x86_64-linux, as fprime-wasm runs it"
+2026-11-23T17:49:10.473414Z,fprime-wasm-opt-aarch64-linux,133.0.0,0,0,https://github.com/fprime-community/fprime-wasm,"binaryen version_133's wasm-opt for aarch64-linux, as fprime-wasm runs it"
+2026-11-23T17:49:14.966009Z,fprime-wasm-opt-arm64-macos,133.0.0,0,0,https://github.com/fprime-community/fprime-wasm,"binaryen version_133's wasm-opt for arm64-macos, as fprime-wasm runs it"
+2026-11-23T17:49:20.328082Z,fprime-wasm-opt-x86_64-macos,133.0.0,0,0,https://github.com/fprime-community/fprime-wasm,"binaryen version_133's wasm-opt for x86_64-macos, as fprime-wasm runs it"
+2026-11-23T17:49:25.005811Z,fprime-wasm-opt-x86_64-windows,133.0.0,0,0,https://github.com/fprime-community/fprime-wasm,"binaryen version_133's wasm-opt for x86_64-windows, as fprime-wasm runs it"
+2026-11-23T17:56:39.720754Z,rcdis,0.2.0,0,0,https://github.com/elpapimango/retroclawd-tools,"Disassembler for the 6502, Z80, HuC6280 and 68000 that writes source rcasm can assemble (retroclawd tools)"
+2026-11-23T17:58:10.353885Z,fprime-wasm-opt-arm64-windows,133.0.0,0,0,https://github.com/fprime-community/fprime-wasm,"binaryen version_133's wasm-opt for arm64-windows, as fprime-wasm runs it"
+2026-11-23T18:00:06.572886Z,hopbox,1.0.0,0,0,https://github.com/Itz-Agasta/hopbox,"Run heavy builds and tests on another machine over SSH, from your laptop or your coding agent"
+2026-11-23T18:05:02.570708Z,gpui-de,0.1.0,0,0,https://github.com/mozyk96/gpui-de,A practical toolkit for building native desktop applications with GPUI.
+2026-11-23T18:07:14.109714Z,rcdisk,0.2.0,0,0,https://github.com/elpapimango/retroclawd-tools,"Inspect, edit, create and convert disk images (retroclawd tools)"
+2026-11-23T18:08:06.873815Z,standardizer-generate-data,1.0.0,0,0,https://github.com/BezotCorp/standardizer-generate-data,Generate binary data used by Standardizer
+2026-11-23T18:08:23.987834Z,senate-markdown,0.11.0,0,0,https://github.com/oops-rs/senate,Markdown block trees and incremental HTML and terminal rendering for Senate.
+2026-11-23T18:13:11.420061Z,brevo-rust,1.0.0,0,0,https://github.com/getbrevo/brevo-rust,Official Rust SDK for the Brevo API.
+2026-11-23T18:14:16.478341Z,sk-editor,0.8.0,0,0,https://github.com/argon-chat/skathi,"The document model behind Skathi's <sk-editor>: text, marks, atoms, line blocks, transactions and history"
+2026-11-23T18:17:47.649165Z,rcsnap,0.2.0,0,0,https://github.com/elpapimango/retroclawd-tools,"Inspect, convert and build snapshots and cartridges (retroclawd tools)"
+2026-11-23T18:18:02.67202Z,rctape,0.2.0,0,0,https://github.com/elpapimango/retroclawd-tools,"Inspect, cut, merge, split, clean up and convert tape images (retroclawd tools)"
