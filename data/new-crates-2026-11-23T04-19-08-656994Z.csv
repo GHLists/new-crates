@@ -1,0 +1,33 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-23T03:23:11.508445Z,codewhale-account-cli,0.10.3,0,0,https://github.com/codewhale-hq/CodeWhale,"Codewhale account, cloud computer and dispatch commands for the CLI"
+2026-11-23T03:23:15.197148Z,codewhale-sandbox,0.10.3,0,0,https://github.com/codewhale-hq/CodeWhale,Codewhale command sandbox preparation and platform enforcement
+2026-11-23T03:23:18.012403Z,codewhale-dependencies,0.10.3,0,0,https://github.com/codewhale-hq/CodeWhale,Codewhale external tool resolution and bounded subprocess probes
+2026-11-23T03:23:21.356513Z,codewhale-snapshot,0.10.3,0,0,https://github.com/codewhale-hq/CodeWhale,Codewhale pre/post-turn workspace snapshots in a side git repo
+2026-11-23T03:23:24.355057Z,codewhale-lsp,0.10.3,0,0,https://github.com/codewhale-hq/CodeWhale,Codewhale language server client and diagnostics
+2026-11-23T03:27:43.944434Z,libwildcard,0.2.0,0,0,https://github.com/f1b0-gh/pg_wildcard,Wildcard search for Antalya hot storage and Iceberg cold data
+2026-11-23T03:28:40.495229Z,pg_wildcard,0.2.0,0,0,https://github.com/f1b0-gh/pg_wildcard,"Security string search control plane: patterns, indicators, ClickHouse SQL generation and lake pruning, inside Postgres."
+2026-11-23T03:33:44.264968Z,codewhale-repl,0.10.3,0,0,https://github.com/codewhale-hq/CodeWhale,Codewhale Python REPL runtime; the caller supplies the sandboxed command
+2026-11-23T03:34:18.258354Z,seabraid,0.5.0-alpha.8,0,0,https://github.com/saltwater-research/seabraid,Engine-neutral runtime that lets GPUs from different vendors serve one Mixture-of-Experts model at the same layer
+2026-11-23T03:36:10.198883Z,ncmconv,0.5.0,0,0,https://github.com/ByteFluffy/ncmconv,Decrypt NetEase Cloud Music .ncm files and convert them to open formats
+2026-11-23T03:44:06.482309Z,codewhale-skill-install,0.10.3,0,0,https://github.com/codewhale-hq/CodeWhale,"Codewhale community-skill installer, package digests and skill frontmatter"
+2026-11-23T03:46:44.70147Z,orchnes,0.2.0,0,0,https://github.com/orchnesai/orchnes-cli,"Orchnes 360 CLI: install, validate, route and export Agent Skills, and call any model through one gateway"
+2026-11-23T03:48:47.582821Z,whisker-surface,0.1.0,0,0,https://github.com/whiskerrs/whisker,"Native GPU render targets for Whisker elements, independent of any graphics API."
+2026-11-23T03:48:49.794546Z,whisker-surface-linux,0.1.0,0,0,https://github.com/whiskerrs/whisker,Linux Host implementation for whisker-surface.
+2026-11-23T03:48:49.967242Z,whisker-surface-web,0.1.0,0,0,https://github.com/whiskerrs/whisker,Web Host implementation for whisker-surface.
+2026-11-23T03:48:50.126334Z,whisker-wgpu,0.1.0,0,0,https://github.com/whiskerrs/whisker,"Draw into Whisker surfaces with wgpu, sharing one device across the app."
+2026-11-23T03:49:09.555496Z,wdelta,0.3.1,0,0,https://github.com/endriasf/wdelta,Lossless delta compression for fine-tuned model weights (safetensors)
+2026-11-23T03:54:32.697563Z,codewhale-plugins,0.10.3,0,0,https://github.com/codewhale-hq/CodeWhale,"Plugin manifests, discovery, review, install and marketplace for Codewhale"
+2026-11-23T04:00:29.901478Z,agy-tui,0.1.0,0,0,https://github.com/pathscale/agy-swap-rs,"no_std double-buffered terminal UI surface, diffing ANSI renderer, and inline mouse hit-map over ekostd"
+2026-11-23T04:00:36.175664Z,agy-core,0.1.0,0,0,https://github.com/pathscale/agy-swap-rs,"no_std account store, vault, OAuth PKCE, quota telemetry, routing, and isolated overlay engine for agy-swap-rs"
+2026-11-23T04:00:45.815824Z,agy-swap-rs,0.1.0,0,0,https://github.com/pathscale/agy-swap-rs,"Multi-account quota TUI, isolated concurrent CLI wrapper (--use-account), and session switcher for Antigravity (agy)"
+2026-11-23T04:03:53.686867Z,scatter-providers,0.1.0,0,0,https://github.com/scatterbase/triplespace,"The provider registry: codes, slugs, numbers, type codes, ID grammars, IRI templates and ID rewriting"
+2026-11-23T04:04:18.301278Z,scatter-wikibase-model,0.1.0,0,0,https://github.com/scatterbase/triplespace,"The Wikibase data model: entities, statements, snaks and values, read from and written to Wikibase's canonical JSON, with Wikibase's own hashes recomputed"
+2026-11-23T04:04:49.181415Z,scatter-wikibase-ids,0.1.0,0,0,https://github.com/scatterbase/triplespace,"How Triplespace names Wikibase entities: value IRIs stored as entity IDs, and (in 0115 §13's second phase) the foreign, keyed and tenant-relative ID forms"
+2026-11-23T04:05:00.676579Z,codewhale-skills,0.10.3,0,0,https://github.com/codewhale-hq/CodeWhale,"Skill discovery, registry, mutation and bundled skills for Codewhale"
+2026-11-23T04:05:09.66708Z,scatter-wikibase-fusion,0.1.0,0,0,https://github.com/scatterbase/triplespace,"How Triplespace combines and indexes Wikibase statements: statement keys for fusion, the search document, and badges"
+2026-11-23T04:10:14.521542Z,dome,0.1.0,0,0,,game engine
+2026-11-23T04:13:54.612897Z,alock-rs,0.1.0,0,0,https://github.com/nabbi/alock-rs,X11 screen locker with software ARGB cursor and animated console theme
+2026-11-23T04:15:25.090277Z,codewhale-tui-kit,0.10.3,0,0,https://github.com/codewhale-hq/CodeWhale,"Terminal rendering kit for Codewhale: markdown, diff, text, scrolling, paste and link helpers."
+2026-11-23T04:18:17.64732Z,mcbtodo-domain,0.1.0,0,0,https://github.com/MCB-SMART-BOY/mcbtodo,"Core task, calendar, workflow, and graph domain types for mcbtodo."
+2026-11-23T04:18:26.832211Z,mcbtodo-workflow,0.1.0,0,0,https://github.com/MCB-SMART-BOY/mcbtodo,"Workflow compilation, traversal, and scheduling primitives for mcbtodo."
+2026-11-23T04:19:02.661725Z,mcbtodo-ports,0.1.0,0,0,https://github.com/MCB-SMART-BOY/mcbtodo,Stable business-facing ports for replaceable mcbtodo providers.
