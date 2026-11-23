@@ -8,35 +8,39 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-23 08:21 UTC
+## Latest list — 2026-11-23 09:21 UTC
 
-New crates published between 2026-11-23 07:21 UTC and 2026-11-23 08:21 UTC.
+New crates published between 2026-11-23 08:21 UTC and 2026-11-23 09:21 UTC.
 
-[Full CSV](data/new-crates-2026-11-23T08-21-50-311766Z.csv)
+[Full CSV](data/new-crates-2026-11-23T09-21-32-466168Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-23 07:22:02 | [horn-acoustics](https://crates.io/crates/horn-acoustics) | 0.1.0 | 0 | Outdoor acoustics calculations for train horns: geometrical divergence (ISO 961… |
-| 2026-11-23 07:22:07 | [irender-twin-kit](https://crates.io/crates/irender-twin-kit) | 0.8.1 | 0 | Digital twins for iRender documents: 3D worlds drawn with three.js from glTF, O… |
-| 2026-11-23 07:23:04 | [workyard](https://crates.io/crates/workyard) | 0.1.0 | 0 | Manage Git worktrees across repositories from a single task workspace |
-| 2026-11-23 07:23:50 | [ipsjdlfolio](https://crates.io/crates/ipsjdlfolio) | 0.1.0 | 0 | Read-only Rust SDK for IPSJ Digital Library bibliographic metadata |
-| 2026-11-23 07:31:57 | [Amdcheck](https://crates.io/crates/Amdcheck) | 0.1.0 | 0 | A minimal markdown link checker |
-| 2026-11-23 07:38:49 | [clicodemode](https://crates.io/crates/clicodemode) | 0.6.1 | 0 | Code Mode for Rust CLIs: register your commands as operations; agents run small… |
-| 2026-11-23 07:40:43 | [dkt](https://crates.io/crates/dkt) | 0.0.0 | 0 | Docket: run, route and record agent work. Placeholder; the real crate is coming. |
-| 2026-11-23 07:45:36 | [usagi-pkg](https://crates.io/crates/usagi-pkg) | 0.4.0 | 0 | Reader for Unreal Engine 2 package files |
-| 2026-11-23 07:46:25 | [smy695-hello](https://crates.io/crates/smy695-hello) | 0.1.0 | 0 | A simple hello world program in Rust |
-| 2026-11-23 07:46:44 | [usagi-io](https://crates.io/crates/usagi-io) | 0.4.0 | 0 | Exports Unreal Engine 2 package data to common file formats |
-| 2026-11-23 07:51:26 | [fnp-conformance](https://crates.io/crates/fnp-conformance) | 0.6.0 | 0 | Differential conformance harness: numpy oracle capture, fixtures, drift detecti… |
-| 2026-11-23 07:53:08 | [libsruman](https://crates.io/crates/libsruman) | 0.1.0 | 0 | Steam Linux Runtime manager: install and update runtimes, run native games in t… |
-| 2026-11-23 07:54:04 | [sruman](https://crates.io/crates/sruman) | 0.1.0 | 0 | Steam Linux Runtime manager: install and update runtimes, run native games in t… |
-| 2026-11-23 07:55:59 | [liquid-xml-objects-runtime](https://crates.io/crates/liquid-xml-objects-runtime) | 21.6.6 | 0 | Liquid XML Objects runtime for Rust: read and write XML as typed objects genera… |
-| 2026-11-23 07:59:37 | [lean-ctx-apps](https://crates.io/crates/lean-ctx-apps) | 3.12.7 | 0 | LeanCTX \| OSS apps on top of the Engine: the cockpit analysis (dashboard_pro). |
-| 2026-11-23 08:02:10 | [lean-ctx-cloud](https://crates.io/crates/lean-ctx-cloud) | 3.12.7 | 0 | The LeanCTX Cloud connector: enrollment, bus, knowledge sync, tasks and policy… |
-| 2026-11-23 08:05:22 | [emmy](https://crates.io/crates/emmy) | 0.0.0 | 0 | a computer algebra system |
-| 2026-11-23 08:07:35 | [hyperlark-core](https://crates.io/crates/hyperlark-core) | 0.0.0 | 0 | A placeholder. Hyperlark's core comes with Hyperlark Source; for the prebuilt p… |
-| 2026-11-23 08:09:24 | [sakai](https://crates.io/crates/sakai) | 0.1.0-alpha.1 | 0 | Read-only Linux cgroup v2 metrics with portable parsers and typed snapshots |
-| 2026-11-23 08:20:45 | [dmvs](https://crates.io/crates/dmvs) | 0.1.1 | 0 | Async high-level client for selected Czech ČÚZK DMVS SOAP services |
-| 2026-11-23 08:21:42 | [kaspa-r0-recursion-legacy](https://crates.io/crates/kaspa-r0-recursion-legacy) | 0.1.0 | 0 | Unsound legacy RISC Zero recursion circuit for Kaspa consensus compatibility on… |
+| 2026-11-23 08:23:31 | [ganggang](https://crates.io/crates/ganggang) | 0.1.0 | 0 | A small, sharp agentic harness in Rust: one agent loop, tools, and a TUI. |
+| 2026-11-23 08:25:35 | [vta-signing](https://crates.io/crates/vta-signing) | 0.1.0 | 0 | VTA signing core — Ed25519 and P-256 signatures, JWS and eddsa-jcs-2022 Data In… |
+| 2026-11-23 08:38:19 | [reqsign-crypto-rustcrypto](https://crates.io/crates/reqsign-crypto-rustcrypto) | 0.0.0 | 0 | Namespace reservation for a crate planned by Apache Reqsign. |
+| 2026-11-23 08:38:21 | [reqsign-aliyun-drive](https://crates.io/crates/reqsign-aliyun-drive) | 0.0.0 | 0 | Namespace reservation for a crate planned by Apache Reqsign. |
+| 2026-11-23 08:38:24 | [reqsign-b2](https://crates.io/crates/reqsign-b2) | 0.0.0 | 0 | Namespace reservation for a crate planned by Apache Reqsign. |
+| 2026-11-23 08:38:28 | [reqsign-baidu-netdisk](https://crates.io/crates/reqsign-baidu-netdisk) | 0.0.0 | 0 | Namespace reservation for a crate planned by Apache Reqsign. |
+| 2026-11-23 08:38:28 | [mojay](https://crates.io/crates/mojay) | 0.1.0 | 0 | Topics, partitions, offsets and consumer groups in a local folder, with no serv… |
+| 2026-11-23 08:38:30 | [ctopx](https://crates.io/crates/ctopx) | 0.1.12 | 0 | ctop-style container monitor with alert notifications (ntfy, Telegram, GNTP, we… |
+| 2026-11-23 08:38:30 | [mojay-cli](https://crates.io/crates/mojay-cli) | 0.1.0 | 0 | Command-line tool to inspect and manipulate a Mojay data folder |
+| 2026-11-23 08:38:31 | [reqsign-cloudflare](https://crates.io/crates/reqsign-cloudflare) | 0.0.0 | 0 | Namespace reservation for a crate planned by Apache Reqsign. |
+| 2026-11-23 08:39:23 | [inflight](https://crates.io/crates/inflight) | 0.1.1 | 0 | Stop a running computation at the safe points it chooses, and learn why it stop… |
+| 2026-11-23 08:47:11 | [reqsign-oauth2](https://crates.io/crates/reqsign-oauth2) | 0.0.0 | 0 | Namespace reservation for a crate planned by Apache Reqsign. |
+| 2026-11-23 08:48:54 | [rings-turn-service](https://crates.io/crates/rings-turn-service) | 1.0.0-pre.8 | 0 | External overlay service glue connecting rings-turn to rings-node DHT registrie… |
+| 2026-11-23 08:56:27 | [ontology-graph-spec](https://crates.io/crates/ontology-graph-spec) | 0.0.1 | 0 | Name placeholder for the Neo4j Ontology Graph Specification Rust library. The f… |
+| 2026-11-23 08:56:54 | [lsdocs-apidoc-rust](https://crates.io/crates/lsdocs-apidoc-rust) | 0.1.0 | 0 | First-party plugin documenting Rust crates from rustdoc's JSON output. |
+| 2026-11-23 08:57:10 | [reqsign-github](https://crates.io/crates/reqsign-github) | 0.0.0 | 0 | Namespace reservation for a crate planned by Apache Reqsign. |
+| 2026-11-23 09:04:15 | [ojas](https://crates.io/crates/ojas) | 0.3.0 | 0 | Cut the tokens AI coding agents spend on command output: filters, recoverable c… |
+| 2026-11-23 09:05:05 | [brokapi-redact](https://crates.io/crates/brokapi-redact) | 0.1.0-beta.1 | 0 | Best-effort account masking and JSON body scrubbing for logs and recorded fixtu… |
+| 2026-11-23 09:06:38 | [lsdocs-apidoc-typescript](https://crates.io/crates/lsdocs-apidoc-typescript) | 0.1.0 | 0 | First-party plugin documenting TypeScript APIs from their source code. |
+| 2026-11-23 09:07:11 | [reqsign-http-message-signatures](https://crates.io/crates/reqsign-http-message-signatures) | 0.0.0 | 0 | Namespace reservation for a crate planned by Apache Reqsign. |
+| 2026-11-23 09:08:37 | [gpui-fast-scheduler](https://crates.io/crates/gpui-fast-scheduler) | 0.1.19 | 0 | scheduler: GPUI with gpui-fast rendering and layout optimizations |
+| 2026-11-23 09:13:44 | [ic-db-cli](https://crates.io/crates/ic-db-cli) | 0.27.6 | 0 | Local fixture console for IC DB |
+| 2026-11-23 09:16:57 | [lsdocs-apidoc-python](https://crates.io/crates/lsdocs-apidoc-python) | 0.1.0 | 0 | First-party plugin documenting Python APIs from their source code. |
+| 2026-11-23 09:17:10 | [reqsign-koofr](https://crates.io/crates/reqsign-koofr) | 0.0.0 | 0 | Namespace reservation for a crate planned by Apache Reqsign. |
+| 2026-11-23 09:20:24 | [lsdocs-render-html](https://crates.io/crates/lsdocs-render-html) | 0.1.0 | 0 | First-party HTML renderer plugin. |
 
 ## Data source
 

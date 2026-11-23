@@ -1,0 +1,26 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-23T08:23:31.458971Z,ganggang,0.1.0,0,0,https://github.com/dairycow/ganggang,"A small, sharp agentic harness in Rust: one agent loop, tools, and a TUI."
+2026-11-23T08:25:35.095822Z,vta-signing,0.1.0,0,0,https://github.com/OpenVTC/verifiable-trust-infrastructure,"VTA signing core — Ed25519 and P-256 signatures, JWS and eddsa-jcs-2022 Data Integrity bytes, built in one place for the VTA and for anything that signs as it"
+2026-11-23T08:38:19.120243Z,reqsign-crypto-rustcrypto,0.0.0,0,0,https://github.com/apache/reqsign,Namespace reservation for a crate planned by Apache Reqsign.
+2026-11-23T08:38:21.760717Z,reqsign-aliyun-drive,0.0.0,0,0,https://github.com/apache/reqsign,Namespace reservation for a crate planned by Apache Reqsign.
+2026-11-23T08:38:24.912599Z,reqsign-b2,0.0.0,0,0,https://github.com/apache/reqsign,Namespace reservation for a crate planned by Apache Reqsign.
+2026-11-23T08:38:28.298998Z,reqsign-baidu-netdisk,0.0.0,0,0,https://github.com/apache/reqsign,Namespace reservation for a crate planned by Apache Reqsign.
+2026-11-23T08:38:28.831067Z,mojay,0.1.0,0,0,https://github.com/SachaCR/mojay,"Topics, partitions, offsets and consumer groups in a local folder, with no server: SQLite for Kafka"
+2026-11-23T08:38:30.128691Z,ctopx,0.1.12,0,0,,"ctop-style container monitor with alert notifications (ntfy, Telegram, GNTP, webhook), REST API and web UI"
+2026-11-23T08:38:30.420732Z,mojay-cli,0.1.0,0,0,https://github.com/SachaCR/mojay,Command-line tool to inspect and manipulate a Mojay data folder
+2026-11-23T08:38:31.382938Z,reqsign-cloudflare,0.0.0,0,0,https://github.com/apache/reqsign,Namespace reservation for a crate planned by Apache Reqsign.
+2026-11-23T08:39:23.594351Z,inflight,0.1.1,0,0,https://github.com/aai-institute/inflight,"Stop a running computation at the safe points it chooses, and learn why it stopped"
+2026-11-23T08:47:11.112078Z,reqsign-oauth2,0.0.0,0,0,https://github.com/apache/reqsign,Namespace reservation for a crate planned by Apache Reqsign.
+2026-11-23T08:48:54.419728Z,rings-turn-service,1.0.0-pre.8,0,0,https://github.com/RingsNetwork/rings,External overlay service glue connecting rings-turn to rings-node DHT registries and Sphinx invoke loops
+2026-11-23T08:56:27.606688Z,ontology-graph-spec,0.0.1,0,0,https://github.com/neo4j/ontology-graph-spec,Name placeholder for the Neo4j Ontology Graph Specification Rust library. The full implementation is developed and released from the linked repository; use any version greater than 0.0.1.
+2026-11-23T08:56:54.824275Z,lsdocs-apidoc-rust,0.1.0,0,0,https://github.com/lsdocs/lsdocs-apidoc-rust,First-party plugin documenting Rust crates from rustdoc's JSON output.
+2026-11-23T08:57:10.756224Z,reqsign-github,0.0.0,0,0,https://github.com/apache/reqsign,Namespace reservation for a crate planned by Apache Reqsign.
+2026-11-23T09:04:15.987306Z,ojas,0.3.0,0,0,https://github.com/Bishnup1995/ojas-kit,"Cut the tokens AI coding agents spend on command output: filters, recoverable compression, and lean response rules."
+2026-11-23T09:05:05.54905Z,brokapi-redact,0.1.0-beta.1,0,0,https://github.com/gnatovskie/brokapi,"Best-effort account masking and JSON body scrubbing for logs and recorded fixtures, shared by all brokapi crates"
+2026-11-23T09:06:38.264885Z,lsdocs-apidoc-typescript,0.1.0,0,0,https://github.com/lsdocs/lsdocs-apidoc-typescript,First-party plugin documenting TypeScript APIs from their source code.
+2026-11-23T09:07:11.148308Z,reqsign-http-message-signatures,0.0.0,0,0,https://github.com/apache/reqsign,Namespace reservation for a crate planned by Apache Reqsign.
+2026-11-23T09:08:37.832764Z,gpui-fast-scheduler,0.1.19,0,0,https://github.com/longbridge/gpui-fast,scheduler: GPUI with gpui-fast rendering and layout optimizations
+2026-11-23T09:13:44.12964Z,ic-db-cli,0.27.6,0,0,https://github.com/dragginzgame/ic-db,Local fixture console for IC DB
+2026-11-23T09:16:57.39961Z,lsdocs-apidoc-python,0.1.0,0,0,https://github.com/lsdocs/lsdocs-apidoc-python,First-party plugin documenting Python APIs from their source code.
+2026-11-23T09:17:10.984239Z,reqsign-koofr,0.0.0,0,0,https://github.com/apache/reqsign,Namespace reservation for a crate planned by Apache Reqsign.
+2026-11-23T09:20:24.921271Z,lsdocs-render-html,0.1.0,0,0,https://github.com/lsdocs/lsdocs-render-html,First-party HTML renderer plugin.
