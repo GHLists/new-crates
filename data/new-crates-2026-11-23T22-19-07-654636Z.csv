@@ -1,0 +1,31 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-23T21:23:53.228044Z,xray-gotatun,0.9.100,0,0,https://github.com/aimalygin/xray-rust,"A fork of gotatun 0.9.1, a userspace WireGuard implementation, with opt-in bounded device resources and zeroizing preshared keys."
+2026-11-23T21:28:12.417086Z,ce-stream-postgres,0.6.0,0,0,https://github.com/AxialDB/ce-stream,PostgreSQL logical replication change source for ce-stream
+2026-11-23T21:29:15.501327Z,binbun-ast,0.1.0,0,0,https://github.com/dmaivel/binbun,Typed syntax trees of binbun's decompiled functions.
+2026-11-23T21:29:35.048408Z,rpt-sdk,0.2.1,0,0,https://github.com/astr4liteEx/rpt,The Rust implementation of the rpt plugin protocol
+2026-11-23T21:31:24.267856Z,terminal-commander-codemode,0.4.0,0,0,https://github.com/special-place-ai-heaven/terminal-commander,Pure-Rust Monty Python 3.14-subset Code Mode sandbox and 60-op dispatcher for Terminal Commander.
+2026-11-23T21:31:29.278984Z,aurelin,0.3.3,0,0,https://github.com/AlextheYounga/aurelin.git,Aurelin is a Rust translation of Laravel
+2026-11-23T21:32:17.470073Z,mycelium-federation-client,9.1.0-rc.1,0,0,https://github.com/LepistaBioinformatics/mycelium,HTTP client the mycelium gateway uses to call peer instances (federation).
+2026-11-23T21:32:48.000903Z,fints-client-derive,0.1.0,0,0,https://github.com/cgrossde/fints-client,Derive macros for fints-client's declarative FinTS segment definitions
+2026-11-23T21:40:03.655303Z,binbun-print,0.1.0,0,0,https://github.com/dmaivel/binbun,"Prints binbun's decompiled functions as source code: C, with its binbun_defs.h header."
+2026-11-23T21:41:47.045685Z,grafta-bridge,0.6.0,0,0,https://github.com/n0ss4/grafta,"grafta's bridge to the files open in Figma: a WebSocket server on this computer alone, for grafta's panel."
+2026-11-23T21:46:22.669874Z,colors-rs,1.0.0,0,0,https://github.com/w1n4a/colors-rs,Simple color package for Rust
+2026-11-23T21:47:19.994879Z,kui-winit,0.30.13-kui.1,0,0,https://github.com/qxuken/kui,KUI's winit backend for UIKit window scenes and Android touch exploration.
+2026-11-23T21:49:41.092582Z,silverscript-core,1.0.2,0,0,https://github.com/kaspanet/silverscript,Shared core utilities for SilverScript crates
+2026-11-23T21:50:51.650388Z,binbun-sigpack,0.1.0,0,0,https://github.com/dmaivel/binbun,Signature packs that name statically linked library functions in stripped binaries.
+2026-11-23T21:57:57.924917Z,openengine,0.0.0-alpha.0,0,0,,Placeholder for soon-to-be-published crate
+2026-11-23T22:01:50.477505Z,binbun-typedb,0.1.0,0,0,https://github.com/dmaivel/binbun,"Declarations of library functions and types, with their sources, for binbun's analyses."
+2026-11-23T22:03:36.516755Z,thru-ledger,0.5.3,0,0,https://github.com/Unto-Labs/thru,"Ledger hardware-wallet signer for the Thru blockchain: APDU protocol, HID and Speculos transports, and a thru-base Signer implementation."
+2026-11-23T22:03:36.795639Z,rust-args-parser-derive,0.1.0,0,0,https://github.com/milchinskiy/rust-args-parser,Implementation of rust-args-parser's optional derive feature
+2026-11-23T22:12:06.886586Z,opportune,0.1.0,0,0,https://github.com/AZX-PBC-OSS/opportune,Calendar availability and scheduling calculations across constraints.
+2026-11-23T22:12:17.844962Z,opportune-json,0.1.0,0,0,https://github.com/AZX-PBC-OSS/opportune,"Wire types, validating conversions, schema and upgrade for the opportune engine."
+2026-11-23T22:12:26.610574Z,opportune-adapters,0.1.0,0,0,https://github.com/AZX-PBC-OSS/opportune,Graph and Google calendar conversions into opportune domain types.
+2026-11-23T22:12:41.085655Z,binbun-typeinfer,0.1.0,0,0,https://github.com/dmaivel/binbun,Type inference for machine code by algebraic subtyping (BinSub).
+2026-11-23T22:15:34.575492Z,llama-cpp-error-chain,0.30.0,0,0,https://github.com/intentee/llama-cpp-bindings,Renders an error together with every error in its source chain as one line
+2026-11-23T22:15:36.327536Z,llama-cpp-path-c-string,0.30.0,0,0,https://github.com/intentee/llama-cpp-bindings,Converts a filesystem path into the C string llama.cpp takes a path as
+2026-11-23T22:15:36.663997Z,llama-cpp-token-usage,0.30.0,0,0,https://github.com/intentee/llama-cpp-bindings,"Token accounting for llama.cpp generations: prompt, cached, multimodal and generated token counts"
+2026-11-23T22:15:48.109672Z,llama-cpp-native,0.30.0,0,0,https://github.com/intentee/llama-cpp-bindings,"llama.cpp built from its sources with CMake, the native library llama-cpp-bindings-sys links against"
+2026-11-23T22:15:54.011681Z,llama-cpp-backend,0.30.0,0,0,https://github.com/intentee/llama-cpp-bindings,"The process-global llama.cpp runtime: initialization, NUMA, compute devices, dynamic backend loading and log routing"
+2026-11-23T22:17:32.825997Z,checkhealth,0.2.0-rc.1,0,0,https://github.com/pirafrank/checkhealth,"Check your toolbelt, or your AI agent's sandbox, for necessary tools."
+2026-11-23T22:17:51.240921Z,fm1-usb,0.2.0-rc.0,0,0,https://github.com/fm1-rust/fm1-rust,"Host-side USB discovery, MIDI and log snapshots for the M-VAVE FM-1"
+2026-11-23T22:18:21.724114Z,fm1-cli,0.2.0-rc.0,0,0,https://github.com/fm1-rust/fm1-rust,Read M-VAVE FM-1 logs and timing reports over USB-MIDI
