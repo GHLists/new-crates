@@ -1,0 +1,44 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-23T09:23:07.995212Z,lsdocs-apidoc-clang,0.1.0,0,0,https://github.com/lsdocs/lsdocs-apidoc-clang,First-party plugins documenting C and C++ APIs with libclang.
+2026-11-23T09:23:27.375802Z,sori-mp3-core,0.1.0,0,0,https://github.com/p14jeffwest/sori-mp3-decoder,"Building blocks of the sori-mp3 MP3 (MPEG-1/2/2.5 Layer III) decoder: frame header, frame sync, side info, ISO tables, Huffman decoding, Xing/LAME tags, frame-accurate cut planning. Pure Rust, no_std…"
+2026-11-23T09:24:48.469322Z,tg-rich-convert,0.1.0,0,0,https://codeberg.org/zxcdiana/tg-rich-convert,Convert Telegram text messages into `RichText` and `RichBlock`s
+2026-11-23T09:25:09.198094Z,tsdir,0.4.0,0,0,https://github.com/opencode/tsdir,Create directories with timestamp suffix for sandbox experiments
+2026-11-23T09:25:12.027157Z,sori-mp3-dec,0.1.0,0,0,https://github.com/p14jeffwest/sori-mp3-decoder,"Pure-Rust MP3 (MPEG-1/2/2.5 Layer III) decoder: ISO/IEC 11172-4 full-accuracy output, gapless, seeking, push and pull streaming. no_std, optional heap-free build, no dependencies, no unsafe."
+2026-11-23T09:27:10.874391Z,reqsign-seafile,0.0.0,0,0,https://github.com/apache/reqsign,Namespace reservation for a crate planned by Apache Reqsign.
+2026-11-23T09:35:23.425513Z,thirtysftp,0.1.0,0,0,https://github.com/thirtyfile/ThirtySFTP,Asynchronous SFTP client and server library for Tokio
+2026-11-23T09:37:10.237763Z,reqsign-upyun,0.0.0,0,0,https://github.com/apache/reqsign,Namespace reservation for a crate planned by Apache Reqsign.
+2026-11-23T09:39:43.360703Z,lsdocs-host,0.1.0,0,0,https://github.com/lsdocs/lsdocs,"Plugin registry, supervision, build pipeline and cache."
+2026-11-23T09:40:24.119252Z,lsdocs,0.1.0,0,0,https://github.com/lsdocs/lsdocs,The lsdocs command-line interface.
+2026-11-23T09:43:22.767867Z,ohos-audio-binding,0.1.0,0,0,,Safe Rust bindings for OpenHarmony OHAudio (AudioRenderer and AudioSessionManager)
+2026-11-23T09:43:36.185742Z,ohos-multi-modal-input-binding,0.1.0,0,0,,"Safe Rust bindings for OpenHarmony multimodal InputKit (hotkeys, pointer styles, key state)"
+2026-11-23T09:45:42.116252Z,kunenbo,0.1.0,0,0,https://github.com/ai-implementer/setoka,"Safe writes into an output directory: relative path validation, symlink checks along the path, write-if-changed, atomic replace, and orphan cleanup that is safe on case-insensitive file systems"
+2026-11-23T09:47:11.003681Z,reqsign-vercel,0.0.0,0,0,https://github.com/apache/reqsign,Namespace reservation for a crate planned by Apache Reqsign.
+2026-11-23T09:48:51.331621Z,levelo-windows,0.0.1,0,0,https://github.com/levelojs/LeveloJS,Official Windows native runtime and renderer backend for LeveloJS (Pre-release)
+2026-11-23T09:51:32.162723Z,velox-engine,0.1.0,0,0,https://github.com/cnwzhu/velox,"Velox core UI engine: arena, pod state, 1D fixed-point layout solver, damage tracker, SDF scanline rasterizer, and cross-platform GPU/software backends"
+2026-11-23T09:51:34.267231Z,velox-async,0.1.0,0,0,https://github.com/cnwzhu/velox,"Feature-gated async scheduler adapters for Velox UI (tokio, smol)"
+2026-11-23T09:51:36.095413Z,velox-base,0.1.0,0,0,https://github.com/cnwzhu/velox,"Headless component behaviors, state structures, navigation/virtual-list primitives, and minimal unstyled base widgets for Velox"
+2026-11-23T09:51:38.336677Z,velox-component,0.1.0,0,0,https://github.com/cnwzhu/velox,Themed and styled zero-allocation UI component library built on velox-engine and velox-base
+2026-11-23T09:51:40.30411Z,velox-kit,0.1.0,0,0,https://github.com/cnwzhu/velox,"The one crate applications depend on — unified facade re-exporting velox-engine, velox-base, and velox-component"
+2026-11-23T09:52:48.032576Z,fushimi,0.1.0,0,0,https://github.com/mattiasgronlund/fushimi,A Rust implementation of interval arithmetic
+2026-11-23T09:54:55.685998Z,minted-macros,0.0.1,0,0,https://github.com/dennorak/minted,"Macros for the `minted` crate, providing procedural macros for serialization, deserialization, and other utilities related to the MINT format."
+2026-11-23T09:54:57.405917Z,minted,0.0.1,0,0,https://github.com/dennorak/minted,"A Rust library for creating and working with the MINT format. Provides serialization and deserialization of MINT data structures, as well as utilities for working with MINT data in Rust applications."
+2026-11-23T09:57:10.888621Z,reqsign-yandex-disk,0.0.0,0,0,https://github.com/apache/reqsign,Namespace reservation for a crate planned by Apache Reqsign.
+2026-11-23T09:58:57.568971Z,pikopiko-textgen,0.1.0,0,0,https://github.com/lovelygenerator/pikopiko,Build-time helper for pikopiko: turns the crate's Fluent (.ftl) messages into static tables.
+2026-11-23T09:59:02.102092Z,pikopiko-runtime,0.1.0,0,0,https://github.com/lovelygenerator/pikopiko,"no_std, heap-free runtime for pikopiko: synth trait, event-binary sequencer, effects and built-in synths (AY-3-8912, buzzer, sfx)."
+2026-11-23T09:59:09.82009Z,pikopiko,0.1.0,0,0,https://github.com/lovelygenerator/pikopiko,"MML parser, compiler and chiptune player for games, with diagnostics designed for tools and AI."
+2026-11-23T09:59:13.24885Z,pikopiko-visualizer,0.1.0,0,0,https://github.com/lovelygenerator/pikopiko,"Audio visualizer math: spectrum bars, bass pulse, level meter and oscilloscope trigger. No drawing, no UI dependencies."
+2026-11-23T09:59:26.198945Z,pikopiko-cli,0.1.0,0,0,https://github.com/lovelygenerator/pikopiko,"Command-line tool and MCP server to check, inspect, render and play MML with pikopiko."
+2026-11-23T10:01:24.079469Z,pikopiko-wasm,0.1.0,0,0,https://github.com/lovelygenerator/pikopiko,"JavaScript / WebAssembly bindings for pikopiko: compile MML, get diagnostics, and render audio blocks for an AudioWorklet."
+2026-11-23T10:03:43.597749Z,herdrify-hc,0.1.0,0,0,https://github.com/rstlix0x0/herdrify,Async client for herdr-core: JSON-RPC over hc connect.
+2026-11-23T10:07:10.875081Z,reqsign-dropbox,0.0.0,0,0,https://github.com/apache/reqsign,Namespace reservation for a crate planned by Apache Reqsign.
+2026-11-23T10:09:49.296572Z,tessera-rl-pyffi,0.3.0,0,0,https://github.com/joaquinbejar/tessera-rl,The CPython boundary shared by Tessera's Python extensions (experimental)
+2026-11-23T10:10:33.169506Z,sc-agent,0.4.0,0,0,https://github.com/randlee/sc-agent,"Synchronous decision requests, provider selection, configuration, credentials and session logging."
+2026-11-23T10:13:33.169945Z,model-ffi,0.5.0,0,0,https://github.com/badetitou/Model,C ABI over a frozen Model: flat columns for foreign importers (Pharo UFFI...)
+2026-11-23T10:13:58.045588Z,komainu-domain,0.1.0-alpha.1,0,0,https://github.com/ryoshrimp/komainu,Domain model of the komainu OAuth 2.0 authorization server
+2026-11-23T10:14:00.542187Z,komainu-application,0.1.0-alpha.1,0,0,https://github.com/ryoshrimp/komainu,Use cases and ports of the komainu OAuth 2.0 authorization server
+2026-11-23T10:14:02.218994Z,komainu-adapter-std,0.1.0-alpha.1,0,0,https://github.com/ryoshrimp/komainu,"Clock, CSPRNG and password hashing adapters for komainu"
+2026-11-23T10:14:03.019426Z,komainu-testkit,0.1.0-alpha.1,0,0,https://github.com/ryoshrimp/komainu,In-memory adapters and store conformance tests for komainu
+2026-11-23T10:14:04.892751Z,komainu-adapter-postgres,0.1.0-alpha.1,0,0,https://github.com/ryoshrimp/komainu,PostgreSQL adapter for komainu
+2026-11-23T10:16:06.506666Z,komainu-http,0.1.0-alpha.1,0,0,https://github.com/ryoshrimp/komainu,HTTP endpoints and screens of the komainu authorization server
+2026-11-23T10:17:10.619864Z,reqsign-onedrive,0.0.0,0,0,https://github.com/apache/reqsign,Namespace reservation for a crate planned by Apache Reqsign.
+2026-11-23T10:18:39.41884Z,pod-beneath,0.0.0,0,0,https://github.com/PodUtils/podcrates,"No-std, no-alloc openat2 host path guard with RESOLVE_BENEATH and RESOLVE_NO_SYMLINKS"
