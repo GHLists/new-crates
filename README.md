@@ -8,33 +8,33 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-23 02:18 UTC
+## Latest list — 2026-11-23 03:19 UTC
 
-New crates published between 2026-11-23 01:19 UTC and 2026-11-23 02:18 UTC.
+New crates published between 2026-11-23 02:18 UTC and 2026-11-23 03:19 UTC.
 
-[Full CSV](data/new-crates-2026-11-23T02-18-32-393528Z.csv)
+[Full CSV](data/new-crates-2026-11-23T03-19-11-187304Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-23 01:19:53 | [nibkeep-node](https://crates.io/crates/nibkeep-node) | 0.1.0 | 0 | The NibKeep engine: everything an app needs to work with a library |
-| 2026-11-23 01:25:37 | [snekot-events](https://crates.io/crates/snekot-events) | 0.3.1 | 0 | Post product events, identify users and set insights with Snekot. |
-| 2026-11-23 01:26:22 | [rustyphoenixmandelbrot](https://crates.io/crates/rustyphoenixmandelbrot) | 3.0.0 | 0 | Mandelbrot set solver in Rust as an example of an interface package in Rust. |
-| 2026-11-23 01:28:04 | [ag-core](https://crates.io/crates/ag-core) | 0.0.1 | 0 | A library to be used to make unified todo managers |
-| 2026-11-23 01:29:36 | [bantam-audio-codec](https://crates.io/crates/bantam-audio-codec) | 0.1.1 | 0 | BAC, the Bantam Audio Codec: a voice codec and labelled audio format (transcrip… |
-| 2026-11-23 01:29:49 | [nibkeep](https://crates.io/crates/nibkeep) | 0.1.0 | 0 | NibKeep under one name: the engine, and the crates whose types its API speaks in |
-| 2026-11-23 01:36:32 | [lowp](https://crates.io/crates/lowp) | 0.1.0 | 0 | Lightweight software floats for low-precision formats |
-| 2026-11-23 01:39:47 | [nibkeep-git](https://crates.io/crates/nibkeep-git) | 0.1.0 | 0 | The person's own Git, run for the repositories in NibKeep's trees, which the en… |
-| 2026-11-23 01:46:12 | [tc_ec_key](https://crates.io/crates/tc_ec_key) | 0.1.0 | 0 | Elliptic-curve keys after Bouncy Castle: private and public keys and the key-pa… |
-| 2026-11-23 01:49:48 | [nibkeep-import](https://crates.io/crates/nibkeep-import) | 0.1.0 | 0 | Importers for NibKeep, such as of Google Takeout's archives, on the engine's pu… |
-| 2026-11-23 02:00:15 | [nibkeep-passwords](https://crates.io/crates/nibkeep-passwords) | 0.1.0 | 0 | Handling passwords: the password generator, one-time codes, and copying secrets… |
-| 2026-11-23 02:00:47 | [prometheus-scrape-parser-rs](https://crates.io/crates/prometheus-scrape-parser-rs) | 0.1.0 | 0 | A parser for the two Prometheus exposition formats — classic text and delimited… |
-| 2026-11-23 02:01:15 | [sellaite](https://crates.io/crates/sellaite) | 0.1.0 | 0 | A desktop and an input seat of its own for an AI computer-use agent |
-| 2026-11-23 02:04:49 | [tc_signer](https://crates.io/crates/tc_signer) | 0.1.0 | 0 | Shared contracts for digital signatures, after Bouncy Castle's ISigner and ISig… |
-| 2026-11-23 02:08:44 | [wholeshebang](https://crates.io/crates/wholeshebang) | 0.0.1 | 0 | Everything your CLI needs: the umbrella crate for the Whole Shebang terminal li… |
-| 2026-11-23 02:09:57 | [nibkeep-cli](https://crates.io/crates/nibkeep-cli) | 0.1.0 | 0 | nib, the generic command-line tool for NibKeep |
-| 2026-11-23 02:10:42 | [svcc-equiv](https://crates.io/crates/svcc-equiv) | 0.1.0 | 0 | Formal SMT-LIB2 (Z3 QF_BV) CRV, SVA BMC, Btor2 Sequential Equivalence (SEC/C2RT… |
-| 2026-11-23 02:10:53 | [svcc](https://crates.io/crates/svcc) | 0.1.0 | 0 | Bidirectional IEEE 1800-2023 SystemVerilog <-> C++17 SystemC/UVM compiler, SDK,… |
-| 2026-11-23 02:16:50 | [muscx](https://crates.io/crates/muscx) | 0.1.0 | 0 | A Vim-inspired OpenSubsonic music terminal |
+| 2026-11-23 02:23:11 | [grawlix](https://crates.io/crates/grawlix) | 0.0.1 | 0 | What your program shows when it swears: panic and error reports that are easy t… |
+| 2026-11-23 02:26:15 | [shikuwasa](https://crates.io/crates/shikuwasa) | 0.1.0 | 0 | Safe YAML loading with byte positions: alias expansion limit, duplicate-key det… |
+| 2026-11-23 02:27:54 | [rust-cordis-sdk](https://crates.io/crates/rust-cordis-sdk) | 0.1.3 | 0 | Cordis 插件 SDK 门面：typed 服务/事件/配置的过程宏与运行时胶水（M6） |
+| 2026-11-23 02:40:11 | [tilewright-ui](https://crates.io/crates/tilewright-ui) | 0.1.0 | 0 | Headless shared widget and text interaction for Tilewright |
+| 2026-11-23 02:40:13 | [tilewright-app](https://crates.io/crates/tilewright-app) | 0.1.0 | 0 | Host-neutral application coordination for Tilewright UI |
+| 2026-11-23 02:40:14 | [tilewright-ui-render](https://crates.io/crates/tilewright-ui-render) | 0.1.0 | 0 | Tilewright renderer adapter for shared UI widgets |
+| 2026-11-23 02:50:21 | [impeccable](https://crates.io/crates/impeccable) | 0.2.0 | 0 | Sets up, checks, and runs the verification tools the impeccable-rust agent skil… |
+| 2026-11-23 02:56:25 | [fontgres-core](https://crates.io/crates/fontgres-core) | 0.1.0 | 0 | In-memory font database with CSS-like queries, forked from fontdb |
+| 2026-11-23 02:56:39 | [fontgres-cli](https://crates.io/crates/fontgres-cli) | 0.1.0 | 0 | Query installed fonts from the terminal |
+| 2026-11-23 02:57:04 | [fontgres-mcp](https://crates.io/crates/fontgres-mcp) | 0.1.0 | 0 | Model Context Protocol server for querying installed fonts |
+| 2026-11-23 02:57:22 | [inferno-rs](https://crates.io/crates/inferno-rs) | 0.1.0 | 0 | A Rust machine-learning library with tensors, autograd, VAEs and Gaussian proce… |
+| 2026-11-23 02:57:30 | [triq-snarl](https://crates.io/crates/triq-snarl) | 0.2.0 | 0 | Node graphs for egui, as triq's workbench draws its graph: egui-snarl, ported t… |
+| 2026-11-23 02:57:35 | [triq-workbench](https://crates.io/crates/triq-workbench) | 0.2.0 | 0 | See the runtimes on this machine as a graph, and rewire them |
+| 2026-11-23 03:05:33 | [ede](https://crates.io/crates/ede) | 0.1.0 | 0 | A terminal text editor for macOS and Linux |
+| 2026-11-23 03:07:39 | [aibirthday](https://crates.io/crates/aibirthday) | 0.1.0 | 0 | AI birthday video generator from a single photo: they pop champagne on a park b… |
+| 2026-11-23 03:07:52 | [nsh-graph](https://crates.io/crates/nsh-graph) | 0.1.0 | 0 | An interactive network graph view for Native Shell (NSH): TSX components with t… |
+| 2026-11-23 03:11:12 | [chafernet](https://crates.io/crates/chafernet) | 0.0.1 | 0 | Authenticated, encrypted, timestamped tokens using XChaCha20-Poly1305, for Pyth… |
+| 2026-11-23 03:11:17 | [legume-cell-pseudobulk](https://crates.io/crates/legume-cell-pseudobulk) | 0.1.0 | 0 | Cell and pseudobulk data contracts for legume tools: count streams and multilev… |
+| 2026-11-23 03:11:28 | [solana-vote-keys](https://crates.io/crates/solana-vote-keys) | 0.0.0 | 0 | reserved for future use |
 
 ## Data source
 
