@@ -1,0 +1,50 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-23T00:20:18.392388Z,nibkeep-sync,0.1.0,0,0,https://github.com/nibkeep/nibkeep,"How NibKeep replicas pair and sync their spaces, without I/O"
+2026-11-23T00:22:33.416847Z,svcc-front-sv,0.1.0,0,0,https://github.com/mayurkubavat/svcc,IEEE 1800-2023 SystemVerilog & IEEE 1800.2 UVM front-end lowering svlang CST/semantic models into svcc-ir
+2026-11-23T00:24:50.185319Z,familiar-net,0.2.0,0,0,https://github.com/SpiraMirabilis/familiar,"Async TCP/TLS connections for MU* clients, with telnet, MCCP2 and character encodings"
+2026-11-23T00:25:20.057628Z,exedev,0.1.0,0,0,https://github.com/boldsoftware/exe-sdk-rust,"Official Rust SDK for exe.dev: create VMs, run commands on them, and run every exe.dev command"
+2026-11-23T00:25:31.987659Z,lsdocs-apidoc,0.1.0,0,0,https://github.com/lsdocs/lsdocs-apidoc,"A language-neutral model of API documentation: items, signatures, doc comment sections and name resolution."
+2026-11-23T00:25:45.029093Z,lsdocs-apidoc-plugin,0.1.0,0,0,https://github.com/lsdocs/lsdocs-apidoc,"The lsdocs plugin side of API documentation: generated pages, domain directives and roles, for language packages to build on."
+2026-11-23T00:29:47.860535Z,nibkeep-net,0.1.0,0,0,https://github.com/nibkeep/nibkeep,"Connections between NibKeep replicas on the home network, through iroh"
+2026-11-23T00:30:46.509264Z,idenumbra-std,0.1.0-beta.2,0,0,https://github.com/ailuracollective/idenumbra,Orchestrator for country identification validators
+2026-11-23T00:31:12.271717Z,idenumbra,0.1.0-beta.2,0,0,https://github.com/ailuracollective/idenumbra,CLI for installing idenumbra validators into a project (shadcn-style codegen)
+2026-11-23T00:32:42.367759Z,svcc-emit-sv,0.1.0,0,0,https://github.com/mayurkubavat/svcc,IEEE 1800-2023 SystemVerilog & IEEE 1800.2-2020 UVM backend emitter (optional svlang self-verification)
+2026-11-23T00:33:19.476073Z,rainbow_harmony_core,1.0.0,0,0,https://github.com/jwkunz/rainbow_harmony,"Note and chord parsing, progressions, and additive synthesis for the rainbow_harmony synthesizer"
+2026-11-23T00:35:15.896057Z,familiar-import,0.2.0,0,0,https://github.com/SpiraMirabilis/familiar,Imports BeipMU's Config.txt and .atlas maps for the Familiar MU* client
+2026-11-23T00:36:19.147099Z,rainbow_harmony,1.0.0,0,0,https://github.com/jwkunz/rainbow_harmony,"A command-line musical synthesizer that plays notes, chords, and progressions through your audio output"
+2026-11-23T00:36:46.610203Z,depfence,0.0.2,0,0,https://github.com/romnn/depfence,Checks dependency-graph rules against the resolved package graph
+2026-11-23T00:40:18.488754Z,nibkeep-std,0.1.0,0,0,https://github.com/nibkeep/nibkeep,"The standard vocabulary of NibKeep: types for everyday subjects, which spaces install"
+2026-11-23T00:41:44.017189Z,abi_safe_enum_macros,0.9.1,0,0,https://github.com/prettygoodcapital/finance-enums,Attribute macro behind the abi_safe_enum crate
+2026-11-23T00:41:45.748168Z,abi_safe_enum,0.9.1,0,0,https://github.com/prettygoodcapital/finance-enums,"Fieldless Rust enums with stable, explicit ordinals for C ABI and FFI boundaries"
+2026-11-23T00:41:47.426279Z,finance_enums_core,0.0.0,0,0,https://github.com/prettygoodcapital/finance-enums,Standard financial enumerations
+2026-11-23T00:41:48.540644Z,era_data,0.1.0,0,0,https://github.com/jayvdb/era_data,"The ERA journal and conference lists and the ANZSRC classifications, as an RDF graph"
+2026-11-23T00:41:49.420806Z,finance_enums_capi,0.0.0,0,0,https://github.com/prettygoodcapital/finance-enums,C ABI for finance-enums
+2026-11-23T00:43:32.649901Z,verd,1.8.2,0,0,https://github.com/teamverd/verdigris,"A simple, fast web server and reverse proxy: static files, TLS/ACME, caching, and load balancing in one static binary."
+2026-11-23T00:45:43.227932Z,familiar-engine,0.2.0,0,0,https://github.com/SpiraMirabilis/familiar,"UI-independent session engine for the Familiar MU* client: triggers, aliases, GMCP, MCP 2.1, logs and maps"
+2026-11-23T00:47:05.314748Z,mzizi-cli,0.14.0,0,0,https://github.com/mzizi-dev/mzizi-cli,"The Mzizi CLI: `mzizi add` installs registry components from api.mzizi.dev, plus check, explore and the fundi plan agent."
+2026-11-23T00:50:14.128385Z,nibkeep-sqlite-vfs,0.1.0,0,0,https://github.com/nibkeep/nibkeep,Lets a VFS written in safe Rust serve SQLite
+2026-11-23T00:56:03.393853Z,necoherence-http-adapter,0.3.0,0,0,https://github.com/barineco/necoherence,HTTP host adapter for necoherence
+2026-11-23T00:56:10.25323Z,familiar-script,0.2.0,0,0,https://github.com/SpiraMirabilis/familiar,"QuickJS scripting host for the Familiar MU* client, including a BeipMU-compatible API"
+2026-11-23T00:56:15.223629Z,necoherence-generator,0.3.0,0,0,https://github.com/barineco/necoherence,Code generation tools for necoherence
+2026-11-23T00:56:26.230458Z,necoherence-solver,0.3.0,0,0,https://github.com/barineco/necoherence,Typed transition model solver for necoherence
+2026-11-23T00:56:48.022897Z,necoherence-composition-solver,0.3.0,0,0,https://github.com/barineco/necoherence,Composition search for necoherence
+2026-11-23T01:00:21.266432Z,nibkeep-store,0.1.0,0,0,https://github.com/nibkeep/nibkeep,Keeps the spaces of a NibKeep device on disk
+2026-11-23T01:02:02.139072Z,rastcp,1.0.0,0,0,https://github.com/milen-denev/rasterizeddb,"RasterizedDB's native transport: framed, multiplexed requests over TLS or unix sockets, with pluggable authentication"
+2026-11-23T01:02:06.021942Z,rasterizeddb_client_derive,1.0.0,0,0,https://github.com/milen-denev/rasterizeddb,"#[derive(Model)], #[derive(FromRow)] and #[derive(SqlEnum)] for rasterizeddb_client"
+2026-11-23T01:02:12.313571Z,rasterizeddb_client,1.0.0,0,0,https://github.com/milen-denev/rasterizeddb,A client SDK and ORM for RasterizedDB's native protocol that does not compile the engine
+2026-11-23T01:02:17.765257Z,fuxx-completes-core,0.1.0,0,0,https://github.com/fitzfitz/fuxx-completes,The shared engine for fuxx-autosuggestions and fuxx-autocomplete
+2026-11-23T01:02:20.390056Z,fuxx-autosuggestions,0.1.0,0,0,https://github.com/fitzfitz/fuxx-completes,"Ghost-text suggestions for the shell prompt, from your past commands"
+2026-11-23T01:02:23.191109Z,fuxx-completes,0.1.0,0,0,https://github.com/fitzfitz/fuxx-completes,The fuxx-completes binary: the core and its libraries behind one command
+2026-11-23T01:02:40.306182Z,regol-overpass,0.3.0,0,0,https://github.com/regol-gis/regol,Compile and evaluate a bounded subset of Overpass QL on GeoDesk GOL files
+2026-11-23T01:06:41.111894Z,familiar-gtk,0.2.0,0,0,https://github.com/SpiraMirabilis/familiar,"Familiar: a GTK 4 client for MUDs, MUSHes, MUCKs and MOOs"
+2026-11-23T01:09:12.415907Z,set-reconciliation,0.1.0,0,0,https://github.com/Tandem-Kayak/set-reconciliation,Fast set reconciliation (Rateless IBLT) for fixed- and variable-length elements: find the symmetric difference of two remote sets in bytes proportional to the difference
+2026-11-23T01:10:15.385125Z,nibkeep-thumbnails,0.1.0,0,0,https://github.com/nibkeep/nibkeep,"Thumbnails of pictures for NibKeep, made with decoders in memory-safe Rust"
+2026-11-23T01:11:03.384612Z,sorcerer-core,0.1.0,0,0,https://github.com/sorcererdev/sorcerer,"Sorcerer's core: projects, config, languages, units, store, ledger, fences"
+2026-11-23T01:11:04.358604Z,sorcerer-lsp,0.1.0,0,0,https://github.com/sorcererdev/sorcerer,"Sorcerer's language-server host: the connection, delayed jobs and the senders a product's server uses"
+2026-11-23T01:11:04.940155Z,sorcerer-models,0.1.0,0,0,https://github.com/sorcererdev/sorcerer,"Sorcerer's models: providers, researchers, the Jev decider, the claim checker"
+2026-11-23T01:11:06.549737Z,sorcerer-conjure,0.1.0,0,0,https://github.com/sorcererdev/sorcerer,"Conjure: writes one small change where you ask, in your editor"
+2026-11-23T01:11:07.237434Z,sorcerer-scry,0.1.0,0,0,https://github.com/sorcererdev/sorcerer,Scry: a code reviewer that finds what a change gets wrong
+2026-11-23T01:12:16.006648Z,tc_drbg,0.1.0,0,0,https://github.com/TomiCheng/tc_crypto,"NIST SP 800-90A deterministic random bit generators: HMAC_DRBG, Hash_DRBG and AES CTR_DRBG, after Bouncy Castle's SP800 DRBGs, with no allocator."
+2026-11-23T01:15:11.047077Z,tokamak-auth,0.0.1,0,0,,A FusionAuth API client.
+2026-11-23T01:15:53.550295Z,lacrymira-mock,0.2.0,0,0,https://github.com/celestia-island/lacrymira,In-process mock executor for lacrymira — queued replies plus a statement log
+2026-11-23T01:17:17.048784Z,familiar-tui,0.2.0,0,0,https://github.com/SpiraMirabilis/familiar,"Familiar: a terminal client for MUDs, MUSHes, MUCKs and MOOs"

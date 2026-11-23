@@ -8,65 +8,63 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-23 00:19 UTC
+## Latest list — 2026-11-23 01:19 UTC
 
-New crates published between 2026-11-22 23:18 UTC and 2026-11-23 00:19 UTC.
+New crates published between 2026-11-23 00:19 UTC and 2026-11-23 01:19 UTC.
 
-[Full CSV](data/new-crates-2026-11-23T00-19-21-974269Z.csv)
+[Full CSV](data/new-crates-2026-11-23T01-19-50-296687Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-22 23:19:47 | [mzizi-lang-compiler](https://crates.io/crates/mzizi-lang-compiler) | 0.18.0 | 0 | The Mzizi compiler, `mz` (Phase 0 prototype): lexer, recovering parser, name an… |
-| 2026-11-22 23:21:19 | [sendproof-elasticsearch](https://crates.io/crates/sendproof-elasticsearch) | 0.1.0-alpha.1 | 0 | Elasticsearch and OpenSearch write guard for Sendproof: a Preview reads the clu… |
-| 2026-11-22 23:21:59 | [sv-sva](https://crates.io/crates/sv-sva) | 0.5.1 | 0 | IEEE 1800-2023 SVA sequence and property binding into typed temporal IR (svlang) |
-| 2026-11-22 23:22:50 | [neco-quotient-application](https://crates.io/crates/neco-quotient-application) | 0.1.0 | 0 | 鍵による有限の表で商上の適用を行い、範囲の外の入力には residual を返す |
-| 2026-11-22 23:25:27 | [nya_filez](https://crates.io/crates/nya_filez) | 0.1.0 | 0 | Hello :3 |
-| 2026-11-22 23:27:06 | [agent86-ui](https://crates.io/crates/agent86-ui) | 1.2.0 | 0 | A2UI 1.0 for Rust: message types, catalogs, and validation of agent-generated UI |
-| 2026-11-22 23:29:47 | [nibkeep-base](https://crates.io/crates/nibkeep-base) | 0.1.0 | 0 | Identifiers, hashes and the canonical CBOR encoding of NibKeep |
-| 2026-11-22 23:29:53 | [nibkeep-crypto](https://crates.io/crates/nibkeep-crypto) | 0.1.0 | 0 | Keys, encrypted envelopes, passphrases, signatures and post-quantum key exchang… |
-| 2026-11-22 23:29:56 | [nibkeep-time](https://crates.io/crates/nibkeep-time) | 0.1.0 | 0 | Fuzzy dates, time travel and hybrid logical clocks for NibKeep |
-| 2026-11-22 23:30:03 | [nibkeep-model](https://crates.io/crates/nibkeep-model) | 0.1.0 | 0 | Entities, statements, qualifiers and types for NibKeep |
-| 2026-11-22 23:30:06 | [nibkeep-drives](https://crates.io/crates/nibkeep-drives) | 0.1.0 | 0 | The physical drives under a volume, named by their partition tables, as Windows… |
-| 2026-11-22 23:31:47 | [svcc-ir](https://crates.io/crates/svcc-ir) | 0.1.0 | 0 | Core 6-dialect arena IR and extension traits for bidirectional SV/UVM <-> Syste… |
-| 2026-11-22 23:33:52 | [rs-lines2zstd-seekable](https://crates.io/crates/rs-lines2zstd-seekable) | 0.1.0 | 0 | Seekable zstd compression for line-delimited text |
-| 2026-11-22 23:37:46 | [munus](https://crates.io/crates/munus) | 0.0.0 | 0 | An agent network. This version holds the name while the first release is prepar… |
-| 2026-11-22 23:37:50 | [munus-wire](https://crates.io/crates/munus-wire) | 0.0.0 | 0 | The published language of munus, an agent network. This version holds the name… |
-| 2026-11-22 23:40:19 | [nibkeep-governance](https://crates.io/crates/nibkeep-governance) | 0.1.0 | 0 | Who a NibKeep library and its spaces belong to, and whose changes count in each… |
-| 2026-11-22 23:41:55 | [svcc-svlang](https://crates.io/crates/svcc-svlang) | 0.1.0 | 0 | Single svlang adapter for svcc: the only crate that depends on svlang, svlang-m… |
-| 2026-11-22 23:46:43 | [yomi-derive](https://crates.io/crates/yomi-derive) | 0.1.0 | 0 | Derive macro for yomi command argument and return types |
-| 2026-11-22 23:46:48 | [yomi-core](https://crates.io/crates/yomi-core) | 0.1.0 | 0 | Core of the yomi scripting language: parser, type checker, VM and resumable sav… |
-| 2026-11-22 23:46:58 | [yomi-std](https://crates.io/crates/yomi-std) | 0.1.0 | 0 | Standard packages for the yomi scripting language: flow, math, text, json, audi… |
-| 2026-11-22 23:47:12 | [yomi-cli](https://crates.io/crates/yomi-cli) | 0.1.0 | 0 | Command-line tool for the yomi scripting language (check, run, REPL, LSP, MCP) |
-| 2026-11-22 23:50:15 | [lsdocs-parser-markdown](https://crates.io/crates/lsdocs-parser-markdown) | 0.1.0 | 0 | First-party Markdown parser plugin. |
-| 2026-11-22 23:50:19 | [nibkeep-keys](https://crates.io/crates/nibkeep-keys) | 0.1.0 | 0 | The keys of a NibKeep replica at rest: a key file, unlocked by a passphrase or… |
-| 2026-11-22 23:50:51 | [qso-graph-spaceweather](https://crates.io/crates/qso-graph-spaceweather) | 0.6.0 | 0 | Sans-I/O parsers for NOAA SWPC space-weather products |
-| 2026-11-22 23:52:06 | [svcc-passes](https://crates.io/crates/svcc-passes) | 0.1.0 | 0 | Middle-end normalization and target-capability legalization passes for svcc-ir |
-| 2026-11-22 23:53:20 | [familiar-ansi](https://crates.io/crates/familiar-ansi) | 0.2.0 | 0 | ANSI and OSC escape parser that turns MU* output into styled lines, with OSC 8… |
-| 2026-11-22 23:53:21 | [familiar-code](https://crates.io/crates/familiar-code) | 0.2.0 | 0 | Auto-indentation for MOO, MUF and Lua code, used by the Familiar MU* client |
-| 2026-11-22 23:53:21 | [familiar-config](https://crates.io/crates/familiar-config) | 0.2.0 | 0 | Configuration model for the Familiar MU* client: worlds, characters, triggers,… |
-| 2026-11-22 23:53:22 | [familiar-platform](https://crates.io/crates/familiar-platform) | 0.2.0 | 0 | The few things Familiar asks of the desktop: play a sound, show a notification,… |
-| 2026-11-22 23:53:22 | [familiar-speech](https://crates.io/crates/familiar-speech) | 0.2.0 | 0 | Text to speech on a background thread: speech-dispatcher on Linux, SAPI on Wind… |
-| 2026-11-22 23:57:40 | [drawland-grid](https://crates.io/crates/drawland-grid) | 0.4.0 | 0 | draw.land on a screen (experimental): a map's layers painted into a 1-bit bitma… |
-| 2026-11-22 23:57:47 | [noscat-client](https://crates.io/crates/noscat-client) | 0.1.3 | 0 | Client layer for noscat: event-driven tunnel sessions on top of noscat-core, fo… |
-| 2026-11-22 23:57:57 | [rotar](https://crates.io/crates/rotar) | 0.1.0 | 0 | Cache-aligned block-paged DFA router for high-throughput byte and URL dispatch |
-| 2026-11-23 00:00:21 | [nibkeep-log](https://crates.io/crates/nibkeep-log) | 0.1.0 | 0 | The signed, encrypted log of changes of a NibKeep space, its history and ordere… |
-| 2026-11-23 00:00:51 | [shrug-core](https://crates.io/crates/shrug-core) | 0.1.0 | 0 | The draw engine behind shrug.ai — random answers shaped to the System One / dec… |
-| 2026-11-23 00:01:06 | [shrug-ai](https://crates.io/crates/shrug-ai) | 0.1.0 | 0 | shrug.ai — a System One / decisions-compatible HTTP API that answers with a ran… |
-| 2026-11-23 00:02:00 | [lsdocs-sphinx-addons](https://crates.io/crates/lsdocs-sphinx-addons) | 0.1.0 | 0 | First-party plugin for the directives and roles Sphinx adds to docutils, in reS… |
-| 2026-11-23 00:02:13 | [lsdocs-transform-toc](https://crates.io/crates/lsdocs-transform-toc) | 0.1.0 | 0 | First-party table-of-contents transformer plugin. |
-| 2026-11-23 00:02:15 | [svcc-front-sc](https://crates.io/crates/svcc-front-sc) | 0.1.0 | 0 | IEEE 1666-2023 SystemC / UVM-SystemC / CRAVE / FC4SC front-end lowering C++17 v… |
-| 2026-11-23 00:02:38 | [lsdocs-transform-highlight](https://crates.io/crates/lsdocs-transform-highlight) | 0.1.0 | 0 | First-party syntax highlighting transformer plugin. |
-| 2026-11-23 00:02:58 | [conjure-dsp-lib](https://crates.io/crates/conjure-dsp-lib) | 0.1.0 | 0 | Audio DSP building blocks with Lean proofs about the code. |
-| 2026-11-23 00:03:58 | [familiar-telnet](https://crates.io/crates/familiar-telnet) | 0.2.0 | 0 | Telnet state machine for MU* clients: option negotiation, GMCP, MSSP, MCCP2, NA… |
-| 2026-11-23 00:04:14 | [uf-msp](https://crates.io/crates/uf-msp) | 0.1.0 | 0 | Allocation-free MultiWii Serial Protocol framing and typed packets for embedded… |
-| 2026-11-23 00:06:06 | [lsdocs-transform-links](https://crates.io/crates/lsdocs-transform-links) | 0.1.0 | 0 | First-party link checking, cross-reference and backlinks transformer plugin. |
-| 2026-11-23 00:06:41 | [lsdocs-transform-nav](https://crates.io/crates/lsdocs-transform-nav) | 0.1.0 | 0 | First-party site navigation transformer plugin. |
-| 2026-11-23 00:07:07 | [lsdocs-extras-plugin](https://crates.io/crates/lsdocs-extras-plugin) | 0.1.0 | 0 | First-party plugin for content features lsdocs adds of its own (not from docuti… |
-| 2026-11-23 00:09:12 | [calmrun](https://crates.io/crates/calmrun) | 0.1.0 | 0 | A machine-wide queue for heavy commands, so parallel coding agents and terminal… |
-| 2026-11-23 00:10:14 | [nibkeep-bonjour](https://crates.io/crates/nibkeep-bonjour) | 0.1.0 | 0 | Apple's DNS-SD, Bonjour, by which replicas find each other on macOS and iOS |
-| 2026-11-23 00:12:24 | [svcc-emit-sc](https://crates.io/crates/svcc-emit-sc) | 0.1.0 | 0 | C++17 SystemC 3.0.3 + UVM-SystemC + CRAVE + FC4SC backend emitter for svcc-ir |
-| 2026-11-23 00:14:24 | [familiar-map](https://crates.io/crates/familiar-map) | 0.2.0 | 0 | World maps for MU* clients: rooms and exits, an automapper for GMCP Room.Info,… |
-| 2026-11-23 00:18:10 | [idenumbra-core](https://crates.io/crates/idenumbra-core) | 0.1.0-beta.1 | 0 | Country-agnostic identification validation: shared contract and error model |
+| 2026-11-23 00:20:18 | [nibkeep-sync](https://crates.io/crates/nibkeep-sync) | 0.1.0 | 0 | How NibKeep replicas pair and sync their spaces, without I/O |
+| 2026-11-23 00:22:33 | [svcc-front-sv](https://crates.io/crates/svcc-front-sv) | 0.1.0 | 0 | IEEE 1800-2023 SystemVerilog & IEEE 1800.2 UVM front-end lowering svlang CST/se… |
+| 2026-11-23 00:24:50 | [familiar-net](https://crates.io/crates/familiar-net) | 0.2.0 | 0 | Async TCP/TLS connections for MU* clients, with telnet, MCCP2 and character enc… |
+| 2026-11-23 00:25:20 | [exedev](https://crates.io/crates/exedev) | 0.1.0 | 0 | Official Rust SDK for exe.dev: create VMs, run commands on them, and run every… |
+| 2026-11-23 00:25:31 | [lsdocs-apidoc](https://crates.io/crates/lsdocs-apidoc) | 0.1.0 | 0 | A language-neutral model of API documentation: items, signatures, doc comment s… |
+| 2026-11-23 00:25:45 | [lsdocs-apidoc-plugin](https://crates.io/crates/lsdocs-apidoc-plugin) | 0.1.0 | 0 | The lsdocs plugin side of API documentation: generated pages, domain directives… |
+| 2026-11-23 00:29:47 | [nibkeep-net](https://crates.io/crates/nibkeep-net) | 0.1.0 | 0 | Connections between NibKeep replicas on the home network, through iroh |
+| 2026-11-23 00:30:46 | [idenumbra-std](https://crates.io/crates/idenumbra-std) | 0.1.0-beta.2 | 0 | Orchestrator for country identification validators |
+| 2026-11-23 00:31:12 | [idenumbra](https://crates.io/crates/idenumbra) | 0.1.0-beta.2 | 0 | CLI for installing idenumbra validators into a project (shadcn-style codegen) |
+| 2026-11-23 00:32:42 | [svcc-emit-sv](https://crates.io/crates/svcc-emit-sv) | 0.1.0 | 0 | IEEE 1800-2023 SystemVerilog & IEEE 1800.2-2020 UVM backend emitter (optional s… |
+| 2026-11-23 00:33:19 | [rainbow_harmony_core](https://crates.io/crates/rainbow_harmony_core) | 1.0.0 | 0 | Note and chord parsing, progressions, and additive synthesis for the rainbow_ha… |
+| 2026-11-23 00:35:15 | [familiar-import](https://crates.io/crates/familiar-import) | 0.2.0 | 0 | Imports BeipMU's Config.txt and .atlas maps for the Familiar MU* client |
+| 2026-11-23 00:36:19 | [rainbow_harmony](https://crates.io/crates/rainbow_harmony) | 1.0.0 | 0 | A command-line musical synthesizer that plays notes, chords, and progressions t… |
+| 2026-11-23 00:36:46 | [depfence](https://crates.io/crates/depfence) | 0.0.2 | 0 | Checks dependency-graph rules against the resolved package graph |
+| 2026-11-23 00:40:18 | [nibkeep-std](https://crates.io/crates/nibkeep-std) | 0.1.0 | 0 | The standard vocabulary of NibKeep: types for everyday subjects, which spaces i… |
+| 2026-11-23 00:41:44 | [abi_safe_enum_macros](https://crates.io/crates/abi_safe_enum_macros) | 0.9.1 | 0 | Attribute macro behind the abi_safe_enum crate |
+| 2026-11-23 00:41:45 | [abi_safe_enum](https://crates.io/crates/abi_safe_enum) | 0.9.1 | 0 | Fieldless Rust enums with stable, explicit ordinals for C ABI and FFI boundaries |
+| 2026-11-23 00:41:47 | [finance_enums_core](https://crates.io/crates/finance_enums_core) | 0.0.0 | 0 | Standard financial enumerations |
+| 2026-11-23 00:41:48 | [era_data](https://crates.io/crates/era_data) | 0.1.0 | 0 | The ERA journal and conference lists and the ANZSRC classifications, as an RDF… |
+| 2026-11-23 00:41:49 | [finance_enums_capi](https://crates.io/crates/finance_enums_capi) | 0.0.0 | 0 | C ABI for finance-enums |
+| 2026-11-23 00:43:32 | [verd](https://crates.io/crates/verd) | 1.8.2 | 0 | A simple, fast web server and reverse proxy: static files, TLS/ACME, caching, a… |
+| 2026-11-23 00:45:43 | [familiar-engine](https://crates.io/crates/familiar-engine) | 0.2.0 | 0 | UI-independent session engine for the Familiar MU* client: triggers, aliases, G… |
+| 2026-11-23 00:47:05 | [mzizi-cli](https://crates.io/crates/mzizi-cli) | 0.14.0 | 0 | The Mzizi CLI: `mzizi add` installs registry components from api.mzizi.dev, plu… |
+| 2026-11-23 00:50:14 | [nibkeep-sqlite-vfs](https://crates.io/crates/nibkeep-sqlite-vfs) | 0.1.0 | 0 | Lets a VFS written in safe Rust serve SQLite |
+| 2026-11-23 00:56:03 | [necoherence-http-adapter](https://crates.io/crates/necoherence-http-adapter) | 0.3.0 | 0 | HTTP host adapter for necoherence |
+| 2026-11-23 00:56:10 | [familiar-script](https://crates.io/crates/familiar-script) | 0.2.0 | 0 | QuickJS scripting host for the Familiar MU* client, including a BeipMU-compatib… |
+| 2026-11-23 00:56:15 | [necoherence-generator](https://crates.io/crates/necoherence-generator) | 0.3.0 | 0 | Code generation tools for necoherence |
+| 2026-11-23 00:56:26 | [necoherence-solver](https://crates.io/crates/necoherence-solver) | 0.3.0 | 0 | Typed transition model solver for necoherence |
+| 2026-11-23 00:56:48 | [necoherence-composition-solver](https://crates.io/crates/necoherence-composition-solver) | 0.3.0 | 0 | Composition search for necoherence |
+| 2026-11-23 01:00:21 | [nibkeep-store](https://crates.io/crates/nibkeep-store) | 0.1.0 | 0 | Keeps the spaces of a NibKeep device on disk |
+| 2026-11-23 01:02:02 | [rastcp](https://crates.io/crates/rastcp) | 1.0.0 | 0 | RasterizedDB's native transport: framed, multiplexed requests over TLS or unix… |
+| 2026-11-23 01:02:06 | [rasterizeddb_client_derive](https://crates.io/crates/rasterizeddb_client_derive) | 1.0.0 | 0 | #[derive(Model)], #[derive(FromRow)] and #[derive(SqlEnum)] for rasterizeddb_cl… |
+| 2026-11-23 01:02:12 | [rasterizeddb_client](https://crates.io/crates/rasterizeddb_client) | 1.0.0 | 0 | A client SDK and ORM for RasterizedDB's native protocol that does not compile t… |
+| 2026-11-23 01:02:17 | [fuxx-completes-core](https://crates.io/crates/fuxx-completes-core) | 0.1.0 | 0 | The shared engine for fuxx-autosuggestions and fuxx-autocomplete |
+| 2026-11-23 01:02:20 | [fuxx-autosuggestions](https://crates.io/crates/fuxx-autosuggestions) | 0.1.0 | 0 | Ghost-text suggestions for the shell prompt, from your past commands |
+| 2026-11-23 01:02:23 | [fuxx-completes](https://crates.io/crates/fuxx-completes) | 0.1.0 | 0 | The fuxx-completes binary: the core and its libraries behind one command |
+| 2026-11-23 01:02:40 | [regol-overpass](https://crates.io/crates/regol-overpass) | 0.3.0 | 0 | Compile and evaluate a bounded subset of Overpass QL on GeoDesk GOL files |
+| 2026-11-23 01:06:41 | [familiar-gtk](https://crates.io/crates/familiar-gtk) | 0.2.0 | 0 | Familiar: a GTK 4 client for MUDs, MUSHes, MUCKs and MOOs |
+| 2026-11-23 01:09:12 | [set-reconciliation](https://crates.io/crates/set-reconciliation) | 0.1.0 | 0 | Fast set reconciliation (Rateless IBLT) for fixed- and variable-length elements… |
+| 2026-11-23 01:10:15 | [nibkeep-thumbnails](https://crates.io/crates/nibkeep-thumbnails) | 0.1.0 | 0 | Thumbnails of pictures for NibKeep, made with decoders in memory-safe Rust |
+| 2026-11-23 01:11:03 | [sorcerer-core](https://crates.io/crates/sorcerer-core) | 0.1.0 | 0 | Sorcerer's core: projects, config, languages, units, store, ledger, fences |
+| 2026-11-23 01:11:04 | [sorcerer-lsp](https://crates.io/crates/sorcerer-lsp) | 0.1.0 | 0 | Sorcerer's language-server host: the connection, delayed jobs and the senders a… |
+| 2026-11-23 01:11:04 | [sorcerer-models](https://crates.io/crates/sorcerer-models) | 0.1.0 | 0 | Sorcerer's models: providers, researchers, the Jev decider, the claim checker |
+| 2026-11-23 01:11:06 | [sorcerer-conjure](https://crates.io/crates/sorcerer-conjure) | 0.1.0 | 0 | Conjure: writes one small change where you ask, in your editor |
+| 2026-11-23 01:11:07 | [sorcerer-scry](https://crates.io/crates/sorcerer-scry) | 0.1.0 | 0 | Scry: a code reviewer that finds what a change gets wrong |
+| 2026-11-23 01:12:16 | [tc_drbg](https://crates.io/crates/tc_drbg) | 0.1.0 | 0 | NIST SP 800-90A deterministic random bit generators: HMAC_DRBG, Hash_DRBG and A… |
+| 2026-11-23 01:15:11 | [tokamak-auth](https://crates.io/crates/tokamak-auth) | 0.0.1 | 0 | A FusionAuth API client. |
+| 2026-11-23 01:15:53 | [lacrymira-mock](https://crates.io/crates/lacrymira-mock) | 0.2.0 | 0 | In-process mock executor for lacrymira — queued replies plus a statement log |
+| 2026-11-23 01:17:17 | [familiar-tui](https://crates.io/crates/familiar-tui) | 0.2.0 | 0 | Familiar: a terminal client for MUDs, MUSHes, MUCKs and MOOs |
 
 ## Data source
 
