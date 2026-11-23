@@ -1,0 +1,34 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-23T04:19:51.867684Z,suci,0.1.0,0,0,https://github.com/RaoniSilvestre/suci,SUCI: Simple UCI
+2026-11-23T04:21:03.605678Z,mcbtodo-platform,0.1.0,0,0,https://github.com/MCB-SMART-BOY/mcbtodo,"Operating-system, workspace-path, and agent-policy support for mcbtodo."
+2026-11-23T04:21:40.303013Z,mcbtodo-protocol,0.1.0,0,0,https://github.com/MCB-SMART-BOY/mcbtodo,Typed IPC and worker protocol contracts for mcbtodo.
+2026-11-23T04:21:47.336854Z,interleaf,0.4.0,0,0,https://github.com/happysky19/interleaf,"MCP server for LaTeX papers written by people and agents together, on Overleaf or any git remote"
+2026-11-23T04:23:38.065028Z,pele,1.0.2,0,0,https://github.com/iDigimon/mermaid-rust,"Re-exports mermaid-rust for native Mermaid parsing, layout, and rendering"
+2026-11-23T04:24:53.491676Z,singe-nvimagecodec,0.1.0,0,0,https://github.com/tinrab/singe,"Safe Rust wrappers for NVIDIA nvImageCodec, for decoding and encoding images on the GPU."
+2026-11-23T04:24:54.463864Z,singe-nvjpeg,0.1.0,0,0,https://github.com/tinrab/singe,Safe Rust wrappers for the NVIDIA nvJPEG and nvJPEG 2000 libraries.
+2026-11-23T04:24:55.307992Z,singe-nvtiff,0.1.0,0,0,https://github.com/tinrab/singe,"Safe Rust wrappers for NVIDIA nvTIFF, for decoding and encoding TIFF images on the GPU."
+2026-11-23T04:27:05.974793Z,mcbtodo-agent-codex,0.1.0,0,0,https://github.com/MCB-SMART-BOY/mcbtodo,Bounded Codex app-server protocol client for mcbtodo.
+2026-11-23T04:27:30.608048Z,thirtyssh-pageant,0.2.0,0,0,https://github.com/thirtyfile/ThirtySSH,Client for the PuTTY Pageant SSH agent on Windows
+2026-11-23T04:27:31.039862Z,thirtyssh-secretbuf,0.2.0,0,0,https://github.com/thirtyfile/ThirtySSH,"Page-locked byte buffer for secret material, erased when released"
+2026-11-23T04:27:31.785132Z,thirtyssh,0.2.0,0,0,https://github.com/thirtyfile/ThirtySSH,Asynchronous SSH-2 client and server library for Tokio
+2026-11-23T04:27:40.008443Z,codewhale-engine,0.10.3,0,0,https://github.com/codewhale-hq/CodeWhale,"Codewhale engine: turn loop, tools, agents, context, sessions and model clients"
+2026-11-23T04:33:52.004302Z,ctl-bundle,0.1.5,0,0,https://github.com/tokn-ai/ctl,Bundle verification and installation storage for ctl tools
+2026-11-23T04:36:58.992511Z,mcbtodo-storage-sqlite,0.1.0,0,0,https://github.com/MCB-SMART-BOY/mcbtodo,"SQLite persistence adapters for mcbtodo workflows, focus, notifications, and completion events."
+2026-11-23T04:46:51.216283Z,mcbtodo-vault,0.1.0,0,0,https://github.com/MCB-SMART-BOY/mcbtodo,"Markdown Vault persistence, validation, and durable event storage for mcbtodo."
+2026-11-23T04:47:10.406145Z,graphrt-provider-api,0.5.0,0,0,https://github.com/BimaPangestu28/graphrt,"Provider abstraction of the graphrt gateway: the Provider / DeployDriver traits, shared provider HTTP layer and the C1-C13 conformance harness."
+2026-11-23T04:47:35.078993Z,graphrt-gcp,0.5.0,0,0,https://github.com/BimaPangestu28/graphrt,"Google Cloud for the graphrt gateway: hand-rolled GCP auth (metadata server, service-account JWT) and the Cloud Run provider and deploy driver."
+2026-11-23T04:48:01.595655Z,graphrt-provider-aws,0.5.0,0,0,https://github.com/BimaPangestu28/graphrt,"AWS providers for the graphrt gateway: ECS Fargate (gateway-scheduled tasks) and Lambda (short synchronous runs), with a hand-rolled SigV4 + credential chain (no AWS SDK)."
+2026-11-23T04:48:12.711368Z,rs-mmap,0.2.3,0,0,https://github.com/codixor/rs-mmap,Typed memory-mapped files and reusable read-only mapping windows
+2026-11-23T04:48:27.851618Z,graphrt-provider-azure,0.5.0,0,0,https://github.com/BimaPangestu28/graphrt,"Azure provider family for the graphrt gateway: Entra ID / managed identity auth, and Azure Container Apps (scale-to-zero, revisions, Key Vault secret references) over hand-rolled ARM REST."
+2026-11-23T04:48:39.454244Z,procfile2compose,0.1.0,0,0,https://github.com/PrinceAdvant/procfile2compose,"Convert a Heroku style Procfile into Docker Compose services, with the release process turned into a one-shot migration service."
+2026-11-23T04:48:53.531879Z,graphrt-provider-fly,0.5.0,0,0,https://github.com/BimaPangestu28/graphrt,"Fly Machines provider of the graphrt gateway: a pool of pre-created Machines woken with start, released with suspend (falling back to stop), addressed over 6PN."
+2026-11-23T04:49:11.749322Z,amanatsu,0.1.0,0,0,https://github.com/ai-implementer/setoka,"Render OpenAPI 3.x, Swagger 2.0 and JSON Schema documents (YAML or JSON) to static HTML without JavaScript"
+2026-11-23T04:54:18.47226Z,smp-rs,0.99.2,0,0,https://github.com/PerfectFriend/RustSimplex,"Rust implementation of the SimpleX Messaging Protocol stack (SMP relay, XFTP files, NTF notifications, agent protocol, PQDR E2E ratchet) — server engine + client"
+2026-11-23T04:56:54.250978Z,mcbtodo-application,0.1.0,0,0,https://github.com/MCB-SMART-BOY/mcbtodo,Shared application use cases and query projections for mcbtodo.
+2026-11-23T04:59:24.311976Z,graphrt-provider-k8s,0.5.0,0,0,https://github.com/BimaPangestu28/graphrt,Kubernetes provider of the graphrt gateway: scale agent Deployments 0<->N over a minimal REST client (no kube-rs).
+2026-11-23T05:00:45.289128Z,cscandir,4.0.0,0,0,,C wrapper for scandir-rs
+2026-11-23T05:00:46.111473Z,cxxscandir,4.0.0,0,0,,C++ wrapper for scandir-rs using the cxx bridge
+2026-11-23T05:06:53.959491Z,mcbtodo-execution,0.1.0,0,0,https://github.com/MCB-SMART-BOY/mcbtodo,Sandbox and Agent execution adapters for mcbtodo workflows.
+2026-11-23T05:09:58.258799Z,graphrt-gateway,0.5.0,0,0,https://github.com/BimaPangestu28/graphrt,"The graphrt gateway: always-on front of scale-to-zero agents, sole writer of the run store (SQLite), auth, limits, webhooks, cron and the local-process provider."
+2026-11-23T05:17:01.355172Z,mcbtodo-worker,0.1.0,0,0,https://github.com/MCB-SMART-BOY/mcbtodo,Restricted local worker process for mcbtodo workflow execution.
+2026-11-23T05:17:56.609894Z,scatter-vocab,0.1.0,0,0,https://github.com/scatterbase/triplespace,IRI constants for the scatter: vocabulary and the external vocabularies Triplespace and Scatterbase reuse
