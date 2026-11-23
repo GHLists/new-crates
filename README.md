@@ -8,55 +8,48 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-23 14:18 UTC
+## Latest list — 2026-11-23 15:19 UTC
 
-New crates published between 2026-11-23 13:19 UTC and 2026-11-23 14:18 UTC.
+New crates published between 2026-11-23 14:18 UTC and 2026-11-23 15:19 UTC.
 
-[Full CSV](data/new-crates-2026-11-23T14-18-39-92592Z.csv)
+[Full CSV](data/new-crates-2026-11-23T15-19-13-426464Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-23 13:20:05 | [scarb-proc-macro-host](https://crates.io/crates/scarb-proc-macro-host) | 0.1.0 | 0 | Cairo compiler plugin driving procedural macro expansion, shared by Scarb and C… |
-| 2026-11-23 13:27:14 | [rust-motion-paint](https://crates.io/crates/rust-motion-paint) | 1.1.0 | 0 | Photoshop-grade brush simulation engine and deterministic stroke replay |
-| 2026-11-23 13:35:35 | [zurix-core](https://crates.io/crates/zurix-core) | 0.0.0 | 0 | Core runtime, configuration, and error types for Zurix |
-| 2026-11-23 13:35:57 | [zurix-security](https://crates.io/crates/zurix-security) | 0.0.0 | 0 | Security middleware, rate limiting, and trusted proxies for Zurix |
-| 2026-11-23 13:36:10 | [ttyfx](https://crates.io/crates/ttyfx) | 0.2.0 | 0 | Animated terminal fire, matrix rain, and more |
-| 2026-11-23 13:36:27 | [zurix-files](https://crates.io/crates/zurix-files) | 0.0.0 | 0 | File storage and management for Zurix |
-| 2026-11-23 13:36:38 | [zurix-module-sdk](https://crates.io/crates/zurix-module-sdk) | 0.0.0 | 0 | SDK for building sandboxed Zurix WASM modules |
-| 2026-11-23 13:37:31 | [rust-motion-plugins](https://crates.io/crates/rust-motion-plugins) | 1.1.0 | 0 | Sandboxed WebAssembly filter plug-ins: a resource-limited wasmi host for the Ph… |
-| 2026-11-23 13:43:50 | [keepjay](https://crates.io/crates/keepjay) | 0.0.0 | 0 | Keepjay: local-first spaced repetition for developers. Placeholder; install the… |
-| 2026-11-23 13:45:06 | [git-remote-refs](https://crates.io/crates/git-remote-refs) | 0.0.0 | 0 | I/O-free, no_std Rust library for listing refs and fetching objects over Git sm… |
-| 2026-11-23 13:47:43 | [rust-motion-tablet](https://crates.io/crates/rust-motion-tablet) | 1.1.0 | 0 | Pen tablet pressure, tilt, rotation and eraser end on macOS and Linux |
-| 2026-11-23 13:48:07 | [figment-openbao](https://crates.io/crates/figment-openbao) | 0.1.0 | 0 | A Figment provider that loads startup configuration from OpenBao KV v2 secrets. |
-| 2026-11-23 13:50:34 | [iris-grammars](https://crates.io/crates/iris-grammars) | 0.0.1 | 0 | VS Code's TextMate grammars, and those of languages it has none for, under perm… |
-| 2026-11-23 13:50:45 | [geectl](https://crates.io/crates/geectl) | 0.2.1 | 0 | Geeko Controller — a machine-first CLI for agents (OBS + src.opensuse.org) |
-| 2026-11-23 13:51:37 | [state_derive](https://crates.io/crates/state_derive) | 0.1.0 | 0 | Derive macro for the state_lock crate |
-| 2026-11-23 13:51:42 | [state_lock](https://crates.io/crates/state_lock) | 0.1.0 | 0 | A synchronization primitive that lets tasks wait for a shared state to become r… |
-| 2026-11-23 13:55:53 | [domain-base](https://crates.io/crates/domain-base) | 0.13.0 | 0 | A DNS library for Rust: protocol basics. |
-| 2026-11-23 13:57:44 | [rust-motion-vector](https://crates.io/crates/rust-motion-vector) | 1.1.0 | 0 | Vector paths, boolean operations, non-affine mesh warping, and contour auto-tra… |
-| 2026-11-23 13:58:01 | [sutegi-pgext](https://crates.io/crates/sutegi-pgext) | 0.16.0 | 0 | Write PostgreSQL extensions in Rust with #[pg_function], set-returning SQL func… |
-| 2026-11-23 13:59:43 | [vsixpublisher](https://crates.io/crates/vsixpublisher) | 0.1.0 | 0 | A cross-platform drop-in replacement for the VsixPublisher tool included in the… |
-| 2026-11-23 14:03:27 | [shaped-rustls](https://crates.io/crates/shaped-rustls) | 0.23.4600 | 0 | A fork of rustls 0.23.46 with an opt-in API for shaping the TLS ClientHello (br… |
-| 2026-11-23 14:04:54 | [zop](https://crates.io/crates/zop) | 0.3.0 | 0 | Every project, ranked by use: list, refresh, and per-project tmp paths. |
-| 2026-11-23 14:07:34 | [rust-motion-ts](https://crates.io/crates/rust-motion-ts) | 1.1.0 | 0 | Native TypeScript/Node.js bindings and Remotion-style API bridge for Rust Motion |
-| 2026-11-23 14:12:01 | [rc-atari-media](https://crates.io/crates/rc-atari-media) | 0.1.0 | 0 | Pure Atari XEX, ATR/XFD, CAR/raw cartridge and standard CAS media |
-| 2026-11-23 14:12:01 | [rc-c64-cartridge](https://crates.io/crates/rc-c64-cartridge) | 0.1.0 | 0 | Commodore 64 cartridge image (CRT) parser and builder |
-| 2026-11-23 14:12:01 | [rc-c64-tape](https://crates.io/crates/rc-c64-tape) | 0.1.0 | 0 | Commodore 64 TAP tape image parser and writer, with the TED TAP v2 variant |
-| 2026-11-23 14:12:02 | [rc-cbm-dos](https://crates.io/crates/rc-cbm-dos) | 0.1.0 | 0 | Commodore DOS file-system rules shared by the D64, D71 and D81 disk images |
-| 2026-11-23 14:12:03 | [rc-chd](https://crates.io/crates/rc-chd) | 0.1.0 | 0 | CHD v5 compressed hunks of data: reads CD images (cdzl, cdlz and cdfl hunks) fr… |
-| 2026-11-23 14:13:24 | [zenzai-core](https://crates.io/crates/zenzai-core) | 0.7.0 | 0 | Shared functionality for xdg-desktop-portal-zenzai and its companion tools |
-| 2026-11-23 14:13:28 | [zenzai-app-select](https://crates.io/crates/zenzai-app-select) | 0.7.0 | 0 | A compact application chooser for lightweight Wayland compositors |
-| 2026-11-23 14:13:29 | [zenzai-dialog-access](https://crates.io/crates/zenzai-dialog-access) | 0.7.0 | 0 | A compact access confirmation dialog |
-| 2026-11-23 14:13:29 | [zenzai-dialog-launcher](https://crates.io/crates/zenzai-dialog-launcher) | 0.7.0 | 0 | A compact dynamic launcher confirmation dialog |
-| 2026-11-23 14:13:30 | [zenzai-dialog-print](https://crates.io/crates/zenzai-dialog-print) | 0.7.0 | 0 | A minimal print dialog for lightweight wayland compositors, part of xdg-desktop… |
-| 2026-11-23 14:14:26 | [evorule-primitives](https://crates.io/crates/evorule-primitives) | 0.1.0 | 0 | EvoRule base primitive types: the deterministic JSON value model and the I/O ha… |
-| 2026-11-23 14:14:33 | [canopen-dictator-core](https://crates.io/crates/canopen-dictator-core) | 0.1.0-alpha.1 | 0 | CANopen object dictionary model, project file, XDD import, EDS and Markdown exp… |
-| 2026-11-23 14:14:36 | [canopen-dictator-canfestival](https://crates.io/crates/canopen-dictator-canfestival) | 0.1.0-alpha.1 | 0 | CanFestival-compatible C code generator and .od import/export (port of CanFesti… |
-| 2026-11-23 14:14:38 | [canopen-dictator](https://crates.io/crates/canopen-dictator) | 0.1.0-alpha.1 | 0 | CANopen object dictionary editor |
-| 2026-11-23 14:14:40 | [syk-search](https://crates.io/crates/syk-search) | 0.1.2 | 0 | Search folder names, file names and file contents in one pass. |
-| 2026-11-23 14:15:38 | [zurix-web-core](https://crates.io/crates/zurix-web-core) | 0.1.0 | 0 | Secure, frontend-agnostic Rust web application runtime |
-| 2026-11-23 14:15:51 | [chess-puzzle-picker](https://crates.io/crates/chess-puzzle-picker) | 0.1.0 | 0 | Crate for efficient access to chess puzzles from the lichess puzzle database. |
-| 2026-11-23 14:16:46 | [datafusion-distributed-cli](https://crates.io/crates/datafusion-distributed-cli) | 5.0.0 | 0 | DataFusion's CLI with distributed execution capabilities, and a viewer for Data… |
+| 2026-11-23 14:19:08 | [rbw-ng](https://crates.io/crates/rbw-ng) | 1.18.1 | 0 | Unofficial Bitwarden CLI, a maintained continuation of rbw |
+| 2026-11-23 14:23:12 | [rocx](https://crates.io/crates/rocx) | 0.3.0 | 0 | Declarative DOCX authoring with a pure document domain and native OOXML compila… |
+| 2026-11-23 14:23:37 | [rc-cpc-cartridge](https://crates.io/crates/rc-cpc-cartridge) | 0.1.0 | 0 | Amstrad CPC Plus / GX4000 .cpr cartridge parser |
+| 2026-11-23 14:26:58 | [libdd-ai-usage](https://crates.io/crates/libdd-ai-usage) | 1.0.0 | 0 | Usage and cost metric points for LLM provider calls and gateway requests, follo… |
+| 2026-11-23 14:27:01 | [hurdler](https://crates.io/crates/hurdler) | 0.1.0 | 0 | Terminal User Interface for Jira |
+| 2026-11-23 14:27:06 | [libdd-ai-usage-ffi](https://crates.io/crates/libdd-ai-usage-ffi) | 1.0.0 | 0 | C interface to libdd-ai-usage: LLM usage and cost metrics, provider usage parsi… |
+| 2026-11-23 14:28:32 | [nsi-argument](https://crates.io/crates/nsi-argument) | 0.1.0 | 0 | Typed arguments for Nodal Scene Interface calls, without FFI – ɴsɪ. |
+| 2026-11-23 14:32:38 | [moldette-spec](https://crates.io/crates/moldette-spec) | 0.6.0 | 0 | Output formats of moldette responses, such as JSON through serde |
+| 2026-11-23 14:34:03 | [rc-machine](https://crates.io/crates/rc-machine) | 0.1.0 | 0 | Bus, memory and register traits shared by the retroclawd CPU cores |
+| 2026-11-23 14:39:51 | [opticmix-vision](https://crates.io/crates/opticmix-vision) | 0.0.4 | 0 | Rust API for the Weevia S1 stereo-IR camera (preview): device lookup, MJPG capt… |
+| 2026-11-23 14:41:25 | [askman](https://crates.io/crates/askman) | 0.3.4 | 0 | A simple, offline CLI tool to help you use Unix, Linux, macOS, and Windows comm… |
+| 2026-11-23 14:42:33 | [haest-bridges](https://crates.io/crates/haest-bridges) | 0.5.0 | 0 | haest's bridges: mods and hooks written outside Rust, speaking the mod protocol… |
+| 2026-11-23 14:42:45 | [idbseq-core](https://crates.io/crates/idbseq-core) | 0.1.1 | 0 | The engine of idbseq: collections, validation, the sequence engine and redb sto… |
+| 2026-11-23 14:42:49 | [idbseq](https://crates.io/crates/idbseq) | 0.1.1 | 0 | Embedded ID sequences in one portable file: never the same ID twice, no server… |
+| 2026-11-23 14:44:23 | [gaki-steam-vent-proto](https://crates.io/crates/gaki-steam-vent-proto) | 0.1.0 | 0 | Steam client protobuf messages for gaki-steam-vent (fork of steam-vent-proto) |
+| 2026-11-23 14:44:31 | [rc-z80](https://crates.io/crates/rc-z80) | 0.1.0 | 0 | Zilog Z80 CPU core with documented and undocumented behaviour (retroclawd) |
+| 2026-11-23 14:44:45 | [gaki-steam-vent-crypto](https://crates.io/crates/gaki-steam-vent-crypto) | 0.1.0 | 0 | Steam login cryptography: password RSA, Steam Guard TOTP, machine IDs (fork of… |
+| 2026-11-23 14:45:24 | [podlib-libopod](https://crates.io/crates/podlib-libopod) | 0.1.0 | 0 | Safe Rust library for mounted, storage-backed iPods — podlib's fork of koriwi/l… |
+| 2026-11-23 14:45:52 | [podlib](https://crates.io/crates/podlib) | 0.1.0 | 0 | Domain model and firmware-safe backend for managing music libraries on USB-conn… |
+| 2026-11-23 14:46:22 | [podlib-cli](https://crates.io/crates/podlib-cli) | 0.1.0 | 0 | CLI for managing music libraries on USB-connected iPods (Nano 7G and classic cl… |
+| 2026-11-23 14:46:26 | [gaki-steam-vent](https://crates.io/crates/gaki-steam-vent) | 0.1.0 | 0 | Steam CM network client: login, sessions, RPC (fork of aurelia-steam-vent) |
+| 2026-11-23 14:47:59 | [podlib-gui](https://crates.io/crates/podlib-gui) | 0.1.0 | 0 | GUI for managing music libraries on USB-connected iPods (Nano 7G and classic cl… |
+| 2026-11-23 14:48:02 | [gaki-steam-cdn](https://crates.io/crates/gaki-steam-cdn) | 0.1.0 | 0 | Steam content-delivery client: depot manifests and chunk downloads (fork of ste… |
+| 2026-11-23 14:50:03 | [graphcore-poplar-sys](https://crates.io/crates/graphcore-poplar-sys) | 0.1.0 | 0 | Raw cxx bridge and C++ shim for the Graphcore Poplar SDK 3.3.0 (Poplar and PopL… |
+| 2026-11-23 14:50:12 | [graphcore-poplar](https://crates.io/crates/graphcore-poplar) | 0.1.0 | 0 | Safe Rust API for the Graphcore Poplar SDK 3.3.0: graphs, programs, engines and… |
+| 2026-11-23 14:50:37 | [quat_aerospace](https://crates.io/crates/quat_aerospace) | 0.1.0 | 0 | Zero-allocation no_std quaternary logic (00, 01, 10, 11) with 75% packed memory… |
+| 2026-11-23 14:55:01 | [rc-cpc-snapshot](https://crates.io/crates/rc-cpc-snapshot) | 0.1.0 | 0 | Amstrad CPC SNA snapshot reader and writer |
+| 2026-11-23 14:56:55 | [quat_automotive](https://crates.io/crates/quat_automotive) | 0.1.0 | 0 | A no_std Rust library for automotive ECU and CAN bus communication using 2-bit… |
+| 2026-11-23 15:02:08 | [watch-cli](https://crates.io/crates/watch-cli) | 0.1.0 | 0 | Browse and resume your local media library from the terminal |
+| 2026-11-23 15:05:29 | [rc-d71](https://crates.io/crates/rc-d71) | 0.1.0 | 0 | Commodore 1571 D71 disk image reader and writer |
+| 2026-11-23 15:11:29 | [hkid-utils](https://crates.io/crates/hkid-utils) | 1.2.0 | 0 | Hong Kong identity card validation, formatting and random test data generation |
+| 2026-11-23 15:15:57 | [rc-d81](https://crates.io/crates/rc-d81) | 0.1.0 | 0 | Commodore 1581 D81 disk image reader and writer |
+| 2026-11-23 15:17:11 | [sbmlsim-sbml](https://crates.io/crates/sbmlsim-sbml) | 0.22.0 | 0 | Reader of SBML core documents of every level and version into the model of leve… |
+| 2026-11-23 15:17:14 | [zurix-sdk](https://crates.io/crates/zurix-sdk) | 0.1.1 | 0 | Public SDK facade for Zurix applications |
 
 ## Data source
 

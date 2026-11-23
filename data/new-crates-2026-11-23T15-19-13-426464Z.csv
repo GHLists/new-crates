@@ -1,0 +1,35 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-23T14:19:08.889318Z,rbw-ng,1.18.1,0,0,https://github.com/TimotheFCN/rbw-ng,"Unofficial Bitwarden CLI, a maintained continuation of rbw"
+2026-11-23T14:23:12.093829Z,rocx,0.3.0,0,0,https://github.com/ReinderVosDeWael/rocx,Declarative DOCX authoring with a pure document domain and native OOXML compilation
+2026-11-23T14:23:37.079292Z,rc-cpc-cartridge,0.1.0,0,0,https://github.com/elpapimango/retroclawd-core,Amstrad CPC Plus / GX4000 .cpr cartridge parser
+2026-11-23T14:26:58.243408Z,libdd-ai-usage,1.0.0,0,0,https://github.com/DataDog/libdatadog/tree/main/libdd-ai-usage,"Usage and cost metric points for LLM provider calls and gateway requests, following the OpenTelemetry GenAI conventions"
+2026-11-23T14:27:01.475465Z,hurdler,0.1.0,0,0,https://github.com/cheeweisoh/hurdler,Terminal User Interface for Jira
+2026-11-23T14:27:06.857653Z,libdd-ai-usage-ffi,1.0.0,0,0,https://github.com/DataDog/libdatadog/tree/main/libdd-ai-usage-ffi,"C interface to libdd-ai-usage: LLM usage and cost metrics, provider usage parsing and DogStatsD packing for gateways in any language"
+2026-11-23T14:28:32.680308Z,nsi-argument,0.1.0,0,0,https://github.com/virtualritz/nsi/,"Typed arguments for Nodal Scene Interface calls, without FFI – ɴsɪ."
+2026-11-23T14:32:38.398531Z,moldette-spec,0.6.0,0,0,https://github.com/CharmingGroot/moldette,"Output formats of moldette responses, such as JSON through serde"
+2026-11-23T14:34:03.594862Z,rc-machine,0.1.0,0,0,https://github.com/elpapimango/retroclawd-core,"Bus, memory and register traits shared by the retroclawd CPU cores"
+2026-11-23T14:39:51.720547Z,opticmix-vision,0.0.4,0,0,https://github.com/Opticmix/opticmix-vision,"Rust API for the Weevia S1 stereo-IR camera (preview): device lookup, MJPG capture, stereo split, camera controls"
+2026-11-23T14:41:25.153421Z,askman,0.3.4,0,0,https://github.com/0bmario/askman,"A simple, offline CLI tool to help you use Unix, Linux, macOS, and Windows commands more easily."
+2026-11-23T14:42:33.434929Z,haest-bridges,0.5.0,0,0,https://github.com/haest-werk/haest,"haest's bridges: mods and hooks written outside Rust, speaking the mod protocol. Features: js (.js/.ts mod files in embedded QuickJS, reloaded as they change), shell (a command per event), http (a PO…"
+2026-11-23T14:42:45.273641Z,idbseq-core,0.1.1,0,0,https://github.com/aevantec/idbseq,"The engine of idbseq: collections, validation, the sequence engine and redb storage"
+2026-11-23T14:42:49.531742Z,idbseq,0.1.1,0,0,https://github.com/aevantec/idbseq,"Embedded ID sequences in one portable file: never the same ID twice, no server needed"
+2026-11-23T14:44:23.141741Z,gaki-steam-vent-proto,0.1.0,0,0,https://github.com/Gigas002/gaki,Steam client protobuf messages for gaki-steam-vent (fork of steam-vent-proto)
+2026-11-23T14:44:31.755545Z,rc-z80,0.1.0,0,0,https://github.com/elpapimango/retroclawd-core,Zilog Z80 CPU core with documented and undocumented behaviour (retroclawd)
+2026-11-23T14:44:45.713728Z,gaki-steam-vent-crypto,0.1.0,0,0,https://github.com/Gigas002/gaki,"Steam login cryptography: password RSA, Steam Guard TOTP, machine IDs (fork of steam-vent-crypto)"
+2026-11-23T14:45:24.539016Z,podlib-libopod,0.1.0,0,0,https://github.com/apilot/podlib,"Safe Rust library for mounted, storage-backed iPods — podlib's fork of koriwi/libopod with playlist mutations and classic-device support"
+2026-11-23T14:45:52.985697Z,podlib,0.1.0,0,0,,Domain model and firmware-safe backend for managing music libraries on USB-connected iPods (Nano 7G and classic click-wheel)
+2026-11-23T14:46:22.779993Z,podlib-cli,0.1.0,0,0,https://github.com/apilot/podlib,CLI for managing music libraries on USB-connected iPods (Nano 7G and classic click-wheel)
+2026-11-23T14:46:26.181809Z,gaki-steam-vent,0.1.0,0,0,https://github.com/Gigas002/gaki,"Steam CM network client: login, sessions, RPC (fork of aurelia-steam-vent)"
+2026-11-23T14:47:59.086889Z,podlib-gui,0.1.0,0,0,https://github.com/apilot/podlib,"GUI for managing music libraries on USB-connected iPods (Nano 7G and classic click-wheel), built with egui/eframe"
+2026-11-23T14:48:02.297425Z,gaki-steam-cdn,0.1.0,0,0,https://github.com/Gigas002/gaki,Steam content-delivery client: depot manifests and chunk downloads (fork of steam-cdn)
+2026-11-23T14:50:03.911159Z,graphcore-poplar-sys,0.1.0,0,0,https://github.com/p4r4d0xb0x/graphcore-sdk,Raw cxx bridge and C++ shim for the Graphcore Poplar SDK 3.3.0 (Poplar and PopLibs)
+2026-11-23T14:50:12.806112Z,graphcore-poplar,0.1.0,0,0,https://github.com/p4r4d0xb0x/graphcore-sdk,"Safe Rust API for the Graphcore Poplar SDK 3.3.0: graphs, programs, engines and PopLibs"
+2026-11-23T14:50:37.506408Z,quat_aerospace,0.1.0,0,0,https://github.com/strahinjastojanovic826-code/quat_aerospace,"Zero-allocation no_std quaternary logic (00, 01, 10, 11) with 75% packed memory savings, decoupled precision, and radiation-hardened primitives for CubeSats, drones, and flight controllers"
+2026-11-23T14:55:01.26899Z,rc-cpc-snapshot,0.1.0,0,0,https://github.com/elpapimango/retroclawd-core,Amstrad CPC SNA snapshot reader and writer
+2026-11-23T14:56:55.890194Z,quat_automotive,0.1.0,0,0,https://github.com/strahinjastojanovic826-code/quat_automotive,"A no_std Rust library for automotive ECU and CAN bus communication using 2-bit quaternary logic (00, 01, 10, 11) for compact state, fault, and signal representation."
+2026-11-23T15:02:08.206703Z,watch-cli,0.1.0,0,0,https://github.com/ieraasyl/watch,Browse and resume your local media library from the terminal
+2026-11-23T15:05:29.983762Z,rc-d71,0.1.0,0,0,https://github.com/elpapimango/retroclawd-core,Commodore 1571 D71 disk image reader and writer
+2026-11-23T15:11:29.797813Z,hkid-utils,1.2.0,0,0,https://github.com/Wal-N/hkid,"Hong Kong identity card validation, formatting and random test data generation"
+2026-11-23T15:15:57.902158Z,rc-d81,0.1.0,0,0,https://github.com/elpapimango/retroclawd-core,Commodore 1581 D81 disk image reader and writer
+2026-11-23T15:17:11.873053Z,sbmlsim-sbml,0.22.0,0,0,https://github.com/matthiaskoenig/sbmlsim-core,Reader of SBML core documents of every level and version into the model of level 3
+2026-11-23T15:17:14.3354Z,zurix-sdk,0.1.1,0,0,https://github.com/yulfic/zurix-web-core,Public SDK facade for Zurix applications
