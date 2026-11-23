@@ -1,0 +1,19 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-23T10:26:06.300958Z,komainu,0.1.0-alpha.1,0,0,https://github.com/ryoshrimp/komainu,An embeddable OAuth 2.0 authorization server
+2026-11-23T10:29:03.864992Z,pod-shape,0.0.0,0,0,https://github.com/PodUtils/podcrates,"Record-layer padding profiles, a seeded shaper, first-flight rate, a pacer and entropy control"
+2026-11-23T10:29:08.746828Z,fast-audio,0.1.0-alpha.1,0,0,https://github.com/AntheaLaffy/fast-audio,Performance-first audio deep learning primitives for Intel CPUs and NVIDIA GPUs
+2026-11-23T10:37:20.315403Z,komainu-server,0.1.0-alpha.1,0,0,https://github.com/ryoshrimp/komainu,Standalone komainu OAuth 2.0 authorization server binary
+2026-11-23T10:39:22.554723Z,pod-cover,0.0.0,0,0,https://github.com/PodUtils/podcrates,"A sans-IO cover site, a cover script, an HMAC-SHA-256 switch, a page and session muxer and an Ed25519 credential"
+2026-11-23T10:39:57.142997Z,oncalendar,0.1.0,0,0,https://github.com/chrysaor/oncalendar,Parse systemd calendar event expressions (OnCalendar=) and compute when they elapse next.
+2026-11-23T10:47:57.497597Z,palito,0.7.0,0,0,https://github.com/natanloterio/palito,Independent Rust GGUF inference engine with external-reference benchmarks
+2026-11-23T10:48:41.708835Z,recdr,0.1.0,0,0,https://github.com/dzikrisyairozi/recdr,Screen recorder that AI agents drive through a CLI and an MCP server
+2026-11-23T10:49:35.649355Z,pod-harness,0.0.0,0,0,https://github.com/PodUtils/podcrates,"Deterministic offline traffic classifiers, a middlebox simulator, a road-by-profile matrix and a claim check"
+2026-11-23T10:59:50.078282Z,pod-sidecar,0.0.0,0,0,https://github.com/PodUtils/podcrates,"Packet desync primitives, a middlebox simulator, a genetic search, a disagreement probe, fake TCP and a per-flow bond"
+2026-11-23T11:00:01.117361Z,morphic,1.1.0,0,0,https://github.com/thvtzy/morphic,Morphic's verified standard library as ready-to-call Rust functions: pre-generated from the specifications the Morphic pipeline verified (Tier-1) or proved executed-exact (Tier-2). Per-function tiers…
+2026-11-23T11:05:09.610674Z,c4d,1.0.0-alpha-1,0,0,https://github.com/doughmination/code4dyslexia,Local source-code formatting and accessibility checks
+2026-11-23T11:06:12.417066Z,opk,0.10.0,0,0,https://github.com/kreantio/openfx-rs,OpenFX Plugin Kit: An opinionated yet flexible framework for developing OpenFX plugins
+2026-11-23T11:06:21.879882Z,ohk,0.10.0,0,0,https://github.com/kreantio/openfx-rs,OpenFX Host Kit: An opinionated framework for developing OpenFX hosts
+2026-11-23T11:09:59.193112Z,rayl-core,0.1.1,0,0,https://github.com/oti-adjei/rayl,"Direct access to the Apple Mail store: version detection, schema probing, message reading."
+2026-11-23T11:10:01.670951Z,pod-offline,0.0.0,0,0,https://github.com/PodUtils/podcrates,"AX.25/KISS serial carrier, ARDOP/VARA HF modem, spool, DNS-SD discovery, signed bundle and a replication log"
+2026-11-23T11:14:56.86265Z,cogmem,0.1.0,0,0,https://github.com/chinokoyuki/cogmem,"Cognitive memory kernel: fact triples with confidence decay and active forgetting, a spreading-activation associative graph, and FTS5 Chinese full-text search"
+2026-11-23T11:15:52.900171Z,rayl,0.1.1,0,0,https://github.com/oti-adjei/rayl,MCP server for Apple Mail.
