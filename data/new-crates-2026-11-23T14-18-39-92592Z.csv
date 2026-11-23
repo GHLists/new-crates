@@ -1,0 +1,42 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-23T13:20:05.823843Z,scarb-proc-macro-host,0.1.0,0,0,https://github.com/software-mansion/scarb,"Cairo compiler plugin driving procedural macro expansion, shared by Scarb and CairoLS"
+2026-11-23T13:27:14.85856Z,rust-motion-paint,1.1.0,0,0,https://github.com/sjkim1127/rust-motion,Photoshop-grade brush simulation engine and deterministic stroke replay
+2026-11-23T13:35:35.159256Z,zurix-core,0.0.0,0,0,,"Core runtime, configuration, and error types for Zurix"
+2026-11-23T13:35:57.42696Z,zurix-security,0.0.0,0,0,,"Security middleware, rate limiting, and trusted proxies for Zurix"
+2026-11-23T13:36:10.974499Z,ttyfx,0.2.0,0,0,https://github.com/cesarferreira/ttyfx,"Animated terminal fire, matrix rain, and more"
+2026-11-23T13:36:27.495915Z,zurix-files,0.0.0,0,0,,File storage and management for Zurix
+2026-11-23T13:36:38.555181Z,zurix-module-sdk,0.0.0,0,0,,SDK for building sandboxed Zurix WASM modules
+2026-11-23T13:37:31.098892Z,rust-motion-plugins,1.1.0,0,0,https://github.com/sjkim1127/rust-motion,Sandboxed WebAssembly filter plug-ins: a resource-limited wasmi host for the PhotoCraft plug-in ABI
+2026-11-23T13:43:50.477901Z,keepjay,0.0.0,0,0,https://github.com/keepjay-dev/keepjay,Keepjay: local-first spaced repetition for developers. Placeholder; install the CLI from the GitHub releases for now.
+2026-11-23T13:45:06.193953Z,git-remote-refs,0.0.0,0,0,https://github.com/kjanat/git-remote-refs,"I/O-free, no_std Rust library for listing refs and fetching objects over Git smart HTTP."
+2026-11-23T13:47:43.081484Z,rust-motion-tablet,1.1.0,0,0,https://github.com/sjkim1127/rust-motion,"Pen tablet pressure, tilt, rotation and eraser end on macOS and Linux"
+2026-11-23T13:48:07.473177Z,figment-openbao,0.1.0,0,0,https://github.com/AprilNEA/figment-openbao,A Figment provider that loads startup configuration from OpenBao KV v2 secrets.
+2026-11-23T13:50:34.228906Z,iris-grammars,0.0.1,0,0,https://github.com/taquangtrung/iris,"VS Code's TextMate grammars, and those of languages it has none for, under permissive licenses, bundled for iris."
+2026-11-23T13:50:45.790587Z,geectl,0.2.1,0,0,https://github.com/scarabeusiv/geectl,Geeko Controller — a machine-first CLI for agents (OBS + src.opensuse.org)
+2026-11-23T13:51:37.85385Z,state_derive,0.1.0,0,0,https://github.com/Xudong-Huang/state_lock.git,Derive macro for the state_lock crate
+2026-11-23T13:51:42.860846Z,state_lock,0.1.0,0,0,https://github.com/Xudong-Huang/state_lock.git,A synchronization primitive that lets tasks wait for a shared state to become ready and swap it safely
+2026-11-23T13:55:53.750033Z,domain-base,0.13.0,0,0,https://github.com/nlnetlabs/domain-base/,A DNS library for Rust: protocol basics.
+2026-11-23T13:57:44.249633Z,rust-motion-vector,1.1.0,0,0,https://github.com/sjkim1127/rust-motion,"Vector paths, boolean operations, non-affine mesh warping, and contour auto-tracing"
+2026-11-23T13:58:01.320559Z,sutegi-pgext,0.16.0,0,0,https://github.com/enekos/sutegi,"Write PostgreSQL extensions in Rust with #[pg_function], set-returning SQL functions, and parameterized queries through SPI."
+2026-11-23T13:59:43.532233Z,vsixpublisher,0.1.0,0,0,https://github.com/christianhelle/vsixpublisher,A cross-platform drop-in replacement for the VsixPublisher tool included in the Visual Studio SDK
+2026-11-23T14:03:27.091124Z,shaped-rustls,0.23.4600,0,0,https://github.com/aimalygin/shaped-rustls,A fork of rustls 0.23.46 with an opt-in API for shaping the TLS ClientHello (browser and uTLS fingerprints).
+2026-11-23T14:04:54.46889Z,zop,0.3.0,0,0,https://github.com/theherk/zop,"Every project, ranked by use: list, refresh, and per-project tmp paths."
+2026-11-23T14:07:34.480892Z,rust-motion-ts,1.1.0,0,0,https://github.com/sjkim1127/rust-motion,Native TypeScript/Node.js bindings and Remotion-style API bridge for Rust Motion
+2026-11-23T14:12:01.24105Z,rc-atari-media,0.1.0,0,0,https://github.com/elpapimango/retroclawd-core,"Pure Atari XEX, ATR/XFD, CAR/raw cartridge and standard CAS media"
+2026-11-23T14:12:01.493496Z,rc-c64-cartridge,0.1.0,0,0,https://github.com/elpapimango/retroclawd-core,Commodore 64 cartridge image (CRT) parser and builder
+2026-11-23T14:12:01.991788Z,rc-c64-tape,0.1.0,0,0,https://github.com/elpapimango/retroclawd-core,"Commodore 64 TAP tape image parser and writer, with the TED TAP v2 variant"
+2026-11-23T14:12:02.295782Z,rc-cbm-dos,0.1.0,0,0,https://github.com/elpapimango/retroclawd-core,"Commodore DOS file-system rules shared by the D64, D71 and D81 disk images"
+2026-11-23T14:12:03.025442Z,rc-chd,0.1.0,0,0,https://github.com/elpapimango/retroclawd-core,"CHD v5 compressed hunks of data: reads CD images (cdzl, cdlz and cdfl hunks) from untrusted files"
+2026-11-23T14:13:24.871087Z,zenzai-core,0.7.0,0,0,https://github.com/atomicptr/xdg-desktop-portal-zenzai,Shared functionality for xdg-desktop-portal-zenzai and its companion tools
+2026-11-23T14:13:28.567527Z,zenzai-app-select,0.7.0,0,0,https://github.com/atomicptr/xdg-desktop-portal-zenzai,A compact application chooser for lightweight Wayland compositors
+2026-11-23T14:13:29.014524Z,zenzai-dialog-access,0.7.0,0,0,https://github.com/atomicptr/xdg-desktop-portal-zenzai,A compact access confirmation dialog
+2026-11-23T14:13:29.401031Z,zenzai-dialog-launcher,0.7.0,0,0,https://github.com/atomicptr/xdg-desktop-portal-zenzai,A compact dynamic launcher confirmation dialog
+2026-11-23T14:13:30.208052Z,zenzai-dialog-print,0.7.0,0,0,https://github.com/atomicptr/xdg-desktop-portal-zenzai,"A minimal print dialog for lightweight wayland compositors, part of xdg-desktop-portal-zenzai"
+2026-11-23T14:14:26.476866Z,evorule-primitives,0.1.0,0,0,https://github.com/evorule/evorule-primitives,"EvoRule base primitive types: the deterministic JSON value model and the I/O handler contract (single definition site, zero evorule-* dependencies)"
+2026-11-23T14:14:33.197163Z,canopen-dictator-core,0.1.0-alpha.1,0,0,https://github.com/golovinengineer/canopen-dictator,"CANopen object dictionary model, project file, XDD import, EDS and Markdown export"
+2026-11-23T14:14:36.26508Z,canopen-dictator-canfestival,0.1.0-alpha.1,0,0,https://github.com/golovinengineer/canopen-dictator,CanFestival-compatible C code generator and .od import/export (port of CanFestival objdictgen)
+2026-11-23T14:14:38.670574Z,canopen-dictator,0.1.0-alpha.1,0,0,https://github.com/golovinengineer/canopen-dictator,CANopen object dictionary editor
+2026-11-23T14:14:40.992409Z,syk-search,0.1.2,0,0,https://github.com/remcostoeten/syk,"Search folder names, file names and file contents in one pass."
+2026-11-23T14:15:38.835046Z,zurix-web-core,0.1.0,0,0,https://github.com/yulfic/zurix-web-core,"Secure, frontend-agnostic Rust web application runtime"
+2026-11-23T14:15:51.194759Z,chess-puzzle-picker,0.1.0,0,0,https://github.com/andreyeyy/chess-puzzle-picker,Crate for efficient access to chess puzzles from the lichess puzzle database.
+2026-11-23T14:16:46.120932Z,datafusion-distributed-cli,5.0.0,0,0,https://github.com/datafusion-contrib/datafusion-distributed,"DataFusion's CLI with distributed execution capabilities, and a viewer for DataFusion Distributed plan dumps"

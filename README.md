@@ -8,59 +8,55 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-23 13:19 UTC
+## Latest list — 2026-11-23 14:18 UTC
 
-New crates published between 2026-11-23 12:19 UTC and 2026-11-23 13:19 UTC.
+New crates published between 2026-11-23 13:19 UTC and 2026-11-23 14:18 UTC.
 
-[Full CSV](data/new-crates-2026-11-23T13-19-09-293158Z.csv)
+[Full CSV](data/new-crates-2026-11-23T14-18-39-92592Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-23 12:19:41 | [brz-replay](https://crates.io/crates/brz-replay) | 0.1.0 | 0 | Replay-controlled Tokio waits for Target applications |
-| 2026-11-23 12:21:16 | [naui-charts](https://crates.io/crates/naui-charts) | 0.19.0 | 0 | Line, bar and scatter charts for naui, drawn on its Canvas with each platform's… |
-| 2026-11-23 12:22:53 | [siili](https://crates.io/crates/siili) | 0.0.1 | 0 | Unofficial, experimental CLI proxy for the PostHog API |
-| 2026-11-23 12:23:55 | [pq-core](https://crates.io/crates/pq-core) | 0.8.1 | 0 | Shared discovery/probing core for the pq-intel tools: the evidence store and it… |
-| 2026-11-23 12:27:24 | [rust-motion-inpaint](https://crates.io/crates/rust-motion-inpaint) | 1.1.0 | 0 | Content-aware hole filling: PatchMatch-based patch completion and membrane fill |
-| 2026-11-23 12:32:05 | [sync_labs_ui](https://crates.io/crates/sync_labs_ui) | 0.0.0 | 0 | sync_labs_ui: the sync_labs component library for Rust apps (the crate apps imp… |
-| 2026-11-23 12:32:31 | [sync_labs_ui_core](https://crates.io/crates/sync_labs_ui_core) | 0.0.0 | 0 | sync_labs_ui component behaviour in plain Rust, with no UI dependency, testable… |
-| 2026-11-23 12:32:39 | [sync_labs_ui_rune](https://crates.io/crates/sync_labs_ui_rune) | 0.0.0 | 0 | sync_labs_ui shell that draws the components with the Rune UI framework. |
-| 2026-11-23 12:32:47 | [sync_labs_ui_tokens](https://crates.io/crates/sync_labs_ui_tokens) | 0.0.0 | 0 | sync_labs_ui design tokens (colour, type, spacing, radius, shadow, springs) as… |
-| 2026-11-23 12:34:03 | [funga](https://crates.io/crates/funga) | 0.0.1 | 0 | Funga: a family of crates for building applications from actors, native plugins… |
-| 2026-11-23 12:34:12 | [funga-stroma](https://crates.io/crates/funga-stroma) | 0.0.1 | 0 | Stroma: a runtime and actor system you shape from native plugins and load WASM… |
-| 2026-11-23 12:34:14 | [funga-mycena](https://crates.io/crates/funga-mycena) | 0.0.1 | 0 | Mycena: a UI framework built on the Stroma runtime (funga-stroma). Early develo… |
-| 2026-11-23 12:37:18 | [rust-motion-lensdb](https://crates.io/crates/rust-motion-lensdb) | 1.1.0 | 0 | Lens correction profiles: distortion, TCA and vignetting models, lensfun-format… |
-| 2026-11-23 12:40:31 | [haiyaku](https://crates.io/crates/haiyaku) | 0.1.0 | 0 | Spoiler-safe character events from books, stored in the caller's SQLite database |
-| 2026-11-23 12:46:22 | [silent-protocol-macros](https://crates.io/crates/silent-protocol-macros) | 0.14.0 | 0 | Derive macro implementing the Silent binary protocol for Rust structs and enums |
-| 2026-11-23 12:46:33 | [silent-protocol](https://crates.io/crates/silent-protocol) | 0.14.0 | 0 | Binary Silent protocol for Rust: derive-based schema, compact wire format, bitm… |
-| 2026-11-23 12:47:25 | [rust-motion-psd](https://crates.io/crates/rust-motion-psd) | 1.1.0 | 0 | Faithful, lossless reader and writer for Adobe Photoshop PSD (v1) and PSB (v2)… |
-| 2026-11-23 12:48:03 | [sextant-machines](https://crates.io/crates/sextant-machines) | 0.1.0 | 0 | Bounded desired-state reconciliation with conditional writes |
-| 2026-11-23 12:48:06 | [rigging-machines](https://crates.io/crates/rigging-machines) | 0.1.0 | 0 | Bounded dependency readiness and incremental invalidation |
-| 2026-11-23 12:48:09 | [sluice-machines](https://crates.io/crates/sluice-machines) | 0.1.0 | 0 | Bounded checkpoint barrier alignment |
-| 2026-11-23 12:48:18 | [splice-machines](https://crates.io/crates/splice-machines) | 0.1.0 | 0 | Evidence-gated staged replacement |
-| 2026-11-23 12:51:27 | [urchin-player](https://crates.io/crates/urchin-player) | 0.1.0 | 0 | A cross-platform, folder-first music player for the terminal, built in Rust |
-| 2026-11-23 12:52:44 | [lang-translator](https://crates.io/crates/lang-translator) | 0.1.0 | 0 | Offline zero-dependency multi-language translator engine for lang (no_std compa… |
-| 2026-11-23 12:53:35 | [lang-macros](https://crates.io/crates/lang-macros) | 0.1.0 | 0 | Compile-time AST rewriter and project source scanner for lang (zero external de… |
-| 2026-11-23 12:53:40 | [lang-build](https://crates.io/crates/lang-build) | 0.1.0 | 0 | Build-script helper for lang that scans project sources at build time and pre-g… |
-| 2026-11-23 12:55:26 | [ontaria-cli](https://crates.io/crates/ontaria-cli) | 0.9.2 | 0 | Look up, validate, diff, and generate from an RDF Schema or OWL ontology |
-| 2026-11-23 12:56:57 | [langes](https://crates.io/crates/langes) | 0.1.0 | 0 | Bare-metal #![no_std] crate that mounts a language-switcher button into any pro… |
-| 2026-11-23 12:57:20 | [rust-motion-raster](https://crates.io/crates/rust-motion-raster) | 1.1.0 | 0 | Sparse, copy-on-write tiled raster surfaces |
-| 2026-11-23 12:58:53 | [motion-imagery-metadata](https://crates.io/crates/motion-imagery-metadata) | 0.1.0 | 0 | Typed MISB ST 0601 UAS Datalink Local Set item values, decoded by the `misb` cr… |
-| 2026-11-23 13:02:14 | [aatxe-ast](https://crates.io/crates/aatxe-ast) | 0.2.0 | 0 | Tree-sitter import and symbol extraction for TS/Go/Rust, feeding the aatxe affe… |
-| 2026-11-23 13:02:15 | [aatxe-evals](https://crates.io/crates/aatxe-evals) | 0.2.0 | 0 | Eval harness for aatxe — scores the stats engine against synthetic ground-truth… |
-| 2026-11-23 13:02:16 | [aatxe-ui](https://crates.io/crates/aatxe-ui) | 0.2.0 | 0 | Local realtime dashboard for aatxe: spawn coding agents in isolated worktrees a… |
-| 2026-11-23 13:02:19 | [aatxe](https://crates.io/crates/aatxe) | 0.2.0 | 0 | Statistical microbenchmark + regression-gate CLI for TypeScript, Go, and Rust |
-| 2026-11-23 13:04:45 | [glidex-auth](https://crates.io/crates/glidex-auth) | 0.1.1 | 0 | Core authentication for glidex and hyperstor: secrets, session and token rules,… |
-| 2026-11-23 13:04:46 | [glidex-raftstore](https://crates.io/crates/glidex-raftstore) | 0.1.1 | 0 | A replicated ReDB store on openraft: write sets recorded from transactions, app… |
-| 2026-11-23 13:04:47 | [glidex-tls](https://crates.io/crates/glidex-tls) | 0.1.1 | 0 | HTTPS for glidex: listeners on every address, self-signed certificates and the… |
-| 2026-11-23 13:04:48 | [glidex-topology](https://crates.io/crates/glidex-topology) | 0.1.1 | 0 | A host's topology from sysfs: NUMA nodes and sockets, the PCIe tree with root p… |
-| 2026-11-23 13:04:52 | [glidex-trust](https://crates.io/crates/glidex-trust) | 0.1.1 | 0 | The cluster side of trust between a cluster and a glidex directory of another o… |
-| 2026-11-23 13:07:17 | [rust-motion-algo](https://crates.io/crates/rust-motion-algo) | 1.1.0 | 0 | Depth-agnostic, tile-aware CPU image filters (blur, sharpen, noise, distort, st… |
-| 2026-11-23 13:10:12 | [hooks-guru](https://crates.io/crates/hooks-guru) | 0.1.0 | 0 | husky + lint-staged for Rust - install git hooks and run commands on staged fil… |
-| 2026-11-23 13:14:20 | [hkconnect](https://crates.io/crates/hkconnect) | 0.1.0 | 0 | Async client for Hyundai Bluelink India and Kia Connect India |
-| 2026-11-23 13:14:41 | [hkc](https://crates.io/crates/hkc) | 0.1.0 | 0 | Command-line control for Hyundai/Kia connected cars in India |
-| 2026-11-23 13:15:07 | [hkc-mcp](https://crates.io/crates/hkc-mcp) | 0.1.0 | 0 | MCP server that lets Claude read and control a Hyundai/Kia (India) connected car |
-| 2026-11-23 13:17:23 | [easyfs-inspect](https://crates.io/crates/easyfs-inspect) | 0.4.0 | 0 | Inspect easy-fs filesystem images from the rCore tutorial, without booting the… |
-| 2026-11-23 13:17:28 | [rust-motion-doc](https://crates.io/crates/rust-motion-doc) | 1.1.0 | 0 | Pure-Rust document model: paths, vector shapes, layers, blend modes |
+| 2026-11-23 13:20:05 | [scarb-proc-macro-host](https://crates.io/crates/scarb-proc-macro-host) | 0.1.0 | 0 | Cairo compiler plugin driving procedural macro expansion, shared by Scarb and C… |
+| 2026-11-23 13:27:14 | [rust-motion-paint](https://crates.io/crates/rust-motion-paint) | 1.1.0 | 0 | Photoshop-grade brush simulation engine and deterministic stroke replay |
+| 2026-11-23 13:35:35 | [zurix-core](https://crates.io/crates/zurix-core) | 0.0.0 | 0 | Core runtime, configuration, and error types for Zurix |
+| 2026-11-23 13:35:57 | [zurix-security](https://crates.io/crates/zurix-security) | 0.0.0 | 0 | Security middleware, rate limiting, and trusted proxies for Zurix |
+| 2026-11-23 13:36:10 | [ttyfx](https://crates.io/crates/ttyfx) | 0.2.0 | 0 | Animated terminal fire, matrix rain, and more |
+| 2026-11-23 13:36:27 | [zurix-files](https://crates.io/crates/zurix-files) | 0.0.0 | 0 | File storage and management for Zurix |
+| 2026-11-23 13:36:38 | [zurix-module-sdk](https://crates.io/crates/zurix-module-sdk) | 0.0.0 | 0 | SDK for building sandboxed Zurix WASM modules |
+| 2026-11-23 13:37:31 | [rust-motion-plugins](https://crates.io/crates/rust-motion-plugins) | 1.1.0 | 0 | Sandboxed WebAssembly filter plug-ins: a resource-limited wasmi host for the Ph… |
+| 2026-11-23 13:43:50 | [keepjay](https://crates.io/crates/keepjay) | 0.0.0 | 0 | Keepjay: local-first spaced repetition for developers. Placeholder; install the… |
+| 2026-11-23 13:45:06 | [git-remote-refs](https://crates.io/crates/git-remote-refs) | 0.0.0 | 0 | I/O-free, no_std Rust library for listing refs and fetching objects over Git sm… |
+| 2026-11-23 13:47:43 | [rust-motion-tablet](https://crates.io/crates/rust-motion-tablet) | 1.1.0 | 0 | Pen tablet pressure, tilt, rotation and eraser end on macOS and Linux |
+| 2026-11-23 13:48:07 | [figment-openbao](https://crates.io/crates/figment-openbao) | 0.1.0 | 0 | A Figment provider that loads startup configuration from OpenBao KV v2 secrets. |
+| 2026-11-23 13:50:34 | [iris-grammars](https://crates.io/crates/iris-grammars) | 0.0.1 | 0 | VS Code's TextMate grammars, and those of languages it has none for, under perm… |
+| 2026-11-23 13:50:45 | [geectl](https://crates.io/crates/geectl) | 0.2.1 | 0 | Geeko Controller — a machine-first CLI for agents (OBS + src.opensuse.org) |
+| 2026-11-23 13:51:37 | [state_derive](https://crates.io/crates/state_derive) | 0.1.0 | 0 | Derive macro for the state_lock crate |
+| 2026-11-23 13:51:42 | [state_lock](https://crates.io/crates/state_lock) | 0.1.0 | 0 | A synchronization primitive that lets tasks wait for a shared state to become r… |
+| 2026-11-23 13:55:53 | [domain-base](https://crates.io/crates/domain-base) | 0.13.0 | 0 | A DNS library for Rust: protocol basics. |
+| 2026-11-23 13:57:44 | [rust-motion-vector](https://crates.io/crates/rust-motion-vector) | 1.1.0 | 0 | Vector paths, boolean operations, non-affine mesh warping, and contour auto-tra… |
+| 2026-11-23 13:58:01 | [sutegi-pgext](https://crates.io/crates/sutegi-pgext) | 0.16.0 | 0 | Write PostgreSQL extensions in Rust with #[pg_function], set-returning SQL func… |
+| 2026-11-23 13:59:43 | [vsixpublisher](https://crates.io/crates/vsixpublisher) | 0.1.0 | 0 | A cross-platform drop-in replacement for the VsixPublisher tool included in the… |
+| 2026-11-23 14:03:27 | [shaped-rustls](https://crates.io/crates/shaped-rustls) | 0.23.4600 | 0 | A fork of rustls 0.23.46 with an opt-in API for shaping the TLS ClientHello (br… |
+| 2026-11-23 14:04:54 | [zop](https://crates.io/crates/zop) | 0.3.0 | 0 | Every project, ranked by use: list, refresh, and per-project tmp paths. |
+| 2026-11-23 14:07:34 | [rust-motion-ts](https://crates.io/crates/rust-motion-ts) | 1.1.0 | 0 | Native TypeScript/Node.js bindings and Remotion-style API bridge for Rust Motion |
+| 2026-11-23 14:12:01 | [rc-atari-media](https://crates.io/crates/rc-atari-media) | 0.1.0 | 0 | Pure Atari XEX, ATR/XFD, CAR/raw cartridge and standard CAS media |
+| 2026-11-23 14:12:01 | [rc-c64-cartridge](https://crates.io/crates/rc-c64-cartridge) | 0.1.0 | 0 | Commodore 64 cartridge image (CRT) parser and builder |
+| 2026-11-23 14:12:01 | [rc-c64-tape](https://crates.io/crates/rc-c64-tape) | 0.1.0 | 0 | Commodore 64 TAP tape image parser and writer, with the TED TAP v2 variant |
+| 2026-11-23 14:12:02 | [rc-cbm-dos](https://crates.io/crates/rc-cbm-dos) | 0.1.0 | 0 | Commodore DOS file-system rules shared by the D64, D71 and D81 disk images |
+| 2026-11-23 14:12:03 | [rc-chd](https://crates.io/crates/rc-chd) | 0.1.0 | 0 | CHD v5 compressed hunks of data: reads CD images (cdzl, cdlz and cdfl hunks) fr… |
+| 2026-11-23 14:13:24 | [zenzai-core](https://crates.io/crates/zenzai-core) | 0.7.0 | 0 | Shared functionality for xdg-desktop-portal-zenzai and its companion tools |
+| 2026-11-23 14:13:28 | [zenzai-app-select](https://crates.io/crates/zenzai-app-select) | 0.7.0 | 0 | A compact application chooser for lightweight Wayland compositors |
+| 2026-11-23 14:13:29 | [zenzai-dialog-access](https://crates.io/crates/zenzai-dialog-access) | 0.7.0 | 0 | A compact access confirmation dialog |
+| 2026-11-23 14:13:29 | [zenzai-dialog-launcher](https://crates.io/crates/zenzai-dialog-launcher) | 0.7.0 | 0 | A compact dynamic launcher confirmation dialog |
+| 2026-11-23 14:13:30 | [zenzai-dialog-print](https://crates.io/crates/zenzai-dialog-print) | 0.7.0 | 0 | A minimal print dialog for lightweight wayland compositors, part of xdg-desktop… |
+| 2026-11-23 14:14:26 | [evorule-primitives](https://crates.io/crates/evorule-primitives) | 0.1.0 | 0 | EvoRule base primitive types: the deterministic JSON value model and the I/O ha… |
+| 2026-11-23 14:14:33 | [canopen-dictator-core](https://crates.io/crates/canopen-dictator-core) | 0.1.0-alpha.1 | 0 | CANopen object dictionary model, project file, XDD import, EDS and Markdown exp… |
+| 2026-11-23 14:14:36 | [canopen-dictator-canfestival](https://crates.io/crates/canopen-dictator-canfestival) | 0.1.0-alpha.1 | 0 | CanFestival-compatible C code generator and .od import/export (port of CanFesti… |
+| 2026-11-23 14:14:38 | [canopen-dictator](https://crates.io/crates/canopen-dictator) | 0.1.0-alpha.1 | 0 | CANopen object dictionary editor |
+| 2026-11-23 14:14:40 | [syk-search](https://crates.io/crates/syk-search) | 0.1.2 | 0 | Search folder names, file names and file contents in one pass. |
+| 2026-11-23 14:15:38 | [zurix-web-core](https://crates.io/crates/zurix-web-core) | 0.1.0 | 0 | Secure, frontend-agnostic Rust web application runtime |
+| 2026-11-23 14:15:51 | [chess-puzzle-picker](https://crates.io/crates/chess-puzzle-picker) | 0.1.0 | 0 | Crate for efficient access to chess puzzles from the lichess puzzle database. |
+| 2026-11-23 14:16:46 | [datafusion-distributed-cli](https://crates.io/crates/datafusion-distributed-cli) | 5.0.0 | 0 | DataFusion's CLI with distributed execution capabilities, and a viewer for Data… |
 
 ## Data source
 
