@@ -1,0 +1,25 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-23T06:21:01.62137Z,boundstr,0.2.0,0,0,https://github.com/Byunk/boundstr,A string type for Rust whose length is guaranteed to be within bounds.
+2026-11-23T06:21:36.649509Z,waft-service-protocol,0.10.0,0,0,https://github.com/waos-dev/waft,How a client reaches a running Waft app's service extensions on the same machine
+2026-11-23T06:22:24.893495Z,shunt-cli,0.1.2,0,0,https://github.com/shettyh/shunt,"CLI binary for Shunt: `shunt check`, `shunt verify`, `shunt test`, `shunt run`, and `shunt dev`"
+2026-11-23T06:31:52.134815Z,aster_forge_config_macros,0.1.0-alpha.1,0,0,https://github.com/AsterCommunity/AsterForge,Derive macros for AsterForge configuration validation
+2026-11-23T06:35:53.047346Z,errgroup-guru,0.1.0,0,0,https://github.com/StarcevAlexander/errgroup-guru,"Go errgroup-style task groups for Rust - run tasks on threads, wait for all and get the first error, with concurrency limits, zero dependencies"
+2026-11-23T06:46:40.090475Z,singleflight-guru,0.1.0,0,0,https://github.com/StarcevAlexander/singleflight-guru,"Go singleflight-style call deduplication for Rust - concurrent calls with the same key share one execution and its result, zero dependencies"
+2026-11-23T06:49:45.453894Z,tallylight-core,0.1.1,0,0,https://github.com/DVP-Th30/tallylight,Session state model for tallylight (aligned with A2A TaskState)
+2026-11-23T06:49:48.11627Z,tallylight-client,0.1.1,0,0,https://github.com/DVP-Th30/tallylight,Screen-side client for tallylight: pair with a machine and receive its agent sessions
+2026-11-23T06:49:50.851944Z,tallylight,0.1.1,0,0,https://github.com/DVP-Th30/tallylight,"The state of your coding agent sessions, streamed to the screens you pair"
+2026-11-23T06:49:51.859253Z,tallylight-ffi,0.1.1,0,0,https://github.com/DVP-Th30/tallylight,Kotlin and Swift bindings (UniFFI) for the tallylight screen client
+2026-11-23T06:57:45.767128Z,humanizr-guru,0.1.0,0,0,https://github.com/StarcevAlexander/humanizr-guru,"Humanizer-style formatting for Rust - human-readable durations, file sizes, number words and ordinals like 21st, zero dependencies"
+2026-11-23T07:02:01.908681Z,rustify-player,0.2.0,0,0,https://github.com/1arley/rustify,"Native desktop music player built with Rust, GPUI, and libmpv"
+2026-11-23T07:06:41.651074Z,mirui-sprite-stack-format,0.57.0,0,0,https://github.com/W-Mai/mirui,Layer placement descriptors for MIRX sprite atlases
+2026-11-23T07:08:16.27318Z,swiss,0.1.0,0,0,https://github.com/Swivelgames/Swiss,Cooperative file and directory claims
+2026-11-23T07:08:18.48653Z,env-guru,0.1.0,0,0,https://github.com/StarcevAlexander/env-guru,"dotenv-style environment configuration for Rust - .env parsing, variable expansion and typed access with defaults, zero dependencies"
+2026-11-23T07:14:12.681673Z,workyard-core,0.1.0,0,0,https://github.com/Swivelgames/Workyard,Task lifecycle and repository coordination contracts for Workyard
+2026-11-23T07:14:14.416203Z,workyard-system,0.1.0,0,0,https://github.com/Swivelgames/Workyard,Native file identity and workspace locks for Workyard
+2026-11-23T07:14:15.843536Z,workyard-git,0.1.0,0,0,https://github.com/Swivelgames/Workyard,Git worktree inspection and process supervision for Workyard
+2026-11-23T07:14:16.131506Z,workyard-state,0.1.0,0,0,https://github.com/Swivelgames/Workyard,"Workspace storage, task records and recovery evidence for Workyard"
+2026-11-23T07:14:16.74687Z,workyard-application,0.1.0,0,0,https://github.com/Swivelgames/Workyard,Task actions and interface contracts for Workyard
+2026-11-23T07:14:55.221665Z,deq-shapes,1.0.0-rc.1,0,0,https://github.com/kanilabs/deq,"Deq: traditional Kurdish tattoo shapes as an open, parametric design system."
+2026-11-23T07:14:59.188508Z,deq-cli,1.0.0-rc.1,0,0,https://github.com/kanilabs/deq,"Command-line tool (`deq`) for Deq shapes, traditional Kurdish tattoo motifs."
+2026-11-23T07:19:11.424482Z,tw-guru,0.1.0,0,0,https://github.com/StarcevAlexander/tw-guru,"Tailwind CSS class utilities for Rust - clsx-style composition and tailwind-merge-style conflict resolution, zero dependencies"
+2026-11-23T07:19:16.812528Z,lean-ctx-time,0.1.0,0,0,https://github.com/yvgude/lean-ctx,"Time for LeanCTX | OSS: UTC instants, durations and the RFC 3339 formats LeanCTX stores and signs, over jiff."
