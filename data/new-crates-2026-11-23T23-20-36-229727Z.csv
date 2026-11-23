@@ -1,0 +1,41 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-23T22:20:09.193182Z,paraviz-core,0.2.5,0,0,https://github.com/DimitriTimoz/paraviz,"Core VTK-inspired scientific data model, colormaps, transfer functions, and demand-driven pipeline for ParaViz"
+2026-11-23T22:20:31.162574Z,paraviz-sources,0.2.5,0,0,https://github.com/DimitriTimoz/paraviz,Procedural geometric and analytical scientific dataset sources for ParaViz
+2026-11-23T22:21:01.088667Z,paraviz-filters,0.2.5,0,0,https://github.com/DimitriTimoz/paraviz,"Parallel scientific visualization filters (contour, slice, clip, threshold, streamlines, glyphs, gradients) for ParaViz"
+2026-11-23T22:21:30.301155Z,paraviz-io,0.2.5,0,0,https://github.com/DimitriTimoz/paraviz,"Scientific file readers and writers (VTK, VTKHDF, CGNS, Exodus II, XDMF, EnSight, OpenFOAM, NIfTI, NRRD, MetaImage, STL, OBJ, PLY, CSV, GLB, GIF, HTML) for ParaViz"
+2026-11-23T22:22:00.085804Z,paraviz-render,0.2.5,0,0,https://github.com/DimitriTimoz/paraviz,"WebGPU (wgpu) scientific visualization rendering engine (surface, wireframe, edges, points, volume raymarching, overlays) for ParaViz"
+2026-11-23T22:22:23.832574Z,llama-cpp-gguf,0.30.0,0,0,https://github.com/intentee/llama-cpp-bindings,Reads and rewrites the metadata and tensors of GGUF files through llama.cpp's gguf API
+2026-11-23T22:23:34.150787Z,binbun-decompile,0.1.0,0,0,https://github.com/dmaivel/binbun,"Decompiler passes that recover variables, expressions, control structure and types from SSA."
+2026-11-23T22:24:53.949046Z,cpprunner,0.1.0,0,0,https://github.com/Zorz42/CppRunner,"Compile and run C++ programs from Rust: cached builds, CPU time, memory and output limits, and parallel runs."
+2026-11-23T22:26:33.646526Z,dep-vet,0.13.1,0,0,https://github.com/nassih-yassine/Dep-Vet,Check a package's risk before it enters your lockfile
+2026-11-23T22:28:19.66898Z,launchpad-updates-protocol,2026.1123.1,0,0,,Launchpad updates: the signed wire format shared by the launchpad server and its clients
+2026-11-23T22:28:35.654944Z,launchpad-updater,2026.1123.1,0,0,,"Desktop self-update from a launchpad server: signed release checks, streamed downloads, atomic exe and .app bundle swaps with crash restore"
+2026-11-23T22:29:12.965448Z,paraviz,0.2.6,0,0,https://github.com/DimitriTimoz/paraviz,ParaView rewritten in Rust using WebGPU (wgpu) for scientific visualization
+2026-11-23T22:29:49.29666Z,llama-cpp-params,0.30.0,0,0,https://github.com/intentee/llama-cpp-bindings,"Configures a llama.cpp load: model params, context params, and fitting both to device memory"
+2026-11-23T22:34:24.686122Z,binbun-x86,0.1.0,0,0,https://github.com/dmaivel/binbun,x86 and x86-64 instruction decoder generated from Intel XED's datafiles.
+2026-11-23T22:34:26.878099Z,binbun-disasm,0.1.0,0,0,https://github.com/dmaivel/binbun,Decode and inspect x86 and AArch64 instructions through one API.
+2026-11-23T22:39:52.868752Z,llama-cpp-model,0.30.0,0,0,https://github.com/intentee/llama-cpp-bindings,"A loaded llama.cpp model and what it holds: its file's metadata, vocabulary and tokenization, chat templates, decision head and LoRA adapters"
+2026-11-23T22:41:12.440442Z,paraviz-app,0.2.7,0,0,https://github.com/DimitriTimoz/paraviz,Interactive ParaView-style WebGPU desktop application and headless CLI renderer for ParaViz
+2026-11-23T22:44:33.081645Z,f_aicv,0.1.1,0,0,https://github.com/0xhappyboy/f_aicv,"A Rust-based engine for the novel AI Video Infinite Canvas Vector (*.aicv) interchange protocol. It defines the data abstraction layer for unbounded canvas graphs, shot linkage and bidirectional NLE…"
+2026-11-23T22:45:14.687403Z,binbun-capi,0.1.0,0,0,https://github.com/dmaivel/binbun,C and C++ API of binbun (libbinbun): its x86 and AArch64 disassemblers.
+2026-11-23T22:47:45.205738Z,castra-core,0.1.0-alpha.2,0,0,https://github.com/castra-build/castra,"The foundation of Castra's runtime: the types its layers share, starting with the error type."
+2026-11-23T22:47:46.076499Z,castra-protocol,0.1.0-alpha.2,0,0,https://github.com/castra-build/castra,"The protocol Castra's crates and tools share: URLs, hydration markers, attributes, and the CLI-server contract."
+2026-11-23T22:49:50.060631Z,llama-cpp-context,0.30.0,0,0,https://github.com/intentee/llama-cpp-bindings,"Running a llama.cpp model in a context: its limits, building batches and handing them over, decoding and encoding, and reading the logits and embeddings of the last decode"
+2026-11-23T22:53:37.576314Z,rein-core,0.1.4,0,0,https://github.com/rein-lang/rein,"Parser, checker and step runner of Rein, a language for agent processes."
+2026-11-23T22:56:05.34459Z,binbun-x86-lift,0.1.0,0,0,https://github.com/dmaivel/binbun,Lifts x86 and x86-64 instructions to binbun's instruction semantics.
+2026-11-23T22:59:52.441671Z,llama-cpp-context-memory,0.30.0,0,0,https://github.com/intentee/llama-cpp-bindings,"Editing the KV memory of a llama.cpp context: shifting, dividing, copying, keeping and removing the positions of its sequences"
+2026-11-23T23:06:56.254278Z,binbun,0.1.0,0,0,https://github.com/dmaivel/binbun,Disassembler and decompiler engine.
+2026-11-23T23:08:17.069712Z,akousma-core,0.1.0,0,0,https://github.com/MuXolotl/Akousma,"Core I/O, bit readers and shared types for the Akousma audio decoding library"
+2026-11-23T23:09:05.740472Z,akousma-meta,0.1.0,0,0,https://github.com/MuXolotl/Akousma,"Read-only parsers of ID3v1, APE, Lyrics3 and RIFF INFO tags for the Akousma audio decoding library"
+2026-11-23T23:09:49.948386Z,llama-cpp-context-state,0.30.0,0,0,https://github.com/intentee/llama-cpp-bindings,"Saving and restoring the state of a llama.cpp context: session files, sequence state files and raw state data"
+2026-11-23T23:09:54.004413Z,akousma-wav,0.1.0,0,0,https://github.com/MuXolotl/Akousma,"WAVE demuxer (RIFF, RIFX, RF64, BW64, Sony Wave64) and IMA and Microsoft ADPCM decoders for the Akousma audio decoding library"
+2026-11-23T23:10:41.642182Z,akousma,0.1.0,0,0,https://github.com/MuXolotl/Akousma,"Audio decoding library in pure Rust: containers, codecs and tags, without dependencies or unsafe code"
+2026-11-23T23:10:55.106839Z,tpt-algo-fraud,0.0.0,0,0,,Anomaly scoring with seeded Isolation Forests
+2026-11-23T23:10:58.683627Z,tpt-algo-soc,0.0.0,0,0,,Battery state-of-charge estimation via Extended Kalman Filter (RC equivalent circuit)
+2026-11-23T23:11:01.896444Z,tpt-algo-orderbook,0.0.0,0,0,,"Limit order book simulation with price-time priority matching, VWAP and spread"
+2026-11-23T23:11:05.219723Z,tpt-algo-routing,0.0.0,0,0,,Vehicle routing (CVRP) construction and local search
+2026-11-23T23:11:08.753641Z,tpt-algo-swarm,0.0.0,0,0,,Velocity-obstacle collision avoidance and grid path planning for multi-agent systems
+2026-11-23T23:13:55.090603Z,hyperlane-plugin-negotiate,22.8.2,0,0,https://github.com/hyperlane-dev/hyperlane.git,"A response negotiation plugin for the Hyperlane framework, answering with the content coding the client accepts and with 304 Not Modified while a validator still matches."
+2026-11-23T23:14:18.088516Z,tpt-algo-consensus,0.0.0,0,0,,"Deterministic BFT consensus state machine (HotStuff-family), fixed-point only"
+2026-11-23T23:17:46.461184Z,binbun-session,0.1.0,0,0,https://github.com/dmaivel/binbun,"binbun's engine for interactive tools, with background analysis, projects and undoable edits."
+2026-11-23T23:19:52.193419Z,llama-cpp-mtmd,0.30.0,0,0,https://github.com/intentee/llama-cpp-bindings,"The llama.cpp multimodal projector: loading it, decoding media into bitmaps, tokenizing text and media into chunks, encoding and evaluating the chunks, and measuring the projector's memory"

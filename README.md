@@ -8,44 +8,54 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-23 22:19 UTC
+## Latest list — 2026-11-23 23:20 UTC
 
-New crates published between 2026-11-23 21:21 UTC and 2026-11-23 22:19 UTC.
+New crates published between 2026-11-23 22:19 UTC and 2026-11-23 23:20 UTC.
 
-[Full CSV](data/new-crates-2026-11-23T22-19-07-654636Z.csv)
+[Full CSV](data/new-crates-2026-11-23T23-20-36-229727Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-23 21:23:53 | [xray-gotatun](https://crates.io/crates/xray-gotatun) | 0.9.100 | 0 | A fork of gotatun 0.9.1, a userspace WireGuard implementation, with opt-in boun… |
-| 2026-11-23 21:28:12 | [ce-stream-postgres](https://crates.io/crates/ce-stream-postgres) | 0.6.0 | 0 | PostgreSQL logical replication change source for ce-stream |
-| 2026-11-23 21:29:15 | [binbun-ast](https://crates.io/crates/binbun-ast) | 0.1.0 | 0 | Typed syntax trees of binbun's decompiled functions. |
-| 2026-11-23 21:29:35 | [rpt-sdk](https://crates.io/crates/rpt-sdk) | 0.2.1 | 0 | The Rust implementation of the rpt plugin protocol |
-| 2026-11-23 21:31:24 | [terminal-commander-codemode](https://crates.io/crates/terminal-commander-codemode) | 0.4.0 | 0 | Pure-Rust Monty Python 3.14-subset Code Mode sandbox and 60-op dispatcher for T… |
-| 2026-11-23 21:31:29 | [aurelin](https://crates.io/crates/aurelin) | 0.3.3 | 0 | Aurelin is a Rust translation of Laravel |
-| 2026-11-23 21:32:17 | [mycelium-federation-client](https://crates.io/crates/mycelium-federation-client) | 9.1.0-rc.1 | 0 | HTTP client the mycelium gateway uses to call peer instances (federation). |
-| 2026-11-23 21:32:48 | [fints-client-derive](https://crates.io/crates/fints-client-derive) | 0.1.0 | 0 | Derive macros for fints-client's declarative FinTS segment definitions |
-| 2026-11-23 21:40:03 | [binbun-print](https://crates.io/crates/binbun-print) | 0.1.0 | 0 | Prints binbun's decompiled functions as source code: C, with its binbun_defs.h… |
-| 2026-11-23 21:41:47 | [grafta-bridge](https://crates.io/crates/grafta-bridge) | 0.6.0 | 0 | grafta's bridge to the files open in Figma: a WebSocket server on this computer… |
-| 2026-11-23 21:46:22 | [colors-rs](https://crates.io/crates/colors-rs) | 1.0.0 | 0 | Simple color package for Rust |
-| 2026-11-23 21:47:19 | [kui-winit](https://crates.io/crates/kui-winit) | 0.30.13-kui.1 | 0 | KUI's winit backend for UIKit window scenes and Android touch exploration. |
-| 2026-11-23 21:49:41 | [silverscript-core](https://crates.io/crates/silverscript-core) | 1.0.2 | 0 | Shared core utilities for SilverScript crates |
-| 2026-11-23 21:50:51 | [binbun-sigpack](https://crates.io/crates/binbun-sigpack) | 0.1.0 | 0 | Signature packs that name statically linked library functions in stripped binar… |
-| 2026-11-23 21:57:57 | [openengine](https://crates.io/crates/openengine) | 0.0.0-alpha.0 | 0 | Placeholder for soon-to-be-published crate |
-| 2026-11-23 22:01:50 | [binbun-typedb](https://crates.io/crates/binbun-typedb) | 0.1.0 | 0 | Declarations of library functions and types, with their sources, for binbun's a… |
-| 2026-11-23 22:03:36 | [thru-ledger](https://crates.io/crates/thru-ledger) | 0.5.3 | 0 | Ledger hardware-wallet signer for the Thru blockchain: APDU protocol, HID and S… |
-| 2026-11-23 22:03:36 | [rust-args-parser-derive](https://crates.io/crates/rust-args-parser-derive) | 0.1.0 | 0 | Implementation of rust-args-parser's optional derive feature |
-| 2026-11-23 22:12:06 | [opportune](https://crates.io/crates/opportune) | 0.1.0 | 0 | Calendar availability and scheduling calculations across constraints. |
-| 2026-11-23 22:12:17 | [opportune-json](https://crates.io/crates/opportune-json) | 0.1.0 | 0 | Wire types, validating conversions, schema and upgrade for the opportune engine. |
-| 2026-11-23 22:12:26 | [opportune-adapters](https://crates.io/crates/opportune-adapters) | 0.1.0 | 0 | Graph and Google calendar conversions into opportune domain types. |
-| 2026-11-23 22:12:41 | [binbun-typeinfer](https://crates.io/crates/binbun-typeinfer) | 0.1.0 | 0 | Type inference for machine code by algebraic subtyping (BinSub). |
-| 2026-11-23 22:15:34 | [llama-cpp-error-chain](https://crates.io/crates/llama-cpp-error-chain) | 0.30.0 | 0 | Renders an error together with every error in its source chain as one line |
-| 2026-11-23 22:15:36 | [llama-cpp-path-c-string](https://crates.io/crates/llama-cpp-path-c-string) | 0.30.0 | 0 | Converts a filesystem path into the C string llama.cpp takes a path as |
-| 2026-11-23 22:15:36 | [llama-cpp-token-usage](https://crates.io/crates/llama-cpp-token-usage) | 0.30.0 | 0 | Token accounting for llama.cpp generations: prompt, cached, multimodal and gene… |
-| 2026-11-23 22:15:48 | [llama-cpp-native](https://crates.io/crates/llama-cpp-native) | 0.30.0 | 0 | llama.cpp built from its sources with CMake, the native library llama-cpp-bindi… |
-| 2026-11-23 22:15:54 | [llama-cpp-backend](https://crates.io/crates/llama-cpp-backend) | 0.30.0 | 0 | The process-global llama.cpp runtime: initialization, NUMA, compute devices, dy… |
-| 2026-11-23 22:17:32 | [checkhealth](https://crates.io/crates/checkhealth) | 0.2.0-rc.1 | 0 | Check your toolbelt, or your AI agent's sandbox, for necessary tools. |
-| 2026-11-23 22:17:51 | [fm1-usb](https://crates.io/crates/fm1-usb) | 0.2.0-rc.0 | 0 | Host-side USB discovery, MIDI and log snapshots for the M-VAVE FM-1 |
-| 2026-11-23 22:18:21 | [fm1-cli](https://crates.io/crates/fm1-cli) | 0.2.0-rc.0 | 0 | Read M-VAVE FM-1 logs and timing reports over USB-MIDI |
+| 2026-11-23 22:20:09 | [paraviz-core](https://crates.io/crates/paraviz-core) | 0.2.5 | 0 | Core VTK-inspired scientific data model, colormaps, transfer functions, and dem… |
+| 2026-11-23 22:20:31 | [paraviz-sources](https://crates.io/crates/paraviz-sources) | 0.2.5 | 0 | Procedural geometric and analytical scientific dataset sources for ParaViz |
+| 2026-11-23 22:21:01 | [paraviz-filters](https://crates.io/crates/paraviz-filters) | 0.2.5 | 0 | Parallel scientific visualization filters (contour, slice, clip, threshold, str… |
+| 2026-11-23 22:21:30 | [paraviz-io](https://crates.io/crates/paraviz-io) | 0.2.5 | 0 | Scientific file readers and writers (VTK, VTKHDF, CGNS, Exodus II, XDMF, EnSigh… |
+| 2026-11-23 22:22:00 | [paraviz-render](https://crates.io/crates/paraviz-render) | 0.2.5 | 0 | WebGPU (wgpu) scientific visualization rendering engine (surface, wireframe, ed… |
+| 2026-11-23 22:22:23 | [llama-cpp-gguf](https://crates.io/crates/llama-cpp-gguf) | 0.30.0 | 0 | Reads and rewrites the metadata and tensors of GGUF files through llama.cpp's g… |
+| 2026-11-23 22:23:34 | [binbun-decompile](https://crates.io/crates/binbun-decompile) | 0.1.0 | 0 | Decompiler passes that recover variables, expressions, control structure and ty… |
+| 2026-11-23 22:24:53 | [cpprunner](https://crates.io/crates/cpprunner) | 0.1.0 | 0 | Compile and run C++ programs from Rust: cached builds, CPU time, memory and out… |
+| 2026-11-23 22:26:33 | [dep-vet](https://crates.io/crates/dep-vet) | 0.13.1 | 0 | Check a package's risk before it enters your lockfile |
+| 2026-11-23 22:28:19 | [launchpad-updates-protocol](https://crates.io/crates/launchpad-updates-protocol) | 2026.1123.1 | 0 | Launchpad updates: the signed wire format shared by the launchpad server and it… |
+| 2026-11-23 22:28:35 | [launchpad-updater](https://crates.io/crates/launchpad-updater) | 2026.1123.1 | 0 | Desktop self-update from a launchpad server: signed release checks, streamed do… |
+| 2026-11-23 22:29:12 | [paraviz](https://crates.io/crates/paraviz) | 0.2.6 | 0 | ParaView rewritten in Rust using WebGPU (wgpu) for scientific visualization |
+| 2026-11-23 22:29:49 | [llama-cpp-params](https://crates.io/crates/llama-cpp-params) | 0.30.0 | 0 | Configures a llama.cpp load: model params, context params, and fitting both to… |
+| 2026-11-23 22:34:24 | [binbun-x86](https://crates.io/crates/binbun-x86) | 0.1.0 | 0 | x86 and x86-64 instruction decoder generated from Intel XED's datafiles. |
+| 2026-11-23 22:34:26 | [binbun-disasm](https://crates.io/crates/binbun-disasm) | 0.1.0 | 0 | Decode and inspect x86 and AArch64 instructions through one API. |
+| 2026-11-23 22:39:52 | [llama-cpp-model](https://crates.io/crates/llama-cpp-model) | 0.30.0 | 0 | A loaded llama.cpp model and what it holds: its file's metadata, vocabulary and… |
+| 2026-11-23 22:41:12 | [paraviz-app](https://crates.io/crates/paraviz-app) | 0.2.7 | 0 | Interactive ParaView-style WebGPU desktop application and headless CLI renderer… |
+| 2026-11-23 22:44:33 | [f_aicv](https://crates.io/crates/f_aicv) | 0.1.1 | 0 | A Rust-based engine for the novel AI Video Infinite Canvas Vector (*.aicv) inte… |
+| 2026-11-23 22:45:14 | [binbun-capi](https://crates.io/crates/binbun-capi) | 0.1.0 | 0 | C and C++ API of binbun (libbinbun): its x86 and AArch64 disassemblers. |
+| 2026-11-23 22:47:45 | [castra-core](https://crates.io/crates/castra-core) | 0.1.0-alpha.2 | 0 | The foundation of Castra's runtime: the types its layers share, starting with t… |
+| 2026-11-23 22:47:46 | [castra-protocol](https://crates.io/crates/castra-protocol) | 0.1.0-alpha.2 | 0 | The protocol Castra's crates and tools share: URLs, hydration markers, attribut… |
+| 2026-11-23 22:49:50 | [llama-cpp-context](https://crates.io/crates/llama-cpp-context) | 0.30.0 | 0 | Running a llama.cpp model in a context: its limits, building batches and handin… |
+| 2026-11-23 22:53:37 | [rein-core](https://crates.io/crates/rein-core) | 0.1.4 | 0 | Parser, checker and step runner of Rein, a language for agent processes. |
+| 2026-11-23 22:56:05 | [binbun-x86-lift](https://crates.io/crates/binbun-x86-lift) | 0.1.0 | 0 | Lifts x86 and x86-64 instructions to binbun's instruction semantics. |
+| 2026-11-23 22:59:52 | [llama-cpp-context-memory](https://crates.io/crates/llama-cpp-context-memory) | 0.30.0 | 0 | Editing the KV memory of a llama.cpp context: shifting, dividing, copying, keep… |
+| 2026-11-23 23:06:56 | [binbun](https://crates.io/crates/binbun) | 0.1.0 | 0 | Disassembler and decompiler engine. |
+| 2026-11-23 23:08:17 | [akousma-core](https://crates.io/crates/akousma-core) | 0.1.0 | 0 | Core I/O, bit readers and shared types for the Akousma audio decoding library |
+| 2026-11-23 23:09:05 | [akousma-meta](https://crates.io/crates/akousma-meta) | 0.1.0 | 0 | Read-only parsers of ID3v1, APE, Lyrics3 and RIFF INFO tags for the Akousma aud… |
+| 2026-11-23 23:09:49 | [llama-cpp-context-state](https://crates.io/crates/llama-cpp-context-state) | 0.30.0 | 0 | Saving and restoring the state of a llama.cpp context: session files, sequence… |
+| 2026-11-23 23:09:54 | [akousma-wav](https://crates.io/crates/akousma-wav) | 0.1.0 | 0 | WAVE demuxer (RIFF, RIFX, RF64, BW64, Sony Wave64) and IMA and Microsoft ADPCM… |
+| 2026-11-23 23:10:41 | [akousma](https://crates.io/crates/akousma) | 0.1.0 | 0 | Audio decoding library in pure Rust: containers, codecs and tags, without depen… |
+| 2026-11-23 23:10:55 | [tpt-algo-fraud](https://crates.io/crates/tpt-algo-fraud) | 0.0.0 | 0 | Anomaly scoring with seeded Isolation Forests |
+| 2026-11-23 23:10:58 | [tpt-algo-soc](https://crates.io/crates/tpt-algo-soc) | 0.0.0 | 0 | Battery state-of-charge estimation via Extended Kalman Filter (RC equivalent ci… |
+| 2026-11-23 23:11:01 | [tpt-algo-orderbook](https://crates.io/crates/tpt-algo-orderbook) | 0.0.0 | 0 | Limit order book simulation with price-time priority matching, VWAP and spread |
+| 2026-11-23 23:11:05 | [tpt-algo-routing](https://crates.io/crates/tpt-algo-routing) | 0.0.0 | 0 | Vehicle routing (CVRP) construction and local search |
+| 2026-11-23 23:11:08 | [tpt-algo-swarm](https://crates.io/crates/tpt-algo-swarm) | 0.0.0 | 0 | Velocity-obstacle collision avoidance and grid path planning for multi-agent sy… |
+| 2026-11-23 23:13:55 | [hyperlane-plugin-negotiate](https://crates.io/crates/hyperlane-plugin-negotiate) | 22.8.2 | 0 | A response negotiation plugin for the Hyperlane framework, answering with the c… |
+| 2026-11-23 23:14:18 | [tpt-algo-consensus](https://crates.io/crates/tpt-algo-consensus) | 0.0.0 | 0 | Deterministic BFT consensus state machine (HotStuff-family), fixed-point only |
+| 2026-11-23 23:17:46 | [binbun-session](https://crates.io/crates/binbun-session) | 0.1.0 | 0 | binbun's engine for interactive tools, with background analysis, projects and u… |
+| 2026-11-23 23:19:52 | [llama-cpp-mtmd](https://crates.io/crates/llama-cpp-mtmd) | 0.30.0 | 0 | The llama.cpp multimodal projector: loading it, decoding media into bitmaps, to… |
 
 ## Data source
 
