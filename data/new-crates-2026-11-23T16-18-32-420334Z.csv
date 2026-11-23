@@ -1,0 +1,39 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-23T15:19:54.208766Z,domain-new,0.13.0,0,0,https://github.com/nlnetlabs/domain-base/,A DNS library for Rust: meta crate.
+2026-11-23T15:22:49.285809Z,postcss-guru,0.1.1,0,0,https://github.com/StarcevAlexander/postcss-guru,"PostCSS for Rust - CSS parser and stringifier that round-trip untouched source byte for byte, an editable node tree with source positions, a plugin pipeline and postcss-compatible syntax errors, zero…"
+2026-11-23T15:24:45.486874Z,opencobot,0.0.1,0,0,https://github.com/opencobot/opencobot,"OpenCobot: local-first, model-agnostic computer control for AI (pre-alpha placeholder)"
+2026-11-23T15:26:26.640733Z,rc-d64,0.1.0,0,0,https://github.com/elpapimango/retroclawd-core,Commodore 1541 D64 disk image reader and writer
+2026-11-23T15:28:43.167148Z,rscrypto-rustls,0.1.0,0,0,https://github.com/loadingalias/rscrypto,"TLS 1.3 and opt-in TLS 1.2 cryptographic provider for rustls, backed by rscrypto"
+2026-11-23T15:30:24.454919Z,ratatoist,0.6.0,0,0,https://github.com/cxrlos/ratatoist,A keyboard-first terminal client for Todoist
+2026-11-23T15:33:13.373568Z,codepilot,0.1.0,0,0,,Repository code metrics (Markdown/CSV) and personal-data scrubbing for GitHub / GitLab / Bitbucket
+2026-11-23T15:36:27.134579Z,ltr-protocol,0.1.1,0,0,https://github.com/fishandsheep/ltr,Frozen null-delimited JSON framing and protocol messages for LTR.
+2026-11-23T15:36:56.260932Z,rc-dsk,0.1.0,0,0,https://github.com/elpapimango/retroclawd-core,Amstrad / Spectrum +3 DSK and extended DSK disk image reader and writer
+2026-11-23T15:37:04.124578Z,ltr-relay,0.1.1,0,0,https://github.com/fishandsheep/ltr,"Relay, client, server, authentication, and transport layers for LTR."
+2026-11-23T15:37:38.318428Z,ltr-cli,0.1.1,0,0,https://github.com/fishandsheep/ltr,"Async-Rust TCP tunnel exposing local ports through a remote relay: encrypted by default, Web console included."
+2026-11-23T15:41:36.482576Z,memlite-mcp,0.0.0,0,0,https://github.com/Aeron/memlite-mcp,Persistent agent memory MCP server and CLI using local SQLite storage and ONNX embeddings.
+2026-11-23T15:41:56.553568Z,lampas,0.1.0,0,0,,"Lampas — a scripting language (placeholder crate, implementation in progress)."
+2026-11-23T15:41:57.865595Z,headless-capture,0.1.0,0,0,https://gitlab.com/porky11/headless-capture,"Headless game capture: frame readback, H.264/AAC encoding, MP4 muxing and a JSONL take manifest"
+2026-11-23T15:42:36.194135Z,live-capture,0.1.0,0,0,https://gitlab.com/porky11/headless-capture,"In-game screenshot and video capture for winit/wgpu games: key bindings with Ctrl swallowing, a non-stalling GPU readback ring, toasts and a REC indicator state"
+2026-11-23T15:48:04.382378Z,rc-g64,0.1.0,0,0,https://github.com/elpapimango/retroclawd-core,Commodore G64 raw GCR disk image reader and writer
+2026-11-23T15:48:15.763809Z,rc-mc68000,0.1.0,0,0,https://github.com/elpapimango/retroclawd-core,"Motorola MC68000 CPU core: instruction set, exceptions, a function-code-aware bus and a disassembler"
+2026-11-23T15:51:20.85617Z,workbench-appcontainer,0.7.0,0,0,https://github.com/eisoptric/workbench-sdk,Starts a program in a Windows AppContainer: the one crate where the app calls the system without the compiler's checks
+2026-11-23T15:51:22.192416Z,rankwise,0.1.0,0,0,https://github.com/brannondorsey/rankwise,"Lane-parallel order statistics: SIMD medians, quantiles, ranks and sigma clipping along one axis of an array."
+2026-11-23T15:51:32.24724Z,workbench-sandbox,0.7.0,0,0,https://github.com/eisoptric/workbench-sdk,"Cross-platform command sandboxing, process-group control, and SSRF-safe public-host resolution"
+2026-11-23T15:51:36.032656Z,workbench-computer,0.7.0,0,0,https://github.com/eisoptric/workbench-sdk,"The computer-use tools: real screenshots, mouse and keyboard input, and an app's element tree, on macOS and Windows"
+2026-11-23T15:51:40.410741Z,workbench-browser,0.7.0,0,0,https://github.com/eisoptric/workbench-sdk,"The browser an agent drives: Chrome through the DevTools protocol, Safari through WebDriver, a live view and recordings"
+2026-11-23T15:51:43.016149Z,workbench-programs,0.7.0,0,0,https://github.com/eisoptric/workbench-sdk,"Resumable SHA-512-verified archive downloader, archive unpacker, and bounded CLI prober"
+2026-11-23T15:53:23.101553Z,wasabi-rs,0.1.0,0,0,https://codeberg.org/WonderlandSys/wasabi,A basic ABI
+2026-11-23T15:54:10.799421Z,rust2go-ipc-result,0.2.0,0,0,https://github.com/jonathan197608/rust2go-ipc-result,Companion #[r2g_result] attribute: timeout + Result wrappers for rust2go-ipc async calls
+2026-11-23T15:56:05.12304Z,model-lang-python,0.6.0,0,0,https://github.com/badetitou/Model,"Python enricher: HTTP endpoints of Flask, FastAPI and Django on top of tree-sitter extraction"
+2026-11-23T15:56:08.919659Z,model-lang-java,0.6.0,0,0,https://github.com/badetitou/Model,"Java enricher: HTTP endpoints served by handler methods (Spring, JAX-RS) and GWT RPC calls"
+2026-11-23T15:56:14.171349Z,model-lang-typescript,0.6.0,0,0,https://github.com/badetitou/Model,"TypeScript enricher: HTTP calls (fetch, axios, Angular HttpClient) and HTTP endpoints (NestJS, Express-style)"
+2026-11-23T15:58:43.878186Z,rc-mos6502,0.1.0,0,0,https://github.com/elpapimango/retroclawd-core,NMOS MOS 6502 CPU core (retroclawd)
+2026-11-23T16:03:56.325615Z,embercut,0.0.0,0,0,https://github.com/embercut-studio/embercut,"EmberCut video editor (name reserved, not yet published)"
+2026-11-23T16:04:00.675691Z,dvr-runtime,0.1.0,0,0,https://github.com/fishloa/rust-broadcast,"Sans-IO DVR archive: the on-disk period format (an append-only HLS media playlist per period plus one media file), the writer's roll and retention state machine that returns a plan of storage operati…"
+2026-11-23T16:09:14.371575Z,rc-sna-snapshot,0.1.0,0,0,https://github.com/elpapimango/retroclawd-core,ZX Spectrum .sna snapshot reader and writer
+2026-11-23T16:11:23.455176Z,derive_dst,0.1.0,0,0,https://github.com/MusicalNinjaDad/derive_dst,"Derive macro for DST structs: generates a private `UninitFoo` MaybeUninit mirror, safe allocation constructors (`new_uninit_for_size` / `new_uninit_for_count` returning the box with its `Layout`, tai…"
+2026-11-23T16:15:53.212542Z,origami_syntax,0.2.1,0,0,https://github.com/nimble-123/origami,Shared syntax primitives for the origami ABAP and CDS formatter
+2026-11-23T16:15:54.947448Z,origami_layout,0.2.1,0,0,https://github.com/nimble-123/origami,Doc IR and printer for the origami ABAP and CDS formatter
+2026-11-23T16:15:56.535636Z,origami_abap,0.2.1,0,0,https://github.com/nimble-123/origami,"ABAP lexer, structure check and layout for the origami formatter"
+2026-11-23T16:15:56.845785Z,origami_cds,0.2.1,0,0,https://github.com/nimble-123/origami,"CDS family (DDLS, DDLX, DCL, BDEF, SRVD) support for the origami formatter"
+2026-11-23T16:15:58.468831Z,origami_core,0.2.1,0,0,https://github.com/nimble-123/origami,"Core of the origami ABAP and CDS formatter: detection, self-check, results"
