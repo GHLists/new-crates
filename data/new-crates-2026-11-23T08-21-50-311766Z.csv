@@ -1,0 +1,22 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-23T07:22:02.831749Z,horn-acoustics,0.1.0,0,0,,"Outdoor acoustics calculations for train horns: geometrical divergence (ISO 9613-2), atmospheric absorption (ISO 9613-1), speed of sound (ISO 2533), classical Doppler shift, the 49 CFR 222.21 horn-so…"
+2026-11-23T07:22:07.332233Z,irender-twin-kit,0.8.1,0,0,https://github.com/kaushik-xs/iRender,"Digital twins for iRender documents: 3D worlds drawn with three.js from glTF, OBJ, FBX, STL, USD and other models, with machine and sensor data, alarms, paths, zones and layout editing"
+2026-11-23T07:23:04.936079Z,workyard,0.1.0,0,0,https://github.com/Swivelgames/Workyard,Manage Git worktrees across repositories from a single task workspace
+2026-11-23T07:23:50.459966Z,ipsjdlfolio,0.1.0,0,0,https://github.com/rice8y/ipsjdlfolio,Read-only Rust SDK for IPSJ Digital Library bibliographic metadata
+2026-11-23T07:31:57.549524Z,Amdcheck,0.1.0,0,0,https://github.com/Aitor-236/mdcheck.git,A minimal markdown link checker
+2026-11-23T07:38:49.29121Z,clicodemode,0.6.1,0,0,https://github.com/muthuishere/clicodemode,Code Mode for Rust CLIs: register your commands as operations; agents run small JavaScript-like programs that call them.
+2026-11-23T07:40:43.452663Z,dkt,0.0.0,0,0,,"Docket: run, route and record agent work. Placeholder; the real crate is coming."
+2026-11-23T07:45:36.252769Z,usagi-pkg,0.4.0,0,0,https://github.com/DarklightGames/usagi,Reader for Unreal Engine 2 package files
+2026-11-23T07:46:25.366894Z,smy695-hello,0.1.0,0,0,,A simple hello world program in Rust
+2026-11-23T07:46:44.977677Z,usagi-io,0.4.0,0,0,https://github.com/DarklightGames/usagi,Exports Unreal Engine 2 package data to common file formats
+2026-11-23T07:51:26.711536Z,fnp-conformance,0.6.0,0,0,https://github.com/Dicklesworthstone/franken_numpy,"Differential conformance harness: numpy oracle capture, fixtures, drift detection."
+2026-11-23T07:53:08.295395Z,libsruman,0.1.0,0,0,https://github.com/Gigas002/sruman,"Steam Linux Runtime manager: install and update runtimes, run native games in them through profiles and prefixes"
+2026-11-23T07:54:04.723251Z,sruman,0.1.0,0,0,https://github.com/Gigas002/sruman,"Steam Linux Runtime manager: install and update runtimes, run native games in them through profiles and prefixes"
+2026-11-23T07:55:59.325488Z,liquid-xml-objects-runtime,21.6.6,0,0,,Liquid XML Objects runtime for Rust: read and write XML as typed objects generated from an XSD.
+2026-11-23T07:59:37.760091Z,lean-ctx-apps,3.12.7,0,0,https://github.com/yvgude/lean-ctx,LeanCTX | OSS apps on top of the Engine: the cockpit analysis (dashboard_pro).
+2026-11-23T08:02:10.589399Z,lean-ctx-cloud,3.12.7,0,0,https://github.com/yvgude/lean-ctx,"The LeanCTX Cloud connector: enrollment, bus, knowledge sync, tasks and policy on top of LeanCTX | OSS."
+2026-11-23T08:05:22.280536Z,emmy,0.0.0,0,0,https://github.com/mcy/emmy,a computer algebra system
+2026-11-23T08:07:35.950632Z,hyperlark-core,0.0.0,0,0,,"A placeholder. Hyperlark's core comes with Hyperlark Source; for the prebuilt parser, `cargo add hyperlark`."
+2026-11-23T08:09:24.811031Z,sakai,0.1.0-alpha.1,0,0,https://github.com/risk1996/sakai,Read-only Linux cgroup v2 metrics with portable parsers and typed snapshots
+2026-11-23T08:20:45.414718Z,dmvs,0.1.1,0,0,https://github.com/interaso/dmvs,Async high-level client for selected Czech ČÚZK DMVS SOAP services
+2026-11-23T08:21:42.925064Z,kaspa-r0-recursion-legacy,0.1.0,0,0,https://github.com/kaspanet/kaspa-r0-recursion-legacy,Unsound legacy RISC Zero recursion circuit for Kaspa consensus compatibility only

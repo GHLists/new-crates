@@ -8,38 +8,35 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-23 07:21 UTC
+## Latest list — 2026-11-23 08:21 UTC
 
-New crates published between 2026-11-23 06:18 UTC and 2026-11-23 07:21 UTC.
+New crates published between 2026-11-23 07:21 UTC and 2026-11-23 08:21 UTC.
 
-[Full CSV](data/new-crates-2026-11-23T07-21-04-923841Z.csv)
+[Full CSV](data/new-crates-2026-11-23T08-21-50-311766Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-23 06:21:01 | [boundstr](https://crates.io/crates/boundstr) | 0.2.0 | 0 | A string type for Rust whose length is guaranteed to be within bounds. |
-| 2026-11-23 06:21:36 | [waft-service-protocol](https://crates.io/crates/waft-service-protocol) | 0.10.0 | 0 | How a client reaches a running Waft app's service extensions on the same machine |
-| 2026-11-23 06:22:24 | [shunt-cli](https://crates.io/crates/shunt-cli) | 0.1.2 | 0 | CLI binary for Shunt: `shunt check`, `shunt verify`, `shunt test`, `shunt run`,… |
-| 2026-11-23 06:31:52 | [aster_forge_config_macros](https://crates.io/crates/aster_forge_config_macros) | 0.1.0-alpha.1 | 0 | Derive macros for AsterForge configuration validation |
-| 2026-11-23 06:35:53 | [errgroup-guru](https://crates.io/crates/errgroup-guru) | 0.1.0 | 0 | Go errgroup-style task groups for Rust - run tasks on threads, wait for all and… |
-| 2026-11-23 06:46:40 | [singleflight-guru](https://crates.io/crates/singleflight-guru) | 0.1.0 | 0 | Go singleflight-style call deduplication for Rust - concurrent calls with the s… |
-| 2026-11-23 06:49:45 | [tallylight-core](https://crates.io/crates/tallylight-core) | 0.1.1 | 0 | Session state model for tallylight (aligned with A2A TaskState) |
-| 2026-11-23 06:49:48 | [tallylight-client](https://crates.io/crates/tallylight-client) | 0.1.1 | 0 | Screen-side client for tallylight: pair with a machine and receive its agent se… |
-| 2026-11-23 06:49:50 | [tallylight](https://crates.io/crates/tallylight) | 0.1.1 | 0 | The state of your coding agent sessions, streamed to the screens you pair |
-| 2026-11-23 06:49:51 | [tallylight-ffi](https://crates.io/crates/tallylight-ffi) | 0.1.1 | 0 | Kotlin and Swift bindings (UniFFI) for the tallylight screen client |
-| 2026-11-23 06:57:45 | [humanizr-guru](https://crates.io/crates/humanizr-guru) | 0.1.0 | 0 | Humanizer-style formatting for Rust - human-readable durations, file sizes, num… |
-| 2026-11-23 07:02:01 | [rustify-player](https://crates.io/crates/rustify-player) | 0.2.0 | 0 | Native desktop music player built with Rust, GPUI, and libmpv |
-| 2026-11-23 07:06:41 | [mirui-sprite-stack-format](https://crates.io/crates/mirui-sprite-stack-format) | 0.57.0 | 0 | Layer placement descriptors for MIRX sprite atlases |
-| 2026-11-23 07:08:16 | [swiss](https://crates.io/crates/swiss) | 0.1.0 | 0 | Cooperative file and directory claims |
-| 2026-11-23 07:08:18 | [env-guru](https://crates.io/crates/env-guru) | 0.1.0 | 0 | dotenv-style environment configuration for Rust - .env parsing, variable expans… |
-| 2026-11-23 07:14:12 | [workyard-core](https://crates.io/crates/workyard-core) | 0.1.0 | 0 | Task lifecycle and repository coordination contracts for Workyard |
-| 2026-11-23 07:14:14 | [workyard-system](https://crates.io/crates/workyard-system) | 0.1.0 | 0 | Native file identity and workspace locks for Workyard |
-| 2026-11-23 07:14:15 | [workyard-git](https://crates.io/crates/workyard-git) | 0.1.0 | 0 | Git worktree inspection and process supervision for Workyard |
-| 2026-11-23 07:14:16 | [workyard-state](https://crates.io/crates/workyard-state) | 0.1.0 | 0 | Workspace storage, task records and recovery evidence for Workyard |
-| 2026-11-23 07:14:16 | [workyard-application](https://crates.io/crates/workyard-application) | 0.1.0 | 0 | Task actions and interface contracts for Workyard |
-| 2026-11-23 07:14:55 | [deq-shapes](https://crates.io/crates/deq-shapes) | 1.0.0-rc.1 | 0 | Deq: traditional Kurdish tattoo shapes as an open, parametric design system. |
-| 2026-11-23 07:14:59 | [deq-cli](https://crates.io/crates/deq-cli) | 1.0.0-rc.1 | 0 | Command-line tool (`deq`) for Deq shapes, traditional Kurdish tattoo motifs. |
-| 2026-11-23 07:19:11 | [tw-guru](https://crates.io/crates/tw-guru) | 0.1.0 | 0 | Tailwind CSS class utilities for Rust - clsx-style composition and tailwind-mer… |
-| 2026-11-23 07:19:16 | [lean-ctx-time](https://crates.io/crates/lean-ctx-time) | 0.1.0 | 0 | Time for LeanCTX \| OSS: UTC instants, durations and the RFC 3339 formats LeanCT… |
+| 2026-11-23 07:22:02 | [horn-acoustics](https://crates.io/crates/horn-acoustics) | 0.1.0 | 0 | Outdoor acoustics calculations for train horns: geometrical divergence (ISO 961… |
+| 2026-11-23 07:22:07 | [irender-twin-kit](https://crates.io/crates/irender-twin-kit) | 0.8.1 | 0 | Digital twins for iRender documents: 3D worlds drawn with three.js from glTF, O… |
+| 2026-11-23 07:23:04 | [workyard](https://crates.io/crates/workyard) | 0.1.0 | 0 | Manage Git worktrees across repositories from a single task workspace |
+| 2026-11-23 07:23:50 | [ipsjdlfolio](https://crates.io/crates/ipsjdlfolio) | 0.1.0 | 0 | Read-only Rust SDK for IPSJ Digital Library bibliographic metadata |
+| 2026-11-23 07:31:57 | [Amdcheck](https://crates.io/crates/Amdcheck) | 0.1.0 | 0 | A minimal markdown link checker |
+| 2026-11-23 07:38:49 | [clicodemode](https://crates.io/crates/clicodemode) | 0.6.1 | 0 | Code Mode for Rust CLIs: register your commands as operations; agents run small… |
+| 2026-11-23 07:40:43 | [dkt](https://crates.io/crates/dkt) | 0.0.0 | 0 | Docket: run, route and record agent work. Placeholder; the real crate is coming. |
+| 2026-11-23 07:45:36 | [usagi-pkg](https://crates.io/crates/usagi-pkg) | 0.4.0 | 0 | Reader for Unreal Engine 2 package files |
+| 2026-11-23 07:46:25 | [smy695-hello](https://crates.io/crates/smy695-hello) | 0.1.0 | 0 | A simple hello world program in Rust |
+| 2026-11-23 07:46:44 | [usagi-io](https://crates.io/crates/usagi-io) | 0.4.0 | 0 | Exports Unreal Engine 2 package data to common file formats |
+| 2026-11-23 07:51:26 | [fnp-conformance](https://crates.io/crates/fnp-conformance) | 0.6.0 | 0 | Differential conformance harness: numpy oracle capture, fixtures, drift detecti… |
+| 2026-11-23 07:53:08 | [libsruman](https://crates.io/crates/libsruman) | 0.1.0 | 0 | Steam Linux Runtime manager: install and update runtimes, run native games in t… |
+| 2026-11-23 07:54:04 | [sruman](https://crates.io/crates/sruman) | 0.1.0 | 0 | Steam Linux Runtime manager: install and update runtimes, run native games in t… |
+| 2026-11-23 07:55:59 | [liquid-xml-objects-runtime](https://crates.io/crates/liquid-xml-objects-runtime) | 21.6.6 | 0 | Liquid XML Objects runtime for Rust: read and write XML as typed objects genera… |
+| 2026-11-23 07:59:37 | [lean-ctx-apps](https://crates.io/crates/lean-ctx-apps) | 3.12.7 | 0 | LeanCTX \| OSS apps on top of the Engine: the cockpit analysis (dashboard_pro). |
+| 2026-11-23 08:02:10 | [lean-ctx-cloud](https://crates.io/crates/lean-ctx-cloud) | 3.12.7 | 0 | The LeanCTX Cloud connector: enrollment, bus, knowledge sync, tasks and policy… |
+| 2026-11-23 08:05:22 | [emmy](https://crates.io/crates/emmy) | 0.0.0 | 0 | a computer algebra system |
+| 2026-11-23 08:07:35 | [hyperlark-core](https://crates.io/crates/hyperlark-core) | 0.0.0 | 0 | A placeholder. Hyperlark's core comes with Hyperlark Source; for the prebuilt p… |
+| 2026-11-23 08:09:24 | [sakai](https://crates.io/crates/sakai) | 0.1.0-alpha.1 | 0 | Read-only Linux cgroup v2 metrics with portable parsers and typed snapshots |
+| 2026-11-23 08:20:45 | [dmvs](https://crates.io/crates/dmvs) | 0.1.1 | 0 | Async high-level client for selected Czech ČÚZK DMVS SOAP services |
+| 2026-11-23 08:21:42 | [kaspa-r0-recursion-legacy](https://crates.io/crates/kaspa-r0-recursion-legacy) | 0.1.0 | 0 | Unsound legacy RISC Zero recursion circuit for Kaspa consensus compatibility on… |
 
 ## Data source
 
