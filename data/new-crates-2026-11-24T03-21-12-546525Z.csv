@@ -1,0 +1,45 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-24T02:24:58.877416Z,visloc-sift-gpu,0.4.0,0,0,https://github.com/rsasaki0109/visloc-rs,wgpu compute SIFT (DoG detector + descriptors) mirroring visloc-vision's default SIFT path.
+2026-11-24T02:31:57.64024Z,zuplo,0.0.0,0,0,https://github.com/zuplo,Reserved by Zuplo for Zuplo API gateway tools in Rust. No code yet.
+2026-11-24T02:32:00.928407Z,zuplo-sdk,0.0.0,0,0,https://github.com/zuplo,Reserved by Zuplo for the SDK for writing Zuplo gateway policies in Rust. No code yet.
+2026-11-24T02:32:04.360508Z,zuplo-policy,0.0.0,0,0,https://github.com/zuplo,Reserved by Zuplo for writing a Zuplo gateway policy in Rust. No code yet.
+2026-11-24T02:32:27.072574Z,zuplo-policies,0.0.0,0,0,https://github.com/zuplo,Reserved by Zuplo for Zuplo gateway policies in Rust. No code yet.
+2026-11-24T02:32:29.947124Z,zuplo-macros,0.0.0,0,0,https://github.com/zuplo,Reserved by Zuplo for procedural macros for Zuplo Rust crates. No code yet.
+2026-11-24T02:33:01.420511Z,rvisor,0.1.0,0,0,https://github.com/motivic-ai/rvisor,tastes like metal
+2026-11-24T02:33:44.570434Z,rustedscreep-consts,0.1.0,0,0,https://github.com/jabbott-iii/rustedscreep,Constants facade over screeps-game-api plus values the API does not export (ADR-005).
+2026-11-24T02:33:46.748529Z,rustedscreep-core,0.1.0,0,0,https://github.com/jabbott-iii/rustedscreep,"Pure, deterministic decision logic for the bot; native-testable, no JS dependencies."
+2026-11-24T02:33:48.985155Z,rustedscreep-wasm,0.1.0,0,0,https://github.com/jabbott-iii/rustedscreep,"WASM boundary for the bot: snapshot, act, persistence, profiler and the exported loop."
+2026-11-24T02:34:58.159087Z,visloc-ba-gpu,0.4.0,0,0,https://github.com/rsasaki0109/visloc-rs,wgpu bundle adjustment (GPU linearization + implicit-Schur PCG) for visloc-rs SfM.
+2026-11-24T02:39:11.880052Z,tokedex-catalogue,0.0.1-preview.15,0,0,https://github.com/artificialanalysis/aa-router,"Sealed provider and model assets, and canonical schemas, for Tokedex."
+2026-11-24T02:39:12.323962Z,tokedex-credential-envelope,0.0.1-preview.15,0,0,https://github.com/artificialanalysis/aa-router,Envelope encryption for BYOK provider credentials (port of @tokedex/credential-envelope).
+2026-11-24T02:39:13.266711Z,tokedex-core,0.0.1-preview.15,0,0,https://github.com/artificialanalysis/aa-router,Canonical request and response types and the composable Tokedex call surfaces.
+2026-11-24T02:39:15.02685Z,tokedex-stream-utils,0.0.1-preview.15,0,0,https://github.com/artificialanalysis/aa-router,Text streaming helpers for Tokedex.
+2026-11-24T02:39:15.492945Z,tokedex-telemetry,0.0.1-preview.15,0,0,https://github.com/artificialanalysis/aa-router,Telemetry sink and OTLP observability for Tokedex.
+2026-11-24T02:42:01.967938Z,zuplo-sdk-macros,0.0.0,0,0,https://github.com/zuplo,Reserved by Zuplo for procedural macros for the Zuplo SDK. No code yet.
+2026-11-24T02:44:56.687769Z,rsb-sys,0.2.0,0,0,https://github.com/Shura5860/rust-sandbox,Zero-C-dependency Linux syscall wrappers (rustix linux_raw + raw clone3/Landlock/seccomp)
+2026-11-24T02:44:58.807776Z,visloc-mvs,0.4.0,0,0,https://github.com/rsasaki0109/visloc-rs,Multi-view stereo for visloc-rs: PatchMatch depth and normal maps fused into a point cloud.
+2026-11-24T02:44:59.29385Z,rsb-core,0.2.0,0,0,https://github.com/Shura5860/rust-sandbox,"Embeddable, zero-C-dependency Linux sandbox engine (Namespaces + Landlock + Seccomp)"
+2026-11-24T02:45:00.226872Z,rsb-net,0.2.0,0,0,https://github.com/Shura5860/rust-sandbox,"Zero-C-dependency L3/L4/L7 egress filter, TLS SNI verifier, DNS filter, and smoltcp rootless TAP bridge for rust-sandbox"
+2026-11-24T02:45:02.481636Z,rsb-cli,0.2.0,0,0,https://github.com/Shura5860/rust-sandbox,CLI frontend (`rsb`) for rust-sandbox
+2026-11-24T02:45:03.050313Z,rsb-ffi,0.2.0,0,0,https://github.com/Shura5860/rust-sandbox,C ABI (`librsb_ffi.so`) and Python ctypes bridge for rust-sandbox
+2026-11-24T02:47:17.120556Z,melior-kaleidoscope,0.30.0,0,0,https://github.com/mlir-rs/melior,The Toy language compiler from the MLIR tutorial built with Melior
+2026-11-24T02:49:32.110241Z,tokedex-test-suite,0.0.1-preview.15,0,0,https://github.com/artificialanalysis/aa-router,Provider contract-test harness for Tokedex.
+2026-11-24T02:49:40.657813Z,cctop-discovery,0.1.0,0,0,https://github.com/flolep2607/cctop,"The coding agents running on this machine — Claude Code, Codex, OpenCode, Gemini and others — as cctop finds them: provider, session, process and state. 0.x: the API may still change."
+2026-11-24T02:51:01.523417Z,senate-remote-admin,0.12.0,0,0,https://github.com/oops-rs/senate,Minimal administrator helper for Senate remote grants
+2026-11-24T02:52:02.286922Z,zuplo-wit,0.0.0,0,0,https://github.com/zuplo,Reserved by Zuplo for the WIT interface of the Zuplo gateway. No code yet.
+2026-11-24T02:54:58.993554Z,visloc-gsplat-train,0.4.0,0,0,https://github.com/rsasaki0109/visloc-rs,"3D Gaussian Splatting training and evaluation for visloc-rs (datasets, metrics, trainer)."
+2026-11-24T02:58:15.516818Z,shout_to_unlock,0.1.0,0,0,https://github.com/kmolan/ShoutToUnlock,a lock that opens when u scream at it. loud enough. long enough. xoxo
+2026-11-24T02:59:50.651411Z,tokedex-codecs,0.0.1-preview.15,0,0,https://github.com/artificialanalysis/aa-router,Wire-dialect codecs shared by Tokedex providers and the gateway.
+2026-11-24T03:00:16.605352Z,barbed-emotes,0.0.6-rc.1,0,0,https://github.com/sugoijan/barbed,"Twitch, 7TV, BetterTTV and FrankerFaceZ emotes without I/O: set parsers, word matching, set loading and proxy routes"
+2026-11-24T03:00:29.668721Z,strand-deep,0.1.0,0,0,https://github.com/Biggest-Bee/Strand,"Interprocedural analysis engine: call graphs, dynamic-import resolution, and taint/null/leak summary solvers for Python, JS/TS, Go, and Rust"
+2026-11-24T03:02:02.038213Z,zuplo-cli,0.0.0,0,0,https://github.com/zuplo,Reserved by Zuplo for the Zuplo command-line tool. No code yet.
+2026-11-24T03:04:32.141511Z,airx-core,0.1.1,0,0,https://github.com/wwog/airx,airx 基础层：错误分类、模型标识、JSON 保真、SSE 语法与 HTTP 数据结构
+2026-11-24T03:04:41.744717Z,airx-protocol,0.1.1,0,0,https://github.com/wwog/airx,airx 原生协议层：OpenAI / Anthropic / Gemini / DeepSeek 的强类型模型与纯编解码
+2026-11-24T03:04:51.570019Z,airx-transport,0.1.1,0,0,https://github.com/wwog/airx,airx 传输层：HTTP 执行、流式读取、超时取消、重试与中间件
+2026-11-24T03:04:59.650975Z,visloc-rs,0.4.0,0,0,https://github.com/rsasaki0109/visloc-rs,Visual localization foundation library using SfM / visual maps.
+2026-11-24T03:05:05.822849Z,airx,0.1.1,0,0,https://github.com/wwog/airx,airx 门面：Client / Builder / typed endpoint / prelude
+2026-11-24T03:10:08.193289Z,tokedex-anthropic,0.0.1-preview.15,0,0,https://github.com/artificialanalysis/aa-router,Anthropic Messages provider for Tokedex.
+2026-11-24T03:12:01.972361Z,zuplo-gateway,0.0.0,0,0,https://github.com/zuplo,Reserved by Zuplo for the Zuplo API gateway. No code yet.
+2026-11-24T03:15:32.300835Z,rust_robotics_optimization,0.3.0,0,0,https://github.com/rsasaki0109/rust_robotics,Nonlinear least-squares and factor-graph optimization for RustRobotics
+2026-11-24T03:19:39.091288Z,node-app-replica,7.7.0,0,0,https://github.com/econ-v1/node,"Change-only replication for Node app backends: a per-collection ledger (epoch, version, tombstones) that answers a device's pull with nothing new, the changes, or a full copy"
+2026-11-24T03:20:22.429596Z,tokedex-google,0.0.1-preview.15,0,0,https://github.com/artificialanalysis/aa-router,Google Gemini provider for Tokedex.

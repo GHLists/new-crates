@@ -8,57 +8,58 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-24 02:21 UTC
+## Latest list — 2026-11-24 03:21 UTC
 
-New crates published between 2026-11-24 01:18 UTC and 2026-11-24 02:21 UTC.
+New crates published between 2026-11-24 02:21 UTC and 2026-11-24 03:21 UTC.
 
-[Full CSV](data/new-crates-2026-11-24T02-21-56-576102Z.csv)
+[Full CSV](data/new-crates-2026-11-24T03-21-12-546525Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-24 01:19:10 | [gpui-koan-web](https://crates.io/crates/gpui-koan-web) | 0.2.1+zed.1f37726 | 0 | Zed's `gpui_web` crate (gpui-koan snapshot of zed@1f37726) |
-| 2026-11-24 01:23:23 | [cachette](https://crates.io/crates/cachette) | 0.1.0 | 0 | Synchronous cache storage: values with their lifetimes, kept in a JSONL file, i… |
-| 2026-11-24 01:24:58 | [visloc-mapping](https://crates.io/crates/visloc-mapping) | 0.4.0 | 0 | Local mapping skeleton with keyframe policy and staged sparse-map updates for v… |
-| 2026-11-24 01:24:59 | [rimdeck-core](https://crates.io/crates/rimdeck-core) | 0.1.0 | 0 | Shared RimWorld mod-manager logic (scan, sort, rules, Steam, GitHub, git) for r… |
-| 2026-11-24 01:25:07 | [rimdeck-steam](https://crates.io/crates/rimdeck-steam) | 0.1.0 | 0 | Steamworks helper for rimdeck: subscribe, unsubscribe, and re-download Workshop… |
-| 2026-11-24 01:25:44 | [rimdeck-tui](https://crates.io/crates/rimdeck-tui) | 0.1.0 | 0 | A RimWorld mod manager TUI inspired by RimSort |
-| 2026-11-24 01:25:52 | [rimdeck](https://crates.io/crates/rimdeck) | 0.1.0 | 0 | A RimWorld mod manager GUI inspired by RimSort |
-| 2026-11-24 01:27:30 | [inky-engine](https://crates.io/crates/inky-engine) | 0.1.0 | 0 | A hand-fused Metal inference engine for Thinking Machines' Inkling 2 Mini, for… |
-| 2026-11-24 01:29:14 | [gpui-koan-platform](https://crates.io/crates/gpui-koan-platform) | 0.2.1+zed.1f37726 | 0 | Zed's `gpui_platform` crate (gpui-koan snapshot of zed@1f37726) |
-| 2026-11-24 01:29:51 | [ntwork](https://crates.io/crates/ntwork) | 0.1.0 | 0 | WeCom (WXWork 4.0.8.6027) bot toolkit: helper-RPC send/receive + zero-injection… |
-| 2026-11-24 01:34:59 | [visloc-slam](https://crates.io/crates/visloc-slam) | 0.4.0 | 0 | Online Visual SLAM MVP composition over tracking and local mapping for visloc-r… |
-| 2026-11-24 01:35:47 | [anser-sdk](https://crates.io/crates/anser-sdk) | 0.1.0 | 0 | Official asynchronous Rust SDK for the Anser notification platform |
-| 2026-11-24 01:37:58 | [curly-message-parser](https://crates.io/crates/curly-message-parser) | 1.0.0-next.0 | 0 | Rust implementation of the Curly Message Format. |
-| 2026-11-24 01:39:53 | [rare-audio](https://crates.io/crates/rare-audio) | 0.1.0 | 0 | Pure Rust, zero-dependency parser, software synthesizer, and byte-exact golden-… |
-| 2026-11-24 01:40:08 | [logik-state](https://crates.io/crates/logik-state) | 0.1.0 | 0 | Pure Rust, zero-dependency parser, software synthesizer, and byte-exact golden-… |
-| 2026-11-24 01:40:24 | [southpaw-audio](https://crates.io/crates/southpaw-audio) | 0.1.0 | 0 | Pure Rust, zero-dependency parser, software synthesizer, and byte-exact golden-… |
-| 2026-11-24 01:40:40 | [rd1-kaede](https://crates.io/crates/rd1-kaede) | 0.1.0 | 0 | Pure Rust, zero-dependency parser, software synthesizer, and byte-exact golden-… |
-| 2026-11-24 01:40:54 | [paragon5](https://crates.io/crates/paragon5) | 0.1.0 | 0 | Pure Rust, zero-dependency parser, software synthesizer, and byte-exact golden-… |
-| 2026-11-24 01:44:51 | [atrac9](https://crates.io/crates/atrac9) | 0.1.0 | 0 | A safe, allocation-free ATRAC9 audio decoder in pure Rust |
-| 2026-11-24 01:44:58 | [visloc-basalt](https://crates.io/crates/visloc-basalt) | 0.4.0 | 0 | Faithful Basalt VI-SLAM contracts and calibration foundations for visloc-rs. |
-| 2026-11-24 01:45:39 | [rc-gsu](https://crates.io/crates/rc-gsu) | 0.1.0 | 0 | Super FX (GSU-1/GSU-2) graphics support unit core for the Super Nintendo |
-| 2026-11-24 01:45:51 | [rc-m68k](https://crates.io/crates/rc-m68k) | 0.1.2 | 0 | Motorola 68000, 68010, 68020 and 68030 CPU core (instruction-exact integer unit… |
-| 2026-11-24 01:46:03 | [rc-m68881](https://crates.io/crates/rc-m68881) | 0.1.0 | 0 | Motorola 68881/68882 floating-point coprocessor: 80-bit extended arithmetic and… |
-| 2026-11-24 01:48:50 | [dialogrs](https://crates.io/crates/dialogrs) | 0.1.0 | 0 | Speaker-attributed transcription: scriptrs for what was said, speakrs for who s… |
-| 2026-11-24 01:50:09 | [rc-sa1](https://crates.io/crates/rc-sa1) | 0.1.0 | 0 | SA-1 coprocessor for the Super Nintendo: a second 65C816 with the memory mapper… |
-| 2026-11-24 01:51:00 | [songform](https://crates.io/crates/songform) | 0.0.0 | 0 | Placeholder reserving the name; part of StageDisplay (not released yet) |
-| 2026-11-24 01:51:02 | [libmdec](https://crates.io/crates/libmdec) | 0.1.1 | 0 | Standalone pure-Rust PlayStation 1 MDEC hardware video decoder and BS bitstream… |
-| 2026-11-24 01:54:58 | [visloc-objects](https://crates.io/crates/visloc-objects) | 0.4.0 | 0 | 2D multi-object tracking (ByteTrack-style) for metric object estimation in visl… |
-| 2026-11-24 01:56:51 | [endpoint_blend_weights](https://crates.io/crates/endpoint_blend_weights) | 0.1.0 | 0 | Generate endpoint-inclusive weight pairs for a linear video crossfade |
-| 2026-11-24 01:59:58 | [agmi](https://crates.io/crates/agmi) | 0.3.2 | 0 | Run and supervise MinePOA agents with durable scheduling, submission, and recov… |
-| 2026-11-24 02:00:50 | [image-to-pixel-art](https://crates.io/crates/image-to-pixel-art) | 0.1.0 | 0 | Portable RGBA buffer → pixel-art pipeline (Pixel It algorithm): pixelate, grays… |
-| 2026-11-24 02:02:49 | [rc-pmmu](https://crates.io/crates/rc-pmmu) | 0.1.0 | 0 | MC68030 on-chip paged memory management unit (PMMU) for rc-m68k: table walks, A… |
-| 2026-11-24 02:04:20 | [bitbucket-bb-cli](https://crates.io/crates/bitbucket-bb-cli) | 0.2.7 | 0 | bb: a gh-style CLI for Bitbucket Cloud (pull requests, Pipelines, repos, API) |
-| 2026-11-24 02:04:44 | [hermoso](https://crates.io/crates/hermoso) | 0.1.4 | 0 | Typed Rust client for the Hermoso API: generate ads, publish and schedule posts… |
-| 2026-11-24 02:04:58 | [visloc-gsplat-core](https://crates.io/crates/visloc-gsplat-core) | 0.4.0 | 0 | CPU reference types, IO, and rasterizer for 3D Gaussian Splatting built on visl… |
-| 2026-11-24 02:09:41 | [tc_elgamal](https://crates.io/crates/tc_elgamal) | 0.1.0 | 0 | ElGamal encryption over a Diffie-Hellman group, with its keys and key pair and… |
-| 2026-11-24 02:11:34 | [forhowlong](https://crates.io/crates/forhowlong) | 1.0.0 | 0 | Parsable durations for configuration files, CLI arguments, and environment vari… |
-| 2026-11-24 02:14:58 | [visloc-gsplat-render](https://crates.io/crates/visloc-gsplat-render) | 0.4.0 | 0 | wgpu compute forward rasterizer for 3D Gaussian Splatting (visloc-rs 3DGS stage… |
-| 2026-11-24 02:15:35 | [rshttpx](https://crates.io/crates/rshttpx) | 0.1.0 | 0 | A Rust port of Python's httpx: a next-generation async HTTP client. |
-| 2026-11-24 02:15:38 | [rvoip-amazon-a2a](https://crates.io/crates/rvoip-amazon-a2a) | 0.5.0 | 0 | Amazon Connect A2A external-agent transport adapter for rvoip |
-| 2026-11-24 02:15:47 | [rvoip-webex-byova](https://crates.io/crates/rvoip-webex-byova) | 0.5.0 | 0 | Webex Contact Center BYOVA (Bring Your Own Virtual Agent) adapter for rvoip |
-| 2026-11-24 02:19:36 | [rind-rand-core](https://crates.io/crates/rind-rand-core) | 0.10.0 | 0 | rand_core RNG drawing from rind's random source |
-| 2026-11-24 02:21:47 | [a2ui-express](https://crates.io/crates/a2ui-express) | 0.2.0 | 0 | A2UI Express compiler: parse, compile, stream and decompile the Express inferen… |
+| 2026-11-24 02:24:58 | [visloc-sift-gpu](https://crates.io/crates/visloc-sift-gpu) | 0.4.0 | 0 | wgpu compute SIFT (DoG detector + descriptors) mirroring visloc-vision's defaul… |
+| 2026-11-24 02:31:57 | [zuplo](https://crates.io/crates/zuplo) | 0.0.0 | 0 | Reserved by Zuplo for Zuplo API gateway tools in Rust. No code yet. |
+| 2026-11-24 02:32:00 | [zuplo-sdk](https://crates.io/crates/zuplo-sdk) | 0.0.0 | 0 | Reserved by Zuplo for the SDK for writing Zuplo gateway policies in Rust. No co… |
+| 2026-11-24 02:32:04 | [zuplo-policy](https://crates.io/crates/zuplo-policy) | 0.0.0 | 0 | Reserved by Zuplo for writing a Zuplo gateway policy in Rust. No code yet. |
+| 2026-11-24 02:32:27 | [zuplo-policies](https://crates.io/crates/zuplo-policies) | 0.0.0 | 0 | Reserved by Zuplo for Zuplo gateway policies in Rust. No code yet. |
+| 2026-11-24 02:32:29 | [zuplo-macros](https://crates.io/crates/zuplo-macros) | 0.0.0 | 0 | Reserved by Zuplo for procedural macros for Zuplo Rust crates. No code yet. |
+| 2026-11-24 02:33:01 | [rvisor](https://crates.io/crates/rvisor) | 0.1.0 | 0 | tastes like metal |
+| 2026-11-24 02:33:44 | [rustedscreep-consts](https://crates.io/crates/rustedscreep-consts) | 0.1.0 | 0 | Constants facade over screeps-game-api plus values the API does not export (ADR… |
+| 2026-11-24 02:33:46 | [rustedscreep-core](https://crates.io/crates/rustedscreep-core) | 0.1.0 | 0 | Pure, deterministic decision logic for the bot; native-testable, no JS dependen… |
+| 2026-11-24 02:33:48 | [rustedscreep-wasm](https://crates.io/crates/rustedscreep-wasm) | 0.1.0 | 0 | WASM boundary for the bot: snapshot, act, persistence, profiler and the exporte… |
+| 2026-11-24 02:34:58 | [visloc-ba-gpu](https://crates.io/crates/visloc-ba-gpu) | 0.4.0 | 0 | wgpu bundle adjustment (GPU linearization + implicit-Schur PCG) for visloc-rs S… |
+| 2026-11-24 02:39:11 | [tokedex-catalogue](https://crates.io/crates/tokedex-catalogue) | 0.0.1-preview.15 | 0 | Sealed provider and model assets, and canonical schemas, for Tokedex. |
+| 2026-11-24 02:39:12 | [tokedex-credential-envelope](https://crates.io/crates/tokedex-credential-envelope) | 0.0.1-preview.15 | 0 | Envelope encryption for BYOK provider credentials (port of @tokedex/credential-… |
+| 2026-11-24 02:39:13 | [tokedex-core](https://crates.io/crates/tokedex-core) | 0.0.1-preview.15 | 0 | Canonical request and response types and the composable Tokedex call surfaces. |
+| 2026-11-24 02:39:15 | [tokedex-stream-utils](https://crates.io/crates/tokedex-stream-utils) | 0.0.1-preview.15 | 0 | Text streaming helpers for Tokedex. |
+| 2026-11-24 02:39:15 | [tokedex-telemetry](https://crates.io/crates/tokedex-telemetry) | 0.0.1-preview.15 | 0 | Telemetry sink and OTLP observability for Tokedex. |
+| 2026-11-24 02:42:01 | [zuplo-sdk-macros](https://crates.io/crates/zuplo-sdk-macros) | 0.0.0 | 0 | Reserved by Zuplo for procedural macros for the Zuplo SDK. No code yet. |
+| 2026-11-24 02:44:56 | [rsb-sys](https://crates.io/crates/rsb-sys) | 0.2.0 | 0 | Zero-C-dependency Linux syscall wrappers (rustix linux_raw + raw clone3/Landloc… |
+| 2026-11-24 02:44:58 | [visloc-mvs](https://crates.io/crates/visloc-mvs) | 0.4.0 | 0 | Multi-view stereo for visloc-rs: PatchMatch depth and normal maps fused into a… |
+| 2026-11-24 02:44:59 | [rsb-core](https://crates.io/crates/rsb-core) | 0.2.0 | 0 | Embeddable, zero-C-dependency Linux sandbox engine (Namespaces + Landlock + Sec… |
+| 2026-11-24 02:45:00 | [rsb-net](https://crates.io/crates/rsb-net) | 0.2.0 | 0 | Zero-C-dependency L3/L4/L7 egress filter, TLS SNI verifier, DNS filter, and smo… |
+| 2026-11-24 02:45:02 | [rsb-cli](https://crates.io/crates/rsb-cli) | 0.2.0 | 0 | CLI frontend (`rsb`) for rust-sandbox |
+| 2026-11-24 02:45:03 | [rsb-ffi](https://crates.io/crates/rsb-ffi) | 0.2.0 | 0 | C ABI (`librsb_ffi.so`) and Python ctypes bridge for rust-sandbox |
+| 2026-11-24 02:47:17 | [melior-kaleidoscope](https://crates.io/crates/melior-kaleidoscope) | 0.30.0 | 0 | The Toy language compiler from the MLIR tutorial built with Melior |
+| 2026-11-24 02:49:32 | [tokedex-test-suite](https://crates.io/crates/tokedex-test-suite) | 0.0.1-preview.15 | 0 | Provider contract-test harness for Tokedex. |
+| 2026-11-24 02:49:40 | [cctop-discovery](https://crates.io/crates/cctop-discovery) | 0.1.0 | 0 | The coding agents running on this machine — Claude Code, Codex, OpenCode, Gemin… |
+| 2026-11-24 02:51:01 | [senate-remote-admin](https://crates.io/crates/senate-remote-admin) | 0.12.0 | 0 | Minimal administrator helper for Senate remote grants |
+| 2026-11-24 02:52:02 | [zuplo-wit](https://crates.io/crates/zuplo-wit) | 0.0.0 | 0 | Reserved by Zuplo for the WIT interface of the Zuplo gateway. No code yet. |
+| 2026-11-24 02:54:58 | [visloc-gsplat-train](https://crates.io/crates/visloc-gsplat-train) | 0.4.0 | 0 | 3D Gaussian Splatting training and evaluation for visloc-rs (datasets, metrics,… |
+| 2026-11-24 02:58:15 | [shout_to_unlock](https://crates.io/crates/shout_to_unlock) | 0.1.0 | 0 | a lock that opens when u scream at it. loud enough. long enough. xoxo |
+| 2026-11-24 02:59:50 | [tokedex-codecs](https://crates.io/crates/tokedex-codecs) | 0.0.1-preview.15 | 0 | Wire-dialect codecs shared by Tokedex providers and the gateway. |
+| 2026-11-24 03:00:16 | [barbed-emotes](https://crates.io/crates/barbed-emotes) | 0.0.6-rc.1 | 0 | Twitch, 7TV, BetterTTV and FrankerFaceZ emotes without I/O: set parsers, word m… |
+| 2026-11-24 03:00:29 | [strand-deep](https://crates.io/crates/strand-deep) | 0.1.0 | 0 | Interprocedural analysis engine: call graphs, dynamic-import resolution, and ta… |
+| 2026-11-24 03:02:02 | [zuplo-cli](https://crates.io/crates/zuplo-cli) | 0.0.0 | 0 | Reserved by Zuplo for the Zuplo command-line tool. No code yet. |
+| 2026-11-24 03:04:32 | [airx-core](https://crates.io/crates/airx-core) | 0.1.1 | 0 | airx 基础层：错误分类、模型标识、JSON 保真、SSE 语法与 HTTP 数据结构 |
+| 2026-11-24 03:04:41 | [airx-protocol](https://crates.io/crates/airx-protocol) | 0.1.1 | 0 | airx 原生协议层：OpenAI / Anthropic / Gemini / DeepSeek 的强类型模型与纯编解码 |
+| 2026-11-24 03:04:51 | [airx-transport](https://crates.io/crates/airx-transport) | 0.1.1 | 0 | airx 传输层：HTTP 执行、流式读取、超时取消、重试与中间件 |
+| 2026-11-24 03:04:59 | [visloc-rs](https://crates.io/crates/visloc-rs) | 0.4.0 | 0 | Visual localization foundation library using SfM / visual maps. |
+| 2026-11-24 03:05:05 | [airx](https://crates.io/crates/airx) | 0.1.1 | 0 | airx 门面：Client / Builder / typed endpoint / prelude |
+| 2026-11-24 03:10:08 | [tokedex-anthropic](https://crates.io/crates/tokedex-anthropic) | 0.0.1-preview.15 | 0 | Anthropic Messages provider for Tokedex. |
+| 2026-11-24 03:12:01 | [zuplo-gateway](https://crates.io/crates/zuplo-gateway) | 0.0.0 | 0 | Reserved by Zuplo for the Zuplo API gateway. No code yet. |
+| 2026-11-24 03:15:32 | [rust_robotics_optimization](https://crates.io/crates/rust_robotics_optimization) | 0.3.0 | 0 | Nonlinear least-squares and factor-graph optimization for RustRobotics |
+| 2026-11-24 03:19:39 | [node-app-replica](https://crates.io/crates/node-app-replica) | 7.7.0 | 0 | Change-only replication for Node app backends: a per-collection ledger (epoch,… |
+| 2026-11-24 03:20:22 | [tokedex-google](https://crates.io/crates/tokedex-google) | 0.0.1-preview.15 | 0 | Google Gemini provider for Tokedex. |
 
 ## Data source
 
