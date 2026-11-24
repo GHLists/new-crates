@@ -1,0 +1,35 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-24T00:20:48.012427Z,gpui-koan-apple,0.2.1+zed.8fe6e58,0,0,https://github.com/radiosilence/zed,Zed's `gpui_apple` crate (gpui-koan snapshot of zed@8fe6e58)
+2026-11-24T00:21:05.509726Z,granite-core,0.1.0,0,0,https://github.com/oclyke/granite,"Library behind granite-merge: content-addressed indexes, planning and merging of file collections"
+2026-11-24T00:21:07.039957Z,granite-merge,0.1.0,0,0,https://github.com/oclyke/granite,Merge old drives and partial copies into one deduplicated archive of plain files
+2026-11-24T00:21:35.132942Z,anything-anything,0.1.0,0,0,https://github.com/EL4CTEO/anything-anything,"anything-anything. Literally anything. Describe a tool, app or game in a line: your coding agent builds it in any stack and its own tests prove it works."
+2026-11-24T00:23:19.629671Z,konami-kce,0.1.0,0,0,https://github.com/jidoughost-tl/konami-kce-rs,"Pure Rust, zero-dependency parser, software synthesizer, and byte-exact golden-tested emulator for the Konami KCE (KCEH & KCEJ) GBA Sound Engines"
+2026-11-24T00:25:27.676226Z,vidfix-detect,0.1.0,0,0,,"Tell why an MP4/MOV will not open: missing moov (interrupted recording), fragmented, 0-byte, MPEG-TS. Reads only the head and tail of the file."
+2026-11-24T00:31:52.390436Z,gpui-koan-ios,0.2.1+zed.8fe6e58,0,0,https://github.com/radiosilence/zed,Zed's `gpui_ios` crate (gpui-koan snapshot of zed@8fe6e58)
+2026-11-24T00:42:26.179763Z,zeadeck,0.0.1,0,0,https://github.com/zeadeck,"zeadeck: the control deck for every machine. Remote screens, terminals and AI agents across your machines. Early placeholder for the upcoming zeadeck SDK."
+2026-11-24T00:43:02.362419Z,gpui-koan-macos,0.2.1+zed.8fe6e58,0,0,https://github.com/radiosilence/zed,Zed's `gpui_macos` crate (gpui-koan snapshot of zed@8fe6e58)
+2026-11-24T00:44:57.567766Z,incur-macros,0.9.0,0,0,https://github.com/wevm/incur,Derive macros for incur: typed CLIs (`Parser`) and schemas (`Schema`).
+2026-11-24T00:45:06.546255Z,aft-base,0.67.1,0,0,https://github.com/cortexkit/aft,Shared foundation for Agent Foundational Toolkit
+2026-11-24T00:45:08.240501Z,incur,0.9.0,0,0,https://github.com/wevm/incur,"Build CLIs for agents and humans: TOON output, LLM manifests, skills, and shell completions."
+2026-11-24T00:45:58.263833Z,aft-db,0.67.1,0,0,https://github.com/cortexkit/aft,SQLite stores and access policy for Agent Foundational Toolkit
+2026-11-24T00:47:22.06786Z,aft-parse,0.67.1,0,0,https://github.com/cortexkit/aft,"Syntax parsing, imports and call resolution for Agent Foundational Toolkit"
+2026-11-24T00:52:09.936035Z,jupygate,0.1.0,0,0,https://github.com/AnswerDotAI/jupygate,"Jupyter kernel and terminal gateway with an MCP server, as a single static binary"
+2026-11-24T00:52:28.83262Z,rhema-skills,0.4.2,0,0,https://github.com/vhaudiquet/rhema,Skill discovery: the markdown folders the cross-agent .agents convention and rhema's own tiers hold
+2026-11-24T00:57:13.889738Z,nsh-extra,0.6.0,0,0,https://github.com/longbridge/nsh,"NSH's official modules apps install with `nsh add` (an nshm), one Cargo feature each: `camera` takes photos with the system's camera, `photos` reads the user's recent photos, `push` receives remote n…"
+2026-11-24T01:01:51.782303Z,rhema-decision,0.4.2,0,0,https://github.com/vhaudiquet/rhema,"Decision models for rhema agents: the DecisionProvider seam, the System One request and answer vocabulary, the fallback chain"
+2026-11-24T01:02:02.933608Z,rhema-decision-jev,0.4.2,0,0,https://github.com/vhaudiquet/rhema,TypeSafe Jev adapter for the rhema DecisionProvider seam
+2026-11-24T01:02:11.695402Z,rhema-decision-clef,0.4.2,0,0,https://github.com/vhaudiquet/rhema,Cloudflare Clef adapter for the rhema DecisionProvider seam
+2026-11-24T01:02:20.165092Z,rhema-decision-openrouter,0.4.2,0,0,https://github.com/vhaudiquet/rhema,OpenRouter Decisions adapter for the rhema DecisionProvider seam
+2026-11-24T01:02:30.250485Z,visloc-core,0.4.0,0,0,https://github.com/rsasaki0109/visloc-rs,"Core geometry, camera, pose, frame, landmark, and visual-map types for visloc-rs."
+2026-11-24T01:02:31.311198Z,rhema-decision-registry,0.4.2,0,0,https://github.com/vhaudiquet/rhema,The decision fleet's name-to-adapter wiring and the profile-to-provider resolution
+2026-11-24T01:02:32.513664Z,visloc-dpvo-cuda-runtime,0.4.0,0,0,https://github.com/rsasaki0109/visloc-rs,Safe runtime boundary for optional visloc-rs DPVO CUDA kernels.
+2026-11-24T01:02:35.236848Z,visloc-vision,0.4.0,0,0,https://github.com/rsasaki0109/visloc-rs,"Feature, matching, PnP, RANSAC, and pose-refinement building blocks for visloc-rs."
+2026-11-24T01:02:37.690746Z,visloc-localization,0.4.0,0,0,https://github.com/rsasaki0109/visloc-rs,Stateless map-based visual-localization pipeline for visloc-rs.
+2026-11-24T01:02:39.735538Z,visloc-fusion,0.4.0,0,0,https://github.com/rsasaki0109/visloc-rs,"Loose-coupling sensor-prior types and GNSS time synchronization for GNSS, pose, and IMU inputs in visloc-rs."
+2026-11-24T01:04:06.970936Z,gnomon-postgres,0.1.0,0,0,https://github.com/scrogson/gnomon-postgres,"Rust client for Gnomon, git for Postgres data: runs, review, branches and history over sqlx"
+2026-11-24T01:04:57.605085Z,visloc-io,0.4.0,0,0,https://github.com/rsasaki0109/visloc-rs,"COLMAP, descriptor, and query-feature IO helpers for visloc-rs visual maps."
+2026-11-24T01:05:51.269624Z,crabx,0.1.0,0,0,https://github.com/kixel-ai/crabx,"Run a Rust CLI from its author's release, without compiling"
+2026-11-24T01:14:54.573782Z,gpui-koan-wgpu,0.2.1+zed.1f37726,0,0,https://github.com/radiosilence/zed,Zed's `gpui_wgpu` crate (gpui-koan snapshot of zed@1f37726)
+2026-11-24T01:14:55.234471Z,gpui-koan-windows,0.2.1+zed.1f37726,0,0,https://github.com/radiosilence/zed,Zed's `gpui_windows` crate (gpui-koan snapshot of zed@1f37726)
+2026-11-24T01:14:56.318398Z,gpui-koan-linux,0.2.1+zed.1f37726,0,0,https://github.com/radiosilence/zed,Zed's `gpui_linux` crate (gpui-koan snapshot of zed@1f37726)
+2026-11-24T01:14:57.821451Z,visloc-tracking,0.4.0,0,0,https://github.com/rsasaki0109/visloc-rs,Sequence tracking scaffold over map-based visual localization for visloc-rs.

@@ -8,45 +8,48 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-24 00:18 UTC
+## Latest list — 2026-11-24 01:18 UTC
 
-New crates published between 2026-11-23 23:20 UTC and 2026-11-24 00:18 UTC.
+New crates published between 2026-11-24 00:18 UTC and 2026-11-24 01:18 UTC.
 
-[Full CSV](data/new-crates-2026-11-24T00-18-34-955632Z.csv)
+[Full CSV](data/new-crates-2026-11-24T01-18-30-801456Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-23 23:22:20 | [seqa_api](https://crates.io/crates/seqa_api) | 0.1.0 | 0 | Request and response types, notes storage and URI checks shared by the seqa bac… |
-| 2026-11-23 23:23:22 | [aidaemon-remote](https://crates.io/crates/aidaemon-remote) | 0.22.1 | 0 | Remote access for aidaemon over iroh: the owner's apps reach the daemon's gatew… |
-| 2026-11-23 23:23:28 | [aidaemon-shells](https://crates.io/crates/aidaemon-shells) | 0.22.1 | 0 | Conversation shells for aidaemon: one pseudo-terminal per conversation, started… |
-| 2026-11-23 23:28:36 | [binbun-sync](https://crates.io/crates/binbun-sync) | 0.1.0 | 0 | binbun's collaboration sync protocol as a state machine without I/O: signed hea… |
-| 2026-11-23 23:28:55 | [omnia-wasi-types](https://crates.io/crates/omnia-wasi-types) | 0.38.0 | 0 | The WASI types every Omnia interface shares |
-| 2026-11-23 23:29:50 | [llama-cpp-sampler](https://crates.io/crates/llama-cpp-sampler) | 0.30.0 | 0 | Sampling the next token from a llama.cpp context: sampler chains, the samplers… |
-| 2026-11-23 23:30:19 | [rcompat-numeric](https://crates.io/crates/rcompat-numeric) | 0.1.1 | 0 | R-compatible probability tails, quantiles, special functions, and reproducible… |
-| 2026-11-23 23:30:24 | [rcompat-formula](https://crates.io/crates/rcompat-formula) | 0.1.1 | 0 | Build R-style model matrices in Rust from formulas, factor contrasts, interacti… |
-| 2026-11-23 23:30:43 | [rcompat-shrinkage](https://crates.io/crates/rcompat-shrinkage) | 0.1.1 | 0 | Empirical Bayes shrinkage in Rust with ashr-style adaptive mixtures and apeglm-… |
-| 2026-11-23 23:35:42 | [asterope-core](https://crates.io/crates/asterope-core) | 0.1.0 | 0 | Star tracker simulation, centroiding, lost-in-space identification and attitude… |
-| 2026-11-23 23:35:43 | [asterope-io](https://crates.io/crates/asterope-io) | 0.1.0 | 0 | Image container parsing for Asterope (FITS primary HDU) |
-| 2026-11-23 23:35:45 | [asterope-cli](https://crates.io/crates/asterope-cli) | 0.1.0 | 0 | Command-line star tracker: solve frames, simulate them, build onboard indexes,… |
-| 2026-11-23 23:35:46 | [asterope-ffi](https://crates.io/crates/asterope-ffi) | 0.1.0 | 0 | C interface to the Asterope star tracker |
-| 2026-11-23 23:39:24 | [binbun-collab](https://crates.io/crates/binbun-collab) | 0.1.0 | 0 | End-to-end encrypted sync of binbun projects between collaborators. |
-| 2026-11-23 23:39:54 | [llama-cpp-chat](https://crates.io/crates/llama-cpp-chat) | 0.30.0 | 0 | Chat sessions rendered by a llama.cpp model's chat template: the prompt, the gr… |
-| 2026-11-23 23:43:06 | [switchyard-costs](https://crates.io/crates/switchyard-costs) | 0.4.0 | 0 | Shared token pricing and recorded cost totals for Switchyard |
-| 2026-11-23 23:50:14 | [binbun-cli](https://crates.io/crates/binbun-cli) | 0.1.0 | 0 | The binbun command-line disassembler and decompiler. |
-| 2026-11-23 23:51:26 | [komainu-jose](https://crates.io/crates/komainu-jose) | 0.1.0-alpha.3 | 0 | A small JOSE implementation (JWS, JWK, JWT with RS256 and ES256) for komainu |
-| 2026-11-23 23:57:49 | [m4a](https://crates.io/crates/m4a) | 0.1.0 | 0 | Pure Rust, zero-dependency parser, software synthesizer, and mGBA ARM golden-te… |
-| 2026-11-24 00:01:50 | [krawall](https://crates.io/crates/krawall) | 0.1.0 | 0 | Pure Rust, zero-dependency parser, software synthesizer, and golden-tested emul… |
-| 2026-11-24 00:02:00 | [wit-bindgen-wrpc-js](https://crates.io/crates/wit-bindgen-wrpc-js) | 0.1.0-rc.1 | 0 | JavaScript bindings generator for wRPC |
-| 2026-11-24 00:08:16 | [gpui-koan-collections](https://crates.io/crates/gpui-koan-collections) | 0.2.1+zed.8fe6e58 | 0 | Standard collection types used by Zed and GPUI (gpui-koan snapshot of zed@8fe6e… |
-| 2026-11-24 00:08:17 | [gpui-koan-reqwest-client](https://crates.io/crates/gpui-koan-reqwest-client) | 0.2.1+zed.8fe6e58 | 0 | Zed's `reqwest_client` crate (gpui-koan snapshot of zed@8fe6e58) |
-| 2026-11-24 00:08:18 | [gpui-koan-zlog](https://crates.io/crates/gpui-koan-zlog) | 0.2.1+zed.8fe6e58 | 0 | Zed's `zlog` crate (gpui-koan snapshot of zed@8fe6e58) |
-| 2026-11-24 00:08:19 | [gpui-koan-ztracing](https://crates.io/crates/gpui-koan-ztracing) | 0.2.1+zed.8fe6e58 | 0 | Zed's `ztracing` crate (gpui-koan snapshot of zed@8fe6e58) |
-| 2026-11-24 00:08:21 | [gpui-koan-sum-tree](https://crates.io/crates/gpui-koan-sum-tree) | 0.2.1+zed.8fe6e58 | 0 | A sum tree data structure, a concurrency-friendly B-tree (gpui-koan snapshot of… |
-| 2026-11-24 00:09:16 | [gpui-koan](https://crates.io/crates/gpui-koan) | 0.2.1+zed.8fe6e58 | 0 | Zed's GPU-accelerated UI framework (gpui-koan snapshot of zed@8fe6e58) |
-| 2026-11-24 00:11:23 | [tpt-algo-cli](https://crates.io/crates/tpt-algo-cli) | 0.0.2 | 0 | Command-line front end (`tpt`) for the tpt-algorithms crates: CSV/JSON in, JSON… |
-| 2026-11-24 00:13:39 | [mem-in-black](https://crates.io/crates/mem-in-black) | 0.3.0 | 0 | We remember so your agents don't have to. Local memory for coding agents. |
-| 2026-11-24 00:16:11 | [preinstantiate](https://crates.io/crates/preinstantiate) | 0.1.0 | 0 | Compile a crate's async functions ahead of time in separate crates, to speed up… |
-| 2026-11-24 00:17:23 | [moldette-sidecar](https://crates.io/crates/moldette-sidecar) | 0.6.0 | 0 | HTTP sidecar that runs one moldette configuration over streamed records |
+| 2026-11-24 00:20:48 | [gpui-koan-apple](https://crates.io/crates/gpui-koan-apple) | 0.2.1+zed.8fe6e58 | 0 | Zed's `gpui_apple` crate (gpui-koan snapshot of zed@8fe6e58) |
+| 2026-11-24 00:21:05 | [granite-core](https://crates.io/crates/granite-core) | 0.1.0 | 0 | Library behind granite-merge: content-addressed indexes, planning and merging o… |
+| 2026-11-24 00:21:07 | [granite-merge](https://crates.io/crates/granite-merge) | 0.1.0 | 0 | Merge old drives and partial copies into one deduplicated archive of plain files |
+| 2026-11-24 00:21:35 | [anything-anything](https://crates.io/crates/anything-anything) | 0.1.0 | 0 | anything-anything. Literally anything. Describe a tool, app or game in a line:… |
+| 2026-11-24 00:23:19 | [konami-kce](https://crates.io/crates/konami-kce) | 0.1.0 | 0 | Pure Rust, zero-dependency parser, software synthesizer, and byte-exact golden-… |
+| 2026-11-24 00:25:27 | [vidfix-detect](https://crates.io/crates/vidfix-detect) | 0.1.0 | 0 | Tell why an MP4/MOV will not open: missing moov (interrupted recording), fragme… |
+| 2026-11-24 00:31:52 | [gpui-koan-ios](https://crates.io/crates/gpui-koan-ios) | 0.2.1+zed.8fe6e58 | 0 | Zed's `gpui_ios` crate (gpui-koan snapshot of zed@8fe6e58) |
+| 2026-11-24 00:42:26 | [zeadeck](https://crates.io/crates/zeadeck) | 0.0.1 | 0 | zeadeck: the control deck for every machine. Remote screens, terminals and AI a… |
+| 2026-11-24 00:43:02 | [gpui-koan-macos](https://crates.io/crates/gpui-koan-macos) | 0.2.1+zed.8fe6e58 | 0 | Zed's `gpui_macos` crate (gpui-koan snapshot of zed@8fe6e58) |
+| 2026-11-24 00:44:57 | [incur-macros](https://crates.io/crates/incur-macros) | 0.9.0 | 0 | Derive macros for incur: typed CLIs (`Parser`) and schemas (`Schema`). |
+| 2026-11-24 00:45:06 | [aft-base](https://crates.io/crates/aft-base) | 0.67.1 | 0 | Shared foundation for Agent Foundational Toolkit |
+| 2026-11-24 00:45:08 | [incur](https://crates.io/crates/incur) | 0.9.0 | 0 | Build CLIs for agents and humans: TOON output, LLM manifests, skills, and shell… |
+| 2026-11-24 00:45:58 | [aft-db](https://crates.io/crates/aft-db) | 0.67.1 | 0 | SQLite stores and access policy for Agent Foundational Toolkit |
+| 2026-11-24 00:47:22 | [aft-parse](https://crates.io/crates/aft-parse) | 0.67.1 | 0 | Syntax parsing, imports and call resolution for Agent Foundational Toolkit |
+| 2026-11-24 00:52:09 | [jupygate](https://crates.io/crates/jupygate) | 0.1.0 | 0 | Jupyter kernel and terminal gateway with an MCP server, as a single static bina… |
+| 2026-11-24 00:52:28 | [rhema-skills](https://crates.io/crates/rhema-skills) | 0.4.2 | 0 | Skill discovery: the markdown folders the cross-agent .agents convention and rh… |
+| 2026-11-24 00:57:13 | [nsh-extra](https://crates.io/crates/nsh-extra) | 0.6.0 | 0 | NSH's official modules apps install with `nsh add` (an nshm), one Cargo feature… |
+| 2026-11-24 01:01:51 | [rhema-decision](https://crates.io/crates/rhema-decision) | 0.4.2 | 0 | Decision models for rhema agents: the DecisionProvider seam, the System One req… |
+| 2026-11-24 01:02:02 | [rhema-decision-jev](https://crates.io/crates/rhema-decision-jev) | 0.4.2 | 0 | TypeSafe Jev adapter for the rhema DecisionProvider seam |
+| 2026-11-24 01:02:11 | [rhema-decision-clef](https://crates.io/crates/rhema-decision-clef) | 0.4.2 | 0 | Cloudflare Clef adapter for the rhema DecisionProvider seam |
+| 2026-11-24 01:02:20 | [rhema-decision-openrouter](https://crates.io/crates/rhema-decision-openrouter) | 0.4.2 | 0 | OpenRouter Decisions adapter for the rhema DecisionProvider seam |
+| 2026-11-24 01:02:30 | [visloc-core](https://crates.io/crates/visloc-core) | 0.4.0 | 0 | Core geometry, camera, pose, frame, landmark, and visual-map types for visloc-r… |
+| 2026-11-24 01:02:31 | [rhema-decision-registry](https://crates.io/crates/rhema-decision-registry) | 0.4.2 | 0 | The decision fleet's name-to-adapter wiring and the profile-to-provider resolut… |
+| 2026-11-24 01:02:32 | [visloc-dpvo-cuda-runtime](https://crates.io/crates/visloc-dpvo-cuda-runtime) | 0.4.0 | 0 | Safe runtime boundary for optional visloc-rs DPVO CUDA kernels. |
+| 2026-11-24 01:02:35 | [visloc-vision](https://crates.io/crates/visloc-vision) | 0.4.0 | 0 | Feature, matching, PnP, RANSAC, and pose-refinement building blocks for visloc-… |
+| 2026-11-24 01:02:37 | [visloc-localization](https://crates.io/crates/visloc-localization) | 0.4.0 | 0 | Stateless map-based visual-localization pipeline for visloc-rs. |
+| 2026-11-24 01:02:39 | [visloc-fusion](https://crates.io/crates/visloc-fusion) | 0.4.0 | 0 | Loose-coupling sensor-prior types and GNSS time synchronization for GNSS, pose,… |
+| 2026-11-24 01:04:06 | [gnomon-postgres](https://crates.io/crates/gnomon-postgres) | 0.1.0 | 0 | Rust client for Gnomon, git for Postgres data: runs, review, branches and histo… |
+| 2026-11-24 01:04:57 | [visloc-io](https://crates.io/crates/visloc-io) | 0.4.0 | 0 | COLMAP, descriptor, and query-feature IO helpers for visloc-rs visual maps. |
+| 2026-11-24 01:05:51 | [crabx](https://crates.io/crates/crabx) | 0.1.0 | 0 | Run a Rust CLI from its author's release, without compiling |
+| 2026-11-24 01:14:54 | [gpui-koan-wgpu](https://crates.io/crates/gpui-koan-wgpu) | 0.2.1+zed.1f37726 | 0 | Zed's `gpui_wgpu` crate (gpui-koan snapshot of zed@1f37726) |
+| 2026-11-24 01:14:55 | [gpui-koan-windows](https://crates.io/crates/gpui-koan-windows) | 0.2.1+zed.1f37726 | 0 | Zed's `gpui_windows` crate (gpui-koan snapshot of zed@1f37726) |
+| 2026-11-24 01:14:56 | [gpui-koan-linux](https://crates.io/crates/gpui-koan-linux) | 0.2.1+zed.1f37726 | 0 | Zed's `gpui_linux` crate (gpui-koan snapshot of zed@1f37726) |
+| 2026-11-24 01:14:57 | [visloc-tracking](https://crates.io/crates/visloc-tracking) | 0.4.0 | 0 | Sequence tracking scaffold over map-based visual localization for visloc-rs. |
 
 ## Data source
 
