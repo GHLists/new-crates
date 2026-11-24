@@ -1,0 +1,42 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-24T06:19:50.240233Z,atalanta-mcp-server,0.2.0,0,0,https://github.com/atalantahq/atalanta,MCP server for Atalanta: AI-accessible mobile automation tools
+2026-11-24T06:22:09.708525Z,dome_project,0.1.1,0,0,https://github.com/formetaohy/DomeDev,"Game projects: the manifest, the fixed folder layout and the projects a launcher remembers"
+2026-11-24T06:29:36.299403Z,puy-ext-macros,0.0.6,0,0,https://github.com/puy-lang/puy,The attributes that generate a Puy extension's registration table and Pascal unit (used through puy-ext)
+2026-11-24T06:29:42.157496Z,proa_assets,0.1.0,0,0,https://github.com/proa-labs/proa,Public asset manifests and content-addressed local output for Proa
+2026-11-24T06:29:49.500329Z,atalanta-web,0.2.0,0,0,https://github.com/atalantahq/atalanta,Web browser driver for Atalanta using Chrome DevTools Protocol
+2026-11-24T06:29:59.948345Z,puy-ext,0.0.6,0,0,https://github.com/puy-lang/puy,"The API for writing Puy extensions in Rust (no I/O, WASM-compatible)"
+2026-11-24T06:30:24.414286Z,puy-stdlib-ext,0.0.6,0,0,https://github.com/puy-lang/puy,"The Rust parts of the Puy standard library, written as extensions (no I/O, WASM-compatible)"
+2026-11-24T06:30:25.7324Z,proa_build,0.1.0,0,0,https://github.com/proa-labs/proa,Linked RSJS build engine and artifact cache for Proa
+2026-11-24T06:31:13.65344Z,proa_source_tools,0.1.0,0,0,https://github.com/proa-labs/proa,"Source formatting, linting, and inspection engines for Proa"
+2026-11-24T06:32:08.077537Z,dome_window,0.1.1,0,0,https://github.com/formetaohy/DomeDev,"Native windows, event loops and input"
+2026-11-24T06:39:48.872152Z,atalanta-cli,0.2.0,0,0,https://github.com/atalantahq/atalanta,CLI binary for Atalanta mobile testing framework
+2026-11-24T06:41:37.401058Z,nosleep-tui,0.1.2,0,0,https://github.com/AngheloBR/nosleep-tui,Impide la suspensión de tu laptop · systemd-logind + X11
+2026-11-24T06:42:11.277944Z,dome_app,0.1.1,0,0,https://github.com/formetaohy/DomeDev,The application loop of the Dome engine
+2026-11-24T06:44:18.561207Z,delali-narsil-cluster,0.1.0,0,0,https://github.com/assetcorp/narsil,"Join a Rust process to a Narsil cluster, with the TCP and gRPC node transports that TypeScript nodes speak."
+2026-11-24T06:44:43.339704Z,hazard3-time,0.1.2,0,0,https://github.com/jorgeandrecastro/embassy-riscv,"Instant and Duration for embedded no-std systems, with async timer support"
+2026-11-24T06:45:50.813372Z,hazard3-embedded-hal,0.1.0,0,0,https://github.com/jorgeandrecastro/embassy-riscv,Collection of utilities to use `embedded-hal` and `embedded-storage` traits with Embassy.
+2026-11-24T06:45:59.350286Z,hazard3-usb-driver,0.1.0,0,0,https://github.com/jorgeandrecastro/embassy-riscv,"Driver trait for `embassy-usb`, an async USB device stack for embedded devices."
+2026-11-24T06:47:02.06474Z,hazard3-rp-pac,0.2.0,0,0,https://github.com/jorgeandrecastro/embassy-riscv,RISC-V Peripheral Access Crate for Raspberry Pi RP235x microcontrollers.
+2026-11-24T06:47:28.154961Z,hazard3-rp,0.2.0,0,0,https://github.com/jorgeandrecastro/embassy-riscv,Embassy Hardware Abstraction Layer (HAL) for RP235x Hazard3 RISC-V cores
+2026-11-24T06:48:38.227898Z,mdhtml2term,0.1.4,0,0,https://github.com/AnswerDotAI/mdhtml2term,"Render MDHTML Markdown as width-aware, styled terminal rows."
+2026-11-24T06:48:52.260478Z,bevy-look,0.0.0,0,0,,鸟瞰 — viewport overlays and panels for Bevy
+2026-11-24T06:50:32.144549Z,replayd,0.1.0,0,0,,"Send Rust backend errors, panics and performance issues (N+1 queries, slow queries, N+1 API calls) to replayd, linked to frontend events by request id"
+2026-11-24T06:51:12.506379Z,svgoo-css-what,4.1.0,0,0,https://gitlab.com/jiiihpeeh/svgoo,"Portable CSS selector tokenizer/serializer, translated file-by-file from css-what@8.0.0 (github.com/fb55/css-what)."
+2026-11-24T06:51:20.932601Z,svgoo-css-select,4.1.0,0,0,https://gitlab.com/jiiihpeeh/svgoo,"Portable CSS selector engine, translated file-by-file from css-select@7.0.0 (github.com/fb55/css-select)."
+2026-11-24T06:51:27.34497Z,svgoo-csstree,4.1.0,0,0,https://gitlab.com/jiiihpeeh/svgoo,"Portable CSS parsing/serialization, translated file-by-file from css-tree@3.2.1 (github.com/csstree/csstree)."
+2026-11-24T06:51:38.042532Z,svgoo-csso,4.1.0,0,0,https://gitlab.com/jiiihpeeh/svgoo,"Rust translation of csso@5.0.5 (CSS optimisation): minify/minifyBlock, specificity, usage."
+2026-11-24T06:51:48.08362Z,svgoo-core,4.1.0,0,0,https://gitlab.com/jiiihpeeh/svgoo,"Core of svgoo: SVG XML parser, XAST tree, stringifier, plugins engine and CSS selector matching."
+2026-11-24T06:52:11.052917Z,dome_ui,0.1.1,0,0,https://github.com/formetaohy/DomeDev,The retained user interface framework
+2026-11-24T06:55:32.88156Z,hazard3-net-driver,0.1.0,0,0,https://github.com/jorgeandrecastro/embassy-riscv,Driver trait for the `xarxa` network stack.
+2026-11-24T06:57:45.394283Z,svgoo-plugin,4.1.0,0,0,https://gitlab.com/jiiihpeeh/svgoo,svgoo builtin plugins: the preset-default and all standalone optimizers.
+2026-11-24T07:02:11.557768Z,dome_editor,0.1.1,0,0,https://github.com/formetaohy/DomeDev,The Dome scene editor
+2026-11-24T07:06:30.809143Z,hazard3-net,0.1.1,0,0,https://github.com/jorgeandrecastro/embassy-riscv,"Network stack designed for embedded, real-time systems without a heap."
+2026-11-24T07:06:54.781002Z,reglow-agent-client,0.1.1,0,0,https://gitee.com/reglow-ai/reglow-library,Reglow Agent 四语言薄 SDK（Rust）：DTO + HTTP 客户端 + 错误映射
+2026-11-24T07:07:45.454315Z,svgoo-cli,4.1.0,0,0,https://gitlab.com/jiiihpeeh/svgoo,svgoo command line interface.
+2026-11-24T07:08:36.340117Z,a9u-rt,0.1.0,0,0,https://github.com/acehinnnqru/rt,Git repository manager that stores repositories in a predictable directory tree
+2026-11-24T07:12:10.542152Z,dome_launcher,0.1.1,0,0,https://github.com/formetaohy/DomeDev,The Dome launcher: the projects it remembers and the editor it starts
+2026-11-24T07:12:12.76448Z,tramli-reactive,0.1.0,0,0,,Typed channels and supervised reactive processes for Rust
+2026-11-24T07:13:50.120611Z,tramli-appspec,0.1.0,0,0,,Runtime-neutral durable semantics for tramli-appspec
+2026-11-24T07:15:32.205085Z,flot-cli,0.1.0,0,0,https://github.com/tobilife/flot,"Verifiable agent flow runtime: every step emits a content-addressed receipt, every claim is bound to evidence."
+2026-11-24T07:16:45.068952Z,hazard3-net-driver-channel,0.1.0,0,0,https://github.com/jorgeandrecastro/embassy-riscv,High-level channel-based driver for the `embassy-net` async TCP/IP network stack.
+2026-11-24T07:17:47.487681Z,svgoo-wasm,4.1.0,0,0,https://gitlab.com/jiiihpeeh/svgoo,"svgoo-core + svgoo-plugin compiled to WebAssembly (SIMD128) with a hand-rolled C ABI for svgoo. Pure computation — zero JS imports, no wasm-bindgen glue."
