@@ -1,0 +1,63 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-24T14:19:02.533082Z,kute-types,0.2.0,0,0,https://github.com/kannaka-labs/kute,"Shared data model for KUTE: identifiers, canonical inputs, token sequences and the vocabulary model"
+2026-11-24T14:19:08.733864Z,kute-core,0.2.0,0,0,https://github.com/kannaka-labs/kute,"KUTE core interfaces: Tokenizer, ModalityAdapter, CorpusSource, RepresentationBackend and the plugin registry"
+2026-11-24T14:19:12.62537Z,kute-adapters,0.2.0,0,0,https://github.com/kannaka-labs/kute,"KUTE modality adapters: text, binary, JSON, JSONL and JSONL event streams"
+2026-11-24T14:19:17.79761Z,kute-algorithms,0.2.0,0,0,https://github.com/kannaka-labs/kute,"Baseline KUTE tokenization algorithms: raw bytes, characters and fixed dictionaries"
+2026-11-24T14:19:23.622924Z,kute-bpe,0.2.0,0,0,https://github.com/kannaka-labs/kute,Byte Pair Encoding for KUTE: native byte-level BPE and BPE over symbol sequences
+2026-11-24T14:24:28.313152Z,nsh-maven,0.1.0,0,0,https://github.com/SuperNSH/maven,Resolve Android libraries from Maven repositories and vendor them into Native Shell (NSH) apps and nshm crates
+2026-11-24T14:24:36.478179Z,rtci-sdp,0.1.0,0,0,https://github.com/Brainwires/rtci,SDP parsing and serialization (RFC 8866) with the attributes WebRTC negotiation uses
+2026-11-24T14:25:56.199601Z,super-router-provider-gemini,0.3.0,0,0,https://github.com/Super-Solution/super-router,Google Gemini generateContent API adapter (Gemini API and Vertex AI).
+2026-11-24T14:27:10.594859Z,beau,0.4.0,0,0,https://github.com/ibra/beau,"Design tokens, typography, motion and components that make egui apps look polished."
+2026-11-24T14:29:26.821044Z,termcpy,0.1.1,0,0,https://github.com/cesarferreira/termcpy,Mirror and control Android devices in your terminal
+2026-11-24T14:30:02.432995Z,kute-hrm,0.2.0,0,0,https://github.com/kannaka-labs/kute,Experimental HRM representation adapter for KUTE: token ids to complex-valued vectors
+2026-11-24T14:30:55.59648Z,merry-cli,0.1.0,0,0,https://github.com/locez/merry,A lightweight terminal coding agent (CLI & interactive TUI) powered by a unified Rust runtime.
+2026-11-24T14:31:27.154148Z,remit-sql,0.1.0,0,0,https://github.com/bitsinfra/remit,"Remit SQL: a strict, deterministic dialect profile over sqlparser-rs"
+2026-11-24T14:31:27.77204Z,remit-types,0.1.0,0,0,https://github.com/bitsinfra/remit,"Remit Types (RT): bounded result types, capacity in bits, validator and trusted transforms"
+2026-11-24T14:31:28.79069Z,remit-wire,0.1.0,0,0,https://github.com/bitsinfra/remit,"Remit wire format: manifest, JCS (RFC 8785) canonicalization, DSSE envelopes, identities"
+2026-11-24T14:31:30.456776Z,remit-read,0.1.0,0,0,https://github.com/bitsinfra/remit,"Remit read plane: DataFusion integration, policy views, k-thresholds, limits, snapshot pinning"
+2026-11-24T14:31:31.230758Z,remit-receipt,0.1.0,0,0,https://github.com/bitsinfra/remit,"Remit receipts: DSSE-signed run records, label meet, hash-chained append-only log"
+2026-11-24T14:34:51.177005Z,rtci-srtp,0.1.0,0,0,https://github.com/Brainwires/rtci,"Sans-I/O SRTP and SRTCP (RFC 3711, RFC 7714 AES-GCM, RFC 9335 Cryptex) for WebRTC"
+2026-11-24T14:35:53.105542Z,nsh-text-to-speech,0.1.0,0,0,https://github.com/SuperNSH/text-to-speech,"Read text aloud: speech synthesis for Native Shell apps, from AVSpeechSynthesizer and Android's TextToSpeech to Speech Dispatcher and the Web Speech API"
+2026-11-24T14:37:37.382565Z,remit-analyze,0.1.0,0,0,https://github.com/bitsinfra/remit,"Remit analyzer: derives policy facts (columns, ops, aggregate-only, k, bits, cost) and LLM-actionable diagnostics"
+2026-11-24T14:39:18.256223Z,robot-bus-msgs,3.0.0,0,0,https://github.com/indunet/robot-bus,Protobuf messages and service/action type markers for robot-bus
+2026-11-24T14:40:40.236638Z,kute-vocab,0.2.0,0,0,https://github.com/kannaka-labs/kute,"KUTE Vocabulary Format (KVF) reading, writing, validation, comparison and tiktoken export"
+2026-11-24T14:45:02.878992Z,rtci-stun,0.1.0,0,0,https://github.com/Brainwires/rtci,"STUN messages, attributes and a sans-I/O client (RFC 8489), for WebRTC"
+2026-11-24T14:46:03.196336Z,lamina-units,0.1.1,0,0,https://github.com/cgubbin/lamina-units,"Typed physical quantities, units and spectral coordinate maps for planar optics"
+2026-11-24T14:46:11.53828Z,clckwrd,0.3.0,0,0,,Print time in words.
+2026-11-24T14:47:37.645936Z,remit-emit,0.1.0,0,0,https://github.com/bitsinfra/remit,"Remit emit plane: result validation, trusted transforms (quantize, clamp, DP noise via OpenDP), encoding"
+2026-11-24T14:49:08.764226Z,nsh-form,0.1.0,0,0,https://github.com/SuperNSH/form,"Typed forms for Native Shell Rust apps, on the GPUI-free state helpers of gpui-form"
+2026-11-24T14:51:22.036808Z,kute-engine,0.2.0,0,0,https://github.com/kannaka-labs/kute,Kannaka Universal Tokenization Engine: the engine facade with all built-in algorithms and adapters
+2026-11-24T14:54:10.951296Z,hazard3-mqtt-lite,0.4.0,0,0,https://github.com/jorgeandrecastro/embassy-mqtt-lite,"Minimal asynchronous no_std MQTT v3.1.1 client for Hazard3. Supports QoS 0, authentication, Last Will, keep-alive, subscriptions and optional TLS 1.3. Works with any transport implementing embedded_i…"
+2026-11-24T14:54:11.33112Z,flareapp-otlp,0.1.0,0,0,https://github.com/spatie/flare-client-rust,OTLP data types and their protobuf and JSON encoding for the Flare client.
+2026-11-24T14:54:13.781816Z,flareapp-macros,0.1.0,0,0,https://github.com/spatie/flare-client-rust,The #[flareapp::main] attribute for the Flare client.
+2026-11-24T14:54:21.778985Z,flareapp-core,0.1.0,0,0,https://github.com/spatie/flare-client-rust,"The core of the Flare client: config, the client, and the worker thread that sends data."
+2026-11-24T14:54:27.735574Z,flareapp-backtrace,0.1.0,0,0,https://github.com/spatie/flare-client-rust,Captures stack traces for the Flare client.
+2026-11-24T14:54:33.089131Z,flareapp-tracing,0.1.0,0,0,https://github.com/spatie/flare-client-rust,"Sends tracing spans and events to Flare as traces, logs and breadcrumbs."
+2026-11-24T14:55:02.081771Z,mediaprobe,0.0.1,0,0,https://github.com/scryer-media/mediaprobe,"Container and stream metadata for media files, read in pure Rust with no external tools. This release reserves the name; the parser is not published yet."
+2026-11-24T14:55:15.4247Z,rtci-ice,0.1.0,0,0,https://github.com/Brainwires/rtci,"Sans-I/O ICE agent (RFC 8445) with trickle ICE, ICE-TCP and consent freshness, for WebRTC"
+2026-11-24T14:56:02.618424Z,agentscope-durable,0.2.0,0,0,https://github.com/Endlessworld/agentscope-rust,AgentScope Rust - Durable recoverable runtime
+2026-11-24T14:57:13.401472Z,agentscope-durable-sqlite,0.2.0,0,0,https://github.com/Endlessworld/agentscope-rust,AgentScope Rust - SQLite record store for the durable runtime
+2026-11-24T14:57:38.021089Z,remit-kernel,0.1.0,0,0,https://github.com/bitsinfra/remit,"Remit compute plane: Wasmtime host for kernel engines (pooling, fuel, deterministic WASI stubs, worker processes)"
+2026-11-24T15:00:19.835953Z,agentscope-durable-worker,0.2.0,0,0,https://github.com/Endlessworld/agentscope-rust,AgentScope Rust - Brain/Hands worker and drivers over the durable tick
+2026-11-24T15:01:02.118772Z,nsh-firebase-core,0.1.0,0,0,https://github.com/SuperNSH/firebase,"Firebase Core for Native Shell Rust apps: app and options, emulator config, the shared error type, the event bus, the tier facade and the pure-tier transports"
+2026-11-24T15:02:01.658014Z,kute-bench,0.2.0,0,0,https://github.com/kannaka-labs/kute,Reproducible evaluation and benchmarking for KUTE vocabularies
+2026-11-24T15:03:44.11986Z,nsh-ocr,0.1.0,0,0,https://github.com/SuperNSH/ocr,"Recognise text in images for Native Shell apps: Apple Vision, Android ML Kit, Windows Media.Ocr and ocrs"
+2026-11-24T15:04:38.443872Z,flareapp-log,0.1.0,0,0,https://github.com/spatie/flare-client-rust,Sends log crate records to Flare as logs and breadcrumbs.
+2026-11-24T15:04:49.486559Z,agentscope-durable-jdbc,0.2.0,0,0,https://github.com/Endlessworld/agentscope-rust,AgentScope Rust - PostgreSQL record store for the durable runtime
+2026-11-24T15:05:27.778617Z,rtci-turn,0.1.0,0,0,https://github.com/Brainwires/rtci,"Sans-I/O TURN client (RFC 8656, RFC 6062 TCP allocations) for WebRTC"
+2026-11-24T15:05:38.757365Z,agentscope-durable-objects,0.2.0,0,0,https://github.com/Endlessworld/agentscope-rust,AgentScope Rust - Content-addressed object storage for durable blobs
+2026-11-24T15:10:01.582812Z,tapt,0.1.0,0,0,https://github.com/0tapt/wallet,"Identity, GRAM balance, payments, and an encrypted keystore for a wallet on TON"
+2026-11-24T15:10:45.724379Z,agentscope-durable-http,0.2.0,0,0,https://github.com/Endlessworld/agentscope-rust,"AgentScope Rust - durable adapter for HTTP transport (skeleton, Java parity)"
+2026-11-24T15:11:47.890068Z,agentscope-durable-mcp,0.2.0,0,0,https://github.com/Endlessworld/agentscope-rust,AgentScope Rust - durable adapter for MCP (Model Context Protocol) execution transport
+2026-11-24T15:11:51.235409Z,bipkit,0.1.0,0,0,https://github.com/bipware-org/bipkit-rust,Official Rust SDK for the Bipkit System One Decision Engine API.
+2026-11-24T15:12:55.033043Z,kute-cli,0.2.0,0,0,https://github.com/kannaka-labs/kute,Command line interface for the Kannaka Universal Tokenization Engine
+2026-11-24T15:13:02.76954Z,rhai-data-quality,0.6.0,0,0,https://github.com/rhaiscript/rhai-data-quality,"Rhai packages for cleaning business data: emails, phone numbers, names, companies, postcodes, dates in mixed formats, Excel serial dates, amounts, currencies and text."
+2026-11-24T15:14:20.405935Z,omnibuf-tonic,0.1.7,0,0,https://github.com/omnibuf/omnibuf-rs,OmniBuf gRPC codec for tonic (application/grpc+omnibuf)
+2026-11-24T15:14:34.820064Z,wings-plugin,0.1.0,0,0,https://github.com/josippapez/Wings,"Write a Wings plugin in Rust, built to WebAssembly."
+2026-11-24T15:14:41.686484Z,cargo-wings-plugin,0.1.0,0,0,https://github.com/josippapez/Wings,"cargo wings-plugin: start, build, check, pack and live-reload a Wings plugin written in Rust."
+2026-11-24T15:14:47.071746Z,flareapp-panic,0.1.0,0,0,https://github.com/spatie/flare-client-rust,Reports panics to Flare.
+2026-11-24T15:15:52.555939Z,rtci,0.1.0,0,0,https://github.com/Brainwires/rtci,"A sans-I/O WebRTC implementation: peer connections with ICE, DTLS-SRTP, SCTP data channels, RTP/RTCP and JSEP negotiation"
+2026-11-24T15:16:26.090397Z,nsh-logging,0.1.0,0,0,https://github.com/SuperNSH/logging,"Local log files with rotation, bounded disk use and redaction for Native Shell apps"
+2026-11-24T15:18:51.918253Z,rebac-schema,0.1.0,0,0,https://github.com/louvain-ai/pg_rebac,Parses a SpiceDB schema and derives which relations can change one permission
+2026-11-24T15:19:06.784454Z,agentscope-durable-rocketmq,0.2.0,0,0,https://github.com/Endlessworld/agentscope-rust,AgentScope Rust - durable adapter for the RocketMQ event channel (Java parity)
+2026-11-24T15:19:55.665701Z,rebacd,0.1.0,0,0,https://github.com/louvain-ai/pg_rebac,The pg_rebac sync daemon: relays relationship writes to SpiceDB and keeps the projection in Postgres
