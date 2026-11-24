@@ -1,0 +1,26 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-24T03:22:02.297681Z,zuplo-runtime,0.0.0,0,0,https://github.com/zuplo,Reserved by Zuplo for the Zuplo gateway runtime. No code yet.
+2026-11-24T03:25:01.390059Z,clipdeck,0.1.0,0,0,https://github.com/TheyCallMePBJ/clipdeck,"Terminal-styled clipboard history manager for Wayland, built on cliphist"
+2026-11-24T03:30:36.845474Z,tokedex-openai,0.0.1-preview.15,0,0,https://github.com/artificialanalysis/aa-router,OpenAI provider for Tokedex.
+2026-11-24T03:32:01.57326Z,zuplo-test,0.0.0,0,0,https://github.com/zuplo,Reserved by Zuplo for testing Zuplo gateway policies. No code yet.
+2026-11-24T03:38:28.986752Z,httpd-rs-verified,0.2.3,0,0,https://github.com/JD-P/httpd-rs/,Verus kernels for httpd-rs
+2026-11-24T03:39:20.149456Z,httpd-rs-h2,0.4.20,0,0,https://github.com/hyperium/h2,httpd-rs fork of an HTTP/2 client and server with Verus Rust kernels
+2026-11-24T03:40:51.920992Z,tokedex-openai-compatible,0.0.1-preview.15,0,0,https://github.com/artificialanalysis/aa-router,Generic OpenAI-compatible provider and xAI preset for Tokedex.
+2026-11-24T03:42:00.172549Z,kv-prefix-guard,1.0.0,0,0,https://github.com/davidhcar/kv-prefix-guard,"Prefix-invariant context partitioning, K-bounded cache breakpoint scheduling, and commit-time relational artifact distillation for multi-turn LLM KV-caches (Anthropic Claude, OpenAI, Gemini, vLLM, SG…"
+2026-11-24T03:42:02.383573Z,zuplo-wasm,0.0.0,0,0,https://github.com/zuplo,Reserved by Zuplo for WebAssembly support for Zuplo gateway policies. No code yet.
+2026-11-24T03:43:27.167851Z,tc_dsa,0.1.0,0,0,https://github.com/TomiCheng/tc_signer,"The DSA-family signature contracts, digest signers, k calculators and (r, s) encodings, after Bouncy Castle's IDsa."
+2026-11-24T03:44:03.10742Z,httpd-rs-os,0.2.3,0,0,https://github.com/JD-P/httpd-rs/,Unsafe Linux syscall boundary for httpd-rs.
+2026-11-24T03:46:28.482383Z,httpd-rs-pcre2,0.2.3,0,0,https://github.com/JD-P/httpd-rs/,PCRE2 compatibility wrapper for httpd-rs.
+2026-11-24T03:51:09.267117Z,tokedex-local-llm,0.0.1-preview.15,0,0,https://github.com/artificialanalysis/aa-router,LM Studio and Ollama presets for Tokedex.
+2026-11-24T03:52:03.53892Z,zuplo-types,0.0.0,0,0,https://github.com/zuplo,Reserved by Zuplo for types shared by Zuplo Rust crates. No code yet.
+2026-11-24T03:55:46.387351Z,mokuji,0.1.0,0,0,https://github.com/reearth/mokuji,"A cloud-optimized concordance format: build, read and search a Mokuji file, reading only what a query needs"
+2026-11-24T04:00:03.886615Z,ead-sma,0.1.0,0,0,https://github.com/jidoughost-tl/ead-sma-rs,"Pure Rust, zero-dependency parser, software synthesizer, and byte-exact golden-tested emulator for the Nintendo EAD/SRD Super Mario Advance GBA sound engine"
+2026-11-24T04:00:15.100965Z,engine-sw-audio,0.1.0,0,0,https://github.com/jidoughost-tl/engine-sw-audio-rs,"Pure Rust, zero-dependency parser, software synthesizer, and golden-tested emulator for the Engine Software / Bob Koon EIRE v2.0 GBA sound engine (Game Boy Advance)"
+2026-11-24T04:00:46.486291Z,gba-ereader,0.1.0,0,0,https://github.com/jidoughost-tl/gba-ereader-rs,"Pure Rust, zero-dependency Nintendo GBA e-Reader dot-code toolkit: vpk0 codec, GF(256) Reed-Solomon ECC, 8-to-10-bit optical modulation, .raw/.bin strip formats, and printable strip renderer"
+2026-11-24T04:00:47.404743Z,formatkit-gltf,0.1.10,0,0,https://github.com/JidouGhost-TL/formatkit,"Dependency-free glTF 2.0 (.glb / .gltf) builder, GLB reader/writer, and transform helpers"
+2026-11-24T04:01:05.563044Z,mobiclip,0.1.0,0,0,https://github.com/jidoughost-tl/mobiclip-rs,"Pure Rust, zero-dependency, byte-exact decoder for ActImagine Mobiclip GBA v1/v2 audio, BGR555 video, and GBA Video containers"
+2026-11-24T04:01:24.822725Z,tokedex-engine,0.0.1-preview.15,0,0,https://github.com/artificialanalysis/aa-router,"In-process serving of the compiled Tokedex catalogue: routing, admission, health and continuation."
+2026-11-24T04:04:52.616079Z,slint-winui,0.1.0,0,0,https://github.com/CandyRGB/slint-winui,Reusable WinUI-inspired components for Slint
+2026-11-24T04:06:16.89066Z,libgte,0.1.0,0,0,https://github.com/JidouGhost-TL/libgte-rs,"Standalone pure-Rust PlayStation 1 GTE (Geometry Transformation Engine, COP2) hardware implementation"
+2026-11-24T04:11:40.48681Z,tokedex-bundle,0.0.1-preview.15,0,0,https://github.com/artificialanalysis/aa-router,Multi-provider LLM router: feature-flagged re-exports of the Tokedex crates.
+2026-11-24T04:16:19.291557Z,libakao,0.1.0,0,0,https://github.com/JidouGhost-TL/libakao-rs,Standalone pure-Rust PlayStation AKAO music sequencer built on libspu2
