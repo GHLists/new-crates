@@ -1,0 +1,38 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-24T22:26:28.923118Z,datastreamdb-loader,0.1.0,0,0,,Bulk and live data loaders: RDF/JSON ingest into engines.
+2026-11-24T22:27:00.000474Z,staquia,0.1.0,0,0,https://github.com/Nona9614/staquia-rust,"Lexicographic positions: short strings that keep the order of a list, so moving an item writes one row."
+2026-11-24T22:27:50.631479Z,rne_hardware_gateway,0.4.0,0,0,https://github.com/rsasaki0109/RobotNativeEngine,Bounded fail-closed hardware gateway contracts for Robot Native Engine
+2026-11-24T22:30:45.008511Z,camus-macros-support,0.2.0,0,0,https://github.com/thepartly/camus,"What the Camus macro crates share: the definition header and its checks, and a module macro's skeleton"
+2026-11-24T22:30:45.361488Z,camus-pi,0.2.0,0,0,https://github.com/thepartly/camus,"pi's model, transcript and provider semantics, ported to Rust for the agentic kind"
+2026-11-24T22:30:46.375996Z,camus-agentic-macros,0.2.0,0,0,https://github.com/thepartly/camus,The macros of the agentic kind: #[agent] and #[agentic_extension]
+2026-11-24T22:30:46.569393Z,camus-graph-macros,0.2.0,0,0,https://github.com/thepartly/camus,"The macro of the graph kind: #[graph], a graph as a module of nodes"
+2026-11-24T22:30:46.704082Z,camus-macros,0.2.0,0,0,https://github.com/thepartly/camus,"Procedural macros that declare Camus tools, human tools, questions and signals"
+2026-11-24T22:35:20.005518Z,camus-runtime,0.2.0,0,0,https://github.com/thepartly/camus,"The Camus runtime: actors, executions, activations, ctx and the contracts"
+2026-11-24T22:38:55.772433Z,datastreamdb-server,0.1.0,0,0,,"Standalone binaries: alpha, zero, bulk, live."
+2026-11-24T22:39:07.663544Z,rne_hardware_lekiwi,0.4.0,0,0,https://github.com/rsasaki0109/RobotNativeEngine,Fail-closed LeKiwi + SO-101 reference hardware adapter for Robot Native Engine
+2026-11-24T22:46:34.632629Z,camus-adapter-iond,0.2.0,0,0,https://github.com/thepartly/camus,"A Camus service on iond: the cell's SQLite as the runtime's log, and the queues that route its executions and make its promises"
+2026-11-24T22:50:59.599825Z,searchwala,8.3.1,0,0,https://github.com/SandeepAi369/SearchWala,"Meta-search engine and zero-dependency MCP server in Rust: cross-engine consensus ranking, trafilatura + Readability extraction, domain controls, scholarly sources, and mode-specific synthesis with o…"
+2026-11-24T22:53:31.767765Z,rne_mjcf,0.4.0,0,0,https://github.com/rsasaki0109/RobotNativeEngine,Minimal MuJoCo MJCF model import (MJCF -> URDF) for Robot Native Engine
+2026-11-24T22:53:44.196463Z,tilo-advisory-lock,0.4.0,0,0,https://code.tilo.so/tilo/tilo,One advisory file-lock guard that unlocks explicitly on drop.
+2026-11-24T22:53:45.095384Z,tilo-app-fleet,0.4.0,0,0,https://code.tilo.so/tilo/tilo,"What every Tilo app's signed manifest says about it, compiled in: names, keywords, platforms, documents and closed actions."
+2026-11-24T22:53:45.833052Z,tilo-app-id,0.4.0,0,0,https://code.tilo.so/tilo/tilo,The id an app is known by: its reverse-DNS name.
+2026-11-24T22:53:46.068415Z,tilo-app-module,0.4.0,0,0,https://code.tilo.so/tilo/tilo,"Later builds of a running app whose payload is its module: the directory each generation is published into, and the file that names the current one."
+2026-11-24T22:53:46.821654Z,tilo-automerge-fork,0.4.0,0,0,https://github.com/automerge/automerge,automerge 0.12.0 (https://github.com/automerge/automerge) with each text object's mark changes kept in its own patch. Tilo's fork; see TILO-PATCH.md.
+2026-11-24T22:54:11.042387Z,graphlava,0.1.0-alpha.1,0,0,https://github.com/Volland/graphlava,"A mutable, single-file metagraph database for agent memory"
+2026-11-24T22:54:25.761019Z,graphlava-ffi,0.1.0-alpha.1,0,0,https://github.com/Volland/graphlava,"C API of graphlava, an embedded metagraph database for agent memory (libgraphlava_ffi + graphlava.h)"
+2026-11-24T22:54:34.683849Z,graphlava-cli,0.1.0-alpha.1,0,0,https://github.com/Volland/graphlava,"Command-line tool for graphlava: query, update, import, export and inspect metagraph databases"
+2026-11-24T22:57:30.688829Z,camus-human,0.2.0,0,0,https://github.com/thepartly/camus,"The answers a human tool asks for (confirm, choose one, choose many, free text), and the ask tool an agent calls"
+2026-11-24T23:02:32.596721Z,steamapps-scan,0.1.0,0,0,https://github.com/ShelbyJenkins/steamapps-scan,Generic Steam app inventory and executable discovery with validated paths and non-lossy diagnostics
+2026-11-24T23:04:41.030592Z,rne_plateau,0.4.0,0,0,https://github.com/rsasaki0109/RobotNativeEngine,Deterministic PLATEAU CityGML import pipeline for Robot Native Engine
+2026-11-24T23:08:26.412042Z,camus-graph,0.2.0,0,0,https://github.com/thepartly/camus,"The graph kind: a typed state machine over nodes declared as a module, run one node per activation"
+2026-11-24T23:15:49.444147Z,rne_render_wgpu,0.4.0,0,0,https://github.com/rsasaki0109/RobotNativeEngine,wgpu render backend for Robot Native Engine
+2026-11-24T23:15:49.899474Z,rne_sdf,0.4.0,0,0,https://github.com/rsasaki0109/RobotNativeEngine,Minimal SDF model import (SDF -> URDF) for Robot Native Engine
+2026-11-24T23:17:09.280514Z,paperplane-types,1.0.0,0,0,,Telegram Bot API types for the paperplane framework
+2026-11-24T23:17:11.859764Z,paperplane-client,1.0.0,0,0,,Telegram Bot API client for the paperplane framework
+2026-11-24T23:17:14.3529Z,paperplane-dispatch,1.0.0,0,0,,Typed update contexts and dispatch for paperplane bots
+2026-11-24T23:17:15.934563Z,paperplane-utils,1.0.0,0,0,,Text formatting and bot utilities for paperplane
+2026-11-24T23:17:18.558839Z,paperplane-fsm,1.0.0,0,0,,State storage and typed conversations for paperplane bots
+2026-11-24T23:17:26.919975Z,rsb-sandbox,0.2.0,0,0,https://github.com/Shura5860/rust-sandbox,"Rootless Linux process sandbox in pure Rust (Namespaces, Landlock, Seccomp-BPF, Cgroups v2, OverlayFS CoW, and network egress filtering)"
+2026-11-24T23:19:13.295389Z,agents-flow,0.2.0,0,0,,"Secure multi-agent team : centralised permissions, tool-side guardrails, audit for multi-platform usages (Windows ARM64 + Linux ARM64)."
+2026-11-24T23:19:20.431088Z,camus-agentic,0.2.0,0,0,https://github.com/thepartly/camus,"The agentic kind: pi's durable model loop, one turn per activation, on ctx"
+2026-11-24T23:19:31.875673Z,open-evdop,0.1.0,0,0,https://github.com/jaydensmith/OpenEVDOP,"Voronoi diagram computation for points, line segments, and circular arcs with offset curve extraction"
