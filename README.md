@@ -8,79 +8,61 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-24 19:19 UTC
+## Latest list — 2026-11-24 20:18 UTC
 
-New crates published between 2026-11-24 18:19 UTC and 2026-11-24 19:19 UTC.
+New crates published between 2026-11-24 19:19 UTC and 2026-11-24 20:18 UTC.
 
-[Full CSV](data/new-crates-2026-11-24T19-19-34-077222Z.csv)
+[Full CSV](data/new-crates-2026-11-24T20-18-48-027601Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-24 18:21:17 | [rne_ecs](https://crates.io/crates/rne_ecs) | 0.4.0 | 0 | ECS wrapper and shared entity conventions for Robot Native Engine |
-| 2026-11-24 18:21:17 | [rne_math](https://crates.io/crates/rne_math) | 0.4.0 | 0 | Spatial math and explicit units for Robot Native Engine |
-| 2026-11-24 18:21:17 | [rne_plugin_sdk](https://crates.io/crates/rne_plugin_sdk) | 0.4.0 | 0 | Dependency-free authoring ABI for RNE controller plugins |
-| 2026-11-24 18:21:18 | [rne_core](https://crates.io/crates/rne_core) | 0.4.0 | 0 | Core app, schedule, and simulation time for Robot Native Engine |
-| 2026-11-24 18:21:19 | [rne_nav](https://crates.io/crates/rne_nav) | 0.4.0 | 0 | Backend-neutral occupancy grids, costmaps, and transform tree for Robot Native… |
-| 2026-11-24 18:21:54 | [paperpaw-plugin-edge-light](https://crates.io/crates/paperpaw-plugin-edge-light) | 1.0.2 | 0 | PaperPaw Edge light: swipe along the screen edge to set the front light, and a… |
-| 2026-11-24 18:23:11 | [egui-workbench-host](https://crates.io/crates/egui-workbench-host) | 0.12.0 | 0 | A declarative host for egui-workbench: a versioned application spec, patches, e… |
-| 2026-11-24 18:25:11 | [lamakore](https://crates.io/crates/lamakore) | 0.0.0 | 0 | Reserved name for Lamakore - the open-source local-first desktop control plane… |
-| 2026-11-24 18:26:05 | [spatie-spreadsheet-ods](https://crates.io/crates/spatie-spreadsheet-ods) | 1.0.0 | 0 | Read and write ODS files; Spatie's dependency-patched copy of spreadsheet-ods |
-| 2026-11-24 18:26:07 | [spatie-simple-excel](https://crates.io/crates/spatie-simple-excel) | 1.0.0 | 0 | Read and write simple Excel and CSV files |
-| 2026-11-24 18:28:18 | [malak-store-memory](https://crates.io/crates/malak-store-memory) | 0.1.1 | 0 | In-memory storage for embedded and test Malak boards |
-| 2026-11-24 18:29:36 | [supernsh-icons-data-1](https://crates.io/crates/supernsh-icons-data-1) | 0.1.0 | 0 | Icon data for supernsh-icons: gzipped Iconify JSON, part 1 of 3. Not for direct… |
-| 2026-11-24 18:30:34 | [shuyi-embed](https://crates.io/crates/shuyi-embed) | 0.0.0 | 0 | Reserved for Shuyi Engine, an open-source 2D game engine in Rust. Nothing here… |
-| 2026-11-24 18:30:41 | [shuyi-embed-macros](https://crates.io/crates/shuyi-embed-macros) | 0.0.0 | 0 | Reserved for Shuyi Engine, an open-source 2D game engine in Rust. Nothing here… |
-| 2026-11-24 18:30:48 | [shuyi-script](https://crates.io/crates/shuyi-script) | 0.0.0 | 0 | Reserved for Shuyi Engine, an open-source 2D game engine in Rust. Nothing here… |
-| 2026-11-24 18:30:56 | [shuyi-sound](https://crates.io/crates/shuyi-sound) | 0.0.0 | 0 | Reserved for Shuyi Engine, an open-source 2D game engine in Rust. Nothing here… |
-| 2026-11-24 18:31:03 | [shuyi-sound-out](https://crates.io/crates/shuyi-sound-out) | 0.0.0 | 0 | Reserved for Shuyi Engine, an open-source 2D game engine in Rust. Nothing here… |
-| 2026-11-24 18:32:06 | [paperpaw-plugin-file-sync](https://crates.io/crates/paperpaw-plugin-file-sync) | 1.0.3 | 0 | PaperPaw File sync: keep folders of the card in sync with your own WebDAV serve… |
-| 2026-11-24 18:33:28 | [snodra-messaging](https://crates.io/crates/snodra-messaging) | 0.8.0 | 0 | Snodra messaging client for Rust: hub client (commands, queries), events throug… |
-| 2026-11-24 18:34:29 | [rne_data](https://crates.io/crates/rne_data) | 0.4.0 | 0 | Typed DataBus and frame payloads for Robot Native Engine |
-| 2026-11-24 18:36:43 | [datastreamdb-audit](https://crates.io/crates/datastreamdb-audit) | 0.1.0 | 0 | Audit logging pipeline and filters. |
-| 2026-11-24 18:36:45 | [datastreamdb-enc](https://crates.io/crates/datastreamdb-enc) | 0.1.0 | 0 | Encryption at rest helpers (AES-CTR streams, key rotation). |
-| 2026-11-24 18:36:47 | [datastreamdb-lex](https://crates.io/crates/datastreamdb-lex) | 0.1.0 | 0 | Low-level lexing primitives (IRIs, RDF atoms). |
-| 2026-11-24 18:36:49 | [datastreamdb-proto](https://crates.io/crates/datastreamdb-proto) | 0.1.0 | 0 | Protobuf message definitions (prost) shared by all crates. |
-| 2026-11-24 18:36:50 | [datastreamdb-store](https://crates.io/crates/datastreamdb-store) | 0.1.0 | 0 | Pluggable LSM storage: memory + fjall backends. |
-| 2026-11-24 18:37:17 | [synckit-config](https://crates.io/crates/synckit-config) | 0.4.0 | 0 | Local key/value app settings with sync postures. The store half of SyncKit's co… |
-| 2026-11-24 18:39:35 | [malak-store-sqlite](https://crates.io/crates/malak-store-sqlite) | 0.1.1 | 0 | Durable storage for Malak boards backed by SQLite |
-| 2026-11-24 18:40:01 | [supernsh-icons-data-2](https://crates.io/crates/supernsh-icons-data-2) | 0.1.0 | 0 | Icon data for supernsh-icons: gzipped Iconify JSON, part 2 of 3. Not for direct… |
-| 2026-11-24 18:40:33 | [synckit-client](https://crates.io/crates/synckit-client) | 0.26.2 | 0 | SyncKit client SDK with end-to-end encryption |
-| 2026-11-24 18:41:45 | [paperpaw-plugin-format-cbz](https://crates.io/crates/paperpaw-plugin-format-cbz) | 1.0.6 | 0 | PaperPaw comic book archives: the interface-7 plugin over the shared conversion… |
-| 2026-11-24 18:43:54 | [tano-page-protocol](https://crates.io/crates/tano-page-protocol) | 0.1.0-alpha.2 | 0 | Tano Markdown workspace protocol helpers: content hashes, short IDs and portabl… |
-| 2026-11-24 18:46:25 | [spdm-attest](https://crates.io/crates/spdm-attest) | 0.1.0 | 0 | Hardware-rooted PCIe SPDM 1.2/1.3 attestation quote and measurement validator f… |
-| 2026-11-24 18:46:53 | [rne_plugin](https://crates.io/crates/rne_plugin) | 0.4.0 | 0 | Plugin manifest and controller-plugin boundary for Robot Native Engine |
-| 2026-11-24 18:46:54 | [rne_slam](https://crates.io/crates/rne_slam) | 0.4.0 | 0 | Deterministic backend-neutral 2D scan matching and online occupancy SLAM |
-| 2026-11-24 18:49:18 | [oqi-classical](https://crates.io/crates/oqi-classical) | 0.1.0 | 0 | OpenQASM 3 classical values, types and operators, a building block of the oqi t… |
-| 2026-11-24 18:49:18 | [oqi-lex](https://crates.io/crates/oqi-lex) | 0.1.0 | 0 | Lexer for OpenQASM 3 (including OpenPulse), a building block of the oqi toolcha… |
-| 2026-11-24 18:49:20 | [oqi-diagnostics](https://crates.io/crates/oqi-diagnostics) | 0.1.0 | 0 | Stable error codes and source-annotated diagnostic rendering for the oqi OpenQA… |
-| 2026-11-24 18:49:21 | [oqi-parse](https://crates.io/crates/oqi-parse) | 0.1.0 | 0 | Parser and syntax tree for OpenQASM 3 (including OpenPulse), a building block o… |
-| 2026-11-24 18:49:23 | [oqi-compile](https://crates.io/crates/oqi-compile) | 0.1.0 | 0 | OpenQASM 3 compiler: parses, type-checks and lowers OpenQASM 3 programs to oqi… |
-| 2026-11-24 18:50:26 | [supernsh-icons-data-3](https://crates.io/crates/supernsh-icons-data-3) | 0.1.0 | 0 | Icon data for supernsh-icons: gzipped Iconify JSON, part 3 of 3. Not for direct… |
-| 2026-11-24 18:50:40 | [oqi-format](https://crates.io/crates/oqi-format) | 0.1.0 | 0 | Source formatter for OpenQASM 3 programs, part of the oqi toolchain |
-| 2026-11-24 18:50:42 | [malak-transport-unix](https://crates.io/crates/malak-transport-unix) | 0.1.1 | 0 | Unix-domain and Firecracker vsock transports for Malak |
-| 2026-11-24 18:51:41 | [paperpaw-plugin-format-epub-plus](https://crates.io/crates/paperpaw-plugin-format-epub-plus) | 1.1.1 | 0 | PaperPaw EPUB with picture books (fixed layout) and math (MathML): the interfac… |
-| 2026-11-24 18:57:05 | [remitmatch](https://crates.io/crates/remitmatch) | 0.0.1 | 0 | Match bank payments to open invoices (1:1, 1:N, N:1) and explain every match wi… |
-| 2026-11-24 18:58:47 | [rne_traffic](https://crates.io/crates/rne_traffic) | 0.4.0 | 0 | Deterministic backend-neutral traffic domain for Robot Native Engine |
-| 2026-11-24 18:58:57 | [oxipix](https://crates.io/crates/oxipix) | 0.1.0 | 0 | Document-capture toolkit on top of `image`: optional wgpu acceleration, perspec… |
-| 2026-11-24 19:00:37 | [datastreamdb-filestore](https://crates.io/crates/datastreamdb-filestore) | 0.1.0 | 0 | Local/remote file access for bulk load and backup. |
-| 2026-11-24 19:00:50 | [supernsh-icons](https://crates.io/crates/supernsh-icons) | 0.1.0 | 0 | Every Iconify icon set for Native Shell apps: typed SVG icons behind one Cargo… |
-| 2026-11-24 19:01:27 | [datastreamdb-acl](https://crates.io/crates/datastreamdb-acl) | 0.1.0 | 0 | Access control: JWT auth, HMAC secrets, rules. |
-| 2026-11-24 19:01:43 | [oqi-vm](https://crates.io/crates/oqi-vm) | 0.1.0 | 0 | Bytecode VM and quantum simulators (state vector, SIMD, stabilizer, MPS, WebGPU… |
-| 2026-11-24 19:01:55 | [malak-core](https://crates.io/crates/malak-core) | 0.1.1 | 0 | Board lifecycle, participant permissions, and message operations for Malak |
-| 2026-11-24 19:01:59 | [malak-supervise](https://crates.io/crates/malak-supervise) | 0.1.1 | 0 | Start, stop, and report the exit of Malak workers from the host |
-| 2026-11-24 19:02:06 | [paperpaw-plugin-format-fb2](https://crates.io/crates/paperpaw-plugin-format-fb2) | 1.0.5 | 0 | PaperPaw FictionBooks: the interface-7 plugin over the shared conversion of pap… |
-| 2026-11-24 19:02:12 | [datastreamdb-codec](https://crates.io/crates/datastreamdb-codec) | 0.1.0 | 0 | Posting-list codecs: varint packing, group varint, compression. |
-| 2026-11-24 19:09:00 | [vdpi](https://crates.io/crates/vdpi) | 0.4.1 | 0 | Zero-hassle, self-healing anti-DPI engine in Rust - native across Windows, macO… |
-| 2026-11-24 19:09:07 | [datastreamdb-algo](https://crates.io/crates/datastreamdb-algo) | 0.1.0 | 0 | UID-list algorithms: intersect, merge, sketches. |
-| 2026-11-24 19:10:45 | [rne_openscenario](https://crates.io/crates/rne_openscenario) | 0.4.0 | 0 | Minimal OpenSCENARIO 1.0 scenario import for Robot Native Engine |
-| 2026-11-24 19:10:50 | [oqi](https://crates.io/crates/oqi) | 0.1.0 | 0 | OpenQASM 3 compiler and quantum simulator: compile, run, sample and format Open… |
-| 2026-11-24 19:13:32 | [reddit-research](https://crates.io/crates/reddit-research) | 0.1.0 | 0 | Read-only Reddit research CLI over the Reddit API and the Arctic Shift archive |
-| 2026-11-24 19:13:42 | [nsh-secure-storage](https://crates.io/crates/nsh-secure-storage) | 0.1.0 | 0 | Secure key-value storage for Native Shell apps, backed by each platform's own s… |
-| 2026-11-24 19:13:47 | [nsh-http](https://crates.io/crates/nsh-http) | 0.1.0 | 0 | HTTP client for Native Shell Rust apps: typed JSON decoding, timeouts, retries,… |
-| 2026-11-24 19:13:50 | [qbw](https://crates.io/crates/qbw) | 0.1.0 | 0 | Pure-Rust reader for QuickBooks Desktop (.qbw) company files |
-| 2026-11-24 19:14:38 | [malak](https://crates.io/crates/malak) | 0.1.1 | 0 | Command-line tool and Rust library for running a message board for agents |
-| 2026-11-24 19:16:23 | [paperpaw-plugin-format-html](https://crates.io/crates/paperpaw-plugin-format-html) | 1.0.5 | 0 | PaperPaw HTML files: the interface-7 plugin over the shared conversion of paper… |
-| 2026-11-24 19:18:43 | [leanqk](https://crates.io/crates/leanqk) | 0.0.0 | 0 | Lean quick kernel |
+| 2026-11-24 19:20:35 | [rs-json](https://crates.io/crates/rs-json) | 0.1.0 | 0 | Zero-copy JSON parser with Serde helpers and JSON-LD builders |
+| 2026-11-24 19:21:03 | [oqi-cli](https://crates.io/crates/oqi-cli) | 0.1.0 | 0 | The oqi command-line tool: compile, run, sample and format OpenQASM 3 programs |
+| 2026-11-24 19:22:00 | [easl](https://crates.io/crates/easl) | 0.1.0 | 0 | A high-level shader language that compiles to WGSL, with an optional CPU runtim… |
+| 2026-11-24 19:22:06 | [datastreamdb-types](https://crates.io/crates/datastreamdb-types) | 0.1.0 | 0 | Scalar type system: parse, compare, convert, geo scaffolding. |
+| 2026-11-24 19:22:14 | [paperpaw-plugin-format-markdown](https://crates.io/crates/paperpaw-plugin-format-markdown) | 1.0.5 | 0 | PaperPaw Markdown files: the interface-7 plugin over the shared conversion of p… |
+| 2026-11-24 19:22:40 | [rne_sumo](https://crates.io/crates/rne_sumo) | 0.4.0 | 0 | Minimal SUMO .net.xml road-network import for Robot Native Engine |
+| 2026-11-24 19:22:52 | [fm1-assets](https://crates.io/crates/fm1-assets) | 0.2.0-rc.0 | 0 | Read-only flash assets and lossless PCM playback for the M-VAVE FM-1 |
+| 2026-11-24 19:32:28 | [paperpaw-plugin-format-rtf](https://crates.io/crates/paperpaw-plugin-format-rtf) | 1.0.1 | 0 | PaperPaw RTF documents: .rtf text, headings, lists, tables and pictures |
+| 2026-11-24 19:32:42 | [datastreamdb-tok](https://crates.io/crates/datastreamdb-tok) | 0.1.0 | 0 | Tokenizers for scalar and full-text indexing. |
+| 2026-11-24 19:33:44 | [horned-pest](https://crates.io/crates/horned-pest) | 0.1.0 | 0 | The original pest-based OFN, Manchester and OBO readers for horned-owl; depreca… |
+| 2026-11-24 19:34:32 | [rne_traci](https://crates.io/crates/rne_traci) | 0.4.0 | 0 | Minimal TraCI client for live SUMO co-simulation |
+| 2026-11-24 19:39:41 | [vortex-functions](https://crates.io/crates/vortex-functions) | 0.94.0 | 0 | Vortex scalar functions beyond those the core array crate relies on |
+| 2026-11-24 19:39:50 | [easl_cli](https://crates.io/crates/easl_cli) | 0.1.0 | 0 | CLI for the easl compiler toolchain |
+| 2026-11-24 19:40:55 | [ursa-viz](https://crates.io/crates/ursa-viz) | 0.12.0 | 0 | Ursa's graph view: a live ForceAtlas2 layout drawn with wgpu (WebGPU, WebGL2, o… |
+| 2026-11-24 19:41:31 | [smale-counterexample-deg7299](https://crates.io/crates/smale-counterexample-deg7299) | 1.0.0 | 0 | Machine-certified degree-7,299 counterexample to Smale's Mean Value Conjecture… |
+| 2026-11-24 19:41:47 | [paperpaw-plugin-launcher-simple](https://crates.io/crates/paperpaw-plugin-launcher-simple) | 1.0.1 | 0 | PaperPaw Simple home: a large clock, cards, a dock and a quick panel of round s… |
+| 2026-11-24 19:43:10 | [datastreamdb-x](https://crates.io/crates/datastreamdb-x) | 0.1.0 | 0 | Shared commons: errors, config, metrics, logging helpers. |
+| 2026-11-24 19:43:22 | [opcua-kit](https://crates.io/crates/opcua-kit) | 0.0.1 | 0 | OPC UA utilities for Rust, starting with StatusCode severity classification |
+| 2026-11-24 19:43:56 | [starfold-aom-sys](https://crates.io/crates/starfold-aom-sys) | 0.1.0+libaom.3.15.3 | 0 | libaom's AV1 encoder, real-time only, built from source and linked statically,… |
+| 2026-11-24 19:43:59 | [starfold](https://crates.io/crates/starfold) | 0.3.2 | 0 | Low-latency desktop streaming for the browser: an X11 display, a Mac's screen o… |
+| 2026-11-24 19:44:07 | [catherine-engine](https://crates.io/crates/catherine-engine) | 0.4.1 | 0 | Catherine interned execution core: model types, epistemic labels, dense-id engi… |
+| 2026-11-24 19:46:20 | [rne_usd](https://crates.io/crates/rne_usd) | 0.4.0 | 0 | Minimal ASCII Universal Scene Description (.usda) import for Robot Native Engine |
+| 2026-11-24 19:46:20 | [rne_world](https://crates.io/crates/rne_world) | 0.4.0 | 0 | World entity, scene index, and frame graph for Robot Native Engine |
+| 2026-11-24 19:49:59 | [sealwax-convert](https://crates.io/crates/sealwax-convert) | 0.9.1 | 0 | Other formats converted to PDF: laid out by an engine of their own, written by… |
+| 2026-11-24 19:51:39 | [paperpaw-plugin-picture-frame](https://crates.io/crates/paperpaw-plugin-picture-frame) | 1.0.2 | 0 | PaperPaw Picture frame: your own photos as sleep screen, slideshow and photo of… |
+| 2026-11-24 19:52:09 | [reasm](https://crates.io/crates/reasm) | 0.1.0 | 0 | A fast, configurable formatter for assembly language (NASM) |
+| 2026-11-24 19:53:08 | [rom2dmd](https://crates.io/crates/rom2dmd) | 0.1.0 | 0 | Extract the display animations of a pinball ROM set (WPC, Data East, Whitestar,… |
+| 2026-11-24 19:54:11 | [datastreamdb-chunker](https://crates.io/crates/datastreamdb-chunker) | 0.1.0 | 0 | Bulk ingest: RDF N-Quads and JSON chunkers. |
+| 2026-11-24 19:55:42 | [heromail](https://crates.io/crates/heromail) | 1.0.0 | 0 | HeroMail IMAP email client, MCP server, and CLI — read, search, delete, unsubsc… |
+| 2026-11-24 19:57:11 | [calpop](https://crates.io/crates/calpop) | 0.1.0 | 0 | A calendar popup for Wayland bars (Waybar…), anchored with layer-shell |
+| 2026-11-24 19:58:49 | [rne_physics](https://crates.io/crates/rne_physics) | 0.4.0 | 0 | Physics backend traits and components for Robot Native Engine |
+| 2026-11-24 20:01:58 | [paperpaw-plugin-pomodoro](https://crates.io/crates/paperpaw-plugin-pomodoro) | 1.0.0 | 0 | PaperPaw Pomodoro: a focus timer with work and break rounds, home screen widget… |
+| 2026-11-24 20:04:47 | [datastreamdb-schema](https://crates.io/crates/datastreamdb-schema) | 0.1.0 | 0 | Schema model, parser, and live schema state. |
+| 2026-11-24 20:07:55 | [seqa_obos](https://crates.io/crates/seqa_obos) | 0.1.0 | 0 | Load an OBO ontology from S3, Azure, GCS, HTTP(S) or local disk, keep it in mem… |
+| 2026-11-24 20:08:52 | [egui-workbench-remote](https://crates.io/crates/egui-workbench-remote) | 0.13.0 | 0 | Remote UI server for egui-workbench: the 0.11 protocol over WebSocket, localhos… |
+| 2026-11-24 20:10:06 | [hakari-core](https://crates.io/crates/hakari-core) | 0.0.1 | 0 | Reserved name for the Hakari endpoint scanner. Placeholder, no functionality ye… |
+| 2026-11-24 20:10:18 | [hakari-cli](https://crates.io/crates/hakari-cli) | 0.0.1 | 0 | Reserved name for the Hakari endpoint scanner. Placeholder, no functionality ye… |
+| 2026-11-24 20:11:16 | [rne_collision_bake](https://crates.io/crates/rne_collision_bake) | 0.4.0 | 0 | Offline deterministic approximate convex decomposition of triangle meshes for R… |
+| 2026-11-24 20:12:20 | [paperpaw-plugin-puzzles](https://crates.io/crates/paperpaw-plugin-puzzles) | 1.0.0 | 0 | PaperPaw Puzzles: sudoku, crosswords and chess puzzles, offline, with a puzzle… |
+| 2026-11-24 20:12:35 | [quintrit-core](https://crates.io/crates/quintrit-core) | 0.2.0 | 0 | High-performance 1.60 bpw ternary quantization microkernel using velurex encodi… |
+| 2026-11-24 20:12:38 | [quintrit-format](https://crates.io/crates/quintrit-format) | 0.2.0 | 0 | GGUF model reader and dynamic in-memory transcoder into 1.60 bpw Velurex format |
+| 2026-11-24 20:12:40 | [quintrit-bitnet](https://crates.io/crates/quintrit-bitnet) | 0.2.0 | 0 | Faithful Rust transcription of Microsoft BitNet's 4-trit kernels (2.00 bpw), th… |
+| 2026-11-24 20:12:42 | [quintrit-cuda](https://crates.io/crates/quintrit-cuda) | 0.2.0 | 0 | Optional NVIDIA GPU backend of Quintrit: CUDA kernels for velurex-encoded terna… |
+| 2026-11-24 20:12:47 | [quintrit-runtime](https://crates.io/crates/quintrit-runtime) | 0.2.0 | 0 | High-performance transformer inference engine and CLI for 1.60 bpw Velurex quan… |
+| 2026-11-24 20:14:37 | [rpaste](https://crates.io/crates/rpaste) | 1.0.0 | 0 | Small PrivateBin-compatible encrypted paste CLI |
+| 2026-11-24 20:15:39 | [kenota](https://crates.io/crates/kenota) | 0.1.0 | 0 | Text-mode presentation engine: HTML slides drawn like the 1988 MS Works DOS tut… |
+| 2026-11-24 20:15:59 | [datastreamdb-posting](https://crates.io/crates/datastreamdb-posting) | 0.1.0 | 0 | Posting lists: MVCC lists over the storage backend. |
 
 ## Data source
 

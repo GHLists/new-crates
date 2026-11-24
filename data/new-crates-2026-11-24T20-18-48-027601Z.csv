@@ -1,0 +1,48 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-24T19:20:35.62984Z,rs-json,0.1.0,0,0,https://github.com/codixor/rs-json,Zero-copy JSON parser with Serde helpers and JSON-LD builders
+2026-11-24T19:21:03.61989Z,oqi-cli,0.1.0,0,0,https://github.com/jpopesculian/oqi,"The oqi command-line tool: compile, run, sample and format OpenQASM 3 programs"
+2026-11-24T19:22:00.899788Z,easl,0.1.0,0,0,https://github.com/Ella-Hoeppner/easl,"A high-level shader language that compiles to WGSL, with an optional CPU runtime."
+2026-11-24T19:22:06.227204Z,datastreamdb-types,0.1.0,0,0,,"Scalar type system: parse, compare, convert, geo scaffolding."
+2026-11-24T19:22:14.251462Z,paperpaw-plugin-format-markdown,1.0.5,0,0,https://github.com/hthoene/paperpaw,PaperPaw Markdown files: the interface-7 plugin over the shared conversion of paperpaw-epub-family
+2026-11-24T19:22:40.839827Z,rne_sumo,0.4.0,0,0,https://github.com/rsasaki0109/RobotNativeEngine,Minimal SUMO .net.xml road-network import for Robot Native Engine
+2026-11-24T19:22:52.801558Z,fm1-assets,0.2.0-rc.0,0,0,https://github.com/fm1-rust/fm1-rust,Read-only flash assets and lossless PCM playback for the M-VAVE FM-1
+2026-11-24T19:32:28.871066Z,paperpaw-plugin-format-rtf,1.0.1,0,0,https://github.com/hthoene/paperpaw,"PaperPaw RTF documents: .rtf text, headings, lists, tables and pictures"
+2026-11-24T19:32:42.05208Z,datastreamdb-tok,0.1.0,0,0,,Tokenizers for scalar and full-text indexing.
+2026-11-24T19:33:44.036675Z,horned-pest,0.1.0,0,0,https://github.com/phillord/horned-owl,"The original pest-based OFN, Manchester and OBO readers for horned-owl; deprecated in favour of the nom readers in horned-owl"
+2026-11-24T19:34:32.43008Z,rne_traci,0.4.0,0,0,https://github.com/rsasaki0109/RobotNativeEngine,Minimal TraCI client for live SUMO co-simulation
+2026-11-24T19:39:41.030844Z,vortex-functions,0.94.0,0,0,https://github.com/vortex-data/vortex,Vortex scalar functions beyond those the core array crate relies on
+2026-11-24T19:39:50.176118Z,easl_cli,0.1.0,0,0,https://github.com/Ella-Hoeppner/easl_cli,CLI for the easl compiler toolchain
+2026-11-24T19:40:55.996241Z,ursa-viz,0.12.0,0,0,https://github.com/cldixon/ursa,"Ursa's graph view: a live ForceAtlas2 layout drawn with wgpu (WebGPU, WebGL2, or native), for the SQL shell and the DataFrame API alike."
+2026-11-24T19:41:31.07164Z,smale-counterexample-deg7299,1.0.0,0,0,,"Machine-certified degree-7,299 counterexample to Smale's Mean Value Conjecture (4.11x lower degree than the Oct 2026 record)"
+2026-11-24T19:41:47.980752Z,paperpaw-plugin-launcher-simple,1.0.1,0,0,https://github.com/hthoene/paperpaw,"PaperPaw Simple home: a large clock, cards, a dock and a quick panel of round switches, for those who need only the core"
+2026-11-24T19:43:10.773172Z,datastreamdb-x,0.1.0,0,0,,"Shared commons: errors, config, metrics, logging helpers."
+2026-11-24T19:43:22.367852Z,opcua-kit,0.0.1,0,0,https://github.com/hupe1980/opcua-kit,"OPC UA utilities for Rust, starting with StatusCode severity classification"
+2026-11-24T19:43:56.996361Z,starfold-aom-sys,0.1.0+libaom.3.15.3,0,0,https://github.com/kyora-sh/starfold,"libaom's AV1 encoder, real-time only, built from source and linked statically, for starfold"
+2026-11-24T19:43:59.500153Z,starfold,0.3.2,0,0,https://github.com/kyora-sh/starfold,"Low-latency desktop streaming for the browser: an X11 display, a Mac's screen or a Windows desktop as AV1 or H.264 over a WebSocket"
+2026-11-24T19:44:07.455715Z,catherine-engine,0.4.1,0,0,,"Catherine interned execution core: model types, epistemic labels, dense-id engine"
+2026-11-24T19:46:20.563995Z,rne_usd,0.4.0,0,0,https://github.com/rsasaki0109/RobotNativeEngine,Minimal ASCII Universal Scene Description (.usda) import for Robot Native Engine
+2026-11-24T19:46:20.949124Z,rne_world,0.4.0,0,0,https://github.com/rsasaki0109/RobotNativeEngine,"World entity, scene index, and frame graph for Robot Native Engine"
+2026-11-24T19:49:59.182596Z,sealwax-convert,0.9.1,0,0,https://github.com/sealwax/sealwax,"Other formats converted to PDF: laid out by an engine of their own, written by sealwax-compose."
+2026-11-24T19:51:39.849773Z,paperpaw-plugin-picture-frame,1.0.2,0,0,https://github.com/hthoene/paperpaw,"PaperPaw Picture frame: your own photos as sleep screen, slideshow and photo of the day, from the card or a WebDAV server"
+2026-11-24T19:52:09.043532Z,reasm,0.1.0,0,0,https://github.com/Danpythonman/reasm,"A fast, configurable formatter for assembly language (NASM)"
+2026-11-24T19:53:08.421985Z,rom2dmd,0.1.0,0,0,https://github.com/Le-Syl21/rom2dmd,"Extract the display animations of a pinball ROM set (WPC, Data East, Whitestar, Sega, Gottlieb System 3, Alvin G., Capcom, Stern SAM) by emulating its display board"
+2026-11-24T19:54:11.314361Z,datastreamdb-chunker,0.1.0,0,0,,Bulk ingest: RDF N-Quads and JSON chunkers.
+2026-11-24T19:55:42.185576Z,heromail,1.0.0,0,0,https://github.com/weekendsuperhero-io/heromail,"HeroMail IMAP email client, MCP server, and CLI — read, search, delete, unsubscribe, and manage mailboxes"
+2026-11-24T19:57:11.261289Z,calpop,0.1.0,0,0,https://github.com/Mirilindo/calpop,"A calendar popup for Wayland bars (Waybar…), anchored with layer-shell"
+2026-11-24T19:58:49.093832Z,rne_physics,0.4.0,0,0,https://github.com/rsasaki0109/RobotNativeEngine,Physics backend traits and components for Robot Native Engine
+2026-11-24T20:01:58.171143Z,paperpaw-plugin-pomodoro,1.0.0,0,0,https://github.com/hthoene/paperpaw,"PaperPaw Pomodoro: a focus timer with work and break rounds, home screen widgets and a daily count"
+2026-11-24T20:04:47.493208Z,datastreamdb-schema,0.1.0,0,0,,"Schema model, parser, and live schema state."
+2026-11-24T20:07:55.621107Z,seqa_obos,0.1.0,0,0,https://github.com/docwarren/seqa-rs,"Load an OBO ontology from S3, Azure, GCS, HTTP(S) or local disk, keep it in memory, and search its terms"
+2026-11-24T20:08:52.446076Z,egui-workbench-remote,0.13.0,0,0,https://github.com/jigonzalez930209/egui-workbench,"Remote UI server for egui-workbench: the 0.11 protocol over WebSocket, localhost by default."
+2026-11-24T20:10:06.96842Z,hakari-core,0.0.1,0,0,,"Reserved name for the Hakari endpoint scanner. Placeholder, no functionality yet."
+2026-11-24T20:10:18.466812Z,hakari-cli,0.0.1,0,0,,"Reserved name for the Hakari endpoint scanner. Placeholder, no functionality yet."
+2026-11-24T20:11:16.486501Z,rne_collision_bake,0.4.0,0,0,https://github.com/rsasaki0109/RobotNativeEngine,Offline deterministic approximate convex decomposition of triangle meshes for RNE colliders
+2026-11-24T20:12:20.145438Z,paperpaw-plugin-puzzles,1.0.0,0,0,https://github.com/hthoene/paperpaw,"PaperPaw Puzzles: sudoku, crosswords and chess puzzles, offline, with a puzzle of the day for the home screen"
+2026-11-24T20:12:35.031479Z,quintrit-core,0.2.0,0,0,https://github.com/velurex-labs/quintrit,High-performance 1.60 bpw ternary quantization microkernel using velurex encoding and SIMD GEMV
+2026-11-24T20:12:38.145583Z,quintrit-format,0.2.0,0,0,https://github.com/velurex-labs/quintrit,GGUF model reader and dynamic in-memory transcoder into 1.60 bpw Velurex format
+2026-11-24T20:12:40.053951Z,quintrit-bitnet,0.2.0,0,0,https://github.com/velurex-labs/quintrit,"Faithful Rust transcription of Microsoft BitNet's 4-trit kernels (2.00 bpw), the comparison baseline for the quintrit kernels"
+2026-11-24T20:12:42.253801Z,quintrit-cuda,0.2.0,0,0,https://github.com/velurex-labs/quintrit,"Optional NVIDIA GPU backend of Quintrit: CUDA kernels for velurex-encoded ternary matrices, loaded through the CUDA driver at run time"
+2026-11-24T20:12:47.369268Z,quintrit-runtime,0.2.0,0,0,https://github.com/velurex-labs/quintrit,High-performance transformer inference engine and CLI for 1.60 bpw Velurex quantized models
+2026-11-24T20:14:37.197874Z,rpaste,1.0.0,0,0,https://git.sr.ht/~anhkhoakz/cpaste-rs,Small PrivateBin-compatible encrypted paste CLI
+2026-11-24T20:15:39.264206Z,kenota,0.1.0,0,0,https://github.com/alejandroqh/kenota,Text-mode presentation engine: HTML slides drawn like the 1988 MS Works DOS tutorials
+2026-11-24T20:15:59.846127Z,datastreamdb-posting,0.1.0,0,0,,Posting lists: MVCC lists over the storage backend.
