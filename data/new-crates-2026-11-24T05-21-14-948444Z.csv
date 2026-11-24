@@ -1,0 +1,41 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-24T04:21:20.243623Z,chatfile,0.1.0,0,0,https://github.com/shaneoc/chatfile,"Manage LLM conversations as plain Markdown files, with a terminal UI and sandboxed tools for local and OpenAI-compatible LLMs"
+2026-11-24T04:26:09.314027Z,tauri-plugin-updater-plus,0.2.0,0,0,https://github.com/0x8000/tauri-plugin-updater-plus,Electron-style blockmap differential updater plugin and CLI for Tauri v3 applications
+2026-11-24T04:26:23.021383Z,libkdt,0.1.0,0,0,https://github.com/JidouGhost-TL/libkdt-rs,Standalone pure-Rust Konami PlayStation KDT/KDT1/MDT1 sequencer built on libspu2
+2026-11-24T04:33:39.928059Z,webm-muxer,0.1.0,0,0,https://github.com/AlakazamLabs/webm,"A WebM writer (muxer) in pure, safe Rust: VP8, VP9, AV1, Opus and Vorbis tracks, live streaming or seekable files with Cues."
+2026-11-24T04:34:33.439926Z,reqwest-resumable,0.1.0,0,0,https://github.com/nyssance/reqwest-resumable,"Resumable downloads to a file with reqwest: continues across stalls, failures and restarts, and never splices a changed file"
+2026-11-24T04:36:03.414198Z,dome_gpu,0.1.1,0,0,https://github.com/formetaohy/DomeDev,"The wgpu device, the resources bound to it, the pipelines it runs and the submissions it records"
+2026-11-24T04:36:13.87409Z,dome_image,0.1.1,0,0,https://github.com/formetaohy/DomeDev,"Portable network graphics, JPEG pictures and Radiance images decoded, encoded and mip chained"
+2026-11-24T04:36:19.630275Z,dome_math,0.1.1,0,0,https://github.com/formetaohy/DomeDev,"Vectors, matrices, quaternions and affine transforms"
+2026-11-24T04:36:21.232704Z,libea-audio,0.1.0,0,0,https://github.com/JidouGhost-TL/libea-audio-rs,Standalone pure-Rust EA SCHl/ASF/EA-XA audio codec and stream decoder
+2026-11-24T04:36:29.473315Z,dome_ecs,0.1.1,0,0,https://github.com/formetaohy/DomeDev,"Entities, component columns, systems and the parent hierarchy they transform through"
+2026-11-24T04:36:38.339026Z,dome_animation,0.1.1,0,0,https://github.com/formetaohy/DomeDev,"Transform clips, their sampling and the entities they animate"
+2026-11-24T04:40:37.097248Z,kawal,0.1.0,0,0,https://github.com/Yasvara/kawal,"Fast zero-dependency Rust CLI for Android/Linux kernel merge verification, ELF64/DTB/KABI auditing, crash forensics, and live runtime leak hunting"
+2026-11-24T04:42:17.503974Z,dome_audio,0.1.1,0,0,https://github.com/formetaohy/DomeDev,"Decoded sounds mixed through a bus graph, spatialized and played through the native audio device"
+2026-11-24T04:46:21.673292Z,libcri-audio,0.1.0,0,0,https://github.com/JidouGhost-TL/libcri-audio-rs,Standalone pure-Rust CRI Middleware ADX and HCA cross-console audio codec
+2026-11-24T04:49:26.451001Z,adbc_oracle,0.8.0-beta.1,0,0,https://github.com/adbc-drivers/oracle,An ADBC driver for Oracle Database
+2026-11-24T04:51:15.184638Z,doko-rs,0.1.1,0,0,https://github.com/wheregmis/doko,A batteries-included framework for Cloudflare Workers
+2026-11-24T04:51:23.151735Z,doko-cli,0.1.1,0,0,https://github.com/wheregmis/doko,CLI for the doko framework
+2026-11-24T04:52:09.32805Z,dome_gltf,0.1.1,0,0,https://github.com/formetaohy/DomeDev,Three dimensional models read from the glTF interchange format
+2026-11-24T04:52:46.850793Z,shortroom,0.1.0,0,0,https://github.com/peakoshi/shortroom,Short-code P2P QUIC rooms over iroh with authenticated star routing and version-gated admission
+2026-11-24T04:54:26.231155Z,dfcheck,0.1.0,0,0,https://github.com/PrinceAdvant/dfcheck,"A small, dependency free Dockerfile checker for production habits: pinned base images, non-root USER, lean apt and apk installs, exec form CMD and no secrets in ENV."
+2026-11-24T04:56:23.915728Z,atalanta-common,0.2.0,0,0,https://github.com/atalantahq/atalanta,"Shared types, traits, and error types for the Atalanta test framework"
+2026-11-24T04:56:25.828305Z,atalanta-android,0.2.0,0,0,https://github.com/atalantahq/atalanta,Android driver for Atalanta: ADB shell commands + uiautomator a11y tree parsing
+2026-11-24T04:56:26.390597Z,atalanta-api,0.2.0,0,0,https://github.com/atalantahq/atalanta,"API testing for Atalanta: runs `http` steps (request, JSONPath checks, captures for later steps) inside UI tests or in suites that need no device"
+2026-11-24T04:56:26.678843Z,atalanta-flutter-bridge,0.2.0,0,0,https://github.com/atalantahq/atalanta,Flutter bridge for Atalanta — headless rendering via flutter test with WidgetTester
+2026-11-24T04:56:26.907892Z,atalanta-ios,0.2.0,0,0,https://github.com/atalantahq/atalanta,iOS driver for Atalanta: WDA HTTP client + xcrun simctl wrapper
+2026-11-24T04:56:44.903814Z,cosmigo-sonix,0.1.0,0,0,https://github.com/jidoughost-tl/sonix-rs,"Pure Rust, zero-dependency parser, software synthesizer, and byte-exact golden-tested emulator for the Cosmigo Sonix Sound System GBA audio engine"
+2026-11-24T04:58:40.324153Z,mscz,0.1.0,0,0,https://github.com/mscz-rs/mscz-rs,"Pure-Rust MusicXML 3.1, MuseScore 4 (.mscx/.mscz), and bekern+ sheet music serialization, decoding, and validation library and CLI"
+2026-11-24T04:59:52.00575Z,atalanta-core,0.2.0,0,0,https://github.com/atalantahq/atalanta,"Core engine for Atalanta: YAML parser, validator, sync engine, executor"
+2026-11-24T05:00:28.973813Z,mowa-canon,0.5.0,0,0,https://github.com/mowaos/mowa-kernel,"Deterministic value model, canonical JSON (RFC 8785) and SHA-256 helpers"
+2026-11-24T05:01:02.614673Z,mowa-flow,0.5.0,0,0,https://github.com/mowaos/mowa-kernel,"Flow definition AST, guard language and activation-time validator"
+2026-11-24T05:01:36.26012Z,mowa-core,0.5.0,0,0,https://github.com/mowaos/mowa-kernel,"Pure, deterministic FSM transition reducers (start & advance)"
+2026-11-24T05:02:17.448176Z,mowa-wasm,0.5.0,0,0,https://github.com/mowaos/mowa-kernel,WASM FFI boundary and in-memory flow cache for host runtimes
+2026-11-24T05:02:22.120901Z,dome_physics,0.1.1,0,0,https://github.com/formetaohy/DomeDev,"Rigid bodies, their convex colliders and the solver a world steps through"
+2026-11-24T05:02:49.567589Z,mowa-kernel,0.5.0,0,0,https://github.com/mowaos/mowa-kernel,"MO·WA deterministic decision kernel: one dependency for canonical hashing, flows and the start/advance reducers"
+2026-11-24T05:04:27.051442Z,unclutter,0.1.0,0,0,https://github.com/terror/unclutter,A Rust port of Mozilla's Readability
+2026-11-24T05:09:52.307697Z,atalanta-headless,0.2.0,0,0,https://github.com/atalantahq/atalanta,Headless rendering engine for Atalanta — CPU-only layout and pixel rendering for Android XML and iOS XIB
+2026-11-24T05:11:07.788801Z,doc-photo-degrade-gpu,0.1.0,0,0,https://github.com/gregoreesmaa/doc-photo-degrade,WGPU compute backend for doc-photo-degrade dense stages (resident single-submit chain + fused rotate/downscale affine).
+2026-11-24T05:11:22.844481Z,doc-photo-degrade,0.1.0,0,0,https://github.com/gregoreesmaa/doc-photo-degrade,"Realistic, deterministic document-to-phone-photo degradation pipeline (paper aging, ink wear, page curl, perspective, margin-safe framing, defocus, lighting, noise, JPEG) with optional WGPU accelerat…"
+2026-11-24T05:12:09.699264Z,dome_render,0.1.1,0,0,https://github.com/formetaohy/DomeDev,"The GPU-driven renderer a world of meshes and cameras renders through, and the environment light it reflects"
+2026-11-24T05:19:52.806857Z,atalanta-inspector,0.2.0,0,0,https://github.com/atalantahq/atalanta,Visual inspector Web UI for Atalanta mobile testing framework
