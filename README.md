@@ -8,27 +8,47 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-24 09:20 UTC
+## Latest list — 2026-11-24 10:18 UTC
 
-New crates published between 2026-11-24 08:18 UTC and 2026-11-24 09:20 UTC.
+New crates published between 2026-11-24 09:20 UTC and 2026-11-24 10:18 UTC.
 
-[Full CSV](data/new-crates-2026-11-24T09-20-39-46791Z.csv)
+[Full CSV](data/new-crates-2026-11-24T10-18-57-16118Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-24 08:24:05 | [mesh-foundation-mailbox](https://crates.io/crates/mesh-foundation-mailbox) | 0.1.0-alpha.1 | 0 | Opaque recipient-pair envelopes for Mesh Talk relay compatibility |
-| 2026-11-24 08:33:38 | [ng-native-engine](https://crates.io/crates/ng-native-engine) | 0.4.1 | 0 | High-performance Native Desktop Rendering Engine for Angular 22+ (GTK4/Libadwai… |
-| 2026-11-24 08:41:51 | [ringbuf-nostd](https://crates.io/crates/ringbuf-nostd) | 0.1.0 | 0 | A no-std ring buffer implementation. |
-| 2026-11-24 08:45:54 | [whisker-map](https://crates.io/crates/whisker-map) | 0.1.0 | 0 | A vector map engine for Whisker that draws MapLibre styles with wgpu. |
-| 2026-11-24 08:45:54 | [whisker-scene](https://crates.io/crates/whisker-scene) | 0.1.0 | 0 | A 3D scene graph for Whisker, written as components and drawn with wgpu. |
-| 2026-11-24 08:52:12 | [serde_repr_lite](https://crates.io/crates/serde_repr_lite) | 0.1.0 | 0 | lightweight replacement of `serde_repr` crate |
-| 2026-11-24 08:56:28 | [praemunio-sdk](https://crates.io/crates/praemunio-sdk) | 1.0.0 | 0 | Rust client for the Praemunio public API |
-| 2026-11-24 09:02:06 | [captchafox](https://crates.io/crates/captchafox) | 1.0.0 | 0 | Verifies tokens of the CaptchaFox widget with siteverify. |
-| 2026-11-24 09:05:56 | [yggio-doris](https://crates.io/crates/yggio-doris) | 0.0.18 | 0 | Apache Doris 4.1 for yggio: the doris:// and doris+mysql:// doors over yggio-my… |
-| 2026-11-24 09:05:58 | [yggio-flight](https://crates.io/crates/yggio-flight) | 0.0.18 | 0 | The flightsql:// scheme for yggio: the claim of the core's Arrow Flight SQL eng… |
-| 2026-11-24 09:06:12 | [twilight-cas](https://crates.io/crates/twilight-cas) | 0.1.0 | 0 | Cross-platform Content-Addressable Storage (CAS) and cascading zero-copy link e… |
-| 2026-11-24 09:12:35 | [hazard3-am2302](https://crates.io/crates/hazard3-am2302) | 0.8.0 | 0 | Async no_std driver for the AM2302 (DHT22) sensor, based on Embassy. |
-| 2026-11-24 09:18:15 | [solana-capital-agent](https://crates.io/crates/solana-capital-agent) | 0.1.0 | 0 | Deterministic autonomous capital management and risk execution agent on Solana |
+| 2026-11-24 09:20:50 | [dluth-core](https://crates.io/crates/dluth-core) | 0.0.0 | 0 | Dlúth: a lean, from-scratch LLM inference engine |
+| 2026-11-24 09:20:52 | [dluth-kernels](https://crates.io/crates/dluth-kernels) | 0.0.0 | 0 | Dlúth: a lean, from-scratch LLM inference engine |
+| 2026-11-24 09:20:54 | [dluth-model](https://crates.io/crates/dluth-model) | 0.0.0 | 0 | Dlúth: a lean, from-scratch LLM inference engine |
+| 2026-11-24 09:20:57 | [dluth](https://crates.io/crates/dluth) | 0.0.0 | 0 | Dlúth: a lean, from-scratch LLM inference engine |
+| 2026-11-24 09:21:21 | [Hazard3-bmp280](https://crates.io/crates/Hazard3-bmp280) | 0.3.0 | 0 | Async no_std driver for the BMP280 pressure and temperature sensor, based on Ha… |
+| 2026-11-24 09:24:30 | [sequency-instruments](https://crates.io/crates/sequency-instruments) | 0.1.0 | 0 | Pure-Rust binary instrument file readers for analytical chemistry formats (Shim… |
+| 2026-11-24 09:26:24 | [nekomoji-wgpu](https://crates.io/crates/nekomoji-wgpu) | 0.1.1 | 0 | wgpu rendering adapter for nekomoji (dynamic glyph atlas, instanced quads) |
+| 2026-11-24 09:29:01 | [agentstacks](https://crates.io/crates/agentstacks) | 0.1.0 | 0 | Core library of agentstacks: packs, tool extensions, plans, and the executor th… |
+| 2026-11-24 09:29:25 | [agentstacks-cli](https://crates.io/crates/agentstacks-cli) | 0.1.0 | 0 | Sets up agentic coding tools from one tool-neutral copy of skills, agents, comm… |
+| 2026-11-24 09:32:37 | [fahali-verify-frct](https://crates.io/crates/fahali-verify-frct) | 1.0.0 | 0 | Sub-millisecond offline Ed25519 / RFC 7515 verifier & C-ABI FFI core for Fahali… |
+| 2026-11-24 09:34:07 | [xark-groth16-opencl](https://crates.io/crates/xark-groth16-opencl) | 0.0.0 | 0 | OpenCL device for xark's Groth16 prover. Placeholder: the crate is published wi… |
+| 2026-11-24 09:37:20 | [nacos-common](https://crates.io/crates/nacos-common) | 0.1.0 | 0 | Nacos 服务注册 / 服务发现公共组件 |
+| 2026-11-24 09:41:40 | [herdrify-app](https://crates.io/crates/herdrify-app) | 0.1.0 | 0 | Async client for herdr-app and its layout, theme and keys files. |
+| 2026-11-24 09:47:35 | [hydr-core](https://crates.io/crates/hydr-core) | 0.1.0 | 0 | Grid, model, forcing and shared numerics for the hydr simulation crates |
+| 2026-11-24 09:47:38 | [hydr-soil](https://crates.io/crates/hydr-soil) | 0.1.0 | 0 | Modified Green-Ampt soil infiltration for the hydr simulation crates |
+| 2026-11-24 09:47:41 | [hydr-storage](https://crates.io/crates/hydr-storage) | 0.1.0 | 0 | Level-pool storage for the hydr simulation crates |
+| 2026-11-24 09:47:47 | [hydr-structures](https://crates.io/crates/hydr-structures) | 0.1.0 | 0 | Hydraulic structures for the hydr simulation crates |
+| 2026-11-24 09:47:57 | [hydr-channel](https://crates.io/crates/hydr-channel) | 0.1.0 | 0 | Open-channel reaches for the hydr simulation crates |
+| 2026-11-24 09:50:55 | [scrapd](https://crates.io/crates/scrapd) | 0.0.0 | 0 | Placeholder. |
+| 2026-11-24 09:53:19 | [hydr-drainage](https://crates.io/crates/hydr-drainage) | 0.1.0 | 0 | Safe Rust interface over the pinned EPA SWMM v5.2.4 drainage worker |
+| 2026-11-24 09:56:29 | [rust-webx-h3](https://crates.io/crates/rust-webx-h3) | 2.9.0 | 0 | Optional (preview) HTTP/3 listener transport for rust-webx: QUIC + rustls + h3… |
+| 2026-11-24 09:57:12 | [gldf-rs-editor](https://crates.io/crates/gldf-rs-editor) | 0.5.1 | 0 | Public API surface for the gldf-rs editor. Drives the GldfAction → GldfState re… |
+| 2026-11-24 09:57:16 | [gldf-rs-cli](https://crates.io/crates/gldf-rs-cli) | 0.5.1 | 0 | Command-line frontend for the gldf-rs editor. Reads GldfAction sequences as JSO… |
+| 2026-11-24 09:57:17 | [gldf-rs-tui](https://crates.io/crates/gldf-rs-tui) | 0.5.1 | 0 | Ratatui-based terminal frontend for the gldf-rs editor. Shares the GldfAction →… |
+| 2026-11-24 09:59:39 | [multichain-memo-address-validator](https://crates.io/crates/multichain-memo-address-validator) | 0.1.0 | 0 | Zero-dependency Rust library for 46-chain cryptocurrency address format, checks… |
+| 2026-11-24 09:59:56 | [esp32-cam-rs](https://crates.io/crates/esp32-cam-rs) | 0.1.0 | 0 | Safe Rust wrapper around Espressif's esp32-camera driver for the ESP32-CAM (AI-… |
+| 2026-11-24 10:00:25 | [hydr-runoff](https://crates.io/crates/hydr-runoff) | 0.1.0 | 0 | Runoff generation for the hydr simulation crates |
+| 2026-11-24 10:04:39 | [dbmcp-types](https://crates.io/crates/dbmcp-types) | 0.0.0 | 0 | Shared configuration types for dbmcp |
+| 2026-11-24 10:05:40 | [checkrush](https://crates.io/crates/checkrush) | 0.1.0 | 0 | Vibecoded CLI to run shell commands in parallel, stop on the first failure, and… |
+| 2026-11-24 10:10:38 | [hypercode](https://crates.io/crates/hypercode) | 0.2.0 | 0 | Agentic coding harness built on HyperInfer |
+| 2026-11-24 10:10:59 | [hydr-solver](https://crates.io/crates/hydr-solver) | 0.1.0 | 0 | Shallow-water solver for the hydr simulation crates |
+| 2026-11-24 10:13:20 | [proofofseed-circuits](https://crates.io/crates/proofofseed-circuits) | 0.1.0 | 0 | The six ProofofSeed statements as ZKBoo circuits, with test vectors, shared by… |
+| 2026-11-24 10:13:39 | [proofofseed-host](https://crates.io/crates/proofofseed-host) | 0.1.0 | 0 | Host-side proof-of-seed library: the streaming ZKBoo verifier, the host prover… |
 
 ## Data source
 

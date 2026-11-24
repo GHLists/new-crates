@@ -1,0 +1,34 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-24T09:20:50.055667Z,dluth-core,0.0.0,0,0,https://github.com/defilantech/dluth,"Dlúth: a lean, from-scratch LLM inference engine"
+2026-11-24T09:20:52.256333Z,dluth-kernels,0.0.0,0,0,https://github.com/defilantech/dluth,"Dlúth: a lean, from-scratch LLM inference engine"
+2026-11-24T09:20:54.822977Z,dluth-model,0.0.0,0,0,https://github.com/defilantech/dluth,"Dlúth: a lean, from-scratch LLM inference engine"
+2026-11-24T09:20:57.436097Z,dluth,0.0.0,0,0,https://github.com/defilantech/dluth,"Dlúth: a lean, from-scratch LLM inference engine"
+2026-11-24T09:21:21.656657Z,Hazard3-bmp280,0.3.0,0,0,https://github.com/jorgeandrecastro/Hazard3-bmp280,"Async no_std driver for the BMP280 pressure and temperature sensor, based on Hazard3 project."
+2026-11-24T09:24:30.665205Z,sequency-instruments,0.1.0,0,0,https://github.com/SequencyLabs/instrument-readers,"Pure-Rust binary instrument file readers for analytical chemistry formats (Shimadzu .lcd, Bruker TopSpin NMR, Agilent OpenLab CDS)."
+2026-11-24T09:26:24.948709Z,nekomoji-wgpu,0.1.1,0,0,https://github.com/lovelygenerator/nekomoji,"wgpu rendering adapter for nekomoji (dynamic glyph atlas, instanced quads)"
+2026-11-24T09:29:01.337531Z,agentstacks,0.1.0,0,0,https://github.com/airsstack/agentstacks,"Core library of agentstacks: packs, tool extensions, plans, and the executor that applies them."
+2026-11-24T09:29:25.379607Z,agentstacks-cli,0.1.0,0,0,https://github.com/airsstack/agentstacks,"Sets up agentic coding tools from one tool-neutral copy of skills, agents, commands, hooks and rules."
+2026-11-24T09:32:37.447487Z,fahali-verify-frct,1.0.0,0,0,https://github.com/BobMain-2025/spectra-mobile,Sub-millisecond offline Ed25519 / RFC 7515 verifier & C-ABI FFI core for Fahali Risk Clearance Tokens (FRCT v1).
+2026-11-24T09:34:07.764764Z,xark-groth16-opencl,0.0.0,0,0,https://github.com/blueshift-gg/xark,OpenCL device for xark's Groth16 prover. Placeholder: the crate is published with xark 0.5.
+2026-11-24T09:37:20.73954Z,nacos-common,0.1.0,0,0,,Nacos 服务注册 / 服务发现公共组件
+2026-11-24T09:41:40.981337Z,herdrify-app,0.1.0,0,0,https://github.com/rstlix0x0/herdrify,"Async client for herdr-app and its layout, theme and keys files."
+2026-11-24T09:47:35.260508Z,hydr-core,0.1.0,0,0,https://github.com/ml-rust/hydr,"Grid, model, forcing and shared numerics for the hydr simulation crates"
+2026-11-24T09:47:38.488488Z,hydr-soil,0.1.0,0,0,https://github.com/ml-rust/hydr,Modified Green-Ampt soil infiltration for the hydr simulation crates
+2026-11-24T09:47:41.068787Z,hydr-storage,0.1.0,0,0,https://github.com/ml-rust/hydr,Level-pool storage for the hydr simulation crates
+2026-11-24T09:47:47.51393Z,hydr-structures,0.1.0,0,0,https://github.com/ml-rust/hydr,Hydraulic structures for the hydr simulation crates
+2026-11-24T09:47:57.044698Z,hydr-channel,0.1.0,0,0,https://github.com/ml-rust/hydr,Open-channel reaches for the hydr simulation crates
+2026-11-24T09:50:55.276399Z,scrapd,0.0.0,0,0,,Placeholder.
+2026-11-24T09:53:19.853445Z,hydr-drainage,0.1.0,0,0,https://github.com/ml-rust/hydr,Safe Rust interface over the pinned EPA SWMM v5.2.4 drainage worker
+2026-11-24T09:56:29.054101Z,rust-webx-h3,2.9.0,0,0,https://github.com/Rust-Framework/rust-webx,"Optional (preview) HTTP/3 listener transport for rust-webx: QUIC + rustls + h3 serving the engine's neutral request port, with WebSocket and WebTransport support"
+2026-11-24T09:57:12.215001Z,gldf-rs-editor,0.5.1,0,0,https://github.com/holg/gldf-rs,"Public API surface for the gldf-rs editor. Drives the GldfAction → GldfState reducer that powers the WASM, ratatui, CLI, and Python frontends."
+2026-11-24T09:57:16.276165Z,gldf-rs-cli,0.5.1,0,0,https://github.com/holg/gldf-rs,Command-line frontend for the gldf-rs editor. Reads GldfAction sequences as JSON and applies them via the shared reducer in gldf-rs-editor.
+2026-11-24T09:57:17.017116Z,gldf-rs-tui,0.5.1,0,0,https://github.com/holg/gldf-rs,Ratatui-based terminal frontend for the gldf-rs editor. Shares the GldfAction → GldfState reducer with every other frontend via gldf-rs-editor.
+2026-11-24T09:59:39.093027Z,multichain-memo-address-validator,0.1.0,0,0,https://github.com/mh185/multichain-memo-address-validator-rs,"Zero-dependency Rust library for 46-chain cryptocurrency address format, checksum, and destination memo validation."
+2026-11-24T09:59:56.279796Z,esp32-cam-rs,0.1.0,0,0,https://github.com/jorgeandrecastro/esp32-cam-rs,"Safe Rust wrapper around Espressif's esp32-camera driver for the ESP32-CAM (AI-Thinker, OV2640) on top of esp-idf-svc."
+2026-11-24T10:00:25.741485Z,hydr-runoff,0.1.0,0,0,https://github.com/ml-rust/hydr,Runoff generation for the hydr simulation crates
+2026-11-24T10:04:39.187182Z,dbmcp-types,0.0.0,0,0,https://github.com/haymon-ai/dbmcp,Shared configuration types for dbmcp
+2026-11-24T10:05:40.967315Z,checkrush,0.1.0,0,0,https://github.com/nielsbom/checkrush,"Vibecoded CLI to run shell commands in parallel, stop on the first failure, and report results."
+2026-11-24T10:10:38.21198Z,hypercode,0.2.0,0,0,https://github.com/AndroZa0812/HyperInfer,Agentic coding harness built on HyperInfer
+2026-11-24T10:10:59.741613Z,hydr-solver,0.1.0,0,0,https://github.com/ml-rust/hydr,Shallow-water solver for the hydr simulation crates
+2026-11-24T10:13:20.258696Z,proofofseed-circuits,0.1.0,0,0,https://github.com/ProofofSeed/proofofseed-core,"The six ProofofSeed statements as ZKBoo circuits, with test vectors, shared by the on-device prover and the host verifier so they agree on each circuit."
+2026-11-24T10:13:39.669536Z,proofofseed-host,0.1.0,0,0,https://github.com/ProofofSeed/proofofseed-core,"Host-side proof-of-seed library: the streaming ZKBoo verifier, the host prover (full and ranged), and executor-based derivation over the shared statement circuits."
