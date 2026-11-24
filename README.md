@@ -8,76 +8,66 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-24 15:20 UTC
+## Latest list — 2026-11-24 16:20 UTC
 
-New crates published between 2026-11-24 14:18 UTC and 2026-11-24 15:20 UTC.
+New crates published between 2026-11-24 15:20 UTC and 2026-11-24 16:20 UTC.
 
-[Full CSV](data/new-crates-2026-11-24T15-20-10-190393Z.csv)
+[Full CSV](data/new-crates-2026-11-24T16-20-39-56134Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-24 14:19:02 | [kute-types](https://crates.io/crates/kute-types) | 0.2.0 | 0 | Shared data model for KUTE: identifiers, canonical inputs, token sequences and… |
-| 2026-11-24 14:19:08 | [kute-core](https://crates.io/crates/kute-core) | 0.2.0 | 0 | KUTE core interfaces: Tokenizer, ModalityAdapter, CorpusSource, RepresentationB… |
-| 2026-11-24 14:19:12 | [kute-adapters](https://crates.io/crates/kute-adapters) | 0.2.0 | 0 | KUTE modality adapters: text, binary, JSON, JSONL and JSONL event streams |
-| 2026-11-24 14:19:17 | [kute-algorithms](https://crates.io/crates/kute-algorithms) | 0.2.0 | 0 | Baseline KUTE tokenization algorithms: raw bytes, characters and fixed dictiona… |
-| 2026-11-24 14:19:23 | [kute-bpe](https://crates.io/crates/kute-bpe) | 0.2.0 | 0 | Byte Pair Encoding for KUTE: native byte-level BPE and BPE over symbol sequences |
-| 2026-11-24 14:24:28 | [nsh-maven](https://crates.io/crates/nsh-maven) | 0.1.0 | 0 | Resolve Android libraries from Maven repositories and vendor them into Native S… |
-| 2026-11-24 14:24:36 | [rtci-sdp](https://crates.io/crates/rtci-sdp) | 0.1.0 | 0 | SDP parsing and serialization (RFC 8866) with the attributes WebRTC negotiation… |
-| 2026-11-24 14:25:56 | [super-router-provider-gemini](https://crates.io/crates/super-router-provider-gemini) | 0.3.0 | 0 | Google Gemini generateContent API adapter (Gemini API and Vertex AI). |
-| 2026-11-24 14:27:10 | [beau](https://crates.io/crates/beau) | 0.4.0 | 0 | Design tokens, typography, motion and components that make egui apps look polis… |
-| 2026-11-24 14:29:26 | [termcpy](https://crates.io/crates/termcpy) | 0.1.1 | 0 | Mirror and control Android devices in your terminal |
-| 2026-11-24 14:30:02 | [kute-hrm](https://crates.io/crates/kute-hrm) | 0.2.0 | 0 | Experimental HRM representation adapter for KUTE: token ids to complex-valued v… |
-| 2026-11-24 14:30:55 | [merry-cli](https://crates.io/crates/merry-cli) | 0.1.0 | 0 | A lightweight terminal coding agent (CLI & interactive TUI) powered by a unifie… |
-| 2026-11-24 14:31:27 | [remit-sql](https://crates.io/crates/remit-sql) | 0.1.0 | 0 | Remit SQL: a strict, deterministic dialect profile over sqlparser-rs |
-| 2026-11-24 14:31:27 | [remit-types](https://crates.io/crates/remit-types) | 0.1.0 | 0 | Remit Types (RT): bounded result types, capacity in bits, validator and trusted… |
-| 2026-11-24 14:31:28 | [remit-wire](https://crates.io/crates/remit-wire) | 0.1.0 | 0 | Remit wire format: manifest, JCS (RFC 8785) canonicalization, DSSE envelopes, i… |
-| 2026-11-24 14:31:30 | [remit-read](https://crates.io/crates/remit-read) | 0.1.0 | 0 | Remit read plane: DataFusion integration, policy views, k-thresholds, limits, s… |
-| 2026-11-24 14:31:31 | [remit-receipt](https://crates.io/crates/remit-receipt) | 0.1.0 | 0 | Remit receipts: DSSE-signed run records, label meet, hash-chained append-only l… |
-| 2026-11-24 14:34:51 | [rtci-srtp](https://crates.io/crates/rtci-srtp) | 0.1.0 | 0 | Sans-I/O SRTP and SRTCP (RFC 3711, RFC 7714 AES-GCM, RFC 9335 Cryptex) for WebR… |
-| 2026-11-24 14:35:53 | [nsh-text-to-speech](https://crates.io/crates/nsh-text-to-speech) | 0.1.0 | 0 | Read text aloud: speech synthesis for Native Shell apps, from AVSpeechSynthesiz… |
-| 2026-11-24 14:37:37 | [remit-analyze](https://crates.io/crates/remit-analyze) | 0.1.0 | 0 | Remit analyzer: derives policy facts (columns, ops, aggregate-only, k, bits, co… |
-| 2026-11-24 14:39:18 | [robot-bus-msgs](https://crates.io/crates/robot-bus-msgs) | 3.0.0 | 0 | Protobuf messages and service/action type markers for robot-bus |
-| 2026-11-24 14:40:40 | [kute-vocab](https://crates.io/crates/kute-vocab) | 0.2.0 | 0 | KUTE Vocabulary Format (KVF) reading, writing, validation, comparison and tikto… |
-| 2026-11-24 14:45:02 | [rtci-stun](https://crates.io/crates/rtci-stun) | 0.1.0 | 0 | STUN messages, attributes and a sans-I/O client (RFC 8489), for WebRTC |
-| 2026-11-24 14:46:03 | [lamina-units](https://crates.io/crates/lamina-units) | 0.1.1 | 0 | Typed physical quantities, units and spectral coordinate maps for planar optics |
-| 2026-11-24 14:46:11 | [clckwrd](https://crates.io/crates/clckwrd) | 0.3.0 | 0 | Print time in words. |
-| 2026-11-24 14:47:37 | [remit-emit](https://crates.io/crates/remit-emit) | 0.1.0 | 0 | Remit emit plane: result validation, trusted transforms (quantize, clamp, DP no… |
-| 2026-11-24 14:49:08 | [nsh-form](https://crates.io/crates/nsh-form) | 0.1.0 | 0 | Typed forms for Native Shell Rust apps, on the GPUI-free state helpers of gpui-… |
-| 2026-11-24 14:51:22 | [kute-engine](https://crates.io/crates/kute-engine) | 0.2.0 | 0 | Kannaka Universal Tokenization Engine: the engine facade with all built-in algo… |
-| 2026-11-24 14:54:10 | [hazard3-mqtt-lite](https://crates.io/crates/hazard3-mqtt-lite) | 0.4.0 | 0 | Minimal asynchronous no_std MQTT v3.1.1 client for Hazard3. Supports QoS 0, aut… |
-| 2026-11-24 14:54:11 | [flareapp-otlp](https://crates.io/crates/flareapp-otlp) | 0.1.0 | 0 | OTLP data types and their protobuf and JSON encoding for the Flare client. |
-| 2026-11-24 14:54:13 | [flareapp-macros](https://crates.io/crates/flareapp-macros) | 0.1.0 | 0 | The #[flareapp::main] attribute for the Flare client. |
-| 2026-11-24 14:54:21 | [flareapp-core](https://crates.io/crates/flareapp-core) | 0.1.0 | 0 | The core of the Flare client: config, the client, and the worker thread that se… |
-| 2026-11-24 14:54:27 | [flareapp-backtrace](https://crates.io/crates/flareapp-backtrace) | 0.1.0 | 0 | Captures stack traces for the Flare client. |
-| 2026-11-24 14:54:33 | [flareapp-tracing](https://crates.io/crates/flareapp-tracing) | 0.1.0 | 0 | Sends tracing spans and events to Flare as traces, logs and breadcrumbs. |
-| 2026-11-24 14:55:02 | [mediaprobe](https://crates.io/crates/mediaprobe) | 0.0.1 | 0 | Container and stream metadata for media files, read in pure Rust with no extern… |
-| 2026-11-24 14:55:15 | [rtci-ice](https://crates.io/crates/rtci-ice) | 0.1.0 | 0 | Sans-I/O ICE agent (RFC 8445) with trickle ICE, ICE-TCP and consent freshness,… |
-| 2026-11-24 14:56:02 | [agentscope-durable](https://crates.io/crates/agentscope-durable) | 0.2.0 | 0 | AgentScope Rust - Durable recoverable runtime |
-| 2026-11-24 14:57:13 | [agentscope-durable-sqlite](https://crates.io/crates/agentscope-durable-sqlite) | 0.2.0 | 0 | AgentScope Rust - SQLite record store for the durable runtime |
-| 2026-11-24 14:57:38 | [remit-kernel](https://crates.io/crates/remit-kernel) | 0.1.0 | 0 | Remit compute plane: Wasmtime host for kernel engines (pooling, fuel, determini… |
-| 2026-11-24 15:00:19 | [agentscope-durable-worker](https://crates.io/crates/agentscope-durable-worker) | 0.2.0 | 0 | AgentScope Rust - Brain/Hands worker and drivers over the durable tick |
-| 2026-11-24 15:01:02 | [nsh-firebase-core](https://crates.io/crates/nsh-firebase-core) | 0.1.0 | 0 | Firebase Core for Native Shell Rust apps: app and options, emulator config, the… |
-| 2026-11-24 15:02:01 | [kute-bench](https://crates.io/crates/kute-bench) | 0.2.0 | 0 | Reproducible evaluation and benchmarking for KUTE vocabularies |
-| 2026-11-24 15:03:44 | [nsh-ocr](https://crates.io/crates/nsh-ocr) | 0.1.0 | 0 | Recognise text in images for Native Shell apps: Apple Vision, Android ML Kit, W… |
-| 2026-11-24 15:04:38 | [flareapp-log](https://crates.io/crates/flareapp-log) | 0.1.0 | 0 | Sends log crate records to Flare as logs and breadcrumbs. |
-| 2026-11-24 15:04:49 | [agentscope-durable-jdbc](https://crates.io/crates/agentscope-durable-jdbc) | 0.2.0 | 0 | AgentScope Rust - PostgreSQL record store for the durable runtime |
-| 2026-11-24 15:05:27 | [rtci-turn](https://crates.io/crates/rtci-turn) | 0.1.0 | 0 | Sans-I/O TURN client (RFC 8656, RFC 6062 TCP allocations) for WebRTC |
-| 2026-11-24 15:05:38 | [agentscope-durable-objects](https://crates.io/crates/agentscope-durable-objects) | 0.2.0 | 0 | AgentScope Rust - Content-addressed object storage for durable blobs |
-| 2026-11-24 15:10:01 | [tapt](https://crates.io/crates/tapt) | 0.1.0 | 0 | Identity, GRAM balance, payments, and an encrypted keystore for a wallet on TON |
-| 2026-11-24 15:10:45 | [agentscope-durable-http](https://crates.io/crates/agentscope-durable-http) | 0.2.0 | 0 | AgentScope Rust - durable adapter for HTTP transport (skeleton, Java parity) |
-| 2026-11-24 15:11:47 | [agentscope-durable-mcp](https://crates.io/crates/agentscope-durable-mcp) | 0.2.0 | 0 | AgentScope Rust - durable adapter for MCP (Model Context Protocol) execution tr… |
-| 2026-11-24 15:11:51 | [bipkit](https://crates.io/crates/bipkit) | 0.1.0 | 0 | Official Rust SDK for the Bipkit System One Decision Engine API. |
-| 2026-11-24 15:12:55 | [kute-cli](https://crates.io/crates/kute-cli) | 0.2.0 | 0 | Command line interface for the Kannaka Universal Tokenization Engine |
-| 2026-11-24 15:13:02 | [rhai-data-quality](https://crates.io/crates/rhai-data-quality) | 0.6.0 | 0 | Rhai packages for cleaning business data: emails, phone numbers, names, compani… |
-| 2026-11-24 15:14:20 | [omnibuf-tonic](https://crates.io/crates/omnibuf-tonic) | 0.1.7 | 0 | OmniBuf gRPC codec for tonic (application/grpc+omnibuf) |
-| 2026-11-24 15:14:34 | [wings-plugin](https://crates.io/crates/wings-plugin) | 0.1.0 | 0 | Write a Wings plugin in Rust, built to WebAssembly. |
-| 2026-11-24 15:14:41 | [cargo-wings-plugin](https://crates.io/crates/cargo-wings-plugin) | 0.1.0 | 0 | cargo wings-plugin: start, build, check, pack and live-reload a Wings plugin wr… |
-| 2026-11-24 15:14:47 | [flareapp-panic](https://crates.io/crates/flareapp-panic) | 0.1.0 | 0 | Reports panics to Flare. |
-| 2026-11-24 15:15:52 | [rtci](https://crates.io/crates/rtci) | 0.1.0 | 0 | A sans-I/O WebRTC implementation: peer connections with ICE, DTLS-SRTP, SCTP da… |
-| 2026-11-24 15:16:26 | [nsh-logging](https://crates.io/crates/nsh-logging) | 0.1.0 | 0 | Local log files with rotation, bounded disk use and redaction for Native Shell… |
-| 2026-11-24 15:18:51 | [rebac-schema](https://crates.io/crates/rebac-schema) | 0.1.0 | 0 | Parses a SpiceDB schema and derives which relations can change one permission |
-| 2026-11-24 15:19:06 | [agentscope-durable-rocketmq](https://crates.io/crates/agentscope-durable-rocketmq) | 0.2.0 | 0 | AgentScope Rust - durable adapter for the RocketMQ event channel (Java parity) |
-| 2026-11-24 15:19:55 | [rebacd](https://crates.io/crates/rebacd) | 0.1.0 | 0 | The pg_rebac sync daemon: relays relationship writes to SpiceDB and keeps the p… |
+| 2026-11-24 15:21:20 | [lamina-core](https://crates.io/crates/lamina-core) | 0.1.0 | 0 | Transfer- and scattering-matrix methods for planar electromagnetic systems |
+| 2026-11-24 15:22:53 | [codixor-fast-yaml-core](https://crates.io/crates/codixor-fast-yaml-core) | 0.4.0 | 0 | Codixor fork of fast-yaml-core for rs-yaml. Core YAML 1.2.2 parser and emitter |
+| 2026-11-24 15:23:03 | [codixor-fast-yaml-linter](https://crates.io/crates/codixor-fast-yaml-linter) | 0.4.0 | 0 | Codixor fork of fast-yaml-linter for rs-yaml. YAML linter with rich diagnostics |
+| 2026-11-24 15:23:09 | [codixor-fast-yaml-parallel](https://crates.io/crates/codixor-fast-yaml-parallel) | 0.4.0 | 0 | Codixor fork of fast-yaml-parallel for rs-yaml. Multi-threaded YAML processing… |
+| 2026-11-24 15:23:15 | [lamina-materials](https://crates.io/crates/lamina-materials) | 0.1.0 | 0 | Dispersive optical material models for planar multilayer calculations |
+| 2026-11-24 15:24:11 | [hazard3-ssd1306-physics](https://crates.io/crates/hazard3-ssd1306-physics) | 0.3.1 | 0 | Dessins 2D no_std pour objets physiques (bras robotique, pendule, ressort-masse… |
+| 2026-11-24 15:24:54 | [flareapp-anyhow](https://crates.io/crates/flareapp-anyhow) | 0.1.0 | 0 | Reports anyhow errors to Flare. |
+| 2026-11-24 15:26:11 | [rtci-stream-driver](https://crates.io/crates/rtci-stream-driver) | 0.1.0 | 0 | A tokio driver for the stream transports (ICE-TCP, TURN over TCP and TLS) of a… |
+| 2026-11-24 15:27:31 | [agentscope-durable-sandbox](https://crates.io/crates/agentscope-durable-sandbox) | 0.2.0 | 0 | AgentScope Rust - durable executor port for sandboxed process execution |
+| 2026-11-24 15:27:40 | [nsh-purchases](https://crates.io/crates/nsh-purchases) | 0.1.0 | 0 | In-app purchases for Native Shell apps: products, purchases, restores and entit… |
+| 2026-11-24 15:28:52 | [lamina-mode](https://crates.io/crates/lamina-mode) | 0.1.0 | 0 | Modes of planar multilayers, with numerical evidence, fields and sensitivities |
+| 2026-11-24 15:29:36 | [hazard3-async](https://crates.io/crates/hazard3-async) | 0.1.0 | 0 | An unofficial, independent async embedded Rust framework targeting Hazard3 RISC… |
+| 2026-11-24 15:34:00 | [himring](https://crates.io/crates/himring) | 0.1.0 | 0 | The Rust SDK of the Himring API, which lets AI agents answer from what a busine… |
+| 2026-11-24 15:35:03 | [flareapp-web](https://crates.io/crates/flareapp-web) | 0.1.0 | 0 | The request data and request span that the Flare web integrations share. |
+| 2026-11-24 15:38:11 | [agentscope-durable-adapter-agentscope](https://crates.io/crates/agentscope-durable-adapter-agentscope) | 0.2.0 | 0 | AgentScope Rust - Durable adapter for the agentscope harness |
+| 2026-11-24 15:39:06 | [nsh-deep-links](https://crates.io/crates/nsh-deep-links) | 0.1.0 | 0 | Universal Links on iOS and macOS and App Links on Android, routed to app screen… |
+| 2026-11-24 15:40:54 | [spatie-opening-hours](https://crates.io/crates/spatie-opening-hours) | 1.0.0 | 0 | Query and format opening hours |
+| 2026-11-24 15:43:33 | [nsh-auth](https://crates.io/crates/nsh-auth) | 0.1.0 | 0 | OAuth and social sign-in core for Native Shell Rust apps: providers, PKCE, toke… |
+| 2026-11-24 15:45:33 | [flareapp-sqlx](https://crates.io/crates/flareapp-sqlx) | 0.1.0 | 0 | Sends sqlx queries to Flare as query spans, with the database and the errors. |
+| 2026-11-24 15:49:27 | [glypr-core](https://crates.io/crates/glypr-core) | 0.4.0 | 0 | Core embedding & inference engine for EmbeddingGemma 2 |
+| 2026-11-24 15:49:37 | [glypr-server](https://crates.io/crates/glypr-server) | 0.4.0 | 0 | High-performance OpenAI-compatible HTTP serving engine for EmbeddingGemma 2 |
+| 2026-11-24 15:49:47 | [glypr](https://crates.io/crates/glypr) | 0.4.0 | 0 | Native Rust CLI and embedding tool for EmbeddingGemma 2 |
+| 2026-11-24 15:50:12 | [smysl-sign](https://crates.io/crates/smysl-sign) | 1.20.0 | 0 | smysl's detached attestation signatures (RFC SMYSL-7): Ed25519 in COSE_Sign1, v… |
+| 2026-11-24 15:50:43 | [smysl-lsp](https://crates.io/crates/smysl-lsp) | 1.20.0 | 0 | smysl's language server (RFC SMYSL-6): diagnostics, navigation and safe edits f… |
+| 2026-11-24 15:50:47 | [eno-state-zx](https://crates.io/crates/eno-state-zx) | 0.1.2 | 0 | Eno State ZX — 1-bit ZX Spectrum beeper synth engines |
+| 2026-11-24 15:51:22 | [veyl](https://crates.io/crates/veyl) | 0.2.2-alpha | 0 | A lightweight Linux MCP gateway with durable jobs, skills, and native monitoring |
+| 2026-11-24 15:51:55 | [matchapack](https://crates.io/crates/matchapack) | 0.1.0 | 0 | Makes npm ci, npm install and Yarn 1 place node_modules as copy-on-write clones… |
+| 2026-11-24 15:53:55 | [nsh-auth-keyring](https://crates.io/crates/nsh-auth-keyring) | 0.1.0 | 0 | OS-keyring session storage for nsh-auth desktop apps: one credential per sessio… |
+| 2026-11-24 15:56:02 | [cargo-flareapp](https://crates.io/crates/cargo-flareapp) | 0.1.0 | 0 | Cargo subcommand that uploads the debug files of Rust builds to Flare. |
+| 2026-11-24 15:56:17 | [mygeocode](https://crates.io/crates/mygeocode) | 1.1.1 | 0 | Official Rust client for the My Geocode API: geocoding, reverse geocoding, addr… |
+| 2026-11-24 15:56:25 | [spatie-pdf-to-text](https://crates.io/crates/spatie-pdf-to-text) | 1.0.0 | 0 | Extract text from a PDF |
+| 2026-11-24 15:56:36 | [spatie-url-signer](https://crates.io/crates/spatie-url-signer) | 1.0.0 | 0 | Create signed URLs with a limited lifetime |
+| 2026-11-24 15:58:52 | [statifier](https://crates.io/crates/statifier) | 0.0.0 | 0 | An SCXML statechart interpreter core, a conformant sibling of the Elixir statif… |
+| 2026-11-24 16:02:40 | [spatie-robots-txt](https://crates.io/crates/spatie-robots-txt) | 1.0.0 | 0 | Parse robots.txt, robots meta tags and X-Robots-Tag headers |
+| 2026-11-24 16:03:51 | [pkl-runtime](https://crates.io/crates/pkl-runtime) | 0.32.0-rc.3 | 0 | Shared Rust runtime for the Pkl 0.32.0 compatibility project |
+| 2026-11-24 16:04:09 | [pkl-formatter](https://crates.io/crates/pkl-formatter) | 0.32.0-rc.3 | 0 | Pure-Rust Wasm-compatible Pkl 0.32.0 code formatter |
+| 2026-11-24 16:04:22 | [nsh-biometrics](https://crates.io/crates/nsh-biometrics) | 0.1.0 | 0 | Biometric and device-credential authentication for Native Shell apps: Face ID,… |
+| 2026-11-24 16:04:52 | [pkl-host-native](https://crates.io/crates/pkl-host-native) | 0.32.0-rc.3 | 0 | Native OS host adapter (filesystem, modulepath, HTTP/TLS, cancellation) for pkl… |
+| 2026-11-24 16:05:13 | [pkl-lang](https://crates.io/crates/pkl-lang) | 0.32.0-rc.3 | 0 | Public Rust evaluator API for Apple Pkl 0.32.0 |
+| 2026-11-24 16:05:22 | [adaptif-gatotkaca-runtime](https://crates.io/crates/adaptif-gatotkaca-runtime) | 0.1.0 | 0 | A uniform facade over execution models for the adaptif-gatotkaca engine: one in… |
+| 2026-11-24 16:05:30 | [pkl-repl](https://crates.io/crates/pkl-repl) | 0.32.0-rc.3 | 0 | Native interactive & piped REPL (`pkl repl`) for Pkl 0.32.0 |
+| 2026-11-24 16:05:49 | [pkl-server](https://crates.io/crates/pkl-server) | 0.32.0-rc.3 | 0 | Native stdio MessagePack IPC server (`pkl server`) for Pkl 0.32.0 |
+| 2026-11-24 16:06:41 | [shape_path](https://crates.io/crates/shape_path) | 0.3.41 | 0 | ShExPath: a path language that addresses the elements of a ShEx schema |
+| 2026-11-24 16:06:52 | [flareapp-tower](https://crates.io/crates/flareapp-tower) | 0.1.0 | 0 | Tower middleware that gives each request its own Flare scope and trace. |
+| 2026-11-24 16:09:58 | [cargo-lifetimes](https://crates.io/crates/cargo-lifetimes) | 0.1.0 | 0 | Finds Rust types that store a borrow: structs, enums, unions and type aliases w… |
+| 2026-11-24 16:12:58 | [treecut](https://crates.io/crates/treecut) | 0.1.0 | 0 | Local-first AST, SQLite-cached, and Git-diff context slicer for AI coding agents |
+| 2026-11-24 16:13:32 | [nsh-firebase-analytics](https://crates.io/crates/nsh-firebase-analytics) | 0.1.0 | 0 | Firebase analytics for Native Shell Rust apps: events, user properties, screen… |
+| 2026-11-24 16:14:35 | [hazard3-hall-analog](https://crates.io/crates/hazard3-hall-analog) | 0.5.0 | 0 | Async no_std driver for OPEN-SMART linear Hall-effect sensor (RP235x) in the Ha… |
+| 2026-11-24 16:17:07 | [flareapp-actix](https://crates.io/crates/flareapp-actix) | 0.1.0 | 0 | actix-web middleware that gives each request its own Flare scope and trace. |
+| 2026-11-24 16:18:37 | [iblancasa-cli-otel](https://crates.io/crates/iblancasa-cli-otel) | 0.1.0 | 0 | Vendor-neutral OpenTelemetry execution spans for command-line applications |
+| 2026-11-24 16:18:52 | [cordex-voice](https://crates.io/crates/cordex-voice) | 0.1.7 | 0 | Pure-Rust Discord voice signaling and session coordination for cordex (Lavalink… |
+| 2026-11-24 16:18:54 | [cordex-lavalink](https://crates.io/crates/cordex-lavalink) | 0.1.7 | 0 | Pure-Rust Lavalink v4 client for cordex, integrated with cordex-voice. |
 
 ## Data source
 

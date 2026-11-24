@@ -1,0 +1,53 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-24T15:21:20.395704Z,lamina-core,0.1.0,0,0,https://github.com/cgubbin/lamina-core,Transfer- and scattering-matrix methods for planar electromagnetic systems
+2026-11-24T15:22:53.978959Z,codixor-fast-yaml-core,0.4.0,0,0,https://github.com/codixor/rs-yaml,Codixor fork of fast-yaml-core for rs-yaml. Core YAML 1.2.2 parser and emitter
+2026-11-24T15:23:03.87879Z,codixor-fast-yaml-linter,0.4.0,0,0,https://github.com/codixor/rs-yaml,Codixor fork of fast-yaml-linter for rs-yaml. YAML linter with rich diagnostics
+2026-11-24T15:23:09.108665Z,codixor-fast-yaml-parallel,0.4.0,0,0,https://github.com/codixor/rs-yaml,Codixor fork of fast-yaml-parallel for rs-yaml. Multi-threaded YAML processing with work-stealing parallelism
+2026-11-24T15:23:15.410491Z,lamina-materials,0.1.0,0,0,https://github.com/cgubbin/lamina-materials,Dispersive optical material models for planar multilayer calculations
+2026-11-24T15:24:11.425313Z,hazard3-ssd1306-physics,0.3.1,0,0,https://github.com/jorgeandrecastro/embassy-ssd1306-physics,"Dessins 2D no_std pour objets physiques (bras robotique, pendule, ressort-masse, boussole, engrenages,piston) sur OLED SSD1306 128×64"
+2026-11-24T15:24:54.533076Z,flareapp-anyhow,0.1.0,0,0,https://github.com/spatie/flare-client-rust,Reports anyhow errors to Flare.
+2026-11-24T15:26:11.263545Z,rtci-stream-driver,0.1.0,0,0,https://github.com/Brainwires/rtci,"A tokio driver for the stream transports (ICE-TCP, TURN over TCP and TLS) of a sans-I/O WebRTC engine"
+2026-11-24T15:27:31.115071Z,agentscope-durable-sandbox,0.2.0,0,0,https://github.com/Endlessworld/agentscope-rust,AgentScope Rust - durable executor port for sandboxed process execution
+2026-11-24T15:27:40.29695Z,nsh-purchases,0.1.0,0,0,https://github.com/SuperNSH/purchases,"In-app purchases for Native Shell apps: products, purchases, restores and entitlements over StoreKit 2 and Play Billing"
+2026-11-24T15:28:52.895629Z,lamina-mode,0.1.0,0,0,https://github.com/cgubbin/lamina-mode,"Modes of planar multilayers, with numerical evidence, fields and sensitivities"
+2026-11-24T15:29:36.364156Z,hazard3-async,0.1.0,0,0,https://github.com/jorgeandrecastro/hazard3-async,"An unofficial, independent async embedded Rust framework targeting Hazard3 RISC-V cores (RP2350), featuring native ESP-NOW over CYW43."
+2026-11-24T15:34:00.245277Z,himring,0.1.0,0,0,https://github.com/himringhq/himring-sdk,"The Rust SDK of the Himring API, which lets AI agents answer from what a business knows."
+2026-11-24T15:35:03.365726Z,flareapp-web,0.1.0,0,0,https://github.com/spatie/flare-client-rust,The request data and request span that the Flare web integrations share.
+2026-11-24T15:38:11.60198Z,agentscope-durable-adapter-agentscope,0.2.0,0,0,https://github.com/Endlessworld/agentscope-rust,AgentScope Rust - Durable adapter for the agentscope harness
+2026-11-24T15:39:06.739559Z,nsh-deep-links,0.1.0,0,0,https://github.com/SuperNSH/deep-links,"Universal Links on iOS and macOS and App Links on Android, routed to app screens: the verified-web-link layer over NSH core's URL schemes."
+2026-11-24T15:40:54.1135Z,spatie-opening-hours,1.0.0,0,0,https://github.com/spatie/opening-hours-rust,Query and format opening hours
+2026-11-24T15:43:33.156772Z,nsh-auth,0.1.0,0,0,https://github.com/SuperNSH/auth,"OAuth and social sign-in core for Native Shell Rust apps: providers, PKCE, token exchange and refresh, sessions as signals"
+2026-11-24T15:45:33.916552Z,flareapp-sqlx,0.1.0,0,0,https://github.com/spatie/flare-client-rust,"Sends sqlx queries to Flare as query spans, with the database and the errors."
+2026-11-24T15:49:27.055057Z,glypr-core,0.4.0,0,0,https://github.com/phrozen/glypr,Core embedding & inference engine for EmbeddingGemma 2
+2026-11-24T15:49:37.700583Z,glypr-server,0.4.0,0,0,https://github.com/phrozen/glypr,High-performance OpenAI-compatible HTTP serving engine for EmbeddingGemma 2
+2026-11-24T15:49:47.971772Z,glypr,0.4.0,0,0,https://github.com/phrozen/glypr,Native Rust CLI and embedding tool for EmbeddingGemma 2
+2026-11-24T15:50:12.021283Z,smysl-sign,1.20.0,0,0,https://github.com/vulogov/smysl,"smysl's detached attestation signatures (RFC SMYSL-7): Ed25519 in COSE_Sign1, verified against a key file"
+2026-11-24T15:50:43.464058Z,smysl-lsp,1.20.0,0,0,https://github.com/vulogov/smysl,"smysl's language server (RFC SMYSL-6): diagnostics, navigation and safe edits for .smy and .sq documents, over LSP 3.17"
+2026-11-24T15:50:47.465344Z,eno-state-zx,0.1.2,0,0,https://github.com/benwaar/music,Eno State ZX — 1-bit ZX Spectrum beeper synth engines
+2026-11-24T15:51:22.402538Z,veyl,0.2.2-alpha,0,0,https://github.com/kmanisk/veyl,"A lightweight Linux MCP gateway with durable jobs, skills, and native monitoring"
+2026-11-24T15:51:55.652768Z,matchapack,0.1.0,0,0,https://github.com/grimmerk/matchapack,"Makes npm ci, npm install and Yarn 1 place node_modules as copy-on-write clones, so each extra checkout or git worktree costs almost no disk"
+2026-11-24T15:53:55.946866Z,nsh-auth-keyring,0.1.0,0,0,https://github.com/SuperNSH/auth,OS-keyring session storage for nsh-auth desktop apps: one credential per session field behind the same SessionStore trait
+2026-11-24T15:56:02.389145Z,cargo-flareapp,0.1.0,0,0,https://github.com/spatie/flare-client-rust,Cargo subcommand that uploads the debug files of Rust builds to Flare.
+2026-11-24T15:56:17.592188Z,mygeocode,1.1.1,0,0,https://github.com/mygeocode/mygeocode-rust,"Official Rust client for the My Geocode API: geocoding, reverse geocoding, address autocomplete, IP, timezone, elevation and postal code lookups."
+2026-11-24T15:56:25.564996Z,spatie-pdf-to-text,1.0.0,0,0,https://github.com/spatie/pdf-to-text-rust,Extract text from a PDF
+2026-11-24T15:56:36.599986Z,spatie-url-signer,1.0.0,0,0,https://github.com/spatie/url-signer-rust,Create signed URLs with a limited lifetime
+2026-11-24T15:58:52.17248Z,statifier,0.0.0,0,0,https://github.com/riddler/statifier-rs,"An SCXML statechart interpreter core, a conformant sibling of the Elixir statifier package."
+2026-11-24T16:02:40.033147Z,spatie-robots-txt,1.0.0,0,0,https://github.com/spatie/robots-txt-rust,"Parse robots.txt, robots meta tags and X-Robots-Tag headers"
+2026-11-24T16:03:51.007808Z,pkl-runtime,0.32.0-rc.3,0,0,https://github.com/openedges/pkl-rs,Shared Rust runtime for the Pkl 0.32.0 compatibility project
+2026-11-24T16:04:09.782502Z,pkl-formatter,0.32.0-rc.3,0,0,https://github.com/openedges/pkl-rs,Pure-Rust Wasm-compatible Pkl 0.32.0 code formatter
+2026-11-24T16:04:22.474346Z,nsh-biometrics,0.1.0,0,0,https://github.com/SuperNSH/biometrics,"Biometric and device-credential authentication for Native Shell apps: Face ID, Touch ID, Android biometrics, Windows Hello and polkit"
+2026-11-24T16:04:52.692848Z,pkl-host-native,0.32.0-rc.3,0,0,https://github.com/openedges/pkl-rs,"Native OS host adapter (filesystem, modulepath, HTTP/TLS, cancellation) for pkl-runtime"
+2026-11-24T16:05:13.036346Z,pkl-lang,0.32.0-rc.3,0,0,https://github.com/openedges/pkl-rs,Public Rust evaluator API for Apple Pkl 0.32.0
+2026-11-24T16:05:22.26048Z,adaptif-gatotkaca-runtime,0.1.0,0,0,https://github.com/csatrio/adaptif-gatotkaca-runtime,"A uniform facade over execution models for the adaptif-gatotkaca engine: one interface over tokio, thread pools and thread-per-core executors"
+2026-11-24T16:05:30.873717Z,pkl-repl,0.32.0-rc.3,0,0,https://github.com/openedges/pkl-rs,Native interactive & piped REPL (`pkl repl`) for Pkl 0.32.0
+2026-11-24T16:05:49.765074Z,pkl-server,0.32.0-rc.3,0,0,https://github.com/openedges/pkl-rs,Native stdio MessagePack IPC server (`pkl server`) for Pkl 0.32.0
+2026-11-24T16:06:41.275821Z,shape_path,0.3.41,0,0,https://github.com/rudof-project/rudof,ShExPath: a path language that addresses the elements of a ShEx schema
+2026-11-24T16:06:52.090808Z,flareapp-tower,0.1.0,0,0,https://github.com/spatie/flare-client-rust,Tower middleware that gives each request its own Flare scope and trace.
+2026-11-24T16:09:58.608736Z,cargo-lifetimes,0.1.0,0,0,https://gitlab.com/alteronauta/cargo-lifetimes,"Finds Rust types that store a borrow: structs, enums, unions and type aliases with a lifetime parameter"
+2026-11-24T16:12:58.141853Z,treecut,0.1.0,0,0,https://github.com/bigwalkdoe/treecut,"Local-first AST, SQLite-cached, and Git-diff context slicer for AI coding agents"
+2026-11-24T16:13:32.816908Z,nsh-firebase-analytics,0.1.0,0,0,https://github.com/SuperNSH/firebase,"Firebase analytics for Native Shell Rust apps: events, user properties, screen views, consent, a clock-driven batching queue and pluggable transports"
+2026-11-24T16:14:35.763857Z,hazard3-hall-analog,0.5.0,0,0,https://github.com/jorgeandrecastro/hazard3-hall-analog,Async no_std driver for OPEN-SMART linear Hall-effect sensor (RP235x) in the Hazard3 RISC-V ecosystem.
+2026-11-24T16:17:07.677043Z,flareapp-actix,0.1.0,0,0,https://github.com/spatie/flare-client-rust,actix-web middleware that gives each request its own Flare scope and trace.
+2026-11-24T16:18:37.842986Z,iblancasa-cli-otel,0.1.0,0,0,https://github.com/coralogix/coralogix-opentelemetry-rust,Vendor-neutral OpenTelemetry execution spans for command-line applications
+2026-11-24T16:18:52.595223Z,cordex-voice,0.1.7,0,0,https://github.com/lejylabs/cordex,Pure-Rust Discord voice signaling and session coordination for cordex (Lavalink v4 & custom voice backends).
+2026-11-24T16:18:54.803672Z,cordex-lavalink,0.1.7,0,0,https://github.com/lejylabs/cordex,"Pure-Rust Lavalink v4 client for cordex, integrated with cordex-voice."
