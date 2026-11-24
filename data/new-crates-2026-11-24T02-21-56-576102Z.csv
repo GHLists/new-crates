@@ -1,0 +1,44 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-24T01:19:10.576779Z,gpui-koan-web,0.2.1+zed.1f37726,0,0,https://github.com/radiosilence/zed,Zed's `gpui_web` crate (gpui-koan snapshot of zed@1f37726)
+2026-11-24T01:23:23.560446Z,cachette,0.1.0,0,0,https://github.com/phfaist/cachette,"Synchronous cache storage: values with their lifetimes, kept in a JSONL file, in files per value, in SQLite or in memory, and a cache manager that keeps the caches of a program under one root folder."
+2026-11-24T01:24:58.063986Z,visloc-mapping,0.4.0,0,0,https://github.com/rsasaki0109/visloc-rs,Local mapping skeleton with keyframe policy and staged sparse-map updates for visloc-rs.
+2026-11-24T01:24:59.693645Z,rimdeck-core,0.1.0,0,0,https://github.com/CryoTheRenegade/rimdeck,"Shared RimWorld mod-manager logic (scan, sort, rules, Steam, GitHub, git) for rimdeck"
+2026-11-24T01:25:07.594499Z,rimdeck-steam,0.1.0,0,0,https://github.com/CryoTheRenegade/rimdeck,"Steamworks helper for rimdeck: subscribe, unsubscribe, and re-download Workshop items"
+2026-11-24T01:25:44.259378Z,rimdeck-tui,0.1.0,0,0,https://github.com/CryoTheRenegade/rimdeck,A RimWorld mod manager TUI inspired by RimSort
+2026-11-24T01:25:52.792087Z,rimdeck,0.1.0,0,0,https://github.com/CryoTheRenegade/rimdeck,A RimWorld mod manager GUI inspired by RimSort
+2026-11-24T01:27:30.898836Z,inky-engine,0.1.0,0,0,https://github.com/robotgamedevelopers/inky,"A hand-fused Metal inference engine for Thinking Machines' Inkling 2 Mini, for Apple Silicon M5 Macs (Metal 4)"
+2026-11-24T01:29:14.746152Z,gpui-koan-platform,0.2.1+zed.1f37726,0,0,https://github.com/radiosilence/zed,Zed's `gpui_platform` crate (gpui-koan snapshot of zed@1f37726)
+2026-11-24T01:29:51.360687Z,ntwork,0.1.0,0,0,https://github.com/kingning2/infra-monorepo,"WeCom (WXWork 4.0.8.6027) bot toolkit: helper-RPC send/receive + zero-injection DB receive (decrypts local message DB); helper DLL embedded, no Python needed"
+2026-11-24T01:34:59.088831Z,visloc-slam,0.4.0,0,0,https://github.com/rsasaki0109/visloc-rs,Online Visual SLAM MVP composition over tracking and local mapping for visloc-rs.
+2026-11-24T01:35:47.321944Z,anser-sdk,0.1.0,0,0,https://github.com/lib-x/anser-sdk-rust,Official asynchronous Rust SDK for the Anser notification platform
+2026-11-24T01:37:58.52579Z,curly-message-parser,1.0.0-next.0,0,0,https://github.com/curly-message/parsers,Rust implementation of the Curly Message Format.
+2026-11-24T01:39:53.039556Z,rare-audio,0.1.0,0,0,https://github.com/jidoughost-tl/rare-audio-rs,"Pure Rust, zero-dependency parser, software synthesizer, and byte-exact golden-tested emulator for the Rareware GBA Sound Engine (Game Boy Advance)"
+2026-11-24T01:40:08.685389Z,logik-state,0.1.0,0,0,https://github.com/jidoughost-tl/logik-state-rs,"Pure Rust, zero-dependency parser, software synthesizer, and byte-exact golden-tested emulator for the Logik State GBAModPlay GBA Sound Engine"
+2026-11-24T01:40:24.613673Z,southpaw-audio,0.1.0,0,0,https://github.com/jidoughost-tl/southpaw-audio-rs,"Pure Rust, zero-dependency parser, software synthesizer, and byte-exact golden-tested emulator for the Southpaw GBA Sound Engine"
+2026-11-24T01:40:40.208933Z,rd1-kaede,0.1.0,0,0,https://github.com/jidoughost-tl/rd1-kaede-rs,"Pure Rust, zero-dependency parser, software synthesizer, and byte-exact golden-tested emulator for the Nintendo R&D1 Kaede GBA Sound Engine"
+2026-11-24T01:40:54.591007Z,paragon5,0.1.0,0,0,https://github.com/jidoughost-tl/paragon5-rs,"Pure Rust, zero-dependency parser, software synthesizer, and byte-exact golden-tested emulator for the Paragon 5 / GBASS GBA Sound Engine"
+2026-11-24T01:44:51.963101Z,atrac9,0.1.0,0,0,https://github.com/peakoshi/atrac9,"A safe, allocation-free ATRAC9 audio decoder in pure Rust"
+2026-11-24T01:44:58.322668Z,visloc-basalt,0.4.0,0,0,https://github.com/rsasaki0109/visloc-rs,Faithful Basalt VI-SLAM contracts and calibration foundations for visloc-rs.
+2026-11-24T01:45:39.550255Z,rc-gsu,0.1.0,0,0,https://github.com/elpapimango/retroclawd-core,Super FX (GSU-1/GSU-2) graphics support unit core for the Super Nintendo
+2026-11-24T01:45:51.363479Z,rc-m68k,0.1.2,0,0,https://github.com/elpapimango/retroclawd-core,"Motorola 68000, 68010, 68020 and 68030 CPU core (instruction-exact integer unit with a coprocessor interface)"
+2026-11-24T01:46:03.218181Z,rc-m68881,0.1.0,0,0,https://github.com/elpapimango/retroclawd-core,Motorola 68881/68882 floating-point coprocessor: 80-bit extended arithmetic and the coprocessor instruction set for rc-m68k
+2026-11-24T01:48:50.745326Z,dialogrs,0.1.0,0,0,https://github.com/avencera/dialogrs,"Speaker-attributed transcription: scriptrs for what was said, speakrs for who said it"
+2026-11-24T01:50:09.113413Z,rc-sa1,0.1.0,0,0,https://github.com/elpapimango/retroclawd-core,"SA-1 coprocessor for the Super Nintendo: a second 65C816 with the memory mapper, DMA, math unit and interrupt registers"
+2026-11-24T01:51:00.770864Z,songform,0.0.0,0,0,https://github.com/berryp/StageDisplay,Placeholder reserving the name; part of StageDisplay (not released yet)
+2026-11-24T01:51:02.156757Z,libmdec,0.1.1,0,0,https://github.com/JidouGhost-TL/libmdec-rs,Standalone pure-Rust PlayStation 1 MDEC hardware video decoder and BS bitstream library
+2026-11-24T01:54:58.598601Z,visloc-objects,0.4.0,0,0,https://github.com/rsasaki0109/visloc-rs,2D multi-object tracking (ByteTrack-style) for metric object estimation in visloc-rs.
+2026-11-24T01:56:51.440697Z,endpoint_blend_weights,0.1.0,0,0,,Generate endpoint-inclusive weight pairs for a linear video crossfade
+2026-11-24T01:59:58.275315Z,agmi,0.3.2,0,0,https://github.com/tomismeta/agmi,"Run and supervise MinePOA agents with durable scheduling, submission, and recovery"
+2026-11-24T02:00:50.449523Z,image-to-pixel-art,0.1.0,0,0,https://github.com/sherotree/image-to-pixel-art-rs,"Portable RGBA buffer → pixel-art pipeline (Pixel It algorithm): pixelate, grayscale, nearest palette, resize caps"
+2026-11-24T02:02:49.461887Z,rc-pmmu,0.1.0,0,0,https://github.com/elpapimango/retroclawd-core,"MC68030 on-chip paged memory management unit (PMMU) for rc-m68k: table walks, ATC, transparent translation, PMOVE/PTEST/PLOAD/PFLUSH"
+2026-11-24T02:04:20.440018Z,bitbucket-bb-cli,0.2.7,0,0,https://github.com/pallewela/bb,"bb: a gh-style CLI for Bitbucket Cloud (pull requests, Pipelines, repos, API)"
+2026-11-24T02:04:44.932547Z,hermoso,0.1.4,0,0,https://github.com/hermoso-ai/hermoso-sdks,"Typed Rust client for the Hermoso API: generate ads, publish and schedule posts, read analytics, and call every Hermoso tool from your own backend."
+2026-11-24T02:04:58.031032Z,visloc-gsplat-core,0.4.0,0,0,https://github.com/rsasaki0109/visloc-rs,"CPU reference types, IO, and rasterizer for 3D Gaussian Splatting built on visloc-rs SfM output."
+2026-11-24T02:09:41.157331Z,tc_elgamal,0.1.0,0,0,https://github.com/TomiCheng/tc_asym_cipher,"ElGamal encryption over a Diffie-Hellman group, with its keys and key pair and group generation, after Bouncy Castle."
+2026-11-24T02:11:34.307089Z,forhowlong,1.0.0,0,0,https://github.com/Lucretiel/forhowlong,"Parsable durations for configuration files, CLI arguments, and environment variables"
+2026-11-24T02:14:58.830326Z,visloc-gsplat-render,0.4.0,0,0,https://github.com/rsasaki0109/visloc-rs,wgpu compute forward rasterizer for 3D Gaussian Splatting (visloc-rs 3DGS stage 1).
+2026-11-24T02:15:35.996008Z,rshttpx,0.1.0,0,0,https://github.com/rshttpx/rshttpx,A Rust port of Python's httpx: a next-generation async HTTP client.
+2026-11-24T02:15:38.565204Z,rvoip-amazon-a2a,0.5.0,0,0,https://github.com/eisenzopf/rvoip,Amazon Connect A2A external-agent transport adapter for rvoip
+2026-11-24T02:15:47.567252Z,rvoip-webex-byova,0.5.0,0,0,https://github.com/eisenzopf/rvoip,Webex Contact Center BYOVA (Bring Your Own Virtual Agent) adapter for rvoip
+2026-11-24T02:19:36.817746Z,rind-rand-core,0.10.0,0,0,https://github.com/kixel-ai/rind,rand_core RNG drawing from rind's random source
+2026-11-24T02:21:47.622609Z,a2ui-express,0.2.0,0,0,https://github.com/Niach/a2ui-express-compiler-rust,"A2UI Express compiler: parse, compile, stream and decompile the Express inference format"
