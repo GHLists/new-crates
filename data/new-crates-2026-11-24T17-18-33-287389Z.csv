@@ -1,0 +1,49 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-24T16:20:43.738255Z,kute-discover,0.3.1,0,0,https://github.com/kannaka-labs/kute,"Structural discovery for KUTE: recurring patterns in symbol streams, with evidence, support and held-out evaluation"
+2026-11-24T16:21:21.355998Z,multicalc-robot-model,0.11.0,0,0,https://github.com/kmolan/multicalc-rust,Loads MuJoCo MJCF and URDF robot models into multicalc types
+2026-11-24T16:22:37.476809Z,kute-protocol,0.3.1,0,0,https://github.com/kannaka-labs/kute,"KUTE vocabulary exchange protocol: two peers agree on a vocabulary, extend it, and exchange encoded messages"
+2026-11-24T16:22:38.50851Z,egui-charts-scripting,0.3.0-alpha.1,0,0,https://github.com/userFRM/egui-charts,Scripts that add studies to egui-charts: a series runtime with a Rhai front end
+2026-11-24T16:23:55.994009Z,nsh-firebase-app-check,0.1.0,0,0,https://github.com/SuperNSH/firebase,"Firebase App Check for Native Shell Rust apps: the debug-token exchange with ttl caching, and the native tier's firebase.appcheck.getToken routing"
+2026-11-24T16:24:04.692986Z,kian-web,0.3.0,0,0,https://github.com/flyer103/kian-runtime,Client-side web tools (DeepSeek Search/Fetch) as an audited bundle tool provider (ADR-057)
+2026-11-24T16:24:28.354997Z,kian-media,0.3.0,0,0,https://github.com/flyer103/kian-runtime,"Client-side media tools (OCR, speech-to-text, text-to-speech) as an audited bundle tool provider (ADR-061)"
+2026-11-24T16:27:17.697317Z,flareapp-reqwest,0.1.0,0,0,https://github.com/spatie/flare-client-rust,Continues Flare traces in outgoing reqwest calls.
+2026-11-24T16:30:25.665886Z,async-read,0.1.0,0,0,https://github.com/mineichen/async-read,Drive an AsyncRead with a future
+2026-11-24T16:33:11.510774Z,tabdance-elvish-tree-sitter,0.0.1,0,0,https://github.com/tab-dance/tabdance-elvish-tree-sitter,Elvish and Elvish transcript grammars for the tree-sitter parsing library
+2026-11-24T16:34:19.746264Z,nsh-firebase-auth,0.1.0,0,0,https://github.com/SuperNSH/firebase,"Firebase auth for Native Shell Rust apps: Identity Toolkit sign-in, Secure Token refresh, a currentUser signal and persistence behind a key-value store"
+2026-11-24T16:34:53.182375Z,spatie-ray,1.0.0,0,0,https://github.com/spatie/ray-rust,Send debug output from Rust to the Ray desktop app
+2026-11-24T16:36:49.992341Z,gpui-windows-win7,0.1.0,0,0,https://github.com/Polaris-cn10086/gpui-pre-windows7,Windows 7 SP1 port of Zed's gpui_windows backend (gpui-pre 0.3.12 snapshot)
+2026-11-24T16:37:01.68504Z,gpui-pre-windows7,0.1.0,0,0,https://github.com/Polaris-cn10086/gpui-pre-windows7,Windows 7 SP1 platform provider for GPUI (gpui-pre 0.3.12 / gpui-kit 0.10)
+2026-11-24T16:37:03.684553Z,octane-plugin-sdk,0.1.2,0,0,https://github.com/Octane-dev/octaneeditor-docs,Author SDK for OctaneEditor WASM plugins — host bindings + safe wrappers.
+2026-11-24T16:37:37.55742Z,flareapp,0.1.0,0,0,https://github.com/spatie/flare-client-rust,"Report errors, logs and traces from Rust applications to Flare."
+2026-11-24T16:39:35.744548Z,velr-gds-runtime-linux-aarch64,0.2.65,0,0,,Velr Graph Data Science native add-on for linux-aarch64
+2026-11-24T16:39:38.344256Z,velr-gds-runtime-linux-x86_64,0.2.65,0,0,,Velr Graph Data Science native add-on for linux-x86_64
+2026-11-24T16:39:40.588958Z,velr-gds-runtime-macos-aarch64,0.2.65,0,0,,Velr Graph Data Science native add-on for macos-aarch64
+2026-11-24T16:39:42.95317Z,velr-gds-runtime-macos-x86_64,0.2.65,0,0,,Velr Graph Data Science native add-on for macos-x86_64
+2026-11-24T16:39:45.470747Z,velr-gds-runtime-windows-x86_64,0.2.65,0,0,,Velr Graph Data Science native add-on for windows-x86_64
+2026-11-24T16:43:00.330041Z,tessyl,0.0.1,0,0,https://github.com/sylvite-studio/tessyl,Multi-world game engine from Sylvite Studio (name reserved; nothing is published yet)
+2026-11-24T16:44:00.510409Z,quilt-auth,0.1.0,0,0,https://github.com/quiltdata/quilt-rs,Transport-free authentication helpers shared by quilt-cli and quiltx: reading a typed catalog host and credential locations.
+2026-11-24T16:44:42.973593Z,nsh-firebase-crashlytics,0.1.0,0,0,https://github.com/SuperNSH/firebase,"Firebase Crashlytics for Native Shell Rust apps: the explicit-call facade over the native tier, and the pure tier's clear rejections"
+2026-11-24T16:50:41.138347Z,velr-gds,0.2.65,0,0,,Graph Data Science add-on for the Velr Rust driver
+2026-11-24T16:51:59.74738Z,zrun-plugin-api,0.1.0-p0.6,0,0,https://github.com/LIghtJUNction/zrun,Native command admission plugin ABI for zrun
+2026-11-24T16:52:12.895922Z,zrun-cli,0.1.0-p0.6,0,0,https://github.com/LIghtJUNction/zrun,Linux shell and MCP command broker for parallel agent workloads
+2026-11-24T16:53:46.158105Z,dynamo-router-policies,0.0.0-alpha.0,0,0,,Placeholder for soon-to-be-published crate
+2026-11-24T16:54:03.16558Z,standardizer-dependencies,1.0.0,0,0,https://github.com/BezotCorp/standardizer-dependencies,Synchronize machine-managed binary dependencies for Standardizer projects
+2026-11-24T16:54:16.808964Z,dynamo-global-common,0.0.0-alpha.0,0,0,,Placeholder for soon-to-be-published crate
+2026-11-24T16:54:49.605529Z,dynamo-global-discovery-client,0.0.0-alpha.0,0,0,,Placeholder for soon-to-be-published crate
+2026-11-24T16:55:08.633315Z,nsh-firebase-database,0.1.0,0,0,https://github.com/SuperNSH/firebase,Firebase Realtime Database for Native Shell Rust apps (REST with SSE live listeners)
+2026-11-24T16:55:19.721745Z,velr-import-runtime-linux-x86_64,0.1.0,0,0,,Native Velr CSV importer for linux-x86_64
+2026-11-24T16:55:22.107227Z,dynamo-sglang-generate,0.0.0-alpha.0,0,0,,Placeholder for soon-to-be-published crate
+2026-11-24T16:55:24.915493Z,opi-telemetry,0.8.4,0,0,https://github.com/OdradekAI/opi,"Explicit, backend-neutral telemetry contexts, spans and metrics"
+2026-11-24T16:55:42.371616Z,dynamo-vllm-generate,0.0.0-alpha.0,0,0,,Placeholder for soon-to-be-published crate
+2026-11-24T16:59:45.597653Z,spatie-holidays,1.0.0,0,0,https://github.com/spatie/holidays-rust,Calculate public holidays for a country
+2026-11-24T17:05:19.889182Z,velr-import-runtime-linux-aarch64,0.1.0,0,0,,Native Velr CSV importer for linux-aarch64
+2026-11-24T17:05:32.911007Z,nsh-firebase-firestore,0.1.0,0,0,https://github.com/SuperNSH/firebase,"Firebase Cloud Firestore for Native Shell Rust apps: documents CRUD and structured queries over the v1 REST surface, with native routing through the firebase.firestore.* handlers"
+2026-11-24T17:06:46.899347Z,aiproxy-mcp-sdk,1.0.0,0,0,https://github.com/auroracorelabs/aiproxy-mcp-sdk,"Native (C ABI) SDK for MCP server plugins: typed descriptor/tool/result shapes, verified caller context, and the export_mcp_plugin! macro."
+2026-11-24T17:09:47.235383Z,rgpui-extra,0.1.0,0,0,https://github.com/launcher-rs/rgpui-extra,rgpui 生态的官方扩展库：当前提供 GitHub Release 更新组件（可选 feature，默认不回流）
+2026-11-24T17:12:44.89714Z,epochal-api,0.1.0,0,0,https://github.com/epochal-org/epochal,"Client for the Epochal API. Its time portal serves web search, web fetch and sandboxes held to a past instant."
+2026-11-24T17:12:46.829351Z,epochal-mcp,0.1.0,0,0,https://github.com/epochal-org/epochal,"MCP server giving an agent Epochal's web search and web fetch, held to a past instant by the time portal."
+2026-11-24T17:12:47.776792Z,epochal-sandbox,0.1.0,0,0,https://github.com/epochal-org/epochal,"Epochal sandboxes, in time-portal mode: Linux boxes whose clock and network are held to a past instant."
+2026-11-24T17:12:48.811043Z,epochal-cli,0.1.0,0,0,https://github.com/epochal-org/epochal,"The Epochal command line: run an agent in a sandbox held to a past instant, and search or read the web as it stood then."
+2026-11-24T17:13:13.398728Z,kk-ui-rs,0.1.0,0,0,https://github/hengo/kk-ui-rs,KK_UI 单色菜单 UI 的 Rust 移植：页式 1 bit 画布 + 页面/菜单/弹窗运行时，画布尺寸由应用给定
+2026-11-24T17:15:19.70348Z,velr-import-runtime-macos-x86_64,0.1.0,0,0,,Native Velr CSV importer for macos-x86_64
+2026-11-24T17:15:56.470492Z,nsh-firebase-functions,0.1.0,0,0,https://github.com/SuperNSH/firebase,"Firebase Cloud Functions (https.callable) for Native Shell Rust apps: the callable wire protocol over the pure-tier fetch transport, with native routing through firebase.functions.call"
