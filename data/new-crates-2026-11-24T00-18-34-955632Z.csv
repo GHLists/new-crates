@@ -1,0 +1,32 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-23T23:22:20.420818Z,seqa_api,0.1.0,0,0,https://github.com/docwarren/seqa-rs,"Request and response types, notes storage and URI checks shared by the seqa backends"
+2026-11-23T23:23:22.71032Z,aidaemon-remote,0.22.1,0,0,https://github.com/davo20019/aidaemon,"Remote access for aidaemon over iroh: the owner's apps reach the daemon's gateway from anywhere by its endpoint key (direct QUIC when the network allows, an encrypted relay otherwise), with no tunnel…"
+2026-11-23T23:23:28.113077Z,aidaemon-shells,0.22.1,0,0,https://github.com/davo20019/aidaemon,"Conversation shells for aidaemon: one pseudo-terminal per conversation, started in its folder, that the owner's apps attach to and the agent can read; implementation crate of the aidaemon SDK, no sta…"
+2026-11-23T23:28:36.397266Z,binbun-sync,0.1.0,0,0,https://github.com/dmaivel/binbun,"binbun's collaboration sync protocol as a state machine without I/O: signed heads, tips and pulls, fork evidence."
+2026-11-23T23:28:55.626983Z,omnia-wasi-types,0.38.0,0,0,https://github.com/augentic/omnia,The WASI types every Omnia interface shares
+2026-11-23T23:29:50.019704Z,llama-cpp-sampler,0.30.0,0,0,https://github.com/intentee/llama-cpp-bindings,"Sampling the next token from a llama.cpp context: sampler chains, the samplers llama.cpp ships, and grammar-constrained sampling with GBNF and llguidance"
+2026-11-23T23:30:19.312539Z,rcompat-numeric,0.1.1,0,0,https://github.com/deminden/rsdeseq2,"R-compatible probability tails, quantiles, special functions, and reproducible floating-point arithmetic in Rust"
+2026-11-23T23:30:24.824348Z,rcompat-formula,0.1.1,0,0,https://github.com/deminden/rsdeseq2,"Build R-style model matrices in Rust from formulas, factor contrasts, interactions, numeric transforms, and offsets"
+2026-11-23T23:30:43.232813Z,rcompat-shrinkage,0.1.1,0,0,https://github.com/deminden/rsdeseq2,Empirical Bayes shrinkage in Rust with ashr-style adaptive mixtures and apeglm-style heavy-tailed regression posteriors
+2026-11-23T23:35:42.239949Z,asterope-core,0.1.0,0,0,https://github.com/SpaceEngineerSS/asterope,"Star tracker simulation, centroiding, lost-in-space identification and attitude determination"
+2026-11-23T23:35:43.312375Z,asterope-io,0.1.0,0,0,https://github.com/SpaceEngineerSS/asterope,Image container parsing for Asterope (FITS primary HDU)
+2026-11-23T23:35:45.945057Z,asterope-cli,0.1.0,0,0,https://github.com/SpaceEngineerSS/asterope,"Command-line star tracker: solve frames, simulate them, build onboard indexes, replay sequences"
+2026-11-23T23:35:46.943791Z,asterope-ffi,0.1.0,0,0,https://github.com/SpaceEngineerSS/asterope,C interface to the Asterope star tracker
+2026-11-23T23:39:24.816942Z,binbun-collab,0.1.0,0,0,https://github.com/dmaivel/binbun,End-to-end encrypted sync of binbun projects between collaborators.
+2026-11-23T23:39:54.423975Z,llama-cpp-chat,0.30.0,0,0,https://github.com/intentee/llama-cpp-bindings,"Chat sessions rendered by a llama.cpp model's chat template: the prompt, the grammar that constrains tool calls, and parsing the model's answer back into messages"
+2026-11-23T23:43:06.080759Z,switchyard-costs,0.4.0,0,0,https://github.com/NVIDIA-NeMo/Switchyard,Shared token pricing and recorded cost totals for Switchyard
+2026-11-23T23:50:14.716684Z,binbun-cli,0.1.0,0,0,https://github.com/dmaivel/binbun,The binbun command-line disassembler and decompiler.
+2026-11-23T23:51:26.05096Z,komainu-jose,0.1.0-alpha.3,0,0,https://github.com/ryoshrimp/komainu,"A small JOSE implementation (JWS, JWK, JWT with RS256 and ES256) for komainu"
+2026-11-23T23:57:49.014681Z,m4a,0.1.0,0,0,https://github.com/jidoughost-tl/m4a-rs,"Pure Rust, zero-dependency parser, software synthesizer, and mGBA ARM golden-tested emulator for the Nintendo MusicPlayer2000 (M4A / Sappy) GBA sound engine"
+2026-11-24T00:01:50.170184Z,krawall,0.1.0,0,0,https://github.com/jidoughost-tl/krawall-rs,"Pure Rust, zero-dependency parser, software synthesizer, and golden-tested emulator for the Krawall GBA Tracker Sound Engine (Game Boy Advance)"
+2026-11-24T00:02:00.965228Z,wit-bindgen-wrpc-js,0.1.0-rc.1,0,0,https://github.com/bytecodealliance/wrpc,JavaScript bindings generator for wRPC
+2026-11-24T00:08:16.958159Z,gpui-koan-collections,0.2.1+zed.8fe6e58,0,0,https://github.com/radiosilence/zed,Standard collection types used by Zed and GPUI (gpui-koan snapshot of zed@8fe6e58)
+2026-11-24T00:08:17.303585Z,gpui-koan-reqwest-client,0.2.1+zed.8fe6e58,0,0,https://github.com/radiosilence/zed,Zed's `reqwest_client` crate (gpui-koan snapshot of zed@8fe6e58)
+2026-11-24T00:08:18.430574Z,gpui-koan-zlog,0.2.1+zed.8fe6e58,0,0,https://github.com/radiosilence/zed,Zed's `zlog` crate (gpui-koan snapshot of zed@8fe6e58)
+2026-11-24T00:08:19.981478Z,gpui-koan-ztracing,0.2.1+zed.8fe6e58,0,0,https://github.com/radiosilence/zed,Zed's `ztracing` crate (gpui-koan snapshot of zed@8fe6e58)
+2026-11-24T00:08:21.512513Z,gpui-koan-sum-tree,0.2.1+zed.8fe6e58,0,0,https://github.com/radiosilence/zed,"A sum tree data structure, a concurrency-friendly B-tree (gpui-koan snapshot of zed@8fe6e58)"
+2026-11-24T00:09:16.127368Z,gpui-koan,0.2.1+zed.8fe6e58,0,0,https://github.com/zed-industries/zed,Zed's GPU-accelerated UI framework (gpui-koan snapshot of zed@8fe6e58)
+2026-11-24T00:11:23.806239Z,tpt-algo-cli,0.0.2,0,0,,"Command-line front end (`tpt`) for the tpt-algorithms crates: CSV/JSON in, JSON/CSV out, record and replay"
+2026-11-24T00:13:39.447205Z,mem-in-black,0.3.0,0,0,https://github.com/cesarferreira/mem-in-black,We remember so your agents don't have to. Local memory for coding agents.
+2026-11-24T00:16:11.231493Z,preinstantiate,0.1.0,0,0,https://github.com/oxidecomputer/preinstantiate,"Compile a crate's async functions ahead of time in separate crates, to speed up incremental builds"
+2026-11-24T00:17:23.02087Z,moldette-sidecar,0.6.0,0,0,https://github.com/CharmingGroot/moldette,HTTP sidecar that runs one moldette configuration over streamed records

@@ -8,54 +8,45 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-23 23:20 UTC
+## Latest list — 2026-11-24 00:18 UTC
 
-New crates published between 2026-11-23 22:19 UTC and 2026-11-23 23:20 UTC.
+New crates published between 2026-11-23 23:20 UTC and 2026-11-24 00:18 UTC.
 
-[Full CSV](data/new-crates-2026-11-23T23-20-36-229727Z.csv)
+[Full CSV](data/new-crates-2026-11-24T00-18-34-955632Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-23 22:20:09 | [paraviz-core](https://crates.io/crates/paraviz-core) | 0.2.5 | 0 | Core VTK-inspired scientific data model, colormaps, transfer functions, and dem… |
-| 2026-11-23 22:20:31 | [paraviz-sources](https://crates.io/crates/paraviz-sources) | 0.2.5 | 0 | Procedural geometric and analytical scientific dataset sources for ParaViz |
-| 2026-11-23 22:21:01 | [paraviz-filters](https://crates.io/crates/paraviz-filters) | 0.2.5 | 0 | Parallel scientific visualization filters (contour, slice, clip, threshold, str… |
-| 2026-11-23 22:21:30 | [paraviz-io](https://crates.io/crates/paraviz-io) | 0.2.5 | 0 | Scientific file readers and writers (VTK, VTKHDF, CGNS, Exodus II, XDMF, EnSigh… |
-| 2026-11-23 22:22:00 | [paraviz-render](https://crates.io/crates/paraviz-render) | 0.2.5 | 0 | WebGPU (wgpu) scientific visualization rendering engine (surface, wireframe, ed… |
-| 2026-11-23 22:22:23 | [llama-cpp-gguf](https://crates.io/crates/llama-cpp-gguf) | 0.30.0 | 0 | Reads and rewrites the metadata and tensors of GGUF files through llama.cpp's g… |
-| 2026-11-23 22:23:34 | [binbun-decompile](https://crates.io/crates/binbun-decompile) | 0.1.0 | 0 | Decompiler passes that recover variables, expressions, control structure and ty… |
-| 2026-11-23 22:24:53 | [cpprunner](https://crates.io/crates/cpprunner) | 0.1.0 | 0 | Compile and run C++ programs from Rust: cached builds, CPU time, memory and out… |
-| 2026-11-23 22:26:33 | [dep-vet](https://crates.io/crates/dep-vet) | 0.13.1 | 0 | Check a package's risk before it enters your lockfile |
-| 2026-11-23 22:28:19 | [launchpad-updates-protocol](https://crates.io/crates/launchpad-updates-protocol) | 2026.1123.1 | 0 | Launchpad updates: the signed wire format shared by the launchpad server and it… |
-| 2026-11-23 22:28:35 | [launchpad-updater](https://crates.io/crates/launchpad-updater) | 2026.1123.1 | 0 | Desktop self-update from a launchpad server: signed release checks, streamed do… |
-| 2026-11-23 22:29:12 | [paraviz](https://crates.io/crates/paraviz) | 0.2.6 | 0 | ParaView rewritten in Rust using WebGPU (wgpu) for scientific visualization |
-| 2026-11-23 22:29:49 | [llama-cpp-params](https://crates.io/crates/llama-cpp-params) | 0.30.0 | 0 | Configures a llama.cpp load: model params, context params, and fitting both to… |
-| 2026-11-23 22:34:24 | [binbun-x86](https://crates.io/crates/binbun-x86) | 0.1.0 | 0 | x86 and x86-64 instruction decoder generated from Intel XED's datafiles. |
-| 2026-11-23 22:34:26 | [binbun-disasm](https://crates.io/crates/binbun-disasm) | 0.1.0 | 0 | Decode and inspect x86 and AArch64 instructions through one API. |
-| 2026-11-23 22:39:52 | [llama-cpp-model](https://crates.io/crates/llama-cpp-model) | 0.30.0 | 0 | A loaded llama.cpp model and what it holds: its file's metadata, vocabulary and… |
-| 2026-11-23 22:41:12 | [paraviz-app](https://crates.io/crates/paraviz-app) | 0.2.7 | 0 | Interactive ParaView-style WebGPU desktop application and headless CLI renderer… |
-| 2026-11-23 22:44:33 | [f_aicv](https://crates.io/crates/f_aicv) | 0.1.1 | 0 | A Rust-based engine for the novel AI Video Infinite Canvas Vector (*.aicv) inte… |
-| 2026-11-23 22:45:14 | [binbun-capi](https://crates.io/crates/binbun-capi) | 0.1.0 | 0 | C and C++ API of binbun (libbinbun): its x86 and AArch64 disassemblers. |
-| 2026-11-23 22:47:45 | [castra-core](https://crates.io/crates/castra-core) | 0.1.0-alpha.2 | 0 | The foundation of Castra's runtime: the types its layers share, starting with t… |
-| 2026-11-23 22:47:46 | [castra-protocol](https://crates.io/crates/castra-protocol) | 0.1.0-alpha.2 | 0 | The protocol Castra's crates and tools share: URLs, hydration markers, attribut… |
-| 2026-11-23 22:49:50 | [llama-cpp-context](https://crates.io/crates/llama-cpp-context) | 0.30.0 | 0 | Running a llama.cpp model in a context: its limits, building batches and handin… |
-| 2026-11-23 22:53:37 | [rein-core](https://crates.io/crates/rein-core) | 0.1.4 | 0 | Parser, checker and step runner of Rein, a language for agent processes. |
-| 2026-11-23 22:56:05 | [binbun-x86-lift](https://crates.io/crates/binbun-x86-lift) | 0.1.0 | 0 | Lifts x86 and x86-64 instructions to binbun's instruction semantics. |
-| 2026-11-23 22:59:52 | [llama-cpp-context-memory](https://crates.io/crates/llama-cpp-context-memory) | 0.30.0 | 0 | Editing the KV memory of a llama.cpp context: shifting, dividing, copying, keep… |
-| 2026-11-23 23:06:56 | [binbun](https://crates.io/crates/binbun) | 0.1.0 | 0 | Disassembler and decompiler engine. |
-| 2026-11-23 23:08:17 | [akousma-core](https://crates.io/crates/akousma-core) | 0.1.0 | 0 | Core I/O, bit readers and shared types for the Akousma audio decoding library |
-| 2026-11-23 23:09:05 | [akousma-meta](https://crates.io/crates/akousma-meta) | 0.1.0 | 0 | Read-only parsers of ID3v1, APE, Lyrics3 and RIFF INFO tags for the Akousma aud… |
-| 2026-11-23 23:09:49 | [llama-cpp-context-state](https://crates.io/crates/llama-cpp-context-state) | 0.30.0 | 0 | Saving and restoring the state of a llama.cpp context: session files, sequence… |
-| 2026-11-23 23:09:54 | [akousma-wav](https://crates.io/crates/akousma-wav) | 0.1.0 | 0 | WAVE demuxer (RIFF, RIFX, RF64, BW64, Sony Wave64) and IMA and Microsoft ADPCM… |
-| 2026-11-23 23:10:41 | [akousma](https://crates.io/crates/akousma) | 0.1.0 | 0 | Audio decoding library in pure Rust: containers, codecs and tags, without depen… |
-| 2026-11-23 23:10:55 | [tpt-algo-fraud](https://crates.io/crates/tpt-algo-fraud) | 0.0.0 | 0 | Anomaly scoring with seeded Isolation Forests |
-| 2026-11-23 23:10:58 | [tpt-algo-soc](https://crates.io/crates/tpt-algo-soc) | 0.0.0 | 0 | Battery state-of-charge estimation via Extended Kalman Filter (RC equivalent ci… |
-| 2026-11-23 23:11:01 | [tpt-algo-orderbook](https://crates.io/crates/tpt-algo-orderbook) | 0.0.0 | 0 | Limit order book simulation with price-time priority matching, VWAP and spread |
-| 2026-11-23 23:11:05 | [tpt-algo-routing](https://crates.io/crates/tpt-algo-routing) | 0.0.0 | 0 | Vehicle routing (CVRP) construction and local search |
-| 2026-11-23 23:11:08 | [tpt-algo-swarm](https://crates.io/crates/tpt-algo-swarm) | 0.0.0 | 0 | Velocity-obstacle collision avoidance and grid path planning for multi-agent sy… |
-| 2026-11-23 23:13:55 | [hyperlane-plugin-negotiate](https://crates.io/crates/hyperlane-plugin-negotiate) | 22.8.2 | 0 | A response negotiation plugin for the Hyperlane framework, answering with the c… |
-| 2026-11-23 23:14:18 | [tpt-algo-consensus](https://crates.io/crates/tpt-algo-consensus) | 0.0.0 | 0 | Deterministic BFT consensus state machine (HotStuff-family), fixed-point only |
-| 2026-11-23 23:17:46 | [binbun-session](https://crates.io/crates/binbun-session) | 0.1.0 | 0 | binbun's engine for interactive tools, with background analysis, projects and u… |
-| 2026-11-23 23:19:52 | [llama-cpp-mtmd](https://crates.io/crates/llama-cpp-mtmd) | 0.30.0 | 0 | The llama.cpp multimodal projector: loading it, decoding media into bitmaps, to… |
+| 2026-11-23 23:22:20 | [seqa_api](https://crates.io/crates/seqa_api) | 0.1.0 | 0 | Request and response types, notes storage and URI checks shared by the seqa bac… |
+| 2026-11-23 23:23:22 | [aidaemon-remote](https://crates.io/crates/aidaemon-remote) | 0.22.1 | 0 | Remote access for aidaemon over iroh: the owner's apps reach the daemon's gatew… |
+| 2026-11-23 23:23:28 | [aidaemon-shells](https://crates.io/crates/aidaemon-shells) | 0.22.1 | 0 | Conversation shells for aidaemon: one pseudo-terminal per conversation, started… |
+| 2026-11-23 23:28:36 | [binbun-sync](https://crates.io/crates/binbun-sync) | 0.1.0 | 0 | binbun's collaboration sync protocol as a state machine without I/O: signed hea… |
+| 2026-11-23 23:28:55 | [omnia-wasi-types](https://crates.io/crates/omnia-wasi-types) | 0.38.0 | 0 | The WASI types every Omnia interface shares |
+| 2026-11-23 23:29:50 | [llama-cpp-sampler](https://crates.io/crates/llama-cpp-sampler) | 0.30.0 | 0 | Sampling the next token from a llama.cpp context: sampler chains, the samplers… |
+| 2026-11-23 23:30:19 | [rcompat-numeric](https://crates.io/crates/rcompat-numeric) | 0.1.1 | 0 | R-compatible probability tails, quantiles, special functions, and reproducible… |
+| 2026-11-23 23:30:24 | [rcompat-formula](https://crates.io/crates/rcompat-formula) | 0.1.1 | 0 | Build R-style model matrices in Rust from formulas, factor contrasts, interacti… |
+| 2026-11-23 23:30:43 | [rcompat-shrinkage](https://crates.io/crates/rcompat-shrinkage) | 0.1.1 | 0 | Empirical Bayes shrinkage in Rust with ashr-style adaptive mixtures and apeglm-… |
+| 2026-11-23 23:35:42 | [asterope-core](https://crates.io/crates/asterope-core) | 0.1.0 | 0 | Star tracker simulation, centroiding, lost-in-space identification and attitude… |
+| 2026-11-23 23:35:43 | [asterope-io](https://crates.io/crates/asterope-io) | 0.1.0 | 0 | Image container parsing for Asterope (FITS primary HDU) |
+| 2026-11-23 23:35:45 | [asterope-cli](https://crates.io/crates/asterope-cli) | 0.1.0 | 0 | Command-line star tracker: solve frames, simulate them, build onboard indexes,… |
+| 2026-11-23 23:35:46 | [asterope-ffi](https://crates.io/crates/asterope-ffi) | 0.1.0 | 0 | C interface to the Asterope star tracker |
+| 2026-11-23 23:39:24 | [binbun-collab](https://crates.io/crates/binbun-collab) | 0.1.0 | 0 | End-to-end encrypted sync of binbun projects between collaborators. |
+| 2026-11-23 23:39:54 | [llama-cpp-chat](https://crates.io/crates/llama-cpp-chat) | 0.30.0 | 0 | Chat sessions rendered by a llama.cpp model's chat template: the prompt, the gr… |
+| 2026-11-23 23:43:06 | [switchyard-costs](https://crates.io/crates/switchyard-costs) | 0.4.0 | 0 | Shared token pricing and recorded cost totals for Switchyard |
+| 2026-11-23 23:50:14 | [binbun-cli](https://crates.io/crates/binbun-cli) | 0.1.0 | 0 | The binbun command-line disassembler and decompiler. |
+| 2026-11-23 23:51:26 | [komainu-jose](https://crates.io/crates/komainu-jose) | 0.1.0-alpha.3 | 0 | A small JOSE implementation (JWS, JWK, JWT with RS256 and ES256) for komainu |
+| 2026-11-23 23:57:49 | [m4a](https://crates.io/crates/m4a) | 0.1.0 | 0 | Pure Rust, zero-dependency parser, software synthesizer, and mGBA ARM golden-te… |
+| 2026-11-24 00:01:50 | [krawall](https://crates.io/crates/krawall) | 0.1.0 | 0 | Pure Rust, zero-dependency parser, software synthesizer, and golden-tested emul… |
+| 2026-11-24 00:02:00 | [wit-bindgen-wrpc-js](https://crates.io/crates/wit-bindgen-wrpc-js) | 0.1.0-rc.1 | 0 | JavaScript bindings generator for wRPC |
+| 2026-11-24 00:08:16 | [gpui-koan-collections](https://crates.io/crates/gpui-koan-collections) | 0.2.1+zed.8fe6e58 | 0 | Standard collection types used by Zed and GPUI (gpui-koan snapshot of zed@8fe6e… |
+| 2026-11-24 00:08:17 | [gpui-koan-reqwest-client](https://crates.io/crates/gpui-koan-reqwest-client) | 0.2.1+zed.8fe6e58 | 0 | Zed's `reqwest_client` crate (gpui-koan snapshot of zed@8fe6e58) |
+| 2026-11-24 00:08:18 | [gpui-koan-zlog](https://crates.io/crates/gpui-koan-zlog) | 0.2.1+zed.8fe6e58 | 0 | Zed's `zlog` crate (gpui-koan snapshot of zed@8fe6e58) |
+| 2026-11-24 00:08:19 | [gpui-koan-ztracing](https://crates.io/crates/gpui-koan-ztracing) | 0.2.1+zed.8fe6e58 | 0 | Zed's `ztracing` crate (gpui-koan snapshot of zed@8fe6e58) |
+| 2026-11-24 00:08:21 | [gpui-koan-sum-tree](https://crates.io/crates/gpui-koan-sum-tree) | 0.2.1+zed.8fe6e58 | 0 | A sum tree data structure, a concurrency-friendly B-tree (gpui-koan snapshot of… |
+| 2026-11-24 00:09:16 | [gpui-koan](https://crates.io/crates/gpui-koan) | 0.2.1+zed.8fe6e58 | 0 | Zed's GPU-accelerated UI framework (gpui-koan snapshot of zed@8fe6e58) |
+| 2026-11-24 00:11:23 | [tpt-algo-cli](https://crates.io/crates/tpt-algo-cli) | 0.0.2 | 0 | Command-line front end (`tpt`) for the tpt-algorithms crates: CSV/JSON in, JSON… |
+| 2026-11-24 00:13:39 | [mem-in-black](https://crates.io/crates/mem-in-black) | 0.3.0 | 0 | We remember so your agents don't have to. Local memory for coding agents. |
+| 2026-11-24 00:16:11 | [preinstantiate](https://crates.io/crates/preinstantiate) | 0.1.0 | 0 | Compile a crate's async functions ahead of time in separate crates, to speed up… |
+| 2026-11-24 00:17:23 | [moldette-sidecar](https://crates.io/crates/moldette-sidecar) | 0.6.0 | 0 | HTTP sidecar that runs one moldette configuration over streamed records |
 
 ## Data source
 
