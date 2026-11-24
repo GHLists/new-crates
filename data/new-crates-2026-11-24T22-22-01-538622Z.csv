@@ -1,0 +1,75 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-24T21:19:06.471281Z,strig-server,0.6.1,0,0,https://github.com/The-Hades-Organization/Strig,"Fail-closed HTTP decision service for Strig, with a Rust client that has a circuit breaker."
+2026-11-24T21:20:37.444682Z,datastreamdb-graphql,0.1.0,0,0,,"GraphQL layer: schema-gen, auth, resolve, subscribe."
+2026-11-24T21:21:37.892552Z,capyshield-policy,0.1.2,0,0,https://github.com/capyshield-hq/capyshield,capyshield.yaml parser and validator
+2026-11-24T21:21:38.38364Z,capyshield-reach,0.1.2,0,0,https://github.com/capyshield-hq/capyshield,Lockfile and import-graph reachability for Node.js and Python
+2026-11-24T21:21:38.760265Z,capyshield-sync,0.1.2,0,0,https://github.com/capyshield-hq/capyshield,Optional CapyShield Cloud sync client
+2026-11-24T21:21:39.485633Z,capyshield-scanner,0.1.2,0,0,https://github.com/capyshield-hq/capyshield,"Deterministic secret, ENV fingerprint, entropy and PII scanner"
+2026-11-24T21:21:39.705978Z,capyshield-vex,0.1.2,0,0,https://github.com/capyshield-hq/capyshield,"Trivy/Grype ingestion, local VEX rules and OpenVEX v0.2 output"
+2026-11-24T21:24:21.266068Z,ironchrono,0.4.46,0,0,https://github.com/nervosys/IronChrono,"Maintained, agentic-first successor to chrono: a drop-in replacement with the same API"
+2026-11-24T21:24:23.114762Z,ironchrono-cli,0.4.46,0,0,https://github.com/nervosys/IronChrono,"IronChrono for agents: parse, format, convert and reason about time as JSON, on the command line or over MCP"
+2026-11-24T21:24:30.468834Z,dreamer-client,0.10.0,0,0,https://github.com/probablyrobot/dreamer,"Connects to dreamerd: handshake, typed calls, ensure-running"
+2026-11-24T21:24:32.491887Z,haus-fmt-schema,0.2.0,0,0,https://github.com/betalyra/haus-fmt,"haus schema files: parse, resolve and check them, and check data against them at runtime"
+2026-11-24T21:24:34.412785Z,haus-fmt-build,0.2.0,0,0,https://github.com/betalyra/haus-fmt,"Rust types from haus schemas, generated in build.rs"
+2026-11-24T21:24:35.48444Z,haus-fmt-cli,0.2.0,0,0,https://github.com/betalyra/haus-fmt,"The haus command line: check data against schemas, format, canonical form and hashes"
+2026-11-24T21:24:37.791065Z,haus-fmt-geo,1.0.0,0,0,https://github.com/betalyra/haus-fmt,@haus-fmt/geo: Points and boxes on the earth (a haus schema package)
+2026-11-24T21:24:38.559312Z,haus-fmt-money,1.0.0,0,0,https://github.com/betalyra/haus-fmt,@haus-fmt/money: Exact amounts with a currency (a haus schema package)
+2026-11-24T21:29:56.879978Z,rne_planning,0.4.0,0,0,https://github.com/rsasaki0109/RobotNativeEngine,Backend-neutral joint-space motion planning for Robot Native Engine
+2026-11-24T21:31:12.535394Z,hazard3-ssd1306-graphics,0.2.4,0,0,https://github.com/jorgeandrecastro/hazard3-ssd1306-graphics,"no_std graphics primitives for SSD1306 OLED displays, adding lines, circles, ellipses, triangles, and Bézier curves without unsafe code or allocation"
+2026-11-24T21:31:15.927558Z,datastreamdb-raft,0.1.0,0,0,,"Consensus, WAL, membership, and internode transport."
+2026-11-24T21:32:39.080197Z,haus-fmt-uuid,1.0.0,0,0,https://github.com/betalyra/haus-fmt,@haus-fmt/uuid: Universally unique identifiers (a haus schema package)
+2026-11-24T21:33:37.471096Z,egui-workbench-agent,0.15.0,0,0,https://github.com/jigonzalez930209/egui-workbench,"MCP server, permissions, accessibility tree, and automation for egui-workbench."
+2026-11-24T21:34:38.5908Z,pg_bolt,0.1.0,0,0,https://github.com/craton-co/pg-bolt,PostgreSQL extension for GPU-accelerated analytical SQL via craton-bolt
+2026-11-24T21:36:03.372114Z,dreamer-workspace-config,0.10.0,0,0,https://github.com/probablyrobot/dreamer,"Declarative workspace layouts: config directory, YAML schema, validation, and plans"
+2026-11-24T21:36:13.270223Z,capyshield-proxy,0.1.2,0,0,https://github.com/capyshield-hq/capyshield,Local egress forward proxy with SNI and TLS MITM inspection
+2026-11-24T21:41:27.584471Z,rne_sensor,0.4.0,0,0,https://github.com/rsasaki0109/RobotNativeEngine,Sensor framework for Robot Native Engine
+2026-11-24T21:41:48.697041Z,dreamer-tmux-backend,0.10.0,0,0,https://github.com/probablyrobot/dreamer,"tmux control-mode connection, inventory, and pane bootstrap"
+2026-11-24T21:43:07.907739Z,datastreamdb-worker,0.1.0,0,0,,"Tablet serving: predicates, mutations, backup, CDC."
+2026-11-24T21:43:29.80498Z,hazard3-ssd1306-3d,0.2.2,0,0,https://github.com/jorgeandrecastro/hazard3-ssd1306-3d,A no_std wireframe 3D engine for SSD1306 OLED displays in the Hazard3 async ecosystem
+2026-11-24T21:46:28.251101Z,capyshield,0.1.2,0,0,https://github.com/capyshield-hq/capyshield,Deterministic zero-trust egress guard and local VEX/reachability engine
+2026-11-24T21:47:39.792645Z,hydra-raft-proto,0.7.0-hydra.1,0,0,https://github.com/javaquasar/raft-rs,Temporary HydraCache fork of raft-proto for Rust 1.88 registry compatibility
+2026-11-24T21:47:50.175271Z,hydra-sled,0.34.7-hydra.1,0,0,https://github.com/javaquasar/sled,Temporary HydraCache fork of sled for Rust 1.88 registry compatibility
+2026-11-24T21:48:08.30314Z,hydra-sqlx-sqlite,0.8.6-hydra.1,0,0,https://github.com/javaquasar/sqlx,Temporary HydraCache fork of sqlx-sqlite for Rust 1.88 registry compatibility
+2026-11-24T21:48:26.55011Z,hydra-raft,0.7.0-hydra.1,0,0,https://github.com/javaquasar/raft-rs,Temporary HydraCache fork of raft for Rust 1.88 registry compatibility
+2026-11-24T21:48:47.724422Z,hydra-sqlx-macros-core,0.8.6-hydra.1,0,0,https://github.com/launchbadge/sqlx,"Macro support core for SQLx, the Rust SQL toolkit. Not intended to be used directly."
+2026-11-24T21:49:21.306279Z,topcoat-prompt,0.1.1,0,0,https://github.com/joseph-ruskiewicz/topcoat-prompt,"AI chat components for Topcoat, installed with `topcoat ui add --registry topcoat-prompt`."
+2026-11-24T21:50:20.584627Z,tendril-core,0.1.0,0,0,https://github.com/agync/tendril,"Core identity, pairing, sealed session, grant, and path-policy primitives for Tendril."
+2026-11-24T21:50:23.438469Z,tendril-relay,0.1.0,0,0,https://github.com/agync/tendril,Stateless WebSocket ciphertext relay implementing Tendril relay-v1.
+2026-11-24T21:50:24.41817Z,tendril-wasm,0.1.0,0,0,https://github.com/agync/tendril,Sans-I/O WebAssembly core bindings over tendril-core via wasm-bindgen.
+2026-11-24T21:50:26.634776Z,tendril-runtime,0.1.0,0,0,https://github.com/agync/tendril,"Async Tokio runtime, path providers, rate limits, and persistence for Tendril."
+2026-11-24T21:50:29.520354Z,tendril-cli,0.1.0,0,0,https://github.com/agync/tendril,Tendril reference CLI and JSON conformance driver binary.
+2026-11-24T21:52:39.312962Z,hydra-sqlx-macros,0.8.6-hydra.1,0,0,https://github.com/launchbadge/sqlx,"Macros for SQLx, the rust SQL toolkit. Not intended to be used directly."
+2026-11-24T21:53:10.269279Z,dreamer-workspace-host,0.10.0,0,0,https://github.com/probablyrobot/dreamer,"Typed actions, the action ledger, and topology for dreamerd"
+2026-11-24T21:53:15.915755Z,rne_adapter_ros2,0.4.0,0,0,https://github.com/rsasaki0109/RobotNativeEngine,ROS2 adapter mappings for Robot Native Engine
+2026-11-24T21:54:39.81937Z,datastreamdb-frontend,0.1.0,0,0,,"Request orchestration: HTTP/gRPC serving, auth, admin."
+2026-11-24T21:58:27.463807Z,trailhound-engine,0.1.0,0,0,https://github.com/multi-api/trailhound,"Low-memory, multi-tenant search engine core used by Trailhound."
+2026-11-24T21:58:44.774004Z,ibid-core,0.1.0,0,0,https://github.com/Danpythonman/ibid,"Domain model, lenient BibTeX parser and writer, cite keys, search and sync merge logic for the ibid reference manager"
+2026-11-24T21:58:46.528022Z,ibid-proto,0.1.0,0,0,https://github.com/Danpythonman/ibid,"Wire types of the ibid sync protocol, shared by the client and the server"
+2026-11-24T21:58:46.921756Z,ibid-store,0.1.0,0,0,https://github.com/Danpythonman/ibid,"SQLite library store, attachment blobs and PDF full-text index for the ibid reference manager"
+2026-11-24T21:58:47.993579Z,ibid-server,0.1.0,0,0,https://github.com/Danpythonman/ibid,Self-hosted single-user sync server for the ibid reference manager
+2026-11-24T21:58:49.794408Z,ibid-sync,0.1.0,0,0,https://github.com/Danpythonman/ibid,Sync client engine (HTTP + WebSocket live updates) for the ibid reference manager
+2026-11-24T21:58:52.604575Z,trailhound,0.1.0,0,0,https://github.com/multi-api/trailhound,"Low-memory, multi-tenant search server with a Meilisearch-compatible API."
+2026-11-24T21:59:30.951781Z,equo,0.0.1,0,0,https://github.com/equo-rs/equo,"Institutional open access repository written in Rust (OAI-PMH, IIIF, SWORD). Repositorio abierto desde Ecuador, la Mitad del Mundo."
+2026-11-24T21:59:52.476943Z,monore,0.0.0,0,0,,monore: placeholder for an upcoming release.
+2026-11-24T22:02:31.190171Z,tendril-ffi,0.1.0,0,0,https://github.com/agync/tendril,Callback-free polled C ABI over tendril-core and tendril-runtime.
+2026-11-24T22:02:39.499723Z,hydra-sqlx,0.8.6-hydra.1,0,0,https://github.com/javaquasar/sqlx,Temporary HydraCache fork of sqlx for Rust 1.88 registry compatibility
+2026-11-24T22:04:26.671805Z,dreamer-cli,0.10.0,0,0,https://github.com/probablyrobot/dreamer,Dreamer command-line interface
+2026-11-24T22:04:43.169166Z,rne_urdf_import,0.4.0,0,0,https://github.com/rsasaki0109/RobotNativeEngine,Minimal URDF importer for Robot Native Engine
+2026-11-24T22:04:44.972358Z,rne_assets,0.4.0,0,0,https://github.com/rsasaki0109/RobotNativeEngine,"RNE scene, robot, and run manifest asset formats"
+2026-11-24T22:05:18.19325Z,datastreamdb-ffi,0.1.0,0,0,,Stable C ABI: instance handles for any language.
+2026-11-24T22:05:30.901647Z,fue,0.1.1,0,0,https://github.com/dblock/fue-rs,Find e-mail addresses of GitHub users and repository contributors.
+2026-11-24T22:05:55.128294Z,ibid,0.1.0,0,0,https://github.com/Danpythonman/ibid,"A terminal reference manager: BibTeX, PDFs, tags, search, and optional self-hosted sync"
+2026-11-24T22:05:59.069248Z,falx,0.1.0,0,0,https://github.com/jackroddy/falx,almost LaTeX: typesets documents written in a strict subset of LaTeX
+2026-11-24T22:06:05.295931Z,falx-cli,0.1.0,0,0,https://github.com/jackroddy/falx,the falx command: checks falx documents and renders them to PDF
+2026-11-24T22:06:14.469892Z,falx-gui,0.1.0,0,0,https://github.com/jackroddy/falx,"a viewer for falx documents: the render of a file, redrawn when the file is saved"
+2026-11-24T22:07:46.402582Z,egui-workbench-extensions,0.15.0,0,0,https://github.com/jigonzalez930209/egui-workbench,"Sandboxed WebAssembly extensions for egui-workbench: manifests, capabilities, host API, manager, and hot reload."
+2026-11-24T22:08:03.483211Z,graft-rules-core,4.0.0,0,0,https://github.com/ayaan-cs/graft,"Engine for graft: hash-chained lineage log, benchmark runs, verdicts and model providers"
+2026-11-24T22:08:14.481233Z,graft-rules-watch,4.0.0,0,0,https://github.com/ayaan-cs/graft,Terminal view (ratatui) that follows a graft lineage log live
+2026-11-24T22:08:20.236338Z,graft-rules,4.0.0,0,0,https://github.com/ayaan-cs/graft,"Evolve a repo's agent rules file (AGENTS.md, CLAUDE.md) against the repo's own tasks, with a hash-chained lineage log. The command is `graft`."
+2026-11-24T22:12:54.473355Z,acre-cli,0.1.0,0,0,https://github.com/jackroddy/acre,the acre command: checks and renders drawings written in acre's language
+2026-11-24T22:13:02.875283Z,acre-gui,0.1.0,0,0,https://github.com/jackroddy/acre,"a viewer for acre drawings: the render of a file, or of what an editor sends, updated as it changes"
+2026-11-24T22:15:41.996021Z,datastreamdb-xidmap,0.1.0,0,0,,"External-ID to UID map (concurrent, persistent)."
+2026-11-24T22:16:22.404456Z,rne_ai,0.4.0,0,0,https://github.com/rsasaki0109/RobotNativeEngine,"Episode API, rewards, and policy traits for Robot Native Engine"
+2026-11-24T22:19:20.50475Z,open-diagram-rs,0.1.0,0,0,https://github.com/Orrae-Labs/open-diagram-rs,Building blocks for dense architecture diagrams that check their own layout.
+2026-11-24T22:19:28.061883Z,open-diagram-rs-cli,0.1.0,0,0,https://github.com/Orrae-Labs/open-diagram-rs,Draw and check architecture diagrams from JSON or Mermaid.
+2026-11-24T22:19:47.392852Z,open-diagram-rs-mcp,0.1.0,0,0,https://github.com/Orrae-Labs/open-diagram-rs,MCP server that draws architecture diagrams from JSON or Mermaid.
