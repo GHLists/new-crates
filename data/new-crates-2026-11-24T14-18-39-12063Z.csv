@@ -1,0 +1,57 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-24T13:19:54.032212Z,rs-yaml,0.1.1,0,0,https://github.com/codixor/rs-yaml,"YAML parsing, emission, formatting and source-aware diagnostics"
+2026-11-24T13:20:39.095144Z,nsh-device-info,0.1.0,0,0,https://github.com/SuperNSH/device-info,"Device model, OS version and app version for Native Shell apps: the raw model identifier, the OS's own numbers and the app's build metadata, on iOS, Android, macOS, Windows, Linux and the web"
+2026-11-24T13:22:13.162425Z,nsh-share,0.1.0,0,0,https://github.com/SuperNSH/share,"Outbound share of text, URLs, files and images, and inbound share into the app."
+2026-11-24T13:22:14.916048Z,blitz-vibey-cdp-server,0.3.0-beta.5,0,0,https://github.com/dioxuslabs/blitz,Chrome DevTools Protocol server implementation
+2026-11-24T13:22:56.441023Z,spatie-temporary-directory,1.0.0,0,0,https://github.com/spatie/temporary-directory-rust,"Quickly create, use and delete temporary directories"
+2026-11-24T13:23:13.790794Z,rtci-rtcp,0.1.0,0,0,https://github.com/Brainwires/rtci,"RTCP packet parsing and serialization (RFC 3550, RFC 4585, RFC 5104, RFC 3611, RFC 8888) for WebRTC"
+2026-11-24T13:24:57.126615Z,nsh-microphone,0.1.0,0,0,https://github.com/SuperNSH/microphone,Recording to file or stream for Native Shell apps: voice notes and level meters. Not speech-to-text.
+2026-11-24T13:26:38.308484Z,zrun-io,0.1.0-p0.2,0,0,https://github.com/LIghtJUNction/zrun,Asynchronous socket and descriptor readiness for zrun
+2026-11-24T13:26:39.54973Z,zrun-sync,0.1.0-p0.2,0,0,https://github.com/LIghtJUNction/zrun,Asynchronous one-shot channels for zrun
+2026-11-24T13:26:41.281957Z,zrun-task,0.1.0-p0.2,0,0,https://github.com/LIghtJUNction/zrun,"Task allocation, wakeups and join handles for zrun"
+2026-11-24T13:26:42.080331Z,zrun-time,0.1.0-p0.2,0,0,https://github.com/LIghtJUNction/zrun,Bounded asynchronous timers for zrun
+2026-11-24T13:26:48.087855Z,zrun-executor,0.1.0-p0.2,0,0,https://github.com/LIghtJUNction/zrun,Bounded single-thread and pool executors for zrun
+2026-11-24T13:27:52.516059Z,merry-mcp,0.1.0,0,0,https://github.com/locez/merry,Model Context Protocol (MCP) HTTP client adapter for the Merry agent runtime.
+2026-11-24T13:29:41.68326Z,cimvocabcheck,1.3.0-rc.1,0,0,https://github.com/SOPTIM/OpenCGMES,Validate SPARQL queries and SHACL shapes against CIM/CGMES schema profiles.
+2026-11-24T13:31:28.150089Z,zrun,0.1.0-p0.2,0,0,https://github.com/LIghtJUNction/zrun,An independent Rust async runtime: correctness-first P0
+2026-11-24T13:32:56.62443Z,spatie-browsershot,1.0.0,0,0,https://github.com/spatie/browsershot-rust,"Convert HTML to an image, PDF or string"
+2026-11-24T13:33:27.278224Z,rtci-rtp,0.1.0,0,0,https://github.com/Brainwires/rtci,"RTP packets, header extensions (RFC 3550, RFC 8285) and codec payload formats for WebRTC"
+2026-11-24T13:34:06.784069Z,nsh-background,0.1.0,0,0,https://github.com/SuperNSH/background,"Periodic and deferred work while the app is backgrounded, within OS limits."
+2026-11-24T13:36:42.497885Z,zharp,0.1.0,0,0,https://github.com/zharp-io/zharp-rust-lib,"Zharp Application Monitoring for Rust: errors and panics with their stacks, traces, failed queries and logs, over OpenTelemetry."
+2026-11-24T13:38:35.18512Z,gluesql-slatedb-storage,0.21.0,0,0,https://github.com/gluesql/gluesql,"GlueSQL - Open source SQL database engine fully written in Rust with pure functional execution layer, easily swappable storage and web assembly support!"
+2026-11-24T13:38:35.346737Z,gluesql-sqlite-storage,0.21.0,0,0,https://github.com/gluesql/gluesql,"GlueSQL - Open source SQL database engine fully written in Rust with pure functional execution layer, easily swappable storage and web assembly support!"
+2026-11-24T13:40:11.20248Z,sorcerer-spellbook,0.2.0,0,0,https://github.com/sorcererdev/sorcerer,"Spellbook: a project's conventions as data — generators with holes, and rules that check them"
+2026-11-24T13:41:48.190154Z,splats,0.1.1,0,0,https://github.com/richardmonette/splats,"Read, write and transform 3D Gaussian splat files"
+2026-11-24T13:41:50.116219Z,splats-cli,0.1.1,0,0,https://github.com/richardmonette/splats,"Command-line tool to inspect, convert and clean up 3D Gaussian splat files"
+2026-11-24T13:42:23.042113Z,tessera-accesskit-android,0.9.2,0,0,https://github.com/tessera-ui/tessera-accesskit,AccessKit UI accessibility infrastructure: Android adapter
+2026-11-24T13:42:41.522061Z,tessera-accesskit-ios,0.2.3,0,0,https://github.com/tessera-ui/tessera-accesskit,AccessKit UI accessibility infrastructure: iOS adapter
+2026-11-24T13:43:45.306198Z,rtci-interceptor,0.1.0,0,0,https://github.com/Brainwires/rtci,"Sans-I/O RTP/RTCP interceptor pipeline for WebRTC: RTCP reports, NACK, TWCC, congestion control, pacing, FEC"
+2026-11-24T13:47:47.954105Z,merry-process,0.1.0,0,0,https://github.com/locez/merry,"Sandboxed host-process execution (Landlock/seccomp, Seatbelt, Windows Job Objects) for Merry."
+2026-11-24T13:48:10.73749Z,nsh-query,0.1.0,0,0,https://github.com/SuperNSH/query,"TanStack Query-style async state for Native Shell Rust apps, on the gpui-query core state machine"
+2026-11-24T13:48:53.858741Z,demangler,0.1.0,0,0,https://github.com/polazarus/demangler,A universal demangler for binary symbol names written in pure Rust.
+2026-11-24T13:50:53.176989Z,singe-testing,0.1.0-alpha.3,0,0,https://github.com/tinrab/singe,Testing utilities for Singe.
+2026-11-24T13:51:01.175501Z,singe-cli,0.1.0-alpha.3,0,0,https://github.com/tinrab/singe,Command-line tools for Singe.
+2026-11-24T13:51:05.268597Z,giong-cli,1.4.2,0,0,https://github.com/giong-run/Giong,"The giong command: start, run, check and ship services on the Gióng async runtime"
+2026-11-24T13:51:12.603098Z,merry-tools,0.1.0,0,0,https://github.com/locez/merry,"Workspace file, search, patch, web fetch, and document tools for the Merry agent runtime."
+2026-11-24T13:51:16.453024Z,sorark-ir,0.4.0,0,0,https://github.com/sorark-labs/sorark,"Normalized Soroban contract intermediate representation, diagnostics, and configuration for SORARK"
+2026-11-24T13:51:53.864664Z,sorark-ast,0.4.0,0,0,https://github.com/sorark-labs/sorark,"Two-pass Rust AST static analyzer for Soroban storage tiers, state archival TTLs, and upgrade safety"
+2026-11-24T13:52:35.451464Z,sorark-wasm,0.4.0,0,0,https://github.com/sorark-labs/sorark,Soroban WebAssembly custom section (SEP-0048) XDR spec decoder and ledger byte budget analyzer
+2026-11-24T13:52:51.104924Z,sorark-diff,0.4.0,0,0,https://github.com/sorark-labs/sorark,Soroban contract storage-layout (ScVal/ScMap) and ABI upgrade compatibility diff engine
+2026-11-24T13:53:04.442069Z,eighty-one,0.1.1,0,0,https://github.com/lostbymidnight/81,The official interpreter for the 81 esolang
+2026-11-24T13:53:31.643839Z,sorark-cli,0.4.0,0,0,https://github.com/sorark-labs/sorark,"Command-line interface for SORARK: Soroban State Archival, Storage Safety, and Upgrade Compatibility Analyzer"
+2026-11-24T13:53:35.582094Z,nsh-bluetooth,0.1.0,0,0,https://github.com/SuperNSH/bluetooth,BLE central and peripheral roles for NSH apps.
+2026-11-24T13:53:57.016654Z,rtci-media,0.1.0,0,0,https://github.com/Brainwires/rtci,"Media samples and container readers and writers (IVF, Ogg Opus, H.264 / H.265 Annex B) for WebRTC"
+2026-11-24T13:57:10.017875Z,wiretypes-macro,0.1.0,0,0,https://github.com/endremborza/wiretypes,The #[wire] attribute of the wiretypes crate
+2026-11-24T13:57:11.646794Z,wiretypes,0.1.0,0,0,https://github.com/endremborza/wiretypes,Rust types and constants as the single source of their TypeScript and Python definitions
+2026-11-24T13:59:20.952874Z,merry-coding,0.1.0,0,0,https://github.com/locez/merry,"Coding prompts, project rules, tool catalog, permission policy, and subagent orchestration for Merry."
+2026-11-24T14:03:44.096987Z,tessera-webview,0.1.0,0,0,https://github.com/tessera-ui/tessera-webview,Native WebView components and platform services for Tessera
+2026-11-24T14:03:46.712376Z,nsh-frameworks,0.1.0,0,0,https://github.com/SuperNSH/frameworks,Link prebuilt Apple frameworks (XCFrameworks) from nshm crates and embed the dynamic ones into Native Shell (NSH) app packages
+2026-11-24T14:04:12.821887Z,rtci-sctp,0.1.0,0,0,https://github.com/Brainwires/rtci,"Sans-I/O SCTP (RFC 9260) with partial reliability and stream reconfiguration, for WebRTC data channels"
+2026-11-24T14:04:45.653247Z,rglm-derive,0.1.0,0,0,https://github.com/rokuz/rglm,"Procedural macros for Vulkan Std140, Std430, and Scalar buffer layouts in rglm"
+2026-11-24T14:04:47.395571Z,rglm,0.1.0,0,0,https://github.com/rokuz/rglm,SIMD-accelerated linear algebra library faithful to C++ GLM and Vulkan GLSL 460
+2026-11-24T14:07:32.246845Z,unipeek-unity,0.1.0-alpha.2,0,0,https://github.com/vivi-shiki/unipeek,"Read Unity asset packages without a GPU: unitypackage index, Unity YAML, prefab and material binding."
+2026-11-24T14:07:35.583301Z,unipeek,0.1.0-alpha.2,0,0,https://github.com/vivi-shiki/unipeek,Preview Unity asset packages: toon-style thumbnails and reports for asset managers.
+2026-11-24T14:11:29.76487Z,nsh-platform-miniprogram,0.1.0,0,0,https://github.com/huacnlee/nsh-platform-miniprogram,A community-maintained NSH platform nshm: runs Native Shell apps in WeChat Mini Programs (`--target miniprogram`).
+2026-11-24T14:14:07.672601Z,nsh-wake-lock,0.1.0,0,0,https://github.com/SuperNSH/wake-lock,"Keep the screen or the machine awake while the app needs it, and release it reliably."
+2026-11-24T14:14:24.407921Z,rtci-datachannel,0.1.0,0,0,https://github.com/Brainwires/rtci,"WebRTC data channels and the Data Channel Establishment Protocol (RFC 8831, RFC 8832), sans-I/O"
+2026-11-24T14:18:08.225728Z,kakaotalk-ax,1.0.1,0,0,https://github.com/hyunseob/kakaotalk-ax,"Single native binary for KakaoTalk reading, navigation, and sending on macOS (AX) and Windows (Win32/WinRT) via CLI and MCP"
