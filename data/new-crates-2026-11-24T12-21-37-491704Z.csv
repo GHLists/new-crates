@@ -1,0 +1,29 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-24T11:22:39.848487Z,haest-gui,0.1.1,0,0,https://github.com/haest-werk/haest,"Experimental: a native window onto the haest sessions running on this machine, over their control sockets: the stream, a turn timeline, the subagent tree and one approval queue"
+2026-11-24T11:23:18.58894Z,untwist-libraries-core,0.6.0,0,0,https://github.com/Sorte1/untwist,"Small library fingerprint tables for untwist: regenerator-runtime, tslib, Babel and swc helpers"
+2026-11-24T11:23:23.753779Z,untwist-libraries-corejs,0.6.0,0,0,https://github.com/Sorte1/untwist,core-js 3 fingerprint table for untwist (every minor 3.0 to 3.51)
+2026-11-24T11:23:43.214393Z,untwist-types,0.6.0,0,0,https://github.com/Sorte1/untwist,Proven TypeScript and JSDoc annotations for untwist output
+2026-11-24T11:26:22.523568Z,themis-macros,0.4.0,0,0,https://github.com/The-Hades-Organization/Themis,Compile-time macros for the Themis policy language.
+2026-11-24T11:26:28.036943Z,singe-model,0.1.0-alpha.2,0,0,https://github.com/tinrab/singe,Model definitions built on Singe.
+2026-11-24T11:26:30.861497Z,singe-server,0.1.0-alpha.2,0,0,https://github.com/tinrab/singe,Singe model server.
+2026-11-24T11:26:40.243121Z,linuxutils-blkid,0.2.0,0,0,https://gitlab.com/rustutils/linuxutils,"Block device tag lookup (LABEL=, UUID= and others) using the udev /dev/disk/by-* symlinks"
+2026-11-24T11:26:40.775104Z,linuxutils-kmod,0.2.0,0,0,https://gitlab.com/rustutils/linuxutils,Kernel module utilities from linuxutils (not implemented yet)
+2026-11-24T11:26:41.445614Z,linuxutils-mount,0.2.0,0,0,https://gitlab.com/rustutils/linuxutils,"Parsers for mountinfo, fstab and swaps, and wrappers for the mount syscalls"
+2026-11-24T11:30:00.368897Z,themis-server,0.4.0,0,0,https://github.com/The-Hades-Organization/Themis,"Fail-closed HTTP decision service for Themis, with a Rust client that has a circuit breaker."
+2026-11-24T11:42:49.723304Z,openweather-onecall-sdk,1.0.1,0,0,https://github.com/MrUndead1996/openweather_mcp,"Async, typed Rust client for the OpenWeather One Call API 4.0"
+2026-11-24T11:50:34.308134Z,dreamer-api,0.9.0,0,0,https://github.com/probablyrobot/dreamer,"Dreamer's typed API: generated records, method table, and dispatch"
+2026-11-24T11:50:35.04872Z,dreamer-view-tree,0.9.0,0,0,https://github.com/probablyrobot/dreamer,"An app's view as a keyed tree of host components, with keyed diffs between versions"
+2026-11-24T11:50:37.281748Z,dreamer-app-protocol,0.9.0,0,0,https://github.com/probablyrobot/dreamer,The app process protocol: JSON lines between the app host and an app process
+2026-11-24T11:50:39.449885Z,dreamer-sdk,0.9.0,0,0,https://github.com/probablyrobot/dreamer,"Write Dreamer extensions and process apps in Rust: stdio JSON-RPC with typed calls and notifications, and a view builder with an event loop"
+2026-11-24T11:57:38.74048Z,electronic-patient-record-domain,0.1.0,0,0,,"Electronic patient record domain rules: policy, consent, referrals, pathways, observations and the rest, with no database and no web"
+2026-11-24T12:00:14.57206Z,pdfcer-ink,0.172.0,0,0,https://github.com/KenM76/pdfcer,"pdfcer in-ink compositing: paints, overprint and transparency groups composited into process and spot colorant planes, with total-area-coverage and rich-black rules. Pure Rust arithmetic; no GUI, pla…"
+2026-11-24T12:04:18.424049Z,coffrebox-core,0.1.0,0,0,https://github.com/brunosps/coffrebox-sdk,"Cryptography and formats of Coffrebox, a zero-knowledge secrets vault (no I/O, wasm32-ready)."
+2026-11-24T12:04:40.3356Z,coffrebox,0.1.0,0,0,https://github.com/brunosps/coffrebox-sdk,"Zero-knowledge secrets for Rust apps: read your Coffrebox vault, with an encrypted offline cache."
+2026-11-24T12:04:54.204599Z,coffrebox-cli,0.1.0,0,0,https://github.com/brunosps/coffrebox-sdk,"Command-line client for Coffrebox, a zero-knowledge secrets vault: run any program with your vault's secrets in its environment."
+2026-11-24T12:09:11.979984Z,rsforge,0.1.0,0,0,https://github.com/cross-toolchains/rsforge,"A deterministic, programmable build system and hermetic cross-compilation toolchain for Rust."
+2026-11-24T12:09:45.88723Z,whichdep,0.0.1,0,0,https://github.com/devel0mer/whichdep,Find which dependency update broke your build: delta debugging over lockfile changes
+2026-11-24T12:20:25.732175Z,harness-sync-core,0.1.0,0,0,https://github.com/GaijinEntertainment/harness-sync,"The item model, the comparison, and the commands of harness-sync, with the harness and storage traits"
+2026-11-24T12:20:28.203918Z,harness-sync-claude-code,0.1.0,0,0,https://github.com/GaijinEntertainment/harness-sync,The Claude Code harness of harness-sync
+2026-11-24T12:20:28.915121Z,harness-sync-git,0.1.0,0,0,https://github.com/GaijinEntertainment/harness-sync,The git and Gerrit storage kinds of harness-sync
+2026-11-24T12:20:29.615022Z,harness-sync-pi,0.1.0,0,0,https://github.com/GaijinEntertainment/harness-sync,The pi harness of harness-sync
+2026-11-24T12:20:32.516903Z,harness-sync,0.1.0,0,0,https://github.com/GaijinEntertainment/harness-sync,Sync the user-level setup of coding agent harnesses between machines through a git repo

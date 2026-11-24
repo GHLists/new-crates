@@ -8,30 +8,42 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-24 11:21 UTC
+## Latest list — 2026-11-24 12:21 UTC
 
-New crates published between 2026-11-24 10:18 UTC and 2026-11-24 11:21 UTC.
+New crates published between 2026-11-24 11:21 UTC and 2026-11-24 12:21 UTC.
 
-[Full CSV](data/new-crates-2026-11-24T11-21-28-896749Z.csv)
+[Full CSV](data/new-crates-2026-11-24T12-21-37-491704Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-24 10:22:38 | [hao-egui-overlay](https://crates.io/crates/hao-egui-overlay) | 0.1.0 | 0 | Engine-agnostic egui overlay via OpenGL/Vulkan swapchain hooks |
-| 2026-11-24 10:30:17 | [unrealkit](https://crates.io/crates/unrealkit) | 0.1.0 | 0 | Unreal Engine introspection primitives for game modding and reverse engineering |
-| 2026-11-24 10:30:30 | [cargo-msrv-table](https://crates.io/crates/cargo-msrv-table) | 0.20.0-beta.7 | 0 | Tables for the terminal output of cargo-msrv |
-| 2026-11-24 10:34:19 | [hydr-coupling](https://crates.io/crates/hydr-coupling) | 0.1.0 | 0 | Pool coupling for the hydr simulation crates |
-| 2026-11-24 10:36:34 | [hydr](https://crates.io/crates/hydr) | 0.1.0 | 0 | Hydrology and hydraulic simulation on numr runtimes |
-| 2026-11-24 10:46:33 | [bwsshd](https://crates.io/crates/bwsshd) | 1.0.1 | 0 | Keep your ssh_config in sync with the SSH keys stored in your Bitwarden vault |
-| 2026-11-24 11:01:14 | [nsh-platform-harmonyos](https://crates.io/crates/nsh-platform-harmonyos) | 0.1.0 | 0 | A community-maintained NSH platform: runs Native Shell apps on HarmonyOS and Op… |
-| 2026-11-24 11:03:37 | [happybirthdayvalera](https://crates.io/crates/happybirthdayvalera) | 0.1.0 | 0 | Voice input for Dioxus 0.7: a mic button and a waveform pill with local Whisper… |
-| 2026-11-24 11:12:00 | [charlotte_core](https://crates.io/crates/charlotte_core) | 0.1.0-beta.1 | 0 | Charlotte renderer: scene types, materials, lights, camera and the Renderer tra… |
-| 2026-11-24 11:12:24 | [sgl-webgpu](https://crates.io/crates/sgl-webgpu) | 0.10.0 | 0 | SGL's WebGPU backend for wgpu in the browser, ported from wgpu's own and plugge… |
-| 2026-11-24 11:13:19 | [charlotte_gltf](https://crates.io/crates/charlotte_gltf) | 0.1.0-beta.1 | 0 | glTF 2.0 / GLB loader for Charlotte, including Blender-exported punctual lights |
-| 2026-11-24 11:13:23 | [charlotte_d3d12](https://crates.io/crates/charlotte_d3d12) | 0.1.0-beta.1 | 0 | Direct3D 12 backend for Charlotte: PBR forward renderer with DXR 1.1 ray-traced… |
-| 2026-11-24 11:13:31 | [charlotte_vulkan](https://crates.io/crates/charlotte_vulkan) | 0.1.0-beta.1 | 0 | Experimental Vulkan 1.3 backend for Charlotte (device bring-up, swapchain, adap… |
-| 2026-11-24 11:13:54 | [sfe](https://crates.io/crates/sfe) | 0.2.0 | 0 | SCAMPER SFE is a set of C++17 libraries and command-line programs that bind a r… |
-| 2026-11-24 11:16:15 | [haest-acp](https://crates.io/crates/haest-acp) | 0.7.0 | 0 | haest as an Agent Client Protocol agent: an editor that speaks ACP (Zed, JetBra… |
-| 2026-11-24 11:16:57 | [charlotte-renderer](https://crates.io/crates/charlotte-renderer) | 0.1.0-beta.1 | 0 | Charlotte: a Direct3D 12 first PBR + ray tracing renderer for Rust (beta) |
+| 2026-11-24 11:22:39 | [haest-gui](https://crates.io/crates/haest-gui) | 0.1.1 | 0 | Experimental: a native window onto the haest sessions running on this machine,… |
+| 2026-11-24 11:23:18 | [untwist-libraries-core](https://crates.io/crates/untwist-libraries-core) | 0.6.0 | 0 | Small library fingerprint tables for untwist: regenerator-runtime, tslib, Babel… |
+| 2026-11-24 11:23:23 | [untwist-libraries-corejs](https://crates.io/crates/untwist-libraries-corejs) | 0.6.0 | 0 | core-js 3 fingerprint table for untwist (every minor 3.0 to 3.51) |
+| 2026-11-24 11:23:43 | [untwist-types](https://crates.io/crates/untwist-types) | 0.6.0 | 0 | Proven TypeScript and JSDoc annotations for untwist output |
+| 2026-11-24 11:26:22 | [themis-macros](https://crates.io/crates/themis-macros) | 0.4.0 | 0 | Compile-time macros for the Themis policy language. |
+| 2026-11-24 11:26:28 | [singe-model](https://crates.io/crates/singe-model) | 0.1.0-alpha.2 | 0 | Model definitions built on Singe. |
+| 2026-11-24 11:26:30 | [singe-server](https://crates.io/crates/singe-server) | 0.1.0-alpha.2 | 0 | Singe model server. |
+| 2026-11-24 11:26:40 | [linuxutils-blkid](https://crates.io/crates/linuxutils-blkid) | 0.2.0 | 0 | Block device tag lookup (LABEL=, UUID= and others) using the udev /dev/disk/by-… |
+| 2026-11-24 11:26:40 | [linuxutils-kmod](https://crates.io/crates/linuxutils-kmod) | 0.2.0 | 0 | Kernel module utilities from linuxutils (not implemented yet) |
+| 2026-11-24 11:26:41 | [linuxutils-mount](https://crates.io/crates/linuxutils-mount) | 0.2.0 | 0 | Parsers for mountinfo, fstab and swaps, and wrappers for the mount syscalls |
+| 2026-11-24 11:30:00 | [themis-server](https://crates.io/crates/themis-server) | 0.4.0 | 0 | Fail-closed HTTP decision service for Themis, with a Rust client that has a cir… |
+| 2026-11-24 11:42:49 | [openweather-onecall-sdk](https://crates.io/crates/openweather-onecall-sdk) | 1.0.1 | 0 | Async, typed Rust client for the OpenWeather One Call API 4.0 |
+| 2026-11-24 11:50:34 | [dreamer-api](https://crates.io/crates/dreamer-api) | 0.9.0 | 0 | Dreamer's typed API: generated records, method table, and dispatch |
+| 2026-11-24 11:50:35 | [dreamer-view-tree](https://crates.io/crates/dreamer-view-tree) | 0.9.0 | 0 | An app's view as a keyed tree of host components, with keyed diffs between vers… |
+| 2026-11-24 11:50:37 | [dreamer-app-protocol](https://crates.io/crates/dreamer-app-protocol) | 0.9.0 | 0 | The app process protocol: JSON lines between the app host and an app process |
+| 2026-11-24 11:50:39 | [dreamer-sdk](https://crates.io/crates/dreamer-sdk) | 0.9.0 | 0 | Write Dreamer extensions and process apps in Rust: stdio JSON-RPC with typed ca… |
+| 2026-11-24 11:57:38 | [electronic-patient-record-domain](https://crates.io/crates/electronic-patient-record-domain) | 0.1.0 | 0 | Electronic patient record domain rules: policy, consent, referrals, pathways, o… |
+| 2026-11-24 12:00:14 | [pdfcer-ink](https://crates.io/crates/pdfcer-ink) | 0.172.0 | 0 | pdfcer in-ink compositing: paints, overprint and transparency groups composited… |
+| 2026-11-24 12:04:18 | [coffrebox-core](https://crates.io/crates/coffrebox-core) | 0.1.0 | 0 | Cryptography and formats of Coffrebox, a zero-knowledge secrets vault (no I/O,… |
+| 2026-11-24 12:04:40 | [coffrebox](https://crates.io/crates/coffrebox) | 0.1.0 | 0 | Zero-knowledge secrets for Rust apps: read your Coffrebox vault, with an encryp… |
+| 2026-11-24 12:04:54 | [coffrebox-cli](https://crates.io/crates/coffrebox-cli) | 0.1.0 | 0 | Command-line client for Coffrebox, a zero-knowledge secrets vault: run any prog… |
+| 2026-11-24 12:09:11 | [rsforge](https://crates.io/crates/rsforge) | 0.1.0 | 0 | A deterministic, programmable build system and hermetic cross-compilation toolc… |
+| 2026-11-24 12:09:45 | [whichdep](https://crates.io/crates/whichdep) | 0.0.1 | 0 | Find which dependency update broke your build: delta debugging over lockfile ch… |
+| 2026-11-24 12:20:25 | [harness-sync-core](https://crates.io/crates/harness-sync-core) | 0.1.0 | 0 | The item model, the comparison, and the commands of harness-sync, with the harn… |
+| 2026-11-24 12:20:28 | [harness-sync-claude-code](https://crates.io/crates/harness-sync-claude-code) | 0.1.0 | 0 | The Claude Code harness of harness-sync |
+| 2026-11-24 12:20:28 | [harness-sync-git](https://crates.io/crates/harness-sync-git) | 0.1.0 | 0 | The git and Gerrit storage kinds of harness-sync |
+| 2026-11-24 12:20:29 | [harness-sync-pi](https://crates.io/crates/harness-sync-pi) | 0.1.0 | 0 | The pi harness of harness-sync |
+| 2026-11-24 12:20:32 | [harness-sync](https://crates.io/crates/harness-sync) | 0.1.0 | 0 | Sync the user-level setup of coding agent harnesses between machines through a… |
 
 ## Data source
 
