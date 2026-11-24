@@ -1,0 +1,33 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-24T05:22:06.579041Z,dome_schema_macro,0.1.1,0,0,https://github.com/formetaohy/DomeDev,The derive that turns a type into a scene component
+2026-11-24T05:27:01.157198Z,ofac-compliance,0.1.0,0,0,https://github.com/sadkovyi/ofac-compliance-rs,"OFAC sanctions list parsing and explainable, offline screening"
+2026-11-24T05:28:37.872143Z,rasterizeddb_core,1.0.0,0,0,https://github.com/milen-denev/rasterizeddb,"A schemafull, high-performance database written in Rust, designed for speed and scalability."
+2026-11-24T05:28:39.358566Z,specta-effect,0.0.1,0,0,https://github.com/specta-rs/specta,Export your Rust types to Effect Schema for TypeScript
+2026-11-24T05:29:51.436404Z,atalanta-migrate,0.2.0,0,0,https://github.com/atalantahq/atalanta,Migration tools for Atalanta: convert Maestro YAML to Atalanta format
+2026-11-24T05:30:13.570302Z,rasterizeddb_embedded,1.0.0,0,0,https://github.com/milen-denev/rasterizeddb,"Run RasterizedDB inside a Rust application: the engine in-process, used through rasterizeddb_client"
+2026-11-24T05:30:17.07945Z,krpx,0.0.1,0,0,https://github.com/kreptaxis/Lang,Placeholder for the kreptaxis programming language (.krpx files).
+2026-11-24T05:30:43.50098Z,kreptaxis,0.0.1,0,0,https://github.com/kreptaxis/Lang,Placeholder for the kreptaxis programming language (.krpx files).
+2026-11-24T05:32:10.111608Z,dome_text,0.1.1,0,0,https://github.com/formetaohy/DomeDev,"Font loading, glyph atlases and text layout"
+2026-11-24T05:38:01.67207Z,cls-eedi,0.0.1,0,0,https://github.com/hupe1980/cls-eedi,Placeholder crate for the cls-eedi project.
+2026-11-24T05:39:33.807763Z,smgw,0.1.0,0,0,https://github.com/hupe1980/smgw-cls,Smart meter gateway library with a no_std CLS session core
+2026-11-24T05:39:51.366958Z,atalanta-nl,0.2.0,0,0,https://github.com/atalantahq/atalanta,"Natural-language step planner for Atalanta — resolves plain-English steps to concrete actions via an LLM, with caching and self-healing"
+2026-11-24T05:41:03.103359Z,rust-css-parser,2.3.0,0,0,https://github.com/tbela99/rust-css-parser,"Fault-tolerant CSS parser, validator, minifier and renderer: the Rust port of @tbela99/css-parser"
+2026-11-24T05:42:07.17338Z,dome_toml,0.1.1,0,0,https://github.com/formetaohy/DomeDev,"TOML documents, their parsing and deterministic writing"
+2026-11-24T05:46:44.580109Z,pulzr-codec-sdk,0.1.0,0,0,https://github.com/pulzar-net/pulzr-package-sdk,"Write a native Pulzr codec in Rust: bytes in, readings out"
+2026-11-24T05:47:32.745289Z,torille,0.7.0,0,0,https://github.com/jiiihpeeh/torille,"A dictionary-driven Finnish spell checker, morphology engine and grammar/style checker"
+2026-11-24T05:49:50.726954Z,atalanta-explore,0.2.0,0,0,https://github.com/atalantahq/atalanta,atalanta explore: an AI agent works through a goal on a device once and writes a deterministic YAML test that replays with no model calls
+2026-11-24T05:52:09.635686Z,dome_scene,0.1.1,0,0,https://github.com/formetaohy/DomeDev,"Authored scenes, their nodes, the values they hold and the format they parse through"
+2026-11-24T05:52:51.446546Z,visloc-navigation,0.5.0,0,0,https://github.com/rsasaki0109/visloc-rs,"Robot-navigation support for visloc-rs: occupancy grids for Nav2 from visual maps, and a localized-robot simulation."
+2026-11-24T05:53:38.187237Z,fusewire,0.3.0,0,0,https://github.com/sadosystems/rargo2,Minimal multi-threaded FUSE kernel protocol server with passthrough support
+2026-11-24T05:54:05.918579Z,rargo-proto,0.3.0,0,0,https://github.com/sadosystems/rargo2,Wire protocol between the rargo client and rargod
+2026-11-24T05:54:17.537264Z,rargo-net,0.3.0,0,0,https://github.com/sadosystems/rargo2,"rargo's reliable message transport over UDP, and the client-server link built on it (with a TCP fallback)"
+2026-11-24T05:54:39.078651Z,tauri-plugin-sensors,0.1.0-alpha.1,0,0,https://github.com/hoangmirs/tauri-plugins,"Tauri plugin that reads a phone's motion and compass heading, and holds the screen's rotation"
+2026-11-24T05:59:50.926674Z,atalanta-runner,0.2.0,0,0,https://github.com/atalantahq/atalanta,"Test runner for Atalanta: scheduling, sharding, reporters"
+2026-11-24T06:00:46.469221Z,proa_html_policy,0.1.0,0,0,https://github.com/proa-labs/proa,Shared allocation-free HTML URL security policy for Proa compilers and renderers.
+2026-11-24T06:01:46.609187Z,teleprint,0.1.6,0,0,https://github.com/AnswerDotAI/teleprint,Keyed live transcripts in native terminal scrollback
+2026-11-24T06:01:49.224708Z,drift-plugin-sdk,0.1.0,0,0,https://github.com/pactflow/drift-plugin-sdk,SDK for writing Drift plugins in Rust
+2026-11-24T06:02:10.184026Z,dome_schema,0.1.1,0,0,https://github.com/formetaohy/DomeDev,"The scene components a node can hold, their field schemas, the registry that lists them and the world they install into"
+2026-11-24T06:07:57.662334Z,httpd-rs,0.2.3,0,0,https://github.com/JD-P/httpd-rs/,Unofficial apache2 reimplementation in Verus Rust
+2026-11-24T06:09:50.935723Z,atalanta-doctor,0.2.0,0,0,https://github.com/atalantahq/atalanta,Environment diagnostics for Atalanta: the probes behind `atalanta doctor` (and the MCP diagnose tool)
+2026-11-24T06:12:11.585815Z,dome_asset,0.1.1,0,0,https://github.com/formetaohy/DomeDev,"The asset library and its import pipeline, turning declared scene assets into runtime ones"
+2026-11-24T06:13:56.257173Z,amd-pm4,0.1.0,0,0,https://github.com/peakoshi/amd-pm4,"Safe AMD gfx7 PM4 command-stream framing, decoding, builder, IB walker, and register shadow state"
