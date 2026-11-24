@@ -8,55 +8,49 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-24 07:18 UTC
+## Latest list — 2026-11-24 08:18 UTC
 
-New crates published between 2026-11-24 06:18 UTC and 2026-11-24 07:18 UTC.
+New crates published between 2026-11-24 07:18 UTC and 2026-11-24 08:18 UTC.
 
-[Full CSV](data/new-crates-2026-11-24T07-18-32-02968Z.csv)
+[Full CSV](data/new-crates-2026-11-24T08-18-49-861701Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-24 06:19:50 | [atalanta-mcp-server](https://crates.io/crates/atalanta-mcp-server) | 0.2.0 | 0 | MCP server for Atalanta: AI-accessible mobile automation tools |
-| 2026-11-24 06:22:09 | [dome_project](https://crates.io/crates/dome_project) | 0.1.1 | 0 | Game projects: the manifest, the fixed folder layout and the projects a launche… |
-| 2026-11-24 06:29:36 | [puy-ext-macros](https://crates.io/crates/puy-ext-macros) | 0.0.6 | 0 | The attributes that generate a Puy extension's registration table and Pascal un… |
-| 2026-11-24 06:29:42 | [proa_assets](https://crates.io/crates/proa_assets) | 0.1.0 | 0 | Public asset manifests and content-addressed local output for Proa |
-| 2026-11-24 06:29:49 | [atalanta-web](https://crates.io/crates/atalanta-web) | 0.2.0 | 0 | Web browser driver for Atalanta using Chrome DevTools Protocol |
-| 2026-11-24 06:29:59 | [puy-ext](https://crates.io/crates/puy-ext) | 0.0.6 | 0 | The API for writing Puy extensions in Rust (no I/O, WASM-compatible) |
-| 2026-11-24 06:30:24 | [puy-stdlib-ext](https://crates.io/crates/puy-stdlib-ext) | 0.0.6 | 0 | The Rust parts of the Puy standard library, written as extensions (no I/O, WASM… |
-| 2026-11-24 06:30:25 | [proa_build](https://crates.io/crates/proa_build) | 0.1.0 | 0 | Linked RSJS build engine and artifact cache for Proa |
-| 2026-11-24 06:31:13 | [proa_source_tools](https://crates.io/crates/proa_source_tools) | 0.1.0 | 0 | Source formatting, linting, and inspection engines for Proa |
-| 2026-11-24 06:32:08 | [dome_window](https://crates.io/crates/dome_window) | 0.1.1 | 0 | Native windows, event loops and input |
-| 2026-11-24 06:39:48 | [atalanta-cli](https://crates.io/crates/atalanta-cli) | 0.2.0 | 0 | CLI binary for Atalanta mobile testing framework |
-| 2026-11-24 06:41:37 | [nosleep-tui](https://crates.io/crates/nosleep-tui) | 0.1.2 | 0 | Impide la suspensión de tu laptop · systemd-logind + X11 |
-| 2026-11-24 06:42:11 | [dome_app](https://crates.io/crates/dome_app) | 0.1.1 | 0 | The application loop of the Dome engine |
-| 2026-11-24 06:44:18 | [delali-narsil-cluster](https://crates.io/crates/delali-narsil-cluster) | 0.1.0 | 0 | Join a Rust process to a Narsil cluster, with the TCP and gRPC node transports… |
-| 2026-11-24 06:44:43 | [hazard3-time](https://crates.io/crates/hazard3-time) | 0.1.2 | 0 | Instant and Duration for embedded no-std systems, with async timer support |
-| 2026-11-24 06:45:50 | [hazard3-embedded-hal](https://crates.io/crates/hazard3-embedded-hal) | 0.1.0 | 0 | Collection of utilities to use `embedded-hal` and `embedded-storage` traits wit… |
-| 2026-11-24 06:45:59 | [hazard3-usb-driver](https://crates.io/crates/hazard3-usb-driver) | 0.1.0 | 0 | Driver trait for `embassy-usb`, an async USB device stack for embedded devices. |
-| 2026-11-24 06:47:02 | [hazard3-rp-pac](https://crates.io/crates/hazard3-rp-pac) | 0.2.0 | 0 | RISC-V Peripheral Access Crate for Raspberry Pi RP235x microcontrollers. |
-| 2026-11-24 06:47:28 | [hazard3-rp](https://crates.io/crates/hazard3-rp) | 0.2.0 | 0 | Embassy Hardware Abstraction Layer (HAL) for RP235x Hazard3 RISC-V cores |
-| 2026-11-24 06:48:38 | [mdhtml2term](https://crates.io/crates/mdhtml2term) | 0.1.4 | 0 | Render MDHTML Markdown as width-aware, styled terminal rows. |
-| 2026-11-24 06:48:52 | [bevy-look](https://crates.io/crates/bevy-look) | 0.0.0 | 0 | 鸟瞰 — viewport overlays and panels for Bevy |
-| 2026-11-24 06:50:32 | [replayd](https://crates.io/crates/replayd) | 0.1.0 | 0 | Send Rust backend errors, panics and performance issues (N+1 queries, slow quer… |
-| 2026-11-24 06:51:12 | [svgoo-css-what](https://crates.io/crates/svgoo-css-what) | 4.1.0 | 0 | Portable CSS selector tokenizer/serializer, translated file-by-file from css-wh… |
-| 2026-11-24 06:51:20 | [svgoo-css-select](https://crates.io/crates/svgoo-css-select) | 4.1.0 | 0 | Portable CSS selector engine, translated file-by-file from css-select@7.0.0 (gi… |
-| 2026-11-24 06:51:27 | [svgoo-csstree](https://crates.io/crates/svgoo-csstree) | 4.1.0 | 0 | Portable CSS parsing/serialization, translated file-by-file from css-tree@3.2.1… |
-| 2026-11-24 06:51:38 | [svgoo-csso](https://crates.io/crates/svgoo-csso) | 4.1.0 | 0 | Rust translation of csso@5.0.5 (CSS optimisation): minify/minifyBlock, specific… |
-| 2026-11-24 06:51:48 | [svgoo-core](https://crates.io/crates/svgoo-core) | 4.1.0 | 0 | Core of svgoo: SVG XML parser, XAST tree, stringifier, plugins engine and CSS s… |
-| 2026-11-24 06:52:11 | [dome_ui](https://crates.io/crates/dome_ui) | 0.1.1 | 0 | The retained user interface framework |
-| 2026-11-24 06:55:32 | [hazard3-net-driver](https://crates.io/crates/hazard3-net-driver) | 0.1.0 | 0 | Driver trait for the `xarxa` network stack. |
-| 2026-11-24 06:57:45 | [svgoo-plugin](https://crates.io/crates/svgoo-plugin) | 4.1.0 | 0 | svgoo builtin plugins: the preset-default and all standalone optimizers. |
-| 2026-11-24 07:02:11 | [dome_editor](https://crates.io/crates/dome_editor) | 0.1.1 | 0 | The Dome scene editor |
-| 2026-11-24 07:06:30 | [hazard3-net](https://crates.io/crates/hazard3-net) | 0.1.1 | 0 | Network stack designed for embedded, real-time systems without a heap. |
-| 2026-11-24 07:06:54 | [reglow-agent-client](https://crates.io/crates/reglow-agent-client) | 0.1.1 | 0 | Reglow Agent 四语言薄 SDK（Rust）：DTO + HTTP 客户端 + 错误映射 |
-| 2026-11-24 07:07:45 | [svgoo-cli](https://crates.io/crates/svgoo-cli) | 4.1.0 | 0 | svgoo command line interface. |
-| 2026-11-24 07:08:36 | [a9u-rt](https://crates.io/crates/a9u-rt) | 0.1.0 | 0 | Git repository manager that stores repositories in a predictable directory tree |
-| 2026-11-24 07:12:10 | [dome_launcher](https://crates.io/crates/dome_launcher) | 0.1.1 | 0 | The Dome launcher: the projects it remembers and the editor it starts |
-| 2026-11-24 07:12:12 | [tramli-reactive](https://crates.io/crates/tramli-reactive) | 0.1.0 | 0 | Typed channels and supervised reactive processes for Rust |
-| 2026-11-24 07:13:50 | [tramli-appspec](https://crates.io/crates/tramli-appspec) | 0.1.0 | 0 | Runtime-neutral durable semantics for tramli-appspec |
-| 2026-11-24 07:15:32 | [flot-cli](https://crates.io/crates/flot-cli) | 0.1.0 | 0 | Verifiable agent flow runtime: every step emits a content-addressed receipt, ev… |
-| 2026-11-24 07:16:45 | [hazard3-net-driver-channel](https://crates.io/crates/hazard3-net-driver-channel) | 0.1.0 | 0 | High-level channel-based driver for the `embassy-net` async TCP/IP network stac… |
-| 2026-11-24 07:17:47 | [svgoo-wasm](https://crates.io/crates/svgoo-wasm) | 4.1.0 | 0 | svgoo-core + svgoo-plugin compiled to WebAssembly (SIMD128) with a hand-rolled… |
+| 2026-11-24 07:22:07 | [lampas_bytecode](https://crates.io/crates/lampas_bytecode) | 0.1.1 | 0 | The instructed Lampas module a compiler writes and the virtual machine runs |
+| 2026-11-24 07:25:55 | [hazard3-net-async](https://crates.io/crates/hazard3-net-async) | 0.3.0 | 0 | Async TCP/IP network stack for embedded systems |
+| 2026-11-24 07:28:27 | [tensil](https://crates.io/crates/tensil) | 0.0.1 | 0 | Small, dependency-free tensor math with SIMD, packed low-bit weights, and alloc… |
+| 2026-11-24 07:32:05 | [lampas_syntax](https://crates.io/crates/lampas_syntax) | 0.1.1 | 0 | The Lampas sources, tokens, syntax tree, diagnostics and the parser that builds… |
+| 2026-11-24 07:32:22 | [diskuse16x](https://crates.io/crates/diskuse16x) | 1.0.0 | 0 | A read-only disk space explorer for the terminal, on macOS and Linux |
+| 2026-11-24 07:33:07 | [oxyn-tokens](https://crates.io/crates/oxyn-tokens) | 0.1.0 | 0 | Oxyn design tokens as Rust values: themes, colour roles, semantic scales and mo… |
+| 2026-11-24 07:34:51 | [oxyn-registry-schema](https://crates.io/crates/oxyn-registry-schema) | 0.1.0 | 0 | Schema for Oxyn registry items and the registry index (free and pro), shared by… |
+| 2026-11-24 07:35:18 | [hazard3-cyw43](https://crates.io/crates/hazard3-cyw43) | 0.2.1 | 0 | Rust driver for the CYW43439 WiFi chip, used in the Raspberry Pi Pico W. |
+| 2026-11-24 07:35:32 | [oxyn-core](https://crates.io/crates/oxyn-core) | 0.1.0 | 0 | UI-free core for Oxyn: the AgentState machine, the shared motion clock, easing… |
+| 2026-11-24 07:38:16 | [oxyn-cli](https://crates.io/crates/oxyn-cli) | 0.1.0 | 0 | The oxyn command line: add Oxyn components to a Dioxus or GPUI project (init, l… |
+| 2026-11-24 07:39:10 | [keel-hoard](https://crates.io/crates/keel-hoard) | 0.22.0 | 0 | One-line CI cache for TypeScript monorepos |
+| 2026-11-24 07:39:18 | [oxyn-mcp](https://crates.io/crates/oxyn-mcp) | 0.1.0 | 0 | Oxyn's MCP server: lets AI coding agents (Claude Code, Cursor, Codex, Zed) brow… |
+| 2026-11-24 07:39:21 | [keelstack-cli](https://crates.io/crates/keelstack-cli) | 0.22.0 | 0 | Bootstrap a repo with the keelstackhq tools: one manifest, one command, one hum… |
+| 2026-11-24 07:42:07 | [lampas_semantic](https://crates.io/crates/lampas_semantic) | 0.1.1 | 0 | The Lampas checker: its types, names, symbols and the declarations it verifies |
+| 2026-11-24 07:43:27 | [doi2haya](https://crates.io/crates/doi2haya) | 0.2.0 | 0 | Convert a DOI to a Hayagriva YAML bibliography entry for Typst |
+| 2026-11-24 07:44:02 | [rudof_earl](https://crates.io/crates/rudof_earl) | 0.3.40 | 0 | EARL 1.0 (Evaluation and Report Language) reports. |
+| 2026-11-24 07:46:44 | [hazard3-cyw43-pio](https://crates.io/crates/hazard3-cyw43-pio) | 0.2.1 | 0 | RP2350 RISC-V PIO SPI implementation for cyw43 |
+| 2026-11-24 07:47:26 | [bacnet-kit](https://crates.io/crates/bacnet-kit) | 0.0.1 | 0 | Initial release of bacnet-kit with the default BACnet/IP UDP port |
+| 2026-11-24 07:52:06 | [lampas_compiler](https://crates.io/crates/lampas_compiler) | 0.1.1 | 0 | The Lampas compiler that lowers a checked program into the module a virtual mac… |
+| 2026-11-24 07:53:50 | [louis-capi](https://crates.io/crates/louis-capi) | 0.1.0 | 0 | C API for louis-rs, a pure Rust re-implementation of the liblouis braille trans… |
+| 2026-11-24 07:54:32 | [retex-fragments](https://crates.io/crates/retex-fragments) | 2.4.0 | 0 | Pieces of TeX source typeset on pages of their own: the document of a batch of… |
+| 2026-11-24 07:58:36 | [kbd-layout-switch](https://crates.io/crates/kbd-layout-switch) | 0.1.0 | 0 | Switch the GNOME keyboard layout when a Bluetooth keyboard connects |
+| 2026-11-24 08:02:07 | [lampas_vm](https://crates.io/crates/lampas_vm) | 0.1.1 | 0 | The register machine that executes Lampas modules over reference counted values |
+| 2026-11-24 08:02:49 | [mesh-foundation-e2ee](https://crates.io/crates/mesh-foundation-e2ee) | 0.1.0-alpha.1 | 0 | Content encryption state machines for peer applications |
+| 2026-11-24 08:02:51 | [mesh-foundation-identity](https://crates.io/crates/mesh-foundation-identity) | 0.1.0-alpha.1 | 0 | Mesh Talk-compatible device identities and account certificates |
+| 2026-11-24 08:02:53 | [mesh-foundation-storage](https://crates.io/crates/mesh-foundation-storage) | 0.1.0-alpha.1 | 0 | At-rest record encryption compatible with Mesh Talk |
+| 2026-11-24 08:02:55 | [mesh-foundation-connect](https://crates.io/crates/mesh-foundation-connect) | 0.1.0-alpha.1 | 0 | Authenticated, encrypted peer sessions for mesh applications |
+| 2026-11-24 08:02:57 | [mesh-foundation-blob](https://crates.io/crates/mesh-foundation-blob) | 0.1.0-alpha.1 | 0 | Chunk encryption and integrity verification for mesh blobs |
+| 2026-11-24 08:06:16 | [rsille-render](https://crates.io/crates/rsille-render) | 0.1.0 | 0 | Terminal rendering engine for rsille |
+| 2026-11-24 08:06:18 | [rsille-canvas](https://crates.io/crates/rsille-canvas) | 0.1.0 | 0 | Sample canvas with Braille, Half-block and Quadrant encoding for rsille |
+| 2026-11-24 08:06:20 | [rsille-tui](https://crates.io/crates/rsille-tui) | 0.1.0 | 0 | Composable terminal application framework for rsille |
+| 2026-11-24 08:12:59 | [mesh-foundation-replication](https://crates.io/crates/mesh-foundation-replication) | 0.1.0-alpha.1 | 0 | Bounded event reconciliation primitives for peer replicas |
+| 2026-11-24 08:13:15 | [rsille-syntect](https://crates.io/crates/rsille-syntect) | 0.1.0 | 0 | Syntax highlighting for rsille code viewers |
+| 2026-11-24 08:14:48 | [tmux-view](https://crates.io/crates/tmux-view) | 0.0.1 | 0 | View command output in a tmux floating pane or popup, with scrolling and one-ke… |
+| 2026-11-24 08:17:39 | [rsille-playground](https://crates.io/crates/rsille-playground) | 0.1.1 | 0 | An interactive playground for rsille terminal graphics |
 
 ## Data source
 

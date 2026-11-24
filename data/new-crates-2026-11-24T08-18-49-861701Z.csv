@@ -1,0 +1,36 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-24T07:22:07.849437Z,lampas_bytecode,0.1.1,0,0,https://github.com/formetaohy/DomeDev,The instructed Lampas module a compiler writes and the virtual machine runs
+2026-11-24T07:25:55.182385Z,hazard3-net-async,0.3.0,0,0,https://github.com/jorgeandrecastro/embassy-riscv,Async TCP/IP network stack for embedded systems
+2026-11-24T07:28:27.842677Z,tensil,0.0.1,0,0,https://github.com/oxiglade/tensil,"Small, dependency-free tensor math with SIMD, packed low-bit weights, and allocation-free prepared inference."
+2026-11-24T07:32:05.777455Z,lampas_syntax,0.1.1,0,0,https://github.com/formetaohy/DomeDev,"The Lampas sources, tokens, syntax tree, diagnostics and the parser that builds them"
+2026-11-24T07:32:22.056768Z,diskuse16x,1.0.0,0,0,https://github.com/engrmnaveed/diskuse16x,"A read-only disk space explorer for the terminal, on macOS and Linux"
+2026-11-24T07:33:07.777989Z,oxyn-tokens,0.1.0,0,0,https://github.com/ismailqureshi72/Oxyn,"Oxyn design tokens as Rust values: themes, colour roles, semantic scales and motion."
+2026-11-24T07:34:51.256995Z,oxyn-registry-schema,0.1.0,0,0,https://github.com/ismailqureshi72/Oxyn,"Schema for Oxyn registry items and the registry index (free and pro), shared by the registry builder, the CLI and the MCP server."
+2026-11-24T07:35:18.745359Z,hazard3-cyw43,0.2.1,0,0,https://github.com/jorgeandrecastro/embassy-riscv,"Rust driver for the CYW43439 WiFi chip, used in the Raspberry Pi Pico W."
+2026-11-24T07:35:32.863443Z,oxyn-core,0.1.0,0,0,https://github.com/ismailqureshi72/Oxyn,"UI-free core for Oxyn: the AgentState machine, the shared motion clock, easing and verb packs."
+2026-11-24T07:38:16.078336Z,oxyn-cli,0.1.0,0,0,https://github.com/ismailqureshi72/Oxyn,"The oxyn command line: add Oxyn components to a Dioxus or GPUI project (init, list, search, view, add, diff)."
+2026-11-24T07:39:10.721181Z,keel-hoard,0.22.0,0,0,,One-line CI cache for TypeScript monorepos
+2026-11-24T07:39:18.697062Z,oxyn-mcp,0.1.0,0,0,https://github.com/ismailqureshi72/Oxyn,"Oxyn's MCP server: lets AI coding agents (Claude Code, Cursor, Codex, Zed) browse the Oxyn registry and add components to a Dioxus or GPUI project, over stdio."
+2026-11-24T07:39:21.788794Z,keelstack-cli,0.22.0,0,0,https://github.com/keelstackhq/keelstack,"Bootstrap a repo with the keelstackhq tools: one manifest, one command, one human step at a time"
+2026-11-24T07:42:07.223169Z,lampas_semantic,0.1.1,0,0,https://github.com/formetaohy/DomeDev,"The Lampas checker: its types, names, symbols and the declarations it verifies"
+2026-11-24T07:43:27.620439Z,doi2haya,0.2.0,0,0,https://github.com/Haouo/doi2haya,Convert a DOI to a Hayagriva YAML bibliography entry for Typst
+2026-11-24T07:44:02.897069Z,rudof_earl,0.3.40,0,0,https://github.com/rudof-project/rudof,EARL 1.0 (Evaluation and Report Language) reports.
+2026-11-24T07:46:44.450144Z,hazard3-cyw43-pio,0.2.1,0,0,https://github.com/jorgeandrecastro/embassy-riscv,RP2350 RISC-V PIO SPI implementation for cyw43
+2026-11-24T07:47:26.169528Z,bacnet-kit,0.0.1,0,0,https://github.com/hupe1980/bacnet-kit,Initial release of bacnet-kit with the default BACnet/IP UDP port
+2026-11-24T07:52:06.958859Z,lampas_compiler,0.1.1,0,0,https://github.com/formetaohy/DomeDev,The Lampas compiler that lowers a checked program into the module a virtual machine runs
+2026-11-24T07:53:50.394854Z,louis-capi,0.1.0,0,0,https://github.com/liblouis/louis-capi,"C API for louis-rs, a pure Rust re-implementation of the liblouis braille translator"
+2026-11-24T07:54:32.976623Z,retex-fragments,2.4.0,0,0,https://gitlab.com/severin-lemaignan/retex,"Pieces of TeX source typeset on pages of their own: the document of a batch of fragments, and each fragment's page, box and diagnostics from the build's log"
+2026-11-24T07:58:36.688616Z,kbd-layout-switch,0.1.0,0,0,https://github.com/u-na-gi/kbd-layout-switch,Switch the GNOME keyboard layout when a Bluetooth keyboard connects
+2026-11-24T08:02:07.802277Z,lampas_vm,0.1.1,0,0,https://github.com/formetaohy/DomeDev,The register machine that executes Lampas modules over reference counted values
+2026-11-24T08:02:49.637184Z,mesh-foundation-e2ee,0.1.0-alpha.1,0,0,https://github.com/OctopusGarage/mesh-foundation,Content encryption state machines for peer applications
+2026-11-24T08:02:51.397437Z,mesh-foundation-identity,0.1.0-alpha.1,0,0,https://github.com/OctopusGarage/mesh-foundation,Mesh Talk-compatible device identities and account certificates
+2026-11-24T08:02:53.013408Z,mesh-foundation-storage,0.1.0-alpha.1,0,0,https://github.com/OctopusGarage/mesh-foundation,At-rest record encryption compatible with Mesh Talk
+2026-11-24T08:02:55.661992Z,mesh-foundation-connect,0.1.0-alpha.1,0,0,https://github.com/OctopusGarage/mesh-foundation,"Authenticated, encrypted peer sessions for mesh applications"
+2026-11-24T08:02:57.811706Z,mesh-foundation-blob,0.1.0-alpha.1,0,0,https://github.com/OctopusGarage/mesh-foundation,Chunk encryption and integrity verification for mesh blobs
+2026-11-24T08:06:16.998452Z,rsille-render,0.1.0,0,0,https://github.com/nidhoggfgg/rsille.git,Terminal rendering engine for rsille
+2026-11-24T08:06:18.629817Z,rsille-canvas,0.1.0,0,0,https://github.com/nidhoggfgg/rsille.git,"Sample canvas with Braille, Half-block and Quadrant encoding for rsille"
+2026-11-24T08:06:20.290898Z,rsille-tui,0.1.0,0,0,https://github.com/nidhoggfgg/rsille.git,Composable terminal application framework for rsille
+2026-11-24T08:12:59.10449Z,mesh-foundation-replication,0.1.0-alpha.1,0,0,https://github.com/OctopusGarage/mesh-foundation,Bounded event reconciliation primitives for peer replicas
+2026-11-24T08:13:15.440514Z,rsille-syntect,0.1.0,0,0,https://github.com/nidhoggfgg/rsille.git,Syntax highlighting for rsille code viewers
+2026-11-24T08:14:48.354069Z,tmux-view,0.0.1,0,0,https://github.com/tmux-contrib/tmux-view,"View command output in a tmux floating pane or popup, with scrolling and one-key close"
+2026-11-24T08:17:39.843743Z,rsille-playground,0.1.1,0,0,https://github.com/nidhoggfgg/rsille,An interactive playground for rsille terminal graphics
