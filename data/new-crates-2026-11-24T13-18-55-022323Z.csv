@@ -1,0 +1,68 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-24T12:26:03.611395Z,arcam-ctl,0.1.2,0,0,https://github.com/marenzo/arcam-ctl,"An unofficial, independent library for the serial protocol of the Arcam Radia A25's CONTROL jack: framing, command table, send policy and a burst-mode link. no_std, no dependencies. Not affiliated wi…"
+2026-11-24T12:26:59.387072Z,houghcl,0.0.2,0,0,https://codeberg.org/drahnr/scanthat,Gradient-directed Hough lines with CPU and optional OpenCL backends
+2026-11-24T12:27:06.136595Z,scanthat,0.0.2,0,0,https://codeberg.org/drahnr/scanthat,scanthat document scanner for GNOME
+2026-11-24T12:31:09.054742Z,nsh-widgets,0.4.1,0,0,https://github.com/SuperNSH/widgets,"Home-screen widgets for Native Shell (NSH) apps: one widget tree, drawn by SwiftUI on iOS and macOS and by RemoteViews on Android."
+2026-11-24T12:31:11.33756Z,nsh-widgets-cli,0.4.1,0,0,https://github.com/SuperNSH/widgets,The nsh-widgets command: builds an NSH app's widget extensions and Android widget library from widgets.json.
+2026-11-24T12:32:28.308111Z,olai-key-service,0.0.1,0,0,https://github.com/open-lakehouse/trestle,"A KMS-style key service: the olai.keys.v1 gRPC API to wrap and unwrap data keys under versioned keys a server holds, and an olai-store KeyProvider client for it"
+2026-11-24T12:34:09.525435Z,fiber-client-sdk,0.1.0,0,0,https://github.com/Athena-FN/fiber,"Write a Fiber plugin's client code: Rust built to wasm32-unknown-unknown, run sandboxed in every player's game"
+2026-11-24T12:38:35.080463Z,acss,0.0.17,0,0,http://gitea.dopamine/AC/acss,"acss: the CSS style engine of acde (stylesheets, selector matching, cascade, computed values, invalidation, animations)"
+2026-11-24T12:38:55.077618Z,acde-taffy,0.15.0-git.4e59968,0,0,https://github.com/DioxusLabs/taffy,"acde's pinned snapshot of Taffy (DioxusLabs/taffy at git 4e59968), the layout library its Blitz fork uses"
+2026-11-24T12:39:25.426699Z,acde-scene,0.1.0,0,0,https://github.com/0x00-Community/libacde,"The 2D scene that blitz paints into and the GPU backends draw: commands, filters, compose parts"
+2026-11-24T12:39:27.371595Z,acde-dirs,0.1.0,0,0,https://github.com/0x00-Community/libacde,"The XDG user folders (desktop, documents, downloads, music, pictures, videos) as user-dirs.dirs lists them: std only, one reading for libacde's runtime and acdes's manager and session"
+2026-11-24T12:39:34.635056Z,acde-blitz-traits,0.3.0-beta.5,0,0,https://github.com/0x00-Community/libacde,Shared traits and types for Blitz
+2026-11-24T12:41:14.744834Z,acss_taffy,0.3.0-beta.5,0,0,https://github.com/0x00-Community/libacde,acrender: converts acss computed styles to Taffy styles
+2026-11-24T12:42:31.965809Z,googlesql-sys,0.2.1,0,0,https://github.com/strise/spanbolt,Rust bindings to a C++ shim around Google's GoogleSQL analyser.
+2026-11-24T12:42:34.800968Z,spanbolt-ddl,0.2.1,0,0,https://github.com/strise/spanbolt,"Spanner DDL parser, schema model and GetDatabaseDdl printer for the spanbolt Spanner emulator."
+2026-11-24T12:42:38.382368Z,spanbolt-proto,0.2.1,0,0,https://github.com/strise/spanbolt,"Google Cloud Spanner API protos and spanbolt's Control service, for the spanbolt Spanner emulator."
+2026-11-24T12:42:42.234925Z,spanbolt-storage,0.2.1,0,0,https://github.com/strise/spanbolt,"Values, key encoding, persistent tables and indexes, and snapshots for the spanbolt Spanner emulator."
+2026-11-24T12:42:47.93625Z,spanbolt-txn,0.2.1,0,0,https://github.com/strise/spanbolt,Transactions and MVCC versions for the spanbolt Spanner emulator.
+2026-11-24T12:43:48.065349Z,theresavdb-client,0.1.0,0,0,https://github.com/theresav/theresavdb,Official async Rust client library for TheresavDB relational database
+2026-11-24T12:44:04.788622Z,adbsight,1.0.0,0,0,https://github.com/ADPer0705/adbsight,Cross-platform Rust TUI deep inspector for Android devices over USB and Wi-Fi ADB
+2026-11-24T12:45:16.840612Z,cynn,0.0.1,0,0,https://github.com/NayanSrivastav/cynn,"Archaeological Git lineage & intent tracer. Don't just blame it, trace its cynn."
+2026-11-24T12:45:19.881228Z,git-cynn,0.0.1,0,0,https://github.com/NayanSrivastav/cynn,"Archaeological Git lineage & intent tracer. Don't just blame it, trace its cynn."
+2026-11-24T12:47:35.451451Z,nsh-permissions,0.1.0,0,0,https://github.com/SuperNSH/permissions,"Check, request and open settings for camera, microphone, photos, location, notifications and more."
+2026-11-24T12:49:56.210195Z,earnest_macros,0.1.0,0,0,https://github.com/cpeaustriajc/earnest,"The derive macros of the earnest Rust model library, re-exported by earnest::model"
+2026-11-24T12:50:46.40719Z,acde-blitz-dom,0.3.0-beta.5,0,0,https://github.com/0x00-Community/libacde,Blitz DOM implementation
+2026-11-24T12:53:14.035115Z,spanbolt-sql,0.2.1,0,0,https://github.com/strise/spanbolt,"GoogleSQL-based planner, executor, functions and full-text search for the spanbolt Spanner emulator."
+2026-11-24T12:54:02.324436Z,nsh-in-app-review,0.1.0,0,0,https://github.com/SuperNSH/in-app-review,"Request the native in-app review prompt on iOS and Android, with a store fallback"
+2026-11-24T12:55:53.468871Z,earnest,0.1.0,0,0,https://github.com/cpeaustriajc/earnest,Write earnest models in Rust and check every state they can reach
+2026-11-24T12:55:57.23091Z,earnest_diagnostics,0.1.0,0,0,https://github.com/cpeaustriajc/earnest,Internal part of earnest: a place in a model file and a problem at that place
+2026-11-24T12:56:02.412345Z,earnest_value,0.1.0,0,0,https://github.com/cpeaustriajc/earnest,"Internal part of earnest: values, interned names and finite domains"
+2026-11-24T12:56:08.366794Z,earnest_ast,0.1.0,0,0,https://github.com/cpeaustriajc/earnest,Internal part of earnest: the language-neutral tree both model readers produce
+2026-11-24T12:58:05.33557Z,merry-core,0.1.0,0,0,https://github.com/locez/merry,"Core IDs, schemas, artifacts, events, and error contracts for the Merry agent runtime."
+2026-11-24T12:58:06.021117Z,merry-tools-macros,0.1.0,0,0,https://github.com/locez/merry,Procedural macros for declaring typed Merry agent tools.
+2026-11-24T12:58:07.856927Z,merry-llm,0.1.0,0,0,https://github.com/locez/merry,"Provider-neutral LLM traits, requests, streaming events, and tool continuations for Merry."
+2026-11-24T12:58:08.533171Z,merry-web,0.1.0,0,0,https://github.com/locez/merry,Local HTTP trajectory viewer backend and embedded web UI assets for Merry.
+2026-11-24T12:58:10.217145Z,merry-provider-anthropic,0.1.0,0,0,https://github.com/locez/merry,Anthropic Messages API provider adapter for the Merry agent runtime.
+2026-11-24T13:00:20.750923Z,acde-blitz-paint,0.3.0-beta.5,0,0,https://github.com/0x00-Community/libacde,Paint a Blitz Document into acde-scene's 2D scene
+2026-11-24T13:00:45.685658Z,gldf-rs-lisp,0.5.1,0,0,https://github.com/holg/gldf-rs,AutoLISP scripting engine for GLDF luminaire data (acadlisp + gldf-rs). Mirrors the bimifc-lisp pattern: domain crate that hands acadlisp a user-data struct plus a fistful of foreign functions for qu…
+2026-11-24T13:00:48.014448Z,gldf-bevy,0.5.1,0,0,https://github.com/holg/gldf-rs,Bevy-based 3D scene viewer for GLDF files with L3D models and LDT photometric lighting
+2026-11-24T13:03:31.551019Z,spanbolt-server,0.2.1,0,0,https://github.com/strise/spanbolt,"The spanbolt Spanner emulator as a library: gRPC services, REST gateway and streaming. The binary is the `spanbolt` crate."
+2026-11-24T13:03:44.772856Z,nsh-camera,0.1.0,0,0,https://github.com/SuperNSH/camera,"Photo capture, video recording and live preview for Native Shell apps"
+2026-11-24T13:04:20.934741Z,spatie-calendar-links,1.0.0,0,0,https://github.com/spatie/calendar-links-rust,"Generate add to calendar links for Google, iCal and other calendar systems"
+2026-11-24T13:04:24.428657Z,spatie-db-dumper,1.0.0,0,0,https://github.com/spatie/db-dumper-rust,"Dump MySQL, MariaDB, PostgreSQL, SQLite and MongoDB databases using native tools"
+2026-11-24T13:04:29.110889Z,spatie-image-optimizer,1.0.0,0,0,https://github.com/spatie/image-optimizer-rust,Optimize images with a configurable chain of native tools
+2026-11-24T13:04:31.505789Z,smjson,0.0.1,0,0,https://github.com/smwasm/smjson.git,JSON library like crate json
+2026-11-24T13:04:34.000753Z,spatie-period,1.0.0,0,0,https://github.com/spatie/period-rust,Complex period comparisons
+2026-11-24T13:04:38.654887Z,spatie-schema-org,1.0.0,0,0,https://github.com/spatie/schema-org-rust,Fluent Schema.org builders and JSON-LD for Rust
+2026-11-24T13:06:17.152505Z,gazefilter-levenberg-marquardt,0.1.0,0,0,https://github.com/gazefilter/levenberg-marquardt,Levenberg-Marquardt algorithm built on top of nalgebra
+2026-11-24T13:06:19.794836Z,earnest_ir,0.1.0,0,0,https://github.com/cpeaustriajc/earnest,"Internal part of earnest: the typed expression language, its evaluator and the checked model"
+2026-11-24T13:07:32.53633Z,rtci-crypto,0.1.0,0,0,https://github.com/Brainwires/rtci,"Provider-neutral cryptography interface of a sans-I/O WebRTC stack, with ring and aws-lc-rs providers"
+2026-11-24T13:07:35.703141Z,rtci-interceptor-derive,0.1.0,0,0,https://github.com/Brainwires/rtci,Derive and attribute macros for the interceptor traits of a sans-I/O WebRTC stack
+2026-11-24T13:07:39.185809Z,rtci-sframe,0.1.0,0,0,https://github.com/Brainwires/rtci,Sans-I/O SFrame (RFC 9605) end-to-end media encryption
+2026-11-24T13:07:43.192473Z,rtci-shared,0.1.0,0,0,https://github.com/Brainwires/rtci,"Shared types of a sans-I/O WebRTC stack: marshalling traits, transport context, replay detection, the stream transport interface"
+2026-11-24T13:07:49.907853Z,rtci-dtls,0.1.0,0,0,https://github.com/Brainwires/rtci,"Sans-I/O DTLS 1.2 and 1.3 (RFC 6347, RFC 9147) with DTLS-SRTP key export, for WebRTC"
+2026-11-24T13:07:58.999332Z,merry-provider-openai,0.1.0,0,0,https://github.com/locez/merry,OpenAI Responses and Chat Completions provider adapter for the Merry agent runtime.
+2026-11-24T13:08:00.419953Z,nsh-qr-code,0.1.0,0,0,https://github.com/SuperNSH/qr-code,Decode and generate QR codes for NSH apps.
+2026-11-24T13:09:37.23875Z,model-cli,0.8.0,0,0,https://github.com/badetitou/Model,"Command-line client for Model: detect, build, query, impact and analyse a code model"
+2026-11-24T13:10:21.875089Z,acde-hostwin,1.0.0,0,0,,"The host window of acdev runtime: winit or Win32 windows, clipboard, choosers and notifications for libacde pages"
+2026-11-24T13:12:34.482558Z,nsh-pdf-export,0.1.0,0,0,https://github.com/SuperNSH/pdf-export,"Creating PDFs from app content, and printing where the platform allows"
+2026-11-24T13:12:50.993532Z,spatie-ssl-certificate,1.0.0,0,0,https://github.com/spatie/ssl-certificate-rust,Read and validate SSL certificates
+2026-11-24T13:13:00.026797Z,rtci-mdns,0.1.0,0,0,https://github.com/Brainwires/rtci,"Sans-I/O mDNS (RFC 6762) querier and responder, as used for WebRTC mDNS ICE candidates"
+2026-11-24T13:13:36.242919Z,novelai-image-sdk,0.1.0,0,0,https://github.com/xinvxueyuan/NovelAI-Image-SDK,"Rust SDK for the NovelAI image-generation API (generation, enhance, vibe, tags, account)"
+2026-11-24T13:13:45.703046Z,spanbolt,0.2.1,0,0,https://github.com/strise/spanbolt,"A fast drop-in replacement for the Google Cloud Spanner emulator, for tests and CI."
+2026-11-24T13:15:11.12028Z,smbase64,0.0.1,0,0,https://github.com/smwasm/smbase64.git,Base64
+2026-11-24T13:16:25.488112Z,earnest_threads,0.1.0,0,0,https://github.com/cpeaustriajc/earnest,"Internal part of earnest: the one place that starts threads, so every thread is joined"
+2026-11-24T13:18:17.984142Z,nsh-connectivity,0.0.1,0,0,https://github.com/SuperNSH/connectivity,"Network status, change events, and real internet reachability."
+2026-11-24T13:18:44.4464Z,merry-runtime,0.1.0,0,0,https://github.com/locez/merry,"Structured session, task ledger, context compaction, memory, permission, and tool runtime for Merry."
