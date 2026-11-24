@@ -8,61 +8,64 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-24 20:18 UTC
+## Latest list — 2026-11-24 21:18 UTC
 
-New crates published between 2026-11-24 19:19 UTC and 2026-11-24 20:18 UTC.
+New crates published between 2026-11-24 20:18 UTC and 2026-11-24 21:18 UTC.
 
-[Full CSV](data/new-crates-2026-11-24T20-18-48-027601Z.csv)
+[Full CSV](data/new-crates-2026-11-24T21-18-51-750922Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-24 19:20:35 | [rs-json](https://crates.io/crates/rs-json) | 0.1.0 | 0 | Zero-copy JSON parser with Serde helpers and JSON-LD builders |
-| 2026-11-24 19:21:03 | [oqi-cli](https://crates.io/crates/oqi-cli) | 0.1.0 | 0 | The oqi command-line tool: compile, run, sample and format OpenQASM 3 programs |
-| 2026-11-24 19:22:00 | [easl](https://crates.io/crates/easl) | 0.1.0 | 0 | A high-level shader language that compiles to WGSL, with an optional CPU runtim… |
-| 2026-11-24 19:22:06 | [datastreamdb-types](https://crates.io/crates/datastreamdb-types) | 0.1.0 | 0 | Scalar type system: parse, compare, convert, geo scaffolding. |
-| 2026-11-24 19:22:14 | [paperpaw-plugin-format-markdown](https://crates.io/crates/paperpaw-plugin-format-markdown) | 1.0.5 | 0 | PaperPaw Markdown files: the interface-7 plugin over the shared conversion of p… |
-| 2026-11-24 19:22:40 | [rne_sumo](https://crates.io/crates/rne_sumo) | 0.4.0 | 0 | Minimal SUMO .net.xml road-network import for Robot Native Engine |
-| 2026-11-24 19:22:52 | [fm1-assets](https://crates.io/crates/fm1-assets) | 0.2.0-rc.0 | 0 | Read-only flash assets and lossless PCM playback for the M-VAVE FM-1 |
-| 2026-11-24 19:32:28 | [paperpaw-plugin-format-rtf](https://crates.io/crates/paperpaw-plugin-format-rtf) | 1.0.1 | 0 | PaperPaw RTF documents: .rtf text, headings, lists, tables and pictures |
-| 2026-11-24 19:32:42 | [datastreamdb-tok](https://crates.io/crates/datastreamdb-tok) | 0.1.0 | 0 | Tokenizers for scalar and full-text indexing. |
-| 2026-11-24 19:33:44 | [horned-pest](https://crates.io/crates/horned-pest) | 0.1.0 | 0 | The original pest-based OFN, Manchester and OBO readers for horned-owl; depreca… |
-| 2026-11-24 19:34:32 | [rne_traci](https://crates.io/crates/rne_traci) | 0.4.0 | 0 | Minimal TraCI client for live SUMO co-simulation |
-| 2026-11-24 19:39:41 | [vortex-functions](https://crates.io/crates/vortex-functions) | 0.94.0 | 0 | Vortex scalar functions beyond those the core array crate relies on |
-| 2026-11-24 19:39:50 | [easl_cli](https://crates.io/crates/easl_cli) | 0.1.0 | 0 | CLI for the easl compiler toolchain |
-| 2026-11-24 19:40:55 | [ursa-viz](https://crates.io/crates/ursa-viz) | 0.12.0 | 0 | Ursa's graph view: a live ForceAtlas2 layout drawn with wgpu (WebGPU, WebGL2, o… |
-| 2026-11-24 19:41:31 | [smale-counterexample-deg7299](https://crates.io/crates/smale-counterexample-deg7299) | 1.0.0 | 0 | Machine-certified degree-7,299 counterexample to Smale's Mean Value Conjecture… |
-| 2026-11-24 19:41:47 | [paperpaw-plugin-launcher-simple](https://crates.io/crates/paperpaw-plugin-launcher-simple) | 1.0.1 | 0 | PaperPaw Simple home: a large clock, cards, a dock and a quick panel of round s… |
-| 2026-11-24 19:43:10 | [datastreamdb-x](https://crates.io/crates/datastreamdb-x) | 0.1.0 | 0 | Shared commons: errors, config, metrics, logging helpers. |
-| 2026-11-24 19:43:22 | [opcua-kit](https://crates.io/crates/opcua-kit) | 0.0.1 | 0 | OPC UA utilities for Rust, starting with StatusCode severity classification |
-| 2026-11-24 19:43:56 | [starfold-aom-sys](https://crates.io/crates/starfold-aom-sys) | 0.1.0+libaom.3.15.3 | 0 | libaom's AV1 encoder, real-time only, built from source and linked statically,… |
-| 2026-11-24 19:43:59 | [starfold](https://crates.io/crates/starfold) | 0.3.2 | 0 | Low-latency desktop streaming for the browser: an X11 display, a Mac's screen o… |
-| 2026-11-24 19:44:07 | [catherine-engine](https://crates.io/crates/catherine-engine) | 0.4.1 | 0 | Catherine interned execution core: model types, epistemic labels, dense-id engi… |
-| 2026-11-24 19:46:20 | [rne_usd](https://crates.io/crates/rne_usd) | 0.4.0 | 0 | Minimal ASCII Universal Scene Description (.usda) import for Robot Native Engine |
-| 2026-11-24 19:46:20 | [rne_world](https://crates.io/crates/rne_world) | 0.4.0 | 0 | World entity, scene index, and frame graph for Robot Native Engine |
-| 2026-11-24 19:49:59 | [sealwax-convert](https://crates.io/crates/sealwax-convert) | 0.9.1 | 0 | Other formats converted to PDF: laid out by an engine of their own, written by… |
-| 2026-11-24 19:51:39 | [paperpaw-plugin-picture-frame](https://crates.io/crates/paperpaw-plugin-picture-frame) | 1.0.2 | 0 | PaperPaw Picture frame: your own photos as sleep screen, slideshow and photo of… |
-| 2026-11-24 19:52:09 | [reasm](https://crates.io/crates/reasm) | 0.1.0 | 0 | A fast, configurable formatter for assembly language (NASM) |
-| 2026-11-24 19:53:08 | [rom2dmd](https://crates.io/crates/rom2dmd) | 0.1.0 | 0 | Extract the display animations of a pinball ROM set (WPC, Data East, Whitestar,… |
-| 2026-11-24 19:54:11 | [datastreamdb-chunker](https://crates.io/crates/datastreamdb-chunker) | 0.1.0 | 0 | Bulk ingest: RDF N-Quads and JSON chunkers. |
-| 2026-11-24 19:55:42 | [heromail](https://crates.io/crates/heromail) | 1.0.0 | 0 | HeroMail IMAP email client, MCP server, and CLI — read, search, delete, unsubsc… |
-| 2026-11-24 19:57:11 | [calpop](https://crates.io/crates/calpop) | 0.1.0 | 0 | A calendar popup for Wayland bars (Waybar…), anchored with layer-shell |
-| 2026-11-24 19:58:49 | [rne_physics](https://crates.io/crates/rne_physics) | 0.4.0 | 0 | Physics backend traits and components for Robot Native Engine |
-| 2026-11-24 20:01:58 | [paperpaw-plugin-pomodoro](https://crates.io/crates/paperpaw-plugin-pomodoro) | 1.0.0 | 0 | PaperPaw Pomodoro: a focus timer with work and break rounds, home screen widget… |
-| 2026-11-24 20:04:47 | [datastreamdb-schema](https://crates.io/crates/datastreamdb-schema) | 0.1.0 | 0 | Schema model, parser, and live schema state. |
-| 2026-11-24 20:07:55 | [seqa_obos](https://crates.io/crates/seqa_obos) | 0.1.0 | 0 | Load an OBO ontology from S3, Azure, GCS, HTTP(S) or local disk, keep it in mem… |
-| 2026-11-24 20:08:52 | [egui-workbench-remote](https://crates.io/crates/egui-workbench-remote) | 0.13.0 | 0 | Remote UI server for egui-workbench: the 0.11 protocol over WebSocket, localhos… |
-| 2026-11-24 20:10:06 | [hakari-core](https://crates.io/crates/hakari-core) | 0.0.1 | 0 | Reserved name for the Hakari endpoint scanner. Placeholder, no functionality ye… |
-| 2026-11-24 20:10:18 | [hakari-cli](https://crates.io/crates/hakari-cli) | 0.0.1 | 0 | Reserved name for the Hakari endpoint scanner. Placeholder, no functionality ye… |
-| 2026-11-24 20:11:16 | [rne_collision_bake](https://crates.io/crates/rne_collision_bake) | 0.4.0 | 0 | Offline deterministic approximate convex decomposition of triangle meshes for R… |
-| 2026-11-24 20:12:20 | [paperpaw-plugin-puzzles](https://crates.io/crates/paperpaw-plugin-puzzles) | 1.0.0 | 0 | PaperPaw Puzzles: sudoku, crosswords and chess puzzles, offline, with a puzzle… |
-| 2026-11-24 20:12:35 | [quintrit-core](https://crates.io/crates/quintrit-core) | 0.2.0 | 0 | High-performance 1.60 bpw ternary quantization microkernel using velurex encodi… |
-| 2026-11-24 20:12:38 | [quintrit-format](https://crates.io/crates/quintrit-format) | 0.2.0 | 0 | GGUF model reader and dynamic in-memory transcoder into 1.60 bpw Velurex format |
-| 2026-11-24 20:12:40 | [quintrit-bitnet](https://crates.io/crates/quintrit-bitnet) | 0.2.0 | 0 | Faithful Rust transcription of Microsoft BitNet's 4-trit kernels (2.00 bpw), th… |
-| 2026-11-24 20:12:42 | [quintrit-cuda](https://crates.io/crates/quintrit-cuda) | 0.2.0 | 0 | Optional NVIDIA GPU backend of Quintrit: CUDA kernels for velurex-encoded terna… |
-| 2026-11-24 20:12:47 | [quintrit-runtime](https://crates.io/crates/quintrit-runtime) | 0.2.0 | 0 | High-performance transformer inference engine and CLI for 1.60 bpw Velurex quan… |
-| 2026-11-24 20:14:37 | [rpaste](https://crates.io/crates/rpaste) | 1.0.0 | 0 | Small PrivateBin-compatible encrypted paste CLI |
-| 2026-11-24 20:15:39 | [kenota](https://crates.io/crates/kenota) | 0.1.0 | 0 | Text-mode presentation engine: HTML slides drawn like the 1988 MS Works DOS tut… |
-| 2026-11-24 20:15:59 | [datastreamdb-posting](https://crates.io/crates/datastreamdb-posting) | 0.1.0 | 0 | Posting lists: MVCC lists over the storage backend. |
+| 2026-11-24 20:20:03 | [rom2altsound](https://crates.io/crates/rom2altsound) | 0.7.0 | 0 | Turn a pinball ROM's sound board into an AltSound pack by driving PinMAME's sou… |
+| 2026-11-24 20:21:33 | [paperpaw-plugin-gloss](https://crates.io/crates/paperpaw-plugin-gloss) | 1.0.0 | 0 | PaperPaw Gloss: small text above the words of a book (pronunciation, a word's t… |
+| 2026-11-24 20:23:21 | [rne_deformable](https://crates.io/crates/rne_deformable) | 0.4.0 | 0 | Deterministic backend-neutral cable and cloth dynamics for Robot Native Engine |
+| 2026-11-24 20:23:53 | [quintrit-c](https://crates.io/crates/quintrit-c) | 0.2.0 | 0 | C ABI (libquintrit_c / quintrit_c.dll) for the Quintrit ternary kernels, format… |
+| 2026-11-24 20:25:50 | [dreamer-domain](https://crates.io/crates/dreamer-domain) | 0.10.0 | 0 | Typed identities, layouts, capabilities, actions, and events shared by every Dr… |
+| 2026-11-24 20:25:50 | [dreamer-ghostty-sys](https://crates.io/crates/dreamer-ghostty-sys) | 0.10.0 | 0 | Raw FFI bindings to the pinned libghostty-vt release |
+| 2026-11-24 20:25:51 | [dreamer-perf](https://crates.io/crates/dreamer-perf) | 0.10.0 | 0 | Opt-in path timings and counters (spec 16.1, 16.4): lock-free histograms, no te… |
+| 2026-11-24 20:25:51 | [dreamer-platform](https://crates.io/crates/dreamer-platform) | 0.10.0 | 0 | Per-user paths and small OS helpers shared by Dreamer's executables |
+| 2026-11-24 20:25:52 | [dreamer-terminal-core](https://crates.io/crates/dreamer-terminal-core) | 0.10.0 | 0 | Engine-neutral terminal types: grid sizes, frame snapshots, and effects |
+| 2026-11-24 20:26:51 | [datastreamdb-backup](https://crates.io/crates/datastreamdb-backup) | 0.1.0 | 0 | Online backup orchestration and restore. |
+| 2026-11-24 20:29:23 | [groh](https://crates.io/crates/groh) | 0.1.0 | 0 | A me-first, self-hosted dashboard. Single pure-Rust binary, live Docker contain… |
+| 2026-11-24 20:31:44 | [paperpaw-plugin-smart-home](https://crates.io/crates/paperpaw-plugin-smart-home) | 1.1.3 | 0 | PaperPaw smart home: values and switches from your own Home Assistant, as a das… |
+| 2026-11-24 20:32:50 | [dreamer-providers](https://crates.io/crates/dreamer-providers) | 0.10.0 | 0 | Agent providers: Claude Code and Codex CLIs on the user's own login, behind one… |
+| 2026-11-24 20:37:27 | [datastreamdb-core](https://crates.io/crates/datastreamdb-core) | 0.1.0 | 0 | Embeddable multi-instance engine facade: open, query, mutate, close. |
+| 2026-11-24 20:38:27 | [motd-rs](https://crates.io/crates/motd-rs) | 0.1.0 | 0 | A fast, compact, read-only system status dashboard for the Linux message of the… |
+| 2026-11-24 20:40:00 | [tree-sitter-c2rs](https://crates.io/crates/tree-sitter-c2rs) | 0.1.0 | 0 | Transpile tree-sitter generated parser.c into pure Rust tables and lexer |
+| 2026-11-24 20:40:09 | [tree-sitter-lite-rs](https://crates.io/crates/tree-sitter-lite-rs) | 0.1.0 | 0 | Pure-Rust tree-sitter grammars for tokensave's lite tier (no C, no build.rs) |
+| 2026-11-24 20:41:47 | [paperpaw-plugin-tasks](https://crates.io/crates/paperpaw-plugin-tasks) | 1.1.3 | 0 | PaperPaw Tasks: to-do lists with due dates and priorities, kept on the reader o… |
+| 2026-11-24 20:42:31 | [rne_physics_analytic](https://crates.io/crates/rne_physics_analytic) | 0.4.0 | 0 | Deterministic analytic physics backend for Robot Native Engine |
+| 2026-11-24 20:42:32 | [rne_physics_rapier](https://crates.io/crates/rne_physics_rapier) | 0.4.0 | 0 | Rapier physics backend for Robot Native Engine |
+| 2026-11-24 20:44:21 | [dreamer-terminal-ghostty](https://crates.io/crates/dreamer-terminal-ghostty) | 0.10.0 | 0 | Safe libghostty-vt terminal engine producing owned frame snapshots |
+| 2026-11-24 20:48:04 | [datastreamdb-dql](https://crates.io/crates/datastreamdb-dql) | 0.1.0 | 0 | DQL (GraphQL+-) lexer, parser, and AST. |
+| 2026-11-24 20:52:04 | [siili-catalog](https://crates.io/crates/siili-catalog) | 0.0.2 | 0 | OpenAPI 3.0/3.1 schema catalog, zstd snapshot codec, and build-time Rust SDK co… |
+| 2026-11-24 20:52:10 | [siili-sdk](https://crates.io/crates/siili-sdk) | 0.0.2 | 0 | Runtime-agnostic, schema-driven async Rust SDK for the PostHog API |
+| 2026-11-24 20:53:39 | [hazard3-ssd1306](https://crates.io/crates/hazard3-ssd1306) | 0.7.4 | 0 | Async no_std driver for the SSD1306 OLED display over I2C, based on Hazard3. |
+| 2026-11-24 20:54:25 | [rne_physics_conformance](https://crates.io/crates/rne_physics_conformance) | 0.4.0 | 0 | Backend-neutral authoring and conformance kit for external RNE physics backends |
+| 2026-11-24 20:55:55 | [dreamer-tmux-protocol](https://crates.io/crates/dreamer-tmux-protocol) | 0.10.0 | 0 | Incremental, byte-oriented parser for tmux control mode |
+| 2026-11-24 20:58:49 | [datastreamdb-task](https://crates.io/crates/datastreamdb-task) | 0.1.0 | 0 | Local query task processor (single-group worker/task port). |
+| 2026-11-24 20:59:54 | [pykrete-schema-root](https://crates.io/crates/pykrete-schema-root) | 0.1.0 | 0 | Definitions shared by the other pykrete-schema crates |
+| 2026-11-24 20:59:55 | [pykrete-shared-crypto](https://crates.io/crates/pykrete-shared-crypto) | 0.1.0 | 0 | Cryptography primitives used in pykrete |
+| 2026-11-24 20:59:57 | [pykrete-oidc](https://crates.io/crates/pykrete-oidc) | 0.1.0 | 0 | OIDC client for pykrete |
+| 2026-11-24 20:59:57 | [pykrete-schema](https://crates.io/crates/pykrete-schema) | 0.1.0 | 0 | Every pykrete-schema crate under one name |
+| 2026-11-24 20:59:59 | [pykrete-control](https://crates.io/crates/pykrete-control) | 0.2.0 | 0 | Control protocol of pykrete |
+| 2026-11-24 21:00:54 | [strig](https://crates.io/crates/strig) | 0.6.1 | 0 | Extensible authorization engine: permission catalog, RBAC, ABAC and ReBAC in on… |
+| 2026-11-24 21:01:33 | [strig-macros](https://crates.io/crates/strig-macros) | 0.6.1 | 0 | Compile-time macros for the Strig policy language. |
+| 2026-11-24 21:01:42 | [dreamer-web-component](https://crates.io/crates/dreamer-web-component) | 0.10.0 | 0 | Dreamer Web, the Chromium component installed apart from the app: its layout, i… |
+| 2026-11-24 21:02:12 | [strig-sync](https://crates.io/crates/strig-sync) | 0.6.1 | 0 | Real time for Strig: permission change hub, transport trait, SSE/WebSocket sess… |
+| 2026-11-24 21:02:59 | [strig-redis](https://crates.io/crates/strig-redis) | 0.6.1 | 0 | Redis pub/sub transport for the Strig change hub. |
+| 2026-11-24 21:03:38 | [strig-postgres](https://crates.io/crates/strig-postgres) | 0.6.1 | 0 | Postgres LISTEN/NOTIFY transport for the Strig change hub. |
+| 2026-11-24 21:04:17 | [strig-axum](https://crates.io/crates/strig-axum) | 0.6.1 | 0 | axum SSE and WebSocket routes for the Strig real-time sessions. |
+| 2026-11-24 21:06:05 | [rne_render](https://crates.io/crates/rne_render) | 0.4.0 | 0 | Render backend traits for Robot Native Engine |
+| 2026-11-24 21:06:06 | [rne_robot](https://crates.io/crates/rne_robot) | 0.4.0 | 0 | Robot, link, joint, and actuator components for Robot Native Engine |
+| 2026-11-24 21:09:43 | [datastreamdb-query](https://crates.io/crates/datastreamdb-query) | 0.1.0 | 0 | Embedded DQL query executor and mutation applier. |
+| 2026-11-24 21:11:43 | [pykrete-link](https://crates.io/crates/pykrete-link) | 0.1.0 | 0 | Control protocol of pykrete tunneled over bifrostlink |
+| 2026-11-24 21:11:44 | [pykrete-unlock](https://crates.io/crates/pykrete-unlock) | 0.1.0 | 0 | Luks disk unlocker based on pykrete CIBA flow |
+| 2026-11-24 21:12:42 | [ps-object](https://crates.io/crates/ps-object) | 0.39.1 | 0 | In-house trimmed copy of the object crate (ELF/Mach-O/archive read, ELF/Mach-O… |
+| 2026-11-24 21:13:07 | [dreamer-wire](https://crates.io/crates/dreamer-wire) | 0.10.0 | 0 | Dreamer application protocol: framing, records, handshake, limits, queues |
+| 2026-11-24 21:15:20 | [carrel-state](https://crates.io/crates/carrel-state) | 2026.11.24 | 0 | Carrel's frontend-neutral reader state: shared intents, persistence, file disco… |
+| 2026-11-24 21:15:32 | [codex_ai](https://crates.io/crates/codex_ai) | 0.1.1 | 0 | A local OpenAI-compatible gateway for Codex |
+| 2026-11-24 21:18:10 | [rne_log](https://crates.io/crates/rne_log) | 0.4.0 | 0 | Simulation log record and replay for Robot Native Engine |
 
 ## Data source
 

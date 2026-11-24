@@ -1,0 +1,51 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-24T20:20:03.461093Z,rom2altsound,0.7.0,0,0,https://github.com/Le-Syl21/rom2altsound,Turn a pinball ROM's sound board into an AltSound pack by driving PinMAME's sound board in-process
+2026-11-24T20:21:33.87401Z,paperpaw-plugin-gloss,1.0.0,0,0,https://github.com/hthoene/paperpaw,"PaperPaw Gloss: small text above the words of a book (pronunciation, a word's translation), from a word list you put on the card"
+2026-11-24T20:23:21.072697Z,rne_deformable,0.4.0,0,0,https://github.com/rsasaki0109/RobotNativeEngine,Deterministic backend-neutral cable and cloth dynamics for Robot Native Engine
+2026-11-24T20:23:53.672932Z,quintrit-c,0.2.0,0,0,https://github.com/velurex-labs/quintrit,"C ABI (libquintrit_c / quintrit_c.dll) for the Quintrit ternary kernels, format readers and inference runtime"
+2026-11-24T20:25:50.079122Z,dreamer-domain,0.10.0,0,0,https://github.com/probablyrobot/dreamer,"Typed identities, layouts, capabilities, actions, and events shared by every Dreamer component"
+2026-11-24T20:25:50.774078Z,dreamer-ghostty-sys,0.10.0,0,0,https://github.com/probablyrobot/dreamer,Raw FFI bindings to the pinned libghostty-vt release
+2026-11-24T20:25:51.157639Z,dreamer-perf,0.10.0,0,0,https://github.com/probablyrobot/dreamer,"Opt-in path timings and counters (spec 16.1, 16.4): lock-free histograms, no terminal content"
+2026-11-24T20:25:51.844536Z,dreamer-platform,0.10.0,0,0,https://github.com/probablyrobot/dreamer,Per-user paths and small OS helpers shared by Dreamer's executables
+2026-11-24T20:25:52.213653Z,dreamer-terminal-core,0.10.0,0,0,https://github.com/probablyrobot/dreamer,"Engine-neutral terminal types: grid sizes, frame snapshots, and effects"
+2026-11-24T20:26:51.199804Z,datastreamdb-backup,0.1.0,0,0,,Online backup orchestration and restore.
+2026-11-24T20:29:23.491206Z,groh,0.1.0,0,0,https://github.com/Hyphonical/Groh,"A me-first, self-hosted dashboard. Single pure-Rust binary, live Docker container cards over SSE."
+2026-11-24T20:31:44.85629Z,paperpaw-plugin-smart-home,1.1.3,0,0,https://github.com/hthoene/paperpaw,"PaperPaw smart home: values and switches from your own Home Assistant, as a dashboard and home screen widgets"
+2026-11-24T20:32:50.27033Z,dreamer-providers,0.10.0,0,0,https://github.com/probablyrobot/dreamer,"Agent providers: Claude Code and Codex CLIs on the user's own login, behind one contract"
+2026-11-24T20:37:27.913031Z,datastreamdb-core,0.1.0,0,0,,"Embeddable multi-instance engine facade: open, query, mutate, close."
+2026-11-24T20:38:27.640934Z,motd-rs,0.1.0,0,0,https://github.com/ardeidae/motd-rs,"A fast, compact, read-only system status dashboard for the Linux message of the day"
+2026-11-24T20:40:00.923704Z,tree-sitter-c2rs,0.1.0,0,0,https://github.com/aovestdipaperino/c2rs,Transpile tree-sitter generated parser.c into pure Rust tables and lexer
+2026-11-24T20:40:09.030789Z,tree-sitter-lite-rs,0.1.0,0,0,https://github.com/aovestdipaperino/tree-sitter-lite-rs,"Pure-Rust tree-sitter grammars for tokensave's lite tier (no C, no build.rs)"
+2026-11-24T20:41:47.509972Z,paperpaw-plugin-tasks,1.1.3,0,0,https://github.com/hthoene/paperpaw,"PaperPaw Tasks: to-do lists with due dates and priorities, kept on the reader or synced with a CalDAV server, with home screen widgets"
+2026-11-24T20:42:31.641661Z,rne_physics_analytic,0.4.0,0,0,https://github.com/rsasaki0109/RobotNativeEngine,Deterministic analytic physics backend for Robot Native Engine
+2026-11-24T20:42:32.145647Z,rne_physics_rapier,0.4.0,0,0,https://github.com/rsasaki0109/RobotNativeEngine,Rapier physics backend for Robot Native Engine
+2026-11-24T20:44:21.313761Z,dreamer-terminal-ghostty,0.10.0,0,0,https://github.com/probablyrobot/dreamer,Safe libghostty-vt terminal engine producing owned frame snapshots
+2026-11-24T20:48:04.079474Z,datastreamdb-dql,0.1.0,0,0,,"DQL (GraphQL+-) lexer, parser, and AST."
+2026-11-24T20:52:04.141445Z,siili-catalog,0.0.2,0,0,https://github.com/oliverb123/siili,"OpenAPI 3.0/3.1 schema catalog, zstd snapshot codec, and build-time Rust SDK codegen for siili"
+2026-11-24T20:52:10.248722Z,siili-sdk,0.0.2,0,0,https://github.com/oliverb123/siili,"Runtime-agnostic, schema-driven async Rust SDK for the PostHog API"
+2026-11-24T20:53:39.149546Z,hazard3-ssd1306,0.7.4,0,0,https://github.com/jorgeandrecastro/Hazard3,"Async no_std driver for the SSD1306 OLED display over I2C, based on Hazard3."
+2026-11-24T20:54:25.118383Z,rne_physics_conformance,0.4.0,0,0,https://github.com/rsasaki0109/RobotNativeEngine,Backend-neutral authoring and conformance kit for external RNE physics backends
+2026-11-24T20:55:55.275021Z,dreamer-tmux-protocol,0.10.0,0,0,https://github.com/probablyrobot/dreamer,"Incremental, byte-oriented parser for tmux control mode"
+2026-11-24T20:58:49.8791Z,datastreamdb-task,0.1.0,0,0,,Local query task processor (single-group worker/task port).
+2026-11-24T20:59:54.93166Z,pykrete-schema-root,0.1.0,0,0,,Definitions shared by the other pykrete-schema crates
+2026-11-24T20:59:55.386437Z,pykrete-shared-crypto,0.1.0,0,0,,Cryptography primitives used in pykrete
+2026-11-24T20:59:57.076782Z,pykrete-oidc,0.1.0,0,0,,OIDC client for pykrete
+2026-11-24T20:59:57.319304Z,pykrete-schema,0.1.0,0,0,,Every pykrete-schema crate under one name
+2026-11-24T20:59:59.057203Z,pykrete-control,0.2.0,0,0,,Control protocol of pykrete
+2026-11-24T21:00:54.680511Z,strig,0.6.1,0,0,https://github.com/The-Hades-Organization/Strig,"Extensible authorization engine: permission catalog, RBAC, ABAC and ReBAC in one decision, with governance and auditing of changes."
+2026-11-24T21:01:33.308494Z,strig-macros,0.6.1,0,0,https://github.com/The-Hades-Organization/Strig,Compile-time macros for the Strig policy language.
+2026-11-24T21:01:42.549603Z,dreamer-web-component,0.10.0,0,0,https://github.com/probablyrobot/dreamer,"Dreamer Web, the Chromium component installed apart from the app: its layout, its manifest, and where it is installed"
+2026-11-24T21:02:12.264885Z,strig-sync,0.6.1,0,0,https://github.com/The-Hades-Organization/Strig,"Real time for Strig: permission change hub, transport trait, SSE/WebSocket sessions and capability cache."
+2026-11-24T21:02:59.718829Z,strig-redis,0.6.1,0,0,https://github.com/The-Hades-Organization/Strig,Redis pub/sub transport for the Strig change hub.
+2026-11-24T21:03:38.196465Z,strig-postgres,0.6.1,0,0,https://github.com/The-Hades-Organization/Strig,Postgres LISTEN/NOTIFY transport for the Strig change hub.
+2026-11-24T21:04:17.921715Z,strig-axum,0.6.1,0,0,https://github.com/The-Hades-Organization/Strig,axum SSE and WebSocket routes for the Strig real-time sessions.
+2026-11-24T21:06:05.781296Z,rne_render,0.4.0,0,0,https://github.com/rsasaki0109/RobotNativeEngine,Render backend traits for Robot Native Engine
+2026-11-24T21:06:06.344093Z,rne_robot,0.4.0,0,0,https://github.com/rsasaki0109/RobotNativeEngine,"Robot, link, joint, and actuator components for Robot Native Engine"
+2026-11-24T21:09:43.969767Z,datastreamdb-query,0.1.0,0,0,,Embedded DQL query executor and mutation applier.
+2026-11-24T21:11:43.867288Z,pykrete-link,0.1.0,0,0,,Control protocol of pykrete tunneled over bifrostlink
+2026-11-24T21:11:44.644183Z,pykrete-unlock,0.1.0,0,0,,Luks disk unlocker based on pykrete CIBA flow
+2026-11-24T21:12:42.591262Z,ps-object,0.39.1,0,0,,"In-house trimmed copy of the object crate (ELF/Mach-O/archive read, ELF/Mach-O relocatable write)."
+2026-11-24T21:13:07.990723Z,dreamer-wire,0.10.0,0,0,https://github.com/probablyrobot/dreamer,"Dreamer application protocol: framing, records, handshake, limits, queues"
+2026-11-24T21:15:20.451958Z,carrel-state,2026.11.24,0,0,https://github.com/VaHughes/carrel,"Carrel's frontend-neutral reader state: shared intents, persistence, file discovery. No UI dependencies."
+2026-11-24T21:15:32.72993Z,codex_ai,0.1.1,0,0,https://github.com/bbrangeo/codex_ai,A local OpenAI-compatible gateway for Codex
+2026-11-24T21:18:10.087609Z,rne_log,0.4.0,0,0,https://github.com/rsasaki0109/RobotNativeEngine,Simulation log record and replay for Robot Native Engine
