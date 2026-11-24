@@ -1,0 +1,14 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-24T08:24:05.50734Z,mesh-foundation-mailbox,0.1.0-alpha.1,0,0,https://github.com/OctopusGarage/mesh-foundation,Opaque recipient-pair envelopes for Mesh Talk relay compatibility
+2026-11-24T08:33:38.861549Z,ng-native-engine,0.4.1,0,0,https://github.com/Gaspar1992/ng-desktop-engine,"High-performance Native Desktop Rendering Engine for Angular 22+ (GTK4/Libadwaita, WinUI 3, AppKit)"
+2026-11-24T08:41:51.967059Z,ringbuf-nostd,0.1.0,0,0,https://github.com/houxd/ringbuf-nostd,A no-std ring buffer implementation.
+2026-11-24T08:45:54.540735Z,whisker-map,0.1.0,0,0,https://github.com/whiskerrs/whisker,A vector map engine for Whisker that draws MapLibre styles with wgpu.
+2026-11-24T08:45:54.989752Z,whisker-scene,0.1.0,0,0,https://github.com/whiskerrs/whisker,"A 3D scene graph for Whisker, written as components and drawn with wgpu."
+2026-11-24T08:52:12.715484Z,serde_repr_lite,0.1.0,0,0,https://github.com/loiiusi/serde_repr_lite,lightweight replacement of `serde_repr` crate
+2026-11-24T08:56:28.519881Z,praemunio-sdk,1.0.0,0,0,https://github.com/praemunio/sdks,Rust client for the Praemunio public API
+2026-11-24T09:02:06.539044Z,captchafox,1.0.0,0,0,https://github.com/CaptchaFox/captchafox-rust,Verifies tokens of the CaptchaFox widget with siteverify.
+2026-11-24T09:05:56.839411Z,yggio-doris,0.0.18,0,0,https://github.com/Platob/yggio,"Apache Doris 4.1 for yggio: the doris:// and doris+mysql:// doors over yggio-mysql's wire, Doris's capability row, and its loads"
+2026-11-24T09:05:58.899745Z,yggio-flight,0.0.18,0,0,https://github.com/Platob/yggio,"The flightsql:// scheme for yggio: the claim of the core's Arrow Flight SQL engine, under ADBC's spelling and its older grpc:// ones"
+2026-11-24T09:06:12.066093Z,twilight-cas,0.1.0,0,0,https://github.com/BlackCatOfficialytb/TwilightMC-OSS,"Cross-platform Content-Addressable Storage (CAS) and cascading zero-copy link engine (Hardlink, NTFS Junction, Symlink, Copy fallback) inspired by uv"
+2026-11-24T09:12:35.431211Z,hazard3-am2302,0.8.0,0,0,https://github.com/jorgeandrecastro/hazard3-am2302,"Async no_std driver for the AM2302 (DHT22) sensor, based on Embassy."
+2026-11-24T09:18:15.899846Z,solana-capital-agent,0.1.0,0,0,https://github.com/rahadbhuiya/solana-capital-agent,Deterministic autonomous capital management and risk execution agent on Solana
