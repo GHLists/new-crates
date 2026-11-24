@@ -8,62 +8,61 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-24 17:18 UTC
+## Latest list — 2026-11-24 18:19 UTC
 
-New crates published between 2026-11-24 16:20 UTC and 2026-11-24 17:18 UTC.
+New crates published between 2026-11-24 17:18 UTC and 2026-11-24 18:19 UTC.
 
-[Full CSV](data/new-crates-2026-11-24T17-18-33-287389Z.csv)
+[Full CSV](data/new-crates-2026-11-24T18-19-54-242192Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-24 16:20:43 | [kute-discover](https://crates.io/crates/kute-discover) | 0.3.1 | 0 | Structural discovery for KUTE: recurring patterns in symbol streams, with evide… |
-| 2026-11-24 16:21:21 | [multicalc-robot-model](https://crates.io/crates/multicalc-robot-model) | 0.11.0 | 0 | Loads MuJoCo MJCF and URDF robot models into multicalc types |
-| 2026-11-24 16:22:37 | [kute-protocol](https://crates.io/crates/kute-protocol) | 0.3.1 | 0 | KUTE vocabulary exchange protocol: two peers agree on a vocabulary, extend it,… |
-| 2026-11-24 16:22:38 | [egui-charts-scripting](https://crates.io/crates/egui-charts-scripting) | 0.3.0-alpha.1 | 0 | Scripts that add studies to egui-charts: a series runtime with a Rhai front end |
-| 2026-11-24 16:23:55 | [nsh-firebase-app-check](https://crates.io/crates/nsh-firebase-app-check) | 0.1.0 | 0 | Firebase App Check for Native Shell Rust apps: the debug-token exchange with tt… |
-| 2026-11-24 16:24:04 | [kian-web](https://crates.io/crates/kian-web) | 0.3.0 | 0 | Client-side web tools (DeepSeek Search/Fetch) as an audited bundle tool provide… |
-| 2026-11-24 16:24:28 | [kian-media](https://crates.io/crates/kian-media) | 0.3.0 | 0 | Client-side media tools (OCR, speech-to-text, text-to-speech) as an audited bun… |
-| 2026-11-24 16:27:17 | [flareapp-reqwest](https://crates.io/crates/flareapp-reqwest) | 0.1.0 | 0 | Continues Flare traces in outgoing reqwest calls. |
-| 2026-11-24 16:30:25 | [async-read](https://crates.io/crates/async-read) | 0.1.0 | 0 | Drive an AsyncRead with a future |
-| 2026-11-24 16:33:11 | [tabdance-elvish-tree-sitter](https://crates.io/crates/tabdance-elvish-tree-sitter) | 0.0.1 | 0 | Elvish and Elvish transcript grammars for the tree-sitter parsing library |
-| 2026-11-24 16:34:19 | [nsh-firebase-auth](https://crates.io/crates/nsh-firebase-auth) | 0.1.0 | 0 | Firebase auth for Native Shell Rust apps: Identity Toolkit sign-in, Secure Toke… |
-| 2026-11-24 16:34:53 | [spatie-ray](https://crates.io/crates/spatie-ray) | 1.0.0 | 0 | Send debug output from Rust to the Ray desktop app |
-| 2026-11-24 16:36:49 | [gpui-windows-win7](https://crates.io/crates/gpui-windows-win7) | 0.1.0 | 0 | Windows 7 SP1 port of Zed's gpui_windows backend (gpui-pre 0.3.12 snapshot) |
-| 2026-11-24 16:37:01 | [gpui-pre-windows7](https://crates.io/crates/gpui-pre-windows7) | 0.1.0 | 0 | Windows 7 SP1 platform provider for GPUI (gpui-pre 0.3.12 / gpui-kit 0.10) |
-| 2026-11-24 16:37:03 | [octane-plugin-sdk](https://crates.io/crates/octane-plugin-sdk) | 0.1.2 | 0 | Author SDK for OctaneEditor WASM plugins — host bindings + safe wrappers. |
-| 2026-11-24 16:37:37 | [flareapp](https://crates.io/crates/flareapp) | 0.1.0 | 0 | Report errors, logs and traces from Rust applications to Flare. |
-| 2026-11-24 16:39:35 | [velr-gds-runtime-linux-aarch64](https://crates.io/crates/velr-gds-runtime-linux-aarch64) | 0.2.65 | 0 | Velr Graph Data Science native add-on for linux-aarch64 |
-| 2026-11-24 16:39:38 | [velr-gds-runtime-linux-x86_64](https://crates.io/crates/velr-gds-runtime-linux-x86_64) | 0.2.65 | 0 | Velr Graph Data Science native add-on for linux-x86_64 |
-| 2026-11-24 16:39:40 | [velr-gds-runtime-macos-aarch64](https://crates.io/crates/velr-gds-runtime-macos-aarch64) | 0.2.65 | 0 | Velr Graph Data Science native add-on for macos-aarch64 |
-| 2026-11-24 16:39:42 | [velr-gds-runtime-macos-x86_64](https://crates.io/crates/velr-gds-runtime-macos-x86_64) | 0.2.65 | 0 | Velr Graph Data Science native add-on for macos-x86_64 |
-| 2026-11-24 16:39:45 | [velr-gds-runtime-windows-x86_64](https://crates.io/crates/velr-gds-runtime-windows-x86_64) | 0.2.65 | 0 | Velr Graph Data Science native add-on for windows-x86_64 |
-| 2026-11-24 16:43:00 | [tessyl](https://crates.io/crates/tessyl) | 0.0.1 | 0 | Multi-world game engine from Sylvite Studio (name reserved; nothing is publishe… |
-| 2026-11-24 16:44:00 | [quilt-auth](https://crates.io/crates/quilt-auth) | 0.1.0 | 0 | Transport-free authentication helpers shared by quilt-cli and quiltx: reading a… |
-| 2026-11-24 16:44:42 | [nsh-firebase-crashlytics](https://crates.io/crates/nsh-firebase-crashlytics) | 0.1.0 | 0 | Firebase Crashlytics for Native Shell Rust apps: the explicit-call facade over… |
-| 2026-11-24 16:50:41 | [velr-gds](https://crates.io/crates/velr-gds) | 0.2.65 | 0 | Graph Data Science add-on for the Velr Rust driver |
-| 2026-11-24 16:51:59 | [zrun-plugin-api](https://crates.io/crates/zrun-plugin-api) | 0.1.0-p0.6 | 0 | Native command admission plugin ABI for zrun |
-| 2026-11-24 16:52:12 | [zrun-cli](https://crates.io/crates/zrun-cli) | 0.1.0-p0.6 | 0 | Linux shell and MCP command broker for parallel agent workloads |
-| 2026-11-24 16:53:46 | [dynamo-router-policies](https://crates.io/crates/dynamo-router-policies) | 0.0.0-alpha.0 | 0 | Placeholder for soon-to-be-published crate |
-| 2026-11-24 16:54:03 | [standardizer-dependencies](https://crates.io/crates/standardizer-dependencies) | 1.0.0 | 0 | Synchronize machine-managed binary dependencies for Standardizer projects |
-| 2026-11-24 16:54:16 | [dynamo-global-common](https://crates.io/crates/dynamo-global-common) | 0.0.0-alpha.0 | 0 | Placeholder for soon-to-be-published crate |
-| 2026-11-24 16:54:49 | [dynamo-global-discovery-client](https://crates.io/crates/dynamo-global-discovery-client) | 0.0.0-alpha.0 | 0 | Placeholder for soon-to-be-published crate |
-| 2026-11-24 16:55:08 | [nsh-firebase-database](https://crates.io/crates/nsh-firebase-database) | 0.1.0 | 0 | Firebase Realtime Database for Native Shell Rust apps (REST with SSE live liste… |
-| 2026-11-24 16:55:19 | [velr-import-runtime-linux-x86_64](https://crates.io/crates/velr-import-runtime-linux-x86_64) | 0.1.0 | 0 | Native Velr CSV importer for linux-x86_64 |
-| 2026-11-24 16:55:22 | [dynamo-sglang-generate](https://crates.io/crates/dynamo-sglang-generate) | 0.0.0-alpha.0 | 0 | Placeholder for soon-to-be-published crate |
-| 2026-11-24 16:55:24 | [opi-telemetry](https://crates.io/crates/opi-telemetry) | 0.8.4 | 0 | Explicit, backend-neutral telemetry contexts, spans and metrics |
-| 2026-11-24 16:55:42 | [dynamo-vllm-generate](https://crates.io/crates/dynamo-vllm-generate) | 0.0.0-alpha.0 | 0 | Placeholder for soon-to-be-published crate |
-| 2026-11-24 16:59:45 | [spatie-holidays](https://crates.io/crates/spatie-holidays) | 1.0.0 | 0 | Calculate public holidays for a country |
-| 2026-11-24 17:05:19 | [velr-import-runtime-linux-aarch64](https://crates.io/crates/velr-import-runtime-linux-aarch64) | 0.1.0 | 0 | Native Velr CSV importer for linux-aarch64 |
-| 2026-11-24 17:05:32 | [nsh-firebase-firestore](https://crates.io/crates/nsh-firebase-firestore) | 0.1.0 | 0 | Firebase Cloud Firestore for Native Shell Rust apps: documents CRUD and structu… |
-| 2026-11-24 17:06:46 | [aiproxy-mcp-sdk](https://crates.io/crates/aiproxy-mcp-sdk) | 1.0.0 | 0 | Native (C ABI) SDK for MCP server plugins: typed descriptor/tool/result shapes,… |
-| 2026-11-24 17:09:47 | [rgpui-extra](https://crates.io/crates/rgpui-extra) | 0.1.0 | 0 | rgpui 生态的官方扩展库：当前提供 GitHub Release 更新组件（可选 feature，默认不回流） |
-| 2026-11-24 17:12:44 | [epochal-api](https://crates.io/crates/epochal-api) | 0.1.0 | 0 | Client for the Epochal API. Its time portal serves web search, web fetch and sa… |
-| 2026-11-24 17:12:46 | [epochal-mcp](https://crates.io/crates/epochal-mcp) | 0.1.0 | 0 | MCP server giving an agent Epochal's web search and web fetch, held to a past i… |
-| 2026-11-24 17:12:47 | [epochal-sandbox](https://crates.io/crates/epochal-sandbox) | 0.1.0 | 0 | Epochal sandboxes, in time-portal mode: Linux boxes whose clock and network are… |
-| 2026-11-24 17:12:48 | [epochal-cli](https://crates.io/crates/epochal-cli) | 0.1.0 | 0 | The Epochal command line: run an agent in a sandbox held to a past instant, and… |
-| 2026-11-24 17:13:13 | [kk-ui-rs](https://crates.io/crates/kk-ui-rs) | 0.1.0 | 0 | KK_UI 单色菜单 UI 的 Rust 移植：页式 1 bit 画布 + 页面/菜单/弹窗运行时，画布尺寸由应用给定 |
-| 2026-11-24 17:15:19 | [velr-import-runtime-macos-x86_64](https://crates.io/crates/velr-import-runtime-macos-x86_64) | 0.1.0 | 0 | Native Velr CSV importer for macos-x86_64 |
-| 2026-11-24 17:15:56 | [nsh-firebase-functions](https://crates.io/crates/nsh-firebase-functions) | 0.1.0 | 0 | Firebase Cloud Functions (https.callable) for Native Shell Rust apps: the calla… |
+| 2026-11-24 17:24:03 | [hivedb-index](https://crates.io/crates/hivedb-index) | 0.7.3 | 0 | Índices semánticos de HiveDB: BM25 (tantivy), ANN (HNSW propio) y fusión RRF. |
+| 2026-11-24 17:24:17 | [hivedb-core](https://crates.io/crates/hivedb-core) | 0.7.3 | 0 | Núcleo Rust de HiveDB: event-log append-only, proyecciones y tiers de memoria. |
+| 2026-11-24 17:24:26 | [hivedb-embed](https://crates.io/crates/hivedb-embed) | 0.7.3 | 0 | Embedder local de HiveDB: multilingual-e5-small sobre candle (Rust puro). |
+| 2026-11-24 17:24:35 | [hivedb-binding-core](https://crates.io/crates/hivedb-binding-core) | 0.7.3 | 0 | Lógica común de los bindings de HiveDB (Node y Python): DTOs, validación y erro… |
+| 2026-11-24 17:25:19 | [velr-import-runtime-macos-aarch64](https://crates.io/crates/velr-import-runtime-macos-aarch64) | 0.1.0 | 0 | Native Velr CSV importer for macos-aarch64 |
+| 2026-11-24 17:26:20 | [nsh-firebase-installations](https://crates.io/crates/nsh-firebase-installations) | 0.1.0 | 0 | Firebase installations for Native Shell Rust apps: local FID generation, the In… |
+| 2026-11-24 17:31:42 | [spatie-lighthouse](https://crates.io/crates/spatie-lighthouse) | 1.0.0 | 0 | Run Google Lighthouse using Rust |
+| 2026-11-24 17:34:31 | [mindcore-base](https://crates.io/crates/mindcore-base) | 0.1.0-alpha.1 | 0 | Storage-agnostic MIND domain core: records, knowledge, cognition and boundary t… |
+| 2026-11-24 17:34:50 | [mindcore-spi](https://crates.io/crates/mindcore-spi) | 0.1.0-alpha.1 | 0 | MIND ladder contract crate: capability and workflow seams over the published SP… |
+| 2026-11-24 17:35:04 | [sa17](https://crates.io/crates/sa17) | 0.1.0 | 0 | Pure-Rust reader for SQL Anywhere 17 database files |
+| 2026-11-24 17:35:09 | [mindcore-sqlite](https://crates.io/crates/mindcore-sqlite) | 0.1.0-alpha.1 | 0 | SQLite storage adapter for the MIND core: records, knowledge, cognition and vec… |
+| 2026-11-24 17:35:19 | [velr-import-runtime-windows-x86_64](https://crates.io/crates/velr-import-runtime-windows-x86_64) | 0.1.0 | 0 | Native Velr CSV importer for windows-x86_64 |
+| 2026-11-24 17:35:22 | [ironflowx-authz](https://crates.io/crates/ironflowx-authz) | 0.2.0 | 0 | Ironflow X credentials: the key format, its digest, and whether a key is valid.… |
+| 2026-11-24 17:35:24 | [ironflowx-store](https://crates.io/crates/ironflowx-store) | 0.2.0 | 0 | The Ironflow X control plane: which tenants, projects, environments and keys ex… |
+| 2026-11-24 17:35:25 | [ironflowx-operations](https://crates.io/crates/ironflowx-operations) | 0.2.0 | 0 | The Ironflow X engine: admits every call against the control plane, then runs i… |
+| 2026-11-24 17:36:42 | [hive-agent-core](https://crates.io/crates/hive-agent-core) | 0.1.1 | 0 | Portable Rust agent engine for Hive SDK |
+| 2026-11-24 17:36:43 | [nsh-firebase-messaging](https://crates.io/crates/nsh-firebase-messaging) | 0.1.0 | 0 | Firebase Cloud Messaging for Native Shell Rust apps: the messaging facade over… |
+| 2026-11-24 17:41:41 | [malak-fs](https://crates.io/crates/malak-fs) | 0.1.1 | 0 | Descriptor-relative filesystem operations for board state. Internal to Malak; n… |
+| 2026-11-24 17:41:44 | [malak-layers](https://crates.io/crates/malak-layers) | 0.1.1 | 0 | Traits and shared types for Malak stores, transports, identity mechanisms, and… |
+| 2026-11-24 17:41:49 | [malak-proto](https://crates.io/crates/malak-proto) | 0.1.1 | 0 | Transport-independent handshake, wire frames, and message encoding. Internal to… |
+| 2026-11-24 17:41:54 | [malak-record](https://crates.io/crates/malak-record) | 0.1.1 | 0 | Integrity checks for stored board records. Internal to Malak; no stability prom… |
+| 2026-11-24 17:42:00 | [malak-testkit](https://crates.io/crates/malak-testkit) | 0.1.1 | 0 | Reusable contract tests for Malak layer implementations |
+| 2026-11-24 17:45:19 | [velr-import](https://crates.io/crates/velr-import) | 0.1.0 | 0 | Standalone offline CSV importer for Velr databases |
+| 2026-11-24 17:47:07 | [nsh-firebase-perf](https://crates.io/crates/nsh-firebase-perf) | 0.1.0 | 0 | Firebase Performance Monitoring and the network monitor for Native Shell Rust a… |
+| 2026-11-24 17:47:52 | [hive-gateway-rust](https://crates.io/crates/hive-gateway-rust) | 0.1.1 | 0 | Hive gateway: companion binary that serves a Hive profile (channels, dashboard,… |
+| 2026-11-24 17:53:19 | [commandagi](https://crates.io/crates/commandagi) | 0.6.10 | 0 | The CommandAGI SDK for Rust: the platform client (agent threads, live sessions… |
+| 2026-11-24 17:53:39 | [malak-mechanism-key](https://crates.io/crates/malak-mechanism-key) | 0.1.1 | 0 | Registered-key authentication for Malak participants |
+| 2026-11-24 17:56:23 | [scx_catalog](https://crates.io/crates/scx_catalog) | 0.1.1 | 0 | The sched_ext scheduler catalog, built on scx.service |
+| 2026-11-24 17:57:30 | [nsh-firebase-remote-config](https://crates.io/crates/nsh-firebase-remote-config) | 0.1.0 | 0 | Firebase Remote Config for Native Shell Rust apps: defaults, typed gets, REST t… |
+| 2026-11-24 17:59:27 | [sozu-pki-connector](https://crates.io/crates/sozu-pki-connector) | 0.2.0 | 0 | This application retrieve pki in a directory and load them into Sōzu |
+| 2026-11-24 18:01:02 | [sozu-pulsar-connector](https://crates.io/crates/sozu-pulsar-connector) | 0.2.0 | 0 | Consume Sōzu configuration requests from Apache Pulsar and send them to Sōzu in… |
+| 2026-11-24 18:02:29 | [scx_panda](https://crates.io/crates/scx_panda) | 0.2.13 | 0 | A sched_ext scheduler built from discarded ideas and unspent potential: CoDel s… |
+| 2026-11-24 18:03:03 | [scxcli](https://crates.io/crates/scxcli) | 0.1.1 | 0 | Command-line tool for sched_ext schedulers, built on scx.service |
+| 2026-11-24 18:04:45 | [malak-journal](https://crates.io/crates/malak-journal) | 0.1.1 | 0 | Board journal encoding and replay. Internal to Malak; no stability promise. |
+| 2026-11-24 18:05:19 | [paperpaw-caldav](https://crates.io/crates/paperpaw-caldav) | 0.6.0-beta.4 | 0 | CalDAV, CardDAV and iCalendar for PaperPaw's plugins: content lines, VTODO and… |
+| 2026-11-24 18:05:23 | [paperpaw-sort](https://crates.io/crates/paperpaw-sort) | 0.6.0-beta.4 | 0 | One shared sorter for PaperPaw: stable sorts that share a single compiled sort… |
+| 2026-11-24 18:05:57 | [paperpaw-ui-kit](https://crates.io/crates/paperpaw-ui-kit) | 0.6.0-beta.4 | 0 | Drawing helpers for interface-7 plugin screens: stock UI style, header, list ro… |
+| 2026-11-24 18:06:01 | [paperpaw-epub-family](https://crates.io/crates/paperpaw-epub-family) | 1.0.5 | 0 | The shared conversion of the EPUB, HTML, FictionBook, Markdown and comic book f… |
+| 2026-11-24 18:06:02 | [paperpaw-plugin-anki](https://crates.io/crates/paperpaw-plugin-anki) | 1.0.1 | 0 | PaperPaw Anki: study the due cards of Anki on your computer and send the answer… |
+| 2026-11-24 18:07:53 | [nsh-firebase-storage](https://crates.io/crates/nsh-firebase-storage) | 0.1.0 | 0 | Firebase Cloud Storage for Native Shell Rust apps: resumable uploads with progr… |
+| 2026-11-24 18:08:55 | [openusd-mtlx](https://crates.io/crates/openusd-mtlx) | 0.0.0 | 0 | MaterialX documents as USD layers: a read-only `.mtlx` file format for openusd… |
+| 2026-11-24 18:10:48 | [rkmpi-sys](https://crates.io/crates/rkmpi-sys) | 0.1.0 | 0 | Raw FFI bindings to the Rockchip Rockit MPI SDK for RV1103/RV1106 (Luckfox Pico) |
+| 2026-11-24 18:11:04 | [miniident](https://crates.io/crates/miniident) | 0.1.0-alpha.1 | 0 | Online identifiability and excitation diagnostics on top of minikalman: is the… |
+| 2026-11-24 18:13:57 | [paperpaw-plugin-calendar](https://crates.io/crates/paperpaw-plugin-calendar) | 1.1.4 | 0 | PaperPaw Calendar: agenda, day, week and month views of CalDAV and iCal calenda… |
+| 2026-11-24 18:16:05 | [malak-store-markdown](https://crates.io/crates/malak-store-markdown) | 0.1.1 | 0 | Durable storage for Malak boards backed by Markdown files |
+| 2026-11-24 18:16:38 | [google-workspace-admin](https://crates.io/crates/google-workspace-admin) | 0.1.0 | 0 | Async, pure-Rust SDK for Google Workspace Admin SDK (Directory API v1) with nat… |
+| 2026-11-24 18:19:12 | [nsh-icons-codegen](https://crates.io/crates/nsh-icons-codegen) | 0.1.0 | 0 | Iconify JSON to Rust for supernsh-icons: alias resolution, identifiers and the… |
 
 ## Data source
 

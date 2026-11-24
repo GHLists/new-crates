@@ -1,0 +1,48 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-24T17:24:03.154633Z,hivedb-index,0.7.3,0,0,https://github.com/johpaz/hive-db,"Índices semánticos de HiveDB: BM25 (tantivy), ANN (HNSW propio) y fusión RRF."
+2026-11-24T17:24:17.801689Z,hivedb-core,0.7.3,0,0,https://github.com/johpaz/hive-db,"Núcleo Rust de HiveDB: event-log append-only, proyecciones y tiers de memoria."
+2026-11-24T17:24:26.433455Z,hivedb-embed,0.7.3,0,0,https://github.com/johpaz/hive-db,Embedder local de HiveDB: multilingual-e5-small sobre candle (Rust puro).
+2026-11-24T17:24:35.362715Z,hivedb-binding-core,0.7.3,0,0,https://github.com/johpaz/hive-db,"Lógica común de los bindings de HiveDB (Node y Python): DTOs, validación y errores con código."
+2026-11-24T17:25:19.73152Z,velr-import-runtime-macos-aarch64,0.1.0,0,0,,Native Velr CSV importer for macos-aarch64
+2026-11-24T17:26:20.023488Z,nsh-firebase-installations,0.1.0,0,0,https://github.com/SuperNSH/firebase,"Firebase installations for Native Shell Rust apps: local FID generation, the Installations REST register and authTokens:generate flows, {fid, refreshToken} persistence, and the native tier's firebase…"
+2026-11-24T17:31:42.237103Z,spatie-lighthouse,1.0.0,0,0,https://github.com/spatie/lighthouse-rust,Run Google Lighthouse using Rust
+2026-11-24T17:34:31.40127Z,mindcore-base,0.1.0-alpha.1,0,0,https://github.com/42ch-dev/mindcore,"Storage-agnostic MIND domain core: records, knowledge, cognition and boundary types"
+2026-11-24T17:34:50.009617Z,mindcore-spi,0.1.0-alpha.1,0,0,https://github.com/42ch-dev/mindcore,MIND ladder contract crate: capability and workflow seams over the published SPOKE DTOs
+2026-11-24T17:35:04.890792Z,sa17,0.1.0,0,0,https://github.com/2xf-org/sa17,Pure-Rust reader for SQL Anywhere 17 database files
+2026-11-24T17:35:09.65372Z,mindcore-sqlite,0.1.0-alpha.1,0,0,https://github.com/42ch-dev/mindcore,"SQLite storage adapter for the MIND core: records, knowledge, cognition and vectors"
+2026-11-24T17:35:19.970043Z,velr-import-runtime-windows-x86_64,0.1.0,0,0,,Native Velr CSV importer for windows-x86_64
+2026-11-24T17:35:22.333377Z,ironflowx-authz,0.2.0,0,0,https://github.com/ironflowx/foundation,"Ironflow X credentials: the key format, its digest, and whether a key is valid. Pure."
+2026-11-24T17:35:24.569122Z,ironflowx-store,0.2.0,0,0,https://github.com/ironflowx/foundation,"The Ironflow X control plane: which tenants, projects, environments and keys exist."
+2026-11-24T17:35:25.530628Z,ironflowx-operations,0.2.0,0,0,https://github.com/ironflowx/foundation,"The Ironflow X engine: admits every call against the control plane, then runs it on the environment's ledger or its keys."
+2026-11-24T17:36:42.960453Z,hive-agent-core,0.1.1,0,0,https://github.com/johpaz/hiveSDK-Rust,Portable Rust agent engine for Hive SDK
+2026-11-24T17:36:43.174968Z,nsh-firebase-messaging,0.1.0,0,0,https://github.com/SuperNSH/firebase,"Firebase Cloud Messaging for Native Shell Rust apps: the messaging facade over the native tier, and the pure tier's clear failures"
+2026-11-24T17:41:41.569923Z,malak-fs,0.1.1,0,0,https://github.com/malakhq/malak,Descriptor-relative filesystem operations for board state. Internal to Malak; no stability promise.
+2026-11-24T17:41:44.497029Z,malak-layers,0.1.1,0,0,https://github.com/malakhq/malak,"Traits and shared types for Malak stores, transports, identity mechanisms, and observation"
+2026-11-24T17:41:49.96532Z,malak-proto,0.1.1,0,0,https://github.com/malakhq/malak,"Transport-independent handshake, wire frames, and message encoding. Internal to Malak; no stability promise."
+2026-11-24T17:41:54.934356Z,malak-record,0.1.1,0,0,https://github.com/malakhq/malak,Integrity checks for stored board records. Internal to Malak; no stability promise.
+2026-11-24T17:42:00.83839Z,malak-testkit,0.1.1,0,0,https://github.com/malakhq/malak,Reusable contract tests for Malak layer implementations
+2026-11-24T17:45:19.362984Z,velr-import,0.1.0,0,0,,Standalone offline CSV importer for Velr databases
+2026-11-24T17:47:07.192756Z,nsh-firebase-perf,0.1.0,0,0,https://github.com/SuperNSH/firebase,"Firebase Performance Monitoring and the network monitor for Native Shell Rust apps: NetworkEvent capture, the ring-buffer monitor with per-host/per-path aggregates, instrumented fetch, traces and HTT…"
+2026-11-24T17:47:52.434864Z,hive-gateway-rust,0.1.1,0,0,https://github.com/johpaz/hiveSDK-Rust,"Hive gateway: companion binary that serves a Hive profile (channels, dashboard, agents) on top of hive-agent-core"
+2026-11-24T17:53:19.536431Z,commandagi,0.6.10,0,0,https://github.com/CommandAGI/commandagi-sdk-rust,"The CommandAGI SDK for Rust: the platform client (agent threads, live sessions on a simulated world) and CommandAGI documents (a schematic, a 3D part …) declared as code. No dependencies."
+2026-11-24T17:53:39.489646Z,malak-mechanism-key,0.1.1,0,0,https://github.com/malakhq/malak,Registered-key authentication for Malak participants
+2026-11-24T17:56:23.273148Z,scx_catalog,0.1.1,0,0,https://github.com/sched-ext/scx,"The sched_ext scheduler catalog, built on scx.service"
+2026-11-24T17:57:30.33526Z,nsh-firebase-remote-config,0.1.0,0,0,https://github.com/SuperNSH/firebase,"Firebase Remote Config for Native Shell Rust apps: defaults, typed gets, REST template parsing and an honest, pluggable fetch"
+2026-11-24T17:59:27.853474Z,sozu-pki-connector,0.2.0,0,0,,This application retrieve pki in a directory and load them into Sōzu
+2026-11-24T18:01:02.03183Z,sozu-pulsar-connector,0.2.0,0,0,,Consume Sōzu configuration requests from Apache Pulsar and send them to Sōzu in batches
+2026-11-24T18:02:29.200237Z,scx_panda,0.2.13,0,0,,"A sched_ext scheduler built from discarded ideas and unspent potential: CoDel sojourn ordering, effective-resistance distance pricing and a per-task run habit read as a price, every decision in BPF"
+2026-11-24T18:03:03.893879Z,scxcli,0.1.1,0,0,https://github.com/sched-ext/scx,"Command-line tool for sched_ext schedulers, built on scx.service"
+2026-11-24T18:04:45.991924Z,malak-journal,0.1.1,0,0,https://github.com/malakhq/malak,Board journal encoding and replay. Internal to Malak; no stability promise.
+2026-11-24T18:05:19.572805Z,paperpaw-caldav,0.6.0-beta.4,0,0,https://github.com/hthoene/paperpaw,"CalDAV, CardDAV and iCalendar for PaperPaw's plugins: content lines, VTODO and VEVENT read as they stream, recurrence rules, time zones, vCard birthdays, multistatus answers, addresses and ETags (no_…"
+2026-11-24T18:05:23.73974Z,paperpaw-sort,0.6.0-beta.4,0,0,https://github.com/hthoene/paperpaw,One shared sorter for PaperPaw: stable sorts that share a single compiled sort instead of one copy per element type (no_std)
+2026-11-24T18:05:57.530486Z,paperpaw-ui-kit,0.6.0-beta.4,0,0,https://github.com/hthoene/paperpaw,"Drawing helpers for interface-7 plugin screens: stock UI style, header, list rows, text fitting and catalog messages over the flat native SDK (no_std)"
+2026-11-24T18:06:01.209327Z,paperpaw-epub-family,1.0.5,0,0,https://github.com/hthoene/paperpaw,"The shared conversion of the EPUB, HTML, FictionBook, Markdown and comic book format plugins (no plugin of its own)"
+2026-11-24T18:06:02.851536Z,paperpaw-plugin-anki,1.0.1,0,0,https://github.com/hthoene/paperpaw,PaperPaw Anki: study the due cards of Anki on your computer and send the answers back (AnkiConnect)
+2026-11-24T18:07:53.989595Z,nsh-firebase-storage,0.1.0,0,0,https://github.com/SuperNSH/firebase,"Firebase Cloud Storage for Native Shell Rust apps: resumable uploads with progress, download, download URLs, metadata, list and delete over the pure-tier fetch transport"
+2026-11-24T18:08:55.217972Z,openusd-mtlx,0.0.0,0,0,https://github.com/mxpv/openusd,MaterialX documents as USD layers: a read-only `.mtlx` file format for openusd (name reserved; not yet released)
+2026-11-24T18:10:48.275361Z,rkmpi-sys,0.1.0,0,0,https://github.com/hatredBLSD/rkmpi-sys/,Raw FFI bindings to the Rockchip Rockit MPI SDK for RV1103/RV1106 (Luckfox Pico)
+2026-11-24T18:11:04.9596Z,miniident,0.1.0-alpha.1,0,0,https://github.com/sunsided/miniident,"Online identifiability and excitation diagnostics on top of minikalman: is the model identified, which parameters are not, and which input fixes it"
+2026-11-24T18:13:57.769718Z,paperpaw-plugin-calendar,1.1.4,0,0,https://github.com/hthoene/paperpaw,"PaperPaw Calendar: agenda, day, week and month views of CalDAV and iCal calendars and birthdays from contacts, with home screen widgets and a sleep screen"
+2026-11-24T18:16:05.575942Z,malak-store-markdown,0.1.1,0,0,https://github.com/malakhq/malak,Durable storage for Malak boards backed by Markdown files
+2026-11-24T18:16:38.253457Z,google-workspace-admin,0.1.0,0,0,https://github.com/DIYEPH/google-workspace-admin-rs,"Async, pure-Rust SDK for Google Workspace Admin SDK (Directory API v1) with native Service Account Domain-Wide Delegation, automatic OAuth2 token refresh, and exponential backoff."
+2026-11-24T18:19:12.201632Z,nsh-icons-codegen,0.1.0,0,0,https://github.com/SuperNSH/icons,"Iconify JSON to Rust for supernsh-icons: alias resolution, identifiers and the generated modules"
