@@ -1,0 +1,35 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-25T02:20:37.336694Z,nemo-relay-plugin-abi,1.0.0-rc.1,0,0,https://github.com/NVIDIA/NeMo-Relay,Versioned native plugin ABI contracts for NeMo Relay.
+2026-11-25T02:20:39.701226Z,nemo-relay-codecs,1.0.0-rc.1,0,0,https://github.com/NVIDIA/NeMo-Relay,"Provider request, response, streaming codecs and normalization for NeMo Relay."
+2026-11-25T02:20:42.216792Z,nemo-relay-diagnostics,1.0.0-rc.1,0,0,https://github.com/NVIDIA/NeMo-Relay,"Bounded diagnostics collection, evidence, and inspection for NeMo Relay."
+2026-11-25T02:20:44.973176Z,nemo-relay-model-pricing,1.0.0-rc.1,0,0,https://github.com/NVIDIA/NeMo-Relay,Model pricing catalogs and cost estimation for NeMo Relay.
+2026-11-25T02:20:47.652011Z,nemo-relay-logging,1.0.0-rc.1,0,0,https://github.com/NVIDIA/NeMo-Relay,"Operational logging configuration, backends, rotation, and diagnostic projection."
+2026-11-25T02:22:18.425472Z,tufazip-cli,0.2.1,0,0,https://github.com/bhubbard/tufazip-rs,Command-line interface for tufazip pure-Rust neural lossless compression and decompression
+2026-11-25T02:22:20.977173Z,gs-quant-skills,0.1.1,0,0,https://github.com/bhubbard/gs-quant-skills-rs,Bundled Pure Rust gs-quant AI skills and installer CLI library (zero-Python replacement for gs_quant.skills).
+2026-11-25T02:22:33.715711Z,nemo-relay-observability,1.0.0-rc.1,0,0,https://github.com/NVIDIA/NeMo-Relay,Built-in observability exporters and projections for NeMo Relay.
+2026-11-25T02:25:03.386581Z,rsbatis-core,0.1.0-alpha.4,0,0,,"Expression AST, column proxies and SQL rendering for rsbatis — the SQLAlchemy-Core-like layer of a Rust ORM."
+2026-11-25T02:26:17.584687Z,rsbatis-macros,0.1.0-alpha.4,0,0,,Procedural macros for rsbatis: SQLAlchemy-style where_! expression rewriting.
+2026-11-25T02:26:26.291931Z,rsbatis,0.1.0-alpha.7,0,0,,A SQLAlchemy-style async ORM for Rust: write select(User).where_(User.age >= 18).
+2026-11-25T02:31:04.042862Z,rsbatis-driver,0.1.0-alpha.3,0,0,,Query execution layer for rsbatis: unified driver abstraction over SQLite / MySQL / PostgreSQL with runtime-shaped parameter binding.
+2026-11-25T02:31:13.195535Z,rsbatis-orm,0.1.0-alpha.1,0,0,,"Session, model mapping and relationship layer for rsbatis (unit of work, eager loading, changesets)."
+2026-11-25T02:33:33.350119Z,ertangle-core,1.5.0,0,0,https://github.com/single9/ertangle,"Shared types, paths and i18n helpers for ertangle"
+2026-11-25T02:33:35.022057Z,ertangle-protocol,1.5.0,0,0,https://github.com/single9/ertangle,"Wire protocol between the ertangle daemon, TUI and CLI"
+2026-11-25T02:33:36.683483Z,ertangle-adapter,1.5.0,0,0,https://github.com/single9/ertangle,"Agent adapters (Claude Code, Codex, ACP) for ertangle"
+2026-11-25T02:33:38.562219Z,ertangle-daemon,1.5.0,0,0,https://github.com/single9/ertangle,Session daemon and MCP message bus for ertangle
+2026-11-25T02:33:40.428934Z,ertangle-tui,1.5.0,0,0,https://github.com/single9/ertangle,Terminal UI for ertangle
+2026-11-25T02:35:07.442998Z,rsbatis-migrate,0.1.0-alpha.1,0,0,,"Schema migration tool for rsbatis: versioned SQL migrations with up/down, status and rollback."
+2026-11-25T02:36:42.026201Z,viahop,0.1.1,0,0,https://github.com/owahltinez/viahop,"Fast, standalone, zero-dependency headless Specctra DSN/SES multi-layer PCB autorouter"
+2026-11-25T02:40:47.309075Z,nemo-relay-resource-metrics,1.0.0-rc.1,0,0,https://github.com/NVIDIA/NeMo-Relay,System resource collection and unit conversion for NeMo Relay.
+2026-11-25T02:43:11.855168Z,ertangle,1.5.0,0,0,https://github.com/single9/ertangle,Terminal-native multi-agent development environment (TUI)
+2026-11-25T02:43:14.621303Z,updater-plus,0.5.0,0,0,https://github.com/0x8000/updater-plus,Framework-agnostic Electron-style blockmap differential update engine and CLI
+2026-11-25T02:44:01.193624Z,tauri-plugin-fontgres,0.1.0,0,0,https://github.com/seferino-fernandez/tauri-plugin-fontgres,"Tauri v2 plugin that lists the system's fonts and answers CSS-style font queries, built on fontgres."
+2026-11-25T02:44:11.330123Z,lyrachi,0.5.0,0,0,https://github.com/ikhsan3adi/lyrachi,"Synchronized lyrics with animated visual stages in your terminal. Written in Rust. MPRIS, SMTC, MPD, WebNowPlaying, MediaRemote & AppleScript on macOS, plus a headless pipe. Powered by rich lyric sou…"
+2026-11-25T02:45:09.520896Z,rsboot,0.1.0-alpha.1,0,0,,"Project bootstrapper and CLI for the rsbatis ecosystem: scaffold a project, generate entities, run migrations."
+2026-11-25T02:50:58.97348Z,nemo-relay-runtime,1.0.0-rc.1,0,0,https://github.com/NVIDIA/NeMo-Relay,"Execution engine, scopes, registries, and continuation handling for NeMo Relay."
+2026-11-25T02:58:07.635546Z,length-rs,0.1.1,0,0,https://github.com/rbuck/length-rs,"Strongly typed, unit-preserving physical lengths."
+2026-11-25T03:01:08.198362Z,nemo-relay-plugin-host,1.0.0-rc.1,0,0,https://github.com/NVIDIA/NeMo-Relay,"Native and gRPC plugin loading, verification, registration, and lifecycle."
+2026-11-25T03:01:29.842074Z,audiencekit,0.1.0,0,0,https://github.com/lwm-luminx/audience-kit-sdk,"AudienceKit SDK for Rust: an audience's venues, people, locales and events over its GraphQL API"
+2026-11-25T03:01:53.206271Z,nemo-relay-builtins,1.0.0-rc.1,0,0,https://github.com/NVIDIA/NeMo-Relay,Default NeMo Relay plugin composition for SDKs and the CLI.
+2026-11-25T03:04:41.682096Z,tc_dsa_signer,0.1.0,0,0,https://github.com/TomiCheng/tc_signer,"DSA of FIPS 186: domain parameters, keys, FIPS 186-2 and 186-3 group generation, key pair generation and the signer, after Bouncy Castle."
+2026-11-25T03:05:42.300085Z,bora-foil,0.2.0,0,0,https://github.com/chrislupp/Bora,A port of NeuralFoil with analytic gradients
+2026-11-25T03:21:51.535504Z,line-rust,0.1.0,0,0,https://tangled.org/ryyr.net/line-rust,"Clean native Rust client, VoIP (PLANET/SRTP), CLI, and MCP server for LINE (full rewrite of evex-dev/linejs)"
