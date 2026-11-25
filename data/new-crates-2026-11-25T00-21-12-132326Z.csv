@@ -1,0 +1,30 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-24T23:24:54.117192Z,railid-tpm,1.0.0,0,0,https://github.com/nekomakura-nyan/rail-id,TPM 2.0 GetRandom backend for RailID
+2026-11-24T23:25:20.027237Z,railid,1.0.0,0,0,https://github.com/nekomakura-nyan/rail-id,RailID v1: 192-bit timestamp-first identifiers with TPM 2.0 + OS CSPRNG randomness
+2026-11-24T23:27:05.22564Z,earnest_semantic,0.1.0,0,0,https://github.com/cpeaustriajc/earnest,Internal part of earnest: the lowering from tree to checked model
+2026-11-24T23:27:13.981531Z,earnest_check,0.1.0,0,0,https://github.com/cpeaustriajc/earnest,Internal part of earnest: the search over every reachable state of a checked model
+2026-11-24T23:27:15.842495Z,paperplane-i18n,1.0.0,0,0,,Fluent localization for paperplane bots
+2026-11-24T23:27:22.297464Z,earnest_chart,0.1.0,0,0,https://github.com/cpeaustriajc/earnest,Internal part of earnest: the Mermaid chart and Markdown report writer
+2026-11-24T23:27:28.000333Z,earnest_rs,0.1.0,0,0,https://github.com/cpeaustriajc/earnest,Internal part of earnest: the Rust model reader
+2026-11-24T23:27:35.913376Z,earnest_tla,0.1.0,0,0,https://github.com/cpeaustriajc/earnest,Internal part of earnest: the TLA+ writer for a checked model
+2026-11-24T23:27:35.995407Z,tilo-automerge,0.4.0,0,0,https://code.tilo.so/tilo/tilo,"Apply incoming Automerge changes without keeping patch events nothing reads, and read typed values out of a document."
+2026-11-24T23:27:36.5677Z,tilo-bounded-zip,0.4.0,0,0,https://code.tilo.so/tilo/tilo,"Bounded ZIP for Tilo's document formats: reading untrusted packages (zip-bomb and XXE defence), and writing the archives an app exports"
+2026-11-24T23:27:36.859031Z,tilo-clock,0.4.0,0,0,https://code.tilo.so/tilo/tilo,"The sanctioned monotonic and wall clocks on every target, Unix-time helpers, and an injectable millisecond Clock with fixed and manual test clocks."
+2026-11-24T23:37:16.42576Z,paperplane-macros,1.0.0,0,0,,Derive macros for typed paperplane bots
+2026-11-24T23:37:51.710917Z,earnest_ts,0.1.0,0,0,https://github.com/cpeaustriajc/earnest,Internal part of earnest: the TypeScript model reader
+2026-11-24T23:39:22.422419Z,chhoto-url,7.11.8,0,0,https://github.com/SinTan1729/chhoto-url,A simple self-hosted URL shortener with no unnecessary features.
+2026-11-24T23:40:17.467311Z,docker-sandbox,0.1.1,0,0,https://github.com/aartintelligent/docker-sandbox,Typed async client for the sandboxd Unix socket of Docker Sandboxes (sbx)
+2026-11-24T23:42:17.019776Z,cloudflare-forge,0.3.0,0,0,https://github.com/cloudflare/forge,Schema-first OpenAPI code generation and surface tooling.
+2026-11-24T23:47:17.695912Z,paperplane-tg,1.0.0,0,0,,Batteries-included Telegram bot framework with day-one Bot API support
+2026-11-24T23:47:20.64164Z,pinc-portmap,0.1.0,0,0,https://github.com/sourcenetwork/pinc,"PINC port mapping: a SANS-IO client that asks the home gateway for a UDP mapping with PCP, NAT-PMP or UPnP-IGD, renews it before the lease ends and releases it on shutdown"
+2026-11-24T23:47:21.564918Z,pinc-table,0.1.0,0,0,https://github.com/sourcenetwork/pinc,"PINC fixed tables over one block of bytes made once: sorted slab, array by position, ring and slot pool; no allocation after setup"
+2026-11-24T23:47:22.258192Z,pinc-wire,0.1.0,0,0,https://github.com/sourcenetwork/pinc,"PINC encodings: canonical, bounded, length-prefixed codecs parsed in place from borrowed bytes"
+2026-11-24T23:47:24.278505Z,pinc-crypto,0.1.0,0,0,https://github.com/sourcenetwork/pinc,"PINC primitives behind one static interface: AEADs, X25519, ML-KEM-768, identities, a BLAKE3 KDF and a DRBG"
+2026-11-24T23:47:25.098009Z,pinc-dag,0.1.0,0,0,https://github.com/sourcenetwork/pinc,"PINC lite DAG library: CIDs and blocks in DefraDB's format, BLAKE3 verified streaming, verified-range sets; no networking code"
+2026-11-24T23:48:10.583617Z,earnest-cli,0.1.0,0,0,https://github.com/cpeaustriajc/earnest,The earnest model checker: checks every reachable state of a model written in TypeScript or Rust
+2026-11-24T23:50:47.751561Z,day-sync,0.3.0,0,0,https://github.com/daybrite/day-sync,Experimental replication of a Day persistence store: the engine and its store contract
+2026-11-24T23:57:18.022948Z,paperplane-test,1.0.0,0,0,,"Fake Telegram, scripted transports and typed request assertions for paperplane bots"
+2026-11-24T23:57:30.916591Z,hql-sys,0.8.0,0,0,https://github.com/ewiger/hql,"The operating-system calls of hql that need unsafe, behind a safe API"
+2026-11-24T23:59:01.682584Z,pinc-membership,0.1.0,0,0,https://github.com/sourcenetwork/pinc,"PINC membership: the hub stream codec, the hub lease roster and the member view, as SANS-IO state machines"
+2026-11-25T00:10:17.372903Z,pinc-broadcast,0.1.0,0,0,https://github.com/sourcenetwork/pinc,"PINC topic broadcast with origin authentication: signed messages, a hub topic log, gap repair, replay floors and a member-to-member fallback, as a SANS-IO state machine"
+2026-11-25T00:18:22.148946Z,stikk-app,0.22.0,0,0,https://github.com/prikk-vcs/stikk,"The program every stikk front end drives: the application state, its transitions, and the worker protocol. Owns no widgets and no terminal; a front end supplies intents and reports what it drew."

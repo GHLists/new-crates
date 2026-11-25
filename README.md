@@ -8,51 +8,43 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-24 23:20 UTC
+## Latest list — 2026-11-25 00:21 UTC
 
-New crates published between 2026-11-24 22:22 UTC and 2026-11-24 23:20 UTC.
+New crates published between 2026-11-24 23:20 UTC and 2026-11-25 00:21 UTC.
 
-[Full CSV](data/new-crates-2026-11-24T23-20-47-106079Z.csv)
+[Full CSV](data/new-crates-2026-11-25T00-21-12-132326Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-24 22:26:28 | [datastreamdb-loader](https://crates.io/crates/datastreamdb-loader) | 0.1.0 | 0 | Bulk and live data loaders: RDF/JSON ingest into engines. |
-| 2026-11-24 22:27:00 | [staquia](https://crates.io/crates/staquia) | 0.1.0 | 0 | Lexicographic positions: short strings that keep the order of a list, so moving… |
-| 2026-11-24 22:27:50 | [rne_hardware_gateway](https://crates.io/crates/rne_hardware_gateway) | 0.4.0 | 0 | Bounded fail-closed hardware gateway contracts for Robot Native Engine |
-| 2026-11-24 22:30:45 | [camus-macros-support](https://crates.io/crates/camus-macros-support) | 0.2.0 | 0 | What the Camus macro crates share: the definition header and its checks, and a… |
-| 2026-11-24 22:30:45 | [camus-pi](https://crates.io/crates/camus-pi) | 0.2.0 | 0 | pi's model, transcript and provider semantics, ported to Rust for the agentic k… |
-| 2026-11-24 22:30:46 | [camus-agentic-macros](https://crates.io/crates/camus-agentic-macros) | 0.2.0 | 0 | The macros of the agentic kind: #[agent] and #[agentic_extension] |
-| 2026-11-24 22:30:46 | [camus-graph-macros](https://crates.io/crates/camus-graph-macros) | 0.2.0 | 0 | The macro of the graph kind: #[graph], a graph as a module of nodes |
-| 2026-11-24 22:30:46 | [camus-macros](https://crates.io/crates/camus-macros) | 0.2.0 | 0 | Procedural macros that declare Camus tools, human tools, questions and signals |
-| 2026-11-24 22:35:20 | [camus-runtime](https://crates.io/crates/camus-runtime) | 0.2.0 | 0 | The Camus runtime: actors, executions, activations, ctx and the contracts |
-| 2026-11-24 22:38:55 | [datastreamdb-server](https://crates.io/crates/datastreamdb-server) | 0.1.0 | 0 | Standalone binaries: alpha, zero, bulk, live. |
-| 2026-11-24 22:39:07 | [rne_hardware_lekiwi](https://crates.io/crates/rne_hardware_lekiwi) | 0.4.0 | 0 | Fail-closed LeKiwi + SO-101 reference hardware adapter for Robot Native Engine |
-| 2026-11-24 22:46:34 | [camus-adapter-iond](https://crates.io/crates/camus-adapter-iond) | 0.2.0 | 0 | A Camus service on iond: the cell's SQLite as the runtime's log, and the queues… |
-| 2026-11-24 22:50:59 | [searchwala](https://crates.io/crates/searchwala) | 8.3.1 | 0 | Meta-search engine and zero-dependency MCP server in Rust: cross-engine consens… |
-| 2026-11-24 22:53:31 | [rne_mjcf](https://crates.io/crates/rne_mjcf) | 0.4.0 | 0 | Minimal MuJoCo MJCF model import (MJCF -> URDF) for Robot Native Engine |
-| 2026-11-24 22:53:44 | [tilo-advisory-lock](https://crates.io/crates/tilo-advisory-lock) | 0.4.0 | 0 | One advisory file-lock guard that unlocks explicitly on drop. |
-| 2026-11-24 22:53:45 | [tilo-app-fleet](https://crates.io/crates/tilo-app-fleet) | 0.4.0 | 0 | What every Tilo app's signed manifest says about it, compiled in: names, keywor… |
-| 2026-11-24 22:53:45 | [tilo-app-id](https://crates.io/crates/tilo-app-id) | 0.4.0 | 0 | The id an app is known by: its reverse-DNS name. |
-| 2026-11-24 22:53:46 | [tilo-app-module](https://crates.io/crates/tilo-app-module) | 0.4.0 | 0 | Later builds of a running app whose payload is its module: the directory each g… |
-| 2026-11-24 22:53:46 | [tilo-automerge-fork](https://crates.io/crates/tilo-automerge-fork) | 0.4.0 | 0 | automerge 0.12.0 (https://github.com/automerge/automerge) with each text object… |
-| 2026-11-24 22:54:11 | [graphlava](https://crates.io/crates/graphlava) | 0.1.0-alpha.1 | 0 | A mutable, single-file metagraph database for agent memory |
-| 2026-11-24 22:54:25 | [graphlava-ffi](https://crates.io/crates/graphlava-ffi) | 0.1.0-alpha.1 | 0 | C API of graphlava, an embedded metagraph database for agent memory (libgraphla… |
-| 2026-11-24 22:54:34 | [graphlava-cli](https://crates.io/crates/graphlava-cli) | 0.1.0-alpha.1 | 0 | Command-line tool for graphlava: query, update, import, export and inspect meta… |
-| 2026-11-24 22:57:30 | [camus-human](https://crates.io/crates/camus-human) | 0.2.0 | 0 | The answers a human tool asks for (confirm, choose one, choose many, free text)… |
-| 2026-11-24 23:02:32 | [steamapps-scan](https://crates.io/crates/steamapps-scan) | 0.1.0 | 0 | Generic Steam app inventory and executable discovery with validated paths and n… |
-| 2026-11-24 23:04:41 | [rne_plateau](https://crates.io/crates/rne_plateau) | 0.4.0 | 0 | Deterministic PLATEAU CityGML import pipeline for Robot Native Engine |
-| 2026-11-24 23:08:26 | [camus-graph](https://crates.io/crates/camus-graph) | 0.2.0 | 0 | The graph kind: a typed state machine over nodes declared as a module, run one… |
-| 2026-11-24 23:15:49 | [rne_render_wgpu](https://crates.io/crates/rne_render_wgpu) | 0.4.0 | 0 | wgpu render backend for Robot Native Engine |
-| 2026-11-24 23:15:49 | [rne_sdf](https://crates.io/crates/rne_sdf) | 0.4.0 | 0 | Minimal SDF model import (SDF -> URDF) for Robot Native Engine |
-| 2026-11-24 23:17:09 | [paperplane-types](https://crates.io/crates/paperplane-types) | 1.0.0 | 0 | Telegram Bot API types for the paperplane framework |
-| 2026-11-24 23:17:11 | [paperplane-client](https://crates.io/crates/paperplane-client) | 1.0.0 | 0 | Telegram Bot API client for the paperplane framework |
-| 2026-11-24 23:17:14 | [paperplane-dispatch](https://crates.io/crates/paperplane-dispatch) | 1.0.0 | 0 | Typed update contexts and dispatch for paperplane bots |
-| 2026-11-24 23:17:15 | [paperplane-utils](https://crates.io/crates/paperplane-utils) | 1.0.0 | 0 | Text formatting and bot utilities for paperplane |
-| 2026-11-24 23:17:18 | [paperplane-fsm](https://crates.io/crates/paperplane-fsm) | 1.0.0 | 0 | State storage and typed conversations for paperplane bots |
-| 2026-11-24 23:17:26 | [rsb-sandbox](https://crates.io/crates/rsb-sandbox) | 0.2.0 | 0 | Rootless Linux process sandbox in pure Rust (Namespaces, Landlock, Seccomp-BPF,… |
-| 2026-11-24 23:19:13 | [agents-flow](https://crates.io/crates/agents-flow) | 0.2.0 | 0 | Secure multi-agent team : centralised permissions, tool-side guardrails, audit… |
-| 2026-11-24 23:19:20 | [camus-agentic](https://crates.io/crates/camus-agentic) | 0.2.0 | 0 | The agentic kind: pi's durable model loop, one turn per activation, on ctx |
-| 2026-11-24 23:19:31 | [open-evdop](https://crates.io/crates/open-evdop) | 0.1.0 | 0 | Voronoi diagram computation for points, line segments, and circular arcs with o… |
+| 2026-11-24 23:24:54 | [railid-tpm](https://crates.io/crates/railid-tpm) | 1.0.0 | 0 | TPM 2.0 GetRandom backend for RailID |
+| 2026-11-24 23:25:20 | [railid](https://crates.io/crates/railid) | 1.0.0 | 0 | RailID v1: 192-bit timestamp-first identifiers with TPM 2.0 + OS CSPRNG randomn… |
+| 2026-11-24 23:27:05 | [earnest_semantic](https://crates.io/crates/earnest_semantic) | 0.1.0 | 0 | Internal part of earnest: the lowering from tree to checked model |
+| 2026-11-24 23:27:13 | [earnest_check](https://crates.io/crates/earnest_check) | 0.1.0 | 0 | Internal part of earnest: the search over every reachable state of a checked mo… |
+| 2026-11-24 23:27:15 | [paperplane-i18n](https://crates.io/crates/paperplane-i18n) | 1.0.0 | 0 | Fluent localization for paperplane bots |
+| 2026-11-24 23:27:22 | [earnest_chart](https://crates.io/crates/earnest_chart) | 0.1.0 | 0 | Internal part of earnest: the Mermaid chart and Markdown report writer |
+| 2026-11-24 23:27:28 | [earnest_rs](https://crates.io/crates/earnest_rs) | 0.1.0 | 0 | Internal part of earnest: the Rust model reader |
+| 2026-11-24 23:27:35 | [earnest_tla](https://crates.io/crates/earnest_tla) | 0.1.0 | 0 | Internal part of earnest: the TLA+ writer for a checked model |
+| 2026-11-24 23:27:35 | [tilo-automerge](https://crates.io/crates/tilo-automerge) | 0.4.0 | 0 | Apply incoming Automerge changes without keeping patch events nothing reads, an… |
+| 2026-11-24 23:27:36 | [tilo-bounded-zip](https://crates.io/crates/tilo-bounded-zip) | 0.4.0 | 0 | Bounded ZIP for Tilo's document formats: reading untrusted packages (zip-bomb a… |
+| 2026-11-24 23:27:36 | [tilo-clock](https://crates.io/crates/tilo-clock) | 0.4.0 | 0 | The sanctioned monotonic and wall clocks on every target, Unix-time helpers, an… |
+| 2026-11-24 23:37:16 | [paperplane-macros](https://crates.io/crates/paperplane-macros) | 1.0.0 | 0 | Derive macros for typed paperplane bots |
+| 2026-11-24 23:37:51 | [earnest_ts](https://crates.io/crates/earnest_ts) | 0.1.0 | 0 | Internal part of earnest: the TypeScript model reader |
+| 2026-11-24 23:39:22 | [chhoto-url](https://crates.io/crates/chhoto-url) | 7.11.8 | 0 | A simple self-hosted URL shortener with no unnecessary features. |
+| 2026-11-24 23:40:17 | [docker-sandbox](https://crates.io/crates/docker-sandbox) | 0.1.1 | 0 | Typed async client for the sandboxd Unix socket of Docker Sandboxes (sbx) |
+| 2026-11-24 23:42:17 | [cloudflare-forge](https://crates.io/crates/cloudflare-forge) | 0.3.0 | 0 | Schema-first OpenAPI code generation and surface tooling. |
+| 2026-11-24 23:47:17 | [paperplane-tg](https://crates.io/crates/paperplane-tg) | 1.0.0 | 0 | Batteries-included Telegram bot framework with day-one Bot API support |
+| 2026-11-24 23:47:20 | [pinc-portmap](https://crates.io/crates/pinc-portmap) | 0.1.0 | 0 | PINC port mapping: a SANS-IO client that asks the home gateway for a UDP mappin… |
+| 2026-11-24 23:47:21 | [pinc-table](https://crates.io/crates/pinc-table) | 0.1.0 | 0 | PINC fixed tables over one block of bytes made once: sorted slab, array by posi… |
+| 2026-11-24 23:47:22 | [pinc-wire](https://crates.io/crates/pinc-wire) | 0.1.0 | 0 | PINC encodings: canonical, bounded, length-prefixed codecs parsed in place from… |
+| 2026-11-24 23:47:24 | [pinc-crypto](https://crates.io/crates/pinc-crypto) | 0.1.0 | 0 | PINC primitives behind one static interface: AEADs, X25519, ML-KEM-768, identit… |
+| 2026-11-24 23:47:25 | [pinc-dag](https://crates.io/crates/pinc-dag) | 0.1.0 | 0 | PINC lite DAG library: CIDs and blocks in DefraDB's format, BLAKE3 verified str… |
+| 2026-11-24 23:48:10 | [earnest-cli](https://crates.io/crates/earnest-cli) | 0.1.0 | 0 | The earnest model checker: checks every reachable state of a model written in T… |
+| 2026-11-24 23:50:47 | [day-sync](https://crates.io/crates/day-sync) | 0.3.0 | 0 | Experimental replication of a Day persistence store: the engine and its store c… |
+| 2026-11-24 23:57:18 | [paperplane-test](https://crates.io/crates/paperplane-test) | 1.0.0 | 0 | Fake Telegram, scripted transports and typed request assertions for paperplane… |
+| 2026-11-24 23:57:30 | [hql-sys](https://crates.io/crates/hql-sys) | 0.8.0 | 0 | The operating-system calls of hql that need unsafe, behind a safe API |
+| 2026-11-24 23:59:01 | [pinc-membership](https://crates.io/crates/pinc-membership) | 0.1.0 | 0 | PINC membership: the hub stream codec, the hub lease roster and the member view… |
+| 2026-11-25 00:10:17 | [pinc-broadcast](https://crates.io/crates/pinc-broadcast) | 0.1.0 | 0 | PINC topic broadcast with origin authentication: signed messages, a hub topic l… |
+| 2026-11-25 00:18:22 | [stikk-app](https://crates.io/crates/stikk-app) | 0.22.0 | 0 | The program every stikk front end drives: the application state, its transition… |
 
 ## Data source
 
