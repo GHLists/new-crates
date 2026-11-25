@@ -8,86 +8,71 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-25 11:21 UTC
+## Latest list — 2026-11-25 12:18 UTC
 
-New crates published between 2026-11-25 10:19 UTC and 2026-11-25 11:21 UTC.
+New crates published between 2026-11-25 11:21 UTC and 2026-11-25 12:18 UTC.
 
-[Full CSV](data/new-crates-2026-11-25T11-21-51-250403Z.csv)
+[Full CSV](data/new-crates-2026-11-25T12-18-48-511681Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-25 10:19:38 | [cw-protocol](https://crates.io/crates/cw-protocol) | 0.3.0 | 0 | ComputerWorld's versioned, serializable contracts, with no host I/O |
-| 2026-11-25 10:22:33 | [pod-natprobe](https://crates.io/crates/pod-natprobe) | 0.0.0 | 0 | The NAT probe: STUN-based classification of the NAT in front of a host |
-| 2026-11-25 10:25:39 | [fluau_macros](https://crates.io/crates/fluau_macros) | 0.1.0 | 0 | Proc-macros for fluau host APIs (#[host_module], HostType, HostUserData) |
-| 2026-11-25 10:25:51 | [koru-auth-request](https://crates.io/crates/koru-auth-request) | 0.1.0 | 0 | Koru 组件：子请求鉴权（Nginx ngx_http_auth_request_module 的等价物） |
-| 2026-11-25 10:26:03 | [cw-determinism](https://crates.io/crates/cw-determinism) | 0.3.0 | 0 | ComputerWorld's host-independent logical time, SplitMix64 streams and ordered c… |
-| 2026-11-25 10:26:28 | [fluau](https://crates.io/crates/fluau) | 0.1.0 | 0 | Sandboxed Luau plugin runtime for Flutter hosts (tools only — no bundled HostAP… |
-| 2026-11-25 10:29:38 | [telers-types](https://crates.io/crates/telers-types) | 10.5.0 | 0 | Telegram Bot API types without an HTTP client or bot framework |
-| 2026-11-25 10:30:23 | [telers-methods](https://crates.io/crates/telers-methods) | 10.5.0 | 0 | Telegram Bot API methods and request builders independent of an HTTP client |
-| 2026-11-25 10:32:56 | [pod-tpm](https://crates.io/crates/pod-tpm) | 0.0.0 | 0 | A TPM 2.0 codec in pure Rust for a P-256 key that a TPM keeps |
-| 2026-11-25 10:32:56 | [rgpui-xim-ctext](https://crates.io/crates/rgpui-xim-ctext) | 0.1.0 | 0 | compound text en/decoder |
-| 2026-11-25 10:33:05 | [rgpui-xim-gen](https://crates.io/crates/rgpui-xim-gen) | 0.1.0 | 0 | XIM protocol parser generator |
-| 2026-11-25 10:33:25 | [cw-encode](https://crates.io/crates/cw-encode) | 0.3.0 | 0 | ComputerWorld's canonical encoding: values as tagged bytes streamed into a hash… |
-| 2026-11-25 10:33:28 | [rgpui-xim-parser](https://crates.io/crates/rgpui-xim-parser) | 0.1.0 | 0 | XIM protocol parser |
-| 2026-11-25 10:33:49 | [ragon-search](https://crates.io/crates/ragon-search) | 0.0.1 | 0 | Name reserved for Ragon by Dreamference, a local, air-gapped agentic pair progr… |
-| 2026-11-25 10:33:52 | [ragon-fetch](https://crates.io/crates/ragon-fetch) | 0.0.1 | 0 | Name reserved for Ragon by Dreamference, a local, air-gapped agentic pair progr… |
-| 2026-11-25 10:33:55 | [ragon-ai](https://crates.io/crates/ragon-ai) | 0.0.1 | 0 | Name reserved for Ragon by Dreamference, a local, air-gapped agentic pair progr… |
-| 2026-11-25 10:33:57 | [ragon-cli](https://crates.io/crates/ragon-cli) | 0.0.1 | 0 | Name reserved for Ragon by Dreamference, a local, air-gapped agentic pair progr… |
-| 2026-11-25 10:34:00 | [ragon-signal](https://crates.io/crates/ragon-signal) | 0.0.1 | 0 | Name reserved for Ragon by Dreamference, a local, air-gapped agentic pair progr… |
-| 2026-11-25 10:35:25 | [b-positive](https://crates.io/crates/b-positive) | 0.1.0 | 0 | A persistent, copy-on-write B+tree with snapshot readers |
-| 2026-11-25 10:35:27 | [invertdb-larry](https://crates.io/crates/invertdb-larry) | 0.1.0 | 0 | Blobs: append-only, memory-mapped |
-| 2026-11-25 10:35:29 | [blammo](https://crates.io/crates/blammo) | 0.1.0 | 0 | A write-ahead log |
-| 2026-11-25 10:35:33 | [introvert](https://crates.io/crates/introvert) | 0.1.0 | 0 | A generic inverted index: any source inverted into any unit, on b-positive |
-| 2026-11-25 10:35:37 | [invertdb-collection](https://crates.io/crates/invertdb-collection) | 0.1.0 | 0 | The collection layer: a write-ahead-logged, committed and published introvert i… |
-| 2026-11-25 10:36:26 | [authrs-client](https://crates.io/crates/authrs-client) | 0.0.20 | 0 | Typed async Rust client for the Authrs multi-tenant authentication service |
-| 2026-11-25 10:36:27 | [koru-basic-auth](https://crates.io/crates/koru-basic-auth) | 0.1.0 | 0 | Koru 组件：HTTP Basic 认证（auth_basic） |
-| 2026-11-25 10:37:40 | [rulez](https://crates.io/crates/rulez) | 0.1.0 | 0 | Cross-language QA rule runner (rules) and duplicated-helper detector (simlr), b… |
-| 2026-11-25 10:38:46 | [http-request-matcher](https://crates.io/crates/http-request-matcher) | 0.0.1 | 0 | HTTP request matching components. |
-| 2026-11-25 10:43:07 | [pod-gzip](https://crates.io/crates/pod-gzip) | 0.0.0 | 0 | gzip members with a bounded pool of threads |
-| 2026-11-25 10:43:25 | [cw-evaluation](https://crates.io/crates/cw-evaluation) | 0.3.0 | 0 | ComputerWorld's optional evaluation policy for tasks in a world |
-| 2026-11-25 10:44:03 | [tauri-plugin-licers](https://crates.io/crates/tauri-plugin-licers) | 1.0.0 | 0 | License keys for Tauri v2 apps: Ed25519-signed checks in Rust, device limits, t… |
-| 2026-11-25 10:44:44 | [ragon-chat](https://crates.io/crates/ragon-chat) | 0.0.1 | 0 | Name reserved for Ragon by Dreamference, a local, air-gapped agentic pair progr… |
-| 2026-11-25 10:46:53 | [koru-charset](https://crates.io/crates/koru-charset) | 0.1.0 | 0 | Koru 组件：响应字符集声明与重编码（Nginx charset 模块的等价物） |
-| 2026-11-25 10:52:16 | [stitch-me-up-core](https://crates.io/crates/stitch-me-up-core) | 0.5.0 | 0 | Deterministic image composition engine: layout planning and rendering over RGBA… |
-| 2026-11-25 10:53:18 | [pod-h2](https://crates.io/crates/pod-h2) | 0.0.0 | 0 | A fork of h2 0.4.20 with client::Builder::pseudo_order |
-| 2026-11-25 10:53:28 | [cw-artwork](https://crates.io/crates/cw-artwork) | 0.3.0 | 0 | Deterministic generative cover artwork shared by the music applications and the… |
-| 2026-11-25 10:55:17 | [ragon-web](https://crates.io/crates/ragon-web) | 0.0.1 | 0 | Name reserved for Ragon by Dreamference, a local, air-gapped agentic pair progr… |
-| 2026-11-25 10:55:23 | [reticuli](https://crates.io/crates/reticuli) | 0.1.0 | 0 | Cell-based graphics library fully compatible with terminals and windows alike. |
-| 2026-11-25 10:55:41 | [egin](https://crates.io/crates/egin) | 0.1.3 | 0 | Filesystem-first framework for durable backend agents |
-| 2026-11-25 10:57:20 | [hazard3-st7789v-graphics](https://crates.io/crates/hazard3-st7789v-graphics) | 0.5.0 | 0 | no_std 2D graphics for ST7789V displays in the independent Hazard3 Async ecosys… |
-| 2026-11-25 10:57:36 | [koru-compress](https://crates.io/crates/koru-compress) | 0.1.0 | 0 | Koru 组件：gzip / brotli 响应压缩与算法协商 |
-| 2026-11-25 10:57:42 | [cuprite_wire_ibis](https://crates.io/crates/cuprite_wire_ibis) | 0.4.0 | 0 | Reads IBIS (I/O Buffer Information Specification) models |
-| 2026-11-25 10:57:48 | [stitch-me-up-wasm](https://crates.io/crates/stitch-me-up-wasm) | 0.5.0 | 0 | WebAssembly adapter for the 🩹 Stitch Me Up image composition engine |
-| 2026-11-25 10:57:58 | [stitch-me-up](https://crates.io/crates/stitch-me-up) | 0.5.0 | 0 | CLI for the 🩹 Stitch Me Up image composition engine |
-| 2026-11-25 11:00:50 | [tracefast](https://crates.io/crates/tracefast) | 0.1.0 | 0 | The official Rust SDK for the TraceFast API: Ethereum blocks, transactions, cal… |
-| 2026-11-25 11:03:27 | [cw-map](https://crates.io/crates/cw-map) | 0.3.0 | 0 | Deterministic street maps for the geo sites and the native Maps app, from place… |
-| 2026-11-25 11:04:41 | [koru-dav](https://crates.io/crates/koru-dav) | 0.1.0 | 0 | Koru 组件：受限文件系统 DAV（PUT/DELETE/MKCOL/COPY/MOVE/PROPFIND） |
-| 2026-11-25 11:05:51 | [ragon-serve](https://crates.io/crates/ragon-serve) | 0.0.1 | 0 | Name reserved for Ragon by Dreamference, a local, air-gapped agentic pair progr… |
-| 2026-11-25 11:06:17 | [sgl-physics](https://crates.io/crates/sgl-physics) | 0.11.0 | 0 | Deterministic kinematic physics for SGL games: boxes, balls, capsules and conve… |
-| 2026-11-25 11:13:13 | [hazard3-st7789v-plot](https://crates.io/crates/hazard3-st7789v-plot) | 0.5.0 | 0 | no_std Cartesian plotting for ST7789V displays in the independent Hazard3 Async… |
-| 2026-11-25 11:13:25 | [cw-script-host](https://crates.io/crates/cw-script-host) | 0.3.0 | 0 | The capability surface an embedded language runtime (python3, node) sees of a s… |
-| 2026-11-25 11:14:53 | [koru-guard](https://crates.io/crates/koru-guard) | 0.1.0 | 0 | Koru 组件：并发闸门、单请求超时与请求体上限 |
-| 2026-11-25 11:16:22 | [dtp-codec](https://crates.io/crates/dtp-codec) | 0.4.3 | 0 | Core DTP v0.1 codec: Hybrid Logical Clocks, EventEnvelopes, DTAP01 container I/… |
-| 2026-11-25 11:16:25 | [ragon-engine](https://crates.io/crates/ragon-engine) | 0.0.1 | 0 | Name reserved for Ragon by Dreamference, a local, air-gapped agentic pair progr… |
-| 2026-11-25 11:16:28 | [devtape-scrub](https://crates.io/crates/devtape-scrub) | 0.4.3 | 0 | Streaming sliding-window secret scrubber with deterministic structural placehol… |
-| 2026-11-25 11:16:31 | [dtp-wasm](https://crates.io/crates/dtp-wasm) | 0.4.3 | 0 | Incremental per-span ANSI replay sanitizer and .tape decoder helper for DevTape… |
-| 2026-11-25 11:16:34 | [devtape-git](https://crates.io/crates/devtape-git) | 0.4.3 | 0 | Non-destructive Git shadow snapshots, FastCDC content-addressed storage, and sa… |
-| 2026-11-25 11:16:36 | [ondomathx-mesh](https://crates.io/crates/ondomathx-mesh) | 0.1.0 | 0 | Meshes, geometric maps, labels and DOF numbering for the OndoMathX finite-eleme… |
-| 2026-11-25 11:16:38 | [ondomathx-sem](https://crates.io/crates/ondomathx-sem) | 0.1.0 | 0 | Matrix-free spectral elements on quadrangle and hexahedron meshes. |
-| 2026-11-25 11:16:39 | [ondomathx-tetrix](https://crates.io/crates/ondomathx-tetrix) | 0.1.0 | 0 | Finite elements on tetrahedral meshes: elements with 4 to 15 nodes, a P2 space… |
-| 2026-11-25 11:16:40 | [ondomathx-toolbox](https://crates.io/crates/ondomathx-toolbox) | 0.1.0 | 0 | Shared tools of the OndoMathX crates. |
-| 2026-11-25 11:16:45 | [devtape-pty](https://crates.io/crates/devtape-pty) | 0.4.3 | 0 | Zero-stall cross-platform PTY session recorder with byte-bounded QoS backpressu… |
-| 2026-11-25 11:17:59 | [sgl-deepseek-recipe-macros](https://crates.io/crates/sgl-deepseek-recipe-macros) | 0.2.1 | 0 | Procedural macros for deepseek-recipe: the `prompt!` template macro and the `Un… |
-| 2026-11-25 11:18:02 | [sgl-deepseek-recipe-core](https://crates.io/crates/sgl-deepseek-recipe-core) | 0.2.1 | 0 | Shared conversation, message, and tool types for DeepSeek models. |
-| 2026-11-25 11:18:05 | [sgl-deepseek-recipe-encoding](https://crates.io/crates/sgl-deepseek-recipe-encoding) | 0.2.1 | 0 | Conversation rendering and token encoding for DeepSeek V4 and V4.1 prompts. |
-| 2026-11-25 11:18:09 | [sgl-deepseek-recipe](https://crates.io/crates/sgl-deepseek-recipe) | 0.2.1 | 0 | API request conversion and streamed output parsing for DeepSeek models. |
-| 2026-11-25 11:19:33 | [gitkb](https://crates.io/crates/gitkb) | 0.0.1 | 0 | Placeholder reserving the gitkb crate name for the upcoming GitKB release. |
-| 2026-11-25 11:19:34 | [gitkb-core](https://crates.io/crates/gitkb-core) | 0.0.1 | 0 | Placeholder reserving the gitkb-core crate name for the upcoming GitKB release. |
-| 2026-11-25 11:21:26 | [derive-request-logging](https://crates.io/crates/derive-request-logging) | 0.1.0 | 0 | Use derive to create HTTP requests - logging middleware interface |
-| 2026-11-25 11:21:27 | [derive-request-macros](https://crates.io/crates/derive-request-macros) | 0.1.0 | 0 | Use derive to create HTTP requests |
-| 2026-11-25 11:21:29 | [derive-request](https://crates.io/crates/derive-request) | 0.1.0 | 0 | Use derive to create HTTP requests |
-| 2026-11-25 11:21:29 | [derive-request-logging-har](https://crates.io/crates/derive-request-logging-har) | 0.1.0 | 0 | Use derive to create HTTP requests - logging middleware for dumping to har files |
-| 2026-11-25 11:21:31 | [derive-request-client](https://crates.io/crates/derive-request-client) | 0.1.0 | 0 | Use derive to create HTTP requests - client interface |
+| 2026-11-25 11:22:46 | [cargo-spellcheck-helper](https://crates.io/crates/cargo-spellcheck-helper) | 0.1.0 | 0 | Portable dictionary preparation and source prerequisite checks for cargo-spellc… |
+| 2026-11-25 11:23:24 | [cw-regex](https://crates.io/crates/cw-regex) | 0.3.0 | 0 | A deterministic backtracking regular-expression engine with Python and JavaScri… |
+| 2026-11-25 11:23:55 | [paleo-hevc](https://crates.io/crates/paleo-hevc) | 0.3.0 | 0 | Pure-Rust HEVC/H.265 decoding backend for Paleo |
+| 2026-11-25 11:24:04 | [paleo-vp9](https://crates.io/crates/paleo-vp9) | 0.3.0 | 0 | Pure-Rust VP9 decoding backend for Paleo |
+| 2026-11-25 11:24:16 | [paleo-av1](https://crates.io/crates/paleo-av1) | 0.3.0 | 0 | Pure-Rust AV1 decoding backend for Paleo |
+| 2026-11-25 11:24:27 | [paleo-video](https://crates.io/crates/paleo-video) | 0.3.0 | 0 | Codec selection for Paleo video playback |
+| 2026-11-25 11:24:40 | [paleo-player](https://crates.io/crates/paleo-player) | 0.3.0 | 0 | One-object video and audio playback for Paleo |
+| 2026-11-25 11:25:19 | [derive-request-client-reqwest](https://crates.io/crates/derive-request-client-reqwest) | 0.1.0 | 0 | Use derive to create HTTP requests - reqwest client |
+| 2026-11-25 11:25:42 | [koru-image-filter](https://crates.io/crates/koru-image-filter) | 0.1.0 | 0 | Koru 组件：响应图片变换（Nginx image_filter 的等价物） |
+| 2026-11-25 11:25:49 | [tokio-jsonl](https://crates.io/crates/tokio-jsonl) | 0.1.0 | 0 | Buffered, append-oriented JSON Lines (jsonl) reading and writing for tokio, mad… |
+| 2026-11-25 11:26:48 | [rialo-instructions-sysvar-bounds](https://crates.io/crates/rialo-instructions-sysvar-bounds) | 0.27.0 | 0 | Bounds of the u16 fields of the instructions sysvar, beside the rialo-s-instruc… |
+| 2026-11-25 11:26:58 | [ragon-launcher](https://crates.io/crates/ragon-launcher) | 0.0.1 | 0 | Name reserved for Ragon by Dreamference, a local, air-gapped agentic pair progr… |
+| 2026-11-25 11:27:18 | [hazard3-st7789v-sprite](https://crates.io/crates/hazard3-st7789v-sprite) | 0.5.0 | 0 | no_std sprite and animation engine for ST7789V displays in the independent Haza… |
+| 2026-11-25 11:29:51 | [rialo-sdk-ids](https://crates.io/crates/rialo-sdk-ids) | 0.27.0 | 0 | Program and account IDs Rialo adds beside the rialo-s-sdk-ids copy |
+| 2026-11-25 11:31:02 | [rust-edlib](https://crates.io/crates/rust-edlib) | 0.1.0 | 0 | Native Rust bit-parallel Levenshtein alignment with Edlib semantics |
+| 2026-11-25 11:32:51 | [rialo-solana-metrics](https://crates.io/crates/rialo-solana-metrics) | 0.27.0 | 0 | Solana Metrics |
+| 2026-11-25 11:33:10 | [rialo-spl-memo](https://crates.io/crates/rialo-spl-memo) | 0.27.0 | 0 | Solana Program Library Memo |
+| 2026-11-25 11:33:25 | [cw-tz](https://crates.io/crates/cw-tz) | 0.3.0 | 0 | A compiled-in subset of the IANA time zone database: UTC offsets, abbreviations… |
+| 2026-11-25 11:34:35 | [rialo-spl-type-length-value](https://crates.io/crates/rialo-spl-type-length-value) | 0.27.0 | 0 | Solana Program Library Type-Length-Value Management |
+| 2026-11-25 11:35:13 | [a2ui-rs](https://crates.io/crates/a2ui-rs) | 0.1.1 | 0 | Framework-independent protocol and state foundations for A2UI v1.0 and later |
+| 2026-11-25 11:35:55 | [psychoscript](https://crates.io/crates/psychoscript) | 0.1.0-alpha.1 | 0 | Embeddable Rust implementation of the PsychoScript language layer |
+| 2026-11-25 11:36:18 | [koru-multipart](https://crates.io/crates/koru-multipart) | 0.1.0 | 0 | Koru 组件：multipart/form-data 提取器（文本与文件字段） |
+| 2026-11-25 11:37:01 | [sandbolt-bigint](https://crates.io/crates/sandbolt-bigint) | 0.1.0 | 0 | ECMAScript BigInt arithmetic and conversions for Sandbolt |
+| 2026-11-25 11:37:01 | [sandbolt-bytecode](https://crates.io/crates/sandbolt-bytecode) | 0.1.0 | 0 | Bytecode format, codec, verifier and disassembler for Sandbolt |
+| 2026-11-25 11:37:02 | [sandbolt-dtoa](https://crates.io/crates/sandbolt-dtoa) | 0.1.0 | 0 | ECMAScript number parsing and formatting (dtoa/atod) for Sandbolt |
+| 2026-11-25 11:37:03 | [sandbolt-unicode](https://crates.io/crates/sandbolt-unicode) | 0.1.0 | 0 | Unicode property, case conversion and normalization tables for Sandbolt |
+| 2026-11-25 11:37:04 | [sandbolt-regexp](https://crates.io/crates/sandbolt-regexp) | 0.1.0 | 0 | ECMAScript regular expression compiler and VM for Sandbolt |
+| 2026-11-25 11:43:25 | [cw-zlib](https://crates.io/crates/cw-zlib) | 0.3.0 | 0 | zlib's deflate (a faithful port, byte-exact with the real library, including Ch… |
+| 2026-11-25 11:44:46 | [hyve-core](https://crates.io/crates/hyve-core) | 0.1.0-alpha.0 | 0 | Foundational contracts for the Hyperish family: errors, IDs, time, cancellation… |
+| 2026-11-25 11:44:49 | [hyve-diagnostics](https://crates.io/crates/hyve-diagnostics) | 0.1.0-alpha.0 | 0 | Structured compile-time and run-time diagnostics for the Hyperish family |
+| 2026-11-25 11:44:52 | [hyve-state](https://crates.io/crates/hyve-state) | 0.1.0-alpha.0 | 0 | Platform-neutral reactive graph (signals, memos, effects, owner scopes) for the… |
+| 2026-11-25 11:44:55 | [hyve-macros](https://crates.io/crates/hyve-macros) | 0.1.0-alpha.0 | 0 | Procedural macros of the hyve core (#[model], #[validate], #[server], #[hyve::t… |
+| 2026-11-25 11:44:58 | [hyve-parser](https://crates.io/crates/hyve-parser) | 0.1.0-alpha.0 | 0 | Zero-copy grammars (durations, interpolated text, .env) for the Hyperish family |
+| 2026-11-25 11:45:13 | [hazard3-ttp223b](https://crates.io/crates/hazard3-ttp223b) | 0.2.0 | 0 | Async no_std TTP223B touch sensor driver for the Hazard3 ecosystem. |
+| 2026-11-25 11:45:59 | [sandbolt-syntax](https://crates.io/crates/sandbolt-syntax) | 0.1.0 | 0 | ECMAScript lexer, parser and syntax validator for Sandbolt |
+| 2026-11-25 11:46:22 | [koru-regex](https://crates.io/crates/koru-regex) | 0.1.0 | 0 | 零依赖回溯式正则引擎：nginx 配置层用到的 PCRE 子集 |
+| 2026-11-25 11:47:30 | [devtape-core](https://crates.io/crates/devtape-core) | 0.4.3 | 0 | Single-writer SQLite WAL session store and privacy-profile exporter for DevTape… |
+| 2026-11-25 11:47:32 | [devtape-mcp](https://crates.io/crates/devtape-mcp) | 0.4.3 | 0 | Read-only JSON-RPC 2.0 MCP server over stdio for inspecting DTP v0.1 .tape arch… |
+| 2026-11-25 11:47:44 | [devtape-net](https://crates.io/crates/devtape-net) | 0.4.3 | 0 | Opt-in child-only loopback HTTP capture proxy with ephemeral session CA and bod… |
+| 2026-11-25 11:49:18 | [hyve-serde](https://crates.io/crates/hyve-serde) | 0.1.0-alpha.0 | 0 | Binary (rkyv) and lossless JSON codecs with schema fingerprints for the Hyperis… |
+| 2026-11-25 11:53:27 | [cw-raster](https://crates.io/crates/cw-raster) | 0.3.0 | 0 | Deterministic layered raster editing engine shared by the simulator's image edi… |
+| 2026-11-25 11:55:59 | [sandbolt-compiler](https://crates.io/crates/sandbolt-compiler) | 0.1.0 | 0 | ECMAScript bytecode compiler for Sandbolt |
+| 2026-11-25 11:56:39 | [koru-location](https://crates.io/crates/koru-location) | 0.1.0 | 0 | nginx location 匹配算法：精确 / 最长前缀 / ^~ / 正则 |
+| 2026-11-25 11:59:19 | [hyve-validate](https://crates.io/crates/hyve-validate) | 0.1.0-alpha.0 | 0 | Validation rules, Valid<T> and protocol-neutral schema metadata for the Hyperis… |
+| 2026-11-25 11:59:34 | [fast-publicodes](https://crates.io/crates/fast-publicodes) | 1.1.1 | 0 | The publicodes 1.x engine, rewritten in Rust with the same behaviour. |
+| 2026-11-25 12:00:48 | [dodai-spec](https://crates.io/crates/dodai-spec) | 0.1.7 | 0 | Derive macros for dodai-core (component specs read from the token structs) |
+| 2026-11-25 12:05:59 | [sandbolt-runtime](https://crates.io/crates/sandbolt-runtime) | 0.1.0 | 0 | JavaScript runtime and VM for Sandbolt, a pure-Rust port of QuickJS-ng v0.17.0 |
+| 2026-11-25 12:06:10 | [dodai-charts](https://crates.io/crates/dodai-charts) | 0.1.7 | 0 | Charts for the Dodai UI design system: renderer-agnostic maths and layout, plus… |
+| 2026-11-25 12:06:58 | [koru-router](https://crates.io/crates/koru-router) | 0.1.0 | 0 | Koru 路由：段前缀树、方法表、405/Allow 与路由自省 |
+| 2026-11-25 12:07:51 | [dodai-dash](https://crates.io/crates/dodai-dash) | 0.1.7 | 0 | A dashboard engine for the Dodai UI design system: a serialisable dashboard spe… |
+| 2026-11-25 12:09:22 | [hyve-api](https://crates.io/crates/hyve-api) | 0.1.0-alpha.0 | 0 | Contracts, server function descriptors and the typed transport interface for th… |
+| 2026-11-25 12:13:13 | [rowmap](https://crates.io/crates/rowmap) | 0.1.0 | 0 | ROWMAP: a Krylov-W method of order 4 for large stiff ODEs (multiple Arnoldi pro… |
+| 2026-11-25 12:13:57 | [torbox](https://crates.io/crates/torbox) | 9.3.1-20261125.4 | 0 | Rust SDK for the TorBox API |
+| 2026-11-25 12:15:59 | [sandbolt](https://crates.io/crates/sandbolt) | 0.1.0 | 0 | Pure-Rust port of QuickJS-ng v0.17.0, a small embeddable JavaScript engine |
+| 2026-11-25 12:16:24 | [esp-agent-macros](https://crates.io/crates/esp-agent-macros) | 0.1.0-rc.1 | 0 | Compile-time model embedding for esp-agent |
+| 2026-11-25 12:17:27 | [koru-sse](https://crates.io/crates/koru-sse) | 0.1.0 | 0 | Koru 组件：Server-Sent Events（事件序列化 + 有界背压发送端） |
+| 2026-11-25 12:18:24 | [esp-agent](https://crates.io/crates/esp-agent) | 0.1.0-rc.1 | 0 | Bare-metal no_std local agent for ESP32-S3 and ESP32-S31: on-device semantic se… |
 
 ## Data source
 

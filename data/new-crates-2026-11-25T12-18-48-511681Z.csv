@@ -1,0 +1,58 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-25T11:22:46.163001Z,cargo-spellcheck-helper,0.1.0,0,0,https://github.com/microsoft/ox-tools/tree/main/crates/cargo-spellcheck-helper,Portable dictionary preparation and source prerequisite checks for cargo-spellcheck
+2026-11-25T11:23:24.589589Z,cw-regex,0.3.0,0,0,https://github.com/ComputaCo/computerworld-engine,A deterministic backtracking regular-expression engine with Python and JavaScript syntax.
+2026-11-25T11:23:55.484719Z,paleo-hevc,0.3.0,0,0,https://github.com/NMogolev/drawen,Pure-Rust HEVC/H.265 decoding backend for Paleo
+2026-11-25T11:24:04.70259Z,paleo-vp9,0.3.0,0,0,https://github.com/NMogolev/drawen,Pure-Rust VP9 decoding backend for Paleo
+2026-11-25T11:24:16.564762Z,paleo-av1,0.3.0,0,0,https://github.com/NMogolev/drawen,Pure-Rust AV1 decoding backend for Paleo
+2026-11-25T11:24:27.42033Z,paleo-video,0.3.0,0,0,https://github.com/NMogolev/drawen,Codec selection for Paleo video playback
+2026-11-25T11:24:40.073146Z,paleo-player,0.3.0,0,0,https://github.com/NMogolev/drawen,One-object video and audio playback for Paleo
+2026-11-25T11:25:19.48745Z,derive-request-client-reqwest,0.1.0,0,0,https://codeberg.org/silwol/derive-request,Use derive to create HTTP requests - reqwest client
+2026-11-25T11:25:42.693327Z,koru-image-filter,0.1.0,0,0,,Koru 组件：响应图片变换（Nginx image_filter 的等价物）
+2026-11-25T11:25:49.061429Z,tokio-jsonl,0.1.0,0,0,https://github.com/ltoddy/tokio-jsonl,"Buffered, append-oriented JSON Lines (jsonl) reading and writing for tokio, made by Aries"
+2026-11-25T11:26:48.435674Z,rialo-instructions-sysvar-bounds,0.27.0,0,0,,"Bounds of the u16 fields of the instructions sysvar, beside the rialo-s-instructions-sysvar copy"
+2026-11-25T11:26:58.683752Z,ragon-launcher,0.0.1,0,0,https://github.com/dreamference/ragon,"Name reserved for Ragon by Dreamference, a local, air-gapped agentic pair programmer. Placeholder; install Ragon from its releases."
+2026-11-25T11:27:18.901691Z,hazard3-st7789v-sprite,0.5.0,0,0,https://github.com/jorgeandrecastro/hazard3-st7789v-sprite,no_std sprite and animation engine for ST7789V displays in the independent Hazard3 Async ecosystem.
+2026-11-25T11:29:51.933474Z,rialo-sdk-ids,0.27.0,0,0,,Program and account IDs Rialo adds beside the rialo-s-sdk-ids copy
+2026-11-25T11:31:02.704407Z,rust-edlib,0.1.0,0,0,https://github.com/tmokveld/rust-edlib,Native Rust bit-parallel Levenshtein alignment with Edlib semantics
+2026-11-25T11:32:51.127803Z,rialo-solana-metrics,0.27.0,0,0,https://github.com/anza-xyz/agave,Solana Metrics
+2026-11-25T11:33:10.355239Z,rialo-spl-memo,0.27.0,0,0,https://github.com/solana-labs/solana-program-library,Solana Program Library Memo
+2026-11-25T11:33:25.19196Z,cw-tz,0.3.0,0,0,https://github.com/ComputaCo/computerworld-engine,"A compiled-in subset of the IANA time zone database: UTC offsets, abbreviations and DST transitions for the zones the simulated runtimes know."
+2026-11-25T11:34:35.1613Z,rialo-spl-type-length-value,0.27.0,0,0,https://github.com/solana-program/libraries,Solana Program Library Type-Length-Value Management
+2026-11-25T11:35:13.016056Z,a2ui-rs,0.1.1,0,0,https://github.com/chainyo/a2ui-rs,Framework-independent protocol and state foundations for A2UI v1.0 and later
+2026-11-25T11:35:55.613324Z,psychoscript,0.1.0-alpha.1,0,0,https://github.com/anomalyco/psychoscript,Embeddable Rust implementation of the PsychoScript language layer
+2026-11-25T11:36:18.067722Z,koru-multipart,0.1.0,0,0,,Koru 组件：multipart/form-data 提取器（文本与文件字段）
+2026-11-25T11:37:01.289788Z,sandbolt-bigint,0.1.0,0,0,https://github.com/mesa-hills-research/sandbolt,ECMAScript BigInt arithmetic and conversions for Sandbolt
+2026-11-25T11:37:01.838365Z,sandbolt-bytecode,0.1.0,0,0,https://github.com/mesa-hills-research/sandbolt,"Bytecode format, codec, verifier and disassembler for Sandbolt"
+2026-11-25T11:37:02.521988Z,sandbolt-dtoa,0.1.0,0,0,https://github.com/mesa-hills-research/sandbolt,ECMAScript number parsing and formatting (dtoa/atod) for Sandbolt
+2026-11-25T11:37:03.020351Z,sandbolt-unicode,0.1.0,0,0,https://github.com/mesa-hills-research/sandbolt,"Unicode property, case conversion and normalization tables for Sandbolt"
+2026-11-25T11:37:04.701184Z,sandbolt-regexp,0.1.0,0,0,https://github.com/mesa-hills-research/sandbolt,ECMAScript regular expression compiler and VM for Sandbolt
+2026-11-25T11:43:25.657324Z,cw-zlib,0.3.0,0,0,https://github.com/ComputaCo/computerworld-engine,"zlib's deflate (a faithful port, byte-exact with the real library, including Chromium's hashing variant that Node ships), inflate, gzip and brotli for the simulated runtimes and shell."
+2026-11-25T11:44:46.181801Z,hyve-core,0.1.0-alpha.0,0,0,https://github.com/hyperish/hyve,"Foundational contracts for the Hyperish family: errors, IDs, time, cancellation, scopes, ring buffers"
+2026-11-25T11:44:49.201061Z,hyve-diagnostics,0.1.0-alpha.0,0,0,https://github.com/hyperish/hyve,Structured compile-time and run-time diagnostics for the Hyperish family
+2026-11-25T11:44:52.086171Z,hyve-state,0.1.0-alpha.0,0,0,https://github.com/hyperish/hyve,"Platform-neutral reactive graph (signals, memos, effects, owner scopes) for the Hyperish family"
+2026-11-25T11:44:55.322403Z,hyve-macros,0.1.0-alpha.0,0,0,https://github.com/hyperish/hyve,"Procedural macros of the hyve core (#[model], #[validate], #[server], #[hyve::test]); use them through `hyve`"
+2026-11-25T11:44:58.245033Z,hyve-parser,0.1.0-alpha.0,0,0,https://github.com/hyperish/hyve,"Zero-copy grammars (durations, interpolated text, .env) for the Hyperish family"
+2026-11-25T11:45:13.596776Z,hazard3-ttp223b,0.2.0,0,0,https://github.com/jorgeandrecastro/hazard3-ttp223b,Async no_std TTP223B touch sensor driver for the Hazard3 ecosystem.
+2026-11-25T11:45:59.407834Z,sandbolt-syntax,0.1.0,0,0,https://github.com/mesa-hills-research/sandbolt,"ECMAScript lexer, parser and syntax validator for Sandbolt"
+2026-11-25T11:46:22.636186Z,koru-regex,0.1.0,0,0,,零依赖回溯式正则引擎：nginx 配置层用到的 PCRE 子集
+2026-11-25T11:47:30.386179Z,devtape-core,0.4.3,0,0,https://github.com/sayyidsh/devtape,Single-writer SQLite WAL session store and privacy-profile exporter for DevTape (DTP v0.1)
+2026-11-25T11:47:32.391823Z,devtape-mcp,0.4.3,0,0,https://github.com/sayyidsh/devtape,Read-only JSON-RPC 2.0 MCP server over stdio for inspecting DTP v0.1 .tape archives
+2026-11-25T11:47:44.760662Z,devtape-net,0.4.3,0,0,https://github.com/sayyidsh/devtape,Opt-in child-only loopback HTTP capture proxy with ephemeral session CA and body truncation for DevTape
+2026-11-25T11:49:18.583588Z,hyve-serde,0.1.0-alpha.0,0,0,https://github.com/hyperish/hyve,Binary (rkyv) and lossless JSON codecs with schema fingerprints for the Hyperish family
+2026-11-25T11:53:27.011259Z,cw-raster,0.3.0,0,0,https://github.com/ComputaCo/computerworld-engine,Deterministic layered raster editing engine shared by the simulator's image editors
+2026-11-25T11:55:59.576267Z,sandbolt-compiler,0.1.0,0,0,https://github.com/mesa-hills-research/sandbolt,ECMAScript bytecode compiler for Sandbolt
+2026-11-25T11:56:39.660293Z,koru-location,0.1.0,0,0,,nginx location 匹配算法：精确 / 最长前缀 / ^~ / 正则
+2026-11-25T11:59:19.930523Z,hyve-validate,0.1.0-alpha.0,0,0,https://github.com/hyperish/hyve,"Validation rules, Valid<T> and protocol-neutral schema metadata for the Hyperish family"
+2026-11-25T11:59:34.498459Z,fast-publicodes,1.1.1,0,0,https://github.com/troopay/fast-publicodes,"The publicodes 1.x engine, rewritten in Rust with the same behaviour."
+2026-11-25T12:00:48.58684Z,dodai-spec,0.1.7,0,0,https://github.com/Dodai-Tech/dodai-ui,Derive macros for dodai-core (component specs read from the token structs)
+2026-11-25T12:05:59.668528Z,sandbolt-runtime,0.1.0,0,0,https://github.com/mesa-hills-research/sandbolt,"JavaScript runtime and VM for Sandbolt, a pure-Rust port of QuickJS-ng v0.17.0"
+2026-11-25T12:06:10.976268Z,dodai-charts,0.1.7,0,0,https://github.com/Dodai-Tech/dodai-ui,"Charts for the Dodai UI design system: renderer-agnostic maths and layout, plus interactive animated charts per toolkit (feature gpui): line, bar, pie, radar, heatmap, sankey, candlestick, treemap an…"
+2026-11-25T12:06:58.54188Z,koru-router,0.1.0,0,0,,Koru 路由：段前缀树、方法表、405/Allow 与路由自省
+2026-11-25T12:07:51.610331Z,dodai-dash,0.1.7,0,0,https://github.com/Dodai-Tech/dodai-ui,"A dashboard engine for the Dodai UI design system: a serialisable dashboard spec (TOML and JSON import and export), validation against a host-supplied metric catalogue, and toolkit-neutral view model…"
+2026-11-25T12:09:22.341064Z,hyve-api,0.1.0-alpha.0,0,0,https://github.com/hyperish/hyve,"Contracts, server function descriptors and the typed transport interface for the Hyperish family"
+2026-11-25T12:13:13.484081Z,rowmap,0.1.0,0,0,https://github.com/mlu-numerics/rowmap,ROWMAP: a Krylov-W method of order 4 for large stiff ODEs (multiple Arnoldi process)
+2026-11-25T12:13:57.771011Z,torbox,9.3.1-20261125.4,0,0,,Rust SDK for the TorBox API
+2026-11-25T12:15:59.689404Z,sandbolt,0.1.0,0,0,https://github.com/mesa-hills-research/sandbolt,"Pure-Rust port of QuickJS-ng v0.17.0, a small embeddable JavaScript engine"
+2026-11-25T12:16:24.897424Z,esp-agent-macros,0.1.0-rc.1,0,0,https://github.com/veeso/esp-agent,Compile-time model embedding for esp-agent
+2026-11-25T12:17:27.271055Z,koru-sse,0.1.0,0,0,,Koru 组件：Server-Sent Events（事件序列化 + 有界背压发送端）
+2026-11-25T12:18:24.695919Z,esp-agent,0.1.0-rc.1,0,0,https://github.com/veeso/esp-agent,Bare-metal no_std local agent for ESP32-S3 and ESP32-S31: on-device semantic search and command recognition with static embedding models
