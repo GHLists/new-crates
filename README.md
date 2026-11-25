@@ -8,32 +8,40 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-25 06:18 UTC
+## Latest list — 2026-11-25 07:20 UTC
 
-New crates published between 2026-11-25 05:19 UTC and 2026-11-25 06:18 UTC.
+New crates published between 2026-11-25 06:18 UTC and 2026-11-25 07:20 UTC.
 
-[Full CSV](data/new-crates-2026-11-25T06-18-45-406057Z.csv)
+[Full CSV](data/new-crates-2026-11-25T07-20-06-153871Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-25 05:19:58 | [rustjay-laser](https://crates.io/crates/rustjay-laser) | 0.1.0 | 0 | Render MadMapper laser materials to 2D paths and stream them to a laser DAC |
-| 2026-11-25 05:20:09 | [strata-mica](https://crates.io/crates/strata-mica) | 0.1.0 | 0 | Unified Mica JavaScript runtime and ESM codegen facade for the Strata ecosystem |
-| 2026-11-25 05:22:14 | [wildgrass](https://crates.io/crates/wildgrass) | 1.0.0 | 0 | Minimal terminal internet radio player with real-time song recognition and sync… |
-| 2026-11-25 05:25:29 | [sorcerer](https://crates.io/crates/sorcerer) | 0.1.0 | 0 | A fluent, headless, local-first knowledge management CLI |
-| 2026-11-25 05:30:19 | [rustjay-presets](https://crates.io/crates/rustjay-presets) | 0.1.0 | 0 | Preset save/load for rustjay-engine |
-| 2026-11-25 05:36:27 | [tessera-task-derive](https://crates.io/crates/tessera-task-derive) | 0.4.3 | 0 | #[derive(Task)] for tesserax task and command arguments |
-| 2026-11-25 05:40:41 | [rustjay-render](https://crates.io/crates/rustjay-render) | 0.1.0 | 0 | wgpu rendering pipeline for rustjay-engine |
-| 2026-11-25 05:47:49 | [witforge-build](https://crates.io/crates/witforge-build) | 0.8.0 | 0 | Build-script helper for compiling witforge-generated protobuf schemas with prot… |
-| 2026-11-25 05:51:01 | [rustjay-mixer](https://crates.io/crates/rustjay-mixer) | 0.1.0 | 0 | Multi-channel compositing mixer for rustjay-engine (Phase B3) |
-| 2026-11-25 05:54:41 | [rightkit-agent-task-journal](https://crates.io/crates/rightkit-agent-task-journal) | 0.1.0 | 0 | The durable agent task journal over the job store: owner epoch fencing, restart… |
-| 2026-11-25 05:56:38 | [gs-quant-cli](https://crates.io/crates/gs-quant-cli) | 0.1.1 | 0 | Pure Rust CLI for gs-quant skill management, local scenario pricing, realized v… |
-| 2026-11-25 06:00:23 | [istmo-dnd](https://crates.io/crates/istmo-dnd) | 0.1.1-alpha.7 | 0 | Files dragged into the app from other apps for the istmo framework: Android and… |
-| 2026-11-25 06:00:52 | [istmo-webview](https://crates.io/crates/istmo-webview) | 0.1.1-alpha.7 | 0 | Cross-platform web view plugin for the istmo framework: embedded or windowed vi… |
-| 2026-11-25 06:01:08 | [istmo-web-auth](https://crates.io/crates/istmo-web-auth) | 0.1.1-alpha.7 | 0 | Browser-based sign-in for the istmo framework: ASWebAuthenticationSession, Andr… |
-| 2026-11-25 06:01:23 | [rustjay-engine](https://crates.io/crates/rustjay-engine) | 0.1.0 | 0 | High-performance cross-platform VJ engine |
-| 2026-11-25 06:16:48 | [x87-extended](https://crates.io/crates/x87-extended) | 0.1.0 | 0 | Software x87 80-bit extended-precision arithmetic and correctly rounded double-… |
-| 2026-11-25 06:18:28 | [redactify](https://crates.io/crates/redactify) | 0.1.0 | 0 | Deterministic data-protection and policy layer for LLM and agent pipelines: che… |
-| 2026-11-25 06:18:33 | [redactify-mcp](https://crates.io/crates/redactify-mcp) | 0.1.0 | 0 | MCP (Model Context Protocol) server for redactify: PII detection/redaction, rul… |
+| 2026-11-25 06:18:54 | [c4isr](https://crates.io/crates/c4isr) | 0.1.1 | 0 | c4isr |
+| 2026-11-25 06:20:53 | [remedy-emoji](https://crates.io/crates/remedy-emoji) | 0.1.0 | 0 | Remedy's own emoji and stickers: original vector art, its text format (.fsa), p… |
+| 2026-11-25 06:21:24 | [anynix](https://crates.io/crates/anynix) | 0.1.0 | 0 | A any dynamic unix disk |
+| 2026-11-25 06:26:24 | [rightkit-assist](https://crates.io/crates/rightkit-assist) | 0.1.1 | 0 | The noticing loop for an always-on assistant: signals, sorting in code, booking… |
+| 2026-11-25 06:31:27 | [rust-core](https://crates.io/crates/rust-core) | 0.1.0 | 0 | rust-core: shared contract types for the Rust Framework (application error carr… |
+| 2026-11-25 06:38:33 | [yokio-macros](https://crates.io/crates/yokio-macros) | 0.1.0 | 0 | Zero-dependency procedural entry macros for Yokio |
+| 2026-11-25 06:42:47 | [xross](https://crates.io/crates/xross) | 0.1.0 | 0 | Zero-Docker cross-compilation, code signing, and packaging toolchain for any pl… |
+| 2026-11-25 06:44:45 | [wah-sys](https://crates.io/crates/wah-sys) | 2690.0.0 | 0 | Raw FFI bindings to WAH, a WebAssembly interpreter in a single C header |
+| 2026-11-25 06:44:50 | [xdroid](https://crates.io/crates/xdroid) | 0.1.0 | 0 | Utility for downloading and splatting the Android NDK sysroot for cross-compila… |
+| 2026-11-25 06:45:02 | [wah](https://crates.io/crates/wah) | 2690.0.0 | 0 | Safe bindings to WAH, a WebAssembly interpreter in a single C header |
+| 2026-11-25 06:45:22 | [yokio](https://crates.io/crates/yokio) | 0.1.1 | 0 | A callback-native asynchronous execution engine for Rust |
+| 2026-11-25 06:48:40 | [tc_srp6](https://crates.io/crates/tc_srp6) | 0.1.0 | 0 | SRP-6a password-authenticated key exchange (RFC 5054) after Bouncy Castle. |
+| 2026-11-25 06:49:39 | [utility-section](https://crates.io/crates/utility-section) | 0.5.0 | 0 | Store general data on bare metal |
+| 2026-11-25 06:50:02 | [golden-agent](https://crates.io/crates/golden-agent) | 0.1.10 | 0 | An annotation-driven agent engineering framework for Rust |
+| 2026-11-25 06:53:51 | [xforge-cache](https://crates.io/crates/xforge-cache) | 0.1.0 | 0 | Pure-std SHA-256 content-addressed store (CAS) and Makefile depfile parser for… |
+| 2026-11-25 06:53:53 | [xforge-cc](https://crates.io/crates/xforge-cc) | 0.1.0 | 0 | Cross-platform toolchain discovery, compiler detection, and CAS-cached C/C++ bu… |
+| 2026-11-25 06:53:54 | [xforge-cpp](https://crates.io/crates/xforge-cpp) | 0.1.0 | 0 | C/C++ build backend for xforge. |
+| 2026-11-25 06:53:55 | [xforge-go](https://crates.io/crates/xforge-go) | 0.1.0 | 0 | Go/CGO cross-compilation backend for xforge. |
+| 2026-11-25 06:55:04 | [ambyte](https://crates.io/crates/ambyte) | 0.0.0 | 0 | Ambyte: a deterministic, bounded language for typed bits and bytes. Name reserv… |
+| 2026-11-25 06:55:44 | [dioxuspress-cli](https://crates.io/crates/dioxuspress-cli) | 0.2.0 | 0 | Lightweight official CLI for DioxusPress: scaffold sites (`init`) and staticall… |
+| 2026-11-25 07:03:34 | [xsign](https://crates.io/crates/xsign) | 0.1.0 | 0 | Cross-platform code signing and notarization CLI and library for Apple, Windows… |
+| 2026-11-25 07:07:57 | [rightkit-device-link-core](https://crates.io/crates/rightkit-device-link-core) | 0.1.0 | 0 | Transport-agnostic device link: pairing, the paired-device registry, the device… |
+| 2026-11-25 07:10:58 | [rust-webx-outbox](https://crates.io/crates/rust-webx-outbox) | 2.9.1 | 0 | Transactional outbox for rust-webx events: worker-facing port, lease-based disp… |
+| 2026-11-25 07:11:31 | [rs-format](https://crates.io/crates/rs-format) | 0.1.0 | 0 | Shared error categories, source positions, and resource limits for format parse… |
+| 2026-11-25 07:12:45 | [xbundle](https://crates.io/crates/xbundle) | 0.1.0 | 0 | Cross-platform native application bundler for Linux, macOS, Windows, Android, a… |
+| 2026-11-25 07:13:52 | [cortex-hybrid](https://crates.io/crates/cortex-hybrid) | 0.2.0 | 0 | Backend-neutral ANN stage layer and deterministic Vec reference backend for hyb… |
 
 ## Data source
 

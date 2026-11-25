@@ -1,0 +1,27 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-25T06:18:54.162663Z,c4isr,0.1.1,0,0,https://gitee.com/ip2a/c4isr,c4isr
+2026-11-25T06:20:53.100587Z,remedy-emoji,0.1.0,0,0,https://github.com/AhmiDarrow/RemedyEmoji,"Remedy's own emoji and stickers: original vector art, its text format (.fsa), parser and rasterizer. No dependencies."
+2026-11-25T06:21:24.853142Z,anynix,0.1.0,0,0,https://github.com/dualys/anynix,A any dynamic unix disk
+2026-11-25T06:26:24.498784Z,rightkit-assist,0.1.1,0,0,https://github.com/bogusyogi/rightkit,"The noticing loop for an always-on assistant: signals, sorting in code, booking extraction, a tools-off triage contract, typed facts, checks, standing instructions and occurrences, over a storage tra…"
+2026-11-25T06:31:27.780672Z,rust-core,0.1.0,0,0,https://github.com/Rust-Framework/rust-dix,rust-core: shared contract types for the Rust Framework (application error carrier + stable error codes)
+2026-11-25T06:38:33.95666Z,yokio-macros,0.1.0,0,0,https://github.com/sapirrior/yokio,Zero-dependency procedural entry macros for Yokio
+2026-11-25T06:42:47.271527Z,xross,0.1.0,0,0,https://github.com/cross-toolchains/xross,"Zero-Docker cross-compilation, code signing, and packaging toolchain for any platform."
+2026-11-25T06:44:45.429383Z,wah-sys,2690.0.0,0,0,https://github.com/lifthrasiir/wah,"Raw FFI bindings to WAH, a WebAssembly interpreter in a single C header"
+2026-11-25T06:44:50.979607Z,xdroid,0.1.0,0,0,https://github.com/cross-toolchains/xdroid,Utility for downloading and splatting the Android NDK sysroot for cross-compilation
+2026-11-25T06:45:02.091509Z,wah,2690.0.0,0,0,https://github.com/lifthrasiir/wah,"Safe bindings to WAH, a WebAssembly interpreter in a single C header"
+2026-11-25T06:45:22.174585Z,yokio,0.1.1,0,0,https://github.com/sapirrior/yokio,A callback-native asynchronous execution engine for Rust
+2026-11-25T06:48:40.864065Z,tc_srp6,0.1.0,0,0,https://github.com/TomiCheng/tc_agreement,SRP-6a password-authenticated key exchange (RFC 5054) after Bouncy Castle.
+2026-11-25T06:49:39.037001Z,utility-section,0.5.0,0,0,https://git.sr.ht/~scwork/utility-section,Store general data on bare metal
+2026-11-25T06:50:02.115658Z,golden-agent,0.1.10,0,0,https://github.com/HoChienkuo/golden,An annotation-driven agent engineering framework for Rust
+2026-11-25T06:53:51.093764Z,xforge-cache,0.1.0,0,0,https://github.com/cross-toolchains/xforge,Pure-std SHA-256 content-addressed store (CAS) and Makefile depfile parser for xforge.
+2026-11-25T06:53:53.023639Z,xforge-cc,0.1.0,0,0,https://github.com/cross-toolchains/xforge,"Cross-platform toolchain discovery, compiler detection, and CAS-cached C/C++ builder for xforge."
+2026-11-25T06:53:54.51003Z,xforge-cpp,0.1.0,0,0,https://github.com/cross-toolchains/xforge,C/C++ build backend for xforge.
+2026-11-25T06:53:55.814123Z,xforge-go,0.1.0,0,0,https://github.com/cross-toolchains/xforge,Go/CGO cross-compilation backend for xforge.
+2026-11-25T06:55:04.929636Z,ambyte,0.0.0,0,0,https://github.com/ambyte-lang,"Ambyte: a deterministic, bounded language for typed bits and bytes. Name reserved; the compiler is not published here yet."
+2026-11-25T06:55:44.543371Z,dioxuspress-cli,0.2.0,0,0,https://github.com/dioxuspress/dioxuspress,Lightweight official CLI for DioxusPress: scaffold sites (`init`) and statically verify content & site.json (`check`).
+2026-11-25T07:03:34.991513Z,xsign,0.1.0,0,0,https://github.com/cross-toolchains/xsign,"Cross-platform code signing and notarization CLI and library for Apple, Windows, Android, Linux, and HarmonyOS."
+2026-11-25T07:07:57.706203Z,rightkit-device-link-core,0.1.0,0,0,https://github.com/bogusyogi/rightkit,"Transport-agnostic device link: pairing, the paired-device registry, the device circle, revocation, resume tickets, per-request authorization, phone policy and host helpers. No iroh, no tokio, no asy…"
+2026-11-25T07:10:58.406461Z,rust-webx-outbox,2.9.1,0,0,https://github.com/Rust-Framework/rust-webx,"Transactional outbox for rust-webx events: worker-facing port, lease-based dispatcher with retry/backoff and dead-letter, plus an in-memory store (durable storage lives in the ecosystem)"
+2026-11-25T07:11:31.241119Z,rs-format,0.1.0,0,0,https://github.com/codixor/rs-format,"Shared error categories, source positions, and resource limits for format parsers"
+2026-11-25T07:12:45.73006Z,xbundle,0.1.0,0,0,https://github.com/cross-toolchains/xbundle,"Cross-platform native application bundler for Linux, macOS, Windows, Android, and HarmonyOS."
+2026-11-25T07:13:52.065618Z,cortex-hybrid,0.2.0,0,0,https://github.com/rmems/cortex-hybrid,Backend-neutral ANN stage layer and deterministic Vec reference backend for hybrid ANN/SNN systems.
