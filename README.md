@@ -8,42 +8,47 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-25 08:21 UTC
+## Latest list — 2026-11-25 09:21 UTC
 
-New crates published between 2026-11-25 07:20 UTC and 2026-11-25 08:21 UTC.
+New crates published between 2026-11-25 08:21 UTC and 2026-11-25 09:21 UTC.
 
-[Full CSV](data/new-crates-2026-11-25T08-21-08-467359Z.csv)
+[Full CSV](data/new-crates-2026-11-25T09-21-30-667404Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-25 07:26:33 | [rs-kdl](https://crates.io/crates/rs-kdl) | 0.2.0 | 0 | Pure-Rust KDL parser and writer focused on fast parse/write workflows |
-| 2026-11-25 07:27:45 | [xforge-rs](https://crates.io/crates/xforge-rs) | 0.1.0 | 0 | Rust backend (Cargo/rustc orchestrator, forge.rs DAG runner, and file watcher)… |
-| 2026-11-25 07:28:31 | [litebackup](https://crates.io/crates/litebackup) | 1.4.0 | 0 | Back up, replicate, and restore SQLite databases with Litebackup |
-| 2026-11-25 07:37:50 | [pacer-plugin-workflow-protocol](https://crates.io/crates/pacer-plugin-workflow-protocol) | 0.3.0 | 0 | Generated workflow.definitions wire types for the pacer plugin protocol. |
-| 2026-11-25 07:38:50 | [hanzo-active-inference](https://crates.io/crates/hanzo-active-inference) | 0.1.0 | 0 | Finite-state active inference: Bayesian filtering, expected free energy, policy… |
-| 2026-11-25 07:39:16 | [xforge-cli](https://crates.io/crates/xforge-cli) | 0.1.0 | 0 | Command-line interface for xforge with feature-gated language backends. |
-| 2026-11-25 07:45:35 | [evalsuite-core](https://crates.io/crates/evalsuite-core) | 0.8.0 | 0 | Compiled kernels of EvalSuite: edit distances, TER, n-gram statistics, LCS, COC… |
-| 2026-11-25 07:45:48 | [evalsuite](https://crates.io/crates/evalsuite) | 0.8.0 | 0 | Evaluation metrics and statistics for machine learning, NLP, computer vision, c… |
-| 2026-11-25 07:48:47 | [yawn-reactivity](https://crates.io/crates/yawn-reactivity) | 0.1.0 | 0 | Single-threaded fine-grained reactivity core for Yawn: typed signals, memos, ef… |
-| 2026-11-25 07:48:48 | [yawn-rsx](https://crates.io/crates/yawn-rsx) | 0.1.0 | 0 | The .rsx compiler: parses Yawn .rsx files and generates Rust that drives yawn-w… |
-| 2026-11-25 07:48:48 | [yawn-web](https://crates.io/crates/yawn-web) | 0.1.0 | 0 | Yawn framework core: project config, HTTP dev/production server (native) and DO… |
-| 2026-11-25 07:48:49 | [yawn-cli](https://crates.io/crates/yawn-cli) | 0.1.0 | 0 | The `yawn` command line tool: argument handling, event pipeline and terminal UI |
-| 2026-11-25 07:48:50 | [yawn-kit](https://crates.io/crates/yawn-kit) | 0.1.0 | 0 | Browser tools for Yawn applications (shortcuts, swipes, ...), written only on t… |
-| 2026-11-25 07:49:15 | [henet](https://crates.io/crates/henet) | 0.1.0 | 0 | An idiomatic Rust implementation of the ENet reliable UDP protocol |
-| 2026-11-25 07:50:36 | [rosfix-model](https://crates.io/crates/rosfix-model) | 0.1.0 | 0 | Runtime for rosfix's downloadable assist models: .rfm format, byte-level BPE, i… |
-| 2026-11-25 07:50:39 | [yawn-lsp](https://crates.io/crates/yawn-lsp) | 0.1.0 | 0 | Language server for .rsx: rust-analyzer behind a source map, plus HTML and CSS… |
-| 2026-11-25 07:51:57 | [xforge](https://crates.io/crates/xforge) | 0.1.0 | 0 | A deterministic, programmable build system and hermetic cross-compilation engin… |
-| 2026-11-25 07:55:38 | [gpui-storybook-automation](https://crates.io/crates/gpui-storybook-automation) | 0.8.0 | 0 | Target-neutral automation contracts and backend boundary for GPUI Storybook. |
-| 2026-11-25 07:55:39 | [gpui-storybook-automation-gpui](https://crates.io/crates/gpui-storybook-automation-gpui) | 0.8.0 | 0 | Embedded GPUI automation instrumentation and execution |
-| 2026-11-25 07:55:40 | [qwebpki](https://crates.io/crates/qwebpki) | 0.103.17 | 0 | Web PKI X.509 certificate verification fork with bounded long-chain support for… |
-| 2026-11-25 07:56:55 | [tc_kdf](https://crates.io/crates/tc_kdf) | 0.1.0 | 0 | Key derivation functions after Bouncy Castle: KDF1, KDF2, the concatenation KDF… |
-| 2026-11-25 07:56:59 | [omg-engine](https://crates.io/crates/omg-engine) | 0.0.0 | 0 | Reserved for the OMG engine. No release yet. |
-| 2026-11-25 08:00:36 | [lsquare](https://crates.io/crates/lsquare) | 0.2.0-beta.1 | 0 | Record every tool call of your MCP server in LSquare |
-| 2026-11-25 08:01:06 | [yawn-router](https://crates.io/crates/yawn-router) | 0.1.0 | 0 | Client-side router for Yawn: nested routes, <Outlet />, <Link />, history integ… |
-| 2026-11-25 08:06:40 | [y-octo-core](https://crates.io/crates/y-octo-core) | 0.1.0 | 0 | Pure, unsafe-free CRDT core extracted to Lean 4 via Charon and Aeneas |
-| 2026-11-25 08:07:07 | [ggraph](https://crates.io/crates/ggraph) | 0.1.0 | 0 | Terminal UI for browsing and operating on a git commit graph, with mouse support |
-| 2026-11-25 08:10:17 | [xsysroot](https://crates.io/crates/xsysroot) | 0.1.0 | 0 | Unified cross-platform sysroot manager for Windows, macOS, iOS, Android, Linux,… |
-| 2026-11-25 08:11:38 | [libopenzilo](https://crates.io/crates/libopenzilo) | 0.2.1 | 0 | Unified high-performance OpenZilo interaction library in Rust with Python and K… |
+| 2026-11-25 08:21:23 | [quadratique-server](https://crates.io/crates/quadratique-server) | 0.1.0 | 0 | The Quadratique server: the issue lifecycle, the doltlite store and the AcidCat… |
+| 2026-11-25 08:21:27 | [quadratique](https://crates.io/crates/quadratique) | 0.1.0 | 0 | The quadratique command line: a client of the Quadratique server, which it star… |
+| 2026-11-25 08:22:31 | [senate-observe-protocol](https://crates.io/crates/senate-observe-protocol) | 0.13.0 | 0 | Versioned public wire types for observing a Senate |
+| 2026-11-25 08:22:33 | [senate-scene](https://crates.io/crates/senate-scene) | 0.13.0 | 0 | The rules a Senate scene bundle must satisfy: its manifest, its files, its .sen… |
+| 2026-11-25 08:22:39 | [senate-observe](https://crates.io/crates/senate-observe) | 0.13.0 | 0 | Machine-owned read-only Senate observation service |
+| 2026-11-25 08:22:40 | [senate-observe-client](https://crates.io/crates/senate-observe-client) | 0.13.0 | 0 | Rust client for the Senate Observe v1 HTTP and SSE API |
+| 2026-11-25 08:25:48 | [metal-cpp-rs](https://crates.io/crates/metal-cpp-rs) | 0.1.0 | 0 | ABI-faithful Rust conversion of Apple's metal-cpp: raw Objective-C runtime FFI… |
+| 2026-11-25 08:29:08 | [facett-mapfeed](https://crates.io/crates/facett-mapfeed) | 0.4.0 | 0 | facett — the korp map server as a data source for facett's 2D and 3D map viewer… |
+| 2026-11-25 08:31:00 | [xmac](https://crates.io/crates/xmac) | 0.1.0 | 0 | Utility for downloading and splatting the macOS SDK for cross-compilation. |
+| 2026-11-25 08:32:45 | [workit-rs](https://crates.io/crates/workit-rs) | 0.1.0 | 0 | A multi-repository Git workspace and task worktree manager |
+| 2026-11-25 08:34:54 | [sverigekartan](https://crates.io/crates/sverigekartan) | 0.1.0 | 0 | Sverigekartan: the map of Sweden from a korp map server (https://karta.gunnar.r… |
+| 2026-11-25 08:35:03 | [av1oxide](https://crates.io/crates/av1oxide) | 0.1.0 | 0 | 100% stable-Rust AV1 video decoder reimplementing dav1d (8/10/12-bit, x86_64/aa… |
+| 2026-11-25 08:38:28 | [xios](https://crates.io/crates/xios) | 0.1.0 | 0 | Utility for extracting and splatting the iOS SDK sysroot for cross-compilation. |
+| 2026-11-25 08:39:49 | [xohos](https://crates.io/crates/xohos) | 0.1.0 | 0 | Utility for downloading and splatting the OpenHarmony NDK sysroot for cross-com… |
+| 2026-11-25 08:40:11 | [xlinux](https://crates.io/crates/xlinux) | 0.1.0 | 0 | Utility for downloading and splatting minimal Linux glibc and musl sysroots for… |
+| 2026-11-25 08:46:25 | [termsheep](https://crates.io/crates/termsheep) | 0.0.1 | 0 | Termsheep: open-source team SSH client for people and AI agents. Project metada… |
+| 2026-11-25 08:46:31 | [termsheep-cli](https://crates.io/crates/termsheep-cli) | 0.0.1 | 0 | The Termsheep command-line client. Early placeholder; the first release follows. |
+| 2026-11-25 08:46:35 | [termsheep-core](https://crates.io/crates/termsheep-core) | 0.0.1 | 0 | Domain model, cryptography and encrypted local vault for Termsheep. Early place… |
+| 2026-11-25 08:46:50 | [rightkit-sync-keys](https://crates.io/crates/rightkit-sync-keys) | 0.1.0 | 0 | End-to-end sync key management for Right Suite apps: account data key, versione… |
+| 2026-11-25 08:47:06 | [gitmoji2](https://crates.io/crates/gitmoji2) | 9.8.0 | 0 | A Rust CLI for using gitmojis in commit messages, align with gitmoji-cli. |
+| 2026-11-25 08:49:17 | [soul](https://crates.io/crates/soul) | 0.0.1 | 0 | A GPU workload scheduler for Linux clusters |
+| 2026-11-25 08:50:29 | [wheels-macros](https://crates.io/crates/wheels-macros) | 0.1.0-alpha.1 | 0 | Procedural macros for the wheels account layout types |
+| 2026-11-25 08:50:30 | [wheels](https://crates.io/crates/wheels) | 0.1.0-alpha.1 | 0 | Zero-copy account layouts and validation helpers for Solana programs |
+| 2026-11-25 08:53:35 | [tidx](https://crates.io/crates/tidx) | 0.1.1 | 0 | Typed dense indices: one type per kind of index, stored in the narrowest width… |
+| 2026-11-25 08:56:37 | [apiproxy](https://crates.io/crates/apiproxy) | 0.1.1 | 0 | simple and local api endpoints proxy |
+| 2026-11-25 08:58:49 | [wasm-facade](https://crates.io/crates/wasm-facade) | 0.1.0 | 0 | A public API declared once in Rust with inert attributes, read into a versioned… |
+| 2026-11-25 09:00:09 | [dsd-upsample](https://crates.io/crates/dsd-upsample) | 0.1.0 | 0 | Deterministic DSD upconversion: DSF, DFF or PCM in, DSD64, DSD128 or DSD256 out |
+| 2026-11-25 09:00:17 | [dsd-upsample-cli](https://crates.io/crates/dsd-upsample-cli) | 0.1.0 | 0 | Command-line DSD upconverter |
+| 2026-11-25 09:10:47 | [skia-wgpu](https://crates.io/crates/skia-wgpu) | 0.158.0 | 0 | Runs Skia's Graphite Dawn backend on the wgpu crate |
+| 2026-11-25 09:14:38 | [bf16](https://crates.io/crates/bf16) | 0.1.0 | 0 | Official Rust SDK for bf16.ai — uncensored 1M-context LLM inference API with pr… |
+| 2026-11-25 09:15:50 | [rustimal](https://crates.io/crates/rustimal) | 0.2.3 | 0 | A minimal, GPU-rendered terminal for Windows that runs Git Bash, with animated… |
+| 2026-11-25 09:18:28 | [trusty-daemon-common](https://crates.io/crates/trusty-daemon-common) | 0.1.0 | 0 | Shared macOS broker-daemon plumbing for trusty-browser and trusty-computer: pee… |
+| 2026-11-25 09:20:03 | [libbhoo](https://crates.io/crates/libbhoo) | 0.2.0 | 0 | Minimal UI foundations for SpectreOS |
 
 ## Data source
 

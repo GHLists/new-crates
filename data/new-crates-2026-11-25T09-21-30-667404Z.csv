@@ -1,0 +1,34 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-25T08:21:23.746764Z,quadratique-server,0.1.0,0,0,https://github.com/Hebilicious/quadratique,"The Quadratique server: the issue lifecycle, the doltlite store and the AcidCat application."
+2026-11-25T08:21:27.15364Z,quadratique,0.1.0,0,0,https://github.com/Hebilicious/quadratique,"The quadratique command line: a client of the Quadratique server, which it starts when needed."
+2026-11-25T08:22:31.639363Z,senate-observe-protocol,0.13.0,0,0,https://github.com/oops-rs/senate,Versioned public wire types for observing a Senate
+2026-11-25T08:22:33.645161Z,senate-scene,0.13.0,0,0,https://github.com/oops-rs/senate,"The rules a Senate scene bundle must satisfy: its manifest, its files, its .senatescene archive"
+2026-11-25T08:22:39.422295Z,senate-observe,0.13.0,0,0,https://github.com/oops-rs/senate,Machine-owned read-only Senate observation service
+2026-11-25T08:22:40.62111Z,senate-observe-client,0.13.0,0,0,https://github.com/oops-rs/senate,Rust client for the Senate Observe v1 HTTP and SSE API
+2026-11-25T08:25:48.226787Z,metal-cpp-rs,0.1.0,0,0,https://github.com/YoungHaKim7/metal-cpp-rs,"ABI-faithful Rust conversion of Apple's metal-cpp: raw Objective-C runtime FFI for Metal, Foundation and QuartzCore (macOS 27 / iOS 27 SDK era)"
+2026-11-25T08:29:08.140095Z,facett-mapfeed,0.4.0,0,0,https://git.gunnar.rs/nordisk/facett,"facett — the korp map server as a data source for facett's 2D and 3D map viewers: the map wire (v1.2) client side, an HTTP transport trait (browser fetch, a native thread transport, a fake), the Arro…"
+2026-11-25T08:31:00.00424Z,xmac,0.1.0,0,0,https://github.com/cross-toolchains/xmac,Utility for downloading and splatting the macOS SDK for cross-compilation.
+2026-11-25T08:32:45.769675Z,workit-rs,0.1.0,0,0,https://github.com/ChenLuoi/workit-rs,A multi-repository Git workspace and task worktree manager
+2026-11-25T08:34:54.741842Z,sverigekartan,0.1.0,0,0,https://git.gunnar.rs/nordisk/korp-map,"Sverigekartan: the map of Sweden from a korp map server (https://karta.gunnar.rs) in a native window. 2D and 3D, address search, click for the nearest address. Pure Rust: egui, wgpu, rustls on gravio…"
+2026-11-25T08:35:03.445866Z,av1oxide,0.1.0,0,0,https://github.com/hakantr/av1oxide,"100% stable-Rust AV1 video decoder reimplementing dav1d (8/10/12-bit, x86_64/aarch64/wasm32 SIMD, multithreaded, zero dependencies)"
+2026-11-25T08:38:28.287705Z,xios,0.1.0,0,0,https://github.com/cross-toolchains/xios,Utility for extracting and splatting the iOS SDK sysroot for cross-compilation.
+2026-11-25T08:39:49.269317Z,xohos,0.1.0,0,0,https://github.com/cross-toolchains/xohos,Utility for downloading and splatting the OpenHarmony NDK sysroot for cross-compilation.
+2026-11-25T08:40:11.701004Z,xlinux,0.1.0,0,0,https://github.com/cross-toolchains/xlinux,Utility for downloading and splatting minimal Linux glibc and musl sysroots for cross-compilation.
+2026-11-25T08:46:25.755595Z,termsheep,0.0.1,0,0,https://github.com/termsheep/termsheep,Termsheep: open-source team SSH client for people and AI agents. Project metadata; the release follows.
+2026-11-25T08:46:31.146191Z,termsheep-cli,0.0.1,0,0,https://github.com/termsheep/termsheep,The Termsheep command-line client. Early placeholder; the first release follows.
+2026-11-25T08:46:35.860078Z,termsheep-core,0.0.1,0,0,https://github.com/termsheep/termsheep,"Domain model, cryptography and encrypted local vault for Termsheep. Early placeholder; the first release follows."
+2026-11-25T08:46:50.085185Z,rightkit-sync-keys,0.1.0,0,0,https://github.com/bogusyogi/rightkit,"End-to-end sync key management for Right Suite apps: account data key, versioned rotation, per-zone key derivation, OS credential storage, and device-approval key transfer (X25519 + short code + AEAD…"
+2026-11-25T08:47:06.595856Z,gitmoji2,9.8.0,0,0,,"A Rust CLI for using gitmojis in commit messages, align with gitmoji-cli."
+2026-11-25T08:49:17.277789Z,soul,0.0.1,0,0,https://github.com/stmonty/soul,A GPU workload scheduler for Linux clusters
+2026-11-25T08:50:29.114648Z,wheels-macros,0.1.0-alpha.1,0,0,https://github.com/magicblock-labs/magicblock-wheels,Procedural macros for the wheels account layout types
+2026-11-25T08:50:30.829548Z,wheels,0.1.0-alpha.1,0,0,https://github.com/magicblock-labs/magicblock-wheels,Zero-copy account layouts and validation helpers for Solana programs
+2026-11-25T08:53:35.215927Z,tidx,0.1.1,0,0,https://github.com/FelixKahle/tidx,"Typed dense indices: one type per kind of index, stored in the narrowest width its table needs"
+2026-11-25T08:56:37.718306Z,apiproxy,0.1.1,0,0,,simple and local api endpoints proxy
+2026-11-25T08:58:49.894121Z,wasm-facade,0.1.0,0,0,https://github.com/IGNF/wasm-facade,"A public API declared once in Rust with inert attributes, read into a versioned JSON file from which an idiomatic TypeScript facade over wasm-bindgen, its framework bindings and its reference are wri…"
+2026-11-25T09:00:09.179379Z,dsd-upsample,0.1.0,0,0,https://github.com/dsd-toolbox/dsd-upsample-rs,"Deterministic DSD upconversion: DSF, DFF or PCM in, DSD64, DSD128 or DSD256 out"
+2026-11-25T09:00:17.482589Z,dsd-upsample-cli,0.1.0,0,0,https://github.com/dsd-toolbox/dsd-upsample-rs,Command-line DSD upconverter
+2026-11-25T09:10:47.746527Z,skia-wgpu,0.158.0,0,0,https://github.com/rust-skia/rust-skia,Runs Skia's Graphite Dawn backend on the wgpu crate
+2026-11-25T09:14:38.974215Z,bf16,0.1.0,0,0,https://github.com/BF16-AI/bf16-rs,Official Rust SDK for bf16.ai — uncensored 1M-context LLM inference API with prompt caching and strict Zero Data Retention.
+2026-11-25T09:15:50.862611Z,rustimal,0.2.3,0,0,,"A minimal, GPU-rendered terminal for Windows that runs Git Bash, with animated split panes and a glass look"
+2026-11-25T09:18:28.293728Z,trusty-daemon-common,0.1.0,0,0,https://github.com/bobmatnyc/trusty-tools,"Shared macOS broker-daemon plumbing for trusty-browser and trusty-computer: peer uid check, owner-only files, Developer ID signing, launchd plist and audit-log rotation"
+2026-11-25T09:20:03.176687Z,libbhoo,0.2.0,0,0,https://github.com/spectre-oss/spectreos,Minimal UI foundations for SpectreOS
