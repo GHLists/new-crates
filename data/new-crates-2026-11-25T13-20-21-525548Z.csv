@@ -1,0 +1,37 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-25T12:19:20.718049Z,hyve-cli,0.1.0-alpha.0,0,0,https://github.com/hyperish/hyve,"The hyve command: test, build and the Hyperish workspace workflow on top of Cargo"
+2026-11-25T12:21:08.187351Z,hazard3-gl5528,0.2.2,0,0,https://github.com/jorgeandrecastro/hazard3-gl5528,"Async no_std GL5528 photoresistor driver for Hazard3, with optional upstream Embassy support."
+2026-11-25T12:21:35.788456Z,lagrangian,0.1.0,0,0,https://github.com/vyncint/lagrangian,"Lagrangian mechanics engine: write L = T - V in plain Rust, get exact equations of motion by forward-mode autodiff, symplectic and adaptive integrators, and scrubbable C2 trajectories"
+2026-11-25T12:24:14.491164Z,stixflayer-cli,0.1.0,0,0,https://github.com/osintalex/stixflayer,Command-line STIX 2.1 validator built on the stixflayer engine
+2026-11-25T12:24:43.759716Z,koru-telemetry,0.1.0,0,0,,Koru 遥测组件：结构化日志与进程内指标（原子直方图 + Prometheus 文本渲染）
+2026-11-25T12:26:38.461384Z,dxf-geometry,0.1.0,0,0,https://github.com/visualcraft-lab/dxf-geometry-rs,"Zero-dependency 2D CAD and DXF geometry library for polyline length, polygon area, DPI-to-mm scale calibration, Ramer-Douglas-Peucker simplification, and ASCII DXF polyline export."
+2026-11-25T12:29:18.935919Z,tree-sitter-fluent,0.1.1,0,0,https://github.com/hewigovens/fluent-tooling,Editor-oriented Tree-sitter grammar for Fluent FTL
+2026-11-25T12:29:19.355846Z,hyve-config,0.1.0-alpha.0,0,0,https://github.com/hyperish/hyve,"Startup configuration for the Hyperish family: hyve.toml, .env, environment and --set, decoded into a #[model] and validated"
+2026-11-25T12:30:31.315146Z,corpora-ui,0.1.0,0,0,https://github.com/exegia/corpora-ui,"Corpora UI for GPUI: foundations, atoms, composed components and blocks."
+2026-11-25T12:32:39.743309Z,alloytools-rs-batsat,0.0.2,0,0,https://github.com/taehoon1lee/alloytools-rs,"Vendored copy of batsat 0.6.0 (MIT, github.com/c-cube/batsat), a MiniSat 2.2 port, tuned for Kodkod CNFs"
+2026-11-25T12:32:41.22593Z,alloytools-rs-core,0.0.2,0,0,https://github.com/taehoon1lee/alloytools-rs,"Alloy language front-end: lexer, parser, AST, module resolution, type checking (port of edu.mit.csail.sdg.{alloy4,ast,parser})"
+2026-11-25T12:32:43.534056Z,alloytools-rs-satsolver,0.0.2,0,0,https://github.com/taehoon1lee/alloytools-rs,SAT solver abstraction (port of kodkod.engine.satlab.SATSolver) with pure-Rust backends
+2026-11-25T12:32:46.522536Z,alloytools-rs-pardinus,0.0.2,0,0,https://github.com/taehoon1lee/alloytools-rs,Pure-MIT port of the Pardinus/Kodkod translation pipeline (Kodkod problem -> CNF -> BatSat -> instance)
+2026-11-25T12:32:49.423283Z,alloytools-rs-translate,0.0.2,0,0,https://github.com/taehoon1lee/alloytools-rs,Alloy AST -> Kodkod translation and solving (port of edu.mit.csail.sdg.translator)
+2026-11-25T12:34:21.754629Z,prefix-guru,0.1.0,0,0,https://github.com/StarcevAlexander/prefix-guru,"Autoprefixer for Rust - adds and removes -webkit-, -moz-, -ms- and -o- prefixes in CSS for the selected browsers, ported from autoprefixer 10.4 and checked against it, with a built-in browserslist en…"
+2026-11-25T12:35:18.018611Z,koru-acl,0.1.0,0,0,,Koru 组件：白名单/黑名单访问控制（IP/CIDR、路径与头部规则、带 TTL 的动态名单）
+2026-11-25T12:37:31.907189Z,tree-sitter-typst,0.1.3,0,0,https://github.com/forfudan/tree-sitter-typst,Typst grammar for tree-sitter
+2026-11-25T12:37:45.743835Z,tree-sitter-mojo,0.4.0,0,0,https://github.com/forfudan/tree-sitter-mojo,Mojo grammar for tree-sitter
+2026-11-25T12:38:32.965928Z,devtape-ui,0.4.5,0,0,https://github.com/sayyidsh/devtape,Loopback-only embedded Timeline UI server for inspecting DTP v0.1 .tape archives
+2026-11-25T12:38:45.204856Z,devtape-cli,0.4.5,0,0,https://github.com/sayyidsh/devtape,"Reference CLI for the DevTape Protocol (DTP v0.1) — record, scrub, rewind, and inspect terminal & AI-agent sessions"
+2026-11-25T12:39:20.240477Z,orbic-cache,0.1.0-alpha.0,0,0,https://github.com/hyperish/orbic,"Cache keys and tags, in-memory cache with Singleflight and tag invalidation, idempotency and rate-limit stores for orbic"
+2026-11-25T12:49:21.382593Z,orbic-core,0.1.0-alpha.0,0,0,https://github.com/hyperish/orbic,"BackendComponent tree, transport-neutral request pipeline and assembly checks for orbic"
+2026-11-25T12:49:48.988459Z,koru-breaker,0.1.0,0,0,,Koru 组件：按路径分组的熔断器（Closed / Open / HalfOpen）
+2026-11-25T12:51:03.668163Z,culmen_scip,0.4.0,0,0,https://github.com/FelixKahle/culmen,"The SCIP backend of culmen: SCIP 10 built from source through scip-sys, every callback event through SCIP plugins, branch-and-price included, with typed options and statuses."
+2026-11-25T12:55:05.396918Z,koru-cors,0.1.0,0,0,,Koru 组件：跨域放行、预检短路（通配与凭证互斥）与 Vary 处理
+2026-11-25T12:55:12.431615Z,krpc-rust,0.1.0,0,0,https://github.com/krpc/krpc,"Client for kRPC, the Remote Procedure Call server for Kerbal Space Program"
+2026-11-25T12:59:19.180099Z,orbic-adapter-http,0.1.0-alpha.0,0,0,https://github.com/hyperish/orbic,"HTTP/1.1 adapter for orbic: standard (JSON) and fast (binary) rails, CORS, security headers, size limits, /health, /metrics"
+2026-11-25T13:00:41.772296Z,temps-plugin-protocol,0.1.0-beta.62,0,0,https://github.com/gotempsh/temps,"External plugin wire protocol: manifest, handshake, channel messages and proxy headers shared by the platform and the plugin SDK"
+2026-11-25T13:00:47.883802Z,temps-plugin-sdk,0.1.0-beta.62,0,0,https://github.com/gotempsh/temps,SDK for building external Temps plugins as standalone binaries
+2026-11-25T13:00:52.716433Z,temps-workflows-sdk,0.1.0-beta.1,0,0,https://github.com/gotempsh/temps,Rust durable workflow client and authenticated executor for Temps
+2026-11-25T13:03:28.651024Z,soundor,0.1.0,0,0,https://github.com/soundor/soundor,Official Soundor crate (name reserved; Soundor is distributed through npm)
+2026-11-25T13:03:31.291532Z,soundor-vst3,0.1.0,0,0,https://github.com/soundor/soundor,Official Soundor crate (name reserved; Soundor is distributed through npm)
+2026-11-25T13:05:36.445794Z,koru-gunzip,0.1.0,0,0,,Koru 组件：响应解压（Nginx ngx_http_gunzip_module 的等价物：客户端不接受 gzip 时解压上游表示）
+2026-11-25T13:09:21.426245Z,orbic-auth,0.1.0-alpha.0,0,0,https://github.com/hyperish/orbic,"Opaque sessions for orbic: web cookies with CSRF, native Bearer tokens, refresh rotation, revocation, AuthGuard"
+2026-11-25T13:17:50.561908Z,koru-mail,0.1.0,0,0,,Koru 组件：POP3 / IMAP / SMTP 邮件代理（auth_http 认证回调 / STARTTLS / 上游转发）
+2026-11-25T13:19:19.88508Z,orbic-db,0.1.0-alpha.0,0,0,https://github.com/hyperish/orbic,"Type-safe chaining queries, offline-checked sql!, transactions and migrations for orbic"
