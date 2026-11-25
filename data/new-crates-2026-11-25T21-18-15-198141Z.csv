@@ -1,0 +1,42 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-25T20:20:23.850613Z,aylis-tray-icon,0.25.1,0,0,https://github.com/e-rust/aylis,"Cópia do tray-icon 0.25.1 (Tauri) com o with_uid (o uID fixo do ícone no Windows), usada pelo Aylis até o recurso sair no original"
+2026-11-25T20:21:10.715098Z,hashtally,0.1.0,0,0,https://github.com/themankindproject/hashtally,"Exact in-memory inverted index for landmark audio fingerprints: sorted postings, a radix directory and a two-pass vote search"
+2026-11-25T20:21:29.375497Z,local-text-generation,0.1.0,0,0,https://github.com/PartiiGames/local-text-generation,"On-device LLM inference in pure Rust on burn: Qwen3 / Qwen2 / Llama transformer decoder from Hugging Face safetensors, KV cache, token streaming, CPU (WebGPU next)."
+2026-11-25T20:22:34.784346Z,light-ui,0.21.0-alpha.1,0,0,https://github.com/gifoff/light,"Light UI: готовые виджеты (Tooltip, Toast, Modal, Progress) поверх light-fw-core + light-gui (0.21.0)"
+2026-11-25T20:23:09.188945Z,octara-icons,0.0.1,0,0,https://github.com/octoii-works/octara,"The Lucide icon set for Octara: every icon as path data, tinted by the text color."
+2026-11-25T20:24:37.432178Z,supernsh-icons-streamline,0.2.0,0,0,https://github.com/SuperNSH/icons,"Streamline icons for Native Shell (NSH) apps, in Rust and TSX, drawn by supernsh-icons"
+2026-11-25T20:28:54.645448Z,tilo-doc,0.5.0,0,0,https://code.tilo.so/tilo/tilo,Rich-text and spreadsheet document resources for Tilo
+2026-11-25T20:29:06.150535Z,x-stitch,0.1.0,0,0,https://github.com/joaodrp/x-stitch,Download and stitch segmented X/Twitter carousel images into a single full-resolution image
+2026-11-25T20:29:07.819176Z,markhor_core_derive,0.1.0-alpha.1,0,0,https://github.com/dtrlanz/markhor,Derive macro for markhor_core's Provide trait
+2026-11-25T20:29:17.362287Z,markhor_cli,0.1.0-alpha.1,0,0,https://github.com/dtrlanz/markhor,"Command-line interface for Markhor, a project connecting AI models, documents, and workflows for knowledge work"
+2026-11-25T20:30:48.789207Z,weirdnet-vault,0.1.0,0,0,https://github.com/WeirdBrains/weirdnet-vault,"Weirdnet vault: an encrypted secret and credential store with scoped access, per-identity grants, environments, rotation without downtime and a hash-chained audit log."
+2026-11-25T20:33:44.82064Z,octara-host-native,0.0.1,0,0,https://github.com/octoii-works/octara,Native Octara host orchestration and OS services.
+2026-11-25T20:35:00.51111Z,supernsh-icons-svg-spinners,0.2.0,0,0,https://github.com/SuperNSH/icons,"SVG Spinners icons for Native Shell (NSH) apps, in Rust and TSX, drawn by supernsh-icons"
+2026-11-25T20:35:00.664576Z,pdfium-embed,0.1.1,0,0,https://github.com/romnn/pdfium-embed,"Safe, serialized access to pdfium, with the pdfium library embedded in the binary at build time"
+2026-11-25T20:36:51.702194Z,speech-to-text,0.1.0,0,0,https://github.com/PartiiGames/speech-to-text,"Real-time, on-device speech to text: OpenAI Whisper tiny.en / base.en on burn, native CPU, WebGPU / Metal / Vulkan via wgpu, and the browser (wasm). 5.9 s of speech in 143 ms on one desktop CPU (tiny…"
+2026-11-25T20:38:39.556393Z,weirdnet-service,0.1.0,0,0,https://github.com/WeirdBrains/weirdnet-service,"Weirdnet service framework: typed request/response services behind an Authorize hook, live topic feeds with snapshot-then-deltas, resume and backpressure, versioned protocol ids, and a Server and Cli…"
+2026-11-25T20:38:54.569711Z,tilo-doc-codecs,0.5.0,0,0,https://code.tilo.so/tilo/tilo,"Import/export projections between file formats and qdoc document resources, plus the format-provider registry"
+2026-11-25T20:40:01.44407Z,markdown-viewer-rs,0.4.0,0,0,https://github.com/mdellavo/markdown-viewer,Render a Markdown file with GitHub styling and live-reload it in your browser
+2026-11-25T20:42:59.896495Z,qucelerate-ai-gateway,2026.11.0-rc.4,0,0,https://github.com/qucelerate/ai-gateway,Client for the QuCelerate AI Gateway inference API (contract 1.0.0)
+2026-11-25T20:44:18.595316Z,octara-host-web,0.0.1,0,0,https://github.com/octoii-works/octara,"DOM host for Octara, with optional WebGPU rendering."
+2026-11-25T20:45:23.51683Z,supernsh-icons-tabler,0.2.0,0,0,https://github.com/SuperNSH/icons,"Tabler Icons icons for Native Shell (NSH) apps, in Rust and TSX, drawn by supernsh-icons"
+2026-11-25T20:47:02.271139Z,ansel,0.1.1,0,0,https://github.com/bytebury/ansel,"Image upload, editing, and conversion microservice, plus its Rust client SDK."
+2026-11-25T20:48:20.189591Z,text-to-phonemes,0.1.0,0,0,https://github.com/PartiiGames/text-to-phonemes,"English text to phonemes in pure Rust, real-time and on-device: text normalization, embedded CMUdict, an out-of-vocabulary letter-to-phoneme model, espeak-ng style IPA and Piper TTS phoneme ids. Abou…"
+2026-11-25T20:48:54.157998Z,tilo-deck,0.5.0,0,0,https://code.tilo.so/tilo/tilo,"A deck's engine: the slides, their elements and words, and the .odp and .pptx interchange, with no toolkit."
+2026-11-25T20:53:10.219161Z,uniffi_parse_rs,0.33.0,0,0,https://github.com/mozilla/uniffi-rs,Rust source parsing for the uniffi project
+2026-11-25T20:53:51.485091Z,uniffi-bindgen-kotlin-jni,0.33.0,0,0,https://github.com/mozilla/uniffi-rs,a multi-language bindings generator for rust (codegen and cli tooling)
+2026-11-25T20:54:49.187227Z,octara-inspect,0.0.1,0,0,https://github.com/octoii-works/octara,"Octara's inspection protocol, replay and deterministic simulation."
+2026-11-25T20:55:59.655657Z,mtui-tui,26.4.1,0,0,https://github.com/openSUSE/mtui,Full-screen report-document editor for mtui
+2026-11-25T20:56:11.301024Z,uniffi-bindgen-kotlin-jni-runtime,0.33.0,0,0,https://github.com/mozilla/uniffi-rs,a multi-language bindings generator for rust (codegen and cli tooling)
+2026-11-25T20:57:30.062959Z,polx,0.0.1,0,0,https://github.com/ntl4u/polx,Policy layer for agentic enterprise applications
+2026-11-25T20:58:25.054161Z,realtime-game-decisions,0.0.1,0,0,https://github.com/PartiiGames/realtime-game-decisions,"On-device game AI for NPCs, bots and difficulty: microsecond decisions with calibrated probabilities. Tiny per-game models answering choice / yes-no / score questions on CPU or in the browser (wasm)."
+2026-11-25T20:58:54.480147Z,tilo-doc-pdf,0.5.0,0,0,https://code.tilo.so/tilo/tilo,Paginated PDF export for tilo-doc DocSnapshot documents (Tilo)
+2026-11-25T21:00:58.072492Z,merc_typecheck,3.1.0,0,0,https://github.com/MERCorg/merc.git,Provides a type checker for the mCRL2 specification language.
+2026-11-25T21:01:12.48735Z,merc_lowering,3.0.0,0,0,https://github.com/MERCorg/merc.git,Lowers type-checked ASTs to the data expression representation
+2026-11-25T21:02:50.769799Z,matier_fetch,0.3.0,0,0,https://github.com/ben-cunningham/matier,Matier as the transport for Microsoft's fetch HTTP client
+2026-11-25T21:05:22.972272Z,octara-cli,0.0.1,0,0,https://github.com/octoii-works/octara,"The `octara` command: the framework's API, usage and diagnostics for agents and people."
+2026-11-25T21:09:55.048074Z,familiar-agent,0.5.0,0,0,https://github.com/SpiraMirabilis/familiar,"LLM agents (Claude Code, Codex, ...) beside a world in Familiar: the MCP server that serves them the world's tools, and starting them"
+2026-11-25T21:10:51.515241Z,e-ng,0.1.0,0,0,https://github.com/TWOJ_NICK/e-ng,The next generation of BrutBurger's Project E. A C++ obfuscator.
+2026-11-25T21:15:55.489875Z,octara-kit,0.0.1,0,0,https://github.com/octoii-works/octara,"Themable components for Octara, built only on octara's public primitives."
+2026-11-25T21:17:05.198112Z,magic-glyphs,0.8.0,0,0,https://github.com/lewisjohnvillamor/magicglyphs,"Animated icons with sound for Rust apps: the 120 free Magic Glyphs icons, their spring motion and an SVG for any moment of it. No dependencies."
+2026-11-25T21:17:18.839134Z,weirdnet-chart,0.1.0,0,0,https://github.com/WeirdBrains/weirdnet-chart,"Real-time charts: line, area, bar, candlestick, OHLC and volume series with axes, pan, zoom and live updates, over a renderer-independent core with optional GPUI and Ratatui backends."
