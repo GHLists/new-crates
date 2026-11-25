@@ -1,0 +1,36 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-25T21:19:47.337449Z,weirdnet-exchange,0.1.0,0,0,https://github.com/WeirdBrains/weirdnet-exchange,"Weirdnet exchange types and traits: instruments, exact decimal prices and sizes, orders with a state machine, fills, balances, positions, market data, an async adapter trait, cost and rate-limit help…"
+2026-11-25T21:20:59.909883Z,citop,0.1.0,0,0,https://github.com/xfbs/citop,Interactive CI pipeline viewer
+2026-11-25T21:28:56.002746Z,quic-net,0.6.0,0,0,https://github.com/jamesgober/quic-net,"QUIC transport for Rust over the UDP socket of net-io: connections, streams, loss recovery, and congestion control, with TLS 1.3 through tls-net. The base for HTTP/3."
+2026-11-25T21:29:10.323817Z,fastauth-macros,0.1.0,0,0,https://github.com/lassejlv/fastauth,"Derive macros for fastauth: Fields, Model and AuthError."
+2026-11-25T21:29:12.67762Z,fastauth-core,0.1.0,0,0,https://github.com/lassejlv/fastauth,"Core of fastauth: the builder, plugin system, sessions, crypto and routing."
+2026-11-25T21:29:15.023866Z,fastauth-axum,0.1.0,0,0,https://github.com/lassejlv/fastauth,"axum integration for fastauth: the auth router, session extractors and a session layer."
+2026-11-25T21:29:15.49127Z,fastauth-cli,0.1.0,0,0,https://github.com/lassejlv/fastauth,The fastauth command: generates secrets. Schema and migration commands live in your app's own binary.
+2026-11-25T21:29:16.093006Z,fastauth-oauth,0.1.0,0,0,https://github.com/lassejlv/fastauth,"Social sign-in for fastauth: the Social plugin, OAuth providers and the outgoing HTTP client."
+2026-11-25T21:34:35.489594Z,fastauth-sqlx,0.1.0,0,0,https://github.com/lassejlv/fastauth,"sqlx adapter for fastauth: Postgres and SQLite, with migrations."
+2026-11-25T21:38:21.594692Z,llama-cpp-decision,0.32.0,0,0,https://github.com/intentee/llama-cpp-bindings,"Answers questions with llama.cpp's typed decision models through llama.cpp's own prompt layouts and answer formatting, without the caller knowing the decision model's type"
+2026-11-25T21:38:24.054529Z,llama-cpp-model-capabilities,0.32.0,0,0,https://github.com/intentee/llama-cpp-bindings,"Detects, once, what a loaded llama.cpp model can serve and how its contexts must be configured, the way llama.cpp itself decides it"
+2026-11-25T21:43:18.39578Z,agentkit-provider-gemini,0.11.0,0,0,https://github.com/danielkov/agentkit,Google Gemini API provider adapter for agentkit.
+2026-11-25T21:44:45.427236Z,fastauth-plugin-two-factor,0.1.0,0,0,https://github.com/lassejlv/fastauth,"Two-factor authentication for fastauth: TOTP, email codes, backup codes and trusted devices."
+2026-11-25T21:50:56.610318Z,rust-glass,0.1.0,0,0,https://github.com/MasterKPG/rust-glass,GPU rendered Liquid Glass style UI framework with an immediate mode API
+2026-11-25T21:54:59.145559Z,fastauth,0.1.0,0,0,https://github.com/lassejlv/fastauth,"Authentication for Rust web apps, modelled on Better Auth: sessions, email and password, plugins checked by the compiler."
+2026-11-25T21:58:24.057129Z,uddf,0.1.0,0,0,https://github.com/michidk/uddf-rs,Lenient reader and schema-order writer for UDDF (Universal Dive Data Format) 3.2.x dive logs
+2026-11-25T22:01:19.059474Z,nomux-extension,0.1.0,0,0,https://github.com/nomux-sh/extension-api,The nomux extension SDK: the daemon part of an extension and the extension manifest
+2026-11-25T22:01:19.632638Z,divejson,0.1.0,0,0,https://github.com/michidk/divejson-rs,"Read, write and validate DiveJSON, the open dive-log interchange format"
+2026-11-25T22:01:33.01309Z,ontomark-write,0.1.0,0,0,https://github.com/DreamLab-AI/ontomark,"The headless write engine for ontomark working-memory pages: one validated, lossless, atomic write path for create, patch, review transitions and supersession (vocabulary 3, ADR-VG-012 section 9 and…"
+2026-11-25T22:04:09.092496Z,cw-snapshot-derive,0.3.0,0,0,https://github.com/ComputaCo/computaco-core-public,"Derive macros for cw-snapshot's Encode, Decode and Describe"
+2026-11-25T22:04:47.841996Z,skytwin-core,0.1.0,0,0,https://github.com/shaneryall/SkyTwin,"Synthetic star-field images with satellite streaks, instrument defects and an exact answer key for every frame"
+2026-11-25T22:04:58.241417Z,skytwin-cli,0.1.0,0,0,https://github.com/shaneryall/SkyTwin,"Synthetic star-field images with satellite streaks, instrument defects and an exact answer key for every frame"
+2026-11-25T22:05:02.603125Z,aurelin-assist,0.4.1,0,0,https://github.com/AlextheYounga/aurelin.git,Local AI development context and debugging tools for Aurelin
+2026-11-25T22:05:03.670217Z,aurelin-sanctum,0.4.1,0,0,https://github.com/AlextheYounga/aurelin.git,Personal access token primitives for Aurelin
+2026-11-25T22:05:04.192898Z,divecomputer-core,0.1.0,0,0,https://github.com/michidk/divecomputer-rs,"Shared building blocks for dive computer protocols: checksums, framing and the dive data model"
+2026-11-25T22:08:28.350717Z,printhor-async-gcode,0.4.0,0,0,https://github.com/cbruiz/async-gcode,An async gcode parser for no_std targets (Printhor fork of async-gcode).
+2026-11-25T22:11:58.877217Z,cw-snapshot,0.3.0,0,0,https://github.com/ComputaCo/computaco-core-public,ComputerWorld's portable snapshot format: a schema'd binary encoding read by field name
+2026-11-25T22:16:29.96787Z,text-to-speech,0.1.0,0,0,https://github.com/PartiiGames/text-to-speech,"Real-time, on-device text to speech: Piper VITS voices on burn, native CPU. First sentence of audio in 65 ms on 4 desktop CPU threads; sentence streaming with cancellation. wasm and wgpu/WebGPU paths…"
+2026-11-25T22:17:07.060155Z,tilo-formats,0.5.0,0,0,https://code.tilo.so/tilo/tilo,"Dates, times and clocks as the person set them: the format styles and their rendering, without the toolkit."
+2026-11-25T22:17:11.24519Z,tilo-recurrence,0.5.0,0,0,https://code.tilo.so/tilo/tilo,"RFC 5545 recurrence rules shared by Tilo apps and the language runtime: RRULE/EXDATE text, expansion in a named zone, and the repeat presets a picker shows."
+2026-11-25T22:17:15.367575Z,tilo-reference,0.5.0,0,0,https://code.tilo.so/tilo/tilo,"Addresses of things in documents: a selection in any app carried as a resource reference beside the text, so whoever reads it knows what ""this"" meant."
+2026-11-25T22:17:19.864708Z,tilo-sheet,0.5.0,0,0,https://code.tilo.so/tilo/tilo,"A spreadsheet's engine: the cells as typed, the values formulas compute, the formats they show in, smart fill, and the .xlsx/.ods/.csv interchange, with no toolkit."
+2026-11-25T22:17:24.281961Z,tilo-wasm-aot,0.5.0,0,0,https://code.tilo.so/tilo/tilo,"Wasmtime modules compiled ahead of time for a device: the engine configuration the compiler and the runtime share, the cache keyed by module, wasmtime version, configuration and target, and the seale…"
+2026-11-25T22:18:54.251003Z,tilo-wasm-host,0.5.0,0,0,https://code.tilo.so/tilo/tilo,"The wasm host layer every guest in Tilo executes on: per-call fuel, memory and table limits, module loading, one failure type, and the rule that an instance whose call failed is never called again."
+2026-11-25T22:19:16.92351Z,ra-ap-rustc_unicode,0.1.0,0,0,https://github.com/rust-lang/rust,Automatically published version of the package `rustc_unicode` in the rust-lang/rust repository from commit 42e0b13fb7310a12a827f6a28891c11d2e10923a The publishing script for this crate lives at: htt…

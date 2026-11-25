@@ -8,55 +8,49 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-25 21:18 UTC
+## Latest list — 2026-11-25 22:20 UTC
 
-New crates published between 2026-11-25 20:19 UTC and 2026-11-25 21:18 UTC.
+New crates published between 2026-11-25 21:18 UTC and 2026-11-25 22:20 UTC.
 
-[Full CSV](data/new-crates-2026-11-25T21-18-15-198141Z.csv)
+[Full CSV](data/new-crates-2026-11-25T22-20-16-875562Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-25 20:20:23 | [aylis-tray-icon](https://crates.io/crates/aylis-tray-icon) | 0.25.1 | 0 | Cópia do tray-icon 0.25.1 (Tauri) com o with_uid (o uID fixo do ícone no Window… |
-| 2026-11-25 20:21:10 | [hashtally](https://crates.io/crates/hashtally) | 0.1.0 | 0 | Exact in-memory inverted index for landmark audio fingerprints: sorted postings… |
-| 2026-11-25 20:21:29 | [local-text-generation](https://crates.io/crates/local-text-generation) | 0.1.0 | 0 | On-device LLM inference in pure Rust on burn: Qwen3 / Qwen2 / Llama transformer… |
-| 2026-11-25 20:22:34 | [light-ui](https://crates.io/crates/light-ui) | 0.21.0-alpha.1 | 0 | Light UI: готовые виджеты (Tooltip, Toast, Modal, Progress) поверх light-fw-cor… |
-| 2026-11-25 20:23:09 | [octara-icons](https://crates.io/crates/octara-icons) | 0.0.1 | 0 | The Lucide icon set for Octara: every icon as path data, tinted by the text col… |
-| 2026-11-25 20:24:37 | [supernsh-icons-streamline](https://crates.io/crates/supernsh-icons-streamline) | 0.2.0 | 0 | Streamline icons for Native Shell (NSH) apps, in Rust and TSX, drawn by superns… |
-| 2026-11-25 20:28:54 | [tilo-doc](https://crates.io/crates/tilo-doc) | 0.5.0 | 0 | Rich-text and spreadsheet document resources for Tilo |
-| 2026-11-25 20:29:06 | [x-stitch](https://crates.io/crates/x-stitch) | 0.1.0 | 0 | Download and stitch segmented X/Twitter carousel images into a single full-reso… |
-| 2026-11-25 20:29:07 | [markhor_core_derive](https://crates.io/crates/markhor_core_derive) | 0.1.0-alpha.1 | 0 | Derive macro for markhor_core's Provide trait |
-| 2026-11-25 20:29:17 | [markhor_cli](https://crates.io/crates/markhor_cli) | 0.1.0-alpha.1 | 0 | Command-line interface for Markhor, a project connecting AI models, documents,… |
-| 2026-11-25 20:30:48 | [weirdnet-vault](https://crates.io/crates/weirdnet-vault) | 0.1.0 | 0 | Weirdnet vault: an encrypted secret and credential store with scoped access, pe… |
-| 2026-11-25 20:33:44 | [octara-host-native](https://crates.io/crates/octara-host-native) | 0.0.1 | 0 | Native Octara host orchestration and OS services. |
-| 2026-11-25 20:35:00 | [supernsh-icons-svg-spinners](https://crates.io/crates/supernsh-icons-svg-spinners) | 0.2.0 | 0 | SVG Spinners icons for Native Shell (NSH) apps, in Rust and TSX, drawn by super… |
-| 2026-11-25 20:35:00 | [pdfium-embed](https://crates.io/crates/pdfium-embed) | 0.1.1 | 0 | Safe, serialized access to pdfium, with the pdfium library embedded in the bina… |
-| 2026-11-25 20:36:51 | [speech-to-text](https://crates.io/crates/speech-to-text) | 0.1.0 | 0 | Real-time, on-device speech to text: OpenAI Whisper tiny.en / base.en on burn,… |
-| 2026-11-25 20:38:39 | [weirdnet-service](https://crates.io/crates/weirdnet-service) | 0.1.0 | 0 | Weirdnet service framework: typed request/response services behind an Authorize… |
-| 2026-11-25 20:38:54 | [tilo-doc-codecs](https://crates.io/crates/tilo-doc-codecs) | 0.5.0 | 0 | Import/export projections between file formats and qdoc document resources, plu… |
-| 2026-11-25 20:40:01 | [markdown-viewer-rs](https://crates.io/crates/markdown-viewer-rs) | 0.4.0 | 0 | Render a Markdown file with GitHub styling and live-reload it in your browser |
-| 2026-11-25 20:42:59 | [qucelerate-ai-gateway](https://crates.io/crates/qucelerate-ai-gateway) | 2026.11.0-rc.4 | 0 | Client for the QuCelerate AI Gateway inference API (contract 1.0.0) |
-| 2026-11-25 20:44:18 | [octara-host-web](https://crates.io/crates/octara-host-web) | 0.0.1 | 0 | DOM host for Octara, with optional WebGPU rendering. |
-| 2026-11-25 20:45:23 | [supernsh-icons-tabler](https://crates.io/crates/supernsh-icons-tabler) | 0.2.0 | 0 | Tabler Icons icons for Native Shell (NSH) apps, in Rust and TSX, drawn by super… |
-| 2026-11-25 20:47:02 | [ansel](https://crates.io/crates/ansel) | 0.1.1 | 0 | Image upload, editing, and conversion microservice, plus its Rust client SDK. |
-| 2026-11-25 20:48:20 | [text-to-phonemes](https://crates.io/crates/text-to-phonemes) | 0.1.0 | 0 | English text to phonemes in pure Rust, real-time and on-device: text normalizat… |
-| 2026-11-25 20:48:54 | [tilo-deck](https://crates.io/crates/tilo-deck) | 0.5.0 | 0 | A deck's engine: the slides, their elements and words, and the .odp and .pptx i… |
-| 2026-11-25 20:53:10 | [uniffi_parse_rs](https://crates.io/crates/uniffi_parse_rs) | 0.33.0 | 0 | Rust source parsing for the uniffi project |
-| 2026-11-25 20:53:51 | [uniffi-bindgen-kotlin-jni](https://crates.io/crates/uniffi-bindgen-kotlin-jni) | 0.33.0 | 0 | a multi-language bindings generator for rust (codegen and cli tooling) |
-| 2026-11-25 20:54:49 | [octara-inspect](https://crates.io/crates/octara-inspect) | 0.0.1 | 0 | Octara's inspection protocol, replay and deterministic simulation. |
-| 2026-11-25 20:55:59 | [mtui-tui](https://crates.io/crates/mtui-tui) | 26.4.1 | 0 | Full-screen report-document editor for mtui |
-| 2026-11-25 20:56:11 | [uniffi-bindgen-kotlin-jni-runtime](https://crates.io/crates/uniffi-bindgen-kotlin-jni-runtime) | 0.33.0 | 0 | a multi-language bindings generator for rust (codegen and cli tooling) |
-| 2026-11-25 20:57:30 | [polx](https://crates.io/crates/polx) | 0.0.1 | 0 | Policy layer for agentic enterprise applications |
-| 2026-11-25 20:58:25 | [realtime-game-decisions](https://crates.io/crates/realtime-game-decisions) | 0.0.1 | 0 | On-device game AI for NPCs, bots and difficulty: microsecond decisions with cal… |
-| 2026-11-25 20:58:54 | [tilo-doc-pdf](https://crates.io/crates/tilo-doc-pdf) | 0.5.0 | 0 | Paginated PDF export for tilo-doc DocSnapshot documents (Tilo) |
-| 2026-11-25 21:00:58 | [merc_typecheck](https://crates.io/crates/merc_typecheck) | 3.1.0 | 0 | Provides a type checker for the mCRL2 specification language. |
-| 2026-11-25 21:01:12 | [merc_lowering](https://crates.io/crates/merc_lowering) | 3.0.0 | 0 | Lowers type-checked ASTs to the data expression representation |
-| 2026-11-25 21:02:50 | [matier_fetch](https://crates.io/crates/matier_fetch) | 0.3.0 | 0 | Matier as the transport for Microsoft's fetch HTTP client |
-| 2026-11-25 21:05:22 | [octara-cli](https://crates.io/crates/octara-cli) | 0.0.1 | 0 | The `octara` command: the framework's API, usage and diagnostics for agents and… |
-| 2026-11-25 21:09:55 | [familiar-agent](https://crates.io/crates/familiar-agent) | 0.5.0 | 0 | LLM agents (Claude Code, Codex, ...) beside a world in Familiar: the MCP server… |
-| 2026-11-25 21:10:51 | [e-ng](https://crates.io/crates/e-ng) | 0.1.0 | 0 | The next generation of BrutBurger's Project E. A C++ obfuscator. |
-| 2026-11-25 21:15:55 | [octara-kit](https://crates.io/crates/octara-kit) | 0.0.1 | 0 | Themable components for Octara, built only on octara's public primitives. |
-| 2026-11-25 21:17:05 | [magic-glyphs](https://crates.io/crates/magic-glyphs) | 0.8.0 | 0 | Animated icons with sound for Rust apps: the 120 free Magic Glyphs icons, their… |
-| 2026-11-25 21:17:18 | [weirdnet-chart](https://crates.io/crates/weirdnet-chart) | 0.1.0 | 0 | Real-time charts: line, area, bar, candlestick, OHLC and volume series with axe… |
+| 2026-11-25 21:19:47 | [weirdnet-exchange](https://crates.io/crates/weirdnet-exchange) | 0.1.0 | 0 | Weirdnet exchange types and traits: instruments, exact decimal prices and sizes… |
+| 2026-11-25 21:20:59 | [citop](https://crates.io/crates/citop) | 0.1.0 | 0 | Interactive CI pipeline viewer |
+| 2026-11-25 21:28:56 | [quic-net](https://crates.io/crates/quic-net) | 0.6.0 | 0 | QUIC transport for Rust over the UDP socket of net-io: connections, streams, lo… |
+| 2026-11-25 21:29:10 | [fastauth-macros](https://crates.io/crates/fastauth-macros) | 0.1.0 | 0 | Derive macros for fastauth: Fields, Model and AuthError. |
+| 2026-11-25 21:29:12 | [fastauth-core](https://crates.io/crates/fastauth-core) | 0.1.0 | 0 | Core of fastauth: the builder, plugin system, sessions, crypto and routing. |
+| 2026-11-25 21:29:15 | [fastauth-axum](https://crates.io/crates/fastauth-axum) | 0.1.0 | 0 | axum integration for fastauth: the auth router, session extractors and a sessio… |
+| 2026-11-25 21:29:15 | [fastauth-cli](https://crates.io/crates/fastauth-cli) | 0.1.0 | 0 | The fastauth command: generates secrets. Schema and migration commands live in… |
+| 2026-11-25 21:29:16 | [fastauth-oauth](https://crates.io/crates/fastauth-oauth) | 0.1.0 | 0 | Social sign-in for fastauth: the Social plugin, OAuth providers and the outgoin… |
+| 2026-11-25 21:34:35 | [fastauth-sqlx](https://crates.io/crates/fastauth-sqlx) | 0.1.0 | 0 | sqlx adapter for fastauth: Postgres and SQLite, with migrations. |
+| 2026-11-25 21:38:21 | [llama-cpp-decision](https://crates.io/crates/llama-cpp-decision) | 0.32.0 | 0 | Answers questions with llama.cpp's typed decision models through llama.cpp's ow… |
+| 2026-11-25 21:38:24 | [llama-cpp-model-capabilities](https://crates.io/crates/llama-cpp-model-capabilities) | 0.32.0 | 0 | Detects, once, what a loaded llama.cpp model can serve and how its contexts mus… |
+| 2026-11-25 21:43:18 | [agentkit-provider-gemini](https://crates.io/crates/agentkit-provider-gemini) | 0.11.0 | 0 | Google Gemini API provider adapter for agentkit. |
+| 2026-11-25 21:44:45 | [fastauth-plugin-two-factor](https://crates.io/crates/fastauth-plugin-two-factor) | 0.1.0 | 0 | Two-factor authentication for fastauth: TOTP, email codes, backup codes and tru… |
+| 2026-11-25 21:50:56 | [rust-glass](https://crates.io/crates/rust-glass) | 0.1.0 | 0 | GPU rendered Liquid Glass style UI framework with an immediate mode API |
+| 2026-11-25 21:54:59 | [fastauth](https://crates.io/crates/fastauth) | 0.1.0 | 0 | Authentication for Rust web apps, modelled on Better Auth: sessions, email and… |
+| 2026-11-25 21:58:24 | [uddf](https://crates.io/crates/uddf) | 0.1.0 | 0 | Lenient reader and schema-order writer for UDDF (Universal Dive Data Format) 3.… |
+| 2026-11-25 22:01:19 | [nomux-extension](https://crates.io/crates/nomux-extension) | 0.1.0 | 0 | The nomux extension SDK: the daemon part of an extension and the extension mani… |
+| 2026-11-25 22:01:19 | [divejson](https://crates.io/crates/divejson) | 0.1.0 | 0 | Read, write and validate DiveJSON, the open dive-log interchange format |
+| 2026-11-25 22:01:33 | [ontomark-write](https://crates.io/crates/ontomark-write) | 0.1.0 | 0 | The headless write engine for ontomark working-memory pages: one validated, los… |
+| 2026-11-25 22:04:09 | [cw-snapshot-derive](https://crates.io/crates/cw-snapshot-derive) | 0.3.0 | 0 | Derive macros for cw-snapshot's Encode, Decode and Describe |
+| 2026-11-25 22:04:47 | [skytwin-core](https://crates.io/crates/skytwin-core) | 0.1.0 | 0 | Synthetic star-field images with satellite streaks, instrument defects and an e… |
+| 2026-11-25 22:04:58 | [skytwin-cli](https://crates.io/crates/skytwin-cli) | 0.1.0 | 0 | Synthetic star-field images with satellite streaks, instrument defects and an e… |
+| 2026-11-25 22:05:02 | [aurelin-assist](https://crates.io/crates/aurelin-assist) | 0.4.1 | 0 | Local AI development context and debugging tools for Aurelin |
+| 2026-11-25 22:05:03 | [aurelin-sanctum](https://crates.io/crates/aurelin-sanctum) | 0.4.1 | 0 | Personal access token primitives for Aurelin |
+| 2026-11-25 22:05:04 | [divecomputer-core](https://crates.io/crates/divecomputer-core) | 0.1.0 | 0 | Shared building blocks for dive computer protocols: checksums, framing and the… |
+| 2026-11-25 22:08:28 | [printhor-async-gcode](https://crates.io/crates/printhor-async-gcode) | 0.4.0 | 0 | An async gcode parser for no_std targets (Printhor fork of async-gcode). |
+| 2026-11-25 22:11:58 | [cw-snapshot](https://crates.io/crates/cw-snapshot) | 0.3.0 | 0 | ComputerWorld's portable snapshot format: a schema'd binary encoding read by fi… |
+| 2026-11-25 22:16:29 | [text-to-speech](https://crates.io/crates/text-to-speech) | 0.1.0 | 0 | Real-time, on-device text to speech: Piper VITS voices on burn, native CPU. Fir… |
+| 2026-11-25 22:17:07 | [tilo-formats](https://crates.io/crates/tilo-formats) | 0.5.0 | 0 | Dates, times and clocks as the person set them: the format styles and their ren… |
+| 2026-11-25 22:17:11 | [tilo-recurrence](https://crates.io/crates/tilo-recurrence) | 0.5.0 | 0 | RFC 5545 recurrence rules shared by Tilo apps and the language runtime: RRULE/E… |
+| 2026-11-25 22:17:15 | [tilo-reference](https://crates.io/crates/tilo-reference) | 0.5.0 | 0 | Addresses of things in documents: a selection in any app carried as a resource… |
+| 2026-11-25 22:17:19 | [tilo-sheet](https://crates.io/crates/tilo-sheet) | 0.5.0 | 0 | A spreadsheet's engine: the cells as typed, the values formulas compute, the fo… |
+| 2026-11-25 22:17:24 | [tilo-wasm-aot](https://crates.io/crates/tilo-wasm-aot) | 0.5.0 | 0 | Wasmtime modules compiled ahead of time for a device: the engine configuration… |
+| 2026-11-25 22:18:54 | [tilo-wasm-host](https://crates.io/crates/tilo-wasm-host) | 0.5.0 | 0 | The wasm host layer every guest in Tilo executes on: per-call fuel, memory and… |
+| 2026-11-25 22:19:16 | [ra-ap-rustc_unicode](https://crates.io/crates/ra-ap-rustc_unicode) | 0.1.0 | 0 | Automatically published version of the package `rustc_unicode` in the rust-lang… |
 
 ## Data source
 
