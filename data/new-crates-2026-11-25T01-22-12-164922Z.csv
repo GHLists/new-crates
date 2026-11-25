@@ -1,0 +1,28 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-25T00:21:34.443915Z,pinc-dtn,0.1.0,0,0,https://github.com/sourcenetwork/pinc,"PINC delay-tolerant delivery: one-shot hybrid encryption, bundles of verifiable slices, custody, a charged store, spray-and-wait forwarding and Reed-Solomon erasure coding"
+2026-11-25T00:28:55.928487Z,engraver-core,0.1.0,0,0,https://github.com/mstephenholl/engraver,Core library for Engraver disk imaging tool
+2026-11-25T00:28:56.644774Z,engraver-detect,0.1.0,0,0,https://github.com/mstephenholl/engraver,Safe drive detection and enumeration for Engraver
+2026-11-25T00:28:56.96284Z,engraver-platform,0.1.0,0,0,https://github.com/mstephenholl/engraver,Platform-specific raw device I/O for Engraver
+2026-11-25T00:32:49.652271Z,pinc-reconcile,0.1.0,0,0,https://github.com/sourcenetwork/pinc,"PINC set reconciliation by range fingerprints: the cost scales with the difference, and the result is exact"
+2026-11-25T00:41:14.704151Z,yaga-core,0.6.0,0,0,https://github.com/dariuszpanas/yaga,"Deterministic Git, commit, workflow, pull-request, and repository policy checks for Rust callers"
+2026-11-25T00:41:16.726225Z,yaga-cli,0.6.0,0,0,https://github.com/dariuszpanas/yaga,"Standalone CLI for deterministic commit, pull-request, workflow, and repository policy checks"
+2026-11-25T00:41:39.88111Z,iso-types-macros,0.1.1,0,0,https://github.com/stayhydated/iso-types,ISO catalog subset and configured locale enum macros
+2026-11-25T00:41:42.004001Z,iso-types,0.1.1,0,0,https://github.com/stayhydated/iso-types,"Typed ISO, geographic, and regional catalogs with optional ICU4X, Jiff, and es-fluent integration"
+2026-11-25T00:41:44.174921Z,iso-types-locations,0.1.1,0,0,https://github.com/stayhydated/iso-types,Pinned UN/LOCODE directory with typed countries and source-preserving location records
+2026-11-25T00:43:02.089979Z,alcott,0.1.0,0,0,https://github.com/jennraeross/alcott,Speed-focused local markdown writing app (TUI + CLI)
+2026-11-25T00:43:56.756252Z,homogeneous-fields-derive,0.1.1,0,0,https://github.com/JohnScience/homogeneous_fields_iter,Derive macro for homogeneous-fields
+2026-11-25T00:44:05.492009Z,homogeneous-fields,0.1.1,0,0,https://github.com/JohnScience/homogeneous_fields_iter,Traits and derive macros for iterating over homogeneous struct fields
+2026-11-25T00:44:15.275325Z,pinc-security,0.1.0,0,0,https://github.com/sourcenetwork/pinc,"PINC hybrid post-quantum handshake as a SANS-IO state machine, with the key schedule, record protection, replay window and address validation"
+2026-11-25T00:46:31.73916Z,pkl-doc,0.32.0-rc.3,0,0,https://github.com/openedges/pkl-rs,HTML documentation generator (`pkldoc`) for Pkl 0.32.0
+2026-11-25T00:46:53.829671Z,pkl-cli,0.32.0-rc.3,0,0,https://github.com/openedges/pkl-rs,Product `pkl` CLI binary for Apple Pkl 0.32.0
+2026-11-25T00:47:40.747621Z,rpi-mcp-server,0.1.1,0,0,https://github.com/pi-rust/rpi-extension,MCP server adapter exposing rpi agent capabilities
+2026-11-25T00:50:52.568077Z,mirab,0.2.2,0,0,https://github.com/addiscorp/mirab,"Rust client for mirab: run and control agents in VMs on your own machine, through the mirab you have installed."
+2026-11-25T00:55:28.54363Z,pinc-keystore,0.1.0,0,0,https://github.com/sourcenetwork/pinc,"PINC key storage for long-term keys: a software key store and, behind the hwenc feature, a pure-Rust TPM 2.0 backend"
+2026-11-25T00:57:28.644876Z,nitrolean,0.1.0-alpha.1,0,0,https://github.com/6/nitrolean,An independent Lean 4 proof checker in Rust
+2026-11-25T01:02:42.34584Z,tokeira-clock,0.8.0,0,0,https://github.com/tokeira/tokeira,The wall clock the Tokeira durable execution engine reads the current time from
+2026-11-25T01:04:08.315961Z,facial-geometry,0.1.0,0,0,https://github.com/visualcraft-lab/facial-geometry-rs,"Pure-math facial landmark geometry library for canthal tilt, facial thirds, golden ratio delta, and bilateral symmetry."
+2026-11-25T01:06:48.459893Z,pinc-transport,0.1.0,0,0,https://github.com/sourcenetwork/pinc,"PINC transport (PINCER): packets, frames, streams, datagrams, flow control, loss recovery, congestion control, pacing, path MTU, connection ids and migration"
+2026-11-25T01:07:32.432899Z,teasar,0.1.0,0,0,https://github.com/praveenperera/teasar,"TEASAR skeletonisation of villa's surface-track slabs, with a Metal backend for Apple GPUs and a pure-Rust CPU reference"
+2026-11-25T01:12:12.850257Z,emb-momentary-rs,0.1.0,0,0,https://git.sr.ht/~scwork/emb-momentary-rs,Momentary-contact switch management in Rust for embedded contexts and WASM
+2026-11-25T01:18:08.582304Z,pinc-core,0.1.0,0,0,https://github.com/sourcenetwork/pinc,"PINC endpoint: a SANS-IO table of connections with demultiplexing, an amplification ledger, a half-open cap, node round trips, access checks, sub-sessions, keepalive schedules and one deadline heap"
+2026-11-25T01:21:08.692634Z,convo-safe,0.1.0,0,0,https://github.com/talos-hq/convo-safe,Reversible prompt redaction backed by a local encrypted Keybox
