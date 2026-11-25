@@ -1,0 +1,29 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-25T07:26:33.314043Z,rs-kdl,0.2.0,0,0,https://github.com/codixor/rs-kdl,Pure-Rust KDL parser and writer focused on fast parse/write workflows
+2026-11-25T07:27:45.189114Z,xforge-rs,0.1.0,0,0,https://github.com/cross-toolchains/xforge,"Rust backend (Cargo/rustc orchestrator, forge.rs DAG runner, and file watcher) for xforge."
+2026-11-25T07:28:31.864739Z,litebackup,1.4.0,0,0,https://github.com/litebackup/sdk,"Back up, replicate, and restore SQLite databases with Litebackup"
+2026-11-25T07:37:50.075679Z,pacer-plugin-workflow-protocol,0.3.0,0,0,https://github.com/lamtuanvu/pacer,Generated workflow.definitions wire types for the pacer plugin protocol.
+2026-11-25T07:38:50.852944Z,hanzo-active-inference,0.1.0,0,0,https://github.com/hanzoai/ml,"Finite-state active inference: Bayesian filtering, expected free energy, policy posteriors and Dirichlet learning"
+2026-11-25T07:39:16.793797Z,xforge-cli,0.1.0,0,0,https://github.com/cross-toolchains/xforge,Command-line interface for xforge with feature-gated language backends.
+2026-11-25T07:45:35.722002Z,evalsuite-core,0.8.0,0,0,https://github.com/mkcs28/evalsuite-python,"Compiled kernels of EvalSuite: edit distances, TER, n-gram statistics, LCS, COCO matching and bootstrap counting."
+2026-11-25T07:45:48.151463Z,evalsuite,0.8.0,0,0,https://github.com/mkcs28/evalsuite-python,"Evaluation metrics and statistics for machine learning, NLP, computer vision, clinical models and LLM systems: classification, regression, text generation, retrieval, segmentation, detection, calibra…"
+2026-11-25T07:48:47.892249Z,yawn-reactivity,0.1.0,0,0,https://github.com/yawn-rs/yawn,"Single-threaded fine-grained reactivity core for Yawn: typed signals, memos, effects, scopes, generational handles"
+2026-11-25T07:48:48.426677Z,yawn-rsx,0.1.0,0,0,https://github.com/yawn-rs/yawn,The .rsx compiler: parses Yawn .rsx files and generates Rust that drives yawn-web's fine-grained renderer
+2026-11-25T07:48:48.904702Z,yawn-web,0.1.0,0,0,https://github.com/yawn-rs/yawn,"Yawn framework core: project config, HTTP dev/production server (native) and DOM runtime (wasm)"
+2026-11-25T07:48:49.538762Z,yawn-cli,0.1.0,0,0,https://github.com/yawn-rs/yawn,"The `yawn` command line tool: argument handling, event pipeline and terminal UI"
+2026-11-25T07:48:50.266219Z,yawn-kit,0.1.0,0,0,https://github.com/yawn-rs/yawn,"Browser tools for Yawn applications (shortcuts, swipes, ...), written only on the framework's public API"
+2026-11-25T07:49:15.373773Z,henet,0.1.0,0,0,https://github.com/dehorsed/henet,An idiomatic Rust implementation of the ENet reliable UDP protocol
+2026-11-25T07:50:36.718846Z,rosfix-model,0.1.0,0,0,https://github.com/SohamWalam11/ros2-safety-lint,"Runtime for rosfix's downloadable assist models: .rfm format, byte-level BPE, int8 transformer encoder (CPU, deterministic, no dependencies)"
+2026-11-25T07:50:39.081511Z,yawn-lsp,0.1.0,0,0,https://github.com/yawn-rs/yawn,"Language server for .rsx: rust-analyzer behind a source map, plus HTML and CSS completion"
+2026-11-25T07:51:57.463239Z,xforge,0.1.0,0,0,https://github.com/cross-toolchains/xforge,"A deterministic, programmable build system and hermetic cross-compilation engine."
+2026-11-25T07:55:38.118226Z,gpui-storybook-automation,0.8.0,0,0,https://github.com/stayhydated/gpui-storybook,Target-neutral automation contracts and backend boundary for GPUI Storybook.
+2026-11-25T07:55:39.940104Z,gpui-storybook-automation-gpui,0.8.0,0,0,https://github.com/stayhydated/gpui-storybook,Embedded GPUI automation instrumentation and execution
+2026-11-25T07:55:40.094147Z,qwebpki,0.103.17,0,0,https://github.com/genmeta/rustls-webpki,Web PKI X.509 certificate verification fork with bounded long-chain support for QUIC.
+2026-11-25T07:56:55.547936Z,tc_kdf,0.1.0,0,0,https://github.com/TomiCheng/tc_kdf,"Key derivation functions after Bouncy Castle: KDF1, KDF2, the concatenation KDF, HKDF and the SP 800-108 KDFs."
+2026-11-25T07:56:59.834816Z,omg-engine,0.0.0,0,0,,Reserved for the OMG engine. No release yet.
+2026-11-25T08:00:36.581072Z,lsquare,0.2.0-beta.1,0,0,https://github.com/theagentexperiencecompany/lsquare,Record every tool call of your MCP server in LSquare
+2026-11-25T08:01:06.093931Z,yawn-router,0.1.0,0,0,https://github.com/yawn-rs/yawn,"Client-side router for Yawn: nested routes, <Outlet />, <Link />, history integration"
+2026-11-25T08:06:40.926033Z,y-octo-core,0.1.0,0,0,https://github.com/toeverything/y-octo,"Pure, unsafe-free CRDT core extracted to Lean 4 via Charon and Aeneas"
+2026-11-25T08:07:07.377031Z,ggraph,0.1.0,0,0,,"Terminal UI for browsing and operating on a git commit graph, with mouse support"
+2026-11-25T08:10:17.245173Z,xsysroot,0.1.0,0,0,https://github.com/cross-toolchains/xsysroot,"Unified cross-platform sysroot manager for Windows, macOS, iOS, Android, Linux, and OpenHarmony."
+2026-11-25T08:11:38.633745Z,libopenzilo,0.2.1,0,0,https://github.com/ziloai/libopenzilo,Unified high-performance OpenZilo interaction library in Rust with Python and Kotlin bindings
