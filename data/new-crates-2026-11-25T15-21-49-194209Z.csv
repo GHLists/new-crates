@@ -1,0 +1,54 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-25T14:22:10.243112Z,pfor,0.2.0,0,0,,Dependency-free parallel for loops with a reusable thread pool
+2026-11-25T14:22:14.82354Z,pfcl-scenario,0.3.0,0,0,https://codeberg.org/vickov/pfcl,"Scenario files for PFCL program roots: format, runner over a runtime trait, checks and verdicts"
+2026-11-25T14:22:35.336683Z,konoma-base,0.1.0,0,0,https://github.com/LESIM-Co-Ltd/konoma,Process-wide basics of konoma: silent panic catching for workers and private temp directories
+2026-11-25T14:22:38.290077Z,konoma-markdown-core,0.1.0,0,0,https://github.com/LESIM-Co-Ltd/konoma,"konoma's Markdown core: the pulldown-cmark block model, block-level diff and source-text analysis, without any rendering"
+2026-11-25T14:22:41.69168Z,konoma-svg,0.1.0,0,0,https://github.com/LESIM-Co-Ltd/konoma,"Shared drawing parts of konoma: font database, text measurement, SVG guard rails and rasterization, image decoding"
+2026-11-25T14:22:44.566874Z,konoma-test-support,0.1.0,0,0,https://github.com/LESIM-Co-Ltd/konoma,"Test-only helpers shared by konoma and its crates (temp-dir guards, sample lookup)"
+2026-11-25T14:22:47.655528Z,konoma-code-core,0.1.0,0,0,https://github.com/LESIM-Co-Ltd/konoma,"Syntax highlighting for konoma: syntect with the two-face syntax set, grammar resolution from file names, tab expansion"
+2026-11-25T14:28:07.74093Z,bhwi-ipc,0.1.0,0,0,https://github.com/wizardsardine/bhwi,Cap'n Proto server exposing bhwi to other processes
+2026-11-25T14:28:08.548318Z,konoma-host-core,0.1.0,0,0,https://github.com/LESIM-Co-Ltd/konoma,"The part of konoma's config.toml that every host shares (language, editor, key overrides, external switches), for konoma and the plugin SDK's small host"
+2026-11-25T14:28:51.886079Z,himari-lean,0.1.0,0,0,https://github.com/celestia-island/himari,"Lean 4 co-process for himari: generate self-contained proof obligations, drive `lean` as a subprocess, and cross-check the answer with an independent Rust oracle."
+2026-11-25T14:29:21.787089Z,serge-adapter-client,0.1.0-alpha.0,0,0,https://github.com/hyperish/serge,"Client side of serge: #[server] calls over HTTP (Dual-Rail, cancellation) and shared ring buffers"
+2026-11-25T14:30:04.244241Z,lp-payload-rs,0.2.0,0,0,https://github.com/QAQTam/lp-rs,Android OTA payload.bin reader: CrAU container parsing + DeltaArchiveManifest (pure Rust prost)
+2026-11-25T14:31:34.232682Z,agix-base,0.4.4,0,0,https://github.com/harnixai/Agix,"Agix — foundation types, traits, and context"
+2026-11-25T14:31:51.914114Z,agix-history,0.4.4,0,0,https://github.com/harnixai/Agix,Agix — JSONL session persistence
+2026-11-25T14:32:01.598106Z,agix-session-state,0.4.4,0,0,https://github.com/harnixai/Agix,"Agix — one session's mutable state: permission mode, todos, task table, notices, read cache, goal; the implementation of base::context::Session"
+2026-11-25T14:32:14.140943Z,agix-settings,0.4.4,0,0,https://github.com/harnixai/Agix,"Agix — settings.json types, tier merge, schema, trust and import"
+2026-11-25T14:32:31.171259Z,agix-permissions,0.4.4,0,0,https://github.com/harnixai/Agix,"Agix — permission engine (rule matching, mode dispatch, path safety)"
+2026-11-25T14:35:56.733631Z,egui-prismglass,0.1.0,0,0,https://github.com/kayoinreality/egui-prismglass,"A glassmorphic design system and widget kit for egui with fallback-first frosted surfaces, luminous specular borders, and design tokens."
+2026-11-25T14:38:18.637026Z,konoma-math-core,0.1.0,0,0,https://github.com/LESIM-Co-Ltd/konoma,konoma's LaTeX math renderer: KaTeX syntax to a standalone SVG through RaTeX (pure Rust)
+2026-11-25T14:39:19.111865Z,serge-macros,0.1.0-alpha.0,0,0,https://github.com/hyperish/serge,"Procedural macros (ui!, #[component]) for the serge UI framework"
+2026-11-25T14:40:56.562764Z,honestnines,0.0.1-alpha.0,0,0,https://github.com/honestnines/honestnines,HonestNines Rust SDK and CLI
+2026-11-25T14:42:30.096662Z,agix-platform,0.4.4,0,0,https://github.com/harnixai/Agix,"Agix — this machine's execution providers, crash hook, and process identity"
+2026-11-25T14:43:43.784946Z,engraver-cli,0.1.1,0,0,https://github.com/mstephenholl/engraver,"A safe, fast tool for creating bootable USB drives, SD cards, and NVMe drives"
+2026-11-25T14:48:29.96959Z,konoma-media-core,0.1.0,0,0,https://github.com/LESIM-Co-Ltd/konoma,"konoma's PDF page and video thumbnail renderers (pure Rust first, external tools only as a fallback)"
+2026-11-25T14:49:18.57552Z,serge-native-layout,0.1.0-alpha.0,0,0,https://github.com/hyperish/serge,"Flexbox layout for serge's native targets (taffy), never in web bundles"
+2026-11-25T14:49:41.767953Z,spyd-core,0.1.0,0,0,https://github.com/spyddb/spyddb,"Core types, error handling, and configuration for SpydDB"
+2026-11-25T14:50:09.4438Z,spyd-wire,0.1.0,0,0,https://github.com/spyddb/spyddb,The SpydWire frame format and its request and response messages
+2026-11-25T14:50:33.827972Z,strata-hardware,0.1.0,0,0,https://github.com/strataui/strata,"Zero-C-dependency hardware I/O buses for Strata: Gamepad/HOTAS, Haptics/Rumble, Serial/UART, USB Raw HID, and Bluetooth LE GATT"
+2026-11-25T14:50:34.280114Z,strata-media,0.1.0,0,0,https://github.com/strataui/strata,"Pure-Rust camera capture (V4L2/PipeWire/AVFoundation/MediaFoundation), screen capture, YUV-to-RGBA pixel conversion, and A/V-synced video playback for Strata"
+2026-11-25T14:50:44.513613Z,spyd-rust-driver,0.1.0,0,0,https://github.com/spyddb/spyddb,The official Rust driver and ORM for SpydDB (SpydWire SPD2)
+2026-11-25T14:51:53.519292Z,udd,0.1.0,0,0,https://github.com/jelmer/udd-rs,Access to the Ultimate Debian Database (UDD)
+2026-11-25T14:51:54.902383Z,noctalia-rs-compiler,0.3.0,0,0,https://github.com/lumi673/noctalia-rs,Compiles Rust plugin handlers into Luau entry scripts
+2026-11-25T14:51:56.048305Z,agix-hooks,0.4.4,0,0,https://github.com/harnixai/Agix,Agix — lifecycle hook runner
+2026-11-25T14:53:47.356515Z,konoma-mermaid-core,0.1.0,0,0,https://github.com/LESIM-Co-Ltd/konoma,"konoma's own mermaid renderer: parsers for every diagram kind, a vendored dagre layout engine, and the SVG writer"
+2026-11-25T14:59:15.203267Z,cumulus-aura-authorizer-utils,0.0.0,0,0,,Reserved by Parity while we work on an official release
+2026-11-25T14:59:20.617352Z,postgres-mcp-readonly,0.1.7,0,0,https://github.com/matpb/postgres-mcp-rs,Read-only MCP server for PostgreSQL and TimescaleDB
+2026-11-25T14:59:21.007909Z,serge-native-text,0.1.0-alpha.0,0,0,https://github.com/hyperish/serge,Text shaping and measurement for serge's native targets (parley)
+2026-11-25T15:01:56.123795Z,agix-model,0.4.4,0,0,https://github.com/harnixai/Agix,"Agix — model protocol adapters (Anthropic Messages, OpenAI Chat Completions and Responses), retry and backoff, provider routing"
+2026-11-25T15:03:53.401167Z,konoma-vcs-core,0.1.0,0,0,https://github.com/LESIM-Co-Ltd/konoma,"konoma's version-control reading: git (libgit2 and the git CLI) and jj (Jujutsu) behind one read surface, plus the commit-graph layout"
+2026-11-25T15:08:26.926876Z,xtun-wire,0.1.0,0,0,https://github.com/kirklin/xtun,"The bytes of batched and offloaded packet I/O, without any device: checksums, cutting segments, joining packets and the prefixes devices put in front of frames"
+2026-11-25T15:08:40.478095Z,xtun,0.1.0,0,0,https://github.com/kirklin/xtun,"TUN and TAP interfaces on Linux, Android, the Apple systems, FreeBSD, NetBSD, OpenBSD, illumos and Windows, with batched and offloaded packet I/O"
+2026-11-25T15:08:55.903839Z,cccc-sh,1.10.0,0,0,https://github.com/moznion/cccc,"Shell (Bash / POSIX sh / Bats, tree-sitter) adapter that lowers source into the cccc-core complexity IR"
+2026-11-25T15:09:21.809606Z,serge-native,0.1.0-alpha.0,0,0,https://github.com/hyperish/serge,"Native runtime of serge: retained view tree, layout, scene collection, input and UI tasks"
+2026-11-25T15:10:30.103553Z,curam-core,0.1.0,0,0,https://github.com/darrenmeehan/curam-security,curam security core (pure Rust): classify / scan_context / match_host / check_pkg + verified lists
+2026-11-25T15:11:54.67576Z,agix-compaction,0.4.4,0,0,https://github.com/harnixai/Agix,"Agix — context compaction (message grouping, cleanup, caching)"
+2026-11-25T15:13:27.338024Z,ferrohealth-openpgp-pq,0.0.0,0,0,https://github.com/FerroHEALTH/FerroSYS,Post-quantum OpenPGP signatures for FerroHEALTH: RFC 9980 ML-DSA-65+Ed25519 keys and the ferrohealth-sop Stateless OpenPGP CLI. This version holds the name until the first release.
+2026-11-25T15:14:22.800835Z,konoma-office-core,0.1.0,0,0,https://github.com/LESIM-Co-Ltd/konoma,"konoma's Office readers: spreadsheets, Word and PowerPoint/OpenDocument files read in pure Rust, and the slide drawing"
+2026-11-25T15:19:21.599144Z,serge-native-cpu,0.1.0-alpha.0,0,0,https://github.com/hyperish/serge,"CPU renderer of serge's ScenePrimitive (vello_cpu), the mandatory fallback"
+2026-11-25T15:19:21.682629Z,atlas-fs-core,0.1.0,0,0,https://github.com/05Narwhal/atlas-fs-core,"Core traits and types for reading filesystems and disk images: BlockSource, FileSystem, DirStream and one error type."
+2026-11-25T15:19:29.584175Z,atlas-fat,0.1.0,0,0,https://github.com/05Narwhal/atlas-fat,"Read FAT12, FAT16 and FAT32 volumes: boot sector, cluster chains, 8.3 and long names."
+2026-11-25T15:19:39.790735Z,atlas-hfsplus,0.1.0,0,0,https://github.com/05Narwhal/atlas-hfsplus,"Read HFS+ and HFSX volumes: catalog and extents B-trees, hard links, decmpfs compression, extended attributes and journal replay."
+2026-11-25T15:19:50.415936Z,atlas-luks,0.1.0,0,0,https://github.com/05Narwhal/atlas-luks,"Read LUKS1 and LUKS2 encrypted volumes: keyslot unlock with PBKDF2 or Argon2, AES-XTS and AES-CBC sector decryption."
+2026-11-25T15:19:58.864892Z,atlas-btrfs,0.1.0,0,0,https://github.com/05Narwhal/atlas-btrfs,"Read Btrfs volumes: chunk map, subvolumes, inline, regular and sparse extents, zlib, LZO and zstd compression, crc32c checksums."
