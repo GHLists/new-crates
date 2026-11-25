@@ -1,0 +1,36 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-25T13:21:13.047883Z,forja3d,0.1.0,0,0,https://github.com/aethravox/Forja-3D,"Zero-dependency 3D model binary format (.f3d), loader, procedural mesh builder, and .rs source code generator."
+2026-11-25T13:21:18.536256Z,forja3d-physics,0.1.0,0,0,https://github.com/aethravox/Forja-3D,Motor de físicas 3D #![no_std] sin dependencias externas nativo para modelos .f3d (Forja3D).
+2026-11-25T13:25:59.437308Z,pipevine,0.2.0,0,0,https://github.com/antichrome1/pipevine-rs,Pipelining with placeholder
+2026-11-25T13:26:28.000825Z,xsysroot-core,0.1.0,0,0,https://github.com/cross-toolchains/xsysroot,"Shared terminal UI, clang discovery, shim generation, and archive helpers for xsysroot tools."
+2026-11-25T13:27:39.787685Z,brokk-bifrost-store-api,0.0.0,0,0,https://github.com/BrokkAi/bifrost,Storage-neutral analyzer store contracts for brokk-bifrost
+2026-11-25T13:29:20.198332Z,orbic-sql-cache,0.1.0-alpha.0,0,0,https://github.com/hyperish/orbic,The offline metadata cache format of orbic's sql! macro (shared by the macro and hyve-orbic codegen)
+2026-11-25T13:38:57.024493Z,beaming,0.0.1,0,0,,In process
+2026-11-25T13:39:21.478621Z,orbic-macros,0.1.0-alpha.0,0,0,https://github.com/hyperish/orbic,"Procedural macros for orbic: #[table], #[pk], sql!, ttl!, key!, tag!"
+2026-11-25T13:41:36.95277Z,llmfence,0.1.0,0,0,https://github.com/ahmed-raza-shaikh/llmfence,"LLM firewall and AI DLP gateway: OpenAI-compatible proxy that redacts PII and secrets, blocks prompt injection and writes privacy-preserving audit logs."
+2026-11-25T13:41:41.567332Z,iamladder,0.1.0,0,0,https://github.com/ahmed-raza-shaikh/iamladder,AWS IAM privilege-escalation path finder and least-privilege policy generator from CloudTrail.
+2026-11-25T13:41:46.279601Z,questproof,0.1.0,0,0,https://github.com/ahmed-raza-shaikh/questproof,"Security questionnaire automation (SIG, CAIQ, vendor reviews): answers from your own policies with citations, confidence and SOC 2 / ISO 27001 / NIST CSF mapping."
+2026-11-25T13:44:59.217216Z,phasmid,2.0.0,0,0,https://github.com/Mordinel/phasmid2,Use the phasmid2 crate.
+2026-11-25T13:45:09.212033Z,phasmid2,2.0.0,0,0,https://github.com/Mordinel/phasmid2,Reserved for phasmid2 release
+2026-11-25T13:45:45.868007Z,tracing-flare,0.1.1,0,0,https://github.com/0xferdv/tracing-flare,"Tracing-native, pure Rust logging with a self-contained flare core"
+2026-11-25T13:49:19.078856Z,orbic-openapi,0.1.0-alpha.0,0,0,https://github.com/hyperish/orbic,"OpenAPI 3.1 documents for orbic apps, generated from hyve schemas and the HTTP adapter's wire rules"
+2026-11-25T13:56:05.667062Z,rsreminder,0.1.0,0,0,https://github.com/wendel-w/rsreminder,A small cli app that displays quotes/bible verses
+2026-11-25T13:59:21.776405Z,orbic-cli,0.1.0-alpha.0,0,0,https://github.com/hyperish/orbic,hyve-orbic: the orbic tool stages hyve runs (codegen: the sql! offline cache; preview: the local server)
+2026-11-25T14:02:36.384948Z,naui-app,0.20.1,0,0,https://github.com/mokuichi147/naui,"Model–View–Update structure for naui apps: typed messages, a queue that never re-enters update, and render through naui's setters"
+2026-11-25T14:07:16.924632Z,himari,0.1.0,0,0,https://github.com/celestia-island/himari,"Dimensioned formula IR: parse LaTeX/MATLAB/paper notation once, check kg·m·s·A·K·mol·cd at compile time, and emit Rust."
+2026-11-25T14:07:34.528743Z,himari-latex,0.1.0,0,0,https://github.com/celestia-island/himari,LaTeX-subset front-end for himari: turns hand-written math into the dimensioned IR.
+2026-11-25T14:07:37.356787Z,himari-matlab,0.1.0,0,0,https://github.com/celestia-island/himari,MATLAB-style (matex) and Unicode-paper front-end for himari: the canonical human-readable surface.
+2026-11-25T14:07:40.888063Z,himari-loader,0.1.0,0,0,https://github.com/celestia-island/himari,"Cross-file .formula library loader for himari: use directives, cycle detection, content locks."
+2026-11-25T14:07:43.668976Z,himari-buildhelper,0.1.0,0,0,https://github.com/celestia-island/himari,build.rs helper for himari: compiles a directory of .formula files into checked-in Rust.
+2026-11-25T14:07:49.36695Z,himari-macros,0.1.0,0,0,https://github.com/celestia-island/himari,Inline `formula!` macro lane for himari: short dimensioned expressions without a build step.
+2026-11-25T14:09:18.660494Z,serge-style,0.1.0-alpha.0,0,0,https://github.com/hyperish/serge,Design tokens and the style/layout IR shared by serge's web and native targets
+2026-11-25T14:11:30.528419Z,dmabuf-allocator-impl,1.0.0,0,0,https://github.com/mahkoh/dmabuf-allocator,Implementation of the dmabuf-allocator crate
+2026-11-25T14:11:47.98477Z,dmabuf-allocator,0.1.0,0,0,https://github.com/mahkoh/dmabuf-allocator,Allocate dma-bufs from kernel drivers and udmabuf
+2026-11-25T14:11:59.727245Z,kute-events,0.8.0,0,0,https://github.com/kannaka-labs/kute,"Complete event records for KUTE: entity, time and attributes kept exactly, stored by column"
+2026-11-25T14:12:06.434982Z,kute-signals,0.8.0,0,0,https://github.com/kannaka-labs/kute,"Numeric sequences for KUTE: a signal kept exactly, or within an error bound checked on every value"
+2026-11-25T14:14:09.954874Z,ttybench,0.2.0,0,0,https://github.com/sephiroth74/ttybench,"Benchmarks of terminal emulators on macOS: startup, key latency, throughput, scrolling, rest, memory, energy and GPU, of any terminal that a TOML file describes, with reports and charts."
+2026-11-25T14:16:54.513374Z,gadk-analytics,0.5.18,0,0,https://github.com/sirhco/gadk-rust,"Typed BigQuery queries over the gadk agent-analytics table: usage, sessions, prompt versions, scores and review queues"
+2026-11-25T14:18:53.615051Z,pfcl-host,0.3.0,0,0,https://codeberg.org/vickov/pfcl,"The host side of PFCL's handler contract: capability names, provider vocabulary and profiles"
+2026-11-25T14:19:03.689037Z,himari-standards,0.1.0,0,0,https://github.com/celestia-island/himari,"Typed calculators for published engineering standards (Brinell hardness, tensile properties, standard atmosphere, decimal rounding) with explicit provenance."
+2026-11-25T14:19:20.245044Z,serge-core,0.1.0-alpha.0,0,0,https://github.com/hyperish/serge,"View tree, widgets, events, PaintCtx/ScenePrimitive and view scopes of the serge UI framework"
+2026-11-25T14:19:48.920565Z,pfcl-static,0.3.0,0,0,https://codeberg.org/vickov/pfcl,"PFCL's static checks, shared by every runtime: confinement, the static verdicts, the command extractor and primitive sets as input"
