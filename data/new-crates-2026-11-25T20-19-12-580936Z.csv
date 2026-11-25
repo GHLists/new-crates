@@ -1,0 +1,36 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-25T19:18:53.793583Z,tilo-canonical-json,0.5.0,0,0,https://code.tilo.so/tilo/tilo,Canonical compact JSON encoding with object keys sorted by UTF-8 bytes.
+2026-11-25T19:20:05.72311Z,nodirt-tui,0.1.2,0,0,https://github.com/AngheloBR/nodirt-tui,Bloquea teclado y mouse temporalmente para limpiar el equipo · X11
+2026-11-25T19:20:33.514667Z,octara-svg,0.0.1,0,0,https://github.com/octoii-works/octara,SVG parsing for Octara path data.
+2026-11-25T19:20:56.705728Z,cordex-migrate,0.1.9,0,0,https://github.com/lejylabs/cordex,"Analyzer and safe mechanical migration CLI for moving Serenity, Poise, and Twilight Discord bots to cordex."
+2026-11-25T19:22:08.690967Z,supernsh-icons-mynaui,0.2.0,0,0,https://github.com/SuperNSH/icons,"Myna UI Icons icons for Native Shell (NSH) apps, in Rust and TSX, drawn by supernsh-icons"
+2026-11-25T19:24:18.626722Z,ferrum-native,0.1.0,0,0,https://github.com/ARtorias742/RUST_Frontend_Framework,Native renderer backend for Ferrum: scene graph + accessibility tree
+2026-11-25T19:28:53.975478Z,tilo-resource-macros,0.5.0,0,0,https://code.tilo.so/tilo/tilo,Procedural macros for tilo-resource.
+2026-11-25T19:29:57.003418Z,octara-tree,0.0.1,0,0,https://github.com/octoii-works/octara,Octara's retained tree microkernel.
+2026-11-25T19:32:31.922149Z,supernsh-icons-octicon,0.2.0,0,0,https://github.com/SuperNSH/icons,"Octicons icons for Native Shell (NSH) apps, in Rust and TSX, drawn by supernsh-icons"
+2026-11-25T19:33:51.590632Z,zeroio-xdp-common,0.1.0,0,0,https://github.com/zeroio-rs/zeroio,Shared no_std ABI types between the Zeroio XDP eBPF program and userspace dataplane.
+2026-11-25T19:33:57.42358Z,zeroio-core,0.1.0,0,0,https://github.com/zeroio-rs/zeroio,"Pure safe Rust sans-I/O core for Zeroio: congestion control (EdgeCC, BBRv3, CUBIC, NewReno), zero-copy packet parsing, SNI/QUIC inspection, TCP/UDP primitives, and deterministic network simulator."
+2026-11-25T19:34:23.997141Z,zeroio-dataplane,0.1.0,0,0,https://github.com/zeroio-rs/zeroio,"Thread-per-core dataplane runtime abstractions, AF_XDP zero-copy queue bindings, and kernel fallback policy for Zeroio."
+2026-11-25T19:34:27.574638Z,zeroio,0.1.0,0,0,https://github.com/zeroio-rs/zeroio,"Open-source, memory-safe Rust network dataplane unifying XDP/AF_XDP, congestion control, zero-copy packet inspection, and userspace TCP/UDP."
+2026-11-25T19:38:54.23683Z,tilo-spellcheck,0.5.0,0,0,https://code.tilo.so/tilo/tilo,"Tilo's spelling engine: tokenize, check, and suggest corrections, with an embedded English list and in-process Hunspell dictionaries"
+2026-11-25T19:40:27.062227Z,rusty_jbig2,0.1.0,0,0,https://github.com/Remade-With-Rust/remade_ffmpeg_rs,"Pure-Rust JBIG2 (ITU-T T.88) decoder: generic, refinement, text and halftone regions, arithmetic, Huffman and MMR coding, PDF embedded streams with globals and standalone files. Bounded memory and wo…"
+2026-11-25T19:40:44.161068Z,octara-gpu,0.0.1,0,0,https://github.com/octoii-works/octara,Native GPU execution and readback for Octara.
+2026-11-25T19:42:25.928374Z,visa-api-rs,0.4.1,0,0,https://github.com/nominal-io/rsvisa-rs,"VISA (VPP-4.3) visa.h type aliases and constants, with no implementation."
+2026-11-25T19:42:56.227235Z,supernsh-icons-ph,0.2.0,0,0,https://github.com/SuperNSH/icons,"Phosphor icons for Native Shell (NSH) apps, in Rust and TSX, drawn by supernsh-icons"
+2026-11-25T19:48:53.208842Z,tilo-wake,0.5.0,0,0,https://code.tilo.so/tilo/tilo,"Instance-scoped background wake routing: wake handles, wake scopes and their capture, shared by native and headless hosts."
+2026-11-25T19:51:44.03536Z,octara-runtime,0.0.1,0,0,https://github.com/octoii-works/octara,Octara's capability-based reactive runtime and turn engine.
+2026-11-25T19:53:20.587998Z,supernsh-icons-radix-icons,0.2.0,0,0,https://github.com/SuperNSH/icons,"Radix Icons icons for Native Shell (NSH) apps, in Rust and TSX, drawn by supernsh-icons"
+2026-11-25T19:55:53.96801Z,rusty_jpx,0.1.0,0,0,https://github.com/Remade-With-Rust/remade_ffmpeg_rs,"Pure-Rust JPEG 2000 decoder: J2K codestreams and JP2/JPX files (PDF JPXDecode). Reversible 5/3 exact against OpenJPEG, irreversible 9/7, tiles, precincts, all progressions, ROI, reduced resolution, p…"
+2026-11-25T19:56:03.460051Z,polydawn-testmark,0.0.1,0,0,https://tangled.org/warpfork.bsky.social/testmark-rs,"store data and test fixtures in literate style in markdown, with testmark: codeblocks become manageable data. use it in tests easily and regenerate golden fixture data easily on demand."
+2026-11-25T19:58:54.186959Z,tilo-rt,0.5.0,0,0,https://code.tilo.so/tilo/tilo,"The one async runtime model for Tilo processes: an app runtime off the UI thread, bounded daemon runtimes, a CPU pool, a file-I/O pool, named threads, and the host background executors and wake routi…"
+2026-11-25T20:02:19.010958Z,octara,0.0.1,0,0,https://github.com/octoii-works/octara,Authoring API for Octara views and reactive applications.
+2026-11-25T20:03:43.854799Z,supernsh-icons-ri,0.2.0,0,0,https://github.com/SuperNSH/icons,"Remix Icon icons for Native Shell (NSH) apps, in Rust and TSX, drawn by supernsh-icons"
+2026-11-25T20:03:47.230627Z,supernsh-icons-simple-icons,0.2.0,0,0,https://github.com/SuperNSH/icons,"Simple Icons icons for Native Shell (NSH) apps, in Rust and TSX, drawn by supernsh-icons"
+2026-11-25T20:04:28.140081Z,aev_os,0.1.0,0,0,https://github.com/Tknott95/KnottOS,An introduction to aevOS and a read-only tool for identifying its Linux preview images
+2026-11-25T20:07:09.280622Z,embedded-io-websocket,0.1.0,0,0,https://github.com/NavilaLabs/embedded-io-websocket,A lightweight no_std websocket library with blocking and async framers for embedded-io streams
+2026-11-25T20:08:54.679642Z,tilo-actions,0.5.0,0,0,https://code.tilo.so/tilo/tilo,"The Tilo action model: resources, the actions on them, and their registry, with the plain resource vocabulary that needs no store, search index entries included."
+2026-11-25T20:12:46.09981Z,octara-pipeline,0.0.1,0,0,https://github.com/octoii-works/octara,"Native layout, text, motion, paint and accessibility for Octara."
+2026-11-25T20:13:11.56125Z,jqlite,1.0.0,0,0,https://github.com/devlooped/jqlite,jqlite: a portable profile of the jq language (Rust port of the JQLite reference)
+2026-11-25T20:14:13.755426Z,supernsh-icons-solar,0.2.0,0,0,https://github.com/SuperNSH/icons,"Solar icons for Native Shell (NSH) apps, in Rust and TSX, drawn by supernsh-icons"
+2026-11-25T20:15:16.225241Z,aws-sdk-elbproxy,1.0.0,0,0,https://github.com/awslabs/aws-sdk-rust,AWS SDK for Elastic Load Balancing for Envoy
+2026-11-25T20:18:54.592115Z,tilo-resource,0.5.0,0,0,https://code.tilo.so/tilo/tilo,"The Tilo resource layer: typed, hierarchical app resources."
