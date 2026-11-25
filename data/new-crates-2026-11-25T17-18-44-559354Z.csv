@@ -1,0 +1,127 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-25T15:21:56.408656Z,agix-memory,0.4.4,0,0,https://github.com/harnixai/Agix,"Agix — file-based durable memory: store, secret scan, prompt, LLM selection"
+2026-11-25T15:24:45.34811Z,konoma-widgets,0.1.0,0,0,https://github.com/LESIM-Co-Ltd/konoma,"konoma's display parts for ratatui: windowed file reading, kitty graphics transmit, image layout, diff rows, the Markdown document renderer, icon glyphs"
+2026-11-25T15:26:12.782566Z,forja3d-graphic,0.1.0,0,0,,"Librería gráfica 2D/3D no_std sin heap con soporte móvil, fuentes TTF nativas y backend wgpu"
+2026-11-25T15:29:23.513883Z,serge-native-gpu,0.1.0-alpha.1,0,0,https://github.com/hyperish/serge,"GPU renderer of serge's ScenePrimitive (wgpu): one instance buffer, one draw call per frame"
+2026-11-25T15:31:53.828637Z,agix-prompt-files,0.4.4,0,0,https://github.com/harnixai/Agix,"Agix — the markdown files the engine reads into the prompt: SKILL.md, AGENTS.md, output styles, the instruction file, rule directories"
+2026-11-25T15:32:34.667377Z,nx-guru,0.1.0,0,0,https://github.com/StarcevAlexander/nx-guru,"nx-style monorepo engine for Rust - workspace discovery, project graph with tsconfig path inference, task graph with cycle detection, content-hash caching, git-based affected projects and a task runn…"
+2026-11-25T15:34:02.090209Z,atlas-dc42,26.0.2-a,0,0,https://github.com/05Narwhal/atlas-dc42,Read DiskCopy 4.2 floppy disk images.
+2026-11-25T15:34:12.336205Z,atlas-ntfs,26.0.2-a,0,0,https://github.com/05Narwhal/atlas-ntfs,"Read NTFS volumes: MFT records, attribute lists, $I30 indexes, LZNT1 compression, alternate data streams and reparse points."
+2026-11-25T15:35:00.740086Z,konoma-plugin,0.1.0,0,0,https://github.com/LESIM-Co-Ltd/konoma,"Plugin API of konoma: the entry traits, display types, declarations, and the rules that settle which plugin shows a file"
+2026-11-25T15:38:25.636669Z,nsh-o11y,0.1.0,0,0,https://github.com/JetSquirrel/nsh-o11y,"Observability charts for Native Shell (NSH): metrics, logs, traces, profiles and heatmaps, with level-of-detail rendering in TSX and Rust"
+2026-11-25T15:39:21.822257Z,serge-platform-desktop,0.1.0-alpha.1,0,0,https://github.com/hyperish/serge,"Desktop windows, input and presentation for serge (winit; wgpu, or softbuffer for CPU frames)"
+2026-11-25T15:39:33.894607Z,compforge_derive,0.1.0,0,0,https://gitlab.com/keikaku1/compforge,"Macros fot creating the arenas, keywords and the visitor's traits"
+2026-11-25T15:39:41.407501Z,compforge,0.1.0,0,0,https://gitlab.com/keikaku1/compforge,A generic compiler framework from AST to SSA
+2026-11-25T15:41:56.709191Z,agix-js-lib,0.4.4,0,0,https://github.com/harnixai/Agix,"Agix — the base library every embedded JavaScript runtime gets under the engine's name: YAML, glob, path, JSON Schema, SHA-256, UUID, argument parsing"
+2026-11-25T15:43:34.350135Z,supernsh-icons-akar-icons,0.2.0,0,0,https://github.com/SuperNSH/icons,"Akar Icons icons for Native Shell (NSH) apps, in Rust and TSX, drawn by supernsh-icons"
+2026-11-25T15:43:36.623043Z,supernsh-icons-ant-design,0.2.0,0,0,https://github.com/SuperNSH/icons,"Ant Design Icons icons for Native Shell (NSH) apps, in Rust and TSX, drawn by supernsh-icons"
+2026-11-25T15:43:39.108783Z,supernsh-icons-bi,0.2.0,0,0,https://github.com/SuperNSH/icons,"Bootstrap Icons icons for Native Shell (NSH) apps, in Rust and TSX, drawn by supernsh-icons"
+2026-11-25T15:43:41.598851Z,supernsh-icons-bx,0.2.0,0,0,https://github.com/SuperNSH/icons,"BoxIcons v2 icons for Native Shell (NSH) apps, in Rust and TSX, drawn by supernsh-icons"
+2026-11-25T15:43:43.989568Z,supernsh-icons-carbon,0.2.0,0,0,https://github.com/SuperNSH/icons,"Carbon icons for Native Shell (NSH) apps, in Rust and TSX, drawn by supernsh-icons"
+2026-11-25T15:45:21.786565Z,atlas-partition,26.0.2-a,0,0,https://github.com/05Narwhal/atlas-partition,"Read GPT, MBR and Apple Partition Map partition tables, with damage reported instead of hidden."
+2026-11-25T15:45:25.216757Z,konoma-code,0.1.0,0,0,https://github.com/LESIM-Co-Ltd/konoma,konoma's code plugin: source and config files shown as text colored by syntect
+2026-11-25T15:47:58.619738Z,ncdb-relay,0.0.0,0,0,https://github.com/nocentraldb/nocentraldb,Placeholder for the NoCentralDB relay crate; the first real version follows with the next beta.
+2026-11-25T15:48:04.277387Z,ncdb-relay-server,0.0.0,0,0,https://github.com/nocentraldb/nocentraldb,Placeholder for the NoCentralDB relay crate; the first real version follows with the next beta.
+2026-11-25T15:49:20.431076Z,serge-router,0.1.0-alpha.1,0,0,https://github.com/hyperish/serge,"App assembly (SergeApp, feature()) and typed routing with guards for serge"
+2026-11-25T15:51:56.067386Z,agix-ptc,0.4.4,0,0,https://github.com/harnixai/Agix,"Agix — RunCode and RunExt: JavaScript that calls the session's tools, written by the model or brought by a plugin"
+2026-11-25T15:54:07.230323Z,supernsh-icons-circle-flags,0.2.0,0,0,https://github.com/SuperNSH/icons,"Circle Flags icons for Native Shell (NSH) apps, in Rust and TSX, drawn by supernsh-icons"
+2026-11-25T15:55:49.619474Z,konoma-math,0.1.0,0,0,https://github.com/LESIM-Co-Ltd/konoma,konoma's math plugin: LaTeX formulas in Markdown drawn as pictures
+2026-11-25T15:59:20.960195Z,serge-web-dom,0.1.0-alpha.1,0,0,https://github.com/hyperish/serge,Web target of serge: mounts the view tree as real DOM with fine-grained updates
+2026-11-25T16:00:28.11272Z,atlas-vdi,26.0.2-a,0,0,https://github.com/05Narwhal/atlas-vdi,Read VirtualBox VDI virtual disks: dynamic and fixed images.
+2026-11-25T16:02:04.201977Z,agix-scene,0.4.4,0,0,https://github.com/harnixai/Agix,Agix — built-in agent scene implementations and declarative scenes
+2026-11-25T16:03:16.643863Z,tssae-adapter-api,0.1.0,0,0,https://github.com/tssae/tssae,Stable Rust API and runtime protocol for TSSAE native adapters
+2026-11-25T16:04:30.224805Z,supernsh-icons-codicon,0.2.0,0,0,https://github.com/SuperNSH/icons,"Codicons icons for Native Shell (NSH) apps, in Rust and TSX, drawn by supernsh-icons"
+2026-11-25T16:05:03.477762Z,betteroffice-fonts-latin,0.6.0,0,0,https://github.com/openooxml/betteroffice,Bundled latin font pack bytes for native font resolution
+2026-11-25T16:05:07.180333Z,betteroffice-fonts-intl,0.6.0,0,0,https://github.com/openooxml/betteroffice,Bundled intl font pack bytes for native font resolution
+2026-11-25T16:05:12.974118Z,betteroffice-fonts-cjk-sc,0.6.0,0,0,https://github.com/openooxml/betteroffice,Bundled cjk-sc font pack bytes for native font resolution
+2026-11-25T16:05:17.210345Z,betteroffice-fonts-cjk-tc,0.6.0,0,0,https://github.com/openooxml/betteroffice,Bundled cjk-tc font pack bytes for native font resolution
+2026-11-25T16:05:20.645383Z,betteroffice-fonts-cjk-jp,0.6.0,0,0,https://github.com/openooxml/betteroffice,Bundled cjk-jp font pack bytes for native font resolution
+2026-11-25T16:06:07.174319Z,konoma-media,0.1.0,0,0,https://github.com/LESIM-Co-Ltd/konoma,"konoma's picture plugins: images, SVG, PDF pages and video thumbnails shown as images"
+2026-11-25T16:06:16.657645Z,rowstile,0.1.0-beta.5,0,0,https://github.com/rowstile/rowstile,"rowstile for Rust apps (a preview): transactions signed in, the database's refusals as typed errors"
+2026-11-25T16:07:34.328268Z,trongoscript-host,0.1.1,0,0,https://github.com/durable-oss/trongoscript,Shared embedding layer for the Trongoscript Ruby and PHP bindings
+2026-11-25T16:08:53.238362Z,koan-auth,0.75.2,0,0,https://github.com/radiosilence/koan,"Accounts and signing in for koan and the services beside it: passwords, sessions, API keys, invites, sign-in limits and an OAuth 2.1 authorization server, over SQLite."
+2026-11-25T16:09:19.040768Z,serge-web-dev,0.1.0-alpha.1,0,0,https://github.com/hyperish/serge,"Web bundling and the local dev server of serge (SPA fallback, API proxy, live reload)"
+2026-11-25T16:11:39.215636Z,atlas-vhd,26.0.2-a,0,0,https://github.com/05Narwhal/atlas-vhd,"Read Microsoft VHD and VHDX virtual disks: fixed, dynamic and differencing images."
+2026-11-25T16:11:46.131046Z,atlas-vmdk,26.0.2-a,0,0,https://github.com/05Narwhal/atlas-vmdk,"Read VMware VMDK virtual disks: monolithic sparse, stream-optimized and descriptor-based images."
+2026-11-25T16:11:54.015509Z,agix-session,0.4.4,0,0,https://github.com/harnixai/Agix,Agix — in-memory session state management
+2026-11-25T16:14:55.385487Z,supernsh-icons-devicon,0.2.0,0,0,https://github.com/SuperNSH/icons,"Devicon icons for Native Shell (NSH) apps, in Rust and TSX, drawn by supernsh-icons"
+2026-11-25T16:16:20.349479Z,konoma-mermaid,0.1.0,0,0,https://github.com/LESIM-Co-Ltd/konoma,konoma's mermaid plugin: diagrams drawn as pictures (or as Unicode text) for .mmd files and ```mermaid fences
+2026-11-25T16:19:19.067729Z,serge-cli,0.1.0-alpha.1,0,0,https://github.com/hyperish/serge,"hyve-serge: the serge stages hyve runs (web bundles, dev server, native preview)"
+2026-11-25T16:19:30.112903Z,glass-core,0.1.0,0,0,https://github.com/ziuus/liquid-glass,Physical optical lensing & liquid glass GPU rendering engine (WGPU + WGSL + RK4 springs)
+2026-11-25T16:19:39.708046Z,glass-platform,0.1.0,0,0,https://github.com/ziuus/liquid-glass,Cross-platform wallpaper & compositor capability adapter for the Liquid Glass UI engine
+2026-11-25T16:19:53.864656Z,glass-ui,0.1.0,0,0,https://github.com/ziuus/liquid-glass,Declarative physical Liquid Glass UI widgets built on glass-core
+2026-11-25T16:19:57.271343Z,axt-protocol,0.1.1,0,0,https://github.com/paxel/axt-rust,"The Rust library of AXT (Avro eXchange Transfer), the open standard for small apps to exchange typed records. Conforms to AXT 0.2.0."
+2026-11-25T16:20:00.111508Z,axt-protocol-generate,0.1.1,0,0,https://github.com/paxel/axt-rust,"Generates Rust structs for AXT types from their descriptions, for use with axt-protocol."
+2026-11-25T16:21:55.044096Z,agix-telemetry,0.4.4,0,0,https://github.com/harnixai/Agix,"Agix — telemetry, usage stats, LLM call recording, perf"
+2026-11-25T16:22:59.007213Z,atlas-xfs,26.0.2-a,0,0,https://github.com/05Narwhal/atlas-xfs,"Read XFS volumes, versions 4 and 5: shortform, block, leaf and node directories, extent and B-tree data forks."
+2026-11-25T16:23:22.374894Z,appstore-connect-mcp,1.1.2,0,0,https://github.com/topcheer/appstore-connect-mcp,App Store Connect MCP server (Rust port of @ggaiteam/appstore-connect-mcp)
+2026-11-25T16:24:37.233295Z,knife4x,0.12.0,0,0,https://github.com/songxychn/knife4j-next,Embedded Knife4j OpenAPI 3 documentation and debugging UI for Rust services
+2026-11-25T16:25:18.983496Z,supernsh-icons-fa7-brands,0.2.0,0,0,https://github.com/SuperNSH/icons,"Font Awesome Brands icons for Native Shell (NSH) apps, in Rust and TSX, drawn by supernsh-icons"
+2026-11-25T16:25:45.000364Z,wit-bindgen-zig,0.0.0,0,0,https://github.com/bytecodealliance/wit-bindgen,"Zig bindings generator for WIT and the component model, typically used through the `wit-bindgen-cli` crate."
+2026-11-25T16:26:26.780068Z,konoma-plugin-ratatui,0.1.0,0,0,https://github.com/LESIM-Co-Ltd/konoma,"Draw a konoma plugin's canvas with ratatui widgets: converts a ratatui Buffer into a konoma_plugin::CanvasView (plain data, so konoma's own ratatui is not involved; draw with the ratatui this crate r…"
+2026-11-25T16:31:56.882375Z,agix-tools,0.4.4,0,0,https://github.com/harnixai/Agix,Agix — built-in tool implementations
+2026-11-25T16:34:11.955532Z,atlas-exfat,26.0.2-a,0,0,https://github.com/05Narwhal/atlas-exfat,"Read exFAT volumes: boot sector, allocation bitmap, entry sets, contiguous and chained files."
+2026-11-25T16:35:42.784673Z,supernsh-icons-fa7-regular,0.2.0,0,0,https://github.com/SuperNSH/icons,"Font Awesome Regular icons for Native Shell (NSH) apps, in Rust and TSX, drawn by supernsh-icons"
+2026-11-25T16:36:54.272611Z,konoma-table,0.1.0,0,0,https://github.com/LESIM-Co-Ltd/konoma,konoma's table plugins: CSV/TSV files and zip/tar/tar.gz listings shown as a grid
+2026-11-25T16:37:20.602101Z,msbwt,0.2.0,0,0,https://github.com/pepeiborra/fmgrep,"Multi-string BWT of NUL-terminated documents by induced sorting, without a suffix array"
+2026-11-25T16:37:25.029983Z,docfm-bits,0.2.0,0,0,https://github.com/pepeiborra/fmgrep,"Succinct structures over plain bytes: wavelet levels of compressed digits, Elias-Fano marks, packed integers"
+2026-11-25T16:37:35.380835Z,manifatura-agent,0.1.0,0,0,https://github.com/onatm/manifatura,"The core of manifatura: the agent loop, typed hooks, sessions as a tree, and the Provider, Env and Store traits."
+2026-11-25T16:37:37.897519Z,manifatura-kit,0.1.0,0,0,https://github.com/onatm/manifatura,"Hook bundles for manifatura: approvals, compaction, a deferred tool catalog, input repair, AGENTS.md context."
+2026-11-25T16:37:38.544663Z,manifatura-mcp,0.1.0,0,0,https://github.com/onatm/manifatura,"MCP servers' tools for manifatura, over stdio or streamable HTTP."
+2026-11-25T16:37:39.155648Z,manifatura-models,0.1.0,0,0,https://github.com/onatm/manifatura,Model providers for manifatura: llama.cpp and other OpenAI-compatible servers.
+2026-11-25T16:37:39.837441Z,manifatura-store,0.1.0,0,0,https://github.com/onatm/manifatura,Session stores for manifatura: append-only JSON lines.
+2026-11-25T16:37:46.303031Z,serenade-rangular-mcp,1.0.0,0,0,https://github.com/Interchouette-ITC/serenade-rangular-mcp,Source-backed Serenade and Rangular documentation MCP
+2026-11-25T16:38:04.148059Z,electra-network,0.1.0,0,0,https://github.com/ryancinsight/electra,Conservative two-terminal network assembly and anchored linear relaxation
+2026-11-25T16:38:19.459527Z,failcast-core,0.1.0,0,0,https://github.com/AL3XPI/failcast,"Core domain types, configuration, and traits for failcast predictive test selection"
+2026-11-25T16:38:22.734755Z,failcast-store,0.1.0,0,0,https://github.com/AL3XPI/failcast,Bundled SQLite history store and point-in-time snapshot queries for failcast
+2026-11-25T16:38:27.699681Z,failcast-collectors,0.1.0,0,0,https://github.com/AL3XPI/failcast,Git diff/history mining and Tree-sitter Python AST import graph collector for failcast
+2026-11-25T16:38:27.888061Z,electra-circuit,0.1.0,0,0,https://github.com/ryancinsight/electra,Typed electrical DC operating points and transfer sweeps for hierarchical linear circuits
+2026-11-25T16:38:29.612726Z,electra-ac,0.1.0,0,0,https://github.com/ryancinsight/electra,"Typed, streaming frequency response of passive RC ladders"
+2026-11-25T16:38:30.502746Z,failcast-ml,0.1.0,0,0,https://github.com/AL3XPI/failcast,"Feature extraction, GBDT training, Platt calibration, and cost-aware test selector for failcast"
+2026-11-25T16:38:33.231299Z,failcast-runners,0.1.0,0,0,https://github.com/AL3XPI/failcast,Test runner adapters and JUnit XML parser for failcast
+2026-11-25T16:39:20.188298Z,vibegif,0.2.0,0,0,https://github.com/direct-img/vibegif.direct-img.link,Search vibegif's public domain animated webp/gifs and get hotlinkable URLs
+2026-11-25T16:39:28.882811Z,file-acl,0.1.0,0,0,https://github.com/gregordinary/file-acl,"POSIX.1e access control lists as data, in safe Rust: the binary value Linux stores, the text form getfacl and tar use, and their validity rules."
+2026-11-25T16:39:30.514118Z,manifatura-tools,0.1.0,0,0,https://github.com/onatm/manifatura,"The basic tools for manifatura (read, edit, grep, glob, bash) and the env on this machine."
+2026-11-25T16:39:38.779883Z,ferrotape,0.1.0,0,0,https://github.com/gregordinary/ferrotape,"A tape archive (tar) reader and header writer for untrusted input: ustar, pax, GNU and v7, in safe Rust with no dependencies."
+2026-11-25T16:39:41.433798Z,apgui-render-text,0.1.0,0,0,https://github.com/MrDuckAPR/ApostolGuiRust,"APGUI render-text: DirectWrite, IDWriteTextLayout cache (strict key)"
+2026-11-25T16:40:02.999515Z,apgui-render-core,0.1.0,0,0,https://github.com/MrDuckAPR/ApostolGuiRust,"The APGUI render-core: window, Win32 loop, D2D/D3D11, swapchain, dirty-tracking (Hybrid), DPI, scene graph, tiny layout, hit-testing, composition stub"
+2026-11-25T16:41:56.239445Z,agix-runtime,0.4.4,0,0,https://github.com/harnixai/Agix,"Agix — agent runtime (turn loop, Agent + Builder)"
+2026-11-25T16:42:01.449927Z,spiritlevel-async,0.1.0,0,0,https://github.com/ashlar-display/spiritlevel-async,"Async TMDS link bring-up for HDMI sources: clock ratio, scrambling and sink configuration"
+2026-11-25T16:43:59.341521Z,apgui-preview,0.1.0,0,0,https://github.com/MrDuckAPR/ApostolGuiRust,"The APGUI live preview — a window that renders a .apgui file and reloads it as it changes, for use as an editor preview"
+2026-11-25T16:44:37.807429Z,klobuk-core,0.1.1,0,0,https://github.com/numikel/klobuk,"Klobuk core: domain types, ports (IssueStore, Vcs, AgentRuntime), scheduler and configuration, no IO"
+2026-11-25T16:44:40.212963Z,klobuk-runtime,0.1.1,0,0,https://github.com/numikel/klobuk,Klobuk agent runtime adapters: the Herdr CLI and a file-backed fake for tests
+2026-11-25T16:44:40.535403Z,klobuk-store,0.1.1,0,0,https://github.com/numikel/klobuk,Klobuk SQLite store: rusqlite implementation of the IssueStore port with JSONL export and import
+2026-11-25T16:44:40.974718Z,klobuk-vcs,0.1.1,0,0,https://github.com/numikel/klobuk,"Klobuk git adapter: subprocess implementation of the Vcs port, worktrees and the gate runner"
+2026-11-25T16:44:44.419937Z,klobuk,0.1.1,0,0,https://github.com/numikel/klobuk,"Klobuk, an autonomous software factory: plans work into issues, runs Claude Code workers in git worktrees, verifies and merges"
+2026-11-25T16:45:11.217743Z,atlas-iso9660,26.0.2-a,0,0,https://github.com/05Narwhal/atlas-iso9660,Read ISO 9660 (ECMA-119) discs with Joliet and Rock Ridge extensions.
+2026-11-25T16:46:06.398482Z,supernsh-icons-fa7-solid,0.2.0,0,0,https://github.com/SuperNSH/icons,"Font Awesome Solid icons for Native Shell (NSH) apps, in Rust and TSX, drawn by supernsh-icons"
+2026-11-25T16:46:48.300138Z,tilolang-lex,0.5.0,0,0,https://code.tilo.so/tilo/tilo,"The tilolang lexer: the tokens, source spans and literals a program's text is read as, so an editor colours it exactly as the compiler reads it."
+2026-11-25T16:46:49.396192Z,dialog-bot,0.1.0,0,0,https://github.com/DialogPM/dialog-rust,"Bot API client for Dialog, the private messenger: send notifications, pictures and buttons to the people who started your bot."
+2026-11-25T16:47:02.014336Z,tilo-component-scan,0.5.0,0,0,https://code.tilo.so/tilo/tilo,"Reads a crate of Tilo widgets' sources for its described components, for its build script."
+2026-11-25T16:47:05.173374Z,tilo-face,0.5.0,0,0,https://code.tilo.so/tilo/tilo,A person's face before any picture: the initials their name gives and the presence hue their identity derives.
+2026-11-25T16:47:08.581362Z,tilo-action-policy,0.5.0,0,0,https://code.tilo.so/tilo/tilo,"Who may invoke which action: grants over the published tree and the one function that decides them, and where a person's presence is and the colour they wear."
+2026-11-25T16:47:11.842215Z,tilo-lock,0.5.0,0,0,https://code.tilo.so/tilo/tilo,Lock a std Mutex or RwLock whatever a panicking holder left behind: the guard of a poisoned lock instead of an error.
+2026-11-25T16:47:15.140254Z,konoma-markdown,0.1.0,0,0,https://github.com/LESIM-Co-Ltd/konoma,"konoma's Markdown plugin: Markdown files and converted documents as a document view, with the source as its other representation"
+2026-11-25T16:48:54.127475Z,tilo-platform-caps,0.5.0,0,0,https://code.tilo.so/tilo/tilo,"The shared shape of a platform crate's per-target capability table: availability, the unsupported error, and this target's column."
+2026-11-25T16:50:23.508439Z,manifatura,0.1.0,0,0,https://github.com/onatm/manifatura,"A small Rust library for building agents into your own programs: a loop, typed hooks and sessions."
+2026-11-25T16:51:07.574391Z,failcast-eval,0.1.0,0,0,https://github.com/AL3XPI/failcast,Chronological walk-forward evaluation and baseline rankers for failcast
+2026-11-25T16:51:55.163765Z,agix-skills,0.4.4,0,0,https://github.com/harnixai/Agix,Agix — the skill catalog and the Skill tool
+2026-11-25T16:56:25.336231Z,atlas-hfs,26.0.2-a,0,0,https://github.com/05Narwhal/atlas-hfs,"Read classic HFS (Mac OS Standard) volumes: master directory block, catalog and extents B-trees, forks, Mac text encodings."
+2026-11-25T16:56:30.01379Z,supernsh-icons-fe,0.2.0,0,0,https://github.com/SuperNSH/icons,"Feather Icon icons for Native Shell (NSH) apps, in Rust and TSX, drawn by supernsh-icons"
+2026-11-25T16:57:51.081203Z,konoma-office,0.1.0,0,0,https://github.com/LESIM-Co-Ltd/konoma,"konoma's Office plugins: spreadsheets as tables, Word documents and slides as converted Markdown"
+2026-11-25T16:58:53.915936Z,tilo-paths,0.5.0,0,0,https://code.tilo.so/tilo/tilo,"Per-user and per-app locations on Linux, macOS and the web: XDG base directories and xdg-user-dirs, the macOS Library folders, and virtual browser storage roots."
+2026-11-25T17:01:46.818933Z,failcast,0.1.0,0,0,https://github.com/AL3XPI/failcast,Local Rust CLI and MCP server that predicts which pytest tests will fail for a git diff
+2026-11-25T17:01:55.331653Z,agix-team,0.4.4,0,0,https://github.com/harnixai/Agix,"Agix — multi-agent team coordination (Coordinator, TeamTool, mailbox)"
+2026-11-25T17:02:03.634221Z,unycfd-rpc,0.3.0,0,0,https://github.com/unycfd/unycfd,Cap'n Proto RPC wire framing with Send futures for unycfd (fork of libcfd-rpc)
+2026-11-25T17:02:14.028292Z,unycfd-libcfd,0.3.0,0,0,https://github.com/unycfd/unycfd,Embeddable Cloudflare Tunnel client library for unycfd (fork of libcfd)
+2026-11-25T17:02:20.989008Z,unycfd,1.0.1,0,0,https://github.com/unycfd/unycfd,Tiny high-performance Cloudflare Tunnel (cloudflared) daemon in Rust with < 3 MB memory footprint
+2026-11-25T17:02:25.981211Z,apgui-showcase,0.1.0,0,0,https://github.com/MrDuckAPR/ApostolGuiRust,"The APGUI showcase — one application where the whole engine can be seen and touched, with the pixel self-test built in (--verify)"
+2026-11-25T17:06:54.498956Z,supernsh-icons-flag,0.2.0,0,0,https://github.com/SuperNSH/icons,"Flag Icons icons for Native Shell (NSH) apps, in Rust and TSX, drawn by supernsh-icons"
+2026-11-25T17:07:39.333511Z,atlas-apfs,26.0.2-a,0,0,https://github.com/05Narwhal/atlas-apfs,"Read APFS containers: checkpoints, object maps, volumes, snapshots, sealed volumes, extended attributes and decmpfs compression."
+2026-11-25T17:08:17.384408Z,konoma-file-plugins,0.1.0,0,0,https://github.com/LESIM-Co-Ltd/konoma,The standard file plugins shared by konoma hosts
+2026-11-25T17:08:54.414618Z,tilo-ui-graph,0.5.0,0,0,https://code.tilo.so/tilo/tilo,Pure schema and structural editor for Tilo serialized UI graphs
+2026-11-25T17:11:55.515769Z,agix-agents,0.4.4,0,0,https://github.com/harnixai/Agix,"Agix — sub-agents: the Agent tool, agent types, and team orchestration, as a module"
+2026-11-25T17:13:39.94634Z,konoma-vcs,0.1.0,0,0,https://github.com/LESIM-Co-Ltd/konoma,konoma's Git and Jujutsu project screens
+2026-11-25T17:14:00.24373Z,pipeline-cpi,0.1.0,0,0,https://github.com/MetalLegBob/pipeline,"Call the Pipeline router from an on-chain program: build and invoke swaps and routes, and read their results"
+2026-11-25T17:15:26.385312Z,aeon-native,0.1.0,0,0,https://github.com/genericcpu/aeon-ui,"Blitz-free Dioxus 0.7 native renderer for Aeon UI (VirtualDom + WriteMutations -> Taffy + Parley + Vello + Winit, zero HTML/CSS/Stylo)"
+2026-11-25T17:17:20.631375Z,supernsh-icons-fluent,0.2.0,0,0,https://github.com/SuperNSH/icons,"Fluent UI System Icons icons for Native Shell (NSH) apps, in Rust and TSX, drawn by supernsh-icons"
