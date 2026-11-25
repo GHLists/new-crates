@@ -1,0 +1,73 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-25T10:19:38.90067Z,cw-protocol,0.3.0,0,0,https://github.com/ComputaCo/computerworld-engine,"ComputerWorld's versioned, serializable contracts, with no host I/O"
+2026-11-25T10:22:33.050209Z,pod-natprobe,0.0.0,0,0,https://github.com/PodUtils/podcrates,The NAT probe: STUN-based classification of the NAT in front of a host
+2026-11-25T10:25:39.701323Z,fluau_macros,0.1.0,0,0,https://github.com/c4rl2s0n/fluau,"Proc-macros for fluau host APIs (#[host_module], HostType, HostUserData)"
+2026-11-25T10:25:51.405729Z,koru-auth-request,0.1.0,0,0,,Koru 组件：子请求鉴权（Nginx ngx_http_auth_request_module 的等价物）
+2026-11-25T10:26:03.18444Z,cw-determinism,0.3.0,0,0,https://github.com/ComputaCo/computerworld-engine,"ComputerWorld's host-independent logical time, SplitMix64 streams and ordered continuations"
+2026-11-25T10:26:28.497336Z,fluau,0.1.0,0,0,https://github.com/c4rl2s0n/fluau,Sandboxed Luau plugin runtime for Flutter hosts (tools only — no bundled HostAPIs or UI catalog)
+2026-11-25T10:29:38.652211Z,telers-types,10.5.0,0,0,https://github.com/Desiders/telers,Telegram Bot API types without an HTTP client or bot framework
+2026-11-25T10:30:23.096092Z,telers-methods,10.5.0,0,0,https://github.com/Desiders/telers,Telegram Bot API methods and request builders independent of an HTTP client
+2026-11-25T10:32:56.475977Z,pod-tpm,0.0.0,0,0,https://github.com/PodUtils/podcrates,A TPM 2.0 codec in pure Rust for a P-256 key that a TPM keeps
+2026-11-25T10:32:56.992244Z,rgpui-xim-ctext,0.1.0,0,0,https://github.com/launcher-rs/xim-rs,compound text en/decoder
+2026-11-25T10:33:05.517324Z,rgpui-xim-gen,0.1.0,0,0,https://github.com/launcher-rs/xim-rs,XIM protocol parser generator
+2026-11-25T10:33:25.358716Z,cw-encode,0.3.0,0,0,https://github.com/ComputaCo/computerworld-engine,ComputerWorld's canonical encoding: values as tagged bytes streamed into a hasher
+2026-11-25T10:33:28.256162Z,rgpui-xim-parser,0.1.0,0,0,https://github.com/launcher-rs/xim-rs,XIM protocol parser
+2026-11-25T10:33:49.300473Z,ragon-search,0.0.1,0,0,https://github.com/dreamference/ragon,"Name reserved for Ragon by Dreamference, a local, air-gapped agentic pair programmer. Placeholder; install Ragon from its releases."
+2026-11-25T10:33:52.110112Z,ragon-fetch,0.0.1,0,0,https://github.com/dreamference/ragon,"Name reserved for Ragon by Dreamference, a local, air-gapped agentic pair programmer. Placeholder; install Ragon from its releases."
+2026-11-25T10:33:55.091504Z,ragon-ai,0.0.1,0,0,https://github.com/dreamference/ragon,"Name reserved for Ragon by Dreamference, a local, air-gapped agentic pair programmer. Placeholder; install Ragon from its releases."
+2026-11-25T10:33:57.628799Z,ragon-cli,0.0.1,0,0,https://github.com/dreamference/ragon,"Name reserved for Ragon by Dreamference, a local, air-gapped agentic pair programmer. Placeholder; install Ragon from its releases."
+2026-11-25T10:34:00.63606Z,ragon-signal,0.0.1,0,0,https://github.com/dreamference/ragon,"Name reserved for Ragon by Dreamference, a local, air-gapped agentic pair programmer. Placeholder; install Ragon from its releases."
+2026-11-25T10:35:25.130022Z,b-positive,0.1.0,0,0,https://github.com/invertdb/b-positive,"A persistent, copy-on-write B+tree with snapshot readers"
+2026-11-25T10:35:27.732931Z,invertdb-larry,0.1.0,0,0,https://github.com/invertdb/larry,"Blobs: append-only, memory-mapped"
+2026-11-25T10:35:29.855473Z,blammo,0.1.0,0,0,https://github.com/invertdb/blammo,A write-ahead log
+2026-11-25T10:35:33.379613Z,introvert,0.1.0,0,0,https://github.com/invertdb/introvert,"A generic inverted index: any source inverted into any unit, on b-positive"
+2026-11-25T10:35:37.424725Z,invertdb-collection,0.1.0,0,0,https://github.com/invertdb/invertdb-collection,"The collection layer: a write-ahead-logged, committed and published introvert index with side data, deletes and upserts"
+2026-11-25T10:36:26.762314Z,authrs-client,0.0.20,0,0,https://github.com/kaushik-xs/authrs-client,Typed async Rust client for the Authrs multi-tenant authentication service
+2026-11-25T10:36:27.028509Z,koru-basic-auth,0.1.0,0,0,,Koru 组件：HTTP Basic 认证（auth_basic）
+2026-11-25T10:37:40.202122Z,rulez,0.1.0,0,0,https://codeberg.org/jer-gremlin/rulez,"Cross-language QA rule runner (rules) and duplicated-helper detector (simlr), built on Tree-sitter"
+2026-11-25T10:38:46.39104Z,http-request-matcher,0.0.1,0,0,https://github.com/Jankbyte/tower-http-access,HTTP request matching components.
+2026-11-25T10:43:07.494392Z,pod-gzip,0.0.0,0,0,https://github.com/PodUtils/podcrates,gzip members with a bounded pool of threads
+2026-11-25T10:43:25.432296Z,cw-evaluation,0.3.0,0,0,https://github.com/ComputaCo/computerworld-engine,ComputerWorld's optional evaluation policy for tasks in a world
+2026-11-25T10:44:03.488451Z,tauri-plugin-licers,1.0.0,0,0,,"License keys for Tauri v2 apps: Ed25519-signed checks in Rust, device limits, trials, entitlements. Free, with Licers."
+2026-11-25T10:44:44.592053Z,ragon-chat,0.0.1,0,0,https://github.com/dreamference/ragon,"Name reserved for Ragon by Dreamference, a local, air-gapped agentic pair programmer. Placeholder; install Ragon from its releases."
+2026-11-25T10:46:53.900714Z,koru-charset,0.1.0,0,0,,Koru 组件：响应字符集声明与重编码（Nginx charset 模块的等价物）
+2026-11-25T10:52:16.739741Z,stitch-me-up-core,0.5.0,0,0,https://github.com/ArthurianX/stitch-me-up,Deterministic image composition engine: layout planning and rendering over RGBA buffers
+2026-11-25T10:53:18.931079Z,pod-h2,0.0.0,0,0,https://github.com/PodUtils/podcrates,A fork of h2 0.4.20 with client::Builder::pseudo_order
+2026-11-25T10:53:28.261772Z,cw-artwork,0.3.0,0,0,https://github.com/ComputaCo/computerworld-engine,Deterministic generative cover artwork shared by the music applications and the music sites
+2026-11-25T10:55:17.974332Z,ragon-web,0.0.1,0,0,https://github.com/dreamference/ragon,"Name reserved for Ragon by Dreamference, a local, air-gapped agentic pair programmer. Placeholder; install Ragon from its releases."
+2026-11-25T10:55:23.934602Z,reticuli,0.1.0,0,0,https://github.com/posteris/reticuli,Cell-based graphics library fully compatible with terminals and windows alike.
+2026-11-25T10:55:41.883222Z,egin,0.1.3,0,0,https://github.com/zaidmukaddam/egin,Filesystem-first framework for durable backend agents
+2026-11-25T10:57:20.209649Z,hazard3-st7789v-graphics,0.5.0,0,0,https://github.com/jorgeandrecastro/hazard3-st7789v-graphics,no_std 2D graphics for ST7789V displays in the independent Hazard3 Async ecosystem.
+2026-11-25T10:57:36.288642Z,koru-compress,0.1.0,0,0,,Koru 组件：gzip / brotli 响应压缩与算法协商
+2026-11-25T10:57:42.421697Z,cuprite_wire_ibis,0.4.0,0,0,https://github.com/hyranno/cuprite_wire,Reads IBIS (I/O Buffer Information Specification) models
+2026-11-25T10:57:48.271711Z,stitch-me-up-wasm,0.5.0,0,0,https://github.com/ArthurianX/stitch-me-up,WebAssembly adapter for the 🩹 Stitch Me Up image composition engine
+2026-11-25T10:57:58.654726Z,stitch-me-up,0.5.0,0,0,https://github.com/ArthurianX/stitch-me-up,CLI for the 🩹 Stitch Me Up image composition engine
+2026-11-25T11:00:50.849101Z,tracefast,0.1.0,0,0,https://github.com/datanestllc/tracefast-sdk,"The official Rust SDK for the TraceFast API: Ethereum blocks, transactions, call traces, tokens, smart contracts, DEX pools, the consensus layer and what TraceFast states about an address."
+2026-11-25T11:03:27.231025Z,cw-map,0.3.0,0,0,https://github.com/ComputaCo/computerworld-engine,"Deterministic street maps for the geo sites and the native Maps app, from places alone"
+2026-11-25T11:04:41.172582Z,koru-dav,0.1.0,0,0,,Koru 组件：受限文件系统 DAV（PUT/DELETE/MKCOL/COPY/MOVE/PROPFIND）
+2026-11-25T11:05:51.52554Z,ragon-serve,0.0.1,0,0,https://github.com/dreamference/ragon,"Name reserved for Ragon by Dreamference, a local, air-gapped agentic pair programmer. Placeholder; install Ragon from its releases."
+2026-11-25T11:06:17.068957Z,sgl-physics,0.11.0,0,0,https://github.com/stevepryde/sgl,"Deterministic kinematic physics for SGL games: boxes, balls, capsules and convex shapes, worlds and queries in 2D and 3D"
+2026-11-25T11:13:13.198252Z,hazard3-st7789v-plot,0.5.0,0,0,https://github.com/jorgeandrecastro/hazard3-st7789v-plot,no_std Cartesian plotting for ST7789V displays in the independent Hazard3 Async ecosystem.
+2026-11-25T11:13:25.538847Z,cw-script-host,0.3.0,0,0,https://github.com/ComputaCo/computerworld-engine,"The capability surface an embedded language runtime (python3, node) sees of a simulated computer."
+2026-11-25T11:14:53.484131Z,koru-guard,0.1.0,0,0,,Koru 组件：并发闸门、单请求超时与请求体上限
+2026-11-25T11:16:22.187304Z,dtp-codec,0.4.3,0,0,https://github.com/sayyidsh/devtape,"Core DTP v0.1 codec: Hybrid Logical Clocks, EventEnvelopes, DTAP01 container I/O, and ANSI replay sanitizer"
+2026-11-25T11:16:25.291882Z,ragon-engine,0.0.1,0,0,https://github.com/dreamference/ragon,"Name reserved for Ragon by Dreamference, a local, air-gapped agentic pair programmer. Placeholder; install Ragon from its releases."
+2026-11-25T11:16:28.713985Z,devtape-scrub,0.4.3,0,0,https://github.com/sayyidsh/devtape,Streaming sliding-window secret scrubber with deterministic structural placeholders for DTP v0.1
+2026-11-25T11:16:31.690364Z,dtp-wasm,0.4.3,0,0,https://github.com/sayyidsh/devtape,Incremental per-span ANSI replay sanitizer and .tape decoder helper for DevTape viewer front ends
+2026-11-25T11:16:34.216936Z,devtape-git,0.4.3,0,0,https://github.com/sayyidsh/devtape,"Non-destructive Git shadow snapshots, FastCDC content-addressed storage, and safe working-tree rewind for DevTape"
+2026-11-25T11:16:36.408069Z,ondomathx-mesh,0.1.0,0,0,https://github.com/Ananke-Inria/OndoMathX,"Meshes, geometric maps, labels and DOF numbering for the OndoMathX finite-element crates."
+2026-11-25T11:16:38.504156Z,ondomathx-sem,0.1.0,0,0,https://github.com/Ananke-Inria/OndoMathX,Matrix-free spectral elements on quadrangle and hexahedron meshes.
+2026-11-25T11:16:39.434421Z,ondomathx-tetrix,0.1.0,0,0,https://github.com/Ananke-Inria/OndoMathX,"Finite elements on tetrahedral meshes: elements with 4 to 15 nodes, a P2 space with duplicated storage, VTK and Vizir output."
+2026-11-25T11:16:40.017125Z,ondomathx-toolbox,0.1.0,0,0,https://github.com/Ananke-Inria/OndoMathX,Shared tools of the OndoMathX crates.
+2026-11-25T11:16:45.112289Z,devtape-pty,0.4.3,0,0,https://github.com/sayyidsh/devtape,Zero-stall cross-platform PTY session recorder with byte-bounded QoS backpressure for DTP v0.1
+2026-11-25T11:17:59.868796Z,sgl-deepseek-recipe-macros,0.2.1,0,0,https://github.com/sgl-project/deepseek-recipe,Procedural macros for deepseek-recipe: the `prompt!` template macro and the `UntaggedDeserialize` derive.
+2026-11-25T11:18:02.348337Z,sgl-deepseek-recipe-core,0.2.1,0,0,https://github.com/sgl-project/deepseek-recipe,"Shared conversation, message, and tool types for DeepSeek models."
+2026-11-25T11:18:05.275315Z,sgl-deepseek-recipe-encoding,0.2.1,0,0,https://github.com/sgl-project/deepseek-recipe,Conversation rendering and token encoding for DeepSeek V4 and V4.1 prompts.
+2026-11-25T11:18:09.412781Z,sgl-deepseek-recipe,0.2.1,0,0,https://github.com/sgl-project/deepseek-recipe,API request conversion and streamed output parsing for DeepSeek models.
+2026-11-25T11:19:33.068221Z,gitkb,0.0.1,0,0,https://github.com/gitkb/gitkb,Placeholder reserving the gitkb crate name for the upcoming GitKB release.
+2026-11-25T11:19:34.634305Z,gitkb-core,0.0.1,0,0,https://github.com/gitkb/gitkb-core,Placeholder reserving the gitkb-core crate name for the upcoming GitKB release.
+2026-11-25T11:21:26.307805Z,derive-request-logging,0.1.0,0,0,https://codeberg.org/silwol/derive-request,Use derive to create HTTP requests - logging middleware interface
+2026-11-25T11:21:27.019645Z,derive-request-macros,0.1.0,0,0,https://codeberg.org/silwol/derive-request,Use derive to create HTTP requests
+2026-11-25T11:21:29.235426Z,derive-request,0.1.0,0,0,https://codeberg.org/silwol/derive-request,Use derive to create HTTP requests
+2026-11-25T11:21:29.52229Z,derive-request-logging-har,0.1.0,0,0,https://codeberg.org/silwol/derive-request,Use derive to create HTTP requests - logging middleware for dumping to har files
+2026-11-25T11:21:31.553295Z,derive-request-client,0.1.0,0,0,https://codeberg.org/silwol/derive-request,Use derive to create HTTP requests - client interface
