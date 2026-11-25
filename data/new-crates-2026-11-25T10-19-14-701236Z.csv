@@ -1,0 +1,39 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-25T09:23:15.75546Z,zcashlabs-shardtree,0.7.2,0,0,https://github.com/zcashlabs/incrementalmerkletree,"A space-efficient Merkle tree with witnessing of marked leaves, checkpointing & state restoration. Zcash Labs fork of `shardtree`, which caches the root of a parent node when the roots of both childr…"
+2026-11-25T09:24:11.489526Z,curly-message-lint,1.0.0-next.0,0,0,https://github.com/curly-message/lint,"A linter for the Curly Message Format: the rules, a catalogue reader and the curly-lint command."
+2026-11-25T09:24:59.699658Z,dreamer-matcher,0.11.0,0,0,https://github.com/probablyrobot/dreamer,The Rust match stage: literal sets and bounded regular expressions
+2026-11-25T09:25:00.276774Z,dreamer-memory,0.11.0,0,0,https://github.com/probablyrobot/dreamer,"Durable memory: the provider interface and the files, sqlite, and Kosmonaut providers"
+2026-11-25T09:25:13.118589Z,dreamer-procreg,0.11.0,0,0,https://github.com/probablyrobot/dreamer,"The host process registry: same-user processes, pane association, and agent runs, by evidence"
+2026-11-25T09:25:15.00328Z,dreamer-script-runtime,0.11.0,0,0,https://github.com/probablyrobot/dreamer,"Sandboxed Luau host for filters, triggers, and pane apps"
+2026-11-25T09:25:29.53779Z,dreamer-mirror,0.11.0,0,0,https://github.com/probablyrobot/dreamer,"Canonical pane mirrors in the daemon: cold attach, ordered ingestion, VT owner workers"
+2026-11-25T09:27:45.513785Z,reqsign-crypto-boring,0.0.0,0,0,https://github.com/apache/reqsign,Namespace reservation for a crate planned by Apache Reqsign.
+2026-11-25T09:28:45.798786Z,sourceorigin-standard,0.1.0,0,0,https://github.com/sourceorigin-dev/standard,"The engineering standard of piqueld, sourceorigin and DirkEngine as checks a repository's `cargo xtask` runs"
+2026-11-25T09:31:21.343143Z,dreamer-server,0.11.0,0,0,https://github.com/probablyrobot/dreamer,Headless Dreamer server
+2026-11-25T09:32:18.172092Z,aster_yggdrasil_protocol,0.1.0-alpha.1,0,0,https://github.com/AsterCommunity/AsterYggdrasil,Project-agnostic Yggdrasil/authlib-injector protocol wire model and error state machine.
+2026-11-25T09:33:22.941023Z,ragon,0.0.1,0,0,https://github.com/dreamference/ragon,"Name reserved for Ragon by Dreamference, a local, air-gapped agentic pair programmer. Placeholder; install Ragon from its releases."
+2026-11-25T09:33:25.412116Z,ragon-admin,0.0.1,0,0,https://github.com/dreamference/ragon,"Name reserved for Ragon by Dreamference, a local, air-gapped agentic pair programmer. Placeholder; install Ragon from its releases."
+2026-11-25T09:33:27.880151Z,dreamference,0.0.1,0,0,https://github.com/dreamference/ragon,"Name reserved for Ragon by Dreamference, a local, air-gapped agentic pair programmer. Placeholder; install Ragon from its releases."
+2026-11-25T09:33:30.236238Z,ragon-code,0.0.1,0,0,https://github.com/dreamference/ragon,"Name reserved for Ragon by Dreamference, a local, air-gapped agentic pair programmer. Placeholder; install Ragon from its releases."
+2026-11-25T09:33:32.592493Z,ragon-docs,0.0.1,0,0,https://github.com/dreamference/ragon,"Name reserved for Ragon by Dreamference, a local, air-gapped agentic pair programmer. Placeholder; install Ragon from its releases."
+2026-11-25T09:35:24.916194Z,evalsuite-cli,0.8.5,0,0,https://github.com/mkcs28/evalsuite-python,"Command-line evaluation from CSV / TSV / JSON files with EvalSuite: classification, regression, diagnostic accuracy, calibration and text-generation metrics."
+2026-11-25T09:42:32.9371Z,rust-webx-apns,2.9.2,0,0,https://github.com/Rust-Framework/rust-webx,Apple Push Notification service (APNs) adapter for rust-webx push notifications
+2026-11-25T09:42:40.387838Z,rust-webx-fcm,2.9.2,0,0,https://github.com/Rust-Framework/rust-webx,Firebase Cloud Messaging (FCM HTTP v1) adapter for rust-webx push notifications
+2026-11-25T09:47:32.404399Z,sylphx-migrate,0.1.2,0,0,https://github.com/SylphxAI/sylphx-clients,PostgreSQL migration planning and execution for Sylphx.
+2026-11-25T09:48:17.882989Z,trend-following,0.1.0,0,0,https://github.com/hinanohart/trend-following,"Minimal core of systematic trend following: causal EWMA filters, closed-form normalisation, volatility-targeted positions"
+2026-11-25T09:54:21.726121Z,koru-core,0.1.0,0,0,,Koru 报文内核与跨层共享类型：HTTP/1.1 解析/序列化、错误模型、内部工具、连接上下文
+2026-11-25T09:54:45.738804Z,koru-empty-gif,0.1.0,0,0,,Koru 组件：1×1 透明 GIF 响应（Nginx ngx_http_empty_gif_module 的等价物）
+2026-11-25T09:55:09.747335Z,koru-h2,0.1.0,0,0,,Koru 的 HTTP/2 协议层（自研帧层与 HPACK 头部压缩，未接入门面，属进行中组件）
+2026-11-25T09:55:31.694032Z,koru-handler,0.1.0,0,0,,Koru 处理器层：Handler trait、impl_handler! 元组实现、ErasedHandler 与内置提取器
+2026-11-25T09:55:56.019751Z,koru-mcp,0.1.0,0,0,,"Koru 组件:AI MCP 服务端(Model Context Protocol,Streamable HTTP,零第三方 SDK)"
+2026-11-25T10:04:18.477977Z,hazard3-st7789v,0.8.0,0,0,https://github.com/jorgeandrecastro/hazard3-st7789v,"Async no_std ST7789V SPI display driver for the Hazard3 ecosystem, with optional framebuffer support."
+2026-11-25T10:05:25.381368Z,koru-middleware,0.1.0,0,0,,Koru 中间件链内核：Middleware / Next / Endpoint / map_request|map_response / middleware_fn!
+2026-11-25T10:05:47.965646Z,dnsrank,0.2.0,0,0,https://github.com/Fleorens/dnsrank,"Benchmark DNS resolvers (UDP, DNS-over-TLS, DNS-over-HTTPS) from your own connection"
+2026-11-25T10:11:57.86697Z,issuewright,0.1.0,0,0,https://github.com/mrcrgl/issuewright,Starts one fresh Claude Code session per GitHub issue labeled dispatch:ready
+2026-11-25T10:13:11.307767Z,fse-rs,0.1.0,0,0,https://gitlab.com/jer-gremlin/fse-rs,Pure-Rust no_std port of Finite State Entropy (FSE) entropy coding
+2026-11-25T10:13:30.385013Z,libzstd,0.1.0,0,0,https://gitlab.com/jer-gremlin/libzstd-rs,Pure-Rust 1:1 high-performance port of Meta's reference Zstandard library
+2026-11-25T10:15:38.542003Z,koru-addition,0.1.0,0,0,,Koru 组件：响应报体前后追加（Nginx ngx_http_addition_module 的等价物）
+2026-11-25T10:16:09.210355Z,opura,0.2.6,0,0,https://github.com/ekhodzitsky/opura,Opus encoder and decoder in safe Rust with zero dependencies and a WAV/Ogg Opus CLI
+2026-11-25T10:19:04.309478Z,computaco,0.0.1,0,0,https://github.com/ComputaCo/computerworld,"ComputaCo, from ComputaCo. This version holds the name; the real crate comes later."
+2026-11-25T10:19:07.41991Z,computatrum,0.0.1,0,0,https://github.com/ComputaCo/computerworld,"Computatrum, from ComputaCo. This version holds the name; the real crate comes later."
+2026-11-25T10:19:09.336093Z,computaco-core,0.0.1,0,0,https://github.com/ComputaCo/computerworld,"ComputaCo core, from ComputaCo. This version holds the name; the real crate comes later."
+2026-11-25T10:19:10.904985Z,computerworld,0.0.1,0,0,https://github.com/ComputaCo/computerworld,"ComputerWorld, from ComputaCo. This version holds the name; the real crate comes later."

@@ -8,47 +8,52 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-25 09:21 UTC
+## Latest list — 2026-11-25 10:19 UTC
 
-New crates published between 2026-11-25 08:21 UTC and 2026-11-25 09:21 UTC.
+New crates published between 2026-11-25 09:21 UTC and 2026-11-25 10:19 UTC.
 
-[Full CSV](data/new-crates-2026-11-25T09-21-30-667404Z.csv)
+[Full CSV](data/new-crates-2026-11-25T10-19-14-701236Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-25 08:21:23 | [quadratique-server](https://crates.io/crates/quadratique-server) | 0.1.0 | 0 | The Quadratique server: the issue lifecycle, the doltlite store and the AcidCat… |
-| 2026-11-25 08:21:27 | [quadratique](https://crates.io/crates/quadratique) | 0.1.0 | 0 | The quadratique command line: a client of the Quadratique server, which it star… |
-| 2026-11-25 08:22:31 | [senate-observe-protocol](https://crates.io/crates/senate-observe-protocol) | 0.13.0 | 0 | Versioned public wire types for observing a Senate |
-| 2026-11-25 08:22:33 | [senate-scene](https://crates.io/crates/senate-scene) | 0.13.0 | 0 | The rules a Senate scene bundle must satisfy: its manifest, its files, its .sen… |
-| 2026-11-25 08:22:39 | [senate-observe](https://crates.io/crates/senate-observe) | 0.13.0 | 0 | Machine-owned read-only Senate observation service |
-| 2026-11-25 08:22:40 | [senate-observe-client](https://crates.io/crates/senate-observe-client) | 0.13.0 | 0 | Rust client for the Senate Observe v1 HTTP and SSE API |
-| 2026-11-25 08:25:48 | [metal-cpp-rs](https://crates.io/crates/metal-cpp-rs) | 0.1.0 | 0 | ABI-faithful Rust conversion of Apple's metal-cpp: raw Objective-C runtime FFI… |
-| 2026-11-25 08:29:08 | [facett-mapfeed](https://crates.io/crates/facett-mapfeed) | 0.4.0 | 0 | facett — the korp map server as a data source for facett's 2D and 3D map viewer… |
-| 2026-11-25 08:31:00 | [xmac](https://crates.io/crates/xmac) | 0.1.0 | 0 | Utility for downloading and splatting the macOS SDK for cross-compilation. |
-| 2026-11-25 08:32:45 | [workit-rs](https://crates.io/crates/workit-rs) | 0.1.0 | 0 | A multi-repository Git workspace and task worktree manager |
-| 2026-11-25 08:34:54 | [sverigekartan](https://crates.io/crates/sverigekartan) | 0.1.0 | 0 | Sverigekartan: the map of Sweden from a korp map server (https://karta.gunnar.r… |
-| 2026-11-25 08:35:03 | [av1oxide](https://crates.io/crates/av1oxide) | 0.1.0 | 0 | 100% stable-Rust AV1 video decoder reimplementing dav1d (8/10/12-bit, x86_64/aa… |
-| 2026-11-25 08:38:28 | [xios](https://crates.io/crates/xios) | 0.1.0 | 0 | Utility for extracting and splatting the iOS SDK sysroot for cross-compilation. |
-| 2026-11-25 08:39:49 | [xohos](https://crates.io/crates/xohos) | 0.1.0 | 0 | Utility for downloading and splatting the OpenHarmony NDK sysroot for cross-com… |
-| 2026-11-25 08:40:11 | [xlinux](https://crates.io/crates/xlinux) | 0.1.0 | 0 | Utility for downloading and splatting minimal Linux glibc and musl sysroots for… |
-| 2026-11-25 08:46:25 | [termsheep](https://crates.io/crates/termsheep) | 0.0.1 | 0 | Termsheep: open-source team SSH client for people and AI agents. Project metada… |
-| 2026-11-25 08:46:31 | [termsheep-cli](https://crates.io/crates/termsheep-cli) | 0.0.1 | 0 | The Termsheep command-line client. Early placeholder; the first release follows. |
-| 2026-11-25 08:46:35 | [termsheep-core](https://crates.io/crates/termsheep-core) | 0.0.1 | 0 | Domain model, cryptography and encrypted local vault for Termsheep. Early place… |
-| 2026-11-25 08:46:50 | [rightkit-sync-keys](https://crates.io/crates/rightkit-sync-keys) | 0.1.0 | 0 | End-to-end sync key management for Right Suite apps: account data key, versione… |
-| 2026-11-25 08:47:06 | [gitmoji2](https://crates.io/crates/gitmoji2) | 9.8.0 | 0 | A Rust CLI for using gitmojis in commit messages, align with gitmoji-cli. |
-| 2026-11-25 08:49:17 | [soul](https://crates.io/crates/soul) | 0.0.1 | 0 | A GPU workload scheduler for Linux clusters |
-| 2026-11-25 08:50:29 | [wheels-macros](https://crates.io/crates/wheels-macros) | 0.1.0-alpha.1 | 0 | Procedural macros for the wheels account layout types |
-| 2026-11-25 08:50:30 | [wheels](https://crates.io/crates/wheels) | 0.1.0-alpha.1 | 0 | Zero-copy account layouts and validation helpers for Solana programs |
-| 2026-11-25 08:53:35 | [tidx](https://crates.io/crates/tidx) | 0.1.1 | 0 | Typed dense indices: one type per kind of index, stored in the narrowest width… |
-| 2026-11-25 08:56:37 | [apiproxy](https://crates.io/crates/apiproxy) | 0.1.1 | 0 | simple and local api endpoints proxy |
-| 2026-11-25 08:58:49 | [wasm-facade](https://crates.io/crates/wasm-facade) | 0.1.0 | 0 | A public API declared once in Rust with inert attributes, read into a versioned… |
-| 2026-11-25 09:00:09 | [dsd-upsample](https://crates.io/crates/dsd-upsample) | 0.1.0 | 0 | Deterministic DSD upconversion: DSF, DFF or PCM in, DSD64, DSD128 or DSD256 out |
-| 2026-11-25 09:00:17 | [dsd-upsample-cli](https://crates.io/crates/dsd-upsample-cli) | 0.1.0 | 0 | Command-line DSD upconverter |
-| 2026-11-25 09:10:47 | [skia-wgpu](https://crates.io/crates/skia-wgpu) | 0.158.0 | 0 | Runs Skia's Graphite Dawn backend on the wgpu crate |
-| 2026-11-25 09:14:38 | [bf16](https://crates.io/crates/bf16) | 0.1.0 | 0 | Official Rust SDK for bf16.ai — uncensored 1M-context LLM inference API with pr… |
-| 2026-11-25 09:15:50 | [rustimal](https://crates.io/crates/rustimal) | 0.2.3 | 0 | A minimal, GPU-rendered terminal for Windows that runs Git Bash, with animated… |
-| 2026-11-25 09:18:28 | [trusty-daemon-common](https://crates.io/crates/trusty-daemon-common) | 0.1.0 | 0 | Shared macOS broker-daemon plumbing for trusty-browser and trusty-computer: pee… |
-| 2026-11-25 09:20:03 | [libbhoo](https://crates.io/crates/libbhoo) | 0.2.0 | 0 | Minimal UI foundations for SpectreOS |
+| 2026-11-25 09:23:15 | [zcashlabs-shardtree](https://crates.io/crates/zcashlabs-shardtree) | 0.7.2 | 0 | A space-efficient Merkle tree with witnessing of marked leaves, checkpointing &… |
+| 2026-11-25 09:24:11 | [curly-message-lint](https://crates.io/crates/curly-message-lint) | 1.0.0-next.0 | 0 | A linter for the Curly Message Format: the rules, a catalogue reader and the cu… |
+| 2026-11-25 09:24:59 | [dreamer-matcher](https://crates.io/crates/dreamer-matcher) | 0.11.0 | 0 | The Rust match stage: literal sets and bounded regular expressions |
+| 2026-11-25 09:25:00 | [dreamer-memory](https://crates.io/crates/dreamer-memory) | 0.11.0 | 0 | Durable memory: the provider interface and the files, sqlite, and Kosmonaut pro… |
+| 2026-11-25 09:25:13 | [dreamer-procreg](https://crates.io/crates/dreamer-procreg) | 0.11.0 | 0 | The host process registry: same-user processes, pane association, and agent run… |
+| 2026-11-25 09:25:15 | [dreamer-script-runtime](https://crates.io/crates/dreamer-script-runtime) | 0.11.0 | 0 | Sandboxed Luau host for filters, triggers, and pane apps |
+| 2026-11-25 09:25:29 | [dreamer-mirror](https://crates.io/crates/dreamer-mirror) | 0.11.0 | 0 | Canonical pane mirrors in the daemon: cold attach, ordered ingestion, VT owner… |
+| 2026-11-25 09:27:45 | [reqsign-crypto-boring](https://crates.io/crates/reqsign-crypto-boring) | 0.0.0 | 0 | Namespace reservation for a crate planned by Apache Reqsign. |
+| 2026-11-25 09:28:45 | [sourceorigin-standard](https://crates.io/crates/sourceorigin-standard) | 0.1.0 | 0 | The engineering standard of piqueld, sourceorigin and DirkEngine as checks a re… |
+| 2026-11-25 09:31:21 | [dreamer-server](https://crates.io/crates/dreamer-server) | 0.11.0 | 0 | Headless Dreamer server |
+| 2026-11-25 09:32:18 | [aster_yggdrasil_protocol](https://crates.io/crates/aster_yggdrasil_protocol) | 0.1.0-alpha.1 | 0 | Project-agnostic Yggdrasil/authlib-injector protocol wire model and error state… |
+| 2026-11-25 09:33:22 | [ragon](https://crates.io/crates/ragon) | 0.0.1 | 0 | Name reserved for Ragon by Dreamference, a local, air-gapped agentic pair progr… |
+| 2026-11-25 09:33:25 | [ragon-admin](https://crates.io/crates/ragon-admin) | 0.0.1 | 0 | Name reserved for Ragon by Dreamference, a local, air-gapped agentic pair progr… |
+| 2026-11-25 09:33:27 | [dreamference](https://crates.io/crates/dreamference) | 0.0.1 | 0 | Name reserved for Ragon by Dreamference, a local, air-gapped agentic pair progr… |
+| 2026-11-25 09:33:30 | [ragon-code](https://crates.io/crates/ragon-code) | 0.0.1 | 0 | Name reserved for Ragon by Dreamference, a local, air-gapped agentic pair progr… |
+| 2026-11-25 09:33:32 | [ragon-docs](https://crates.io/crates/ragon-docs) | 0.0.1 | 0 | Name reserved for Ragon by Dreamference, a local, air-gapped agentic pair progr… |
+| 2026-11-25 09:35:24 | [evalsuite-cli](https://crates.io/crates/evalsuite-cli) | 0.8.5 | 0 | Command-line evaluation from CSV / TSV / JSON files with EvalSuite: classificat… |
+| 2026-11-25 09:42:32 | [rust-webx-apns](https://crates.io/crates/rust-webx-apns) | 2.9.2 | 0 | Apple Push Notification service (APNs) adapter for rust-webx push notifications |
+| 2026-11-25 09:42:40 | [rust-webx-fcm](https://crates.io/crates/rust-webx-fcm) | 2.9.2 | 0 | Firebase Cloud Messaging (FCM HTTP v1) adapter for rust-webx push notifications |
+| 2026-11-25 09:47:32 | [sylphx-migrate](https://crates.io/crates/sylphx-migrate) | 0.1.2 | 0 | PostgreSQL migration planning and execution for Sylphx. |
+| 2026-11-25 09:48:17 | [trend-following](https://crates.io/crates/trend-following) | 0.1.0 | 0 | Minimal core of systematic trend following: causal EWMA filters, closed-form no… |
+| 2026-11-25 09:54:21 | [koru-core](https://crates.io/crates/koru-core) | 0.1.0 | 0 | Koru 报文内核与跨层共享类型：HTTP/1.1 解析/序列化、错误模型、内部工具、连接上下文 |
+| 2026-11-25 09:54:45 | [koru-empty-gif](https://crates.io/crates/koru-empty-gif) | 0.1.0 | 0 | Koru 组件：1×1 透明 GIF 响应（Nginx ngx_http_empty_gif_module 的等价物） |
+| 2026-11-25 09:55:09 | [koru-h2](https://crates.io/crates/koru-h2) | 0.1.0 | 0 | Koru 的 HTTP/2 协议层（自研帧层与 HPACK 头部压缩，未接入门面，属进行中组件） |
+| 2026-11-25 09:55:31 | [koru-handler](https://crates.io/crates/koru-handler) | 0.1.0 | 0 | Koru 处理器层：Handler trait、impl_handler! 元组实现、ErasedHandler 与内置提取器 |
+| 2026-11-25 09:55:56 | [koru-mcp](https://crates.io/crates/koru-mcp) | 0.1.0 | 0 | Koru 组件:AI MCP 服务端(Model Context Protocol,Streamable HTTP,零第三方 SDK) |
+| 2026-11-25 10:04:18 | [hazard3-st7789v](https://crates.io/crates/hazard3-st7789v) | 0.8.0 | 0 | Async no_std ST7789V SPI display driver for the Hazard3 ecosystem, with optiona… |
+| 2026-11-25 10:05:25 | [koru-middleware](https://crates.io/crates/koru-middleware) | 0.1.0 | 0 | Koru 中间件链内核：Middleware / Next / Endpoint / map_request\|map_response / middlewar… |
+| 2026-11-25 10:05:47 | [dnsrank](https://crates.io/crates/dnsrank) | 0.2.0 | 0 | Benchmark DNS resolvers (UDP, DNS-over-TLS, DNS-over-HTTPS) from your own conne… |
+| 2026-11-25 10:11:57 | [issuewright](https://crates.io/crates/issuewright) | 0.1.0 | 0 | Starts one fresh Claude Code session per GitHub issue labeled dispatch:ready |
+| 2026-11-25 10:13:11 | [fse-rs](https://crates.io/crates/fse-rs) | 0.1.0 | 0 | Pure-Rust no_std port of Finite State Entropy (FSE) entropy coding |
+| 2026-11-25 10:13:30 | [libzstd](https://crates.io/crates/libzstd) | 0.1.0 | 0 | Pure-Rust 1:1 high-performance port of Meta's reference Zstandard library |
+| 2026-11-25 10:15:38 | [koru-addition](https://crates.io/crates/koru-addition) | 0.1.0 | 0 | Koru 组件：响应报体前后追加（Nginx ngx_http_addition_module 的等价物） |
+| 2026-11-25 10:16:09 | [opura](https://crates.io/crates/opura) | 0.2.6 | 0 | Opus encoder and decoder in safe Rust with zero dependencies and a WAV/Ogg Opus… |
+| 2026-11-25 10:19:04 | [computaco](https://crates.io/crates/computaco) | 0.0.1 | 0 | ComputaCo, from ComputaCo. This version holds the name; the real crate comes la… |
+| 2026-11-25 10:19:07 | [computatrum](https://crates.io/crates/computatrum) | 0.0.1 | 0 | Computatrum, from ComputaCo. This version holds the name; the real crate comes… |
+| 2026-11-25 10:19:09 | [computaco-core](https://crates.io/crates/computaco-core) | 0.0.1 | 0 | ComputaCo core, from ComputaCo. This version holds the name; the real crate com… |
+| 2026-11-25 10:19:10 | [computerworld](https://crates.io/crates/computerworld) | 0.0.1 | 0 | ComputerWorld, from ComputaCo. This version holds the name; the real crate come… |
 
 ## Data source
 
