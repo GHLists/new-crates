@@ -1,0 +1,19 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-25T05:19:58.441654Z,rustjay-laser,0.1.0,0,0,https://github.com/BlueJayLouche/rustjay-engine,Render MadMapper laser materials to 2D paths and stream them to a laser DAC
+2026-11-25T05:20:09.682165Z,strata-mica,0.1.0,0,0,https://github.com/strataui/mica,Unified Mica JavaScript runtime and ESM codegen facade for the Strata ecosystem
+2026-11-25T05:22:14.318432Z,wildgrass,1.0.0,0,0,https://github.com/wocstombs/wildgrass,Minimal terminal internet radio player with real-time song recognition and synchronized lyrics
+2026-11-25T05:25:29.896092Z,sorcerer,0.1.0,0,0,https://github.com/dukeofgaming/sorcerer,"A fluent, headless, local-first knowledge management CLI"
+2026-11-25T05:30:19.23978Z,rustjay-presets,0.1.0,0,0,https://github.com/BlueJayLouche/rustjay-engine,Preset save/load for rustjay-engine
+2026-11-25T05:36:27.194479Z,tessera-task-derive,0.4.3,0,0,https://github.com/kindlingai/tessera,#[derive(Task)] for tesserax task and command arguments
+2026-11-25T05:40:41.718211Z,rustjay-render,0.1.0,0,0,https://github.com/BlueJayLouche/rustjay-engine,wgpu rendering pipeline for rustjay-engine
+2026-11-25T05:47:49.272134Z,witforge-build,0.8.0,0,0,https://github.com/asamarts/witforge,"Build-script helper for compiling witforge-generated protobuf schemas with protox, prost-build, and optional pbjson-build."
+2026-11-25T05:51:01.07492Z,rustjay-mixer,0.1.0,0,0,https://github.com/BlueJayLouche/rustjay-engine,Multi-channel compositing mixer for rustjay-engine (Phase B3)
+2026-11-25T05:54:41.933687Z,rightkit-agent-task-journal,0.1.0,0,0,https://github.com/bogusyogi/rightkit,"The durable agent task journal over the job store: owner epoch fencing, restart recovery, event outbox, device-link request replay and the lane workers, with the product behind host traits."
+2026-11-25T05:56:38.394168Z,gs-quant-cli,0.1.1,0,0,https://github.com/bhubbard/gs-quant-skills-rs,"Pure Rust CLI for gs-quant skill management, local scenario pricing, realized volatility, and offline backtesting."
+2026-11-25T06:00:23.360241Z,istmo-dnd,0.1.1-alpha.7,0,0,https://github.com/SergioRibera/istmo,"Files dragged into the app from other apps for the istmo framework: Android and iOS drops as copies the app owns, Wayland drops (Flatpak included) and toolkit drops on desktop."
+2026-11-25T06:00:52.090405Z,istmo-webview,0.1.1-alpha.7,0,0,https://github.com/SergioRibera/istmo,"Cross-platform web view plugin for the istmo framework: embedded or windowed views, navigation rules, a JS bridge bound to origins, custom schemes, profiles and cookies behind one typed Rust surface."
+2026-11-25T06:01:08.081167Z,istmo-web-auth,0.1.1-alpha.7,0,0,https://github.com/SergioRibera/istmo,"Browser-based sign-in for the istmo framework: ASWebAuthenticationSession, Android Auth Tab / Custom Tabs and the system browser with a loopback or app-scheme callback, with PKCE and state checks."
+2026-11-25T06:01:23.151276Z,rustjay-engine,0.1.0,0,0,https://github.com/BlueJayLouche/rustjay-engine,High-performance cross-platform VJ engine
+2026-11-25T06:16:48.1034Z,x87-extended,0.1.0,0,0,https://github.com/jaydensmith/x87-extended,Software x87 80-bit extended-precision arithmetic and correctly rounded double-precision functions
+2026-11-25T06:18:28.804722Z,redactify,0.1.0,0,0,https://github.com/mrcuren/redactify,"Deterministic data-protection and policy layer for LLM and agent pipelines: checksum-validated PII detection (103 entity types across 26 locale packs + 89-country IBAN + VIN + crypto addresses), secr…"
+2026-11-25T06:18:33.65076Z,redactify-mcp,0.1.0,0,0,https://github.com/mrcuren/redactify,"MCP (Model Context Protocol) server for redactify: PII detection/redaction, rule-based guard checks, reversible pseudonymization vault and tool-call guard as agent tools, std-only, agent/operator tie…"

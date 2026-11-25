@@ -8,30 +8,32 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-25 05:19 UTC
+## Latest list — 2026-11-25 06:18 UTC
 
-New crates published between 2026-11-25 04:20 UTC and 2026-11-25 05:19 UTC.
+New crates published between 2026-11-25 05:19 UTC and 2026-11-25 06:18 UTC.
 
-[Full CSV](data/new-crates-2026-11-25T05-19-36-511238Z.csv)
+[Full CSV](data/new-crates-2026-11-25T06-18-45-406057Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-25 04:28:12 | [rustjay-isf](https://crates.io/crates/rustjay-isf) | 0.1.0 | 0 | ISF (Interactive Shader Format) support for rustjay-engine — GLSL→WGSL transpil… |
-| 2026-11-25 04:32:46 | [rustyman-game](https://crates.io/crates/rustyman-game) | 0.1.0 | 0 | A horror-twist terminal pacman-like game, with limited view. be careful of ghos… |
-| 2026-11-25 04:35:08 | [rightkit-profile](https://crates.io/crates/rightkit-profile) | 0.1.0 | 0 | The owner's profile for an assistant: entries in areas with source, true-from d… |
-| 2026-11-25 04:38:33 | [rustjay-projection](https://crates.io/crates/rustjay-projection) | 0.1.0 | 0 | Output post-processor for projection mapping — dome, warp, edge-blend, slicer |
-| 2026-11-25 04:39:54 | [lore-tui](https://crates.io/crates/lore-tui) | 0.4.9 | 0 | A terminal list of every command you can type (programs, shell builtins, aliase… |
-| 2026-11-25 04:48:51 | [rustjay-sync](https://crates.io/crates/rustjay-sync) | 0.1.0 | 0 | Sync & timing: Ableton Link, ProDJ Link, MTC |
-| 2026-11-25 04:51:12 | [clilab](https://crates.io/crates/clilab) | 1.0.0 | 0 | Macro to make cli creation easy. Also generates commands for help, version, and… |
-| 2026-11-25 04:52:13 | [synaps-sdk](https://crates.io/crates/synaps-sdk) | 0.1.0 | 0 | SDK для проектов synaps.art: HTTP-сервер с /health, база проекта SQLite, очеред… |
-| 2026-11-25 04:54:14 | [martin-vendored-cql2](https://crates.io/crates/martin-vendored-cql2) | 0.6.1 | 0 | Parse, validate, and convert Common Query Language (CQL2) text and JSON (vendor… |
-| 2026-11-25 04:55:33 | [rig-bridge](https://crates.io/crates/rig-bridge) | 0.47.1 | 0 | Other coding agents' CLIs as model providers for the Rig coding agent: Claude C… |
-| 2026-11-25 04:55:41 | [tc_ec_agreement](https://crates.io/crates/tc_ec_agreement) | 0.1.0 | 0 | Key agreement over elliptic curves after Bouncy Castle: ECDH, ECDHC, EC-MQV and… |
-| 2026-11-25 04:58:24 | [martin-ui](https://crates.io/crates/martin-ui) | 2.0.0-beta.8 | 0 | Prebuilt web UI of the Martin tile server, embedded as static files |
-| 2026-11-25 04:59:07 | [lagrange-content](https://crates.io/crates/lagrange-content) | 0.2.5 | 0 | Shared content contract for the lagrange ecosystem: frontmatter, document ids,… |
-| 2026-11-25 04:59:12 | [rustjay-api](https://crates.io/crates/rustjay-api) | 0.1.0 | 0 | Optional REST/OpenAPI layer for rustjay-engine |
-| 2026-11-25 05:00:06 | [rig-watch](https://crates.io/crates/rig-watch) | 0.47.1 | 0 | An optional rig-harness plugin: the agent says which files it waits on, and is… |
-| 2026-11-25 05:09:34 | [rustjay-gui](https://crates.io/crates/rustjay-gui) | 0.1.0 | 0 | ImGui control interface for rustjay-engine |
+| 2026-11-25 05:19:58 | [rustjay-laser](https://crates.io/crates/rustjay-laser) | 0.1.0 | 0 | Render MadMapper laser materials to 2D paths and stream them to a laser DAC |
+| 2026-11-25 05:20:09 | [strata-mica](https://crates.io/crates/strata-mica) | 0.1.0 | 0 | Unified Mica JavaScript runtime and ESM codegen facade for the Strata ecosystem |
+| 2026-11-25 05:22:14 | [wildgrass](https://crates.io/crates/wildgrass) | 1.0.0 | 0 | Minimal terminal internet radio player with real-time song recognition and sync… |
+| 2026-11-25 05:25:29 | [sorcerer](https://crates.io/crates/sorcerer) | 0.1.0 | 0 | A fluent, headless, local-first knowledge management CLI |
+| 2026-11-25 05:30:19 | [rustjay-presets](https://crates.io/crates/rustjay-presets) | 0.1.0 | 0 | Preset save/load for rustjay-engine |
+| 2026-11-25 05:36:27 | [tessera-task-derive](https://crates.io/crates/tessera-task-derive) | 0.4.3 | 0 | #[derive(Task)] for tesserax task and command arguments |
+| 2026-11-25 05:40:41 | [rustjay-render](https://crates.io/crates/rustjay-render) | 0.1.0 | 0 | wgpu rendering pipeline for rustjay-engine |
+| 2026-11-25 05:47:49 | [witforge-build](https://crates.io/crates/witforge-build) | 0.8.0 | 0 | Build-script helper for compiling witforge-generated protobuf schemas with prot… |
+| 2026-11-25 05:51:01 | [rustjay-mixer](https://crates.io/crates/rustjay-mixer) | 0.1.0 | 0 | Multi-channel compositing mixer for rustjay-engine (Phase B3) |
+| 2026-11-25 05:54:41 | [rightkit-agent-task-journal](https://crates.io/crates/rightkit-agent-task-journal) | 0.1.0 | 0 | The durable agent task journal over the job store: owner epoch fencing, restart… |
+| 2026-11-25 05:56:38 | [gs-quant-cli](https://crates.io/crates/gs-quant-cli) | 0.1.1 | 0 | Pure Rust CLI for gs-quant skill management, local scenario pricing, realized v… |
+| 2026-11-25 06:00:23 | [istmo-dnd](https://crates.io/crates/istmo-dnd) | 0.1.1-alpha.7 | 0 | Files dragged into the app from other apps for the istmo framework: Android and… |
+| 2026-11-25 06:00:52 | [istmo-webview](https://crates.io/crates/istmo-webview) | 0.1.1-alpha.7 | 0 | Cross-platform web view plugin for the istmo framework: embedded or windowed vi… |
+| 2026-11-25 06:01:08 | [istmo-web-auth](https://crates.io/crates/istmo-web-auth) | 0.1.1-alpha.7 | 0 | Browser-based sign-in for the istmo framework: ASWebAuthenticationSession, Andr… |
+| 2026-11-25 06:01:23 | [rustjay-engine](https://crates.io/crates/rustjay-engine) | 0.1.0 | 0 | High-performance cross-platform VJ engine |
+| 2026-11-25 06:16:48 | [x87-extended](https://crates.io/crates/x87-extended) | 0.1.0 | 0 | Software x87 80-bit extended-precision arithmetic and correctly rounded double-… |
+| 2026-11-25 06:18:28 | [redactify](https://crates.io/crates/redactify) | 0.1.0 | 0 | Deterministic data-protection and policy layer for LLM and agent pipelines: che… |
+| 2026-11-25 06:18:33 | [redactify-mcp](https://crates.io/crates/redactify-mcp) | 0.1.0 | 0 | MCP (Model Context Protocol) server for redactify: PII detection/redaction, rul… |
 
 ## Data source
 
