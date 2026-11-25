@@ -1,0 +1,53 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-25T17:18:52.600855Z,atlas-dmg,26.0.2-a,0,0,https://github.com/05Narwhal/atlas-dmg,"Read Apple disk images (UDIF .dmg): zlib, bzip2, LZFSE, LZMA and ADC chunks, plus a bounded property list parser."
+2026-11-25T17:18:54.136755Z,tilo-words,0.5.0,0,0,https://code.tilo.so/tilo/tilo,"What a declared name is called in a sentence: its words, one of it and several."
+2026-11-25T17:21:46.4282Z,mova,0.0.0,0,0,https://github.com/Kirky-X/mova,"A fast, reproducible software lifecycle manager for source builds, environments, and benchmark reports"
+2026-11-25T17:21:55.362738Z,agix-mcp,0.4.4,0,0,https://github.com/harnixai/Agix,"Agix — MCP client (server connection, tool adaptation, OAuth authorization)"
+2026-11-25T17:25:02.365661Z,petsitter,0.1.0,0,0,https://github.com/reremint/petsitter,"Walk all your AI coding agents on one leash: a live terminal view of every Claude Code, Codex and opencode session in a folder."
+2026-11-25T17:27:44.189124Z,supernsh-icons-heroicons,0.2.0,0,0,https://github.com/SuperNSH/icons,"HeroIcons icons for Native Shell (NSH) apps, in Rust and TSX, drawn by supernsh-icons"
+2026-11-25T17:28:07.51763Z,tessera-ir,0.1.0,0,0,https://github.com/Exploidus/tessera,Intermediate Representation and AST for Tessera tile-based compute
+2026-11-25T17:28:24.277996Z,tessera-backend-ptx,0.1.0,0,0,https://github.com/Exploidus/tessera,NVIDIA PTX assembly code generator for Tessera IR
+2026-11-25T17:28:34.345019Z,tessera-backend-spirv,0.1.0,0,0,https://github.com/Exploidus/tessera,Vulkan SPIR-V compute shader generator for vendor-agnostic GPUs
+2026-11-25T17:28:43.938931Z,tessera-backend-metal,0.1.0,0,0,https://github.com/Exploidus/tessera,Apple Silicon Metal Shading Language (MSL) code generator for Tessera
+2026-11-25T17:28:54.906318Z,tilolang,0.5.0,0,0,https://code.tilo.so/tilo/tilo,"Compiler for tilolang, the Tilo app language: parser, canonical printer, ids lock, type and effect checker, wasm backend and package metadata."
+2026-11-25T17:29:01.409704Z,jpeg,0.1.0,0,0,,Reserved for future use.
+2026-11-25T17:29:06.499359Z,tessera-runtime,0.1.0,0,0,https://github.com/Exploidus/tessera,JIT execution engine and hardware dispatch for Tessera
+2026-11-25T17:30:05.240433Z,libjpeg-rs,0.1.0,0,0,,Reserved for future use.
+2026-11-25T17:30:08.350843Z,atlas-bitlocker,26.0.2-a,0,0,https://github.com/05Narwhal/atlas-bitlocker,"Read BitLocker encrypted volumes: FVE metadata, password and recovery-password unlock, AES-XTS and AES-CBC sector decryption."
+2026-11-25T17:31:54.099709Z,agix-packages,0.4.4,0,0,https://github.com/harnixai/Agix,"Agix — plugin packages: manifest, discovery, cache, install"
+2026-11-25T17:38:08.348494Z,supernsh-icons-hugeicons,0.2.0,0,0,https://github.com/SuperNSH/icons,"Huge Icons icons for Native Shell (NSH) apps, in Rust and TSX, drawn by supernsh-icons"
+2026-11-25T17:38:19.989317Z,tessera-gpu,0.1.0,0,0,https://github.com/Exploidus/tessera,Tile-based GPU compute engine and JIT compiler
+2026-11-25T17:38:53.718451Z,tilo-content-types,0.5.0,0,0,https://code.tilo.so/tilo/tilo,Content descriptors and signature inspection without storage clients.
+2026-11-25T17:39:44.020888Z,koan-agent,0.1.0,0,0,https://github.com/AyhemKahriDev/koan,"The KOAN trace format: a hash-chained, append-only event log for AI agent runs, with offline verification."
+2026-11-25T17:39:49.828451Z,xds-tokens,0.1.0,0,0,https://github.com/kjmin-dev/xds,"The design tokens of the xds design system as a Rust value: a Theme, the default theme and the presets."
+2026-11-25T17:39:51.50613Z,xds-ui,0.1.0,0,0,https://github.com/kjmin-dev/xds,"The components of the xds design system for GPUI desktop apps, drawn from a theme the app registers."
+2026-11-25T17:40:31.050715Z,treat-rpc,0.26.1,0,0,https://github.com/volkagames/treat,Runtime for generated RPC services on treat: axum server and reqwest client helpers; use the treat crate's rpc-* features instead
+2026-11-25T17:40:37.856641Z,tree-sitter-todotxt,0.1.0,0,0,https://github.com/BafS/tree-sitter-todotxt,todo.txt grammar for tree-sitter
+2026-11-25T17:41:21.020125Z,atlas-udf,26.0.2-a,0,0,https://github.com/05Narwhal/atlas-udf,"Read UDF (ECMA-167, OSTA UDF 1.02 to 2.60) discs and images: metadata partitions, extended entries, sparse files."
+2026-11-25T17:41:32.761694Z,atlas-sparsebundle,26.0.2-a,0,0,https://github.com/05Narwhal/atlas-sparsebundle,Read Apple sparse bundle and sparse image disk images.
+2026-11-25T17:41:55.973271Z,agix-script-host,0.4.4,0,0,https://github.com/harnixai/Agix,"Agix — the script carrier: operator JavaScript bound to hook points, run in QuickJS with a per-turn quota and budget"
+2026-11-25T17:42:16.960674Z,hazard3-gy-bmi160,0.4.0,0,0,https://github.com/jorgeandrecastro/hazard3-gy-bmi160,"Async no_std I2C driver for the Bosch BMI160 IMU, designed for the Hazard3 ecosystem."
+2026-11-25T17:43:18.178622Z,rust_jpeg,0.1.0,0,0,,Reserved for future use.
+2026-11-25T17:48:01.792206Z,rudo-tui,1.0.0,0,0,https://github.com/Altrabeth/RuDo,A keyboard-driven terminal UI for todo lists stored as Markdown files
+2026-11-25T17:48:31.702045Z,supernsh-icons-iconoir,0.2.0,0,0,https://github.com/SuperNSH/icons,"Iconoir icons for Native Shell (NSH) apps, in Rust and TSX, drawn by supernsh-icons"
+2026-11-25T17:48:53.687246Z,tilo-failure,0.5.0,0,0,https://code.tilo.so/tilo/tilo,"A failure dropped on purpose, with the reason it may be: the reason is code, so tidying the comments around it never takes it away."
+2026-11-25T17:49:43.814087Z,build-time-insight,0.1.0,0,0,https://github.com/Harald-R/build-time-insight,Analyzer for Clang -ftime-trace build profiles
+2026-11-25T17:50:22.681521Z,betteroffice-fonts-cjk-kr,0.6.0,0,0,https://github.com/openooxml/betteroffice,Bundled cjk-kr font pack bytes for native font resolution
+2026-11-25T17:50:25.842338Z,betteroffice-fonts-cjk-serif-sc,0.6.0,0,0,https://github.com/openooxml/betteroffice,Bundled cjk-serif-sc font pack bytes for native font resolution
+2026-11-25T17:50:30.444724Z,betteroffice-fonts-cjk,0.6.0,0,0,https://github.com/openooxml/betteroffice,Bundled cjk font pack bytes for native font resolution
+2026-11-25T17:50:36.176479Z,betteroffice-fonts,0.6.0,0,0,https://github.com/openooxml/betteroffice,Font pack decoding with optional native font providers and family resolution
+2026-11-25T17:50:38.766657Z,betteroffice-base-latin,0.6.0,0,0,https://github.com/openooxml/betteroffice,"Built-in Latin, Greek, Cyrillic and symbol fallback fonts. Font data is licensed under OFL-1.1."
+2026-11-25T17:51:58.228401Z,agix-assembly,0.4.4,0,0,https://github.com/harnixai/Agix,"Agix — the assembly: modules into sessions, sessions into a pool, provider routing"
+2026-11-25T17:56:18.551096Z,betteroffice-ooxml-raster,0.6.0,0,0,https://github.com/openooxml/betteroffice,Shared tiny-skia helpers for OOXML raster backends.
+2026-11-25T17:58:53.486073Z,tilo-image-info,0.5.0,0,0,https://code.tilo.so/tilo/tilo,"What an image's own metadata says: its upright size, when it was taken, which way its pixels are turned, and where it was taken."
+2026-11-25T17:58:55.23672Z,supernsh-icons-ion,0.2.0,0,0,https://github.com/SuperNSH/icons,"IonIcons icons for Native Shell (NSH) apps, in Rust and TSX, drawn by supernsh-icons"
+2026-11-25T18:01:56.728884Z,agixd,0.4.4,0,0,https://github.com/harnixai/Agix,"agixd — the Agix agent engine as a daemon: sessions served over JSON-RPC 2.0 on a Unix socket, TCP or WebSocket"
+2026-11-25T18:06:10.624181Z,maple-sigstore-rekor,0.17.0-maple.1,0,0,https://github.com/MaplePrivacyLabs/sigstore-rust,Rekor transparency log client for Sigstore (Maple fork of sigstore-rekor 0.17.0 with P-384 Rekor v2 support)
+2026-11-25T18:06:13.153606Z,maple-sigstore-verify,0.17.0-maple.1,0,0,https://github.com/MaplePrivacyLabs/sigstore-rust,Sigstore signature verification (Maple fork of sigstore-verify 0.17.0 with P-384 Rekor v2 support)
+2026-11-25T18:08:53.606056Z,tilo-image-codec,0.5.0,0,0,https://code.tilo.so/tilo/tilo,"The one image codec boundary: format sniffing, decode, encode, pixel operations and the tone curve a picture is graded by, with the browser's own codecs on the web."
+2026-11-25T18:09:18.412944Z,supernsh-icons-line-md,0.2.0,0,0,https://github.com/SuperNSH/icons,"Material Line Icons icons for Native Shell (NSH) apps, in Rust and TSX, drawn by supernsh-icons"
+2026-11-25T18:11:54.820726Z,agix,0.4.4,0,0,https://github.com/harnixai/Agix,"Agix — embed an agent engine in a Rust process: session pool, turns, events, host tools, or the JSON-RPC protocol on any stream"
+2026-11-25T18:13:49.895254Z,shaul-dash,1.3.0,0,0,https://github.com/hushink/shaul,DASH parser and backend for shaul
+2026-11-25T18:14:00.494612Z,cargo-crap-core,0.2.0,0,0,https://github.com/minikin/cargo-crap,"Language-neutral CRAP scoring, coverage reading, delta and reports shared by cargo-crap and crapts"
+2026-11-25T18:14:07.398391Z,shaul-hls,1.3.0,0,0,https://github.com/hushink/shaul,HLS parser and backend for shaul
+2026-11-25T18:18:54.046292Z,tilo-seal,0.5.0,0,0,https://code.tilo.so/tilo/tilo,The one reviewed home for Tilo's public-key sealing (HPKE) and at-rest envelopes
