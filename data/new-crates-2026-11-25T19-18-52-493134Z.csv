@@ -1,0 +1,51 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-25T18:19:22.066149Z,halcyon-winit,0.30.12,0,0,https://github.com/halcyon-framework/halcyon,Temporary Halcyon Web input derivative of winit 0.30.12.
+2026-11-25T18:19:43.77429Z,supernsh-icons-logos,0.2.0,0,0,https://github.com/SuperNSH/icons,"SVG Logos icons for Native Shell (NSH) apps, in Rust and TSX, drawn by supernsh-icons"
+2026-11-25T18:20:36.434464Z,botcomm,0.20261125.1,0,0,https://github.com/botcomm/rust-client,Rust SDK for building BotComm bots
+2026-11-25T18:20:44.773771Z,reylo-engine-clickhouse,0.9.0,2,2,https://github.com/reylosql/reylo,"Reylo's analysis engine for ClickHouse: the server's own description of a statement's result, its nullability and nested shapes included, and its query tree, over the core's protocol."
+2026-11-25T18:20:56.984118Z,liblootz-derive,0.1.0,1,1,https://github.com/rustyhorde/lootz,Derive macro for the liblootz RollDetail trait
+2026-11-25T18:21:03.129911Z,liblootz,0.1.0,0,0,https://github.com/rustyhorde/lootz,"A configurable, tiered loot engine with pluggable memory, redb and SQLite stores"
+2026-11-25T18:24:50.935339Z,fanfic-scrapers-store,0.1.0,0,0,https://git.polarisocial.xyz/hirrolot19/fanfic-scrapers-store,Opt-in snapshot and extraction storage for fanfic-scrapers
+2026-11-25T18:25:18.85755Z,fanfic-scrapers-cli,0.1.0,0,0,https://git.polarisocial.xyz/hirrolot19/fanfic-scrapers-cli,Metadata and snapshot CLI for fanfic-scrapers
+2026-11-25T18:28:32.114778Z,hypermarkdown-lsp,0.1.0,0,0,https://github.com/ewiger/hypermarkdown,"hmd-lsp, the HyperMarkDown language server."
+2026-11-25T18:28:53.504507Z,tilo-selector,0.5.0,0,0,https://code.tilo.so/tilo/tilo,"Which resources a skill is for: resource kinds and conditions, as a value and as text."
+2026-11-25T18:30:07.29807Z,supernsh-icons-lucide,0.2.0,0,0,https://github.com/SuperNSH/icons,"Lucide icons for Native Shell (NSH) apps, in Rust and TSX, drawn by supernsh-icons"
+2026-11-25T18:31:04.26371Z,pgmem-ir,0.1.0,0,0,https://github.com/kaeawc/pgmem,Dialect-neutral statement tree that pgmem's parsers produce and its binder consumes.
+2026-11-25T18:31:04.924694Z,pgmem-types,0.1.0,0,0,https://github.com/kaeawc/pgmem,"Postgres type kit for pgmem: types, runtime values, SQLSTATE errors and wire codecs."
+2026-11-25T18:31:05.948185Z,pgmem-catalog,0.1.0,0,0,https://github.com/kaeawc/pgmem,"Schema metadata for pgmem: tables, columns, constraints, views, sequences."
+2026-11-25T18:31:06.440296Z,pgmem-parse,0.1.0,0,0,https://github.com/kaeawc/pgmem,"SQL text to pgmem-ir, using sqlparser's PostgreSQL dialect."
+2026-11-25T18:31:07.433828Z,pgmem-storage,0.1.0,0,0,https://github.com/kaeawc/pgmem,"In-memory row storage for pgmem with row-level transaction overlays, snapshots and savepoints."
+2026-11-25T18:34:26.324788Z,simdhtml,0.1.0,0,0,https://github.com/xbwwj/simdhtml,A blazing fast HTML parser powered by SIMD.
+2026-11-25T18:34:38.159367Z,simdsel,0.1.0,0,0,https://github.com/xbwwj/simdhtml,A blazing fast HTML selector powered by SIMD.
+2026-11-25T18:35:22.462384Z,volantis-db,0.1.0,0,0,https://github.com/volantis-labs/volantis-db,"In-process vector, lexical, and hybrid search for macOS and Apple silicon"
+2026-11-25T18:38:57.628695Z,lazyvespa,0.1.0,0,0,https://github.com/kriogenia/nespra,Terminal UI to query and operate Vespa deployments
+2026-11-25T18:40:30.205667Z,supernsh-icons-majesticons,0.2.0,0,0,https://github.com/SuperNSH/icons,"Majesticons icons for Native Shell (NSH) apps, in Rust and TSX, drawn by supernsh-icons"
+2026-11-25T18:41:26.288413Z,volantis-db-text,0.1.0,0,0,https://github.com/volantis-labs/volantis-db,Local text embedding and retrieval for Volantis DB on macOS and Apple silicon
+2026-11-25T18:50:45.753025Z,estus-mcp,0.1.0,0,0,https://github.com/aw1cks/estus,"Stdio MCP server that gives AI agents structured, policy-gated Linux operations over your own SSH"
+2026-11-25T18:50:54.737785Z,supernsh-icons-material-symbols,0.2.0,0,0,https://github.com/SuperNSH/icons,"Material Symbols icons for Native Shell (NSH) apps, in Rust and TSX, drawn by supernsh-icons"
+2026-11-25T19:01:19.858671Z,supernsh-icons-mdi,0.2.0,0,0,https://github.com/SuperNSH/icons,"Material Design Icons icons for Native Shell (NSH) apps, in Rust and TSX, drawn by supernsh-icons"
+2026-11-25T19:02:18.567057Z,ferrum-macro,0.1.0,0,0,https://github.com/ARtorias742/RUST_Frontend_Framework,Proc macros for Ferrum: #[component] and rsx!
+2026-11-25T19:02:26.850411Z,ferrum-rs-core,0.1.0,0,0,https://github.com/ARtorias742/RUST_Frontend_Framework,"Core IR (VNode), components, props, keys and events for the Ferrum frontend framework"
+2026-11-25T19:03:05.494464Z,near-contract-sim,0.3.0-rc.1,0,0,https://github.com/near/near-contract-sim,In-process NEAR contract simulator driven by nearcore's own Runtime::apply over an in-memory trie
+2026-11-25T19:03:20.742178Z,dfui-map,0.2.0,0,0,https://github.com/LuisAyuso/dfui,"Experimental pannable, zoomable vector map widget for dfui"
+2026-11-25T19:03:21.025578Z,dfui-media,0.2.0,0,0,https://github.com/LuisAyuso/dfui,Experimental hardware-decoded video widget for dfui
+2026-11-25T19:03:28.16605Z,ferrum-reconciler,0.1.0,0,0,https://github.com/ARtorias742/RUST_Frontend_Framework,Keyed children diffing planner for the Ferrum frontend framework
+2026-11-25T19:03:34.777642Z,ferrum-styling,0.1.0,0,0,https://github.com/ARtorias742/RUST_Frontend_Framework,"Scoped CSS, design tokens and theming for Ferrum"
+2026-11-25T19:03:37.00791Z,tensorloom,0.0.1,0,0,https://github.com/saad440/tensorloom,Rust Library for Tensor Network Calculations
+2026-11-25T19:05:57.801259Z,pulgamecanica-fast42,0.1.0,0,0,https://github.com/pulgamecanica/fast42-rs,A super fast 42API connector 🚀
+2026-11-25T19:06:21.90151Z,ferrum-rs-router,0.1.0,0,0,https://github.com/ARtorias742/RUST_Frontend_Framework,"Declarative router for Ferrum: nested layouts, params, redirects, pluggable history"
+2026-11-25T19:06:53.100531Z,nomux-proto,0.1.0,0,0,https://github.com/nomux-sh/proto,The nomux wire protocol: control messages and the terminal frame header
+2026-11-25T19:11:44.926027Z,supernsh-icons-mingcute,0.2.0,0,0,https://github.com/SuperNSH/icons,"MingCute Icon icons for Native Shell (NSH) apps, in Rust and TSX, drawn by supernsh-icons"
+2026-11-25T19:13:04.15366Z,tilo-socket,0.5.0,0,0,https://code.tilo.so/tilo/tilo,"Local sockets named by a path of any length: Unix-domain sockets where the kernel's fixed path buffer would refuse a deep profile or state root, and named pipes kept to one account on Windows."
+2026-11-25T19:13:07.609859Z,tilo-files,0.5.0,0,0,https://code.tilo.so/tilo/tilo,"Files inside capability-scoped roots on Linux, macOS and the web: crash-safe replacement, no-clobber creation and renames, advisory locks, and the browser's origin-private file system."
+2026-11-25T19:13:11.16993Z,tilo-content,0.5.0,0,0,https://code.tilo.so/tilo/tilo,"Content-addressed binary storage for apps: the explicit, secondary alternative to versioned resources"
+2026-11-25T19:13:12.977219Z,ferrum-data,0.1.0,0,0,https://github.com/ARtorias742/RUST_Frontend_Framework,Data fetching/caching for Ferrum: QueryClient + use_query (React Query-lite)
+2026-11-25T19:13:14.013907Z,tilo-sort,0.5.0,0,0,https://code.tilo.so/tilo/tilo,"Stable slice sorting compiled once for every call site, instead of a copy of std's sort for every comparator."
+2026-11-25T19:15:29.656904Z,octara-fonts,0.0.1,0,0,https://github.com/octoii-works/octara,Fonts for deterministic tests and screenshots beyond the bundled Latin faces: a CJK subset of Noto Sans SC.
+2026-11-25T19:15:31.766876Z,octara-macros,0.0.1,0,0,https://github.com/octoii-works/octara,Octara component provenance and store field lens macros.
+2026-11-25T19:15:32.978252Z,octara-model,0.0.1,0,0,https://github.com/octoii-works/octara,Shared Octara values and host protocols.
+2026-11-25T19:15:33.929665Z,octara-release,0.0.1,0,0,https://github.com/octoii-works/octara,Signed native resource releases and startup recovery for Octara apps.
+2026-11-25T19:15:36.47839Z,octara-render,0.0.1,0,0,https://github.com/octoii-works/octara,Renderers for Octara's display list: a deterministic CPU reference renderer (screenshots) and a wgpu renderer.
+2026-11-25T19:16:00.69967Z,gsim-samples,0.1.0,0,0,,"The .gsim_samples container: a solver writes a run to it in one streaming pass, and a reader takes a few signals over a time window at a screen's resolution without loading the run."
+2026-11-25T19:16:09.774639Z,rsx_html_macros,0.1.0,0,0,,Procedural macro implementation for rsx_html.
+2026-11-25T19:16:10.211436Z,rsx_html,0.1.0,0,0,,Render HTML-like RSX markup to escaped HTML strings.
