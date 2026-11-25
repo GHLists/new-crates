@@ -8,41 +8,34 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-25 01:22 UTC
+## Latest list — 2026-11-25 02:18 UTC
 
-New crates published between 2026-11-25 00:21 UTC and 2026-11-25 01:22 UTC.
+New crates published between 2026-11-25 01:22 UTC and 2026-11-25 02:18 UTC.
 
-[Full CSV](data/new-crates-2026-11-25T01-22-12-164922Z.csv)
+[Full CSV](data/new-crates-2026-11-25T02-18-54-090555Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-25 00:21:34 | [pinc-dtn](https://crates.io/crates/pinc-dtn) | 0.1.0 | 0 | PINC delay-tolerant delivery: one-shot hybrid encryption, bundles of verifiable… |
-| 2026-11-25 00:28:55 | [engraver-core](https://crates.io/crates/engraver-core) | 0.1.0 | 0 | Core library for Engraver disk imaging tool |
-| 2026-11-25 00:28:56 | [engraver-detect](https://crates.io/crates/engraver-detect) | 0.1.0 | 0 | Safe drive detection and enumeration for Engraver |
-| 2026-11-25 00:28:56 | [engraver-platform](https://crates.io/crates/engraver-platform) | 0.1.0 | 0 | Platform-specific raw device I/O for Engraver |
-| 2026-11-25 00:32:49 | [pinc-reconcile](https://crates.io/crates/pinc-reconcile) | 0.1.0 | 0 | PINC set reconciliation by range fingerprints: the cost scales with the differe… |
-| 2026-11-25 00:41:14 | [yaga-core](https://crates.io/crates/yaga-core) | 0.6.0 | 0 | Deterministic Git, commit, workflow, pull-request, and repository policy checks… |
-| 2026-11-25 00:41:16 | [yaga-cli](https://crates.io/crates/yaga-cli) | 0.6.0 | 0 | Standalone CLI for deterministic commit, pull-request, workflow, and repository… |
-| 2026-11-25 00:41:39 | [iso-types-macros](https://crates.io/crates/iso-types-macros) | 0.1.1 | 0 | ISO catalog subset and configured locale enum macros |
-| 2026-11-25 00:41:42 | [iso-types](https://crates.io/crates/iso-types) | 0.1.1 | 0 | Typed ISO, geographic, and regional catalogs with optional ICU4X, Jiff, and es-… |
-| 2026-11-25 00:41:44 | [iso-types-locations](https://crates.io/crates/iso-types-locations) | 0.1.1 | 0 | Pinned UN/LOCODE directory with typed countries and source-preserving location… |
-| 2026-11-25 00:43:02 | [alcott](https://crates.io/crates/alcott) | 0.1.0 | 0 | Speed-focused local markdown writing app (TUI + CLI) |
-| 2026-11-25 00:43:56 | [homogeneous-fields-derive](https://crates.io/crates/homogeneous-fields-derive) | 0.1.1 | 0 | Derive macro for homogeneous-fields |
-| 2026-11-25 00:44:05 | [homogeneous-fields](https://crates.io/crates/homogeneous-fields) | 0.1.1 | 0 | Traits and derive macros for iterating over homogeneous struct fields |
-| 2026-11-25 00:44:15 | [pinc-security](https://crates.io/crates/pinc-security) | 0.1.0 | 0 | PINC hybrid post-quantum handshake as a SANS-IO state machine, with the key sch… |
-| 2026-11-25 00:46:31 | [pkl-doc](https://crates.io/crates/pkl-doc) | 0.32.0-rc.3 | 0 | HTML documentation generator (`pkldoc`) for Pkl 0.32.0 |
-| 2026-11-25 00:46:53 | [pkl-cli](https://crates.io/crates/pkl-cli) | 0.32.0-rc.3 | 0 | Product `pkl` CLI binary for Apple Pkl 0.32.0 |
-| 2026-11-25 00:47:40 | [rpi-mcp-server](https://crates.io/crates/rpi-mcp-server) | 0.1.1 | 0 | MCP server adapter exposing rpi agent capabilities |
-| 2026-11-25 00:50:52 | [mirab](https://crates.io/crates/mirab) | 0.2.2 | 0 | Rust client for mirab: run and control agents in VMs on your own machine, throu… |
-| 2026-11-25 00:55:28 | [pinc-keystore](https://crates.io/crates/pinc-keystore) | 0.1.0 | 0 | PINC key storage for long-term keys: a software key store and, behind the hwenc… |
-| 2026-11-25 00:57:28 | [nitrolean](https://crates.io/crates/nitrolean) | 0.1.0-alpha.1 | 0 | An independent Lean 4 proof checker in Rust |
-| 2026-11-25 01:02:42 | [tokeira-clock](https://crates.io/crates/tokeira-clock) | 0.8.0 | 0 | The wall clock the Tokeira durable execution engine reads the current time from |
-| 2026-11-25 01:04:08 | [facial-geometry](https://crates.io/crates/facial-geometry) | 0.1.0 | 0 | Pure-math facial landmark geometry library for canthal tilt, facial thirds, gol… |
-| 2026-11-25 01:06:48 | [pinc-transport](https://crates.io/crates/pinc-transport) | 0.1.0 | 0 | PINC transport (PINCER): packets, frames, streams, datagrams, flow control, los… |
-| 2026-11-25 01:07:32 | [teasar](https://crates.io/crates/teasar) | 0.1.0 | 0 | TEASAR skeletonisation of villa's surface-track slabs, with a Metal backend for… |
-| 2026-11-25 01:12:12 | [emb-momentary-rs](https://crates.io/crates/emb-momentary-rs) | 0.1.0 | 0 | Momentary-contact switch management in Rust for embedded contexts and WASM |
-| 2026-11-25 01:18:08 | [pinc-core](https://crates.io/crates/pinc-core) | 0.1.0 | 0 | PINC endpoint: a SANS-IO table of connections with demultiplexing, an amplifica… |
-| 2026-11-25 01:21:08 | [convo-safe](https://crates.io/crates/convo-safe) | 0.1.0 | 0 | Reversible prompt redaction backed by a local encrypted Keybox |
+| 2026-11-25 01:26:26 | [yuktai](https://crates.io/crates/yuktai) | 0.1.1 | 0 | YuktAI's Rust engines: Telugu and Indic-aware search (BM25, int8 vectors, hybri… |
+| 2026-11-25 01:29:29 | [pinc-values](https://crates.io/crates/pinc-values) | 0.1.0 | 0 | PINC verified streaming of values of any size from one or many providers: the w… |
+| 2026-11-25 01:32:15 | [natwg](https://crates.io/crates/natwg) | 0.2.0 | 0 | Reach a home LAN over WireGuard from behind carrier-grade NAT |
+| 2026-11-25 01:40:51 | [pinc-connect](https://crates.io/crates/pinc-connect) | 0.1.0 | 0 | PINC connectivity: the secured relay carrier, its frame codec, and the relay-si… |
+| 2026-11-25 01:42:14 | [headwater-api](https://crates.io/crates/headwater-api) | 0.7.0 | 0 | One load of a corpus as a value, which the headwater binary and every in-proces… |
+| 2026-11-25 01:42:22 | [blunderbuss](https://crates.io/crates/blunderbuss) | 0.1.1 | 0 | The non-toxic LLM coding harness. The major LLM coding harnesses are dark patte… |
+| 2026-11-25 01:52:01 | [hanafubuki](https://crates.io/crates/hanafubuki) | 0.1.1 | 0 | Prepares, updates, and starts Hanafubuki |
+| 2026-11-25 01:52:16 | [pinc-node](https://crates.io/crates/pinc-node) | 0.1.0 | 0 | PINC node: the endpoint, the connectivity client, membership, broadcast, values… |
+| 2026-11-25 01:58:20 | [adopted](https://crates.io/crates/adopted) | 0.1.0 | 0 | adOPTed operational transformation for collaborative text editing |
+| 2026-11-25 01:59:35 | [cargo-cbom](https://crates.io/crates/cargo-cbom) | 0.1.0 | 0 | Post-quantum readiness check and CycloneDX Cryptography Bill of Materials (CBOM… |
+| 2026-11-25 02:00:55 | [mlx-d1-gestures-rs](https://crates.io/crates/mlx-d1-gestures-rs) | 0.1.0 | 0 | Pure-Rust Apple Silicon MLX port of mlx-d1-gestures: live webcam hand gesture,… |
+| 2026-11-25 02:00:59 | [tufazip-arith](https://crates.io/crates/tufazip-arith) | 0.2.1 | 0 | Reference 32-bit range arithmetic coder, bit streams, and frequency quantizatio… |
+| 2026-11-25 02:01:01 | [tufazip-preprocess](https://crates.io/crates/tufazip-preprocess) | 0.2.1 | 0 | Pure-Rust port of Fabrice Bellard's NNCP dictionary-based text preprocessor |
+| 2026-11-25 02:01:03 | [tufazip-prior](https://crates.io/crates/tufazip-prior) | 0.2.1 | 0 | Reader, writer, and depth/loop prior validator for tufazip quantized weight arc… |
+| 2026-11-25 02:01:12 | [gs-quant-core](https://crates.io/crates/gs-quant-core) | 0.1.1 | 0 | Pure Rust offline pricing, scenario, realized volatility, risk measures, and st… |
+| 2026-11-25 02:02:54 | [tufazip-codec](https://crates.io/crates/tufazip-codec) | 0.2.1 | 0 | Neural Transformer arithmetic codec, online Adam trainer, prefix replay, and ch… |
+| 2026-11-25 02:03:40 | [pinc](https://crates.io/crates/pinc) | 0.1.0 | 0 | PINC: Next-gen peer-to-peer networking stack |
+| 2026-11-25 02:05:31 | [ash-laevatain](https://crates.io/crates/ash-laevatain) | 0.38.0+1.4.352 | 0 | Vulkan bindings for Rust: trimmed fork of ash keeping only modern Vulkan (dynam… |
+| 2026-11-25 02:13:25 | [rushdown-alert](https://crates.io/crates/rushdown-alert) | 0.1.0 | 0 | GitHub style alert blocks extension for rushdown markdown parser |
+| 2026-11-25 02:15:04 | [pinc-sim](https://crates.io/crates/pinc-sim) | 0.1.0 | 0 | PINC deterministic network simulator for tests and benches: virtual time, links… |
 
 ## Data source
 

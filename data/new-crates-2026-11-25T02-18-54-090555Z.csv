@@ -1,0 +1,21 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-25T01:26:26.439814Z,yuktai,0.1.1,0,0,https://github.com/sandeep-miriyala/yuktai,"YuktAI's Rust engines: Telugu and Indic-aware search (BM25, int8 vectors, hybrid ranking) and a grid engine that sorts and searches 10 lakh rows. No dependencies; the same code runs in browsers as We…"
+2026-11-25T01:29:29.318868Z,pinc-values,0.1.0,0,0,https://github.com/sourcenetwork/pinc,"PINC verified streaming of values of any size from one or many providers: the wire, the multi-provider fetcher, the zero-copy server and the incremental group verifier"
+2026-11-25T01:32:15.493593Z,natwg,0.2.0,0,0,https://github.com/hackerchai/natwg,Reach a home LAN over WireGuard from behind carrier-grade NAT
+2026-11-25T01:40:51.395079Z,pinc-connect,0.1.0,0,0,https://github.com/sourcenetwork/pinc,"PINC connectivity: the secured relay carrier, its frame codec, and the relay-side state machines (sessions, forwarding, records, lookup, address discovery, hub tunnel, sleep notices and the mailbox)"
+2026-11-25T01:42:14.983601Z,headwater-api,0.7.0,0,0,https://github.com/headwater-ai/headwater,"One load of a corpus as a value, which the headwater binary and every in-process caller share. No clap and no network"
+2026-11-25T01:42:22.987801Z,blunderbuss,0.1.1,0,0,https://github.com/blainehansen/blunderbuss,The non-toxic LLM coding harness. The major LLM coding harnesses are dark patterns all the way down. Blunderbuss is designed as if your safety and cognition actually matter.
+2026-11-25T01:52:01.445091Z,hanafubuki,0.1.1,0,0,https://github.com/licyk/Hanafubuki,"Prepares, updates, and starts Hanafubuki"
+2026-11-25T01:52:16.433945Z,pinc-node,0.1.0,0,0,https://github.com/sourcenetwork/pinc,"PINC node: the endpoint, the connectivity client, membership, broadcast, values, reconcile and delay-tolerant delivery composed over real sessions as one SANS-IO state machine"
+2026-11-25T01:58:20.986472Z,adopted,0.1.0,0,0,,adOPTed operational transformation for collaborative text editing
+2026-11-25T01:59:35.383741Z,cargo-cbom,0.1.0,0,0,https://github.com/Senturkselim/cargo-cbom,Post-quantum readiness check and CycloneDX Cryptography Bill of Materials (CBOM) for Rust projects
+2026-11-25T02:00:55.491988Z,mlx-d1-gestures-rs,0.1.0,0,0,https://github.com/bhubbard/mlx-d1-gestures-rs,"Pure-Rust Apple Silicon MLX port of mlx-d1-gestures: live webcam hand gesture, facial expression, and bounding-box recognition in one zero-token forward pass using LiquidAI/d1-2B"
+2026-11-25T02:00:59.908744Z,tufazip-arith,0.2.1,0,0,https://github.com/bhubbard/tufazip-rs,"Reference 32-bit range arithmetic coder, bit streams, and frequency quantization for tufazip"
+2026-11-25T02:01:01.774454Z,tufazip-preprocess,0.2.1,0,0,https://github.com/bhubbard/tufazip-rs,Pure-Rust port of Fabrice Bellard's NNCP dictionary-based text preprocessor
+2026-11-25T02:01:03.769658Z,tufazip-prior,0.2.1,0,0,https://github.com/bhubbard/tufazip-rs,"Reader, writer, and depth/loop prior validator for tufazip quantized weight archives (QPI1/QPR1/LRA1/QLA1)"
+2026-11-25T02:01:12.718936Z,gs-quant-core,0.1.1,0,0,https://github.com/bhubbard/gs-quant-skills-rs,"Pure Rust offline pricing, scenario, realized volatility, risk measures, and stateful backtesting engine modeled on Goldman Sachs gs-quant."
+2026-11-25T02:02:54.898756Z,tufazip-codec,0.2.1,0,0,https://github.com/bhubbard/tufazip-rs,"Neural Transformer arithmetic codec, online Adam trainer, prefix replay, and checkpointing for tufazip"
+2026-11-25T02:03:40.161342Z,pinc,0.1.0,0,0,https://github.com/sourcenetwork/pinc,PINC: Next-gen peer-to-peer networking stack
+2026-11-25T02:05:31.812455Z,ash-laevatain,0.38.0+1.4.352,0,0,https://github.com/YzK0741/ash-laevatain,"Vulkan bindings for Rust: trimmed fork of ash keeping only modern Vulkan (dynamic rendering, descriptor heap, mesh shaders, synchronization2)"
+2026-11-25T02:13:25.09332Z,rushdown-alert,0.1.0,0,0,https://github.com/yuin/rushdown-alert,GitHub style alert blocks extension for rushdown markdown parser
+2026-11-25T02:15:04.533199Z,pinc-sim,0.1.0,0,0,https://github.com/sourcenetwork/pinc,"PINC deterministic network simulator for tests and benches: virtual time, links, NAT, faults, adversaries"
