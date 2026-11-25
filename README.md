@@ -8,49 +8,55 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-25 22:20 UTC
+## Latest list — 2026-11-25 23:18 UTC
 
-New crates published between 2026-11-25 21:18 UTC and 2026-11-25 22:20 UTC.
+New crates published between 2026-11-25 22:20 UTC and 2026-11-25 23:18 UTC.
 
-[Full CSV](data/new-crates-2026-11-25T22-20-16-875562Z.csv)
+[Full CSV](data/new-crates-2026-11-25T23-18-22-453961Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-25 21:19:47 | [weirdnet-exchange](https://crates.io/crates/weirdnet-exchange) | 0.1.0 | 0 | Weirdnet exchange types and traits: instruments, exact decimal prices and sizes… |
-| 2026-11-25 21:20:59 | [citop](https://crates.io/crates/citop) | 0.1.0 | 0 | Interactive CI pipeline viewer |
-| 2026-11-25 21:28:56 | [quic-net](https://crates.io/crates/quic-net) | 0.6.0 | 0 | QUIC transport for Rust over the UDP socket of net-io: connections, streams, lo… |
-| 2026-11-25 21:29:10 | [fastauth-macros](https://crates.io/crates/fastauth-macros) | 0.1.0 | 0 | Derive macros for fastauth: Fields, Model and AuthError. |
-| 2026-11-25 21:29:12 | [fastauth-core](https://crates.io/crates/fastauth-core) | 0.1.0 | 0 | Core of fastauth: the builder, plugin system, sessions, crypto and routing. |
-| 2026-11-25 21:29:15 | [fastauth-axum](https://crates.io/crates/fastauth-axum) | 0.1.0 | 0 | axum integration for fastauth: the auth router, session extractors and a sessio… |
-| 2026-11-25 21:29:15 | [fastauth-cli](https://crates.io/crates/fastauth-cli) | 0.1.0 | 0 | The fastauth command: generates secrets. Schema and migration commands live in… |
-| 2026-11-25 21:29:16 | [fastauth-oauth](https://crates.io/crates/fastauth-oauth) | 0.1.0 | 0 | Social sign-in for fastauth: the Social plugin, OAuth providers and the outgoin… |
-| 2026-11-25 21:34:35 | [fastauth-sqlx](https://crates.io/crates/fastauth-sqlx) | 0.1.0 | 0 | sqlx adapter for fastauth: Postgres and SQLite, with migrations. |
-| 2026-11-25 21:38:21 | [llama-cpp-decision](https://crates.io/crates/llama-cpp-decision) | 0.32.0 | 0 | Answers questions with llama.cpp's typed decision models through llama.cpp's ow… |
-| 2026-11-25 21:38:24 | [llama-cpp-model-capabilities](https://crates.io/crates/llama-cpp-model-capabilities) | 0.32.0 | 0 | Detects, once, what a loaded llama.cpp model can serve and how its contexts mus… |
-| 2026-11-25 21:43:18 | [agentkit-provider-gemini](https://crates.io/crates/agentkit-provider-gemini) | 0.11.0 | 0 | Google Gemini API provider adapter for agentkit. |
-| 2026-11-25 21:44:45 | [fastauth-plugin-two-factor](https://crates.io/crates/fastauth-plugin-two-factor) | 0.1.0 | 0 | Two-factor authentication for fastauth: TOTP, email codes, backup codes and tru… |
-| 2026-11-25 21:50:56 | [rust-glass](https://crates.io/crates/rust-glass) | 0.1.0 | 0 | GPU rendered Liquid Glass style UI framework with an immediate mode API |
-| 2026-11-25 21:54:59 | [fastauth](https://crates.io/crates/fastauth) | 0.1.0 | 0 | Authentication for Rust web apps, modelled on Better Auth: sessions, email and… |
-| 2026-11-25 21:58:24 | [uddf](https://crates.io/crates/uddf) | 0.1.0 | 0 | Lenient reader and schema-order writer for UDDF (Universal Dive Data Format) 3.… |
-| 2026-11-25 22:01:19 | [nomux-extension](https://crates.io/crates/nomux-extension) | 0.1.0 | 0 | The nomux extension SDK: the daemon part of an extension and the extension mani… |
-| 2026-11-25 22:01:19 | [divejson](https://crates.io/crates/divejson) | 0.1.0 | 0 | Read, write and validate DiveJSON, the open dive-log interchange format |
-| 2026-11-25 22:01:33 | [ontomark-write](https://crates.io/crates/ontomark-write) | 0.1.0 | 0 | The headless write engine for ontomark working-memory pages: one validated, los… |
-| 2026-11-25 22:04:09 | [cw-snapshot-derive](https://crates.io/crates/cw-snapshot-derive) | 0.3.0 | 0 | Derive macros for cw-snapshot's Encode, Decode and Describe |
-| 2026-11-25 22:04:47 | [skytwin-core](https://crates.io/crates/skytwin-core) | 0.1.0 | 0 | Synthetic star-field images with satellite streaks, instrument defects and an e… |
-| 2026-11-25 22:04:58 | [skytwin-cli](https://crates.io/crates/skytwin-cli) | 0.1.0 | 0 | Synthetic star-field images with satellite streaks, instrument defects and an e… |
-| 2026-11-25 22:05:02 | [aurelin-assist](https://crates.io/crates/aurelin-assist) | 0.4.1 | 0 | Local AI development context and debugging tools for Aurelin |
-| 2026-11-25 22:05:03 | [aurelin-sanctum](https://crates.io/crates/aurelin-sanctum) | 0.4.1 | 0 | Personal access token primitives for Aurelin |
-| 2026-11-25 22:05:04 | [divecomputer-core](https://crates.io/crates/divecomputer-core) | 0.1.0 | 0 | Shared building blocks for dive computer protocols: checksums, framing and the… |
-| 2026-11-25 22:08:28 | [printhor-async-gcode](https://crates.io/crates/printhor-async-gcode) | 0.4.0 | 0 | An async gcode parser for no_std targets (Printhor fork of async-gcode). |
-| 2026-11-25 22:11:58 | [cw-snapshot](https://crates.io/crates/cw-snapshot) | 0.3.0 | 0 | ComputerWorld's portable snapshot format: a schema'd binary encoding read by fi… |
-| 2026-11-25 22:16:29 | [text-to-speech](https://crates.io/crates/text-to-speech) | 0.1.0 | 0 | Real-time, on-device text to speech: Piper VITS voices on burn, native CPU. Fir… |
-| 2026-11-25 22:17:07 | [tilo-formats](https://crates.io/crates/tilo-formats) | 0.5.0 | 0 | Dates, times and clocks as the person set them: the format styles and their ren… |
-| 2026-11-25 22:17:11 | [tilo-recurrence](https://crates.io/crates/tilo-recurrence) | 0.5.0 | 0 | RFC 5545 recurrence rules shared by Tilo apps and the language runtime: RRULE/E… |
-| 2026-11-25 22:17:15 | [tilo-reference](https://crates.io/crates/tilo-reference) | 0.5.0 | 0 | Addresses of things in documents: a selection in any app carried as a resource… |
-| 2026-11-25 22:17:19 | [tilo-sheet](https://crates.io/crates/tilo-sheet) | 0.5.0 | 0 | A spreadsheet's engine: the cells as typed, the values formulas compute, the fo… |
-| 2026-11-25 22:17:24 | [tilo-wasm-aot](https://crates.io/crates/tilo-wasm-aot) | 0.5.0 | 0 | Wasmtime modules compiled ahead of time for a device: the engine configuration… |
-| 2026-11-25 22:18:54 | [tilo-wasm-host](https://crates.io/crates/tilo-wasm-host) | 0.5.0 | 0 | The wasm host layer every guest in Tilo executes on: per-call fuel, memory and… |
-| 2026-11-25 22:19:16 | [ra-ap-rustc_unicode](https://crates.io/crates/ra-ap-rustc_unicode) | 0.1.0 | 0 | Automatically published version of the package `rustc_unicode` in the rust-lang… |
+| 2026-11-25 22:20:18 | [utopia-php-std](https://crates.io/crates/utopia-php-std) | 0.1.0 | 0 | PHP engine semantics (the value model, juggling and comparison, string, number,… |
+| 2026-11-25 22:20:37 | [cw-modules](https://crates.io/crates/cw-modules) | 0.3.0 | 0 | What a lazy build fetches on first use: the module host, the modules a step ran… |
+| 2026-11-25 22:22:15 | [solvemyastro](https://crates.io/crates/solvemyastro) | 0.3.0 | 0 | Standalone astrometric plate solver — precise WCS with SIP distortion. Rust lib… |
+| 2026-11-25 22:26:36 | [scrios](https://crates.io/crates/scrios) | 0.1.0 | 0 | The screen of an iOS device as an H.264 or HEVC stream, with touch and keys, ov… |
+| 2026-11-25 22:28:09 | [day-piece-webdav-settings](https://crates.io/crates/day-piece-webdav-settings) | 0.0.1 | 0 | Part of Day, which builds native apps from one Rust codebase. This placeholder… |
+| 2026-11-25 22:28:54 | [tilo-wire-frame](https://crates.io/crates/tilo-wire-frame) | 0.5.0 | 0 | Length-prefixed, newline-delimited and server-sent event framing for byte strea… |
+| 2026-11-25 22:30:16 | [cw-packages](https://crates.io/crates/cw-packages) | 0.3.0 | 0 | The application catalog: every application a world may install as a package man… |
+| 2026-11-25 22:34:02 | [completype-vector](https://crates.io/crates/completype-vector) | 0.2.4 | 0 | Quantised vector encoding and nearest-neighbour search under a mask, used by co… |
+| 2026-11-25 22:36:30 | [provkit](https://crates.io/crates/provkit) | 0.1.0 | 0 | W3C PROV data model with PROV-JSON and PROV-N read and write |
+| 2026-11-25 22:36:40 | [provkit-cli](https://crates.io/crates/provkit-cli) | 0.1.0 | 0 | Command-line tool to convert and compare W3C PROV documents |
+| 2026-11-25 22:38:54 | [tilo-collab-types](https://crates.io/crates/tilo-collab-types) | 0.5.0 | 0 | The cryptographic identifiers and wire types of workspaces and documents, the h… |
+| 2026-11-25 22:48:59 | [nomux-theme](https://crates.io/crates/nomux-theme) | 0.1.0 | 0 | The nomux theme loader: the semantic design tokens, theme files, the contrast r… |
+| 2026-11-25 22:49:00 | [tilo-resource-store](https://crates.io/crates/tilo-resource-store) | 0.5.0 | 0 | The resource store: every resource of a workspace in documents it places itself… |
+| 2026-11-25 22:51:39 | [mugon-sdk-ui-bevy](https://crates.io/crates/mugon-sdk-ui-bevy) | 0.1.0 | 0 | The Mugon platform's look and UI components for Bevy: theme, widgets and layout… |
+| 2026-11-25 22:56:37 | [mugon-sdk-controls-bevy](https://crates.io/crates/mugon-sdk-controls-bevy) | 0.1.0 | 0 | Input controls for games on the Mugon platform: virtual joysticks, touch button… |
+| 2026-11-25 22:58:55 | [tilolang-runtime](https://crates.io/crates/tilolang-runtime) | 0.5.0 | 0 | Wasm host for tilolang apps: handle table, host ABI, action transactions, run j… |
+| 2026-11-25 22:59:11 | [utopia-dsn](https://crates.io/crates/utopia-dsn) | 0.1.0 | 0 | Data source names (connection strings), parsed into scheme, credentials, host,… |
+| 2026-11-25 22:59:14 | [cw-fonts](https://crates.io/crates/cw-fonts) | 0.3.0 | 0 | The faces ComputerWorld lays text out and draws with: the platforms' UI familie… |
+| 2026-11-25 23:01:29 | [utopia-locale](https://crates.io/crates/utopia-locale) | 0.1.0 | 0 | Translations: languages, default and fallback locales, and placeholders. |
+| 2026-11-25 23:01:52 | [cw-scene](https://crates.io/crates/cw-scene) | 0.3.0 | 0 | ComputerWorld's scene description: nodes, text measurement and hit testing, sha… |
+| 2026-11-25 23:03:23 | [utopia-auth](https://crates.io/crates/utopia-auth) | 0.1.0 | 0 | The password hash algorithms of utopia-php/auth: PECL scrypt, Firebase's modifi… |
+| 2026-11-25 23:04:59 | [utopia-validators](https://crates.io/crates/utopia-validators) | 0.1.0 | 0 | The checks of Utopia's request validators: booleans, integers, floats, numbers,… |
+| 2026-11-25 23:05:17 | [my-publish-test-a](https://crates.io/crates/my-publish-test-a) | 0.0.0 | 0 | Crate publishing test A |
+| 2026-11-25 23:05:18 | [my-publish-test-b](https://crates.io/crates/my-publish-test-b) | 0.0.0 | 0 | Crate publishing test B |
+| 2026-11-25 23:07:13 | [override-base-db](https://crates.io/crates/override-base-db) | 0.0.0 | 0 | Initial crate registration for the override Rust source editor. |
+| 2026-11-25 23:07:14 | [override-cfg](https://crates.io/crates/override-cfg) | 0.0.0 | 0 | Initial crate registration for the override Rust source editor. |
+| 2026-11-25 23:07:15 | [override-format](https://crates.io/crates/override-format) | 0.0.0 | 0 | Initial crate registration for the override Rust source editor. |
+| 2026-11-25 23:07:16 | [override-hir-def](https://crates.io/crates/override-hir-def) | 0.0.0 | 0 | Initial crate registration for the override Rust source editor. |
+| 2026-11-25 23:07:16 | [override-hir-expand](https://crates.io/crates/override-hir-expand) | 0.0.0 | 0 | Initial crate registration for the override Rust source editor. |
+| 2026-11-25 23:07:29 | [radial-core](https://crates.io/crates/radial-core) | 0.1.0 | 0 | Task orchestration library for LLM agents with contract-based coordination |
+| 2026-11-25 23:07:37 | [utopia-domains](https://crates.io/crates/utopia-domains) | 0.1.0 | 0 | Domain names split against the Public Suffix List. |
+| 2026-11-25 23:08:53 | [tilo-appearance](https://crates.io/crates/tilo-appearance) | 0.5.0 | 0 | The desktop's appearance preferences on every target: light or dark, the accent… |
+| 2026-11-25 23:08:59 | [cw-sdk](https://crates.io/crates/cw-sdk) | 0.3.0 | 0 | The SDK for ComputerWorld services and applications: the traits a service or an… |
+| 2026-11-25 23:09:49 | [utopia-emails](https://crates.io/crates/utopia-emails) | 0.1.0 | 0 | Email addresses split, checked and made canonical per provider, and their domai… |
+| 2026-11-25 23:10:50 | [printhor-hwa-common-macros](https://crates.io/crates/printhor-hwa-common-macros) | 0.0.4 | 0 | Printhor hardware abstraction layer: procedural macros |
+| 2026-11-25 23:10:53 | [printhor-hwa-utils](https://crates.io/crates/printhor-hwa-utils) | 0.0.4 | 0 | Printhor hardware abstraction utilities |
+| 2026-11-25 23:11:22 | [google-tasks-tui](https://crates.io/crates/google-tasks-tui) | 0.1.0 | 0 | Terminal UI and scriptable CLI for Google Tasks |
+| 2026-11-25 23:12:12 | [utopia-user-agent](https://crates.io/crates/utopia-user-agent) | 0.1.0 | 0 | User-agent parsing: operating system, client, device and bot. |
+| 2026-11-25 23:12:49 | [printhor-hwi_rp_2040](https://crates.io/crates/printhor-hwi_rp_2040) | 0.0.4 | 0 | Printhor Hardware Abstraction for RP-2040 |
+| 2026-11-25 23:13:02 | [rbmq](https://crates.io/crates/rbmq) | 2.0.0 | 0 | Redis Better Message Queue. A small, atomic, Redis-backed queue. All semantics… |
+| 2026-11-25 23:16:19 | [cw-jsvm](https://crates.io/crates/cw-jsvm) | 0.3.0 | 0 | A deterministic JavaScript (ES2020 core, Node-flavoured) interpreter for simula… |
 
 ## Data source
 

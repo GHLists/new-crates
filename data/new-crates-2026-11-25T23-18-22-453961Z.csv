@@ -1,0 +1,42 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-25T22:20:18.139374Z,utopia-php-std,0.1.0,0,0,https://github.com/appwrite/appwrite,"PHP engine semantics (the value model, juggling and comparison, string, number, JSON, serialize, igbinary, sorting, filter and URL functions) for crates that must behave exactly like PHP."
+2026-11-25T22:20:37.173174Z,cw-modules,0.3.0,0,0,https://github.com/ComputaCo/computaco-core-public,"What a lazy build fetches on first use: the module host, the modules a step ran, and the interface a language runtime in a module calls the machine through"
+2026-11-25T22:22:15.835692Z,solvemyastro,0.3.0,0,0,https://github.com/eg013ra1n/solvemyastro,"Standalone astrometric plate solver — precise WCS with SIP distortion. Rust lib + CLI, with the catalog tools that turn Gaia files into star catalogs and quad indexes."
+2026-11-25T22:26:36.400958Z,scrios,0.1.0,0,0,https://github.com/kirkbrauer/scrios,"The screen of an iOS device as an H.264 or HEVC stream, with touch and keys, over Apple's CoreDevice display and HID services"
+2026-11-25T22:28:09.052852Z,day-piece-webdav-settings,0.0.1,0,0,https://github.com/daybrite/day-webdav,"Part of Day, which builds native apps from one Rust codebase. This placeholder holds the name until the first release."
+2026-11-25T22:28:54.132473Z,tilo-wire-frame,0.5.0,0,0,https://code.tilo.so/tilo/tilo,"Length-prefixed, newline-delimited and server-sent event framing for byte streams: blocking, tokio and postcard."
+2026-11-25T22:30:16.705211Z,cw-packages,0.3.0,0,0,https://github.com/ComputaCo/computaco-core-public,"The application catalog: every application a world may install as a package manifest (what it imitates, where it runs, what each platform calls it), the id grammar with its ignorable suffix, and the…"
+2026-11-25T22:34:02.281187Z,completype-vector,0.2.4,0,0,https://github.com/sayef/completype,"Quantised vector encoding and nearest-neighbour search under a mask, used by completype"
+2026-11-25T22:36:30.791098Z,provkit,0.1.0,0,0,https://github.com/trungdong/provkit,W3C PROV data model with PROV-JSON and PROV-N read and write
+2026-11-25T22:36:40.25392Z,provkit-cli,0.1.0,0,0,https://github.com/trungdong/provkit,Command-line tool to convert and compare W3C PROV documents
+2026-11-25T22:38:54.524009Z,tilo-collab-types,0.5.0,0,0,https://code.tilo.so/tilo/tilo,"The cryptographic identifiers and wire types of workspaces and documents, the history a document keeps, and what a process asks of the resource store."
+2026-11-25T22:48:59.471166Z,nomux-theme,0.1.0,0,0,https://github.com/nomux-sh/themes,"The nomux theme loader: the semantic design tokens, theme files, the contrast rules and the iTerm import"
+2026-11-25T22:49:00.216541Z,tilo-resource-store,0.5.0,0,0,https://code.tilo.so/tilo/tilo,"The resource store: every resource of a workspace in documents it places itself, indexed in the commit that changes it, with paged, filtered and counted queries, whichever language declared it."
+2026-11-25T22:51:39.71249Z,mugon-sdk-ui-bevy,0.1.0,0,0,https://github.com/mugon-net/mugon-sdk-ui-bevy,"The Mugon platform's look and UI components for Bevy: theme, widgets and layout helpers."
+2026-11-25T22:56:37.981577Z,mugon-sdk-controls-bevy,0.1.0,0,0,https://github.com/mugon-net/mugon-sdk-controls-bevy,"Input controls for games on the Mugon platform: virtual joysticks, touch buttons, action mapping and more."
+2026-11-25T22:58:55.783476Z,tilolang-runtime,0.5.0,0,0,https://code.tilo.so/tilo/tilo,"Wasm host for tilolang apps: handle table, host ABI, action transactions, run journal, view trees and an Automerge reference store."
+2026-11-25T22:59:11.719114Z,utopia-dsn,0.1.0,0,0,https://github.com/appwrite/appwrite,"Data source names (connection strings), parsed into scheme, credentials, host, port, path and options."
+2026-11-25T22:59:14.948583Z,cw-fonts,0.3.0,0,0,https://github.com/ComputaCo/computaco-core-public,"The faces ComputerWorld lays text out and draws with: the platforms' UI families, the thirteen web families, DejaVu, the script faces and their stubs, with their licences"
+2026-11-25T23:01:29.970277Z,utopia-locale,0.1.0,0,0,https://github.com/appwrite/appwrite,"Translations: languages, default and fallback locales, and placeholders."
+2026-11-25T23:01:52.146071Z,cw-scene,0.3.0,0,0,https://github.com/ComputaCo/computaco-core-public,"ComputerWorld's scene description: nodes, text measurement and hit testing, shared by the renderer and the applications"
+2026-11-25T23:03:23.081844Z,utopia-auth,0.1.0,0,0,https://github.com/appwrite/appwrite,"The password hash algorithms of utopia-php/auth: PECL scrypt, Firebase's modified scrypt and phpass."
+2026-11-25T23:04:59.573857Z,utopia-validators,0.1.0,0,0,https://github.com/appwrite/appwrite,"The checks of Utopia's request validators: booleans, integers, floats, numbers, ranges, ports, hex colors, text, identifiers, white lists, substrings, DNS labels, hostnames, domains, hosts, IP addres…"
+2026-11-25T23:05:17.868945Z,my-publish-test-a,0.0.0,0,0,,Crate publishing test A
+2026-11-25T23:05:18.090407Z,my-publish-test-b,0.0.0,0,0,,Crate publishing test B
+2026-11-25T23:07:13.63607Z,override-base-db,0.0.0,0,0,https://github.com/zetaloop/override,Initial crate registration for the override Rust source editor.
+2026-11-25T23:07:14.416938Z,override-cfg,0.0.0,0,0,https://github.com/zetaloop/override,Initial crate registration for the override Rust source editor.
+2026-11-25T23:07:15.190903Z,override-format,0.0.0,0,0,https://github.com/zetaloop/override,Initial crate registration for the override Rust source editor.
+2026-11-25T23:07:16.022944Z,override-hir-def,0.0.0,0,0,https://github.com/zetaloop/override,Initial crate registration for the override Rust source editor.
+2026-11-25T23:07:16.852475Z,override-hir-expand,0.0.0,0,0,https://github.com/zetaloop/override,Initial crate registration for the override Rust source editor.
+2026-11-25T23:07:29.918036Z,radial-core,0.1.0,0,0,https://github.com/devsquared/radial,Task orchestration library for LLM agents with contract-based coordination
+2026-11-25T23:07:37.465959Z,utopia-domains,0.1.0,0,0,https://github.com/appwrite/appwrite,Domain names split against the Public Suffix List.
+2026-11-25T23:08:53.830234Z,tilo-appearance,0.5.0,0,0,https://code.tilo.so/tilo/tilo,"The desktop's appearance preferences on every target: light or dark, the accent colour, increased contrast and reduced motion."
+2026-11-25T23:08:59.695085Z,cw-sdk,0.3.0,0,0,https://github.com/ComputaCo/computaco-core-public,The SDK for ComputerWorld services and applications: the traits a service or an application implements and the registry
+2026-11-25T23:09:49.508991Z,utopia-emails,0.1.0,0,0,https://github.com/appwrite/appwrite,"Email addresses split, checked and made canonical per provider, and their domains classified as free or disposable."
+2026-11-25T23:10:50.89286Z,printhor-hwa-common-macros,0.0.4,0,0,https://github.com/cbruiz/printhor,Printhor hardware abstraction layer: procedural macros
+2026-11-25T23:10:53.558974Z,printhor-hwa-utils,0.0.4,0,0,https://github.com/cbruiz/printhor,Printhor hardware abstraction utilities
+2026-11-25T23:11:22.228563Z,google-tasks-tui,0.1.0,0,0,https://github.com/relston/google-tasks-tui,Terminal UI and scriptable CLI for Google Tasks
+2026-11-25T23:12:12.878622Z,utopia-user-agent,0.1.0,0,0,https://github.com/appwrite/appwrite,"User-agent parsing: operating system, client, device and bot."
+2026-11-25T23:12:49.760705Z,printhor-hwi_rp_2040,0.0.4,0,0,https://github.com/cbruiz/printhor,Printhor Hardware Abstraction for RP-2040
+2026-11-25T23:13:02.04957Z,rbmq,2.0.0,0,0,https://github.com/DavidBM/rsmq-async-rs,"Redis Better Message Queue. A small, atomic, Redis-backed queue. All semantics live in Lua scripts shared with the Node.js client. Successor to rsmq_async, no JS-rsmq wire compatibility."
+2026-11-25T23:16:19.352082Z,cw-jsvm,0.3.0,0,0,https://github.com/ComputaCo/computaco-core-public,"A deterministic JavaScript (ES2020 core, Node-flavoured) interpreter for simulated computers."
