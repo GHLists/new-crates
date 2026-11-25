@@ -8,48 +8,44 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-25 03:22 UTC
+## Latest list — 2026-11-25 04:20 UTC
 
-New crates published between 2026-11-25 02:18 UTC and 2026-11-25 03:22 UTC.
+New crates published between 2026-11-25 03:22 UTC and 2026-11-25 04:20 UTC.
 
-[Full CSV](data/new-crates-2026-11-25T03-22-07-498434Z.csv)
+[Full CSV](data/new-crates-2026-11-25T04-20-10-822817Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-25 02:20:37 | [nemo-relay-plugin-abi](https://crates.io/crates/nemo-relay-plugin-abi) | 1.0.0-rc.1 | 0 | Versioned native plugin ABI contracts for NeMo Relay. |
-| 2026-11-25 02:20:39 | [nemo-relay-codecs](https://crates.io/crates/nemo-relay-codecs) | 1.0.0-rc.1 | 0 | Provider request, response, streaming codecs and normalization for NeMo Relay. |
-| 2026-11-25 02:20:42 | [nemo-relay-diagnostics](https://crates.io/crates/nemo-relay-diagnostics) | 1.0.0-rc.1 | 0 | Bounded diagnostics collection, evidence, and inspection for NeMo Relay. |
-| 2026-11-25 02:20:44 | [nemo-relay-model-pricing](https://crates.io/crates/nemo-relay-model-pricing) | 1.0.0-rc.1 | 0 | Model pricing catalogs and cost estimation for NeMo Relay. |
-| 2026-11-25 02:20:47 | [nemo-relay-logging](https://crates.io/crates/nemo-relay-logging) | 1.0.0-rc.1 | 0 | Operational logging configuration, backends, rotation, and diagnostic projectio… |
-| 2026-11-25 02:22:18 | [tufazip-cli](https://crates.io/crates/tufazip-cli) | 0.2.1 | 0 | Command-line interface for tufazip pure-Rust neural lossless compression and de… |
-| 2026-11-25 02:22:20 | [gs-quant-skills](https://crates.io/crates/gs-quant-skills) | 0.1.1 | 0 | Bundled Pure Rust gs-quant AI skills and installer CLI library (zero-Python rep… |
-| 2026-11-25 02:22:33 | [nemo-relay-observability](https://crates.io/crates/nemo-relay-observability) | 1.0.0-rc.1 | 0 | Built-in observability exporters and projections for NeMo Relay. |
-| 2026-11-25 02:25:03 | [rsbatis-core](https://crates.io/crates/rsbatis-core) | 0.1.0-alpha.4 | 0 | Expression AST, column proxies and SQL rendering for rsbatis — the SQLAlchemy-C… |
-| 2026-11-25 02:26:17 | [rsbatis-macros](https://crates.io/crates/rsbatis-macros) | 0.1.0-alpha.4 | 0 | Procedural macros for rsbatis: SQLAlchemy-style where_! expression rewriting. |
-| 2026-11-25 02:26:26 | [rsbatis](https://crates.io/crates/rsbatis) | 0.1.0-alpha.7 | 0 | A SQLAlchemy-style async ORM for Rust: write select(User).where_(User.age >= 18… |
-| 2026-11-25 02:31:04 | [rsbatis-driver](https://crates.io/crates/rsbatis-driver) | 0.1.0-alpha.3 | 0 | Query execution layer for rsbatis: unified driver abstraction over SQLite / MyS… |
-| 2026-11-25 02:31:13 | [rsbatis-orm](https://crates.io/crates/rsbatis-orm) | 0.1.0-alpha.1 | 0 | Session, model mapping and relationship layer for rsbatis (unit of work, eager… |
-| 2026-11-25 02:33:33 | [ertangle-core](https://crates.io/crates/ertangle-core) | 1.5.0 | 0 | Shared types, paths and i18n helpers for ertangle |
-| 2026-11-25 02:33:35 | [ertangle-protocol](https://crates.io/crates/ertangle-protocol) | 1.5.0 | 0 | Wire protocol between the ertangle daemon, TUI and CLI |
-| 2026-11-25 02:33:36 | [ertangle-adapter](https://crates.io/crates/ertangle-adapter) | 1.5.0 | 0 | Agent adapters (Claude Code, Codex, ACP) for ertangle |
-| 2026-11-25 02:33:38 | [ertangle-daemon](https://crates.io/crates/ertangle-daemon) | 1.5.0 | 0 | Session daemon and MCP message bus for ertangle |
-| 2026-11-25 02:33:40 | [ertangle-tui](https://crates.io/crates/ertangle-tui) | 1.5.0 | 0 | Terminal UI for ertangle |
-| 2026-11-25 02:35:07 | [rsbatis-migrate](https://crates.io/crates/rsbatis-migrate) | 0.1.0-alpha.1 | 0 | Schema migration tool for rsbatis: versioned SQL migrations with up/down, statu… |
-| 2026-11-25 02:36:42 | [viahop](https://crates.io/crates/viahop) | 0.1.1 | 0 | Fast, standalone, zero-dependency headless Specctra DSN/SES multi-layer PCB aut… |
-| 2026-11-25 02:40:47 | [nemo-relay-resource-metrics](https://crates.io/crates/nemo-relay-resource-metrics) | 1.0.0-rc.1 | 0 | System resource collection and unit conversion for NeMo Relay. |
-| 2026-11-25 02:43:11 | [ertangle](https://crates.io/crates/ertangle) | 1.5.0 | 0 | Terminal-native multi-agent development environment (TUI) |
-| 2026-11-25 02:43:14 | [updater-plus](https://crates.io/crates/updater-plus) | 0.5.0 | 0 | Framework-agnostic Electron-style blockmap differential update engine and CLI |
-| 2026-11-25 02:44:01 | [tauri-plugin-fontgres](https://crates.io/crates/tauri-plugin-fontgres) | 0.1.0 | 0 | Tauri v2 plugin that lists the system's fonts and answers CSS-style font querie… |
-| 2026-11-25 02:44:11 | [lyrachi](https://crates.io/crates/lyrachi) | 0.5.0 | 0 | Synchronized lyrics with animated visual stages in your terminal. Written in Ru… |
-| 2026-11-25 02:45:09 | [rsboot](https://crates.io/crates/rsboot) | 0.1.0-alpha.1 | 0 | Project bootstrapper and CLI for the rsbatis ecosystem: scaffold a project, gen… |
-| 2026-11-25 02:50:58 | [nemo-relay-runtime](https://crates.io/crates/nemo-relay-runtime) | 1.0.0-rc.1 | 0 | Execution engine, scopes, registries, and continuation handling for NeMo Relay. |
-| 2026-11-25 02:58:07 | [length-rs](https://crates.io/crates/length-rs) | 0.1.1 | 0 | Strongly typed, unit-preserving physical lengths. |
-| 2026-11-25 03:01:08 | [nemo-relay-plugin-host](https://crates.io/crates/nemo-relay-plugin-host) | 1.0.0-rc.1 | 0 | Native and gRPC plugin loading, verification, registration, and lifecycle. |
-| 2026-11-25 03:01:29 | [audiencekit](https://crates.io/crates/audiencekit) | 0.1.0 | 0 | AudienceKit SDK for Rust: an audience's venues, people, locales and events over… |
-| 2026-11-25 03:01:53 | [nemo-relay-builtins](https://crates.io/crates/nemo-relay-builtins) | 1.0.0-rc.1 | 0 | Default NeMo Relay plugin composition for SDKs and the CLI. |
-| 2026-11-25 03:04:41 | [tc_dsa_signer](https://crates.io/crates/tc_dsa_signer) | 0.1.0 | 0 | DSA of FIPS 186: domain parameters, keys, FIPS 186-2 and 186-3 group generation… |
-| 2026-11-25 03:05:42 | [bora-foil](https://crates.io/crates/bora-foil) | 0.2.0 | 0 | A port of NeuralFoil with analytic gradients |
-| 2026-11-25 03:21:51 | [line-rust](https://crates.io/crates/line-rust) | 0.1.0 | 0 | Clean native Rust client, VoIP (PLANET/SRTP), CLI, and MCP server for LINE (ful… |
+| 2026-11-25 03:24:10 | [cdrom-xa](https://crates.io/crates/cdrom-xa) | 0.1.0 | 0 | Pure-Rust, zero-dependency CD-ROM / CD-ROM XA (Yellow Book, CUE/BIN, ISO-9660,… |
+| 2026-11-25 03:27:02 | [libsnd-seq](https://crates.io/crates/libsnd-seq) | 0.1.0 | 0 | Pure-Rust PlayStation libsnd (SEQ/SEP/pBES + VAB) music sequencer and hardware… |
+| 2026-11-25 03:29:10 | [json-spriteifier](https://crates.io/crates/json-spriteifier) | 0.5.0 | 0 | Read exported Sprite Json from apps like Asprite and load directly into Bevy Te… |
+| 2026-11-25 03:36:25 | [veerswap-address-validator](https://crates.io/crates/veerswap-address-validator) | 0.1.0 | 0 | Zero-dependency Rust library for validating multi-chain cryptocurrency address… |
+| 2026-11-25 03:39:13 | [neutron-transport-dd](https://crates.io/crates/neutron-transport-dd) | 0.3.0 | 0 | A high-performance neutron transport solver using the S_N (Discrete Ordinates)… |
+| 2026-11-25 03:41:19 | [mutara](https://crates.io/crates/mutara) | 0.0.0 | 0 | Name reserved for the Mutara engine. Nothing to use here yet; see the repositor… |
+| 2026-11-25 03:42:19 | [mutara-doom](https://crates.io/crates/mutara-doom) | 0.0.0 | 0 | Name reserved for mutara-doom, the vanilla DOOM core of the Mutara engine. Noth… |
+| 2026-11-25 03:43:30 | [cuxt-design](https://crates.io/crates/cuxt-design) | 0.1.0 | 0 | Sunbeam native design system built on GPUI Kit Base |
+| 2026-11-25 03:43:59 | [rustjay-prodjlink](https://crates.io/crates/rustjay-prodjlink) | 0.1.0 | 0 | Rust client for Pioneer/AlphaTheta Pro DJ Link status and metadata monitoring (… |
+| 2026-11-25 03:46:45 | [nsh-icon](https://crates.io/crates/nsh-icon) | 0.1.0 | 0 | Icons for Native Shell (NSH) apps: the Icon type, icon() and the TSX <Icon>; th… |
+| 2026-11-25 03:47:31 | [nsh-icon-lucide](https://crates.io/crates/nsh-icon-lucide) | 0.1.0 | 0 | Lucide icons for Native Shell (NSH) apps, drawn by nsh-icon: only the icons an… |
+| 2026-11-25 03:47:47 | [nsh-icon-heroicons](https://crates.io/crates/nsh-icon-heroicons) | 0.1.0 | 0 | Heroicons icons for Native Shell (NSH) apps, drawn by nsh-icon: only the icons… |
+| 2026-11-25 03:47:57 | [nsh-icon-tabler](https://crates.io/crates/nsh-icon-tabler) | 0.1.0 | 0 | Tabler Icons icons for Native Shell (NSH) apps, drawn by nsh-icon: only the ico… |
+| 2026-11-25 03:48:07 | [nsh-icon-phosphor](https://crates.io/crates/nsh-icon-phosphor) | 0.1.0 | 0 | Phosphor icons for Native Shell (NSH) apps, drawn by nsh-icon: only the icons a… |
+| 2026-11-25 03:51:54 | [nsh-icon-remix](https://crates.io/crates/nsh-icon-remix) | 0.1.0 | 0 | Remix Icon icons for Native Shell (NSH) apps, drawn by nsh-icon: only the icons… |
+| 2026-11-25 03:57:36 | [volt-browser](https://crates.io/crates/volt-browser) | 0.6.0 | 0 | One set of browser commands, selectors and storage access, written once over an… |
+| 2026-11-25 03:57:42 | [volt-browser-checks](https://crates.io/crates/volt-browser-checks) | 0.6.0 | 0 | The checks every engine of volt-browser has to pass, run for real against pages… |
+| 2026-11-25 03:57:48 | [volt-webview](https://crates.io/crates/volt-webview) | 0.6.0 | 0 | Pages in the system webview, opened inside the calling program and driven from… |
+| 2026-11-25 04:02:07 | [rustjay-core](https://crates.io/crates/rustjay-core) | 0.1.0 | 0 | Shared types, traits, and state for rustjay-engine |
+| 2026-11-25 04:02:11 | [rustjay-imgui-wgpu](https://crates.io/crates/rustjay-imgui-wgpu) | 0.28.0 | 0 | A wgpu render backend for imgui-rs. Upstream imgui-wgpu 0.28 with its unrelease… |
+| 2026-11-25 04:02:14 | [rustjay-ledmap](https://crates.io/crates/rustjay-ledmap) | 0.1.0 | 0 | CV-based addressable-LED mapping: flash a calibration pattern, recover per-LED… |
+| 2026-11-25 04:02:22 | [ledmap-studio](https://crates.io/crates/ledmap-studio) | 0.1.0 | 0 | Standalone CV LED-mapping tool: calibrate addressable strips over sACN and expo… |
+| 2026-11-25 04:02:27 | [rustjay-audio](https://crates.io/crates/rustjay-audio) | 0.1.0 | 0 | Real-time audio analysis for rustjay-engine |
+| 2026-11-25 04:03:49 | [spl-programmatic-signer-core](https://crates.io/crates/spl-programmatic-signer-core) | 0.0.0 | 0 | Reserved package name for Anza's SPL Programmatic Signer core crate |
+| 2026-11-25 04:04:10 | [spl-falcon-programmatic-signer-interface](https://crates.io/crates/spl-falcon-programmatic-signer-interface) | 0.0.0 | 0 | Reserved package name for Anza's SPL Falcon Programmatic Signer interface crate |
+| 2026-11-25 04:04:12 | [spl-falcon-programmatic-signer-program](https://crates.io/crates/spl-falcon-programmatic-signer-program) | 0.0.0 | 0 | Reserved package name for Anza's SPL Falcon Programmatic Signer program crate |
+| 2026-11-25 04:06:33 | [kapsl-managed-abi](https://crates.io/crates/kapsl-managed-abi) | 0.1.0 | 0 | Versioned lifecycle and inference protocol for supervised Kapsl backend adapters |
+| 2026-11-25 04:12:42 | [rustjay-control](https://crates.io/crates/rustjay-control) | 0.1.0 | 0 | MIDI, OSC, and web remote control for rustjay-engine |
+| 2026-11-25 04:16:32 | [koda-search](https://crates.io/crates/koda-search) | 0.7.12 | 0 | ugrep and bfs built into the Koda AI coding agent's binary, behind its shell's… |
+| 2026-11-25 04:17:56 | [rustjay-io](https://crates.io/crates/rustjay-io) | 0.1.0 | 0 | Video input and output for rustjay-engine |
 
 ## Data source
 

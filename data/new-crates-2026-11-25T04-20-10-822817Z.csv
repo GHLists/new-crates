@@ -1,0 +1,31 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-25T03:24:10.556452Z,cdrom-xa,0.1.0,0,0,https://github.com/JidouGhost-TL/cdrom-xa-rs,"Pure-Rust, zero-dependency CD-ROM / CD-ROM XA (Yellow Book, CUE/BIN, ISO-9660, EDC/ECC, XA-ADPCM, ISO repacker) library"
+2026-11-25T03:27:02.423694Z,libsnd-seq,0.1.0,0,0,https://github.com/JidouGhost-TL/libsnd-seq-rs,Pure-Rust PlayStation libsnd (SEQ/SEP/pBES + VAB) music sequencer and hardware SPU synthesizer
+2026-11-25T03:29:10.480507Z,json-spriteifier,0.5.0,0,0,https://github.com/senkir/json_spriteifier,Read exported Sprite Json from apps like Asprite and load directly into Bevy TextureAtlasLayout
+2026-11-25T03:36:25.50755Z,veerswap-address-validator,0.1.0,0,0,https://github.com/naonao7k7k-cloud/multichain-memo-address-validator,"Zero-dependency Rust library for validating multi-chain cryptocurrency address formats (BTC, EVM, Solana, Tron, XRP, XLM, TON, LTC) and Memo/Destination Tag rules."
+2026-11-25T03:39:13.928605Z,neutron-transport-dd,0.3.0,0,0,https://github.com/carlosr301101/neutron-transport-dd-rust,A high-performance neutron transport solver using the S_N (Discrete Ordinates) method with domain decomposition. Solves the 1D neutron transport (Boltzmann) equation with automatic or manual configur…
+2026-11-25T03:41:19.231333Z,mutara,0.0.0,0,0,https://github.com/Copgunn/mutara,Name reserved for the Mutara engine. Nothing to use here yet; see the repository.
+2026-11-25T03:42:19.952005Z,mutara-doom,0.0.0,0,0,https://github.com/Copgunn/mutara,"Name reserved for mutara-doom, the vanilla DOOM core of the Mutara engine. Nothing to use here yet; see the repository."
+2026-11-25T03:43:30.13166Z,cuxt-design,0.1.0,0,0,https://github.com/cuxt/design,Sunbeam native design system built on GPUI Kit Base
+2026-11-25T03:43:59.166111Z,rustjay-prodjlink,0.1.0,0,0,https://github.com/BlueJayLouche/prodjlink-rs,Rust client for Pioneer/AlphaTheta Pro DJ Link status and metadata monitoring (rustjay fork of prodjlink-rs)
+2026-11-25T03:46:45.451965Z,nsh-icon,0.1.0,0,0,https://github.com/huacnlee/nsh-icon,"Icons for Native Shell (NSH) apps: the Icon type, icon() and the TSX <Icon>; the icon sets are the nsh-icon-* crates"
+2026-11-25T03:47:31.65585Z,nsh-icon-lucide,0.1.0,0,0,https://github.com/huacnlee/nsh-icon,"Lucide icons for Native Shell (NSH) apps, drawn by nsh-icon: only the icons an app uses go into its binary and bundle"
+2026-11-25T03:47:47.890689Z,nsh-icon-heroicons,0.1.0,0,0,https://github.com/huacnlee/nsh-icon,"Heroicons icons for Native Shell (NSH) apps, drawn by nsh-icon: only the icons an app uses go into its binary and bundle"
+2026-11-25T03:47:57.683643Z,nsh-icon-tabler,0.1.0,0,0,https://github.com/huacnlee/nsh-icon,"Tabler Icons icons for Native Shell (NSH) apps, drawn by nsh-icon: only the icons an app uses go into its binary and bundle"
+2026-11-25T03:48:07.304813Z,nsh-icon-phosphor,0.1.0,0,0,https://github.com/huacnlee/nsh-icon,"Phosphor icons for Native Shell (NSH) apps, drawn by nsh-icon: only the icons an app uses go into its binary and bundle"
+2026-11-25T03:51:54.593012Z,nsh-icon-remix,0.1.0,0,0,https://github.com/huacnlee/nsh-icon,"Remix Icon icons for Native Shell (NSH) apps, drawn by nsh-icon: only the icons an app uses go into its binary and bundle"
+2026-11-25T03:57:36.295974Z,volt-browser,0.6.0,0,0,https://github.com/efbx/volt,"One set of browser commands, selectors and storage access, written once over any engine that implements its two traits"
+2026-11-25T03:57:42.348377Z,volt-browser-checks,0.6.0,0,0,https://github.com/efbx/volt,"The checks every engine of volt-browser has to pass, run for real against pages of a small local site"
+2026-11-25T03:57:48.550532Z,volt-webview,0.6.0,0,0,https://github.com/efbx/volt,"Pages in the system webview, opened inside the calling program and driven from any thread or tokio task, with timeouts and cookie capture"
+2026-11-25T04:02:07.770003Z,rustjay-core,0.1.0,0,0,https://github.com/BlueJayLouche/rustjay-engine,"Shared types, traits, and state for rustjay-engine"
+2026-11-25T04:02:11.574705Z,rustjay-imgui-wgpu,0.28.0,0,0,https://github.com/BlueJayLouche/rustjay-engine,A wgpu render backend for imgui-rs. Upstream imgui-wgpu 0.28 with its unreleased wgpu 30 support; published for rustjay until upstream cuts a release.
+2026-11-25T04:02:14.003076Z,rustjay-ledmap,0.1.0,0,0,https://github.com/BlueJayLouche/rustjay-engine,"CV-based addressable-LED mapping: flash a calibration pattern, recover per-LED positions, export a map"
+2026-11-25T04:02:22.566436Z,ledmap-studio,0.1.0,0,0,https://github.com/BlueJayLouche/rustjay-engine,Standalone CV LED-mapping tool: calibrate addressable strips over sACN and export ledmap.json
+2026-11-25T04:02:27.164656Z,rustjay-audio,0.1.0,0,0,https://github.com/BlueJayLouche/rustjay-engine,Real-time audio analysis for rustjay-engine
+2026-11-25T04:03:49.277338Z,spl-programmatic-signer-core,0.0.0,0,0,https://github.com/solana-program/ed25519-programmatic-signer,Reserved package name for Anza's SPL Programmatic Signer core crate
+2026-11-25T04:04:10.584798Z,spl-falcon-programmatic-signer-interface,0.0.0,0,0,https://github.com/solana-program/ed25519-programmatic-signer,Reserved package name for Anza's SPL Falcon Programmatic Signer interface crate
+2026-11-25T04:04:12.743093Z,spl-falcon-programmatic-signer-program,0.0.0,0,0,https://github.com/solana-program/ed25519-programmatic-signer,Reserved package name for Anza's SPL Falcon Programmatic Signer program crate
+2026-11-25T04:06:33.564896Z,kapsl-managed-abi,0.1.0,0,0,https://github.com/kapsl-runtime/kapsl-sdk,Versioned lifecycle and inference protocol for supervised Kapsl backend adapters
+2026-11-25T04:12:42.322831Z,rustjay-control,0.1.0,0,0,https://github.com/BlueJayLouche/rustjay-engine,"MIDI, OSC, and web remote control for rustjay-engine"
+2026-11-25T04:16:32.690541Z,koda-search,0.7.12,0,0,https://github.com/lijunzh/koda,"ugrep and bfs built into the Koda AI coding agent's binary, behind its shell's grep and find, as Claude Code builds them into its own"
+2026-11-25T04:17:56.053104Z,rustjay-io,0.1.0,0,0,https://github.com/BlueJayLouche/rustjay-engine,Video input and output for rustjay-engine
