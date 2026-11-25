@@ -8,44 +8,30 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-25 04:20 UTC
+## Latest list — 2026-11-25 05:19 UTC
 
-New crates published between 2026-11-25 03:22 UTC and 2026-11-25 04:20 UTC.
+New crates published between 2026-11-25 04:20 UTC and 2026-11-25 05:19 UTC.
 
-[Full CSV](data/new-crates-2026-11-25T04-20-10-822817Z.csv)
+[Full CSV](data/new-crates-2026-11-25T05-19-36-511238Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-25 03:24:10 | [cdrom-xa](https://crates.io/crates/cdrom-xa) | 0.1.0 | 0 | Pure-Rust, zero-dependency CD-ROM / CD-ROM XA (Yellow Book, CUE/BIN, ISO-9660,… |
-| 2026-11-25 03:27:02 | [libsnd-seq](https://crates.io/crates/libsnd-seq) | 0.1.0 | 0 | Pure-Rust PlayStation libsnd (SEQ/SEP/pBES + VAB) music sequencer and hardware… |
-| 2026-11-25 03:29:10 | [json-spriteifier](https://crates.io/crates/json-spriteifier) | 0.5.0 | 0 | Read exported Sprite Json from apps like Asprite and load directly into Bevy Te… |
-| 2026-11-25 03:36:25 | [veerswap-address-validator](https://crates.io/crates/veerswap-address-validator) | 0.1.0 | 0 | Zero-dependency Rust library for validating multi-chain cryptocurrency address… |
-| 2026-11-25 03:39:13 | [neutron-transport-dd](https://crates.io/crates/neutron-transport-dd) | 0.3.0 | 0 | A high-performance neutron transport solver using the S_N (Discrete Ordinates)… |
-| 2026-11-25 03:41:19 | [mutara](https://crates.io/crates/mutara) | 0.0.0 | 0 | Name reserved for the Mutara engine. Nothing to use here yet; see the repositor… |
-| 2026-11-25 03:42:19 | [mutara-doom](https://crates.io/crates/mutara-doom) | 0.0.0 | 0 | Name reserved for mutara-doom, the vanilla DOOM core of the Mutara engine. Noth… |
-| 2026-11-25 03:43:30 | [cuxt-design](https://crates.io/crates/cuxt-design) | 0.1.0 | 0 | Sunbeam native design system built on GPUI Kit Base |
-| 2026-11-25 03:43:59 | [rustjay-prodjlink](https://crates.io/crates/rustjay-prodjlink) | 0.1.0 | 0 | Rust client for Pioneer/AlphaTheta Pro DJ Link status and metadata monitoring (… |
-| 2026-11-25 03:46:45 | [nsh-icon](https://crates.io/crates/nsh-icon) | 0.1.0 | 0 | Icons for Native Shell (NSH) apps: the Icon type, icon() and the TSX <Icon>; th… |
-| 2026-11-25 03:47:31 | [nsh-icon-lucide](https://crates.io/crates/nsh-icon-lucide) | 0.1.0 | 0 | Lucide icons for Native Shell (NSH) apps, drawn by nsh-icon: only the icons an… |
-| 2026-11-25 03:47:47 | [nsh-icon-heroicons](https://crates.io/crates/nsh-icon-heroicons) | 0.1.0 | 0 | Heroicons icons for Native Shell (NSH) apps, drawn by nsh-icon: only the icons… |
-| 2026-11-25 03:47:57 | [nsh-icon-tabler](https://crates.io/crates/nsh-icon-tabler) | 0.1.0 | 0 | Tabler Icons icons for Native Shell (NSH) apps, drawn by nsh-icon: only the ico… |
-| 2026-11-25 03:48:07 | [nsh-icon-phosphor](https://crates.io/crates/nsh-icon-phosphor) | 0.1.0 | 0 | Phosphor icons for Native Shell (NSH) apps, drawn by nsh-icon: only the icons a… |
-| 2026-11-25 03:51:54 | [nsh-icon-remix](https://crates.io/crates/nsh-icon-remix) | 0.1.0 | 0 | Remix Icon icons for Native Shell (NSH) apps, drawn by nsh-icon: only the icons… |
-| 2026-11-25 03:57:36 | [volt-browser](https://crates.io/crates/volt-browser) | 0.6.0 | 0 | One set of browser commands, selectors and storage access, written once over an… |
-| 2026-11-25 03:57:42 | [volt-browser-checks](https://crates.io/crates/volt-browser-checks) | 0.6.0 | 0 | The checks every engine of volt-browser has to pass, run for real against pages… |
-| 2026-11-25 03:57:48 | [volt-webview](https://crates.io/crates/volt-webview) | 0.6.0 | 0 | Pages in the system webview, opened inside the calling program and driven from… |
-| 2026-11-25 04:02:07 | [rustjay-core](https://crates.io/crates/rustjay-core) | 0.1.0 | 0 | Shared types, traits, and state for rustjay-engine |
-| 2026-11-25 04:02:11 | [rustjay-imgui-wgpu](https://crates.io/crates/rustjay-imgui-wgpu) | 0.28.0 | 0 | A wgpu render backend for imgui-rs. Upstream imgui-wgpu 0.28 with its unrelease… |
-| 2026-11-25 04:02:14 | [rustjay-ledmap](https://crates.io/crates/rustjay-ledmap) | 0.1.0 | 0 | CV-based addressable-LED mapping: flash a calibration pattern, recover per-LED… |
-| 2026-11-25 04:02:22 | [ledmap-studio](https://crates.io/crates/ledmap-studio) | 0.1.0 | 0 | Standalone CV LED-mapping tool: calibrate addressable strips over sACN and expo… |
-| 2026-11-25 04:02:27 | [rustjay-audio](https://crates.io/crates/rustjay-audio) | 0.1.0 | 0 | Real-time audio analysis for rustjay-engine |
-| 2026-11-25 04:03:49 | [spl-programmatic-signer-core](https://crates.io/crates/spl-programmatic-signer-core) | 0.0.0 | 0 | Reserved package name for Anza's SPL Programmatic Signer core crate |
-| 2026-11-25 04:04:10 | [spl-falcon-programmatic-signer-interface](https://crates.io/crates/spl-falcon-programmatic-signer-interface) | 0.0.0 | 0 | Reserved package name for Anza's SPL Falcon Programmatic Signer interface crate |
-| 2026-11-25 04:04:12 | [spl-falcon-programmatic-signer-program](https://crates.io/crates/spl-falcon-programmatic-signer-program) | 0.0.0 | 0 | Reserved package name for Anza's SPL Falcon Programmatic Signer program crate |
-| 2026-11-25 04:06:33 | [kapsl-managed-abi](https://crates.io/crates/kapsl-managed-abi) | 0.1.0 | 0 | Versioned lifecycle and inference protocol for supervised Kapsl backend adapters |
-| 2026-11-25 04:12:42 | [rustjay-control](https://crates.io/crates/rustjay-control) | 0.1.0 | 0 | MIDI, OSC, and web remote control for rustjay-engine |
-| 2026-11-25 04:16:32 | [koda-search](https://crates.io/crates/koda-search) | 0.7.12 | 0 | ugrep and bfs built into the Koda AI coding agent's binary, behind its shell's… |
-| 2026-11-25 04:17:56 | [rustjay-io](https://crates.io/crates/rustjay-io) | 0.1.0 | 0 | Video input and output for rustjay-engine |
+| 2026-11-25 04:28:12 | [rustjay-isf](https://crates.io/crates/rustjay-isf) | 0.1.0 | 0 | ISF (Interactive Shader Format) support for rustjay-engine — GLSL→WGSL transpil… |
+| 2026-11-25 04:32:46 | [rustyman-game](https://crates.io/crates/rustyman-game) | 0.1.0 | 0 | A horror-twist terminal pacman-like game, with limited view. be careful of ghos… |
+| 2026-11-25 04:35:08 | [rightkit-profile](https://crates.io/crates/rightkit-profile) | 0.1.0 | 0 | The owner's profile for an assistant: entries in areas with source, true-from d… |
+| 2026-11-25 04:38:33 | [rustjay-projection](https://crates.io/crates/rustjay-projection) | 0.1.0 | 0 | Output post-processor for projection mapping — dome, warp, edge-blend, slicer |
+| 2026-11-25 04:39:54 | [lore-tui](https://crates.io/crates/lore-tui) | 0.4.9 | 0 | A terminal list of every command you can type (programs, shell builtins, aliase… |
+| 2026-11-25 04:48:51 | [rustjay-sync](https://crates.io/crates/rustjay-sync) | 0.1.0 | 0 | Sync & timing: Ableton Link, ProDJ Link, MTC |
+| 2026-11-25 04:51:12 | [clilab](https://crates.io/crates/clilab) | 1.0.0 | 0 | Macro to make cli creation easy. Also generates commands for help, version, and… |
+| 2026-11-25 04:52:13 | [synaps-sdk](https://crates.io/crates/synaps-sdk) | 0.1.0 | 0 | SDK для проектов synaps.art: HTTP-сервер с /health, база проекта SQLite, очеред… |
+| 2026-11-25 04:54:14 | [martin-vendored-cql2](https://crates.io/crates/martin-vendored-cql2) | 0.6.1 | 0 | Parse, validate, and convert Common Query Language (CQL2) text and JSON (vendor… |
+| 2026-11-25 04:55:33 | [rig-bridge](https://crates.io/crates/rig-bridge) | 0.47.1 | 0 | Other coding agents' CLIs as model providers for the Rig coding agent: Claude C… |
+| 2026-11-25 04:55:41 | [tc_ec_agreement](https://crates.io/crates/tc_ec_agreement) | 0.1.0 | 0 | Key agreement over elliptic curves after Bouncy Castle: ECDH, ECDHC, EC-MQV and… |
+| 2026-11-25 04:58:24 | [martin-ui](https://crates.io/crates/martin-ui) | 2.0.0-beta.8 | 0 | Prebuilt web UI of the Martin tile server, embedded as static files |
+| 2026-11-25 04:59:07 | [lagrange-content](https://crates.io/crates/lagrange-content) | 0.2.5 | 0 | Shared content contract for the lagrange ecosystem: frontmatter, document ids,… |
+| 2026-11-25 04:59:12 | [rustjay-api](https://crates.io/crates/rustjay-api) | 0.1.0 | 0 | Optional REST/OpenAPI layer for rustjay-engine |
+| 2026-11-25 05:00:06 | [rig-watch](https://crates.io/crates/rig-watch) | 0.47.1 | 0 | An optional rig-harness plugin: the agent says which files it waits on, and is… |
+| 2026-11-25 05:09:34 | [rustjay-gui](https://crates.io/crates/rustjay-gui) | 0.1.0 | 0 | ImGui control interface for rustjay-engine |
 
 ## Data source
 

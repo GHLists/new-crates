@@ -1,0 +1,17 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-25T04:28:12.952319Z,rustjay-isf,0.1.0,0,0,https://github.com/BlueJayLouche/rustjay-engine,ISF (Interactive Shader Format) support for rustjay-engine — GLSL→WGSL transpiler and EffectPlugin adapter
+2026-11-25T04:32:46.142709Z,rustyman-game,0.1.0,0,0,https://github.com/whyfren/RustyMan,"A horror-twist terminal pacman-like game, with limited view. be careful of ghost, boo!"
+2026-11-25T04:35:08.7011Z,rightkit-profile,0.1.0,0,0,https://github.com/bogusyogi/rightkit,"The owner's profile for an assistant: entries in areas with source, true-from date, state and sensitivity, proposals only the owner confirms, history, due questions, the card a run receives behind he…"
+2026-11-25T04:38:33.065552Z,rustjay-projection,0.1.0,0,0,https://github.com/BlueJayLouche/rustjay-engine,"Output post-processor for projection mapping — dome, warp, edge-blend, slicer"
+2026-11-25T04:39:54.337971Z,lore-tui,0.4.9,0,0,https://github.com/guhhammer/lore,"A terminal list of every command you can type (programs, shell builtins, aliases), grouped A to Z. Linux and macOS; bash, zsh, fish."
+2026-11-25T04:48:51.262493Z,rustjay-sync,0.1.0,0,0,https://github.com/BlueJayLouche/rustjay-engine,"Sync & timing: Ableton Link, ProDJ Link, MTC"
+2026-11-25T04:51:12.721299Z,clilab,1.0.0,0,0,https://github.com/jackhamilton/clilab,"Macro to make cli creation easy. Also generates commands for help, version, and zsh completions."
+2026-11-25T04:52:13.713335Z,synaps-sdk,0.1.0,0,0,,"SDK для проектов synaps.art: HTTP-сервер с /health, база проекта SQLite, очередь событий между сущностями, вход через synaps.art (OpenID Connect)"
+2026-11-25T04:54:14.347133Z,martin-vendored-cql2,0.6.1,0,0,https://github.com/developmentseed/cql2-rs,"Parse, validate, and convert Common Query Language (CQL2) text and JSON (vendored by Martin from developmentseed/cql2-rs@98a3eb1dd3e9429985b97b7d0e59567f0a77499b)"
+2026-11-25T04:55:33.802766Z,rig-bridge,0.47.1,0,0,https://github.com/0xPlaygrounds/rig,"Other coding agents' CLIs as model providers for the Rig coding agent: Claude Code, Grok Build, Antigravity, Codex, Meta AI Muse, and GitHub Copilot answer with their own sign-ins, stripped to infere…"
+2026-11-25T04:55:41.908427Z,tc_ec_agreement,0.1.0,0,0,https://github.com/TomiCheng/tc_agreement,"Key agreement over elliptic curves after Bouncy Castle: ECDH, ECDHC, EC-MQV and GOST VKO."
+2026-11-25T04:58:24.386015Z,martin-ui,2.0.0-beta.8,0,0,https://github.com/maplibre/martin,"Prebuilt web UI of the Martin tile server, embedded as static files"
+2026-11-25T04:59:07.891305Z,lagrange-content,0.2.5,0,0,https://github.com/celestia-island/lagrange,"Shared content contract for the lagrange ecosystem: frontmatter, document ids, anchors"
+2026-11-25T04:59:12.368836Z,rustjay-api,0.1.0,0,0,https://github.com/BlueJayLouche/rustjay-engine,Optional REST/OpenAPI layer for rustjay-engine
+2026-11-25T05:00:06.268557Z,rig-watch,0.47.1,0,0,https://github.com/0xPlaygrounds/rig,"An optional rig-harness plugin: the agent says which files it waits on, and is woken when one changes or after some minutes of nothing."
+2026-11-25T05:09:34.797874Z,rustjay-gui,0.1.0,0,0,https://github.com/BlueJayLouche/rustjay-engine,ImGui control interface for rustjay-engine
