@@ -1,0 +1,22 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-26T22:21:36.376768Z,ebs-snapshot-bill,0.1.1,0,0,https://github.com/qwpp7g79y4-maker/ebs-snapshot-bill,Offline estimate of AWS EBS snapshot GB-month cost from describe-snapshots JSON
+2026-11-26T22:30:15.800064Z,rff-codec-exr,0.9.3,0,0,https://github.com/Remade-With-Rust/remade_ffmpeg_rs,Remade FFmpeg (Rust): OpenEXR still-image codec (decode every compression to RGB/RGBA; encode half or float RGB/RGBA).
+2026-11-26T22:31:20.990203Z,motis,0.1.0,0,0,https://github.com/udondan/transitous,Client for the MOTIS 2 public transport routing API
+2026-11-26T22:31:33.950627Z,transitous-core,0.1.0,0,0,https://github.com/udondan/transitous,"Usage rules, stop resolution and connection status for the Transitous API"
+2026-11-26T22:31:59.101335Z,rona-plugin,1.0.1,0,0,https://github.com/SalahaldinBilal/rona,"Write, build and pack Rona plugins in Rust (plugin API 1)"
+2026-11-26T22:32:01.109926Z,transitous,0.1.0,0,0,https://github.com/udondan/transitous,"CLI and MCP server for public transport connections and departures on the Transitous API, with realtime status"
+2026-11-26T22:32:49.676329Z,mapsample,0.1.0,0,0,https://github.com/peakoshi/mapsample,"In-process Windows x64 stack sampler with a rolling stall recorder, P/E-core placement readings, and an MSVC /MAP symbolizer"
+2026-11-26T22:32:56.631283Z,ldr-flip,0.1.0,0,0,https://github.com/peakoshi/ldr-flip,Perceptual LDR FLIP image comparison in pure Rust
+2026-11-26T22:33:00.679707Z,rff-format-exr,0.9.3,0,0,https://github.com/Remade-With-Rust/remade_ffmpeg_rs,Remade FFmpeg (Rust): OpenEXR single-image container (file = codec stream).
+2026-11-26T22:37:06.911715Z,logcut,0.1.0,0,0,,Local-first stacktrace & runtime log slicer for AI coding agents and terminal pipelines
+2026-11-26T22:47:51.761383Z,flm-core,0.6.0,0,0,https://github.com/phfaist/flm,"FLM semantic markup framework — core library, built on techy"
+2026-11-26T22:47:54.328863Z,flm-ext,0.6.0,0,0,https://github.com/phfaist/flm,FLM's extension interface: packages written outside Rust contribute to the registry through a mirrored sub-API of flm-core
+2026-11-26T22:47:56.656072Z,flm-extensions,0.6.0,0,0,https://github.com/phfaist/flm,"The extensions shipped with FLM, each under a cargo feature of its own: their files as data, and the code of those written in Rust"
+2026-11-26T22:47:59.571416Z,flm-host,0.6.0,0,0,https://github.com/phfaist/flm,"The FLM host library: files, front matter, settings, packages and outputs"
+2026-11-26T22:48:02.0396Z,flm-info,0.6.0,0,0,https://github.com/phfaist/flm,"Introspection of an FLM environment: queries over a registry, a plan and the package factories, a typed description that serializes to JSON, documentation pages written as FLM, and the engine of `flm…"
+2026-11-26T22:52:52.999834Z,rcompat-collate,0.1.0,0,0,https://github.com/deminden/rsdeseq2,Compare and sort strings in R's collation order (C locale and the Unicode root collation) in pure Rust
+2026-11-26T23:01:55.193307Z,rs-ints2arrow-ipc,0.1.0,0,0,https://github.com/takanoriyanagitani/rs-ints2arrow-ipc,Convert raw i32 bytes to Arrow IPC stream
+2026-11-26T23:10:18.348623Z,agg-os,0.1.0,0,0,https://github.com/larsbrubaker/agg-gui,"The operating system calls and other unsafe code of the agg-gui crates, each behind a safe function and a Cargo feature."
+2026-11-26T23:11:40.625364Z,microbe-core,0.0.1,0,0,https://github.com/apirogov/microbe,"The algebra of authority behind microbe: shapes, grants, refusals and the state machine they drive"
+2026-11-26T23:11:41.218711Z,microbe-macros,0.0.1,0,0,https://github.com/apirogov/microbe,The #[microbe::main] attribute; use it through the microbe crate
+2026-11-26T23:11:43.525338Z,microbe,0.0.1,0,0,https://github.com/apirogov/microbe,"Sandboxed WebAssembly programs that declare what they need: write them, build them, run them, embed the runtime"
