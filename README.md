@@ -8,74 +8,76 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-26 14:18 UTC
+## Latest list — 2026-11-26 15:19 UTC
 
-New crates published between 2026-11-26 13:20 UTC and 2026-11-26 14:18 UTC.
+New crates published between 2026-11-26 14:18 UTC and 2026-11-26 15:19 UTC.
 
-[Full CSV](data/new-crates-2026-11-26T14-18-47-718108Z.csv)
+[Full CSV](data/new-crates-2026-11-26T15-19-22-252386Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-26 13:20:45 | [grus-eda-core](https://crates.io/crates/grus-eda-core) | 0.13.0 | 0 | Physical-design engine core for the open sky130 PDK: LEF/DEF/SPEF/Liberty/SDC r… |
-| 2026-11-26 13:22:20 | [grus-eda](https://crates.io/crates/grus-eda) | 0.13.0 | 0 | Fast physical-design research toolkit for the open sky130 PDK — timing, placeme… |
-| 2026-11-26 13:23:26 | [tuiframework](https://crates.io/crates/tuiframework) | 0.1.0 | 0 | An event-driven application loop, drivers, and layered keymaps for Ratatui |
-| 2026-11-26 13:24:25 | [gleeman](https://crates.io/crates/gleeman) | 0.0.0 | 0 | A shared, federated knowledge base for coding agents, served over MCP. Name res… |
-| 2026-11-26 13:24:40 | [fastauth-plugin-username](https://crates.io/crates/fastauth-plugin-username) | 0.4.0 | 0 | Username sign-in for fastauth, wire-compatible with Better Auth's username plug… |
-| 2026-11-26 13:24:43 | [fastauth-plugin-anonymous](https://crates.io/crates/fastauth-plugin-anonymous) | 0.4.0 | 0 | Anonymous sign-in for fastauth, wire-compatible with Better Auth's anonymous pl… |
-| 2026-11-26 13:24:46 | [fastauth-plugin-multi-session](https://crates.io/crates/fastauth-plugin-multi-session) | 0.4.0 | 0 | Several signed-in accounts per browser for fastauth, wire-compatible with Bette… |
-| 2026-11-26 13:26:43 | [vehicle-manager-axum](https://crates.io/crates/vehicle-manager-axum) | 0.1.0 | 0 | Fern simulation, from the cellular level up. |
-| 2026-11-26 13:27:35 | [speedyspec-xmlrpc-contracts](https://crates.io/crates/speedyspec-xmlrpc-contracts) | 0.2.0 | 0 | The XML-RPC transport's contracts: the binding, method calls and responses, fau… |
-| 2026-11-26 13:28:28 | [skippy-config](https://crates.io/crates/skippy-config) | 0.80.3 | 0 | Standalone Skippy settings for model, runtime and worker configuration |
-| 2026-11-26 13:28:39 | [disnana-akari](https://crates.io/crates/disnana-akari) | 0.1.1 | 0 | An asynchronous Discord bot framework built on Twilight. |
-| 2026-11-26 13:28:54 | [tilo-workspace-emoji](https://crates.io/crates/tilo-workspace-emoji) | 0.5.0 | 0 | A workspace's own emoji: the workspace record every app draws `:name:` from |
-| 2026-11-26 13:30:11 | [anth-error](https://crates.io/crates/anth-error) | 0.8.0 | 0 | The shared error kind and envelope of Anthracite |
-| 2026-11-26 13:31:22 | [tower-cross-origin](https://crates.io/crates/tower-cross-origin) | 0.1.0 | 0 | CSRF protection without tokens or sessions: refuses cross-origin writes using S… |
-| 2026-11-26 13:33:09 | [anth-bundle](https://crates.io/crates/anth-bundle) | 0.8.0 | 0 | The canonical bundle message, hashes and Ed25519 signature primitives |
-| 2026-11-26 13:34:01 | [zrs-zsh](https://crates.io/crates/zrs-zsh) | 0.1.0 | 0 | A blazing-fast, on-demand Zsh tool for abbreviations, snippets, history search,… |
-| 2026-11-26 13:36:39 | [anth-guest](https://crates.io/crates/anth-guest) | 0.8.0 | 0 | The guest SDK: host WIT and the wit-bindgen surface wasm apps use |
-| 2026-11-26 13:37:35 | [speedyspec-wp-text-diff-contracts](https://crates.io/crates/speedyspec-wp-text-diff-contracts) | 0.3.0 | 0 | Contracts for WordPress's text diff: edit operations, table options, and the di… |
-| 2026-11-26 13:37:41 | [blofeld](https://crates.io/crates/blofeld) | 0.1.0 | 0 | Fast, zero-config property-based testing and autonomous fuzzing for MCP servers |
-| 2026-11-26 13:38:04 | [anth-service](https://crates.io/crates/anth-service) | 0.8.0 | 0 | The native service side of the engine's private WIT-RPC protocol |
-| 2026-11-26 13:38:09 | [anth-client](https://crates.io/crates/anth-client) | 0.8.0 | 0 | Generated clients for Anthracite apps |
-| 2026-11-26 13:38:27 | [skippy-serving](https://crates.io/crates/skippy-serving) | 0.80.3 | 0 | Embedded Skippy staged runtime server |
-| 2026-11-26 13:38:55 | [tilo-app](https://crates.io/crates/tilo-app) | 0.5.0 | 0 | The Tilo application SDK: one app source for Linux, macOS and the web. |
-| 2026-11-26 13:40:38 | [cargo-anth](https://crates.io/crates/cargo-anth) | 0.8.0 | 0 | Create, build, package, sign and verify Anthracite apps |
-| 2026-11-26 13:47:35 | [speedyspec-wp-text-diff](https://crates.io/crates/speedyspec-wp-text-diff) | 0.3.0 | 0 | WordPress's wp_text_diff(): a port of Horde's native diff engine and WordPress'… |
-| 2026-11-26 13:48:26 | [skippy-api](https://crates.io/crates/skippy-api) | 0.80.3 | 0 | Shared Skippy model preparation and serving lifecycle API |
-| 2026-11-26 13:48:55 | [tilo-app-package](https://crates.io/crates/tilo-app-package) | 0.5.0 | 0 | The Tilo package format (.tapp): manifest, signing and verification. |
-| 2026-11-26 13:56:14 | [kintsugi-harness](https://crates.io/crates/kintsugi-harness) | 3.1.1 | 0 | Sub-millisecond Rust native PreToolUse guardrail scanner, 7-domain typed obliga… |
-| 2026-11-26 13:57:35 | [speedyspec-wp-shortcode-contracts](https://crates.io/crates/speedyspec-wp-shortcode-contracts) | 0.6.0 | 0 | WordPress's Shortcode API contracts: the plain types, the ports and strategies,… |
-| 2026-11-26 13:58:05 | [mortise-core](https://crates.io/crates/mortise-core) | 1.0.0 | 0 | Reads Laravel apps that use nwidart/laravel-modules. No interface. |
-| 2026-11-26 13:58:07 | [mortise-cli](https://crates.io/crates/mortise-cli) | 1.0.0 | 0 | The Mortise command line tool: checks the boundary rules of a Laravel app in CI… |
-| 2026-11-26 13:58:25 | [skippy-commands](https://crates.io/crates/skippy-commands) | 0.80.3 | 0 | Shared Skippy model commands and standalone command output |
-| 2026-11-26 13:58:54 | [tilo-app-registry](https://crates.io/crates/tilo-app-registry) | 0.5.0 | 0 | The Tilo app registry protocol on the client side: fail-closed .tapp verificati… |
-| 2026-11-26 14:04:56 | [sciart-core](https://crates.io/crates/sciart-core) | 0.7.0 | 0 | Internal: terminal-agnostic primitives of sciart (canvas, generator trait, fixe… |
-| 2026-11-26 14:04:59 | [sciart-shared](https://crates.io/crates/sciart-shared) | 0.7.0 | 0 | Internal: scene models shared by several sciart scenes. No semver promise; use… |
-| 2026-11-26 14:05:04 | [sciart-scenes-cosmos](https://crates.io/crates/sciart-scenes-cosmos) | 0.7.0 | 0 | Internal: the Deep Cosmos and Sun & Planets scenes of sciart. No semver promise… |
-| 2026-11-26 14:05:08 | [sciart-scenes-earth](https://crates.io/crates/sciart-scenes-earth) | 0.7.0 | 0 | Internal: the Earth & Sky and Voyages scenes of sciart. No semver promise; use… |
-| 2026-11-26 14:05:11 | [sciart-scenes-physics](https://crates.io/crates/sciart-scenes-physics) | 0.7.0 | 0 | Internal: the Forces & Waves scenes of sciart. No semver promise; use the `scia… |
-| 2026-11-26 14:06:01 | [duan-macros](https://crates.io/crates/duan-macros) | 0.1.0 | 0 | DUAN authoring proc macros |
-| 2026-11-26 14:06:24 | [fsmirror](https://crates.io/crates/fsmirror) | 0.1.0 | 0 | A command-line utility for mirroring files and folders. |
-| 2026-11-26 14:07:35 | [speedyspec-wp-password-contracts](https://crates.io/crates/speedyspec-wp-password-contracts) | 0.4.0 | 0 | Contracts for WordPress's password functions: the pluggable ports, the filters,… |
-| 2026-11-26 14:08:55 | [tilo-app-window](https://crates.io/crates/tilo-app-window) | 0.5.0 | 0 | A tilolang app's window in the toolkit: the generic adapter, the shell composit… |
-| 2026-11-26 14:10:03 | [fluxwright-cdp](https://crates.io/crates/fluxwright-cdp) | 0.14.0 | 0 | Chrome DevTools Protocol transport and sessions for Fluxwright |
-| 2026-11-26 14:10:25 | [fluxwright-core](https://crates.io/crates/fluxwright-core) | 0.14.0 | 0 | Browser pool, scheduler, and metrics for Fluxwright |
-| 2026-11-26 14:10:43 | [fluxwright](https://crates.io/crates/fluxwright) | 0.14.0 | 0 | High-concurrency Chromium automation engine |
-| 2026-11-26 14:11:36 | [fluxwright-server](https://crates.io/crates/fluxwright-server) | 0.14.0 | 0 | Authenticated HTTP job API for a Fluxwright browser fleet |
-| 2026-11-26 14:12:15 | [fluxwright-cli](https://crates.io/crates/fluxwright-cli) | 0.14.0 | 0 | Fluxwright daemon and control CLI |
-| 2026-11-26 14:13:31 | [chronon-model](https://crates.io/crates/chronon-model) | 0.17.1 | 0 | Platform-independent frame, stack, and sample types for chronon |
-| 2026-11-26 14:13:32 | [chronon-formats](https://crates.io/crates/chronon-formats) | 0.17.1 | 0 | Profile formats and collectors for chronon |
-| 2026-11-26 14:13:33 | [chronon-process](https://crates.io/crates/chronon-process) | 0.17.1 | 0 | Process memory abstraction for chronon profiler |
-| 2026-11-26 14:13:34 | [chronon-native-engine](https://crates.io/crates/chronon-native-engine) | 0.17.1 | 0 | Native stack unwinding and symbolization engine for chronon |
-| 2026-11-26 14:13:34 | [chronon-python-engine](https://crates.io/crates/chronon-python-engine) | 0.17.1 | 0 | Python runtime discovery and frame walking engine for chronon |
-| 2026-11-26 14:16:54 | [djangors-contrib-flags](https://crates.io/crates/djangors-contrib-flags) | 1.1.0 | 0 | Database and cache-backed feature flags and gradual rollouts for Djangors |
-| 2026-11-26 14:17:27 | [webtrip-api](https://crates.io/crates/webtrip-api) | 0.2.0 | 0 | JackTrip Virtual Studio REST API client and models |
-| 2026-11-26 14:17:28 | [webtrip-core](https://crates.io/crates/webtrip-core) | 0.2.0 | 0 | Portable WebTrip core: audio processing, wire protocol, jitter buffer |
-| 2026-11-26 14:17:29 | [webtrip-web](https://crates.io/crates/webtrip-web) | 0.2.0 | 0 | WebTrip browser host: AudioWorklet engine, WebRTC and WebTransport transports,… |
-| 2026-11-26 14:17:31 | [webtrip](https://crates.io/crates/webtrip) | 0.2.0 | 0 | WebTrip facade: re-exports webtrip-core, webtrip-api and (behind `web`) webtrip… |
-| 2026-11-26 14:17:35 | [speedyspec-wp-object-cache-contracts](https://crates.io/crates/speedyspec-wp-object-cache-contracts) | 0.2.0 | 0 | The object cache port (wp_cache_*, as other seams call it) and its errors. |
-| 2026-11-26 14:17:37 | [djangors-contrib-graphql](https://crates.io/crates/djangors-contrib-graphql) | 1.1.0 | 0 | GraphQL integration for Djangors powered by async-graphql |
-| 2026-11-26 14:18:04 | [djangors-contrib-grpc](https://crates.io/crates/djangors-contrib-grpc) | 1.1.0 | 0 | gRPC integration (tonic) for Djangors with shared AppState and HTTP/gRPC Hybrid… |
+| 2026-11-26 14:18:54 | [tilo-caps](https://crates.io/crates/tilo-caps) | 0.5.0 | 0 | The Tilo app capability vocabulary and its availability on Linux, macOS and the… |
+| 2026-11-26 14:18:55 | [djangors-contrib-notifications](https://crates.io/crates/djangors-contrib-notifications) | 1.1.0 | 0 | Multi-channel notifications (Email, In-App DB Inbox, Webhook, Slack, Discord) w… |
+| 2026-11-26 14:19:58 | [isoloom-topology](https://crates.io/crates/isoloom-topology) | 3.0.0 | 0 | Isoloom's topology compiler: a network drawn in a topology editor becomes an Is… |
+| 2026-11-26 14:20:00 | [isoloom-wasm](https://crates.io/crates/isoloom-wasm) | 3.0.0 | 0 | Isoloom's topology compiler and targets in WebAssembly, for a topology editor:… |
+| 2026-11-26 14:20:31 | [isothrum-client](https://crates.io/crates/isothrum-client) | 3.0.0 | 0 | The client of the Isothrum runner service: connect to (or start) a home's servi… |
+| 2026-11-26 14:21:44 | [chronon-perf](https://crates.io/crates/chronon-perf) | 0.17.1 | 0 | Linux perf/stackpulse integration for chronon |
+| 2026-11-26 14:21:53 | [djangors-contrib-webhooks](https://crates.io/crates/djangors-contrib-webhooks) | 1.1.0 | 0 | Customer-facing outbound webhooks with HMAC-SHA256 signing, replay-window verif… |
+| 2026-11-26 14:22:25 | [trustbelt-application](https://crates.io/crates/trustbelt-application) | 0.2.0 | 0 | What stands around a TrustBelt domain, in plain Rust: a skeleton of a store, of… |
+| 2026-11-26 14:22:56 | [fluxwright-mcp](https://crates.io/crates/fluxwright-mcp) | 0.14.0 | 0 | MCP server for Fluxwright (Claude, Codex, Cursor) |
+| 2026-11-26 14:24:27 | [esp-agent-patterns](https://crates.io/crates/esp-agent-patterns) | 0.2.0 | 0 | Pattern rules shared by esp-agent and its macros |
+| 2026-11-26 14:25:07 | [gnitz-trace](https://crates.io/crates/gnitz-trace) | 0.1.10 | 0 | The traces of the gnitz database: sorted runs, the shard file, the cursor that… |
+| 2026-11-26 14:25:15 | [gnitz-dump](https://crates.io/crates/gnitz-dump) | 0.1.10 | 0 | Logical dump and restore for the gnitz database: schema as SQL, rows as Parquet |
+| 2026-11-26 14:27:21 | [hammock-openapi](https://crates.io/crates/hammock-openapi) | 0.1.0 | 0 | Generate an OpenAPI document from a Hammock project's source code |
+| 2026-11-26 14:27:35 | [speedyspec-wp-i18n-contracts](https://crates.io/crates/speedyspec-wp-i18n-contracts) | 0.2.0 | 0 | Ports and plain values of the WordPress translations port: file readers, the fi… |
+| 2026-11-26 14:28:55 | [tilo-locale](https://crates.io/crates/tilo-locale) | 0.5.0 | 0 | The person's region and formats: currency, date and time styles, measurement sy… |
+| 2026-11-26 14:29:57 | [burrow-mcp](https://crates.io/crates/burrow-mcp) | 2.0.3 | 0 | MCP server for LeafWiki: read, search, write and organize wiki pages with your… |
+| 2026-11-26 14:30:13 | [amentys-awq](https://crates.io/crates/amentys-awq) | 0.1.0 | 0 | Branch ledger: manages immutable and ephemeral Merkle tree states |
+| 2026-11-26 14:31:44 | [chronon-suspend](https://crates.io/crates/chronon-suspend) | 0.17.1 | 0 | Thread and process suspension for chronon profiler |
+| 2026-11-26 14:37:35 | [speedyspec-wp-html-syntax](https://crates.io/crates/speedyspec-wp-html-syntax) | 0.6.0 | 0 | WordPress's HTML API syntax pieces: WP_HTML_Decoder, the HTML5 named character… |
+| 2026-11-26 14:38:42 | [duan](https://crates.io/crates/duan) | 0.1.0 | 0 | DUAN simulation platform library |
+| 2026-11-26 14:38:54 | [tilo-runtime-bundle](https://crates.io/crates/tilo-runtime-bundle) | 0.5.0 | 0 | Produce and verify Tilo runtime bundles (content-addressed loader + libc set fo… |
+| 2026-11-26 14:39:10 | [taiki-e-test-helper](https://crates.io/crates/taiki-e-test-helper) | 0.1.0 | 0 | Internal test helper. |
+| 2026-11-26 14:39:17 | [duan-cli](https://crates.io/crates/duan-cli) | 0.1.0 | 0 | Command line automation surface for the DUAN platform |
+| 2026-11-26 14:40:11 | [elixare](https://crates.io/crates/elixare) | 0.1.0 | 0 | A simple and extensible CLI boilerplate generation tool |
+| 2026-11-26 14:40:49 | [minima-core](https://crates.io/crates/minima-core) | 0.7.1 | 0 | Providers and the agent loop of the minima coding agent, without its tools or t… |
+| 2026-11-26 14:41:21 | [okbot-apps](https://crates.io/crates/okbot-apps) | 0.14.0 | 0 | Apps for okbot: manifests, built-in apps, the sandboxed shell and static servin… |
+| 2026-11-26 14:41:44 | [chronon-unwind](https://crates.io/crates/chronon-unwind) | 0.17.1 | 0 | Unified Python + Native + Hybrid stack unwinding for chronon profiler |
+| 2026-11-26 14:44:12 | [vulkane-hlsl-emit](https://crates.io/crates/vulkane-hlsl-emit) | 0.27.1 | 0 | The HLSL compute-shader emitter for Unpopped: IR to HLSL source for DXC (Struct… |
+| 2026-11-26 14:44:23 | [nsmetry](https://crates.io/crates/nsmetry) | 0.1.0 | 0 | Event analytics for Native Shell (NSH) apps, sent to a self-hosted NsMetry inst… |
+| 2026-11-26 14:45:42 | [vulkane-kernel-text](https://crates.io/crates/vulkane-kernel-text) | 0.27.1 | 0 | The shared text walker for Vulkane's kernel emitters: lowers an Unpopped kernel… |
+| 2026-11-26 14:47:12 | [vulkane-glsl-emit](https://crates.io/crates/vulkane-glsl-emit) | 0.27.1 | 0 | The GLSL compute-shader emitter for Unpopped: kernel-layer IR to GLSL 4.50 sour… |
+| 2026-11-26 14:47:35 | [speedyspec-wp-hooks-contracts](https://crates.io/crates/speedyspec-wp-hooks-contracts) | 0.2.0 | 0 | The Hook API port (plugin.php, as other seams call it) and the values passed th… |
+| 2026-11-26 14:48:53 | [tilo-surface-compile](https://crates.io/crates/tilo-surface-compile) | 0.5.0 | 0 | Compiles an app's authored surface.toml into the canonical compiled surface the… |
+| 2026-11-26 14:49:13 | [catchlight-extension-humanoid](https://crates.io/crates/catchlight-extension-humanoid) | 0.0.0 | 0 | Reserves the name for Catchlight; the first release follows |
+| 2026-11-26 14:49:15 | [catchlight-extension-expressions](https://crates.io/crates/catchlight-extension-expressions) | 0.0.0 | 0 | Reserves the name for Catchlight; the first release follows |
+| 2026-11-26 14:49:16 | [catchlight-extension-animations](https://crates.io/crates/catchlight-extension-animations) | 0.0.0 | 0 | Reserves the name for Catchlight; the first release follows |
+| 2026-11-26 14:50:17 | [vulkane-wgsl-emit](https://crates.io/crates/vulkane-wgsl-emit) | 0.27.1 | 0 | The WGSL compute-shader emitter for Unpopped: IR to WGSL source (var<storage> o… |
+| 2026-11-26 14:51:44 | [chronon-profiler](https://crates.io/crates/chronon-profiler) | 0.17.1 | 0 | High-performance out-of-process sampling profiler for Python (3.12+) and hybrid… |
+| 2026-11-26 14:56:51 | [sanitty-karet-lsp](https://crates.io/crates/sanitty-karet-lsp) | 0.8.0 | 0 | karet-lsp 0.8.0 (by Justin Chung) with two fixes, for sanitty: Markdown hover a… |
+| 2026-11-26 14:57:00 | [sanitty](https://crates.io/crates/sanitty) | 0.1.0 | 0 | A little sanity for your tty: a non-modal IDE for the terminal |
+| 2026-11-26 14:57:36 | [speedyspec-wp-db-contracts](https://crates.io/crates/speedyspec-wp-db-contracts) | 0.2.0 | 0 | The wpdb port (wpdb, as other seams call it), its values and its errors. |
+| 2026-11-26 14:57:51 | [sciart-scenes-matter](https://crates.io/crates/sciart-scenes-matter) | 0.7.0 | 0 | Internal: the Reactions and States of Matter scenes of sciart. No semver promis… |
+| 2026-11-26 14:57:54 | [sciart-scenes-life](https://crates.io/crates/sciart-scenes-life) | 0.7.0 | 0 | Internal: the life-science scenes of sciart. No semver promise; use the `sciart… |
+| 2026-11-26 14:58:53 | [tilo-view-macros](https://crates.io/crates/tilo-view-macros) | 0.5.0 | 0 | The `#[view]` attribute: a Rust app's view, declared as a function of a resourc… |
+| 2026-11-26 15:01:15 | [sciart-render](https://crates.io/crates/sciart-render) | 0.7.0 | 0 | Internal: themes and terminal painting of sciart. No semver promise; use the `s… |
+| 2026-11-26 15:01:30 | [sciart-capture](https://crates.io/crates/sciart-capture) | 0.7.0 | 0 | Internal: headless frame capture of sciart (PNG, GIF, asciicast). No semver pro… |
+| 2026-11-26 15:02:27 | [fln-literals](https://crates.io/crates/fln-literals) | 0.1.0 | 0 | Zero-dependency Flick-compatible literal scanner, decoder, and lexical helpers… |
+| 2026-11-26 15:02:29 | [fln-ast](https://crates.io/crates/fln-ast) | 0.1.0 | 0 | AST, layout-aware parser, and pretty printer for FLN (Flick Notation) |
+| 2026-11-26 15:02:30 | [fln-macros](https://crates.io/crates/fln-macros) | 0.1.0 | 0 | Compile-time FLN literal proc-macros for fln |
+| 2026-11-26 15:02:32 | [fln](https://crates.io/crates/fln) | 0.1.0 | 0 | FLN (Flick Notation) parsing, encoding, decoding, macros, and recursion schemes |
+| 2026-11-26 15:03:04 | [libudp](https://crates.io/crates/libudp) | 0.4.1 | 0 | A series of tools for libev to assist in UDP |
+| 2026-11-26 15:06:02 | [cloud_terrastodon_cache](https://crates.io/crates/cloud_terrastodon_cache) | 0.38.0 | 0 | Explicit cache ownership and logical identity for Cloud Terrastodon |
+| 2026-11-26 15:06:24 | [cloud_terrastodon_iconography](https://crates.io/crates/cloud_terrastodon_iconography) | 0.38.0 | 0 | Shared SVG icon contracts for Cloud Terrastodon icon collections |
+| 2026-11-26 15:06:32 | [cloud_terrastodon_source_types](https://crates.io/crates/cloud_terrastodon_source_types) | 0.38.0 | 0 | Local source repository inventory types for Cloud Terrastodon |
+| 2026-11-26 15:07:19 | [iron-suite](https://crates.io/crates/iron-suite) | 0.3.1 | 0 | Zero-cloud SQLite FTS5 + stdio MCP memory hub and multi-agent engineering suite… |
+| 2026-11-26 15:07:35 | [speedyspec-wp-cron-contracts](https://crates.io/crates/speedyspec-wp-cron-contracts) | 0.5.0 | 0 | WordPress's cron contracts: the cron array as a plain value, the ports the sche… |
+| 2026-11-26 15:08:44 | [cloud_terrastodon_iconography_azure](https://crates.io/crates/cloud_terrastodon_iconography_azure) | 0.38.0 | 0 | Category-gated embedded Azure SVG icons |
+| 2026-11-26 15:08:48 | [cloud_terrastodon_iconography_azure_devops](https://crates.io/crates/cloud_terrastodon_iconography_azure_devops) | 0.38.0 | 0 | Category-gated embedded Azure DevOps SVG icons |
+| 2026-11-26 15:08:54 | [tilo-view](https://crates.io/crates/tilo-view) | 0.5.0 | 0 | A Rust app's views: named functions of a resource that return described compone… |
+| 2026-11-26 15:10:16 | [cloud_terrastodon_auth_types](https://crates.io/crates/cloud_terrastodon_auth_types) | 0.38.0 | 0 | Authentication selections and credential value contracts for Cloud Terrastodon |
+| 2026-11-26 15:11:07 | [graey-art](https://crates.io/crates/graey-art) | 0.1.0 | 0 | A fun game where you guess what number the compute has chosen. |
+| 2026-11-26 15:17:36 | [speedyspec-transport-contracts](https://crates.io/crates/speedyspec-transport-contracts) | 0.2.0 | 0 | The unified operation API's transport contracts: the Transport port and its def… |
 
 ## Data source
 

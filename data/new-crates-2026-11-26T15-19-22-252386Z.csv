@@ -1,0 +1,63 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-26T14:18:54.537699Z,tilo-caps,0.5.0,0,0,https://code.tilo.so/tilo/tilo,"The Tilo app capability vocabulary and its availability on Linux, macOS and the web, as data the CLI, the registry and the docs share."
+2026-11-26T14:18:55.158189Z,djangors-contrib-notifications,1.1.0,0,0,https://github.com/QUANTORA-ltd/djangors,"Multi-channel notifications (Email, In-App DB Inbox, Webhook, Slack, Discord) with per-user preferences for Djangors"
+2026-11-26T14:19:58.19708Z,isoloom-topology,3.0.0,0,0,https://github.com/isoloom/isoloom,Isoloom's topology compiler: a network drawn in a topology editor becomes an Isoloom spec and the project files it refers to.
+2026-11-26T14:20:00.168181Z,isoloom-wasm,3.0.0,0,0,https://github.com/isoloom/isoloom,"Isoloom's topology compiler and targets in WebAssembly, for a topology editor: a drawn network becomes an Isoloom spec, every target's files and the downloads."
+2026-11-26T14:20:31.57442Z,isothrum-client,3.0.0,0,0,https://github.com/Isothrum/isothrum,"The client of the Isothrum runner service: connect to (or start) a home's service, send it commands, follow its event stream."
+2026-11-26T14:21:44.507094Z,chronon-perf,0.17.1,0,0,https://github.com/hudson-trading/chronon,Linux perf/stackpulse integration for chronon
+2026-11-26T14:21:53.972975Z,djangors-contrib-webhooks,1.1.0,0,0,https://github.com/QUANTORA-ltd/djangors,"Customer-facing outbound webhooks with HMAC-SHA256 signing, replay-window verification, exponential backoff retries, and 1-click replay for Djangors"
+2026-11-26T14:22:25.452307Z,trustbelt-application,0.2.0,0,0,https://github.com/trustbelt/trustbelt,"What stands around a TrustBelt domain, in plain Rust: a skeleton of a store, of the outbox and its delivery, and of the application that turns what someone sent into a command"
+2026-11-26T14:22:56.263794Z,fluxwright-mcp,0.14.0,0,0,https://github.com/harshit-d3v/fluxwright,"MCP server for Fluxwright (Claude, Codex, Cursor)"
+2026-11-26T14:24:27.40765Z,esp-agent-patterns,0.2.0,0,0,https://github.com/veeso/esp-agent,Pattern rules shared by esp-agent and its macros
+2026-11-26T14:25:07.351279Z,gnitz-trace,0.1.10,0,0,https://github.com/Ed-von-Schleck/gnitz,"The traces of the gnitz database: sorted runs, the shard file, the cursor that merges runs, and the operators that read a trace"
+2026-11-26T14:25:15.170954Z,gnitz-dump,0.1.10,0,0,https://github.com/Ed-von-Schleck/gnitz,"Logical dump and restore for the gnitz database: schema as SQL, rows as Parquet"
+2026-11-26T14:27:21.529791Z,hammock-openapi,0.1.0,0,0,https://github.com/sevria/hammock,Generate an OpenAPI document from a Hammock project's source code
+2026-11-26T14:27:35.963073Z,speedyspec-wp-i18n-contracts,0.2.0,0,0,https://github.com/SpeedySpec/speedyspec-platform,"Ports and plain values of the WordPress translations port: file readers, the file probe and the file cache."
+2026-11-26T14:28:55.050506Z,tilo-locale,0.5.0,0,0,https://code.tilo.so/tilo/tilo,"The person's region and formats: currency, date and time styles, measurement system, number style and first day of the week."
+2026-11-26T14:29:57.356285Z,burrow-mcp,2.0.3,0,0,https://github.com/RedFoxxo/burrow,"MCP server for LeafWiki: read, search, write and organize wiki pages with your own account, without overwriting anyone's changes"
+2026-11-26T14:30:13.942819Z,amentys-awq,0.1.0,0,0,,Branch ledger: manages immutable and ephemeral Merkle tree states
+2026-11-26T14:31:44.576286Z,chronon-suspend,0.17.1,0,0,https://github.com/hudson-trading/chronon,Thread and process suspension for chronon profiler
+2026-11-26T14:37:35.250968Z,speedyspec-wp-html-syntax,0.6.0,0,0,https://github.com/SpeedySpec/speedyspec-platform,"WordPress's HTML API syntax pieces: WP_HTML_Decoder, the HTML5 named character references, start-tag attributes."
+2026-11-26T14:38:42.146502Z,duan,0.1.0,0,0,https://github.com/Zoranner/duan,DUAN simulation platform library
+2026-11-26T14:38:54.346541Z,tilo-runtime-bundle,0.5.0,0,0,https://code.tilo.so/tilo/tilo,Produce and verify Tilo runtime bundles (content-addressed loader + libc set for sandboxed apps).
+2026-11-26T14:39:10.935496Z,taiki-e-test-helper,0.1.0,0,0,https://github.com/taiki-e/test-helper,Internal test helper.
+2026-11-26T14:39:17.384192Z,duan-cli,0.1.0,0,0,https://github.com/Zoranner/duan,Command line automation surface for the DUAN platform
+2026-11-26T14:40:11.086984Z,elixare,0.1.0,0,0,https://github.com/nunoguevara/elixare,A simple and extensible CLI boilerplate generation tool
+2026-11-26T14:40:49.224886Z,minima-core,0.7.1,0,0,https://github.com/shakfu/minima,"Providers and the agent loop of the minima coding agent, without its tools or terminal"
+2026-11-26T14:41:21.03004Z,okbot-apps,0.14.0,0,0,https://github.com/tidusvn05/okbot,"Apps for okbot: manifests, built-in apps, the sandboxed shell and static serving (ADR 0019)."
+2026-11-26T14:41:44.791474Z,chronon-unwind,0.17.1,0,0,https://github.com/hudson-trading/chronon,Unified Python + Native + Hybrid stack unwinding for chronon profiler
+2026-11-26T14:44:12.007241Z,vulkane-hlsl-emit,0.27.1,0,0,https://github.com/ThinkersJournal/vulkane,"The HLSL compute-shader emitter for Unpopped: IR to HLSL source for DXC (StructuredBuffer operands, a [numthreads] entry), a thin layer over fishstringer-slang-emit. Vulkane owns HLSL."
+2026-11-26T14:44:23.741749Z,nsmetry,0.1.0,0,0,https://github.com/huacnlee/nsmetry,"Event analytics for Native Shell (NSH) apps, sent to a self-hosted NsMetry instance: batched, retrying, privacy-first"
+2026-11-26T14:45:42.567995Z,vulkane-kernel-text,0.27.1,0,0,https://github.com/ThinkersJournal/vulkane,"The shared text walker for Vulkane's kernel emitters: lowers an Unpopped kernel-layer KernelFn to C-like shader source through a per-language Dialect (GLSL, WGSL). Vulkane owns the text targets."
+2026-11-26T14:47:12.401817Z,vulkane-glsl-emit,0.27.1,0,0,https://github.com/ThinkersJournal/vulkane,"The GLSL compute-shader emitter for Unpopped: kernel-layer IR to GLSL 4.50 source (std430 buffers, shared arrays, barrier(), structured control flow) over the shared vulkane-kernel-text walker. Vulka…"
+2026-11-26T14:47:35.575484Z,speedyspec-wp-hooks-contracts,0.2.0,0,0,https://github.com/SpeedySpec/speedyspec-platform,"The Hook API port (plugin.php, as other seams call it) and the values passed through it."
+2026-11-26T14:48:53.737164Z,tilo-surface-compile,0.5.0,0,0,https://code.tilo.so/tilo/tilo,"Compiles an app's authored surface.toml into the canonical compiled surface the system commits, addresses, hashes and sends."
+2026-11-26T14:49:13.365584Z,catchlight-extension-humanoid,0.0.0,0,0,https://github.com/hyperlogue/catchlight,Reserves the name for Catchlight; the first release follows
+2026-11-26T14:49:15.041296Z,catchlight-extension-expressions,0.0.0,0,0,https://github.com/hyperlogue/catchlight,Reserves the name for Catchlight; the first release follows
+2026-11-26T14:49:16.77895Z,catchlight-extension-animations,0.0.0,0,0,https://github.com/hyperlogue/catchlight,Reserves the name for Catchlight; the first release follows
+2026-11-26T14:50:17.437227Z,vulkane-wgsl-emit,0.27.1,0,0,https://github.com/ThinkersJournal/vulkane,"The WGSL compute-shader emitter for Unpopped: IR to WGSL source (var<storage> operands, a @compute @workgroup_size entry) with typed declines for what WGSL lacks. Vulkane owns WGSL."
+2026-11-26T14:51:44.123427Z,chronon-profiler,0.17.1,0,0,https://github.com/hudson-trading/chronon,High-performance out-of-process sampling profiler for Python (3.12+) and hybrid native stacks
+2026-11-26T14:56:51.784666Z,sanitty-karet-lsp,0.8.0,0,0,https://github.com/robinvandernoord/sanitty,"karet-lsp 0.8.0 (by Justin Chung) with two fixes, for sanitty: Markdown hover and TypeScript 7 diagnostics. Use karet-lsp itself once a release has them."
+2026-11-26T14:57:00.167979Z,sanitty,0.1.0,0,0,https://github.com/robinvandernoord/sanitty,A little sanity for your tty: a non-modal IDE for the terminal
+2026-11-26T14:57:36.411519Z,speedyspec-wp-db-contracts,0.2.0,0,0,https://github.com/SpeedySpec/speedyspec-platform,"The wpdb port (wpdb, as other seams call it), its values and its errors."
+2026-11-26T14:57:51.544388Z,sciart-scenes-matter,0.7.0,0,0,https://github.com/nilesh-patil/sciart,Internal: the Reactions and States of Matter scenes of sciart. No semver promise; use the `sciart` crate
+2026-11-26T14:57:54.798741Z,sciart-scenes-life,0.7.0,0,0,https://github.com/nilesh-patil/sciart,Internal: the life-science scenes of sciart. No semver promise; use the `sciart` crate
+2026-11-26T14:58:53.822103Z,tilo-view-macros,0.5.0,0,0,https://code.tilo.so/tilo/tilo,"The `#[view]` attribute: a Rust app's view, declared as a function of a resource that returns described components, registered with the views its crate declares (one-app-model.md §2)."
+2026-11-26T15:01:15.410125Z,sciart-render,0.7.0,0,0,https://github.com/nilesh-patil/sciart,Internal: themes and terminal painting of sciart. No semver promise; use the `sciart` crate
+2026-11-26T15:01:30.075996Z,sciart-capture,0.7.0,0,0,https://github.com/nilesh-patil/sciart,"Internal: headless frame capture of sciart (PNG, GIF, asciicast). No semver promise; use the `sciart` crate"
+2026-11-26T15:02:27.298175Z,fln-literals,0.1.0,0,0,https://github.com/bondiano/fln,"Zero-dependency Flick-compatible literal scanner, decoder, and lexical helpers for FLN"
+2026-11-26T15:02:29.286977Z,fln-ast,0.1.0,0,0,https://github.com/bondiano/fln,"AST, layout-aware parser, and pretty printer for FLN (Flick Notation)"
+2026-11-26T15:02:30.905417Z,fln-macros,0.1.0,0,0,https://github.com/bondiano/fln,Compile-time FLN literal proc-macros for fln
+2026-11-26T15:02:32.515125Z,fln,0.1.0,0,0,https://github.com/bondiano/fln,"FLN (Flick Notation) parsing, encoding, decoding, macros, and recursion schemes"
+2026-11-26T15:03:04.772268Z,libudp,0.4.1,0,0,https://github.com/edengates/libudp,A series of tools for libev to assist in UDP
+2026-11-26T15:06:02.054093Z,cloud_terrastodon_cache,0.38.0,0,0,https://github.com/AAFC-Cloud/Cloud-Terrastodon.git,Explicit cache ownership and logical identity for Cloud Terrastodon
+2026-11-26T15:06:24.246903Z,cloud_terrastodon_iconography,0.38.0,0,0,https://github.com/AAFC-Cloud/Cloud-Terrastodon.git,Shared SVG icon contracts for Cloud Terrastodon icon collections
+2026-11-26T15:06:32.180084Z,cloud_terrastodon_source_types,0.38.0,0,0,https://github.com/AAFC-Cloud/Cloud-Terrastodon.git,Local source repository inventory types for Cloud Terrastodon
+2026-11-26T15:07:19.160942Z,iron-suite,0.3.1,0,0,https://github.com/arielonoriaga/iron-suite,"Zero-cloud SQLite FTS5 + stdio MCP memory hub and multi-agent engineering suite (Claude Code, Codex, Antigravity)"
+2026-11-26T15:07:35.58974Z,speedyspec-wp-cron-contracts,0.5.0,0,0,https://github.com/SpeedySpec/speedyspec-platform,"WordPress's cron contracts: the cron array as a plain value, the ports the scheduling core needs, and its outcomes."
+2026-11-26T15:08:44.270644Z,cloud_terrastodon_iconography_azure,0.38.0,0,0,https://github.com/AAFC-Cloud/Cloud-Terrastodon.git,Category-gated embedded Azure SVG icons
+2026-11-26T15:08:48.02406Z,cloud_terrastodon_iconography_azure_devops,0.38.0,0,0,https://github.com/AAFC-Cloud/Cloud-Terrastodon.git,Category-gated embedded Azure DevOps SVG icons
+2026-11-26T15:08:54.160396Z,tilo-view,0.5.0,0,0,https://code.tilo.so/tilo/tilo,"A Rust app's views: named functions of a resource that return described components (one-app-model.md §2). The tree a `#[view]` builds is the tree a tilolang view builds, keys and all, so the UI host…"
+2026-11-26T15:10:16.68751Z,cloud_terrastodon_auth_types,0.38.0,0,0,https://github.com/AAFC-Cloud/Cloud-Terrastodon.git,Authentication selections and credential value contracts for Cloud Terrastodon
+2026-11-26T15:11:07.783Z,graey-art,0.1.0,0,0,,A fun game where you guess what number the compute has chosen.
+2026-11-26T15:17:36.239878Z,speedyspec-transport-contracts,0.2.0,0,0,https://github.com/SpeedySpec/speedyspec-platform,"The unified operation API's transport contracts: the Transport port and its default mapping, bindings, exposure lookup, authentication, codecs and hook stages."
