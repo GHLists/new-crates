@@ -1,0 +1,43 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-26T07:19:58.76502Z,parallax-gpui-refineable,0.3.14-parallax.1,0,0,https://github.com/xuckless/parallax,Parallax's build of GPUI refineable: upstream gpui-pre 0.3.14 (Zed f126950) + Parallax patches
+2026-11-26T07:24:23.057658Z,nana-text,0.1.0-alpha.1,0,0,https://github.com/sena-nana/NanaUI,"Nana-native text IR, stable text ids, and migration parity contracts"
+2026-11-26T07:24:29.534528Z,ferry-router-core,0.1.0,0,0,https://github.com/0xdhrv/ferry-router,"Routing engine for Ferry: config, URL cleaning, rule matching and route traces."
+2026-11-26T07:24:45.722825Z,ferry-router,0.1.0,0,0,https://github.com/0xdhrv/ferry-router,"The ferry command: route links to the right browser, profile or app, explain why, and serve it all to AI agents over MCP."
+2026-11-26T07:33:52.072563Z,plutea,0.0.0,0,0,https://github.com/plutea-dev/plutea,Name reserved for Plutea; the first release will be published from github.com/plutea-dev/plutea
+2026-11-26T07:34:22.330907Z,nana-ui-charts,0.1.0-alpha.1,0,0,https://github.com/sena-nana/NanaUI,"Backend-neutral chart model for NanaUI: options, scales, layout and GPU mark data"
+2026-11-26T07:39:45.146151Z,asterust-iosxr,0.2.0,0,0,https://github.com/asterust/asterust,"Typed Cisco IOS XR config blocks (interface, OSPF, BGP, IS-IS) extracted from an asterust config tree."
+2026-11-26T07:39:52.552414Z,asterust-iosxe,0.1.0,0,0,https://github.com/asterust/asterust,"Typed Cisco IOS XE config blocks (interface, OSPF, BGP, IS-IS) extracted from an asterust config tree."
+2026-11-26T07:43:19.159405Z,pgmig-conn,0.1.0,0,0,https://github.com/kaeawc/pgmig,"Synchronous Postgres connection used for targets and shadow databases, with SQLSTATE errors."
+2026-11-26T07:43:19.717551Z,pgmig-model,0.1.0,0,0,https://github.com/kaeawc/pgmig,"pgmig's schema model: objects, identities and SQL identifier quoting. No I/O."
+2026-11-26T07:43:20.693652Z,pgmig-diff,0.1.0,0,0,https://github.com/kaeawc/pgmig,Compares two schema models and lists the changes between them.
+2026-11-26T07:43:21.02756Z,pgmig-inspect,0.1.0,0,0,https://github.com/kaeawc/pgmig,Reads a database's catalog into pgmig's schema model.
+2026-11-26T07:43:21.202775Z,endmark-core,0.1.0,0,0,https://github.com/adamgilman/endmark,"Reader and writer for Endmark, a collaboration layer for Markdown: scanner, records, state and anchoring"
+2026-11-26T07:43:21.352021Z,pgmig-shadow,0.1.0,0,0,https://github.com/kaeawc/pgmig,The shadow database pgmig executes desired-state SQL in: embedded pgmem or an empty real Postgres.
+2026-11-26T07:43:22.611969Z,endmark,0.1.0,0,0,https://github.com/adamgilman/endmark,"The endmark command: lint, inspect and revert changes in Endmark files"
+2026-11-26T07:44:23.552952Z,nana-ui-css,0.1.0-alpha.1,0,0,https://github.com/sena-nana/NanaUI,"NanaUI's CSS subset: stylesheet parse, cascade and the mapping onto the Style Model, run at build time by the .vue compiler, view! and css!"
+2026-11-26T07:46:48.14615Z,copper-json,0.3.0,0,0,https://github.com/andenore/CopperScript,JSON values and a serializer that reproduces Python's json module byte for byte
+2026-11-26T07:46:50.542284Z,copper-units,0.3.0,0,0,https://github.com/andenore/CopperScript,"Exact numeric types: Python-compatible decimals, nanometres, fractions and quantities"
+2026-11-26T07:46:52.76502Z,copper-physical,0.3.0,0,0,https://github.com/andenore/CopperScript,"Exact board geometry: outlines, holes, curves and their validation"
+2026-11-26T07:46:55.197967Z,copper-cam,0.3.0,0,0,https://github.com/andenore/CopperScript,"Native manufacturing artwork: Gerber X2, Excellon, IPC-D-356 and positions from a KiCad board, and CAM comparison"
+2026-11-26T07:46:57.589874Z,copper-sim,0.3.0,0,0,https://github.com/andenore/CopperScript,"Pure-numerics circuit simulator core: element list, macro models, modified nodal analysis, operating point, AC sweeps and measurements"
+2026-11-26T07:54:21.472502Z,nana-ui-input,0.1.0-alpha.1,0,0,https://github.com/sena-nana/NanaUI,"Canonical input events, endpoints and the host services contract input routing speaks"
+2026-11-26T07:55:41.562649Z,rsille-overlay,0.1.0,0,0,https://github.com/nidhoggfgg/rsille.git,Draw rsille graphics and widgets over a live shell session
+2026-11-26T07:57:00.664731Z,copper-emi,0.3.0,0,0,https://github.com/andenore/CopperScript,"Pure-numerics EMI/EMC screening estimators: spectra, limit lines, partial inductance, LISN and CISPR receiver detectors"
+2026-11-26T07:57:59.214283Z,ppl-cli,5.0.0,0,0,https://github.com/henrycatalinismith/ppl,Command-line address book
+2026-11-26T08:04:20.577997Z,nana-ui-diagram,0.1.0-alpha.1,0,0,https://github.com/sena-nana/NanaUI,"Native Mermaid diagrams for NanaUI: parsing, layout and a theme-neutral vector display list"
+2026-11-26T08:07:04.152432Z,copper-state,0.3.0,0,0,https://github.com/andenore/CopperScript,"The copperscript.state/v1 file format: read, verify and write state files"
+2026-11-26T08:11:20.106455Z,memoire-engine,0.1.0,0,0,https://github.com/tazwaryayyyy/Memorie-AI,"A local-first, embeddable long-term memory engine for AI coding agents"
+2026-11-26T08:14:22.037878Z,nana-ui-platform,0.1.0-alpha.1,0,0,https://github.com/sena-nana/NanaUI,"Android/desktop input, IME, clipboard, and fetch host boundary"
+2026-11-26T08:14:45.037184Z,pgmig-plan,0.1.0,0,0,https://github.com/kaeawc/pgmig,Turns schema changes into ordered SQL statements.
+2026-11-26T08:14:46.809412Z,pgmig,0.1.0,0,0,https://github.com/kaeawc/pgmig,pgmig's library surface: one function per command.
+2026-11-26T08:14:48.534157Z,pgmig-cli,0.1.0,0,0,https://github.com/kaeawc/pgmig,The pgmig command-line tool.
+2026-11-26T08:15:33.936051Z,orbit-rdma,0.1.0,0,0,https://github.com/OrbitInfra/OrbitRDMA,Linux RC RDMA transfers with registered host buffers and explicit completion receipts
+2026-11-26T08:16:29.444162Z,tilo-default-apps,0.5.0,0,0,https://code.tilo.so/tilo/tilo,"Canonical desktop policy shared by the Tilo launcher, Settings and workspace chrome."
+2026-11-26T08:16:34.12725Z,tilo-desktop-model,0.5.0,0,0,https://code.tilo.so/tilo/tilo,The canonical Tilo desktop model shared by every host.
+2026-11-26T08:16:38.317218Z,tilo-model-client,0.5.0,0,0,https://code.tilo.so/tilo/tilo,"Authenticated, host-scoped model capabilities for Tilo applications."
+2026-11-26T08:16:41.994423Z,tilo-shm,0.5.0,0,0,https://code.tilo.so/tilo/tilo,"Anonymous shared memory between processes: a sealed memfd on Linux, unlinked POSIX shared memory on macOS, a read-only pagefile section on Windows, and the read-only view of each."
+2026-11-26T08:16:45.290618Z,tilo-startup-metrics,0.5.0,0,0,https://code.tilo.so/tilo/tilo,Lightweight startup-timing capture for Tilo apps.
+2026-11-26T08:17:03.467248Z,rustmp,0.1.0,0,0,https://github.com/xfront/compose-rs,A cross-platform Rust GUI library with Jetpack Compose architecture (render-agnostic core + merged render/platform layers)
+2026-11-26T08:17:07.990102Z,copper-lang,0.3.0,0,0,https://github.com/andenore/CopperScript,"The CopperScript language frontend: lexer, parser and syntax tree"
+2026-11-26T08:17:51.951981Z,rustmp-material,0.1.0,0,0,https://github.com/xfront/compose-rs,Material 3 widgets for compose — Jetpack Compose-style Rust GUI (text/surface/card/button/checkbox/switch/slider/text_field/scrollable_column)
+2026-11-26T08:18:53.931815Z,tilo-taffy,0.5.0,0,0,https://code.tilo.so/tilo/tilo,"taffy 0.10.1 (https://github.com/DioxusLabs/taffy) laid out on device pixels at any display scale, with flex items measured at the cross size they are laid out at. Tilo's fork; see TILO-PATCH.md."
