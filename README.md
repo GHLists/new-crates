@@ -8,43 +8,46 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-26 02:21 UTC
+## Latest list — 2026-11-26 03:19 UTC
 
-New crates published between 2026-11-26 01:20 UTC and 2026-11-26 02:21 UTC.
+New crates published between 2026-11-26 02:21 UTC and 2026-11-26 03:19 UTC.
 
-[Full CSV](data/new-crates-2026-11-26T02-21-48-929091Z.csv)
+[Full CSV](data/new-crates-2026-11-26T03-19-30-296207Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-26 01:25:20 | [cw-environment](https://crates.io/crates/cw-environment) | 0.3.0 | 0 | ComputerWorld's environment: sessions on machines, actions, observations, scene… |
-| 2026-11-26 01:28:54 | [tilo-host-search](https://crates.io/crates/tilo-host-search) | 0.5.0 | 0 | Hands a result the host operating system's search asks an app to open to the Ti… |
-| 2026-11-26 01:36:12 | [tc_pbe](https://crates.io/crates/tc_pbe) | 0.1.0 | 0 | Password-based key derivation for PBE after Bouncy Castle: PBKDF1, PBKDF2, PKCS… |
-| 2026-11-26 01:38:55 | [tilo-key-group](https://crates.io/crates/tilo-key-group) | 0.5.0 | 0 | A workspace's MLS group: its members, epochs and content keys. |
-| 2026-11-26 01:42:36 | [cw-font-pack-cjk](https://crates.io/crates/cw-font-pack-cjk) | 0.3.0 | 0 | ComputerWorld's font pack, part three: Korean, Traditional Chinese and Japanese |
-| 2026-11-26 01:46:36 | [stogas-sev-snp](https://crates.io/crates/stogas-sev-snp) | 0.1.0-alpha.6 | 0 | Networkless verification of AMD SEV-SNP attestation reports, for no_std, native… |
-| 2026-11-26 01:46:47 | [stogas-sigstore](https://crates.io/crates/stogas-sigstore) | 0.1.0-alpha.6 | 0 | Networkless verification of the GitHub/Sigstore in-toto profile |
-| 2026-11-26 01:46:59 | [stogas-core](https://crates.io/crates/stogas-core) | 0.1.0-alpha.6 | 0 | Offline verifier for Stogas confidential gateway evidence |
-| 2026-11-26 01:47:10 | [stogas](https://crates.io/crates/stogas) | 0.1.0-alpha.6 | 0 | The Stogas SDK for verified confidential AI connections |
-| 2026-11-26 01:47:21 | [stogas-cli](https://crates.io/crates/stogas-cli) | 0.1.0-alpha.6 | 0 | The Stogas command line: sign-up, top-ups, policy editing, credential checks, a… |
-| 2026-11-26 01:48:54 | [tilo-local-identity](https://crates.io/crates/tilo-local-identity) | 0.5.0 | 0 | Who sits at this device: the process's one identity boundary and the source a h… |
-| 2026-11-26 01:57:31 | [tc_pwhash](https://crates.io/crates/tc_pwhash) | 0.1.0 | 0 | Password hashing after Bouncy Castle: Argon2, bcrypt with OpenBSD's hash string… |
-| 2026-11-26 01:58:54 | [tilo-mime](https://crates.io/crates/tilo-mime) | 0.5.0 | 0 | A file's MIME type by its extension, from a table the loader never relocates. |
-| 2026-11-26 02:00:20 | [cw-font-pack-emoji](https://crates.io/crates/cw-font-pack-emoji) | 0.3.0 | 0 | ComputerWorld's font pack, part one: colour and monochrome emoji, and the Sinha… |
-| 2026-11-26 02:07:27 | [acorn-store](https://crates.io/crates/acorn-store) | 0.7.0 | 0 | Durable daemon job and run history storage for ACORN |
-| 2026-11-26 02:07:31 | [cw-font-pack-sc](https://crates.io/crates/cw-font-pack-sc) | 0.3.0 | 0 | ComputerWorld's font pack, part two: Simplified Chinese, regular and bold |
-| 2026-11-26 02:08:55 | [tilo-net](https://crates.io/crates/tilo-net) | 0.5.0 | 0 | The network capability on Linux, macOS and the web: async HTTP with streaming b… |
-| 2026-11-26 02:10:35 | [xlfn-engine](https://crates.io/crates/xlfn-engine) | 0.1.0 | 0 | Lifecycle identities and host mutation contracts for xlfn |
-| 2026-11-26 02:10:40 | [xlfn-host](https://crates.io/crates/xlfn-host) | 0.1.0 | 0 | Excel and Windows host adapter primitives for xlfn |
-| 2026-11-26 02:10:43 | [xlfn-services](https://crates.io/crates/xlfn-services) | 0.1.0 | 0 | Host-independent service backends for xlfn |
-| 2026-11-26 02:14:18 | [cuno-core](https://crates.io/crates/cuno-core) | 0.1.0 | 0 | Error classification, output, the cuno home, and the environment snapshot, shar… |
-| 2026-11-26 02:14:20 | [cuno-test](https://crates.io/crates/cuno-test) | 0.1.0 | 0 | Test discovery, execution, and result reporting. |
-| 2026-11-26 02:14:21 | [cuno-toolchain](https://crates.io/crates/cuno-toolchain) | 0.1.0 | 0 | Compiler abstraction, detection, per-compiler implementations, and flag transla… |
-| 2026-11-26 02:14:24 | [cuno-manifest](https://crates.io/crates/cuno-manifest) | 0.1.0 | 0 | Loading and validating cuno.toml and config.toml. |
-| 2026-11-26 02:14:27 | [cuno-build](https://crates.io/crates/cuno-build) | 0.1.0 | 0 | Building and executing the build graph, change detection, and compile_commands.… |
-| 2026-11-26 02:14:36 | [cw-internet](https://crates.io/crates/cw-internet) | 0.3.0 | 0 | The built-in internet every world joins unless it opts out: public sites, backb… |
-| 2026-11-26 02:18:26 | [octara-headless](https://crates.io/crates/octara-headless) | 0.0.2 | 0 | Unstyled interaction parts and Copy state controllers for Octara. |
-| 2026-11-26 02:18:55 | [tilo-font-catalog](https://crates.io/crates/tilo-font-catalog) | 0.5.0 | 0 | Tilo's pinned font catalog: its manifest, where it is installed, and verificati… |
-| 2026-11-26 02:19:07 | [cuno-tools](https://crates.io/crates/cuno-tools) | 0.1.0 | 0 | cuno fmt and cuno lint (clang-format / clang-tidy). |
+| 2026-11-26 02:25:08 | [openatca-sha256](https://crates.io/crates/openatca-sha256) | 0.1.0 | 0 | SHA-256 digest operations for integrity and content identity |
+| 2026-11-26 02:25:10 | [openatca-xml](https://crates.io/crates/openatca-xml) | 0.1.0 | 0 | Bounded XML 1.0 parser for documented OpenATCA profiles |
+| 2026-11-26 02:28:15 | [fry-db](https://crates.io/crates/fry-db) | 0.1.0 | 0 | Embedded log-structured KV + inbox for multi-agent shared memory |
+| 2026-11-26 02:28:56 | [tilo-notify](https://crates.io/crates/tilo-notify) | 0.5.0 | 0 | User notifications on Linux, macOS and the web: what an app shows its session o… |
+| 2026-11-26 02:30:08 | [tc_jpake](https://crates.io/crates/tc_jpake) | 0.1.0 | 0 | J-PAKE password-authenticated key exchange after Bouncy Castle, with its standa… |
+| 2026-11-26 02:30:09 | [cuno-cli](https://crates.io/crates/cuno-cli) | 0.1.0 | 0 | Everything C/C++ development needs, in one tool. |
+| 2026-11-26 02:35:16 | [trustbelt-dsl](https://crates.io/crates/trustbelt-dsl) | 0.1.0 | 0 | The blocks a TrustBelt domain is written in, parsed and expanded: what the macr… |
+| 2026-11-26 02:35:24 | [trustbelt-macros](https://crates.io/crates/trustbelt-macros) | 0.1.0 | 0 | The macros a TrustBelt domain is written in: `value_objects!`, `aggregate!`, `c… |
+| 2026-11-26 02:35:34 | [trustbelt-conformance](https://crates.io/crates/trustbelt-conformance) | 0.1.0 | 0 | Runs a store against the reference store with the same random operations, and t… |
+| 2026-11-26 02:41:41 | [cuno](https://crates.io/crates/cuno) | 0.1.0 | 0 | Everything C/C++ development needs, in one tool. |
+| 2026-11-26 02:43:47 | [cw-render](https://crates.io/crates/cw-render) | 0.3.0 | 0 | ComputerWorld's deterministic CPU renderer: scenes to pixels, with the platform… |
+| 2026-11-26 02:48:30 | [foundation_agent_rpc](https://crates.io/crates/foundation_agent_rpc) | 0.0.4 | 0 | Per-machine agent RPC model server: load a model once, serve named agent instan… |
+| 2026-11-26 02:49:55 | [iroh-pair](https://crates.io/crates/iroh-pair) | 0.8.3 | 0 | An Iroh Protocol that implements simple pairing between devices and exchange of… |
+| 2026-11-26 02:50:47 | [anchor-book](https://crates.io/crates/anchor-book) | 0.1.0 | 0 | Tools for Anchor Books: shared system designs and verifiable constraints for ag… |
+| 2026-11-26 02:50:51 | [cw-service-common](https://crates.io/crates/cw-service-common) | 0.3.0 | 0 | What ComputerWorld's synthetic internet services share: HTML, themes, accounts… |
+| 2026-11-26 02:50:53 | [yuktai-mira](https://crates.io/crates/yuktai-mira) | 1.0.0 | 0 | MiRa: Telugu for every HTML element. Write <mira h1 font="ntr">మిరా</mira h1> a… |
+| 2026-11-26 02:51:04 | [foundation_sandbox](https://crates.io/crates/foundation_sandbox) | 0.0.2 | 0 | One core library that starts sandboxes and runs commands in them: the contract… |
+| 2026-11-26 02:53:43 | [foundation_installer](https://crates.io/crates/foundation_installer) | 0.0.1 | 0 | Manifest-driven installer: reads a spec 78 manifest, gets each entry through a… |
+| 2026-11-26 02:56:00 | [skewsplit](https://crates.io/crates/skewsplit) | 0.1.0 | 0 | Balanced, index-friendly JDBC partition predicates for Spark, planned from the… |
+| 2026-11-26 02:56:31 | [scorium](https://crates.io/crates/scorium) | 0.1.4 | 0 | High-level loading facade for the Scorium configuration language. |
+| 2026-11-26 02:57:56 | [cw-service-static-site](https://crates.io/crates/cw-service-static-site) | 0.3.0 | 0 | A synthetic internet service of ComputerWorld: static sites |
+| 2026-11-26 02:59:19 | [una](https://crates.io/crates/una) | 0.1.0 | 0 | A UI kit for Wayland apps: one window, panes on a monospace grid, and widgets.… |
+| 2026-11-26 03:05:02 | [cw-service-node-app](https://crates.io/crates/cw-service-node-app) | 0.3.0 | 0 | A world service that serves a real web app: its built frontend, and its own Nod… |
+| 2026-11-26 03:06:09 | [perishables-core](https://crates.io/crates/perishables-core) | 0.1.0 | 0 | Deterministic trust-layer checks for Open Knowledge Format bundles. Tier recomp… |
+| 2026-11-26 03:06:12 | [perishables-semantic](https://crates.io/crates/perishables-semantic) | 0.1.0 | 0 | Cross-ecosystem semantic-layer trust grader covering dbt, Apache Ossie, Snowfla… |
+| 2026-11-26 03:06:15 | [perishables](https://crates.io/crates/perishables) | 0.1.0 | 0 | Deterministic trust-claim auditor for Open Knowledge Format bundles and cross-e… |
+| 2026-11-26 03:06:19 | [verirun-platform](https://crates.io/crates/verirun-platform) | 0.2.0 | 0 | Cross-platform OS boundary for verirun providing process-tree termination, no-f… |
+| 2026-11-26 03:06:28 | [simraft-wire](https://crates.io/crates/simraft-wire) | 0.2.0 | 0 | Canonical CRC-32 message frame codec for simraft-kv, shared by the deterministi… |
+| 2026-11-26 03:06:31 | [simraft-kv](https://crates.io/crates/simraft-kv) | 0.2.0 | 0 | Deterministic replicated key-value state machine with client session deduplicat… |
+| 2026-11-26 03:07:35 | [meowsh](https://crates.io/crates/meowsh) | 0.1.0 | 0 | A small cat that lives in your terminal. |
+| 2026-11-26 03:17:29 | [avianlink-core](https://crates.io/crates/avianlink-core) | 0.1.0 | 0 | Sans-IO, no_std engine for encrypted text messaging over lossy packet links |
+| 2026-11-26 03:18:35 | [simraft-node](https://crates.io/crates/simraft-node) | 0.2.0 | 0 | TCP and file-backed Raft node server and linearizable KV client for simraft-kv |
 
 ## Data source
 

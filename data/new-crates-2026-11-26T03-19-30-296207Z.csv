@@ -1,0 +1,33 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-26T02:25:08.008701Z,openatca-sha256,0.1.0,0,0,,SHA-256 digest operations for integrity and content identity
+2026-11-26T02:25:10.802312Z,openatca-xml,0.1.0,0,0,,Bounded XML 1.0 parser for documented OpenATCA profiles
+2026-11-26T02:28:15.463883Z,fry-db,0.1.0,0,0,https://github.com/somayaj/fry,Embedded log-structured KV + inbox for multi-agent shared memory
+2026-11-26T02:28:56.267898Z,tilo-notify,0.5.0,0,0,https://code.tilo.so/tilo/tilo,"User notifications on Linux, macOS and the web: what an app shows its session over its connection, and what each platform keeps."
+2026-11-26T02:30:08.091209Z,tc_jpake,0.1.0,0,0,https://github.com/TomiCheng/tc_agreement,"J-PAKE password-authenticated key exchange after Bouncy Castle, with its standard prime-order groups."
+2026-11-26T02:30:09.674648Z,cuno-cli,0.1.0,0,0,https://github.com/itsakeyfut/cuno,"Everything C/C++ development needs, in one tool."
+2026-11-26T02:35:16.921433Z,trustbelt-dsl,0.1.0,0,0,https://github.com/trustbelt/trustbelt,"The blocks a TrustBelt domain is written in, parsed and expanded: what the macros and the tool share"
+2026-11-26T02:35:24.460968Z,trustbelt-macros,0.1.0,0,0,https://github.com/trustbelt/trustbelt,"The macros a TrustBelt domain is written in: `value_objects!`, `aggregate!`, `command!`, `bounded_context!` and `scenario!`"
+2026-11-26T02:35:34.491044Z,trustbelt-conformance,0.1.0,0,0,https://github.com/trustbelt/trustbelt,"Runs a store against the reference store with the same random operations, and the stores that misbehave on purpose to test it"
+2026-11-26T02:41:41.859031Z,cuno,0.1.0,0,0,https://github.com/itsakeyfut/cuno,"Everything C/C++ development needs, in one tool."
+2026-11-26T02:43:47.403467Z,cw-render,0.3.0,0,0,https://github.com/ComputaCo/computaco-core-public,"ComputerWorld's deterministic CPU renderer: scenes to pixels, with the platforms' fonts, icons and wallpapers"
+2026-11-26T02:48:30.580608Z,foundation_agent_rpc,0.0.4,0,0,https://github.com/ewe-studios/ewe_platform,"Per-machine agent RPC model server: load a model once, serve named agent instances over Connect/gRPC/gRPC-Web with signed-secret-bootstrapped mTLS"
+2026-11-26T02:49:55.047849Z,iroh-pair,0.8.3,0,0,https://github.com/mattgeddes/iroh-pair,"An Iroh Protocol that implements simple pairing between devices and exchange of a small amount of data, such as long-term public key material."
+2026-11-26T02:50:47.672527Z,anchor-book,0.1.0,0,0,https://github.com/anchor-book/anchor-book,Tools for Anchor Books: shared system designs and verifiable constraints for agentic Rust development
+2026-11-26T02:50:51.91679Z,cw-service-common,0.3.0,0,0,https://github.com/ComputaCo/computaco-core-public,"What ComputerWorld's synthetic internet services share: HTML, themes, accounts and validation"
+2026-11-26T02:50:53.718685Z,yuktai-mira,1.0.0,0,0,https://github.com/sandeep-miriyala/yuktai,"MiRa: Telugu for every HTML element. Write <mira h1 font=""ntr"">మిరా</mira h1> and MiRa gives the real tag, lang=""te"" and a free Telugu font. Akshara-aware split, count and truncate. No dependencies."
+2026-11-26T02:51:04.093963Z,foundation_sandbox,0.0.2,0,0,https://github.com/ewe-studios/ewe_platform,"One core library that starts sandboxes and runs commands in them: the contract (domain types, errors, limits and the two RPC services)"
+2026-11-26T02:53:43.058355Z,foundation_installer,0.0.1,0,0,https://github.com/ewe-studios/ewe_platform,"Manifest-driven installer: reads a spec 78 manifest, gets each entry through a source adapter and starts it through a deploy-target adapter"
+2026-11-26T02:56:00.381087Z,skewsplit,0.1.0,0,0,https://github.com/Diafyx/skewsplit,"Balanced, index-friendly JDBC partition predicates for Spark, planned from the column's real distribution."
+2026-11-26T02:56:31.124192Z,scorium,0.1.4,0,0,https://github.com/Scorium-lang/scorium-rs,High-level loading facade for the Scorium configuration language.
+2026-11-26T02:57:56.941959Z,cw-service-static-site,0.3.0,0,0,https://github.com/ComputaCo/computaco-core-public,A synthetic internet service of ComputerWorld: static sites
+2026-11-26T02:59:19.578057Z,una,0.1.0,0,0,https://github.com/jackroddy/una,"A UI kit for Wayland apps: one window, panes on a monospace grid, and widgets. Not functional yet."
+2026-11-26T03:05:02.020011Z,cw-service-node-app,0.3.0,0,0,https://github.com/ComputaCo/computaco-core-public,"A world service that serves a real web app: its built frontend, and its own Node backend running on the in-house JavaScript VM"
+2026-11-26T03:06:09.925221Z,perishables-core,0.1.0,0,0,https://github.com/david-engelmann/perishables,"Deterministic trust-layer checks for Open Knowledge Format bundles. Tier recompute, verification currency, supersession chains, freshness, provenance, and source drift."
+2026-11-26T03:06:12.444389Z,perishables-semantic,0.1.0,0,0,https://github.com/david-engelmann/perishables,"Cross-ecosystem semantic-layer trust grader covering dbt, Apache Ossie, Snowflake, Databricks Genie, Cube, Looker and LookML, and AtScale."
+2026-11-26T03:06:15.380092Z,perishables,0.1.0,0,0,https://github.com/david-engelmann/perishables,Deterministic trust-claim auditor for Open Knowledge Format bundles and cross-ecosystem semantic layers.
+2026-11-26T03:06:19.190065Z,verirun-platform,0.2.0,0,0,https://github.com/david-engelmann/verirun,"Cross-platform OS boundary for verirun providing process-tree termination, no-follow handle-relative path traversal, and atomic file replacement on Unix and Windows."
+2026-11-26T03:06:28.747575Z,simraft-wire,0.2.0,0,0,https://github.com/david-engelmann/simraft-kv,"Canonical CRC-32 message frame codec for simraft-kv, shared by the deterministic simulator and TCP node adapter"
+2026-11-26T03:06:31.074171Z,simraft-kv,0.2.0,0,0,https://github.com/david-engelmann/simraft-kv,Deterministic replicated key-value state machine with client session deduplication and canonical command and snapshot codecs
+2026-11-26T03:07:35.245935Z,meowsh,0.1.0,0,0,https://github.com/ado11231/meowsh,A small cat that lives in your terminal.
+2026-11-26T03:17:29.837472Z,avianlink-core,0.1.0,0,0,https://github.com/space55/avianlink,"Sans-IO, no_std engine for encrypted text messaging over lossy packet links"
+2026-11-26T03:18:35.100036Z,simraft-node,0.2.0,0,0,https://github.com/david-engelmann/simraft-kv,TCP and file-backed Raft node server and linearizable KV client for simraft-kv
