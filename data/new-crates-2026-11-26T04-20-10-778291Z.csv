@@ -1,0 +1,40 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-26T03:19:51.501433Z,parallax,0.0.0,0,0,https://github.com/xuckless/parallax,"Reserved for Parallax: GPUI on Android, iOS, touchscreen desktops and the web. Not usable yet; first release is 0.1.1."
+2026-11-26T03:19:53.515641Z,parallax-platform,0.0.0,0,0,https://github.com/xuckless/parallax,"Reserved for Parallax: GPUI on Android, iOS, touchscreen desktops and the web. Not usable yet; first release is 0.1.1."
+2026-11-26T03:19:55.520031Z,parallax-android,0.0.0,0,0,https://github.com/xuckless/parallax,"Reserved for Parallax: GPUI on Android, iOS, touchscreen desktops and the web. Not usable yet; first release is 0.1.1."
+2026-11-26T03:19:57.62373Z,parallax-web,0.0.0,0,0,https://github.com/xuckless/parallax,"Reserved for Parallax: GPUI on Android, iOS, touchscreen desktops and the web. Not usable yet; first release is 0.1.1."
+2026-11-26T03:19:59.685958Z,parallax-ext,0.0.0,0,0,https://github.com/xuckless/parallax,"Reserved for Parallax: GPUI on Android, iOS, touchscreen desktops and the web. Not usable yet; first release is 0.1.1."
+2026-11-26T03:22:14.219527Z,cw-host-adapters,0.3.0,0,0,https://github.com/ComputaCo/computaco-core-public,"Explicit adapters between a ComputerWorld world and the host: real HTTP, packages and files, each granted by the owner"
+2026-11-26T03:25:40.935905Z,cortexkit-doctor,0.1.0,0,0,https://github.com/cortexkit/commons,Validated wire documents for CortexKit module diagnostics
+2026-11-26T03:26:53.733236Z,cortexkit-log-manifest,0.1.0,0,0,https://github.com/cortexkit/commons,Generate doctor log-template manifests from Rust source
+2026-11-26T03:27:25.119218Z,avianlink-relay,0.1.0,0,0,https://github.com/space55/avianlink,"Identity-less store-and-forward relay for avianlink, with its sans-IO client"
+2026-11-26T03:27:26.85954Z,avianlink-sim,0.1.0,0,0,https://github.com/space55/avianlink,Deterministic network simulator and test harness for avianlink
+2026-11-26T03:27:28.602076Z,avianlink-udp,0.1.0,0,0,https://github.com/space55/avianlink,"UDP link adapter, durable file storage and driver loop for avianlink"
+2026-11-26T03:27:30.371747Z,avianlink-cli,0.1.0,0,0,https://github.com/space55/avianlink,Terminal demo: two avianlink peers chatting over UDP
+2026-11-26T03:27:30.917849Z,avianlink-ffi,0.1.0,0,0,https://github.com/space55/avianlink,C ABI for avianlink; basis for iOS/Swift bindings
+2026-11-26T03:27:50.116226Z,cortexkit-doctor-conformance,0.1.0,0,0,https://github.com/cortexkit/commons,Conformance runner for a CortexKit module's doctor commands
+2026-11-26T03:29:21.952047Z,cw-py-module,0.3.0,0,0,https://github.com/ComputaCo/computaco-core-public,"computerworld's Python as a Wasm module of its own, loaded by the engine the first time a program runs"
+2026-11-26T03:29:30.873124Z,simraft-sim,0.2.0,0,0,https://github.com/david-engelmann/simraft-kv,"Deterministic simulation harness for simraft-kv with virtual time, seeded chaos faults, safety oracles, and linearizability checking"
+2026-11-26T03:30:06.769242Z,parallax-ios,0.0.0,0,0,https://github.com/xuckless/parallax,"Reserved for Parallax: GPUI on Android, iOS, touchscreen desktops and the web. Not usable yet; first release is 0.1.1."
+2026-11-26T03:39:49.589039Z,cw-service-assistant,0.3.0,0,0,https://github.com/ComputaCo/computaco-core-public,A synthetic internet service of ComputerWorld: an assistant
+2026-11-26T03:40:07.56807Z,cargo-parallax,0.0.0,0,0,https://github.com/xuckless/parallax,"Reserved for Parallax: GPUI on Android, iOS, touchscreen desktops and the web. Not usable yet; first release is 0.1.1."
+2026-11-26T03:45:07.733976Z,gent-protocol,0.1.0,0,0,https://github.com/sam0x17/gent,"Shared wire types, identities and permissions for Gent."
+2026-11-26T03:45:14.02773Z,gent-crypto,0.1.0,0,0,https://github.com/sam0x17/gent,"Cryptographic primitives, invitations and signatures for the Gent protocol."
+2026-11-26T03:45:32.081957Z,gent-daemon,0.1.0,0,0,https://github.com/sam0x17/gent,"Local daemon, storage and synchronization for Gent chat clusters."
+2026-11-26T03:45:39.463062Z,byte-bpe,0.1.1,0,0,https://github.com/ibraramin/bpe-rs,"A small, dependency-free byte-level BPE tokenizer"
+2026-11-26T03:46:06.253292Z,gent-link,0.1.0,0,0,https://github.com/sam0x17/gent,Connect Codex and Claude Code chats across machines with the Gent CLI and desktop companion.
+2026-11-26T03:46:57.209895Z,cw-service-calendar,0.3.0,0,0,https://github.com/ComputaCo/computaco-core-public,A synthetic internet service of ComputerWorld: calendars
+2026-11-26T03:47:15.652848Z,plumcraft-build-stamp,0.8.0,0,0,https://github.com/seantrue/plumcraft,"What a PlumCraft build was made from (B151): the git commit, whether the tree had changes, and when, captured by a build script and shown in About"
+2026-11-26T03:47:17.098262Z,plumcraft-views,0.8.0,0,0,https://github.com/seantrue/plumcraft,"PlumCraft's derived views of a value (FR6, research note 30): histograms over all values or per plane, statistics, N-d slices, made from an array's bytes. Shared by the Rust engine SDK and the editor…"
+2026-11-26T03:47:21.098261Z,plumcraft-chart,0.8.0,0,0,https://github.com/seantrue/plumcraft,"PlumCraft's charts as data: a value's chart laid out into a display list (marks, scales, nice ticks, the core's number text, M4 reduction), shared by the editor core and the engine SDK's thumbnails;…"
+2026-11-26T03:47:24.145195Z,plumcraft-media,0.8.0,0,0,https://github.com/seantrue/plumcraft,"PlumCraft L4: values as plain pictures, off the shell's thread (pictures, renditions, SVG, waveform peaks, spectrograms, a file's own numbers) and the media service that resolves and decodes them on…"
+2026-11-26T03:47:32.098235Z,plumcraft-editor-core,0.8.0,0,0,https://github.com/seantrue/plumcraft,"PlumCraft L4: the editor's toolkit-free core (preferences, themes as data, run animation, starting and switching engines, the engine event pump, the windowless commands, wire geometry, the palette's…"
+2026-11-26T03:57:19.80909Z,cw-service-chat,0.3.0,0,0,https://github.com/ComputaCo/computaco-core-public,A synthetic internet service of ComputerWorld: team chat
+2026-11-26T04:04:26.518738Z,cw-service-docs,0.3.0,0,0,https://github.com/ComputaCo/computaco-core-public,A synthetic internet service of ComputerWorld: documents
+2026-11-26T04:10:14.50898Z,rueca-embed,0.2.0-alpha.1,0,0,https://github.com/DevArKaDiA/rueca,"Embedding runtime for Rueca: model presets, sha256-pinned weights cache, the Embedder trait and a llama.cpp backend"
+2026-11-26T04:10:42.63967Z,rueca-lang-csharp,0.2.0-alpha.1,0,0,https://github.com/DevArKaDiA/rueca,C# language pack for Rueca
+2026-11-26T04:11:07.50541Z,rueca-lang-kotlin,0.2.0-alpha.1,0,0,https://github.com/DevArKaDiA/rueca,Kotlin language pack for Rueca
+2026-11-26T04:11:27.690294Z,rueca-lang-proto,0.2.0-alpha.1,0,0,https://github.com/DevArKaDiA/rueca,"Protocol Buffers language pack for Rueca: services, RPC methods, messages, enums and RPC contracts"
+2026-11-26T04:11:35.71259Z,rueca-lang-ruby,0.2.0-alpha.1,0,0,https://github.com/DevArKaDiA/rueca,Ruby language pack for Rueca
+2026-11-26T04:14:41.744068Z,leandock,0.2.0,0,0,https://github.com/pvbang/leandock,"Drop-in, zero-config, non-destructive resource optimizer wrapper for Docker Compose"
+2026-11-26T04:14:42.070405Z,rueca-lang-rust,0.2.0-alpha.1,0,0,https://github.com/DevArKaDiA/rueca,Rust language pack for Rueca
