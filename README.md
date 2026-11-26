@@ -8,55 +8,44 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-26 05:20 UTC
+## Latest list — 2026-11-26 06:22 UTC
 
-New crates published between 2026-11-26 04:20 UTC and 2026-11-26 05:20 UTC.
+New crates published between 2026-11-26 05:20 UTC and 2026-11-26 06:22 UTC.
 
-[Full CSV](data/new-crates-2026-11-26T05-20-57-89488Z.csv)
+[Full CSV](data/new-crates-2026-11-26T06-22-14-421876Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-26 04:21:36 | [cw-service-drive](https://crates.io/crates/cw-service-drive) | 0.3.0 | 0 | A synthetic internet service of ComputerWorld: file storage |
-| 2026-11-26 04:26:04 | [rueca-lang-shell](https://crates.io/crates/rueca-lang-shell) | 0.2.0-alpha.1 | 0 | Shell (sh, bash, zsh, ksh, bats) language pack for Rueca |
-| 2026-11-26 04:28:43 | [cw-service-forum](https://crates.io/crates/cw-service-forum) | 0.3.0 | 0 | A synthetic internet service of ComputerWorld: forums |
-| 2026-11-26 04:32:08 | [mcp-commerce-evals](https://crates.io/crates/mcp-commerce-evals) | 0.1.1 | 0 | Evaluate any MCP store: tool-level retrieval metrics and an optional assistant-… |
-| 2026-11-26 04:35:50 | [cw-service-mail](https://crates.io/crates/cw-service-mail) | 0.3.0 | 0 | A synthetic internet service of ComputerWorld: mail |
-| 2026-11-26 04:37:21 | [rueca-lang-sql](https://crates.io/crates/rueca-lang-sql) | 0.2.0-alpha.1 | 0 | SQL language pack for Rueca: tables, columns, views, routines, triggers and the… |
-| 2026-11-26 04:47:09 | [tilo-paint-stream](https://crates.io/crates/tilo-paint-stream) | 0.5.0 | 0 | A web page as a layered display list: the engine runs on the host, every client… |
-| 2026-11-26 04:47:13 | [tilo-projector](https://crates.io/crates/tilo-projector) | 0.5.0 | 0 | The projection wire contract and control client: casting a screen or a playback… |
-| 2026-11-26 04:47:17 | [tilo-registry-types](https://crates.io/crates/tilo-registry-types) | 0.5.0 | 0 | Wire types for the Tilo app registry: signed package metadata, versions and con… |
-| 2026-11-26 04:47:21 | [tilo-runtime-portal](https://crates.io/crates/tilo-runtime-portal) | 0.5.0 | 0 | Service discovery and connected-transport plumbing for Tilo runtime services. |
-| 2026-11-26 04:47:25 | [tilo-fs-client](https://crates.io/crates/tilo-fs-client) | 0.5.0 | 0 | Capability clients and wire types for Tilo filesystem services. |
-| 2026-11-26 04:48:35 | [rueca-lang-swift](https://crates.io/crates/rueca-lang-swift) | 0.2.0-alpha.1 | 0 | Swift language pack for Rueca |
-| 2026-11-26 04:48:54 | [tilo-content-device](https://crates.io/crates/tilo-content-device) | 0.5.0 | 0 | The device content store: tilo-content over the filesystem daemon's blob capabi… |
-| 2026-11-26 04:49:03 | [redn-ast](https://crates.io/crates/redn-ast) | 0.1.0 | 0 | AST, parser, and pretty printer for EDN (Extensible Data Notation) |
-| 2026-11-26 04:49:05 | [redn-macros](https://crates.io/crates/redn-macros) | 0.1.0 | 0 | Compile-time EDN literal proc-macros for redn |
-| 2026-11-26 04:49:06 | [redn](https://crates.io/crates/redn) | 0.1.0 | 0 | EDN (Extensible Data Notation) parsing, encoding, decoding, macros, and recursi… |
-| 2026-11-26 04:50:00 | [cw-service-messages](https://crates.io/crates/cw-service-messages) | 0.3.0 | 0 | A synthetic internet service of ComputerWorld: text messages between handles |
-| 2026-11-26 04:52:17 | [driver115](https://crates.io/crates/driver115) | 0.1.0 | 0 | Pure Rust client for 115.com: file listing, share snapshot/receive, offline tas… |
-| 2026-11-26 04:54:13 | [nana-naga-types](https://crates.io/crates/nana-naga-types) | 30.0.1-nana.1 | 0 | Common types for naga and wgpu (NanaUI fork of wgpu 30.0.1) |
-| 2026-11-26 04:54:28 | [nana-naga](https://crates.io/crates/nana-naga) | 30.0.1-nana.1 | 0 | Shader translator and validator. Part of the wgpu project (NanaUI fork of wgpu… |
-| 2026-11-26 04:54:38 | [nana-wgpu-types](https://crates.io/crates/nana-wgpu-types) | 30.0.1-nana.1 | 0 | Common types and utilities for wgpu, the cross-platform, safe, pure-rust graphi… |
-| 2026-11-26 04:54:51 | [nana-wgpu-naga-bridge](https://crates.io/crates/nana-wgpu-naga-bridge) | 30.0.1-nana.1 | 0 | Conversions between naga and wgpu-types. Part of the wgpu project (NanaUI fork… |
-| 2026-11-26 04:55:04 | [nana-wgpu-hal](https://crates.io/crates/nana-wgpu-hal) | 30.0.1-nana.1 | 0 | Hardware abstraction layer for wgpu, the cross-platform, safe, pure-rust graphi… |
-| 2026-11-26 04:56:14 | [ateneo](https://crates.io/crates/ateneo) | 0.0.1 | 0 | Ateneo: institutional open access repository written in Rust (OAI-PMH, IIIF, SW… |
-| 2026-11-26 04:57:04 | [cw-service-search](https://crates.io/crates/cw-service-search) | 0.3.0 | 0 | A synthetic internet service of ComputerWorld: web search over the world's sites |
-| 2026-11-26 04:58:54 | [tilo-identity-client](https://crates.io/crates/tilo-identity-client) | 0.5.0 | 0 | Descriptor-bound identity broker client and public protocol types. |
-| 2026-11-26 05:01:21 | [rueca-codemode](https://crates.io/crates/rueca-codemode) | 0.2.0-alpha.1 | 0 | Code mode for Rueca (RFC 0009, experimental): sandboxed script engines behind o… |
-| 2026-11-26 05:04:20 | [nana-wgpu-core-deps-apple](https://crates.io/crates/nana-wgpu-core-deps-apple) | 30.0.1-nana.1 | 0 | Feature unification helper crate for Apple platforms (NanaUI fork of wgpu 30.0.… |
-| 2026-11-26 05:08:55 | [tilo-process](https://crates.io/crates/tilo-process) | 0.5.0 | 0 | The current process and, later, child processes: one API on Linux, macOS and th… |
-| 2026-11-26 05:09:36 | [cw-service-wiki](https://crates.io/crates/cw-service-wiki) | 0.3.0 | 0 | A synthetic internet service of ComputerWorld: a wiki |
-| 2026-11-26 05:12:58 | [octoii-relay](https://crates.io/crates/octoii-relay) | 0.0.1 | 0 | Blind datagram relay for Octoii Tunnel, hosted on Cloudflare or as a native ser… |
-| 2026-11-26 05:14:20 | [nana-wgpu-core-deps-emscripten](https://crates.io/crates/nana-wgpu-core-deps-emscripten) | 30.0.1-nana.1 | 0 | Feature unification helper crate for the Emscripten platform (NanaUI fork of wg… |
-| 2026-11-26 05:14:40 | [rueca-storage](https://crates.io/crates/rueca-storage) | 0.2.0-alpha.1 | 0 | Storage seam for Rueca service mode: conditional writes over S3-compatible obje… |
-| 2026-11-26 05:15:59 | [rueca-service](https://crates.io/crates/rueca-service) | 0.2.0-alpha.1 | 0 | Rueca service mode: publish local segments to object storage, pull them into a… |
-| 2026-11-26 05:16:47 | [cw-services](https://crates.io/crates/cw-services) | 0.3.0 | 0 | ComputerWorld's bundled service registry: the generic kinds, and kinds other cr… |
-| 2026-11-26 05:18:54 | [tilo-sandbox-core](https://crates.io/crates/tilo-sandbox-core) | 0.5.0 | 0 | Landlock ruleset construction, seccomp-bpf deny-list compilation and the dynami… |
-| 2026-11-26 05:19:05 | [meow-wireguard](https://crates.io/crates/meow-wireguard) | 0.30.0 | 0 | Vendored boringtun 0.7.1 WireGuard Noise implementation with ring replaced by R… |
-| 2026-11-26 05:19:09 | [meow-wgstack](https://crates.io/crates/meow-wgstack) | 0.30.0 | 0 | Shared smoltcp/tokio plumbing for the meow-rs WireGuard outbound pump and inbou… |
-| 2026-11-26 05:19:31 | [octoii-net](https://crates.io/crates/octoii-net) | 1.5.0 | 0 | Iroh peer-to-peer QUIC with custom transport path discovery for octoii-tunnel |
-| 2026-11-26 05:19:35 | [octoii-h3](https://crates.io/crates/octoii-h3) | 0.0.8 | 0 | Hyperium h3 with the RFC 9220 WebSocket protocol identifier backported for Octo… |
-| 2026-11-26 05:20:37 | [octoii-iroh-h3](https://crates.io/crates/octoii-iroh-h3) | 0.4.0 | 0 | HTTP/3 stream adapter for Octoii Tunnel's registry-published Iroh and h3 depend… |
+| 2026-11-26 05:23:54 | [kernicons](https://crates.io/crates/kernicons) | 0.1.0 | 0 | Kernicons: the icon set from KernPage. 16px-grid SVG icons, themeable via curre… |
+| 2026-11-26 05:24:20 | [nana-wgpu-core-deps-windows-linux-android](https://crates.io/crates/nana-wgpu-core-deps-windows-linux-android) | 30.0.1-nana.1 | 0 | Feature unification helper crate for the Windows/Linux/Android platforms (NanaU… |
+| 2026-11-26 05:25:07 | [cw-tsx](https://crates.io/crates/cw-tsx) | 0.3.0 | 0 | Ahead-of-time compiler from React-syntax TSX to cw-ui's reactive UI IR, with pl… |
+| 2026-11-26 05:25:16 | [octoii-tunnel](https://crates.io/crates/octoii-tunnel) | 0.0.1 | 0 | Key-addressed peer-to-peer QUIC sessions over direct, relay, and ICE paths |
+| 2026-11-26 05:25:18 | [octoii-tunnel-h3](https://crates.io/crates/octoii-tunnel-h3) | 0.0.1 | 0 | HTTP/3, Tower services, and RFC 9220 WebSockets over octoii-tunnel |
+| 2026-11-26 05:28:55 | [tilo-browser-continuity-core](https://crates.io/crates/tilo-browser-continuity-core) | 0.5.0 | 0 | Browser service-session vocabulary and the engine helper's launch boundary, wit… |
+| 2026-11-26 05:29:42 | [octoii-tunnel-tcp](https://crates.io/crates/octoii-tunnel-tcp) | 0.0.1 | 0 | Named TCP service forwarding over octoii-tunnel |
+| 2026-11-26 05:34:23 | [nana-wgpu-core](https://crates.io/crates/nana-wgpu-core) | 30.0.1-nana.1 | 0 | Core implementation logic of wgpu, the cross-platform, safe, pure-rust graphics… |
+| 2026-11-26 05:35:19 | [ketai-core](https://crates.io/crates/ketai-core) | 0.1.0 | 0 | Playback engine of the ketai music player |
+| 2026-11-26 05:35:20 | [ketai-protocol](https://crates.io/crates/ketai-protocol) | 0.1.0 | 0 | IPC protocol types of the ketai music player |
+| 2026-11-26 05:35:26 | [ketai-tui](https://crates.io/crates/ketai-tui) | 0.1.0 | 0 | Terminal client library of the ketai music player |
+| 2026-11-26 05:35:27 | [ketai](https://crates.io/crates/ketai) | 0.1.0 | 0 | Music player for the terminal: the ketaid daemon and the ketai TUI |
+| 2026-11-26 05:38:55 | [tilo-search](https://crates.io/crates/tilo-search) | 0.5.0 | 0 | Tilo's search layer: tantivy with Tilo's folding, tiers and ranking |
+| 2026-11-26 05:40:08 | [octoii-tunnel-wasm](https://crates.io/crates/octoii-tunnel-wasm) | 0.0.1 | 0 | Octoii's browser tunnel: peer-to-peer streams with optional HTTP/3 requests and… |
+| 2026-11-26 05:43:23 | [cw-python](https://crates.io/crates/cw-python) | 0.3.0 | 0 | Python bindings of computerworld |
+| 2026-11-26 05:44:26 | [nana-wgpu](https://crates.io/crates/nana-wgpu) | 30.0.1-nana.1 | 0 | Cross-platform, safe, pure-rust graphics API (NanaUI fork of wgpu 30.0.1) |
+| 2026-11-26 05:45:52 | [docx_substitute](https://crates.io/crates/docx_substitute) | 0.2.0 | 0 | Token substitution and if/elif/else conditional sections for .docx templates |
+| 2026-11-26 05:48:54 | [tilo-emoji](https://crates.io/crates/tilo-emoji) | 0.5.0 | 0 | Tilo's emoji catalogue: Unicode groups, localised search, skin tones, gender va… |
+| 2026-11-26 05:51:13 | [cw-wasm](https://crates.io/crates/cw-wasm) | 0.3.0 | 0 | WebAssembly bindings of computerworld |
+| 2026-11-26 05:54:22 | [nana-accesskit-windows](https://crates.io/crates/nana-accesskit-windows) | 0.35.1-nana.1 | 0 | NanaUI fork of accesskit_windows 0.35.1 with upstream PR #816 (localized Switch… |
+| 2026-11-26 05:58:57 | [tilo-secrets](https://crates.io/crates/tilo-secrets) | 0.5.0 | 0 | App-scoped secret storage on Linux, macOS, Windows and the web: the Secret Serv… |
+| 2026-11-26 05:59:11 | [channelkit-agentmail](https://crates.io/crates/channelkit-agentmail) | 0.1.0-alpha.7 | 0 | Bounded AgentMail email transport and verified webhook normalization |
+| 2026-11-26 06:04:20 | [nana-diagnostics](https://crates.io/crates/nana-diagnostics) | 0.1.0-alpha.1 | 0 | Low-overhead structured diagnostics: events, metrics, faults, flight recorder,… |
+| 2026-11-26 06:08:56 | [tilo-settings-model](https://crates.io/crates/tilo-settings-model) | 0.5.0 | 0 | The settings' typed schema, the theme names and the shared sections as resource… |
+| 2026-11-26 06:10:54 | [nsh-native-deps](https://crates.io/crates/nsh-native-deps) | 0.2.0 | 0 | Native dependencies of Native Shell (NSH) apps: links and packages XCFrameworks… |
+| 2026-11-26 06:14:19 | [nana-package](https://crates.io/crates/nana-package) | 0.1.0-alpha.1 | 0 | Runtime side of the Nana packaging contract: package manifest, .nrpack resource… |
+| 2026-11-26 06:16:00 | [threers-metafile](https://crates.io/crates/threers-metafile) | 0.1.2 | 0 | Windows metafiles (EMF and WMF), as Office documents carry their drawings: read… |
+| 2026-11-26 06:16:02 | [threers-spell](https://crates.io/crates/threers-spell) | 0.1.2 | 0 | Spellcheck and autocorrect for threers' text input: an English word list with i… |
+| 2026-11-26 06:16:10 | [threers-swipe](https://crates.io/crates/threers-swipe) | 0.1.2 | 0 | Gesture (swipe) typing for the threers on-screen keyboard: a layout-agnostic CT… |
+| 2026-11-26 06:18:55 | [tilo-settings-store](https://crates.io/crates/tilo-settings-store) | 0.5.0 | 0 | The Tilo desktop settings: each section a resource of the workspace, read throu… |
 
 ## Data source
 

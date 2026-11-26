@@ -1,0 +1,31 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-26T05:23:54.105364Z,kernicons,0.1.0,0,0,https://github.com/jmitchell238/kernicons,"Kernicons: the icon set from KernPage. 16px-grid SVG icons, themeable via currentColor, with hand-tuned size variants, rendered crisply with resvg (egui optional)"
+2026-11-26T05:24:20.519299Z,nana-wgpu-core-deps-windows-linux-android,30.0.1-nana.1,0,0,https://github.com/sena-nana/NanaUI,Feature unification helper crate for the Windows/Linux/Android platforms (NanaUI fork of wgpu 30.0.1)
+2026-11-26T05:25:07.555498Z,cw-tsx,0.3.0,0,0,https://github.com/ComputaCo/computaco-core-public,"Ahead-of-time compiler from React-syntax TSX to cw-ui's reactive UI IR, with plain-JS emission for the React fallback."
+2026-11-26T05:25:16.42274Z,octoii-tunnel,0.0.1,0,0,https://github.com/octoii-works/octoii-tunnel,"Key-addressed peer-to-peer QUIC sessions over direct, relay, and ICE paths"
+2026-11-26T05:25:18.268759Z,octoii-tunnel-h3,0.0.1,0,0,https://github.com/octoii-works/octoii-tunnel,"HTTP/3, Tower services, and RFC 9220 WebSockets over octoii-tunnel"
+2026-11-26T05:28:55.658724Z,tilo-browser-continuity-core,0.5.0,0,0,https://code.tilo.so/tilo/tilo,"Browser service-session vocabulary and the engine helper's launch boundary, without profile capture"
+2026-11-26T05:29:42.175666Z,octoii-tunnel-tcp,0.0.1,0,0,https://github.com/octoii-works/octoii-tunnel,Named TCP service forwarding over octoii-tunnel
+2026-11-26T05:34:23.865176Z,nana-wgpu-core,30.0.1-nana.1,0,0,https://github.com/sena-nana/NanaUI,"Core implementation logic of wgpu, the cross-platform, safe, pure-rust graphics API (NanaUI fork of wgpu 30.0.1)"
+2026-11-26T05:35:19.724043Z,ketai-core,0.1.0,0,0,https://github.com/4t-ritch/ketai,Playback engine of the ketai music player
+2026-11-26T05:35:20.466555Z,ketai-protocol,0.1.0,0,0,https://github.com/4t-ritch/ketai,IPC protocol types of the ketai music player
+2026-11-26T05:35:26.276876Z,ketai-tui,0.1.0,0,0,https://github.com/4t-ritch/ketai,Terminal client library of the ketai music player
+2026-11-26T05:35:27.567368Z,ketai,0.1.0,0,0,https://github.com/4t-ritch/ketai,Music player for the terminal: the ketaid daemon and the ketai TUI
+2026-11-26T05:38:55.387727Z,tilo-search,0.5.0,0,0,https://code.tilo.so/tilo/tilo,"Tilo's search layer: tantivy with Tilo's folding, tiers and ranking"
+2026-11-26T05:40:08.047045Z,octoii-tunnel-wasm,0.0.1,0,0,https://github.com/octoii-works/octoii-tunnel,Octoii's browser tunnel: peer-to-peer streams with optional HTTP/3 requests and WebSockets
+2026-11-26T05:43:23.090414Z,cw-python,0.3.0,0,0,https://github.com/ComputaCo/computaco-core-public,Python bindings of computerworld
+2026-11-26T05:44:26.160122Z,nana-wgpu,30.0.1-nana.1,0,0,https://github.com/sena-nana/NanaUI,"Cross-platform, safe, pure-rust graphics API (NanaUI fork of wgpu 30.0.1)"
+2026-11-26T05:45:52.231134Z,docx_substitute,0.2.0,0,0,https://github.com/icekittycat/docx-substitute,Token substitution and if/elif/else conditional sections for .docx templates
+2026-11-26T05:48:54.526002Z,tilo-emoji,0.5.0,0,0,https://code.tilo.so/tilo/tilo,"Tilo's emoji catalogue: Unicode groups, localised search, skin tones, gender variants, recents and word suggestions"
+2026-11-26T05:51:13.855187Z,cw-wasm,0.3.0,0,0,https://github.com/ComputaCo/computaco-core-public,WebAssembly bindings of computerworld
+2026-11-26T05:54:22.532644Z,nana-accesskit-windows,0.35.1-nana.1,0,0,https://github.com/sena-nana/NanaUI,NanaUI fork of accesskit_windows 0.35.1 with upstream PR #816 (localized Switch & ScrollPattern)
+2026-11-26T05:58:57.358219Z,tilo-secrets,0.5.0,0,0,https://code.tilo.so/tilo/tilo,"App-scoped secret storage on Linux, macOS, Windows and the web: the Secret Service, the Keychain, Credential Manager, and WebCrypto-wrapped IndexedDB."
+2026-11-26T05:59:11.303123Z,channelkit-agentmail,0.1.0-alpha.7,0,0,https://github.com/everruns/channelkit,Bounded AgentMail email transport and verified webhook normalization
+2026-11-26T06:04:20.084121Z,nana-diagnostics,0.1.0-alpha.1,0,0,https://github.com/sena-nana/NanaUI,"Low-overhead structured diagnostics: events, metrics, faults, flight recorder, and the .nlog format"
+2026-11-26T06:08:56.423686Z,tilo-settings-model,0.5.0,0,0,https://code.tilo.so/tilo/tilo,"The settings' typed schema, the theme names and the shared sections as resource models, buildable for WebAssembly"
+2026-11-26T06:10:54.976253Z,nsh-native-deps,0.2.0,0,0,https://github.com/SuperNSH/native-deps,"Native dependencies of Native Shell (NSH) apps: links and packages XCFrameworks, .so and .dll files, and vendors Android libraries from Maven"
+2026-11-26T06:14:19.543201Z,nana-package,0.1.0-alpha.1,0,0,https://github.com/sena-nana/NanaUI,"Runtime side of the Nana packaging contract: package manifest, .nrpack resource packs, content keys and publisher signatures"
+2026-11-26T06:16:00.883199Z,threers-metafile,0.1.2,0,0,https://github.com/eugenehp/threers,"Windows metafiles (EMF and WMF), as Office documents carry their drawings: read into paths, text and pictures, written out as PDF or SVG, with no dependencies"
+2026-11-26T06:16:02.852287Z,threers-spell,0.1.2,0,0,https://github.com/eugenehp/threers,"Spellcheck and autocorrect for threers' text input: an English word list with its inflections, words of the app's own, and fixes ranked by edits, transpositions and neighbouring keys"
+2026-11-26T06:16:10.895389Z,threers-swipe,0.1.2,0,0,https://github.com/eugenehp/threers,"Gesture (swipe) typing for the threers on-screen keyboard: a layout-agnostic CTC model trained on synthetic and recorded swipes, and a lexicon beam decoder"
+2026-11-26T06:18:55.545282Z,tilo-settings-store,0.5.0,0,0,https://code.tilo.so/tilo/tilo,"The Tilo desktop settings: each section a resource of the workspace, read through typed keys that never fail."
