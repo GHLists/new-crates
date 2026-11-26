@@ -1,0 +1,42 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-26T04:21:36.920593Z,cw-service-drive,0.3.0,0,0,https://github.com/ComputaCo/computaco-core-public,A synthetic internet service of ComputerWorld: file storage
+2026-11-26T04:26:04.694323Z,rueca-lang-shell,0.2.0-alpha.1,0,0,https://github.com/DevArKaDiA/rueca,"Shell (sh, bash, zsh, ksh, bats) language pack for Rueca"
+2026-11-26T04:28:43.456928Z,cw-service-forum,0.3.0,0,0,https://github.com/ComputaCo/computaco-core-public,A synthetic internet service of ComputerWorld: forums
+2026-11-26T04:32:08.297728Z,mcp-commerce-evals,0.1.1,0,0,https://github.com/Vladimir-Pirotskiy/mcp-commerce-evals,Evaluate any MCP store: tool-level retrieval metrics and an optional assistant-level run
+2026-11-26T04:35:50.197261Z,cw-service-mail,0.3.0,0,0,https://github.com/ComputaCo/computaco-core-public,A synthetic internet service of ComputerWorld: mail
+2026-11-26T04:37:21.263894Z,rueca-lang-sql,0.2.0-alpha.1,0,0,https://github.com/DevArKaDiA/rueca,"SQL language pack for Rueca: tables, columns, views, routines, triggers and the queries that use them, across PostgreSQL, MySQL, SQLite, T-SQL, BigQuery and Snowflake, plus dbt Jinja models"
+2026-11-26T04:47:09.391311Z,tilo-paint-stream,0.5.0,0,0,https://code.tilo.so/tilo/tilo,"A web page as a layered display list: the engine runs on the host, every client draws the list with its own Vello and text stack. Format, keyed patches, and conversion from an engine's layout snapsho…"
+2026-11-26T04:47:13.483157Z,tilo-projector,0.5.0,0,0,https://code.tilo.so/tilo/tilo,"The projection wire contract and control client: casting a screen or a playback to a Miracast, Google Cast, AirPlay or FCast receiver through Tilo's projection broker."
+2026-11-26T04:47:17.408431Z,tilo-registry-types,0.5.0,0,0,https://code.tilo.so/tilo/tilo,"Wire types for the Tilo app registry: signed package metadata, versions and content roots."
+2026-11-26T04:47:21.647151Z,tilo-runtime-portal,0.5.0,0,0,https://code.tilo.so/tilo/tilo,Service discovery and connected-transport plumbing for Tilo runtime services.
+2026-11-26T04:47:25.62182Z,tilo-fs-client,0.5.0,0,0,https://code.tilo.so/tilo/tilo,Capability clients and wire types for Tilo filesystem services.
+2026-11-26T04:48:35.080244Z,rueca-lang-swift,0.2.0-alpha.1,0,0,https://github.com/DevArKaDiA/rueca,Swift language pack for Rueca
+2026-11-26T04:48:54.809666Z,tilo-content-device,0.5.0,0,0,https://code.tilo.so/tilo/tilo,The device content store: tilo-content over the filesystem daemon's blob capability
+2026-11-26T04:49:03.533862Z,redn-ast,0.1.0,0,0,https://github.com/bondiano/redn,"AST, parser, and pretty printer for EDN (Extensible Data Notation)"
+2026-11-26T04:49:05.129656Z,redn-macros,0.1.0,0,0,https://github.com/bondiano/redn,Compile-time EDN literal proc-macros for redn
+2026-11-26T04:49:06.570723Z,redn,0.1.0,0,0,https://github.com/bondiano/redn,"EDN (Extensible Data Notation) parsing, encoding, decoding, macros, and recursion schemes"
+2026-11-26T04:50:00.130772Z,cw-service-messages,0.3.0,0,0,https://github.com/ComputaCo/computaco-core-public,A synthetic internet service of ComputerWorld: text messages between handles
+2026-11-26T04:52:17.271218Z,driver115,0.1.0,0,0,https://github.com/dydydd/driver115,"Pure Rust client for 115.com: file listing, share snapshot/receive, offline tasks, QR login, rapid upload (115 cipher port)"
+2026-11-26T04:54:13.404857Z,nana-naga-types,30.0.1-nana.1,0,0,https://github.com/sena-nana/NanaUI,Common types for naga and wgpu (NanaUI fork of wgpu 30.0.1)
+2026-11-26T04:54:28.875648Z,nana-naga,30.0.1-nana.1,0,0,https://github.com/sena-nana/NanaUI,Shader translator and validator. Part of the wgpu project (NanaUI fork of wgpu 30.0.1)
+2026-11-26T04:54:38.816968Z,nana-wgpu-types,30.0.1-nana.1,0,0,https://github.com/sena-nana/NanaUI,"Common types and utilities for wgpu, the cross-platform, safe, pure-rust graphics API (NanaUI fork of wgpu 30.0.1)"
+2026-11-26T04:54:51.005576Z,nana-wgpu-naga-bridge,30.0.1-nana.1,0,0,https://github.com/sena-nana/NanaUI,Conversions between naga and wgpu-types. Part of the wgpu project (NanaUI fork of wgpu 30.0.1)
+2026-11-26T04:55:04.308207Z,nana-wgpu-hal,30.0.1-nana.1,0,0,https://github.com/sena-nana/NanaUI,"Hardware abstraction layer for wgpu, the cross-platform, safe, pure-rust graphics API (NanaUI fork of wgpu 30.0.1)"
+2026-11-26T04:56:14.187668Z,ateneo,0.0.1,0,0,https://github.com/ateneo-rs/ateneo,"Ateneo: institutional open access repository written in Rust (OAI-PMH, IIIF, SWORD). Archivo de Tesis, Ensayos, Notas, Ediciones y Obras."
+2026-11-26T04:57:04.908979Z,cw-service-search,0.3.0,0,0,https://github.com/ComputaCo/computaco-core-public,A synthetic internet service of ComputerWorld: web search over the world's sites
+2026-11-26T04:58:54.65519Z,tilo-identity-client,0.5.0,0,0,https://code.tilo.so/tilo/tilo,Descriptor-bound identity broker client and public protocol types.
+2026-11-26T05:01:21.010524Z,rueca-codemode,0.2.0-alpha.1,0,0,https://github.com/DevArKaDiA/rueca,"Code mode for Rueca (RFC 0009, experimental): sandboxed script engines behind one trait"
+2026-11-26T05:04:20.228333Z,nana-wgpu-core-deps-apple,30.0.1-nana.1,0,0,https://github.com/sena-nana/NanaUI,Feature unification helper crate for Apple platforms (NanaUI fork of wgpu 30.0.1)
+2026-11-26T05:08:55.142008Z,tilo-process,0.5.0,0,0,https://code.tilo.so/tilo/tilo,"The current process and, later, child processes: one API on Linux, macOS and the web, where there are none."
+2026-11-26T05:09:36.227254Z,cw-service-wiki,0.3.0,0,0,https://github.com/ComputaCo/computaco-core-public,A synthetic internet service of ComputerWorld: a wiki
+2026-11-26T05:12:58.58592Z,octoii-relay,0.0.1,0,0,https://github.com/octoii-works/octoii-tunnel,"Blind datagram relay for Octoii Tunnel, hosted on Cloudflare or as a native server"
+2026-11-26T05:14:20.442667Z,nana-wgpu-core-deps-emscripten,30.0.1-nana.1,0,0,https://github.com/sena-nana/NanaUI,Feature unification helper crate for the Emscripten platform (NanaUI fork of wgpu 30.0.1)
+2026-11-26T05:14:40.502024Z,rueca-storage,0.2.0-alpha.1,0,0,https://github.com/DevArKaDiA/rueca,"Storage seam for Rueca service mode: conditional writes over S3-compatible object storage, memory and a locked local directory"
+2026-11-26T05:15:59.870082Z,rueca-service,0.2.0-alpha.1,0,0,https://github.com/DevArKaDiA/rueca,"Rueca service mode: publish local segments to object storage, pull them into a local mirror, organization generations, garbage collection, jobs, leases, the reconciler and the updater"
+2026-11-26T05:16:47.448085Z,cw-services,0.3.0,0,0,https://github.com/ComputaCo/computaco-core-public,"ComputerWorld's bundled service registry: the generic kinds, and kinds other crates add"
+2026-11-26T05:18:54.868498Z,tilo-sandbox-core,0.5.0,0,0,https://code.tilo.so/tilo/tilo,"Landlock ruleset construction, seccomp-bpf deny-list compilation and the dynamic loader's view of an app, shared by every Tilo confinement path."
+2026-11-26T05:19:05.182916Z,meow-wireguard,0.30.0,0,0,https://github.com/meow-rs/meow-rs,"Vendored boringtun 0.7.1 WireGuard Noise implementation with ring replaced by RustCrypto, for the meow-rs proxy kernel."
+2026-11-26T05:19:09.287508Z,meow-wgstack,0.30.0,0,0,https://github.com/meow-rs/meow-rs,Shared smoltcp/tokio plumbing for the meow-rs WireGuard outbound pump and inbound listener.
+2026-11-26T05:19:31.186847Z,octoii-net,1.5.0,0,0,https://github.com/octoii-works/iroh,Iroh peer-to-peer QUIC with custom transport path discovery for octoii-tunnel
+2026-11-26T05:19:35.032811Z,octoii-h3,0.0.8,0,0,https://github.com/octoii-works/octoii-tunnel,Hyperium h3 with the RFC 9220 WebSocket protocol identifier backported for Octoii Tunnel.
+2026-11-26T05:20:37.695386Z,octoii-iroh-h3,0.4.0,0,0,https://github.com/octoii-works/octoii-tunnel,HTTP/3 stream adapter for Octoii Tunnel's registry-published Iroh and h3 dependencies

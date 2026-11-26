@@ -8,53 +8,55 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-26 04:20 UTC
+## Latest list — 2026-11-26 05:20 UTC
 
-New crates published between 2026-11-26 03:19 UTC and 2026-11-26 04:20 UTC.
+New crates published between 2026-11-26 04:20 UTC and 2026-11-26 05:20 UTC.
 
-[Full CSV](data/new-crates-2026-11-26T04-20-10-778291Z.csv)
+[Full CSV](data/new-crates-2026-11-26T05-20-57-89488Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-26 03:19:51 | [parallax](https://crates.io/crates/parallax) | 0.0.0 | 0 | Reserved for Parallax: GPUI on Android, iOS, touchscreen desktops and the web.… |
-| 2026-11-26 03:19:53 | [parallax-platform](https://crates.io/crates/parallax-platform) | 0.0.0 | 0 | Reserved for Parallax: GPUI on Android, iOS, touchscreen desktops and the web.… |
-| 2026-11-26 03:19:55 | [parallax-android](https://crates.io/crates/parallax-android) | 0.0.0 | 0 | Reserved for Parallax: GPUI on Android, iOS, touchscreen desktops and the web.… |
-| 2026-11-26 03:19:57 | [parallax-web](https://crates.io/crates/parallax-web) | 0.0.0 | 0 | Reserved for Parallax: GPUI on Android, iOS, touchscreen desktops and the web.… |
-| 2026-11-26 03:19:59 | [parallax-ext](https://crates.io/crates/parallax-ext) | 0.0.0 | 0 | Reserved for Parallax: GPUI on Android, iOS, touchscreen desktops and the web.… |
-| 2026-11-26 03:22:14 | [cw-host-adapters](https://crates.io/crates/cw-host-adapters) | 0.3.0 | 0 | Explicit adapters between a ComputerWorld world and the host: real HTTP, packag… |
-| 2026-11-26 03:25:40 | [cortexkit-doctor](https://crates.io/crates/cortexkit-doctor) | 0.1.0 | 0 | Validated wire documents for CortexKit module diagnostics |
-| 2026-11-26 03:26:53 | [cortexkit-log-manifest](https://crates.io/crates/cortexkit-log-manifest) | 0.1.0 | 0 | Generate doctor log-template manifests from Rust source |
-| 2026-11-26 03:27:25 | [avianlink-relay](https://crates.io/crates/avianlink-relay) | 0.1.0 | 0 | Identity-less store-and-forward relay for avianlink, with its sans-IO client |
-| 2026-11-26 03:27:26 | [avianlink-sim](https://crates.io/crates/avianlink-sim) | 0.1.0 | 0 | Deterministic network simulator and test harness for avianlink |
-| 2026-11-26 03:27:28 | [avianlink-udp](https://crates.io/crates/avianlink-udp) | 0.1.0 | 0 | UDP link adapter, durable file storage and driver loop for avianlink |
-| 2026-11-26 03:27:30 | [avianlink-cli](https://crates.io/crates/avianlink-cli) | 0.1.0 | 0 | Terminal demo: two avianlink peers chatting over UDP |
-| 2026-11-26 03:27:30 | [avianlink-ffi](https://crates.io/crates/avianlink-ffi) | 0.1.0 | 0 | C ABI for avianlink; basis for iOS/Swift bindings |
-| 2026-11-26 03:27:50 | [cortexkit-doctor-conformance](https://crates.io/crates/cortexkit-doctor-conformance) | 0.1.0 | 0 | Conformance runner for a CortexKit module's doctor commands |
-| 2026-11-26 03:29:21 | [cw-py-module](https://crates.io/crates/cw-py-module) | 0.3.0 | 0 | computerworld's Python as a Wasm module of its own, loaded by the engine the fi… |
-| 2026-11-26 03:29:30 | [simraft-sim](https://crates.io/crates/simraft-sim) | 0.2.0 | 0 | Deterministic simulation harness for simraft-kv with virtual time, seeded chaos… |
-| 2026-11-26 03:30:06 | [parallax-ios](https://crates.io/crates/parallax-ios) | 0.0.0 | 0 | Reserved for Parallax: GPUI on Android, iOS, touchscreen desktops and the web.… |
-| 2026-11-26 03:39:49 | [cw-service-assistant](https://crates.io/crates/cw-service-assistant) | 0.3.0 | 0 | A synthetic internet service of ComputerWorld: an assistant |
-| 2026-11-26 03:40:07 | [cargo-parallax](https://crates.io/crates/cargo-parallax) | 0.0.0 | 0 | Reserved for Parallax: GPUI on Android, iOS, touchscreen desktops and the web.… |
-| 2026-11-26 03:45:07 | [gent-protocol](https://crates.io/crates/gent-protocol) | 0.1.0 | 0 | Shared wire types, identities and permissions for Gent. |
-| 2026-11-26 03:45:14 | [gent-crypto](https://crates.io/crates/gent-crypto) | 0.1.0 | 0 | Cryptographic primitives, invitations and signatures for the Gent protocol. |
-| 2026-11-26 03:45:32 | [gent-daemon](https://crates.io/crates/gent-daemon) | 0.1.0 | 0 | Local daemon, storage and synchronization for Gent chat clusters. |
-| 2026-11-26 03:45:39 | [byte-bpe](https://crates.io/crates/byte-bpe) | 0.1.1 | 0 | A small, dependency-free byte-level BPE tokenizer |
-| 2026-11-26 03:46:06 | [gent-link](https://crates.io/crates/gent-link) | 0.1.0 | 0 | Connect Codex and Claude Code chats across machines with the Gent CLI and deskt… |
-| 2026-11-26 03:46:57 | [cw-service-calendar](https://crates.io/crates/cw-service-calendar) | 0.3.0 | 0 | A synthetic internet service of ComputerWorld: calendars |
-| 2026-11-26 03:47:15 | [plumcraft-build-stamp](https://crates.io/crates/plumcraft-build-stamp) | 0.8.0 | 0 | What a PlumCraft build was made from (B151): the git commit, whether the tree h… |
-| 2026-11-26 03:47:17 | [plumcraft-views](https://crates.io/crates/plumcraft-views) | 0.8.0 | 0 | PlumCraft's derived views of a value (FR6, research note 30): histograms over a… |
-| 2026-11-26 03:47:21 | [plumcraft-chart](https://crates.io/crates/plumcraft-chart) | 0.8.0 | 0 | PlumCraft's charts as data: a value's chart laid out into a display list (marks… |
-| 2026-11-26 03:47:24 | [plumcraft-media](https://crates.io/crates/plumcraft-media) | 0.8.0 | 0 | PlumCraft L4: values as plain pictures, off the shell's thread (pictures, rendi… |
-| 2026-11-26 03:47:32 | [plumcraft-editor-core](https://crates.io/crates/plumcraft-editor-core) | 0.8.0 | 0 | PlumCraft L4: the editor's toolkit-free core (preferences, themes as data, run… |
-| 2026-11-26 03:57:19 | [cw-service-chat](https://crates.io/crates/cw-service-chat) | 0.3.0 | 0 | A synthetic internet service of ComputerWorld: team chat |
-| 2026-11-26 04:04:26 | [cw-service-docs](https://crates.io/crates/cw-service-docs) | 0.3.0 | 0 | A synthetic internet service of ComputerWorld: documents |
-| 2026-11-26 04:10:14 | [rueca-embed](https://crates.io/crates/rueca-embed) | 0.2.0-alpha.1 | 0 | Embedding runtime for Rueca: model presets, sha256-pinned weights cache, the Em… |
-| 2026-11-26 04:10:42 | [rueca-lang-csharp](https://crates.io/crates/rueca-lang-csharp) | 0.2.0-alpha.1 | 0 | C# language pack for Rueca |
-| 2026-11-26 04:11:07 | [rueca-lang-kotlin](https://crates.io/crates/rueca-lang-kotlin) | 0.2.0-alpha.1 | 0 | Kotlin language pack for Rueca |
-| 2026-11-26 04:11:27 | [rueca-lang-proto](https://crates.io/crates/rueca-lang-proto) | 0.2.0-alpha.1 | 0 | Protocol Buffers language pack for Rueca: services, RPC methods, messages, enum… |
-| 2026-11-26 04:11:35 | [rueca-lang-ruby](https://crates.io/crates/rueca-lang-ruby) | 0.2.0-alpha.1 | 0 | Ruby language pack for Rueca |
-| 2026-11-26 04:14:41 | [leandock](https://crates.io/crates/leandock) | 0.2.0 | 0 | Drop-in, zero-config, non-destructive resource optimizer wrapper for Docker Com… |
-| 2026-11-26 04:14:42 | [rueca-lang-rust](https://crates.io/crates/rueca-lang-rust) | 0.2.0-alpha.1 | 0 | Rust language pack for Rueca |
+| 2026-11-26 04:21:36 | [cw-service-drive](https://crates.io/crates/cw-service-drive) | 0.3.0 | 0 | A synthetic internet service of ComputerWorld: file storage |
+| 2026-11-26 04:26:04 | [rueca-lang-shell](https://crates.io/crates/rueca-lang-shell) | 0.2.0-alpha.1 | 0 | Shell (sh, bash, zsh, ksh, bats) language pack for Rueca |
+| 2026-11-26 04:28:43 | [cw-service-forum](https://crates.io/crates/cw-service-forum) | 0.3.0 | 0 | A synthetic internet service of ComputerWorld: forums |
+| 2026-11-26 04:32:08 | [mcp-commerce-evals](https://crates.io/crates/mcp-commerce-evals) | 0.1.1 | 0 | Evaluate any MCP store: tool-level retrieval metrics and an optional assistant-… |
+| 2026-11-26 04:35:50 | [cw-service-mail](https://crates.io/crates/cw-service-mail) | 0.3.0 | 0 | A synthetic internet service of ComputerWorld: mail |
+| 2026-11-26 04:37:21 | [rueca-lang-sql](https://crates.io/crates/rueca-lang-sql) | 0.2.0-alpha.1 | 0 | SQL language pack for Rueca: tables, columns, views, routines, triggers and the… |
+| 2026-11-26 04:47:09 | [tilo-paint-stream](https://crates.io/crates/tilo-paint-stream) | 0.5.0 | 0 | A web page as a layered display list: the engine runs on the host, every client… |
+| 2026-11-26 04:47:13 | [tilo-projector](https://crates.io/crates/tilo-projector) | 0.5.0 | 0 | The projection wire contract and control client: casting a screen or a playback… |
+| 2026-11-26 04:47:17 | [tilo-registry-types](https://crates.io/crates/tilo-registry-types) | 0.5.0 | 0 | Wire types for the Tilo app registry: signed package metadata, versions and con… |
+| 2026-11-26 04:47:21 | [tilo-runtime-portal](https://crates.io/crates/tilo-runtime-portal) | 0.5.0 | 0 | Service discovery and connected-transport plumbing for Tilo runtime services. |
+| 2026-11-26 04:47:25 | [tilo-fs-client](https://crates.io/crates/tilo-fs-client) | 0.5.0 | 0 | Capability clients and wire types for Tilo filesystem services. |
+| 2026-11-26 04:48:35 | [rueca-lang-swift](https://crates.io/crates/rueca-lang-swift) | 0.2.0-alpha.1 | 0 | Swift language pack for Rueca |
+| 2026-11-26 04:48:54 | [tilo-content-device](https://crates.io/crates/tilo-content-device) | 0.5.0 | 0 | The device content store: tilo-content over the filesystem daemon's blob capabi… |
+| 2026-11-26 04:49:03 | [redn-ast](https://crates.io/crates/redn-ast) | 0.1.0 | 0 | AST, parser, and pretty printer for EDN (Extensible Data Notation) |
+| 2026-11-26 04:49:05 | [redn-macros](https://crates.io/crates/redn-macros) | 0.1.0 | 0 | Compile-time EDN literal proc-macros for redn |
+| 2026-11-26 04:49:06 | [redn](https://crates.io/crates/redn) | 0.1.0 | 0 | EDN (Extensible Data Notation) parsing, encoding, decoding, macros, and recursi… |
+| 2026-11-26 04:50:00 | [cw-service-messages](https://crates.io/crates/cw-service-messages) | 0.3.0 | 0 | A synthetic internet service of ComputerWorld: text messages between handles |
+| 2026-11-26 04:52:17 | [driver115](https://crates.io/crates/driver115) | 0.1.0 | 0 | Pure Rust client for 115.com: file listing, share snapshot/receive, offline tas… |
+| 2026-11-26 04:54:13 | [nana-naga-types](https://crates.io/crates/nana-naga-types) | 30.0.1-nana.1 | 0 | Common types for naga and wgpu (NanaUI fork of wgpu 30.0.1) |
+| 2026-11-26 04:54:28 | [nana-naga](https://crates.io/crates/nana-naga) | 30.0.1-nana.1 | 0 | Shader translator and validator. Part of the wgpu project (NanaUI fork of wgpu… |
+| 2026-11-26 04:54:38 | [nana-wgpu-types](https://crates.io/crates/nana-wgpu-types) | 30.0.1-nana.1 | 0 | Common types and utilities for wgpu, the cross-platform, safe, pure-rust graphi… |
+| 2026-11-26 04:54:51 | [nana-wgpu-naga-bridge](https://crates.io/crates/nana-wgpu-naga-bridge) | 30.0.1-nana.1 | 0 | Conversions between naga and wgpu-types. Part of the wgpu project (NanaUI fork… |
+| 2026-11-26 04:55:04 | [nana-wgpu-hal](https://crates.io/crates/nana-wgpu-hal) | 30.0.1-nana.1 | 0 | Hardware abstraction layer for wgpu, the cross-platform, safe, pure-rust graphi… |
+| 2026-11-26 04:56:14 | [ateneo](https://crates.io/crates/ateneo) | 0.0.1 | 0 | Ateneo: institutional open access repository written in Rust (OAI-PMH, IIIF, SW… |
+| 2026-11-26 04:57:04 | [cw-service-search](https://crates.io/crates/cw-service-search) | 0.3.0 | 0 | A synthetic internet service of ComputerWorld: web search over the world's sites |
+| 2026-11-26 04:58:54 | [tilo-identity-client](https://crates.io/crates/tilo-identity-client) | 0.5.0 | 0 | Descriptor-bound identity broker client and public protocol types. |
+| 2026-11-26 05:01:21 | [rueca-codemode](https://crates.io/crates/rueca-codemode) | 0.2.0-alpha.1 | 0 | Code mode for Rueca (RFC 0009, experimental): sandboxed script engines behind o… |
+| 2026-11-26 05:04:20 | [nana-wgpu-core-deps-apple](https://crates.io/crates/nana-wgpu-core-deps-apple) | 30.0.1-nana.1 | 0 | Feature unification helper crate for Apple platforms (NanaUI fork of wgpu 30.0.… |
+| 2026-11-26 05:08:55 | [tilo-process](https://crates.io/crates/tilo-process) | 0.5.0 | 0 | The current process and, later, child processes: one API on Linux, macOS and th… |
+| 2026-11-26 05:09:36 | [cw-service-wiki](https://crates.io/crates/cw-service-wiki) | 0.3.0 | 0 | A synthetic internet service of ComputerWorld: a wiki |
+| 2026-11-26 05:12:58 | [octoii-relay](https://crates.io/crates/octoii-relay) | 0.0.1 | 0 | Blind datagram relay for Octoii Tunnel, hosted on Cloudflare or as a native ser… |
+| 2026-11-26 05:14:20 | [nana-wgpu-core-deps-emscripten](https://crates.io/crates/nana-wgpu-core-deps-emscripten) | 30.0.1-nana.1 | 0 | Feature unification helper crate for the Emscripten platform (NanaUI fork of wg… |
+| 2026-11-26 05:14:40 | [rueca-storage](https://crates.io/crates/rueca-storage) | 0.2.0-alpha.1 | 0 | Storage seam for Rueca service mode: conditional writes over S3-compatible obje… |
+| 2026-11-26 05:15:59 | [rueca-service](https://crates.io/crates/rueca-service) | 0.2.0-alpha.1 | 0 | Rueca service mode: publish local segments to object storage, pull them into a… |
+| 2026-11-26 05:16:47 | [cw-services](https://crates.io/crates/cw-services) | 0.3.0 | 0 | ComputerWorld's bundled service registry: the generic kinds, and kinds other cr… |
+| 2026-11-26 05:18:54 | [tilo-sandbox-core](https://crates.io/crates/tilo-sandbox-core) | 0.5.0 | 0 | Landlock ruleset construction, seccomp-bpf deny-list compilation and the dynami… |
+| 2026-11-26 05:19:05 | [meow-wireguard](https://crates.io/crates/meow-wireguard) | 0.30.0 | 0 | Vendored boringtun 0.7.1 WireGuard Noise implementation with ring replaced by R… |
+| 2026-11-26 05:19:09 | [meow-wgstack](https://crates.io/crates/meow-wgstack) | 0.30.0 | 0 | Shared smoltcp/tokio plumbing for the meow-rs WireGuard outbound pump and inbou… |
+| 2026-11-26 05:19:31 | [octoii-net](https://crates.io/crates/octoii-net) | 1.5.0 | 0 | Iroh peer-to-peer QUIC with custom transport path discovery for octoii-tunnel |
+| 2026-11-26 05:19:35 | [octoii-h3](https://crates.io/crates/octoii-h3) | 0.0.8 | 0 | Hyperium h3 with the RFC 9220 WebSocket protocol identifier backported for Octo… |
+| 2026-11-26 05:20:37 | [octoii-iroh-h3](https://crates.io/crates/octoii-iroh-h3) | 0.4.0 | 0 | HTTP/3 stream adapter for Octoii Tunnel's registry-published Iroh and h3 depend… |
 
 ## Data source
 
