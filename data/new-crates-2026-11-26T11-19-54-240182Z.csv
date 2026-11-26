@@ -1,0 +1,38 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-26T10:19:31.88063Z,fastgzip,0.2.0,0,0,https://github.com/aryehlev/fastgzip,"Fast gzip for streams of small, similar payloads: shared Huffman codes, one pass"
+2026-11-26T10:25:38.184196Z,geolith-cli,0.2.0,0,0,https://github.com/geolith/geolith,Rust vector tile generator — OSM + Overture Maps → protomaps PMTiles
+2026-11-26T10:27:25.480726Z,copper-spice,0.3.0,0,0,https://github.com/andenore/CopperScript,"Reader for vendor SPICE netlists (SPICE3, PSpice and LTspice dialects): subcircuits, models, parameters and behavioural sources, flattened into copper-sim elements"
+2026-11-26T10:33:15.797935Z,oxisort,0.1.0-beta.1,0,0,https://github.com/mruiz42/oxisort,"An extremely fast photo and video organizer, written in Rust"
+2026-11-26T10:37:30.32181Z,copper-simulate,0.3.0,0,0,https://github.com/andenore/CopperScript,"Runs CopperScript benches: lowers a board plus a bench to the copper-sim circuit, steps params, evaluates typed bench expressions and writes the results JSON, CSV and HTML report of `copper sim`"
+2026-11-26T10:38:52.659169Z,tilo-collaboration,0.5.0,0,0,https://code.tilo.so/tilo/tilo,"The collab client without the toolkit: what a process that commits to a Tilo workspace links, and the toolkit (`ui::collaboration`) builds on."
+2026-11-26T10:38:56.385429Z,licenserail,0.1.0,0,0,https://github.com/codeo-engineering/licenserail-sdks,"LicenseRail client SDK: offline license verification, activation, refresh and floating leases."
+2026-11-26T10:38:56.836578Z,tilo-vello-encoding,0.5.0,0,0,https://github.com/linebender/vello,vello_encoding 0.9.0 (https://github.com/linebender/vello) with the BumpBudget sizing tilo-vello uses. Tilo's fork; see TILO-FORK.md.
+2026-11-26T10:39:00.302587Z,tilo-vello-shaders,0.5.0,0,0,https://github.com/linebender/vello,"vello_shaders 0.9.0 (https://github.com/linebender/vello) with the shader changes tilo-vello uses (bump budgets, canonical segment order). Tilo's fork; see TILO-FORK.md."
+2026-11-26T10:39:04.721126Z,tilo-wgpu,0.5.0,0,0,https://code.tilo.so/tilo/tilo,"wgpu 29.0.3 (https://github.com/gfx-rs/wgpu) reporting a lost device instead of panicking, as Tilo's renderer needs. Tilo's fork; see TILO-PATCH.md."
+2026-11-26T10:45:02.362815Z,arus-domain,0.1.0,0,0,https://github.com/farhan-syah/arus,"Core domain models, units, and watershed identifiers for the ARUS flood simulation platform."
+2026-11-26T10:45:37.53485Z,arus-media,0.1.0,0,0,https://github.com/farhan-syah/arus,Video and media encoding utilities built on vidr for ARUS flood visualizations.
+2026-11-26T10:45:40.406505Z,arus-api-types,0.1.0,0,0,https://github.com/farhan-syah/arus,Shared HTTP API request and response contract types for ARUS.
+2026-11-26T10:45:46.163223Z,arus-assets,0.1.0,0,0,https://github.com/farhan-syah/arus,Static asset manifests and provenance descriptors for ARUS.
+2026-11-26T10:45:49.067564Z,arus-geo,0.1.0,0,0,https://github.com/farhan-syah/arus,"Spatial grid, raster, ASCII DEM, and WGS84/projected coordinate utilities for ARUS."
+2026-11-26T10:46:53.786146Z,rustabletop-core,0.1.0-alpha.2,0,0,https://github.com/lm98/rustabletop,"Core of rustabletop: validates tabletop game data against JSON Schema and renders cards, tokens and boards to print-and-play PDF and PNG through embedded Typst"
+2026-11-26T10:46:56.180474Z,rustabletop,0.1.0-alpha.2,0,0,https://github.com/lm98/rustabletop,"Agent-first CLI that turns tabletop game data (YAML/CSV + JSON Schema + Typst templates) into print-and-play PDFs and PNGs for cards, tokens and boards"
+2026-11-26T10:47:35.853382Z,copperscript,0.3.0,0,0,https://github.com/andenore/CopperScript,The CopperScript command line: PCB design as code (installs the `copper` command)
+2026-11-26T10:48:55.013379Z,tilo-vello,0.5.0,0,0,https://github.com/linebender/vello,vello 0.9.0 (https://github.com/linebender/vello) with adaptive bump budgets: scratch buffers sized from measured use. Tilo's fork; see TILO-FORK.md.
+2026-11-26T10:56:20.959054Z,termcode,1.2.0,0,0,https://github.com/JonasAtelier/termcode,A VS Code-style code editor and Git panel in the terminal
+2026-11-26T10:58:33.272995Z,cargo-anywhere,0.1.0,0,0,https://github.com/Rudi-Regentonne/cargo-anywhere,Nix/devenv-aware remote Cargo runner with automatic client CPU optimization
+2026-11-26T10:58:59.850391Z,tilo-cpu-raster,0.5.0,0,0,https://code.tilo.so/tilo/tilo,"Rasterizes a recorded vello scene on the CPU through vello_cpu, for GPUs that cannot run vello's compute pipeline. Renders whole frames or damaged regions into caller-owned premultiplied RGBA8 buffer…"
+2026-11-26T10:59:42.037971Z,arus-model-api,0.1.0,0,0,https://github.com/farhan-syah/arus,Solver-agnostic hydraulic and hydrologic model adapter traits for ARUS.
+2026-11-26T11:02:23.874536Z,arus-storage,0.1.0,0,0,https://github.com/farhan-syah/arus,Persistent run archive and file-backed storage abstractions for ARUS.
+2026-11-26T11:05:01.944042Z,koan-kit-web,0.5.0,0,0,https://github.com/radiosilence/koan,"The kōan web kit as askama components wired for Datastar: buttons, fields, sheets, notices and the rest, drawn with the kit's own stylesheet, which the crate carries"
+2026-11-26T11:05:47.251362Z,colorless-core,0.1.0,0,0,,Zero-cost building blocks and compiler support for function coloring in Rust
+2026-11-26T11:05:47.772007Z,cps-signal,0.1.0,0,0,,Zero-cost building blocks and compiler support for function coloring in Rust
+2026-11-26T11:05:48.231383Z,cps-try,0.1.0,0,0,,Zero-cost building blocks and compiler support for function coloring in Rust
+2026-11-26T11:05:49.386052Z,colorless-lower,0.1.0,0,0,,Zero-cost building blocks and compiler support for function coloring in Rust
+2026-11-26T11:05:49.925324Z,colorless-rt,0.1.0,0,0,,Zero-cost building blocks and compiler support for function coloring in Rust
+2026-11-26T11:08:23.550278Z,arus-web,0.1.0,0,0,https://github.com/farhan-syah/arus,Dioxus SSR web UI and interactive MapLibre flood studio shell for ARUS.
+2026-11-26T11:08:54.559653Z,tilo-paint-strokes,0.5.0,0,0,https://code.tilo.so/tilo/tilo,"Brush presets and stroke geometry worked out from points alone: the outline a line of ink fills, the dabs a soft brush stamps, smoothing and simplification. No UI and no artwork model."
+2026-11-26T11:13:30.007589Z,brush-winnow-args-adapter,0.1.0,0,0,https://github.com/reubeno/brush,winnow-args adapter for brush builtins
+2026-11-26T11:14:02.827979Z,wrkflw-runs,0.9.0,0,0,https://github.com/bahdotsh/wrkflw,"Run history, failure digests and structured events for wrkflw"
+2026-11-26T11:15:50.90897Z,brush-clap-adapter,0.1.0,0,0,https://github.com/reubeno/brush,clap adapter for brush builtins
+2026-11-26T11:18:24.132087Z,arus-evaluation,0.1.0,0,0,https://github.com/farhan-syah/arus,"Flood skill metrics, water-budget verification, and scenario evaluation for ARUS."
+2026-11-26T11:19:18.587082Z,tilo-render-protocol,0.5.0,0,0,https://code.tilo.so/tilo/tilo,"Scene transport between Tilo apps and the workspace's render service: frame records, vello encodings by resource id, the validator every scene passes before a GPU sees it, and the shared memory and c…"
