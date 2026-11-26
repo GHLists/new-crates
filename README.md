@@ -8,38 +8,43 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-26 20:19 UTC
+## Latest list — 2026-11-26 21:19 UTC
 
-New crates published between 2026-11-26 19:21 UTC and 2026-11-26 20:19 UTC.
+New crates published between 2026-11-26 20:19 UTC and 2026-11-26 21:19 UTC.
 
-[Full CSV](data/new-crates-2026-11-26T20-19-45-224055Z.csv)
+[Full CSV](data/new-crates-2026-11-26T21-19-12-069211Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-26 19:21:18 | [interlinked-otel](https://crates.io/crates/interlinked-otel) | 0.0.0 | 0 | Reserved for the Interlinked project (https://interlinked.network). Placeholder… |
-| 2026-11-26 19:22:11 | [rs-stylis-derive](https://crates.io/crates/rs-stylis-derive) | 0.1.0 | 0 | Procedural macros for the rs-stylis CSS parser and printer |
-| 2026-11-26 19:22:29 | [rs-stylis](https://crates.io/crates/rs-stylis) | 0.1.0 | 0 | CSS parser, transformer, and minifier with CSS Modules and browser target suppo… |
-| 2026-11-26 19:25:15 | [av1oxide-image](https://crates.io/crates/av1oxide-image) | 0.1.0 | 0 | image::ImageDecoder integration crate for av1oxide::avif (100% safe Rust, zero… |
-| 2026-11-26 19:27:58 | [isothrum-service](https://crates.io/crates/isothrum-service) | 3.0.0 | 0 | The Isothrum runner service: one daemon per runner home that queues each run's… |
-| 2026-11-26 19:31:42 | [interlinked-ffi](https://crates.io/crates/interlinked-ffi) | 0.0.0 | 0 | Reserved for the Interlinked project (https://interlinked.network). Placeholder… |
-| 2026-11-26 19:33:35 | [tunnelward-risk](https://crates.io/crates/tunnelward-risk) | 0.0.16 | 0 | Tunnelward risk signals: velocity, tool-sequence drift, canary tools and canary… |
-| 2026-11-26 19:35:07 | [silvermine-quarry](https://crates.io/crates/silvermine-quarry) | 0.1.0 | 0 | A serverless hybrid search engine that keeps its index as immutable blocks in o… |
-| 2026-11-26 19:38:19 | [matenadar-model](https://crates.io/crates/matenadar-model) | 0.1.0 | 0 | Matenadar's document model: pages, flows, styles, components and the operations… |
-| 2026-11-26 19:40:35 | [wellfriend-document-sdk](https://crates.io/crates/wellfriend-document-sdk) | 1.0.0 | 0 | Official async Rust SDK for the Wellfriend document API: typed document tools,… |
-| 2026-11-26 19:42:08 | [interlinked-shim](https://crates.io/crates/interlinked-shim) | 0.0.0 | 0 | Reserved for the Interlinked project (https://interlinked.network). Placeholder… |
-| 2026-11-26 19:42:16 | [matenadar-typst](https://crates.io/crates/matenadar-typst) | 0.1.0 | 0 | Lays a Matenadar document out with Typst: compile, render, locate and check |
-| 2026-11-26 19:42:32 | [matenadar-epub](https://crates.io/crates/matenadar-epub) | 0.1.0 | 0 | EPUB 3 from a Matenadar document: reflowable, or one image per page |
-| 2026-11-26 19:42:47 | [matenadar](https://crates.io/crates/matenadar) | 0.1.0 | 0 | A book and page layout engine for people and agents: document model, Typst layo… |
-| 2026-11-26 19:45:15 | [phone_harness_rust](https://crates.io/crates/phone_harness_rust) | 0.1.0 | 0 | 40-tool Rust MCP server for controlling Android devices over ADB |
-| 2026-11-26 19:50:53 | [marklark](https://crates.io/crates/marklark) | 0.0.0 | 0 | Maintain Markdown documents: humans write intents, agents write hermetic Starla… |
-| 2026-11-26 19:52:34 | [interlinked-test-temp](https://crates.io/crates/interlinked-test-temp) | 0.0.0 | 0 | Reserved for the Interlinked project (https://interlinked.network). Placeholder… |
-| 2026-11-26 19:55:07 | [usbdac-core](https://crates.io/crates/usbdac-core) | 0.1.1 | 0 | Direct USB DAC playback for Rust audio applications on Android and Linux, with… |
-| 2026-11-26 19:58:24 | [lightning-client](https://crates.io/crates/lightning-client) | 1.0.0 | 0 | Shared models, monetary types, configuration and validation for Lightning Drive… |
-| 2026-11-26 20:02:52 | [lightning-driver-api](https://crates.io/crates/lightning-driver-api) | 1.0.0 | 0 | HTTP API with operator authentication, policy enforcement and a durable journal… |
-| 2026-11-26 20:05:14 | [open-pencil-fig](https://crates.io/crates/open-pencil-fig) | 0.1.0 | 0 | Reads Figma .fig files: the archive, an index over its Kiwi records, and pages… |
-| 2026-11-26 20:05:16 | [open-pencil](https://crates.io/crates/open-pencil) | 0.1.0 | 0 | Rust crates of OpenPencil, an open-source design editor: reading Figma .fig fil… |
-| 2026-11-26 20:12:28 | [tummler](https://crates.io/crates/tummler) | 0.5.0 | 0 | One CLI that mixes any file into any format — images, video, documents, spreads… |
-| 2026-11-26 20:15:38 | [rembg-rs-bria](https://crates.io/crates/rembg-rs-bria) | 0.1.2 | 0 | Rust host for Bria RMBG-3.0 background removal |
+| 2026-11-26 20:20:22 | [pkbyte](https://crates.io/crates/pkbyte) | 0.1.1 | 0 | Rust library and CLI for compact immutable UTF-8 string tables with uniform sam… |
+| 2026-11-26 20:23:31 | [realtime-character-animation-model](https://crates.io/crates/realtime-character-animation-model) | 0.1.2 | 0 | Generates new full-body character motion from commands (run, sit, grab) with a… |
+| 2026-11-26 20:24:08 | [realtime-character-animation](https://crates.io/crates/realtime-character-animation) | 0.1.2 | 0 | Generates new full-body character motion from commands (run, sit, grab) with a… |
+| 2026-11-26 20:33:55 | [solana-thin](https://crates.io/crates/solana-thin) | 0.1.0 | 0 | A thin client for Solana after Alpenglow: verify that a block is final and that… |
+| 2026-11-26 20:34:11 | [solana-thin-setlog](https://crates.io/crates/solana-thin-setlog) | 0.1.0 | 0 | A signed, hash-chained log of Solana validator-set hashes, one record per epoch… |
+| 2026-11-26 20:34:17 | [solana-thin-prover](https://crates.io/crates/solana-thin-prover) | 0.1.0 | 0 | A small node that fetches finalized Solana blocks from validators over the repa… |
+| 2026-11-26 20:43:00 | [flm](https://crates.io/crates/flm) | 0.0.1 | 0 | Placeholder version of flm, the command-line program of FLM (Flexible Latex-lik… |
+| 2026-11-26 20:44:09 | [l-viz-glsl-frontend](https://crates.io/crates/l-viz-glsl-frontend) | 0.1.0 | 0 | GLSL lexer/parser/AST for fragment shaders targeting WGSL transpilation. |
+| 2026-11-26 20:44:10 | [l-viz-hlsl-frontend](https://crates.io/crates/l-viz-hlsl-frontend) | 0.1.0 | 0 | Lexer/parser/AST for the MilkDrop subset of HLSL shader bodies. |
+| 2026-11-26 20:44:10 | [l-viz-milk-parser](https://crates.io/crates/l-viz-milk-parser) | 0.1.0 | 0 | Parses the MilkDrop .milk preset text format into a structured preset IR. |
+| 2026-11-26 20:44:12 | [l-viz-glsl-to-wgsl](https://crates.io/crates/l-viz-glsl-to-wgsl) | 0.1.0 | 0 | GLSL AST to naga-valid WGSL lowerer targeting the frozen render contract. |
+| 2026-11-26 20:44:13 | [l-viz-isf-frontend](https://crates.io/crates/l-viz-isf-frontend) | 0.1.0 | 0 | AST, metadata parser, and GLSL frontend integration for ISF (Interactive Shader… |
+| 2026-11-26 20:49:36 | [canbus-core](https://crates.io/crates/canbus-core) | 0.1.0 | 0 | Vendor-neutral CAN bus types and traits shared by the canbus backends |
+| 2026-11-26 20:49:38 | [canbus-kvaser](https://crates.io/crates/canbus-kvaser) | 0.1.0 | 0 | Kvaser CANlib backend for the canbus crate family |
+| 2026-11-26 20:49:38 | [canbus-pcan](https://crates.io/crates/canbus-pcan) | 0.1.0 | 0 | PEAK PCAN-Basic backend for the canbus crate family |
+| 2026-11-26 20:49:38 | [canbus-virtual](https://crates.io/crates/canbus-virtual) | 0.1.0 | 0 | In-process virtual CAN bus for the canbus crate family |
+| 2026-11-26 20:49:40 | [canbus](https://crates.io/crates/canbus) | 0.1.0 | 0 | Cross-platform CAN bus library with runtime-selectable backends (Kvaser, PEAK P… |
+| 2026-11-26 20:49:52 | [tree-sitter-vbnet](https://crates.io/crates/tree-sitter-vbnet) | 0.2.0 | 0 | Tree-sitter grammar for Visual Basic .NET |
+| 2026-11-26 20:53:20 | [redis-rover](https://crates.io/crates/redis-rover) | 0.1.0 | 0 | A keyboard-driven Redis client for the terminal: browse millions of keys, and s… |
+| 2026-11-26 20:56:30 | [majestix-vk](https://crates.io/crates/majestix-vk) | 0.1.0 | 0 | A safe Vulkan call layer over ash: handles that cannot outlive the GPU's use of… |
+| 2026-11-26 20:58:00 | [codeweight](https://crates.io/crates/codeweight) | 0.1.0 | 0 | Weighs code: every element by its weight, heavier when nested, for files, folde… |
+| 2026-11-26 21:00:33 | [l-viz-isf-to-wgsl](https://crates.io/crates/l-viz-isf-to-wgsl) | 0.1.0 | 0 | ISF metadata mapping and WGSL code generation adapter targeting the frozen rend… |
+| 2026-11-26 21:11:09 | [rig-otel](https://crates.io/crates/rig-otel) | 0.47.0 | 0 | OpenTelemetry for Rig agents in one call: traces, GenAI metrics, sessions and t… |
+| 2026-11-26 21:11:16 | [rig-a2a](https://crates.io/crates/rig-a2a) | 0.47.0 | 0 | Serve Rig agents over the Agent2Agent (A2A) protocol and call remote A2A agents… |
+| 2026-11-26 21:11:17 | [rig-agentcore](https://crates.io/crates/rig-agentcore) | 0.47.0 | 0 | Run a Rig agent on AWS Bedrock AgentCore Runtime: the HTTP protocol contract (/… |
+| 2026-11-26 21:12:27 | [syaml](https://crates.io/crates/syaml) | 0.1.0 | 0 | Safe YAML for Rust |
+| 2026-11-26 21:13:58 | [azure-cost-top](https://crates.io/crates/azure-cost-top) | 0.1.0 | 0 | Offline CLI: top costs per meter, resource group and tag from an Azure Cost Man… |
+| 2026-11-26 21:15:03 | [kio-macros](https://crates.io/crates/kio-macros) | 0.0.0 | 0 | Placeholder reserving the name for kio's procedural macros; real releases publi… |
+| 2026-11-26 21:16:13 | [lorefile](https://crates.io/crates/lorefile) | 0.1.0 | 0 | Lorefile: a file-based, AI-agent-first business ontology. YAML in; MCP, CLI and… |
 
 ## Data source
 

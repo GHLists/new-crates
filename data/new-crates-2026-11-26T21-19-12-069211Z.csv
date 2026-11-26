@@ -1,0 +1,30 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-26T20:20:22.972931Z,pkbyte,0.1.1,0,0,https://github.com/edwardigarashi/pkbyte,Rust library and CLI for compact immutable UTF-8 string tables with uniform sampling
+2026-11-26T20:23:31.484427Z,realtime-character-animation-model,0.1.2,0,0,https://github.com/PartiiGames/realtime-character-animation-model,"Generates new full-body character motion from commands (run, sit, grab) with a neural model, not clip playback: the NVIDIA MotionBricks (SOMA) model code, pre-generated for burn (CPU + wgpu/WebGPU),…"
+2026-11-26T20:24:08.259759Z,realtime-character-animation,0.1.2,0,0,https://github.com/PartiiGames/realtime-character-animation,"Generates new full-body character motion from commands (run, sit, grab) with a neural model, not clip playback: NVIDIA MotionBricks on the GPU with burn (CPU + wgpu), native and in the browser via We…"
+2026-11-26T20:33:55.62207Z,solana-thin,0.1.0,0,0,https://github.com/dannycake/solana-thin,"A thin client for Solana after Alpenglow: verify that a block is final and that your transaction is in it, from a small proof."
+2026-11-26T20:34:11.59927Z,solana-thin-setlog,0.1.0,0,0,https://github.com/dannycake/solana-thin,"A signed, hash-chained log of Solana validator-set hashes, one record per epoch, for a thin client to check before it pins a set."
+2026-11-26T20:34:17.145941Z,solana-thin-prover,0.1.0,0,0,https://github.com/dannycake/solana-thin,A small node that fetches finalized Solana blocks from validators over the repair protocol and serves proofs that a transaction is in one.
+2026-11-26T20:43:00.116456Z,flm,0.0.1,0,0,https://github.com/phfaist/flm,"Placeholder version of flm, the command-line program of FLM (Flexible Latex-like Markup); the program is version 0.6.0 and later"
+2026-11-26T20:44:09.2635Z,l-viz-glsl-frontend,0.1.0,0,0,https://github.com/p-viz/l-viz,GLSL lexer/parser/AST for fragment shaders targeting WGSL transpilation.
+2026-11-26T20:44:10.002932Z,l-viz-hlsl-frontend,0.1.0,0,0,https://github.com/p-viz/l-viz,Lexer/parser/AST for the MilkDrop subset of HLSL shader bodies.
+2026-11-26T20:44:10.3237Z,l-viz-milk-parser,0.1.0,0,0,https://github.com/p-viz/l-viz,Parses the MilkDrop .milk preset text format into a structured preset IR.
+2026-11-26T20:44:12.952264Z,l-viz-glsl-to-wgsl,0.1.0,0,0,https://github.com/p-viz/l-viz,GLSL AST to naga-valid WGSL lowerer targeting the frozen render contract.
+2026-11-26T20:44:13.493356Z,l-viz-isf-frontend,0.1.0,0,0,https://github.com/p-viz/l-viz,"AST, metadata parser, and GLSL frontend integration for ISF (Interactive Shader Format 2.x)."
+2026-11-26T20:49:36.66185Z,canbus-core,0.1.0,0,0,https://github.com/noahridge/canbus-rs,Vendor-neutral CAN bus types and traits shared by the canbus backends
+2026-11-26T20:49:38.496152Z,canbus-kvaser,0.1.0,0,0,https://github.com/noahridge/canbus-rs,Kvaser CANlib backend for the canbus crate family
+2026-11-26T20:49:38.779855Z,canbus-pcan,0.1.0,0,0,https://github.com/noahridge/canbus-rs,PEAK PCAN-Basic backend for the canbus crate family
+2026-11-26T20:49:38.977426Z,canbus-virtual,0.1.0,0,0,https://github.com/noahridge/canbus-rs,In-process virtual CAN bus for the canbus crate family
+2026-11-26T20:49:40.07545Z,canbus,0.1.0,0,0,https://github.com/noahridge/canbus-rs,"Cross-platform CAN bus library with runtime-selectable backends (Kvaser, PEAK PCAN, virtual)"
+2026-11-26T20:49:52.705743Z,tree-sitter-vbnet,0.2.0,0,0,https://github.com/alfpricot/tree-sitter-vbnet.git,Tree-sitter grammar for Visual Basic .NET
+2026-11-26T20:53:20.946283Z,redis-rover,0.1.0,0,0,https://github.com/danik-tro/redis-rover,"A keyboard-driven Redis client for the terminal: browse millions of keys, and see every write before it runs"
+2026-11-26T20:56:30.361581Z,majestix-vk,0.1.0,0,0,,"A safe Vulkan call layer over ash: handles that cannot outlive the GPU's use of them, frames, typestate command buffers"
+2026-11-26T20:58:00.472696Z,codeweight,0.1.0,0,0,https://github.com/flexo0/codeweight,"Weighs code: every element by its weight, heavier when nested, for files, folders and a commit's net delta; Java, TypeScript, JavaScript, Python, Rust, Go, C; weights tuned on 1,400+ bad/good code pa…"
+2026-11-26T21:00:33.033412Z,l-viz-isf-to-wgsl,0.1.0,0,0,https://github.com/p-viz/l-viz,ISF metadata mapping and WGSL code generation adapter targeting the frozen render contract.
+2026-11-26T21:11:09.423414Z,rig-otel,0.47.0,0,0,https://github.com/pingedbrain/rig-contrib,"OpenTelemetry for Rig agents in one call: traces, GenAI metrics, sessions and trace context across processes, in the shape AWS Bedrock AgentCore reads."
+2026-11-26T21:11:16.427521Z,rig-a2a,0.47.0,0,0,https://github.com/pingedbrain/rig-contrib,"Serve Rig agents over the Agent2Agent (A2A) protocol and call remote A2A agents as Rig tools, built on the official A2A Rust SDK."
+2026-11-26T21:11:17.559976Z,rig-agentcore,0.47.0,0,0,https://github.com/pingedbrain/rig-contrib,"Run a Rig agent on AWS Bedrock AgentCore Runtime: the HTTP protocol contract (/invocations, /ping), sessions, streaming and traces AgentCore Observability and Evaluations read."
+2026-11-26T21:12:27.967515Z,syaml,0.1.0,0,0,https://github.com/luis-tunes/syaml,Safe YAML for Rust
+2026-11-26T21:13:58.168428Z,azure-cost-top,0.1.0,0,0,https://github.com/qwpp7g79y4-maker/azure-cost-top,"Offline CLI: top costs per meter, resource group and tag from an Azure Cost Management CSV export, with optional month-over-month delta"
+2026-11-26T21:15:03.428356Z,kio-macros,0.0.0,0,0,https://github.com/kixel-ai/kio,Placeholder reserving the name for kio's procedural macros; real releases publish from https://github.com/kixel-ai/kio.
+2026-11-26T21:16:13.282459Z,lorefile,0.1.0,0,0,https://github.com/lorefile/lorefile,"Lorefile: a file-based, AI-agent-first business ontology. YAML in; MCP, CLI and a web page out."
