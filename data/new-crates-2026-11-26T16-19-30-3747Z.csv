@@ -1,0 +1,48 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-26T15:19:32.509493Z,cloud_terrastodon_cli_types,0.38.0,0,0,https://github.com/AAFC-Cloud/Cloud-Terrastodon.git,Shared validated command-line inputs for Cloud Terrastodon
+2026-11-26T15:19:33.387685Z,hazard3-ssd1306-physics,0.6.1,0,0,https://github.com/jorgeandrecastro/hazard3-ssd1306-physics,"Dessins 2D no_std pour objets physiques (bras robotique, pendule, ressort-masse, boussole, engrenages,piston) sur OLED SSD1306 128×64"
+2026-11-26T15:21:59.862151Z,lc2kicad,0.1.0,0,0,,"Headless CLI and library to export LCSC / EasyEDA components to KiCad 8/9/10, Altium Designer, STEP/OBJ 3D models, and PDF datasheets."
+2026-11-26T15:22:35.063739Z,sciart-generators,0.7.0,0,0,https://github.com/nilesh-patil/sciart,Internal: the scene registry of sciart. No semver promise; use the `sciart` crate
+2026-11-26T15:22:37.096992Z,sciart-keepawake,0.7.0,0,0,https://github.com/nilesh-patil/sciart,Internal: keep-awake backends of sciart. No semver promise; use the `sciart` crate
+2026-11-26T15:22:44.516172Z,sciart,1.0.1,0,0,https://github.com/nilesh-patil/sciart,"Real-time generative science art for the terminal: physics, chemistry, biology, Earth and space"
+2026-11-26T15:24:10.424402Z,envelope-keys,1.0.0,0,0,https://github.com/Sannrox/envelope-keys,"Envelope encryption key providers: a provider contract, wrapped data keys, and a conformance suite"
+2026-11-26T15:27:35.737212Z,speedyspec-routing,0.2.0,0,0,https://github.com/SpeedySpec/speedyspec-platform,"Routing contracts: routes, resolutions, route data, the table store, dispatch strategies and WordPress's routing concepts."
+2026-11-26T15:29:32.388474Z,cloud_terrastodon_execution,0.38.0,0,0,https://github.com/AAFC-Cloud/Cloud-Terrastodon.git,Scoped request execution and injected authentication for Cloud Terrastodon
+2026-11-26T15:35:12.552407Z,tilolang-tilo,0.5.0,0,0,https://code.tilo.so/tilo/tilo,"Tilo platform integration for tilolang apps: their resources in the device's store, the published surface, and the UI graph translation."
+2026-11-26T15:35:18.195281Z,tilo-app-builder,0.5.0,0,0,https://code.tilo.so/tilo/tilo,"Tilo apps written in Rust: scaffold, check, build for each platform, package and publish them; the `tilolang` command runs it"
+2026-11-26T15:37:36.616054Z,speedyspec-rest-contracts,0.2.0,0,0,https://github.com/SpeedySpec/speedyspec-platform,"The REST transport's contracts: bindings, the REST request and response, links, and the RestHooks port."
+2026-11-26T15:37:41.122346Z,mincorr,0.3.0,0,0,https://github.com/deminden/min-rust-corr,"Fast correlation matrices (Pearson, Spearman, Kendall tau-b, biweight midcorrelation, Hellinger correlation): library and CLI"
+2026-11-26T15:37:47.858919Z,sqlload-python-host,0.0.0,0,0,https://github.com/sqlstack-io/sqlload,Placeholder for SQLLoad's Python host crate (running Python tables on the SQLLoad engine). The first real release is published from the sqlload repository.
+2026-11-26T15:37:51.17787Z,waos-gpu-host,0.8.0,0,0,https://github.com/waos-dev/waos,"The host the engine serves wasdk:gpu with: wgpu's API over wgpu-core, each call one of wgpu-core's."
+2026-11-26T15:38:55.856447Z,tilolang-window,0.5.0,0,0,https://code.tilo.so/tilo/tilo,"A tilolang app's window with nothing on screen: its instance staged with a scenario, its views laid out by the toolkit's frame pipeline, and the platform it stands on."
+2026-11-26T15:39:32.34627Z,cloud_terrastodon_registry_execution,0.38.0,0,0,https://github.com/AAFC-Cloud/Cloud-Terrastodon.git,Invocation and execution of registered Cloud Terrastodon operations
+2026-11-26T15:40:53.826302Z,henad-graph,0.4.0,0,0,https://github.com/micfong-z/henad,"Graph models and sheets of Henad: node graphs and author documents as model files, checked, lowered and compiled to WGSL."
+2026-11-26T15:47:00.24615Z,auric-ace-build,0.8.3,0,0,https://gitlab.com/megalithic-llc/auric-spa/auric.git,Codegen for the Ace code editor addon for the Ember-inspired Auric SPA framework
+2026-11-26T15:47:02.793588Z,auric-fontawesome-build,0.8.3,0,0,https://gitlab.com/megalithic-llc/auric-spa/auric.git,Codegen for the Font Awesome addon for the Ember-inspired Auric SPA framework
+2026-11-26T15:47:04.639254Z,auric-websockets-build,0.8.3,0,0,https://gitlab.com/megalithic-llc/auric-spa/auric.git,Codegen for the WebSockets addon for the Ember-inspired Auric SPA framework
+2026-11-26T15:47:10.076665Z,auric-ace,0.8.3,0,0,https://gitlab.com/megalithic-llc/auric-spa/auric.git,Ace code editor addon for the Ember-inspired Auric SPA framework
+2026-11-26T15:47:12.650947Z,auric-fontawesome,0.8.3,0,0,https://gitlab.com/megalithic-llc/auric-spa/auric.git,Font Awesome icons addon for the Ember-inspired Auric SPA framework
+2026-11-26T15:47:36.811784Z,speedyspec-php-serialize,0.3.0,0,0,https://github.com/SpeedySpec/speedyspec-platform,"PHP's serialize format in Rust: serialize, unserialize, maybe_serialize, and conversions to hook values."
+2026-11-26T15:48:56.392332Z,tilolang-cli,0.5.0,0,0,https://code.tilo.so/tilo/tilo,"The tilolang command: create, check, run, build, package and publish Tilo apps, written in tilolang or in Rust."
+2026-11-26T15:49:33.864089Z,cloud_terrastodon_auth,0.38.0,0,0,https://github.com/AAFC-Cloud/Cloud-Terrastodon.git,Runtime authentication and credential sessions for Cloud Terrastodon
+2026-11-26T15:50:48.226083Z,horsegirl,0.0.0,0,0,https://github.com/oddurs/horsegirl,"An agent-first diagram language: state the facts once, choose a lens. This version holds the name."
+2026-11-26T15:52:45.504988Z,ag-sqlite,0.22.0,0,0,https://github.com/agentty-xyz/agentty,"Shared SQLite open, migration, and transaction helpers for Agentty stores"
+2026-11-26T15:55:46.257492Z,freespace,0.1.0,0,0,https://github.com/sammwyy/freespace,"Find and safely reclaim disk space on Linux and Windows: caches, build artifacts, Docker, games and more"
+2026-11-26T15:57:35.495872Z,speedyspec-abilities-contracts,0.2.0,0,0,https://github.com/SpeedySpec/speedyspec-platform,"The Abilities transport's contracts: the ability binding and annotations, and the mapping, hooks and steps ports."
+2026-11-26T15:59:06.760651Z,tilolang-web,0.5.0,0,0,https://code.tilo.so/tilo/tilo,"Tilolang in a browser page: compile packages from their files, run an app over its scenario and show its window as semantic HTML, and the two-peer playground over one source."
+2026-11-26T16:00:28.857638Z,myle,0.1.0,0,0,https://github.com/myleapp/api,The official Rust SDK of the Myle API (https://api.myleapp.fr)
+2026-11-26T16:00:50.582072Z,myle-cli,0.1.0,0,0,https://github.com/myleapp/api,"The Myle command-line tool: the Myle API from a terminal, the Stripe CLI's way"
+2026-11-26T16:01:50.732435Z,auric-websockets,0.8.3,0,0,https://gitlab.com/megalithic-llc/auric-spa/auric.git,WebSockets addon for the Ember-inspired Auric SPA framework
+2026-11-26T16:02:49.497586Z,egui-workbench-chem-core,1.2.0,0,0,https://github.com/jigonzalez930209/egui-workbench,"Shared, egui-free chemical document model, selection bus, events, bridges, and cooperative background jobs for egui-workbench."
+2026-11-26T16:03:11.957047Z,egui-workbench-chem2d,1.2.0,0,0,https://github.com/jigonzalez930209/egui-workbench,"A vector 2D chemistry editor for egui-workbench: molecular graph, camera, painter, selection, and undo/redo."
+2026-11-26T16:03:33.166449Z,egui-workbench-mol3d,1.2.0,0,0,https://github.com/jigonzalez930209/egui-workbench,"A 3D molecular and crystal viewport for egui-workbench: arcball camera, scene, picking, and painter renderer."
+2026-11-26T16:06:02.472386Z,rueca-serve,0.2.0-alpha.1,0,0,https://github.com/DevArKaDiA/rueca,"Rueca service mode: the query role (MCP over stateless Streamable HTTP with authentication, visibility, rate limits and health endpoints) and the indexer role (jobs, leases, the reconciler, the updat…"
+2026-11-26T16:07:36.560981Z,speedyspec-wp-theme-json-contracts,0.2.0,0,0,https://github.com/SpeedySpec/speedyspec-platform,"WordPress's theme.json contracts: the typed model, the value objects, the schema tables and the ports."
+2026-11-26T16:09:18.405236Z,rdnext-core,0.4.0,0,0,,"ReportDesigner core: expression language, report schema, feature tiers"
+2026-11-26T16:09:26.652336Z,reportdesigner,0.4.0,0,0,,"ReportDesigner for Rust: Crystal-Reports-class reports (HTML, PDF, Excel, Word) from a JSON report definition and your data"
+2026-11-26T16:09:52.340753Z,cloud_terrastodon_auth_cli,0.38.0,0,0,https://github.com/AAFC-Cloud/Cloud-Terrastodon.git,Account and authentication selection contracts for Cloud Terrastodon commands
+2026-11-26T16:10:57.864155Z,rata,0.1.0,0,0,https://github.com/markuskimius/rata,"Start, stop, and monitor long-running services"
+2026-11-26T16:11:36.954878Z,cloud_terrastodon_azure_devops_cli,0.38.0,0,0,https://github.com/AAFC-Cloud/Cloud-Terrastodon.git,Azure DevOps command-line interface for Cloud Terrastodon
+2026-11-26T16:12:18.622426Z,skyrc-mc5000,0.1.0,0,0,https://github.com/rssdev10/skyrc-mc-rs,"Unofficial client for the SkyRC MC5000 battery charger over Bluetooth LE: protocol frames, a paced session, slot status and charge history"
+2026-11-26T16:14:45.794747Z,dateoxide-core,0.1.0,0,0,https://github.com/Pastalikek65/dateoxide,"High-performance, low-memory multilingual natural-language date parser core in Rust."
+2026-11-26T16:17:35.927567Z,speedyspec-wp-posts-contracts,0.2.0,0,0,https://github.com/SpeedySpec/speedyspec-platform,"WordPress's post contracts: the post entity and its values, post type and status names and values, the errors and the ports."
