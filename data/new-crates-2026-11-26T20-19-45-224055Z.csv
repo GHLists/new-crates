@@ -1,0 +1,25 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-26T19:21:18.563824Z,interlinked-otel,0.0.0,0,0,,Reserved for the Interlinked project (https://interlinked.network). Placeholder with no functionality.
+2026-11-26T19:22:11.938382Z,rs-stylis-derive,0.1.0,0,0,https://github.com/codixor/rs-stylis,Procedural macros for the rs-stylis CSS parser and printer
+2026-11-26T19:22:29.652739Z,rs-stylis,0.1.0,0,0,https://github.com/codixor/rs-stylis,"CSS parser, transformer, and minifier with CSS Modules and browser target support"
+2026-11-26T19:25:15.420498Z,av1oxide-image,0.1.0,0,0,https://github.com/hakantr/av1oxide,"image::ImageDecoder integration crate for av1oxide::avif (100% safe Rust, zero external codec dependencies)"
+2026-11-26T19:27:58.951508Z,isothrum-service,3.0.0,0,0,https://github.com/Isothrum/isothrum,"The Isothrum runner service: one daemon per runner home that queues each run's operations, runs them, and streams their events to its clients over a local socket."
+2026-11-26T19:31:42.890941Z,interlinked-ffi,0.0.0,0,0,,Reserved for the Interlinked project (https://interlinked.network). Placeholder with no functionality.
+2026-11-26T19:33:35.282819Z,tunnelward-risk,0.0.16,0,0,https://github.com/sebastienrousseau/tunnelward,"Tunnelward risk signals: velocity, tool-sequence drift, canary tools and canary records (FR-16)"
+2026-11-26T19:35:07.237173Z,silvermine-quarry,0.1.0,0,0,https://github.com/silvermine/quarry,A serverless hybrid search engine that keeps its index as immutable blocks in object storage
+2026-11-26T19:38:19.127154Z,matenadar-model,0.1.0,0,0,https://github.com/lvnr/matenadar,"Matenadar's document model: pages, flows, styles, components and the operations that change them"
+2026-11-26T19:40:35.653445Z,wellfriend-document-sdk,1.0.0,0,0,https://github.com/cybernew121/wellfriend-sdk,"Official async Rust SDK for the Wellfriend document API: typed document tools, pipelines, streaming uploads and downloads, retries and webhook verification."
+2026-11-26T19:42:08.557566Z,interlinked-shim,0.0.0,0,0,,Reserved for the Interlinked project (https://interlinked.network). Placeholder with no functionality.
+2026-11-26T19:42:16.313335Z,matenadar-typst,0.1.0,0,0,https://github.com/lvnr/matenadar,"Lays a Matenadar document out with Typst: compile, render, locate and check"
+2026-11-26T19:42:32.488802Z,matenadar-epub,0.1.0,0,0,https://github.com/lvnr/matenadar,"EPUB 3 from a Matenadar document: reflowable, or one image per page"
+2026-11-26T19:42:47.277498Z,matenadar,0.1.0,0,0,https://github.com/lvnr/matenadar,"A book and page layout engine for people and agents: document model, Typst layout, EPUB 3 export, and CLI"
+2026-11-26T19:45:15.658492Z,phone_harness_rust,0.1.0,0,0,https://github.com/ZachDreamZ/phone-harness-rust,40-tool Rust MCP server for controlling Android devices over ADB
+2026-11-26T19:50:53.305507Z,marklark,0.0.0,0,0,,"Maintain Markdown documents: humans write intents, agents write hermetic Starlark, marklark runs it deterministically. Name reserved; the first release is in preparation."
+2026-11-26T19:52:34.822977Z,interlinked-test-temp,0.0.0,0,0,,Reserved for the Interlinked project (https://interlinked.network). Placeholder with no functionality.
+2026-11-26T19:55:07.973977Z,usbdac-core,0.1.1,0,0,https://github.com/johnneerdael/android-usbdac,"Direct USB DAC playback for Rust audio applications on Android and Linux, with PCM, DoP, native DSD and bit-perfect reporting."
+2026-11-26T19:58:24.052085Z,lightning-client,1.0.0,0,0,https://github.com/jfrader/lightning-driver,"Shared models, monetary types, configuration and validation for Lightning Driver nodes"
+2026-11-26T20:02:52.5672Z,lightning-driver-api,1.0.0,0,0,https://github.com/jfrader/lightning-driver,"HTTP API with operator authentication, policy enforcement and a durable journal for Lightning and Bitcoin nodes"
+2026-11-26T20:05:14.013164Z,open-pencil-fig,0.1.0,0,0,https://github.com/open-pencil/open-pencil,"Reads Figma .fig files: the archive, an index over its Kiwi records, and pages with their instances expanded."
+2026-11-26T20:05:16.498652Z,open-pencil,0.1.0,0,0,https://github.com/open-pencil/open-pencil,"Rust crates of OpenPencil, an open-source design editor: reading Figma .fig files."
+2026-11-26T20:12:28.736955Z,tummler,0.5.0,0,0,https://github.com/RUdolf1517/tummler,"One CLI that mixes any file into any format — images, video, documents, spreadsheets, archives"
+2026-11-26T20:15:38.489761Z,rembg-rs-bria,0.1.2,0,0,https://github.com/apiplant/rembg-rs,Rust host for Bria RMBG-3.0 background removal

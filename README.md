@@ -8,53 +8,38 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-26 19:21 UTC
+## Latest list — 2026-11-26 20:19 UTC
 
-New crates published between 2026-11-26 18:19 UTC and 2026-11-26 19:21 UTC.
+New crates published between 2026-11-26 19:21 UTC and 2026-11-26 20:19 UTC.
 
-[Full CSV](data/new-crates-2026-11-26T19-21-05-691311Z.csv)
+[Full CSV](data/new-crates-2026-11-26T20-19-45-224055Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-26 18:20:01 | [parallax-gpui-linux](https://crates.io/crates/parallax-gpui-linux) | 0.3.14-parallax.3 | 0 | Parallax's build of GPUI gpui_linux: upstream gpui-pre 0.3.14 (Zed f126950) + P… |
-| 2026-11-26 18:21:05 | [rff-format-heif](https://crates.io/crates/rff-format-heif) | 0.9.2 | 1 | Remade FFmpeg (Rust): HEIF/HEIC still-image decoding (grids, alpha, transforms,… |
-| 2026-11-26 18:23:50 | [ledgeline-shell](https://crates.io/crates/ledgeline-shell) | 0.3.0 | 0 | The desktop and local-server shell shared by Ledgeline's apps: access token and… |
-| 2026-11-26 18:29:59 | [parallax-gpui-macos](https://crates.io/crates/parallax-gpui-macos) | 0.3.14-parallax.3 | 0 | Parallax's build of GPUI gpui_macos: upstream gpui-pre 0.3.14 (Zed f126950) + P… |
-| 2026-11-26 18:30:45 | [pmdshodh](https://crates.io/crates/pmdshodh) | 0.3.4 | 0 | Per-read post-mortem damage (PMD) scoring and filtering of ancient DNA alignmen… |
-| 2026-11-26 18:36:30 | [cherrypi-fetch](https://crates.io/crates/cherrypi-fetch) | 0.1.0 | 0 | Render JavaScript-heavy web pages in Servo and return their visible text, as a… |
-| 2026-11-26 18:39:26 | [il](https://crates.io/crates/il) | 0.0.0 | 0 | Reserved for the Interlinked project (https://interlinked.network). Placeholder… |
-| 2026-11-26 18:39:34 | [interlinked](https://crates.io/crates/interlinked) | 0.0.0 | 0 | Reserved for the Interlinked project (https://interlinked.network). Placeholder… |
-| 2026-11-26 18:39:38 | [interlinked-core](https://crates.io/crates/interlinked-core) | 0.0.0 | 0 | Reserved for the Interlinked project (https://interlinked.network). Placeholder… |
-| 2026-11-26 18:39:40 | [il-relay](https://crates.io/crates/il-relay) | 0.0.0 | 0 | Reserved for the Interlinked project (https://interlinked.network). Placeholder… |
-| 2026-11-26 18:39:43 | [il-mls](https://crates.io/crates/il-mls) | 0.0.0 | 0 | Reserved for the Interlinked project (https://interlinked.network). Placeholder… |
-| 2026-11-26 18:39:57 | [parallax-gpui-ios](https://crates.io/crates/parallax-gpui-ios) | 0.3.14-parallax.3 | 0 | Parallax's build of GPUI gpui_ios: upstream gpui-pre 0.3.14 (Zed f126950) + Par… |
-| 2026-11-26 18:42:37 | [agito-macros](https://crates.io/crates/agito-macros) | 0.1.0 | 0 | Procedural macros for agito: #[agito::test] and #[agito::plugin] |
-| 2026-11-26 18:42:38 | [agito-protocol](https://crates.io/crates/agito-protocol) | 0.1.0 | 0 | Chrome DevTools Protocol types for agito, generated from the protocol definitio… |
-| 2026-11-26 18:42:40 | [agito](https://crates.io/crates/agito) | 0.1.0 | 0 | Extensible browser automation and testing for Rust, driving Chromium over the D… |
-| 2026-11-26 18:43:11 | [pkix-ct-google](https://crates.io/crates/pkix-ct-google) | 0.1.0 | 0 | Google's Certificate Transparency log-list signing key as inert data — no valid… |
-| 2026-11-26 18:43:21 | [pkix-pkilint-bridge](https://crates.io/crates/pkix-pkilint-bridge) | 0.1.0 | 0 | Shared subprocess and output-parsing infrastructure for running pkilint on cert… |
-| 2026-11-26 18:43:22 | [pkix-policy-pkilint](https://crates.io/crates/pkix-policy-pkilint) | 0.1.0 | 0 | Thin Lint adapter exposing pkilint verdicts as pkix-lint Lints (via pkix-pkilin… |
-| 2026-11-26 18:43:38 | [pkix-rustls](https://crates.io/crates/pkix-rustls) | 0.1.0 | 0 | Use PKIX path validation as rustls's certificate verifier, in place of rustls-w… |
-| 2026-11-26 18:45:08 | [channelstack](https://crates.io/crates/channelstack) | 0.0.0-placeholder.0 | 0 | Reserved for the channelstack Rust SDK: test the apps and agents you build for… |
-| 2026-11-26 18:48:52 | [hyperlane-plugin-gateway](https://crates.io/crates/hyperlane-plugin-gateway) | 22.9.0 | 0 | A reverse proxy and API gateway plugin for the Hyperlane framework with load ba… |
-| 2026-11-26 18:48:56 | [hyperlane-plugin-grpc](https://crates.io/crates/hyperlane-plugin-grpc) | 22.9.0 | 0 | A gRPC over HTTP/2 server plugin for the Hyperlane framework with length-prefix… |
-| 2026-11-26 18:49:00 | [hyperlane-plugin-mcp](https://crates.io/crates/hyperlane-plugin-mcp) | 22.9.0 | 0 | A Model Context Protocol (MCP) Streamable HTTP server plugin for the Hyperlane… |
-| 2026-11-26 18:49:02 | [hyperlane-plugin-mq](https://crates.io/crates/hyperlane-plugin-mq) | 22.9.0 | 0 | A message queue plugin for the Hyperlane framework providing a pluggable Messag… |
-| 2026-11-26 18:49:08 | [hyperlane-plugin-rpc](https://crates.io/crates/hyperlane-plugin-rpc) | 22.9.0 | 0 | A JSON-RPC 2.0 server plugin for the Hyperlane framework with async method rout… |
-| 2026-11-26 18:50:00 | [parallax-gpui-platform](https://crates.io/crates/parallax-gpui-platform) | 0.3.14-parallax.3 | 0 | Parallax's build of GPUI gpui_platform: upstream gpui-pre 0.3.14 (Zed f126950)… |
-| 2026-11-26 18:50:06 | [interlinked-rooms](https://crates.io/crates/interlinked-rooms) | 0.0.0 | 0 | Reserved for the Interlinked project (https://interlinked.network). Placeholder… |
-| 2026-11-26 18:54:55 | [cargo-rev-deps](https://crates.io/crates/cargo-rev-deps) | 1.0.0 | 0 | List the workspace crates changed since a git commit/tag, along with every crat… |
-| 2026-11-26 18:55:34 | [castra-i18n](https://crates.io/crates/castra-i18n) | 0.1.0-alpha.3 | 0 | Castra's internationalization: BCP 47 locales, CLDR fallback, Accept-Language n… |
-| 2026-11-26 18:55:38 | [castra-config](https://crates.io/crates/castra-config) | 0.1.0-alpha.3 | 0 | Castra's application configuration: Castra.toml, CASTRA_* environment variables… |
-| 2026-11-26 18:56:29 | [hyperlane-plugin-sse](https://crates.io/crates/hyperlane-plugin-sse) | 22.9.0 | 0 | A Server-Sent Events (SSE) streaming and topic pub/sub plugin for the Hyperlane… |
-| 2026-11-26 18:57:08 | [openap-rs](https://crates.io/crates/openap-rs) | 20261126.0.0 | 0 | Partial Rust port of OpenAP aircraft data readers and deterministic climb gener… |
-| 2026-11-26 19:00:32 | [interlinked-work](https://crates.io/crates/interlinked-work) | 0.0.0 | 0 | Reserved for the Interlinked project (https://interlinked.network). Placeholder… |
-| 2026-11-26 19:01:40 | [sparrowhawk-graph](https://crates.io/crates/sparrowhawk-graph) | 0.1.0 | 0 | Bidirected de Bruijn graph library for the sparrowhawk bacterial genome assembl… |
-| 2026-11-26 19:03:00 | [fastauth-actix](https://crates.io/crates/fastauth-actix) | 0.5.0 | 0 | actix-web integration for fastauth: the auth scope, session extractors and a se… |
-| 2026-11-26 19:10:03 | [unspliced-macros](https://crates.io/crates/unspliced-macros) | 0.1.0 | 0 | The html! and css! syntax of unspliced. Use unspliced, not this crate. |
-| 2026-11-26 19:10:06 | [unspliced](https://crates.io/crates/unspliced) | 0.1.0 | 0 | Typed HTML, SVG and CSS, baked by the compiler. Markup is never spliced from st… |
-| 2026-11-26 19:10:55 | [interlinked-mls](https://crates.io/crates/interlinked-mls) | 0.0.0 | 0 | Reserved for the Interlinked project (https://interlinked.network). Placeholder… |
-| 2026-11-26 19:19:35 | [rs-js](https://crates.io/crates/rs-js) | 0.1.0 | 0 | Pure-Rust JavaScript and TypeScript parser, normalizer, minifier, and CSP analy… |
+| 2026-11-26 19:21:18 | [interlinked-otel](https://crates.io/crates/interlinked-otel) | 0.0.0 | 0 | Reserved for the Interlinked project (https://interlinked.network). Placeholder… |
+| 2026-11-26 19:22:11 | [rs-stylis-derive](https://crates.io/crates/rs-stylis-derive) | 0.1.0 | 0 | Procedural macros for the rs-stylis CSS parser and printer |
+| 2026-11-26 19:22:29 | [rs-stylis](https://crates.io/crates/rs-stylis) | 0.1.0 | 0 | CSS parser, transformer, and minifier with CSS Modules and browser target suppo… |
+| 2026-11-26 19:25:15 | [av1oxide-image](https://crates.io/crates/av1oxide-image) | 0.1.0 | 0 | image::ImageDecoder integration crate for av1oxide::avif (100% safe Rust, zero… |
+| 2026-11-26 19:27:58 | [isothrum-service](https://crates.io/crates/isothrum-service) | 3.0.0 | 0 | The Isothrum runner service: one daemon per runner home that queues each run's… |
+| 2026-11-26 19:31:42 | [interlinked-ffi](https://crates.io/crates/interlinked-ffi) | 0.0.0 | 0 | Reserved for the Interlinked project (https://interlinked.network). Placeholder… |
+| 2026-11-26 19:33:35 | [tunnelward-risk](https://crates.io/crates/tunnelward-risk) | 0.0.16 | 0 | Tunnelward risk signals: velocity, tool-sequence drift, canary tools and canary… |
+| 2026-11-26 19:35:07 | [silvermine-quarry](https://crates.io/crates/silvermine-quarry) | 0.1.0 | 0 | A serverless hybrid search engine that keeps its index as immutable blocks in o… |
+| 2026-11-26 19:38:19 | [matenadar-model](https://crates.io/crates/matenadar-model) | 0.1.0 | 0 | Matenadar's document model: pages, flows, styles, components and the operations… |
+| 2026-11-26 19:40:35 | [wellfriend-document-sdk](https://crates.io/crates/wellfriend-document-sdk) | 1.0.0 | 0 | Official async Rust SDK for the Wellfriend document API: typed document tools,… |
+| 2026-11-26 19:42:08 | [interlinked-shim](https://crates.io/crates/interlinked-shim) | 0.0.0 | 0 | Reserved for the Interlinked project (https://interlinked.network). Placeholder… |
+| 2026-11-26 19:42:16 | [matenadar-typst](https://crates.io/crates/matenadar-typst) | 0.1.0 | 0 | Lays a Matenadar document out with Typst: compile, render, locate and check |
+| 2026-11-26 19:42:32 | [matenadar-epub](https://crates.io/crates/matenadar-epub) | 0.1.0 | 0 | EPUB 3 from a Matenadar document: reflowable, or one image per page |
+| 2026-11-26 19:42:47 | [matenadar](https://crates.io/crates/matenadar) | 0.1.0 | 0 | A book and page layout engine for people and agents: document model, Typst layo… |
+| 2026-11-26 19:45:15 | [phone_harness_rust](https://crates.io/crates/phone_harness_rust) | 0.1.0 | 0 | 40-tool Rust MCP server for controlling Android devices over ADB |
+| 2026-11-26 19:50:53 | [marklark](https://crates.io/crates/marklark) | 0.0.0 | 0 | Maintain Markdown documents: humans write intents, agents write hermetic Starla… |
+| 2026-11-26 19:52:34 | [interlinked-test-temp](https://crates.io/crates/interlinked-test-temp) | 0.0.0 | 0 | Reserved for the Interlinked project (https://interlinked.network). Placeholder… |
+| 2026-11-26 19:55:07 | [usbdac-core](https://crates.io/crates/usbdac-core) | 0.1.1 | 0 | Direct USB DAC playback for Rust audio applications on Android and Linux, with… |
+| 2026-11-26 19:58:24 | [lightning-client](https://crates.io/crates/lightning-client) | 1.0.0 | 0 | Shared models, monetary types, configuration and validation for Lightning Drive… |
+| 2026-11-26 20:02:52 | [lightning-driver-api](https://crates.io/crates/lightning-driver-api) | 1.0.0 | 0 | HTTP API with operator authentication, policy enforcement and a durable journal… |
+| 2026-11-26 20:05:14 | [open-pencil-fig](https://crates.io/crates/open-pencil-fig) | 0.1.0 | 0 | Reads Figma .fig files: the archive, an index over its Kiwi records, and pages… |
+| 2026-11-26 20:05:16 | [open-pencil](https://crates.io/crates/open-pencil) | 0.1.0 | 0 | Rust crates of OpenPencil, an open-source design editor: reading Figma .fig fil… |
+| 2026-11-26 20:12:28 | [tummler](https://crates.io/crates/tummler) | 0.5.0 | 0 | One CLI that mixes any file into any format — images, video, documents, spreads… |
+| 2026-11-26 20:15:38 | [rembg-rs-bria](https://crates.io/crates/rembg-rs-bria) | 0.1.2 | 0 | Rust host for Bria RMBG-3.0 background removal |
 
 ## Data source
 
