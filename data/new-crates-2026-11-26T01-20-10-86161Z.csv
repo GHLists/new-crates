@@ -1,0 +1,30 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-26T00:21:22.707535Z,rs-geoip,0.2.0,0,0,https://github.com/codixor/rs-geoip,Offline IP geolocation with local packed databases
+2026-11-26T00:24:27.407518Z,keinbonus,0.1.0,0,0,https://github.com/zinedinp/keinbonus,"Colour ground truth: CICP (H.273) colour spaces, transfer functions, YCbCr matrices, bit depths, chroma subsampling, pixel layouts and HDR"
+2026-11-26T00:31:26.73735Z,hammock,0.1.0,0,0,https://github.com/sevria/hammock,Express-style REST APIs for Rust
+2026-11-26T00:32:05.342924Z,cw-pyvm,0.3.0,0,0,https://github.com/ComputaCo/computaco-core-public,"A deterministic Python 3 interpreter for simulated computers: bytecode VM, stdlib, CPython-compatible output."
+2026-11-26T00:35:07.206917Z,zgx-arboard,3.6.3,0,0,https://github.com/zeronsh/zgx,"arboard 3.6.1 writing text, HTML, formats of the caller's and a DIB in one change and reading a format's bytes, for zgx (see ZGX_PATCH.md): image and text handling for the OS clipboard"
+2026-11-26T00:39:18.249617Z,cw-sql,0.3.0,0,0,https://github.com/ComputaCo/computaco-core-public,"A pure, deterministic SQLite-compatible SQL engine that reads and writes the SQLite 3 file format"
+2026-11-26T00:46:38.017653Z,cw-computer,0.3.0,0,0,https://github.com/ComputaCo/computaco-core-public,"A simulated computer for ComputerWorld: filesystem, processes, a POSIX and a Windows shell, and its language runtimes"
+2026-11-26T00:47:29.644983Z,tilo-cosmic-text,0.5.0,0,0,https://code.tilo.so/tilo/tilo,cosmic-text 0.19.0 (https://github.com/pop-os/cosmic-text) shaping variable fonts at their width as well as their weight. Tilo's fork; see TILO-PATCH.md.
+2026-11-26T00:47:34.243119Z,tilo-engine-loader,0.5.0,0,0,https://code.tilo.so/tilo/tilo,"Opens a runtime engine library the first time the toolkit uses it, instead of at every app's exec."
+2026-11-26T00:47:38.340747Z,tilo-fs-content,0.5.0,0,0,https://code.tilo.so/tilo/tilo,"The storage daemon's content format: size-tiered FastCDC chunking, BLAKE3 chunk hashes and self-describing HashSeq manifests, with the legacy format still readable."
+2026-11-26T00:47:43.001432Z,tilo-fs-protocol,0.5.0,0,0,https://code.tilo.so/tilo/tilo,"The collaborative filesystem's wire records and local control protocols: file records, versions, mutation transactions, file invites and the share/recipient control sockets."
+2026-11-26T00:48:54.499238Z,tilo-headless-schema,0.5.0,0,0,https://code.tilo.so/tilo/tilo,Shared wire schema for Tilo headless app scenarios
+2026-11-26T00:53:45.830049Z,cw-network,0.3.0,0,0,https://github.com/ComputaCo/computaco-core-public,"ComputerWorld's simulated network: nodes, links, addresses and DNS"
+2026-11-26T00:58:57.640087Z,tilo-highlight,0.5.0,0,0,https://code.tilo.so/tilo/tilo,"The vocabulary of syntax highlighting: token kinds, spans, and the grammar set the toolkit highlights code with."
+2026-11-26T01:05:33.224873Z,vers3,0.2.0,0,0,https://github.com/melver/vers3,Explicit-state model checking library
+2026-11-26T01:08:54.899268Z,tilo-highlight-grammars,0.5.0,0,0,https://code.tilo.so/tilo/tilo,Tilo's grammar set for syntax highlighting: syntect as a tokenizer over two-face's extended syntax set.
+2026-11-26T01:10:52.312216Z,cw-trajectory,0.3.0,0,0,https://github.com/ComputaCo/computaco-core-public,"ComputerWorld's trajectories: recorded steps, observations and their hashes"
+2026-11-26T01:12:15.529334Z,opendeskphone-svg,3.1.0,0,0,https://github.com/jackrosenthal/opendeskphone,"Open Desk Phone: the rasterizer of SVG artwork, shared by the firmware's build and the glyph! macro of opendeskphone-app-sdk"
+2026-11-26T01:12:29.1038Z,opendeskphone-app-sdk-macros,3.1.0,0,0,https://github.com/jackrosenthal/opendeskphone,"The procedural macros of opendeskphone-app-sdk, which re-exports them"
+2026-11-26T01:13:19.669578Z,zgx-audio,0.2.0,0,0,https://github.com/zeronsh/zgx,"Sound for zgx apps: a sample-accurate mixer with buses, fades and a limiter, WAV files, and an offline renderer. Optional: an app that doesn't depend on it pays nothing."
+2026-11-26T01:13:47.625498Z,pgmem-exec,0.1.0,0,0,https://github.com/kaeawc/pgmem,"pgmem's binder (names, types, operator resolution) and executor (relational operators, DML, DDL, builtins)."
+2026-11-26T01:13:53.986718Z,blastr-mcp,0.3.0,0,0,https://github.com/zix3r/blastr,Internal crate of Blastr (the MCP server for AI agents); not a stable API
+2026-11-26T01:14:01.540366Z,pgmem-wire,0.1.0,0,0,https://github.com/kaeawc/pgmem,Postgres frontend/backend protocol (v3) server for pgmem.
+2026-11-26T01:14:06.405672Z,pgmem,0.1.0,0,0,https://github.com/kaeawc/pgmem,"An in-memory, Postgres-wire-compatible database for tests. Fidelity over performance."
+2026-11-26T01:14:28.169079Z,zgx-module-macros,0.2.0,0,0,https://github.com/zeronsh/zgx,"The macros of zgx-module: a native module's functions as plain Rust functions, and its manifest."
+2026-11-26T01:14:57.773367Z,zgx-module,0.2.0,0,0,https://github.com/zeronsh/zgx,"Native modules for zgx apps: an app's own Rust, built apart from zgx as a library the runtime loads, and called from Luau."
+2026-11-26T01:16:02.187477Z,zgx-text,0.2.0,0,0,https://github.com/zeronsh/zgx,"zgx's text shaping and measuring with no renderer: the fonts, shaped text and prepared lines zgx-gpu draws from."
+2026-11-26T01:18:02.771352Z,cw-kernel,0.3.0,0,0,https://github.com/ComputaCo/computaco-core-public,"ComputerWorld's runtime kernel: machines, the network, services, the logical clock and the action journal"
+2026-11-26T01:18:55.0705Z,tilo-history,0.5.0,0,0,https://code.tilo.so/tilo/tilo,Renders Tilo history entries as sentences in the reader's language.
