@@ -8,43 +8,58 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-26 21:19 UTC
+## Latest list — 2026-11-26 22:19 UTC
 
-New crates published between 2026-11-26 20:19 UTC and 2026-11-26 21:19 UTC.
+New crates published between 2026-11-26 21:19 UTC and 2026-11-26 22:19 UTC.
 
-[Full CSV](data/new-crates-2026-11-26T21-19-12-069211Z.csv)
+[Full CSV](data/new-crates-2026-11-26T22-19-45-671559Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-26 20:20:22 | [pkbyte](https://crates.io/crates/pkbyte) | 0.1.1 | 0 | Rust library and CLI for compact immutable UTF-8 string tables with uniform sam… |
-| 2026-11-26 20:23:31 | [realtime-character-animation-model](https://crates.io/crates/realtime-character-animation-model) | 0.1.2 | 0 | Generates new full-body character motion from commands (run, sit, grab) with a… |
-| 2026-11-26 20:24:08 | [realtime-character-animation](https://crates.io/crates/realtime-character-animation) | 0.1.2 | 0 | Generates new full-body character motion from commands (run, sit, grab) with a… |
-| 2026-11-26 20:33:55 | [solana-thin](https://crates.io/crates/solana-thin) | 0.1.0 | 0 | A thin client for Solana after Alpenglow: verify that a block is final and that… |
-| 2026-11-26 20:34:11 | [solana-thin-setlog](https://crates.io/crates/solana-thin-setlog) | 0.1.0 | 0 | A signed, hash-chained log of Solana validator-set hashes, one record per epoch… |
-| 2026-11-26 20:34:17 | [solana-thin-prover](https://crates.io/crates/solana-thin-prover) | 0.1.0 | 0 | A small node that fetches finalized Solana blocks from validators over the repa… |
-| 2026-11-26 20:43:00 | [flm](https://crates.io/crates/flm) | 0.0.1 | 0 | Placeholder version of flm, the command-line program of FLM (Flexible Latex-lik… |
-| 2026-11-26 20:44:09 | [l-viz-glsl-frontend](https://crates.io/crates/l-viz-glsl-frontend) | 0.1.0 | 0 | GLSL lexer/parser/AST for fragment shaders targeting WGSL transpilation. |
-| 2026-11-26 20:44:10 | [l-viz-hlsl-frontend](https://crates.io/crates/l-viz-hlsl-frontend) | 0.1.0 | 0 | Lexer/parser/AST for the MilkDrop subset of HLSL shader bodies. |
-| 2026-11-26 20:44:10 | [l-viz-milk-parser](https://crates.io/crates/l-viz-milk-parser) | 0.1.0 | 0 | Parses the MilkDrop .milk preset text format into a structured preset IR. |
-| 2026-11-26 20:44:12 | [l-viz-glsl-to-wgsl](https://crates.io/crates/l-viz-glsl-to-wgsl) | 0.1.0 | 0 | GLSL AST to naga-valid WGSL lowerer targeting the frozen render contract. |
-| 2026-11-26 20:44:13 | [l-viz-isf-frontend](https://crates.io/crates/l-viz-isf-frontend) | 0.1.0 | 0 | AST, metadata parser, and GLSL frontend integration for ISF (Interactive Shader… |
-| 2026-11-26 20:49:36 | [canbus-core](https://crates.io/crates/canbus-core) | 0.1.0 | 0 | Vendor-neutral CAN bus types and traits shared by the canbus backends |
-| 2026-11-26 20:49:38 | [canbus-kvaser](https://crates.io/crates/canbus-kvaser) | 0.1.0 | 0 | Kvaser CANlib backend for the canbus crate family |
-| 2026-11-26 20:49:38 | [canbus-pcan](https://crates.io/crates/canbus-pcan) | 0.1.0 | 0 | PEAK PCAN-Basic backend for the canbus crate family |
-| 2026-11-26 20:49:38 | [canbus-virtual](https://crates.io/crates/canbus-virtual) | 0.1.0 | 0 | In-process virtual CAN bus for the canbus crate family |
-| 2026-11-26 20:49:40 | [canbus](https://crates.io/crates/canbus) | 0.1.0 | 0 | Cross-platform CAN bus library with runtime-selectable backends (Kvaser, PEAK P… |
-| 2026-11-26 20:49:52 | [tree-sitter-vbnet](https://crates.io/crates/tree-sitter-vbnet) | 0.2.0 | 0 | Tree-sitter grammar for Visual Basic .NET |
-| 2026-11-26 20:53:20 | [redis-rover](https://crates.io/crates/redis-rover) | 0.1.0 | 0 | A keyboard-driven Redis client for the terminal: browse millions of keys, and s… |
-| 2026-11-26 20:56:30 | [majestix-vk](https://crates.io/crates/majestix-vk) | 0.1.0 | 0 | A safe Vulkan call layer over ash: handles that cannot outlive the GPU's use of… |
-| 2026-11-26 20:58:00 | [codeweight](https://crates.io/crates/codeweight) | 0.1.0 | 0 | Weighs code: every element by its weight, heavier when nested, for files, folde… |
-| 2026-11-26 21:00:33 | [l-viz-isf-to-wgsl](https://crates.io/crates/l-viz-isf-to-wgsl) | 0.1.0 | 0 | ISF metadata mapping and WGSL code generation adapter targeting the frozen rend… |
-| 2026-11-26 21:11:09 | [rig-otel](https://crates.io/crates/rig-otel) | 0.47.0 | 0 | OpenTelemetry for Rig agents in one call: traces, GenAI metrics, sessions and t… |
-| 2026-11-26 21:11:16 | [rig-a2a](https://crates.io/crates/rig-a2a) | 0.47.0 | 0 | Serve Rig agents over the Agent2Agent (A2A) protocol and call remote A2A agents… |
-| 2026-11-26 21:11:17 | [rig-agentcore](https://crates.io/crates/rig-agentcore) | 0.47.0 | 0 | Run a Rig agent on AWS Bedrock AgentCore Runtime: the HTTP protocol contract (/… |
-| 2026-11-26 21:12:27 | [syaml](https://crates.io/crates/syaml) | 0.1.0 | 0 | Safe YAML for Rust |
-| 2026-11-26 21:13:58 | [azure-cost-top](https://crates.io/crates/azure-cost-top) | 0.1.0 | 0 | Offline CLI: top costs per meter, resource group and tag from an Azure Cost Man… |
-| 2026-11-26 21:15:03 | [kio-macros](https://crates.io/crates/kio-macros) | 0.0.0 | 0 | Placeholder reserving the name for kio's procedural macros; real releases publi… |
-| 2026-11-26 21:16:13 | [lorefile](https://crates.io/crates/lorefile) | 0.1.0 | 0 | Lorefile: a file-based, AI-agent-first business ontology. YAML in; MCP, CLI and… |
+| 2026-11-26 21:25:00 | [l-viz-nseel2](https://crates.io/crates/l-viz-nseel2) | 0.1.0 | 0 | NS-EEL2 lexer/parser/AST and reference interpreter for MilkDrop equations. |
+| 2026-11-26 21:25:01 | [l-viz-shadertoy-frontend](https://crates.io/crates/l-viz-shadertoy-frontend) | 0.1.0 | 0 | Lexer, parser, AST and JSON metadata for Shadertoy GLSL shaders (Image/Buffer/C… |
+| 2026-11-26 21:25:02 | [l-viz-milkdrop-engine](https://crates.io/crates/l-viz-milkdrop-engine) | 0.1.0 | 0 | MilkDrop per-frame/per-vertex equation evaluation engine. |
+| 2026-11-26 21:30:21 | [llm-bill](https://crates.io/crates/llm-bill) | 0.1.0 | 0 | Summarise LLM token usage and cost per provider, model and day from saved OpenA… |
+| 2026-11-26 21:31:26 | [rig-mcp-server](https://crates.io/crates/rig-mcp-server) | 0.47.0 | 0 | Serve Rig agents and tools over the Model Context Protocol (MCP): agents as too… |
+| 2026-11-26 21:34:18 | [ebs-orphan-bill](https://crates.io/crates/ebs-orphan-bill) | 1.0.0 | 0 | Offline EBS orphan cost from describe-volumes and describe-snapshots JSON |
+| 2026-11-26 21:37:35 | [cwlogs-retention](https://crates.io/crates/cwlogs-retention) | 1.0.0 | 0 | Offline CloudWatch Logs storage cost from describe-log-groups JSON |
+| 2026-11-26 21:39:05 | [yggdrasil-3d-spatial-index](https://crates.io/crates/yggdrasil-3d-spatial-index) | 0.1.1 | 0 | Vendored fork of kiddo: a k-d tree with an adaptive split-dimension policy |
+| 2026-11-26 21:40:50 | [cdn-egress-bill](https://crates.io/crates/cdn-egress-bill) | 1.0.0 | 0 | Estimate CloudFront egress cost per path and edge region from standard logs |
+| 2026-11-26 21:41:23 | [rig-multiagent](https://crates.io/crates/rig-multiagent) | 0.47.0 | 0 | Multi-agent patterns for Rig: a Swarm of agents that hand work to each other, a… |
+| 2026-11-26 21:42:26 | [tnet](https://crates.io/crates/tnet) | 0.1.0 | 0 | Library for working with Tailscale tailnets through the Tailscale API |
+| 2026-11-26 21:42:27 | [tnet-cli](https://crates.io/crates/tnet-cli) | 0.1.0 | 0 | Command line tool for Tailscale tailnets that are managed through the API |
+| 2026-11-26 21:43:07 | [mln-rs-engine](https://crates.io/crates/mln-rs-engine) | 0.0.18 | 0 | Part of mln-rs, a Rust port of the MapLibre Native map rendering core. Depend o… |
+| 2026-11-26 21:43:41 | [zeropass](https://crates.io/crates/zeropass) | 0.1.1 | 0 | A work in progress URL router |
+| 2026-11-26 21:46:10 | [cordex-macros](https://crates.io/crates/cordex-macros) | 0.2.1 | 0 | Optional derive macros (#[derive(CommandArgs)], #[derive(CommandChoice)]) for c… |
+| 2026-11-26 21:46:31 | [cordex-axum](https://crates.io/crates/cordex-axum) | 0.2.1 | 0 | Axum integration for cordex: Ed25519 VerifiedInteraction extractor, interaction… |
+| 2026-11-26 21:47:59 | [conundrum_macro_traits](https://crates.io/crates/conundrum_macro_traits) | 0.1.1 | 0 | Be less dum. |
+| 2026-11-26 21:51:27 | [rig-evals](https://crates.io/crates/rig-evals) | 0.47.0 | 0 | Evaluations for Rig agents: datasets of cases, built-in and LLM-judge evaluator… |
+| 2026-11-26 21:52:11 | [ecr-bill](https://crates.io/crates/ecr-bill) | 1.0.0 | 0 | Offline ECR storage cost from describe-images JSON |
+| 2026-11-26 21:52:38 | [helvstack](https://crates.io/crates/helvstack) | 0.3.0 | 0 | Official installer for the Helvstack deployment CLI |
+| 2026-11-26 21:53:18 | [sparrowhawk-asm](https://crates.io/crates/sparrowhawk-asm) | 0.2.0 | 0 | Short-read de Bruijn graph assembler for bacterial genomes, native and WebAssem… |
+| 2026-11-26 21:54:46 | [l-viz-nseel2-to-wgsl](https://crates.io/crates/l-viz-nseel2-to-wgsl) | 0.1.0 | 0 | Code generation from NS-EEL2 AST to WGSL expressions and statements. |
+| 2026-11-26 21:54:47 | [l-viz-shadertoy-to-wgsl](https://crates.io/crates/l-viz-shadertoy-to-wgsl) | 0.1.0 | 0 | Code generation from Shadertoy GLSL AST to naga-valid WGSL targeting the frozen… |
+| 2026-11-26 21:54:48 | [l-viz-milk-ir](https://crates.io/crates/l-viz-milk-ir) | 0.1.0 | 0 | Unified preset IR plus the serializable render contract for host renderers. |
+| 2026-11-26 21:56:54 | [gcp-billing-top](https://crates.io/crates/gcp-billing-top) | 0.1.0 | 0 | Offline CLI that shows the top costs per SKU, project and label from a GCP bill… |
+| 2026-11-26 21:57:43 | [conundrum_macros](https://crates.io/crates/conundrum_macros) | 0.1.1 | 0 | Be less dum. |
+| 2026-11-26 22:00:07 | [mpi-native-sys](https://crates.io/crates/mpi-native-sys) | 0.1.0 | 0 | Low-level Rust bindings to MPI through the host's native handles, resolved at r… |
+| 2026-11-26 22:01:51 | [justpkg-common](https://crates.io/crates/justpkg-common) | 0.0.0-alpha.0 | 0 | Common helper functionality between justpkg crates |
+| 2026-11-26 22:02:10 | [justpkg-executor-config](https://crates.io/crates/justpkg-executor-config) | 0.0.0-alpha.0 | 0 | Configuration file handling for justpkg-executor |
+| 2026-11-26 22:02:46 | [many_attrs](https://crates.io/crates/many_attrs) | 0.1.0 | 0 | Declare several structs, enums or functions sharing one set of outer attributes. |
+| 2026-11-26 22:03:04 | [justpkg-env-handler](https://crates.io/crates/justpkg-env-handler) | 0.0.0-alpha.0 | 0 | Build environment handling for justpkg |
+| 2026-11-26 22:03:45 | [justpkg-executor](https://crates.io/crates/justpkg-executor) | 0.0.0-alpha.0 | 0 | The justpkg build environment orchestrator and executor |
+| 2026-11-26 22:03:47 | [quick-directory](https://crates.io/crates/quick-directory) | 0.1.1 | 0 | Easily jump to pre-defined directories. |
+| 2026-11-26 22:04:51 | [justpkg](https://crates.io/crates/justpkg) | 0.0.0-alpha.0 | 0 | An experimental package build tool for Arch Linux |
+| 2026-11-26 22:05:23 | [yggdrasil-3d-viz](https://crates.io/crates/yggdrasil-3d-viz) | 0.1.1 | 0 | Interactive 3D visualizer for Yggdrasil scene graphs |
+| 2026-11-26 22:06:08 | [yamusiq](https://crates.io/crates/yamusiq) | 1.2.0 | 0 | Keyboard-first Yandex Music client for the terminal: TUI player, lossless strea… |
+| 2026-11-26 22:06:11 | [lambda-bill](https://crates.io/crates/lambda-bill) | 1.0.0 | 0 | Offline cost of AWS Lambda on-demand usage from CloudWatch REPORT lines |
+| 2026-11-26 22:06:54 | [rusty_exr](https://crates.io/crates/rusty_exr) | 0.1.0 | 0 | Pure-Rust OpenEXR decoder and encoder: scanline, tiled (all levels) and multi-p… |
+| 2026-11-26 22:08:25 | [otel-span-bill](https://crates.io/crates/otel-span-bill) | 0.1.0 | 0 | Show OpenTelemetry span volume per service from OTLP-JSON files, with estimated… |
+| 2026-11-26 22:16:35 | [s3-inventory-bill](https://crates.io/crates/s3-inventory-bill) | 1.0.0 | 0 | Offline S3 storage cost from inventory CSV |
+| 2026-11-26 22:16:56 | [batchplan-miru](https://crates.io/crates/batchplan-miru) | 0.12.0-beta.2 | 0 | Perception for batchplan: what depth cameras show, as objects. Which pixels are… |
+| 2026-11-26 22:18:19 | [l-viz-hlsl-to-wgsl](https://crates.io/crates/l-viz-hlsl-to-wgsl) | 0.1.0 | 0 | Code generation from MilkDrop-HLSL AST to naga-valid WGSL. |
+| 2026-11-26 22:18:21 | [l-viz](https://crates.io/crates/l-viz) | 0.1.0 | 0 | Core shader transpilation (MilkDrop, ISF, Shadertoy) and audio visualization pr… |
+| 2026-11-26 22:19:22 | [dynamodb-bill](https://crates.io/crates/dynamodb-bill) | 0.1.0 | 0 | Offline estimate of AWS DynamoDB storage and capacity cost from local JSON expo… |
 
 ## Data source
 

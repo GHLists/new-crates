@@ -1,0 +1,45 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-26T21:25:00.435348Z,l-viz-nseel2,0.1.0,0,0,https://github.com/p-viz/l-viz,NS-EEL2 lexer/parser/AST and reference interpreter for MilkDrop equations.
+2026-11-26T21:25:01.025251Z,l-viz-shadertoy-frontend,0.1.0,0,0,https://github.com/p-viz/l-viz,"Lexer, parser, AST and JSON metadata for Shadertoy GLSL shaders (Image/Buffer/Common passes)."
+2026-11-26T21:25:02.959253Z,l-viz-milkdrop-engine,0.1.0,0,0,https://github.com/p-viz/l-viz,MilkDrop per-frame/per-vertex equation evaluation engine.
+2026-11-26T21:30:21.127975Z,llm-bill,0.1.0,0,0,https://github.com/qwpp7g79y4-maker/llm-bill,"Summarise LLM token usage and cost per provider, model and day from saved OpenAI and Anthropic usage/cost API responses"
+2026-11-26T21:31:26.747793Z,rig-mcp-server,0.47.0,0,0,https://github.com/pingedbrain/rig-contrib,"Serve Rig agents and tools over the Model Context Protocol (MCP): agents as tools with sessions, streamed progress and cancellation; typed agents with structured output; stdio and Streamable HTTP."
+2026-11-26T21:34:18.286499Z,ebs-orphan-bill,1.0.0,0,0,https://github.com/qwpp7g79y4-maker/ebs-orphan-bill,Offline EBS orphan cost from describe-volumes and describe-snapshots JSON
+2026-11-26T21:37:35.194719Z,cwlogs-retention,1.0.0,0,0,https://github.com/qwpp7g79y4-maker/cwlogs-retention,Offline CloudWatch Logs storage cost from describe-log-groups JSON
+2026-11-26T21:39:05.338796Z,yggdrasil-3d-spatial-index,0.1.1,0,0,https://github.com/brdsdsu/Yggdrasil,Vendored fork of kiddo: a k-d tree with an adaptive split-dimension policy
+2026-11-26T21:40:50.946477Z,cdn-egress-bill,1.0.0,0,0,https://github.com/qwpp7g79y4-maker/cdn-egress-bill,Estimate CloudFront egress cost per path and edge region from standard logs
+2026-11-26T21:41:23.818468Z,rig-multiagent,0.47.0,0,0,https://github.com/pingedbrain/rig-contrib,"Multi-agent patterns for Rig: a Swarm of agents that hand work to each other, and a Graph of agents and functions with conditional edges and parallel branches."
+2026-11-26T21:42:26.182977Z,tnet,0.1.0,0,0,https://github.com/davefinster/tnet,Library for working with Tailscale tailnets through the Tailscale API
+2026-11-26T21:42:27.851566Z,tnet-cli,0.1.0,0,0,https://github.com/davefinster/tnet,Command line tool for Tailscale tailnets that are managed through the API
+2026-11-26T21:43:07.272864Z,mln-rs-engine,0.0.18,0,0,https://github.com/maplibre/mln-rs,"Part of mln-rs, a Rust port of the MapLibre Native map rendering core. Depend on mln-rs instead."
+2026-11-26T21:43:41.502039Z,zeropass,0.1.1,0,0,https://github.com/Allvvar/zeropass,A work in progress URL router
+2026-11-26T21:46:10.075244Z,cordex-macros,0.2.1,0,0,https://github.com/lejylabs/cordex,"Optional derive macros (#[derive(CommandArgs)], #[derive(CommandChoice)]) for cordex."
+2026-11-26T21:46:31.257652Z,cordex-axum,0.2.1,0,0,https://github.com/lejylabs/cordex,"Axum integration for cordex: Ed25519 VerifiedInteraction extractor, interactions router, and /healthz /readyz routes."
+2026-11-26T21:47:59.665957Z,conundrum_macro_traits,0.1.1,0,0,https://github.com/flusterIO/fluster-ipad,Be less dum.
+2026-11-26T21:51:27.683059Z,rig-evals,0.47.0,0,0,https://github.com/pingedbrain/rig-contrib,"Evaluations for Rig agents: datasets of cases, built-in and LLM-judge evaluators, repetitions and pass-rate thresholds, JSON, JUnit and Markdown reports, OpenTelemetry GenAI evaluation events."
+2026-11-26T21:52:11.360479Z,ecr-bill,1.0.0,0,0,https://github.com/qwpp7g79y4-maker/ecr-bill,Offline ECR storage cost from describe-images JSON
+2026-11-26T21:52:38.47871Z,helvstack,0.3.0,0,0,https://github.com/ElyzeSolutions/helvstack-cli,Official installer for the Helvstack deployment CLI
+2026-11-26T21:53:18.255715Z,sparrowhawk-asm,0.2.0,0,0,https://github.com/bacpop/sparrowhawk-asm,"Short-read de Bruijn graph assembler for bacterial genomes, native and WebAssembly"
+2026-11-26T21:54:46.652943Z,l-viz-nseel2-to-wgsl,0.1.0,0,0,https://github.com/p-viz/l-viz,Code generation from NS-EEL2 AST to WGSL expressions and statements.
+2026-11-26T21:54:47.26736Z,l-viz-shadertoy-to-wgsl,0.1.0,0,0,https://github.com/p-viz/l-viz,Code generation from Shadertoy GLSL AST to naga-valid WGSL targeting the frozen render contract.
+2026-11-26T21:54:48.973252Z,l-viz-milk-ir,0.1.0,0,0,https://github.com/p-viz/l-viz,Unified preset IR plus the serializable render contract for host renderers.
+2026-11-26T21:56:54.455504Z,gcp-billing-top,0.1.0,0,0,https://github.com/qwpp7g79y4-maker/gcp-billing-top,"Offline CLI that shows the top costs per SKU, project and label from a GCP billing-export CSV, with a month-over-month delta"
+2026-11-26T21:57:43.907502Z,conundrum_macros,0.1.1,0,0,,Be less dum.
+2026-11-26T22:00:07.722474Z,mpi-native-sys,0.1.0,0,0,https://github.com/tensor4all/rsmpi-rt,"Low-level Rust bindings to MPI through the host's native handles, resolved at run time"
+2026-11-26T22:01:51.46267Z,justpkg-common,0.0.0-alpha.0,0,0,https://gitlab.archlinux.org/dvzrv/justpkg,Common helper functionality between justpkg crates
+2026-11-26T22:02:10.561491Z,justpkg-executor-config,0.0.0-alpha.0,0,0,https://gitlab.archlinux.org/dvzrv/justpkg,Configuration file handling for justpkg-executor
+2026-11-26T22:02:46.612226Z,many_attrs,0.1.0,0,0,https://github.com/Rifine/many_attrs,"Declare several structs, enums or functions sharing one set of outer attributes."
+2026-11-26T22:03:04.07024Z,justpkg-env-handler,0.0.0-alpha.0,0,0,https://gitlab.archlinux.org/dvzrv/justpkg,Build environment handling for justpkg
+2026-11-26T22:03:45.029224Z,justpkg-executor,0.0.0-alpha.0,0,0,https://gitlab.archlinux.org/dvzrv/justpkg,The justpkg build environment orchestrator and executor
+2026-11-26T22:03:47.889583Z,quick-directory,0.1.1,0,0,https://codeberg.org/tobilinz/quick-directory,Easily jump to pre-defined directories.
+2026-11-26T22:04:51.709831Z,justpkg,0.0.0-alpha.0,0,0,https://gitlab.archlinux.org/dvzrv/justpkg,An experimental package build tool for Arch Linux
+2026-11-26T22:05:23.002258Z,yggdrasil-3d-viz,0.1.1,0,0,https://github.com/brdsdsu/Yggdrasil,Interactive 3D visualizer for Yggdrasil scene graphs
+2026-11-26T22:06:08.236401Z,yamusiq,1.2.0,0,0,https://github.com/razil3/yamusiq,"Keyboard-first Yandex Music client for the terminal: TUI player, lossless streaming, local library"
+2026-11-26T22:06:11.276286Z,lambda-bill,1.0.0,0,0,https://github.com/qwpp7g79y4-maker/lambda-bill,Offline cost of AWS Lambda on-demand usage from CloudWatch REPORT lines
+2026-11-26T22:06:54.163867Z,rusty_exr,0.1.0,0,0,https://github.com/Remade-With-Rust/remade_ffmpeg_rs,"Pure-Rust OpenEXR decoder and encoder: scanline, tiled (all levels) and multi-part files, half/float/uint channels, every compression (None, RLE, ZIPS, ZIP, PIZ, PXR24, B44, B44A, DWAA, DWAB). Decode…"
+2026-11-26T22:08:25.520091Z,otel-span-bill,0.1.0,0,0,https://github.com/qwpp7g79y4-maker/otel-span-bill,"Show OpenTelemetry span volume per service from OTLP-JSON files, with estimated Datadog APM and Grafana Cloud Traces cost."
+2026-11-26T22:16:35.012293Z,s3-inventory-bill,1.0.0,0,0,https://github.com/qwpp7g79y4-maker/s3-inventory-bill,Offline S3 storage cost from inventory CSV
+2026-11-26T22:16:56.832269Z,batchplan-miru,0.12.0-beta.2,0,0,https://github.com/natsuku-lab/batchplan,"Perception for batchplan: what depth cameras show, as objects. Which pixels are one thing, which object is which from look to look, its shape and what it rests on"
+2026-11-26T22:18:19.147654Z,l-viz-hlsl-to-wgsl,0.1.0,0,0,https://github.com/p-viz/l-viz,Code generation from MilkDrop-HLSL AST to naga-valid WGSL.
+2026-11-26T22:18:21.411609Z,l-viz,0.1.0,0,0,https://github.com/p-viz/l-viz,"Core shader transpilation (MilkDrop, ISF, Shadertoy) and audio visualization processing library."
+2026-11-26T22:19:22.126078Z,dynamodb-bill,0.1.0,0,0,https://github.com/qwpp7g79y4-maker/dynamodb-bill,Offline estimate of AWS DynamoDB storage and capacity cost from local JSON exports
