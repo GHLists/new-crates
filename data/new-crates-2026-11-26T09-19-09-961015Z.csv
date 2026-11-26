@@ -1,0 +1,42 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-26T08:20:21.114647Z,vt-canvas,0.1.0,0,0,https://github.com/vmeyet/vt-canvas,"A terminal cell grid: text, lines and boxes with junction merging, drawings finer than a cell, glyph sets; returns styled cells, never ANSI."
+2026-11-26T08:24:21.998383Z,nana-ui-view-codegen,0.1.0-alpha.1,0,0,https://github.com/sena-nana/NanaUI,"Template element tree to nana-ui-runtime view calls, shared by view! and the .vue dialect compiler"
+2026-11-26T08:25:42.93892Z,chrony-cmdmon,0.1.1,0,0,https://github.com/sntns/chrony-cmdmon,"Async client for chronyd's command and monitoring protocol (tracking, sources, burst, reload sources, ...) over its Unix socket"
+2026-11-26T08:27:12.442883Z,copper-pcb,0.3.0,0,0,https://github.com/andenore/CopperScript,"Physical board IR, physicalization, hard macros and the KiCad PCB backend"
+2026-11-26T08:28:54.526235Z,tilo-test-env,0.5.0,0,0,https://code.tilo.so/tilo/tilo,"Serialised, self-restoring process environment, XDG fixtures, scenarios and hang-bounded waits for tests"
+2026-11-26T08:34:23.695964Z,nana-app-icon,0.1.0-alpha.1,0,0,https://github.com/sena-nana/NanaUI,"Default application mark, PNG/ICO/ICNS encoding, and Windows PE icon embed"
+2026-11-26T08:35:20.174824Z,same-same,0.1.0,0,0,https://github.com/six5536/same-same,"Compares two texts by their meaning, not their layout, so that a formatter's change of layout doesn't read as an edit. Unstable: not for general use yet."
+2026-11-26T08:37:17.119743Z,copper-drc,0.3.0,0,0,https://github.com/andenore/CopperScript,"Physical design-rule checking, copper connectivity, placement legality and hard-macro acceptance"
+2026-11-26T08:38:54.69088Z,tilo-dialogs,0.5.0,0,0,https://code.tilo.so/tilo/tilo,"File choosers, opening files with their app, and opening URIs on Linux, macOS and the web."
+2026-11-26T08:43:55.406402Z,examen-civique-france,1.0.0,0,0,https://github.com/nesravomigarbi/examen-civique-france-2026,Official French civic exam (examen civique) 2026 question lists and nationality acquisition statistics 2008–2025.
+2026-11-26T08:44:22.751178Z,nana-ui-sfc,0.1.0-alpha.1,0,0,https://github.com/sena-nana/NanaUI,"Compiles .vue view files with Rust scripts into nana-ui-runtime declarative views, from a build script"
+2026-11-26T08:47:22.04608Z,copper-fullwave,0.3.0,0,0,https://github.com/andenore/CopperScript,"Region-of-interest full-wave (FDTD) model of a placed or routed board: translator, multi-port solver driver, Z/S extraction and hot-loop inductance"
+2026-11-26T08:48:55.624654Z,tilo-media,0.5.0,0,0,https://code.tilo.so/tilo/tilo,"Playback, decode, encode and the audio graph: GStreamer and PipeWire on Linux and macOS, the page's media elements and WebCodecs on the web."
+2026-11-26T08:54:22.327884Z,nana-ui-view-macros,0.1.0-alpha.1,0,0,https://github.com/sena-nana/NanaUI,The view! template macro and #[derive(Store)] for nana-ui-runtime's declarative views
+2026-11-26T08:57:26.582443Z,copper-antenna,0.3.0,0,0,https://github.com/andenore/CopperScript,"Full-wave trace-antenna synthesis: the solver boundary, board EM models, matching and optimizers"
+2026-11-26T08:58:53.980572Z,tilo-theme-sdk,0.5.0,0,0,https://code.tilo.so/tilo/tilo,"The theme SDK: the part painter interface every theme draws through, built in or loaded from wasm."
+2026-11-26T08:59:05.439821Z,seikika-authz,0.2.0,0,0,https://github.com/seikika/seikika,"Seikika: authentication, the Authorizer contract, the OpenFGA co-process and .fga.yaml tests (docs/v1-spec.md §9, D38)."
+2026-11-26T08:59:06.419865Z,seikika-expr,0.2.0,0,0,https://github.com/seikika/seikika,"Seikika: CEL compilation and checks (docs/v1-spec.md §4, §6.2)."
+2026-11-26T08:59:07.602493Z,seikika-secrets,0.2.0,0,0,https://github.com/seikika/seikika,"Seikika: pluggable secret backends for connector ${secret:…} resolution (D55, docs/design/secret-vault.md)."
+2026-11-26T08:59:08.1087Z,seikika-store,0.2.0,0,0,https://github.com/seikika/seikika,"Seikika: inputs (records, native values), the Store contract, MemStore and fixture loading (docs/v1-spec.md §4, §8)."
+2026-11-26T08:59:09.336118Z,seikika-telemetry,0.2.0,0,0,https://github.com/seikika/seikika,"Seikika: OpenTelemetry/Prometheus bootstrap, metric catalog and log bridge (docs/v1-spec.md §10.5, plan §6.3)."
+2026-11-26T09:01:56.539064Z,vnce-core,0.1.0,0,0,https://github.com/hanilr/VNCE,"Core types (geometry, color, style, cells and buffers) for the Variation CLI Engine."
+2026-11-26T09:02:08.296832Z,vnce-raster,0.1.0,0,0,https://github.com/hanilr/VNCE,"Pixel canvas, CPU rasterizer and pixel-to-terminal-cell modes for the Variation CLI Engine."
+2026-11-26T09:02:13.325197Z,vnce-term,0.1.0,0,0,https://github.com/hanilr/VNCE,"Cross-platform terminal output, double-buffered rendering and input for the Variation CLI Engine."
+2026-11-26T09:02:17.938907Z,vnce-runtime,0.1.0,0,0,https://github.com/hanilr/VNCE,"Fixed-timestep game loop, input state and Game trait for the Variation CLI Engine."
+2026-11-26T09:02:23.388688Z,vnce-gpu,0.1.0,0,0,https://github.com/hanilr/VNCE,GPU rendering with wgpu for the Variation CLI Engine: offscreen render targets read back into pixel canvases.
+2026-11-26T09:03:06.97469Z,kitbag,0.1.2,0,0,https://github.com/cargopete/kitbag,"Pack your AI agent setup once, unpack it into any coding tool: MCP servers, rules, commands and skills for Claude Code, Cursor, Codex and more."
+2026-11-26T09:03:07.903317Z,club-field,0.1.0,0,0,https://github.com/chronista-club/club-field,Chronista Club の field を動かすプログラム
+2026-11-26T09:04:33.383921Z,menhera-vlanctl,0.1.0,0,0,https://github.com/menhera-org/vlanctl,Generate systemd-networkd configuration for VLAN and MACVLAN interfaces on container and VM hosts
+2026-11-26T09:04:40.504087Z,asterust-junos,0.1.2,0,0,https://github.com/asterust/asterust,"Typed Juniper JunOS config views (interfaces, OSPF, BGP, IS-IS, routing instances, policy options, firewall filters, system) extracted from an asterust config tree."
+2026-11-26T09:07:30.306322Z,copper-assembly,0.3.0,0,0,https://github.com/andenore/CopperScript,"Assembly locks, BOM and CPL files, and native KiCad manufacturing exports"
+2026-11-26T09:08:53.776353Z,tilo-theme-painter-wasm,0.5.0,0,0,https://code.tilo.so/tilo/tilo,"The interpreter (wasmi) a theme's painter set loaded from wasm runs on: fuel-bounded, memory-capped, no imports."
+2026-11-26T09:09:18.28154Z,seikika-model,0.2.0,0,0,https://github.com/seikika/seikika,"Seikika: manifest types, loading, JSON Schema validation and cross-reference checks (docs/v1-spec.md §4, §5)."
+2026-11-26T09:10:31.074573Z,nana-window,0.1.0-alpha.1,0,0,https://github.com/sena-nana/NanaUI,Native window material boundary for Nana applications
+2026-11-26T09:11:40.637912Z,vnce-window,0.1.0,0,0,https://github.com/hanilr/VNCE,"A native window for the Variation CLI Engine: the same games in their own window, cells and images drawn directly on the GPU."
+2026-11-26T09:14:59.764779Z,tamil-tokenize,0.2.0,0,0,https://github.com/abishtakan/tamil-toolkit,Source-preserving Tamil word and sentence segmentation
+2026-11-26T09:15:03.872433Z,hibira,0.1.0,0,0,https://github.com/hibira-io/rust,"Hibira server SDK: Pusher-protocol realtime (trigger, channel auth, webhooks), waiting rooms with Axum and Actix middleware, Chat API, Approvals and Live Chat verified visitors"
+2026-11-26T09:15:25.482543Z,tisqlx-rawkv,0.2.0,0,0,,"A pure-Rust async RawKV client for TiKV: gRPC to PD and TiKV, region routing and retries."
+2026-11-26T09:16:15.269814Z,norton-guide,0.0.1,0,0,https://github.com/davep/norton-guide-rs,Norton Guide database reading library
+2026-11-26T09:17:34.991085Z,copper-place,0.3.0,0,0,https://github.com/andenore/CopperScript,"Deterministic, constraint-aware component placement and the plan-layout report"
+2026-11-26T09:18:53.973112Z,tilo-tts,0.5.0,0,0,https://code.tilo.so/tilo/tilo,"Tilo text-to-speech engine for the built-in screen reader: speech-dispatcher (SSIP) primary backend, espeak-ng subprocess fallback, null recording mock, and an interrupt-aware speech queue."
