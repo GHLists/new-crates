@@ -1,0 +1,32 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-26T17:22:25.954966Z,milo-guards-script,0.2.0,0,0,https://github.com/camiloazula/milo-guards,"Judges Python or JavaScript code an agent runs directly and says whether it is safe without asking, or risky and why."
+2026-11-26T17:25:39.210388Z,geolith-search,0.1.0,0,0,https://github.com/geolith/search,"Pelias-compatible geocoding API that answers from one .glx file, as a library"
+2026-11-26T17:26:23.054646Z,geolith-i-overlay,4.5.2,0,0,https://github.com/geolith/geolith,i_overlay 4.5.2 with a guard against an out-of-bounds panic in the hole binder; the fork that geolith-geo uses
+2026-11-26T17:27:13.181525Z,geolith-geo,0.33.1,0,0,https://github.com/geolith/geolith,"geo 0.33.1 with one change: it uses geolith-i-overlay, i_overlay 4.5.2 with a guard against an out-of-bounds panic in the hole binder"
+2026-11-26T17:29:13.017192Z,difftonic,0.1.2,0,0,https://github.com/dantehemerson/difftonic,Fast syntax-highlighted terminal diff renderer for LazyGit
+2026-11-26T17:30:01.724349Z,seikika-api,0.2.0,0,0,https://github.com/seikika/seikika,"Seikika: the server — snapshot loop, REST API (docs/v1-spec.md §6.1, §7.2); MCP and UI host arrive in M4."
+2026-11-26T17:32:49.5767Z,kartta-ffi,0.0.0,0,0,https://github.com/GaijinEntertainment/kartta,"C ABI of the kartta code graph engine: one JSON call per query, for the Go and Node bindings"
+2026-11-26T17:32:52.297965Z,kartta-mcp,0.0.0,0,0,https://github.com/GaijinEntertainment/kartta,"MCP server over the kartta engine: file search, content search and graph queries as agent tools"
+2026-11-26T17:33:28.211361Z,tunnelward-attest,0.0.15,0,0,https://github.com/sebastienrousseau/tunnelward,"Tunnelward admission by passmcp attestation: DSSE and Sigstore bundles, in-toto statements, per-route rules and revocation"
+2026-11-26T17:34:38.357708Z,parallax-gpui-collections,0.3.14-parallax.3,0,0,https://github.com/xuckless/parallax,Parallax's build of GPUI collections: upstream gpui-pre 0.3.14 (Zed f126950) + Parallax patches
+2026-11-26T17:34:41.467313Z,parallax-gpui-zlog,0.3.14-parallax.3,0,0,https://github.com/xuckless/parallax,Parallax's build of GPUI zlog: upstream gpui-pre 0.3.14 (Zed f126950) + Parallax patches
+2026-11-26T17:34:44.850034Z,parallax-gpui-ztracing,0.3.14-parallax.3,0,0,https://github.com/xuckless/parallax,Parallax's build of GPUI ztracing: upstream gpui-pre 0.3.14 (Zed f126950) + Parallax patches
+2026-11-26T17:34:48.347507Z,parallax-gpui-sum-tree,0.3.14-parallax.3,0,0,https://github.com/xuckless/parallax,Parallax's build of GPUI sum_tree: upstream gpui-pre 0.3.14 (Zed f126950) + Parallax patches
+2026-11-26T17:35:01.275264Z,parallax-gpui,0.3.14-parallax.3,0,0,https://github.com/xuckless/parallax,Parallax's build of GPUI gpui: upstream gpui-pre 0.3.14 (Zed f126950) + Parallax patches
+2026-11-26T17:37:37.110218Z,docbake,0.2.0,0,0,https://github.com/growler/docbake,Multi-format Markdown documentation compiler
+2026-11-26T17:39:58.936841Z,parallax-gpui-windows,0.3.14-parallax.3,0,0,https://github.com/xuckless/parallax,Parallax's build of GPUI gpui_windows: upstream gpui-pre 0.3.14 (Zed f126950) + Parallax patches
+2026-11-26T17:40:22.761124Z,slurm-client,0.1.0,0,0,https://github.com/ramirc0/slurm-client,"A client for Slurm's native RPC protocol, spoken to slurmctld and slurmdbd"
+2026-11-26T17:40:23.582462Z,seikika-cli,0.2.0,0,0,https://github.com/seikika/seikika,Seikika: the `seikika` binary (docs/v1-spec.md §7.7).
+2026-11-26T17:43:07.484299Z,refit,0.6.0,0,0,https://github.com/bevowoved/refit,"Converged neural code hygiene, architectural untangle, Stem symbol graph, deslop, web-wired MCP, event-driven hooks & Kane CLI verification engine"
+2026-11-26T17:48:59.559444Z,meta-business-messaging,0.1.0-alpha.1,0,0,https://github.com/shuwariafrica/meta-business-messaging,"Meta's messaging platforms as one protocol: proven webhooks, the subscription handshake, each channel's payloads, and the send bodies"
+2026-11-26T17:49:59.450397Z,parallax-gpui-wgpu,0.3.14-parallax.3,0,0,https://github.com/xuckless/parallax,Parallax's build of GPUI gpui_wgpu: upstream gpui-pre 0.3.14 (Zed f126950) + Parallax patches
+2026-11-26T17:50:44.144674Z,seikika-connector-workspace,0.2.0,0,0,https://github.com/seikika/seikika,"Seikika connector: a local Rust workspace (crates and code metrics), its markdown docs and other files, read statically (docs/design/seikika-for-seikika.md)."
+2026-11-26T17:51:53.207651Z,geolith-routing,0.1.0,0,0,https://github.com/geolith/routing,"Valhalla-compatible routing over the routing part of a .glx file: a sans-I/O router that runs native and in WebAssembly, with an axum handler"
+2026-11-26T17:55:23.004598Z,cairo1-hint-processor,4.0.0,0,0,https://github.com/starkware-libs/cairo-vm/,HintProcessor for the hints introduced by the Cairo 1 compiler
+2026-11-26T17:59:30.124097Z,huggler,0.0.1,0,0,https://github.com/MrLightful/huggler,Orchestrate durable coding-agent conversations in Rust applications
+2026-11-26T17:59:59.223992Z,parallax-gpui-apple,0.3.14-parallax.3,0,0,https://github.com/xuckless/parallax,Parallax's build of GPUI gpui_apple: upstream gpui-pre 0.3.14 (Zed f126950) + Parallax patches
+2026-11-26T18:06:24.316532Z,beszel-protocol,0.3.0,0,0,https://github.com/henriksvensson/beszel-desktop,Shared wire types for Beszel realtime SSE payloads and the local beszel-relay NDJSON socket protocol
+2026-11-26T18:06:38.604451Z,beszel-relay,0.3.0,0,0,https://github.com/henriksvensson/beszel-desktop,Per-user Rust daemon streaming live Beszel hub metrics over a local user-only Unix socket
+2026-11-26T18:06:45.77385Z,beszel-ctl,0.3.0,0,0,https://github.com/henriksvensson/beszel-desktop,Local Unix socket CLI and Waybar/shell stream adapter for beszel-relay
+2026-11-26T18:09:59.963356Z,parallax-gpui-web,0.3.14-parallax.3,0,0,https://github.com/xuckless/parallax,Parallax's build of GPUI gpui_web: upstream gpui-pre 0.3.14 (Zed f126950) + Parallax patches
+2026-11-26T18:11:17.561536Z,rustfoil2d,0.1.0,0,0,https://github.com/1693593410/Foil,Lightweight 2D game physics engine for rectangle and circle overlap checks.
