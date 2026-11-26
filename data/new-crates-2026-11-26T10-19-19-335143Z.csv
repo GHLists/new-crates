@@ -1,0 +1,57 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-26T09:19:38.96019Z,seikika-connect,0.2.0,0,0,https://github.com/seikika/seikika,"Seikika: connector control channel — command hub, connector SDK and conformance kit (docs/design/connector-control.md)."
+2026-11-26T09:21:38.986975Z,vnce-ui,0.1.0,0,0,https://github.com/hanilr/VNCE,"A small set of terminal widgets (layout, text, blocks, gauges, lists) for the Variation CLI Engine."
+2026-11-26T09:25:02.765486Z,nana-packager,0.1.0-alpha.1,0,0,https://github.com/sena-nana/NanaUI,"Build-side Nana packager: pack plans, .nrpack building, platform layouts, Steam output and final-artifact validation"
+2026-11-26T09:25:52.080202Z,nana-ui-runtime,0.1.0-alpha.1,0,0,https://github.com/sena-nana/NanaUI,Backend-neutral retained runtime for NanaUI
+2026-11-26T09:27:38.950635Z,copper-editor,0.3.0,0,0,https://github.com/andenore/CopperScript,The physical editor (`copper edit-mechanical`) and the routed editor overlay (`copper editor-overlay`)
+2026-11-26T09:28:54.798883Z,tilo-process-services,0.5.0,0,0,https://code.tilo.so/tilo/tilo,The services an app borrows from its process.
+2026-11-26T09:31:39.448047Z,vnce-game,0.1.0,0,0,https://github.com/hanilr/VNCE,"Game building blocks for the Variation CLI Engine: key bindings, collision, sprites, animation, tile maps, camera, scenes, random numbers and save files."
+2026-11-26T09:34:21.1206Z,nana-ui-scene,0.1.0-alpha.1,0,0,https://github.com/sena-nana/NanaUI,Backend-neutral retained scene and render graph for NanaUI
+2026-11-26T09:37:43.49787Z,copper-extract,0.3.0,0,0,https://github.com/andenore/CopperScript,"Quasi-static partial-element (PEEC) extraction of the real filled copper of a board window: port impedance Z(f) = R + jwL and current sharing between parallel paths, vias and planes, for EMI screening"
+2026-11-26T09:37:54.840409Z,formkrafter,0.1.0,0,0,https://github.com/streamline-pulse/formkrafter,"Server-side validation for FormKrafter specs, with parity against the TypeScript core"
+2026-11-26T09:38:53.422814Z,tilo-ui-macros,0.5.0,0,0,https://code.tilo.so/tilo/tilo,Procedural macros for tilo-ui: the derive that describes a widget from its props as a component.
+2026-11-26T09:41:38.191604Z,vnce-audio,0.1.0,0,0,https://github.com/hanilr/VNCE,"Sound for the Variation CLI Engine: a mixer, WAV and OGG decoding, sound synthesis and audio output."
+2026-11-26T09:42:49.796077Z,tsum-macros,0.1.0,0,0,https://github.com/js2xxx/tsum,A type-level sum & union type library for Rust
+2026-11-26T09:42:56.856765Z,tsum,0.1.0,0,0,https://github.com/js2xxx/tsum,A type-level sum & union type library for Rust
+2026-11-26T09:44:20.25619Z,nana-ui,0.1.0-alpha.1,0,0,https://github.com/sena-nana/NanaUI,Rust-native UI foundation for the Nana application family
+2026-11-26T09:47:06.59439Z,copper-lsp,0.3.0,0,0,https://github.com/andenore/CopperScript,The CopperScript language server (`copper lsp`)
+2026-11-26T09:48:55.112969Z,tilo-user-identity,0.5.0,0,0,https://code.tilo.so/tilo/tilo,The human-facing identity layer for Tilo.
+2026-11-26T09:49:43.548363Z,aidaemon-runtime-base,0.25.0,0,0,https://github.com/davo20019/aidaemon,"The lower half of aidaemon's turn runtime: model runtime and side calls, host traits, authority, sub-agent coordination and runs, memory, history and the state store; internal to aidaemon, no stabili…"
+2026-11-26T09:49:46.204358Z,aidaemon-runtime-core,0.25.0,0,0,https://github.com/davo20019/aidaemon,"The core of aidaemon's turn runtime (everything but the built-in tools): model routing and side calls, budgets, and the turn on top of the aidaemon-core kernel; internal to aidaemon, no stability pro…"
+2026-11-26T09:51:15.517344Z,geolith-glx,0.1.0,0,0,https://github.com/geolith/glx,A single-file geocoding index that edge functions read with HTTP range requests
+2026-11-26T09:51:41.128485Z,vnce,0.1.0,0,0,https://github.com/hanilr/VNCE,A Rust library for building graphics and games in the terminal using the CPU and GPU. Part of the Variation ecosystem.
+2026-11-26T09:51:58.125516Z,geolith-costing,0.1.0,0,0,https://github.com/geolith/routing,"geolith costing models: which edges and turns a travel mode may use and what they cost; shared by the graph builder and the router, no I/O, wasm32-ready"
+2026-11-26T09:52:14.057731Z,ctl-input,0.8.0-rc.1,0,0,https://github.com/victor-software-house/ctl-core,"Declared input for CLIs: parse YAML or TOML, validate once, and report every problem on its file and line"
+2026-11-26T09:52:29.847392Z,geolith-cch,0.1.0,0,0,https://github.com/geolith/routing,"Customizable contraction hierarchies: nested-dissection order, contraction, customization and exact shortest-path queries on any directed graph; no I/O, no_std queries, wasm32-ready"
+2026-11-26T09:54:04.715099Z,kaanal-winhandle,0.0.0,0,0,https://github.com/Naveen2070/kaanal,"Placeholder, the real release is 0.1.0. See https://kaanal.naveenr.in"
+2026-11-26T09:54:19.353954Z,nana-ui-devtools,0.1.0-alpha.1,0,0,https://github.com/sena-nana/NanaUI,NanaUI headless Agent snapshot session and offscreen diagnostics
+2026-11-26T09:54:20.858932Z,kaanal-core,0.0.0,0,0,https://github.com/Naveen2070/kaanal,"Placeholder, the real release is 0.1.0. See https://kaanal.naveenr.in"
+2026-11-26T09:54:36.960476Z,kaanal-data,0.0.0,0,0,https://github.com/Naveen2070/kaanal,"Placeholder, the real release is 0.1.0. See https://kaanal.naveenr.in"
+2026-11-26T09:54:52.636826Z,kaanal-sim,0.0.0,0,0,https://github.com/Naveen2070/kaanal,"Placeholder, the real release is 0.1.0. See https://kaanal.naveenr.in"
+2026-11-26T09:54:57.108291Z,geolith-search-builder,0.1.0,0,0,https://github.com/geolith/geolith,"Builds geocoding indexes from Overture Maps and OpenStreetMap: Postgres COPY files, Photon and Pelias bulk files, and the search part of a .glx file"
+2026-11-26T09:55:03.793675Z,geolith-routing-builder,0.1.0,0,0,https://github.com/geolith/geolith,"Builds the routing part of a .glx file from OpenStreetMap: graph tiles, costing and contraction hierarchies"
+2026-11-26T09:55:08.798321Z,kaanal-server,0.0.0,0,0,https://github.com/Naveen2070/kaanal,"Placeholder, the real release is 0.1.0. See https://kaanal.naveenr.in"
+2026-11-26T09:56:53.102037Z,origamic-core,0.1.0,0,0,https://github.com/kotagit75/origamic,"The core routing, gossip engine, and overlay network abstractions for the Origamic P2P library."
+2026-11-26T09:56:55.815851Z,origamic-noise,0.1.0,0,0,https://github.com/kotagit75/origamic,Experimental Noise protocol encryption layer for the Origamic P2P library.
+2026-11-26T09:56:56.266269Z,origamic-tcp,0.1.0,0,0,https://github.com/kotagit75/origamic,TCP transport implementation for the Origamic P2P library.
+2026-11-26T09:56:57.847407Z,origamic,0.1.0,0,0,https://github.com/kotagit75/origamic,"A self-organizing, decentralized P2P library in Rust for building recursive virtual networks."
+2026-11-26T09:57:10.373553Z,copper-panel,0.3.0,0,0,https://github.com/andenore/CopperScript,"Fabrication panels: already-routed KiCad boards composed with rails, tabs, mouse bites, fiducials and tooling holes"
+2026-11-26T09:58:54.532633Z,tilo-runtime-collab,0.5.0,0,0,https://code.tilo.so/tilo/tilo,The Tilo collaboration wire and the client that speaks it.
+2026-11-26T10:04:09.96905Z,kaanal,0.0.0,0,0,https://github.com/Naveen2070/kaanal,"Placeholder, the real release is 0.1.0. See https://kaanal.naveenr.in"
+2026-11-26T10:04:19.823625Z,nana-ui-viewport3d,0.1.0-alpha.1,0,0,https://github.com/sena-nana/NanaUI,"Optional lightweight 3D preview viewport for NanaUI (orbit camera, glTF, basic lighting, HostTexture output)"
+2026-11-26T10:04:30.431Z,community-databricks-sdk-computemigrations,0.1.0,0,0,https://github.com/OffeneDatenmodellierung/databricks-rs,"Databricks `computemigrations` API models and services (community-maintained, generated; use via community-databricks-sdk)"
+2026-11-26T10:04:43.354658Z,vt-mermaid,0.1.0,0,0,https://github.com/vmeyet/vt-mermaid,Mermaid diagrams drawn as text on a vt-canvas grid.
+2026-11-26T10:04:49.824655Z,community-databricks-sdk-genieagents,0.1.0,0,0,https://github.com/OffeneDatenmodellierung/databricks-rs,"Databricks `genieagents` API models and services (community-maintained, generated; use via community-databricks-sdk)"
+2026-11-26T10:04:55.735369Z,community-databricks-sdk-lakewatch,0.1.0,0,0,https://github.com/OffeneDatenmodellierung/databricks-rs,"Databricks `lakewatch` API models and services (community-maintained, generated; use via community-databricks-sdk)"
+2026-11-26T10:05:26.411742Z,geolith-tiles-builder,0.2.0,0,0,https://github.com/geolith/geolith,"Builds tiles from OpenStreetMap and Overture Maps: protomaps-schema vector PMTiles, Terrain-RGB, raster archives and 3D Tiles from Gaussian splats"
+2026-11-26T10:07:14.465537Z,copper-report,0.3.0,0,0,https://github.com/andenore/CopperScript,"Run diagnostics and reports: diagnostic explanations, grouped run issues, board views and engineering summaries"
+2026-11-26T10:10:22.655452Z,community-databricks-sdk-softwareartifacts,0.1.0,0,0,https://github.com/OffeneDatenmodellierung/databricks-rs,"Databricks `softwareartifacts` API models and services (community-maintained, generated; use via community-databricks-sdk)"
+2026-11-26T10:10:24.469908Z,community-databricks-sdk-statementexecutionv2,0.1.0,0,0,https://github.com/OffeneDatenmodellierung/databricks-rs,"Databricks `statementexecutionv2` API models and services (community-maintained, generated; use via community-databricks-sdk)"
+2026-11-26T10:14:00.985566Z,bitpr,0.1.0,0,0,https://codeberg.org/marcelmanz/bitpr,Review Bitbucket pull requests from your terminal
+2026-11-26T10:14:19.312318Z,nana-ui-dev,0.1.0-alpha.1,0,0,https://github.com/sena-nana/NanaUI,Development-only hot reload support for NanaUI applications
+2026-11-26T10:15:25.367443Z,geolith-dataset-builder,0.2.0,0,0,https://github.com/geolith/geolith,"Raster datasets for geolith: district areas, normals, numbers and a map layer per period, and the steps that stage, verify and publish them to any S3-compatible bucket"
+2026-11-26T10:17:20.146373Z,copper-route,0.3.0,0,0,https://github.com/andenore/CopperScript,"Routing (M4): exact clearance index, global router, layer assignment, critical and pair routing, pin access, planes, the routing pipeline and the benchmark ladder"
+2026-11-26T10:18:32.705556Z,fastauth-plugin-organization,0.2.0,0,0,https://github.com/lassejlv/fastauth,"Organizations for fastauth: members, invitations, roles and permissions, wire-compatible with Better Auth."
+2026-11-26T10:18:36.430145Z,fastauth-plugin-admin,0.2.0,0,0,https://github.com/lassejlv/fastauth,"Admin plugin for fastauth: roles and permissions, bans, impersonation and user management."
+2026-11-26T10:18:40.293749Z,fastauth-plugin-api-key,0.2.0,0,0,https://github.com/lassejlv/fastauth,"API keys for fastauth: hashed per-user keys with expiry, usage limits, refills, per-key rate limits and permissions."
+2026-11-26T10:19:15.557776Z,domain-kmip,0.0.2,0,0,https://github.com/nlnetlabs/domain-kmip/,KMIP HSM signing support for `domain`.
