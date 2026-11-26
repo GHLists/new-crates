@@ -1,0 +1,41 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-26T16:19:34.894383Z,cloud_terrastodon_azure_cli,0.38.0,0,0,https://github.com/AAFC-Cloud/Cloud-Terrastodon.git,Azure command schemas and presentation for Cloud Terrastodon
+2026-11-26T16:22:48.358913Z,herder-mcp,0.4.0,0,0,https://github.com/Shaance/herder,Local MCP server for read-only agent reviews with Herder
+2026-11-26T16:25:39.294452Z,proj-rs,1.2.6,0,0,https://github.com/RandazzoMaxime/proj-rs,"Rust port of PROJ 9.9: projections, pipelines, and an embedded proj.db."
+2026-11-26T16:27:35.721548Z,speedyspec-wp-meta-contracts,0.2.0,0,0,https://github.com/SpeedySpec/speedyspec-platform,"WordPress's metadata API contracts: the meta values, the entity and its errors."
+2026-11-26T16:28:32.032515Z,sourcenetwork-zanzi,0.0.1,0,0,,"Zanzibar-style relationship evaluation engine: plain-data relational model, sans-IO goal-tree search"
+2026-11-26T16:28:35.142608Z,sourcenetwork-acp,0.0.1,0,0,,Decentralized-administration discretionary access control engine; host of zanzi
+2026-11-26T16:29:34.084607Z,cloud_terrastodon_excalidraw,0.38.0,0,0,https://github.com/AAFC-Cloud/Cloud-Terrastodon.git,Typed Excalidraw scenes and offline discovery plan diagrams
+2026-11-26T16:32:33.782897Z,aidrive-mcp-server,0.0.1,0,0,https://github.com/icedracon/AIDrive,"AIDrive MCP server: lets Claude Code, Codex and other MCP clients share governed project state through a local AIDrive API."
+2026-11-26T16:37:35.775496Z,speedyspec-wp-kses-lexical,0.6.0,0,0,https://github.com/SpeedySpec/speedyspec-platform,"kses.php's pure string functions (entities, protocols, attribute parsing) over fast byte matchers."
+2026-11-26T16:38:03.266412Z,shuyi-net,0.0.0,0,0,https://github.com/Zafnok/shuyi-engine,"Reserved for Shuyi Engine, an open-source 2D game engine in Rust. Nothing here yet: the first release will replace this placeholder."
+2026-11-26T16:38:45.742729Z,evalite-sockel,0.1.2,0,0,https://github.com/udoprog/evalite.git,"Yew components for writing evalite expressions, styled with sockel."
+2026-11-26T16:39:33.280836Z,cloud_terrastodon_source,0.38.0,0,0,https://github.com/AAFC-Cloud/Cloud-Terrastodon.git,Local source repository discovery and file inventories for Cloud Terrastodon
+2026-11-26T16:40:20.886189Z,mc146818,0.2.0,0,0,https://github.com/llp42/mc146818,"no_std driver for the MC146818 real-time clock and CMOS memory, as found in PCs"
+2026-11-26T16:40:49.298994Z,cargo-bin-health,0.2.0,0,0,https://github.com/jorgeandrecastro/cargo-bin-health,"Inspect Rust binaries and firmware for memory, dependency, and build health"
+2026-11-26T16:42:20.360551Z,bui-a11y,0.6.0,0,0,https://github.com/ppmpreetham/BUI,"Screen-reader accessibility for the BUI kit: its flat node trees as AccessKit trees, and the platform adapters"
+2026-11-26T16:43:40.881724Z,day-sync-webdav,0.3.3,0,0,https://github.com/daybrite/day-sync,A WebDAV folder as a day-sync store
+2026-11-26T16:45:28.868579Z,cortexkit-role-agent-orchestrator,0.1.0,0,0,https://github.com/cortexkit/commons,Wire contract and vectors for operations of the CortexKit agent-orchestrator/v1 role (awaited-work/v1).
+2026-11-26T16:49:33.306184Z,cloud_terrastodon_source_cli,0.38.0,0,0,https://github.com/AAFC-Cloud/Cloud-Terrastodon.git,Local source command schemas and presentation for Cloud Terrastodon
+2026-11-26T16:52:20.489187Z,zamn_lexer,1.0.0,0,0,https://github.com/zeokku/zamn,"Lexer for zamn templates: source to tokens, spans and diagnostics."
+2026-11-26T16:52:22.337719Z,zamn_parser,1.0.0,0,0,https://github.com/zeokku/zamn,Parser for zamn templates: tokens to AST.
+2026-11-26T16:52:23.907425Z,zamn_codegen,1.0.0,0,0,https://github.com/zeokku/zamn,Code generator for zamn templates: AST to HTML and a source map.
+2026-11-26T16:52:25.657231Z,zamn,1.0.0,0,0,https://github.com/zeokku/zamn,"Compiler and command line tool for zamn, a static way to write HTML with { } blocks instead of closing tags."
+2026-11-26T16:58:43.249236Z,psychoscript-gpu,0.1.0,0,0,https://github.com/anomalyco/psychoscript,GPU canvases for PsychoScript programs: checks and replays the WebGPU batches a program records on a wgpu device the host gives
+2026-11-26T16:58:44.072939Z,psychoscript-mobile,0.1.0,0,0,https://github.com/anomalyco/psychoscript,PsychoScript for iOS (Swift) and Android (Kotlin): UniFFI bindings that compile a program once and run it with a JSON input
+2026-11-26T17:03:49.275516Z,crapts,0.1.0-rc.1,0,0,https://github.com/minikin/cargo-crap,JavaScript and TypeScript source analysis for the CRAP metric
+2026-11-26T17:04:10.531859Z,burnlog,0.1.0,0,0,https://github.com/marcolcu/burnlog,Local CLI for analyzing AI coding session token usage
+2026-11-26T17:04:11.741721Z,airprowl,1.1.0,0,0,https://github.com/bernisnukic/airprowl,"Real-time Bluetooth, WiFi, and Sub-GHz wireless scanner TUI for Linux and macOS"
+2026-11-26T17:07:11.30886Z,seikika-connector-git-files,0.2.0,0,0,https://github.com/seikika/seikika,Seikika connector: catalog-info.yaml files from a local checkout or the GitHub contents API (docs/v1-spec.md §7.4).
+2026-11-26T17:07:12.341661Z,seikika-connector-github,0.2.0,0,0,https://github.com/seikika/seikika,"Seikika connector: GitHub repositories, CODEOWNERS, apps and installations (docs/v1-spec.md §7.4)."
+2026-11-26T17:07:13.373751Z,seikika-connector-gitlab,0.2.0,0,0,https://github.com/seikika/seikika,"Seikika connector: GitLab groups with their members, and projects (docs/design/forges.md §4.6)."
+2026-11-26T17:07:14.431295Z,seikika-connector-runner,0.2.0,0,0,https://github.com/seikika/seikika,"Seikika connector: runs local commands (cargo test, clippy, any NDJSON-printing tool) and reports their results as records (docs/design/seikika-for-seikika.md)."
+2026-11-26T17:07:15.643205Z,seikika-connector-scim,0.2.0,0,0,https://github.com/seikika/seikika,Seikika connector: a SCIM 2.0 receiver that pushes users and groups to Seikika (docs/v1-spec.md §7.4).
+2026-11-26T17:08:12.130014Z,gadk-console-client,0.5.23,0,0,https://github.com/sirhco/gadk-rust,A typed async client for the gadk-console JSON API
+2026-11-26T17:09:23.399037Z,seikika-derive,0.2.0,0,0,https://github.com/seikika/seikika,"Seikika: the derived-state pipeline behind DerivedState, plan diffs and the test runner (docs/v1-spec.md §6)."
+2026-11-26T17:11:23.588438Z,cordex-test,0.2.0,0,0,https://github.com/lejylabs/cordex,Offline testing harness and gateway-replay runner for cordex bots.
+2026-11-26T17:14:08.308571Z,tree-sitter-flow,0.1.0,0,0,https://github.com/VladimirMakaev/tree-sitter-flow,Flow grammar for tree-sitter
+2026-11-26T17:16:07.510483Z,ruwrite,0.2.0,0,0,https://github.com/yo-le-zz/ruwrite,"Inspect and rewrite compiled Rust executables: functions, variables, hot patching, transactional commit."
+2026-11-26T17:16:25.010715Z,label-qr-gui,0.1.0,0,0,https://github.com/rickprice/field-label-tools,Fullscreen appliance GUI for entering field-label metadata and displaying it as a large high-contrast QR code
+2026-11-26T17:16:37.70032Z,photo-splitter,0.1.0,0,0,https://github.com/rickprice/field-label-tools,"Splits a directory of time-ordered photos into per-shoot folders using QR-code marker frames, writing configurable YAML metadata"
+2026-11-26T17:19:41.285793Z,seikika-exec,0.2.0,0,0,https://github.com/seikika/seikika,"Seikika: action runs — the Seikika layer of a preview, confirm tokens, executors (command, executor protocol, change, GitHub workflow, child portal) and the run lifecycle."

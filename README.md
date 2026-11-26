@@ -8,61 +8,54 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-26 16:19 UTC
+## Latest list — 2026-11-26 17:21 UTC
 
-New crates published between 2026-11-26 15:19 UTC and 2026-11-26 16:19 UTC.
+New crates published between 2026-11-26 16:19 UTC and 2026-11-26 17:21 UTC.
 
-[Full CSV](data/new-crates-2026-11-26T16-19-30-3747Z.csv)
+[Full CSV](data/new-crates-2026-11-26T17-21-28-239401Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-26 15:19:32 | [cloud_terrastodon_cli_types](https://crates.io/crates/cloud_terrastodon_cli_types) | 0.38.0 | 0 | Shared validated command-line inputs for Cloud Terrastodon |
-| 2026-11-26 15:19:33 | [hazard3-ssd1306-physics](https://crates.io/crates/hazard3-ssd1306-physics) | 0.6.1 | 0 | Dessins 2D no_std pour objets physiques (bras robotique, pendule, ressort-masse… |
-| 2026-11-26 15:21:59 | [lc2kicad](https://crates.io/crates/lc2kicad) | 0.1.0 | 0 | Headless CLI and library to export LCSC / EasyEDA components to KiCad 8/9/10, A… |
-| 2026-11-26 15:22:35 | [sciart-generators](https://crates.io/crates/sciart-generators) | 0.7.0 | 0 | Internal: the scene registry of sciart. No semver promise; use the `sciart` cra… |
-| 2026-11-26 15:22:37 | [sciart-keepawake](https://crates.io/crates/sciart-keepawake) | 0.7.0 | 0 | Internal: keep-awake backends of sciart. No semver promise; use the `sciart` cr… |
-| 2026-11-26 15:22:44 | [sciart](https://crates.io/crates/sciart) | 1.0.1 | 0 | Real-time generative science art for the terminal: physics, chemistry, biology,… |
-| 2026-11-26 15:24:10 | [envelope-keys](https://crates.io/crates/envelope-keys) | 1.0.0 | 0 | Envelope encryption key providers: a provider contract, wrapped data keys, and… |
-| 2026-11-26 15:27:35 | [speedyspec-routing](https://crates.io/crates/speedyspec-routing) | 0.2.0 | 0 | Routing contracts: routes, resolutions, route data, the table store, dispatch s… |
-| 2026-11-26 15:29:32 | [cloud_terrastodon_execution](https://crates.io/crates/cloud_terrastodon_execution) | 0.38.0 | 0 | Scoped request execution and injected authentication for Cloud Terrastodon |
-| 2026-11-26 15:35:12 | [tilolang-tilo](https://crates.io/crates/tilolang-tilo) | 0.5.0 | 0 | Tilo platform integration for tilolang apps: their resources in the device's st… |
-| 2026-11-26 15:35:18 | [tilo-app-builder](https://crates.io/crates/tilo-app-builder) | 0.5.0 | 0 | Tilo apps written in Rust: scaffold, check, build for each platform, package an… |
-| 2026-11-26 15:37:36 | [speedyspec-rest-contracts](https://crates.io/crates/speedyspec-rest-contracts) | 0.2.0 | 0 | The REST transport's contracts: bindings, the REST request and response, links,… |
-| 2026-11-26 15:37:41 | [mincorr](https://crates.io/crates/mincorr) | 0.3.0 | 0 | Fast correlation matrices (Pearson, Spearman, Kendall tau-b, biweight midcorrel… |
-| 2026-11-26 15:37:47 | [sqlload-python-host](https://crates.io/crates/sqlload-python-host) | 0.0.0 | 0 | Placeholder for SQLLoad's Python host crate (running Python tables on the SQLLo… |
-| 2026-11-26 15:37:51 | [waos-gpu-host](https://crates.io/crates/waos-gpu-host) | 0.8.0 | 0 | The host the engine serves wasdk:gpu with: wgpu's API over wgpu-core, each call… |
-| 2026-11-26 15:38:55 | [tilolang-window](https://crates.io/crates/tilolang-window) | 0.5.0 | 0 | A tilolang app's window with nothing on screen: its instance staged with a scen… |
-| 2026-11-26 15:39:32 | [cloud_terrastodon_registry_execution](https://crates.io/crates/cloud_terrastodon_registry_execution) | 0.38.0 | 0 | Invocation and execution of registered Cloud Terrastodon operations |
-| 2026-11-26 15:40:53 | [henad-graph](https://crates.io/crates/henad-graph) | 0.4.0 | 0 | Graph models and sheets of Henad: node graphs and author documents as model fil… |
-| 2026-11-26 15:47:00 | [auric-ace-build](https://crates.io/crates/auric-ace-build) | 0.8.3 | 0 | Codegen for the Ace code editor addon for the Ember-inspired Auric SPA framework |
-| 2026-11-26 15:47:02 | [auric-fontawesome-build](https://crates.io/crates/auric-fontawesome-build) | 0.8.3 | 0 | Codegen for the Font Awesome addon for the Ember-inspired Auric SPA framework |
-| 2026-11-26 15:47:04 | [auric-websockets-build](https://crates.io/crates/auric-websockets-build) | 0.8.3 | 0 | Codegen for the WebSockets addon for the Ember-inspired Auric SPA framework |
-| 2026-11-26 15:47:10 | [auric-ace](https://crates.io/crates/auric-ace) | 0.8.3 | 0 | Ace code editor addon for the Ember-inspired Auric SPA framework |
-| 2026-11-26 15:47:12 | [auric-fontawesome](https://crates.io/crates/auric-fontawesome) | 0.8.3 | 0 | Font Awesome icons addon for the Ember-inspired Auric SPA framework |
-| 2026-11-26 15:47:36 | [speedyspec-php-serialize](https://crates.io/crates/speedyspec-php-serialize) | 0.3.0 | 0 | PHP's serialize format in Rust: serialize, unserialize, maybe_serialize, and co… |
-| 2026-11-26 15:48:56 | [tilolang-cli](https://crates.io/crates/tilolang-cli) | 0.5.0 | 0 | The tilolang command: create, check, run, build, package and publish Tilo apps,… |
-| 2026-11-26 15:49:33 | [cloud_terrastodon_auth](https://crates.io/crates/cloud_terrastodon_auth) | 0.38.0 | 0 | Runtime authentication and credential sessions for Cloud Terrastodon |
-| 2026-11-26 15:50:48 | [horsegirl](https://crates.io/crates/horsegirl) | 0.0.0 | 0 | An agent-first diagram language: state the facts once, choose a lens. This vers… |
-| 2026-11-26 15:52:45 | [ag-sqlite](https://crates.io/crates/ag-sqlite) | 0.22.0 | 0 | Shared SQLite open, migration, and transaction helpers for Agentty stores |
-| 2026-11-26 15:55:46 | [freespace](https://crates.io/crates/freespace) | 0.1.0 | 0 | Find and safely reclaim disk space on Linux and Windows: caches, build artifact… |
-| 2026-11-26 15:57:35 | [speedyspec-abilities-contracts](https://crates.io/crates/speedyspec-abilities-contracts) | 0.2.0 | 0 | The Abilities transport's contracts: the ability binding and annotations, and t… |
-| 2026-11-26 15:59:06 | [tilolang-web](https://crates.io/crates/tilolang-web) | 0.5.0 | 0 | Tilolang in a browser page: compile packages from their files, run an app over… |
-| 2026-11-26 16:00:28 | [myle](https://crates.io/crates/myle) | 0.1.0 | 0 | The official Rust SDK of the Myle API (https://api.myleapp.fr) |
-| 2026-11-26 16:00:50 | [myle-cli](https://crates.io/crates/myle-cli) | 0.1.0 | 0 | The Myle command-line tool: the Myle API from a terminal, the Stripe CLI's way |
-| 2026-11-26 16:01:50 | [auric-websockets](https://crates.io/crates/auric-websockets) | 0.8.3 | 0 | WebSockets addon for the Ember-inspired Auric SPA framework |
-| 2026-11-26 16:02:49 | [egui-workbench-chem-core](https://crates.io/crates/egui-workbench-chem-core) | 1.2.0 | 0 | Shared, egui-free chemical document model, selection bus, events, bridges, and… |
-| 2026-11-26 16:03:11 | [egui-workbench-chem2d](https://crates.io/crates/egui-workbench-chem2d) | 1.2.0 | 0 | A vector 2D chemistry editor for egui-workbench: molecular graph, camera, paint… |
-| 2026-11-26 16:03:33 | [egui-workbench-mol3d](https://crates.io/crates/egui-workbench-mol3d) | 1.2.0 | 0 | A 3D molecular and crystal viewport for egui-workbench: arcball camera, scene,… |
-| 2026-11-26 16:06:02 | [rueca-serve](https://crates.io/crates/rueca-serve) | 0.2.0-alpha.1 | 0 | Rueca service mode: the query role (MCP over stateless Streamable HTTP with aut… |
-| 2026-11-26 16:07:36 | [speedyspec-wp-theme-json-contracts](https://crates.io/crates/speedyspec-wp-theme-json-contracts) | 0.2.0 | 0 | WordPress's theme.json contracts: the typed model, the value objects, the schem… |
-| 2026-11-26 16:09:18 | [rdnext-core](https://crates.io/crates/rdnext-core) | 0.4.0 | 0 | ReportDesigner core: expression language, report schema, feature tiers |
-| 2026-11-26 16:09:26 | [reportdesigner](https://crates.io/crates/reportdesigner) | 0.4.0 | 0 | ReportDesigner for Rust: Crystal-Reports-class reports (HTML, PDF, Excel, Word)… |
-| 2026-11-26 16:09:52 | [cloud_terrastodon_auth_cli](https://crates.io/crates/cloud_terrastodon_auth_cli) | 0.38.0 | 0 | Account and authentication selection contracts for Cloud Terrastodon commands |
-| 2026-11-26 16:10:57 | [rata](https://crates.io/crates/rata) | 0.1.0 | 0 | Start, stop, and monitor long-running services |
-| 2026-11-26 16:11:36 | [cloud_terrastodon_azure_devops_cli](https://crates.io/crates/cloud_terrastodon_azure_devops_cli) | 0.38.0 | 0 | Azure DevOps command-line interface for Cloud Terrastodon |
-| 2026-11-26 16:12:18 | [skyrc-mc5000](https://crates.io/crates/skyrc-mc5000) | 0.1.0 | 0 | Unofficial client for the SkyRC MC5000 battery charger over Bluetooth LE: proto… |
-| 2026-11-26 16:14:45 | [dateoxide-core](https://crates.io/crates/dateoxide-core) | 0.1.0 | 0 | High-performance, low-memory multilingual natural-language date parser core in… |
-| 2026-11-26 16:17:35 | [speedyspec-wp-posts-contracts](https://crates.io/crates/speedyspec-wp-posts-contracts) | 0.2.0 | 0 | WordPress's post contracts: the post entity and its values, post type and statu… |
+| 2026-11-26 16:19:34 | [cloud_terrastodon_azure_cli](https://crates.io/crates/cloud_terrastodon_azure_cli) | 0.38.0 | 0 | Azure command schemas and presentation for Cloud Terrastodon |
+| 2026-11-26 16:22:48 | [herder-mcp](https://crates.io/crates/herder-mcp) | 0.4.0 | 0 | Local MCP server for read-only agent reviews with Herder |
+| 2026-11-26 16:25:39 | [proj-rs](https://crates.io/crates/proj-rs) | 1.2.6 | 0 | Rust port of PROJ 9.9: projections, pipelines, and an embedded proj.db. |
+| 2026-11-26 16:27:35 | [speedyspec-wp-meta-contracts](https://crates.io/crates/speedyspec-wp-meta-contracts) | 0.2.0 | 0 | WordPress's metadata API contracts: the meta values, the entity and its errors. |
+| 2026-11-26 16:28:32 | [sourcenetwork-zanzi](https://crates.io/crates/sourcenetwork-zanzi) | 0.0.1 | 0 | Zanzibar-style relationship evaluation engine: plain-data relational model, san… |
+| 2026-11-26 16:28:35 | [sourcenetwork-acp](https://crates.io/crates/sourcenetwork-acp) | 0.0.1 | 0 | Decentralized-administration discretionary access control engine; host of zanzi |
+| 2026-11-26 16:29:34 | [cloud_terrastodon_excalidraw](https://crates.io/crates/cloud_terrastodon_excalidraw) | 0.38.0 | 0 | Typed Excalidraw scenes and offline discovery plan diagrams |
+| 2026-11-26 16:32:33 | [aidrive-mcp-server](https://crates.io/crates/aidrive-mcp-server) | 0.0.1 | 0 | AIDrive MCP server: lets Claude Code, Codex and other MCP clients share governe… |
+| 2026-11-26 16:37:35 | [speedyspec-wp-kses-lexical](https://crates.io/crates/speedyspec-wp-kses-lexical) | 0.6.0 | 0 | kses.php's pure string functions (entities, protocols, attribute parsing) over… |
+| 2026-11-26 16:38:03 | [shuyi-net](https://crates.io/crates/shuyi-net) | 0.0.0 | 0 | Reserved for Shuyi Engine, an open-source 2D game engine in Rust. Nothing here… |
+| 2026-11-26 16:38:45 | [evalite-sockel](https://crates.io/crates/evalite-sockel) | 0.1.2 | 0 | Yew components for writing evalite expressions, styled with sockel. |
+| 2026-11-26 16:39:33 | [cloud_terrastodon_source](https://crates.io/crates/cloud_terrastodon_source) | 0.38.0 | 0 | Local source repository discovery and file inventories for Cloud Terrastodon |
+| 2026-11-26 16:40:20 | [mc146818](https://crates.io/crates/mc146818) | 0.2.0 | 0 | no_std driver for the MC146818 real-time clock and CMOS memory, as found in PCs |
+| 2026-11-26 16:40:49 | [cargo-bin-health](https://crates.io/crates/cargo-bin-health) | 0.2.0 | 0 | Inspect Rust binaries and firmware for memory, dependency, and build health |
+| 2026-11-26 16:42:20 | [bui-a11y](https://crates.io/crates/bui-a11y) | 0.6.0 | 0 | Screen-reader accessibility for the BUI kit: its flat node trees as AccessKit t… |
+| 2026-11-26 16:43:40 | [day-sync-webdav](https://crates.io/crates/day-sync-webdav) | 0.3.3 | 0 | A WebDAV folder as a day-sync store |
+| 2026-11-26 16:45:28 | [cortexkit-role-agent-orchestrator](https://crates.io/crates/cortexkit-role-agent-orchestrator) | 0.1.0 | 0 | Wire contract and vectors for operations of the CortexKit agent-orchestrator/v1… |
+| 2026-11-26 16:49:33 | [cloud_terrastodon_source_cli](https://crates.io/crates/cloud_terrastodon_source_cli) | 0.38.0 | 0 | Local source command schemas and presentation for Cloud Terrastodon |
+| 2026-11-26 16:52:20 | [zamn_lexer](https://crates.io/crates/zamn_lexer) | 1.0.0 | 0 | Lexer for zamn templates: source to tokens, spans and diagnostics. |
+| 2026-11-26 16:52:22 | [zamn_parser](https://crates.io/crates/zamn_parser) | 1.0.0 | 0 | Parser for zamn templates: tokens to AST. |
+| 2026-11-26 16:52:23 | [zamn_codegen](https://crates.io/crates/zamn_codegen) | 1.0.0 | 0 | Code generator for zamn templates: AST to HTML and a source map. |
+| 2026-11-26 16:52:25 | [zamn](https://crates.io/crates/zamn) | 1.0.0 | 0 | Compiler and command line tool for zamn, a static way to write HTML with { } bl… |
+| 2026-11-26 16:58:43 | [psychoscript-gpu](https://crates.io/crates/psychoscript-gpu) | 0.1.0 | 0 | GPU canvases for PsychoScript programs: checks and replays the WebGPU batches a… |
+| 2026-11-26 16:58:44 | [psychoscript-mobile](https://crates.io/crates/psychoscript-mobile) | 0.1.0 | 0 | PsychoScript for iOS (Swift) and Android (Kotlin): UniFFI bindings that compile… |
+| 2026-11-26 17:03:49 | [crapts](https://crates.io/crates/crapts) | 0.1.0-rc.1 | 0 | JavaScript and TypeScript source analysis for the CRAP metric |
+| 2026-11-26 17:04:10 | [burnlog](https://crates.io/crates/burnlog) | 0.1.0 | 0 | Local CLI for analyzing AI coding session token usage |
+| 2026-11-26 17:04:11 | [airprowl](https://crates.io/crates/airprowl) | 1.1.0 | 0 | Real-time Bluetooth, WiFi, and Sub-GHz wireless scanner TUI for Linux and macOS |
+| 2026-11-26 17:07:11 | [seikika-connector-git-files](https://crates.io/crates/seikika-connector-git-files) | 0.2.0 | 0 | Seikika connector: catalog-info.yaml files from a local checkout or the GitHub… |
+| 2026-11-26 17:07:12 | [seikika-connector-github](https://crates.io/crates/seikika-connector-github) | 0.2.0 | 0 | Seikika connector: GitHub repositories, CODEOWNERS, apps and installations (doc… |
+| 2026-11-26 17:07:13 | [seikika-connector-gitlab](https://crates.io/crates/seikika-connector-gitlab) | 0.2.0 | 0 | Seikika connector: GitLab groups with their members, and projects (docs/design/… |
+| 2026-11-26 17:07:14 | [seikika-connector-runner](https://crates.io/crates/seikika-connector-runner) | 0.2.0 | 0 | Seikika connector: runs local commands (cargo test, clippy, any NDJSON-printing… |
+| 2026-11-26 17:07:15 | [seikika-connector-scim](https://crates.io/crates/seikika-connector-scim) | 0.2.0 | 0 | Seikika connector: a SCIM 2.0 receiver that pushes users and groups to Seikika… |
+| 2026-11-26 17:08:12 | [gadk-console-client](https://crates.io/crates/gadk-console-client) | 0.5.23 | 0 | A typed async client for the gadk-console JSON API |
+| 2026-11-26 17:09:23 | [seikika-derive](https://crates.io/crates/seikika-derive) | 0.2.0 | 0 | Seikika: the derived-state pipeline behind DerivedState, plan diffs and the tes… |
+| 2026-11-26 17:11:23 | [cordex-test](https://crates.io/crates/cordex-test) | 0.2.0 | 0 | Offline testing harness and gateway-replay runner for cordex bots. |
+| 2026-11-26 17:14:08 | [tree-sitter-flow](https://crates.io/crates/tree-sitter-flow) | 0.1.0 | 0 | Flow grammar for tree-sitter |
+| 2026-11-26 17:16:07 | [ruwrite](https://crates.io/crates/ruwrite) | 0.2.0 | 0 | Inspect and rewrite compiled Rust executables: functions, variables, hot patchi… |
+| 2026-11-26 17:16:25 | [label-qr-gui](https://crates.io/crates/label-qr-gui) | 0.1.0 | 0 | Fullscreen appliance GUI for entering field-label metadata and displaying it as… |
+| 2026-11-26 17:16:37 | [photo-splitter](https://crates.io/crates/photo-splitter) | 0.1.0 | 0 | Splits a directory of time-ordered photos into per-shoot folders using QR-code… |
+| 2026-11-26 17:19:41 | [seikika-exec](https://crates.io/crates/seikika-exec) | 0.2.0 | 0 | Seikika: action runs — the Seikika layer of a preview, confirm tokens, executor… |
 
 ## Data source
 
