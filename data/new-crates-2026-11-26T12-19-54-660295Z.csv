@@ -1,0 +1,65 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-26T11:20:58.511191Z,hasi,0.0.1,0,0,,"Hasi: source control for teams of agents, end to end (CLI and server). Placeholder; the client is coming soon."
+2026-11-26T11:21:00.980944Z,hasi-lib,0.0.1,0,0,,The core of the Hasi client as a Rust API: source control for teams of agents. Placeholder; the library is coming soon.
+2026-11-26T11:24:08.986016Z,evalite,0.1.0,0,0,https://github.com/udoprog/evalite.git,"Small, strictly typed expressions that are safe to run on anyone's input."
+2026-11-26T11:24:14.906442Z,evalite-cli,0.1.0,0,0,https://github.com/udoprog/evalite.git,"The command line for evalite: small, strictly typed expressions that are safe to run on anyone's input."
+2026-11-26T11:28:23.402165Z,arus-hydrology,0.1.0,0,0,https://github.com/farhan-syah/arus,"Rainfall-runoff, infiltration, and subcatchment hydrology adapters for ARUS."
+2026-11-26T11:29:04.110537Z,tilo-ui-paint,0.5.0,0,0,https://code.tilo.so/tilo/tilo,"The drawing layer under Tilo's components and theme: the scene, shapes, colour and pictures"
+2026-11-26T11:31:20.356736Z,regex-xml,0.1.0,0,0,https://github.com/visitishan/regex-xml-rust,"A lightweight, fault-tolerant, text-first XML extraction library for Rust."
+2026-11-26T11:32:02.116991Z,oq-media,0.1.0,0,0,https://github.com/sanitor/oq-media,Cross-platform timestamp-addressed media API with native Windows and macOS backends
+2026-11-26T11:32:17.992812Z,railmap,0.1.2,0,0,https://github.com/ProtoFN/railmap,Light and effective data structure for fast reads.
+2026-11-26T11:32:30.24043Z,slint_code_editor,0.1.0,0,0,https://github.com/sanitor/slint-code-editor,Reusable multiline code editor for Rust applications built with Slint
+2026-11-26T11:37:49.296043Z,fastauth-plugin-magic-link,0.3.0,0,0,https://github.com/lassejlv/fastauth,"Magic link sign-in for fastauth, wire-compatible with Better Auth's magicLink plugin."
+2026-11-26T11:37:52.15327Z,fastauth-plugin-email-otp,0.3.0,0,0,https://github.com/lassejlv/fastauth,"Email one-time codes for fastauth: sign-in, email verification and password reset, wire-compatible with Better Auth's emailOTP plugin."
+2026-11-26T11:37:54.900382Z,fastauth-plugin-bearer,0.3.0,0,0,https://github.com/lassejlv/fastauth,"Bearer tokens for fastauth: Authorization: Bearer sessions and the set-auth-token header, wire-compatible with Better Auth."
+2026-11-26T11:37:56.946054Z,speedyspec-wp-utf8,0.6.0,0,0,https://github.com/SpeedySpec/speedyspec-platform,"WordPress's UTF-8 helpers (utf8.php, compat-utf8.php) as of WordPress 7.1.5: scanning, validation, scrubbing and code point counting over bytes."
+2026-11-26T11:37:58.671793Z,speedyspec-wp-text-contracts,0.6.0,0,0,https://github.com/SpeedySpec/speedyspec-platform,"The ports WordPress's formatting functions read outside facts through (site settings, translations, locale, diagnostics), apart from any implementation."
+2026-11-26T11:38:00.26987Z,speedyspec-wp-media-contracts,0.5.0,0,0,https://github.com/SpeedySpec/speedyspec-platform,The media reader port and the library-neutral description of a media file (MediaInfo).
+2026-11-26T11:38:01.9161Z,speedyspec-wp-kses-contracts,0.6.0,0,0,https://github.com/SpeedySpec/speedyspec-platform,WordPress's kses sanitizer as contracts: the allowlist types and the ports any kses implementation fills.
+2026-11-26T11:38:03.637633Z,speedyspec-wp-token-map,0.6.0,0,0,https://github.com/SpeedySpec/speedyspec-platform,"WordPress's WP_Token_Map in Rust, in WordPress's own layout, and the HTML5 named character references as a compile-time table."
+2026-11-26T11:38:05.945679Z,fastauth-plugin-jwt,0.3.0,0,0,https://github.com/lassejlv/fastauth,"JWTs for fastauth: a /token endpoint, a JWKS with rotating keys encrypted at rest, and a verifier for resource servers, wire-compatible with Better Auth."
+2026-11-26T11:38:16.545971Z,fastauth-plugin-passkey,0.3.0,0,0,https://github.com/lassejlv/fastauth,"Passkeys (WebAuthn) for fastauth, built on webauthn-rs and wire-compatible with Better Auth's passkey plugin."
+2026-11-26T11:38:25.64156Z,arus-ingest,0.1.0,0,0,https://github.com/farhan-syah/arus,"Meteorological, tidal, and gauge telemetry ingestion utilities for ARUS."
+2026-11-26T11:38:55.094411Z,tilo-winit,0.5.0,0,0,https://github.com/rust-windowing/winit,"winit 0.30.13 (https://github.com/rust-windowing/winit) with the additions the Tilo SDK uses: synthetic key events, Wayland drag sources and swipe gestures, a macOS quit request. Tilo's fork; see TIL…"
+2026-11-26T11:46:16.337321Z,colorless-codegen,0.1.0,0,0,,Zero-cost building blocks and compiler support for function coloring in Rust
+2026-11-26T11:46:18.041542Z,colorless-macros,0.1.0,0,0,,Zero-cost building blocks and compiler support for function coloring in Rust
+2026-11-26T11:46:19.555648Z,colorless-std,0.1.0,0,0,,Zero-cost building blocks and compiler support for function coloring in Rust
+2026-11-26T11:46:21.226132Z,colorless,0.1.0,0,0,https://github.com/veecore/colorless-rs,Zero-cost building blocks and compiler support for function coloring in Rust
+2026-11-26T11:47:35.990157Z,speedyspec-wp-html-split,0.2.0,0,0,https://github.com/SpeedySpec/speedyspec-platform,"WordPress's wp_html_split() in Rust: splits HTML into text and tag chunks with get_html_split_regex()'s exact semantics, without allocating."
+2026-11-26T11:48:23.03069Z,arus-jobs,0.1.0,0,0,https://github.com/farhan-syah/arus,Asynchronous simulation job queue and lifecycle management for ARUS.
+2026-11-26T11:48:32.983164Z,dolce-model,0.8.9,0,0,https://github.com/lodebar2026/dolce,悦谱 Dolce 的模型与格式层：语义模型 ScoreDoc（查询、MusicXML 读写与表层、投影、编辑）、底层工具（base：JS 数值口径、分数、UTF-16 区间、几何）、演唱顺序 / 断句 / 时间轴 / MIDI（play）、排版行视图（view）、各源格式读写（formats）、简繁词表引擎（hanconv-dict 特性）。无平台依赖，能编到 wasm
+2026-11-26T11:48:47.726548Z,dolce-engrave,0.8.9,0,0,https://github.com/lodebar2026/dolce,悦谱 Dolce 的排版底座：谱面元素（每种元素一份画法与定位判据，简谱与五线谱 / 混排两条引擎共用）、量字层（text：量字 trait、标点挤压、浏览器口径层、回放；native 特性带系统文字引擎，fontfile 特性带字体文件层）、页面场景（scene：节点、身份、SVG 出口、SMuFL 元数据）、样式层（style：.ss、级联、主题、三把尺子）。不开 native / font…
+2026-11-26T11:48:55.457126Z,tilo-accesskit-winit,0.5.0,0,0,https://github.com/AccessKit/accesskit,"accesskit_winit 0.34.0 (https://github.com/AccessKit/accesskit), unchanged, built on tilo-winit so it shares the Tilo SDK's winit types. Tilo's fork; see TILO-FORK.md."
+2026-11-26T11:48:56.887464Z,dolce-layout-jianpu,0.8.9,0,0,https://github.com/lodebar2026/dolce,悦谱 Dolce 的简谱引擎（照 src/layout/jianpu/）：排版行视图 → 定位结构（place）→ 场景节点（compose）
+2026-11-26T11:49:03.543361Z,dolce-layout-staff,0.8.9,0,0,https://github.com/lodebar2026/dolce,悦谱 Dolce 的五线谱 / 混排引擎（照 src/mixed/）：读入建树 → 横向 / 分系统 / 纵向 → 画系统与简谱叠层 → 装页
+2026-11-26T11:49:19.804935Z,dolce-layout,0.8.9,0,0,https://github.com/lodebar2026/dolce,悦谱 Dolce 排版的对外入口：宿主无关的文档会话（修订号、过期拒绝、按修订取页 / 编辑 / 写出 / 试听；网页 wasm、桌面 Tauri、命令行共用）、成书排版（book：DrawList、书级部件、成书重排、混排歌本）与导出（export 特性：场景 / 成书 → PDF（krilla）、场景 → PPTX）
+2026-11-26T11:50:42.743315Z,miyo-rpc,0.4.0,0,0,https://github.com/Miyo-explore/miyo-rpc-labs,Stellar RPC diagnostics and compatibility testing toolkit
+2026-11-26T11:50:45.855116Z,skippy-events,0.80.3,0,0,https://github.com/Mesh-LLM/skippy,"Inference correlation, usage and lifecycle contracts for Skippy"
+2026-11-26T11:50:46.351391Z,skippy-guardrails,0.80.3,0,0,https://github.com/Mesh-LLM/skippy,Reusable guardrail and compaction primitives for Skippy OpenAI-compatible serving
+2026-11-26T11:50:46.550425Z,skippy-hf-hub,0.80.3,0,0,https://github.com/Mesh-LLM/skippy,Rust client for the Hugging Face Hub API
+2026-11-26T11:50:47.028741Z,skippy-model-ref,0.80.3,0,0,https://github.com/Mesh-LLM/skippy,Model reference parsing and normalization helpers for Skippy
+2026-11-26T11:50:47.339738Z,skippy-native-runtime,0.80.3,0,0,https://github.com/Mesh-LLM/skippy,"Native runtime manifest, selection, and cache policy for Skippy"
+2026-11-26T11:55:15.87891Z,windowgate,0.1.0,0,0,https://github.com/ashiemugwa1997/portfolio,"Sliding-window rate limiter per key, with a hard cap on tracked keys so address-rotating floods cannot exhaust memory. Thread-safe, no dependencies."
+2026-11-26T11:55:32.522511Z,fuzzrank,0.1.0,0,0,https://github.com/ashiemugwa1997/portfolio,"Small, dependency-free fuzzy search: every query word must match, word starts and runs rank higher. Unicode-safe and WebAssembly-friendly."
+2026-11-26T11:55:41.45375Z,contact-guard,0.1.0,0,0,https://github.com/ashiemugwa1997/portfolio,"Validation, honeypot and header-injection-safe email composition for website contact forms."
+2026-11-26T11:55:57.013173Z,tower-bulwark,0.1.0,0,0,https://github.com/ashiemugwa1997/portfolio,"Tower layer for safer web services: strict security headers, same-origin writes (CSRF), trusted-proxy client IP, per-IP rate limiting and pluggable request rules."
+2026-11-26T11:57:36.138434Z,speedyspec-wp-crypto-contracts,0.6.0,0,0,https://github.com/SpeedySpec/speedyspec-platform,"Contracts for WordPress's sodium functions: the hash, signature, encoding, clock, translation and filter ports."
+2026-11-26T11:58:22.730307Z,arus-ml,0.1.0,0,0,https://github.com/farhan-syah/arus,Machine-learning surrogate and post-processing hooks for ARUS.
+2026-11-26T11:58:28.460307Z,skippy-hardware-profile,0.80.3,0,0,https://github.com/Mesh-LLM/skippy,Host hardware profile detection for Skippy native runtime selection
+2026-11-26T11:58:54.536223Z,tilo-presentation,0.5.0,0,0,https://code.tilo.so/tilo/tilo,"Native presentation feedback, input provenance and clock observations behind a portable host boundary."
+2026-11-26T11:59:51.855866Z,dolce-omr-core,0.8.9,0,0,https://github.com/lodebar2026/dolce,悦谱 Dolce 识别的共用底层（简谱、五线谱两条路线共用）：图像类型、几何与统计、像素内核、阶段缓存；文字处理（text：和弦文法、页眉、歌词切字与对音）；谱面元素层（sheet：谱表、元素库与证据、归属与互斥）；识别结果直出 ScoreDoc（todoc）；OCR 前后处理与推理后端（ocr；native / tract 特性）；取数层（source，pdf 特性：PDF（PDFium）与图…
+2026-11-26T12:00:30.005Z,tedera-rs,0.1.2,0,0,https://github.com/OLAP-Company/TEDERA-OJDBC,The official Rust SDK for TEDERA.
+2026-11-26T12:07:35.528754Z,speedyspec-runtime-contract,0.6.0,0,0,https://github.com/SpeedySpec/speedyspec-platform,"What speedyspec-server and speedyspec-php-runtime agree on: the worker spec, the per-request report and the contract version."
+2026-11-26T12:08:22.787418Z,arus-scenarios,0.1.0,0,0,https://github.com/farhan-syah/arus,"Flood scenario presets, rainfall hyetographs, and intervention builders for ARUS."
+2026-11-26T12:08:31.900341Z,skippy-inference-api,0.80.3,0,0,https://github.com/Mesh-LLM/skippy,OpenAI-compatible HTTP frontend shared by Skippy runtimes
+2026-11-26T12:08:55.890418Z,tilo-webview,0.5.0,0,0,https://code.tilo.so/tilo/tilo,"The embedded web engine client: the Chromium helper transport, the page protocol, and the commands and events a viewer exchanges with a web engine. It links no toolkit."
+2026-11-26T12:10:23.687782Z,dolce-omr-jianpu,0.8.9,0,0,https://github.com/lodebar2026/dolce,悦谱 Dolce 简谱路线：成像、数字行与小节线、调号拍号、数字与八度点 / 减时线 / 增时线 / 附点、歌词与页眉、弧，产出 RecognizedScore（JSON）
+2026-11-26T12:12:37.715805Z,d-cli,0.1.1,0,0,https://github.com/liuchong/d,"Thin CLI, environment, and stderr logging shell for d"
+2026-11-26T12:12:39.785176Z,d-frame,0.1.1,0,0,https://github.com/liuchong/d,"Zero-dependency plugin microkernel with scoped services, reactive fibers, and structured async effects"
+2026-11-26T12:12:43.147771Z,d-net-api,0.1.1,0,0,https://github.com/liuchong/d,Layer 1 transport and connection lifecycle contracts for d
+2026-11-26T12:12:44.730599Z,d-proxy-api,0.1.1,0,0,https://github.com/liuchong/d,"Zero-dependency Layer 3 reverse proxy, load balancing, and health check contracts for d"
+2026-11-26T12:12:47.034093Z,d-render-api,0.1.1,0,0,https://github.com/liuchong/d,Layer 3/4 Markdown rendering and syntax highlighting contracts for d
+2026-11-26T12:13:25.072169Z,ruikit,0.3.0-rc.1,0,0,https://github.com/majiayu000/rui,A Rust UI framework for native macOS apps with Metal rendering and declarative components
+2026-11-26T12:18:25.588635Z,arus-cli,0.1.0,0,0,https://github.com/farhan-syah/arus,Command-line interface for running ARUS flood simulations and dataset checks.
+2026-11-26T12:18:28.711444Z,skippy-model-artifact,0.80.3,0,0,https://github.com/Mesh-LLM/skippy,"Model artifact selection, identity, capability inference, and GGUF metadata for Skippy"
+2026-11-26T12:18:55.548041Z,tilo-page-engine,0.5.0,0,0,https://code.tilo.so/tilo/tilo,"The page a window shows, one request at a time: a window's engine, the page's own answers, and the events its view shows"
