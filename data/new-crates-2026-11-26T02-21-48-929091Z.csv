@@ -1,0 +1,30 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-26T01:25:20.642162Z,cw-environment,0.3.0,0,0,https://github.com/ComputaCo/computaco-core-public,"ComputerWorld's environment: sessions on machines, actions, observations, scenes, snapshots and replay"
+2026-11-26T01:28:54.561188Z,tilo-host-search,0.5.0,0,0,https://code.tilo.so/tilo/tilo,Hands a result the host operating system's search asks an app to open to the Tilo runtime the app attached to.
+2026-11-26T01:36:12.117016Z,tc_pbe,0.1.0,0,0,https://github.com/TomiCheng/tc_kdf,"Password-based key derivation for PBE after Bouncy Castle: PBKDF1, PBKDF2, PKCS#12 and OpenSSL's EVP_BytesToKey."
+2026-11-26T01:38:55.677517Z,tilo-key-group,0.5.0,0,0,https://code.tilo.so/tilo/tilo,"A workspace's MLS group: its members, epochs and content keys."
+2026-11-26T01:42:36.334558Z,cw-font-pack-cjk,0.3.0,0,0,https://github.com/ComputaCo/computaco-core-public,"ComputerWorld's font pack, part three: Korean, Traditional Chinese and Japanese"
+2026-11-26T01:46:36.373083Z,stogas-sev-snp,0.1.0-alpha.6,0,0,https://github.com/StogasAI/stogas,"Networkless verification of AMD SEV-SNP attestation reports, for no_std, native and WebAssembly"
+2026-11-26T01:46:47.624492Z,stogas-sigstore,0.1.0-alpha.6,0,0,https://github.com/StogasAI/stogas,Networkless verification of the GitHub/Sigstore in-toto profile
+2026-11-26T01:46:59.001589Z,stogas-core,0.1.0-alpha.6,0,0,https://github.com/StogasAI/stogas,Offline verifier for Stogas confidential gateway evidence
+2026-11-26T01:47:10.551556Z,stogas,0.1.0-alpha.6,0,0,https://github.com/StogasAI/stogas,The Stogas SDK for verified confidential AI connections
+2026-11-26T01:47:21.915346Z,stogas-cli,0.1.0-alpha.6,0,0,https://github.com/StogasAI/stogas,"The Stogas command line: sign-up, top-ups, policy editing, credential checks, a verified local endpoint, offline verification and local encryption"
+2026-11-26T01:48:54.320722Z,tilo-local-identity,0.5.0,0,0,https://code.tilo.so/tilo/tilo,Who sits at this device: the process's one identity boundary and the source a host installs.
+2026-11-26T01:57:31.526037Z,tc_pwhash,0.1.0,0,0,https://github.com/TomiCheng/tc_kdf,"Password hashing after Bouncy Castle: Argon2, bcrypt with OpenBSD's hash strings, and scrypt."
+2026-11-26T01:58:54.469384Z,tilo-mime,0.5.0,0,0,https://code.tilo.so/tilo/tilo,"A file's MIME type by its extension, from a table the loader never relocates."
+2026-11-26T02:00:20.9051Z,cw-font-pack-emoji,0.3.0,0,0,https://github.com/ComputaCo/computaco-core-public,"ComputerWorld's font pack, part one: colour and monochrome emoji, and the Sinhala, Gujarati, Myanmar, Ethiopic, Khmer, Tamil, Gurmukhi and Lao faces"
+2026-11-26T02:07:27.915972Z,acorn-store,0.7.0,0,0,https://code.ornl.gov/research-enablement/acorn,Durable daemon job and run history storage for ACORN
+2026-11-26T02:07:31.643973Z,cw-font-pack-sc,0.3.0,0,0,https://github.com/ComputaCo/computaco-core-public,"ComputerWorld's font pack, part two: Simplified Chinese, regular and bold"
+2026-11-26T02:08:55.362097Z,tilo-net,0.5.0,0,0,https://code.tilo.so/tilo/tilo,"The network capability on Linux, macOS and the web: async HTTP with streaming bodies, WebSocket, WebTransport, network status, raw sockets on the desktop, and Tilo's one TLS provider and trust source."
+2026-11-26T02:10:35.917143Z,xlfn-engine,0.1.0,0,0,https://github.com/nakashima-hikaru/xlfn,Lifecycle identities and host mutation contracts for xlfn
+2026-11-26T02:10:40.196765Z,xlfn-host,0.1.0,0,0,https://github.com/nakashima-hikaru/xlfn,Excel and Windows host adapter primitives for xlfn
+2026-11-26T02:10:43.843205Z,xlfn-services,0.1.0,0,0,https://github.com/nakashima-hikaru/xlfn,Host-independent service backends for xlfn
+2026-11-26T02:14:18.198549Z,cuno-core,0.1.0,0,0,https://github.com/itsakeyfut/cuno,"Error classification, output, the cuno home, and the environment snapshot, shared by the other crates."
+2026-11-26T02:14:20.590679Z,cuno-test,0.1.0,0,0,https://github.com/itsakeyfut/cuno,"Test discovery, execution, and result reporting."
+2026-11-26T02:14:21.958869Z,cuno-toolchain,0.1.0,0,0,https://github.com/itsakeyfut/cuno,"Compiler abstraction, detection, per-compiler implementations, and flag translation."
+2026-11-26T02:14:24.258238Z,cuno-manifest,0.1.0,0,0,https://github.com/itsakeyfut/cuno,Loading and validating cuno.toml and config.toml.
+2026-11-26T02:14:27.147453Z,cuno-build,0.1.0,0,0,https://github.com/itsakeyfut/cuno,"Building and executing the build graph, change detection, and compile_commands.json."
+2026-11-26T02:14:36.987352Z,cw-internet,0.3.0,0,0,https://github.com/ComputaCo/computaco-core-public,"The built-in internet every world joins unless it opts out: public sites, backbone and public DNS"
+2026-11-26T02:18:26.712789Z,octara-headless,0.0.2,0,0,https://github.com/octoii-works/octara,Unstyled interaction parts and Copy state controllers for Octara.
+2026-11-26T02:18:55.911252Z,tilo-font-catalog,0.5.0,0,0,https://code.tilo.so/tilo/tilo,"Tilo's pinned font catalog: its manifest, where it is installed, and verification of its files against their pinned hashes"
+2026-11-26T02:19:07.00679Z,cuno-tools,0.1.0,0,0,https://github.com/itsakeyfut/cuno,cuno fmt and cuno lint (clang-format / clang-tidy).

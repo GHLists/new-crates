@@ -8,43 +8,43 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-26 01:20 UTC
+## Latest list — 2026-11-26 02:21 UTC
 
-New crates published between 2026-11-26 00:19 UTC and 2026-11-26 01:20 UTC.
+New crates published between 2026-11-26 01:20 UTC and 2026-11-26 02:21 UTC.
 
-[Full CSV](data/new-crates-2026-11-26T01-20-10-86161Z.csv)
+[Full CSV](data/new-crates-2026-11-26T02-21-48-929091Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-26 00:21:22 | [rs-geoip](https://crates.io/crates/rs-geoip) | 0.2.0 | 0 | Offline IP geolocation with local packed databases |
-| 2026-11-26 00:24:27 | [keinbonus](https://crates.io/crates/keinbonus) | 0.1.0 | 0 | Colour ground truth: CICP (H.273) colour spaces, transfer functions, YCbCr matr… |
-| 2026-11-26 00:31:26 | [hammock](https://crates.io/crates/hammock) | 0.1.0 | 0 | Express-style REST APIs for Rust |
-| 2026-11-26 00:32:05 | [cw-pyvm](https://crates.io/crates/cw-pyvm) | 0.3.0 | 0 | A deterministic Python 3 interpreter for simulated computers: bytecode VM, stdl… |
-| 2026-11-26 00:35:07 | [zgx-arboard](https://crates.io/crates/zgx-arboard) | 3.6.3 | 0 | arboard 3.6.1 writing text, HTML, formats of the caller's and a DIB in one chan… |
-| 2026-11-26 00:39:18 | [cw-sql](https://crates.io/crates/cw-sql) | 0.3.0 | 0 | A pure, deterministic SQLite-compatible SQL engine that reads and writes the SQ… |
-| 2026-11-26 00:46:38 | [cw-computer](https://crates.io/crates/cw-computer) | 0.3.0 | 0 | A simulated computer for ComputerWorld: filesystem, processes, a POSIX and a Wi… |
-| 2026-11-26 00:47:29 | [tilo-cosmic-text](https://crates.io/crates/tilo-cosmic-text) | 0.5.0 | 0 | cosmic-text 0.19.0 (https://github.com/pop-os/cosmic-text) shaping variable fon… |
-| 2026-11-26 00:47:34 | [tilo-engine-loader](https://crates.io/crates/tilo-engine-loader) | 0.5.0 | 0 | Opens a runtime engine library the first time the toolkit uses it, instead of a… |
-| 2026-11-26 00:47:38 | [tilo-fs-content](https://crates.io/crates/tilo-fs-content) | 0.5.0 | 0 | The storage daemon's content format: size-tiered FastCDC chunking, BLAKE3 chunk… |
-| 2026-11-26 00:47:43 | [tilo-fs-protocol](https://crates.io/crates/tilo-fs-protocol) | 0.5.0 | 0 | The collaborative filesystem's wire records and local control protocols: file r… |
-| 2026-11-26 00:48:54 | [tilo-headless-schema](https://crates.io/crates/tilo-headless-schema) | 0.5.0 | 0 | Shared wire schema for Tilo headless app scenarios |
-| 2026-11-26 00:53:45 | [cw-network](https://crates.io/crates/cw-network) | 0.3.0 | 0 | ComputerWorld's simulated network: nodes, links, addresses and DNS |
-| 2026-11-26 00:58:57 | [tilo-highlight](https://crates.io/crates/tilo-highlight) | 0.5.0 | 0 | The vocabulary of syntax highlighting: token kinds, spans, and the grammar set… |
-| 2026-11-26 01:05:33 | [vers3](https://crates.io/crates/vers3) | 0.2.0 | 0 | Explicit-state model checking library |
-| 2026-11-26 01:08:54 | [tilo-highlight-grammars](https://crates.io/crates/tilo-highlight-grammars) | 0.5.0 | 0 | Tilo's grammar set for syntax highlighting: syntect as a tokenizer over two-fac… |
-| 2026-11-26 01:10:52 | [cw-trajectory](https://crates.io/crates/cw-trajectory) | 0.3.0 | 0 | ComputerWorld's trajectories: recorded steps, observations and their hashes |
-| 2026-11-26 01:12:15 | [opendeskphone-svg](https://crates.io/crates/opendeskphone-svg) | 3.1.0 | 0 | Open Desk Phone: the rasterizer of SVG artwork, shared by the firmware's build… |
-| 2026-11-26 01:12:29 | [opendeskphone-app-sdk-macros](https://crates.io/crates/opendeskphone-app-sdk-macros) | 3.1.0 | 0 | The procedural macros of opendeskphone-app-sdk, which re-exports them |
-| 2026-11-26 01:13:19 | [zgx-audio](https://crates.io/crates/zgx-audio) | 0.2.0 | 0 | Sound for zgx apps: a sample-accurate mixer with buses, fades and a limiter, WA… |
-| 2026-11-26 01:13:47 | [pgmem-exec](https://crates.io/crates/pgmem-exec) | 0.1.0 | 0 | pgmem's binder (names, types, operator resolution) and executor (relational ope… |
-| 2026-11-26 01:13:53 | [blastr-mcp](https://crates.io/crates/blastr-mcp) | 0.3.0 | 0 | Internal crate of Blastr (the MCP server for AI agents); not a stable API |
-| 2026-11-26 01:14:01 | [pgmem-wire](https://crates.io/crates/pgmem-wire) | 0.1.0 | 0 | Postgres frontend/backend protocol (v3) server for pgmem. |
-| 2026-11-26 01:14:06 | [pgmem](https://crates.io/crates/pgmem) | 0.1.0 | 0 | An in-memory, Postgres-wire-compatible database for tests. Fidelity over perfor… |
-| 2026-11-26 01:14:28 | [zgx-module-macros](https://crates.io/crates/zgx-module-macros) | 0.2.0 | 0 | The macros of zgx-module: a native module's functions as plain Rust functions,… |
-| 2026-11-26 01:14:57 | [zgx-module](https://crates.io/crates/zgx-module) | 0.2.0 | 0 | Native modules for zgx apps: an app's own Rust, built apart from zgx as a libra… |
-| 2026-11-26 01:16:02 | [zgx-text](https://crates.io/crates/zgx-text) | 0.2.0 | 0 | zgx's text shaping and measuring with no renderer: the fonts, shaped text and p… |
-| 2026-11-26 01:18:02 | [cw-kernel](https://crates.io/crates/cw-kernel) | 0.3.0 | 0 | ComputerWorld's runtime kernel: machines, the network, services, the logical cl… |
-| 2026-11-26 01:18:55 | [tilo-history](https://crates.io/crates/tilo-history) | 0.5.0 | 0 | Renders Tilo history entries as sentences in the reader's language. |
+| 2026-11-26 01:25:20 | [cw-environment](https://crates.io/crates/cw-environment) | 0.3.0 | 0 | ComputerWorld's environment: sessions on machines, actions, observations, scene… |
+| 2026-11-26 01:28:54 | [tilo-host-search](https://crates.io/crates/tilo-host-search) | 0.5.0 | 0 | Hands a result the host operating system's search asks an app to open to the Ti… |
+| 2026-11-26 01:36:12 | [tc_pbe](https://crates.io/crates/tc_pbe) | 0.1.0 | 0 | Password-based key derivation for PBE after Bouncy Castle: PBKDF1, PBKDF2, PKCS… |
+| 2026-11-26 01:38:55 | [tilo-key-group](https://crates.io/crates/tilo-key-group) | 0.5.0 | 0 | A workspace's MLS group: its members, epochs and content keys. |
+| 2026-11-26 01:42:36 | [cw-font-pack-cjk](https://crates.io/crates/cw-font-pack-cjk) | 0.3.0 | 0 | ComputerWorld's font pack, part three: Korean, Traditional Chinese and Japanese |
+| 2026-11-26 01:46:36 | [stogas-sev-snp](https://crates.io/crates/stogas-sev-snp) | 0.1.0-alpha.6 | 0 | Networkless verification of AMD SEV-SNP attestation reports, for no_std, native… |
+| 2026-11-26 01:46:47 | [stogas-sigstore](https://crates.io/crates/stogas-sigstore) | 0.1.0-alpha.6 | 0 | Networkless verification of the GitHub/Sigstore in-toto profile |
+| 2026-11-26 01:46:59 | [stogas-core](https://crates.io/crates/stogas-core) | 0.1.0-alpha.6 | 0 | Offline verifier for Stogas confidential gateway evidence |
+| 2026-11-26 01:47:10 | [stogas](https://crates.io/crates/stogas) | 0.1.0-alpha.6 | 0 | The Stogas SDK for verified confidential AI connections |
+| 2026-11-26 01:47:21 | [stogas-cli](https://crates.io/crates/stogas-cli) | 0.1.0-alpha.6 | 0 | The Stogas command line: sign-up, top-ups, policy editing, credential checks, a… |
+| 2026-11-26 01:48:54 | [tilo-local-identity](https://crates.io/crates/tilo-local-identity) | 0.5.0 | 0 | Who sits at this device: the process's one identity boundary and the source a h… |
+| 2026-11-26 01:57:31 | [tc_pwhash](https://crates.io/crates/tc_pwhash) | 0.1.0 | 0 | Password hashing after Bouncy Castle: Argon2, bcrypt with OpenBSD's hash string… |
+| 2026-11-26 01:58:54 | [tilo-mime](https://crates.io/crates/tilo-mime) | 0.5.0 | 0 | A file's MIME type by its extension, from a table the loader never relocates. |
+| 2026-11-26 02:00:20 | [cw-font-pack-emoji](https://crates.io/crates/cw-font-pack-emoji) | 0.3.0 | 0 | ComputerWorld's font pack, part one: colour and monochrome emoji, and the Sinha… |
+| 2026-11-26 02:07:27 | [acorn-store](https://crates.io/crates/acorn-store) | 0.7.0 | 0 | Durable daemon job and run history storage for ACORN |
+| 2026-11-26 02:07:31 | [cw-font-pack-sc](https://crates.io/crates/cw-font-pack-sc) | 0.3.0 | 0 | ComputerWorld's font pack, part two: Simplified Chinese, regular and bold |
+| 2026-11-26 02:08:55 | [tilo-net](https://crates.io/crates/tilo-net) | 0.5.0 | 0 | The network capability on Linux, macOS and the web: async HTTP with streaming b… |
+| 2026-11-26 02:10:35 | [xlfn-engine](https://crates.io/crates/xlfn-engine) | 0.1.0 | 0 | Lifecycle identities and host mutation contracts for xlfn |
+| 2026-11-26 02:10:40 | [xlfn-host](https://crates.io/crates/xlfn-host) | 0.1.0 | 0 | Excel and Windows host adapter primitives for xlfn |
+| 2026-11-26 02:10:43 | [xlfn-services](https://crates.io/crates/xlfn-services) | 0.1.0 | 0 | Host-independent service backends for xlfn |
+| 2026-11-26 02:14:18 | [cuno-core](https://crates.io/crates/cuno-core) | 0.1.0 | 0 | Error classification, output, the cuno home, and the environment snapshot, shar… |
+| 2026-11-26 02:14:20 | [cuno-test](https://crates.io/crates/cuno-test) | 0.1.0 | 0 | Test discovery, execution, and result reporting. |
+| 2026-11-26 02:14:21 | [cuno-toolchain](https://crates.io/crates/cuno-toolchain) | 0.1.0 | 0 | Compiler abstraction, detection, per-compiler implementations, and flag transla… |
+| 2026-11-26 02:14:24 | [cuno-manifest](https://crates.io/crates/cuno-manifest) | 0.1.0 | 0 | Loading and validating cuno.toml and config.toml. |
+| 2026-11-26 02:14:27 | [cuno-build](https://crates.io/crates/cuno-build) | 0.1.0 | 0 | Building and executing the build graph, change detection, and compile_commands.… |
+| 2026-11-26 02:14:36 | [cw-internet](https://crates.io/crates/cw-internet) | 0.3.0 | 0 | The built-in internet every world joins unless it opts out: public sites, backb… |
+| 2026-11-26 02:18:26 | [octara-headless](https://crates.io/crates/octara-headless) | 0.0.2 | 0 | Unstyled interaction parts and Copy state controllers for Octara. |
+| 2026-11-26 02:18:55 | [tilo-font-catalog](https://crates.io/crates/tilo-font-catalog) | 0.5.0 | 0 | Tilo's pinned font catalog: its manifest, where it is installed, and verificati… |
+| 2026-11-26 02:19:07 | [cuno-tools](https://crates.io/crates/cuno-tools) | 0.1.0 | 0 | cuno fmt and cuno lint (clang-format / clang-tidy). |
 
 ## Data source
 
