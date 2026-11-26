@@ -1,0 +1,61 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-26T13:20:45.723212Z,grus-eda-core,0.13.0,0,0,https://github.com/grus-systems/grus-eda,"Physical-design engine core for the open sky130 PDK: LEF/DEF/SPEF/Liberty/SDC readers, analytical placement, static timing analysis, global/detailed routing, and a LEF-expressible DRC subset."
+2026-11-26T13:22:20.420817Z,grus-eda,0.13.0,0,0,https://github.com/grus-systems/grus-eda,"Fast physical-design research toolkit for the open sky130 PDK — timing, placement, congestion, power, IR-drop, detailed routing, and LEF-expressible DRC in one Rust binary."
+2026-11-26T13:23:26.277719Z,tuiframework,0.1.0,0,0,https://github.com/ymgyt/tuiframework,"An event-driven application loop, drivers, and layered keymaps for Ratatui"
+2026-11-26T13:24:25.63987Z,gleeman,0.0.0,0,0,,"A shared, federated knowledge base for coding agents, served over MCP. Name reserved; the first release is in preparation."
+2026-11-26T13:24:40.209686Z,fastauth-plugin-username,0.4.0,0,0,https://github.com/lassejlv/fastauth,"Username sign-in for fastauth, wire-compatible with Better Auth's username plugin."
+2026-11-26T13:24:43.16259Z,fastauth-plugin-anonymous,0.4.0,0,0,https://github.com/lassejlv/fastauth,"Anonymous sign-in for fastauth, wire-compatible with Better Auth's anonymous plugin."
+2026-11-26T13:24:46.392141Z,fastauth-plugin-multi-session,0.4.0,0,0,https://github.com/lassejlv/fastauth,"Several signed-in accounts per browser for fastauth, wire-compatible with Better Auth's multiSession plugin."
+2026-11-26T13:26:43.174346Z,vehicle-manager-axum,0.1.0,0,0,https://gitlair.com/sporeador/fern_sim,"Fern simulation, from the cellular level up."
+2026-11-26T13:27:35.250876Z,speedyspec-xmlrpc-contracts,0.2.0,0,0,https://github.com/SpeedySpec/speedyspec-platform,"The XML-RPC transport's contracts: the binding, method calls and responses, faults, and the mapping, fault, hooks and login ports."
+2026-11-26T13:28:28.630351Z,skippy-config,0.80.3,0,0,https://github.com/Mesh-LLM/skippy,"Standalone Skippy settings for model, runtime and worker configuration"
+2026-11-26T13:28:39.857333Z,disnana-akari,0.1.1,0,0,https://github.com/disnana/Disnana-Akari,An asynchronous Discord bot framework built on Twilight.
+2026-11-26T13:28:54.462313Z,tilo-workspace-emoji,0.5.0,0,0,https://code.tilo.so/tilo/tilo,A workspace's own emoji: the workspace record every app draws `:name:` from
+2026-11-26T13:30:11.298232Z,anth-error,0.8.0,0,0,https://github.com/janitochvvll2311/anthracite-panel,The shared error kind and envelope of Anthracite
+2026-11-26T13:31:22.946912Z,tower-cross-origin,0.1.0,0,0,https://github.com/ashiemugwa1997/portfolio,"CSRF protection without tokens or sessions: refuses cross-origin writes using Sec-Fetch-Site and Origin, like Go's net/http CrossOriginProtection. Tower layer included."
+2026-11-26T13:33:09.585681Z,anth-bundle,0.8.0,0,0,https://github.com/janitochvvll2311/anthracite-panel,"The canonical bundle message, hashes and Ed25519 signature primitives"
+2026-11-26T13:34:01.662592Z,zrs-zsh,0.1.0,0,0,https://github.com/ph0ryn/zrs,"A blazing-fast, on-demand Zsh tool for abbreviations, snippets, history search, and custom fuzzy completion"
+2026-11-26T13:36:39.196706Z,anth-guest,0.8.0,0,0,https://github.com/janitochvvll2311/anthracite-panel,The guest SDK: host WIT and the wit-bindgen surface wasm apps use
+2026-11-26T13:37:35.656294Z,speedyspec-wp-text-diff-contracts,0.3.0,0,0,https://github.com/SpeedySpec/speedyspec-platform,"Contracts for WordPress's text diff: edit operations, table options, and the differ and line filter ports."
+2026-11-26T13:37:41.615258Z,blofeld,0.1.0,0,0,https://github.com/economico/blofeld,"Fast, zero-config property-based testing and autonomous fuzzing for MCP servers"
+2026-11-26T13:38:04.992722Z,anth-service,0.8.0,0,0,https://github.com/janitochvvll2311/anthracite-panel,The native service side of the engine's private WIT-RPC protocol
+2026-11-26T13:38:09.272033Z,anth-client,0.8.0,0,0,https://github.com/janitochvvll2311/anthracite-panel,Generated clients for Anthracite apps
+2026-11-26T13:38:27.328182Z,skippy-serving,0.80.3,0,0,https://github.com/Mesh-LLM/skippy,Embedded Skippy staged runtime server
+2026-11-26T13:38:55.730814Z,tilo-app,0.5.0,0,0,https://code.tilo.so/tilo/tilo,"The Tilo application SDK: one app source for Linux, macOS and the web."
+2026-11-26T13:40:38.295415Z,cargo-anth,0.8.0,0,0,https://github.com/janitochvvll2311/anthracite-panel,"Create, build, package, sign and verify Anthracite apps"
+2026-11-26T13:47:35.269862Z,speedyspec-wp-text-diff,0.3.0,0,0,https://github.com/SpeedySpec/speedyspec-platform,"WordPress's wp_text_diff(): a port of Horde's native diff engine and WordPress's table renderer, with SIMD string work."
+2026-11-26T13:48:26.770329Z,skippy-api,0.80.3,0,0,https://github.com/Mesh-LLM/skippy,Shared Skippy model preparation and serving lifecycle API
+2026-11-26T13:48:55.8524Z,tilo-app-package,0.5.0,0,0,https://code.tilo.so/tilo/tilo,"The Tilo package format (.tapp): manifest, signing and verification."
+2026-11-26T13:56:14.259322Z,kintsugi-harness,3.1.1,0,0,https://github.com/tunguyen1993/kintsugi-harness,"Sub-millisecond Rust native PreToolUse guardrail scanner, 7-domain typed obligation prover, 80-entry pitfall lexicon, and KMI/1 context compressor for AI coding agents."
+2026-11-26T13:57:35.390227Z,speedyspec-wp-shortcode-contracts,0.6.0,0,0,https://github.com/SpeedySpec/speedyspec-platform,"WordPress's Shortcode API contracts: the plain types, the ports and strategies, and WordPress's pattern strings."
+2026-11-26T13:58:05.964779Z,mortise-core,1.0.0,0,0,https://github.com/nWidart/mortise,Reads Laravel apps that use nwidart/laravel-modules. No interface.
+2026-11-26T13:58:07.789466Z,mortise-cli,1.0.0,0,0,https://github.com/nWidart/mortise,The Mortise command line tool: checks the boundary rules of a Laravel app in CI and sends what it read to Mortise Cloud.
+2026-11-26T13:58:25.739383Z,skippy-commands,0.80.3,0,0,https://github.com/Mesh-LLM/skippy,Shared Skippy model commands and standalone command output
+2026-11-26T13:58:54.608147Z,tilo-app-registry,0.5.0,0,0,https://code.tilo.so/tilo/tilo,"The Tilo app registry protocol on the client side: fail-closed .tapp verification, payload blobs, and a publisher's keys, signed entries and uploads."
+2026-11-26T14:04:56.540724Z,sciart-core,0.7.0,0,0,https://github.com/nilesh-patil/sciart,"Internal: terminal-agnostic primitives of sciart (canvas, generator trait, fixed-step clock). No semver promise; use the `sciart` crate"
+2026-11-26T14:04:59.740972Z,sciart-shared,0.7.0,0,0,https://github.com/nilesh-patil/sciart,Internal: scene models shared by several sciart scenes. No semver promise; use the `sciart` crate
+2026-11-26T14:05:04.284843Z,sciart-scenes-cosmos,0.7.0,0,0,https://github.com/nilesh-patil/sciart,Internal: the Deep Cosmos and Sun & Planets scenes of sciart. No semver promise; use the `sciart` crate
+2026-11-26T14:05:08.188378Z,sciart-scenes-earth,0.7.0,0,0,https://github.com/nilesh-patil/sciart,Internal: the Earth & Sky and Voyages scenes of sciart. No semver promise; use the `sciart` crate
+2026-11-26T14:05:11.73676Z,sciart-scenes-physics,0.7.0,0,0,https://github.com/nilesh-patil/sciart,Internal: the Forces & Waves scenes of sciart. No semver promise; use the `sciart` crate
+2026-11-26T14:06:01.0519Z,duan-macros,0.1.0,0,0,https://github.com/Zoranner/duan,DUAN authoring proc macros
+2026-11-26T14:06:24.409079Z,fsmirror,0.1.0,0,0,https://github.com/Spectra010s/fsmirror,A command-line utility for mirroring files and folders.
+2026-11-26T14:07:35.615977Z,speedyspec-wp-password-contracts,0.4.0,0,0,https://github.com/SpeedySpec/speedyspec-platform,"Contracts for WordPress's password functions: the pluggable ports, the filters, $wp_hasher and bcrypt."
+2026-11-26T14:08:55.414524Z,tilo-app-window,0.5.0,0,0,https://code.tilo.so/tilo/tilo,"A tilolang app's window in the toolkit: the generic adapter, the shell composition and the toolkit's widgets, built from the component patches an app instance sends and reporting what the person did."
+2026-11-26T14:10:03.766251Z,fluxwright-cdp,0.14.0,0,0,https://github.com/harshit-d3v/fluxwright,Chrome DevTools Protocol transport and sessions for Fluxwright
+2026-11-26T14:10:25.975869Z,fluxwright-core,0.14.0,0,0,https://github.com/harshit-d3v/fluxwright,"Browser pool, scheduler, and metrics for Fluxwright"
+2026-11-26T14:10:43.989452Z,fluxwright,0.14.0,0,0,https://github.com/harshit-d3v/fluxwright,High-concurrency Chromium automation engine
+2026-11-26T14:11:36.807388Z,fluxwright-server,0.14.0,0,0,https://github.com/harshit-d3v/fluxwright,Authenticated HTTP job API for a Fluxwright browser fleet
+2026-11-26T14:12:15.627628Z,fluxwright-cli,0.14.0,0,0,https://github.com/harshit-d3v/fluxwright,Fluxwright daemon and control CLI
+2026-11-26T14:13:31.252466Z,chronon-model,0.17.1,0,0,https://github.com/hudson-trading/chronon,"Platform-independent frame, stack, and sample types for chronon"
+2026-11-26T14:13:32.555092Z,chronon-formats,0.17.1,0,0,https://github.com/hudson-trading/chronon,Profile formats and collectors for chronon
+2026-11-26T14:13:33.222611Z,chronon-process,0.17.1,0,0,https://github.com/hudson-trading/chronon,Process memory abstraction for chronon profiler
+2026-11-26T14:13:34.084102Z,chronon-native-engine,0.17.1,0,0,https://github.com/hudson-trading/chronon,Native stack unwinding and symbolization engine for chronon
+2026-11-26T14:13:34.689384Z,chronon-python-engine,0.17.1,0,0,https://github.com/hudson-trading/chronon,Python runtime discovery and frame walking engine for chronon
+2026-11-26T14:16:54.109241Z,djangors-contrib-flags,1.1.0,0,0,https://github.com/QUANTORA-ltd/djangors,Database and cache-backed feature flags and gradual rollouts for Djangors
+2026-11-26T14:17:27.449219Z,webtrip-api,0.2.0,0,0,https://github.com/mikedickey/webtrip,JackTrip Virtual Studio REST API client and models
+2026-11-26T14:17:28.204538Z,webtrip-core,0.2.0,0,0,https://github.com/mikedickey/webtrip,"Portable WebTrip core: audio processing, wire protocol, jitter buffer"
+2026-11-26T14:17:29.626073Z,webtrip-web,0.2.0,0,0,https://github.com/mikedickey/webtrip,"WebTrip browser host: AudioWorklet engine, WebRTC and WebTransport transports, WebTripSession"
+2026-11-26T14:17:31.185779Z,webtrip,0.2.0,0,0,https://github.com/mikedickey/webtrip,"WebTrip facade: re-exports webtrip-core, webtrip-api and (behind `web`) webtrip-web"
+2026-11-26T14:17:35.836533Z,speedyspec-wp-object-cache-contracts,0.2.0,0,0,https://github.com/SpeedySpec/speedyspec-platform,"The object cache port (wp_cache_*, as other seams call it) and its errors."
+2026-11-26T14:17:37.027181Z,djangors-contrib-graphql,1.1.0,0,0,https://github.com/QUANTORA-ltd/djangors,GraphQL integration for Djangors powered by async-graphql
+2026-11-26T14:18:04.364682Z,djangors-contrib-grpc,1.1.0,0,0,https://github.com/QUANTORA-ltd/djangors,gRPC integration (tonic) for Djangors with shared AppState and HTTP/gRPC HybridServer
