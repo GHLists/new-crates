@@ -1,0 +1,12 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-27T05:32:47.372834Z,forge-app,0.4.0,0,0,https://github.com/Pheem49/FORGE,Rust-first desktop application platform supporting OS WebView (WRY) and Chromium (CEF) behind a single deep interface.
+2026-11-27T05:33:09.155153Z,forge-app-cli,0.4.0,0,0,https://github.com/Pheem49/FORGE,"Project generator, live dev runner, doctor, and cross-OS desktop bundler CLI for the FORGE platform."
+2026-11-27T05:38:15.635026Z,nsh-oauth2,0.1.0,0,0,https://github.com/longbridge/nsh-oauth2,"OAuth 2 sign-in sessions for Native Shell (NSH) apps, an nshm: ASWebAuthenticationSession on iOS, a Custom Tab on Android, the system browser on the desktops."
+2026-11-27T05:42:40.953088Z,tilo-ui-base,0.5.1,0,0,https://code.tilo.so/tilo/tilo,"The Tilo UI toolkit's base: the widget contract, layout, paint, text, theming, input, accessibility and presence every widget is built on."
+2026-11-27T05:44:43.717996Z,locum-mem,0.2.0,0,0,https://github.com/Kalmarv/locum,"Out-of-process, zero-suspend CPU and GPU (VidMm/DxgKrnl ETW) memory ground-truth inspection and reconciliation."
+2026-11-27T05:47:50.280911Z,wireproto,0.1.0,0,0,https://github.com/Zoranner/wireproto,"Wire-protocol codecs for LLM APIs: bytes in, bytes out, no I/O"
+2026-11-27T05:53:39.493296Z,tilo-environment,0.5.1,0,0,https://code.tilo.so/tilo/tilo,"The environment record: where a shell runs, which images make up its /usr, and which directories it was granted."
+2026-11-27T05:55:39.571899Z,tilo-runtime-interface,0.5.1,0,0,https://code.tilo.so/tilo/tilo,"The app ↔ runtime interface's version, and the typed requests an app makes of the shell's tools."
+2026-11-27T05:57:37.105862Z,quickjs-regexp,0.6.0,0,0,https://github.com/qiuzhanghua/quickjs-rs,"Regular expression engine for quickjs-rs (parse, match, Unicode properties)"
+2026-11-27T06:12:46.514294Z,byteseek,0.1.0,0,0,https://github.com/minimaxir/byteseek,Fast text search with a ripgrep-compatible CLI and JSON/YAML/TOML search
+2026-11-27T06:18:00.245884Z,ashfall,0.1.0,0,0,https://github.com/wbic16/ashfall,Dependency linter enforcing phext-minimum-viable-dependencies: a Rust crate is allowed only if a phext-based audit scroll with a passing verdict is on record for it.
