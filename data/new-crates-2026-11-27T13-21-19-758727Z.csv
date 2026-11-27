@@ -1,0 +1,64 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-27T12:21:29.034143Z,blockzilla-model,0.2.0,0,0,https://github.com/blockzilla-dev/blockzilla,Source-neutral ordered query API for Blockzilla archive formats
+2026-11-27T12:21:32.754081Z,blockzilla-source,0.2.0,0,0,https://github.com/blockzilla-dev/blockzilla,Shared byte-range contract and object-name validation
+2026-11-27T12:21:35.887815Z,blockzilla-log-parser,0.2.0,0,0,https://github.com/blockzilla-dev/blockzilla,Borrowed parser for Solana runtime log lines
+2026-11-27T12:21:46.578484Z,blockzilla-solana-wire,0.2.0,0,0,https://github.com/blockzilla-dev/blockzilla,"Shared Solana transaction, execution metadata and source metadata wire codecs"
+2026-11-27T12:23:21.884093Z,lib-unknown-errors,0.6.0-rc1,0,0,https://github.com/AlbusPhos/lib-unknown,Unified error type and macros for lib-unknown.
+2026-11-27T12:23:23.392846Z,lib-unknown-polymorphism,0.6.0-rc1,0,0,https://github.com/AlbusPhos/lib-unknown,Compile-time polymorphism and reproducible randomness proc-macros for lib-unknown.
+2026-11-27T12:23:24.682115Z,lib-unknown-seed,0.6.0-rc1,0,0,https://github.com/AlbusPhos/lib-unknown,Runtime entropy sources for lib-unknown.
+2026-11-27T12:23:29.248739Z,lib-unknown-compiletest,0.6.0-rc1,0,0,https://github.com/AlbusPhos/lib-unknown,Dynamic compile-and-run test runner for lib-unknown development.
+2026-11-27T12:23:30.253269Z,lib-unknown-lazy,0.6.0-rc1,0,0,https://github.com/AlbusPhos/lib-unknown,no_std OnceLock / LazyLock primitives for lib-unknown.
+2026-11-27T12:26:39.315613Z,pir-builtin-tool-repair,0.3.3,0,0,https://github.com/Cricle/pir,"Pure repair pipeline (grammar recovery, live-schema repair, alias normalization) for assistant tool calls in the pir coding agent"
+2026-11-27T12:26:40.386318Z,navree-datetime,1.7.0,0,0,https://github.com/NavreeHQ/navree,"Navree's dates and times: instants, calendar days, times of day, offsets and exact spans, with no third-party time crate under them."
+2026-11-27T12:30:05.275274Z,odra-casper-account-manager,2.11.0,0,0,https://github.com/odradev/odra,Session code and checks for changing a Casper account's associated keys and action thresholds.
+2026-11-27T12:30:12.245968Z,toolsync,0.2.0,0,0,https://github.com/cesarferreira/toolsync,Keep personal Rust tools synced across machines
+2026-11-27T12:30:25.582185Z,verilith-dns,0.1.0,0,0,https://github.com/verilith/verilith,"A formally verified (Verus) DNS message parser and serializer, and a drop-in parser for c-ares"
+2026-11-27T12:30:50.284996Z,lib-unknown-sys,0.6.0-rc1,0,0,https://github.com/AlbusPhos/lib-unknown,Raw syscalls and dynamic symbol resolution for lib-unknown.
+2026-11-27T12:31:24.945351Z,blockzilla-program-logs,0.2.0,0,0,https://github.com/blockzilla-dev/blockzilla,Known-program log decoding for Solana program output
+2026-11-27T12:33:51.417379Z,locon,0.1.0,0,0,https://github.com/loconapp/locon-rs,"Locon localization: flat JSON locale files, lookup by key or by phrase, CLDR plurals, and an asset audit for CI."
+2026-11-27T12:36:39.940403Z,pir-builtin-todo,0.3.3,0,0,https://github.com/Cricle/pir,"Host-neutral todo domain for the pir coding agent: task state machine, dependency graph, reducer, formatting and session store"
+2026-11-27T12:39:47.855013Z,githubtemplaterust,0.0.0,0,0,https://github.com/Ogekuri/GitHub-Template-Rust,Initial placeholder to enable crates.io Trusted Publishing
+2026-11-27T12:40:44.020985Z,verilith-gif,0.1.0,0,0,https://github.com/verilith/verilith,A formally verified (Verus) GIF decoder
+2026-11-27T12:40:52.288822Z,rg-ir,1.5.0,0,0,https://github.com/KhomDev/realism-gate,"Parser-independent IR shared by realism-gate's frontends, model and rules. Internal crate of realism-gate: no API stability guarantee outside that package."
+2026-11-27T12:41:01.321229Z,lib-unknown-types,0.6.0-rc1,0,0,https://github.com/AlbusPhos/lib-unknown,"Wiping stack/heap byte, str and CStr containers for lib-unknown."
+2026-11-27T12:41:26.254728Z,blockzilla-registry,0.2.0,0,0,https://github.com/blockzilla-dev/blockzilla,"Pubkey registry, MPHF key index and blockhash registry"
+2026-11-27T12:41:27.059777Z,rg-frontend-sol,1.5.0,0,0,https://github.com/KhomDev/realism-gate,Solidity frontend for realism-gate: lowers solar's AST into the shared IR. Internal crate of realism-gate: no API stability guarantee outside that package.
+2026-11-27T12:41:50.072676Z,rg-frontend-rust,1.5.0,0,0,https://github.com/KhomDev/realism-gate,"Rust frontend for realism-gate: lowers solana-program-test, LiteSVM and Mollusk tests with syn. Internal crate of realism-gate: no API stability guarantee outside that package."
+2026-11-27T12:42:49.696082Z,rg-frontend-ts,1.5.0,0,0,https://github.com/KhomDev/realism-gate,Anchor TypeScript frontend for realism-gate: lowers oxc's AST into the shared IR. Internal crate of realism-gate: no API stability guarantee outside that package.
+2026-11-27T12:45:37.360294Z,rg-frontend-move,1.5.0,0,0,https://github.com/KhomDev/realism-gate,Sui and Aptos Move frontend for realism-gate: finds #[test] functions and their calls. Internal crate of realism-gate: no API stability guarantee outside that package.
+2026-11-27T12:46:18.1754Z,oxmark,0.0.0,0,0,https://github.com/oxmark/oxmark,A fast Rust implementation of Comark (Markdown with components).
+2026-11-27T12:46:20.546843Z,oxlight,0.0.0,0,0,https://github.com/oxmark/oxlight,"Syntax highlighting with TextMate grammars and VS Code themes, a Rust port of Shiki."
+2026-11-27T12:46:23.04365Z,oxmaid,0.0.0,0,0,https://github.com/oxmark/oxmaid,A Rust port of Mermaid (diagrams from text).
+2026-11-27T12:46:38.599789Z,pir-builtin-memory,0.3.3,0,0,https://github.com/Cricle/pir,Host-neutral pure core of the pir memory builtin: the XML-escaped recall block and stable system-prompt brief
+2026-11-27T12:46:50.946756Z,ui-sdk,0.1.0,0,0,https://github.com/techton7/ui-sdk,"Pure-Rust, host-neutral, #![no_std] + alloc headless UI kernel, composable interaction behaviors, WAI-ARIA attribute models, and agent-operability protocol."
+2026-11-27T12:46:55.889558Z,kj,0.1.0,0,0,https://github.com/dualys/kj,Kōgnitara external REST API
+2026-11-27T12:48:36.111615Z,ktree,0.1.0,0,0,https://github.com/dualys/ktree,Kōgnitara manager
+2026-11-27T12:50:03.413084Z,lib-unknown-hide,0.6.0-rc1,0,0,https://github.com/AlbusPhos/lib-unknown,Compile-time constant hiding macros for lib-unknown.
+2026-11-27T12:51:02.722665Z,verilith-h3,0.1.0,0,0,https://github.com/verilith/verilith,"Sans-I/O HTTP/3 (RFC 9114) framing formally verified with Verus: varints, frames, stream types and the frame-order rules"
+2026-11-27T12:51:24.941354Z,blockzilla-source-http,0.2.0,0,0,https://github.com/blockzilla-dev/blockzilla,HTTP byte ranges with pinned object identities
+2026-11-27T12:52:47.823124Z,lumiere-cli,0.1.0,0,0,https://github.com/aduverger/lumiere,Review diffs in the terminal and discuss them with your coding agent.
+2026-11-27T12:55:07.843033Z,bai-publish-test,0.1.1,0,0,,bai test publish
+2026-11-27T12:55:35.039244Z,opendart,0.1.0,0,0,https://github.com/doxxx93/opendart,"Typed client for OpenDART, the electronic disclosure (DART) API of Korea's Financial Supervisory Service"
+2026-11-27T12:56:39.227518Z,pir-builtin-phone,0.3.3,0,0,https://github.com/Cricle/pir,"Host-neutral pure core of the pir phone builtin: config resolution, URL normalization, quota derivation, relay envelopes"
+2026-11-27T13:00:04.386058Z,lib-unknown-crypto,0.6.0-rc1,0,0,https://github.com/AlbusPhos/lib-unknown,"ChaCha20, MSE obfuscation ciphers and cryptographic primitives for lib-unknown."
+2026-11-27T13:00:09.225831Z,mikado-test-macros,0.4.0,0,0,https://github.com/johlrogge/mikado-test,"Macros for mikado-test: declare examples, theories and goals."
+2026-11-27T13:00:19.528168Z,mikado-test,0.4.0,0,0,https://github.com/johlrogge/mikado-test,"Test in dependency order, with examples: a test runner whose dependency graph is a Mikado graph."
+2026-11-27T13:01:21.827157Z,verilith-hpack,0.1.0,0,0,https://github.com/verilith/verilith,"An HPACK (RFC 7541) header decoder and encoder formally verified with Verus, with nghttp2's inflater API"
+2026-11-27T13:01:24.377095Z,blockzilla-source-local,0.2.0,0,0,https://github.com/blockzilla-dev/blockzilla,Local and pinned immutable byte sources
+2026-11-27T13:03:12.267365Z,rg-program,1.5.0,0,0,https://github.com/KhomDev/realism-gate,"Entry-point authority model for realism-gate: which authority each Anchor, native Solana or Solidity entry point requires. Internal crate of realism-gate: no API stability guarantee outside that pack…"
+2026-11-27T13:04:11.593981Z,jisuno-logic,0.1.0,0,0,https://github.com/kolisachint/jisuno,"Pure Jisuno core: config schemas and validation, hold-key state machine, VAD, line protocol"
+2026-11-27T13:04:15.956487Z,jisuno-audio,0.1.0,0,0,https://github.com/kolisachint/jisuno,Audio helpers and cpal microphone capture for Jisuno
+2026-11-27T13:04:40.642574Z,rg-model,1.5.0,0,0,https://github.com/KhomDev/realism-gate,"Project loading, execution trace, identity model, claims and report types for realism-gate. Internal crate of realism-gate: no API stability guarantee outside that package."
+2026-11-27T13:04:48.041725Z,jisuno-asr,0.1.0,0,0,https://github.com/kolisachint/jisuno,"Parakeet ONNX transcription, model registry and downloads for Jisuno"
+2026-11-27T13:04:51.347552Z,jisuno-platform,0.1.0,0,0,https://github.com/kolisachint/jisuno,"macOS glue for Jisuno: event tap, text insertion, app identity, permissions"
+2026-11-27T13:04:54.420187Z,jisuno-ui,0.1.0,0,0,https://github.com/kolisachint/jisuno,"Jisuno app UI foundation: theme tokens and the HUD view (GPUI, macOS)"
+2026-11-27T13:06:39.692331Z,pir-builtins,0.3.3,0,0,https://github.com/Cricle/pir,"Aggregate catalog of the pir builtin plugin implementations (registration order, default-enable flags)"
+2026-11-27T13:10:16.516782Z,lib-unknown-hash,0.6.0-rc1,0,0,https://github.com/AlbusPhos/lib-unknown,Lightweight multi-lane hash and fixed-capacity hash map for lib-unknown.
+2026-11-27T13:11:24.417332Z,blockzilla-compact,0.2.0,0,0,https://github.com/blockzilla-dev/blockzilla,"Compact record model: blocks, transactions, metadata and logs"
+2026-11-27T13:11:43.12981Z,verilith-http,0.1.0,0,0,https://github.com/verilith/verilith,A fast HTTP/1.1 parser formally verified with Verus
+2026-11-27T13:12:20.287778Z,manifatura-skills,0.2.1,0,0,https://github.com/onatm/manifatura,"Agent Skills for manifatura: skills found in .agents/skills and elsewhere, a catalog for the prompt and a tool that loads one."
+2026-11-27T13:13:33.139998Z,hardroxide-board,3.0.0,0,0,https://github.com/jwkunz/Hardroxide,"Drivers for chips found on FPGA boards: INA220 power monitors, AT24MAC402 identity EEPROM, US2066 OLED, LMK04828 and LMX2594 clock chips; RFSoC 4x2 wiring"
+2026-11-27T13:13:37.661199Z,hardroxide-psu,3.0.0,0,0,https://github.com/jwkunz/Hardroxide,"Zynq UltraScale+ processing-system support for bare metal on the Cortex-A53: startup, exceptions, MMU, GIC, generic timer, clocks, UART console"
+2026-11-27T13:16:02.052705Z,jisuno,0.1.0,0,0,https://github.com/kolisachint/jisuno,"Local, offline voice-to-text for the terminal — Parakeet (ONNX)"
+2026-11-27T13:17:33.606816Z,pir-core,0.3.3,0,0,https://github.com/Cricle/pir,"UI-agnostic engine for the pi coding agent (agent loop, providers, sessions, tools, runtime)"
+2026-11-27T13:20:17.017806Z,lib-unknown-encoding,0.6.0-rc1,0,0,https://github.com/AlbusPhos/lib-unknown,"hex, base64 and hb2 encodings for lib-unknown."
