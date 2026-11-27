@@ -1,0 +1,40 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-27T20:20:26.747243Z,gme-kss,0.1.0,0,0,https://github.com/JayPavlina/Game-Music-Emu-Rust,MSX KSS music emulator for game-music-emu
+2026-11-27T20:21:08.763541Z,ikigai-secret-fnox,0.1.0,0,0,https://github.com/ikigai-rs/ikigai-secret,"A read-only fnox store for ikigai-secret: secrets read through fnox's library from one fnox configuration file, names mapped one to one, never interactive. A host-role connector."
+2026-11-27T20:21:50.220407Z,seiva-observability,0.2.2,0,0,https://github.com/ngolacloud/seiva,"Delonix Seiva — native observability (ADR 0027): opt-in Prometheus /metrics exporter and OpenTelemetry OTLP tracing, wired at the composition root. DORM-free."
+2026-11-27T20:29:04.988729Z,sponsorkit,1.0.0,0,0,https://github.com/ffMathy/sponsorkit,"Build GitHub Sponsors and Open Collective contributions into your Rust app or CLI: check what the current user contributes, open a checkout, nag politely."
+2026-11-27T20:30:25.030023Z,gme-hes,0.1.0,0,0,https://github.com/JayPavlina/Game-Music-Emu-Rust,PC Engine HES music emulator for game-music-emu
+2026-11-27T20:31:51.63949Z,page2md,0.1.0,0,0,,Convert arbitrary web page HTML into clean Markdown for LLMs and note taking apps
+2026-11-27T20:32:03.388778Z,seiva-events,0.2.2,0,0,https://github.com/ngolacloud/seiva,"In-process event bus for Delonix Seiva: a subscriber registry and an inbox-deduplicating dispatcher, the in-process twin of the broker drain (ADR 0021). DORM-free."
+2026-11-27T20:33:13.703167Z,logorrhea_test_data,0.18.0,0,0,https://codeberg.org/zwol/logorrhea,Data used by the `logorrhea` crate's tests and benchmarks.
+2026-11-27T20:35:24.798459Z,nms-glyph-reader,1.0.0,0,0,https://github.com/imurashka/nms-glyph-reader,Reads the portal address and the galaxy from a No Man's Sky screenshot
+2026-11-27T20:38:52.144079Z,pathway-studio,0.18.0,0,0,,"Desktop frontend (Rust + egui) for viewing, editing and analysing biological pathways, built on `pathwaykit` 0.10 (crates.io)"
+2026-11-27T20:40:25.285375Z,gme-nsf,0.1.0,0,0,https://github.com/JayPavlina/Game-Music-Emu-Rust,NES NSF music emulator
+2026-11-27T20:42:25.08257Z,axle-mcp,0.1.1,0,0,https://github.com/ReyemTech/axle,"Axle (axl): self-hosted MCP server where coding agents on any machine message each other and claim tasks under renewable leases, with a live web UI"
+2026-11-27T20:44:44.41442Z,ll-rust,0.1.0,0,0,https://github.com/ll-tg/ll-rs,Language-only Rust Telegram bot runtime with durable queues and webhook/polling lifecycle
+2026-11-27T20:44:46.890924Z,origincloud-secretmanager,0.69.0,0,0,https://github.com/origincloudhq/sdk-rust,"The Origin Cloud secretmanager API: secrets: small confidential values, such as a database password, an API key or a TLS private key, kept encrypted and versioned by the platform and read by the peop…"
+2026-11-27T20:50:13.705879Z,utopia-queue,0.1.0,0,0,https://github.com/appwrite/appwrite,"Queue consumers that share queues with utopia-php/queue: a JetStream worker that reads, settles and dead-letters the way Broker\Nats does."
+2026-11-27T20:50:25.899456Z,gme-sap,0.1.0,0,0,https://github.com/JayPavlina/Game-Music-Emu-Rust,Atari XL SAP music emulator for game-music-emu
+2026-11-27T20:50:37.6481Z,tylertoo-io,0.9.0,0,0,https://github.com/geoparquet-io/tylertoo,Checked Parquet and Arrow IPC I/O for tylertoo-core: an implementation detail with no stability guarantee
+2026-11-27T20:51:53.368991Z,seiva-ratelimit-redis,0.2.2,0,0,https://github.com/ngolacloud/seiva,A Redis-backed distributed rate-limit store for Delonix Seiva (seiva_ports::RateLimitStore). Atomic fixed-window via a Lua script. Optional; the base framework's default limiter is in-process.
+2026-11-27T20:52:34.102765Z,hanconv-wasm,0.6.0,0,0,https://github.com/fhluo/hanconv,Convert between Chinese character variants.
+2026-11-27T20:59:01.803352Z,synxit,0.0.0,0,0,,placeholder for the synxit project
+2026-11-27T21:00:25.267538Z,gme-spc,0.1.0,0,0,https://github.com/JayPavlina/Game-Music-Emu-Rust,SPC (Super Nintendo) music emulator for game-music-emu
+2026-11-27T21:01:57.399656Z,seiva-realtime,0.2.2,0,0,https://github.com/ngolacloud/seiva,"Delonix Seiva — a first-class, protocol-neutral WebSocket + SSE hub (ADR 0031): sharded topic fan-out, authenticate-before-upgrade with an Origin allowlist, per-connection backpressure, and a multi-p…"
+2026-11-27T21:03:43.127535Z,synxit-core,0.0.0,0,0,,placeholder for the synxit project
+2026-11-27T21:04:50.425285Z,synxit-server,0.0.0,0,0,,placeholder for the synxit project
+2026-11-27T21:07:54.579764Z,ombryt,0.1.0,0,0,https://github.com/Hexagon/ombryt,"A fast, single-binary static site generator for blogs and documentation"
+2026-11-27T21:09:23.926777Z,oxsearch-autoscaling,0.3.0,0,0,https://github.com/agentstatelabs/oxsearch,"Autoscaling APIs for oxsearch, generated from the Elasticsearch specification: the policies and the capacity they call for. Meant for Elastic Cloud, ECE and ECK"
+2026-11-27T21:09:31.252271Z,oxsearch-ml,0.3.0,0,0,https://github.com/agentstatelabs/oxsearch,"Machine learning APIs for oxsearch, generated from the Elasticsearch specification: anomaly detection jobs and datafeeds, data frame analytics, and trained models"
+2026-11-27T21:09:39.735751Z,oxsearch-watcher,0.3.0,0,0,https://github.com/agentstatelabs/oxsearch,"Watcher APIs for oxsearch, generated from the Elasticsearch specification: watches that run a search on a schedule and act on what it finds"
+2026-11-27T21:09:47.193048Z,oxsearch-cat,0.3.0,0,0,https://github.com/agentstatelabs/oxsearch,"The cat APIs for oxsearch, generated from the Elasticsearch specification: compact tables of indices, nodes, shards and the rest, read as typed rows"
+2026-11-27T21:09:50.312812Z,oxsearch-ccr,0.3.0,0,0,https://github.com/agentstatelabs/oxsearch,"Cross-cluster replication for oxsearch, generated from the Elasticsearch specification: follower indices that copy a remote cluster's leader indices, and auto-follow patterns"
+2026-11-27T21:10:25.113453Z,ginga,0.1.0,0,0,https://github.com/walteraandrade/ginga,"Motion for Rust UIs: springs and tweens as pure functions of time, readable as text."
+2026-11-27T21:10:46.030115Z,ginga-gpui,0.1.0,0,0,https://github.com/walteraandrade/ginga,"ginga motion for GPUI views: the frame's clock, frame requests and reduced motion."
+2026-11-27T21:10:54.711619Z,oxsearch-connector,0.3.0,0,0,https://github.com/agentstatelabs/oxsearch,"Connector APIs for oxsearch, generated from the Elasticsearch specification: content connectors, their configuration, scheduling and filtering, and sync jobs"
+2026-11-27T21:11:55.855473Z,seiva-storage,0.2.2,0,0,https://github.com/ngolacloud/seiva,"Delonix Seiva — a pluggable, tenant-aware ObjectStore port (ADR 0032): streaming put/get, per-tenant fail-closed key resolution, a path-confined local-fs adapter, multipart and presigned URLs, with a…"
+2026-11-27T21:18:13.756423Z,cargo-modernize-catalog,0.1.0,0,0,https://github.com/Dankosik/cargo-modernize,"Zero-dependency embedded Rust release inventories, triage records, and modernization guidelines for cargo-modernize"
+2026-11-27T21:18:44.405553Z,cargo-modernize-core,0.1.0,0,0,https://github.com/Dankosik/cargo-modernize,"Core CST rules, scope resolution, guidelines index, and workspace engine for cargo-modernize"
+2026-11-27T21:19:26.945276Z,cargo-modernize,0.1.0,0,0,https://github.com/Dankosik/cargo-modernize,"Rust workspace modernization knowledge catalog, AI guidelines, and fast read-only scanner"
+2026-11-27T21:19:40.463134Z,tamil-punarchi,0.3.0,0,0,https://github.com/abishtakan/tamil-toolkit,Sourced Nannool sandhi (punarchi) joining and dictionary-free reverse split candidate generation
+2026-11-27T21:19:55.560367Z,tamil-lexicon,0.3.0,0,0,https://github.com/abishtakan/tamil-toolkit,"Pure Apache-2.0 Tamil lexicon .tlpack v1/v2 reader, FST lookup/prefix search, and LexiconStore runtime registry"
