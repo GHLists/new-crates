@@ -8,77 +8,59 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-27 13:21 UTC
+## Latest list — 2026-11-27 14:22 UTC
 
-New crates published between 2026-11-27 12:21 UTC and 2026-11-27 13:21 UTC.
+New crates published between 2026-11-27 13:21 UTC and 2026-11-27 14:22 UTC.
 
-[Full CSV](data/new-crates-2026-11-27T13-21-19-758727Z.csv)
+[Full CSV](data/new-crates-2026-11-27T14-22-31-004685Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-27 12:21:29 | [blockzilla-model](https://crates.io/crates/blockzilla-model) | 0.2.0 | 0 | Source-neutral ordered query API for Blockzilla archive formats |
-| 2026-11-27 12:21:32 | [blockzilla-source](https://crates.io/crates/blockzilla-source) | 0.2.0 | 0 | Shared byte-range contract and object-name validation |
-| 2026-11-27 12:21:35 | [blockzilla-log-parser](https://crates.io/crates/blockzilla-log-parser) | 0.2.0 | 0 | Borrowed parser for Solana runtime log lines |
-| 2026-11-27 12:21:46 | [blockzilla-solana-wire](https://crates.io/crates/blockzilla-solana-wire) | 0.2.0 | 0 | Shared Solana transaction, execution metadata and source metadata wire codecs |
-| 2026-11-27 12:23:21 | [lib-unknown-errors](https://crates.io/crates/lib-unknown-errors) | 0.6.0-rc1 | 0 | Unified error type and macros for lib-unknown. |
-| 2026-11-27 12:23:23 | [lib-unknown-polymorphism](https://crates.io/crates/lib-unknown-polymorphism) | 0.6.0-rc1 | 0 | Compile-time polymorphism and reproducible randomness proc-macros for lib-unkno… |
-| 2026-11-27 12:23:24 | [lib-unknown-seed](https://crates.io/crates/lib-unknown-seed) | 0.6.0-rc1 | 0 | Runtime entropy sources for lib-unknown. |
-| 2026-11-27 12:23:29 | [lib-unknown-compiletest](https://crates.io/crates/lib-unknown-compiletest) | 0.6.0-rc1 | 0 | Dynamic compile-and-run test runner for lib-unknown development. |
-| 2026-11-27 12:23:30 | [lib-unknown-lazy](https://crates.io/crates/lib-unknown-lazy) | 0.6.0-rc1 | 0 | no_std OnceLock / LazyLock primitives for lib-unknown. |
-| 2026-11-27 12:26:39 | [pir-builtin-tool-repair](https://crates.io/crates/pir-builtin-tool-repair) | 0.3.3 | 0 | Pure repair pipeline (grammar recovery, live-schema repair, alias normalization… |
-| 2026-11-27 12:26:40 | [navree-datetime](https://crates.io/crates/navree-datetime) | 1.7.0 | 0 | Navree's dates and times: instants, calendar days, times of day, offsets and ex… |
-| 2026-11-27 12:30:05 | [odra-casper-account-manager](https://crates.io/crates/odra-casper-account-manager) | 2.11.0 | 0 | Session code and checks for changing a Casper account's associated keys and act… |
-| 2026-11-27 12:30:12 | [toolsync](https://crates.io/crates/toolsync) | 0.2.0 | 0 | Keep personal Rust tools synced across machines |
-| 2026-11-27 12:30:25 | [verilith-dns](https://crates.io/crates/verilith-dns) | 0.1.0 | 0 | A formally verified (Verus) DNS message parser and serializer, and a drop-in pa… |
-| 2026-11-27 12:30:50 | [lib-unknown-sys](https://crates.io/crates/lib-unknown-sys) | 0.6.0-rc1 | 0 | Raw syscalls and dynamic symbol resolution for lib-unknown. |
-| 2026-11-27 12:31:24 | [blockzilla-program-logs](https://crates.io/crates/blockzilla-program-logs) | 0.2.0 | 0 | Known-program log decoding for Solana program output |
-| 2026-11-27 12:33:51 | [locon](https://crates.io/crates/locon) | 0.1.0 | 0 | Locon localization: flat JSON locale files, lookup by key or by phrase, CLDR pl… |
-| 2026-11-27 12:36:39 | [pir-builtin-todo](https://crates.io/crates/pir-builtin-todo) | 0.3.3 | 0 | Host-neutral todo domain for the pir coding agent: task state machine, dependen… |
-| 2026-11-27 12:39:47 | [githubtemplaterust](https://crates.io/crates/githubtemplaterust) | 0.0.0 | 0 | Initial placeholder to enable crates.io Trusted Publishing |
-| 2026-11-27 12:40:44 | [verilith-gif](https://crates.io/crates/verilith-gif) | 0.1.0 | 0 | A formally verified (Verus) GIF decoder |
-| 2026-11-27 12:40:52 | [rg-ir](https://crates.io/crates/rg-ir) | 1.5.0 | 0 | Parser-independent IR shared by realism-gate's frontends, model and rules. Inte… |
-| 2026-11-27 12:41:01 | [lib-unknown-types](https://crates.io/crates/lib-unknown-types) | 0.6.0-rc1 | 0 | Wiping stack/heap byte, str and CStr containers for lib-unknown. |
-| 2026-11-27 12:41:26 | [blockzilla-registry](https://crates.io/crates/blockzilla-registry) | 0.2.0 | 0 | Pubkey registry, MPHF key index and blockhash registry |
-| 2026-11-27 12:41:27 | [rg-frontend-sol](https://crates.io/crates/rg-frontend-sol) | 1.5.0 | 0 | Solidity frontend for realism-gate: lowers solar's AST into the shared IR. Inte… |
-| 2026-11-27 12:41:50 | [rg-frontend-rust](https://crates.io/crates/rg-frontend-rust) | 1.5.0 | 0 | Rust frontend for realism-gate: lowers solana-program-test, LiteSVM and Mollusk… |
-| 2026-11-27 12:42:49 | [rg-frontend-ts](https://crates.io/crates/rg-frontend-ts) | 1.5.0 | 0 | Anchor TypeScript frontend for realism-gate: lowers oxc's AST into the shared I… |
-| 2026-11-27 12:45:37 | [rg-frontend-move](https://crates.io/crates/rg-frontend-move) | 1.5.0 | 0 | Sui and Aptos Move frontend for realism-gate: finds #[test] functions and their… |
-| 2026-11-27 12:46:18 | [oxmark](https://crates.io/crates/oxmark) | 0.0.0 | 0 | A fast Rust implementation of Comark (Markdown with components). |
-| 2026-11-27 12:46:20 | [oxlight](https://crates.io/crates/oxlight) | 0.0.0 | 0 | Syntax highlighting with TextMate grammars and VS Code themes, a Rust port of S… |
-| 2026-11-27 12:46:23 | [oxmaid](https://crates.io/crates/oxmaid) | 0.0.0 | 0 | A Rust port of Mermaid (diagrams from text). |
-| 2026-11-27 12:46:38 | [pir-builtin-memory](https://crates.io/crates/pir-builtin-memory) | 0.3.3 | 0 | Host-neutral pure core of the pir memory builtin: the XML-escaped recall block… |
-| 2026-11-27 12:46:50 | [ui-sdk](https://crates.io/crates/ui-sdk) | 0.1.0 | 0 | Pure-Rust, host-neutral, #![no_std] + alloc headless UI kernel, composable inte… |
-| 2026-11-27 12:46:55 | [kj](https://crates.io/crates/kj) | 0.1.0 | 0 | Kōgnitara external REST API |
-| 2026-11-27 12:48:36 | [ktree](https://crates.io/crates/ktree) | 0.1.0 | 0 | Kōgnitara manager |
-| 2026-11-27 12:50:03 | [lib-unknown-hide](https://crates.io/crates/lib-unknown-hide) | 0.6.0-rc1 | 0 | Compile-time constant hiding macros for lib-unknown. |
-| 2026-11-27 12:51:02 | [verilith-h3](https://crates.io/crates/verilith-h3) | 0.1.0 | 0 | Sans-I/O HTTP/3 (RFC 9114) framing formally verified with Verus: varints, frame… |
-| 2026-11-27 12:51:24 | [blockzilla-source-http](https://crates.io/crates/blockzilla-source-http) | 0.2.0 | 0 | HTTP byte ranges with pinned object identities |
-| 2026-11-27 12:52:47 | [lumiere-cli](https://crates.io/crates/lumiere-cli) | 0.1.0 | 0 | Review diffs in the terminal and discuss them with your coding agent. |
-| 2026-11-27 12:55:07 | [bai-publish-test](https://crates.io/crates/bai-publish-test) | 0.1.1 | 0 | bai test publish |
-| 2026-11-27 12:55:35 | [opendart](https://crates.io/crates/opendart) | 0.1.0 | 0 | Typed client for OpenDART, the electronic disclosure (DART) API of Korea's Fina… |
-| 2026-11-27 12:56:39 | [pir-builtin-phone](https://crates.io/crates/pir-builtin-phone) | 0.3.3 | 0 | Host-neutral pure core of the pir phone builtin: config resolution, URL normali… |
-| 2026-11-27 13:00:04 | [lib-unknown-crypto](https://crates.io/crates/lib-unknown-crypto) | 0.6.0-rc1 | 0 | ChaCha20, MSE obfuscation ciphers and cryptographic primitives for lib-unknown. |
-| 2026-11-27 13:00:09 | [mikado-test-macros](https://crates.io/crates/mikado-test-macros) | 0.4.0 | 0 | Macros for mikado-test: declare examples, theories and goals. |
-| 2026-11-27 13:00:19 | [mikado-test](https://crates.io/crates/mikado-test) | 0.4.0 | 0 | Test in dependency order, with examples: a test runner whose dependency graph i… |
-| 2026-11-27 13:01:21 | [verilith-hpack](https://crates.io/crates/verilith-hpack) | 0.1.0 | 0 | An HPACK (RFC 7541) header decoder and encoder formally verified with Verus, wi… |
-| 2026-11-27 13:01:24 | [blockzilla-source-local](https://crates.io/crates/blockzilla-source-local) | 0.2.0 | 0 | Local and pinned immutable byte sources |
-| 2026-11-27 13:03:12 | [rg-program](https://crates.io/crates/rg-program) | 1.5.0 | 0 | Entry-point authority model for realism-gate: which authority each Anchor, nati… |
-| 2026-11-27 13:04:11 | [jisuno-logic](https://crates.io/crates/jisuno-logic) | 0.1.0 | 0 | Pure Jisuno core: config schemas and validation, hold-key state machine, VAD, l… |
-| 2026-11-27 13:04:15 | [jisuno-audio](https://crates.io/crates/jisuno-audio) | 0.1.0 | 0 | Audio helpers and cpal microphone capture for Jisuno |
-| 2026-11-27 13:04:40 | [rg-model](https://crates.io/crates/rg-model) | 1.5.0 | 0 | Project loading, execution trace, identity model, claims and report types for r… |
-| 2026-11-27 13:04:48 | [jisuno-asr](https://crates.io/crates/jisuno-asr) | 0.1.0 | 0 | Parakeet ONNX transcription, model registry and downloads for Jisuno |
-| 2026-11-27 13:04:51 | [jisuno-platform](https://crates.io/crates/jisuno-platform) | 0.1.0 | 0 | macOS glue for Jisuno: event tap, text insertion, app identity, permissions |
-| 2026-11-27 13:04:54 | [jisuno-ui](https://crates.io/crates/jisuno-ui) | 0.1.0 | 0 | Jisuno app UI foundation: theme tokens and the HUD view (GPUI, macOS) |
-| 2026-11-27 13:06:39 | [pir-builtins](https://crates.io/crates/pir-builtins) | 0.3.3 | 0 | Aggregate catalog of the pir builtin plugin implementations (registration order… |
-| 2026-11-27 13:10:16 | [lib-unknown-hash](https://crates.io/crates/lib-unknown-hash) | 0.6.0-rc1 | 0 | Lightweight multi-lane hash and fixed-capacity hash map for lib-unknown. |
-| 2026-11-27 13:11:24 | [blockzilla-compact](https://crates.io/crates/blockzilla-compact) | 0.2.0 | 0 | Compact record model: blocks, transactions, metadata and logs |
-| 2026-11-27 13:11:43 | [verilith-http](https://crates.io/crates/verilith-http) | 0.1.0 | 0 | A fast HTTP/1.1 parser formally verified with Verus |
-| 2026-11-27 13:12:20 | [manifatura-skills](https://crates.io/crates/manifatura-skills) | 0.2.1 | 0 | Agent Skills for manifatura: skills found in .agents/skills and elsewhere, a ca… |
-| 2026-11-27 13:13:33 | [hardroxide-board](https://crates.io/crates/hardroxide-board) | 3.0.0 | 0 | Drivers for chips found on FPGA boards: INA220 power monitors, AT24MAC402 ident… |
-| 2026-11-27 13:13:37 | [hardroxide-psu](https://crates.io/crates/hardroxide-psu) | 3.0.0 | 0 | Zynq UltraScale+ processing-system support for bare metal on the Cortex-A53: st… |
-| 2026-11-27 13:16:02 | [jisuno](https://crates.io/crates/jisuno) | 0.1.0 | 0 | Local, offline voice-to-text for the terminal — Parakeet (ONNX) |
-| 2026-11-27 13:17:33 | [pir-core](https://crates.io/crates/pir-core) | 0.3.3 | 0 | UI-agnostic engine for the pi coding agent (agent loop, providers, sessions, to… |
-| 2026-11-27 13:20:17 | [lib-unknown-encoding](https://crates.io/crates/lib-unknown-encoding) | 0.6.0-rc1 | 0 | hex, base64 and hb2 encodings for lib-unknown. |
+| 2026-11-27 13:21:23 | [blockzilla-source-cache](https://crates.io/crates/blockzilla-source-cache) | 0.2.0 | 0 | Persistent HTTP object cache |
+| 2026-11-27 13:22:05 | [verilith-jpeg](https://crates.io/crates/verilith-jpeg) | 0.1.0 | 0 | A formally verified (Verus) JPEG decoder: baseline and progressive Huffman |
+| 2026-11-27 13:22:28 | [dora-record-node](https://crates.io/crates/dora-record-node) | 1.2.0-rc.1 | 0 | Record node binary for dora dataflow recordings |
+| 2026-11-27 13:22:33 | [dora-replay-node](https://crates.io/crates/dora-replay-node) | 1.2.0-rc.1 | 0 | Replay node binary for dora dataflow recordings |
+| 2026-11-27 13:24:04 | [glidex-api](https://crates.io/crates/glidex-api) | 0.0.9 | 0 | Protos, generated messages, services and clients, and the operation table of th… |
+| 2026-11-27 13:24:05 | [glidex-hv-client](https://crates.io/crates/glidex-hv-client) | 0.0.9 | 0 | Blocking clients for Cloud Hypervisor's HTTP API and QEMU's QMP (spec/12-reconc… |
+| 2026-11-27 13:24:08 | [glidex](https://crates.io/crates/glidex) | 0.0.9 | 0 | Glidex, a control plane for KVM virtual machines: its libraries (RPC API and cl… |
+| 2026-11-27 13:24:09 | [gxctl](https://crates.io/crates/gxctl) | 0.0.9 | 0 | The glidex CLI: VMs, networks, storage, directory, tenancy and clusters over a… |
+| 2026-11-27 13:26:47 | [pir-tui](https://crates.io/crates/pir-tui) | 0.3.3 | 0 | Terminal UI for the pi coding agent (crossterm event loop, renderers, themes, c… |
+| 2026-11-27 13:30:03 | [rg-rules](https://crates.io/crates/rg-rules) | 1.5.0 | 0 | The RG01-RG20 rule catalog and its per-language rules for realism-gate. Interna… |
+| 2026-11-27 13:30:20 | [lib-unknown-rand](https://crates.io/crates/lib-unknown-rand) | 0.6.0-rc1 | 0 | no_std entropy sources and PRNG families for lib-unknown. |
+| 2026-11-27 13:30:24 | [rg-exec](https://crates.io/crates/rg-exec) | 1.5.0 | 0 | Opt-in verify-fix execution sandbox for realism-gate. Internal crate of realism… |
+| 2026-11-27 13:30:42 | [rg-render](https://crates.io/crates/rg-render) | 1.5.0 | 0 | Output formats (JSON, SARIF, text, Markdown, evidence card) for realism-gate. I… |
+| 2026-11-27 13:30:52 | [conundrum_fs](https://crates.io/crates/conundrum_fs) | 0.1.1 | 0 | Be less dum. |
+| 2026-11-27 13:31:24 | [blockzilla-archive-v2](https://crates.io/crates/blockzilla-archive-v2) | 0.2.0 | 0 | Archive V2 container: layout, indexes and generation manifest |
+| 2026-11-27 13:32:28 | [verilith-json](https://crates.io/crates/verilith-json) | 0.1.0 | 0 | A fast JSON parser, proven correct with Verus: exactly RFC 8259, no panics, bou… |
+| 2026-11-27 13:34:06 | [rust-sugiyama-bvh](https://crates.io/crates/rust-sugiyama-bvh) | 0.4.0 | 0 | Fork of rust-sugiyama with access to dummy vertices in directed graph layouts |
+| 2026-11-27 13:35:59 | [libdave-rs-sys](https://crates.io/crates/libdave-rs-sys) | 0.2.0 | 0 | Raw FFI bindings to Discord's libdave (DAVE E2EE), built from vendored sources |
+| 2026-11-27 13:36:01 | [libdave-rs](https://crates.io/crates/libdave-rs) | 0.2.0 | 0 | Safe Rust bindings to Discord's DAVE (E2EE audio/video) protocol implementation |
+| 2026-11-27 13:37:35 | [mbedtls-rs-sys-esp](https://crates.io/crates/mbedtls-rs-sys-esp) | 0.1.0 | 0 | Hardware acceleration of MbedTLS for the ESP32 chips, with esp-hal |
+| 2026-11-27 13:41:23 | [blockzilla-live-format](https://crates.io/crates/blockzilla-live-format) | 0.2.0 | 0 | Block candidate and pre-hot live block formats |
+| 2026-11-27 13:42:48 | [verilith-quic](https://crates.io/crates/verilith-quic) | 0.1.0 | 0 | The QUIC (RFC 9000) wire format and transport state machines, formally verified… |
+| 2026-11-27 13:46:17 | [tabnas-dmog](https://crates.io/crates/tabnas-dmog) | 0.3.0 | 0 | The dmog command (data mogrify): translates a document from any tabnas format i… |
+| 2026-11-27 13:46:22 | [specify-pmi](https://crates.io/crates/specify-pmi) | 0.0.0 | 0 | Placeholder: specify-core is being renamed to specify-pmi. The first real relea… |
+| 2026-11-27 13:47:01 | [sqlx-schema-layout](https://crates.io/crates/sqlx-schema-layout) | 0.1.0 | 0 | The on-disk layout of sqlx-schema migrations (migration directories and release… |
+| 2026-11-27 13:47:03 | [sqlx-schema-macros](https://crates.io/crates/sqlx-schema-macros) | 0.1.0 | 0 | The embed_migrations! macro of sqlx-schema. Use it through the sqlx-schema crat… |
+| 2026-11-27 13:47:06 | [sqlx-schema](https://crates.io/crates/sqlx-schema) | 0.1.0 | 0 | PostgreSQL migrations organised as a release tree of migrations (pre SQL, Rust… |
+| 2026-11-27 13:48:58 | [pydantic-guru](https://crates.io/crates/pydantic-guru) | 0.1.0 | 0 | pydantic-style data validation for Rust - models with fields, constraints, defa… |
+| 2026-11-27 13:51:15 | [sedmetrics-core](https://crates.io/crates/sedmetrics-core) | 0.1.0 | 0 | Rust computational core for SEDMetrics (Sound Event Detection evaluation) |
+| 2026-11-27 13:51:27 | [blockzilla-compact-v2-reader](https://crates.io/crates/blockzilla-compact-v2-reader) | 0.2.0 | 0 | Bounded, generation-verified Archive V2 streaming reader |
+| 2026-11-27 13:53:11 | [verilith-sha2](https://crates.io/crates/verilith-sha2) | 0.1.0 | 0 | Formally verified (Verus) SHA-2 (FIPS 180-4): SHA-224, SHA-256, SHA-384, SHA-51… |
+| 2026-11-27 13:53:25 | [dx-wire-format](https://crates.io/crates/dx-wire-format) | 0.8.0-alpha.4 | 0 | Wire format for the Dioxus CLI |
+| 2026-11-27 13:54:38 | [xlcalc-stack](https://crates.io/crates/xlcalc-stack) | 0.6.2 | 0 | Stack growth for deep recursion that can still run foreign code on the thread's… |
+| 2026-11-27 13:57:30 | [spectre-guru](https://crates.io/crates/spectre-guru) | 0.1.0 | 0 | Spectre.Console-style terminal rendering for Rust - rich markup, tables, trees,… |
+| 2026-11-27 13:59:42 | [srvpro-windbot](https://crates.io/crates/srvpro-windbot) | 0.1.0 | 0 | WindBot bindings for the srvpro duel server. |
+| 2026-11-27 14:01:17 | [ropebuf](https://crates.io/crates/ropebuf) | 0.1.0 | 0 | Tiny ropey extension grapheme aware and text objects aware |
+| 2026-11-27 14:01:28 | [blockzilla](https://crates.io/crates/blockzilla) | 0.2.0 | 0 | Build compact Solana blocks and read Blockzilla archives |
+| 2026-11-27 14:03:34 | [verilith-text](https://crates.io/crates/verilith-text) | 0.1.0 | 0 | Formally verified (Verus) text encodings and Unicode: base64, hex, percent-enco… |
+| 2026-11-27 14:03:55 | [express-guru](https://crates.io/crates/express-guru) | 0.1.0 | 0 | Express-style HTTP framework for Rust - method routing with path params, middle… |
+| 2026-11-27 14:06:19 | [entt-guru](https://crates.io/crates/entt-guru) | 0.1.0 | 0 | EnTT-style entity-component system for Rust - sparse-set storage, typed compone… |
+| 2026-11-27 14:07:01 | [freyja-macros](https://crates.io/crates/freyja-macros) | 0.5.0 | 0 | Procedural macros for freyja |
+| 2026-11-27 14:08:17 | [sam-permissions](https://crates.io/crates/sam-permissions) | 0.1.0 | 0 | A floating guide beside macOS System Settings that shows users how to grant a p… |
+| 2026-11-27 14:11:35 | [thus](https://crates.io/crates/thus) | 0.1.1 | 0 | A test DSL that separates the behavior under test from setup and observation |
+| 2026-11-27 14:13:59 | [verilith-webp](https://crates.io/crates/verilith-webp) | 0.1.0 | 0 | A formally verified (Verus) WebP decoder: lossless (VP8L) proven correct, lossy… |
+| 2026-11-27 14:17:10 | [wktk](https://crates.io/crates/wktk) | 0.0.1 | 0 | tcl/tk worker for Rust rstk |
 
 ## Data source
 
