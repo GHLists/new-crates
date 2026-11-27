@@ -8,68 +8,70 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-27 19:21 UTC
+## Latest list — 2026-11-27 20:20 UTC
 
-New crates published between 2026-11-27 18:19 UTC and 2026-11-27 19:21 UTC.
+New crates published between 2026-11-27 19:21 UTC and 2026-11-27 20:20 UTC.
 
-[Full CSV](data/new-crates-2026-11-27T19-21-20-88986Z.csv)
+[Full CSV](data/new-crates-2026-11-27T20-20-18-227572Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-27 18:20:56 | [rs-matter-onboard](https://crates.io/crates/rs-matter-onboard) | 0.5.0 | 0 | Native Rust implementation of the Matter (Smart-Home) ecosystem - the commissio… |
-| 2026-11-27 18:21:51 | [padrino](https://crates.io/crates/padrino) | 0.1.0 | 0 | A no_std, protocol-independent credentials bookkeeper: who may join and on whos… |
-| 2026-11-27 18:24:14 | [weirdnet-media](https://crates.io/crates/weirdnet-media) | 0.1.0 | 0 | Weirdnet media processing for clients and nodes: WAV probing and PCM in pure Ru… |
-| 2026-11-27 18:25:20 | [absotui](https://crates.io/crates/absotui) | 0.12.4 | 0 | A fast, keyboard-driven terminal client for Audiobookshelf: audiobooks and podc… |
-| 2026-11-27 18:26:28 | [cortexkit-avatar-tables](https://crates.io/crates/cortexkit-avatar-tables) | 0.1.0 | 0 | Committed lookup tables and integer helpers that keep avatar generation identic… |
-| 2026-11-27 18:27:34 | [cortexkit-avatar-phenotype](https://crates.io/crates/cortexkit-avatar-phenotype) | 0.1.0 | 0 | Typed fixed-point units and the phenotype struct decoded from a classic avatar… |
-| 2026-11-27 18:28:54 | [cortexkit-avatar-genome](https://crates.io/crates/cortexkit-avatar-genome) | 0.1.0 | 0 | The classic avatar genome, its decoder to a phenotype, and genomes derived from… |
-| 2026-11-27 18:29:19 | [meshbox](https://crates.io/crates/meshbox) | 0.1.0 | 0 | Low-poly and voxel 3D models from plain text: stacked voxel grids meshed to bin… |
-| 2026-11-27 18:29:54 | [grasp-core](https://crates.io/crates/grasp-core) | 0.1.0 | 0 | Core semantic code retrieval library backed by a System 1 or OpenAI-compatible… |
-| 2026-11-27 18:29:56 | [grasp-cli](https://crates.io/crates/grasp-cli) | 0.1.0 | 0 | Fast semantic code retrieval CLI for coding agents and developers |
-| 2026-11-27 18:30:13 | [cortexkit-avatar-svg](https://crates.io/crates/cortexkit-avatar-svg) | 0.1.0 | 0 | Deterministic avatar creature generators, the render tree they produce, and its… |
-| 2026-11-27 18:31:08 | [rs-matter-respond](https://crates.io/crates/rs-matter-respond) | 0.5.0 | 0 | Native Rust implementation of the Matter (Smart-Home) ecosystem - the responder… |
-| 2026-11-27 18:31:41 | [cortexkit-avatar-raster](https://crates.io/crates/cortexkit-avatar-raster) | 0.1.0 | 0 | Rasterize avatar render trees and their SVG into sRGB RGBA8 images. |
-| 2026-11-27 18:32:48 | [cortexkit-avatar-wild-plus](https://crates.io/crates/cortexkit-avatar-wild-plus) | 0.1.0 | 0 | Draws the creature.wild-plus avatar type: a stored 16,384-byte genome becomes a… |
-| 2026-11-27 18:35:48 | [serge4rust](https://crates.io/crates/serge4rust) | 0.2.0 | 0 | The house's quality gates as a library: one gate trait, one command runner and… |
-| 2026-11-27 18:37:50 | [farstar](https://crates.io/crates/farstar) | 0.0.1 | 0 | Farstar: the session layer for any sandbox. Placeholder release; in development. |
-| 2026-11-27 18:40:53 | [rustfront](https://crates.io/crates/rustfront) | 0.0.1 | 0 | Evaluate MFront material behaviours (constitutive laws) at a material point, in… |
-| 2026-11-27 18:41:38 | [procmon-cli](https://crates.io/crates/procmon-cli) | 0.1.0 | 0 | Process memory monitor for Linux and Windows inspired by WOZMON |
-| 2026-11-27 18:46:11 | [cortexkit-avatar-sprouts](https://crates.io/crates/cortexkit-avatar-sprouts) | 0.1.0 | 0 | Draws the creature.sprouts avatar type: a stored 16,384-byte genome becomes a r… |
-| 2026-11-27 18:48:16 | [context-lint](https://crates.io/crates/context-lint) | 0.1.0 | 0 | Fast cross-platform linter for AI coding agent context files (CLAUDE.md, AGENTS… |
-| 2026-11-27 18:48:22 | [agent-vault-cli](https://crates.io/crates/agent-vault-cli) | 0.1.0 | 0 | Cross-platform zero-knowledge secret proxy and output redactor for AI coding ag… |
-| 2026-11-27 18:48:27 | [dotagents-cli](https://crates.io/crates/dotagents-cli) | 0.1.0 | 0 | Universal compiler and syncer for AI coding agent rules, skills, and MCP config… |
-| 2026-11-27 18:48:38 | [cadmium](https://crates.io/crates/cadmium) | 0.2.0 | 0 | A cross-platform Rust UI framework inspired by macOS design. |
-| 2026-11-27 18:50:45 | [swarm-control](https://crates.io/crates/swarm-control) | 0.1.1 | 0 | Instancie des agents IA persistants via LiteMCP en Rust. Chaque agent créé = 1… |
-| 2026-11-27 18:54:17 | [knowledge-architect-cargo-reader](https://crates.io/crates/knowledge-architect-cargo-reader) | 0.0.0 | 0 | Placeholder of a crate of knowledge-architect, published at its next release |
-| 2026-11-27 18:56:36 | [mbus-kit](https://crates.io/crates/mbus-kit) | 0.1.1 | 0 | M-Bus and wireless M-Bus (EN 13757-2/-3/-4) for Rust: heat, water and gas meter… |
-| 2026-11-27 18:59:23 | [wgslift-syntax](https://crates.io/crates/wgslift-syntax) | 0.1.0 | 0 | Preprocessor, lexer and parser for HLSL, the front end of the wgslift translator |
-| 2026-11-27 18:59:35 | [wgslift](https://crates.io/crates/wgslift) | 0.1.0 | 0 | Translates Direct3D 9 era HLSL shaders to WGSL |
-| 2026-11-27 18:59:56 | [tidewarp](https://crates.io/crates/tidewarp) | 0.2.0 | 0 | A MilkDrop-format music visualizer engine that renders into your own pixel buff… |
-| 2026-11-27 19:00:00 | [libo11y-macros](https://crates.io/crates/libo11y-macros) | 0.1.0 | 0 | The #[derive(Redact)] procedural macro for libo11y-redact: capture-time redacti… |
-| 2026-11-27 19:00:07 | [libo11y-redact](https://crates.io/crates/libo11y-redact) | 0.1.0 | 0 | Capture-time redaction for libo11y: Secret and Masked wrappers and the Redact t… |
-| 2026-11-27 19:00:09 | [cortexkit-avatar-pixel-critters](https://crates.io/crates/cortexkit-avatar-pixel-critters) | 0.1.0 | 0 | Draws the creature.pixel-critters avatar type: a stored 16,384-byte genome beco… |
-| 2026-11-27 19:00:09 | [libo11y-spec](https://crates.io/crates/libo11y-spec) | 0.1.0 | 0 | The libo11y telemetry specification for Rust: attribute keys, closed enums, eve… |
-| 2026-11-27 19:00:38 | [libo11y](https://crates.io/crates/libo11y) | 0.1.0 | 0 | Opinionated OpenTelemetry setup for Rust services: identity, resource, sensitiv… |
-| 2026-11-27 19:00:46 | [arduino-router](https://crates.io/crates/arduino-router) | 0.1.0 | 0 | Async MessagePack-RPC client, streaming codec, and virtual serial monitor for A… |
-| 2026-11-27 19:00:52 | [libo11y-cli](https://crates.io/crates/libo11y-cli) | 0.1.0 | 0 | Command-line tool for libo11y: validates application attribute registries again… |
-| 2026-11-27 19:01:23 | [with-literal-env](https://crates.io/crates/with-literal-env) | 1.0.1 | 0 | Provides an attribute macro for including a compile-time environment variable e… |
-| 2026-11-27 19:01:29 | [cortexkit-avatar-knitted-toys](https://crates.io/crates/cortexkit-avatar-knitted-toys) | 0.1.0 | 0 | Draws the creature.knitted-toys avatar type: a stored 16,384-byte genome become… |
-| 2026-11-27 19:01:39 | [swadesh-core](https://crates.io/crates/swadesh-core) | 0.1.0 | 0 | Bit-exact, parallel sacreBLEU (BLEU, chrF, chrF++) in Rust |
-| 2026-11-27 19:01:57 | [fast-text-ft](https://crates.io/crates/fast-text-ft) | 0.9.0 | 0 | The .ft extension framework for Fast Text: manifests, hooks, and extension runt… |
-| 2026-11-27 19:05:38 | [callout-rewards-algo](https://crates.io/crates/callout-rewards-algo) | 0.1.0 | 0 | The callout rewards algorithm: how attributed volume becomes reward dollars |
-| 2026-11-27 19:09:04 | [briny-proc](https://crates.io/crates/briny-proc) | 0.1.0 | 0 | Lightweight procedural macro parsing functions |
-| 2026-11-27 19:10:08 | [webvpn-proto](https://crates.io/crates/webvpn-proto) | 0.1.0 | 0 | The WebVPN wire protocol: control frames, the UDP data packet and the WebSocket… |
-| 2026-11-27 19:10:23 | [webvpn-server](https://crates.io/crates/webvpn-server) | 0.1.0 | 0 | The WebVPN relay as a library: sessions, sockets and the policy a relay's opera… |
-| 2026-11-27 19:10:34 | [tmmcore](https://crates.io/crates/tmmcore) | 0.1.0 | 0 | Transfer-matrix method for multilayer thin-film optics with exact derivatives,… |
-| 2026-11-27 19:10:40 | [webvpnd](https://crates.io/crates/webvpnd) | 0.1.0 | 0 | The WebVPN relay as a program: one relay on WebTransport and WebSocket, set up… |
-| 2026-11-27 19:10:46 | [libo11y-test](https://crates.io/crates/libo11y-test) | 0.1.0 | 0 | Hermetic test harness for libo11y: in-memory telemetry recorder, conformance an… |
-| 2026-11-27 19:12:19 | [pdfmd](https://crates.io/crates/pdfmd) | 0.4.0 | 0 | Fast, dependency-free PDF to Markdown converter |
-| 2026-11-27 19:14:59 | [cortexkit-avatar-small-robots](https://crates.io/crates/cortexkit-avatar-small-robots) | 0.1.0 | 0 | Draws the creature.small-robots avatar type: a stored 16,384-byte genome become… |
-| 2026-11-27 19:16:09 | [mssql-mcp](https://crates.io/crates/mssql-mcp) | 0.1.0 | 0 | Native Model Context Protocol server for Microsoft SQL Server |
-| 2026-11-27 19:17:08 | [sendord](https://crates.io/crates/sendord) | 0.0.0-placeholder | 0 | Offline-first post-quantum secure container for confidential file distribution. |
-| 2026-11-27 19:20:16 | [rargo-machine](https://crates.io/crates/rargo-machine) | 0.7.11 | 0 | The state-machine trait every rargo state machine implements |
-| 2026-11-27 19:20:27 | [x-twitter-mcp](https://crates.io/crates/x-twitter-mcp) | 2.0.0 | 0 | MCP server for X (Twitter): 10 grouped tools, 69 actions. Posts, timelines, use… |
-| 2026-11-27 19:20:50 | [libo11y-tonic](https://crates.io/crates/libo11y-tonic) | 0.1.0 | 0 | OpenTelemetry tracing and metrics Tower layers for tonic gRPC servers and clien… |
+| 2026-11-27 19:24:02 | [seiva-resilience](https://crates.io/crates/seiva-resilience) | 0.2.2 | 0 | Production resilience primitives for Delonix Seiva: a circuit breaker (closed/o… |
+| 2026-11-27 19:24:09 | [seiva-llm](https://crates.io/crates/seiva-llm) | 0.2.2 | 0 | The provider-neutral language-model port of Delonix Seiva: messages, tools, str… |
+| 2026-11-27 19:24:20 | [seiva-worker](https://crates.io/crates/seiva-worker) | 0.2.2 | 0 | Delonix Seiva — the framework worker runtime: a data-layer-free one-pass loop w… |
+| 2026-11-27 19:24:26 | [seiva](https://crates.io/crates/seiva) | 0.2.2 | 0 | Delonix Seiva — a Rust backend framework for robust, high-criticality systems.… |
+| 2026-11-27 19:24:30 | [cargo-seiva](https://crates.io/crates/cargo-seiva) | 0.2.2 | 0 | Delonix Seiva — architecture fitness functions (Clean-Architecture layer rule,… |
+| 2026-11-27 19:28:33 | [cortexkit-avatar-drawn-heads](https://crates.io/crates/cortexkit-avatar-drawn-heads) | 0.1.0 | 0 | Draws the creature.drawn-heads avatar type: a stored 16,384-byte genome becomes… |
+| 2026-11-27 19:30:28 | [libo11y-connect](https://crates.io/crates/libo11y-connect) | 0.1.0 | 0 | OpenTelemetry tracing, metrics, and canonical log line instrumentation for conn… |
+| 2026-11-27 19:30:44 | [pqkeep](https://crates.io/crates/pqkeep) | 0.0.0-placeholder | 0 | Post-quantum encrypted offline vault for confidential data storage. |
+| 2026-11-27 19:31:28 | [pqcfile](https://crates.io/crates/pqcfile) | 0.0.0-placeholder | 0 | Post-quantum secure file format specification & toolkit. |
+| 2026-11-27 19:31:45 | [sieve-mcp](https://crates.io/crates/sieve-mcp) | 1.0.0 | 0 | sieve — NTRanch's media classification MCP stdio server: the fathom-video conte… |
+| 2026-11-27 19:31:49 | [seiva-ai-gateway](https://crates.io/crates/seiva-ai-gateway) | 0.2.2 | 0 | The AI gateway of Delonix Seiva: identity, authorization, budget, masking of pe… |
+| 2026-11-27 19:32:30 | [pqcsoft](https://crates.io/crates/pqcsoft) | 0.0.0-placeholder | 0 | Post-quantum cryptography software toolkit & core runtime. |
+| 2026-11-27 19:32:50 | [mesmer](https://crates.io/crates/mesmer) | 1.1.0 | 0 | mesmer — a deterministic, consent-gated hypnosis content composer MCP server (N… |
+| 2026-11-27 19:32:52 | [no-mistakes-invocation](https://crates.io/crates/no-mistakes-invocation) | 0.109.124 | 0 | Process-wide invocation locking, deadlines, and child process-tree control for… |
+| 2026-11-27 19:34:21 | [no-mistakes-postgres-sql](https://crates.io/crates/no-mistakes-postgres-sql) | 0.109.124 | 0 | PostgreSQL SQL parsing, statement facts, and identifier extraction for no-mista… |
+| 2026-11-27 19:34:21 | [emissary-workflow](https://crates.io/crates/emissary-workflow) | 0.2.0 | 0 | Async agent workflows with parallel supersteps, checkpoint recovery and human i… |
+| 2026-11-27 19:35:10 | [no-mistakes-ts-facts](https://crates.io/crates/no-mistakes-ts-facts) | 0.109.124 | 0 | TypeScript AST parsing, module facts, and value-flow extraction for no-mistakes |
+| 2026-11-27 19:35:24 | [no-mistakes-rule-kernel](https://crates.io/crates/no-mistakes-rule-kernel) | 0.109.124 | 0 | Shared rule primitives for no-mistakes |
+| 2026-11-27 19:37:05 | [assetc-atlas](https://crates.io/crates/assetc-atlas) | 0.4.0 | 0 | The atlas packing of assetc: named images into one texture in grid cells or tig… |
+| 2026-11-27 19:40:37 | [libo11y-http](https://crates.io/crates/libo11y-http) | 0.1.0 | 0 | Tower HTTP server and client instrumentation layers for libo11y, with optional… |
+| 2026-11-27 19:41:53 | [seiva-cli](https://crates.io/crates/seiva-cli) | 0.2.2 | 0 | The Delonix Seiva CLI (binary `seiva`): scaffold projects and modules, run the… |
+| 2026-11-27 19:42:30 | [cortexkit-avatar](https://crates.io/crates/cortexkit-avatar) | 0.1.0 | 0 | Render a stored avatar: routes its type and generation version to the generator… |
+| 2026-11-27 19:45:04 | [gadk-openapi](https://crates.io/crates/gadk-openapi) | 0.5.27 | 0 | An OpenAPI 3.0 and 3.1 toolset for gadk agents: one tool per REST operation |
+| 2026-11-27 19:47:10 | [lockdot](https://crates.io/crates/lockdot) | 0.1.0 | 0 | Encrypted .env files you can commit to git and share with your team |
+| 2026-11-27 19:50:33 | [libo11y-reqwest](https://crates.io/crates/libo11y-reqwest) | 0.1.0 | 0 | reqwest-middleware instrumentation for libo11y: W3C context propagation, HTTP c… |
+| 2026-11-27 19:51:50 | [seiva-client](https://crates.io/crates/seiva-client) | 0.2.2 | 0 | Inter-service client for Delonix Seiva: calls another module's service through… |
+| 2026-11-27 19:52:42 | [qrab-qapi-codegen](https://crates.io/crates/qrab-qapi-codegen) | 0.1.0 | 0 | Generates version-annotated Rust types from QEMU QAPI schemas |
+| 2026-11-27 19:52:43 | [qrab-qapi-macros](https://crates.io/crates/qrab-qapi-macros) | 0.1.0 | 0 | Attribute macro for the generated QEMU QAPI types of qrab-qapi |
+| 2026-11-27 19:52:45 | [qrab-qapi](https://crates.io/crates/qrab-qapi) | 0.1.0 | 0 | QEMU QMP and guest agent (QGA) types generated from every QEMU release schema |
+| 2026-11-27 19:52:47 | [qrab-qapi-protocol](https://crates.io/crates/qrab-qapi-protocol) | 0.1.0 | 0 | Async QEMU QMP and guest agent (QGA) clients and mock servers |
+| 2026-11-27 19:53:23 | [gme-core](https://crates.io/crates/gme-core) | 0.1.0 | 0 | Core types and audio engine for Game Music Emu |
+| 2026-11-27 19:53:23 | [gme-ym2612-mame](https://crates.io/crates/gme-ym2612-mame) | 0.1.0 | 0 | Optional MAME YM2612 synthesis core for Game Music Emu |
+| 2026-11-27 19:53:26 | [gme-common](https://crates.io/crates/gme-common) | 0.1.0 | 0 | Common emulator framework for Game Music Emu |
+| 2026-11-27 19:53:29 | [gme-ay](https://crates.io/crates/gme-ay) | 0.1.0 | 0 | ZX Spectrum AY music emulator for game-music-emu |
+| 2026-11-27 19:53:30 | [gme-gbs](https://crates.io/crates/gme-gbs) | 0.1.0 | 0 | Game Boy GBS music emulator for game-music-emu |
+| 2026-11-27 19:57:42 | [crisol](https://crates.io/crates/crisol) | 0.1.3 | 0 | Crisol: an IDE-style desktop workbench for egui with themes, custom chrome, com… |
+| 2026-11-27 19:58:19 | [linear-time](https://crates.io/crates/linear-time) | 0.0.0 | 0 | Reserved for linear-time: a command-line tool (lt) that reads the clock, times… |
+| 2026-11-27 19:58:52 | [crisol-host](https://crates.io/crates/crisol-host) | 0.1.3 | 0 | A declarative host for crisol: a versioned application spec, patches, events, a… |
+| 2026-11-27 19:59:06 | [crisol-extensions](https://crates.io/crates/crisol-extensions) | 0.1.3 | 0 | Sandboxed WebAssembly extensions for crisol: manifests, capabilities, host API,… |
+| 2026-11-27 19:59:09 | [crisol-agent](https://crates.io/crates/crisol-agent) | 0.1.3 | 0 | MCP server, permissions, accessibility tree, and automation for crisol. |
+| 2026-11-27 19:59:13 | [crisol-remote](https://crates.io/crates/crisol-remote) | 0.1.3 | 0 | Remote UI server for crisol: the 0.11 protocol over WebSocket, localhost by def… |
+| 2026-11-27 19:59:18 | [crisol-chem-core](https://crates.io/crates/crisol-chem-core) | 0.1.3 | 0 | Shared, egui-free chemical document model, selection bus, events, bridges, and… |
+| 2026-11-27 20:00:26 | [gme-vgm](https://crates.io/crates/gme-vgm) | 0.1.0 | 0 | VGM (Sega SMS/Genesis) music emulator for game-music-emu |
+| 2026-11-27 20:00:29 | [kprog](https://crates.io/crates/kprog) | 0.1.0 | 0 | Kendryte K210 UART SRAM uploader, flash programmer, and reset tool |
+| 2026-11-27 20:00:38 | [libo11y-sqlx](https://crates.io/crates/libo11y-sqlx) | 0.1.0 | 0 | OpenTelemetry SQLx instrumentation for libo11y: sanitized db.query.text, parent… |
+| 2026-11-27 20:00:40 | [decouple-anything](https://crates.io/crates/decouple-anything) | 0.1.0 | 0 | Deterministic monolith decomposition with parity and performance proofs |
+| 2026-11-27 20:01:50 | [seiva-contract](https://crates.io/crates/seiva-contract) | 0.2.2 | 0 | Transport-neutral wire-contract types (Validate, ValidationError, RFC 9457 Prob… |
+| 2026-11-27 20:03:19 | [the-janitor](https://crates.io/crates/the-janitor) | 0.1.0 | 0 | A rust project janitor. Clean the mess left by "Cargo" after you're done ! |
+| 2026-11-27 20:06:27 | [evener](https://crates.io/crates/evener) | 0.0.1 | 0 | Reserved name for Evener, the Rust harness that runs AI agents and evens the lo… |
+| 2026-11-27 20:08:47 | [conundrum_server_rs](https://crates.io/crates/conundrum_server_rs) | 0.1.1 | 0 | Be less dum. |
+| 2026-11-27 20:10:26 | [gme-gym](https://crates.io/crates/gme-gym) | 0.1.0 | 0 | Sega Genesis GYM music emulator for game-music-emu |
+| 2026-11-27 20:11:52 | [seiva-console-admin](https://crates.io/crates/seiva-console-admin) | 0.2.2 | 0 | The optional Delonix Seiva admin console — a self-contained, CDN-free operation… |
+| 2026-11-27 20:11:53 | [crisol-chem2d](https://crates.io/crates/crisol-chem2d) | 0.1.3 | 0 | A vector 2D chemistry editor for crisol: molecular graph, camera, painter, sele… |
+| 2026-11-27 20:13:48 | [proteus-lang](https://crates.io/crates/proteus-lang) | 0.1.0 | 0 | The Proteus language for programmable network protocols |
+| 2026-11-27 20:16:25 | [rust-guardrails](https://crates.io/crates/rust-guardrails) | 0.3.0 | 0 | Quality gates for agent-written Rust: curated lints, drift checks, cargo-deny,… |
+| 2026-11-27 20:19:12 | [crisol-mol3d](https://crates.io/crates/crisol-mol3d) | 0.1.3 | 0 | A 3D molecular and crystal viewport for crisol: arcball camera, scene, picking,… |
 
 ## Data source
 
