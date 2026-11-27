@@ -1,0 +1,50 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-27T11:21:53.358455Z,pir-plugin-api,0.3.3,0,0,https://github.com/Cricle/pir,"Engine-free plugin protocol for the pir coding agent: builtin descriptors, plugin events, tool results"
+2026-11-27T11:22:08.198594Z,pir-protocol,0.3.3,0,0,https://github.com/Cricle/pir,"Provider-agnostic wire protocol for pir: strict CBOR subset, length-prefixed framing and schema validation"
+2026-11-27T11:22:18.122871Z,pir-telemetry,0.3.3,0,0,https://github.com/Cricle/pir,"Vendor-neutral span, metric, propagation and trace-store core for pir (upstream pi-telemetry surface)"
+2026-11-27T11:22:27.569135Z,nrz,0.0.1,0,0,https://github.com/naturrhythmuszentrum/naturrhythmuszentrum,Application-facing facade and command-line entry point of the Naturrhythmuszentrum physics calculation engine
+2026-11-27T11:22:28.990422Z,nrz-accuracy,0.0.1,0,0,https://github.com/naturrhythmuszentrum/naturrhythmuszentrum,Dimension-neutral nonnegative bounds and conservative accuracy policies
+2026-11-27T11:22:30.353484Z,nrz-bindings,0.0.1,0,0,https://github.com/naturrhythmuszentrum/naturrhythmuszentrum,Data-time quantity descriptors and checks over original symbolic expressions
+2026-11-27T11:22:31.534697Z,nrz-cas,0.0.1,0,0,https://github.com/naturrhythmuszentrum/naturrhythmuszentrum,Exact graph construction and checked symbolic derivations
+2026-11-27T11:22:32.746486Z,nrz-docgen,0.0.1,0,0,https://github.com/naturrhythmuszentrum/naturrhythmuszentrum,"Deterministic documentation datasets, rendering, and fixed-point checks"
+2026-11-27T11:22:41.744374Z,pir-ai-types,0.3.3,0,0,https://github.com/Cricle/pir,"Provider-neutral AI value types for pir: messages, models, usage, stream options and the assistant event stream (upstream packages/ai/src/types.ts)"
+2026-11-27T11:23:14.628048Z,pir-durable,0.3.3,0,0,https://github.com/Cricle/pir,"Durable conversation, task and document runtime for pir (native port of @earendil-works/pi-durable)"
+2026-11-27T11:27:17.707785Z,reflectapi-conventions,0.27.0-alpha.0,0,0,https://github.com/thepartly/reflectapi,"Opinionated API types and lints for reflectapi: cursor pagination, identity envelopes, conflict clauses, and checks against Partly's HTTP API Guidelines."
+2026-11-27T11:28:34.908812Z,safeusb,0.1.0,0,0,https://github.com/bloforge/safeusb,"Cross-platform disk backup, restore, and USB flashing tool"
+2026-11-27T11:31:41.761144Z,formcore,0.0.1,0,0,https://github.com/techton7/formcore,"Pure Rust, UI- and runtime-agnostic headless form state machine, typed field paths, raw draft parse blockers, and validation engine."
+2026-11-27T11:31:44.573901Z,formoxus,0.0.1,0,0,https://github.com/techton7/formoxus,"Headless, statically typed form management and validation facade for Dioxus (Web WASM and Blitz Native), powered by formcore."
+2026-11-27T11:32:54.674953Z,nrz-matrix,0.0.1,0,0,https://github.com/naturrhythmuszentrum/naturrhythmuszentrum,Typed descriptor heap with owned numerical regions and bound companions
+2026-11-27T11:35:14.61938Z,parse_num,0.1.2,0,0,https://github.com/RustaceanLuna/parse_num,Parse integers from byte slices efficiently
+2026-11-27T11:38:17.851822Z,verilith-aes,0.1.0,0,0,https://github.com/verilith/verilith,"Formally verified (Verus) AES-128 and AES-256 (FIPS 197) and AES-GCM (NIST SP 800-38D), with AES-NI, VAES and ARMv8 AES kernels"
+2026-11-27T11:38:20.46537Z,verilith-core,0.1.0,0,0,https://github.com/verilith/verilith,"Formally verified (Verus) building blocks shared by the Verilith libraries: trusted memory primitives, byte and bit readers, canonical Huffman tables and UTF-8 validation"
+2026-11-27T11:38:22.614018Z,verilith-h2,0.1.0,0,0,https://github.com/verilith/verilith,"An HTTP/2 (RFC 9113) frame parser and serializer formally verified with Verus, sans I/O"
+2026-11-27T11:38:25.884243Z,verilith-simd,0.1.0,0,0,https://github.com/verilith/verilith,"Verus specifications for x86 SIMD intrinsics (SSE2..AVX2, some AVX-512) and AArch64 NEON, differentially tested against the CPU"
+2026-11-27T11:38:29.619528Z,verilith-sync,0.1.0,0,0,https://github.com/verilith/verilith,"Formally verified (Verus) concurrency primitives: SPSC and MPMC queues, channels, and locks, as drop-ins for rtrb, crossbeam and parking_lot"
+2026-11-27T11:40:31.498492Z,solidrpc-rpc-xray,0.1.0,0,0,https://github.com/SolidRPC/rpc-xray,Prometheus metrics for HTTP JSON-RPC clients
+2026-11-27T11:41:43.608552Z,lilyco-bot,0.1.0,0,0,https://github.com/Lyco-team/lilyco-bot,"Multi-platform IM Bot backend for Lilyco (Telegram / QQ OneBot / WeChat iLink) — define App once, run as CLI, GUI, MCP, and Chat Bot"
+2026-11-27T11:42:50.583202Z,talents-core,0.1.0,0,0,https://github.com/SurmountSystems/talents,Core library for talents-bip32 and talents-bip39
+2026-11-27T11:42:51.109224Z,talents-ledger,0.1.0,0,0,https://github.com/SurmountSystems/talents,Ledger Nano X/S connection and communication management library
+2026-11-27T11:42:52.096844Z,talents-bip32,0.1.0,0,0,https://github.com/SurmountSystems/talents,Bip32 in Rust
+2026-11-27T11:42:53.933734Z,talents-bip39,0.1.0,0,0,https://github.com/SurmountSystems/talents,BIP39 implementation for coins
+2026-11-27T11:43:02.476781Z,nrz-scalar,0.0.1,0,0,https://github.com/naturrhythmuszentrum/naturrhythmuszentrum,Finite binary element arithmetic with outward enclosures
+2026-11-27T11:44:21.454639Z,lilyco-example,0.3.1,0,0,https://github.com/lilyco-42/lilyco,Lilyco demo — image compression tool
+2026-11-27T11:45:03.62898Z,lilyco-dev,0.3.1,0,0,https://github.com/lilyco-42/lilyco,lilyco meta CLI — new / build / run / doc: the cargo-style developer loop for four-surface (CLI / TUI / Web / MCP) apps
+2026-11-27T11:46:28.795513Z,lilyco-files,0.3.0,0,0,https://github.com/lilyco-42/lilyco,lfiles — 文件整理域：查找 / 批量重命名 / 去重 / 目录统计，四端 (CLI / TUI / Web / MCP) + AI 可调
+2026-11-27T11:46:38.812337Z,lilyco-grep,0.3.0,0,0,https://github.com/lilyco-42/lilyco,"Lilyco demo — a simple recursive grep, four interfaces + AI-callable by default"
+2026-11-27T11:48:59.862155Z,verilith-wasm,0.1.0,0,0,https://github.com/verilith/verilith,A formally verified (Verus) WebAssembly validator and sandboxed interpreter
+2026-11-27T11:51:19.788308Z,lilyco-pet,0.3.0,0,0,https://github.com/lilyco-42/lilyco,Lilyco 桌宠桥 — 丛雨（cute-pet）动作与语音成为 AI 可调工具：pet-say（EdgeTTS）/ pet-act，T0 安全分级 + 遥测
+2026-11-27T11:59:18.999894Z,verilith-x509,0.1.0,0,0,https://github.com/verilith/verilith,A formally verified (Verus) DER and X.509 certificate parser
+2026-11-27T12:01:01.464889Z,cpufish-aocl,0.0.0,0,0,https://github.com/ThinkersJournal/cpufish,"Reserved name: the AMD AOCL backend of CPUFish, the CPU math backend. Placeholder, no functionality yet."
+2026-11-27T12:01:16.594197Z,cpufish-onemkl,0.0.0,0,0,https://github.com/ThinkersJournal/cpufish,"Reserved name: the Intel oneMKL backend of CPUFish, the CPU math backend. Placeholder, no functionality yet."
+2026-11-27T12:01:31.895077Z,cpufish-openblas,0.0.0,0,0,https://github.com/ThinkersJournal/cpufish,"Reserved name: the OpenBLAS backend of CPUFish, the CPU math backend. Placeholder, no functionality yet."
+2026-11-27T12:01:47.183641Z,cpufish-bench,0.0.0,0,0,https://github.com/ThinkersJournal/cpufish,"Reserved name: the benchmark harness of CPUFish, the CPU math backend. Placeholder, no functionality yet."
+2026-11-27T12:04:43.281693Z,evm-legacy,0.44.0,0,0,https://github.com/rust-ethereum/evm-legacy,"Ethereum Virtual Machine, the 0.x line"
+2026-11-27T12:05:55.153837Z,pir-builtin-subagent,0.3.3,0,0,https://github.com/Cricle/pir,"Host-neutral pure core of the pir subagent builtin: agent discovery, frontmatter parsing, result aggregation"
+2026-11-27T12:06:03.479583Z,pir-builtin-mode,0.3.3,0,0,https://github.com/Cricle/pir,"Host-neutral foreman/plan/normal mode domain for the pir coding agent: phases, approvals, journal replay, delegation routing"
+2026-11-27T12:06:11.096347Z,pir-builtin-mcp,0.3.3,0,0,https://github.com/Cricle/pir,Host-neutral pure core of the pir MCP builtin: tool namespacing and exposure resolution rules
+2026-11-27T12:06:18.870834Z,pir-builtin-codemode,0.3.3,0,0,https://github.com/Cricle/pir,Host-neutral pure core of the pir codemode builtin: script identifier normalization and budget truncation
+2026-11-27T12:06:39.408058Z,pir-builtin-context-mode,0.3.3,0,0,https://github.com/Cricle/pir,"Host-neutral pure core of the pir context-mode builtin: batch validation, fetch normalization, document chunking, journal shaping"
+2026-11-27T12:09:43.09135Z,verilith-brotli,0.1.0,0,0,https://github.com/verilith/verilith,A formally verified (Verus) Brotli (RFC 7932) decompressor with google/brotli's decoder C API
+2026-11-27T12:16:39.897837Z,pir-builtin-tool-search,0.3.3,0,0,https://github.com/Cricle/pir,"BM25 ranking for the pir deferred-tool search builtin (tokenization, document text, deterministic ordering)"
+2026-11-27T12:20:04.764212Z,verilith-checksum,0.1.0,0,0,https://github.com/verilith/verilith,"Formally verified (Verus) CRC-32, CRC-32C and Adler-32, with verified carry-less-multiply (PCLMULQDQ, VPCLMULQDQ) and dot-product (AVX-512 VNNI, AVX2, NEON udot) kernels"
+2026-11-27T12:21:16.060857Z,blockzilla-primitives,0.2.0,0,0,https://github.com/blockzilla-dev/blockzilla,"Shared key, string-table and LEB128 framing primitives"
