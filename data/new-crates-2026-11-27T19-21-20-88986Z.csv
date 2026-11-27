@@ -1,0 +1,55 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-27T18:20:56.460111Z,rs-matter-onboard,0.5.0,0,0,https://github.com/project-chip/rs-matter,Native Rust implementation of the Matter (Smart-Home) ecosystem - the commissioner
+2026-11-27T18:21:51.404886Z,padrino,0.1.0,0,0,https://github.com/umbgtt10/padrino,"A no_std, protocol-independent credentials bookkeeper: who may join and on whose word, every claim checked against its evidence -- verified, never signed. In design; the API starts at 0.2.0."
+2026-11-27T18:24:14.663061Z,weirdnet-media,0.1.0,0,0,https://github.com/WeirdBrains/weirdnet-media,"Weirdnet media processing for clients and nodes: WAV probing and PCM in pure Rust, 16 kHz resampling, silence-aware chunking, long-audio transcription plans, long-text speech plans, SRT/VTT, video fr…"
+2026-11-27T18:25:20.62704Z,absotui,0.12.4,0,0,https://github.com/pdwaldrop/absotui,"A fast, keyboard-driven terminal client for Audiobookshelf: audiobooks and podcasts, with progress sync and offline downloads"
+2026-11-27T18:26:28.281766Z,cortexkit-avatar-tables,0.1.0,0,0,https://github.com/cortexkit/avatar,Committed lookup tables and integer helpers that keep avatar generation identical on every platform.
+2026-11-27T18:27:34.885187Z,cortexkit-avatar-phenotype,0.1.0,0,0,https://github.com/cortexkit/avatar,Typed fixed-point units and the phenotype struct decoded from a classic avatar genome.
+2026-11-27T18:28:54.731158Z,cortexkit-avatar-genome,0.1.0,0,0,https://github.com/cortexkit/avatar,"The classic avatar genome, its decoder to a phenotype, and genomes derived from an identifier."
+2026-11-27T18:29:19.76468Z,meshbox,0.1.0,0,0,https://github.com/jmsansan/meshbox,"Low-poly and voxel 3D models from plain text: stacked voxel grids meshed to binary glTF, with a palette texture and a four-view preview sheet. A zero-dependency Rust library and CLI designed for AI-a…"
+2026-11-27T18:29:54.257526Z,grasp-core,0.1.0,0,0,https://github.com/markojak/grasp,Core semantic code retrieval library backed by a System 1 or OpenAI-compatible decision model
+2026-11-27T18:29:56.224909Z,grasp-cli,0.1.0,0,0,https://github.com/markojak/grasp,Fast semantic code retrieval CLI for coding agents and developers
+2026-11-27T18:30:13.0211Z,cortexkit-avatar-svg,0.1.0,0,0,https://github.com/cortexkit/avatar,"Deterministic avatar creature generators, the render tree they produce, and its JSON and SVG serializers."
+2026-11-27T18:31:08.358033Z,rs-matter-respond,0.5.0,0,0,https://github.com/project-chip/rs-matter,Native Rust implementation of the Matter (Smart-Home) ecosystem - the responders of the incoming exchanges
+2026-11-27T18:31:41.385892Z,cortexkit-avatar-raster,0.1.0,0,0,https://github.com/cortexkit/avatar,Rasterize avatar render trees and their SVG into sRGB RGBA8 images.
+2026-11-27T18:32:48.6505Z,cortexkit-avatar-wild-plus,0.1.0,0,0,https://github.com/cortexkit/avatar,"Draws the creature.wild-plus avatar type: a stored 16,384-byte genome becomes a render tree."
+2026-11-27T18:35:48.514917Z,serge4rust,0.2.0,0,0,https://github.com/umbgtt10/serge4rust,"The house's quality gates as a library: one gate trait, one command runner and a gate for each *4rust tool, cargo-llvm-cov and cargo-deny, with the commit scoring, so every repository's xtask runs th…"
+2026-11-27T18:37:50.416512Z,farstar,0.0.1,0,0,,Farstar: the session layer for any sandbox. Placeholder release; in development.
+2026-11-27T18:40:53.099703Z,rustfront,0.0.1,0,0,https://github.com/Pyrucast/rustfront,"Evaluate MFront material behaviours (constitutive laws) at a material point, in pure Rust, without MGIS or any C++ build dependency"
+2026-11-27T18:41:38.786665Z,procmon-cli,0.1.0,0,0,https://github.com/thepangel/procmon,Process memory monitor for Linux and Windows inspired by WOZMON
+2026-11-27T18:46:11.926817Z,cortexkit-avatar-sprouts,0.1.0,0,0,https://github.com/cortexkit/avatar,"Draws the creature.sprouts avatar type: a stored 16,384-byte genome becomes a render tree."
+2026-11-27T18:48:16.885134Z,context-lint,0.1.0,0,0,https://github.com/alexisrazok/context-lint,"Fast cross-platform linter for AI coding agent context files (CLAUDE.md, AGENTS.md, GEMINI.md, Cursor rules, skills, and MCP bloat)."
+2026-11-27T18:48:22.184823Z,agent-vault-cli,0.1.0,0,0,https://github.com/alexisrazok/agent-vault,Cross-platform zero-knowledge secret proxy and output redactor for AI coding agents and MCP servers.
+2026-11-27T18:48:27.107111Z,dotagents-cli,0.1.0,0,0,https://github.com/alexisrazok/dotagents,"Universal compiler and syncer for AI coding agent rules, skills, and MCP configs (Claude Code, Codex, Antigravity/Gemini, Cursor, Copilot)."
+2026-11-27T18:48:38.301814Z,cadmium,0.2.0,0,0,https://github.com/ShreyasT123/cadmium,A cross-platform Rust UI framework inspired by macOS design.
+2026-11-27T18:50:45.999401Z,swarm-control,0.1.1,0,0,https://github.com/DeamonDev888/swarm-control,"Instancie des agents IA persistants via LiteMCP en Rust. Chaque agent créé = 1 profil et 1 exécutable : il vit, se souvient et communique avec ses pairs. Compatible Hermes (natif), Claude Code, Antig…"
+2026-11-27T18:54:17.431329Z,knowledge-architect-cargo-reader,0.0.0,0,0,https://github.com/teoboutin/knowledge-architect,"Placeholder of a crate of knowledge-architect, published at its next release"
+2026-11-27T18:56:36.757478Z,mbus-kit,0.1.1,0,0,https://github.com/hupe1980/mbus-kit,"M-Bus and wireless M-Bus (EN 13757-2/-3/-4) for Rust: heat, water and gas meter readout with a sans-I/O, no_std, allocation-free core"
+2026-11-27T18:59:23.830107Z,wgslift-syntax,0.1.0,0,0,https://github.com/LargeModGames/wgslift,"Preprocessor, lexer and parser for HLSL, the front end of the wgslift translator"
+2026-11-27T18:59:35.966925Z,wgslift,0.1.0,0,0,https://github.com/LargeModGames/wgslift,Translates Direct3D 9 era HLSL shaders to WGSL
+2026-11-27T18:59:56.175509Z,tidewarp,0.2.0,0,0,https://github.com/LargeModGames/tidewarp,A MilkDrop-format music visualizer engine that renders into your own pixel buffer
+2026-11-27T19:00:00.09577Z,libo11y-macros,0.1.0,0,0,https://github.com/jamesainslie/libo11y,The #[derive(Redact)] procedural macro for libo11y-redact: capture-time redaction of struct and enum fields through o11y attributes.
+2026-11-27T19:00:07.015227Z,libo11y-redact,0.1.0,0,0,https://github.com/jamesainslie/libo11y,"Capture-time redaction for libo11y: Secret and Masked wrappers and the Redact trait, so sensitive values render protected on every Debug, Display, serde and tracing surface."
+2026-11-27T19:00:09.858277Z,cortexkit-avatar-pixel-critters,0.1.0,0,0,https://github.com/cortexkit/avatar,"Draws the creature.pixel-critters avatar type: a stored 16,384-byte genome becomes a render tree."
+2026-11-27T19:00:09.935123Z,libo11y-spec,0.1.0,0,0,https://github.com/jamesainslie/libo11y,"The libo11y telemetry specification for Rust: attribute keys, closed enums, event and metric names, and the sensitivity and contract tables, generated from the libo11y spec registry."
+2026-11-27T19:00:38.65292Z,libo11y,0.1.0,0,0,https://github.com/jamesainslie/libo11y,"Opinionated OpenTelemetry setup for Rust services: identity, resource, sensitivity policy, exporters, propagation and lifecycle that follow the libo11y specification."
+2026-11-27T19:00:46.070961Z,arduino-router,0.1.0,0,0,https://github.com/manchoz/tactus,"Async MessagePack-RPC client, streaming codec, and virtual serial monitor for Arduino Router (Arduino_RouterBridge / Arduino_RPClite)"
+2026-11-27T19:00:52.139476Z,libo11y-cli,0.1.0,0,0,https://github.com/jamesainslie/libo11y,Command-line tool for libo11y: validates application attribute registries against the libo11y policy rules.
+2026-11-27T19:01:23.539008Z,with-literal-env,1.0.1,0,0,https://github.com/Strikeless/with-literal-env,Provides an attribute macro for including a compile-time environment variable evaluated at the site of the attribute as a string literal
+2026-11-27T19:01:29.845159Z,cortexkit-avatar-knitted-toys,0.1.0,0,0,https://github.com/cortexkit/avatar,"Draws the creature.knitted-toys avatar type: a stored 16,384-byte genome becomes a render tree."
+2026-11-27T19:01:39.761114Z,swadesh-core,0.1.0,0,0,https://github.com/apeters247/swadesh,"Bit-exact, parallel sacreBLEU (BLEU, chrF, chrF++) in Rust"
+2026-11-27T19:01:57.294373Z,fast-text-ft,0.9.0,0,0,https://github.com/Fast-Text-editor/Fast-text-editor,"The .ft extension framework for Fast Text: manifests, hooks, and extension runtime."
+2026-11-27T19:05:38.48334Z,callout-rewards-algo,0.1.0,0,0,https://github.com/pump-fun/callout-rewards-algo,The callout rewards algorithm: how attributed volume becomes reward dollars
+2026-11-27T19:09:04.045877Z,briny-proc,0.1.0,0,0,https://github.com/bobbothe2nd/briny-proc,Lightweight procedural macro parsing functions
+2026-11-27T19:10:08.196863Z,webvpn-proto,0.1.0,0,0,https://github.com/banou26/webvpn,"The WebVPN wire protocol: control frames, the UDP data packet and the WebSocket mux frame"
+2026-11-27T19:10:23.645814Z,webvpn-server,0.1.0,0,0,https://github.com/banou26/webvpn,"The WebVPN relay as a library: sessions, sockets and the policy a relay's operator plugs in"
+2026-11-27T19:10:34.363609Z,tmmcore,0.1.0,0,0,https://github.com/aai2k/tmmcore,"Transfer-matrix method for multilayer thin-film optics with exact derivatives, phase dispersion and deposition monitoring."
+2026-11-27T19:10:40.567908Z,webvpnd,0.1.0,0,0,https://github.com/banou26/webvpn,"The WebVPN relay as a program: one relay on WebTransport and WebSocket, set up by environment variables"
+2026-11-27T19:10:46.439449Z,libo11y-test,0.1.0,0,0,https://github.com/jamesainslie/libo11y,"Hermetic test harness for libo11y: in-memory telemetry recorder, conformance and correlation assertions, and in-process OTLP HTTP and gRPC receivers."
+2026-11-27T19:12:19.852564Z,pdfmd,0.4.0,0,0,https://github.com/colesmcintosh/pdfmd,"Fast, dependency-free PDF to Markdown converter"
+2026-11-27T19:14:59.336332Z,cortexkit-avatar-small-robots,0.1.0,0,0,https://github.com/cortexkit/avatar,"Draws the creature.small-robots avatar type: a stored 16,384-byte genome becomes a render tree."
+2026-11-27T19:16:09.661741Z,mssql-mcp,0.1.0,0,0,https://github.com/jfortez/mssql-mcp,Native Model Context Protocol server for Microsoft SQL Server
+2026-11-27T19:17:08.760995Z,sendord,0.0.0-placeholder,0,0,https://github.com/sendord/.github,Offline-first post-quantum secure container for confidential file distribution.
+2026-11-27T19:20:16.629704Z,rargo-machine,0.7.11,0,0,https://github.com/Clavigers/rargo2,The state-machine trait every rargo state machine implements
+2026-11-27T19:20:27.346191Z,x-twitter-mcp,2.0.0,0,0,https://github.com/EL4CTEO/x-mcp,"MCP server for X (Twitter): 10 grouped tools, 69 actions. Posts, timelines, users, Lists, Spaces, trends, DMs, media upload and image/video viewing. One static binary."
+2026-11-27T19:20:50.826632Z,libo11y-tonic,0.1.0,0,0,https://github.com/jamesainslie/libo11y,OpenTelemetry tracing and metrics Tower layers for tonic gRPC servers and clients following the libo11y specification.
