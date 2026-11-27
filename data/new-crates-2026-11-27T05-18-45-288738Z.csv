@@ -1,0 +1,22 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-27T04:24:58.722004Z,zippa-db-tree-sitter,0.1.1,0,0,https://github.com/sola-ryu/zippa-db-tree-sitter.git,"Tree-sitter SQL grammar for zippa-db: ANSI base plus MySQL, MariaDB, PostgreSQL and SQLite"
+2026-11-27T04:33:39.853093Z,tilolang-engine,0.5.1,0,0,https://code.tilo.so/tilo/tilo,"The device's work for tilolang apps: the engines a crate registers for its app, their jobs and streams, and the frames a stream pushes to the app's window."
+2026-11-27T04:34:42.808966Z,tilo-action-services,0.5.1,0,0,https://code.tilo.so/tilo/tilo,"The actions of the services a device and a workspace run: the apps and files it keeps, the environments and windows they run in, the line its sockets answer on, and the tools and tasks it hands an ag…"
+2026-11-27T04:36:09.688285Z,mancer-common,0.1.0,0,0,https://github.com/afteralec/mancer,Shared library for the `mancer` framework.
+2026-11-27T04:36:54.227283Z,mancer-nyx,0.1.0,0,0,https://github.com/afteralec/mancer,Nyx proxy core implementation for the `mancer` framework.
+2026-11-27T04:37:06.404891Z,mancer-rem,0.1.0,0,0,https://github.com/afteralec/mancer,Rem engine core for the `mancer` framework.
+2026-11-27T04:37:33.609995Z,mancer,0.1.0,0,0,https://github.com/afteralec/mancer,Entrypoint for the `mancer` framework.
+2026-11-27T04:46:54.510233Z,efs-bill,0.1.0,0,0,https://github.com/qwpp7g79y4-maker/efs-bill,Offline estimate of AWS EFS Standard/IA GB-month cost from local JSON exports
+2026-11-27T04:48:10.779735Z,octara-markdown,0.0.5,0,0,https://github.com/octoii-works/octara,"Streaming, selectable Markdown documents and replaceable block slots for Octara."
+2026-11-27T04:50:31.77831Z,k8s-request-bill,0.1.0,0,0,https://github.com/qwpp7g79y4-maker/k8s-request-bill,Offline overprovisioning of Kubernetes requests vs usage from kubectl JSON
+2026-11-27T04:50:40.554796Z,tilo-machine,0.5.1,0,0,https://code.tilo.so/tilo/tilo,"What a session reaches of the computer it draws on, and where this computer's device daemon keeps its profile and sockets: one answer on Linux, macOS and Windows, read by every service that acts on t…"
+2026-11-27T04:53:42.382101Z,cur-top,1.0.0,0,0,https://github.com/qwpp7g79y4-maker/cur-top,Offline top costs from an AWS CUR 2.0 CSV
+2026-11-27T04:55:47.765773Z,gdb-remote,0.1.0,0,0,https://github.com/dmaivel/gdb-remote,"The GDB Remote Serial Protocol without I/O: framing and the packets of GDB and LLDB, parsed and written, for clients and servers."
+2026-11-27T04:56:37.602176Z,tsroute-macros,0.1.0,0,0,https://github.com/matthill8286/tsroute,Proc macros for tsroute
+2026-11-27T04:56:39.069397Z,tsroute,0.1.0,0,0,https://github.com/matthill8286/tsroute,Typed TypeScript + TanStack Query clients generated from your existing axum routes
+2026-11-27T05:01:05.886557Z,lattice-model-inkling2,0.18.0,0,0,https://github.com/ohdearquant/lattice,"Inkling 2 looped mixture-of-experts text decoder for Lattice, on the CPU"
+2026-11-27T05:02:11.321871Z,cli-exit-code,0.1.0,0,0,,"clap-compatible exit codes (0 ok, 1 error, 2 usage). Not sysexits 64; for that use the `exitcode` crate."
+2026-11-27T05:02:49.560779Z,cost-check,0.1.0,0,0,https://github.com/qwpp7g79y4-maker/cost-check,"One offline Cost Check report for ci-bill, log-bill, dd-metric-bill and rum-meter"
+2026-11-27T05:06:56.610663Z,disk-full-doctor,0.1.0,0,0,https://github.com/qwpp7g79y4-maker/disk-full-doctor,Read-only report of why a disk looks full when df and du disagree
+2026-11-27T05:10:16.116388Z,pgwal-doctor,0.1.0,0,0,https://github.com/qwpp7g79y4-maker/pgwal-doctor,Read-only report of why PostgreSQL's pg_wal keeps growing
+2026-11-27T05:12:43.871137Z,termux-sync,2.0.0,0,0,https://github.com/GeneralKaos666/termux-sync-rust,Back up and restore a Termux environment across devices

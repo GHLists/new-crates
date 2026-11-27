@@ -8,39 +8,35 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-27 04:19 UTC
+## Latest list — 2026-11-27 05:18 UTC
 
-New crates published between 2026-11-27 03:19 UTC and 2026-11-27 04:19 UTC.
+New crates published between 2026-11-27 04:19 UTC and 2026-11-27 05:18 UTC.
 
-[Full CSV](data/new-crates-2026-11-27T04-19-55-136343Z.csv)
+[Full CSV](data/new-crates-2026-11-27T05-18-45-288738Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-27 03:31:53 | [cursive-tree-table](https://crates.io/crates/cursive-tree-table) | 0.1.0 | 0 | Tree view for cursive with columnar display |
-| 2026-11-27 03:34:20 | [wpe-jsc-sys](https://crates.io/crates/wpe-jsc-sys) | 0.1.0 | 0 | System bindings for WPE WebKit's JavaScriptCore |
-| 2026-11-27 03:35:23 | [wpe-jsc](https://crates.io/crates/wpe-jsc) | 0.1.0 | 0 | Rust bindings for WPE WebKit's JavaScriptCore |
-| 2026-11-27 03:36:17 | [wpe-platform-sys](https://crates.io/crates/wpe-platform-sys) | 0.1.0 | 0 | System bindings for WPE WebKit's platform API |
-| 2026-11-27 03:37:08 | [wpe-platform](https://crates.io/crates/wpe-platform) | 0.1.0 | 0 | Rust bindings for WPE Platform |
-| 2026-11-27 03:38:40 | [wpe-webkit-sys](https://crates.io/crates/wpe-webkit-sys) | 0.1.0 | 0 | System bindings for WPE WebKit |
-| 2026-11-27 03:40:00 | [wpe-webkit](https://crates.io/crates/wpe-webkit) | 0.1.0 | 0 | Rust bindings for WPE WebKit |
-| 2026-11-27 03:45:04 | [retrace-core](https://crates.io/crates/retrace-core) | 0.0.1 | 0 | Retrace: an "immediate input" UI framework core, combining immediate-mode and r… |
-| 2026-11-27 03:45:06 | [retrace-dioxus](https://crates.io/crates/retrace-dioxus) | 0.0.1 | 0 | Retrace-based development of Dioxus UIs: a Dioxus presenter for the Retrace UI… |
-| 2026-11-27 03:45:06 | [retrace-ratatui](https://crates.io/crates/retrace-ratatui) | 0.0.1 | 0 | Retrace-based development of ratatui terminal UIs: a ratatui presenter for the… |
-| 2026-11-27 03:45:07 | [retrace-dioxus-webawesome](https://crates.io/crates/retrace-dioxus-webawesome) | 0.0.1 | 0 | Web Awesome widgets for the Retrace Dioxus presenter |
-| 2026-11-27 03:50:18 | [webp-lossy](https://crates.io/crates/webp-lossy) | 0.1.0 | 0 | A lossy and animated WebP encoder in pure, safe Rust: VP8 key frames with rate-… |
-| 2026-11-27 03:54:07 | [opendnp3](https://crates.io/crates/opendnp3) | 0.1.1 | 0 | Runtime-agnostic, no_std-compatible DNP3 (IEEE 1815) protocol library |
-| 2026-11-27 03:56:17 | [opendnp3-tokio](https://crates.io/crates/opendnp3-tokio) | 0.1.1 | 0 | Tokio transport integration (TCP, TLS, serial) for the opendnp3 crate |
-| 2026-11-27 03:56:24 | [opendnp3-smol](https://crates.io/crates/opendnp3-smol) | 0.1.1 | 0 | smol async runtime adapter for the opendnp3 crate |
-| 2026-11-27 03:56:29 | [opendnp3-std](https://crates.io/crates/opendnp3-std) | 0.1.1 | 0 | Blocking std::net / OS-thread driver for opendnp3 (zero async runtime) |
-| 2026-11-27 03:56:35 | [opendnp3-embassy](https://crates.io/crates/opendnp3-embassy) | 0.1.1 | 0 | no_std Embassy async runtime adapter for the opendnp3 crate |
-| 2026-11-27 03:56:52 | [pakem-blade](https://crates.io/crates/pakem-blade) | 1.0.5 | 0 | Pure, fast, and standalone Pakem Blade template engine for Rust |
-| 2026-11-27 04:02:03 | [agy-line-core](https://crates.io/crates/agy-line-core) | 0.1.0 | 0 | Pure rendering, state normalization, pricing, and terminal layout kernel for ag… |
-| 2026-11-27 04:02:50 | [agy-line](https://crates.io/crates/agy-line) | 0.1.0 | 0 | Fast, cross-platform Powerline/Unicode status line for Antigravity CLI (agy) |
-| 2026-11-27 04:04:33 | [truce-lv2-meta](https://crates.io/crates/truce-lv2-meta) | 7.0.0 | 0 | LV2 Turtle rendering for truce plugin metadata |
-| 2026-11-27 04:05:10 | [truce-format-lv2](https://crates.io/crates/truce-format-lv2) | 7.0.0 | 0 | LV2 format helper for cargo-truce |
-| 2026-11-27 04:14:01 | [reserving-kernels](https://crates.io/crates/reserving-kernels) | 0.2.2 | 0 | Pure Rust numeric kernels for P&C actuarial reserving and reserve-risk capital… |
-| 2026-11-27 04:17:23 | [lance-dataset-merge](https://crates.io/crates/lance-dataset-merge) | 0.1.0 | 0 | Metadata-only concatenation of Lance datasets in object storage |
-| 2026-11-27 04:18:24 | [tilo-presence](https://crates.io/crates/tilo-presence) | 0.5.1 | 0 | Where a person's presence is and the colour they wear, as plain values the coll… |
+| 2026-11-27 04:24:58 | [zippa-db-tree-sitter](https://crates.io/crates/zippa-db-tree-sitter) | 0.1.1 | 0 | Tree-sitter SQL grammar for zippa-db: ANSI base plus MySQL, MariaDB, PostgreSQL… |
+| 2026-11-27 04:33:39 | [tilolang-engine](https://crates.io/crates/tilolang-engine) | 0.5.1 | 0 | The device's work for tilolang apps: the engines a crate registers for its app,… |
+| 2026-11-27 04:34:42 | [tilo-action-services](https://crates.io/crates/tilo-action-services) | 0.5.1 | 0 | The actions of the services a device and a workspace run: the apps and files it… |
+| 2026-11-27 04:36:09 | [mancer-common](https://crates.io/crates/mancer-common) | 0.1.0 | 0 | Shared library for the `mancer` framework. |
+| 2026-11-27 04:36:54 | [mancer-nyx](https://crates.io/crates/mancer-nyx) | 0.1.0 | 0 | Nyx proxy core implementation for the `mancer` framework. |
+| 2026-11-27 04:37:06 | [mancer-rem](https://crates.io/crates/mancer-rem) | 0.1.0 | 0 | Rem engine core for the `mancer` framework. |
+| 2026-11-27 04:37:33 | [mancer](https://crates.io/crates/mancer) | 0.1.0 | 0 | Entrypoint for the `mancer` framework. |
+| 2026-11-27 04:46:54 | [efs-bill](https://crates.io/crates/efs-bill) | 0.1.0 | 0 | Offline estimate of AWS EFS Standard/IA GB-month cost from local JSON exports |
+| 2026-11-27 04:48:10 | [octara-markdown](https://crates.io/crates/octara-markdown) | 0.0.5 | 0 | Streaming, selectable Markdown documents and replaceable block slots for Octara. |
+| 2026-11-27 04:50:31 | [k8s-request-bill](https://crates.io/crates/k8s-request-bill) | 0.1.0 | 0 | Offline overprovisioning of Kubernetes requests vs usage from kubectl JSON |
+| 2026-11-27 04:50:40 | [tilo-machine](https://crates.io/crates/tilo-machine) | 0.5.1 | 0 | What a session reaches of the computer it draws on, and where this computer's d… |
+| 2026-11-27 04:53:42 | [cur-top](https://crates.io/crates/cur-top) | 1.0.0 | 0 | Offline top costs from an AWS CUR 2.0 CSV |
+| 2026-11-27 04:55:47 | [gdb-remote](https://crates.io/crates/gdb-remote) | 0.1.0 | 0 | The GDB Remote Serial Protocol without I/O: framing and the packets of GDB and… |
+| 2026-11-27 04:56:37 | [tsroute-macros](https://crates.io/crates/tsroute-macros) | 0.1.0 | 0 | Proc macros for tsroute |
+| 2026-11-27 04:56:39 | [tsroute](https://crates.io/crates/tsroute) | 0.1.0 | 0 | Typed TypeScript + TanStack Query clients generated from your existing axum rou… |
+| 2026-11-27 05:01:05 | [lattice-model-inkling2](https://crates.io/crates/lattice-model-inkling2) | 0.18.0 | 0 | Inkling 2 looped mixture-of-experts text decoder for Lattice, on the CPU |
+| 2026-11-27 05:02:11 | [cli-exit-code](https://crates.io/crates/cli-exit-code) | 0.1.0 | 0 | clap-compatible exit codes (0 ok, 1 error, 2 usage). Not sysexits 64; for that… |
+| 2026-11-27 05:02:49 | [cost-check](https://crates.io/crates/cost-check) | 0.1.0 | 0 | One offline Cost Check report for ci-bill, log-bill, dd-metric-bill and rum-met… |
+| 2026-11-27 05:06:56 | [disk-full-doctor](https://crates.io/crates/disk-full-doctor) | 0.1.0 | 0 | Read-only report of why a disk looks full when df and du disagree |
+| 2026-11-27 05:10:16 | [pgwal-doctor](https://crates.io/crates/pgwal-doctor) | 0.1.0 | 0 | Read-only report of why PostgreSQL's pg_wal keeps growing |
+| 2026-11-27 05:12:43 | [termux-sync](https://crates.io/crates/termux-sync) | 2.0.0 | 0 | Back up and restore a Termux environment across devices |
 
 ## Data source
 
