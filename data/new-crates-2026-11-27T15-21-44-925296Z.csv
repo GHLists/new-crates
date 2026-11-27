@@ -1,0 +1,40 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-27T14:22:58.579274Z,jinja2-guru,0.1.0,0,0,https://github.com/StarcevAlexander/jinja2-guru,"Jinja2-style template engine for Rust - {{ }} expressions with variables, filters and arithmetic, {% %} statements (if/for/set/block/extends), whitespace control and oracle conformance against Jinja2…"
+2026-11-27T14:24:24.720866Z,verilith-xml,0.1.0,0,0,https://github.com/verilith/verilith,"A fast XML 1.0 parser formally verified with Verus: exactly the well-formedness rules, no panics, no recursion, entity expansion without copies"
+2026-11-27T14:25:55.193435Z,iced_remote,0.4.0,0,0,https://github.com/griasdi/iced_remote,"Headless remote control for iced applications: offscreen rendering, input injection, widget inventory and screenshots over a local socket"
+2026-11-27T14:25:59.272189Z,choisir,0.0.1,0,0,https://github.com/noirbizarre/choisir,"A toolkit for interactive terminal choices, built on Dialoguer."
+2026-11-27T14:26:08.345049Z,bezoar,0.0.1,0,0,https://seed.pipapo.org/nodes/seed.pipapo.org/rad:z31NbEJb1sLihxEFAoaL4NZkxvvk2,Locking without (visible) poisoning
+2026-11-27T14:31:48.410974Z,cargo-test-matrix,0.1.0,0,0,https://git.trustedfirmware.org/shared/cargo-test-matrix.git,Runs cargo with the combination of parameters.
+2026-11-27T14:34:43.093517Z,verilith-xxhash,0.1.0,0,0,https://github.com/verilith/verilith,"Formally verified (Verus) XXH32 and XXH64, the checksums of the LZ4 and Zstandard frame formats"
+2026-11-27T14:43:41.610956Z,freyja,0.5.0,0,0,https://github.com/rizukirr/Freyja,"A provider-neutral LLM client: one request model, four wire dialects, any compatible endpoint."
+2026-11-27T14:45:02.524243Z,verilith-lz4,0.1.0,0,0,https://github.com/verilith/verilith,A formally verified (Verus) LZ4 compressor and decompressor (block and frame formats) with liblz4's C API
+2026-11-27T14:50:53.27657Z,glycin-ng-rav1d,1.1.1,0,0,https://github.com/QaidVoid/glycin-ng-rav1d,"Fork of rav1d (Rust port of the dav1d AV1 decoder) for glycin-ng, with the C ABI behind a feature"
+2026-11-27T14:53:48.026835Z,simee-core,0.1.0,0,0,https://github.com/kaeawc/simee,"Pure simee building blocks: device models, platforms and form factors, geometry, frames and pixel conversion, HID usages, gestures."
+2026-11-27T14:53:48.610081Z,simee-debug,0.1.0,0,0,https://github.com/kaeawc/simee,"Host-side introspection of a simulated device: processes, network, storage, crash reports."
+2026-11-27T14:53:48.947965Z,simee-emu-ext4,0.1.0,0,0,https://github.com/kaeawc/simee,"Native ext4 formatter: writes an empty, sparse ext4 filesystem (no mkfs.ext4 needed)."
+2026-11-27T14:53:49.350612Z,simee-emu-fdt,0.1.0,0,0,https://github.com/kaeawc/simee,Flattened device tree writer.
+2026-11-27T14:53:49.784624Z,simee-emu-hvf,0.1.0,0,0,https://github.com/kaeawc/simee,"Safe wrappers over Hypervisor.framework (arm64): VM, vCPUs, in-kernel GICv3, guest RAM. The only crate with unsafe code."
+2026-11-27T14:53:55.402036Z,octara-haptics,0.0.8,0,0,https://github.com/octoii-works/octara,Typed haptic feedback for Octara applications.
+2026-11-27T14:54:00.608263Z,octara-picker,0.0.8,0,0,https://github.com/octoii-works/octara,"Octara module for file, folder, and media pickers."
+2026-11-27T14:54:01.503153Z,octara-video,0.0.8,0,0,https://github.com/octoii-works/octara,Opt-in video playback for Octara on Apple platforms and the Web.
+2026-11-27T14:54:02.530831Z,octara-webview,0.0.8,0,0,https://github.com/octoii-works/octara,Typed WebKit and browser views for Octara
+2026-11-27T14:55:22.419718Z,verilith-qpack,0.1.0,0,0,https://github.com/verilith/verilith,"A sans-I/O QPACK (RFC 9204) encoder and decoder for HTTP/3, formally verified with Verus"
+2026-11-27T14:56:43.070281Z,ocserve-containment,0.7.6,0,0,https://github.com/Reliary/ocserve,"Handle-verified path containment: openat2 RESOLVE_BENEATH, F_GETPATH, GetFinalPathNameByHandleW"
+2026-11-27T14:57:38.479182Z,tuff-packs,0.19.0,0,0,https://github.com/kannandreams/tuff,"Build, inspect, import, and preview Tuff capability packs and Claude Code plugins from Rust."
+2026-11-27T14:58:11.507136Z,fastmd,0.1.0,0,0,https://github.com/sskver/fastmd,Fast CommonMark 0.31.2 markdown to html converter with opt-in GFM tables and task lists and cmark's safe output
+2026-11-27T15:00:33.692342Z,agent-hub-core,0.1.0,0,0,https://github.com/JTBlink/agent-hub,Shared AgentHub domain library
+2026-11-27T15:00:57.796509Z,remora-qa-plugin-protocol,0.1.0,0,0,https://github.com/sntns/remora-qa-sdk,The contract between the Remora QA agent and an external plugin
+2026-11-27T15:00:59.393595Z,remora-qa-plugin-sdk,0.1.0,0,0,https://github.com/sntns/remora-qa-sdk,Write a Remora QA plugin (a probe or a disruptor) in Rust
+2026-11-27T15:01:37.379795Z,rasterizeddb_mq,1.0.1,0,0,https://github.com/milen-denev/rasterizeddb,"RasterizedDB's message broker batch format and native wire protocol, shared by the engine and the client"
+2026-11-27T15:01:40.078509Z,rasterizeddb_router,1.0.0,0,0,https://github.com/milen-denev/rasterizeddb,"RasterizedDB's routing function (route_v1) and shard map, shared by the engine, the client and the gateway"
+2026-11-27T15:01:40.584197Z,simee-audio,0.1.0,0,0,https://github.com/kaeawc/simee,"Per-device simulator audio without a driver: process-tap capture and mute, route and volume."
+2026-11-27T15:05:45.876884Z,verilith-regex,0.1.0,0,0,https://github.com/verilith/verilith,A linear-time regular expression engine (RE2 syntax and semantics) formally verified with Verus
+2026-11-27T15:10:23.215866Z,petitcarnets,0.0.1,0,0,https://github.com/sebastienrousseau/petitcarnets,"Terminal user interfaces in the Elm architecture (model, update, view), with no dependencies."
+2026-11-27T15:11:34.234887Z,atproto-space,0.15.0,0,0,https://tangled.org/ngerakines.me/atproto-crates,"AT Protocol permissioned-data spaces — primitives for the 0016 Atproto Spaces draft (LtHash, commits and their MACs, delegation-token/space-credential JWTs, repo STAR archive serialization and verifi…"
+2026-11-27T15:11:37.45265Z,atproto-firehose,0.15.0,0,0,https://tangled.org/ngerakines.me/atproto-crates,"AT Protocol com.atproto.sync.subscribeRepos consumer - frame decoding, commit verification, and a reconnecting stream"
+2026-11-27T15:11:38.437963Z,atproto-space-client,0.15.0,0,0,https://tangled.org/ngerakines.me/atproto-crates,"XRPC client for AT Protocol permissioned-data spaces - the 0016 credential exchange, records, sync, notify registration, and space management"
+2026-11-27T15:11:39.414447Z,simee-bundle,0.1.0,0,0,https://github.com/kaeawc/simee,"Portable device bundles: a manifest, content-addressed LZ4 chunks, and the same as one plain tar; verified on import."
+2026-11-27T15:12:47.438202Z,nsh-system-controls,0.1.0,0,0,https://github.com/longbridge/nsh-system-controls,"The system's own segmented control, switch and date and time picker for Native Shell (NSH) apps, an nshm: UIKit's on iOS, the framework's on Android."
+2026-11-27T15:16:06.1093Z,verilith-snappy,0.1.0,0,0,https://github.com/verilith/verilith,A formally verified (Verus) Snappy compressor and decompressor with the snappy-c API
+2026-11-27T15:20:46.846223Z,singe-cuda-emulator,0.2.0,0,0,https://github.com/tinrab/singe,Emulated CUDA and NCCL on the CPU.
+2026-11-27T15:21:42.611926Z,simee-coresim,0.1.0,0,0,https://github.com/kaeawc/simee,"Safe API over the host simulator service: device lifecycle, apps, framebuffers and HID input."
