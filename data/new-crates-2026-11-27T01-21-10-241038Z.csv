@@ -1,0 +1,32 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-27T00:19:38.834863Z,rust-use-gpui,0.1.1,0,0,https://github.com/better-vault/rust-use,GPUI adapter for rust-use.
+2026-11-27T00:20:13.708584Z,rust-use-cli,0.1.1,0,0,https://github.com/better-vault/rust-use,Command-line client for driving a rust-use app from an agent.
+2026-11-27T00:24:59.24992Z,devl-core,0.1.0-alpha.1,0,0,https://github.com/njetty/devl-rs,"Runtime-agnostic core protocol, session state machine, and priority scheduler for DEVL (Decode Early, Verify Late)"
+2026-11-27T00:25:44.393268Z,devl-candle,0.1.0-alpha.1,0,0,https://github.com/njetty/devl-rs,"Candle inference backend for devl-rs (Whisper and Qwen3-ASR on CPU, Metal, and CUDA)"
+2026-11-27T00:25:46.629008Z,devl,0.1.0-alpha.1,0,0,https://github.com/njetty/devl-rs,"Decode Early, Verify Late (DEVL) low-latency streaming ASR engine"
+2026-11-27T00:25:59.362921Z,const-array-vec,0.8.0-alpha.4,0,0,https://github.com/dioxuslabs/dioxus,A fixed-capacity Vec usable in const contexts
+2026-11-27T00:26:23.102815Z,dx-env,0.8.0-alpha.4,0,0,https://github.com/DioxusLabs/dioxus/,Environment variables that dx sets for the apps it launches
+2026-11-27T00:27:01.017227Z,dioxus-vdom-template,0.8.0-alpha.4,0,0,https://github.com/DioxusLabs/dioxus/,Static template representation and const builder for Dioxus.
+2026-11-27T00:27:06.018179Z,klenwriter-editor-notes,1.0.0,0,0,https://github.com/artemklen/klenwriter-editor,Independent registry-backed notes profile and closed JSON codec
+2026-11-27T00:32:02.76843Z,dioxus-vdom-macro,0.8.0-alpha.4,0,0,https://github.com/DioxusLabs/dioxus/,Core macro for Dioxus Virtual DOM
+2026-11-27T00:32:22.636063Z,dioxus-vdom,0.8.0-alpha.4,0,0,https://github.com/DioxusLabs/dioxus/,"Build fullstack web, desktop, and mobile apps with a single codebase."
+2026-11-27T00:37:17.919113Z,klenwriter-editor-notes-sdk,1.0.0,0,0,https://github.com/artemklen/klenwriter-editor,Independent notes adapter and compiled factory for the generic editor SDK
+2026-11-27T00:37:23.451661Z,rust-use,0.1.1,0,0,https://github.com/better-vault/rust-use,A library of behaviors for agents to build and drive the next generation of user interfaces.
+2026-11-27T00:41:27.751288Z,bound-sql-sqlite,0.1.0,0,0,https://salsa.debian.org/dgit-team/tag2upload-service-manager,micro-orm and lightweight sql query assembly for sqlite
+2026-11-27T00:43:48.113067Z,yaml-dsl-spec-schema-reader-github,0.4.2-snapshot.20261127005620,0,0,https://github.com/litebitus/yaml-dsl-spec,"The YAML DSL standard's reader of schema URLs on GitHub, a release asset read through GitHub's API with the machine's tokens."
+2026-11-27T00:43:48.759977Z,yaml-dsl-spec-schema-reader-s3,0.4.2-snapshot.20261127005620,0,0,https://github.com/litebitus/yaml-dsl-spec,"The YAML DSL standard's reader of schema URLs on S3, `s3://<bucket>/<key>`, read with the AWS SDK."
+2026-11-27T00:47:30.526381Z,klenwriter-editor-wasm,1.0.0,0,0,https://github.com/artemklen/klenwriter-editor,KlenWriter Editor WASM composition root; pre-alpha bootstrap
+2026-11-27T00:49:39.279912Z,kafka-service,0.48.6,0,0,,"gRPC service layer over the kafka-native protocol client: KafkaService, StreamsService, and the libkafka_native C ABI (cdylib)"
+2026-11-27T00:59:53.038406Z,libhowl,0.1.0,0,0,https://github.com/JidouGhost-TL/libhowl-rs,Standalone pure-Rust PlayStation HOWL audio bank and music sequencer built on libspu2
+2026-11-27T00:59:54.886315Z,libzsnd,0.1.0,0,0,https://github.com/JidouGhost-TL/libzsnd-rs,Standalone pure-Rust PlayStation 1 ZSNDPSX/ZTRK audio bank and music sequencer built on libspu2
+2026-11-27T00:59:56.846194Z,libtracker,0.1.0,0,0,https://github.com/JidouGhost-TL/libtracker-rs,"Hardware-neutral pure-Rust tracker module parser and playback engine for XM (including sequence-only external-bank variants), S3M, and MOD"
+2026-11-27T01:02:11.031538Z,reso-ingest,0.4.0,0,0,https://github.com/jeremeybingham/reso-rs,"Pull every resource from many RESO Web API servers into tagged NDJSON or Parquet files, incrementally, with delete detection and media downloads"
+2026-11-27T01:10:26.003947Z,stockcrab,0.1.0,0,0,https://github.com/josephbebel/stockcrab,A Rust port of the Stockfish UCI chess engine
+2026-11-27T01:11:34.843628Z,rhema-model-catalog,0.5.0,0,0,https://github.com/vhaudiquet/rhema,The live model-facts catalog: models.dev rows joined onto the adapters' cards
+2026-11-27T01:13:21.480705Z,aeon-three,0.1.0,0,0,https://github.com/genericcpu/aeon-ui,"Native Rust 3D scene graph, glTF loader, and wgpu 26 renderer for Aeon UI"
+2026-11-27T01:15:52.429492Z,rhema-websearch-opencode,0.5.0,0,0,https://github.com/vhaudiquet/rhema,OpenCode hosted web search adapter for the rhema WebSearchProvider seam
+2026-11-27T01:16:46.095257Z,rhema-decision-opencode,0.5.0,0,0,https://github.com/vhaudiquet/rhema,OpenCode Console and Go decision model adapter for the rhema DecisionProvider seam
+2026-11-27T01:17:32.589077Z,beozar,0.0.1,0,0,https://seed.pipapo.org/nodes/iris.radicle.network/rad:z31NbEJb1sLihxEFAoaL4NZkxvvk2,Locking without (visible) poisoning
+2026-11-27T01:18:27.089908Z,pyrn-core,0.1.0,0,0,https://github.com/dariuszpanas/pyrn,"Pure-Rust Test Impact Analysis (TIA), symbol-level dependency graph, and content-addressed test caching core for pyrn"
+2026-11-27T01:18:29.131873Z,pyrn-runner,0.1.0,0,0,https://github.com/dariuszpanas/pyrn,"Isolated warm-pool Rust execution engine, container-aware resource scheduler, and unified TIA/CAS test runner for pyrn"
+2026-11-27T01:18:30.879935Z,pyrn-cli,0.1.0,0,0,https://github.com/dariuszpanas/pyrn,"Fast Rust-powered Python/pytest Test Impact Analysis, CAS cache, and isolated warm execution CLI"
