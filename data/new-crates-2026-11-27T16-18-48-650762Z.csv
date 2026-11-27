@@ -1,0 +1,49 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-27T15:22:15.396837Z,rasterizeddb_raft,1.0.0,0,0,https://github.com/milen-denev/rasterizeddb,"RasterizedDB's Raft: a deterministic, I/O-free consensus core for per-shard replication (sharding-plan.md B3, D3)"
+2026-11-27T15:22:34.235428Z,hazard3-piezo,0.3.0,0,0,https://github.com/jorgeandrecastro/hazard3-piezo,Async no_std piezoelectric vibration sensor driver for the Hazard3 ecosystem.
+2026-11-27T15:23:14.480836Z,issn,0.1.0,0,0,https://github.com/deutsche-nationalbibliothek/issn-rs,A library to work with International Standard Serial Number (ISSN)
+2026-11-27T15:24:42.017519Z,grad-sdk,0.2.0-alpha.3,0,0,https://github.com/Gradiated/grad,Rust SDK for the Gradiated training and serving platform
+2026-11-27T15:25:10.307652Z,grad-cli,0.2.0-alpha.3,0,0,https://github.com/Gradiated/grad,CLI for the Gradiated training and serving platform
+2026-11-27T15:26:29.48576Z,verilith-tls,0.1.0,0,0,https://github.com/verilith/verilith,"TLS 1.3 (RFC 8446) message parsing, handshake state machine and key schedule, formally verified with Verus"
+2026-11-27T15:28:59.28862Z,arvin,0.2.0,0,0,https://github.com/david-engelmann/arvin,"A staged cutoff for agent runs, where a run keeps its tools, budget, and sandbox only while it keeps proving progress. Three triggers move the stage, an operator pull, a budget ceiling, and missed pr…"
+2026-11-27T15:31:39.41621Z,simee-emu-avd,0.1.0,0,0,https://github.com/kaeawc/simee,"AVD discovery and config: ini files, system image resolution, bootconfig, form factor, running instances."
+2026-11-27T15:31:51.198092Z,sasso-core,0.22.1,0,0,https://github.com/momiji-rs/sasso,"The compiler behind sasso, a pure-Rust SCSS to CSS compiler. Depend on `sasso`, which re-exports all of it."
+2026-11-27T15:32:03.37575Z,sasso-macros,0.22.1,0,0,https://github.com/momiji-rs/sasso,The `sasso::include!` macro: compile Sass to CSS at Rust compile time. Use it through `sasso` with the `macro` feature.
+2026-11-27T15:36:51.668102Z,verilith-url,0.1.0,0,0,https://github.com/verilith/verilith,A formally verified (Verus) WHATWG URL parser
+2026-11-27T15:38:31.707983Z,sh0,0.2.0,0,0,https://github.com/creator521314/sh0,Lightweight cross-platform TUI SSH/SFTP manager with an AI-first CLI
+2026-11-27T15:38:57.477004Z,data-genie-core,0.3.0,0,0,https://github.com/pujansrt/data-genie-rs.git,"Core streaming ETL engine, traits, transports, filters, transformers, and readers/writers for data-genie"
+2026-11-27T15:39:00.037444Z,data-genie-http,0.3.0,0,0,https://github.com/pujansrt/data-genie-rs.git,HTTP/REST streaming transport and paginated JSON reader for data-genie
+2026-11-27T15:39:00.664106Z,data-genie-parquet,0.3.0,0,0,https://github.com/pujansrt/data-genie-rs.git,Apache Parquet reader and writer for data-genie
+2026-11-27T15:39:01.058023Z,data-genie-s3,0.3.0,0,0,https://github.com/pujansrt/data-genie-rs.git,Amazon S3 and object-store streaming transport for data-genie
+2026-11-27T15:39:01.570058Z,data-genie-xlsx,0.3.0,0,0,https://github.com/pujansrt/data-genie-rs.git,Excel (.xlsx) reader and writer for data-genie
+2026-11-27T15:41:42.528153Z,simee-android,0.1.0,0,0,https://github.com/kaeawc/simee,"The Android backend's client: lists AVDs as devices, starts and stops simee, drives running instances over their console and display socket."
+2026-11-27T15:43:03.731058Z,retex-data,2026.0.0,0,0,https://gitlab.com/severin-lemaignan/retex,TeX Live packages for retex without a TeX Live installation: the archive of its bundle `core`
+2026-11-27T15:44:49.600665Z,misskey-terminal-client,0.1.0,0,0,https://github.com/nao1215/misskey-terminal-client,"Unofficial Misskey client for the terminal: a full-screen client that draws pictures inline (kitty graphics, sixel, iTerm2), and commands that read timelines, notifications and notes, save their file…"
+2026-11-27T15:45:10.484704Z,adaliszk-anymap-macros,0.1.0,0,0,https://codeberg.org/adaliszk/rust-toolbox,Procedural-macro companion for adaliszk-anymap (the Resolvable derive).
+2026-11-27T15:45:12.769344Z,adaliszk-anymap,0.1.0,0,0,https://codeberg.org/adaliszk/rust-toolbox,Laravel style dependency-injection-friendly wrapper over anymap3: a type-keyed container with a Resolvable derive.
+2026-11-27T15:45:51.66434Z,teter-common,26.11.6,0,0,https://gitlab.com/alteronauta/teter,Shared types and protocol definitions for teter
+2026-11-27T15:45:58.42825Z,teter-core,26.11.6,0,0,https://gitlab.com/alteronauta/teter,"What teter's clients share without I/O: end-to-end encryption, account crypto, signed commands"
+2026-11-27T15:46:07.23457Z,teter-client,26.11.6,0,0,https://gitlab.com/alteronauta/teter,Relay connection shared by the teter backend and frontend
+2026-11-27T15:46:10.996655Z,teter-local,26.11.6,0,0,https://gitlab.com/alteronauta/teter,Local protocol between teter's session processes and its link
+2026-11-27T15:46:19.592951Z,teter-backend,26.11.6,0,0,https://gitlab.com/alteronauta/teter,Backend service for teter (home machine PTY wrapper)
+2026-11-27T15:47:13.90973Z,verilith-zlib,0.1.0,0,0,https://github.com/verilith/verilith,"A formally verified (Verus) DEFLATE, zlib and gzip decompressor and compressor, with zlib's C API"
+2026-11-27T15:51:06.128343Z,teter-frontend,26.11.5,0,0,https://gitlab.com/alteronauta/teter,Terminal client for teter: attaches to a session through the relay
+2026-11-27T15:51:38.982483Z,simee-emu-gfxstream,0.1.0,0,0,https://github.com/kaeawc/simee,Loads the SDK's gfxstream renderer (stream_renderer C API) at runtime: host GLES/Vulkan for virtio-gpu.
+2026-11-27T15:52:21.258195Z,network-monitor,0.1.4,0,0,https://github.com/jungho-dev/network-monitor,"Terminal packet analyzer and local egress monitor: live capture, PCAP/PCAPNG, TCP stream reassembly, process attribution, and new-destination alerts."
+2026-11-27T15:52:29.177855Z,data-genie-xml,0.3.0,0,0,https://github.com/pujansrt/data-genie-rs.git,Streaming XML reader and writer for data-genie
+2026-11-27T15:53:26.735859Z,data-genie-yaml,0.3.0,0,0,https://github.com/pujansrt/data-genie-rs.git,Declarative YAML pipeline parser and executor for data-genie
+2026-11-27T15:57:37.715252Z,verilith-zstd,0.1.0,0,0,https://github.com/verilith/verilith,A formally verified (Verus) Zstandard (RFC 8878) decompressor and compressor with libzstd's C API
+2026-11-27T15:57:55.467126Z,openthread-driver,0.1.0,0,0,https://github.com/esp-rs/openthread,The traits a platform implements for the openthread crate: the IEEE 802.15.4 radio and the settings storage
+2026-11-27T16:00:41.418984Z,data-genie-cli,0.3.0,0,0,https://github.com/pujansrt/data-genie-rs.git,Command-line interface for running and validating data-genie ETL pipelines
+2026-11-27T16:01:02.678987Z,openthread-driver-esp,0.1.0,0,0,https://github.com/esp-rs/openthread,"The IEEE 802.15.4 radio of the ESP32 chips for the openthread crate, over esp-radio"
+2026-11-27T16:01:14.130841Z,teter-relay,26.11.5,0,0,https://gitlab.com/alteronauta/teter,The self-hosted relay server for teter
+2026-11-27T16:01:38.606019Z,simee-emu-kvm,0.1.0,0,0,https://github.com/kaeawc/simee,"Safe wrappers over Linux KVM (kvm-ioctls): the VM, guest memory slots, the in-kernel vGICv3, ioeventfd/irqfd, vCPUs and their kicks. FFI crate: unsafe is allowed here."
+2026-11-27T16:03:07.605219Z,openthread-driver-nrf,0.1.0,0,0,https://github.com/esp-rs/openthread,"The IEEE 802.15.4 radio of the nRF chips for the openthread crate, over nrf-802154"
+2026-11-27T16:03:21.718899Z,cashucard,0.6.0,0,0,https://github.com/cashucard/rust-sdk,"Take payments from the card (card software 3.1, and any 3.x) and phone taps in any wallet: the tap payload, both sides of the tap, the card protocol and the mint calls, with the ecash paid out by an…"
+2026-11-27T16:08:01.730461Z,verilith-archive,0.1.0,0,0,https://github.com/verilith/verilith,"Formally verified (Verus) zip and tar readers with proven extraction safety, behind libarchive's read API"
+2026-11-27T16:09:05.247003Z,aws-secrets-cli,0.1.0,0,0,https://gitlab.com/dhanesh-devops/aws-secrets-cli,AWS Secrets Manager terminal client
+2026-11-27T16:11:14.004106Z,teter,26.11.5,0,0,https://gitlab.com/alteronauta/teter,"teter: persistent terminal sessions on your machines, reachable through a relay that cannot read them"
+2026-11-27T16:11:37.973506Z,simee-emu-sdk,0.1.0,0,0,https://github.com/kaeawc/simee,"SDK provisioning without Java: repository manifests, verified downloads, unpacking."
+2026-11-27T16:17:20.35888Z,jit-alloc,0.1.0,0,0,https://github.com/Dasaav-dsv/jit-alloc,Split metadata W^X executable memory allocator
+2026-11-27T16:18:26.383236Z,verilith-font,0.1.0,0,0,https://github.com/verilith/verilith,A formally verified (Verus) OpenType font sanitizer
+2026-11-27T16:18:29.973334Z,verilith-png,0.1.0,0,0,https://github.com/verilith/verilith,A formally verified (Verus) PNG decoder

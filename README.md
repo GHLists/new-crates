@@ -8,53 +8,62 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-27 15:21 UTC
+## Latest list — 2026-11-27 16:18 UTC
 
-New crates published between 2026-11-27 14:22 UTC and 2026-11-27 15:21 UTC.
+New crates published between 2026-11-27 15:21 UTC and 2026-11-27 16:18 UTC.
 
-[Full CSV](data/new-crates-2026-11-27T15-21-44-925296Z.csv)
+[Full CSV](data/new-crates-2026-11-27T16-18-48-650762Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-27 14:22:58 | [jinja2-guru](https://crates.io/crates/jinja2-guru) | 0.1.0 | 0 | Jinja2-style template engine for Rust - {{ }} expressions with variables, filte… |
-| 2026-11-27 14:24:24 | [verilith-xml](https://crates.io/crates/verilith-xml) | 0.1.0 | 0 | A fast XML 1.0 parser formally verified with Verus: exactly the well-formedness… |
-| 2026-11-27 14:25:55 | [iced_remote](https://crates.io/crates/iced_remote) | 0.4.0 | 0 | Headless remote control for iced applications: offscreen rendering, input injec… |
-| 2026-11-27 14:25:59 | [choisir](https://crates.io/crates/choisir) | 0.0.1 | 0 | A toolkit for interactive terminal choices, built on Dialoguer. |
-| 2026-11-27 14:26:08 | [bezoar](https://crates.io/crates/bezoar) | 0.0.1 | 0 | Locking without (visible) poisoning |
-| 2026-11-27 14:31:48 | [cargo-test-matrix](https://crates.io/crates/cargo-test-matrix) | 0.1.0 | 0 | Runs cargo with the combination of parameters. |
-| 2026-11-27 14:34:43 | [verilith-xxhash](https://crates.io/crates/verilith-xxhash) | 0.1.0 | 0 | Formally verified (Verus) XXH32 and XXH64, the checksums of the LZ4 and Zstanda… |
-| 2026-11-27 14:43:41 | [freyja](https://crates.io/crates/freyja) | 0.5.0 | 0 | A provider-neutral LLM client: one request model, four wire dialects, any compa… |
-| 2026-11-27 14:45:02 | [verilith-lz4](https://crates.io/crates/verilith-lz4) | 0.1.0 | 0 | A formally verified (Verus) LZ4 compressor and decompressor (block and frame fo… |
-| 2026-11-27 14:50:53 | [glycin-ng-rav1d](https://crates.io/crates/glycin-ng-rav1d) | 1.1.1 | 0 | Fork of rav1d (Rust port of the dav1d AV1 decoder) for glycin-ng, with the C AB… |
-| 2026-11-27 14:53:48 | [simee-core](https://crates.io/crates/simee-core) | 0.1.0 | 0 | Pure simee building blocks: device models, platforms and form factors, geometry… |
-| 2026-11-27 14:53:48 | [simee-debug](https://crates.io/crates/simee-debug) | 0.1.0 | 0 | Host-side introspection of a simulated device: processes, network, storage, cra… |
-| 2026-11-27 14:53:48 | [simee-emu-ext4](https://crates.io/crates/simee-emu-ext4) | 0.1.0 | 0 | Native ext4 formatter: writes an empty, sparse ext4 filesystem (no mkfs.ext4 ne… |
-| 2026-11-27 14:53:49 | [simee-emu-fdt](https://crates.io/crates/simee-emu-fdt) | 0.1.0 | 0 | Flattened device tree writer. |
-| 2026-11-27 14:53:49 | [simee-emu-hvf](https://crates.io/crates/simee-emu-hvf) | 0.1.0 | 0 | Safe wrappers over Hypervisor.framework (arm64): VM, vCPUs, in-kernel GICv3, gu… |
-| 2026-11-27 14:53:55 | [octara-haptics](https://crates.io/crates/octara-haptics) | 0.0.8 | 0 | Typed haptic feedback for Octara applications. |
-| 2026-11-27 14:54:00 | [octara-picker](https://crates.io/crates/octara-picker) | 0.0.8 | 0 | Octara module for file, folder, and media pickers. |
-| 2026-11-27 14:54:01 | [octara-video](https://crates.io/crates/octara-video) | 0.0.8 | 0 | Opt-in video playback for Octara on Apple platforms and the Web. |
-| 2026-11-27 14:54:02 | [octara-webview](https://crates.io/crates/octara-webview) | 0.0.8 | 0 | Typed WebKit and browser views for Octara |
-| 2026-11-27 14:55:22 | [verilith-qpack](https://crates.io/crates/verilith-qpack) | 0.1.0 | 0 | A sans-I/O QPACK (RFC 9204) encoder and decoder for HTTP/3, formally verified w… |
-| 2026-11-27 14:56:43 | [ocserve-containment](https://crates.io/crates/ocserve-containment) | 0.7.6 | 0 | Handle-verified path containment: openat2 RESOLVE_BENEATH, F_GETPATH, GetFinalP… |
-| 2026-11-27 14:57:38 | [tuff-packs](https://crates.io/crates/tuff-packs) | 0.19.0 | 0 | Build, inspect, import, and preview Tuff capability packs and Claude Code plugi… |
-| 2026-11-27 14:58:11 | [fastmd](https://crates.io/crates/fastmd) | 0.1.0 | 0 | Fast CommonMark 0.31.2 markdown to html converter with opt-in GFM tables and ta… |
-| 2026-11-27 15:00:33 | [agent-hub-core](https://crates.io/crates/agent-hub-core) | 0.1.0 | 0 | Shared AgentHub domain library |
-| 2026-11-27 15:00:57 | [remora-qa-plugin-protocol](https://crates.io/crates/remora-qa-plugin-protocol) | 0.1.0 | 0 | The contract between the Remora QA agent and an external plugin |
-| 2026-11-27 15:00:59 | [remora-qa-plugin-sdk](https://crates.io/crates/remora-qa-plugin-sdk) | 0.1.0 | 0 | Write a Remora QA plugin (a probe or a disruptor) in Rust |
-| 2026-11-27 15:01:37 | [rasterizeddb_mq](https://crates.io/crates/rasterizeddb_mq) | 1.0.1 | 0 | RasterizedDB's message broker batch format and native wire protocol, shared by… |
-| 2026-11-27 15:01:40 | [rasterizeddb_router](https://crates.io/crates/rasterizeddb_router) | 1.0.0 | 0 | RasterizedDB's routing function (route_v1) and shard map, shared by the engine,… |
-| 2026-11-27 15:01:40 | [simee-audio](https://crates.io/crates/simee-audio) | 0.1.0 | 0 | Per-device simulator audio without a driver: process-tap capture and mute, rout… |
-| 2026-11-27 15:05:45 | [verilith-regex](https://crates.io/crates/verilith-regex) | 0.1.0 | 0 | A linear-time regular expression engine (RE2 syntax and semantics) formally ver… |
-| 2026-11-27 15:10:23 | [petitcarnets](https://crates.io/crates/petitcarnets) | 0.0.1 | 0 | Terminal user interfaces in the Elm architecture (model, update, view), with no… |
-| 2026-11-27 15:11:34 | [atproto-space](https://crates.io/crates/atproto-space) | 0.15.0 | 0 | AT Protocol permissioned-data spaces — primitives for the 0016 Atproto Spaces d… |
-| 2026-11-27 15:11:37 | [atproto-firehose](https://crates.io/crates/atproto-firehose) | 0.15.0 | 0 | AT Protocol com.atproto.sync.subscribeRepos consumer - frame decoding, commit v… |
-| 2026-11-27 15:11:38 | [atproto-space-client](https://crates.io/crates/atproto-space-client) | 0.15.0 | 0 | XRPC client for AT Protocol permissioned-data spaces - the 0016 credential exch… |
-| 2026-11-27 15:11:39 | [simee-bundle](https://crates.io/crates/simee-bundle) | 0.1.0 | 0 | Portable device bundles: a manifest, content-addressed LZ4 chunks, and the same… |
-| 2026-11-27 15:12:47 | [nsh-system-controls](https://crates.io/crates/nsh-system-controls) | 0.1.0 | 0 | The system's own segmented control, switch and date and time picker for Native… |
-| 2026-11-27 15:16:06 | [verilith-snappy](https://crates.io/crates/verilith-snappy) | 0.1.0 | 0 | A formally verified (Verus) Snappy compressor and decompressor with the snappy-… |
-| 2026-11-27 15:20:46 | [singe-cuda-emulator](https://crates.io/crates/singe-cuda-emulator) | 0.2.0 | 0 | Emulated CUDA and NCCL on the CPU. |
-| 2026-11-27 15:21:42 | [simee-coresim](https://crates.io/crates/simee-coresim) | 0.1.0 | 0 | Safe API over the host simulator service: device lifecycle, apps, framebuffers… |
+| 2026-11-27 15:22:15 | [rasterizeddb_raft](https://crates.io/crates/rasterizeddb_raft) | 1.0.0 | 0 | RasterizedDB's Raft: a deterministic, I/O-free consensus core for per-shard rep… |
+| 2026-11-27 15:22:34 | [hazard3-piezo](https://crates.io/crates/hazard3-piezo) | 0.3.0 | 0 | Async no_std piezoelectric vibration sensor driver for the Hazard3 ecosystem. |
+| 2026-11-27 15:23:14 | [issn](https://crates.io/crates/issn) | 0.1.0 | 0 | A library to work with International Standard Serial Number (ISSN) |
+| 2026-11-27 15:24:42 | [grad-sdk](https://crates.io/crates/grad-sdk) | 0.2.0-alpha.3 | 0 | Rust SDK for the Gradiated training and serving platform |
+| 2026-11-27 15:25:10 | [grad-cli](https://crates.io/crates/grad-cli) | 0.2.0-alpha.3 | 0 | CLI for the Gradiated training and serving platform |
+| 2026-11-27 15:26:29 | [verilith-tls](https://crates.io/crates/verilith-tls) | 0.1.0 | 0 | TLS 1.3 (RFC 8446) message parsing, handshake state machine and key schedule, f… |
+| 2026-11-27 15:28:59 | [arvin](https://crates.io/crates/arvin) | 0.2.0 | 0 | A staged cutoff for agent runs, where a run keeps its tools, budget, and sandbo… |
+| 2026-11-27 15:31:39 | [simee-emu-avd](https://crates.io/crates/simee-emu-avd) | 0.1.0 | 0 | AVD discovery and config: ini files, system image resolution, bootconfig, form… |
+| 2026-11-27 15:31:51 | [sasso-core](https://crates.io/crates/sasso-core) | 0.22.1 | 0 | The compiler behind sasso, a pure-Rust SCSS to CSS compiler. Depend on `sasso`,… |
+| 2026-11-27 15:32:03 | [sasso-macros](https://crates.io/crates/sasso-macros) | 0.22.1 | 0 | The `sasso::include!` macro: compile Sass to CSS at Rust compile time. Use it t… |
+| 2026-11-27 15:36:51 | [verilith-url](https://crates.io/crates/verilith-url) | 0.1.0 | 0 | A formally verified (Verus) WHATWG URL parser |
+| 2026-11-27 15:38:31 | [sh0](https://crates.io/crates/sh0) | 0.2.0 | 0 | Lightweight cross-platform TUI SSH/SFTP manager with an AI-first CLI |
+| 2026-11-27 15:38:57 | [data-genie-core](https://crates.io/crates/data-genie-core) | 0.3.0 | 0 | Core streaming ETL engine, traits, transports, filters, transformers, and reade… |
+| 2026-11-27 15:39:00 | [data-genie-http](https://crates.io/crates/data-genie-http) | 0.3.0 | 0 | HTTP/REST streaming transport and paginated JSON reader for data-genie |
+| 2026-11-27 15:39:00 | [data-genie-parquet](https://crates.io/crates/data-genie-parquet) | 0.3.0 | 0 | Apache Parquet reader and writer for data-genie |
+| 2026-11-27 15:39:01 | [data-genie-s3](https://crates.io/crates/data-genie-s3) | 0.3.0 | 0 | Amazon S3 and object-store streaming transport for data-genie |
+| 2026-11-27 15:39:01 | [data-genie-xlsx](https://crates.io/crates/data-genie-xlsx) | 0.3.0 | 0 | Excel (.xlsx) reader and writer for data-genie |
+| 2026-11-27 15:41:42 | [simee-android](https://crates.io/crates/simee-android) | 0.1.0 | 0 | The Android backend's client: lists AVDs as devices, starts and stops simee, dr… |
+| 2026-11-27 15:43:03 | [retex-data](https://crates.io/crates/retex-data) | 2026.0.0 | 0 | TeX Live packages for retex without a TeX Live installation: the archive of its… |
+| 2026-11-27 15:44:49 | [misskey-terminal-client](https://crates.io/crates/misskey-terminal-client) | 0.1.0 | 0 | Unofficial Misskey client for the terminal: a full-screen client that draws pic… |
+| 2026-11-27 15:45:10 | [adaliszk-anymap-macros](https://crates.io/crates/adaliszk-anymap-macros) | 0.1.0 | 0 | Procedural-macro companion for adaliszk-anymap (the Resolvable derive). |
+| 2026-11-27 15:45:12 | [adaliszk-anymap](https://crates.io/crates/adaliszk-anymap) | 0.1.0 | 0 | Laravel style dependency-injection-friendly wrapper over anymap3: a type-keyed… |
+| 2026-11-27 15:45:51 | [teter-common](https://crates.io/crates/teter-common) | 26.11.6 | 0 | Shared types and protocol definitions for teter |
+| 2026-11-27 15:45:58 | [teter-core](https://crates.io/crates/teter-core) | 26.11.6 | 0 | What teter's clients share without I/O: end-to-end encryption, account crypto,… |
+| 2026-11-27 15:46:07 | [teter-client](https://crates.io/crates/teter-client) | 26.11.6 | 0 | Relay connection shared by the teter backend and frontend |
+| 2026-11-27 15:46:10 | [teter-local](https://crates.io/crates/teter-local) | 26.11.6 | 0 | Local protocol between teter's session processes and its link |
+| 2026-11-27 15:46:19 | [teter-backend](https://crates.io/crates/teter-backend) | 26.11.6 | 0 | Backend service for teter (home machine PTY wrapper) |
+| 2026-11-27 15:47:13 | [verilith-zlib](https://crates.io/crates/verilith-zlib) | 0.1.0 | 0 | A formally verified (Verus) DEFLATE, zlib and gzip decompressor and compressor,… |
+| 2026-11-27 15:51:06 | [teter-frontend](https://crates.io/crates/teter-frontend) | 26.11.5 | 0 | Terminal client for teter: attaches to a session through the relay |
+| 2026-11-27 15:51:38 | [simee-emu-gfxstream](https://crates.io/crates/simee-emu-gfxstream) | 0.1.0 | 0 | Loads the SDK's gfxstream renderer (stream_renderer C API) at runtime: host GLE… |
+| 2026-11-27 15:52:21 | [network-monitor](https://crates.io/crates/network-monitor) | 0.1.4 | 0 | Terminal packet analyzer and local egress monitor: live capture, PCAP/PCAPNG, T… |
+| 2026-11-27 15:52:29 | [data-genie-xml](https://crates.io/crates/data-genie-xml) | 0.3.0 | 0 | Streaming XML reader and writer for data-genie |
+| 2026-11-27 15:53:26 | [data-genie-yaml](https://crates.io/crates/data-genie-yaml) | 0.3.0 | 0 | Declarative YAML pipeline parser and executor for data-genie |
+| 2026-11-27 15:57:37 | [verilith-zstd](https://crates.io/crates/verilith-zstd) | 0.1.0 | 0 | A formally verified (Verus) Zstandard (RFC 8878) decompressor and compressor wi… |
+| 2026-11-27 15:57:55 | [openthread-driver](https://crates.io/crates/openthread-driver) | 0.1.0 | 0 | The traits a platform implements for the openthread crate: the IEEE 802.15.4 ra… |
+| 2026-11-27 16:00:41 | [data-genie-cli](https://crates.io/crates/data-genie-cli) | 0.3.0 | 0 | Command-line interface for running and validating data-genie ETL pipelines |
+| 2026-11-27 16:01:02 | [openthread-driver-esp](https://crates.io/crates/openthread-driver-esp) | 0.1.0 | 0 | The IEEE 802.15.4 radio of the ESP32 chips for the openthread crate, over esp-r… |
+| 2026-11-27 16:01:14 | [teter-relay](https://crates.io/crates/teter-relay) | 26.11.5 | 0 | The self-hosted relay server for teter |
+| 2026-11-27 16:01:38 | [simee-emu-kvm](https://crates.io/crates/simee-emu-kvm) | 0.1.0 | 0 | Safe wrappers over Linux KVM (kvm-ioctls): the VM, guest memory slots, the in-k… |
+| 2026-11-27 16:03:07 | [openthread-driver-nrf](https://crates.io/crates/openthread-driver-nrf) | 0.1.0 | 0 | The IEEE 802.15.4 radio of the nRF chips for the openthread crate, over nrf-802… |
+| 2026-11-27 16:03:21 | [cashucard](https://crates.io/crates/cashucard) | 0.6.0 | 0 | Take payments from the card (card software 3.1, and any 3.x) and phone taps in… |
+| 2026-11-27 16:08:01 | [verilith-archive](https://crates.io/crates/verilith-archive) | 0.1.0 | 0 | Formally verified (Verus) zip and tar readers with proven extraction safety, be… |
+| 2026-11-27 16:09:05 | [aws-secrets-cli](https://crates.io/crates/aws-secrets-cli) | 0.1.0 | 0 | AWS Secrets Manager terminal client |
+| 2026-11-27 16:11:14 | [teter](https://crates.io/crates/teter) | 26.11.5 | 0 | teter: persistent terminal sessions on your machines, reachable through a relay… |
+| 2026-11-27 16:11:37 | [simee-emu-sdk](https://crates.io/crates/simee-emu-sdk) | 0.1.0 | 0 | SDK provisioning without Java: repository manifests, verified downloads, unpack… |
+| 2026-11-27 16:17:20 | [jit-alloc](https://crates.io/crates/jit-alloc) | 0.1.0 | 0 | Split metadata W^X executable memory allocator |
+| 2026-11-27 16:18:26 | [verilith-font](https://crates.io/crates/verilith-font) | 0.1.0 | 0 | A formally verified (Verus) OpenType font sanitizer |
+| 2026-11-27 16:18:29 | [verilith-png](https://crates.io/crates/verilith-png) | 0.1.0 | 0 | A formally verified (Verus) PNG decoder |
 
 ## Data source
 
