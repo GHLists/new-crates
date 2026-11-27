@@ -1,0 +1,28 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-27T08:19:53.649359Z,idora-axum,1.1.0,0,0,https://github.com/SrKleRAimBot/Idora,"axum extractors for Idora identifiers: parse and check usr_01k2f9v8ta7m3x0qbrn4dzeh5c path segments against the registry, with 400 and 404 rejections that say what is wrong."
+2026-11-27T08:22:04.288552Z,tlx-compile,0.1.2,0,0,https://github.com/tlaplus-x/tlx,"Compiled execution tier (typed IR, Cranelift JIT, and C codegen) for the tlx TLA+ model checker"
+2026-11-27T08:27:22.128463Z,packet-device,0.1.0,0,0,https://github.com/Pallob-Gain/packet_device,Packet Device protocol and DevicePacketParser for desktop and ESP-IDF Rust
+2026-11-27T08:32:53.885899Z,tlx,0.1.2,0,0,https://github.com/tlaplus-x/tlx,"A compiled TLA+ model checker with Cranelift JIT, generated C, and Lean-certified state reductions"
+2026-11-27T08:38:45.376401Z,rocqinit,0.2.1,0,0,https://gitlab.com/ayushsshukla/rocqinit,Scaffold Rocq Prover and Coq 8.x formal verification projects built with Dune
+2026-11-27T08:43:36.855757Z,cargo-ensure-no-test-features,0.1.0,0,0,https://github.com/microsoft/ox-tools/tree/main/crates/cargo-ensure-no-test-features,A Cargo subcommand that rejects test-only feature requests in publishable workspace packages
+2026-11-27T08:46:47.779406Z,geolith-tiles,0.1.1,0,0,https://github.com/geolith/tiles,"Serve PMTiles vector, raster and terrain tiles from any storage, as a library for your own server"
+2026-11-27T08:49:35.0695Z,cult,0.0.1,0,0,https://github.com/raoulkent/cult,Placeholder crate: name reserved for a future project.
+2026-11-27T08:51:29.558844Z,joy2-protocol,0.1.0,0,0,https://github.com/aomona/libjoy2,"Pure protocol definitions, GATT UUIDs, and binary decoders for Nintendo Switch 2 controllers"
+2026-11-27T08:51:31.87362Z,joy2-input,0.1.0,0,0,https://github.com/aomona/libjoy2,"Runtime-independent input processing, gesture detection, stick calibration, and failsafe engine for libjoy2"
+2026-11-27T08:51:34.06091Z,libjoy2,0.1.0,0,0,https://github.com/aomona/libjoy2,Cross-platform Rust library for Nintendo Switch 2 Joy-Con 2 and Pro Controller 2 over BLE
+2026-11-27T08:51:36.858363Z,joy2-cli,0.1.0,0,0,https://github.com/aomona/libjoy2,"Hardware probe, scanner, and live monitor CLI for libjoy2"
+2026-11-27T08:55:32.358295Z,spi3derr,26.11.27001,0,0,https://github.com/Pengeszikra/spi3derr,"spi3der in Rust: a 3D workshop for the terminal, the browser and the desktop (name reserved, first release coming)"
+2026-11-27T09:02:11.423657Z,casadi-sys,0.0.0,0,0,https://github.com/casadi/casadi,Placeholder: the CasADi Rust crates are published from https://github.com/casadi/casadi with the first CasADi release that ships them
+2026-11-27T09:02:22.379663Z,casadi,0.0.0,0,0,https://github.com/casadi/casadi,Placeholder: the CasADi Rust crates are published from https://github.com/casadi/casadi with the first CasADi release that ships them
+2026-11-27T09:03:48.063861Z,gremlin,0.0.1,0,0,https://github.com/Lfan-ke/HugeGraphToolChain,Name reservation: Gremlin protocol (GraphSON) codec and traversal DSL for Rust.
+2026-11-27T09:07:09.538976Z,spi3derr-gpt6,26.11.27002,0,0,https://github.com/Pengeszikra/spi3der--gpt6,Dependency-free terminal 3D editor - GPT-6 competition entry
+2026-11-27T09:07:25.312243Z,rtc-probe,0.1.0,0,0,https://github.com/sntns/rtc-probe,"Identify the real-time clock chip on an I2C bus with read-only reads, and bind its Linux driver (Raspberry Pi and other boards)"
+2026-11-27T09:08:01.86151Z,tej-db-ffi,0.1.1,0,0,https://github.com/YeabsiraBezabih/tej-db,"C ABI / FFI bindings for tej-db (Flutter, Dart, iOS, Android, Desktop)"
+2026-11-27T09:11:52.2316Z,starfane-proto,0.1.0,0,0,https://github.com/starlitxiling/starfane,"Protocol types, event schema, and state models for the starfane coding-agent control plane"
+2026-11-27T09:11:53.775668Z,starfane-adapters,0.1.0,0,0,https://github.com/starlitxiling/starfane,"Hook and MCP installers for Claude Code, Codex CLI, and Antigravity (agy) in starfane"
+2026-11-27T09:11:54.559686Z,starfane-binding,0.1.0,0,0,https://github.com/starlitxiling/starfane,Natural-language playbook and stage model binding parser for starfane
+2026-11-27T09:11:55.395115Z,starfane-emit,0.1.0,0,0,https://github.com/starlitxiling/starfane,Sub-10ms std-only hook event emitter and spool client for starfane
+2026-11-27T09:11:56.11423Z,starfane-evidence,0.1.0,0,0,https://github.com/starlitxiling/starfane,Deterministic G1/G2/G3 verification evidence gate for starfane workflows
+2026-11-27T09:15:22.131855Z,tilo-action-types,0.5.2,0,0,https://code.tilo.so/tilo/tilo,"Plain names the action model and the toolkit share: an action's address and id, a control's request, an invocation, a presence, a resource and a history entry."
+2026-11-27T09:17:27.078708Z,ai-only-net-node,0.10.0,0,0,,"Node format for ai-only-net: Ed25519-signed, BLAKE3 content-addressed CBOR nodes for an agents-only network"
+2026-11-27T09:17:48.752249Z,ai-only-net,0.10.0,0,0,,"aon: CLI and stdio MCP server for ai-only-net, a network where only AI agents post, replicate, trade work and moderate"
