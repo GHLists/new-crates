@@ -1,0 +1,62 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-27T22:21:31.079164Z,ferrisma-libavif-sharpyuv,0.1.0,0,0,https://github.com/sebastian-software/ferrisma,SharpYUV 0.4.2 C ABI adapter over the shared safe conversion core
+2026-11-27T22:21:34.287434Z,chyabrung-cli,0.1.0,0,0,https://github.com/Chyabrung/chyabrung,"The `chy` command line tool for Chyabrung: scaffolding, dev server with hot reload, builds, generators, migrations and one-command deploys"
+2026-11-27T22:21:45.779077Z,steelwake-testing,0.0.1,0,0,https://github.com/muhammedfurkan/steelwake,Testing utilities for Steelwake: in-process test client and real-socket test server. Name reserved; not usable yet.
+2026-11-27T22:22:39.434549Z,graphrt-console,0.6.3,0,0,https://github.com/Graphrt/graphrt,"Admin console for self hosted graphrt servers: OIDC sign in, roles, an audit log, encrypted secrets and an agent registry with environments."
+2026-11-27T22:22:43.268394Z,purrade,0.1.0,0,0,,"Type `car`, get a cat at random."
+2026-11-27T22:24:33.024617Z,graphrt-collab,0.6.3,0,0,https://github.com/Graphrt/graphrt,"Real time collaboration for graphrt agent projects: a CRDT document model, the sync protocol, a collaboration server with team workspaces and plugin services, and a client."
+2026-11-27T22:25:13.490387Z,drawen-agent,0.4.0,0,0,https://github.com/NMogolev/drawen,Graphics-free observation and control of a Drawen UI for LLM agents
+2026-11-27T22:26:03.51584Z,conundrum_swift,0.1.0,0,0,,Be less dum.
+2026-11-27T22:26:42.966372Z,graphrt-connect,0.6.3,0,0,https://github.com/Graphrt/graphrt,"Knowledge connectors for graphrt: keep knowledge bases in sync with web sites, REST APIs, Google Drive, Notion and SharePoint, incrementally and on a schedule."
+2026-11-27T22:27:15.736681Z,graphrt-skill,0.6.3,0,0,https://github.com/Graphrt/graphrt,"Agent Skills for graphrt: read SKILL.md packages, pin and scan them at install, and serve them to agents on demand."
+2026-11-27T22:27:33.157042Z,wagonet,0.9.0,0,0,https://github.com/ornicum/wagonet,High-performance async TCP/TLS transport library with custom protocol
+2026-11-27T22:27:49.196845Z,graphrt-learn,0.6.3,0,0,https://github.com/Graphrt/graphrt,"Self learning for graphrt agents: short lessons with provenance, isolated per agent and user, approved by a person before they are used."
+2026-11-27T22:28:04.866002Z,utopia-span,0.1.0,0,0,https://github.com/appwrite/appwrite,"Span tracing: attributes on the current span of each task, W3C trace context, and exporters to stdout, a terminal and Sentry."
+2026-11-27T22:29:58.924003Z,zigbee2mqtt-rs,0.1.0,0,0,https://github.com/founek2/zigbee2mqtt-rs,"Lightweight Rust replacement for zigbee2mqtt (MQTT / WebSocket compatible, Sonoff ZBDongle-E), device definitions in Rhai"
+2026-11-27T22:30:54.971537Z,oxsearch-project,0.3.0,0,0,https://github.com/agentstatelabs/oxsearch,"Project APIs for oxsearch, generated from the Elasticsearch specification: a serverless project's tags and the routing expressions of cross-project search"
+2026-11-27T22:31:15.860698Z,autumn-plugin-aletheiadb,0.1.0,0,0,https://github.com/madmax983/autumn-plugin-aletheiadb,"Autumn plugin: AletheiaDB bi-temporal graph database — time-travel queries, graph traversal, and semantic vector search for Autumn apps."
+2026-11-27T22:31:37.232057Z,rs-html,0.1.0,0,0,https://github.com/codixor/rs-html,Context-aware HTML encoding and entity decoding with no_std support
+2026-11-27T22:32:14.897034Z,chyabrung-jobs,0.1.0,0,0,https://github.com/Chyabrung/chyabrung,"Background job queues (memory, Redis, database) and a cron scheduler for the Chyabrung web framework"
+2026-11-27T22:32:51.899276Z,steelwake-auth,0.0.1,0,0,https://github.com/muhammedfurkan/steelwake,"Authentication and authorization for Steelwake: JWT, typed principals, deny-by-default RBAC, Argon2id passwords, CORS and CSRF. Name reserved; not usable yet."
+2026-11-27T22:36:26.415471Z,rs-svg,0.2.0,0,0,https://github.com/codixor/rs-svg,"Powerful pure-Rust SVG toolkit with a safe, typed document system for parsing, lowering, transforms, and export"
+2026-11-27T22:36:50.963757Z,graphrt-ui,0.6.3,0,0,https://github.com/Graphrt/graphrt,"UI blocks for graphrt: the kinds, JSON Schemas and strict validation of rich visual output (Adaptive Cards, charts, tables, stat tiles) that nodes and tools emit for hosts to render."
+2026-11-27T22:40:55.069482Z,oxsearch-rollup,0.3.0,0,0,https://github.com/agentstatelabs/oxsearch,"Rollup APIs for oxsearch, generated from the Elasticsearch specification: rollup jobs, their capabilities and rollup search. Deprecated upstream in favour of downsampling"
+2026-11-27T22:42:58.92389Z,fiskus,0.1.0-dev,0,0,https://github.com/kondominium/fiskus,Einkommensteuer (German income tax) reference engine. Not official BMF software.
+2026-11-27T22:43:01.602233Z,chyabrung-testing,0.1.0,0,0,https://github.com/Chyabrung/chyabrung,"Test helpers for Chyabrung apps: in-process requests, fluent assertions and test databases"
+2026-11-27T22:43:57.878855Z,steelwake-email,0.0.1,0,0,https://github.com/muhammedfurkan/steelwake,"Outbound email for Steelwake over SMTP with validated messages, bounded retries and TLS verification. Name reserved; not usable yet."
+2026-11-27T22:49:32.706883Z,steelwake-oidc,0.0.1,0,0,https://github.com/muhammedfurkan/steelwake,"OpenID Connect relying party for Steelwake: authorization-code flow with PKCE, nonce and strict ID-token validation. Name reserved; not usable yet."
+2026-11-27T22:50:18.996583Z,ktesio-embed,0.0.1,0,0,https://github.com/ktesio/build,"Local static embeddings (model2vec format), no runtime or tokenizer crates"
+2026-11-27T22:50:19.40399Z,ktesio-model,0.0.1,0,0,https://github.com/ktesio/build,"Ktesio Build record types, the .ktesio/ file format, ktesio.toml and the record store"
+2026-11-27T22:50:21.488915Z,ktesio-hosts,0.0.1,0,0,https://github.com/ktesio/build,"Host and model detection, per-host installers and capability tables"
+2026-11-27T22:50:22.122899Z,ktesio-store,0.0.1,0,0,https://github.com/ktesio/build,"The rebuildable cache: SQLite records, symbols, edges, full-text search and vectors"
+2026-11-27T22:50:23.980026Z,ktesio-guard,0.0.1,0,0,https://github.com/ktesio/build,"Slice planning: routing, cost-of-being-wrong scoring, leashes, question cards"
+2026-11-27T22:50:55.186501Z,oxsearch-searchable-snapshots,0.3.0,0,0,https://github.com/agentstatelabs/oxsearch,"Searchable snapshots for oxsearch, generated from the Elasticsearch specification: indices mounted from a snapshot, their statistics and the shared cache"
+2026-11-27T22:51:44.326702Z,chyabrung,0.1.0,0,0,https://github.com/Chyabrung/chyabrung,"Build with rhythm: a fullstack Rust web framework — fast HTTP core, expressive ORM, auth, Leptos frontend, jobs, mail and storage"
+2026-11-27T22:52:01.910199Z,ferrisma-libavif,0.1.0,0,0,https://github.com/sebastian-software/ferrisma,Mechanical Rust port of the pinned libavif implementation
+2026-11-27T22:52:08.953785Z,ferrisma-avif-read,0.1.0,0,0,https://github.com/sebastian-software/ferrisma,"Safe, bounded-output read bridge to the workspace libavif port"
+2026-11-27T22:52:12.779274Z,ferrisma-avif-write,0.1.0,0,0,https://github.com/sebastian-software/ferrisma,Safe still AVIF encoder boundary for the workspace libavif port
+2026-11-27T22:53:45.384972Z,ktesio-index,0.0.1,0,0,https://github.com/ktesio/build,tree-sitter symbol extraction and incremental sync of the code index
+2026-11-27T22:54:52.815091Z,memhouse-core,0.0.0,0,0,https://github.com/memhousehq/memhouse,"Part of MemHouse, governed memory for AI agents. This version holds the name; the first release is 2.0.0."
+2026-11-27T22:54:56.192595Z,memhouse-store-postgres,0.0.0,0,0,https://github.com/memhousehq/memhouse,"Part of MemHouse, governed memory for AI agents. This version holds the name; the first release is 2.0.0."
+2026-11-27T22:54:59.57384Z,memhouse-store-sqlite,0.0.0,0,0,https://github.com/memhousehq/memhouse,"Part of MemHouse, governed memory for AI agents. This version holds the name; the first release is 2.0.0."
+2026-11-27T22:55:00.332702Z,octorun,1.0.0,0,0,https://github.com/CHE3MZ/octorun,Create disposable self-hosted GitHub Actions runners.
+2026-11-27T22:55:01.921206Z,memhouse-models,0.0.0,0,0,https://github.com/memhousehq/memhouse,"Part of MemHouse, governed memory for AI agents. This version holds the name; the first release is 2.0.0."
+2026-11-27T22:55:04.275725Z,memhouse-conformance,0.0.0,0,0,https://github.com/memhousehq/memhouse,"Part of MemHouse, governed memory for AI agents. This version holds the name; the first release is 2.0.0."
+2026-11-27T23:00:39.357755Z,steelwake-postgres,0.0.1,0,0,https://github.com/muhammedfurkan/steelwake,"PostgreSQL for Steelwake: a validated SQLx pool, transactions, error mapping and checksummed migrations. Name reserved; not usable yet."
+2026-11-27T23:01:01.443954Z,oxsearch-slm,0.3.0,0,0,https://github.com/agentstatelabs/oxsearch,"Snapshot lifecycle management for oxsearch, generated from the Elasticsearch specification: policies that take snapshots on a schedule and expire old ones"
+2026-11-27T23:01:32.752833Z,ferrisma-jxl-decoder,0.1.0,0,0,https://github.com/sebastian-software/ferrisma,"Safe, bounded-output JPEG XL read bridge to the workspace libjxl-rs port"
+2026-11-27T23:03:45.97737Z,ktesio-context,0.0.1,0,0,https://github.com/ktesio/build,"Context packs: graph walk, hybrid search, ranking, budgeting, cache-friendly order"
+2026-11-27T23:05:22.744892Z,memhouse-server,0.0.0,0,0,https://github.com/memhousehq/memhouse,"Part of MemHouse, governed memory for AI agents. This version holds the name; the first release is 2.0.0."
+2026-11-27T23:06:10.435538Z,atx,0.1.1,0,0,https://github.com/jsugg/atx,Reliable per-user command scheduler for macOS and Linux
+2026-11-27T23:10:57.30936Z,oxsearch-xpack,0.3.0,0,0,https://github.com/agentstatelabs/oxsearch,"X-Pack information and usage for oxsearch, generated from the Elasticsearch specification: the build, the license and the features available, and how much each is used"
+2026-11-27T23:11:29.670978Z,ferrisma-jxl-encoder,0.1.0,0,0,https://github.com/sebastian-software/ferrisma,"Safe, bounded-output JPEG XL write bridge to the workspace libjxl-rs encoder"
+2026-11-27T23:11:43.6069Z,steelwake-queue,0.0.1,0,0,https://github.com/muhammedfurkan/steelwake,Durable jobs and a cron scheduler for Steelwake on PostgreSQL with at-least-once delivery and dead letters. Name reserved; not usable yet.
+2026-11-27T23:13:04.81517Z,tidewarp-term,0.2.1,0,0,https://github.com/LargeModGames/tidewarp,Fast Kitty and Sixel encoders for animated RGBA frames in the terminal
+2026-11-27T23:13:45.293083Z,ktesio-verify,0.0.1,0,0,https://github.com/ktesio/build,"Verification, per-task commits, drift checks, the digest and rollback lists"
+2026-11-27T23:15:28.563075Z,memhouse-bench,0.0.0,0,0,https://github.com/memhousehq/memhouse,"Part of MemHouse, governed memory for AI agents. This version holds the name; the first release is 2.0.0."
+2026-11-27T23:18:59.492982Z,cuilo-core,0.0.0,0,0,https://github.com/TuentyFaiv/cuilo,"Placeholder for cuilo, published by its release workflow from 2.0.0-alpha.0 on."
+2026-11-27T23:19:01.891825Z,cuilo-packs,0.0.0,0,0,https://github.com/TuentyFaiv/cuilo,"Placeholder for cuilo, published by its release workflow from 2.0.0-alpha.0 on."
+2026-11-27T23:19:03.906714Z,cuilo-rpc,0.0.0,0,0,https://github.com/TuentyFaiv/cuilo,"Placeholder for cuilo, published by its release workflow from 2.0.0-alpha.0 on."
+2026-11-27T23:19:06.250095Z,cuilo-mcp,0.0.0,0,0,https://github.com/TuentyFaiv/cuilo,"Placeholder for cuilo, published by its release workflow from 2.0.0-alpha.0 on."
+2026-11-27T23:19:08.545435Z,cuilo,0.0.0,0,0,https://github.com/TuentyFaiv/cuilo,"Placeholder for cuilo, published by its release workflow from 2.0.0-alpha.0 on."
+2026-11-27T23:19:51.008652Z,ntfy-cli,0.1.0,0,0,https://codeberg.org/cacilhas/ntfy,CLI to send message to ntfy.sh topics
