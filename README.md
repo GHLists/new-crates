@@ -8,53 +8,75 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-27 21:20 UTC
+## Latest list — 2026-11-27 22:21 UTC
 
-New crates published between 2026-11-27 20:20 UTC and 2026-11-27 21:20 UTC.
+New crates published between 2026-11-27 21:20 UTC and 2026-11-27 22:21 UTC.
 
-[Full CSV](data/new-crates-2026-11-27T21-20-18-055275Z.csv)
+[Full CSV](data/new-crates-2026-11-27T22-21-11-727092Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-27 20:20:26 | [gme-kss](https://crates.io/crates/gme-kss) | 0.1.0 | 0 | MSX KSS music emulator for game-music-emu |
-| 2026-11-27 20:21:08 | [ikigai-secret-fnox](https://crates.io/crates/ikigai-secret-fnox) | 0.1.0 | 0 | A read-only fnox store for ikigai-secret: secrets read through fnox's library f… |
-| 2026-11-27 20:21:50 | [seiva-observability](https://crates.io/crates/seiva-observability) | 0.2.2 | 0 | Delonix Seiva — native observability (ADR 0027): opt-in Prometheus /metrics exp… |
-| 2026-11-27 20:29:04 | [sponsorkit](https://crates.io/crates/sponsorkit) | 1.0.0 | 0 | Build GitHub Sponsors and Open Collective contributions into your Rust app or C… |
-| 2026-11-27 20:30:25 | [gme-hes](https://crates.io/crates/gme-hes) | 0.1.0 | 0 | PC Engine HES music emulator for game-music-emu |
-| 2026-11-27 20:31:51 | [page2md](https://crates.io/crates/page2md) | 0.1.0 | 0 | Convert arbitrary web page HTML into clean Markdown for LLMs and note taking ap… |
-| 2026-11-27 20:32:03 | [seiva-events](https://crates.io/crates/seiva-events) | 0.2.2 | 0 | In-process event bus for Delonix Seiva: a subscriber registry and an inbox-dedu… |
-| 2026-11-27 20:33:13 | [logorrhea_test_data](https://crates.io/crates/logorrhea_test_data) | 0.18.0 | 0 | Data used by the `logorrhea` crate's tests and benchmarks. |
-| 2026-11-27 20:35:24 | [nms-glyph-reader](https://crates.io/crates/nms-glyph-reader) | 1.0.0 | 0 | Reads the portal address and the galaxy from a No Man's Sky screenshot |
-| 2026-11-27 20:38:52 | [pathway-studio](https://crates.io/crates/pathway-studio) | 0.18.0 | 0 | Desktop frontend (Rust + egui) for viewing, editing and analysing biological pa… |
-| 2026-11-27 20:40:25 | [gme-nsf](https://crates.io/crates/gme-nsf) | 0.1.0 | 0 | NES NSF music emulator |
-| 2026-11-27 20:42:25 | [axle-mcp](https://crates.io/crates/axle-mcp) | 0.1.1 | 0 | Axle (axl): self-hosted MCP server where coding agents on any machine message e… |
-| 2026-11-27 20:44:44 | [ll-rust](https://crates.io/crates/ll-rust) | 0.1.0 | 0 | Language-only Rust Telegram bot runtime with durable queues and webhook/polling… |
-| 2026-11-27 20:44:46 | [origincloud-secretmanager](https://crates.io/crates/origincloud-secretmanager) | 0.69.0 | 0 | The Origin Cloud secretmanager API: secrets: small confidential values, such as… |
-| 2026-11-27 20:50:13 | [utopia-queue](https://crates.io/crates/utopia-queue) | 0.1.0 | 0 | Queue consumers that share queues with utopia-php/queue: a JetStream worker tha… |
-| 2026-11-27 20:50:25 | [gme-sap](https://crates.io/crates/gme-sap) | 0.1.0 | 0 | Atari XL SAP music emulator for game-music-emu |
-| 2026-11-27 20:50:37 | [tylertoo-io](https://crates.io/crates/tylertoo-io) | 0.9.0 | 0 | Checked Parquet and Arrow IPC I/O for tylertoo-core: an implementation detail w… |
-| 2026-11-27 20:51:53 | [seiva-ratelimit-redis](https://crates.io/crates/seiva-ratelimit-redis) | 0.2.2 | 0 | A Redis-backed distributed rate-limit store for Delonix Seiva (seiva_ports::Rat… |
-| 2026-11-27 20:52:34 | [hanconv-wasm](https://crates.io/crates/hanconv-wasm) | 0.6.0 | 0 | Convert between Chinese character variants. |
-| 2026-11-27 20:59:01 | [synxit](https://crates.io/crates/synxit) | 0.0.0 | 0 | placeholder for the synxit project |
-| 2026-11-27 21:00:25 | [gme-spc](https://crates.io/crates/gme-spc) | 0.1.0 | 0 | SPC (Super Nintendo) music emulator for game-music-emu |
-| 2026-11-27 21:01:57 | [seiva-realtime](https://crates.io/crates/seiva-realtime) | 0.2.2 | 0 | Delonix Seiva — a first-class, protocol-neutral WebSocket + SSE hub (ADR 0031):… |
-| 2026-11-27 21:03:43 | [synxit-core](https://crates.io/crates/synxit-core) | 0.0.0 | 0 | placeholder for the synxit project |
-| 2026-11-27 21:04:50 | [synxit-server](https://crates.io/crates/synxit-server) | 0.0.0 | 0 | placeholder for the synxit project |
-| 2026-11-27 21:07:54 | [ombryt](https://crates.io/crates/ombryt) | 0.1.0 | 0 | A fast, single-binary static site generator for blogs and documentation |
-| 2026-11-27 21:09:23 | [oxsearch-autoscaling](https://crates.io/crates/oxsearch-autoscaling) | 0.3.0 | 0 | Autoscaling APIs for oxsearch, generated from the Elasticsearch specification:… |
-| 2026-11-27 21:09:31 | [oxsearch-ml](https://crates.io/crates/oxsearch-ml) | 0.3.0 | 0 | Machine learning APIs for oxsearch, generated from the Elasticsearch specificat… |
-| 2026-11-27 21:09:39 | [oxsearch-watcher](https://crates.io/crates/oxsearch-watcher) | 0.3.0 | 0 | Watcher APIs for oxsearch, generated from the Elasticsearch specification: watc… |
-| 2026-11-27 21:09:47 | [oxsearch-cat](https://crates.io/crates/oxsearch-cat) | 0.3.0 | 0 | The cat APIs for oxsearch, generated from the Elasticsearch specification: comp… |
-| 2026-11-27 21:09:50 | [oxsearch-ccr](https://crates.io/crates/oxsearch-ccr) | 0.3.0 | 0 | Cross-cluster replication for oxsearch, generated from the Elasticsearch specif… |
-| 2026-11-27 21:10:25 | [ginga](https://crates.io/crates/ginga) | 0.1.0 | 0 | Motion for Rust UIs: springs and tweens as pure functions of time, readable as… |
-| 2026-11-27 21:10:46 | [ginga-gpui](https://crates.io/crates/ginga-gpui) | 0.1.0 | 0 | ginga motion for GPUI views: the frame's clock, frame requests and reduced moti… |
-| 2026-11-27 21:10:54 | [oxsearch-connector](https://crates.io/crates/oxsearch-connector) | 0.3.0 | 0 | Connector APIs for oxsearch, generated from the Elasticsearch specification: co… |
-| 2026-11-27 21:11:55 | [seiva-storage](https://crates.io/crates/seiva-storage) | 0.2.2 | 0 | Delonix Seiva — a pluggable, tenant-aware ObjectStore port (ADR 0032): streamin… |
-| 2026-11-27 21:18:13 | [cargo-modernize-catalog](https://crates.io/crates/cargo-modernize-catalog) | 0.1.0 | 0 | Zero-dependency embedded Rust release inventories, triage records, and moderniz… |
-| 2026-11-27 21:18:44 | [cargo-modernize-core](https://crates.io/crates/cargo-modernize-core) | 0.1.0 | 0 | Core CST rules, scope resolution, guidelines index, and workspace engine for ca… |
-| 2026-11-27 21:19:26 | [cargo-modernize](https://crates.io/crates/cargo-modernize) | 0.1.0 | 0 | Rust workspace modernization knowledge catalog, AI guidelines, and fast read-on… |
-| 2026-11-27 21:19:40 | [tamil-punarchi](https://crates.io/crates/tamil-punarchi) | 0.3.0 | 0 | Sourced Nannool sandhi (punarchi) joining and dictionary-free reverse split can… |
-| 2026-11-27 21:19:55 | [tamil-lexicon](https://crates.io/crates/tamil-lexicon) | 0.3.0 | 0 | Pure Apache-2.0 Tamil lexicon .tlpack v1/v2 reader, FST lookup/prefix search, a… |
+| 2026-11-27 21:20:56 | [oxsearch-dangling-indices](https://crates.io/crates/oxsearch-dangling-indices) | 0.3.0 | 0 | Dangling index APIs for oxsearch, generated from the Elasticsearch specificatio… |
+| 2026-11-27 21:22:05 | [seiva-webhook-delivery](https://crates.io/crates/seiva-webhook-delivery) | 0.2.2 | 0 | Wire the ADR 0033 webhook delivery engine into the runtime: a seiva-events subs… |
+| 2026-11-27 21:30:56 | [oxsearch-features](https://crates.io/crates/oxsearch-features) | 0.3.0 | 0 | Feature state APIs for oxsearch, generated from the Elasticsearch specification… |
+| 2026-11-27 21:31:12 | [wayside](https://crates.io/crates/wayside) | 0.1.0 | 0 | Checkpointing for agent sessions that snapshots the full working state of files… |
+| 2026-11-27 21:31:17 | [ferrobridge](https://crates.io/crates/ferrobridge) | 0.1.0 | 0 | The runtime of the safe Rust API generated by ferrobridge: a shared error type… |
+| 2026-11-27 21:31:18 | [ferrobridge-ir](https://crates.io/crates/ferrobridge-ir) | 0.1.0 | 0 | The intermediate model (IR) of C++ declarations used by ferrobridge. An impleme… |
+| 2026-11-27 21:31:21 | [ferrobridge-analysis](https://crates.io/crates/ferrobridge-analysis) | 0.1.0 | 0 | Decides what ferrobridge can bind safely: ownership annotations (`ferrobridge.t… |
+| 2026-11-27 21:31:22 | [ferrobridge-parser](https://crates.io/crates/ferrobridge-parser) | 0.1.0 | 0 | Reads C++ headers with libclang into the ferrobridge IR. An implementation deta… |
+| 2026-11-27 21:31:25 | [ferrobridge-codegen](https://crates.io/crates/ferrobridge-codegen) | 0.1.0 | 0 | Generates the cxx bridge, the C++ shim and the safe Rust API from a ferrobridge… |
+| 2026-11-27 21:31:54 | [seiva-mcp-server](https://crates.io/crates/seiva-mcp-server) | 0.2.2 | 0 | Delonix Seiva module facades as MCP tools: Streamable HTTP, the caller's own id… |
+| 2026-11-27 21:40:56 | [oxsearch-fleet](https://crates.io/crates/oxsearch-fleet) | 0.3.0 | 0 | Fleet APIs for oxsearch, generated from the Elasticsearch specification: global… |
+| 2026-11-27 21:42:17 | [ferrobridge-build](https://crates.io/crates/ferrobridge-build) | 0.1.0 | 0 | Builds ferrobridge bridges from `build.rs`: committed generated files or (with… |
+| 2026-11-27 21:42:39 | [zlob-prebuilt-android](https://crates.io/crates/zlob-prebuilt-android) | 0.0.0 | 0 | Prebuilt zlob static libraries for Android. Depend on the zlob crate, not on th… |
+| 2026-11-27 21:42:43 | [zlob-prebuilt-apple](https://crates.io/crates/zlob-prebuilt-apple) | 0.0.0 | 0 | Prebuilt zlob static libraries for macOS and iOS. Depend on the zlob crate, not… |
+| 2026-11-27 21:42:46 | [zlob-prebuilt-bsd](https://crates.io/crates/zlob-prebuilt-bsd) | 0.0.0 | 0 | Prebuilt zlob static libraries for FreeBSD and NetBSD. Depend on the zlob crate… |
+| 2026-11-27 21:42:49 | [zlob-prebuilt-linux](https://crates.io/crates/zlob-prebuilt-linux) | 0.0.0 | 0 | Prebuilt zlob static libraries for Linux. Depend on the zlob crate, not on this… |
+| 2026-11-27 21:42:53 | [zlob-prebuilt-windows](https://crates.io/crates/zlob-prebuilt-windows) | 0.0.0 | 0 | Prebuilt zlob static libraries for Windows. Depend on the zlob crate, not on th… |
+| 2026-11-27 21:42:56 | [ferrisma-sharpyuv](https://crates.io/crates/ferrisma-sharpyuv) | 0.1.0 | 0 | Shared SharpYUV 0.4.2 RGB to YUV conversion core |
+| 2026-11-27 21:42:59 | [ferrisma-kernels](https://crates.io/crates/ferrisma-kernels) | 0.1.0 | 0 | Runtime-dispatched SIMD kernels behind a safe API for Ferrisma (ADR-0020) |
+| 2026-11-27 21:43:05 | [ferrisma-libjpeg-turbo](https://crates.io/crates/ferrisma-libjpeg-turbo) | 0.1.0 | 0 | A mechanical Rust port of libjpeg-turbo's JPEG decoder |
+| 2026-11-27 21:43:28 | [ferrisma-libjxl](https://crates.io/crates/ferrisma-libjxl) | 0.1.0 | 0 | A mechanical Rust port of the JPEG XL reference implementation |
+| 2026-11-27 21:44:14 | [ferrisma-libaom](https://crates.io/crates/ferrisma-libaom) | 0.1.0 | 0 | Mechanical portable Rust translation of libaom 3.15.2 |
+| 2026-11-27 21:45:35 | [meshforge](https://crates.io/crates/meshforge) | 0.1.0 | 0 | meshforge: modelling, rigging and mesh editing for Rust and the web. Pure-Rust,… |
+| 2026-11-27 21:47:12 | [adaliszk-commands-macros](https://crates.io/crates/adaliszk-commands-macros) | 0.1.0 | 0 | Procedural-macro companion for adaliszk-commands (the command registration attr… |
+| 2026-11-27 21:47:15 | [adaliszk-commands](https://crates.io/crates/adaliszk-commands) | 0.1.0 | 0 | Clap-free command registration wired through the adaliszk-anymap dependency-inj… |
+| 2026-11-27 21:50:48 | [pushrod](https://crates.io/crates/pushrod) | 0.1.0 | 0 | Pushrod UI Library: engine, widget tree, events, and drawing core |
+| 2026-11-27 21:50:50 | [pushrod-widgets](https://crates.io/crates/pushrod-widgets) | 0.1.0 | 0 | Standard widgets for the Pushrod UI library: simple, flat, and predictable |
+| 2026-11-27 21:50:52 | [pushrod-sdl2](https://crates.io/crates/pushrod-sdl2) | 0.1.0 | 0 | SDL2 backend for the Pushrod UI library: window, input, GPU textures, and text |
+| 2026-11-27 21:50:57 | [oxsearch-graph](https://crates.io/crates/oxsearch-graph) | 0.3.0 | 0 | Graph APIs for oxsearch, generated from the Elasticsearch specification: the te… |
+| 2026-11-27 21:51:01 | [chyabrung-core](https://crates.io/crates/chyabrung-core) | 0.1.0 | 0 | Core HTTP server, router, extractors, middleware and config for the Chyabrung w… |
+| 2026-11-27 21:51:03 | [chyabrung-macros](https://crates.io/crates/chyabrung-macros) | 0.1.0 | 0 | Procedural macros for the Chyabrung web framework (#[get], #[derive(Validate)],… |
+| 2026-11-27 21:51:07 | [chyabrung-auth](https://crates.io/crates/chyabrung-auth) | 0.1.0 | 0 | Sessions, JWT, Argon2 passwords, guards, roles & permissions, CSRF and OAuth fo… |
+| 2026-11-27 21:51:10 | [chyabrung-db](https://crates.io/crates/chyabrung-db) | 0.1.0 | 0 | Eloquent-style query builder, ORM, migrations, seeders and cache for the Chyabr… |
+| 2026-11-27 21:51:12 | [chyabrung-mail](https://crates.io/crates/chyabrung-mail) | 0.1.0 | 0 | SMTP mail with templates for the Chyabrung web framework |
+| 2026-11-27 21:51:12 | [memshape](https://crates.io/crates/memshape) | 0.1.0 | 0 | Rust containers for reusable buffers, budgeted working memory, and stable-ID gr… |
+| 2026-11-27 21:52:49 | [ferrobridge-cli](https://crates.io/crates/ferrobridge-cli) | 0.1.0 | 0 | The `ferrobridge` command: generates safe, idiomatic Rust bindings for C++ head… |
+| 2026-11-27 21:56:38 | [agg-gui-node-editor](https://crates.io/crates/agg-gui-node-editor) | 0.0.7 | 0 | A reusable, model-agnostic node-graph editor widget for agg-gui. |
+| 2026-11-27 21:59:31 | [mesh-chat](https://crates.io/crates/mesh-chat) | 0.1.0 | 0 | Offline-first causal messaging, group authorization, and sync primitives. |
+| 2026-11-27 22:00:55 | [qrab-qapi-core](https://crates.io/crates/qrab-qapi-core) | 0.1.0 | 0 | The runtime of the QEMU QMP and guest agent (QGA) types of qrab-qapi: their tra… |
+| 2026-11-27 22:00:58 | [oxsearch-logstash](https://crates.io/crates/oxsearch-logstash) | 0.3.0 | 0 | Logstash APIs for oxsearch, generated from the Elasticsearch specification: the… |
+| 2026-11-27 22:01:24 | [mtest-rs](https://crates.io/crates/mtest-rs) | 0.1.0 | 0 | Unofficial, independent reimplementation in Rust of a subset of MTest (TFEL), b… |
+| 2026-11-27 22:02:07 | [chyabrung-storage](https://crates.io/crates/chyabrung-storage) | 0.1.0 | 0 | File storage drivers (local, S3, Cloudflare R2) for the Chyabrung web framework |
+| 2026-11-27 22:03:01 | [assert-sys](https://crates.io/crates/assert-sys) | 0.1.0 | 0 | Internal test helper. |
+| 2026-11-27 22:04:43 | [nanocodec-rtp](https://crates.io/crates/nanocodec-rtp) | 0.8.0 | 0 | RTP payload formats for nanocodec streams: H.264, HEVC, VVC, AV1 (with the Depe… |
+| 2026-11-27 22:07:12 | [ferrisma-dav1d-kernels](https://crates.io/crates/ferrisma-dav1d-kernels) | 0.1.0 | 0 | dav1d's CDEF and inverse transforms written from the algorithm on fearless_simd… |
+| 2026-11-27 22:07:28 | [ferrisma-dav1d](https://crates.io/crates/ferrisma-dav1d) | 0.1.0 | 0 | Mechanical portable Rust translation of dav1d 1.5.4 |
+| 2026-11-27 22:08:20 | [hazard3-watchdog](https://crates.io/crates/hazard3-watchdog) | 0.1.0 | 0 | Multi-task supervisor and RP2350 (Hazard3 RISC-V) hardware watchdog driver for… |
+| 2026-11-27 22:10:55 | [oxsearch-migration](https://crates.io/crates/oxsearch-migration) | 0.3.0 | 0 | Upgrade assistance for oxsearch, generated from the Elasticsearch specification… |
+| 2026-11-27 22:11:25 | [ferrisma-libwebp](https://crates.io/crates/ferrisma-libwebp) | 0.1.0 | 0 | A mechanical Rust port of libwebp, the WebP reference implementation |
+| 2026-11-27 22:12:57 | [chyabrung-ui](https://crates.io/crates/chyabrung-ui) | 0.1.0 | 0 | Frontend for Chyabrung on Leptos: file-based routing, SSR, streaming, islands h… |
+| 2026-11-27 22:18:12 | [thru-trezor](https://crates.io/crates/thru-trezor) | 0.5.5 | 0 | Trezor hardware-wallet signer for the Thru blockchain: Trezor Host Protocol lin… |
+| 2026-11-27 22:18:49 | [steelwake-macros](https://crates.io/crates/steelwake-macros) | 0.0.1 | 0 | Derive macros (Schema and Validate) for the Steelwake backend framework. Name r… |
+| 2026-11-27 22:18:52 | [steelwake-core](https://crates.io/crates/steelwake-core) | 0.0.1 | 0 | Core of the Steelwake backend framework: app, router, extractors, errors, modul… |
+| 2026-11-27 22:18:54 | [steelwake-cli](https://crates.io/crates/steelwake-cli) | 0.0.1 | 0 | Command-line tool of the Steelwake backend framework: scaffolding, route inspec… |
+| 2026-11-27 22:18:56 | [steelwake](https://crates.io/crates/steelwake) | 0.0.1 | 0 | Steelwake is a backend framework for Rust on Hyper, Tokio and Tower: typed hand… |
+| 2026-11-27 22:19:19 | [conundrum_cli](https://crates.io/crates/conundrum_cli) | 0.1.1 | 0 | Be less dum. |
+| 2026-11-27 22:19:52 | [topcoat-graph](https://crates.io/crates/topcoat-graph) | 0.1.0 | 0 | Charts for Topcoat: line, bar, area and pie, installed with `topcoat ui add --r… |
+| 2026-11-27 22:19:56 | [drawen-signals](https://crates.io/crates/drawen-signals) | 0.4.0 | 0 | Typed synchronous signals and value-carrying properties for Drawen |
+| 2026-11-27 22:20:15 | [cubex](https://crates.io/crates/cubex) | 0.4.0 | 0 | Drawen's pure-Rust 3D layer: math, meshes, cameras, and a deterministic softwar… |
+| 2026-11-27 22:20:29 | [graphrt-channel](https://crates.io/crates/graphrt-channel) | 0.6.3 | 0 | Messaging channels for graphrt agents: Telegram (Bot API), WhatsApp (Cloud API)… |
+| 2026-11-27 22:20:54 | [oxsearch-profiling](https://crates.io/crates/oxsearch-profiling) | 0.3.0 | 0 | Universal Profiling APIs for oxsearch, generated from the Elasticsearch specifi… |
 
 ## Data source
 
