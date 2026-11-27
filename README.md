@@ -8,35 +8,38 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-26 23:22 UTC
+## Latest list — 2026-11-27 00:18 UTC
 
-New crates published between 2026-11-26 22:19 UTC and 2026-11-26 23:22 UTC.
+New crates published between 2026-11-26 23:22 UTC and 2026-11-27 00:18 UTC.
 
-[Full CSV](data/new-crates-2026-11-26T23-22-06-724079Z.csv)
+[Full CSV](data/new-crates-2026-11-27T00-18-45-052628Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-26 22:21:36 | [ebs-snapshot-bill](https://crates.io/crates/ebs-snapshot-bill) | 0.1.1 | 0 | Offline estimate of AWS EBS snapshot GB-month cost from describe-snapshots JSON |
-| 2026-11-26 22:30:15 | [rff-codec-exr](https://crates.io/crates/rff-codec-exr) | 0.9.3 | 0 | Remade FFmpeg (Rust): OpenEXR still-image codec (decode every compression to RG… |
-| 2026-11-26 22:31:20 | [motis](https://crates.io/crates/motis) | 0.1.0 | 0 | Client for the MOTIS 2 public transport routing API |
-| 2026-11-26 22:31:33 | [transitous-core](https://crates.io/crates/transitous-core) | 0.1.0 | 0 | Usage rules, stop resolution and connection status for the Transitous API |
-| 2026-11-26 22:31:59 | [rona-plugin](https://crates.io/crates/rona-plugin) | 1.0.1 | 0 | Write, build and pack Rona plugins in Rust (plugin API 1) |
-| 2026-11-26 22:32:01 | [transitous](https://crates.io/crates/transitous) | 0.1.0 | 0 | CLI and MCP server for public transport connections and departures on the Trans… |
-| 2026-11-26 22:32:49 | [mapsample](https://crates.io/crates/mapsample) | 0.1.0 | 0 | In-process Windows x64 stack sampler with a rolling stall recorder, P/E-core pl… |
-| 2026-11-26 22:32:56 | [ldr-flip](https://crates.io/crates/ldr-flip) | 0.1.0 | 0 | Perceptual LDR FLIP image comparison in pure Rust |
-| 2026-11-26 22:33:00 | [rff-format-exr](https://crates.io/crates/rff-format-exr) | 0.9.3 | 0 | Remade FFmpeg (Rust): OpenEXR single-image container (file = codec stream). |
-| 2026-11-26 22:37:06 | [logcut](https://crates.io/crates/logcut) | 0.1.0 | 0 | Local-first stacktrace & runtime log slicer for AI coding agents and terminal p… |
-| 2026-11-26 22:47:51 | [flm-core](https://crates.io/crates/flm-core) | 0.6.0 | 0 | FLM semantic markup framework — core library, built on techy |
-| 2026-11-26 22:47:54 | [flm-ext](https://crates.io/crates/flm-ext) | 0.6.0 | 0 | FLM's extension interface: packages written outside Rust contribute to the regi… |
-| 2026-11-26 22:47:56 | [flm-extensions](https://crates.io/crates/flm-extensions) | 0.6.0 | 0 | The extensions shipped with FLM, each under a cargo feature of its own: their f… |
-| 2026-11-26 22:47:59 | [flm-host](https://crates.io/crates/flm-host) | 0.6.0 | 0 | The FLM host library: files, front matter, settings, packages and outputs |
-| 2026-11-26 22:48:02 | [flm-info](https://crates.io/crates/flm-info) | 0.6.0 | 0 | Introspection of an FLM environment: queries over a registry, a plan and the pa… |
-| 2026-11-26 22:52:52 | [rcompat-collate](https://crates.io/crates/rcompat-collate) | 0.1.0 | 0 | Compare and sort strings in R's collation order (C locale and the Unicode root… |
-| 2026-11-26 23:01:55 | [rs-ints2arrow-ipc](https://crates.io/crates/rs-ints2arrow-ipc) | 0.1.0 | 0 | Convert raw i32 bytes to Arrow IPC stream |
-| 2026-11-26 23:10:18 | [agg-os](https://crates.io/crates/agg-os) | 0.1.0 | 0 | The operating system calls and other unsafe code of the agg-gui crates, each be… |
-| 2026-11-26 23:11:40 | [microbe-core](https://crates.io/crates/microbe-core) | 0.0.1 | 0 | The algebra of authority behind microbe: shapes, grants, refusals and the state… |
-| 2026-11-26 23:11:41 | [microbe-macros](https://crates.io/crates/microbe-macros) | 0.0.1 | 0 | The #[microbe::main] attribute; use it through the microbe crate |
-| 2026-11-26 23:11:43 | [microbe](https://crates.io/crates/microbe) | 0.0.1 | 0 | Sandboxed WebAssembly programs that declare what they need: write them, build t… |
+| 2026-11-26 23:24:51 | [trustcomponent](https://crates.io/crates/trustcomponent) | 0.0.1-beta.1 | 0 | Official TrustComponent SDK for Rust: TrustCaptcha, TrustAnalytics, TrustMonito… |
+| 2026-11-26 23:31:54 | [pleb](https://crates.io/crates/pleb) | 0.1.0 | 0 | pleb: local, zero-telemetry web fetch and search CLI for AI agents |
+| 2026-11-26 23:33:32 | [oxdock-diagnostics](https://crates.io/crates/oxdock-diagnostics) | 0.45.0-alpha | 0 | Unified keyed diagnostics for OxDock DSL, typing, and CLI: one constructor per… |
+| 2026-11-26 23:41:21 | [kat0-pipeline-protocol](https://crates.io/crates/kat0-pipeline-protocol) | 0.1.0 | 0 | I/O-free pipeline graph model, v2 snapshot codec, and NDJSON v3 event reducer f… |
+| 2026-11-26 23:42:46 | [tailq](https://crates.io/crates/tailq) | 0.1.1 | 0 | no_std intrusive doubly-linked tail queue, after BSD's sys/queue.h TAILQ |
+| 2026-11-26 23:45:05 | [kat0-pipeline-reporter](https://crates.io/crates/kat0-pipeline-reporter) | 0.1.0 | 0 | Async NDJSON v3 test reporter and atomic snapshot writer for kat0-pipeline |
+| 2026-11-26 23:45:28 | [kat0-pipeline-playwright](https://crates.io/crates/kat0-pipeline-playwright) | 0.1.0 | 0 | playwright-rs error classification and browser lifecycle adapter for kat0-pipel… |
+| 2026-11-26 23:45:38 | [kat0-pipeline](https://crates.io/crates/kat0-pipeline) | 0.1.0 | 0 | Live terminal and browser pipeline runner and standalone HTML report generator |
+| 2026-11-26 23:46:16 | [klenwriter-editor-core](https://crates.io/crates/klenwriter-editor-core) | 1.0.0 | 0 | KlenWriter Editor generic semantic primitives; pre-alpha bootstrap |
+| 2026-11-26 23:46:26 | [klenwriter-editor-engine](https://crates.io/crates/klenwriter-editor-engine) | 1.0.0 | 0 | KlenWriter Editor generic engine boundary; pre-alpha bootstrap |
+| 2026-11-26 23:46:29 | [klenwriter-editor-registry](https://crates.io/crates/klenwriter-editor-registry) | 1.0.0 | 0 | Bounded public frozen extension registry and schema authority |
+| 2026-11-26 23:46:31 | [klenwriter-editor-extensions](https://crates.io/crates/klenwriter-editor-extensions) | 1.0.0 | 0 | Finite registry recipes over a typed command provider |
+| 2026-11-26 23:46:33 | [klenwriter-editor-protocol](https://crates.io/crates/klenwriter-editor-protocol) | 1.0.0 | 0 | Shared session and transaction protocol for KlenWriter Editor |
+| 2026-11-26 23:56:28 | [klenwriter-editor-bridge](https://crates.io/crates/klenwriter-editor-bridge) | 1.0.0 | 0 | Profile-independent session bridge for KlenWriter Editor |
+| 2026-11-26 23:56:35 | [tunone](https://crates.io/crates/tunone) | 0.3.11 | 0 | A cross-platform, user-space WireGuard port-forwarder that requires no system n… |
+| 2026-11-27 00:06:41 | [klenwriter-editor-kwdj](https://crates.io/crates/klenwriter-editor-kwdj) | 1.0.0 | 0 | Closed KWDJ v1 profile, native codec and generic document admission |
+| 2026-11-27 00:13:44 | [roder-ext-antigravity-backend](https://crates.io/crates/roder-ext-antigravity-backend) | 0.1.1 | 0 | Agentic software development tools and SDKs for Roder. |
+| 2026-11-27 00:15:41 | [roder-ext-hopper](https://crates.io/crates/roder-ext-hopper) | 0.1.1 | 0 | Agentic software development tools and SDKs for Roder. |
+| 2026-11-27 00:15:59 | [rust-use-core](https://crates.io/crates/rust-use-core) | 0.1.0 | 0 | Core state, primitives and behaviors for rust-use. |
+| 2026-11-27 00:16:05 | [rust-use-macros](https://crates.io/crates/rust-use-macros) | 0.1.0 | 0 | Derive and attribute macros for rust-use. |
+| 2026-11-27 00:16:09 | [rust-use-agent](https://crates.io/crates/rust-use-agent) | 0.1.0 | 0 | The agent bridge for rust-use: compact snapshots, batched actions, queries and… |
+| 2026-11-27 00:16:41 | [entity-lang](https://crates.io/crates/entity-lang) | 0.1.0 | 0 | Parser, AST e validação das linguagens EDL, ESL e EBL para jogos ECS |
+| 2026-11-27 00:16:53 | [klenwriter-editor-kwdj-sdk](https://crates.io/crates/klenwriter-editor-kwdj-sdk) | 1.0.0 | 0 | KWDJ profile adapter for the KlenWriter Editor session SDK |
+| 2026-11-27 00:18:18 | [entity-lang-bevy](https://crates.io/crates/entity-lang-bevy) | 0.1.0 | 0 | Integração Bevy 0.20 para EDL, ESL e EBL |
 
 ## Data source
 

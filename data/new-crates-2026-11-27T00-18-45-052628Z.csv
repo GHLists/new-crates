@@ -1,0 +1,25 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-26T23:24:51.72098Z,trustcomponent,0.0.1-beta.1,0,0,https://github.com/trustcomponent/trustcomponent-rust,"Official TrustComponent SDK for Rust: TrustCaptcha, TrustAnalytics, TrustMonitoring, Trust VAT Checker and the platform API."
+2026-11-26T23:31:54.773602Z,pleb,0.1.0,0,0,https://github.com/MeSH-Inc/pleb,"pleb: local, zero-telemetry web fetch and search CLI for AI agents"
+2026-11-26T23:33:32.325167Z,oxdock-diagnostics,0.45.0-alpha,0,0,https://github.com/jzombie/rust-oxdock,"Unified keyed diagnostics for OxDock DSL, typing, and CLI: one constructor per user-facing error, stable keys, whole-sentence templates."
+2026-11-26T23:41:21.907726Z,kat0-pipeline-protocol,0.1.0,0,0,https://github.com/luapenguin/kat0-pipeline,"I/O-free pipeline graph model, v2 snapshot codec, and NDJSON v3 event reducer for kat0-pipeline"
+2026-11-26T23:42:46.80968Z,tailq,0.1.1,0,0,https://github.com/llp42/tailq,"no_std intrusive doubly-linked tail queue, after BSD's sys/queue.h TAILQ"
+2026-11-26T23:45:05.895158Z,kat0-pipeline-reporter,0.1.0,0,0,https://github.com/luapenguin/kat0-pipeline,Async NDJSON v3 test reporter and atomic snapshot writer for kat0-pipeline
+2026-11-26T23:45:28.434147Z,kat0-pipeline-playwright,0.1.0,0,0,https://github.com/luapenguin/kat0-pipeline,playwright-rs error classification and browser lifecycle adapter for kat0-pipeline-reporter
+2026-11-26T23:45:38.392849Z,kat0-pipeline,0.1.0,0,0,https://github.com/luapenguin/kat0-pipeline,Live terminal and browser pipeline runner and standalone HTML report generator
+2026-11-26T23:46:16.715129Z,klenwriter-editor-core,1.0.0,0,0,https://github.com/artemklen/klenwriter-editor,KlenWriter Editor generic semantic primitives; pre-alpha bootstrap
+2026-11-26T23:46:26.933231Z,klenwriter-editor-engine,1.0.0,0,0,https://github.com/artemklen/klenwriter-editor,KlenWriter Editor generic engine boundary; pre-alpha bootstrap
+2026-11-26T23:46:29.31382Z,klenwriter-editor-registry,1.0.0,0,0,https://github.com/artemklen/klenwriter-editor,Bounded public frozen extension registry and schema authority
+2026-11-26T23:46:31.837686Z,klenwriter-editor-extensions,1.0.0,0,0,https://github.com/artemklen/klenwriter-editor,Finite registry recipes over a typed command provider
+2026-11-26T23:46:33.463878Z,klenwriter-editor-protocol,1.0.0,0,0,https://github.com/artemklen/klenwriter-editor,Shared session and transaction protocol for KlenWriter Editor
+2026-11-26T23:56:28.728165Z,klenwriter-editor-bridge,1.0.0,0,0,https://github.com/artemklen/klenwriter-editor,Profile-independent session bridge for KlenWriter Editor
+2026-11-26T23:56:35.670109Z,tunone,0.3.11,0,0,https://github.com/ravermeister/onetun,"A cross-platform, user-space WireGuard port-forwarder that requires no system network configurations."
+2026-11-27T00:06:41.290204Z,klenwriter-editor-kwdj,1.0.0,0,0,https://github.com/artemklen/klenwriter-editor,"Closed KWDJ v1 profile, native codec and generic document admission"
+2026-11-27T00:13:44.505044Z,roder-ext-antigravity-backend,0.1.1,0,0,https://github.com/RoderAI/roder,Agentic software development tools and SDKs for Roder.
+2026-11-27T00:15:41.377271Z,roder-ext-hopper,0.1.1,0,0,https://github.com/RoderAI/roder,Agentic software development tools and SDKs for Roder.
+2026-11-27T00:15:59.673803Z,rust-use-core,0.1.0,0,0,https://github.com/better-vault/rust-use,"Core state, primitives and behaviors for rust-use."
+2026-11-27T00:16:05.541211Z,rust-use-macros,0.1.0,0,0,https://github.com/better-vault/rust-use,Derive and attribute macros for rust-use.
+2026-11-27T00:16:09.041167Z,rust-use-agent,0.1.0,0,0,https://github.com/better-vault/rust-use,"The agent bridge for rust-use: compact snapshots, batched actions, queries and permissions."
+2026-11-27T00:16:41.91021Z,entity-lang,0.1.0,0,0,https://github.com/AlanSCorreia/entity-lang,"Parser, AST e validação das linguagens EDL, ESL e EBL para jogos ECS"
+2026-11-27T00:16:53.897324Z,klenwriter-editor-kwdj-sdk,1.0.0,0,0,https://github.com/artemklen/klenwriter-editor,KWDJ profile adapter for the KlenWriter Editor session SDK
+2026-11-27T00:18:18.697744Z,entity-lang-bevy,0.1.0,0,0,https://github.com/AlanSCorreia/entity-lang,"Integração Bevy 0.20 para EDL, ESL e EBL"
