@@ -8,41 +8,57 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-27 09:18 UTC
+## Latest list — 2026-11-27 10:18 UTC
 
-New crates published between 2026-11-27 08:18 UTC and 2026-11-27 09:18 UTC.
+New crates published between 2026-11-27 09:18 UTC and 2026-11-27 10:18 UTC.
 
-[Full CSV](data/new-crates-2026-11-27T09-18-46-057617Z.csv)
+[Full CSV](data/new-crates-2026-11-27T10-18-45-589334Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-27 08:19:53 | [idora-axum](https://crates.io/crates/idora-axum) | 1.1.0 | 0 | axum extractors for Idora identifiers: parse and check usr_01k2f9v8ta7m3x0qbrn4… |
-| 2026-11-27 08:22:04 | [tlx-compile](https://crates.io/crates/tlx-compile) | 0.1.2 | 0 | Compiled execution tier (typed IR, Cranelift JIT, and C codegen) for the tlx TL… |
-| 2026-11-27 08:27:22 | [packet-device](https://crates.io/crates/packet-device) | 0.1.0 | 0 | Packet Device protocol and DevicePacketParser for desktop and ESP-IDF Rust |
-| 2026-11-27 08:32:53 | [tlx](https://crates.io/crates/tlx) | 0.1.2 | 0 | A compiled TLA+ model checker with Cranelift JIT, generated C, and Lean-certifi… |
-| 2026-11-27 08:38:45 | [rocqinit](https://crates.io/crates/rocqinit) | 0.2.1 | 0 | Scaffold Rocq Prover and Coq 8.x formal verification projects built with Dune |
-| 2026-11-27 08:43:36 | [cargo-ensure-no-test-features](https://crates.io/crates/cargo-ensure-no-test-features) | 0.1.0 | 0 | A Cargo subcommand that rejects test-only feature requests in publishable works… |
-| 2026-11-27 08:46:47 | [geolith-tiles](https://crates.io/crates/geolith-tiles) | 0.1.1 | 0 | Serve PMTiles vector, raster and terrain tiles from any storage, as a library f… |
-| 2026-11-27 08:49:35 | [cult](https://crates.io/crates/cult) | 0.0.1 | 0 | Placeholder crate: name reserved for a future project. |
-| 2026-11-27 08:51:29 | [joy2-protocol](https://crates.io/crates/joy2-protocol) | 0.1.0 | 0 | Pure protocol definitions, GATT UUIDs, and binary decoders for Nintendo Switch… |
-| 2026-11-27 08:51:31 | [joy2-input](https://crates.io/crates/joy2-input) | 0.1.0 | 0 | Runtime-independent input processing, gesture detection, stick calibration, and… |
-| 2026-11-27 08:51:34 | [libjoy2](https://crates.io/crates/libjoy2) | 0.1.0 | 0 | Cross-platform Rust library for Nintendo Switch 2 Joy-Con 2 and Pro Controller… |
-| 2026-11-27 08:51:36 | [joy2-cli](https://crates.io/crates/joy2-cli) | 0.1.0 | 0 | Hardware probe, scanner, and live monitor CLI for libjoy2 |
-| 2026-11-27 08:55:32 | [spi3derr](https://crates.io/crates/spi3derr) | 26.11.27001 | 0 | spi3der in Rust: a 3D workshop for the terminal, the browser and the desktop (n… |
-| 2026-11-27 09:02:11 | [casadi-sys](https://crates.io/crates/casadi-sys) | 0.0.0 | 0 | Placeholder: the CasADi Rust crates are published from https://github.com/casad… |
-| 2026-11-27 09:02:22 | [casadi](https://crates.io/crates/casadi) | 0.0.0 | 0 | Placeholder: the CasADi Rust crates are published from https://github.com/casad… |
-| 2026-11-27 09:03:48 | [gremlin](https://crates.io/crates/gremlin) | 0.0.1 | 0 | Name reservation: Gremlin protocol (GraphSON) codec and traversal DSL for Rust. |
-| 2026-11-27 09:07:09 | [spi3derr-gpt6](https://crates.io/crates/spi3derr-gpt6) | 26.11.27002 | 0 | Dependency-free terminal 3D editor - GPT-6 competition entry |
-| 2026-11-27 09:07:25 | [rtc-probe](https://crates.io/crates/rtc-probe) | 0.1.0 | 0 | Identify the real-time clock chip on an I2C bus with read-only reads, and bind… |
-| 2026-11-27 09:08:01 | [tej-db-ffi](https://crates.io/crates/tej-db-ffi) | 0.1.1 | 0 | C ABI / FFI bindings for tej-db (Flutter, Dart, iOS, Android, Desktop) |
-| 2026-11-27 09:11:52 | [starfane-proto](https://crates.io/crates/starfane-proto) | 0.1.0 | 0 | Protocol types, event schema, and state models for the starfane coding-agent co… |
-| 2026-11-27 09:11:53 | [starfane-adapters](https://crates.io/crates/starfane-adapters) | 0.1.0 | 0 | Hook and MCP installers for Claude Code, Codex CLI, and Antigravity (agy) in st… |
-| 2026-11-27 09:11:54 | [starfane-binding](https://crates.io/crates/starfane-binding) | 0.1.0 | 0 | Natural-language playbook and stage model binding parser for starfane |
-| 2026-11-27 09:11:55 | [starfane-emit](https://crates.io/crates/starfane-emit) | 0.1.0 | 0 | Sub-10ms std-only hook event emitter and spool client for starfane |
-| 2026-11-27 09:11:56 | [starfane-evidence](https://crates.io/crates/starfane-evidence) | 0.1.0 | 0 | Deterministic G1/G2/G3 verification evidence gate for starfane workflows |
-| 2026-11-27 09:15:22 | [tilo-action-types](https://crates.io/crates/tilo-action-types) | 0.5.2 | 0 | Plain names the action model and the toolkit share: an action's address and id,… |
-| 2026-11-27 09:17:27 | [ai-only-net-node](https://crates.io/crates/ai-only-net-node) | 0.10.0 | 0 | Node format for ai-only-net: Ed25519-signed, BLAKE3 content-addressed CBOR node… |
-| 2026-11-27 09:17:48 | [ai-only-net](https://crates.io/crates/ai-only-net) | 0.10.0 | 0 | aon: CLI and stdio MCP server for ai-only-net, a network where only AI agents p… |
+| 2026-11-27 09:24:14 | [swc_next_markdown_parser](https://crates.io/crates/swc_next_markdown_parser) | 0.0.0 | 0 | Reserved crate name for the SWC Next Markdown parser |
+| 2026-11-27 09:24:25 | [swc_next_formatter_markdown](https://crates.io/crates/swc_next_formatter_markdown) | 0.0.0 | 0 | Reserved crate name for the SWC Next Markdown formatter |
+| 2026-11-27 09:26:47 | [starfane-tmux](https://crates.io/crates/starfane-tmux) | 0.1.0 | 0 | Unified tmux and Zellij terminal multiplexer driver and input gate for starfane |
+| 2026-11-27 09:28:13 | [sdm-cli](https://crates.io/crates/sdm-cli) | 0.1.0 | 0 | Command-line client for the Akeneo Supplier Data Manager (SDM) API, for people… |
+| 2026-11-27 09:30:03 | [elev](https://crates.io/crates/elev) | 0.1.0 | 0 | Cross-platform native OS privilege elevation, persistent system service managem… |
+| 2026-11-27 09:30:32 | [hotup](https://crates.io/crates/hotup) | 0.1.3 | 0 | Cross-platform zero-reauth hot-upgrade supervisor with sver version selection,… |
+| 2026-11-27 09:31:51 | [runnables](https://crates.io/crates/runnables) | 0.1.0 | 0 | What a folder can run: apps, tests, watchers, simulators, databases and deploys… |
+| 2026-11-27 09:33:43 | [tilo-action-line](https://crates.io/crates/tilo-action-line) | 0.5.2 | 0 | One action frame per line: how a local socket carries the action wire, the clie… |
+| 2026-11-27 09:37:20 | [konklav-api](https://crates.io/crates/konklav-api) | 1.11.1 | 0 | Transport types of Konklav's HTTP surfaces, with their OpenAPI schemas |
+| 2026-11-27 09:37:45 | [konklav-cli](https://crates.io/crates/konklav-cli) | 1.11.1 | 0 | The Konklav operator CLI: browser or terminal sign-in to DPoP-bound sessions, a… |
+| 2026-11-27 09:38:59 | [oth_clapgen](https://crates.io/crates/oth_clapgen) | 0.1.0 | 0 | TODO |
+| 2026-11-27 09:41:18 | [fraiseql-time](https://crates.io/crates/fraiseql-time) | 0.0.1 | 0 | Reserved for the FraiseQL project. The real crate (the shared instant type Frai… |
+| 2026-11-27 09:42:34 | [mdrender](https://crates.io/crates/mdrender) | 0.1.0 | 0 | Fast GitHub-style markdown viewer for Linux, with a file tree and live reload |
+| 2026-11-27 09:42:38 | [hyve-update](https://crates.io/crates/hyve-update) | 0.1.0 | 0 | Signed binary deltas and atomic artifact updates for native Hyve applications |
+| 2026-11-27 09:42:46 | [funsecret-core](https://crates.io/crates/funsecret-core) | 0.1.0 | 0 | Core encrypted secret storage, Fernet crypto, and database sync engine for funs… |
+| 2026-11-27 09:42:49 | [serge-widget-codegen](https://crates.io/crates/serge-widget-codegen) | 0.1.0 | 0 | Compile Serge's static mobile widget markup for WidgetKit and Jetpack Glance |
+| 2026-11-27 09:42:54 | [funsecret](https://crates.io/crates/funsecret) | 2.0.1 | 0 | Local-first encrypted secret manager CLI with SQLite and database sync |
+| 2026-11-27 09:42:58 | [hyve-trace](https://crates.io/crates/hyve-trace) | 0.1.0 | 0 | Scoped structured logging, spans and metrics for the Hyperish family |
+| 2026-11-27 09:44:05 | [serge-native-sys](https://crates.io/crates/serge-native-sys) | 0.1.0 | 0 | Native clipboard, file panels, alerts and application storage for Serge |
+| 2026-11-27 09:44:09 | [serge-native-hotpatch](https://crates.io/crates/serge-native-hotpatch) | 0.1.0 | 0 | Opt-in development runtime for compiler-checked Serge render calculations |
+| 2026-11-27 09:45:01 | [beom](https://crates.io/crates/beom) | 0.0.0 | 0 | beom (범): the sandbox runtime of tarae. A placeholder: the runtime is being spl… |
+| 2026-11-27 09:48:32 | [starfane-daemon](https://crates.io/crates/starfane-daemon) | 0.1.0 | 0 | Core daemon, multi-host SSH/Peer federation, and embedded Web console for starf… |
+| 2026-11-27 09:49:00 | [starfane](https://crates.io/crates/starfane) | 0.1.0 | 0 | Lightweight single-binary Rust control plane and Web console for Claude Code, C… |
+| 2026-11-27 09:49:09 | [orbic-msa](https://crates.io/crates/orbic-msa) | 0.1.0 | 0 | Traced service RPC and transactional events for Orbic |
+| 2026-11-27 09:50:03 | [guardian-module-sdk](https://crates.io/crates/guardian-module-sdk) | 0.20.0 | 0 | Module interface, protocol types and serving harness for Guardian policy modules |
+| 2026-11-27 09:56:02 | [twinpeaks](https://crates.io/crates/twinpeaks) | 0.1.0 | 0 | Placeholder for Twinpeaks, a planned library for compact signatures over digest… |
+| 2026-11-27 09:57:12 | [cargo-reach](https://crates.io/crates/cargo-reach) | 0.1.0 | 0 | Tells you if a vulnerable Rust dependency is actually reachable from your code |
+| 2026-11-27 09:59:10 | [serge-web-ionic](https://crates.io/crates/serge-web-ionic) | 0.1.0 | 0 | Adaptive web navigation, focus-managed sheets and touch interactions for Serge |
+| 2026-11-27 10:00:41 | [luanti-protocol-rs](https://crates.io/crates/luanti-protocol-rs) | 0.5.182 | 0 | luanti protocol rust implementation |
+| 2026-11-27 10:03:15 | [alash](https://crates.io/crates/alash) | 0.1.0 | 0 | ask, why and a command-line key binding, answered by the AI CLI you are already… |
+| 2026-11-27 10:04:46 | [rxscan](https://crates.io/crates/rxscan) | 1.3.0 | 0 | RXScan — Reconnaissance & Evidence Engine. |
+| 2026-11-27 10:05:27 | [geolith-dataset](https://crates.io/crates/geolith-dataset) | 0.1.0 | 0 | Serve the files of geolith datasets (rainfall, NDVI and your own) from any stor… |
+| 2026-11-27 10:09:09 | [orbic-jobs](https://crates.io/crates/orbic-jobs) | 0.1.0 | 0 | Durable leased jobs and UTC schedules on the application's SQLite or PostgreSQL… |
+| 2026-11-27 10:11:34 | [dllb-core](https://crates.io/crates/dllb-core) | 1.2.0 | 0 | Core types for dllb: RecordId, Value, Error, Schema |
+| 2026-11-27 10:11:37 | [dllb-search](https://crates.io/crates/dllb-search) | 1.2.0 | 0 | Tantivy integration for full-text search with BM25 scoring |
+| 2026-11-27 10:11:38 | [dllb-storage](https://crates.io/crates/dllb-storage) | 1.2.0 | 0 | KV store trait, redb backend, WAL, key encoding |
+| 2026-11-27 10:11:39 | [dllb-vector](https://crates.io/crates/dllb-vector) | 1.2.0 | 0 | HNSW vector index, distance metrics, VECTOR type, quantization |
+| 2026-11-27 10:11:41 | [dllb-document](https://crates.io/crates/dllb-document) | 1.2.0 | 0 | Document model, CRUD operations, secondary indexes |
+| 2026-11-27 10:12:19 | [plmpeg](https://crates.io/crates/plmpeg) | 0.1.0 | 0 | Safe pure-Rust incremental MPEG-1 video decoder |
+| 2026-11-27 10:12:30 | [fluxbridge](https://crates.io/crates/fluxbridge) | 0.3.0 | 0 | Safe Rust access to real floppy drives over Greaseweazle, DrawBridge, and Super… |
+| 2026-11-27 10:12:33 | [mt32-rs](https://crates.io/crates/mt32-rs) | 0.1.0 | 0 | MT-32 sound module emulation in Rust, a port of Munt's mt32emu |
+| 2026-11-27 10:13:02 | [dllb-graph](https://crates.io/crates/dllb-graph) | 1.2.0 | 0 | Native graph model: edge storage, traversal engine |
+| 2026-11-27 10:15:59 | [fastauth-redis](https://crates.io/crates/fastauth-redis) | 0.7.0 | 0 | Redis and Valkey secondary storage for fastauth, so rate limits hold across eve… |
 
 ## Data source
 

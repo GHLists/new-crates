@@ -1,0 +1,44 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-27T09:24:14.533048Z,swc_next_markdown_parser,0.0.0,0,0,https://github.com/swc-project/swc-next,Reserved crate name for the SWC Next Markdown parser
+2026-11-27T09:24:25.37496Z,swc_next_formatter_markdown,0.0.0,0,0,https://github.com/swc-project/swc-next,Reserved crate name for the SWC Next Markdown formatter
+2026-11-27T09:26:47.332008Z,starfane-tmux,0.1.0,0,0,https://github.com/starlitxiling/starfane,Unified tmux and Zellij terminal multiplexer driver and input gate for starfane
+2026-11-27T09:28:13.973856Z,sdm-cli,0.1.0,0,0,https://github.com/Snidd/sdm-cli,"Command-line client for the Akeneo Supplier Data Manager (SDM) API, for people and LLM agents"
+2026-11-27T09:30:03.35529Z,elev,0.1.0,0,0,https://atomgit.com/i18n-site/rs,"Cross-platform native OS privilege elevation, persistent system service management, and protected root/SYSTEM directory ACL primitives"
+2026-11-27T09:30:32.144921Z,hotup,0.1.3,0,0,https://atomgit.com/i18n-site/rs,"Cross-platform zero-reauth hot-upgrade supervisor with sver version selection, trial boot rollback, independent ready pipe, and bin/cdylib modes"
+2026-11-27T09:31:51.457724Z,runnables,0.1.0,0,0,https://github.com/sichy/runnables,"What a folder can run: apps, tests, watchers, simulators, databases and deploys, found from its files. A library, a CLI, and an MCP server for coding agents."
+2026-11-27T09:33:43.844506Z,tilo-action-line,0.5.2,0,0,https://code.tilo.so/tilo/tilo,"One action frame per line: how a local socket carries the action wire, the client that asks on it, and the connection a launcher hands the programs it starts."
+2026-11-27T09:37:20.600255Z,konklav-api,1.11.1,0,0,https://github.com/cstruct/konklav,"Transport types of Konklav's HTTP surfaces, with their OpenAPI schemas"
+2026-11-27T09:37:45.50242Z,konklav-cli,1.11.1,0,0,https://github.com/cstruct/konklav,"The Konklav operator CLI: browser or terminal sign-in to DPoP-bound sessions, and control-plane commands"
+2026-11-27T09:38:59.955262Z,oth_clapgen,0.1.0,0,0,https://codeberg.org/okieoth/oth_clapgen,TODO
+2026-11-27T09:41:18.262253Z,fraiseql-time,0.0.1,0,0,https://github.com/fraiseql/fraiseql,Reserved for the FraiseQL project. The real crate (the shared instant type FraiseQL crates use) is published with FraiseQL releases.
+2026-11-27T09:42:34.511581Z,mdrender,0.1.0,0,0,https://github.com/JacoboLansac/mdrender,"Fast GitHub-style markdown viewer for Linux, with a file tree and live reload"
+2026-11-27T09:42:38.519129Z,hyve-update,0.1.0,0,0,https://github.com/hyperish/hyve,Signed binary deltas and atomic artifact updates for native Hyve applications
+2026-11-27T09:42:46.259519Z,funsecret-core,0.1.0,0,0,https://github.com/farfarfun/funsecret,"Core encrypted secret storage, Fernet crypto, and database sync engine for funsecret"
+2026-11-27T09:42:49.071461Z,serge-widget-codegen,0.1.0,0,0,https://github.com/hyperish/serge,Compile Serge's static mobile widget markup for WidgetKit and Jetpack Glance
+2026-11-27T09:42:54.237394Z,funsecret,2.0.1,0,0,https://github.com/farfarfun/funsecret,Local-first encrypted secret manager CLI with SQLite and database sync
+2026-11-27T09:42:58.593997Z,hyve-trace,0.1.0,0,0,https://github.com/hyperish/hyve,"Scoped structured logging, spans and metrics for the Hyperish family"
+2026-11-27T09:44:05.328746Z,serge-native-sys,0.1.0,0,0,https://github.com/hyperish/serge,"Native clipboard, file panels, alerts and application storage for Serge"
+2026-11-27T09:44:09.94841Z,serge-native-hotpatch,0.1.0,0,0,https://github.com/hyperish/serge,Opt-in development runtime for compiler-checked Serge render calculations
+2026-11-27T09:45:01.676484Z,beom,0.0.0,0,0,https://github.com/tarae-sh/beom,beom (범): the sandbox runtime of tarae. A placeholder: the runtime is being split out of tarae and nothing here is usable yet.
+2026-11-27T09:48:32.777241Z,starfane-daemon,0.1.0,0,0,https://github.com/starlitxiling/starfane,"Core daemon, multi-host SSH/Peer federation, and embedded Web console for starfane"
+2026-11-27T09:49:00.131363Z,starfane,0.1.0,0,0,https://github.com/starlitxiling/starfane,"Lightweight single-binary Rust control plane and Web console for Claude Code, Codex CLI, and Antigravity across tmux, Zellij, and remote hosts"
+2026-11-27T09:49:09.496661Z,orbic-msa,0.1.0,0,0,https://github.com/hyperish/orbic,Traced service RPC and transactional events for Orbic
+2026-11-27T09:50:03.146734Z,guardian-module-sdk,0.20.0,0,0,https://github.com/OpenZeppelin/guardian,"Module interface, protocol types and serving harness for Guardian policy modules"
+2026-11-27T09:56:02.087467Z,twinpeaks,0.1.0,0,0,,"Placeholder for Twinpeaks, a planned library for compact signatures over digest sequences with verifiable truncation."
+2026-11-27T09:57:12.386969Z,cargo-reach,0.1.0,0,0,https://github.com/merrowd/cargo-reach,Tells you if a vulnerable Rust dependency is actually reachable from your code
+2026-11-27T09:59:10.39403Z,serge-web-ionic,0.1.0,0,0,https://github.com/hyperish/serge,"Adaptive web navigation, focus-managed sheets and touch interactions for Serge"
+2026-11-27T10:00:41.562268Z,luanti-protocol-rs,0.5.182,0,0,,luanti protocol rust implementation
+2026-11-27T10:03:15.815727Z,alash,0.1.0,0,0,https://github.com/hmedkouri/alash,"ask, why and a command-line key binding, answered by the AI CLI you are already logged in to, with its tools off"
+2026-11-27T10:04:46.377641Z,rxscan,1.3.0,0,0,https://github.com/DarkRX1/RXScan,RXScan — Reconnaissance & Evidence Engine.
+2026-11-27T10:05:27.93281Z,geolith-dataset,0.1.0,0,0,https://github.com/geolith/datasets,"Serve the files of geolith datasets (rainfall, NDVI and your own) from any storage, as a library for your own server"
+2026-11-27T10:09:09.117225Z,orbic-jobs,0.1.0,0,0,https://github.com/hyperish/orbic,Durable leased jobs and UTC schedules on the application's SQLite or PostgreSQL database
+2026-11-27T10:11:34.98029Z,dllb-core,1.2.0,0,0,https://github.com/Oeditus/dllb,"Core types for dllb: RecordId, Value, Error, Schema"
+2026-11-27T10:11:37.644327Z,dllb-search,1.2.0,0,0,https://github.com/Oeditus/dllb,Tantivy integration for full-text search with BM25 scoring
+2026-11-27T10:11:38.429858Z,dllb-storage,1.2.0,0,0,https://github.com/Oeditus/dllb,"KV store trait, redb backend, WAL, key encoding"
+2026-11-27T10:11:39.214378Z,dllb-vector,1.2.0,0,0,https://github.com/Oeditus/dllb,"HNSW vector index, distance metrics, VECTOR type, quantization"
+2026-11-27T10:11:41.952649Z,dllb-document,1.2.0,0,0,https://github.com/Oeditus/dllb,"Document model, CRUD operations, secondary indexes"
+2026-11-27T10:12:19.47709Z,plmpeg,0.1.0,0,0,https://github.com/CopperlineHQ/plmpeg-rs,Safe pure-Rust incremental MPEG-1 video decoder
+2026-11-27T10:12:30.043106Z,fluxbridge,0.3.0,0,0,https://github.com/CopperlineHQ/FluxBridge,"Safe Rust access to real floppy drives over Greaseweazle, DrawBridge, and SuperCard Pro interfaces"
+2026-11-27T10:12:33.424061Z,mt32-rs,0.1.0,0,0,https://github.com/CopperlineHQ/mt32-rs,"MT-32 sound module emulation in Rust, a port of Munt's mt32emu"
+2026-11-27T10:13:02.914979Z,dllb-graph,1.2.0,0,0,https://github.com/Oeditus/dllb,"Native graph model: edge storage, traversal engine"
+2026-11-27T10:15:59.335015Z,fastauth-redis,0.7.0,0,0,https://github.com/lassejlv/fastauth,"Redis and Valkey secondary storage for fastauth, so rate limits hold across every instance of an app."
