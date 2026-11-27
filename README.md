@@ -8,71 +8,57 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-27 17:19 UTC
+## Latest list — 2026-11-27 18:19 UTC
 
-New crates published between 2026-11-27 16:18 UTC and 2026-11-27 17:19 UTC.
+New crates published between 2026-11-27 17:19 UTC and 2026-11-27 18:19 UTC.
 
-[Full CSV](data/new-crates-2026-11-27T17-19-26-146622Z.csv)
+[Full CSV](data/new-crates-2026-11-27T18-19-05-893643Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-27 16:19:29 | [rpmls](https://crates.io/crates/rpmls) | 0.4.1 | 0 | A language server for RPM spec files |
-| 2026-11-27 16:20:33 | [rs-matter-utils](https://crates.io/crates/rs-matter-utils) | 0.5.0 | 0 | Native Rust implementation of the Matter (Smart-Home) ecosystem - the error typ… |
-| 2026-11-27 16:20:35 | [rs-matter-tlv](https://crates.io/crates/rs-matter-tlv) | 0.5.0 | 0 | Native Rust implementation of the Matter (Smart-Home) ecosystem - the TLV encod… |
-| 2026-11-27 16:20:36 | [rs-matter-crypto](https://crates.io/crates/rs-matter-crypto) | 0.5.0 | 0 | Native Rust implementation of the Matter (Smart-Home) ecosystem - cryptography |
-| 2026-11-27 16:20:36 | [rs-matter-im-core](https://crates.io/crates/rs-matter-im-core) | 0.5.0 | 0 | Native Rust implementation of the Matter (Smart-Home) ecosystem - the Interacti… |
-| 2026-11-27 16:21:36 | [simee-emu-vmm](https://crates.io/crates/simee-emu-vmm) | 0.1.0 | 0 | The virtual machine: memory map, device tree, kernel loader, PSCI, vCPU loop, U… |
-| 2026-11-27 16:24:58 | [pkp-pdp-api-client](https://crates.io/crates/pkp-pdp-api-client) | 0.1.0 | 0 | API client for PDP API of PKP PLK |
-| 2026-11-27 16:25:29 | [omaflake](https://crates.io/crates/omaflake) | 0.0.0 | 0 | omaflake – clean NixOS and macOS VMs from Nix recipes: the command line omaf (p… |
-| 2026-11-27 16:25:33 | [omaflake-core](https://crates.io/crates/omaflake-core) | 0.0.0 | 0 | omaflake's core: VM control, images, recipes and its service (placeholder – oma… |
-| 2026-11-27 16:25:36 | [omaflake-sdk](https://crates.io/crates/omaflake-sdk) | 0.8.1 | 0 | Talk to omaflake: the client of its service (omaf serve), the API's types, its… |
-| 2026-11-27 16:25:38 | [omaflake-tui](https://crates.io/crates/omaflake-tui) | 0.0.0 | 0 | omaflake's terminal interface (omaf ui) (placeholder – omaflake's first release… |
-| 2026-11-27 16:25:41 | [omaflake-gui](https://crates.io/crates/omaflake-gui) | 0.0.0 | 0 | omaflake's Linux app (placeholder – omaflake's first release on crates.io is 0.… |
-| 2026-11-27 16:27:52 | [orchest-protocol](https://crates.io/crates/orchest-protocol) | 0.2.0 | 0 | Shared protocol for Orchest: content model, capability traits, stream events, c… |
-| 2026-11-27 16:28:09 | [orchest-storage](https://crates.io/crates/orchest-storage) | 0.2.0 | 0 | Unified object storage for Orchest asset persistence: Aliyun OSS and Tencent CO… |
-| 2026-11-27 16:28:25 | [orchest-provider-core](https://crates.io/crates/orchest-provider-core) | 0.2.0 | 0 | Internal building blocks for the Orchest provider crates. Not for direct use: d… |
-| 2026-11-27 16:28:33 | [orchest-provider-http](https://crates.io/crates/orchest-provider-http) | 0.2.0 | 0 | Internal REST/SSE provider dialects for Orchest. Not for direct use: depend on… |
-| 2026-11-27 16:28:37 | [zle](https://crates.io/crates/zle) | 0.1.0 | 0 | Zero-length encoding: drops runs of zero bytes, with an AVX-512 compressor and… |
-| 2026-11-27 16:28:42 | [orchest-provider-stream](https://crates.io/crates/orchest-provider-stream) | 0.2.0 | 0 | Internal WebSocket provider dialects for Orchest. Not for direct use: depend on… |
-| 2026-11-27 16:28:51 | [verilith-quic-conn](https://crates.io/crates/verilith-quic-conn) | 0.1.0 | 0 | A sans-I/O QUIC server connection (RFC 9000, 9001, 9002) over verilith-quic's v… |
-| 2026-11-27 16:31:35 | [simee-emu](https://crates.io/crates/simee-emu) | 0.1.0 | 0 | simee CLI: a drop-in for the Android SDK `emulator` binary. |
-| 2026-11-27 16:31:58 | [rmapi-rs](https://crates.io/crates/rmapi-rs) | 0.0.0 | 0 | reMarkable cloud client over one pluggable platform trait |
-| 2026-11-27 16:35:09 | [headroom-bytes](https://crates.io/crates/headroom-bytes) | 0.1.0 | 0 | A bytes-backed packet buffer for prepending protocol headers without moving the… |
-| 2026-11-27 16:36:00 | [omaflake-i18n](https://crates.io/crates/omaflake-i18n) | 0.8.1 | 0 | Translations of omaflake's Rust interfaces (omaf ui, the Linux app) |
-| 2026-11-27 16:36:43 | [rs-matter-cert](https://crates.io/crates/rs-matter-cert) | 0.5.0 | 0 | Native Rust implementation of the Matter (Smart-Home) ecosystem - certificates… |
-| 2026-11-27 16:36:44 | [rs-matter-dm-core](https://crates.io/crates/rs-matter-dm-core) | 0.5.0 | 0 | Native Rust implementation of the Matter (Smart-Home) ecosystem - the Data Mode… |
-| 2026-11-27 16:37:07 | [orchest-provider-visual](https://crates.io/crates/orchest-provider-visual) | 0.2.0 | 0 | Internal signed/polled generation dialects for Orchest. Not for direct use: dep… |
-| 2026-11-27 16:38:00 | [binarycalc-engine](https://crates.io/crates/binarycalc-engine) | 0.1.0 | 0 | Number base, binary text, Morse, LCM, GCF and factor tools in Rust, with no dep… |
-| 2026-11-27 16:39:21 | [verilith-tiff](https://crates.io/crates/verilith-tiff) | 0.1.0 | 0 | A formally verified (Verus) TIFF decoder |
-| 2026-11-27 16:41:30 | [simee-netshape](https://crates.io/crates/simee-netshape) | 0.1.0 | 0 | No-root network shaping for simulator apps: an injected socket shaper and its l… |
-| 2026-11-27 16:41:37 | [tuna-sdk](https://crates.io/crates/tuna-sdk) | 0.1.0 | 0 | Open tuna.am tunnels from Rust code |
-| 2026-11-27 16:46:13 | [omaflake-macros](https://crates.io/crates/omaflake-macros) | 0.8.1 | 0 | omaflake's procedural macros: the keyed error macro behind omaflake-core's vm_e… |
-| 2026-11-27 16:46:58 | [orchest-provider](https://crates.io/crates/orchest-provider) | 0.2.0 | 0 | Provider registry for Orchest: select LLM, ASR, TTS, realtime and generation pr… |
-| 2026-11-27 16:49:06 | [manifatura-subagents](https://crates.io/crates/manifatura-subagents) | 0.3.0 | 0 | Subagents for manifatura: a task tool that hands a self-contained task to anoth… |
-| 2026-11-27 16:50:08 | [verilith-tls-aws-lc](https://crates.io/crates/verilith-tls-aws-lc) | 0.1.0 | 0 | The cryptography of verilith-tls (AEAD, key exchange, signatures, random number… |
-| 2026-11-27 16:51:34 | [simee-api](https://crates.io/crates/simee-api) | 0.1.0 | 0 | simee unix socket API: a JSON-lines protocol over every device control and debu… |
-| 2026-11-27 16:52:05 | [rs-matter-dm-clusters](https://crates.io/crates/rs-matter-dm-clusters) | 0.5.0 | 0 | Native Rust implementation of the Matter (Smart-Home) ecosystem - the clusters… |
-| 2026-11-27 16:55:54 | [oxygenium](https://crates.io/crates/oxygenium) | 0.0.1 | 0 | Rust Metalanguage |
-| 2026-11-27 16:56:26 | [omaflake-agent](https://crates.io/crates/omaflake-agent) | 0.0.0 | 0 | omaflake's guest agent (placeholder – omaflake's first release on crates.io is… |
-| 2026-11-27 16:56:41 | [vellumdb](https://crates.io/crates/vellumdb) | 0.1.1 | 0 | Text-first embedded database engine: segmented multilingual full-text search (A… |
-| 2026-11-27 16:56:51 | [vellumdb-ql](https://crates.io/crates/vellumdb-ql) | 0.1.1 | 0 | VellumQL: the query language of VellumDB — lexer, parser and interpreter with m… |
-| 2026-11-27 16:56:59 | [vellumdb-server](https://crates.io/crates/vellumdb-server) | 0.1.1 | 0 | VellumDB HTTP server and web console: VellumQL over JSON, bulk ingest, live sta… |
-| 2026-11-27 16:57:09 | [vellumdb-bench](https://crates.io/crates/vellumdb-bench) | 0.1.1 | 0 | VellumDB benchmark and stress-test harness: ingest, batch writes, FTS/vsearch l… |
-| 2026-11-27 16:57:13 | [orchest](https://crates.io/crates/orchest) | 0.2.0 | 0 | Skill-first agent runtime core: agent loop, state management, event streaming,… |
-| 2026-11-27 17:00:27 | [verilith](https://crates.io/crates/verilith) | 0.1.0 | 0 | Formally verified (Verus) drop-in replacements for foundational libraries: one… |
-| 2026-11-27 17:00:44 | [lazygram-core](https://crates.io/crates/lazygram-core) | 0.1.0 | 0 | Generated Telegram Bot API 10.5 core bindings for Lazygram |
-| 2026-11-27 17:01:32 | [simee-mcp](https://crates.io/crates/simee-mcp) | 0.1.0 | 0 | simee's MCP server: every API method as a tool, devices as resources, long oper… |
-| 2026-11-27 17:02:28 | [lazygram](https://crates.io/crates/lazygram) | 0.1.1 | 0 | Rust CLI and runtime for the Lazygram Telegram bot framework |
-| 2026-11-27 17:06:07 | [rs-matter-pairing](https://crates.io/crates/rs-matter-pairing) | 0.5.0 | 0 | Native Rust implementation of the Matter (Smart-Home) ecosystem - onboarding pa… |
-| 2026-11-27 17:06:08 | [rs-matter-node-core](https://crates.io/crates/rs-matter-node-core) | 0.5.0 | 0 | Native Rust implementation of the Matter (Smart-Home) ecosystem - what the node… |
-| 2026-11-27 17:07:02 | [luma-lang](https://crates.io/crates/luma-lang) | 1.0.0 | 0 | A Python-inspired language with a stable bytecode VM and experimental native co… |
-| 2026-11-27 17:10:53 | [verilith-server](https://crates.io/crates/verilith-server) | 0.1.0 | 0 | A formally verified (Verus) HTTP server built from the Verilith parsers |
-| 2026-11-27 17:11:01 | [potato-build](https://crates.io/crates/potato-build) | 0.4.9 | 0 | Build-time proto3 parser and gRPC code generator for potato. |
-| 2026-11-27 17:11:28 | [simee](https://crates.io/crates/simee) | 0.1.0 | 0 | simee CLI: create, boot and drive iOS simulator and Android emulator devices; c… |
-| 2026-11-27 17:11:47 | [dioxus-timers](https://crates.io/crates/dioxus-timers) | 0.8.0-alpha.4 | 0 | Cross-platform timers and timer hooks for Dioxus apps |
-| 2026-11-27 17:14:20 | [piers-rocks-signing-server](https://crates.io/crates/piers-rocks-signing-server) | 0.1.0 | 0 | An Ed25519 signing server used by multiple projects, including One ROM and Airf… |
-| 2026-11-27 17:15:23 | [siwc](https://crates.io/crates/siwc) | 0.1.0 | 0 | Sign in with ChatGPT for Rust desktop apps and CLI tools: OAuth 2.0 login with… |
-| 2026-11-27 17:17:13 | [rs-matter-transport](https://crates.io/crates/rs-matter-transport) | 0.5.0 | 0 | Native Rust implementation of the Matter (Smart-Home) ecosystem - the transport… |
+| 2026-11-27 17:25:37 | [todograph](https://crates.io/crates/todograph) | 0.1.0 | 0 | Mini local-first todo dependency graph (DAG) manager for AI agents |
+| 2026-11-27 17:26:17 | [willow-brotli](https://crates.io/crates/willow-brotli) | 0.1.2 | 0 | Dropbox's brotli 8.0.2 with one change so its quality-1 output is Google's, for… |
+| 2026-11-27 17:26:22 | [cooklang-ingredient-parser](https://crates.io/crates/cooklang-ingredient-parser) | 0.21.0 | 0 | Turns a typed ingredient line into a name and an amount, for Cooklang apps |
+| 2026-11-27 17:28:17 | [rs-matter-bdx](https://crates.io/crates/rs-matter-bdx) | 0.5.0 | 0 | Native Rust implementation of the Matter (Smart-Home) ecosystem - the Bulk Data… |
+| 2026-11-27 17:28:30 | [cargo-cruft](https://crates.io/crates/cargo-cruft) | 0.1.1 | 0 | Remove artifacts from a Cargo target directory that no build will use again |
+| 2026-11-27 17:31:03 | [docker-sandbox-kit](https://crates.io/crates/docker-sandbox-kit) | 0.3.0 | 0 | Kit packages of Docker Sandboxes (sbx), forged through the sandboxd socket alon… |
+| 2026-11-27 17:35:06 | [pricing-kernels](https://crates.io/crates/pricing-kernels) | 0.4.0 | 0 | Pure Rust numeric kernels for P&C actuarial pricing and underwriting-risk capit… |
+| 2026-11-27 17:38:47 | [pakem-derive](https://crates.io/crates/pakem-derive) | 1.0.5 | 0 | Procedural macros for Pakem Framework (PakemModel ORM derive, declarative form… |
+| 2026-11-27 17:38:56 | [rs-matter-sc](https://crates.io/crates/rs-matter-sc) | 0.5.0 | 0 | Native Rust implementation of the Matter (Smart-Home) ecosystem - the Secure Ch… |
+| 2026-11-27 17:45:45 | [dfui-bevy](https://crates.io/crates/dfui-bevy) | 0.2.1 | 0 | A dfui app as the HUD of a Bevy game |
+| 2026-11-27 17:45:47 | [dfui-plot](https://crates.io/crates/dfui-plot) | 0.2.1 | 0 | ggplot-style plot widgets for dfui |
+| 2026-11-27 17:46:55 | [rammux](https://crates.io/crates/rammux) | 0.1.0 | 0 | Asynchronous stream multiplexer |
+| 2026-11-27 17:46:57 | [rustsy_compute](https://crates.io/crates/rustsy_compute) | 0.1.0 | 0 | CSR propagation and specialized integer relation kernels |
+| 2026-11-27 17:47:05 | [rustsy-cuda-runtime](https://crates.io/crates/rustsy-cuda-runtime) | 0.1.0 | 0 | RustSy thread-affine CUDA streams and reusable memory arenas |
+| 2026-11-27 17:47:24 | [rustsy-engine](https://crates.io/crates/rustsy-engine) | 0.1.0 | 0 | Task graph scheduling, residency planning and bounded streaming pipelines |
+| 2026-11-27 17:47:45 | [rustsy-zstd](https://crates.io/crates/rustsy-zstd) | 0.1.0 | 0 | RustSy streaming Zstandard with optional experimental CUDA compression |
+| 2026-11-27 17:47:56 | [rustsy-image](https://crates.io/crates/rustsy-image) | 0.1.0 | 0 | Experimental CUDA JPEG transcode and resize adapter |
+| 2026-11-27 17:49:35 | [rs-matter-node](https://crates.io/crates/rs-matter-node) | 0.5.0 | 0 | Native Rust implementation of the Matter (Smart-Home) ecosystem - the node: the… |
+| 2026-11-27 17:56:16 | [conundrum_db](https://crates.io/crates/conundrum_db) | 0.1.1 | 0 | Be less dum. |
+| 2026-11-27 17:56:17 | [fathomdb-mcp](https://crates.io/crates/fathomdb-mcp) | 0.0.0 | 0 | FathomDB MCP server placeholder |
+| 2026-11-27 17:57:05 | [rustsy-lab](https://crates.io/crates/rustsy-lab) | 0.1.0 | 0 | RustSy experimental integer IR, fusion lowering and calibration |
+| 2026-11-27 17:59:29 | [sorcerer-lackey](https://crates.io/crates/sorcerer-lackey) | 0.3.0 | 0 | Lackey: a coding agent whose whole interface is your editor, run on your own Cl… |
+| 2026-11-27 17:59:37 | [conundrum_tools](https://crates.io/crates/conundrum_tools) | 0.1.1 | 0 | Be less dum. |
+| 2026-11-27 17:59:40 | [agito-cli](https://crates.io/crates/agito-cli) | 0.3.0 | 0 | The agito command-line tool: install browsers, capture pages, run suites |
+| 2026-11-27 18:00:11 | [rs-matter-im](https://crates.io/crates/rs-matter-im) | 0.5.0 | 0 | Native Rust implementation of the Matter (Smart-Home) ecosystem - the Interacti… |
+| 2026-11-27 18:00:14 | [cntryl-midge-core](https://crates.io/crates/cntryl-midge-core) | 0.6.1 | 0 | Foundational filesystem, codec, clock, deadline, and instrumentation types for… |
+| 2026-11-27 18:00:16 | [cntryl-midge-storage](https://crates.io/crates/cntryl-midge-storage) | 0.6.1 | 0 | Provider-neutral object storage for Midge |
+| 2026-11-27 18:00:17 | [cntryl-midge-table](https://crates.io/crates/cntryl-midge-table) | 0.6.1 | 0 | Memtable and SST table formats for cntryl-midge |
+| 2026-11-27 18:00:18 | [cntryl-midge-durability](https://crates.io/crates/cntryl-midge-durability) | 0.6.1 | 0 | WAL, writer leases, and persisted metadata for Midge |
+| 2026-11-27 18:02:17 | [rusmorph](https://crates.io/crates/rusmorph) | 0.1.0 | 0 | Библиотека на Rust для морфологического анализа русского языка. Склоняет слова… |
+| 2026-11-27 18:02:53 | [nlptoolkit-datastructure](https://crates.io/crates/nlptoolkit-datastructure) | 0.0.1 | 0 | Simple DataStructure Library |
+| 2026-11-27 18:07:09 | [rustsy](https://crates.io/crates/rustsy) | 0.1.0-alpha.2 | 0 | Adaptive Heterogeneous Compute Engine |
+| 2026-11-27 18:08:12 | [august-cyber-cli](https://crates.io/crates/august-cyber-cli) | 0.5.0 | 0 | August Cyber defensive security CLI: multi-framework API/GraphQL/MCP discovery,… |
+| 2026-11-27 18:10:32 | [rs-matter-dm](https://crates.io/crates/rs-matter-dm) | 0.5.0 | 0 | Native Rust implementation of the Matter (Smart-Home) ecosystem - the cluster h… |
+| 2026-11-27 18:10:41 | [hep-hist](https://crates.io/crates/hep-hist) | 0.1.0 | 0 | UHI histograms in Rust: read and write the Scikit-HEP Unified Histogram Interfa… |
+| 2026-11-27 18:14:36 | [ikigai-credential](https://crates.io/crates/ikigai-credential) | 0.1.0 | 0 | Verifiable credentials as ikigai resources: issue and verify W3C VC 2.0 in the… |
+| 2026-11-27 18:14:41 | [ikigai-learn](https://crates.io/crates/ikigai-learn) | 0.1.0 | 0 | Self-paced courses as ikigai resources: units, questions, exercises and checks… |
+| 2026-11-27 18:17:07 | [simee-rtc](https://crates.io/crates/simee-rtc) | 0.2.0 | 0 | A WebRTC publisher for H.264 device video: a WHIP client (RFC 9725), RFC 6184 p… |
+| 2026-11-27 18:17:11 | [simee-host](https://crates.io/crates/simee-host) | 0.2.0 | 0 | Host health for simulator farms: load, memory pressure, swap, disk, an admit/ho… |
+| 2026-11-27 18:17:16 | [simee-encode](https://crates.io/crates/simee-encode) | 0.2.0 | 0 | Real-time H.264 from simee's frame sources: VideoToolbox straight from an iOS d… |
+| 2026-11-27 18:18:05 | [cargo-live-proto](https://crates.io/crates/cargo-live-proto) | 0.1.0 | 0 | Protocol shared by cargo-live and cargo-live-agent |
+| 2026-11-27 18:18:08 | [cargo-live](https://crates.io/crates/cargo-live) | 0.1.0 | 0 | Build Rust projects remotely and run their binaries locally |
+| 2026-11-27 18:18:09 | [cargo-live-agent](https://crates.io/crates/cargo-live-agent) | 0.1.0 | 0 | Remote build agent for cargo-live with a built-in SSH server |
 
 ## Data source
 

@@ -1,0 +1,44 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-27T17:25:37.652114Z,todograph,0.1.0,0,0,https://github.com/lxl66566/todograph,Mini local-first todo dependency graph (DAG) manager for AI agents
+2026-11-27T17:26:17.512605Z,willow-brotli,0.1.2,0,0,https://github.com/willow-network/willow-verify,"Dropbox's brotli 8.0.2 with one change so its quality-1 output is Google's, for the L1 data sizes of Willow's Arbitrum call proofs"
+2026-11-27T17:26:22.676622Z,cooklang-ingredient-parser,0.21.0,0,0,https://github.com/cooklang/cooklang-rs,"Turns a typed ingredient line into a name and an amount, for Cooklang apps"
+2026-11-27T17:28:17.189955Z,rs-matter-bdx,0.5.0,0,0,https://github.com/project-chip/rs-matter,Native Rust implementation of the Matter (Smart-Home) ecosystem - the Bulk Data Exchange (BDX) protocol
+2026-11-27T17:28:30.610091Z,cargo-cruft,0.1.1,0,0,https://github.com/ltoddy/rust-projects,Remove artifacts from a Cargo target directory that no build will use again
+2026-11-27T17:31:03.972819Z,docker-sandbox-kit,0.3.0,0,0,https://github.com/aartintelligent/docker-sandbox,"Kit packages of Docker Sandboxes (sbx), forged through the sandboxd socket alone or compiled once with the sbx CLI"
+2026-11-27T17:35:06.928623Z,pricing-kernels,0.4.0,0,0,https://github.com/SinisterRob/pricing-kernels,Pure Rust numeric kernels for P&C actuarial pricing and underwriting-risk capital modeling.
+2026-11-27T17:38:47.199228Z,pakem-derive,1.0.5,0,0,https://github.com/pakem-rs/framework,"Procedural macros for Pakem Framework (PakemModel ORM derive, declarative form validation, and routing)"
+2026-11-27T17:38:56.215513Z,rs-matter-sc,0.5.0,0,0,https://github.com/project-chip/rs-matter,"Native Rust implementation of the Matter (Smart-Home) ecosystem - the Secure Channel protocol: PASE, CASE, Check-In"
+2026-11-27T17:45:45.699812Z,dfui-bevy,0.2.1,0,0,https://github.com/LuisAyuso/dfui,A dfui app as the HUD of a Bevy game
+2026-11-27T17:45:47.202634Z,dfui-plot,0.2.1,0,0,https://github.com/LuisAyuso/dfui,ggplot-style plot widgets for dfui
+2026-11-27T17:46:55.547817Z,rammux,0.1.0,0,0,https://github.com/Razz4780/rammux,Asynchronous stream multiplexer
+2026-11-27T17:46:57.993007Z,rustsy_compute,0.1.0,0,0,https://github.com/devnezu/RustSy,CSR propagation and specialized integer relation kernels
+2026-11-27T17:47:05.222388Z,rustsy-cuda-runtime,0.1.0,0,0,https://github.com/devnezu/RustSy,RustSy thread-affine CUDA streams and reusable memory arenas
+2026-11-27T17:47:24.691985Z,rustsy-engine,0.1.0,0,0,https://github.com/devnezu/RustSy,"Task graph scheduling, residency planning and bounded streaming pipelines"
+2026-11-27T17:47:45.367026Z,rustsy-zstd,0.1.0,0,0,https://github.com/devnezu/RustSy,RustSy streaming Zstandard with optional experimental CUDA compression
+2026-11-27T17:47:56.853954Z,rustsy-image,0.1.0,0,0,https://github.com/devnezu/RustSy,Experimental CUDA JPEG transcode and resize adapter
+2026-11-27T17:49:35.041984Z,rs-matter-node,0.5.0,0,0,https://github.com/project-chip/rs-matter,Native Rust implementation of the Matter (Smart-Home) ecosystem - the node: the Matter object
+2026-11-27T17:56:16.927189Z,conundrum_db,0.1.1,0,0,,Be less dum.
+2026-11-27T17:56:17.969469Z,fathomdb-mcp,0.0.0,0,0,https://github.com/fathomadb/fathomdb,FathomDB MCP server placeholder
+2026-11-27T17:57:05.736681Z,rustsy-lab,0.1.0,0,0,https://github.com/devnezu/RustSy,"RustSy experimental integer IR, fusion lowering and calibration"
+2026-11-27T17:59:29.921283Z,sorcerer-lackey,0.3.0,0,0,https://github.com/sorcererdev/sorcerer,"Lackey: a coding agent whose whole interface is your editor, run on your own Claude Code"
+2026-11-27T17:59:37.546103Z,conundrum_tools,0.1.1,0,0,https://github.com/flusterIO/fluster-ipad,Be less dum.
+2026-11-27T17:59:40.941696Z,agito-cli,0.3.0,0,0,https://github.com/TahaHachana/agito,"The agito command-line tool: install browsers, capture pages, run suites"
+2026-11-27T18:00:11.209173Z,rs-matter-im,0.5.0,0,0,https://github.com/project-chip/rs-matter,Native Rust implementation of the Matter (Smart-Home) ecosystem - the Interaction Model engine
+2026-11-27T18:00:14.476284Z,cntryl-midge-core,0.6.1,0,0,https://github.com/cntryl/midge,"Foundational filesystem, codec, clock, deadline, and instrumentation types for Midge"
+2026-11-27T18:00:16.501044Z,cntryl-midge-storage,0.6.1,0,0,https://github.com/cntryl/midge,Provider-neutral object storage for Midge
+2026-11-27T18:00:17.125521Z,cntryl-midge-table,0.6.1,0,0,https://github.com/cntryl/midge,Memtable and SST table formats for cntryl-midge
+2026-11-27T18:00:18.469986Z,cntryl-midge-durability,0.6.1,0,0,https://github.com/cntryl/midge,"WAL, writer leases, and persisted metadata for Midge"
+2026-11-27T18:02:17.348865Z,rusmorph,0.1.0,0,0,https://github.com/slyusarevd/rusmorph,"Библиотека на Rust для морфологического анализа русского языка. Склоняет слова и ФИО по падежам, находит начальные формы слов, согласовывает слова с числом и предлагает варианты исправления опечаток.…"
+2026-11-27T18:02:53.058391Z,nlptoolkit-datastructure,0.0.1,0,0,https://github.com/StarlangSoftware/DataStructure-Rust,Simple DataStructure Library
+2026-11-27T18:07:09.940025Z,rustsy,0.1.0-alpha.2,0,0,https://github.com/devnezu/RustSy,Adaptive Heterogeneous Compute Engine
+2026-11-27T18:08:12.126325Z,august-cyber-cli,0.5.0,0,0,https://github.com/augstai/august-cli,"August Cyber defensive security CLI: multi-framework API/GraphQL/MCP discovery, BYOK autonomous testing, auto-patching, byte-exact retest, and SARIF 2.1.0 CI gates"
+2026-11-27T18:10:32.11965Z,rs-matter-dm,0.5.0,0,0,https://github.com/project-chip/rs-matter,Native Rust implementation of the Matter (Smart-Home) ecosystem - the cluster handlers
+2026-11-27T18:10:41.318713Z,hep-hist,0.1.0,0,0,https://gitlab.cern.ch/dgrove/hep-hist,"UHI histograms in Rust: read and write the Scikit-HEP Unified Histogram Interface serialization (JSON and zip), for hist and boost-histogram, with conversions from and to hep-root's ROOT histograms"
+2026-11-27T18:14:36.636313Z,ikigai-credential,0.1.0,0,0,https://github.com/ikigai-rs/ikigai-credential,"Verifiable credentials as ikigai resources: issue and verify W3C VC 2.0 in the Open Badges 3.0 profile, secured with Data Integrity eddsa-rdfc-2022."
+2026-11-27T18:14:41.484513Z,ikigai-learn,0.1.0,0,0,https://github.com/ikigai-rs/ikigai-learn,"Self-paced courses as ikigai resources: units, questions, exercises and checks under urn:learn:, a learner's work as a ledger, and progress as a composition."
+2026-11-27T18:17:07.661785Z,simee-rtc,0.2.0,0,0,https://github.com/kaeawc/simee,"A WebRTC publisher for H.264 device video: a WHIP client (RFC 9725), RFC 6184 packetization and PLI/NACK/TWCC feedback on str0m, with no async runtime."
+2026-11-27T18:17:11.353498Z,simee-host,0.2.0,0,0,https://github.com/kaeawc/simee,"Host health for simulator farms: load, memory pressure, swap, disk, an admit/hold/backoff verdict and per-device CPU, memory and I/O, sampled without forking."
+2026-11-27T18:17:16.568813Z,simee-encode,0.2.0,0,0,https://github.com/kaeawc/simee,"Real-time H.264 from simee's frame sources: VideoToolbox straight from an iOS device's IOSurface or an Android emulator's frame ring, paced by the device's own frame callbacks, as Annex B access unit…"
+2026-11-27T18:18:05.705724Z,cargo-live-proto,0.1.0,0,0,https://github.com/alfatm/cargo-live,Protocol shared by cargo-live and cargo-live-agent
+2026-11-27T18:18:08.262875Z,cargo-live,0.1.0,0,0,https://github.com/alfatm/cargo-live,Build Rust projects remotely and run their binaries locally
+2026-11-27T18:18:09.235057Z,cargo-live-agent,0.1.0,0,0,https://github.com/alfatm/cargo-live,Remote build agent for cargo-live with a built-in SSH server
