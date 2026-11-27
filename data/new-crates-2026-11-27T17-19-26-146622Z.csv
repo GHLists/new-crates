@@ -1,0 +1,58 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-27T16:19:29.748146Z,rpmls,0.4.1,0,0,https://github.com/glehmann/rpmls,A language server for RPM spec files
+2026-11-27T16:20:33.584077Z,rs-matter-utils,0.5.0,0,0,https://github.com/project-chip/rs-matter,Native Rust implementation of the Matter (Smart-Home) ecosystem - the error type and utilities
+2026-11-27T16:20:35.018747Z,rs-matter-tlv,0.5.0,0,0,https://github.com/project-chip/rs-matter,Native Rust implementation of the Matter (Smart-Home) ecosystem - the TLV encoding
+2026-11-27T16:20:36.559334Z,rs-matter-crypto,0.5.0,0,0,https://github.com/project-chip/rs-matter,Native Rust implementation of the Matter (Smart-Home) ecosystem - cryptography
+2026-11-27T16:20:36.943215Z,rs-matter-im-core,0.5.0,0,0,https://github.com/project-chip/rs-matter,Native Rust implementation of the Matter (Smart-Home) ecosystem - the Interaction Model encoding
+2026-11-27T16:21:36.016761Z,simee-emu-vmm,0.1.0,0,0,https://github.com/kaeawc/simee,"The virtual machine: memory map, device tree, kernel loader, PSCI, vCPU loop, UART, RTC, virtio-mmio devices."
+2026-11-27T16:24:58.971256Z,pkp-pdp-api-client,0.1.0,0,0,https://git.ddd.rip/ptrcnull/pkp-pdp-api-client,API client for PDP API of PKP PLK
+2026-11-27T16:25:29.815136Z,omaflake,0.0.0,0,0,https://github.com/omaflake/omaflake,omaflake – clean NixOS and macOS VMs from Nix recipes: the command line omaf (placeholder – omaflake's first release on crates.io is 0.8.1)
+2026-11-27T16:25:33.486397Z,omaflake-core,0.0.0,0,0,https://github.com/omaflake/omaflake,"omaflake's core: VM control, images, recipes and its service (placeholder – omaflake's first release on crates.io is 0.8.1)"
+2026-11-27T16:25:36.078495Z,omaflake-sdk,0.8.1,0,0,https://github.com/omaflake/omaflake,"Talk to omaflake: the client of its service (omaf serve), the API's types, its page models, texts and design tokens"
+2026-11-27T16:25:38.534266Z,omaflake-tui,0.0.0,0,0,https://github.com/omaflake/omaflake,omaflake's terminal interface (omaf ui) (placeholder – omaflake's first release on crates.io is 0.8.1)
+2026-11-27T16:25:41.894606Z,omaflake-gui,0.0.0,0,0,https://github.com/omaflake/omaflake,omaflake's Linux app (placeholder – omaflake's first release on crates.io is 0.8.1)
+2026-11-27T16:27:52.186653Z,orchest-protocol,0.2.0,0,0,https://github.com/jianantian/orchest,"Shared protocol for Orchest: content model, capability traits, stream events, capability descriptors and errors."
+2026-11-27T16:28:09.222192Z,orchest-storage,0.2.0,0,0,https://github.com/jianantian/orchest,Unified object storage for Orchest asset persistence: Aliyun OSS and Tencent COS behind one async trait.
+2026-11-27T16:28:25.250364Z,orchest-provider-core,0.2.0,0,0,https://github.com/jianantian/orchest,Internal building blocks for the Orchest provider crates. Not for direct use: depend on orchest-provider.
+2026-11-27T16:28:33.9807Z,orchest-provider-http,0.2.0,0,0,https://github.com/jianantian/orchest,Internal REST/SSE provider dialects for Orchest. Not for direct use: depend on orchest-provider.
+2026-11-27T16:28:37.507711Z,zle,0.1.0,0,0,,"Zero-length encoding: drops runs of zero bytes, with an AVX-512 compressor and decompressor."
+2026-11-27T16:28:42.918482Z,orchest-provider-stream,0.2.0,0,0,https://github.com/jianantian/orchest,Internal WebSocket provider dialects for Orchest. Not for direct use: depend on orchest-provider.
+2026-11-27T16:28:51.018094Z,verilith-quic-conn,0.1.0,0,0,https://github.com/verilith/verilith,"A sans-I/O QUIC server connection (RFC 9000, 9001, 9002) over verilith-quic's verified wire format and recovery and verilith-tls's verified handshake and packet protection"
+2026-11-27T16:31:35.650661Z,simee-emu,0.1.0,0,0,https://github.com/kaeawc/simee,simee CLI: a drop-in for the Android SDK `emulator` binary.
+2026-11-27T16:31:58.502847Z,rmapi-rs,0.0.0,0,0,https://github.com/hafacc/rmapi,reMarkable cloud client over one pluggable platform trait
+2026-11-27T16:35:09.412327Z,headroom-bytes,0.1.0,0,0,https://github.com/yaroslavros/headroom-bytes,A bytes-backed packet buffer for prepending protocol headers without moving the payload.
+2026-11-27T16:36:00.713204Z,omaflake-i18n,0.8.1,0,0,https://github.com/omaflake/omaflake,"Translations of omaflake's Rust interfaces (omaf ui, the Linux app)"
+2026-11-27T16:36:43.648524Z,rs-matter-cert,0.5.0,0,0,https://github.com/project-chip/rs-matter,Native Rust implementation of the Matter (Smart-Home) ecosystem - certificates and device attestation
+2026-11-27T16:36:44.081934Z,rs-matter-dm-core,0.5.0,0,0,https://github.com/project-chip/rs-matter,Native Rust implementation of the Matter (Smart-Home) ecosystem - the Data Model types
+2026-11-27T16:37:07.071253Z,orchest-provider-visual,0.2.0,0,0,https://github.com/jianantian/orchest,Internal signed/polled generation dialects for Orchest. Not for direct use: depend on orchest-provider.
+2026-11-27T16:38:00.151672Z,binarycalc-engine,0.1.0,0,0,https://github.com/mani-django09/binarycalc-engine,"Number base, binary text, Morse, LCM, GCF and factor tools in Rust, with no dependencies"
+2026-11-27T16:39:21.639557Z,verilith-tiff,0.1.0,0,0,https://github.com/verilith/verilith,A formally verified (Verus) TIFF decoder
+2026-11-27T16:41:30.324973Z,simee-netshape,0.1.0,0,0,https://github.com/kaeawc/simee,No-root network shaping for simulator apps: an injected socket shaper and its live profile.
+2026-11-27T16:41:37.081311Z,tuna-sdk,0.1.0,0,0,https://github.com/yuccastream/tuna-sdk-rust,Open tuna.am tunnels from Rust code
+2026-11-27T16:46:13.727582Z,omaflake-macros,0.8.1,0,0,https://github.com/omaflake/omaflake,omaflake's procedural macros: the keyed error macro behind omaflake-core's vm_err!
+2026-11-27T16:46:58.457372Z,orchest-provider,0.2.0,0,0,https://github.com/jianantian/orchest,"Provider registry for Orchest: select LLM, ASR, TTS, realtime and generation providers by capability or identity."
+2026-11-27T16:49:06.577572Z,manifatura-subagents,0.3.0,0,0,https://github.com/onatm/manifatura,Subagents for manifatura: a task tool that hands a self-contained task to another agent in a child session and returns its report.
+2026-11-27T16:50:08.635467Z,verilith-tls-aws-lc,0.1.0,0,0,https://github.com/verilith/verilith,"The cryptography of verilith-tls (AEAD, key exchange, signatures, random numbers), over aws-lc. Trusted."
+2026-11-27T16:51:34.516403Z,simee-api,0.1.0,0,0,https://github.com/kaeawc/simee,"simee unix socket API: a JSON-lines protocol over every device control and debug surface, for iOS and Android devices."
+2026-11-27T16:52:05.456391Z,rs-matter-dm-clusters,0.5.0,0,0,https://github.com/project-chip/rs-matter,Native Rust implementation of the Matter (Smart-Home) ecosystem - the clusters generated from the Matter IDL
+2026-11-27T16:55:54.502318Z,oxygenium,0.0.1,0,0,https://github.com/Xyndra/oxygenium,Rust Metalanguage
+2026-11-27T16:56:26.995227Z,omaflake-agent,0.0.0,0,0,https://github.com/omaflake/omaflake,omaflake's guest agent (placeholder – omaflake's first release on crates.io is 0.8.1)
+2026-11-27T16:56:41.692261Z,vellumdb,0.1.1,0,0,,"Text-first embedded database engine: segmented multilingual full-text search (Arabic/Chinese/Russian), dynamic dictionary compression, vector search, graph links — zero dependencies"
+2026-11-27T16:56:51.203802Z,vellumdb-ql,0.1.1,0,0,,"VellumQL: the query language of VellumDB — lexer, parser and interpreter with multilingual identifiers and literals"
+2026-11-27T16:56:59.506263Z,vellumdb-server,0.1.1,0,0,,"VellumDB HTTP server and web console: VellumQL over JSON, bulk ingest, live stats — strict UTF-8, request budgets, resource caps"
+2026-11-27T16:57:09.464178Z,vellumdb-bench,0.1.1,0,0,,"VellumDB benchmark and stress-test harness: ingest, batch writes, FTS/vsearch latency, dictionary evolution, HTTP load, crash tests"
+2026-11-27T16:57:13.011405Z,orchest,0.2.0,0,0,https://github.com/jianantian/orchest,"Skill-first agent runtime core: agent loop, state management, event streaming, tool dispatch and skill loading."
+2026-11-27T17:00:27.824919Z,verilith,0.1.0,0,0,https://github.com/verilith/verilith,Formally verified (Verus) drop-in replacements for foundational libraries: one crate that re-exports each verilith-* library behind a feature
+2026-11-27T17:00:44.988503Z,lazygram-core,0.1.0,0,0,https://github.com/lazy-land/lazygram,Generated Telegram Bot API 10.5 core bindings for Lazygram
+2026-11-27T17:01:32.293489Z,simee-mcp,0.1.0,0,0,https://github.com/kaeawc/simee,"simee's MCP server: every API method as a tool, devices as resources, long operations as tasks, and a device view as an MCP App, over stdio."
+2026-11-27T17:02:28.514268Z,lazygram,0.1.1,0,0,https://github.com/lazy-land/lazygram,Rust CLI and runtime for the Lazygram Telegram bot framework
+2026-11-27T17:06:07.02019Z,rs-matter-pairing,0.5.0,0,0,https://github.com/project-chip/rs-matter,Native Rust implementation of the Matter (Smart-Home) ecosystem - onboarding payloads
+2026-11-27T17:06:08.799541Z,rs-matter-node-core,0.5.0,0,0,https://github.com/project-chip/rs-matter,"Native Rust implementation of the Matter (Smart-Home) ecosystem - what the node is built on: fabrics, ACL, fail-safe"
+2026-11-27T17:07:02.743154Z,luma-lang,1.0.0,0,0,https://github.com/sschuman/luma,A Python-inspired language with a stable bytecode VM and experimental native compilation
+2026-11-27T17:10:53.11164Z,verilith-server,0.1.0,0,0,https://github.com/verilith/verilith,A formally verified (Verus) HTTP server built from the Verilith parsers
+2026-11-27T17:11:01.23509Z,potato-build,0.4.9,0,0,https://github.com/fawdlstty/potato,Build-time proto3 parser and gRPC code generator for potato.
+2026-11-27T17:11:28.111472Z,simee,0.1.0,0,0,https://github.com/kaeawc/simee,"simee CLI: create, boot and drive iOS simulator and Android emulator devices; capture the screen; inject input."
+2026-11-27T17:11:47.920958Z,dioxus-timers,0.8.0-alpha.4,0,0,https://github.com/DioxusLabs/dioxus/,Cross-platform timers and timer hooks for Dioxus apps
+2026-11-27T17:14:20.592084Z,piers-rocks-signing-server,0.1.0,0,0,https://github.com/piersfinlayson/piers-rocks-signing-server,"An Ed25519 signing server used by multiple projects, including One ROM and Airfrog."
+2026-11-27T17:15:23.390167Z,siwc,0.1.0,0,0,https://github.com/barnerylabs/siwc,"Sign in with ChatGPT for Rust desktop apps and CLI tools: OAuth 2.0 login with PKCE, token refresh, and streamed OpenAI Responses API requests on the user's ChatGPT plan, without an API key. Unoffici…"
+2026-11-27T17:17:13.624205Z,rs-matter-transport,0.5.0,0,0,https://github.com/project-chip/rs-matter,"Native Rust implementation of the Matter (Smart-Home) ecosystem - the transport: exchanges, sessions, MRP, UDP, TCP, BTP, mDNS"
