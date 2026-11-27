@@ -1,0 +1,26 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-27T03:31:53.313094Z,cursive-tree-table,0.1.0,0,0,https://codeberg.org/flying-kestrel/cursive-tree-table,Tree view for cursive with columnar display
+2026-11-27T03:34:20.974809Z,wpe-jsc-sys,0.1.0,0,0,https://git.sr.ht/~undeadleech/kumo,System bindings for WPE WebKit's JavaScriptCore
+2026-11-27T03:35:23.482356Z,wpe-jsc,0.1.0,0,0,https://git.sr.ht/~undeadleech/kumo,Rust bindings for WPE WebKit's JavaScriptCore
+2026-11-27T03:36:17.762658Z,wpe-platform-sys,0.1.0,0,0,https://git.sr.ht/~undeadleech/kumo,System bindings for WPE WebKit's platform API
+2026-11-27T03:37:08.968395Z,wpe-platform,0.1.0,0,0,https://git.sr.ht/~undeadleech/kumo,Rust bindings for WPE Platform
+2026-11-27T03:38:40.438693Z,wpe-webkit-sys,0.1.0,0,0,https://git.sr.ht/~undeadleech/kumo,System bindings for WPE WebKit
+2026-11-27T03:40:00.486445Z,wpe-webkit,0.1.0,0,0,https://git.sr.ht/~undeadleech/kumo,Rust bindings for WPE WebKit
+2026-11-27T03:45:04.111218Z,retrace-core,0.0.1,0,0,https://github.com/mtimmerm/retrace-rs,"Retrace: an ""immediate input"" UI framework core, combining immediate-mode and retained-mode UI"
+2026-11-27T03:45:06.040263Z,retrace-dioxus,0.0.1,0,0,https://github.com/mtimmerm/retrace-rs,Retrace-based development of Dioxus UIs: a Dioxus presenter for the Retrace UI framework
+2026-11-27T03:45:06.350114Z,retrace-ratatui,0.0.1,0,0,https://github.com/mtimmerm/retrace-rs,Retrace-based development of ratatui terminal UIs: a ratatui presenter for the Retrace UI framework
+2026-11-27T03:45:07.257651Z,retrace-dioxus-webawesome,0.0.1,0,0,https://github.com/mtimmerm/retrace-rs,Web Awesome widgets for the Retrace Dioxus presenter
+2026-11-27T03:50:18.689736Z,webp-lossy,0.1.0,0,0,https://github.com/AlakazamLabs/webp,"A lossy and animated WebP encoder in pure, safe Rust: VP8 key frames with rate-distortion optimisation, alpha, metadata and animation."
+2026-11-27T03:54:07.878409Z,opendnp3,0.1.1,0,0,https://github.com/levyks/opendnp3-rs,"Runtime-agnostic, no_std-compatible DNP3 (IEEE 1815) protocol library"
+2026-11-27T03:56:17.204955Z,opendnp3-tokio,0.1.1,0,0,https://github.com/levyks/opendnp3-rs,"Tokio transport integration (TCP, TLS, serial) for the opendnp3 crate"
+2026-11-27T03:56:24.673511Z,opendnp3-smol,0.1.1,0,0,https://github.com/levyks/opendnp3-rs,smol async runtime adapter for the opendnp3 crate
+2026-11-27T03:56:29.515786Z,opendnp3-std,0.1.1,0,0,https://github.com/levyks/opendnp3-rs,Blocking std::net / OS-thread driver for opendnp3 (zero async runtime)
+2026-11-27T03:56:35.924464Z,opendnp3-embassy,0.1.1,0,0,https://github.com/levyks/opendnp3-rs,no_std Embassy async runtime adapter for the opendnp3 crate
+2026-11-27T03:56:52.86368Z,pakem-blade,1.0.5,0,0,https://github.com/pakem-rs/pakem-blade,"Pure, fast, and standalone Pakem Blade template engine for Rust"
+2026-11-27T04:02:03.776863Z,agy-line-core,0.1.0,0,0,https://github.com/WhiteGreeny/agy-line,"Pure rendering, state normalization, pricing, and terminal layout kernel for agy-line"
+2026-11-27T04:02:50.901069Z,agy-line,0.1.0,0,0,https://github.com/WhiteGreeny/agy-line,"Fast, cross-platform Powerline/Unicode status line for Antigravity CLI (agy)"
+2026-11-27T04:04:33.409268Z,truce-lv2-meta,7.0.0,0,0,https://github.com/truce-audio/truce-extensions,LV2 Turtle rendering for truce plugin metadata
+2026-11-27T04:05:10.730903Z,truce-format-lv2,7.0.0,0,0,https://github.com/truce-audio/truce-extensions,LV2 format helper for cargo-truce
+2026-11-27T04:14:01.890797Z,reserving-kernels,0.2.2,0,0,https://github.com/SinisterRob/reserving-kernels,Pure Rust numeric kernels for P&C actuarial reserving and reserve-risk capital modeling.
+2026-11-27T04:17:23.57565Z,lance-dataset-merge,0.1.0,0,0,,Metadata-only concatenation of Lance datasets in object storage
+2026-11-27T04:18:24.488264Z,tilo-presence,0.5.1,0,0,https://code.tilo.so/tilo/tilo,"Where a person's presence is and the colour they wear, as plain values the collaboration model's wire carries and the toolkit draws."
