@@ -8,25 +8,31 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-27 06:18 UTC
+## Latest list — 2026-11-27 07:19 UTC
 
-New crates published between 2026-11-27 05:18 UTC and 2026-11-27 06:18 UTC.
+New crates published between 2026-11-27 06:18 UTC and 2026-11-27 07:19 UTC.
 
-[Full CSV](data/new-crates-2026-11-27T06-18-45-62323Z.csv)
+[Full CSV](data/new-crates-2026-11-27T07-19-58-391864Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-27 05:32:47 | [forge-app](https://crates.io/crates/forge-app) | 0.4.0 | 0 | Rust-first desktop application platform supporting OS WebView (WRY) and Chromiu… |
-| 2026-11-27 05:33:09 | [forge-app-cli](https://crates.io/crates/forge-app-cli) | 0.4.0 | 0 | Project generator, live dev runner, doctor, and cross-OS desktop bundler CLI fo… |
-| 2026-11-27 05:38:15 | [nsh-oauth2](https://crates.io/crates/nsh-oauth2) | 0.1.0 | 0 | OAuth 2 sign-in sessions for Native Shell (NSH) apps, an nshm: ASWebAuthenticat… |
-| 2026-11-27 05:42:40 | [tilo-ui-base](https://crates.io/crates/tilo-ui-base) | 0.5.1 | 0 | The Tilo UI toolkit's base: the widget contract, layout, paint, text, theming,… |
-| 2026-11-27 05:44:43 | [locum-mem](https://crates.io/crates/locum-mem) | 0.2.0 | 0 | Out-of-process, zero-suspend CPU and GPU (VidMm/DxgKrnl ETW) memory ground-trut… |
-| 2026-11-27 05:47:50 | [wireproto](https://crates.io/crates/wireproto) | 0.1.0 | 0 | Wire-protocol codecs for LLM APIs: bytes in, bytes out, no I/O |
-| 2026-11-27 05:53:39 | [tilo-environment](https://crates.io/crates/tilo-environment) | 0.5.1 | 0 | The environment record: where a shell runs, which images make up its /usr, and… |
-| 2026-11-27 05:55:39 | [tilo-runtime-interface](https://crates.io/crates/tilo-runtime-interface) | 0.5.1 | 0 | The app ↔ runtime interface's version, and the typed requests an app makes of t… |
-| 2026-11-27 05:57:37 | [quickjs-regexp](https://crates.io/crates/quickjs-regexp) | 0.6.0 | 0 | Regular expression engine for quickjs-rs (parse, match, Unicode properties) |
-| 2026-11-27 06:12:46 | [byteseek](https://crates.io/crates/byteseek) | 0.1.0 | 0 | Fast text search with a ripgrep-compatible CLI and JSON/YAML/TOML search |
-| 2026-11-27 06:18:00 | [ashfall](https://crates.io/crates/ashfall) | 0.1.0 | 0 | Dependency linter enforcing phext-minimum-viable-dependencies: a Rust crate is… |
+| 2026-11-27 06:18:53 | [pass-authenticators-bitcoin](https://crates.io/crates/pass-authenticators-bitcoin) | 2.0.0-pre.1 | 0 | Bitcoin authenticator for FRAME Contrib's pallet-pass: registers Bitcoin keys a… |
+| 2026-11-27 06:18:54 | [pass-authenticators-ethereum](https://crates.io/crates/pass-authenticators-ethereum) | 2.0.0-pre.1 | 0 | Ethereum authenticator for FRAME Contrib's pallet-pass: registers Ethereum acco… |
+| 2026-11-27 06:18:55 | [pass-authenticators-nostr](https://crates.io/crates/pass-authenticators-nostr) | 2.0.0-pre.1 | 0 | Nostr authenticator for FRAME Contrib's pallet-pass: registers Nostr keys as de… |
+| 2026-11-27 06:18:55 | [pass-authenticators-solana](https://crates.io/crates/pass-authenticators-solana) | 2.0.0-pre.1 | 0 | Solana authenticator for FRAME Contrib's pallet-pass: registers Solana wallets… |
+| 2026-11-27 06:18:56 | [pass-authenticators-ssh](https://crates.io/crates/pass-authenticators-ssh) | 2.0.0-pre.1 | 0 | SSH authenticator for FRAME Contrib's pallet-pass: registers SSH Ed25519 keys a… |
+| 2026-11-27 06:21:58 | [mend](https://crates.io/crates/mend) | 0.1.0 | 0 | All-or-nothing multi-file edits for coding agents, in the Codex apply_patch for… |
+| 2026-11-27 06:25:12 | [forkscript](https://crates.io/crates/forkscript) | 0.1.0-alpha.1 | 0 | Embeddable Rust VM for ForkScript: confined JavaScript with algebraic effects,… |
+| 2026-11-27 06:32:48 | [fetchlet-web](https://crates.io/crates/fetchlet-web) | 0.1.0 | 0 | Engine-independent host implementations of Web APIs for fetchlet guests |
+| 2026-11-27 06:32:50 | [fetchlet](https://crates.io/crates/fetchlet) | 0.1.0 | 0 | Rust-hosted JavaScript functions and Fetch handlers with explicit host services |
+| 2026-11-27 06:32:52 | [fetchlet-http](https://crates.io/crates/fetchlet-http) | 0.1.0 | 0 | Serve fetchlet applications through Tower, hyper, axum and actix-web |
+| 2026-11-27 06:32:53 | [fetchlet-net](https://crates.io/crates/fetchlet-net) | 0.1.0 | 0 | Outbound HTTP, TCP, TLS and WebSocket transports for fetchlet applications |
+| 2026-11-27 06:33:08 | [octen](https://crates.io/crates/octen) | 0.1.0 | 0 | Official Rust SDK for the Octen API |
+| 2026-11-27 06:44:07 | [funq_derive](https://crates.io/crates/funq_derive) | 0.1.0 | 0 | Derive macros for funq |
+| 2026-11-27 06:46:16 | [rwikitext](https://crates.io/crates/rwikitext) | 1.0.0 | 0 | Convert documents between MediaWiki wikitext, NamuMark (alpha), GFM, and HTML w… |
+| 2026-11-27 07:06:30 | [bonacci](https://crates.io/crates/bonacci) | 0.1.0 | 0 | An example library and CLI for generating a Fibonacci sequence |
+| 2026-11-27 07:08:04 | [sgl-audio](https://crates.io/crates/sgl-audio) | 0.13.0 | 0 | Deterministic 3D spatialization and safe audio playback for SGL games |
+| 2026-11-27 07:12:17 | [lockrauth](https://crates.io/crates/lockrauth) | 0.1.0 | 0 | Official LockrAuth Rust SDK with automated hardware ID (HWID) locking and licen… |
 
 ## Data source
 

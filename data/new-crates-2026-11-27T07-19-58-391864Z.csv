@@ -1,0 +1,18 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-27T06:18:53.570568Z,pass-authenticators-bitcoin,2.0.0-pre.1,0,0,https://github.com/virto-network/pass-authenticators,Bitcoin authenticator for FRAME Contrib's pallet-pass: registers Bitcoin keys as devices and verifies their signed messages (BIP-137).
+2026-11-27T06:18:54.410171Z,pass-authenticators-ethereum,2.0.0-pre.1,0,0,https://github.com/virto-network/pass-authenticators,Ethereum authenticator for FRAME Contrib's pallet-pass: registers Ethereum accounts as devices and verifies their personal_sign (EIP-191) signatures.
+2026-11-27T06:18:55.217428Z,pass-authenticators-nostr,2.0.0-pre.1,0,0,https://github.com/virto-network/pass-authenticators,Nostr authenticator for FRAME Contrib's pallet-pass: registers Nostr keys as devices and verifies their BIP-340 Schnorr signatures.
+2026-11-27T06:18:55.830647Z,pass-authenticators-solana,2.0.0-pre.1,0,0,https://github.com/virto-network/pass-authenticators,Solana authenticator for FRAME Contrib's pallet-pass: registers Solana wallets as devices and verifies their Ed25519 signatures.
+2026-11-27T06:18:56.426875Z,pass-authenticators-ssh,2.0.0-pre.1,0,0,https://github.com/virto-network/pass-authenticators,SSH authenticator for FRAME Contrib's pallet-pass: registers SSH Ed25519 keys as devices and verifies their SSHSIG signatures.
+2026-11-27T06:21:58.061441Z,mend,0.1.0,0,0,https://github.com/knutwannheden/mend,"All-or-nothing multi-file edits for coding agents, in the Codex apply_patch format"
+2026-11-27T06:25:12.688098Z,forkscript,0.1.0-alpha.1,0,0,https://github.com/sbking/forkscript,"Embeddable Rust VM for ForkScript: confined JavaScript with algebraic effects, multi-shot transactional worlds, and authenticated portable continuations"
+2026-11-27T06:32:48.423846Z,fetchlet-web,0.1.0,0,0,https://github.com/SegaraRai/fetchlet,Engine-independent host implementations of Web APIs for fetchlet guests
+2026-11-27T06:32:50.473087Z,fetchlet,0.1.0,0,0,https://github.com/SegaraRai/fetchlet,Rust-hosted JavaScript functions and Fetch handlers with explicit host services
+2026-11-27T06:32:52.558313Z,fetchlet-http,0.1.0,0,0,https://github.com/SegaraRai/fetchlet,"Serve fetchlet applications through Tower, hyper, axum and actix-web"
+2026-11-27T06:32:53.412595Z,fetchlet-net,0.1.0,0,0,https://github.com/SegaraRai/fetchlet,"Outbound HTTP, TCP, TLS and WebSocket transports for fetchlet applications"
+2026-11-27T06:33:08.027678Z,octen,0.1.0,0,0,https://github.com/Octen-Team/octen-rs,Official Rust SDK for the Octen API
+2026-11-27T06:44:07.810352Z,funq_derive,0.1.0,0,0,https://github.com/catacombing/kumo,Derive macros for funq
+2026-11-27T06:46:16.75568Z,rwikitext,1.0.0,0,0,https://github.com/librewiki/rWikiText,"Convert documents between MediaWiki wikitext, NamuMark (alpha), GFM, and HTML with page metadata and conversion-loss diagnostics"
+2026-11-27T07:06:30.269251Z,bonacci,0.1.0,0,0,https://github.com/leonardo/bonacci,An example library and CLI for generating a Fibonacci sequence
+2026-11-27T07:08:04.122827Z,sgl-audio,0.13.0,0,0,https://github.com/stevepryde/sgl,Deterministic 3D spatialization and safe audio playback for SGL games
+2026-11-27T07:12:17.036275Z,lockrauth,0.1.0,0,0,https://github.com/aadi17-arch/lockrauth,Official LockrAuth Rust SDK with automated hardware ID (HWID) locking and license verification.
