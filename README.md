@@ -8,36 +8,62 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-28 09:19 UTC
+## Latest list — 2026-11-28 10:21 UTC
 
-New crates published between 2026-11-28 08:19 UTC and 2026-11-28 09:19 UTC.
+New crates published between 2026-11-28 09:19 UTC and 2026-11-28 10:21 UTC.
 
-[Full CSV](data/new-crates-2026-11-28T09-19-54-972706Z.csv)
+[Full CSV](data/new-crates-2026-11-28T10-21-50-123016Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-28 08:24:38 | [feraterra-wire](https://crates.io/crates/feraterra-wire) | 4.9.5 | 0 | Zero-dependency #![no_std] 64-byte big-endian ArenaWire & ArenaITCH HFT codec w… |
-| 2026-11-28 08:27:46 | [arks-refs](https://crates.io/crates/arks-refs) | 0.1.0 | 0 | Git refs: refnames, loose/packed-refs, HEAD/symref, L0 locks |
-| 2026-11-28 08:32:47 | [graphrt-memory](https://crates.io/crates/graphrt-memory) | 0.6.4 | 0 | Long term memory for graphrt agents: notes per tenant, agent and user, a write… |
-| 2026-11-28 08:37:01 | [liquid-glass](https://crates.io/crates/liquid-glass) | 0.1.0 | 0 | Native macOS Liquid Glass UI elements (NSGlassEffectView, glass buttons) for an… |
-| 2026-11-28 08:39:49 | [arks-agent](https://crates.io/crates/arks-agent) | 0.1.0 | 0 | LLM review / CEV bot surface for arks (library; entered via `arks agent`) |
-| 2026-11-28 08:40:32 | [karyos-driver](https://crates.io/crates/karyos-driver) | 0.1.0-alpha.4 | 0 | Driver conductor, sender, receiver, flow control and path arbitration. |
-| 2026-11-28 08:41:05 | [arks-pack](https://crates.io/crates/arks-pack) | 0.1.0 | 0 | Git pack and idx version 2 encode/decode for the claimed subset |
-| 2026-11-28 08:49:03 | [mozaic-autonodes](https://crates.io/crates/mozaic-autonodes) | 0.1.0 | 0 | Moteur de workflows compatible avec le format d'export n8n : plugin mozaic (typ… |
-| 2026-11-28 08:49:13 | [spdpac](https://crates.io/crates/spdpac) | 0.1.1 | 0 | Utility for unpacking Spreadtrum firmware pac archives |
-| 2026-11-28 08:55:22 | [nativelang-classify](https://crates.io/crates/nativelang-classify) | 0.2.0 | 0 | Classify text locally using categories you choose |
-| 2026-11-28 08:57:04 | [arks-store](https://crates.io/crates/arks-store) | 0.1.0 | 0 | Git-first object-store facade (put/get/exists) |
-| 2026-11-28 08:59:13 | [commentate](https://crates.io/crates/commentate) | 0.1.0 | 0 | A small program to provide live (and somewhat irritating) commentary on your te… |
-| 2026-11-28 09:00:44 | [arks-lease](https://crates.io/crates/arks-lease) | 0.1.0 | 0 | Default product lease runtime (L1/L2) + L3 claimed-shape + M26 shared-index path |
-| 2026-11-28 09:01:51 | [jelly_physics](https://crates.io/crates/jelly_physics) | 0.1.0 | 0 | 2D soft body physics engine based on point masses |
-| 2026-11-28 09:03:13 | [trust-but-verify](https://crates.io/crates/trust-but-verify) | 0.1.0 | 0 | Build source-code checks that track the evidence behind each result |
-| 2026-11-28 09:03:16 | [pekv](https://crates.io/crates/pekv) | 0.1.0 | 0 | Protocol-agnostic hierarchical KV storage, ACL permission engine, lease lifecyc… |
-| 2026-11-28 09:10:12 | [rame](https://crates.io/crates/rame) | 0.0.0 | 0 | Placeholder for the rame project, a Rust web toolkit built on Loco and SeaORM.… |
-| 2026-11-28 09:10:16 | [rame-macros](https://crates.io/crates/rame-macros) | 0.0.0 | 0 | Placeholder for the rame project, a Rust web toolkit built on Loco and SeaORM.… |
-| 2026-11-28 09:10:19 | [rame-core](https://crates.io/crates/rame-core) | 0.0.0 | 0 | Placeholder for the rame project, a Rust web toolkit built on Loco and SeaORM.… |
-| 2026-11-28 09:10:22 | [rame-orm](https://crates.io/crates/rame-orm) | 0.0.0 | 0 | Placeholder for the rame project, a Rust web toolkit built on Loco and SeaORM.… |
-| 2026-11-28 09:10:26 | [cargo-rame](https://crates.io/crates/cargo-rame) | 0.0.0 | 0 | Placeholder for the rame project, a Rust web toolkit built on Loco and SeaORM.… |
-| 2026-11-28 09:10:43 | [arks-repo](https://crates.io/crates/arks-repo) | 0.1.0 | 0 | Repository discovery/layout; composes store + refs |
+| 2026-11-28 09:19:59 | [nerval](https://crates.io/crates/nerval) | 0.2.0 | 0 | no_std Pratt parser and evaluator for calculator-style expressions with implici… |
+| 2026-11-28 09:21:07 | [arks-hub](https://crates.io/crates/arks-hub) | 0.1.0 | 0 | Forge collaboration surface for arks (library; entered via `arks hub` / flat fo… |
+| 2026-11-28 09:24:11 | [pithgrid-core](https://crates.io/crates/pithgrid-core) | 0.1.1 | 0 | UI-independent coding agent core |
+| 2026-11-28 09:24:20 | [pithgrid](https://crates.io/crates/pithgrid) | 0.1.1 | 0 | Terminal coding agent with multi-provider support and an inline TUI |
+| 2026-11-28 09:26:16 | [dual-kawase-blur](https://crates.io/crates/dual-kawase-blur) | 0.1.0 | 0 | GUI-agnostic, zero-allocation-per-frame Dual Kawase GPU blur for wgpu across Wi… |
+| 2026-11-28 09:30:31 | [sml-kit](https://crates.io/crates/sml-kit) | 0.1.1 | 0 | Read German smart meters in Rust: SML (Smart Message Language) decoder and enco… |
+| 2026-11-28 09:31:30 | [arks-server](https://crates.io/crates/arks-server) | 0.1.0 | 0 | Git server: upload-pack / receive-pack + smart/dumb HTTP + daemon (M11/M25) |
+| 2026-11-28 09:34:22 | [rbtop](https://crates.io/crates/rbtop) | 0.3.4 | 0 | bashtop rewritten in Rust: fast terminal resource monitor |
+| 2026-11-28 09:38:05 | [datafusion-abap-sql](https://crates.io/crates/datafusion-abap-sql) | 0.3.0 | 0 | Apache DataFusion integration for SAP S/4HANA Cloud ABAP SQL Services via ODBC… |
+| 2026-11-28 09:38:10 | [helm-rs](https://crates.io/crates/helm-rs) | 0.1.0 | 0 | Typed Rust API for Helm 4: swappable backends, native chart, values and release… |
+| 2026-11-28 09:41:46 | [arks-remote](https://crates.io/crates/arks-remote) | 0.1.0 | 0 | Git remote transport client (smart/dumb HTTP, SSH, git://, credentials and part… |
+| 2026-11-28 09:42:55 | [seiva-kms](https://crates.io/crates/seiva-kms) | 0.2.3 | 0 | Envelope encryption for Delonix Seiva: data keys wrapped by a guardian (local k… |
+| 2026-11-28 09:44:04 | [seiva-agent](https://crates.io/crates/seiva-agent) | 0.2.3 | 0 | The agent harness of Delonix Seiva: a bounded tool loop through the AI gateway,… |
+| 2026-11-28 09:44:07 | [seiva-rag](https://crates.io/crates/seiva-rag) | 0.2.3 | 0 | Retrieval with permissions for Delonix Seiva: tenant and access filtered in the… |
+| 2026-11-28 09:44:08 | [fabric-rs-core](https://crates.io/crates/fabric-rs-core) | 0.2.1 | 0 | Core metadata, bytecode descriptors, Tiny/Mojmap mapping parsers, and Access Wi… |
+| 2026-11-28 09:44:30 | [fabric-rs-codegen](https://crates.io/crates/fabric-rs-codegen) | 0.2.1 | 0 | Pure-Rust JVM classfile writer, JAR SDK indexer, Rust binding emitter, and Mixi… |
+| 2026-11-28 09:45:00 | [fabric-rs-macros](https://crates.io/crates/fabric-rs-macros) | 0.2.1 | 0 | Procedural macros (#[mod_init], #[mixin], #[subclass], #[access_widener], bind_… |
+| 2026-11-28 09:45:12 | [fabric-rs-sdk](https://crates.io/crates/fabric-rs-sdk) | 0.2.1 | 0 | Universal Rust SDK for writing Minecraft Fabric mods across obfuscated (1.20.x-… |
+| 2026-11-28 09:45:20 | [cargo-fabric](https://crates.io/crates/cargo-fabric) | 0.2.1 | 0 | Cargo build, SDK indexing, cross-compilation, and JAR packaging toolchain for R… |
+| 2026-11-28 09:50:43 | [polywag](https://crates.io/crates/polywag) | 0.1.0 | 0 | A library for polynomial regression. |
+| 2026-11-28 09:51:31 | [arks](https://crates.io/crates/arks) | 0.1.0 | 0 | arks for Git — native Rust Git-compatible CLI, daemon, forge client and self-ho… |
+| 2026-11-28 09:53:31 | [wireman-mcp](https://crates.io/crates/wireman-mcp) | 0.1.0 | 0 | MCP server for wireman |
+| 2026-11-28 09:53:56 | [cpui-icons](https://crates.io/crates/cpui-icons) | 0.1.0 | 0 | The CPUI icon set: line icons on a 24 × 24 grid as plain geometry and SVG, with… |
+| 2026-11-28 09:53:58 | [cpui-render](https://crates.io/crates/cpui-render) | 0.1.0 | 0 | The rendering layer of CPUI: text shaping and glyph rasterization with swash, a… |
+| 2026-11-28 09:54:01 | [cpui](https://crates.io/crates/cpui) | 0.1.0 | 0 | An immediate-mode UI framework rendered on the CPU: small, light on memory and… |
+| 2026-11-28 09:55:01 | [silentwire](https://crates.io/crates/silentwire) | 0.1.0 | 0 | High-assurance BIP-352 silent payments engine with constant-time comb tables |
+| 2026-11-28 09:55:14 | [bdk-silentwire](https://crates.io/crates/bdk-silentwire) | 0.1.0 | 0 | Bitcoin transaction adapter for the Silentwire BIP-352 scanner |
+| 2026-11-28 09:58:55 | [kyrka-sys](https://crates.io/crates/kyrka-sys) | 0.1.1 | 0 | Raw bindings for the libkyrka C library created by jorisvink, which is a networ… |
+| 2026-11-28 09:58:58 | [kyrka](https://crates.io/crates/kyrka) | 0.1.0 | 0 | Safe Rust bindings for the libkyrka C library created by jorisvink, which is a… |
+| 2026-11-28 10:01:48 | [billion-context-proxy](https://crates.io/crates/billion-context-proxy) | 0.1.0 | 0 | Rust host for billion-context: OpenAI/Anthropic proxy, plugin API and admin pan… |
+| 2026-11-28 10:04:29 | [fsls](https://crates.io/crates/fsls) | 0.1.0 | 0 | List mounted file systems on Windows, Linux and macOS: drives, volumes, mount p… |
+| 2026-11-28 10:04:42 | [leptoskit_cloud_app](https://crates.io/crates/leptoskit_cloud_app) | 0.0.0 | 0 | Placeholder crate published by monochange |
+| 2026-11-28 10:04:49 | [leptoskit_cloud_platform](https://crates.io/crates/leptoskit_cloud_platform) | 0.0.0 | 0 | Placeholder crate published by monochange |
+| 2026-11-28 10:04:57 | [leptoskit_cloud_worker](https://crates.io/crates/leptoskit_cloud_worker) | 0.0.0 | 0 | Placeholder crate published by monochange |
+| 2026-11-28 10:04:59 | [typelisp-rt-sys](https://crates.io/crates/typelisp-rt-sys) | 0.3.8 | 0 | The part of typelisp's runtime that needs files and a process environment. Inte… |
+| 2026-11-28 10:05:05 | [leptoskit_cloud_notifications](https://crates.io/crates/leptoskit_cloud_notifications) | 0.0.0 | 0 | Placeholder crate published by monochange |
+| 2026-11-28 10:05:08 | [typelisp-rt-posix](https://crates.io/crates/typelisp-rt-posix) | 0.3.8 | 0 | The part of typelisp's runtime that needs a POSIX system: sockets, TLS, OS thre… |
+| 2026-11-28 10:05:15 | [typelisp-rt-embedded](https://crates.io/crates/typelisp-rt-embedded) | 0.3.8 | 0 | The runtime typelisp links an executable for a board without an operating syste… |
+| 2026-11-28 10:05:17 | [leptoskit_cloud_runtime](https://crates.io/crates/leptoskit_cloud_runtime) | 0.0.0 | 0 | Placeholder crate published by monochange |
+| 2026-11-28 10:05:20 | [typelisp-rt-semihosting](https://crates.io/crates/typelisp-rt-semihosting) | 0.3.8 | 0 | The runtime typelisp links an executable for a board without an operating syste… |
+| 2026-11-28 10:12:44 | [rilo](https://crates.io/crates/rilo) | 1.0.0 | 0 | A code editor in the terminal, inspired by kilo |
+| 2026-11-28 10:14:52 | [c2flowch-core](https://crates.io/crates/c2flowch-core) | 2.5.5 | 0 | Convert C source code into ANSI/ISO 5807 flowcharts (library) |
+| 2026-11-28 10:14:53 | [leptoskit_cloud](https://crates.io/crates/leptoskit_cloud) | 0.0.0 | 0 | Placeholder crate published by monochange |
+| 2026-11-28 10:14:54 | [c2flowch](https://crates.io/crates/c2flowch) | 2.5.5 | 0 | Convert C source code into ANSI/ISO 5807 flowcharts (command line) |
+| 2026-11-28 10:18:42 | [cgamesplay-capnweb](https://crates.io/crates/cgamesplay-capnweb) | 0.1.0 | 0 | Rust implementation of the Cap'n Web RPC protocol |
+| 2026-11-28 10:18:52 | [cgamesplay-capnweb-reqwest](https://crates.io/crates/cgamesplay-capnweb-reqwest) | 0.1.0 | 0 | Cap'n Web RPC HTTP batch client, using reqwest |
+| 2026-11-28 10:18:58 | [cgamesplay-capnweb-tungstenite](https://crates.io/crates/cgamesplay-capnweb-tungstenite) | 0.1.0 | 0 | Cap'n Web RPC WebSocket client, using tokio-tungstenite |
+| 2026-11-28 10:19:05 | [cgamesplay-capnweb-axum](https://crates.io/crates/cgamesplay-capnweb-axum) | 0.1.0 | 0 | Cap'n Web RPC server endpoint for axum, over HTTP batch and WebSocket |
 
 ## Data source
 

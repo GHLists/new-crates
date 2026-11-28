@@ -1,0 +1,49 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-28T09:19:59.629306Z,nerval,0.2.0,0,0,,no_std Pratt parser and evaluator for calculator-style expressions with implicit multiplication and user-defined symbols.
+2026-11-28T09:21:07.744296Z,arks-hub,0.1.0,0,0,https://github.com/modootoday/arks,Forge collaboration surface for arks (library; entered via `arks hub` / flat forge leaves)
+2026-11-28T09:24:11.675147Z,pithgrid-core,0.1.1,0,0,,UI-independent coding agent core
+2026-11-28T09:24:20.77353Z,pithgrid,0.1.1,0,0,,Terminal coding agent with multi-provider support and an inline TUI
+2026-11-28T09:26:16.311009Z,dual-kawase-blur,0.1.0,0,0,https://github.com/skirazavr/dual-kawase-blur,"GUI-agnostic, zero-allocation-per-frame Dual Kawase GPU blur for wgpu across Windows, macOS, Linux, and WebGPU"
+2026-11-28T09:30:31.273585Z,sml-kit,0.1.1,0,0,https://github.com/hupe1980/sml-kit,"Read German smart meters in Rust: SML (Smart Message Language) decoder and encoder, sans-I/O, no_std, no allocator, no dependencies"
+2026-11-28T09:31:30.703396Z,arks-server,0.1.0,0,0,https://github.com/modootoday/arks,Git server: upload-pack / receive-pack + smart/dumb HTTP + daemon (M11/M25)
+2026-11-28T09:34:22.131333Z,rbtop,0.3.4,0,0,https://github.com/gbomacfly/rbtop,bashtop rewritten in Rust: fast terminal resource monitor
+2026-11-28T09:38:05.510198Z,datafusion-abap-sql,0.3.0,0,0,https://github.com/sat-infotech/datafusion-abap-sql,Apache DataFusion integration for SAP S/4HANA Cloud ABAP SQL Services via ODBC with aggregate pushdown
+2026-11-28T09:38:10.59112Z,helm-rs,0.1.0,0,0,https://github.com/retrokiller543/helm-rs,"Typed Rust API for Helm 4: swappable backends, native chart, values and release reading"
+2026-11-28T09:41:46.2948Z,arks-remote,0.1.0,0,0,https://github.com/modootoday/arks,"Git remote transport client (smart/dumb HTTP, SSH, git://, credentials and partial-clone)"
+2026-11-28T09:42:55.799101Z,seiva-kms,0.2.3,0,0,https://github.com/ngolacloud/seiva,"Envelope encryption for Delonix Seiva: data keys wrapped by a guardian (local key file or Vault transit), a key ring that seals with associated data, rotation and re-sealing."
+2026-11-28T09:44:04.544866Z,seiva-agent,0.2.3,0,0,https://github.com/ngolacloud/seiva,"The agent harness of Delonix Seiva: a bounded tool loop through the AI gateway, local, facade and MCP tools, pinned MCP tool descriptions, approvals for writes, hooks and memory."
+2026-11-28T09:44:07.070222Z,seiva-rag,0.2.3,0,0,https://github.com/ngolacloud/seiva,"Retrieval with permissions for Delonix Seiva: tenant and access filtered in the query, provenance required at ingestion, answers that cite their sources."
+2026-11-28T09:44:08.121956Z,fabric-rs-core,0.2.1,0,0,https://github.com/MSDOS-N/FLR,"Core metadata, bytecode descriptors, Tiny/Mojmap mapping parsers, and Access Widener utilities for FLR v2"
+2026-11-28T09:44:30.799624Z,fabric-rs-codegen,0.2.1,0,0,https://github.com/MSDOS-N/FLR,"Pure-Rust JVM classfile writer, JAR SDK indexer, Rust binding emitter, and Mixin/Subclass bytecode generator for FLR v2"
+2026-11-28T09:45:00.694591Z,fabric-rs-macros,0.2.1,0,0,https://github.com/MSDOS-N/FLR,"Procedural macros (#[mod_init], #[mixin], #[subclass], #[access_widener], bind_class!, id!) for FLR v2 Minecraft Fabric mods"
+2026-11-28T09:45:12.665231Z,fabric-rs-sdk,0.2.1,0,0,https://github.com/MSDOS-N/FLR,Universal Rust SDK for writing Minecraft Fabric mods across obfuscated (1.20.x-1.21.x) and unobfuscated (26.x+) versions
+2026-11-28T09:45:20.361692Z,cargo-fabric,0.2.1,0,0,https://github.com/MSDOS-N/FLR,"Cargo build, SDK indexing, cross-compilation, and JAR packaging toolchain for Rust Minecraft Fabric mods"
+2026-11-28T09:50:43.825333Z,polywag,0.1.0,0,0,https://github.com/SkyeC0re/polywag-rs,A library for polynomial regression.
+2026-11-28T09:51:31.327719Z,arks,0.1.0,0,0,https://github.com/modootoday/arks,"arks for Git — native Rust Git-compatible CLI, daemon, forge client and self-host server"
+2026-11-28T09:53:31.224892Z,wireman-mcp,0.1.0,0,0,https://github.com/preiter93/wireman,MCP server for wireman
+2026-11-28T09:53:56.736303Z,cpui-icons,0.1.0,0,0,https://github.com/DEEIX-AI/cpui,"The CPUI icon set: line icons on a 24 × 24 grid as plain geometry and SVG, with no dependencies."
+2026-11-28T09:53:58.327155Z,cpui-render,0.1.0,0,0,https://github.com/DEEIX-AI/cpui,"The rendering layer of CPUI: text shaping and glyph rasterization with swash, and CPU compositing into the window surface."
+2026-11-28T09:54:01.991301Z,cpui,0.1.0,0,0,https://github.com/DEEIX-AI/cpui,"An immediate-mode UI framework rendered on the CPU: small, light on memory and independent of the GPU."
+2026-11-28T09:55:01.264155Z,silentwire,0.1.0,0,0,https://github.com/Yudis-bit/silentwire,High-assurance BIP-352 silent payments engine with constant-time comb tables
+2026-11-28T09:55:14.401181Z,bdk-silentwire,0.1.0,0,0,https://github.com/Yudis-bit/silentwire,Bitcoin transaction adapter for the Silentwire BIP-352 scanner
+2026-11-28T09:58:55.66612Z,kyrka-sys,0.1.1,0,0,https://github.com/a-rvid/libkyrka-rs,"Raw bindings for the libkyrka C library created by jorisvink, which is a networking cryptography library."
+2026-11-28T09:58:58.519529Z,kyrka,0.1.0,0,0,https://github.com/a-rvid/libkyrka-rs,"Safe Rust bindings for the libkyrka C library created by jorisvink, which is a networking cryptography library."
+2026-11-28T10:01:48.644211Z,billion-context-proxy,0.1.0,0,0,https://github.com/MoRanYue/billion-context-rs,"Rust host for billion-context: OpenAI/Anthropic proxy, plugin API and admin panel"
+2026-11-28T10:04:29.858955Z,fsls,0.1.0,0,0,https://github.com/gyazbek/fsls,"List mounted file systems on Windows, Linux and macOS: drives, volumes, mount points and network shares"
+2026-11-28T10:04:42.110745Z,leptoskit_cloud_app,0.0.0,0,0,https://github.com/leptoskit/leptoskit,Placeholder crate published by monochange
+2026-11-28T10:04:49.596174Z,leptoskit_cloud_platform,0.0.0,0,0,https://github.com/leptoskit/leptoskit,Placeholder crate published by monochange
+2026-11-28T10:04:57.327532Z,leptoskit_cloud_worker,0.0.0,0,0,https://github.com/leptoskit/leptoskit,Placeholder crate published by monochange
+2026-11-28T10:04:59.828181Z,typelisp-rt-sys,0.3.8,0,0,https://github.com/JunSuzukiJapan/typelisp,The part of typelisp's runtime that needs files and a process environment. Internal crate of typelisp; not meant to be used directly.
+2026-11-28T10:05:05.014688Z,leptoskit_cloud_notifications,0.0.0,0,0,https://github.com/leptoskit/leptoskit,Placeholder crate published by monochange
+2026-11-28T10:05:08.532615Z,typelisp-rt-posix,0.3.8,0,0,https://github.com/JunSuzukiJapan/typelisp,"The part of typelisp's runtime that needs a POSIX system: sockets, TLS, OS threads. Internal crate of typelisp; not meant to be used directly."
+2026-11-28T10:05:15.264701Z,typelisp-rt-embedded,0.3.8,0,0,https://github.com/JunSuzukiJapan/typelisp,The runtime typelisp links an executable for a board without an operating system with. Internal crate of typelisp; not meant to be used directly.
+2026-11-28T10:05:17.417678Z,leptoskit_cloud_runtime,0.0.0,0,0,https://github.com/leptoskit/leptoskit,Placeholder crate published by monochange
+2026-11-28T10:05:20.360347Z,typelisp-rt-semihosting,0.3.8,0,0,https://github.com/JunSuzukiJapan/typelisp,"The runtime typelisp links an executable for a board without an operating system with, its host functions over semihosting. Internal crate of typelisp; not meant to be used directly."
+2026-11-28T10:12:44.336665Z,rilo,1.0.0,0,0,https://github.com/wirenux/rilo,"A code editor in the terminal, inspired by kilo"
+2026-11-28T10:14:52.018599Z,c2flowch-core,2.5.5,0,0,https://github.com/airvzxf/c2flowch,Convert C source code into ANSI/ISO 5807 flowcharts (library)
+2026-11-28T10:14:53.529924Z,leptoskit_cloud,0.0.0,0,0,https://github.com/leptoskit/leptoskit,Placeholder crate published by monochange
+2026-11-28T10:14:54.292783Z,c2flowch,2.5.5,0,0,https://github.com/airvzxf/c2flowch,Convert C source code into ANSI/ISO 5807 flowcharts (command line)
+2026-11-28T10:18:42.195731Z,cgamesplay-capnweb,0.1.0,0,0,https://github.com/CGamesPlay/capnweb-rs,Rust implementation of the Cap'n Web RPC protocol
+2026-11-28T10:18:52.601792Z,cgamesplay-capnweb-reqwest,0.1.0,0,0,https://github.com/CGamesPlay/capnweb-rs,"Cap'n Web RPC HTTP batch client, using reqwest"
+2026-11-28T10:18:58.680862Z,cgamesplay-capnweb-tungstenite,0.1.0,0,0,https://github.com/CGamesPlay/capnweb-rs,"Cap'n Web RPC WebSocket client, using tokio-tungstenite"
+2026-11-28T10:19:05.107151Z,cgamesplay-capnweb-axum,0.1.0,0,0,https://github.com/CGamesPlay/capnweb-rs,"Cap'n Web RPC server endpoint for axum, over HTTP batch and WebSocket"
