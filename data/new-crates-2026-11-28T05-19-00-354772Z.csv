@@ -1,0 +1,13 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-28T04:24:36.270193Z,withone,0.1.1,0,0,,"Typed Rust client for the One API: the client, webhooks and the action type every withone-<platform> crate builds on."
+2026-11-28T04:24:39.388726Z,withone-gmail,0.1.1,0,0,,Typed gmail actions for the One SDK.
+2026-11-28T04:28:15.855983Z,store-facade-model,0.1.0,0,0,https://github.com/legra-ai/store-facade,"Typed store identity, RDF store descriptions, capabilities and the streaming query contract of store-facade"
+2026-11-28T04:30:15.354288Z,mica-board,0.1.0,0,0,https://github.com/weironz/mica,"Mica infinite whiteboard, mind map, flowchart, draw.io import, orthogonal routing, and headless SVG engine"
+2026-11-28T04:30:47.133581Z,mica-md,0.1.0,0,0,https://github.com/weironz/mica,"Markdown ⇄ block-document engine: CommonMark 0.31.2 (641/641) + GFM (24/24) + footnotes, front matter and Pandoc math, with a round-trip guarantee."
+2026-11-28T04:36:48.681913Z,prunecss-core,0.1.0,0,0,https://github.com/Anikhet/prunecss,Core engine for prunecss: find which CSS classes a project uses and remove the rest.
+2026-11-28T04:37:09.543403Z,prunecss,0.1.0,0,0,https://github.com/Anikhet/prunecss,"Remove unused CSS, fast."
+2026-11-28T04:47:20.22619Z,rusty_zlib,0.1.0,0,0,https://github.com/Remade-With-Rust/rusty_zlib,"Remade-With-Rust fork of zlib-rs: a memory-safe, pure-Rust zlib (deflate/inflate, zlib and gzip), measured and tuned for the MATA stack"
+2026-11-28T05:06:14.453862Z,megadata_rs,0.3.0,0,0,https://github.com/hoare211/megadata_rs,"The Ultimate LLM Data Pipeline Engine — zero-copy, Rust-native dataset builder and loader for LLM/VLM training"
+2026-11-28T05:11:42.194033Z,tilo-member-types,0.5.3,0,0,https://code.tilo.so/tilo/tilo,"Who acts in a workspace, as plain data: a person, a member, an actor, who acted for whom, and the app one acts in."
+2026-11-28T05:12:40.910714Z,rustlive,0.0.1,0,0,https://github.com/LEVOGNE/rustlive,A Rust interpreter and development server that reloads Rust code on request.
+2026-11-28T05:13:41.475174Z,tilo-text-layout,0.5.3,0,0,https://code.tilo.so/tilo/tilo,"Setting text into a measure: where lines may break and words hyphenate, composed paragraphs, and pages."

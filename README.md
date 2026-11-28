@@ -8,27 +8,26 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-28 04:19 UTC
+## Latest list — 2026-11-28 05:19 UTC
 
-New crates published between 2026-11-28 03:18 UTC and 2026-11-28 04:19 UTC.
+New crates published between 2026-11-28 04:19 UTC and 2026-11-28 05:19 UTC.
 
-[Full CSV](data/new-crates-2026-11-28T04-19-22-939779Z.csv)
+[Full CSV](data/new-crates-2026-11-28T05-19-00-354772Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-28 03:19:55 | [parket](https://crates.io/crates/parket) | 0.0.0 | 0 | Performance-first Parquet reader and writer for Ruby, built on arrow-rs. Versio… |
-| 2026-11-28 03:24:48 | [rusty_pdf_core](https://crates.io/crates/rusty_pdf_core) | 0.1.0 | 0 | Pure-Rust PDF reader core: objects, classic and stream cross-reference tables,… |
-| 2026-11-28 03:29:46 | [nobusy-tui](https://crates.io/crates/nobusy-tui) | 0.1.0 | 0 | See which process holds a port and close it safely: a live TUI for listening TC… |
-| 2026-11-28 03:36:05 | [restreamer](https://crates.io/crates/restreamer) | 0.1.0 | 0 | Blocking client for the datarhei Restreamer / Core v3 API: login, processes, co… |
-| 2026-11-28 03:37:57 | [oxray](https://crates.io/crates/oxray) | 0.1.1 | 0 | Request inspector for Axum applications. |
-| 2026-11-28 03:38:12 | [day-piece-appfair](https://crates.io/crates/day-piece-appfair) | 0.1.0 | 0 | The App Fair settings group every App Fair Day app carries: about the project,… |
-| 2026-11-28 03:44:29 | [tydocx](https://crates.io/crates/tydocx) | 0.1.0 | 0 | Universal Typst to Word (.docx) converter |
-| 2026-11-28 03:46:32 | [primary-atomic](https://crates.io/crates/primary-atomic) | 0.1.0 | 0 | Mixing primary integers and atomics, with both methods and behaviors |
-| 2026-11-28 03:51:49 | [assetc-noise](https://crates.io/crates/assetc-noise) | 0.5.0 | 0 | The procedural noise of assetc: tileable checkerboard, value, Perlin, simplex,… |
-| 2026-11-28 03:51:53 | [assetc-collider](https://crates.io/crates/assetc-collider) | 0.5.0 | 0 | The convex decomposition of assetc: a model's triangles as a few convex hulls t… |
-| 2026-11-28 03:51:56 | [assetc-ibl](https://crates.io/crates/assetc-ibl) | 0.5.0 | 0 | The image-based lighting of assetc: latitude-longitude HDR images into skybox c… |
-| 2026-11-28 03:58:08 | [agentpool-rs](https://crates.io/crates/agentpool-rs) | 0.1.0 | 0 | Native desktop AI agent chat client for ACP v2 built in Rust with GPUI |
-| 2026-11-28 04:15:39 | [maybe_send_sync](https://crates.io/crates/maybe_send_sync) | 0.1.0 | 0 | MaybeSend and MaybeSync marker traits that can be relaxed for single-threaded b… |
+| 2026-11-28 04:24:36 | [withone](https://crates.io/crates/withone) | 0.1.1 | 0 | Typed Rust client for the One API: the client, webhooks and the action type eve… |
+| 2026-11-28 04:24:39 | [withone-gmail](https://crates.io/crates/withone-gmail) | 0.1.1 | 0 | Typed gmail actions for the One SDK. |
+| 2026-11-28 04:28:15 | [store-facade-model](https://crates.io/crates/store-facade-model) | 0.1.0 | 0 | Typed store identity, RDF store descriptions, capabilities and the streaming qu… |
+| 2026-11-28 04:30:15 | [mica-board](https://crates.io/crates/mica-board) | 0.1.0 | 0 | Mica infinite whiteboard, mind map, flowchart, draw.io import, orthogonal routi… |
+| 2026-11-28 04:30:47 | [mica-md](https://crates.io/crates/mica-md) | 0.1.0 | 0 | Markdown ⇄ block-document engine: CommonMark 0.31.2 (641/641) + GFM (24/24) + f… |
+| 2026-11-28 04:36:48 | [prunecss-core](https://crates.io/crates/prunecss-core) | 0.1.0 | 0 | Core engine for prunecss: find which CSS classes a project uses and remove the… |
+| 2026-11-28 04:37:09 | [prunecss](https://crates.io/crates/prunecss) | 0.1.0 | 0 | Remove unused CSS, fast. |
+| 2026-11-28 04:47:20 | [rusty_zlib](https://crates.io/crates/rusty_zlib) | 0.1.0 | 0 | Remade-With-Rust fork of zlib-rs: a memory-safe, pure-Rust zlib (deflate/inflat… |
+| 2026-11-28 05:06:14 | [megadata_rs](https://crates.io/crates/megadata_rs) | 0.3.0 | 0 | The Ultimate LLM Data Pipeline Engine — zero-copy, Rust-native dataset builder… |
+| 2026-11-28 05:11:42 | [tilo-member-types](https://crates.io/crates/tilo-member-types) | 0.5.3 | 0 | Who acts in a workspace, as plain data: a person, a member, an actor, who acted… |
+| 2026-11-28 05:12:40 | [rustlive](https://crates.io/crates/rustlive) | 0.0.1 | 0 | A Rust interpreter and development server that reloads Rust code on request. |
+| 2026-11-28 05:13:41 | [tilo-text-layout](https://crates.io/crates/tilo-text-layout) | 0.5.3 | 0 | Setting text into a measure: where lines may break and words hyphenate, compose… |
 
 ## Data source
 
