@@ -8,33 +8,59 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-28 06:20 UTC
+## Latest list — 2026-11-28 07:21 UTC
 
-New crates published between 2026-11-28 05:19 UTC and 2026-11-28 06:20 UTC.
+New crates published between 2026-11-28 06:20 UTC and 2026-11-28 07:21 UTC.
 
-[Full CSV](data/new-crates-2026-11-28T06-20-01-721032Z.csv)
+[Full CSV](data/new-crates-2026-11-28T07-21-23-988495Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-28 05:29:55 | [skyworks-hybrid](https://crates.io/crates/skyworks-hybrid) | 0.1.0 | 0 | Clean-room no_std parser, sequence decoder, software synthesizers, WAV16 export… |
-| 2026-11-28 05:30:05 | [webfoot-audio](https://crates.io/crates/webfoot-audio) | 0.1.0 | 0 | Clean-room no_std parser, software synthesizers, pattern decoder, WAV16 exporte… |
-| 2026-11-28 05:30:15 | [skyworks-pcm-stream](https://crates.io/crates/skyworks-pcm-stream) | 0.1.0 | 0 | Clean-room no_std parser, software synthesizers, WAV16 exporter, and SoundFont… |
-| 2026-11-28 05:30:24 | [gambih](https://crates.io/crates/gambih) | 0.1.0-alpha.1 | 0 | rng |
-| 2026-11-28 05:31:49 | [tensorplot-rs](https://crates.io/crates/tensorplot-rs) | 0.1.0 | 0 | Neural network architecture diagrams for papers — CNNs to LLMs (TikZ, SVG, PNG,… |
-| 2026-11-28 05:35:37 | [u0ui](https://crates.io/crates/u0ui) | 0.2.1 | 0 | Carbon UI: IBM Carbon v11 visuals with a shadcn-style API for GPUI Kit |
-| 2026-11-28 05:36:42 | [rtemis-r8-io](https://crates.io/crates/rtemis-r8-io) | 0.6.0 | 0 | Readers and writers of table files for the R8 type system: CSV and Parquet, cel… |
-| 2026-11-28 05:40:05 | [compushady](https://crates.io/crates/compushady) | 1.0.0-alpha.1 | 0 | Run GPU compute (and graphics) shaders on D3D12, Vulkan, Metal and WebGPU with… |
-| 2026-11-28 05:42:09 | [latred](https://crates.io/crates/latred) | 0.1.0 | 0 | Fast lattice basis reduction |
-| 2026-11-28 05:42:10 | [latred-cli](https://crates.io/crates/latred-cli) | 0.1.0 | 0 | Command-line tool for the latred lattice reduction library |
-| 2026-11-28 05:46:40 | [tilo-local-time](https://crates.io/crates/tilo-local-time) | 0.5.3 | 0 | The clock as a person reads it on a device or page: their zone, local date and… |
-| 2026-11-28 05:47:49 | [aethelgard-hwdef](https://crates.io/crates/aethelgard-hwdef) | 0.3.0 | 0 | Aethelgard's ArduPilot board definition: hwdef.dat for unmodified ArduPilot, ge… |
-| 2026-11-28 05:52:41 | [tilo-permissions](https://crates.io/crates/tilo-permissions) | 0.5.3 | 0 | Who may do what in a workspace as a window asks it: the permission context over… |
-| 2026-11-28 05:55:46 | [dcim-ingest](https://crates.io/crates/dcim-ingest) | 0.1.0 | 0 | Automatically imports and organizes photos and videos from Sony A7IV (and other… |
-| 2026-11-28 05:59:33 | [moru-net](https://crates.io/crates/moru-net) | 0.1.0 | 0 | Rust library for network servers, clients and daemons: REST / WebSocket, TCP /… |
-| 2026-11-28 06:02:27 | [arc-contracts](https://crates.io/crates/arc-contracts) | 0.1.0 | 0 | Arc Studio IDE 纯内核 —— 错误 / 同步 / 纯数据；无 gpui、无 DI 容器 |
-| 2026-11-28 06:02:50 | [arc-wasm-sdk](https://crates.io/crates/arc-wasm-sdk) | 0.1.0 | 0 | Arc Studio WASM extension author SDK: contract types (`api`), WIT package text… |
-| 2026-11-28 06:04:42 | [moru-quant](https://crates.io/crates/moru-quant) | 0.1.0 | 0 | Rust library for quantitative finance and derivatives valuation: option pricing… |
-| 2026-11-28 06:15:39 | [bencat](https://crates.io/crates/bencat) | 0.1.0 | 0 | Pretty-print and query bencode (.torrent files), like jq |
+| 2026-11-28 06:24:22 | [sdmmc-async](https://crates.io/crates/sdmmc-async) | 0.1.0 | 0 | An async, no_std, no-alloc SD card stack: an SPI-mode card driver and read-only… |
+| 2026-11-28 06:25:04 | [greennode-sdk](https://crates.io/crates/greennode-sdk) | 0.1.0 | 0 | Unofficial Rust SDK for the GreenNode API |
+| 2026-11-28 06:25:28 | [greennode](https://crates.io/crates/greennode) | 0.1.0 | 0 | Unofficial AWS-style command-line tool for GreenNode, formerly VNG Cloud |
+| 2026-11-28 06:35:42 | [zerocpu](https://crates.io/crates/zerocpu) | 0.9.1 | 0 | Deterministic integer kernels for ultragraph: Q16.16, 5-trit packing, NEON dot. |
+| 2026-11-28 06:35:50 | [ospop-core](https://crates.io/crates/ospop-core) | 1.3.0 | 0 | Zero-unsafe Rust primitives for Omnispherepop weight programming: 1.58-bit tern… |
+| 2026-11-28 06:36:01 | [ospop-academy](https://crates.io/crates/ospop-academy) | 1.3.0 | 0 | Interactive 17-lesson weight-programming curriculum with real observed tensor c… |
+| 2026-11-28 06:36:05 | [ospop-runtime](https://crates.io/crates/ospop-runtime) | 1.3.0 | 0 | Unified typed Program & Runtime::execute engine for Omnispherepop CLI, MCP, and… |
+| 2026-11-28 06:36:09 | [ospop-cli](https://crates.io/crates/ospop-cli) | 1.3.0 | 0 | Omnispherepop CLI (`ospop`): 1.58-bit ternary PTQ, 1D/2D Walsh-Hadamard, stacka… |
+| 2026-11-28 06:39:49 | [ospop-mcp](https://crates.io/crates/ospop-mcp) | 1.3.0 | 0 | Omnispherepop 12-tool stdio MCP server (`ospop-mcp`) for AI agent weight progra… |
+| 2026-11-28 06:40:21 | [rouge-webview](https://crates.io/crates/rouge-webview) | 0.7.0 | 0 | System web views placed by Rouge layout: WKWebView, WebKitGTK, Android WebView… |
+| 2026-11-28 06:40:40 | [rawmocs](https://crates.io/crates/rawmocs) | 0.4.0-rc.1 | 0 | Native full signed-complex weighted model counting |
+| 2026-11-28 06:42:34 | [munin-mcp](https://crates.io/crates/munin-mcp) | 0.2.5 | 0 | Local memory for AI coding agents: an MCP server and a CLI over one SQLite file |
+| 2026-11-28 06:45:05 | [kastron-macros](https://crates.io/crates/kastron-macros) | 0.1.0 | 0 | Procedural macros for the Kastron HTTP API framework |
+| 2026-11-28 06:46:00 | [kastron](https://crates.io/crates/kastron) | 0.1.0 | 0 | Security-first modular HTTP API framework built on Axum and Hyper |
+| 2026-11-28 06:46:54 | [kastron-plugin-ipc](https://crates.io/crates/kastron-plugin-ipc) | 0.1.0 | 0 | Out-of-process sandboxed plugin IPC protocol, transport, and sidecar runtime fo… |
+| 2026-11-28 06:48:57 | [kastron-plugin-wasm](https://crates.io/crates/kastron-plugin-wasm) | 0.1.0 | 0 | Zero-unsafe stateless WebAssembly Component isolation runtime for Kastron plugi… |
+| 2026-11-28 06:50:02 | [kastron-cluster](https://crates.io/crates/kastron-cluster) | 0.1.0 | 0 | Managed Master/Worker reverse-tunnel cluster identity, protocol, and non-blocki… |
+| 2026-11-28 06:51:25 | [sc-format](https://crates.io/crates/sc-format) | 0.12.0 | 0 | Zero-dependency byte signature probing for SimCity asset formats |
+| 2026-11-28 06:51:30 | [dbpf](https://crates.io/crates/dbpf) | 0.12.0 | 0 | DBPF (.package) container format: header, index, RefPack decompression |
+| 2026-11-28 06:51:45 | [rw4](https://crates.io/crates/rw4) | 0.12.0 | 0 | RenderWare4 (RW4) resource parsing: models, meshes, textures, skeletons, animat… |
+| 2026-11-28 06:52:05 | [sc-properties](https://crates.io/crates/sc-properties) | 0.12.0 | 0 | SimCity property-list (0x00b1b104) resource parsing, asset aggregation and loca… |
+| 2026-11-28 06:52:31 | [openscp-sdk](https://crates.io/crates/openscp-sdk) | 0.1.0 | 0 | Host-independent Rust SDK for SimCity package and resource formats |
+| 2026-11-28 06:54:56 | [command-seam](https://crates.io/crates/command-seam) | 0.15.0 | 0 | A seam for running child processes: a runner trait, a std::process runner with… |
+| 2026-11-28 06:55:06 | [finding-formats](https://crates.io/crates/finding-formats) | 0.1.0 | 0 | Reads common tool output (line-oriented text, SARIF 2.1.0, JUnit XML, lcov) int… |
+| 2026-11-28 06:55:19 | [osdlc-cli-tool](https://crates.io/crates/osdlc-cli-tool) | 0.22.0 | 0 | The groundwork a standalone CLI needs, over clap: an output seam, an injectable… |
+| 2026-11-28 06:55:26 | [trust-repo](https://crates.io/crates/trust-repo) | 0.5.0 | 0 | Per-user consent to run a repository's own scripts: a store of marker files, on… |
+| 2026-11-28 06:57:09 | [kastron-pilot-hx](https://crates.io/crates/kastron-pilot-hx) | 0.1.0 | 0 | Kastron single-node SQLite WAL narrow storage and dual-factor API Key + TOTP au… |
+| 2026-11-28 06:58:00 | [open-max-core](https://crates.io/crates/open-max-core) | 2026.11.6 | 0 | Open Max core: agent harness and native process supervision |
+| 2026-11-28 06:58:40 | [openmax](https://crates.io/crates/openmax) | 2026.11.6 | 0 | A high-performance, self-extensible coding agent harness in Rust, optimized for… |
+| 2026-11-28 07:00:10 | [hc-internal](https://crates.io/crates/hc-internal) | 1.2.0 | 0 | Shared walker, search, printer, regex, encoding, and filesystem helpers for hrg… |
+| 2026-11-28 07:00:32 | [hfd](https://crates.io/crates/hfd) | 1.2.0 | 0 | find and fd compatible file walker, installed as hfd and hfind |
+| 2026-11-28 07:00:43 | [hrg](https://crates.io/crates/hrg) | 1.2.0 | 0 | GNU grep and ripgrep compatible searcher, installed as hrg, hgrep, and hg |
+| 2026-11-28 07:07:55 | [kastron-deploy](https://crates.io/crates/kastron-deploy) | 0.1.0 | 0 | Signed remote WASM Component deployment, independent local trust root, capabili… |
+| 2026-11-28 07:09:26 | [moatless-types](https://crates.io/crates/moatless-types) | 0.1.0 | 0 | Shared type definitions for Moatless |
+| 2026-11-28 07:09:28 | [moatless-workspace-types](https://crates.io/crates/moatless-workspace-types) | 0.1.0 | 0 | Workspace domain values and optional wire contracts |
+| 2026-11-28 07:09:29 | [sandbox-proto](https://crates.io/crates/sandbox-proto) | 0.1.0 | 0 | gRPC proto definitions for sandbox ↔ backend communication |
+| 2026-11-28 07:09:30 | [moatless-api-schemas](https://crates.io/crates/moatless-api-schemas) | 0.1.0 | 0 | Shared API request/response types for backend and CLI |
+| 2026-11-28 07:09:32 | [moatless-api-client](https://crates.io/crates/moatless-api-client) | 0.1.0 | 0 | Rust HTTP client for the Moatless API |
+| 2026-11-28 07:12:59 | [koshr](https://crates.io/crates/koshr) | 0.1.0 | 0 | koshr: a git-compatible, self-hostable code store with signed, verified history |
+| 2026-11-28 07:14:13 | [lilyco-webchat-core](https://crates.io/crates/lilyco-webchat-core) | 0.3.0 | 0 | Reusable browser-to-CLI/OpenAI/MCP core for Lilyco web-AI tools (lchatgpt, ldee… |
+| 2026-11-28 07:15:46 | [lilyco-deepseek](https://crates.io/crates/lilyco-deepseek) | 0.3.0 | 0 | ldeepseek — Drive chat.deepseek.com from CLI / TUI / Web / MCP / OpenAI-compati… |
+| 2026-11-28 07:16:01 | [lilyco-chatgpt](https://crates.io/crates/lilyco-chatgpt) | 0.3.0 | 0 | lchatgpt — 把 chatgpt.com 账号后端写成 CLI：会话历史只读查询 + codex responses 提问，四端 (CLI / TUI… |
+| 2026-11-28 07:16:14 | [lilyco-codearts](https://crates.io/crates/lilyco-codearts) | 0.3.0 | 0 | lcodearts — 华为云码道（CodeArts Agent）账号后端：模型清单 / OpenAI 兼容网关 / 积分查询 / 每日签到，四端 (CLI… |
+| 2026-11-28 07:19:21 | [kastron-config](https://crates.io/crates/kastron-config) | 0.1.0 | 0 | Unified TOML, JSON, and environment variable configuration loader and validator… |
+| 2026-11-28 07:20:50 | [gema-jpx](https://crates.io/crates/gema-jpx) | 0.12.0 | 0 | Scoped, dependency-free JPEG 2000 decoder |
 
 ## Data source
 

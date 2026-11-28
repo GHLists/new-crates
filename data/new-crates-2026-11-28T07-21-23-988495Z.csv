@@ -1,0 +1,46 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-28T06:24:22.231373Z,sdmmc-async,0.1.0,0,0,https://github.com/michielbaird/sdmmc-async,"An async, no_std, no-alloc SD card stack: an SPI-mode card driver and read-only FAT32 and exFAT, over embedded-hal-async."
+2026-11-28T06:25:04.329348Z,greennode-sdk,0.1.0,0,0,https://github.com/dannyota/greennode,Unofficial Rust SDK for the GreenNode API
+2026-11-28T06:25:28.157773Z,greennode,0.1.0,0,0,https://github.com/dannyota/greennode,"Unofficial AWS-style command-line tool for GreenNode, formerly VNG Cloud"
+2026-11-28T06:35:42.987798Z,zerocpu,0.9.1,0,0,https://github.com/8b-is/ultra-graph,"Deterministic integer kernels for ultragraph: Q16.16, 5-trit packing, NEON dot."
+2026-11-28T06:35:50.789078Z,ospop-core,1.3.0,0,0,https://codeberg.org/8b-is/omnispherepop,"Zero-unsafe Rust primitives for Omnispherepop weight programming: 1.58-bit ternary PTQ, 1D/2D Walsh-Hadamard, .ospop.safetensors deltas, Ablagent/DWMIP, and ultra-graphs."
+2026-11-28T06:36:01.197597Z,ospop-academy,1.3.0,0,0,https://codeberg.org/8b-is/omnispherepop,Interactive 17-lesson weight-programming curriculum with real observed tensor checkpoints for Omnispherepop.
+2026-11-28T06:36:05.16894Z,ospop-runtime,1.3.0,0,0,https://codeberg.org/8b-is/omnispherepop,"Unified typed Program & Runtime::execute engine for Omnispherepop CLI, MCP, and browser weight programming."
+2026-11-28T06:36:09.67412Z,ospop-cli,1.3.0,0,0,https://codeberg.org/8b-is/omnispherepop,"Omnispherepop CLI (`ospop`): 1.58-bit ternary PTQ, 1D/2D Walsh-Hadamard, stackable .ospop.safetensors RLVR/MARL diffs, and Ablagent/DWMIP directional weight modification."
+2026-11-28T06:39:49.494023Z,ospop-mcp,1.3.0,0,0,https://codeberg.org/8b-is/omnispherepop,"Omnispherepop 12-tool stdio MCP server (`ospop-mcp`) for AI agent weight programming, 1.58-bit PTQ, trit-diff, delta stacking, and Ablagent/DWMIP."
+2026-11-28T06:40:21.720275Z,rouge-webview,0.7.0,0,0,https://github.com/jcarver989/rouge,"System web views placed by Rouge layout: WKWebView, WebKitGTK, Android WebView and iframes"
+2026-11-28T06:40:40.547421Z,rawmocs,0.4.0-rc.1,0,0,https://github.com/PhysicsQoo/RaWMoCS,Native full signed-complex weighted model counting
+2026-11-28T06:42:34.746323Z,munin-mcp,0.2.5,0,0,https://github.com/alnovis/munin,Local memory for AI coding agents: an MCP server and a CLI over one SQLite file
+2026-11-28T06:45:05.64291Z,kastron-macros,0.1.0,0,0,https://github.com/huanxin886/kastron,Procedural macros for the Kastron HTTP API framework
+2026-11-28T06:46:00.625833Z,kastron,0.1.0,0,0,https://github.com/huanxin886/kastron,Security-first modular HTTP API framework built on Axum and Hyper
+2026-11-28T06:46:54.320487Z,kastron-plugin-ipc,0.1.0,0,0,https://github.com/huanxin886/kastron,"Out-of-process sandboxed plugin IPC protocol, transport, and sidecar runtime for Kastron"
+2026-11-28T06:48:57.303908Z,kastron-plugin-wasm,0.1.0,0,0,https://github.com/huanxin886/kastron,Zero-unsafe stateless WebAssembly Component isolation runtime for Kastron plugins
+2026-11-28T06:50:02.162951Z,kastron-cluster,0.1.0,0,0,https://github.com/huanxin886/kastron,"Managed Master/Worker reverse-tunnel cluster identity, protocol, and non-blocking Yamux transport for Kastron"
+2026-11-28T06:51:25.049731Z,sc-format,0.12.0,0,0,https://github.com/FluffyChi-Xing/fluffy-open-scp,Zero-dependency byte signature probing for SimCity asset formats
+2026-11-28T06:51:30.146253Z,dbpf,0.12.0,0,0,https://github.com/FluffyChi-Xing/fluffy-open-scp,"DBPF (.package) container format: header, index, RefPack decompression"
+2026-11-28T06:51:45.964126Z,rw4,0.12.0,0,0,https://github.com/FluffyChi-Xing/fluffy-open-scp,"RenderWare4 (RW4) resource parsing: models, meshes, textures, skeletons, animations"
+2026-11-28T06:52:05.799731Z,sc-properties,0.12.0,0,0,https://github.com/FluffyChi-Xing/fluffy-open-scp,"SimCity property-list (0x00b1b104) resource parsing, asset aggregation and locale names"
+2026-11-28T06:52:31.576826Z,openscp-sdk,0.1.0,0,0,https://github.com/FluffyChi-Xing/fluffy-open-scp,Host-independent Rust SDK for SimCity package and resource formats
+2026-11-28T06:54:56.185836Z,command-seam,0.15.0,0,0,https://github.com/osdlc/osdlc,"A seam for running child processes: a runner trait, a std::process runner with timeout and captured output, a checked form and a recording fake. The Rust twin of @osdlc/command-seam."
+2026-11-28T06:55:06.560418Z,finding-formats,0.1.0,0,0,https://github.com/osdlc/osdlc,"Reads common tool output (line-oriented text, SARIF 2.1.0, JUnit XML, lcov) into one small findings and facts model."
+2026-11-28T06:55:19.912084Z,osdlc-cli-tool,0.22.0,0,0,https://github.com/osdlc/osdlc,"The groundwork a standalone CLI needs, over clap: an output seam, an injectable context, fixed exit codes, classified failures and versioned --json documents. The Rust twin of @osdlc/cli-tool."
+2026-11-28T06:55:26.326154Z,trust-repo,0.5.0,0,0,https://github.com/osdlc/osdlc,"Per-user consent to run a repository's own scripts: a store of marker files, one per trusted repository, and the rule that combines it with a per-run flag. The Rust port of @osdlc/trust-repo's whole-…"
+2026-11-28T06:57:09.843032Z,kastron-pilot-hx,0.1.0,0,0,https://github.com/huanxin886/kastron,Kastron single-node SQLite WAL narrow storage and dual-factor API Key + TOTP auth pilot for Hx-Api
+2026-11-28T06:58:00.227501Z,open-max-core,2026.11.6,0,0,https://github.com/Max17190/open-max,Open Max core: agent harness and native process supervision
+2026-11-28T06:58:40.27732Z,openmax,2026.11.6,0,0,https://github.com/Max17190/open-max,"A high-performance, self-extensible coding agent harness in Rust, optimized for prompt caching"
+2026-11-28T07:00:10.488732Z,hc-internal,1.2.0,0,0,https://github.com/riya-amemiya/happy-cracking,"Shared walker, search, printer, regex, encoding, and filesystem helpers for hrg and hfd"
+2026-11-28T07:00:32.742903Z,hfd,1.2.0,0,0,https://github.com/riya-amemiya/happy-cracking,"find and fd compatible file walker, installed as hfd and hfind"
+2026-11-28T07:00:43.545358Z,hrg,1.2.0,0,0,https://github.com/riya-amemiya/happy-cracking,"GNU grep and ripgrep compatible searcher, installed as hrg, hgrep, and hg"
+2026-11-28T07:07:55.037094Z,kastron-deploy,0.1.0,0,0,https://github.com/huanxin886/kastron,"Signed remote WASM Component deployment, independent local trust root, capability ceiling, and crash-recoverable lifecycle journal for Kastron"
+2026-11-28T07:09:26.251607Z,moatless-types,0.1.0,0,0,https://github.com/aorwall/moatless,Shared type definitions for Moatless
+2026-11-28T07:09:28.613817Z,moatless-workspace-types,0.1.0,0,0,https://github.com/aorwall/moatless,Workspace domain values and optional wire contracts
+2026-11-28T07:09:29.017517Z,sandbox-proto,0.1.0,0,0,https://github.com/aorwall/moatless,gRPC proto definitions for sandbox ↔ backend communication
+2026-11-28T07:09:30.445124Z,moatless-api-schemas,0.1.0,0,0,https://github.com/aorwall/moatless,Shared API request/response types for backend and CLI
+2026-11-28T07:09:32.6381Z,moatless-api-client,0.1.0,0,0,https://github.com/aorwall/moatless,Rust HTTP client for the Moatless API
+2026-11-28T07:12:59.032178Z,koshr,0.1.0,0,0,https://github.com/startr-trade/koshr,"koshr: a git-compatible, self-hostable code store with signed, verified history"
+2026-11-28T07:14:13.743919Z,lilyco-webchat-core,0.3.0,0,0,https://github.com/Lyco-team/lilyco-ai,"Reusable browser-to-CLI/OpenAI/MCP core for Lilyco web-AI tools (lchatgpt, ldeepseek, etc.): CDP driver, serial queue, Bearer auth, hourly rate-limiter, session continuation, token estimation"
+2026-11-28T07:15:46.341861Z,lilyco-deepseek,0.3.0,0,0,https://github.com/Lyco-team/lilyco-ai,"ldeepseek — Drive chat.deepseek.com from CLI / TUI / Web / MCP / OpenAI-compatible HTTP endpoint, powered by lilyco-webchat-core"
+2026-11-28T07:16:01.832376Z,lilyco-chatgpt,0.3.0,0,0,https://github.com/Lyco-team/lilyco-ai,lchatgpt — 把 chatgpt.com 账号后端写成 CLI：会话历史只读查询 + codex responses 提问，四端 (CLI / TUI / Web / MCP) + AI 可调
+2026-11-28T07:16:14.219101Z,lilyco-codearts,0.3.0,0,0,https://github.com/Lyco-team/lilyco-ai,lcodearts — 华为云码道（CodeArts Agent）账号后端：模型清单 / OpenAI 兼容网关 / 积分查询 / 每日签到，四端 (CLI / TUI / Web / MCP)
+2026-11-28T07:19:21.505615Z,kastron-config,0.1.0,0,0,https://github.com/huanxin886/kastron,"Unified TOML, JSON, and environment variable configuration loader and validator for all Kastron modules"
+2026-11-28T07:20:50.66998Z,gema-jpx,0.12.0,0,0,https://github.com/p4ranoic0/gemapdf,"Scoped, dependency-free JPEG 2000 decoder"
