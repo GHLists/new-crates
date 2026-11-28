@@ -1,0 +1,23 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-28T08:24:38.40338Z,feraterra-wire,4.9.5,0,0,https://github.com/FeraTerra/feraterra-sdk,Zero-dependency #![no_std] 64-byte big-endian ArenaWire & ArenaITCH HFT codec with dual SipHash-2-4 MACs for FeraTerra
+2026-11-28T08:27:46.021478Z,arks-refs,0.1.0,0,0,https://github.com/modootoday/arks,"Git refs: refnames, loose/packed-refs, HEAD/symref, L0 locks"
+2026-11-28T08:32:47.916199Z,graphrt-memory,0.6.4,0,0,https://github.com/Graphrt/graphrt,"Long term memory for graphrt agents: notes per tenant, agent and user, a write gate against secrets and planted text, keyword and optional semantic recall, files only."
+2026-11-28T08:37:01.12826Z,liquid-glass,0.1.0,0,0,https://github.com/edsonayllon/liquid-glass,"Native macOS Liquid Glass UI elements (NSGlassEffectView, glass buttons) for any Rust window via raw-window-handle"
+2026-11-28T08:39:49.092847Z,arks-agent,0.1.0,0,0,https://github.com/modootoday/arks,LLM review / CEV bot surface for arks (library; entered via `arks agent`)
+2026-11-28T08:40:32.317122Z,karyos-driver,0.1.0-alpha.4,0,0,https://github.com/quantstratum/karyos,"Driver conductor, sender, receiver, flow control and path arbitration."
+2026-11-28T08:41:05.332232Z,arks-pack,0.1.0,0,0,https://github.com/modootoday/arks,Git pack and idx version 2 encode/decode for the claimed subset
+2026-11-28T08:49:03.853392Z,mozaic-autonodes,0.1.0,0,0,https://github.com/amogado/mozaic-autonodes,Moteur de workflows compatible avec le format d'export n8n : plugin mozaic (type synchronise) et serveur MCP stdio
+2026-11-28T08:49:13.475866Z,spdpac,0.1.1,0,0,https://codeberg.org/NTeditor/spdpac,Utility for unpacking Spreadtrum firmware pac archives
+2026-11-28T08:55:22.737538Z,nativelang-classify,0.2.0,0,0,https://github.com/nativelang/classify,Classify text locally using categories you choose
+2026-11-28T08:57:04.585703Z,arks-store,0.1.0,0,0,https://github.com/modootoday/arks,Git-first object-store facade (put/get/exists)
+2026-11-28T08:59:13.376816Z,commentate,0.1.0,0,0,https://github.com/MadAvidCoder/commentator,A small program to provide live (and somewhat irritating) commentary on your terminal commands!
+2026-11-28T09:00:44.696895Z,arks-lease,0.1.0,0,0,https://github.com/modootoday/arks,Default product lease runtime (L1/L2) + L3 claimed-shape + M26 shared-index path
+2026-11-28T09:01:51.787599Z,jelly_physics,0.1.0,0,0,https://github.com/setanarut/jelly_physics,2D soft body physics engine based on point masses
+2026-11-28T09:03:13.180197Z,trust-but-verify,0.1.0,0,0,https://github.com/nikomatsakis/habeas-codicem,Build source-code checks that track the evidence behind each result
+2026-11-28T09:03:16.880781Z,pekv,0.1.0,0,0,https://github.com/shavac/pekv,"Protocol-agnostic hierarchical KV storage, ACL permission engine, lease lifecycle, and revision-based watch bus"
+2026-11-28T09:10:12.67121Z,rame,0.0.0,0,0,https://github.com/YanAndFish/rame,"Placeholder for the rame project, a Rust web toolkit built on Loco and SeaORM. Not usable yet."
+2026-11-28T09:10:16.104849Z,rame-macros,0.0.0,0,0,https://github.com/YanAndFish/rame,"Placeholder for the rame project, a Rust web toolkit built on Loco and SeaORM. Not usable yet."
+2026-11-28T09:10:19.395434Z,rame-core,0.0.0,0,0,https://github.com/YanAndFish/rame,"Placeholder for the rame project, a Rust web toolkit built on Loco and SeaORM. Not usable yet."
+2026-11-28T09:10:22.632653Z,rame-orm,0.0.0,0,0,https://github.com/YanAndFish/rame,"Placeholder for the rame project, a Rust web toolkit built on Loco and SeaORM. Not usable yet."
+2026-11-28T09:10:26.068717Z,cargo-rame,0.0.0,0,0,https://github.com/YanAndFish/rame,"Placeholder for the rame project, a Rust web toolkit built on Loco and SeaORM. Not usable yet."
+2026-11-28T09:10:43.594171Z,arks-repo,0.1.0,0,0,https://github.com/modootoday/arks,Repository discovery/layout; composes store + refs
