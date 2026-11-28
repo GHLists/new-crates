@@ -8,59 +8,57 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-28 07:21 UTC
+## Latest list — 2026-11-28 08:19 UTC
 
-New crates published between 2026-11-28 06:20 UTC and 2026-11-28 07:21 UTC.
+New crates published between 2026-11-28 07:21 UTC and 2026-11-28 08:19 UTC.
 
-[Full CSV](data/new-crates-2026-11-28T07-21-23-988495Z.csv)
+[Full CSV](data/new-crates-2026-11-28T08-19-02-802763Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-28 06:24:22 | [sdmmc-async](https://crates.io/crates/sdmmc-async) | 0.1.0 | 0 | An async, no_std, no-alloc SD card stack: an SPI-mode card driver and read-only… |
-| 2026-11-28 06:25:04 | [greennode-sdk](https://crates.io/crates/greennode-sdk) | 0.1.0 | 0 | Unofficial Rust SDK for the GreenNode API |
-| 2026-11-28 06:25:28 | [greennode](https://crates.io/crates/greennode) | 0.1.0 | 0 | Unofficial AWS-style command-line tool for GreenNode, formerly VNG Cloud |
-| 2026-11-28 06:35:42 | [zerocpu](https://crates.io/crates/zerocpu) | 0.9.1 | 0 | Deterministic integer kernels for ultragraph: Q16.16, 5-trit packing, NEON dot. |
-| 2026-11-28 06:35:50 | [ospop-core](https://crates.io/crates/ospop-core) | 1.3.0 | 0 | Zero-unsafe Rust primitives for Omnispherepop weight programming: 1.58-bit tern… |
-| 2026-11-28 06:36:01 | [ospop-academy](https://crates.io/crates/ospop-academy) | 1.3.0 | 0 | Interactive 17-lesson weight-programming curriculum with real observed tensor c… |
-| 2026-11-28 06:36:05 | [ospop-runtime](https://crates.io/crates/ospop-runtime) | 1.3.0 | 0 | Unified typed Program & Runtime::execute engine for Omnispherepop CLI, MCP, and… |
-| 2026-11-28 06:36:09 | [ospop-cli](https://crates.io/crates/ospop-cli) | 1.3.0 | 0 | Omnispherepop CLI (`ospop`): 1.58-bit ternary PTQ, 1D/2D Walsh-Hadamard, stacka… |
-| 2026-11-28 06:39:49 | [ospop-mcp](https://crates.io/crates/ospop-mcp) | 1.3.0 | 0 | Omnispherepop 12-tool stdio MCP server (`ospop-mcp`) for AI agent weight progra… |
-| 2026-11-28 06:40:21 | [rouge-webview](https://crates.io/crates/rouge-webview) | 0.7.0 | 0 | System web views placed by Rouge layout: WKWebView, WebKitGTK, Android WebView… |
-| 2026-11-28 06:40:40 | [rawmocs](https://crates.io/crates/rawmocs) | 0.4.0-rc.1 | 0 | Native full signed-complex weighted model counting |
-| 2026-11-28 06:42:34 | [munin-mcp](https://crates.io/crates/munin-mcp) | 0.2.5 | 0 | Local memory for AI coding agents: an MCP server and a CLI over one SQLite file |
-| 2026-11-28 06:45:05 | [kastron-macros](https://crates.io/crates/kastron-macros) | 0.1.0 | 0 | Procedural macros for the Kastron HTTP API framework |
-| 2026-11-28 06:46:00 | [kastron](https://crates.io/crates/kastron) | 0.1.0 | 0 | Security-first modular HTTP API framework built on Axum and Hyper |
-| 2026-11-28 06:46:54 | [kastron-plugin-ipc](https://crates.io/crates/kastron-plugin-ipc) | 0.1.0 | 0 | Out-of-process sandboxed plugin IPC protocol, transport, and sidecar runtime fo… |
-| 2026-11-28 06:48:57 | [kastron-plugin-wasm](https://crates.io/crates/kastron-plugin-wasm) | 0.1.0 | 0 | Zero-unsafe stateless WebAssembly Component isolation runtime for Kastron plugi… |
-| 2026-11-28 06:50:02 | [kastron-cluster](https://crates.io/crates/kastron-cluster) | 0.1.0 | 0 | Managed Master/Worker reverse-tunnel cluster identity, protocol, and non-blocki… |
-| 2026-11-28 06:51:25 | [sc-format](https://crates.io/crates/sc-format) | 0.12.0 | 0 | Zero-dependency byte signature probing for SimCity asset formats |
-| 2026-11-28 06:51:30 | [dbpf](https://crates.io/crates/dbpf) | 0.12.0 | 0 | DBPF (.package) container format: header, index, RefPack decompression |
-| 2026-11-28 06:51:45 | [rw4](https://crates.io/crates/rw4) | 0.12.0 | 0 | RenderWare4 (RW4) resource parsing: models, meshes, textures, skeletons, animat… |
-| 2026-11-28 06:52:05 | [sc-properties](https://crates.io/crates/sc-properties) | 0.12.0 | 0 | SimCity property-list (0x00b1b104) resource parsing, asset aggregation and loca… |
-| 2026-11-28 06:52:31 | [openscp-sdk](https://crates.io/crates/openscp-sdk) | 0.1.0 | 0 | Host-independent Rust SDK for SimCity package and resource formats |
-| 2026-11-28 06:54:56 | [command-seam](https://crates.io/crates/command-seam) | 0.15.0 | 0 | A seam for running child processes: a runner trait, a std::process runner with… |
-| 2026-11-28 06:55:06 | [finding-formats](https://crates.io/crates/finding-formats) | 0.1.0 | 0 | Reads common tool output (line-oriented text, SARIF 2.1.0, JUnit XML, lcov) int… |
-| 2026-11-28 06:55:19 | [osdlc-cli-tool](https://crates.io/crates/osdlc-cli-tool) | 0.22.0 | 0 | The groundwork a standalone CLI needs, over clap: an output seam, an injectable… |
-| 2026-11-28 06:55:26 | [trust-repo](https://crates.io/crates/trust-repo) | 0.5.0 | 0 | Per-user consent to run a repository's own scripts: a store of marker files, on… |
-| 2026-11-28 06:57:09 | [kastron-pilot-hx](https://crates.io/crates/kastron-pilot-hx) | 0.1.0 | 0 | Kastron single-node SQLite WAL narrow storage and dual-factor API Key + TOTP au… |
-| 2026-11-28 06:58:00 | [open-max-core](https://crates.io/crates/open-max-core) | 2026.11.6 | 0 | Open Max core: agent harness and native process supervision |
-| 2026-11-28 06:58:40 | [openmax](https://crates.io/crates/openmax) | 2026.11.6 | 0 | A high-performance, self-extensible coding agent harness in Rust, optimized for… |
-| 2026-11-28 07:00:10 | [hc-internal](https://crates.io/crates/hc-internal) | 1.2.0 | 0 | Shared walker, search, printer, regex, encoding, and filesystem helpers for hrg… |
-| 2026-11-28 07:00:32 | [hfd](https://crates.io/crates/hfd) | 1.2.0 | 0 | find and fd compatible file walker, installed as hfd and hfind |
-| 2026-11-28 07:00:43 | [hrg](https://crates.io/crates/hrg) | 1.2.0 | 0 | GNU grep and ripgrep compatible searcher, installed as hrg, hgrep, and hg |
-| 2026-11-28 07:07:55 | [kastron-deploy](https://crates.io/crates/kastron-deploy) | 0.1.0 | 0 | Signed remote WASM Component deployment, independent local trust root, capabili… |
-| 2026-11-28 07:09:26 | [moatless-types](https://crates.io/crates/moatless-types) | 0.1.0 | 0 | Shared type definitions for Moatless |
-| 2026-11-28 07:09:28 | [moatless-workspace-types](https://crates.io/crates/moatless-workspace-types) | 0.1.0 | 0 | Workspace domain values and optional wire contracts |
-| 2026-11-28 07:09:29 | [sandbox-proto](https://crates.io/crates/sandbox-proto) | 0.1.0 | 0 | gRPC proto definitions for sandbox ↔ backend communication |
-| 2026-11-28 07:09:30 | [moatless-api-schemas](https://crates.io/crates/moatless-api-schemas) | 0.1.0 | 0 | Shared API request/response types for backend and CLI |
-| 2026-11-28 07:09:32 | [moatless-api-client](https://crates.io/crates/moatless-api-client) | 0.1.0 | 0 | Rust HTTP client for the Moatless API |
-| 2026-11-28 07:12:59 | [koshr](https://crates.io/crates/koshr) | 0.1.0 | 0 | koshr: a git-compatible, self-hostable code store with signed, verified history |
-| 2026-11-28 07:14:13 | [lilyco-webchat-core](https://crates.io/crates/lilyco-webchat-core) | 0.3.0 | 0 | Reusable browser-to-CLI/OpenAI/MCP core for Lilyco web-AI tools (lchatgpt, ldee… |
-| 2026-11-28 07:15:46 | [lilyco-deepseek](https://crates.io/crates/lilyco-deepseek) | 0.3.0 | 0 | ldeepseek — Drive chat.deepseek.com from CLI / TUI / Web / MCP / OpenAI-compati… |
-| 2026-11-28 07:16:01 | [lilyco-chatgpt](https://crates.io/crates/lilyco-chatgpt) | 0.3.0 | 0 | lchatgpt — 把 chatgpt.com 账号后端写成 CLI：会话历史只读查询 + codex responses 提问，四端 (CLI / TUI… |
-| 2026-11-28 07:16:14 | [lilyco-codearts](https://crates.io/crates/lilyco-codearts) | 0.3.0 | 0 | lcodearts — 华为云码道（CodeArts Agent）账号后端：模型清单 / OpenAI 兼容网关 / 积分查询 / 每日签到，四端 (CLI… |
-| 2026-11-28 07:19:21 | [kastron-config](https://crates.io/crates/kastron-config) | 0.1.0 | 0 | Unified TOML, JSON, and environment variable configuration loader and validator… |
-| 2026-11-28 07:20:50 | [gema-jpx](https://crates.io/crates/gema-jpx) | 0.12.0 | 0 | Scoped, dependency-free JPEG 2000 decoder |
+| 2026-11-28 07:25:40 | [grft-core](https://crates.io/crates/grft-core) | 0.1.0 | 0 | The git library behind grft. |
+| 2026-11-28 07:25:43 | [grft](https://crates.io/crates/grft) | 0.1.0 | 0 | A git-compatible command line, built on the grft libraries. |
+| 2026-11-28 07:26:55 | [brynja-legacy-hkdf](https://crates.io/crates/brynja-legacy-hkdf) | 0.1.0 | 0 | Explicit legacy-only HKDF-SHA-1 compatibility |
+| 2026-11-28 07:28:35 | [brynja-cipher-chacha](https://crates.io/crates/brynja-cipher-chacha) | 0.1.0 | 0 | Portable no_std RFC 8439 ChaCha20 stream cipher for Brynja |
+| 2026-11-28 07:29:26 | [brynja-cipher-aes](https://crates.io/crates/brynja-cipher-aes) | 0.1.0 | 0 | Opt-in no_std AES block cipher and explicit execution owners for Brynja |
+| 2026-11-28 07:30:30 | [brynja-universal-hash-ghash](https://crates.io/crates/brynja-universal-hash-ghash) | 0.1.0 | 0 | Opt-in no_std GHASH over framed blocks for Brynja |
+| 2026-11-28 07:31:39 | [xorevia-acme](https://crates.io/crates/xorevia-acme) | 0.0.1-alpha.1 | 0 | 自研 ACME 客户端：多 CA 厂商、DNS-01 / HTTP-01 / TLS-ALPN-01 / 自定义头验证、证书存储与续期 |
+| 2026-11-28 07:31:54 | [xorevia-core](https://crates.io/crates/xorevia-core) | 0.0.1-alpha.1 | 0 | Xorevia 报文内核与跨层共享类型：HTTP/1.1 解析/序列化、错误模型、内部工具、连接上下文 |
+| 2026-11-28 07:32:01 | [xorevia-regex](https://crates.io/crates/xorevia-regex) | 0.0.1-alpha.1 | 0 | 零依赖回溯式正则引擎：nginx 配置层用到的 PCRE 子集 |
+| 2026-11-28 07:32:17 | [xorevia-cli](https://crates.io/crates/xorevia-cli) | 0.0.1-alpha.1 | 0 | Xorevia 统一包管理 CLI：add / update / remove / list 语言包、CA、DNS 适配器与 ACME 扩展 |
+| 2026-11-28 07:32:31 | [xorevia-empty-gif](https://crates.io/crates/xorevia-empty-gif) | 0.0.1-alpha.1 | 0 | Xorevia 组件：1×1 透明 GIF 响应（Nginx ngx_http_empty_gif_module 的等价物） |
+| 2026-11-28 07:32:54 | [tilo-action-calls](https://crates.io/crates/tilo-action-calls) | 0.5.3 | 0 | Answering action calls against a provider: serving each request a peer sends, h… |
+| 2026-11-28 07:33:08 | [tilo-ui-app](https://crates.io/crates/tilo-ui-app) | 0.5.3 | 0 | The Tilo UI app runner: the App that drives a widget tree in a window, its head… |
+| 2026-11-28 07:34:02 | [tilo-os-release](https://crates.io/crates/tilo-os-release) | 0.5.3 | 0 | The os-release format, read strictly: the shell-like assignments /etc/os-releas… |
+| 2026-11-28 07:34:46 | [xorevia-h2](https://crates.io/crates/xorevia-h2) | 0.0.1-alpha.1 | 0 | Xorevia 的 HTTP/2 协议层（自研帧层与 HPACK 头部压缩，未接入门面，属进行中组件） |
+| 2026-11-28 07:38:30 | [moatless-cli](https://crates.io/crates/moatless-cli) | 0.1.0 | 0 | Command-line interface for Moatless coding agents and sandboxes |
+| 2026-11-28 07:41:51 | [brynja-aead-gcm](https://crates.io/crates/brynja-aead-gcm) | 0.1.0 | 0 | Opt-in no_std AES-GCM authenticated encryption and GMAC authentication |
+| 2026-11-28 07:44:10 | [czarlib](https://crates.io/crates/czarlib) | 0.17.1 | 0 | C language bindings for zarlib |
+| 2026-11-28 07:45:03 | [zarmcp](https://crates.io/crates/zarmcp) | 0.17.1 | 0 | Model Context Protocol server for ZAR archives |
+| 2026-11-28 07:47:18 | [expanse-kv-core](https://crates.io/crates/expanse-kv-core) | 0.0.0 | 0 | RESP2/RESP3 wire codec and order-preserving key codecs for expanse-kv (no_std +… |
+| 2026-11-28 07:47:39 | [expanse-kv-engine](https://crates.io/crates/expanse-kv-engine) | 0.0.0 | 0 | In-memory storage engine for expanse-kv on expanse-trie: typed operations, expi… |
+| 2026-11-28 07:47:41 | [expanse-kv-persist](https://crates.io/crates/expanse-kv-persist) | 0.0.0 | 0 | Append-only log and snapshot persistence for expanse-kv |
+| 2026-11-28 07:48:25 | [arks-config](https://crates.io/crates/arks-config) | 0.1.0 | 0 | Git config read-side: parse, merged precedence, identity |
+| 2026-11-28 07:48:42 | [arks-hash](https://crates.io/crates/arks-hash) | 0.1.0 | 0 | In-engine Git object-format hashing (SHA-1-CD / SHA-256) |
+| 2026-11-28 07:49:00 | [arks-hostfs](https://crates.io/crates/arks-hostfs) | 0.1.0 | 0 | Host FS honesty helpers — DriveFS / OneDrive CfAPI / sync-root detect (advisory) |
+| 2026-11-28 07:49:00 | [xorevia-handler](https://crates.io/crates/xorevia-handler) | 0.0.1-alpha.1 | 0 | Xorevia 处理器层：Handler trait、impl_handler! 元组实现、ErasedHandler 与内置提取器 |
+| 2026-11-28 07:49:17 | [arks-oid](https://crates.io/crates/arks-oid) | 0.1.0 | 0 | Git object ID (OID) newtype: parse, format, compare |
+| 2026-11-28 07:49:34 | [arks-protocol](https://crates.io/crates/arks-protocol) | 0.1.0 | 0 | pkt-line framing and capability string helpers |
+| 2026-11-28 07:51:08 | [arks-index](https://crates.io/crates/arks-index) | 0.1.0 | 0 | Git index file (gitformat-index) read/write for claimed versions |
+| 2026-11-28 07:59:36 | [xorevia-middleware](https://crates.io/crates/xorevia-middleware) | 0.0.1-alpha.1 | 0 | Xorevia 中间件链内核：Middleware / Next / Endpoint / map_request\|map_response / middle… |
+| 2026-11-28 08:00:48 | [arks-net](https://crates.io/crates/arks-net) | 0.1.0 | 0 | HTTPS client policy: operator CA trust anchors + proxy (shared by remote and hu… |
+| 2026-11-28 08:06:10 | [rca](https://crates.io/crates/rca) | 0.0.1 | 0 | Rust Composable Architecture preview with owned state snapshots |
+| 2026-11-28 08:06:12 | [rust-composable-architecture](https://crates.io/crates/rust-composable-architecture) | 0.0.1 | 0 | Re-exports the Rust Composable Architecture preview from rca |
+| 2026-11-28 08:11:07 | [arks-object](https://crates.io/crates/arks-object) | 0.1.0 | 0 | Loose Git object encode/decode for claimed object kinds |
+| 2026-11-28 08:11:26 | [xorevia-sse](https://crates.io/crates/xorevia-sse) | 0.0.1-alpha.1 | 0 | Xorevia 组件：Server-Sent Events（事件序列化 + 有界背压发送端） |
+| 2026-11-28 08:16:49 | [html2feed](https://crates.io/crates/html2feed) | 0.1.0 | 0 | Turn any URL into an RSS feed |
+| 2026-11-28 08:16:51 | [html2feed-cli](https://crates.io/crates/html2feed-cli) | 0.1.0 | 0 | Turn any URL into an RSS feed |
+| 2026-11-28 08:17:36 | [funshell-core](https://crates.io/crates/funshell-core) | 0.1.0 | 0 | Core shell command execution, port/process discovery, and process termination e… |
+| 2026-11-28 08:17:40 | [funshell](https://crates.io/crates/funshell) | 2.0.0 | 0 | Cross-platform shell execution and port/process query & kill CLI |
+| 2026-11-28 08:17:43 | [funpub-core](https://crates.io/crates/funpub-core) | 0.1.0 | 0 | Core multi-channel artifact publishing engine for funpub |
+| 2026-11-28 08:17:47 | [funpub](https://crates.io/crates/funpub) | 0.2.0 | 0 | Multi-channel artifact publishing CLI |
+| 2026-11-28 08:17:50 | [funmirror-core](https://crates.io/crates/funmirror-core) | 0.1.0 | 0 | Async repository and release mirroring engine across GitHub, Gitee, GitLab, and… |
+| 2026-11-28 08:18:51 | [funmirror](https://crates.io/crates/funmirror) | 0.7.0 | 0 | Mirror git repositories and releases between GitHub, Gitee, GitLab, and GitCode |
 
 ## Data source
 

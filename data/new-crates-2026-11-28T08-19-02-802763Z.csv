@@ -1,0 +1,44 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-28T07:25:40.962415Z,grft-core,0.1.0,0,0,https://github.com/kryptic-sh/grft,The git library behind grft.
+2026-11-28T07:25:43.374427Z,grft,0.1.0,0,0,https://github.com/kryptic-sh/grft,"A git-compatible command line, built on the grft libraries."
+2026-11-28T07:26:55.336013Z,brynja-legacy-hkdf,0.1.0,0,0,https://github.com/valkyoth/brynja,Explicit legacy-only HKDF-SHA-1 compatibility
+2026-11-28T07:28:35.952859Z,brynja-cipher-chacha,0.1.0,0,0,https://github.com/valkyoth/brynja,Portable no_std RFC 8439 ChaCha20 stream cipher for Brynja
+2026-11-28T07:29:26.027487Z,brynja-cipher-aes,0.1.0,0,0,https://github.com/valkyoth/brynja,Opt-in no_std AES block cipher and explicit execution owners for Brynja
+2026-11-28T07:30:30.20598Z,brynja-universal-hash-ghash,0.1.0,0,0,https://github.com/valkyoth/brynja,Opt-in no_std GHASH over framed blocks for Brynja
+2026-11-28T07:31:39.527254Z,xorevia-acme,0.0.1-alpha.1,0,0,,自研 ACME 客户端：多 CA 厂商、DNS-01 / HTTP-01 / TLS-ALPN-01 / 自定义头验证、证书存储与续期
+2026-11-28T07:31:54.246058Z,xorevia-core,0.0.1-alpha.1,0,0,,Xorevia 报文内核与跨层共享类型：HTTP/1.1 解析/序列化、错误模型、内部工具、连接上下文
+2026-11-28T07:32:01.118216Z,xorevia-regex,0.0.1-alpha.1,0,0,,零依赖回溯式正则引擎：nginx 配置层用到的 PCRE 子集
+2026-11-28T07:32:17.53527Z,xorevia-cli,0.0.1-alpha.1,0,0,,Xorevia 统一包管理 CLI：add / update / remove / list 语言包、CA、DNS 适配器与 ACME 扩展
+2026-11-28T07:32:31.420897Z,xorevia-empty-gif,0.0.1-alpha.1,0,0,,Xorevia 组件：1×1 透明 GIF 响应（Nginx ngx_http_empty_gif_module 的等价物）
+2026-11-28T07:32:54.657727Z,tilo-action-calls,0.5.3,0,0,https://code.tilo.so/tilo/tilo,"Answering action calls against a provider: serving each request a peer sends, holding the answers that wait for an invocation to move, and the log that runs each invocation once."
+2026-11-28T07:33:08.140358Z,tilo-ui-app,0.5.3,0,0,https://code.tilo.so/tilo/tilo,"The Tilo UI app runner: the App that drives a widget tree in a window, its headless driver, launch, the action palette and frame profiling, over the tilo-ui toolkit."
+2026-11-28T07:34:02.551128Z,tilo-os-release,0.5.3,0,0,https://code.tilo.so/tilo/tilo,"The os-release format, read strictly: the shell-like assignments /etc/os-release and extension-release files are written in."
+2026-11-28T07:34:46.043914Z,xorevia-h2,0.0.1-alpha.1,0,0,,Xorevia 的 HTTP/2 协议层（自研帧层与 HPACK 头部压缩，未接入门面，属进行中组件）
+2026-11-28T07:38:30.795279Z,moatless-cli,0.1.0,0,0,https://github.com/aorwall/moatless,Command-line interface for Moatless coding agents and sandboxes
+2026-11-28T07:41:51.373244Z,brynja-aead-gcm,0.1.0,0,0,https://github.com/valkyoth/brynja,Opt-in no_std AES-GCM authenticated encryption and GMAC authentication
+2026-11-28T07:44:10.131457Z,czarlib,0.17.1,0,0,https://github.com/brmmm3/zar-rs,C language bindings for zarlib
+2026-11-28T07:45:03.829987Z,zarmcp,0.17.1,0,0,https://github.com/brmmm3/zar-rs,Model Context Protocol server for ZAR archives
+2026-11-28T07:47:18.303409Z,expanse-kv-core,0.0.0,0,0,https://github.com/orieg/expanse-kv,RESP2/RESP3 wire codec and order-preserving key codecs for expanse-kv (no_std + alloc)
+2026-11-28T07:47:39.433821Z,expanse-kv-engine,0.0.0,0,0,https://github.com/orieg/expanse-kv,"In-memory storage engine for expanse-kv on expanse-trie: typed operations, expiry, eviction, memory accounting"
+2026-11-28T07:47:41.735646Z,expanse-kv-persist,0.0.0,0,0,https://github.com/orieg/expanse-kv,Append-only log and snapshot persistence for expanse-kv
+2026-11-28T07:48:25.284024Z,arks-config,0.1.0,0,0,https://github.com/modootoday/arks,"Git config read-side: parse, merged precedence, identity"
+2026-11-28T07:48:42.667696Z,arks-hash,0.1.0,0,0,https://github.com/modootoday/arks,In-engine Git object-format hashing (SHA-1-CD / SHA-256)
+2026-11-28T07:49:00.592672Z,arks-hostfs,0.1.0,0,0,https://github.com/modootoday/arks,Host FS honesty helpers — DriveFS / OneDrive CfAPI / sync-root detect (advisory)
+2026-11-28T07:49:00.850223Z,xorevia-handler,0.0.1-alpha.1,0,0,,Xorevia 处理器层：Handler trait、impl_handler! 元组实现、ErasedHandler 与内置提取器
+2026-11-28T07:49:17.78784Z,arks-oid,0.1.0,0,0,https://github.com/modootoday/arks,"Git object ID (OID) newtype: parse, format, compare"
+2026-11-28T07:49:34.969015Z,arks-protocol,0.1.0,0,0,https://github.com/modootoday/arks,pkt-line framing and capability string helpers
+2026-11-28T07:51:08.01179Z,arks-index,0.1.0,0,0,https://github.com/modootoday/arks,Git index file (gitformat-index) read/write for claimed versions
+2026-11-28T07:59:36.968805Z,xorevia-middleware,0.0.1-alpha.1,0,0,,Xorevia 中间件链内核：Middleware / Next / Endpoint / map_request|map_response / middleware_fn!
+2026-11-28T08:00:48.573245Z,arks-net,0.1.0,0,0,https://github.com/modootoday/arks,HTTPS client policy: operator CA trust anchors + proxy (shared by remote and hub)
+2026-11-28T08:06:10.023328Z,rca,0.0.1,0,0,https://github.com/jacobcxdev/rust-composable-architecture,Rust Composable Architecture preview with owned state snapshots
+2026-11-28T08:06:12.311236Z,rust-composable-architecture,0.0.1,0,0,https://github.com/jacobcxdev/rust-composable-architecture,Re-exports the Rust Composable Architecture preview from rca
+2026-11-28T08:11:07.446232Z,arks-object,0.1.0,0,0,https://github.com/modootoday/arks,Loose Git object encode/decode for claimed object kinds
+2026-11-28T08:11:26.052824Z,xorevia-sse,0.0.1-alpha.1,0,0,,Xorevia 组件：Server-Sent Events（事件序列化 + 有界背压发送端）
+2026-11-28T08:16:49.263077Z,html2feed,0.1.0,0,0,https://github.com/gordonbrander/html2feed,Turn any URL into an RSS feed
+2026-11-28T08:16:51.383455Z,html2feed-cli,0.1.0,0,0,https://github.com/gordonbrander/html2feed,Turn any URL into an RSS feed
+2026-11-28T08:17:36.195821Z,funshell-core,0.1.0,0,0,https://github.com/farfarfun/funshell,"Core shell command execution, port/process discovery, and process termination engine for funshell"
+2026-11-28T08:17:40.441477Z,funshell,2.0.0,0,0,https://github.com/farfarfun/funshell,Cross-platform shell execution and port/process query & kill CLI
+2026-11-28T08:17:43.44645Z,funpub-core,0.1.0,0,0,https://github.com/farfarfun/funpub,Core multi-channel artifact publishing engine for funpub
+2026-11-28T08:17:47.986707Z,funpub,0.2.0,0,0,https://github.com/farfarfun/funpub,Multi-channel artifact publishing CLI
+2026-11-28T08:17:50.939735Z,funmirror-core,0.1.0,0,0,https://github.com/farfarfun/funmirror,"Async repository and release mirroring engine across GitHub, Gitee, GitLab, and GitCode"
+2026-11-28T08:18:51.328834Z,funmirror,0.7.0,0,0,https://github.com/farfarfun/funmirror,"Mirror git repositories and releases between GitHub, Gitee, GitLab, and GitCode"
