@@ -8,37 +8,36 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-28 02:22 UTC
+## Latest list — 2026-11-28 03:18 UTC
 
-New crates published between 2026-11-28 01:20 UTC and 2026-11-28 02:22 UTC.
+New crates published between 2026-11-28 02:22 UTC and 2026-11-28 03:18 UTC.
 
-[Full CSV](data/new-crates-2026-11-28T02-22-14-72248Z.csv)
+[Full CSV](data/new-crates-2026-11-28T03-18-59-514743Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-28 01:21:37 | [mcp-backbone](https://crates.io/crates/mcp-backbone) | 0.1.2 | 0 | Backbone for remote MCP servers that act as a user's account: OAuth 2.1, a perm… |
-| 2026-11-28 01:22:09 | [rentnerproxy-artifacts](https://crates.io/crates/rentnerproxy-artifacts) | 1.0.0 | 0 | Bounded JSON, file and stream helpers for verifying RentnerProxy app artifacts |
-| 2026-11-28 01:22:34 | [rentnerproxy-app-contracts](https://crates.io/crates/rentnerproxy-app-contracts) | 1.0.0 | 0 | Versioned RentnerProxy app contract types and offline validators |
-| 2026-11-28 01:22:51 | [rentnerproxy-app-catalog](https://crates.io/crates/rentnerproxy-app-catalog) | 1.0.0 | 0 | Verify and update signed RentnerProxy app catalogs |
-| 2026-11-28 01:23:03 | [rentnerproxy-app-pipeline](https://crates.io/crates/rentnerproxy-app-pipeline) | 1.0.0 | 0 | Package, evidence and smoke-probe operations for RentnerProxy app releases |
-| 2026-11-28 01:23:56 | [lockpick-engine](https://crates.io/crates/lockpick-engine) | 0.1.0 | 0 | Lockpick scanning engine: finds, proves and fixes security holes in AI-built ap… |
-| 2026-11-28 01:23:58 | [lockpick-cli](https://crates.io/crates/lockpick-cli) | 0.1.0 | 0 | We pick your app's locks before attackers do. Security scanner for AI-built app… |
-| 2026-11-28 01:24:35 | [ide](https://crates.io/crates/ide) | 0.1.1 | 0 | Keyboard-only terminal workspace: your editor, git UI, dev servers and shells a… |
-| 2026-11-28 01:27:46 | [epistemologicant-record](https://crates.io/crates/epistemologicant-record) | 0.0.8 | 0 | Source record: per-source, per-topic reliability from observed outcomes, shrunk… |
-| 2026-11-28 01:30:31 | [crisol-core](https://crates.io/crates/crisol-core) | 1.0.0 | 0 | Crisol core: an egui-free data model, themes, metrics, localization, commands,… |
-| 2026-11-28 01:33:58 | [muss-core](https://crates.io/crates/muss-core) | 0.1.0 | 0 | Shared Microsoft 365 primitives for the muss workspace: tenant identity, creden… |
-| 2026-11-28 01:34:24 | [muss-teams](https://crates.io/crates/muss-teams) | 0.1.0 | 0 | An approachable, framework-neutral Microsoft Teams SDK for Rust: authenticated… |
-| 2026-11-28 01:34:38 | [muss-teams-cli](https://crates.io/crates/muss-teams-cli) | 0.1.0 | 0 | Optional companion command-line tool for the muss-teams SDK: scaffold a project… |
-| 2026-11-28 01:37:23 | [bengara-macros](https://crates.io/crates/bengara-macros) | 0.1.0-alpha.1 | 0 | bengara の手続きマクロ（#[bengara::test] など） |
-| 2026-11-28 01:37:25 | [bengara-build](https://crates.io/crates/bengara-build) | 0.1.0-alpha.1 | 0 | bengara の build.rs 用。Laravel と同じ名前のファイルを自動検出してモジュール宣言を生成する（依存クレートなし） |
-| 2026-11-28 01:37:46 | [bengara](https://crates.io/crates/bengara) | 0.1.0-alpha.1 | 0 | Laravel の構成とそのままの書き味で使える Rust 製 Web アプリケーションフレームワーク |
-| 2026-11-28 01:50:43 | [japka](https://crates.io/crates/japka) | 0.1.1 | 0 | HTTP reverse proxy, load balancer and static file server |
-| 2026-11-28 02:02:02 | [agent-hub-fonts](https://crates.io/crates/agent-hub-fonts) | 0.2.0 | 0 | Versioned AgentHub SDK build resources |
-| 2026-11-28 02:02:06 | [agent-hub-desktop](https://crates.io/crates/agent-hub-desktop) | 0.2.0 | 0 | Versioned AgentHub SDK build resources |
-| 2026-11-28 02:04:58 | [elfldr](https://crates.io/crates/elfldr) | 0.0.0 | 0 | no_std loader for static ELF executables, for kernels (in development) |
-| 2026-11-28 02:09:10 | [speedyspec-wp-options-contracts](https://crates.io/crates/speedyspec-wp-options-contracts) | 0.1.0 | 0 | WordPress's options API contracts: the option API other seams call, its errors… |
-| 2026-11-28 02:16:03 | [yar-rs](https://crates.io/crates/yar-rs) | 0.1.0 | 0 | Rust implementation of the Yar RPC framework |
-| 2026-11-28 02:19:21 | [sunaba](https://crates.io/crates/sunaba) | 0.1.0 | 0 | A process's sandbox: on Linux, Landlock and seccomp-bpf, and on macOS, Seatbelt… |
+| 2026-11-28 02:22:40 | [spinule](https://crates.io/crates/spinule) | 0.0.0 | 0 | Empty initial release of Spinule, generic atomic operations for Rust. |
+| 2026-11-28 02:22:49 | [achene](https://crates.io/crates/achene) | 0.0.0 | 0 | Empty initial release of Achene, type-based allocation for Rust. |
+| 2026-11-28 02:25:21 | [voltrs-macros](https://crates.io/crates/voltrs-macros) | 0.0.2 | 0 | Procedural macros for volt.rs |
+| 2026-11-28 02:25:52 | [dftxclib](https://crates.io/crates/dftxclib) | 0.1.0 | 0 | Rust translation of DFTxclib.F: LDA/GGA exchange-correlation functionals from t… |
+| 2026-11-28 02:26:07 | [voltrs](https://crates.io/crates/voltrs) | 0.0.2 | 0 | Rust runtime for volt.rs: SSR, server actions, loaders and API routes for React… |
+| 2026-11-28 02:28:04 | [voltrs-cli](https://crates.io/crates/voltrs-cli) | 0.0.2 | 0 | The volt command: dev server, bundler and build tool for volt.rs apps |
+| 2026-11-28 02:37:56 | [hostnet](https://crates.io/crates/hostnet) | 0.1.0 | 0 | The network settings of a host on Linux, Android, the Apple systems, FreeBSD, N… |
+| 2026-11-28 02:45:18 | [courier_plugin_contract](https://crates.io/crates/courier_plugin_contract) | 0.0.1 | 0 | Plugin contract for project |
+| 2026-11-28 02:46:10 | [devbox-core](https://crates.io/crates/devbox-core) | 0.1.0 | 0 | Configuration, Incus client and the plan/apply engine behind the devbox CLI |
+| 2026-11-28 02:46:12 | [devbox-context](https://crates.io/crates/devbox-context) | 0.1.0 | 0 | Developer context for AI agents, generated by devbox |
+| 2026-11-28 02:46:12 | [devbox-sync](https://crates.io/crates/devbox-sync) | 0.1.0 | 0 | Repository sync for devbox: every GitHub repo current, never losing local work |
+| 2026-11-28 02:49:20 | [sqlbabel](https://crates.io/crates/sqlbabel) | 0.0.1 | 0 | SQL translation between warehouse dialects, verified. Successor to SQLQuack. |
+| 2026-11-28 02:49:23 | [sqlferry](https://crates.io/crates/sqlferry) | 0.0.1 | 0 | Part of SQLStack. Early placeholder. |
+| 2026-11-28 02:53:12 | [flame-components](https://crates.io/crates/flame-components) | 0.2.0 | 0 | Standalone flame characteristics for surface and crown fire models |
+| 2026-11-28 02:55:17 | [brakecheck](https://crates.io/crates/brakecheck) | 0.2.0 | 0 | Fast polyglot diff-only mutation tester and test-integrity gate for AI-assisted… |
+| 2026-11-28 03:09:57 | [omni-protocol](https://crates.io/crates/omni-protocol) | 2.0.0 | 0 | Canonical event, 4-key model routing, ACP v1, and plugin control schemas for Si… |
+| 2026-11-28 03:10:29 | [omni-plugin-sdk](https://crates.io/crates/omni-plugin-sdk) | 2.0.0 | 0 | Lightweight Rust SDK for writing out-of-process Silicon Omni ACP harness plugin… |
+| 2026-11-28 03:12:41 | [omni-dashboard](https://crates.io/crates/omni-dashboard) | 2.0.0 | 0 | Embedded local HTTP + WebSocket ACP dashboard server for Silicon Omni. |
+| 2026-11-28 03:16:24 | [comet-ui](https://crates.io/crates/comet-ui) | 0.0.0 | 0 | Comet ui name reserving |
+| 2026-11-28 03:17:29 | [dimedb-derive](https://crates.io/crates/dimedb-derive) | 0.1.1 | 0 | Derives dimeDB's Encode, Decode, and Tables traits |
+| 2026-11-28 03:17:31 | [dimedb](https://crates.io/crates/dimedb) | 0.1.1 | 0 | Durable in-memory embedded transactional state machine |
+| 2026-11-28 03:17:32 | [dimedb-wasm](https://crates.io/crates/dimedb-wasm) | 0.1.1 | 0 | Sandboxed WebAssembly rule runtime, hot-swap, and schema-driven DynamicEngine f… |
 
 ## Data source
 
