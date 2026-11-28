@@ -1,0 +1,14 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-28T03:19:55.57256Z,parket,0.0.0,0,0,https://github.com/momiji-rs/parket,"Performance-first Parquet reader and writer for Ruby, built on arrow-rs. Version 0.0.0 is a placeholder that reserves the name."
+2026-11-28T03:24:48.840503Z,rusty_pdf_core,0.1.0,0,0,https://github.com/Remade-With-Rust/rusty_pdf,"Pure-Rust PDF reader core: objects, classic and stream cross-reference tables, object streams, incremental updates, broken-xref repair, RC4 and AES-128/256 decryption, stream filters, page tree, cont…"
+2026-11-28T03:29:46.09696Z,nobusy-tui,0.1.0,0,0,https://github.com/AngheloBR/nobusy-tui,See which process holds a port and close it safely: a live TUI for listening TCP/UDP sockets
+2026-11-28T03:36:05.580335Z,restreamer,0.1.0,0,0,https://github.com/Bluscream/restreamer-rs,"Blocking client for the datarhei Restreamer / Core v3 API: login, processes, commands and channel discovery."
+2026-11-28T03:37:57.944501Z,oxray,0.1.1,0,0,https://github.com/rubylab-app/oxray,Request inspector for Axum applications.
+2026-11-28T03:38:12.772585Z,day-piece-appfair,0.1.0,0,0,https://github.com/appfair/day-piece-appfair,"The App Fair settings group every App Fair Day app carries: about the project, a donation link, and the current list of App Fair apps"
+2026-11-28T03:44:29.920469Z,tydocx,0.1.0,0,0,https://github.com/kwadraten/tydocx,Universal Typst to Word (.docx) converter
+2026-11-28T03:46:32.284946Z,primary-atomic,0.1.0,0,0,https://github.com/A4-Tacks/primary-atomic-rs,"Mixing primary integers and atomics, with both methods and behaviors"
+2026-11-28T03:51:49.806183Z,assetc-noise,0.5.0,0,0,https://github.com/qbart/assetc,"The procedural noise of assetc: tileable checkerboard, value, Perlin, simplex, fBm, Voronoi, Perlin-Worley, Musgrave, ridged and curl textures with color modifiers"
+2026-11-28T03:51:53.395185Z,assetc-collider,0.5.0,0,0,https://github.com/qbart/assetc,"The convex decomposition of assetc: a model's triangles as a few convex hulls that follow its shape, for compound physics colliders; and 3D convex hulls (quickhull)"
+2026-11-28T03:51:56.264083Z,assetc-ibl,0.5.0,0,0,https://github.com/qbart/assetc,"The image-based lighting of assetc: latitude-longitude HDR images into skybox cubemaps, GGX-prefiltered specular maps and irradiance maps with spherical harmonics"
+2026-11-28T03:58:08.870185Z,agentpool-rs,0.1.0,0,0,https://github.com/phil65/agentpool-rs,Native desktop AI agent chat client for ACP v2 built in Rust with GPUI
+2026-11-28T04:15:39.40796Z,maybe_send_sync,0.1.0,0,0,https://github.com/LDeakin/maybe_send_sync,MaybeSend and MaybeSync marker traits that can be relaxed for single-threaded builds
