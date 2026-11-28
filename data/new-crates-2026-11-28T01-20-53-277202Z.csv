@@ -1,0 +1,40 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-28T00:20:58.310358Z,oxsearch-cli,0.3.0,0,0,https://github.com/agentstatelabs/oxsearch,"Export, import and transfer Elasticsearch documents with oxsearch: NDJSON files, sliced point-in-time reads and bulk writes"
+2026-11-28T00:21:58.44856Z,premier-core,0.1.0,0,0,https://github.com/PremierStudio/premier,"Shared types for Premier: principals, capabilities, repository paths and overlay kinds"
+2026-11-28T00:22:01.570107Z,premier-ssh,0.1.0,0,0,https://github.com/PremierStudio/premier,Premier pure-Rust Git-over-SSH transport with public-key auth and a strict exec allow-list
+2026-11-28T00:22:13.249076Z,premier-policy,0.1.0,0,0,https://github.com/PremierStudio/premier,Premier .access.toml policy engine: deny-overrides-allow path and branch rules compiled to deterministic capability bitmasks
+2026-11-28T00:22:20.644328Z,premier-overlay,0.1.0,0,0,https://github.com/PremierStudio/premier,"Premier typed overlays: encrypted personal and team files mounted over a branch, with a push guard that keeps them out of public history"
+2026-11-28T00:22:41.196143Z,premier-secrets,0.1.0,0,0,https://github.com/PremierStudio/premier,"Premier secret vault: .env.schema, envelope KMS and age encryption, OIDC workload tokens, rotation and output redaction"
+2026-11-28T00:24:03.706822Z,premier-git-bridge,0.1.0,0,0,https://github.com/PremierStudio/premier,"Premier Git bridge: policy-projected fetch and push, private branches, and Squash-Declassify publishing"
+2026-11-28T00:25:42.933389Z,rustia-lexer,0.2.0,0,0,https://github.com/slowchop/rustia,Luau lexer for rustia
+2026-11-28T00:25:48.382015Z,rustia-parser,0.2.0,0,0,https://github.com/slowchop/rustia,Luau parser for rustia
+2026-11-28T00:25:56.415185Z,rustia-vm,0.2.0,0,0,https://github.com/slowchop/rustia,Deterministic Luau virtual machine for rustia
+2026-11-28T00:26:04.868105Z,rustia-compiler,0.2.0,0,0,https://github.com/slowchop/rustia,Luau-to-rustia bytecode compiler
+2026-11-28T00:26:17.65818Z,rustia-cli,0.2.0,0,0,https://github.com/slowchop/rustia,Command-line runner for rustia Luau scripts
+2026-11-28T00:34:01.713882Z,premier-proxy,0.1.0,0,0,https://github.com/PremierStudio/premier,Premier egress capability proxy and agent sandbox: swaps placeholders for secrets only on allowed hosts
+2026-11-28T00:34:10.224781Z,actix-icons,1.0.0,0,0,https://github.com/Nour-yahyaoui/actix-icons,"2,144 consistent SVG icons: compile-time embedding, typed accessors and zero dependencies"
+2026-11-28T00:36:04.358971Z,belt-ci,0.1.0,0,0,https://github.com/t09tanaka/belt-ci,Distribute CI and heavy commands across your own machines
+2026-11-28T00:38:43.248827Z,rs-arrow-ipc-ints2stats,0.1.0,0,0,https://github.com/takanoriyanagitani/rs-arrow-ipc-ints2stats,Prints the stats of the arrays of ints.
+2026-11-28T00:42:15.633614Z,chopper-flate2,1.1.10,0,0,https://github.com/jsmatfess/chopper,Chopper's miniz-only flate2 backend for bounded CSV processing
+2026-11-28T00:42:19.623986Z,chopper-serde-json,1.0.151,0,0,https://github.com/jsmatfess/chopper,Chopper's Serde JSON dependency with its audited allocation paths
+2026-11-28T00:42:23.75949Z,chopper-zip,2.4.2,0,0,https://github.com/jsmatfess/chopper,Chopper's ZIP reader with audited metadata and member admission
+2026-11-28T00:42:27.597578Z,chopper-core,0.7.0,0,0,https://github.com/jsmatfess/chopper,"Portable Job, CSV, and randomization contracts for Chopper"
+2026-11-28T00:42:31.554953Z,chopper-csv,0.7.0,0,0,https://github.com/jsmatfess/chopper,"Run composable, bounded-memory CSV Jobs"
+2026-11-28T00:44:04.543533Z,premier-trace,0.1.0,0,0,https://github.com/PremierStudio/premier,"Premier native agent-trace engine: local-first AI coding agent tracing, error diagnostics, delivery reporting, and ACL-scoped prompt provenance"
+2026-11-28T00:44:41.240839Z,xyo-client,0.1.0,0,0,https://github.com/XYOracleNetwork/sdk-xyo-client-rust,Primary pure-Rust SDK for XYO Protocol 2.0 and the XL1 Chain Protocol
+2026-11-28T00:45:04.896676Z,conundrum_wasm,0.0.3,0,0,,Be less dum.
+2026-11-28T00:52:39.532101Z,loimi,0.0.1,0,0,,"Loimi: an embedded memory store for applications, devices and local agents. Rust SDK; the first working release is in preparation."
+2026-11-28T00:54:11.600759Z,premier-server,0.1.0,0,0,https://github.com/PremierStudio/premier,"Premier control-plane server: Git over HTTP, accounts, repositories, agent sessions, MCP gateway and the Studio API"
+2026-11-28T01:04:25.385128Z,premier-cli,0.1.0,0,0,https://github.com/PremierStudio/premier,"The premier command: serve, policy, secrets, overlays, agent sessions, MCP and GitHub Companion for Premier"
+2026-11-28T01:07:23.028505Z,epistemologicant-core,0.0.8,0,0,https://github.com/ThinkersJournal/epistemologicant,"Shared types for EpistemologicAnt: re-exports of semanticant-core's Reason, Verdict and Provenance"
+2026-11-28T01:07:25.117441Z,epistemologicant-credence,0.0.8,0,0,https://github.com/ThinkersJournal/epistemologicant,"Uncertainty values with an honest Unknown, combination rules and scoring rules"
+2026-11-28T01:07:25.63285Z,epistemologicant-justify,0.0.8,0,0,https://github.com/ThinkersJournal/epistemologicant,"Justification tracking: claims with grounds, retraction that reports the exact fallout, status with reasons; cycles and multiple supports handled"
+2026-11-28T01:07:26.723585Z,epistemologicant-defeat,0.0.8,0,0,https://github.com/ThinkersJournal/epistemologicant,"Defeasible reasoning: reasons that support claims, rebutting and undercutting defeaters, strength-ranked conflict, and a skeptical (grounded) verdict with reasons"
+2026-11-28T01:07:27.510652Z,epistemologicant-evidence,0.0.8,0,0,https://github.com/ThinkersJournal/epistemologicant,"Evidence graph: sources, derivation chains, an independence test, and corroboration that never counts the same origin twice"
+2026-11-28T01:07:52.695913Z,tcpip,0.1.0,0,0,https://github.com/kirklin/tcpip,"TCP, UDP and ICMP over IPv4 and IPv6 in user space: IP packets on one side, connections and datagrams on the other, with segments of up to 64 KiB taken and handed over whole"
+2026-11-28T01:13:23.151581Z,whippyflight-design,0.2.0,0,0,https://github.com/Oblarg/whippyflight,"Gain design for whippyflight-control: structured LQR over a plant fit, gain blobs, and the Pareto front of the LQR weights"
+2026-11-28T01:13:43.697627Z,whippyflight-fit,0.2.0,0,0,https://github.com/Oblarg/whippyflight,"The whippyflight plant fit from Betaflight blackbox logs: log decoding, the regressions, fit diagnostics and sensor-noise extraction"
+2026-11-28T01:14:07.925758Z,premier,0.1.0,0,0,https://github.com/PremierStudio/premier,"Git-compatible source control with path/branch confidentiality, capability-proxied secrets, and AI-agent sandboxing"
+2026-11-28T01:17:52.125385Z,epistemologicant-argument,0.0.8,0,0,https://github.com/ThinkersJournal/epistemologicant,"Abstract argumentation (Dung-style): arguments and an attack relation, with grounded, complete, preferred and stable semantics, credulous and skeptical acceptance, and reasons for the grounded verdict"
+2026-11-28T01:19:11.200282Z,gnu2-tls-macros,0.1.0,0,0,https://github.com/absolucy/gnu2-tls-rs,Attribute macro for the gnu2-tls crate
+2026-11-28T01:19:12.902834Z,gnu2-tls,0.1.0,0,0,https://github.com/absolucy/gnu2-tls-rs,Thread locals that use GNU2 TLS descriptors instead of __tls_get_addr
