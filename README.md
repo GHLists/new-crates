@@ -8,44 +8,50 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-28 11:19 UTC
+## Latest list — 2026-11-28 12:20 UTC
 
-New crates published between 2026-11-28 10:21 UTC and 2026-11-28 11:19 UTC.
+New crates published between 2026-11-28 11:19 UTC and 2026-11-28 12:20 UTC.
 
-[Full CSV](data/new-crates-2026-11-28T11-19-48-709799Z.csv)
+[Full CSV](data/new-crates-2026-11-28T12-20-14-175596Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-28 10:25:03 | [leptoskit_admin](https://crates.io/crates/leptoskit_admin) | 0.0.0 | 0 | Placeholder crate published by monochange |
-| 2026-11-28 10:31:20 | [hullkit](https://crates.io/crates/hullkit) | 0.0.1 | 0 | Developer CLI for Hullkit: scaffold, build, test and publish CLIs and WebAssemb… |
-| 2026-11-28 10:31:28 | [hullkit-core](https://crates.io/crates/hullkit-core) | 0.0.1 | 0 | Host runtime for Hullkit CLIs: config, plugin registry, command routing and hoo… |
-| 2026-11-28 10:31:33 | [hullkit-sdk](https://crates.io/crates/hullkit-sdk) | 0.0.1 | 0 | Rust SDK for writing Hullkit WebAssembly plugins (in development) |
-| 2026-11-28 10:31:38 | [hullkit-wit](https://crates.io/crates/hullkit-wit) | 0.0.1 | 0 | The hullkit:plugin WIT contract between Hullkit hosts and plugins (in developme… |
-| 2026-11-28 10:35:13 | [leptoskit_admin_pages](https://crates.io/crates/leptoskit_admin_pages) | 0.0.0 | 0 | Placeholder crate published by monochange |
-| 2026-11-28 10:36:58 | [embedded-trig-fixed](https://crates.io/crates/embedded-trig-fixed) | 0.1.0 | 0 | sin, cos, tan, asin, acos, atan, atan2 in Q16.16 fixed-point for no_std embedde… |
-| 2026-11-28 10:39:35 | [siftx12](https://crates.io/crates/siftx12) | 0.1.0 | 0 | A memory-safe, ergonomic, and security-hardened DirectX 12 frontend for Rust on… |
-| 2026-11-28 10:41:02 | [fairmark-core](https://crates.io/crates/fairmark-core) | 0.1.0-alpha.1 | 0 | Deterministic valuation engine: decimal-exact time value of money, DCF and audi… |
-| 2026-11-28 10:41:04 | [fairmark-cli](https://crates.io/crates/fairmark-cli) | 0.1.0-alpha.1 | 0 | Command-line interface to the Fairmark deterministic valuation engine (JSON in,… |
-| 2026-11-28 10:42:15 | [tpt-appfront-canvas-3d](https://crates.io/crates/tpt-appfront-canvas-3d) | 0.2.0 | 0 | 3D viewport contract for TPT AppFront: the SceneDelegate trait that lets an ext… |
-| 2026-11-28 10:43:51 | [iris-herald](https://crates.io/crates/iris-herald) | 0.0.1 | 0 | Iris Herald: outbox messenger. Placeholder release; real functionality coming s… |
-| 2026-11-28 10:44:31 | [rust-git](https://crates.io/crates/rust-git) | 0.1.0 | 0 | Pure-Rust Git for servers and clients: objects, packs, the smart protocol, hist… |
-| 2026-11-28 10:45:23 | [leptoskit_analytics_macros](https://crates.io/crates/leptoskit_analytics_macros) | 0.0.0 | 0 | Placeholder crate published by monochange |
-| 2026-11-28 10:47:19 | [tpt-appfront-test](https://crates.io/crates/tpt-appfront-test) | 0.2.0 | 0 | Headless test harness for TPT AppFront UI trees: find nodes, click, type, asser… |
-| 2026-11-28 10:49:52 | [spurline](https://crates.io/crates/spurline) | 0.1.0 | 0 | Give every git worktree its own ports, databases and .env, so parallel coding a… |
-| 2026-11-28 10:53:11 | [tpt-appfront](https://crates.io/crates/tpt-appfront) | 0.2.0 | 0 | Umbrella crate for TPT AppFront: one UITree, many backends behind feature flags… |
-| 2026-11-28 10:54:21 | [ilano](https://crates.io/crates/ilano) | 0.1.0 | 0 | Coming Soon! |
-| 2026-11-28 10:55:33 | [leptoskit_notifications](https://crates.io/crates/leptoskit_notifications) | 0.0.0 | 0 | Placeholder crate published by monochange |
-| 2026-11-28 11:04:27 | [wwise-waapi](https://crates.io/crates/wwise-waapi) | 0.1.1 | 0 | Async, typed Rust client for the Wwise Authoring API (WAAPI) |
-| 2026-11-28 11:05:43 | [leptoskit_platform_horizon](https://crates.io/crates/leptoskit_platform_horizon) | 0.0.0 | 0 | Placeholder crate published by monochange |
-| 2026-11-28 11:10:28 | [kxed-chitchat](https://crates.io/crates/kxed-chitchat) | 0.0.1-alpha | 0 | Hardened Scuttlebutt gossip membership runtime fork maintained for kxed |
-| 2026-11-28 11:11:09 | [kxed-fred](https://crates.io/crates/kxed-fred) | 0.0.1-alpha | 0 | Async Redis and Valkey client fork maintained for kxed |
-| 2026-11-28 11:11:58 | [kxed-sea-orm](https://crates.io/crates/kxed-sea-orm) | 0.0.1-alpha | 0 | Async SQL ORM fork with RFC 3339 time integration maintained for kxed |
-| 2026-11-28 11:15:53 | [leptoskit_plugin_app_usage](https://crates.io/crates/leptoskit_plugin_app_usage) | 0.0.0 | 0 | Placeholder crate published by monochange |
-| 2026-11-28 11:18:24 | [kxed-sea-orm-migration](https://crates.io/crates/kxed-sea-orm-migration) | 0.0.1-alpha | 0 | Schema migration runtime for kxed-sea-orm |
-| 2026-11-28 11:18:34 | [kxed-duration](https://crates.io/crates/kxed-duration) | 0.0.1-alpha | 0 | Human-readable duration literals and RFC 3339 timestamp formatting for kxed |
-| 2026-11-28 11:19:12 | [okiro-core](https://crates.io/crates/okiro-core) | 1.0.0 | 0 | Core library for okiro: config parsing, host resolution, trait-based I/O and th… |
-| 2026-11-28 11:19:13 | [okiro](https://crates.io/crates/okiro) | 1.0.0 | 0 | okiro (起きろ) — small CLI to wake, check, reach and power off your machines (Wake… |
-| 2026-11-28 11:19:16 | [rusterpret](https://crates.io/crates/rusterpret) | 0.0.0 | 0 | Reserved name for the Rust interpreter of the RustLive project. No code yet. |
+| 2026-11-28 11:21:13 | [webauthn-mcp](https://crates.io/crates/webauthn-mcp) | 0.1.0 | 0 | Security-first WebAuthn / passkeys relying party exposed as a Model Context Pro… |
+| 2026-11-28 11:23:52 | [khive-pack-operation](https://crates.io/crates/khive-pack-operation) | 0.24.0 | 0 | Operation pack: published operation types, operations recorded against them, an… |
+| 2026-11-28 11:26:03 | [leptoskit_plugin_ble](https://crates.io/crates/leptoskit_plugin_ble) | 0.0.0 | 0 | Placeholder crate published by monochange |
+| 2026-11-28 11:30:30 | [uftp](https://crates.io/crates/uftp) | 0.0.0 | 0 | USEF Flex Trading Protocol (UFTP, LF Energy Shapeshifter) in Rust: messages, si… |
+| 2026-11-28 11:33:54 | [encryptest](https://crates.io/crates/encryptest) | 0.1.0 | 0 | Encrypt the tests of a software project to obstruct code laundering |
+| 2026-11-28 11:36:13 | [leptoskit_plugin_health](https://crates.io/crates/leptoskit_plugin_health) | 0.0.0 | 0 | Placeholder crate published by monochange |
+| 2026-11-28 11:46:01 | [rulibre-core](https://crates.io/crates/rulibre-core) | 1.0.0 | 0 | Shared library for Rulibre — Calibre library scanning, metadata parsing, format… |
+| 2026-11-28 11:46:03 | [rulibre-gui](https://crates.io/crates/rulibre-gui) | 1.0.0 | 0 | Desktop app for your Calibre library: browse a cover grid, search, convert and… |
+| 2026-11-28 11:46:10 | [hafas](https://crates.io/crates/hafas) | 0.0.0 | 0 | Placeholder, the first release follows soon. See https://github.com/udondan/rmv |
+| 2026-11-28 11:46:13 | [rmv-core](https://crates.io/crates/rmv-core) | 0.0.0 | 0 | Placeholder, the first release follows soon. See https://github.com/udondan/rmv |
+| 2026-11-28 11:46:16 | [rmv](https://crates.io/crates/rmv) | 0.0.0 | 0 | Placeholder, the first release follows soon. See https://github.com/udondan/rmv |
+| 2026-11-28 11:46:23 | [leptoskit_plugin_thermal](https://crates.io/crates/leptoskit_plugin_thermal) | 0.0.0 | 0 | Placeholder crate published by monochange |
+| 2026-11-28 11:50:37 | [dolang-private-ide](https://crates.io/crates/dolang-private-ide) | 0.1.0 | 0 | Editor queries shared by the Do language server and playground. |
+| 2026-11-28 11:55:39 | [egraph-core](https://crates.io/crates/egraph-core) | 6.0.0-beta.2 | 0 | Core zero-copy CSR graph, layout, and Riemannian geometry primitives for egraph… |
+| 2026-11-28 11:55:44 | [egraph-dataset](https://crates.io/crates/egraph-dataset) | 6.0.0-beta.2 | 0 | Embedded benchmark datasets and synthetic graph generators for egraph-rs |
+| 2026-11-28 11:55:47 | [egraph-edge-routing](https://crates.io/crates/egraph-edge-routing) | 6.0.0-beta.2 | 0 | Single-threaded edge routing and edge bundling algorithms for egraph-rs |
+| 2026-11-28 11:55:51 | [egraph-linalg](https://crates.io/crates/egraph-linalg) | 6.0.0-beta.2 | 0 | Single-threaded sparse linear algebra, spectral diffusion, and shortest-path pr… |
+| 2026-11-28 11:55:55 | [egraph-spatial-crossings](https://crates.io/crates/egraph-spatial-crossings) | 6.0.0-beta.2 | 0 | Sweep-line edge-crossing detection and non-Euclidean geodesic crossing geometry… |
+| 2026-11-28 11:56:33 | [leptoskit_plugin_watch_sync](https://crates.io/crates/leptoskit_plugin_watch_sync) | 0.0.0 | 0 | Placeholder crate published by monochange |
+| 2026-11-28 11:56:58 | [rulean](https://crates.io/crates/rulean) | 0.5.0 | 0 | A tiny, fast Lean-like dependently typed proof engine with a real kernel |
+| 2026-11-28 11:58:41 | [frust-charts](https://crates.io/crates/frust-charts) | 0.6.7 | 0 | Live charts for Frust apps: shared Series and Samples data handles that repaint… |
+| 2026-11-28 11:58:53 | [frust-models](https://crates.io/crates/frust-models) | 0.6.7 | 0 | Model store and downloader for on-device AI models in Frust apps |
+| 2026-11-28 11:59:09 | [frust-onnx](https://crates.io/crates/frust-onnx) | 0.6.7 | 0 | ONNX model inference for Frust apps over ONNX Runtime: sessions from a model fi… |
+| 2026-11-28 11:59:17 | [glyphatar](https://crates.io/crates/glyphatar) | 0.1.1 | 0 | Deterministic, mirror-symmetric SVG identicons built from simple shapes |
+| 2026-11-28 12:01:50 | [nagara_ecs](https://crates.io/crates/nagara_ecs) | 0.1.0 | 0 | Zero-dependency inverted-hierarchical-bitmap (IBH) ECS with fixed-slot pages, b… |
+| 2026-11-28 12:03:18 | [metro-vcs](https://crates.io/crates/metro-vcs) | 0.1.0 | 0 | Name reservation for the metro version control system (CLI binary: metro) |
+| 2026-11-28 12:04:31 | [oxivorbis](https://crates.io/crates/oxivorbis) | 0.1.0 | 0 | Pure-Rust Ogg Vorbis encoder, byte-identical to libvorbis 1.3.7 (VBR q-1..q10,… |
+| 2026-11-28 12:04:34 | [oxivorbis-cli](https://crates.io/crates/oxivorbis-cli) | 0.1.0 | 0 | Command-line Ogg Vorbis encoder (WAV/raw PCM in), byte-identical to libvorbis 1… |
+| 2026-11-28 12:06:43 | [leptoskit_plugin_wearable](https://crates.io/crates/leptoskit_plugin_wearable) | 0.0.0 | 0 | Placeholder crate published by monochange |
+| 2026-11-28 12:07:09 | [egraph-spatial-fft](https://crates.io/crates/egraph-spatial-fft) | 6.0.0-beta.2 | 0 | Single-threaded 2D FFT, interpolation-based FFT, and screened Poisson density-f… |
+| 2026-11-28 12:10:55 | [hs-time](https://crates.io/crates/hs-time) | 0.1.3 | 0 | Local time tracking, tasks, and focus sessions. Inspired by Project Hamster. |
+| 2026-11-28 12:13:31 | [sedmetrics](https://crates.io/crates/sedmetrics) | 0.1.2 | 0 | Rust computational core for SEDMetrics (Sound Event Detection evaluation) |
+| 2026-11-28 12:14:55 | [tokio-slcan](https://crates.io/crates/tokio-slcan) | 0.2.0 | 0 | Serial line CAN (slcan) interface implementation in Rust |
+| 2026-11-28 12:17:00 | [leptoskit_skribble](https://crates.io/crates/leptoskit_skribble) | 0.0.0 | 0 | Placeholder crate published by monochange |
+| 2026-11-28 12:17:25 | [egraph-spatial-trees](https://crates.io/crates/egraph-spatial-trees) | 6.0.0-beta.2 | 0 | Single-threaded spatial indexing trees, rectangle overlap sweep, and 2D Delauna… |
+| 2026-11-28 12:19:20 | [cretula](https://crates.io/crates/cretula) | 0.0.1 | 0 | Cretula: an embedded, content-addressed database engine with verifiable history… |
 
 ## Data source
 

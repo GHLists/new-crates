@@ -1,0 +1,37 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-28T11:21:13.693635Z,webauthn-mcp,0.1.0,0,0,https://github.com/xkid1/webauthn-mcp,Security-first WebAuthn / passkeys relying party exposed as a Model Context Protocol (MCP) server. Generate and verify registration & authentication ceremonies from any MCP client.
+2026-11-28T11:23:52.378157Z,khive-pack-operation,0.24.0,0,0,https://github.com/ohdearquant/khive,"Operation pack: published operation types, operations recorded against them, and the frontier of what is owed"
+2026-11-28T11:26:03.533571Z,leptoskit_plugin_ble,0.0.0,0,0,https://github.com/leptoskit/leptoskit,Placeholder crate published by monochange
+2026-11-28T11:30:30.55725Z,uftp,0.0.0,0,0,https://github.com/hupe1980/uftp,"USEF Flex Trading Protocol (UFTP, LF Energy Shapeshifter) in Rust: messages, signing and flows between DSOs and aggregators. Not the UDP multicast file-transfer tool."
+2026-11-28T11:33:54.713806Z,encryptest,0.1.0,0,0,https://github.com/gamgi/encryptest,Encrypt the tests of a software project to obstruct code laundering
+2026-11-28T11:36:13.534066Z,leptoskit_plugin_health,0.0.0,0,0,https://github.com/leptoskit/leptoskit,Placeholder crate published by monochange
+2026-11-28T11:46:01.841914Z,rulibre-core,1.0.0,0,0,https://github.com/Glydric/Rulibre,"Shared library for Rulibre — Calibre library scanning, metadata parsing, format conversion, and e-reader device transfer."
+2026-11-28T11:46:03.79376Z,rulibre-gui,1.0.0,0,0,https://github.com/Glydric/Rulibre,"Desktop app for your Calibre library: browse a cover grid, search, convert and send books to your e-reader. A lightweight Calibre replacement."
+2026-11-28T11:46:10.356057Z,hafas,0.0.0,0,0,https://github.com/udondan/rmv,"Placeholder, the first release follows soon. See https://github.com/udondan/rmv"
+2026-11-28T11:46:13.191199Z,rmv-core,0.0.0,0,0,https://github.com/udondan/rmv,"Placeholder, the first release follows soon. See https://github.com/udondan/rmv"
+2026-11-28T11:46:16.371687Z,rmv,0.0.0,0,0,https://github.com/udondan/rmv,"Placeholder, the first release follows soon. See https://github.com/udondan/rmv"
+2026-11-28T11:46:23.535726Z,leptoskit_plugin_thermal,0.0.0,0,0,https://github.com/leptoskit/leptoskit,Placeholder crate published by monochange
+2026-11-28T11:50:37.883943Z,dolang-private-ide,0.1.0,0,0,https://github.com/dolang-org/dolang,Editor queries shared by the Do language server and playground.
+2026-11-28T11:55:39.13503Z,egraph-core,6.0.0-beta.2,0,0,https://github.com/likr/egraph-rs,"Core zero-copy CSR graph, layout, and Riemannian geometry primitives for egraph-rs"
+2026-11-28T11:55:44.433308Z,egraph-dataset,6.0.0-beta.2,0,0,https://github.com/likr/egraph-rs,Embedded benchmark datasets and synthetic graph generators for egraph-rs
+2026-11-28T11:55:47.677098Z,egraph-edge-routing,6.0.0-beta.2,0,0,https://github.com/likr/egraph-rs,Single-threaded edge routing and edge bundling algorithms for egraph-rs
+2026-11-28T11:55:51.512228Z,egraph-linalg,6.0.0-beta.2,0,0,https://github.com/likr/egraph-rs,"Single-threaded sparse linear algebra, spectral diffusion, and shortest-path primitives for egraph-rs"
+2026-11-28T11:55:55.351882Z,egraph-spatial-crossings,6.0.0-beta.2,0,0,https://github.com/likr/egraph-rs,Sweep-line edge-crossing detection and non-Euclidean geodesic crossing geometry for egraph-rs
+2026-11-28T11:56:33.580743Z,leptoskit_plugin_watch_sync,0.0.0,0,0,https://github.com/leptoskit/leptoskit,Placeholder crate published by monochange
+2026-11-28T11:56:58.038733Z,rulean,0.5.0,0,0,https://github.com/ccc-compiler/rulean,"A tiny, fast Lean-like dependently typed proof engine with a real kernel"
+2026-11-28T11:58:41.952198Z,frust-charts,0.6.7,0,0,https://github.com/frust-rs/frust,"Live charts for Frust apps: shared Series and Samples data handles that repaint on write, with y-domain scales and threshold colour tones."
+2026-11-28T11:58:53.4105Z,frust-models,0.6.7,0,0,https://github.com/frust-rs/frust,Model store and downloader for on-device AI models in Frust apps
+2026-11-28T11:59:09.606782Z,frust-onnx,0.6.7,0,0,https://github.com/frust-rs/frust,"ONNX model inference for Frust apps over ONNX Runtime: sessions from a model file or bytes, typed tensors, blocking runs."
+2026-11-28T11:59:17.415551Z,glyphatar,0.1.1,0,0,https://github.com/jdlunger/glyphatar,"Deterministic, mirror-symmetric SVG identicons built from simple shapes"
+2026-11-28T12:01:50.065502Z,nagara_ecs,0.1.0,0,0,https://github.com/EgorLin/nagara_ecs,"Zero-dependency inverted-hierarchical-bitmap (IBH) ECS with fixed-slot pages, block/dense iteration, parallel queries, change tracking, hooks, and deterministic scheduling"
+2026-11-28T12:03:18.582678Z,metro-vcs,0.1.0,0,0,,Name reservation for the metro version control system (CLI binary: metro)
+2026-11-28T12:04:31.537537Z,oxivorbis,0.1.0,0,0,https://github.com/opera-emoller/oxivorbis,"Pure-Rust Ogg Vorbis encoder, byte-identical to libvorbis 1.3.7 (VBR q-1..q10, streaming, f32/i16)."
+2026-11-28T12:04:34.210668Z,oxivorbis-cli,0.1.0,0,0,https://github.com/opera-emoller/oxivorbis,"Command-line Ogg Vorbis encoder (WAV/raw PCM in), byte-identical to libvorbis 1.3.7. Pure Rust."
+2026-11-28T12:06:43.54508Z,leptoskit_plugin_wearable,0.0.0,0,0,https://github.com/leptoskit/leptoskit,Placeholder crate published by monochange
+2026-11-28T12:07:09.394583Z,egraph-spatial-fft,6.0.0-beta.2,0,0,https://github.com/likr/egraph-rs,"Single-threaded 2D FFT, interpolation-based FFT, and screened Poisson density-field kernels for egraph-rs"
+2026-11-28T12:10:55.58316Z,hs-time,0.1.3,0,0,https://github.com/trivial-si/hs,"Local time tracking, tasks, and focus sessions. Inspired by Project Hamster."
+2026-11-28T12:13:31.919896Z,sedmetrics,0.1.2,0,0,https://github.com/LakoreAI/sed-metrics,Rust computational core for SEDMetrics (Sound Event Detection evaluation)
+2026-11-28T12:14:55.793154Z,tokio-slcan,0.2.0,0,0,https://github.com/Konstantin-Dudersky/tokio-slcan,Serial line CAN (slcan) interface implementation in Rust
+2026-11-28T12:17:00.282633Z,leptoskit_skribble,0.0.0,0,0,https://github.com/leptoskit/leptoskit,Placeholder crate published by monochange
+2026-11-28T12:17:25.114394Z,egraph-spatial-trees,6.0.0-beta.2,0,0,https://github.com/likr/egraph-rs,"Single-threaded spatial indexing trees, rectangle overlap sweep, and 2D Delaunay triangulation for egraph-rs"
+2026-11-28T12:19:20.257427Z,cretula,0.0.1,0,0,https://github.com/cretula,"Cretula: an embedded, content-addressed database engine with verifiable history and signed provenance. Early placeholder release; the engine is under active development."
