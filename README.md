@@ -8,53 +8,37 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-28 01:20 UTC
+## Latest list — 2026-11-28 02:22 UTC
 
-New crates published between 2026-11-28 00:20 UTC and 2026-11-28 01:20 UTC.
+New crates published between 2026-11-28 01:20 UTC and 2026-11-28 02:22 UTC.
 
-[Full CSV](data/new-crates-2026-11-28T01-20-53-277202Z.csv)
+[Full CSV](data/new-crates-2026-11-28T02-22-14-72248Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-28 00:20:58 | [oxsearch-cli](https://crates.io/crates/oxsearch-cli) | 0.3.0 | 0 | Export, import and transfer Elasticsearch documents with oxsearch: NDJSON files… |
-| 2026-11-28 00:21:58 | [premier-core](https://crates.io/crates/premier-core) | 0.1.0 | 0 | Shared types for Premier: principals, capabilities, repository paths and overla… |
-| 2026-11-28 00:22:01 | [premier-ssh](https://crates.io/crates/premier-ssh) | 0.1.0 | 0 | Premier pure-Rust Git-over-SSH transport with public-key auth and a strict exec… |
-| 2026-11-28 00:22:13 | [premier-policy](https://crates.io/crates/premier-policy) | 0.1.0 | 0 | Premier .access.toml policy engine: deny-overrides-allow path and branch rules… |
-| 2026-11-28 00:22:20 | [premier-overlay](https://crates.io/crates/premier-overlay) | 0.1.0 | 0 | Premier typed overlays: encrypted personal and team files mounted over a branch… |
-| 2026-11-28 00:22:41 | [premier-secrets](https://crates.io/crates/premier-secrets) | 0.1.0 | 0 | Premier secret vault: .env.schema, envelope KMS and age encryption, OIDC worklo… |
-| 2026-11-28 00:24:03 | [premier-git-bridge](https://crates.io/crates/premier-git-bridge) | 0.1.0 | 0 | Premier Git bridge: policy-projected fetch and push, private branches, and Squa… |
-| 2026-11-28 00:25:42 | [rustia-lexer](https://crates.io/crates/rustia-lexer) | 0.2.0 | 0 | Luau lexer for rustia |
-| 2026-11-28 00:25:48 | [rustia-parser](https://crates.io/crates/rustia-parser) | 0.2.0 | 0 | Luau parser for rustia |
-| 2026-11-28 00:25:56 | [rustia-vm](https://crates.io/crates/rustia-vm) | 0.2.0 | 0 | Deterministic Luau virtual machine for rustia |
-| 2026-11-28 00:26:04 | [rustia-compiler](https://crates.io/crates/rustia-compiler) | 0.2.0 | 0 | Luau-to-rustia bytecode compiler |
-| 2026-11-28 00:26:17 | [rustia-cli](https://crates.io/crates/rustia-cli) | 0.2.0 | 0 | Command-line runner for rustia Luau scripts |
-| 2026-11-28 00:34:01 | [premier-proxy](https://crates.io/crates/premier-proxy) | 0.1.0 | 0 | Premier egress capability proxy and agent sandbox: swaps placeholders for secre… |
-| 2026-11-28 00:34:10 | [actix-icons](https://crates.io/crates/actix-icons) | 1.0.0 | 0 | 2,144 consistent SVG icons: compile-time embedding, typed accessors and zero de… |
-| 2026-11-28 00:36:04 | [belt-ci](https://crates.io/crates/belt-ci) | 0.1.0 | 0 | Distribute CI and heavy commands across your own machines |
-| 2026-11-28 00:38:43 | [rs-arrow-ipc-ints2stats](https://crates.io/crates/rs-arrow-ipc-ints2stats) | 0.1.0 | 0 | Prints the stats of the arrays of ints. |
-| 2026-11-28 00:42:15 | [chopper-flate2](https://crates.io/crates/chopper-flate2) | 1.1.10 | 0 | Chopper's miniz-only flate2 backend for bounded CSV processing |
-| 2026-11-28 00:42:19 | [chopper-serde-json](https://crates.io/crates/chopper-serde-json) | 1.0.151 | 0 | Chopper's Serde JSON dependency with its audited allocation paths |
-| 2026-11-28 00:42:23 | [chopper-zip](https://crates.io/crates/chopper-zip) | 2.4.2 | 0 | Chopper's ZIP reader with audited metadata and member admission |
-| 2026-11-28 00:42:27 | [chopper-core](https://crates.io/crates/chopper-core) | 0.7.0 | 0 | Portable Job, CSV, and randomization contracts for Chopper |
-| 2026-11-28 00:42:31 | [chopper-csv](https://crates.io/crates/chopper-csv) | 0.7.0 | 0 | Run composable, bounded-memory CSV Jobs |
-| 2026-11-28 00:44:04 | [premier-trace](https://crates.io/crates/premier-trace) | 0.1.0 | 0 | Premier native agent-trace engine: local-first AI coding agent tracing, error d… |
-| 2026-11-28 00:44:41 | [xyo-client](https://crates.io/crates/xyo-client) | 0.1.0 | 0 | Primary pure-Rust SDK for XYO Protocol 2.0 and the XL1 Chain Protocol |
-| 2026-11-28 00:45:04 | [conundrum_wasm](https://crates.io/crates/conundrum_wasm) | 0.0.3 | 0 | Be less dum. |
-| 2026-11-28 00:52:39 | [loimi](https://crates.io/crates/loimi) | 0.0.1 | 0 | Loimi: an embedded memory store for applications, devices and local agents. Rus… |
-| 2026-11-28 00:54:11 | [premier-server](https://crates.io/crates/premier-server) | 0.1.0 | 0 | Premier control-plane server: Git over HTTP, accounts, repositories, agent sess… |
-| 2026-11-28 01:04:25 | [premier-cli](https://crates.io/crates/premier-cli) | 0.1.0 | 0 | The premier command: serve, policy, secrets, overlays, agent sessions, MCP and… |
-| 2026-11-28 01:07:23 | [epistemologicant-core](https://crates.io/crates/epistemologicant-core) | 0.0.8 | 0 | Shared types for EpistemologicAnt: re-exports of semanticant-core's Reason, Ver… |
-| 2026-11-28 01:07:25 | [epistemologicant-credence](https://crates.io/crates/epistemologicant-credence) | 0.0.8 | 0 | Uncertainty values with an honest Unknown, combination rules and scoring rules |
-| 2026-11-28 01:07:25 | [epistemologicant-justify](https://crates.io/crates/epistemologicant-justify) | 0.0.8 | 0 | Justification tracking: claims with grounds, retraction that reports the exact… |
-| 2026-11-28 01:07:26 | [epistemologicant-defeat](https://crates.io/crates/epistemologicant-defeat) | 0.0.8 | 0 | Defeasible reasoning: reasons that support claims, rebutting and undercutting d… |
-| 2026-11-28 01:07:27 | [epistemologicant-evidence](https://crates.io/crates/epistemologicant-evidence) | 0.0.8 | 0 | Evidence graph: sources, derivation chains, an independence test, and corrobora… |
-| 2026-11-28 01:07:52 | [tcpip](https://crates.io/crates/tcpip) | 0.1.0 | 0 | TCP, UDP and ICMP over IPv4 and IPv6 in user space: IP packets on one side, con… |
-| 2026-11-28 01:13:23 | [whippyflight-design](https://crates.io/crates/whippyflight-design) | 0.2.0 | 0 | Gain design for whippyflight-control: structured LQR over a plant fit, gain blo… |
-| 2026-11-28 01:13:43 | [whippyflight-fit](https://crates.io/crates/whippyflight-fit) | 0.2.0 | 0 | The whippyflight plant fit from Betaflight blackbox logs: log decoding, the reg… |
-| 2026-11-28 01:14:07 | [premier](https://crates.io/crates/premier) | 0.1.0 | 0 | Git-compatible source control with path/branch confidentiality, capability-prox… |
-| 2026-11-28 01:17:52 | [epistemologicant-argument](https://crates.io/crates/epistemologicant-argument) | 0.0.8 | 0 | Abstract argumentation (Dung-style): arguments and an attack relation, with gro… |
-| 2026-11-28 01:19:11 | [gnu2-tls-macros](https://crates.io/crates/gnu2-tls-macros) | 0.1.0 | 0 | Attribute macro for the gnu2-tls crate |
-| 2026-11-28 01:19:12 | [gnu2-tls](https://crates.io/crates/gnu2-tls) | 0.1.0 | 0 | Thread locals that use GNU2 TLS descriptors instead of __tls_get_addr |
+| 2026-11-28 01:21:37 | [mcp-backbone](https://crates.io/crates/mcp-backbone) | 0.1.2 | 0 | Backbone for remote MCP servers that act as a user's account: OAuth 2.1, a perm… |
+| 2026-11-28 01:22:09 | [rentnerproxy-artifacts](https://crates.io/crates/rentnerproxy-artifacts) | 1.0.0 | 0 | Bounded JSON, file and stream helpers for verifying RentnerProxy app artifacts |
+| 2026-11-28 01:22:34 | [rentnerproxy-app-contracts](https://crates.io/crates/rentnerproxy-app-contracts) | 1.0.0 | 0 | Versioned RentnerProxy app contract types and offline validators |
+| 2026-11-28 01:22:51 | [rentnerproxy-app-catalog](https://crates.io/crates/rentnerproxy-app-catalog) | 1.0.0 | 0 | Verify and update signed RentnerProxy app catalogs |
+| 2026-11-28 01:23:03 | [rentnerproxy-app-pipeline](https://crates.io/crates/rentnerproxy-app-pipeline) | 1.0.0 | 0 | Package, evidence and smoke-probe operations for RentnerProxy app releases |
+| 2026-11-28 01:23:56 | [lockpick-engine](https://crates.io/crates/lockpick-engine) | 0.1.0 | 0 | Lockpick scanning engine: finds, proves and fixes security holes in AI-built ap… |
+| 2026-11-28 01:23:58 | [lockpick-cli](https://crates.io/crates/lockpick-cli) | 0.1.0 | 0 | We pick your app's locks before attackers do. Security scanner for AI-built app… |
+| 2026-11-28 01:24:35 | [ide](https://crates.io/crates/ide) | 0.1.1 | 0 | Keyboard-only terminal workspace: your editor, git UI, dev servers and shells a… |
+| 2026-11-28 01:27:46 | [epistemologicant-record](https://crates.io/crates/epistemologicant-record) | 0.0.8 | 0 | Source record: per-source, per-topic reliability from observed outcomes, shrunk… |
+| 2026-11-28 01:30:31 | [crisol-core](https://crates.io/crates/crisol-core) | 1.0.0 | 0 | Crisol core: an egui-free data model, themes, metrics, localization, commands,… |
+| 2026-11-28 01:33:58 | [muss-core](https://crates.io/crates/muss-core) | 0.1.0 | 0 | Shared Microsoft 365 primitives for the muss workspace: tenant identity, creden… |
+| 2026-11-28 01:34:24 | [muss-teams](https://crates.io/crates/muss-teams) | 0.1.0 | 0 | An approachable, framework-neutral Microsoft Teams SDK for Rust: authenticated… |
+| 2026-11-28 01:34:38 | [muss-teams-cli](https://crates.io/crates/muss-teams-cli) | 0.1.0 | 0 | Optional companion command-line tool for the muss-teams SDK: scaffold a project… |
+| 2026-11-28 01:37:23 | [bengara-macros](https://crates.io/crates/bengara-macros) | 0.1.0-alpha.1 | 0 | bengara の手続きマクロ（#[bengara::test] など） |
+| 2026-11-28 01:37:25 | [bengara-build](https://crates.io/crates/bengara-build) | 0.1.0-alpha.1 | 0 | bengara の build.rs 用。Laravel と同じ名前のファイルを自動検出してモジュール宣言を生成する（依存クレートなし） |
+| 2026-11-28 01:37:46 | [bengara](https://crates.io/crates/bengara) | 0.1.0-alpha.1 | 0 | Laravel の構成とそのままの書き味で使える Rust 製 Web アプリケーションフレームワーク |
+| 2026-11-28 01:50:43 | [japka](https://crates.io/crates/japka) | 0.1.1 | 0 | HTTP reverse proxy, load balancer and static file server |
+| 2026-11-28 02:02:02 | [agent-hub-fonts](https://crates.io/crates/agent-hub-fonts) | 0.2.0 | 0 | Versioned AgentHub SDK build resources |
+| 2026-11-28 02:02:06 | [agent-hub-desktop](https://crates.io/crates/agent-hub-desktop) | 0.2.0 | 0 | Versioned AgentHub SDK build resources |
+| 2026-11-28 02:04:58 | [elfldr](https://crates.io/crates/elfldr) | 0.0.0 | 0 | no_std loader for static ELF executables, for kernels (in development) |
+| 2026-11-28 02:09:10 | [speedyspec-wp-options-contracts](https://crates.io/crates/speedyspec-wp-options-contracts) | 0.1.0 | 0 | WordPress's options API contracts: the option API other seams call, its errors… |
+| 2026-11-28 02:16:03 | [yar-rs](https://crates.io/crates/yar-rs) | 0.1.0 | 0 | Rust implementation of the Yar RPC framework |
+| 2026-11-28 02:19:21 | [sunaba](https://crates.io/crates/sunaba) | 0.1.0 | 0 | A process's sandbox: on Linux, Landlock and seccomp-bpf, and on macOS, Seatbelt… |
 
 ## Data source
 

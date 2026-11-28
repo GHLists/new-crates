@@ -1,0 +1,24 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-28T01:21:37.010341Z,mcp-backbone,0.1.2,0,0,https://github.com/Nat1anWasTaken/mcp-backbone,"Backbone for remote MCP servers that act as a user's account: OAuth 2.1, a permission dashboard API, a tool pipeline with an approval outbox, and a call log"
+2026-11-28T01:22:09.249618Z,rentnerproxy-artifacts,1.0.0,0,0,https://github.com/RentnerProxy/app-sdk,"Bounded JSON, file and stream helpers for verifying RentnerProxy app artifacts"
+2026-11-28T01:22:34.790902Z,rentnerproxy-app-contracts,1.0.0,0,0,https://github.com/RentnerProxy/app-sdk,Versioned RentnerProxy app contract types and offline validators
+2026-11-28T01:22:51.823894Z,rentnerproxy-app-catalog,1.0.0,0,0,https://github.com/RentnerProxy/app-sdk,Verify and update signed RentnerProxy app catalogs
+2026-11-28T01:23:03.533749Z,rentnerproxy-app-pipeline,1.0.0,0,0,https://github.com/RentnerProxy/app-sdk,"Package, evidence and smoke-probe operations for RentnerProxy app releases"
+2026-11-28T01:23:56.186921Z,lockpick-engine,0.1.0,0,0,https://github.com/lockpickhq/lockpick,"Lockpick scanning engine: finds, proves and fixes security holes in AI-built apps"
+2026-11-28T01:23:58.004443Z,lockpick-cli,0.1.0,0,0,https://github.com/lockpickhq/lockpick,We pick your app's locks before attackers do. Security scanner for AI-built apps.
+2026-11-28T01:24:35.640511Z,ide,0.1.1,0,0,https://github.com/ross-oliveira/ide,"Keyboard-only terminal workspace: your editor, git UI, dev servers and shells as tabs in one terminal"
+2026-11-28T01:27:46.101426Z,epistemologicant-record,0.0.8,0,0,https://github.com/ThinkersJournal/epistemologicant,"Source record: per-source, per-topic reliability from observed outcomes, shrunk toward a baseline while evidence is thin, recency-weighted so a source can recover"
+2026-11-28T01:30:31.482095Z,crisol-core,1.0.0,0,0,https://github.com/jigonzalez930209/crisol,"Crisol core: an egui-free data model, themes, metrics, localization, commands, state, and storage."
+2026-11-28T01:33:58.071982Z,muss-core,0.1.0,0,0,https://github.com/Smart-Offices-Inc/muss,"Shared Microsoft 365 primitives for the muss workspace: tenant identity, credential providers, audience-separated token clients, bounded transport, the error taxonomy, idempotency keys, secret redact…"
+2026-11-28T01:34:24.636112Z,muss-teams,0.1.0,0,0,https://github.com/Smart-Offices-Inc/muss,"An approachable, framework-neutral Microsoft Teams SDK for Rust: authenticated bot activities, interactive Adaptive Cards, proactive notifications, Graph notifications, dialogs, extensions, SSO and a…"
+2026-11-28T01:34:38.284016Z,muss-teams-cli,0.1.0,0,0,https://github.com/Smart-Offices-Inc/muss,"Optional companion command-line tool for the muss-teams SDK: scaffold a project, validate an app manifest, package a Teams app and diagnose configuration."
+2026-11-28T01:37:23.232603Z,bengara-macros,0.1.0-alpha.1,0,0,https://github.com/bengara-rs/bengara-rs,bengara の手続きマクロ（#[bengara::test] など）
+2026-11-28T01:37:25.452917Z,bengara-build,0.1.0-alpha.1,0,0,https://github.com/bengara-rs/bengara-rs,bengara の build.rs 用。Laravel と同じ名前のファイルを自動検出してモジュール宣言を生成する（依存クレートなし）
+2026-11-28T01:37:46.26317Z,bengara,0.1.0-alpha.1,0,0,https://github.com/bengara-rs/bengara-rs,Laravel の構成とそのままの書き味で使える Rust 製 Web アプリケーションフレームワーク
+2026-11-28T01:50:43.218319Z,japka,0.1.1,0,0,https://github.com/dperox/japka,"HTTP reverse proxy, load balancer and static file server"
+2026-11-28T02:02:02.815571Z,agent-hub-fonts,0.2.0,0,0,https://github.com/JTBlink/agent-hub,Versioned AgentHub SDK build resources
+2026-11-28T02:02:06.612232Z,agent-hub-desktop,0.2.0,0,0,https://github.com/JTBlink/agent-hub,Versioned AgentHub SDK build resources
+2026-11-28T02:04:58.49669Z,elfldr,0.0.0,0,0,https://github.com/llp42/elfldr,"no_std loader for static ELF executables, for kernels (in development)"
+2026-11-28T02:09:10.833492Z,speedyspec-wp-options-contracts,0.1.0,0,0,https://github.com/SpeedySpec/speedyspec-platform,"WordPress's options API contracts: the option API other seams call, its errors and the typed reader."
+2026-11-28T02:16:03.316724Z,yar-rs,0.1.0,0,0,https://github.com/lovelock/yar-rs,Rust implementation of the Yar RPC framework
+2026-11-28T02:19:21.206244Z,sunaba,0.1.0,0,0,https://github.com/wusyong/sunaba,"A process's sandbox: on Linux, Landlock and seccomp-bpf, and on macOS, Seatbelt, entered by the process itself as it starts; on Windows, an app container, a job and mitigations, given as the process…"
