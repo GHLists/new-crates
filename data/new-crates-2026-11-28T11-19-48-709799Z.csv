@@ -1,0 +1,31 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-28T10:25:03.531089Z,leptoskit_admin,0.0.0,0,0,https://github.com/leptoskit/leptoskit,Placeholder crate published by monochange
+2026-11-28T10:31:20.918029Z,hullkit,0.0.1,0,0,,"Developer CLI for Hullkit: scaffold, build, test and publish CLIs and WebAssembly plugins (in development)"
+2026-11-28T10:31:28.04693Z,hullkit-core,0.0.1,0,0,,"Host runtime for Hullkit CLIs: config, plugin registry, command routing and hooks (in development)"
+2026-11-28T10:31:33.259382Z,hullkit-sdk,0.0.1,0,0,,Rust SDK for writing Hullkit WebAssembly plugins (in development)
+2026-11-28T10:31:38.500048Z,hullkit-wit,0.0.1,0,0,,The hullkit:plugin WIT contract between Hullkit hosts and plugins (in development)
+2026-11-28T10:35:13.53022Z,leptoskit_admin_pages,0.0.0,0,0,https://github.com/leptoskit/leptoskit,Placeholder crate published by monochange
+2026-11-28T10:36:58.328096Z,embedded-trig-fixed,0.1.0,0,0,https://github.com/jorgeandrecastro/embedded-trig-fixed,"sin, cos, tan, asin, acos, atan, atan2 in Q16.16 fixed-point for no_std embedded, no FPU needed (Q15 sqrt via embedded-sqrt)"
+2026-11-28T10:39:35.37803Z,siftx12,0.1.0,0,0,,"A memory-safe, ergonomic, and security-hardened DirectX 12 frontend for Rust on Windows."
+2026-11-28T10:41:02.846997Z,fairmark-core,0.1.0-alpha.1,0,0,https://github.com/salvo8519/fairmark,"Deterministic valuation engine: decimal-exact time value of money, DCF and auditable results."
+2026-11-28T10:41:04.561297Z,fairmark-cli,0.1.0-alpha.1,0,0,https://github.com/salvo8519/fairmark,"Command-line interface to the Fairmark deterministic valuation engine (JSON in, JSON out)."
+2026-11-28T10:42:15.900669Z,tpt-appfront-canvas-3d,0.2.0,0,0,https://github.com/tpt-solutions/tpt-appfront,3D viewport contract for TPT AppFront: the SceneDelegate trait that lets an external 3D engine drive a viewport.
+2026-11-28T10:43:51.709252Z,iris-herald,0.0.1,0,0,https://github.com/lcsavb/iris,Iris Herald: outbox messenger. Placeholder release; real functionality coming soon.
+2026-11-28T10:44:31.592133Z,rust-git,0.1.0,0,0,https://tee-git.com/hacer-bark/rust-git,"Pure-Rust Git for servers and clients: objects, packs, the smart protocol, history, diffs, blame and archives, over storage you provide"
+2026-11-28T10:45:23.538392Z,leptoskit_analytics_macros,0.0.0,0,0,https://github.com/leptoskit/leptoskit,Placeholder crate published by monochange
+2026-11-28T10:47:19.371081Z,tpt-appfront-test,0.2.0,0,0,https://github.com/tpt-solutions/tpt-appfront,"Headless test harness for TPT AppFront UI trees: find nodes, click, type, assert emitted messages, and lint a11y/AI affordances."
+2026-11-28T10:49:52.514968Z,spurline,0.1.0,0,0,https://github.com/whosdrix/spurline,"Give every git worktree its own ports, databases and .env, so parallel coding agents stop colliding"
+2026-11-28T10:53:11.926058Z,tpt-appfront,0.2.0,0,0,https://github.com/tpt-solutions/tpt-appfront,"Umbrella crate for TPT AppFront: one UITree, many backends behind feature flags, with a prelude."
+2026-11-28T10:54:21.18748Z,ilano,0.1.0,0,0,https://github.com/0n4li/ilano,Coming Soon!
+2026-11-28T10:55:33.302075Z,leptoskit_notifications,0.0.0,0,0,https://github.com/leptoskit/leptoskit,Placeholder crate published by monochange
+2026-11-28T11:04:27.920262Z,wwise-waapi,0.1.1,0,0,https://github.com/SpektakelAudio/rust-waapi-client,"Async, typed Rust client for the Wwise Authoring API (WAAPI)"
+2026-11-28T11:05:43.53805Z,leptoskit_platform_horizon,0.0.0,0,0,https://github.com/leptoskit/leptoskit,Placeholder crate published by monochange
+2026-11-28T11:10:28.911218Z,kxed-chitchat,0.0.1-alpha,0,0,https://github.com/StringKe/kxed,Hardened Scuttlebutt gossip membership runtime fork maintained for kxed
+2026-11-28T11:11:09.000359Z,kxed-fred,0.0.1-alpha,0,0,https://github.com/StringKe/kxed,Async Redis and Valkey client fork maintained for kxed
+2026-11-28T11:11:58.89111Z,kxed-sea-orm,0.0.1-alpha,0,0,https://github.com/StringKe/kxed,Async SQL ORM fork with RFC 3339 time integration maintained for kxed
+2026-11-28T11:15:53.530475Z,leptoskit_plugin_app_usage,0.0.0,0,0,https://github.com/leptoskit/leptoskit,Placeholder crate published by monochange
+2026-11-28T11:18:24.10886Z,kxed-sea-orm-migration,0.0.1-alpha,0,0,https://github.com/StringKe/kxed,Schema migration runtime for kxed-sea-orm
+2026-11-28T11:18:34.941518Z,kxed-duration,0.0.1-alpha,0,0,https://github.com/StringKe/kxed,Human-readable duration literals and RFC 3339 timestamp formatting for kxed
+2026-11-28T11:19:12.195544Z,okiro-core,1.0.0,0,0,https://github.com/eRgo35/okiro,"Core library for okiro: config parsing, host resolution, trait-based I/O and the command implementations."
+2026-11-28T11:19:13.869063Z,okiro,1.0.0,0,0,https://github.com/eRgo35/okiro,"okiro (起きろ) — small CLI to wake, check, reach and power off your machines (Wake-on-LAN, ping, ssh, browse)."
+2026-11-28T11:19:16.408434Z,rusterpret,0.0.0,0,0,https://github.com/LEVOGNE/rusterpret,Reserved name for the Rust interpreter of the RustLive project. No code yet.
