@@ -1,0 +1,20 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-28T05:29:55.247729Z,skyworks-hybrid,0.1.0,0,0,https://github.com/JidouGhost-TL/skyworks-hybrid-rs,"Clean-room no_std parser, sequence decoder, software synthesizers, WAV16 exporter, and SF2 2.04 builder for the Destination / Skyworks 10.5 kHz Hybrid PSG+PCM GBA audio engine"
+2026-11-28T05:30:05.427757Z,webfoot-audio,0.1.0,0,0,https://github.com/JidouGhost-TL/webfoot-audio-rs,"Clean-room no_std parser, software synthesizers, pattern decoder, WAV16 exporter, and SF2 2.04 builder for the Webfoot Technologies GBA Stereo DirectSound audio engine"
+2026-11-28T05:30:15.752824Z,skyworks-pcm-stream,0.1.0,0,0,https://github.com/JidouGhost-TL/skyworks-pcm-stream-rs,"Clean-room no_std parser, software synthesizers, WAV16 exporter, and SoundFont 2.04 builder for the Skyworks GBA 4-Channel DirectSound A Streaming PCM Mixer"
+2026-11-28T05:30:24.123327Z,gambih,0.1.0-alpha.1,0,0,https://codeberg.org/kapin/gambih,rng
+2026-11-28T05:31:49.231387Z,tensorplot-rs,0.1.0,0,0,https://github.com/kaanrkaraman/tensorplot,"Neural network architecture diagrams for papers — CNNs to LLMs (TikZ, SVG, PNG, PDF)"
+2026-11-28T05:35:37.359253Z,u0ui,0.2.1,0,0,https://github.com/u0-code/gpui-u0ui,Carbon UI: IBM Carbon v11 visuals with a shadcn-style API for GPUI Kit
+2026-11-28T05:36:42.24354Z,rtemis-r8-io,0.6.0,0,0,https://github.com/rtemis-org/r8,"Readers and writers of table files for the R8 type system: CSV and Parquet, cells read as declared types, with every cell that does not read"
+2026-11-28T05:40:05.719492Z,compushady,1.0.0-alpha.1,0,0,https://github.com/rdeioris/compushady,"Run GPU compute (and graphics) shaders on D3D12, Vulkan, Metal and WebGPU with a tiny API"
+2026-11-28T05:42:09.000594Z,latred,0.1.0,0,0,https://github.com/etairi/latred,Fast lattice basis reduction
+2026-11-28T05:42:10.88506Z,latred-cli,0.1.0,0,0,https://github.com/etairi/latred,Command-line tool for the latred lattice reduction library
+2026-11-28T05:46:40.320585Z,tilo-local-time,0.5.3,0,0,https://code.tilo.so/tilo/tilo,"The clock as a person reads it on a device or page: their zone, local date and time, and whether the device's clock is synchronised."
+2026-11-28T05:47:49.096989Z,aethelgard-hwdef,0.3.0,0,0,https://github.com/ClearForge-LLC/aethelgard,"Aethelgard's ArduPilot board definition: hwdef.dat for unmodified ArduPilot, generated from the solved topology and the parts tables alone."
+2026-11-28T05:52:41.040212Z,tilo-permissions,0.5.3,0,0,https://code.tilo.so/tilo/tilo,"Who may do what in a workspace as a window asks it: the permission context over the workspace's grants and an app's sandbox, and what the host says of the actions a window shows."
+2026-11-28T05:55:46.079395Z,dcim-ingest,0.1.0,0,0,https://github.com/aamirsahmad/dcim-ingest,Automatically imports and organizes photos and videos from Sony A7IV (and other) SD cards by date
+2026-11-28T05:59:33.80171Z,moru-net,0.1.0,0,0,https://github.com/nanticj/moru-net,"Rust library for network servers, clients and daemons: REST / WebSocket, TCP / UDP, plus decimal and time primitives."
+2026-11-28T06:02:27.500854Z,arc-contracts,0.1.0,0,0,https://gitcode.com/lsd-apps/RXStudio,Arc Studio IDE 纯内核 —— 错误 / 同步 / 纯数据；无 gpui、无 DI 容器
+2026-11-28T06:02:50.228491Z,arc-wasm-sdk,0.1.0,0,0,https://gitcode.com/lsd-apps/RXStudio,"Arc Studio WASM extension author SDK: contract types (`api`), WIT package text (`wit`), extension trait / capability ports and native test harness (`testing`)"
+2026-11-28T06:04:42.748955Z,moru-quant,0.1.0,0,0,https://github.com/nanticj/moru-quant,"Rust library for quantitative finance and derivatives valuation: option pricing, implied volatility, Greeks, yield curves, and finite-difference / Monte Carlo engines."
+2026-11-28T06:15:39.532066Z,bencat,0.1.0,0,0,https://github.com/Internal-Compiler-Error/juicy_bencode,"Pretty-print and query bencode (.torrent files), like jq"
